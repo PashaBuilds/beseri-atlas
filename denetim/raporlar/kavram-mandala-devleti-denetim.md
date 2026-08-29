@@ -1,5 +1,5 @@
 ## kavram-mandala-devleti
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:26.223Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:11.672Z_
 
 - [ATOMSUZ] k1 → "Kaynak, dışlayıcı olmama diye ayrı bir bölüm tutar ve efendi-haraçgüzar ilişkisinin zorunlu olarak dışlayıcı o…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak, haraç ödeyen hükümdarın güçlü güçleri birbirine karşı oynayarak her birinin müdahalesini en aza indire…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

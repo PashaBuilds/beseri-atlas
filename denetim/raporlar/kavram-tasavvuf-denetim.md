@@ -1,5 +1,5 @@
 ## kavram-tasavvuf
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:26.850Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:12.316Z_
 
 - [OK]      k1 → "Kaynak kavramı şöyle tanımlar: İslâm'ın zâhir ve bâtın hükümleri çerçevesinde yaşanan mânevî ve derunî hayat t…"
 - [ATOMSUZ] k1 → "Kaynağın kavramı hayat tarzı olarak tanımlaması, atlasın şu kuralının dayanağıdır: bu dosyada tasavvuf, bir do…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

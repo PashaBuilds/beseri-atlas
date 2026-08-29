@@ -1,5 +1,5 @@
 ## donem-10
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:13.220Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:47:58.096Z_
 
 - [OK]      k1 → "Aydınlanma, Avrupa'da ve Batı uygarlığında düşünsel ve kültürel bir serpilme dönemiydi ve "Akıl Çağı" adıyla d…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Hareketin savunduğu ilkeler arasında kilise ile devletin ayrılması ve akılcı ilkelerin toplumsal ve siyasi ref…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

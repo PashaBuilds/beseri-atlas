@@ -1,5 +1,5 @@
 ## aktor-indus-vadisi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:20.816Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:05.938Z_
 
 - [OK]      k1 → "İndus Vadisi Uygarlığı, bugünkü Pakistan ve kuzeybatı Hindistan'ı kapsayan nehir havzasında kurulmuş bir kent …"
 - [OK]      k2 → "İndus Vadisi Uygarlığı, bugünkü Pakistan ve kuzeybatı Hindistan'ı kapsayan nehir havzasında kurulmuş bir kent …" — 1 atom doğrulandı; 3 ad ölçülemedi

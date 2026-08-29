@@ -1,5 +1,5 @@
 ## kavram-kast
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:25.818Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:11.242Z_
 
 - [ATOMSUZ] k1 → "Bu alanda üç ayrı terim kullanılır ve atlas bunları birbirinin çevirisi saymaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "İkincisi, gündelik hayatta işleyen birimdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

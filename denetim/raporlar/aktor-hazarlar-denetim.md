@@ -1,5 +1,5 @@
 ## aktor-hazarlar
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:20.564Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:05.682Z_
 
 - [OK]      k1 → "Hazarlar, yedinci yüzyıl ortasından onuncu yüzyıl sonuna kadar Volga'nın aşağı havzası ile Kafkasların kuzeyi …"
 - [ATOMSUZ] k2 → "Kağanlığın denetlediği alan, kuzey ile güney arasındaki ticaret yollarının üzerindeydi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

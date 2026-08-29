@@ -1,5 +1,5 @@
 ## tartisma-feodalite-kavrami
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:21:09.306Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:13.398Z_
 
 - [OK]      k6 → "Karşılaştırmalı feodalite derlemesinin giriş denemesinde Joseph Strayer ile Rushton Coulborn bunu bir cümleyle…"
 - [ATOMSUZ] k4 → "Brown aynı saptamayı daha erken bir tarihe bağlar: kurgu on yedinci yüzyılda kurulmuş, o günden beri hukukçula…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

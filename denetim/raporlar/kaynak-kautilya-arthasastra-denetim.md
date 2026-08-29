@@ -1,5 +1,5 @@
 ## kaynak-kautilya-arthasastra
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.744Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:17.178Z_
 
 - [ATOMSUZ] k1 → "Arthaşastra, bir devletin nasıl kurulacağını ve ayakta tutulacağını konu edinen, el kitabı düzeninde yazılmış …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Arthaşastra, bir devletin nasıl kurulacağını ve ayakta tutulacağını konu edinen, el kitabı düzeninde yazılmış …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

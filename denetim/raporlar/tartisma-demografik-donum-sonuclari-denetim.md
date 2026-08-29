@@ -1,5 +1,5 @@
 ## tartisma-demografik-donum-sonuclari
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.559Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:13.272Z_
 
 - [ATOMSUZ] k1 → "Kaynak, demografik geçişi toplumsal bilimlerdeki — özellikle demografideki — bir olgu ve bir kuram olarak tanı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak, geçişin son iki yüzyılda dünyanın çoğunda gerçekleştiğini; Malthus sonrası dönemin benzeri görülmemiş …"

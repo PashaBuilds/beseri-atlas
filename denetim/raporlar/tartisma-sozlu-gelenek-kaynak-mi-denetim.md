@@ -1,5 +1,5 @@
 ## tartisma-sozlu-gelenek-kaynak-mi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T23:38:44.826Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:14.787Z_
 
 - [ATOMSUZ] k3 → "Sözlü gelenek, bir topluluğun geçmişine dair bilgiyi yazıya değil belleğe, kalıba ve tekrara emanet eden aktar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k9 → "Sözlü gelenek, bir topluluğun geçmişine dair bilgiyi yazıya değil belleğe, kalıba ve tekrara emanet eden aktar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

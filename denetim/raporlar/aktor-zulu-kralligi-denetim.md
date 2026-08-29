@@ -1,5 +1,5 @@
 ## aktor-zulu-kralligi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:23.073Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:08.376Z_
 
 - [OK]      k1 → "Zulu Krallığı, on dokuzuncu yüzyıl başında Güney Afrika'nın doğu kesiminde kurulan ve yüzyıl sonunda ortadan k…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k2 → "Krallık, yaş gruplarına dayanan sürekli birliklerle örgütlenmiş bir orduya sahipti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

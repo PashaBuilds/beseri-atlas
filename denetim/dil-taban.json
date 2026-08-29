@@ -1,6 +1,6 @@
 {
   "aciklama": "KAPI 18 dil borcu defteri. Kapinin devreye girdigi andaki kalip gecis sayilari. Yalnizca --dil-taban-yaz ile ve yalnizca asagi yonde guncellenir; onarim borcu eritir, defter borcu gizleyemez.",
-  "zaman": "2026-08-29T04:21:10.090Z",
+  "zaman": "2026-08-29T09:07:35.481Z",
   "makaleler": {
     "donem-01": {
       "atlas_oz": 39,
@@ -2156,12 +2156,6 @@
       "ayrica_kaydeder": 0,
       "sablon_kapanis": 0
     },
-    "tartisma-aydinlanmanin-sinirlari": {
-      "atlas_oz": 2,
-      "bu_dosya": 1,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 0
-    },
     "tartisma-belge-ne-zaman-yururlukte": {
       "atlas_oz": 20,
       "bu_dosya": 5,
@@ -2180,12 +2174,6 @@
       "ayrica_kaydeder": 0,
       "sablon_kapanis": 0
     },
-    "tartisma-eksen-cagi-gercek-mi": {
-      "atlas_oz": 1,
-      "bu_dosya": 0,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 0
-    },
     "tartisma-fransiz-devrimi-yorumlari": {
       "atlas_oz": 2,
       "bu_dosya": 0,
@@ -2198,18 +2186,6 @@
       "ayrica_kaydeder": 0,
       "sablon_kapanis": 0
     },
-    "tartisma-ikinci-dunya-savasi-sorumlulugu": {
-      "atlas_oz": 3,
-      "bu_dosya": 0,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 0
-    },
-    "tartisma-imparatorluk-siniri-nasil-cizilir": {
-      "atlas_oz": 2,
-      "bu_dosya": 0,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 0
-    },
     "tartisma-kalkinma-yardimi-ise-yariyor-mu": {
       "atlas_oz": 2,
       "bu_dosya": 1,
@@ -2217,18 +2193,6 @@
       "sablon_kapanis": 0
     },
     "tartisma-karsi-olgusal-tarih": {
-      "atlas_oz": 3,
-      "bu_dosya": 0,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 0
-    },
-    "tartisma-kesif-mi-istila-mi": {
-      "atlas_oz": 3,
-      "bu_dosya": 1,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 0
-    },
-    "tartisma-mogol-etkisi": {
       "atlas_oz": 3,
       "bu_dosya": 0,
       "ayrica_kaydeder": 0,
@@ -2246,21 +2210,9 @@
       "ayrica_kaydeder": 0,
       "sablon_kapanis": 0
     },
-    "tartisma-romanin-cokus-nedeni": {
-      "atlas_oz": 1,
-      "bu_dosya": 0,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 0
-    },
     "tartisma-sanayi-devrimi-neden-ingiltere": {
       "atlas_oz": 3,
       "bu_dosya": 3,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 0
-    },
-    "tartisma-soguk-savasin-baslangici": {
-      "atlas_oz": 3,
-      "bu_dosya": 2,
       "ayrica_kaydeder": 0,
       "sablon_kapanis": 0
     },
@@ -2272,18 +2224,6 @@
     },
     "tartisma-tarihsel-sayilar-nasil-okunur": {
       "atlas_oz": 2,
-      "bu_dosya": 0,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 0
-    },
-    "tartisma-tarim-devrimi-neden": {
-      "atlas_oz": 2,
-      "bu_dosya": 0,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 0
-    },
-    "tartisma-teknolojik-belirlenimcilik": {
-      "atlas_oz": 3,
       "bu_dosya": 0,
       "ayrica_kaydeder": 0,
       "sablon_kapanis": 0

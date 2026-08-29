@@ -1,5 +1,5 @@
 ## tartisma-1929-krizinin-nedeni
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.320Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:12.787Z_
 
 - [ATOMSUZ] k1 → "Bu haritanın çıkış noktası kaynağın içindekiler yapısıdır: nedenler tek bir listede değil, ayrı katmanlarda du…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak, genel kuramsal muhakeme başlığını ikiye ayırır: ana akım kuramlar ve heterodoks kuramlar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

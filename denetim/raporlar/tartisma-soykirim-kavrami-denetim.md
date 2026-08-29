@@ -1,5 +1,5 @@
 ## tartisma-soykirim-kavrami
-_Geçiş 2 — kaynak denetimi · 2026-08-29T03:59:51.107Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:14.587Z_
 
 - [OK]      k1 → "1948 tarihli Soykırım Sözleşmesi'nin tanımı dört grup türü ve özel bir kast şartıyla sınırlıdır; akademik yazı…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k4 → "1948 tarihli Soykırım Sözleşmesi'nin tanımı dört grup türü ve özel bir kast şartıyla sınırlıdır; akademik yazı…" — 1 atom doğrulandı; 2 ad ölçülemedi

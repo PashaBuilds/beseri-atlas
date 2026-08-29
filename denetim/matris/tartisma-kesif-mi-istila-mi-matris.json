@@ -1,0 +1,479 @@
+{
+  "id": "tartisma-kesif-mi-istila-mi",
+  "govde_hash": "2694f58ce913",
+  "commit": "58a10ea",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Üç ad da aynı olayları anlatır ama her biri başka bir fail, başka bir mağdur ve başka bir sorumluluk önerir; sömürge yönetiminin meşruluğu üzerine süren tartışma da büyük ölçüde bu adlar üzerinden yürümüştür.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "SEP maddesi mesruiyet tartismasini ve adlandirma/gerekcelendirme dilini aktarir; adlar-uzerinden-yurume genellemesi yazarin cercevesi"
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Keşif sözcüğü on dokuzuncu yüzyılda tapu üreten bir hukuk ilkesine ad olmuş, fetih sözcüğü destan diliyle yerleşmiş, yıkım sözcüğü çağdaş tanıklığın kendi başlığında durmuştur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k9: discovery gave title formulu; k4: Prescott onsozunun romans cercevesi; k3: Destruction of the Indies basligi"
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "1493 tarihli, Aragon maliye görevlisi Luis de Santángel'e gönderilen mektup, otuz üç günde Hint adalarına ulaştığını, kalabalık nüfuslu pek çok ada bulduğunu ve direnişle karşılaşmadan hepsine Kral ile Kraliçe adına el koyduğunu yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "in thirty-three days I reached the Indies; very many islands thickly peopled; of all which I took possession without resistance — ceviri metninde"
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Mektup gördüğü yerleri yeniden adlandırır da: yazar, kıyısını izlediği büyük adaya La Española adını verdiğini, adaları Majestelerinin dilediği gibi tasarruf edebileceğini kendisi söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "to which I gave the name of La Española; so that they can dispose of them quite as absolutely"
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Mektubun bulma dilinde bile kayıt ikilidir: adaların yoğun biçimde meskûn olduğunu metnin kendisi yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "islands thickly peopled ifadesi metinde"
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Kapanış vaatleri de aynı belgededir: yazar, Majestelerine istedikleri kadar altın, baharat, pamuk ve — gönderilmesini buyurdukları kadar — köle sağlayabileceğini bildirir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "all the gold they require; spices also, and cotton; slaves, as many of these idolators as their Highnesses shall command to be shipped"
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "1843'te yayımlanan History of the Conquest of Mexico, konusunu okuruna \"The subversion of a great empire by a handful of adventurers\" cümlesiyle tanıtır; Prescott'a göre bu tema, ciddi tarihten çok romans havası taşır ve hayal gücünü çarpan bir manzara sunar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onsoz: no one more striking to the imagination than the conquest of Mexico ... air of romance rather than of sober history"
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Aynı önsöz fethin kendisini, şövalye ozanlarının kurduğu efsaneler kadar serüvenli ve romantik bulur; anlatının amacı bu fethin ve onu gerçekleştiren dikkate değer adamın tarihini sergilemek olarak açıklanır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "adventurous and romantic as any legend devised by Norman or Italian bard of chivalry; purpose ... to exhibit the history of this Conquest, and that of the remarkable man by whom it was achieved"
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Ad ile ton birlikte yerleşti: fetih, bir avuç istisnai adamın destanı olarak anlatıldıkça kahramanlık çerçevesinin başlığı hâline geldi.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Prescott metni bu tonun ornegidir; gelenege genelleme yazarin cikarimi, Restall'in mit dokumu (i010) ayni yonde"
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Matthew Restall'ın 2003 tarihli Seven Myths of the Spanish Conquest kitabı, istisnai adamlar mitini, beyaz fatih mitini ve fethin tamamlandığı mitini ayrı bölümler hâlinde inceler; kitabın tanıtımına göre seferler, sayıca fatihleri kat kat aşan yerli ve siyah müttefiklere yaslanmıştır ve yerli algısında olay İspanyol anlatısından keskin biçimde ayrılır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog sayfasindaki bolum listesi (myth of exceptional men / white conquistador / completion) ve yayinci tanitimi (relied heavily on black and native allies ... vastly outnumbering); katalog kuralina gore kismi"
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Bartolomé de las Casas'ın 1552'de Sevilla'da basılan kitabı, Brevísima relación de la destrucción de las Indias, yıkım sözcüğünü başlığa koyar; erken İngilizce çevirisi A Brief Account of the Destruction of the Indies adıyla dolaşımdadır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Gutenberg notu: originally published in Seville in 1552; baslik metnin kendisinde"
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Metin, adaların nasıl boşaltıldığını bölge bölge anlatır ve İspanya'dan geniş on krallık büyüklüğünde toprağın ıssız bırakıldığını ileri sürer.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "absolutely depopulated Ten Kingdoms, of greater extent than all Spain"
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Las Casas'ın sayıları davasının parçasıdır: Española'da üç milyon kişinin yaşadığını, geriye üç yüz kişilik bir bakiye kaldığını yazar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Three Millions of Persons ... scarce Three Hundred — sayilar acikca yazara atfedildi"
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Alfred W. Crosby'nin 1972'de yayımlanan The Columbian Exchange: Biological and Cultural Consequences of 1492 kitabı, olayı iki yarımküre arasında bitki, hayvan ve hastalık aktarımı olarak çerçeveledi; alt başlık, fail listesi yerine sonuç listesine bakar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog kaydi baslik, alt baslik ve yayim yilini tasir; icerik ozeti baslik duzeyinde kalir, bu yuzden kismi"
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Karşılaşma ve değiş tokuş gibi ara adlar bu çerçeveden türedi; sözcüklerin ima ettiği simetrinin, yükü kimin taşıdığı sorusunu örtüp örtmediği ise pozisyon tablosundaki itirazın konusudur.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Exchange sozcugunun ceviri karsiligi uzerinden kurulan yorum cumlesi; ayrica pozisyon tablosuna gonderme"
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Alfred Kroeber'in 1939'da yarımkürenin tamamı için verdiği 8,4 milyonluk tahmin gibi düşük sayılar, kayda göre çoğu kez Avrupalıların kültürel ve ırksal üstünlük kabullerini yansıtıyordu; tarihçi Francis Jennings bu geleneği, yerlilerin büyük nüfuslar kurmuş olamayacağı yolundaki yerleşik akademik kanıya bağlar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kroeber in 1939 ... 8.4 million; often reflective of European notions of cultural and racial superiority; Jennings alintisi maddede"
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Düşük tahminler 1960'lara kadar yaygın kabul gördü; o on yılda antropolog Henry Dobyns, tarihsel ve arkeolojik veriyi birlikte kullanarak temas öncesi nüfusun 100 milyonu aşmış olabileceğini, bugünkü Birleşik Devletler ile Kanada toprakları için 9 ila 12 milyon sayılması gerektiğini ileri sürdü ve geniş bir akademik kavga başlattı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Most scholars held these lower estimates as factual until the 1960s; possibly over 100 million, including up to 9-12 million in what is now the US and Canada, setting off significant academic debate"
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Karşı kutup 1998'de kitaplaştı: tarihçi David Henige, Numbers from Nowhere başlıklı incelemesinde, tahminlerin çoğunun güvenilmez kaynaklara uygulanan keyfi formüllerden türediğini savundu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: In 1998 ... David Henige claimed that many population estimates are the result of arbitrary formulas applied from unreliable sources; k6 katalog baslik ve yili dogrular"
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Yakın dönem tahminlerinin çoğu 45 ile 60 milyon kişi arasına düşer; aralığın genişliği, sayının kendisinden çok yöntem seçimini yansıtır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Most newer estimates ... fall between 45 and 60 million; ikinci yarim cumle yorumdur"
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Düşüşün kendisi için kayıt, hastalıkları, yerleşimcilerle müttefiklerinin doğrudan şiddetini ve toplumsal düzenin bozulmasını birlikte sayar; her etkenin payı üzerine akademik anlaşmazlığın sürdüğünü ve kimi çağdaş araştırmacıların bu düşüşü soykırım olarak sınıflandırdığını aynı kayıt aktarır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "diseases ... direct violence by settlers and their allies ... general disruption of societies; scholarly disputes remain; some modern scholars have categorized it as a genocide"
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Zamanlama ayrıntısı adlandırma için önemlidir: aynı kayıtta aktarıldığına göre tarihçi Andrés Reséndez, çiçek hastalığının Amerika kıtalarında anılmasının 1519 öncesine gitmediğine işaret eder; Antiller'in o tarihe kadarki boşalmasında zorla çalıştırma, sert ceza ve yaşam koşullarının yetersizliği başlıca etkenler olarak sayılır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Andres Resendez ... points out that ... no mention of them in the New World until 1519; forced labor, brutal punishment, and inadequate necessities of life, were the initial and major reasons for depopulation — hakem duzeltmesi: kayda duzlestirilen saptama Resendez'e adla atfedildi (kor-hakem-2026-08-29, fetch ile dogrulandi)"
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Aynı kayıtta aktarılan bir tahmine göre madenlerde zorla çalıştırılan Arawak işçilerinin üçte biri her altı ayda bir ölüyordu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Jason Hickel estimates that a third of Arawak workers died every six months from forced labor in these mines — tahmin sahibine 'aktarilan bir tahmin' olarak atfedildi"
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Birleşik Devletler Yüksek Mahkemesi, Johnson v. M'Intosh davasında verdiği kararda, Avrupa devletlerinin kendi aralarında benimsediği ilkeyi \"discovery gave title to the government\" cümlesiyle özetler: keşif, tapuyu keşfi yaptıran devlete verir; yerli halklara mülkiyet değil kullanım hakkı kalır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "discovery gave title to the government by whose subjects, or by whose authority, it was made; absolute ultimate title ... subject only to the Indian title of occupancy"
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Aynı karara göre fetih de fatihin mahkemelerinin adaletini tartışamayacağı bir tapu üretir; kararın kendi sözcük seçimi, keşif ile fetih adlarının hukuk dilinde birbirini tamamladığını gösteren bir örnektir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Conquest gives a title which the Courts of the conqueror cannot deny; ikinci yarim cumle yorumdur"
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Stanford Felsefe Ansiklopedisi'nin sömürgecilik maddesine göre İspanyol fatihleri ve yerleşimcileri, Amerika kıtalarındaki faaliyetlerini yerli halklara Hristiyanlığı götürme misyonuyla gerekçelendirdi; askeri fetih, din değiştirmenin ve kurtuluşun aracı olarak meşrulaştırılıyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "explicitly justified their activities in the Americas in terms of a religious mission; legitimized military conquest as a way to facilitate the conversion and salvation"
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Aynı maddeye göre eleştiri de aynı yüzyılda başladı: Las Casas ile Francisco de Vitoria, İspanyol sömürge pratiğinin erken ve etkili eleştirmenleri arasında sayılır ve Vitoria, bütün insanların akıl yürütme yetisini paylaştığını, doğal haklar taşıdığını savunur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "two of the most influential critics of Spanish colonial practice; all human beings share the capacity for rationality and have natural rights — 'ayni yuzyilda' ifadesi baglamdan cikarim"
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Uluslararası Adalet Divanı, 16 Ekim 1975 tarihli Batı Sahra danışma görüşünde, bölgenin İspanyol sömürgeleştirmesi sırasında kimseye ait olmayan toprak sayılamayacağı sonucuna vardı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Advisory Opinion, delivered on 16 October 1975, the Court replied to Question I in the negative; soru terra nullius sorusudur"
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Vine Deloria Jr.'ın Custer Died for Your Sins: An Indian Manifesto adlı kitabı — arşiv kaydı 1971 baskısını tutar — alt başlığındaki manifesto sözcüğüyle anlatının öznesinin değişmesini talep eder; ad koyma işleminin kendisi burada bir egemenlik sorusudur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog baslik, alt baslik ve 1971 baskisini dogrular; talep/egemenlik okumasi alt basliktan cikarim, bu yuzden kismi"
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Beş yüzüncü yıl yaklaşırken kavga yayın başlıklarına taşındı: Kirkpatrick Sale'in 1990'da yayımlanan kitabı Kolomb mirasını The Conquest of Paradise adıyla anlatır ve başlık düzeyinde keşif yerine fethi seçer.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog: The conquest of paradise : Christopher Columbus and the Columbian legacy; Originally Published: New York, Knopf, 1990"
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Adın sonradanlığına dair bir kayıt da Restall'ın kataloğundan okunur: tanıtıma göre Kolomb, kendi çağında ve sonrasındaki on yıllarda kısa süre talihi yaver gitmiş sıradan bir katılımcı olarak görülüyordu; çağının cehaletine karşı savaşan büyük adam portresi çok daha sonra kuruldu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "briefly fortunate but unexceptional participant; It was only much later that Columbus was portrayed as a great man — yayinci tanitimi, katalog kuralina gore kismi"
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Keşif adının taşıdığı kahraman, bu okumaya göre olayın değil sonraki yüzyılların ürünüdür.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "i030'un yorum olarak yeniden ifadesi; okumaya acikca atfedildi"
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Temas öncesi nüfusun büyüklüğü, yöntem tartışması sürerken bir aralık olarak kalır; beş yüzüncü yılın takvim ve tören kavgası — resmî gün adlarına itirazlar, ara terim önerileri — bu haritada künyesiz kaldı ve doğrulanabilir kaynak bulunana kadar açık borçtur; adı koyma hakkının kime ait olduğu sorusu ise hukuk kanadında sürmektedir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k11",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozet/kapanis cumlesi; aralik saptamasi k1'e, hukuk kanadinin surdugu k11'in yerli dirilis aktarimina yaslanir; bes yuzuncu yil katmani acik borc olarak beyan edildi"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 21,
+    "kismi": 9,
+    "desteksiz": 0,
+    "olculemez": 2
+  }
+}

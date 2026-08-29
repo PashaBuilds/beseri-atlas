@@ -1,14 +1,53 @@
 ## tartisma-romanin-cokus-nedeni
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.207Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:00:04.139Z_
 
-- [OK]      k1 → "1984'te Alexander Demandt, Roma'nın neden çöktüğüne dair 210 farklı kuram saydı ve o tarihten sonra yeni kuram…"
-- [OK]      k1 → "Batı Roma İmparatorluğu'nun çöküşünün nedenleri ve mekanizmaları, tarihçi Edward Gibbon'ın 1776 tarihli kitabı…" — 4 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Gibbon'ın kendisi hem iç çöküş fikirlerini — iç savaşlar, siyasi, iktisadi, askerî ve diğer toplumsal kurumlar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, tarihçilerin vardığı sonuçların genellikle iki geniş okuldan birine ait olduğunu belirtir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Dönüşümü sebep olarak savunanlar, imparatorluğun "çöküşü" nosyonunun bütününe meydan okur ve belirli bir siyas…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bury'nin savunduğu okumada çöküş, birçoğu dönemin halklar göçüyle harekete geçirilmiş bir dizi olumsuz sürecin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Göçün ölçüsü de kayıtlıdır: Roma topraklarına yönelen toplam göç kabaca 500.000 ile 1.000.000'un üzerinde bir …"
-- [OK]      k3 → "yüzyıldaki çöküşünden sonra varlığını sürdürdü ve Konstantinopolis'in 1453'te Osmanlı İmparatorluğu'na düşmesi…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k4 → "Doğu kanadının sonunu getiren düzenin kendisi ayrı bir kurumsal tarihe sahiptir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Roma'nın çöküşü sorusu, cevaplarının sayısıyla tanınan bir tarih yazımı sorunudur: Alexander Demandt 1984'te, …" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Roma'nın çöküşü sorusu, cevaplarının sayısıyla tanınan bir tarih yazımı sorunudur: Alexander Demandt 1984'te, …" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Katalogda tanrıların terk edilişi, Bolşevikleşme, kadınların özgürleşmesi, ormansızlaşma ve gut hastalığı yan …" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Ahlaki çürüme, dış tehdit, mali tükeniş, çevresel darbe ve çöküşün aslında bir dönüşüm olduğu cevabı: modern g…"
+- [OK]      k1 → "Edward Gibbon 1776'da yayımlanmaya başlayan The History of the Decline and Fall of the Roman Empire ile soruyu…"
+- [OK]      k2 → "Kitabın açılışı, ikinci yüzyıl imparatorluğunu yeryüzünün en güzel bölümünü ve insanlığın en uygar kesimini ka…"
+- [OK]      k2 → "Gerilemenin başlangıcını Gibbon 180 yılına, Marcus Aurelius'un ölümünün ertesine yerleştirir; uzun barış, impa…"
+- [OK]      k1 → "Gerilemenin başlangıcını Gibbon 180 yılına, Marcus Aurelius'un ölümünün ertesine yerleştirir; uzun barış, impa…"
+- [ATOMSUZ] k1 → "Çöküş ona göre ölçüsüz büyüklüğün doğal ve kaçınılmaz meyvesiydi: refah çürümenin ilkesini olgunlaştırdı, feti…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Din faslını da en kısa kendisi özetlemişti: Gibbon'a göre anlattığı şey "barbarlığın ve dinin zaferi"ydi."
+- [OK]      k1 → "İki büyük kanat daha kaynak kitapta iç içeydi: Gibbon'ın kendisi hem iç çözülme fikirlerini — iç savaşları; si…"
+- [OK]      k1 → "Bury, 1889'da açılıp 1923'te genişleyen History of the Later Roman Empire'da ahlaki çürüme kuramına iki cevap …"
+- [OK]      k1 → "Bury'nin listesi somuttur: iktisadi gerileme, Germen yayılması, İtalya'da nüfusun seyrelmesi, orduda barbar bi…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k8 → "Got geleneğini derleyen Getica, Hunların ortaya çıkışını bir söylenceye bağlar: Jordanes'e göre Got kralı Fili…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k8 → "Aynı metin imparatorluğun ağır yenilgisini de Got tarafından anlatır: Trakya'daki savaşta yaralanan Valens, Ha…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k8 → "Zaferin ardından Vizigotlar, Jordanes'in anlatımıyla Trakya'yı "sanki kendi yurtlarıymış gibi" ellerinde tuttu…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k8 → "Metnin göç anlatısının bir bölümü, yayımına eklenen incelemenin gösterdiği gibi, çağdaş tanık Ammianus Marcell…"
+- [OK]      k8 → "Aynı tanıklık okuldan okula başka türlü okunur: klasik anlatı Jordanes'te yıkımın ve kaybedilen eyaletlerin ka…"
+- [OK]      k1 → "Kopuş yerine sürekliliği koyan çizginin kökü on dokuzuncu yüzyıla iner; Fustel de Coulanges, barbarların Roma …"
+- [OK]      k1 → "Henri Pirenne bu fikri 1920'lerde yayımlanan teziyle sürdürdü: barbarlar Roma'yı yıkmak için değil, nimetlerin…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Eleştirmenler bu tezin iki noktada hatalı olduğunu ileri sürdü: Karolenj düzenini bir Roma devleti gibi okumak…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Kaynağın öncüsü saydığı Peter Brown'un çevresinde toplanan tarihçiler, imparatorluğun düştüğü fikrinin kendisi…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Brown'un The World of Late Antiquity'si dönemi 150-750 olarak çizer ve kendini, Geç Antik dünyanın klasik uyga…"
+- [OK]      k1 → "Brown'un The World of Late Antiquity'si dönemi 150-750 olarak çizer ve kendini, Geç Antik dünyanın klasik uyga…"
+- [OK]      k5 → "Walter Goffart bu okuma içinde keskin bir tez savunur: 1980'de Princeton'dan çıkan Barbarians and Romans, 418-…"
+- [OK]      k1 → "Aynı damarın bir başka kolunu Lucien Musset temsil eder: onun incelemesinde Orta Çağ Avrupası, Greko-Romen dün…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Bryan Ward-Perkins, 2005 tarihli The Fall of Rome and the End of Civilization'da geleneksel görüşü modern bulg…"
+- [OK]      k6 → "Bryan Ward-Perkins, 2005 tarihli The Fall of Rome and the End of Civilization'da geleneksel görüşü modern bulg…"
+- [ATOMSUZ] k1 → "İstilalar eyaletlerdeki vergi tabanında uzun vadeli hasar bıraktı; geliri azalan merkez lejyonları ödeyip dona…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Çöküş olmadı diyen okulun aksine Ward-Perkins, eski imparatorluğun birçok bölgesinde arkeolojik kaydın sahici …"
+- [OK]      k6 → "Çöküş olmadı diyen okulun aksine Ward-Perkins, eski imparatorluğun birçok bölgesinde arkeolojik kaydın sahici …"
+- [OK]      k1 → "Kaynağın kurduğu yakınlık da anlamlıdır: Ward-Perkins'in modeli, tıpkı Bury'ninki ve Heather'ınki gibi, birlik…"
+- [OK]      k1 → "Ona göre imparatorluk sistemi ilk iki yüzyıl boyunca ve üçüncü yüzyılın bir bölümünde işler durumdaydı; ciddi …" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Doğu sınırına kalıcı olarak daha çok kaynak bağlandı; bölgesel vergi gelirleri merkeze çekildikçe yerel yatırı…"
+- [OK]      k1 → "Heather 376'daki Got girişini Karadeniz çevresindeki Hun hareketlerine, 406'daki Ren geçişini Germania'daki Hu…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Gibbon'ın din ve ahlaki çöküş savını da iç çekişme açıklamasını da reddeder; iç çekişme ona göre imparatorluk …" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Katalogdaki kuramların bir bölümü, her şeyi açıklayan bir etken arayışının ürünüdür ve bu türün ünlü örneği ku…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Katalogdaki kuramların bir bölümü, her şeyi açıklayan bir etken arayışının ürünüdür ve bu türün ünlü örneği ku…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Jeokimyacı Jerome Nriagu 1983 tarihli kitabında, kurşun kaplarda kaynatılan üzüm şırasından yapılan tatlandırı…"
+- [OK]      k1 → "Farmakolog ve antik çağ uzmanı John Scarborough ise kitabı yanlış kanıt ve kaynak hatalarıyla dolu buldu; Scar…"
+- [ATOMSUZ] k1 → "Kurşun tezinin bugünkü durumu budur: popüler anlatıda yaşamaya devam eden, uzman yazında ise büyük ölçüde gözd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Kyle Harper 2017 tarihli The Fate of Rome'da paleoiklim kayıtlarını ve genom bulgularını tarihsel anlatıyla bi…"
+- [OK]      k1 → "Kyle Harper 2017 tarihli The Fate of Rome'da paleoiklim kayıtlarını ve genom bulgularını tarihsel anlatıyla bi…"
+- [ATOMSUZ] k7 → "Tanıtımın özeti serttir: kuşatılan imparatorluk, bir "küçük buz çağı" ile art arda gelen hıyarcıklı veba salgı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Katmanın parçaları tartışmada daha önce de vardı: 535-536'daki küresel iklim olayları ile erken veba ve sıtma …"
+- [ATOMSUZ] k1 → "Bury'nin ahlaki çürüme kuramına karşı kullandığı olgu buydu ve sonraki her okul, açıklamasını bu asimetriye gö…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Batıda son imparatorun 476'da indirilmesinden sonra bile İtalya'ya asıl büyük hasarı, kaynağın aktardığı değer…"
+- [OK]      k3 → "Sınıflama sorusu: Demandt'ın listesi, "neden" kavramının ne kadar esnediğini gösteren bir aynadır — ordunun Ge…" — 1 atom doğrulandı; 2 ad ölçülemedi
 
-**Özet:** 4 OK · 0 ISARET · 0 HATA · 5 ATOMSUZ
+**Özet:** 41 OK · 0 ISARET · 0 HATA · 7 ATOMSUZ

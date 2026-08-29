@@ -1,5 +1,5 @@
 ## kavram-sehir-devleti
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:26.547Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:12.008Z_
 
 - [OK]      k1 → "yüzyılda uluslararası gözetim altındaki şehirler; sonuncusunun altında Danzig ve Fiume ayrı ayrı işlenir."
 - [ATOMSUZ] k1 → "yüzyıla ait örneklerin ayrı alt başlıklar taşıması, atlasın şu kuralının dayanağıdır: bu dosyada şehir devleti…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

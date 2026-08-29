@@ -1,5 +1,5 @@
 ## kavram-taoizm
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:26.745Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:12.208Z_
 
 - [ATOMSUZ] k1 → "Taoizm, "yol" anlamına gelen bir terim çevresinde kurulan ve doğaya uygunluğu, kendiliğindenliği ve zorlayıcı …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Taoizm, "yol" anlamına gelen bir terim çevresinde kurulan ve doğaya uygunluğu, kendiliğindenliği ve zorlayıcı …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

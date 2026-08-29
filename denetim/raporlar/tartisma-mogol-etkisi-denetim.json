@@ -1,45 +1,225 @@
 {
   "id": "tartisma-mogol-etkisi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:46:18.467Z",
-  "govde_hash": "af29ffe1cff7",
-  "commit": "d04b692",
+  "zaman": "2026-08-29T08:59:32.536Z",
+  "govde_hash": "14f184bc5ab0",
+  "commit": "58a10ea",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Bu haritanın çıkış noktası, kaynağın kendi bölüm listesidir: aynı maddede hem İpek Yolu'na hem mirasa ayrı bölümler ayrılmış, miras bölümünün tek alt başlığı is",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İpek, Yolu"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, imparatorluğun tarihteki en büyük bitişik imparatorluk olduğunu ve zirvesinde Japon Denizi'nden Doğu Avrupa'ya uzandığını, kuzeyde Sibirya'ya, doğu ve g",
+      "iddia": "İstilayı bizzat yaşamış kişilerle görüşen İbnü'l-Esîr'e göre Tatar istilası, Âdem'den beri insanoğlunun uğradığı en büyük felakettir ve İslâm tarihinde onunla k",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+      "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bir siyasi birimin bu ölçekte kaydedilmesi, hem bağlantı hem yıkım iddialarının aynı büyüklüğe uygulandığını gösterir; ölçek tartışmalı değildir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, imparatorluğun Moğol anayurdundaki birkaç göçebe kabilenin Cengiz Han unvanıyla bilinen Temuçin önderliğinde birleşmesinden doğduğunu ve bir konseyin 12",
+      "anahtar": "k4",
+      "iddia": "Karşı çerçevenin adı ise kendi tezini taşır: Roma Barışı'ndan örnekle türetilmiş bir tarih yazımı terimi olan Moğol Barışı, fetihleri izleyen dönemde ticaret yo",
       "durum": "OK",
-      "not": "4 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, toplum başlığı altında dinler, sanat ve edebiyat, bilim ve posta sistemi alt başlıklarını tutar.",
+      "iddia": "Üstelik iki bilanço ayrı kütüphanelerde de durmaz: aynı ansiklopedi maddesi, felaket hükmü ile istilanın olumlu izlerine ayrılan bölümü aynı sayfada yan yana tu",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
+      "anahtar": "k3",
+      "iddia": "Timuçin'in 1206'da Onon kıyısındaki kurultayda Cengiz unvanıyla kağan ilan edilişi bu iki tarihin ortak başlangıcıdır; dönemin bütünü dosyasında, imparatorluğun",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Cüveynî, istilanın hem tanığı hem görevlisiydi: mütercimi Boyle'un girişine göre Moğollar hakkında çağdaş kayıt bırakan yazarların en önemlisidir, anlattığı ola",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Buhara 1220'de düştü; şehrin sonunu Cüveynî, oradan kaçıp Horasan'a ulaşan bir adamın ağzından aktarır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Buhara 1220'de düştü; şehrin sonunu Cüveynî, oradan kaçıp Horasan'a ulaşan bir adamın ağzından aktarır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Adamın cevabı bir cümleye sığar: \"Geldiler, kazdılar, yaktılar, öldürdüler, yağmaladılar ve gittiler.\" Cüveynî'nin aktarımına göre bu özeti duyanlar, Farsçada b",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Geldiler, Farsçada"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Adamın cevabı bir cümleye sığar: \"Geldiler, kazdılar, yaktılar, öldürdüler, yağmaladılar ve gittiler.\" Cüveynî'nin aktarımına göre bu özeti duyanlar, Farsçada b",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Geldiler, Farsçada"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Cengiz Han 1219 yazında ordularıyla İrtiş bölgesine ulaştı ve sonbaharda Otrar'ı kuşattı; Buhara 10 Şubat 1220'de alındı, Semerkant aynı yılın martında teslim o",
+      "durum": "OK",
+      "not": ""
+    },
+    {
       "anahtar": "k1",
-      "iddia": "Bir imparatorluğun posta sisteminin ayrı bir alt başlık taşıması, birinci pozisyonun dayanağıdır: bağlantı iddiası kurumsal bir kayda dayanır.",
+      "iddia": "Kafkaslar yönünde ilerleyen müfrezelerin gerilerinde virane hâlinde bir ülke bıraktığı, bu harekâtı 1224'te yağma amaçlı başka seferlerin izlediği yazılıdır; ma",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kafkaslar yönünde ilerleyen müfrezelerin gerilerinde virane hâlinde bir ülke bıraktığı, bu harekâtı 1224'te yağma amaçlı başka seferlerin izlediği yazılıdır; ma",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hülâgû 1256'da Alamut'u ele geçirip oradaki hâkimiyete son verdi; iki yıl sonra Bağdat'a girerek Abbâsî hilâfetini yıktı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuşatmanın kendisi dosyasında işleniyor; ilerleyiş batı yönünde 1260'ta Aynicâlût'ta durduruldu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Maddeye göre istilanın ardından halkın mistik eğilimleri yoğunlaştı, aklî ilimler geriledi ve istila Çin'den Doğu Avrupa'ya uzanan alanda etnik ve kültürel yapı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yağmanın coğrafyası da kayıtlıdır: Celâleddin'in son önemli direnişi 1228'de İsfahan önlerinde kırıldı, Fars dışında bütün Orta ve Batı İran yağmalandı ve halkı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dinî baskı da bilançoya eklenir: maddeye göre bazı İlhanlı hükümdarları döneminde müslümanlar zulüm ve haksızlığa uğradı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Yülek ve Gür'ün 2024 tarihli çalışmasına göre istila öncesi Anadolu'nun iktisadi gelişim düzeyi Doğu ve Batı Avrupa'dan yüksekti; İlhanlı yönetimi bölgeyi \"verg",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Çalışmanın vardığı cümle tartışmanın tam ortasına oturur: yazarlara göre Moğol Barışı, Selçuklu Barışı'nı ortadan kaldırmıştır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Maddeye göre imparatorluk en geniş hâlinde doğuda Busan'dan batıda Budapeşte'ye uzanıyordu; dört hanlığa bölünmüşlüğe karşın erken on dördüncü yüzyılda göreli b",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Düzenin ticari alt yapısı da aynı yerde kayıtlıdır: Moğol seçkinleri Orta ve Batı Asya'dan ve Avrupa'dan tüccarlarla — Marco Polo'nun ailesi dahil — ortaklıklar",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Yam adıyla bilinen menzil düzeneğinin maddeye göre Ögedey döneminde 1234'te kurulmaya başlandığı, istasyonların yaklaşık bir günlük yolculuk aralığıyla dizildiğ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Tanığın kendi kitabı da bu düzeneğe yer ayırır: seyahatnamenin Yule ile Cordier'nin hazırladığı basımı, hanın ulaklarının nasıl sevk edildiğine ayrı bir bölüm, ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Moğol Barışı maddesi, Moğol döneminde çok sayıda personel değişiminin yaşandığını Allsen'e dayanarak not eder; Allsen'in 1997'de Cambridge University Press'ten ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Moğol Barışı maddesi, Moğol döneminde çok sayıda personel değişiminin yaşandığını Allsen'e dayanarak not eder; Allsen'in 1997'de Cambridge University Press'ten ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yıkım vurgusunun ağır bastığı ansiklopedi maddesi bile burada karşı okumaya alan açar: baştaki yarım asrın katliam ve tahrip devrinin ardından doğu-batı ticaret",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yıkım vurgusunun ağır bastığı ansiklopedi maddesi bile burada karşı okumaya alan açar: baştaki yarım asrın katliam ve tahrip devrinin ardından doğu-batı ticaret",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Weatherford'un 2004'te New York'ta Crown'dan çıkan kitabının başlığı iddiasını kendisi söyler: Cengiz Han ve modern dünyanın kuruluşu.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Moğol Barışı maddesinin dipnot listesinde bu kitabın sayfa numaralarıyla tekrar tekrar görünmesi, popüler anlatının bütünleşme okumasının yaygın kaynağı hâline ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Barışı"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Moğol Barışı maddesinin dipnot listesinde bu kitabın sayfa numaralarıyla tekrar tekrar görünmesi, popüler anlatının bütünleşme okumasının yaygın kaynağı hâline ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Barışı"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Moğol Barışı maddesinin dipnot listesinde bu kitabın sayfa numaralarıyla tekrar tekrar görünmesi, popüler anlatının bütünleşme okumasının yaygın kaynağı hâline ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Barışı"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Nitekim aynı çerçeveye Anadolu özelinden itiraz eden hakemli çalışma, barışın kazancını kimin cebinde aradığına göre işaretin tersine döndüğünü savunur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Moğol Barışı maddesine göre dönemin kapanışını hanlıkların dağılması ile Kara Ölüm'ün on dördüncü yüzyıl ortasında ticaret yolları boyunca dünyanın büyük bölümü",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Ölçeği kurumsal sağlık kaynağı verir: on dördüncü yüzyılda Kara Ölüm adıyla bilinen salgın Avrupa'da 50 milyondan fazla ölüm getirdi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Aynı sayfa hastalığın bugün antibiyotiklerle kolayca tedavi edildiğini de yazar; ölçeğin o yüzyıla özgü olduğunu hatırlatan bir dipnottur bu.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Cengiz Han maddesi iki tanığın rakamını yan yana verir: Merv'de öldürülenler İbnü'l-Esîr'e göre 700.000, Cüveynî'ye göre 1.300.000'den fazladır; Nîşâbur'da inti",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",
@@ -48,32 +228,92 @@
       "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Atlas bu iki değeri yıkım iddiasının kanıtı ya da çürütmesi olarak sunmaz: seri dünya toplamını verir, bölgesel kayıpları vermez ve ölüm nedenini hiç vermez.",
+      "anahtar": "k2",
+      "iddia": "Seri dünya toplamını verir; bölgesel kaybı, ölüm nedenini ve fetihlerin payını vermez — iki değer arasındaki fark yıkım tezini ne destekler ne çürütür, yalnızca",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Atlas bu iki değeri yıkım iddiasının kanıtı ya da çürütmesi olarak sunmaz: seri dünya toplamını verir, bölgesel kayıpları vermez ve ölüm nedenini hiç vermez.",
+      "anahtar": "k1",
+      "iddia": "Yıkım okuması ne kaybedildiğini sorar ve tanık kayıtlarıyla vergi düzenine işaret eder; bütünleşme okuması neyin kurulduğunu sorar ve menzil ağıyla aktarım kayı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Yıkım okuması ne kaybedildiğini sorar ve tanık kayıtlarıyla vergi düzenine işaret eder; bütünleşme okuması neyin kurulduğunu sorar ve menzil ağıyla aktarım kayı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Yıkım okuması ne kaybedildiğini sorar ve tanık kayıtlarıyla vergi düzenine işaret eder; bütünleşme okuması neyin kurulduğunu sorar ve menzil ağıyla aktarım kayı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Yıkım okuması ne kaybedildiğini sorar ve tanık kayıtlarıyla vergi düzenine işaret eder; bütünleşme okuması neyin kurulduğunu sorar ve menzil ağıyla aktarım kayı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Yıkım okuması ne kaybedildiğini sorar ve tanık kayıtlarıyla vergi düzenine işaret eder; bütünleşme okuması neyin kurulduğunu sorar ve menzil ağıyla aktarım kayı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Yıkım okuması ne kaybedildiğini sorar ve tanık kayıtlarıyla vergi düzenine işaret eder; bütünleşme okuması neyin kurulduğunu sorar ve menzil ağıyla aktarım kayı",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Aynı yüzyıllarda İslam dünyasındaki metin geleneği için tutulan kayıt, bir düşünürü 1126-1198 arasına yerleştirir ve şerhlerini üç türe ayırır.",
+      "iddia": "Yıkım okuması ne kaybedildiğini sorar ve tanık kayıtlarıyla vergi düzenine işaret eder; bütünleşme okuması neyin kurulduğunu sorar ve menzil ağıyla aktarım kayı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Fetih ölümlerinin toplamı için elde olan malzeme, Merv örneğindeki gibi tanık tahminleridir; iki tanık arasındaki kat düzeyindeki fark, toplama taşınan her raka",
       "durum": "OK",
       "not": ""
     },
     {
+      "anahtar": "k9",
+      "iddia": "Barışın kime yaradığı bölgeye göre değişir; Anadolu için çıkarılan bilanço, ağın merkez hattı için çıkarılan bilançodan farklı yönü gösterebilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Barışın kime yaradığı bölgeye göre değişir; Anadolu için çıkarılan bilanço, ağın merkez hattı için çıkarılan bilançodan farklı yönü gösterebilir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Anadolu"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Cüveynî'nin tarihi, Boyle'un girişinde vurgulandığı gibi, Bağdat'ı alan hükümdarın güvenini kazanmış bir görevlinin kaleminden çıktı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
       "anahtar": "k1",
-      "iddia": "Atlas bu kaydı bir süreklilik ya da kopuş kanıtı olarak kullanmaz; iki kayıt arasında bir bağ kullanılan kaynak bölümlerinde belirtilmemiştir.",
+      "iddia": "İbnü'l-Esîr ise kaydını istilayı bizzat yaşamış kişilerle görüşerek kurdu.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Atlas bu kaydı bir süreklilik ya da kopuş kanıtı olarak kullanmaz; iki kayıt arasında bir bağ kullanılan kaynak bölümlerinde belirtilmemiştir.",
+      "iddia": "Cengiz Han maddesine göre batıya dönük büyük seferin kıvılcımı, 1219'da Otrar'da bir ticaret kervanının yağmalanması ve kervancılarla elçinin öldürülmesiydi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Ticaretle açılan hesap, ticaret ağı boyunca yayılan salgınla kapandı; iki ucu da kayıtlı olan bu yay, yıkım ile bütünleşmenin neden aynı tarihin iki yüzü olarak",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

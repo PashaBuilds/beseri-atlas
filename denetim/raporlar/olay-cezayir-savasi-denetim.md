@@ -1,5 +1,5 @@
 ## olay-cezayir-savasi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:15.734Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:00.628Z_
 
 - [ATOMSUZ] k1 → "Yirminci yüzyılın ortasında, kıtanın kuzeyindeki bir bölgede sekiz yıl süren bir bağımsızlık çatışması yaşandı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Sonuç bağımsızlıktı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

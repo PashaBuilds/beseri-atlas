@@ -1,5 +1,5 @@
 ## veri-co2-emisyonu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.894Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:15.300Z_
 
 - [OK]      k1 → "Seri 1750'de 9.305.937 ton ile başlar ve 2024'te 38.598.580.000 ton ile biter."
 - [OK]      k1 → "Veri kümesinde dünya toplamı için ilk gözlem 1750 yılına aittir."

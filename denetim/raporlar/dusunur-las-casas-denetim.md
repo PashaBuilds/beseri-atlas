@@ -1,5 +1,5 @@
 ## dusunur-las-casas
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:24.010Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:09.328Z_
 
 - [OK]      k1 → "Las Casas, on altıncı yüzyılda Amerika kıtasına giden ve orada uzun yıllar kalan bir din adamıdır."
 - [ATOMSUZ] k2 → "Yerleşimci olarak gitti ve kendisine toprak ve emek tahsisi yapıldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

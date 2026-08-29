@@ -1,5 +1,5 @@
 ## olay-sanayi-devrimi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:18.055Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:03.107Z_
 
 - [OK]      k1 → "Kaynak bu olguyu bir olay olarak değil bir kayma olarak tanımlar: yaklaşık 1760-1840 arasında tarımsal çağdan …"
 - [ATOMSUZ] k1 → "Adı "devrim" olan bir olgunun kendi tanımında "kayma" kelimesinin geçmesi, sürenin uzunluğuyla ilgilidir: seks…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,9 +1,9 @@
 {
   "id": "veri-co2-emisyonu",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:28.894Z",
+  "zaman": "2026-08-29T04:48:15.300Z",
   "govde_hash": "f692f9ae5b61",
-  "commit": "1d273c7",
+  "commit": "58a10ea",
   "sonuclar": [
     {
       "anahtar": "k1",

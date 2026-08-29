@@ -1,5 +1,5 @@
 ## donem-01
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:12.067Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:47:56.912Z_
 
 - [ATOMSUZ] k1 → "Bilgi maddi kalıntıdan çıkarımla üretilir ve tarihlendirmeler kanıt biriktikçe değişir: Bereketli Hilal içinde…" — programatik olarak ölçülemedi (ad karşılığı yok): Bereketli, Hilal
 - [ATOMSUZ] k1 → "Tarımın kökeni haritası birbirinden bağımsız birkaç merkez gösterir; Bereketli Hilal bunların en erkenidir." — programatik olarak ölçülemedi (ad karşılığı yok): Bereketli, Hilal

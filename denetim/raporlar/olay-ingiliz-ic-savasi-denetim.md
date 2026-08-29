@@ -1,5 +1,5 @@
 ## olay-ingiliz-ic-savasi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:16.326Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:01.339Z_
 
 - [OK]      k1 → "Kaynak olayı Birinci İngiliz İç Savaşı (1642–1646), İkinci İngiliz İç Savaşı ve Üçüncü İngiliz İç Savaşı olara…" — 4 atom doğrulandı; 4 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kaynak, kayıpları alışılmadık bir ayrımla verir: muharebe kayıplarının yanında 127.000 muharebe dışı ölüm — bu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

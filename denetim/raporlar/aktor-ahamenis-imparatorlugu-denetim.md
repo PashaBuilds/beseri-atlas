@@ -1,5 +1,5 @@
 ## aktor-ahamenis-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:18.863Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:03.924Z_
 
 - [OK]      k1 → "Ahameniş İmparatorluğu, Ahameniş hanedanından Büyük Kiros tarafından MÖ 550'de kurulmuş bir eski İran imparato…" — 4 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Med mirasına geçiş MÖ 550, Lidya'nın fethi MÖ 547, Babil'in fethi MÖ 539, İndus Vadisi'nin fethi MÖ 535–518, M…" — 4 atom doğrulandı; 3 ad ölçülemedi

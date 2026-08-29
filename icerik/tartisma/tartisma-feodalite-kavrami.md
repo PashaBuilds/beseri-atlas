@@ -39,6 +39,7 @@ ilgili:
   - kavram-ideal-tip
   - dusunur-marx
   - tartisma-kara-olumun-sonuclari
+  - tartisma-teknolojik-belirlenimcilik
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

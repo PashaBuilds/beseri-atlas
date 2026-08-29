@@ -1,79 +1,199 @@
 {
   "id": "tartisma-tarim-devrimi-neden",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:28.563Z",
-  "govde_hash": "ecd87886667a",
-  "commit": "1d273c7",
+  "zaman": "2026-08-29T08:59:28.089Z",
+  "govde_hash": "cc18431dfb97",
+  "commit": "58a10ea",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, toplulukları tarım geliştirmeye iten etkenlere dair öne çıkan kuramları birbirini dışlamayan kuramlar olarak sunar ve dördünü adıyla sayar: Vaha Kuramı,",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Vaha, Kuramı, Tepelik, Yamaçlar"
+      "iddia": "İnsan toplulukları Neolitik dönemde, Afro-Avrasya'nın birçok bölgesinde avcılık ve toplayıcılıktan tarıma ve yerleşik hayata geçti; süreç, son buzul çağının ard",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Gordon Childe tarafından yaygınlaştırıldığını ve Childe'ın Man Makes Himself adlı kitabında özetlendiğini yazar.",
+      "iddia": "Kuramları sayan kaynak bunları birbirini dışlamayan öneriler olarak sunar ve bu çerçeve sorunun kendisini değiştirir: mesele hangi kuramın kazandığı değil, hang",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Soru yüz yılı aşkın süredir açık: vaha kuramı 1908'de ortaya atıldı; 2001 tarihli bir makale ise tartışmanın zeminini iklim istikrarına taşımış durumda.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Tepelik Yamaçlar hipotezini 1948'de Robert John Braidwood'un önerdiğini ve tarımın Toros ile Zagros dağlarının tepelik yamaçlarında başladığını ileri sürdüğünü ",
+      "iddia": "Gordon Childe 1928'de yaygınlaştırdı ve Man Makes Himself kitabında özetledi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kurama göre Atlantik alçak basınçlarının kuzeye kaymasıyla iklim kurudukça topluluklar vahalara çekildi; orada hayvanlarla zorunlu bir yakınlığa girdiler ve evc",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Childe 1936 tarihli kitabında mekanizmayı hayvanlar üzerinden kurar: yağış birkaç yıl üst üste azaldığında \"ot yiyenler, sayısı azalan pınar ve akarsuların çevr",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı sayfalarda, avlarını izleyen insanların da aynı su kaynaklarına sürükleneceği anlatılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Hasadını kaldırmış bir ekicinin anızı, vahadaki en iyi otlak olarak aç sürüleri çeker; kaçamayacak kadar zayıf, kesmeye değmeyecek kadar sıska bu hayvanları eki",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuramın bugünkü durumu ise açık biçimde kayıtlıdır: arkeologlar arasında az destek görür; sonraki iklim verileri bölgenin kuruduğunu değil, tersine nemlendiğini",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Robert John Braidwood 1948'de karşı hipotezi önerdi: tarım, Toros ve Zagros dağlarının tepe eteklerinde başladı; iklim Childe'ın sandığı kadar kurak değildi ve ",
       "durum": "OK",
       "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
+      "anahtar": "k3",
+      "iddia": "Braidwood'un aynı yıl baskıya girerken eklediği nota göre Chicago'daki Doğu Enstitüsü'nün Irak projesi, güney Kürdistan'ın etek kuşağındaki Jarmo adlı yerleşmed",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı metin tartışmanın üslubunu da gösterir: Braidwood'a göre ne Childe ne kendisi, yiyecek üretimini Natuf halkının ya da doğrudan ardıllarının tek başına icat",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Rapor, sorunun \"mağaradan köye, yiyecek toplamadan yiyecek üretimine\" geçiş sorusu olduğunu ve ancak köy höyüklerindeki döküntüye sabırlı bir dikkatle anlaşılab",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Rapora göre ilk çiftçiler yaklaşık MÖ 7000'e gelindiğinde Bereketli Hilal'in tepe eteklerindeki küçük köylere yerleşmiş görünüyordu.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Dönemlendirme de kuramın izini taşır: raporun sıralamasında yiyecek toplama çağının son evresini, açık hava yerleşmelerindeki başlangıç hâlindeki ekim çağı izle",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
       "anahtar": "k1",
-      "iddia": "Şölen modelini Brian Hayden'a, Demografik kuramları ise Carl Sauer'e ve bunları uyarlayan Lewis Binford ile Kent Flannery'ye bağlar.",
+      "iddia": "Evcilleştirme dünyanın birbirinden ayrı yerlerinde bağımsız olarak gerçekleşti; hipotezin sınırı buradadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Carl Sauer'in önerdiği, Lewis Binford ile Kent Flannery'nin uyarladığı demografik kuramlar, giderek yerleşikleşen bir nüfusun yerel çevrenin taşıma kapasitesine",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Dört kuramın kırk yıldan uzun bir aralığa yayılması, tartışmanın tek bir kanıt kümesiyle kapanmadığını gösterir.",
+      "iddia": "Çerçeve yalnızca nüfus sayısına da bağlanmaz: aynı özette, yiyecek gereksinimini artıran çeşitli toplumsal ve ekonomik etkenlerin sürece katıldığı belirtilir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, Vaha Kuramı'nın arkeologlar arasında artık az destek gördüğünü; sonraki iklim verilerinin bölgenin kuruduğunu değil nemlendiğini düşündürdüğünü yazar.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Vaha, Kuramı"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir kuramın kendi kanıtıyla zayıflatılabilmesi, atlasın şu kuralının dayanağıdır: bir kuram aktarılırken hangi kanıtın onu desteklediği ve hangisinin zayıflattı",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Kuramların ortak konusu için tutulan kayıt, evcilleştirmeyi insanlar ile bitkiler ya da hayvanlar arasında çok kuşaklı bir ilişki olarak tanımlar ve insanların ",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Sürecin çok kuşaklı olarak tanımlanması, \"tarım ne zaman başladı\" sorusuna tek bir yıl verilemeyeceğini gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Ürün verimi serisinde dünya buğday verimi 1961'de yaklaşık 1,09 ton, 2023'te yaklaşık 3,86 tondur.",
+      "anahtar": "k5",
+      "iddia": "Mark Nathan Cohen bu mantığı 1977'de The Food Crisis in Prehistory ile dünya ölçeğine taşıdı; kitabın alt başlığı tezi özetler: aşırı nüfus ve tarımın kökenleri",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k2",
-      "iddia": "Tarımın başlangıcı ile veriminin ölçülebildiği ilk yıl arasındaki bu boşluk, kuramların neden sayıyla değil kanıt yorumuyla tartışıldığını gösterir; seri dosyas",
+      "anahtar": "k1",
+      "iddia": "Brian Hayden'ın şölen modeline göre tarımı iten şey gösterişli güç sergileriydi: şölen vermek üstünlük kurmanın aracıydı, büyük miktarda yiyecek toplamayı gerek",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Jacques Cauvin, Tell Aswad'a yerleşenlerin evcilleştirmeyi yerinde yapmadığını, oraya \"ekim için gereken tohumla donanmış hâlde\" geldiklerini not etmişti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Serap Özdöl'ün değerlendirmesine göre Çanak Çömleksiz Neolitik Çağda toplumsal yapıyı şekillendiren ana unsur katı ve karmaşık bir inanç sistemidir ve Göbeklite",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "İlahiyat yazımı aynı buluntuyu daha kesin bir sıralamaya bağlar: Ali Osman Kurt ile Mehmet Emin Göler'e göre Göbeklitepe, insanların yerleşik hayata geçmeden, h",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Peter Richerson, Robert Boyd ve Robert Bettinger, tarımın gelişiminin Holosen başındaki giderek istikrarlı iklimle çakıştığını savunur; 2001'de American Antiqui",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Buz karotlarından türetilen sıcaklık eğrisi de aynı çakışmayı gösterir: tarımın doğuşu, Younger Dryas soğuk aralığının bitişindeki hızlı ısınma ile Holosen'in u",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Braidwood 1948'de Natuf birikimini Yakın Doğu'nun geç toplayıcı birikimlerinin iyi bilinen bir örneği olarak anlatır: Filistin'deki mağaraların üst katmanlarınd",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ohalo II kampındaki beş parlak dilginin kullanım izi çözümlemesi, bileşik orakla yabani tahıl hasadına dair kanıtı, Yakın Doğu'da yerleşik çiftçi köylerinin kur",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yakın, Doğu"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Öte yandan Gordon Hillman ile Stuart Davies'in yabani buğday çeşitleriyle yürüttüğü deneyler, evcilleştirmenin kendisinin 20 ila 200 yıl arasında tamamlanabilec",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kronoloji tablosu Çanak Çömleksiz Neolitik A evresini MÖ onuncu binyıla yerleştirir ve Mureybet gibi yerleşmeleri bu evreyle birlikte anar.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Moore, Hillman ve Legge'in 2000 tarihli kazı yayını, başlığıyla bile sıralamayı adlandırır: toplayıcılıktan tarıma.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı yerleşmenin toplayıcı evreden çiftçi evreye geçmiş olması, kuramların soyut mekanizmalarını somut bir kesit üzerinde karşılaştırma imkânı verir ve yerleşme",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Atlas dört pozisyondan hiçbirini benimsemez; kaynağın kendi ifadesiyle bunlar birbirini dışlamayan kuramlardır.",
+      "iddia": "Kuramları sayan kaynağın çerçevesi — birbirini dışlamayan kuramlar — tartışmanın bugünkü hâlini iyi özetler.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

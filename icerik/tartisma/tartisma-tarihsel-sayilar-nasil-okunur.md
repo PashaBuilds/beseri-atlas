@@ -77,6 +77,7 @@ ilgili:
   - tartisma-iklim-ve-cokus
   - tartisma-imparatorluk-nufusu-nasil-sayilir
   - tartisma-nufus-artisi-tehdit-mi
+  - tartisma-mogol-etkisi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

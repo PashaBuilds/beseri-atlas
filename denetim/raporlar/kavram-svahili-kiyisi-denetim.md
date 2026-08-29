@@ -1,5 +1,5 @@
 ## kavram-svahili-kiyisi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:26.712Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:12.174Z_
 
 - [OK]      k1 → "Svahili kıyısı, Doğu Afrika'nın okyanusa bakan şeridinde kurulmuş liman şehirleri kuşağına verilen addır."
 - [OK]      k4 → "Svahili kıyısı, Doğu Afrika'nın okyanusa bakan şeridinde kurulmuş liman şehirleri kuşağına verilen addır." — 1 atom doğrulandı; 1 ad ölçülemedi

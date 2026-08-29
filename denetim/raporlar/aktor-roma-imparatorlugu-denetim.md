@@ -1,5 +1,5 @@
 ## aktor-roma-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:22.244Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:07.506Z_
 
 - [OK]      k1 → "Roma İmparatorluğu, klasik dönemde Akdeniz'e ve Avrupa'nın, Batı Asya'nın ve Kuzey Afrika'nın büyük bölümüne h…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Roma Cumhuriyeti bu toprakların büyük bölümünü daha önce fethetmişti; bu topraklar ancak Octavianus'un iktidar…" — 3 atom doğrulandı; 1 ad ölçülemedi

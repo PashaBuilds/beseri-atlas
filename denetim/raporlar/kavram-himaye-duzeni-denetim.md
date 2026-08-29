@@ -1,5 +1,5 @@
 ## kavram-himaye-duzeni
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:25.475Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:10.847Z_
 
 - [ATOMSUZ] k1 → "Himaye düzeni, bir devletin dış ilişkilerini ve savunmasını başka bir devlete devrettiği, buna karşılık iç yön…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Düzen, ilhak ile bağımsızlık arasında bir ara biçimdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

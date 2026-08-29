@@ -1,5 +1,5 @@
 ## donem-06
-_Geçiş 2 — kaynak denetimi · 2026-08-28T23:38:44.625Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:47:57.438Z_
 
 - [OK]      k1 → "Abbasi hanedanı 750'de iktidara geldi."
 - [OK]      k6 → "Tang 618'den beri Çin'i yönetiyordu." — 1 atom doğrulandı; 1 ad ölçülemedi

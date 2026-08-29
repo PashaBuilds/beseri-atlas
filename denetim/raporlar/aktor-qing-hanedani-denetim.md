@@ -1,5 +1,5 @@
 ## aktor-qing-hanedani
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:22.140Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:07.328Z_
 
 - [OK]      k1 → "Qing, Çin'in Mançu önderliğindeki hanedanıdır ve 1644–1912 arasına tarihlenir." — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Alıntıladığı çalışmaya göre 1636 Qing hanedanının başlangıcıydı, ancak tarihçiler Qing hanedanının Mançuların …" — 4 atom doğrulandı; 2 ad ölçülemedi

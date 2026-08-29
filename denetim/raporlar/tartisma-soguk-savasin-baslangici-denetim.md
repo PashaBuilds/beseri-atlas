@@ -1,17 +1,55 @@
 ## tartisma-soguk-savasin-baslangici
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.275Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:53:06.927Z_
 
-- [ATOMSUZ] k1 → "Bu haritanın çıkış noktası kaynağın kendi uyarısıdır: üç okul adlandırılabilir ama tarih yazımının çoğu bu kat…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, tarihçilerin Soğuk Savaş çalışmalarında yaygın olarak üç farklı yaklaşımdan söz ettiğini yazar: ortodo…" — programatik olarak ölçülemedi (ad karşılığı yok): Soğuk, Savaş
-- [ATOMSUZ] k1 → "Aynı madde, kökenlere dair akademik tartışmalardaki açıklamaların karmaşık ve çeşitli olduğunu da belirtir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, Soğuk Savaş dönemine dair Sovyet tarih yazımının ezici biçimde Sovyet devleti tarafından belirlendiğin…" — 1 atom doğrulandı; 3 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir literatürün üretim koşulunun ayrıca kaydedilmesi, atlasın şu kuralının dayanağıdır: bu haritadaki pozisyon…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, Britanya'da bir tarihçinin Sovyetler Birliği'nin on dört ciltlik bir tarihini yazdığını, çalışmanın 19…" — 5 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k2 → "O tarihçi için tutulan ayrı bir kayıt, mesleğini tarihçi, diplomat, uluslararası ilişkiler kuramcısı ve gazete…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Askerî harcama serisinde sağlayıcının toplam satırı 1988 için yaklaşık 1.759.879.600.000 verir."
-- [ATOMSUZ] k1 → "Atlas bu değeri hiçbir pozisyonun kanıtı olarak sunmaz: seri yalnızca dönemin son yıllarını kapsar ve harcaman…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Atlas bu değeri hiçbir pozisyonun kanıtı olarak sunmaz: seri yalnızca dönemin son yıllarını kapsar ve harcaman…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynağın kendisi üç okulu adlandırır ama aralarında bir hüküm vermez; bu atlas da vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Bu dosya truman doktrini'nin metnine bağlanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Soğuk Savaş'ın kimin eseri olduğu sorusu, tarihçilerin yaygın olarak üç ayrı yaklaşım saydığı bir tartışmanın …" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Aynı sayımı yapan literatür bir uyarı da düşer: bu alandaki tarih yazımının çoğu, üç geniş kategoriden ikisini…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Sorunun önemi cevabının ötesindedir, çünkü her okul kendi on yılının siyasetiyle birlikte doğdu: revizyonist d…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Şubat 1945'te Yalta'da kabul edilen Kurtarılmış Avrupa Bildirisi, üç hükümetin, kurtarılmış ülkelerde halkın i…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "Aynı yılın Ağustos'unda kabul edilen Potsdam protokolü, barış düzenlemelerini hazırlamak üzere bir Dışişleri B…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k2 → "Kennan'ın Foreign Affairs'te 1947'de X imzasıyla çıkan yazısı, Sovyetler'e dönük Amerikan siyasetinin özünü "l…"
+- [ATOMSUZ] k2 → "Aynı metin bu çevrelemenin nasıl işleyeceğini de anlatır: Sovyet baskısı, sürekli yer değiştiren coğrafi ve si…" — programatik olarak ölçülemedi (ad karşılığı yok): Sovyet
+- [OK]      k3 → "Aynı yılın 12 Mart'ında Truman, Yunanistan ile Türkiye'ye yardım talebi vesilesiyle Kongre önünde konuştu ve B…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Okulları ayıran, bu metinlerden hangisinin esas alınacağıdır: ortodoks okuma Yalta taahhütleri ile Doğu Avrupa…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Savaşın bitimini izleyen on yılı aşkın sürede az sayıda Amerikan tarihçisi, Soğuk Savaş'ın başlangıcına dair r…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Bailey, 1950 tarihli America Faces Russia'da savaş sonrası barışın çöküşünü savaşı izleyen yıllardaki Sovyet y…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Bailey, 1950 tarihli America Faces Russia'da savaş sonrası barışın çöküşünü savaşı izleyen yıllardaki Sovyet y…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Herbert Feis de Churchill, Roosevelt, Stalin ve From Trust to Terror gibi çalışmalarında benzer bir çerçeve ku…"
+- [OK]      k1 → "Bu görüşten bakınca Truman Doktrini ile Marshall Planı, Sovyet baskısına verilmiş zorunlu cevaplardı." — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Okulun üretim koşulu, sonraki eleştirinin de kapısıdır: bu anlatı, resmî yorumun akademide neredeyse sorgusuz …"
+- [OK]      k1 → "Sovyet tarafında tablo simetrik görünür ama üretim koşulu farklıdır: Soğuk Savaş dönemine dair Sovyet tarih ya…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k1 → "Devlet eliyle yazılmış bir literatürün pozisyonu yine de kayda girer, çünkü alanda fiilen üretilmiş bir külliy…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Davies, Carr'ı Sovyetler Birliği'ni dünyadaki başlıca ilerici güç sayan ve Soğuk Savaş'ı Sovyetler'e karşı Ame…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Vietnam Savaşı bağlamında yazan revizyonistler, Birleşik Devletler'in uluslararası rolünü imparatorluk ya da h…" — programatik olarak ölçülemedi (ad karşılığı yok): Savaşı, Birleşik, Devletler
+- [OK]      k1 → "Okulun ortak referansı, William Appleman Williams'ın 1959 tarihli The Tragedy of American Diplomacy kitabıydı:…"
+- [OK]      k6 → "Okulun ortak referansı, William Appleman Williams'ın 1959 tarihli The Tragedy of American Diplomacy kitabıydı:…"
+- [OK]      k1 → "Williams'ı izleyenler, savaş sonrası barışın bozulmasında sorumluluğun daha büyük payını Birleşik Devletler'e …" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Aynı literatür, Sovyet önderliğinin savaş sonrasında komünizmi yayma kararlılığı taşıdığı yolundaki yerleşik k…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Kimi revizyonistler kökenleri Rus İç Savaşı'ndaki müttefik müdahalesine kadar geri götürdü." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "yüzyılda Doğu Asya'nın Amerikan ticaretine açılması üzerindeki Rus-Amerikan çekişmesine kadar geri götürdü." — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k8 → "yüzyılda Doğu Asya'nın Amerikan ticaretine açılması üzerindeki Rus-Amerikan çekişmesine kadar geri götürdü." — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Gar Alperovitz'in 1965 tarihli Atomic Diplomacy: Hiroshima and Potsdam kitabı tartışmayı atom bombasına taşıdı…"
+- [OK]      k7 → "Gar Alperovitz'in 1965 tarihli Atomic Diplomacy: Hiroshima and Potsdam kitabı tartışmayı atom bombasına taşıdı…"
+- [OK]      k1 → "Joyce ve Gabriel Kolko'nun The Limits of Power çalışması ise Amerikan politikasını refleks hâlinde antikomünis…"
+- [OK]      k9 → "Joyce ve Gabriel Kolko'nun The Limits of Power çalışması ise Amerikan politikasını refleks hâlinde antikomünis…"
+- [ATOMSUZ] k1 → "Bu okumada Soğuk Savaş iki blok arasındaki rekabetten çok, her bloktaki egemen devletlerin kendi nüfuslarını v…" — programatik olarak ölçülemedi (ad karşılığı yok): Soğuk, Savaş
+- [OK]      k1 → "John Lewis Gaddis'in 1972 tarihli The United States and the Origins of the Cold War kitabı, çeşitli yorumları …"
+- [OK]      k1 → "Gaddis yine de Amerikan karar alıcılarının iç siyaset kısıtlarını vurguladı ve revizyonistleri, özellikle Will…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Paterson ise 1973 tarihli Soviet-American Confrontation'da Sovyet düşmanlığı ile Birleşik Devletler'in savaş s…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Gaddis'in 1983'te yaptığı damıtma, sonraki Soğuk Savaş araştırmalarını yönlendiren başlıca kanallardan biri ol…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Leffler, Amerikan girişimlerini tetikleyenin Kremlin'in eylemlerinden çok sosyoekonomik çözülmeye, devrimci mi…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k11 → "A Preponderance of Power bu okumayı Truman yönetiminin ulusal güvenlik kavrayışı üzerinden işledi."
+- [OK]      k1 → "Bu çıkış Gaddis cephesinden sert karşılıklar gördü, Leffler itirazları isabetsiz saydı ve yine de genel post-r…"
+- [OK]      k1 → "Aynı literatürden, suçlu aramaktan çok iki tarafın algılarına bakan bir damar da çıktı: Ernest May 1984 tarihl…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Gaddis, 1997 tarihli We Now Know: Rethinking Cold War History'de artık Sovyet tarafının çatışmadan daha fazla …"
+- [OK]      k10 → "Gaddis, 1997 tarihli We Now Know: Rethinking Cold War History'de artık Sovyet tarafının çatışmadan daha fazla …"
+- [OK]      k1 → "Bu dönüş sentezin kendi içinden itiraz gördü: Leffler'a göre We Now Know'un en ayırt edici özelliği, Gaddis'in…"
+- [OK]      k1 → "Revizyonist Bruce Cumings ise 1990'larda Gaddis'le yürüttüğü tartışmada post-revizyonizmi ahlakçı ve tarihsel …"
+- [OK]      k1 → "2000'lerden itibaren, Soğuk Savaş dönemi arşivlerinin Sovyetler Birliği'nde ve başka ülkelerde açılmasından ya…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k1 → "Casusluk ve istihbaratın kökenlerdeki payı da yeni anılar ve arşiv malzemesiyle ayrı bir araştırma alanı hâlin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Duygulara bakan bir damar da belirdi: Frank Costigliola, savaş ittifakının çözülmesini ve erken dönem düşmanlı…"
+- [OK]      k1 → "Revizyonist damar ise kurumadı: Geoffrey Roberts 2006 tarihli Stalin's Wars'ta Stalin'in aslında Soğuk Savaş't…"
+- [ATOMSUZ] k1 → "Sorumluluk sorusu aynı anda bir suç sorusu, bir neden sorusu ve bir dönemlendirme sorusu olarak sorulduğu için…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Vojtech Mastny'nin 1996'da yazdığına göre kavga bittikten sonra kimin başlattığı sorusu, savaşın neden öyle so…"
+- [OK]      k1 → "Arşivler yeni belge getirdi ama ortak bir ölçüt getirmedi: Stalin'in kişiliğine ağırlık veren okuma ile Amerik…"
 
-**Özet:** 3 OK · 0 ISARET · 0 HATA · 9 ATOMSUZ
+**Özet:** 43 OK · 0 ISARET · 0 HATA · 7 ATOMSUZ

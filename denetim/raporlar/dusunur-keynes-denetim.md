@@ -1,5 +1,5 @@
 ## dusunur-keynes
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:17.810Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:09.260Z_
 
 - [ATOMSUZ] k1 → "Kaynak, Genel Teori'nin sıklıkla modern makroiktisadın temeli olarak görüldüğünü yazar." — programatik olarak ölçülemedi (ad karşılığı yok): Genel, Teori
 - [OK]      k1 → "Kaynak, 1930'ların çoğunda az sayıda kıdemli Amerikalı iktisatçının onunla aynı fikirde olduğunu, buna karşın …" — 4 atom doğrulandı; 1 ad ölçülemedi

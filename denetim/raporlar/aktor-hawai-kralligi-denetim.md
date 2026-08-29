@@ -1,5 +1,5 @@
 ## aktor-hawai-kralligi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:20.517Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:05.633Z_
 
 - [ATOMSUZ] k4 → "Hawai Krallığı, on sekizinci yüzyıl sonunda takımadanın adalarının tek bir yönetim altında birleştirilmesiyle …" — programatik olarak ölçülemedi (ad karşılığı yok): Krallığı
 - [ATOMSUZ] k1 → "Devlet, on dokuzuncu yüzyıl boyunca yazılı anayasalarla yönetildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

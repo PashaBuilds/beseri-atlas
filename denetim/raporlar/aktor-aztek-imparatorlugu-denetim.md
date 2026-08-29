@@ -1,5 +1,5 @@
 ## aktor-aztek-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:19.278Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:04.349Z_
 
 - [OK]      k1 → "Bu düzenin adı, kaynağın kendi kaydında bir ittifakı anlatır: Aztek Üçlü İttifakı'nın üye devletleri Texcoco, …" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "Üç şehir devletinin birlikte anılması, merkezî bir başkent varsayımını zorlaştırır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

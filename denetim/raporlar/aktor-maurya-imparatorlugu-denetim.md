@@ -1,5 +1,5 @@
 ## aktor-maurya-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:21.551Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:06.723Z_
 
 - [OK]      k1 → "Maurya İmparatorluğu'nun başkenti, bugünkü Patna yakınlarındaki Pataliputra'ydı; ilk hükümdarı Çandragupta yak…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Birincisi geleneksel gösterimdir: Aşoka dönemindeki Maurya İmparatorluğu, Maurya denetimindeki toprakların dol…" — 1 atom doğrulandı; 2 ad ölçülemedi

@@ -1,5 +1,5 @@
 ## aktor-rapa-nui
-_Geçiş 2 — kaynak denetimi · 2026-08-28T19:19:08.886Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:07.436Z_
 
 - [OK]      k1 → "Rapa Nui, Pasifik'in güneydoğusunda, en yakın yerleşik komşusuna iki bin kilometreden uzak bir adanın ve o ada…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Adada bugün yedi binden fazla insan yaşar; Rapanui dili konuşulmaya devam eder ve ada, Şili'ye bağlı anayasal …" — 1 atom doğrulandı; 1 ad ölçülemedi

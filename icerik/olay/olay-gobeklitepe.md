@@ -17,6 +17,7 @@ ilgili:
   - tartisma-tarim-devrimi-ilerleme-mi
   - olay-neolitik-devrim
   - kavram-arkeolojik-kanit
+  - tartisma-tarim-devrimi-neden
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,5 +1,5 @@
 ## aktor-maori
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:21.421Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:06.591Z_
 
 - [OK]      k1 → "Maori, güney Pasifik'teki büyük bir takımadaya yerleşen ve orada beş yüzyıl içinde kendi siyasi düzenini kuran…"
 - [ATOMSUZ] k1 → "Takımada, Avustronezya yayılmasının en geç yerleşilen büyük alanlarındandır." — programatik olarak ölçülemedi (ad karşılığı yok): Avustronezya

@@ -1,5 +1,5 @@
 ## dusunur-farabi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:23.457Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:08.769Z_
 
 - [OK]      k1 → "Kaynak maddesine şu cümleyle başlar: onun hayatı hakkında gerçekten güvenilir pek az şey biliyoruz; muhtemelen…"
 - [OK]      k1 → "Kaynak, hâlâ tenkitli neşirlerin, tam İngilizce çevirilerin ve zaman zaman birkaç metnin herhangi bir dile çev…" — 1 atom doğrulandı; 1 ad ölçülemedi

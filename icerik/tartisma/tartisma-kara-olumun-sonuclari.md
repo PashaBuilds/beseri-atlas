@@ -34,6 +34,7 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - veri-dunya-nufusu-1500-2025
   - donem-08
+  - tartisma-mogol-etkisi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

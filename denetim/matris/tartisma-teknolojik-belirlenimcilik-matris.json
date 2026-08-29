@@ -1,0 +1,461 @@
+{
+  "id": "tartisma-teknolojik-belirlenimcilik",
+  "govde_hash": "30a8e59660d1",
+  "commit": "58a10ea",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Karl Marx 1847'de Proudhon'a karşı yazdığı polemikte kestirip atmıştı: \"El değirmeni size feodal beyli toplumu verir; buharlı değirmen, sanayi kapitalistli toplumu.\" Cümlenin çekiciliği yalınlığındadır — aygıtı söyle, düzeni çıkarayım.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Çağdaş felsefenin başvuru kaydı, bugünkü toplumu bir arada tutanın büyük ölçüde teknoloji olduğunu, bunun yalnızca iktisadi değil kültürel ve giderek siyasal bir güç olduğunu yazar; 1994'te MIT Press'ten çıkan derleme tartışmayı teknolojik belirlenimcilik ikilemi adı altında toplar ve tanıtımında modern tartışmayı Marx'ın başlattığını kaydeder.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 cumleleri SEP girisinde dogrudan; k6 tanitim cumlesi ve alt baslik katalog sayfasinda gecer, katalog kuralina gore kismi."
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Aynı felsefe kaydına göre teknoloji felsefesi, bir disiplin olarak yavaş yavaş kurulduğu son bir buçuk yüzyıl boyunca çoğunlukla teknolojinin kendisiyle değil, teknolojinin toplum ve kültür için taşıdığı anlam ve onlar üzerindeki etkileriyle uğraştı; Carl Mitcham 1994'te bu geleneği, insan bilimlerinin önceliğini kabul ettiği için insani teknoloji felsefesi diye adlandırdı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Aynı sayfada Marx, insanların yeni üretici güçler kazanırken üretim tarzlarını, üretim tarzlarını değiştirirken de bütün toplumsal ilişkilerini değiştirdiğini yazar; şema burada tek yönlü görünüyor.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Cohen, kuramı işlevsel açıklamaya dayalı biçimde yeniden kurarak savundu: iktisadi yapı üretici güçleri geliştirdiği için vardır ve geliştiremez hâle geldiğinde dönüşür.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Yeniden kuruluşun iskeleti iki tezdir: gelişme tezi, üretici güçlerin gelişmesinin bir yasa değil bir eğilim olduğunu söyler; öncelik tezi, iktisadi yapının niteliğini üretici güçlerin düzeyinin, siyasal ve hukuki üstyapının niteliğini de iktisadi yapının açıkladığını ileri sürer.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Kaydın kendi özet cümlesi bile ihtiyat payı bırakır: maddi hayat toplumsal hayatı belirler — ya da en azından koşullar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP ozet cumlesi: determines, or at least conditions."
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Aynı kayıt bu okumanın evrensel kabulden uzak olduğunu da not eder: eleştirmenlere göre model fazla mekaniktir, diyalektiği görmezden gelir ve Cohen'in dayandığı 1859 Önsözü'nde sınıf mücadelesinin adı bile geçmediğinden, kurama şaşırtıcı ölçüde küçük bir sınıf mücadelesi rolü kalır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "1962'de yayımlanan Medieval Technology and Social Change, tutulan kayda göre şu zinciri savunur: üzengi ağır süvariyi ve atlı şok muharebesini mümkün kıldı; sekizinci ve dokuzuncu yüzyılın Karolenj iktidarı bu savaş biçimini beslemek için atlı savaşçıyı toprak tahsisiyle ödüllendiren vasallık düzenini örgütledi; Avrupa ortaçağının feodal sınıfı, üzenginin mümkün kıldığı biçimde savaşan atlı savaşçılar olmak için var oldu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Zincir k4te dogrudan aktarilir; k5 katalog kaydi eserin kimligini ve 1962 tarihini dogrular."
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "White tezini dil değişimlerine ve silah buluntularına bağlar: fırlatma baltasının yerini at sırtından kullanılan kargı ile uzun kılıcın alması, ona göre değişimin sekizinci yüzyıl başında gerçekleştiğinin kanıtıdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "On dokuzuncu yüzyıl Alman tarihçisi Heinrich Brunner, atlı savaşa geçişi 732'deki Tours çarpışmasının sonrasına yerleştirmiş; Kısa Pepin'in 758'de Saksonlardan haracı at olarak istemeye başlamasını süvariye dayanan bir ordunun işareti saymış ve Charles Martel'in kilise topraklarına el koymasını süvari besleme ihtiyacına bağlamıştı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "White bu iskeleti devraldı ve ona aygıtı ekledi: kayda göre üzenginin en erken biçimleri Çin'de bulunur ve White aygıtın Avrupa'ya aktarımını bir teknoloji yayılması örneği olarak izler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Peter Sawyer ile Rodney Hilton, Nisan 1963 tarihli değerlendirmelerinde argümanın en ciddi zayıflığını üzenginin hiçbir değişimi açıklamaya yetmemesinde bulur; onlara göre \"üzengi yeni yöntemleri mümkün kıldı, kaçınılmaz kılmadı\".",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sawyer-Hilton alintisi k4te birebir gecer."
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Aynı kayıt, White'a yöneltilen spekülasyon, aşırı sadeleştirme ve karşıt kanıtı görmezden gelme suçlamalarını sıralar; üzengisiz ağır süvarinin — kataphraktların — Karolenjlerden yüzyıllar önce savaştığı hatırlatılır ve Stephen Morillo süvariye geçişi aygıtla değil merkezî yönetimin yokluğuyla açıklayan bir alternatif ileri sürer.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Temmuz 1984'te Twente Üniversitesi'nde toplanan atölyenin bildirileri, Wiebe Bijker, Thomas Hughes ve Trevor Pinch'in derlemesiyle 1987'de MIT Press'ten çıktı; derlemenin alt başlığı programın iddiasını taşır: teknoloji sosyolojisi ve tarihinde yeni yönler.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog sayfasi Temmuz 1984 Twente atolyesini, 1987 ilk baskiyi, MIT Pressi ve alt basligi tasir; katalog kuralina gore kismi."
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Programın çatı metni, Pinch ile Bijker'in bilim sosyolojisinin araçlarını teknolojiye taşıyan The Social Construction of Facts and Artifacts başlıklı makalesidir; Bijker aynı çizgiyi 1995'te Of Bicycles, Bakelites, and Bulbs ile vaka üçlemesine dönüştürdü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki baslik ve 1995 tarihi sayfadaki kaynakcada gecer; cati metni nitelemesi yorum katmanidir."
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Türkçe yazında programı değerlendiren Selin Kara'nın 2017 tarihli incelemesine göre teknolojik belirlenimcilik, teknolojiyle toplumsal değişim arasında mekanik bir nedensellik kurar ve teknolojiyi değişimin yegâne belirleyeni sayar; buna tepki olarak doğan inşacı kuram ise toplum ve teknolojinin ortaklaşa inşa edildiği varsayımına dayanır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Aynı inceleme, inşacı bakışın teknoloji ile toplum arasındaki etkileşime vurgusuyla \"daha bütüncül bir kavrayış\" sunduğu sonucuna varır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Felsefe kaydının aktarımına göre Winner 1980'de nesnelerin siyaset taşıdığını ileri sürdü: kimi teknolojiler özünde siyasaldır, çünkü belirli iktidar ve otorite biçimlerini cisimleştirir ya da belirli toplumsal-siyasal ilişkilerle güçlü uyum içindedir; demiryolu ve nükleer enerji, otoriteye dayalı belirli bir yönetim yapısı gerektirir görünen örnekler olarak verilir, başka teknolojilerse tasarlanma ve kurulma biçimleri — yansıttıkları değer sistemi ve iktidar yapısı — nedeniyle siyasal sayılır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP: seem to require a certain authoritative management structure — hakem duzeltmesi: otoriter yerine otoriteye dayali belirli bir yonetim yapisi (authoritative/authoritarian ayrimi)."
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Deneme 1986'da The Whale and the Reactor içinde kitaplaştı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog kaydi basligi ve 1986 tarihini tasir."
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Aynı kayıt teknoloji etiğindeki genel eğilimi de bu yönde tarif eder: teknolojiyi verili ve özerk sayan belirlenimcilikten, teknolojik gelişmeyi amaçlanmamış sonuçları da olan insan seçimlerinin ürünü sayan vurguya doğru bir kayma.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Denemenin en çok anılan örneği, kitaplaşmış hâliyle dolaşımda olan Robert Moses anlatısıdır: New York'un imar ustasının Long Island'daki köprü altı yüksekliklerini otobüsler geçemeyecek biçimde tutturarak plajları yoksul kesime kapattığı söylenir.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Moses ornegi denemenin bilinen icerigidir ama havuzdaki kunyelerle dogrulanamiyor; govde bunu acikca soyluyor, anlatinin dogruluguna hicbir iddia yaslanmiyor. Katalog kunyesi yalnizca denemenin kitaplastigi baglami verir."
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "sorusu, Bruce Bimber'ın belirlenimciliğin üç yüzünü ayıran denemesi, Thomas Misa'nın toplu-teknik değişimi belirlenimcilikten geri alma çabası, Peter Perdue'nün tarım toplumları ve Richard Bulliet'nin sanayi öncesi teknoloji incelemeleri, Rosalind Williams'ın siyasal ve feminist boyutu ile Leo Marx'ın postmodern karamsarlık denemesi aynı ciltte yan yana durur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Deneme basliklari katalog sayfasindaki icindekiler listesinde gecer."
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Hughes aynı derlemede Technological Momentum başlıklı denemesiyle yer alır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Icindekiler listesi: Technological momentum / Thomas P. Hughes."
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Hughes'un başlığa taşıdığı kavram, yazında belirlenimi bir öz değil zamana bağlı bir evre sayan uzlaşma önerisi olarak anılır: genç sistem toplumsal seçime açıktır, olgunlaşan sistem kurumlarıyla iç içe geçtikçe kendi ağırlığını kazanır ve belirlenimci gibi davranmaya başlar.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Momentum icerigi baslik ve derleme baglami duzeyinde aktarildi; tam metin havuzda yok, cumle anilir kipiyle kuruldu."
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Eisenstein'ın 1979'da yayımlanan iki ciltlik incelemesi programını başlığında taşır: matbaa bir \"değişim etkeni\"dir ve erken modern Avrupa'nın iletişim ve kültür dönüşümleri onun üzerinden okunur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Baslik, alt baslik ve 1979 tarihi katalog kaydinda; katalog kuralina gore kismi."
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Katalog kaydının konu başlıkları bile iddianın alanını çizer: baskı, Reform, Rönesans, teknoloji ve uygarlık aynı satırda listelenir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Konu basliklari katalog sayfasinda listelenir."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Adrian Johns'un 1998 tarihli The Nature of the Book'u karşı programı yine başlıkla ilan eder: baskı ve bilgi \"yapım hâlinde\"dir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Baslik, alt baslik ve 1998 tarihi katalog kaydinda; katalog kuralina gore kismi."
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Johns'un çizgisinde basılı metne duyulan güven matbaanın verili bir özelliği değil, insanların emeğiyle kurulmuş bir başarıdır; iki kitabın başlıkları bile aynı aygıta iki karşıt cümle kurulabildiğini gösterir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k11",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki basligin karsitligi katalog kayitlarindan okunur; Johns cizgisinin ozeti alt basliga dayanir."
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "İnternet kullanımı serisinde dünya değeri 2005'te yaklaşık yüzde 15,6, 2025'te yaklaşık yüzde 73,6'dır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "2005=15.6 ve 2025=73.6 degerleri CSVde World satirlarinda birebir."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Çağ ölçeğinde Marx'ın şeması duruyor ve o şemanın ne kadar katı okunacağı Marx yorumcularını hâlâ bölüyor.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 20,
+    "kismi": 10,
+    "desteksiz": 0,
+    "olculemez": 1
+  }
+}

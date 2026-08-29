@@ -1,5 +1,5 @@
 ## donem-02
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:12.162Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:47:57.007Z_
 
 - [ATOMSUZ] k1 → "Tunç Çağı kültürleri yazıyı geliştiren ilk kültürlerdi." — programatik olarak ölçülemedi (ad karşılığı yok): Çağı
 - [OK]      k1 → "Tunç Çağı, Eski Dünya'nın büyük bölümünde MÖ 3000'e gelindiğinde başlamıştı; ancak farklı yerlerde farklı zama…" — 1 atom doğrulandı; 3 ad ölçülemedi

@@ -1,63 +1,297 @@
 {
   "id": "tartisma-romanin-cokus-nedeni",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:28.207Z",
-  "govde_hash": "0f7ac1d8d8b5",
-  "commit": "1d273c7",
+  "zaman": "2026-08-29T09:00:04.139Z",
+  "govde_hash": "7ec7c159c3c5",
+  "commit": "58a10ea",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "1984'te Alexander Demandt, Roma'nın neden çöktüğüne dair 210 farklı kuram saydı ve o tarihten sonra yeni kuramlar ortaya çıktı.",
+      "iddia": "Roma'nın çöküşü sorusu, cevaplarının sayısıyla tanınan bir tarih yazımı sorunudur: Alexander Demandt 1984'te, Batı Roma'nın sonunu açıklamak için öne sürülmüş 2",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Roma'nın çöküşü sorusu, cevaplarının sayısıyla tanınan bir tarih yazımı sorunudur: Alexander Demandt 1984'te, Batı Roma'nın sonunu açıklamak için öne sürülmüş 2",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Katalogda tanrıların terk edilişi, Bolşevikleşme, kadınların özgürleşmesi, ormansızlaşma ve gut hastalığı yan yana durur; liste bir cevap dökümü olduğu kadar, h",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ahlaki çürüme, dış tehdit, mali tükeniş, çevresel darbe ve çöküşün aslında bir dönüşüm olduğu cevabı: modern gerileme tartışmalarının bu kalıpları burada döküld",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Batı Roma İmparatorluğu'nun çöküşünün nedenleri ve mekanizmaları, tarihçi Edward Gibbon'ın 1776 tarihli kitabıyla gündeme getirilmiş bir tarihsel temadır; Gibbo",
+      "iddia": "Edward Gibbon 1776'da yayımlanmaya başlayan The History of the Decline and Fall of the Roman Empire ile soruyu modern biçimine soktu; kaynağa göre Gibbon, bir i",
       "durum": "OK",
-      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Gibbon'ın kendisi hem iç çöküş fikirlerini — iç savaşlar, siyasi, iktisadi, askerî ve diğer toplumsal kurumların çözülmesi — hem de imparatorluk dışından gelen ",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, tarihçilerin vardığı sonuçların genellikle iki geniş okuldan birine ait olduğunu belirtir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Dönüşümü sebep olarak savunanlar, imparatorluğun \"çöküşü\" nosyonunun bütününe meydan okur ve belirli bir siyasi düzenin kullanımdan kalkması ile toplumsal sürek",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bury'nin savunduğu okumada çöküş, birçoğu dönemin halklar göçüyle harekete geçirilmiş bir dizi olumsuz sürecin birleşik etkisine bağlanır; bu süreçler birlikte ",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Göçün ölçüsü de kayıtlıdır: Roma topraklarına yönelen toplam göç kabaca 500.000 ile 1.000.000'un üzerinde bir aralıkta tahmin edilir.",
+      "iddia": "Kitabın açılışı, ikinci yüzyıl imparatorluğunu yeryüzünün en güzel bölümünü ve insanlığın en uygar kesimini kapsayan bir düzen olarak çizer; Gibbon'a göre Domit",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Gerilemenin başlangıcını Gibbon 180 yılına, Marcus Aurelius'un ölümünün ertesine yerleştirir; uzun barış, imparatorluğun hayati organlarına \"yavaş ve gizli bir ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Gerilemenin başlangıcını Gibbon 180 yılına, Marcus Aurelius'un ölümünün ertesine yerleştirir; uzun barış, imparatorluğun hayati organlarına \"yavaş ve gizli bir ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çöküş ona göre ölçüsüz büyüklüğün doğal ve kaçınılmaz meyvesiydi: refah çürümenin ilkesini olgunlaştırdı, fetih genişledikçe yıkımın kaynakları çoğaldı ve yapay",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Din faslını da en kısa kendisi özetlemişti: Gibbon'a göre anlattığı şey \"barbarlığın ve dinin zaferi\"ydi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki büyük kanat daha kaynak kitapta iç içeydi: Gibbon'ın kendisi hem iç çözülme fikirlerini — iç savaşları; siyasi, iktisadi, askerî ve öbür toplumsal kurumları",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bury, 1889'da açılıp 1923'te genişleyen History of the Later Roman Empire'da ahlaki çürüme kuramına iki cevap verdi: kararlılıkla hıristiyan olan doğu imparator",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bury'nin listesi somuttur: iktisadi gerileme, Germen yayılması, İtalya'da nüfusun seyrelmesi, orduda barbar birliklere bağımlılık, Stilicho'nun felaketle biten ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Got geleneğini derleyen Getica, Hunların ortaya çıkışını bir söylenceye bağlar: Jordanes'e göre Got kralı Filimer'in ordugâhtan sürdüğü büyücü kadınlar ıssızlık",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Aynı metin imparatorluğun ağır yenilgisini de Got tarafından anlatır: Trakya'daki savaşta yaralanan Valens, Hadrianopolis yakınındaki bir çiftlik evine sığındı;",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Zaferin ardından Vizigotlar, Jordanes'in anlatımıyla Trakya'yı \"sanki kendi yurtlarıymış gibi\" ellerinde tuttular.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Metnin göç anlatısının bir bölümü, yayımına eklenen incelemenin gösterdiği gibi, çağdaş tanık Ammianus Marcellinus'un bugün kayıp kitaplarından alınmadır; tanık",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Aynı tanıklık okuldan okula başka türlü okunur: klasik anlatı Jordanes'te yıkımın ve kaybedilen eyaletlerin kaydını, dönüşüm okulu Got hafızasının Roma biçimler",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kopuş yerine sürekliliği koyan çizginin kökü on dokuzuncu yüzyıla iner; Fustel de Coulanges, barbarların Roma kurumlarının zaten süren dönüşümüne katıldığını ya",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Henri Pirenne bu fikri 1920'lerde yayımlanan teziyle sürdürdü: barbarlar Roma'yı yıkmak için değil, nimetlerinden pay almak için geldiler ve Roma yaşayışını kor",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eleştirmenler bu tezin iki noktada hatalı olduğunu ileri sürdü: Karolenj düzenini bir Roma devleti gibi okumak ve Arap fetihlerinin etkisini abartmak.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın öncüsü saydığı Peter Brown'un çevresinde toplanan tarihçiler, imparatorluğun düştüğü fikrinin kendisinden uzaklaştılar; onlara göre yüzyıllara yayılan ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Brown'un The World of Late Antiquity'si dönemi 150-750 olarak çizer ve kendini, Geç Antik dünyanın klasik uygarlıktan nasıl ve neden farklılaştığını açıklayan b",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Brown'un The World of Late Antiquity'si dönemi 150-750 olarak çizer ve kendini, Geç Antik dünyanın klasik uygarlıktan nasıl ve neden farklılaştığını açıklayan b",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Walter Goffart bu okuma içinde keskin bir tez savunur: 1980'de Princeton'dan çıkan Barbarians and Romans, 418-584 arasındaki barbar yerleşimini daha başlığıyla ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı damarın bir başka kolunu Lucien Musset temsil eder: onun incelemesinde Orta Çağ Avrupası, Greko-Romen dünya ile ona giren Germen topluluklarının sentezinde",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bryan Ward-Perkins, 2005 tarihli The Fall of Rome and the End of Civilization'da geleneksel görüşü modern bulgularla güncelleyen bir savunma kurdu: imparatorluğ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bryan Ward-Perkins, 2005 tarihli The Fall of Rome and the End of Civilization'da geleneksel görüşü modern bulgularla güncelleyen bir savunma kurdu: imparatorluğ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İstilalar eyaletlerdeki vergi tabanında uzun vadeli hasar bıraktı; geliri azalan merkez lejyonları ödeyip donatamadı ve korunamayan eyaletlerin kendi başının ça",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çöküş olmadı diyen okulun aksine Ward-Perkins, eski imparatorluğun birçok bölgesinde arkeolojik kaydın sahici bir felaketi gösterdiğini savunur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Çöküş olmadı diyen okulun aksine Ward-Perkins, eski imparatorluğun birçok bölgesinde arkeolojik kaydın sahici bir felaketi gösterdiğini savunur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kurduğu yakınlık da anlamlıdır: Ward-Perkins'in modeli, tıpkı Bury'ninki ve Heather'ınki gibi, birlikte kesin bir gerilemeye ve düşüşe götüren döngüsel",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ona göre imparatorluk sistemi ilk iki yüzyıl boyunca ve üçüncü yüzyılın bir bölümünde işler durumdaydı; ciddi sıkıntının habercisi, İran'da Sasani gücünün (226-",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Doğu sınırına kalıcı olarak daha çok kaynak bağlandı; bölgesel vergi gelirleri merkeze çekildikçe yerel yatırımın gerekçesi kayboldu ve taşranın okuryazar topra",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Heather 376'daki Got girişini Karadeniz çevresindeki Hun hareketlerine, 406'daki Ren geçişini Germania'daki Hun ilerleyişine bağlar; Hunlar kendileri sınıra day",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Gibbon'ın din ve ahlaki çöküş savını da iç çekişme açıklamasını da reddeder; iç çekişme ona göre imparatorluk tarihi boyunca yinelenen bir etkendi ve beşinci yü",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Katalogdaki kuramların bir bölümü, her şeyi açıklayan bir etken arayışının ürünüdür ve bu türün ünlü örneği kurşundur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Katalogdaki kuramların bir bölümü, her şeyi açıklayan bir etken arayışının ürünüdür ve bu türün ünlü örneği kurşundur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Jeokimyacı Jerome Nriagu 1983 tarihli kitabında, kurşun kaplarda kaynatılan üzüm şırasından yapılan tatlandırıcı üzerinden kurşun zehirlenmesinin gerilemede pay",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Farmakolog ve antik çağ uzmanı John Scarborough ise kitabı yanlış kanıt ve kaynak hatalarıyla dolu buldu; Scarborough'nun vardığı yargıya göre antik hekimler ku",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kurşun tezinin bugünkü durumu budur: popüler anlatıda yaşamaya devam eden, uzman yazında ise büyük ölçüde gözden düşmüş bir açıklama.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Kyle Harper 2017 tarihli The Fate of Rome'da paleoiklim kayıtlarını ve genom bulgularını tarihsel anlatıyla birleştirdi; kitabın savunduğu tabloda Roma'nın kade",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kyle Harper 2017 tarihli The Fate of Rome'da paleoiklim kayıtlarını ve genom bulgularını tarihsel anlatıyla birleştirdi; kitabın savunduğu tabloda Roma'nın kade",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Tanıtımın özeti serttir: kuşatılan imparatorluk, bir \"küçük buz çağı\" ile art arda gelen hıyarcıklı veba salgınlarının birleşik yüküne daha fazla dayanamadı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Katmanın parçaları tartışmada daha önce de vardı: 535-536'daki küresel iklim olayları ile erken veba ve sıtma salgınları çöküş yazınında Harper'dan önce de anıl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bury'nin ahlaki çürüme kuramına karşı kullandığı olgu buydu ve sonraki her okul, açıklamasını bu asimetriye göre ayarlamak zorunda kaldı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Batıda son imparatorun 476'da indirilmesinden sonra bile İtalya'ya asıl büyük hasarı, kaynağın aktardığı değerlendirmeye göre, doğu imparatoru Justinianus'un al",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "yüzyıldaki çöküşünden sonra varlığını sürdürdü ve Konstantinopolis'in 1453'te Osmanlı İmparatorluğu'na düşmesine kadar devam etti.",
+      "iddia": "Sınıflama sorusu: Demandt'ın listesi, \"neden\" kavramının ne kadar esnediğini gösteren bir aynadır — ordunun Germenleşmesi bir neden midir, bir belirti mi, yoksa",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Doğu kanadının sonunu getiren düzenin kendisi ayrı bir kurumsal tarihe sahiptir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     }
   ]
 }

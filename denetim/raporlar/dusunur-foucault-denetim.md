@@ -1,5 +1,5 @@
 ## dusunur-foucault
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:23.478Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:08.789Z_
 
 - [OK]      k1 → "Kaynak onu 1926-1984 arasında yaşamış bir Fransız tarihçi ve filozof olarak kaydeder ve yapısalcı ile post-yap…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kaynak mesleği tek bir sözcükle vermez: tarihçi ve filozof." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

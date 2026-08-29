@@ -1,5 +1,5 @@
 ## olay-istanbulun-fethi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:16.692Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:01.708Z_
 
 - [OK]      k1 → "Bizans İmparatorluğu'nun başkenti Konstantinopolis, 6 Nisan'da başlayan elli üç günlük bir kuşatmanın doruk no…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Konstantinopolis, 330'da Roma İmparatoru Büyük Konstantin döneminde kutsanmasından beri bir imparatorluk başke…" — 5 atom doğrulandı; 1 ad ölçülemedi

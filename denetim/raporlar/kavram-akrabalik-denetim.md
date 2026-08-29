@@ -1,5 +1,5 @@
 ## kavram-akrabalik
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:24.707Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:10.083Z_
 
 - [ATOMSUZ] k1 → "Akrabalık düzeni, atlas için bir aile konusu değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Bu üçü çoğu düzende akrabalık yoluyla aktarılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

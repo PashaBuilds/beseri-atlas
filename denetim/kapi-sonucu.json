@@ -1,6 +1,6 @@
 {
   "mod": "--lint",
-  "zaman": "2026-08-29T04:21:32.574Z",
+  "zaman": "2026-08-29T09:07:36.628Z",
   "gecti": true,
   "makale_sayisi": 505,
   "kapilar": [
@@ -54,9 +54,9 @@
       "hatalar": [],
       "olcum": {
         "olculen": 421,
-        "hedefTutan": 178,
-        "borclu": 243,
-        "eksikKelime": 194874,
+        "hedefTutan": 188,
+        "borclu": 233,
+        "eksikKelime": 182848,
         "tipOzet": {
           "donem": {
             "n": 16,
@@ -85,8 +85,8 @@
           },
           "tartisma": {
             "n": 40,
-            "tutan": 16,
-            "eksik": 27444
+            "tutan": 26,
+            "eksik": 15418
           }
         }
       }
@@ -99,11 +99,11 @@
       "hatalar": [],
       "olcum": {
         "olculen": 505,
-        "toplamKunye": 1773,
-        "kuralIhlali": 196,
-        "birincilsiz": 234,
-        "toplamGiris": 673,
-        "birincilKunye": 358,
+        "toplamKunye": 1843,
+        "kuralIhlali": 190,
+        "birincilsiz": 225,
+        "toplamGiris": 664,
+        "birincilKunye": 413,
         "turlenmemis": 0
       }
     },
@@ -135,11 +135,11 @@
       "uyari": 0,
       "hatalar": [],
       "olcum": {
-        "atlas_oz": 2633,
-        "bu_dosya": 1466,
+        "atlas_oz": 2610,
+        "bu_dosya": 1462,
         "ayrica_kaydeder": 1003,
         "sablon_kapanis": 542,
-        "borclu": 465
+        "borclu": 455
       }
     },
     {

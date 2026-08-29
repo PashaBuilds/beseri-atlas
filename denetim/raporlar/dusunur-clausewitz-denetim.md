@@ -1,5 +1,5 @@
 ## dusunur-clausewitz
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:23.319Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:08.627Z_
 
 - [OK]      k1 → "Kaynak onu 1 Temmuz 1780 - 16 Kasım 1831 arasında yaşamış bir Prusya ordusu subayı ve askerî kuramcı olarak ka…" — 3 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Kaynak, dul eşinin savaş felsefesi üzerine olan başyapıtını 1832'de düzenlediğini, yayımladığını ve giriş bölü…"

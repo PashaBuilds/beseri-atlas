@@ -1,5 +1,5 @@
 ## tartisma-nufus-artisi-tehdit-mi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:00:36.113Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:14.230Z_
 
 - [OK]      k2 → "Thomas Malthus 1798'de, insan sayısının geçim araçlarından daha hızlı büyüme eğiliminde olduğunu savunan bir d…"
 - [ATOMSUZ] k6 → "Sorunun iki yüzyıllık kaydı, iki tarafa da malzeme veren serilerle dolu: artış hızı yavaşlıyor, verim yükseliy…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

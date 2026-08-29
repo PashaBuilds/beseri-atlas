@@ -1,5 +1,5 @@
 ## tartisma-tarim-devrimi-ilerleme-mi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.522Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:14.846Z_
 
 - [OK]      k2 → "Childe terimi 1936 tarihli Man Makes Himself adlı kitabında ortaya attı ve Orta Doğu tarihindeki bir dizi tarı…"
 - [OK]      k1 → "Childe terimi 1936 tarihli Man Makes Himself adlı kitabında ortaya attı ve Orta Doğu tarihindeki bir dizi tarı…"

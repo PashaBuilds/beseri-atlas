@@ -1,5 +1,5 @@
 ## kavram-silahli-ticaret
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:26.587Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:12.047Z_
 
 - [ATOMSUZ] k1 → "Silahlı ticaret, ticaret gelirinin askerî güce, askerî gücün de ticaret ayrıcalığına yatırıldığı bir düzeneğe …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Silahlı ticaret, ticaret gelirinin askerî güce, askerî gücün de ticaret ayrıcalığına yatırıldığı bir düzeneğe …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

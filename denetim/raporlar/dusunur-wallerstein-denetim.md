@@ -1,5 +1,5 @@
 ## dusunur-wallerstein
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:24.563Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:09.945Z_
 
 - [ATOMSUZ] k1 → "Kaynak, kuram bölümünün altında iki alt başlık tutar: modern dünya sistemi ve eleştiri." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak, kuram bölümünün ikinci alt başlığını doğrudan eleştiriye ayırır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

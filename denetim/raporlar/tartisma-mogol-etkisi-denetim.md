@@ -1,17 +1,57 @@
 ## tartisma-mogol-etkisi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:18.467Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T08:59:32.536Z_
 
-- [ATOMSUZ] k1 → "Bu haritanın çıkış noktası, kaynağın kendi bölüm listesidir: aynı maddede hem İpek Yolu'na hem mirasa ayrı böl…" — programatik olarak ölçülemedi (ad karşılığı yok): İpek, Yolu
-- [OK]      k1 → "Kaynak, imparatorluğun tarihteki en büyük bitişik imparatorluk olduğunu ve zirvesinde Japon Denizi'nden Doğu A…" — 1 atom doğrulandı; 3 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir siyasi birimin bu ölçekte kaydedilmesi, hem bağlantı hem yıkım iddialarının aynı büyüklüğe uygulandığını g…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, imparatorluğun Moğol anayurdundaki birkaç göçebe kabilenin Cengiz Han unvanıyla bilinen Temuçin önderl…" — 4 atom doğrulandı; 3 ad ölçülemedi
-- [ATOMSUZ] k1 → "Kaynak, toplum başlığı altında dinler, sanat ve edebiyat, bilim ve posta sistemi alt başlıklarını tutar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir imparatorluğun posta sisteminin ayrı bir alt başlık taşıması, birinci pozisyonun dayanağıdır: bağlantı idd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "İstilayı bizzat yaşamış kişilerle görüşen İbnü'l-Esîr'e göre Tatar istilası, Âdem'den beri insanoğlunun uğradı…"
+- [OK]      k4 → "Karşı çerçevenin adı ise kendi tezini taşır: Roma Barışı'ndan örnekle türetilmiş bir tarih yazımı terimi olan …" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Üstelik iki bilanço ayrı kütüphanelerde de durmaz: aynı ansiklopedi maddesi, felaket hükmü ile istilanın oluml…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Timuçin'in 1206'da Onon kıyısındaki kurultayda Cengiz unvanıyla kağan ilan edilişi bu iki tarihin ortak başlan…"
+- [OK]      k6 → "Cüveynî, istilanın hem tanığı hem görevlisiydi: mütercimi Boyle'un girişine göre Moğollar hakkında çağdaş kayı…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Buhara 1220'de düştü; şehrin sonunu Cüveynî, oradan kaçıp Horasan'a ulaşan bir adamın ağzından aktarır."
+- [OK]      k6 → "Buhara 1220'de düştü; şehrin sonunu Cüveynî, oradan kaçıp Horasan'a ulaşan bir adamın ağzından aktarır."
+- [ATOMSUZ] k6 → "Adamın cevabı bir cümleye sığar: "Geldiler, kazdılar, yaktılar, öldürdüler, yağmaladılar ve gittiler." Cüveynî…" — programatik olarak ölçülemedi (ad karşılığı yok): Geldiler, Farsçada
+- [ATOMSUZ] k6 → "Adamın cevabı bir cümleye sığar: "Geldiler, kazdılar, yaktılar, öldürdüler, yağmaladılar ve gittiler." Cüveynî…" — programatik olarak ölçülemedi (ad karşılığı yok): Geldiler, Farsçada
+- [OK]      k3 → "Cengiz Han 1219 yazında ordularıyla İrtiş bölgesine ulaştı ve sonbaharda Otrar'ı kuşattı; Buhara 10 Şubat 1220…"
+- [OK]      k1 → "Kafkaslar yönünde ilerleyen müfrezelerin gerilerinde virane hâlinde bir ülke bıraktığı, bu harekâtı 1224'te ya…"
+- [OK]      k1 → "Kafkaslar yönünde ilerleyen müfrezelerin gerilerinde virane hâlinde bir ülke bıraktığı, bu harekâtı 1224'te ya…"
+- [OK]      k1 → "Hülâgû 1256'da Alamut'u ele geçirip oradaki hâkimiyete son verdi; iki yıl sonra Bağdat'a girerek Abbâsî hilâfe…"
+- [OK]      k1 → "Kuşatmanın kendisi dosyasında işleniyor; ilerleyiş batı yönünde 1260'ta Aynicâlût'ta durduruldu."
+- [OK]      k1 → "Maddeye göre istilanın ardından halkın mistik eğilimleri yoğunlaştı, aklî ilimler geriledi ve istila Çin'den D…"
+- [OK]      k1 → "Yağmanın coğrafyası da kayıtlıdır: Celâleddin'in son önemli direnişi 1228'de İsfahan önlerinde kırıldı, Fars d…"
+- [OK]      k1 → "Dinî baskı da bilançoya eklenir: maddeye göre bazı İlhanlı hükümdarları döneminde müslümanlar zulüm ve haksızl…"
+- [OK]      k9 → "Yülek ve Gür'ün 2024 tarihli çalışmasına göre istila öncesi Anadolu'nun iktisadi gelişim düzeyi Doğu ve Batı A…"
+- [OK]      k9 → "Çalışmanın vardığı cümle tartışmanın tam ortasına oturur: yazarlara göre Moğol Barışı, Selçuklu Barışı'nı orta…"
+- [OK]      k4 → "Maddeye göre imparatorluk en geniş hâlinde doğuda Busan'dan batıda Budapeşte'ye uzanıyordu; dört hanlığa bölün…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Düzenin ticari alt yapısı da aynı yerde kayıtlıdır: Moğol seçkinleri Orta ve Batı Asya'dan ve Avrupa'dan tücca…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "Yam adıyla bilinen menzil düzeneğinin maddeye göre Ögedey döneminde 1234'te kurulmaya başlandığı, istasyonları…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Tanığın kendi kitabı da bu düzeneğe yer ayırır: seyahatnamenin Yule ile Cordier'nin hazırladığı basımı, hanın …"
+- [OK]      k4 → "Moğol Barışı maddesi, Moğol döneminde çok sayıda personel değişiminin yaşandığını Allsen'e dayanarak not eder;…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k7 → "Moğol Barışı maddesi, Moğol döneminde çok sayıda personel değişiminin yaşandığını Allsen'e dayanarak not eder;…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Yıkım vurgusunun ağır bastığı ansiklopedi maddesi bile burada karşı okumaya alan açar: baştaki yarım asrın kat…"
+- [OK]      k1 → "Yıkım vurgusunun ağır bastığı ansiklopedi maddesi bile burada karşı okumaya alan açar: baştaki yarım asrın kat…"
+- [OK]      k8 → "Weatherford'un 2004'te New York'ta Crown'dan çıkan kitabının başlığı iddiasını kendisi söyler: Cengiz Han ve m…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k4 → "Moğol Barışı maddesinin dipnot listesinde bu kitabın sayfa numaralarıyla tekrar tekrar görünmesi, popüler anla…" — programatik olarak ölçülemedi (ad karşılığı yok): Barışı
+- [ATOMSUZ] k8 → "Moğol Barışı maddesinin dipnot listesinde bu kitabın sayfa numaralarıyla tekrar tekrar görünmesi, popüler anla…" — programatik olarak ölçülemedi (ad karşılığı yok): Barışı
+- [ATOMSUZ] k8 → "Moğol Barışı maddesinin dipnot listesinde bu kitabın sayfa numaralarıyla tekrar tekrar görünmesi, popüler anla…" — programatik olarak ölçülemedi (ad karşılığı yok): Barışı
+- [OK]      k9 → "Nitekim aynı çerçeveye Anadolu özelinden itiraz eden hakemli çalışma, barışın kazancını kimin cebinde aradığın…"
+- [OK]      k4 → "Moğol Barışı maddesine göre dönemin kapanışını hanlıkların dağılması ile Kara Ölüm'ün on dördüncü yüzyıl ortas…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k10 → "Ölçeği kurumsal sağlık kaynağı verir: on dördüncü yüzyılda Kara Ölüm adıyla bilinen salgın Avrupa'da 50 milyon…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k10 → "Aynı sayfa hastalığın bugün antibiyotiklerle kolayca tedavi edildiğini de yazar; ölçeğin o yüzyıla özgü olduğu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Cengiz Han maddesi iki tanığın rakamını yan yana verir: Merv'de öldürülenler İbnü'l-Esîr'e göre 700.000, Cüvey…"
 - [OK]      k2 → "Uzun dönemli seride dünya nüfusu 1200 yılında yaklaşık 444,7 milyon, 1300 yılında yaklaşık 456,2 milyondur."
-- [ATOMSUZ] k1 → "Atlas bu iki değeri yıkım iddiasının kanıtı ya da çürütmesi olarak sunmaz: seri dünya toplamını verir, bölgese…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu iki değeri yıkım iddiasının kanıtı ya da çürütmesi olarak sunmaz: seri dünya toplamını verir, bölgese…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Aynı yüzyıllarda İslam dünyasındaki metin geleneği için tutulan kayıt, bir düşünürü 1126-1198 arasına yerleşti…"
-- [ATOMSUZ] k1 → "Atlas bu kaydı bir süreklilik ya da kopuş kanıtı olarak kullanmaz; iki kayıt arasında bir bağ kullanılan kayna…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Atlas bu kaydı bir süreklilik ya da kopuş kanıtı olarak kullanmaz; iki kayıt arasında bir bağ kullanılan kayna…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Seri dünya toplamını verir; bölgesel kaybı, ölüm nedenini ve fetihlerin payını vermez — iki değer arasındaki f…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Yıkım okuması ne kaybedildiğini sorar ve tanık kayıtlarıyla vergi düzenine işaret eder; bütünleşme okuması ney…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Yıkım okuması ne kaybedildiğini sorar ve tanık kayıtlarıyla vergi düzenine işaret eder; bütünleşme okuması ney…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Yıkım okuması ne kaybedildiğini sorar ve tanık kayıtlarıyla vergi düzenine işaret eder; bütünleşme okuması ney…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Yıkım okuması ne kaybedildiğini sorar ve tanık kayıtlarıyla vergi düzenine işaret eder; bütünleşme okuması ney…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Yıkım okuması ne kaybedildiğini sorar ve tanık kayıtlarıyla vergi düzenine işaret eder; bütünleşme okuması ney…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k10 → "Yıkım okuması ne kaybedildiğini sorar ve tanık kayıtlarıyla vergi düzenine işaret eder; bütünleşme okuması ney…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Yıkım okuması ne kaybedildiğini sorar ve tanık kayıtlarıyla vergi düzenine işaret eder; bütünleşme okuması ney…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Fetih ölümlerinin toplamı için elde olan malzeme, Merv örneğindeki gibi tanık tahminleridir; iki tanık arasınd…"
+- [OK]      k9 → "Barışın kime yaradığı bölgeye göre değişir; Anadolu için çıkarılan bilanço, ağın merkez hattı için çıkarılan b…"
+- [ATOMSUZ] k4 → "Barışın kime yaradığı bölgeye göre değişir; Anadolu için çıkarılan bilanço, ağın merkez hattı için çıkarılan b…" — programatik olarak ölçülemedi (ad karşılığı yok): Anadolu
+- [OK]      k6 → "Cüveynî'nin tarihi, Boyle'un girişinde vurgulandığı gibi, Bağdat'ı alan hükümdarın güvenini kazanmış bir görev…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "İbnü'l-Esîr ise kaydını istilayı bizzat yaşamış kişilerle görüşerek kurdu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Cengiz Han maddesine göre batıya dönük büyük seferin kıvılcımı, 1219'da Otrar'da bir ticaret kervanının yağmal…"
+- [ATOMSUZ] k4 → "Ticaretle açılan hesap, ticaret ağı boyunca yayılan salgınla kapandı; iki ucu da kayıtlı olan bu yay, yıkım il…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 4 OK · 0 ISARET · 0 HATA · 8 ATOMSUZ
+**Özet:** 34 OK · 0 ISARET · 0 HATA · 18 ATOMSUZ

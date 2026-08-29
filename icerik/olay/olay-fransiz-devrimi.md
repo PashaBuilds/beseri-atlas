@@ -23,6 +23,7 @@ ilgili:
   - dusunur-montesquieu
   - dusunur-tocqueville
   - tartisma-fransiz-devrimi-yorumlari
+  - tartisma-aydinlanmanin-sinirlari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

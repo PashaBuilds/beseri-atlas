@@ -1,5 +1,5 @@
 ## tartisma-yazinin-icadi-nerede
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.721Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:15.125Z_
 
 - [ATOMSUZ] k1 → "Bu haritanın çıkış noktası, kaynağın kendi cümlesindeki bir zaman kaydıdır: tek köken varsayımı bir bulgu olar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "yüzyıl öncesinde yazının kökenine dair bilimsel kuramların çoğunun bir tür tek köken varsayımına dayandığını; …" — programatik olarak ölçülemedi (ad karşılığı yok): Sümer

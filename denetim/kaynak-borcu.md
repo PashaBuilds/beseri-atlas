@@ -12,10 +12,10 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | Ölçüm | Değer |
 |---|---|
 | Ölçülen makale | 505 |
-| Toplam künye | 1773 |
-| Giriş kapısı kuralını aşan makale | 196 |
-| Birincil kaynağı olmayan makale | 234 |
-| Giriş kapısı künyesi payı | 38% |
+| Toplam künye | 1843 |
+| Giriş kapısı kuralını aşan makale | 190 |
+| Birincil kaynağı olmayan makale | 225 |
+| Giriş kapısı künyesi payı | 36% |
 
 ## Tipe göre borçlu makale
 
@@ -25,15 +25,14 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | aktor | 73 |
 | kavram | 60 |
 | kaynak | 28 |
-| tartisma | 23 |
 | dusunur | 22 |
+| tartisma | 13 |
 | donem | 4 |
 
 ## Makale dökümü
 
 | Makale | Künye | Giriş kapısı | Birincil | Sorun |
 |---|---|---|---|---|
-| `tartisma-imparatorluk-siniri-nasil-cizilir` | 5 | 4 | 0 | 4 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `tartisma-tarihsel-sayilar-nasil-okunur` | 5 | 4 | 0 | 4 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-bizans-imparatorlugu` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-dunya-bankasi` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
@@ -46,7 +45,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `olay-pon-savaslari` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-reform` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-roma-cumhuriyetinin-sonu` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `tartisma-romanin-cokus-nedeni` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-abd` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-ahamenis-imparatorlugu` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `aktor-aksum-kralligi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
@@ -219,14 +217,10 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `tartisma-1929-krizinin-nedeni` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `tartisma-fransiz-devrimi-yorumlari` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `tartisma-hacli-seferlerinin-nedeni` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `tartisma-ikinci-dunya-savasi-sorumlulugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `tartisma-kalkinma-yardimi-ise-yariyor-mu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `tartisma-karsi-olgusal-tarih` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `tartisma-kesif-mi-istila-mi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `tartisma-osmanli-gerileme-tezi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `tartisma-sanayi-devrimi-neden-ingiltere` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `tartisma-soguk-savasin-baslangici` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
-| `tartisma-tarim-devrimi-neden` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `tartisma-tunc-cagi-cokusunun-nedeni` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `tartisma-yazinin-icadi-nerede` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-abbasi-hilafeti` | 3 | 1 | 0 | birincil kaynak yok |
@@ -304,13 +298,9 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `olay-talas-savasi` | 3 | 1 | 0 | birincil kaynak yok |
 | `olay-tanzimat-fermani` | 3 | 1 | 0 | birincil kaynak yok |
 | `olay-yesil-devrim` | 3 | 1 | 0 | birincil kaynak yok |
-| `tartisma-aydinlanmanin-sinirlari` | 3 | 1 | 0 | birincil kaynak yok |
 | `tartisma-bati-neden-yukseldi` | 3 | 1 | 0 | birincil kaynak yok |
 | `tartisma-demografik-donum-sonuclari` | 3 | 1 | 0 | birincil kaynak yok |
-| `tartisma-eksen-cagi-gercek-mi` | 3 | 1 | 0 | birincil kaynak yok |
-| `tartisma-mogol-etkisi` | 3 | 1 | 0 | birincil kaynak yok |
 | `tartisma-orta-asya-neden-cekildi` | 4 | 1 | 0 | birincil kaynak yok |
-| `tartisma-teknolojik-belirlenimcilik` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-fatimi-hilafeti` | 3 | 0 | 0 | birincil kaynak yok |
 | `aktor-memluk-devleti` | 3 | 0 | 0 | birincil kaynak yok |
 | `aktor-safevi-devleti` | 3 | 0 | 0 | birincil kaynak yok |

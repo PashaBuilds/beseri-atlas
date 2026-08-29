@@ -32,6 +32,7 @@ ilgili:
   - kavram-ulus-devlet
   - donem-09
   - kaynak-hobsbawm-caglar
+  - tartisma-imparatorluk-siniri-nasil-cizilir
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

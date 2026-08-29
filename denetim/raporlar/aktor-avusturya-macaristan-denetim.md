@@ -1,5 +1,5 @@
 ## aktor-avusturya-macaristan
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:19.195Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:04.265Z_
 
 - [OK]      k1 → "Saray dili Almancaydı; Cisleithania'da resmî dil yoktu ve çoğunlukla bölgenin dili — genellikle Almanca — kull…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Başkent Viyana'dır."

@@ -1,5 +1,5 @@
 # Çürütücü raporu — tartisma-soguk-savasin-baslangici
-_2026-08-21T11:49:35.407Z_
+_2026-08-29T04:45:22.821Z_
 
 ## Zayıf bulunmayan alanlar
 

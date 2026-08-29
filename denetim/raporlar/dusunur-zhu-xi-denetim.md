@@ -1,5 +1,5 @@
 ## dusunur-zhu-xi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:24.686Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:10.063Z_
 
 - [ATOMSUZ] k1 → "Zhu Xi, kendisinden bin beş yüz yıl önce yazılmış metinleri yeniden düzenleyen, yorumlayan ve bir öğretim prog…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Dosyanın ayırt edici yanı, düşünürün özgün bir öğreti kurmak yerine mevcut bir geleneği yeniden inşa etmiş olm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

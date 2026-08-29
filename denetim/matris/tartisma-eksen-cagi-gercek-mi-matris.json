@@ -1,0 +1,485 @@
+{
+  "id": "tartisma-eksen-cagi-gercek-mi",
+  "govde_hash": "2e2443c45649",
+  "commit": "58a10ea",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "e1",
+      "cumle": "Karl Jaspers, 1949'da yayımlanan Vom Ursprung und Ziel der Geschichte kitabıyla MÖ 800-200 arasındaki yüzyılları insanlık tarihinin ekseni ilan etti: ona göre insanlığın manevi temelleri bu pencerede Çin'de, Hindistan'da, İran'da, Yahudiye'de ve Yunanistan'da eşzamanlı ve birbirinden bağımsız olarak atılmıştı ve insanlık bugün de bu temeller üzerinde durmaktaydı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Jaspers tezinin ozeti; k1 tez cumlesini ve 1949/800-200 tarihlerini dogrudan tasir."
+    },
+    {
+      "iddia_id": "e2",
+      "cumle": "Kavramı aktaran kaynak, tezin bugünkü durumunu da tek cümleyle verir: Eksen Çağı'nın tarihsel geçerliliği tartışmalıdır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 ayni cumleyi kurar: the historical validity of the Axial Age is disputed."
+    },
+    {
+      "iddia_id": "e3",
+      "cumle": "Dönem adları genellikle yalnızca bir bölgenin kanıtıyla sınanırken bu ad, birbirinden habersiz bölgeleri aynı takvime bağladığı için kronolojinin kendisini bir iddiaya çevirir; eşzamanlılık gösterilebilirse dönem adı bir buluştur, gösterilemezse dönem bölmelerinin en çok anılan örneklerinden biri, MÖ birinci binyıl hakkında değil yirminci yüzyıl hakkında bilgi veren bir belgeye dönüşür.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cerceve yorumu; k1 tartismanin varligini tasir, cikarim haritanin kendi okumasi."
+    },
+    {
+      "iddia_id": "e4",
+      "cumle": "Jaspers tezini adlarla kurar: Çin'de Konfüçyüs ile Lao Tzu yaşamış ve Çin felsefesinin okulları bu dönemde doğmuştur; Hindistan Upanişadlar'ı ve Buda'yı çıkarmıştır; İran'da Zerdüşt dünyayı iyilik ile kötülük arasındaki mücadele olarak öğretmiştir; İsrail'de İlyas'tan Yeşaya'ya ve Yeremya'ya uzanan peygamberler görünmüştür; Yunanistan Homeros'u, filozofları ve tragedya yazarlarını görmüştür.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Jaspers in ilk taslak ornekleri k1 de ayni adlarla sayilir."
+    },
+    {
+      "iddia_id": "e5",
+      "cumle": "Jaspers'e göre bu adların ima ettiği her şey, birkaç yüzyıl içinde Çin'de, Hindistan'da ve Batı'da neredeyse eşzamanlı olarak gelişmiştir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 deki Jaspers pasajinin cevirisi: almost simultaneously in China, India and the West."
+    },
+    {
+      "iddia_id": "e6",
+      "cumle": "Çağı, iki büyük imparatorluk çağı arasında bir ara dönem ve bir özgürlük soluğu olarak tarif eder; felsefeyi bir disiplin olarak doğuran dönemin de bu olduğunu savunur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Interregnum tarifi ve felsefenin dogusu k1 de dogrudan gecer."
+    },
+    {
+      "iddia_id": "e7",
+      "cumle": "Stuart-Glennie ile Jaspers, bu dönüşümün dinî kaygılardan bağımsız, nesnel bir tarihsel olgu olarak görülmesi gerektiğini ileri sürmüştü.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: Stuart-Glennie and Jaspers both claimed ... objective empirical fact of history."
+    },
+    {
+      "iddia_id": "e8",
+      "cumle": "yüzyıldan beri, başta Anquetil-Duperron olmak üzere birçok yazarca fark edilmişti; Jaspers, Victor von Strauß'un 1859 ve Ernst von Lasaulx'nun 1870 tarihli çalışmalarını anar ama John Stuart Stuart-Glennie'nin 1873'te kurduğu ve ahlak devrimi adını verdiği ayrıntılı kuramdan habersizdi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onculler ve 1859/1870/1873 tarihleri k1 de dogrudan; Jaspers in habersizligi de yazili. Hakem notu: k1 notably der, baslayarak ifadesi basta ... olmak uzere ile hizalandi."
+    },
+    {
+      "iddia_id": "e9",
+      "cumle": "Kitabın İngilizce çevirisi The Origin and Goal of History adıyla 1953'te Londra'da yayımlandı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog kaydi baslik, 1953 ve Londra basimini birebir tasir; katalog kurali geregi kismi sayildi."
+    },
+    {
+      "iddia_id": "e10",
+      "cumle": "Jaspers'in (1883-1969) savaş sonrası yazıları, Stanford Felsefe Ansiklopedisi'nin maddesine göre açık biçimde hümanist bir öğreti olarak kurulmuş metinlerdir ve 1949 tarihli bu kitap o yazıların başında sayılır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP: yasam tarihleri ve 1945 sonrasi yapitlarin humanist cercevesi dogrudan."
+    },
+    {
+      "iddia_id": "e11",
+      "cumle": "Kavramın akademik ağırlığı, 1975'te Daedalus dergisinde yeniden sunulmasından sonra genişledi; dönemin eşsiz biçimde dönüştürücü olduğu önerisi başka araştırmacılar arasında önemli bir tartışma doğurdu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1975 Daedalus sunumu ve genisleyen tartisma k1 de dogrudan."
+    },
+    {
+      "iddia_id": "e12",
+      "cumle": "Derlediği The Origins and Diversity of Axial Age Civilizations, Ocak 1983'te Bad Homburg'da toplanan bir konferans dizisinin ürünüydü ve 1986'da yayımlandı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog kaydi 1983 Bad Homburg konferansini ve 1986 basimini birebir tasir; katalog kurali geregi kismi."
+    },
+    {
+      "iddia_id": "e13",
+      "cumle": "Eisenstadt derlemenin girişinde, Max Weber'in Çin, Hindistan ve eski Yahudilik üzerine karşılaştırmalı din incelemelerini dönemin önemi için bir arka plan olarak okur; aynı derlemede çağın Yunanistan'daki atılımının iktisadi koşullarını da inceler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Eisenstadt in giris bolumu ve Yunanistan cozumlemesi k1 de dogrudan aktarilir."
+    },
+    {
+      "iddia_id": "e14",
+      "cumle": "Robert Bellah, 2011 tarihli Religion in Human Evolution kitabında anlatıyı Paleolitik'ten Eksen Çağı'na taşır ve kitabın doruğunu dört eksen bölümüne ayırır: eski İsrail, antik Yunanistan, MÖ birinci binyılın sonunda Çin ve eski Hindistan.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog bolum listesi dort eksen bolumunu adlariyla gosterir; katalog kurali geregi kismi."
+    },
+    {
+      "iddia_id": "e15",
+      "cumle": "Bellah ile Hans Joas'ın 2012'de derlediği ciltte iki editör, MÖ birinci binyılın ortasının insanlık kültür tarihinde önemli bir geçiş sayılabileceği ve bu dönemin Eksen Çağı diye adlandırılabileceği görüşünün yaygın ama evrensel olmayan bir kabul gördüğünü yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bellah-Joas cumlesi k1 de aynen alintilanir: widely, but not universally, accepted."
+    },
+    {
+      "iddia_id": "e16",
+      "cumle": "Kavramın çevresi akademiyle sınırlı da kalmadı: din tarihçisi Karen Armstrong dönemi 2006 tarihli The Great Transformation kitabında işledi ve kuram çok sayıda akademik konferansın odağı oldu.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Armstrong 2006 ve konferanslar k1 de dogrudan."
+    },
+    {
+      "iddia_id": "e17",
+      "cumle": "Eleştirinin çekirdeği üç başlıkta toplanır: antik Yunanistan, Levant, Hindistan ve Çin'de birlikte doğduğu varsayılan düşünsel gelişmeler arasında gösterilebilir bir ortak paydanın bulunmaması; eksen öncesi ve eksen sonrası dönemlerle köklü bir süreksizliğin gösterilememesi; ve tanıma uymayan kilit figürlerin — İsa, Muhammed ve Akhenaton örneklerindeki gibi — dışarıda bırakılması.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uc elestiri basligi k1 in ozet paragrafinin cevirisidir."
+    },
+    {
+      "iddia_id": "e18",
+      "cumle": "Adı geçen üç örnekten İsa ile Muhammed pencerenin sonrasına, Akhenaton ise öncesine düşer; üçü de köklü dinî dönüşümlerle anıldığı hâlde çağın dışında tutulmaları, sınırın kanıtla değil kararla çizildiği kuşkusunu besler.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 uc adi dislanan ornekler olarak verir; once/sonra yerlestirmesi haritanin genel bilgiye dayanan okumasi."
+    },
+    {
+      "iddia_id": "e19",
+      "cumle": "Diarmaid MacCulloch 2006'da tezi \"a baggy monster, which tries to bundle up all sorts of diversities\" diye niteledi ve Jaspers'in sonunda seçtiği MÖ 800-200 penceresi boyunca, söz konusu dört uygarlıktan yalnızca ikisinin birbiriyle kayda değer temas içinde olduğunu vurguladı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "MacCulloch 2006 alintisi ve iki uygarlik vurgusu k1 de dogrudan."
+    },
+    {
+      "iddia_id": "e20",
+      "cumle": "Kapsamlı bir başka eleştiri 2013'te Iain Provan'ın Convenient Myths: The Axial Age, Dark Green Religion, and the World That Never Was kitabıyla geldi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Provan 2013 elestirisi k1 de dogrudan anilir."
+    },
+    {
+      "iddia_id": "e21",
+      "cumle": "Jaspers'in örnekleri arasında sayılan Zerdüşt için bir zamanlar çok daha erken tarihleri savunan Mary Boyce gibi araştırmacıların görüş değiştirdiği, onu Büyük Kiros'un çağdaşı ya da yakın çağdaşı sayan bir uzlaşmanın belirdiği aktarılır; Malandra ile Zaehner bu tarihi MÖ 550 dolayına yerleştirir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Zerdust tarihlemesi, Boyce un konum degisikligi ve 550 dolayi k1 de dogrudan."
+    },
+    {
+      "iddia_id": "e22",
+      "cumle": "Stanford Felsefe Ansiklopedisi, Konfüçyüs'ün tarihlerini, geleneksel kayıt olduğu notuyla, MÖ 551-479 biçiminde verir; aynı ansiklopedinin Platon maddesi doğum yılını soru işaretiyle, MÖ 429?-347 olarak tutar.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP maddeleri tarihleri ayni cekincelerle verir: trad. 551-479 ve 429?-347."
+    },
+    {
+      "iddia_id": "e23",
+      "cumle": "Çekincelerin kendisi bir bulgudur: eşzamanlılık, kesin tarihler arasında kurulmuş bir çakışma değil, geleneksel kayıtlar ile soru işaretleri arasında kurulmuş bir yakınlıktır; bu yakınlığın bir çağ kurmaya yetip yetmediği de tartışmanın kendisidir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k11",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cekincelerden cikarilan yorum; kayitlarin bicimi kaynaklarda, cikarim haritada."
+    },
+    {
+      "iddia_id": "e24",
+      "cumle": "Jan Assmann'ın itirazı, kavramı savunan külliyatın içinden gelir: Bellah ile Joas'ın derlediği 2012 tarihli The Axial Age and Its Consequences cildinde Assmann'ın bölümü Cultural Memory and the Myth of the Axial Age — kültürel bellek ve Eksen Çağı miti — başlığını taşır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydi bolumun basligini, yazarini, cildini ve 2012 yilini dogrudan tasir."
+    },
+    {
+      "iddia_id": "e25",
+      "cumle": "Buradaki mit sözcüğü bir yakıştırma değil bir çözümleme aracıdır: Carmen Lea Dege'nin 2023'te Journal of the History of Ideas'ta çıkan incelemesi, kavramın mirasını Habermas, Taylor, Assmann ve Jaspers üzerinden izler ve Eksen Çağı fikrinin yirminci yüzyılın mit tartışması içinde konumlandığını gösterir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref UESTVERI kaydi; ozet metni dort adi (Habermas, Taylor, Assmann, Jaspers) ve yirminci yuzyil mit tartismasi konumlandirmasini tasir. Icerik iddiasi ozet duzeyinde kaldigi icin kismi (hakem kurali: bibliyografik API kaydi icerik iddiasina dogrudan destek veremez)."
+    },
+    {
+      "iddia_id": "e26",
+      "cumle": "Aynı incelemeye göre Jaspers okumalarında gözden kaçan iki nokta vardır: Jaspers, egemen anlatının aksine mitin logosla yer değiştirmediğini, biçim değiştirdiğini savunmuş; Eksen Çağı'nı da başarıya ulaşmış değil, başarısız kalmış bir atılım olarak okumuştu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref ozeti: myth changed its form and was not replaced by logos; the Axial Age failed rather than succeeded. Icerik iddiasi ozet duzeyinde dogrulandi; ustveri-API kurali geregi kismi."
+    },
+    {
+      "iddia_id": "e27",
+      "cumle": "Savaş sonrası bağlam bu okumaya zemin verir: Stanford maddesine göre Jaspers 1945 sonrası yapıtlarını, bu kitap başta olmak üzere, insanlığın birliğini öne alan hümanist bir öğreti olarak kurmuştu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP 1945 sonrasi humanist ogreti tespitini dogrudan tasir; zemin verir kopruleme haritanin yorumu."
+    },
+    {
+      "iddia_id": "e28",
+      "cumle": "Daniel Mullins ve arkadaşlarının 2018 tarihli incelemesi, savunucuların MÖ 800-200 arasına yerleştirdiği paralel kültürel gelişmeleri, Seshat adlı küresel tarih veri bankasıyla Afro-Avrasya ölçeğinde sınadı: sonuçlara göre eksen dönüşümünün kanıtı sayılan kritik özellikler, önerilen çağdan yüzlerce, kimi durumda binlerce yıl önce de görülüyordu ve belirli bir yere, belirli bir zamana sıkıştırılmış bir eksenlilik çağı fikri bu veriyle zayıflıyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Semantic Scholar UESTVERI kaydi; ozet 800-200 BCE, Seshat, Afro-Eurasia, results undercut ... hundreds, and in some cases thousands, of years prior ifadelerini birebir tasir. Icerik iddiasi ozet duzeyinde kaldigi icin kismi; merkezi iddia kismi destekle ayakta (K-2 ihlali yok)."
+    },
+    {
+      "iddia_id": "e29",
+      "cumle": "2019'da yayımlanan çok yazarlı bir Eksen Çağı tarihinde benzer bir sonuç öne çıkar: yazarlar, MÖ son binyılın birkaç Avrasya odağına sıkıştırılmış, tanımlanabilir bir Eksen Çağı'nın varlığına genel olarak itiraz eder; ama eksenlilik denen özellik demetini, toplumlar belirli bir ölçek ve karmaşıklık eşiğine ulaştığında tekrar tekrar beliren bir olgu olarak kabul etmeye yatkındır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "2019 derlemesinin itirazi ve eksenlilik kabulu k1 de dogrudan aktarilir."
+    },
+    {
+      "iddia_id": "e30",
+      "cumle": "Değişimin gerçekliğini kabul edip mekanizmayı maddi koşullarda arayan bir damar da vardır: Nicolas Baumard ve arkadaşlarının Current Biology'de 2015'te çıkan makalesi, çileci bilgeliklerin ve ahlakçı dinlerin ortaya çıkışını artan refahla açıklama iddiasını başlığında taşır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydi basligi, yazarlari, dergiyi ve 2015 yilini dogrudan tasir; iddia baslikla sinirli kuruldu."
+    },
+    {
+      "iddia_id": "e31",
+      "cumle": "Bu konum, kavramı aktaran kaynağın genel gözlemiyle örtüşür: eleştirilere rağmen birçok araştırmacı, dinî ve felsefi söylemde derin değişimlerin gerçekten yaşandığını kabul eder; anlaşamadıkları şey altta yatan nedenlerdir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: many scholars accepting ... but disagreeing as to the underlying reasons."
+    },
+    {
+      "iddia_id": "e32",
+      "cumle": "Jaspers'i savunan, Zerdüşt'ün kayan tarihini ve pencerenin sonradan ayarlanmış olmasını; programı sürdüren, yapısal benzerliğin nasıl ölçüleceğini; kurgu diyen, çerçevenin kurgusallığı gösterildiğinde o yüzyıllardaki gerçek değişimlerin nasıl anlatılacağını; veriyle sınayan, özellik seçiminin kendisinin bir yorum olduğunu karşılamak zorundadır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Dort konumun acik sorulari haritanin sentezi; k1 yalnizca zemini saglar."
+    },
+    {
+      "iddia_id": "e33",
+      "cumle": "Bugünkü tablo üç kademeli bir uzlaşma gibi görünüyor: değişimin yaşandığı üzerinde geniş, bunun tek bir çağ oluşturduğu üzerinde dar, nedenler üzerinde ise daha da dar bir mutabakat.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Uc kademe k1 deki kabul cumlelerinden derlendi; kademelendirme haritanin okumasi."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 22,
+    "kismi": 8,
+    "desteksiz": 0,
+    "olculemez": 3
+  }
+}

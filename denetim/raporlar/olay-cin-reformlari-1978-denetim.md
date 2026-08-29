@@ -1,5 +1,5 @@
 ## olay-cin-reformlari-1978
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:17.642Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:00.773Z_
 
 - [OK]      k1 → "Merkez Komitesi'nin üçüncü genel oturumunda başlatıldı; kaynak bunu Mao Zedong'un 1976'daki ölümünün ardından …" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kaynak siyasi reformların 1980'lerde ayrı ama paralel bir dizi olarak başlatıldığını, bunların 1989 Tiananmen …" — 4 atom doğrulandı; 1 ad ölçülemedi

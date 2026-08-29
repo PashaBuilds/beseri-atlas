@@ -1,5 +1,5 @@
 ## tartisma-waitangi-hangi-metin
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.690Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:15.092Z_
 
 - [OK]      k1 → "Şubat 1840'ta imzalanan antlaşmanın iki metni vardır ve ikisi aynı şeyi söylemez."
 - [ATOMSUZ] k1 → "İkinci maddede fark daha da keskindir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## olay-1857-hint-ayaklanmasi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:14.535Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:47:59.425Z_
 
 - [OK]      k1 → "Ayaklanma 10 Mayıs 1857'de başladı ve 1 Kasım 1858'de sona erdi; toplam süre bir yıl altı aydır." — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kaynak, karşı tarafta Büyük Britanya ve İrlanda Birleşik Krallığı'nı ve onun altında Doğu Hindistan Şirketi'ni…" — 2 atom doğrulandı; 2 ad ölçülemedi

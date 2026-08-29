@@ -1,5 +1,5 @@
 ## aktor-nauru
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:21.938Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:07.118Z_
 
 - [ATOMSUZ] k1 → "Nauru, Pasifik'in orta kesiminde yirmi bir kilometrekarelik tek bir adadan oluşan devlettir." — programatik olarak ölçülemedi (ad karşılığı yok): Pasifik
 - [ATOMSUZ] k1 → "Yirminci yüzyıl başında adada yüksek kaliteli fosfat yatağı bulundu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## olay-latin-amerika-bagimsizligi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:17.183Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:02.210Z_
 
 - [OK]      k1 → "Kaynak bu savaşları 1808-1833 arasında Amerika kıtasındaki bir silahlı çatışmalar dizisi olarak tanımlar; sonu…"
 - [OK]      k1 → "Kaynak askerî seferleri dört başlığa ayırır: 1810-1814 arası tartışmalı egemenlik için iç savaşlar, 1814-1820 …"

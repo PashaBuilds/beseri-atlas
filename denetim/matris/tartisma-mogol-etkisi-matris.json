@@ -1,0 +1,583 @@
+{
+  "id": "tartisma-mogol-etkisi",
+  "govde_hash": "14f184bc5ab0",
+  "commit": "58a10ea",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "İstilayı bizzat yaşamış kişilerle görüşen İbnü'l-Esîr'e göre Tatar istilası, Âdem'den beri insanoğlunun uğradığı en büyük felakettir ve İslâm tarihinde onunla karşılaştırılabilecek başka bir felaket yoktur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: \"Bu istilâyı bizzat yaşamış kişilerle görüşen ... İbnü'l-Esîr, Tatar istilâsının Hz. Âdem'den beri insanoğlunun mâruz kaldığı en büyük felâket olduğunu\" + \"Moğol istilâsı ile mukayese edilebilecek başka bir felâket yoktur\""
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Karşı çerçevenin adı ise kendi tezini taşır: Roma Barışı'ndan örnekle türetilmiş bir tarih yazımı terimi olan Moğol Barışı, fetihleri izleyen dönemde ticaret yollarının aynı siyasi çatı altında güvenliğe kavuştuğu gözlemini kaydeder; dönemin yaygın deyişine göre \"başında altın taşıyan bir genç kız, ülkeyi bir uçtan öbürüne güvenle dolaşabilirdi\".",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k4: \"historiographical term modeled after the original phrase Pax Romana\" + \"a maiden bearing a nugget of gold on her head could wander safely\" (aktarilan deyis cevirisi)"
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Üstelik iki bilanço ayrı kütüphanelerde de durmaz: aynı ansiklopedi maddesi, felaket hükmü ile istilanın olumlu izlerine ayrılan bölümü aynı sayfada yan yana tutar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 ayni maddede hem \"İslâm kültür ve medeniyetini çiğneyip tahrip\" hukmunu hem \"bazı olumlu izler\" bolumunu tasir"
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Timuçin'in 1206'da Onon kıyısındaki kurultayda Cengiz unvanıyla kağan ilan edilişi bu iki tarihin ortak başlangıcıdır; dönemin bütünü dosyasında, imparatorluğun kendisi dosyasında, seferlerin akışı dosyasında ele alınıyor.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: \"Timuçin 1206 yılında ... Onon ırmağı kıyısında ... kurultayda ... Cengiz unvanıyla kağan ilân edildi\""
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Cüveynî, istilanın hem tanığı hem görevlisiydi: mütercimi Boyle'un girişine göre Moğollar hakkında çağdaş kayıt bırakan yazarların en önemlisidir, anlattığı olayların baş aktörlerinin çoğunu kişisel olarak tanıyordu ve Bağdat'ı ele geçiren hükümdarın güvenini kazanmıştı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6 Boyle girisi: \"none is more Important than Juvaini. He knew personally many of the chief actors ... He enjoyed the confidence of the Il-Khan Hulegu, the Mongol conqueror of Baghdad\""
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Buhara 1220'de düştü; şehrin sonunu Cüveynî, oradan kaçıp Horasan'a ulaşan bir adamın ağzından aktarır.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: \"10 Şubat 1220'de Buhara alındı\"; k6: \"one man had escaped from Bokhara after its capture and had come to Khorasan\""
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Adamın cevabı bir cümleye sığar: \"Geldiler, kazdılar, yaktılar, öldürdüler, yağmaladılar ve gittiler.\" Cüveynî'nin aktarımına göre bu özeti duyanlar, Farsçada bundan daha veciz bir anlatım bulunamayacağında birleşti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6: \"They came, they sapped, they burnt, they slew, they plundered and they departed\" + \"in the Persian language there could be nothing more concise than this speech\""
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Cengiz Han 1219 yazında ordularıyla İrtiş bölgesine ulaştı ve sonbaharda Otrar'ı kuşattı; Buhara 10 Şubat 1220'de alındı, Semerkant aynı yılın martında teslim oldu, Tuluy Horasan'a, Çağatay ile Ögedey Hârizmşahlar'ın başşehri Gürgenç'e gönderildi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: 1219 Irtis, Otrar kusatmasi, 10 Subat 1220 Buhara, Mart Semerkant, Tuluy Horasan, Cagatay-Ogedey Gurgenc"
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Kafkaslar yönünde ilerleyen müfrezelerin gerilerinde virane hâlinde bir ülke bıraktığı, bu harekâtı 1224'te yağma amaçlı başka seferlerin izlediği yazılıdır; maddenin genel hükmü de ağırdır: \"Moğollar İslâm kültür ve medeniyetini çiğneyip tahrip etmişler\"dir, mescitler ahıra çevrilmiş, kültür mirasına dair eserler yakılmış ya da nehirlere atılmıştır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: \"gerilerinde virane halinde bir ülke bıraktılar. Bu harekâtı 621'de (1224) yağma ve tahrip amaçlı başka seferler takip etti\" + tirnakli hukum cumlesi + mescid/eser tahribati"
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Hülâgû 1256'da Alamut'u ele geçirip oradaki hâkimiyete son verdi; iki yıl sonra Bağdat'a girerek Abbâsî hilâfetini yıktı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: \"654'te (1256) Alamut'u ele geçirip ... iki yıl sonra da Bağdat'a girerek Abbâsî hilâfetini yıktı\""
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Kuşatmanın kendisi dosyasında işleniyor; ilerleyiş batı yönünde 1260'ta Aynicâlût'ta durduruldu.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: \"658 (1260) yılında Aynicâlût Savaşı ile durduruldu\""
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Maddeye göre istilanın ardından halkın mistik eğilimleri yoğunlaştı, aklî ilimler geriledi ve istila Çin'den Doğu Avrupa'ya uzanan alanda etnik ve kültürel yapının yeniden şekillenmesinde önemli rol oynadı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: mistik egilimler/akli ilimler + \"Çin, Orta Asya, Yakındoğu ve Doğu Avrupa'nın etnik ve kültürel yapısının yeniden şekillenmesinde önemli rol oynadı\""
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Yağmanın coğrafyası da kayıtlıdır: Celâleddin'in son önemli direnişi 1228'de İsfahan önlerinde kırıldı, Fars dışında bütün Orta ve Batı İran yağmalandı ve halkın önemli bir kısmı öldürüldü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: \"Celâleddin'in son önemli direnişini de 625 (1228) yılında İsfahan şehri önlerinde kıran Moğollar ... bütün Orta ve Batı İran'ı yağmaladılar. Halkının önemli bir kısmını öldürüp\""
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Dinî baskı da bilançoya eklenir: maddeye göre bazı İlhanlı hükümdarları döneminde müslümanlar zulüm ve haksızlığa uğradı.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: \"bazı İlhanlı hükümdarları döneminde de müslümanlar zulüm ve haksızlığa uğramışlardır\""
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Yülek ve Gür'ün 2024 tarihli çalışmasına göre istila öncesi Anadolu'nun iktisadi gelişim düzeyi Doğu ve Batı Avrupa'dan yüksekti; İlhanlı yönetimi bölgeyi \"vergi gelirleri ve servet transferi yoluyla sömürü kaynağı\" olarak gördü ve Selçuklu döneminde sağlanan kazanımlar istiladan sonra doğrudan ve dolaylı yollarla ortadan kalktı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k9 oz: gelisim duzeyi \"Doğu ve Batı Avrupa'dan ise daha yüksek\", \"vergi gelirleri ve servet transferi yoluyla sömürü kaynağı\", kazanimlar \"doğrudan ve dolaylı yollarla ortadan kalktı\""
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Çalışmanın vardığı cümle tartışmanın tam ortasına oturur: yazarlara göre Moğol Barışı, Selçuklu Barışı'nı ortadan kaldırmıştır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k9 oz son cumle: \"Moğol Barışı Selçuklu Barışı'nı ortadan kaldırmıştır\""
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Maddeye göre imparatorluk en geniş hâlinde doğuda Busan'dan batıda Budapeşte'ye uzanıyordu; dört hanlığa bölünmüşlüğe karşın erken on dördüncü yüzyılda göreli bir istikrar kuruldu ve yolların güvenli hâle gelmesiyle ticaret, Çin'den Britanya'ya uzanan alanda genişledi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k4: \"stretched from Busan in the east to Budapest in the west\" + \"relative stability in the early 14th century\" + \"from China in the east to Britain in the west\""
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Düzenin ticari alt yapısı da aynı yerde kayıtlıdır: Moğol seçkinleri Orta ve Batı Asya'dan ve Avrupa'dan tüccarlarla — Marco Polo'nun ailesi dahil — ortaklıklar kurdu, Yasa adıyla bilinen kanun özellikle ticareti ilgilendiren alanlarda sıkı kurallar koydu, din adamlarıyla birlikte hekimler ve öğretmenler vergiden bağışık tutuldu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k4: ortoq/ortakliklar (\"including Chinese and Marco Polo's family\"), Yassa ticaret kurallari, vergi bagisikligi listesi"
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Yam adıyla bilinen menzil düzeneğinin maddeye göre Ögedey döneminde 1234'te kurulmaya başlandığı, istasyonların yaklaşık bir günlük yolculuk aralığıyla dizildiği ve Marco Polo gibi Avrupalı tüccarların Anadolu'yu Çin'e bağlayan bakımlı yollarda ilerlediği kaydedilir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k4: \"Relay stations were set up every 25-30 miles or an average day's journey ... introduced by Ögedei Khan in 1234\" + Marco Polo \"well-maintained and well travelled roads\""
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Tanığın kendi kitabı da bu düzeneğe yer ayırır: seyahatnamenin Yule ile Cordier'nin hazırladığı basımı, hanın ulaklarının nasıl sevk edildiğine ayrı bir bölüm, yam sözcüğünün kendisine ayrı bir editör notu ayırır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5 icindekiler: \"HOW THE KAAN'S POSTS AND RUNNERS ARE SPED THROUGH MANY LANDS AND PROVINCES\" + not listesi \"The word Yam\"; iddia basimin yapisi hakkindadir, bolum icerigi 400k disindadir"
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Moğol Barışı maddesi, Moğol döneminde çok sayıda personel değişiminin yaşandığını Allsen'e dayanarak not eder; Allsen'in 1997'de Cambridge University Press'ten çıkan kitabı ise imparatorluğun kumaş ticaretini bir kültür tarihinin malzemesi yapar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k4: \"Thomas T. Allsen noted many personnel exchanges occurred\"; k7 katalog: baslik/altbaslik \"a cultural history of Islamic textiles\", 1997, Cambridge University Press — icerige yaslanan kisim katalogla kismi"
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Yıkım vurgusunun ağır bastığı ansiklopedi maddesi bile burada karşı okumaya alan açar: baştaki yarım asrın katliam ve tahrip devrinin ardından doğu-batı ticaretinin gelişmesi için zemin hazırlandığını, pek çok eserin Çince'den Farsça'ya çevrildiğini ve Moğol hükümdarlarının astronomiye ilgi duyduğunu kaydeder; Gāzân Han ile Olcaytu dönemlerinde Azerbaycan'da yeni yerleşim merkezlerinin kurulduğu da aynı bölümde durur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 olumlu izler bolumu: dogu-bati ticareti icin zemin, Cince'den Farsca'ya ceviriler, astronomi ilgisi, Gazan Han/Olcaytu donemi yeni yerlesim merkezleri"
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Weatherford'un 2004'te New York'ta Crown'dan çıkan kitabının başlığı iddiasını kendisi söyler: Cengiz Han ve modern dünyanın kuruluşu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k8 katalog: \"Genghis Khan and the making of the modern world\", Weatherford, New York: Crown, 2004"
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Moğol Barışı maddesinin dipnot listesinde bu kitabın sayfa numaralarıyla tekrar tekrar görünmesi, popüler anlatının bütünleşme okumasının yaygın kaynağı hâline geldiğini gösterir; kitabın üniversite yayınevinden çıkmış hakemli bir monografi değil geniş okur için yazılmış bir anlatı olması ise, bu okumanın akademik sınırının nereden geçtiği sorusunu açık bırakır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k4 dipnot listesi Weatherford'u sayfa numaralariyla defalarca gosterir (p.28, p.67, p.69, p.118-119, p.136); ticari yayinevi nitelemesi k8 katalogdaki Crown kaydina yaslanir, \"hakemli degil\" nitelemesi yayinevi turunden cikarimdir"
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Nitekim aynı çerçeveye Anadolu özelinden itiraz eden hakemli çalışma, barışın kazancını kimin cebinde aradığına göre işaretin tersine döndüğünü savunur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k9 ozu Mogol Barisi cercevesini Anadolu ozelinde tersine cevirir; \"itiraz\" nitelemesi yazarin cercevelemesidir"
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Moğol Barışı maddesine göre dönemin kapanışını hanlıkların dağılması ile Kara Ölüm'ün on dördüncü yüzyıl ortasında ticaret yolları boyunca dünyanın büyük bölümüne yayılması işaretler.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k4: \"The end of the Pax Mongolica was marked by the disintegration of the khanates and the outbreak of the Black Death in Asia which spread along trade routes\""
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Ölçeği kurumsal sağlık kaynağı verir: on dördüncü yüzyılda Kara Ölüm adıyla bilinen salgın Avrupa'da 50 milyondan fazla ölüm getirdi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k10: \"It was known as the 'Black Death' during the fourteenth century, causing more than 50 million deaths in Europe\""
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Aynı sayfa hastalığın bugün antibiyotiklerle kolayca tedavi edildiğini de yazar; ölçeğin o yüzyıla özgü olduğunu hatırlatan bir dipnottur bu.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k10: \"Nowadays, plague is easily treated with antibiotics\""
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Cengiz Han maddesi iki tanığın rakamını yan yana verir: Merv'de öldürülenler İbnü'l-Esîr'e göre 700.000, Cüveynî'ye göre 1.300.000'den fazladır; Nîşâbur'da intikam hırsıyla kedilerin ve köpeklerin bile öldürüldüğü yazılıdır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: \"Merv'de İbnü'l-Esîr'e göre ... 700.000, Cüveynî'ye göre ... 1.300.000'den fazla insan öldürüldü. Nîşâbur'da intikam hırsıyla kediler ve köpekler bile katledildi\""
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Uzun dönemli seride dünya nüfusu 1200 yılında yaklaşık 444,7 milyon, 1300 yılında yaklaşık 456,2 milyondur.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "depo serisi: 1200 -> 444.653.984 (444,7), 1300 -> 456.248.096 (456,2); KAPI 19 kalibi seriyle olculdu"
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Seri dünya toplamını verir; bölgesel kaybı, ölüm nedenini ve fetihlerin payını vermez — iki değer arasındaki fark yıkım tezini ne destekler ne çürütür, yalnızca kıta ölçeğindeki iddiaların hangi boşlukta durduğunu gösterir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "serinin kendisi yalniz dunya toplamini icerir; bolgesel/nedensel alan yoktur — iddia serinin gozlenebilir kapsami hakkindadir"
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Yıkım okuması ne kaybedildiğini sorar ve tanık kayıtlarıyla vergi düzenine işaret eder; bütünleşme okuması neyin kurulduğunu sorar ve menzil ağıyla aktarım kayıtlarını gösterir; taşıyıcılık okuması kurulan ağın sonunda neyi taşıdığını sorar; sayı kuşkuculuğu ise iki tarafın bilançosunu hangi rakamla yazacağını sorar.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k9",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k10",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "dort konumun soru duzeyinde ozetlenmesi; tek tek iddialar yukaridaki satirlarda olculdu, bu satir sentezdir"
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "Fetih ölümlerinin toplamı için elde olan malzeme, Merv örneğindeki gibi tanık tahminleridir; iki tanık arasındaki kat düzeyindeki fark, toplama taşınan her rakamı aynı belirsizlikle yükler.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k3 iki tanik sayisini verir; \"toplama tasinan her rakam ayni belirsizlikle yuklenir\" cikarimi yazarindir"
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Barışın kime yaradığı bölgeye göre değişir; Anadolu için çıkarılan bilanço, ağın merkez hattı için çıkarılan bilançodan farklı yönü gösterebilir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k9 Anadolu bilancosunu negatif cikarir, k4 ag merkezli anlatiyi verir; karsilastirma yazarin cercevelemesidir"
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Cüveynî'nin tarihi, Boyle'un girişinde vurgulandığı gibi, Bağdat'ı alan hükümdarın güvenini kazanmış bir görevlinin kaleminden çıktı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6 Boyle girisi: \"He enjoyed the confidence of the Il-Khan Hulegu, the Mongol conqueror of Baghdad\"; Cuveyni Mogol hizmetinde gorevliydi"
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "İbnü'l-Esîr ise kaydını istilayı bizzat yaşamış kişilerle görüşerek kurdu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: \"Bu istilâyı bizzat yaşamış kişilerle görüşen ... İbnü'l-Esîr\""
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "Cengiz Han maddesine göre batıya dönük büyük seferin kıvılcımı, 1219'da Otrar'da bir ticaret kervanının yağmalanması ve kervancılarla elçinin öldürülmesiydi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: Otrar Valisi Inalcik \"ticaret kervanını Otrar yakınlarında yağmalatarak kervancıları ve elçisini öldürtmüştü. Bunun üzerine Cengiz Han 1219 yılının yazında\" sefere cikti"
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "Ticaretle açılan hesap, ticaret ağı boyunca yayılan salgınla kapandı; iki ucu da kayıtlı olan bu yay, yıkım ile bütünleşmenin neden aynı tarihin iki yüzü olarak birlikte okunmak zorunda olduğunun özetidir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k4 salginin ticaret yollari boyunca yayilisini kaydeder; \"ticaretle acilan hesap\" simetrisi yazarin sentezidir"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 33,
+    "kismi": 4,
+    "desteksiz": 0,
+    "olculemez": 1
+  }
+}

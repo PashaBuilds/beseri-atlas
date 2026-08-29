@@ -1,5 +1,5 @@
 ## kaynak-insan-haklari-beyannamesi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.675Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:17.108Z_
 
 - [OK]      k1 → "İnsan Hakları Evrensel Beyannamesi, 1948'de bir uluslararası örgütün genel kurulunda kabul edilen ve otuz madd…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k2 → "Belge bir antlaşma değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

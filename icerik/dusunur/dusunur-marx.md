@@ -32,6 +32,7 @@ ilgili:
   - kaynak-hegel-gorungubilim
   - kavram-ideal-tip
   - tartisma-feodalite-kavrami
+  - tartisma-teknolojik-belirlenimcilik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

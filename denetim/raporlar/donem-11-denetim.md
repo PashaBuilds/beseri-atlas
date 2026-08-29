@@ -1,5 +1,5 @@
 ## donem-11
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:13.431Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:47:58.309Z_
 
 - [ATOMSUZ] k1 → "Bu dönemin açılış belgesi, siyasi meşruiyetin dayanağını tek cümlede değiştirir: insanlar haklar bakımından öz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "1789 tarihli İnsan ve Yurttaş Hakları Bildirisi, her siyasi birliğin amacının insanın doğal ve zamanaşımına uğ…" — 1 atom doğrulandı; 4 ad ölçülemedi

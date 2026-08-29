@@ -564,7 +564,7 @@ adlar:
     durum: dogrulandi
     gectigi: [tartisma-sozlu-gelenek-kaynak-mi]
   - ad: "V. Gordon Childe"
-    durum: kisi-degil
+    durum: dogrulandi
     gectigi: [tartisma-tarim-devrimi-ilerleme-mi, tartisma-tarim-devrimi-neden]
   - ad: "William James"
     durum: tartismada-dogrulandi
@@ -759,3 +759,235 @@ adlar:
     durum: dogrulandi
     dogrulama_kaynagi: "archive.org sovereigntyorgan0000kras (Princeton 1999) + SEP: 'see Krasner 1999'"
     gectigi: [tartisma-vestfalya-miti]
+  # ─── 2026-08-29 P2 tartisma dalgasi: bagimsiz kor hakem fetch kanitlariyla ───
+  - ad: "Immanuel Kant"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikisource What is Enlightenment?: 'Enlightenment is man's release from his self-incurred tutelage'"
+    gectigi: [tartisma-aydinlanmanin-sinirlari]
+  - ad: "Max Horkheimer"
+    durum: dogrulandi
+    dogrulama_kaynagi: "SEP enlightenment: 'Adorno and Horkheimer interpret... supremacy of instrumental reason'"
+    gectigi: [tartisma-aydinlanmanin-sinirlari]
+  - ad: "Theodor W. Adorno"
+    durum: dogrulandi
+    dogrulama_kaynagi: "marxists.org culture-industry: 'Theodor Adorno and Max Horkheimer (1944)'"
+    gectigi: [tartisma-aydinlanmanin-sinirlari]
+  - ad: "Charles W. Mills"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org racialcontract0000mill + SEP Race (Mills 2005 elestirel kume)"
+    gectigi: [tartisma-aydinlanmanin-sinirlari]
+  - ad: "Michel-Rolph Trouillot"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org silencingpastpow0000trou: 'power operates... to silence certain voices'"
+    gectigi: [tartisma-aydinlanmanin-sinirlari]
+  - ad: "Mary Wollstonecraft"
+    durum: dogrulandi
+    dogrulama_kaynagi: "SEP enlightenment: 'Vindication of the Rights of Woman (1792) is a noteworthy exception' + gutenberg pg3420"
+    gectigi: [tartisma-aydinlanmanin-sinirlari]
+  - ad: "Jonathan Israel"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org radicalenlighten0000isra (Spinoza; 1650-1750)"
+    gectigi: [tartisma-aydinlanmanin-sinirlari]
+  - ad: "Steven Pinker"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org enlightenmentnow0000pink: 'a manifesto for science, reason, humanism, and progress'"
+    gectigi: [tartisma-aydinlanmanin-sinirlari]
+  - ad: "Karl Jaspers"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia Axial Age: 'coined in 1949 by the German philosopher Karl Jaspers' + 'objective empirical fact of history'"
+    gectigi: [tartisma-eksen-cagi-gercek-mi]
+  - ad: "Shmuel Eisenstadt"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia Axial Age: 'Eisenstadt argues in the introduction to The Origins and Diversity of Axial Age Civilizations'"
+    gectigi: [tartisma-eksen-cagi-gercek-mi]
+  - ad: "Robert Bellah"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia Axial Age Bellah-Joas alintisi + archive.org religioninhumane0000bell"
+    gectigi: [tartisma-eksen-cagi-gercek-mi]
+  - ad: "Hans Joas"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia Axial Age: 'To quote Robert Bellah and Hans Joas... widely, but not universally, accepted'"
+    gectigi: [tartisma-eksen-cagi-gercek-mi]
+  - ad: "Jan Assmann"
+    durum: dogrulandi
+    dogrulama_kaynagi: "api.crossref.org 10.4159/harvard.9780674067400.c15: 'Cultural Memory and the Myth of the Axial Age' + Dege 2023 JHI"
+    gectigi: [tartisma-eksen-cagi-gercek-mi]
+  - ad: "Diarmaid MacCulloch"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia Axial Age: 'a baggy monster... only two of which had much contact'"
+    gectigi: [tartisma-eksen-cagi-gercek-mi]
+  - ad: "Iain Provan"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia Axial Age: 'Convenient Myths: The Axial Age... and the World That Never Was'"
+    gectigi: [tartisma-eksen-cagi-gercek-mi]
+  - ad: "Kaynağın aktardığı birçok araştırmacı"
+    durum: kisi-degil
+    gectigi: [tartisma-eksen-cagi-gercek-mi]
+  - ad: "Nicolas Baumard"
+    durum: dogrulandi
+    dogrulama_kaynagi: "api.crossref.org 10.1016/j.cub.2014.10.063: 'Increased Affluence Explains the Emergence of Ascetic Wisdoms...' (2015)"
+    gectigi: [tartisma-eksen-cagi-gercek-mi]
+  - ad: "Hugh Trevor-Roper"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia The Origins of the Second World War: 'Hitler had declared his programme... in Mein Kampf'"
+    gectigi: [tartisma-ikinci-dunya-savasi-sorumlulugu]
+  - ad: "A.J.P. Taylor"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni sayfa: 'Hitler was an opportunist, taking advantage of events'"
+    gectigi: [tartisma-ikinci-dunya-savasi-sorumlulugu]
+  - ad: "Timothy Mason"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni sayfa: 'A war for the plunder of manpower and materials... dreadful logic'"
+    gectigi: [tartisma-ikinci-dunya-savasi-sorumlulugu]
+  - ad: "Guilty Men suçlama çizgisi"
+    durum: kisi-degil
+    gectigi: [tartisma-ikinci-dunya-savasi-sorumlulugu]
+  - ad: "Neville Chamberlain"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org In Search of Peace: 'How horrible, fantastic, incredible... digging trenches' (kendi savunusu)"
+    gectigi: [tartisma-ikinci-dunya-savasi-sorumlulugu]
+  - ad: "Sovyet resmî tarih yazımı"
+    durum: kisi-degil
+    gectigi: [tartisma-ikinci-dunya-savasi-sorumlulugu, tartisma-soguk-savasin-baslangici]
+  - ad: "Frederick Jackson Turner"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikisource The Significance of the Frontier...: 'it lies at the hither edge of free land'"
+    gectigi: [tartisma-imparatorluk-siniri-nasil-cizilir]
+  - ad: "Monica Smith"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia Maurya Empire: 'better understood as networks of centers of power'"
+    gectigi: [tartisma-imparatorluk-siniri-nasil-cizilir]
+  - ad: "Owen Lattimore"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org Inner Asian Frontiers djvu: 'a series of frontier zones varying in depth'"
+    gectigi: [tartisma-imparatorluk-siniri-nasil-cizilir]
+  - ad: "George Nathaniel Curzon"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org frontiers00curz djvu: 'demarcated frontier is itself an essentially modern conception'"
+    gectigi: [tartisma-imparatorluk-siniri-nasil-cizilir]
+  - ad: "William H. Prescott"
+    durum: dogrulandi
+    dogrulama_kaynagi: "gutenberg pg59755: 'The subversion of a great empire by a handful of adventurers' / 'air of romance'"
+    gectigi: [tartisma-kesif-mi-istila-mi]
+  - ad: "Alfred W. Crosby"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org columbianexchang0000cros: 'biological and cultural consequences of 1492'"
+    gectigi: [tartisma-kesif-mi-istila-mi]
+  - ad: "Bartolomé de las Casas"
+    durum: dogrulandi
+    dogrulama_kaynagi: "gutenberg pg20321: 'Destruction of the Indies' / 'absolutely depopulated Ten Kingdoms'"
+    gectigi: [tartisma-kesif-mi-istila-mi]
+  - ad: "Vine Deloria Jr."
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: "archive.org custerdiedforyou00delo: katalog yalniz baslik/alt basligi dogrular"
+    gectigi: [tartisma-kesif-mi-istila-mi]
+  - ad: "Matthew Restall"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org sevenmythsofspan0000rest: 'It was only much later that Columbus was portrayed as a great man'"
+    gectigi: [tartisma-kesif-mi-istila-mi]
+  - ad: "İbnü'l-Esîr"
+    durum: dogrulandi
+    dogrulama_kaynagi: "islamansiklopedisi.org.tr/mogollar: 'Hz. Adem'den beri insanogolunun maruz kaldigi en buyuk felaket' aktarimi"
+    gectigi: [tartisma-mogol-etkisi]
+  - ad: "Murat Ali Yülek"
+    durum: dogrulandi
+    dogrulama_kaynagi: "dergipark sisad 1403120: 'Mogol Barisi Selcuklu Barisi'ni ortadan kaldirmistir'"
+    gectigi: [tartisma-mogol-etkisi]
+  - ad: "Betül Gür"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni makale, ortak yazar"
+    gectigi: [tartisma-mogol-etkisi]
+  - ad: "Jack Weatherford"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org genghiskhanmaki00jack + en.wikipedia Pax Mongolica dipnotlari"
+    gectigi: [tartisma-mogol-etkisi]
+  - ad: "Thomas T. Allsen"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia Pax Mongolica: 'Thomas T. Allsen noted many personnel exchanges' + CUP 1997 katalogu"
+    gectigi: [tartisma-mogol-etkisi]
+  - ad: "Salgının yayılışını ticaret ağına bağlayan çizgi"
+    durum: kisi-degil
+    gectigi: [tartisma-mogol-etkisi]
+  - ad: "Fetih sayılarının güvenilmezliğini vurgulayan çizgi"
+    durum: kisi-degil
+    gectigi: [tartisma-mogol-etkisi]
+  - ad: "Peter Brown"
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: "en.wikipedia Historiography of the fall...: 'a field pioneered by Peter Brown... fell at all'"
+    gectigi: [tartisma-romanin-cokus-nedeni]
+  - ad: "Walter Goffart"
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: "archive.org barbariansromans0000goff: 'the techniques of accommodation' (1980, Princeton)"
+    gectigi: [tartisma-romanin-cokus-nedeni]
+  - ad: "Kyle Harper"
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: "en.wikipedia Historiography of the fall...: Harper 2017 tablo satiri + 'little ice age... bubonic plague'"
+    gectigi: [tartisma-romanin-cokus-nedeni]
+  - ad: "Thomas A. Bailey"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia Historiography of the Cold War: 'breakdown of postwar peace was the result of Soviet expansionism'"
+    gectigi: [tartisma-soguk-savasin-baslangici]
+  - ad: "Herbert Feis"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni sayfa: 'Another prominent orthodox historian was Herbert Feis'"
+    gectigi: [tartisma-soguk-savasin-baslangici]
+  - ad: "William Appleman Williams"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni sayfa: 'The Tragedy of American Diplomacy... empire-building people'"
+    gectigi: [tartisma-soguk-savasin-baslangici]
+  - ad: "Walter LaFeber"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni sayfa: 'America, Russia, and the Cold War... 19th century conflicts'"
+    gectigi: [tartisma-soguk-savasin-baslangici]
+  - ad: "Gar Alperovitz"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni sayfa: 'Atomic Diplomacy: Hiroshima and Potsdam (1965)'"
+    gectigi: [tartisma-soguk-savasin-baslangici]
+  - ad: "Gabriel Kolko"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni sayfa: 'reflexively anticommunist and counterrevolutionary'"
+    gectigi: [tartisma-soguk-savasin-baslangici]
+  - ad: "John Lewis Gaddis"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni sayfa: 1972 sentez + arsiv-sonrasi 'Soviets should be held more accountable'"
+    gectigi: [tartisma-soguk-savasin-baslangici]
+  - ad: "Thomas G. Paterson"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni sayfa: 'viewed Soviet hostility and United States efforts... as equally responsible'"
+    gectigi: [tartisma-soguk-savasin-baslangici]
+  - ad: "Melvyn P. Leffler"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni sayfa: 'An almost immediate move to challenge Gaddis framework came from Melvyn P. Leffler'"
+    gectigi: [tartisma-soguk-savasin-baslangici]
+  - ad: "Mark Nathan Cohen"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org foodcrisisinpreh0000cohe: 'overpopulation and the origins of agriculture' (1977)"
+    gectigi: [tartisma-tarim-devrimi-neden]
+  - ad: "Jacques Cauvin"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia Jacques Cauvin: 'influenced by a change in thinking as much as changes in the environment'"
+    gectigi: [tartisma-tarim-devrimi-neden]
+  - ad: "Lynn White Jr."
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia Great Stirrup Controversy: 'The feudal class... existed to be armed horsemen... made possible by the stirrup'"
+    gectigi: [tartisma-teknolojik-belirlenimcilik]
+  - ad: "G. A. Cohen"
+    durum: dogrulandi
+    dogrulama_kaynagi: "SEP marx: 'his philosophically most influential recent exponent, G.A. Cohen' + primacy thesis"
+    gectigi: [tartisma-teknolojik-belirlenimcilik]
+  - ad: "Trevor Pinch"
+    durum: dogrulandi
+    dogrulama_kaynagi: "dergipark dortoge 478855 kaynakcasi + archive.org socialconstructi0000unse_x3t9"
+    gectigi: [tartisma-teknolojik-belirlenimcilik]
+  - ad: "Wiebe Bijker"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni kaynaklar + 'Of Bicycles, Bakelites, and Bulbs'"
+    gectigi: [tartisma-teknolojik-belirlenimcilik]
+  - ad: "Langdon Winner"
+    durum: dogrulandi
+    dogrulama_kaynagi: "SEP technology: 'Langdon Winner has argued that artifacts have politics (Winner 1980)'"
+    gectigi: [tartisma-teknolojik-belirlenimcilik]
+  - ad: "Thomas P. Hughes"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org doestechnologydr0000unse icindekiler: 'Technological momentum / Thomas P. Hughes'"
+    gectigi: [tartisma-teknolojik-belirlenimcilik]

@@ -1,5 +1,5 @@
 # Çürütücü raporu — tartisma-aydinlanmanin-sinirlari
-_2026-08-21T12:50:56.605Z_
+_2026-08-29T04:46:12.336Z_
 
 ## Zayıf bulunmayan alanlar
 

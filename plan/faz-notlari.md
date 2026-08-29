@@ -4536,3 +4536,50 @@ gerekçeyle eklendi (K4). KAPI 18 defteri ikinci kez indi: dosya 479→475,
 
 Pilot bütçe ölçümü: 12 dosya ≈ 3,9M jeton (onarım+hakem; dosya başına
 ~300k). Faz 3 P1 (tartışma en kötü 10) bununla planlandı.
+
+## 2026-08-29 — Faz 3 / P1 kapandı: tartışmanın en kötü 10'u tam borudan geçti
+
+- 10/10 kör hakem hükmü YAYINA UYGUN. Hakem katmanının yakaladıkları:
+  kara-ölümde TELİF CERRAHİSİ (libcom'daki lisanssız Brenner taraması
+  künyeden çıkarıldı, iddialar açık kaynaklarla yeniden temellendi);
+  vestfalyada Sovereign* sayımının hakem tarafından yeniden yapılması
+  (9 geçiş, ilke olarak 0 — Osiander savı metin üzerinde yinelenebilir);
+  nüfus dosyasında ABD/koloni ve verim-serisi kapsam düzeltmeleri;
+  kalkınmada 16 katalog-destekli iddianın kismi'ye indirilmesi.
+- savunanlar.yaml +43 ad (hepsi bağımsız hakem fetch kanıtıyla);
+  doğrulanmış pozisyon %5→%23. Havuz +6 alan (legal.un.org, icj-cij,
+  unictr.irmct, ushmm, lwl, eh.net) + önceki tur who.int.
+- Oturum limiti kesintisi İKİ KEZ dalga ortasında düştü; kurtarma
+  protokolü oturdu: dosya+matris diskte kalıyor, onarım raporu
+  gelmediyse hakem çekirdeğinin 7. maddesi (kütük taraması) açığı
+  kapatıyor; hakemler temiz yeniden başlıyor. `denetle.mjs` argümansız
+  çağrı yasağı prompta eklendi (bir ajan 505 dosyayı tarayıp 1011
+  raporu git restore etmişti — yasak komut sınıfı; hasar yok ama kural
+  netleşti).
+- KAPI 18 defteri 465 dosyaya indi. Hedef-altı tartışma 34→24.
+- P2 dalgası (sonraki 10 tartışma) başlatıldı: kesif-mi-istila-mi,
+  mogol-etkisi, eksen-cagi, ikinci-dunya-savasi-sorumlulugu,
+  tarim-devrimi-neden, aydinlanmanin-sinirlari, teknolojik-belirlenimcilik,
+  imparatorluk-siniri, soguk-savasin-baslangici, romanin-cokus-nedeni.
+
+## 2026-08-29 (devam) — Faz 3 / P2 kapandı: 10 tartışma daha, 10/10 YAYINA UYGUN
+
+- Oturum limiti ÜÇÜNCÜ kez dalga ortasına düştü; kurtarma yine temiz:
+  tüm dosya+matrisler diskte sağlam çıktı, 8 hakem yeniden başlatıldı.
+  Ölen hakemlerden birinin son bulgusu ("ders kitapları" iddiası) yeni
+  hakeme devredildi ve doğrulanıp düzeltildi — kesinti bulgu kaybetmedi.
+- Hakem katmanının bu dalgada yakaladıkları: Winner'da "authoritative"→
+  "otoriter" aşırı çevirisi; Allsen tezine astronomi aşımı; Tuna limes
+  amacı; Reséndez atfının anonim düzleştirilmesi; eksen-çağı üstveri-API
+  destek düzeylerinin indirilmesi; X makalesi/Truman/Yalta/Potsdam
+  birincil doğrulamaları; 2. Dünya Savaşı dosyasında hassas-zemin
+  denetimi (inkâra kapı yok, Taylor'ın reddedilmiş statüsü net).
+- savunanlar.yaml +59 ad (P1+P2 toplam +102); doğrulanmış pozisyon
+  %5 → %41. Childe'ın yanlış "kisi-degil" kaydı düzeltildi.
+- Havuz +2 üstveri alanı (api.crossref.org, api.semanticscholar.org)
+  "üstveri-sınırı" kuralıyla (yalnız yazar/yıl/başlık dogrudan; içerik
+  en çok özet düzeyinde kismi).
+- 13 karşılıklı geri bağ; imparatorluk-sınırında 3 dipnotsuz paragraf
+  onarımı. KAPI 18 defteri 455 dosyaya indi.
+- Hedef-altı tartışma 24→14. Tam borudan geçen makale: 32
+  (12 pilot + 20 tartışma); 32 matris GEÇERLİ, hepsi hash+commit bağlı.

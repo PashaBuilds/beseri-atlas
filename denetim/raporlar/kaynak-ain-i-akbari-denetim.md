@@ -1,5 +1,5 @@
 ## kaynak-ain-i-akbari
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.124Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:16.555Z_
 
 - [ATOMSUZ] k1 → "Âyîn-i Ekberî, bir imparatorluğun kendi idari yapısını ve kaynaklarını kalem kalem saydığı bir envanterdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Âyîn-i Ekberî, bir imparatorluğun kendi idari yapısını ve kaynaklarını kalem kalem saydığı bir envanterdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

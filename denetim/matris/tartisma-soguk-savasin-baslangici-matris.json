@@ -1,0 +1,655 @@
+{
+ "id": "tartisma-soguk-savasin-baslangici",
+ "govde_hash": "aa32009a5ff4",
+ "commit": "58a10ea",
+ "zaman": "2026-08-29",
+ "hakem": "kor-hakem-2026-08-29",
+ "iddialar": [
+  {
+   "iddia_id": "i001",
+   "cumle": "Soğuk Savaş'ın kimin eseri olduğu sorusu, tarihçilerin yaygın olarak üç ayrı yaklaşım saydığı bir tartışmanın merkezinde durur: sorumluluğu Sovyetler Birliği'ne yükleyen ortodoks anlatılar, oku Amerikan politikasına çeviren revizyonizm ve sorumluluğun bir tarafa yüklenmesini reddeden post-revizyonizm.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Uc okul sayimi ve her birinin konumu k1 girisinde: orthodox/revisionism/post-revisionism"
+  },
+  {
+   "iddia_id": "i002",
+   "cumle": "Aynı sayımı yapan literatür bir uyarı da düşer: bu alandaki tarih yazımının çoğu, üç geniş kategoriden ikisini ya da üçünü birden iç içe örer ve daha yeni araştırmacılar üçünün de kaygılarını aşan sorulara yönelmiştir.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "weaves together two or even all three + more recent scholars transcend, k1 girisinde aynen"
+  },
+  {
+   "iddia_id": "i003",
+   "cumle": "Sorunun önemi cevabının ötesindedir, çünkü her okul kendi on yılının siyasetiyle birlikte doğdu: revizyonist dalga Vietnam Savaşı'nın gölgesinde büyüdü, sentez arayışı ise arşivlerin açılmasıyla yeniden bozuldu.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Vietnam baglami ve arsiv acilisi k1de; her okul kendi on yilinin siyasetiyle dogdu genellemesi yazarin cercevesi"
+  },
+  {
+   "iddia_id": "i004",
+   "cumle": "Şubat 1945'te Yalta'da kabul edilen Kurtarılmış Avrupa Bildirisi, üç hükümetin, kurtarılmış ülkelerde halkın iradesine duyarlı yönetimlerin serbest seçimlerle en kısa sürede kurulmasına bağlı geçici otoritelerin oluşturulmasına birlikte yardım edeceğini yazar.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Kurtarilmis Avrupa Bildirisi (c) bendi: interim authorities + earliest possible establishment through free elections"
+  },
+  {
+   "iddia_id": "i005",
+   "cumle": "Aynı yılın Ağustos'unda kabul edilen Potsdam protokolü, barış düzenlemelerini hazırlamak üzere bir Dışişleri Bakanları Konseyi kurdu ve Sovyet tazminat taleplerinin esas olarak Sovyet işgal bölgesinden yapılacak sökümlerle karşılanmasını hükme bağladı.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Konseyin kurulusu protokol I. bolumde; tazminatin Sovyet bolgesinden karsilanmasi III. bolumde (removals from the zone occupied by the USSR)"
+  },
+  {
+   "iddia_id": "i006",
+   "cumle": "Kennan'ın Foreign Affairs'te 1947'de X imzasıyla çıkan yazısı, Sovyetler'e dönük Amerikan siyasetinin özünü \"long-term, patient but firm and vigilant containment of Russian expansive tendencies\" olarak tarif ediyordu.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Alinti Part II sonunda aynen; 1947 ve X imzasi sayfa basliginda"
+  },
+  {
+   "iddia_id": "i007",
+   "cumle": "Aynı metin bu çevrelemenin nasıl işleyeceğini de anlatır: Sovyet baskısı, sürekli yer değiştiren coğrafi ve siyasi noktalarda ustaca uygulanacak bir karşı kuvvetle geriletilebilirdi.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "adroit and vigilant application of counter-force at constantly shifting geographical and political points, metinde aynen"
+  },
+  {
+   "iddia_id": "i008",
+   "cumle": "Aynı yılın 12 Mart'ında Truman, Yunanistan ile Türkiye'ye yardım talebi vesilesiyle Kongre önünde konuştu ve Birleşik Devletler politikasının \"free peoples who are resisting attempted subjugation by armed minorities or by outside pressures\" desteklemek olması gerektiğini söyledi.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "12 Mart 1947 tarihi ve alinti konusma metninde; Yunanistan-Turkiye yardimi konusmanin konusu"
+  },
+  {
+   "iddia_id": "i009",
+   "cumle": "Okulları ayıran, bu metinlerden hangisinin esas alınacağıdır: ortodoks okuma Yalta taahhütleri ile Doğu Avrupa'daki uygulama arasındaki mesafeyi, revizyonist okuma çevreleme dilinin arkasındaki ekonomik programı, sentezciler ise iki başkentin birbirini okuma biçimini öne alır.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Okul tariflerinin k1deki icerigi bu karsitliga izin veriyor; cumlenin kendisi yazarin ozeti"
+  },
+  {
+   "iddia_id": "i010",
+   "cumle": "Savaşın bitimini izleyen on yılı aşkın sürede az sayıda Amerikan tarihçisi, Soğuk Savaş'ın başlangıcına dair resmî Amerikan yorumuna itiraz etti; sorumluluğu Sovyetler Birliği'ne ve onun Doğu Avrupa'ya yayılmasına yükleyen bu çizgi, sonradan ortodoks okul diye adlandırıldı.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "For more than a decade few American historians challenged; orthodox okulun tanimi ve Dogu Avrupa vurgusu k1de"
+  },
+  {
+   "iddia_id": "i011",
+   "cumle": "Bailey, 1950 tarihli America Faces Russia'da savaş sonrası barışın çöküşünü savaşı izleyen yıllardaki Sovyet yayılmacılığına bağladı: Bailey'ye göre Stalin, Yalta Konferansı'nda verdiği sözleri çiğnemiş, isteksiz Doğu Avrupa halklarına Sovyet güdümlü rejimler dayatmış ve komünizmi dünyaya yayma arayışına girmişti.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k4",
+     "destek": "baglam"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Bailey 1950 iddialari k1de aynen; k4 yalniz cignendigi soylenen Yalta taahhudunun metnini verir"
+  },
+  {
+   "iddia_id": "i012",
+   "cumle": "Herbert Feis de Churchill, Roosevelt, Stalin ve From Trust to Terror gibi çalışmalarında benzer bir çerçeve kurdu: ona göre savaş sonrası dönemde Doğu Avrupa'daki Sovyet saldırganlığı Soğuk Savaş'ı başlatan gelişmeydi ve Roosevelt'in Yalta'da Stalin'in taleplerine boyun eğmesi bu genişlemenin önünü açmıştı.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Feis eserleri, Sovyet saldirganligi savi ve Rooseveltin Yaltada teslimiyeti k1de"
+  },
+  {
+   "iddia_id": "i013",
+   "cumle": "Bu görüşten bakınca Truman Doktrini ile Marshall Planı, Sovyet baskısına verilmiş zorunlu cevaplardı.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "From that view American officials were forced to respond with the Truman Doctrine ... and the Marshall Plan"
+  },
+  {
+   "iddia_id": "i014",
+   "cumle": "Okulun üretim koşulu, sonraki eleştirinin de kapısıdır: bu anlatı, resmî yorumun akademide neredeyse sorgusuz kaldığı yıllarda yazıldı ve Amerikan kararlarının kendi hedeflerini soru hâline getirmedi.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Resmi yorumun on yili askin sorgusuz kaldigi k1de; kapi metaforu ve hedef sorusu yazarin degerlendirmesi"
+  },
+  {
+   "iddia_id": "i015",
+   "cumle": "Sovyet tarafında tablo simetrik görünür ama üretim koşulu farklıdır: Soğuk Savaş dönemine dair Sovyet tarih yazımı ezici biçimde Sovyet devleti tarafından belirlendi ve Soğuk Savaş için Batı'yı suçladı.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "overwhelmingly dictated by the Soviet state, and blamed the West, k1de aynen"
+  },
+  {
+   "iddia_id": "i016",
+   "cumle": "Devlet eliyle yazılmış bir literatürün pozisyonu yine de kayda girer, çünkü alanda fiilen üretilmiş bir külliyata karşılık gelir; yalnız bu külliyatın hiçbir tezi, onu yazan devletten bağımsız sınanamamıştır.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Uretim kosulu k1de; kayda girme gerekcesi ve sinanamazlik cikarimi yazarin"
+  },
+  {
+   "iddia_id": "i017",
+   "cumle": "Davies, Carr'ı Sovyetler Birliği'ni dünyadaki başlıca ilerici güç sayan ve Soğuk Savaş'ı Sovyetler'e karşı Amerikan saldırganlığı olarak okuyan Soğuk Savaş karşıtı tarih okuluna yerleştirir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Davies-Carr aktarimi k1de: anti-Cold War school, major progressive force, American aggression"
+  },
+  {
+   "iddia_id": "i018",
+   "cumle": "Vietnam Savaşı bağlamında yazan revizyonistler, Birleşik Devletler'in uluslararası rolünü imparatorluk ya da hegemonya terimleriyle yeniden düşünen daha geniş bir dalganın parçasıydı.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Revisionist accounts emerged in the wake of the Vietnam War; empire/hegemony cercevesi k1de"
+  },
+  {
+   "iddia_id": "i019",
+   "cumle": "Okulun ortak referansı, William Appleman Williams'ın 1959 tarihli The Tragedy of American Diplomacy kitabıydı: Williams'a göre Amerikalılar, önderleri bunu reddederken bile hep imparatorluk kuran bir halk olmuştu ve Wisconsin'de yetiştirdiği öğrencilerle birlikte Amerikan diplomasi tarihinde ayrı bir okul yarattı.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k6",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Williams 1959, empire-building people ve Wisconsin School k1de; k6 katalog kaydi"
+  },
+  {
+   "iddia_id": "i020",
+   "cumle": "Williams'ı izleyenler, savaş sonrası barışın bozulmasında sorumluluğun daha büyük payını Birleşik Devletler'e verdi: onlara göre Amerikan karar alıcıları pazar sistemini korumayı gözetiyor ve açık kapı siyasetiyle Amerikan iş dünyasına dış pazarlar açmayı hedefliyordu.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Following Williams, revisionists placed more responsibility on the United States; open door politikasi k1de"
+  },
+  {
+   "iddia_id": "i021",
+   "cumle": "Aynı literatür, Sovyet önderliğinin savaş sonrasında komünizmi yayma kararlılığı taşıdığı yolundaki yerleşik kabulü de sorguladı: Doğu Avrupa işgalinin savunmacı bir gerekçesi olduğu, Sovyetler Birliği'nin savaştan ciddi tehdit oluşturamayacak kadar yıkık çıktığı ve Ağustos 1949'a kadar nükleer tekelin Amerikan tarafında durduğu ileri sürüldü.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Savunmaci gerekce, Sovyet yikikligi ve Agustos 1949a kadar nukleer tekel k1de"
+  },
+  {
+   "iddia_id": "i022",
+   "cumle": "Kimi revizyonistler kökenleri Rus İç Savaşı'ndaki müttefik müdahalesine kadar geri götürdü.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "origins date to the Allied intervention in the Russian Civil War, k1de"
+  },
+  {
+   "iddia_id": "i023",
+   "cumle": "Wisconsin okulundan Walter LaFeber, America, Russia, and the Cold War başlıklı incelemesinde gerilimi 19. yüzyılda Doğu Asya'nın Amerikan ticaretine açılması üzerindeki Rus-Amerikan çekişmesine kadar geri götürdü.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k8",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "LaFeberin 19. yuzyil Dogu Asya koku k1de; k8 katalog kaydi"
+  },
+  {
+   "iddia_id": "i024",
+   "cumle": "Gar Alperovitz'in 1965 tarihli Atomic Diplomacy: Hiroshima and Potsdam kitabı tartışmayı atom bombasına taşıdı: Alperovitz'e göre bombalar zaten yenilmiş bir Japonya'ya karşı savaşı kazanmak için değil, Sovyet genişlemesini nükleer silahla durdurulabileceğini göstererek Sovyetleri sindirmek için kullanılmıştı ve bunu da başaramamıştı.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Alperovitz 1965 tezi ve though they failed to do so k1de; k7 katalog kaydi"
+  },
+  {
+   "iddia_id": "i025",
+   "cumle": "Joyce ve Gabriel Kolko'nun The Limits of Power çalışması ise Amerikan politikasını refleks hâlinde antikomünist ve karşı devrimci diye niteledi: Birleşik Devletler yalnızca Sovyet nüfuzuyla değil, Amerikan iktisadi ve siyasi ayrıcalıklarına yönelik her türlü meydan okumayla mücadele ediyordu.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k9",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Kolkolarin reflexively anticommunist and counterrevolutionary nitelemesi k1de; k9 katalog kaydi"
+  },
+  {
+   "iddia_id": "i026",
+   "cumle": "Bu okumada Soğuk Savaş iki blok arasındaki rekabetten çok, her bloktaki egemen devletlerin kendi nüfuslarını ve müşterilerini denetlemesinin hikâyesidir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "less a story of rivalry ... controlled and disciplined their own populations and clients, k1de"
+  },
+  {
+   "iddia_id": "i027",
+   "cumle": "John Lewis Gaddis'in 1972 tarihli The United States and the Origins of the Cold War kitabı, çeşitli yorumları sentezleme iddiasındaki yeni bir okulun başlangıcı olarak karşılandı; Gaddis'in o dönemki formülü, \"neither side can bear sole responsibility for the onset of the Cold War\" cümlesiydi.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Gaddis 1972, yeni okulun baslangici ve neither side alintisi k1de aynen"
+  },
+  {
+   "iddia_id": "i028",
+   "cumle": "Gaddis yine de Amerikan karar alıcılarının iç siyaset kısıtlarını vurguladı ve revizyonistleri, özellikle Williams'ı, Sovyet politikasının kökenlerdeki rolünü anlamamakla eleştirdi.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Ic siyaset kisitlari vurgusu ve Williams elestirisi k1de"
+  },
+  {
+   "iddia_id": "i029",
+   "cumle": "Paterson ise 1973 tarihli Soviet-American Confrontation'da Sovyet düşmanlığı ile Birleşik Devletler'in savaş sonrası dünyaya hükmetme çabasını eşit ölçüde sorumlu tuttu.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Paterson 1973 equally responsible, k1de"
+  },
+  {
+   "iddia_id": "i030",
+   "cumle": "Gaddis'in 1983'te yaptığı damıtma, sonraki Soğuk Savaş araştırmalarını yönlendiren başlıca kanallardan biri oldu.",
+   "onem": "renk",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Gaddiss 1983 distillation became a major channel, k1de"
+  },
+  {
+   "iddia_id": "i031",
+   "cumle": "Leffler, Amerikan girişimlerini tetikleyenin Kremlin'in eylemlerinden çok sosyoekonomik çözülmeye, devrimci milliyetçiliğe, Britanya'nın zayıflığına ve Avrasya'daki güç boşluklarına dair korkular olduğunu savundu.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Leffler: not so much the actions of the Kremlin as fears about socioeconomic dislocation..., k1de"
+  },
+  {
+   "iddia_id": "i032",
+   "cumle": "A Preponderance of Power bu okumayı Truman yönetiminin ulusal güvenlik kavrayışı üzerinden işledi.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k11",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Katalog basligi national security, the Truman administration konuyu tasir; ic icerik katalogdan okunamaz"
+  },
+  {
+   "iddia_id": "i033",
+   "cumle": "Bu çıkış Gaddis cephesinden sert karşılıklar gördü, Leffler itirazları isabetsiz saydı ve yine de genel post-revizyonist kampın içinde kaldı.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "strong rebuttals, Lefflerin cevabi ve post-revizyonist kampta kalisi k1de"
+  },
+  {
+   "iddia_id": "i034",
+   "cumle": "Aynı literatürden, suçlu aramaktan çok iki tarafın algılarına bakan bir damar da çıktı: Ernest May 1984 tarihli bir denemesinde, Birleşik Devletler ile Sovyetler Birliği'nin savaştan sonra düşmanlığa adeta yazgılı olduğunu, iki ülkeyi geri tutacak neredeyse hiçbir etkenin bulunmadığını yazdı.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Ernest May 1984: doomed to be antagonists, almost no factor operated to hold it back"
+  },
+  {
+   "iddia_id": "i035",
+   "cumle": "Gaddis, 1997 tarihli We Now Know: Rethinking Cold War History'de artık Sovyet tarafının çatışmadan daha fazla sorumlu tutulması gerektiğini savunuyordu: Stalin, kendi rejimi içindeki gücü Truman'ınkinden çok daha geniş olduğu için uzlaşmaya Batılı muhataplarından daha elverişli bir konumdaydı ve nedensellik zincirini kilitleyen, onun otoriter, paranoyak ve narsisist eğilimleriydi.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k10",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Gaddisin arsiv sonrasi konumu ve Stalin pasaji k1de; k10 katalog kaydi"
+  },
+  {
+   "iddia_id": "i036",
+   "cumle": "Bu dönüş sentezin kendi içinden itiraz gördü: Leffler'a göre We Now Know'un en ayırt edici özelliği, Gaddis'in post-revizyonizmi bırakıp Soğuk Savaş'ın daha geleneksel bir yorumuna dönmesiydi ve Gaddis bugün yaygın biçimde post-revizyonistten çok ortodoksa yakın sayılıyor.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Leffler: abandons post-revisionism, returns to a more traditional interpretation; more orthodox than post-revisionist, k1de"
+  },
+  {
+   "iddia_id": "i037",
+   "cumle": "Revizyonist Bruce Cumings ise 1990'larda Gaddis'le yürüttüğü tartışmada post-revizyonizmi ahlakçı ve tarihsel titizlikten yoksun olmakla eleştirdi.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Cumings 1990lar elestirisi: moralistic and lacking in historical rigor, k1de"
+  },
+  {
+   "iddia_id": "i038",
+   "cumle": "2000'lerden itibaren, Soğuk Savaş dönemi arşivlerinin Sovyetler Birliği'nde ve başka ülkelerde açılmasından yararlanan tarihçiler, suç ve kaçınılmazlık sorularından uzaklaşıp Soğuk Savaş'ı yüzyılın uzun akışı içinde, kültür, teknoloji ve ideoloji sorularıyla birlikte ele almaya yöneldi; Odd Arne Westad'ın ortak editörlüğünü yaptığı derlemede vurgu, çatışmayı küresel bir çerçeveye yerleştirmeye ve o dönemde Üçüncü Dünya denen bölgelerin rolüne kaydı.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Since the 2000s ... benefiting from the opening of archives; Westad ve Third World vurgusu k1de"
+  },
+  {
+   "iddia_id": "i039",
+   "cumle": "Casusluk ve istihbaratın kökenlerdeki payı da yeni anılar ve arşiv malzemesiyle ayrı bir araştırma alanı hâline geldi.",
+   "onem": "renk",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "After 1990s new memoirs and archival materials have opened up the study of espionage, k1de"
+  },
+  {
+   "iddia_id": "i040",
+   "cumle": "Duygulara bakan bir damar da belirdi: Frank Costigliola, savaş ittifakının çözülmesini ve erken dönem düşmanlıkları kısmen, Roosevelt'in ölümünün ardından Averell Harriman gibi kilit isimlerde yükselen duygularla açıklar.",
+   "onem": "renk",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Costigliola-Harriman pasaji k1de"
+  },
+  {
+   "iddia_id": "i041",
+   "cumle": "Revizyonist damar ise kurumadı: Geoffrey Roberts 2006 tarihli Stalin's Wars'ta Stalin'in aslında Soğuk Savaş'tan kaçınmaya çalıştığını savundu; Norman Naimark'ın 2019 tarihli çalışması da yüzyıl başındaki yeni revizyonist örnekler arasında sayılır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Roberts 2006 Stalins Wars ve Naimark 2019 yeni revizyonist ornekler olarak k1de"
+  },
+  {
+   "iddia_id": "i042",
+   "cumle": "Sorumluluk sorusu aynı anda bir suç sorusu, bir neden sorusu ve bir dönemlendirme sorusu olarak sorulduğu için tek cevaba inmiyor: ortodoks okul kararları, revizyonistler yapıyı, sentezciler etkileşimi tartıyor ve alandaki çalışmaların çoğu bu kategorilerin en az ikisini birden içinde taşıyor.",
+   "onem": "merkezi",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Kategorilerin ic ice gecmesi k1de dogrudan; suc/neden/donemlendirme ayrimi yazarin cercevesi"
+  },
+  {
+   "iddia_id": "i043",
+   "cumle": "Vojtech Mastny'nin 1996'da yazdığına göre kavga bittikten sonra kimin başlattığı sorusu, savaşın neden öyle sona erdiği sorusundan daha az ilginç hâle geldi ve ortodoks ile revizyonist okullar arasındaki ayrımın çoğu bulanıklaştı.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Mastny 1996 dipnot alintisi k1de: less interesting than the new one about why it ended; distinction has become blurred"
+  },
+  {
+   "iddia_id": "i044",
+   "cumle": "Arşivler yeni belge getirdi ama ortak bir ölçüt getirmedi: Stalin'in kişiliğine ağırlık veren okuma ile Amerikan güvenlik korkularına ağırlık veren okuma, bugün de aynı belgelerden farklı hikâyeler çıkarıyor.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Iki okumanin bugunku karsitligi k1deki Gaddis-Leffler ve yeni revizyonizm bolumlerinden; olcut yoklugu yazarin ozeti"
+  }
+ ],
+ "sayaclar": {
+  "dogrudan": 37,
+  "kismi": 7,
+  "desteksiz": 0,
+  "olculemez": 0
+ }
+}

@@ -1,5 +1,5 @@
 ## dusunur-mill
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:24.226Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:09.602Z_
 
 - [OK]      k1 → "Kaynak onu 1806-73 arasında yaşamış, on dokuzuncu yüzyılın en etkili İngilizce yazan filozofu olarak kaydeder …" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kaynak üç niteliği ayrı ayrı değil tek bir cümlede sayar: doğalcı, faydacı ve liberal." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

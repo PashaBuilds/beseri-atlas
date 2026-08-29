@@ -1,61 +1,229 @@
 {
   "id": "tartisma-kesif-mi-istila-mi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:27.978Z",
-  "govde_hash": "8ae7c07f9657",
-  "commit": "1d273c7",
+  "zaman": "2026-08-29T09:00:02.392Z",
+  "govde_hash": "2694f58ce913",
+  "commit": "58a10ea",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Bu haritanın çıkış noktası kaynağın sonuç satırıdır: İspanyol-Yerli müttefik zaferi.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak sonucu İspanyol-Yerli müttefik zaferi olarak kaydeder ve toprak sonucunu şöyle yazar: Aztek İmparatorluğu'nun, Purépecha İmparatorluğu'nun ve diğerlerini",
-      "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynakta Purépecha İmparatorluğu müttefikler arasında 1522 tarihiyle, hasımlar arasında 1522-1529 ve 1533 sonrası tarihleriyle yer alır; Chalco ve Xochimilco da",
-      "durum": "OK",
-      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir siyasi birimin aynı çatışmanın iki tarafında da kaydedilmesi, üçüncü pozisyonun dayanağıdır.",
+      "anahtar": "k11",
+      "iddia": "Üç ad da aynı olayları anlatır ama her biri başka bir fail, başka bir mağdur ve başka bir sorumluluk önerir; sömürge yönetiminin meşruluğu üzerine süren tartışm",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak tarihi iki aralık olarak yazar: Şubat 1519 - 13 Ağustos 1521 arası Aztek İmparatorluğu'na karşı, 1529 sonrası - 17 Şubat 1530 arası Purépecha İmparatorlu",
-      "durum": "OK",
-      "not": "4 atom doğrulandı; 4 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir olayın iki ayrı hasımla iki ayrı aralıkta kaydedilmesi, tek bir ad altında toplanan şeyin aslında bir dizi olduğunu gösterir.",
+      "anahtar": "k9",
+      "iddia": "Keşif sözcüğü on dokuzuncu yüzyılda tapu üreten bir hukuk ilkesine ad olmuş, fetih sözcüğü destan diliyle yerleşmiş, yıkım sözcüğü çağdaş tanıklığın kendi başlı",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Geriye dönük adlandırmaya dair bir başka kayıt, siyasi güdümlü anakronizm ile bilinçsiz anakronizmi ayrı başlıklar olarak tutar.",
+      "anahtar": "k4",
+      "iddia": "Keşif sözcüğü on dokuzuncu yüzyılda tapu üreten bir hukuk ilkesine ad olmuş, fetih sözcüğü destan diliyle yerleşmiş, yıkım sözcüğü çağdaş tanıklığın kendi başlı",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Adlandırmanın tarihselliği üzerine yazan bir yazar için tutulan kayıt, onu hem tarihçi hem filozof olarak kaydeder.",
+      "iddia": "Keşif sözcüğü on dokuzuncu yüzyılda tapu üreten bir hukuk ilkesine ad olmuş, fetih sözcüğü destan diliyle yerleşmiş, yıkım sözcüğü çağdaş tanıklığın kendi başlı",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Sömürge düzenini adlandıran kavram dosyası üst verideki ilgili alanında tutulmaktadır; adı on dokuzuncu yüzyıla ait olduğu için bu dosyanın gövdesinde anılmamış",
+      "iddia": "1493 tarihli, Aragon maliye görevlisi Luis de Santángel'e gönderilen mektup, otuz üç günde Hint adalarına ulaştığını, kalabalık nüfuslu pek çok ada bulduğunu ve",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Mektup gördüğü yerleri yeniden adlandırır da: yazar, kıyısını izlediği büyük adaya La Española adını verdiğini, adaları Majestelerinin dilediği gibi tasarruf ed",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Mektubun bulma dilinde bile kayıt ikilidir: adaların yoğun biçimde meskûn olduğunu metnin kendisi yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kapanış vaatleri de aynı belgededir: yazar, Majestelerine istedikleri kadar altın, baharat, pamuk ve — gönderilmesini buyurdukları kadar — köle sağlayabileceğin",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "1843'te yayımlanan History of the Conquest of Mexico, konusunu okuruna \"The subversion of a great empire by a handful of adventurers\" cümlesiyle tanıtır; Presco",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı önsöz fethin kendisini, şövalye ozanlarının kurduğu efsaneler kadar serüvenli ve romantik bulur; anlatının amacı bu fethin ve onu gerçekleştiren dikkate de",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Ad ile ton birlikte yerleşti: fetih, bir avuç istisnai adamın destanı olarak anlatıldıkça kahramanlık çerçevesinin başlığı hâline geldi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Matthew Restall'ın 2003 tarihli Seven Myths of the Spanish Conquest kitabı, istisnai adamlar mitini, beyaz fatih mitini ve fethin tamamlandığı mitini ayrı bölüm",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bartolomé de las Casas'ın 1552'de Sevilla'da basılan kitabı, Brevísima relación de la destrucción de las Indias, yıkım sözcüğünü başlığa koyar; erken İngilizce ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metin, adaların nasıl boşaltıldığını bölge bölge anlatır ve İspanya'dan geniş on krallık büyüklüğünde toprağın ıssız bırakıldığını ileri sürer.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Las Casas'ın sayıları davasının parçasıdır: Española'da üç milyon kişinin yaşadığını, geriye üç yüz kişilik bir bakiye kaldığını yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Crosby'nin 1972'de yayımlanan The Columbian Exchange: Biological and Cultural Consequences of 1492 kitabı, olayı iki yarımküre arasında bitki, hayvan ve hastalı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Karşılaşma ve değiş tokuş gibi ara adlar bu çerçeveden türedi; sözcüklerin ima ettiği simetrinin, yükü kimin taşıdığı sorusunu örtüp örtmediği ise pozisyon tabl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Alfred Kroeber'in 1939'da yarımkürenin tamamı için verdiği 8,4 milyonluk tahmin gibi düşük sayılar, kayda göre çoğu kez Avrupalıların kültürel ve ırksal üstünlü",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düşük tahminler 1960'lara kadar yaygın kabul gördü; o on yılda antropolog Henry Dobyns, tarihsel ve arkeolojik veriyi birlikte kullanarak temas öncesi nüfusun 1",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Karşı kutup 1998'de kitaplaştı: tarihçi David Henige, Numbers from Nowhere başlıklı incelemesinde, tahminlerin çoğunun güvenilmez kaynaklara uygulanan keyfi for",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Karşı kutup 1998'de kitaplaştı: tarihçi David Henige, Numbers from Nowhere başlıklı incelemesinde, tahminlerin çoğunun güvenilmez kaynaklara uygulanan keyfi for",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yakın dönem tahminlerinin çoğu 45 ile 60 milyon kişi arasına düşer; aralığın genişliği, sayının kendisinden çok yöntem seçimini yansıtır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düşüşün kendisi için kayıt, hastalıkları, yerleşimcilerle müttefiklerinin doğrudan şiddetini ve toplumsal düzenin bozulmasını birlikte sayar; her etkenin payı ü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Zamanlama ayrıntısı adlandırma için önemlidir: aynı kayıtta aktarıldığına göre tarihçi Andrés Reséndez, çiçek hastalığının Amerika kıtalarında anılmasının 1519 ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kayıtta aktarılan bir tahmine göre madenlerde zorla çalıştırılan Arawak işçilerinin üçte biri her altı ayda bir ölüyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "M'Intosh davasında verdiği kararda, Avrupa devletlerinin kendi aralarında benimsediği ilkeyi \"discovery gave title to the government\" cümlesiyle özetler: keşif,",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Aynı karara göre fetih de fatihin mahkemelerinin adaletini tartışamayacağı bir tapu üretir; kararın kendi sözcük seçimi, keşif ile fetih adlarının hukuk dilinde",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Stanford Felsefe Ansiklopedisi'nin sömürgecilik maddesine göre İspanyol fatihleri ve yerleşimcileri, Amerika kıtalarındaki faaliyetlerini yerli halklara Hristiy",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Aynı maddeye göre eleştiri de aynı yüzyılda başladı: Las Casas ile Francisco de Vitoria, İspanyol sömürge pratiğinin erken ve etkili eleştirmenleri arasında say",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Yerleşimci hukukunun sonradan keşif doktrini diye adlandırılan ilkesi, tartışmanın bugünkü hukuk kanadını da meşgul eder: aynı madde doktrini, sahipsiz toprak a",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Uluslararası Adalet Divanı, 16 Ekim 1975 tarihli Batı Sahra danışma görüşünde, bölgenin İspanyol sömürgeleştirmesi sırasında kimseye ait olmayan toprak sayılama",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Vine Deloria Jr.'ın Custer Died for Your Sins: An Indian Manifesto adlı kitabı — arşiv kaydı 1971 baskısını tutar — alt başlığındaki manifesto sözcüğüyle anlatı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Beş yüzüncü yıl yaklaşırken kavga yayın başlıklarına taşındı: Kirkpatrick Sale'in 1990'da yayımlanan kitabı Kolomb mirasını The Conquest of Paradise adıyla anla",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Adın sonradanlığına dair bir kayıt da Restall'ın kataloğundan okunur: tanıtıma göre Kolomb, kendi çağında ve sonrasındaki on yıllarda kısa süre talihi yaver git",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Keşif adının taşıdığı kahraman, bu okumaya göre olayın değil sonraki yüzyılların ürünüdür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Temas öncesi nüfusun büyüklüğü, yöntem tartışması sürerken bir aralık olarak kalır; beş yüzüncü yılın takvim ve tören kavgası — resmî gün adlarına itirazlar, ar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Temas öncesi nüfusun büyüklüğü, yöntem tartışması sürerken bir aralık olarak kalır; beş yüzüncü yılın takvim ve tören kavgası — resmî gün adlarına itirazlar, ar",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

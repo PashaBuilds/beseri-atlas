@@ -1,5 +1,5 @@
 ## aktor-yeni-hebridler-ortak-yonetimi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:23.029Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:08.331Z_
 
 - [OK]      k1 → "Yeni Hebridler ortak yönetimi, aynı ada topluluğunun iki imparatorluk tarafından birlikte yönetilmesidir."
 - [ATOMSUZ] k2 → "Bu, olağan bir sömürge düzeni değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## veri-bebek-olumleri
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.833Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:15.239Z_
 
 - [OK]      k1 → "Seri 1990'da 6,399028 ile başlar ve 2024'te 2,7679465 ile biter."
 - [ATOMSUZ] k1 → "Veri kümesinin sütun adı, gözlem değerini bebek ölüm oranı göstergesi için ve cinsiyet ile varlık dilimi kırıl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

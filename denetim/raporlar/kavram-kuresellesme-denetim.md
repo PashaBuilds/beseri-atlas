@@ -1,5 +1,5 @@
 ## kavram-kuresellesme
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:18.135Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:11.534Z_
 
 - [ATOMSUZ] k1 → "Kaynak, köken bilgisi ve kullanıma ayrı bir bölüm ayırır; tarih bölümünü dört alt başlığa böler: arkaik, erken…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak iktisadi, kültürel ve siyasi küreselleşmeyi ayrı bölümler olarak tutar; siyasi küreselleşme altında ord…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

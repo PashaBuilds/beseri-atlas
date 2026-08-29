@@ -1,5 +1,5 @@
 ## veri-askeri-harcama
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:18.519Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:15.178Z_
 
 - [OK]      k1 → "Seri 1988'de yaklaşık 1.759.879.600.000 ile başlar ve 2025'te yaklaşık 2.771.294.000.000 ile biter; toplam 37 …"
 - [OK]      k1 → "Veri kümesinde dünya toplamı için 1988'den önce gözlem bulunmaz."

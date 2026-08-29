@@ -1,5 +1,5 @@
 ## tartisma-sanayi-devrimi-neden-ingiltere
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.244Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:14.405Z_
 
 - [ATOMSUZ] k1 → "Bu haritanın çıkış noktası kaynağın başlık seçimidir: nedenler kesin bir liste olarak değil olası etkenler baş…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak, olası etkenler başlığı altında şunları sayar: kömür, Yeni Dünya, köle ticareti, siyasi parçalanmışlık,…" — 3 atom doğrulandı; 1 ad ölçülemedi

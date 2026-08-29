@@ -18,6 +18,7 @@ ilgili:
   - olay-fransiz-devrimi
   - olay-amerikan-devrimi
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - tartisma-aydinlanmanin-sinirlari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

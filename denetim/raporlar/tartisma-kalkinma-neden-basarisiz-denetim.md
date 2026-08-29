@@ -1,5 +1,5 @@
 ## tartisma-kalkinma-neden-basarisiz
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:00:35.496Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:13.785Z_
 
 - [OK]      k1 → "Kalkınma çağına bir doğum yılı aranacaksa, kalkınma sonrası yazarlar 1949'u gösterir: Harry Truman o yıl, az g…"
 - [ATOMSUZ] k1 → "İzleyen yetmiş yılda vaat bir uzmanlık alanına, bir kurumlar ağına ve art arda gelen reçetelere dönüştü; burad…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

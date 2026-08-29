@@ -1,81 +1,309 @@
 {
   "id": "tartisma-soguk-savasin-baslangici",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:28.275Z",
-  "govde_hash": "f309074ee2a7",
-  "commit": "1d273c7",
+  "zaman": "2026-08-29T04:53:06.927Z",
+  "govde_hash": "aa32009a5ff4",
+  "commit": "58a10ea",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Bu haritanın çıkış noktası kaynağın kendi uyarısıdır: üç okul adlandırılabilir ama tarih yazımının çoğu bu kategorileri iç içe geçirir.",
+      "iddia": "Soğuk Savaş'ın kimin eseri olduğu sorusu, tarihçilerin yaygın olarak üç ayrı yaklaşım saydığı bir tartışmanın merkezinde durur: sorumluluğu Sovyetler Birliği'ne",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı sayımı yapan literatür bir uyarı da düşer: bu alandaki tarih yazımının çoğu, üç geniş kategoriden ikisini ya da üçünü birden iç içe örer ve daha yeni araşt",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, tarihçilerin Soğuk Savaş çalışmalarında yaygın olarak üç farklı yaklaşımdan söz ettiğini yazar: ortodoks anlatılar, düzeltmecilik ve düzeltmecilik sonra",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Soğuk, Savaş"
+      "iddia": "Sorunun önemi cevabının ötesindedir, çünkü her okul kendi on yılının siyasetiyle birlikte doğdu: revizyonist dalga Vietnam Savaşı'nın gölgesinde büyüdü, sentez ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Aynı madde, kökenlere dair akademik tartışmalardaki açıklamaların karmaşık ve çeşitli olduğunu da belirtir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k4",
+      "iddia": "Şubat 1945'te Yalta'da kabul edilen Kurtarılmış Avrupa Bildirisi, üç hükümetin, kurtarılmış ülkelerde halkın iradesine duyarlı yönetimlerin serbest seçimlerle e",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, Soğuk Savaş dönemine dair Sovyet tarih yazımının ezici biçimde Sovyet devleti tarafından belirlendiğini ve Soğuk Savaş için Batı'yı suçladığını yazar.",
+      "anahtar": "k5",
+      "iddia": "Aynı yılın Ağustos'unda kabul edilen Potsdam protokolü, barış düzenlemelerini hazırlamak üzere bir Dışişleri Bakanları Konseyi kurdu ve Sovyet tazminat talepler",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kennan'ın Foreign Affairs'te 1947'de X imzasıyla çıkan yazısı, Sovyetler'e dönük Amerikan siyasetinin özünü \"long-term, patient but firm and vigilant containmen",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı metin bu çevrelemenin nasıl işleyeceğini de anlatır: Sovyet baskısı, sürekli yer değiştiren coğrafi ve siyasi noktalarda ustaca uygulanacak bir karşı kuvve",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sovyet"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yılın 12 Mart'ında Truman, Yunanistan ile Türkiye'ye yardım talebi vesilesiyle Kongre önünde konuştu ve Birleşik Devletler politikasının \"free peoples who ",
       "durum": "OK",
       "not": "1 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir literatürün üretim koşulunun ayrıca kaydedilmesi, atlasın şu kuralının dayanağıdır: bu haritadaki pozisyonlar, kimin hangi koşullarda yazdığı belirtilerek t",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Okulları ayıran, bu metinlerden hangisinin esas alınacağıdır: ortodoks okuma Yalta taahhütleri ile Doğu Avrupa'daki uygulama arasındaki mesafeyi, revizyonist ok",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, Britanya'da bir tarihçinin Sovyetler Birliği'nin on dört ciltlik bir tarihini yazdığını, çalışmanın 1920'lere odaklandığını ve 1950-1978 arasında yayıml",
+      "iddia": "Savaşın bitimini izleyen on yılı aşkın sürede az sayıda Amerikan tarihçisi, Soğuk Savaş'ın başlangıcına dair resmî Amerikan yorumuna itiraz etti; sorumluluğu So",
       "durum": "OK",
-      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k2",
-      "iddia": "O tarihçi için tutulan ayrı bir kayıt, mesleğini tarihçi, diplomat, uluslararası ilişkiler kuramcısı ve gazeteci olarak verir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k1",
+      "iddia": "Bailey, 1950 tarihli America Faces Russia'da savaş sonrası barışın çöküşünü savaşı izleyen yıllardaki Sovyet yayılmacılığına bağladı: Bailey'ye göre Stalin, Yal",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Askerî harcama serisinde sağlayıcının toplam satırı 1988 için yaklaşık 1.759.879.600.000 verir.",
+      "anahtar": "k4",
+      "iddia": "Bailey, 1950 tarihli America Faces Russia'da savaş sonrası barışın çöküşünü savaşı izleyen yıllardaki Sovyet yayılmacılığına bağladı: Bailey'ye göre Stalin, Yal",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Herbert Feis de Churchill, Roosevelt, Stalin ve From Trust to Terror gibi çalışmalarında benzer bir çerçeve kurdu: ona göre savaş sonrası dönemde Doğu Avrupa'da",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Atlas bu değeri hiçbir pozisyonun kanıtı olarak sunmaz: seri yalnızca dönemin son yıllarını kapsar ve harcamanın hangi tarafa ait olduğunu bu dosyada vermez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Bu görüşten bakınca Truman Doktrini ile Marshall Planı, Sovyet baskısına verilmiş zorunlu cevaplardı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Atlas bu değeri hiçbir pozisyonun kanıtı olarak sunmaz: seri yalnızca dönemin son yıllarını kapsar ve harcamanın hangi tarafa ait olduğunu bu dosyada vermez.",
+      "anahtar": "k1",
+      "iddia": "Okulun üretim koşulu, sonraki eleştirinin de kapısıdır: bu anlatı, resmî yorumun akademide neredeyse sorgusuz kaldığı yıllarda yazıldı ve Amerikan kararlarının ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sovyet tarafında tablo simetrik görünür ama üretim koşulu farklıdır: Soğuk Savaş dönemine dair Sovyet tarih yazımı ezici biçimde Sovyet devleti tarafından belir",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Devlet eliyle yazılmış bir literatürün pozisyonu yine de kayda girer, çünkü alanda fiilen üretilmiş bir külliyata karşılık gelir; yalnız bu külliyatın hiçbir te",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynağın kendisi üç okulu adlandırır ama aralarında bir hüküm vermez; bu atlas da vermez.",
+      "iddia": "Davies, Carr'ı Sovyetler Birliği'ni dünyadaki başlıca ilerici güç sayan ve Soğuk Savaş'ı Sovyetler'e karşı Amerikan saldırganlığı olarak okuyan Soğuk Savaş karş",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Vietnam Savaşı bağlamında yazan revizyonistler, Birleşik Devletler'in uluslararası rolünü imparatorluk ya da hegemonya terimleriyle yeniden düşünen daha geniş b",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Savaşı, Birleşik, Devletler"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Okulun ortak referansı, William Appleman Williams'ın 1959 tarihli The Tragedy of American Diplomacy kitabıydı: Williams'a göre Amerikalılar, önderleri bunu redd",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Okulun ortak referansı, William Appleman Williams'ın 1959 tarihli The Tragedy of American Diplomacy kitabıydı: Williams'a göre Amerikalılar, önderleri bunu redd",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Williams'ı izleyenler, savaş sonrası barışın bozulmasında sorumluluğun daha büyük payını Birleşik Devletler'e verdi: onlara göre Amerikan karar alıcıları pazar ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı literatür, Sovyet önderliğinin savaş sonrasında komünizmi yayma kararlılığı taşıdığı yolundaki yerleşik kabulü de sorguladı: Doğu Avrupa işgalinin savunmac",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kimi revizyonistler kökenleri Rus İç Savaşı'ndaki müttefik müdahalesine kadar geri götürdü.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılda Doğu Asya'nın Amerikan ticaretine açılması üzerindeki Rus-Amerikan çekişmesine kadar geri götürdü.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "yüzyılda Doğu Asya'nın Amerikan ticaretine açılması üzerindeki Rus-Amerikan çekişmesine kadar geri götürdü.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Gar Alperovitz'in 1965 tarihli Atomic Diplomacy: Hiroshima and Potsdam kitabı tartışmayı atom bombasına taşıdı: Alperovitz'e göre bombalar zaten yenilmiş bir Ja",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Gar Alperovitz'in 1965 tarihli Atomic Diplomacy: Hiroshima and Potsdam kitabı tartışmayı atom bombasına taşıdı: Alperovitz'e göre bombalar zaten yenilmiş bir Ja",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Joyce ve Gabriel Kolko'nun The Limits of Power çalışması ise Amerikan politikasını refleks hâlinde antikomünist ve karşı devrimci diye niteledi: Birleşik Devlet",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Joyce ve Gabriel Kolko'nun The Limits of Power çalışması ise Amerikan politikasını refleks hâlinde antikomünist ve karşı devrimci diye niteledi: Birleşik Devlet",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu okumada Soğuk Savaş iki blok arasındaki rekabetten çok, her bloktaki egemen devletlerin kendi nüfuslarını ve müşterilerini denetlemesinin hikâyesidir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Soğuk, Savaş"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "John Lewis Gaddis'in 1972 tarihli The United States and the Origins of the Cold War kitabı, çeşitli yorumları sentezleme iddiasındaki yeni bir okulun başlangıcı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Gaddis yine de Amerikan karar alıcılarının iç siyaset kısıtlarını vurguladı ve revizyonistleri, özellikle Williams'ı, Sovyet politikasının kökenlerdeki rolünü a",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Paterson ise 1973 tarihli Soviet-American Confrontation'da Sovyet düşmanlığı ile Birleşik Devletler'in savaş sonrası dünyaya hükmetme çabasını eşit ölçüde sorum",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Gaddis'in 1983'te yaptığı damıtma, sonraki Soğuk Savaş araştırmalarını yönlendiren başlıca kanallardan biri oldu.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Leffler, Amerikan girişimlerini tetikleyenin Kremlin'in eylemlerinden çok sosyoekonomik çözülmeye, devrimci milliyetçiliğe, Britanya'nın zayıflığına ve Avrasya'",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "A Preponderance of Power bu okumayı Truman yönetiminin ulusal güvenlik kavrayışı üzerinden işledi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu çıkış Gaddis cephesinden sert karşılıklar gördü, Leffler itirazları isabetsiz saydı ve yine de genel post-revizyonist kampın içinde kaldı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı literatürden, suçlu aramaktan çok iki tarafın algılarına bakan bir damar da çıktı: Ernest May 1984 tarihli bir denemesinde, Birleşik Devletler ile Sovyetle",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Gaddis, 1997 tarihli We Now Know: Rethinking Cold War History'de artık Sovyet tarafının çatışmadan daha fazla sorumlu tutulması gerektiğini savunuyordu: Stalin,",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Gaddis, 1997 tarihli We Now Know: Rethinking Cold War History'de artık Sovyet tarafının çatışmadan daha fazla sorumlu tutulması gerektiğini savunuyordu: Stalin,",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dönüş sentezin kendi içinden itiraz gördü: Leffler'a göre We Now Know'un en ayırt edici özelliği, Gaddis'in post-revizyonizmi bırakıp Soğuk Savaş'ın daha gel",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Revizyonist Bruce Cumings ise 1990'larda Gaddis'le yürüttüğü tartışmada post-revizyonizmi ahlakçı ve tarihsel titizlikten yoksun olmakla eleştirdi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "2000'lerden itibaren, Soğuk Savaş dönemi arşivlerinin Sovyetler Birliği'nde ve başka ülkelerde açılmasından yararlanan tarihçiler, suç ve kaçınılmazlık soruları",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Casusluk ve istihbaratın kökenlerdeki payı da yeni anılar ve arşiv malzemesiyle ayrı bir araştırma alanı hâline geldi.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k4",
-      "iddia": "Bu dosya truman doktrini'nin metnine bağlanır.",
+      "anahtar": "k1",
+      "iddia": "Duygulara bakan bir damar da belirdi: Frank Costigliola, savaş ittifakının çözülmesini ve erken dönem düşmanlıkları kısmen, Roosevelt'in ölümünün ardından Avere",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Revizyonist damar ise kurumadı: Geoffrey Roberts 2006 tarihli Stalin's Wars'ta Stalin'in aslında Soğuk Savaş'tan kaçınmaya çalıştığını savundu; Norman Naimark'ı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sorumluluk sorusu aynı anda bir suç sorusu, bir neden sorusu ve bir dönemlendirme sorusu olarak sorulduğu için tek cevaba inmiyor: ortodoks okul kararları, revi",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Vojtech Mastny'nin 1996'da yazdığına göre kavga bittikten sonra kimin başlattığı sorusu, savaşın neden öyle sona erdiği sorusundan daha az ilginç hâle geldi ve ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Arşivler yeni belge getirdi ama ortak bir ölçüt getirmedi: Stalin'in kişiliğine ağırlık veren okuma ile Amerikan güvenlik korkularına ağırlık veren okuma, bugün",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

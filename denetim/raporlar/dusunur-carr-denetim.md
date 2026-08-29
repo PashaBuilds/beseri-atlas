@@ -1,5 +1,5 @@
 ## dusunur-carr
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:23.293Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:08.600Z_
 
 - [OK]      k1 → "Kaynak onu 28 Haziran 1892'de Londra'da doğmuş, 3 Kasım 1982'de Londra'da ölmüş biri olarak kaydeder ve mesleğ…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "adlı kitabında radikal tarih yazımı ilkelerini ortaya koyması." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

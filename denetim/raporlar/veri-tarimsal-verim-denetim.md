@@ -1,5 +1,5 @@
 ## veri-tarimsal-verim
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:29.894Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:16.324Z_
 
 - [OK]      k1 → "Seri 1961'de hektar başına 1,0889001 ton ile başlar ve 2024'te 3,6374002 ton ile biter."
 - [ATOMSUZ] k1 → "Veri kümesinin başlık satırı aynı dosyada birden çok ürün için verim sütunu tutar; bu dosya yalnızca ilk sütun…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

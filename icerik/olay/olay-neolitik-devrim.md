@@ -18,6 +18,7 @@ ilgili:
   - olay-gobeklitepe
   - kavram-tarihsel-iklimbilim
   - veri-kentli-nufus-sayisi
+  - tartisma-tarim-devrimi-neden
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

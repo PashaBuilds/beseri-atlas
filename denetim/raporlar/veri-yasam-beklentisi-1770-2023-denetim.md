@@ -1,5 +1,5 @@
 ## veri-yasam-beklentisi-1770-2023
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:19.157Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:16.460Z_
 
 - [OK]      k1 → "Seri 1770'te 28,5 yıl ile başlar ve 2023'te 73,1694 yıl ile biter; toplam 81 gözlem vardır."
 - [OK]      k1 → "Seride 1770, 1800 ve 1820 yılları art arda üç gözlemdir; yani ilk elli yıl yalnızca üç noktayla temsil edilir."

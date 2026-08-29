@@ -1,5 +1,5 @@
 ## olay-hacli-seferleri
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:16.083Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:01.087Z_
 
 - [OK]      k1 → "Aleksios Komnenos (1081-1118) arasında aynı konu yeniden ele alındı."
 - [OK]      k1 → "Süleyman Şah'ın 1086 yılında ölümünden sonra Türk beyleri arasındaki anlaşmazlıklar yüzünden hâkimiyet bölünmü…"

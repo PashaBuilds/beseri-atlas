@@ -1,5 +1,5 @@
 ## kavram-kurulus-anlatisi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:26.116Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:11.553Z_
 
 - [ATOMSUZ] k1 → "Kuruluş anlatısı, bir düzenin kendi başlangıcını anlattığı metindir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Anlatı tarih kitabı değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

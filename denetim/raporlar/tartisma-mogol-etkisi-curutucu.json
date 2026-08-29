@@ -1,21 +1,6 @@
 {
   "id": "tartisma-mogol-etkisi",
   "gecis": 3,
-  "zaman": "2026-08-21T10:58:07.485Z",
-  "itirazlar": [
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Bu haritanın çıkış noktası, kaynağın kendi bölüm listesidir: aynı maddede hem İpek Yolu'na hem mirasa ayrı bölümler ayrılmış, miras bölümünün tek alt başlığı ise yıkım olarak konmu",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Kaynak, imparatorluğun tarihteki en büyük bitişik imparatorluk olduğunu ve zirvesinde Japon Denizi'nden Doğu Avrupa'ya uzandığını, kuzeyde Sibirya'ya, doğu ve güneyde Hint alt kıta",
-      "sorun": "\"en büyük\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    }
-  ]
+  "zaman": "2026-08-29T04:53:22.154Z",
+  "itirazlar": []
 }

@@ -1,5 +1,5 @@
 ## kavram-ilkel-birikim
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:25.616Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:11.035Z_
 
 - [OK]      k1 → "Kaynak, köken ve tanım başlığı altında iki alt başlık tutar: Adam Smith'in önceki birikim terimi ve Marx'ın bu…"
 - [ATOMSUZ] k1 → "Kaynak, ilkel birikimin mekanizmaları başlığı altında çevirmeler ve toprak kamulaştırması, av yasaları ve topl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

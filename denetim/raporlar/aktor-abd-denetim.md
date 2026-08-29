@@ -1,5 +1,5 @@
 ## aktor-abd
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:17.764Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:03.857Z_
 
 - [OK]      k1 → "Bağımsızlık Bildirisi 4 Temmuz 1776'da İkinci Kıta Kongresi tarafından kabul edildi." — 1 atom doğrulandı; 4 ad ölçülemedi
 - [OK]      k1 → "Kaynak, Thomas Jefferson'ın 11 Haziran 1776'da ya da sonrasında bir tarihte Bağımsızlık Bildirisi'nin bir müsv…" — 4 atom doğrulandı; 2 ad ölçülemedi

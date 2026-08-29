@@ -1,5 +1,5 @@
 ## kavram-toplumsal-cinsiyet-duzeni
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:26.962Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:12.427Z_
 
 - [ATOMSUZ] k2 → "Atlas bu kavramı bir kimlik konusu olarak değil, bir kayıt konusu olarak ele alır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Soru şudur: bir düzende kim mülk edinebilir, kim mahkemede tanıklık edebilir, kim kendi adına belge imzalayabi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

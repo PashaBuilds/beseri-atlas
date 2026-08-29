@@ -1,5 +1,5 @@
 ## kavram-imparatorluk
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:25.669Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:11.090Z_
 
 - [ATOMSUZ] k1 → "Kaynak bölümlerini sıralar: tanım, özellikler, tarih, imparatorlukların çöküşü ve imparatorluktan geçiş; tarih…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak, imparatorlukların çöküşü başlığı altında Roma İmparatorluğu'nu ve sömürgesizleşmeyi ayrı alt başlıklar…" — 1 atom doğrulandı; 1 ad ölçülemedi

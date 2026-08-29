@@ -1,0 +1,659 @@
+{
+  "id": "tartisma-ikinci-dunya-savasi-sorumlulugu",
+  "govde_hash": "d83082058696",
+  "commit": "58a10ea",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "c01",
+      "cumle": "Savaş, Almanya'nın 1 Eylül 1939'da Polonya'ya saldırmasıyla başladı ve Britanya ile Fransa iki gün sonra Almanya'ya savaş ilan etti.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "USHMM: attacked Poland on September 1, 1939; On September 3, Britain and France declared war"
+    },
+    {
+      "iddia_id": "c02",
+      "cumle": "Savaş sonrasında yerleşen ve Nürnberg tezi diye anılan okuma da bu zemini esas alır: Hitler savaşı istemiş, ayrıntısıyla planlamış ve başlatmıştır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wiki: Nuremberg Thesis — Hitler had wanted war, planned in detail for war and had launched the war"
+    },
+    {
+      "iddia_id": "c03",
+      "cumle": "Tartışmanın ana belgeleri devletlerin birbirine karşı yayımladığı derlemelerden çıktı: ele geçirilen arşivler hükümet kararıyla basıldı, cevaplar devlet bildirisi olarak geldi.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Onsoz yayim kararini belgeliyor; \"birbirine karsi\" nitelemesi ve cevap bildirisi yorumdur"
+    },
+    {
+      "iddia_id": "c04",
+      "cumle": "Bir tarihçinin tezi neo-Nazi yayınlarca övüldüğünde ise alan bunu kendi sınavı saydı.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wiskemann mektubu ve elestirilerden cikan yorum; kaynak \"kendi sinavi saydi\" demez"
+    },
+    {
+      "iddia_id": "c05",
+      "cumle": "Hugh Trevor-Roper'a göre Hitler programını, ana hatlarıyla da olsa, 1924'te Mein Kampf'ta ve başka yerlerde ilan etmişti; savaş bu programın yürütülmesiydi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wiki: Trevor-Roper claiming Hitler had declared his programme, in outline at least, in Mein Kampf in 1924 and elsewhere"
+    },
+    {
+      "iddia_id": "c06",
+      "cumle": "Bu okumanın en çok andığı belgelerden biri, Berlin'deki Reich Başbakanlığı'nda 5 Kasım 1937 akşamı yapılan toplantının tutanağıdır; toplantıda Hitler'in yanında savaş bakanı, üç kuvvet komutanı ve dışişleri bakanı oturuyordu.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Belge: Berlin, November 5, 1937; Present listesi savas bakani, uc komutan, disisleri bakani, Hossbach"
+    },
+    {
+      "iddia_id": "c07",
+      "cumle": "Tutanağa göre Hitler, Alman siyasetinin amacını ırksal topluluğu güvenceye almak, korumak ve büyütmek olarak tanımladı; \"Almanya'nın sorunu ancak kuvvet yoluyla çözülebilirdi\" ve ele alınan birinci senaryo, 1943-1945 dönemini eylem için son aralık sayıyordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Belge: aim of German policy...racial community; only be solved by means of force; Case 1: Period 1943-1945"
+    },
+    {
+      "iddia_id": "c08",
+      "cumle": "Tutanağı toplantıdan beş gün sonra, 10 Kasım'da, toplantıda bulunan kurmay subay kaleme aldı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Baslikta memorandum 10 Kasim tarihli ve Hossbach adini tasir; yazim ani belgede acikca anlatilmaz"
+    },
+    {
+      "iddia_id": "c09",
+      "cumle": "Taylor'ın The Origins of the Second World War kitabı 1961'de yayımlandı; İkinci Dünya Savaşı'nın nedenlerini inceleyen kitap, savaş sonrası uzlaşmayı bilerek kırdı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wiki: first published in 1961 by Hamish Hamilton; examining the causes of World War II; Taylor broke with this consensus"
+    },
+    {
+      "iddia_id": "c10",
+      "cumle": "Taylor'a göre dış politikayı iç siyaset değil devlet aklı ve dış tehditlere cevap verme zorunluluğu belirler; Hitler'in stratejik hedefleri vardı ama bunların nasıl ve ne zaman gerçekleşeceğine dair düşünülmüş bir büyük planı yoktu; hedefleri Gustav Stresemann gibi önceki Alman siyasetçilerin hedefleriyle aynıydı ve Hitler, Fransız ve Britanya hükümetlerinin sunduğu fırsatlardan yararlanan bir fırsatçıydı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wiki: bes ana temanin dordu bu cumlede — devlet akli, plansizlik, Stresemann surekliligi, firsatcilik"
+    },
+    {
+      "iddia_id": "c11",
+      "cumle": "Beşinci tez, Nürnberg tezinin bir başka ayağını da kırar: savaş sonrası uzlaşmada Hitler'i öteki Naziler desteklemiş, Alman halkı masum seyirci ya da kurban sayılmıştı; Taylor'a göre ise Hitler, Versailles Antlaşması'nı yıkarken ve Polonya'yı işgal ederken Alman halkının desteğine sahipti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wiki: supported by other Nazis but not by the German people + besinci tema"
+    },
+    {
+      "iddia_id": "c12",
+      "cumle": "Kitabın ardındaki kaygı günceldi: Taylor nükleer silahsızlanma kampanyasını destekliyordu ve İkinci Dünya Savaşı kazayla başlayabildiyse bir üçüncüsünün de kazayla başlayabileceğini düşünüyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wiki: CND destegi ve kaza ile cikan ucuncu savas kaygisi acikca anlatilir"
+    },
+    {
+      "iddia_id": "c13",
+      "cumle": "Kitap dünya çapında çok satanlara girdi ve bir tartışma fırtınası kopardı; Batı Almanya basını tezi oybirliğiyle eleştirdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wiki: bestseller around the world, storm of controversy; West German press unanimously criticised"
+    },
+    {
+      "iddia_id": "c14",
+      "cumle": "Hugh Trevor-Roper kitabı Temmuz 1961'de Encounter dergisinde ele aldı: ona göre Taylor kanıtı \"seçiyor, bastırıyor ve düzenliyor\"du; Hitler'i sınırlı hedefleri olan geleneksel bir devlet adamı sayan tez kanıta dayanmıyordu ve Hitler dış politikasının bu tür bir savunusu neo-Nazi mitolojisine destek vererek zarar doğuracaktı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wiki: Temmuz 1961 Encounter; selects, suppresses, arranges; neo-Nazi mythology uyarisi"
+    },
+    {
+      "iddia_id": "c15",
+      "cumle": "İki tarihçi 9 Temmuz'da televizyonda karşı karşıya geldi; Eylül 1961'de Taylor, Trevor-Roper'ın kendisine atfettiği dokuz özet görüşü sol sütuna, kitaptan bulduğu karşılık pasajları sağ sütuna koyan bir cevap yayımladı ve seçme-bastırma suçlamasını eleştirmenine iade etti.",
+      "onem": "renk",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wiki: 9 Temmuz TV tartismasi; Eylul 1961 iki sutunlu cevap ve iade"
+    },
+    {
+      "iddia_id": "c16",
+      "cumle": "Amerikan baskısının karşılanışı daha da sertti: Time dergisi Taylor'ı Hitler'e mazeret bulmakla suçladı; New York Herald Tribune'da yazan Gordon Craig, kitabı Führer'in itibarını iade etmek isteyenlere yardım etmekle suçlayan bir değerlendirme yayımladı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wiki: Time \"Apologia for Hitler\"; Craig alintisi aid and comfort...rehabilitate the Fuehrer"
+    },
+    {
+      "iddia_id": "c17",
+      "cumle": "Elizabeth Wiskemann, Taylor'ın kitabına neo-Nazi yayınlarında çıkan övgü dolu değerlendirmeleri aktaran bir mektup yazdı ve tezi övenler arasında Holokost inkârcısı Harry Elmer Barnes da vardı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wiki: Wiskemann TLS mektubu; Barnes Holokost inkarcisi olarak anilir ve tezi over"
+    },
+    {
+      "iddia_id": "c18",
+      "cumle": "Alman tarihçiler arasında Golo Mann kitabı, Taylor'ın Hitler'in masumiyetini kanıtlamaya çalıştığını söyleyerek yerden yere vurdu; muhafazakâr tarihçi Gerhard Ritter da eleştirenler arasındaydı.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wiki: Golo Mann savaged the book; Gerhard Ritter was also critical"
+    },
+    {
+      "iddia_id": "c19",
+      "cumle": "Alanın sonraki derlemeleri kendilerini Taylor ve eleştirmenleri başlığıyla kurar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wiki further reading: The Origins of the Second World War: A.J.P. Taylor and His Critics; ...Reconsidered"
+    },
+    {
+      "iddia_id": "c20",
+      "cumle": "Mason, Aralık 1964'te Past & Present dergisinde kitabı değerlendirdi: yeniden silahlanmanın ağırlığı ve otarşi hedefi gibi iktisadi örüntüler Hitler'i savaşa zorluyordu; insan gücü ve malzeme yağması için bir savaş, ona göre Nasyonal Sosyalist yönetimdeki Alman iktisadi gelişiminin korkunç mantığında duruyordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wiki: Mason, Aralik 1964 Past & Present; rearmament/autarky; war for the plunder of manpower and materials"
+    },
+    {
+      "iddia_id": "c21",
+      "cumle": "Taylor'ın gözden kaçırdığı şey, Mason'a göre, dış politikanın hedeflerinde iç ve dış etkenlerin birbirine bağımlılığıydı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wiki: Taylor had ignored the interdependence of internal and external factors"
+    },
+    {
+      "iddia_id": "c22",
+      "cumle": "Taylor'ın Nisan 1965 tarihli cevabı sayılara döner: 1937 ile 1939 arasında Almanya içinde iktisadi ya da siyasi kriz kanıtı ona göre çok zayıftı; Hitler Münih'ten sonra silahlanma planlarını yüzde 30 kısmıştı ve büyük ölçekli yeniden silahlanma ancak 1943 yazında başlamıştı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wiki: April 1965; 1937-1939 kriz kaniti cok zayif; 30 per cent; summer of 1943"
+    },
+    {
+      "iddia_id": "c23",
+      "cumle": "29 Eylül 1938'de Münih'te yapılan anlaşma, Südet Alman topraklarının Almanya'ya bırakılmasını düzenler: tahliye 1 Ekim'de başlayacak, işgal kademeli ilerleyecek, son sınırı bir uluslararası komisyon çizecektir.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Belge: September 29, 1938; cession of Sudeten German territory; evacuation 1-10 Ekim; international commission"
+    },
+    {
+      "iddia_id": "c24",
+      "cumle": "Metnin altında dört imza vardır — Hitler, Chamberlain, Daladier, Mussolini — ve toprağı bırakan Çekoslovakya imzacılar arasında değildir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Belge imza blogu dort ad sayar; Cekoslovakya blokta yoktur, komisyonda anilir"
+    },
+    {
+      "iddia_id": "c25",
+      "cumle": "Metin, halk oylaması yapılacak bölgeleri belirleme işini de aynı uluslararası komisyona bırakır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Belge md.5: komisyon plebisit bolgelerini belirler"
+    },
+    {
+      "iddia_id": "c26",
+      "cumle": "Suçlama çizgisinin kurucu metni, Fransa'nın düşüşünün hemen ardından 1940'ta Londra'da CATO imzasıyla yayımlanan Guilty Men broşürüdür; kitap Dunkirk kumsallarından açılır, kapağına Winston Churchill'in 1936 tarihli bir cümlesini koyar ve aralarında Chamberlain, Simon ve Hoare'un bulunduğu on beş siyasetçiyi bir oyun kadrosu gibi listeler.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metin: GUILTY MEN by CATO, Londra Gollancz 1940; Dunkirk bolumu; Churchill 1936 epigrafi; CAST listesinde on bes ad sayildi"
+    },
+    {
+      "iddia_id": "c27",
+      "cumle": "Kapağa alınan cümle broşürün amacını da tanımlar: Churchill'e göre \"geçmişle ilgili suçlamanın yararı, şimdiki zamanda etkili eylemi zorlamaktır\".",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Epigraf: The use of recriminating about the past is to enforce effective action at the present — Churchill, May 29, 1936"
+    },
+    {
+      "iddia_id": "c28",
+      "cumle": "Broşürün yöntemi tarihleri hafızaya kazımaktır: Chamberlain'in, Münih'ten altı ay önce Britanya silahlanmasını yabancı devletlere korku verecek güçte sayması ile genelkurmay başkanının, cephe yarılsaydı olacakları düşünmekten titrediğini kabul etmesi art arda anılır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metin: terrifying silahlanma cumlesi six months before Munich; CIGS trembled to think"
+    },
+    {
+      "iddia_id": "c29",
+      "cumle": "Chamberlain'in 1939'da yayımlanan In Search of Peace derlemesi, başbakanın Mayıs 1937'de göreve gelişinden beri savaş kâbusunu dağıtmak için bütün gücüyle çalıştığını söyleyen önsözüyle açılır.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metin: First Published 1939; onsoz end of May 1937 ve savas kabusunu dagitma cumlesi"
+    },
+    {
+      "iddia_id": "c30",
+      "cumle": "Eylül 1938 bunalımının ortasında ulusa radyodan seslenirken Çekoslovakya sorununu \"hakkında hiçbir şey bilmediğimiz insanlar arasındaki, uzak bir ülkedeki kavga\" diye anlattı; Münih dönüşünde Downing Street penceresinden zamanımız için barış sözünü verdi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metin: Prime Minister broadcast to the nation; far-away country pasaji; peace with honour / peace for our time"
+    },
+    {
+      "iddia_id": "c31",
+      "cumle": "Savunu eleştiriyle aynı hafta karşılaştı: Avam Kamarası 3 Ekim'de toplandığında kürsüye Chamberlain'den önce, istifa etmiş eski Donanma Bakanı Duff Cooper çıktı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metin: 3rd October oturumu; preceded by Duff Cooper, formerly First Lord of the Admiralty, who had resigned"
+    },
+    {
+      "iddia_id": "c32",
+      "cumle": "23 Ağustos 1939'da Moskova'da imzalanan saldırmazlık antlaşması, tarafların birbirine karşı her türlü şiddet eyleminden kaçınmasını öngörür ve Ribbentrop ile Molotov'un imzalarını taşır.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Belge: Moscow, August 23, 1939; desist from any act of violence; Ribbentrop ve Molotov imzalari"
+    },
+    {
+      "iddia_id": "c33",
+      "cumle": "Antlaşma on yıllık bir süre için yapılmıştı ve tarafların anlaşmazlıkları dostane görüş alışverişiyle çözmesini öngörüyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Belge md.VI on yil; md.V friendly exchange of opinion"
+    },
+    {
+      "iddia_id": "c34",
+      "cumle": "Aynı gün imzalanan gizli ek protokol Doğu Avrupa'yı nüfuz alanlarına böler: Baltık devletlerinde sınır Litvanya'nın kuzey hattıdır, Polonya için Narew, Vistula ve San nehirleri anılır ve son cümle, protokolün iki tarafça sıkı sıkıya gizli tutulacağını söyler.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Belge: Litvanya kuzey siniri; Narew, Vistula, San; strictly secret son cumlesi"
+    },
+    {
+      "iddia_id": "c35",
+      "cumle": "Pakt savaşın takvimine bağlıdır: anlaşma, Almanya ile Sovyetler Birliği'nin Polonya'yı işgal edip paylaşmasının önünü açtı; Alman ordusu 1 Eylül'de batıdan, Sovyet ordusu 17 Eylül'de doğudan girdi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "USHMM: paved the way; September 1 isgal; September 17 dogudan Sovyet isgali"
+    },
+    {
+      "iddia_id": "c36",
+      "cumle": "Hitler paktı taktik ve geçici bir manevra olarak görüyordu; Alman ordusu 22 Haziran 1941'de Sovyetler Birliği'ni işgal ettiğinde anlaşma iki yılını doldurmamıştı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "USHMM: tactical and temporary maneuver; June 22, 1941 isgal; less than two years"
+    },
+    {
+      "iddia_id": "c37",
+      "cumle": "Pakt Sovyet tarafına da alan açtı: Sovyetler Birliği Kasım 1939'da Finlandiya'ya saldırdı, 1940 yazında Baltık devletlerini işgal edip kendine kattı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "USHMM: November 30, 1939 Finlandiya saldirisi; summer of 1940 Baltik isgali ve katma"
+    },
+    {
+      "iddia_id": "c38",
+      "cumle": "Amerikan ve Britanya orduları 1945'te Alman Dışişleri arşivini ele geçirdi ve ABD Dışişleri Bakanlığı bu arşivden Alman-Sovyet ilişkilerine dair belgeleri ayrı bir derleme olarak yayımlamaya karar verdi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onsoz: IN 1945 arsivin ele gecirilmesi; Department of State ayri derleme karari"
+    },
+    {
+      "iddia_id": "c39",
+      "cumle": "Moskova'nın karşı hamlesi, Şubat 1948'de Sovyet Enformasyon Bürosu imzasıyla çıkan Falsificators of History bildirisi oldu.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kunye sayfasi baslik, kurum ve Subat 1948 tarihini dogrular; \"karsi hamle\" iliskisi bu metinden okunamaz (OCR bozuk), kronolojiye dayanan yorumdur"
+    },
+    {
+      "iddia_id": "c40",
+      "cumle": "Bildirinin başlığı savunmanın çerçevesini de verir: sahtecilikle suçlanan, belgeleri yayımlayanlardır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yalniz baslik okunabiliyor; cerceve yorumu basliga dayanir"
+    },
+    {
+      "iddia_id": "c41",
+      "cumle": "Japonya kendi sınırları içinde üretim için hammaddeden yoksundu ve Pasifik kıyısındaki toprakları denetime alarak iktisadi güvenlik arıyordu; 1931'de Mançurya'yı işgal etti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "USHMM: lacked access to raw materials; economic security by taking control of territories; invaded Manchuria in 1931"
+    },
+    {
+      "iddia_id": "c42",
+      "cumle": "Milletler Cemiyeti'nin soruşturması, Japonya'nın savaş ilanı olmaksızın Çin topraklarının büyük bir bölümünü zorla ele geçirip işgal ettiği sonucuna vardı ve birliklerin çekilmesini istedi; Japonya buna Mart 1933'te örgütten çekilerek cevap verdi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "USHMM: League concluded forcibly seized...without a declaration of war; withdrew March 1933"
+    },
+    {
+      "iddia_id": "c43",
+      "cumle": "İkinci Çin-Japon Savaşı Temmuz 1937'de başladı; Japonya 1940'ta Almanya ve İtalya ile Üçlü Pakt'ı imzaladı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "USHMM: Second Sino-Japanese War July 1937; Tripartite Pact September 27, 1940"
+    },
+    {
+      "iddia_id": "c44",
+      "cumle": "Amerikan payı tartışması bir ambargo zinciri üzerinden yürür: Birleşik Devletler 1940'ta Japonya'ya ihracatı kısıtladı, 1941'de iktisadi yaptırımlar koydu ve Japonya ağır petrol ve hammadde kıtlığıyla karşılaştı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "USHMM: 1940 restricted exports; 1941 economic sanctions; severe shortages of oil"
+    },
+    {
+      "iddia_id": "c45",
+      "cumle": "Aynı kayıt saldırı kararını iki etkene birden bağlar — kıtlıklar ve imparatorluğu genişletme hırsı — ve Japon uçakları 7 Aralık 1941'de Pearl Harbor'a saldırdı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "USHMM: driven by these shortages and the ambition to expand its empire; Pearl Harbor December 7, 1941"
+    },
+    {
+      "iddia_id": "c46",
+      "cumle": "Hitler'in kuvvet kullanma iradesi kendi rejiminin tutanağında kayıtlıdır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hossbach tutanagindaki kuvvet pasajina geri gonderme"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 41,
+    "kismi": 5,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

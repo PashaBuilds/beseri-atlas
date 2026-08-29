@@ -1,73 +1,283 @@
 {
   "id": "tartisma-ikinci-dunya-savasi-sorumlulugu",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:27.697Z",
-  "govde_hash": "04fe02fb0c70",
-  "commit": "1d273c7",
+  "zaman": "2026-08-29T09:00:02.670Z",
+  "govde_hash": "d83082058696",
+  "commit": "58a10ea",
   "sonuclar": [
     {
+      "anahtar": "k7",
+      "iddia": "Savaş, Almanya'nın 1 Eylül 1939'da Polonya'ya saldırmasıyla başladı ve Britanya ile Fransa iki gün sonra Almanya'ya savaş ilan etti.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
       "anahtar": "k1",
-      "iddia": "Bu haritanın çıkış noktası kaynağın kendi bölümlemesidir: nedenler nihai ve yakın diye ikiye ayrılmıştır.",
+      "iddia": "Savaş sonrasında yerleşen ve Nürnberg tezi diye anılan okuma da bu zemini esas alır: Hitler savaşı istemiş, ayrıntısıyla planlamış ve başlatmıştır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Tartışmanın ana belgeleri devletlerin birbirine karşı yayımladığı derlemelerden çıktı: ele geçirilen arşivler hükümet kararıyla basıldı, cevaplar devlet bildiri",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, nihai nedenler başlığı altında şunları sayar: Birinci Dünya Savaşı'nın mirasları, Milletler Cemiyeti'nin başarısızlığı, yayılmacılık ve militarizm, Alma",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, yakın nedenler başlığı altında Nazi diktatörlüğü, Ren bölgesinin yeniden silahlandırılması, İtalya'nın Habeşistan istilası, İspanya İç Savaşı, İkinci Çi",
-      "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "On ayrı olayın yakın neden sayılması, atlasın olay dosyalarını neden dönem dosyalarına bağladığının dayanağıdır: bir savaşın öncesi bir olaylar dizisidir.",
+      "iddia": "Bir tarihçinin tezi neo-Nazi yayınlarca övüldüğünde ise alan bunu kendi sınavı saydı.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, Japonya'nın Fransız Çinhindi'nin güneyini istila etmesi üzerine ABD başkanının Japonya'nın ABD'deki bütün varlıklarını dondurduğunu; amaçlanan sonucun A",
+      "iddia": "Hugh Trevor-Roper'a göre Hitler programını, ana hatlarıyla da olsa, 1924'te Mein Kampf'ta ve başka yerlerde ilan etmişti; savaş bu programın yürütülmesiydi.",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir kararın etkisinin yüzdeyle kaydedilmesi, atlasın neden zincirlerini sayıyla izleyebildiği ender yerlerden biridir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Bir önceki savaşın aynı sorusu için tutulan kayıt, sorumluluğun tek bir başkente mi yoksa bütün büyük güçlere mi yüklendiğini tartışan bir literatürü anlatır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Bu okumanın en çok andığı belgelerden biri, Berlin'deki Reich Başbakanlığı'nda 5 Kasım 1937 akşamı yapılan toplantının tutanağıdır; toplantıda Hitler'in yanında",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Uzun dönemli nüfus serisinde sağlayıcının toplam satırı 1940 için yaklaşık 2,3 milyar verir.",
+      "anahtar": "k2",
+      "iddia": "Tutanağa göre Hitler, Alman siyasetinin amacını ırksal topluluğu güvenceye almak, korumak ve büyütmek olarak tanımladı; \"Almanya'nın sorunu ancak kuvvet yoluyla",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tutanağı toplantıdan beş gün sonra, 10 Kasım'da, toplantıda bulunan kurmay subay kaleme aldı.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kasım"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Taylor'ın The Origins of the Second World War kitabı 1961'de yayımlandı; İkinci Dünya Savaşı'nın nedenlerini inceleyen kitap, savaş sonrası uzlaşmayı bilerek kı",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Atlas bu değeri hiçbir pozisyonun kanıtı olarak sunmaz; seri nüfusu verir, savaşın nedenini vermez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Atlas bu değeri hiçbir pozisyonun kanıtı olarak sunmaz; seri nüfusu verir, savaşın nedenini vermez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Taylor'a göre dış politikayı iç siyaset değil devlet aklı ve dış tehditlere cevap verme zorunluluğu belirler; Hitler'in stratejik hedefleri vardı ama bunların n",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynağın kendisi nedenleri iki düzeyde tutar ve aralarında bir hüküm vermez; bu atlas da vermez.",
+      "iddia": "Beşinci tez, Nürnberg tezinin bir başka ayağını da kırar: savaş sonrası uzlaşmada Hitler'i öteki Naziler desteklemiş, Alman halkı masum seyirci ya da kurban say",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kitabın ardındaki kaygı günceldi: Taylor nükleer silahsızlanma kampanyasını destekliyordu ve İkinci Dünya Savaşı kazayla başlayabildiyse bir üçüncüsünün de kaza",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kitap dünya çapında çok satanlara girdi ve bir tartışma fırtınası kopardı; Batı Almanya basını tezi oybirliğiyle eleştirdi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hugh Trevor-Roper kitabı Temmuz 1961'de Encounter dergisinde ele aldı: ona göre Taylor kanıtı \"seçiyor, bastırıyor ve düzenliyor\"du; Hitler'i sınırlı hedefleri ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki tarihçi 9 Temmuz'da televizyonda karşı karşıya geldi; Eylül 1961'de Taylor, Trevor-Roper'ın kendisine atfettiği dokuz özet görüşü sol sütuna, kitaptan buldu",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Amerikan baskısının karşılanışı daha da sertti: Time dergisi Taylor'ı Hitler'e mazeret bulmakla suçladı; New York Herald Tribune'da yazan Gordon Craig, kitabı F",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Elizabeth Wiskemann, Taylor'ın kitabına neo-Nazi yayınlarında çıkan övgü dolu değerlendirmeleri aktaran bir mektup yazdı ve tezi övenler arasında Holokost inkâr",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Alman tarihçiler arasında Golo Mann kitabı, Taylor'ın Hitler'in masumiyetini kanıtlamaya çalıştığını söyleyerek yerden yere vurdu; muhafazakâr tarihçi Gerhard R",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Alanın sonraki derlemeleri kendilerini Taylor ve eleştirmenleri başlığıyla kurar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mason, Aralık 1964'te Past & Present dergisinde kitabı değerlendirdi: yeniden silahlanmanın ağırlığı ve otarşi hedefi gibi iktisadi örüntüler Hitler'i savaşa zo",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Taylor'ın gözden kaçırdığı şey, Mason'a göre, dış politikanın hedeflerinde iç ve dış etkenlerin birbirine bağımlılığıydı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Taylor'ın Nisan 1965 tarihli cevabı sayılara döner: 1937 ile 1939 arasında Almanya içinde iktisadi ya da siyasi kriz kanıtı ona göre çok zayıftı; Hitler Münih't",
+      "durum": "OK",
+      "not": "7 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "29 Eylül 1938'de Münih'te yapılan anlaşma, Südet Alman topraklarının Almanya'ya bırakılmasını düzenler: tahliye 1 Ekim'de başlayacak, işgal kademeli ilerleyecek",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metnin altında dört imza vardır — Hitler, Chamberlain, Daladier, Mussolini — ve toprağı bırakan Çekoslovakya imzacılar arasında değildir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metin, halk oylaması yapılacak bölgeleri belirleme işini de aynı uluslararası komisyona bırakır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Suçlama çizgisinin kurucu metni, Fransa'nın düşüşünün hemen ardından 1940'ta Londra'da CATO imzasıyla yayımlanan Guilty Men broşürüdür; kitap Dunkirk kumsalları",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kapağa alınan cümle broşürün amacını da tanımlar: Churchill'e göre \"geçmişle ilgili suçlamanın yararı, şimdiki zamanda etkili eylemi zorlamaktır\".",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Broşürün yöntemi tarihleri hafızaya kazımaktır: Chamberlain'in, Münih'ten altı ay önce Britanya silahlanmasını yabancı devletlere korku verecek güçte sayması il",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Chamberlain'in 1939'da yayımlanan In Search of Peace derlemesi, başbakanın Mayıs 1937'de göreve gelişinden beri savaş kâbusunu dağıtmak için bütün gücüyle çalış",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Eylül 1938 bunalımının ortasında ulusa radyodan seslenirken Çekoslovakya sorununu \"hakkında hiçbir şey bilmediğimiz insanlar arasındaki, uzak bir ülkedeki kavga",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Savunu eleştiriyle aynı hafta karşılaştı: Avam Kamarası 3 Ekim'de toplandığında kürsüye Chamberlain'den önce, istifa etmiş eski Donanma Bakanı Duff Cooper çıktı",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "23 Ağustos 1939'da Moskova'da imzalanan saldırmazlık antlaşması, tarafların birbirine karşı her türlü şiddet eyleminden kaçınmasını öngörür ve Ribbentrop ile Mo",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Antlaşma on yıllık bir süre için yapılmıştı ve tarafların anlaşmazlıkları dostane görüş alışverişiyle çözmesini öngörüyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aynı gün imzalanan gizli ek protokol Doğu Avrupa'yı nüfuz alanlarına böler: Baltık devletlerinde sınır Litvanya'nın kuzey hattıdır, Polonya için Narew, Vistula ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Pakt savaşın takvimine bağlıdır: anlaşma, Almanya ile Sovyetler Birliği'nin Polonya'yı işgal edip paylaşmasının önünü açtı; Alman ordusu 1 Eylül'de batıdan, Sov",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Hitler paktı taktik ve geçici bir manevra olarak görüyordu; Alman ordusu 22 Haziran 1941'de Sovyetler Birliği'ni işgal ettiğinde anlaşma iki yılını doldurmamışt",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Pakt Sovyet tarafına da alan açtı: Sovyetler Birliği Kasım 1939'da Finlandiya'ya saldırdı, 1940 yazında Baltık devletlerini işgal edip kendine kattı.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Amerikan ve Britanya orduları 1945'te Alman Dışişleri arşivini ele geçirdi ve ABD Dışişleri Bakanlığı bu arşivden Alman-Sovyet ilişkilerine dair belgeleri ayrı ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Moskova'nın karşı hamlesi, Şubat 1948'de Sovyet Enformasyon Bürosu imzasıyla çıkan Falsificators of History bildirisi oldu.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Bildirinin başlığı savunmanın çerçevesini de verir: sahtecilikle suçlanan, belgeleri yayımlayanlardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Japonya kendi sınırları içinde üretim için hammaddeden yoksundu ve Pasifik kıyısındaki toprakları denetime alarak iktisadi güvenlik arıyordu; 1931'de Mançurya'y",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Milletler Cemiyeti'nin soruşturması, Japonya'nın savaş ilanı olmaksızın Çin topraklarının büyük bir bölümünü zorla ele geçirip işgal ettiği sonucuna vardı ve bi",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "İkinci Çin-Japon Savaşı Temmuz 1937'de başladı; Japonya 1940'ta Almanya ve İtalya ile Üçlü Pakt'ı imzaladı.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Amerikan payı tartışması bir ambargo zinciri üzerinden yürür: Birleşik Devletler 1940'ta Japonya'ya ihracatı kısıtladı, 1941'de iktisadi yaptırımlar koydu ve Ja",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Aynı kayıt saldırı kararını iki etkene birden bağlar — kıtlıklar ve imparatorluğu genişletme hırsı — ve Japon uçakları 7 Aralık 1941'de Pearl Harbor'a saldırdı.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Hitler'in kuvvet kullanma iradesi kendi rejiminin tutanağında kayıtlıdır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

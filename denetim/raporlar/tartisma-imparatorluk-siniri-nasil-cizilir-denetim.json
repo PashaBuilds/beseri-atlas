@@ -1,57 +1,171 @@
 {
   "id": "tartisma-imparatorluk-siniri-nasil-cizilir",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:27.826Z",
-  "govde_hash": "afd3e2ff9d5e",
-  "commit": "1d273c7",
+  "zaman": "2026-08-29T09:07:34.782Z",
+  "govde_hash": "604c456d52bb",
+  "commit": "58a10ea",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Aynı referans eser, bu imparatorluk için iki ayrı harita sunar: birincisi Aşoka dönemini Maurya denetimindeki toprakların dolu bir kütlesi olarak resmeder, ikin",
+      "iddia": "Maurya İmparatorluğu'nu anlatan güncel bir ansiklopedi maddesi ikiliği kendi içinde sergiler: madde bir yandan imparatorluğun yayılımını alışılmış biçimde geniş",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı maddeye göre Aşoka'nın imparatorluğu beş parçadan oluşuyordu ve başkent Pataliputra'nın çevresindeki merkez doğrudan yönetiliyordu; buna karşılık birçok ke",
       "durum": "OK",
       "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
+      "anahtar": "k1",
+      "iddia": "Büyük kaya fermanları sınır eyaletlerinde bulunmuş, merkezde ise hiç ele geçmemiştir; bugünkü Maharashtra ile Andhra Pradesh'in, Kerala ile Tamil Nadu'nun geniş",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aktör dosyalarındaki her sınır çizimi, denetimin niteliğine dair örtük bir iddiadır: çizgi çizmek, çizginin içindeki her köyün aynı otoriteye aynı biçimde bağlı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
       "anahtar": "k2",
-      "iddia": "Asur'da haberleşme yalnızca üst düzey görevlilerin gönderdiği mesajlarla sınırlıydı ve mühürsüz mesajlar sistemden gönderilemezdi; batı sınır eyaleti Quwê'den ç",
+      "iddia": "Frederick Jackson Turner, 1893'te Amerikan Tarih Derneği'nin Chicago toplantısında okuduğu tebliğe 1890 sayım raporunun bir tespitiyle başlar: rapora göre 1880'",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Turner Amerikan sınırını, yoğun nüfusun içinden geçen tahkim edilmiş bir hat olan Avrupa sınırından keskin biçimde ayırır; ona göre Amerikan sınırını asıl tanım",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Aynı kaynağın MÖ 670 için verdiği 1.400.000 kilometrekarelik alan ise yüzey mantığıyla ölçülmüştür; iki ölçü aynı devleti farklı biçimlerde tarif eder.",
+      "iddia": "Sayım raporlarında bu sınır, mil kare başına iki ve daha yukarı yoğunluktaki yerleşimin kenarı olarak ele alınır; Turner terimin esnek olduğunu söyler ve harita",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ama Turner kuşağı, yerleşimin dış kenarı ile uygarlık ve vahşet saydığı iki dünyanın buluşma noktası olarak tanımlar; serbest saydığı toprakta zaten yaşayan hal",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Owen Lattimore'un Çin'in İç Asya sınırlarına ayırdığı incelemesi, kuşak fikrini bir okuma önerisi olmaktan çıkarıp coğrafya betimlemesine dönüştürür: ona göre Ç",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Roma'nın Tuna boyundaki sınırında ordu, lejyon kaleleri, küçük kaleler ve gözetleme kulelerinden oluşan kesintisiz bir zincir kurmuştu; bu yapılar çoğu yerde bi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kalıcı lejyon üsleri Vindobona, Carnuntum, Brigetio ve Aquincum'da birinci yüzyılın ikinci yarısında kuruldu; aynı kayda göre kalelerin bir bölümü nehir kavşakl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Whittaker'ın Roma sınırlarına ayırdığı 1994 tarihli kitabı, daha adında sınırı askeri bir hattan çok toplumsal ve iktisadi bir inceleme nesnesi olarak sunar.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k4",
-      "iddia": "Üçüncü pozisyonun dayanağı Osmanlı taşra düzenidir: klasik dönemin tımarlı eyaletler düzeninin yanında özel statülü birimler de bulunuyordu.",
+      "iddia": "George Nathaniel Curzon ise 1907 Romanes konferansında Çin Seddi'ni ve Hadrianus ile Antoninus Pius'un Britanya'daki duvar hatlarını, sınır belirlemekten çok sa",
       "durum": "OK",
-      "not": ""
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Bizans için verilen alan değerleri 565'te yaklaşık 3.400.000, 775'te 880.000 ve 1025'te 1.675.000 kilometrekaredir.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Ahameniş İmparatorluğu'nda MÖ 372–362 arasındaki Büyük Satraplar İsyanı, haritada imparatorluğa ait görünen bir alanın merkeze fiilen bağlı olmayabileceğini gös",
-      "durum": "OK",
-      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Gerekçe yukarıdaki verilerin biçiminde görünür: alan ölçümleri belirli yıllara bağlıdır, denetimin niteliği ise aynı yıl içinde bile değişebilir.",
+      "anahtar": "k6",
+      "iddia": "Osmanlı düzeninde serhad kulu, sınır boylarında ve kalelerde hizmet gören askeri zümrelerin genel adıydı; bu askerler yörenin halkından toplandıkları için kapık",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k5",
-      "iddia": "Gerekçe yukarıdaki verilerin biçiminde görünür: alan ölçümleri belirli yıllara bağlıdır, denetimin niteliği ise aynı yıl içinde bile değişebilir.",
+      "anahtar": "k6",
+      "iddia": "Aynı kayda göre daha önce sınır boylarında akıncı denilen hafif süvari birlikleri hizmet görmüş, akıncılık zayıflayınca serhad boylarında değişik adlar altında ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Adlar bile kuşağın gündelik düzenini anlatır: beşlü adının beş hanede bir kişi toplanmasından ya da beşer akçelik yevmiyeden geldiği aktarılır; yoklamada bulunm",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Serhad kuvvetlerinin mevcudu da bulundukları yerin stratejik önemine göre değişir, kale azebleri dışındaki serhad kulu askerleri atlı olurdu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Hududnâme ya da sınırnâme denilen resmi belgeler, komşu devletlerle sınırları ve içeride köy, vakıf ve mülk topraklarının sınırlarını belirlemek için kaleme alı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Devletler arası hududu belirleyen hududnâmeler bir ahidnâmeye bağlı olarak düzenlenir; iki tarafın murahhasları çizilecek hat boyunca dolaşır, eski sınırların s",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "1699 Karlofça Antlaşması'ndan sonra düzenlenen hududnâmede uzun hat bölge bölge başlıklara ayrılmıştır; tarifte nehir, dağ ve tepe gibi savunulabilir noktalar i",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Tuna gibi bir nehir sınır alındığında hat nehrin ortasından geçer; adaların paylaşımından avlanmaya kadar ayrıntılar belgeye girer, kimi bölgelerin boş bırakılm",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Curzon'a göre işaretlenmiş sınır fikri esasen modern bir kavramdır ve antik dünyada kendine pek yer bulmaz; Asya'da ise sabit sınır kabulüne karşı köklü bir ist",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı metin sınır kuşağının bir soy kütüğünü çıkarır: Orta Çağ'da Frank ve Alman krallarının yerleşik siyaseti, imparatorluğun sınırlarını Mark ya da March denil",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Curzon, masa başında antlaşmayla yürütülen delimitasyonu, komisyonların arazide yürüttüğü demarkasyondan ayrı bir işlem olarak tanımlar; sınırlar onun deyişiyle",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı konferansa göre Avrupa devletlerinin Afrika paylaşımında himaye yönetimi bilinen bir araçtı ve bu bölgelerde çoğu kez ondan da belirsiz olan nüfuz alanı ta",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Curzon ara devletleri de aynı makinenin parçası sayar: ona göre Siyam'ın, İran'ın ve Afganistan'ın geleceği, sınır siyasetinin önündeki ağır sorular arasındadır",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Siyam, İran, Afganistan"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Benedict Anderson'ın milliyetçilik üzerine incelemesinin gözden geçirilmiş basımında sayım, harita ve müzeye ayrılmış bir bölüm yer alır; bu bölümün okumasında ",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

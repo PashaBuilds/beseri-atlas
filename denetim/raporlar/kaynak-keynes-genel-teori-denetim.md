@@ -1,5 +1,5 @@
 ## kaynak-keynes-genel-teori
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.789Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:17.223Z_
 
 - [OK]      k1 → "Kaynak eserin sıklıkla modern makroiktisadın temeli olarak görüldüğünü yazar ve yazarı 1883-1946 arasına yerle…"
 - [OK]      k1 → "Kaynak, 1930'ların çoğunda az sayıda kıdemli Amerikalı iktisatçının yazarla aynı fikirde olduğunu; buna karşın…" — 4 atom doğrulandı; 1 ad ölçülemedi

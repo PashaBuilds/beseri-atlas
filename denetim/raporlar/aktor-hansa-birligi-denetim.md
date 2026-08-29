@@ -1,5 +1,5 @@
 ## aktor-hansa-birligi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:20.428Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:05.533Z_
 
 - [OK]      k1 → "Üyeliği Baltık ve Kuzey denizleri bölgesindeki çeşitli şehirlerden oluşur; gayriresmî başkenti Lübeck'tir." — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kaynak, Lübeck'i başkent olarak değil "gayriresmî başkent" olarak kaydeder."

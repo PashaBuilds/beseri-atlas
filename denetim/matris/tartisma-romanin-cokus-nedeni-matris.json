@@ -1,0 +1,617 @@
+{
+ "id": "tartisma-romanin-cokus-nedeni",
+ "govde_hash": "7ec7c159c3c5",
+ "commit": "58a10ea",
+ "zaman": "2026-08-29",
+ "hakem": "kor-hakem-2026-08-29",
+ "iddialar": [
+  {
+   "iddia_id": "i001",
+   "cumle": "Roma'nın çöküşü sorusu, cevaplarının sayısıyla tanınan bir tarih yazımı sorunudur: Alexander Demandt 1984'te, Batı Roma'nın sonunu açıklamak için öne sürülmüş 210 ayrı kuramı bir katalogda topladı ve o tarihten sonra da yeni kuramlar eklendi.",
+   "onem": "merkezi",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: In 1984, Alexander Demandt enumerated 210 different theories; k3 listenin kendisi, baslikta 1984 ve 210"
+  },
+  {
+   "iddia_id": "i002",
+   "cumle": "Katalogda tanrıların terk edilişi, Bolşevikleşme, kadınların özgürleşmesi, ormansızlaşma ve gut hastalığı yan yana durur; liste bir cevap dökümü olduğu kadar, her çağın kendi korkusunu Roma'ya yansıttığının da kaydıdır.",
+   "onem": "renk",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Listedeki maddeler: Abolition of gods (1), Bolshevization (21), Female emancipation (84), Deforestation (49), Gout (89)"
+  },
+  {
+   "iddia_id": "i003",
+   "cumle": "Ahlaki çürüme, dış tehdit, mali tükeniş, çevresel darbe ve çöküşün aslında bir dönüşüm olduğu cevabı: modern gerileme tartışmalarının bu kalıpları burada döküldü ve Roma ile başka toplumların düşüşü arasındaki karşılaştırmaların akademik ve popüler yazında hiç eksilmediğini kaynak da not eder.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k1: Comparisons by historians, both professional and amateur, and in literature, both scholarly and popular ... have been numerous; kaliplarin dokumu yazarin sentezi — kismi"
+  },
+  {
+   "iddia_id": "i004",
+   "cumle": "Edward Gibbon 1776'da yayımlanmaya başlayan The History of the Decline and Fall of the Roman Empire ile soruyu modern biçimine soktu; kaynağa göre Gibbon, bir imparatorluk çöküşünün nedenlerini açıklamaya girişen ilk kişiydi ve kitabı yayımlanır yayımlanmaz standart hâline gelip 200 yılı aşkın süre öyle kaldı.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: Gibbon was the first to attempt an explanation of causes of a Fall of empire + it quickly became the standard, and remained so for over 200 years; ilk nitelemesi kaynaga atifla verildi"
+  },
+  {
+   "iddia_id": "i005",
+   "cumle": "Kitabın açılışı, ikinci yüzyıl imparatorluğunu yeryüzünün en güzel bölümünü ve insanlığın en uygar kesimini kapsayan bir düzen olarak çizer; Gibbon'a göre Domitianus'un ölümü ile Commodus'un tahta çıkışı arasındaki yıllar, insanlık hâlinin en mutlu ve en müreffeh dilimi sayılmayı hak eder.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2 acilis: comprehended the fairest part of the earth, and the most civilized portion of mankind; 3. bolumde from the death of Domitian to the accession of Commodus"
+  },
+  {
+   "iddia_id": "i006",
+   "cumle": "Gerilemenin başlangıcını Gibbon 180 yılına, Marcus Aurelius'un ölümünün ertesine yerleştirir; uzun barış, imparatorluğun hayati organlarına \"yavaş ve gizli bir zehir\" işletmiştir.",
+   "onem": "merkezi",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: dated the beginning of the decline of Rome to the year 180 after the death of the emperor Marcus Aurelius; a slow and secret poison her iki metinde"
+  },
+  {
+   "iddia_id": "i007",
+   "cumle": "Çöküş ona göre ölçüsüz büyüklüğün doğal ve kaçınılmaz meyvesiydi: refah çürümenin ilkesini olgunlaştırdı, fetih genişledikçe yıkımın kaynakları çoğaldı ve yapay destekler çekildiğinde muazzam yapı kendi ağırlığına yenildi; içeriden zayıflayan imparatorluğu barbar seli boğdu.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1 alintisi: the natural and inevitable effect of immoderate greatness ... yielded to the pressure of its own weight; was overwhelmed by a deluge of Barbarians"
+  },
+  {
+   "iddia_id": "i008",
+   "cumle": "Din faslını da en kısa kendisi özetlemişti: Gibbon'a göre anlattığı şey \"barbarlığın ve dinin zaferi\"ydi.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: Gibbon said the fall of Rome was the triumph of barbarism and religion"
+  },
+  {
+   "iddia_id": "i009",
+   "cumle": "İki büyük kanat daha kaynak kitapta iç içeydi: Gibbon'ın kendisi hem iç çözülme fikirlerini — iç savaşları; siyasi, iktisadi, askerî ve öbür toplumsal kurumların dağılmasını — hem de imparatorluk dışından gelen saldırıları incelemişti.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: Gibbon himself explored ideas of internal decline (civil wars, the disintegration of political, economic, military, and other social institutions) and of attacks from outside"
+  },
+  {
+   "iddia_id": "i010",
+   "cumle": "Bury, 1889'da açılıp 1923'te genişleyen History of the Later Roman Empire'da ahlaki çürüme kuramına iki cevap verdi: kararlılıkla hıristiyan olan doğu imparatorluğu ayakta kalmıştı ve batının kaybını kaçınılmaz kılan genel bir neden gösterilemezdi; Roma gücünün adım adım dağılması, olumsal olayların art arda gelişinin ürünüydü.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: History of the Later Roman Empire (1889/1923) challenged the theory of moral decay, citing the relative success of the Eastern Empire, which was resolutely Christian; the consequence of a series of contingent events. No general causes can be assigned"
+  },
+  {
+   "iddia_id": "i011",
+   "cumle": "Bury'nin listesi somuttur: iktisadi gerileme, Germen yayılması, İtalya'da nüfusun seyrelmesi, orduda barbar birliklere bağımlılık, Stilicho'nun felaketle biten işleri ve Aetius öldürüldükten sonra yerini dolduracak kimsenin kalmaması.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: economic decline, Germanic expansion, depopulation of Italy, dependency on Germanic foederati, the disastrous treason of Stilicho, Aetius murder, the lack of any leader to replace Aetius"
+  },
+  {
+   "iddia_id": "i012",
+   "cumle": "Got geleneğini derleyen Getica, Hunların ortaya çıkışını bir söylenceye bağlar: Jordanes'e göre Got kralı Filimer'in ordugâhtan sürdüğü büyücü kadınlar ıssızlıkta kötü ruhlarla birleşti ve bataklıklarda yaşayan bu yabani soyu doğurdu.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k8",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k8: Filimer ... found among his people certain witches ... the unclean spirits ... begat this savage race, which dwelt at first in the swamps"
+  },
+  {
+   "iddia_id": "i013",
+   "cumle": "Aynı metin imparatorluğun ağır yenilgisini de Got tarafından anlatır: Trakya'daki savaşta yaralanan Valens, Hadrianopolis yakınındaki bir çiftlik evine sığındı; içeride bir imparatorun saklandığını bilmeyen Gotlar evi ateşe verdi ve Jordanes bunu, gerçek inancı arayanları yoldan çıkarmış bir imparator için doğrudan bir tanrı yargısı sayar.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k8",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k8: wounded and fled to a farm near Hadrianople ... set fire to it ... a direct judgment of God ... whom he had perfidiously led astray when they sought the true faith"
+  },
+  {
+   "iddia_id": "i014",
+   "cumle": "Zaferin ardından Vizigotlar, Jordanes'in anlatımıyla Trakya'yı \"sanki kendi yurtlarıymış gibi\" ellerinde tuttular.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k8",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k8: the Visigoths ... possessed Thrace and Dacia Ripensis as if it were their native land"
+  },
+  {
+   "iddia_id": "i015",
+   "cumle": "Metnin göç anlatısının bir bölümü, yayımına eklenen incelemenin gösterdiği gibi, çağdaş tanık Ammianus Marcellinus'un bugün kayıp kitaplarından alınmadır; tanıklık ile sonradan kurulan Got hafızası aynı sayfalarda iç içedir.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k8",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k8 (Mierow giris incelemesi): are taken from the lost parts of the work of Ammianus; atif tartismasi (Mommsen) ayni sayfada, o yuzden orta"
+  },
+  {
+   "iddia_id": "i016",
+   "cumle": "Aynı tanıklık okuldan okula başka türlü okunur: klasik anlatı Jordanes'te yıkımın ve kaybedilen eyaletlerin kaydını, dönüşüm okulu Got hafızasının Roma biçimleriyle ve Roma geleneği içinde yazılmış olmasını, çevresel katman ise bozkırdan gelen zincirleme baskının izini görür.",
+   "onem": "renk",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k8",
+     "destek": "baglam"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Okullarin ayni tanikligi nasil kullandigina dair yazar sentezi; k8 metni baglam saglar"
+  },
+  {
+   "iddia_id": "i017",
+   "cumle": "Kopuş yerine sürekliliği koyan çizginin kökü on dokuzuncu yüzyıla iner; Fustel de Coulanges, barbarların Roma kurumlarının zaten süren dönüşümüne katıldığını yazmıştı.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: Fustel de Coulanges argued that the barbarians simply contributed to an ongoing process of transforming Roman institutions"
+  },
+  {
+   "iddia_id": "i018",
+   "cumle": "Henri Pirenne bu fikri 1920'lerde yayımlanan teziyle sürdürdü: barbarlar Roma'yı yıkmak için değil, nimetlerinden pay almak için geldiler ve Roma yaşayışını korumaya çalıştılar; asıl kırılma Pirenne'e göre yedinci ve sekizinci yüzyıllardaki Arap yayılmasıyla geldi, Akdeniz ticareti kesildiğinde batı Avrupa kendi içine kapandı.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: published in the 1920s; came to Rome not to destroy it, but to take part in its benefits; the real break ... 7th and 8th centuries as a result of Arab expansion; cutting the region off from trade"
+  },
+  {
+   "iddia_id": "i019",
+   "cumle": "Eleştirmenler bu tezin iki noktada hatalı olduğunu ileri sürdü: Karolenj düzenini bir Roma devleti gibi okumak ve Arap fetihlerinin etkisini abartmak.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: erred on two counts: by treating the Carolingian realm as a Roman state and by overemphasizing the effect of the Islamic conquests"
+  },
+  {
+   "iddia_id": "i020",
+   "cumle": "Kaynağın öncüsü saydığı Peter Brown'un çevresinde toplanan tarihçiler, imparatorluğun düştüğü fikrinin kendisinden uzaklaştılar; onlara göre yüzyıllara yayılan bir dönüşüm yaşandı, Orta Çağ kültürünün kökleri Roma kültürünün içindeydi ve klasik dünya ile Orta Çağ arasında keskin bir kopuş yoktu.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: a field pioneered by Peter Brown, have turned away from the idea that the Roman Empire fell at all; transformation occurring over centuries; roots of Medieval culture contained in Roman culture; no clear break"
+  },
+  {
+   "iddia_id": "i021",
+   "cumle": "Brown'un The World of Late Antiquity'si dönemi 150-750 olarak çizer ve kendini, Geç Antik dünyanın klasik uygarlıktan nasıl ve neden farklılaştığını açıklayan bir toplumsal ve kültürel değişim incelemesi olarak sunar; 476 bu aralıkta bir son değil, ara duraktır.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "kismi"
+    },
+    {
+     "anahtar": "k1",
+     "destek": "baglam"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k4 katalog: The world of late antiquity : AD 150-750 + tanitim metni (came to differ from Classical civilization); katalog kaydi oldugu icin kismi"
+  },
+  {
+   "iddia_id": "i022",
+   "cumle": "Walter Goffart bu okuma içinde keskin bir tez savunur: 1980'de Princeton'dan çıkan Barbarians and Romans, 418-584 arasındaki barbar yerleşimini daha başlığıyla bir \"uyum teknikleri\" sorunu olarak koyar; Goffart'ın savunduğu okumada yerleşim, imparatorluğun kendi düzenleme araçlarıyla yürütülen bir barındırmaydı, düpedüz bir mülksüzleştirme değil.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k5 katalog: baslik (A.D. 418-584 : the techniques of accommodation), yil 1980, yayinci Princeton University Press; tezin ic icerigi baslik/konu duzeyinde dogrulandi — kismi"
+  },
+  {
+   "iddia_id": "i023",
+   "cumle": "Aynı damarın bir başka kolunu Lucien Musset temsil eder: onun incelemesinde Orta Çağ Avrupası, Greko-Romen dünya ile ona giren Germen topluluklarının sentezinden doğdu; Roma İmparatorluğu düşmedi, dönüştü — ama onu istila edenler de dönüştü.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: the civilization of Medieval Europe emerged from a synthesis between the Graeco-Roman world and the Germanic civilizations; did not fall ... it just transformed but so did the Germanic populations"
+  },
+  {
+   "iddia_id": "i024",
+   "cumle": "Bryan Ward-Perkins, 2005 tarihli The Fall of Rome and the End of Civilization'da geleneksel görüşü modern bulgularla güncelleyen bir savunma kurdu: imparatorluğun sonunu siyasi istikrarsızlık, dış istila ve düşen vergi gelirinin birbirini besleyen kısır döngüsü getirdi.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k6",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: takes a traditional view tempered by modern discoveries ... vicious circle of political instability, foreign invasion, and reduced tax revenue; k6 katalog basligi 2005 tarihli kitabi dogrular (yil k1 metninde)"
+  },
+  {
+   "iddia_id": "i025",
+   "cumle": "İstilalar eyaletlerdeki vergi tabanında uzun vadeli hasar bıraktı; geliri azalan merkez lejyonları ödeyip donatamadı ve korunamayan eyaletlerin kendi başının çaresine bakması kaynakları biraz daha tüketti.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: invasions caused long-term damage to the provincial tax base, which lessened the ability to pay and equip the legions; constant invasions encouraged provincial rebellion as self-help, further depleting Imperial resources"
+  },
+  {
+   "iddia_id": "i026",
+   "cumle": "Çöküş olmadı diyen okulun aksine Ward-Perkins, eski imparatorluğun birçok bölgesinde arkeolojik kaydın sahici bir felaketi gösterdiğini savunur.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k6",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: Contrary to the trend among some historians of the there was no fall school ... the archaeological record indicates that the collapse was truly a disaster"
+  },
+  {
+   "iddia_id": "i027",
+   "cumle": "Kaynağın kurduğu yakınlık da anlamlıdır: Ward-Perkins'in modeli, tıpkı Bury'ninki ve Heather'ınki gibi, birlikte kesin bir gerilemeye ve düşüşe götüren döngüsel olaylar dizisi tanımlar.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: Ward-Perkins theory, much like Burys, and Heathers, identifies a series of cyclic events that came together to cause a definite decline and fall"
+  },
+  {
+   "iddia_id": "i028",
+   "cumle": "Ona göre imparatorluk sistemi ilk iki yüzyıl boyunca ve üçüncü yüzyılın bir bölümünde işler durumdaydı; ciddi sıkıntının habercisi, İran'da Sasani gücünün (226-651) yükselişiydi.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: in fairly good shape during the first, second, and part of the 3rd centuries; the first real indication of trouble was the emergence in Iran of the Sassanid Persian empire (226-651)"
+  },
+  {
+   "iddia_id": "i029",
+   "cumle": "Doğu sınırına kalıcı olarak daha çok kaynak bağlandı; bölgesel vergi gelirleri merkeze çekildikçe yerel yatırımın gerekçesi kayboldu ve taşranın okuryazar toprak sahipleri, Heather'ın deyişiyle paranın olduğu yere, imparatorluk merkezindeki kalem görevlerine yöneldi.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: a much higher proportion of the empires resources had to be focused permanently on the east; incentive for local officials disappeared; the landowning provincial literati now shifted their attention to where the money was"
+  },
+  {
+   "iddia_id": "i030",
+   "cumle": "Heather 376'daki Got girişini Karadeniz çevresindeki Hun hareketlerine, 406'daki Ren geçişini Germania'daki Hun ilerleyişine bağlar; Hunlar kendileri sınıra dayanmadan çok önce, önlerine kattıkları halklar üzerinden çöküşte rol oynadılar.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: links the Gothic invasion of 376 directly to Hunnic movements around the Black Sea; invasions across the Rhine in 406 as a direct consequence of further Hunnic incursions in Germania; important in the fall long before they themselves became a military threat"
+  },
+  {
+   "iddia_id": "i031",
+   "cumle": "Gibbon'ın din ve ahlaki çöküş savını da iç çekişme açıklamasını da reddeder; iç çekişme ona göre imparatorluk tarihi boyunca yinelenen bir etkendi ve beşinci yüzyılın sınavlarından sorumlu tutulamaz — belirleyici olan, Sasanilerle başlayıp Hun baskısı altındaki Germen istilalarıyla biten dış askerî etkenlerdir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: disputes Gibbons contention that Christianity and moral decay led to the decline; rejects the political infighting ... systemic recurring factor; places the fall on outside military factors, starting with the Sassanids, and ending with the Germanic invasions under pressure from the Huns"
+  },
+  {
+   "iddia_id": "i032",
+   "cumle": "Katalogdaki kuramların bir bölümü, her şeyi açıklayan bir etken arayışının ürünüdür ve bu türün ünlü örneği kurşundur.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k3",
+     "destek": "baglam"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k1 bolum yapisi: Monocausal decay basligi altinda Lead poisoning; kursunun unlu ornek olmasi yazarin cercevesi, k3 listenin genisligi baglam"
+  },
+  {
+   "iddia_id": "i033",
+   "cumle": "Jeokimyacı Jerome Nriagu 1983 tarihli kitabında, kurşun kaplarda kaynatılan üzüm şırasından yapılan tatlandırıcı üzerinden kurşun zehirlenmesinin gerilemede pay sahibi olduğunu ileri sürdü.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: Jerome Nriagu, a geochemist, argued in a 1983 book; boil must in lead pots to produce a reduced sugar syrup ... used to some degree to sweeten wine and food"
+  },
+  {
+   "iddia_id": "i034",
+   "cumle": "Farmakolog ve antik çağ uzmanı John Scarborough ise kitabı yanlış kanıt ve kaynak hatalarıyla dolu buldu; Scarborough'nun vardığı yargıya göre antik hekimler kurşun zehirlenmesini zaten biliyordu, zehirlenme imparatorlukta yaygın bir hastalık değildi ve çöküşü açıklamıyordu.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: John Scarborough, a pharmacologist and classicist, criticized Nriagus book as so full of false evidence, miscitations ...; concluded that ancient authorities were well aware of lead poisoning and that it was not endemic in the Roman empire nor did it cause its fall"
+  },
+  {
+   "iddia_id": "i035",
+   "cumle": "Kurşun tezinin bugünkü durumu budur: popüler anlatıda yaşamaya devam eden, uzman yazında ise büyük ölçüde gözden düşmüş bir açıklama.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: the subject of controversy, and its importance and validity is discounted by many historians"
+  },
+  {
+   "iddia_id": "i036",
+   "cumle": "Kyle Harper 2017 tarihli The Fate of Rome'da paleoiklim kayıtlarını ve genom bulgularını tarihsel anlatıyla birleştirdi; kitabın savunduğu tabloda Roma'nın kaderini imparatorlar, askerler ve barbarlar kadar volkan püskürmeleri, güneş döngüleri, iklim istikrarsızlığı ve yıkıcı mikroplar belirledi.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    },
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1 tablo satiri: Kyle Harper, The Fate of Rome 2017, used paleoclimate and genomic data; k7 tanitim: decided not just by emperors, soldiers, and barbarians but also by volcanic eruptions, solar cycles, climate instability, and devastating viruses and bacteria"
+  },
+  {
+   "iddia_id": "i037",
+   "cumle": "Tanıtımın özeti serttir: kuşatılan imparatorluk, bir \"küçük buz çağı\" ile art arda gelen hıyarcıklı veba salgınlarının birleşik yüküne daha fazla dayanamadı.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k7 tanitim metni: could no longer withstand the combined challenges of a little ice age and recurrent outbreaks of bubonic plague; yayinci tanitimi oldugu icin kismi"
+  },
+  {
+   "iddia_id": "i038",
+   "cumle": "Katmanın parçaları tartışmada daha önce de vardı: 535-536'daki küresel iklim olayları ile erken veba ve sıtma salgınları çöküş yazınında Harper'dan önce de anılıyordu; William McNeill'in okumasında ikinci yüzyıldan itibaren gelen salgınlar nüfusu öyle düşürdü ki devlet aygıtı ve ordu kalan topluma fazla geldi, daha kalabalık doğu ise aynı salgınlardan sonra bile işleyen bir devleti taşıyabildi.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: Global climate changes of 535-536; early cases of bubonic plague and malaria also cited; McNeill argues that the severe fall in population left the state apparatus and army too large ... The Eastern half survived due to its larger population"
+  },
+  {
+   "iddia_id": "i039",
+   "cumle": "Bury'nin ahlaki çürüme kuramına karşı kullandığı olgu buydu ve sonraki her okul, açıklamasını bu asimetriye göre ayarlamak zorunda kaldı.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Bury kismi k1de dogrudan; sonraki her okul bu asimetriye gore ayarlandi genellemesi yazarin sentezi — kismi"
+  },
+  {
+   "iddia_id": "i040",
+   "cumle": "Batıda son imparatorun 476'da indirilmesinden sonra bile İtalya'ya asıl büyük hasarı, kaynağın aktardığı değerlendirmeye göre, doğu imparatoru Justinianus'un altıncı yüzyıldaki yeniden birleştirme savaşı verdi; çöküşün coğrafyası, tek parça bir anlatının çizdiğinden daha girintilidir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: The traditional date ... is 476 when the last Western Roman emperor was deposed + it was the Gothic War launched by the Eastern Emperor Justinian in the 6th century ... that eventually caused the most damage to Italy"
+  },
+  {
+   "iddia_id": "i041",
+   "cumle": "Sınıflama sorusu: Demandt'ın listesi, \"neden\" kavramının ne kadar esnediğini gösteren bir aynadır — ordunun Germenleşmesi bir neden midir, bir belirti mi, yoksa Goffart'ın çizgisindeki gibi bir yönetim tekniği mi?",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "baglam"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k3 listesinin genisligi (210 madde) neden kavraminin esnekligine ayna tutar; yorum cumlesi, liste baglam saglar"
+  }
+ ],
+ "sayaclar": {
+  "dogrudan": 34,
+  "kismi": 5,
+  "desteksiz": 0,
+  "olculemez": 2
+ }
+}

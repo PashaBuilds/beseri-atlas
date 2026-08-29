@@ -1,5 +1,5 @@
 ## dusunur-locke
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:24.049Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:09.366Z_
 
 - [OK]      k1 → "Kaynak onu 1632 doğumlu, 1704'te ölmüş bir Britanyalı filozof, Oxford akademisyeni ve tıp araştırmacısı olarak…"
 - [OK]      k1 → "Kaynak, Anthony Ashley Cooper ile ilişkisinin onu sırasıyla ticaret ve sömürgeler hakkında bilgi toplamakla gö…"

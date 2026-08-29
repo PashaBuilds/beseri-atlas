@@ -1,5 +1,5 @@
 ## tartisma-vestfalya-miti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:21:09.418Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:15.046Z_
 
 - [OK]      k5 → "Uluslararası ilişkiler öğretiminin kuruluş sahnesi çoğunlukla aynı biçimde kurulur: Otuz Yıl Savaşları 1648'de…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k3 → "Uluslararası ilişkiler öğretiminin kuruluş sahnesi çoğunlukla aynı biçimde kurulur: Otuz Yıl Savaşları 1648'de…" — 1 atom doğrulandı; 4 ad ölçülemedi

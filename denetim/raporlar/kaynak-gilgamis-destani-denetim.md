@@ -1,5 +1,5 @@
 ## kaynak-gilgamis-destani
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.418Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:16.852Z_
 
 - [ATOMSUZ] k1 → "Anlatı, bir kentin hükümdarını ve onun ölümsüzlük arayışını konu alır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Yolculuk bir dostlukla başlar ve bir yasla sürer." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

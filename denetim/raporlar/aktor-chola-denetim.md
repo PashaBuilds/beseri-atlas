@@ -1,5 +1,5 @@
 ## aktor-chola
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:19.748Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:04.836Z_
 
 - [OK]      k1 → "Chola hanedanı, Güney Hindistan'ın Tamil bölgesinde kurulmuş ve gücünün zirvesinde deniz aşırı seferler düzenl…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k3 → "Chola hanedanı, Güney Hindistan'ın Tamil bölgesinde kurulmuş ve gücünün zirvesinde deniz aşırı seferler düzenl…" — 2 atom doğrulandı; 1 ad ölçülemedi

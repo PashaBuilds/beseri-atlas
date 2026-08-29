@@ -1,5 +1,5 @@
 ## kavram-gini-katsayisi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:17.951Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:10.716Z_
 
 - [OK]      k1 → "Kaynak, sınırlamalar başlığı altında sekiz alt başlık tutar: görece olup mutlak olmaması, matematiksel sınırla…"
 - [OK]      k1 → "Sınırlamalar listesinin ilk maddesinin görece olup mutlak olmaması olması, atlasın şu kuralının dayanağıdır: b…"

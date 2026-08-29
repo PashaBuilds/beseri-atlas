@@ -1,5 +1,5 @@
 ## kavram-kipu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:25.945Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:11.375Z_
 
 - [ATOMSUZ] k1 → "Kipu, bir ana ipe bağlanmış sarkıt iplerin üzerine atılan düğümlerle kayıt tutan bir sistemdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Kipu, bir ana ipe bağlanmış sarkıt iplerin üzerine atılan düğümlerle kayıt tutan bir sistemdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## aktor-malaka-sultanligi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:21.345Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:06.512Z_
 
 - [ISARET]  k1 → "Malaka Sultanlığı, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan dar geçidin kıyısında kurulmuş bir…" — özel isim kaynakta bulunamadı: Okyanusu
 - [OK]      k4 → "Malaka Sultanlığı, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan dar geçidin kıyısında kurulmuş bir…" — 1 atom doğrulandı; 3 ad ölçülemedi

@@ -1,5 +1,5 @@
 ## aktor-baglantisizlar-hareketi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:19.341Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:04.413Z_
 
 - [OK]      k1 → "Kaynak zinciri şöyle verir: Eylül 1957'de Kahire'deki Afro-Asya Halkları Dayanışma Konferansı ve ardından 1961…" — 3 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Zincirin başlangıcı, 18-24 Nisan 1955'te Endonezya'nın Bandung şehrinde toplanan ve 304 temsilcinin katıldığı …" — 3 atom doğrulandı; 3 ad ölçülemedi

@@ -1,14 +1,56 @@
 ## tartisma-aydinlanmanin-sinirlari
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.395Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:53:56.960Z_
 
-- [ATOMSUZ] k1 → "Kaynak dönemi akla, deneysel kanıta ve bilimsel yönteme yapılan vurguyla niteler; bireysel özgürlük, dinî hoşg…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Aynı kayıt, dönemin düşünürlerinin anayasal yönetimi, kilise ile devletin ayrılmasını ve akılcı ilkelerin topl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "yüzyılda zirveye ulaştığını ve fikirlerinin Avrupa'ya ve Amerika ile Okyanusya'daki Avrupa sömürgelerine yayıl…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "yüzyılların Bilim Devrimi'nden doğduğunu ve onun üzerine inşa edildiğini; Bilim Devrimi'nin deneysel araştırma…" — programatik olarak ölçülemedi (ad karşılığı yok): Bilim, Devrimi
-- [ATOMSUZ] k1 → "Bir dönemin kendisinden önceki bir dönemin devamı sayılması, atlasın şu kuralının dayanağıdır: dönem adları ko…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, dönemin başlıca isimleri arasında Jean-Jacques Rousseau, Voltaire, Immanuel Kant, Johann Wolfgang von …"
-- [OK]      k2 → "Bu isimlerden biri için tutulan ayrı kayıt, onu modern dönemin merkezî figürlerinden biri sayar ve 1724-1804 a…"
-- [OK]      k3 → "Okuryazarlık serisinde dünya değeri 1820'de yaklaşık yüzde 12,05'tir."
-- [ATOMSUZ] k3 → "Dönemin hemen ardından ölçülen bu değer, evrensellik iddiasının kaç kişiye ulaşabileceği sorusunu sayısal bir …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k11 → "Dönemin öz-tanımı bir özgürleşme vaadidir: akla, deneysel kanıta ve bilimsel yönteme yapılan vurgu; bireysel ö…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k11 → "yüzyılda Avrupa'ya ve Amerika ile Okyanusya'daki Avrupa sömürgelerine yayıldı." — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k11 → "Anayasal yönetimin, kilise ile devletin ayrılmasının ve akılcı ilkelerin toplumsal reforma uygulanmasının savu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "denemesinde aydınlanmayı insanın kendi suçuyla düştüğü vesayetten çıkışı olarak tanımlar; vesayet, insanın ken…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "denemesinde aydınlanmayı insanın kendi suçuyla düştüğü vesayetten çıkışı olarak tanımlar; vesayet, insanın ken…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Deneme çağın parolasını da verir: Sapere aude — "Have courage to use your own reason!" Kant'a göre insanların …"
+- [OK]      k2 → "Deneme çağın parolasını da verir: Sapere aude — "Have courage to use your own reason!" Kant'a göre insanların …"
+- [ATOMSUZ] k2 → "Deneme bunu gündelik itaat sahnesiyle karşılaştırır: subay tartışmayın talim edin der, vergici tartışmayın öde…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Deneme, aydınlanmanın ağırlık noktasını din işlerindeki vesayetten çıkışa yerleştirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kant kendi çağını aydınlanmış bir çağ saymaz; onu bir aydınlanma çağı, hükümdarına atıfla Friedrich'in yüzyılı…" — programatik olarak ölçülemedi (ad karşılığı yok): Friedrich
+- [OK]      k1 → "Çerçeve kaynak bu öz-güveni dönemin geneline bağlar: d'Alembert içinde yaşadığı yüzyılı felsefe yüzyılı diye n…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Aynı kayıt, düşünürlerin yarattığı düşünsel mayalanmanın Fransa'da büyüyen toplumsal huzursuzluk dalgasına kat…"
+- [OK]      k3 → "Adorno'nun birlikte yazdığı metin önce 1944'te Philosophische Fragmente başlığıyla çoğaltıldı; kitap 1947'de D…"
+- [OK]      k4 → "Adorno'nun birlikte yazdığı metin önce 1944'te Philosophische Fragmente başlığıyla çoğaltıldı; kitap 1947'de D…"
+- [OK]      k1 → "Adorno'nun birlikte yazdığı metin önce 1944'te Philosophische Fragmente başlığıyla çoğaltıldı; kitap 1947'de D…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Sav, çerçeve kaynağın aktarımıyla şudur: Adorno ile Horkheimer, Nazi ölüm kamplarını Aydınlanmanın diyalektiği…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Akıl bu okumada doğaya ve insana egemen olmanın aracına daralır ve özgürleştirici içeriğini yitirir; kitabın b…"
+- [OK]      k3 → "Kitle kültürüne ayrılan bölüm, The Culture Industry: Enlightenment as Mass Deception başlığını taşır."
+- [ATOMSUZ] k3 → "Bölüm, kültürün artık her şeye aynı damgayı vurduğu gözlemiyle açılır: filmler, radyo ve dergiler, bütününde v…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Sinema ile radyonun artık sanat gibi görünme gereği bile duymadığı, yalnızca iş olduklarının açıkça sahiplenil…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Aydınlanmış modern toplumun kültür üretimi böylece bir aldatmaca düzeni olarak çözümlenir: akıl çağının vaadi …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Irk kavramının tarihini izleyen akademik kayıt, modern ırk düşüncesinin gelişimini Aydınlanmanın evrenselcilik…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k5 → "Kant'ın Of the Different Human Races başlıklı denemesi 1775'te yayımlandı ve 1777'de gözden geçirildi; deneme …"
+- [OK]      k5 → "Güncel Kant yazını bu kayıt karşısında başlıca iki çizgide ayrışır — kaynak bu iki kümenin kapsayıcı olmadığın…"
+- [OK]      k6 → "Mills eleştiriyi kavramlaştıran kitabını 1997'de yayımladı: The Racial Contract, toplum sözleşmesi geleneğinin…"
+- [OK]      k7 → "Silencing the Past (1995), iktidarın tarihin üretiminin her aşamasında çoğu kez görünmeden işleyerek kimi sesl…"
+- [OK]      k7 → "Kitabın açılış örneği, Batı'nın Haiti Devrimi'ni — aynı kaydın nitelemesiyle "the most successful slave revolt…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k7 → "Devrimin kendisi dosyasında ele alınıyor; Trouillot'nun kitabında olaya ayrılan bölümün başlığı, devrimin çağd…"
+- [OK]      k1 → "Çerçeve kaynağın bilançosu açıktır: insanın hakları çağın merkezî kavramıyken kadınların ve beyaz olmayan halk…"
+- [ATOMSUZ] k8 → "Wollstonecraft itirazını akıl zemininde kurar: kadınlar da akıl sahibi varlıklardır ve yetilerini kullanarak y…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k8 → "Kadınlar üzerine yazan erkeklerin onları insandan çok kadın olarak gördüğünü, akıllı eşler yerine baştan çıkar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k8 → "Akla dayandığı ilan edilen yeni anayasaya seslenirken de kadınlar dışarıda bırakılırsa erkeğin bir tiran gibi …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "İtiraz, kendisine cevap verilmesini istediği dilin — akıl ve haklar dilinin — dönemin ortak dili olmasına yasl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Jonathan Israel'in 2001'de yayımlanan Radical Enlightenment çalışması, alt başlığıyla felsefeyi 1650 ile 1750 …"
+- [OK]      k1 → "Bu tezde modern eşitlikçi düşüncenin kaynağı Aydınlanmanın kendisidir — özellikle Spinoza çizgisinden gelen ra…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Bu tezde modern eşitlikçi düşüncenin kaynağı Aydınlanmanın kendisidir — özellikle Spinoza çizgisinden gelen ra…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k10 → "Enlightenment Now (2018), katalog tanıtımının aktarımıyla, yetmiş beş grafik üzerinden yaşamın, sağlığın, refa…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k10 → "Kitabın türü savununun sınırını da işaretler: alt başlık onu bir manifesto olarak sunar; savunma buradan güç d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k8 → "Wollstonecraft'ın itirazı akıl ve haklar diliyle yazılmıştı; Kant yazınında Kleingeld'in savunduğu okuma da Ka…" — programatik olarak ölçülemedi (ad karşılığı yok): Kant, Kleingeld
+- [OK]      k1 → "Wollstonecraft'ın itirazı akıl ve haklar diliyle yazılmıştı; Kant yazınında Kleingeld'in savunduğu okuma da Ka…"
+- [OK]      k5 → "Wollstonecraft'ın itirazı akıl ve haklar diliyle yazılmıştı; Kant yazınında Kleingeld'in savunduğu okuma da Ka…"
+- [OK]      k5 → "Karşı kayıt aynı yerdedir: kimi yorumcular Kant'ın köleliği ahlaki bir sorun olarak değil, tarih felsefecisini…"
+- [OK]      k12 → "Okuryazarlık serisinde dünya değeri 1820'de yaklaşık yüzde 12'dir; aklın kamusal kullanımı okur dünyasına katı…"
+- [OK]      k12 → "Okuryazarlık serisinde dünya değeri 1820'de yaklaşık yüzde 12'dir; aklın kamusal kullanımı okur dünyasına katı…"
+- [ATOMSUZ] k12 → "Sayının söylemediği şey de kayda değer: seri ilkelerin samimiyetini değil erişimini ölçer; düşük değer vaadi ç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k11 → "Çerçeve kayıt ikisini aynı cümlelerde tutar — evrensel idealler ve sömürgelere yayılma — ve aralarında seçim y…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "İkincisi pay sorusudur: Wollstonecraft'ın istisna oluşu hem içeriden itirazın mümkün olduğunu hem dışlamanın y…"
+- [OK]      k2 → "Kant hem 1784 tanımının hem 1775 tarihli ırk denemesinin yazarıdır ve iki metin aynı tartışmanın iki yakasında…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k5 → "Kant hem 1784 tanımının hem 1775 tarihli ırk denemesinin yazarıdır ve iki metin aynı tartışmanın iki yakasında…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Kant hem 1784 tanımının hem 1775 tarihli ırk denemesinin yazarıdır ve iki metin aynı tartışmanın iki yakasında…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k7 → "Kant hem 1784 tanımının hem 1775 tarihli ırk denemesinin yazarıdır ve iki metin aynı tartışmanın iki yakasında…" — 3 atom doğrulandı; 2 ad ölçülemedi
 
-**Özet:** 4 OK · 0 ISARET · 0 HATA · 5 ATOMSUZ
+**Özet:** 33 OK · 0 ISARET · 0 HATA · 18 ATOMSUZ

@@ -1,5 +1,5 @@
 ## kavram-kanit-turu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:25.756Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:11.179Z_
 
 - [ATOMSUZ] k1 → "Bu dosya bir tarihsel olguyu değil, atlasın kendi dosyalarını yazarken tekrar tekrar karşılaştığı bir kısıtı t…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "İfade bir yöntem kuralı gibi görünür ama bir gözlemdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

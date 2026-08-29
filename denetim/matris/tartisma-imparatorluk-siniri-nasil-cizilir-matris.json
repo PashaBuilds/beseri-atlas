@@ -1,0 +1,380 @@
+{
+  "id": "tartisma-imparatorluk-siniri-nasil-cizilir",
+  "govde_hash": "604c456d52bb",
+  "commit": "58a10ea",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Maurya İmparatorluğu'nu anlatan güncel bir ansiklopedi maddesi ikiliği kendi içinde sergiler: madde bir yandan imparatorluğun yayılımını alışılmış biçimde geniş bir ülke olarak verir, bir yandan da tarih yazımının antik devletleri geniş yüzeyler olarak görme eğiliminde olduğunu, oysa bunların iktidar merkezlerinin ağları olarak daha iyi anlaşılacağını savunan Monica Smith'in modelini aktarır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wikipedia maddesinin Network of core areas bolumu Smith modelini aynen aktariyor"
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Aynı maddeye göre Aşoka'nın imparatorluğu beş parçadan oluşuyordu ve başkent Pataliputra'nın çevresindeki merkez doğrudan yönetiliyordu; buna karşılık birçok kesim ulaşılmaz olduğu için bilginin ve imparatorluk buyruklarının yayılışı sınırlı kalıyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bes parca, Pataliputra merkezi ve bilgi yayiliminin sinirliligi madde metninde"
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Büyük kaya fermanları sınır eyaletlerinde bulunmuş, merkezde ise hiç ele geçmemiştir; bugünkü Maharashtra ile Andhra Pradesh'in, Kerala ile Tamil Nadu'nun geniş kesimlerinin imparatorluğa fiilen dahil olmadığı, ana ticaret yollarının denetiminin ise imparatorluk için hayati olduğu değerlendirilir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Fermanlarin dagilimi ve fiilen dahil olmayan bolgeler Kulke-Rothermund aktarimiyla maddede"
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Frederick Jackson Turner, 1893'te Amerikan Tarih Derneği'nin Chicago toplantısında okuduğu tebliğe 1890 sayım raporunun bir tespitiyle başlar: rapora göre 1880'e kadar ülkenin bir yerleşim sınırı vardı; şimdi ise yerleşilmemiş alan irili ufaklı yerleşim adalarıyla öyle parçalanmıştır ki bir sınır hattından söz etmek zordur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1890 sayim raporu alintisi tebligin acilis paragrafinda"
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Turner Amerikan sınırını, yoğun nüfusun içinden geçen tahkim edilmiş bir hat olan Avrupa sınırından keskin biçimde ayırır; ona göre Amerikan sınırını asıl tanımlayan şey, \"serbest toprağın beri kenarında\" durması ve yerleşimle birlikte batıya doğru yürümesidir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Avrupa siniri karsitligi ve hither edge of free land ifadesi metinde"
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Sayım raporlarında bu sınır, mil kare başına iki ve daha yukarı yoğunluktaki yerleşimin kenarı olarak ele alınır; Turner terimin esnek olduğunu söyler ve haritadaki hattı değil kuşağın bütününü incelemeye alır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Census tanimi (two or more to the square mile) ve elastic term ifadesi metinde"
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Ama Turner kuşağı, yerleşimin dış kenarı ile uygarlık ve vahşet saydığı iki dünyanın buluşma noktası olarak tanımlar; serbest saydığı toprakta zaten yaşayan halklar bu tanımın dışında kalır ve tezin sonraki eleştirisi büyük ölçüde bu körlük üzerinde yükselir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Meeting point between savagery and civilization tanimi metinde"
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Owen Lattimore'un Çin'in İç Asya sınırlarına ayırdığı incelemesi, kuşak fikrini bir okuma önerisi olmaktan çıkarıp coğrafya betimlemesine dönüştürür: ona göre Çin'in iç sınırı, Büyük Duvar'ın tanımladığı keskin bir kenar olmamıştır; güneyden kuzeye derinliği değişen ve Sibirya'nın ovalarına, Orta Asya'nın belirsiz derinliklerine, Tibet'e doğru uzanan bir kuşaklar dizisi olarak yaşamıştır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Giris bolumundeki a series of frontier zones pasaji; ilk 400k icinde"
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Roma'nın Tuna boyundaki sınırında ordu, lejyon kaleleri, küçük kaleler ve gözetleme kulelerinden oluşan kesintisiz bir zincir kurmuştu; bu yapılar çoğu yerde birbirine on ile otuz kilometre uzaklıkta dizilmişti ve resmi envanter, zincirin amacını nehrin güney kıyısındaki trafiği ve nehir boyunca ile karşı kıyıya uzanan toplumsal ilişkileri denetlemek olarak tarif eder.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Zincir tarifi ve 10-30 km araliklar adaylik dosyasinin envanter bolumunde"
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Kalıcı lejyon üsleri Vindobona, Carnuntum, Brigetio ve Aquincum'da birinci yüzyılın ikinci yarısında kuruldu; aynı kayda göre kalelerin bir bölümü nehir kavşaklarında ve ticaret yollarının geçiş noktalarında yer alıyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Vindobona/Carnuntum/Brigetio/Aquincum ve ticaret yolu gecisleri metinde"
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Whittaker'ın Roma sınırlarına ayırdığı 1994 tarihli kitabı, daha adında sınırı askeri bir hattan çok toplumsal ve iktisadi bir inceleme nesnesi olarak sunar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog kaydi: baslik, alt baslik ve 1994 tarihi sayfada; icerik gorulmedi"
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "George Nathaniel Curzon ise 1907 Romanes konferansında Çin Seddi'ni ve Hadrianus ile Antoninus Pius'un Britanya'daki duvar hatlarını, sınır belirlemekten çok savunmayla ilgilenen bir sınır tipinin örnekleri olarak anar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Concerned less with delimitation than with defence pasaji; Cin Seddi ve Hadrian-Antoninus hatlari sayiliyor"
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Osmanlı düzeninde serhad kulu, sınır boylarında ve kalelerde hizmet gören askeri zümrelerin genel adıydı; bu askerler yörenin halkından toplandıkları için kapıkullarından ayrı tutulur, kendilerine yerli kulu da denirdi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV tanim cumlesi birebir; yerli kulu adlandirmasi metinde"
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Aynı kayda göre daha önce sınır boylarında akıncı denilen hafif süvari birlikleri hizmet görmüş, akıncılık zayıflayınca serhad boylarında değişik adlar altında yeni birlikler kurulmuş, 1663'te alınan Uyvar kalesine de kapıkullarının yanı sıra fârisân, azeb, cebeci ve topçu gibi yerli kulu askerleri yerleştirilmiştir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Akincilik-yerli kulu gecisi ve 1663 Uyvar ornegi TDV metninde"
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Adlar bile kuşağın gündelik düzenini anlatır: beşlü adının beş hanede bir kişi toplanmasından ya da beşer akçelik yevmiyeden geldiği aktarılır; yoklamada bulunmayanların ve çocuk yaştakilerin kayıtları silinirdi.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Beslu adinin kokeni ve yoklama kayitlari TDV metninde"
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Serhad kuvvetlerinin mevcudu da bulundukları yerin stratejik önemine göre değişir, kale azebleri dışındaki serhad kulu askerleri atlı olurdu.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mevcudun stratejik oneme gore degismesi ve atli olma bilgisi TDV metninde"
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Hududnâme ya da sınırnâme denilen resmi belgeler, komşu devletlerle sınırları ve içeride köy, vakıf ve mülk topraklarının sınırlarını belirlemek için kaleme alınırdı; sonraki dönemlerde haritalara atıf yapılsa da bu belgeler çizim değil çok ayrıntılı yön tarifleri içerir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cizim degil cok tafsilatli yon tarifleri ifadesi TDV metninde birebir"
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Devletler arası hududu belirleyen hududnâmeler bir ahidnâmeye bağlı olarak düzenlenir; iki tarafın murahhasları çizilecek hat boyunca dolaşır, eski sınırların söz konusu olduğu yerlerde bölgeyi iyi tanıyanların bilgisine başvururdu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ahidname bagi, murahhaslarin hat boyunca dolasmasi ve yerel bilgi TDV metninde"
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "1699 Karlofça Antlaşması'ndan sonra düzenlenen hududnâmede uzun hat bölge bölge başlıklara ayrılmıştır; tarifte nehir, dağ ve tepe gibi savunulabilir noktalar ile toprak ve taştan yapılmış sınır işaretleri sayılır, yön kıble ya da şark gibi ifadelerle verilir, iki nokta arasındaki uzaklık kimi zaman saat olarak yazılırdı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1699 Karlofca hududnamesi, bolge basliklari, isaretler ve saat olcusu TDV metninde"
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Tuna gibi bir nehir sınır alındığında hat nehrin ortasından geçer; adaların paylaşımından avlanmaya kadar ayrıntılar belgeye girer, kimi bölgelerin boş bırakılması, kimi yapıların yıkılması ya da silahtan arındırılması da kararlaştırılabilirdi.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Nehrin ortasindan gecen hat, ada paylasimi, bos birakilan bolgeler TDV metninde"
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Curzon'a göre işaretlenmiş sınır fikri esasen modern bir kavramdır ve antik dünyada kendine pek yer bulmaz; Asya'da ise sabit sınır kabulüne karşı köklü bir isteksizlik gördüğünü yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "An essentially modern conception ve Asya pasaji metinde; emperyal bakis notu govdede"
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Aynı metin sınır kuşağının bir soy kütüğünü çıkarır: Orta Çağ'da Frank ve Alman krallarının yerleşik siyaseti, imparatorluğun sınırlarını Mark ya da March denilen uçlarla korumaktı ve bu uçlar Markgraf denilen beylerce yönetiliyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Marks or Marches ve Markgrafs pasaji metinde"
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Curzon, masa başında antlaşmayla yürütülen delimitasyonu, komisyonların arazide yürüttüğü demarkasyondan ayrı bir işlem olarak tanımlar; sınırlar onun deyişiyle \"üzerinde savaşın ve barışın asılı durduğu ustura ağzı\"dır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Delimitation-demarcation ayrimi ve razor edge cumlesi metinde"
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Aynı konferansa göre Avrupa devletlerinin Afrika paylaşımında himaye yönetimi bilinen bir araçtı ve bu bölgelerde çoğu kez ondan da belirsiz olan nüfuz alanı tabiri kullanılıyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Protectorates / sphere of influence pasaji metinde"
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Curzon ara devletleri de aynı makinenin parçası sayar: ona göre Siyam'ın, İran'ın ve Afganistan'ın geleceği, sınır siyasetinin önündeki ağır sorular arasındadır ve tampon konumu içeride kargaşayı, dışarıda entrikayı besleyebilir.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Siam-Persia-Afghanistan tampon pasaji metinde; adlar programatik olculemedi, elle dogrulandi"
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Benedict Anderson'ın milliyetçilik üzerine incelemesinin gözden geçirilmiş basımında sayım, harita ve müzeye ayrılmış bir bölüm yer alır; bu bölümün okumasında harita, sömürge devletinin ülkesini tahayyül etme ve denetleme biçimini kuran kurumlardan biridir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog kaydindaki bolum listesi Census, map, museum basligini iceriyor; bolum icerigi gorulmedi"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 24,
+    "kismi": 2,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "not_orkestrator": "2026-08-29: hakem finalize sonrasi mekanik KAPI 2 onarimi (dipnot ekleme/paragraf birlesimi/yonlendirme sadeleme); icerik iddialari degismedi."
+}

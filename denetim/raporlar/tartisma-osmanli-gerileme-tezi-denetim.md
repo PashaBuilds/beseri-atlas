@@ -1,5 +1,5 @@
 ## tartisma-osmanli-gerileme-tezi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.168Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:14.299Z_
 
 - [OK]      k1 → "yüzyıl bir zamanlar Osmanlılar için bir gerileme dönemi olarak nitelenmişti, ancak 1980'lerden bu yana Osmanlı…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kaynak dönemi yaklaşık 1550 ile yaklaşık 1700 arasına yerleştirir; Kanuni Sultan Süleyman'ın saltanatının sonu…" — 4 atom doğrulandı; 2 ad ölçülemedi

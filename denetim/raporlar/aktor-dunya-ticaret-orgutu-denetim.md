@@ -1,5 +1,5 @@
 ## aktor-dunya-ticaret-orgutu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:19.943Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:05.033Z_
 
 - [ATOMSUZ] k1 → "İktisadi çalışmalar genel olarak Dünya Ticaret Örgütü'nün ticareti artırdığını ve ticaret engellerini azalttığ…" — programatik olarak ölçülemedi (ad karşılığı yok): Dünya, Ticaret, Örgütü
 - [ATOMSUZ] k1 → "Aynı madde eleştirileri de sıralar: DTÖ'nün kolaylaştırdığı serbest ticaretin faydalarının eşit paylaşılmadığı…" — programatik olarak ölçülemedi (ad karşılığı yok): DTÖ

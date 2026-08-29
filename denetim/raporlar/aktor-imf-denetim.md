@@ -1,5 +1,5 @@
 ## aktor-imf
-_Geçiş 2 — kaynak denetimi · 2026-08-28T19:35:03.829Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:05.915Z_
 
 - [OK]      k1 → "Uluslararası Para Fonu, ödemeler dengesi krizi yaşayan ya da yaşama ihtimali olan üyelerine son kredi mercii o…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Temmuz 1944'te Bretton Woods Konferansı'nda tasarlandı, ilk 29 ülkenin kurucu anlaşmayı onaylamasıyla 27 Aralı…" — 5 atom doğrulandı; 2 ad ölçülemedi

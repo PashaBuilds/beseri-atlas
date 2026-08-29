@@ -1,5 +1,5 @@
 ## aktor-goryeo-choson
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:20.279Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:05.374Z_
 
 - [OK]      k1 → "Önceki hanedan 918-1392 arasına tarihlenir."
 - [OK]      k1 → "Kaynak devlet biçimini tek bir satırda vermez: bağımsız devlet 918-1270 ve 1356-1392 arasında, Yuan hanedanını…"

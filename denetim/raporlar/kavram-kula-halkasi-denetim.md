@@ -1,5 +1,5 @@
 ## kavram-kula-halkasi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:26.014Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:11.447Z_
 
 - [ATOMSUZ] k1 → "Kula halkası, bir ada grubunda iki tür süs eşyasının birbirine zıt yönlerde ve sürekli olarak el değiştirdiği …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Kula halkası, bir ada grubunda iki tür süs eşyasının birbirine zıt yönlerde ve sürekli olarak el değiştirdiği …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

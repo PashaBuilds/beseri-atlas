@@ -193,6 +193,23 @@ whitelist:
       Economic History Association'in acik ansiklopedisi. 2026-08-29 hakem
       olcumu: 200, 58k, JS gerektirmiyor. Iktisat tarihi basliklarinda
       hakem-gormus ikincil kaynak.
+  - alan: api.crossref.org
+    tur: akademik
+    dogrulanabilir: true
+    kapsam: [ustveri]
+    not: >
+      Bibliyografik ustveri kaydi (JSON). 2026-08-29 hakem olcumu: 4 fetch,
+      hepsi 200, bot korumasi yok. SINIR: yalniz yazar/yil/baslik/cilt
+      iddialarina dogrudan destek olur; icerik iddialarina en cok OZET
+      duzeyinde kismi (abstract alani her kayitta yok).
+  - alan: api.semanticscholar.org
+    tur: akademik
+    dogrulanabilir: true
+    kapsam: [ustveri]
+    not: >
+      Bibliyografik ustveri + ozet (JSON). 2026-08-29 hakem olcumu: 3 fetch
+      200; anahtarsiz katman paylasimli hiz sinirina tabi, 429 gorulurse
+      2-3 sn bekleyip yeniden dene. Ayni ustveri-siniri kurali gecerli.
   - alan: population.un.org
     tur: veri
     dogrulanabilir: false

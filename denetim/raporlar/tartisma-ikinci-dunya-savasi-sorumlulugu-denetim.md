@@ -1,16 +1,51 @@
 ## tartisma-ikinci-dunya-savasi-sorumlulugu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.697Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:00:02.670Z_
 
-- [ATOMSUZ] k1 → "Bu haritanın çıkış noktası kaynağın kendi bölümlemesidir: nedenler nihai ve yakın diye ikiye ayrılmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, nihai nedenler başlığı altında şunları sayar: Birinci Dünya Savaşı'nın mirasları, Milletler Cemiyeti'n…" — 1 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k1 → "Kaynak, yakın nedenler başlığı altında Nazi diktatörlüğü, Ren bölgesinin yeniden silahlandırılması, İtalya'nın…" — 3 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "On ayrı olayın yakın neden sayılması, atlasın olay dosyalarını neden dönem dosyalarına bağladığının dayanağıdı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, Japonya'nın Fransız Çinhindi'nin güneyini istila etmesi üzerine ABD başkanının Japonya'nın ABD'deki bü…" — 2 atom doğrulandı; 3 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir kararın etkisinin yüzdeyle kaydedilmesi, atlasın neden zincirlerini sayıyla izleyebildiği ender yerlerden …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Bir önceki savaşın aynı sorusu için tutulan kayıt, sorumluluğun tek bir başkente mi yoksa bütün büyük güçlere …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli nüfus serisinde sağlayıcının toplam satırı 1940 için yaklaşık 2,3 milyar verir."
-- [ATOMSUZ] k1 → "Atlas bu değeri hiçbir pozisyonun kanıtı olarak sunmaz; seri nüfusu verir, savaşın nedenini vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Atlas bu değeri hiçbir pozisyonun kanıtı olarak sunmaz; seri nüfusu verir, savaşın nedenini vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynağın kendisi nedenleri iki düzeyde tutar ve aralarında bir hüküm vermez; bu atlas da vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Savaş, Almanya'nın 1 Eylül 1939'da Polonya'ya saldırmasıyla başladı ve Britanya ile Fransa iki gün sonra Alman…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Savaş sonrasında yerleşen ve Nürnberg tezi diye anılan okuma da bu zemini esas alır: Hitler savaşı istemiş, ay…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k6 → "Tartışmanın ana belgeleri devletlerin birbirine karşı yayımladığı derlemelerden çıktı: ele geçirilen arşivler …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bir tarihçinin tezi neo-Nazi yayınlarca övüldüğünde ise alan bunu kendi sınavı saydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Hugh Trevor-Roper'a göre Hitler programını, ana hatlarıyla da olsa, 1924'te Mein Kampf'ta ve başka yerlerde il…"
+- [OK]      k2 → "Bu okumanın en çok andığı belgelerden biri, Berlin'deki Reich Başbakanlığı'nda 5 Kasım 1937 akşamı yapılan top…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "Tutanağa göre Hitler, Alman siyasetinin amacını ırksal topluluğu güvenceye almak, korumak ve büyütmek olarak t…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k2 → "Tutanağı toplantıdan beş gün sonra, 10 Kasım'da, toplantıda bulunan kurmay subay kaleme aldı." — programatik olarak ölçülemedi (ad karşılığı yok): Kasım
+- [OK]      k1 → "Taylor'ın The Origins of the Second World War kitabı 1961'de yayımlandı; İkinci Dünya Savaşı'nın nedenlerini i…"
+- [OK]      k1 → "Taylor'a göre dış politikayı iç siyaset değil devlet aklı ve dış tehditlere cevap verme zorunluluğu belirler; …" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Beşinci tez, Nürnberg tezinin bir başka ayağını da kırar: savaş sonrası uzlaşmada Hitler'i öteki Naziler deste…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Kitabın ardındaki kaygı günceldi: Taylor nükleer silahsızlanma kampanyasını destekliyordu ve İkinci Dünya Sava…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Kitap dünya çapında çok satanlara girdi ve bir tartışma fırtınası kopardı; Batı Almanya basını tezi oybirliğiy…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Hugh Trevor-Roper kitabı Temmuz 1961'de Encounter dergisinde ele aldı: ona göre Taylor kanıtı "seçiyor, bastır…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "İki tarihçi 9 Temmuz'da televizyonda karşı karşıya geldi; Eylül 1961'de Taylor, Trevor-Roper'ın kendisine atfe…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Amerikan baskısının karşılanışı daha da sertti: Time dergisi Taylor'ı Hitler'e mazeret bulmakla suçladı; New Y…"
+- [OK]      k1 → "Elizabeth Wiskemann, Taylor'ın kitabına neo-Nazi yayınlarında çıkan övgü dolu değerlendirmeleri aktaran bir me…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Alman tarihçiler arasında Golo Mann kitabı, Taylor'ın Hitler'in masumiyetini kanıtlamaya çalıştığını söyleyere…"
+- [OK]      k1 → "Alanın sonraki derlemeleri kendilerini Taylor ve eleştirmenleri başlığıyla kurar."
+- [OK]      k1 → "Mason, Aralık 1964'te Past & Present dergisinde kitabı değerlendirdi: yeniden silahlanmanın ağırlığı ve otarşi…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Taylor'ın gözden kaçırdığı şey, Mason'a göre, dış politikanın hedeflerinde iç ve dış etkenlerin birbirine bağı…"
+- [OK]      k1 → "Taylor'ın Nisan 1965 tarihli cevabı sayılara döner: 1937 ile 1939 arasında Almanya içinde iktisadi ya da siyas…" — 7 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "29 Eylül 1938'de Münih'te yapılan anlaşma, Südet Alman topraklarının Almanya'ya bırakılmasını düzenler: tahliy…" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k3 → "Metnin altında dört imza vardır — Hitler, Chamberlain, Daladier, Mussolini — ve toprağı bırakan Çekoslovakya i…"
+- [ATOMSUZ] k3 → "Metin, halk oylaması yapılacak bölgeleri belirleme işini de aynı uluslararası komisyona bırakır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Suçlama çizgisinin kurucu metni, Fransa'nın düşüşünün hemen ardından 1940'ta Londra'da CATO imzasıyla yayımlan…"
+- [OK]      k9 → "Kapağa alınan cümle broşürün amacını da tanımlar: Churchill'e göre "geçmişle ilgili suçlamanın yararı, şimdiki…"
+- [OK]      k9 → "Broşürün yöntemi tarihleri hafızaya kazımaktır: Chamberlain'in, Münih'ten altı ay önce Britanya silahlanmasını…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k10 → "Chamberlain'in 1939'da yayımlanan In Search of Peace derlemesi, başbakanın Mayıs 1937'de göreve gelişinden ber…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k10 → "Eylül 1938 bunalımının ortasında ulusa radyodan seslenirken Çekoslovakya sorununu "hakkında hiçbir şey bilmedi…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k10 → "Savunu eleştiriyle aynı hafta karşılaştı: Avam Kamarası 3 Ekim'de toplandığında kürsüye Chamberlain'den önce, …" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k4 → "23 Ağustos 1939'da Moskova'da imzalanan saldırmazlık antlaşması, tarafların birbirine karşı her türlü şiddet e…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k4 → "Antlaşma on yıllık bir süre için yapılmıştı ve tarafların anlaşmazlıkları dostane görüş alışverişiyle çözmesin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Aynı gün imzalanan gizli ek protokol Doğu Avrupa'yı nüfuz alanlarına böler: Baltık devletlerinde sınır Litvany…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k7 → "Pakt savaşın takvimine bağlıdır: anlaşma, Almanya ile Sovyetler Birliği'nin Polonya'yı işgal edip paylaşmasını…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k7 → "Hitler paktı taktik ve geçici bir manevra olarak görüyordu; Alman ordusu 22 Haziran 1941'de Sovyetler Birliği'…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k7 → "Pakt Sovyet tarafına da alan açtı: Sovyetler Birliği Kasım 1939'da Finlandiya'ya saldırdı, 1940 yazında Baltık…" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k6 → "Amerikan ve Britanya orduları 1945'te Alman Dışişleri arşivini ele geçirdi ve ABD Dışişleri Bakanlığı bu arşiv…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k11 → "Moskova'nın karşı hamlesi, Şubat 1948'de Sovyet Enformasyon Bürosu imzasıyla çıkan Falsificators of History bi…" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [ATOMSUZ] k11 → "Bildirinin başlığı savunmanın çerçevesini de verir: sahtecilikle suçlanan, belgeleri yayımlayanlardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k8 → "Japonya kendi sınırları içinde üretim için hammaddeden yoksundu ve Pasifik kıyısındaki toprakları denetime ala…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k8 → "Milletler Cemiyeti'nin soruşturması, Japonya'nın savaş ilanı olmaksızın Çin topraklarının büyük bir bölümünü z…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k8 → "İkinci Çin-Japon Savaşı Temmuz 1937'de başladı; Japonya 1940'ta Almanya ve İtalya ile Üçlü Pakt'ı imzaladı." — 3 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k8 → "Amerikan payı tartışması bir ambargo zinciri üzerinden yürür: Birleşik Devletler 1940'ta Japonya'ya ihracatı k…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k8 → "Aynı kayıt saldırı kararını iki etkene birden bağlar — kıtlıklar ve imparatorluğu genişletme hırsı — ve Japon …" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k2 → "Hitler'in kuvvet kullanma iradesi kendi rejiminin tutanağında kayıtlıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 4 OK · 0 ISARET · 0 HATA · 7 ATOMSUZ
+**Özet:** 39 OK · 0 ISARET · 0 HATA · 7 ATOMSUZ

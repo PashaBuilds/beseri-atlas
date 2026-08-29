@@ -1,5 +1,5 @@
 ## olay-11-eylul
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:14.453Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:47:59.344Z_
 
 - [ATOMSUZ] k1 → "Bu olayın referans maddesi, saldırının anlatımından önce bir hazırlık bölümü taşır ve o bölümün alt başlıkları…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir saldırının referans kaydında, saldırıdan önce elde bulunan bilginin ayrı bir alt başlık olarak ele alınmas…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

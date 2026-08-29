@@ -1,5 +1,5 @@
 ## aktor-karahanlilar
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:21.018Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:06.133Z_
 
 - [OK]      k1 → "Karahanlılar, Mâverâünnehir ile Doğu Türkistan arasındaki bölgede hüküm süren ve merkezlerini Balasagun ile Kâ…"
 - [ATOMSUZ] k1 → "Hanedanın atlas açısından ayırt edici yanı siyasi genişliği değil, yönettiği dönemde üretilen ve bugüne ulaşan…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

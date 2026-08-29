@@ -31,6 +31,7 @@ ilgili:
   - kaynak-kautilya-arthasastra
   - kaynak-baburname
   - kavram-veraset
+  - tartisma-teknolojik-belirlenimcilik
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

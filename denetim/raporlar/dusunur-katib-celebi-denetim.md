@@ -1,5 +1,5 @@
 ## dusunur-katib-celebi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:23.869Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:09.183Z_
 
 - [OK]      k1 → "Kâtib Çelebi, on yedinci yüzyılda İstanbul'da yaşamış ve çok sayıda alanda eser vermiş bir âlimdir."
 - [ATOMSUZ] k2 → "En bilinen iki eseri bir bibliyografya ve bir dünya coğrafyasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## olay-otuz-yil-savaslari
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:17.662Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:02.697Z_
 
 - [OK]      k1 → "Yedi seçici prens daha önce üç Protestan ve dört Katolik'ten oluştuğu için, Ferdinand'ın yerine Frederick'in g…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Ferdinand'ın Bohemya ve Macaristan kralı seçilmesini desteklemeyi kabul etti; karşılığında Ferdinand kuzey İta…" — 3 atom doğrulandı; 1 ad ölçülemedi

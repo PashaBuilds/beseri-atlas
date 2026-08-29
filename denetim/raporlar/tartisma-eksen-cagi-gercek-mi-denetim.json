@@ -1,79 +1,217 @@
 {
   "id": "tartisma-eksen-cagi-gercek-mi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:27.579Z",
-  "govde_hash": "b31189aadd26",
-  "commit": "1d273c7",
+  "zaman": "2026-08-29T09:00:16.733Z",
+  "govde_hash": "2e2443c45649",
+  "commit": "58a10ea",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Bu haritanın çıkış noktası, kaynağın kendi cümlesidir: Eksen Çağı'nın tarihsel geçerliliği tartışmalıdır.",
+      "iddia": "Karl Jaspers, 1949'da yayımlanan Vom Ursprung und Ziel der Geschichte kitabıyla MÖ 800-200 arasındaki yüzyılları insanlık tarihinin ekseni ilan etti: ona göre i",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavramı aktaran kaynak, tezin bugünkü durumunu da tek cümleyle verir: Eksen Çağı'nın tarihsel geçerliliği tartışmalıdır.",
       "durum": "ATOMSUZ",
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): Eksen, Çağı"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, kavramı ortaya atan düşünürün bu çağdan kilit düşünürleri belirlediğini ve bu düşünürlerin ortaya çıktığı her bölgeye ortak özellikler saptadığını yazar",
+      "iddia": "Dönem adları genellikle yalnızca bir bölgenin kanıtıyla sınanırken bu ad, birbirinden habersiz bölgeleri aynı takvime bağladığı için kronolojinin kendisini bir ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Aynı madde, eleştirileri de ayrı ayrı sıralar: Yunanistan, Levant, Hindistan ve Çin'de eşzamanlı ortaya çıktığı varsayılan düşünsel gelişmeler arasında gösteril",
+      "iddia": "Jaspers tezini adlarla kurar: Çin'de Konfüçyüs ile Lao Tzu yaşamış ve Çin felsefesinin okulları bu dönemde doğmuştur; Hindistan Upanişadlar'ı ve Buda'yı çıkarmı",
       "durum": "OK",
       "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, tanıma uymadıkları için dışarıda kalan figürlere örnek olarak İsa, Muhammed ve Akhenaton'u verir.",
+      "iddia": "Jaspers'e göre bu adların ima ettiği her şey, birkaç yüzyıl içinde Çin'de, Hindistan'da ve Batı'da neredeyse eşzamanlı olarak gelişmiştir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çağı, iki büyük imparatorluk çağı arasında bir ara dönem ve bir özgürlük soluğu olarak tarif eder; felsefeyi bir disiplin olarak doğuran dönemin de bu olduğunu ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Stuart-Glennie ile Jaspers, bu dönüşümün dinî kaygılardan bağımsız, nesnel bir tarihsel olgu olarak görülmesi gerektiğini ileri sürmüştü.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir dönem tanımının hangi figürleri dışarıda bıraktığının ad ad kaydedilmesi, atlasın bu haritayı neden açtığının dayanağıdır: bir kavramın sınırı, kapsadığı ka",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, bu eleştirilere rağmen Eksen Çağı'nın etkili bir fikir olmayı sürdürdüğünü ve birçok araştırmacının dinî ve felsefi söylemde derin değişimlerin gerçekte",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Eksen, Çağı"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bu, atlasın sıkça karşılaştığı bir durumdur: olgu üzerinde uzlaşma, açıklama üzerinde uzlaşmazlık.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Çağın kapsadığı söylenen düşünürlerden biri için tutulan kayıt, tarihleri geleneksel kaydıyla MÖ 551-479 olarak verir.",
+      "iddia": "yüzyıldan beri, başta Anquetil-Duperron olmak üzere birçok yazarca fark edilmişti; Jaspers, Victor von Strauß'un 1859 ve Ernst von Lasaulx'nun 1870 tarihli çalı",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "- 347 aralığını, doğum yılının yanındaki soru işaretiyle birlikte verir.",
+      "iddia": "Kitabın İngilizce çevirisi The Origin and Goal of History adıyla 1953'te Londra'da yayımlandı.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Jaspers'in (1883-1969) savaş sonrası yazıları, Stanford Felsefe Ansiklopedisi'nin maddesine göre açık biçimde hümanist bir öğreti olarak kurulmuş metinlerdir ve",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavramın akademik ağırlığı, 1975'te Daedalus dergisinde yeniden sunulmasından sonra genişledi; dönemin eşsiz biçimde dönüştürücü olduğu önerisi başka araştırmac",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k2",
-      "iddia": "İki düşünürün de tarihlerinin çekinceyle verilmesi, eşzamanlılık iddiasının hangi zeminde kurulduğunu görünür kılar.",
+      "anahtar": "k4",
+      "iddia": "Derlediği The Origins and Diversity of Axial Age Civilizations, Ocak 1983'te Bad Homburg'da toplanan bir konferans dizisinin ürünüydü ve 1986'da yayımlandı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eisenstadt derlemenin girişinde, Max Weber'in Çin, Hindistan ve eski Yahudilik üzerine karşılaştırmalı din incelemelerini dönemin önemi için bir arka plan olara",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Robert Bellah, 2011 tarihli Religion in Human Evolution kitabında anlatıyı Paleolitik'ten Eksen Çağı'na taşır ve kitabın doruğunu dört eksen bölümüne ayırır: es",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bellah ile Hans Joas'ın 2012'de derlediği ciltte iki editör, MÖ birinci binyılın ortasının insanlık kültür tarihinde önemli bir geçiş sayılabileceği ve bu dönem",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavramın çevresi akademiyle sınırlı da kalmadı: din tarihçisi Karen Armstrong dönemi 2006 tarihli The Great Transformation kitabında işledi ve kuram çok sayıda ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eleştirinin çekirdeği üç başlıkta toplanır: antik Yunanistan, Levant, Hindistan ve Çin'de birlikte doğduğu varsayılan düşünsel gelişmeler arasında gösterilebili",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Adı geçen üç örnekten İsa ile Muhammed pencerenin sonrasına, Akhenaton ise öncesine düşer; üçü de köklü dinî dönüşümlerle anıldığı hâlde çağın dışında tutulmala",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Diarmaid MacCulloch 2006'da tezi \"a baggy monster, which tries to bundle up all sorts of diversities\" diye niteledi ve Jaspers'in sonunda seçtiği MÖ 800-200 pen",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kapsamlı bir başka eleştiri 2013'te Iain Provan'ın Convenient Myths: The Axial Age, Dark Green Religion, and the World That Never Was kitabıyla geldi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Jaspers'in örnekleri arasında sayılan Zerdüşt için bir zamanlar çok daha erken tarihleri savunan Mary Boyce gibi araştırmacıların görüş değiştirdiği, onu Büyük ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Stanford Felsefe Ansiklopedisi, Konfüçyüs'ün tarihlerini, geleneksel kayıt olduğu notuyla, MÖ 551-479 biçiminde verir; aynı ansiklopedinin Platon maddesi doğum ",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Stanford Felsefe Ansiklopedisi, Konfüçyüs'ün tarihlerini, geleneksel kayıt olduğu notuyla, MÖ 551-479 biçiminde verir; aynı ansiklopedinin Platon maddesi doğum ",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Çekincelerin kendisi bir bulgudur: eşzamanlılık, kesin tarihler arasında kurulmuş bir çakışma değil, geleneksel kayıtlar ile soru işaretleri arasında kurulmuş b",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k3",
-      "iddia": "İki düşünürün de tarihlerinin çekinceyle verilmesi, eşzamanlılık iddiasının hangi zeminde kurulduğunu görünür kılar.",
+      "anahtar": "k11",
+      "iddia": "Çekincelerin kendisi bir bulgudur: eşzamanlılık, kesin tarihler arasında kurulmuş bir çakışma değil, geleneksel kayıtlar ile soru işaretleri arasında kurulmuş b",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Jan Assmann'ın itirazı, kavramı savunan külliyatın içinden gelir: Bellah ile Joas'ın derlediği 2012 tarihli The Axial Age and Its Consequences cildinde Assmann'",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Buradaki mit sözcüğü bir yakıştırma değil bir çözümleme aracıdır: Carmen Lea Dege'nin 2023'te Journal of the History of Ideas'ta çıkan incelemesi, kavramın mira",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Aynı incelemeye göre Jaspers okumalarında gözden kaçan iki nokta vardır: Jaspers, egemen anlatının aksine mitin logosla yer değiştirmediğini, biçim değiştirdiği",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Savaş sonrası bağlam bu okumaya zemin verir: Stanford maddesine göre Jaspers 1945 sonrası yapıtlarını, bu kitap başta olmak üzere, insanlığın birliğini öne alan",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Daniel Mullins ve arkadaşlarının 2018 tarihli incelemesi, savunucuların MÖ 800-200 arasına yerleştirdiği paralel kültürel gelişmeleri, Seshat adlı küresel tarih",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "2019'da yayımlanan çok yazarlı bir Eksen Çağı tarihinde benzer bir sonuç öne çıkar: yazarlar, MÖ son binyılın birkaç Avrasya odağına sıkıştırılmış, tanımlanabil",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Değişimin gerçekliğini kabul edip mekanizmayı maddi koşullarda arayan bir damar da vardır: Nicolas Baumard ve arkadaşlarının Current Biology'de 2015'te çıkan ma",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu konum, kavramı aktaran kaynağın genel gözlemiyle örtüşür: eleştirilere rağmen birçok araştırmacı, dinî ve felsefi söylemde derin değişimlerin gerçekten yaşan",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynağın kendisi de kavramın tarihsel geçerliliğinin tartışmalı olduğunu yazar ve bir hüküm vermez; bu atlasın on altı dönemlik omurgasında da bu ad bir dönem s",
+      "iddia": "Jaspers'i savunan, Zerdüşt'ün kayan tarihini ve pencerenin sonradan ayarlanmış olmasını; programı sürdüren, yapısal benzerliğin nasıl ölçüleceğini; kurgu diyen,",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Zerdüşt"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bugünkü tablo üç kademeli bir uzlaşma gibi görünüyor: değişimin yaşandığı üzerinde geniş, bunun tek bir çağ oluşturduğu üzerinde dar, nedenler üzerinde ise daha",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

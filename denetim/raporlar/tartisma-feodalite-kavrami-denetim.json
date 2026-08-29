@@ -1,9 +1,9 @@
 {
   "id": "tartisma-feodalite-kavrami",
   "gecis": 2,
-  "zaman": "2026-08-29T04:21:09.306Z",
+  "zaman": "2026-08-29T04:48:13.398Z",
   "govde_hash": "669790b47783",
-  "commit": "33a9638",
+  "commit": "58a10ea",
   "sonuclar": [
     {
       "anahtar": "k6",

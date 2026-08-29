@@ -34,6 +34,7 @@ ilgili:
   - olay-bengal-kitligi-1943
   - dusunur-ambedkar
   - dusunur-gandhi
+  - tartisma-soguk-savasin-baslangici
 okuma_onerisi: []
 serit:
   - bolge: kuresel

@@ -1,5 +1,5 @@
 ## aktor-olmek
-_Geçiş 2 — kaynak denetimi · 2026-08-28T19:43:18.965Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:07.142Z_
 
 - [OK]      k1 → "Olmek, Orta Amerika'nın körfez kıyısındaki alçak ve sulak ovada yerleşmiş bir düzendir."
 - [ATOMSUZ] k2 → "Düzen, bölgenin bilinen en erken büyük ölçekli yerleşimlerini kurdu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

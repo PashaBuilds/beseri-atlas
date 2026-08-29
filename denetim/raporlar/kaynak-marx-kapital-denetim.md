@@ -1,5 +1,5 @@
 ## kaynak-marx-kapital
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:31.050Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:17.486Z_
 
 - [OK]      k1 → "Kaynak, yazarı 1818-1883 arasına yerleştirir ve onun çağdaş kapitalist üretim tarzını anlamaya giderek daha ço…"
 - [ATOMSUZ] k1 → "Kaynak, bu üretim tarzının kârın acımasız takibiyle sürüklendiğini ve kökeninin sömürülen proletaryadan artı d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

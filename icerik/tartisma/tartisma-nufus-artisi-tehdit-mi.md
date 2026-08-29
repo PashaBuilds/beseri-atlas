@@ -33,6 +33,7 @@ ilgili:
   - donem-16
   - tartisma-demografik-donum-sonuclari
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - tartisma-tarim-devrimi-neden
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

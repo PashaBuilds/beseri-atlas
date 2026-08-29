@@ -1,67 +1,211 @@
 {
   "id": "tartisma-teknolojik-belirlenimcilik",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:28.589Z",
-  "govde_hash": "083888ce11a1",
-  "commit": "1d273c7",
+  "zaman": "2026-08-29T09:02:44.169Z",
+  "govde_hash": "30a8e59660d1",
+  "commit": "58a10ea",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, felsefenin teknolojiyi göz ardı etmemesi gerektiğini yazar ve çağdaş toplumu bir arada tutanın büyük ölçüde teknoloji olduğunu kaydeder; teknolojiyi yal",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k2",
+      "iddia": "Karl Marx 1847'de Proudhon'a karşı yazdığı polemikte kestirip atmıştı: \"El değirmeni size feodal beyli toplumu verir; buharlı değirmen, sanayi kapitalistli topl",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Aynı kaynak, son bir buçuk yüzyılda alanın çoğunlukla teknolojinin kendisini değil, teknolojinin toplum ve kültür bakımından anlamını konu edindiğini yazar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Çağdaş felsefenin başvuru kaydı, bugünkü toplumu bir arada tutanın büyük ölçüde teknoloji olduğunu, bunun yalnızca iktisadi değil kültürel ve giderek siyasal bi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Çağdaş felsefenin başvuru kaydı, bugünkü toplumu bir arada tutanın büyük ölçüde teknoloji olduğunu, bunun yalnızca iktisadi değil kültürel ve giderek siyasal bi",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Aynı yerde Mitcham'ın 1994'te bu türü insani teknoloji felsefesi diye adlandırdığı kaydedilir.",
+      "iddia": "Aynı felsefe kaydına göre teknoloji felsefesi, bir disiplin olarak yavaş yavaş kurulduğu son bir buçuk yüzyıl boyunca çoğunlukla teknolojinin kendisiyle değil, ",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Karşıt çerçeve için tutulan kayıt, özgün temel kavramları iki aşamada tutar: birinci aşama yorum esnekliğidir ve altında ilgili toplumsal gruplar, tasarım esnek",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Aynı kayıt, yaklaşımın bilim sosyolojisindeki Güçlü Program'ın mirası olduğunu ve simetri ilkesini ayrı bir alt başlıkta tuttuğunu yazar.",
+      "iddia": "Aynı sayfada Marx, insanların yeni üretici güçler kazanırken üretim tarzlarını, üretim tarzlarını değiştirirken de bütün toplumsal ilişkilerini değiştirdiğini y",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
-      "anahtar": "k2",
-      "iddia": "Bir teknolojinin anlamının tartışmaya açık sayılıp bir kapanma aşamasıyla sabitlenmesi, atlasın şu kuralının dayanağıdır: bir teknolojinin sonucu aktarılırken, ",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Karşıt çerçeve için tutulan kayıt, eleştiri başlığını ayrıca tutar; sonraki genişlemeler başlığı altında teknolojik çerçeve ile teknolojik nesnenin içeriğinin d",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "İki çerçevenin de kendi eleştirisini içermesi, tartışmanın kapanmadığını gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "İki çerçevenin de kendi eleştirisini içermesi, tartışmanın kapanmadığını gösterir.",
+      "anahtar": "k3",
+      "iddia": "Cohen, kuramı işlevsel açıklamaya dayalı biçimde yeniden kurarak savundu: iktisadi yapı üretici güçleri geliştirdiği için vardır ve geliştiremez hâle geldiğinde",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
+      "iddia": "Yeniden kuruluşun iskeleti iki tezdir: gelişme tezi, üretici güçlerin gelişmesinin bir yasa değil bir eğilim olduğunu söyler; öncelik tezi, iktisadi yapının nit",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kaydın kendi özet cümlesi bile ihtiyat payı bırakır: maddi hayat toplumsal hayatı belirler — ya da en azından koşullar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı kayıt bu okumanın evrensel kabulden uzak olduğunu da not eder: eleştirmenlere göre model fazla mekaniktir, diyalektiği görmezden gelir ve Cohen'in dayandığ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "1962'de yayımlanan Medieval Technology and Social Change, tutulan kayda göre şu zinciri savunur: üzengi ağır süvariyi ve atlı şok muharebesini mümkün kıldı; sek",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "1962'de yayımlanan Medieval Technology and Social Change, tutulan kayda göre şu zinciri savunur: üzengi ağır süvariyi ve atlı şok muharebesini mümkün kıldı; sek",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "White tezini dil değişimlerine ve silah buluntularına bağlar: fırlatma baltasının yerini at sırtından kullanılan kargı ile uzun kılıcın alması, ona göre değişim",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "On dokuzuncu yüzyıl Alman tarihçisi Heinrich Brunner, atlı savaşa geçişi 732'deki Tours çarpışmasının sonrasına yerleştirmiş; Kısa Pepin'in 758'de Saksonlardan ",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "White bu iskeleti devraldı ve ona aygıtı ekledi: kayda göre üzenginin en erken biçimleri Çin'de bulunur ve White aygıtın Avrupa'ya aktarımını bir teknoloji yayı",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Peter Sawyer ile Rodney Hilton, Nisan 1963 tarihli değerlendirmelerinde argümanın en ciddi zayıflığını üzenginin hiçbir değişimi açıklamaya yetmemesinde bulur; ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı kayıt, White'a yöneltilen spekülasyon, aşırı sadeleştirme ve karşıt kanıtı görmezden gelme suçlamalarını sıralar; üzengisiz ağır süvarinin — kataphraktları",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Temmuz 1984'te Twente Üniversitesi'nde toplanan atölyenin bildirileri, Wiebe Bijker, Thomas Hughes ve Trevor Pinch'in derlemesiyle 1987'de MIT Press'ten çıktı; ",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Programın çatı metni, Pinch ile Bijker'in bilim sosyolojisinin araçlarını teknolojiye taşıyan The Social Construction of Facts and Artifacts başlıklı makalesidi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Türkçe yazında programı değerlendiren Selin Kara'nın 2017 tarihli incelemesine göre teknolojik belirlenimcilik, teknolojiyle toplumsal değişim arasında mekanik ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Aynı inceleme, inşacı bakışın teknoloji ile toplum arasındaki etkileşime vurgusuyla \"daha bütüncül bir kavrayış\" sunduğu sonucuna varır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Felsefe kaydının aktarımına göre Winner 1980'de nesnelerin siyaset taşıdığını ileri sürdü: kimi teknolojiler özünde siyasaldır, çünkü belirli iktidar ve otorite",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Deneme 1986'da The Whale and the Reactor içinde kitaplaştı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kayıt teknoloji etiğindeki genel eğilimi de bu yönde tarif eder: teknolojiyi verili ve özerk sayan belirlenimcilikten, teknolojik gelişmeyi amaçlanmamış so",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Denemenin en çok anılan örneği, kitaplaşmış hâliyle dolaşımda olan Robert Moses anlatısıdır: New York'un imar ustasının Long Island'daki köprü altı yükseklikler",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "sorusu, Bruce Bimber'ın belirlenimciliğin üç yüzünü ayıran denemesi, Thomas Misa'nın toplu-teknik değişimi belirlenimcilikten geri alma çabası, Peter Perdue'nün",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Hughes aynı derlemede Technological Momentum başlıklı denemesiyle yer alır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Hughes'un başlığa taşıdığı kavram, yazında belirlenimi bir öz değil zamana bağlı bir evre sayan uzlaşma önerisi olarak anılır: genç sistem toplumsal seçime açık",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Eisenstein'ın 1979'da yayımlanan iki ciltlik incelemesi programını başlığında taşır: matbaa bir \"değişim etkeni\"dir ve erken modern Avrupa'nın iletişim ve kültü",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Katalog kaydının konu başlıkları bile iddianın alanını çizer: baskı, Reform, Rönesans, teknoloji ve uygarlık aynı satırda listelenir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Adrian Johns'un 1998 tarihli The Nature of the Book'u karşı programı yine başlıkla ilan eder: baskı ve bilgi \"yapım hâlinde\"dir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Johns'un çizgisinde basılı metne duyulan güven matbaanın verili bir özelliği değil, insanların emeğiyle kurulmuş bir başarıdır; iki kitabın başlıkları bile aynı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Johns'un çizgisinde basılı metne duyulan güven matbaanın verili bir özelliği değil, insanların emeğiyle kurulmuş bir başarıdır; iki kitabın başlıkları bile aynı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k12",
       "iddia": "İnternet kullanımı serisinde dünya değeri 2005'te yaklaşık yüzde 15,6, 2025'te yaklaşık yüzde 73,6'dır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Çağ ölçeğinde Marx'ın şeması duruyor ve o şemanın ne kadar katı okunacağı Marx yorumcularını hâlâ bölüyor.",
       "durum": "OK",
       "not": ""
     }

@@ -1,5 +1,5 @@
 ## olay-versailles-antlasmasi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:18.414Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:03.475Z_
 
 - [OK]      k1 → "maddesi, İtilaf ve ortak hükümetlerin, savaşın Almanya ve müttefiklerinin saldırganlığıyla kendilerine dayatıl…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "madde bir ahlak beyanı bölümünde değil, tazminat bölümünün başında durur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
