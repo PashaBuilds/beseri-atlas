@@ -244,3 +244,45 @@ yazıldı (KAPI 11 ve 18 ile aynı desen): defterdeki dosya borçtur ve
 özette görünür, defterde OLMAYAN yeni bir ihlal HATA verir. Defter
 yalnızca beyan yazılarak kısalır. Arendt ve Carr beyanları yazılarak
 defterden çıkarıldı; kalan borç 18 dosya.
+
+## K10 — 3000 makale hedefi: sayı, kalite hattının ölçülen hızıyla verilir
+
+**Sorun.** Kullanıcı en az 3000 makalelik bir atlas istiyor. Sözleşme ise
+"makale sayısını kaliteyi düşürerek artırma" diyor. İkisi aynı anda ancak
+hattın gerçek hızı ölçülürse konuşulabilir; hız ölçülmeden verilen her
+"olur" ya da "olmaz" cevabı uydurmadır.
+
+**Ölçüm.** Tam boru (üretim/onarım ajanı + kör hakem) dosya başına ölçülen
+maliyet: olay/düşünür tipinde ~300 bin jeton, kavram tipinde (600-1000
+kelime hedefi) ~200 bin. Bu, bu oturumda çalışan dalgalardan alınmıştır,
+tahmin değildir.
+
+**Aritmetiği açıkça yazmak gerekir.** 505'ten 3000'e çıkmak 2495 yeni
+makale demektir. En ucuz tipte bile (~200 bin) bu ≈ 500 milyon jetondur.
+Bu oturuma kalan bütçe ~15 milyon; yani hedefin **otuz katından fazlası**
+gerekir. Bu oturumda 3000'e çıkmanın hiçbir dürüst yolu yoktur.
+
+**Karar.** Sayı hedefi reddedilmez, ZAMANA YAYILIR ve şeffaflaştırılır:
+
+1. **Bu oturum sayıyı değil hızı teslim eder.** Kalite hattı, ölçüm
+   araçları ve genişleme kuyruğu kurulur; kaç makale yazıldıysa o
+   yazılır ve gerçek sayı raporda yazılır. "3000'e çıktık" denmez.
+
+2. **Ne yazılacağını sayı hedefi seçemez.** Konu seçimi
+   `araclar/bosluk.mjs` ölçümüne bağlandı: atlasın kendi içinde adı
+   geçip dosyası olmayan konular. Şu an 61 aday var (32 kilitli terim,
+   19 özel ad, 6 kütük adı) ve bunların her biri VAR OLAN bir dosyanın
+   yarım kalmasına neden oluyor. Bu kuyruk bittiğinde 3000'e giden yol
+   ayrı bir editoryal karar gerektirir (dönem × bölge kapsama planı) ve
+   o karar, kuyruk bitmeden verilemez.
+
+3. **Kalite eşiği pazarlık konusu değildir.** Hedefe yaklaşmak için
+   hakem katmanı atlanmaz, künye aralığı düşürülmez, uzunluk hedefi
+   dolguyla tutturulmaz. Sözleşmenin §"sayıyı kaliteyi düşürerek
+   artırma" maddesi, sayı hedefiyle çatıştığında sözleşme kazanır.
+
+**Gerekçe.** Bir atlasın değeri madde sayısı değil, maddelerinin
+dayanağıdır. 3000 zayıf madde, 500 sağlam maddeden kötü bir üründür ve
+üstelik geri dönülemez: dayanaksız yazılmış bir korpusu sonradan
+denetlemek, sıfırdan yazmaktan pahalıdır — bu oturumun 254 dosyalık
+onarım kuyruğu tam olarak bunun faturasıdır.
