@@ -237,6 +237,41 @@ whitelist:
       programlarin kendi kaydi. DIKKAT: slavevoyages.org istemci
       tarafinda ciziliyor (16 karakter doner) ve kunyeye YAZILAMAZ;
       kole ticareti sayilari icin havuzdaki tek kurumsal kanal budur.
+  - alan: www.legislation.gov.uk
+    tur: birincil
+    birincil_tur: belge
+    dogrulanabilir: false
+    kapsam: [britanya, hukuk]
+    not: >
+      UK yasa arsivi. 2026-08-29 olcumu (Government of India Act 1858,
+      ukpga/Vict/21-22/106): HTTP 200 doner, 4.724 karakter — ama govdenin
+      TAMAMI gezinme menusudur ("All Primary Legislation", "UK Public
+      General Acts"...); yasanin maddeleri sayfada YOK. 1988 oncesi
+      yasalar bu arsivde cogu zaman yalnizca kunye duzeyindedir.
+      1858 Yasasi icin calisan yol: hansard.parliament.uk (sunus ve
+      goruse) ya da archive.org'daki Statutes at Large cildi.
+  - alan: es.wikisource.org
+    tur: birincil
+    birincil_tur: eser
+    dogrulanabilir: true
+    kapsam: [latin-amerika, ispanyolca, modern]
+    not: >
+      Ispanyolca Vikikaynak. 2026-08-29 olcumu: Carta de Jamaica sayfasi
+      200 ve 100.793 temiz karakter, JS gerekmiyor, bot korumasi yok;
+      sayfa metnin IKI kopyasini tasiyor (transkripsiyon + "autentica").
+      Latin Amerika bagimsizligi metinleri icin en/ar/zh wikisource
+      karsiliklarinin bulunmadigi yerde calisan tek kanal.
+  - alan: journals.openedition.org
+    tur: akademik
+    dogrulanabilir: false
+    kapsam: [fransizca, akademik]
+    not: >
+      OpenEdition Journals. 2026-08-29 olcumu: HTTP 200 doner ama govde
+      yalnizca 492 karakterlik Anubis bot filtresi sayfasidir ("This site
+      uses Anubis, a tool which filters out harmful bots"). Acik erisim
+      olmasina ragmen programatik dogrulama YAPILAMAZ. Ayni makalenin
+      api.crossref.org kaydi denenmeli; oradaki `abstract` alani cogu
+      zaman dolu.
   - alan: ctext.org
     tur: birincil
     birincil_tur: eser

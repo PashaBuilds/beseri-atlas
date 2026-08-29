@@ -44,6 +44,12 @@ const USTUNLUK_YANLIS_POZITIF = [
   /\bilk\s+(yarı|yari|bölüm|bolum|sınır|sinir|adım|adim|cümle|cumle|paragraf|kısım|kisim|aşama|asama)/i,
   /\bilk\s+(on|yüz|bin|iki|üç|dört|beş|birkaç|\d+)\b/i,
   /\bilk\s+günah\b/i,
+  // Zamansal ve ordinal kullanimlar (dort hakemin bildirdigi somut ornekler)
+  /\bilk\s+(gün|yıl|ay|hafta|an|kazanç|bakış|duy|aşama)/i,
+  /\bilk\s+(madde|fıkra|cilt|baskı|sayı)/i,
+  /\bilk\s+(kez|olarak)\s+(?!dünyada|tarihte)/i,
+  /\btek\s+(cümle|kelime|sözcük|satır|sayfa|paragraf)/i,
+  /\btek\s+yolu\b/i,
   /\btek\s+seferlik\b/i,
   /\btek\s+kişiydi\b/i,
   /\bilkel\b/i,
@@ -96,8 +102,18 @@ export function itirazAdaylari(m) {
     }
 
     // 3. Üstünlük/öncelik iddiası
+    // ATIF CERCEVESI VE TIRNAK MUAFIYETI (2026-08-29: DORT ayri hakem ayni
+    // kusuru bildirdi). Bir cumle kaynaga atfediliyorsa ya da tirnak
+    // iciyse, icindeki "ilk/tek" makalenin ustunluk iddiasi degil
+    // KAYNAGIN KENDI SOZUDUR. Gercek ornekler: belgenin kendi ifadesi
+    // "our first Viceroy"; aktarilan konusmacinin "tek yolu"; kaynagin
+    // "en buyuk kayip sayar" hukmu. Bunlari itiraz saymak, hakemin ayni
+    // dort itirazi her dosyada elle reddetmesi demekti.
+    const tirnakIci = /["“”«»]/.test(t);
+    const atifFiili = /\b(göre|yazar|kaydeder|sayar|gösterir|belirtir|aktarır|der|dedi|söyler|savunur|bildirir)\b/i.test(t);
     const ust = USTUNLUK.exec(t);
-    if (ust && refs.length > 0 && !YUMUSATMA.test(t) && !ustunlukSahteMi(t)) {
+    if (ust && refs.length > 0 && !YUMUSATMA.test(t) && !ustunlukSahteMi(t)
+        && !tirnakIci && !atifFiili) {
       ekle('dusuk', 'ustunluk-iddiasi', t,
         `"${ust[0]}" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.`,
         'Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.');
