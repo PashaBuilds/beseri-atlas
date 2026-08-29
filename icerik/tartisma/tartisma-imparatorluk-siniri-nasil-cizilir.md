@@ -49,6 +49,7 @@ ilgili:
   - aktor-samoa-kralligi
   - kaynak-tordesillas-antlasmasi
   - kaynak-afrika-birligi-sarti
+  - aktor-majapahit
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

@@ -1,0 +1,737 @@
+{
+  "id": "aktor-varsova-pakti",
+  "govde_hash": "302b318305ae",
+  "commit": "b8530ef",
+  "zaman": "2026-08-29",
+  "hakem": "TASLAK-yazar",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Antlaşmayı Arnavutluk, Bulgaristan, Macaristan, Alman Demokratik Cumhuriyeti, Polonya, Romanya, Sovyetler Birliği ve Çekoslovakya imzaladı; onay belgeleri Polonya hükümetine tevdi edildi ve metin, son onayın yatırıldığı 6 Haziran 1955'te yürürlüğe girdi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Imzaci listesi, tevdi makami ve yururluk tarihi antlasma metninin dipnotundan; son onay Arnavutluk'unkidir."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Örgütün resmî adı Varşova Antlaşması Örgütü'ydü; \"Varşova Paktı\" sonradan yerleşen kısa addır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak orgutun adini Warsaw Treaty Organization, kisa adini Warsaw Pact diye verir."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "İttifakın otuz altı yıllık ömrünü tuhaf kılan şey şudur: antlaşmanın merkezine yerleştirilen durum, Avrupa'da bir üyeye yönelik silahlı saldırıdır; oysa Pakt adına yürütülen askerî harekâtlar üye devletlerin kendilerine yöneldi.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cumlenin iki yarisi ayri ayri kaynaklidir: 4. maddenin tanimladigi durum k1'de, harekatlarin uyelere yonelmesi k4'te. Karsitligin kendisi makalenin cercevesidir."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Karşı tarafın dışişleri bakanlığının kendi kaydı bunu açıkça söyler: üyeler birbirlerini savunmaya söz vermiş, iç işlerine karışmama ilkesini vurgulamış ve görünürde ortak karar almak üzere örgütlenmiş olsa da kararların çoğunu Sovyetler Birliği verdi; Pakt 1956'da Macaristan'da, 1968'de Çekoslovakya'da ve 1981'de Polonya'da halk muhalefetini bastırmak için kullanıldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Karsi blogun disisleri bakanliginin kendi kaydidir; taraf beyani olarak okunmali."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Aynı kayıt 1955'teki Sovyet hesabını da ikiye ayırır: yeniden silahlanan Batı Almanya'yı çevrelemek ve ile eşit taraf olarak pazarlık edebilmek kadar, Doğu Avrupa başkentlerini Moskova'ya daha sıkı bağlamak.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni taraf kaydinin Sovyet saikleri degerlendirmesi."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Yardım yükümlülüğünü kuran 4. madde yalnızca Avrupa'daki silahlı saldırıyı kapsar; saldırıya uğrayan tarafa yardım, yardımı yapacak devletin \"gerekli gördüğü\" araçlarla — silahlı kuvvet dahil — verilir, yani otomatik değil takdire bağlıdır; alınan tedbirler Güvenlik Konseyi'ne bildirilir ve Konsey barışı sağlayacak önlemleri alır almaz derhal durdurulur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "4. maddenin sinirlayici yan cumleleri (Avrupa kaydi, 'deems necessary' takdiri, Guvenlik Konseyi kosulu) metne tasindi."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "5. madde bir Birleşik Komutanlık kurar, ama bu komutanlığa hangi kuvvetlerin verileceğini tarafların kendi aralarındaki anlaşmaya bırakır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "5. maddedeki 'by agreement among the Parties' sinirlayicisi korundu."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "6. madde tek ortak siyasi organı, Siyasi Danışma Komitesi'ni oluşturur; her taraf burada bir hükümet üyesiyle ya da özel olarak atanmış bir temsilciyle bulunur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "8. madde ise tarafların birbirlerinin bağımsızlığına, egemenliğine ve iç işlerine karışmama ilkesine bağlı kalacağını yazar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "8. madde bagimsizlik, egemenlik ve ic islere karismama ilkelerini birlikte sayar."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Ve Avrupa'da bir toplu güvenlik sistemi kurulup Genel Avrupa Toplu Güvenlik Antlaşması yürürlüğe girerse, ki taraflar bunun için sarsılmaz biçimde çalışacaklarını beyan eder, bu antlaşma o günden itibaren hükümsüz kalacaktır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "11. maddenin ucuncu fikrasi; taraflarin 'unswervingly strive' beyani da tasindi."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "9. madde de üyeliği toplumsal ve siyasal sistemi ne olursa olsun her devlete açık tutuyordu.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "9. madde."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Avalon derlemesinin yayımladığı çeviri Sovyet dergisi New Times'ın 21 Mayıs 1955 tarihli sayısından alınmıştır ve derlemenin kendi notu, Paktın Birleşmiş Milletler Sekretaryası'na tescil edildiğini ama resmî İngilizce metnin Antlaşma Serisi'nde henüz basılmadığını kaydeder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Avalon'un kendi dipnotu: New Times No. 21, 21 Mayis 1955 ve BM Antlasma Serisi kaydi."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Yani Avalon'da duran İngilizce metin, tarafın kendi yayın organından aktarılmış bir çeviridir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynagin dipnotundan cikarilan degerlendirme; kaynak metnin taraf yayinindan geldigini soyler, 'ceviridir' nitelemesi bu bilgiden turetilmistir."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Rusya Bilimler Akademisi Dünya Tarihi Enstitüsü'nden Nikita Pivovarov'un Sovyetler Birliği Komünist Partisi Merkez Komitesi belgelerine dayanan incelemesi askerî bütünleşmeyi üç evreye ayırır: 1945-1950'de ikili askerî bağların kurulması, 1951-1953'te ilk devletlerarası yapı olan Koordinasyon Komitesi ve 1953-1955'te askerî üretimin kısmen dönüştürülmesiyle uzmanlaşmanın güçlenmesi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Pivovarov'un uc evreli donemlendirmesi."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Sosyalist kamp 1950'lerin ortasına gelindiğinde savunma sanayii bakımından üretici ülkelere — Sovyetler Birliği, Çekoslovakya, Polonya, Macaristan — ve tüketici ülkelere — Bulgaristan, Romanya, Alman Demokratik Cumhuriyeti, Arnavutluk — ayrılmıştı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uretici ve tuketici ulke listeleri kaynaktan birebir alindi; sekiz ulkenin tamami sayildi."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "İthalat ve ihracat ile sanayi işbirliği ikili anlaşmalarla düzenleniyor, savunmanın genel ilkeleri ise Siyasi Danışma Komitesi'nde görüşülüp Birleşik Silahlı Kuvvetler Başkomutanlığı ve Karargâhı tarafından onaylanıyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Pivovarov'un çekincesini de taşımak gerekir: Sovyetler Birliği'nin askerî bütünleşmedeki baskın rolüne rağmen, ona göre Kremlin tek tek projelerin geliştirilmesi konusunda müttefiklerine ciddi baskı uygulamadı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynagin kendi cekincesi metne tasindi; yazar Rusya Bilimler Akademisi'ndendir ve bu degerlendirme kurumsal konumuyla birlikte okunmali."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Paralel Tarih Projesi'nin sekiz kurucu üyenin tamamının arşivlerinden derlediği 193 belge, ittifakın içeriden nasıl işlediğini gösteren ilk toplu kayıttır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "193 belge, sekiz kurucu uyenin tamamindan; sayi derlemenin tanitim sayfasindan."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Derlemeye göre 1960'lardan başlayarak savunma harekâtı planlarından Batı Avrupa'nın derinliklerine saldırı planlarına geçildi; nükleer silahların ilk kullanımını başlatma planları yapıldı; derlemenin kendi ifadesiyle bunun amacı görünüşe göre NATO saldırganlığını önlemekti — yani niyet belgelerden kesin biçimde okunmuyor.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin 'ostensibly/apparently' cekincesi metne tasindi; niyet iddiasi kesin degildir."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Sovyet planlamacıları geleneksel bir çatışmanın nükleere dönmesini bekliyor ve böyle bir savaşı verip kazanmayı tasarlıyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Üye devletler Sovyet hâkimiyetinden ve üzerlerine yıkılan eşitsiz askerî yükten derin bir hoşnutsuzluk duyuyor, Doğu Avrupalılar nükleer savaş planlarını beyhude buluyor ve kendi ülkelerinin Sovyetler Birliği'nden çok daha ağır sonuç göreceğini kaydediyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Derlemenin bulgu listesindeki iki maddesi (hosnutsuzluk; nukleer planin beyhudeligi) birlikte verildi."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Polonyalı liderin planlamacılara verdiği karşılık derlemenin akılda kalan cümlesidir: kimse nükleer bir savaşta \"beş altı gün içinde Paris'te bir fincan kahve\" içilebileceğini sanmamalıdır.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Derlemede Ingilizce aktarilan Polonyali liderin sozunun Turkce karsiligi; ad verilmez, kaynak da vermez."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "1970'lerin sonundan itibaren blok askerî dengeyi, Batı'nın kendi gördüğünden çok daha fazla Batı lehine okuyordu; özellikle teknoloji bakımından.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Derlemenin askeri denge degerlendirmesi."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Derleme sonucu bir çekinceyle bağlar: siyasi liderlik planların hangi koşulda uygulanacağına karar yetkisini elinde tuttu ve bunları uygulamaya hiç kalkışmadı, ama bir krizin denetimden çıkma ihtimali o zaman sanıldığından daha büyük olmuş olabilir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynagin 'may have been greater than imagined' kaydi olasilik kipiyle korundu."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "4 Kasım 1956 sabahı saat 4.15'te Sovyet kuvvetleri, on iki gün önce başlamış olan halk ayaklanmasını bastırmak üzere Macaristan'a büyük bir saldırı başlattı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Saat ve tarih derlemenin acilis paragrafindan."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Üç gün önce, 1 Kasım'da Başbakan İmre Nagy Macaristan'ın Varşova Paktı'nı reddettiğini ilan etmiş ve ülkenin tarafsızlığının kurulması için Birleşmiş Milletler'den yardım istemişti.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Antlaşmanın 11. maddesi fesih için Polonya hükümetine bir yıl önceden bildirim öngörüyordu; Nagy'nin 1 Kasım ilanı bu usulü izlemedi.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "11. maddenin bildirim usulu k1'de; Nagy'nin 1 Kasim ilani k3'te. Ikisinin karsilastirilmasi makalenin cikarimidir, kaynaklarin beyani degil."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "31 Ekim'de Pravda'da yayımlanan bildiri Sovyet hükümetinin Macar hükümeti ve diğer Varşova Antlaşması üyeleriyle Sovyet birliklerinin Macaristan topraklarındaki varlığını görüşmeye hazır olduğunu duyuruyordu; bildirinin çıktığı gün Sovyet liderliği kararını tümüyle tersine çevirdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Pravda bildirisi ve ayni gun alinan ters karar."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Gizliliği kaldırılmış belgelerden çıkan etkenleri derleme sayarak verir: ayaklanmanın Macaristan'da komünist iktidarı doğrudan tehdit ettiği kanısı — birkaç gün önce Gomulka ve Polonyalı komünistlerin ortaya koyduğu meydan okumanın aksine, ki o Kremlin'in hâkimiyetini hedefliyordu ama komünist sistemi değil; karşılık verilmemesinin Batı'ca zayıflık sayılacağı, özellikle 29 Ekim'de başlayan İngiliz, Fransız ve İsrail saldırısından sonra; komünizm karşıtı duyguların yayılmasının komşu uydu yöneticilerini tehdit etmesi; ve Sovyet parti üyelerinin güç kullanılmamasını anlamayacağı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin saydigi dort etkenin tamami yazildi; Gomulka karsilastirmasindaki ayrim da korundu."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Kurucu metindeki karışmama ilkesiyle üyenin topraklarındaki harekât arasındaki açı, karşı bloğun kaydının saydığı üç örneğin ilkidir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Karismama ilkesi k1'de, uc ornekli liste k4'te; 'ilki' nitelemesi k4'un siralamasina dayanir."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Zdeněk Veselý bu adlandırmaya itiraz eder: müdahale kararı Paktın en yüksek organı olan Siyasi Danışma Komitesi'nin hiçbir toplantısında alınmamıştır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Veselý'nin ana savi; destek Crossref abstract'iyla sinirlidir."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Kararı Sovyetler Birliği, Bulgaristan, Macaristan, Polonya ve Doğu Almanya'nın en üst düzey temsilcileri verdi; öteki üyeler, yani Romanya, Arnavutluk ve özellikle müdahalenin kurbanı olan Çekoslovakya sürecin dışında kaldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "Veselý'ye göre bu, Paktın bir eylemi değil, Pakt adına hareket ediyormuş gibi yapan ayrı bir eylemdi ve Paktın ilan edilmiş ilkelerine aykırıydı.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin kendi sonucu."
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Bloğun tekil olmadığını gösteren de bu ayrımdır: aynı ittifakın iki üyesi harekâtın dışında durdu.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Romanya ve Arnavutluk'un disarida kalmasi kaynakta var; 'blogun tekil olmadigi' cikarimi makaleye aittir."
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Leon Romaniecki'nin 1970 tarihli incelemesi doktrinin kaynağını Sovyet Dışişleri Bakanı Gromiko'nun 27 Haziran 1968'de Yüksek Sovyet oturumundaki beyanına bağlar: sosyalist topluluk, parçalarından birinin ayrılma girişimine müsamaha etmeyecektir.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Romaniecki doktrinin kaynagini Gromiko'nun 27 Haziran 1968 beyanina baglar."
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "Brejnev Doktrini adıyla anılan formülasyonun kendisi ise 26 Eylül 1968'de Pravda'da yayımlanan makalede kuruldu — yani müdahaleden bir aydan uzun süre sonra.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Pravda makalesinin tarihi 26 Eylul 1968; mudahale Agustos 1968'dir."
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "Doktrin her sosyalist devletin sınırlı egemenliğini teyit etmeyi ve Varşova Paktı üyelerinin Çekoslovakya'daki askerî müdahalesini haklı göstermeyi amaçlıyordu; Pravda makalesi Çekoslovakya'nın kendi kaderini tayin etmesinin sosyalist topluluğun temel çıkarlarını zedelediğini ileri sürüyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "Mihail Gorbaçov'un 1985'te iktidara geldiği sırada Pakt hâlâ sağlam bir askerî ittifaktı: Avrupa'da büyük ölçekli bir savaş yürütebilecek durumdaydı, Doğu Avrupa'da Sovyet hegemonyasının ve ortodoks komünist rejimleri iktidarda tutmanın aracıydı ve yıllar içinde etkili bir siyasi eşgüdüm ve danışma mekanizmasına da dönüşmüştü.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kramer'in ozetinden; tam metin kapali erisim."
+    },
+    {
+      "iddia_id": "i39",
+      "cumle": "Nisan 1985'te liderler Varşova'da toplanıp Paktı otuz yıl daha yeniledi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i40",
+      "cumle": "Altı yıl sonra ittifak dağıtıldı; Mark Kramer bunu 1989-1990'daki siyasi dönüşümün örgütü işlevsiz kılmasına bağlar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i41",
+      "cumle": "Komünizmin 1989-1990'da tasfiye edilmesinin ardından yeni hükümetler bağımsızlıklarını pekiştirmek zorundaydı; oysa Sovyet hâkimiyetinin temel kurumları — Pakt, Karşılıklı Ekonomik Yardım Konseyi, dört büyük Sovyet asker kontenjanı ve blok içi bütünleşmenin çeşitli mekanizmaları — yerinde duruyordu ve Sovyet liderleri bunların çoğunu bir biçimde korumayı umuyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Békés'in saydigi dort kurum da yazildi."
+    },
+    {
+      "iddia_id": "i42",
+      "cumle": "Bölgedeki yetkililer girişimi kendilerinin alması gerektiğini kısa sürede anladı: bir baskı grubu gibi davranan Macaristan ve Çekoslovakya'nın, sonra da Polonya'nın çabasıyla 1991'in ilk yarısında ittifakın askerî yapılarının sökülmesi, 1991 ortasına kadar da hem Paktın hem Konsey'in feshi konusunda anlaşmaya varıldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Itkinin sirasi (Macaristan ve Cekoslovakya, sonra Polonya) kaynaktaki gibi korundu."
+    },
+    {
+      "iddia_id": "i43",
+      "cumle": "Görünür adımlar bunu doğrular: Eylül 1990'da Alman Demokratik Cumhuriyeti birleşme hazırlığında Pakt'tan ayrıldı, ekime kadar Çekoslovakya, Macaristan ve Polonya bütün Varşova Paktı tatbikatlarından çekildi ve örgüt 1991'in mart ve temmuz aylarında resmen feshedildi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i44",
+      "cumle": "Aynı Amerikan kaydı feshi Sovyetler Birliği'nin dağılmasının ardına yerleştirir; kendi verdiği mart ve temmuz 1991 tarihleriyle bu sıralama uyuşmaz.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynagin kendi metnindeki tutarsizlik: fesih tarihlerini verirken sonuc cumlesini Sovyetler Birligi'nin dagilmasinin ardina koyar."
+    },
+    {
+      "iddia_id": "i45",
+      "cumle": "Békés'in arşiv temelli kronolojisi de feshi Birliğin çözülmesinin sonucu değil, üye devletlerin girişiminin sonucu sayar.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i46",
+      "cumle": "Antlaşma metnine bakan bir okur karşılıklı yardım, danışma ve iç işlerine karışmama taahhütleri bulur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kapanis cercevesi; govdede zaten kaynaklanmis 1., 3. ve 8. madde olgularini toplar."
+    },
+    {
+      "iddia_id": "i47",
+      "cumle": "Karşı bloğun kaydına bakan okur, kararların Moskova'da alındığı ve örgütün üç ayrı ülkede halk muhalefetini bastırmakta kullanıldığı bir yapı görür.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kapanis cercevesi; k4'un govdede kullanilan iki olgusunu toplar."
+    },
+    {
+      "iddia_id": "i48",
+      "cumle": "Paktın kendi arşivlerine bakan okur ise üçüncü bir tablo bulur: sonsuza dek kapalı kalacağı sanılan belgelerden çıkan, Batı Avrupa'ya saldırı planları yapan, ama üyeleri kendi aralarında Sovyet hâkimiyetinden ve nükleer planlamanın gerçekdışılığından yakınan bir ittifak.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kapanis cercevesi; k2'nin govdede kullanilan bulgularini toplar."
+    },
+    {
+      "iddia_id": "i49",
+      "cumle": "Adlandırma da hâlâ çekişmelidir: 1968 harekâtı bir Varşova Paktı müdahalesi diye anılmayı sürdürüyor, oysa kararın Paktın organlarında alınmadığını gösteren kayıt ortadadır; sınırlı egemenlik gerekçesi ise müdahaleden sonra yazılmış bir metinden gelir.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Adlandirma cekismesinin iki yarisi ayri kaynaklidir."
+    },
+    {
+      "iddia_id": "i50",
+      "cumle": "Örgütün otuz altı yılı, kurucu metnin taahhütleriyle uygulamanın açısında geçti; bu açıyı 1955'te fark etmek zordu, çünkü metnin kendisi yumuşaktı ve yükümlülüklerin çoğunu tarafların takdirine bırakıyordu.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Yorum cumlesi; metnin yumusakligi 4., 5. ve 11. maddelerin sinirlayicilarindan cikarilmistir."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 45,
+    "kismi": 5,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
+}

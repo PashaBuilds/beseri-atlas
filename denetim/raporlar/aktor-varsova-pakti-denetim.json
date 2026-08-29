@@ -1,61 +1,325 @@
 {
   "id": "aktor-varsova-pakti",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:52.005Z",
-  "govde_hash": "f80d86a3ca3a",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T17:42:34.804Z",
+  "govde_hash": "302b318305ae",
+  "commit": "b8530ef",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Bu pakt, atlasta karşıtıyla birlikte tanımlanır: kıta iki askerî bloka bölünmüştü ve NATO ile Varşova Paktı devletlerinin 1988'deki dağılımı dönemin standart ha",
+      "iddia": "Antlaşmayı Arnavutluk, Bulgaristan, Macaristan, Alman Demokratik Cumhuriyeti, Polonya, Romanya, Sovyetler Birliği ve Çekoslovakya imzaladı; onay belgeleri Polon",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Örgütün resmî adı Varşova Antlaşması Örgütü'ydü; \"Varşova Paktı\" sonradan yerleşen kısa addır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Varşova, Antlaşması, Örgütü, Paktı"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, dönemin kapanışını Gorbaçov'un reformları, ilişkilerde yumuşama, Doğu Avrupa'nın ayrılması ve Sovyet dağılması başlıklarıyla verir.",
+      "iddia": "İttifakın otuz altı yıllık ömrünü tuhaf kılan şey şudur: antlaşmanın merkezine yerleştirilen durum, Avrupa'da bir üyeye yönelik silahlı saldırıdır; oysa Pakt ad",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bu dört başlığın üçü doğrudan bu bloğun kendi içine aittir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Blok yapısına dayanan bütün kurumlar — ittifaklar, sınır rejimleri, kalkınma yardımı mekanizmaları — dayanaklarını kaybeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, dönemin ilk evresini 1947-1953 arasına yerleştirir ve Çekoslovakya darbesi ile iki Alman devletinin kurulmasını aynı bölümde sayar.",
+      "anahtar": "k4",
+      "iddia": "Karşı tarafın dışişleri bakanlığının kendi kaydı bunu açıkça söyler: üyeler birbirlerini savunmaya söz vermiş, iç işlerine karışmama ilkesini vurgulamış ve görü",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bir ittifakın kurumsal ömrünün, üzerine kurulduğu siyasi düzenle birlikte bitmesi, onu bir savunma anlaşmasından çok bir düzen bileşeni yapar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bloğun merkezindeki devletin kuruluşu daha eskidir: 7 Kasım 1917'de (eski takvimle 25 Ekim) Petrograd'da yaşanan olayın sonuçları arasında Sovyet Rusya'nın başl",
+      "anahtar": "k4",
+      "iddia": "Aynı kayıt 1955'teki Sovyet hesabını da ikiye ayırır: yeniden silahlanan Batı Almanya'yı çevrelemek ve ile eşit taraf olarak pazarlık edebilmek kadar, Doğu Avru",
       "durum": "OK",
       "not": "2 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Rekabet 1947 ile 1991 arasındaki jeopolitik mücadeleyi anlatır ve kırk dört yıl dokuz ay sürmüştür.",
+      "iddia": "Yardım yükümlülüğünü kuran 4. madde yalnızca Avrupa'daki silahlı saldırıyı kapsar; saldırıya uğrayan tarafa yardım, yardımı yapacak devletin \"gerekli gördüğü\" a",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "5. madde bir Birleşik Komutanlık kurar, ama bu komutanlığa hangi kuvvetlerin verileceğini tarafların kendi aralarındaki anlaşmaya bırakır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Birleşik, Komutanlık"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "6. madde tek ortak siyasi organı, Siyasi Danışma Komitesi'ni oluşturur; her taraf burada bir hükümet üyesiyle ya da özel olarak atanmış bir temsilciyle bulunur.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Siyasi, Danışma, Komitesi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "8. madde ise tarafların birbirlerinin bağımsızlığına, egemenliğine ve iç işlerine karışmama ilkesine bağlı kalacağını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ve Avrupa'da bir toplu güvenlik sistemi kurulup Genel Avrupa Toplu Güvenlik Antlaşması yürürlüğe girerse, ki taraflar bunun için sarsılmaz biçimde çalışacakları",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "9. madde de üyeliği toplumsal ve siyasal sistemi ne olursa olsun her devlete açık tutuyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Avalon derlemesinin yayımladığı çeviri Sovyet dergisi New Times'ın 21 Mayıs 1955 tarihli sayısından alınmıştır ve derlemenin kendi notu, Paktın Birleşmiş Millet",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yani Avalon'da duran İngilizce metin, tarafın kendi yayın organından aktarılmış bir çeviridir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Rusya Bilimler Akademisi Dünya Tarihi Enstitüsü'nden Nikita Pivovarov'un Sovyetler Birliği Komünist Partisi Merkez Komitesi belgelerine dayanan incelemesi asker",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Sosyalist kamp 1950'lerin ortasına gelindiğinde savunma sanayii bakımından üretici ülkelere — Sovyetler Birliği, Çekoslovakya, Polonya, Macaristan — ve tüketici",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "İthalat ve ihracat ile sanayi işbirliği ikili anlaşmalarla düzenleniyor, savunmanın genel ilkeleri ise Siyasi Danışma Komitesi'nde görüşülüp Birleşik Silahlı Ku",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Siyasi, Danışma, Komitesi, Birleşik"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Pivovarov'un çekincesini de taşımak gerekir: Sovyetler Birliği'nin askerî bütünleşmedeki baskın rolüne rağmen, ona göre Kremlin tek tek projelerin geliştirilmes",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Paralel Tarih Projesi'nin sekiz kurucu üyenin tamamının arşivlerinden derlediği 193 belge, ittifakın içeriden nasıl işlediğini gösteren ilk toplu kayıttır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Derlemeye göre 1960'lardan başlayarak savunma harekâtı planlarından Batı Avrupa'nın derinliklerine saldırı planlarına geçildi; nükleer silahların ilk kullanımın",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sovyet planlamacıları geleneksel bir çatışmanın nükleere dönmesini bekliyor ve böyle bir savaşı verip kazanmayı tasarlıyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Üye devletler Sovyet hâkimiyetinden ve üzerlerine yıkılan eşitsiz askerî yükten derin bir hoşnutsuzluk duyuyor, Doğu Avrupalılar nükleer savaş planlarını beyhud",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Polonyalı liderin planlamacılara verdiği karşılık derlemenin akılda kalan cümlesidir: kimse nükleer bir savaşta \"beş altı gün içinde Paris'te bir fincan kahve\" ",
       "durum": "OK",
       "not": ""
     },
     {
+      "anahtar": "k2",
+      "iddia": "1970'lerin sonundan itibaren blok askerî dengeyi, Batı'nın kendi gördüğünden çok daha fazla Batı lehine okuyordu; özellikle teknoloji bakımından.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Derleme sonucu bir çekinceyle bağlar: siyasi liderlik planların hangi koşulda uygulanacağına karar yetkisini elinde tuttu ve bunları uygulamaya hiç kalkışmadı, ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır.",
+      "iddia": "4 Kasım 1956 sabahı saat 4.15'te Sovyet kuvvetleri, on iki gün önce başlamış olan halk ayaklanmasını bastırmak üzere Macaristan'a büyük bir saldırı başlattı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Üç gün önce, 1 Kasım'da Başbakan İmre Nagy Macaristan'ın Varşova Paktı'nı reddettiğini ilan etmiş ve ülkenin tarafsızlığının kurulması için Birleşmiş Milletler'",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Antlaşmanın 11. maddesi fesih için Polonya hükümetine bir yıl önceden bildirim öngörüyordu; Nagy'nin 1 Kasım ilanı bu usulü izlemedi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Antlaşmanın 11. maddesi fesih için Polonya hükümetine bir yıl önceden bildirim öngörüyordu; Nagy'nin 1 Kasım ilanı bu usulü izlemedi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "31 Ekim'de Pravda'da yayımlanan bildiri Sovyet hükümetinin Macar hükümeti ve diğer Varşova Antlaşması üyeleriyle Sovyet birliklerinin Macaristan topraklarındaki",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Gizliliği kaldırılmış belgelerden çıkan etkenleri derleme sayarak verir: ayaklanmanın Macaristan'da komünist iktidarı doğrudan tehdit ettiği kanısı — birkaç gün",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kurucu metindeki karışmama ilkesiyle üyenin topraklarındaki harekât arasındaki açı, karşı bloğun kaydının saydığı üç örneğin ilkidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kurucu metindeki karışmama ilkesiyle üyenin topraklarındaki harekât arasındaki açı, karşı bloğun kaydının saydığı üç örneğin ilkidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Zdeněk Veselý bu adlandırmaya itiraz eder: müdahale kararı Paktın en yüksek organı olan Siyasi Danışma Komitesi'nin hiçbir toplantısında alınmamıştır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Paktın, Siyasi, Danışma, Komitesi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kararı Sovyetler Birliği, Bulgaristan, Macaristan, Polonya ve Doğu Almanya'nın en üst düzey temsilcileri verdi; öteki üyeler, yani Romanya, Arnavutluk ve özelli",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Veselý'ye göre bu, Paktın bir eylemi değil, Pakt adına hareket ediyormuş gibi yapan ayrı bir eylemdi ve Paktın ilan edilmiş ilkelerine aykırıydı.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Paktın, Pakt"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bloğun tekil olmadığını gösteren de bu ayrımdır: aynı ittifakın iki üyesi harekâtın dışında durdu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Leon Romaniecki'nin 1970 tarihli incelemesi doktrinin kaynağını Sovyet Dışişleri Bakanı Gromiko'nun 27 Haziran 1968'de Yüksek Sovyet oturumundaki beyanına bağla",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Brejnev Doktrini adıyla anılan formülasyonun kendisi ise 26 Eylül 1968'de Pravda'da yayımlanan makalede kuruldu — yani müdahaleden bir aydan uzun süre sonra.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Doktrin her sosyalist devletin sınırlı egemenliğini teyit etmeyi ve Varşova Paktı üyelerinin Çekoslovakya'daki askerî müdahalesini haklı göstermeyi amaçlıyordu;",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Mihail Gorbaçov'un 1985'te iktidara geldiği sırada Pakt hâlâ sağlam bir askerî ittifaktı: Avrupa'da büyük ölçekli bir savaş yürütebilecek durumdaydı, Doğu Avrup",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Nisan 1985'te liderler Varşova'da toplanıp Paktı otuz yıl daha yeniledi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Altı yıl sonra ittifak dağıtıldı; Mark Kramer bunu 1989-1990'daki siyasi dönüşümün örgütü işlevsiz kılmasına bağlar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Komünizmin 1989-1990'da tasfiye edilmesinin ardından yeni hükümetler bağımsızlıklarını pekiştirmek zorundaydı; oysa Sovyet hâkimiyetinin temel kurumları — Pakt,",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Bölgedeki yetkililer girişimi kendilerinin alması gerektiğini kısa sürede anladı: bir baskı grubu gibi davranan Macaristan ve Çekoslovakya'nın, sonra da Polonya",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Görünür adımlar bunu doğrular: Eylül 1990'da Alman Demokratik Cumhuriyeti birleşme hazırlığında Pakt'tan ayrıldı, ekime kadar Çekoslovakya, Macaristan ve Polony",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı Amerikan kaydı feshi Sovyetler Birliği'nin dağılmasının ardına yerleştirir; kendi verdiği mart ve temmuz 1991 tarihleriyle bu sıralama uyuşmaz.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Békés'in arşiv temelli kronolojisi de feshi Birliğin çözülmesinin sonucu değil, üye devletlerin girişiminin sonucu sayar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Birliğin"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Antlaşma metnine bakan bir okur karşılıklı yardım, danışma ve iç işlerine karışmama taahhütleri bulur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Karşı bloğun kaydına bakan okur, kararların Moskova'da alındığı ve örgütün üç ayrı ülkede halk muhalefetini bastırmakta kullanıldığı bir yapı görür.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Moskova"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Paktın kendi arşivlerine bakan okur ise üçüncü bir tablo bulur: sonsuza dek kapalı kalacağı sanılan belgelerden çıkan, Batı Avrupa'ya saldırı planları yapan, am",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Adlandırma da hâlâ çekişmelidir: 1968 harekâtı bir Varşova Paktı müdahalesi diye anılmayı sürdürüyor, oysa kararın Paktın organlarında alınmadığını gösteren kay",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Adlandırma da hâlâ çekişmelidir: 1968 harekâtı bir Varşova Paktı müdahalesi diye anılmayı sürdürüyor, oysa kararın Paktın organlarında alınmadığını gösteren kay",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Örgütün otuz altı yılı, kurucu metnin taahhütleriyle uygulamanın açısında geçti; bu açıyı 1955'te fark etmek zordu, çünkü metnin kendisi yumuşaktı ve yükümlülük",
       "durum": "OK",
       "not": ""
     }

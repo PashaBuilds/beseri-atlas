@@ -1,199 +1,887 @@
 {
   "id": "aktor-rapa-nui",
   "govde_hash": "56544d130b5f",
-  "commit": "c9a3451",
+  "commit": "b8530ef",
   "zaman": "2026-08-28",
   "hakem": "kor-hakem-2026-08-28",
   "iddialar": [
     {
       "iddia_id": "i01",
-      "cumle": "Rapa Nui, Pasifik'in güneydoğusunda en yakın yerleşik komşusuna iki bin kilometreden uzak bir adadır ve topluluğu bugün de bu adada yaşamaktadır.",
+      "cumle": "Rapa Nui, Pasifik'in güneydoğusunda, en yakın yerleşik komşusuna iki bin kilometreden uzak bir adanın ve o adada yaşayan Polinezya topluluğunun ortak adıdır.",
       "onem": "merkezi",
       "tur": "olgu",
-      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "k1 girisi: adayi Sili'nin 'special territory'si ve Guneydogu Pasifik'te sayar; en yakin yerlesik kara olarak Pitcairn'i 2.075 km uzakta verir — 'iki bin kilometreden uzak' bunun yuvarlanmis halidir."
     },
     {
       "iddia_id": "i02",
-      "cumle": "Adada bugün yedi binden fazla insan yaşar (2017 sayımı 7.750); Rapanui dili konuşulur ve ada Şili'ye bağlı anayasal özel bölge statüsündedir.",
-      "onem": "merkezi",
-      "tur": "sayi",
-      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
-      "guven": "yuksek",
-      "inceleme": ""
-    },
-    {
-      "iddia_id": "i03",
-      "cumle": "Yerleşim, yaygın tahminlere göre on ikinci ile on üçüncü yüzyıllar arasında Avustronezya ağından gelen Polinezya denizcilerince gerçekleşti.",
-      "onem": "destek",
-      "tur": "tarih",
-      "kaynaklar": [{ "anahtar": "k1", "destek": "kismi" }],
-      "guven": "orta",
-      "inceleme": "Yerlesim tarihi icin one surulen araliklar kaynaklar arasinda degisir; govde bunu 'yaygin tahmin' diye isaretler."
-    },
-    {
-      "iddia_id": "i04",
-      "cumle": "Adada bine yakın moai vardır; büyük bölümü Rano Raraku tüfünden yontulmuştur ve bir kısmı tamamlanmadan ocakta bırakılmıştır.",
-      "onem": "destek",
-      "tur": "sayi",
-      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
-      "guven": "yuksek",
-      "inceleme": ""
-    },
-    {
-      "iddia_id": "i05",
-      "cumle": "Kayıtlı ilk Avrupa teması 1722 Paskalya günü Jacob Roggeveen ile oldu ve adanın Avrupa dillerindeki adı buradan gelir.",
-      "onem": "merkezi",
-      "tur": "tarih",
-      "kaynaklar": [
-        { "anahtar": "k3", "destek": "dogrudan" },
-        { "anahtar": "k1", "destek": "dogrudan" }
-      ],
-      "guven": "yuksek",
-      "inceleme": ""
-    },
-    {
-      "iddia_id": "i06",
-      "cumle": "1770 İspanyol seferi heykelleri ayakta gördü ve adayı San Carlos adıyla İspanya adına ilhak töreni düzenledi.",
-      "onem": "destek",
-      "tur": "tarih",
-      "kaynaklar": [
-        { "anahtar": "k3", "destek": "dogrudan" },
-        { "anahtar": "k1", "destek": "dogrudan" }
-      ],
-      "guven": "yuksek",
-      "inceleme": ""
-    },
-    {
-      "iddia_id": "i07",
-      "cumle": "1774'te James Cook bazı heykellerin devrilmiş olduğunu kaydetti; 1777'de yayımlanan sefer anlatısının ilk cildi ada bölümünü içerir.",
-      "onem": "destek",
-      "tur": "tarih",
-      "kaynaklar": [
-        { "anahtar": "k1", "destek": "dogrudan" },
-        { "anahtar": "k4", "destek": "dogrudan" }
-      ],
-      "guven": "yuksek",
-      "inceleme": "k4 tam metninde ada bolumu icindekiler tablosunda 'Eafter Ifland' (uzun s OCR'i) olarak gorunur."
-    },
-    {
-      "iddia_id": "i08",
-      "cumle": "Diamond'ın Collapse (2005) okuması adayı 'toplumların çökmeyi seçmesi' sorusunun baş örneği yapar: orman heykel taşımak ve tarla açmak için tüketildi, toplum Avrupa temasından önce iç çatışmayla çöktü.",
-      "onem": "merkezi",
-      "tur": "aktarim",
-      "kaynaklar": [
-        { "anahtar": "k6", "destek": "kismi" },
-        { "anahtar": "k1", "destek": "baglam" }
-      ],
-      "guven": "yuksek",
-      "inceleme": "k6 kitabin kendisidir ama archive.org kaydi odunc kisitli; fetch edilen sayfa baslik ve alt basligi ('how societies choose to fail or succeed') dogrular, tez icerigi kitaptan bilinir. k1 Diamond'in savini aktarir."
-    },
-    {
-      "iddia_id": "i09",
-      "cumle": "Hunt ve Lipo (The Statues That Walked, 2011) orman kaybında Polinezya sıçanına belirleyici pay verir, heykellerin dik konumda yürütülerek taşınabildiğini savunur ve asıl demografik yıkımı Avrupa temasının sonrasına koyar.",
-      "onem": "merkezi",
-      "tur": "aktarim",
-      "kaynaklar": [
-        { "anahtar": "k5", "destek": "kismi" },
-        { "anahtar": "k1", "destek": "kismi" }
-      ],
-      "guven": "yuksek",
-      "inceleme": "k5 kitabin kendisidir ama archive.org kaydi odunc kisitli; fetch edilen sayfa kunyeyi dogrular. k1 sican-ormansizlasma bagini ve Hunt-Lipo atfini acikca tasir."
-    },
-    {
-      "iddia_id": "i10",
-      "cumle": "1862-63 Peru köle akınlarında yaklaşık 1.500 adalı öldürüldü ya da kaçırıldı; 1.408'i Peru'da zorla çalıştırıldı ve dönem kayıtları Chincha guano yataklarını anar.",
+      "cumle": "Adada bugün yedi binden fazla insan yaşar; Rapanui dili konuşulmaya devam eder ve ada, Şili'ye bağlı anayasal \"özel bölge\" statüsüyle yönetilir.",
       "onem": "merkezi",
       "tur": "sayi",
       "kaynaklar": [
-        { "anahtar": "k1", "destek": "dogrudan" },
-        { "anahtar": "k7", "destek": "kismi" }
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
       ],
       "guven": "yuksek",
-      "inceleme": "k7 (1911 Britannica) akini 1863 yiliyla ve Chincha guano yataklariyla kaydeder; sayilar k1'den gelir."
+      "inceleme": "k1: 2017 sayiminda 7.750 kisi; kunye dili alaninda 'Spanish, Rapa Nui'; 2007'de 'special territory' anayasal statusu — ucu de birebir gecer."
     },
     {
-      "iddia_id": "i11",
-      "cumle": "Geri dönebilen bir düzine kadar kişi çiçek hastalığı getirdi; 1877'de adada 111 Rapanui sayıldı ve 1862-1888 arasında nüfusun yaklaşık yüzde 94'ü öldü ya da göç etti.",
-      "onem": "merkezi",
-      "tur": "sayi",
-      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
-      "guven": "yuksek",
-      "inceleme": ""
-    },
-    {
-      "iddia_id": "i12",
-      "cumle": "Akınlar ve salgın, aralarında tumu ivi 'atua'ların da öldüğü tarihlenebilir bir aktarım kopuşu yarattı; ama topluluk sürdü, nüfus yeniden büyüdü ve dil yaşadı.",
-      "onem": "merkezi",
-      "tur": "olgu",
-      "kaynaklar": [
-        { "anahtar": "k1", "destek": "kismi" },
-        { "anahtar": "k2", "destek": "baglam" }
-      ],
-      "guven": "orta",
-      "inceleme": "k1 tumu ivi 'atua kaybini ve nufusun sonraki toparlanmasini ayri ayri dogrular; 'kopus ama olum degil' cercevesi bu iki olgunun birlikte okunmasidir. k2, kopustan elli yil sonra hala tanik bulunabildigini gosterir."
-    },
-    {
-      "iddia_id": "i13",
-      "cumle": "Rongorongo metinleri bütün girişimlere karşın çözülememiştir; günümüze yalnızca yirmi kadar metin ulaşmıştır, hiçbiri adada değildir ve işaretlerin gerçek bir yazı olduğu bile kesin değildir.",
-      "onem": "merkezi",
-      "tur": "olgu",
-      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
-      "guven": "yuksek",
-      "inceleme": ""
-    },
-    {
-      "iddia_id": "i14",
-      "cumle": "İlk sistematik saha çalışması 1914-15'te Katherine Routledge'ın Mana seferiyle yapıldı; sonuçlar 1919'da The Mystery of Easter Island adıyla yayımlandı ve yaşlı adalılarla görüşmeler içerir.",
-      "onem": "merkezi",
-      "tur": "tarih",
-      "kaynaklar": [{ "anahtar": "k2", "destek": "dogrudan" }],
-      "guven": "yuksek",
-      "inceleme": "k2 eserin tam metnidir; 1914, 1915, 1919 ve Mana adi metinde gecer, gorusme katmani kitabin kendisinde okunur."
-    },
-    {
-      "iddia_id": "i15",
-      "cumle": "Şili adayı 1888'de ilhak etti; Williamson-Balfour döneminde adalılar Hanga Roa ile sınırlandı, vatandaşlık 1966'da, anayasal özel bölge statüsü 2007'de geldi.",
-      "onem": "merkezi",
-      "tur": "tarih",
-      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
-      "guven": "yuksek",
-      "inceleme": ""
-    },
-    {
-      "iddia_id": "i16",
-      "cumle": "1911 Britannica maddesi adalıların yapıların inşası hakkında hiçbir şey bilmediğini yazar, konuyu gizem ilan eder ve Peru akınlarını tek cümleyle geçer.",
-      "onem": "destek",
-      "tur": "aktarim",
-      "kaynaklar": [{ "anahtar": "k7", "destek": "dogrudan" }],
-      "guven": "yuksek",
-      "inceleme": ""
-    },
-    {
-      "iddia_id": "i17",
-      "cumle": "Bir çöküş anlatısının verdiği ders seçtiği faile bağlıdır ve fail çoğu zaman kanıttan önce seçilir.",
+      "iddia_id": "i19",
+      "cumle": "Topluluk, geçmişi hakkında yürütülen tartışmanın nesnesi değil, giderek daha görünür bir tarafıdır.",
       "onem": "renk",
       "tur": "yorum",
       "kaynaklar": [
-        { "anahtar": "k6", "destek": "baglam" },
-        { "anahtar": "k5", "destek": "baglam" }
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
       ],
       "guven": "orta",
-      "inceleme": "Genellestirilmis yorum; iki tezin karsilastirilmasindan cikarilir, tek bir kaynakla olculemez."
+      "inceleme": "Degerlendirme cumlesi; olculebilir bir onerme tasimaz. k1'in 'Indigenous rights movement' bolumu (2010 Hitorangi isgali, atalarindan kalan toprak istemi) toplulugun tartismada taraf oldugu iddiasina yalnizca zemin verir, hukmu vermez — bu yuzden baglam."
     },
     {
-      "iddia_id": "i18",
-      "cumle": "Akarsuyu olmayan adada ekim, toprağı çakıl ve taşla örterek nemi tutan taş örtülü tarımla yapılıyordu; yöntem kurak bölgelerin bilinen tekniğidir.",
+      "iddia_id": "i20",
+      "cumle": "Aynı ada, dünya tarihinin en çok anlatılan çöküş hikâyelerinden birinin sahnesidir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k6 kaydi (archive.org) odunc kisitli; erisilen katalog sayfasi kitabin adini, 2005 tarihini ve Bolum 2 'Twilight at Easter' basligini dogrular, yani ada Collapse'in gecmis toplumlar kismindaki ilk vakadir. 'Dunya tarihinin en cok anlatilan cokus hikayelerinden biri' degerlendirmesi kaynakta yoktur — konuyu tasiyor, iddiayi tasimiyor: kismi."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Ormanını tüketip kendi kendini yok eden toplum anlatısı yirminci yüzyılda ders verici bir mesel olarak yerleşti; son yirmi yılda ise arkeolojik bulgular bu anlatının her halkasını yeniden tartışmaya açtı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5 katalog sayfasindaki yayinci tanitimi tam bu cerceveyi kurar: 'The prevailing accounts of the island's history tell a story of self-inflicted devastation: a glaring case of eco-suicide. But when Terry Hunt and Carl Lipo began carrying out archaeological studies on the island in 2001, they uncovered a very different truth.' k1'in 'Criticism of the ecocide hypothesis' bolumu son yirmi yilin bulgularini halka halka sayar."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "İki taraf da aynı heykellere, aynı polen kayıtlarına ve aynı gemi günlüklerine bakar; ayrıştıkları nokta, yıkımın failinin adanın içinde mi dışında mı aranacağıdır.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki tezin ayni kanit tabanini kullandigi yorumu; ne k5'in erisilebilen katalog metninde ne k1'de bu bicimde bir onerme var. Iki bolumun birlikte okunmasindan cikarilir — olculemez, bu yuzden renk."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Adaya ilk yerleşenler, nın en doğu ucuna ulaşan Polinezya denizcileriydi; öne sürülen tarihler değişmekle birlikte yaygın tahminler yerleşimi on ikinci ile on üçüncü yüzyıllar arasına koyar.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1: arastirmacilarin bir kismi 800 civarini, 2007 tarihli bir calisma ise 1200'e yakin bir tarihi savunur. Govdenin 'on ikinci ile on ucuncu yuzyillar' araligi bu ikinci tahmine denk duser ama kaynak araligi bu sozcuklerle vermez: kismi. Cumle, govdedeki ic bagin ([Avustronezya yayilmasi](...)) araci tarafindan cikarilmis halidir."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Aynı denizcilik ağının öteki uçlarında ve gibi akraba topluluklar kuruldu; Rapa Nui, bu ağın açık ara en yalıtılmış üyesiydi ve yerleşimden sonra dış temas seyrekleşti.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
-        { "anahtar": "k1", "destek": "dogrudan" },
-        { "anahtar": "k5", "destek": "baglam" }
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 yalitilmisligi dogrudan tasir ('Polynesian Triangle'in en guneydogu ucu', 'one of the world's most remote inhabited islands'). Maori ve Tonga ile akrabalik ve 'yerlesimden sonra dis temas seyreklesti' k1'de bu bicimde yazmaz — konu ortak, iddia degil: kismi. Cumle ic baglari cikarilmis haliyle kayitlidir."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Adada bine yakın moai vardır; büyük bölümü Rano Raraku yanardağının tüfünden yontulmuştur ve bir kısmı tamamlanmadan ocakta bırakılmıştır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "k1: 'nearly 1,000 extant monumental statues'; Bandy'den aktarimla butun buyuk heykellerin Rano Raraku'nun hafif ve gozenekli tufunden yontuldugu; ve 'Nearly half remained in the quarry at Rano Raraku' — ucu de birebir gecer."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Heykellerin ne anlattığına dair en erken doğrudan tanıklık Cook seferinden gelir: gemideki Bora Boralı Hitihiti adalılarla konuşabilmiş ve heykellerin eski yüksek şefleri adları ve unvanlarıyla andığını aktarmıştır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'Through the interpretation of Hitihiti, Cook learned the statues commemorated their former high chiefs, including their names and ranks'; Hitihiti'nin Bora Boralı olusu ayrica gecer."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Heykel dikme geleneğinin hangi toplumsal düzen içinde örgütlendiği ise nesne kanıtından okunamaz; taş, yapının varlığını gösterir, gerekçesini göstermez.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kanit turu uzerine yontem yorumu; hicbir kaynak boyle bir onerme kurmaz. Nesne kanitinin sinirini soyleyen bu cumle olculemez — renk olarak kayitlidir."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Kayda geçen ilk Avrupa teması 1722'de gerçekleşti: Hollandalı Jacob Roggeveen, karşılaşma Paskalya gününe denk geldiği için adaya Avrupa dillerinde kullanılan adını verdi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3, Roggeveen'in resmi seyir defterinden: 'to the land the name of Padsch Eyland, because it was discovered by us on Easter Day'. k1 ayrica tarihi verir: 'Easter Sunday (April 5) in 1722'."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Roggeveen'in resmî seyir defterinden alınan bölüm, 1770'te Peru genel valisinin gönderdiği Felipe González seferinin tutanaklarıyla birlikte sonradan tek ciltte yayımlandı ve iki ziyaretin de birincil kaydı bu cilttedir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3'un baslik ve icindekiler sayfasi tam bu yapiyi gosterir: once Roggeveen'in 1722 resmi kutugunden Paskalya Adasi'na iliskin bolum, ardindan Peru Genel Valisi Don Manuel de Amat'in 396 sayili yazisiyla acilan 1770-1 Gonzalez seferi tutanaklari — tek ciltte."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Roggeveen'in vardığı sırada adada iki ila üç bin kişinin yaşadığı tahmin edilir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki bagimsiz kaynak ayni araligi verir: k1 'By the time of European arrival in 1722, the island's population was estimated to be 2,000 to 3,000'; k7 (1911) 'At the time of Roggeveen's discovery the island probably contained from 2000 to 3000 inhabitants'."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "İspanyol kayıtları, heykellerin 1770'te ayakta durduğunu yazar ve adanın San Carlos adıyla İspanya adına ilhakı için düzenlenen töreni anlatır.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3'te Ispanyol kaydi heykelleri ayakta olcer (en yuksegini kiyida olcup boyunu verir, pukao'nun basa nasil oturdugunu inceler); ilhak buyrugu ise birebir soyledir: 'Possession of the island will be taken in the name of Our Catholic Monarch, and it is to be named in future the Island of San Carlos'. k1 ayni toreni ve 'standing idols' gozlemini ozetler."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Dört yıl sonra, 1774'te James Cook uğradığında bazı heykellerin devrilmiş olduğu kaydedildi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'Four years later, in 1774, British explorer James Cook visited Easter Island; he reported that some statues had been toppled.'"
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Cook'un 1777'de yayımlanan sefer anlatısının ilk cildi, Yeni Zelanda'dan adaya geçişi ve oradaki temasları ayrı bir bölümde işler; seferin bütünü ve kaynak değeri için kaydına bakılabilir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k4'un icindekiler bolumunde ilgili bolum basligi aynen durur (donemin uzun s'si OCR'de f okunur): 'Sequel of the paffage from New Zealand to Eafter Ifland, and tranfactions there...'. Ciltteki levhalarin kunyesi 'Published Feb 1. 1777 by W. Strahan' — yayim yilini da dogrular. Cumle ic bagi cikarilmis haliyle kayitlidir."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Ziyaretler 1786'da La Pérouse ile seyrek de olsa sürdü.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'On April 10, 1786, French Admiral Jean-François de Galaup, comte de Lapérouse anchored at Hanga Roa'."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Yaygın çöküş anlatısının en işlenmiş hâli Jared Diamond'ın 2005 tarihli Collapse kitabındadır; kitabın \"toplumlar çökmeyi nasıl seçer\" sorusunun baş örneği bu adadır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6 kaydi odunc kisitli; katalog sayfasi ad, alt baslik ('how societies choose to fail or succeed'), 2005 tarihi ve 'pt. 2. Past societies -- 2. Twilight at Easter' icindekiler girisini dogrular, ama 'en islenmis hali' degerlendirmesini tasimaz: kismi. k1 savi Diamond'a acikca baglar: 'In his book Collapse: How Societies Choose to Fail or Succeed, Jared Diamond suggested that...'"
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Bu okumaya göre ada yerleşim sırasında ormanlıktı; nüfus büyüdü, ağaçlar heykel taşımak ve tarla açmak için kesildi, orman kendini yenileyemedi, toprak aşındı ve kıtlıkla iç çatışma toplumu Avrupalılar gelmeden önce çökertti.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1'in 'Ecocide hypothesis' bolumu zinciri halka halka verir: yerlesimde ormanlik ada, agaclarin heykel tasimak icin silindir olarak kullanilmasi, ormansizlasma, erozyon ve tarimsal uretimde keskin dusus, Avrupalilar gelmeden onceki nufus cokusu. k6'nin katalog sayfasi yalnizca bolum basliklarini ('The vanished forest', 'Consequences for society') gosterdigi icin kismi."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Anlatı, kapalı bir sistemde kaynak tüketiminin sonucunu gösteren bir uyarı meseli olarak kuruldu ve bu ders verme gücü ona geniş bir okur kitlesi kazandırdı.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k6'nin kapak tanitimi uyari meseli cercevesini tasir ('what happens when we squander our resources... cut down too many trees') ve icindekilerde 'Easter as metaphor' basligi vardir. 'Genis bir okur kitlesi kazandirdi' savi hicbir kaynakta olculmez — konuyu tasiyip iddiayi tasimadigi icin kismi."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Terry Hunt ile Carl Lipo, 2011'de yayımlanan The Statues That Walked'ta bu zincirin her halkasına itiraz etti.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5 katalog sayfasi kunyeyi (Hunt & Lipo, 2011, Free Press) ve itirazin kendisini dogrular. k1 daha da acik: 'Hunt and Lipo set out a claim-by-claim rebuttal to Diamond's claims' — govdedeki 'her halkasina itiraz etti' ile birebir ortusur."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Ormanın yok oluşunda, yerleşimcilerin gemileriyle gelen Polinezya sıçanına belirleyici bir pay verirler: sıçan, palmiye tohumlarını yiyerek ormanın kendini yenilemesini engeller ve bu, ağaç kesiminden bağımsız işleyen bir mekanizmadır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 mekanizmayi birebir tasir: sicanlarin kemirdigi tohum kabuklari ve karsi tez bolumunde 'Polynesian settlement without Polynesian rats is only associated with minimal forest loss while the arrival of rats without human settlement is devastating to forest populations'. k5'in erisilebilen katalog metninde sican adiyla gecmez ('Millions of palms' bolum basligi vardir): kismi. NOT: k1'in kaynakcasinda Hunt & Lipo'nun 2025 tarihli 'Reassessing the role of Polynesian rats... in Rapa Nui deforestation' yazisi da yer alir; sicanin payi yazarlarin kendi elinde yeniden tartisilmaktadir — guven bu yuzden orta."
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "Heykellerin kütükler üzerinde sürüklenmek yerine dik konumda, halatlarla yürütülerek taşınabildiğini deneyle gösterdiler; bu da orman tüketiminin anlatıdaki başlıca gerekçesini zayıflatır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5'in adi ve icindekiler girisleri ('The ancient paths of stone giants', 'The statues that walked') savi tasir. k1 deneyi de dogrular: 'Recent experimental recreations have proven that it is fully possible that the moai were literally walked from their quarries to their final positions by use of ropes, casting doubt on the role that their existence plays in the environmental collapse of the island.'"
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Onlara göre asıl demografik yıkım Avrupa temasının ardından, hastalık ve köle akınlarıyla geldi; temas öncesi toplum çökmüş değil, kıt koşullara uyarlanmış bir toplumdu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 karsi tez bolumu birebir soyler: nufus dususleri 'the devastating impact of introduced diseases, raids, slavery, and exploitation of indigenous populations' ile aciklanabilir; ayrica Metraux'dan aktarimla kole ticareti, salgin ve koyun ciftciliginin belgeli oldugu. k5'in katalog tanitimi adalilari 'remarkably inventive environmental stewards' diye anar ama temas sonrasi yikimi bu sozcuklerle kurmaz: kismi."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Kalıcı akarsuyu olmayan adada ekim, toprağı çakıl ve taşla örterek nemi tutan bir yöntemle yapılıyordu; taş örtülü tarım, kurak bölgelerin bilinen ve etkili bir tekniğidir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 iki ogeyi de birebir verir: 'no permanent streams or rivers' ve 'The islanders' innovation of lithic mulching - the practice of covering fields with gravel or rocks to trap moisture and improve soil fertility - is a well-known and effective practice in dry areas of the premodern world.' k5 bu bulgunun uyarlanma okumasindaki yerini kurar ama katalog metninde adlandirmaz: baglam."
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Bir çevresel kısıtla karşılaşan topluluğun yöntem değiştirdiğini gösteren bu bulgu, iki okumanın hangi kanıtı nasıl tarttığını sınamak için iyi bir ölçüdür.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Bulgunun iki okumayi sinamak icin 'iyi bir olcu' oldugu degerlendirmesi makalenin kendi hukmudur; kaynaklarda karsiligi yok — olculemez."
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "Tartışmanın tartışma götürmeyen bölümü, on dokuzuncu yüzyılda yaşananlardır.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cerceve cumlesi: hangi bolumun tartismasiz oldugunu soyler, kendisi bir olgu onermesi degildir. k1 on dokuzuncu yuzyil olaylarini belgeler ama 'tartisma goturmeyen bolum' hukmunu vermez."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "1862-63'te Peru'dan gelen işçi avcısı gemiler, düzeninin en yıkıcı örneklerinden birinde yaklaşık 1.500 adalıyı öldürdü ya da kaçırdı; kaçırılanlardan 1.408'i Peru'da zorla çalıştırıldı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 birebir: 'The island was victimized by blackbirding from 1862 to 1863, resulting in the abduction or killing of about 1,500, with 1,408 working as indentured servants in Peru.' Cumle, govdedeki ic bag ([Pasifik isci toplama](...)) araci tarafindan cikarilmis halidir."
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "Dönem kayıtları, götürülenlerin Chincha adalarındaki guano yataklarında çalıştırıldığını yazar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k7 (1911 Britannica) donem belgesi olarak birebir tasir: 'In 1863 a large proportion of the inhabitants were kidnapped by the Peruvians and transported to work at the guano diggings on the Chincha Islands.'"
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "Sağ dönebilen bir düzine kadar insan yanında çiçek hastalığını getirdi ve salgın, adada kalmış nüfusu kırdı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'Only about a dozen eventually returned to Easter Island, but they brought smallpox, which decimated the remaining population of 1,500.'"
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "1877'de adada yalnızca 111 Rapanui sayıldı; 1862 ile 1888 arasında nüfusun yaklaşık yüzde 94'ü ölmüş ya da adayı terk etmişti.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 iki sayiyi da verir: 1877'de 111 yerli sakin; 'Between 1862 and 1888, about 94% of the population perished or emigrated.'"
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Ölenler arasında, adanın tarihinin, şecerelerinin ve rongorongo bilgisinin taşıyıcısı sayılan tumu ivi 'atua'lar da vardı; sözlü aktarımın en donanımlı halkası büyük ölçüde bu birkaç yılda kaybedildi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 birebir: 'Those who perished included the island's tumu ivi 'atua, bearers of the island's culture, history, and genealogy besides the rongorongo experts.' k2, ayni kopusun elli yil sonraki izini saha kaydiyla gosterdigi icin baglam."
+    },
+    {
+      "iddia_id": "i39",
+      "cumle": "Aktarım zincirindeki kopuş gerçektir ve tarihi bellidir; ama bu bir kültürün ölümü değil, bir halkın elinden alınanların belgelenebilir dökümüdür.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "'Kulturun olumu degil, elinden alinanlarin dokumu' ayrimi makalenin kendi cercevesidir; kaynak boyle bir onerme kurmaz — olculemez."
+    },
+    {
+      "iddia_id": "i40",
+      "cumle": "Nüfus sonraki kuşaklarda yeniden büyüdü, dil yaşadı ve bugünkü topluluk o yıllardan sağ çıkanların torunlarından oluşur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 toparlanmayi olculebilir bicimde tasir: 1877'de 111 kisiden 2017 sayiminda 7.750 kisiye, bunlarin 3.512'si (%45) Rapa Nui kimligiyle; dil bugun de resmi dillerden biridir. Bu, 'olmus uygarlik' okumasinin karsi agirligidir ve merkezi sayilmistir."
+    },
+    {
+      "iddia_id": "i41",
+      "cumle": "Adadan çıkan tahta levhalara rongorongo denen bir işaret sistemi kazınmıştır; işaretler tahtaya her satırda yön değiştiren bir düzenle kazınır ve sistem ilk kez 1864'te bir misyoner tarafından rapor edildi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'the texts were incised in wood in reverse boustrophedon direction. It was first reported by French missionary Eugène Eyraud in 1864.'"
+    },
+    {
+      "iddia_id": "i42",
+      "cumle": "Günümüze yalnızca yirmi küsur metin ulaşmıştır ve bunların hiçbiri adada değildir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'only two dozen texts, none of which remain on the island.'"
+    },
+    {
+      "iddia_id": "i43",
+      "cumle": "Geleneğe göre okuryazarlık yönetici aileler ve rahiplerle sınırlıydı; bu kesim köle akınlarını izleyen salgın yıllarında yok olduğundan, okuma bilgisi aktarılamadan kesildi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'according to tradition, only ruling families and priests were ever literate, and none survived the slave raids and subsequent epidemics.'"
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Bütün çözme girişimlerine karşın metinler okunamamıştır ve elde bu kadar az metin varken işaretlerin gerçek bir yazı mı, yoksa başka türden bir kayıt aracı mı olduğu bile kesin değildir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'Despite numerous attempts, the surviving texts have not been deciphered, and without decipherment it is not certain that they are actually writing.'"
+    },
+    {
+      "iddia_id": "i44",
+      "cumle": "Bu belirsizlik örtülmeden söylenmelidir: rongorongo hakkında bugün söylenebilecek en sağlam cümle, ne söylediğinin bilinmediğidir.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Belirsizligin nasil soylenmesi gerektigine dair yontem cumlesi; olculebilir bir onerme degil."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Adanın ilk sistematik arkeolojik ve etnografik incelemesi, 1914-15'te Katherine Routledge'ın Mana seferiyle yapıldı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k2 seferin kendi raporudur: 'The Expedition, therefore, as one of its primary undertakings, made an archeological survey of the island' ve Mana adi ile 1914-15 tarihleri metinde gecer. k1 'Katherine Routledge, who systematically collected the island's traditions in her 1914/15 expedition' der ama 'ilk' demez; 'ilk sistematik' nitelemesi yaygin tarih yazimi hukmudur, kaynakta bu sozcuklerle yoktur — guven bu yuzden orta."
+    },
+    {
+      "iddia_id": "i45",
+      "cumle": "Routledge heykelleri ölçtü ve kazılar yürüttü; ama kaydının bugün en değerli sayılan katmanı, akın öncesi düzeni hatırlayan yaşlı adalılarla yaptığı uzun görüşmelerdir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2 uc ogeyi de tasir: 'thousands of measurements of statues', kazi donanimi ('excavation sieves'), ve gorusmeler: 'I proposed to spend the time till S. returned in interviews with such of the old people as could remember traditions and customs, prior to the coming of Christianity.' 'Bugun en degerli sayilan katman' degerlendirmesi makaleye aittir."
+    },
+    {
+      "iddia_id": "i46",
+      "cumle": "Gözlemlerini 1919'da The Mystery of Easter Island adıyla yayımladı ve kitabın tam metni bugün açık erişimdedir.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2'nin onsozu 'THE STEWARDESS OF THE MANA, February 1919' imzasini tasir ve kunyedeki URL kitabin archive.org'daki tam metnidir — acik erisim iddiasi kaynagin kendisiyle olculur."
+    },
+    {
+      "iddia_id": "i47",
+      "cumle": "Bu görüşmeler, kopuştan yarım yüzyıl sonra bile anlatacak insan bulunduğunu gösterir: aktarım incelmişti, ama kesilmemişti.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Govdedeki 'incelmisti ama kesilmemisti' hukmu k2'de neredeyse birebir durur: 'When we arrived, such knowledge and tradition were expiring, but they were not altogether dead.'"
+    },
+    {
+      "iddia_id": "i48",
+      "cumle": "Şili, adayı 1888'de ilhak etti.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'Chile annexed Easter Island in 1888.'"
+    },
+    {
+      "iddia_id": "i49",
+      "cumle": "Sonraki yarım yüzyılda ada fiilen bir koyun çiftliği olarak işletildi; Williamson-Balfour şirketinin kiracılığı döneminde adalılar Hanga Roa yerleşimiyle sınırlandı ve bu kısıtlara karşı 1914'te bir ayaklanma da yaşandı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 adlandirilmis ogelerin hepsini tasir: 'Until the 1960s the Rapanui were confined to Hanga Roa. The rest of the island was rented to the Williamson-Balfour Company as a sheep farm until 1953' ve 'In 1914 there was an uprising of the natives inspired by the elderly catechist Maria Angata Veri Veri'. NOT: k1 kiraciligi 1888-1953 arasina koyar (yaklasik 65 yil); govdedeki 'sonraki yarim yuzyilda' yuvarlamadir, kaynaktan bir tik kisadir — guven bu yuzden orta."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Rapanuiler Şili vatandaşlığını ancak 1966'da aldı; 2007'de ada anayasada tanımlı özel bölge statüsüne kavuştu.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'In 1966, the Rapa Nui were granted Chilean citizenship. In 2007, the island gained the constitutional status of special territory.'"
+    },
+    {
+      "iddia_id": "i50",
+      "cumle": "2017 sayımında adada 7.750 kişi kaydedildi; yıllık Tapati festivali topluluğun kendi kültürel takvimini kurar ve yerli haklar hareketi adanın yönetiminde söz istemeye devam eder.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 uc ogeyi de tasir: 2017 sayiminda 7.750 kisi; 'Tapati Rapa Nui festival... is an annual two-week long festival celebrating Easter Island culture'; ve ayri bir 'Indigenous rights movement' bolumu. 'Kendi kulturel takvimini kurar' ifadesi festivalin kaynaktaki tanimini yeniden soyleyistir."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "1911 tarihli Britannica maddesi, anlatının yerleşmeden önceki hâlini gösterir: madde, adalıların bu \"olağanüstü yapıların inşası hakkında hiçbir şey bilmediğini\" yazar ve heykellerin varlığını bir gizem ilan eder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k7 birebir: 'The present inhabitants of Easter Island know nothing of the construction of these remarkable works; and the entire subject of their existence in this small and remote island is a mystery.'"
+    },
+    {
+      "iddia_id": "i51",
+      "cumle": "Aynı madde Peru akınlarını tek cümleyle geçer; heykelleri diken halkın torunları oradayken, yapıların sahibi kayıp bir geçmişe havale edilmişti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sayilabilir bir iddia ve kaynakta dogrulanir: k7 maddesinin tamaminda Peru akinlarina ayrilan tek cumle vardir ('In 1863 a large proportion of the inhabitants were kidnapped by the Peruvians...'). Cumlenin ikinci yarisi bu olcumun yorumudur."
+    },
+    {
+      "iddia_id": "i52",
+      "cumle": "Yıkımın belgeli kısmı, gizemin gölgesinde kalıyordu.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Maddenin cercevesi hakkinda hukum; k7 kendisi hakkinda boyle bir sey soylemez — olculemez."
+    },
+    {
+      "iddia_id": "i53",
+      "cumle": "Sonraki yüzyıl gizemi çözmedi, failini değiştirdi: ekolojik intihar okumasında yıkımın sorumlusu adalıların kendisidir, karşı okumada sıçan ve dışarıdan gelen temastır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki okumanin faili k1'de ayri ayri belgelenir: 'Ecocide hypothesis' bolumu sorumlulugu adalilarin kendi uygulamalarina baglar, 'Criticism of the ecocide hypothesis' bolumu sicani ve temasi (hastalik, akin, kolelik) one koyar. k5 karsi okumanin kaynagidir ama katalog metni bu karsilastirmayi kurmaz: kismi."
+    },
+    {
+      "iddia_id": "i54",
+      "cumle": "Fail seçimi, anlatının vereceği dersi de belirler; birinci okuma kaynak yönetimi, ikincisi sömürgecilik hakkında konuşur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1, karsi tarafin dersi reddettigini birebir aktarir (Hunt-Lipo: 'It does not matter whether Rapa Nui offers a parable for today's urgent environmental problems') ve Metraux uzerinden somurgeci yikimi one koyar; k6'nin kapak metni de kaynak yonetimi dersini tasir. Ama 'fail secimi dersi belirler' onermesi hicbir kaynakta bu bicimde kurulmaz: kismi."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Bir çöküş anlatısının verdiği ders, seçtiği faile bağlıdır ve fail çoğu zaman kanıttan önce seçilir.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Makalenin kalin dizilmis tez cumlesi; govdede dipnot tasimaz, iki tezin karsilastirilmasindan cikarilir ve tek bir kaynakla olculemez. Cumle alani govdedeki noktalamayla (ders'ten sonraki virgul) hizalandi."
+    },
+    {
+      "iddia_id": "i55",
+      "cumle": "Tartışmanın bugün bir tarafı da adanın kendisidir.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1'in yerli haklar hareketi bolumu toplulugun bugun soz istedigini gosterir; 'tartismanin bir tarafi' formulasyonu makalenin kendi cercevesidir — olculemez."
+    },
+    {
+      "iddia_id": "i56",
+      "cumle": "Heykeller ve levhalar yok olmuş bir uygarlığın kalıntıları değil, yaşayan bir topluluğun atalarından kalan varlıklarıdır; anlatının bundan sonra nasıl kurulacağı sorusu, artık o topluluğun da katıldığı bir sorudur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 yasayan toplulugun atalarindan kalan varlik istemini tasir (Hitorangi isgalinde 'their ancestors had been cheated into giving up the land'); 'yok olmus bir uygarligin kalintilari degil' karsitligi ise makalenin hukmudur: konuyu tasiyip iddiayi tasimadigi icin kismi."
     }
   ],
-  "sayaclar": { "dogrudan": 13, "kismi": 4, "desteksiz": 0, "olculemez": 1 }
+  "sayaclar": {
+    "dogrudan": 40,
+    "kismi": 6,
+    "desteksiz": 0,
+    "olculemez": 10
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "3 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-29",
+      "onceki_hash": "56544d130b5f",
+      "yeni_hash": "56544d130b5f",
+      "gerekce": "18 iddianin 15i govdedeki birebir karsiligina oturtuldu, 38 dipnotlu cumle kaydsizdi ve iddia olarak eklendi (destek duzeyleri kaynak sinanarak verildi); dipnotsuz tez cumlesi i17 korundu, sayaclar yeniden hesaplandi"
+    },
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "4 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

@@ -1,9 +1,9 @@
 {
   "id": "aktor-imf",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:49.724Z",
+  "zaman": "2026-08-29T17:42:21.406Z",
   "govde_hash": "4728af0bd35b",
-  "commit": "495dbec",
+  "commit": "b8530ef",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -253,9 +253,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "üye oldu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Son katılan Liechtenstein, Ekim 2024'te 191. üye oldu.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

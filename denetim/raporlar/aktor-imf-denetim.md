@@ -1,5 +1,5 @@
 ## aktor-imf
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.724Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T17:42:21.406Z_
 
 - [OK]      k1 → "Uluslararası Para Fonu, ödemeler dengesi krizi yaşayan ya da yaşama ihtimali olan üyelerine son kredi mercii o…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Temmuz 1944'te Bretton Woods Konferansı'nda tasarlandı, ilk 29 ülkenin kurucu anlaşmayı onaylamasıyla 27 Aralı…" — 5 atom doğrulandı; 2 ad ölçülemedi
@@ -42,7 +42,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.724Z_
 - [ATOMSUZ] k1 → "İki taraf aynı olguya bakar; ayrıştıkları nokta, şartların krizin ilacı mı yoksa krizin büyütücüsü mü olduğudu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Üyelik ülkelere açıktır; her ülke başvurabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Erişim tarihinde (Ağustos 2026) üye sayısı 191'dir: 190 Birleşmiş Milletler üyesi ile, BM üyesi olmayan tek üy…" — 5 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k1 → "üye oldu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Son katılan Liechtenstein, Ekim 2024'te 191. üye oldu." — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "BM üyesi olup Fon'un dışında kalan üç devlet vardır: 1964'te ayrılan Küba, Monako ve Kuzey Kore." — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Hong Kong ve Makao gibi egemen olmayan alanlar ise üye değildir; Fon'un veri yayımlama standartlarına üyelik o…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kümenin bugünkü genişliği Soğuk Savaş'ın izlerini örtmesin: Polonya 1950'de çekilip 1986'da döndü, Çekoslovaky…" — 5 atom doğrulandı; 4 ad ölçülemedi
@@ -56,4 +56,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.724Z_
 - [ATOMSUZ] k1 → "Seksen yılda görev tanımı kur istikrarından yoksulluğun azaltılmasına uzandı; kurumun bugünkü misyon beyanı pa…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kurucu maddenin dar hedefiyle bu geniş beyan arasındaki açı, kurumun tarihinin kısa özetidir; oy dağılımı ise …"
 
-**Özet:** 36 OK · 0 ISARET · 0 HATA · 18 ATOMSUZ
+**Özet:** 37 OK · 0 ISARET · 0 HATA · 17 ATOMSUZ

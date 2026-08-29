@@ -41,6 +41,7 @@ ilgili:
   - tartisma-orta-asya-neden-cekildi
   - kaynak-gulhane-hatti
   - kaynak-kanunuesasi-1876
+  - aktor-safevi-devleti
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

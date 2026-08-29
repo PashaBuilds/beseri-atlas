@@ -1,7 +1,7 @@
 {
   "id": "aktor-imf",
   "govde_hash": "4728af0bd35b",
-  "commit": "c9a3451",
+  "commit": "b8530ef",
   "zaman": "2026-08-28",
   "hakem": "kor-hakem-2026-08-28",
   "iddialar": [
@@ -17,29 +17,25 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Uye sayisi degisebilir; govde erisim tarihiyle damgalar."
+      "inceleme": "Uye sayisi degisebilir; govde erisim tarihiyle damgalar. k1'in kunye kutusu \"191 countries (190 UN countries and Kosovo)\" dizesini birebir tasir."
     },
     {
       "iddia_id": "i02",
-      "cumle": "Temmuz 1944'te Bretton Woods Konferansı'nda tasarlandı, ilk 29 ülkenin onayıyla 27 Aralık 1945'te resmen var oldu, finansal işlemlerine 1 Mart 1947'de başladı ve ilk krediyi Mayıs 1947'de Fransa aldı.",
+      "cumle": "Temmuz 1944'te Bretton Woods Konferansı'nda tasarlandı, ilk 29 ülkenin kurucu anlaşmayı onaylamasıyla 27 Aralık 1945'te resmen var oldu, finansal işlemlerine 1 Mart 1947'de başladı ve ilk krediyi o yılın mayısında Fransa aldı.",
       "onem": "merkezi",
       "tur": "tarih",
       "kaynaklar": [
         {
           "anahtar": "k1",
           "destek": "dogrudan"
-        },
-        {
-          "anahtar": "k3",
-          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "k3 anlasma metnini 22 Temmuz 1944 tarihiyle tasir; onay ve islem tarihleri k1'den gelir."
+      "inceleme": "CUMLE GUNCELLENDI: matristeki eski kayit govdedeki cumlenin ozetiydi (\"ilk 29 ulkenin onayiyla\", \"Mayis 1947'de Fransa\"); govdedeki birebir haline oturtuldu. k1 \"27 December 1945, when the first 29 countries ratified its Articles of Agreement\", \"On 1 March 1947, the IMF began its financial operations\" ve \"on 8 May France became the first country to borrow from it\" dizelerini birebir tasir. Eski kayittaki k3 dusuruldu: govde bu cumlede k3'e dayanmiyor, k3'un tasidigi 22 Temmuz 1944 tarihi ayri bir cumlenin (i06) iddiasidir."
     },
     {
       "iddia_id": "i03",
-      "cumle": "Üyeler kota paylarıyla ortak havuza katkı yapar; kota hem çekilebilecek krediyi hem oy gücünü belirler ve Fon kredinin karşılığında yapısal uyum adıyla bilinen politika reformlarını şart koşar.",
+      "cumle": "Üyeler kota adı verilen paylarla ortak bir havuza katkı yapar; bir ülkenin kotası hem çekebileceği krediyi hem oy gücünü belirler ve Fon, kredinin karşılığında borçlanan hükümetten yapısal uyum adıyla bilinen politika reformlarını şart koşar.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -49,29 +45,53 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "k1 kota havuzunu, kotanin hem borclanma hem oy gucunu belirlemesini ve kredi sarti olarak \"structural adjustment\" reformlarini birebir yazar."
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "Seksen yıllık tarihin hemen her kavgası bu iki mekanizmanın çevresinde dönmüştür: kimin kaç oyu olduğu, kredinin hangi şartlara bağlandığı ve şartların kime yaradığı.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "CUMLE GUNCELLENDI: govdedeki tam haline oturtuldu (iki nokta sonrasi uclu sayim eksikti). k1'in yonetisim ve elestiri bolumlerinin genellemesi; cerceve yorumu olarak olculmez."
+    },
+    {
+      "iddia_id": "i39",
+      "cumle": "Kurumu tasarlayan konferans, Temmuz 1944'te New Hampshire'daki Bretton Woods kasabasının Mount Washington Oteli'nde toplandı; gündem, savaş sonrası iktisadi işbirliğinin çerçevesi ve Avrupa'nın yeniden inşasıydı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "YENI IDDIA: govdede dipnotlu, matriste kaydi yoktu. k1 \"The representatives of 45 governments met at the Bretton Woods Conference in the Mount Washington Hotel in Bretton Woods, New Hampshire\" ve gundem icin \"a framework for postwar international economic cooperation and how to rebuild Europe\" dizelerini birebir tasir."
     },
     {
       "iddia_id": "i04",
-      "cumle": "White borç alanların geri ödemesini gözeten bankaya benzer bir kurum, Keynes üyelerin serbestçe çekiş yapacağı kooperatif bir fon öngörüyordu; nihai metne ağırlıkla White'ın planı girdi.",
+      "cumle": "Amerikalı delege Harry Dexter White, borç alan devletlerin borçlarını zamanında ödemesini gözeten, bankaya benzer bir kurum öngörüyordu; İngiliz iktisatçı John Maynard Keynes ise üyelerin kriz dönemlerinde ekonomik etkinliği ve istihdamı korumak için serbestçe çekiş yapacağı kooperatif bir fon hayal ediyordu.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
         {
           "anahtar": "k1",
           "destek": "dogrudan"
-        },
-        {
-          "anahtar": "k5",
-          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "k5 kitabin kendisidir ama archive.org kaydi odunc kisitli; fetch edilen sayfa baslik ve alt basligi (Keynes, White, 'the making of a new world order') dogrular."
+      "inceleme": "CUMLE GUNCELLENDI: eski kayit govdenin uc cumlesini (White-Keynes karsitligi, nihai metin, Steil) tek iddiada birlestiriyordu; govde bunlari ayirdigi icin kayit yalniz White-Keynes cumlesine oturtuldu ve k5 dusuruldu (k5 artik i41'in kaynagi). k1 \"American delegate Harry Dexter White foresaw an IMF that functioned more like a bank, making sure that borrowing states could repay their debts on time\" ve Keynes icin \"a cooperative fund upon which member states could draw to maintain economic activity and employment through periodic crises\" dizelerini birebir tasir."
     },
     {
-      "iddia_id": "i05",
-      "cumle": "Morgenthau merkezleri New York'ta istiyordu; halefi Vinson, 'uluslararası finans' çağrışımı gerekçesiyle iki kurumu da tek taraflı kararla Washington'a yerleştirdi.",
+      "iddia_id": "i40",
+      "cumle": "Kabul edilen nihai metne ağırlıkla White'ın planı girdi.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -81,29 +101,67 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "YENI IDDIA: eski matriste i04'un icine gomuluydu, govdede ayri cumle. k1 \"Most of White's plan was incorporated into the final acts adopted at Bretton Woods\" dizesini birebir tasir."
+    },
+    {
+      "iddia_id": "i41",
+      "cumle": "İki adamın pazarlığı, yeni düzenin kimin parasıyla ve kimin kurallarıyla kurulacağı sorusunun ta kendisiydi; müzakerenin kitap boyu anlatımı Benn Steil'in The Battle of Bretton Woods çalışmasındadır.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "YENI IDDIA: govdede dipnotlu, matriste kaydi yoktu. Cumlenin ilk yarisi (\"kimin parasiyla ve kimin kurallariyla\") yorumdur, ikinci yarisi bibliyografik yonlendirmedir. k5 kitabin archive.org kaydidir ve odunc verme kisitlidir; kunye dogrulama dizesi \"The battle of Bretton Woods\" birebir gecer, yani eserin varligi ve konusu dogrulanir, yorum kismi kaynaktan cikmaz — destek kismi. NOT: govdede kitap adi italiktir (*The Battle of Bretton Woods*), matris cumlesi arac normalinde (yildizsiz) saklanir."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "ABD Hazine Bakanı Henry Morgenthau merkezleri New York'ta istiyordu; halefi Fred Vinson, \"uluslararası finans\" çağrışımının kurumları Amerikan kamuoyunda yıpratacağı gerekçesiyle ikisini de tek taraflı bir kararla Washington'a yerleştirdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CUMLE GUNCELLENDI: govdedeki tam haline oturtuldu (adlar ve gerekce kisaltilmisti). k1 \"US Treasury Secretary Henry Morgenthau Jr. intended them to be located in New York, but his successor Fred M. Vinson unilaterally decided that they would be in Washington, D.C.\" ve \"the taint of 'international finance'\" dizelerini birebir tasir."
     },
     {
       "iddia_id": "i06",
-      "cumle": "Anlaşma metni 22 Temmuz 1944'te imzaya açıldı; birinci madde amaçları sayar: parasal işbirliğini kalıcı kurum üzerinden yürütmek, ticaretin dengeli büyümesi, kur istikrarı ve rekabetçi devalüasyondan kaçınma.",
+      "cumle": "Anlaşma metni (Articles of Agreement) 22 Temmuz 1944'te, konferansın kapanış gününde imzaya açıldı.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
         {
           "anahtar": "k3",
           "destek": "dogrudan"
-        },
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CUMLE GUNCELLENDI: eski kayit imza tarihi ile amaclar maddesini tek iddiada birlestiriyordu; govde ikiye ayirdigi icin bu kayit imza cumlesine oturtuldu ve k2 dusuruldu (amaclar maddesi artik i42). k3 hem \"Articles of Agreement of the International Monetary Fund, July 22, 1944\" hem \"Final Act of the United Nations Monetary and Financial Conference dated July 22, 1944\" dizelerini birebir tasir; \"konferansin kapanis gunu\" nitelemesi bu Final Act tarihinden gelir. ZAMAN DAMGASI NOTU: k2'nin UNTS girisi ayni metni \"Signed at Washington, on 27 December 1945\" diye tarihler — bu bir celiski degil, farkli kilometre taslaridir (1944 imzaya acilis / 1945 yururluk)."
+    },
+    {
+      "iddia_id": "i42",
+      "cumle": "Birinci madde Fon'un amaçlarını sayar: uluslararası parasal işbirliğini kalıcı bir kurum üzerinden yürütmek, ticaretin dengeli büyümesini kolaylaştırmak, kur istikrarını korumak ve rekabetçi devalüasyonlardan kaçınmak.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
         {
           "anahtar": "k2",
           "destek": "dogrudan"
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "YENI IDDIA: eski matriste i06'nin icine gomuluydu, govdede ayri cumle. k2'nin Madde I'i dortlu sayimi birebir tasir: \"To promote international monetary co-operation through a permanent institution\", \"To facilitate the expansion and balanced growth of international trade\", \"To promote exchange stability\", \"to avoid competitive exchange depreciation\"."
     },
     {
       "iddia_id": "i07",
-      "cumle": "Metin her üyeye bir kota atar ve her üyenin parasının değerini altın ya da ABD doları cinsinden tanımlanan sabit bir par değere bağlar.",
+      "cumle": "Metin her üyeye bir kota atar ve her üyenin parasının değerini altın ya da ABD doları cinsinden tanımlanan sabit bir \"par değer\"e bağlar.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -117,25 +175,21 @@
     },
     {
       "iddia_id": "i08",
-      "cumle": "1930'ların buhranında ülkelerin değer düşürme yarışı yakın geçmişteydi; sabit kur ve ortak havuz bu yarışın tekrarına karşı kurulmuş bir sigortaydı.",
+      "cumle": "1930'ların buhranında ülkelerin birbirine karşı para değerini düşürme yarışı hâlâ taze bir anıydı; sabit kur ve ortak havuz, o yarışın bir daha yaşanmaması için kurulmuş bir sigortaydı.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
-        {
-          "anahtar": "k2",
-          "destek": "dogrudan"
-        },
         {
           "anahtar": "k1",
           "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "k2'nin amac maddesi rekabetci devaluasyondan kacinmayi acikca sayar; buhran baglami k1'den gelir."
+      "inceleme": "CUMLE GUNCELLENDI: govdedeki birebir haline oturtuldu; eski kayittaki k2 dusuruldu cunku govde bu cumlede yalniz k1'e dayaniyor. DESTEK DUSURULDU (dogrudan -> kismi): k1 \"During the Great Depression, countries sharply raised barriers to trade... This led to the devaluation of national currencies and a decline in world trade\" ve \"This breakdown in international monetary cooperation created a need for oversight\" der; yani konuyu tasir ama cumlenin \"birbirine karsi deger dusurme YARISI\" ve \"sigorta\" cercevesini bu sozcuklerle kurmaz. Yarismaci devaluasyon ifadesi kurucu metnin kendisinde gecer (k2, Madde I(III): \"to avoid competitive exchange depreciation\") ve govde onu bir onceki paragrafta i42 ile kayda gecirir."
     },
     {
       "iddia_id": "i09",
-      "cumle": "Tasarımın uluslararası kapitalizmin yeniden inşasını ulusal iktisadi egemenlikle dengelemesi, iktisat yazınında 'yuvalanmış liberalizm' adıyla anılır.",
+      "cumle": "Tasarımın bütünü, uluslararası kapitalizmin yeniden inşasını ulusal iktisadi egemenlikle dengelemeyi amaçlıyordu; iktisat yazını bu uzlaşmaya yuvalanmış liberalizm adını verir.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -145,11 +199,25 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "CUMLE GUNCELLENDI: govdedeki birebir haline oturtuldu. k1 \"its design allowed the system to balance the rebuilding of international capitalism with the maximization of national economic sovereignty and human welfare, also known as embedded liberalism\" dizesini birebir tasir. NOT: govdede terim italiktir (*yuvalanmis liberalizm*), matris cumlesi arac normalinde saklanir."
+    },
+    {
+      "iddia_id": "i43",
+      "cumle": "Sonraki on yıllarda görev tanımı bu çekirdeğin çok ötesine genişleyecekti.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "YENI IDDIA: govdede dipnotlu, matriste kaydi yoktu. Bolum sonu ileri-baglama cumlesi. k1 gorev tanimindaki genislemeyi (kur bekciliginden yapisal uyuma, oradan bugunku misyon beyanina) anlatir; cumle bu anlatinin ozeti oldugu ve kaynakta bu haliyle bir onerme olarak durmadigi icin destek kismi."
     },
     {
       "iddia_id": "i10",
-      "cumle": "Temel oylar toplam oyların yüzde 5,502'sini dağıtır ve kotanın her 100.000 SDR'lik dilimi bir ek oy getirir; temel oyların küçük ülkeler lehine eğimini kotaya bağlı oylar fazlasıyla siler.",
+      "cumle": "Her üyenin az sayıda temel oyu vardır — toplam oyların yüzde 5,502'si bu kanaldan dağılır — ve kotasının her 100.000 SDR'lik dilimi bir ek oy getirir; temel oylar küçük ülkeler lehine hafif bir eğim yaratsa da kotaya bağlı oylar bu eğimi fazlasıyla siler.",
       "onem": "merkezi",
       "tur": "sayi",
       "kaynaklar": [
@@ -159,11 +227,11 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "k1 \"equal to 5.502% of the total votes\", \"plus one additional vote for each special drawing right (SDR) of 100,000 of a member country's quota\" ve \"The basic votes generate a slight bias in favour of small countries, but the additional votes determined by SDR outweigh this bias\" dizelerini birebir tasir."
     },
     {
       "iddia_id": "i11",
-      "cumle": "Erişim tarihinde (Ağustos 2026) ABD kotanın yüzde 17,42'sini ve oyların yüzde 16,49'unu tutar; oy payı değişikliği yüzde 85 çoğunluk gerektirdiği ve yüzde 16 üstünde oyu olan tek üye ABD olduğu için eşik tek ülkeye fiilî veto verir.",
+      "cumle": "Erişim tarihinde (Ağustos 2026) en büyük pay ABD'nindir: kotanın yüzde 17,42'si, oyların yüzde 16,49'u.",
       "onem": "merkezi",
       "tur": "sayi",
       "kaynaklar": [
@@ -173,11 +241,25 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Fiili veto cikarimi k1'in kendi anlatimindadir: 2010 reformlarinin, yuzde 85 oy gucu gerektigi ve ABD yuzde 16'nin ustunde oy tuttugu icin ABD Kongresi onayina takildigini acikca yazar ('since 85% of the Fund's voting power was required ... and the Americans held more than 16%'). Kor hakem fetch ile dogruladi."
+      "inceleme": "CUMLE GUNCELLENDI: eski kayit sayilar ile veto cikarimini tek iddiada birlestiriyordu; govde ikiye ayirdigi icin bu kayit sayi cumlesine oturtuldu (veto cikarimi artik i44). k1'in kota tablosu ABD satirinda 17.42 ve 16.49 degerlerini birebir tasir. ZAMAN DAMGASI: bu iki sayi k1'in kendi kaynagi olan IMF \"Members' Quotas and Voting Power\" sayfasindan gelir ve kota gozden gecirmeleriyle degisir; govde degeri \"erisim tarihinde (Agustos 2026)\" diye damgaladigi icin sayfa ilerde degisirse bu celiski degil, tarih farki olur."
+    },
+    {
+      "iddia_id": "i44",
+      "cumle": "Oy paylarını değiştirmek yüzde 85 çoğunluk gerektirdiği ve yüzde 16'nın üzerinde oy taşıyan tek üye ABD olduğu için, bu eşik tek bir ülkeye fiilî veto verir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "YENI IDDIA: eski matriste i11'in icine gomuluydu, govdede ayri cumle. k1 \"Changes in the voting shares require approval by a super-majority of 85% of voting power\" dizesini birebir tasir ve fiili veto cikarimini kendi anlatiminda kurar: 2010 reformlarinin ABD Kongresi'ne takilmasini \"since 85% of the Fund's voting power was required for the reforms to take effect, and the Americans held more than 16% of voting power at the time\" diye acikca baglar. \"Fiili veto\" nitelemesi makalenin govde metninde bu sozcukle gecmez; makalenin kaynakcasindaki bir baslikta (\"Obama seeks to keep IMF veto...\") gecer."
     },
     {
       "iddia_id": "i12",
-      "cumle": "G20'nin 2010'da kararlaştırdığı, yükselen ekonomilere pay aktaran reform paketi ABD Kongresi onaylamadığı için bekledi ve ancak 2015 sonunda yürürlüğe girebildi.",
+      "cumle": "G20'nin 2010'da kararlaştırdığı, yükselen ekonomilere pay aktaran reform paketi, ABD Kongresi onaylamadığı için beş yıl bekledi ve ancak 2015 sonunda yürürlüğe girebildi.",
       "onem": "destek",
       "tur": "tarih",
       "kaynaklar": [
@@ -187,11 +269,11 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "k1 \"Reforms to give more powers to emerging economies were agreed by the G20 in 2010\" ve \"the U.S. finally ratified the voting reforms at the end of 2015\" dizelerini birebir tasir."
     },
     {
       "iddia_id": "i13",
-      "cumle": "Stiglitz, gelişmekte olan ülkelerin 1944'e göre dünya ekonomisinin çok daha büyük bölümünü temsil ettiği hâlde karar mekanizmasındaki seslerinin aynı oranda büyümediğini savunur.",
+      "cumle": "Eleştirinin özü de buradadır: Joseph Stiglitz'in sözleriyle, gelişmekte olan ülkeler 1944'e göre dünya ekonomisinin çok daha büyük bölümünü temsil ettiği hâlde karar mekanizmasındaki sesleri aynı oranda büyümemiştir.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -208,8 +290,22 @@
       "inceleme": "k1 Stiglitz'in bu yondeki sozunu dogrudan aktarir; k4 yazarin ayni konumdaki kitabidir."
     },
     {
+      "iddia_id": "i45",
+      "cumle": "Özel Çekme Hakkı (SDR), 1969'da yaratılan hesap birimidir ve para birimleri üzerinde potansiyel bir alacağı temsil eder.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "YENI IDDIA: govdede dipnotlu, matriste kaydi yoktu. k1 \"The SDR is the unit of account of the IMF and represents a potential claim to currency\" ve \"When SDRs were created in 1969\" dizelerini birebir tasir."
+    },
+    {
       "iddia_id": "i14",
-      "cumle": "SDR 1969'da yaratıldı; ilk tanımında 0,888671 gram altına, o günkü değeriyle aşağı yukarı bir dolara eşitti ve 1973'te dünya para birimlerinden oluşan bir sepet olarak yeniden tanımlandı.",
+      "cumle": "İlk tanımında bir SDR 0,888671 gram altına — o günkü değeriyle aşağı yukarı bir ABD dolarına — eşitti; sabit kur düzeninin 1971'de bitmesinin ardından 1973'te seçilmiş dünya para birimlerinden oluşan bir sepet olarak yeniden tanımlandı.",
       "onem": "merkezi",
       "tur": "sayi",
       "kaynaklar": [
@@ -219,11 +315,25 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "k1 \"they were each worth 0.888671 grams of gold, roughly the equivalent of one US dollar at the time\" ve \"In 1973, following the termination of the Bretton Woods agreement in 1971, the IMF redefined the SDR as equivalent to the value of a specific selection of world currencies\" dizelerini birebir tasir."
+    },
+    {
+      "iddia_id": "i46",
+      "cumle": "Kotalar, krediler ve oy hesabı bu birim üzerinden yürür.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "YENI IDDIA: govdede dipnotlu, matriste kaydi yoktu. k1 SDR'yi \"the unit of account of the IMF\" diye tanimlar, kota tablosunu XDR cinsinden verir ve oylari 100.000 SDR'lik dilimlere baglar; yani kotalar ve oy hesabi dogrudan okunur. \"Krediler\"in de bu birim uzerinden yurudugu hesap birimi tanimindan cikarilir, makalede ayri bir cumle olarak yazmaz — bu yuzden destek kismi."
     },
     {
       "iddia_id": "i15",
-      "cumle": "Sabit kur düzeni ABD'nin 1971'de doların altına çevrilebilirliğini askıya almasıyla çöktü; değişiklik 1976 Jamaika Mutabakatı'yla metne işlendi ve kurum ödemeler dengesi ile kriz yönetimine kaydı.",
+      "cumle": "Fon'un ilk otuz yılında gözettiği sabit kur düzeni, ABD'nin 1971'de doların altına çevrilebilirliğini askıya almasıyla çöktü; anlaşma metnindeki karşılığı 1976 Jamaika Mutabakatı'yla düzenlendi ve düzenin kendisi sayfasında ele alınıyor.",
       "onem": "merkezi",
       "tur": "tarih",
       "kaynaklar": [
@@ -233,29 +343,53 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "CUMLE GUNCELLENDI: eski kayit iki govde cumlesini birlestiriyordu; kur duzeninin cokusu cumlesine oturtuldu (rol degisimi artik i47). k1 \"The Bretton Woods exchange rate system prevailed until 1971 when the United States government suspended the convertibility of the US$ ... into gold\" ve \"The changes to the IMF articles of agreement reflecting these changes were ratified in 1976 by the Jamaica Accords\" dizelerini birebir tasir. NOT: govde cumlesi bir ic bag icerir ([Bretton Woods duzeni](/olay/bretton-woods/)); matris cumlesi arac normalinde (bag metni cikarilmis) saklanir."
     },
     {
-      "iddia_id": "i16",
-      "cumle": "1970'lerde petrodolar mevduatıyla dolan ticari bankaların devlet kredileri 1980'lerin resesyonunda krize dönünce Fon geri döndü; 1980'lerin ortasında odak, resmî yeniden müzakere olmadan ve Reagan yönetiminin basıncıyla yapısal uyum programlarına genişledi.",
+      "iddia_id": "i47",
+      "cumle": "Kurum bu tarihten sonra kur bekçiliğinden, ödemeler dengesi güçlüklerini ve uluslararası finansal krizleri yönetmeye kaydı.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
         {
           "anahtar": "k1",
           "destek": "dogrudan"
-        },
-        {
-          "anahtar": "k6",
-          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "k6 tam bu on yilin kurum tarihidir; archive.org kaydi odunc kisitli, fetch edilen sayfa kunyeyi dogrular. Anlatinin ayrintilari k1'den gelir."
+      "inceleme": "YENI IDDIA: eski matriste i15'in icine gomuluydu, govdede ayri cumle. k1'in giris paragrafi \"Following the collapse of this system in 1971, the Fund's role shifted to managing balance-of-payments difficulties and international financial crises\" dizesini birebir tasir."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "1970'lerde petrol ihracatçılarının mevduatıyla dolan büyük ticari bankalar devletlere bol kredi açmıştı; 1980'lerin başındaki dünya resesyonu bu borçları krize çevirince Fon küresel finans yönetişiminin merkezine geri döndü.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CUMLE GUNCELLENDI: eski kayit 1970'ler bankaciligi ile 1980'ler ortasindaki odak kaymasini tek iddiada birlestiriyordu; govde ikiye ayirdigi icin bu kayit banka-resesyon cumlesine oturtuldu (odak kaymasi artik i48) ve k6 dusuruldu (k6 govdede ayri bir cumlenin, i17'nin kaynagi). k1 \"large commercial banks began lending to states because they were awash in cash deposited by oil exporters\" ve \"a world recession provoked a crisis that brought the IMF back into global financial governance\" dizelerini birebir tasir."
+    },
+    {
+      "iddia_id": "i48",
+      "cumle": "1980'lerin ortasında odak, dar kur istikrarından piyasa serbestleştirici reformların yapısal uyum programlarıyla teşvikine genişledi; bu kayma anlaşmanın resmî bir yeniden müzakeresi olmadan gerçekleşti ve Reagan yönetiminin, özellikle Hazine Bakanı James Baker'ın basıncını taşıyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "YENI IDDIA: eski matriste i16'nin icine gomuluydu, govdede ayri cumle. k1 \"In the mid-1980s, the IMF shifted its narrow focus from currency stabilization to a broader focus of promoting market-liberalizing reforms through structural adjustment programs\", \"This shift occurred without a formal renegotiation of the organization's charter or operational guidelines\" ve \"The Ronald Reagan administration, in particular Treasury Secretary James Baker ... pressured the IMF\" dizelerini birebir tasir."
     },
     {
       "iddia_id": "i17",
-      "cumle": "Kurumun kendi yayımladığı dönem tarihi bu on yılı 'sessiz devrim' diye adlandırır.",
+      "cumle": "Kurumun kendi yayımladığı dönem tarihi bu on yılı \"sessiz devrim\" diye adlandırır.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -269,7 +403,7 @@
     },
     {
       "iddia_id": "i18",
-      "cumle": "Koşulluluk 1950'lerde yerleşti: Fon kaynak karşılığında hükümetten makroekonomik dengesizlikleri politika reformuyla düzeltmesini ister; şartlar yerine getirilmezse para verilmez.",
+      "cumle": "Koşulluluk, Fon'un kaynak karşılığında şart koştuğu politikalar demetidir ve 1950'lerde yerleşmiştir: yardım isteyen hükümetin makroekonomik dengesizliklerini politika reformuyla düzeltmesi istenir, şartlar yerine getirilmezse para verilmez.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -279,11 +413,11 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "CUMLE GUNCELLENDI: govdedeki birebir haline oturtuldu. k1 \"IMF conditionality is a set of policies or conditions that the IMF requires in exchange for financial resources\", \"requires the government seeking assistance to correct its macroeconomic imbalances in the form of policy reform\", \"If the conditions are not met, the funds are withheld\" ve \"The concept of conditionality was introduced in a 1952 Executive Board decision\" dizelerini birebir tasir."
     },
     {
       "iddia_id": "i19",
-      "cumle": "Yapısal uyumun tipik başlıkları kemer sıkma, üretimi ihracata ve kaynak çıkarımına yöneltme, devalüasyon, ticaretin serbestleştirilmesi, fiyat kontrolleri ile sübvansiyonların kaldırılması ve özelleştirmedir; reçete Washington Mutabakatı adıyla anılır.",
+      "cumle": "Yapısal uyumun tipik başlıkları bellidir: harcamaları kısmak ya da gelirleri artırmak — yani kemer sıkmak —, üretimi ihracata ve kaynak çıkarımına yöneltmek, devalüasyon, ticaretin serbestleştirilmesi, fiyat kontrollerinin ve sübvansiyonların kaldırılması, özelleştirme.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -293,11 +427,25 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "k1'in yapisal uyum listesi (harcama kisma, ihracata ve kaynak cikarimina yonelme, devaluasyon, ticaret serbestlestirmesi, fiyat kontrolleri ve subvansiyonlarin kaldirilmasi, ozellestirme) govdedeki sayimla ortusur."
+    },
+    {
+      "iddia_id": "i49",
+      "cumle": "Bu reçete Washington Mutabakatı adıyla anılır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "YENI IDDIA: govdede dipnotlu, matriste kaydi yoktu. k1 \"These conditions are known as the Washington Consensus\" dizesini birebir tasir."
     },
     {
       "iddia_id": "i20",
-      "cumle": "Savunma: kredi isteyen ülkelerde uluslararası değerde teminat çoğu zaman yoktur; şartlar geri ödemeyi güvenceler, sorunların küresel ekonomiye zarar veren yollarla çözülmesini önler ve ahlaki tehlikeyi teminat yerine koşullarla dizginler.",
+      "cumle": "Krediye ihtiyaç duyan ülkelerin elinde çoğu zaman uluslararası değerde teminat yoktur; şartlar hem geri ödemeyi güvence altına alır hem de sorunun küresel ekonomiye zarar verecek yollarla çözülmesini önler, ahlaki tehlike sorunu teminat yerine koşullarla dizginlenir.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -307,11 +455,25 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "CUMLE GUNCELLENDI: govdedeki birebir haline oturtuldu. k1 \"These loan conditions ensure that the borrowing country will be able to repay the IMF and that the country will not attempt to solve their balance-of-payment problems in a way that would negatively impact the international economy\" ve \"moral hazard ... is mitigated through conditions rather than providing collateral; countries in need of IMF loans do not generally possess internationally valuable collateral anyway\" dizelerini birebir tasir. KAYNAK ICI CELISKI NOTU: ayni makalenin Conditionality bolumunde \"The IMF does require collateral from countries for loans but also requires...\" diye baslayan bir cumle durur; \"but also\" kurulusu ve hemen ardindaki Benefits paragrafi bunun dusmus bir olumsuzluk oldugunu gosterir. Govde, ayni makalenin tutarli ve ayrintili paragrafini alir, bozuk cumleyi almaz — i26'daki ayni tur karar gibi."
+    },
+    {
+      "iddia_id": "i50",
+      "cumle": "Üyelik ayrıca bilgiye erişim, teknik yardım ve ödeme güçlüğünde finansal destek getirir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "YENI IDDIA: govdede dipnotlu, matriste kaydi yoktu. k1'in Benefits paragrafi \"access to information on the economic policies of all member countries\", \"technical assistance in banking, fiscal affairs, and exchange matters\" ve \"financial support in times of payment difficulties\" dizelerini birebir tasir."
     },
     {
       "iddia_id": "i21",
-      "cumle": "Eleştiri: kemer sıkma şartlarının toparlanmayı geciktirdiği ve en kırılgan kesimleri vurduğu, koşulların iktisadi egemenliği daralttığı ve yönetişimin oy gücünü elinde tutan Batılı ülkelerin denetiminde olduğu savunulur.",
+      "cumle": "Kemer sıkma şartlarının toparlanmayı geciktirdiği ve en kırılgan kesimleri vurduğu, koşulların borçlanan ülkenin iktisadi egemenliğini daralttığı ve yönetişimin oy gücünü elinde tutan Batılı ülkelerin denetiminde olduğu savunulur.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -321,29 +483,25 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "k1'in giris paragrafi elestiriyi birebir tasir: \"criticized for imposing austerity measures that can hinder economic recovery and harm the most vulnerable populations\", \"the Fund's policies limit the economic sovereignty of borrowing nations and that its governance structure is dominated by Western countries\"."
     },
     {
       "iddia_id": "i22",
-      "cumle": "Stiglitz, Globalization and Its Discontents'te Fon'un kriz reçetelerinin uygulandıkları ülkelerde krizi çoğu kez derinleştirdiğini savunur.",
+      "cumle": "Dünya Bankası'nın eski başekonomisti Stiglitz, Globalization and Its Discontents kitabında bu eleştiriyi kurumsal bir iddiaya çevirdi: Fon'un kriz reçeteleri, uygulandıkları ülkelerde krizi çoğu kez derinleştirmiştir.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
         {
           "anahtar": "k4",
           "destek": "kismi"
-        },
-        {
-          "anahtar": "k1",
-          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "k4 kitabin kendisidir ama archive.org kaydi odunc kisitli; fetch edilen sayfa kunyeyi dogrular, tezin icerigi kitaptan bilinir. k1 ayni yondeki elestiri hattini (kemer sikma ve deregulasyonun krizleri agirlastirdigi savi) tasir."
+      "inceleme": "CUMLE GUNCELLENDI: govdedeki birebir haline oturtuldu; k1 dusuruldu cunku govde bu cumlede yalniz k4'e dayaniyor. k4 kitabin archive.org kaydidir ve odunc verme kisitlidir; kunye dizesi \"Globalization and its discontents\" birebir gecer, yani eser ve yazar dogrulanir, tezin metni kayittan okunamaz — destek kismi. YAN TUTMA UYARISI: bu cumle IMF'nin kendi beyani degil, ELESTIRMENIN savidir; govde de onu Stiglitz'e atfederek verir. NOT: govdede kitap adi italiktir, matris cumlesi arac normalinde saklanir."
     },
     {
       "iddia_id": "i23",
-      "cumle": "1997 Asya krizinde Güney Kore kamuoyu, ekonomiyi kökten yeniden yapılandırmayı ve borç bitene dek iktisadi kararları Fon'a danışmayı gerektiren şartları yaygın biçimde borç tuzağı olarak algıladı.",
+      "cumle": "1997 Asya krizi tartışmanın dönüm noktasıydı; Güney Kore kamuoyu, ekonomiyi kökten yeniden yapılandırmayı ve borç bitene dek iktisadi kararları Fon'a danışmayı gerektiren şartları yaygın biçimde bir borç tuzağı olarak algıladı.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -357,7 +515,7 @@
     },
     {
       "iddia_id": "i24",
-      "cumle": "Oxfam 2020-21'de, salgın sırasında düşük gelirli ülkelere dayatılan kemer sıkmanın sağlık harcamalarını kısarak salgınla mücadeleyi zayıflattığını ileri sürdü.",
+      "cumle": "Benzer bir itiraz 2020-21'de Oxfam'dan geldi: salgın sırasında düşük gelirli ülkelere dayatılan kemer sıkmanın sağlık harcamalarını kıstığı ve salgınla mücadeleyi zayıflattığı ileri sürüldü.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -367,11 +525,11 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "k1 Oxfam'in 2020-21 itirazini aktarir; iddia Oxfam'a atfen verilir, IMF'nin kendi beyani degildir."
     },
     {
       "iddia_id": "i25",
-      "cumle": "İki taraf aynı olguya bakar; ayrıştıkları nokta şartların krizin ilacı mı yoksa büyütücüsü mü olduğudur.",
+      "cumle": "İki taraf aynı olguya bakar; ayrıştıkları nokta, şartların krizin ilacı mı yoksa krizin büyütücüsü mü olduğudur.",
       "onem": "renk",
       "tur": "yorum",
       "kaynaklar": [
@@ -384,8 +542,22 @@
       "inceleme": "Iki pozisyonun karsilastirilmasindan cikarilan cerceve yorumu; tek kaynakla olculmez."
     },
     {
+      "iddia_id": "i51",
+      "cumle": "Üyelik ülkelere açıktır; her ülke başvurabilir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "YENI IDDIA: govdede dipnotlu, matriste kaydi yoktu. k1 \"Any country may apply to be a part of the IMF\" dizesini birebir tasir."
+    },
+    {
       "iddia_id": "i26",
-      "cumle": "Üyelik ülkelere açıktır ve her ülke başvurabilir; erişim tarihinde (Ağustos 2026) üye sayısı 191'dir: 190 BM üyesi ile BM üyesi olmayan tek üye olarak Kosova.",
+      "cumle": "Erişim tarihinde (Ağustos 2026) üye sayısı 191'dir: 190 Birleşmiş Milletler üyesi ile, BM üyesi olmayan tek üye olarak Kosova.",
       "onem": "merkezi",
       "tur": "sayi",
       "kaynaklar": [
@@ -409,7 +581,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "k1 \"Liechtenstein became the 191st member on 21 October 2024\" dizesini birebir tasir; govde gunu vermez, ayi verir."
     },
     {
       "iddia_id": "i28",
@@ -423,11 +595,11 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "k1 \"Former members are Cuba (which left in 1964)\" ve \"Apart from Cuba, the other UN states that do not belong to the IMF are Monaco and North Korea\" dizelerini birebir tasir."
     },
     {
       "iddia_id": "i29",
-      "cumle": "Hong Kong ve Makao gibi egemen olmayan alanlar üye değildir; Fon'un veri yayımlama standartlarına üyelik olmadan katkı sunarlar.",
+      "cumle": "Hong Kong ve Makao gibi egemen olmayan alanlar ise üye değildir; Fon'un veri yayımlama standartlarına üyelik olmadan katkı sunarlar.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -441,7 +613,7 @@
     },
     {
       "iddia_id": "i30",
-      "cumle": "Polonya 1950'de çekilip 1986'da döndü, Çekoslovakya 1954'te çıkarılıp 1990'da yeniden alındı ve Tayvan'ın koltuğu 1980'de Çin Halk Cumhuriyeti'ne geçti.",
+      "cumle": "Kümenin bugünkü genişliği Soğuk Savaş'ın izlerini örtmesin: Polonya 1950'de çekilip 1986'da döndü, Çekoslovakya 1954'te çıkarılıp 1990'da yeniden alındı ve Tayvan'ın koltuğu 1980'de Çin Halk Cumhuriyeti'ne geçti.",
       "onem": "destek",
       "tur": "tarih",
       "kaynaklar": [
@@ -451,29 +623,39 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "CUMLE GUNCELLENDI: eski kayit govde cumlesinin yalnizca ikinci yarisiydi (bas cumlecik eksikti), bu yuzden matris kapsaminda kaydsiz gorunuyordu; tam cumleye oturtuldu. k1 \"Poland withdrew in 1950 ... but returned in 1986\", \"The former Czechoslovakia was expelled in 1954 ... and was readmitted in 1990\" ve Tayvan icin \"ejected from the IMF in 1980 ... and was replaced by the People's Republic of China\" dizelerini birebir tasir."
     },
     {
       "iddia_id": "i31",
-      "cumle": "Fon'a üye olan her ülke Uluslararası İmar ve Kalkınma Bankası'na da üyedir, tersi de geçerlidir; iki kurumun kurucu anlaşmaları aynı konferanstan çıkmış ve antlaşma serisinde yan yana basılmıştır.",
+      "cumle": "Bretton Woods'un öbür kurumuyla üyelik karşılıklı şarttır: Fon'a üye olan her ülke Uluslararası İmar ve Kalkınma Bankası'na da üyedir, tersi de geçerlidir.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
         {
           "anahtar": "k1",
           "destek": "dogrudan"
-        },
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CUMLE GUNCELLENDI: eski kayit karsilikli uyelik ile antlasma serisi olgusunu tek iddiada birlestiriyordu; govde ikiye ayirdigi icin bu kayit uyelik cumlesine oturtuldu ve k2 dusuruldu (seri olgusu artik i52). k1 \"All members of the IMF are also International Bank for Reconstruction and Development (IBRD) members and vice versa\" dizesini birebir tasir."
+    },
+    {
+      "iddia_id": "i52",
+      "cumle": "İki kurumun kurucu anlaşmaları aynı konferanstan çıkmış ve antlaşma serisinde yan yana basılmıştır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
         {
           "anahtar": "k2",
           "destek": "dogrudan"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "k2'nin UNTS cildi iki anlasmayi ayni girdide icerir."
+      "inceleme": "YENI IDDIA: eski matriste i31'in icine gomuluydu, govdede ayri cumle. k2'nin UNTS girisi iki anlasmayi tek numarada birlestirir: \"No. 20 BRETTON WOODS AGREEMENTS — Articles of Agreement of the International Monetary Fund and Articles of Agreement of the International Bank for Reconstruction and Development\" dizesi birebir gecer."
     },
     {
       "iddia_id": "i32",
-      "cumle": "Dünya Bankası'nın borç istatistikleri, IMF kredisi kullanımını ülkelerin dış borç stokunun ayrı bir kalemi olarak izler.",
+      "cumle": "Bugün de hesapları iç içedir: Dünya Bankası'nın borç istatistikleri, IMF kredisi kullanımını ülkelerin dış borç stokunun ayrı bir kalemi olarak izler.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -483,11 +665,11 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Gosterge adi (Use of IMF credit, DOD, current US$) iddiayi tasir; seri degerleri istemci tarafinda cizildigi icin kunye sayi tasimaz ve govde sayi vermez."
+      "inceleme": "CUMLE GUNCELLENDI: eski kayit govde cumlesinin ikinci yarisiydi; tam cumleye oturtuldu. Gosterge adi (\"Use of IMF credit (DOD, current US$)\") iddiayi tasir; seri degerleri istemci tarafinda cizildigi icin kunye sayi tasimaz ve govde sayi vermez."
     },
     {
       "iddia_id": "i33",
-      "cumle": "2000'lerin ortasında kredi hacmi dünya hasılasına oranla 1970'lerden beri en düşük düzeydeydi; 2008'de kota paylarını dinamik yükselen ekonomilere kaydıran bir reform dizisi kabul edildi.",
+      "cumle": "2000'lerin ortasında kredi hacmi, dünya hasılasına oranla 1970'lerden beri en düşük düzeyine inmişti; kurumu yeniden merkeze taşıdı.",
       "onem": "merkezi",
       "tur": "sayi",
       "kaynaklar": [
@@ -497,39 +679,11 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Govdedeki '2008 krizi kurumu yeniden merkeze tasidi' cumlesi, k1'in aktardigi dusuk hacim - kriz - buyuk kurtarma paketleri sirasinin okunmasidir. Hakem duzeltmesi: k1'in 2008 cumlesi 'yuzde 6 kayma' der ama ayni makale yuzde 6'dan fazla kaymayi 2010 reformlarina da baglar ve IMF'nin kendi hesabinda 2008 reformunun kaymasi daha kucuktur (~4,9 puan); sayi karisikliga acik oldugundan govde yuzde rakamini 2008'e baglamaz, reformun yonunu verir."
+      "inceleme": "CUMLE GUNCELLENDI: eski kayit dusuk kredi hacmi ile 2008 reformlarini tek iddiada birlestiriyordu; govde ikiye ayirdigi icin bu kayit hacim cumlesine oturtuldu (reform artik i53). k1 \"by the mid-2000s, IMF lending was at its lowest share of world GDP since the 1970s\" dizesini birebir tasir. NOT: govde cumlesi bir ic bag icerir ([2008 finansal krizi](/olay/2008-finansal-krizi/)); matris cumlesi arac normalinde saklanir."
     },
     {
-      "iddia_id": "i34",
-      "cumle": "Fon, Mayıs 2010'da toplamı 110 milyar avroyu bulan ilk Yunanistan paketine 3:11 oranıyla katıldı; paket borç silme içermiyor, açığı 2014'e dek yüzde 3'ün altına indirecek kemer sıkma içeriyordu ve bileşim kurumun icra direktörleri arasında itiraz gördü.",
-      "onem": "merkezi",
-      "tur": "sayi",
-      "kaynaklar": [
-        {
-          "anahtar": "k1",
-          "destek": "dogrudan"
-        }
-      ],
-      "guven": "yuksek",
-      "inceleme": ""
-    },
-    {
-      "iddia_id": "i35",
-      "cumle": "Ocak 2012 itibarıyla en büyük borçlular Yunanistan, Portekiz, İrlanda, Romanya ve Ukrayna'ydı; Mart 2020'de kurum salgına karşı 1 trilyon dolarlık kaynağı seferber etmeye hazır olduğunu duyurdu.",
-      "onem": "destek",
-      "tur": "sayi",
-      "kaynaklar": [
-        {
-          "anahtar": "k1",
-          "destek": "dogrudan"
-        }
-      ],
-      "guven": "yuksek",
-      "inceleme": ""
-    },
-    {
-      "iddia_id": "i36",
-      "cumle": "Kurumun bugünkü misyon beyanı parasal işbirliğiyle birlikte finansal istikrarı, ticareti, istihdamı, sürdürülebilir büyümeyi ve yoksulluğun azaltılmasını sayar.",
+      "iddia_id": "i53",
+      "cumle": "Aynı yıl, kota paylarını dinamik yükselen ekonomilere doğru kaydıran bir reform dizisi kabul edildi.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -539,29 +693,53 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "YENI IDDIA: eski matriste i33'un icine gomuluydu, govdede ayri cumle. k1 \"In 2008, a number of quota reforms were passed including shifting 6% of quota shares to dynamic emerging markets and developing countries\" dizesini birebir tasir. SAYI NOTU (onceki hakemden devralindi): ayni makale yuzde 6'dan fazla kaymayi 2010 reformlarina da baglar ve IMF'nin kendi hesabinda 2008 reformunun kaymasi daha kucuktur; sayi karisikliga acik oldugu icin govde yuzde rakamini 2008'e baglamaz, yalniz reformun yonunu verir."
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Avro krizinde Fon, Mayıs 2010'da toplamı 110 milyar avroyu bulan ilk Yunanistan kurtarma paketine 3:11 oranıyla katıldı; paket borç silme içermiyor, buna karşılık açığı 2014'e dek yüzde 3'ün altına indirecek kemer sıkma taahhüdü içeriyordu ve bu bileşim kurumun kendi icra direktörleri arasında da itiraz gördü.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 \"In May 2010, the IMF participated, in 3:11 proportion, in the first Greek bailout that totaled EUR 110 billion\", \"reduce the deficit from 11% in 2009 to 'well below 3%' in 2014\" ve paketin borc yeniden yapilandirmasi icermedigi ile icra direktorlerinin itirazini birebir tasir."
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Ocak 2012 itibarıyla en büyük borçlular Yunanistan, Portekiz, İrlanda, Romanya ve Ukrayna'ydı; Mart 2020'de kurum, salgına karşı 1 trilyon dolarlık kaynağı seferber etmeye hazır olduğunu duyurdu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 \"As of January 2012, the largest borrowers from the IMF in order were Greece, Portugal, Ireland, Romania, and Ukraine\" ve \"In March 2020, Kristalina Georgieva announced that the IMF stood ready to mobilize $1 trillion as its response to the COVID-19 pandemic\" dizelerini birebir tasir."
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "Seksen yılda görev tanımı kur istikrarından yoksulluğun azaltılmasına uzandı; kurumun bugünkü misyon beyanı parasal işbirliğiyle birlikte istihdamı, sürdürülebilir büyümeyi ve yoksulluğun azaltılmasını sayar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 misyon beyanini birebir alintilar: \"working to foster global monetary cooperation, secure financial stability, facilitate international trade, promote high employment and sustainable economic growth, and reduce poverty around the world\"."
     },
     {
       "iddia_id": "i37",
-      "cumle": "Kurucu maddenin dar hedefiyle bugünkü geniş beyan arasındaki açı kurumun tarihinin kısa özetidir; oy dağılımı hâlâ 1944 pazarlığının izini taşır.",
-      "onem": "renk",
-      "tur": "yorum",
-      "kaynaklar": [
-        {
-          "anahtar": "k1",
-          "destek": "baglam"
-        },
-        {
-          "anahtar": "k2",
-          "destek": "baglam"
-        }
-      ],
-      "guven": "orta",
-      "inceleme": "Kurucu metin ile guncel beyanin karsilastirilmasindan cikarilan yorum; tek kaynakla olculmez."
-    },
-    {
-      "iddia_id": "i38",
-      "cumle": "Seksen yıllık tarihin hemen her kavgası kota ve koşulluluk mekanizmalarının çevresinde dönmüştür.",
+      "cumle": "Kurucu maddenin dar hedefiyle bu geniş beyan arasındaki açı, kurumun tarihinin kısa özetidir; oy dağılımı ise hâlâ 1944 pazarlığının izini taşır.",
       "onem": "renk",
       "tur": "yorum",
       "kaynaklar": [
@@ -571,13 +749,27 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "k1'in yonetisim ve elestiri bolumlerinin genellemesi; cerceve yorumu olarak olculmez."
+      "inceleme": "CUMLE GUNCELLENDI: govdedeki birebir haline oturtuldu; k2 dusuruldu cunku govde bu cumlede yalniz k1'e dayaniyor (kurucu maddenin kendisi i42'de k2 ile kayitlidir). Kurucu metin ile guncel beyanin karsilastirilmasindan cikarilan yorum; tek kaynakla olculmez."
     }
   ],
   "sayaclar": {
-    "dogrudan": 33,
-    "kismi": 2,
+    "dogrudan": 44,
+    "kismi": 6,
     "desteksiz": 0,
     "olculemez": 3
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "17 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "18 iddia cumlesi govdedeki birebir karsiligina oturtuldu, 15 yeni iddia eklendi (govdede dipnotlu ama matriste kaydi olmayan cumleler); iddia cikarilmadi, hakem alani degistirilmedi"
+    },
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "2 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }
