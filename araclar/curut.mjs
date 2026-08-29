@@ -38,6 +38,15 @@ const USTUNLUK_YANLIS_POZITIF = [
   /\btek sayı/i,
   /\btek yönl[uü]/i,
   /\bilk okuma\b/i,
+  // Turkce kok cakismalari (2026-08-29 kavram hakemleri): "ilk" ve "tek"
+  // sira/nicelik bildiren yaygin kaliplarda gecer ve ustunluk iddiasi
+  // DEGILDIR. Bir dosyada uc itirazin ucu de bu yuzden yanlis pozitifti.
+  /\bilk\s+(yarı|yari|bölüm|bolum|sınır|sinir|adım|adim|cümle|cumle|paragraf|kısım|kisim|aşama|asama)/i,
+  /\bilk\s+(on|yüz|bin|iki|üç|dört|beş|birkaç|\d+)\b/i,
+  /\bilk\s+günah\b/i,
+  /\btek\s+seferlik\b/i,
+  /\btek\s+kişiydi\b/i,
+  /\bilkel\b/i,
   /\bilk bak/i,
   /\bilk iki\b/i,
   /\bilk elden\b/i,

@@ -59,10 +59,18 @@ export function iddiaCumleleri(govde) {
     .split(/(?<=[.!?](?:\s*\[\^k\d+\])*)\s+(?=[^\s])/)
     .reduce((yigin, parca) => {
       const onceki = yigin[yigin.length - 1];
+      const oncekiTemiz = onceki === undefined ? '' : onceki.replace(/\s*\[\^k\d+\]\s*$/, '');
       const siraSayisiyla = onceki !== undefined
-        && /(?:^|\s)\d{1,4}\.$/.test(onceki.replace(/\s*\[\^k\d+\]\s*$/, ''))
+        && /(?:^|\s)\d{1,4}\.$/.test(oncekiTemiz)
         && /^[a-zçğıöşü\d]/.test(parca);
-      if (siraSayisiyla) yigin[yigin.length - 1] = `${onceki} ${parca}`;
+      // KISALTMA ISTISNASI (2026-08-29 kavram hakemi bulgusu): hukuk davasi
+      // adlarindaki "v." noktasi cumle sonu sayiliyordu ("Somerset v.
+      // Stewart" -> iki parca) ve iddia parcalandigi icin UYDURMA BIR OLGU
+      // denetimden kacmisti. Ayni sinif: bkz. / s. / c. / or. / yy. / Dr. /
+      // Prof. / St. ve tek harfli bas harfler ("J. S. Mill").
+      const KISALTMA = /(?:^|\s)(?:v|vs|bkz|s|c|ör|or|yy|nr|no|Dr|Prof|Doç|St|Mr|Mrs|Ed|ed|çev|haz|bkz|age|agm|[A-ZÇĞİÖŞÜ])\.$/u;
+      const kisaltmayla = onceki !== undefined && KISALTMA.test(oncekiTemiz);
+      if (siraSayisiyla || kisaltmayla) yigin[yigin.length - 1] = `${onceki} ${parca}`;
       else yigin.push(parca);
       return yigin;
     }, []);
