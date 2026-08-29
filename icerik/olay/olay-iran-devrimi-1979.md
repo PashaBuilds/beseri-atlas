@@ -20,6 +20,7 @@ ilgili:
   - olay-arap-bahari
   - olay-11-eylul
   - aktor-safevi-devleti
+  - donem-15
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,7 +1,7 @@
 {
   "id": "tartisma-sozlu-gelenek-kaynak-mi",
   "govde_hash": "b9df050018b7",
-  "commit": "9d53473",
+  "commit": "9181554",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -217,7 +217,7 @@
     },
     {
       "iddia_id": "i014",
-      "cumle": "Kitabın yankısını ölçmek için Genel Afrika Tarihi'nin açılış cildindeki tarihyazımı bölümüne bakmak yeter: bölüm, George Murdock'ın 1959'da yerli sözlü gelenekleri büsbütün güvenilmez sayan hükmünü hatırlatır, ardından 1960'ların Vansina'nın kitabıyla açıldığını ve sözlü geleneğin güvenilir kaynağa dönüşmesi için gerekli eleştirel denetimleri gösterdiğini yazar.",
+      "cumle": "Kitabın yankısını ölçmek için Genel Afrika Tarihi'nin açılış cildindeki tarih yazımı bölümüne bakmak yeter: bölüm, George Murdock'ın 1959'da yerli sözlü gelenekleri büsbütün güvenilmez sayan hükmünü hatırlatır, ardından 1960'ların Vansina'nın kitabıyla açıldığını ve sözlü geleneğin güvenilir kaynağa dönüşmesi için gerekli eleştirel denetimleri gösterdiğini yazar.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -335,7 +335,7 @@
     },
     {
       "iddia_id": "i021",
-      "cumle": "Öte yandan tezin kendisi bir tarihyazımı yasağı içermez; Goody'nin derdi sözlü kültürü değersizleştirmek değil, iki iletişim rejiminin farklı bilgi düzenleri ürettiğini göstermekti ve bu fark, sözlü kaynağın nasıl okunacağına dair bir uyarı olarak da kullanılabilir.",
+      "cumle": "Öte yandan tezin kendisi bir tarih yazımı yasağı içermez; Goody'nin derdi sözlü kültürü değersizleştirmek değil, iki iletişim rejiminin farklı bilgi düzenleri ürettiğini göstermekti ve bu fark, sözlü kaynağın nasıl okunacağına dair bir uyarı olarak da kullanılabilir.",
       "onem": "destek",
       "tur": "yorum",
       "kaynaklar": [
@@ -824,5 +824,11 @@
     "desteksiz": 0,
     "olculemez": 6
   },
-  "not_orkestrator": "2026-08-29: hakem finalize sonrasi mekanik kapi onarimi (dipnotsuz paragraf birlesimi / kilitli terim); icerik iddialari degismedi, hash guncellendi."
+  "not_orkestrator": "2026-08-29: hakem finalize sonrasi mekanik kapi onarimi (dipnotsuz paragraf birlesimi / kilitli terim); icerik iddialari degismedi, hash guncellendi.",
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "4 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

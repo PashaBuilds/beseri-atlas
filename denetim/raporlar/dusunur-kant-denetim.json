@@ -1,99 +1,303 @@
 {
   "id": "dusunur-kant",
   "gecis": 2,
-  "zaman": "2026-08-29T19:34:18.445Z",
-  "govde_hash": "a7b9cff59345",
-  "commit": "2dc84ff",
+  "zaman": "2026-08-29T20:17:17.763Z",
+  "govde_hash": "6c20a0bcd310",
+  "commit": "4a5044d",
   "sonuclar": [
     {
+      "anahtar": "k2",
+      "iddia": "Yazının parolası buradan gelir: \"Sapere aude!\" Suçun kime ait olduğu, cümlenin bütün ağırlığını taşır — vesayet dışarıdan gelse bile ona razı olmak içeriden gel",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bu hamlenin adı özerkliktir ve Kant'ın üç Eleştiri'sinin ortak fikri odur: insan anlama yetisi deneyimimizi yapılandıran genel doğa yasalarının kaynağıdır, insa",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
       "anahtar": "k1",
-      "iddia": "Kaynak onu 1724-1804 arasında yaşamış, modern felsefenin merkezî figürü olarak kaydeder ve erken modern akılcılık ile deneyciliği sentezlediğini yazar.",
+      "iddia": "Aynı hareket siyasete taşındığında bir barış tasarısına dönüşür: Ebedî Barış devletler hukukunu özgür devletlerin federasyonu üzerine kurar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Barış"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Ama aynı külliyat, insanlığı dört ırka bölen ve Avrupa dışını ilerlemenin gerisinde sayan bir sınıflandırma da üretmiştir.",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak üç Eleştiri'yi künyeleriyle sıralar: Saf Aklın Eleştirisi (1781, 1787), Pratik Aklın Eleştirisi (1788) ve Yargı Gücünün Eleştirisi (1790).",
+      "anahtar": "k6",
+      "iddia": "Ama aynı külliyat, insanlığı dört ırka bölen ve Avrupa dışını ilerlemenin gerisinde sayan bir sınıflandırma da üretmiştir.",
       "durum": "OK",
-      "not": "4 atom doğrulandı; 3 ad ölçülemedi"
+      "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "İlk eserin iki yılla birden verilmesi, o eserin iki farklı baskısı bulunduğu anlamına gelir; atlasın kaynak alanında erişilen sürümü tutmasının nedeni budur.",
+      "anahtar": "k2",
+      "iddia": "vesayeti bir mizah gücüyle tarif eder: benim yerime anlayan bir kitabım, benim yerime vicdan taşıyan bir manevi danışmanım, bana perhiz yazan bir doktorum varsa",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Aynı örüntü dosyasında da görülür: kaynak orada da aynı eserin iki farklı baskısını ayrı ayrı kaydeder.",
+      "iddia": "Vasiler önce yürüteci kurar, sonra yürüteçsiz atılacak adımın tehlikesini gösterir; Kant tehlikenin aslında büyük olmadığını, birkaç düşüşten sonra yürümenin öğ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kamusal kullanım, kişinin bir bilgin olarak okur dünyasının tamamı önünde yaptığı kullanımdır ve her zaman özgür olmalıdır; özel kullanım, kendisine emanet edil",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, eleştirel felsefesinin özellikle üç Eleştiri'deki temel fikrinin insan özerkliği olduğunu yazar.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Eleştiri"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir külliyatın tek bir kavrama indirgenmesi, kaynağın kendi özetleme kararıdır; atlas bu özeti bir olgu olarak değil, kaynağın yorumu olarak taşır.",
+      "anahtar": "k2",
+      "iddia": "Vergi mükellefi vergiyi ödemeyi reddedemez; aynı kişi bilgin olarak o verginin adaletsizliğini yazabilir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, insan anlığının bütün deneyimimizi yapılandıran genel doğa yasalarının kaynağı olduğunu ve insan aklının kendisine ahlak yasasını verdiğini savunduğunu ",
+      "anahtar": "k2",
+      "iddia": "Kant, ordusu düzenli ve kalabalık olan aydınlanmış bir hükümdarın, özgür bir devletin söylemeye cesaret edemeyeceği şeyi söyleyebileceğini yazar: istediğiniz ka",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Üç ayrı alanın tek bir temele bağlanması, bir kuramın iddia yapısını gösterir; atlas bu yapıyı doğru ya da yanlış saymaz, aktarır.",
+      "anahtar": "k2",
+      "iddia": "Yazının son paragrafı bunu bir paradoks olarak kaydeder — daha yüksek derecede sivil özgürlük halkın düşünce özgürlüğüne yararlı görünür ama ona aşılmaz engelle",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, bugün hâlâ metafizik, bilgi kuramı, etik, siyaset felsefesi, estetik ve başka alanlarda önemli bir etki uyguladığını yazar.",
+      "anahtar": "k2",
+      "iddia": "Yazının kendi sorusu — aydınlanmış bir çağda mı yaşıyoruz — açık bir cevap alır: hayır, ama bir aydınlanma çağında yaşıyoruz.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Altı alanın sayılması, bir düşünürün etkisinin de bölümlenebilir bir kayıt olduğunu gösterir.",
+      "anahtar": "k2",
+      "iddia": "Almanca Unmündigkeit, hukukta reşit olmamayı anlatır; iki yaygın İngilizce çeviriden biri onu \"minority\" ile, öteki \"self-incurred tutelage\" ile karşılar ve iki",
       "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Unmündigkeit, İngilizce"
     },
     {
       "anahtar": "k3",
-      "iddia": "Üç Eleştiri'nin yayımlandığı on yıllardaki siyasi olay için ayrı bir kayıt tutulur.",
+      "iddia": "Almanca Unmündigkeit, hukukta reşit olmamayı anlatır; iki yaygın İngilizce çeviriden biri onu \"minority\" ile, öteki \"self-incurred tutelage\" ile karşılar ve iki",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Eleştiri"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Unmündigkeit, İngilizce"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "anahtar": "k2",
+      "iddia": "Yazı kendi çağını Friedrich'in yüzyılı diye adlandırır ve din işlerinde uyruklarına tam özgürlük bırakan hükümdarı över.",
       "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Friedrich"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k5",
+      "iddia": "Dokuz yıl sonra aynı sınır Kant'ın kendi üzerinde işledi: Salt Aklın Sınırları İçinde Din 1793'te yayımlandığında, kitabın ikinci denemesi sansürcü tarafından r",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Aşkınsal idealizm, kategoriler, ödev ahlakı ve estetik kuramı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "anahtar": "k5",
+      "iddia": "Aydınlanmanın gururu olan yeni fizik mekanikti; doğa bütünüyle nedensel yasalarla yönetiliyorsa özgürlüğe, ruha ya da hareket hâlindeki maddeden başka bir şeye ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k4",
-      "iddia": "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Saf Aklin Elestirisi.",
+      "iddia": "Kant'ın çözümü bir yön değiştirmedir: bugüne dek bilgimizin nesnelere uyması gerektiği varsayıldı ve bu varsayımla nesneler hakkında önsel bir şey saptama denem",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Saf, Aklin, Elestirisi"
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kant bunu açıkça Kopernik'in hamlesine benzetir: gök cisimlerinin seyirci çevresinde döndüğü varsayımıyla ilerleyemeyince seyircinin döndüğünü, yıldızların durd",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kopernik"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kesin buyruğun merkezî formülü, kişinin ancak aynı zamanda evrensel bir yasa hâline gelmesini isteyebileceği ilkeye göre davranmasını ister; yan formüller insan",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Sınav içeriğe değil biçime bakar: bir ilke, evrensel yasa olarak istenebiliyorsa ahlaken izinlidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ön maddeler yasaklar sıralar: gelecek bir savaşın malzemesini gizli kayıtla saklayan hiçbir barış antlaşması geçerli sayılamaz; bağımsız hiçbir devlet miras, de",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Daimî ordu gerekçesi ilginçtir: devletler asker sayısında birbiriyle yarışır, bu sayıya sınır konamaz, ve harcamalar yüzünden barış kısa bir savaştan daha ezici",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kesin maddeler üçtür: her devletin sivil anayasası cumhuriyetçi olacaktır; devletler hukuku özgür devletlerin federasyonu üzerine kurulacaktır; dünya yurttaşlar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birinci maddenin mekanizması bir koşul cümlesiyle kurulur: bu anayasa altında olması gerektiği gibi, savaş olup olmayacağına karar vermek için uyrukların rızası",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yönetici uyruk değil devletin sahibiyse savaşa girmek dünyanın en önemsiz işidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kant, akla göre doğru olanın bir devletler devleti olduğunu söyler ama devletlerin bunu istemediğini kaydeder ve dünya cumhuriyeti fikrinin olumlu biçimi yerine",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metnin, insanın ahlaken düzelmesine bel bağlayan bir iyimserliği de yoktur: devlet kurma sorunu, zekâları olmak kaydıyla, \"a race of devils\" için bile çözülebil",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Kant, 1775'te yayımlanıp 1777'de gözden geçirdiği İnsanın Farklı Irkları Üzerine denemesinde tekköken savını güçlü biçimde savundu: bütün insanlar ortak bir kök",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Melez döllerin karışık özellikler göstermesi hem ortak türün hem ayrı ırkların kanıtı sayılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı düşünür, Avrupa dışındakileri çeşitli bakımlardan aşağı görüyordu ve dünya ilerlemesinin, Avrupa kültürü ile hukukunun geri saydığı kültürlere ve aşağı say",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metin, uygar ulusların — özellikle kıtanın ticaret devletlerinin — konukseverliğe aykırı davranışını sayar: yabancı ülkeleri ziyaret onların gözünde fetihle eşd",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Pauline Kleingeld'in 2007'de The Philosophical Quarterly'nin 57. cildinde 573-592 sayfaları arasında yayımlanan makalesi bu tartışmanın dönüm noktasıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Kleingeld, Kant'ın ırk hiyerarşisine dair görüşlerinin Ebedî Barış'ın 1795'teki yayımından önce değiştiğini, o metinde ve Ahlak Metafiziği'nde sömürgeciliği, ma",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Savını iki uç arasına yerleştirir: bir yanda Kant'ın ırkçılığının ahlak kuramını evrensel olmaktan çıkardığını söyleyenler, öte yanda evrenselliği kabul edip hi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Huaping Lu-Adler'e göre Kleingeld'in makalesi alanda \"narrative-shaping effect on the field\" yaratmıştır ve bu kadar geniş bir kabul haklı değildir; ona göre Ka",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Alanın kendi bölünmesi de adlarıyla kayıtlıdır: Eze, Mills ve Bernasconi eleştirel kanadı; Louden, Hill ile Boxill, Kleingeld ve Allais savunan kanadı temsil ed",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kaynağın kendi ifadesi de temkinlidir: 1790'ların ortasına gelindiğinde Kant'ın ırksal aşağılığa dair inançlarından vazgeçmiş göründüğünü söyler, kesin bir sapt",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Johann Gottfried Herder, Königsberg'de Kant'ın öğrencisiydi ve olağandışı yeteneği nedeniyle hocasından ayrıcalıklar görmüştü; sonradan eleştirel felsefeye karş",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Herder'in özsel itirazı ahlak kuramınadır: ahlak temelde bilgi değil duygu meselesidir; Platon'un, eleştirel dönemin Kant'ının ve G. E. Moore'un savunduğu biliş",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kant devrim hakkını tanımaz: egemenlik paylaşılamaz, devletle halk arasında bir uyuşmazlık çıksa kimin haklı olduğuna karar verecek daha yüksek bir merci bulunm",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Korsgaard 1997'de Kant'ın kendi öncüllerinden bir devrim hakkı türetmeyi denedi, Flikschuh 2008'de buna karşılık verdi; Kant'ın kendi metninde yurttaşa kalan, k",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Doyle 1983'te birinci kesin maddedeki rıza savını Kant'ın barışa dair temel görüşü saydı ve liberal demokrasiler arasında savaş bulunmayışını kanıt olarak sıral",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ama Kant'ın metni demokrasiyi övmez: egemenliğin biçimi (otokrasi, aristokrasi, demokrasi) ile yönetimin biçimini (cumhuriyetçi, despotik) ayırır ve sözcüğün ge",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kant'ın istediği şey oy hakkının genişliği değil, yasama ile yürütmenin ayrılmasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkincisi, federasyon maddesinin bir dünya hükümeti tasarısı gibi okunmasıdır; metin dünya cumhuriyetini açıkça bir kenara koyar ve savaşı önleyen federasyonu on",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kant devrimin kişisel despotizmi ve açgözlü baskıyı sona erdirebileceğini ama düşünme biçiminde gerçek bir reform üretemeyeceğini söyler; yeni önyargılar da esk",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Biri uluslararası hukukun temeli tartışmasıdır: kozmopolit hukuk ebedî barışın kurucu bileşenidir ve halklar birbirine bağlandıkça, yeryüzünün bir noktasındaki ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Öteki, felsefenin kendi kanonuyla hesaplaşmasıdır: 1775 tarihli ırk kuramının evrensellik savıyla ilişkisi, hangi tarafın haklı olduğu henüz kapanmamış bir tart",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

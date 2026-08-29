@@ -1,17 +1,77 @@
 ## olay-kudus-fethi-1187
-_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:01.529Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T20:05:11.067Z_
 
-- [OK]      k1 → "Kuşatma 20 Eylül - 2 Ekim 1187 arasında, yani bir hafta beş gün sürdü; yeri Kudüs, sonucu Eyyûbî zaferidir." — 2 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k1 → "Kaynak karşı tarafta Kudüs Krallığı'nın yanı sıra Hospitalier Şövalyeleri, Tapınak Şövalyeleri, Aziz Lazarus T…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir kuşatmada savunanların altı ayrı başlık altında sayılması, savunmanın tek bir hükümdarlık altında değil bi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kuşatan tarafta Selahaddin, Âdil ve Efdal ile Mısırlı emirler sayılır; savunan tarafta İbelinli Balian ve Hera…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir komutanın adının yanına teslim kaydı düşülmesi, sonucun bir imha değil bir anlaşma olduğunu gösterir; kuşa…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir komutanın adının yanına teslim kaydı düşülmesi, sonucun bir imha değil bir anlaşma olduğunu gösterir; kuşa…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak toprak değişimini şöyle kaydeder: Kudüs teslim edildi ve Müslümanlara iade edildi." — 1 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → ""İade" sözcüğü bir hukuki iddiayı içerir ve kaynağın kendi çerçevesidir; atlas bu çerçeveyi benimsemez, aktarı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Aynı kaynak Kudüs'ün kendi tarih çizelgesinde 1099-1187 arasını Haçlı, 1187-1517 arasını Geç Ortaçağ dönemi ol…" — 5 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k2 → "Kuşatan taraf, 1171'de Selahaddin tarafından kurulan ve 1260'a kadar süren devlettir." — 2 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1000 yılı için yaklaşık 314,7 milyon, 1300 yılı için yaklaşık 456,2 milyondur…"
-- [ATOMSUZ] k1 → "Kuşatma öncesi durum, şehrin içindeki hazırlık, fetih günleri ve sonrası burada ayrı başlıklar altında ele alı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Selâhaddîn-i Eyyûbî'nin ordusu Kudüs'ün önünde karargâh kurduğunda şehir seksen sekiz yıldır Latin hıristiyanl…"
+- [OK]      k3 → "Karargâhın kurulmasıyla şehrin el değiştirmesi arasında on iki gün vardır ve bu on iki gün bir hücumla değil b…"
+- [OK]      k1 → "Karargâhın kurulmasıyla şehrin el değiştirmesi arasında on iki gün vardır ve bu on iki gün bir hücumla değil b…"
+- [OK]      k3 → "Şehri seksen sekiz yıl önce alan Haçlı ordusu kılıçtan geçirme yolunu seçmişti; 1187'deki el değiştirme ise bi…"
+- [OK]      k1 → "Şehri seksen sekiz yıl önce alan Haçlı ordusu kılıçtan geçirme yolunu seçmişti; 1187'deki el değiştirme ise bi…"
+- [OK]      k3 → "Şehri seksen sekiz yıl önce alan Haçlı ordusu kılıçtan geçirme yolunu seçmişti; 1187'deki el değiştirme ise bi…"
+- [ATOMSUZ] k2 → "Karşıtlığın kaynaklarda karşılığı olan bir yanı vardır; kaynaklarda karşılığı olmayan bir yanı da vardır ve fi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Selâhaddin iktâlı ve maaşlı 12.000 süvari topladıktan sonra Taberiye gölünün batısındaki Hittîn'de Kudüs krall…"
+- [OK]      k8 → "Selâhaddin iktâlı ve maaşlı 12.000 süvari topladıktan sonra Taberiye gölünün batısındaki Hittîn'de Kudüs krall…"
+- [OK]      k4 → "Savaşın tarihi bile tek bir güne oturmuyor: aynı ansiklopedinin Selâhaddin maddesi 24-25 Rebîülâhir 583 / 3-4 …"
+- [OK]      k3 → "Savaşın tarihi bile tek bir güne oturmuyor: aynı ansiklopedinin Selâhaddin maddesi 24-25 Rebîülâhir 583 / 3-4 …"
+- [OK]      k8 → "Bu bir çelişki değil bir kısaltmadır: Hittîn maddesi 3 Temmuz cuma günkü yürüyüşü ve ok yağmurunu, 4 Temmuz cu…"
+- [OK]      k8 → "Esirler huzura getirildiğinde Selâhaddin, antlaşmaları bozmakla suçladığı Renaud de Châtillon'u kendi eliyle ö…"
+- [OK]      k4 → "Bunu kaydeden, sultana mesafeli bir kaynak değil, Selâhaddin'e İslâm kahramanı diyen maddeyle aynı imzayı — Ra…"
+- [OK]      k8 → "Bunu kaydeden, sultana mesafeli bir kaynak değil, Selâhaddin'e İslâm kahramanı diyen maddeyle aynı imzayı — Ra…"
+- [OK]      k3 → "Ardından birkaç hafta içinde büyüklü küçüklü elli iki şehir düştü ve sıra Kudüs'e geldi."
+- [OK]      k1 → "Sultan 20 Eylül 1187'de şehrin batısında mevzilendi, sonra kuzeye kaydı ve mancınıklarını surlara çevirdi; lağ…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Türkçe ansiklopedi kaydı gediğin tarihini de verir: 26 Eylül'de Zeytindağı'na yerleşen kuvvetler Sütunlu Kapı …"
+- [OK]      k1 → "Bahâeddin İbn Şeddâd, şehrin atlı ve yaya askerle dolu olduğunu, sayılarının "en iyi rivayetlere göre" altmış …"
+- [OK]      k2 → "Latin tarafındaki Itinerarium ise bunca kalabalığın içinde güçlükle on dört şövalye bulunabildiğini, papazları…"
+- [OK]      k1 → "İbn Şeddâd, şehrin mi'rac gecesinin yıl dönümüne denk gelen bir cuma günü alınmasını ilâhî bir işaret olarak o…"
+- [OK]      k1 → "Metnin 1897 tarihli İngilizce çevirisine düşülen not ise bu bağı gevşetir: çevirmen, mi'rac geleneğinin sonrad…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "İbn Şeddâd'ın kaydında her erkek fidye olarak on Sûr dinarı, her kadın beş, kız ya da erkek her çocuk birer di…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Demirkent'in kaydında oran çocuklar için ikiye çıkar ve ödeme için kırk günlük bir süre verilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Latin kaynağı da aynı cetveli verir — erkek on bizans altını, kadın beş, çocuk bir — ama cümlenin devamını da …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Paranın adı bile tarafını belli eder: aynı bedel İbn Şeddâd'ın kaydında Sûr dinarı, Latin kaydında bizans altı…"
+- [OK]      k2 → "Paranın adı bile tarafını belli eder: aynı bedel İbn Şeddâd'ın kaydında Sûr dinarı, Latin kaydında bizans altı…"
+- [OK]      k2 → "Itinerarium, kendi ya da başkasının parasıyla bedelini ödeyenlerden sonra geriye kendini kurtaramayan 14.000 k…"
+- [ATOMSUZ] k3 → "Demirkent aynı noktada tam tersini yazar: para bulamayan binlerce kişi de serbest bırakılmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "İbn Şeddâd ise ödeyemeyenlerden hiç söz etmez; onun kaydında yalnızca fidyesini ödeyenlerin sığınacakları yere…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Latin kaynağı ise gidenlere Antakya ile İskenderiye arasında bir tercih sunulduğunu söyler." — programatik olarak ölçülemedi (ad karşılığı yok): Antakya, İskenderiye
+- [OK]      k3 → "Demirkent'in maddesine göre Tapınak ve Hospitalier tarikatları kendi mensuplarını kurtarmak için para harcamam…"
+- [OK]      k2 → "Patriğin adını Türkçe kayıt vermez; Herakleios adı Latin kaydından gelir." — 1 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k2 → "Kişi başına sabit bir bedel, servet dağılımının önünde tarafsız değildir: aynı on dinar, patrik için bir forma…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Kişi başına sabit bir bedel, servet dağılımının önünde tarafsız değildir: aynı on dinar, patrik için bir forma…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Şehirde tutsak bulunan üç binden fazla müslüman serbest bırakıldı; ganimet emîrlere ve askerlere, bir payı da …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "İbn Şeddâd, sultanın Kudüs'ten ayrılırken bu servetten hiçbir şey alıkoymadığını yazarken cümleye bir çekince …" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Cuma namazı ertesi gün değil, teslimin gerçekleştiği gün kılındı ve hatip minbere çıktı; Kubbetü's-sahre'nin t…"
+- [OK]      k3 → "Mescid-i Aksâ, Haçlıların saray olarak kullandığı biçiminden çıkarılıp yeniden camiye çevrildi ve Nûreddin Mah…"
+- [OK]      k3 → "Savunma düzeni de elden geçirildi: surlar tamir ettirildi, önlerine derin hendekler kazıldı, burçlar inşa edil…"
+- [OK]      k3 → "Latin hıristiyanlar çıkarken Ortodoks ve Ya'kūbî hıristiyanlar şehirde kaldı, yahudilerin yerleşmesine izin ve…"
+- [OK]      k3 → "Bu düzenleme bir hoşgörü beyanı olduğu kadar bir tercih beyanıdır: kalanlar, ayrılan Latin kilisesinin rakiple…"
+- [OK]      k5 → "Bahâeddin İbn Şeddâd Selâhaddin'in kadısı ve yakın adamıydı; kitabını önsözünde İngilizcede yazılmış ilk Selâh…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Ne var ki aynı önsöz bu nitelemeyi bir ret gerekçesine çevirmez: Lane-Poole, İbn Şeddâd'ın gördüğünü olduğu gi…"
+- [ATOMSUZ] k5 → "Aynı önsöz, İbnü'l-Esîr'in ise Selâhaddin'i karalamak için siyasî sebebi bulunduğunu, çünkü onun devirdiği Mus…" — programatik olarak ölçülemedi (ad karşılığı yok): İbnü, Musul
+- [OK]      k5 → "Lane-Poole, Itinerarium'un Richard'a duyduğu ölçüsüz hayranlığı ve taraf tutuşunu adıyla anar; onu Üçüncü Haçl…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "Latin tarafının 1187'ye en yakın tanığı ise şehri savunan Balian'ın silahtarı Ernoul'dür."
+- [OK]      k5 → "Bu dosyanın kullandığı Latin kayıt Ernoul'ünki değil Itinerarium'dur; yani buradaki iki ana kalemden biri sult…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Demirkent'in maddesi 1099 katliamını anlattıktan sonra 1187'ye geçerken "Selâhaddin'in bu insanca davranışı" i…"
+- [OK]      k3 → "Bu bir kayıt değil bir değerlendirmedir; aynı maddenin 1099 bölümünde geçen dünyada eşi görülmemiş vahşet nite…"
+- [OK]      k3 → "1099'da şehir beş haftalık kuşatmadan sonra hücumla düştü; Demirkent'in kaydında müslümanlar ve yahudiler öldü…"
+- [OK]      k7 → "Kuşatmaya katılan Agilesli Raymond'un kendi anlatısı da bunu doğrular: Süleyman Mabedi'nde "men rode in blood …" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k7 → "Ne var ki aynı metni yayımlayan derleyiciler Raymond'un dikkatli kullanılması gereken bir tanık olduğunu ve an…"
+- [OK]      k6 → "Walter Scott, The Talisman'ın giriş yazısında romanın tasarımını açıkça anlatır: hıristiyan ve İngiliz hükümda…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k6 → "Karşıtlık bir rol değiş tokuşu olarak kurulmuştur; oryantalist kalıbı kırmaz, tersine çevirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Lane-Poole 1898'de bu biyografiyi yazarken bunu bir sorun olarak kaydeder: Scott'un sayfalarında anlatılanları…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k8 → "Hittîn'de karşı tarafın mevcudunu Eyyûbî ordusundaki tarihçi İmâdüddin el-İsfahânî 50.000 olarak verir; Şeşen …"
+- [OK]      k8 → "Aynı madde, halifeye gönderilen zafer mektuplarında ölü ve esir sayısının 23.000 ile 60.000 arasında verildiği…"
+- [OK]      k2 → "Itinerarium, şehrin kendi tarafının elinde yaklaşık doksan altı yıl kaldığını yazar; oysa 1099 ile 1187 arasın…"
+- [OK]      k3 → "Itinerarium, şehrin kendi tarafının elinde yaklaşık doksan altı yıl kaldığını yazar; oysa 1099 ile 1187 arasın…"
+- [OK]      k1 → "Sultanın Kudüs'ten ayrılış tarihi bile bir gün kayar: İbn Şeddâd 25 Şâban cuma / 30 Ekim derken Demirkent 24 Ş…"
+- [OK]      k3 → "Sultanın Kudüs'ten ayrılış tarihi bile bir gün kayar: İbn Şeddâd 25 Şâban cuma / 30 Ekim derken Demirkent 24 Ş…"
+- [OK]      k7 → "1099'da şehri savunanları altmış bin diye veren Agilesli Raymond'un rakamı ile 1187'de şehri savunanları altmı…"
+- [OK]      k1 → "1099'da şehri savunanları altmış bin diye veren Agilesli Raymond'un rakamı ile 1187'de şehri savunanları altmı…"
+- [ATOMSUZ] k7 → "Aynı surun içinde, seksen sekiz yıl arayla, iki ayrı dinden iki ayrı kalemin aynı sayıya varması bir ölçüm değ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Aynı surun içinde, seksen sekiz yıl arayla, iki ayrı dinden iki ayrı kalemin aynı sayıya varması bir ölçüm değ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kayıtlarda sabit olan şudur: şehir teslim antlaşmasıyla alındı, bedel kişi başına bir tarifeye bağlandı, ödeye…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kayıtlarda sabit olan şudur: şehir teslim antlaşmasıyla alındı, bedel kişi başına bir tarifeye bağlandı, ödeye…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Kayıtlarda sabit olan şudur: şehir teslim antlaşmasıyla alındı, bedel kişi başına bir tarifeye bağlandı, ödeye…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Latin kaynağının 14.000 rakamı bir düşman kaleminden, Türkçe ansiklopedinin binlerce kişinin serbest bırakıldı…"
+- [OK]      k3 → "Latin kaynağının 14.000 rakamı bir düşman kaleminden, Türkçe ansiklopedinin binlerce kişinin serbest bırakıldı…"
+- [OK]      k1 → "Latin kaynağının 14.000 rakamı bir düşman kaleminden, Türkçe ansiklopedinin binlerce kişinin serbest bırakıldı…"
 
-**Özet:** 7 OK · 0 ISARET · 0 HATA · 5 ATOMSUZ
+**Özet:** 55 OK · 0 ISARET · 0 HATA · 17 ATOMSUZ

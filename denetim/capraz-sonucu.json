@@ -1,16 +1,930 @@
 {
-  "zaman": "2026-08-21T13:14:51.431Z",
-  "makale_sayisi": 359,
-  "celiskiler": [],
+  "zaman": "2026-08-29T16:04:49.006Z",
+  "makale_sayisi": 505,
+  "celiskiler": [
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-11-eylul",
+        "tartisma-tarihsel-sayilar-nasil-okunur"
+      ],
+      "detay": "olay-11-eylul -> tartisma-tarihsel-sayilar-nasil-okunur bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-11-eylul",
+        "kavram-belge-okumasi"
+      ],
+      "detay": "olay-11-eylul -> kavram-belge-okumasi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-arap-bahari",
+        "kavram-mesruiyet"
+      ],
+      "detay": "olay-arap-bahari -> kavram-mesruiyet bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-atlantik-kole-ticareti",
+        "aktor-britanya-imparatorlugu"
+      ],
+      "detay": "olay-atlantik-kole-ticareti -> aktor-britanya-imparatorlugu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-atlantik-kole-ticareti",
+        "olay-haiti-devrimi"
+      ],
+      "detay": "olay-atlantik-kole-ticareti -> olay-haiti-devrimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-kirim-savasi",
+        "aktor-osmanli-imparatorlugu"
+      ],
+      "detay": "olay-kirim-savasi -> aktor-osmanli-imparatorlugu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-kirim-savasi",
+        "tartisma-tarihsel-sayilar-nasil-okunur"
+      ],
+      "detay": "olay-kirim-savasi -> tartisma-tarihsel-sayilar-nasil-okunur bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-kore-savasi",
+        "tartisma-tarihsel-sayilar-nasil-okunur"
+      ],
+      "detay": "olay-kore-savasi -> tartisma-tarihsel-sayilar-nasil-okunur bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-meksika-devrimi",
+        "aktor-abd"
+      ],
+      "detay": "olay-meksika-devrimi -> aktor-abd bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-meksika-devrimi",
+        "kavram-zorunlu-emek-duzeni"
+      ],
+      "detay": "olay-meksika-devrimi -> kavram-zorunlu-emek-duzeni bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-meksika-devrimi",
+        "kavram-ulus-devlet"
+      ],
+      "detay": "olay-meksika-devrimi -> kavram-ulus-devlet bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-meksika-devrimi",
+        "tartisma-tarihsel-sayilar-nasil-okunur"
+      ],
+      "detay": "olay-meksika-devrimi -> tartisma-tarihsel-sayilar-nasil-okunur bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-mfecane",
+        "olay-atlantik-kole-ticareti"
+      ],
+      "detay": "olay-mfecane -> olay-atlantik-kole-ticareti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-sanayi-devrimi",
+        "dusunur-marx"
+      ],
+      "detay": "olay-sanayi-devrimi -> dusunur-marx bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-sanayi-devrimi",
+        "olay-1848-devrimleri"
+      ],
+      "detay": "olay-sanayi-devrimi -> olay-1848-devrimleri bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-vietnam-savasi",
+        "kavram-somurgesizlesme"
+      ],
+      "detay": "olay-vietnam-savasi -> kavram-somurgesizlesme bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-vietnam-savasi",
+        "tartisma-tarihsel-sayilar-nasil-okunur"
+      ],
+      "detay": "olay-vietnam-savasi -> tartisma-tarihsel-sayilar-nasil-okunur bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-yesil-devrim",
+        "tartisma-tarihsel-sayilar-nasil-okunur"
+      ],
+      "detay": "olay-yesil-devrim -> tartisma-tarihsel-sayilar-nasil-okunur bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-aztek-imparatorlugu",
+        "olay-meksika-devrimi"
+      ],
+      "detay": "aktor-aztek-imparatorlugu -> olay-meksika-devrimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-aztek-imparatorlugu",
+        "kavram-imparatorluk"
+      ],
+      "detay": "aktor-aztek-imparatorlugu -> kavram-imparatorluk bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-aztek-imparatorlugu",
+        "kavram-arkeolojik-kanit"
+      ],
+      "detay": "aktor-aztek-imparatorlugu -> kavram-arkeolojik-kanit bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-aztek-imparatorlugu",
+        "kavram-kanit-turu"
+      ],
+      "detay": "aktor-aztek-imparatorlugu -> kavram-kanit-turu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-aztek-imparatorlugu",
+        "kavram-tarih-yazimi"
+      ],
+      "detay": "aktor-aztek-imparatorlugu -> kavram-tarih-yazimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-aztek-imparatorlugu",
+        "tartisma-kesif-mi-istila-mi"
+      ],
+      "detay": "aktor-aztek-imparatorlugu -> tartisma-kesif-mi-istila-mi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-aztek-imparatorlugu",
+        "tartisma-tarihsel-sayilar-nasil-okunur"
+      ],
+      "detay": "aktor-aztek-imparatorlugu -> tartisma-tarihsel-sayilar-nasil-okunur bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-emevi-hilafeti",
+        "aktor-fatimi-hilafeti"
+      ],
+      "detay": "aktor-emevi-hilafeti -> aktor-fatimi-hilafeti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-fatimi-hilafeti",
+        "aktor-eyyubi-devleti"
+      ],
+      "detay": "aktor-fatimi-hilafeti -> aktor-eyyubi-devleti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-fatimi-hilafeti",
+        "aktor-buyuk-selcuklu"
+      ],
+      "detay": "aktor-fatimi-hilafeti -> aktor-buyuk-selcuklu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-fatimi-hilafeti",
+        "olay-hacli-seferleri"
+      ],
+      "detay": "aktor-fatimi-hilafeti -> olay-hacli-seferleri bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-fatimi-hilafeti",
+        "kavram-mesruiyet"
+      ],
+      "detay": "aktor-fatimi-hilafeti -> kavram-mesruiyet bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-fatimi-hilafeti",
+        "tartisma-tarihsel-sayilar-nasil-okunur"
+      ],
+      "detay": "aktor-fatimi-hilafeti -> tartisma-tarihsel-sayilar-nasil-okunur bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-hollanda-doguhindistan-sirketi",
+        "kavram-kolelik"
+      ],
+      "detay": "aktor-hollanda-doguhindistan-sirketi -> kavram-kolelik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-hollanda-doguhindistan-sirketi",
+        "kavram-kapitalizm"
+      ],
+      "detay": "aktor-hollanda-doguhindistan-sirketi -> kavram-kapitalizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-hollanda-doguhindistan-sirketi",
+        "kavram-tarih-yazimi"
+      ],
+      "detay": "aktor-hollanda-doguhindistan-sirketi -> kavram-tarih-yazimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-hollanda-doguhindistan-sirketi",
+        "olay-atlantik-kole-ticareti"
+      ],
+      "detay": "aktor-hollanda-doguhindistan-sirketi -> olay-atlantik-kole-ticareti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-ingiliz-doguhindistan-sirketi",
+        "olay-atlantik-kole-ticareti"
+      ],
+      "detay": "aktor-ingiliz-doguhindistan-sirketi -> olay-atlantik-kole-ticareti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-memluk-devleti",
+        "aktor-abbasi-hilafeti"
+      ],
+      "detay": "aktor-memluk-devleti -> aktor-abbasi-hilafeti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-memluk-devleti",
+        "kavram-kolelik"
+      ],
+      "detay": "aktor-memluk-devleti -> kavram-kolelik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-memluk-devleti",
+        "kavram-veraset"
+      ],
+      "detay": "aktor-memluk-devleti -> kavram-veraset bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-memluk-devleti",
+        "kavram-mesruiyet"
+      ],
+      "detay": "aktor-memluk-devleti -> kavram-mesruiyet bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-memluk-devleti",
+        "olay-mogol-fetihleri"
+      ],
+      "detay": "aktor-memluk-devleti -> olay-mogol-fetihleri bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-memluk-devleti",
+        "olay-hacli-seferleri"
+      ],
+      "detay": "aktor-memluk-devleti -> olay-hacli-seferleri bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-memluk-devleti",
+        "olay-kara-olum"
+      ],
+      "detay": "aktor-memluk-devleti -> olay-kara-olum bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-memluk-devleti",
+        "tartisma-mogol-etkisi"
+      ],
+      "detay": "aktor-memluk-devleti -> tartisma-mogol-etkisi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-memluk-devleti",
+        "tartisma-kara-olumun-sonuclari"
+      ],
+      "detay": "aktor-memluk-devleti -> tartisma-kara-olumun-sonuclari bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-song-hanedani",
+        "olay-sanayi-devrimi"
+      ],
+      "detay": "aktor-song-hanedani -> olay-sanayi-devrimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-tokugawa-sogunlugu",
+        "aktor-hollanda-doguhindistan-sirketi"
+      ],
+      "detay": "aktor-tokugawa-sogunlugu -> aktor-hollanda-doguhindistan-sirketi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-tokugawa-sogunlugu",
+        "aktor-qing-hanedani"
+      ],
+      "detay": "aktor-tokugawa-sogunlugu -> aktor-qing-hanedani bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-tokugawa-sogunlugu",
+        "aktor-goryeo-choson"
+      ],
+      "detay": "aktor-tokugawa-sogunlugu -> aktor-goryeo-choson bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-tokugawa-sogunlugu",
+        "kavram-esitsiz-antlasmalar"
+      ],
+      "detay": "aktor-tokugawa-sogunlugu -> kavram-esitsiz-antlasmalar bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-tokugawa-sogunlugu",
+        "kavram-tarih-yazimi"
+      ],
+      "detay": "aktor-tokugawa-sogunlugu -> kavram-tarih-yazimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-tokugawa-sogunlugu",
+        "kavram-anakronizm"
+      ],
+      "detay": "aktor-tokugawa-sogunlugu -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-tokugawa-sogunlugu",
+        "kavram-kentlesme"
+      ],
+      "detay": "aktor-tokugawa-sogunlugu -> kavram-kentlesme bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-tokugawa-sogunlugu",
+        "kavram-vergi"
+      ],
+      "detay": "aktor-tokugawa-sogunlugu -> kavram-vergi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-tokugawa-sogunlugu",
+        "tartisma-feodalite-kavrami"
+      ],
+      "detay": "aktor-tokugawa-sogunlugu -> tartisma-feodalite-kavrami bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-tokugawa-sogunlugu",
+        "tartisma-imparatorluk-nufusu-nasil-sayilir"
+      ],
+      "detay": "aktor-tokugawa-sogunlugu -> tartisma-imparatorluk-nufusu-nasil-sayilir bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-locke",
+        "olay-atlantik-kole-ticareti"
+      ],
+      "detay": "dusunur-locke -> olay-atlantik-kole-ticareti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "veri-co2-emisyonu",
+        "olay-sanayi-devrimi"
+      ],
+      "detay": "veri-co2-emisyonu -> olay-sanayi-devrimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "veri-kisi-basi-enerji",
+        "olay-sanayi-devrimi"
+      ],
+      "detay": "veri-kisi-basi-enerji -> olay-sanayi-devrimi bagi tek yonlu"
+    }
+  ],
   "incelenecek": [
     {
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
-        "donem-13",
+        "donem-01",
+        "tartisma-tarim-devrimi-neden"
+      ],
+      "detay": "\"Gordon Childe\" — donem-01: 1936 / tartisma-tarim-devrimi-neden: 1928"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-neolitik-devrim",
+        "tartisma-tarim-devrimi-neden"
+      ],
+      "detay": "\"Gordon Childe\" — olay-neolitik-devrim: 1936 / tartisma-tarim-devrimi-neden: 1928"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-tarim-devrimi-ilerleme-mi",
+        "tartisma-tarim-devrimi-neden"
+      ],
+      "detay": "\"Gordon Childe\" — tartisma-tarim-devrimi-ilerleme-mi: 1936 / tartisma-tarim-devrimi-neden: 1928"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "donem-01",
+        "tartisma-tarim-devrimi-neden"
+      ],
+      "detay": "\"Man Makes Himself\" — donem-01: 1936 / tartisma-tarim-devrimi-neden: 1928"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-neolitik-devrim",
+        "tartisma-tarim-devrimi-neden"
+      ],
+      "detay": "\"Man Makes Himself\" — olay-neolitik-devrim: 1936 / tartisma-tarim-devrimi-neden: 1928"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "donem-04",
+        "tartisma-eksen-cagi-gercek-mi"
+      ],
+      "detay": "\"Vom Ursprung\" — donem-04: 1953 / tartisma-eksen-cagi-gercek-mi: 1949"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "donem-04",
+        "tartisma-eksen-cagi-gercek-mi"
+      ],
+      "detay": "\"Ziel\" — donem-04: 1953 / tartisma-eksen-cagi-gercek-mi: 1949"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "donem-04",
+        "tartisma-eksen-cagi-gercek-mi"
+      ],
+      "detay": "\"Geschichte\" — donem-04: 1953 / tartisma-eksen-cagi-gercek-mi: 1949"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "donem-04",
+        "tartisma-sozlu-gelenek-kaynak-mi"
+      ],
+      "detay": "\"İngilizce\" — donem-04: 1953 / tartisma-sozlu-gelenek-kaynak-mi: 1961"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "dusunur-farabi",
+        "tartisma-sozlu-gelenek-kaynak-mi"
+      ],
+      "detay": "\"İngilizce\" — dusunur-farabi: 1980 / tartisma-sozlu-gelenek-kaynak-mi: 1961"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-malazgirt",
+        "aktor-fatimi-hilafeti"
+      ],
+      "detay": "\"Selçuklular\" — olay-malazgirt: 1067 / aktor-fatimi-hilafeti: 1074"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-buyuk-selcuklu",
+        "aktor-fatimi-hilafeti"
+      ],
+      "detay": "\"Selçuklular\" — aktor-buyuk-selcuklu: 1067 / aktor-fatimi-hilafeti: 1074"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-bretton-woods",
+        "olay-buyuk-buhran"
+      ],
+      "detay": "\"Avrupa\" — olay-bretton-woods: 1930 / olay-buyuk-buhran: 1931"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-bretton-woods",
+        "aktor-imf"
+      ],
+      "detay": "\"Avrupa\" — olay-bretton-woods: 1930 / aktor-imf: 1944"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-bretton-woods",
+        "tartisma-soykirim-kavrami"
+      ],
+      "detay": "\"Avrupa\" — olay-bretton-woods: 1930 / tartisma-soykirim-kavrami: 1944"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-bretton-woods",
+        "tartisma-1914-savas-sorumlulugu"
+      ],
+      "detay": "\"Avrupa\" — olay-bretton-woods: 1930 / tartisma-1914-savas-sorumlulugu: 1914"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-bretton-woods",
+        "tartisma-romanin-cokus-nedeni"
+      ],
+      "detay": "\"Avrupa\" — olay-bretton-woods: 1930 / tartisma-romanin-cokus-nedeni: 1920"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-buyuk-buhran",
+        "aktor-imf"
+      ],
+      "detay": "\"Avrupa\" — olay-buyuk-buhran: 1931 / aktor-imf: 1944"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-buyuk-buhran",
+        "tartisma-soykirim-kavrami"
+      ],
+      "detay": "\"Avrupa\" — olay-buyuk-buhran: 1931 / tartisma-soykirim-kavrami: 1944"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-buyuk-buhran",
+        "tartisma-1914-savas-sorumlulugu"
+      ],
+      "detay": "\"Avrupa\" — olay-buyuk-buhran: 1931 / tartisma-1914-savas-sorumlulugu: 1914"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-buyuk-buhran",
+        "tartisma-romanin-cokus-nedeni"
+      ],
+      "detay": "\"Avrupa\" — olay-buyuk-buhran: 1931 / tartisma-romanin-cokus-nedeni: 1920"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-paris-iklim-anlasmasi",
+        "tartisma-1914-savas-sorumlulugu"
+      ],
+      "detay": "\"Avrupa\" — olay-paris-iklim-anlasmasi: 1900 / tartisma-1914-savas-sorumlulugu: 1914"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-paris-iklim-anlasmasi",
+        "tartisma-romanin-cokus-nedeni"
+      ],
+      "detay": "\"Avrupa\" — olay-paris-iklim-anlasmasi: 1900 / tartisma-romanin-cokus-nedeni: 1920"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-plassey-1757",
+        "tartisma-sanayi-devrimi-neden-ingiltere"
+      ],
+      "detay": "\"Avrupa\" — olay-plassey-1757: 1757 / tartisma-sanayi-devrimi-neden-ingiltere: 1750"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-yazinin-icadi-nerede",
+        "aktor-imf"
+      ],
+      "detay": "\"Avrupa\" — tartisma-yazinin-icadi-nerede: 1958 / aktor-imf: 1944"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-yazinin-icadi-nerede",
+        "tartisma-soykirim-kavrami"
+      ],
+      "detay": "\"Avrupa\" — tartisma-yazinin-icadi-nerede: 1958 / tartisma-soykirim-kavrami: 1944"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-yazinin-icadi-nerede",
+        "tartisma-tarihsel-sayilar-nasil-okunur"
+      ],
+      "detay": "\"Avrupa\" — tartisma-yazinin-icadi-nerede: 1958 / tartisma-tarihsel-sayilar-nasil-okunur: 1970"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-imf",
+        "tartisma-romanin-cokus-nedeni"
+      ],
+      "detay": "\"Avrupa\" — aktor-imf: 1944 / tartisma-romanin-cokus-nedeni: 1920"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-soykirim-kavrami",
+        "tartisma-romanin-cokus-nedeni"
+      ],
+      "detay": "\"Avrupa\" — tartisma-soykirim-kavrami: 1944 / tartisma-romanin-cokus-nedeni: 1920"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-rapa-nui",
+        "aktor-tokugawa-sogunlugu"
+      ],
+      "detay": "\"Avrupa\" — aktor-rapa-nui: 1722 / aktor-tokugawa-sogunlugu: 1708"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-1914-savas-sorumlulugu",
+        "tartisma-romanin-cokus-nedeni"
+      ],
+      "detay": "\"Avrupa\" — tartisma-1914-savas-sorumlulugu: 1914 / tartisma-romanin-cokus-nedeni: 1920"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-vietnam-savasi",
+        "tartisma-1929-krizinin-nedeni"
+      ],
+      "detay": "\"Amerika Birleşik Devletleri\" — olay-vietnam-savasi: 1954 / tartisma-1929-krizinin-nedeni: 1973"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-vietnam-savasi",
+        "tartisma-soykirim-kavrami"
+      ],
+      "detay": "\"Amerika Birleşik Devletleri\" — olay-vietnam-savasi: 1954 / tartisma-soykirim-kavrami: 1948"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-1929-krizinin-nedeni",
+        "tartisma-soykirim-kavrami"
+      ],
+      "detay": "\"Amerika Birleşik Devletleri\" — tartisma-1929-krizinin-nedeni: 1973 / tartisma-soykirim-kavrami: 1948"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-11-eylul",
+        "olay-berlin-duvarinin-yikilisi"
+      ],
+      "detay": "\"Almanya\" — olay-11-eylul: 1999 / olay-berlin-duvarinin-yikilisi: 1990"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-buyuk-buhran",
         "olay-ikinci-dunya-savasi"
       ],
-      "detay": "\"Japonya\" — donem-13: 1922 / olay-ikinci-dunya-savasi: 1929"
+      "detay": "\"Almanya\" — olay-buyuk-buhran: 1931 / olay-ikinci-dunya-savasi: 1929"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-buyuk-buhran",
+        "olay-uzay-yarisi"
+      ],
+      "detay": "\"Almanya\" — olay-buyuk-buhran: 1931 / olay-uzay-yarisi: 1944"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-ikinci-dunya-savasi",
+        "olay-uzay-yarisi"
+      ],
+      "detay": "\"Almanya\" — olay-ikinci-dunya-savasi: 1929 / olay-uzay-yarisi: 1944"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "donem-13",
+        "olay-meksika-devrimi"
+      ],
+      "detay": "\"Fransa\" — donem-13: 1923 / olay-meksika-devrimi: 1911"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "donem-13",
+        "tartisma-1914-savas-sorumlulugu"
+      ],
+      "detay": "\"Fransa\" — donem-13: 1923 / tartisma-1914-savas-sorumlulugu: 1912"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-afyon-savaslari",
+        "olay-italyan-birligi"
+      ],
+      "detay": "\"Fransa\" — olay-afyon-savaslari: 1842 / olay-italyan-birligi: 1860"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-berlin-duvarinin-yikilisi",
+        "olay-iran-devrimi-1979"
+      ],
+      "detay": "\"Fransa\" — olay-berlin-duvarinin-yikilisi: 1989 / olay-iran-devrimi-1979: 1978"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-berlin-duvarinin-yikilisi",
+        "olay-pasifik-nukleer-denemeleri"
+      ],
+      "detay": "\"Fransa\" — olay-berlin-duvarinin-yikilisi: 1989 / olay-pasifik-nukleer-denemeleri: 1996"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-berlin-duvarinin-yikilisi",
+        "tartisma-feodalite-kavrami"
+      ],
+      "detay": "\"Fransa\" — olay-berlin-duvarinin-yikilisi: 1989 / tartisma-feodalite-kavrami: 1974"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-iran-devrimi-1979",
+        "olay-pasifik-nukleer-denemeleri"
+      ],
+      "detay": "\"Fransa\" — olay-iran-devrimi-1979: 1978 / olay-pasifik-nukleer-denemeleri: 1996"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-iran-devrimi-1979",
+        "tartisma-feodalite-kavrami"
+      ],
+      "detay": "\"Fransa\" — olay-iran-devrimi-1979: 1978 / tartisma-feodalite-kavrami: 1974"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-meksika-devrimi",
+        "tartisma-1914-savas-sorumlulugu"
+      ],
+      "detay": "\"Fransa\" — olay-meksika-devrimi: 1911 / tartisma-1914-savas-sorumlulugu: 1912"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-pasifik-nukleer-denemeleri",
+        "tartisma-feodalite-kavrami"
+      ],
+      "detay": "\"Fransa\" — olay-pasifik-nukleer-denemeleri: 1996 / tartisma-feodalite-kavrami: 1974"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-ikinci-dunya-savasi-sorumlulugu",
+        "tartisma-soykirim-kavrami"
+      ],
+      "detay": "\"Nazi\" — tartisma-ikinci-dunya-savasi-sorumlulugu: 1961 / tartisma-soykirim-kavrami: 1948"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-11-eylul",
+        "olay-arap-bahari"
+      ],
+      "detay": "\"Irak\" — olay-11-eylul: 2002 / olay-arap-bahari: 2012"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -25,10 +939,127 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
-        "olay-buyuk-buhran",
-        "dusunur-keynes"
+        "donem-13",
+        "tartisma-ikinci-dunya-savasi-sorumlulugu"
       ],
-      "detay": "\"Büyük Buhran\" — olay-buyuk-buhran: 1929 / dusunur-keynes: 1920"
+      "detay": "\"Milletler Cemiyeti\" — donem-13: 1929 / tartisma-ikinci-dunya-savasi-sorumlulugu: 1933"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-ikinci-dunya-savasi",
+        "tartisma-ikinci-dunya-savasi-sorumlulugu"
+      ],
+      "detay": "\"Milletler Cemiyeti\" — olay-ikinci-dunya-savasi: 1929 / tartisma-ikinci-dunya-savasi-sorumlulugu: 1933"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-versailles-antlasmasi",
+        "tartisma-ikinci-dunya-savasi-sorumlulugu"
+      ],
+      "detay": "\"Milletler Cemiyeti\" — olay-versailles-antlasmasi: 1929 / tartisma-ikinci-dunya-savasi-sorumlulugu: 1933"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "donem-13",
+        "olay-kore-savasi"
+      ],
+      "detay": "\"Sovyetler Birliği\" — donem-13: 1929 / olay-kore-savasi: 1950"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "donem-13",
+        "tartisma-ikinci-dunya-savasi-sorumlulugu"
+      ],
+      "detay": "\"Sovyetler Birliği\" — donem-13: 1929 / tartisma-ikinci-dunya-savasi-sorumlulugu: 1941"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-versailles-antlasmasi",
+        "olay-kore-savasi"
+      ],
+      "detay": "\"Sovyetler Birliği\" — olay-versailles-antlasmasi: 1929 / olay-kore-savasi: 1950"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-versailles-antlasmasi",
+        "tartisma-ikinci-dunya-savasi-sorumlulugu"
+      ],
+      "detay": "\"Sovyetler Birliği\" — olay-versailles-antlasmasi: 1929 / tartisma-ikinci-dunya-savasi-sorumlulugu: 1941"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-kore-savasi",
+        "tartisma-ikinci-dunya-savasi-sorumlulugu"
+      ],
+      "detay": "\"Sovyetler Birliği\" — olay-kore-savasi: 1950 / tartisma-ikinci-dunya-savasi-sorumlulugu: 1941"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-vietnam-savasi",
+        "tartisma-ikinci-dunya-savasi-sorumlulugu"
+      ],
+      "detay": "\"İkinci Dünya Savaşı\" — olay-vietnam-savasi: 1967 / tartisma-ikinci-dunya-savasi-sorumlulugu: 1961"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-11-eylul",
+        "olay-uzay-yarisi"
+      ],
+      "detay": "\"Hamburg\" — olay-11-eylul: 1999 / olay-uzay-yarisi: 1996"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-1857-hint-ayaklanmasi",
+        "olay-afyon-savaslari"
+      ],
+      "detay": "\"Nisan\" — olay-1857-hint-ayaklanmasi: 1857 / olay-afyon-savaslari: 1840"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-bandung-konferansi",
+        "tartisma-teknolojik-belirlenimcilik"
+      ],
+      "detay": "\"Nisan\" — olay-bandung-konferansi: 1955 / tartisma-teknolojik-belirlenimcilik: 1963"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-baglantisizlar-hareketi",
+        "tartisma-teknolojik-belirlenimcilik"
+      ],
+      "detay": "\"Nisan\" — aktor-baglantisizlar-hareketi: 1955 / tartisma-teknolojik-belirlenimcilik: 1963"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-cernobil",
+        "tartisma-teknolojik-belirlenimcilik"
+      ],
+      "detay": "\"Nisan\" — olay-cernobil: 1986 / tartisma-teknolojik-belirlenimcilik: 1963"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -38,6 +1069,33 @@
         "veri-savas-olumleri"
       ],
       "detay": "\"Nisan\" — olay-cernobil: 1986 / veri-savas-olumleri: 1994"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-paris-iklim-anlasmasi",
+        "tartisma-demografik-donum-sonuclari"
+      ],
+      "detay": "\"Nisan\" — olay-paris-iklim-anlasmasi: 2016 / tartisma-demografik-donum-sonuclari: 2019"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-paris-iklim-anlasmasi",
+        "veri-savas-olumleri"
+      ],
+      "detay": "\"Nisan\" — olay-paris-iklim-anlasmasi: 2016 / veri-savas-olumleri: 1994"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-demografik-donum-sonuclari",
+        "veri-savas-olumleri"
+      ],
+      "detay": "\"Nisan\" — tartisma-demografik-donum-sonuclari: 2019 / veri-savas-olumleri: 1994"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -62,15 +1120,6 @@
       "seviye": "incele",
       "makaleler": [
         "olay-1914-temmuz-krizi",
-        "tartisma-1914-savas-sorumlulugu"
-      ],
-      "detay": "\"Sırbistan\" — olay-1914-temmuz-krizi: 1914 / tartisma-1914-savas-sorumlulugu: 1912"
-    },
-    {
-      "tur": "varlik-yil-ayrismasi",
-      "seviye": "incele",
-      "makaleler": [
-        "olay-1914-temmuz-krizi",
         "kaynak-clark-uyurgezerler"
       ],
       "detay": "\"Sırbistan\" — olay-1914-temmuz-krizi: 1914 / kaynak-clark-uyurgezerler: 1912"
@@ -79,64 +1128,46 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
-        "olay-meiji-restorasyonu",
-        "tartisma-karsi-olgusal-tarih"
+        "olay-2008-finansal-krizi",
+        "aktor-imf"
       ],
-      "detay": "\"Ocak\" — olay-meiji-restorasyonu: 1868 / tartisma-karsi-olgusal-tarih: 1890"
+      "detay": "\"Washington\" — olay-2008-finansal-krizi: 2008 / aktor-imf: 2026"
     },
     {
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
-        "aktor-japonya-imparatorlugu",
-        "tartisma-karsi-olgusal-tarih"
+        "olay-buyuk-buhran",
+        "tartisma-eksen-cagi-gercek-mi"
       ],
-      "detay": "\"Ocak\" — aktor-japonya-imparatorlugu: 1868 / tartisma-karsi-olgusal-tarih: 1890"
+      "detay": "\"Londra\" — olay-buyuk-buhran: 1931 / tartisma-eksen-cagi-gercek-mi: 1953"
     },
     {
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
-        "olay-1973-petrol-krizi",
-        "olay-suveys-krizi"
+        "tartisma-eksen-cagi-gercek-mi",
+        "tartisma-osmanli-gerileme-tezi"
       ],
-      "detay": "\"Mart\" — olay-1973-petrol-krizi: 1974 / olay-suveys-krizi: 1956"
+      "detay": "\"Londra\" — tartisma-eksen-cagi-gercek-mi: 1953 / tartisma-osmanli-gerileme-tezi: 1957"
     },
     {
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
-        "olay-balkan-savaslari",
-        "tartisma-karsi-olgusal-tarih"
+        "olay-buyuk-buhran",
+        "tartisma-1914-savas-sorumlulugu"
       ],
-      "detay": "\"Mart\" — olay-balkan-savaslari: 1912 / tartisma-karsi-olgusal-tarih: 1890"
+      "detay": "\"Fransız\" — olay-buyuk-buhran: 1931 / tartisma-1914-savas-sorumlulugu: 1928"
     },
     {
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
-        "aktor-fatimi-hilafeti",
-        "tartisma-hacli-seferlerinin-nedeni"
+        "olay-afyon-savaslari",
+        "olay-irlanda-kitligi"
       ],
-      "detay": "\"Suriye\" — aktor-fatimi-hilafeti: 1171 / tartisma-hacli-seferlerinin-nedeni: 1187"
-    },
-    {
-      "tur": "varlik-yil-ayrismasi",
-      "seviye": "incele",
-      "makaleler": [
-        "olay-bretton-woods",
-        "olay-hindistan-bolunmesi"
-      ],
-      "detay": "\"Ağustos\" — olay-bretton-woods: 1971 / olay-hindistan-bolunmesi: 1947"
-    },
-    {
-      "tur": "varlik-yil-ayrismasi",
-      "seviye": "incele",
-      "makaleler": [
-        "aktor-imf",
-        "olay-hindistan-bolunmesi"
-      ],
-      "detay": "\"Ağustos\" — aktor-imf: 1971 / olay-hindistan-bolunmesi: 1947"
+      "detay": "\"Avam Kamarası\" — olay-afyon-savaslari: 1840 / olay-irlanda-kitligi: 1847"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -146,6 +1177,114 @@
         "olay-yedi-yil-savasi"
       ],
       "detay": "\"Grenville\" — olay-amerikan-devrimi: 1763 / olay-yedi-yil-savasi: 1765"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-kuba-fuze-krizi",
+        "aktor-imf"
+      ],
+      "detay": "\"Küba\" — olay-kuba-fuze-krizi: 1962 / aktor-imf: 1964"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-bagdat-kusatmasi-1258",
+        "tartisma-mogol-etkisi"
+      ],
+      "detay": "\"Bağdat\" — olay-bagdat-kusatmasi-1258: 1258 / tartisma-mogol-etkisi: 1256"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-mansa-musa-haci",
+        "aktor-memluk-devleti"
+      ],
+      "detay": "\"Kahire\" — olay-mansa-musa-haci: 1324 / aktor-memluk-devleti: 1325"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-mansa-musa-haci",
+        "tartisma-kara-olumun-sonuclari"
+      ],
+      "detay": "\"Kahire\" — olay-mansa-musa-haci: 1324 / tartisma-kara-olumun-sonuclari: 1347"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-memluk-devleti",
+        "tartisma-kara-olumun-sonuclari"
+      ],
+      "detay": "\"Kahire\" — aktor-memluk-devleti: 1325 / tartisma-kara-olumun-sonuclari: 1347"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-buyuk-buhran",
+        "tartisma-1929-krizinin-nedeni"
+      ],
+      "detay": "\"New York\" — olay-buyuk-buhran: 1931 / tartisma-1929-krizinin-nedeni: 1928"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-paris-iklim-anlasmasi",
+        "tartisma-1914-savas-sorumlulugu"
+      ],
+      "detay": "\"New York\" — olay-paris-iklim-anlasmasi: 1992 / tartisma-1914-savas-sorumlulugu: 2012"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-paris-iklim-anlasmasi",
+        "tartisma-mogol-etkisi"
+      ],
+      "detay": "\"New York\" — olay-paris-iklim-anlasmasi: 1992 / tartisma-mogol-etkisi: 2004"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-1914-savas-sorumlulugu",
+        "tartisma-mogol-etkisi"
+      ],
+      "detay": "\"New York\" — tartisma-1914-savas-sorumlulugu: 2012 / tartisma-mogol-etkisi: 2004"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-buyuk-buhran",
+        "tartisma-1929-krizinin-nedeni"
+      ],
+      "detay": "\"Smoot-Hawley\" — olay-buyuk-buhran: 1931 / tartisma-1929-krizinin-nedeni: 1930"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-kore-savasi",
+        "tartisma-ikinci-dunya-savasi-sorumlulugu"
+      ],
+      "detay": "\"Japon\" — olay-kore-savasi: 1945 / tartisma-ikinci-dunya-savasi-sorumlulugu: 1941"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-kore-savasi",
+        "tartisma-ikinci-dunya-savasi-sorumlulugu"
+      ],
+      "detay": "\"Mançurya\" — olay-kore-savasi: 1950 / tartisma-ikinci-dunya-savasi-sorumlulugu: 1931"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -169,6 +1308,123 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
+        "olay-ikinci-dunya-savasi",
+        "olay-kore-savasi"
+      ],
+      "detay": "\"Tayvan\" — olay-ikinci-dunya-savasi: 1929 / olay-kore-savasi: 1950"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-italyan-birligi",
+        "tartisma-imparatorluk-nufusu-nasil-sayilir"
+      ],
+      "detay": "\"İtalya\" — olay-italyan-birligi: 1861 / tartisma-imparatorluk-nufusu-nasil-sayilir: 1886"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-italyan-birligi",
+        "olay-kirim-savasi"
+      ],
+      "detay": "\"Sardinya\" — olay-italyan-birligi: 1860 / olay-kirim-savasi: 1856"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-meksika-devrimi",
+        "dusunur-keynes"
+      ],
+      "detay": "\"Amerikalı\" — olay-meksika-devrimi: 1910 / dusunur-keynes: 1930"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-meksika-devrimi",
+        "kaynak-keynes-genel-teori"
+      ],
+      "detay": "\"Amerikalı\" — olay-meksika-devrimi: 1910 / kaynak-keynes-genel-teori: 1930"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-kore-savasi",
+        "olay-kultur-devrimi"
+      ],
+      "detay": "\"Zhou Enlai\" — olay-kore-savasi: 1950 / olay-kultur-devrimi: 1975"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-kore-savasi",
+        "tartisma-demografik-donum-sonuclari"
+      ],
+      "detay": "\"Birleşmiş Milletler\" — olay-kore-savasi: 1950 / tartisma-demografik-donum-sonuclari: 1970"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-sovyetler-dagilmasi",
+        "tartisma-demografik-donum-sonuclari"
+      ],
+      "detay": "\"Birleşmiş Milletler\" — olay-sovyetler-dagilmasi: 1991 / tartisma-demografik-donum-sonuclari: 1970"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-imf",
+        "tartisma-nufus-artisi-tehdit-mi"
+      ],
+      "detay": "\"Birleşmiş Milletler\" — aktor-imf: 2026 / tartisma-nufus-artisi-tehdit-mi: 2024"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-kuba-fuze-krizi",
+        "olay-uzay-yarisi"
+      ],
+      "detay": "\"Kennedy\" — olay-kuba-fuze-krizi: 1962 / olay-uzay-yarisi: 1961"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-nufus-patlamasi",
+        "tartisma-tarim-devrimi-ilerleme-mi"
+      ],
+      "detay": "\"Population\" — olay-nufus-patlamasi: 2013 / tartisma-tarim-devrimi-ilerleme-mi: 1991"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-uzay-yarisi",
+        "tartisma-soguk-savasin-baslangici"
+      ],
+      "detay": "\"Hiroshima\" — olay-uzay-yarisi: 1945 / tartisma-soguk-savasin-baslangici: 1965"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-abbasi-hilafeti",
+        "aktor-memluk-devleti"
+      ],
+      "detay": "\"Moğol\" — aktor-abbasi-hilafeti: 1258 / aktor-memluk-devleti: 1260"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
         "aktor-birlesmis-milletler",
         "aktor-dunya-ticaret-orgutu"
       ],
@@ -179,9 +1435,261 @@
       "seviye": "incele",
       "makaleler": [
         "aktor-birlesmis-milletler",
-        "aktor-imf"
+        "tartisma-soguk-savasin-baslangici"
       ],
-      "detay": "\"Bretton Woods Konferansı\" — aktor-birlesmis-milletler: 1943 / aktor-imf: 1944"
+      "detay": "\"Yalta Konferansı\" — aktor-birlesmis-milletler: 1943 / tartisma-soguk-savasin-baslangici: 1950"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-rapa-nui",
+        "tartisma-bati-neden-yukseldi"
+      ],
+      "detay": "\"Jared Diamond\" — aktor-rapa-nui: 2005 / tartisma-bati-neden-yukseldi: 1997"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-rapa-nui",
+        "tartisma-tarim-devrimi-ilerleme-mi"
+      ],
+      "detay": "\"Jared Diamond\" — aktor-rapa-nui: 2005 / tartisma-tarim-devrimi-ilerleme-mi: 1991"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-iklim-ve-cokus",
+        "tartisma-bati-neden-yukseldi"
+      ],
+      "detay": "\"Jared Diamond\" — tartisma-iklim-ve-cokus: 2005 / tartisma-bati-neden-yukseldi: 1997"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-iklim-ve-cokus",
+        "tartisma-tarim-devrimi-ilerleme-mi"
+      ],
+      "detay": "\"Jared Diamond\" — tartisma-iklim-ve-cokus: 2005 / tartisma-tarim-devrimi-ilerleme-mi: 1991"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-bati-neden-yukseldi",
+        "tartisma-tarim-devrimi-ilerleme-mi"
+      ],
+      "detay": "\"Jared Diamond\" — tartisma-bati-neden-yukseldi: 1997 / tartisma-tarim-devrimi-ilerleme-mi: 1991"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-rapa-nui",
+        "tartisma-tunc-cagi-cokusunun-nedeni"
+      ],
+      "detay": "\"Collapse\" — aktor-rapa-nui: 2005 / tartisma-tunc-cagi-cokusunun-nedeni: 2020"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-bati-neden-yukseldi",
+        "tartisma-kara-olumun-sonuclari"
+      ],
+      "detay": "\"Harvard University Press\" — tartisma-bati-neden-yukseldi: 2011 / tartisma-kara-olumun-sonuclari: 1997"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-bati-neden-yukseldi",
+        "tartisma-kalkinma-neden-basarisiz"
+      ],
+      "detay": "\"Daron Acemoğlu\" — tartisma-bati-neden-yukseldi: 2005 / tartisma-kalkinma-neden-basarisiz: 2012"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-bati-neden-yukseldi",
+        "tartisma-kalkinma-neden-basarisiz"
+      ],
+      "detay": "\"James Robinson\" — tartisma-bati-neden-yukseldi: 2005 / tartisma-kalkinma-neden-basarisiz: 2012"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-demografik-donum-sonuclari",
+        "kaynak-tooze-felaketin-bedeli"
+      ],
+      "detay": "\"Longman\" — tartisma-demografik-donum-sonuclari: 2004 / kaynak-tooze-felaketin-bedeli: 2007"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-eksen-cagi-gercek-mi",
+        "tartisma-tarim-devrimi-ilerleme-mi"
+      ],
+      "detay": "\"Journal\" — tartisma-eksen-cagi-gercek-mi: 2023 / tartisma-tarim-devrimi-ilerleme-mi: 2000"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-eksen-cagi-gercek-mi",
+        "tartisma-tunc-cagi-cokusunun-nedeni"
+      ],
+      "detay": "\"Journal\" — tartisma-eksen-cagi-gercek-mi: 2023 / tartisma-tunc-cagi-cokusunun-nedeni: 2000"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-hacli-seferlerinin-nedeni",
+        "tartisma-tarim-devrimi-ilerleme-mi"
+      ],
+      "detay": "\"Journal\" — tartisma-hacli-seferlerinin-nedeni: 1992 / tartisma-tarim-devrimi-ilerleme-mi: 2000"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-hacli-seferlerinin-nedeni",
+        "tartisma-tunc-cagi-cokusunun-nedeni"
+      ],
+      "detay": "\"Journal\" — tartisma-hacli-seferlerinin-nedeni: 1992 / tartisma-tunc-cagi-cokusunun-nedeni: 2000"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-feodalite-kavrami",
+        "tartisma-teknolojik-belirlenimcilik"
+      ],
+      "detay": "\"Karolenj\" — tartisma-feodalite-kavrami: 1952 / tartisma-teknolojik-belirlenimcilik: 1962"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-fransiz-devrimi-yorumlari",
+        "tartisma-soguk-savasin-baslangici"
+      ],
+      "detay": "\"Origins\" — tartisma-fransiz-devrimi-yorumlari: 1967 / tartisma-soguk-savasin-baslangici: 1972"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-fransiz-devrimi-yorumlari",
+        "tartisma-sanayi-devrimi-neden-ingiltere"
+      ],
+      "detay": "\"Global Perspective\" — tartisma-fransiz-devrimi-yorumlari: 2013 / tartisma-sanayi-devrimi-neden-ingiltere: 2009"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-romanin-cokus-nedeni",
+        "tartisma-vestfalya-miti"
+      ],
+      "detay": "\"Princeton\" — tartisma-romanin-cokus-nedeni: 1980 / tartisma-vestfalya-miti: 1999"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-iklim-ve-cokus",
+        "tartisma-tarim-devrimi-ilerleme-mi"
+      ],
+      "detay": "\"Weiss\" — tartisma-iklim-ve-cokus: 1993 / tartisma-tarim-devrimi-ilerleme-mi: 1992"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-kalkinma-neden-basarisiz",
+        "tartisma-kalkinma-yardimi-ise-yariyor-mu"
+      ],
+      "detay": "\"William Easterly\" — tartisma-kalkinma-neden-basarisiz: 2006 / tartisma-kalkinma-yardimi-ise-yariyor-mu: 2004"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-kara-olumun-sonuclari",
+        "tartisma-tunc-cagi-cokusunun-nedeni"
+      ],
+      "detay": "\"Transformation\" — tartisma-kara-olumun-sonuclari: 1997 / tartisma-tunc-cagi-cokusunun-nedeni: 2020"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-kara-olumun-sonuclari",
+        "tartisma-mogol-etkisi"
+      ],
+      "detay": "\"Cambridge University Press\" — tartisma-kara-olumun-sonuclari: 1985 / tartisma-mogol-etkisi: 1997"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-kara-olumun-sonuclari",
+        "tartisma-sanayi-devrimi-neden-ingiltere"
+      ],
+      "detay": "\"Cambridge University Press\" — tartisma-kara-olumun-sonuclari: 1985 / tartisma-sanayi-devrimi-neden-ingiltere: 2009"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-kara-olumun-sonuclari",
+        "tartisma-yazinin-icadi-nerede"
+      ],
+      "detay": "\"Cambridge University Press\" — tartisma-kara-olumun-sonuclari: 1985 / tartisma-yazinin-icadi-nerede: 1994"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-mogol-etkisi",
+        "tartisma-sanayi-devrimi-neden-ingiltere"
+      ],
+      "detay": "\"Cambridge University Press\" — tartisma-mogol-etkisi: 1997 / tartisma-sanayi-devrimi-neden-ingiltere: 2009"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-mogol-etkisi",
+        "tartisma-yazinin-icadi-nerede"
+      ],
+      "detay": "\"Cambridge University Press\" — tartisma-mogol-etkisi: 1997 / tartisma-yazinin-icadi-nerede: 1994"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-sanayi-devrimi-neden-ingiltere",
+        "tartisma-yazinin-icadi-nerede"
+      ],
+      "detay": "\"Cambridge University Press\" — tartisma-sanayi-devrimi-neden-ingiltere: 2009 / tartisma-yazinin-icadi-nerede: 1994"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-karsi-olgusal-tarih",
+        "tartisma-sanayi-devrimi-neden-ingiltere"
+      ],
+      "detay": "\"Douglass North\" — tartisma-karsi-olgusal-tarih: 1993 / tartisma-sanayi-devrimi-neden-ingiltere: 1989"
     }
   ]
 }

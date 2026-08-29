@@ -32,6 +32,7 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - tartisma-teknolojik-belirlenimcilik
   - olay-11-eylul
+  - olay-vietnam-savasi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

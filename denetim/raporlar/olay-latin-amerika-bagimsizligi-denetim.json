@@ -1,81 +1,291 @@
 {
   "id": "olay-latin-amerika-bagimsizligi",
   "gecis": 2,
-  "zaman": "2026-08-29T19:34:01.702Z",
-  "govde_hash": "9cad9480e224",
-  "commit": "2dc84ff",
+  "zaman": "2026-08-29T20:03:03.271Z",
+  "govde_hash": "802de104f567",
+  "commit": "5373c66",
   "sonuclar": [
     {
+      "anahtar": "k9",
+      "iddia": "Kaynağın kendi bölümlemesi bile aynı çatışmalar dizisini dört ayrı evreye ayırır: 1810-1814 arası tartışmalı egemenlik için iç savaşlar, 1814-1820 arası kralın ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kaynak tetikleyiciyi Avrupa'ya koyar: meşru bir hükümdarın yokluğunda İspanyol Amerikası'ndaki çatışmaları başlatan etken Yarımada Savaşı'dır; Napolyon Bourbon ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Aynı kaynak bu tetikleyicinin önüne uzun soluklu bir bağlam zinciri koyar: denetimli bağımsızlık önerileri, idari ve iktisadi reformlar, askerî yeniden yapıland",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Aydınlanma"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Boşluğun ilk yanıtı bağımsızlık değildi: bazı büyük kentler ve başkentler, İspanyol geleneğinin hukukuna dayanarak yerel yönetim kurulları kurdu; 1809'da Chuqui",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Cádiz Cortes'inin 19 Mart 1812'de ilan ettiği anayasa, ulusal temsilin dayanağının iki yarıkürede aynı olduğunu yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ne var ki metin, bu dayanağın kimlerden oluştuğunu hemen bir sonraki maddede sayar: temsil tabanı, her iki soy hattından İspanyol topraklarının yerlisi olanlar,",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Anayasa, herhangi bir hattan Afrika kökenli sayılan ve öyle bilinen İspanyollara yurttaşlığın kapısını erdem ve liyakat yoluyla açık bırakır; Cortes, vatana nit",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ama aynı madde koşulları da sayar: aday hür doğmuş anne babadan meşru evlilik içinde doğmuş olmalı, hür doğmuş bir kadınla evli olmalı, İspanyol topraklarında y",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İspanyol"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Eşitlik ilan edilmiş, aynı sayfada dört koşula bağlanmıştır; ve koşulların hiçbiri yarımkürede değil, soyda ve statüde ölçülür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kitabın savı özette şöyle verilir: bağımsızlık, birçok araştırmacının ileri sürdüğünün aksine sömürgecilik karşıtı bir hareket oluşturmamış, daha geniş bir İspa",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
       "anahtar": "k1",
-      "iddia": "Kaynak bu savaşları 1808-1833 arasında Amerika kıtasındaki bir silahlı çatışmalar dizisi olarak tanımlar; sonuç yurtsever zaferi, toprak sonucu ise İspanyol Ame",
+      "iddia": "Kopan parçaların eski birliklerini yeniden kurabildiği bir dünyada Amerikalıların böyle bir geçmişi olmadığını söyler: eskiden ne olduğumuzun izlerini bile taşı",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kendi ifadesiyle bu bir konum değil bir ikilemdir; \"ne Avrupalıyız, ne de Yerliyiz\" cümlesi, sonraki bütün anayasa tartışmasının öncülüdür.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Avrupalıyız, Yerliyiz"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuzey Amerika'yı över, ama federal sistemin zayıf ve karmaşık olduğunu, o halkı bu kadar güç koşullarda yönetebilmiş olmasının bir olağanüstülük sayılması gerek",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Roma ile Büyük Britanya'yı eskiler ve modernler arasında en çok temayüz etmiş iki ulus sayar ve temsilcilere Britanya anayasasını incelemelerini önerir; ama met",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bolívar'a göre senato, hükümet ile halk arasında bu iki ezelî rakibin birbirine attığı okları körelten ara bir güç olacaktır; gerekçesi siyasi olduğu kadar minn",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak askerî seferleri dört başlığa ayırır: 1810-1814 arası tartışmalı egemenlik için iç savaşlar, 1814-1820 arası kralın bağımsızlığa karşı savaşı, 1820-1825 ",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Aynı çatışmalar dizisinin ilk evresine iç savaş, ikinci evresine kralın savaşı adının verilmesi, tek bir bağımsızlık savaşı etiketinin kaydın kendi bölümlemesin",
+      "iddia": "Metnin kendisi burada bir tereddüt taşır — Bolívar gelecek kuşakların bu adların silinmesine üzüleceğine inandığını söyler, kesin bir hüküm vermez.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak toplam bir milyon ölü verir ve bunu ikiye böler: Yeni İspanya'da 600.000, Yeni Granada'da 400.000.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Toplamın alt kalemlerle birlikte verilmesi, atlasın tercih ettiği kayıt biçimidir: bölünebilen bir sayı, denetlenebilen bir sayıdır.",
+      "iddia": "Aynı söylevde kongreden istediği tek şey bir kurum değildir: bütün kararname ve düzenlemelerini değiştirme ya da kaldırma yetkisini kongreye bıraktığını, buna k",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynağın andığı bir çalışmaya göre bağımsızlık savaşlarının sonuncusu olan Ayacucho'da birliklerin yüzde yirmisinden azı İspanyol'du, geri kalanı yerliydi; aynı",
+      "iddia": "İngilizce metin, kongrenin yüzüncü yılında Venezuela hükümetinin emriyle bastırılmış bir anma cildidir; söylevin önündeki sunuş Bolívar'ın değil 1919'daki editö",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bir savaşın taraflarının bileşimine dair böyle bir oran verilmesi, \"sömürgeci karşısında sömürge\" şemasının kaydın kendisi tarafından karmaşıklaştırıldığını gös",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k9",
+      "iddia": "Kaynak, Amerika'daki birliklerin her iki tarafta da neredeyse tamamının bölgeden devşirildiğini; yerli topluluklara ayrım gözetmeksizin asker toplandığını; yerl",
+      "durum": "OK",
+      "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak arka plan başlıkları arasında Napolyon Savaşları'nın etkilerini ve Bourbon hanedanının çöküşünü sayar; 1808-1810 arasını İspanya ve Amerika'da yeni yönet",
+      "anahtar": "k9",
+      "iddia": "Esir düşenler karşı tarafın ordusuna katılıyordu; Avrupa kökenli kreol ileri gelenleri bölgelerinin ticari çıkarına göre kralcı ya da bağımsızlıkçı safa geçebil",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Cristina Soriano, 18. yüzyılın son onyıllarında Venezuela'da sömürge yönetimine karşı bir dizi halk ayaklanması ve komplonun belirdiğini; bunların birçoğunun ve",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı çalışmaya göre bu hareketler Amerikan, Fransız ve Haiti devrimlerinin cumhuriyetçi hak dilini yeniden üretiyordu; İspanyol Tacı ve sömürge görevlileri Fran",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Haiti burada aynı anda iki şeydir: dili ödünç alınan bir örnek ve Tacın istikrarsızlaştırıcı, fitneci ve son derece tehlikeli saydığı bir tehdit.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tacın"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kaynağın bilgi kutusu toplam bir milyon ölü verir ve bunu ikiye böler: Yeni İspanya'da 600.000, Yeni Granada'da 400.000.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "600.000 rakamı, on dokuzuncu yüzyıl savaş istatistiklerini derleyen kişisel bir web sitesine bağlanmıştır; 400.000 rakamı 1971 tarihli bir dergi cildinden alına",
+      "durum": "OK",
+      "not": "7 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Ayacucho'da birliklerin yüzde yirmisinden azının İspanyol olduğu ve bu savaşlarda ölen nativos sayısının yaklaşık 35.000 olduğu bilgisi, maddenin dipnotunda akt",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Aynı alıntı, bağımsızlık savaşları döneminde İbero-Amerika'da 50.000'den az İspanyol askeri bulunduğunu, bunların 20.000'inin Küba'dan hiç çıkmadığını ve savaşl",
       "durum": "OK",
       "not": "5 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k2",
-      "iddia": "O savaşlar dosyasında ele alınıyor.",
+      "anahtar": "k9",
+      "iddia": "Bunu yalnızca yerli halklara daraltmak, sayıyı başka bir topluluğun hanesine yazmak olur.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
+      "anahtar": "k9",
+      "iddia": "ABD 1822'de Şili'yi, Río de la Plata Birleşik Eyaletleri'ni, Peru'yu, Gran Kolombiya'yı ve Meksika'yı tanıdı; Britanya 1825'e, yani Ayacucho Muharebesi'nden son",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 1848'de yaklaşık 1,27 milyardır.",
+      "iddia": "Aradaki yılda Monroe'nun 1823 tarihli yıllık mesajı kıtayı bir ilkeye bağlamıştı: Amerika kıtaları, üstlendikleri ve sürdürdükleri hür ve bağımsız konum gereği,",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynağın verdiği bir milyonluk ölü sayısı bu iki değerin arasındaki bir dönemi kapsar; atlas bu iki kaydı oranlamaz, çünkü kaynakta böyle bir oran verilmemiştir",
+      "anahtar": "k3",
+      "iddia": "Aynı mesajın ilerleyen bir paragrafı, herhangi bir Avrupa gücünün mevcut sömürgeleri ve bağımlı toprakları için \"karışmadık ve karışmayacağız\" der; koruma yalnı",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Tarafsızlık beyanı da koşulludur: bildiri, tanıma anında ilan edilen tarafsızlığa uyulduğunu ve uyulmaya devam edileceğini, yetkili makamların yargısına göre bi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "12 Aralık 1826'da Avam Kamarası'nda Portekiz'e ilişkin kraliyet mesajı görüşülürken George Canning, hükümetinin Fransız ordusunun İspanya'yı işgal etmesine göz ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "12 Aralık 1826'da Avam Kamarası'nda Portekiz'e ilişkin kraliyet mesajı görüşülürken George Canning, hükümetinin Fransız ordusunun İspanya'yı işgal etmesine göz ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Rafael Cariello ile Thales Zamberlan Pereira, 1822'nin tarih yazımını gözden geçirirken önceki yorumların bağımsızlık hareketinde seçkinlerin rolünü öne çıkardı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Aynı okumaya göre siyasi kopuş iki aşamada gerçekleşti: önce bir liberal devrim, ardından anayasal bir çatışma; mali krizin Avrupa'daki ve Güney Amerika'daki fa",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Leslie Bethell'in 1822-1826 arası Anglo-Brezilya ilişkilerini izleyen çalışması, Brezilya'nın bağımsızlığı ile Brezilya köle ticaretinin kaldırılmasını aynı baş",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Çalışmanın kendi girişi, Atlantik köle ticaretinin on altıncı yüzyılın başından on dokuzuncunun başına kadar üç yüz yıl boyunca yasal olarak ve sürekli büyüyen ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Yeni cumhuriyetler Engizisyon'un biçimsel düzenini ve soyluluk unvanlarını kaldırdı; ama bu ülkelerin çoğunda kölelik hemen kaldırılmadı ve tam kaldırma Latin A",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Avrupa kökenli kreoller ile yerli-Avrupalı karışımı mestizolar siyasi makamların çoğunda İspanya doğumlu atanmışların yerini aldı; kreoller ise, hukuken olmasa ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Rodríguez'in okuması bu tabloyla uyumludur: kitlelerin ciddi katılımına rağmen bağımsızlık mücadelesi kreollerin, yani Yeni Dünya burjuvazisinin zaferiyle sonuç",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Rakip okuma, onun birçok araştırmacıya atfettiği sömürgecilik karşıtı yorumdur; Rodríguez bunu reddeder, ama reddettiği okumanın hâlâ ayakta olduğu da onun kend",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Reformlar, askerî yeniden yapılanma, Aydınlanma düşüncelerinin yayılması ve savaşların bölgesel seyri burada ayrı başlıklar altında ele alınmamıştır; kaynak bun",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Aydınlanma"
+      "iddia": "Bolívar'ın kongreden kölelerin mutlak özgürlüğünü onaylamasını istemiş olması ile kaldırmanın çoğu ülkede 1850'lere sarkması arasındaki mesafe, \"devrim\" adlandı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Bolívar'ın kongreden kölelerin mutlak özgürlüğünü onaylamasını istemiş olması ile kaldırmanın çoğu ülkede 1850'lere sarkması arasındaki mesafe, \"devrim\" adlandı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Veracruz, Callao ve Chiloé'deki İspanyol kıyı istihkâmları 1825-1826'ya kadar dayandı; izleyen on yılda kralcı gerillalar birçok ülkede faaliyetini sürdürdü, 18",
+      "durum": "OK",
+      "not": "8 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Küba ile Porto Riko 1898'e kadar İspanyol yönetiminde kaldı; yani Monroe'nun mevcut sömürgeleri dışarıda bırakan kaydı, bu iki ada için uzun süre geçerliliğini ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Küba ile Porto Riko 1898'e kadar İspanyol yönetiminde kaldı; yani Monroe'nun mevcut sömürgeleri dışarıda bırakan kaydı, bu iki ada için uzun süre geçerliliğini ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     }
   ]
 }

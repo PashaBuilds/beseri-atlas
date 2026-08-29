@@ -1,7 +1,7 @@
 {
   "id": "tartisma-milliyetcilik-ne-zaman",
   "govde_hash": "3c7f37765d28",
-  "commit": "33a9638",
+  "commit": "9181554",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -819,5 +819,11 @@
     "kismi": 15,
     "desteksiz": 0,
     "olculemez": 7
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "4 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

@@ -32,6 +32,7 @@ ilgili:
   - dusunur-carr
   - kavram-caydiricilik
   - tartisma-ikinci-dunya-savasi-sorumlulugu
+  - olay-kore-savasi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

@@ -1,7 +1,7 @@
 {
   "id": "kavram-hegemonya",
   "govde_hash": "0c7a73b474ca",
-  "commit": "c9a3451",
+  "commit": "9181554",
   "zaman": "2026-08-28",
   "hakem": "kor-hakem-2026-08-28",
   "iddialar": [
@@ -25,7 +25,7 @@
     },
     {
       "iddia_id": "i002",
-      "cumle": "Uluslararası ilişkiler yazınında imparatorluktan şu çizgiyle ayrılır: hegemon, öteki devletlerin dış ilişkilerini yönlendirir ama iç işlerini yönetmez.",
+      "cumle": "Uluslararası ilişkiler yazınında şu çizgiyle ayrılır: hegemon, öteki devletlerin dış ilişkilerini yönlendirir ama iç işlerini yönetmez.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -71,7 +71,7 @@
     },
     {
       "iddia_id": "i005",
-      "cumle": "Thukydides, Atinalıların bu önderliği müttefiklerin kendi istekleriyle devraldığını yazar; kullandığı sözcük hegemonia'dır ve fethedilmiş bir egemenlikten çok kabul görmüş bir öncülüğü anlatır.",
+      "cumle": ", Atinalıların bu önderliği müttefiklerin kendi istekleriyle devraldığını yazar; kullandığı sözcük hegemonia'dır ve fethedilmiş bir egemenlikten çok kabul görmüş bir öncülüğü anlatır.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -349,5 +349,11 @@
     "kismi": 5,
     "desteksiz": 0,
     "olculemez": 2
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "2 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

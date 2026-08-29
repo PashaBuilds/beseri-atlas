@@ -1,779 +1,785 @@
 {
- "id": "tartisma-antik-kolelik-ekonomisi",
- "govde_hash": "939b284a3d47",
- "commit": "33a9638",
- "zaman": "2026-08-29",
- "hakem": "kor-hakem-2026-08-29",
- "iddialar": [
-  {
-   "iddia_id": "i001",
-   "cumle": "Antik Yunan ve Roma'dan kalan metinler köleliği olağan bir kurum olarak anlatır: Atina'nın gümüş madenlerinde binlerce köle çalışır, Roma'nın çiftlik el kitapları köleyi tarım araçları arasında sınıflar, dönemin felsefesi köleliğe bir savunma yazar.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
+  "id": "tartisma-antik-kolelik-ekonomisi",
+  "govde_hash": "939b284a3d47",
+  "commit": "9181554",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
     {
-     "anahtar": "k6",
-     "destek": "dogrudan"
+      "iddia_id": "i001",
+      "cumle": "Antik Yunan ve Roma'dan kalan metinler köleliği olağan bir kurum olarak anlatır: Atina'nın gümüş madenlerinde binlerce köle çalışır, Roma'nın çiftlik el kitapları köleyi tarım araçları arasında sınıflar, dönemin felsefesi köleliğe bir savunma yazar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uc tanik uc ayri kurumsal baglami dogrudan tasir: maden emegi (k6), alet siniflamasi (k7), felsefi savunma (k4)"
     },
     {
-     "anahtar": "k7",
-     "destek": "dogrudan"
+      "iddia_id": "i002",
+      "cumle": "Sorunun iki ucunda, antik dünyaya hangi kavramlarla bakılacağına dair iki ayrı yöntem durur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cerceve cumlesi; iki yontem iki kitabin kendisidir, karsitlik kurgusu yazarin ozetidir"
     },
     {
-     "anahtar": "k4",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Uc tanik uc ayri kurumsal baglami dogrudan tasir: maden emegi (k6), alet siniflamasi (k7), felsefi savunma (k4)"
-  },
-  {
-   "iddia_id": "i002",
-   "cumle": "Sorunun iki ucunda, antik dünyaya hangi kavramlarla bakılacağına dair iki ayrı yöntem durur.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "baglam"
+      "iddia_id": "i003",
+      "cumle": "\"Köle toplumu\" nitelemesi antik dönem için savunulabilirse, klasik uygarlığın felsefesi ve mimarisi zorla çalıştırılan emeğin artık ürünü üzerinde yükselmiş demektir; savunulamazsa aynı uygarlık piyasa, zanaat ve ücretli emek kavramlarıyla anlatılabilir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki okumanin sonuclarini karsilastiran yazar ozeti; k1 kapak metni kategori tartismasini dogrular"
     },
     {
-     "anahtar": "k2",
-     "destek": "baglam"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Cerceve cumlesi; iki yontem iki kitabin kendisidir, karsitlik kurgusu yazarin ozetidir"
-  },
-  {
-   "iddia_id": "i003",
-   "cumle": "\"Köle toplumu\" nitelemesi antik dönem için savunulabilirse, klasik uygarlığın felsefesi ve mimarisi zorla çalıştırılan emeğin artık ürünü üzerinde yükselmiş demektir; savunulamazsa aynı uygarlık piyasa, zanaat ve ücretli emek kavramlarıyla anlatılabilir.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "kismi"
+      "iddia_id": "i004",
+      "cumle": "Politika'nın birinci kitabında kimi insanların doğaları gereği köle olduğunu savunur; ona göre başka birinin malı olan insan, kullanım için bedenden ayrı bir alet gibi, \"doğası gereği köledir\".",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ellis cevirisinde birinci kitap: is a man, is a slave by nature"
     },
     {
-     "anahtar": "k2",
-     "destek": "baglam"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Iki okumanin sonuclarini karsilastiran yazar ozeti; k1 kapak metni kategori tartismasini dogrular"
-  },
-  {
-   "iddia_id": "i004",
-   "cumle": "Politika'nın birinci kitabında kimi insanların doğaları gereği köle olduğunu savunur; ona göre başka birinin malı olan insan, kullanım için bedenden ayrı bir alet gibi, \"doğası gereği köledir\".",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Ellis cevirisinde birinci kitap: is a man, is a slave by nature"
-  },
-  {
-   "iddia_id": "i005",
-   "cumle": "Bu savunmanın kanıt gösterilmeden öne sürüldüğü kavramın çağdaş incelemelerinde not edilir; aynı incelemeler, efendilik yönetiminin asıl olarak efendinin yararına işlediği tespitini de Aristoteles'in kendi metnine bağlar.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "SEP: he asserts without evidence; despotik yonetimin efendinin yararina isledigi tespiti ayni bolumde"
-  },
-  {
-   "iddia_id": "i006",
-   "cumle": "Savunmanın varlığı başlı başına bir veridir: Politika, köleliğin doğaya aykırı olduğunu söyleyen bir karşı görüşü aktarır ve onu çürütmeye çalışır; kurum, kendi çağında bile kendiliğinden meşru değildi.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
+      "iddia_id": "i005",
+      "cumle": "Bu savunmanın kanıt gösterilmeden öne sürüldüğü kavramın çağdaş incelemelerinde not edilir; aynı incelemeler, efendilik yönetiminin asıl olarak efendinin yararına işlediği tespitini de Aristoteles'in kendi metnine bağlar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP: he asserts without evidence; despotik yonetimin efendinin yararina isledigi tespiti ayni bolumde"
     },
     {
-     "anahtar": "k8",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Karsi gorusun aktarimi k4 metninde (contrary to nature); mesruiyet cikarimi yazarin yorumudur"
-  },
-  {
-   "iddia_id": "i007",
-   "cumle": "Ksenophon'un kamu gelirleri üzerine küçük kitabı, kentin gelirini artırma planını Laurion gümüş madenlerine bağlar; yazara göre madenlerde iş, çalıştırılacak elden hep fazladır ve köle sahipleri ellerindeki sayıyı azaltmayı değil artırmayı gözetir.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k6",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Dakyns cevirisi IV. bolum: madenlerde is elden fazladir, sahipler sayiyi artirmayi gozetir"
-  },
-  {
-   "iddia_id": "i008",
-   "cumle": "Aynı kitap, Nikeratos oğlu Nikias'ın gümüş madenlerinde çalıştırılmak üzere bin köleyi Sosias adlı Trakyalıya kiraladığını, bedelin köle başına günde bir obol olduğunu aktarır; önerinin kendisi de kentin aynı işi kamu köleleriyle yapması, köle kirasını yurttaşlara pay dağıtan bir kamu geliri hâline getirmesidir.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k6",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k6: Nicias, the son of Niceratus; Sosias'a kiralama ve gunde bir obol metinde; kamu kolesi onerisi kitabin ana onerisidir. Metin komutanligi anmadigi icin 'komutan' nitelemesi hakem tarafindan cikarildi"
-  },
-  {
-   "iddia_id": "i009",
-   "cumle": "Kölelik bu metinde ne savunulur ne sorgulanır; bir yatırım aracı olarak hesaplanır.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k6",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Metnin tonuna iliskin nitelendirme; hesap dili dogrudan, savunma/sorgulama yoklugu yazarin okumasi"
-  },
-  {
-   "iddia_id": "i010",
-   "cumle": "Tarım üzerine incelemesinde Varro, toprağı işleyen araçları üçe ayıran bir sınıflamayı aktarır: konuşan araçlar köleler, yarım sesli araçlar koşum hayvanları, sessiz araçlar arabalardır.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k7",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Harrison cevirisi: the articulate being the servants, the inarticulate the draught animals, and the mute"
-  },
-  {
-   "iddia_id": "i011",
-   "cumle": "Aynı el kitabı bütün insanların tarımı kölelerle, özgürlerle ya da ikisiyle birlikte yürüttüğünü yazar; emek biçimleri çiftlik sahibinin önünde bir seçenekler listesi gibi durur.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k7",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k7: by means of slaves or freemen or both"
-  },
-  {
-   "iddia_id": "i012",
-   "cumle": "Cato'nun daha eski el kitabından Columella'nın bir kuşak sonraki incelemesine uzanan bu tür, köleli tarımı olağan işletme biçimi olarak varsayar ve kâhyanın köleleri nasıl gözeteceğini ayrıntıyla işler.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k7",
-     "destek": "kismi"
+      "iddia_id": "i006",
+      "cumle": "Savunmanın varlığı başlı başına bir veridir: Politika, köleliğin doğaya aykırı olduğunu söyleyen bir karşı görüşü aktarır ve onu çürütmeye çalışır; kurum, kendi çağında bile kendiliğinden meşru değildi.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Karsi gorusun aktarimi k4 metninde (contrary to nature); mesruiyet cikarimi yazarin yorumudur"
     },
     {
-     "anahtar": "k1",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Cato ve Varro metinleri k7 icinde tam; Columella yalniz adiyla gecer (k7 notlari, k1 kronolojisi), turun genel nitelemesi yazarin ozetidir"
-  },
-  {
-   "iddia_id": "i013",
-   "cumle": "Aristoteles okulundan çıkan Atinalıların Devleti, Solon öncesinde bütün ülkenin az sayıda kişinin elinde olduğunu, kirasını ödeyemeyen yoksulların çocuklarıyla birlikte köleleştirilebildiğini anlatır.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k5",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Kenyon cevirisi 2. bolum: haled into slavery, and their children with them"
-  },
-  {
-   "iddia_id": "i014",
-   "cumle": "Aynı metin bu köylüleri, zenginlerin toprağını belirli bir ürün payı karşılığında işledikleri için hektemoroi adıyla anar; bağımlılık burada mülkiyetten değil, ödenemeyen borçtan doğar.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k5",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Hectemori adlandirmasi k5 metninde; son cumlecik bicimler arasi ayrima iliskin yazar vurgusudur"
-  },
-  {
-   "iddia_id": "i015",
-   "cumle": "Solon'un reformu anlatının ekseninde durur: halkı \"borçlunun bedeni üzerine borç verilmesini yasaklayarak\" kurtardı ve bu düzenleme, yüklerin atılması anlamındaki Seisakhtheia adıyla anıldı.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k5",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "6. bolum: all loans on the security of the debtors person; Seisachtheia"
-  },
-  {
-   "iddia_id": "i016",
-   "cumle": "Arkaik borç köleliği düzeninin ortadan kalktığı yerlerde bile borcunu ödeyemeyenin kendi zorunlu emeğiyle, kimi zaman çocuklarınınkiyle ödemeyi sürdürdüğünü Finley not eder; borç emeği, mal köleliğinden ayrı ama ona komşu bir bağımlılık biçimi olarak varlığını korudu.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k1: compulsory labour, his own and sometimes his childrens"
-  },
-  {
-   "iddia_id": "i017",
-   "cumle": "Moses Finley 1973'te yayımlanan The Ancient Economy'de tartışmanın çerçevesini değiştirdi: kitap, antik Yunan ve Roma ekonomisinin sermaye, emek, yatırım, piyasa ve kredi gibi modern kategorilerle kendiliğinden çözümlenemeyeceği savı üzerine kuruludur.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Yayin yili ve ana sav k1 on metninde: modern categories cannot be automatically employed"
-  },
-  {
-   "iddia_id": "i018",
-   "cumle": "Çözümleme sınıf yerine statü kavramıyla ilerler; efendi ile köle, toprak sahibi ile köylü, kent ile kır aynı statü düzeninin parçalarıdır ve ekonomi bu düzenin içine gömülüdür.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Statü kavraminin merkeziligi k1 tanitiminda (class, order and status); gomuluk ifadesi ozet yorumdur"
-  },
-  {
-   "iddia_id": "i019",
-   "cumle": "Savın dayanaklarından biri antik iktisat yazınının kendi biçimidir: sonraki yüzyılların hane yönetimi geleneğine model olan metin, Ksenophon'un MÖ dördüncü yüzyılın ortasından önce yazdığı Oikonomikos'tur ve bu metin bir iktisat incelemesi değil, mülk sahibi beyefendiye yazılmış bir çiftlik kılavuzudur.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k1: the model for the tradition, written before the middle of the fourth century B.C., a guide for the gentleman landowner"
-  },
-  {
-   "iddia_id": "i020",
-   "cumle": "Finley'ye göre klasik dönem Yunanistan'ı ile İtalya'ya odaklanan bakış, tarihin ilk gerçek köle toplumlarıyla karşı karşıyadır; bu toplumlar, başka bağımlı emek biçimlerine yaslanmayı sürdüren toplumlarla çevrilidir ve tablo düzgün sayısal terimlere çevrilemez.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k1: the first genuine slave societies in history, surrounded by societies with other forms of dependent labour; none translated into neat quantitative terms"
-  },
-  {
-   "iddia_id": "i021",
-   "cumle": "1980'de yayımlanan Ancient Slavery and Modern Ideology aynı savı tarihsel bir karşılaştırmaya oturtur: Finley'ye göre tarihte yalnızca beş gerçek köle toplumu vardır ve bunlardan ikisi, klasik Yunanistan ile Roma İtalyası, antik dünyaya aittir.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k3",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Katalog kaydi yalniz kitabin kimligini ve yilini dogrular; bes kole toplumu savinin metin ici dogrulamasi odunc kisiti nedeniyle yapilamadi. Cografya formulasyonu, dogrulanabilir k1 metnindeki 'classical periods in Greece and Italy' ile hizalandi (hakem duzeltmesi: Atina -> Yunanistan)"
-  },
-  {
-   "iddia_id": "i022",
-   "cumle": "Ölçüt sayım değildir: köle toplumu, mülk sahibi sınıfın artık ürününü esas olarak köle emeğinden çektiği toplumdur ve soru gelirin nereden geldiği sorusudur.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "kismi"
+      "iddia_id": "i007",
+      "cumle": "Ksenophon'un kamu gelirleri üzerine küçük kitabı, kentin gelirini artırma planını Laurion gümüş madenlerine bağlar; yazara göre madenlerde iş, çalıştırılacak elden hep fazladır ve köle sahipleri ellerindeki sayıyı azaltmayı değil artırmayı gözetir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dakyns cevirisi IV. bolum: madenlerde is elden fazladir, sahipler sayiyi artirmayi gozetir"
     },
     {
-     "anahtar": "k3",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Artik urun olcutu Finley kavraminin bilinen formulasyonudur; iki kaynakta da birebir dize dogrulanamadi"
-  },
-  {
-   "iddia_id": "i023",
-   "cumle": "Finley kanıtın sınırını da saklamaz: antik köleliğin kârlılığını hesaplayacak veri elde yoktur ve kölelik en sert yüzünü İspanyol madenleri ile Roma latifundiaları gibi, teknik ilerlemenin de durduğu yerlerde gösterdi.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k1: we lack the data from which to calculate the profitability; Spanish mines and Roman latifundia"
-  },
-  {
-   "iddia_id": "i024",
-   "cumle": "Laurion'a dönüp bakan da yine odur: Ksenophon'un kamu gelirleri kitabının bütün programını Laurion'un tükenmez madenleri üzerine kurduğunu hatırlatır; birincil tanıklıkla kavram burada birbirine bağlanır.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
+      "iddia_id": "i008",
+      "cumle": "Aynı kitap, Nikeratos oğlu Nikias'ın gümüş madenlerinde çalıştırılmak üzere bin köleyi Sosias adlı Trakyalıya kiraladığını, bedelin köle başına günde bir obol olduğunu aktarır; önerinin kendisi de kentin aynı işi kamu köleleriyle yapması, köle kirasını yurttaşlara pay dağıtan bir kamu geliri hâline getirmesidir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6: Nicias, the son of Niceratus; Sosias'a kiralama ve gunde bir obol metinde; kamu kolesi onerisi kitabin ana onerisidir. Metin komutanligi anmadigi icin 'komutan' nitelemesi hakem tarafindan cikarildi"
     },
     {
-     "anahtar": "k6",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k1: built his programme on the inexhaustible mines at Laureion; k6 metnin kendisi"
-  },
-  {
-   "iddia_id": "i025",
-   "cumle": "Michael Rostovtzeff 1926'da yayımlanan The Social and Economic History of the Roman Empire'da şehir ekonomisi üzerinden okudu; ona göre Antoninler'in anayasal monarşisi, imparatorluk genelindeki şehirli orta sınıfa ve kentlerin özyönetimine yaslanıyordu.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k2",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k2 onsozu: rested on the urban middle class throughout the Empire and self-government of the cities"
-  },
-  {
-   "iddia_id": "i026",
-   "cumle": "Iulius'lar ile Claudius'ların siyasetini de aynı çerçeveye yerleştirir: amaç, devleti imparatorluğun bütünündeki kent burjuvazisi üzerine kurmaktı.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k2",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k2: The Julii and Claudii... a state based on the city bourgeoisie of the Empire as a whole"
-  },
-  {
-   "iddia_id": "i027",
-   "cumle": "Kitabın dili bilinçli olarak moderndir: İtalyan burjuvazisi ile İtalyan proletaryası arasındaki ittifaktan, geç Cumhuriyet'e özgü feodal kapitalist düzenin çöküşünden, Helenistik monarşilerde üretimin ve değişimin devletleştirilmesinden söz eder.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k2",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k2: Italian bourgeoisie / proletariate ittifaki, feudal capitalism, nationalization (etatisation)"
-  },
-  {
-   "iddia_id": "i028",
-   "cumle": "Bu okumada kölelik yok sayılmaz; ama düzenin tanımlayıcı özelliği köle emeği değil, ticaretin, kent yaşamının ve mülk sahibi orta sınıfın gelişmişliğidir.",
-   "onem": "merkezi",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k2",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Modernist pozisyonun ozeti; onsoz kent-orta-sinif vurgusunu dogrular, koleligin ikincilligi cikarimdir"
-  },
-  {
-   "iddia_id": "i029",
-   "cumle": "Rostovtzeff'in kavram dağarcığı on dokuzuncu yüzyılın sınıf sözlüğünden geliyordu ve sonraki eleştiri tam bu noktaya yüklendi; Finley'nin kitabı, modern kategorilerin antik ekonomiye kendiliğinden uygulanamayacağı savıyla bu geleneğin karşısına yazılmıştır.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
+      "iddia_id": "i009",
+      "cumle": "Kölelik bu metinde ne savunulur ne sorgulanır; bir yatırım aracı olarak hesaplanır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Metnin tonuna iliskin nitelendirme; hesap dili dogrudan, savunma/sorgulama yoklugu yazarin okumasi"
     },
     {
-     "anahtar": "k2",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "k1 kapak metni modern kategori elestirisini acikca tasir; k2 tarafinda on dokuzuncu yuzyil sozlugu nitelemesi yazarindir"
-  },
-  {
-   "iddia_id": "i030",
-   "cumle": "Tartışma bu yüzden yalnızca köleliğin payı hakkında değildir; antik ekonominin kendine özgü bir nesne mi, yoksa modern ekonominin küçük ölçekli bir öncülü mü olduğu hakkındadır.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "kismi"
+      "iddia_id": "i010",
+      "cumle": "Tarım üzerine incelemesinde Varro, toprağı işleyen araçları üçe ayıran bir sınıflamayı aktarır: konuşan araçlar köleler, yarım sesli araçlar koşum hayvanları, sessiz araçlar arabalardır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Harrison cevirisi: the articulate being the servants, the inarticulate the draught animals, and the mute"
     },
     {
-     "anahtar": "k2",
-     "destek": "baglam"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Tartismanin ust cercevesi; iki kitabin karsitligindan cikarilmis yorum"
-  },
-  {
-   "iddia_id": "i031",
-   "cumle": "Roma dünyası için köle sayıları sayımdan değil modelden gelir: bir hesap, MÖ altmışların ortasından MÖ 30'a kadar İtalya'nın her yıl 100.000 yeni köleye gerek duyduğunu, imparatorluğun bütünü içinse yılda 500.000'i aşkın yeni köle gerektiğini varsayar; aynı kayıt bu rakamların hiçbirinin kanıtlanabilir olmadığını da ekler.",
-   "onem": "merkezi",
-   "tur": "sayi",
-   "kaynaklar": [
-    {
-     "anahtar": "k9",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k9 blok alintisi: 100,000 / 500,000 varsayimlari ve none of these figures is capable of proof"
-  },
-  {
-   "iddia_id": "i032",
-   "cumle": "Walter Scheidel bu modellerin içinden konuşur: 2005 tarihli bir çalışmasında İtalya'nın köle nüfusunu hareketlilik ve doğum üzerinden yeniden kurdu; İtalya'daki kölelerin dörtte üçünün kölelik içinde doğduğu kabul edilirse, dışarıdan getirilenlerin sayısı yüksek tahminlerin epey altında kalır.",
-   "onem": "merkezi",
-   "tur": "sayi",
-   "kaynaklar": [
-    {
-     "anahtar": "k9",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k9: Scheidel, Human Mobility in Roman Italy II (2005); dogumla gelen dortte uc ve dusuk ithalat cikarimi"
-  },
-  {
-   "iddia_id": "i033",
-   "cumle": "MÖ birinci yüzyılın sonunda İtalya nüfusunun yaklaşık yüzde 20 ila 30'unun köle olduğu tahmin edilir; bu, en az bir ila iki milyon insan demektir.",
-   "onem": "merkezi",
-   "tur": "sayi",
-   "kaynaklar": [
-    {
-     "anahtar": "k9",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k9: about 20 percent to 30 percent, at least one to two million people"
-  },
-  {
-   "iddia_id": "i034",
-   "cumle": "Geç imparatorluk için bir hesap, MS 260 ile 425 arasında köle nüfusunu beş milyonun biraz altında, toplam nüfusun yüzde 10 ila 15'i düzeyinde bulur; kölelerin yaklaşık yarısı kırdaydı, öbür yarısı kentlerde ev hizmetinde, ticarethanelerde ve atölyelerde çalışıyordu.",
-   "onem": "destek",
-   "tur": "sayi",
-   "kaynaklar": [
-    {
-     "anahtar": "k9",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k9: 260-425 AD, just under five million, 10-15 percent; kir-kent dagilimi ayni pasajda"
-  },
-  {
-   "iddia_id": "i035",
-   "cumle": "Devletin kendi kayıtları da dolaylı ölçüm verir: azat vergisi MÖ 357'den itibaren kölenin değerinin yüzde 5'i olarak alındı; Augustus'un koyduğu yüzde 2'lik satış vergisinin yılda yaklaşık 5 milyon sesterce getirdiği tahmini, yılda 250 bin dolayında satış anlamına gelir.",
-   "onem": "destek",
-   "tur": "sayi",
-   "kaynaklar": [
-    {
-     "anahtar": "k9",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k9: 357 BC yuzde 5 azat vergisi; Augustus yuzde 2, 5 milyon sesterce, 250,000 satis"
-  },
-  {
-   "iddia_id": "i036",
-   "cumle": "Karşılaştırma için Ptolemaios Mısır'ında köle satış vergisi yüzde 20'ydi.",
-   "onem": "renk",
-   "tur": "sayi",
-   "kaynaklar": [
-    {
-     "anahtar": "k9",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k9: Ptolemaic Egypt 20 percent"
-  },
-  {
-   "iddia_id": "i037",
-   "cumle": "Mülkiyetin dağılımı da eşitsizdi: bir tahmine göre bütün kölelerin yüzde 49'u, imparatorluk nüfusunun yüzde 1,5'inden azını oluşturan seçkinlerin elindeydi.",
-   "onem": "destek",
-   "tur": "sayi",
-   "kaynaklar": [
-    {
-     "anahtar": "k9",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k9: 49 percent of slaves owned by elite of less than 1.5 percent"
-  },
-  {
-   "iddia_id": "i038",
-   "cumle": "Delos pazarından geçen köle ticareti Sicilya'daki büyük tarım işletmelerini, latifundiaları besledi; bu işletmelerde biriken köleler, MÖ 135 ve 104'te patlak veren ve yıllarca süren iki büyük isyanın tabanını oluşturdu.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k9",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k9: Delos ticareti, Sicilya latifundialari, 135 ve 104 BC isyanlari"
-  },
-  {
-   "iddia_id": "i039",
-   "cumle": "Roma'nın MÖ altıncı yüzyıldan üçüncü yüzyıla uzanan süreçte adım adım bir köle toplumuna dönüştüğü değerlendirmesi de aynı kayıtta durur; bu oranların nasıl okunacağı, haritasının yöntem uyarılarına bağlıdır.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k9",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k9: from the sixth through the third centuries BC Rome gradually became a slave society"
-  },
-  {
-   "iddia_id": "i040",
-   "cumle": "Yunanlar Sparta helotlarından köle diye söz eder; ama Finley bu grubun Atina'nın mal kölelerinden kolayca ayırt edildiğini yazar: helotlar bireylerin mülkü değildi, alınıp satılmazdı ve devlet dışında kimse onları azat edemezdi.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k1: not property of individual Spartans, not bought or sold, freed only by the state"
-  },
-  {
-   "iddia_id": "i041",
-   "cumle": "Lakonia ile Messenia'da Spartalıların topraklarını işleyen bu kesim, sayıca efendilerinden çok daha kalabalıktı.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k1: far more numerous than the Spartans whose estates they worked in Laconia and Messenia"
-  },
-  {
-   "iddia_id": "i042",
-   "cumle": "Ayrım antik metinlerin kendi dilinde de görünür: Politika, helotlar ile Teselya penestlerini, başkalarının çalıştırdığı kölelerin yanında ayrıca adlandırılan bağımlı gruplar olarak anar.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k4: the Helots, the Penestise, or the slaves which others employ"
-  },
-  {
-   "iddia_id": "i043",
-   "cumle": "Borç köleliği yelpazenin üçüncü rengidir: Solon'un kaldırdığı kurum mal köleliği değil, borçlunun bedeni üzerine kurulan bağımlılıktı ve reform mal köleliğine dokunmadı.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k5",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Yasagin kendisi k5te dogrudan; reformun mal koleligine dokunmadigi metinden cikarimdir"
-  },
-  {
-   "iddia_id": "i044",
-   "cumle": "Bu üç biçim aynı başlık altında toplandığında oranlar da anlamını değiştirir; köle toplumu tartışması bu yüzden bir tanım tartışmasıyla iç içe yürür ve hangi biçimin sayıldığı söylenmeden verilen her pay eksik kalır.",
-   "onem": "merkezi",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "kismi"
+      "iddia_id": "i011",
+      "cumle": "Aynı el kitabı bütün insanların tarımı kölelerle, özgürlerle ya da ikisiyle birlikte yürüttüğünü yazar; emek biçimleri çiftlik sahibinin önünde bir seçenekler listesi gibi durur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k7: by means of slaves or freemen or both"
     },
     {
-     "anahtar": "k5",
-     "destek": "baglam"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Bicim ayrimi pozisyonunun ozeti; helot/mal kolesi ayrimi (k1) ve borc koleligi (k5) uzerine kurulmus yorum"
-  },
-  {
-   "iddia_id": "i045",
-   "cumle": "Her antik toplumu köleci sayan genelleme, kavramı öneren metnin kendisiyle çelişir; Finley'nin nitelemesi klasik çekirdek içindir ve o çekirdeğin çevresi başka bağımlılık biçimleriyle işler.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k1: surrounded by (or embedded in) societies that continued to rely on other forms of dependent labour"
-  },
-  {
-   "iddia_id": "i046",
-   "cumle": "Köleliği önemsiz sayan indirgeme ise birincil tanıklıkla çelişir; madenler, çiftlik el kitapları ve felsefenin savunma gereksinimi, kurumun klasik kentin gündelik dokusunda durduğunu gösterir.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k6",
-     "destek": "kismi"
+      "iddia_id": "i012",
+      "cumle": "Cato'nun daha eski el kitabından Columella'nın bir kuşak sonraki incelemesine uzanan bu tür, köleli tarımı olağan işletme biçimi olarak varsayar ve kâhyanın köleleri nasıl gözeteceğini ayrıntıyla işler.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cato ve Varro metinleri k7 icinde tam; Columella yalniz adiyla gecer (k7 notlari, k1 kronolojisi), turun genel nitelemesi yazarin ozetidir"
     },
     {
-     "anahtar": "k7",
-     "destek": "kismi"
+      "iddia_id": "i013",
+      "cumle": "Aristoteles okulundan çıkan Atinalıların Devleti, Solon öncesinde bütün ülkenin az sayıda kişinin elinde olduğunu, kirasını ödeyemeyen yoksulların çocuklarıyla birlikte köleleştirilebildiğini anlatır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kenyon cevirisi 2. bolum: haled into slavery, and their children with them"
     },
     {
-     "anahtar": "k4",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Uc tanikligin birlikte okunmasi; karsi-karikatur cikarimi yazarindir"
-  },
-  {
-   "iddia_id": "i047",
-   "cumle": "İki uyarı birlikte okunduğunda tartışma bir seçim sorusuna daralmaz; klasik çekirdekte köle emeğinin ağırlığı ile o ağırlığın ölçülemezliği aynı anda doğru olabilir ve konumların çoğu bugün bu ikisinin arasında bir yerde durur.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "kismi"
+      "iddia_id": "i014",
+      "cumle": "Aynı metin bu köylüleri, zenginlerin toprağını belirli bir ürün payı karşılığında işledikleri için hektemoroi adıyla anar; bağımlılık burada mülkiyetten değil, ödenemeyen borçtan doğar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hectemori adlandirmasi k5 metninde; son cumlecik bicimler arasi ayrima iliskin yazar vurgusudur"
     },
     {
-     "anahtar": "k9",
-     "destek": "baglam"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Sentez cumlesi; agirlik (k1) ve olculemezlik (k9 cekinceleri) ayri ayri dogrulanir, birlestirme yazarindir"
-  },
-  {
-   "iddia_id": "i048",
-   "cumle": "Oran sorusu modele bağlı kalır: hiçbir antik sayım köle payını vermez ve aralıkların genişliği hangi varsayımın seçildiğine göre değişir.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k9",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "k9: incomplete data requiring extrapolation and conjecture; estimates therefore vary"
-  },
-  {
-   "iddia_id": "i049",
-   "cumle": "Tanım sorusu çözülmüş değildir: mal kölesi, helot ve borç bağımlısı ayrı hukuki biçimlerdir ve üçünü aynı sütuna yazan her hesap, ölçtüğü şeyi baştan bulanıklaştırır.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "kismi"
+      "iddia_id": "i015",
+      "cumle": "Solon'un reformu anlatının ekseninde durur: halkı \"borçlunun bedeni üzerine borç verilmesini yasaklayarak\" kurtardı ve bu düzenleme, yüklerin atılması anlamındaki Seisakhtheia adıyla anıldı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "6. bolum: all loans on the security of the debtors person; Seisachtheia"
     },
     {
-     "anahtar": "k5",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Uc bicimin hukuki ayriligi kaynaklarda; olcum sonucu bulaniklastirdigi savi yazarin cikarimidir"
-  },
-  {
-   "iddia_id": "i050",
-   "cumle": "Kapsam sorusu ise kavramın kendisini sınar: köle toplumu nitelemesi klasik Yunanistan ile Roma İtalyası üzerinde tartışılırken, antik dünyanın geri kalanının hangi emek düzenleriyle işlediği sorusu, tartışmanın en az işlenmiş kenarı olarak açık durur.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "kismi"
+      "iddia_id": "i016",
+      "cumle": "Arkaik borç köleliği düzeninin ortadan kalktığı yerlerde bile borcunu ödeyemeyenin kendi zorunlu emeğiyle, kimi zaman çocuklarınınkiyle ödemeyi sürdürdüğünü Finley not eder; borç emeği, mal köleliğinden ayrı ama ona komşu bir bağımlılık biçimi olarak varlığını korudu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: compulsory labour, his own and sometimes his childrens"
     },
     {
-     "anahtar": "k3",
-     "destek": "baglam"
+      "iddia_id": "i017",
+      "cumle": "Moses Finley 1973'te yayımlanan The Ancient Economy'de tartışmanın çerçevesini değiştirdi: kitap, antik Yunan ve Roma ekonomisinin sermaye, emek, yatırım, piyasa ve kredi gibi modern kategorilerle kendiliğinden çözümlenemeyeceği savı üzerine kuruludur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yayin yili ve ana sav k1 on metninde: modern categories cannot be automatically employed"
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Çözümleme sınıf yerine statü kavramıyla ilerler; efendi ile köle, toprak sahibi ile köylü, kent ile kır aynı statü düzeninin parçalarıdır ve ekonomi bu düzenin içine gömülüdür.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Statü kavraminin merkeziligi k1 tanitiminda (class, order and status); gomuluk ifadesi ozet yorumdur"
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Savın dayanaklarından biri antik iktisat yazınının kendi biçimidir: sonraki yüzyılların hane yönetimi geleneğine model olan metin, Ksenophon'un MÖ dördüncü yüzyılın ortasından önce yazdığı Oikonomikos'tur ve bu metin bir iktisat incelemesi değil, mülk sahibi beyefendiye yazılmış bir çiftlik kılavuzudur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: the model for the tradition, written before the middle of the fourth century B.C., a guide for the gentleman landowner"
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Finley'ye göre klasik dönem Yunanistan'ı ile İtalya'ya odaklanan bakış, tarihin ilk gerçek köle toplumlarıyla karşı karşıyadır; bu toplumlar, başka bağımlı emek biçimlerine yaslanmayı sürdüren toplumlarla çevrilidir ve tablo düzgün sayısal terimlere çevrilemez.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: the first genuine slave societies in history, surrounded by societies with other forms of dependent labour; none translated into neat quantitative terms"
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "1980'de yayımlanan Ancient Slavery and Modern Ideology aynı savı tarihsel bir karşılaştırmaya oturtur: Finley'ye göre tarihte yalnızca beş gerçek köle toplumu vardır ve bunlardan ikisi, klasik Yunanistan ile Roma İtalyası, antik dünyaya aittir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog kaydi yalniz kitabin kimligini ve yilini dogrular; bes kole toplumu savinin metin ici dogrulamasi odunc kisiti nedeniyle yapilamadi. Cografya formulasyonu, dogrulanabilir k1 metnindeki 'classical periods in Greece and Italy' ile hizalandi (hakem duzeltmesi: Atina -> Yunanistan)"
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Ölçüt sayım değildir: köle toplumu, mülk sahibi sınıfın artık ürününü esas olarak köle emeğinden çektiği toplumdur ve soru gelirin nereden geldiği sorusudur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Artik urun olcutu Finley kavraminin bilinen formulasyonudur; iki kaynakta da birebir dize dogrulanamadi"
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Finley kanıtın sınırını da saklamaz: antik köleliğin kârlılığını hesaplayacak veri elde yoktur ve kölelik en sert yüzünü İspanyol madenleri ile Roma latifundiaları gibi, teknik ilerlemenin de durduğu yerlerde gösterdi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: we lack the data from which to calculate the profitability; Spanish mines and Roman latifundia"
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Laurion'a dönüp bakan da yine odur: Ksenophon'un kamu gelirleri kitabının bütün programını Laurion'un tükenmez madenleri üzerine kurduğunu hatırlatır; birincil tanıklıkla kavram burada birbirine bağlanır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: built his programme on the inexhaustible mines at Laureion; k6 metnin kendisi"
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Michael Rostovtzeff 1926'da yayımlanan The Social and Economic History of the Roman Empire'da şehir ekonomisi üzerinden okudu; ona göre Antoninler'in anayasal monarşisi, imparatorluk genelindeki şehirli orta sınıfa ve kentlerin özyönetimine yaslanıyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2 onsozu: rested on the urban middle class throughout the Empire and self-government of the cities"
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Iulius'lar ile Claudius'ların siyasetini de aynı çerçeveye yerleştirir: amaç, devleti imparatorluğun bütünündeki kent burjuvazisi üzerine kurmaktı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2: The Julii and Claudii... a state based on the city bourgeoisie of the Empire as a whole"
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Kitabın dili bilinçli olarak moderndir: İtalyan burjuvazisi ile İtalyan proletaryası arasındaki ittifaktan, geç Cumhuriyet'e özgü feodal kapitalist düzenin çöküşünden, Helenistik monarşilerde üretimin ve değişimin devletleştirilmesinden söz eder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2: Italian bourgeoisie / proletariate ittifaki, feudal capitalism, nationalization (etatisation)"
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Bu okumada kölelik yok sayılmaz; ama düzenin tanımlayıcı özelliği köle emeği değil, ticaretin, kent yaşamının ve mülk sahibi orta sınıfın gelişmişliğidir.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Modernist pozisyonun ozeti; onsoz kent-orta-sinif vurgusunu dogrular, koleligin ikincilligi cikarimdir"
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Rostovtzeff'in kavram dağarcığı on dokuzuncu yüzyılın sınıf sözlüğünden geliyordu ve sonraki eleştiri tam bu noktaya yüklendi; Finley'nin kitabı, modern kategorilerin antik ekonomiye kendiliğinden uygulanamayacağı savıyla bu geleneğin karşısına yazılmıştır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 kapak metni modern kategori elestirisini acikca tasir; k2 tarafinda on dokuzuncu yuzyil sozlugu nitelemesi yazarindir"
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Tartışma bu yüzden yalnızca köleliğin payı hakkında değildir; antik ekonominin kendine özgü bir nesne mi, yoksa modern ekonominin küçük ölçekli bir öncülü mü olduğu hakkındadır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tartismanin ust cercevesi; iki kitabin karsitligindan cikarilmis yorum"
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Roma dünyası için köle sayıları sayımdan değil modelden gelir: bir hesap, MÖ altmışların ortasından MÖ 30'a kadar İtalya'nın her yıl 100.000 yeni köleye gerek duyduğunu, imparatorluğun bütünü içinse yılda 500.000'i aşkın yeni köle gerektiğini varsayar; aynı kayıt bu rakamların hiçbirinin kanıtlanabilir olmadığını da ekler.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k9 blok alintisi: 100,000 / 500,000 varsayimlari ve none of these figures is capable of proof"
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Walter Scheidel bu modellerin içinden konuşur: 2005 tarihli bir çalışmasında İtalya'nın köle nüfusunu hareketlilik ve doğum üzerinden yeniden kurdu; İtalya'daki kölelerin dörtte üçünün kölelik içinde doğduğu kabul edilirse, dışarıdan getirilenlerin sayısı yüksek tahminlerin epey altında kalır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k9: Scheidel, Human Mobility in Roman Italy II (2005); dogumla gelen dortte uc ve dusuk ithalat cikarimi"
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "MÖ birinci yüzyılın sonunda İtalya nüfusunun yaklaşık yüzde 20 ila 30'unun köle olduğu tahmin edilir; bu, en az bir ila iki milyon insan demektir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k9: about 20 percent to 30 percent, at least one to two million people"
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Geç imparatorluk için bir hesap, MS 260 ile 425 arasında köle nüfusunu beş milyonun biraz altında, toplam nüfusun yüzde 10 ila 15'i düzeyinde bulur; kölelerin yaklaşık yarısı kırdaydı, öbür yarısı kentlerde ev hizmetinde, ticarethanelerde ve atölyelerde çalışıyordu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k9: 260-425 AD, just under five million, 10-15 percent; kir-kent dagilimi ayni pasajda"
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Devletin kendi kayıtları da dolaylı ölçüm verir: azat vergisi MÖ 357'den itibaren kölenin değerinin yüzde 5'i olarak alındı; Augustus'un koyduğu yüzde 2'lik satış vergisinin yılda yaklaşık 5 milyon sesterce getirdiği tahmini, yılda 250 bin dolayında satış anlamına gelir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k9: 357 BC yuzde 5 azat vergisi; Augustus yuzde 2, 5 milyon sesterce, 250,000 satis"
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Karşılaştırma için Ptolemaios Mısır'ında köle satış vergisi yüzde 20'ydi.",
+      "onem": "renk",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k9: Ptolemaic Egypt 20 percent"
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Mülkiyetin dağılımı da eşitsizdi: bir tahmine göre bütün kölelerin yüzde 49'u, imparatorluk nüfusunun yüzde 1,5'inden azını oluşturan seçkinlerin elindeydi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k9: 49 percent of slaves owned by elite of less than 1.5 percent"
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Delos pazarından geçen köle ticareti Sicilya'daki büyük tarım işletmelerini, latifundiaları besledi; bu işletmelerde biriken köleler, MÖ 135 ve 104'te patlak veren ve yıllarca süren iki büyük isyanın tabanını oluşturdu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k9: Delos ticareti, Sicilya latifundialari, 135 ve 104 BC isyanlari"
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Roma'nın MÖ altıncı yüzyıldan üçüncü yüzyıla uzanan süreçte adım adım bir köle toplumuna dönüştüğü değerlendirmesi de aynı kayıtta durur; bu oranların nasıl okunacağı, haritasının yöntem uyarılarına bağlıdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k9: from the sixth through the third centuries BC Rome gradually became a slave society"
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Yunanlar Sparta helotlarından köle diye söz eder; ama Finley bu grubun Atina'nın mal kölelerinden kolayca ayırt edildiğini yazar: helotlar bireylerin mülkü değildi, alınıp satılmazdı ve devlet dışında kimse onları azat edemezdi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: not property of individual Spartans, not bought or sold, freed only by the state"
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Lakonia ile Messenia'da Spartalıların topraklarını işleyen bu kesim, sayıca efendilerinden çok daha kalabalıktı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: far more numerous than the Spartans whose estates they worked in Laconia and Messenia"
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Ayrım antik metinlerin kendi dilinde de görünür: Politika, helotlar ile Teselya penestlerini, başkalarının çalıştırdığı kölelerin yanında ayrıca adlandırılan bağımlı gruplar olarak anar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k4: the Helots, the Penestise, or the slaves which others employ"
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Borç köleliği yelpazenin üçüncü rengidir: Solon'un kaldırdığı kurum mal köleliği değil, borçlunun bedeni üzerine kurulan bağımlılıktı ve reform mal köleliğine dokunmadı.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yasagin kendisi k5te dogrudan; reformun mal koleligine dokunmadigi metinden cikarimdir"
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Bu üç biçim aynı başlık altında toplandığında oranlar da anlamını değiştirir; köle toplumu tartışması bu yüzden bir tanım tartışmasıyla iç içe yürür ve hangi biçimin sayıldığı söylenmeden verilen her pay eksik kalır.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Bicim ayrimi pozisyonunun ozeti; helot/mal kolesi ayrimi (k1) ve borc koleligi (k5) uzerine kurulmus yorum"
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Her antik toplumu köleci sayan genelleme, kavramı öneren metnin kendisiyle çelişir; Finley'nin nitelemesi klasik çekirdek içindir ve o çekirdeğin çevresi başka bağımlılık biçimleriyle işler.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: surrounded by (or embedded in) societies that continued to rely on other forms of dependent labour"
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Köleliği önemsiz sayan indirgeme ise birincil tanıklıkla çelişir; madenler, çiftlik el kitapları ve felsefenin savunma gereksinimi, kurumun klasik kentin gündelik dokusunda durduğunu gösterir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Uc tanikligin birlikte okunmasi; karsi-karikatur cikarimi yazarindir"
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "İki uyarı birlikte okunduğunda tartışma bir seçim sorusuna daralmaz; klasik çekirdekte köle emeğinin ağırlığı ile o ağırlığın ölçülemezliği aynı anda doğru olabilir ve konumların çoğu bugün bu ikisinin arasında bir yerde durur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k9",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Sentez cumlesi; agirlik (k1) ve olculemezlik (k9 cekinceleri) ayri ayri dogrulanir, birlestirme yazarindir"
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "Oran sorusu modele bağlı kalır: hiçbir antik sayım köle payını vermez ve aralıkların genişliği hangi varsayımın seçildiğine göre değişir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k9: incomplete data requiring extrapolation and conjecture; estimates therefore vary"
+    },
+    {
+      "iddia_id": "i049",
+      "cumle": "Tanım sorusu çözülmüş değildir: mal kölesi, helot ve borç bağımlısı ayrı hukuki biçimlerdir ve üçünü aynı sütuna yazan her hesap, ölçtüğü şeyi baştan bulanıklaştırır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Uc bicimin hukuki ayriligi kaynaklarda; olcum sonucu bulaniklastirdigi savi yazarin cikarimidir"
+    },
+    {
+      "iddia_id": "i050",
+      "cumle": "Kapsam sorusu ise kavramın kendisini sınar: köle toplumu nitelemesi klasik Yunanistan ile Roma İtalyası üzerinde tartışılırken, antik dünyanın geri kalanının hangi emek düzenleriyle işlediği sorusu, tartışmanın en az işlenmiş kenarı olarak açık durur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kavramin kapsam siniri k1/k3 savinin kendisinde; ihmal edilmis kenar nitelemesi yazarindir"
     }
-   ],
-   "guven": "orta",
-   "inceleme": "Kavramin kapsam siniri k1/k3 savinin kendisinde; ihmal edilmis kenar nitelemesi yazarindir"
-  }
- ],
- "sayaclar": {
-  "dogrudan": 35,
-  "kismi": 14,
-  "desteksiz": 0,
-  "olculemez": 1
- }
+  ],
+  "sayaclar": {
+    "dogrudan": 35,
+    "kismi": 14,
+    "desteksiz": 0,
+    "olculemez": 1
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "2 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

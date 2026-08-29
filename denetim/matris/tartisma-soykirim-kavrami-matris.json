@@ -1,673 +1,679 @@
 {
- "id": "tartisma-soykirim-kavrami",
- "govde_hash": "122d67d2bf29",
- "commit": "33a9638",
- "zaman": "2026-08-29",
- "hakem": "kor-hakem-2026-08-29",
- "iddialar": [
-  {
-   "iddia_id": "i001",
-   "cumle": "1948 tarihli Soykırım Sözleşmesi'nin tanımı dört grup türü ve özel bir kast şartıyla sınırlıdır; akademik yazın ise aynı başlık altında birbirinden farklı onlarca tanım listeler ve uluslararası hukuki tanımın hem bu tanımlardan hem de kamuoyunun sözcükten anladığından daha dar olduğunu saptar.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
+  "id": "tartisma-soykirim-kavrami",
+  "govde_hash": "122d67d2bf29",
+  "commit": "9181554",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
     {
-     "anahtar": "k1",
-     "destek": "dogrudan"
+      "iddia_id": "i001",
+      "cumle": "1948 tarihli Soykırım Sözleşmesi'nin tanımı dört grup türü ve özel bir kast şartıyla sınırlıdır; akademik yazın ise aynı başlık altında birbirinden farklı onlarca tanım listeler ve uluslararası hukuki tanımın hem bu tanımlardan hem de kamuoyunun sözcükten anladığından daha dar olduğunu saptar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dort grup ve kast siniri II. maddede; hukuki tanimin sosyolojik tanimlardan ve kamu algisindan dar oldugu k4 girisinde"
     },
     {
-     "anahtar": "k4",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Dort grup ve kast siniri II. maddede; hukuki tanimin sosyolojik tanimlardan ve kamu algisindan dar oldugu k4 girisinde"
-  },
-  {
-   "iddia_id": "i002",
-   "cumle": "Bir olayın bu adı taşıyıp taşımayacağı hangi tanımın seçildiğine bağlıdır; mahkemeler dar tanımla yargılarken geniş kavram kamusal tartışmada iş görür ve iki kullanım arasındaki mesafe her somut olayda yeniden açılır.",
-   "onem": "merkezi",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Mahkemelerin 1948 tanimiyla yargiladigi ve tanimin kamu algisindan dar oldugu k4te; mesafenin her olayda acilmasi yazarin cercevesi"
-  },
-  {
-   "iddia_id": "i003",
-   "cumle": "Polonyalı-Yahudi hukukçu Raphael Lemkin sözcüğü, işgal altındaki Avrupa'daki Alman yönetimini incelediği Axis Rule in Occupied Europe adlı kitabında kullanıma soktu; kitap 1944 sonunda yayımlandı.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k3",
-     "destek": "dogrudan"
+      "iddia_id": "i002",
+      "cumle": "Bir olayın bu adı taşıyıp taşımayacağı hangi tanımın seçildiğine bağlıdır; mahkemeler dar tanımla yargılarken geniş kavram kamusal tartışmada iş görür ve iki kullanım arasındaki mesafe her somut olayda yeniden açılır.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Mahkemelerin 1948 tanimiyla yargiladigi ve tanimin kamu algisindan dar oldugu k4te; mesafenin her olayda acilmasi yazarin cercevesi"
     },
     {
-     "anahtar": "k2",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "k3: terim ilk kez Lemkinin 1944 sonunda yayimlanan kitabinda; k2 yalniz katalog kaydi"
-  },
-  {
-   "iddia_id": "i004",
-   "cumle": "Lemkin sözcüğü eski Yunanca genos (soy, kabile) ile Latince caedo (öldürmek) köklerinden kurdu ve kitaptaki tanım cümlesi yeni kavramların yeni terimler gerektirdiği saptamasıyla açılıyordu: \"By 'genocide' we mean the destruction of a nation or of an ethnic group\".",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "genos+caedo bilesimi ve Lemkin alintisi k4 tablosunda aynen"
-  },
-  {
-   "iddia_id": "i005",
-   "cumle": "Sözcük mahkeme diline erken girdi ama suç statüsü gecikti: Nürnberg'deki Uluslararası Askeri Mahkeme'nin başsavcıları terimi Nazi yöneticilerine yönelik iddianamede kullandı, buna karşılık soykırım 1948'e kadar uluslararası bir suç olarak tanınmadı.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k7",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Nurnberg iddianamesinde kullanim ve 1948e kadar suc sayilmama k7 Key Facts bolumunde"
-  },
-  {
-   "iddia_id": "i006",
-   "cumle": "Lemkin'in kavrayışı, sonradan hukuk metnine girecek tanımdan genişti; bir ulusun ya da etnik grubun yok edilmesini eski bir pratiğin modern gelişimi olarak adlandırıyordu ve yüzyılın başındaki yok etme girişimlerini tarif etmeyi amaçlıyordu.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
+      "iddia_id": "i003",
+      "cumle": "Polonyalı-Yahudi hukukçu Raphael Lemkin sözcüğü, işgal altındaki Avrupa'daki Alman yönetimini incelediği Axis Rule in Occupied Europe adlı kitabında kullanıma soktu; kitap 1944 sonunda yayımlandı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: terim ilk kez Lemkinin 1944 sonunda yayimlanan kitabinda; k2 yalniz katalog kaydi"
     },
     {
-     "anahtar": "k7",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Eski pratigin modern gelisimi ifadesi Lemkin alintisinda (k4); yuzyil basi yok etme girisimleri k7de; genislik karsilastirmasi bu ikisinden cikan ozet"
-  },
-  {
-   "iddia_id": "i007",
-   "cumle": "Birleşmiş Milletler Genel Kurulu, Soykırım Suçunun Önlenmesi ve Cezalandırılması Sözleşmesi'ni 9 Aralık 1948'de kabul etti; sözleşme gerekli onayların toplanmasıyla 12 Ocak 1951'de yürürlüğe girdi.",
-   "onem": "merkezi",
-   "tur": "tarih",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
+      "iddia_id": "i004",
+      "cumle": "Lemkin sözcüğü eski Yunanca genos (soy, kabile) ile Latince caedo (öldürmek) köklerinden kurdu ve kitaptaki tanım cümlesi yeni kavramların yeni terimler gerektirdiği saptamasıyla açılıyordu: \"By 'genocide' we mean the destruction of a nation or of an ethnic group\".",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "genos+caedo bilesimi ve Lemkin alintisi k4 tablosunda aynen"
     },
     {
-     "anahtar": "k3",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "9 Aralik 1948 k1 basliginda; 12 Ocak 1951 yururluk k3te"
-  },
-  {
-   "iddia_id": "i008",
-   "cumle": "madde, soykırımı ulusal, etnik, ırksal ya da dinsel bir grubu, grup olarak, kısmen ya da bütünüyle yok etme kastıyla işlenen fiiller biçiminde tanımlar ve fiilleri sayar: grup üyelerini öldürmek, ağır bedensel ya da zihinsel zarar vermek, grubu fiziksel yıkıma götürecek yaşam koşullarına bilerek tabi tutmak, doğumları önlemeye dönük tedbirler dayatmak, grubun çocuklarını zorla başka bir gruba nakletmek.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "II. madde metni birebir; bes fiil listesi aynen"
-  },
-  {
-   "iddia_id": "i009",
-   "cumle": "Sözleşme suçu barış zamanında da savaş zamanında da tanır.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "I. maddedeki baris/savas ifadesi"
-  },
-  {
-   "iddia_id": "i010",
-   "cumle": "Sekretarya uzmanlarının hazırladığı taslak soykırımı fiziksel, biyolojik ve kültürel olmak üzere üç kategoriye ayırıyordu; Altıncı Komite kültürel soykırımı sözleşmenin kapsamı dışına çıkarmayı oyladı ve bu daraltmanın istisnası olarak yalnızca çocukların zorla nakli cezalandırılabilir fiiller arasında kaldı.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k3",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Uc kategori, Altinci Komite oylamasi ve cocuk nakli istisnasi k3te aynen"
-  },
-  {
-   "iddia_id": "i011",
-   "cumle": "Grubu yerinden etmeye zorlamayı — sonradan etnik temizlik diye anılacak pratiği — fiil listesine ekleme önerisi de büyük farkla reddedildi; mahkemeler sonraki on yıllarda bu müzakere kayıtlarına dayanarak etnik temizliği tanımın dışında tuttu.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k3",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Altinci fiil onerisinin buyuk farkla reddi ve ictihadin etnik temizligi dislamasi k3te"
-  },
-  {
-   "iddia_id": "i012",
-   "cumle": "Amerika Birleşik Devletleri temsilcisi Ernest Gross, Kasım 1948'deki konuşmasında sözleşmenin kapsamının siyasi grupları koruyacak biçimde genişletilmesini umduğunu söylemişti; sonuç metni bu grupları içermedi.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k3",
-     "destek": "dogrudan"
+      "iddia_id": "i005",
+      "cumle": "Sözcük mahkeme diline erken girdi ama suç statüsü gecikti: Nürnberg'deki Uluslararası Askeri Mahkeme'nin başsavcıları terimi Nazi yöneticilerine yönelik iddianamede kullandı, buna karşılık soykırım 1948'e kadar uluslararası bir suç olarak tanınmadı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Nurnberg iddianamesinde kullanim ve 1948e kadar suc sayilmama k7 Key Facts bolumunde"
     },
     {
-     "anahtar": "k1",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Gross konusmasi (3 Kasim 1948) k3te; k1 icin dayanak sonuc metninde siyasi grubun yoklugu"
-  },
-  {
-   "iddia_id": "i013",
-   "cumle": "Sonraki yazında bu eksik çoğu kez Sovyetler Birliği'nin itirazına bağlanır ve Stalin'in ülkesindeki siyasal kıyımların uluslararası incelemeye açılmasından çekindiği yazılır; ne var ki aynı yazını tarayan kayıt, bu anlatının kanıtla desteklenmediğini, Sovyet tutumunun birçok farklı ülkece paylaşıldığını ve Lemkin'in özgün kavrayışıyla da uyumlu olduğunu aktarır.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "SSCB anlatisi, kanit destegi sorunu, tutumun paylasilmisligi ve Lemkin uyumu k4te aynen bu sirayla"
-  },
-  {
-   "iddia_id": "i014",
-   "cumle": "Müzakere tarihi böylece tartışmanın kendisine dahil olmuştur: tanımın neden dar olduğu sorusu da tanım kadar çekişmelidir.",
-   "onem": "renk",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "baglam"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Baglanti cumlesi; olculemez"
-  },
-  {
-   "iddia_id": "i015",
-   "cumle": "Dar tanımın gücü her şeyden önce fiilî yerleşikliğidir: uluslararası hukuk organlarının hemen hemen tümü soykırım suçunu 1948 Sözleşmesi'nin tanımına göre yargılar.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "almost all international bodies of law cumlesi"
-  },
-  {
-   "iddia_id": "i016",
-   "cumle": "Tanım maddesi, Yugoslavya ve Ruanda için kurulan özel mahkemelerin statülerine de Uluslararası Ceza Mahkemesi'nin Roma Statüsü'ne de değiştirilmeden aktarıldı.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k3",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "reproduced without change... statutes of the ad hoc tribunals... Rome Statute"
-  },
-  {
-   "iddia_id": "i017",
-   "cumle": "Sözleşmenin tanıtım notunu yazan hukukçu William Schabas'a göre tanımı değiştirme çağrılarının reddedilegelmesi bir tutuculuk işareti değildir; dar tanımın bıraktığı boşlukları, 1990'larda kapsamı belirgin biçimde genişleyen insanlığa karşı suçlar kategorisi az çok tatmin edici biçimde doldurmuştur.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k3",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Schabasin kendi metni: tutuculuk degil, bosluklari insanliga karsi suclar az cok doldurdu"
-  },
-  {
-   "iddia_id": "i018",
-   "cumle": "Bu iş bölümünde soykırım \"suçların suçu\" konumunu korur: dar tanım, terimin ağırlığını taşıyan ayrıksı bir suç bırakır, geri kalan kitlesel şiddeti başka hukuki başlıklar karşılar.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k3",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "crime of crimes nitelemesi ve ozel yer k3te"
-  },
-  {
-   "iddia_id": "i019",
-   "cumle": "Aynı doğrultuda Birleşik Devletler Holokost Anma Müzesi'nin ansiklopedisi, hukuki tanımıyla soykırımın — grubu yok etme kastının ispat şartı yüzünden — insanlığa karşı suçlara ve savaş suçlarına kıyasla nadiren işlendiğini not eder.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k7",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "rarely committed compared to other serious crimes cumlesi"
-  },
-  {
-   "iddia_id": "i020",
-   "cumle": "Kitlesel öldürmenin varlığı yetmez; failin grubu, grup olarak, kısmen ya da bütünüyle yok etme özel kastı — hukuk dilindeki adıyla dolus specialis — aranır ve Uluslararası Adalet Divanı bu özel kastı suçu tanımlayan öğe olarak niteler.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k5",
-     "destek": "dogrudan"
+      "iddia_id": "i006",
+      "cumle": "Lemkin'in kavrayışı, sonradan hukuk metnine girecek tanımdan genişti; bir ulusun ya da etnik grubun yok edilmesini eski bir pratiğin modern gelişimi olarak adlandırıyordu ve yüzyılın başındaki yok etme girişimlerini tarif etmeyi amaçlıyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Eski pratigin modern gelisimi ifadesi Lemkin alintisinda (k4); yuzyil basi yok etme girisimleri k7de; genislik karsilastirmasi bu ikisinden cikan ozet"
     },
     {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "specific intent that defines the crime k5te; kast ifadesi k1de. dolus specialis Latince adi standart terim, iki kaynakta da gecmiyor"
-  },
-  {
-   "iddia_id": "i021",
-   "cumle": "Dar tanımın savunusu tam bu noktada kesinlik savunusudur: ölçüt ne kadar sıkıysa, suçlamanın ispatı ve çürütülmesi o kadar denetlenebilirdir.",
-   "onem": "renk",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k5",
-     "destek": "baglam"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Yorum cumlesi; olculemez"
-  },
-  {
-   "iddia_id": "i022",
-   "cumle": "Soykırım araştırmalarının kurucu kuşağından Leo Kuper, 1981'de yayımlanan Genocide: Its Political Use in the Twentieth Century kitabında sözleşme tanımını izlemeyi seçer; uluslararası kabul görmüş bir tanım ve harekete zemin olabilecek bir sözleşme varken yeni tanımlar türetmeyi yararlı görmez.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
+      "iddia_id": "i007",
+      "cumle": "Birleşmiş Milletler Genel Kurulu, Soykırım Suçunun Önlenmesi ve Cezalandırılması Sözleşmesi'ni 9 Aralık 1948'de kabul etti; sözleşme gerekli onayların toplanmasıyla 12 Ocak 1951'de yürürlüğe girdi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "9 Aralik 1948 k1 basliginda; 12 Ocak 1951 yururluk k3te"
     },
     {
-     "anahtar": "k8",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Kuperin kendi cumleleri k4 tablosunda; k8 yalniz katalog kaydi (1982 baskisi)"
-  },
-  {
-   "iddia_id": "i023",
-   "cumle": "Kuper'e göre çağdaş dünyada siyasi farklılıklar, katliamın ve topluca yok etmenin zemini olarak en az ırksal, ulusal, etnik ya da dinsel farklılıklar kadar önemlidir; üstelik korunan gruplara yönelik soykırımlar da genellikle siyasal çatışmanın sonucudur ya da onunla iç içedir.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "political differences are at the very least as significant... ve generally a consequence of... political conflict"
-  },
-  {
-   "iddia_id": "i024",
-   "cumle": "Bu yüzden çözümlemesinde, tanımın dışında kalmasına karşın siyasi gruplara yönelik yok etme eylemlerine serbestçe yer verir.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
+      "iddia_id": "i008",
+      "cumle": "madde, soykırımı ulusal, etnik, ırksal ya da dinsel bir grubu, grup olarak, kısmen ya da bütünüyle yok etme kastıyla işlenen fiiller biçiminde tanımlar ve fiilleri sayar: grup üyelerini öldürmek, ağır bedensel ya da zihinsel zarar vermek, grubu fiziksel yıkıma götürecek yaşam koşullarına bilerek tabi tutmak, doğumları önlemeye dönük tedbirler dayatmak, grubun çocuklarını zorla başka bir gruba nakletmek.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "II. madde metni birebir; bes fiil listesi aynen"
     },
     {
-     "anahtar": "k8",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "I shall refer freely... cumlesi k4te; k8 katalog"
-  },
-  {
-   "iddia_id": "i025",
-   "cumle": "Helen Fein soykırımı, failin — kurbanın teslim olmasından ya da tehdit oluşturmamasından bağımsız olarak — bir topluluğu doğrudan ya da dolaylı biçimde fiziksel olarak yok etmek için sürdürdüğü amaçlı eylem olarak tanımlar.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Fein 1993 tanimi aynen"
-  },
-  {
-   "iddia_id": "i026",
-   "cumle": "Frank Chalk ile Kurt Jonassohn'a göre soykırım, bir devletin ya da başka bir otoritenin yürüttüğü tek yanlı kitlesel öldürmedir ve hedef grubu da o gruba üyeliği de failin kendisi tanımlar.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Chalk-Jonassohn 1990 tanimi aynen"
-  },
-  {
-   "iddia_id": "i027",
-   "cumle": "Bu tanımlar, hukuki listede bulunmayan grupları — failin gözünde grup olan herkesi — kapsama alır ve suçun merkezine korunan kategorileri değil failin sınıflandırmasını yerleştirir.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Fail tanimlamasi iki tanimda da acik; sentez cumlesi yazarin"
-  },
-  {
-   "iddia_id": "i028",
-   "cumle": "Charny'ye göre jenerik anlamda soykırım, ilan edilmiş bir düşmanın askeri kuvvetlerine karşı yürütülen askeri harekât dışında, esaslı savunmasızlık koşullarındaki insanların önemli sayıda kitlesel öldürülmesidir.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Charny 1994 jenerik tanimi aynen"
-  },
-  {
-   "iddia_id": "i029",
-   "cumle": "Bu tanımda korunan grup listesi diye bir ölçüt kalmaz; belirleyici olan kurbanların savunmasızlığı ile öldürmenin kitleselliğidir ve hiçbir kurban kümesi tanım gereği dışarıda kalmaz.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Tanimin yapisindan cikan okuma; grup listesi yoklugu tanim metninde gorunur"
-  },
-  {
-   "iddia_id": "i030",
-   "cumle": "Katz'a göre soykırım, failin tanımladığı ulusal, etnik, ırksal, dinsel, siyasal, toplumsal, cinsiyete dayalı ya da ekonomik bir grubun tümünü öldürme kastının — hangi başarı düzeyinde gerçekleşirse gerçekleşsin — eyleme dökülmesidir.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Katz 1994 tanimi aynen (in its totality)"
-  },
-  {
-   "iddia_id": "i031",
-   "cumle": "Grup listesi geniştir ama kast ölçütü mutlaklaşır: kısmen yok etmeyi hedefleyen şiddet bu tanımın kapsamına girmez.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Tumunu olcutunun kismen dislamasi tanimdan cikarim"
-  },
-  {
-   "iddia_id": "i032",
-   "cumle": "İki tanım yan yana konduğunda tartışmanın yapısı görünür hâle gelir: kavram genişledikçe daha çok kurbanı adlandırır ama ayırt etme gücünü yitirir, daraldıkça keskinleşir ama olayların çoğunu dışarıda bırakır ve tanım listesinin kendisi, hangi olayların soykırım sayılacağının hangi tanımın seçildiğine bağlı olduğunu gösterir.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Hangi tanimin secildiginin hangi vakalarin taninacagini belirledigi k4 notunda; genisleme/daralma dengesi yazarin ozeti"
-  },
-  {
-   "iddia_id": "i033",
-   "cumle": "Ruanda için kurulan Uluslararası Ceza Mahkemesi, kendi kurumsal kaydına göre soykırım suçunda hüküm veren ve 1948 tanımını yorumlayan ilk uluslararası mahkemedir; aynı mahkeme tecavüzü soykırımın işlenme aracı olarak tanıyan ilk uluslararası yargı organı oldu ve 1994'te Ruanda'da işlenen fiiller için 93 kişi hakkında iddianame düzenledi.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k6",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Ilk hukumler, ilk yorum, tecavuz karari, 93 iddianame ve 1994 araligi mahkemenin kendi sayfasinda"
-  },
-  {
-   "iddia_id": "i034",
-   "cumle": "Uluslararası Adalet Divanı, Bosna-Hersek'in Sırbistan'a karşı açtığı davada 26 Şubat 2007'de verdiği kararda, savaş boyunca ülke genelinde işlenen kitlesel öldürmeler için soykırımı tanımlayan özel kastın kanıtlanamadığına hükmetti; buna karşılık Temmuz 1995'te Srebrenitsa'daki öldürmelerin, o bölgedeki Boşnak Müslüman grubunu kısmen yok etme özel kastıyla işlendiğini ve orada olanın soykırım olduğunu saptadı.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k5",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "26 Subat 2007, ozel kast bulunamamasi ve Srebrenitsa saptamasi Divanin kendi ozetinde aynen"
-  },
-  {
-   "iddia_id": "i035",
-   "cumle": "Divan aynı kararda Sırbistan'ın soykırımı önleme yükümlülüğünü ihlal ettiğine karar verdi; yükümlülük, ciddi tehlikeden haberdar olan ya da olması gereken devletlerin ellerindeki makul araçların tümünü kullanmasını gerektiriyordu.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k5",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Onleme yukumlulugu ihlali ve makul araclar olcutu k5te"
-  },
-  {
-   "iddia_id": "i036",
-   "cumle": "Kısmen ifadesi coğrafi olarak sınırlı bir bölgedeki grup parçası için işletilebilmiş, tanımın alt sınırı böylece olay bazında çizilmiştir; ama aynı yargı pratiği genel yaklaşımını dar tutmuş, grubu fiziksel olarak yok etmeye yönelmeyen saldırıları — kültüre yönelik baskıyı, yerinden etmeyi — tanımın dışında bırakmıştır.",
-   "onem": "merkezi",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k5",
-     "destek": "dogrudan"
+      "iddia_id": "i009",
+      "cumle": "Sözleşme suçu barış zamanında da savaş zamanında da tanır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "I. maddedeki baris/savas ifadesi"
     },
     {
-     "anahtar": "k3",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "in part bolgesel uygulama k5te; kisitlayici genel cizgi ve dislanan saldiri turleri k3te"
-  },
-  {
-   "iddia_id": "i037",
-   "cumle": "Uluslararası Adalet Divanı ile Yugoslavya mahkemesinin kararları, tanımın kısıtlayıcı yorumunu doğrulayan bir çizgide ilerlemiştir.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k3",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "confirmed a restrictive approach cumlesi"
-  },
-  {
-   "iddia_id": "i038",
-   "cumle": "Silahlı çatışma ölümleri veri kümesinde dünya değeri 1994'te yüksek tahmin sütununda 1.701.127, merkezî tahminde 823.507'dir; iki sayı da bir soykırım sayımı değil, sağlayıcının süregelen çatışma tanımına göre saydığı yıllık toplamdır.",
-   "onem": "merkezi",
-   "tur": "sayi",
-   "kaynaklar": [
-    {
-     "anahtar": "k9",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "World,OWID_WRL,1994,1701127,823507,395817 satiri CSV'de; yuksek/merkezi tahmin ayrimi sutun adlarindan (number_deaths_ongoing_conflicts_high / number_deaths_ongoing_conflicts)"
-  },
-  {
-   "iddia_id": "i039",
-   "cumle": "Aynı yılın Ruanda'sına bir soykırım mahkemesinin penceresinden ve bir çatışma veri kümesinin penceresinden bakmak iki farklı tanımdan iki farklı büyüklük üretir; sayı serisi dosyasında, sayıların okunma disiplini dosyasında ele alınıyor.",
-   "onem": "renk",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k6",
-     "destek": "baglam"
+      "iddia_id": "i010",
+      "cumle": "Sekretarya uzmanlarının hazırladığı taslak soykırımı fiziksel, biyolojik ve kültürel olmak üzere üç kategoriye ayırıyordu; Altıncı Komite kültürel soykırımı sözleşmenin kapsamı dışına çıkarmayı oyladı ve bu daraltmanın istisnası olarak yalnızca çocukların zorla nakli cezalandırılabilir fiiller arasında kaldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uc kategori, Altinci Komite oylamasi ve cocuk nakli istisnasi k3te aynen"
     },
     {
-     "anahtar": "k9",
-     "destek": "baglam"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Karsilastirma cumlesi; olculemez"
-  },
-  {
-   "iddia_id": "i040",
-   "cumle": "Terimden eski olaylar için ek bir katman vardır: sözcük 1944'te türetildiğinden, ondan önceki olayların bu adla anılması geriye dönük bir adlandırmadır ve hangi tanımın geriye doğru uygulanacağı sorusunu birlikte getirir.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "kismi"
+      "iddia_id": "i011",
+      "cumle": "Grubu yerinden etmeye zorlamayı — sonradan etnik temizlik diye anılacak pratiği — fiil listesine ekleme önerisi de büyük farkla reddedildi; mahkemeler sonraki on yıllarda bu müzakere kayıtlarına dayanarak etnik temizliği tanımın dışında tuttu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Altinci fiil onerisinin buyuk farkla reddi ve ictihadin etnik temizligi dislamasi k3te"
     },
     {
-     "anahtar": "k3",
-     "destek": "baglam"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "1944 turetimi k4te dogrudan; geriye donuk adlandirma nitelemesi cikarim"
-  },
-  {
-   "iddia_id": "i041",
-   "cumle": "Hukuk alanında dar tanım yerleşiktir: uluslararası organların hemen hemen tümü 1948 metnine göre yargılamayı sürdürür ve tanım maddesi değiştirilmeden yeni statülere aktarılmıştır.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
+      "iddia_id": "i012",
+      "cumle": "Amerika Birleşik Devletleri temsilcisi Ernest Gross, Kasım 1948'deki konuşmasında sözleşmenin kapsamının siyasi grupları koruyacak biçimde genişletilmesini umduğunu söylemişti; sonuç metni bu grupları içermedi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Gross konusmasi (3 Kasim 1948) k3te; k1 icin dayanak sonuc metninde siyasi grubun yoklugu"
     },
     {
-     "anahtar": "k3",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Iki dayanak da yukaridaki 15 ve 16 satirlariyla ayni metinlere gider"
-  },
-  {
-   "iddia_id": "i042",
-   "cumle": "Akademik alanda ise tanım listesi uzamaya devam eder ve hukuki tanımın hem sosyolojik tanımlardan hem kamu algısından dar olduğu saptaması geçerliliğini korur.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Tanim listesinin gelisimi ve darlik saptamasi k4 giris ve notunda"
-  },
-  {
-   "iddia_id": "i043",
-   "cumle": "Siyasi grupların dışarıda bırakılması, Kuper'den bu yana savunulan bir eksik olarak durur; kültürel yok etme, müzakerelerde bilinçli biçimde dışarıda bırakıldığı yerden geri çağrılmaya devam eder; kısmen ifadesinin alt sınırı genel bir kuralla değil olay bazında çizilir.",
-   "onem": "merkezi",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
+      "iddia_id": "i013",
+      "cumle": "Sonraki yazında bu eksik çoğu kez Sovyetler Birliği'nin itirazına bağlanır ve Stalin'in ülkesindeki siyasal kıyımların uluslararası incelemeye açılmasından çekindiği yazılır; ne var ki aynı yazını tarayan kayıt, bu anlatının kanıtla desteklenmediğini, Sovyet tutumunun birçok farklı ülkece paylaşıldığını ve Lemkin'in özgün kavrayışıyla da uyumlu olduğunu aktarır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SSCB anlatisi, kanit destegi sorunu, tutumun paylasilmisligi ve Lemkin uyumu k4te aynen bu sirayla"
     },
     {
-     "anahtar": "k3",
-     "destek": "dogrudan"
+      "iddia_id": "i014",
+      "cumle": "Müzakere tarihi böylece tartışmanın kendisine dahil olmuştur: tanımın neden dar olduğu sorusu da tanım kadar çekişmelidir.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Baglanti cumlesi; olculemez"
     },
     {
-     "anahtar": "k5",
-     "destek": "dogrudan"
+      "iddia_id": "i015",
+      "cumle": "Dar tanımın gücü her şeyden önce fiilî yerleşikliğidir: uluslararası hukuk organlarının hemen hemen tümü soykırım suçunu 1948 Sözleşmesi'nin tanımına göre yargılar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "almost all international bodies of law cumlesi"
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Tanım maddesi, Yugoslavya ve Ruanda için kurulan özel mahkemelerin statülerine de Uluslararası Ceza Mahkemesi'nin Roma Statüsü'ne de değiştirilmeden aktarıldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "reproduced without change... statutes of the ad hoc tribunals... Rome Statute"
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Sözleşmenin tanıtım notunu yazan hukukçu William Schabas'a göre tanımı değiştirme çağrılarının reddedilegelmesi bir tutuculuk işareti değildir; dar tanımın bıraktığı boşlukları, 1990'larda kapsamı belirgin biçimde genişleyen insanlığa karşı suçlar kategorisi az çok tatmin edici biçimde doldurmuştur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Schabasin kendi metni: tutuculuk degil, bosluklari insanliga karsi suclar az cok doldurdu"
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Bu iş bölümünde soykırım \"suçların suçu\" konumunu korur: dar tanım, terimin ağırlığını taşıyan ayrıksı bir suç bırakır, geri kalan kitlesel şiddeti başka hukuki başlıklar karşılar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "crime of crimes nitelemesi ve ozel yer k3te"
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Aynı doğrultuda Birleşik Devletler Holokost Anma Müzesi'nin ansiklopedisi, hukuki tanımıyla soykırımın — grubu yok etme kastının ispat şartı yüzünden — insanlığa karşı suçlara ve savaş suçlarına kıyasla nadiren işlendiğini not eder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "rarely committed compared to other serious crimes cumlesi"
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Kitlesel öldürmenin varlığı yetmez; failin grubu, grup olarak, kısmen ya da bütünüyle yok etme özel kastı — hukuk dilindeki adıyla dolus specialis — aranır ve Uluslararası Adalet Divanı bu özel kastı suçu tanımlayan öğe olarak niteler.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "specific intent that defines the crime k5te; kast ifadesi k1de. dolus specialis Latince adi standart terim, iki kaynakta da gecmiyor"
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Dar tanımın savunusu tam bu noktada kesinlik savunusudur: ölçüt ne kadar sıkıysa, suçlamanın ispatı ve çürütülmesi o kadar denetlenebilirdir.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yorum cumlesi; olculemez"
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Soykırım araştırmalarının kurucu kuşağından Leo Kuper, 1981'de yayımlanan Genocide: Its Political Use in the Twentieth Century kitabında sözleşme tanımını izlemeyi seçer; uluslararası kabul görmüş bir tanım ve harekete zemin olabilecek bir sözleşme varken yeni tanımlar türetmeyi yararlı görmez.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kuperin kendi cumleleri k4 tablosunda; k8 yalniz katalog kaydi (1982 baskisi)"
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Kuper'e göre çağdaş dünyada siyasi farklılıklar, katliamın ve topluca yok etmenin zemini olarak en az ırksal, ulusal, etnik ya da dinsel farklılıklar kadar önemlidir; üstelik korunan gruplara yönelik soykırımlar da genellikle siyasal çatışmanın sonucudur ya da onunla iç içedir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "political differences are at the very least as significant... ve generally a consequence of... political conflict"
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Bu yüzden çözümlemesinde, tanımın dışında kalmasına karşın siyasi gruplara yönelik yok etme eylemlerine serbestçe yer verir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "I shall refer freely... cumlesi k4te; k8 katalog"
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Helen Fein soykırımı, failin — kurbanın teslim olmasından ya da tehdit oluşturmamasından bağımsız olarak — bir topluluğu doğrudan ya da dolaylı biçimde fiziksel olarak yok etmek için sürdürdüğü amaçlı eylem olarak tanımlar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Fein 1993 tanimi aynen"
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Frank Chalk ile Kurt Jonassohn'a göre soykırım, bir devletin ya da başka bir otoritenin yürüttüğü tek yanlı kitlesel öldürmedir ve hedef grubu da o gruba üyeliği de failin kendisi tanımlar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Chalk-Jonassohn 1990 tanimi aynen"
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Bu tanımlar, hukuki listede bulunmayan grupları — failin gözünde grup olan herkesi — kapsama alır ve suçun merkezine korunan kategorileri değil failin sınıflandırmasını yerleştirir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Fail tanimlamasi iki tanimda da acik; sentez cumlesi yazarin"
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Charny'ye göre jenerik anlamda soykırım, ilan edilmiş bir düşmanın askeri kuvvetlerine karşı yürütülen askeri harekât dışında, esaslı savunmasızlık koşullarındaki insanların önemli sayıda kitlesel öldürülmesidir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Charny 1994 jenerik tanimi aynen"
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Bu tanımda korunan grup listesi diye bir ölçüt kalmaz; belirleyici olan kurbanların savunmasızlığı ile öldürmenin kitleselliğidir ve hiçbir kurban kümesi tanım gereği dışarıda kalmaz.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tanimin yapisindan cikan okuma; grup listesi yoklugu tanim metninde gorunur"
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Katz'a göre soykırım, failin tanımladığı ulusal, etnik, ırksal, dinsel, siyasal, toplumsal, cinsiyete dayalı ya da ekonomik bir grubun tümünü öldürme kastının — hangi başarı düzeyinde gerçekleşirse gerçekleşsin — eyleme dökülmesidir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katz 1994 tanimi aynen (in its totality)"
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Grup listesi geniştir ama kast ölçütü mutlaklaşır: kısmen yok etmeyi hedefleyen şiddet bu tanımın kapsamına girmez.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tumunu olcutunun kismen dislamasi tanimdan cikarim"
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "İki tanım yan yana konduğunda tartışmanın yapısı görünür hâle gelir: kavram genişledikçe daha çok kurbanı adlandırır ama ayırt etme gücünü yitirir, daraldıkça keskinleşir ama olayların çoğunu dışarıda bırakır ve tanım listesinin kendisi, hangi olayların soykırım sayılacağının hangi tanımın seçildiğine bağlı olduğunu gösterir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hangi tanimin secildiginin hangi vakalarin taninacagini belirledigi k4 notunda; genisleme/daralma dengesi yazarin ozeti"
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Ruanda için kurulan Uluslararası Ceza Mahkemesi, kendi kurumsal kaydına göre soykırım suçunda hüküm veren ve 1948 tanımını yorumlayan ilk uluslararası mahkemedir; aynı mahkeme tecavüzü soykırımın işlenme aracı olarak tanıyan ilk uluslararası yargı organı oldu ve 1994'te Ruanda'da işlenen fiiller için 93 kişi hakkında iddianame düzenledi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ilk hukumler, ilk yorum, tecavuz karari, 93 iddianame ve 1994 araligi mahkemenin kendi sayfasinda"
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Uluslararası Adalet Divanı, Bosna-Hersek'in Sırbistan'a karşı açtığı davada 26 Şubat 2007'de verdiği kararda, savaş boyunca ülke genelinde işlenen kitlesel öldürmeler için soykırımı tanımlayan özel kastın kanıtlanamadığına hükmetti; buna karşılık Temmuz 1995'te Srebrenitsa'daki öldürmelerin, o bölgedeki Boşnak Müslüman grubunu kısmen yok etme özel kastıyla işlendiğini ve orada olanın soykırım olduğunu saptadı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "26 Subat 2007, ozel kast bulunamamasi ve Srebrenitsa saptamasi Divanin kendi ozetinde aynen"
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Divan aynı kararda Sırbistan'ın soykırımı önleme yükümlülüğünü ihlal ettiğine karar verdi; yükümlülük, ciddi tehlikeden haberdar olan ya da olması gereken devletlerin ellerindeki makul araçların tümünü kullanmasını gerektiriyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onleme yukumlulugu ihlali ve makul araclar olcutu k5te"
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Kısmen ifadesi coğrafi olarak sınırlı bir bölgedeki grup parçası için işletilebilmiş, tanımın alt sınırı böylece olay bazında çizilmiştir; ama aynı yargı pratiği genel yaklaşımını dar tutmuş, grubu fiziksel olarak yok etmeye yönelmeyen saldırıları — kültüre yönelik baskıyı, yerinden etmeyi — tanımın dışında bırakmıştır.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "in part bolgesel uygulama k5te; kisitlayici genel cizgi ve dislanan saldiri turleri k3te"
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Uluslararası Adalet Divanı ile Yugoslavya mahkemesinin kararları, tanımın kısıtlayıcı yorumunu doğrulayan bir çizgide ilerlemiştir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "confirmed a restrictive approach cumlesi"
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Silahlı çatışma ölümleri veri kümesinde dünya değeri 1994'te yüksek tahmin sütununda 1.701.127, merkezî tahminde 823.507'dir; iki sayı da bir soykırım sayımı değil, sağlayıcının süregelen çatışma tanımına göre saydığı yıllık toplamdır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "World,OWID_WRL,1994,1701127,823507,395817 satiri CSV'de; yuksek/merkezi tahmin ayrimi sutun adlarindan (number_deaths_ongoing_conflicts_high / number_deaths_ongoing_conflicts)"
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Aynı yılın Ruanda'sına bir soykırım mahkemesinin penceresinden ve bir çatışma veri kümesinin penceresinden bakmak iki farklı tanımdan iki farklı büyüklük üretir; sayı serisi dosyasında, sayıların okunma disiplini dosyasında ele alınıyor.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k9",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Karsilastirma cumlesi; olculemez"
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Terimden eski olaylar için ek bir katman vardır: sözcük 1944'te türetildiğinden, ondan önceki olayların bu adla anılması geriye dönük bir adlandırmadır ve hangi tanımın geriye doğru uygulanacağı sorusunu birlikte getirir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "1944 turetimi k4te dogrudan; geriye donuk adlandirma nitelemesi cikarim"
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Hukuk alanında dar tanım yerleşiktir: uluslararası organların hemen hemen tümü 1948 metnine göre yargılamayı sürdürür ve tanım maddesi değiştirilmeden yeni statülere aktarılmıştır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki dayanak da yukaridaki 15 ve 16 satirlariyla ayni metinlere gider"
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Akademik alanda ise tanım listesi uzamaya devam eder ve hukuki tanımın hem sosyolojik tanımlardan hem kamu algısından dar olduğu saptaması geçerliliğini korur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tanim listesinin gelisimi ve darlik saptamasi k4 giris ve notunda"
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Siyasi grupların dışarıda bırakılması, Kuper'den bu yana savunulan bir eksik olarak durur; kültürel yok etme, müzakerelerde bilinçli biçimde dışarıda bırakıldığı yerden geri çağrılmaya devam eder; kısmen ifadesinin alt sınırı genel bir kuralla değil olay bazında çizilir.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Uc acik soru sirasiyla Kuper alintisina, Altinci Komite oylamasina ve Divan ictihadina dayanir"
     }
-   ],
-   "guven": "orta",
-   "inceleme": "Uc acik soru sirasiyla Kuper alintisina, Altinci Komite oylamasina ve Divan ictihadina dayanir"
-  }
- ],
- "sayaclar": {
-  "dogrudan": 34,
-  "kismi": 6,
-  "desteksiz": 0,
-  "olculemez": 3
- }
+  ],
+  "sayaclar": {
+    "dogrudan": 34,
+    "kismi": 6,
+    "desteksiz": 0,
+    "olculemez": 3
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

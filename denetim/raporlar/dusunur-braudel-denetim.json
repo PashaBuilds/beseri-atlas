@@ -1,87 +1,285 @@
 {
   "id": "dusunur-braudel",
   "gecis": 2,
-  "zaman": "2026-08-29T19:34:17.044Z",
-  "govde_hash": "e6bd2ee9e4b9",
-  "commit": "2dc84ff",
+  "zaman": "2026-08-29T20:18:31.814Z",
+  "govde_hash": "ad7c0b17e75e",
+  "commit": "4a5044d",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, onun zamanı katmanlara ayırdığını yazar ve üçüncü katmanı olayların zamanı olarak tanımlar: adı olan bireylerin tarihi.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "1958'de Annales'de çıkan yazısını insan bilimlerinde genel bir bunalım saptayarak açtı: bilimler kendi ilerlemeleri altında eziliyor, yeni bilgi yığılıyor, örgü",
+      "durum": "OK",
+      "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, olayların zamanının onun için yüzeylerin ve aldatıcı etkilerin zamanı olduğunu ve Akdeniz'in üçüncü bölümünün odağını oluşturduğunu yazar; o bölümün ola",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Akdeniz"
+      "anahtar": "k7",
+      "iddia": "Aynı yazıda Braudel zamanı, basit bir kronoloji ölçüsü olmaktan çıkarıp toplumsal bir kurgu olarak yeniden tanımlar ve 1958'de bunu sosyal bilimlerin birbirine ",
+      "durum": "OK",
+      "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "İkinci düzeyde iktisadi, toplumsal ve kültürel tarihin bulunduğu; bu düzeyde değişimin çevreninkinden çok daha hızlı olduğu ve iki üç yüzyıla bakarak çeşitli ar",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k6",
+      "iddia": "Yapının da konjonktürün de farklı türleri olduğunu, ikisinin de süresinin değişebileceğini Braudel'in kendisi yazar; tarih, bir zaman düzleminden ötekine dikey ",
+      "durum": "OK",
+      "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bir tarihçinin olayları yöntemsel olarak en az açıklayıcı katmana yerleştirmesi, bu atlasın olay dosyalarını neden her zaman bir dönem dosyasına bağladığını gös",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k6",
+      "iddia": "Orada tarih, Braudel'in deyişiyle ağır çekimde ilerler; coğrafya da kendi başına bir amaç olmaktan çıkıp yapısal gerçekliklerin yavaş açılışını görmenin aracına",
+      "durum": "OK",
+      "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, onun kapitalistlerin genellikle varsayıldığı gibi rekabetçi piyasalarda faaliyet gösteren girişimciler değil tekelciler olduğunu savunduğunu yazar; kapi",
+      "anahtar": "k9",
+      "iddia": "En üstte ise adı olan bireylerin tarihi vardır: Braudel için bu üçüncü katman yüzeylerin ve aldatıcı etkilerin zamanıdır, courte durée'nin asıl alanıdır ve 'in ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "En derindeki katmanın adı longue durée (uzun süre), en üsttekinin adı ise Braudel'in sözlüğünde olay tarihidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Akdeniz, Braudel'de denizin yanı sıra çöl ve dağlardır: çöl, bütün topluluğun birlikte yer değiştirdiği göçebe bir örgütlenme biçimi doğurur, dağ yaşamı ise yer",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tarih ile sosyal bilimler arasındaki hesaplaşma yinelenen bir temadır ve tarihe iki büyük meydan okuma yöneltilmiştir: ilki 1903'te Durkheimci toplumbilimci F. ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Febvre ile Bloch buna 1929'da Strasbourg'da Annales d'histoire économique et sociale'i kurarak karşılık verdi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İkinci meydan okuma savaş sonrasında geldi: Lévi-Strauss 1949 tarihli \"Histoire et Ethnologie\" yazısında, komşu bilimlerin yenilenme çağrılarına rağmen tarihin ",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir tarihçinin iki büyük yorum geleneğinden birden ayrıldığının kaydedilmesi, atlasın hakemlik etmeme ilkesine uygun bir örnektir: bu dosya üç konumu da kaydede",
+      "iddia": "Yazıya göre Lévi-Strauss yapısal antropolojiyi dilbilimin yordamlarına, bilinçsiz tarihin ufuklarına ve nitel matematiğin genç emperyalizmine doğru ittiğini yaz",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Ayrıldığı yorumların düşünürleri ve dosyalarında ele alınıyor.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k9",
+      "iddia": "1940'ta Vosges'te esir düştü; önce Mainz'daki kalede tutuldu, orada kamp üniversitesinin rektörü oldu ve kent kütüphanesinden kitap ödünç alma hakkı kazandı, 19",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kitabı, yani Akdeniz'i, Braudel kendi kitaplarına ve notlarına erişmeden belleğine yaslanarak yazdı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kendi anlatımına göre Braudel'in uzun süreli bakışı, kaygı verici savaş haberlerine dolaysız ve varoluşsal bir tepkiydi: sığınak olarak Tanrı Baba'nın konumunu ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kitabın İngilizce çevirisi ikinci gözden geçirilmiş baskıdan yapıldı ve 1972'de Londra'da Collins'ten iki cilt hâlinde çıktı; kütüphane kaydı onu konu başlığı o",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "bir dönemlendirme adı değil bir araştırma aracıdır ve pratikte seri tarih yoluyla işledi: Braudel'in meslektaşı Ernest Labrousse'un çalışması, yapısal süreleri ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Richard E. Lee'nin okumasında tarihsel toplumsal sistemler, başlangıcı ve sonu olan tekil uzun süre yapıları olarak ortaya çıkar; bu yapıların yeniden üretimi s",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Braudel, Avrupa'da on ikinci yüzyılda gelişmeye başladığını gördüğü uzun vadeli kapitalist döngülerden söz eder ve merkezleri sırayla birbirini izleyen kentler ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Bu konum onu hem liberal hem Marksçı yorumdan ayırır ve kapitalist ülkelerde devleti rekabetin koruyucusu değil tekelcilerin güvencesi sayar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "J. H. Elliott, ilk kitabı üzerine yazdığı değerlendirmede Braudel'in Akdeniz'ini insan denetimine kapalı bir dünya saydı ve itirazı tek satıra indirdi: dağlar i",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Aynı değerlendirme, insan kararları yerine nesnel açıklamaları yeğlemenin tartışmalı sonuçlara götürebildiğini de söyler; örnek olarak Yahudilerin İspanya, Port",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "J. H. Hexter'ın 1972'de The Journal of Modern History'de yayımladığı \"Fernand Braudel and the Monde Braudellien...\", derginin sayfa kaydında 480-539 arasında du",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Ayrıldığı yorumların düşünürleri ve dosyalarında ele alınıyor.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, onun görüşünde kapitalist ülkelerde devletin, genellikle betimlendiği gibi rekabetin koruyucusu değil tekelcilerin güvencesi olarak hizmet ettiğini yaza",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Atlas bu iddiayı bir olgu olarak değil, kaynağın aktardığı bir konum olarak taşır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, onun Akdeniz'inin denizin yanı sıra çöl ve dağlar olduğunu; çölün bütün topluluğun taşındığı göçebe bir toplumsal örgütlenme biçimi ürettiğini, dağ yaşa",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Akdeniz"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Coğrafyanın toplumsal biçime bağlanması, atlasın bölge alanını neden ayrı bir üst veri olarak tuttuğunu gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Hayatı, esaret dönemi, Akdeniz'in yazımı, Fransa'nın kimliği üzerine son eseri ve tarih yazımındaki yeri burada ayrı başlıklar altında ele alınmamıştır; kaynak ",
+      "iddia": "Giovanni Levi, 1989'da Annales'de biyografinin tarihçilerin ilgisinin merkezine yerleştiğini yazdı ve sorunu tersine çevirerek kurdu: bize belki daha yakın olan",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Biyografi kimi zaman bireylerin genel normatif dizgelere indirgenemezliğini vurgulamak için, kimi zaman da toplumsal kuralların fiilî işleyişine dair bilimsel v",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yazı, derginin 1988'de yayımladığı eleştirel dönemeç çağrısına verilen yanıtlardan biridir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Yapıları görmeyi öğreten bakış kendi döneminin sömürge yargılarından muaf değildi: Brezilya'yı toplumsal esnekliği ve genç bir Avrupa uygarlığı oluşu nedeniyle ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "L'Identité de la France'ta ilgisi yıllar ve on yıllar değil yüzyıllar ve bin yıllardır; Fransa'yı siyasetinin ya da iktisadının değil coğrafyasının ve kültürünü",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kitabın romantik bir özlemle renklendiği ve Braudel'in Fransa'ya duyduğu sevgiyi gizlemediği de aynı kayıtta durur; ölçeğin büyümesi, bakışın yansız olduğu anla",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Braudel'in kurduğu şey az çok istikrarlı bir tarihsel ilişkidir ve büyük ölçekli değişimin kuramsal olarak yeniden kurulmasına açık, deneysel bir yaklaşım tanır",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "1989'da Jacqueline Cahen ile Jean-Pierre Rioux, bir Fransız lise programının son kırk yılı Braudel'in yüksek himayesine yerleştirmesini sorguladılar: dünyanın y",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Programın yazarının kendisinin de bu kadar kısa bir uzun süreden rahatsız olduğunu gösterdiler: 1960'larda beliren açıklayıcı yapılar — iki kutupluluk ve büyüme",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı yazı Braudel'den bir cümleyle kapanır: tarihçi tarihin zamanından hiç çıkmaz, zaman düşüncesine \"comme la terre à la bêche du jardinier\" yapışır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Birincisi dünya sistemi çözümlemesidir: Lee'ye göre uzun sürenin ikinci dersi dünyanın yalnızca tekilliğini değil biricikliğini de görmemizi sağlamak, üçüncüsü ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "İkincisi mikro tarihle kurulan gerilimdir: İtalyan mikro tarihinin epizodik ve kısa vadeli olana yönelmesi Fransız seri tarihinin egemenliğine bir tepkiydi, ama",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Binghamton Üniversitesi'nde 2020'ye kadar bir Fernand Braudel Merkezi vardı ve 2011'de History Today dergisinin anketinde geçmiş altmış yılın en önemli tarihçis",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Braudel'in 1958'deki açılış teşhisi — insan bilimlerinin kendi ilerlemeleri altında ezilmesi — aradan geçen zamana rağmen tanıdık geliyor; verdiği cevap ise bir",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "tarihçinin seçimini kime ait olduğu sorusuyla çözmeyi denemişti; Braudel aynı soruyu hangi zamanda çalışıldığı sorusuna çevirdi, ve tartışması bugün de bu iki c",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": ": Fernand Braudel, \"Histoire et Sciences sociales : La longue durée\", Annales ESC 13-4 (1958), s. 725-753 — Persée.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": ": François Dosse, \"Les habits neufs du Président Braudel\", Espaces Temps 34-35 (1986), s. 83-93 — Persée.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": ": Giovanni Levi, \"Les usages de la biographie\", Annales ESC 44-6 (1989), s. 1325-1336 — Persée.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": ": Jacqueline Cahen ve Jean-Pierre Rioux, \"Vous avez dit Braudel ?\", Vingtième Siècle 23 (1989), s. 95-100 — Persée.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": ": Internet Archive katalog kaydı — The Mediterranean and the Mediterranean world in the age of Philip II (Collins, 1972).",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": ": Dale Tomich, \"The Order of Historical Time: The Longue Durée and Micro-History\", Almanack 2 (2011) — SciELO.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": ": Crossref kaydı — Richard E. Lee, \"Lessons of the Longue Durée: The Legacy of Fernand Braudel\", Historia Crítica 69 (2018), s. 69-77.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": ": Crossref kaydı — J. H. Hexter, \"Fernand Braudel and the Monde Braudellien...\", The Journal of Modern History 44-4 (1972), s. 480-539.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": ": Wikipedia (EN) — Fernand Braudel.",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

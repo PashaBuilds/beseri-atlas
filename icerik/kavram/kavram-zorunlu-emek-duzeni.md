@@ -26,6 +26,7 @@ ilgili:
   - olay-kongo-serbest-devleti
   - kavram-apartheid
   - olay-herero-nama-1904
+  - olay-uzay-yarisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

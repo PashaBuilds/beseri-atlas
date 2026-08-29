@@ -23,6 +23,8 @@ ilgili:
   - aktor-haudenosaunee
   - aktor-komance
   - olay-11-eylul
+  - olay-kore-savasi
+  - olay-uzay-yarisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

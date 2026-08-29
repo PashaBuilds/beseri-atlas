@@ -1,81 +1,273 @@
 {
   "id": "dusunur-weber",
   "gecis": 2,
-  "zaman": "2026-08-29T19:34:20.874Z",
-  "govde_hash": "c218b620312d",
-  "commit": "2dc84ff",
+  "zaman": "2026-08-29T20:14:29.347Z",
+  "govde_hash": "30e21828e1f5",
+  "commit": "5373c66",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, yöntem bölümünün altında dört alt başlık tutar: Verstehen, yöntemsel bireycilik, ideal tip ve değerden bağımsızlık.",
+      "iddia": "Max Weber'in kurduğu programda toplumbilim, toplumsal eylemi yorumlayarak anlamayı üstlenen ve bunu eylemin seyri ile sonuçlarının nedensel açıklamasına vardırm",
       "durum": "OK",
       "not": ""
     },
     {
+      "anahtar": "k5",
+      "iddia": "Bu reddin bıraktığı alanda akılcılaşma, büyübozumu ve modern hayatın anlam sorunu üzerine bir yüzyıllık tartışma sürüyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
       "anahtar": "k1",
-      "iddia": "Kaynak yöntem bölümünü kuramlar bölümünden önce yerleştirir; kuramlar bölümünde akılcılaşma, büyübozumu, Protestan ahlakı ve kapitalizmin ruhu, dünya dinlerinin",
+      "iddia": "Weber'in dediği şey bir tanım ya da ortalama değil, bilinçli bir kurgudur: eylem tümüyle akılcı yürüseydi alacağı seyri çizer ve gerçek davranışın bu çizgiden n",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Weber'in kendi uyarısı burada belirleyicidir: böyle kurulmuş saf tiplerden birine tıpatıp uyan gerçek bir olguya rastlamak pek seyrek, belki de hiç mümkün değil",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kapı kolunu çeviren ya da bir hayvana nişan alan insanı doğrudan gözleyerek anlarız; buna karşılık birinin ikiyle ikinin dört ettiğini tam o anda yazmasını,",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yöntemin sınırını da saklamaz: anlamlı eylem ile hiçbir öznel anlam yüklenmemiş salt tepkisel davranış arasındaki çizgi ampirik olarak keskin biçimde çizilemez ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yerde, sonradan Weber'in imzası sayılacak bütün kavramların ideal tip olarak kurulduğunu söyler: aynı tarihsel olgu bir yanıyla feodal, bir yanıyla patrimo",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bir düşünürün maddesinde yöntemin kuramlardan önce gelmesi, atlasın kendi yöntem notlarını neden içerikten ayrı bir dosyada tuttuğuyla aynı kararı yansıtır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak kayda değer fikirlerini uzun bir liste hâlinde verir; içinde ideal tip, karizma, büyübozumu, demir kafes, yaşam şansları, yöntemsel bireycilik, belirli b",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Otoritenin üçlü sınıflandırması karizmatik, akılcı-yasal ve geleneksel olarak; tabakalaşmanın üç bileşenli kuramı ise sınıf, parti ve statü olarak verilir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir düşünürün katkısının kavram listesi biçiminde kaydedilmesi, atlasın kavram katmanının neden ayrı bir tip olarak kurulduğunu gösterir; meşruiyet kavramı dosy",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak eserleri künyeleriyle sıralar: Protestan Ahlakı ve Kapitalizmin Ruhu (1904-1905), Dünya Dinlerinin İktisadi Ahlakı (1915-1921), Bilim Bir Meslek Olarak (",
+      "anahtar": "k9",
+      "iddia": "Weber 21 Nisan 1864'te Prusya'nın Erfurt kentinde doğdu; Berlin, Göttingen ve Heidelberg'de hukuk ve tarih okudu, 1889'da doktorasını, 1891'de doçentliğini aldı",
       "durum": "OK",
-      "not": "10 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Son üç eserin ölüm yılından sonraya tarihlenmesi, bunların ölümünden sonra yayımlandığı anlamına gelir; aynı durum dosyasında da görülür.",
+      "anahtar": "k9",
+      "iddia": "1897'de, bir tartışmanın ardından babasının ölümü üzerine çöküntü geçirdi; öğretimi bıraktı ve 1900'lerin başına kadar seyahat etti — Protestan Ahlakı bu toparl",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Birinci Dünya Savaşı'nda önce Almanya'nın savaş çabasını destekledi, sonra eleştirel bir konuma geçip demokratikleşmeyi savundu; Bilim Bir Meslek Olarak ve Siya",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Savaştan sonra Alman Demokrat Partisi'nin kurucuları arasına katıldı, aday olduğu seçimde kazanamadı, Weimar Anayasası'nın hazırlanmasına danışmanlık etti ve Vi",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Weber tersini söyler: kazanma içgüdüsünün eski çağlarda bilinmediği ya da gelişmemiş olduğu doğru değildir; altın açlığı (auri sacra fames) burjuva kapitalizmin",
       "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çinli, Romalı"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Aynı yıllarda yazan bir çağdaşı için tutulan kayıt, onun toplumbilimi kurumlar bilimi olarak tanımladığını yazar.",
+      "anahtar": "k2",
+      "iddia": "Weber savını önce nesnesini tanımlayarak kurar: kapitalizmin ruhu, kültürel önemleri açısından tek bir kavramsal bütün hâlinde birleştirdiğimiz, tarihsel gerçek",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Aynı soruya bir başka cevap için tutulan kayıt ise, toplum biçimlerinin üretici gücün gelişimine göre yükselip düştüğü fikrini anlatır.",
+      "iddia": "Bu bütünün belgesi olarak da dinle doğrudan ilişkisi olmayan, bu yüzden ön kabullerden arınmış saydığı bir metni seçer: Benjamin Franklin'in zamanın ve kredinin",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kaderin önceden belirlenmişliği öğretisinin tutulduğu her yerde, insanın seçilmişler arasında sayılıp sayılmadığını gösterecek şaşmaz ölçütlerin bulunup bulunma",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Akılcılaşma tezi, din toplumbilimi, hukuk ve iktisat yazıları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "anahtar": "k3",
+      "iddia": "Cevap dünyevi çalışmada bulundu: dinsel kuşkuları dağıtıp lütuf kesinliğini veren en uygun araç olarak yalnızca o gösteriliyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Weber dört asketik Protestanlık biçimi ayırır — Kalvinizm, Pietizm, Metodizm ve Vaftizci hareketten çıkan mezhepler — ama ayrımların keskinliği konusunda tetikt",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Meslek (Beruf) fikrinin en tutarlı dinsel temelini İngiliz Püritenliğinin Kalvinci kolunda bulur ve tartışmanın merkezine, hem pratik tutumu hem eserlerinin gör",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Beruf, İngiliz, Püritenliğinin, Kalvinci"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Püriten yazında zenginlik kendi başına büyük bir tehlikedir; ayartıları bitmez ve peşine düşülmesi ahlaken kuşkuludur.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k4",
-      "iddia": "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Protestan Ahlaki.",
+      "iddia": "Weber, Baxter'ın dünyevi mallara duyulan kaygıyı her an omuzdan atılabilecek hafif bir pelerine benzetmesini anar, sonra kaderin başka türlü hükmettiğini yazar:",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı sayfalarda, akılcılaşmanın son durağı için uzmanlıkta ruhsuz, hazda kalpsiz bir insan tipini tarif eden alaycı bir yargı da geçer; ama Weber bunun değer ya",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Almanca metinde geçen ifade stahlhartes Gehäuse'dir; Peter Baehr, Parsons'ın kanonik çevirisinin statüsünü, imgenin olası kaynağını — Bunyan'ın Çilekeşin Yolcul",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Fark maddidir: kafes insanı kapatır ama güçlerini olduğu gibi bırakır; kabuk ise bürokratik kapitalizmin insan öznesini yeniden kurduğunu ima eder — üstelik çel",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Baehr bu yoruma yöneltilen itirazları da tarttıktan sonra ilginç bir sonuca varır: Parsons'ın buluşu, aslın karşılığı olarak kusurlu olsa da kendi başına veriml",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Weber'in siyaset toplumbilimi, kendi adlandırmasıyla bir egemenlik toplumbilimidir (Herrschaftssoziologie) ve devleti çağdaşlarının yüklediği ahlaki niteliklerd",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Tanımın ağırlık merkezi yalnızca güç değildir: bir buyruğun yerine getirilmesi tek başına egemenlik anlamına gelmez, buyruğun geçerli bir norm olarak kabul edil",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Otoriteye dayalı ilişkileri üçlü bir sınıflandırmaya göre kümeler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Karizmatik otorite gücünü kişinin olağanüstü niteliklerinden alır; kararsızdır, çünkü kurumsallaşmaya direnir ve liderin başarısına bağlıdır, zamanla daha yapıl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Geleneksel otorite önceden yerleşmiş geleneklere ve onlar sayesinde yetki taşıyanlara duyulan bağlılığa dayanır; patrimonyalizm, yöneticilerin devleti ve orduyu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Akılcı-yasal otorite ise bürokrasiye ve kuralların yasallığına duyulan inanca yaslanır; ötekilerden farklı olarak yavaş yavaş gelişmiştir ve modernlikte baskın ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "İktisatçılar Sascha O. Becker ve Ludger Woessmann, 2009'da Quarterly Journal of Economics'te yayımladıkları çalışmaya \"Weber yanılıyor muydu?\" sorusunu başlık y",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Değerden bağımsızlık ilkesi de hedef oldu: Alvin Gouldner 1962'de Social Problems dergisindeki yazısına Değerden Bağımsız Toplumbilim Miti başlığını koydu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Weber'in kendi konumu ise sanıldığı kadar rahat değildir; onda nesnellik doğru yöntemle ulaşılabilecek bir hedef değil, nihai bir yerine gelme vaadi olmadan uğr",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Weber'in bugüne dek Bonapartçı sezarizmi, edilgen-devrimci Fordist ideolojiyi, yarı-faşist seçkinciliği, hatta proto-Nazizmi barındırdığı ya da haber verdiği il",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bir yerde demokrasi dördüncü bir meşruiyet tipi sayılır — üç ideal tipin hepsi meşruiyete yukarıdan bakarken demokrasi aşağıdan gelene alan açabildiği için; baş",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kitabın son paragrafı tam bunu reddeder: Weber'in amacı tek yanlı bir maddeci yorumun yerine aynı ölçüde tek yanlı bir tinselci yorum koymak değildir; ikisi de ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "İkincisi, demir kafesi Weber'in imgesi sanmaktır; imge çeviriden gelir ve kendi tarihini yaşamıştır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üçüncüsü, ideal tipi bir betimleme sanmaktır: tip gerçekliğin yerine geçmez, gerçekliğin ondan sapmasını ölçer ve Weber saf tipe tıpatıp uyan olgunun neredeyse ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Dördüncüsü, değerden bağımsızlığı değersizlik sanmaktır; oysa ilke, araştırmacının değerlerinin sorusunu seçtiğini kabul edip yargıyı bulguya karıştırmama disip",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Suçlamalar ciddiye alınmalıdır; ama kaynak bunları metnin kanıtlanmış içeriği olarak değil, bugün de sürdürülen bir eleştiri hattı olarak kaydeder ve gerekçeyi ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metnin kendisinde ise kavramlar hüküm değil ölçüdür: aynı olgu bir yanıyla feodal, bir yanıyla karizmatik sayılabilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yöntem tartışmasında, toplumbilimi yorumlayıcı anlama ile nedensel açıklamayı aynı anda üstlenen bir bilim diye tanımlayan cümle başvuru noktası olmayı sürdürüy",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Siyaset kuramında, devletin güç tekeli üzerinden tanımlanması ve meşruiyetin itaatin gerekçesine bağlanması, çağdaş realizmin tartıştığı çerçeveyi kurar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "İktisat tarihinde ise Protestan iktisadi tarihi, tezin yerine beşerî sermaye gibi başka mekanizmalar koymayı deneyen çalışmaların konusu olmayı sürdürüyor.",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

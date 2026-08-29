@@ -1,49 +1,325 @@
 {
   "id": "olay-yedi-yil-savasi",
   "gecis": 2,
-  "zaman": "2026-08-29T19:34:05.605Z",
-  "govde_hash": "d9eb0162895d",
-  "commit": "2dc84ff",
+  "zaman": "2026-08-29T20:01:36.229Z",
+  "govde_hash": "1a1ab2165462",
+  "commit": "5373c66",
   "sonuclar": [
     {
+      "anahtar": "k8",
+      "iddia": "Başlıca taraflar bir yanda Britanya ile Prusya, öteki yanda Fransa ile Avusturya'ydı; Portekiz, İspanya, İsveç, Rusya ve Kutsal Roma İmparatorluğu'nun Saksonya ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Çarpışma Avrupa'nın yanı sıra Kuzey Amerika, Karayipler, Batı Afrika, Hindistan, Filipinler ve Güney Amerika'ya yayıldı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
       "anahtar": "k1",
-      "iddia": "Kaynak savaşı tek bir cümleyle tanımlar: Avrupa güçleri arasında 1756–1763 yılları arasında yürüyen küresel bir savaş.",
+      "iddia": "Aynı metnin on beşinci maddesi Britanya ile Fransa'ya, Almanya'da savaşı sürdüren müttefiklerine hiçbir türden yardım göndermeme sözü verdiriyordu — yani Paris,",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynağa göre savaşın Rusları kendi lojistik zayıflıklarına maruz bıraktığını ve İmparatorluk Rus Ordusu'nun lojistik dairesinde büyük reformlara yol açtığını ka",
+      "anahtar": "k8",
+      "iddia": "Onu beş gün sonra imzalanan ayrı bir antlaşma bitirdi ve haritayı 1748'e geri döndürdü.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Avusturya Veraset Savaşı'nı bitiren 1748 Aix-la-Chapelle Antlaşması'ndan hiçbir imzacı memnun kalmamıştı ve metin genel olarak geçici bir ateşkes sayıldı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Wenzel Anton Kaunitz, 24 Mart 1749'da Maria Theresia'ya sunduğu görüşünde Prusya kralını \"doğal düşmanlar\" sınıfının başına, Osmanlı'nın da önüne yerleştirir ve",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Silezya için kullandığı görüntü, kaybın Viyana'da nasıl ölçüldüğünü anlatır: kopan şey yabancı bir uzuv değil, gövdenin bir parçasıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "İngiltere tacını \"doğal dostlar\" sınıfında ve hepsinin başında sayar, ama Silezya'yı geri almak söz konusu olduğunda o taçtan ciddi bir yardım umulamayacağını y",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Yine de metin bir kehanet olarak okunmamalıdır: Kaunitz görüşünü açık bir çekinceyle açar — Avrupa saraylarını doğru mu yanlış mı kavradığını kendisi de bilmeme",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Kutsal Roma İmparatorluğu'ndaki çekişmenin merkezinde Avusturya'nın Silezya'yı geri alma girişimi durur.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Kuzey Amerika'da Britanya ile Fransa'nın toprakları arasındaki sınır 1750'lerde büyük ölçüde belirsizdi; Fransızların Ohio vadisinde kale zinciri kurmasına karş",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Fransızlar aynı yılın 3 Temmuz'unda Fort Necessity'de karşılık verdi ve Washington teslim oldu; bunlar, sonradan dünya ölçeğine yayılacak savaşın ilk çarpışmala",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Britanya donanması 1755 Ağustos'undan itibaren Fransız gemiciliğini taciz etti; iki ülke sözde barış hâlindeyken yüzlerce gemiye ve binlerce ticaret gemicisine ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Aynı çatışmanın parçaları Üçüncü Silezya Savaşı, Fransız ve Kızılderili Savaşı, Üçüncü Karnatik Savaşı, İspanyol-Portekiz Savaşı (Fantastik Savaş) ve 1762-1763 ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "28 Kasım 1757'de bakanı Finckenstein'a yazdığı askerî vasiyette, muharebenin talihi iyi de kötü de çıksa generallerine gerekli emirleri verdiğini söyler, Sansso",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Beş gün sonra subaylarına yaptığı konuşmada, kurallara aykırı biçimde neredeyse iki kat güçlü ve yüksekte mevzilenmiş bir düşmana saldıracağını söyler ve başka ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bu ikinci metin doğrudan Friedrich'in kaleminden gelmez: belgeyi yayımlayan kurum, konuşmanın 1802 tarihli bir yayına dayandığını ve Friedrich'in söyleyişine ve",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Prusya sefere yaklaşık 100.000 askerle başlamıştı ve bunların çoğu yeni acemiydi; yılın sonunda Ruslar Kolberg'i, Avusturyalılar Schweidnitz'i aldı ve Kolberg'i",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Britanya, Friedrich barışı sağlayacak ödünleri düşünmezse para yardımını kesmekle tehdit ediyordu; Prusya orduları o sırada 60.000 kişiye inmişti.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "5 Ocak 1762'de Rus İmparatoriçesi Elizaveta öldü; Prusya yanlısı halefi Üçüncü Pyotr Doğu Prusya ile Pomeranya'nın işgaline hemen son verdi, İsveç ile ateşkese ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Bir okuma Friedrich'in kişisel enerjisini ve askerî dehasını öne çıkarır; kaynağın kendi uyarısı, Rusya'nın çekilmesinden ve Britanya'nın mali desteğinden gelen",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Öteki okuma, Hohenzollern hanedanının kurtuluşunu Prusya'nın savaş meydanındaki gücünden çok Rusya'nın lojistik zayıflığına bağlar — Ruslar birçok kez kazandı a",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Avrupa cephesini kapatan antlaşma 15 Şubat 1763'te imzalandı ve haritayı sadece 1748'in durumuna geri döndürdü: Silezya ve Glatz Friedrich'te kaldı, Saksonya ke",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Prusya'nın Avusturya'ya verdiği tek ödün, Arşidük Joseph'in imparator seçilmesine razı olmaktı; Avusturya ne Silezya'yı geri alabildi ne de kayda değer bir topr",
       "durum": "OK",
       "not": "1 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bu reformun etkisi savaşın kendisinden uzun sürdü: kurulan ikmal sistemi, Rusların 1787–1792'deki Osmanlı savaşı sırasında Balkanlar'a ilerlemesini, Mareşal Ale",
-      "durum": "OK",
-      "not": "6 atom doğrulandı; 2 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynağın \"küresel savaş\" nitelemesi, savaşın Avrupa dışındaki cephelerini de kapsar.",
+      "iddia": "Dördüncü maddeyle Fransa, Nova Scotia ya da Acadia üzerindeki bütün iddialarından vazgeçti ve Kanada'yı Cape Breton adasıyla birlikte Britanya'ya devretti; yedi",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k2",
-      "iddia": "Grenville, ek gelir sağlamak için sömürgelere damga vergisi konmasının gerekli olabileceğini belirtti ve Parlamento Damga Yasası'nı Mart 1765'te kabul etti; yas",
+      "anahtar": "k1",
+      "iddia": "Britanya'nın Kanada'da Katolik ibadetine tanıdığı serbestlik ise koşulsuz değildir: metin bunu \"Britanya yasalarının izin verdiği ölçüde\" kaydıyla sınırlar ve a",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Britanya Guadeloupe, Marie-Galante, Désirade, Martinique ve Belle-Île'i Fransa'ya iade etti, buna karşılık Grenada ile Grenadinleri aldı; tarafsız sayılan adala",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Batı Afrika'da Gorée Fransa'ya geri verilirken Senegal nehri, St. Louis, Podor ve Galam kaleleriyle birlikte Britanya'ya geçti.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Kaynağın okuması, Fransa'nın Yeni Fransa ile Karayip şeker adaları arasında seçim yapmak zorunda kaldığında adaları tuttuğu ve Yeni Fransa'yı verimsiz, masraflı",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hindistan'da metin, Fransa'nın 1749 yılı başında elinde bulunan ticaret merkezlerini bulundukları hâlleriyle iade etti, Fransa'nın o tarihten sonra Koromandel v",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
-      "iddia": "Aynı dönemde 1763 Kraliyet Bildirisi, Apalaş Dağları ile Mississippi Nehri arasındaki toprakları sömürge yerleşimine kapalı ilan etti.",
+      "iddia": "7 Ekim 1763 tarihli Kraliyet Bildirisi, antlaşmayla elde edilen yerlerde Quebec, Doğu Florida, Batı Florida ve Grenada adlı dört ayrı yönetim kurdu ve savaşta h",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı metin, kendisine devredilmemiş ya da satın alınmamış toprakların yerli halklara ayrıldığını ilan etti, buralarda önceden özel izin ve ruhsat alınmadıkça he",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yasağın kalıcı olduğu söylenmedi: metin bunu \"şimdilik ve bizim başkaca dileğimiz bilininceye kadar\" kaydıyla verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Savaş sırasında iç vergiler önemli ölçüde artmış ve toplam devlet borcu neredeyse ikiye katlanmıştı; Britanya 1763'te Kuzey Amerika'da 10.000 kişilik daimî bir ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyondur.",
+      "iddia": "Yükün bir bölümünün sömürgelere aktarılması kararı 1764 tarihli Şeker Yasası'nın giriş bölümünde açıkça yazılıdır: metin, Majestelerinin Amerika'daki toprakları",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Kullanılan iktisat tarihi maddesi, kopuşu tek bir vergi kararına değil iki ayrı siyaset değişikliğine bağlar: batıdaki toprak siyaseti ile vergi siyaseti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Dahası sömürgelilerin kendileri 1774'te Parlamento'dan on üç yasanın geri alınmasını isterken listeyi 1763 sonrasıyla sınırladılar ve savaşın bitiminden önceki ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Bu savaşa \"ilk dünya savaşı\" denmesi yaygındır ve akademik yazında da dolaşır: Brill'in 2012'de yayımladığı The Seven Years' War derlemesinin ilk yirmi bir sayf",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Nitelemeyi destekleyen yan ölçülebilir: çarpışma Avrupa, Kuzey Amerika, Karayipler, Güney Amerika, Batı Afrika, Hindistan ve Filipinler'e yayılmıştı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Kaynak Osmanlı'nın uzak duruşunu mutlak da saymaz: 1763'te 100.000 askerle giriştiği başarısız Macaristan seferini savaşın sonuna katkıda bulunmuş sayar.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üstelik Paris Antlaşması, kendi temeli olarak 1648 Vestfalya'dan 1750 Madrid'e uzanan bir antlaşma dizisini — Nimeguen, Ryswick, Utrecht, Baden, Viyana ve Aix-l",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "1759'da yayımlanan Candide'de Voltaire'in kişisi Martin, iki ulusun Kanada'da \"birkaç akre kar\" için savaştığını ve bu güzel savaşa Kanada'nın değerinden çok da",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı bölümde Portsmouth'ta gözleri bağlı kurşuna dizilen amirali görürler ve bunun sebebi olarak, bu ülkede zaman zaman bir amiral öldürmenin ötekileri yüreklen",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı editör Voltaire'in bu yargısını tuhaf biçimde beceriksiz bir eleştiri sayar ve Voltaire'in aynı sözü Anılar'ında da tekrarladığını kaydeder — yani karlı to",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Giriş kapısı olarak kullanılan kaynak Prusya için 180.000, Britanya için 160.000, Fransa için 200.000, Avusturya için 165.000, Rusya için 120.000, İspanya için ",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Britanya rakamı da yalnız Britanya'yı saymaz: Hannover, Hessen-Kassel, Braunschweig-Wolfenbüttel ve Schaumburg-Lippe gibi küçük Alman ordularının ölülerini içer",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Asker mevcutları için de aynı uyarı geçerlidir: kaynağın verdiği toplamlar Avrupa'da toplanan askerleri sayar, sömürge birliklerini, milisleri, garnizon askerle",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Aynı kaynak birkaç satır ötede Prusya'nın savaştan önemi artık tartışılamayacak bir büyük güç olarak çıktığını da yazar; iki yargıyı yan yana bırakır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Prusya"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Britanya tarafında da kazanç, hemen ardından gelen bir maliye ve yönetim sorununa dönüştü.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Silezya'nın 1749'da bir dış siyaset programına dönüşmesi, 1754'te Ohio vadisindeki bir baskın, 1763'te iki ayrı masada imzalanan iki ayrı barış ve 1764'te bir v",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Silezya'nın 1749'da bir dış siyaset programına dönüşmesi, 1754'te Ohio vadisindeki bir baskın, 1763'te iki ayrı masada imzalanan iki ayrı barış ve 1764'te bir v",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Silezya'nın 1749'da bir dış siyaset programına dönüşmesi, 1754'te Ohio vadisindeki bir baskın, 1763'te iki ayrı masada imzalanan iki ayrı barış ve 1764'te bir v",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Silezya'nın 1749'da bir dış siyaset programına dönüşmesi, 1754'te Ohio vadisindeki bir baskın, 1763'te iki ayrı masada imzalanan iki ayrı barış ve 1764'te bir v",
       "durum": "OK",
       "not": ""
     }

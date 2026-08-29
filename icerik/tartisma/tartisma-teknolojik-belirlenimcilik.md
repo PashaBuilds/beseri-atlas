@@ -33,6 +33,8 @@ ilgili:
   - kavram-kuresellesme
   - donem-15
   - olay-talas-savasi
+  - olay-arap-bahari
+  - olay-uzay-yarisi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

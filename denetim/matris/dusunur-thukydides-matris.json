@@ -1,0 +1,555 @@
+{
+  "id": "dusunur-thukydides",
+  "govde_hash": null,
+  "commit": null,
+  "zaman": "2026-08-29",
+  "hakem": "TASLAK-yazar",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Thukydides, Atina ile Sparta'nın otuz yıllık antlaşmayı neden bozduğunu anlatmaya girişirken önce iki tarafın açıkça öne sürdüğü şikâyetleri ve anlaşmazlıkları sıralar; sonra bunları bir yana koyar ve savaşın asıl nedenini ayrı bir cümleye yazar: Atina'nın büyümesi ve bunun Lakedaimonlularda yarattığı korku savaşı zorunlu kılmıştı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crawley I.23.5-6: taraflarin acikca one surdugu sikayetler once yaziliyor, ardindan 'The real cause I consider to be the one which was formally most kept out of sight. The growth of the power of Athens, and the alarm which this inspired in Lacedaemon, made war inevitable.' Cumledeki 'zorunlu kildi' Crawley'nin 'made war inevitable' ifadesinin karsiligidir."
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "En doğru olan prophasis, aynı zamanda sözde en görünmez olandır; tarafların ileri sürdükleri ise aitiai, yani açıkça dile getirilen suçlamalardır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yunanca I.23.6: 'ten men gar alethestaten prophasin, aphanestaten de logoi' ve devaminda 'hai d' es to phaneron legomenai aitiai'. Iki terimin karsitligi metinde birebir durur."
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Kendi çekincesini de düşürmez: cümledeki Yunanca fiil kanaat bildirir ve savı bir ölçüm olarak değil bir hüküm olarak sunar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni cumledeki 'hegoumai' fiili birinci tekil kanaat bildirir; iddia bu fiile dayanir, cevirinin yorumuna degil."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Crawley'nin İngilizce çevirisi de bu kaydı koruyup asıl nedeni bence diye niteler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crawley'nin karsiligi 'The real cause I consider to be...' — 'I consider' kaydi Gutenberg tam metninde durur."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Thukydides kendinden önceki anlatı geleneğiyle açıkça hesaplaşır: insanların geçmişe dair aktarımları sınamadan, ellerine geçen ilk hikâyeyi alarak kabul ettiklerini yazar ve kendi çıkarımlarının, zanaatının abartısını sergileyen bir ozanın dizeleriyle ya da doğruluk pahasına çekici olan vakanüvis derlemeleriyle sarsılmayacağını söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "I.20-21: 'So little pains do the vulgar take in the investigation of truth, accepting readily the first story that comes to hand' ve 'the lays of a poet displaying the exaggeration of his craft, or... the compositions of the chroniclers that are attractive at truth's expense'. Herodotos'un o kusakta sayilmasi metnin degil dosyanin cikarimidir ve metinde de cikarim olarak sunulmustur."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Gerekçesi de kayıtlıdır: o anlatıların konusu kanıtın erişemeyeceği yerdedir ve zaman çoğunu efsane bölgesine yerleştirerek tarihsel değerinden etmiştir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "I.21: 'the subjects they treat of being out of the reach of evidence, and time having robbed most of them of historical value by enthroning them in the region of legend.'"
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Thukydides kendi sonuçlarına da aynı ölçütü uygular ve eskiliğin izin verdiği kadar kesin olduklarını söylemekle yetinir; kendi çıkarımlarının güvenle dayanak alınabileceğini söylerken bile araya inanma fiilini koyar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "I.21: 'the conclusions I have drawn from the proofs quoted may, I believe, safely be relied on' ve 'conclusions as exact as can be expected in matters of such antiquity'. Kaynagin 'I believe' cekincesi cumleye tasindi."
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Thukydides konuşmaların bir bölümünü kendisinin dinlediğini, bir bölümünü başkalarından aldığını, hepsini kelimesi kelimesine akılda tutmanın güç olduğunu yazar; bu yüzden konuşmacılara, koşulların kendilerinden istediğini söyletmeyi âdet edinmiştir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "I.22: konusmalarin bir bolumunu kendisi dinledi, bir bolumunu baskalarindan aldi; kelimesi kelimesine akilda tutmak guctu; 'my habit has been to make the speakers say what was in my opinion demanded of them by the various occasions'."
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Aynı cümlenin ikinci yarısı, gerçekte söylenenlerin genel anlamına elden geldiğince sadık kalındığını da ekler ve kısıtı koyar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni cumlenin ikinci yarisi: 'of course adhering as closely as possible to the general sense of what they really said'. Kisit kaynakta ayni cumlenin icindedir ve metne birlikte tasindi."
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Eline geçen ilk kaynağa yaslanmayı reddettiğini, kendi izlenimlerine bile güvenmediğini, anlatının bir bölümünün kendi gördüklerine bir bölümünün başkalarının gördüklerine dayandığını ve her aktarımın sınandığını söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "I.22: 'far from permitting myself to derive it from the first source that came to hand, I did not even trust my own impressions, but it rests partly on what I saw myself, partly on what others saw for me, the accuracy of the report being always tried by the most severe and detailed tests possible'."
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Zorluğun nedenini de yazar: aynı olayı gören tanıklar birbirini tutmaz, bazen hafıza eksik kaldığı için bazen de taraflardan birine duyulan yakınlık yüzünden.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "I.22: 'the want of coincidence between accounts of the same occurrences by different eye-witnesses, arising sometimes from imperfect memory, sometimes from undue partiality for one side or the other'."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Metnin okurunu kaybedebilecek olmasını da hesaba katmıştır; anlatısında masalsılık bulunmayışının ilgiyi bir ölçüde azaltacağından korktuğunu söyler, ama işini anın alkışını toplayacak bir deneme olarak değil \"her zaman için bir mülk\" olarak yazdığını ekler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "I.22: 'The absence of romance in my history will, I fear, detract somewhat from its interest' ve 'not as an essay which is to win the applause of the moment, but as a possession for all time'. Tirnakli aktarim yalnizca ikinci ifadeye uygulandi."
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Konuşmaları kimin kurduğu sorusunu okura bırakmaz, cevabı daha savaşın anlatısına başlamadan verir; böylece metnin en edebî bölümlerini kanıt diye kullanacak herkesi uyarmış olur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "I.22 metnin anlatisindan ONCE gelir ve konusmalarin nasil kuruldugunu orada bildirir; bu kadari k1'de dogrudan durur. 'Herkesi uyarmis olur' ise dosyanin cikarimidir, kaynagin ifadesi degil — bu yuzden destek kismi."
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Thukydides savaşı baştan sona yaşadığını, olayları kavrayacak yaşta olduğunu ve tam olarak ne olduğunu bilmek için dikkatini onlara verdiğini yazar; ardından Amphipolis'teki komutanlığından sonra yirmi yıl yurdundan sürgün kaldığını, her iki tarafın yanında bulunduğunu ve sürgünü nedeniyle daha çok Peloponneslilerle birlikte olduğunu ekler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "V.26: 'I lived through the whole of it, being of an age to comprehend events, and giving my attention to them in order to know the exact truth about them. It was also my fate to be an exile from my country for twenty years after my command at Amphipolis; and being present with both parties, and more especially with the Peloponnesians by reason of my exile'."
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Bu son cümlede de bir çekince vardır: gözlem için elde ettiği fırsatı bir ölçüde ayrıntılı sayar, sınırsız değil.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ayni cumlenin sonu: 'I had leisure to observe affairs somewhat particularly.' 'somewhat' cekincesi metne 'bir olcude' diye tasindi; kaynak sinirsiz bir gozlem imkani iddia etmez."
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Hastalığın nedeni üzerine hüküm vermeyi başkalarına bırakır, kendi işini belirtileri kaydetmekle sınırlar ve bunu daha iyi yapabileceğini söyler: hastalığı kendisi geçirmiş, başkalarında da seyrini izlemiştir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "II.48: hastaligin nedeni uzerine hukmu baskalarina birakir, belirtileri kaydetmekle yetinir, 'This I can the better do, as I had the disease myself, and watched its operation in the case of others.'"
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Kleon kararın değiştirilmemesini savunur ve savını demokrasinin imparatorluğu yönetmeye elverişsiz olduğu iddiasıyla açar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "III.36-37: 'Cleon, son of Cleaenetus, the same who had carried the former motion of putting the Mitylenians to death' ve konusmanin acilisi 'I have often before now been convinced that a democracy is incapable of empire'. Sav Kleon'un agzindadir, Thukydides'in kendi hukmu degildir; metinde de oyle verildi."
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Karşısına çıkan Diodotos ise tartışmanın zeminini değiştirir: bir mahkeme salonunda değil bir siyasal mecliste bulunduklarını, sorunun adalet değil Mytilenelileri Atina için yararlı kılmanın yolu olduğunu söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "III.44: 'we are not in a court of justice, but in a political assembly; and the question is not justice, but how to make the Mitylenians useful to Athens'."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Kararı taşıyan ikinci gemi Mytilene'ye, komutan Paches buyruğu okuyup infaza hazırlanmışken varır; kıyım önlenir, ama ayaklanmanın elebaşı sayılıp Atina'ya gönderilenler yine öldürülür — kaynak sayıyı bin kişiden biraz fazla diye verir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "III.49-50: ikinci gemi 'the first arrived so little before them, that Paches had only just had time to read the decree, and to prepare to execute the sentence, when the second put into port and prevented the massacre'; ardindan 'the prime movers in the rebellion, were upon Cleon's motion put to death by the Athenians, the number being rather more than a thousand'. Kaynagin 'rather more than' kaydi 'bin kisiden biraz fazla' diye tasindi ve olenlerin kentin tamami degil Atina'ya gonderilenler oldugu belirtildi."
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Thukydides'in metninde yarar, adaletin karşıtı olarak değil onun yerini alan bir dil olarak iş görür; Mytilene'yi kurtaran da adalet savı değil, Diodotos'un tartışmayı taşıdığı bu ikinci dildir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Diodotos'un tartismayi adalet zemininden yarar zeminine tasidigi III.44'te dogrudan durur (k1). 'Yarar adaletin yerini alan bir dil olarak is gorur' genellemesi dosyanin okumasidir; kaynak boyle bir kural koymaz, bu yuzden destek kismi."
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Orada bulunan Atinalı elçiler, kendilerine sunulan imparatorluğu kabul etmelerinin ve baskı altında ondan vazgeçmemelerinin şaşılacak ya da insanların alışılmış davranışına aykırı bir iş olmadığını söyler; üç güçlü saikin adını da verirler: korku, onur ve çıkar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "I.76: 'if we did accept an empire that was offered to us, and refused to give it up under the pressure of three of the strongest motives, fear, honour, and interest'. Cumle Atinali elcilerin savunmasidir; metinde konusma olarak isaretlendi."
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Ardından örneği kendilerinin başlatmadığını, zayıfın güçlüye tabi olmasının hep kural olduğunu eklerler ve Spartalıları, çıkar hesapları işlerine gelmez hâle geldiği için adalet çağrısına sarılmakla suçlarlar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "I.76 devami: 'it was not we who set the example, for it has always been law that the weaker should be subject to the stronger' ve 'when calculations of interest have made you take up the cry of justice'."
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Atinalı elçiler, hakkın ancak eşit güçler arasında söz konusu olduğunu, geri kalan durumda \"güçlü olan yapabildiğini yapar, güçsüz olan çekmesi gerekeni çeker\" diye özetlerler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "V.89: 'right, as the world goes, is only in question between equals in power, while the strong do what they can and the weak suffer what they must'. Tirnakli aktarim Crawley'nin ikinci yarisidir."
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Diyalogun ardından gelen anlatı sonucu bildirir: kent teslim olur, yakalanan yetişkin erkekler öldürülür, kadınlar ve çocuklar köle olarak satılır, adaya beş yüz yerleşimci gönderilir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "V.116: 'the Melians surrendered at discretion to the Athenians, who put to death all the grown men whom they took, and sold the women and children for slaves, and subsequently sent out five hundred colonists and inhabited the place themselves'."
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Sayfanın editör notu bir çekince ekler — Ksenophon'a göre bazı Meloslular sağ kalmış ve savaşın sonunda geri getirilmiştir; aynı not birçok araştırmacının V.24'te bir kompozisyon kopması bulunduğunu düşündüğünü de kaydeder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikisource sayfasindaki iki editor notu: 'Xenophon indicates that some Melians did survive, and were restored at the end of the war, at 2.2.9' ve 'Many scholars believe that there is a break in the composition at this point'. Notlar Thukydides'in degil sayfayi hazirlayanlarindir; metinde de editor notu olarak verildi ve 'birçok arastirmacica dusunuldugu' kaydi korundu."
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Devrimin kentten kente yayıldığını, sonradan gelenlerin öncekileri aşmaya çalıştığını yazar ve ardından şu tespiti koyar: \"Sözcükler olağan anlamlarını değiştirmek zorunda kaldı.\" Pervasız atılganlık sadık müttefikin cesareti sayılmış, ölçülülük erkeksizliğin örtüsü, her yanı görebilme hiçbir yanda davranamama olmuştur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "III.82: 'Revolution thus ran its course from city to city...' ve 'Words had to change their ordinary meaning and to take that which was now given them. Reckless audacity came to be considered the courage of a loyal ally... moderation was held to be a cloak for unmanliness; ability to see all sides of a question inaptness to act on any.'"
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Perikles'in son yıllarını anlatırken, adı demokrasi olan şeyin onun elinde birinci yurttaşın yönetimine dönüştüğünü yazar; ardından gelenlerin birbirine denk ve üstünlük peşinde olduklarını, devlet işlerini kalabalığın hevesine bıraktıklarını ve bunun Sicilya seferi de dahil bir dizi yanlışa yol açtığını ekler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "II.65: 'what was nominally a democracy became in his hands government by the first citizen' ve devaminda ardillarinin 'ended by committing even the conduct of state affairs to the whims of the multitude... and amongst them the Sicilian expedition'."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Cornford'a göre Thukydides'in yapıtı, farkında olmadan, yazıldığından çok önce zihnine yerleşmiş sanatsal ya da felsefi bir kalıba dökülmüş bir tarihtir — kitabına bu yüzden Mythistoricus sıfatını ekler ve \"bilimin işi bir sanat eserine dönüştü\" der.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cornford, onsoz ve tanim: 'By Mythistoria I mean history cast in a mould of conception, whether artistic or philosophic, which, long before the work was even contemplated, was already inwrought into the very structure of the author's mind'; onsozde 'the work of science came to be a work of art'."
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "İtirazın somut ayağı Megara kararnameleridir: Thukydides dışındaki anlatılar savaşın çıkışını bütünüyle bu kararnameler üzerinden kurar, oysa Thukydides üç kararnamenin hiçbirini kaydetmez, Megara ilişkilerini arka planda tutar ve Perikles'in bu işlerle bağını yazmaz.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cornford'un cozumlemeli icindekiler dokumu, III. bolum: 'non-Thucydidean accounts of the outbreak of war make the negotiations turn solely on the Megarian decrees. Thucydides records none of these three decrees and keeps Megarian affairs in the background, suppressing Pericles' connexion with them.' Ozetin kendisi Cornford'un savidir; kanit bolumun govdesindedir ve buradan okunmadi."
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Cornford bunu ticari bir siyasetin gizlenmesi olarak okur; bu okuma 1907'den bu yana çok tartışılmıştır ve burada güncel bir uzlaşı olarak değil bir konum olarak durur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cumlenin ilk yarisi (ticari siyasetin gizlenmesi okumasi) k5'te dogrudan durur; ikinci yarisi ('1907'den bu yana cok tartisilmistir', 'guncel uzlasi degildir') k5'in tasidigi bir iddia degil, kaynagin tarihine dayanan bir cekincedir. Bu yuzden destek kismi isaretlendi."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Kitabın kendi çözümlemeli içindekiler dökümünde Melos Diyalogu, tarafların savlarını tartan bir sahne olarak değil, hastalıklı bir ruh hâlini anlatmak üzere kurulmuş bir bölüm olarak sayılır; Alkibiades'in Thukydides'teki tasviri ise mitik sayılır ve Alkibiades'in bir olaydaki payının metinde atlandığı kaydedilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ayni cozumlemeli dokum, X ve XI. bolumler: 'The dialogue... is designed to express a pathological state of...' ve 'Thucydides' conception of Alcibiades is mythical' ile 'Alcibiades' part in this incident is omitted by Thucydides'. Metinde bunlarin kitabin kendi ozet dokumunden geldigi soylendi."
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Bir 2025 çalışması, Thukydides'in konuşmaların nedensel etkisi konusunda bilerek belirsiz kaldığını ve bu belirsizliğin savaşın çıkışına dair anlatının merkezinde durduğunu savunur; I.23.6'daki prophasis teriminin de aynı belirsizliği taşıdığını, savaşın kendini gerçekleştiren bir kehanetle başlamış olabileceğini ileri sürer — yakın dönem çalışmalarının önerdiği kendini gerçekleştiren algı okumasının yerine.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sutton'in ozeti: 'Thucydides is deliberately enigmatic about the causal effects of his speeches, and that this enigma is central to understanding his account of the outbreak'; 'the war might have started through a process of self-fulfilling prophecy, rather than—as some recent scholarship has suggested—self-fulfilling perception'. Kaynagin 'yakin donem calismalarinin onerdigi algi okumasi yerine' karsitligi metne tasindi."
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Melos Diyalogu'nun anahtar cümlesi de yeniden okunuyor: bir 2026 makalesi, Atinalıların adaleti eşit zorunluluğa bağlayan sözünün uzun süredir gücün ahlaktan önce geldiğinin ilanı sayıldığını ve Atinalıların böylece örnek siyasal gerçekçiler ilan edildiğini söyleyip bu okumaya itiraz eder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Fisher'in ozeti: 'Interpreters have long assumed it to be a statement of power's priority over ethics, thus identifying the Athenians as prototypical political realists. In this article, however, I challenge this reading'. Makale itirazi ileri surer; metinde de uzlasi degil itiraz olarak verildi."
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Cornell University Press'in bu soruya ayrılmış kitabının özeti, iki düşünürün de gerçekçiliğin sınırlarına tam oturmadığını kabul eder, Hobbes'un felsefesinin gerçekçiliğe Thukydides'inkinden daha yakın durduğunu öne sürer ve Thukydides'in yanlış anlaşıldığını, aslında gerçekçiliğe alternatif bir yaklaşım sunduğunu savunur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Johnson kitabinin ozeti: 'While acknowledging that neither thinker fits perfectly within the confines of international relations realism, the author proposes Hobbes's philosophy is more closely aligned with it than Thucydides''; 'Thucydides has been misunderstood and... he actually provides an interesting alternative approach to realism'. 'Tam oturmadigini kabul eder' ifadesi kaynagin kendi cekincesidir."
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "2024 tarihli bir değerlendirme, benzetmenin kötü tarih ve kötü kuram olduğu suçlamasının haklı bulunduğunu ama meselenin asıl ağırlığının başka yerde durduğunu söyler: kalıp, tarif ettiği iki hükûmetin de söz dağarına girmiştir ve Xi Jinping kavramı 2014, 2015, 2023 ve 2024'te açıkça ele almıştır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Khan ve Zafar'in ozeti: 'It has been criticized as bad history and bad theory, and on both counts, the charge sticks, but this article argues that they no longer touch the most significant problem' ve 'Xi Jinping engaged the concept publicly in 2014, 2015, 2023, and 2024'. Ozetin sirasi korundu: suclama kabul edilir ama asil sorun baska yerde sayilir. SINIR: kucuk bir dergi; kunye notunda belirtildi."
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Öznelerinin okuyup etrafından dolaşmaya çalıştığı bir yapısal kuram, yapısal kuramların iddia ettiği işi yapmıyordur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ayni ozet: 'A structural theory whose subjects have read it and are consciously navigating around it is not doing what structural theories claim to do.'"
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Metinde bir güç geçişi modeli yoktur; antlaşmanın neden bozulduğuna dair, yazarının kanaat olarak imzaladığı bir hüküm vardır ve bu hükmün yanına tarafların kendi gerekçeleri de bütünüyle yazılmıştır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k4 cumlenin ikinci yarisini tasir: I.23.5-6'da 'tas aitias proegrapsa proton' (gerekceleri once yazdim) ve 'hegoumai' (kanaat). 'Metinde bir guc gecisi modeli yoktur' olumsuz bir cikarimdir ve tek bir bolume bakilarak kanitlanamaz; bu yuzden destek kismi isaretlendi."
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Metnin kendisi bu kullanımı taşımaz: Thukydides bir yasa değil bir kanaat yazdı, konuşmaları kendisinin kurduğunu okura ilan etti ve gücün dilini konuşanları kazanan olarak değil sonuçlarıyla birlikte gösterdi.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Uc yan cumlenin kaynaklari ayri: 'kanaat yazdi' I.23.6'daki hegoumai fiiline dayanir ama 'metnin kendisi bu kullanimi tasimaz' olumsuz bir cikarimdir, bu yuzden k4 kismi; 'konusmalari kendisinin kurdugunu ilan etti' I.22'de dogrudan (k1); 'sonuclariyla birlikte gosterdi' Melos Diyalogu'nun hemen ardindan gelen V.116 anlatisina dayanir (k2)."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 34,
+    "kismi": 4,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

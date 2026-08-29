@@ -1,75 +1,291 @@
 {
   "id": "dusunur-durkheim",
   "gecis": 2,
-  "zaman": "2026-08-29T19:34:17.355Z",
-  "govde_hash": "8d44b059750c",
-  "commit": "2dc84ff",
+  "zaman": "2026-08-29T20:19:13.853Z",
+  "govde_hash": "3f3e41c91284",
+  "commit": "4a5044d",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, onun toplumbilimin meşru bir bilim olarak kabul edilmesiyle meşgul olduğunu yazar ve toplumbilimi onun için kurumlar bilimi olarak tanımlar; kurumu, kol",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, onun bilimsel meşruiyet kaygısını ayrıca kaydeder ve Auguste Comte'un ortaya koyduğu olguculuğu inceltiğini, bilgi kuramsal gerçekçilik sayılabilecek bi",
+      "anahtar": "k2",
+      "iddia": "Émile Durkheim'ın 1897'de yayımladığı intihar incelemesi araştırma nesnesini daha en başta daraltır: amaç, tek tek intiharların doğuşuna girebilecek bütün koşul",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bir düşünürün önce kendi alanının bilim sayılmasıyla uğraşması, bir disiplinin sınırlarının da tarihsel bir kayıt olduğunu gösterir; bu atlas kendi alan sınırla",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, onun görüşünde toplum biliminin bütüncül olması gerektiğini, yani toplumbilimin bireylerin belirli eylemleriyle sınırlı kalmak yerine bir bütün olarak t",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir yöntemin ölçek kararıyla tanımlanması, atlasın bölge ve dönem alanlarını neden ayrı ayrı tuttuğuyla aynı sorunu paylaşır: neyi tek bir birim sayacağımız bir",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak etki ve miras bölümünün altında iki alt başlık tutar: ona karşı bir çağdaş filozofun konumu ve onu savunan bir başkasının konumu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir düşünürün mirasının, kendisine karşı ve kendisini savunan iki başlıkla kaydedilmesi, atlasın tartışma dosyalarında uyguladığı biçimin ansiklopedilerde de bu",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
       "anahtar": "k2",
-      "iddia": "Aynı yüzyılda yazan bir başka toplum kuramcısı için tutulan kayıt, toplum biçimlerinin üretici gücün gelişimine göre yükselip düştüğü fikrini anlatır.",
+      "iddia": "Aynı kitapta intiharın tanımı da kasten geniştir: \"tout cas de mort qui résulte directement ou indirectement d'un acte positif ou négatif\" — kurbanın kendi eyle",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Durkheim'a göre toplum, bireysel bilinçlerin etkileşip kaynaşmasından doğan, parçalarına indirgenemeyen kendine özgü (sui generis) bir gerçekliktir; böyle bir g",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "ve ile birlikte modern toplumbilimin kurucularından sayılmasının nedeni budur; ama aynı iddia, ona yöneltilen en sert itirazların da çıkış noktasıdır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Bir önceki kuşağın yöntem yazarı için tutulan kayıt ise onu doğalcı, faydacı ve liberal olarak tanımlar.",
+      "iddia": "Yöntem kitabında toplumsal olgunun tanımı şudur: est fait social toute manière de faire — sabitlenmiş olsun olmasın, birey üzerinde dışsal bir zorlama uygulayab",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Toplumsal olgu kuramı, intihar incelemesi, din toplumbilimi ve ahlak görüşleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olar",
+      "iddia": "Buradan çıkan en çok anılan kural, toplumsal olguların şeyler gibi ele alınmasıdır: Durkheim'ın bununla kastettiği, bu olguların bilen özneden bağımsız bir varl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı kitap suçu toplumsal bir hastalık değil normal bir olgu sayar, ama normalliğin koşulunu da hemen ekler: suç, nefret edilmek koşuluyla normaldir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Durkheim yönteminin devrimci değil bir anlamda muhafazakâr olduğunu söyler, çünkü toplumsal olguları, doğaları ne kadar esnek ve yoğrulabilir olursa olsun keyfe",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir toplumun hukuk düzeni, dinsel inançları, para sistemi, giyinme biçimleri ve dili bu başlık altındadır; evlenme, doğum ve intihar oranları gibi tek tek vakal",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Zorlamanın anlamı da eser boyunca sabit kalmaz: erken metinlerde daha bastırıcı ve yükümlülük yükleyen bir niteliktedir, geç metinlerde bireyin belirli simgeler",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Toplumbilimi bilim yapma girişiminde Durkheim ilk değildi; Auguste Comte'un olguculuğundan ve Herbert Spencer'ın işlevselci çözümlemesinden öğeler devraldı, ama",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Toplumun, bireylerin bir araya gelmesiyle başladığını söyleyen sözleşme kuramcılarına ve Spencer gibi faydacılara karşı ise tersini savundu: kolektif hayat bire",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Durkheim 1887'de Bordeaux'da toplumsal bilimler ve pedagoji dersleri vermekle görevlendirildi ve böylece Fransa'daki ilk resmî toplumbilim derslerini verdi; 189",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yöntem kuralları da bu kurumsallaşmanın araçlarıdır: araştırılacak olgu kümesi açıkça sınırlandırılmalı, araştırmacı önyargılarını sistemli olarak bir yana bıra",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kitabın vardığı genel sonuç tek cümleyle söylenebilir: le suicide varie en raison inverse du degré d'intégration des groupes sociaux dont fait partie l'individu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sonuca, aile bağının, siyasal bağın ve dinsel cemaatin paylaştığı tek ortak özelliğin — Durkheim'ın kendi kaydıyla belki farklı derecelerde de olsa — hepsinin s",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Durkheim, Katolik ve Protestan nüfusların oranları arasındaki farkı iki dinin intihara ilişkin buyruklarına bağlamaz — buyruklar aynıdır; farkı, Protestanlığın ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Türler bu eksende kurulur: bireyin gruba bağlarının zayıflamasından doğan bencil intihar, aşırı bağlılıktan doğan özgeci intihar ve toplumun düzenleme gücünün ç",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Anomi, Durkheim'a göre modern toplumlarda düzenli ve özgül bir intihar etkenidir ve ötekilerden şu noktada ayrılır: bireylerin topluma nasıl bağlandığına değil,",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Dördüncü bir tür daha vardır, ama metnin gövdesinde değil bir dipnotta geçer: maddi ya da manevi baskının aşırılığından, üzerinde hiçbir şey yapılamayan kuralın",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k4",
-      "iddia": "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Intihar.",
+      "iddia": "Kopması suç sayılan ve cezayla karşılanan bağ, benzerlikten doğan mekanik dayanışmaya karşılık gelir; zararın giderilmesiyle işleyen hukuk ise iş bölümünün üret",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Intihar"
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kavram sözlüğünün merkezinde conscience collective durur: bir toplumun ortalama üyelerinde ortak olan inanç ve duyguların oluşturduğu, kendi hayatı olan belirli",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Değişimin itici gücü, Durkheim'ın ahlaki ya da dinamik yoğunluk dediği şeydir: insanların birbiriyle anlamlı biçimde temas etme sıklığı: nüfus artışı ve iletişi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şu ayrıntı çoğu özette kaybolur: mekanik ve organik dayanışma terimleri yalnızca erken dönemine aittir; işbölümü kitabından kısa süre sonra bu terimleri bıraktı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Seçim yöntemseldir — dinin özsel öğelerinin en yalın biçimde görünmesi umulur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Tanım üç öğe taşır: kutsal, yani ayrılmış ve yasaklanmış şeylere ilişkin birleşik bir inançlar ve pratikler sistemi ve bunlara bağlanan herkesi tek bir ahlaki c",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kutsal nesne, topluluğun kendi gücünün başkalaşmış hâlidir; din, toplumun kendine tapmasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Buradan çıkan sonuç yalnızca dini ilgilendirmez: Durkheim Avrupa'nın geldiği yeri anlatırken \"the old gods are growing old or already dead\" der ve yenilerinin h",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Onun teşhisi bir boşluk teşhisidir: eski kurumlar dağılmış, yerlerine yenileri kurulamamıştır; bu boşluğu dolduracağını umduğu yeni kutsal ise birey kişiliğidir",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çözümleme itirazsız da kalmadı: eleştirmenler yöntemini, etnografik veriyi yorumlayışını ve geleneksel dini temelinden oynatışını birlikte sorgular.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Durkheim bunun sorunlu olabileceğini biliyordu: bir dipnotta İngiliz intihar istatistiğinin pek doğru olmadığını, intihara bağlı cezalar yüzünden birçok vakanın",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İngiliz"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Grup düzeyindeki bağıntılarla bireylerin davranışı arasındaki geçiş sorunu, W. S. Robinson'ın 1950'de American Sociological Review'da yayımladığı yazının başlığ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Durkheim'a uygulanışı 1996'da aynı dergide açık bir sınamaya dönüştü: Frans van Poppel ile Lincoln H. Day'in yazısı, kuramı ekolojik yanılgıya düşmeden sınadığı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Tartışma orada kapanmadı; 1998'de yine aynı dergide çıkan Miles Simpson imzalı yanıt soruyu tersine çevirir ve ekolojik yanılgıya Durkheim'ın mı düştüğünü, yoks",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kaydın kendisine yönelen itiraz ayrı bir çizgidir ve adı Jack D. Douglas'la anılır; Princeton University Press'in kaydettiği kitabının başlığı, incelenecek şeyi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bilgi kuramına yönelen bir itirazı ise Steven Lukes yazdı: Durkheim, kategorileri açıklarken düşünme yetisi ile o yetinin içeriğini ayırmaz; zamanı belirli ölçü",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birincisi, toplumsal olguların bütün bireylerin dışında ve onlardan bağımsız var olduğunu, yani bir tür metafizik grup zihni bulunduğunu söylediği iddiasıdır; D",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkincisi, toplumsal değişme kuramı olmadığı iddiasıdır; oysa Avrupa'nın ortaçağ toplumundan modern sanayi toplumuna geçişi eserinin baştan sona izlediği sorular",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Durkheim Dreyfus'u savundu, İnsan Hakları Ligi'nin kurucu üyelerindendi ve Birinci Dünya Savaşı sırasında Almanya karşıtı propaganda broşürleri yazan bir konum ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Marx'ı bilim dışı ve dogmatik bulmasına, marksizmi de gereksiz yere çatışmacı saymasına rağmen bir dizi sosyalist reformu destekledi, ama hiçbir partiye bağlanm",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savaş en umut verici öğrencilerinin çoğunu aldı, oğlu André cephede öldü; kendisi 1917'de öldü ve ahlak üzerine yazacağı son kitap bir giriş taslağıyla kaldı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birincisi zihin felsefesi ve toplumbilim felsefesidir: onun sui generis kavramı, 1960'larda ortaya çıkan beliriş (emergence) kavramına benzetiliyor ve bu alanla",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkincisi ayin ve coşku çözümlemesidir: Randall Collins bunu bir mikro-toplumbilime ve bir çatışma kuramına dönüştürdü, Jeffrey Alexander ile Philip Smith ise ge",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üçüncüsü siyaset kuramıdır: birey kişiliğinin kutsallaşması tezinin 1948'de kabul edilen İnsan Hakları Evrensel Bildirisi'yle ve John Rawls'un siyasal liberaliz",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "tartışmasında Weber'in meşru otorite tipolojisiyle karşılaştırıldığında Durkheim'ın konumu farklıdır: otoritenin meşruiyeti onda ahlakidir, yani açıkça bir değe",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Toplumsal olguları şeyler gibi ele alma kuralı ise en çok, dayandığı sayıların nasıl üretildiği sorulduğunda sınanıyor — Durkheim'ın bir dipnotta görüp geçtiği ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Toplumsal olguları şeyler gibi ele alma kuralı ise en çok, dayandığı sayıların nasıl üretildiği sorulduğunda sınanıyor — Durkheim'ın bir dipnotta görüp geçtiği ",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

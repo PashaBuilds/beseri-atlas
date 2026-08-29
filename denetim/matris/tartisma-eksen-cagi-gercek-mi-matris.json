@@ -1,7 +1,7 @@
 {
   "id": "tartisma-eksen-cagi-gercek-mi",
   "govde_hash": "2e2443c45649",
-  "commit": "58a10ea",
+  "commit": "9181554",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -105,7 +105,7 @@
     },
     {
       "iddia_id": "e8",
-      "cumle": "yüzyıldan beri, başta Anquetil-Duperron olmak üzere birçok yazarca fark edilmişti; Jaspers, Victor von Strauß'un 1859 ve Ernst von Lasaulx'nun 1870 tarihli çalışmalarını anar ama John Stuart Stuart-Glennie'nin 1873'te kurduğu ve ahlak devrimi adını verdiği ayrıntılı kuramdan habersizdi.",
+      "cumle": "Gözlemin kendisi Jaspers'ten eskidir: farklı bölgelerde düşünürlerin eşzamanlı ortaya çıkışı 18. yüzyıldan beri, başta Anquetil-Duperron olmak üzere birçok yazarca fark edilmişti; Jaspers, Victor von Strauß'un 1859 ve Ernst von Lasaulx'nun 1870 tarihli çalışmalarını anar ama John Stuart Stuart-Glennie'nin 1873'te kurduğu ve ahlak devrimi adını verdiği ayrıntılı kuramdan habersizdi.",
       "onem": "destek",
       "tur": "tarih",
       "kaynaklar": [
@@ -481,5 +481,11 @@
     "kismi": 8,
     "desteksiz": 0,
     "olculemez": 3
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "12 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

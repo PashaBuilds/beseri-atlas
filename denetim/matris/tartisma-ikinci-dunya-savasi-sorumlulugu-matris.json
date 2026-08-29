@@ -1,7 +1,7 @@
 {
   "id": "tartisma-ikinci-dunya-savasi-sorumlulugu",
   "govde_hash": "d83082058696",
-  "commit": "58a10ea",
+  "commit": "9181554",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -655,5 +655,11 @@
     "kismi": 5,
     "desteksiz": 0,
     "olculemez": 0
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "4 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

@@ -1,647 +1,653 @@
 {
- "id": "tartisma-karsi-olgusal-tarih",
- "govde_hash": "9eb8eecd75b5",
- "commit": "7549ec6",
- "zaman": "2026-08-29",
- "hakem": "kor-hakem-2026-08-29",
- "iddialar": [
-  {
-   "iddia_id": "i001",
-   "cumle": "Alanın başvuru kaydı bunu tarih yazımının bir biçimi diye tanımlar; amacını, olanı anlamak için olmayanı ya da olabilecek olanı düşünmek olarak verir ve sayfanın başında sahte tarihle, alternatif tarihle ve tarihsel kurguyla karıştırılmaması gerektiğini belirtir.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
+  "id": "tartisma-karsi-olgusal-tarih",
+  "govde_hash": "9eb8eecd75b5",
+  "commit": "9181554",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
     {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Tanim ve tur uyarisi kaynak sayfasinin acilis paragrafinda ve baslik ustu uyarisinda birebir gecer."
-  },
-  {
-   "iddia_id": "i002",
-   "cumle": "Ayrım kolay değildir, çünkü aynı uğraş kendi edebî türünü de doğurmuştur: alternatif tarih, spekülatif tarih, allohistorya ve varsayımsal tarih adlarıyla anılan tür.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Turun dort adlandirmasi kaynak metninde sirali olarak verilir."
-  },
-  {
-   "iddia_id": "i003",
-   "cumle": "Karşı-olgusal koşullar üzerine tutulan felsefe kaydı bu bağı açık eder: nedensel iddiaların karşı-olgusal iddialar olduğu çözümlemesini David Hume'a (1748) dayandırıp David Lewis'e (1973) bağlar ve tarihi, karşı-olgusalların kurucu rol oynadığı alanlar arasında sayar.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k2",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Hume-Lewis soy agaci ve tarihin sayildigi alan listesi girisin ilk paragrafinda ve 2.1 bolumunde gecer."
-  },
-  {
-   "iddia_id": "i004",
-   "cumle": "Tarih felsefesi için tutulan bir başka kayıt aynı şeyi tarihçinin diliyle söyler: karşı-olgusallar uzun zamandır sağduyusal bir kalıpla kullanılmıştır — \"A olmasaydı B hiç olmazdı\".",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k3",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Kalibin ingilizcesi kaynakta aynen bulunur; Turkce karsiligi cevirisidir."
-  },
-  {
-   "iddia_id": "i005",
-   "cumle": "Karşı-olgusal tarih kendisini, olumsuzladığı olaya duyduğu ilgiyle ayırır: amaç, olumsuzlanan olayın göreli tarihsel ağırlığını değerlendirmektir ve sonraki değişiklikler ancak genel hatlarıyla çizilir.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Ayrimin olcutu kaynagin \"Differences from alternate history\" bolumunde tanimlanir."
-  },
-  {
-   "iddia_id": "i006",
-   "cumle": "Alternatif tarih yazarı ise tersine, olumsuzlanan olaydan doğan varsayımsal olaylar dizisiyle ilgilenir ve çok özgül olaylar ile kişiler icat etmekte serbesttir.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Ayni bolumun karsit tarifi."
-  },
-  {
-   "iddia_id": "i007",
-   "cumle": "Sınırın bulanıklaştığı da kabul edilir; kayıt, Kim Stanley Robinson'ın romanındaki bir kişinin tarihçilerin karşı-olgusal kullanımını yararsız bir alıştırma diye küçümsemesini örnek verir.",
-   "onem": "renk",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Romandaki kisinin nitelemesi kaynakta aktarilmis bicimiyle alinmistir; ikincil aktarimdir."
-  },
-  {
-   "iddia_id": "i008",
-   "cumle": "dizisini anar; kitaplar, belirleyici bir anda kaderin küçük bir dönüşünün zamanın kayıtlarını değiştirebileceği fikri etrafında tarihçilerin ve tanınmış yazarların denemelerini toplar.",
-   "onem": "renk",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Cumle bolucusu baslik icindeki soru isaretinde kestigi icin parca gorunuyor; tam cumle Cowley dizisini anmaktadir."
-  },
-  {
-   "iddia_id": "i009",
-   "cumle": "Öte yanda aynı kayıt akademik kullanımı örnekler: William Thompson, neredeyse bin yıl boyunca küreselleşme süreçlerini yürüten sekiz öncü ekonomi için bir karşı-olgusal dizisi kurar ve her aktörün sırayla alışılmadık ölçüde kritik bir rol oynadığını savunur.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Thompson ornegi kaynakta \"some scholars argue\" cercevesiyle aktarilir; cerceve korunmustur."
-  },
-  {
-   "iddia_id": "i010",
-   "cumle": "Kayda göre erken bir karşı-olgusal tarih kitabı 1931 tarihli If It Had Happened Otherwise'dır; kitapta Winston Churchill'in Gettysburg Muharebesi üzerine bir metni bulunur ve muharebe 1863 tarihlidir.",
-   "onem": "destek",
-   "tur": "tarih",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "1931 ve 1863 tarihleri kaynak metninde acik."
-  },
-  {
-   "iddia_id": "i011",
-   "cumle": "Aynı kayıt bu kitabın alternatif tarih parçaları taşıdığını yazar: anlatı tonu kaprise kaçar, ne tarihsel çözümleme ne de senaryoların ardındaki mantık sunulur.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Kaynagin kitaba yonelttigi elestirinin aktarimi."
-  },
-  {
-   "iddia_id": "i012",
-   "cumle": "Robert Fogel'in 1964'te Johns Hopkins Press'ten çıkan, xv + 296 sayfalık Railroads and American Economic Growth: Essays in Econometric History çalışması, ABD'de demiryolu hiç olmasaydı ekonominin ne olacağını nicel yöntemlerle sorar.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k5",
-     "destek": "dogrudan"
+      "iddia_id": "i001",
+      "cumle": "Alanın başvuru kaydı bunu tarih yazımının bir biçimi diye tanımlar; amacını, olanı anlamak için olmayanı ya da olabilecek olanı düşünmek olarak verir ve sayfanın başında sahte tarihle, alternatif tarihle ve tarihsel kurguyla karıştırılmaması gerektiğini belirtir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tanim ve tur uyarisi kaynak sayfasinin acilis paragrafinda ve baslik ustu uyarisinda birebir gecer."
     },
     {
-     "anahtar": "k7",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Yil, yayinevi ve sayfa sayisi degerlendirme yazisinin kunye satirinda; k7 yalniz katalog kaydi oldugu icin kismi."
-  },
-  {
-   "iddia_id": "i013",
-   "cumle": "Lance Davis'in değerlendirme yazısına göre kitabın iki tarım bölümü açık bir karşı-olgusal kurar — demiryolu olmasaydı dünyanın nasıl görüneceği — ve toplumsal tasarruf kavramını, yani gerçek dünya ile karşı-olgusal dünya arasındaki toplumsal maliyet farkını işlemsel biçimde tanımlar.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k5",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Acik karsi-olgusal ve toplumsal tasarrufun islemsel tanimi degerlendirme yazisinda birebir."
-  },
-  {
-   "iddia_id": "i014",
-   "cumle": "Aynı değerlendirmeye göre açık karşı-olgusal fikri 1960'ların başında tarihçilerin çoğu için hâlâ yabancı bir kavramdı.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k5",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Degerlendirmenin kendi tespiti; donem yargisi olarak aktarilmistir."
-  },
-  {
-   "iddia_id": "i015",
-   "cumle": "Sonuç, tartışmanın en çok anılan sayısıdır: aktarılan hesaba göre 1 Ocak 1890'da ulaşılan kişi başı gelir düzeyine, demiryolu hiç icat edilmemiş olsaydı 31 Mart 1890'da ulaşılacaktı.",
-   "onem": "merkezi",
-   "tur": "sayi",
-   "kaynaklar": [
-    {
-     "anahtar": "k5",
-     "destek": "dogrudan"
+      "iddia_id": "i002",
+      "cumle": "Ayrım kolay değildir, çünkü aynı uğraş kendi edebî türünü de doğurmuştur: alternatif tarih, spekülatif tarih, allohistorya ve varsayımsal tarih adlarıyla anılan tür.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Turun dort adlandirmasi kaynak metninde sirali olarak verilir."
     },
     {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Iki tarih hem degerlendirme yazisinda hem ansiklopedi maddesinde ayni bicimde gecer."
-  },
-  {
-   "iddia_id": "i016",
-   "cumle": "Bölgeler arası taşımada demiryolunun sağladığı toplumsal tasarruf, aynı hesaba göre GSMH'nin yüzde birinin altında kalır; demiryolu ücretleri sıfır varsayılsaydı bile yüzde 1,3'ü aşmazdı.",
-   "onem": "destek",
-   "tur": "sayi",
-   "kaynaklar": [
-    {
-     "anahtar": "k5",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Bolgeler arasi tasarruf orani (%0,6) ve sifir ucret varsayimi (%1,3) degerlendirmede acik; kaynak GNP der, Turkce karsiligi GSMH olarak duzeltildi."
-  },
-  {
-   "iddia_id": "i017",
-   "cumle": "Bölge içi taşımada oran daha yüksektir, ama orada da kanal ağının genişletilmesi ve yolların iyileştirilmesi hesaba katıldığında düşer.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k5",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Bolge ici hesabin kanal ve yol duzeltmesiyle dusmesi degerlendirmede anlatilir; sayi verilmeden aktarildi."
-  },
-  {
-   "iddia_id": "i018",
-   "cumle": "Davis'e göre Fogel, gerçek dünyaya dair varsayım yapması gerektiğinde bulgularının aleyhine çalışan varsayımları seçmiş; buna karşılık bir kusur kalmıştır: \"Fogel doğrusal programlama problemini hiçbir zaman gerçekten çözmedi.\" Rota seçimi, çözümün ne olacağına dair bir öngörüye dayanır.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k5",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Dogrusal programlama kusuru degerlendirmenin kapanis notudur; alinti on bes kelime sinirinin altindadir."
-  },
-  {
-   "iddia_id": "i019",
-   "cumle": "Kliometri maddesine göre terimi Purdue'lu matematiksel iktisatçı Stanley Reiter türetmiş, ad Eylül 1960'ta mesleğe tanıtılmış, aynı yılın aralık ayında toplanan ilk konferansta Fogel'in toplumsal tasarruf tahminleri sunulmuştur.",
-   "onem": "destek",
-   "tur": "tarih",
-   "kaynaklar": [
-    {
-     "anahtar": "k6",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Terimi Purdue'lu matematiksel iktisatci Reiter'in turettigi, adin Eylul 1960 EHA toplantisinda meslege tanitildigi ve aralik 1960'ta toplanan ilk konferansta Fogel'in toplumsal tasarruf tahminlerinin sunuldugu kliometri maddesinde ayri ayri gecer."
-  },
-  {
-   "iddia_id": "i020",
-   "cumle": "Walt Rostow'un savına göre demiryolunun gelişi sıçramaların en güçlü tek başlatıcısıydı; Fogel'in 1964 tarihli kitabı ile Albert Fishlow'un 1965 tarihli çalışması bu savı reddetti.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k6",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Rostow savi ve iki calismanin savi reddetmesi maddede acik."
-  },
-  {
-   "iddia_id": "i021",
-   "cumle": "1993'te Douglass North ile Fogel'e verilen Nobel İktisat Ödülü'nün gerekçesinde ikisi, yeni iktisat tarihi ya da kliometri denen dalın öncüleri sayılır.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k6",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Nobel gerekcesinin ifadesi maddede aktarilmistir."
-  },
-  {
-   "iddia_id": "i022",
-   "cumle": "Alfred Conrad ile John Meyer'in 1958 tarihli çalışması köle sahipliğinin en az başka sermaye kullanımları kadar kazançlı olduğunu göstermiş, böylece köle düzeninin 1850'lerde çoktan can çekiştiği ve İç Savaş olmasaydı kendiliğinden söneceği yolundaki eski savı çürütmüştür; Fogel ile Stanley Engerman'ın 1974 tarihli Time on the Cross kitabı tartışmayı akademinin dışına taşımış, 1976'da Reckoning with Slavery derlemesiyle karşılanmıştır.",
-   "onem": "destek",
-   "tur": "tarih",
-   "kaynaklar": [
-    {
-     "anahtar": "k6",
-     "destek": "dogrudan"
+      "iddia_id": "i003",
+      "cumle": "Karşı-olgusal koşullar üzerine tutulan felsefe kaydı bu bağı açık eder: nedensel iddiaların karşı-olgusal iddialar olduğu çözümlemesini David Hume'a (1748) dayandırıp David Lewis'e (1973) bağlar ve tarihi, karşı-olgusalların kurucu rol oynadığı alanlar arasında sayar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hume-Lewis soy agaci ve tarihin sayildigi alan listesi girisin ilk paragrafinda ve 2.1 bolumunde gecer."
     },
     {
-     "anahtar": "k5",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Kaynak, Conrad-Meyer'in kole duzeninin 1850'lerde can cekistigi ve Ic Savas olmasaydi sonecegi yolundaki eski savi CURUTTUGUNU soyler; onceki surum yonu ters cevirip 'soruyu acti' diyordu, duzeltildi. 1974 ve 1976 kliometri maddesinde, 1958 kunyesi degerlendirme yazisinin kaynakcasinda."
-  },
-  {
-   "iddia_id": "i023",
-   "cumle": "Kayda göre 1991'de Cambridge'li toplumbilimci Geoffrey Hawthorn'un Plausible Worlds kitabı üç ayrı karşı-olgusal senaryoyu dikkatle inceledi ve bu çalışma, Niall Ferguson'ın derlediği 1997 tarihli Virtual History: Alternatives and Counterfactuals'a esin verdi.",
-   "onem": "destek",
-   "tur": "tarih",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Hawthorn-Ferguson hatti ve iki yil kaynak metninde."
-  },
-  {
-   "iddia_id": "i024",
-   "cumle": "Derlemenin 2003 Pan baskısının katalog kaydı kitabın ilk kez 1997'de Picador'dan çıktığını, bu baskının 560 sayfa tuttuğunu gösterir.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Katalog kaydi 2003 Pan baskisina aittir: 'Originally published: London: Picador, 1997' ve '560 pages ; 20 cm'. 560 sayfa bu baskinin olcusudur, 1997 Picador baskisinin degil — kismi."
-  },
-  {
-   "iddia_id": "i025",
-   "cumle": "Kayda göre Ferguson, Marksizm gibi belirlenimci tarih kuramlarına itirazını göstermek ve tarihte olumsallığın önemini savunmak için karşı-olgusal senaryolar kullanır; birkaç kilit değişikliğin belirgin biçimde başka bir modern dünya üretebileceğini ileri sürer.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Ferguson pozisyonunun tarifi kaynak metninde birebir; belirlenimcilik itirazi ve olumsallik vurgusu dahil."
-  },
-  {
-   "iddia_id": "i026",
-   "cumle": "Kendi katkısı somuttur: Türkçe yöntem yazınının kaynakçasında Ferguson'ın derlemedeki bölümü, Britanya 1914'te savaşın dışında kalsaydı ne olacağını soran bir metin olarak künyelenir.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k11",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Bolumun kunyesi makalenin kaynakcasinda; bolumun icerigi degil kunyesi dogrulanmistir."
-  },
-  {
-   "iddia_id": "i027",
-   "cumle": "sayfalarda çıktı.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k12",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Cumle bolucusu cilt ve sayfa numaralarindaki noktalarda kestigi icin parca gorunuyor; ustveri kaydi yil, cilt ve sayfa araligini dogrudan verir."
-  },
-  {
-   "iddia_id": "i028",
-   "cumle": "Tucker'ın itirazı yöntemseldir: çok nedenli karşı-olgusalları reddeder ve her karşı-olgusalın başka her şey sabit tutularak kurulması gerektiğini savunur.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Tucker itirazinin ceteris paribus formulasyonu kaynak metninde."
-  },
-  {
-   "iddia_id": "i029",
-   "cumle": "Mehtap Söyler'in 2021'de Marmara Üniversitesi Siyasal Bilimler Dergisi'nde yayımlanan makalesi, karşı-olgusal yöntemi nitel araştırmada tekil tarihsel olayların nedenleri hakkında çıkarım yapmanın aracı sayar ve uygulamada gözetilecek standartları ayrı bir başlıkta ele alır.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k11",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Makalenin ozu ve standartlar basligi dergi sayfasinda okunabilir durumda."
-  },
-  {
-   "iddia_id": "i030",
-   "cumle": "Aynı makalenin kaynakçası ölçüt tartışmasının dayandığı hacmi de gösterir: Philip Tetlock ile Belkin'in derlediği Counterfactual Thought Experiments in World Politics ve onun 1996 tarihli giriş bölümü.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k11",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Tetlock-Belkin kunyesi makalenin kaynakcasinda sayfa araligiyla birlikte gecer."
-  },
-  {
-   "iddia_id": "i031",
-   "cumle": "Çernobil kazası olmasaydı Soğuk Savaş sona erer miydi sorusunu, gerek-şart hipotezlerini sınamak üzere kurulmuş bir karşı-olgusal çıkarım olarak işler ve rakip açıklamaları — iktisadi gerileme ile Gorbaçov'un yeni düşüncesi — bu çıkarım üzerinden karşılaştırır.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k11",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Cernobil karsi-olgusali ve rakip aciklamalar ozette verilir; uygulamanin ayrintisi PDF metnindedir, buraya tasinmadi."
-  },
-  {
-   "iddia_id": "i032",
-   "cumle": "Max Weber üzerine tutulan kayda göre karşı-olgusal çözümleme nedensel atfetme sürecini istikrara kavuşturmaya yardım edebilir, ama araştırmacının bakışındaki öznelliği bütünüyle ortadan kaldıramaz.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Weber okumasinin bu cumlesi kaynakta birebir bulunur."
-  },
-  {
-   "iddia_id": "i033",
-   "cumle": "Aynı kaydın kaynakçasında Weber'in 1906 tarihli, Eduard Meyer'in yöntem görüşlerine yönelttiği eleştiri yer alır.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Weber 1906/1949 'Critical Studies in the Logic of the Cultural Sciences: A Critique of Eduard Meyer's Methodological Views' SEP kaynakcasinda kunyelenir."
-  },
-  {
-   "iddia_id": "i034",
-   "cumle": "Kültür bilimlerinin mantığı üzerine yazılmış aynı 1906 metni Söyler'in kaynakçasında da künyelenir; ölçüt tartışmasının yüz yılı aşan bir hattı olduğunu gösteren izlerden biri budur.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k11",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Ayni 1906 metni Soyler'in kaynakcasinda \"Weber, M. (1922). Kritische Studien auf dem Gebiet der kulturwissenschaftlichen Logik (1906)\" olarak kunyelenir; kapanis yan cumlesi yorumdur."
-  },
-  {
-   "iddia_id": "i035",
-   "cumle": "Kayda göre Evans 2014 tarihli Altered Pasts: Counterfactuals in History kitabında kavramın sistematik bir eleştirisini sunar; ona göre karşı-olgusalların çoğu sağ eğilimli tarihçilerin dilek düşüncesidir — ya arzulanan bir bugünü betimler ya da sol ideolojiyi itibarsızlaştırır — ve sonuçları tek bir nedene indirgemek etkilerin karmaşıklığını görmezden gelir.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Evans elestirisinin uc unsuru da kaynak metninde aktarilmistir."
-  },
-  {
-   "iddia_id": "i036",
-   "cumle": "Kitabın katalog kaydındaki konu başlıkları bu okumayı destekler görünüyor: tarih yazımının siyasi yönleri ile sağ-sol ayrımı, konu listesinde yan yana durur.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k9",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Konu basliklari katalog kaydinda; okumayi destekler ama kanitlamaz — kismi."
-  },
-  {
-   "iddia_id": "i037",
-   "cumle": "Katalog kaydının tanıtımına göre kitap, Britanya Birinci Dünya Savaşı'na girmeyip tarafsız kalsaydı, 1940 ya da 1941'de Nazi Almanyası'yla ayrı bir barış yapsaydı, Britanya Muharebesi'ni kaybedip işgal edilseydi ne olacağını sorar.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k9",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Tanitim metni katalog kaydinda; kitabin icerigine dair dolayli kanit — kismi."
-  },
-  {
-   "iddia_id": "i038",
-   "cumle": "Buna karşılık aynı kayıt, karşı-olgusalların açıklama sınamakta işlevi olduğunu savunan konumu da aktarır; Christopher Prendergast'e göre alternatiflerin sonuçlarını yoklamak, tarihsel nedensellik açıklamalarını denemenin bir yoludur.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Prendergast konumu kaynak metninde karsi agirlik olarak verilir."
-  },
-  {
-   "iddia_id": "i039",
-   "cumle": "Tarih felsefesi kaydına göre tarihsel olayların yinelenemezliği, geleneksel karşı-olgusal önermeleri ilginç birer spekülasyondan öteye taşımaz; Sezar Rubicon'u geçmeseydi Roma nasıl gelişirdi sorusu büyüleyici bir düşünce deneyi olabilir, ama tek bir olgu akışı verilmişken sınanabilir değildir.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k3",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Yinelenemezlik sinirlamasi ve Rubicon ornegi kaynakta birebir."
-  },
-  {
-   "iddia_id": "i040",
-   "cumle": "kitabı hem tarih felsefesi kaydının hem de Türkçe yöntem yazınının kaynakçasında yer alır.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k3",
-     "destek": "dogrudan"
+      "iddia_id": "i004",
+      "cumle": "Tarih felsefesi için tutulan bir başka kayıt aynı şeyi tarihçinin diliyle söyler: karşı-olgusallar uzun zamandır sağduyusal bir kalıpla kullanılmıştır — \"A olmasaydı B hiç olmazdı\".",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kalibin ingilizcesi kaynakta aynen bulunur; Turkce karsiligi cevirisidir."
     },
     {
-     "anahtar": "k11",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Cumle bolucusu kitap adindaki soru isaretinde kestigi icin parca gorunuyor; iki kaynakcada da kunye mevcut."
-  },
-  {
-   "iddia_id": "i041",
-   "cumle": "Kayda göre Carr, Ranke'nin görgül nesnellik umudunu saf gerçekçilik diye niteleyenler arasında anılır; karşı-olgusal soruya dair kendi hükmü ise buradaki kaynak havuzundan doğrulanabilir biçimde okunamadı.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
+      "iddia_id": "i005",
+      "cumle": "Karşı-olgusal tarih kendisini, olumsuzladığı olaya duyduğu ilgiyle ayırır: amaç, olumsuzlanan olayın göreli tarihsel ağırlığını değerlendirmektir ve sonraki değişiklikler ancak genel hatlarıyla çizilir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayrimin olcutu kaynagin \"Differences from alternate history\" bolumunde tanimlanir."
+    },
     {
-     "anahtar": "k3",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Carr’in Ranke elestirisindeki yeri kaynakta acik; karsi-olgusal hukmu havuzdan dogrulanamadi ve cumle bunu acikca soyluyor."
-  },
-  {
-   "iddia_id": "i042",
-   "cumle": "Kitabın katalog kaydı yalnızca şunu verir: 1892–1982 arasında yaşamış bir yazarın, ilk kez 1961'de yayımlanmış, tarih felsefesi konulu 188 sayfalık kitabı.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
+      "iddia_id": "i006",
+      "cumle": "Alternatif tarih yazarı ise tersine, olumsuzlanan olaydan doğan varsayımsal olaylar dizisiyle ilgilenir ve çok özgül olaylar ile kişiler icat etmekte serbesttir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni bolumun karsit tarifi."
+    },
     {
-     "anahtar": "k10",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Katalog kaydi; yasam tarihleri, ilk basim yili ve sayfa sayisi sayfada acik — icerik iddiasi yok, kismi."
-  },
-  {
-   "iddia_id": "i043",
-   "cumle": "Bir karşı-olgusal senaryonun hangi noktada durdurulacağı — zincirin nereye kadar izleneceği — ölçüte bağlanmış değildir; en işlemsel örnekte bile rota seçimi bir öngörüye dayanıyordu.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
+      "iddia_id": "i007",
+      "cumle": "Sınırın bulanıklaştığı da kabul edilir; kayıt, Kim Stanley Robinson'ın romanındaki bir kişinin tarihçilerin karşı-olgusal kullanımını yararsız bir alıştırma diye küçümsemesini örnek verir.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Romandaki kisinin nitelemesi kaynakta aktarilmis bicimiyle alinmistir; ikincil aktarimdir."
+    },
     {
-     "anahtar": "k5",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Yorum cumlesi; dayandigi olgu (rota seciminin varsayima dayanmasi) degerlendirme yazisinda."
-  },
-  {
-   "iddia_id": "i044",
-   "cumle": "Nedensellik cümlesinin karşı-olgusal içerdiği çözümlemesi de felsefede kapanmış değildir: kayda göre yalın karşı-olgusal çözümleme bugün sorunlu sayılır ve inceltme gerektirir, ama eleştirenlerin de karşı-olgusal ile nedensellik arasındaki sıkı bağın hesabını vermesi gerekir.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
+      "iddia_id": "i008",
+      "cumle": "dizisini anar; kitaplar, belirleyici bir anda kaderin küçük bir dönüşünün zamanın kayıtlarını değiştirebileceği fikri etrafında tarihçilerin ve tanınmış yazarların denemelerini toplar.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cumle bolucusu baslik icindeki soru isaretinde kestigi icin parca gorunuyor; tam cumle Cowley dizisini anmaktadir."
+    },
     {
-     "anahtar": "k2",
-     "destek": "dogrudan"
+      "iddia_id": "i009",
+      "cumle": "Öte yanda aynı kayıt akademik kullanımı örnekler: William Thompson, neredeyse bin yıl boyunca küreselleşme süreçlerini yürüten sekiz öncü ekonomi için bir karşı-olgusal dizisi kurar ve her aktörün sırayla alışılmadık ölçüde kritik bir rol oynadığını savunur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Thompson ornegi kaynakta \"some scholars argue\" cercevesiyle aktarilir; cerceve korunmustur."
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Kayda göre erken bir karşı-olgusal tarih kitabı 1931 tarihli If It Had Happened Otherwise'dır; kitapta Winston Churchill'in Gettysburg Muharebesi üzerine bir metni bulunur ve muharebe 1863 tarihlidir.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1931 ve 1863 tarihleri kaynak metninde acik."
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Aynı kayıt bu kitabın alternatif tarih parçaları taşıdığını yazar: anlatı tonu kaprise kaçar, ne tarihsel çözümleme ne de senaryoların ardındaki mantık sunulur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin kitaba yonelttigi elestirinin aktarimi."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Robert Fogel'in 1964'te Johns Hopkins Press'ten çıkan, xv + 296 sayfalık Railroads and American Economic Growth: Essays in Econometric History çalışması, ABD'de demiryolu hiç olmasaydı ekonominin ne olacağını nicel yöntemlerle sorar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yil, yayinevi ve sayfa sayisi degerlendirme yazisinin kunye satirinda; k7 yalniz katalog kaydi oldugu icin kismi."
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Lance Davis'in değerlendirme yazısına göre kitabın iki tarım bölümü açık bir karşı-olgusal kurar — demiryolu olmasaydı dünyanın nasıl görüneceği — ve toplumsal tasarruf kavramını, yani gerçek dünya ile karşı-olgusal dünya arasındaki toplumsal maliyet farkını işlemsel biçimde tanımlar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Acik karsi-olgusal ve toplumsal tasarrufun islemsel tanimi degerlendirme yazisinda birebir."
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Aynı değerlendirmeye göre açık karşı-olgusal fikri 1960'ların başında tarihçilerin çoğu için hâlâ yabancı bir kavramdı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Degerlendirmenin kendi tespiti; donem yargisi olarak aktarilmistir."
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Sonuç, tartışmanın en çok anılan sayısıdır: aktarılan hesaba göre 1 Ocak 1890'da ulaşılan kişi başı gelir düzeyine, demiryolu hiç icat edilmemiş olsaydı 31 Mart 1890'da ulaşılacaktı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki tarih hem degerlendirme yazisinda hem ansiklopedi maddesinde ayni bicimde gecer."
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Bölgeler arası taşımada demiryolunun sağladığı toplumsal tasarruf, aynı hesaba göre GSMH'nin yüzde birinin altında kalır; demiryolu ücretleri sıfır varsayılsaydı bile yüzde 1,3'ü aşmazdı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bolgeler arasi tasarruf orani (%0,6) ve sifir ucret varsayimi (%1,3) degerlendirmede acik; kaynak GNP der, Turkce karsiligi GSMH olarak duzeltildi."
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Bölge içi taşımada oran daha yüksektir, ama orada da kanal ağının genişletilmesi ve yolların iyileştirilmesi hesaba katıldığında düşer.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Bolge ici hesabin kanal ve yol duzeltmesiyle dusmesi degerlendirmede anlatilir; sayi verilmeden aktarildi."
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Davis'e göre Fogel, gerçek dünyaya dair varsayım yapması gerektiğinde bulgularının aleyhine çalışan varsayımları seçmiş; buna karşılık bir kusur kalmıştır: \"Fogel doğrusal programlama problemini hiçbir zaman gerçekten çözmedi.\" Rota seçimi, çözümün ne olacağına dair bir öngörüye dayanır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dogrusal programlama kusuru degerlendirmenin kapanis notudur; alinti on bes kelime sinirinin altindadir."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Kliometri maddesine göre terimi Purdue'lu matematiksel iktisatçı Stanley Reiter türetmiş, ad Eylül 1960'ta mesleğe tanıtılmış, aynı yılın aralık ayında toplanan ilk konferansta Fogel'in toplumsal tasarruf tahminleri sunulmuştur.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Terimi Purdue'lu matematiksel iktisatci Reiter'in turettigi, adin Eylul 1960 EHA toplantisinda meslege tanitildigi ve aralik 1960'ta toplanan ilk konferansta Fogel'in toplumsal tasarruf tahminlerinin sunuldugu kliometri maddesinde ayri ayri gecer."
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Walt Rostow'un savına göre demiryolunun gelişi sıçramaların en güçlü tek başlatıcısıydı; Fogel'in 1964 tarihli kitabı ile Albert Fishlow'un 1965 tarihli çalışması bu savı reddetti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Rostow savi ve iki calismanin savi reddetmesi maddede acik."
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "1993'te Douglass North ile Fogel'e verilen Nobel İktisat Ödülü'nün gerekçesinde ikisi, yeni iktisat tarihi ya da kliometri denen dalın öncüleri sayılır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Nobel gerekcesinin ifadesi maddede aktarilmistir."
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Alfred Conrad ile John Meyer'in 1958 tarihli çalışması köle sahipliğinin en az başka sermaye kullanımları kadar kazançlı olduğunu göstermiş, böylece köle düzeninin 1850'lerde çoktan can çekiştiği ve İç Savaş olmasaydı kendiliğinden söneceği yolundaki eski savı çürütmüştür; Fogel ile Stanley Engerman'ın 1974 tarihli Time on the Cross kitabı tartışmayı akademinin dışına taşımış, 1976'da Reckoning with Slavery derlemesiyle karşılanmıştır.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak, Conrad-Meyer'in kole duzeninin 1850'lerde can cekistigi ve Ic Savas olmasaydi sonecegi yolundaki eski savi CURUTTUGUNU soyler; onceki surum yonu ters cevirip 'soruyu acti' diyordu, duzeltildi. 1974 ve 1976 kliometri maddesinde, 1958 kunyesi degerlendirme yazisinin kaynakcasinda."
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Kayda göre 1991'de Cambridge'li toplumbilimci Geoffrey Hawthorn'un Plausible Worlds kitabı üç ayrı karşı-olgusal senaryoyu dikkatle inceledi ve bu çalışma, Niall Ferguson'ın derlediği 1997 tarihli Virtual History: Alternatives and Counterfactuals'a esin verdi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hawthorn-Ferguson hatti ve iki yil kaynak metninde."
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Derlemenin 2003 Pan baskısının katalog kaydı kitabın ilk kez 1997'de Picador'dan çıktığını, bu baskının 560 sayfa tuttuğunu gösterir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog kaydi 2003 Pan baskisina aittir: 'Originally published: London: Picador, 1997' ve '560 pages ; 20 cm'. 560 sayfa bu baskinin olcusudur, 1997 Picador baskisinin degil — kismi."
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Kayda göre Ferguson, Marksizm gibi belirlenimci tarih kuramlarına itirazını göstermek ve tarihte olumsallığın önemini savunmak için karşı-olgusal senaryolar kullanır; birkaç kilit değişikliğin belirgin biçimde başka bir modern dünya üretebileceğini ileri sürer.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ferguson pozisyonunun tarifi kaynak metninde birebir; belirlenimcilik itirazi ve olumsallik vurgusu dahil."
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Kendi katkısı somuttur: Türkçe yöntem yazınının kaynakçasında Ferguson'ın derlemedeki bölümü, Britanya 1914'te savaşın dışında kalsaydı ne olacağını soran bir metin olarak künyelenir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Bolumun kunyesi makalenin kaynakcasinda; bolumun icerigi degil kunyesi dogrulanmistir."
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "sayfalarda çıktı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cumle bolucusu cilt ve sayfa numaralarindaki noktalarda kestigi icin parca gorunuyor; ustveri kaydi yil, cilt ve sayfa araligini dogrudan verir."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Tucker'ın itirazı yöntemseldir: çok nedenli karşı-olgusalları reddeder ve her karşı-olgusalın başka her şey sabit tutularak kurulması gerektiğini savunur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tucker itirazinin ceteris paribus formulasyonu kaynak metninde."
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Mehtap Söyler'in 2021'de Marmara Üniversitesi Siyasal Bilimler Dergisi'nde yayımlanan makalesi, karşı-olgusal yöntemi nitel araştırmada tekil tarihsel olayların nedenleri hakkında çıkarım yapmanın aracı sayar ve uygulamada gözetilecek standartları ayrı bir başlıkta ele alır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Makalenin ozu ve standartlar basligi dergi sayfasinda okunabilir durumda."
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Aynı makalenin kaynakçası ölçüt tartışmasının dayandığı hacmi de gösterir: Philip Tetlock ile Belkin'in derlediği Counterfactual Thought Experiments in World Politics ve onun 1996 tarihli giriş bölümü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tetlock-Belkin kunyesi makalenin kaynakcasinda sayfa araligiyla birlikte gecer."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Çernobil kazası olmasaydı Soğuk Savaş sona erer miydi sorusunu, gerek-şart hipotezlerini sınamak üzere kurulmuş bir karşı-olgusal çıkarım olarak işler ve rakip açıklamaları — iktisadi gerileme ile Gorbaçov'un yeni düşüncesi — bu çıkarım üzerinden karşılaştırır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cernobil karsi-olgusali ve rakip aciklamalar ozette verilir; uygulamanin ayrintisi PDF metnindedir, buraya tasinmadi."
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Max Weber üzerine tutulan kayda göre karşı-olgusal çözümleme nedensel atfetme sürecini istikrara kavuşturmaya yardım edebilir, ama araştırmacının bakışındaki öznelliği bütünüyle ortadan kaldıramaz.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Weber okumasinin bu cumlesi kaynakta birebir bulunur."
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Aynı kaydın kaynakçasında Weber'in 1906 tarihli, Eduard Meyer'in yöntem görüşlerine yönelttiği eleştiri yer alır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Weber 1906/1949 'Critical Studies in the Logic of the Cultural Sciences: A Critique of Eduard Meyer's Methodological Views' SEP kaynakcasinda kunyelenir."
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Kültür bilimlerinin mantığı üzerine yazılmış aynı 1906 metni Söyler'in kaynakçasında da künyelenir; ölçüt tartışmasının yüz yılı aşan bir hattı olduğunu gösteren izlerden biri budur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni 1906 metni Soyler'in kaynakcasinda \"Weber, M. (1922). Kritische Studien auf dem Gebiet der kulturwissenschaftlichen Logik (1906)\" olarak kunyelenir; kapanis yan cumlesi yorumdur."
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Kayda göre Evans 2014 tarihli Altered Pasts: Counterfactuals in History kitabında kavramın sistematik bir eleştirisini sunar; ona göre karşı-olgusalların çoğu sağ eğilimli tarihçilerin dilek düşüncesidir — ya arzulanan bir bugünü betimler ya da sol ideolojiyi itibarsızlaştırır — ve sonuçları tek bir nedene indirgemek etkilerin karmaşıklığını görmezden gelir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Evans elestirisinin uc unsuru da kaynak metninde aktarilmistir."
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Kitabın katalog kaydındaki konu başlıkları bu okumayı destekler görünüyor: tarih yazımının siyasi yönleri ile sağ-sol ayrımı, konu listesinde yan yana durur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Konu basliklari katalog kaydinda; okumayi destekler ama kanitlamaz — kismi."
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Katalog kaydının tanıtımına göre kitap, Britanya Birinci Dünya Savaşı'na girmeyip tarafsız kalsaydı, 1940 ya da 1941'de Nazi Almanyası'yla ayrı bir barış yapsaydı, Britanya Muharebesi'ni kaybedip işgal edilseydi ne olacağını sorar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tanitim metni katalog kaydinda; kitabin icerigine dair dolayli kanit — kismi."
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Buna karşılık aynı kayıt, karşı-olgusalların açıklama sınamakta işlevi olduğunu savunan konumu da aktarır; Christopher Prendergast'e göre alternatiflerin sonuçlarını yoklamak, tarihsel nedensellik açıklamalarını denemenin bir yoludur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Prendergast konumu kaynak metninde karsi agirlik olarak verilir."
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Tarih felsefesi kaydına göre tarihsel olayların yinelenemezliği, geleneksel karşı-olgusal önermeleri ilginç birer spekülasyondan öteye taşımaz; Sezar Rubicon'u geçmeseydi Roma nasıl gelişirdi sorusu büyüleyici bir düşünce deneyi olabilir, ama tek bir olgu akışı verilmişken sınanabilir değildir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yinelenemezlik sinirlamasi ve Rubicon ornegi kaynakta birebir."
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "kitabı hem tarih felsefesi kaydının hem de Türkçe yöntem yazınının kaynakçasında yer alır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cumle bolucusu kitap adindaki soru isaretinde kestigi icin parca gorunuyor; iki kaynakcada da kunye mevcut."
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Kayda göre Carr, Ranke'nin görgül nesnellik umudunu saf gerçekçilik diye niteleyenler arasında anılır; karşı-olgusal soruya dair kendi hükmü ise buradaki kaynak havuzundan doğrulanabilir biçimde okunamadı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Carr’in Ranke elestirisindeki yeri kaynakta acik; karsi-olgusal hukmu havuzdan dogrulanamadi ve cumle bunu acikca soyluyor."
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Kitabın katalog kaydı yalnızca şunu verir: 1892–1982 arasında yaşamış bir yazarın, ilk kez 1961'de yayımlanmış, tarih felsefesi konulu 188 sayfalık kitabı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog kaydi; yasam tarihleri, ilk basim yili ve sayfa sayisi sayfada acik — icerik iddiasi yok, kismi."
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Bir karşı-olgusal senaryonun hangi noktada durdurulacağı — zincirin nereye kadar izleneceği — ölçüte bağlanmış değildir; en işlemsel örnekte bile rota seçimi bir öngörüye dayanıyordu.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yorum cumlesi; dayandigi olgu (rota seciminin varsayima dayanmasi) degerlendirme yazisinda."
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Nedensellik cümlesinin karşı-olgusal içerdiği çözümlemesi de felsefede kapanmış değildir: kayda göre yalın karşı-olgusal çözümleme bugün sorunlu sayılır ve inceltme gerektirir, ama eleştirenlerin de karşı-olgusal ile nedensellik arasındaki sıkı bağın hesabını vermesi gerekir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yalin cozumlemenin sorunlu sayilmasi ve elestirenlerin de bagi aciklamak zorunda olmasi kaynakta birebir."
     }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Yalin cozumlemenin sorunlu sayilmasi ve elestirenlerin de bagi aciklamak zorunda olmasi kaynakta birebir."
-  }
- ],
- "sayaclar": {
-  "dogrudan": 40,
-  "kismi": 4,
-  "desteksiz": 0,
-  "olculemez": 0
- }
+  ],
+  "sayaclar": {
+    "dogrudan": 40,
+    "kismi": 4,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "7 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

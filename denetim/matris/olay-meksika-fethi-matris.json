@@ -1,0 +1,701 @@
+{
+  "id": "olay-meksika-fethi",
+  "govde_hash": "d73b41ae9b3b",
+  "commit": "5373c66",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Hernán Cortés'in Küba'dan yola çıkardığı filo, mektuplarını taşıyan cildin girişindeki kayda göre 18 Şubat 1519'da denize açıldı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Folsom'un cilde yazdigi giriste: 'the expedition finally sailed on the eighteenth of February, in the year 1519'. Tarih Cortés'in mektup govdesinde degil cevirmenin girisinde gectigi icin destek kismi isaretlendi; metin de kaydi 'cildin girisindeki kayit' diye aniyor."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Cortés'in imparator V. Karl'a yazdığı mektupta Cholula'da şehri tararken yanında saydığı kuvvet beş bin Tlaxcalalı ve dört yüz Cempoallıdır; Tlaxcala sınırındaki ilk büyük çarpışmada yanında kaldığını yazdığı kuvvet ise altı top, beş altı el silahı, kırk okçu ve on üç atlıdır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cortés Cholula bolumunde 'assisted by five thousand indians of tascaltecal, and four hundred of cempoal' der; Tlaxcala sinirindaki carpismada 'with six pieces of ordnance, five or six handguns, forty archers and thirteen horse that remained with me'. Kaynagin 'that remained with me' cekincesi metne 'yaninda kaldigini yazdigi kuvvet' diye tasindi."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Matthew Restall'ın kitabının özeti fethin siyah ve yerli müttefiklere ağır biçimde dayandığını, bu müttefiklerin binlerce savaşçıyla conquistadorları sayıca kat kat aştığını, yerli tarafın olayı büyük ölçüde İspanyolların önemli ama ikincil bir rol oynadığı bir yerli iç savaşı olarak gördüğünü söyler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozet birebir: 'relied heavily on black and native allies, who provided many thousands of fighters, vastly outnumbering the conquistadors... they saw it as a native civil war in which the Spaniards played an important but secondary role.' Hakem duzeltmesi: govde 'important but secondary' ifadesinin 'important' yarisini dusurmustu, geri konuldu. Havuz kurali geregi Crossref kaydi makalenin BULGUSU icin en fazla ozet duzeyinde destek verir: dogrudan -> kismi."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Aynı yıllarda askerî tarih tarafından gelen bir başka itiraz, ateşli silahların İspanyol zaferinin teknolojik belirleyeni sayılmasının artık çözüldüğünü savunur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ozeti: 'the use of firearms as the technological determinant for the Spanish victory over the Mexica, among other factors that are now changing' ve 'the dismantling of some positions'. Hakem: Crossref ustveri kunyesi; iddia makalenin bulgusu hakkinda oldugu icin havuz kurali geregi en fazla ozet duzeyinde destek — dogrudan yerine kismi."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Cortés, mektuplarını Diego Velázquez'in izniyle başlayıp o iznin dışına çıkmış bir seferi yürütürken yazdı; ikinci mektubun açılışında kralın adına kurduğu Vera Cruz kasabasını ve oradan gönderdiği temsilcileri anar; aynı mektubun ilerleyen bölümünde Velázquez'in gönderdiği Pánfilo de Narváez'i, geldiğinde kendini kaptan general ve vali yardımcısı ilan ettirmekle, yani hükümdarın hizmetine zarar veren ve yasalara aykırı işler yapmakla suçlar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ikinci mektubun acilisi: 'deputies of la rica villa de la vera cruz, the town i had founded in your majesty's name'. Narvaez sucllamasi ise ayni mektubun ILERLEYEN bolumundedir, acilisinda degil: 'he had caused himself to be so proclaimed on his arrival in this country... which proceedings were injurious to your highness' service, and in violation of all the laws'. Hakem duzeltmesi: 'acilisinda' iki yan cumleyi birden kapsiyor gorunuyordu, ayrildi ve 'yasalara aykiri' yarisi eklendi."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Motecuhzoma'yı da kendi kaydında hükümdarın hizmetine tümüyle bağlanmış biri olarak sunar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI: onceki inceleme notu kaynakta HIC GECMEYEN bir alintiyi ('Muteczuma was fully devoted to the service of your Highness') Cortés'e mal ediyordu — 'devoted' sozcugu ciltte sifir kez geciyor. Iddianin kendisi yine de saglam: Cortés, Motecuhzoma'nin agzindan 'we will obey you, and acknowledge you for our sovereign in place of the great lord whom you mention, and that there shall be no default or deception on our part... all that we have is at your disposal' cumlesini aktarir."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Yazar kitabın amacını Francisco de Gómara'nın yapıtındaki hataları göstermek diye tanımlar, her çarpışmada bizzat bulunduğunu söyler ve yazdıklarının doğruluğunu ilan eder.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bernal Díaz onsozu: 'points out the errors and blunders contained in a work written by Francisco de Gomara'; 'I myself was present at every battle and hostile encounter'; 'declare and affirm to be strictly true'."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Florentine Codex'in on ikinci kitabı, yerli aydınlarla birlikte Nahuatl dilinde yazılmış, İspanyolca çevirisi ve iki bine yakın resimle birlikte kurulmuş iki dilli bir yazmadır; 1579'da dinî otoritelerin artan denetimi altında tamamlanmış, el konulmuş ve Avrupa'ya gönderilmiştir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ozeti: 'Book Twelve of the Florentine Codex, a bilingual manuscript written collaboratively with Indigenous intellectuals in Nahuatl with a Spanish translation and accompanied by nearly two thousand illustrations'; 'Completed in 1579, under increasing scrutiny by religious authorities, the manuscript was confiscated and sent to Europe'. Hakem: Crossref ustveri kunyesi; iddia makalenin bulgusu hakkinda oldugu icin havuz kurali geregi en fazla ozet duzeyinde destek — dogrudan yerine kismi."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Sahagún 1585'te bu anlatıyı yeniden yazmış, yani fethin hikâyesi yüzyılın sonuna doğru keşişin elinde değişmiştir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ozeti: 'In 1585, Sahagún, authored Relación de la conquista de esta Nueva España, which sought to revise the narrative of the conquest found in Book Twelve'. Hakem: Crossref ustveri kunyesi; iddia makalenin bulgusu hakkinda oldugu icin havuz kurali geregi en fazla ozet duzeyinde destek — dogrudan yerine kismi."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Dördüncü bir ses, Tlaxcalalı Diego Muñoz Camargo'nun kroniğidir; orada Tlaxcalalılar Cortés'in \"sadık dostları\" diye anılır ve Xicotencatl'ın oğlunun Tetzcoco'da astırılması bu sadakat çerçevesi içinde anlatılır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Muñoz Camargo: 'los de Tlaxcalla sus leales amigos'; ayni pasajda Xicotencatl'in oglunun Tetzcuco'da astirilmasi anlatilir. Kronik Tlaxcala'nin kendi davasini savunur; destek dogrudan ama kaynak taraftir."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Cortés kendi anlatısında Aztek yönetiminden hoşnutsuz kıyı beylerinin kendisine başvurduğunu, kendilerini ezen güçlü hükümdara karşı korunma istediklerini, oğullarının kurban için alınmasından yakındıklarını yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cortés: 'they also begged me to protect them against that mighty Lord, who used violent and tyrannical measures to keep them in subjection, and took from them their sons to be slain and offered as sacrifices to his idols'."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Tlaxcala sınırında ise savaş çıktı: Cortés kendini yüz binden fazla savaşçının ortasında bulduğunu, çarpışmanın gün boyu sürdüğünü ve tanrının kendi taraflarında savaştığının göründüğünü anlatır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: 'we found ourselves in the midst of more than one hundred thousand warriors... the battle lasted the whole day... and it truly seemed that god fought on our side'. Hakem duzeltmesi: kaynagin kendi cekincesi ('it truly seemed') dusurulmustu, 'gorundugunu' ile geri konuldu."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Sahagún'un on ikinci kitabı aynı bölgeye girişi başka bir yerden başlatır: Tlaxcala toprağındaki Tecoac'ta, sınırı bekleyen Otomiler İspanyollara karşı savaşa çıkar, atlılar mızraklar, tüfekçilerle arbaletçiler öldürür.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: 'en llegando a la provincia de Tecoac que es tierra de Tlaxcala: alli estaban poblados los otomies... los de a caballo alancearon muchos, y los arcabuceros y ballesteros mataron tambien a muchos'. Hakem duzeltmesi: liste kirpmasi — kaynak arcabuceros VE ballesteros sayarken govde yalniz tufekcileri yaziyordu; arbaletciler geri konuldu."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Muñoz Camargo'nun 1892 baskısını hazırlayan Chavero, kendi dipnotunda Tlaxcalalıların sayı üstünlüğünü birbiri ardına bölük göndererek harcadıklarını, karşılarında yalnızca dört yüz kadar Kastilyalı ve bin üç yüz Totonak bulunduğunu yazar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Chavero'nun 3 numarali dipnotu: 'Cortés, que tenia solamente unos cuatrocientos castellanos y mil trescientos totonacas'. Sayi kronigin degil 1892 editorunundur; metin bunu acikca soyluyor."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Bernal Díaz, kaptanının tercümanlar aracılığıyla karşıdakilere uzak bir ülkeden geldiklerini, Don Carlos adlı büyük bir imparatorun uyruğu olduklarını ve bu imparatoru efendileri olarak tanımaları gerektiğini söylediğini aktarır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bernal Díaz: 'Our captain then told them, by means of our interpreters, that we came from a distant country, and were the subjects of a great emperor, whose name was Don Carlos... they should likewise acknowledge this emperor as their lord and master'."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Cortés de Tlaxcala sınırındaki ilk çatışmada, yanında noter bulunmadığı için tercümanlar üzerinden resmî bir çağrı yaptığını yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cortés: 'I undertook to make a formal appeal to them through the interpreters that I had brought with me instead of a notary'."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Bernal Díaz, Doña Marina'nın Painala adlı bir kasabanın beyinin kızı olarak doğduğunu, babasının erken ölümünden sonra annesinin yeniden evlendiğini ve üvey kardeşinin mirasına engel olmasın diye küçükken geceleyin başka bir aileye verildiğini anlatır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bernal Díaz, XXXVII. bolum: 'She was born a ruler over a people and country,--for her parents had the dominion of a township called Painala'; babasinin olumu, annenin yeniden evlenmesi ve cocugun geceleyin baska bir aileye verilmesi ayni pasajda."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Sadikov'un 2025 tarihli makalesinin özeti bu kişiyi çok daha ileri bir yere koyar ve savı açıkça yazarın kendi hipotezi olarak sunar: ona göre sefer, yerli halkların imparatorluğa karşı yürüttüğü savaş dizisinin bir halkasıdır ve koalisyonun asıl aklı Malinche'dir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref ozeti: 'The author sets forward a hypothesis of his own (though based on reliable sources)'; 'only another episode of a whole series of wars waged by indigenous tribes against the Empire'; 'it was Malinche... who became the actual mastermind of the Coalition'. Ozetin kendi cekincesi metne tasindi. Hakem: Crossref ustveri kunyesi; iddia makalenin bulgusu hakkinda oldugu icin havuz kurali geregi en fazla ozet duzeyinde destek — dogrudan yerine kismi."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Cortés, Tlaxcalalı beylerin kendisini şehre girmemesi için uyardığını, Motecuhzoma'nın şehre iki fersah mesafede elli bin kişilik bir kuvvet yerleştirdiğini, yolların kazıklı çukurlarla kapatıldığını duyduğunu yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cortés: 'they had formed treacherous designs to destroy me and my people in that city, and that for this purpose Muteczuma had despatched... fifty thousand men whom he kept in garrison two leagues from the city'; yollarin cukur ve kazikla kapatilmasi ayni cumlede."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Ardından kendi eylemini şöyle kaydeder: beyleri kapatır, işaret topunu attırır ve kendi ifadesiyle iki saatte üç binden fazla düşman ölür; şehri beş saat boyunca tarar, bu sırada beş bin Tlaxcalalı ve dört yüz Cempoallı ona yardım eder.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cortés: 'I caused the signal gun to be fired, and we made such execution that in two hours more than three thousand of the enemy perished'; 'for five hours, until I had driven all the people out of the city... assisted by five thousand indians of Tascaltecal, and four hundred of Cempoal'. Sayilar Cortés'in kendi beyanidir, bagimsiz olcum degildir."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Sorguladığı tutsaklar suçu Motecuhzoma'nın adamlarına atar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cortés: 'they answered, that it was not their fault, as the men of Culua, [Mexico,] who were the vassals of Muteczuma, had urged them to it'."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Cortés'in metni, izinsiz yürüttüğü bir seferi meşrulaştırmak zorunda olan bir adamın metnidir ve Cholula bölümü tam da meşrulaştırmaya en çok ihtiyaç duyulan yerdir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Bu cumle kaynagin tasidigi bir iddia degil, k1'in i05-i06'da belgelenen hukuki konumundan cikarilan bir okumadir; matriste yorum olarak isaretlendi ve merkezi sayilmadi."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Restall'ın kitabının özeti fethin tarihinin yanlış okunarak popüler bilgiye dönüştüğünü konu edinir ve yerlilerin conquistadorları tanrı sandığı yolundaki yaygın kabulü reddeder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ozeti: 'the ways in which the history of the Spanish Conquest has been misread and passed down to become popular knowledge'; 'native Americans did not take the conquistadors for gods'. Hakem: Crossref ustveri kunyesi; iddia makalenin bulgusu hakkinda oldugu icin havuz kurali geregi en fazla ozet duzeyinde destek — dogrudan yerine kismi."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Sahagún'un metni, İspanyolların bayram donanımındaki tüylerden, kalkanlardan ve öteki süslerden altını sökmek için bütün tüy işlerini ve mücevherleri bozduklarını, altını eritip külçe yaptıklarını, beğendikleri taşları aldıklarını, geri kalan düşük taşlarla tüyleri ise Tlaxcalalıların götürdüğünü anlatır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sahagún 12. kitap: 'Comenzaron los Españoles a quitar el oro de las plumas y de las rodelas y de los otros atavios del areyto... y el oro fundieronlo... y las piedras bajas y plumages, todo lo tomaron los Indios de Tlaxcala'."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Sahagún'un kaydı, Meksikalıların İspanyollara duyduğu büyük öfkeyi ileri gelenlerin ve yiğit adamların hainlikle öldürülmesine bağlar; bunun üzerine saray yapılarını kuşattıklarını, kimseyi içeri ve dışarı bırakmadıklarını, aç kalsınlar diye erzak sokulmasına izin vermediklerini, gizlice yiyecek götürenlerin öldürüldüğünü yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sahagún 12. kitap: 'Tenian gran rabia contra los Españoles porque mataron a los principales y valientes hombres a traicion, y por tanto tenian cercadas las casas reales que a nadie dejaban entrar, ni salir, ni meter ningun bastimento porque muriesen de hambre'."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Metin, Tlaxcala'daki İspanyollar Meksika'yı almaya gelmeden önce, yerli takvimde Tepeilhuitl denen ve eylül sonuna denk gelen ayda büyük bir çiçek salgını çıktığını söyler; hastaların bedeni ve yüzü yaralarla dolduğu için kımıldayamadıklarını, kımıldatılınca bağırdıklarını anlatır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sahagún 12. kitap, XXIX. bolum: 'Antes que los Españoles que estaban en Tlaxcala viniesen a conquistar a Mexico, dio una grande pestilencia de viruelas a todos los indios en el mes que llamaban Tepeilhvitl que es al fin de setiembre'; hastalarin kimildayamamasi ayni pasajda."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Salgının ölümü tek başına getirmediğini de ekler: yemek yapacak kimse kalmadığı için çok sayıda kişi açlıktan ölmüştür.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sahagún: 'muchas murieron de hambre porque no habia quien pudiese hacer comida'."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Metin ölenler için \"sayısız insan\" der ve bir rakam yazmaz.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sahagún: 'esta pestilencia mato gentes sin numero'. Metin hicbir rakam vermez; makaledeki 'sayisiz insan' bu ifadenin karsiligidir."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Salgının zamanlaması da önemlidir: kayıt onu kuşatmadan önceye, İspanyolların şehirden çıkışıyla geri dönüşü arasındaki araya yerleştirir.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "XXIX. bolumun basligi ve ilk cumlesi salgini 'despues que los Españoles salieron de Mexico' ve 'antes que... viniesen a conquistar a Mexico' arasina yerlestirir. Siralama kaynagindir; salginin etkisinin buyuklugu kaynakta olculmemistir."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Kuşatmanın teknik aracı, göl üstünde kullanılmak üzere Tlaxcala'da yapılıp Tetzcoco'ya taşınan brigantinlerdi; Cortés'in mektuplarını taşıyan cildin içindekiler dizini bu taşımayı ayrı bir kalem olarak sayar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Brigantinlerin Tlaxcala'dan Tetzcoco'ya tasinmasi ciltte mektup govdesinde degil, cevirmenin hazirladigi icindekiler dizininde gorunur ('transportation of the brigantines from Tlascala to Tezcuco'). Bu yuzden destek kismi isaretlendi ve metin de dizini adiyla aniyor."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Sahagún'un metni son evreyi içeriden anlatır: her yandan sıkıştırılan Meksikalılar talihlerinin bitip bitmediğini sınamak için bir kehanete başvurmaya karar verir, Cuauhtemoctzin ileri gelenlere seslenir ve aralarındaki en yiğitlerden birine babası Ahuitzotl'un armasını giydirmelerini ister.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sahagún 12. kitap: 'hablo el señor de Mexico que se llamaba Cuauhtemoctzin... venga uno de los mas valientes que hay entre nosotros, y vistase las armas y divisas que eran de mi padre Avitzolzin'."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Kuşatmanın süresi ve bilançosu ise metnin kendisinde değil, 1829 baskısını hazırlayan Bustamante'nin dipnotundadır: şehir 13 Ağustos 1521'de alınmıştır, kuşatma yetmiş beş gün sürmüştür, kuşatmada hazır bulunan iki yüz bin kişiden binlercesi ile yüzden fazla İspanyol ölmüştür ve ölen Meksikalıların sayısının yüz bini aştığına inanılır; buna, editörün Cortés'e dayanarak verdiği elli binden fazla açlık ölüsü dahil değildir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "AGIR HAKEM DUZELTMESI (sutun karismasi). Bustamante dipnotu (21) birebir: 'de este modo fue conquistada la ciudad de Mexico el dia 13 de agosto de 1521... duro el sitio de Mexico... setenta y cinco dias: murieron en el algunos millares de doscientos mil hombres que se hallaron presentes, y mas de cien espanoles que la invadieron: se cree que el numero de mexicanos muertos pasaron de cien mil, sin contar los que perecieron de hambre... que segun Cortes asegura, pasaron de cincuenta mil.' Yani 200.000 OLU DEGIL, kusatmada HAZIR BULUNAN kisi sayisidir; olen Meksikalilar icin verilen sayi 'pasaron de cien mil'dir. Onarim metni 'iki yuz binin uzerinde olu verilmistir' yaziyordu; bu, sayiyi yanlis sutundan alip ayrica yukari yuvarliyordu. Duzeltildi ve dipnotun kendi ic tutarsizligi (binlerce / yuz binden fazla) metinde beyan edildi."
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "Teknoloji açıklaması, ateşli silahları ve zırhı belirleyici sayar; Cervera Obregón'un özeti bu konumu adıyla hedef alır ve tepelikli miğferin amblem olarak kullanılması, Cortés'in zırhlı askerleri ve ateşli silahların teknolojik belirleyen sayılması gibi yerleşik kabullerin dağıldığını söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ozeti: 'the emblematic use of the crested morion, the armored soldiers of Cortés, the use of firearms as the technological determinant'. Hakem: Crossref ustveri kunyesi; iddia makalenin bulgusu hakkinda oldugu icin havuz kurali geregi en fazla ozet duzeyinde destek — dogrudan yerine kismi."
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "İttifak açıklaması, Tlaxcala ve öteki yerli güçler olmadan seferin yürüyemeyeceğini savunur; Restall'ın özeti tam da bunu, müttefiklerin sayıca üstünlüğünü ve olayın yerli taraftan bir iç savaş olarak görülüşünü öne çıkarır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ozeti: 'many thousands of fighters, vastly outnumbering the conquistadors' ve 'a native civil war'. Hakem: Crossref ustveri kunyesi; iddia makalenin bulgusu hakkinda oldugu icin havuz kurali geregi en fazla ozet duzeyinde destek — dogrudan yerine kismi."
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Salgın açıklaması ise çiçek salgınının kuşatmadan önce geldiğini ve sayısız insanı öldürdüğünü söyler; dayanağı Sahagún'un metnidir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sahagún XXIX: salgin kusatmadan once, 'mato gentes sin numero'."
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "Cholula'daki beş saatlik harekâtın kuvvet dökümünü Cortés'in kendisi verir ve dökümde beş bin Tlaxcalalı vardır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cortés'in kendi kuvvet dokumu: 'five thousand indians of Tascaltecal, and four hundred of Cempoal', 'for five hours'."
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "Salgının kuşatmadan önce geldiğini ve yemek yapacak kimse kalmayacak kadar yayıldığını Nahua kaydı söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sahagún XXIX: 'antes que... viniesen a conquistar a Mexico' ve 'muchas murieron de hambre porque no habia quien pudiese hacer comida'."
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "Silahların tek başına belirleyici olmadığını gösteren de gene Cortés'tir: yüz binden fazla savaşçının ortasında geçen o günün sonucunu toplarına değil, tanrının kendi taraflarında savaştığı izlenimine bağlar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: 'and it truly seemed that god fought on our side'. Hakem duzeltmesi: 'savasmis olmasina' kesinligi kaynagin 'seemed' cekincesine indirildi."
+    },
+    {
+      "iddia_id": "i39",
+      "cumle": "Cortés Cholula'da iki saatte üç binden fazla ölü sayar ve sayıyı kendi başarısının ölçüsü olarak verir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cortés: 'in two hours more than three thousand of the enemy perished'. Sayi Cortés'in beyanidir."
+    },
+    {
+      "iddia_id": "i40",
+      "cumle": "Sahagún'un metni ise salgın ölüleri için hiçbir rakam yazmaz.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sahagún XXIX rakam vermez; 'gentes sin numero'."
+    },
+    {
+      "iddia_id": "i41",
+      "cumle": "Kuşatmanın süresi ve bilançosu ancak üç yüzyıl sonra, 1829 baskısını hazırlayan editörün dipnotunda sayıya dökülür.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sayilar 1829 baskisinin editor dipnotunda gorunur (bkz. i32); 1521'den 1829'a yaklasik uc yuzyillik arali metin acikca belirtiyor."
+    },
+    {
+      "iddia_id": "i42",
+      "cumle": "Amber Brian'ın makalesi 2021'i Tenochtitlan'ın düşüşünün beş yüzüncü yılı olarak anar ve fethin anlatısının Sahagún'un elinde nasıl değiştiğini inceler: Florentine Codex'in on ikinci kitabı ile keşişin 1585'te yazdığı yeni metin arasındaki fark, hikâyenin yüzyıl kapanırken yeniden kurulduğunu gösterir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ozeti: '2021 represents the five-hundred-year anniversary of the fall of Tenochtitlan' ve 'Sahagún's revision reveals how the narrative of the conquest changed in the hands of the Franciscan friar as the sixteenth century drew to a close'. Hakem: Crossref ustveri kunyesi; iddia makalenin bulgusu hakkinda oldugu icin havuz kurali geregi en fazla ozet duzeyinde destek — dogrudan yerine kismi."
+    },
+    {
+      "iddia_id": "i43",
+      "cumle": "Restall'ın özetinde olay, yerli tarafın gözünde İspanyolların önemli ama ikincil bir rol oynadığı bir yerli iç savaşı olarak adlandırılır; tek bir dış gücün eylemini ima eden fetih sözcüğü bu okumayla birlikte yerinden oynar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozetteki 'an important but secondary role' tam olarak aktarildi (hakem duzeltmesi). Ustveri kunyesi oldugu icin kismi."
+    },
+    {
+      "iddia_id": "i44",
+      "cumle": "Aynı zorlama askerî tarih tarafından da gelir: olayı yalnızca Tenochtitlan'ın düşüşüne indirgemek, öncesindeki ve sonrasındaki çarpışmaları görünmez kılar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ozeti: 'the various military confrontations that were not only summarized in the fall of Tenochtitlan, but also in the various scenarios before and after the fall of the Mexica Empire'. Hakem: Crossref ustveri kunyesi; iddia makalenin bulgusu hakkinda oldugu icin havuz kurali geregi en fazla ozet duzeyinde destek — dogrudan yerine kismi."
+    },
+    {
+      "iddia_id": "i45",
+      "cumle": "Cortés'in mektubu bir savunma metnidir ve müttefik sayılarını da o savunmanın içinde verir; beş bin Tlaxcalalıyı yazan el, Narváez'i hukuka aykırılıkla suçlayan eldir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cumlenin iki bileseni de k1'de dogrudan vardir (bes bin Tlaxcalali kuvvet dokumu; Narváez'in hukuka aykirilikla suclanmasi); birlestirme yazarindir ve yorum olarak isaretlendi."
+    },
+    {
+      "iddia_id": "i46",
+      "cumle": "Bernal Díaz'ın anısı geç yazılmıştır ama Doña Marina'nın kim olduğu gibi Cortés'in mektuplarında bulunmayan ayrıntıları taşır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hakem duzeltmesi: 'hicbir resmi belgeye gecmeyen' hicbir kaynagin tasimadigi mutlak olumsuz iddiaydi; sinanabilir bir olcute ('Cortes'in mektuplarinda bulunmayan') indirildi. Painala anlatisi k2'de, Cortes'in mektuplarinda yok."
+    },
+    {
+      "iddia_id": "i47",
+      "cumle": "Sahagún'un derlemesi bir keşişin denetiminden geçmiştir ama salgını ve açlığı içeriden anlatır ve rakam uydurmaz.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cumlenin bilesenleri k3'te dogrudan var: derlemenin salgini ve acligi iceriden anlatmasi ve rakam vermemesi. Keşiş denetimi k6 ile birlikte belgeleniyor. Degerlendirme cumlesi yazarindir."
+    },
+    {
+      "iddia_id": "i48",
+      "cumle": "Muñoz Camargo Tlaxcala'nın davasını savunur ama o davanın kendisi, fethin yerli tarafta da bir siyaset olduğunun kanıtıdır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Kronigin Tlaxcala'nin davasini savundugu k4'te goruluyor; bu savunun 'fethin yerli tarafta da bir siyaset oldugunun kaniti' sayilmasi yazarin okumasidir, kaynagin iddiasi degil."
+    },
+    {
+      "iddia_id": "i49",
+      "cumle": "Kaydın anlattığı çıkış da ittifak düzenini gösterir: hem savaştan hem açlıktan sıkışan İspanyollar bir gece kaleden çıkar, önde İspanyollar arkada Tlaxcalalılar, kanalları geçmek için yaptıkları taşınır köprülerle; hafif yağmur yağarken dört kanalı geçerler, sonra su almaya çıkan bir kadın onları görüp bağırınca alarm verilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem eklemesi: dalga notu 'La Noche Triste'yi acikca istiyordu, onarim metni geceyi yalnizca bir yan cumleyle geciyordu. Kaynak (bolum xxiv) birebir: 'despues que los espanoles y los amigos que con ellos estaban se hallaron muy apretados, asi de hambre como de guerra, una noche salieron todos de su fuerte, los espanoles delante y los indios tlaxcaltecas detras, y llevaban unas puentes hechas con que se pasaban las acequias. cuando esto acontecio llovia mansamente, pasaron cuatro acequias, y antes que pasasen las demas salio una muger a tomar agua y violos como se iban, y salio dando voces.'"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 33,
+    "kismi": 14,
+    "desteksiz": 0,
+    "olculemez": 2
+  }
+}

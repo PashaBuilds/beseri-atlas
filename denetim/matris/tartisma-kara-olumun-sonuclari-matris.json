@@ -1,13 +1,13 @@
 {
   "id": "tartisma-kara-olumun-sonuclari",
   "govde_hash": "02bb0986df7c",
-  "commit": "33a9638",
+  "commit": "9181554",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
     {
       "iddia_id": "i01",
-      "cumle": "Kara Ölüm, 1346 ile 1353 arasında Avrupa'yı vuran veba pandemisidir; en yüksek tahminler 50 milyona varan ölümden söz eder ve Avrupa nüfusunun yüzde 30 ila 60'ının, Orta Doğu nüfusunun ise yaklaşık yüzde 33'ünün öldüğü tahmin edilir.",
+      "cumle": "Kara Ölüm, 1346 ile 1353 arasında Avrupa'yı vuran veba ; en yüksek tahminler 50 milyona varan ölümden söz eder ve Avrupa nüfusunun yüzde 30 ila 60'ının, Orta Doğu nüfusunun ise yaklaşık yüzde 33'ünün öldüğü tahmin edilir.",
       "onem": "merkezi",
       "tur": "sayi",
       "kaynaklar": [
@@ -149,7 +149,7 @@
     },
     {
       "iddia_id": "i09",
-      "cumle": "Mart ile temmuz arasında, hastalığın şiddeti ve hastaların bakımsız bırakılması ortasında, surların içinde yüz bini aşkın insanın öldüğüne kesin gözüyle bakıldığını yazar; felaketi göğün ve belki kısmen de insanların zalimliği diye adlandırır.",
+      "cumle": "Mart ile temmuz arasında, hastalığın şiddeti ve hastaların bakımsız bırakılması ortasında, surların içinde yüz bini aşkın insanın öldüğüne kesin gözüyle bakıldığını yazar; felaketi \"göğün ve belki kısmen de insanların zalimliği\" diye adlandırır.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -213,7 +213,7 @@
     },
     {
       "iddia_id": "i13",
-      "cumle": "Kimi yerde kiralar çöktü — eskiden beş sterlin getiren bir kiralama artık bir sterlin getiriyordu — ve salgını izleyen bir buçuk yüzyıl, köylünün yükselen yaşam düzeyi üzerinden bir altın çağ diye anılır oldu.",
+      "cumle": "Kimi yerde kiralar çöktü — eskiden beş sterlin getiren bir kiralama artık bir sterlin getiriyordu — ve salgını izleyen bir buçuk yüzyıl, köylünün yükselen yaşam düzeyi üzerinden bir \"altın çağ\" diye anılır oldu.",
       "onem": "destek",
       "tur": "sayi",
       "kaynaklar": [
@@ -287,7 +287,7 @@
     },
     {
       "iddia_id": "i18",
-      "cumle": "Dönüşüm iddiası bu yüzden en sağlam zeminini ücret serilerinde değil, serflik kurumunun kendisinde arar: kurum feodalite düzeninin taşıyıcı direğiydi ve çözülüşü rejim ölçeğinde bir değişimdir.",
+      "cumle": "Dönüşüm iddiası bu yüzden en sağlam zeminini ücret serilerinde değil, serflik kurumunun kendisinde arar: kurum düzeninin taşıyıcı direğiydi ve çözülüşü rejim ölçeğinde bir değişimdir.",
       "onem": "destek",
       "tur": "yorum",
       "kaynaklar": [
@@ -323,7 +323,7 @@
     },
     {
       "iddia_id": "i20",
-      "cumle": "Külliyatta 1351 yasası başlığıyla duran metnin girişi durumu tacın ağzından anlatır: halkın, hele işçi ve hizmetkârların büyük bölümü salgında ölmüştür ve sağ kalanların bir kısmı 'aşırı ücret almadıkça hizmet etmeye yanaşmamaktadır'.",
+      "cumle": "Külliyatta 1351 yasası başlığıyla duran metnin girişi durumu tacın ağzından anlatır: halkın, hele işçi ve hizmetkârların büyük bölümü salgında ölmüştür ve sağ kalanların bir kısmı \"aşırı ücret almadıkça hizmet etmeye yanaşmamaktadır\".",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -521,7 +521,7 @@
     },
     {
       "iddia_id": "i33",
-      "cumle": "Lordların şoka ilk tepkisi çoğu yerde eskiyi geri çağırmak oldu: Halesowen'in lordu servil kiracıdan hizmetlerin tamamını istemekle kalmadı, vebadan çok önce rafa kalkmış yükümlülükleri bile diriltti; Katalonya'da lordlar, vebadan önce başlayan sıkı denetimi, yıldırma ile özgürlüğü satın alma harçlarını fahiş tutmanın karışımıyla sürdürdü.",
+      "cumle": "Halesowen'in lordu servil kiracıdan hizmetlerin tamamını istemekle kalmadı, vebadan çok önce rafa kalkmış yükümlülükleri bile diriltti; Katalonya'da lordlar, vebadan önce başlayan sıkı denetimi, yıldırma ile özgürlüğü satın alma harçlarını fahiş tutmanın karışımıyla sürdürdü.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -595,7 +595,7 @@
     },
     {
       "iddia_id": "i37",
-      "cumle": "Nüfus kaybı iki tarafta da ağır olduğuna göre, demografi sabit tutulduğunda geriye köylü topluluklarının örgütlülüğü, lordların dayanışması ve iki taraf arasındaki güç dengesi kalır; Brenner'a göre serfliğin nerede çözülüp nerede kurulacağını bu denge belirledi ve şok, dengeyi kuran değil sınayan güçtü.",
+      "cumle": "İlk dalganın ölüm düzeyi doğuda batıya benzer sayıldığına göre, demografi sabit tutulduğunda geriye köylü topluluklarının örgütlülüğü, lordların dayanışması ve iki taraf arasındaki güç dengesi kalır; Brenner'a göre serfliğin nerede çözülüp nerede kurulacağını bu denge belirledi ve şok, dengeyi kuran değil sınayan güçtü.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -663,7 +663,7 @@
     },
     {
       "iddia_id": "i41",
-      "cumle": "Avrupa nüfusunun 14. yüzyıl düzeyini ancak 16. yüzyılda yeniden yakaladığı kaydı ise şokun uzunluğu hakkında herhangi bir oran tahmininden daha çok şey söyler.",
+      "cumle": "Avrupa nüfusunun 14. yüzyıl düzeyini ancak 16. yüzyılda yeniden yakaladığı kaydı ise şokun uzunluğu hakkında herhangi bir oran tahmininden daha çok şey söyler; serinin kendisi dosyasında işleniyor.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -793,5 +793,11 @@
     "kismi": 18,
     "desteksiz": 0,
     "olculemez": 1
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "8 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

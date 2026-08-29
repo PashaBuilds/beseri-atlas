@@ -14,6 +14,7 @@ ilgili:
   - dusunur-tocqueville
   - dusunur-hegel
   - dusunur-gandhi
+  - olay-arap-bahari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,7 +1,7 @@
 {
   "id": "tartisma-tunc-cagi-cokusunun-nedeni",
   "govde_hash": "502291c248cf",
-  "commit": "b79cb4d",
+  "commit": "9181554",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -416,5 +416,11 @@
     "desteksiz": 0,
     "olculemez": 0
   },
-  "not_orkestrator": "2026-08-29: hakem sonrasi mekanik kapi onarimi (sema alani / kilitli terim / dipnot); icerik iddialari degismedi."
+  "not_orkestrator": "2026-08-29: hakem sonrasi mekanik kapi onarimi (sema alani / kilitli terim / dipnot); icerik iddialari degismedi.",
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

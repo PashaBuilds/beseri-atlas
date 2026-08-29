@@ -3,14 +3,16 @@ id: dusunur-weber
 tip: dusunur
 baslik: Max Weber
 ozet: >-
-  Kaynak, yöntem bölümünde dört ayrı başlık tutar; bunlardan biri değerden
-  bağımsızlıktır ve bir yöntem kararı olarak kaydedilir.
+  Toplumsal eylemi içeriden anlamayı nedensel açıklamayla aynı cümlede
+  birleştiren, ideal tipi betimleme değil sapma ölçen bir kurgu olarak kuran ve
+  modern kapitalizmin kökenini dünyevi bir çilecilikte arayan düşünür; adıyla
+  anılan demir kafes imgesi ise onun değil, çevirmeninin sözcüğüdür.
 tarih_baslangic: "1864"
 tarih_bitis: "1920"
-bolge: [avrupa, dogu-asya, guney-asya]
-eksen: [felsefi, ekonomik, dini]
+bolge: [avrupa]
+eksen: [felsefi, ekonomik, dini, siyasi]
 guven_geneli: yaygin
-etiketler: [weber, ideal-tip, deger-bagimsizligi, verstehen, mesruiyet]
+etiketler: [weber, ideal-tip, verstehen, deger-bagimsizligi, mesruiyet]
 ilgili:
   - dusunur-durkheim
   - dusunur-marx
@@ -19,97 +21,291 @@ ilgili:
   - kavram-sekulerlesme
   - kavram-burokrasi
   - kavram-patrimonyalizm
+  - kavram-kapitalizm
   - kaynak-weber-protestan-ahlaki
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Max Weber"
-    url: https://en.wikipedia.org/wiki/Max_Weber
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Weber"
+    tur: birincil
+    birincil_tur: eser
+    ad: "Weber - Definition of Sociology / Basic Sociological Terms (Ingilizce metin)"
+    url: https://www.marxists.org/reference/subject/philosophy/works/ge/weber.htm
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "a science which attempts the interpretive understanding of social action in order thereby to arrive at a causal explanation"
+    not: "Yontem bolumunun acilisi; Verstehen ve ideal tip tanimlari burada. Ceviri Heydebrand (1994) derlemesinden aktarilmistir, Almanca aslin kendisi degildir"
   - anahtar: k2
-    tur: akademik
-    ad: "Stanford Encyclopedia of Philosophy - Karl Marx"
-    url: https://plato.stanford.edu/entries/marx/
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Marx"
-    not: "Ayni soruya baska bir cevap; bagimsiz alan adi"
+    tur: birincil
+    birincil_tur: eser
+    ad: "Weber - The Protestant Ethic and the Spirit of Capitalism, Bolum II (tam metin)"
+    url: https://www.marxists.org/reference/archive/weber/protestant-ethic/ch02.htm
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "the auri sacra fames , the greed for gold"
+    not: "Kapitalizmin ruhunun tanimi, tarihsel birey kavrami ve Franklin ornegi. Parsons (1930) cevirisi"
   - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Emile Durkheim"
-    url: https://en.wikipedia.org/wiki/%C3%89mile_Durkheim
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Durkheim"
-    not: "Cagdasi"
+    tur: birincil
+    birincil_tur: eser
+    ad: "Weber - The Protestant Ethic and the Spirit of Capitalism, Bolum IV (tam metin)"
+    url: https://www.marxists.org/reference/archive/weber/protestant-ethic/ch04.htm
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "the certitudo salutis in the sense of the recognizability of the state of grace"
+    not: "Asketik Protestanligin dort bicimi ve kurtulus guvencesi sorunu. Parsons (1930) cevirisi"
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
-    ad: "The Protestant ethic and the spirit of capitalism (tam metin)"
-    url: https://archive.org/details/protestantethics0000webe
-    erisim_tarihi: 2026-08-23
-    dogrulama_dizesi: "The Protestant ethic and the spirit of capitalism"
-    not: "Dusunurun baslica eserinin kamu mali tam metni"
-son_denetim: 2026-08-23
+    ad: "Weber - The Protestant Ethic and the Spirit of Capitalism, Bolum V (tam metin)"
+    url: https://www.marxists.org/reference/archive/weber/protestant-ethic/ch05.htm
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "But fate decreed that the cloak should become an iron cage"
+    not: "Meslek fikri, Baxter, kapanis pasaji ve Weber'in kendi tek yanlilik cekincesi. Parsons (1930) cevirisi"
+  - anahtar: k5
+    tur: akademik
+    ad: "Stanford Encyclopedia of Philosophy - Max Weber"
+    url: https://plato.stanford.edu/entries/weber/
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "the monopoly of the legitimate use of physical force within a given territory"
+    not: "Akilcilasma, deger coklugu, Wertfreiheit, egemenlik toplumbilimi ve siyasal miras tartismasi icin ana ikincil kaynak"
+  - anahtar: k6
+    tur: akademik
+    ad: "Peter Baehr - The Iron Cage and the Shell as Hard as Steel (History and Theory, 2001)"
+    url: https://api.crossref.org/works/10.1111/0018-2656.00160
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "Parsons famously rendered as the"
+    not: "Kunye ve ozet kaydi; stahlhartes Gehause imgesinin ceviri tarihi. Makalenin tam metni erisimde degil, iddialar ozete dayanir"
+  - anahtar: k7
+    tur: akademik
+    ad: "Alvin W. Gouldner - Anti-Minotaur: The Myth of a Value-Free Sociology (Social Problems, 1962)"
+    url: https://api.crossref.org/works/10.1525/sp.1962.9.3.03a00010
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "The Myth of a Value-Free Sociology"
+    not: "Yalniz kunye kaydi: yazar, yil, dergi ve baslik. Crossref kaydinda ozet yok, bu yuzden metindeki iddia basligin tasidigiyla sinirli tutuldu"
+  - anahtar: k8
+    tur: akademik
+    ad: "Becker ve Woessmann - Was Weber Wrong? (Quarterly Journal of Economics, 2009)"
+    url: https://api.crossref.org/works/10.1162/qjec.2009.124.2.531
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "A Human Capital Theory of Protestant Economic History"
+    not: "Yalniz kunye kaydi: yazarlar, yil, dergi ve baslik. Crossref ve Semantic Scholar kayitlarinda ozet yok; metindeki iddia baslikla sinirli"
+  - anahtar: k9
+    tur: ansiklopedi
+    ad: "Wikipedia (EN) - Max Weber"
+    url: https://en.wikipedia.org/wiki/Max_Weber
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "tripartite classification of authority"
+    not: "Giris kapisi; biyografik iskelet ve uclu otorite siniflandirmasinin ozeti icin erisim tarihli okunur"
+son_denetim: 2026-08-29
 denetim_durumu: onaylandi
-onarim_turu: 0
+onarim_turu: 1
 ---
 
-Kaynak, yöntem bölümünün altında dört alt başlık tutar: Verstehen, yöntemsel
-bireycilik, ideal tip ve değerden bağımsızlık.[^k1] Bu dosya, kuramlarını değil
-**kaydın yöntemi ayrı bir bölüm saymasını** ele alır.
+Bir grevi ya da bir ayini dışarıdan saymak, orada ne olup bittiğini söylemez.
+Max Weber'in kurduğu programda toplumbilim, toplumsal eylemi yorumlayarak
+anlamayı üstlenen ve bunu eylemin seyri ile sonuçlarının nedensel açıklamasına
+vardırmayı amaçlayan bir bilimdir.[^k1] Tek cümlede duran iki yarım, işin
+bütün gerilimini taşır: anlamak eylemin içine, açıklamak dışına bakmayı ister
+ve Weber ikisinden birini feda etmeyi reddeder. Bu reddin bıraktığı alanda
+akılcılaşma, büyübozumu ve modern hayatın anlam sorunu üzerine bir yüzyıllık
+tartışma sürüyor.[^k5]
 
-## Yöntem, kuramdan önce gelir
+Reddin bedeli, gerçekliği betimlemeyen bir kavram takımı kurmaktır. Weber'in
+[ideal tip](/kavram/ideal-tip/) dediği şey bir tanım ya da ortalama değil,
+bilinçli bir kurgudur: eylem tümüyle akılcı yürüseydi alacağı seyri çizer ve
+gerçek davranışın bu çizgiden ne kadar saptığını ölçmeye yarar; sapmanın
+hesabı da duygular ve yanılgılar gibi akıl dışı etkenlerin nedensel
+ağırlığını görünür kılar.[^k1] Weber'in kendi uyarısı burada belirleyicidir: böyle
+kurulmuş saf tiplerden birine tıpatıp uyan gerçek bir olguya rastlamak pek
+seyrek, belki de hiç mümkün değildir.[^k1]
 
-Kaynak yöntem bölümünü kuramlar bölümünden önce yerleştirir; kuramlar bölümünde
-akılcılaşma, büyübozumu, Protestan ahlakı ve kapitalizmin ruhu, dünya dinlerinin
-iktisadi ahlakı, teodise, devlet-siyaset-yönetim, meslek dersleri, hukuk ve
-iktisat başlıkları sıralanır.[^k1]
+## Anlamanın sınırı da yöntemin parçasıdır
 
-Bir düşünürün maddesinde yöntemin kuramlardan önce gelmesi,[^k1] atlasın kendi
-yöntem notlarını neden içerikten ayrı bir dosyada tuttuğuyla aynı kararı yansıtır.
+Weber anlamayı ikiye ayırır. Bir kapı kolunu çeviren ya da bir hayvana nişan
+alan insanı doğrudan gözleyerek anlarız; buna karşılık birinin ikiyle ikinin
+dört ettiğini tam o anda yazmasını, defter kapattığını ya da bir kanıtlama
+yürüttüğünü bildiğimizde anlarız — ikincisi, edimi daha geniş ve anlaşılabilir
+bir bağlama yerleştiren güdü açıklamasıdır.[^k1] Yöntemin sınırını da
+saklamaz: anlamlı eylem ile hiçbir öznel anlam yüklenmemiş salt tepkisel
+davranış arasındaki çizgi ampirik olarak keskin biçimde çizilemez ve
+toplumbilimi ilgilendiren davranışın hatırı sayılır bir bölümü, özellikle
+geleneksel davranış, tam da bu iki alanın sınırında durur.[^k1]
 
-## Kavram listesi bir sözlük gibidir
+Aynı yerde, sonradan Weber'in imzası sayılacak bütün kavramların ideal tip
+olarak kurulduğunu söyler: aynı tarihsel olgu bir yanıyla feodal, bir yanıyla
+patrimonyal, bir yanıyla bürokratik, bir yanıyla karizmatik olabilir.[^k1]
+Kavramlar gerçekliğin fotoğrafı değil, ona tutulan cetvellerdir;
+[bürokrasi](/kavram/burokrasi/) ve
+[patrimonyalizm](/kavram/patrimonyalizm/) terimlerinin bugünkü kullanımı bu
+karardan doğar.
 
-Kaynak kayda değer fikirlerini uzun bir liste hâlinde verir; içinde ideal tip,
-karizma, büyübozumu, demir kafes, yaşam şansları, yöntemsel bireycilik, belirli
-bir alan içinde meşru güç kullanımı tekeli, patrimonyalizm, akılcılaşma ve
-değerden bağımsızlık sayılır.[^k1] Otoritenin üçlü sınıflandırması karizmatik,
-akılcı-yasal ve geleneksel olarak; tabakalaşmanın üç bileşenli kuramı ise sınıf,
-parti ve statü olarak verilir.[^k1]
+## Erfurt'tan Münih'e
 
-Bir düşünürün katkısının kavram listesi biçiminde kaydedilmesi,[^k1] atlasın
-kavram katmanının neden ayrı bir tip olarak kurulduğunu gösterir; meşruiyet
-kavramı [Meşruiyet](/kavram/mesruiyet/) dosyasında ele alınıyor.
+Weber 21 Nisan 1864'te Prusya'nın Erfurt kentinde doğdu; Berlin, Göttingen ve
+Heidelberg'de hukuk ve tarih okudu, 1889'da doktorasını, 1891'de doçentliğini
+aldı ve Berlin, Freiburg ile Heidelberg'de ders verdi.[^k9] 1897'de, bir
+tartışmanın ardından babasının ölümü üzerine çöküntü geçirdi; öğretimi bıraktı
+ve 1900'lerin başına kadar seyahat etti — *Protestan Ahlakı* bu toparlanma
+döneminin ürünüdür.[^k9]
 
-## Eserler yıl aralıklarıyla verilir
+Birinci Dünya Savaşı'nda önce Almanya'nın savaş çabasını destekledi, sonra
+eleştirel bir konuma geçip demokratikleşmeyi savundu; *Bilim Bir Meslek
+Olarak* ve *Siyaset Bir Meslek Olarak* derslerini bu yıllarda verdi.[^k9]
+Savaştan sonra Alman Demokrat Partisi'nin kurucuları arasına katıldı, aday
+olduğu seçimde kazanamadı, Weimar Anayasası'nın hazırlanmasına danışmanlık
+etti ve Viyana ile Münih'te öğretime döndü; 1920'de elli altı yaşında
+zatürreden öldü — kaynak ölümü savaş sonrası İspanyol gribi salgınına bağlayan
+açıklamayı olasılık kaydıyla verir.[^k9]
 
-Kaynak eserleri künyeleriyle sıralar: *Protestan Ahlakı ve Kapitalizmin Ruhu*
-(1904-1905), *Dünya Dinlerinin İktisadi Ahlakı* (1915-1921), *Bilim Bir Meslek
-Olarak* (1917), *Siyaset Bir Meslek Olarak* (1919), *Ekonomi ve Toplum*
-(1921-1922) ve *Genel İktisat Tarihi* (1923).[^k1]
+## Kapitalizmin ruhu açgözlülük değildir
 
-Son üç eserin ölüm yılından sonraya tarihlenmesi,[^k1] bunların ölümünden sonra
-yayımlandığı anlamına gelir; aynı durum
-[Carl von Clausewitz](/dusunur/clausewitz/) dosyasında da görülür.
+*Protestan Ahlakı*'nın çözmeye çalıştığı bilmece, sanıldığı gibi insanların
+neden zengin olmak istediği değildir. Weber tersini söyler: kazanma
+içgüdüsünün eski çağlarda bilinmediği ya da gelişmemiş olduğu doğru değildir;
+altın açlığı (*auri sacra fames*) burjuva kapitalizminin dışında da en az
+onun içindeki kadar güçlüdür ve Çinli bir mandarinin, eski bir Romalı
+soylunun ya da modern bir köylünün açgözlülüğü her karşılaştırmayı kaldırır —
+kapitalist ile kapitalizm öncesi ruh arasındaki fark bu noktada
+aranmamalıdır.[^k2]
 
-## Çağdaşları ve rakip cevaplar
+Aranacak yer, kazancın disipline edilmiş bir ödeve dönüşmesidir. Weber savını
+önce nesnesini tanımlayarak kurar: kapitalizmin ruhu, kültürel önemleri
+açısından tek bir kavramsal bütün hâlinde birleştirdiğimiz, tarihsel
+gerçeklikteki öge karmaşasıdır — yani bir “tarihsel birey”dir, evrensel bir
+tür değil.[^k2] Bu bütünün belgesi olarak da dinle doğrudan ilişkisi olmayan,
+bu yüzden ön kabullerden arınmış saydığı bir metni seçer: Benjamin Franklin'in
+zamanın ve kredinin para olduğunu anlatan öğütlerini, boş geçirilen yarım günün
+insana yalnız harcadığını değil kazanabileceğini de kaybettirdiğini gösteren
+hesabını.[^k2]
 
-Aynı yıllarda yazan bir çağdaşı için tutulan kayıt, onun toplumbilimi kurumlar
-bilimi olarak tanımladığını yazar.[^k3] O düşünür
-[Émile Durkheim](/dusunur/durkheim/) dosyasında ele alınıyor.
+## Kurtuluş kaygısından iş disiplinine
 
-Aynı soruya bir başka cevap için tutulan kayıt ise, toplum biçimlerinin üretici
-gücün gelişimine göre yükselip düştüğü fikrini anlatır.[^k2] O düşünür
-[Karl Marx](/dusunur/marx/) dosyasında ele alınıyor.
+Savın motoru bir teoloji sorunudur. Kaderin önceden belirlenmişliği öğretisinin
+tutulduğu her yerde, insanın seçilmişler arasında sayılıp sayılmadığını
+gösterecek şaşmaz ölçütlerin bulunup bulunmadığı sorusu bastırılamaz hâle
+geliyordu; sıradan mümin için lütuf hâlinin tanınabilirliği anlamında kurtuluş
+güvencesi (*certitudo salutis*) belirleyici önem kazanıyordu.[^k3] Cevap
+dünyevi çalışmada bulundu: dinsel kuşkuları dağıtıp lütuf kesinliğini veren en
+uygun araç olarak yalnızca o gösteriliyordu.[^k3]
 
-## Bu dosyanın sınırı
+Weber dört asketik Protestanlık biçimi ayırır — Kalvinizm, Pietizm, Metodizm
+ve Vaftizci hareketten çıkan mezhepler — ama ayrımların keskinliği konusunda
+tetiktir: bu hareketlerin hiçbiri ötekilerden tümüyle kopuk değildir ve
+Reformasyon'un asketik olmayan kiliselerinden ayrılmaları da hiçbir zaman tam
+olarak açık değildir.[^k3] Meslek (*Beruf*) fikrinin en tutarlı dinsel temelini
+İngiliz Püritenliğinin Kalvinci kolunda bulur ve tartışmanın merkezine, hem
+pratik tutumu hem eserlerinin gördüğü yaygın kabul yüzünden Richard Baxter'ı
+koyar.[^k4] Püriten yazında zenginlik kendi başına büyük bir tehlikedir;
+ayartıları bitmez ve peşine düşülmesi ahlaken kuşkuludur.[^k4] Sonuç servetin
+yasaklanması değil, harcamanın kısılıp emeğin yöntemli bir ödeve
+dönüşmesidir — [sekülerleşme](/kavram/sekulerlesme/) tartışmasının en çok
+alıntılanan mekanizması budur.
 
-Akılcılaşma tezi, din toplumbilimi, hukuk ve iktisat yazıları burada ayrı
-başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
-işler.[^k1]
+## Demir kafes kimin sözcüğüdür
 
-## Eserine bağ
+Kitabın kapanışı, en çok anılan ve en çok çarpıtılan yeridir. Weber, Baxter'ın
+dünyevi mallara duyulan kaygıyı her an omuzdan atılabilecek hafif bir pelerine
+benzetmesini anar, sonra kaderin başka türlü hükmettiğini yazar: Talcott
+Parsons'ın çevirisinde pelerinin dönüştüğü şey bir “demir kafes”tir.[^k4]
+Aynı sayfalarda, akılcılaşmanın son durağı için uzmanlıkta ruhsuz, hazda
+kalpsiz bir insan tipini tarif eden alaycı bir yargı da geçer; ama Weber bunun
+değer yargıları ve inanç dünyasına ait olduğunu, tarihsel incelemenin böyle
+bir yükü taşımak zorunda olmadığını hemen ekler.[^k4]
 
-Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Protestan Ahlaki*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
-verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.
+Sorun şu ki demir kafes Weber'in sözcüğü değildir. Almanca metinde geçen ifade
+*stahlhartes Gehäuse*'dir; Peter Baehr, Parsons'ın kanonik çevirisinin
+statüsünü, imgenin olası kaynağını — Bunyan'ın *Çilekeşin Yolculuğu* — ve
+Weber'in çelik sertliğinde kabuk ile uyandırmak istediği daha karmaşık fikri
+ayrı ayrı inceler.[^k6] Fark maddidir: kafes insanı kapatır ama güçlerini
+olduğu gibi bırakır; kabuk ise bürokratik kapitalizmin insan öznesini yeniden
+kurduğunu ima eder — üstelik çelik, demir gibi bir element değil, insan
+yapımı bir üründür; hem serttir hem esneyebilir.[^k6] Baehr bu yoruma
+yöneltilen itirazları da tarttıktan sonra ilginç bir sonuca varır: Parsons'ın
+buluşu, aslın karşılığı olarak kusurlu olsa da kendi başına verimli bir
+sikke, gezgin bir fikir hâline gelmiştir ve çevirmenin muhayyilesinin metne
+nasıl yerleşebildiğinin örneğidir.[^k6]
+
+## Egemenlik, meşruiyet ve devlet
+
+Weber'in siyaset toplumbilimi, kendi adlandırmasıyla bir egemenlik
+toplumbilimidir (*Herrschaftssoziologie*) ve devleti çağdaşlarının yüklediği
+ahlaki niteliklerden yoksun, incecik bir tanımla verir: belirli bir toprak
+parçası içinde meşru fiziksel güç kullanma tekelini başarıyla talep eden insan
+topluluğu.[^k5] Tanımın ağırlık merkezi yalnızca güç değildir: bir buyruğun
+yerine getirilmesi tek başına egemenlik anlamına gelmez, buyruğun geçerli bir
+norm olarak kabul edilmesi gerekir; itaatin gerekçesi salt güç tehdidi ya da
+çıkar vaadi değil, yöneticinin otorite iddiasıdır.[^k5] Bu ayrım
+[meşruiyet](/kavram/mesruiyet/) kavramının bugünkü kullanımının çekirdeğidir.
+
+Otoriteye dayalı ilişkileri üçlü bir sınıflandırmaya göre kümeler.[^k9]
+Karizmatik otorite gücünü kişinin olağanüstü niteliklerinden alır; kararsızdır,
+çünkü kurumsallaşmaya direnir ve liderin başarısına bağlıdır, zamanla daha
+yapılı biçimlere rutinleşmek zorunda kalır.[^k9] Geleneksel otorite önceden
+yerleşmiş geleneklere ve onlar sayesinde yetki taşıyanlara duyulan bağlılığa
+dayanır; patrimonyalizm, yöneticilerin devleti ve orduyu hanelerinin uzantısı
+gibi görmesiyle tanımlanan bir alt türüdür.[^k9] Akılcı-yasal otorite ise
+bürokrasiye ve kuralların yasallığına duyulan inanca yaslanır; ötekilerden
+farklı olarak yavaş yavaş gelişmiştir ve modernlikte baskın tiptir.[^k9]
+
+## İtirazlar: veri, yöntem, siyaset
+
+Tezin ampirik çekirdeği doğrudan sınandı. İktisatçılar Sascha O. Becker ve
+Ludger Woessmann, 2009'da *Quarterly Journal of Economics*'te yayımladıkları
+çalışmaya "Weber yanılıyor muydu?" sorusunu başlık yaptılar ve Protestan
+iktisadi tarihi için beşerî sermayeye dayanan bir kuram önerdiler.[^k8]
+Değerden bağımsızlık ilkesi de hedef oldu: Alvin Gouldner 1962'de *Social
+Problems* dergisindeki yazısına *Değerden Bağımsız Toplumbilim Miti* başlığını
+koydu.[^k7] Weber'in kendi konumu ise sanıldığı kadar rahat değildir; onda
+nesnellik doğru yöntemle ulaşılabilecek bir hedef değil, nihai bir yerine
+gelme vaadi olmadan uğrunda çabalanması gereken bir ülküdür ve değerden
+bağımsızlık (*Wertfreiheit*) bir yöntem ilkesi olduğu kadar bilim insanından
+beklenen bir erdemdir.[^k5]
+
+Siyasal miras daha sert tartışılır. Weber'in bugüne dek Bonapartçı sezarizmi,
+edilgen-devrimci Fordist ideolojiyi, yarı-faşist seçkinciliği, hatta
+proto-Nazizmi barındırdığı ya da haber verdiği ileri sürülmüştür; suçlamayı
+yöneltenler arasında Leo Strauss, Herbert Marcuse ve Wolfgang Mommsen sayılır
+ve gerekçe özellikle Weber'in sağlam milliyetçiliği ile güce yönelik nihilist
+övgüsüdür.[^k5] Bu siyasal itirazların yanında kuramsal bir boşluk da vardır:
+tipoloji demokrasiye kavramsal bir yer bulmakta zorlanır. Bir yerde demokrasi
+dördüncü bir meşruiyet tipi sayılır — üç ideal tipin hepsi meşruiyete
+yukarıdan bakarken demokrasi aşağıdan gelene alan açabildiği için; başka
+yerlerde Weber demokrasiyi meşru bir egemenlik tipi değil, düpedüz
+meşru-olmayan sayar.[^k5]
+
+## En sık yapılan dört yanlış okuma
+
+Birincisi, *Protestan Ahlakı*'nı Protestanlığın kapitalizmi doğurduğu
+biçiminde tek yönlü bir nedensellik iddiasına indirgemektir. Kitabın son
+paragrafı tam bunu reddeder: Weber'in amacı tek yanlı bir maddeci yorumun
+yerine aynı ölçüde tek yanlı bir tinselci yorum koymak değildir; ikisi de eşit
+ölçüde mümkündür, ama araştırmanın hazırlığı değil sonucu olarak
+kullanıldıklarında tarihsel hakikate eşit ölçüde az katkı yaparlar.[^k4]
+İkincisi, demir kafesi Weber'in imgesi sanmaktır; imge çeviriden gelir ve
+kendi tarihini yaşamıştır.[^k6]
+
+Üçüncüsü, ideal tipi bir betimleme sanmaktır: tip gerçekliğin yerine geçmez,
+gerçekliğin ondan sapmasını ölçer ve Weber saf tipe tıpatıp uyan olgunun
+neredeyse hiç bulunmadığını kendisi yazar.[^k1] Dördüncüsü, değerden
+bağımsızlığı değersizlik sanmaktır; oysa ilke, araştırmacının değerlerinin
+sorusunu seçtiğini kabul edip yargıyı bulguya karıştırmama disiplinidir ve
+tam da bu yüzden ulaşılmış bir durum değil, sürdürülen bir çabadır.[^k5]
+
+Karşı yönde bir tuzak da vardır: Weber'i sonraki siyasal kullanımından geriye
+doğru mahkûm etmek. Suçlamalar ciddiye alınmalıdır; ama kaynak bunları metnin
+kanıtlanmış içeriği olarak değil, bugün de sürdürülen bir eleştiri hattı
+olarak kaydeder ve gerekçeyi Weber'in milliyetçiliğine ve güce bakışına
+bağlar.[^k5] Metnin kendisinde ise kavramlar hüküm değil ölçüdür: aynı olgu
+bir yanıyla feodal, bir yanıyla karizmatik sayılabilir.[^k1]
+
+## Bugün nerede anılıyor
+
+Weber bugün üç ayrı masada anılıyor. Yöntem tartışmasında, toplumbilimi
+yorumlayıcı anlama ile nedensel açıklamayı aynı anda üstlenen bir bilim diye
+tanımlayan cümle başvuru noktası olmayı sürdürüyor.[^k1] Siyaset
+kuramında, devletin güç tekeli üzerinden tanımlanması ve meşruiyetin
+itaatin gerekçesine bağlanması, çağdaş realizmin tartıştığı çerçeveyi kurar.[^k5]
+İktisat tarihinde ise Protestan iktisadi tarihi, tezin yerine beşerî sermaye
+gibi başka mekanizmalar koymayı deneyen çalışmaların konusu olmayı
+sürdürüyor.[^k8] Kavramlarının izi
+[ideal tip](/kavram/ideal-tip/), [meşruiyet](/kavram/mesruiyet/) ve
+[Protestan Ahlakı](/kaynak/weber-protestan-ahlaki/) dosyalarında sürüyor;
+aynı soruya verilmiş rakip cevaplar
+[Émile Durkheim](/dusunur/durkheim/) ve [Karl Marx](/dusunur/marx/)
+dosyalarında ele alınıyor.

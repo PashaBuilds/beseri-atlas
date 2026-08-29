@@ -1,0 +1,711 @@
+{
+  "id": "dusunur-locke",
+  "govde_hash": null,
+  "commit": null,
+  "zaman": "2026-08-29",
+  "hakem": "TASLAK-yazar",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Emek işçinin tartışılmaz mülkiyeti olduğuna göre, o emeğin katıldığı şey üzerinde başkasının hakkı kalmaz — \"en azından ortakta başkalarına yeterince ve aynı iyilikte kalmışsa\".",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ikinci Inceleme 27. kisim birebir; \"en azindan\" kaydi kaynagin kendi sinirlayicisidir, metne tasindi"
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Aynı kitabın ikinci savı da bir mekanizmadır: hiç kimse doğal eşitlik durumundan çıkarılıp bir başkasının siyasal iktidarına, kendi rızası olmadan bağlanamaz; bir topluluk kurulduğunda ise çoğunluğun kararı bütünün kararı sayılır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "95-96. kisimlar: riza ve cogunluk kurali"
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Aynı kitap, köleliği haklı savaşın sonucu sayan bir bölüm de taşır; onu yazan kişi, Carolina sömürgesinin kurucu metnini hazırlayan kurulun kâtibiydi ve yapan şirketlerde hissesi vardı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kolelik bolumu 24. kisimda \"lawful conqueror\" ile kurulur; katiplik k5te; hisse sahipligi k10un ozetinde \"slave trading companies\" olarak, sirket adi verilmeden"
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Birinci İnceleme'nin ilk cümlesi, Sir Robert Filmer'ın Patriarcha'sını hedef alır ve köleliği insan için \"öyle aşağılık ve sefil bir durum\" sayar ki bir İngiliz'in, hele bir centilmenin onu savunmasının akla gelemeyeceğini söyler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birinci Inceleme I.1 birebir"
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Locke'un karşısına aldığı sav, Filmer'ın bütün iktidarı Âdem'e verilmiş babalık hakkından türetip mutlak monarşiyi ilahi hakla temellendirmesidir; Locke bunu iki cümlede özetler: bütün yönetim mutlak monarşidir, çünkü hiç kimse özgür doğmaz.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birinci Inceleme I.2: \"all government is absolute monarchy\" ve \"no man is born free\""
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "İkinci İnceleme'nin bütün kavram takımı bu iki cümleyi çürütmek için kurulmuştur; nitekim özgürlüğü tanımlarken de doğrudan Filmer'a dönüp onun canının istediğini yapma özgürlüğü tanımını reddeder ve özgürlüğü, herkes için ortak, yasama gücünce konmuş sabit bir kurala göre yaşamak diye tanımlar.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "22. kisim Filmer'in tanimini adiyla reddeder ve ozgurlugu sabit kurala baglar; \"butun kavram takimi bu iki cumleyi curutmek icin kurulmustur\" yazarin cercevelemesidir"
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Shaftesbury, Katolik olduğunu açıklayan James'in tahta geçmesini engelleyecek bir dışlama yasası için parlamento çoğunluğu örgütledi; yasa Avam Kamarası'ndan geçti, Lordlar'da reddedildi, Shaftesbury 1681'de tutuklandı ve muhalefetin bir bölümü silahlı ayaklanma tasarlamaya başladı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dislama yasasi, Lordlar'da red, 21 Temmuz 1681 tutuklama ve silahli ayaklanma tasarisi k5te"
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Locke 1683'te Hollanda'ya kaçtı, 1689 Şubatı'nda döndü ve İki İnceleme ile Hoşgörü Üzerine Mektup'u imzasız yayımladı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5: 1683 surgun, Subat 1689 donus, iki eserin imzasiz yayimi"
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Emek kuramının işlevi, ortak mülkiyetten özel mülkiyete geçişi herkesin onayını beklemeden mümkün kılmaktır: eğer böyle bir onay gerekseydi, Tanrı bolluk verdiği hâlde insan açlıktan ölürdü.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "28. kisim: ortak riza sarti olsaydi insan aclıktan olurdu"
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Birincisi bozulma sınırıdır: bir kişi ancak bozulmadan önce yararlanabileceği kadarını mülk edinebilir, bunun ötesi payından fazladır ve başkalarına aittir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "31. kisim, bozulma siniri"
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "İkincisi yeterlilik kaydıdır — ortakta başkalarına yeterince ve aynı iyilikte kalması koşulu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "27. kisim, yeterlilik kaydi"
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Locke bu koşulun kendiliğinden sağlandığını düşünür, çünkü kimsenin emeği her şeye yetişemez ve dünya, ilk çağlarda toprak sıkıntısı değil boşluk sıkıntısı çekmektedir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "36. kisim"
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Bu uzlaşmayla, der Locke, insanlar toprağın orantısız ve eşitsiz bir biçimde paylaşılmasına zımnen ve gönüllü olarak razı olmuşlardır: bir kişi artık ürününü kendi kullanamayacağı kadar toprağa hakkaniyetle sahip olabilir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "50. kisim: zimni ve gonullu riza ile orantisiz ve esitsiz paylasim"
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Locke'un yorumcuları arasında bu adımı en zayıf halka sayanlar çoktur; paraya verilen rızanın bugünkü eşitsiz mülkiyeti haklı çıkarmaya yetmediği itirazı literatürde geniş bir koro oluşturur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k7 bu itirazi bir \"chorus\" olarak kaydeder; \"gelis\" nitelemesi kaynagin kendi sozcugunun karsiligidir"
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Locke, açık rıza ile zımni rızayı ayırır ve zımni rızayı çok geniş tutar: bir devletin topraklarında herhangi bir mülkü ya da yararlanması bulunan herkes — mülkü ister ebediyen kendisine ve mirasçılarına ait bir toprak olsun, ister yalnızca bir haftalık konaklama, isterse yalnızca karayolunda serbestçe yolculuk etmek — bununla zımni rızasını vermiş sayılır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "119. kisim: toprak, bir haftalik konaklama, karayolunda yolculuk"
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "A. John Simmons'ın itirazı buradan çıkar: bir kişiden zımni rıza vermemek için bütün mülkünü bırakıp göç etmesini istemek, oturmayı özgür ve gönüllü bir seçim olmaktan çıkarır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k7 Simmons 1993ten aktarir: mulku birakip goc etme sarti oturmayi ozgur secim olmaktan cikarir"
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Yasama gücü halktan alınmış emanet bir güçtür; emanetin verildiği amaç açıkça ihmal edilir ya da ona karşı davranılırsa emanet düşer ve güç onu verenlere geri döner.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "149. kisim: emanet gucun dusmesi"
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Yasama organı halkın mülkiyetini yok etmeye ya da onları keyfî güç altında köleliğe indirmeye kalkarsa halkla savaş hâline girmiş olur ve halk daha fazla itaatten çözülür.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "222. kisim"
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Kilise, üyelerinin kendi istekleriyle bir araya geldiği gönüllü bir topluluktur; kimse bir kilisenin üyesi olarak doğmaz, yoksa iman da topraklar gibi miras yoluyla geçerdi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mektup: kilise gonullu topluluktur, kimse uye dogmaz"
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Sivil yöneticinin yetkisi de ruhların kurtuluşuna uzanamaz, çünkü böyle bir yetkiyi ona ne Tanrı vermiştir ne de halkın rızası verebilir: hiç kimse kendi kurtuluşunun kaygısını bir başkasının seçimine körü körüne bırakacak kadar terk edemez.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mektup: ruhlarin bakimi sivil yoneticiye verilmemistir"
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Locke buradan, günah ile suç arasındaki ayrımı çıkarır: bir şeyin günah olması onu yöneticinin kılıcına konu yapmaz, çünkü açgözlülük ya da tembellik de günahtır ve kimse bunların cezalandırılmasını istememiştir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mektup: acgozluluk, hayirsizlik, tembellik ornekleri"
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Yönetici, üyeleri girmekle kendilerini başka bir hükümdarın himayesine ve hizmetine teslim eden bir kiliseye hoşgörü borçlu değildir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mektup: baska bir hukumdarin himayesine giren kilise"
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Ve \"Tanrı'nın varlığını inkâr edenler hiçbir biçimde hoşgörülmemelidir\", çünkü Locke'a göre insan toplumunun bağı olan sözler, ahitler ve yeminler bir ateiste tutunamaz.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mektup birebir: ateistlerin disarida birakilmasi ve gerekcesi"
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Anthony Ashley Cooper ile ilişkisi onu sırasıyla ticaret ve sömürgeler hakkında bilgi toplayan bir devlet görevlisi, iktisat yazarı ve muhalefet eylemcisi yaptı; Ticaret ve Plantasyonlar Kurulu'nun kâtipliğini ve Carolina Lord Sahiplerinin kâtipliğini yürüttü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5: Ashley iliskisi, Ticaret ve Plantasyonlar Kurulu katipligi, Lord Sahipleri katipligi"
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Bu ikinci görev sırasında Carolina'nın temel anayasasının yazımına katıldı; bu katkının kapsamı ise tartışmalıdır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5 katkinin kapsamini acikca tartismali sayar; cekince metne tasindi"
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Doksan yedinci madde, yerlilerin Hristiyanlığa yabancı olmasının onları kovmaya ya da kötü kullanmaya hak vermediğini söyler ve yedi ya da daha fazla kişinin herhangi bir dinde birleşerek kilise kurmasına izin verir; Yahudiler, putperestler ve muhalifler adıyla sayılır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Carolina Anayasasi 97. madde"
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Yüz yedinci madde kölelerin de diledikleri kiliseye girmesini serbest bırakır, ama hiçbir kölenin bununla efendisinin sivil egemenliğinden muaf tutulmayacağını ekler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "107. madde: kolelerin kiliseye girmesi ve efendinin sivil egemenliginin surmesi"
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Yüz onuncu madde ise şudur: \"Carolina'nın her özgür adamı, zenci köleleri üzerinde mutlak güç ve yetkiye sahip olacaktır\".",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "110. madde birebir"
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Metnin Avalon'daki 19. yüzyıl derlemesine düşülen dipnot, doksan altıncı maddenin — İngiltere Kilisesi'ni tek gerçek ve ulusal din sayan maddenin — Locke tarafından yazılmadığını, sahiplerin ileri gelenlerince onun kanaatine rağmen eklendiğini, bunu Locke'un kendisinin bir dostuna söylediğini aktarır; aynı derleme metnin bütününü Locke'a atfeder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Avalon sayfasinin 2 ve 3 numarali editor dipnotlari"
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Bu aktarım ikinci eldendir ve derlemenin atıf iddiası sonraki tartışmada sınanmıştır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k4 aktarimin Locke'un bir dostu uzerinden geldigini soyler; k5 atif tartismasini kaydeder"
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Leslie Stephen, maddeyi Locke'un eklediğini savunarak onu kişisel ırkçılıkla suçladı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k6 adi \"Sir Leslie Stephan\" yazimiyla verir; metinde yaygin yazim kullanildi"
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Buna karşı Uzgalis, maddenin yazarı olarak Lord Ashley'nin ya da Sir John Colleton'ın çok daha güçlü adaylar olduğunu ileri sürer; Colleton Carolina projesinin asıl kurucusuydu, köle sahibi bir Barbados plantasyoncusuydu ve tasarının bir parçası, kalabalıklaşmış Barbados'tan köleleriyle birlikte göçecek yerleşimcilerdi.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6: Ashley ya da Colleton \"much more likely candidates\"; Colleton'in Barbados plantasyoncusu olusu ayni notta"
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Bu okumaya göre madde onların kaygısını yatıştırmak için konmuştur ve Locke'un kişisel görüşü hakkında neredeyse hiçbir şey söylemez.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6: madde Locke'un kisisel gorusu hakkinda \"little or nothing\" soyler"
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "David Armitage ise Locke'un anayasayı yıllar boyunca, İki İnceleme'yi yazdığı döneme kadar değiştirmeyi sürdürdüğünü ve pek çok madde çeşitli zamanlarda çıkarılmışken zenci köleliğine dair maddenin çıkarılmadığını gösterdi; Armitage buradan hem Locke'un maddeyi onayladığı hem de İkinci İnceleme'nin kölelik anlatımının Afro-Amerikan köleliğini haklı çıkarmayı amaçladığı sonucunu ima eder.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6, Armitage'in bulgusunu ve ondan cikardigi imayi ozetler"
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Uzgalis bilgiyi ilginç bulur ama çıkarımları şüpheli sayar.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6: bilgi ilginc, cikarimlar \"dubious\""
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Armitage'ın kendi özetinde iddia daha dar bir zamana bağlanır: Locke'un anayasayı gözden geçirmekle uğraştığı an, İkinci İnceleme'nin mülkiyet bölümünü yazmış olmasının en muhtemel olduğu 1682 yazıdır.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Armitage'in kendi ozeti: 1682 yazi, mulkiyet bolumunun yazilmasinin \"most likely\" oldugu an; olasilik kaydi metne tasindi"
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Farr'a göre Locke, köleliğin haklı savaş kuramını Grotius'un doğal hukukundan devraldı, ama Grotius'tan farklı olarak kuramı öyle sıkı sınırladı ki Amerika'ya uygulanamaz hâle geldi; kuram yalnızca Stuart İngiltere'sinde mutlak güce direnmeye uyuyordu.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Farr ozeti: Grotiusçu haklı savaş kurami, Amerika'ya uygulanamaz kilinacak kadar sinirlanmis"
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Locke yine de İngiliz sömürgeciliğinin bir görevlisiydi ve düzenleyen talimatlar yazdı; ama Farr'a göre bu talimatlar kuramını belirlemez, kuramı da onları belirlemez.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Farr ozeti: somurgecilik gorevlisi, koleligi duzenleyen talimatlar, ama karsilikli belirleme yok"
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Buradan yorum sorunları ve ırkçılık suçlamaları doğar; Farr, Locke ırkçı sıfatını hak ediyorsa bunun köleliği haklı çıkaran bir ırk öğretisi taşıdığı için olmadığını söyler ve tablonun hiçbir biçimde gurur verici olmadığını ekler.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Farr ozeti: irkci sifati ve \"flattering portrait\" degerlendirmesi"
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Uzgalis daha ileri gider: Locke'un iki ayrı kölelik kavramı vardır — savaşta haklı tarafın esir üzerinde kurduğu zorunlu emek ile doğal hakların otoriter biçimde gasbı — ve Locke ne siyah köleliğini ne de yerlilerin ezilmesini haklı çıkarmaya çalışmıştır; ona göre mutlak monarşi lehine kurulan savlarla sömürge köleliği lehine kurulan savlar aynı savlardır, dolayısıyla birine karşı yazan öbürüne de karşı yazmış olur.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uzgalis ozeti: iki kolelik kavrami ve mutlak monarsi savlariyla somurge koleligi savlarinin ozdesligi"
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "James Tully ve Barbara Arneil, emek kuramının kullanışlı bir sonuca vardığını gösterdiler: yerli Amerikalıların emeği yalnızca avladıkları hayvanlar üzerinde mülkiyet doğuruyor, avlandıkları toprak üzerinde doğurmuyordu — Locke o toprağı boş ve alınmaya açık sayıyordu.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k7: Tully 1993 ve Arneil 1996"
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Mark Goldie ise buna bir çekince koyar: İkinci İnceleme'yi yazarken Locke'un başlıca meşguliyeti hâlâ İngiltere'deki siyasal olaylardı.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k7: Goldie 1983 cekincesi"
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Aynı tartışmanın ikinci ucunda, mülkiyetin kurulduktan sonraki durumu vardır: Robert Nozick Locke'u libertaryen okur ve hükümete rıza olmadan mülke el koyma yetkisi tanımaz; James Tully devlet kurulduğunda toprağın zaten kıtlaştığını ve doğa durumundaki payların artık hükümeti bağlamadığını savunur; Jeremy Waldron ikisinin arasında durur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k7: Nozick 1974, Tully 1980, Waldron 1988"
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Birincisi yeterlilik kaydının düşürülmesidir: emek-mülkiyet savı, koşulsuz bir edinme hakkı gibi aktarıldığında Locke'un cümlesindeki başkalarına yeterince ve aynı iyilikte kalması kaydı ile bozulma sınırı birlikte silinir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "27 ve 31. kisimlar; kaydin metinde durdugu dogrulandi"
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "İkincisi rızanın açık rızaya indirgenmesidir; oysa metnin taşıdığı yük büyük ölçüde zımni rızanın üstündedir ve asıl tartışma oradadır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "119. kisim ve k7'nin zimni riza tartismasi"
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Üçüncüsü hoşgörünün evrensel bir ilke gibi okunmasıdır: metin ateistleri ve yabancı bir hükümdara bağlı kiliseleri kendi eliyle dışarıda bırakır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mektup'un iki istisnasi"
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "Dördüncüsü ters yönden gelen hatadır — Carolina Anayasası'nın 110. maddesine bakıp kuramın tamamını sömürge köleliğinin savunusu saymak, hem maddenin yazarlığının tartışmalı olduğunu hem de aynı yazarın köleliği açılış cümlesinde aşağılık ve sefil bir durum diye nitelediğini görmezden gelmeyi gerektirir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birinci Inceleme acilisi ve 110. maddenin yazarlik tartismasi"
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "Locke bu koşulu geniş tuttu ama koşulsuz bırakmadı; onu okumayı sürdüren tartışma, dışarıda kalanların hangi gerekçeyle dışarıda kaldığıdır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kapanis cercevesi: uc mekanizma k1de, disarida kalanlarin tartismasi k9un ozetinde; birlestirme yazarindir"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 46,
+    "kismi": 2,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

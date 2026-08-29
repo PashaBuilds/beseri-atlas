@@ -1,7 +1,7 @@
 {
   "id": "tartisma-tarim-devrimi-neden",
   "govde_hash": "cc18431dfb97",
-  "commit": "58a10ea",
+  "commit": "9181554",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -203,7 +203,7 @@
     },
     {
       "iddia_id": "i15",
-      "cumle": "Dönemlendirme de kuramın izini taşır: raporun sıralamasında yiyecek toplama çağının son evresini, açık hava yerleşmelerindeki başlangıç hâlindeki ekim çağı izle",
+      "cumle": "Dönemlendirme de kuramın izini taşır: raporun sıralamasında yiyecek toplama çağının son evresini, açık hava yerleşmelerindeki başlangıç hâlindeki ekim çağı izler.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -259,7 +259,7 @@
     },
     {
       "iddia_id": "i19",
-      "cumle": "Mark Nathan Cohen bu mantığı 1977'de The Food Crisis in Prehistory ile dünya ölçeğine taşıdı; kitabın alt başlığı tezi özetler: aşırı nüfus ve tarımın kökenleri",
+      "cumle": "Mark Nathan Cohen bu mantığı 1977'de The Food Crisis in Prehistory ile dünya ölçeğine taşıdı; kitabın alt başlığı tezi özetler: aşırı nüfus ve tarımın kökenleri.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -459,5 +459,11 @@
     "kismi": 2,
     "desteksiz": 0,
     "olculemez": 0
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "3 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "tartisma-osmanli-gerileme-tezi",
   "govde_hash": "9ea4062c5873",
-  "commit": "7549ec6",
+  "commit": "9181554",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -161,7 +161,7 @@
     },
     {
       "iddia_id": "i12",
-      "cumle": "Doğrulanabilen künye, Hamilton Gibb ile Harold Bowen'in 1957'de Londra'da Oxford University Press tarafından basılan Islamic Society and the West cildine aittir; katalog kaydı cildi İslam ve uygarlık başlıkları altında sınıflar, Harold Bowen ile Royal Institute of International Affairs'i ilişkili adlar olarak kaydeder ve kaydı ödünç almaya kapalı işaretler.",
+      "cumle": "Doğrulanabilen künye, Hamilton Gibb ile Harold Bowen'ın 1957'de Londra'da Oxford University Press tarafından basılan Islamic Society and the West cildine aittir; katalog kaydı cildi İslam ve uygarlık başlıkları altında sınıflar, Harold Bowen ile Royal Institute of International Affairs'i ilişkili adlar olarak kaydeder ve kaydı ödünç almaya kapalı işaretler.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -627,5 +627,11 @@
     "kismi": 2,
     "desteksiz": 0,
     "olculemez": 4
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

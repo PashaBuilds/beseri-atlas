@@ -17,6 +17,7 @@ ilgili:
   - veri-askeri-harcama
   - tartisma-soguk-savasin-baslangici
   - veri-savas-olumleri
+  - olay-kore-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

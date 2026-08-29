@@ -22,6 +22,7 @@ ilgili:
   - tartisma-soguk-savasin-baslangici
   - tartisma-tarihsel-sayilar-nasil-okunur
   - kavram-caydiricilik
+  - aktor-nato
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

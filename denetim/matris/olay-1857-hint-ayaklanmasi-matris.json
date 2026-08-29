@@ -1,0 +1,803 @@
+{
+  "id": "olay-1857-hint-ayaklanmasi",
+  "govde_hash": "95e579bdb737",
+  "commit": "5373c66",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "sayaclar": {
+    "dogrudan": 52,
+    "kismi": 4,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Doğu Hindistan Şirketi'nin Meerut garnizonundaki sipahileri 10 Mayıs 1857'de ayaklandı ve kısa sürede kırk mil (64 km) güneybatıdaki Delhi'ye ulaştı; şehirdeki seksen bir yaşındaki hükümdarı Bahadır Şah Zafer Hindustan imparatoru ilan edildi — kayıt ilanı kimin yaptığını yazmaz.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wikipedia girisi: ayaklanma 10 Mayis 1857'de Meerut garnizonundaki sipahilerin isyaniyla basladi; Meerut Delhi'nin 40 mil (64 km) KUZEYDOGUSUNDA (yani Delhi Meerut'un guneybatisinda); \"the rebels quickly reached Delhi, whose 81-year-old Mughal ruler, Bahadur Shah Zafar, was declared the Emperor of Hindustan\". HAKEM DUZELTMESI: kaynak EDILGEN kurar, ilan edeni yazmaz; onceki govde \"sipahiler ... ilan etti\" diyerek kaynakta olmayan bir fail atiyordu. Cumle edilgene cevrildi ve bosluk metinde beyan edildi."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Ayaklanma kısa sürede başka garnizonlara ve sivil başkaldırılara yayıldı; isyancılar Kuzey-Batı Eyaletleri ile Avadh'ın (Oudh) geniş bölümlerini ele geçirdi, çatışma ağırlıkla Yukarı Ganj ovasında ve Orta Hindistan'da yoğunlaştı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"It then erupted into other mutinies and civilian rebellions, chiefly in the upper Gangetic plain and central India\"; \"the rebels had captured large tracts of the North-Western Provinces and Awadh (Oudh)\"."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Aynı olay Sepoy Mutiny, Indian Mutiny, Great Rebellion, Revolt of 1857, Indian Insurrection ve First War of Independence adlarıyla anılır; adın çekişmeli olduğu, olayı özetleyen ansiklopedik kayda da geçmiştir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"The name of the revolt is contested, and it is variously described as the Sepoy Mutiny, the Indian Mutiny, the Great Rebellion, the Revolt of 1857, the Indian Insurrection, and the First War of Independence.\" Alti adin tamami yazildi; liste kirpilmadi."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Tartışma da sonradan açılmadı; olay sürerken, 1857 yazında Avam Kamarası'nda başladı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kunyenin kendisi 27 Temmuz 1857 tarihli Avam Kamarasi tutanagidir; adlandirma tartismasinin catisma surerken yapildigini belge dogrudan gosterir."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "27 Temmuz 1857'de muhalefetin lideri Benjamin Disraeli, Hindistan'a dair belgelerin Meclis'e sunulmasını isteyen bir önerge verdi ve soruyu doğrudan sordu: “Is it a military mutiny, or is it a national revolt?” Sorunun pratik bir karşılığı vardı ve Disraeli bunu açıkça söyledi: askerî bir isyana yeten önlemler ulusal bir başkaldırıyla baş edemezdi, dolayısıyla hükümetin alacağı bütün tedbirler bu teşhise bağlıydı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tutanak: \"Is it a military mutiny, or is it a national revolt?\" ve \"The measures which may be adequate in the case of a military mutiny will not be adequate to cope with a national revolt.\" Onerge basligi: MOTION FOR PAPERS. HAKEM NOTU: \"muhalefetin lideri\" unvani TUTANAKTA yazili degildir; ama k9 \"Benjamin Disraeli\" tam adini ve 1857 Temmuz'unda Avam Kamarasi'nda 'national revolt' nitelemesini yaptigini acikca kaydeder. Unvan alan bilgisidir, iddianin cekirdegi (onerge + soru) tutanaktan dogrudandir."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Bu ülkeden birinin olayın kesin nedenlerini şimdiden yetkeyle ortaya koymasının küstahça ve vakitsiz olacağını söyledi; görüş bildirmeye zorlanırsa bunun daha çok askerî bir isyan olduğunu söyleyeceğini, ama neyin yol açtığını şu an bildirmenin imkânsız olduğunu ekledi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Vernon Smith: \"it would be very presumptuous and premature for any person in this country to lay down authoritatively the precise causes of that event... If I was compelled to give an opinion, I should have said that it was more a military mutiny. It is impossible at present to declare what has caused it.\" Cekince oldugu gibi tasindi."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Enfield tüfeğinin sığır ve domuz yağıyla yağlandığı söylenen fişekleri ona göre bir bahaneydi: Avrupa'daki savaş bitmiş, Avrupalı birlikler İran ve Çin seferlerine kaydırılmıştı, koşullar olgunlaşmıştı ve bahane arandığında bulundu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Disraeli: \"the time being ripe, the occasion being offered... a pretext only was wanted; and a pretext was soon found—your cartridges, greased in a manner to outrage their religious belief\"; oncesinde Iran ve Cin savaslari nedeniyle Avrupali birliklerin cekilmesi anlatilir."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Fişeklerin gerçekten değişip değişmediği tartışmasına girmeyi reddetti; imparatorlukların çöküşünün yağlı fişek meselesi olmadığını, böyle sonuçların yeterli nedenlerin birikmesinden doğduğunu söyledi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Disraeli: \"I will not go into the question as to whether the cartridges complained of, are the same as have always been used\"; \"The decline and fall of empires are not affairs of greased cartridges. Such results are occasioned by adequate causes, and by an accumulation of adequate causes.\""
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Disraeli hoşnutsuzluğun kaynaklarını üç başlıkta topladı: yerli otoritenin zorla yıkılması, mülkiyet düzeninin bozulması ve halkın dinine karışılması.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Disraeli: \"first, our forcible destruction of native authority; next, our disturbance of the settlement of property; and thirdly, our tampering with the religion of the people.\""
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Hindistan gelirinin genişlemeye elverişli olmadığını, dolayısıyla geliri artırmanın tek yolunun toprakları artırmak olduğunu neredeyse açıkça yazan bir kurul tutanağının o yıllarda yayımlandığını öne sürdü.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Disraeli: \"about the year 1848 is what I fix as the date of the inauguration of the new system\"; \"appeared one of the most important State papers... it was a Minute of Council... the principle, almost without disguise, that the future Indian policy would be, to increase the revenue of our dominions by increasing our dominions themselves\". Metinde \"kurul tutanagi\" denerek Minute of Council karsilandi."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Doğal mirasçı bırakmadan ölen racanın, ölümünden önce usulüne göre evlat edindiği, İngiliz mukimine bildirilen ve top atışlarıyla halka duyurulan vârisi tanınmadı; raclık Şirket topraklarına katıldı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Disraeli: Sattara racasi \"died without natural heirs\", vâris \"was notified to the British Resident, and published to the people by salvoes of artillery\"; \"the Raj of Sattara was absorbed into the dominions of the East India Company.\""
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Disraeli'nin itirazı hukuki olmaktan çok toplumsaldı: evlat edinme Hindistan'da yalnızca bir medeni hak değil dinî bir yükümlülüktür, Hindu toplumunun temel taşıdır, ve onu tanımamak tek bir raclık hakkında karar vermek değildir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Disraeli: \"adoption in India is not only a civil right, but a religious privilege; the whole frame-work of Indian society is established upon that principle.\""
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Disraeli ilhakın herhangi bir antlaşma ihlaline dayandırılmadığını, böyle bir ihlalin bir an bile öne sürülmediğini vurguladı; Avadh hükümdarı Müslüman olduğu için evlat edinme meselesi de devrede değildi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Disraeli: \"The annexation of Oude did not take place in consequence of the alleged infraction of any treaty... It has never for a moment been pretended, that there has been any such infraction\"; \"in the case of Oude the principle of adoption was not involved, for the ruler of Oude was a Mahomedan prince\"."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Disraeli'ye göre sonuç, o güne dek ayrı duran Müslüman ve Hindu prenslerin ilk kez ortak bir çıkar görmesiydi — ilhak, bir hanedanın değil bir güvencenin geçersizliğini gösteriyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ilk yarisi dogrudan: \"From that instant the Mahomedan princes were all alienated. For the first time the Mahomedan princes felt that they had an identity of interest with the Hindoo Rajahs.\" Ikinci yarisi (\"bir hanedanin degil bir guvencenin gecersizligi\") kaynagin sozunun ozeti degil okuyucu cikarimidir; destek kismi sayildi. HAKEM DUZELTMESI (curutucu itirazi #3, ustunluk-iddiasi): \"ilk kez\" onceligi kaynagin kendi sozudur (\"For the first time...\"); cumlenin basina sahibi yazildi."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Disraeli, Bengal ordusunun büyük bölümünün Avadh tebaası olduğunu, güvenilir bir kaynaktan Hint ordularında ve yardımcı birliklerde Avadh'lı yetmiş binden az olmayan asker bulunduğunun söylendiğini aktardı; sayıyı ilk duyduğunda kuşkuyla karşıladığını da kayda geçirdi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Disraeli: \"I have been told, on such high authority that I venture to make the statement in this House—although I heard it first with, I hope, some allowable scepticism—that there were not less than 70,000 men from Oude in our Indian armies and contingents.\" Hem \"not less than\" hem konusmacinin kuskusu metne tasindi."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Bu askerler için ilhak, terhis olunca döndükleri köyde başvuracakları hükümdarın ve İngiliz mukimine itiraz hakkının birlikte ortadan kalkması demekti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Disraeli: \"The Oude Sepoy finds that he has no village to return to, where he is to live the favoured subject of his native Sovereign. If he is injured, he must appeal to the Company\"; oncesinde Ingiliz mukimine basvurma hakki anlatilir."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Bu anlatının kaynağı tarafsız değildir: Disraeli o gün hükümeti sıkıştıran muhalefetin lideriydi ve önergesi belge istemekle sınırlıydı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Onerge basligi ve metni belge istemekle sinirlidir (MOTION FOR PAPERS, kayit listesi tutanakta yer alir) — bu dogrudan. Disraeli'nin \"muhalefetin lideri\" olarak nitelenmesi tutanaktan cikarilabilir (Palmerston ve Vernon Smith hukumet adina cevap verir) ama bu unvanla yazili degildir; destek kismi."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Sonraki literatür de tek bir güdü aramaz; hoşnutsuzluğun İngiliz tarzı toplumsal reformlardan, ağır toprak vergilerinden, zengin toprak sahipleriyle prenslere yönelik keyfî muameleden ve İngiliz yönetiminin maddi iyileşme getirdiği iddiasına duyulan kuşkudan beslendiği kaydedilir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"resentments born of diverse perceptions, including invasive British-style social reforms, harsh land taxes, summary treatment of some rich landowners and princes, and scepticism about British claims that their rule offered material improvement to the Indian economy.\" Dort ogenin dordu de yazildi."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Bengal, Bombay ve Madras başkanlıklarının Şirket denetimindeki geri kalanı büyük ölçüde sakin kaldı; Pencap'ta Sih prensler İngilizlere hem asker hem destek sağladı; Haydarabad, Mysore, Travancore ve Keşmir ile Rajputana'nın küçük devletleri katılmadı ve Genel Vali Canning'in deyişiyle fırtınada dalgakıran işlevi gördü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"the Bengal Presidency, the Bombay Presidency, and the Madras Presidency—remained largely calm\"; \"In the Punjab, the Sikh princes crucially helped the British\"; \"Hyderabad, Mysore, Travancore, and Kashmir, as well as the smaller ones of Rajputana, did not join the rebellion, serving the British, in Governor-General Lord Canning's words, as breakwaters in a storm\"."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Pek çok Hintli İngilizlere karşı ayaklandı, pek çoğu İngilizler için savaştı, çoğunluk ise görünürde uyumlu kaldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"Many Indians rose against the British; however, many also fought for the British, and the majority remained seemingly compliant to British rule.\""
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "İsyancı önderler yeni bir siyasal düzenin habercisi olacak bir ilkeler bildirisi ilan etmediler; buna karşılık özellikle Avadh'da ayaklanma İngiliz baskısına karşı yurtsever bir başkaldırının niteliklerini kazandı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"the rebel leaders proclaimed no articles of faith that presaged a new political system\"; \"In some regions, most notably in Awadh, the rebellion took on the attributes of a patriotic revolt against British oppression.\" Iki cekince birlikte tasindi."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Takviyelerle Kanpur Temmuz 1857'nin ortasında, Delhi Eylül sonunda geri alındı; ama Jhansi'de, Lucknow'da ve özellikle Avadh kırsalında bastırma 1857'nin kalanını ve 1858'in büyük bölümünü aldı, ayaklanma ancak isyancıların 20 Haziran 1858'de Gwalior'da yenilmesiyle çevrelenebildi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"Kanpur was retaken by mid-July 1857, and Delhi by the end of September\"; \"it then took the remainder of 1857 and the better part of 1858 for the rebellion to be suppressed in Jhansi, Lucknow, and especially the Awadh countryside\"; \"was contained only with the rebels' defeat in Gwalior on 20 June 1858\"."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Şiddet iki taraflıydı ve yer yer olağanüstü bir zalimlik taşıdı: isyancılar kadın ve çocuklar dahil İngiliz subay ve sivillerini öldürdü, İngiliz misillemeleri isyancıları ve destekçilerini, kimi zaman bütün köyleri hedef aldı; Delhi ve Lucknow hem çarpışmalarda hem misillemede harabeye döndü.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"Violence, which sometimes betrayed exceptional cruelty, was inflicted on both sides: on British officers and civilians, including women and children, by the rebels, and on the rebels and their supporters, including sometimes entire villages, by British reprisals; the cities of Delhi and Lucknow were laid waste\"."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Kanpur'daki katliamlar, 1990'da Past and Present'ta çıkan ayrı bir incelemenin konusu oldu.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydi: Rudrangshu Mukherjee, \"SATAN LET LOOSE UPON EARTH\": THE KANPUR MASSACRES IN INDIA IN THE REVOLT OF 1857, Past and Present 128 (1990) 92-116. Kayitta ozet yok; yalnizca kunye verisi dogrulanabilir ve iddia da kunye duzeyinde tutuldu."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Canning'in 1858 baharında Avadh için çıkardığı bildiri, Avam Kamarası'nda okunan hâliyle, metinde önceden sayılan istisnalar dışında eyalet toprağındaki mülkiyet hakkının İngiliz hükümetine geçtiğini ilan ediyordu: “the proprietary right in the soil of the province is confiscated to the British Government”.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tutanakta okunan bildiri metni: \"The Governor General further proclaims to the people of Oude that, with the above-mentioned exceptions, the proprietary right in the soil of the province is confiscated to the British Government.\" Sinirlayici yan cumle (\"with the above-mentioned exceptions\") metne tasindi."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Bildiriyi savunanlar, Hindistan'da toprağın hukuken zaten devletin olduğunu, Avadh'ta söz konusu edilenin önceki hükümdarların büyük parçalar hâlinde dağıttığı ara mülkiyet olduğunu ve metnin baştan istisnalar saydığını öne sürdüler; karşı taraf aynı cümleyi topyekûn müsadere olarak okudu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tutanak: \"In India the Government of a country was by right, and not only in theory, the owner of the land... The monarchs who had preceded us in Oude had granted out in large tracts what were called the proprietary rights\". Karsi okuma icin: Mr. Lindsay \"the policy of confiscation which it embodied\", ve \"a dynasty of reckless, ruthless, and indiscriminate confiscation\". HAKEM DUZELTMESI: onceki govde karsi tarafa \"toplu cezalandirma\" da atfediyordu; oysa tutanaktaki BES \"proscription\" gecisinin BESI DE bildiriyi SAVUNAN Deasy'nin agzindadir ve reddettigi bir ozettir. Bu ayirim ayri bir cumleye (i26b) tasindi."
+    },
+    {
+      "iddia_id": "i26b",
+      "cumle": "Toplu cezalandırma nitelemesi tutanağa savunanların ağzından, reddetmek için özetledikleri bir okuma olarak geçer.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tam metin taramasi: tutanakta \"proscri*\" koku BES kez gecer ve BESI DE Mr. Serjeant Deasy'nin (bildiriyi savunan, onergeyi destekleyen uye) konusmasindadir; ucu acikca reddettigi bir ozettir (\"it would ill become him to advocate wholesale confiscation and proscription\"; \"The Proclamation was not a measure of wholesale proscription\"; \"was the whole population to be proscribed? No such thing\"). Hakem ekledi."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Denetim Kurulu'nun yeni başkanı Lord Ellenborough, Canning'in işaret ettiği politikayı her anlamda onaylamadığını bildiren bir talimatı Genel Vali'ye gönderdi; talimat, Canning'in fiilen yayımladığı bildiri Londra'ya ulaşmadan önce kamuya açıldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tutanak: \"We have sent out a despatch to the Governor General of India disapproving the policy which he indicated in every sense\"; ve talimat \"before the actual Proclamation made by Lord Canning had arrived in England\" yayimlanmisti."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Cardwell'in 14 Mayıs 1858'de verdiği önerge dikkatle sınırlanmıştı: Meclis'in eldeki bilgiyle bildirinin isabeti hakkında görüş bildirmekten kaçındığını açıkça yazıyor, kaygıyla karşıladığı şeyi Genel Vali'nin otoritesini zayıflatan bu yayımlama olarak tanımlıyordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cardwell'in onergesi: \"That this House, whilst in its present state of information it abstains from expressing an opinion on the policy of any Proclamation... has seen with regret and serious apprehension that Her Majesty's Government have addressed... and have published, a Despatch condemning in strong terms the conduct of the Governor General\". Kacinma kaydi metne tasindi. HAKEM DUZELTMESI: tutanak yalnizca \"MR. CARDWELL\" yazar; \"Edward Cardwell\" tam adi kaynakta GECMEZ (tam metin taramasi), hayalet-ad kuralinca ilk ad kaldirildi."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "12 Şubat 1858'de Palmerston, Hindistan yönetimini Şirket'ten Taç'a devredecek tasarıyı sunarken teklifini Şirket'e düşmanlıkla ya da onun yönetimini kınamakla ilgisiz saydığını baştan söyledi: Şirket'in Hindistan'da iyi işler yaptığına inandığını, teklifin dayanağının Şirket'in bir kusuru değil mevcut düzenlemenin hantallığı ve sakıncalı niteliği olduğunu belirtti.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Palmerston: \"a Bill for transferring from the East India Company to the Crown the government of Her Majesty's East Indian dominions\"; \"I do not do it in any spirit of hostility to the East India Company... I believe the East India Company has done many good things in India. And it is not on the ground of any delinquency on the part of the Company, but on the ground of the inconvenience and injurious character of the existing arrangements\"."
+    },
+    {
+      "iddia_id": "i29b",
+      "cumle": "O oturumda yapılan yalnızca tasarıyı sunma izninin istenmesiydi; oturum, tartışma ertelenerek kapandı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tutanak basligi \"GOVERNMENT OF INDIA. LEAVE.\"; Palmerston: \"I rise to ask leave to introduce a Bill for transferring from the East India Company to the Crown...\"; oturumun son satiri: \"Debate adjourned till Monday next.\" Hakem ekledi (desteksiz kalan bir cumlenin yerine)."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "İdari yetkilerin bakanlık sorumluluğuyla birlikte yürümesi gerekirken Hindistan yönetimi Parlamento'ya karşı sorumlu olmayan, Taç'ın atamadığı, yalnızca Hindistan hissesi tutanların seçtiği bir kurula bırakılmıştı; Şirket 1833'te ticari niteliğini yitirdikten sonra kendi aslının hayaletine dönüşmüş, geriye çifte yönetim denen hantal yapı kalmıştı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Palmerston: \"The principle of our political system is that all administrative functions should be accompanied by Ministerial responsibility... but in this case the chief functions in the government of India are committed to a body not responsible to Parliament, not appointed by the Crown, but elected by persons who have no more connection with India than consists in the simple possession of so much India Stock\"; \"in the year 1833 the Company altogether ceased to he a commercial association, and became, one may say, but a phantom of its original body\"; \"double Government\"."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Palmerston, Hindistan huzursuzken ve isyandan tümüyle kurtulunmamışken yönetim düzeninin değiştirilmemesi itirazını, doğrudan karşı çıkamadıkları bir şeyi geciktirerek savuşturmak isteyenlerin değişmez savunması diye niteledi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tutanak: \"Do not alter the machine of Government at a time when India is unsettled and in difficulty, when you have not full and finally got rid of the mutiny\" itirazi aktarilir ve Palmerston bunu \"invariably the plea set up by those who are anxious to oppose that which they cannot resist directly, but which they wish to get rid of by the intermediate policy of proposing delay\" diye niteler."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Aynı oturumda konuşan bir başka üye ise tersini savundu: 1853'te Şirket'in tasfiyesi ileri bir tarihe bırakılmıştı, ülkede bir ayaklanma patlak verdiğine ve yürütmenin eli her yoldan güçlendirilmesi gerektiğine göre an en uygun andı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni oturumda bir uye: 1853te \"it was consequently determined not to give the coup de grace to the Court of Directors at once, but to pave the way for the extinction of the Company at some future period. However, now that a rebellion had broken out in the country, and it was necessary to strengthen the hands of the Government in every possible way, the moment was most opportune for passing a measure which would enlarge and consolidate the power of the Executive.\""
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "Şirket'i tasfiye eden metin sonunda 1858 tarihli Hindistan'ın Yönetimi Yasası oldu; Şirket'in tasfiyesiyle birlikte ordunun, maliyenin ve idarenin yeniden düzenlenmesini zorunlu kıldı ve Hindistan bundan sonra doğrudan İngiliz hükümetince, yeni British Raj çerçevesinde yönetildi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"It led to the dissolution of the East India Company and forced the British to reorganize the army, the financial system, and the administration in India through passage of the Government of India Act 1858. India was thereafter administered directly by the British government in the new British Raj.\" HAKEM DUZELTMESI: bu paragraf onceden \"Palmerston'in tasarisi o haliyle yasalasmadi\" diye acilyordu; bu cumle NE k2'de NE k9'da vardir (k9'da 'Derby' hic gecmez) ve matriste de kayitli degildi. Kaynagin tasidigi kadara indirildi (bkz. i29b)."
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Kraliçe Viktorya adına 1 Kasım 1858'de yayımlanan bildiri, devrin resmî dilini de belgeler: metin olan biteni açık başkaldırı (open rebellion) diye adlandırır, isyanın karşılığı olan mutiny sözcüğünü bir kez bile kullanmaz.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bildiri metni: \"led them into open rebellion\"; \"the suppression of that rebellion in the field\". Tam metin taramasi: \"mutin\" koku metinde HIC gecmez, \"revolt\" ise gecer (\"leaders or instigators in revolt\"). HAKEM DUZELTMESI: onceki govde \"isyan sozcugunu kullanmaz\" diyordu; Turkcede bu, metnin 'revolt' da kullanmadigi izlenimini veriyordu. Hangi Ingilizce sozcugun kastedildigi (mutiny) acikca yazildi."
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Canning Taç adına ilk Kral Naibi ve Genel Vali olarak atanır; prenslerle Şirket adına yapılmış bütün antlaşmaların kabul edildiği ve titizlikle korunacağı bildirilir; mevcut toprakların genişletilmesinin istenmediği açıkça yazılır — Disraeli'nin bir yıl önce saydığı ilhak politikasının tersine çevrilmesi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bildiri: Canning \"to be our first Viceroy and Governor-General\"; \"all treaties and engagements made with them by or under the authority of the Honourable East India Company are by us accepted, and will be scrupulously maintained\"; \"We desire no extension of our present territorial possessions.\" Son yan cumlenin Disraeli'nin 1857'deki ilhak elestirisiyle karsilastirilmasi iki belgenin bir araya getirilmesidir; k1 destegi kismi sayildi."
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "Metin din özgürlüğü güvencesini kayıtsız yazar ve yetkililere inanca karışmama emri verir; buna karşılık devlet hizmetine kabul olabildiği ölçüde kaydıyla, atalardan kalan toprak haklarının korunması ise devletin hakkaniyetli talepleri saklı kalmak üzere kaydıyla verilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bildiri: \"we disclaim alike the right and desire to impose our convictions on any of our subjects\"; \"abstain from all interference with the religious belief or worship of any of our subjects\"; \"so far as may be, our subjects, of whatever race or creed, be freely and impartially admitted to offices\"; \"we desire to protect them in all rights connected therewith, subject to the equitable demands of the State\". Iki sinirlayici kayit (\"so far as may be\", \"subject to the equitable demands of the State\") metne tasindi. HAKEM DUZELTMESI (curutucu itirazi #6, kesinlik-dili): makalenin kendi \"kesindir\" hukmu kaldirildi; nitelik belgeye atfedildi (\"metin ... kayitsiz yazar\")."
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "Af da geneldir ama istisnalıdır: İngiliz tebaasının öldürülmesine doğrudan katıldığı hükme bağlananlar dışarıda bırakılır — “the demands of justice forbid the exercise of mercy” — katillere bile bile sığınak verenlerle ayaklanmada önderlik ya da kışkırtıcılık edenlere yalnızca canları güvence altına alınır, geri kalanlara koşulsuz af ise ancak koşullara 1 Ocak'a kadar uyulursa tanınır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bildiri: \"Our clemency will be extended to all offenders, save and except those who have been, or shall be, convicted of having directly taken part in the murder of British subjects... the demands of justice forbid the exercise of mercy\"; \"To those who have willingly given asylum to murderers... or who may have acted as leaders or instigators in revolt, their lives alone can be guaranteed\"; \"these terms of grace and amnesty should be extended to all those who comply with their conditions before the first day of January next.\""
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "Oysa o gün yapılan şey cinayete karışmamış isyancılara af ilan etmekti; İngiliz yönetimi çatışmaların resmen sona erdiğini ancak 8 Temmuz 1859'da açıkladı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"On 1 November 1858, the British granted amnesty to all rebels not involved in murder, though they did not declare the hostilities to have formally ended until 8 July 1859.\" Eski govdedeki \"1 Kasim 1858'de sona erdi\" iddiasi bu kayitla duzeltildi."
+    },
+    {
+      "iddia_id": "i38b",
+      "cumle": "Ayaklanmanın erken tarihçilerinden Charles Ball başlığında mutiny sözcüğünü kullandı, ama metinde olayı bir halkın özgürlük ve bağımsızlık mücadelesi diye niteledi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wikipedia: \"Reflecting this debate, an early historian of the rebellion, Charles Ball, used the word mutiny in his title, but labelled it a 'struggle for liberty and independence as a people' in the text.\" Hakem, kaldirilan desteksiz oncelik iddiasinin yerine ekledi; ayrica Ball'un kitabi k5'in kaynakca listesinde de gecer (BALL, Charles — The History of the Indian Mutiny)."
+    },
+    {
+      "iddia_id": "i39",
+      "cumle": "John William Kaye'in 1870'te basılan çalışmasının başlığında ise ne isyan ne başkaldırı geçer: A History of the Sepoy War in India.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cilt kapagi: \"A HISTORY OF THE SEPOY WAR IN INDIA. 1857—1858.\" JOHN WILLIAM KAYE, FIFTH EDITION, LONDON 1870 (OCR bozulmasiyla \"A MISTORY\", \"JOUN WILLIAM KAYE\", \"FIFTIE ENDITION\"). HAKEM DUZELTMESI (curutucu itirazi #7): onceki cumle \"olayin ILK BUYUK Ingiliz tarihi\" diyordu; bu oncelik HICBIR kaynakta yok ve k9 Charles Ball'u \"an early historian of the rebellion\" diye anarak onu zayiflatiyor. Oncelik iddiasi kaldirildi."
+    },
+    {
+      "iddia_id": "i40",
+      "cumle": "Kaye aynı önsözde olayı Hint başkaldırısı diye de anar; kendi baskın kuramını ise tek cümleye indirir: “Because we were too English the great crisis arose”.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaye onsozu: \"The story of the Indian Rebellion of 1857 is, perhaps, the most signal illustration of our great national character\"; \"If I have any predominant theory it is this: Because we were too English the great crisis arose; but it was only because we were English that, when it arose, it did not utterly overwhelm us.\""
+    },
+    {
+      "iddia_id": "i41",
+      "cumle": "Kaye elindeki malzemenin çoğunun resmî belgelerden değil özel yazışmalardan geldiğini, bir önceki kitabında yaptığı gibi kaynak göstermekten bu kez bilerek vazgeçtiğini, belgeleri yalnızca anlatıya renk kattıkları yerde alıntıladığını yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaye onsozu: \"the historical materials which I have moulded into this narrative are rather of a private than of a public character. I have made but little use of recorded official documents\"; \"I have in the present work abstained from adducing my authorities, for the mere purpose of substantiating my statements. I have quoted the voluminous correspondence in my possession only where there is some dramatic force and propriety in the words cited\"."
+    },
+    {
+      "iddia_id": "i42",
+      "cumle": "Kaynakça listesinde iki başlık yan yana durur: Kaye'in adına kayıtlı üç ciltlik A History of the Sepoy War in India ve Kaye ile Malleson'a birlikte kayıtlı altı ciltlik History of the Indian Mutiny.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Savarkar'in \"LIST OF BOOKS CONSULTED\" bolumu: \"KAYE, Sir John William — A History of the Sepoy War in India. 3 vols.\" ve \"KAYE and MALLESON— History of the Indian Mutiny, 6 vols.\" Iki baslik ayni listede yan yanadir."
+    },
+    {
+      "iddia_id": "i42b",
+      "cumle": "1909'da Londra'da yayımlanan bir kitabın kapağında yazar adı yoktur; yerinde yalnızca bir Hint milliyetçisi nitelemesi durur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cilt kapagi: \"THE INDIAN WAR OF INDEPENDENCE of 1857 ... AN INDIAN NATIONALIST\"; yayinci onsozu \"The Publishers. London, May 10, 1909.\" TAM METIN taramasi (984.611 karakter, --tam): \"Savarkar\" dizesi cildin hicbir yerinde GECMEZ. Hakem ekledi."
+    },
+    {
+      "iddia_id": "i42c",
+      "cumle": "Kitabın Vinayak Damodar Savarkar'a ait olduğu, cildin kendi dışından bilinir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wikipedia: \"Vinayak Damodar Savarkar's book The Indian War of Independence (1909)\". Aktarim halkasi metinde beyan edildi: atif cildin kendisinden degil, ansiklopedik kayittan gelir. Hakem ekledi."
+    },
+    {
+      "iddia_id": "i43",
+      "cumle": "Yazar girişte, tarihçi tutumuyla baktığında 1857 isyanının içinde “the brilliance of a War of Independence” gördüğünü yazar; kitabın yayıncı önsözü Londra'da 10 Mayıs 1909 tarihini taşır, yani Meerut'un elli ikinci yıldönümünü.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yazarin girisi: \"I found to my great surprise the brilliance of a War of Independence shining in the mutiny of 1857.\" Yayinci onsozu \"The Publishers. London, May 10, 1909.\" tarihini tasir; Meerut 10 Mayis 1857'dir, dolayisiyla elli ikinci yildonumu."
+    },
+    {
+      "iddia_id": "i44",
+      "cumle": "Savarkar, dayandığı otoritelerin neredeyse tamamının İngiliz yazarlar olduğunu, onların karşı tarafın hikâyesini kendi taraflarınınki kadar ayrıntılı ve sadık anlatmasının mümkün olmadığını, dolayısıyla kitapta anlatılan pek çok sahnenin yanlış anlatılmış olabileceğini kendisi yazar; hâlâ hayatta olan tanıkların ağzından derleme yapacak yurtsever bir tarihçi arar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yazarin girisi: \"As almost all the authorities on which this work is based are English authors, for whom it must have been impossible to paint the account of the other side as elaborately and as faithfully as they have done their own, it is perfectly possible that many a scene... might be found to have been wrongly described\"; ve \"if some patriotic historian would go to northern India and try to collect the traditions from the very mouths of those who witnessed... the opportunity... can still be caught\". Yazarin kendi cekincesi metne tasindi."
+    },
+    {
+      "iddia_id": "i45",
+      "cumle": "İngiliz tarafında, Hindistan'daki yaklaşık kırk bin Avrupalıdan altı bininin öldürüldüğü kaba bir tahminle söylenir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Dipnot: \"It has been roughly estimated that 6,000 of the approximately 40,000 Europeans then in India were killed.\" \"Roughly estimated\" ve \"approximately\" kayitlari metne tasindi."
+    },
+    {
+      "iddia_id": "i46",
+      "cumle": "Hintli ölülerin sayısı ise 1857 öncesinin dağınık bölgesel demografik verileriyle 1871'deki ilk Hindistan nüfus sayımının kabaca karşılaştırılmasından çıkarılır; bu yolla varılan rakam sekiz yüz bindir, muhtemelen daha fazladır ve yalnız çarpışmaları değil ayaklanmanın hemen ardından gelen kıtlık ve salgınlarda ölenleri de içerir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "\"Based on a rough comparison of the sketchy pre-1857 regional demographic data and the first 1871 Census of India, probably 800,000 Indians were killed, and very likely more, both in the rebellion and in the famines and epidemics of disease that were caused as a result in its immediate aftermath.\" Yontem, \"probably\", \"very likely more\" ve kitlik/salgin kapsami birlikte yazildi."
+    },
+    {
+      "iddia_id": "i46b",
+      "cumle": "İki rakam da aynı ansiklopedik kaydın aynı çalışmadan aktardığı tahminlerdir; birbirini doğrulayan iki ayrı ölçüm değildir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k9 ham vikimetninde her iki sayi da ayni dipnot sablonuna baglidir: 6.000/40.000 icin {{sfn|Peers|2013|p=64}}, 800.000 icin yine {{sfn|Peers|2013|p=64}}. Yani iki rakam bagimsiz olcumler degil, tek bir calismadan ansiklopediye, oradan bu metne gelen aktarimlardir. Hakem ekledi (gizlenen aktarim halkasi)."
+    },
+    {
+      "iddia_id": "i47",
+      "cumle": "Kim A. Wagner'in History Compass dergisinde 2011'de yayımlanan derlemesi, kaydın tek cümlelik özetine göre önceki on yılın tarih yazımını \"Indian Uprising of 1857\" adı altında toplar; başlığında olayı kenardaki isyan diye niteler.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref kaydi: Kim A. Wagner, \"The Marginal Mutiny: The New Historiography of the Indian Uprising of 1857\", History Compass 9 (2011) 760-766. Ozet alani DOLU ama tek cumlelik: \"This essay considers the main developments within the historiography of the Indian Uprising of 1857 over the past decade.\" HAKEM DUZELTMESI: cekirdek F kurali — makalenin BULGUSU hakkindaki iddia, ozet tasisa bile en fazla `kismi`dir. Destek dogrudan->kismi indirildi ve govdede iddianin ozete dayandigi acikca yazildi."
+    },
+    {
+      "iddia_id": "i48",
+      "cumle": "Rudrangshu Mukherjee'nin 1990'da Past and Present'ta çıkan Kanpur incelemesi ise olayı 1857 başkaldırısı diye adlandırır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydi basligi: \"THE KANPUR MASSACRES IN INDIA IN THE REVOLT OF 1857\", Past and Present 128 (1990). Iddia baslik duzeyindedir."
+    },
+    {
+      "iddia_id": "i49",
+      "cumle": "Kraliçe'nin bildirisinin verdiği sözler, sonraki on yıllarda karşılığı her zaman gelmeyince yeni bir milliyetçiliğin ısrarla andığı bir dayanağa dönüştü; adın çekişmeli olması ise sürüyor.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "\"In the following decades, when admission to these rights was not always forthcoming, Indians were to pointedly refer to the Queen's proclamation in growing avowals of a new nationalism\"; ve \"The name of the revolt is contested\"."
+    },
+    {
+      "iddia_id": "i50",
+      "cumle": "Vernon Smith'in 1857'de neyin yol açtığını şimdiden bildirmenin imkânsız olduğunu söylemesi o gün bir kaçamak olarak işitilmişti; bir buçuk yüzyıl sonra hâlâ ad üzerinde uzlaşılamaması, o cümlenin sahibinin sandığından daha fazla doğru olduğunu gösteriyor.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cumlenin ilk yarisi tutanaga dayanir (Vernon Smith: \"It is impossible at present to declare what has caused it\"); ikinci yarisi bugunun adlandirma tartismasiyla kurulan bir bagdir ve kaynagin iddiasi degildir. Destek kismi."
+    }
+  ]
+}

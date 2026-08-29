@@ -23,6 +23,8 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - kavram-belge-okumasi
   - kavram-hukuk-devleti
+  - olay-suveys-krizi
+  - aktor-birlesmis-milletler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

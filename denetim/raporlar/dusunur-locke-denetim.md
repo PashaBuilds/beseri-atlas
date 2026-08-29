@@ -1,18 +1,59 @@
 ## dusunur-locke
-_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:19.088Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T20:14:26.680Z_
 
-- [OK]      k1 → "Kaynak onu 1632 doğumlu, 1704'te ölmüş bir Britanyalı filozof, Oxford akademisyeni ve tıp araştırmacısı olarak…"
-- [OK]      k1 → "Kaynak, Anthony Ashley Cooper ile ilişkisinin onu sırasıyla ticaret ve sömürgeler hakkında bilgi toplamakla gö…"
-- [ATOMSUZ] k1 → "Bir filozofun ansiklopedi maddesinde görevlerinin ad ad sayılması, atlasın düşünür dosyalarında neden yalnızca…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Aynı yüzyıllarda söz konusu ticaret alanına dair ayrı bir kayıt tutulur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "İki kaydın yan yana durması, okurun kendi bağlantısını kurabilmesi için yeterlidir; hakemlik bu dosyanın işi d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "İki kaydın yan yana durması, okurun kendi bağlantısını kurabilmesi için yeterlidir; hakemlik bu dosyanın işi d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, İnsan Anlığı Üzerine Bir Deneme'yi (1689) modern deneyciliğin ilk büyük savunmalarından biri olarak ni…" — 1 atom doğrulandı; 4 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir eserin konusunun bilginin sınırını çizmek olarak tanımlanması, bu atlasın kendi kurallarıyla aynı soruyu s…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Bir önceki kuşağın siyaset düşünürü için tutulan kayıt, onun 1640 sonunda İngiltere'den ayrıldığını ve 1651'e …"
-- [ATOMSUZ] k1 → "İki düşünürün de aynı yüzyılın siyasi çalkantılarıyla birlikte kaydedilmesi, siyaset felsefesinin bu yüzyılda …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "İki düşünürün de aynı yüzyılın siyasi çalkantılarıyla birlikte kaydedilmesi, siyaset felsefesinin bu yüzyılda …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bilgi kuramı, siyaset felsefesi, mülkiyet kuramı ve din görüşleri burada ayrı başlıklar altında ele alınmamışt…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Yonetim Uzerine Iki Inceleme." — programatik olarak ölçülemedi (ad karşılığı yok): Yonetim, Uzerine, Iki, Inceleme
+- [ATOMSUZ] k1 → "Emek işçinin tartışılmaz mülkiyeti olduğuna göre, o emeğin katıldığı şey üzerinde başkasının hakkı kalmaz — "e…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Aynı kitabın ikinci savı da bir mekanizmadır: hiç kimse doğal eşitlik durumundan çıkarılıp bir başkasının siya…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Aynı kitap, köleliği haklı savaşın sonucu sayan bir bölüm de taşır; onu yazan kişi, Carolina sömürgesinin kuru…"
+- [OK]      k5 → "Aynı kitap, köleliği haklı savaşın sonucu sayan bir bölüm de taşır; onu yazan kişi, Carolina sömürgesinin kuru…"
+- [OK]      k10 → "Aynı kitap, köleliği haklı savaşın sonucu sayan bir bölüm de taşır; onu yazan kişi, Carolina sömürgesinin kuru…"
+- [OK]      k2 → "Birinci İnceleme'nin ilk cümlesi, Sir Robert Filmer'ın Patriarcha'sını hedef alır ve köleliği insan için "öyle…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Locke'un karşısına aldığı sav, Filmer'ın bütün iktidarı Âdem'e verilmiş babalık hakkından türetip mutlak monar…"
+- [OK]      k1 → "İkinci İnceleme'nin bütün kavram takımı bu iki cümleyi çürütmek için kurulmuştur; nitekim özgürlüğü tanımlarke…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Shaftesbury, Katolik olduğunu açıklayan James'in tahta geçmesini engelleyecek bir dışlama yasası için parlamen…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k5 → "Locke 1683'te Hollanda'ya kaçtı, 1689 Şubatı'nda döndü ve İki İnceleme ile Hoşgörü Üzerine Mektup'u imzasız ya…" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k1 → "Emek kuramının işlevi, ortak mülkiyetten özel mülkiyete geçişi herkesin onayını beklemeden mümkün kılmaktır: e…" — programatik olarak ölçülemedi (ad karşılığı yok): Tanrı
+- [ATOMSUZ] k1 → "Birincisi bozulma sınırıdır: bir kişi ancak bozulmadan önce yararlanabileceği kadarını mülk edinebilir, bunun …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "İkincisi yeterlilik kaydıdır — ortakta başkalarına yeterince ve aynı iyilikte kalması koşulu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Locke bu koşulun kendiliğinden sağlandığını düşünür, çünkü kimsenin emeği her şeye yetişemez ve dünya, ilk çağ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Bu uzlaşmayla, der Locke, insanlar toprağın orantısız ve eşitsiz bir biçimde paylaşılmasına zımnen ve gönüllü …"
+- [ATOMSUZ] k7 → "Locke'un yorumcuları arasında bu adımı en zayıf halka sayanlar çoktur; paraya verilen rızanın bugünkü eşitsiz …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Locke, açık rıza ile zımni rızayı ayırır ve zımni rızayı çok geniş tutar: bir devletin topraklarında herhangi …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "A. John Simmons'ın itirazı buradan çıkar: bir kişiden zımni rıza vermemek için bütün mülkünü bırakıp göç etmes…"
+- [ATOMSUZ] k1 → "Yasama gücü halktan alınmış emanet bir güçtür; emanetin verildiği amaç açıkça ihmal edilir ya da ona karşı dav…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Yasama organı halkın mülkiyetini yok etmeye ya da onları keyfî güç altında köleliğe indirmeye kalkarsa halkla …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Kilise, üyelerinin kendi istekleriyle bir araya geldiği gönüllü bir topluluktur; kimse bir kilisenin üyesi ola…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Sivil yöneticinin yetkisi de ruhların kurtuluşuna uzanamaz, çünkü böyle bir yetkiyi ona ne Tanrı vermiştir ne …" — programatik olarak ölçülemedi (ad karşılığı yok): Tanrı
+- [ATOMSUZ] k3 → "Locke buradan, günah ile suç arasındaki ayrımı çıkarır: bir şeyin günah olması onu yöneticinin kılıcına konu y…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Yönetici, üyeleri girmekle kendilerini başka bir hükümdarın himayesine ve hizmetine teslim eden bir kiliseye h…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Ve "Tanrı'nın varlığını inkâr edenler hiçbir biçimde hoşgörülmemelidir", çünkü Locke'a göre insan toplumunun b…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Anthony Ashley Cooper ile ilişkisi onu sırasıyla ticaret ve sömürgeler hakkında bilgi toplayan bir devlet göre…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Bu ikinci görev sırasında Carolina'nın temel anayasasının yazımına katıldı; bu katkının kapsamı ise tartışmalı…"
+- [OK]      k4 → "Doksan yedinci madde, yerlilerin Hristiyanlığa yabancı olmasının onları kovmaya ya da kötü kullanmaya hak verm…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k4 → "Yüz yedinci madde kölelerin de diledikleri kiliseye girmesini serbest bırakır, ama hiçbir kölenin bununla efen…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Yüz onuncu madde ise şudur: "Carolina'nın her özgür adamı, zenci köleleri üzerinde mutlak güç ve yetkiye sahip…"
+- [OK]      k4 → "Metnin Avalon'daki 19. yüzyıl derlemesine düşülen dipnot, doksan altıncı maddenin — İngiltere Kilisesi'ni tek …" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k4 → "Bu aktarım ikinci eldendir ve derlemenin atıf iddiası sonraki tartışmada sınanmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Bu aktarım ikinci eldendir ve derlemenin atıf iddiası sonraki tartışmada sınanmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Leslie Stephen, maddeyi Locke'un eklediğini savunarak onu kişisel ırkçılıkla suçladı."
+- [OK]      k6 → "Buna karşı Uzgalis, maddenin yazarı olarak Lord Ashley'nin ya da Sir John Colleton'ın çok daha güçlü adaylar o…"
+- [OK]      k6 → "Bu okumaya göre madde onların kaygısını yatıştırmak için konmuştur ve Locke'un kişisel görüşü hakkında neredey…"
+- [OK]      k6 → "David Armitage ise Locke'un anayasayı yıllar boyunca, İki İnceleme'yi yazdığı döneme kadar değiştirmeyi sürdür…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k6 → "Uzgalis bilgiyi ilginç bulur ama çıkarımları şüpheli sayar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k8 → "Armitage'ın kendi özetinde iddia daha dar bir zamana bağlanır: Locke'un anayasayı gözden geçirmekle uğraştığı …" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Farr'a göre Locke, köleliğin haklı savaş kuramını Grotius'un doğal hukukundan devraldı, ama Grotius'tan farklı…"
+- [OK]      k9 → "Locke yine de İngiliz sömürgeciliğinin bir görevlisiydi ve düzenleyen talimatlar yazdı; ama Farr'a göre bu tal…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Buradan yorum sorunları ve ırkçılık suçlamaları doğar; Farr, Locke ırkçı sıfatını hak ediyorsa bunun köleliği …"
+- [OK]      k10 → "Uzgalis daha ileri gider: Locke'un iki ayrı kölelik kavramı vardır — savaşta haklı tarafın esir üzerinde kurdu…"
+- [OK]      k7 → "James Tully ve Barbara Arneil, emek kuramının kullanışlı bir sonuca vardığını gösterdiler: yerli Amerikalıları…"
+- [OK]      k7 → "Mark Goldie ise buna bir çekince koyar: İkinci İnceleme'yi yazarken Locke'un başlıca meşguliyeti hâlâ İngilter…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k7 → "Aynı tartışmanın ikinci ucunda, mülkiyetin kurulduktan sonraki durumu vardır: Robert Nozick Locke'u libertarye…"
+- [OK]      k1 → "Birincisi yeterlilik kaydının düşürülmesidir: emek-mülkiyet savı, koşulsuz bir edinme hakkı gibi aktarıldığınd…"
+- [ATOMSUZ] k1 → "İkincisi rızanın açık rızaya indirgenmesidir; oysa metnin taşıdığı yük büyük ölçüde zımni rızanın üstündedir v…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "İkincisi rızanın açık rızaya indirgenmesidir; oysa metnin taşıdığı yük büyük ölçüde zımni rızanın üstündedir v…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Üçüncüsü hoşgörünün evrensel bir ilke gibi okunmasıdır: metin ateistleri ve yabancı bir hükümdara bağlı kilise…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Dördüncüsü ters yönden gelen hatadır — Carolina Anayasası'nın 110. maddesine bakıp kuramın tamamını sömürge kö…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "Dördüncüsü ters yönden gelen hatadır — Carolina Anayasası'nın 110. maddesine bakıp kuramın tamamını sömürge kö…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Locke bu koşulu geniş tuttu ama koşulsuz bırakmadı; onu okumayı sürdüren tartışma, dışarıda kalanların hangi g…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Locke bu koşulu geniş tuttu ama koşulsuz bırakmadı; onu okumayı sürdüren tartışma, dışarıda kalanların hangi g…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 4 OK · 0 ISARET · 0 HATA · 9 ATOMSUZ
+**Özet:** 31 OK · 0 ISARET · 0 HATA · 23 ATOMSUZ

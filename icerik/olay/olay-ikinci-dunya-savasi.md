@@ -22,6 +22,7 @@ ilgili:
   - dusunur-arendt
   - kavram-topyekun-savas
   - tartisma-ikinci-dunya-savasi-sorumlulugu
+  - olay-uzay-yarisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

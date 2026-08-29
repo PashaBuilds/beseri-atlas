@@ -1,13 +1,13 @@
 {
   "id": "tartisma-feodalite-kavrami",
   "govde_hash": "669790b47783",
-  "commit": "33a9638",
+  "commit": "9181554",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
     {
       "iddia_id": "i001",
-      "cumle": "Karşılaştırmalı feodalizm derlemesinin giriş denemesinde Joseph Strayer ile Rushton Coulborn bunu bir cümleyle koyar: \"Fatih William'ın hiçbir çağdaşı bu terimi kullanmadı\"; sözcük, çoğu on sekizinci yüzyılda yaşamış bilginlerce, kendi günlerine kalmış kurumlardan geriye bakılarak türetilmiştir.[^k6]",
+      "cumle": "Karşılaştırmalı feodalite derlemesinin giriş denemesinde Joseph Strayer ile Rushton Coulborn bunu bir cümleyle koyar: \"Fatih William'ın hiçbir çağdaşı bu terimi kullanmadı\"; sözcük, çoğu on sekizinci yüzyılda yaşamış bilginlerce, kendi günlerine kalmış kurumlardan geriye bakılarak türetilmiştir.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -35,7 +35,7 @@
     },
     {
       "iddia_id": "i003",
-      "cumle": "Ders kitapları bir çağı bu adla açar; karşılaştırmalı tarih Japonya'dan Etiyopya'ya uzanan bir coğrafyada aynı etiketi kullanır; Marx çizgisi feodalizmi kapitalizmden önceki iktisadi çağın adı yapar.[^k1][^k7]",
+      "cumle": "Ders kitapları bir çağı bu adla açar; karşılaştırmalı tarih Japonya'dan Etiyopya'ya uzanan bir coğrafyada aynı etiketi kullanır; Marx çizgisi feodaliteyi kapitalizmden önceki iktisadi çağın adı yapar.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -201,7 +201,7 @@
     },
     {
       "iddia_id": "i014",
-      "cumle": "Brown'un 1974'te American Historical Review'da çıkan makalesi, bir konferans gözlemiyle açılır: Thomas Bisson güney Fransa ve İspanya'daki barış kurumlarını feodalizme hiç başvurmadan, betimleyerek anlatmış; Brown, meslektaşlarının bu belgeleri yıllarca görmemesini, feodalizme model ya da ideal tip olarak yoğunlaşıp çerçeveye uymayan kanıtı eleme eğilimine bağlamıştır.[^k4]",
+      "cumle": "Brown'un 1974'te American Historical Review'da çıkan makalesi, bir konferans gözlemiyle açılır: Thomas Bisson güney Fransa ve İspanya'daki barış kurumlarını feodaliteye hiç başvurmadan, betimleyerek anlatmış; Brown, meslektaşlarının bu belgeleri yıllarca görmemesini, feodaliteye model ya da ideal tip olarak yoğunlaşıp çerçeveye uymayan kanıtı eleme eğilimine bağlamıştır.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -215,7 +215,7 @@
     },
     {
       "iddia_id": "i015",
-      "cumle": "Makalenin gövdesi bir kullanım envanteridir: aynı yazarın elinde \"gelişmiş\", \"klasik\", \"katı\" feodalizmler yan yana yaşar; kavramı eleştiren bilginler bile ondan türemiş biçimleri kullanmayı sürdürür.[^k4]",
+      "cumle": "Makalenin gövdesi bir kullanım envanteridir: aynı yazarın elinde \"gelişmiş\", \"klasik\", \"katı\" feodaliteler yan yana yaşar; kavramı eleştiren bilginler bile ondan türemiş biçimleri kullanmayı sürdürür.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -327,7 +327,7 @@
     },
     {
       "iddia_id": "i023",
-      "cumle": "Kavramı Weberci bir [ideal tip](/kavram/ideal-tip/) olarak kurtarma girişimine de aynı metin cevap verir: Weber'in feodalizmi bile ona göre fazla nitelik yüklüdür ve ideal tipler ancak yalın oldukları ve karşıt çiftler kurdukları zaman iş görür.[^k5]",
+      "cumle": "Kavramı Weberci bir olarak kurtarma girişimine de aynı metin cevap verir: Weber'in feodaliteyi bile ona göre fazla nitelik yüklüdür ve ideal tipler ancak yalın oldukları ve karşıt çiftler kurdukları zaman iş görür.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -355,7 +355,7 @@
     },
     {
       "iddia_id": "i025",
-      "cumle": "Derlemenin Japonya bölümünü yazan Edwin Reischauer, soyutlama Avrupa tarihinden türetilmiş olsa da dokuzuncu yüzyıldan on dokuzuncu yüzyıla Japon tarihinin olgularına aynı geçerlilikle uyduğunu savunur; Avrupa ile Japonya arasındaki koşutluk ona göre feodalizmin rastlantısal bir olgu yığını değil, temel bir insani örgütlenme biçimi olduğunu gösterir.[^k6]",
+      "cumle": "Derlemenin Japonya bölümünü yazan Edwin Reischauer, soyutlama Avrupa tarihinden türetilmiş olsa da dokuzuncu yüzyıldan on dokuzuncu yüzyıla Japon tarihinin olgularına aynı geçerlilikle uyduğunu savunur; Avrupa ile Japonya arasındaki koşutluk ona göre feodalitenin rastlantısal bir olgu yığını değil, temel bir insani örgütlenme biçimi olduğunu gösterir.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -383,7 +383,7 @@
     },
     {
       "iddia_id": "i027",
-      "cumle": "Reynolds'a göre karşılaştırmalarda kullanılan feodalizm modelleri — Marksist olanlar dahil — hâlâ ya on altıncı yüzyıl temeli üzerine kuruludur ya da ondan alınmış yüzeysel özellikler taşır; tutarlı bir çekirdeği olmayan bir demetle toplum karşılaştırmak, demeti bir arada tutan ipin bizim sözcüklerimiz olduğunu unutmaktır.[^k5]",
+      "cumle": "Reynolds'a göre karşılaştırmalarda kullanılan feodalite modelleri — Marksist olanlar dahil — hâlâ ya on altıncı yüzyıl temeli üzerine kuruludur ya da ondan alınmış yüzeysel özellikler taşır; tutarlı bir çekirdeği olmayan bir demetle toplum karşılaştırmak, demeti bir arada tutan ipin bizim sözcüklerimiz olduğunu unutmaktır.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -411,7 +411,7 @@
     },
     {
       "iddia_id": "i029",
-      "cumle": "Bu kullanımda feodalizmi tanımlayan şey fief ya da vasallık töreni değil, egemen sınıfın ekilebilir toprak üzerindeki denetimi ve kapitalizmden önce gelen düzen olmasıdır.[^k1]",
+      "cumle": "Bu kullanımda feodaliteyi tanımlayan şey fief ya da vasallık töreni değil, egemen sınıfın ekilebilir toprak üzerindeki denetimi ve kapitalizmden önce gelen düzen olmasıdır.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -425,7 +425,7 @@
     },
     {
       "iddia_id": "i030",
-      "cumle": "Ama büsbütün de kurtarmaz — Reynolds, Marksist feodalizmin en kolay kapitalizmle karşıtlık içinde tasavvur edildiğini ve karşılaştırmalı modellerin on altıncı yüzyıl mirasını taşımayı sürdürdüğünü not eder.[^k5]",
+      "cumle": "Ama büsbütün de kurtarmaz — Reynolds, Marksist feodalitenin en kolay kapitalizmle karşıtlık içinde tasavvur edildiğini ve karşılaştırmalı modellerin on altıncı yüzyıl mirasını taşımayı sürdürdüğünü not eder.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -453,7 +453,7 @@
     },
     {
       "iddia_id": "i032",
-      "cumle": "Ve Brown'un iğnesi Duby'yi de bulur: ona göre Duby'nin metinlerinde bile feodalizm zaman zaman kendi başına yerleşen, kurulan bir özneye dönüşür — kavramın şeyleşmesi, onu en dikkatli kullananların bile kaleminde tekrarlanır.[^k4]",
+      "cumle": "Ve Brown'un iğnesi Duby'yi de bulur: ona göre Duby'nin metinlerinde bile feodalite zaman zaman kendi başına yerleşen, kurulan bir özneye dönüşür — kavramın şeyleşmesi, onu en dikkatli kullananların bile kaleminde tekrarlanır.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -568,5 +568,11 @@
     "desteksiz": 0,
     "olculemez": 2
   },
-  "not_orkestrator": "2026-08-29: hakem finalize sonrasi mekanik kapi onarimi (kilitli terim / dipnot / baslik atif dili); icerik iddialari degismedi, hash guncellendi."
+  "not_orkestrator": "2026-08-29: hakem finalize sonrasi mekanik kapi onarimi (kilitli terim / dipnot / baslik atif dili); icerik iddialari degismedi, hash guncellendi.",
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "10 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

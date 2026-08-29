@@ -1,17 +1,54 @@
 ## olay-meksika-fethi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:02.479Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T20:05:25.418Z_
 
-- [OK]      k1 → "Kaynak tarihi iki ayrı aralık olarak verir: Şubat 1519 - 13 Ağustos 1521 arası Aztek İmparatorluğu'na karşı, 1…" — 4 atom doğrulandı; 4 ad ölçülemedi
-- [OK]      k1 → "Kaynak sonucu "İspanyol-Yerli müttefik zaferi" olarak kaydeder."
-- [ATOMSUZ] k1 → "Sonucun tek bir ulusa değil bir ittifaka atfedilmesi, "fetih" sözcüğünün tek bir dış gücün eylemi olarak okunm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Purépecha İmparatorluğu müttefikler arasında 1522 tarihiyle, hasımlar arasında 1522-1529 ve 1533 sonrası tarih…" — 6 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir siyasi birimin aynı çatışmanın iki tarafında da kaydedilmesi, atlasın taraf kutularını neden tarih aralığı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Karşı tarafta Aztek Üçlü İttifakı 1519-1521 tarihleriyle kaydedilir; altında Tenochtitlan, Cholula, Tlatelolco…" — 3 atom doğrulandı; 3 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir imparatorluğun kendi kaydında da kısmen katılan bir üye bulunması, merkezî denetimin çatışma anında ne kad…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "İttifakın kendisi dosyasında ele alınıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Toprak değişimi şöyle kaydedilir: Aztek İmparatorluğu'nun, Purépecha İmparatorluğu'nun ve diğerlerinin İspanyo…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k1 → "Kaydın hem ilhakı hem yeni bir krallığın kurulmasını aynı satırda vermesi, bu örnekte sömürge yönetiminin bir …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1500 yılında yaklaşık 503,1 milyon, 1600 yılında yaklaşık 516,1 milyondur."
-- [ATOMSUZ] k1 → "Seferin seyri, kuşatma, salgınlar ve sonraki sömürge düzeni burada ayrı başlıklar altında ele alınmamıştır; ka…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Hernán Cortés'in Küba'dan yola çıkardığı filo, mektuplarını taşıyan cildin girişindeki kayda göre 18 Şubat 151…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Cortés'in imparator V. Karl'a yazdığı mektupta Cholula'da şehri tararken yanında saydığı kuvvet beş bin Tlaxca…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "Matthew Restall'ın kitabının özeti fethin siyah ve yerli müttefiklere ağır biçimde dayandığını, bu müttefikler…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k7 → "Aynı yıllarda askerî tarih tarafından gelen bir başka itiraz, ateşli silahların İspanyol zaferinin teknolojik …" — programatik olarak ölçülemedi (ad karşılığı yok): İspanyol
+- [OK]      k1 → "Cortés, mektuplarını Diego Velázquez'in izniyle başlayıp o iznin dışına çıkmış bir seferi yürütürken yazdı; ik…"
+- [ATOMSUZ] k1 → "Motecuhzoma'yı da kendi kaydında hükümdarın hizmetine tümüyle bağlanmış biri olarak sunar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Yazar kitabın amacını Francisco de Gómara'nın yapıtındaki hataları göstermek diye tanımlar, her çarpışmada biz…"
+- [OK]      k6 → "Florentine Codex'in on ikinci kitabı, yerli aydınlarla birlikte Nahuatl dilinde yazılmış, İspanyolca çevirisi …" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "Sahagún 1585'te bu anlatıyı yeniden yazmış, yani fethin hikâyesi yüzyılın sonuna doğru keşişin elinde değişmiş…"
+- [OK]      k4 → "Dördüncü bir ses, Tlaxcalalı Diego Muñoz Camargo'nun kroniğidir; orada Tlaxcalalılar Cortés'in "sadık dostları…"
+- [ATOMSUZ] k1 → "Cortés kendi anlatısında Aztek yönetiminden hoşnutsuz kıyı beylerinin kendisine başvurduğunu, kendilerini ezen…" — programatik olarak ölçülemedi (ad karşılığı yok): Aztek
+- [ATOMSUZ] k1 → "Tlaxcala sınırında ise savaş çıktı: Cortés kendini yüz binden fazla savaşçının ortasında bulduğunu, çarpışmanı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Sahagún'un on ikinci kitabı aynı bölgeye girişi başka bir yerden başlatır: Tlaxcala toprağındaki Tecoac'ta, sı…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Muñoz Camargo'nun 1892 baskısını hazırlayan Chavero, kendi dipnotunda Tlaxcalalıların sayı üstünlüğünü birbiri…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Bernal Díaz, kaptanının tercümanlar aracılığıyla karşıdakilere uzak bir ülkeden geldiklerini, Don Carlos adlı …"
+- [ATOMSUZ] k1 → "Cortés de Tlaxcala sınırındaki ilk çatışmada, yanında noter bulunmadığı için tercümanlar üzerinden resmî bir ç…" — programatik olarak ölçülemedi (ad karşılığı yok): Tlaxcala
+- [OK]      k2 → "Bernal Díaz, Doña Marina'nın Painala adlı bir kasabanın beyinin kızı olarak doğduğunu, babasının erken ölümünd…"
+- [OK]      k8 → "Sadikov'un 2025 tarihli makalesinin özeti bu kişiyi çok daha ileri bir yere koyar ve savı açıkça yazarın kendi…"
+- [ATOMSUZ] k1 → "Cortés, Tlaxcalalı beylerin kendisini şehre girmemesi için uyardığını, Motecuhzoma'nın şehre iki fersah mesafe…" — programatik olarak ölçülemedi (ad karşılığı yok): Tlaxcalalı, Motecuhzoma
+- [OK]      k1 → "Ardından kendi eylemini şöyle kaydeder: beyleri kapatır, işaret topunu attırır ve kendi ifadesiyle iki saatte …" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Sorguladığı tutsaklar suçu Motecuhzoma'nın adamlarına atar." — programatik olarak ölçülemedi (ad karşılığı yok): Motecuhzoma
+- [OK]      k1 → "Cortés'in metni, izinsiz yürüttüğü bir seferi meşrulaştırmak zorunda olan bir adamın metnidir ve Cholula bölüm…"
+- [ATOMSUZ] k5 → "Restall'ın kitabının özeti fethin tarihinin yanlış okunarak popüler bilgiye dönüştüğünü konu edinir ve yerlile…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Sahagún'un metni, İspanyolların bayram donanımındaki tüylerden, kalkanlardan ve öteki süslerden altını sökmek …" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k3 → "Sahagún'un kaydı, Meksikalıların İspanyollara duyduğu büyük öfkeyi ileri gelenlerin ve yiğit adamların hainlik…" — programatik olarak ölçülemedi (ad karşılığı yok): Meksikalıların, İspanyollara
+- [OK]      k3 → "Kaydın anlattığı çıkış da ittifak düzenini gösterir: hem savaştan hem açlıktan sıkışan İspanyollar bir gece ka…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Metin, Tlaxcala'daki İspanyollar Meksika'yı almaya gelmeden önce, yerli takvimde Tepeilhuitl denen ve eylül so…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k3 → "Salgının ölümü tek başına getirmediğini de ekler: yemek yapacak kimse kalmadığı için çok sayıda kişi açlıktan …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Metin ölenler için "sayısız insan" der ve bir rakam yazmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Salgının zamanlaması da önemlidir: kayıt onu kuşatmadan önceye, İspanyolların şehirden çıkışıyla geri dönüşü a…" — programatik olarak ölçülemedi (ad karşılığı yok): İspanyolların
+- [ATOMSUZ] k1 → "Kuşatmanın teknik aracı, göl üstünde kullanılmak üzere Tlaxcala'da yapılıp Tetzcoco'ya taşınan brigantinlerdi;…" — programatik olarak ölçülemedi (ad karşılığı yok): Tlaxcala, Tetzcoco
+- [OK]      k3 → "Sahagún'un metni son evreyi içeriden anlatır: her yandan sıkıştırılan Meksikalılar talihlerinin bitip bitmediğ…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Kuşatmanın süresi ve bilançosu ise metnin kendisinde değil, 1829 baskısını hazırlayan Bustamante'nin dipnotund…" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k7 → "Teknoloji açıklaması, ateşli silahları ve zırhı belirleyici sayar; Cervera Obregón'un özeti bu konumu adıyla h…"
+- [OK]      k5 → "İttifak açıklaması, Tlaxcala ve öteki yerli güçler olmadan seferin yürüyemeyeceğini savunur; Restall'ın özeti …" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k3 → "Salgın açıklaması ise çiçek salgınının kuşatmadan önce geldiğini ve sayısız insanı öldürdüğünü söyler; dayanağ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Cholula'daki beş saatlik harekâtın kuvvet dökümünü Cortés'in kendisi verir ve dökümde beş bin Tlaxcalalı vardı…" — programatik olarak ölçülemedi (ad karşılığı yok): Tlaxcalalı
+- [ATOMSUZ] k3 → "Salgının kuşatmadan önce geldiğini ve yemek yapacak kimse kalmayacak kadar yayıldığını Nahua kaydı söyler." — programatik olarak ölçülemedi (ad karşılığı yok): Nahua
+- [ATOMSUZ] k1 → "Silahların tek başına belirleyici olmadığını gösteren de gene Cortés'tir: yüz binden fazla savaşçının ortasınd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Cortés Cholula'da iki saatte üç binden fazla ölü sayar ve sayıyı kendi başarısının ölçüsü olarak verir."
+- [ATOMSUZ] k3 → "Sahagún'un metni ise salgın ölüleri için hiçbir rakam yazmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Kuşatmanın süresi ve bilançosu ancak üç yüzyıl sonra, 1829 baskısını hazırlayan editörün dipnotunda sayıya dök…"
+- [OK]      k6 → "Amber Brian'ın makalesi 2021'i Tenochtitlan'ın düşüşünün beş yüzüncü yılı olarak anar ve fethin anlatısının Sa…"
+- [ATOMSUZ] k5 → "Restall'ın özetinde olay, yerli tarafın gözünde İspanyolların önemli ama ikincil bir rol oynadığı bir yerli iç…" — programatik olarak ölçülemedi (ad karşılığı yok): İspanyolların
+- [OK]      k7 → "Aynı zorlama askerî tarih tarafından da gelir: olayı yalnızca Tenochtitlan'ın düşüşüne indirgemek, öncesindeki…"
+- [ATOMSUZ] k1 → "Cortés'in mektubu bir savunma metnidir ve müttefik sayılarını da o savunmanın içinde verir; beş bin Tlaxcalalı…" — programatik olarak ölçülemedi (ad karşılığı yok): Tlaxcalalıyı
+- [OK]      k2 → "Bernal Díaz'ın anısı geç yazılmıştır ama Doña Marina'nın kim olduğu gibi Cortés'in mektuplarında bulunmayan ay…"
+- [ATOMSUZ] k3 → "Sahagún'un derlemesi bir keşişin denetiminden geçmiştir ama salgını ve açlığı içeriden anlatır ve rakam uydurm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Muñoz Camargo Tlaxcala'nın davasını savunur ama o davanın kendisi, fethin yerli tarafta da bir siyaset olduğun…"
 
-**Özet:** 6 OK · 0 ISARET · 0 HATA · 6 ATOMSUZ
+**Özet:** 28 OK · 0 ISARET · 0 HATA · 21 ATOMSUZ

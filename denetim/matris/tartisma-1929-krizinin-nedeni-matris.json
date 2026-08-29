@@ -1,7 +1,7 @@
 {
   "id": "tartisma-1929-krizinin-nedeni",
   "govde_hash": "410b59654f68",
-  "commit": "7549ec6",
+  "commit": "9181554",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -713,5 +713,11 @@
     "kismi": 8,
     "desteksiz": 0,
     "olculemez": 0
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "5 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

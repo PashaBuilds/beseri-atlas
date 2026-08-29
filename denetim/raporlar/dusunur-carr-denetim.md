@@ -1,5 +1,5 @@
 ## dusunur-carr
-_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:17.082Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T20:11:02.508Z_
 
 - [OK]      k1 → "E. H. Carr'ın 1961'de Cambridge'de verdiği konferanslarda savunduğu buydu."
 - [OK]      k1 → "Katalog kayıtlarında Edward Hallett Carr, 1892-1982 olarak geçer; konferansları verdiğinde altmışlarının sonun…"

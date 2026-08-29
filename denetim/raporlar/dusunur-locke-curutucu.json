@@ -1,21 +1,29 @@
 {
   "id": "dusunur-locke",
   "gecis": 3,
-  "zaman": "2026-08-21T08:56:39.055Z",
+  "zaman": "2026-08-29T20:19:03.617Z",
+  "govde_hash": "5ea01690b914",
   "itirazlar": [
-    {
-      "ciddiyet": "orta",
-      "tip": "tek-kaynakli-nedensellik",
-      "cumle": "Kaynak, *İnsan Anlığı Üzerine Bir Deneme*'yi (1689) modern deneyciliğin ilk büyük savunmalarından biri olarak niteler ve eserin geniş bir konu yelpazesinde insan anlayışının sınırl",
-      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
-      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
-    },
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Kaynak, *İnsan Anlığı Üzerine Bir Deneme*'yi (1689) modern deneyciliğin ilk büyük savunmalarından biri olarak niteler ve eserin geniş bir konu yelpazesinde insan anlayışının sınırl",
+      "cumle": "Emek kuramının işlevi, ortak mülkiyetten özel mülkiyete geçişi herkesin onayını beklemeden mümkün kılmaktır: eğer böyle bir onay gerekseydi, Tanrı bolluk verdiği hâlde insan açlıkt",
       "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Emek kuramının işlevi, ortak mülkiyetten özel mülkiyete geçişi herkesin onayını beklemeden mümkün kılmaktır: eğer böyle bir onay gerekseydi, Tanrı bolluk verdiği hâlde insan açlıkt",
+      "sorun": "Makale avrupa/amerika kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Locke'un yazdığıyla adına söylenen arasındaki fark birkaç yerde toplanır. Birincisi yeterlilik kaydının düşürülmesidir: emek-mülkiyet savı, koşulsuz bir edinme hakkı gibi aktarıldı",
+      "sorun": "Makale avrupa/amerika kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
     }
   ]
 }

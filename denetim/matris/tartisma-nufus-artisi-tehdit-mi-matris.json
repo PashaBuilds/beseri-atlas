@@ -1,7 +1,7 @@
 {
   "id": "tartisma-nufus-artisi-tehdit-mi",
   "govde_hash": "c20aa1c15471",
-  "commit": "33a9638",
+  "commit": "9181554",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -803,5 +803,11 @@
     "kismi": 8,
     "desteksiz": 0,
     "olculemez": 0
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "3 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

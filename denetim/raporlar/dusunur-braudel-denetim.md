@@ -1,18 +1,51 @@
 ## dusunur-braudel
-_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:17.044Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T20:18:31.814Z_
 
-- [ATOMSUZ] k1 → "Kaynak, onun zamanı katmanlara ayırdığını yazar ve üçüncü katmanı olayların zamanı olarak tanımlar: adı olan b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, olayların zamanının onun için yüzeylerin ve aldatıcı etkilerin zamanı olduğunu ve Akdeniz'in üçüncü bö…" — programatik olarak ölçülemedi (ad karşılığı yok): Akdeniz
-- [ATOMSUZ] k1 → "İkinci düzeyde iktisadi, toplumsal ve kültürel tarihin bulunduğu; bu düzeyde değişimin çevreninkinden çok daha…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir tarihçinin olayları yöntemsel olarak en az açıklayıcı katmana yerleştirmesi, bu atlasın olay dosyalarını n…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, onun kapitalistlerin genellikle varsayıldığı gibi rekabetçi piyasalarda faaliyet gösteren girişimciler…"
-- [ATOMSUZ] k1 → "Bir tarihçinin iki büyük yorum geleneğinden birden ayrıldığının kaydedilmesi, atlasın hakemlik etmeme ilkesine…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Ayrıldığı yorumların düşünürleri ve dosyalarında ele alınıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Ayrıldığı yorumların düşünürleri ve dosyalarında ele alınıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, onun görüşünde kapitalist ülkelerde devletin, genellikle betimlendiği gibi rekabetin koruyucusu değil …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Atlas bu iddiayı bir olgu olarak değil, kaynağın aktardığı bir konum olarak taşır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, onun Akdeniz'inin denizin yanı sıra çöl ve dağlar olduğunu; çölün bütün topluluğun taşındığı göçebe bi…" — programatik olarak ölçülemedi (ad karşılığı yok): Akdeniz
-- [ATOMSUZ] k1 → "Coğrafyanın toplumsal biçime bağlanması, atlasın bölge alanını neden ayrı bir üst veri olarak tuttuğunu göster…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Hayatı, esaret dönemi, Akdeniz'in yazımı, Fransa'nın kimliği üzerine son eseri ve tarih yazımındaki yeri burad…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "1958'de Annales'de çıkan yazısını insan bilimlerinde genel bir bunalım saptayarak açtı: bilimler kendi ilerlem…"
+- [OK]      k7 → "Aynı yazıda Braudel zamanı, basit bir kronoloji ölçüsü olmaktan çıkarıp toplumsal bir kurgu olarak yeniden tan…"
+- [OK]      k6 → "Yapının da konjonktürün de farklı türleri olduğunu, ikisinin de süresinin değişebileceğini Braudel'in kendisi …"
+- [OK]      k6 → "Orada tarih, Braudel'in deyişiyle ağır çekimde ilerler; coğrafya da kendi başına bir amaç olmaktan çıkıp yapıs…"
+- [OK]      k9 → "En üstte ise adı olan bireylerin tarihi vardır: Braudel için bu üçüncü katman yüzeylerin ve aldatıcı etkilerin…"
+- [OK]      k9 → "En derindeki katmanın adı longue durée (uzun süre), en üsttekinin adı ise Braudel'in sözlüğünde olay tarihidir…"
+- [OK]      k9 → "Akdeniz, Braudel'de denizin yanı sıra çöl ve dağlardır: çöl, bütün topluluğun birlikte yer değiştirdiği göçebe…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Tarih ile sosyal bilimler arasındaki hesaplaşma yinelenen bir temadır ve tarihe iki büyük meydan okuma yönelti…"
+- [OK]      k2 → "Febvre ile Bloch buna 1929'da Strasbourg'da Annales d'histoire économique et sociale'i kurarak karşılık verdi."
+- [OK]      k2 → "İkinci meydan okuma savaş sonrasında geldi: Lévi-Strauss 1949 tarihli "Histoire et Ethnologie" yazısında, komş…"
+- [ATOMSUZ] k1 → "Yazıya göre Lévi-Strauss yapısal antropolojiyi dilbilimin yordamlarına, bilinçsiz tarihin ufuklarına ve nitel …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "1940'ta Vosges'te esir düştü; önce Mainz'daki kalede tutuldu, orada kamp üniversitesinin rektörü oldu ve kent …"
+- [OK]      k9 → "Kitabı, yani Akdeniz'i, Braudel kendi kitaplarına ve notlarına erişmeden belleğine yaslanarak yazdı." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Kendi anlatımına göre Braudel'in uzun süreli bakışı, kaygı verici savaş haberlerine dolaysız ve varoluşsal bir…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k5 → "Kitabın İngilizce çevirisi ikinci gözden geçirilmiş baskıdan yapıldı ve 1972'de Londra'da Collins'ten iki cilt…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "bir dönemlendirme adı değil bir araştırma aracıdır ve pratikte seri tarih yoluyla işledi: Braudel'in meslektaş…"
+- [OK]      k7 → "Richard E. Lee'nin okumasında tarihsel toplumsal sistemler, başlangıcı ve sonu olan tekil uzun süre yapıları o…"
+- [OK]      k9 → "Braudel, Avrupa'da on ikinci yüzyılda gelişmeye başladığını gördüğü uzun vadeli kapitalist döngülerden söz ede…" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k9 → "Bu konum onu hem liberal hem Marksçı yorumdan ayırır ve kapitalist ülkelerde devleti rekabetin koruyucusu deği…"
+- [OK]      k9 → "J. H. Elliott, ilk kitabı üzerine yazdığı değerlendirmede Braudel'in Akdeniz'ini insan denetimine kapalı bir d…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Aynı değerlendirme, insan kararları yerine nesnel açıklamaları yeğlemenin tartışmalı sonuçlara götürebildiğini…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k8 → "J. H. Hexter'ın 1972'de The Journal of Modern History'de yayımladığı "Fernand Braudel and the Monde Braudellie…"
+- [OK]      k3 → "Giovanni Levi, 1989'da Annales'de biyografinin tarihçilerin ilgisinin merkezine yerleştiğini yazdı ve sorunu t…"
+- [OK]      k3 → "Biyografi kimi zaman bireylerin genel normatif dizgelere indirgenemezliğini vurgulamak için, kimi zaman da top…"
+- [OK]      k3 → "Yazı, derginin 1988'de yayımladığı eleştirel dönemeç çağrısına verilen yanıtlardan biridir."
+- [OK]      k9 → "Yapıları görmeyi öğreten bakış kendi döneminin sömürge yargılarından muaf değildi: Brezilya'yı toplumsal esnek…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "L'Identité de la France'ta ilgisi yıllar ve on yıllar değil yüzyıllar ve bin yıllardır; Fransa'yı siyasetinin …"
+- [OK]      k9 → "Kitabın romantik bir özlemle renklendiği ve Braudel'in Fransa'ya duyduğu sevgiyi gizlemediği de aynı kayıtta d…"
+- [ATOMSUZ] k6 → "Braudel'in kurduğu şey az çok istikrarlı bir tarihsel ilişkidir ve büyük ölçekli değişimin kuramsal olarak yen…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "1989'da Jacqueline Cahen ile Jean-Pierre Rioux, bir Fransız lise programının son kırk yılı Braudel'in yüksek h…"
+- [OK]      k4 → "Programın yazarının kendisinin de bu kadar kısa bir uzun süreden rahatsız olduğunu gösterdiler: 1960'larda bel…"
+- [OK]      k4 → "Aynı yazı Braudel'den bir cümleyle kapanır: tarihçi tarihin zamanından hiç çıkmaz, zaman düşüncesine "comme la…"
+- [OK]      k7 → "Birincisi dünya sistemi çözümlemesidir: Lee'ye göre uzun sürenin ikinci dersi dünyanın yalnızca tekilliğini de…"
+- [OK]      k6 → "İkincisi mikro tarihle kurulan gerilimdir: İtalyan mikro tarihinin epizodik ve kısa vadeli olana yönelmesi Fra…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Binghamton Üniversitesi'nde 2020'ye kadar bir Fernand Braudel Merkezi vardı ve 2011'de History Today dergisini…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Braudel'in 1958'deki açılış teşhisi — insan bilimlerinin kendi ilerlemeleri altında ezilmesi — aradan geçen za…"
+- [OK]      k6 → "tarihçinin seçimini kime ait olduğu sorusuyla çözmeyi denemişti; Braudel aynı soruyu hangi zamanda çalışıldığı…"
+- [OK]      k1 → ": Fernand Braudel, "Histoire et Sciences sociales : La longue durée", Annales ESC 13-4 (1958), s. 725-753 — Pe…"
+- [OK]      k2 → ": François Dosse, "Les habits neufs du Président Braudel", Espaces Temps 34-35 (1986), s. 83-93 — Persée."
+- [OK]      k3 → ": Giovanni Levi, "Les usages de la biographie", Annales ESC 44-6 (1989), s. 1325-1336 — Persée."
+- [OK]      k4 → ": Jacqueline Cahen ve Jean-Pierre Rioux, "Vous avez dit Braudel ?", Vingtième Siècle 23 (1989), s. 95-100 — Pe…"
+- [OK]      k5 → ": Internet Archive katalog kaydı — The Mediterranean and the Mediterranean world in the age of Philip II (Coll…"
+- [OK]      k6 → ": Dale Tomich, "The Order of Historical Time: The Longue Durée and Micro-History", Almanack 2 (2011) — SciELO."
+- [OK]      k7 → ": Crossref kaydı — Richard E. Lee, "Lessons of the Longue Durée: The Legacy of Fernand Braudel", Historia Crít…"
+- [OK]      k8 → ": Crossref kaydı — J. H. Hexter, "Fernand Braudel and the Monde Braudellien...", The Journal of Modern History…"
+- [OK]      k9 → ": Wikipedia (EN) — Fernand Braudel."
 
-**Özet:** 2 OK · 0 ISARET · 0 HATA · 11 ATOMSUZ
+**Özet:** 44 OK · 0 ISARET · 0 HATA · 2 ATOMSUZ

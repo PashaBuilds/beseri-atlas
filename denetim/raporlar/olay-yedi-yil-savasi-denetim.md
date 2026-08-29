@@ -1,12 +1,58 @@
 ## olay-yedi-yil-savasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:05.605Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T20:01:36.229Z_
 
-- [OK]      k1 → "Kaynak savaşı tek bir cümleyle tanımlar: Avrupa güçleri arasında 1756–1763 yılları arasında yürüyen küresel bi…"
-- [OK]      k1 → "Kaynağa göre savaşın Rusları kendi lojistik zayıflıklarına maruz bıraktığını ve İmparatorluk Rus Ordusu'nun lo…" — 1 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k1 → "Bu reformun etkisi savaşın kendisinden uzun sürdü: kurulan ikmal sistemi, Rusların 1787–1792'deki Osmanlı sava…" — 6 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k1 → "Kaynağın "küresel savaş" nitelemesi, savaşın Avrupa dışındaki cephelerini de kapsar."
-- [OK]      k2 → "Grenville, ek gelir sağlamak için sömürgelere damga vergisi konmasının gerekli olabileceğini belirtti ve Parla…" — 2 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k2 → "Aynı dönemde 1763 Kraliyet Bildirisi, Apalaş Dağları ile Mississippi Nehri arasındaki toprakları sömürge yerle…" — 1 atom doğrulandı; 4 ad ölçülemedi
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyondur."
+- [OK]      k8 → "Başlıca taraflar bir yanda Britanya ile Prusya, öteki yanda Fransa ile Avusturya'ydı; Portekiz, İspanya, İsveç…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k8 → "Çarpışma Avrupa'nın yanı sıra Kuzey Amerika, Karayipler, Batı Afrika, Hindistan, Filipinler ve Güney Amerika'y…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Aynı metnin on beşinci maddesi Britanya ile Fransa'ya, Almanya'da savaşı sürdüren müttefiklerine hiçbir türden…"
+- [OK]      k8 → "Onu beş gün sonra imzalanan ayrı bir antlaşma bitirdi ve haritayı 1748'e geri döndürdü."
+- [OK]      k8 → "Avusturya Veraset Savaşı'nı bitiren 1748 Aix-la-Chapelle Antlaşması'ndan hiçbir imzacı memnun kalmamıştı ve me…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k4 → "Wenzel Anton Kaunitz, 24 Mart 1749'da Maria Theresia'ya sunduğu görüşünde Prusya kralını "doğal düşmanlar" sın…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "Silezya için kullandığı görüntü, kaybın Viyana'da nasıl ölçüldüğünü anlatır: kopan şey yabancı bir uzuv değil,…"
+- [OK]      k4 → "İngiltere tacını "doğal dostlar" sınıfında ve hepsinin başında sayar, ama Silezya'yı geri almak söz konusu old…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Yine de metin bir kehanet olarak okunmamalıdır: Kaunitz görüşünü açık bir çekinceyle açar — Avrupa saraylarını…"
+- [OK]      k8 → "Kutsal Roma İmparatorluğu'ndaki çekişmenin merkezinde Avusturya'nın Silezya'yı geri alma girişimi durur." — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k8 → "Kuzey Amerika'da Britanya ile Fransa'nın toprakları arasındaki sınır 1750'lerde büyük ölçüde belirsizdi; Frans…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k8 → "Fransızlar aynı yılın 3 Temmuz'unda Fort Necessity'de karşılık verdi ve Washington teslim oldu; bunlar, sonrad…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k8 → "Britanya donanması 1755 Ağustos'undan itibaren Fransız gemiciliğini taciz etti; iki ülke sözde barış hâlindeyk…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k8 → "Aynı çatışmanın parçaları Üçüncü Silezya Savaşı, Fransız ve Kızılderili Savaşı, Üçüncü Karnatik Savaşı, İspany…" — 2 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k5 → "28 Kasım 1757'de bakanı Finckenstein'a yazdığı askerî vasiyette, muharebenin talihi iyi de kötü de çıksa gener…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k5 → "Beş gün sonra subaylarına yaptığı konuşmada, kurallara aykırı biçimde neredeyse iki kat güçlü ve yüksekte mevz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Bu ikinci metin doğrudan Friedrich'in kaleminden gelmez: belgeyi yayımlayan kurum, konuşmanın 1802 tarihli bir…"
+- [OK]      k8 → "Prusya sefere yaklaşık 100.000 askerle başlamıştı ve bunların çoğu yeni acemiydi; yılın sonunda Ruslar Kolberg…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k8 → "Britanya, Friedrich barışı sağlayacak ödünleri düşünmezse para yardımını kesmekle tehdit ediyordu; Prusya ordu…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k8 → "5 Ocak 1762'de Rus İmparatoriçesi Elizaveta öldü; Prusya yanlısı halefi Üçüncü Pyotr Doğu Prusya ile Pomeranya…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k8 → "Bir okuma Friedrich'in kişisel enerjisini ve askerî dehasını öne çıkarır; kaynağın kendi uyarısı, Rusya'nın çe…"
+- [OK]      k8 → "Öteki okuma, Hohenzollern hanedanının kurtuluşunu Prusya'nın savaş meydanındaki gücünden çok Rusya'nın lojisti…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k8 → "Avrupa cephesini kapatan antlaşma 15 Şubat 1763'te imzalandı ve haritayı sadece 1748'in durumuna geri döndürdü…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k8 → "Prusya'nın Avusturya'ya verdiği tek ödün, Arşidük Joseph'in imparator seçilmesine razı olmaktı; Avusturya ne S…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Dördüncü maddeyle Fransa, Nova Scotia ya da Acadia üzerindeki bütün iddialarından vazgeçti ve Kanada'yı Cape B…"
+- [OK]      k1 → "Britanya'nın Kanada'da Katolik ibadetine tanıdığı serbestlik ise koşulsuz değildir: metin bunu "Britanya yasal…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Britanya Guadeloupe, Marie-Galante, Désirade, Martinique ve Belle-Île'i Fransa'ya iade etti, buna karşılık Gre…"
+- [OK]      k1 → "Batı Afrika'da Gorée Fransa'ya geri verilirken Senegal nehri, St. Louis, Podor ve Galam kaleleriyle birlikte B…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k8 → "Kaynağın okuması, Fransa'nın Yeni Fransa ile Karayip şeker adaları arasında seçim yapmak zorunda kaldığında ad…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Hindistan'da metin, Fransa'nın 1749 yılı başında elinde bulunan ticaret merkezlerini bulundukları hâlleriyle i…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "7 Ekim 1763 tarihli Kraliyet Bildirisi, antlaşmayla elde edilen yerlerde Quebec, Doğu Florida, Batı Florida ve…" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k2 → "Aynı metin, kendisine devredilmemiş ya da satın alınmamış toprakların yerli halklara ayrıldığını ilan etti, bu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Yasağın kalıcı olduğu söylenmedi: metin bunu "şimdilik ve bizim başkaca dileğimiz bilininceye kadar" kaydıyla …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Savaş sırasında iç vergiler önemli ölçüde artmış ve toplam devlet borcu neredeyse ikiye katlanmıştı; Britanya …" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Yükün bir bölümünün sömürgelere aktarılması kararı 1764 tarihli Şeker Yasası'nın giriş bölümünde açıkça yazılı…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k7 → "Kullanılan iktisat tarihi maddesi, kopuşu tek bir vergi kararına değil iki ayrı siyaset değişikliğine bağlar: …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Dahası sömürgelilerin kendileri 1774'te Parlamento'dan on üç yasanın geri alınmasını isterken listeyi 1763 son…" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k9 → "Bu savaşa "ilk dünya savaşı" denmesi yaygındır ve akademik yazında da dolaşır: Brill'in 2012'de yayımladığı Th…"
+- [OK]      k8 → "Nitelemeyi destekleyen yan ölçülebilir: çarpışma Avrupa, Kuzey Amerika, Karayipler, Güney Amerika, Batı Afrika…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k8 → "Kaynak Osmanlı'nın uzak duruşunu mutlak da saymaz: 1763'te 100.000 askerle giriştiği başarısız Macaristan sefe…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Üstelik Paris Antlaşması, kendi temeli olarak 1648 Vestfalya'dan 1750 Madrid'e uzanan bir antlaşma dizisini — …" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k6 → "1759'da yayımlanan Candide'de Voltaire'in kişisi Martin, iki ulusun Kanada'da "birkaç akre kar" için savaştığı…"
+- [OK]      k6 → "Aynı bölümde Portsmouth'ta gözleri bağlı kurşuna dizilen amirali görürler ve bunun sebebi olarak, bu ülkede za…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "Aynı editör Voltaire'in bu yargısını tuhaf biçimde beceriksiz bir eleştiri sayar ve Voltaire'in aynı sözü Anıl…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k8 → "Giriş kapısı olarak kullanılan kaynak Prusya için 180.000, Britanya için 160.000, Fransa için 200.000, Avustur…" — 6 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k8 → "Britanya rakamı da yalnız Britanya'yı saymaz: Hannover, Hessen-Kassel, Braunschweig-Wolfenbüttel ve Schaumburg…" — 5 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k8 → "Asker mevcutları için de aynı uyarı geçerlidir: kaynağın verdiği toplamlar Avrupa'da toplanan askerleri sayar,…"
+- [ATOMSUZ] k8 → "Aynı kaynak birkaç satır ötede Prusya'nın savaştan önemi artık tartışılamayacak bir büyük güç olarak çıktığını…" — programatik olarak ölçülemedi (ad karşılığı yok): Prusya
+- [ATOMSUZ] k7 → "Britanya tarafında da kazanç, hemen ardından gelen bir maliye ve yönetim sorununa dönüştü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Silezya'nın 1749'da bir dış siyaset programına dönüşmesi, 1754'te Ohio vadisindeki bir baskın, 1763'te iki ayr…"
+- [OK]      k8 → "Silezya'nın 1749'da bir dış siyaset programına dönüşmesi, 1754'te Ohio vadisindeki bir baskın, 1763'te iki ayr…"
+- [OK]      k1 → "Silezya'nın 1749'da bir dış siyaset programına dönüşmesi, 1754'te Ohio vadisindeki bir baskın, 1763'te iki ayr…"
+- [OK]      k3 → "Silezya'nın 1749'da bir dış siyaset programına dönüşmesi, 1754'te Ohio vadisindeki bir baskın, 1763'te iki ayr…"
 
-**Özet:** 7 OK · 0 ISARET · 0 HATA · 0 ATOMSUZ
+**Özet:** 47 OK · 0 ISARET · 0 HATA · 6 ATOMSUZ

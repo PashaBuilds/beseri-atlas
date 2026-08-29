@@ -1,36 +1,7 @@
 {
   "id": "olay-kultur-devrimi",
   "gecis": 3,
-  "zaman": "2026-08-29T19:51:30.410Z",
+  "zaman": "2026-08-29T20:12:07.426Z",
   "govde_hash": "1836ca08f0ba",
-  "itirazlar": [
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Çin Komünist Partisi'nin başkanı Ağustos 1966'nın ilk günlerinde kendi partisinin merkez organlarına karşı bir duvar gazetesi yazdı: son elli günde merkezden yerele kadar bazı yöne",
-      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Olayın ağırlığı süresinden değil, hedefinden gelir: bir devletin en tepesi kendi parti ve yönetim aygıtını yıkmak üzere kitleleri seferber etti. Partinin 1981 tarihli kendi kararı ",
-      "sorun": "\"en büyük\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Merkez Komite kararının ilk maddesi hedefi burjuvazinin ve sömürücü sınıfların eski fikirleri, kültürü, gelenekleri ve alışkanlıkları diye tanımlamıştı; \"dört eski\" adı buradan gel",
-      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Olayın nasıl adlandırılacağı daha ilk yılında soruldu. The China Quarterly'nin Eylül 1966 sayısındaki bir değerlendirme başlığını doğrudan bir soru olarak kurar: kültür devrimi mi,",
-      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    }
-  ]
+  "itirazlar": []
 }

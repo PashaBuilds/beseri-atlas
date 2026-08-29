@@ -24,6 +24,7 @@ ilgili:
   - kavram-vesayet-yonetimi
   - kaynak-insan-haklari-beyannamesi
   - olay-pasifik-nukleer-denemeleri
+  - olay-kore-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

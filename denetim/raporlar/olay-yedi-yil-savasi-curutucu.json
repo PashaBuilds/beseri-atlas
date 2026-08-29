@@ -1,27 +1,28 @@
 {
   "id": "olay-yedi-yil-savasi",
   "gecis": 3,
-  "zaman": "2026-08-21T06:55:40.331Z",
+  "zaman": "2026-08-29T20:12:07.428Z",
+  "govde_hash": "1a1ab2165462",
   "itirazlar": [
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Kaynak savaşı tek bir cümleyle tanımlar: Avrupa güçleri arasında 1756–1763 yılları arasında yürüyen küresel bir savaş.[^k1] Bu dosya, o **küresellik nitelemesinin ne anlama geldiği",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
     {
       "ciddiyet": "orta",
       "tip": "tek-kaynakli-nedensellik",
-      "cumle": "Savaşın en somut kalıcı sonucu bir muharebe değil bir idari reformdur. Kaynağa göre savaşın Rusları kendi lojistik zayıflıklarına maruz bıraktığını ve İmparatorluk Rus Ordusu'nun l",
-      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "cumle": "Savaşın Avrupa ayağının konusu bu yüzden dardır ve bellidir. Kutsal Roma İmparatorluğu'ndaki çekişmenin merkezinde Avusturya'nın Silezya'yı geri alma girişimi durur.[^k8]",
+      "sorun": "Nedensellik iddiası tek kaynağa (k8) dayanıyor.",
       "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
     },
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Savaşın maliyeti, sonraki on yılın siyasi krizini doğurdu. Grenville, ek gelir sağlamak için sömürgelere damga vergisi konmasının gerekli olabileceğini belirtti ve Parlamento Damga",
+      "cumle": "Adın verdiği yedi yıllık takvim Avrupa'nındır. Kuzey Amerika'da Britanya ile Fransa'nın toprakları arasındaki sınır 1750'lerde büyük ölçüde belirsizdi; Fransızların Ohio vadisinde ",
       "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Avrupa cephesini kapatan antlaşma 15 Şubat 1763'te imzalandı ve haritayı sadece 1748'in durumuna geri döndürdü: Silezya ve Glatz Friedrich'te kaldı, Saksonya kendi seçici prensine ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     }
   ]

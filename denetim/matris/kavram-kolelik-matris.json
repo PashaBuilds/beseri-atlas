@@ -1,7 +1,7 @@
 {
   "id": "kavram-kolelik",
-  "govde_hash": "d3968744c937",
-  "commit": "6d7ef68",
+  "govde_hash": "edce2c1b5b5c",
+  "commit": "9ff3a1f",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -189,7 +189,7 @@
     },
     {
       "iddia_id": "i013",
-      "cumle": "Kavramın ilk sınırı, iki tanımın aynı şeyi ölçmemesidir: hukuki ölçüt bir kişi üzerinde kullanılan yetkileri sorar, toplumbilimsel ölçüt kişinin soyundan ve topluluğundan koparılmasını; Rossi'nin uyardığı gibi bu iki soru aynı vakalarda aynı cevabı vermez.",
+      "cumle": "Kavramın ilk sınırı, iki tanımın aynı şeyi ölçmemesidir: hukuki ölçüt bir kişi üzerinde kullanılan yetkileri sorar, toplumbilimsel ölçüt kişinin soyundan ve topluluğundan koparılmasını sorar; Rossi'nin uyardığı gibi bu iki soru aynı vakalarda aynı cevabı vermez.",
       "onem": "merkezi",
       "tur": "yorum",
       "kaynaklar": [

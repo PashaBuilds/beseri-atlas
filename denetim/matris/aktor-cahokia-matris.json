@@ -1,7 +1,7 @@
 {
   "id": "aktor-cahokia",
   "govde_hash": "7ce3a82fbc36",
-  "commit": "c9a3451",
+  "commit": "9181554",
   "zaman": "2026-08-28",
   "hakem": "kor-hakem-2026-08-28",
   "iddialar": [
@@ -627,5 +627,11 @@
     "kismi": 8,
     "desteksiz": 0,
     "olculemez": 4
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "3 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

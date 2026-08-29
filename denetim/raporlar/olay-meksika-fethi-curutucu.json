@@ -1,21 +1,7 @@
 {
   "id": "olay-meksika-fethi",
   "gecis": 3,
-  "zaman": "2026-08-21T08:11:47.555Z",
-  "itirazlar": [
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Sonucun tek bir ulusa değil bir ittifaka atfedilmesi,[^k1] \"fetih\" sözcüğünün tek bir dış gücün eylemi olarak okunmasını kaydın kendisinin zorlaştırdığını gösterir.",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Uzun dönemli seride dünya nüfusu 1500 yılında yaklaşık 503,1 milyon, 1600 yılında yaklaşık 516,1 milyondur.[^k3] Çatışmanın insan bedeline dair tek bir toplam ölçüm kullanılan kayn",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    }
-  ]
+  "zaman": "2026-08-29T20:12:07.428Z",
+  "govde_hash": "d73b41ae9b3b",
+  "itirazlar": []
 }

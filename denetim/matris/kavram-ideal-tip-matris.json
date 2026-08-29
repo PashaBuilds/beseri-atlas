@@ -1,13 +1,13 @@
 {
   "id": "kavram-ideal-tip",
   "govde_hash": "ab1fe2c9c726",
-  "commit": "c9a3451",
+  "commit": "9181554",
   "zaman": "2026-08-28",
   "hakem": "kor-hakem-2026-08-28",
   "iddialar": [
     {
       "iddia_id": "i001",
-      "cumle": "İdeal tip, Max Weber'in toplumsal gerçekliği çözümlemek için önerdiği kavramsal ölçü aracıdır: gerçekliğin belli yönlerinin tek yanlı vurgulanmasıyla ve dağınık, tek tek görüngülerin bu bakış açıları etrafında birleştirilmesiyle kurulan analitik bir kurgudur.",
+      "cumle": "İdeal tip, 'in toplumsal gerçekliği çözümlemek için önerdiği kavramsal ölçü aracıdır: gerçekliğin belli yönlerinin tek yanlı vurgulanmasıyla ve dağınık, tek tek görüngülerin bu bakış açıları etrafında birleştirilmesiyle kurulan analitik bir kurgudur.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -229,7 +229,7 @@
     },
     {
       "iddia_id": "i016",
-      "cumle": "Gerontokrasi, patriarkalizm ve patrimonyalizm aynı ciltte geleneksel otoritenin alt biçimleri olarak işlenir; bürokrasi ve meşruiyet üzerine bugünkü tartışmalar da bu tipolojiyi başlangıç noktası almayı sürdürür.",
+      "cumle": "Gerontokrasi, patriarkalizm ve aynı ciltte geleneksel otoritenin alt biçimleri olarak işlenir; ve üzerine bugünkü tartışmalar da bu tipolojiyi başlangıç noktası almayı sürdürür.",
       "onem": "destek",
       "tur": "yorum",
       "kaynaklar": [
@@ -331,5 +331,11 @@
     "kismi": 5,
     "desteksiz": 0,
     "olculemez": 0
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "4 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

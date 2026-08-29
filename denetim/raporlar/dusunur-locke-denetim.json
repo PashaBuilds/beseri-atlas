@@ -1,87 +1,333 @@
 {
   "id": "dusunur-locke",
   "gecis": 2,
-  "zaman": "2026-08-29T19:34:19.088Z",
-  "govde_hash": "82cf9ea40bb5",
-  "commit": "2dc84ff",
+  "zaman": "2026-08-29T20:14:26.680Z",
+  "govde_hash": "5ea01690b914",
+  "commit": "5373c66",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kaynak onu 1632 doğumlu, 1704'te ölmüş bir Britanyalı filozof, Oxford akademisyeni ve tıp araştırmacısı olarak kaydeder.",
+      "iddia": "Emek işçinin tartışılmaz mülkiyeti olduğuna göre, o emeğin katıldığı şey üzerinde başkasının hakkı kalmaz — \"en azından ortakta başkalarına yeterince ve aynı iy",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kitabın ikinci savı da bir mekanizmadır: hiç kimse doğal eşitlik durumundan çıkarılıp bir başkasının siyasal iktidarına, kendi rızası olmadan bağlanamaz; b",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kitap, köleliği haklı savaşın sonucu sayan bir bölüm de taşır; onu yazan kişi, Carolina sömürgesinin kurucu metnini hazırlayan kurulun kâtibiydi ve yapan ş",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aynı kitap, köleliği haklı savaşın sonucu sayan bir bölüm de taşır; onu yazan kişi, Carolina sömürgesinin kurucu metnini hazırlayan kurulun kâtibiydi ve yapan ş",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Aynı kitap, köleliği haklı savaşın sonucu sayan bir bölüm de taşır; onu yazan kişi, Carolina sömürgesinin kurucu metnini hazırlayan kurulun kâtibiydi ve yapan ş",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Birinci İnceleme'nin ilk cümlesi, Sir Robert Filmer'ın Patriarcha'sını hedef alır ve köleliği insan için \"öyle aşağılık ve sefil bir durum\" sayar ki bir İngiliz",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Locke'un karşısına aldığı sav, Filmer'ın bütün iktidarı Âdem'e verilmiş babalık hakkından türetip mutlak monarşiyi ilahi hakla temellendirmesidir; Locke bunu ik",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, Anthony Ashley Cooper ile ilişkisinin onu sırasıyla ticaret ve sömürgeler hakkında bilgi toplamakla görevli bir devlet memuru hâline getirdiğini yazar.",
+      "iddia": "İkinci İnceleme'nin bütün kavram takımı bu iki cümleyi çürütmek için kurulmuştur; nitekim özgürlüğü tanımlarken de doğrudan Filmer'a dönüp onun canının istediği",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Shaftesbury, Katolik olduğunu açıklayan James'in tahta geçmesini engelleyecek bir dışlama yasası için parlamento çoğunluğu örgütledi; yasa Avam Kamarası'ndan ge",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Locke 1683'te Hollanda'ya kaçtı, 1689 Şubatı'nda döndü ve İki İnceleme ile Hoşgörü Üzerine Mektup'u imzasız yayımladı.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Emek kuramının işlevi, ortak mülkiyetten özel mülkiyete geçişi herkesin onayını beklemeden mümkün kılmaktır: eğer böyle bir onay gerekseydi, Tanrı bolluk verdiğ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tanrı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birincisi bozulma sınırıdır: bir kişi ancak bozulmadan önce yararlanabileceği kadarını mülk edinebilir, bunun ötesi payından fazladır ve başkalarına aittir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkincisi yeterlilik kaydıdır — ortakta başkalarına yeterince ve aynı iyilikte kalması koşulu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Locke bu koşulun kendiliğinden sağlandığını düşünür, çünkü kimsenin emeği her şeye yetişemez ve dünya, ilk çağlarda toprak sıkıntısı değil boşluk sıkıntısı çekm",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu uzlaşmayla, der Locke, insanlar toprağın orantısız ve eşitsiz bir biçimde paylaşılmasına zımnen ve gönüllü olarak razı olmuşlardır: bir kişi artık ürününü ke",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Locke'un yorumcuları arasında bu adımı en zayıf halka sayanlar çoktur; paraya verilen rızanın bugünkü eşitsiz mülkiyeti haklı çıkarmaya yetmediği itirazı litera",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Locke, açık rıza ile zımni rızayı ayırır ve zımni rızayı çok geniş tutar: bir devletin topraklarında herhangi bir mülkü ya da yararlanması bulunan herkes — mülk",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "A. John Simmons'ın itirazı buradan çıkar: bir kişiden zımni rıza vermemek için bütün mülkünü bırakıp göç etmesini istemek, oturmayı özgür ve gönüllü bir seçim o",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir filozofun ansiklopedi maddesinde görevlerinin ad ad sayılması, atlasın düşünür dosyalarında neden yalnızca metinlere değil kişinin bulunduğu kurumlara da ba",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Aynı yüzyıllarda söz konusu ticaret alanına dair ayrı bir kayıt tutulur.",
+      "iddia": "Yasama gücü halktan alınmış emanet bir güçtür; emanetin verildiği amaç açıkça ihmal edilir ya da ona karşı davranılırsa emanet düşer ve güç onu verenlere geri d",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "İki kaydın yan yana durması, okurun kendi bağlantısını kurabilmesi için yeterlidir; hakemlik bu dosyanın işi değildir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "İki kaydın yan yana durması, okurun kendi bağlantısını kurabilmesi için yeterlidir; hakemlik bu dosyanın işi değildir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, İnsan Anlığı Üzerine Bir Deneme'yi (1689) modern deneyciliğin ilk büyük savunmalarından biri olarak niteler ve eserin geniş bir konu yelpazesinde insan ",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir eserin konusunun bilginin sınırını çizmek olarak tanımlanması, bu atlasın kendi kurallarıyla aynı soruyu sorar: neyi söyleyebiliriz ve neyi söyleyemeyiz.",
+      "iddia": "Yasama organı halkın mülkiyetini yok etmeye ya da onları keyfî güç altında köleliğe indirmeye kalkarsa halkla savaş hâline girmiş olur ve halk daha fazla itaatt",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Bir önceki kuşağın siyaset düşünürü için tutulan kayıt, onun 1640 sonunda İngiltere'den ayrıldığını ve 1651'e kadar dönmediğini yazar.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "İki düşünürün de aynı yüzyılın siyasi çalkantılarıyla birlikte kaydedilmesi, siyaset felsefesinin bu yüzyılda soyut bir uğraş olarak yazılmadığını gösterir.",
+      "iddia": "Kilise, üyelerinin kendi istekleriyle bir araya geldiği gönüllü bir topluluktur; kimse bir kilisenin üyesi olarak doğmaz, yoksa iman da topraklar gibi miras yol",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "İki düşünürün de aynı yüzyılın siyasi çalkantılarıyla birlikte kaydedilmesi, siyaset felsefesinin bu yüzyılda soyut bir uğraş olarak yazılmadığını gösterir.",
+      "iddia": "Sivil yöneticinin yetkisi de ruhların kurtuluşuna uzanamaz, çünkü böyle bir yetkiyi ona ne Tanrı vermiştir ne de halkın rızası verebilir: hiç kimse kendi kurtul",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tanrı"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Locke buradan, günah ile suç arasındaki ayrımı çıkarır: bir şeyin günah olması onu yöneticinin kılıcına konu yapmaz, çünkü açgözlülük ya da tembellik de günahtı",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bilgi kuramı, siyaset felsefesi, mülkiyet kuramı ve din görüşleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "anahtar": "k3",
+      "iddia": "Yönetici, üyeleri girmekle kendilerini başka bir hükümdarın himayesine ve hizmetine teslim eden bir kiliseye hoşgörü borçlu değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ve \"Tanrı'nın varlığını inkâr edenler hiçbir biçimde hoşgörülmemelidir\", çünkü Locke'a göre insan toplumunun bağı olan sözler, ahitler ve yeminler bir ateiste t",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Anthony Ashley Cooper ile ilişkisi onu sırasıyla ticaret ve sömürgeler hakkında bilgi toplayan bir devlet görevlisi, iktisat yazarı ve muhalefet eylemcisi yaptı",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bu ikinci görev sırasında Carolina'nın temel anayasasının yazımına katıldı; bu katkının kapsamı ise tartışmalıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Doksan yedinci madde, yerlilerin Hristiyanlığa yabancı olmasının onları kovmaya ya da kötü kullanmaya hak vermediğini söyler ve yedi ya da daha fazla kişinin he",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Yüz yedinci madde kölelerin de diledikleri kiliseye girmesini serbest bırakır, ama hiçbir kölenin bununla efendisinin sivil egemenliğinden muaf tutulmayacağını ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k4",
-      "iddia": "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Yonetim Uzerine Iki Inceleme.",
+      "iddia": "Yüz onuncu madde ise şudur: \"Carolina'nın her özgür adamı, zenci köleleri üzerinde mutlak güç ve yetkiye sahip olacaktır\".",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Metnin Avalon'daki 19. yüzyıl derlemesine düşülen dipnot, doksan altıncı maddenin — İngiltere Kilisesi'ni tek gerçek ve ulusal din sayan maddenin — Locke tarafı",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu aktarım ikinci eldendir ve derlemenin atıf iddiası sonraki tartışmada sınanmıştır.",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yonetim, Uzerine, Iki, Inceleme"
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bu aktarım ikinci eldendir ve derlemenin atıf iddiası sonraki tartışmada sınanmıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Leslie Stephen, maddeyi Locke'un eklediğini savunarak onu kişisel ırkçılıkla suçladı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Buna karşı Uzgalis, maddenin yazarı olarak Lord Ashley'nin ya da Sir John Colleton'ın çok daha güçlü adaylar olduğunu ileri sürer; Colleton Carolina projesinin ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bu okumaya göre madde onların kaygısını yatıştırmak için konmuştur ve Locke'un kişisel görüşü hakkında neredeyse hiçbir şey söylemez.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "David Armitage ise Locke'un anayasayı yıllar boyunca, İki İnceleme'yi yazdığı döneme kadar değiştirmeyi sürdürdüğünü ve pek çok madde çeşitli zamanlarda çıkarıl",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Uzgalis bilgiyi ilginç bulur ama çıkarımları şüpheli sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Armitage'ın kendi özetinde iddia daha dar bir zamana bağlanır: Locke'un anayasayı gözden geçirmekle uğraştığı an, İkinci İnceleme'nin mülkiyet bölümünü yazmış o",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Farr'a göre Locke, köleliğin haklı savaş kuramını Grotius'un doğal hukukundan devraldı, ama Grotius'tan farklı olarak kuramı öyle sıkı sınırladı ki Amerika'ya u",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Locke yine de İngiliz sömürgeciliğinin bir görevlisiydi ve düzenleyen talimatlar yazdı; ama Farr'a göre bu talimatlar kuramını belirlemez, kuramı da onları beli",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Buradan yorum sorunları ve ırkçılık suçlamaları doğar; Farr, Locke ırkçı sıfatını hak ediyorsa bunun köleliği haklı çıkaran bir ırk öğretisi taşıdığı için olmad",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Uzgalis daha ileri gider: Locke'un iki ayrı kölelik kavramı vardır — savaşta haklı tarafın esir üzerinde kurduğu zorunlu emek ile doğal hakların otoriter biçimd",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "James Tully ve Barbara Arneil, emek kuramının kullanışlı bir sonuca vardığını gösterdiler: yerli Amerikalıların emeği yalnızca avladıkları hayvanlar üzerinde mü",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Mark Goldie ise buna bir çekince koyar: İkinci İnceleme'yi yazarken Locke'un başlıca meşguliyeti hâlâ İngiltere'deki siyasal olaylardı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Aynı tartışmanın ikinci ucunda, mülkiyetin kurulduktan sonraki durumu vardır: Robert Nozick Locke'u libertaryen okur ve hükümete rıza olmadan mülke el koyma yet",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birincisi yeterlilik kaydının düşürülmesidir: emek-mülkiyet savı, koşulsuz bir edinme hakkı gibi aktarıldığında Locke'un cümlesindeki başkalarına yeterince ve a",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkincisi rızanın açık rızaya indirgenmesidir; oysa metnin taşıdığı yük büyük ölçüde zımni rızanın üstündedir ve asıl tartışma oradadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "İkincisi rızanın açık rızaya indirgenmesidir; oysa metnin taşıdığı yük büyük ölçüde zımni rızanın üstündedir ve asıl tartışma oradadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Üçüncüsü hoşgörünün evrensel bir ilke gibi okunmasıdır: metin ateistleri ve yabancı bir hükümdara bağlı kiliseleri kendi eliyle dışarıda bırakır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Dördüncüsü ters yönden gelen hatadır — Carolina Anayasası'nın 110. maddesine bakıp kuramın tamamını sömürge köleliğinin savunusu saymak, hem maddenin yazarlığın",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Dördüncüsü ters yönden gelen hatadır — Carolina Anayasası'nın 110. maddesine bakıp kuramın tamamını sömürge köleliğinin savunusu saymak, hem maddenin yazarlığın",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Locke bu koşulu geniş tuttu ama koşulsuz bırakmadı; onu okumayı sürdüren tartışma, dışarıda kalanların hangi gerekçeyle dışarıda kaldığıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Locke bu koşulu geniş tuttu ama koşulsuz bırakmadı; onu okumayı sürdüren tartışma, dışarıda kalanların hangi gerekçeyle dışarıda kaldığıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }
   ]
 }

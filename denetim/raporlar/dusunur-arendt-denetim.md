@@ -1,5 +1,5 @@
 ## dusunur-arendt
-_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:16.840Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T20:11:02.862Z_
 
 - [OK]      k1 → "Hannah Arendt'in bütün işi bu yetmezliğin üzerine kuruludur: Nazi Almanyası ile Stalin dönemi Sovyetler Birliğ…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Görülmemiş olanı önceki örneklerden türetmek ya da tarihsel zorunluluğun bir şemasına yerleştirmek yerine, olg…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

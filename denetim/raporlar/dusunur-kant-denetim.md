@@ -1,20 +1,54 @@
 ## dusunur-kant
-_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:18.445Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T20:17:17.763Z_
 
-- [OK]      k1 → "Kaynak onu 1724-1804 arasında yaşamış, modern felsefenin merkezî figürü olarak kaydeder ve erken modern akılcı…"
-- [OK]      k1 → "Kaynak üç Eleştiri'yi künyeleriyle sıralar: Saf Aklın Eleştirisi (1781, 1787), Pratik Aklın Eleştirisi (1788) …" — 4 atom doğrulandı; 3 ad ölçülemedi
-- [ATOMSUZ] k1 → "İlk eserin iki yılla birden verilmesi, o eserin iki farklı baskısı bulunduğu anlamına gelir; atlasın kaynak al…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Aynı örüntü dosyasında da görülür: kaynak orada da aynı eserin iki farklı baskısını ayrı ayrı kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, eleştirel felsefesinin özellikle üç Eleştiri'deki temel fikrinin insan özerkliği olduğunu yazar." — programatik olarak ölçülemedi (ad karşılığı yok): Eleştiri
-- [ATOMSUZ] k1 → "Bir külliyatın tek bir kavrama indirgenmesi, kaynağın kendi özetleme kararıdır; atlas bu özeti bir olgu olarak…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, insan anlığının bütün deneyimimizi yapılandıran genel doğa yasalarının kaynağı olduğunu ve insan aklın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Üç ayrı alanın tek bir temele bağlanması, bir kuramın iddia yapısını gösterir; atlas bu yapıyı doğru ya da yan…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, bugün hâlâ metafizik, bilgi kuramı, etik, siyaset felsefesi, estetik ve başka alanlarda önemli bir etk…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Altı alanın sayılması, bir düşünürün etkisinin de bölümlenebilir bir kayıt olduğunu gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Üç Eleştiri'nin yayımlandığı on yıllardaki siyasi olay için ayrı bir kayıt tutulur." — programatik olarak ölçülemedi (ad karşılığı yok): Eleştiri
-- [ATOMSUZ] k1 → "Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Aşkınsal idealizm, kategoriler, ödev ahlakı ve estetik kuramı burada ayrı başlıklar altında ele alınmamıştır; …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Saf Aklin Elestirisi." — programatik olarak ölçülemedi (ad karşılığı yok): Saf, Aklin, Elestirisi
+- [OK]      k2 → "Yazının parolası buradan gelir: "Sapere aude!" Suçun kime ait olduğu, cümlenin bütün ağırlığını taşır — vesaye…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Bu hamlenin adı özerkliktir ve Kant'ın üç Eleştiri'sinin ortak fikri odur: insan anlama yetisi deneyimimizi ya…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Aynı hareket siyasete taşındığında bir barış tasarısına dönüşür: Ebedî Barış devletler hukukunu özgür devletle…" — programatik olarak ölçülemedi (ad karşılığı yok): Barış
+- [OK]      k7 → "Ama aynı külliyat, insanlığı dört ırka bölen ve Avrupa dışını ilerlemenin gerisinde sayan bir sınıflandırma da…"
+- [OK]      k6 → "Ama aynı külliyat, insanlığı dört ırka bölen ve Avrupa dışını ilerlemenin gerisinde sayan bir sınıflandırma da…"
+- [ATOMSUZ] k2 → "vesayeti bir mizah gücüyle tarif eder: benim yerime anlayan bir kitabım, benim yerime vicdan taşıyan bir manev…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Vasiler önce yürüteci kurar, sonra yürüteçsiz atılacak adımın tehlikesini gösterir; Kant tehlikenin aslında bü…"
+- [ATOMSUZ] k2 → "Kamusal kullanım, kişinin bir bilgin olarak okur dünyasının tamamı önünde yaptığı kullanımdır ve her zaman özg…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Vergi mükellefi vergiyi ödemeyi reddedemez; aynı kişi bilgin olarak o verginin adaletsizliğini yazabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kant, ordusu düzenli ve kalabalık olan aydınlanmış bir hükümdarın, özgür bir devletin söylemeye cesaret edemey…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Yazının son paragrafı bunu bir paradoks olarak kaydeder — daha yüksek derecede sivil özgürlük halkın düşünce ö…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Yazının kendi sorusu — aydınlanmış bir çağda mı yaşıyoruz — açık bir cevap alır: hayır, ama bir aydınlanma çağ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Almanca Unmündigkeit, hukukta reşit olmamayı anlatır; iki yaygın İngilizce çeviriden biri onu "minority" ile, …" — programatik olarak ölçülemedi (ad karşılığı yok): Unmündigkeit, İngilizce
+- [ATOMSUZ] k3 → "Almanca Unmündigkeit, hukukta reşit olmamayı anlatır; iki yaygın İngilizce çeviriden biri onu "minority" ile, …" — programatik olarak ölçülemedi (ad karşılığı yok): Unmündigkeit, İngilizce
+- [ATOMSUZ] k2 → "Yazı kendi çağını Friedrich'in yüzyılı diye adlandırır ve din işlerinde uyruklarına tam özgürlük bırakan hüküm…" — programatik olarak ölçülemedi (ad karşılığı yok): Friedrich
+- [OK]      k5 → "Dokuz yıl sonra aynı sınır Kant'ın kendi üzerinde işledi: Salt Aklın Sınırları İçinde Din 1793'te yayımlandığı…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k5 → "Aydınlanmanın gururu olan yeni fizik mekanikti; doğa bütünüyle nedensel yasalarla yönetiliyorsa özgürlüğe, ruh…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Kant'ın çözümü bir yön değiştirmedir: bugüne dek bilgimizin nesnelere uyması gerektiği varsayıldı ve bu varsay…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Kant bunu açıkça Kopernik'in hamlesine benzetir: gök cisimlerinin seyirci çevresinde döndüğü varsayımıyla iler…" — programatik olarak ölçülemedi (ad karşılığı yok): Kopernik
+- [ATOMSUZ] k6 → "Kesin buyruğun merkezî formülü, kişinin ancak aynı zamanda evrensel bir yasa hâline gelmesini isteyebileceği i…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Sınav içeriğe değil biçime bakar: bir ilke, evrensel yasa olarak istenebiliyorsa ahlaken izinlidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Ön maddeler yasaklar sıralar: gelecek bir savaşın malzemesini gizli kayıtla saklayan hiçbir barış antlaşması g…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Daimî ordu gerekçesi ilginçtir: devletler asker sayısında birbiriyle yarışır, bu sayıya sınır konamaz, ve harc…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kesin maddeler üçtür: her devletin sivil anayasası cumhuriyetçi olacaktır; devletler hukuku özgür devletlerin …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Birinci maddenin mekanizması bir koşul cümlesiyle kurulur: bu anayasa altında olması gerektiği gibi, savaş olu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Yönetici uyruk değil devletin sahibiyse savaşa girmek dünyanın en önemsiz işidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kant, akla göre doğru olanın bir devletler devleti olduğunu söyler ama devletlerin bunu istemediğini kaydeder …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Metnin, insanın ahlaken düzelmesine bel bağlayan bir iyimserliği de yoktur: devlet kurma sorunu, zekâları olma…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Kant, 1775'te yayımlanıp 1777'de gözden geçirdiği İnsanın Farklı Irkları Üzerine denemesinde tekköken savını g…" — 2 atom doğrulandı; 4 ad ölçülemedi
+- [ATOMSUZ] k7 → "Melez döllerin karışık özellikler göstermesi hem ortak türün hem ayrı ırkların kanıtı sayılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Aynı düşünür, Avrupa dışındakileri çeşitli bakımlardan aşağı görüyordu ve dünya ilerlemesinin, Avrupa kültürü …"
+- [OK]      k1 → "Metin, uygar ulusların — özellikle kıtanın ticaret devletlerinin — konukseverliğe aykırı davranışını sayar: ya…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k8 → "Pauline Kleingeld'in 2007'de The Philosophical Quarterly'nin 57. cildinde 573-592 sayfaları arasında yayımlana…"
+- [OK]      k7 → "Kleingeld, Kant'ın ırk hiyerarşisine dair görüşlerinin Ebedî Barış'ın 1795'teki yayımından önce değiştiğini, o…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k7 → "Savını iki uç arasına yerleştirir: bir yanda Kant'ın ırkçılığının ahlak kuramını evrensel olmaktan çıkardığını…"
+- [OK]      k7 → "Huaping Lu-Adler'e göre Kleingeld'in makalesi alanda "narrative-shaping effect on the field" yaratmıştır ve bu…"
+- [OK]      k7 → "Alanın kendi bölünmesi de adlarıyla kayıtlıdır: Eze, Mills ve Bernasconi eleştirel kanadı; Louden, Hill ile Bo…"
+- [OK]      k6 → "Kaynağın kendi ifadesi de temkinlidir: 1790'ların ortasına gelindiğinde Kant'ın ırksal aşağılığa dair inançlar…"
+- [OK]      k9 → "Johann Gottfried Herder, Königsberg'de Kant'ın öğrencisiydi ve olağandışı yeteneği nedeniyle hocasından ayrıca…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Herder'in özsel itirazı ahlak kuramınadır: ahlak temelde bilgi değil duygu meselesidir; Platon'un, eleştirel d…"
+- [ATOMSUZ] k6 → "Kant devrim hakkını tanımaz: egemenlik paylaşılamaz, devletle halk arasında bir uyuşmazlık çıksa kimin haklı o…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Korsgaard 1997'de Kant'ın kendi öncüllerinden bir devrim hakkı türetmeyi denedi, Flikschuh 2008'de buna karşıl…"
+- [OK]      k6 → "Doyle 1983'te birinci kesin maddedeki rıza savını Kant'ın barışa dair temel görüşü saydı ve liberal demokrasil…"
+- [OK]      k1 → "Ama Kant'ın metni demokrasiyi övmez: egemenliğin biçimi (otokrasi, aristokrasi, demokrasi) ile yönetimin biçim…"
+- [ATOMSUZ] k1 → "Kant'ın istediği şey oy hakkının genişliği değil, yasama ile yürütmenin ayrılmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "İkincisi, federasyon maddesinin bir dünya hükümeti tasarısı gibi okunmasıdır; metin dünya cumhuriyetini açıkça…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kant devrimin kişisel despotizmi ve açgözlü baskıyı sona erdirebileceğini ama düşünme biçiminde gerçek bir ref…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Biri uluslararası hukukun temeli tartışmasıdır: kozmopolit hukuk ebedî barışın kurucu bileşenidir ve halklar b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Öteki, felsefenin kendi kanonuyla hesaplaşmasıdır: 1775 tarihli ırk kuramının evrensellik savıyla ilişkisi, ha…"
 
-**Özet:** 2 OK · 0 ISARET · 0 HATA · 13 ATOMSUZ
+**Özet:** 21 OK · 0 ISARET · 0 HATA · 28 ATOMSUZ

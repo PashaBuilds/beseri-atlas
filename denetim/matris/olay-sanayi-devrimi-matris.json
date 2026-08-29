@@ -1,7 +1,7 @@
 {
   "id": "olay-sanayi-devrimi",
-  "govde_hash": "7e3d21196a16",
-  "commit": "d0eeece",
+  "govde_hash": "66a9ca0d3fd0",
+  "commit": "414e67e",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -774,6 +774,12 @@
       "onceki_hash": "ec7703532440",
       "yeni_hash": "7e3d21196a16",
       "gerekce": "kaynak derinlestirme turu: k10 (Allen kendi ozeti), k11 (Crafts kendi ozeti) ve k12 (Hansard, Health of Towns 1847) kunyeye eklendi; i033 ve i040 birinci el ozete tasindi, i049-i054 eklendi, degisen cumleler govdeye oturtuldu. Hakem alani degismedi."
+    },
+    {
+      "zaman": "2026-08-29",
+      "onceki_hash": "7e3d21196a16",
+      "yeni_hash": "66a9ca0d3fd0",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
     }
   ]
 }

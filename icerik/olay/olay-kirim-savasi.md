@@ -20,6 +20,7 @@ ilgili:
   - aktor-osmanli-imparatorlugu
   - kavram-guc-dengesi
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - olay-italyan-birligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

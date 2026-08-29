@@ -1,7 +1,7 @@
 {
   "id": "tartisma-vestfalya-miti",
   "govde_hash": "cde91d8c3f54",
-  "commit": "33a9638",
+  "commit": "9181554",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -71,7 +71,7 @@
     },
     {
       "iddia_id": "v5",
-      "cumle": "Anlatının derli toplu yirminci yüzyıl ifadesi olarak Leo Gross'un American Journal of International Law dergisinde Ocak 1948'de, antlaşmanın üç yüzüncü yılında çıkan The Peace of Westphalia makalesi gösterilir; deyişin geçerliliği ise yüzyılın ortasından bu yana çeşitli açılardan sorgulanmaktadır.",
+      "cumle": "Anlatının derli toplu yirminci yüzyıl ifadesi olarak Leo Gross'un American Journal of International Law dergisinde Ocak 1948'de, antlaşmanın üç yüzüncü yılında çıkan makalesi gösterilir; deyişin geçerliliği ise yüzyılın ortasından bu yana çeşitli açılardan sorgulanmaktadır.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -754,5 +754,11 @@
     "desteksiz": 0,
     "olculemez": 4
   },
-  "not_orkestrator": "2026-08-29: hakem finalize sonrasi mekanik kapi onarimi (kilitli terim / dipnot / baslik atif dili); icerik iddialari degismedi, hash guncellendi."
+  "not_orkestrator": "2026-08-29: hakem finalize sonrasi mekanik kapi onarimi (kilitli terim / dipnot / baslik atif dili); icerik iddialari degismedi, hash guncellendi.",
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "3 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

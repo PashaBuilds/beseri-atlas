@@ -1,81 +1,255 @@
 {
   "id": "dusunur-thukydides",
   "gecis": 2,
-  "zaman": "2026-08-29T19:34:20.630Z",
-  "govde_hash": "1b1cac40f300",
-  "commit": "2dc84ff",
+  "zaman": "2026-08-29T20:17:21.309Z",
+  "govde_hash": "da3447be3a16",
+  "commit": "4a5044d",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kaynak onu MÖ yaklaşık 460'ta Atina'nın Halimous demosunda doğmuş, MÖ yaklaşık 400'de ölmüş bir tarihçi ve general olarak kaydeder; babası Oloros, başlıca eseri",
+      "iddia": "Thukydides, Atina ile Sparta'nın otuz yıllık antlaşmayı neden bozduğunu anlatmaya girişirken önce iki tarafın açıkça öne sürdüğü şikâyetleri ve anlaşmazlıkları ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "En doğru olan prophasis, aynı zamanda sözde en görünmez olandır; tarafların ileri sürdükleri ise aitiai, yani açıkça dile getirilen suçlamalardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kendi çekincesini de düşürmez: cümledeki Yunanca fiil kanaat bildirir ve savı bir ölçüm olarak değil bir hüküm olarak sunar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yunanca"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Crawley'nin İngilizce çevirisi de bu kaydı koruyup asıl nedeni bence diye niteler.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İngilizce"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Thukydides kendinden önceki anlatı geleneğiyle açıkça hesaplaşır: insanların geçmişe dair aktarımları sınamadan, ellerine geçen ilk hikâyeyi alarak kabul ettikl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Gerekçesi de kayıtlıdır: o anlatıların konusu kanıtın erişemeyeceği yerdedir ve zaman çoğunu efsane bölgesine yerleştirerek tarihsel değerinden etmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Thukydides kendi sonuçlarına da aynı ölçütü uygular ve eskiliğin izin verdiği kadar kesin olduklarını söylemekle yetinir; kendi çıkarımlarının güvenle dayanak a",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Thukydides konuşmaların bir bölümünü kendisinin dinlediğini, bir bölümünü başkalarından aldığını, hepsini kelimesi kelimesine akılda tutmanın güç olduğunu yazar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı cümlenin ikinci yarısı, gerçekte söylenenlerin genel anlamına elden geldiğince sadık kalındığını da ekler ve kısıtı koyar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eline geçen ilk kaynağa yaslanmayı reddettiğini, kendi izlenimlerine bile güvenmediğini, anlatının bir bölümünün kendi gördüklerine bir bölümünün başkalarının g",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Zorluğun nedenini de yazar: aynı olayı gören tanıklar birbirini tutmaz, bazen hafıza eksik kaldığı için bazen de taraflardan birine duyulan yakınlık yüzünden.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metnin okurunu kaybedebilecek olmasını da hesaba katmıştır; anlatısında masalsılık bulunmayışının ilgiyi bir ölçüde azaltacağından korktuğunu söyler, ama işini ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Konuşmaları kimin kurduğu sorusunu okura bırakmaz, cevabı daha savaşın anlatısına başlamadan verir; böylece metnin en edebî bölümlerini kanıt diye kullanacak he",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Thukydides savaşı baştan sona yaşadığını, olayları kavrayacak yaşta olduğunu ve tam olarak ne olduğunu bilmek için dikkatini onlara verdiğini yazar; ardından Am",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak hayat bölümünü ikiye böler: klasik dönemden gelen kanıtlar ve sonraki kaynaklar.",
+      "anahtar": "k2",
+      "iddia": "Bu son cümlede de bir çekince vardır: gözlem için elde ettiği fırsatı bir ölçüde ayrıntılı sayar, sınırsız değil.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir biyografinin, bilginin nereden geldiğine göre bölümlenmesi, atlasın kaynak türü alanının antik bir örneğidir: aynı olguyu çağdaş bir kayıttan mı yoksa yüzyı",
+      "iddia": "Hastalığın nedeni üzerine hüküm vermeyi başkalarına bırakır, kendi işini belirtileri kaydetmekle sınırlar ve bunu daha iyi yapabileceğini söyler: hastalığı kend",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Meslek alanı tek bir sözcük değildir: tarihçi ve general.",
+      "iddia": "Kleon kararın değiştirilmemesini savunur ve savını demokrasinin imparatorluğu yönetmeye elverişsiz olduğu iddiasıyla açar.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Savaşı yazan kişinin aynı savaşta komutan olarak kaydedilmesi, tanıklık ile taraflığın aynı kişide birleşebileceğini gösterir; atlas bunu bir kusur olarak değil",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Karşısına çıkan Diodotos ise tartışmanın zeminini değiştirir: bir mahkeme salonunda değil bir siyasal mecliste bulunduklarını, sorunun adalet değil Mytilenelile",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak ayrı bir bölümü selefiyle karşılaştırmaya ayırır ve ayrıca felsefi görünüm ile eleştirel yorum başlıkları açar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Kararı taşıyan ikinci gemi Mytilene'ye, komutan Paches buyruğu okuyup infaza hazırlanmışken varır; kıyım önlenir, ama ayaklanmanın elebaşı sayılıp Atina'ya gönd",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "İki tarihçinin karşılaştırılmasının bir ansiklopedi maddesinde kendi başlığını taşıması, aralarındaki yöntem farkının antik bir ayrıntı değil süregelen bir tart",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Selefinin kaydı, Thukydides'in onu eğlence olsun diye hikâye uydurmakla suçladığını yazar; aynı kayıt Herodotos'un buna gördüğünü ve kendisine anlatılanı bildir",
+      "iddia": "Thukydides'in metninde yarar, adaletin karşıtı olarak değil onun yerini alan bir dil olarak iş görür; Mytilene'yi kurtaran da adalet savı değil, Diodotos'un tar",
       "durum": "OK",
       "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
+      "anahtar": "k1",
+      "iddia": "Orada bulunan Atinalı elçiler, kendilerine sunulan imparatorluğu kabul etmelerinin ve baskı altında ondan vazgeçmemelerinin şaşılacak ya da insanların alışılmış",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Atinalı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ardından örneği kendilerinin başlatmadığını, zayıfın güçlüye tabi olmasının hep kural olduğunu eklerler ve Spartalıları, çıkar hesapları işlerine gelmez hâle ge",
+      "durum": "OK",
+      "not": ""
+    },
+    {
       "anahtar": "k2",
-      "iddia": "Yüz yıl önceki bir başka ansiklopedi maddesi ise aynı kişiyi tarihin babası diye anılan Yunan tarihçi olarak tanıtır.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yunan"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak hem doğum hem ölüm yılını yaklaşık işaretiyle verir.",
+      "iddia": "Atinalı elçiler, hakkın ancak eşit güçler arasında söz konusu olduğunu, geri kalan durumda \"güçlü olan yapabildiğini yapar, güçsüz olan çekmesi gerekeni çeker\" ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "İki ucun da yaklaşık olması, bu dosyanın genel güven düzeyinin neden tartışmalı işaretlendiğinin gerekçesidir.",
+      "anahtar": "k2",
+      "iddia": "Diyalogun ardından gelen anlatı sonucu bildirir: kent teslim olur, yakalanan yetişkin erkekler öldürülür, kadınlar ve çocuklar köle olarak satılır, adaya beş yü",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Peloponez Savaşı'nın Tarihi'nin içeriği, konuşmaların statüsü, etkilendiği düşünce akımları ve sonraki alımlanması burada ayrı başlıklar altında ele alınmamıştı",
+      "anahtar": "k2",
+      "iddia": "Sayfanın editör notu bir çekince ekler — Ksenophon'a göre bazı Meloslular sağ kalmış ve savaşın sonunda geri getirilmiştir; aynı not birçok araştırmacının V.24'",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Devrimin kentten kente yayıldığını, sonradan gelenlerin öncekileri aşmaya çalıştığını yazar ve ardından şu tespiti koyar: \"Sözcükler olağan anlamlarını değiştir",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Savaşı, Tarihi"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sözcükler, Pervasız"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Devrimin kentten kente yayıldığını, sonradan gelenlerin öncekileri aşmaya çalıştığını yazar ve ardından şu tespiti koyar: \"Sözcükler olağan anlamlarını değiştir",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sözcükler, Pervasız"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Perikles'in son yıllarını anlatırken, adı demokrasi olan şeyin onun elinde birinci yurttaşın yönetimine dönüştüğünü yazar; ardından gelenlerin birbirine denk ve",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Cornford'a göre Thukydides'in yapıtı, farkında olmadan, yazıldığından çok önce zihnine yerleşmiş sanatsal ya da felsefi bir kalıba dökülmüş bir tarihtir — kitab",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "İtirazın somut ayağı Megara kararnameleridir: Thukydides dışındaki anlatılar savaşın çıkışını bütünüyle bu kararnameler üzerinden kurar, oysa Thukydides üç kara",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Cornford bunu ticari bir siyasetin gizlenmesi olarak okur; bu okuma 1907'den bu yana çok tartışılmıştır ve burada güncel bir uzlaşı olarak değil bir konum olara",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kitabın kendi çözümlemeli içindekiler dökümünde Melos Diyalogu, tarafların savlarını tartan bir sahne olarak değil, hastalıklı bir ruh hâlini anlatmak üzere kur",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bir 2025 çalışması, Thukydides'in konuşmaların nedensel etkisi konusunda bilerek belirsiz kaldığını ve bu belirsizliğin savaşın çıkışına dair anlatının merkezin",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Melos Diyalogu'nun anahtar cümlesi de yeniden okunuyor: bir 2026 makalesi, Atinalıların adaleti eşit zorunluluğa bağlayan sözünün uzun süredir gücün ahlaktan ön",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Cornell University Press'in bu soruya ayrılmış kitabının özeti, iki düşünürün de gerçekçiliğin sınırlarına tam oturmadığını kabul eder, Hobbes'un felsefesinin g",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "2024 tarihli bir değerlendirme, benzetmenin kötü tarih ve kötü kuram olduğu suçlamasının haklı bulunduğunu ama meselenin asıl ağırlığının başka yerde durduğunu ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Öznelerinin okuyup etrafından dolaşmaya çalıştığı bir yapısal kuram, yapısal kuramların iddia ettiği işi yapmıyordur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Metinde bir güç geçişi modeli yoktur; antlaşmanın neden bozulduğuna dair, yazarının kanaat olarak imzaladığı bir hüküm vardır ve bu hükmün yanına tarafların ken",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Metnin kendisi bu kullanımı taşımaz: Thukydides bir yasa değil bir kanaat yazdı, konuşmaları kendisinin kurduğunu okura ilan etti ve gücün dilini konuşanları ka",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Thukydides"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metnin kendisi bu kullanımı taşımaz: Thukydides bir yasa değil bir kanaat yazdı, konuşmaları kendisinin kurduğunu okura ilan etti ve gücün dilini konuşanları ka",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Thukydides"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metnin kendisi bu kullanımı taşımaz: Thukydides bir yasa değil bir kanaat yazdı, konuşmaları kendisinin kurduğunu okura ilan etti ve gücün dilini konuşanları ka",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Thukydides"
     }
   ]
 }

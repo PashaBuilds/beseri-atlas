@@ -1,6 +1,6 @@
 {
   "mod": "--lint",
-  "zaman": "2026-08-29T14:59:24.033Z",
+  "zaman": "2026-08-29T20:20:25.589Z",
   "gecti": true,
   "makale_sayisi": 505,
   "kapilar": [
@@ -29,7 +29,7 @@
       "kapi": "KAPI 5 — link butunlugu",
       "gecti": true,
       "hata": 0,
-      "uyari": 8,
+      "uyari": 210,
       "hatalar": []
     },
     {
@@ -54,9 +54,9 @@
       "hatalar": [],
       "olcum": {
         "olculen": 421,
-        "hedefTutan": 208,
-        "borclu": 213,
-        "eksikKelime": 161513,
+        "hedefTutan": 256,
+        "borclu": 165,
+        "eksikKelime": 119907,
         "tipOzet": {
           "donem": {
             "n": 16,
@@ -65,23 +65,23 @@
           },
           "olay": {
             "n": 99,
-            "tutan": 23,
-            "eksik": 64613
+            "tutan": 41,
+            "eksik": 47851
           },
           "aktor": {
             "n": 122,
-            "tutan": 61,
-            "eksik": 53925
+            "tutan": 73,
+            "eksik": 42358
           },
           "dusunur": {
             "n": 54,
-            "tutan": 19,
-            "eksik": 30038
+            "tutan": 31,
+            "eksik": 19024
           },
           "kavram": {
             "n": 90,
-            "tutan": 49,
-            "eksik": 12937
+            "tutan": 55,
+            "eksik": 10674
           },
           "tartisma": {
             "n": 40,
@@ -99,11 +99,11 @@
       "hatalar": [],
       "olcum": {
         "olculen": 505,
-        "toplamKunye": 1997,
-        "kuralIhlali": 175,
-        "birincilsiz": 207,
-        "toplamGiris": 646,
-        "birincilKunye": 480,
+        "toplamKunye": 2290,
+        "kuralIhlali": 144,
+        "birincilsiz": 172,
+        "toplamGiris": 591,
+        "birincilKunye": 641,
         "turlenmemis": 0
       }
     },
@@ -143,11 +143,11 @@
       "uyari": 0,
       "hatalar": [],
       "olcum": {
-        "atlas_oz": 2587,
-        "bu_dosya": 1448,
-        "ayrica_kaydeder": 1003,
-        "sablon_kapanis": 536,
-        "borclu": 440
+        "atlas_oz": 2557,
+        "bu_dosya": 1367,
+        "ayrica_kaydeder": 1002,
+        "sablon_kapanis": 489,
+        "borclu": 404
       }
     },
     {
@@ -157,10 +157,11 @@
       "uyari": 0,
       "hatalar": [],
       "olcum": {
-        "olculen": 305,
-        "dogru": 305,
-        "yuzey": 4954,
-        "seri": 7
+        "olculen": 287,
+        "dogru": 287,
+        "atlanan": 0,
+        "yuzey": 6623,
+        "seri": 9
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "id": "tartisma-teknolojik-belirlenimcilik",
   "govde_hash": "30a8e59660d1",
-  "commit": "58a10ea",
+  "commit": "9181554",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -457,5 +457,11 @@
     "kismi": 10,
     "desteksiz": 0,
     "olculemez": 1
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "6 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

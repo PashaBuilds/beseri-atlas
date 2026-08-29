@@ -1,0 +1,681 @@
+{
+  "id": "dusunur-kant",
+  "govde_hash": null,
+  "commit": null,
+  "zaman": "2026-08-29",
+  "hakem": "TASLAK-yazar",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Yazının parolası buradan gelir: \"Sapere aude!\" Suçun kime ait olduğu, cümlenin bütün ağırlığını taşır — vesayet dışarıdan gelse bile ona razı olmak içeriden gelir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Parola ve \"kendi sucuyla\" nitelemesi k2'de birebir; ikinci cumlecik metnin kendi serhi olarak yazildi."
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Bu hamlenin adı özerkliktir ve Kant'ın üç Eleştiri'sinin ortak fikri odur: insan anlama yetisi deneyimimizi yapılandıran genel doğa yasalarının kaynağıdır, insan aklı da ahlak yasasını kendi kendine verir; bilim, ahlak ve dinî inanç birbiriyle tutarlıdır çünkü hepsi aynı temele oturur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP giris paragrafi uc Elestiri'nin ortak fikrini insan ozerkligi olarak veriyor."
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Aynı hareket siyasete taşındığında bir barış tasarısına dönüşür: Ebedî Barış devletler hukukunu özgür devletlerin federasyonu üzerine kurar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ikinci kesin madde k1'de birebir."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Ama aynı külliyat, insanlığı dört ırka bölen ve Avrupa dışını ilerlemenin gerisinde sayan bir sınıflandırma da üretmiştir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dort irk k7'de; Avrupa disini geride sayma k6'da birebir."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "vesayeti bir mizah gücüyle tarif eder: benim yerime anlayan bir kitabım, benim yerime vicdan taşıyan bir manevi danışmanım, bana perhiz yazan bir doktorum varsa hiç zahmete girmem gerekmez; parasını verdiğim sürece başkaları o sıkıcı işi üstlenir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Vasiler önce yürüteci kurar, sonra yürüteçsiz atılacak adımın tehlikesini gösterir; Kant tehlikenin aslında büyük olmadığını, birkaç düşüşten sonra yürümenin öğrenileceğini söyler ama örneğin insanı ürküttüğünü de ekler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynaktaki cekince (\"birkac dususten sonra yurumeyi ogrenirler ama ornek urkutur\") metne tasindi."
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Kamusal kullanım, kişinin bir bilgin olarak okur dünyasının tamamı önünde yaptığı kullanımdır ve her zaman özgür olmalıdır; özel kullanım, kendisine emanet edilmiş bir sivil görev ya da makamda yaptığı kullanımdır ve aydınlanmanın ilerleyişini pek engellemeden dar biçimde sınırlanabilir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kamusal/ozel kullanim ayrimi ve \"dar bicimde sinirlanabilir\" kaydi k2'de birebir."
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Vergi mükellefi vergiyi ödemeyi reddedemez; aynı kişi bilgin olarak o verginin adaletsizliğini yazabilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Kant, ordusu düzenli ve kalabalık olan aydınlanmış bir hükümdarın, özgür bir devletin söylemeye cesaret edemeyeceği şeyi söyleyebileceğini yazar: istediğiniz kadar ve istediğiniz konuda tartışın, yeter ki itaat edin.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ordunun duzenli ve kalabalik olmasi kosulu kaynakta var; atlanmadi."
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Yazının son paragrafı bunu bir paradoks olarak kaydeder — daha yüksek derecede sivil özgürlük halkın düşünce özgürlüğüne yararlı görünür ama ona aşılmaz engeller koyar, daha düşük derecesi ise ona genişleyecek alan bırakır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Yazının kendi sorusu — aydınlanmış bir çağda mı yaşıyoruz — açık bir cevap alır: hayır, ama bir aydınlanma çağında yaşıyoruz.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Almanca Unmündigkeit, hukukta reşit olmamayı anlatır; iki yaygın İngilizce çeviriden biri onu \"minority\" ile, öteki \"self-incurred tutelage\" ile karşılar ve ikincisi vesayet anlamını öne çıkarır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki ceviri birebir dogrulandi; Unmundigkeit'in hukuki resit olmama anlami metnin kendi dilbilgisel serhidir, kaynaklar bunu soylemez."
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Yazı kendi çağını Friedrich'in yüzyılı diye adlandırır ve din işlerinde uyruklarına tam özgürlük bırakan hükümdarı över.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Dokuz yıl sonra aynı sınır Kant'ın kendi üzerinde işledi: Salt Aklın Sınırları İçinde Din 1793'te yayımlandığında, kitabın ikinci denemesi sansürcü tarafından reddedilmiş olduğu için Kant Prusya kralından bir kınama aldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP kraldan kinama geldigini soyler ama krali adlandirmaz; metin de adlandirmadi."
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Aydınlanmanın gururu olan yeni fizik mekanikti; doğa bütünüyle nedensel yasalarla yönetiliyorsa özgürlüğe, ruha ya da hareket hâlindeki maddeden başka bir şeye yer kalmıyor gibi görünüyordu, ve bu, ahlakın özgürlük gerektirdiği yolundaki geleneksel görüşü tehdit ediyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Kant'ın çözümü bir yön değiştirmedir: bugüne dek bilgimizin nesnelere uyması gerektiği varsayıldı ve bu varsayımla nesneler hakkında önsel bir şey saptama denemeleri sonuçsuz kaldı; öyleyse deneyelim, \"the objects must conform to our cognition\".",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onsozdeki deneme onerisi birebir."
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Kant bunu açıkça Kopernik'in hamlesine benzetir: gök cisimlerinin seyirci çevresinde döndüğü varsayımıyla ilerleyemeyince seyircinin döndüğünü, yıldızların durduğunu varsaymıştı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Kesin buyruğun merkezî formülü, kişinin ancak aynı zamanda evrensel bir yasa hâline gelmesini isteyebileceği ilkeye göre davranmasını ister; yan formüller insanlığa her zaman amaç olarak, hiçbir zaman yalnızca araç olarak davranmayı ve iradenin bu yasayı özerk biçimde üretmesini vurgular.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Merkezi formul ve yan formuller k6'da birebir."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Sınav içeriğe değil biçime bakar: bir ilke, evrensel yasa olarak istenebiliyorsa ahlaken izinlidir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Ön maddeler yasaklar sıralar: gelecek bir savaşın malzemesini gizli kayıtla saklayan hiçbir barış antlaşması geçerli sayılamaz; bağımsız hiçbir devlet miras, değiş tokuş, satın alma ya da bağışla bir başkasınca edinilemez; daimî ordular zamanla kaldırılmalıdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ucuncu on maddedeki \"zamanla\" kaydi korundu."
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Daimî ordu gerekçesi ilginçtir: devletler asker sayısında birbiriyle yarışır, bu sayıya sınır konamaz, ve harcamalar yüzünden barış kısa bir savaştan daha ezici hâle geldiği için ordular saldırı savaşlarının kendisi bir nedeni olur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Kesin maddeler üçtür: her devletin sivil anayasası cumhuriyetçi olacaktır; devletler hukuku özgür devletlerin federasyonu üzerine kurulacaktır; dünya yurttaşları olarak insanların hakları evrensel konukseverliğin koşullarıyla sınırlı olacaktır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uc kesin madde k1'de birebir."
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Birinci maddenin mekanizması bir koşul cümlesiyle kurulur: bu anayasa altında olması gerektiği gibi, savaş olup olmayacağına karar vermek için uyrukların rızası gerekiyorsa, savaşın bedelini kendileri ödeyecekleri için işi iyi tartacaklardır — çarpışacak, masrafı mallarından verecek, yıkımı onaracak ve barışı bile zehirleyecek bir borcu üstleneceklerdir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynaktaki kosul cumlesi (\"rizasi gerekiyorsa\") aynen tasindi, kesin anlatiya cevrilmedi."
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Yönetici uyruk değil devletin sahibiyse savaşa girmek dünyanın en önemsiz işidir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Kant, akla göre doğru olanın bir devletler devleti olduğunu söyler ama devletlerin bunu istemediğini kaydeder ve dünya cumhuriyeti fikrinin olumlu biçimi yerine olumsuz ikamesini — savaşı önleyen, tutunan ve yayılan bir federasyon — koyar; üstelik bu ikamenin altında bile savaş eğiliminin patlak verme tehlikesinin sürekli olduğunu ekler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dunya cumhuriyetinin reddi ve \"tehlike sureklidir\" cekincesi birlikte tasindi."
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Metnin, insanın ahlaken düzelmesine bel bağlayan bir iyimserliği de yoktur: devlet kurma sorunu, zekâları olmak kaydıyla, \"a race of devils\" için bile çözülebilirdir, çünkü sorun insanlığın ahlaki ıslahıyla değil doğanın mekanizmasıyla ilgilidir.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Kant, 1775'te yayımlanıp 1777'de gözden geçirdiği İnsanın Farklı Irkları Üzerine denemesinde tekköken savını güçlü biçimde savundu: bütün insanlar ortak bir kökten gelir, ırk özelliklerini üretecek tohumları ve yatkınlıkları taşır, bunlar ısı ve nem bileşimleri gibi çevresel etkenlerle tetiklenir ve göç, coğrafi yalıtım ve iç evlilikle dört saf ırk ayrışır — kuzey Avrupa'nın soylu sarışını, Amerika'nın bakır kırmızısı, Senegambiya'nın siyahı ve Asya-Hindistan'ın zeytin sarısı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1775 yayim, 1777 gozden gecirme ve dort irk listesi k7'de birebir."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Melez döllerin karışık özellikler göstermesi hem ortak türün hem ayrı ırkların kanıtı sayılır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Aynı düşünür, Avrupa dışındakileri çeşitli bakımlardan aşağı görüyordu ve dünya ilerlemesinin, Avrupa kültürü ile hukukunun geri saydığı kültürlere ve aşağı saydığı ırklara yayılmasından geçtiğini düşünüyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Metin, uygar ulusların — özellikle kıtanın ticaret devletlerinin — konukseverliğe aykırı davranışını sayar: yabancı ülkeleri ziyaret onların gözünde fetihle eşdeğerdir; Amerika, Baharat Adaları ve Ümit Burnu keşfedildiklerinde kimseye ait olmayan ülkeler sayılmıştır, çünkü yerli halklar hiç sayılmıştır; Hindistan'da yalnızca ticaret deposu kurma bahanesiyle yabancı asker sokulmuş, sonuç geniş savaşlar, yerlilerin ezilmesi, kıtlık ve isyan olmuştur; en korkunç ve kasıtlı köleliğin merkezi olan şeker adaları ise gerçek bir kâr getirmez, işe yaramaları yalnızca Avrupa'daki savaşlara denizci yetiştirmek gibi hiç de övülesi olmayan dolaylı bir amaçladır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sayilan ogelerin hicbiri atilmadi; seker adalari kaydi dahil."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Pauline Kleingeld'in 2007'de The Philosophical Quarterly'nin 57. cildinde 573-592 sayfaları arasında yayımlanan makalesi bu tartışmanın dönüm noktasıdır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yalniz kunye verisi: yazar, yil, dergi, cilt, sayfa araligi. Crossref kaydinda ozet alani yok."
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Kleingeld, Kant'ın ırk hiyerarşisine dair görüşlerinin Ebedî Barış'ın 1795'teki yayımından önce değiştiğini, o metinde ve Ahlak Metafiziği'nde sömürgeciliği, mal statüsündeki köleliği ve köle ticaretini reddederek ırk bakımından daha eşitlikçi bir konuma geldiğini savunur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kleingeld'in savi k7'de ozetleniyor; makalenin kendi metni okunmadi."
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Savını iki uç arasına yerleştirir: bir yanda Kant'ın ırkçılığının ahlak kuramını evrensel olmaktan çıkardığını söyleyenler, öte yanda evrenselliği kabul edip hiyerarşiyi Kant'ın kendi kendisiyle çelişmesi sayanlar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Huaping Lu-Adler'e göre Kleingeld'in makalesi alanda \"narrative-shaping effect on the field\" yaratmıştır ve bu kadar geniş bir kabul haklı değildir; ona göre Kant'ın geç metinlerindeki sözlerin daha iyi açıklaması, 1790'ların siyasal koşullarında bu uygulamaların Avrupa içi güç mücadelelerini kötüleştirip ebedî barış ihtimalini karartmasından kaygılanmasıdır — yani ırka dayalı köleliği ahlaki bir sorun olarak değil, bir tarih felsefecisinin uzağından ele almıştır; Lu-Adler Kant'ın yazıları ve dersleri boyunca tutarlı biçimde eşitlik karşıtı bir konum tuttuğunu ileri sürer.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Lu-Adler'in karsi savi ve \"tarih felsefecisinin uzagindan\" nitelemesi k7'de."
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Alanın kendi bölünmesi de adlarıyla kayıtlıdır: Eze, Mills ve Bernasconi eleştirel kanadı; Louden, Hill ile Boxill, Kleingeld ve Allais savunan kanadı temsil eder.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Kaynağın kendi ifadesi de temkinlidir: 1790'ların ortasına gelindiğinde Kant'ın ırksal aşağılığa dair inançlarından vazgeçmiş göründüğünü söyler, kesin bir saptama yapmaz; aynı kayda göre Kant bu konudan derslerinde artık söz etmez ve yerli halkların kendi kendini yönetebilir olduğunu söyleyerek Avrupa sömürge uygulamalarını alenen eleştirir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin \"gorunmektedir\" cekincesi metne tasindi."
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Johann Gottfried Herder, Königsberg'de Kant'ın öğrencisiydi ve olağandışı yeteneği nedeniyle hocasından ayrıcalıklar görmüştü; sonradan eleştirel felsefeye karşı iki kitap yazdı, Saf Aklın Eleştirisi'ne karşı Metakritik (1799) ve Yargı Gücünün Eleştirisi'ne karşı Calligone (1800).",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Herder'in özsel itirazı ahlak kuramınadır: ahlak temelde bilgi değil duygu meselesidir; Platon'un, eleştirel dönemin Kant'ının ve G. E. Moore'un savunduğu bilişselci kuramlar bu yüzden yanlış bir temele oturur ve ahlaki iyileşme aracı olarak işe yaramaz — dahası zararlıdır, çünkü ahlakın gerçekte dayandığı duyguları zayıflatırlar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Herder'in bilisselci kuramlara itirazi k9'da birebir; Kant adi orada aciktan geciyor."
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Kant devrim hakkını tanımaz: egemenlik paylaşılamaz, devletle halk arasında bir uyuşmazlık çıksa kimin haklı olduğuna karar verecek daha yüksek bir merci bulunmaz, ve toplum sözleşmesi tarihsel bir olay değil bir akıl fikri olduğu için halkın geri çekilebileceği fiilî bir sözleşme yoktur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Korsgaard 1997'de Kant'ın kendi öncüllerinden bir devrim hakkı türetmeyi denedi, Flikschuh 2008'de buna karşılık verdi; Kant'ın kendi metninde yurttaşa kalan, kamusal akıl yoluyla şikâyetini dile getirmek ve en fazla edilgen bir sivil itaatsizliktir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Korsgaard 1997 ve Flikschuh 2008 k6'da adlariyla geciyor."
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Doyle 1983'te birinci kesin maddedeki rıza savını Kant'ın barışa dair temel görüşü saydı ve liberal demokrasiler arasında savaş bulunmayışını kanıt olarak sıraladı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Ama Kant'ın metni demokrasiyi övmez: egemenliğin biçimi (otokrasi, aristokrasi, demokrasi) ile yönetimin biçimini (cumhuriyetçi, despotik) ayırır ve sözcüğün gerçek anlamındaki demokrasinin zorunlu olarak despotizm olduğunu söyler, çünkü orada herkes karar veren konumundadır ve bütün halk dediği aslında çoğunluktur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Egemenlik bicimi / yonetim bicimi ayrimi ve demokrasinin despotizm sayilmasi k1'de birebir."
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Kant'ın istediği şey oy hakkının genişliği değil, yasama ile yürütmenin ayrılmasıdır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 cumhuriyetciligi yurutme ile yasamanin ayrilmasi olarak tanimlar; \"oy hakkinin genisligi degil\" karsitligi metnin kendi cikarimidir."
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "İkincisi, federasyon maddesinin bir dünya hükümeti tasarısı gibi okunmasıdır; metin dünya cumhuriyetini açıkça bir kenara koyar ve savaşı önleyen federasyonu onun olumsuz ikamesi olarak alır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Kant devrimin kişisel despotizmi ve açgözlü baskıyı sona erdirebileceğini ama düşünme biçiminde gerçek bir reform üretemeyeceğini söyler; yeni önyargılar da eskiler kadar iyi bir dizgin olur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Biri uluslararası hukukun temeli tartışmasıdır: kozmopolit hukuk ebedî barışın kurucu bileşenidir ve halklar birbirine bağlandıkça, yeryüzünün bir noktasındaki hak ihlalinin her yerde hissedildiği kaydı bu literatürün açılış cümlesi olmayı sürdürüyor.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kozmopolit hukukun ebedi barisin bileseni olmasi ve hak ihlali kaydi k6'da dogrudan; \"acilis cumlesi olmayi surduruyor\" degerlendirmesi metnin kendisinindir."
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "Öteki, felsefenin kendi kanonuyla hesaplaşmasıdır: 1775 tarihli ırk kuramının evrensellik savıyla ilişkisi, hangi tarafın haklı olduğu henüz kapanmamış bir tartışma olarak alanın gündemindedir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tartismanin surdugu k7'de gorunuyor (Lu-Adler 2022-2023 karsi savlari); \"alanin gundeminde\" nitelemesi metnin ozetidir."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 43,
+    "kismi": 4,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

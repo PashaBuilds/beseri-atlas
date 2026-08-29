@@ -1,7 +1,7 @@
 {
   "id": "tartisma-1914-savas-sorumlulugu",
   "govde_hash": "c77278b3d778",
-  "commit": "7549ec6",
+  "commit": "9181554",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -761,7 +761,7 @@
     },
     {
       "iddia_id": "c51",
-      "cumle": "Mekanizma açıklamasının en dar hâli A.J.P. Taylor'ın 1969 tarihli War by Time-table kitabındaki demiryolu tezidir.",
+      "cumle": "Taylor'ın 1969 tarihli War by Time-table kitabındaki demiryolu tezidir.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -895,5 +895,11 @@
     "kismi": 3,
     "desteksiz": 0,
     "olculemez": 0
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "2 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

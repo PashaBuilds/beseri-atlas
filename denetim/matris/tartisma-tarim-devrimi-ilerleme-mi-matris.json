@@ -1,7 +1,7 @@
 {
   "id": "tartisma-tarim-devrimi-ilerleme-mi",
   "govde_hash": "dd6423ed0a10",
-  "commit": "7549ec6",
+  "commit": "9181554",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -49,7 +49,7 @@
     },
     {
       "iddia_id": "i4",
-      "cumle": "Ona göre bir devrim, İngiltere'deki Industrial Revolution gibi, nüfus eğrisinde yukarı doğru bir kırılma biçiminde görünür ve aynı ölçüyle yargılanmalıdır; verd",
+      "cumle": "Ona göre bir devrim, İngiltere'deki Industrial Revolution gibi, nüfus eğrisinde yukarı doğru bir kırılma biçiminde görünür ve aynı ölçüyle yargılanmalıdır; verdiği tahminlerde ada nüfusu 1570 ile 1670 arasında kademeli artarken 1750 ile 1851 arasında eğri sertçe yukarı döner.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -63,7 +63,7 @@
     },
     {
       "iddia_id": "i5",
-      "cumle": "Kitabın bölüm planı da bu programı izler: The Neolithic Revolution başlıklı bölümü, ikinci devrimin hazırlığından sonra The Urban Revolution izler; onu da bilgi",
+      "cumle": "Kitabın bölüm planı da bu programı izler: The Neolithic Revolution başlıklı bölümü, ikinci devrimin hazırlığından sonra The Urban Revolution izler; onu da bilgideki devrim ile ilerlemenin hızlanması ve yavaşlaması izler.",
       "onem": "renk",
       "tur": "olgu",
       "kaynaklar": [
@@ -133,7 +133,7 @@
     },
     {
       "iddia_id": "i10",
-      "cumle": "Armelagos'un derlediği Paleopathology at the Origins of Agriculture, 1982'de Plattsburgh'da toplanan ve Wenner-Gren Vakfı ile bir sempozyum fonunun desteklediği",
+      "cumle": "Armelagos'un derlediği Paleopathology at the Origins of Agriculture, 1982'de Plattsburgh'da toplanan ve Wenner-Gren Vakfı ile bir sempozyum fonunun desteklediği bir konferansın ürünüdür; kitap 1984'te Academic Press'ten çıktı.",
       "onem": "destek",
       "tur": "tarih",
       "kaynaklar": [
@@ -217,7 +217,7 @@
     },
     {
       "iddia_id": "i16",
-      "cumle": "Kitabın bölüm listesi de aynı yönü gösterir: New Haven'daki Yale University Press baskısında Zoonoses: a perfect epidemiological storm ile Population control: b",
+      "cumle": "Kitabın bölüm listesi de aynı yönü gösterir: New Haven'daki Yale University Press baskısında Zoonoses: a perfect epidemiological storm ile Population control: bondage and war başlıklı bölümler aynı listede, erken devlete ayrılan bölümün iki yanında durur.",
       "onem": "renk",
       "tur": "olgu",
       "kaynaklar": [
@@ -231,7 +231,7 @@
     },
     {
       "iddia_id": "i17",
-      "cumle": "Jared Diamond'ın 1991 tarihli The Rise and Fall of the Third Chimpanzee kitabında tarıma ayrılan bölümün adı, katalog kaydındaki içindekiler notuna göre Agricul",
+      "cumle": "Jared Diamond'ın 1991 tarihli The Rise and Fall of the Third Chimpanzee kitabında tarıma ayrılan bölümün adı, katalog kaydındaki içindekiler notuna göre Agriculture's two-edged sword — iki ağızlı kılıç; kitabın kapanış kısmı ise ilerlememizi bir gecede tersine çevirmek başlığını taşır.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -245,7 +245,7 @@
     },
     {
       "iddia_id": "i18",
-      "cumle": "Katalog kaydındaki bölüm listesine göre tarım devrimine ayrılan kısım History's biggest fraud adını taşır; aynı kayıt kitabı bir numaralı uluslararası çok satan",
+      "cumle": "Katalog kaydındaki bölüm listesine göre tarım devrimine ayrılan kısım History's biggest fraud adını taşır; aynı kayıt kitabı bir numaralı uluslararası çok satan olarak tanıtır ve okurunu doğrudan Diamond okuruyla aynı rafa yerleştirir.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -329,7 +329,7 @@
     },
     {
       "iddia_id": "i24",
-      "cumle": "Weiss'in 1992'de Current Anthropology dergisinde yayımladığı makalenin başlığı sorunu doğrudan adlandırır: iskelet örneklemlerinden tarih öncesi sağlığı çıkarma",
+      "cumle": "Weiss'in 1992'de Current Anthropology dergisinde yayımladığı makalenin başlığı sorunu doğrudan adlandırır: iskelet örneklemlerinden tarih öncesi sağlığı çıkarmanın sorunları.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -393,7 +393,7 @@
     },
     {
       "iddia_id": "i28",
-      "cumle": "Stock'un 2017'de Science Advances dergisinde yayımladığı çalışmanın özetine göre tarımın gelişi, kadınlar için binlerce yıl boyunca bugün yaşayan sporcularınkin",
+      "cumle": "Stock'un 2017'de Science Advances dergisinde yayımladığı çalışmanın özetine göre tarımın gelişi, kadınlar için binlerce yıl boyunca bugün yaşayan sporcularınkini aşan bir kol emeğiyle birlikte anılır; ölçüm Orta Avrupa örnekleminden ve tarımın ilk 5500 yılından geliyor.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -497,5 +497,11 @@
     "kismi": 4,
     "desteksiz": 0,
     "olculemez": 3
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "11 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }
