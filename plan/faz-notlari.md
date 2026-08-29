@@ -4872,3 +4872,13 @@ yeni dönem dosyalarının `ilgili` listeleri, ve makalenin kendi `ilgili`
 listesindeki dönem bağı. İlk turda yalnız birincisini yapınca çelişki
 sayısı 68'den 74'e ÇIKTI — üçü birlikte yapılınca 59'a indi. Bu, atlasın
 bağ yapısının tek yönlü düzeltmeyi affetmediğinin ölçülebilir örneği.
+
+### Kendi eklediğim iddianın id çakışması
+
+Çerçeve paragraflarını kaynağa bağlarken matrise eklediğim iddiaların
+id'sini `iddialar.length + 1` ile hesaplamıştım. Numaralar boşluklu
+olabildiği için (hakem araya iddia ekleyip başkasını çıkarınca) bu,
+Sovyetler dosyasında var olan bir id'yle (i054) çakıştı ve matris
+KIRIK oldu. Doğrusu: yeni id, mevcut id'lerin EN BÜYÜĞÜNDEN türetilir.
+Kapı çakışmayı yakaladı — matris doğrulayıcısının `yinelenen iddia_id`
+kuralı tam bu iş için yazılmıştı.
