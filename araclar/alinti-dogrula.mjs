@@ -80,6 +80,21 @@ function eserAdiMi(dize) {
   return buyuk / anlamli.length >= 0.8;
 }
 
+// KAYNAGIN DILI. Turkce yazilmis bir tirnagi ne yapacagimiz, KAYNAGIN dilini
+// bilmeden karara baglanamaz:
+//   * kaynak Turkce ise  -> dize orada BULUNMALI; bulunmuyorsa gercek bulgudur
+//   * kaynak yabanci ise -> dize bir CEVIRIDIR; kaynakta aranmasi anlamsizdir
+// Onceki surum bu ayrimi yapmadigi icin, TDV gibi Turkce kaynaklardan alinan
+// gecerli alintilar "uydurma adayi" listesinde duruyordu.
+function turkceMetinMi(metin) {
+  const ornek = String(metin).slice(0, 20000);
+  const sozcukler = ornek.toLocaleLowerCase('tr').split(/[^\p{L}]+/u).filter((s) => s.length > 1);
+  if (sozcukler.length < 50) return false;
+  const ozel = (ornek.match(/[çğıöşüÇĞİÖŞÜ]/g) || []).length;
+  const durak = sozcukler.filter((s) => TURKCE_SOZCUK.has(s)).length;
+  return ozel / sozcukler.length > 0.05 || durak / sozcukler.length > 0.04;
+}
+
 const TIRNAK = /"([^"\n]{4,400})"|“([^”\n]{4,400})”|«([^»\n]{4,400})»/g;
 
 // DIYAKRITIK KATLAMA. Ajanlar not yazarken cogu zaman diyakritikleri
@@ -89,7 +104,14 @@ const TIRNAK = /"([^"\n]{4,400})"|“([^”\n]{4,400})”|«([^»\n]{4,400})»/g
 const katla = (s) => String(s).normalize('NFD').replace(/[\u0300-\u036f]/g, '')
   .replace(/ß/g, 'ss').replace(/[øØ]/g, 'o').replace(/[æÆ]/g, 'ae').replace(/[đĐ]/g, 'd')
   .replace(/[ıİ]/g, 'i').replace(/[ŁłĿŀ]/g, 'l');
-const normal = (s) => katla(String(s)).toLowerCase().replace(/[’'`´]/g, "'").replace(/\s+/g, ' ').trim();
+// Tirnak, parantez ve kose parantez SUNUMDUR, alintinin sozcugu degildir.
+// Olculdu: TDV maddesi `ilk atalarina nisbetle "Hasimiler" de denilmektedir`
+// yaziyor; ayni ifadeyi tirnaksiz alinti yapan bir not, yalnizca bu yuzden
+// "uydurma alinti adayi" olarak isaretleniyordu.
+const normal = (s) => katla(String(s)).toLowerCase()
+  .replace(/[’'`´]/g, "'")
+  .replace(/[""“”«»()[\]]/g, '')
+  .replace(/\s+/g, ' ').trim();
 
 /** Bir metnin ham PDF sozdizimi olup olmadigi (metin cikarilamamis demektir). */
 function hamPdfMi(metin) {
@@ -134,16 +156,57 @@ export function matrisAlintilari(matris) {
   return cikti;
 }
 
+// UC NOKTAYLA BIRLESTIRILMIS ALINTI. Ajanlar bir pasajin iki ayri parcasini
+// "A ... B" diye tek tirnakta veriyor. Butun olarak aramak HER ZAMAN duser —
+// aradaki metin atlandigi icin. Ilk korpus kosusunda 84 "GECMIYOR" adayinin
+// buyuk bolumu buydu (Emevi ve Fatimi dosyalarindaki TDV alintilarinin tamami).
+// Parcalar ayri ayri sinanir; hukum en KOTU parcanindir.
+function parcala(dize) {
+  return String(dize)
+    .split(/\s*(?:\.\.\.|…|\[\.\.\.\]|—{2,}|\s--\s)\s*/)
+    .map((s) => s.trim())
+    .filter((s) => s.length >= 8);
+}
+
+async function sinaParca(parca, metin, kesildi) {
+  if (normal(metin).includes(normal(parca))) return { sinif: 'BIREBIR', oran: 1 };
+  const k = dizeGeciyorMu(metin, parca);
+  if (k.ok) return { sinif: 'ORTUSME', oran: k.oran };
+  if (kesildi) return { sinif: 'PENCERE', oran: k.oran };
+  return { sinif: 'GECMIYOR', oran: k.oran };
+}
+
+const AGIRLIK = { BIREBIR: 0, ORTUSME: 1, PENCERE: 2, GECMIYOR: 3 };
+
 async function sina(dize, url) {
   const r = await getir(url);
   const metin = String(r.metin ?? '');
   if (!metin) return { sinif: 'OKUNAMADI', not: `durum ${r.durum}, govde bos` };
   if (hamPdfMi(metin)) return { sinif: 'OKUNAMADI', not: 'ham PDF — metin cikarilamadi' };
-  if (normal(metin).includes(normal(dize))) return { sinif: 'BIREBIR', not: '' };
-  const k = dizeGeciyorMu(metin, dize);
-  if (k.ok) return { sinif: 'ORTUSME', not: `kelime ortusmesi %${Math.round(k.oran * 100)} ama ardisik degil` };
-  if (r.kesildi) return { sinif: 'PENCERE', not: 'kaynak 400k\'da kesildi; --tam ile yeniden sina' };
-  return { sinif: 'GECMIYOR', not: `kelime ortusmesi %${Math.round(k.oran * 100)}` };
+  const kaynakTurkce = turkceMetinMi(metin);
+
+  const parcalar = parcala(dize);
+  if (parcalar.length <= 1) {
+    const s = await sinaParca(dize, metin, r.kesildi);
+    const yuzde = `kelime ortusmesi %${Math.round(s.oran * 100)}`;
+    if (s.sinif === 'BIREBIR') return { sinif: 'BIREBIR', not: '', kaynakTurkce };
+    if (s.sinif === 'ORTUSME') return { sinif: 'ORTUSME', not: `${yuzde} ama ardisik degil`, kaynakTurkce };
+    if (s.sinif === 'PENCERE') return { sinif: 'PENCERE', not: `400k penceresinde yok; --tam ile sina (${yuzde})`, kaynakTurkce };
+    return { sinif: 'GECMIYOR', not: yuzde, kaynakTurkce };
+  }
+
+  const sonuc = [];
+  for (const p of parcalar) sonuc.push({ p, ...(await sinaParca(p, metin, r.kesildi)) });
+  const enKotu = sonuc.reduce((a, b) => (AGIRLIK[b.sinif] > AGIRLIK[a.sinif] ? b : a));
+  const dokum = sonuc.map((s) => `${s.sinif}`).join('+');
+  if (enKotu.sinif === 'BIREBIR') {
+    return { sinif: 'BIREBIR', not: `${parcalar.length} parca, hepsi birebir`, kaynakTurkce };
+  }
+  return {
+    sinif: enKotu.sinif,
+    not: `${parcalar.length} parca (${dokum}); en kotusu: "${enKotu.p.slice(0, 50)}" — %${Math.round(enKotu.oran * 100)}`,
+    kaynakTurkce,
+  };
 }
 
 export async function makaleyiSina(m) {
@@ -161,16 +224,32 @@ export async function makaleyiSina(m) {
       sonuclar.push({ ...is, sinif: 'ESER ADI', not: 'eser adi gibi — kaynak metninde aranmadi' });
       continue;
     }
-    if (turkceMi(is.dize)) {
-      sonuclar.push({ ...is, sinif: 'TURKCE', not: 'Turkce dize — kaynagin ceviri/parafrazi sayildi, sinanmadi' });
-      continue;
-    }
     const k = kunyeler.get(is.anahtar);
     if (!k?.url) {
       sonuclar.push({ ...is, sinif: 'KUNYE YOK', not: `${is.anahtar} kunyesi ya da url'si yok` });
       continue;
     }
     let r = await sina(is.dize, k.url);
+    // Turkce dize + YABANCI kaynak = ceviri; kaynakta aranmasi anlamsizdir.
+    // Turkce dize + TURKCE kaynak = dize orada bulunmali, sonuc gecerlidir.
+    if (turkceMi(is.dize) && r.kaynakTurkce === false && r.sinif !== 'BIREBIR') {
+      sonuclar.push({ ...is, sinif: 'TURKCE', url: k.url,
+        not: 'Turkce dize, yabanci kaynak — ceviri/parafraz sayildi, sinanmadi' });
+      continue;
+    }
+    // CEVIRILMIS TERIM. Dilin kendisini sezmek kirilgan ("Neolitik devrim"de
+    // hicbir Turkce'ye ozgu harf ya da ek yoktur), ama SEKIL bellidir: kaynak
+    // yabanci, dize kisa ve kaynakla hicbir sozcugu paylasmiyor. Bu bir
+    // uydurma alinti DEGIL, kaynagin teriminin cevirisidir — ayri sayilir.
+    // Yine de bos bir bulgu degil: cevrilmis bir terimi tirnak icinde vermek,
+    // kaynagin O sozcukleri kullandigini ima eder; ozgun terim de verilmeli.
+    const sozcukSayisi = is.dize.split(/\s+/).filter(Boolean).length;
+    if (r.sinif === 'GECMIYOR' && r.kaynakTurkce === false && sozcukSayisi <= 6
+        && /%(0|[1-9]|[1-3]\d)\b/.test(r.not || '')) {
+      sonuclar.push({ ...is, ...r, sinif: 'CEVIRI', url: k.url,
+        not: `kisa dize, yabanci kaynak, ortusme yok — cevrilmis terim; ozgun bicimi de verilmeli (${r.not})` });
+      continue;
+    }
     // Matris notlarinda ilk anahtar yanlis olabilir; oteki adaylari da dene.
     if (r.sinif === 'GECMIYOR' && is.adaylar?.length > 1) {
       for (const a of is.adaylar.slice(1)) {
