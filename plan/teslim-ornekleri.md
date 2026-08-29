@@ -453,3 +453,82 @@ kayıtlı).
     reset / stash / clean / revert` hiçbir koşulda çalıştırılmaz, çünkü
     çalışma ağacındaki her dosya henüz commit edilmemiş bir başka
     oturumun işi olabilir.
+
+65. **Dört hakem aynı araç kusurunu bildirdi: "ilk/tek" zamansal
+    kullanımda.** Çürütücünün üstünlük sınaması, belgenin kendi
+    ifadesindeki "our first Viceroy"ü, alıntılanan bir konuşmacının "tek
+    yolu"nu, "Ağustos 1966'nın ilk günlerinde" ve "kararın ilk maddesi"ni
+    üstünlük iddiası sanıyordu. Bunlar bir iddia değil, bir tarih ya da
+    bir aktarımdır. Tırnak içi ve atıf çerçevesi muafiyeti eklendi;
+    dalga-8 üzerinde ölçüldü: Kültür Devrimi 4→0, Meksika Fethi 2→0,
+    toplam 25→15 itiraz.
+
+66. **Telif kapısı kaynakçayı alıntı sayıyordu.** Braudel dosyası
+    "k1'den 6 alıntı" hatası veriyordu; altısı da dipnot listesindeki
+    makale başlığıydı — atıf usulünde makale adları tırnak içine, dergi
+    adı italiğe yazılır. Kapı dipnot tanım satırlarını gövde sanıyordu.
+
+67. **Aynı kapıda ikinci kusur, üç GERÇEK ihlali gizliyordu.** Bir
+    alıntının ardından 40 karakter içinde dipnot yoksa kapı paragrafın
+    İLK dipnotuna düşüyordu — yani alıntıyı kendinden ÖNCEKİ bir kaynağa
+    yazıyordu. Dipnot, desteklediği şeyi takip eder. Arama ileri
+    çevrilince üç ihlal ortaya çıktı ve üçü de düzeltildi: Braudel'de
+    Wikipedia'dan iki alıntı, Yedi Yıl Savaşı'nda Kaunitz'in 1749
+    görüşünden iki alıntı, 1914 dosyasında aynı ansiklopedi maddesinden
+    iki alıntı. Sonuncusunda "sleepwalker" zaten Clark'ın kitap adıydı;
+    italik *Uyurgezerler* olması hem kuralı karşıladı hem doğru atıf
+    usulüydü.
+
+68. **Genişleme kuyruğu tahminden ölçüme geçirildi.** `bosluk.mjs`,
+    atlasın kendi içinde adı geçip dosyası olmayan konuları sayar: sarkan
+    bağ, kütükte pozisyonu doğrulanmış ama tanıtılmamış kişi, kilitli
+    terim sözlüğünde durup kavram dosyası olmayan terim, gövdelerde
+    tekrarlanan özel ad. İlk koşuda 61 aday çıktı — ve aracın kendi ilk
+    sürümündeki DÖRT kusur da çıktı: JavaScript'te `\b` ASCII tabanlı
+    olduğu için "Avam Kamarası" → "Avam Kamaras" diye kırpılıyordu;
+    `\s+` paragraf sınırını aşıp "Ölçek\n\nUzun"u tek bir özel ad
+    sanıyordu (70 dosyada geçen sahte bir aday); coğrafî bölge adları
+    aday sayılıyordu; ve "de las Casas" gibi ad parçacıkları kişi adını
+    kişi-değil gösteriyordu.
+
+69. **Aracın ilk bulgusu bir kayıt kusuru oldu.** Savunanlar kütüğünde
+    beş kayıt `durum: dogrulandi` ile duruyordu ama hiçbiri kişi adı
+    değildi ("anlatı çözümlemesi yaklaşımı", "Belge merkezli tarihçilik
+    geleneği", "Folklor ve edebiyat incelemesi çizgisi", "Leopold von
+    Ranke çizgisi", "maddi kanıt önceliği yaklaşımı"). Beşi de aynı
+    dosyadan geliyordu. Düzeltmeden sonra KAPI 16'nın "pozisyonu
+    doğrulanmış" oranı %53'ten %51'e DÜŞTÜ — sayının düşmesi burada
+    iyileşmedir.
+
+70. **`dok.mjs --tam` ağ hatasında hiç çıktı vermeden çöküyordu.**
+    archive.org bir düğüm konağını düşürdüğünde (ConnectTimeout) fetch
+    yakalanmıyordu; bir ajan bunu "dize bulunamadı" sanabilirdi. Artık üç
+    kez yeniden deniyor, hepsi düşerse önbellek penceresine düşüyor ve
+    bunun bir `--tam` sonucu OLMADIĞINI yüksek sesle yazıyor.
+
+71. **Metni çıkarılamayan PDF, sağlam bir künyeyi haksız düşürüyordu.**
+    Bir Crossref kaydının yayıncı PDF'i 200 döndü ama gövdesi
+    "/XHeight 250 /Leading 42" gibi ham PDF sözdizimiydi; araç bunu
+    sessizce "%0 kelime örtüşmesi" diye gösterdi. Artık ayrı bir durum:
+    "METİN ÇIKARILAMADI — künyeyi bu sonuca bakarak düşürme."
+
+72. **Açık erişimli tam metin, Crossref kaydının İÇİNDE duruyordu.**
+    Meksika Fethi hakemi ölçtü: kaydın `link` dizisinde açık erişimli PDF
+    bağlantısı vardı ve eklenseydi dört merkezî iddiadan üçü "kismi"den
+    "dogrudan"a çıkacaktı. Üstveri künyesi kurmadan önce kaydın `link`
+    alanına bakmak, on üç çekirdek yönergeye kural olarak yazıldı.
+
+73. **Ölçülmüş olumsuz kayıtlar da havuza yazılır.** Bu turda üç kapalı
+    kapı ölçüldü: `journals.openedition.org` açık erişimli olmasına
+    rağmen Anubis bot süzgeci döndürüyor; `legislation.gov.uk` 1988
+    öncesi yasalarda gövdesi baştan sona gezinme menüsü olan bir sayfa
+    veriyor (1858 Hindistan Yasası'nın maddeleri orada YOK); IEP ve SEP'te
+    Thukydides maddesi hiç yok (ikisi de 404). Bir sonraki oturum aynı
+    kapıyı çalmasın diye üçü de ölçümüyle kayda geçti.
+
+74. **Durkheim dosyası "tartışmalı" diyordu ama tartışmayı
+    işaretlemiyordu.** Gövde ekolojik yanılgı çizgisini (Robinson 1950 →
+    van Poppel & Day 1996 → Simpson 1998) dürüstçe anlatıyordu; eksik olan
+    `::tartismali` işaretiydi. İşaret eklendi — ve ilk yazdığım not
+    "Atlas" öz-göndermesi içerdiği için KAPI 18 borcunu büyüttü, yeniden
+    yazıldı. Kendi kuralımı kendi düzeltmemde çiğnemiştim.
