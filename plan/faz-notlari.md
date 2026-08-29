@@ -4921,3 +4921,28 @@ belirgin biçimde düşük:** kayan cümle 185 → **105**, kayıtsız cümle
 462 → **205**. Yani sorun gerçekti ama ben onu abartmıştım; ölçüm aracının
 kendisi hatalıydı. Bu, oturumdaki dördüncü tanım ayrışmasıdır (önce kelime
 sayımı, sonra "birincil kaynak", sonra uzunluk hedefleri).
+
+### Oturum limiti kesintisi ve kurtarma (29 Ağustos)
+
+Oturum limiti altı onarım ajanını (aktör dalgası 2), altı onarım ajanını
+daha (kavram dalgası, hiç başlamadan) ve üç matris tamamlama ajanını
+ortada kesti. Kurtarma protokolü yine işledi: dosyalar ve matrisler
+diskte kalır, ölçülür, yarım kalanlar tamamlanır.
+
+Ölçüm sonucu: aktör dalgasının beş dosyası TAM yeniden yazılmıştı
+(1404-1814 kelime, 8-9 künye) ve yalnız biri hiç başlamamıştı. Matris
+tamamlama ajanları da ölmeden önce neredeyse bitirmişti — Rapa Nui 18
+iddiadan 56'ya, dönem-06 43'ten 76'ya, IMF 38'den 53'e çıkmıştı ve
+kayan cümle sırasıyla 15→4, 17→1, 16→2'ye inmişti. Kalanları mekanik
+oturtma kipiyle kapattım; bu üç dosyada matris kapsaması artık tam
+(180/180 dipnotlu cümle kayıtlı).
+
+Kesinti altı mekanik hata bıraktı ve hepsi orkestratör tarafında
+düzeltildi: iki şema dışı `birincil_tur` değeri ("seyahatname"), bir
+şema dışı `tur` değeri ("kurum"), bir kilitli terim ihlali ("ana
+kaynak"), ve iki dosyanın `guven_geneli=tartismali` olduğu hâlde
+tartışma haritası taşımaması. Ardından 13/13 kapı 0 hatayla geçti.
+
+Beş dosyanın gövdesi hazır ama matrisi yoktu; hakemler matrisi de
+kuracak biçimde yeniden başlatıldı. Gövdeyi onlar yazmadığı için
+yazar≠hakem şartı korunuyor.
