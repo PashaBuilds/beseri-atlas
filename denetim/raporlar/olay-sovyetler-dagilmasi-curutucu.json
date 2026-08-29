@@ -1,28 +1,36 @@
 {
   "id": "olay-sovyetler-dagilmasi",
   "gecis": 3,
-  "zaman": "2026-08-21T04:23:37.155Z",
+  "zaman": "2026-08-29T16:16:53.890Z",
+  "govde_hash": "ffee5f5de770",
   "itirazlar": [
     {
-      "ciddiyet": "orta",
-      "tip": "kapsam-carpitmasi",
-      "cumle": "Yerine kurulan düzenin çerçevesi bütünleşmedir. Küreselleşme, dünya çapındaki farklı ülkelerin ekonomileri, toplumları ve kültürleri arasındaki bütünleşmeyi anlatır ve uluslararası",
-      "sorun": "Makale avrupa/dogu-asya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
-      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Mihail Gorbaçov 11 Mart 1985'te Politbüro tarafından genel sekreter seçildiğinde asıl hedefi durgunlaşan ekonomiyi canlandırmaktı; bunun için siyasi ve toplumsal yapıların da değiş",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     },
     {
-      "ciddiyet": "orta",
-      "tip": "kapsam-carpitmasi",
-      "cumle": "Ulaşım ve iletişim teknolojilerindeki ilerlemeler küresel etkileşimleri artırdı ve uluslararası ticaretin büyümesini destekledi;[^k2] bu hızlanma ile iki kutuplu düzenin sona ermes",
-      "sorun": "Makale avrupa/dogu-asya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
-      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kurumsal sıra da aynı yönde ilerledi. Komünist Parti 1989'da yeni bir merkezî yasama organı için sınırlı rekabetçi seçimler getirdi; başka partilerin yasağı ise 1990'a kadar kalkma",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     },
     {
-      "ciddiyet": "orta",
-      "tip": "kapsam-carpitmasi",
-      "cumle": "Dağılmanın yaşandığı dünyada nüfus 1991'de yaklaşık 5,42 milyardı; 2008'de yaklaşık 6,84 milyara çıkacaktı.[^k3] Çözülme, hızla büyüyen bir dünyada gerçekleşti — bu, sonraki dönemi",
-      "sorun": "Makale avrupa/dogu-asya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
-      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Merkez bunu kuvvetle durdurmayı bir kez denedi ve başaramadı. 13 Ocak 1991'de Sovyet birlikleri ve KGB'nin Alfa grubu Vilnius'taki televizyon kulesini bastı; on dört silahsız sivil",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "17 Mart 1991'de yapılan birlik çapındaki referandumda oy kullananların %77,85'i yenilenmiş bir Sovyetler Birliği'nin korunmasından yana çıktı.[^k1] Bu sonuç göründüğü kadar tek anl",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     }
   ]
 }

@@ -1,55 +1,349 @@
 {
   "id": "olay-sovyetler-dagilmasi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:47.067Z",
-  "govde_hash": "1ef510a8775a",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T16:19:23.168Z",
+  "govde_hash": "21cc3022ec15",
+  "commit": "d0eeece",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Soğuk Savaş'ın kapanışı 1985–1991 arasına yerleştirilir ve dört başlığı içerir: Gorbaçov'un reformları, ilişkilerde yumuşama, Doğu Avrupa'nın ayrılması ve Sovye",
-      "durum": "OK",
-      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynağın kendi bölümlemesinde reformlar dağılmadan önce gelir; bu sıralama, çözülmenin kime atfedileceği sorusunu doğrudan etkiler.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Soğuk Savaş, 1947 ile 1991 arasında ABD ile SSCB arasındaki jeopolitik rekabeti anlatır ve kırk dört yıl dokuz ay sürmüştür.",
+      "iddia": "Mihail Gorbaçov 25 Aralık 1991 akşamı televizyona çıktı, Sovyet Sosyalist Cumhuriyetler Birliği başkanlığı görevini bıraktığını duyurdu, makamın artık var olmad",
       "durum": "OK",
       "not": "2 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kıta iki askerî bloka bölünmüştü; NATO ve Varşova Paktı devletlerinin 1988'deki dağılımı dönemin standart haritasıdır.",
+      "iddia": "Konuşmadan az sonra Kremlin'in üzerindeki Sovyet bayrağı 19.35'te indirildi, Rus üç renklisi 19.45'te çekildi.",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Küreselleşme, dünya çapındaki farklı ülkelerin ekonomileri, toplumları ve kültürleri arasındaki bütünleşmeyi anlatır ve uluslararası ticaretin önündeki engeller",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k1",
+      "iddia": "Hukuki son adım ertesi gün geldi: Yüksek Sovyet'in üst kanadı olan Cumhuriyetler Sovyeti 26 Aralık'ta 142-N sayılı bildiriyi kabul ederek devleti resmen varlıkt",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Ulaşım ve iletişim teknolojilerindeki ilerlemeler küresel etkileşimleri artırdı ve uluslararası ticaretin büyümesini destekledi; bu hızlanma ile iki kutuplu düz",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Dağılmanın yaşandığı dünyada nüfus 1991'de yaklaşık 5,42 milyardı; 2008'de yaklaşık 6,84 milyara çıkacaktı.",
+      "anahtar": "k1",
+      "iddia": "Ağustos ile aralık arasında on cumhuriyet birlikten ayrıldı — kaynağın verdiği gerekçeyle, büyük ölçüde yeni bir darbe korkusuyla; eylül sonuna gelindiğinde Gor",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak tabanı, rekabeti 1947–1991 arası bir çerçevede ele alan maddedir.",
+      "iddia": "Mihail Gorbaçov 11 Mart 1985'te Politbüro tarafından genel sekreter seçildiğinde asıl hedefi durgunlaşan ekonomiyi canlandırmaktı; bunun için siyasi ve toplumsa",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Reformun getirdiği ifade özgürlüğü, birlik içindeki milliyetçi hareketlerin ve etnik anlaşmazlıkların dile gelmesine ve başat siyasi hareketlere dönüşmesine imk",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Reformun getirdiği ifade özgürlüğü, birlik içindeki milliyetçi hareketlerin ve etnik anlaşmazlıkların dile gelmesine ve başat siyasi hareketlere dönüşmesine imk",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Komünist Parti 1989'da yeni bir merkezî yasama organı için sınırlı rekabetçi seçimler getirdi; başka partilerin yasağı ise 1990'a kadar kalkmadı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yıllarda cumhuriyetler kendi takvimlerini kurmaya başladı: Estonya 16 Kasım 1988'de egemenlik ilan eden ilk birlik cumhuriyeti oldu, Litvanya 1990 martında",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "13 Ocak 1991'de Sovyet birlikleri ve KGB'nin Alfa grubu Vilnius'taki televizyon kulesini bastı; on dört silahsız sivil öldü, yüzlercesi yaralandı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Beş ay sonra 12 Haziran 1991'de Boris Yeltsin oyların %57'siyle Rusya'nın ilk seçilmiş devlet başkanı oldu; Gorbaçov'un desteklediği aday Nikolay Rijkov %16'da ",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "19 Ağustos 1991'de Gorbaçov'un yardımcısı Gennadiy Yanayev, Başbakan Valentin Pavlov, Savunma Bakanı Dmitriy Yazov, KGB başkanı Vladimir Kryuçkov ve adı verilme",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Amaç ertesi gün imzalanacak Yeni Birlik Antlaşması'nı durdurmaktı: antlaşma, ortak bir başkanı, dış politikası ve ordusu olan bağımsız cumhuriyetler federasyonu",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Darbe üç gün içinde çöktü, düzenleyiciler gözaltına alındı ve Gorbaçov yetkisi büyük ölçüde azalmış olarak göreve döndü.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Komitenin içinden gelen anlatım aynı sonbaharda basına düştü: İzvestiya 11 Ekim 1991'de Pavlov, Kryuçkov ve Yazov'un sorgu tutanaklarını yayımladı; Yazov orada ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Çöküşün bir yüzünü, iki ay sonra Kantemirovski Tank Tümeni komutanı Tümgeneral Vladimir Çujikov TASS'a kendi ağzından anlattı: 20 Ağustos sabahı Yeltsin'in tems",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "24 Ağustos'ta Gorbaçov Komünist Parti genel sekreterliğinden istifa etti ve partinin devlet içindeki birimlerini dağıttı; aynı gün Ukrayna Yüksek Sovyeti bağıms",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Beş gün sonra birlik parlamentosu parti faaliyetini süresiz olarak askıya aldı ve ülkeyi bir arada tutan son kurumsal bağ da ortadan kalktı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "17 Mart 1991'de yapılan birlik çapındaki referandumda oy kullananların %77,85'i yenilenmiş bir Sovyetler Birliği'nin korunmasından yana çıktı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu sonuç göründüğü kadar tek anlamlı değildir: Baltık cumhuriyetleri, Ermenistan, Gürcistan ve Moldova — kaynağın eklediği Çeçen-İnguş özerk cumhuriyeti ile bir",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1 Aralık 1991'de Ukrayna'da yapılan halk oylamasında oy kullananların %91'i ağustostaki bağımsızlık bildirisini onayladı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yedi gün sonra Rusya, Ukrayna ve Belarus liderleri Belarus'un batısındaki Belovej ormanında gizlice buluştu ve Sovyetler Birliği'nin sona erdiğini bildiren anla",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Ulusal Güvenlik Arşivi'nin kaydı aynı buluşmayı ayrı bir yere koyar: Yeltsin'in aralık 1991'de Ukrayna ve Belarus başkanlarıyla SSCB'yi dağıtmak üzere yaptığı d",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Otto Latsis, anlaşmadan üç gün sonra, 11 Aralık 1991'de İzvestiya'da yazdığı yazıda metnin mart referandumunun sonuçlarıyla pek bağdaşmadığını, üç Slav cumhuriy",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Referandumun neyi sorduğu konusunda da bir ayrım yaptı — ama kolayca ters okunan bir ayrım: oylamanın kâğıt üzerindeki konusu devletin adındaki \"Sovyet Sosyalis",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yazının sonunda bunun yanına ikinci bir yargı koydu: ortada yıkılmakta olan bir birlik yoktu, birlik çoktan yıkılmıştı ve son darbeyi ağustos darbesi vurmu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "10 Aralık'ta anlaşma Ukrayna ve Belarus parlamentolarında onaylandı; 12 Aralık'ta Rusya Yüksek Sovyeti hem anlaşmayı onayladı hem 1922 tarihli Birlik Antlaşması",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu onayın kendisi tartışmalıydı: 1978 tarihli cumhuriyet anayasasına göre konu Halk Temsilcileri Kongresi'nin münhasır yetkisindeydi ve birlik anayasası bir cum",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kalan cumhuriyetler sırayla ayrıldı; 16 Aralık'ta Kazakistan bağımsızlığını ilan eden son cumhuriyet oldu.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "21 Aralık'ta kalan cumhuriyetlerin on biri Alma-Ata Protokolü'nü imzalayarak dağılmayı doğruladı ve ayrı bir belgeyle Rusya, Sovyetler Birliği'nin Birleşmiş Mil",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Bu düzenlemenin hukuki adı sonradan kondu ve Birleşmiş Milletler'in kendi uluslararası hukuk kütüphanesi için yazılan uzman notu adı açıkça verir: Rusya Federas",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Baltık cumhuriyetleri bu şemanın dışında kaldı ve kendi bildirilerinin dili bunu bir tercih olarak koyar: Molotov-Ribbentrop antlaşmasının 1940'ta yol açtığı iş",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üçü de dağılma tamamlanmadan, 17 Eylül 1991'de Genel Kurul kararlarıyla Birleşmiş Milletler'e kabul edildi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Aynı kütüphanenin antlaşma ardıllığı notu bu ikiliği kendi diliyle kaydeder: Estonya 1978 Viyana Sözleşmesi'ne katılırken yeni devlet sayılmıştır, oysa eski dev",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kiva, darbeden beş hafta sonra, 27 Eylül 1991'de İzvestiya'da birliğin hiç değilse geçiş dönemi boyunca korunmasını savundu: yeni egemen devletlerin kuruluşu ge",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kiva'nın asıl kaygısı ise demografikti: tarihsel anayurtlarının dışında yaşayan 25-30 milyon Rus'un durumunun ayrılıkçı eğilimleri güçlendireceğini, bunun da bi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Reformun mimarlarından Aleksandr Yakovlev, Gorbaçov'un istifasından iki gün sonra TRUD gazetesinde durumu bir paradoks olarak tarif etti: geçmişte düzeni ayakta",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k13",
+      "iddia": "Yungblyud'un 2019'da Vyatka Devlet Üniversitesi dergisinde çıkan yazısının başlığı bu önermenin kendisidir — Sovyetler Birliği'nin çöküşü kaçınılmaz değildi.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Aynı soru kurumsal kayda da geçti: Kasım 2011'de Gorbaçov Vakfı'nda toplanan ve Ulusal Güvenlik Arşivi ile Carnegie Moskova Merkezi'nin ortak düzenlediği yirmin",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Konferansın belge kitabında Gorbaçov'un kendi geriye dönük yargısı da yer alır: 1991 yazındaki G-7 toplantısından eli boş dönmek reform çabasını zayıflatmış, ağ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Stephen Kotkin'in Oxford University Press'ten 2001'de çıkan kitabı çözülmeyi 1970-2000 aralığına yayar ve adını önlenmiş bir kıyametten alır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Serhii Plokhy'nin kitabı aynı olayı bir imparatorluğun son günleri diye adlandırır; Vladimir Tismaneanu'nun 2015'te International Affairs dergisinde çıkan değer",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Vladislav Zubok'un 2021'de Yale University Press'ten çıkan kitabı ise tek sözcüklük adıyla çöküşün kendisini konu edinir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Üç başlık üç ayrı soruyu işaret eder — imparatorluk, çöküş, önlenmiş kıyamet — ve aynı takvimi farklı yerlerinden tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Üç başlık üç ayrı soruyu işaret eder — imparatorluk, çöküş, önlenmiş kıyamet — ve aynı takvimi farklı yerlerinden tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Üç başlık üç ayrı soruyu işaret eder — imparatorluk, çöküş, önlenmiş kıyamet — ve aynı takvimi farklı yerlerinden tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kolosov, Belovej imzalarından bir gün önce, 7 Aralık 1991'de Sovetskaya Rossiya'da sorunu açıkça sordu: Sovyetler Birliği'nin imzaladığı 15.000 iki taraflı ve 6",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kolosov'un işaret ettiği belirsizlik hem biçimsel hem gerçekti: birlik yalnızca hukuken mi duruyordu, yoksa fiilen duruyor da hukuken mi bölünmüştü?",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Uluslararası Hukuk Komisyonu 1993'te \"devletlerin ardıllığı ve bunun gerçek ve tüzel kişilerin vatandaşlığına etkisi\" başlığını gündemine aldı; Genel Kurul kara",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1990 ile 2000 arasında eski birlik ülkelerinin milli gelir kaybı — kaynağın kendi sözcüğüyle kabaca — ortalama %51 oldu; Rusya'da bu oran %40'tı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Maddison Projesi'nin uzun dönem serisinde Rusya'nın kişi başına geliri 1989'daki 12.766'lık tepe değerinden 1996'da 8.479'a indi.",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı seride 1997'deki kısa toparlanmayı 1998'de yeni bir düşüş izler; o yılki değer 8.557'dir ve 1989 düzeyinin yaklaşık üçte bir altındadır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ansiklopedi kaynağının aktardığına göre iktisatçı Steven Rosefielde 2001 tarihli hesabında Rusya'da 1990 ile 1998 arasında 3,4 milyon erken ölüm buldu ve bunun ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Bu geniş uca ansiklopediyi atlayarak da bakılabilir: Ndefru, Sullivan ve Hickel'in 2026 tarihli ön baskısı kendi özetinde 2019'a kadar 16,9 milyon, yalnız 1991-",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mart 1991 referandumu ile aralıktaki imzalar arasındaki dokuz ay, iki meşruiyet iddiasını aynı anda ayakta tutuyor: birinde seçmen çoğunluğu yenilenmiş bir birl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Latsis'in aralık 1991'de sorduğu soru — akşam yattığında sabah hangi devlette uyanacağını bilmeyen bir yurttaş neye güvenebilir — o aralığın tam karşılığıydı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kiva'nın eylül 1991'deki uyarısı ise, bağımsızlık coşkusu geçtikten sonra hayal kırıklığının geleceği ve bir gün imparatorluğu diriltme girişiminin örgütlenebil",
       "durum": "OK",
       "not": ""
     }

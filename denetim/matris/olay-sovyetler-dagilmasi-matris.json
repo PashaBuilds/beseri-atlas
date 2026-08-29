@@ -1,0 +1,815 @@
+{
+  "id": "olay-sovyetler-dagilmasi",
+  "govde_hash": "21cc3022ec15",
+  "commit": "d0eeece",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Mihail Gorbaçov 25 Aralık 1991 akşamı televizyona çıktı, Sovyet Sosyalist Cumhuriyetler Birliği başkanlığı görevini bıraktığını duyurdu, makamın artık var olmadığını ilan etti ve nükleer cephanenin denetimi dahil bütün yetkilerini Rusya Devlet Başkanı Boris Yeltsin'e devretti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Konuşmadan az sonra Kremlin'in üzerindeki Sovyet bayrağı 19.35'te indirildi, Rus üç renklisi 19.45'te çekildi.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Hukuki son adım ertesi gün geldi: Yüksek Sovyet'in üst kanadı olan Cumhuriyetler Sovyeti 26 Aralık'ta 142-N sayılı bildiriyi kabul ederek devleti resmen varlıktan çıkardı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI: govde 26 Aralik islemini 'Belovej anlasmalarini onaylayarak' diye anlatiyordu; kaynak bunu 142-N sayili bildirinin kabulu olarak verir, Belovej onaylari 10 ve 12 Aralik'ta ayri organlarda yapilmisti. Cumle kaynagin verdigi isleme dondu."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Ağustos ile aralık arasında on cumhuriyet birlikten ayrıldı — kaynağın verdiği gerekçeyle, büyük ölçüde yeni bir darbe korkusuyla; eylül sonuna gelindiğinde Gorbaçov'un Moskova dışında olayları etkileme gücü kalmamıştı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Curutucu 'tek-kaynakli-nedensellik' itirazi karsilandi: kaynagin kendi verdigi neden ('largely out of fear of another coup') govdeye geri konuldu ve kaynaga ait oldugu yazildi."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Mihail Gorbaçov 11 Mart 1985'te Politbüro tarafından genel sekreter seçildiğinde asıl hedefi durgunlaşan ekonomiyi canlandırmaktı; bunun için siyasi ve toplumsal yapıların da değişmesi gerektiğini görüyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Curutucu 'ustunluk-iddiasi' itirazi REDDEDILDI: paragraftaki 'ilk' sozcugu ('elestiriyi ilk kullananlar') bir oncelik iddiasi degil, anlatisal bir sira ifadesidir."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Reformun getirdiği ifade özgürlüğü, birlik içindeki milliyetçi hareketlerin ve etnik anlaşmazlıkların dile gelmesine ve başat siyasi hareketlere dönüşmesine imkân verdi.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak bu nedensellik iliskisini kendi cumlesiyle kurar; yorum niteligi korunarak dogrudan sayildi. KAYNAK DERINLESTIRME 2026-08-29: Gorbacov Vakfi konferansinin belge kitabi da ayni olguyu bagimsiz olarak kaydeder (toplumun 'birligin sonunda patlak veren asiri milliyetci soyleme hazirliksizligi'); tek ansiklopediye yaslanma bu iddiada kirildi, destek kismi."
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Komünist Parti 1989'da yeni bir merkezî yasama organı için sınırlı rekabetçi seçimler getirdi; başka partilerin yasağı ise 1990'a kadar kalkmadı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Aynı yıllarda cumhuriyetler kendi takvimlerini kurmaya başladı: Estonya 16 Kasım 1988'de egemenlik ilan eden ilk birlik cumhuriyeti oldu, Litvanya 1990 martında bağımsızlığını ilan eden ilk cumhuriyet oldu.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Curutucu 'ustunluk-iddiasi' itirazi KARSILANDI: kaynak her iki oncelik iddiasini da kendi cumlesiyle kurar ('Estonia was the first union republic to declare state sovereignty on 16 November 1988'; 'Lithuania was the first republic to declare independence, in March 1990') ve govde onceligin kapsamini (egemenlik / bagimsizlik) yaziyor."
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "13 Ocak 1991'de Sovyet birlikleri ve KGB'nin Alfa grubu Vilnius'taki televizyon kulesini bastı; on dört silahsız sivil öldü, yüzlercesi yaralandı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Beş ay sonra 12 Haziran 1991'de Boris Yeltsin oyların %57'siyle Rusya'nın ilk seçilmiş devlet başkanı oldu; Gorbaçov'un desteklediği aday Nikolay Rijkov %16'da kaldı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Curutucu 'ustunluk-iddiasi' itirazi KARSILANDI: kaynak 'the country's first Presidential election' ve 'Russia's first democratically elected president' der; %57 ve Rijkov'un %16'si birebir gecer."
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "19 Ağustos 1991'de Gorbaçov'un yardımcısı Gennadiy Yanayev, Başbakan Valentin Pavlov, Savunma Bakanı Dmitriy Yazov, KGB başkanı Vladimir Kryuçkov ve adı verilmeyen başka üst düzey yetkililer bir olağanüstü hâl komitesi kurdu; tatilde bulunduğu Kırım'daki Foros'ta Gorbaçov'u ev hapsine aldılar ve haberleşmesini kestiler.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI (liste kirpmasi): kaynak dort adin ardindan 'and other senior officials' der; govde listeyi dort kisiyle kapatiyordu. Acik uc geri konuldu. KAYNAK DERINLESTIRME 2026-08-29: komitenin adlari icin ikinci, cagdas birincil kanal (i054) eklendi; bu cumlenin kendisi ansiklopediye bagli kaldi cunku 19 Agustos tarihi ve Foros ev hapsi ayrintisi JPRS metninde yok."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Amaç ertesi gün imzalanacak Yeni Birlik Antlaşması'nı durdurmaktı: antlaşma, ortak bir başkanı, dış politikası ve ordusu olan bağımsız cumhuriyetler federasyonu kuracaktı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Darbe üç gün içinde çöktü, düzenleyiciler gözaltına alındı ve Gorbaçov yetkisi büyük ölçüde azalmış olarak göreve döndü.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i054",
+      "cumle": "Komitenin içinden gelen anlatım aynı sonbaharda basına düştü: İzvestiya 11 Ekim 1991'de Pavlov, Kryuçkov ve Yazov'un sorgu tutanaklarını yayımladı; Yazov orada 18 Ağustos'ta beş kişinin Gorbaçov'a gidip gönüllü istifasını konuşmasına ve görevlerini Yanayev'in üstlenmesine karar verdiklerini, Yanayev'i tanımadığı hâlde ayrıntıya girmeden bunu desteklediğini söyledi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "KAYNAK DERINLESTIRME 2026-08-29: darbe anlatisinin tamami ansiklopediye baglıydı. JPRS-UPA-91-045 icindekiler satiri kaynagi verir ('Transcripts of Pavlov, Kryuchkov, Yazov Interrogations Published / IZVESTIYA, 11 Oct 91') ve Yazov'un ifadesi metinde birebir gecer ('On Sunday 18 August we decided that five people would fly out to him to discuss with him his voluntary resignation and that his functions should be assumed by Vice President Yanayev'). SINIR: bu bir sorgu ifadesidir — sanigin kendi anlatimidir, mahkeme hukmu degil; govde de oyle sunar."
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Çöküşün bir yüzünü, iki ay sonra Kantemirovski Tank Tümeni komutanı Tümgeneral Vladimir Çujikov TASS'a kendi ağzından anlattı: 20 Ağustos sabahı Yeltsin'in temsilcileri gelip durumu açıkladıktan sonra subaylarına tümenin yasadışı bir işe karışmayacağını ve kendi halkının üzerine tank sürmeyeceğini bildirmiş, aynı gece tankların Moskova'dan çekilmesini emretmişti.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Anlatim JPRS cevirisinde birebir var (18 Ekim 1991 TASS). HAKEM DUZELTMESI: govde bunu darbenin cokusunun aciklamasi diye sunuyordu; komutanin iki ay sonraki kendi anlatimi oldugu ve tek nedenli okumaya elvermedigi govdeye yazildi. Tumen adi kaynaktaki 'Kantemirovskiy' bicimine getirildi."
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "24 Ağustos'ta Gorbaçov Komünist Parti genel sekreterliğinden istifa etti ve partinin devlet içindeki birimlerini dağıttı; aynı gün Ukrayna Yüksek Sovyeti bağımsızlık bildirisini kabul edip halk oylaması çağrısı yaptı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Beş gün sonra birlik parlamentosu parti faaliyetini süresiz olarak askıya aldı ve ülkeyi bir arada tutan son kurumsal bağ da ortadan kalktı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "17 Mart 1991'de yapılan birlik çapındaki referandumda oy kullananların %77,85'i yenilenmiş bir Sovyetler Birliği'nin korunmasından yana çıktı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Curutucu 'ustunluk-iddiasi' itirazi REDDEDILDI: 'tek anlamli degildir' bir oncelik/ustunluk iddiasi degil, cok anlamliliga isaret eden bir ifadedir. %77,85 kaynakta birebir."
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Bu sonuç göründüğü kadar tek anlamlı değildir: Baltık cumhuriyetleri, Ermenistan, Gürcistan ve Moldova — kaynağın eklediği Çeçen-İnguş özerk cumhuriyeti ile birlikte — oylamayı boykot etti; dolayısıyla oran katılan dokuz cumhuriyetin oranıdır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI (liste kirpmasi): kaynak boykot listesine Cecen-Ingus ozerk cumhuriyetini de katar; govde dort ogeyle kesiyordu. Eksik oge, ozerk cumhuriyet oldugu belirtilerek geri konuldu."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "1 Aralık 1991'de Ukrayna'da yapılan halk oylamasında oy kullananların %91'i ağustostaki bağımsızlık bildirisini onayladı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Yedi gün sonra Rusya, Ukrayna ve Belarus liderleri Belarus'un batısındaki Belovej ormanında gizlice buluştu ve Sovyetler Birliği'nin sona erdiğini bildiren anlaşmayı imzaladı; anlaşmanın giriş bölümünde geçtiği ve buradaki ansiklopedi kaynağının aktardığı biçimiyle birlik artık \"uluslararası hukukun öznesi ve jeopolitik bir gerçeklik olarak\" yoktu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI (aktarim halkasi): alinti Belovej anlasmasinin girisinden, ama bize ansiklopedi kaynagi uzerinden geliyor; govde bunu birincil metinden aliyormus gibi okunuyordu. Halka govdede acikca yazildi."
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Ulusal Güvenlik Arşivi'nin kaydı aynı buluşmayı ayrı bir yere koyar: Yeltsin'in aralık 1991'de Ukrayna ve Belarus başkanlarıyla SSCB'yi dağıtmak üzere yaptığı düzenleme, dağılmanın nedenleri sıralanırken kişiye bağlı etkenler hanesindedir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "KAYNAK DERINLESTIRME 2026-08-29: Belovej imzalarinin tek destegi ansiklopediydi. Arsiv'in konferans ozeti 'the particular Yeltsin factor including his arrangement with the presidents of Ukraine and Belarus in December 1991 to dissolve the USSR' der; dize birebir dogrulandi. Ansiklopedinin aktardigi giris alintisi (i020) yerinde kaldi, bu iddia olgunun ikinci kanalidir."
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Otto Latsis, anlaşmadan üç gün sonra, 11 Aralık 1991'de İzvestiya'da yazdığı yazıda metnin mart referandumunun sonuçlarıyla pek bağdaşmadığını, üç Slav cumhuriyetinin ötekilere danışmadan karar almasının anlaşılamaz olduğunu söyledi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI (kaynakta olmayan gun sayisi): govde 'dort gun sonra' diyordu; JPRS baslik satiri yaziyi 11 Aralik 1991 tarihli IZVESTIYA'ya baglar, imzalar 8 Aralik'tadir — uc gun. Tarih govdeye acikca yazildi. Yazarin tam adi ('Article by Otto Latsis') kaynakta birebir gecer, hayalet ad yok."
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Referandumun neyi sorduğu konusunda da bir ayrım yaptı — ama kolayca ters okunan bir ayrım: oylamanın kâğıt üzerindeki konusu devletin adındaki \"Sovyet Sosyalist\" ibaresiydi ve kimileri bugüne kadar yalnızca bununla ilgilenmişti; Latsis'in kendi ölçütü ise adın değil birlik fikrinin kendisiydi ve anlaşmanın çeliştiğini söylediği şey buydu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI (anlami tersine ceviren kirpma): kaynakta Latsis parantez icinde 'ben adi degil, birligin fikrinin kendisini kastediyorum' der; govde bunu 'oylamanin konusu addi, birlik fikri degil' diye kirpip Latsis'i referandum paradoksunu zayiflatan tarafa cekiyordu. Ayrimin iki yakasi da geri konuldu."
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Aynı yazının sonunda bunun yanına ikinci bir yargı koydu: ortada yıkılmakta olan bir birlik yoktu, birlik çoktan yıkılmıştı ve son darbeyi ağustos darbesi vurmuştu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alinti birebir dogrulandi. HAKEM DUZELTMESI: govde bunu Latsis'in 'asil tezi tersi yondeydi' diye sunuyordu; Latsis ayni yazida iki yargiyi birlikte tasir, birini digerine feda etmez."
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "10 Aralık'ta anlaşma Ukrayna ve Belarus parlamentolarında onaylandı; 12 Aralık'ta Rusya Yüksek Sovyeti hem anlaşmayı onayladı hem 1922 tarihli Birlik Antlaşması'nı feshetti hem de Rus milletvekillerini birlik parlamentosundan geri çağırdı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Bu onayın kendisi tartışmalıydı: 1978 tarihli cumhuriyet anayasasına göre konu Halk Temsilcileri Kongresi'nin münhasır yetkisindeydi ve birlik anayasası bir cumhuriyetin milletvekillerini tek taraflı geri çağırmasına izin vermiyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Onayin anayasal gecerliligi kaynakta tartismali olarak sunulur; iddia tartismanin varligini aktarir, bir hukuki hukum vermez."
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Kalan cumhuriyetler sırayla ayrıldı; 16 Aralık'ta Kazakistan bağımsızlığını ilan eden son cumhuriyet oldu.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "21 Aralık'ta kalan cumhuriyetlerin on biri Alma-Ata Protokolü'nü imzalayarak dağılmayı doğruladı ve ayrı bir belgeyle Rusya, Sovyetler Birliği'nin Birleşmiş Milletler üyeliğini ve Güvenlik Konseyi'ndeki daimî koltuğunu üstlenme yetkisini aldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "Bu düzenlemenin hukuki adı sonradan kondu ve Birleşmiş Milletler'in kendi uluslararası hukuk kütüphanesi için yazılan uzman notu adı açıkça verir: Rusya Federasyonu Sovyetler Birliği'nin ardılı değil devamıdır — Yugoslavya Federal Cumhuriyeti'nin aynı iddiası kabul görmezken Rusya'nınki, notun kendi parantezine göre, haklı olarak görmüştür.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "KAYNAK DERINLESTIRME 2026-08-29: govdedeki 'ardillik esit bolunme degil, yerine gecme' cikarimi ansiklopediden turetiliyordu. BM Gorsel-Isitsel Hukuk Kutuphanesi'nin imzali tanitim notu (Anthony Aust, Agustos 2009) ayni niteligi kurumsal olarak verir: FRY kendini SFRY'nin devami sayarken, Rusya Federasyonu — parantez icinde 'though in its case correctly' — SSCB'nin devamidir. Dize birebir."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Baltık cumhuriyetleri bu şemanın dışında kaldı ve kendi bildirilerinin dili bunu bir tercih olarak koyar: Molotov-Ribbentrop antlaşmasının 1940'ta yol açtığı işgalden sonra kaybedilen bağımsızlığın geri alınması söz konusuydu, yeni bir devletin kurulması değil.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "1940 isgali ve bagimsizligin geri alinmasi kaynakta var; 'bunu bilerek yaptilar' yazarin cikarimiydi. Curutucu 'tek-kaynakli-nedensellik' itirazi karsilandi: niyet atfi kaldirildi, yerine kaynagin gercekten verdigi sey — bildirilerin kendi dili — kondu. Destek kismi kaldi."
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Üçü de dağılma tamamlanmadan, 17 Eylül 1991'de Genel Kurul kararlarıyla Birleşmiş Milletler'e kabul edildi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "Aynı kütüphanenin antlaşma ardıllığı notu bu ikiliği kendi diliyle kaydeder: Estonya 1978 Viyana Sözleşmesi'ne katılırken yeni devlet sayılmıştır, oysa eski devletliğini yeniden kurmuştur ve elli yıl fiilen Sovyetler Birliği'nin parçası kaldığı için alışılmadık ardıllık sorunları çözmek zorunda kalmıştır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "KAYNAK DERINLESTIRME 2026-08-29: Baltik 'restorasyon mu ardillik mi' ikiligi yalnizca ansiklopediye ve yazarin cikarimina yaslaniyordu (i028 destegi 'kismi' idi). BM'nin kendi kaydi ikiligi tek cumlede tasir; dize birebir dogrulandi. CURUTUCU 'ustunluk-iddiasi' itirazi KARSILANDI: cumle once 'tek cumlede tasir' diyordu; 'tek' burada oncelik degil sayi bildiriyordu ama itiraza yol aciyordu, ifade 'kendi diliyle kaydeder' olarak degistirildi."
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Tarihçi A. Kiva, darbeden beş hafta sonra, 27 Eylül 1991'de İzvestiya'da birliğin hiç değilse geçiş dönemi boyunca korunmasını savundu: yeni egemen devletlerin kuruluşu genellikle sancılıydı, ortak ekonomik alan dağılırsa üretim bağlarının kopması krizi ağırlaştıracaktı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "JPRS baslik satiri: IZVESTIYA, 27 Sep 91. Tarih govdeye yazildi ki 'bes hafta' yuvarlamasi denetlenebilsin. Kaynak yazari yalniz 'A. Kiva' diye verir; govde de oyle yazar."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Kiva'nın asıl kaygısı ise demografikti: tarihsel anayurtlarının dışında yaşayan 25-30 milyon Rus'un durumunun ayrılıkçı eğilimleri güçlendireceğini, bunun da bir gün imparatorluğu diriltme girişimine zemin hazırlayabileceğini yazdı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Reformun mimarlarından Aleksandr Yakovlev, Gorbaçov'un istifasından iki gün sonra TRUD gazetesinde durumu bir paradoks olarak tarif etti: geçmişte düzeni ayakta tutan ve gecikmiş değişimi engelleyen her şey çökmüş ya da yıkılmıştı, ilerleme yolu açık görünüyordu; ama gerçek hayatta demokratik ihtimalleri gitgide uzaklaştıran eğilimler güçleniyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i049",
+      "cumle": "Soru akademik yazında doğrudan bir önerme olarak savunulur; V. T. Yungblyud'un 2019'da Vyatka Devlet Üniversitesi dergisinde çıkan yazısının başlığı bu önermenin kendisidir — Sovyetler Birliği'nin çöküşü kaçınılmaz değildi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k13",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM SIKAYETI (kacinilmaz miydi tartismasi adiyla verilmemis) karsilandi. Iddia BASLIK duzeyindedir ve oyle yazildi: Crossref kaydi yazinin Ingilizce basligini birebir tasir, Rusca ozet yazinin SSCB'nin dagilma nedenlerini ele aldigini soyler. Derginin tam metnine erisilemedi; yazinin gerekcelendirmesi hakkinda iddia kurulmadi."
+    },
+    {
+      "iddia_id": "i050",
+      "cumle": "Aynı soru kurumsal kayda da geçti: Kasım 2011'de Gorbaçov Vakfı'nda toplanan ve Ulusal Güvenlik Arşivi ile Carnegie Moskova Merkezi'nin ortak düzenlediği yirminci yıl konferansı, SSCB'nin gerileyişinde liderlerin rolüyle yapısal güçlerin rolünü siyasi reform panelinde karşı karşıya getirdi; ekonomi paneli ise sistemin hiç reform edilebilir olup olmadığını sordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM SIKAYETI 2 ve 3 (Gorbacov Vakfi belgeleri kullanilmamis; tartisma adiyla verilmemis) birlikte karsilandi. Dize birebir: 'the role of leaders as opposed to structural forces in the decline of the USSR' ve 'whether the system was even reformable'. Konferansi Arsiv, Vakif ve Carnegie Moskova Merkezi ortak duzenledi; sayfa Arsiv'in kendi ozetidir, panel konusmalarinin tutanagi degil."
+    },
+    {
+      "iddia_id": "i051",
+      "cumle": "Konferansın belge kitabında Gorbaçov'un kendi geriye dönük yargısı da yer alır: 1991 yazındaki G-7 toplantısından eli boş dönmek reform çabasını zayıflatmış, ağustos darbe girişimini hazırlamaya yardım etmiş ve birlik için kademeli geçiş ihtimalini ortadan kaldırmıştı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Gorbacov'un 14 Kasim 2011'de konferans duzenleyicilerine yaptigi geriye donuk degerlendirme; Arsiv'in ozetinde birebir ('Coming back \"empty-handed\" from the G-7 meeting in the summer of 1991'). Bu bir olgu degil, olayin merkezindeki kisinin yirmi yil sonraki kendi yargisidir ve govdede oyle sunuldu."
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Stephen Kotkin'in Oxford University Press'ten 2001'de çıkan kitabı çözülmeyi 1970-2000 aralığına yayar ve adını önlenmiş bir kıyametten alır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "KAYNAK DERINLESTIRME 2026-08-29: Crossref kaydinda `abstract` alani YOK (olculdu, bos). Kitabin adindan cikarilan 'neden bu olcekte kanli dagilmadigi' yorumu govdeden cikarildi; iddia kaydin gercekten tasidigi seye — ad, yayinci, yil ve alt basliktaki 1970-2000 araligi — indirildi. Paragraf basinda kaydin bibliyografik oldugu acikca beyan edildi."
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Serhii Plokhy'nin kitabı aynı olayı bir imparatorluğun son günleri diye adlandırır; Vladimir Tismaneanu'nun 2015'te International Affairs dergisinde çıkan değerlendirmesi kitabı bu başlıkla tanıtır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref kaydi yalniz ustveri tasir (`abstract` alani olculdu, YOK); kitabin adindan cikarilan cerceve yorumu kismi destektir. KAYNAK DERINLESTIRME 2026-08-29: sinirin kendisi govdeye yazildi."
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Vladislav Zubok'un 2021'de Yale University Press'ten çıkan kitabı ise tek sözcüklük adıyla çöküşün kendisini konu edinir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref kaydi yalniz ustveri tasir (`abstract` alani olculdu, YOK); adin tek sozcuklugune dair yorum kismi destektir. KAYNAK DERINLESTIRME 2026-08-29: sinirin kendisi govdeye yazildi."
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Hukukçu Yu. Kolosov, Belovej imzalarından bir gün önce, 7 Aralık 1991'de Sovetskaya Rossiya'da sorunu açıkça sordu: Sovyetler Birliği'nin imzaladığı 15.000 iki taraflı ve 600 çok taraflı anlaşmadan doğan hak ve yükümlülükleri bundan böyle kim kullanacak, kim yerine getirecekti?",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sayilar kaynakta birebir ('15.000 bilateral and 600 multilateral agreements'). HAKEM DUZELTMESI: yazi 7 Aralik 1991 tarihli, yani Belovej imzalarindan bir gun once yazilmis; govde 'aralik 1991' deyip dagilmadan sonra yazilmis izlenimi veriyordu. Tarih acikca kondu."
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Kolosov'un işaret ettiği belirsizlik hem biçimsel hem gerçekti: birlik yalnızca hukuken mi duruyordu, yoksa fiilen duruyor da hukuken mi bölünmüştü?",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Uluslararası Hukuk Komisyonu 1993'te \"devletlerin ardıllığı ve bunun gerçek ve tüzel kişilerin vatandaşlığına etkisi\" başlığını gündemine aldı; Genel Kurul kararı aynı yılın aralık ayında geldi ve çalışma 1997'de yirmi yedi maddelik bir taslakla ilk okumadan geçti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "1990 ile 2000 arasında eski birlik ülkelerinin milli gelir kaybı — kaynağın kendi sözcüğüyle kabaca — ortalama %51 oldu; Rusya'da bu oran %40'tı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI (kaynagin cekincesinin dusurulmesi): kaynak 'averaged roughly 51%' der; govde 'ortalama %51'i buldu' diyerek yuvarlama kaydini dusuruyordu. 'Kabaca' geri konuldu. Rusya icin %40 kaynagin ulke listesinde birebir var."
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Maddison Projesi'nin uzun dönem serisinde Rusya'nın kişi başına geliri 1989'daki 12.766'lık tepe değerinden 1996'da 8.479'a indi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Aynı seride 1997'deki kısa toparlanmayı 1998'de yeni bir düşüş izler; o yılki değer 8.557'dir ve 1989 düzeyinin yaklaşık üçte bir altındadır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV satirlari birebir: 1997=8813.35, 1998=8557.495, 1989=12766. Dusus %32,97 — tam ucte bir degil; 'yaklasik' eklendi."
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Ansiklopedi kaynağının aktardığına göre iktisatçı Steven Rosefielde 2001 tarihli hesabında Rusya'da 1990 ile 1998 arasında 3,4 milyon erken ölüm buldu ve bunun bir bölümünü şok terapisine bağladı; aynı kaynak, 2017 tarihli bir çalışmanın şok terapisine bağlı toplam 7 milyonluk ve 2026 tarihli bir Lancet ön baskısının eski Sovyet ülkelerinde 2019'a kadar dağılmaya bağlanan 15,9 milyonluk çok daha geniş tahminlerini de yan yana koyar.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Uc tahmin de kaynakta birebir var. HAKEM DUZELTMESI (gizlenen tartisma + aktarim halkasi): govde yalniz Rosefielde'in 3,4 milyonunu veriyor, kaynagin hemen yanina koydugu 7 milyon ve 15,9 milyonluk cok daha genis tahminleri atlıyordu; boylece tartismanin genisligi kapaniyor ve okur tek sayiya yaslaniyordu. Rakip tahminler ve tahminlerin ansiklopedi uzerinden geldigi govdeye yazildi."
+    },
+    {
+      "iddia_id": "i052",
+      "cumle": "Bu geniş uca ansiklopediyi atlayarak da bakılabilir: Ndefru, Sullivan ve Hickel'in 2026 tarihli ön baskısı kendi özetinde 2019'a kadar 16,9 milyon, yalnız 1991-2002 arası için 8,4 milyon aşırı ölüm bildirir; yöntem sayım değil, yaşa standartlaştırılmış veriye dayanan karşıolgusal bir öngörü modelidir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "KAYNAK DERINLESTIRME 2026-08-29: Crossref kaydinda `abstract` alani DOLU cikti; dort ogenin dordu de ozette birebir ('16\\u00b79 million excess deaths across the former USSR by that year', 'We estimate 8\\u00b74 million excess deaths between 1991-2002', 'age-standardized mortality data', 'counterfactual forecasting model'). Ondalik ayrac Lancet uslubunda orta noktadir; dogrulama dizesi bu yuzden sayisiz secildi. SINIR: on baskinin tam metni SSRN'de 403 dondurdu, ozet disina cikilmadi. BEYAN EDILEN SINIR (govdede yazili, matriste iddia olarak izlenmiyor cunku atlasin kendi dogrulama sinirina dair bir meta-cumledir): ansiklopedi '2026 tarihli bir Lancet on baskisi' der, 15,9 milyon verir ve kunye vermez; elde bulunan 2026 tarihli on baski kendi ozetinde 16,9 milyon der. Ikisinin ayni metin oldugu OLCULEMEDI ve govde bunu iddia etmiyor."
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Mart 1991 referandumu ile aralıktaki imzalar arasındaki dokuz ay, iki meşruiyet iddiasını aynı anda ayakta tutuyor: birinde seçmen çoğunluğu yenilenmiş bir birliğin korunmasını istemişti, ötekinde cumhuriyetlerin seçilmiş liderleri ayrılığa karar verdi.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki mesruiyet iddiasinin olgusal ayaklari kaynakta ayri ayri var; birlestiren cikarim yazariniidir."
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Latsis'in aralık 1991'de sorduğu soru — akşam yattığında sabah hangi devlette uyanacağını bilmeyen bir yurttaş neye güvenebilir — o aralığın tam karşılığıydı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Kiva'nın eylül 1991'deki uyarısı ise, bağımsızlık coşkusu geçtikten sonra hayal kırıklığının geleceği ve bir gün imparatorluğu diriltme girişiminin örgütlenebileceği yolundaydı; yazıldığı gün abartılı görünüyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i054",
+      "cumle": "Üç başlık üç ayrı soruyu işaret eder — imparatorluk, çöküş, önlenmiş kıyamet — ve aynı takvimi farklı yerlerinden tutar.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "ORKESTRATOR EKLEMESI (2026-08-29): KAPI 2 kaynaksiz iddia paragrafi hatasini kapatmak icin eklendi. Uc kunye de yalnizca BIBLIYOGRAFIK kayittir; bu yuzden destek baglam, guven dusuk. Cumle baslıkların soylediginden otesini iddia etmiyor ve govde bunu ayrica beyan ediyor."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 49,
+    "kismi": 4,
+    "desteksiz": 0,
+    "olculemez": 1
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "onceki_hash": "16ecb6945ffd",
+      "yeni_hash": "002b636db963",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    },
+    {
+      "zaman": "2026-08-29",
+      "onceki_hash": "002b636db963",
+      "yeni_hash": "cf0e17a3d283",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    },
+    {
+      "zaman": "2026-08-29",
+      "onceki_hash": "cf0e17a3d283",
+      "yeni_hash": "be34152b214d",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    },
+    {
+      "zaman": "2026-08-29",
+      "onceki_hash": "be34152b214d",
+      "yeni_hash": "cf0e17a3d283",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    },
+    {
+      "zaman": "2026-08-29",
+      "onceki_hash": "cf0e17a3d283",
+      "yeni_hash": "ffee5f5de770",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    }
+  ]
+}

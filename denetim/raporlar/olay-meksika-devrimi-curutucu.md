@@ -1,18 +1,12 @@
 # Çürütücü raporu — olay-meksika-devrimi
-_2026-08-21T07:17:20.576Z_
+_2026-08-29T16:16:57.975Z_
 
-## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
+## Zayıf bulunmayan alanlar
 
-**Cümle:** "Bunların tek bir belgede toplanması, devrimin bir rejim değişikliği değil bir toplumsal yeniden kuruluş programı olarak tasarlandığını gösterir.[^k1]"
+Programatik tarama, §10'da sayılan yedi zayıflık tipinde (tek kaynaklı
+nedensellik, atıfsız kesinlik dili, üstünlük iddiası, kapsam çarpıtması,
+anakronizm, yetersiz pozisyon, ince kanıt tabanı) itiraz adayı bulamadı.
 
-**Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
-
-**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
-
-## İtiraz 2 — [ciddiyet: dusuk] ustunluk-iddiasi
-
-**Cümle:** "Devrimin kendi kurduğu düzenin, halefiyet sorununda yine silahlı bir müdahaleyle karşılaşması,[^k1] anayasal düzenin ilk sınavını geçemediğini gösterir. Atlas bu gözlemi bir başarı"
-
-**Sorun:** "ilk" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
-
-**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
+Bu, makalenin doğru olduğu anlamına gelmez; bu yedi kalıptan hiçbirinin
+tetiklenmediği anlamına gelir. Sayısal ve ad düzeyindeki doğrulama Geçiş 2,
+bağımsız yeniden türetme Geçiş 4 raporlarındadır.

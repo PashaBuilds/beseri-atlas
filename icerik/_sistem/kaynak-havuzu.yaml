@@ -58,7 +58,13 @@ whitelist:
     not: Yalnızca açık erişim koleksiyonu. Paywall arkasındaki metin künyeye yazılmaz.
   - alan: ssrn.com
     tur: akademik
-    dogrulanabilir: true
+    dogrulanabilir: false
+    not: >
+      2026-08-29 olcumu: ssrn.com ve papers.ssrn.com 403 ve 0 karakter
+      donuyor. Kayit onceden `dogrulanabilir: true` yaziyordu; olcum bunu
+      yalanladi ve kayit duzeltildi. SSRN on baskilarina api.crossref.org
+      uzerinden erisilebilir (kayitlarin bir bolumunde `abstract` alani
+      DOLUDUR).
   - alan: arxiv.org
     tur: akademik
     dogrulanabilir: true
@@ -147,6 +153,24 @@ whitelist:
       asiri-olum tahmini haber sayfasi "14.9 million" dizesini birebir
       tasiyor). Modern saglik/salgin iddialarinin resmi kaynagi olarak
       Wikipedia'ya ustun tercih.
+  - alan: un.org
+    tur: birincil
+    birincil_tur: belge
+    dogrulanabilir: true
+    kapsam: [kuresel, hukuk, modern]
+    not: >
+      Birlesmis Milletler resmi sayfalari. 2026-08-29 olcumu:
+      /en/about-us/member-states 200 ve 12,2k; /en/about-us/growth-in-un-
+      membership 200 ve 8,7k. Temiz metin, bot korumasi yok.
+  - alan: treaties.un.org
+    tur: birincil
+    birincil_tur: belge
+    dogrulanabilir: true
+    kapsam: [kuresel, hukuk, modern]
+    not: >
+      BM Antlasma Koleksiyonu. 2026-08-29 olcumu:
+      /Pages/HistoricalInfo.aspx 200 ve 358,9k temiz metin. Uyelik ve
+      ardillik gecislerinin kurumsal kaydi icin havuzdaki en guclu kanal.
   - alan: unesco.org
     tur: akademik
     dogrulanabilir: true

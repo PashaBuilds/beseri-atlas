@@ -1,16 +1,79 @@
 ## olay-meksika-devrimi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:46.304Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T16:16:57.230Z_
 
-- [OK]      k1 → "1917 Anayasası genel erkek oy hakkını kurdu; laikliği, işçi haklarını, iktisadi milliyetçiliği ve toprak refor…" — 1 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Listenin bileşimi dikkat çekicidir: içinde bir siyasi hak (oy), bir devlet-din ilişkisi (laiklik), bir sınıf d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bunların tek bir belgede toplanması, devrimin bir rejim değişikliği değil bir toplumsal yeniden kuruluş progra…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Carranza 1917'de Meksika Cumhurbaşkanı oldu ve görev süresi 1920'de sona erdi; sivil bir halef dayatmaya çalış…" — 3 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k1 → "Devrimin kendi kurduğu düzenin, halefiyet sorununda yine silahlı bir müdahaleyle karşılaşması, anayasal düzeni…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "yüzyıl devrimleri listesinde Çin ve Rus devrimleriyle birlikte anar." — 1 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k2 → "Rusya'daki süreç 7 Kasım 1917'de (eski takvimle 25 Ekim) Petrograd'da yaşanan olayla işaretlenir ve sonuçları …" — 3 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k1 → "İki devrimin aynı yıla düşmesi, atlasın dönem karşılaştırmalarının malzemesidir; Rusya'daki süreç dosyasında e…"
-- [OK]      k2 → "İki devrimin aynı yıla düşmesi, atlasın dönem karşılaştırmalarının malzemesidir; Rusya'daki süreç dosyasında e…"
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1914'te yaklaşık 1,82 milyar, 1945'te yaklaşık 2,38 milyardır."
-- [OK]      k1 → "Devrimin askerî seyri, önderlerinin biyografileri, bölgesel hareketler ve 1920 sonrası dönem burada ayrı başlı…"
+- [OK]      k4 → "Madero seçim istiyordu; Morelos'ta Emiliano Zapata köylerin elinden alınan toprakların geri verilmesini; Panch…"
+- [OK]      k15 → "Madero seçim istiyordu; Morelos'ta Emiliano Zapata köylerin elinden alınan toprakların geri verilmesini; Panch…"
+- [OK]      k9 → "Madero seçim istiyordu; Morelos'ta Emiliano Zapata köylerin elinden alınan toprakların geri verilmesini; Panch…"
+- [OK]      k13 → "Madero seçim istiyordu; Morelos'ta Emiliano Zapata köylerin elinden alınan toprakların geri verilmesini; Panch…"
+- [OK]      k1 → "Querétaro'da yazılan 1917 Anayasası toprağın ve toprak altındaki kaynakların mülkiyetini ulusa bağladı, sekiz …" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k16 → "Querétaro'da yazılan 1917 Anayasası toprağın ve toprak altındaki kaynakların mülkiyetini ulusa bağladı, sekiz …" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k6 → "Kalıcı ikinci sonucu ise bir belirsizliktir: kaç insanın öldüğü, ölenlerin ne kadarının çarpışmada değil salgı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Porfirio Díaz 1876'dan 1911'e kadar, arada bir başkanın geçtiği kısa bir aralık dışında, ülkeyi yönetti; yaşla…"
+- [OK]      k4 → "Madero, seçimden önce yayımladığı program kitabında 1909'da Díaz'ı bir ilkenin cisimleşmesi olarak tanımlamışt…"
+- [OK]      k3 → "Amerikalı gazeteci John Kenneth Turner, 1910'da yayımlanan kitabında Yucatán'ın henequen tarlalarını anlattı: …"
+- [ATOMSUZ] k3 → "Turner plantasyonlara yatırımcı kılığında girmişti; kitabı adında da söylendiği gibi bir itham metnidir ve say…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Turner'ın anlattığı ikinci yer Valle Nacional'dı ve kitabın en ağır iddiası oradadır: oraya getirilenlerin çok…"
+- [ATOMSUZ] k3 → "Turner bu tablonun neredeyse inanılmaz olduğunu kendisi de yazar ve niçin yine de inandığını söyler: plantasyo…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "İddia yani tutulmuş bir kayda değil, suçlanan adamlardan alınmış bir ikrara dayanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Madero 1910 seçiminde Díaz'ın karşısına çıkınca hapsedildi ve San Luis Potosí Planı'yla silahlı ayaklanma çağr…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k15 → "Madero 1910 seçiminde Díaz'ın karşısına çıkınca hapsedildi ve San Luis Potosí Planı'yla silahlı ayaklanma çağr…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Díaz 1911 Mayıs'ında istifa edip Fransa'ya sürgüne gitti." — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k10 → "Barış antlaşmasının ertesi günü ABD büyükelçisi Washington'a cumhuriyetin üçte ikisinin devrimcilerin elinde o…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k9 → "Devrimin on yıl sürmesinin nedeni bu ayrımdır: Díaz devrildikten sonra ortada tek bir program kalmadı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k10 → "Devrimin on yıl sürmesinin nedeni bu ayrımdır: Díaz devrildikten sonra ortada tek bir program kalmadı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k11 → "Darbe günü öğleden sonra ABD büyükelçisi Henry Lane Wilson, Washington'a Madero'nun General Blanquet tarafında…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k12 → "Aynı gecenin telgrafında kendi rolünü de yazdı: Madero'nun düşüşünden sonra ne olacağından kaygılanıp Huerta i…"
+- [OK]      k14 → "Dört gün sonra Madero ile başkan yardımcısı Pino Suárez öldürüldü; büyükelçinin aktardığı resmî anlatıya göre …"
+- [OK]      k13 → "Carranza yanıtı kendi eyaletinin kongresinden çıkardı: 19 Şubat 1913 tarihli kararname Huerta'yı yürütmenin ba…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Zapata ise Madero'yu daha 1911 sonunda bırakmış, Ayala Planı'nı ilan etmişti." — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Zapata ise Madero'yu daha 1911 sonunda bırakmış, Ayala Planı'nı ilan etmişti." — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k15 → "Planın toprak maddeleri sanıldığından ölçülüdür: gasbedilmiş toprak, orman ve suların, tapusu elinde olan köyl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Zapata'nın kendi kaleminden çıkan bir mektup aynı mantığı bir cümleye sığdırır: amaç, "akıl ve hukuk yoluyla b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Bu, bir toprak programının aynı zamanda bir meşruiyet iddiası olduğunu gösterir; Zapatacılar kendilerini isyan…"
+- [OK]      k9 → "Tarihçi Friedrich Katz'ın devrimci güçlerin yendiği federal orduyu Madero'nun dağıtmadan devralmasını düşüşünü…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k11 → "Tarihçi Friedrich Katz'ın devrimci güçlerin yendiği federal orduyu Madero'nun dağıtmadan devralmasını düşüşünü…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k12 → "Tarihçi Friedrich Katz'ın devrimci güçlerin yendiği federal orduyu Madero'nun dağıtmadan devralmasını düşüşünü…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Aynı madde bunun yanına iki neden daha koyar: çıkarlarını Meksika'nınkiyle bir tuttuğu toplumsal sınıfın — lib…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Toprak talebiyle gelenlerin gideceği yer Zapata'ydı."
+- [OK]      k5 → "Savaşın en karışık yılı 1914'tür ve o yılın seyri ABD Dışişleri Bakanlığı'nın resmî belge dizisinin kendi başl…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k9 → "Dış müdahale yalnızca çıkarma yapmakla kalmadı, taraf da tuttu: Washington hem Villa'yı hem Zapata'yı kendi çı…"
+- [OK]      k9 → "Askerî sonucu 1915 belirledi: Carranza'nın ordusunda general olan Álvaro Obregón, Nisan 1915'te Celaya'da Vill…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Ama Villa yok olmadı: kuzeye çekildi, tehdit olmayı sürdürdü ve 1916'da adamları Columbus'a saldırınca ABD onu…"
+- [OK]      k9 → "Zapata 1919'da Carranza'nın adamlarınca tuzağa düşürülüp öldürüldü."
+- [OK]      k1 → "Anayasa 31 Ocak 1917'de Querétaro'da imzalandı." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Yirmi yedinci madde mülkiyeti yeniden tanımlar: toprakların ve suların mülkiyeti kökensel olarak ulusa aittir,…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Aynı madde 6 Ocak 1915 kararnamesiyle o güne dek yapılmış toprak dağıtımlarını onaylar; yani savaş sırasında f…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Maddenin ikinci yarısı yeraltındadır: madenler, tuz yatakları, katı mineral yakıtlar ile petrol ve bütün hidro…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Yabancılar toprak ve maden edinebilir, ama ancak bu mülk bakımından kendilerini Meksikalı saymayı ve kendi hük…" — programatik olarak ölçülemedi (ad karşılığı yok): Meksikalı
+- [ATOMSUZ] k1 → "Emek bölümü, 123. madde, dönemi için alışılmadık ölçüde ayrıntılıdır: sekiz saatlik iş günü, gece için yedi sa…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Din bölümünde ise kiliseler taşınmaz edinme ehliyetini kaybeder ve kamu okullarındaki eğitim mezhep dışı sayıl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Querétaro'ya gelen delegeler seçimle belirlendi, ama Huerta rejimine hizmet edenler, Carranza'yla bölünmeden s…"
+- [OK]      k9 → "Ama kongre tek renkli değildi: kaynağa göre delegeler, önce Madero'yu sonra Carranza'yı desteklemiş siyasetçil…"
+- [OK]      k9 → "Dışarıda bırakılanların siyasi meydan okuması ise, yine aynı maddeye göre, delegeleri metni radikalleştirmeye …"
+- [OK]      k9 → "Carranza'nın 1915'te Luis Cabrera'ya hazırlattığı toprak yasası köylerin hukuka aykırı biçimde alınmış toprakl…"
+- [OK]      k1 → "Metnin taşıyıcısı kaydedilmelidir: buradaki İngilizce çeviri, Anayasacı hükümetin amaçlarını Amerikan kamuoyun…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k6 → "Ölü sayısı, devrimin en çok tekrarlanan ve en az ölçülmüş verisidir; McCaa'nın özeti de insan bedeli ve bileşe…"
+- [OK]      k9 → "Giriş kapısı olan ansiklopedi maddesi girişinde çatışmanın yaklaşık bir milyon kişinin ölümüne yol açtığını, ç…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Aynı maddeye göre Meksika'dan ABD'ye göç 1910 ile 1920 arasında beş katına çıktı; bir savaşın nüfusa etkisi sı…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "Demografi tarihçisi Robert McCaa aynı soruyu tersinden sorar: eksik milyonlar savaş ölümlerinden mi, salgınlar…"
+- [OK]      k6 → "McCaa'ya göre devrimin demografik tarihini alışılmış ölçüt olan 1921 sayımı yerine daha nitelikli bulduğu 1930…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k6 → "Devrimin bedelini tek bir yuvarlak rakamla anmak bu bileşenleri görünmez kılar; burada kullanılan özet de bile…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Alan Knight 1985'te yayımladığı makalenin başlığını doğrudan bu soru olarak kurdu: Meksika Devrimi burjuva mıy…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Sondaki adlandırma bir kitabın adıdır, ama aktarım halkası saklanmamalı: ansiklopedi maddesi bu yargıyı adsız …"
+- [OK]      k9 → "Başlangıç konusunda uzlaşı vardır — 1910 — ama bitiş için yoktur: kimi 1917 Anayasası'nı, kimi 1920'yi, kimi L…" — 6 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k9 → "Knight'ın ayrımıyla ortodoks okuma devrimi bütünlüklü, halkçı ve milliyetçi bir hareket olarak görürken revizy…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "1920'de halef olarak Meksika'nın Washington büyükelçisi Ignacio Bonillas'ı dayatmaya kalkışınca Obregón, Pluta…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k9 → "Ölümün biçimini kaynak kesinleştirmez: bunun bir suikast olabileceğini söyler, ama intihar ihtimalini de kayde…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Kaynağın deyişiyle devrimin son başarılı darbesi buydu ve iktidarı kuzeyli generallere bıraktı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Devlete yabancı şirketlerin varlıklarına el koyma yetkisi veren bu madde, en görünür biçimde 1938'de petrolün …"
+- [OK]      k17 → "Devlete yabancı şirketlerin varlıklarına el koyma yetkisi veren bu madde, en görünür biçimde 1938'de petrolün …"
+- [OK]      k17 → "Noel Maurer'e göre bu, komünist olmayan bir devletin yabancıya ait doğal kaynak varlıklarına yönelik ilk büyük…"
+- [OK]      k8 → "Aynı maddenin 1992'de değiştirilmesi ise ters yöne işaret eder: değişiklik, o güne dek devredilemez olan ejido…"
+- [ATOMSUZ] k8 → "Devrimin en radikal maddesi, yetmiş beş yıl sonra kendi dağıttığı düzeni geri çevirmenin de aracı oldu; iki ha…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Devrimin en radikal maddesi, yetmiş beş yıl sonra kendi dağıttığı düzeni geri çevirmenin de aracı oldu; iki ha…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k16 → "Değişen yalnızca 27. madde de değildi: Alterio ile Niembro'ya göre 1917 anayasası yedi yüzden fazla değişiklik…"
+- [OK]      k9 → "Kazanan generallerin 1929'da kurduğu partiyi Lázaro Cárdenas sektörlere göre yeniden örgütledi: sanayi işçiler…"
+- [OK]      k9 → "Ordunun partiye alınması tartışmalıydı ve Cárdenas'ın halefi bu sektörü kaldırdı; parti 1946'da Kurumsal Devri…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Aynı devrimin yenilen kanadı ise adını başka bir yerde sürdürdü: Zapata'nın adı ve görüntüsü 1994'te Chiapas't…"
 
-**Özet:** 8 OK · 0 ISARET · 0 HATA · 3 ATOMSUZ
+**Özet:** 55 OK · 0 ISARET · 0 HATA · 19 ATOMSUZ

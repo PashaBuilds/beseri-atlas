@@ -1,26 +1,34 @@
 # Çürütücü raporu — olay-sovyetler-dagilmasi
-_2026-08-21T04:23:37.154Z_
+_2026-08-29T16:16:53.890Z_
 
-## İtiraz 1 — [ciddiyet: orta] kapsam-carpitmasi
+## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 
-**Cümle:** "Yerine kurulan düzenin çerçevesi bütünleşmedir. Küreselleşme, dünya çapındaki farklı ülkelerin ekonomileri, toplumları ve kültürleri arasındaki bütünleşmeyi anlatır ve uluslararası"
+**Cümle:** "Mihail Gorbaçov 11 Mart 1985'te Politbüro tarafından genel sekreter seçildiğinde asıl hedefi durgunlaşan ekonomiyi canlandırmaktı; bunun için siyasi ve toplumsal yapıların da değiş"
 
-**Sorun:** Makale avrupa/dogu-asya kapsamlı ama cümle küresel/evrensel dil kullanıyor.
+**Sorun:** "ilk" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
 
-**Öneri:** Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster.
+**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
 
-## İtiraz 2 — [ciddiyet: orta] kapsam-carpitmasi
+## İtiraz 2 — [ciddiyet: dusuk] ustunluk-iddiasi
 
-**Cümle:** "Ulaşım ve iletişim teknolojilerindeki ilerlemeler küresel etkileşimleri artırdı ve uluslararası ticaretin büyümesini destekledi;[^k2] bu hızlanma ile iki kutuplu düzenin sona ermes"
+**Cümle:** "Kurumsal sıra da aynı yönde ilerledi. Komünist Parti 1989'da yeni bir merkezî yasama organı için sınırlı rekabetçi seçimler getirdi; başka partilerin yasağı ise 1990'a kadar kalkma"
 
-**Sorun:** Makale avrupa/dogu-asya kapsamlı ama cümle küresel/evrensel dil kullanıyor.
+**Sorun:** "ilk" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
 
-**Öneri:** Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster.
+**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
 
-## İtiraz 3 — [ciddiyet: orta] kapsam-carpitmasi
+## İtiraz 3 — [ciddiyet: dusuk] ustunluk-iddiasi
 
-**Cümle:** "Dağılmanın yaşandığı dünyada nüfus 1991'de yaklaşık 5,42 milyardı; 2008'de yaklaşık 6,84 milyara çıkacaktı.[^k3] Çözülme, hızla büyüyen bir dünyada gerçekleşti — bu, sonraki dönemi"
+**Cümle:** "Merkez bunu kuvvetle durdurmayı bir kez denedi ve başaramadı. 13 Ocak 1991'de Sovyet birlikleri ve KGB'nin Alfa grubu Vilnius'taki televizyon kulesini bastı; on dört silahsız sivil"
 
-**Sorun:** Makale avrupa/dogu-asya kapsamlı ama cümle küresel/evrensel dil kullanıyor.
+**Sorun:** "ilk" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
 
-**Öneri:** Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster.
+**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
+
+## İtiraz 4 — [ciddiyet: dusuk] ustunluk-iddiasi
+
+**Cümle:** "17 Mart 1991'de yapılan birlik çapındaki referandumda oy kullananların %77,85'i yenilenmiş bir Sovyetler Birliği'nin korunmasından yana çıktı.[^k1] Bu sonuç göründüğü kadar tek anl"
+
+**Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
+
+**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.

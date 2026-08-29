@@ -1,73 +1,451 @@
 {
   "id": "olay-meksika-devrimi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:46.304Z",
-  "govde_hash": "d1566007bb0c",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T16:16:57.230Z",
+  "govde_hash": "47be8f5463ab",
+  "commit": "d0eeece",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "1917 Anayasası genel erkek oy hakkını kurdu; laikliği, işçi haklarını, iktisadi milliyetçiliği ve toprak reformunu teşvik etti ve federal hükümetin gücünü artır",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Listenin bileşimi dikkat çekicidir: içinde bir siyasi hak (oy), bir devlet-din ilişkisi (laiklik), bir sınıf düzenlemesi (işçi hakları), bir iktisat politikası ",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bunların tek bir belgede toplanması, devrimin bir rejim değişikliği değil bir toplumsal yeniden kuruluş programı olarak tasarlandığını gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Carranza 1917'de Meksika Cumhurbaşkanı oldu ve görev süresi 1920'de sona erdi; sivil bir halef dayatmaya çalışması kuzeyli devrimci generalleri isyana yöneltti ",
-      "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Devrimin kendi kurduğu düzenin, halefiyet sorununda yine silahlı bir müdahaleyle karşılaşması, anayasal düzenin ilk sınavını geçemediğini gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "yüzyıl devrimleri listesinde Çin ve Rus devrimleriyle birlikte anar.",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Rusya'daki süreç 7 Kasım 1917'de (eski takvimle 25 Ekim) Petrograd'da yaşanan olayla işaretlenir ve sonuçları arasında Rus İç Savaşı'nın başlaması sayılır.",
-      "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "İki devrimin aynı yıla düşmesi, atlasın dönem karşılaştırmalarının malzemesidir; Rusya'daki süreç dosyasında ele alınıyor.",
+      "anahtar": "k4",
+      "iddia": "Madero seçim istiyordu; Morelos'ta Emiliano Zapata köylerin elinden alınan toprakların geri verilmesini; Pancho Villa kuzeyde bir ordu topluyordu; Venustiano Ca",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k2",
-      "iddia": "İki devrimin aynı yıla düşmesi, atlasın dönem karşılaştırmalarının malzemesidir; Rusya'daki süreç dosyasında ele alınıyor.",
+      "anahtar": "k15",
+      "iddia": "Madero seçim istiyordu; Morelos'ta Emiliano Zapata köylerin elinden alınan toprakların geri verilmesini; Pancho Villa kuzeyde bir ordu topluyordu; Venustiano Ca",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Madero seçim istiyordu; Morelos'ta Emiliano Zapata köylerin elinden alınan toprakların geri verilmesini; Pancho Villa kuzeyde bir ordu topluyordu; Venustiano Ca",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k13",
+      "iddia": "Madero seçim istiyordu; Morelos'ta Emiliano Zapata köylerin elinden alınan toprakların geri verilmesini; Pancho Villa kuzeyde bir ordu topluyordu; Venustiano Ca",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Querétaro'da yazılan 1917 Anayasası toprağın ve toprak altındaki kaynakların mülkiyetini ulusa bağladı, sekiz saatlik iş gününü, asgari ücreti ve grev hakkını a",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k16",
+      "iddia": "Querétaro'da yazılan 1917 Anayasası toprağın ve toprak altındaki kaynakların mülkiyetini ulusa bağladı, sekiz saatlik iş gününü, asgari ücreti ve grev hakkını a",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kalıcı ikinci sonucu ise bir belirsizliktir: kaç insanın öldüğü, ölenlerin ne kadarının çarpışmada değil salgında ya da göç yollarında kaybolduğu bugün hâlâ hes",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Porfirio Díaz 1876'dan 1911'e kadar, arada bir başkanın geçtiği kısa bir aralık dışında, ülkeyi yönetti; yaşlanan Díaz halefiyet sorununa denetimli bir çözüm bu",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Madero, seçimden önce yayımladığı program kitabında 1909'da Díaz'ı bir ilkenin cisimleşmesi olarak tanımlamıştı: mutlak iktidar.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1914'te yaklaşık 1,82 milyar, 1945'te yaklaşık 2,38 milyardır.",
+      "iddia": "Amerikalı gazeteci John Kenneth Turner, 1910'da yayımlanan kitabında Yucatán'ın henequen tarlalarını anlattı: toprakların ve orada çalıştırılanların — Turner'ın",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Turner plantasyonlara yatırımcı kılığında girmişti; kitabı adında da söylendiği gibi bir itham metnidir ve sayıları resmî bir sayım değil, bir gazetecinin hesab",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Turner'ın anlattığı ikinci yer Valle Nacional'dı ve kitabın en ağır iddiası oradadır: oraya getirilenlerin çok küçük bir azınlık — yazarın verdiği pay yüzde beş",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Turner bu tablonun neredeyse inanılmaz olduğunu kendisi de yazar ve niçin yine de inandığını söyler: plantasyon sahipleri bunun doğru olduğunu ona kendileri anl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İddia yani tutulmuş bir kayda değil, suçlanan adamlardan alınmış bir ikrara dayanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Madero 1910 seçiminde Díaz'ın karşısına çıkınca hapsedildi ve San Luis Potosí Planı'yla silahlı ayaklanma çağrısı yaptı; isyan önce başkentin hemen güneyindeki ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k15",
+      "iddia": "Madero 1910 seçiminde Díaz'ın karşısına çıkınca hapsedildi ve San Luis Potosí Planı'yla silahlı ayaklanma çağrısı yaptı; isyan önce başkentin hemen güneyindeki ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Díaz 1911 Mayıs'ında istifa edip Fransa'ya sürgüne gitti.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Barış antlaşmasının ertesi günü ABD büyükelçisi Washington'a cumhuriyetin üçte ikisinin devrimcilerin elinde olduğunu, Díaz'ın hükümeti geçici başkan de la Barr",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Devrimin on yıl sürmesinin nedeni bu ayrımdır: Díaz devrildikten sonra ortada tek bir program kalmadı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Devrimin on yıl sürmesinin nedeni bu ayrımdır: Díaz devrildikten sonra ortada tek bir program kalmadı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Darbe günü öğleden sonra ABD büyükelçisi Henry Lane Wilson, Washington'a Madero'nun General Blanquet tarafından, görünüşe göre Victoriano Huerta'nın onayıyla tu",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Aynı gecenin telgrafında kendi rolünü de yazdı: Madero'nun düşüşünden sonra ne olacağından kaygılanıp Huerta ile Félix Díaz'ı elçiliğe çağırmış, \"muazzam güçlük",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k14",
+      "iddia": "Dört gün sonra Madero ile başkan yardımcısı Pino Suárez öldürüldü; büyükelçinin aktardığı resmî anlatıya göre ikisi hapishaneye nakledilirken konvoya saldırılmı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k13",
+      "iddia": "Carranza yanıtı kendi eyaletinin kongresinden çıkardı: 19 Şubat 1913 tarihli kararname Huerta'yı yürütmenin başı olarak tanımadı ve valiye, cumhuriyette anayasa",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Zapata ise Madero'yu daha 1911 sonunda bırakmış, Ayala Planı'nı ilan etmişti.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Zapata ise Madero'yu daha 1911 sonunda bırakmış, Ayala Planı'nı ilan etmişti.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k15",
+      "iddia": "Planın toprak maddeleri sanıldığından ölçülüdür: gasbedilmiş toprak, orman ve suların, tapusu elinde olan köylere ve kişilere derhal geçmesini ister; büyük mülk",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Zapata'nın kendi kaleminden çıkan bir mektup aynı mantığı bir cümleye sığdırır: amaç, \"akıl ve hukuk yoluyla bize verilmeyeni silahla elde etmektir\".",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu, bir toprak programının aynı zamanda bir meşruiyet iddiası olduğunu gösterir; Zapatacılar kendilerini isyancı değil, gasbedilmiş bir hakkın uygulayıcısı sayı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Tarihçi Friedrich Katz'ın devrimci güçlerin yendiği federal orduyu Madero'nun dağıtmadan devralmasını düşüşünün temel nedeni sayan yargısı buraya ansiklopedi ma",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Tarihçi Friedrich Katz'ın devrimci güçlerin yendiği federal orduyu Madero'nun dağıtmadan devralmasını düşüşünün temel nedeni sayan yargısı buraya ansiklopedi ma",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Tarihçi Friedrich Katz'ın devrimci güçlerin yendiği federal orduyu Madero'nun dağıtmadan devralmasını düşüşünün temel nedeni sayan yargısı buraya ansiklopedi ma",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Aynı madde bunun yanına iki neden daha koyar: çıkarlarını Meksika'nınkiyle bir tuttuğu toplumsal sınıfın — liberal büyük toprak sahiplerinin — başarısızlığı ve ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Toprak talebiyle gelenlerin gideceği yer Zapata'ydı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Savaşın en karışık yılı 1914'tür ve o yılın seyri ABD Dışişleri Bakanlığı'nın resmî belge dizisinin kendi başlık dökümünde adım adım görülür: Tampico'da bir Ame",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Dış müdahale yalnızca çıkarma yapmakla kalmadı, taraf da tuttu: Washington hem Villa'yı hem Zapata'yı kendi çıkarları için fazla radikal bulup ılımlı saydığı Ca",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Askerî sonucu 1915 belirledi: Carranza'nın ordusunda general olan Álvaro Obregón, Nisan 1915'te Celaya'da Villa'yı yendi; kaynağın deyişiyle Anayasacıların zafe",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Ama Villa yok olmadı: kuzeye çekildi, tehdit olmayı sürdürdü ve 1916'da adamları Columbus'a saldırınca ABD onu yakalamak için sonuçsuz kalan bir sefer düzenledi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Zapata 1919'da Carranza'nın adamlarınca tuzağa düşürülüp öldürüldü.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Devrimin askerî seyri, önderlerinin biyografileri, bölgesel hareketler ve 1920 sonrası dönem burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı",
+      "iddia": "Anayasa 31 Ocak 1917'de Querétaro'da imzalandı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yirmi yedinci madde mülkiyeti yeniden tanımlar: toprakların ve suların mülkiyeti kökensel olarak ulusa aittir, ulus bunu özel kişilere devredebilir ama kamu yar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı madde 6 Ocak 1915 kararnamesiyle o güne dek yapılmış toprak dağıtımlarını onaylar; yani savaş sırasında fiilen yapılan işi geriye dönük olarak anayasaya ba",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Maddenin ikinci yarısı yeraltındadır: madenler, tuz yatakları, katı mineral yakıtlar ile petrol ve bütün hidrokarbonların doğrudan mülkiyeti ulusa verilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yabancılar toprak ve maden edinebilir, ama ancak bu mülk bakımından kendilerini Meksikalı saymayı ve kendi hükümetlerinin korumasına başvurmamayı kabul ederlers",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Meksikalı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Emek bölümü, 123. madde, dönemi için alışılmadık ölçüde ayrıntılıdır: sekiz saatlik iş günü, gece için yedi saat, on iki yaşından küçüklerle iş sözleşmesi yapıl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Din bölümünde ise kiliseler taşınmaz edinme ehliyetini kaybeder ve kamu okullarındaki eğitim mezhep dışı sayılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Querétaro'ya gelen delegeler seçimle belirlendi, ama Huerta rejimine hizmet edenler, Carranza'yla bölünmeden sonra Villa'yı izleyenler ve Zapatacılar dışarıda b",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Ama kongre tek renkli değildi: kaynağa göre delegeler, önce Madero'yu sonra Carranza'yı desteklemiş siyasetçilerden oluşan muhafazakârlarla devrim savaşlarında ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Dışarıda bırakılanların siyasi meydan okuması ise, yine aynı maddeye göre, delegeleri metni radikalleştirmeye itti; ortaya çıkan anayasa Carranza'nın kendisinde",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Carranza'nın 1915'te Luis Cabrera'ya hazırlattığı toprak yasası köylerin hukuka aykırı biçimde alınmış topraklarını geri vermeyi öngörmüştü, ama aynı yasa bu to",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metnin taşıyıcısı kaydedilmelidir: buradaki İngilizce çeviri, Anayasacı hükümetin amaçlarını Amerikan kamuoyuna anlatmak için Washington'da çıkarılan bir dergin",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Ölü sayısı, devrimin en çok tekrarlanan ve en az ölçülmüş verisidir; McCaa'nın özeti de insan bedeli ve bileşenleri konusunda uzlaşı bulunmadığını söyleyerek ba",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Giriş kapısı olan ansiklopedi maddesi girişinde çatışmanın yaklaşık bir milyon kişinin ölümüne yol açtığını, çoğunun savaşan olmadığını söyler; gövdesinde belki",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Aynı maddeye göre Meksika'dan ABD'ye göç 1910 ile 1920 arasında beş katına çıktı; bir savaşın nüfusa etkisi sınırın öte yakasında da birikir.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Demografi tarihçisi Robert McCaa aynı soruyu tersinden sorar: eksik milyonlar savaş ölümlerinden mi, salgınlardan mı, göçten mi, doğmayan çocuklardan mı, yoksa ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "McCaa'ya göre devrimin demografik tarihini alışılmış ölçüt olan 1921 sayımı yerine daha nitelikli bulduğu 1930 sayımından geriye okumak yaşa ve cinsiyete göre d",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Devrimin bedelini tek bir yuvarlak rakamla anmak bu bileşenleri görünmez kılar; burada kullanılan özet de bileşenlerin payını vermez, yalnızca soruyu kurar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Alan Knight 1985'te yayımladığı makalenin başlığını doğrudan bu soru olarak kurdu: Meksika Devrimi burjuva mıydı, milliyetçi miydi, yoksa yalnızca büyük bir isy",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Sondaki adlandırma bir kitabın adıdır, ama aktarım halkası saklanmamalı: ansiklopedi maddesi bu yargıyı adsız bir bilim insanına verir, ad ise yalnızca kaynakça",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Başlangıç konusunda uzlaşı vardır — 1910 — ama bitiş için yoktur: kimi 1917 Anayasası'nı, kimi 1920'yi, kimi Lázaro Cárdenas'ın 1940'ta yerini bir ılımlıya bıra",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Knight'ın ayrımıyla ortodoks okuma devrimi bütünlüklü, halkçı ve milliyetçi bir hareket olarak görürken revizyonist okuma bölgesel farklara bakar ve devrim sıfa",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "1920'de halef olarak Meksika'nın Washington büyükelçisi Ignacio Bonillas'ı dayatmaya kalkışınca Obregón, Plutarco Elías Calles ve Adolfo de la Huerta'dan oluşan",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Ölümün biçimini kaynak kesinleştirmez: bunun bir suikast olabileceğini söyler, ama intihar ihtimalini de kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kaynağın deyişiyle devrimin son başarılı darbesi buydu ve iktidarı kuzeyli generallere bıraktı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Devlete yabancı şirketlerin varlıklarına el koyma yetkisi veren bu madde, en görünür biçimde 1938'de petrolün kamulaştırılmasında kullanıldı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k17",
+      "iddia": "Devlete yabancı şirketlerin varlıklarına el koyma yetkisi veren bu madde, en görünür biçimde 1938'de petrolün kamulaştırılmasında kullanıldı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k17",
+      "iddia": "Noel Maurer'e göre bu, komünist olmayan bir devletin yabancıya ait doğal kaynak varlıklarına yönelik ilk büyük ölçekli kamulaştırmasıydı; aynı çalışma şirketler",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Aynı maddenin 1992'de değiştirilmesi ise ters yöne işaret eder: değişiklik, o güne dek devredilemez olan ejido topraklarının kiralanmasını ve satılmasını yasall",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Devrimin en radikal maddesi, yetmiş beş yıl sonra kendi dağıttığı düzeni geri çevirmenin de aracı oldu; iki hamle de devrimin adına yapıldı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Devrimin en radikal maddesi, yetmiş beş yıl sonra kendi dağıttığı düzeni geri çevirmenin de aracı oldu; iki hamle de devrimin adına yapıldı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k16",
+      "iddia": "Değişen yalnızca 27. madde de değildi: Alterio ile Niembro'ya göre 1917 anayasası yedi yüzden fazla değişiklik geçirmiştir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kazanan generallerin 1929'da kurduğu partiyi Lázaro Cárdenas sektörlere göre yeniden örgütledi: sanayi işçileri, köylüler, orta sınıf memurlar ve ordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Ordunun partiye alınması tartışmalıydı ve Cárdenas'ın halefi bu sektörü kaldırdı; parti 1946'da Kurumsal Devrimci Parti adını aldı ve devrimi bir devlet anlatıs",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Aynı devrimin yenilen kanadı ise adını başka bir yerde sürdürdü: Zapata'nın adı ve görüntüsü 1994'te Chiapas'ta ayaklanan hareket tarafından yeniden çağrıldı.",
       "durum": "OK",
       "not": ""
     }

@@ -1,13 +1,62 @@
 ## olay-sovyetler-dagilmasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:47.067Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T16:19:23.168Z_
 
-- [OK]      k1 → "Soğuk Savaş'ın kapanışı 1985–1991 arasına yerleştirilir ve dört başlığı içerir: Gorbaçov'un reformları, ilişki…" — 4 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k1 → "Kaynağın kendi bölümlemesinde reformlar dağılmadan önce gelir; bu sıralama, çözülmenin kime atfedileceği sorus…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Soğuk Savaş, 1947 ile 1991 arasında ABD ile SSCB arasındaki jeopolitik rekabeti anlatır ve kırk dört yıl dokuz…" — 2 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k1 → "Kıta iki askerî bloka bölünmüştü; NATO ve Varşova Paktı devletlerinin 1988'deki dağılımı dönemin standart hari…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k2 → "Küreselleşme, dünya çapındaki farklı ülkelerin ekonomileri, toplumları ve kültürleri arasındaki bütünleşmeyi a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Ulaşım ve iletişim teknolojilerindeki ilerlemeler küresel etkileşimleri artırdı ve uluslararası ticaretin büyü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Dağılmanın yaşandığı dünyada nüfus 1991'de yaklaşık 5,42 milyardı; 2008'de yaklaşık 6,84 milyara çıkacaktı."
-- [OK]      k1 → "Kaynak tabanı, rekabeti 1947–1991 arası bir çerçevede ele alan maddedir."
+- [OK]      k1 → "Mihail Gorbaçov 25 Aralık 1991 akşamı televizyona çıktı, Sovyet Sosyalist Cumhuriyetler Birliği başkanlığı gör…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Konuşmadan az sonra Kremlin'in üzerindeki Sovyet bayrağı 19.35'te indirildi, Rus üç renklisi 19.45'te çekildi." — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Hukuki son adım ertesi gün geldi: Yüksek Sovyet'in üst kanadı olan Cumhuriyetler Sovyeti 26 Aralık'ta 142-N sa…" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k1 → "Ağustos ile aralık arasında on cumhuriyet birlikten ayrıldı — kaynağın verdiği gerekçeyle, büyük ölçüde yeni b…"
+- [OK]      k1 → "Mihail Gorbaçov 11 Mart 1985'te Politbüro tarafından genel sekreter seçildiğinde asıl hedefi durgunlaşan ekono…"
+- [ATOMSUZ] k1 → "Reformun getirdiği ifade özgürlüğü, birlik içindeki milliyetçi hareketlerin ve etnik anlaşmazlıkların dile gel…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Reformun getirdiği ifade özgürlüğü, birlik içindeki milliyetçi hareketlerin ve etnik anlaşmazlıkların dile gel…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Komünist Parti 1989'da yeni bir merkezî yasama organı için sınırlı rekabetçi seçimler getirdi; başka partileri…"
+- [OK]      k1 → "Aynı yıllarda cumhuriyetler kendi takvimlerini kurmaya başladı: Estonya 16 Kasım 1988'de egemenlik ilan eden i…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "13 Ocak 1991'de Sovyet birlikleri ve KGB'nin Alfa grubu Vilnius'taki televizyon kulesini bastı; on dört silahs…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Beş ay sonra 12 Haziran 1991'de Boris Yeltsin oyların %57'siyle Rusya'nın ilk seçilmiş devlet başkanı oldu; Go…" — 6 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "19 Ağustos 1991'de Gorbaçov'un yardımcısı Gennadiy Yanayev, Başbakan Valentin Pavlov, Savunma Bakanı Dmitriy Y…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Amaç ertesi gün imzalanacak Yeni Birlik Antlaşması'nı durdurmaktı: antlaşma, ortak bir başkanı, dış politikası…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Darbe üç gün içinde çöktü, düzenleyiciler gözaltına alındı ve Gorbaçov yetkisi büyük ölçüde azalmış olarak gör…"
+- [OK]      k2 → "Komitenin içinden gelen anlatım aynı sonbaharda basına düştü: İzvestiya 11 Ekim 1991'de Pavlov, Kryuçkov ve Ya…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Çöküşün bir yüzünü, iki ay sonra Kantemirovski Tank Tümeni komutanı Tümgeneral Vladimir Çujikov TASS'a kendi a…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "24 Ağustos'ta Gorbaçov Komünist Parti genel sekreterliğinden istifa etti ve partinin devlet içindeki birimleri…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Beş gün sonra birlik parlamentosu parti faaliyetini süresiz olarak askıya aldı ve ülkeyi bir arada tutan son k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "17 Mart 1991'de yapılan birlik çapındaki referandumda oy kullananların %77,85'i yenilenmiş bir Sovyetler Birli…"
+- [OK]      k1 → "Bu sonuç göründüğü kadar tek anlamlı değildir: Baltık cumhuriyetleri, Ermenistan, Gürcistan ve Moldova — kayna…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "1 Aralık 1991'de Ukrayna'da yapılan halk oylamasında oy kullananların %91'i ağustostaki bağımsızlık bildirisin…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Yedi gün sonra Rusya, Ukrayna ve Belarus liderleri Belarus'un batısındaki Belovej ormanında gizlice buluştu ve…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Ulusal Güvenlik Arşivi'nin kaydı aynı buluşmayı ayrı bir yere koyar: Yeltsin'in aralık 1991'de Ukrayna ve Bela…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k3 → "Otto Latsis, anlaşmadan üç gün sonra, 11 Aralık 1991'de İzvestiya'da yazdığı yazıda metnin mart referandumunun…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Referandumun neyi sorduğu konusunda da bir ayrım yaptı — ama kolayca ters okunan bir ayrım: oylamanın kâğıt üz…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k3 → "Aynı yazının sonunda bunun yanına ikinci bir yargı koydu: ortada yıkılmakta olan bir birlik yoktu, birlik çokt…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "10 Aralık'ta anlaşma Ukrayna ve Belarus parlamentolarında onaylandı; 12 Aralık'ta Rusya Yüksek Sovyeti hem anl…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Bu onayın kendisi tartışmalıydı: 1978 tarihli cumhuriyet anayasasına göre konu Halk Temsilcileri Kongresi'nin …" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Kalan cumhuriyetler sırayla ayrıldı; 16 Aralık'ta Kazakistan bağımsızlığını ilan eden son cumhuriyet oldu." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "21 Aralık'ta kalan cumhuriyetlerin on biri Alma-Ata Protokolü'nü imzalayarak dağılmayı doğruladı ve ayrı bir b…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k10 → "Bu düzenlemenin hukuki adı sonradan kondu ve Birleşmiş Milletler'in kendi uluslararası hukuk kütüphanesi için …" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Baltık cumhuriyetleri bu şemanın dışında kaldı ve kendi bildirilerinin dili bunu bir tercih olarak koyar: Molo…"
+- [OK]      k1 → "Üçü de dağılma tamamlanmadan, 17 Eylül 1991'de Genel Kurul kararlarıyla Birleşmiş Milletler'e kabul edildi." — 1 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k11 → "Aynı kütüphanenin antlaşma ardıllığı notu bu ikiliği kendi diliyle kaydeder: Estonya 1978 Viyana Sözleşmesi'ne…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Kiva, darbeden beş hafta sonra, 27 Eylül 1991'de İzvestiya'da birliğin hiç değilse geçiş dönemi boyunca korunm…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Kiva'nın asıl kaygısı ise demografikti: tarihsel anayurtlarının dışında yaşayan 25-30 milyon Rus'un durumunun …"
+- [OK]      k3 → "Reformun mimarlarından Aleksandr Yakovlev, Gorbaçov'un istifasından iki gün sonra TRUD gazetesinde durumu bir …"
+- [OK]      k13 → "Yungblyud'un 2019'da Vyatka Devlet Üniversitesi dergisinde çıkan yazısının başlığı bu önermenin kendisidir — S…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Aynı soru kurumsal kayda da geçti: Kasım 2011'de Gorbaçov Vakfı'nda toplanan ve Ulusal Güvenlik Arşivi ile Car…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k9 → "Konferansın belge kitabında Gorbaçov'un kendi geriye dönük yargısı da yer alır: 1991 yazındaki G-7 toplantısın…"
+- [OK]      k6 → "Stephen Kotkin'in Oxford University Press'ten 2001'de çıkan kitabı çözülmeyi 1970-2000 aralığına yayar ve adın…"
+- [OK]      k7 → "Serhii Plokhy'nin kitabı aynı olayı bir imparatorluğun son günleri diye adlandırır; Vladimir Tismaneanu'nun 20…"
+- [OK]      k5 → "Vladislav Zubok'un 2021'de Yale University Press'ten çıkan kitabı ise tek sözcüklük adıyla çöküşün kendisini k…"
+- [ATOMSUZ] k5 → "Üç başlık üç ayrı soruyu işaret eder — imparatorluk, çöküş, önlenmiş kıyamet — ve aynı takvimi farklı yerlerin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Üç başlık üç ayrı soruyu işaret eder — imparatorluk, çöküş, önlenmiş kıyamet — ve aynı takvimi farklı yerlerin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Üç başlık üç ayrı soruyu işaret eder — imparatorluk, çöküş, önlenmiş kıyamet — ve aynı takvimi farklı yerlerin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Kolosov, Belovej imzalarından bir gün önce, 7 Aralık 1991'de Sovetskaya Rossiya'da sorunu açıkça sordu: Sovyet…" — 5 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k3 → "Kolosov'un işaret ettiği belirsizlik hem biçimsel hem gerçekti: birlik yalnızca hukuken mi duruyordu, yoksa fi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k8 → "Uluslararası Hukuk Komisyonu 1993'te "devletlerin ardıllığı ve bunun gerçek ve tüzel kişilerin vatandaşlığına …" — 2 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k1 → "1990 ile 2000 arasında eski birlik ülkelerinin milli gelir kaybı — kaynağın kendi sözcüğüyle kabaca — ortalama…"
+- [OK]      k4 → "Maddison Projesi'nin uzun dönem serisinde Rusya'nın kişi başına geliri 1989'daki 12.766'lık tepe değerinden 19…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Aynı seride 1997'deki kısa toparlanmayı 1998'de yeni bir düşüş izler; o yılki değer 8.557'dir ve 1989 düzeyini…"
+- [OK]      k1 → "Ansiklopedi kaynağının aktardığına göre iktisatçı Steven Rosefielde 2001 tarihli hesabında Rusya'da 1990 ile 1…"
+- [OK]      k12 → "Bu geniş uca ansiklopediyi atlayarak da bakılabilir: Ndefru, Sullivan ve Hickel'in 2026 tarihli ön baskısı ken…"
+- [OK]      k1 → "Mart 1991 referandumu ile aralıktaki imzalar arasındaki dokuz ay, iki meşruiyet iddiasını aynı anda ayakta tut…"
+- [OK]      k3 → "Latsis'in aralık 1991'de sorduğu soru — akşam yattığında sabah hangi devlette uyanacağını bilmeyen bir yurttaş…"
+- [OK]      k2 → "Kiva'nın eylül 1991'deki uyarısı ise, bağımsızlık coşkusu geçtikten sonra hayal kırıklığının geleceği ve bir g…"
 
-**Özet:** 5 OK · 0 ISARET · 0 HATA · 3 ATOMSUZ
+**Özet:** 49 OK · 0 ISARET · 0 HATA · 8 ATOMSUZ

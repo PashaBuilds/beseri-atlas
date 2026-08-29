@@ -1,0 +1,937 @@
+{
+  "id": "olay-meksika-devrimi",
+  "govde_hash": "47be8f5463ab",
+  "commit": "d0eeece",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Madero seçim istiyordu; Morelos'ta Emiliano Zapata köylerin elinden alınan toprakların geri verilmesini; Pancho Villa kuzeyde bir ordu topluyordu; Venustiano Carranza ise ayaklanmayı anayasal bir çerçeveye oturtmaya çalışıyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k15",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k13",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dort talep artik dort ayri kaynaktan olculuyor: Madero'nun 1909 program kitabinda \"el sufragio libre\" birebir gecer (k4); Ayala Plani'nin 6. maddesi gasbedilmis toprak, orman ve sularin tapulu koylere gecmesini yazar (k15); Villa'nin kuzeyde ordu toplamasi k9'dan; Carranza'nin anayasal cercevesi kendi eyaletinin 19 Subat 1913 kararnamesinden (k13). Onceki surumde dordu de yalniz k9'a dayaniyordu"
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Querétaro'da yazılan 1917 Anayasası toprağın ve toprak altındaki kaynakların mülkiyetini ulusa bağladı, sekiz saatlik iş gününü, asgari ücreti ve grev hakkını anayasa düzeyine çıkardı",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "27. ve 123. madde metinleri kunyedeki tam cevirinin icindedir"
+    },
+    {
+      "iddia_id": "i002b",
+      "cumle": "Alterio ile Niembro'ya göre bu metin, toplumsal hakları tanıyan ilk anayasadır",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k16",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ozetinde birebir: \"it was the first constitution in the world to recognize social rights\". Oncelik iddiasi kaynaga atfedilerek verildi; govde bunu kendi adina soylemiyor"
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Kalıcı ikinci sonucu ise bir belirsizliktir: kaç insanın öldüğü, ölenlerin ne kadarının çarpışmada değil salgında ya da göç yollarında kaybolduğu bugün hâlâ hesaplanmaya çalışılıyor.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozet: insan bedeli ve bilesenleri konusunda uzlasi olmadigi birebir yazili"
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Porfirio Díaz 1876'dan 1911'e kadar, arada bir başkanın geçtiği kısa bir aralık dışında, ülkeyi yönetti; yaşlanan Díaz halefiyet sorununa denetimli bir çözüm bulamadı ve rekabet, Cananea ile Río Blanco grevlerinin işaret ettiği yoğun bir emek huzursuzluğu döneminde patladı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak \"1876-1911\" ve \"continuously since 1884\" der; aradaki kesintinin varligi bu iki ifadeden cikarilir, kaynak Gonzalez donemini bu cumlede adlandirmaz"
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Madero, seçimden önce yayımladığı program kitabında 1909'da Díaz'ı bir ilkenin cisimleşmesi olarak tanımlamıştı: mutlak iktidar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metinde: \"de un principio: el del poder absoluto\" — Diaz mutlak iktidar ilkesinin cisimlesmesi olarak tanimlanir"
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Amerikalı gazeteci John Kenneth Turner, 1910'da yayımlanan kitabında Yucatán'ın henequen tarlalarını anlattı: toprakların ve orada çalıştırılanların — Turner'ın kendi sözcüğüyle kölelerin — büyük bölümü, onun sayımına göre, iki yüz elli üyeli plantasyon sahipleri kulübünün içinden elli henequen kralının elinde toplanmıştı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metinde: \"The slave-holders' club numbers 250 members, but the vast majority of the lands and the slaves are concentrated in the hands of fifty henequen kings\". Kor hakem duzeltmesi: kaynagin kendi sozcugu (slave) ve 250 uyeli kulup govdeye geri konuldu"
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Turner plantasyonlara yatırımcı kılığında girmişti; kitabı adında da söylendiği gibi bir itham metnidir ve sayıları resmî bir sayım değil, bir gazetecinin hesabıdır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yazar Yucatan'da oynadigi rolu (yatirimci) kendi metninde anlatir; kitabin alt basligi bir itham beyanidir"
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Turner'ın anlattığı ikinci yer Valle Nacional'dı ve kitabın en ağır iddiası oradadır: oraya getirilenlerin çok küçük bir azınlık — yazarın verdiği pay yüzde beş — dışında hepsi, yine yazara göre yedi sekiz ay içinde ölüyordu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Metinde: \"all but a very few - perhaps five per cent - pass back to earth within a space of seven or eight months\". Yazarin verdigi yuzde bes payi kor hakem tarafindan geri konuldu"
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Turner bu tablonun neredeyse inanılmaz olduğunu kendisi de yazar ve niçin yine de inandığını söyler: plantasyon sahipleri bunun doğru olduğunu ona kendileri anlatmıştır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metinde: \"This statement is almost unbelievable. I would not have believed it ... were it not the fact that the masters themselves told me that it was true\". ONCEKI SURUM HATASI: yazarin kuskusu alintilanip dayanagi (efendilerin ikrari) dusurulmustu; kor hakem geri koydu"
+    },
+    {
+      "iddia_id": "i009b",
+      "cumle": "İddia yani tutulmuş bir kayda değil, suçlanan adamlardan alınmış bir ikrara dayanır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Turner'in kendi ikrar aktarimindan cikarilan niteleme; kaynak kendi iddiasini boyle sinirlandirmaz, sinirlandirma yazarindir"
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Madero 1910 seçiminde Díaz'ın karşısına çıkınca hapsedildi ve San Luis Potosí Planı'yla silahlı ayaklanma çağrısı yaptı; isyan önce başkentin hemen güneyindeki Morelos'ta, sonra çok daha geniş biçimde kuzeyde patladı ve federal ordu bunları bastıramadı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k15",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Secim, hapis, San Luis Potosi Plani, once Morelos sonra kuzey sirasi kaynakta ayni sirayla gecer. Ayala Plani (k15) ayni olayi disaridan dogrular: metin 'la Revolución de 20 de noviembre de 1910'a atif yapar ve 4. maddesinde 'hace suyo el Plan de San Luis Potosí' der; hapis ve isyanin cografyasi icin k9 tek kaynak olarak kaliyor"
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Díaz 1911 Mayıs'ında istifa edip Fransa'ya sürgüne gitti.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynakta istifa ve Fransa surgunu Mayis 1911 olarak kayitli"
+    },
+    {
+      "iddia_id": "i011b",
+      "cumle": "Barış antlaşmasının ertesi günü ABD büyükelçisi Washington'a cumhuriyetin üçte ikisinin devrimcilerin elinde olduğunu, Díaz'ın hükümeti geçici başkan de la Barra'ya devredeceğini ve artık devrimin bittiğinin söylenebileceğini bildirdi; ama bir kayıt düştü: asıl güçlü isyancı reislerin Maderistlerce denetlenip denetlenemeyeceği henüz gösterilmiş değildi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Telgrafta birebir: \"Two-thirds of the Republic is now in the hands of the revolutionists\", \"the President is to transfer the Government to Provisional President de la Barra\" ve \"it is yet to be shown whether the more formidable rebel chiefs can be controlled by the Maderists\". Buyukelcinin degerlendirmesidir, tarafsiz bir olcum degil"
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Devrimin on yıl sürmesinin nedeni bu ayrımdır: Díaz devrildikten sonra ortada tek bir program kalmadı.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k10",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hiziplerin bolunmesi k9'da ayrintilidir; k10 ayni kaygiyi 1911 Mayis'inda belgeler ama \"tek program kalmadi\" cikarimi yazarindir"
+    },
+    {
+      "iddia_id": "i013a",
+      "cumle": "Darbe günü öğleden sonra ABD büyükelçisi Henry Lane Wilson, Washington'a Madero'nun General Blanquet tarafından, görünüşe göre Victoriano Huerta'nın onayıyla tutuklandığını bildirdi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Telgrafta birebir: \"Madero has just been made prisoner by Blanquette, apparently with the approval of Huerta\". Huerta'nin onayindaki \"gorunuse gore\" cekincesi govdede korundu. Onceki surumde tutuklama yalniz k9'dan geliyordu"
+    },
+    {
+      "iddia_id": "i013b",
+      "cumle": "Aynı gecenin telgrafında kendi rolünü de yazdı: Madero'nun düşüşünden sonra ne olacağından kaygılanıp Huerta ile Félix Díaz'ı elçiliğe çağırmış, \"muazzam güçlüklerden\" sonra ikisini Huerta'nın geçici başkan olması, Díaz'ın kabineyi belirlemesi ve ardından Huerta'nın onu kalıcı başkanlık için desteklemesi üzerinde anlaştırmıştı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Elcilik Pakti'nin kendi belgesi. Birebir: \"I invited General Huerta and General Díaz to come to the Embassy\" ve \"after enormous difficulties, I got them to agree\" ile Huerta'nin gecici baskanligi, Diaz'in kabineyi adlandirmasi ve sonraki destek maddesi. Metin aracinin kendi savunmasidir; govdede \"kendi rolunu de yazdi\" diye cercevelendi"
+    },
+    {
+      "iddia_id": "i013c",
+      "cumle": "Dört gün sonra Madero ile başkan yardımcısı Pino Suárez öldürüldü; büyükelçinin aktardığı resmî anlatıya göre ikisi hapishaneye nakledilirken konvoya saldırılmış, çıkan boğuşmada ikisi de ölmüştü.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k14",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Telgrafta birebir: \"in the struggle which followed both the President and Vice President were killed\". Anlati hukumetin kendi yayimladigi anlatidir, buyukelci aktarir; govde \"resmi anlatiya gore\" kaydiyla verir. Tarih araligi belgelerden: tutuklama 18 Subat 1913, oldurme telgrafi 23 Subat 1913 tarihli ve 'dun gece' der"
+    },
+    {
+      "iddia_id": "i013d",
+      "cumle": "Carranza yanıtı kendi eyaletinin kongresinden çıkardı: 19 Şubat 1913 tarihli kararname Huerta'yı yürütmenin başı olarak tanımadı ve valiye, cumhuriyette anayasal düzeni desteklemek üzere silahlı güç toplama yetkisi verdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k13",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kararnamede birebir: \"General Victoriano Huerta is not recognized in his character of Chief of the Executive Power\" ve \"in order that he may proceed to arm forces to aid in the support of constitutional order in the Republic\". ABD arsivine giren Ingilizce ceviridir"
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Zapata ise Madero'yu daha 1911 sonunda bırakmış, Ayala Planı'nı ilan etmişti.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tarih k9'dan; k2 plani adiyla anar ama ilan tarihini vermez"
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Planın toprak maddeleri sanıldığından ölçülüdür: gasbedilmiş toprak, orman ve suların, tapusu elinde olan köylere ve kişilere derhal geçmesini ister; büyük mülklerin ancak üçte birinin, önceden tazminat ödenerek kamulaştırılmasını öngörür; mülkün tamamına el koymayı ise plana karşı çıkanlara ayırır ve bunun üçte ikisini savaş tazminatına, dul ve yetim aylıklarına bağlar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k15",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayala Plani'nin 6., 7. ve 8. maddeleri. 7. madde birebir: \"se expropiarán, previa indemnización, de la tercera parte de esos monopolios\". Onceki surumde uc ilke Zapataci derlemeden (k2) ozetleniyordu; simdi planin kendi maddelerinden, orani ve tazminat sartiyla veriliyor. Tasiyicinin zayifligi kunyede beyan edildi"
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Zapata'nın kendi kaleminden çıkan bir mektup aynı mantığı bir cümleye sığdırır: amaç, \"akıl ve hukuk yoluyla bize verilmeyeni silahla elde etmektir\".",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Zapata imzali mektubun kapanis cumlesi; ceviri on bes kelimenin altinda tutuldu"
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Bu, bir toprak programının aynı zamanda bir meşruiyet iddiası olduğunu gösterir; Zapatacılar kendilerini isyancı değil, gasbedilmiş bir hakkın uygulayıcısı sayıyordu.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Metnin dili bu yorumu destekler (gasbedilmis hakkin geri alinmasi soylemi) ama boyle bir cumle kaynakta yoktur"
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Tarihçi Friedrich Katz'ın devrimci güçlerin yendiği federal orduyu Madero'nun dağıtmadan devralmasını düşüşünün temel nedeni sayan yargısı buraya ansiklopedi maddesi üzerinden aktarılmıştır; mekanizmanın kendisi ise Şubat 1913 telgraflarında görünür — onu tutuklatan da, yerine geçen de devraldığı ordunun generalleriydi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katz'in yargisi k9'da birebir, ama artik aktarim halkasi govdede aciktir. Mekanizma iki birincil belgeye baglandi: Madero'yu tutuklayan Blanquet ve yerine gecen Huerta, devraldigi federal ordunun generalleridir (k11, k12)"
+    },
+    {
+      "iddia_id": "i018b",
+      "cumle": "Aynı madde bunun yanına iki neden daha koyar: çıkarlarını Meksika'nınkiyle bir tuttuğu toplumsal sınıfın — liberal büyük toprak sahiplerinin — başarısızlığı ve ölümünden sonra ayakta kalabilecek bir siyasi örgüt kuramamış olması; Madero kendisini iktidara taşıyan devrimci savaşçıları da küstürüp dağıtmıştı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Liberal buyuk toprak sahibi sinifinin basarisizligi, siyasi orgut kuramamis olmasi ve devrimci savascilari kusturmesi ayni maddede birebir sayilir"
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Toprak talebiyle gelenlerin gideceği yer Zapata'ydı.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Zapataci tabanin toprak talebi k2'de acik; cumlenin baglantisi yazarindir, kismi tutuldu"
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Savaşın en karışık yılı 1914'tür ve o yılın seyri ABD Dışişleri Bakanlığı'nın resmî belge dizisinin kendi başlık dökümünde adım adım görülür: Tampico'da bir Amerikan gemisinin subay ve erlerinin tutuklanması, Veracruz'un ABD kuvvetlerince işgali, Arjantin-Brezilya-Şili arabuluculuğu, Huerta'nın kaçışı, bütün hiziplerin Aguascalientes'te topladığı askerî kongre, Carranza'nın kongreden çekilmesi, Villa ile Zapata'nın kongreye katılması, ABD kuvvetlerinin Veracruz'dan çekilmesi ve Gutiérrez, Villa ile Zapata'nın başkentte bir Kongre hükümeti kurması.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cilt ozetinin Meksika basligindaki \"Political affairs\" dizisi. Uzunluk siniri icin Carranza'nin Mexico City'den Veracruz'a cekilmesi ogesi listeden cikarildi; kalan dokuz oge kaynagin kendi sirasiyla ve kirpma beyan edilerek verildi"
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Dış müdahale yalnızca çıkarma yapmakla kalmadı, taraf da tuttu: Washington hem Villa'yı hem Zapata'yı kendi çıkarları için fazla radikal bulup ılımlı saydığı Carranza'nın yanında yer aldı, Veracruz'dan çekilme zamanlamasını onun lehine ayarladı ve mühimmat akışına izin verdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ABD'nin Villa ve Zapata'yi fazla radikal bulup Carranza'nin yaninda yer almasi, Veracruz'dan cikis zamanlamasi ve muhimmat akisi kaynakta yazili"
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Askerî sonucu 1915 belirledi: Carranza'nın ordusunda general olan Álvaro Obregón, Nisan 1915'te Celaya'da Villa'yı yendi; kaynağın deyişiyle Anayasacıların zaferi tamdı, Carranza siyasi lider olarak öne çıktı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"The rival armies of Villa and Obregon clashed in April 1915 in the Battle of Celaya ... The victory of the Constitutionalists was complete, and Carranza emerged as the political leader of Mexico\""
+    },
+    {
+      "iddia_id": "i022b",
+      "cumle": "Ama Villa yok olmadı: kuzeye çekildi, tehdit olmayı sürdürdü ve 1916'da adamları Columbus'a saldırınca ABD onu yakalamak için sonuçsuz kalan bir sefer düzenledi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"Villa retreated north ... Villa also remained a threat ... raided Columbus, New Mexico, in March 1916, prompting the U.S. to launch a punitive expedition ... unsuccessful\". ONCEKI SURUM HATASI: govde \"kuzey ordusunu bir daha toparlanamayacak bicimde kirdi\" diyordu; bu kaynakla celisiyordu, kor hakem duzeltti"
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Zapata 1919'da Carranza'nın adamlarınca tuzağa düşürülüp öldürüldü.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: Carranza'nin adamlari Zapata'yi 1919'da olduruldu"
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Anayasa 31 Ocak 1917'de Querétaro'da imzalandı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metnin basinda \"Signed January 31, 1917\" ve sonunda \"Queretaro de Arteaga, January 31, 1917\""
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Yirmi yedinci madde mülkiyeti yeniden tanımlar: toprakların ve suların mülkiyeti kökensel olarak ulusa aittir, ulus bunu özel kişilere devredebilir ama kamu yararı gerektirdiği ölçüde sınırlayabilir; metin büyük mülklerin bölünmesini, küçük mülkiyetin geliştirilmesini ve topraksız köylere komşu mülklerden toprak verilmesini devlete görev olarak yazar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "27. maddenin ilk fikralari birebir: mulkiyetin ulusa ait olmasi, buyuk mulklerin bolunmesi, komsu mulklerden toprak verilmesi"
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Aynı madde 6 Ocak 1915 kararnamesiyle o güne dek yapılmış toprak dağıtımlarını onaylar; yani savaş sırasında fiilen yapılan işi geriye dönük olarak anayasaya bağlar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metin 6 Ocak 1915 kararnamesi uyarinca yapilmis butun bagislari onaylar"
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Maddenin ikinci yarısı yeraltındadır: madenler, tuz yatakları, katı mineral yakıtlar ile petrol ve bütün hidrokarbonların doğrudan mülkiyeti ulusa verilir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Madde metninde petrol ve butun hidrokarbonlarin dogrudan mulkiyeti ulusa verilir"
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Yabancılar toprak ve maden edinebilir, ama ancak bu mülk bakımından kendilerini Meksikalı saymayı ve kendi hükümetlerinin korumasına başvurmamayı kabul ederlerse; sınırlardan 100, deniz kıyısından 50 kilometrelik kuşakta yabancıya hiçbir koşulda doğrudan mülkiyet tanınmaz.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Calvo kaydi ve 100/50 kilometrelik kusak madde metninde birebir"
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Emek bölümü, 123. madde, dönemi için alışılmadık ölçüde ayrıntılıdır: sekiz saatlik iş günü, gece için yedi saat, on iki yaşından küçüklerle iş sözleşmesi yapılamaması, bölgenin koşullarına göre belirlenecek bir asgari ücret, aynı iş için cinsiyet ve uyruk farkı gözetmeksizin aynı ücret, işçi ve işverenin sendika kurma hakkı ve grev hakkının yasayla tanınması.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "123. maddenin I-XVII arasi bentleri sayilan alti hukmun tamamini icerir"
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Din bölümünde ise kiliseler taşınmaz edinme ehliyetini kaybeder ve kamu okullarındaki eğitim mezhep dışı sayılır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "27. maddenin II. bendi ve 3. madde metinde"
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Querétaro'ya gelen delegeler seçimle belirlendi, ama Huerta rejimine hizmet edenler, Carranza'yla bölünmeden sonra Villa'yı izleyenler ve Zapatacılar dışarıda bırakıldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"The delegates were elected by jurisdiction and population, with the exclusion of those who served the Huerta regime, continued to follow Villa after the split with Carranza, as well as Zapatistas\""
+    },
+    {
+      "iddia_id": "i031b",
+      "cumle": "Ama kongre tek renkli değildi: kaynağa göre delegeler, önce Madero'yu sonra Carranza'yı desteklemiş siyasetçilerden oluşan muhafazakârlarla devrim savaşlarında çarpışmış askerlerden oluşan ilerlemeciler arasında bölünmüştü; Carranza'nın sunduğu taslak ise 1857 anayasasının küçük bir revizyonuydu ve devrimcilerin uğruna öldüğü taleplerin hiçbirini içermiyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"The convention was divided between conservatives ... and progressives, who were soldiers who had fought in revolutionary battles\" ve Carranza'nin taslagi \"a minor revision of the 1857 constitution and included none of the social, economic, and political demands for which revolutionary forces fought and died\""
+    },
+    {
+      "iddia_id": "i031c",
+      "cumle": "Dışarıda bırakılanların siyasi meydan okuması ise, yine aynı maddeye göre, delegeleri metni radikalleştirmeye itti; ortaya çıkan anayasa Carranza'nın kendisinden çok daha radikaldi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"Villistas and Zapatistas were excluded from the Constituent Congress, but their political challenge pushed the delegates to radicalize the Constitution, which in turn was far more radical than Carranza himself\". ONCEKI SURUM HATASI: bu cumle dusurulmus, yerine 27. maddenin Carranza cizgisini surdurdugu yazilmisti - kaynak bunun tersini soyluyor"
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Carranza'nın 1915'te Luis Cabrera'ya hazırlattığı toprak yasası köylerin hukuka aykırı biçimde alınmış topraklarını geri vermeyi öngörmüştü, ama aynı yasa bu toprakların eski ortak mülkiyeti diriltmek yerine bireyler arasında bölünmesini istiyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"an agrarian reform law in 1915, drafted by Luis Cabrera, sanctioning the return of all village lands illegally seized ... village lands were to be divided among individuals ... and not to revive the old structure of communities of communal landholders\". Kaynagin ikinci yarisi kor hakem tarafindan geri konuldu"
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Metnin taşıyıcısı kaydedilmelidir: buradaki İngilizce çeviri, Anayasacı hükümetin amaçlarını Amerikan kamuoyuna anlatmak için Washington'da çıkarılan bir derginin 1917 Mart sayısındadır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Derginin kapak beyani ve Washington, Mart 1917 kunyesi taramanin ilk sayfalarinda"
+    },
+    {
+      "iddia_id": "i049",
+      "cumle": "Ölü sayısı, devrimin en çok tekrarlanan ve en az ölçülmüş verisidir; McCaa'nın özeti de insan bedeli ve bileşenleri konusunda uzlaşı bulunmadığını söyleyerek başlar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozetin ilk cumlesi: \"The Mexican Revolution was a demographic disaster, but there is little agreement about the human cost or its demographic components\". Curutucunun \"tek-kaynakli-nedensellik\" itirazi bu ikinci bagimsiz kaynakla karsilandi"
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Giriş kapısı olan ansiklopedi maddesi girişinde çatışmanın yaklaşık bir milyon kişinin ölümüne yol açtığını, çoğunun savaşan olmadığını söyler; gövdesinde belki 1,5 milyon ölü ve yurt dışına kaçan yaklaşık 200 bin mülteci geçer; künye kutusunda ise Rudolph Rummel'in demografik cinayet tablosuna dayandırılan 1,7-2,7 milyon Meksikalı ölü yazılıdır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uc deger de ayni maddede: giris \"around one million\", govde \"Perhaps 1.5 million people died, and nearly 200,000 refugees fled abroad\", kunye kutusu \"1.7-2.7 million Mexican deaths\" (kaynak: Rummel, Statistics of Mexican Democide). LISTE KIRPMASI DUZELTILDI: onceki surum yalniz iki degeri veriyor ve en yuksegini dusuruyordu; bu, paragrafin kendi savini zayiflatiyordu"
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Aynı maddeye göre Meksika'dan ABD'ye göç 1910 ile 1920 arasında beş katına çıktı; bir savaşın nüfusa etkisi sınırın öte yakasında da birikir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynakta gocun 1910-1920 arasinda bes katina ciktigi yazili"
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Demografi tarihçisi Robert McCaa aynı soruyu tersinden sorar: eksik milyonlar savaş ölümlerinden mi, salgınlardan mı, göçten mi, doğmayan çocuklardan mı, yoksa sayım hatasından mı ibarettir?",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozette bilesenler birebir sayilir: savas olumleri, salginlar, goc, dogmayan cocuklar, sayim hatasi"
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "McCaa'ya göre devrimin demografik tarihini alışılmış ölçüt olan 1921 sayımı yerine daha nitelikli bulduğu 1930 sayımından geriye okumak yaşa ve cinsiyete göre daha güvenilir bir hesap verir; sonuçta ortaya çıkan kayıp, özetin son iki yüzyılın dokuzuncu en ölümcül çatışması saydığı İspanya İç Savaşı'yla kıyaslanabilecek ölçektedir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozet: \"comparable to the Spanish Civil War, which has been ranked the ninth deadliest international conflict over the past two centuries\" - siralama kor hakem tarafindan geri konuldu"
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Devrimin bedelini tek bir yuvarlak rakamla anmak bu bileşenleri görünmez kılar; burada kullanılan özet de bileşenlerin payını vermez, yalnızca soruyu kurar.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ilk yarisi ozetin ima ettigi sonuctur, boyle bir cumle kaynakta yoktur; ikinci yarisi ozetin kendisinde dogrudan olculebilir — ozet bilesenlerin payini vermez, yalnizca soruyu sorar. Ihtiyatli olsun diye kismi tutuldu"
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Alan Knight 1985'te yayımladığı makalenin başlığını doğrudan bu soru olarak kurdu: Meksika Devrimi burjuva mıydı, milliyetçi miydi, yoksa yalnızca büyük bir isyan mıydı?",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kayittaki baslik sorunun kendisidir; makalenin cevabi bu ustveriden okunamaz ve govdede de iddia edilmedi"
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Sondaki adlandırma bir kitabın adıdır, ama aktarım halkası saklanmamalı: ansiklopedi maddesi bu yargıyı adsız bir bilim insanına verir, ad ise yalnızca kaynakçada geçer — Ramon Eduardo Ruiz, The Great Rebellion, 1980.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak govdesi: \"One scholar classifies the conflict as a 'great rebellion' rather than a revolution\"; ad yalnizca dipnottaki kaynakcada: \"Ruiz, Ramon Eduardo. The Great Rebellion: Mexico, 1905-1924. New York: W.W. Norton 1980\". AKTARIM HALKASI ACILDI: onceki surum adi dogrudan maddeye atfediyordu"
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Başlangıç konusunda uzlaşı vardır — 1910 — ama bitiş için yoktur: kimi 1917 Anayasası'nı, kimi 1920'yi, kimi Lázaro Cárdenas'ın 1940'ta yerini bir ılımlıya bırakmasını sınır sayar; Álvaro Matute'ye göre Obregón'un 1 Aralık 1920'de yemin etmesiyle silahlı evre fiilen kapanmıştı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Baslangicta uzlasi, bitiste uzlasmazlik ve Matute'nin 1 Aralik 1920 yargisi kaynakta"
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Knight'ın ayrımıyla ortodoks okuma devrimi bütünlüklü, halkçı ve milliyetçi bir hareket olarak görürken revizyonist okuma bölgesel farklara bakar ve devrim sıfatını sorgular.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Knight'in ortodoks/revizyonist ayrimi kaynakta ozetlenir"
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "1920'de halef olarak Meksika'nın Washington büyükelçisi Ignacio Bonillas'ı dayatmaya kalkışınca Obregón, Plutarco Elías Calles ve Adolfo de la Huerta'dan oluşan Sonoralı generaller Agua Prieta Planı'yla ayaklandı; Carranza trenle Mexico City'den Veracruz'a kaçtı, yolu at sırtında sürdürdü ve bir pusuda öldü.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"he attempted to impose Mexico's ambassador to the U.S., Ignacio Bonillas, as his successor ... a triumvirate of Sonoran generals, Alvaro Obregon, Plutarco Elias Calles, and Adolfo de la Huerta ... Carranza fled Mexico City by train toward Veracruz, but continued on horseback and died in an ambush, perhaps an assassination, but also possibly by suicide\". CEKINCE GERI KONULDU: onceki surum duz \"olduruldu\" diyordu"
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Devlete yabancı şirketlerin varlıklarına el koyma yetkisi veren bu madde, en görünür biçimde 1938'de petrolün kamulaştırılmasında kullanıldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k17",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"Article 27 also empowered the government to expropriate holdings of foreign companies, most prominently seen in the 1938 expropriation of oil\". Kor hakem \"en uzun omurlu parcasi\" ustunluk iddiasini kaldirdi. k17'nin ozeti 1938 kamulastirmasinin kendisini dogrular ama 27. maddenin bu yetkiyi verdigini soylemez; o baglanti icin k9 tek kaynaktir"
+    },
+    {
+      "iddia_id": "i044b",
+      "cumle": "Noel Maurer'e göre bu, komünist olmayan bir devletin yabancıya ait doğal kaynak varlıklarına yönelik ilk büyük ölçekli kamulaştırmasıydı; aynı çalışma şirketlerin sonunda fazlasıyla tazmin edildiğini savunur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k17",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ozetinde birebir: \"the first large-scale non-Communist expropriation of foreign-owned natural resource assets\" ve sirketlerin \"more than fully compensated\" oldugu bulgusu. Ikincisi yazarin yerlesik yazina karsi kurdugu tezdir; govde \"aynı çalışma ... savunur\" diye cercevelendi"
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Aynı maddenin 1992'de değiştirilmesi ise ters yöne işaret eder: değişiklik, o güne dek devredilemez olan ejido topraklarının kiralanmasını ve satılmasını yasallaştırdı ve ejido üyelerinin haklarını resmen belgeleyen kurumlar kurdu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozette: 1992 degisikligi devredilemez ejido topragininin kiralanmasini ve satisini yasallastirdi, belgeleme kurumlari kurdu"
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Devrimin en radikal maddesi, yetmiş beş yıl sonra kendi dağıttığı düzeni geri çevirmenin de aracı oldu; iki hamle de devrimin adına yapıldı.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki hamlenin de devrim adina yapildigi cikarimi yazarindir; kaynaklar yalniz iki hamleyi ayri ayri belgeler"
+    },
+    {
+      "iddia_id": "i046b",
+      "cumle": "Değişen yalnızca 27. madde de değildi: Alterio ile Niembro'ya göre 1917 anayasası yedi yüzden fazla değişiklik geçirmiştir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k16",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ozetinde birebir: \"has allowed more than 700 amendments since its origin in 1917\". Sayi ozetin verdigi degerdir, bagimsiz bir sayim degil"
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "Kazanan generallerin 1929'da kurduğu partiyi Lázaro Cárdenas sektörlere göre yeniden örgütledi: sanayi işçileri, köylüler, orta sınıf memurlar ve ordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"There were four sectors: industrial workers, peasants, middle class workers, largely employed by the government, and the army ... privately opposed by General Manuel Avila Camacho, who succeeded Cardenas and in the final reformulation of the party, removed the military sector ... The party was reorganized once again in 1946 as the Institutional Revolutionary Party\". LISTE KIRPMASI DUZELTILDI: onceki surum dort sektorden ucunu sayiyor, orduyu dusuruyordu; 1929'da kurulan partinin adini 1946'da aldigi da eklendi"
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "Aynı devrimin yenilen kanadı ise adını başka bir yerde sürdürdü: Zapata'nın adı ve görüntüsü 1994'te Chiapas'ta ayaklanan hareket tarafından yeniden çağrıldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: Zapata'nin adi ve goruntusu 1994 Chiapas ayaklanmasinda cagrildi"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 54,
+    "kismi": 7,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-29",
+      "onceki_hash": "e4cc4e786526",
+      "yeni_hash": "79b522dad70e",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    },
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "Kaynak derinlestirme turu: hakemleme degil kaynak tabani onarimi. Yedi yeni kunye (k10-k17: FRUS 1911/1913 belgeleri, Ayala Plani tam metni, Alterio-Niembro ve Maurer Crossref kayitlari) eklendi; Madero'nun tutuklanmasi, Elcilik Pakti, Madero'nun oldurulmesi, Carranza'nin ayaklanmasi, Ayala Plani'nin toprak maddeleri ve anayasanin oncelik iddiasi yalniz Wikipedia'dan (k9) alinip birincil/akademik kaynaklara tasindi. Hakem alani degistirilmedi"
+    },
+    {
+      "zaman": "2026-08-29",
+      "onceki_hash": "79b522dad70e",
+      "yeni_hash": "88588cc67395",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    },
+    {
+      "zaman": "2026-08-29",
+      "onceki_hash": "88588cc67395",
+      "yeni_hash": "47be8f5463ab",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    }
+  ]
+}
