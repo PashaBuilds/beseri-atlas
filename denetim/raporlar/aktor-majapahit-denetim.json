@@ -1,63 +1,279 @@
 {
   "id": "aktor-majapahit",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:50.278Z",
-  "govde_hash": "5757b72c556f",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T19:22:20.034Z",
+  "govde_hash": "60ddddb64df2",
+  "commit": "6d7ef68",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Bu devletin referans maddesi, olağandışı bir bölüm taşır: tarih yazımı, tarihin kendisinden önce gelir ve dört ayrı kaynak türüne ayrılır — arkeolojik kanıt, ya",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir devletin anlatısından önce o anlatının neye dayandığının verilmesi, atlasın kendi ilkesiyle örtüşür: iddia kadar iddianın kaynağı da bilinmelidir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Dört türün ayrı ayrı sayılması, her birinin farklı bir güvenilirlik ve kapsam taşıdığını ima eder; atlas bu türler arasında bir sıralama yapmaz.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir Cava devletinin tarihinin Çin kaynaklarıyla da kurulması, bölgenin uzun mesafeli kayıt ağlarına dahil olduğunu gösterir.",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, kuruluş bölümünün altında Moğol istilasını ayrı bir alt başlık olarak verir; ilk kral Kertarajasa Jayawardhana ve ardından Jayanegara sayılır.",
-      "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir devletin kuruluş anlatısının bir dış istilayla başlaması, o istilanın yalnızca yıkıcı değil kurucu bir etken olarak da kaydedilebileceğini gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Aynı yüzyıllarda bölgedeki bir başka düzen, gerilemesi din değişimi, dış baskı, ekolojik çöküş ve salgın başlıklarına bölünen Khmer İmparatorluğu'ydu.",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1500 yılında yaklaşık 503,1 milyondur.",
+      "anahtar": "k5",
+      "iddia": "Kenneth Hall onu yaklaşık 1293'ten 1528'e uzanan Hindu-Budist bir takımada imparatorluğu diye tanımlar; aynı maddede düzenin en büyük siyasi ve kültürel başarı ",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Hükümdar sıralaması, altın çağın seyri, deniz ticareti ve çözülme süreci burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işl",
+      "iddia": "Prapanca'nın 1365'te tamamladığı Nagarakertagama, kendini hükümdarın ayaklarını öven biri olarak tanıtan bir şairin, efendisi Rajasanagara için yazdığı manzum b",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir yönetim kaydı değil, sarayın kendi hakkındaki beyanıdır: daha ilk kantoda bütün Cava ülkesinin son derece itaatkâr olduğunu, öteki ülkelerin de öyle olduğun",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Cava"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Pigeaud onu Budist piskoposluk ailesinden bir saray mensubu sayar, tapınak topraklarının büyük sicillerine erişebildiğini ve belki de sicil memurluğuna yakın bi",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Budist"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Üstelik elimizdeki metin doğrudan on dördüncü yüzyıldan gelmez: Pigeaud şiirin o yüzyıldan beri defalarca kopyalandığını, nemli iklimde palmiye yaprağına yazılm",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şair önce Malayu ülkesine bağlı sayılan yerleri sıralar — Jambi, Palembang, Minangkabau, Kampar, Haru, Lamuri, Barus gibi Sumatra adları — sonra Borneo'yu, ardı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Orada, hükümdarın koruması altında sayılan öteki ülkeler Syangka ve Ayodhyapura, Dharmanagari, Marutma, Rajapura, Singhanagari, Champa ve Kamboja'dır; hemen ard",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Pigeaud ilk iki adı Siam ile Ayutthaya diye çözer ve koruma ile dostluk arasındaki bu farkı dikkate değer bulur: Yawana ile ilişki, şairin koruma diyemeyeceği t",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı çevirmen iki kümenin şiirde ayrı adlar taşıdığını da gösterir: öteki adalar anlamındaki nusantara on üçüncü ve on dördüncü kantoların listesidir, halka-kra",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Şairin, Hindistan ve Çin başta olmak üzere kıtanın büyük ülkelerinin Majapahit sarayına hizmet ettiğini ima etmesini Pigeaud \"akla aykırı\" bulur ve bunu şairin ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Pigeaud'ya göre o çağda bu ticaret her zaman hükümdarların gözetimindeydi ve yabancı limanlara varan tüccarlar yerel otoriteye armağan sunduğu için kendi hükümd",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1358 tarihli Canggu geçit fermanı Cava'nın ırmak geçitlerini tek tek adlandırır — korunan metinde yetmişten fazla geçit yeri sayılır — ve geçitçileri efendinin ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Karşılığında geçitçiler her Asadha dolunayında 400 bakır sikkelik bir bayram harcı öderler ve fermanın tanıdığı bağışıklıklar arasında efendisinden kaçan birini",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1366 tarihli olanı bir aileye yılda beş günle sınırlı tuzlu su alma hakkı tanır, yılda üç yüz sikkelik bayram harcı ile ayda yedi ku tuz harcını kayda geçirir v",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1391 tarihli olanı Biluluk'un esnaf ailelerini — tüccarlar, şeker palmiyesi özü çıkaranlar, kasaplar, kumaş ağartıcıları, çivit boyacıları, yağ değirmencileri, ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı ferman biber, kübabe, kakule, demir, demir tava, tabak, hint kamışı ve pamuk gibi kalemlerde zorunlu alımdan da bağışıklık verir; buna karşılık kişi başına",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1395 tarihli üçüncü ferman ise yalnızca tuzlu madde alımındaki ortakçı payından muafiyeti yineler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Vergi düzeni geriye, muafiyetin negatifinden okunur; ve muafiyet çiğnenirse çare mahkeme değil, doğrudan hükümdarın huzuruna çıkmaktır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Pigeaud'nun toparlamasına göre Majapahit, açık tarlalarla ayrılmış daha küçük yerleşkelerden oluşan büyük bir külliyeydi; şiire göre iki ana yerleşke ve dört an",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Batıdaki yerleşke Hayam Wuruk'un ait olduğu hanedan kolunun, doğudaki Wengker-Daha kolununduydu; kuzeydeki iki konak Daha ile Majapahit vezirlerine, güneydeki i",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Pigeaud'ya göre Majapahit aslında çift merkezli bir kenttir: şiir batıdaki saray yerleşkesini güneşe, doğudaki Wengker-Daha yerleşkesini aya benzetir, Daha kent",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı ikilik yönetimde de görünür: 1358 fermanının başında hem Şivacı hem Sogata ruhban hiyerarşisinin başları, hukuk davalarına bakan ve Kutara Manawa derlemesi",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Külliyenin ırmak limanı Bubat'ta ise tüccarlar otururdu ve Pigeaud'ya göre bunların çoğu yabancıydı: Hintliler ve Çinliler.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şiire göre öteki kıtalar her mevsim ürünlerini getirir, hükümdarın gönderdiği ruhban görevlileri ile mandarinler bu ürünü düzenli olarak almaya giderdi; buyruğu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yılda bir kez, Phalguna ayında başkentte toplanan büyük törene bütün Cava'nın mandarinleri, malikâne sahipleri, yargıçlar ve hukuk müşavirleri katılır; Bali ve ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yuan Shi'nin Cava bölümü, Kubilay'ın denizaşırı seferleri içinde en büyüğünün Cava seferi olduğunu söyler ve gerekçe olarak elçisinin yüzünün dövmeyle damgalanm",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Shi, Cava, Kubilay"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı kayda göre üç eyaletten toplanan yirmi bin asker, bin gemi, bir yıllık erzak ve kırk bin ting kâğıt para seferber edildi; Cava hükümdarının damadı bütün ül",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Cava, Yuan, Gelang"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı kayıt Gelang kralının yüz binden fazla askerle savaştığını, ırmağa dolup boğulanların on binlerle sayıldığını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Gelang"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu kayıt tarafsız değildir: aynı bölüm Cava'nın âdetlerinin ve ürünlerinin araştırılamayacağını söyler, halkını çirkin ve garip diye niteler.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Cava"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Zheng He filosunda tercümanlık eden Ma Huan, Cava'da hiçbiri surlu olmayan dört yerleşim sayar: gemiler önce Tuban'a, sonra Gresik'e, sonra Surabaya'ya uğrar, k",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Huan, Cava, Tuban, Gresik"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Ma Huan alışverişte Çin'in ardışık hanedanlarına ait bakır sikkelerin kullanıldığını iki ayrı yerde yazar; Gresik'in başında bir Guangdonglu bulunduğunu ve orad",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Huan, Çin, Gresik, Guangdonglu"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Eski adı Srivijaya olan Palembang'ı da Cava'nın yetki alanına bağlı gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Srivijaya, Palembang, Cava"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şair hükümdarın erdemlerini sayarken Janggala ve Kadiri'nin güzel kızlarının seçildiğini, yabancı saraylardan ele geçirilenlerin de saraya getirildiğini bir üst",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fermanlarda hizmetkârlar ve özgür olmayan bağlı adamlar ayrı bir hukuki kategori olarak geçer.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Pigeaud, şairin dünya fetheden hükümdar tasvirinin gerçekle bağdaşmadığı kanısındadır: ona göre Cava krallarının gücü her zaman sınırlı ve istikrarsızdı, küçük ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Wibowo, kentin fiziksel yapısı için iki birincil kaynak bulunduğunu — Nagarakertagama ile Trowulan alanı — ama bunların birleştirilemediğini bildirir: Prapanca'",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Dupoizat ile Harkantiningsih, Trowulan ve çevresinde bulunan Çin seramiklerinin bir bölümünün Majapahit'in ortaya çıkışından çok önceki üretimlere ait olduğunu,",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Hall'un maddesi terimi kullanır ve düzenin sınırlarını yaklaşık 1293 ile 1528 arasına koyar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Listeye bakıp doğrudan yönetim çıkarmak ise şiirin kendi ayrımını yok saymak olur: nusantara ile mandalikaraştra aynı şey değildir ve şiirin kendisi Syangka ile",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Listeye bakıp doğrudan yönetim çıkarmak ise şiirin kendi ayrımını yok saymak olur: nusantara ile mandalikaraştra aynı şey değildir ve şiirin kendisi Syangka ile",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Gajah Mada'nın takımadayı birleştirmeden rahat yüzü görmeyeceğine dair ünlü Palapa yemini Nagarakertagama'da geçmez; Pigeaud yemini bir Pararaton anlatısı olara",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Santoso ile arkadaşları yemini Pararaton üzerinden okur, takımadadaki birçok bölgeyi Majapahit yönetimi altında birleştirmek üzere istila etmeye yönelik bir siy",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Aynı yazarlar yemini Bhinneka Tunggal Ika ve Mitreka Satata sloganlarıyla birlikte, çeşitliliği tek bir egemenlik altında birleştirme ruhunun ifadeleri olarak s",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir yanda, fermanların gösterdiği ölçülebilir düzen vardır: muafiyet bağışlayan bir merkez, adıyla sayılan yükümlülükler, ırmak geçitleri, ilk ürün haracı ve yı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Öte yanda, bu düzenin adına sonradan yüklenen anlam vardır — Hall'un maddesinde de görüldüğü gibi, kendini varis ilan eden devletlerin geriye doğru kurduğu bir ",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

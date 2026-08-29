@@ -158,6 +158,32 @@ if (ara) {
   // ise HAM metinde bir parca arayarak buluyordu. Ikisi ayrildiginda arac
   // "BIREBIR ALT-DIZE" deyip aranan dizeyi ICERMEYEN bir pencere basiyordu —
   // hakemin saglam bir kunyeyi haksiz yere dusurmesine yol acabilir.
+  // OCR VARYANTI GERI DUSUSU (2026-08-29 hakem bulgusu): archive.org
+  // taramalarinda tek harf bozulmasi yaygin ("Phalguna" -> "Phdlguna",
+  // "nusantara" -> "niisantara"). Dize bulunamadiginda arama basarisiz
+  // sayilirsa kor hakem SAGLAM bir kunyeyi haksiz yere dusurur. Bu yuzden
+  // basarisizlikta, sorgunun uzun sozcukleri tek harf toleransiyla yeniden
+  // aranir ve bulunanlar RAPOR EDILIR — hukum degistirilmez, hakeme
+  // "OCR varyanti olabilir" diye bilgi verilir.
+  if (!e.ok) {
+    const sozcukler = [...new Set(ara.split(/\s+/).map((w) => w.replace(/[^\p{L}\p{N}]/gu, '')).filter((w) => w.length >= 5))];
+    const bulgular = [];
+    for (const w of sozcukler.slice(0, 6)) {
+      if (metin.includes(w)) { bulgular.push(`${w}: birebir var`); continue; }
+      // Tek konumda herhangi bir karakter: w.length kadar desen, ucuz.
+      for (let i = 0; i < w.length; i += 1) {
+        const desen = new RegExp(`${w.slice(0, i).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}.${w.slice(i + 1).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`, 'u');
+        const m2 = desen.exec(metin);
+        if (m2) { bulgular.push(`${w}: OCR varyanti "${m2[0]}" (konum ${m2.index})`); break; }
+      }
+    }
+    if (bulgular.length) {
+      bas('# OCR TARAMASI (hukum degismedi, bilgi):');
+      for (const b of bulgular) bas(`#   ${b}`);
+      bas('#   Varyant bulunduysa kunye SAGLAM olabilir; --satir ile kok parcayi tara.');
+    }
+  }
+
   const hamIndeks = metin.indexOf(ara);
   if (hamIndeks !== -1) {
     bas('--- baglam (ham metin) ---');

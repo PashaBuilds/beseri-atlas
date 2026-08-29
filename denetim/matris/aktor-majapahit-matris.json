@@ -1,0 +1,653 @@
+{
+  "id": "aktor-majapahit",
+  "govde_hash": "60ddddb64df2",
+  "commit": "6d7ef68",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Kenneth Hall onu yaklaşık 1293'ten 1528'e uzanan Hindu-Budist bir takımada imparatorluğu diye tanımlar; aynı maddede düzenin en büyük siyasi ve kültürel başarı diye kutlandığını ve sonradan kurulan devletlerin kendilerini onun varisi ilan ettiğini yazar.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ozeti birebir: 'Majapahit was a Hindu-Buddhist Indonesian archipelago empire based in eastern Java c.1293 to 1528, and is celebrated as the greatest political and cultural achievement and the source of subsequent regional states that have claimed to be the realm's heirs.' Hakem duzeltmesi: onarim surumu 'bolgenin en buyuk' diyordu; ozette 'bolgenin' karsiligi yok, kaldirildi. Ustunluk ifadesi atif cercevesi icinde ('Hall ... yazar') kaldigi icin curutucunun ustunluk-iddiasi itirazi reddedildi."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Prapanca'nın 1365'te tamamladığı Nagarakertagama, kendini hükümdarın ayaklarını öven biri olarak tanıtan bir şairin, efendisi Rajasanagara için yazdığı manzum bir övgüdür.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cilt basligi: 'THE NAGARA-KERTAGAMA BY RAKAWI PRAPANCA OF MAJAPAHIT, 1365 A.D.'. Kanto 1-3: 'Such is the purpose of him who praises His Feet: he is wishing to write in poetry the tale of the Prince ... our lord Rajasanagara, the powerful Ruler.'"
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Bir yönetim kaydı değil, sarayın kendi hakkındaki beyanıdır: daha ilk kantoda bütün Cava ülkesinin son derece itaatkâr olduğunu, öteki ülkelerin de öyle olduğunu duyurur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kanto 1-3: 'The whole of the Javanese country is most submissive, obedient; and even so are the other countries.'"
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Pigeaud onu Budist piskoposluk ailesinden bir saray mensubu sayar, tapınak topraklarının büyük sicillerine erişebildiğini ve belki de sicil memurluğuna yakın bir iş gördüğünü düşünür.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'In any case Winada-Prapafica belonged to the Buddhist episcopal [family]'; 'As a member of the episcopal family he no doubt had a house of his own in or near the Buddhist bishop's compound'; 'the Buddhist rakawt Prapafica, having read Royal charters, and having access to the Register (carcan) of religious domains and estates'; 'The Register (carcan) of religious domains ... perhaps was in the keeping of the bishop's son Winada himself.' Winada = Prapanca'nin oteki adi (k2 birden cok yerde 'Winada-Prapafica')."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Üstelik elimizdeki metin doğrudan on dördüncü yüzyıldan gelmez: Pigeaud şiirin o yüzyıldan beri defalarca kopyalandığını, nemli iklimde palmiye yaprağına yazılmış yazmaların olağanüstü bakılmadıkça yetmiş beş yıldan çok dayanmadığını hatırlatır ve çevirisine esas aldığı Leiden yazmasını yazarın kendi nüshasından yedi ya da sekiz kuşak sonrasına yerleştirir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'Since the 14th century Winada-Prapafica's poem was copied many times... As in the moist tropical climate manuscripts written on palm-leaves do not last very much longer than 75 years, unless exceptionally well cared for, perhaps the text of codex 5023 is about the 7th or 8th descendant of the author's copy.' Codex 5023 = Leyden University Library. HAKEM EKLEMESI: aktarim halkasi onarim surumunde hic gorunmuyordu."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Şair önce Malayu ülkesine bağlı sayılan yerleri sıralar — Jambi, Palembang, Minangkabau, Kampar, Haru, Lamuri, Barus gibi Sumatra adları — sonra Borneo'yu, ardından Pahang'a bağlı olduğunu söylediği yarımada limanlarını, bu arada Tumasik'i sayar; doğuda Bali'den Timor'a uzanan çok daha uzun bir dizi gelir — Bali, Dompo, Bhima, Banda, Ambon, Maluku, Seram, Timor ve Yeni Gine kıyısındaki Wwanin bunların arasındadır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kanto 13-1/13-2: 'the principal ones are all those that belong to the country of Malayu: namely Jambi and Palembang, Karitang, Teba ... Manangkabwa ... Kampar ... Haru ... Lwas with Samudra and Lamuri, Batan, Lampung and Barus'. Kanto 14-2: 'Those that belong to Pahang ... Tumasik'. LISTE KIRPMASI DENETIMI: kaynak Sumatra'da 24, doguda ~29 ad sayar; govde her iki listede de kisaltmayi beyan eder ('gibi', 'bunların arasındadır'). Onarim surumu dogu listesini beyansiz kirpiyordu; hakem 'Bali'den Timor'a uzanan cok daha uzun bir dizi' ibaresini ekledi. Borneo adlandirmasi siirde gecmez (Tanjung-Nagara); k2: 'Bakulapura is to be identified with Tafijung-Nagara (canto 13-2-3), i.e. Borneo' — bu yuzden k2 kismi."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Orada, hükümdarın koruması altında sayılan öteki ülkeler Syangka ve Ayodhyapura, Dharmanagari, Marutma, Rajapura, Singhanagari, Champa ve Kamboja'dır; hemen ardından Yawana'nın bunlardan ayrı tutulduğu, onun bir dost olduğu söylenir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kanto 15-1: 'Such is the aspect of the other countries, protected by the Illustrious Prince; verily, to be sure: Syangkayodhyapura, together with Dharmanagari, Marutma and Rajapura, and Singhanagari too, Campa, Kamboja. Different is Yawana, that is a friend, regular.' Hakem duzeltmesi: onarim surumu sekiz adi yediye indirip Syangka'yi dusurmustu (k2 bu adi ayri bir madde olarak Siam diye cozer); ad geri konuldu."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Pigeaud ilk iki adı Siam ile Ayutthaya diye çözer ve koruma ile dostluk arasındaki bu farkı dikkate değer bulur: Yawana ile ilişki, şairin koruma diyemeyeceği türden görünmektedir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'99, Syangka : Siam. 100. Ayodhyapura : Ayuthia.'; 'The difference between the \"protection\" of canto 15-1-1 and the \"friendship\" of canto 15-1-4 (for Yawana only) is remarkable. The relation of Majapahit to Yawana seems to have been of a kind that the poet could not call it protection'."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Aynı çevirmen iki kümenin şiirde ayrı adlar taşıdığını da gösterir: öteki adalar anlamındaki nusantara on üçüncü ve on dördüncü kantoların listesidir, halka-krallıklar anlamındaki mandalikaraştra ise on beşinci kantonun komşularıdır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'The niisantara (other islands) of canto 12-6-4 are the islands and towns mentioned in cantos 13 and 14, and the mandaltkardstra (ring-kingdoms) are the neighbouring countries of canto 15-1.' (OCR bozuk; arama normallestirilmis metinde birebir gecti.)"
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Şairin, Hindistan ve Çin başta olmak üzere kıtanın büyük ülkelerinin Majapahit sarayına hizmet ettiğini ima etmesini Pigeaud \"akla aykırı\" bulur ve bunu şairin efendisini yüceltirken düştüğü abartılardan biri sayar; aynı dizeleri asıl anlattığı şeye, yani Majapahit limanları ile kıta arasındaki uluslararası ticarete bağlar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'\"Other continents\" probably refers to the five great countries mentioned above sub 108-112: India, China, South India, East India and Conjeveram. The idea that those great kingdoms should become subservient (sumiwi) to the Majapahit Court seems preposterous. It is another instance of the poet's exaggeration when glorifying his master and his country. Anyhow, canto 15-3 refers to the international trade between Majapahit ports and the continent.' Hakem duzeltmesi: onarim surumu notu kanto 15-1'e baglıyordu; not kanto 15-3'e aittir, cumle duzeltildi ve 'kitanin buyuk krallıkları' Pigeaud'nun saydigi ulkelere baglandi."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Pigeaud'ya göre o çağda bu ticaret her zaman hükümdarların gözetimindeydi ve yabancı limanlara varan tüccarlar yerel otoriteye armağan sunduğu için kendi hükümdarlarının elçileri sayılırdı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'In the 14th century (and in many preceding and following centuries) this trade always stood under the supervision of the Princes. The merchants who came to foreign ports always offered presents to the local authorities, and they were considered as emissaries of their own Prince.'"
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Aynı ciltte, övgünün yanına Majapahit hükümdarlarının ferman metinleri konmuştur; düzenin işleyişine dair ölçülebilir kayıt buradadır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cilt 3 icindekiler: 'Translation of the Charters: Sarwadharma charter of 1269 ... Ferry charter of 1358, found in Trawulan and Pelem ... Biluluk charters of 1366-1395, found in Bluluk ...' — ceviri ile fermanlar ayni ciltte."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "1358 tarihli Canggu geçit fermanı Cava'nın ırmak geçitlerini tek tek adlandırır — korunan metinde yetmişten fazla geçit yeri sayılır — ve geçitçileri efendinin yükümlülüklerinden muaf tutar; Pangkur, Tawan ve Tirip adıyla anılan görevlilerin adamlarının onları rahatsız etmesi yasaklanır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'instruction was given to the ferrymen yonder of all districts of the Island of Java ... established in Canggu'; 'they shall be purely and completely independent, not troubled by activities of outsiders, not visited by the dependents of the Three Bold Ones (?), namely Pangkur, Tawan, Tirip'. SAYIM: plakalardaki ad dokumu elle sayildi — 34 gecit yeri + 44 kirsal gecit yeri = 78 ad; 'yetmisten fazla' dogru."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Karşılığında geçitçiler her Asadha dolunayında 400 bakır sikkelik bir bayram harcı öderler ve fermanın tanıdığı bağışıklıklar arasında efendisinden kaçan birini karşıya geçirmekten sorumlu tutulmamak da vardır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'they now produce a festival-tax: every gift in cash ... is 400 (copper cash) each, paid every full moon of Asedha (June-July)'; 'indeed anybody whosoever who has left a master, running away from his or her master, then certainly the ferryman shall not be charged for taking that person off from the river-bank.'"
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "1366 tarihli olanı bir aileye yılda beş günle sınırlı tuzlu su alma hakkı tanır, yılda üç yüz sikkelik bayram harcı ile ayda yedi ku tuz harcını kayda geçirir ve fermanı çiğneyeni lanetleyen uzun bir beddua listesiyle biter.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'Charter of 1366 A.D. This is Our rescript, to be kept by the Family of Biluluk, concerning the right to scoop salt water, at the time of their religious festival, once a year, that shall be limited to five days'; 'their festival-duty, 300 cash, every year ... their salt-duty, 7 ku every month'; beddua: 'the holy Thirteen Witnesses shall kill him ... he shall be bitten by a poisonous snake ... felled by a tiger ... In Shaka 1288.'"
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "1391 tarihli olanı Biluluk'un esnaf ailelerini — tüccarlar, şeker palmiyesi özü çıkaranlar, kasaplar, kumaş ağartıcıları, çivit boyacıları, yağ değirmencileri, şehriyeciler, kireç yakıcıları — adıyla sayılan on üç kalem yükümlülükten muaf tutar: doğumdaki masaj, düğün, cenaze töreni, taşıma, sivri alet, direk, çit, tuğla, çardak, dam örtüsü, kazık ve yüksek konuklar için alınanlar bunların arasındadır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'merchants, tappers of sugar-palms, butchers, bleachers of textiles, dyers with indigo, millers of oil-mills, vermicelli-makers, lime-burners' (sekiz meslek, birebir). Muafiyet kalemleri sayildi: padadah, pawtwaha, patatar, pasadran, byangkatan, palalandep, palalajer, pararajeg, pabata, pabale, parahab, pasusuk, parawuhan = 13; 'on uc kalem' dogru, govde 12'sini sayip kisaltmayi beyan eder. Hakem duzeltmesi: 'serbetciler' yanlis karsilikti ('tappers of sugar-palms'), duzeltildi."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Aynı ferman biber, kübabe, kakule, demir, demir tava, tabak, hint kamışı ve pamuk gibi kalemlerde zorunlu alımdan da bağışıklık verir; buna karşılık kişi başına beş yüzle sınırlı bir yükümlülük bırakır — çevirmen bunun kelle vergisi olduğundan emin değildir ve karşılığın yanına soru işareti koyar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'exempt from titiban (compulsory buying) of pepper, capsicum, cubeb, cardamom, iron, iron pans, dishes, rattan, cotton'; 'they shall be liable to pamihos (capitation-tax [?]) with a limit, making allowance for their conditions man by man, of five hundred each.' LISTE KIRPMASI: kaynak dokuz kalem sayar, govde sekiz verir — hakem 'gibi kalemlerde' diyerek kisaltmayi beyan ettirdi; atlanan kalem cevirinin 'capsicum' dedigi ikinci baharattir (1391 Cava'sinda anakronik goruneceginden metne alinmadi). 'hasir otu' yanlis karsiligi 'hint kamisi' (rattan) ile degistirildi."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "1395 tarihli üçüncü ferman ise yalnızca tuzlu madde alımındaki ortakçı payından muafiyeti yineler.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'Charter of 1395 A.D. ... concerning the Families of Biluluk and Tanggulunan, in that case they shall be exempt from the metayers' tahil in the buying of saliferous matter'. metayer = ortakci."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Vergi düzeni geriye, muafiyetin negatifinden okunur; ve muafiyet çiğnenirse çare mahkeme değil, doğrudan hükümdarın huzuruna çıkmaktır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ikinci yarisi birebir: 'in case there might be common chiefs who press for full payment, in that case they (the Biluluk families) enter into Our Presence.' Ilk yari makalenin fermanlardan cikardigi okumadir; fermanlarin tamami muafiyet metnidir, alim/vergi listeleri yalnizca muafiyetin icinde gorunur."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Pigeaud'nun toparlamasına göre Majapahit, açık tarlalarla ayrılmış daha küçük yerleşkelerden oluşan büyük bir külliyeydi; şiire göre iki ana yerleşke ve dört ana konak taşırdı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'The great complex of Majapahit (better called complex than town) consisted of a number of smaller complexes separated by open fields.'; 'According to the Nagara-Kertagama Majapahit contained two main compounds and four main manors.'"
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Batıdaki yerleşke Hayam Wuruk'un ait olduğu hanedan kolunun, doğudaki Wengker-Daha kolununduydu; kuzeydeki iki konak Daha ile Majapahit vezirlerine, güneydeki iki konak Şivacı ve Budist piskoposlara ayrılmıştı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'Of the two compounds the western, the Royal compound, was inhabited by the family of Majapahit-Singasari-Jiwana, to which King Hayam Wuruk belonged; the eastern compound was the residence of the family of Wengker-Daha. ... The north-western manor was inhabited by the vizir of Daha, the north-eastern one by the vizir of Majapahit. ... The south-eastern one was the residence of the bishop of the Shiwaites, the south-western one was inhabited by the bishop of the Buddhists.'"
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Pigeaud'ya göre Majapahit aslında çift merkezli bir kenttir: şiir batıdaki saray yerleşkesini güneşe, doğudaki Wengker-Daha yerleşkesini aya benzetir, Daha kentini de ayın yıldızlar üzerindeki yeri gibi öteki kentlerin başı sayar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'the town of Majapahit should be described as a double-town: it had two centres: the Royal compound and the Wengker-Daha compound. This duality is clearly expressed by the comparison with the sun and the moon in canto 12-6-1.'; 'the eastern pura of Wengker-Daha, the moon, and the western, of Majapahit-Singasari-Jiwana, the Royal compound, the sun ... the mention of the town of Daha, Kadiri, as the principal of the towns of the realm (compared to the stars and planets) next to Majapahit.' HAKEM DUZELTMESI: onarim surumu 'sair baskenti gunese, RAKIP KENT Daha'yi aya benzetir' diyordu — kaynak iki YERLESKEYI karsilastirir ve Daha'yi kucuk kentlerin basi sayar, rakip demez; cumle yeniden kuruldu."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Aynı ikilik yönetimde de görünür: 1358 fermanının başında hem Şivacı hem Sogata ruhban hiyerarşisinin başları, hukuk davalarına bakan ve Kutara Manawa derlemesine çalışan yargıçlarla birlikte adlarıyla sıralanır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'\"absorbed in the explanation of books of learning, Kutara Manawa etcetera\" ... with a view to acquire firm knowledge of the right and wrong of the pleas of two litigants. Furthermore the bishop over the Sogata (Buddhist) clergy ... having for naryama (superior) the bishop over the Shiwaite clergy'."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Külliyenin ırmak limanı Bubat'ta ise tüccarlar otururdu ve Pigeaud'ya göre bunların çoğu yabancıydı: Hintliler ve Çinliler.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'Bubat was the name of the port on the river; it was inhabited by merchants, many of them foreigners: Indians and Chinese.'"
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Şiire göre öteki kıtalar her mevsim ürünlerini getirir, hükümdarın gönderdiği ruhban görevlileri ile mandarinler bu ürünü düzenli olarak almaya giderdi; buyruğu çiğneyenlerin üzerine deniz mandarinlerinin kuvvetlerinin gönderildiği söylenir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kanto 15-3: 'Already the other continents are getting ready to show obedience to the Illustrious Prince, alike orderly they bring in all kinds of products every ordained season ... ecclesiastical officers and mandarins are sent to fetch the produce regularly.' Kanto 16-5: 'even though there were any commandment-breakers, they are visited by expeditionary forces and annihilated ... by ... those (warriors) there who belong to the jaladhi (sea) mandarins'. Hakem duzeltmesi: 'oteki ulkeler' -> 'oteki kitalar' (kaynakta 'the other continents'; 'other countries' kanto 15-1'in ayri kumesidir)."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Yılda bir kez, Phalguna ayında başkentte toplanan büyük törene bütün Cava'nın mandarinleri, malikâne sahipleri, yargıçlar ve hukuk müşavirleri katılır; Bali ve öteki adalar ilk ürün haracıyla gelir, pazar yeri tüccarlarla dolardı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kanto 83-5: 'Then every month Phdlguna (February-March) the Illustrious Prince is offered paripiija (procession worship), celebrated in his own Royal residence. Arrive the mantris (mandarins) of the whole land of Java, juru kuwus (lairds of manors), on the other hand dhyaksas (judges), all upapattis (assessors-at-law). Joining them are: Bali etcetera, the other islands ... with prabherti (first fruits tribute) ... Tradespeople and merchants are in the marketplace filling it in crowds.' NOT: OCR 'Phalguna'yi 'Phdlguna' yaziyor; ilk aramada bulunamadi, tam metin satir suzgeciyle dogrulandi."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Yuan Shi'nin Cava bölümü, Kubilay'ın denizaşırı seferleri içinde en büyüğünün Cava seferi olduğunu söyler ve gerekçe olarak elçisinin yüzünün dövmeyle damgalanmasını gösterir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'世祖撫有四夷，其出師海外諸蕃者，惟爪哇之役為大' (kunye dogrulama dizesi, birebir); gerekce: '後刺詔使孟右丞之面，以此進討'. Hakem duzeltmesi: onarim surumu 'yuzunun daglanmasi' diyordu; 刺面 daglama degil dovme/delme cezasidir, 'dovmeyle damgalanmasi' yapildi. Elci kaynakta 孟右丞 diye anilir; hayalet ad uretmemek icin govdede adlandirilmadi."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Aynı kayda göre üç eyaletten toplanan yirmi bin asker, bin gemi, bir yıllık erzak ve kırk bin ting kâğıt para seferber edildi; Cava hükümdarının damadı bütün ülkeyi teslim etti, Yuan ordusuyla birlikte kaynağın Gelang dediği krallığın merkezi Daha'ya yürüdü, Gelang kralının teslim olmasından sonra ise ayaklanıp kendisine verilen muhafız birliğini öldürdü; ordu, kralın karısı ve çocukları ile yüzden fazla görevlisini, haritaları ve nüfus defterlerini alarak geri döndü.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'會福建、江西、湖廣三行省兵凡二萬 ... 發舟千艘，給糧一年、鈔四萬錠'; '爪哇主壻土罕必闍耶舉國納降'; '分軍為三道伐葛郎，期十九日會答哈'; '土罕必闍耶背叛逃去，留軍拒戰。捏只不丁、甘州不花、省掾馮祥皆遇害'; '得哈只葛當妻子官屬百餘人，及地圖戶籍 ... 以還'. Hakem duzeltmesi: onarim surumu Kadiri diyordu — kaynak 葛郎 (Gelang) ve 答哈 (Daha) der; kaynagin kendi adlari kullanildi ve ele gecirilen tutsaklar (esirler ve gorevliler) geri konuldu."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Aynı kayıt Gelang kralının yüz binden fazla askerle savaştığını, ırmağa dolup boğulanların on binlerle sayıldığını yazar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'葛郎國主以兵十餘萬交戰 ... 擁入河死者數萬人，殺五千餘人'. HAKEM EKLEMESI: paragrafin 'fetih anlatisinin rakamlari da ... ayni kalemden cikmistir' hukmu, somut rakam olmadan desteksiz duruyordu."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Bu kayıt tarafsız değildir: aynı bölüm Cava'nın âdetlerinin ve ürünlerinin araştırılamayacağını söyler, halkını çirkin ve garip diye niteler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'其風俗土產不可考 ... 而其人則醜怪，情性語言與中國不能相通'."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Zheng He filosunda tercümanlık eden Ma Huan, Cava'da hiçbiri surlu olmayan dört yerleşim sayar: gemiler önce Tuban'a, sonra Gresik'e, sonra Surabaya'ya uğrar, kralın oturduğu Majapahit en içerdedir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onsoz: '鄭和等統領寶船 ... 余以通譯番書'. Cava bolumu: '其國有四處，皆無城廓。其他國船來，先至一處名杜皮，次至一處名廝村，又至一處蘇魯馬益，再至一處名曰滿者伯夷，國王居之.' Tuban = 杜板/賭班, Gresik = 廝村/新村/革兒昔, Surabaya = 蘇魯馬益/蘇兒把牙; '登岸往西南行日半，到滿者伯夷' — en icerde."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Ma Huan alışverişte Çin'in ardışık hanedanlarına ait bakır sikkelerin kullanıldığını iki ayrı yerde yazar; Gresik'in başında bir Guangdonglu bulunduğunu ve orada bin haneden fazla oturduğunu, ülkede üç sınıf insanın — batıdan gelen Müslüman tüccarlar, çoğu İslam'a girmiş Çinliler ve yerliler — yaşadığını, kâğıt ve fırça olmadığı için yaprak üzerine sivri bıçakla yazıldığını aktarır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki gecis: '中國歷代銅錢通行使用' ve '買賣交易俱用中國歷代銅錢' (ikincisi kunye dogrulama dizesi). '至今新村主廣東人也，約有千餘家'. '國有三等人，一等回回人，皆是西番各為商流落此地 ... 一等唐人 ... 多有皈從回回教門受戒持齋者 ... 一等土人'. '無紙筆，用尖刀刻於茭葦葉上'. Hakem duzeltmesi: onarim surumu 'palmiye yapragi' diyordu; 茭葦葉 saz/kamis yapragidir, tur belirtilmeden 'yaprak' yapildi."
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "Eski adı Srivijaya olan Palembang'ı da Cava'nın yetki alanına bağlı gösterir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'舊港國，即古名三佛齊國是也，番名浡淋邦，屬爪哇國所轄.' 三佛齊 = Srivijaya. Hakem eklemesi: 'eski adi Srivijaya olan' kaynakta acikca yazilidir ve dosyanin Srivijaya bagini destekler."
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Şair hükümdarın erdemlerini sayarken Janggala ve Kadiri'nin güzel kızlarının seçildiğini, yabancı saraylardan ele geçirilenlerin de saraya getirildiğini bir üstünlük göstergesi olarak yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kanto 17-2: 'Virgins, whoever is beautiful in Janggala and also in Kadiri, are chosen, when there is a possible case, not to mention surely those who are captured from foreign Royal compounds, whoever is beautiful is brought into the Interior of the Royal compound.'"
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Fermanlarda hizmetkârlar ve özgür olmayan bağlı adamlar ayrı bir hukuki kategori olarak geçer.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1391 Biluluk fermani: 'the men-servants, the bondmen, the nephews of the sugar-palm tappers of Biluluk'; baska bir fermanda ayricalik olarak: 'They have the right to cohabit with their bondwomen, to beat their bondmen who are charged (with some mischief)'."
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "Pigeaud, şairin dünya fetheden hükümdar tasvirinin gerçekle bağdaşmadığı kanısındadır: ona göre Cava krallarının gücü her zaman sınırlı ve istikrarsızdı, küçük bir akraba, saray hizmetlisi ve ruhban çevresinin çoğu zaman güvenilmez sadakatine dayanıyordu; halkın büyük kütlesi, kırsal topluluklar, taşra eşrafı ve özgür olmayan bağlı adamlar için Majapahit'te kimin hüküm sürdüğü muhtemelen fark etmiyordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'It seems safe to assume that such expressions are not to be taken literally and that in reality the Javanese Kings' power at all times was both limited and unstable, founded as it was on the (as often as not untrustworthy) allegiance of a rather small group of Royal relatives, Royal servants and ecclesiastics. Probably for the great mass of the Javanese people, the rural communities and the gentry, and the unfree bondmen, it was a matter of indifference who was King in Majapahit and to which dynasty he belonged.' Hakem duzeltmesi: onarim surumu listeden 'the gentry' (tasra esrafi) ile sadakat gerekcesini dusurmustu; geri konuldu."
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "Wibowo, kentin fiziksel yapısı için iki birincil kaynak bulunduğunu — Nagarakertagama ile Trowulan alanı — ama bunların birleştirilemediğini bildirir: Prapanca'nın andığı hiçbir öge Trowulan'daki herhangi bir kalıntıyla kesin olarak eşleştirilememiş, tersi de olmamıştır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozet birebir: 'Ada dua sumber utama untuk mengetahui fisik kota zaman Majapahit ... kitab Nagarakertagama ... yang kedua adalah daerah Trowulan di kabupaten Mojokerto ... Namun sayangnya kita masih belum mampu untuk memadukan kedua sumber itu menjadi satu. Tidak satupun hal yang disebutkan Prapanca dapat secara pasti diidentifikasikan dengan salah satu peninggalan arkeologi di Trowulan. Atau, sebaliknya ...'. Kunye adi Crossref yazar alanindan dogrulandi: 'A.S. Wibowo' — tam ad uydurulmamis."
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "Dupoizat ile Harkantiningsih, Trowulan ve çevresinde bulunan Çin seramiklerinin bir bölümünün Majapahit'in ortaya çıkışından çok önceki üretimlere ait olduğunu, bunların niteliği ve çeşitliliğinin dokuzuncu yüzyıldan on ikinci yüzyıla kadar bölgede varlıklı yerleşimler bulunduğunu gösterdiğini yazar; dokuzuncu yüzyıl parçalarını özellikle önemli sayarlar, çünkü hem Trowulan hem Doğu Cava için ilk yazılı nüfus kanıtı ancak onuncu yüzyıla aittir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'Among the Chinese ceramics found in Trowulan and its surroundings, some sherds come from productions known much before the emergence of the Mojopahit kingdom. The quality and the diversity of those ceramics show that rather wealthy settlements did exist in this area from the IXth century to the XIIth century. The IXth century sherds are of a particular interest since the first written evidence about population in Trowulan and also in East Java are only dated from the Xth century.' Curutucunun 'ilk' ustunluk itirazi reddedildi: oncelik kaynagin kendi ifadesidir ve govdede yazarlara atfedilmistir. Crossref yazar alani iki adi da dogrular."
+    },
+    {
+      "iddia_id": "i39",
+      "cumle": "Hall'un maddesi terimi kullanır ve düzenin sınırlarını yaklaşık 1293 ile 1528 arasına koyar.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'archipelago empire based in eastern Java c.1293 to 1528'. Kunyedeki tarih_bitis alani 1527'dir; govde bu farki 'baska bitis tarihleri de dolasir' diyerek acikca birakiyor."
+    },
+    {
+      "iddia_id": "i40",
+      "cumle": "Listeye bakıp doğrudan yönetim çıkarmak ise şiirin kendi ayrımını yok saymak olur: nusantara ile mandalikaraştra aynı şey değildir ve şiirin kendisi Syangka ile Kamboja'yı ada listesine değil, öteki ülkeler diye ayrı bir kümeye koyar.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI — SUS DIPNOTU: onarim surumu burada 'Ayutthaya ile Kamboja'nin Cava'dan yonetilmedigi zaten bilinir.[^k1]' diyordu; k1 bunu SOYLEMEZ, tersine bu ulkeleri 'protected by the Illustrious Prince' diye sayar. Cumle kaynagin tasidigina indirildi: kanto 15-1 bu adlari kanto 13-14 ada listesinden ayri bir kumede verir (k1), nusantara/mandalikarastra ayrimi ise k2'nin serhindedir."
+    },
+    {
+      "iddia_id": "i41",
+      "cumle": "Gajah Mada'nın takımadayı birleştirmeden rahat yüzü görmeyeceğine dair ünlü Palapa yemini Nagarakertagama'da geçmez; Pigeaud yemini bir Pararaton anlatısı olarak aktarır, deyimin çevirisinin güç olduğunu ve en olası karşılığın rahatın tadını çıkarmak olduğunu belirtir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'The reference in stanza 3 to the burden of the world's protection being passed on to Gajah Mada after the defeat of Sadeng and Keta is in accordance with a Pararaton tale. Gajah Mada is said to have made a vow not to amukti palapa before he had conquered many countries for his Masters. The interpretation of amwukti palapa is difficult. Probably v. d. Tuuk's and Hooykaas' translation ... to enjoy leasure, is the most likely.' Ayrica cilt 3'te (Nag. cevirisi) 'alapa' dizesi HIC gecmez — yemin siirde yok. HAKEM EKLEMESI: onarim surumu bu cumleyi yalnizca k8'e dayandiriyordu, oysa k8 yeminin Nag.'da olmadigini soylemez."
+    },
+    {
+      "iddia_id": "i42",
+      "cumle": "Santoso ile arkadaşları yemini Pararaton üzerinden okur, takımadadaki birçok bölgeyi Majapahit yönetimi altında birleştirmek üzere istila etmeye yönelik bir siyaset sayar ve metnin yemine bağladığı üç sonucu — Bubat savaşı, Gajah Mada'nın mahapatihlikten alınması ve Sunda prensesinin ölümü — sıralar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'the background of Sumpah Palapa (Amukti Palapa) as a manifestation of Gajah Mada's political policy to invade several regions in the archipelago in order to unite them under the reign of Majapahit'; 'There are three impacts of Sumpah Palapa recorded in the Pararaton Book namely Bubat War; the cessation of Gajah Mada as Mahapatih Amangkubhumi; and the death of Princess of Sunda'. Hakem duzeltmesi: 'istila' ozette varken govdeden dusurulmustu, geri konuldu."
+    },
+    {
+      "iddia_id": "i43",
+      "cumle": "Aynı yazarlar yemini Bhinneka Tunggal Ika ve Mitreka Satata sloganlarıyla birlikte, çeşitliliği tek bir egemenlik altında birleştirme ruhunun ifadeleri olarak sunar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'the similarity of the slogan of Bhineka Tunggal Ika, Sumpah Palapa, and Mitreka Satata. All of them are the spirit to unite the diversity of the archipelago in one sovereignty.'"
+    },
+    {
+      "iddia_id": "i44",
+      "cumle": "Bir yanda, fermanların gösterdiği ölçülebilir düzen vardır: muafiyet bağışlayan bir merkez, adıyla sayılan yükümlülükler, ırmak geçitleri, ilk ürün haracı ve yılda bir toplanan bağlılık töreni.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kapanis paragrafi yeni iddia kurmaz; govdede zaten kaynaklanmis ogeleri toplar (Canggu gecit fermani, Biluluk muafiyetleri, kanto 83-5'in 'first fruits tribute' toreni). Curutucunun 'ilk' ustunluk itirazi reddedildi: 'ilk urun haraci' bir oncelik iddiasi degil, 'prabherti (first fruits tribute)' teriminin karsiligidir."
+    },
+    {
+      "iddia_id": "i45",
+      "cumle": "Öte yanda, bu düzenin adına sonradan yüklenen anlam vardır — Hall'un maddesinde de görüldüğü gibi, kendini varis ilan eden devletlerin geriye doğru kurduğu bir soy zinciri.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k5 yalnizca su kadarini tasir: 'the source of subsequent regional states that have claimed to be the realm's heirs'. 'Geriye dogru kurulan soy zinciri' nitelemesi makalenin okumasidir; bu yuzden kismi. Curutucunun anakronizm itirazi (ulus-devlet) reddedildi: paragraf zaten sonraki bir okumanin geriye yansitilmasini anlatiyor, kavram donemin degil bugunun kavrami olarak ve acikca kullaniliyor."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 44,
+    "kismi": 1,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}
