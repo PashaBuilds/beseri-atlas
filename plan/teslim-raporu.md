@@ -176,6 +176,17 @@ kalıcı; henüz hata değil, çünkü temizlik geçişi tamamlanmadı.
 aşıyor ya da hiç birincil kaynak taşımıyor. Sayılar KAPI 13'ün özet
 satırında her koşuda görünür.
 
+**Dil borcu ve neden mekanik olarak silinemeyeceği.** Kalan en büyük ölçülü
+borç budur: 517 dosyanın 405'i en az bir şablon kalıbı taşıyor (toplam 5.415
+geçiş). Kalıpların en formülü olanı "Atlas bu X'i ayrıca kaydeder." cümlesidir
+ve anlam taşımaz — silinmesi doğru olur. Ama silinemez: ölçüldü, **1001
+geçişin 998'i bir dipnot taşıyor.** Cümleyi silmek dipnotu sahipsiz bırakır;
+dipnotu bir sonraki cümleye taşımak ise o cümlenin gerçekten aynı kaynakça
+desteklendiğini varsaymak olur — yani kaynağa bakmadan atıf üretmek, atlasın
+kaçındığı hatanın ta kendisi. Bu yüzden dil borcu ancak kaynağı okuyan bir
+onarım turuyla erir, toplu bir arama-değiştirmeyle değil. Defter yukarı
+yazılamaz: yeni hiçbir dosya kalıp içeremez.
+
 **Ortak kaynaklı hata.** Üreten ve denetleyen oturum aynı hatalı kaynağa
 dayanıyorsa ikisi de aynı yanlışa varır. Bu, hattın yapısal sınırıdır ve
 hakkında sayfasında yazılıdır.
