@@ -4882,3 +4882,22 @@ Sovyetler dosyasında var olan bir id'yle (i054) çakıştı ve matris
 KIRIK oldu. Doğrusu: yeni id, mevcut id'lerin EN BÜYÜĞÜNDEN türetilir.
 Kapı çakışmayı yakaladı — matris doğrulayıcısının `yinelenen iddia_id`
 kuralı tam bu iş için yazılmıştı.
+
+### Matris tamamlama turu
+
+Matris bütünlüğü ölçümü iki yönlü bir açık gösterdi ve ikisi de sessizdi:
+matriste kayıtlı ama gövdede bulunamayan 185 cümle, gövdede dipnotlu
+olduğu hâlde matriste kaydı olmayan 462 cümle. Sayaçlar doğru
+görünüyordu çünkü olmayan iddia sayılmaz; hash de kaymayı göstermiyordu
+çünkü hakem hash'i en son yazıyor.
+
+Açığın üçte biri dört eski pilot dosyasında yoğunlaşmıştı: Rapa Nui
+(52 kayıtsız cümle, matristeki iddia cümlelerinin HEPSİ gövdede yok),
+dönem-06 (47), IMF (33), Kuş Krallığı (32). Bu dört dosya için ayrı bir
+"matris tamamlama" çekirdeği yazıldı ve dört ajan başlatıldı.
+
+Çekirdeğin kuralı şu: gövdeye dokunulmaz, yalnız matris hizalanır.
+Her kayıtsız cümle için üç seçenekten biri uygulanır — gövdedeki birebir
+hâline güncelle, gövdeden çıkmışsa matristen çıkar, ya da iddia olarak
+ekle. Üçüncüsünde destek düzeyi TAHMİNLE VERİLMEZ, kaynak `dok.mjs` ile
+sınanır; "kelime örtüşmesi %100" etiketi doğrulama sayılmaz.
