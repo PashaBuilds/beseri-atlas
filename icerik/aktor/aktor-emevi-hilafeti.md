@@ -107,7 +107,8 @@ kaydına bağladılar ve bu kayıt, tebaayı din ve soy üzerinden tabakalara
 ayırdı: müslümanlar, cizye ödeyen zimmîler ve köleler; müslümanlar da fâtih
 Araplar ile mevâlî denilen Arap olmayan müslümanlar.[^k1] Bu ayrım
 devleti finanse etti; aynı ayrım, hânedanı deviren Abbâsî ihtilâline
-kaynağın ifadesiyle "damgasını vuran" kitleyi de üretti.[^k2] Fetihlerin
+katılan kitleyi de üretti — kaynağın ifadesiyle mevâlî o ihtilâle
+"damgasını vurdu".[^k2] Fetihlerin
 bütünü [İslam fetihleri](/olay/islam-fetihleri/) dosyasında ele alınıyor.
 
 ## Suriye ordusuna dayanan bir meşruiyet

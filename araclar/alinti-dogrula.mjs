@@ -129,11 +129,23 @@ export function govdeAlintilari(govde) {
       const dize = (e[1] || e[2] || e[3] || '').trim();
       if (dize.length < EN_KISA || dize.length > EN_UZUN) continue;
       const bitis = (e.index || 0) + e[0].length;
-      // Dipnot, destekledigi seyi TAKIP eder.
-      const anahtar = /\[\^(k\d+)\]/.exec(p.slice(bitis, bitis + 60))?.[1]
-        || /\[\^(k\d+)\]/.exec(p.slice(bitis))?.[1];
-      if (!anahtar) continue;               // dipnotsuz alinti bu aracin isi degil
-      cikti.push({ nerede: 'govde', dize, anahtar });
+      // ADLANDIRMA CERCEVESI. `"X" olarak adlandirilmasi`, `"X" adi verilir`
+      // kaliplarinda tirnak bir ALINTI degil bir ADDIR; kaynak metninde
+      // aranmasi anlamsizdir. Olculdu: Samaniler dosyasi `"Fars ronesansi"
+      // olarak adlandirilmasi yaygin ama tartismalidir` diyor ve hemen
+      // ardindan bu adlandirmayi KULLANMADIGINI soyluyor.
+      if (/^\s*(olarak|diye|adi|adiyla|adı|adıyla|denen|denilen|denir|deniyor|terimi|kavrami|kavramı|nitelemesi|sozcugu|sözcüğü)\b/i
+        .test(p.slice(bitis, bitis + 24))) continue;
+      // Dipnot, destekledigi seyi TAKIP eder. Bir cumle birden cok dipnot
+      // tasiyabilir ([^k4][^k2]); alinti HERHANGI BIRINDE olabilir. Onceki
+      // surum yalnizca ilkine bakiyordu ve Berlin dosyasindaki
+      // "Wir sind das Volk" bu yuzden "uydurma adayi" cikti — dize k4'te
+      // degil k2'de birebir duruyordu.
+      const yakin = [...p.slice(bitis, bitis + 60).matchAll(/\[\^(k\d+)\]/g)].map((x) => x[1]);
+      const anahtarlar = yakin.length ? yakin
+        : [/\[\^(k\d+)\]/.exec(p.slice(bitis))?.[1]].filter(Boolean);
+      if (!anahtarlar.length) continue;     // dipnotsuz alinti bu aracin isi degil
+      cikti.push({ nerede: 'govde', dize, anahtar: anahtarlar[0], adaylar: anahtarlar });
     }
   }
   return cikti;
