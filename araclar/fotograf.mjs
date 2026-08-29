@@ -103,6 +103,13 @@ export function fotograf() {
   // Mekanik denetim raporlari (Gecis 2): atom sayaclari.
   const raporDizini = path.join(KOK, 'denetim', 'raporlar');
   let ok = 0, hata = 0, isaret = 0, atomsuz = 0, raporlu = 0;
+  // IKI BORCUN KESISTIGI YER (2026-08-29 olcumu). Sablon cumleleri ("Atlas bu
+  // X'i ayrica kaydeder.") olculebilir hicbir iddia tasimaz ama DIPNOT tasir —
+  // yani tanimi geregi sus dipnotudurlar. Bu sayi, dil borcunun (KAPI 18)
+  // olcum borcunun (ATOMSUZ) ne kadarini urettigini gosterir ve ikisinin ayni
+  // onarim turuyla erecegini kanitlar.
+  const SABLON = /(^|\s)Atlas\s|bu (dosya|makale)\b|ayrıca kaydeder|^Dosya,\s/i;
+  let sablonAtomsuz = 0;
   if (fs.existsSync(raporDizini)) {
     for (const f of fs.readdirSync(raporDizini).filter((x) => x.endsWith('.json') && !x.endsWith('-curutucu.json'))) {
       try {
@@ -113,7 +120,10 @@ export function fotograf() {
           if (sim === 'OK') ok += 1;
           else if (sim === 'HATA') hata += 1;
           else if (sim === 'ISARET') isaret += 1;
-          else if (sim === 'ATOMSUZ') atomsuz += 1;
+          else if (sim === 'ATOMSUZ') {
+            atomsuz += 1;
+            if (SABLON.test(s.iddia || '')) sablonAtomsuz += 1;
+          }
         }
       } catch { /* bozuk rapor sayilmaz */ }
     }
@@ -139,7 +149,7 @@ export function fotograf() {
     toplamAcik: Object.values(tipler).reduce((a, g) => a + g.acik, 0),
     dil: { kalipToplam, kalipliDosya },
     matris: { dosya: matrisler.length, gecerli, bayat, korHakemli: hakemli, sayac, kayanCumle, kaydsizCumle, dipnotluCumle, ustveriDogrudan, ustveriToplam },
-    atom: { raporlu, ok, hata, isaret, atomsuz },
+    atom: { raporlu, ok, hata, isaret, atomsuz, sablonAtomsuz },
     kaynak: kaynakOlcum,
   };
 }
@@ -161,6 +171,7 @@ if (process.argv[1]?.endsWith('fotograf.mjs')) {
   console.log(`ustveri kunyesi (crossref/s2) destegi: ${f.matris.ustveriDogrudan}/${f.matris.ustveriToplam} `
     + 'dogrudan isaretli — kunye hakkindaki iddia dogrudan olabilir, ICERIK iddiasi en fazla kismi');
   console.log(`mekanik atom katmani: ${f.atom.ok} OK · ${f.atom.hata} HATA · ${f.atom.isaret} ISARET · ${f.atom.atomsuz} ATOMSUZ (${f.atom.raporlu} rapor)`);
+  console.log((`  ATOMSUZ'un ${f.atom.sablonAtomsuz} tanesi sablon cumlesidir ("Atlas bu X'i ayrica kaydeder.") — olculebilir iddia tasimaz ama dipnot tasir; dil borcuyla ayni onarim turunde erir`));
   console.log(`dil borcu: ${f.dil.kalipToplam} kalip gecisi / ${f.dil.kalipliDosya} dosya`);
   const kk = f.kaynak;
   console.log(`kaynak bilesimi (KAPI 13 olcumu): giris kapisi kuralini asan ${kk.kuralIhlali} makale · birincil kaynagi olmayan ${kk.birincilsiz} makale`);
