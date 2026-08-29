@@ -144,8 +144,16 @@ if (ara) {
   if (tam) {
     try {
       const o = await getir(url);
-      const oe = etiket(String(o.metin ?? ''), ara);
+      const onbellekMetin = String(o.metin ?? '');
+      const oe = etiket(onbellekMetin, ara);
       bas(`# --ara (onbellek surumu, KAPININ GORDUGU) → ${oe.yazi}`);
+      // --tam BAZEN ONBELLEKTEN DAHA KISA METIN DONDURUR (2026-08-29
+      // olcumu: bir ciltte onbellek 400k, --tam 259k). "Siniri asar"
+      // beklentisi bu durumda yaniltir; acikca soylenmeli.
+      if (metin.length < onbellekMetin.length) {
+        bas(`# UYARI: --tam (${metin.length}) onbellekten (${onbellekMetin.length}) DAHA KISA metin`);
+        bas('#        dondurdu. Bu kaynakta --tam pencereyi genisletmiyor, daraltiyor.');
+      }
       if (oe.ok !== e.ok) {
         bas('# UYARI: tam metin ile onbellek AYNI SONUCU VERMIYOR. Iki surum');
         bas('#        farkli olabilir (OCR, yonlendirme, onsoz). Kunye kararini');

@@ -4988,3 +4988,28 @@ iddialar meşru biçimde doğrudan olabilir. Bu yüzden otomatik düzeltme
 yapılmadı. Bunun yerine ölçüm `fotograf.mjs` çıktısına kalıcı olarak
 eklendi ve beş hakem çekirdeğine tek tek karar verdiren bir denetim
 maddesi yazıldı.
+
+### Bir olay: hakemin `git checkout`'u onarım çıktısını sildi
+
+Bağlantısızlar Hareketi hakemi, biçimsel bir düzeltmeyi geri almak için
+`git checkout` çalıştırdı ve dosya **240 kelimelik onarım öncesi hâline
+döndü** — çünkü onarım çıktısı henüz commit edilmemişti. Ajan kendi
+bağlamından birebir yeniden yazarak kurtardı ve bütün kapıları yeniden
+koşturdu (1994 kelime, matris 60/60 izlenebilir), ama bir sonraki sefer
+kurtaramayabilir.
+
+Kök neden benim boru tasarımım: iş akışı onarım→hakem adımlarını
+aralarına girmeden yürütüyor, dolayısıyla onarım çıktısı hakem
+başlarken commit'siz duruyor. İki tarafı da kapattım:
+- Bütün çekirdek promptlara (13 dosya) MUTLAK YASAK olarak
+  `git checkout / restore / reset / stash / clean / revert` yazıldı,
+  gerekçesiyle: çalışma ağacındaki her dosya henüz commit edilmemiş bir
+  başka oturumun işi olabilir. Bir değişikliği geri almak isteyen ajan
+  dosyayı ELLE düzenler; geri alamıyorsa raporunda bildirir.
+- Aynı hakem `--tam`ın bir ciltte önbellekten DAHA KISA metin
+  döndürdüğünü ölçtü (259k'ya karşı 400k). "Sınırı aşar" beklentisi bu
+  durumda yanıltıcı; `dok.mjs` artık bu daralmayı açıkça uyarıyor.
+
+Bu, oturumun ikinci `git checkout` olayı — birincisini ben yapmıştım
+(kaynak-borcu.md, üretilen bir dosya olduğu için kayıpsız). İkisi de aynı
+dersi veriyor ve ders artık promptlarda.

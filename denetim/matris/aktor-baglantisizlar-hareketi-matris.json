@@ -1,0 +1,861 @@
+{
+  "id": "aktor-baglantisizlar-hareketi",
+  "govde_hash": "dbedd0f5f8ea",
+  "commit": "b8cff98",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Kurucu anı sayılan zirve 1961'de Yugoslavya'da yirmi beş ülkeyle toplandı; kurucuların tasarısı, ABD'nin ya da Sovyetler Birliği'nin ittifak sistemlerinden hiçbirine ait olmayan ülkelere bir sığınak açmaktı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Muhtiranin kutu metni hareketi 1961de Yugoslavyada 25 ulkelik bir zirvede kurulmus sayar ve kurucu tasariyi iki ittifak sistemine de ait olmayanlara siginak diye tanimlar. Yer adi kaynakta Yugoslavyadir, Belgrad degil; cumle bu yuzden Yugoslavya der."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Belgrad bildirisi bunu doğrudan yazar: bağlantısız ülkeler \"yeni bir blok kurmak istemiyor ve blok olamaz\".",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Belgrad bildirisinden yapilan aktarim Alimovda birebir gecer: the non-aligned countries ... do not wish to form a new bloc and cannot be a bloc. Tasiyici bir Sovyet yayinidir, bildirinin kendi basimina erisilmedi; guven bu nedenle orta ve tasiyicinin konumu govdede ayrica beyan edilir."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "18 Eylül 1961 tarihli bir telgraf, Amerikan Büyükelçisi George Kennan'ın Yugoslav tarafıyla görüşmesini aktarır ve gerilimi tek karşıtlıkta toplar: Yugoslavlara göre bağlantısızlık ile bağımsızlık aynı şeydi; Kennan'a göre ise bağımsız bir ulus, dış siyasetteki tutumlarıyla büyük güçlerden birinin yanına öyle bir yerleşebilirdi ki bağlantısızlık iddiası inandırıcılığını yitirirdi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Telgrafin kendi metni; iki tanim da birebir gecer (unalignment and independence were identical / lose plausible claim to unalignment). Hakem duzeltmesi: onceki cumle Zirveden on iki gun sonra diyordu; zirvenin bitis tarihi hicbir kunyede yok, aritmetik kaynaksizdi ve telgrafin kendi tarihiyle degistirildi. Yugoslav Disisleri de kaynakta gecmez — telgraf Mates ile gorusuldugunu ve senior Yugo officials der; Yugoslav tarafi yazildi. Aktarim Kennanin tek tarafli kaydidir ve metinde oyle sunulur."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Sukarno'nun açılış konuşmasıyla 18 Nisan'da başlayıp 24 Nisan'da nihai bildiriyle kapanan toplantıya yirmi dokuz ülke katıldı ve çağrıyı beş davetçi ülke yapmıştı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Gun bilgisi derlemenin icindekiler sayfasindan (18 Nisan Sukarno konusmasi, 24 Nisan nihai bildiri); yirmi dokuz sayisi hem Zhounun konusmasinda hem derlemenin ilan sayfasinda gecer; bes davetci ulke Sukarnonun konusmasinda. Kapaktaki tarihi tarama OCRi bozmustur, gun bilgisi oradan alinmadi."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Sukarno katılanları birleştiren şeyi sayarken blokları anmadı: ortak olan, sömürgeciliğe ve ırkçılığa duyulan nefret ile barışı koruma kararlılığıydı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sukarnonun acilis konusmasinda ortak paydayi sayan cumle birebir gecer ve bloklardan soz etmez."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Beşinci ilke her ulusun Birleşmiş Milletler Şartı'na uygun olarak tek başına ya da toplu olarak kendini savunma hakkına saygıyı buyurur; hemen ardından gelen altıncı ilke, toplu savunma düzenlemelerinin büyük güçlerden herhangi birinin özel çıkarlarına hizmet edecek biçimde kullanılmasından kaçınmayı ve hiçbir ülkenin başka ülkelere baskı uygulamamasını ister.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "On ilkenin besinci ve altinci maddeleri nihai bildiride birebir okundu: 5. Respect for the right of each nation to defend itself singly or collectively in conformity with the charter of the United Nations; 6A. Abstention from the use of arrangements of collective defense to serve the particular interests of any of the big powers; 6B. Abstention by any country from exerting pressures on other countries. Hakem duzeltmesi: onceki cumle besinci maddedeki BM Sarti kaydini dusurmustu, geri konuldu — dosyanin merkezi tezi bu iki maddenin tam metnine dayaniyor. OCRde altinci ilke 6A ve 6B olarak ikiye ayrilmistir, cumle ikisini birlikte verir."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Çin Başbakanı Zhou Enlai, Siyasi Komite'ye yaptığı konuşmada Pakistan Başbakanı'yla yaptığı özel görüşmeyi aktardı: Pakistan bir askerî antlaşmanın tarafıydı ama Çin'e karşı değildi ve ABD antlaşma uyarınca saldırgan bir eyleme girişir ya da küresel bir savaş başlatırsa Pakistan buna dahil olmayacaktı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Zhou Enlainin Siyasi Komiteye konusmasinin metni derlemede tam olarak var; Pakistan Basbakaniyla gorusmenin aktarimi birebir."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Zhou minnettarlığını bildirdi, sonra çekincesini kayda geçirdi: Pakistan Başbakanı Manila antlaşmasının savunma niteliğinde olduğuna inanıyordu, kendisi inanmıyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Zhounun cekincesi kaynakta aciktir: Manila antlasmasinin savunma nitelikli oldugu aciklamasina inanmadigini soyler. Cekince metne tasindi."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Aynı konuşmada Zhou, delegelerin komünist yayılma ve yıkıcı faaliyet suçlamalarında Çin'i anmayıp yalnızca Sovyetler Birliği'ni andıklarını da kaydeder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: As for so-called Communist expansion and Communist subversive activities, the delegates here have been quite courteous, They have only mentioned the Soviet Union without referring to China. Hakem duzeltmesi: Zhounun kendi mesafe koyan sozcugu (so-called) dusmustu; suclamalarinda sozcugu bu mesafeyi geri getiriyor."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Filipinler delegesi Carlos Romulo aynı salonda, Filipinler Cumhurbaşkanı Magsaysay'ın kaleme aldığı Pasifik Şartı'nın kendi kaderini tayin ilkesini savunuyordu.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Romulonun acilis konusmasi Pasifik Sartini ve onu kaleme alan Magsaysayi adiyla anar; kendi kaderini tayin vurgusu ayni pasajda."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Seylan Başbakanı John Kotelawala ise toplananların dünya nüfusunun aşağı yukarı üçte ikisini oluşturduğunu söyleyip konferansı devler arasındaki kavgada arabuluculuğa aday gösterdi.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kotelawalanin konusmasinda hem ucte iki nufus oranini hem arabuluculuk onerisi birebir gecer."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Andrea Benvenuti'nin bölüm özetine göre Nehru'nun konferansa razı olmasında etkili olan etkenler arasında Endonezya'nın Hindistan hesaplarındaki artan ağırlığı ve toplantının bölgesel ilişkilere barış alanları çevresinde kurulmuş alternatif bir yaklaşımı tanıtma imkânı vermesi vardı; Nehru, Çin'i davet etme ihtimalini alenen tartışmaktan kaçınsa da Çin'in katılımını özel olarak önemsiyordu.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ustveri kunyesi denetimi (F maddesi): k8 bir Crossref kaydidir ve iddia bolumun BULGUSU hakkindadir; abstract alani dolu ve bulguyu tasiyor, bu yuzden destek dogrudan degil KISMI. Abstract: Nehrus decision was influenced by a variety of factors. These included his recognition of Indonesias increasing importance for Indias regional calculations and his realisation that such a conference could serve as a platform to promote an alternative approach to regional relations centred around areas of peace and peaceful coexistence. Hakem duzeltmesi: onceki cumle belirleyiciydi diyordu; kaynak bir dizi etken arasinda der, cumle etkenler arasinda vardi seviyesine indirildi ve Indias regional calculations karsiligi (Hindistan hesaplari) geri konuldu. Ozet ayrica peaceful coexistence der, cumle yalnizca baris alanlarini tasir — bilerek kisaltma."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Fikir 1961 baharında Tito, Nasır ve Sukarno arasındaki karşılıklı ziyaretlerden çıktı; CIA'nın Ağustos 1961 tarihli muhtırası başlıca girişimin ilk ikisinden geldiğini kaydeder ve hesabı şöyle okur: kendi başlarına az etkisi olan ama daha geniş bir önderlik iddiası taşıyan küçük devletlerin başkanları olarak çıkarlarını ilerletmenin en iyi yolu, genel dış siyasette anlaşan ve görüşlerini toplu olarak dile getirebilecek bir devletler bloğu kurmaktı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Muhtiranin kendi okumasi; girisimin baslica Tito ve Nasirdan geldigi ve bir devletler blogu kurma hesabi CIAnin ifadesidir, kuruculardan alinmis bir beyan degil. Metin bunu belirtir."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Muhtıraya göre fazlalık, bağlantısızlık ölçütleri ve konferansa hangi devletlerin çağrılacağı üzerine yapılan sert tartışmadan çıktı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kahire toplantisinin dokuz gun surdugu ve fazlaligin olcut ve davet tartismasindan geldigi muhtirada birebir."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Muhtıranın dipnotu üzerinde anlaşılan ölçütü üç maddede özetler: bağlantısız bir devlet bağlantısızlığa dayanan bağımsız bir siyaset izlemeli; başka ülkelerin bağımsızlığı için verilen mücadelede etkin olmalı; Soğuk Savaş bağlamında çok taraflı, iki taraflı ya da bölgesel savunma paktlarına dahil olmamalı ya da bu bağlamda yapılmış askerî üs anlaşmaları bulunmamalıdır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Uc maddelik olcut muhtiranin dipnotundaki KENDI ozetidir, Kahire toplantisinin metni degil; cumle bunu acikca soyler. Ucu de eksiksiz aktarildi."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Hindistan daha çok sayıda ılımlı tarafsızı çağırarak konferansı genişletmek isterken Küba, Gana, Gine ve Mali katılımcı sayısını sert biçimde sınırlamak istiyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hindistan ile Kuba, Gana, Gine ve Mali arasindaki genisletme-sinirlama celiskisi muhtirada birebir."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Kahire'de Cezayir Geçici Hükümeti listeye eklendi; Gana'nın güçlü desteğine rağmen Kongo'dan bir Gizenga delegesinin çağrılması önerisi rafa kaldırıldı ve davet komitesi çalışmayı 5 Temmuz'a kadar sürdürdü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cezayir Gecici Hukumetinin eklenmesi, Gizenga onerisinin rafa kaldirilmasi ve davet komitesinin 5 Temmuza kadar calismasi muhtirada birebir."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Nehru toplantıya, gerilimleri azaltmak yerine katılan devletler arasındaki farkları göstermekten öteye gitmeyeceği korkusuna rağmen katılmayı kabul etmişti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Muhtira Nehrunun korkusunu ragmen baglaciyla verir; cekince metne oldugu gibi tasindi."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Tito, Yugoslavya konferanstaki tek Avrupa devleti olacağı için Avrupa ve Almanya üzerine söyleyeceklerinin özel bir ağırlık taşıyacağına inanıyordu; Nasır Almanya sorununda taahhütten kaçınıyor, Lübnan ise Berlin ve Almanya konusunda Batı'nın görüşlerini savunmayı öneriyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Titonun tek Avrupa devleti olma iddiasi, Nasirin taahhutten kacinmasi ve Lubnanin onerisi muhtirada ayri ayri gecer."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Çin toplantıya kuşkuyla bakıyordu: dışlanacağı bir Afro-Asya kümelenmesinin oluşmasından çekiniyor ve Sukarno'nun önderliğinde ikinci bir Bandung toplantısı istiyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cinin cekincesi ve Sukarno onderliginde ikinci bir Bandung istegi muhtirada birebir."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Sovyetler Birliği başlangıçta Belgrad'da bir tarafsızlar zirvesi toplanmasından hoşnut değildi, sonra Yugoslavlar aracılığıyla kendi dış siyasetine tarafsız destek kazanmaya çalıştı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sovyet tutumundaki degisim muhtiranin son paragrafinda; disisleri bakanlari ziyaret planinin canlandirilmasi ayni yerde."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Zirvenin bildirisi hareketin tanımını verir: bağlanmamış alanın genişlemesi, dünyanın bloklara tam olarak bölünmesi ve Soğuk Savaş siyasetlerinin yoğunlaşması karşısındaki tek mümkün ve vazgeçilmez seçenektir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Aktarim Alimovda birebir: the further extension of the non-committed area of the world constitutes the only possible and indispensable alternative to the policy of total division of the world into blocs, and intensification of cold war policies. Tek nitelemesi bildirinin kendi sozcugudur ve cumle bunu bildiriye atfeder; curutucunun ustunluk-iddiasi itirazi bu nedenle reddedildi. Birincil basima erisilmedi, guven orta."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Zirve, ABD Başkanı'na ve Sovyetler Birliği Bakanlar Konseyi Başkanı'na, günümüzün en güçlü iki ulusunun temsilcileri ve savaşla barışın anahtarını elinde tutanlar sıfatıyla mesaj göndermeyi ve onlardan görüşmelere yeniden başlamalarını istemeyi gerekli gördü.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Alimovda birebir: they deemed it necessary to approach the President of the United States and the Chairman of the Council of Ministers of the USSR as representatives of the two most powerful nations of our day, in whose hands lies the key to peace and war, with messages, asking them to resume talks. Ikinci elden bir aktarimdir; birincil metne erisilmedi, guven orta."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Bildiri barış ve istikrarın önemli ölçüde büyük güçlerin karşılıklı ilişkilerine bağlı olduğunu da yazıyordu; zirve aynı metinlerde iki güçten gecikmeksizin genel ve tam silahsızlanma da istedi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Alimovun aktardigi bildiri cumlesi: peace and stability in the world depend, to a considerable extent, on the mutual relations of the Great Powers. Ikinci yari ayni pasajdan: the conference urged the Great Powers to sign without delay a treaty on general and complete disarmament. Hakem duzeltmesi: onceki metin yalnizca mesaj gonderme kararini aliyor, ayni kararin iki guce yonelttigi TALEBI atliyordu; bu, gucun adresi tezini tek yanli guclendiren bir secmeydi. Talep geri konuldu."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Nehru zirvedeki konuşmasında bunu daha da açık söyledi: durumun anahtarı ne bu konferansın ne de başka kongrelerin elindeydi; kendi önemlerini abartmamalı, hem gerçek ve potansiyel güçlerini hem de güçsüzlüklerini görmeliydiler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Nehrunun konusmasindan aktarim Alimovda uzun bir alinti olarak durur: I know that the key to the situation does not lie in the hands of this Conference ... We must realize both our actual and our potential strength that we have, and also the lack of strength that we have. Ikinci elden, Sovyet yayini uzerinden; guven orta."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Senegal'in eski dışişleri bakanı Doudou Thiam'ın anımsadığına göre Nehru evrensel barış sorununu bütün öteki sorunlardan önemli sayarken Afrika devletlerinin ezici çoğunluğu sömürge sorununu birinci sırada görüyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Alimovda birebir: Doudou Thiam, former minister of foreign affairs of Senegal, recalled that at the 1961 Belgrade Conference when Jawaharlal Nehru believed the problem of universal peace to be more important than all other problems, the overwhelming majority of African states considered that the colonial issue was the one of top priority. Aktarim halkasi iki katmanlidir (Thiam > Alimov) ve govdede oyle sunulur."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Bu aktarımların taşıyıcısı da kayda geçmelidir: Yuri Alimov'un incelemesi Moskova'da Progress Publishers'ın bastığı bir Sovyet yayınıdır, hareketi anti-emperyalist görevler diliyle okur ve Sovyet siyasetiyle yakınlığı öne çıkarır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin kendi konumu, hakem tarafindan birebir dogrulandi: kapak Yuri Alimov, kunye Progress Publishers ve Printed in the Union of Soviet Socialist Republics, baski kodu 014 (01)-87. Acilis sayfasi Gorbacovdan bir ovgu tasir. Belgrad anlatisi Sovyet hukumetinin cevabiyla ve proposals ... consonant with the Soviet peace moves cumlesiyle kapanir. Anlatinin dili anti-emperyalist gorevler cercevesidir."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "ABD, Yugoslavya'ya zirvedeki tutumundan duyduğu kaygıyı bir muhtırayla bildirdi; Yugoslav tarafı bunu bir baskı girişimi saydı ve özellikle Washington'ın kendi bağlantısızlık ve bağımsızlık tanımlarını belirleme girişimine içerledi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Muhtira teatisi ve Yugoslav tepkisinin uc basligi telgrafta birebir."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Kennan bir ayrıntıyı da geçerken kaydeder: Tito zirvenin arifesinde Nehru'ya da ılımlı bir tutum alacağı izlenimini vermişti ve Hintliler sonraki değişikliğe şaşırmıştı — Kennan bunu yeni öğrendiğini yazar ve değişikliğin nedenleri üzerindeki incelemenin sürdüğünü ekler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kennanin kendi tereddudu (yeni ogrendigini yazmasi ve incelemenin surdugunu eklemesi) metne tasindi; iddia bu cekinceyle sinirlidir."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Konferans, üyeliğinin evrensel olması gerektiğini savundu, Güvenlik Konseyi'ni aralarında temsil edilen ve üyeliğe hak kazandığını düşündüğü sekiz ülkeyi — Kamboçya, Seylan, Japonya, Ürdün, Laos, Libya, Nepal ve birleşik Vietnam — kabul etmeye çağırdı; Asya-Afrika ülkelerinin Konsey'deki temsilinin hakkaniyetli coğrafi dağılım ilkesine göre yetersiz olduğunu ve 1946'da Londra'da varılan düzenleme yüzünden bu ülkelerin seçilmekten yoksun bırakıldığını kaydetti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sekiz ulkenin adi, Guvenlik Konseyi temsili ve 1946 Londra duzenlemesi nihai bildiride birebir; liste eksiksiz aktarildi."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Üyelik 1950'de altmışken 1955'te yetmiş altıya çıktı; o yılın kabulleri arasında Bandung'un adını saydığı Kamboçya, Seylan, Ürdün, Laos, Libya ve Nepal vardı — ama aynı paketle Arnavutluk, Avusturya, Bulgaristan, Finlandiya, Macaristan, İrlanda, İtalya, Portekiz, Romanya ve İspanya da girdi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "BMnin kendi uyelik kutugunden; 1955te eklenen on alti devletin tamami sayildi, listenin bir bolumu kesilmedi."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Japonya ertesi yıl eklendi.",
+      "onem": "renk",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kutuk Japonyayi 1956 kabulleri arasinda gosterir."
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "1960'ta üyelik on yedi eklemeyle doksan dokuza, 1961'de yüz dörde, 1974'te yüz otuz sekize çıktı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kutukteki 99 (1960), 104 (1961) ve 138 (1974) satirlarindan; 1960 icin eklenen on yedi ad da kutukte sayilidir."
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Bildiri birincil malların uluslararası fiyatlarını ve talebini istikrara kavuşturmak için toplu eylem, iktisadi kalkınma için özel bir BM fonunun erken kurulması, Uluslararası İmar ve Kalkınma Bankası'nın kaynaklarından Asya-Afrika ülkelerine daha büyük pay ayrılması ve ham maddelerin ihracattan önce işlenerek ihracatın çeşitlendirilmesi tavsiyeleri arasındaydı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dort tavsiye nihai bildirinin iktisadi isbirligi bolumunde birebir (3., 5. ve 6. maddeler). Hakem duzeltmesi: bildirinin 3. maddesi DORT oge sayar; cumle bunlardan ikisini (ozel BM fonu, IBRD payi) alip ikisini (ozkaynak yatirimi yapacak bir uluslararasi finans kurumu ve Asya-Afrika ortak girisimleri) atliyordu. Onceki tavsiyelerini tasiyordu ifadesi listenin tamami izlenimi veriyordu; tavsiyeleri arasindaydi ile kisaltma acikca beyan edildi."
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Aynı metin bir çekince de koyar: bu öneriler bölge dışındaki ülkelerle işbirliğinin gerekliliğini ya da istenirliğini — yabancı sermaye yatırımı dahil — dışlamaz.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni bolumun cekincesi: onerilerin bolge disi isbirligini, yabanci sermaye yatirimi dahil, dislamadigi kaydi birebir."
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "Usul tarihçesini yazan Ahmed Mahiou işin başında bir belirsizliği kaydeder: bu düzen fikrini kimin ortaya attığını ve ifadenin ne zaman dolaşıma girdiğini tam olarak bilmek epey güçtür.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mahiounun giris notu fikrin sahibinin ve ifadenin cikis tarihinin tam olarak bilinemedigini yazar; belirsizlik metne tasindi."
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "Talep ilk kez 5-9 Eylül 1973'te Cezayir'de toplanan Dördüncü Bağlantısız Ülkeler Devlet ve Hükümet Başkanları Konferansı'nın siyasi bildirisinde dile getirildi; bildiri BM Genel Sekreteri'ni kalkınmaya ve uluslararası iktisadi işbirliğine ayrılmış altıncı bir olağanüstü Genel Kurul oturumu toplamaya çağırdı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Usul tarihcesi Cezayir zirvesinin tarihini ve Genel Sekretere yapilan cagriyi birebir verir."
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "Cezayir konferans belgelerini Bağlantısız Ülkeler Grubu adına Genel Sekreter'e iletti; Genel Kurul 17 Aralık 1973'te böyle bir oturumu öngören 3172 (XXVIII) sayılı kararı yüz yirmi üç oyla, karşı oy olmaksızın kabul etti.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "A/9330 iletimi ve 3172 (XXVIII) sayili kararin 123 oyla, karsi oy olmadan kabulu usul tarihcesinde birebir."
+    },
+    {
+      "iddia_id": "i39",
+      "cumle": "Cezayir'in 30 Ocak 1974 tarihli mektubuyla usul yeniden işletildi, gereken çoğunluk sağlandı ve oturum 9 Nisan 1974'te açıldı; 30 Nisan'da doksan dört üye devlet Bağlantısız Ülkeler Grubu adına taslakları sundu ve metinler 1 Mayıs 1974'te oylamaya gidilmeden 3201 (S-VI) ve 3202 (S-VI) sayılı kararlar olarak kabul edildi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "A/9541 mektubu, A/9542 nota, oturumun 9 Nisanda acilmasi, 94 devletin taslak sunmasi ve 1 Mayista oylamasiz kabul usul tarihcesinde birebir."
+    },
+    {
+      "iddia_id": "i40",
+      "cumle": "Mahiou'nun anlatısında Güney ülkeleri bu talepleri gelişmiş ülkelerin muhalefetine çarparak ilerletti; gelişmiş ülkeler düzeni, klasik uluslararası hukuk kurallarının köklü biçimde sorgulanması olarak görüyordu.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Mahiounun giris notu gelismis ulkelerin duzeni klasik uluslararasi hukukun koklu sorgulanmasi saydigini yazar; degerlendirme yazarin kendisinindir."
+    },
+    {
+      "iddia_id": "i41",
+      "cumle": "Taleplerin gündelik koordinasyonunu ise hareketten daha geniş bir küme, Yetmiş Yediler Grubu üstlendi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yetmis Yediler Grubunun koordinasyon icin kuruldugu k6da; grubun hareketten daha kalabalik oldugu k5te (yirmi uc uye fazla) gecer, bu yuzden k5 destegi kismidir."
+    },
+    {
+      "iddia_id": "i42",
+      "cumle": "Mart 1983 tarihli CIA muhtırası doksan yedi üyeli hareketin üç yılda bir yapılan zirvesini 7-11 Mart'ta Yeni Delhi'de toplayacağını ve başkanlığın 1979 zirvesinin ev sahibi Küba'dan Hindistan'a geçeceğini kaydeder.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Muhtiranin giris paragrafi: 97 uye, uc yilda bir zirve, 7-11 Mart Yeni Delhi, baskanligin 1979 ev sahibi Kubadan Hindistana gecmesi."
+    },
+    {
+      "iddia_id": "i43",
+      "cumle": "Muhtıraya göre Küba başkanlık kürsüsünü ABD'yi kınamak ve Sovyetler Birliği'ni bağlantısızların \"doğal müttefiki\" diye yüceltmek için kullanmıştı; üyelik bu tezi onaylayan bir kararı kabul etmeyi reddetti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Muhtirada birebir: Havana used the chairmanship as a platform to denounce the United States and extol the Soviet Union as the natural ally of the Nonaligned / The membership refused to adopt a resolution endorsing the natural ally thesis. Hakem duzeltmesi: cumle bu nitelemeyi olgu gibi veriyordu; Kuba hakkinda dusman bir servisin degerlendirmesi oldugu icin Muhtiraya gore atif cercevesi eklendi."
+    },
+    {
+      "iddia_id": "i44",
+      "cumle": "Muhtıraya göre bağlantısız toplantıları genellikle Küba ile on beş-yirmi kadar radikal üyeyi, hareketin ne ABD'yi ne Sovyetler Birliği'ni kayırması gerektiğini savunan aşağı yukarı eşit sayıdaki ılımlıya karşı diziyordu.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Muhtiranin kendi tahminidir; genellikle ve asagi yukari nitelemeleri kaynakta vardir ve metne tasindi."
+    },
+    {
+      "iddia_id": "i45",
+      "cumle": "Heterojen üyeliğe eklenen teamül — kararların bütün üyelerin ya katılmasını ya çekimser kalmasını gerektirmesi — üzerinde anlaşılabilecek alanı daraltıyordu; muhtıra Küba'nın kimi zaman bir kararı önerip tartışmayı keserek uzlaşmayı erken ilan ettiğini ve başkanın bildiri taslaklarını yazma ayrıcalığını kullandığını kaydeder.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uzlasma teamulu, Kubanin uzlasmayi erken ilan etmesi ve baskanin taslak yazma ayricaligi muhtirada birebir."
+    },
+    {
+      "iddia_id": "i46",
+      "cumle": "Bazı ılımlılar Küba'nın taktiklerine, hareketi karşı çıkmaya değecek kadar önemli bulmadıkları için boyun eğmişti; bazıları da Amerikan çıkarlarını savunmakla suçlanmak istemiyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Muhtira bu iki gerekceyi buyukelcilik raporlarina dayandirir; ikinci elden aktarimdir."
+    },
+    {
+      "iddia_id": "i47",
+      "cumle": "Hindistan'ın BM'deki ilk Afganistan tartışmasında Sovyet müdahalesinin görüşülmesine karşı çıkan açıklaması, ılımlı bağlantısız devletlerle ilişkilerini zorlaştırdı; Hindistan sonradan bütün yabancı kuvvetlerin çekilmesini isteyen yerleşik bağlantısız tutumu benimsedi, ama Moskova'nın doğrudan kınanması çağrılarına katılmadı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hindistanin ilk BM tartismasindaki tutumu, sonraki butun yabanci kuvvetler formulunu benimsemesi ve dogrudan kinama cagrilarina katilmamasi muhtirada birebir."
+    },
+    {
+      "iddia_id": "i48",
+      "cumle": "Kamboçya koltuğunda da Havana zirvesinde Küba başkanlık yetkisini kullanarak Pol Pot yönetimini hareketteki koltuktan çıkarıp koltuğu boş ilan etmişti; aynı üyeler BM Genel Kurulu'nda o yönetimin ve ardılının BM koltuğunu korumasına ezici çoğunlukla oy verdi; Hindistan da bu boş koltuk formülüne bağlı kaldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Havana zirvesindeki bos koltuk formulu ve uyelerin BM Genel Kurulundaki ters yondeki oyu muhtirada birebir. Hakem eklemesi: ayni muhtira Hindistanin da bu formule bagli kaldigini ve onu degistirecek bir uzlasmayi radikallerle birlikte engelleyecegini yazar (India will join the radicals in blocking any consensus that would alter the empty chair formula). Bu, Kuba-radikal / Hindistan-ilimli karsitligini tek yanli birakan bir eksikti; geri konuldu."
+    },
+    {
+      "iddia_id": "i49",
+      "cumle": "Muhtıra hareketin yapısal sınırını da yazar: hareket bir başkan ve otuz altı üyeli bir Eşgüdüm Bürosu'yla yönetilir, tutumlarını eyleme çevirecek bir mekanizması yoktur; çok taraflı pazarlıkları hareketten yirmi üç üye daha kalabalık olan Yetmiş Yediler Grubu yürütür.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yapi kutusu: baskan, 36 uyeli Esgudum Burosu, eyleme cevirme mekanizmasinin olmayisi ve Yetmis Yediler Grubunun yirmi uc uye fazlasi."
+    },
+    {
+      "iddia_id": "i50",
+      "cumle": "Bu değerlendirme Amerikan karar alıcıları için yazılmıştır, kanaat bildiren kayıtlara ve büyükelçilik raporlarına dayanır, sayfalarının bir bölümü hâlâ karartılıdır ve bir sayfası hiç açıklanmamıştır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Belgenin kendi kaydi, hakem tarafindan birebir dogrulandi: dagitim listesi Jeane Kirkpatrick (BM temsilcisi), Disisleri, Hazine, NSC ve Savunma adlarini tasir; metin We believe / In our view kaliplariyla ve According to embassy reports atiflariyla kurulur; sayfalar 25X1 isaretiyle karartilidir; belgenin basinda Next 1 Page(s) In Document Denied satiri vardir."
+    },
+    {
+      "iddia_id": "i51",
+      "cumle": "2016'da yazan S. I. Keethaponcalan Soğuk Savaş'ın bitişiyle hareketin anlamını ve önemini yitirdiğini, uluslararası sistemin kalıcı tek kutuplu bir düzene doğru gittiğine yaygın biçimde inanıldığını yazar; ama son on yılda dünyayı birden fazla bloka yeniden yapılandırabilecek yeni güç merkezleri belirdi ve kimileri ikinci bir Soğuk Savaş'tan söz ediyor.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ustveri kunyesi denetimi (F maddesi): Crossref kaydi makalenin BULGUSU icin en fazla ozet duzeyinde destek verir; abstract dolu ve savi birebir tasiyor, destek KISMIye indirildi. Abstract: With the end of the Cold War, the Non-Aligned Movement (NAM) has lost its relevance and significance ... The last decade, however, witnessed the emergence of new power-centers with the ability to restructure the world into several blocs. Now, some believe in a Second Cold War. Hakem eklemesi: son on yil ifadesi 2016dan geriye bakar; yil capasi olmadan 2026 okuru icin kayardi, 2016da yazan kondu."
+    },
+    {
+      "iddia_id": "i52",
+      "cumle": "Ona göre Güney'in ortak sorunları duruyor, kurumsal çerçeve olarak hareket hâlâ işliyor ve yeniden biçimlendirilmeye ihtiyacı var.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ayni abstract: several common challenges faced by societies of the Global South remain ... The institutional framework, the NAM is still functioning. It, however, needs to be reshaped and reenergized. Makalenin bulgusu hakkinda oldugu icin destek KISMI (F maddesi). Yazar ikincil veriyle calistigini abstractta kendisi soyler."
+    },
+    {
+      "iddia_id": "i53",
+      "cumle": "Bandung'un on ilkesi toplu savunmayı yasaklamıyor, yalnızca büyük güç çıkarına koşulmasını yasaklıyordu ve salonda Manila antlaşmasının tarafları oturuyordu.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cerceve cumlesi; iki yarisi da govdede kaynaklanmis olgulari toplar: on ilkenin besinci ve altinci maddeleri ile Manila antlasmasi taraflarinin salondaki varligi (Zhou ve Romulo pasajlari)."
+    },
+    {
+      "iddia_id": "i54",
+      "cumle": "Belgrad'ın ölçütü ittifakın varlığını değil bağlamını sınıyordu ve ölçütün kendisi dokuz günlük sert bir tartışmadan çıkmıştı.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Olcutun Soguk Savas baglami kaydi kaynakta dogrudan gecer; varligini degil baglamini sinama formulu yazarin okumasidir, bu yuzden destek kismi."
+    },
+    {
+      "iddia_id": "i55",
+      "cumle": "Hareket, on beş-yirmi kadar radikal üyeyi aşağı yukarı eşit sayıda ılımlıya karşı dizen bir başkanlık kavgasından geçti.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "On bes-yirmi radikal uye ve asagi yukari esit sayida ilimli tarifi muhtirada birebir; cumle bu sayilari degistirmeden toplar."
+    },
+    {
+      "iddia_id": "i56",
+      "cumle": "Blok seçmeyi reddetmek bir tutumdur; blok olmamak ise bildiride yazılı ve pratikte sürekli sınanan bir iddiadır.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cerceve cumlesi; blok olmama iddiasinin bildiride yazili oldugu k4te dogrudan, iddianin pratikte surekli sinandigi ise govdede k2, k3 ve k5 ile kurulmus olgularin toplanmasidir."
+    },
+    {
+      "iddia_id": "i57",
+      "cumle": "Metnin kendisi ikinci eldendir: bu derleme konferansın resmî tutanağı değil, Pasifik İlişkileri Enstitüsü'nün New York Times'tan ve Endonezya'nın BM temsilciliğinden derlediği bir seçkidir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem eklemesi. Dosyanin merkezi tezi on ilkenin tam metnine dayaniyor, ama o metin resmi tutanaktan degil bir derlemeden geliyor ve bu aktarim halkasi yalnizca kunyede duruyordu. Derlemenin kendi onsozu birebir: The texts have been reproduced from those published in the New York Times or issued by the Indonesian Mission to the United Nations, New York / No claim is made that the selection represents all important attitudes or national policies described at Bandung. Onsoz William L. Holland imzali, New York, 26 Mayis 1955."
+    },
+    {
+      "iddia_id": "i58",
+      "cumle": "Yani Sovyetler Birliği'nin adı Bandung'da salonun kendi gündemindeydi; Zhou'nun kaydına göre Irak delegesi Kominform'u da anmıştı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem duzeltmesi. Onceki cumle bu tartismayi Bati ittifaklarinin uyeleri acti diyordu; kaynak konuyu acanlarin kim oldugunu bu bicimde soylemez ve hicbirini Bati ittifaki uyesi diye nitelemez — kaynaksiz bir fail atfiydi, kaldirildi. Yerine kaynagin gercekten verdigi ad konuldu: The delegate from Iraq mentioned the Cominform. Zhou ayrica Lubnan delegesinin ideoloji tartismasini actigini kaydeder."
+    },
+    {
+      "iddia_id": "i59",
+      "cumle": "Yasaklanan, ittifakın kendisi değil ittifakın büyük güç çıkarına koşulmasıdır.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dosyanin en iddiali cumlesi; hakem bunu ayri bir iddia olarak olculebilir hale getirdi. Besinci ve altinci maddelerin metni bu okumayi tasir: 5 toplu savunma hakkina saygiyi buyurur, 6A yalnizca bu duzenlemelerin buyuk guclerin ozel cikarlarina kosulmasindan kacinmayi ister. Hakem duzeltmesi: cumlenin ardinda bu formul ittifak uyelerinin bildiriyi imzalamasini mumkun kildi diye bir nedensellik vardi; kaynakta boyle bir baglanti yok, kaldirildi."
+    },
+    {
+      "iddia_id": "i60",
+      "cumle": "Bandung'un 1955'te Birleşmiş Milletler'e yönelttiği talepler, ağırlığın orduda değil oylamada aranacağını daha o tarihte gösteriyordu.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Curutucu itirazi (orta, tek-kaynakli-nedensellik) kabul edildi. Onceki cumle Hareketin agirligi orduda degil oylamadaydi diyerek 1955 tarihli tek bir belgeden hareketin tamami hakkinda nedensel bir hukum kuruyordu; hareket o tarihte henuz yoktu. Iddia kaynagin soyledigiyle sinirlandi: k1 Bandungun BM taleplerini (evrensel uyelik, Guvenlik Konseyi temsili, 1946 Londra duzenlemesi) tasir; agirligin oylamada aranacagi okumasi yazarindir, bu yuzden destek kismi."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 54,
+    "kismi": 6,
+    "baglam": 0,
+    "celisir": 0,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

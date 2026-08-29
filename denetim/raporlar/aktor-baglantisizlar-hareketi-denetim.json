@@ -1,9 +1,9 @@
 {
   "id": "aktor-baglantisizlar-hareketi",
   "gecis": 2,
-  "zaman": "2026-08-29T19:34:07.556Z",
-  "govde_hash": "263a97460578",
-  "commit": "2dc84ff",
+  "zaman": "2026-08-29T19:52:52.447Z",
+  "govde_hash": "dbedd0f5f8ea",
+  "commit": "b8cff98",
   "sonuclar": [
     {
       "anahtar": "k5",
@@ -19,9 +19,9 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Zirveden on iki gün sonra Amerikan Büyükelçisi George Kennan'ın Yugoslav Dışişleri'yle görüşmesini aktaran telgraf, gerilimi tek karşıtlıkta toplar: Yugoslavlar",
+      "iddia": "18 Eylül 1961 tarihli bir telgraf, Amerikan Büyükelçisi George Kennan'ın Yugoslav tarafıyla görüşmesini aktarır ve gerilimi tek karşıtlıkta toplar: Yugoslavlara",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -37,9 +37,15 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Beşinci ilke her ulusun tek başına ya da toplu olarak kendini savunma hakkına saygıyı buyurur; hemen ardından gelen altıncı ilke, toplu savunma düzenlemelerinin",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Beşinci ilke her ulusun Birleşmiş Milletler Şartı'na uygun olarak tek başına ya da toplu olarak kendini savunma hakkına saygıyı buyurur; hemen ardından gelen al",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metnin kendisi ikinci eldendir: bu derleme konferansın resmî tutanağı değil, Pasifik İlişkileri Enstitüsü'nün New York Times'tan ve Endonezya'nın BM temsilciliğ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -49,15 +55,21 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Zhou açıklama için minnettar olduğunu söyledi, sonra çekincesini de kayda geçirdi: Pakistan Başbakanı Manila antlaşmasının savunma niteliğinde olduğuna inanıyor",
+      "iddia": "Zhou minnettarlığını bildirdi, sonra çekincesini kayda geçirdi: Pakistan Başbakanı Manila antlaşmasının savunma niteliğinde olduğuna inanıyordu, kendisi inanmıy",
       "durum": "OK",
       "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Aynı konuşmada Zhou, delegelerin komünist yayılma ve yıkıcı faaliyetlerden söz ederken Çin'i anmayıp yalnızca Sovyetler Birliği'ni andıklarını da kaydeder.",
+      "iddia": "Aynı konuşmada Zhou, delegelerin komünist yayılma ve yıkıcı faaliyet suçlamalarında Çin'i anmayıp yalnızca Sovyetler Birliği'ni andıklarını da kaydeder.",
       "durum": "OK",
       "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yani Sovyetler Birliği'nin adı Bandung'da salonun kendi gündemindeydi; Zhou'nun kaydına göre Irak delegesi Kominform'u da anmıştı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -73,9 +85,9 @@
     },
     {
       "anahtar": "k8",
-      "iddia": "Andrea Benvenuti'ye göre Nehru'nun konferansa razı olmasında Endonezya'nın bölgesel hesaplardaki artan ağırlığı ve toplantının bölgesel ilişkilere barış alanlar",
+      "iddia": "Andrea Benvenuti'nin bölüm özetine göre Nehru'nun konferansa razı olmasında etkili olan etkenler arasında Endonezya'nın Hindistan hesaplarındaki artan ağırlığı ",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
@@ -145,7 +157,7 @@
     },
     {
       "anahtar": "k4",
-      "iddia": "Bildiri barış ve istikrarın önemli ölçüde büyük güçlerin karşılıklı ilişkilerine bağlı olduğunu da yazıyordu.",
+      "iddia": "Bildiri barış ve istikrarın önemli ölçüde büyük güçlerin karşılıklı ilişkilerine bağlı olduğunu da yazıyordu; zirve aynı metinlerde iki güçten gecikmeksizin gen",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -163,7 +175,7 @@
     },
     {
       "anahtar": "k4",
-      "iddia": "Bu aktarımların taşıyıcısı olan kitabın kendi konumu da kayda geçmelidir: Yuri Alimov'un incelemesi Moskova'da Progress Publishers tarafından basılmış bir Sovye",
+      "iddia": "Bu aktarımların taşıyıcısı da kayda geçmelidir: Yuri Alimov'un incelemesi Moskova'da Progress Publishers'ın bastığı bir Sovyet yayınıdır, hareketi anti-emperyal",
       "durum": "OK",
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
@@ -259,9 +271,9 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "Küba başkanlık kürsüsünü ABD'yi kınamak ve Sovyetler Birliği'ni bağlantısızların \"doğal müttefiki\" diye yüceltmek için kullanmıştı; üyelik bu tezi onaylayan bir",
+      "iddia": "Muhtıraya göre Küba başkanlık kürsüsünü ABD'yi kınamak ve Sovyetler Birliği'ni bağlantısızların \"doğal müttefiki\" diye yüceltmek için kullanmıştı; üyelik bu tez",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k5",
@@ -301,15 +313,15 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "Bu değerlendirmenin Amerikan karar alıcıları için yazıldığını, kanaat bildiren kayıtlarla ve büyükelçilik raporlarına atıfla kurulduğunu, sayfalarının bir bölüm",
+      "iddia": "Bu değerlendirme Amerikan karar alıcıları için yazılmıştır, kanaat bildiren kayıtlara ve büyükelçilik raporlarına dayanır, sayfalarının bir bölümü hâlâ karartıl",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k9",
-      "iddia": "S. I. Keethaponcalan Soğuk Savaş'ın bitişiyle hareketin anlamını ve önemini yitirdiğini, uluslararası sistemin kalıcı tek kutuplu bir düzene doğru gittiğine yay",
+      "iddia": "2016'da yazan S. I. Keethaponcalan Soğuk Savaş'ın bitişiyle hareketin anlamını ve önemini yitirdiğini, uluslararası sistemin kalıcı tek kutuplu bir düzene doğru",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k9",

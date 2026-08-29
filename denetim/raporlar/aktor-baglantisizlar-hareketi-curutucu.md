@@ -1,5 +1,5 @@
 # Çürütücü raporu — aktor-baglantisizlar-hareketi
-_2026-08-29T19:23:43.857Z_
+_2026-08-29T19:52:53.013Z_
 
 ## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 
@@ -27,7 +27,7 @@ _2026-08-29T19:23:43.857Z_
 
 ## İtiraz 4 — [ciddiyet: orta] tek-kaynakli-nedensellik
 
-**Cümle:** "Hareketin ağırlığı orduda değil oylamadaydı; bunu Bandung daha 1955'te görmüştü. Konferans, [Birleşmiş Milletler](/aktor/birlesmis-milletler/) üyeliğinin evrensel olması gerektiğin"
+**Cümle:** "Bandung'un 1955'te Birleşmiş Milletler'e yönelttiği talepler, ağırlığın orduda değil oylamada aranacağını daha o tarihte gösteriyordu. Konferans, [Birleşmiş Milletler](/aktor/birle"
 
 **Sorun:** Nedensellik iddiası tek kaynağa (k1) dayanıyor.
 

@@ -1,8 +1,8 @@
 {
   "id": "aktor-baglantisizlar-hareketi",
   "gecis": 3,
-  "zaman": "2026-08-29T19:23:43.858Z",
-  "govde_hash": "263a97460578",
+  "zaman": "2026-08-29T19:52:53.014Z",
+  "govde_hash": "dbedd0f5f8ea",
   "itirazlar": [
     {
       "ciddiyet": "dusuk",
@@ -28,7 +28,7 @@
     {
       "ciddiyet": "orta",
       "tip": "tek-kaynakli-nedensellik",
-      "cumle": "Hareketin ağırlığı orduda değil oylamadaydı; bunu Bandung daha 1955'te görmüştü. Konferans, [Birleşmiş Milletler](/aktor/birlesmis-milletler/) üyeliğinin evrensel olması gerektiğin",
+      "cumle": "Bandung'un 1955'te Birleşmiş Milletler'e yönelttiği talepler, ağırlığın orduda değil oylamada aranacağını daha o tarihte gösteriyordu. Konferans, [Birleşmiş Milletler](/aktor/birle",
       "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
       "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
     },
