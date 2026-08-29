@@ -1,67 +1,367 @@
 {
   "id": "dusunur-foucault",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:52.495Z",
-  "govde_hash": "dda2c112907d",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T17:24:56.026Z",
+  "govde_hash": "32d917791489",
+  "commit": "48bd041",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kaynak onu 1926-1984 arasında yaşamış bir Fransız tarihçi ve filozof olarak kaydeder ve yapısalcı ile post-yapısalcı akımlarla ilişkilendirildiğini yazar.",
+      "iddia": "Michel Foucault'nun çalışması tek bir savla özetlenecekse bu olurdu: iktidar özünde bastırıcı değil üretkendir; davranışları, bilgi alanlarını ve nihayet özneni",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak mesleği tek bir sözcükle vermez: tarihçi ve filozof.",
+      "iddia": "Sav, cinselliğin tarihini yazarken iktidar kavramını baştan kurma zorunluluğundan doğdu ve Cinselliğin Tarihi'nin ilk cildindeki üç sayfalık önerme dizisinde fo",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Cinselliğin, Tarihi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Savın yöntem atası düşünürün kendi kaleminden okunabilir: 1969'da akıl hastalığının, onu adlandıran, bölen, betimleyen ve yargılayan bütün ifadelerce kurulduğun",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çözümleme yukarıdan aşağıya değil aşağıdan yukarıya yapılır ve asıl soru, öznelerin bu kesişen ağlar içinde nasıl kurulduğudur.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Aynı kişinin iki disiplinle birden kaydedilmesi, bu atlasın düşünür ve kavram katmanlarını neden birbirine bağladığının dayanağıdır: bir düşünürün malzemesi tar",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak onu tek bir akıma yerleştirmez; iki akımla birden ilişkilendirildiğini yazar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir düşünürün iki akım arasında kaydedilmesi, atlasın etiket alanlarını neden kaynağın verdiği biçimde tuttuğunu gösterir; okul adları sonradan çekilmiş sınırla",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Aynı on yıllarda tarih yazan bir başka Fransız yazar için tutulan kayıt, o yazarın zamanı katmanlara ayırdığını ve olayları en yüzeydeki katmana yerleştirdiğini",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Fransız"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Atlas iki yazar arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "anahtar": "k10",
+      "iddia": "Bu kavramların kuramsal yapısı sıkı değildir ama işlevleri son derece kesindir; alışkanlıkla kabul edilen hazır bireşimler önce yalnızca dağınık olaylar yığını ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Atlas iki yazar arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "iddia": "Kullanılan ansiklopedi maddesinin kaydına göre yirmi birinci yüzyılın ilk on yılında beşeri bilimlerde en çok atıf alan yazar oydu; asıl eğitimini aldığı ve son",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Cinselliğin Tarihi'nin birinci cildi bir reddiye ile açılır: bastırma hipotezinin, yani Viktorya çağında cinselliğin bastırıldığı ve onun üzerine konuşmanın sus",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tarihi, Viktorya"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Foucault'ya göre modern toplumun cinselliğe karşı asıl tutumu bastırma değildi; cinsellik tıbbi, hukuki ve psikolojik yeni söylem türlerinin nesnesi haline geld",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1960'ların ve 1970'lerin yaygın görüşü, doğal ve sağlıklı bir cinselliğin burjuva ahlakı ve kapitalist yapılar tarafından bastırıldığı, dolayısıyla kurtarılması",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Foucault bu programı temelden yanlış buluyordu: kurtarılacak otantik bir cinsellik yoktu, çünkü cinsellik deneyimimiz zaten kültürel uzlaşımların ve iktidar mek",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çözümlemenin sık düşürülen çekincesi de buradadır: bir norm kümesinden kurtulmak yalnızca bir başkasını benimsemek anlamına gelir ve yeni normlar en az öncekile",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İktidar-bilgi kavramı, bilginin sınıf iktidarınca çarpıtıldığını söyleyen ideoloji kavramının yerine kuruldu; iktidardan ayrı saf bir bilgi yoktur, ama bilginin",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Siyaset kuramının hâlâ mutlak monarşiden devralınan bir iktidar tasavvuruna — tepesinde bir kişi olan piramide, olumsuz yaptırımla işleyen bir mekanizmaya — tak",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ayrılık göründüğü kadar temiz değildir: Foucault'nun Sartre'ı reddedişinde fazla ısrar edilmiş bir yan vardır ve iki eserin ilişkisi kapanmış bir soru sayılmaz.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Arkeoloji, bilgi ve düşünce dizgelerinin bireysel öznelerin bilincinin altında işleyen kurallarca yönetildiğini varsayar; bu kurallar belirli bir alan ve dönemd",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Foucault bir ifade kümesini neyin birleştirdiğine dair dört varsayımı — ortak nesne, ortak ifade biçimi, ortak kavram dizgesi, kalıcı izlek — sırayla denedi ve ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Geriye dağılımın kendisini betimlemek kalıyordu: bir ifade kümesinde düzenlilik saptanabildiği her yerde buna — bilim, ideoloji, kuram gibi yüklü sözcüklerden k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yöntemin işlevi açıktır: bireysel bilincin önceliğine dayanmayan bir mümkün kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Foucault bu programı ilan ederken sonucunu güvence altına almadı: risklerin hatırı sayılır olduğunun farkında olduğunu, işe başlarken kullandığı tanıdık kümeler",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Nesnenin nasıl kurulduğunu soruşturması da aynı ölçülüdür: on dokuzuncu yüzyıl ruh patolojisinde ortaya çıkış yüzeylerini — kendi çekincesiyle muhtemelen aile, ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yöntemin sınırı ansiklopedi kaydında da durur: arkeolojinin eleştirel gücü farklı dönemlerin söylemsel oluşumlarını karşılaştırmakla sınırlıdır; bir düşünme biç",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Nietzsche'den alınan adın çağrıştırdığı gibi soykütüğünün amacı, bir düşünce dizgesinin akılca kaçınılmaz eğilimlerin sonucu değil, olumsal tarihsel dönemeçleri",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Buna şimdinin tarihi de denir: anlatı bugünden çok önce durur, ama sorusunu bugün sorar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Disiplin üç teknikle işler: hiyerarşik gözlem, normalleştirici yargı ve sınav.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Modern cezalandırma dizgesinin ayırt edici yanı, yapılanla değil yapılmayanla — gerekli ölçüye ulaşamamayla — ilgilenmesidir; amacı intikam değil, toplumun ölçü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sınav ise gözlemle yargıyı birleştirir: hem sınananın hakkındaki doğruyu söyler hem de davranışını yönetir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Foucault'ya göre on yedinci yüzyıldan itibaren bu iktidar tamamen ortadan kalkmadı; kısmen tamamlandı ve kısmen yerini yaşamı yönetmeyi ve çoğaltmayı amaçlayan ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sonucu, hukukun yerine normun ağırlık kazanmasıdır; kavramının siyaset kuramındaki merkeziliği tam da bu yüzden sorgulanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yönetmek sonunda iktidarın tercih edilen adı olur ve yönetimsellik, modern iktidarın akılsallığını, tekniklerini ve usullerini çözümlemenin başlıca aracına dönü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu, kurumların akılcılaşmasını inceleyen çizgisiyle kesişir ama onunla örtüşmez: Foucault'nun sorduğu, kurumun ne kadar akılcı olduğu değil, hangi akılsallığın ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Feminist okurların en sık dile getirdiği itirazlar iki başlıkta toplanır: öznenin iktidarca kurulmuş sayılması ve eleştirinin dayandığı normların açıkça ortaya ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Aynı yüzyılın bir başka siyaset yazarı için tutulan kayıt, onu yirminci yüzyılın en etkili siyaset filozoflarından biri olarak verir.",
+      "iddia": "Nancy Fraser'a göre bireyler yalnızca iktidarın etkisiyse, salt uysal bedenlerse, direnenin kim olduğunu açıklamak güçleşir; Fraser bu nedenle Foucault'nun ikti",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Nancy Hartsock bunu genişletir ve şunu sorar: susturulmuş olanlar kendilerini adlandırma hakkını istemeye başlarken \"tam o anda öznelik kavramı neden sorunlu ha",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Nancy Hartsock bunu genişletir ve şunu sorar: susturulmuş olanlar kendilerini adlandırma hakkını istemeye başlarken \"tam o anda öznelik kavramı neden sorunlu ha",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Lois McNay, Foucault'nun modelinin bedenin iktidardan kurtarılmasını dışlasa da mevcut cinsellik ve cinsiyet ilişkilerinin dönüştürülebileceği olasılığına yer b",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Jana Sawicki ise bu kullanımın Foucault'nun kendi sorununu miras aldığını, disiplini her yerde ve kaçınılmaz gösterdiği için etkili direnişi açıklayamadığını be",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Charles Taylor, Nietzsche okumasından yola çıkan eleştirmenler arasında Foucault'yu kendi kanısınca en ilginç olanı sayar ve ömrünün sonunda benimsediği duruşun",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "İtiraz buradan doğar: bu duruş, bilginin dayatılmış hakikat rejimlerine göreli olduğu okumasına bağlıdır ve o okumanın rakibinden üstün olduğunu göstermesi gere",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k13",
+      "iddia": "Thomas Biebricher'in okumasına göre Habermas orada Foucault'nun soykütük tasarısını temelden yanlış anlar: Foucault'nun tarihe kesinlikle bilimsel bir yaklaşım ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k14",
+      "iddia": "Niko Kolodny bu adı bir savunmaya çevirir; ona göre geç dönem Foucault normlardan çok kuramdan kuşkuluydu ve normatif kuramdan kaçınması onu yararsız ya da bask",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Habermas'ın kendi kaydında itiraz Foucault'ya tek başına değil, genel olarak söylendiğinde Foucault, Derrida ve Rorty kümesine atfedilir: aklın tarihsel ve kült",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Görelilikçi yazgıcılık suçlaması ve Foucault'nun buna verdiği karşılıklar — sonuççu akıl yürütmeye başvurması, meşru siyasal amaçlara dair imaları — Bentham ile",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Jeremy Bentham'ın panoptikonu Hapishanenin Doğuşu'nda modern disiplinci iktidarın örnek mimari modeli olarak ele alınır: her mahkûm ötekilerden ayrı ve görünmez",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Foucault sık sık bir panoptisizm kuramcısı olarak sunulur; oysa kitabın asıl teması, on yedinci yüzyılda profesyonel askerlikle devlet tarafından benimsenen, so",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kitabın hapishaneye dair vardığı sonuç daha da serttir: hapishane, nesnel işlevi suçluluk ve mükerrer suç üretmek olan bir kurumdur ve cezaevi reformu çağrısı b",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Panoptikonun kitaptaki yeri katalog kaydından bile görülebilir: Pantheon Books'un 1977'de bastığı, Surveiller et punir'in çevirisi olan 333 sayfalık baskı dört ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Foucault'nun kitaptan ansiklopedi maddesine aktarılan cümlesi de mimariye değil hesaba işaret eder: modern reformun amacı \"belki daha az cezalandırmak; ama kesi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Petra Gehring'in yeniden okuması, Foucault'nun disiplin tekniklerinde bakışın merkezî bir yer tutmadığını savunur ve şu sonucu çıkarır: \"panoptisizm dijital ikt",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bir Brezilya kentindeki kapalı devre kamera dizgesi üzerine yapılan etnografik çalışma ise iki yönlü bir sonuç verir: yurttaşların gözetime kayıtsız kalması, ço",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Brezilya"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Foucault iktidarın, ezici kısıtlamalardan kurulu belirlenimci bir dizge oluşturduğunu savunmaz; ona göre iktidar istikrarsız bir pratikler ağı olarak anlaşılmal",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bilgi arkeolojisi, iktidar çözümlemesi, cezalandırma ve cinsellik tarihi üzerine çalışmaları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı",
+      "iddia": "Son dönem çalışmalarında özneye tanınan pay daha da belirgindir: özneler yalnızca iktidar tarafından kurulmaz, kendi kuruluşlarına katılır, kendilik pratikleriy",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Pieter Spierenburg'ün değerlendirmesine göre Foucault'nun ceza dizgesinde 1760 ile 1840 arasında ani ve bütünsel bir değişim olduğu düşüncesi gerçekle bağdaşmaz",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "İtiraz tek yönlü değildir: aynı yazı, Foucault'nun 1975 tarihli çalışmasının desteklemediği görüşlerin ona — özellikle revizyonist hapishane tarihçileri eliyle ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Louis'ye suikast girişimi yüzünden Paris'te parçalanarak idam edilen Robert-François Damiens'in betimlemesiyle başlar; Spierenburg bu dramın, suçluların çoğunun",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Foucault ölümünden sonra hazırlamadığı yazıların yayımlanmamasını açıkça istemişti; mirasçıları Collège de France derslerini bu kuralın dışında tuttu ve kısıtla",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sonuçta ne hazırladığı ne onayladığı el yazmaları, notlar ve söyleşiler basıldı; bu külliyat düşüncesinin yorumunu yeniden tartışmaya açtı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Güvenlik, Toprak, Nüfus (1977-1978) ve Biyopolitikanın Doğuşu (1978-1979) yönetimsellik kavramını getirdi; ikincisinde Foucault, Gary Becker'ın beşeri sermaye k",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Foucault bu iki ders dizisinde geliştirdiği malzemeyi hiç yayımlamadı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bu yüzden bugün Foucault iki ayrı masada anılıyor: kendi okurlarının panoptikonu budamaya çalıştığı gözetim tartışmasında ve devletin, piyasanın, uzmanlığın bir",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üçünde de sorusu aynı kalıyor: bu düzenlemeyi haklı çıkaran akılsallık hangisidir ve o akılsallık sorgulanabilir mi?",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

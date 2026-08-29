@@ -1,15 +1,65 @@
 ## dusunur-foucault
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.495Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T17:24:56.026Z_
 
-- [OK]      k1 → "Kaynak onu 1926-1984 arasında yaşamış bir Fransız tarihçi ve filozof olarak kaydeder ve yapısalcı ile post-yap…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Kaynak mesleği tek bir sözcükle vermez: tarihçi ve filozof." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Aynı kişinin iki disiplinle birden kaydedilmesi, bu atlasın düşünür ve kavram katmanlarını neden birbirine bağ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak onu tek bir akıma yerleştirmez; iki akımla birden ilişkilendirildiğini yazar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir düşünürün iki akım arasında kaydedilmesi, atlasın etiket alanlarını neden kaynağın verdiği biçimde tuttuğu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Aynı on yıllarda tarih yazan bir başka Fransız yazar için tutulan kayıt, o yazarın zamanı katmanlara ayırdığın…" — programatik olarak ölçülemedi (ad karşılığı yok): Fransız
-- [ATOMSUZ] k1 → "Atlas iki yazar arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas iki yazar arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Aynı yüzyılın bir başka siyaset yazarı için tutulan kayıt, onu yirminci yüzyılın en etkili siyaset filozofları…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bilgi arkeolojisi, iktidar çözümlemesi, cezalandırma ve cinsellik tarihi üzerine çalışmaları burada ayrı başlı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Michel Foucault'nun çalışması tek bir savla özetlenecekse bu olurdu: iktidar özünde bastırıcı değil üretkendir…"
+- [ATOMSUZ] k1 → "Sav, cinselliğin tarihini yazarken iktidar kavramını baştan kurma zorunluluğundan doğdu ve Cinselliğin Tarihi'…" — programatik olarak ölçülemedi (ad karşılığı yok): Cinselliğin, Tarihi
+- [OK]      k10 → "Savın yöntem atası düşünürün kendi kaleminden okunabilir: 1969'da akıl hastalığının, onu adlandıran, bölen, be…"
+- [ATOMSUZ] k1 → "Çözümleme yukarıdan aşağıya değil aşağıdan yukarıya yapılır ve asıl soru, öznelerin bu kesişen ağlar içinde na…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k10 → "Bu kavramların kuramsal yapısı sıkı değildir ama işlevleri son derece kesindir; alışkanlıkla kabul edilen hazı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kullanılan ansiklopedi maddesinin kaydına göre yirmi birinci yüzyılın ilk on yılında beşeri bilimlerde en çok …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Cinselliğin Tarihi'nin birinci cildi bir reddiye ile açılır: bastırma hipotezinin, yani Viktorya çağında cinse…" — programatik olarak ölçülemedi (ad karşılığı yok): Tarihi, Viktorya
+- [ATOMSUZ] k1 → "Foucault'ya göre modern toplumun cinselliğe karşı asıl tutumu bastırma değildi; cinsellik tıbbi, hukuki ve psi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "1960'ların ve 1970'lerin yaygın görüşü, doğal ve sağlıklı bir cinselliğin burjuva ahlakı ve kapitalist yapılar…"
+- [ATOMSUZ] k1 → "Foucault bu programı temelden yanlış buluyordu: kurtarılacak otantik bir cinsellik yoktu, çünkü cinsellik dene…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Çözümlemenin sık düşürülen çekincesi de buradadır: bir norm kümesinden kurtulmak yalnızca bir başkasını benims…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "İktidar-bilgi kavramı, bilginin sınıf iktidarınca çarpıtıldığını söyleyen ideoloji kavramının yerine kuruldu; …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Siyaset kuramının hâlâ mutlak monarşiden devralınan bir iktidar tasavvuruna — tepesinde bir kişi olan piramide…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Ayrılık göründüğü kadar temiz değildir: Foucault'nun Sartre'ı reddedişinde fazla ısrar edilmiş bir yan vardır …"
+- [ATOMSUZ] k1 → "Arkeoloji, bilgi ve düşünce dizgelerinin bireysel öznelerin bilincinin altında işleyen kurallarca yönetildiğin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k10 → "Foucault bir ifade kümesini neyin birleştirdiğine dair dört varsayımı — ortak nesne, ortak ifade biçimi, ortak…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k10 → "Geriye dağılımın kendisini betimlemek kalıyordu: bir ifade kümesinde düzenlilik saptanabildiği her yerde buna …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Yöntemin işlevi açıktır: bireysel bilincin önceliğine dayanmayan bir mümkün kılar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k10 → "Foucault bu programı ilan ederken sonucunu güvence altına almadı: risklerin hatırı sayılır olduğunun farkında …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k10 → "Nesnenin nasıl kurulduğunu soruşturması da aynı ölçülüdür: on dokuzuncu yüzyıl ruh patolojisinde ortaya çıkış …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Yöntemin sınırı ansiklopedi kaydında da durur: arkeolojinin eleştirel gücü farklı dönemlerin söylemsel oluşuml…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Nietzsche'den alınan adın çağrıştırdığı gibi soykütüğünün amacı, bir düşünce dizgesinin akılca kaçınılmaz eğil…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Buna şimdinin tarihi de denir: anlatı bugünden çok önce durur, ama sorusunu bugün sorar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Disiplin üç teknikle işler: hiyerarşik gözlem, normalleştirici yargı ve sınav." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Modern cezalandırma dizgesinin ayırt edici yanı, yapılanla değil yapılmayanla — gerekli ölçüye ulaşamamayla — …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Sınav ise gözlemle yargıyı birleştirir: hem sınananın hakkındaki doğruyu söyler hem de davranışını yönetir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Foucault'ya göre on yedinci yüzyıldan itibaren bu iktidar tamamen ortadan kalkmadı; kısmen tamamlandı ve kısme…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Sonucu, hukukun yerine normun ağırlık kazanmasıdır; kavramının siyaset kuramındaki merkeziliği tam da bu yüzde…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Yönetmek sonunda iktidarın tercih edilen adı olur ve yönetimsellik, modern iktidarın akılsallığını, teknikleri…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Bu, kurumların akılcılaşmasını inceleyen çizgisiyle kesişir ama onunla örtüşmez: Foucault'nun sorduğu, kurumun…"
+- [ATOMSUZ] k3 → "Feminist okurların en sık dile getirdiği itirazlar iki başlıkta toplanır: öznenin iktidarca kurulmuş sayılması…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Nancy Fraser'a göre bireyler yalnızca iktidarın etkisiyse, salt uysal bedenlerse, direnenin kim olduğunu açıkl…"
+- [OK]      k3 → "Nancy Hartsock bunu genişletir ve şunu sorar: susturulmuş olanlar kendilerini adlandırma hakkını istemeye başl…"
+- [OK]      k3 → "Nancy Hartsock bunu genişletir ve şunu sorar: susturulmuş olanlar kendilerini adlandırma hakkını istemeye başl…"
+- [OK]      k3 → "Lois McNay, Foucault'nun modelinin bedenin iktidardan kurtarılmasını dışlasa da mevcut cinsellik ve cinsiyet i…"
+- [OK]      k3 → "Jana Sawicki ise bu kullanımın Foucault'nun kendi sorununu miras aldığını, disiplini her yerde ve kaçınılmaz g…"
+- [OK]      k8 → "Charles Taylor, Nietzsche okumasından yola çıkan eleştirmenler arasında Foucault'yu kendi kanısınca en ilginç …"
+- [OK]      k8 → "İtiraz buradan doğar: bu duruş, bilginin dayatılmış hakikat rejimlerine göreli olduğu okumasına bağlıdır ve o …" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k13 → "Thomas Biebricher'in okumasına göre Habermas orada Foucault'nun soykütük tasarısını temelden yanlış anlar: Fou…"
+- [OK]      k14 → "Niko Kolodny bu adı bir savunmaya çevirir; ona göre geç dönem Foucault normlardan çok kuramdan kuşkuluydu ve n…"
+- [OK]      k9 → "Habermas'ın kendi kaydında itiraz Foucault'ya tek başına değil, genel olarak söylendiğinde Foucault, Derrida v…"
+- [OK]      k7 → "Görelilikçi yazgıcılık suçlaması ve Foucault'nun buna verdiği karşılıklar — sonuççu akıl yürütmeye başvurması,…"
+- [OK]      k1 → "Jeremy Bentham'ın panoptikonu Hapishanenin Doğuşu'nda modern disiplinci iktidarın örnek mimari modeli olarak e…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k2 → "Foucault sık sık bir panoptisizm kuramcısı olarak sunulur; oysa kitabın asıl teması, on yedinci yüzyılda profe…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kitabın hapishaneye dair vardığı sonuç daha da serttir: hapishane, nesnel işlevi suçluluk ve mükerrer suç üret…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Panoptikonun kitaptaki yeri katalog kaydından bile görülebilir: Pantheon Books'un 1977'de bastığı, Surveiller …"
+- [ATOMSUZ] k1 → "Foucault'nun kitaptan ansiklopedi maddesine aktarılan cümlesi de mimariye değil hesaba işaret eder: modern ref…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Petra Gehring'in yeniden okuması, Foucault'nun disiplin tekniklerinde bakışın merkezî bir yer tutmadığını savu…"
+- [ATOMSUZ] k6 → "Bir Brezilya kentindeki kapalı devre kamera dizgesi üzerine yapılan etnografik çalışma ise iki yönlü bir sonuç…" — programatik olarak ölçülemedi (ad karşılığı yok): Brezilya
+- [ATOMSUZ] k1 → "Foucault iktidarın, ezici kısıtlamalardan kurulu belirlenimci bir dizge oluşturduğunu savunmaz; ona göre iktid…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Son dönem çalışmalarında özneye tanınan pay daha da belirgindir: özneler yalnızca iktidar tarafından kurulmaz,…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k11 → "Pieter Spierenburg'ün değerlendirmesine göre Foucault'nun ceza dizgesinde 1760 ile 1840 arasında ani ve bütüns…"
+- [OK]      k11 → "İtiraz tek yönlü değildir: aynı yazı, Foucault'nun 1975 tarihli çalışmasının desteklemediği görüşlerin ona — ö…"
+- [OK]      k12 → "Louis'ye suikast girişimi yüzünden Paris'te parçalanarak idam edilen Robert-François Damiens'in betimlemesiyle…"
+- [OK]      k1 → "Foucault ölümünden sonra hazırlamadığı yazıların yayımlanmamasını açıkça istemişti; mirasçıları Collège de Fra…"
+- [ATOMSUZ] k1 → "Sonuçta ne hazırladığı ne onayladığı el yazmaları, notlar ve söyleşiler basıldı; bu külliyat düşüncesinin yoru…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Güvenlik, Toprak, Nüfus (1977-1978) ve Biyopolitikanın Doğuşu (1978-1979) yönetimsellik kavramını getirdi; iki…" — 4 atom doğrulandı; 4 ad ölçülemedi
+- [ATOMSUZ] k1 → "Foucault bu iki ders dizisinde geliştirdiği malzemeyi hiç yayımlamadı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Bu yüzden bugün Foucault iki ayrı masada anılıyor: kendi okurlarının panoptikonu budamaya çalıştığı gözetim ta…"
+- [ATOMSUZ] k1 → "Üçünde de sorusu aynı kalıyor: bu düzenlemeyi haklı çıkaran akılsallık hangisidir ve o akılsallık sorgulanabil…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 1 OK · 0 ISARET · 0 HATA · 9 ATOMSUZ
+**Özet:** 25 OK · 0 ISARET · 0 HATA · 35 ATOMSUZ

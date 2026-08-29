@@ -1,0 +1,791 @@
+{
+  "id": "dusunur-foucault",
+  "govde_hash": "957f6e8e1d81",
+  "commit": "b55f00c",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Michel Foucault'nun çalışması tek bir savla özetlenecekse bu olurdu: iktidar özünde bastırıcı değil üretkendir; davranışları, bilgi alanlarını ve nihayet öznenin kendisini üretir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem: kaynakta gecmeyen \"otuz yila yayilan\" olcusu cikarildi; kaynak \"power is not essentially repressive but productive\" der"
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Sav, cinselliğin tarihini yazarken iktidar kavramını baştan kurma zorunluluğundan doğdu ve *Cinselliğin Tarihi*'nin ilk cildindeki üç sayfalık önerme dizisinde formüle edildi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem: kaynak \"over three pages\" der; \"birkac sayfa\" yerine kaynagin olcusu yazildi"
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Çözümleme yukarıdan aşağıya değil aşağıdan yukarıya yapılır ve asıl soru, öznelerin bu kesişen ağlar içinde nasıl kurulduğudur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Psikoloji ve psikoloji tarihi formasyonuyla yetişen, kitaplarının çoğu tıp ve toplum bilimlerinin tarihi olan bir yazarın felsefeye ait sayılıp sayılmayacağı tartışılabilir; yine de çalışmaları felsefenin eleştirel işini yeni ve tarihsel bir tarzda sürdürmek olarak okunabilir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Kullanılan ansiklopedi maddesinin kaydına göre yirmi birinci yüzyılın ilk on yılında beşeri bilimlerde en çok atıf alan yazar oydu; asıl eğitimini aldığı ve sonunda kendini bağladığı felsefe alanında ise durum böyle değildi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak simdiki zamanla yazar; metin gecmis zamanla aktarir. Hakem: \"en cok atif alan\" ustunluk iddiasi tek kaynaga dayandigi icin atif cercevesi eklendi"
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "*Cinselliğin Tarihi*'nin birinci cildi bir reddiye ile açılır: bastırma hipotezinin, yani Viktorya çağında cinselliğin bastırıldığı ve onun üzerine konuşmanın susturulduğu fikrinin reddiyle.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Foucault'ya göre modern toplumun cinselliğe karşı asıl tutumu bastırma değildi; cinsellik tıbbi, hukuki ve psikolojik yeni söylem türlerinin nesnesi haline geldi ve üzerine konuşma gerçekte arttı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "1960'ların ve 1970'lerin yaygın görüşü, doğal ve sağlıklı bir cinselliğin burjuva ahlakı ve kapitalist yapılar tarafından bastırıldığı, dolayısıyla kurtarılması gerektiğiydi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Foucault bu programı temelden yanlış buluyordu: kurtarılacak otantik bir cinsellik yoktu, çünkü cinsellik deneyimimiz zaten kültürel uzlaşımların ve iktidar mekanizmalarının ürünüydü.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Çözümlemenin sık düşürülen çekincesi de buradadır: bir norm kümesinden kurtulmak yalnızca bir başkasını benimsemek anlamına gelir ve yeni normlar en az öncekiler kadar denetleyici, en az onlar kadar normalleştirici çıkabilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin \"yeni normlar da en az oncekiler kadar denetleyici cikabilir\" cekincesi metne tasindi"
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "İktidar-bilgi kavramı, bilginin sınıf iktidarınca çarpıtıldığını söyleyen ideoloji kavramının yerine kuruldu; iktidardan ayrı saf bir bilgi yoktur, ama bilginin de iktidara indirgenemez bir ağırlığı vardır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Siyaset kuramının mutlak monarşiden devralınan bir iktidar tasavvuruna — tepesinde bir kişi olan piramide — takılı kaldığını, dolayısıyla kuramda kralın kafasının kesilmesi gerektiğini savundu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Ayrılık göründüğü kadar temiz değildir: Foucault'nun Sartre'ı reddedişinde fazla ısrar edilmiş bir yan vardır ve iki eserin ilişkisi kapanmış bir soru sayılmaz.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin \"fazla israr edilmis bir yan var, soru hala verimli\" cekincesi korundu"
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Arkeoloji, bilgi ve düşünce dizgelerinin bireysel öznelerin bilincinin altında işleyen kurallarca yönetildiğini varsayar; bu kurallar belirli bir alan ve dönemde düşünülebilecek olanın sınırlarını çizer.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Yöntemin işlevi açıktır: bireysel bilincin önceliğine dayanmayan bir [tarih yazımını](/kavram/tarih-yazimi/) mümkün kılar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Yöntemin sınırı ansiklopedi kaydında da durur: arkeolojinin eleştirel gücü farklı dönemlerin söylemsel oluşumlarını karşılaştırmakla sınırlıdır; bir düşünme biçiminden ötekine geçişin nedenleri hakkında hiçbir şey söyleyemez.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Arkeolojinin gecis nedenlerini aciklayamadigi sinirlamasi kaynakta acikca yazilidir"
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Nietzsche'den alınan adın çağrıştırdığı gibi soykütüğünün amacı, bir düşünce dizgesinin akılca kaçınılmaz eğilimlerin sonucu değil, olumsal tarihsel dönemeçlerin ürünü olduğunu göstermektir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Buna *şimdinin tarihi* de denir: anlatı bugünden çok önce durur, ama sorusunu bugün sorar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "*Disiplin* üç teknikle işler: hiyerarşik gözlem, normalleştirici yargı ve sınav.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Modern cezalandırma dizgesinin ayırt edici yanı, yapılanla değil yapılmayanla — gerekli ölçüye ulaşamamayla — ilgilenmesidir; amacı intikam değil, toplumun ölçülerine göre yaşatan bir ıslahtır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Normalleştirme yalnızca hapishaneye ait değildir: eğitim programlarının, tıbbi pratiğin, sınai süreç ve ürünlerin ulusal standartları aynı mantığı taşır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Sınav ise gözlemle yargıyı birleştirir ve iktidar-bilgi kavramının en berrak örneğidir: hem sınananın hakkındaki doğruyu söyler hem de davranışını yönetir; sonuçlar belgelere geçirilir, belgelerden ortalamalar ve normlar çıkarılır, normlar yeni bilginin zemini olur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Egemen iktidar esas olarak eksiltmeyle işliyordu: ulusun servetinden pay almak, uyruğun zamanını, gücünü ve nihayetinde canını istemek.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Foucault'ya göre on yedinci yüzyıldan itibaren bu iktidar tamamen ortadan kalkmadı; kısmen tamamlandı ve kısmen yerini yaşamı yönetmeyi ve çoğaltmayı amaçlayan bir biçime bıraktı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin \"kismen tamamlandi, kismen yerini birakti\" ifadesi korundu; egemen iktidar ortadan kalkmis sayilmadi"
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Sonucu, hukukun yerine normun ağırlık kazanmasıdır; [egemenlik](/kavram/egemenlik/) kavramının siyaset kuramındaki merkeziliği tam da bu yüzden sorgulanır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Normun hukukun onune gecmesi kaynakta dogrudan; egemenlik kavraminin siyaset kuramindaki merkeziliginin sorgulanmasi yazarin cikarimidir"
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Yönetmek sonunda iktidarın tercih edilen adı olur ve yönetimsellik, modern iktidarın akılsallığını, tekniklerini ve usullerini çözümlemenin başlıca aracına dönüşür.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Çözümleme modern devlette birbirine karşıt görünen iki eğilim saptar: bir yanda örgütlü bir bürokrasiyle merkezileşme, öte yanda kişinin yaşamına dair bireyselleştirici bilgiye dayanan *pastoral* iktidar — beslenmeye, ruh sağlığına, cinsel pratiklere uzanan gündelik müdahale.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Bu, kurumların akılcılaşmasını inceleyen [Max Weber](/dusunur/weber/) çizgisiyle kesişir ama onunla örtüşmez: Foucault'nun sorduğu, kurumun ne kadar akılcı olduğu değil, hangi akılsallığın onu haklı çıkardığıdır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yonetim akilsalliginin sorgulanmasi kaynakta dogrudan; Weber ile karsilastirma yazarindir"
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Feminist okurların en sık dile getirdiği itirazlar iki başlıkta toplanır: öznenin iktidarca kurulmuş sayılması ve eleştirinin dayandığı normların açıkça ortaya konmaması.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak itirazlari feminist okurlarla sinirlar; metin bu sinirlamayi tasir"
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Nancy Fraser'a göre bireyler yalnızca iktidarın etkisiyse, salt uysal bedenlerse, direnenin kim olduğunu açıklamak güçleşir; Fraser bu nedenle Foucault'nun iktidar her zaman direniş üretir savını tutarsız bulur ve normatif yansızlığının, tahakkümü eleştirmek ve toplumsal değişime yön vermek için gereken kaynakları sağlamadığını söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Nancy Hartsock bunu genişletir ve şunu sorar: susturulmuş olanlar kendilerini adlandırma hakkını istemeye başlarken \"tam o anda öznelik kavramı neden sorunlu hale geliyor?\" Kate Soper ise doğal beden fikrinden vazgeçmenin sonuçlarından çekinir; anti-özcülüğün gericiliğe hizmet *edebileceğini* söyler — kesin bir suçlama değil, koşullu bir uyarı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Lois McNay, Foucault'nun modelinin bedenin iktidardan kurtarılmasını dışlasa da mevcut cinsellik ve cinsiyet ilişkilerinin dönüştürülebileceği olasılığına yer bıraktığını savunur; Sandra Bartky ve Susan Bordo normalleştirici disiplin kavramını kadın bedeninin denetimini çözümlemek için kullanır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Jana Sawicki ise bu kullanımın Foucault'nun kendi sorununu miras aldığını, disiplini her yerde ve kaçınılmaz gösterdiği için etkili direnişi açıklayamadığını belirtir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Charles Taylor'ın 1984'te *Political Theory* dergisinde yayımlanan *Foucault on Freedom and Truth* yazısı, özgürlük ve hakikat sorusunu doğrudan Foucault'ya yöneltir; kaydın kendisi yalnızca yazar, yıl, dergi ve başlık bilgisini taşır, makalenin savını değil.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yazar, yil, dergi ve baslik kunye kaydinda dogrudan; makalenin savina dair iddia kayittan cikmaz ve cumle bunu acikca soyler"
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Habermas'ın kendi kaydında itiraz Foucault'ya tek başına değil, genel olarak söylendiğinde Foucault, Derrida ve Rorty kümesine atfedilir: aklın tarihsel ve kültürel olarak olumsal bir toplumsal biçimden ibaret sayılması, evrensel geçerlikte ahlak ve hakikat fikirlerinin iktidarın etnik-merkezci izdüşümlerine indirgenmesi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin \"genel olarak soylendiginde\" kaydi ve uc adin birlikte anilmasi korundu"
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Habermas bu meydan okumaya karşılık vermeye çalışmıştır ve postmodernizmle sürdürdüğü tartışma, kendi çalışmasının en uzun soluklu hattı sayılır; [kamusal alan](/kavram/kamusal-alan/) kavramıyla Foucault'nun söylem çözümlemesi arasındaki gerilim buradan doğar.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Habermas-postmodernizm tartismasi kaynakta dogrudan; kamusal alan ile soylem cozumlemesi arasindaki gerilim yazarin baglantisidir"
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Görelilikçi yazgıcılık suçlaması ve Foucault'nun buna verdiği karşılıklar — sonuççu akıl yürütmeye başvurması, meşru siyasal amaçlara dair imaları — Bentham ile Foucault arasındaki ortaklıkları inceleyen bir çalışmada ayrıca ele alınmıştır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Makalenin asil konusu Bentham-Foucault ortakligidir; suclama ve karsiliklar ozet alaninda anilir"
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Jeremy Bentham'ın panoptikonu *Hapishanenin Doğuşu*'nda modern disiplinci iktidarın örnek mimari modeli olarak ele alınır: her mahkûm ötekilerden ayrı ve görünmez, merkezi kuledeki gardiyana ise her an görünürdür; gardiyan aslında her mahkûmu her an görmez, önemli olan görebilecek olmasıdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Buradan çıkan sonuç, denetimin fiili gözetimden çok gözetlenme olasılığının içselleştirilmesiyle sağlandığıdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Foucault sık sık bir *panoptisizm kuramcısı* olarak sunulur; oysa kitabın asıl teması, on yedinci yüzyılda profesyonel askerlikle devlet tarafından benimsenen, sonra fabrikadaki iş bölümü ve zorunlu eğitim yoluyla topluma yayılan tarihsel bir iktidar biçimi olarak disiplindir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Kitabın hapishaneye dair vardığı sonuç daha da serttir: hapishane, nesnel işlevi suçluluk ve mükerrer suç üretmek olan bir kurumdur ve cezaevi reformu çağrısı bu dizgenin dışında değil, ayrılmaz ve kalıcı bir parçasıdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Panoptikonun kitaptaki yeri katalog kaydından bile görülebilir: Pantheon Books'un 1977'de bastığı, Surveiller et punir'in çevirisi olan 333 sayfalık baskı dört bölümdür ve Panopticism, üçüncü bölümün üç alt başlığından yalnızca biridir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katalog kaydi: basim yeri ve yili, ceviri notu, sayfa sayisi ve icindekiler dokumu; eserin icerigine dair iddia tasimaz"
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Foucault'nun kitaptan ansiklopedi maddesine aktarılan cümlesi de mimariye değil hesaba işaret eder: modern reformun amacı \"belki daha az cezalandırmak; ama kesinlikle daha iyi cezalandırmak\" olmuştur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alinti kaynaktaki Ingilizce ibarenin cevirisidir (dokuz kelime). Hakem: aktarim halkasi metinde acikca soylendi — birincil cumle SEP maddesinden aktarilmistir, esere dogrudan bakilmamistir"
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Petra Gehring'in yeniden okuması, Foucault'nun disiplin tekniklerinde bakışın merkezî bir yer tutmadığını savunur ve şu sonucu çıkarır: \"panoptisizm dijital iktidar teknolojilerini anlamak için ana anahtar sunmaz.\" Bu bir tek yazarın yeniden okumasıdır, yerleşmiş bir sonuç değil.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tek bir yazarin yeniden okumasidir; metin bunu ayrica soyler"
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Bir Brezilya kentindeki kapalı devre kamera dizgesi üzerine yapılan etnografik çalışma ise iki yönlü bir sonuç verir: yurttaşların gözetime kayıtsız kalması, çoğu zaman farkında bile olmaması panoptikon kullanımını sorunlu kılar; buna karşılık kameraların kamusal alandaki varlığı, kamusal alanı normalleştirme eğilimi olarak okunan panoptikon yorumunu yeniden onaylar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozetteki iki yonlu sonuc (sorunlu kilar / yeniden onaylar) eksiksiz aktarildi"
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Foucault iktidarın, ezici kısıtlamalardan kurulu belirlenimci bir dizge oluşturduğunu savunmaz; ona göre iktidar istikrarsız bir pratikler ağı olarak anlaşılmalıdır ve iktidarın olduğu yerde her zaman direniş de vardır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem: curutucunun \"her zaman\" kesinlik-dili itirazi kabul edildi; iddia Foucault'ya atfedilerek cerceve eklendi. Kaynak birebir \"where there is power, there is always resistance too\" der"
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "İktidar ilişkileri toplumun bütününe yayılsa da bazı bölgelerde yoğun, bazılarında seyrektir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "Son dönem çalışmalarında özneye tanınan pay daha da belirgindir: özneler yalnızca iktidar tarafından kurulmaz, kendi kuruluşlarına katılır, kendilik pratikleriyle kendilerini dönüştürür; salt uysal bedenler değil, özne olma biçimlerini reddeden, benimseyen ve değiştiren varlıklardır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i049",
+      "cumle": "Foucault ölümünden sonra hazırlamadığı yazıların yayımlanmamasını açıkça istemişti; mirasçıları Collège de France derslerini bu kuralın dışında tuttu ve kısıtlama zamanla gevşedi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i050",
+      "cumle": "Sonuçta ne hazırladığı ne onayladığı el yazmaları, notlar ve söyleşiler basıldı; bu külliyat düşüncesinin yorumunu yeniden tartışmaya açtı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i051",
+      "cumle": "Güvenlik, Toprak, Nüfus (1977-1978) ve Biyopolitikanın Doğuşu (1978-1979) yönetimsellik kavramını getirdi; ikincisinde Foucault, Gary Becker'ın beşeri sermaye kuramı üzerinden neoliberalizmi bir iktisat öğretisi olarak değil, kapitalizmin işlemesini güvenceye almayı amaçlayan ve belirli bir özne tipi üreten bir yönetim biçimi olarak çözümledi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i052",
+      "cumle": "Birçok siyasal yorumcu, derslerin verildiği 1979'u neoliberal iktisat siyasetinin Avrupa ve ABD'de egemen hale gelişinin başlangıcı sayar; çözümlemenin öngörülü görünmesi bundandır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak bunu \"bircok siyasal yorumcu\" gorusune baglar; metin de oyle yazar"
+    },
+    {
+      "iddia_id": "i053",
+      "cumle": "Foucault bu iki ders dizisinde geliştirdiği malzemeyi hiç yayımlamadı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i054",
+      "cumle": "Üçünde de sorusu aynı kalıyor: bu düzenlemeyi haklı çıkaran akılsallık hangisidir ve o akılsallık sorgulanabilir mi?",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kapanis cercevesi; kaynak yonetim akilsalliginin sorgulanabilirligini soyler, cumlenin retorik bicimi yazarindir"
+    },
+    {
+      "iddia_id": "i055",
+      "cumle": "Bu yüzden bugün Foucault iki ayrı masada birden anılıyor: gözetim ve normalleştirme tartışmalarında — orada kendi okurları panoptikonun fazla yüklendiğini söyleyerek kavramı budamaya çalışıyor",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hakem: kapanis paragrafi yalnizca k1 tasiyordu; panoptikonun budanmasi iddiasi govdede k5 ve k6 ile kaynaklanmisti, kunye kapanista da gosterildi"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 50,
+    "kismi": 4,
+    "desteksiz": 0,
+    "olculemez": 1
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "20 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
+}
