@@ -1,12 +1,71 @@
 ## tartisma-antik-kolelik-ekonomisi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.361Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:03:45.141Z_
 
-- [ATOMSUZ] k1 → "Bu haritanın çıkış noktası kaynağın terminoloji bölümüdür: tek bir tanım yerine altı biçim." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, terminoloji başlığı altında mal kölelik, borç emeği, bağımlılar, zorla çalıştırma (altında çocuk asker…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, özellikler başlığı altında iktisat ve tanımlama alt başlıklarını; hukuki yönler başlığı altında ise öz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir olgunun iktisadi ve hukuki yönlerinin ayrı ayrı işlenmesi, sorunun iki farklı ölçütle sorulabileceğini gös…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Sorunun sıklıkla sorulduğu düzen için tutulan kayıt, imparatorluk dönemini MÖ 27 ile MS 286 arasına yerleştiri…"
-- [ATOMSUZ] k3 → "Dönemin siyaset yazarı için tutulan kayıt, geride belki iki yüz kadar incelemeden oluşan bir külliyat bıraktığ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Bir dönemin siyaset metinlerinin çoğunun elimizde olmaması, antik iktisat sorularının neden dolaylı kanıtla yü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Antik Yunan ve Roma'dan kalan metinler köleliği olağan bir kurum olarak anlatır: Atina'nın gümüş madenlerinde …" — programatik olarak ölçülemedi (ad karşılığı yok): Yunan, Roma, Atina
+- [OK]      k7 → "Antik Yunan ve Roma'dan kalan metinler köleliği olağan bir kurum olarak anlatır: Atina'nın gümüş madenlerinde …" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "Antik Yunan ve Roma'dan kalan metinler köleliği olağan bir kurum olarak anlatır: Atina'nın gümüş madenlerinde …" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Sorunun iki ucunda, antik dünyaya hangi kavramlarla bakılacağına dair iki ayrı yöntem durur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Sorunun iki ucunda, antik dünyaya hangi kavramlarla bakılacağına dair iki ayrı yöntem durur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → ""Köle toplumu" nitelemesi antik dönem için savunulabilirse, klasik uygarlığın felsefesi ve mimarisi zorla çalı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → ""Köle toplumu" nitelemesi antik dönem için savunulabilirse, klasik uygarlığın felsefesi ve mimarisi zorla çalı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Politika'nın birinci kitabında kimi insanların doğaları gereği köle olduğunu savunur; ona göre başka birinin m…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k8 → "Bu savunmanın kanıt gösterilmeden öne sürüldüğü kavramın çağdaş incelemelerinde not edilir; aynı incelemeler, …"
+- [OK]      k4 → "Savunmanın varlığı başlı başına bir veridir: Politika, köleliğin doğaya aykırı olduğunu söyleyen bir karşı gör…"
+- [OK]      k8 → "Savunmanın varlığı başlı başına bir veridir: Politika, köleliğin doğaya aykırı olduğunu söyleyen bir karşı gör…"
+- [OK]      k6 → "Ksenophon'un kamu gelirleri üzerine küçük kitabı, kentin gelirini artırma planını Laurion gümüş madenlerine ba…"
+- [OK]      k6 → "Aynı kitap, Nikeratos oğlu Nikias'ın gümüş madenlerinde çalıştırılmak üzere bin köleyi Sosias adlı Trakyalıya …" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k6 → "Kölelik bu metinde ne savunulur ne sorgulanır; bir yatırım aracı olarak hesaplanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Tarım üzerine incelemesinde Varro, toprağı işleyen araçları üçe ayıran bir sınıflamayı aktarır: konuşan araçla…"
+- [ATOMSUZ] k7 → "Aynı el kitabı bütün insanların tarımı kölelerle, özgürlerle ya da ikisiyle birlikte yürüttüğünü yazar; emek b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Cato'nun daha eski el kitabından Columella'nın bir kuşak sonraki incelemesine uzanan bu tür, köleli tarımı ola…"
+- [OK]      k1 → "Cato'nun daha eski el kitabından Columella'nın bir kuşak sonraki incelemesine uzanan bu tür, köleli tarımı ola…"
+- [OK]      k5 → "Aristoteles okulundan çıkan Atinalıların Devleti, Solon öncesinde bütün ülkenin az sayıda kişinin elinde olduğ…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k5 → "Aynı metin bu köylüleri, zenginlerin toprağını belirli bir ürün payı karşılığında işledikleri için hektemoroi …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Solon'un reformu anlatının ekseninde durur: halkı "borçlunun bedeni üzerine borç verilmesini yasaklayarak" kur…"
+- [OK]      k1 → "Arkaik borç köleliği düzeninin ortadan kalktığı yerlerde bile borcunu ödeyemeyenin kendi zorunlu emeğiyle, kim…"
+- [OK]      k1 → "Moses Finley 1973'te yayımlanan The Ancient Economy'de tartışmanın çerçevesini değiştirdi: kitap, antik Yunan …"
+- [ATOMSUZ] k1 → "Çözümleme sınıf yerine statü kavramıyla ilerler; efendi ile köle, toprak sahibi ile köylü, kent ile kır aynı s…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Savın dayanaklarından biri antik iktisat yazınının kendi biçimidir: sonraki yüzyılların hane yönetimi geleneği…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Finley'ye göre klasik dönem Yunanistan'ı ile İtalya'ya odaklanan bakış, tarihin ilk gerçek köle toplumlarıyla …" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "1980'de yayımlanan Ancient Slavery and Modern Ideology aynı savı tarihsel bir karşılaştırmaya oturtur: Finley'…"
+- [ATOMSUZ] k1 → "Ölçüt sayım değildir: köle toplumu, mülk sahibi sınıfın artık ürününü esas olarak köle emeğinden çektiği toplu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Ölçüt sayım değildir: köle toplumu, mülk sahibi sınıfın artık ürününü esas olarak köle emeğinden çektiği toplu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Finley kanıtın sınırını da saklamaz: antik köleliğin kârlılığını hesaplayacak veri elde yoktur ve kölelik en s…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Laurion'a dönüp bakan da yine odur: Ksenophon'un kamu gelirleri kitabının bütün programını Laurion'un tükenmez…" — programatik olarak ölçülemedi (ad karşılığı yok): Ksenophon, Laurion
+- [OK]      k6 → "Laurion'a dönüp bakan da yine odur: Ksenophon'un kamu gelirleri kitabının bütün programını Laurion'un tükenmez…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Michael Rostovtzeff 1926'da yayımlanan The Social and Economic History of the Roman Empire'da şehir ekonomisi …"
+- [OK]      k2 → "Iulius'lar ile Claudius'ların siyasetini de aynı çerçeveye yerleştirir: amaç, devleti imparatorluğun bütününde…"
+- [OK]      k2 → "Kitabın dili bilinçli olarak moderndir: İtalyan burjuvazisi ile İtalyan proletaryası arasındaki ittifaktan, ge…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k2 → "Bu okumada kölelik yok sayılmaz; ama düzenin tanımlayıcı özelliği köle emeği değil, ticaretin, kent yaşamının …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Rostovtzeff'in kavram dağarcığı on dokuzuncu yüzyılın sınıf sözlüğünden geliyordu ve sonraki eleştiri tam bu n…"
+- [ATOMSUZ] k2 → "Rostovtzeff'in kavram dağarcığı on dokuzuncu yüzyılın sınıf sözlüğünden geliyordu ve sonraki eleştiri tam bu n…" — programatik olarak ölçülemedi (ad karşılığı yok): Finley
+- [ATOMSUZ] k1 → "Tartışma bu yüzden yalnızca köleliğin payı hakkında değildir; antik ekonominin kendine özgü bir nesne mi, yoks…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Tartışma bu yüzden yalnızca köleliğin payı hakkında değildir; antik ekonominin kendine özgü bir nesne mi, yoks…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Roma dünyası için köle sayıları sayımdan değil modelden gelir: bir hesap, MÖ altmışların ortasından MÖ 30'a ka…"
+- [OK]      k9 → "Walter Scheidel bu modellerin içinden konuşur: 2005 tarihli bir çalışmasında İtalya'nın köle nüfusunu hareketl…"
+- [OK]      k9 → "MÖ birinci yüzyılın sonunda İtalya nüfusunun yaklaşık yüzde 20 ila 30'unun köle olduğu tahmin edilir; bu, en a…"
+- [OK]      k9 → "Geç imparatorluk için bir hesap, MS 260 ile 425 arasında köle nüfusunu beş milyonun biraz altında, toplam nüfu…"
+- [OK]      k9 → "Devletin kendi kayıtları da dolaylı ölçüm verir: azat vergisi MÖ 357'den itibaren kölenin değerinin yüzde 5'i …"
+- [OK]      k9 → "Karşılaştırma için Ptolemaios Mısır'ında köle satış vergisi yüzde 20'ydi."
+- [OK]      k9 → "Mülkiyetin dağılımı da eşitsizdi: bir tahmine göre bütün kölelerin yüzde 49'u, imparatorluk nüfusunun yüzde 1,…"
+- [OK]      k9 → "Delos pazarından geçen köle ticareti Sicilya'daki büyük tarım işletmelerini, latifundiaları besledi; bu işletm…"
+- [ATOMSUZ] k9 → "Roma'nın MÖ altıncı yüzyıldan üçüncü yüzyıla uzanan süreçte adım adım bir köle toplumuna dönüştüğü değerlendir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Yunanlar Sparta helotlarından köle diye söz eder; ama Finley bu grubun Atina'nın mal kölelerinden kolayca ayır…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Lakonia ile Messenia'da Spartalıların topraklarını işleyen bu kesim, sayıca efendilerinden çok daha kalabalıkt…"
+- [OK]      k4 → "Ayrım antik metinlerin kendi dilinde de görünür: Politika, helotlar ile Teselya penestlerini, başkalarının çal…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Borç köleliği yelpazenin üçüncü rengidir: Solon'un kaldırdığı kurum mal köleliği değil, borçlunun bedeni üzeri…"
+- [ATOMSUZ] k1 → "Bu üç biçim aynı başlık altında toplandığında oranlar da anlamını değiştirir; köle toplumu tartışması bu yüzde…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Bu üç biçim aynı başlık altında toplandığında oranlar da anlamını değiştirir; köle toplumu tartışması bu yüzde…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Her antik toplumu köleci sayan genelleme, kavramı öneren metnin kendisiyle çelişir; Finley'nin nitelemesi klas…"
+- [ATOMSUZ] k6 → "Köleliği önemsiz sayan indirgeme ise birincil tanıklıkla çelişir; madenler, çiftlik el kitapları ve felsefenin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Köleliği önemsiz sayan indirgeme ise birincil tanıklıkla çelişir; madenler, çiftlik el kitapları ve felsefenin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Köleliği önemsiz sayan indirgeme ise birincil tanıklıkla çelişir; madenler, çiftlik el kitapları ve felsefenin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "İki uyarı birlikte okunduğunda tartışma bir seçim sorusuna daralmaz; klasik çekirdekte köle emeğinin ağırlığı …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "İki uyarı birlikte okunduğunda tartışma bir seçim sorusuna daralmaz; klasik çekirdekte köle emeğinin ağırlığı …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Oran sorusu modele bağlı kalır: hiçbir antik sayım köle payını vermez ve aralıkların genişliği hangi varsayımı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Tanım sorusu çözülmüş değildir: mal kölesi, helot ve borç bağımlısı ayrı hukuki biçimlerdir ve üçünü aynı sütu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Tanım sorusu çözülmüş değildir: mal kölesi, helot ve borç bağımlısı ayrı hukuki biçimlerdir ve üçünü aynı sütu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kapsam sorusu ise kavramın kendisini sınar: köle toplumu nitelemesi klasik Yunanistan ile Roma İtalyası üzerin…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k3 → "Kapsam sorusu ise kavramın kendisini sınar: köle toplumu nitelemesi klasik Yunanistan ile Roma İtalyası üzerin…" — programatik olarak ölçülemedi (ad karşılığı yok): Yunanistan, Roma, İtalyası
 
-**Özet:** 1 OK · 0 ISARET · 0 HATA · 6 ATOMSUZ
+**Özet:** 37 OK · 0 ISARET · 0 HATA · 29 ATOMSUZ

@@ -1,0 +1,572 @@
+{
+  "id": "tartisma-feodalite-kavrami",
+  "govde_hash": "669790b47783",
+  "commit": "33a9638",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Karşılaştırmalı feodalizm derlemesinin giriş denemesinde Joseph Strayer ile Rushton Coulborn bunu bir cümleyle koyar: \"Fatih William'ın hiçbir çağdaşı bu terimi kullanmadı\"; sözcük, çoğu on sekizinci yüzyılda yaşamış bilginlerce, kendi günlerine kalmış kurumlardan geriye bakılarak türetilmiştir.[^k6]",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Brown aynı saptamayı daha erken bir tarihe bağlar: kurgu on yedinci yüzyılda kurulmuş, o günden beri hukukçular, bilginler, öğretmenler ve polemikçiler tarafından her seferinde kullananın seçtiği olgulara yapıştırılmıştır.[^k4]",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Brown: 17. yuzyilda kurulmus, hukukcular/bilginler/ogretmenler/polemikcilerce kullanilan, kullananin sectigi olgulari yansitan kurgu (lawyers, scholars, teachers, and polemicists — fetch ile dogrulandi)"
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Ders kitapları bir çağı bu adla açar; karşılaştırmalı tarih Japonya'dan Etiyopya'ya uzanan bir coğrafyada aynı etiketi kullanır; Marx çizgisi feodalizmi kapitalizmden önceki iktisadi çağın adı yapar.[^k1][^k7]",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ders kitabi genellemesi k1 genel kullanim anlatimina yaslanir; Japonya/Etiyopya etiketi ve Marx cag adi k1 ile k7de dogrudan"
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Brown'un 1974 tarihli makalesi ile Susan Reynolds'un 1994 tarihli kitabından bu yana ortaçağ tarihçileri arasında süren tartışma sonuçlanmış değildir[^k1] ve verdiği ders ortaçağla sınırlı kalmaz: kapitalizm, bürokrasi, ulus-devlet gibi geriye dönük adların tümü aynı soruyla sınanabilir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1974/1994ten beri suren sonuclanmamis tartisma k1de dogrudan; ikinci yari (kapitalizm, burokrasi...) yorumdur, dipnot ilk yariya baglidir"
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Sonradan adlandırma, kendi başına bir suçlama sayılmaz; Strayer ile Coulborn'un hatırlattığı gibi tarihçiler Romalılardan, Çinlilerden ve İnkalardan imparatorluk diye, Atina'nın, Floransa'nın ve Manchester'ın belirli kesimlerinden orta sınıf diye söz eder ve bu genel adların hiçbiri anlatılan dönemin kendi sözü değildir.[^k6]",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Strayer-Coulborn: imparatorluk ve orta sinif ornekleri"
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Klasik tanım François Louis Ganshof'un 1944'te yayımladığı Qu'est-ce que la féodalité? kitabına aittir: feodalite, savaşçı soyluluğun karşılıklı hukuki ve askerî yükümlülüklerinden oluşan ve lord, vasal ile fief kavramları etrafında dönen bir kurumlar bütünüdür.[^k1][^k2]",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tanim ve 1944 tarihi k1de dogrudan; k2 katalog kaydi eserin kimligini dogrular"
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Belçikalı tarihçi feodal ilişkiyi soylu sınıfın içine yerleştirir; köylü ile efendisi arasındaki bağ bu tanımın dışında kalır.[^k1]",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: feudal relationships existed only within the medieval nobility"
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Kitap İngilizce yazına Philip Grierson'ın çevirisiyle, 1952'de Feudalism adıyla geçti.[^k2]",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog kaydi ceviri/yil/yayinevini verir; katalog kurali geregi kismi sayildi"
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Tanımın en az bilinen yanı, sahibinin ona koyduğu sınırdır: Ganshof kendi ele alışının yalnızca \"sözcüğün dar, teknik ve hukuki anlamıyla\" ilgili olduğunu belirtmişti.[^k1]",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alinti k1de aynen: narrow, technical, legal sense of the word"
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Bloch feodaliteye hukuki ve askerî açıdan değil toplumsal açıdan yaklaşır ve soylulukla sınırlı olmayan bir feodal düzen tarif eder: soyluluğun yanında ruhban ve emeğiyle geçinenler, en doğrudan da köylülük, yükümlülükleriyle bu düzenin içindedir.[^k1][^k3]",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uc zumre tanimi k1de dogrudan; k3 katalog kaydi eserin kimligini dogrular"
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Kitap İngilizce yazına 1961'de Feudal Society adıyla geçti.[^k1]",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: Feudal Society (1939; English 1961)"
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Bloch'u çağdaşlarından ayıran adım, köylüyü feodal ilişkinin bir tarafı saymasıdır: vasal karşılığında askerlik hizmeti verirken, köylü karşılığında emeğini verir.[^k1]",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: radical notion that peasants were part of the feudal relationship; askerlik/emek karsiligi ayni cumlede"
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Ganshof bir hukuk kurumunu, Bloch bir toplum tipini tanımlar; ilki ele alışını dar anlamla sınırladığını açıkça söyleyerek ikisinin ayrılığını baştan işaretlemiştir.[^k1]",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki tanimin ayriligi sentezdir; bilesenleri (dar anlam siniri, sosyolojik yaklasim) k1de dogrudan"
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Brown'un 1974'te American Historical Review'da çıkan makalesi, bir konferans gözlemiyle açılır: Thomas Bisson güney Fransa ve İspanya'daki barış kurumlarını feodalizme hiç başvurmadan, betimleyerek anlatmış; Brown, meslektaşlarının bu belgeleri yıllarca görmemesini, feodalizme model ya da ideal tip olarak yoğunlaşıp çerçeveye uymayan kanıtı eleme eğilimine bağlamıştır.[^k4]",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Makalenin acilis anekdotu"
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Makalenin gövdesi bir kullanım envanteridir: aynı yazarın elinde \"gelişmiş\", \"klasik\", \"katı\" feodalizmler yan yana yaşar; kavramı eleştiren bilginler bile ondan türemiş biçimleri kullanmayı sürdürür.[^k4]",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k4: developed/classical/strict feudalism kullanim envanteri; kavrami elestirenlerin turevleri kullanmayi surdurmesi"
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Terimin sözlükten büsbütün çıkarılamayacağını kabul eder ve hiç değilse öğrencilere feodal sözcüğünü yalnızca fief'e gönderme yaparken kullanmayı öğretmeyi savunur; ama asıl çağrısı daha serttir: \"tiran feodalite, kesin biçimde tahttan indirilmiş ilan edilmelidir\".[^k4]",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alintinin asli: The tyrant feudalism must be declared once and for all deposed"
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Bir kavramı bırakmanın yerine ne konacağı sorusuna verdiği cevap ise bir başka kavram değil, geçmişte yaşamış insanların adsız, betimleyici incelemesidir.[^k4]",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k4: preferable alternative perspectives; study of human beings who lived in the past — adsiz/betimleyici nitelemesi ozetleyen glostur"
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Brown, feodal sözcüğünün fief'e özgülenmiş dar kullanımını görece güvenli saymıştı; Reynolds, kendi deyişiyle Brown'un \"bu noktada fazla iyimser\" olduğunu savunur.[^k5]",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5: on that point she was too optimistic"
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Tezi şudur: bugün ortaçağ tarihçilerinin tanımladığı hâliyle fief ve vasallık da ortaçağ sonrası kurgulardır; tarihçiler bu sözcükleri, kaynaklarında ikisi de geçmezken kullanmakta ve bulgularını on altıncı yüzyılda kurulup sonraki iki yüzyılda işlenmiş bir yorum çerçevesine yerleştirmektedir.[^k5]",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5: post-medieval constructs; neither word is in their sources; 16. yy cercevesi"
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "On ikinci ve on üçüncü yüzyıllarda Lombardiya'da derlenen Libri Feudorum, Roma hukuku külliyatını şerh eden akademik hukukçuların elinde bir fief hukuku literatürüne dönüşmüş; bu literatürün, dönemin mahkemelerinde fiilen uygulanan hukukla bağı ise çoğunlukla zayıf ve dolaylı kalmıştır.[^k5]",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Libri Feudorum anlatisi k5 giris bolumunde"
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "On altıncı yüzyılın Fransız hukuk tarihçileri bu külliyatın Fransa'da hiçbir bağlayıcılığı olmadığına hızla karar verdiler; ama onunla uğraşırken sözcük dağarcığını ve kategorilerini kendi zihinlerine ve ardıllarının zihinlerine kazıdılar, çünkü ortaçağın biçimsiz görünen kroniklerine biçim veren çerçeveyi bu literatürde buldular.[^k5]",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "du Moulin ve 16. yy Fransiz hukuk tarihcileri pasaji"
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Feodal kurumların tanımlanabilir olduğu yerde bile Reynolds hükmü açıktır: \"tanımlanabildikleri ve anlaşılabildikleri ölçüde, yararlı değildirler\".[^k5]",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alintinin asli: in so far as they are definable and comprehensible they are not helpful"
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Kavramı Weberci bir [ideal tip](/kavram/ideal-tip/) olarak kurtarma girişimine de aynı metin cevap verir: Weber'in feodalizmi bile ona göre fazla nitelik yüklüdür ve ideal tipler ancak yalın oldukları ve karşıt çiftler kurdukları zaman iş görür.[^k5]",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Weber ideal tip pasaji k5te dogrudan"
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Coulborn'un 1956 tarihli derlemesi bunu açık bir hipotez olarak kurar: feodal yöntemler Rusya'dan Bizans'a, İran'dan Mezopotamya ve Mısır'a, Çin'den Şogunluk Japonya'sına dek başka toplumlarda da uygulanmış olabilir; sözcük tek bir anayasayı değil, aristokrasi ya da diktatörlük gibi genel bir siyasi örgütlenme yöntemini adlandırır.[^k6]",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hipotez listesi ve genel yontem nitelemesi giris denemesinde"
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Derlemenin Japonya bölümünü yazan Edwin Reischauer, soyutlama Avrupa tarihinden türetilmiş olsa da dokuzuncu yüzyıldan on dokuzuncu yüzyıla Japon tarihinin olgularına aynı geçerlilikle uyduğunu savunur; Avrupa ile Japonya arasındaki koşutluk ona göre feodalizmin rastlantısal bir olgu yığını değil, temel bir insani örgütlenme biçimi olduğunu gösterir.[^k6]",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Reischauer bolumunun acilis sayfasi"
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Tek büyük farkı da kaydeder: Japonya'nın göreli yalıtılmışlığı, feodal kurumların çok daha yavaş evrilmesine izin vermiştir.[^k6]",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yalitilmislik ve yavas evrim pasaji"
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Reynolds'a göre karşılaştırmalarda kullanılan feodalizm modelleri — Marksist olanlar dahil — hâlâ ya on altıncı yüzyıl temeli üzerine kuruludur ya da ondan alınmış yüzeysel özellikler taşır; tutarlı bir çekirdeği olmayan bir demetle toplum karşılaştırmak, demeti bir arada tutan ipin bizim sözcüklerimiz olduğunu unutmaktır.[^k5]",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5: karsilastirma modelleri 16. yy temelli; demet/ip metaforu metinde"
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "[Karl Marx](/dusunur/marx/) 1859 önsözünde \"Asya tipi, antik, feodal ve modern burjuva üretim tarzlarını\" toplumun iktisadi gelişiminin çağları olarak sıralar.[^k7]",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1859 onsozdeki cag listesi"
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Bu kullanımda feodalizmi tanımlayan şey fief ya da vasallık töreni değil, egemen sınıfın ekilebilir toprak üzerindeki denetimi ve kapitalizmden önce gelen düzen olmasıdır.[^k1]",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: ruling class control of arable land; order coming before capitalism"
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Ama büsbütün de kurtarmaz — Reynolds, Marksist feodalizmin en kolay kapitalizmle karşıtlık içinde tasavvur edildiğini ve karşılaştırmalı modellerin on altıncı yüzyıl mirasını taşımayı sürdürdüğünü not eder.[^k5]",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5: Marxist feudalism is easiest to envisage when contrasted with capitalism"
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Georges Duby, 1952 tarihli Mâconnais incelemesinde Cluny manastırı ile Mâcon ve Dijon piskoposluklarından kalan geniş belge birikiminden çalışarak, bin yılı civarında bölgenin toplumsal yapısında derin bir kayma saptadı: kamu adaletini temsil eden yönetim kurumları — özellikle Karolenj tacı altında kurulmuş kont mahkemeleri — geri çekilmiş, yerini bağımsız savaşçı soyluların köylü topluluklar üzerindeki zora ve tehdide dayalı iktidarı almıştı.[^k1]",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Duby/Maconnais pasaji k1de dogrudan"
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Ve Brown'un iğnesi Duby'yi de bulur: ona göre Duby'nin metinlerinde bile feodalizm zaman zaman kendi başına yerleşen, kurulan bir özneye dönüşür — kavramın şeyleşmesi, onu en dikkatli kullananların bile kaleminde tekrarlanır.[^k4]",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k4: Duby presents feudalism as being implanted and established"
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Sıklıkla fief ile yan yana anılan Osmanlı düzeni için tutulan kayıt, tımarı devlete ait toprakların askerî ve idarî gayelerle tahsisine dayalı sistem olarak tanımlar.[^k8]",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV madde tanim cumlesi"
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "İki düzeni birbirine çevirmek, tanım tartışması daha kapanmadan taraflardan birinin tanımını ödünç almak demektir; kullanılan kaynak bölümlerinde böyle bir eşleme kurulmaz.[^k1][^k8]",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Esleme kurulmadigina dair olumsuz iddia; kaynaklar baglam saglar, olcum tasimaz"
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Yarım yüzyıllık itiraz dalgasından sonra bile tartışma bir hükümle kapanmamıştır; ortaçağ tarihçileri arasındaki görüş ayrılığı sürmektedir ve kaynağın kendisi bu süreci sonuçsuz diye niteler.[^k1]",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: ongoing inconclusive discussion"
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Belge ölçeğinde — fief sözcüğünün gerçekten geçtiği yerel hukuk bağlamlarında — kavramın en dar kullanımını Brown bile ayrı tutmuştu; Reynolds'un itirazı kabul edilirse bu son sığınak da sorgulanır hâle gelir.[^k4][^k5]",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Brownun fief kullanimini ayri tutmasi ve Reynoldsun buna itirazi metinlerde dogrudan; olcek cercevesi sentezdir"
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Toplum tipi ölçeğinde kavram en çok işi görür ve en az denetlenebilir: Bloch'un feodal toplumu ile Reischauer'in Japonya'sı bu ölçekte konuşur, Reynolds'un kuşkusu da en çok bu ölçeği hedef alır.[^k5][^k6]",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Olcek okumasi sentezdir; bilesenler k5/k6da"
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Çağ adı ölçeğindeki Marksist kullanım ise farklı bir soruya cevap verdiği için tartışmanın yanında, ayrı bir hat olarak akar.[^k7]",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Farkli soruya cevap verdigi degerlendirmesi yorumdur"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 33,
+    "kismi": 3,
+    "desteksiz": 0,
+    "olculemez": 2
+  },
+  "not_orkestrator": "2026-08-29: hakem finalize sonrasi mekanik kapi onarimi (kilitli terim / dipnot / baslik atif dili); icerik iddialari degismedi, hash guncellendi."
+}

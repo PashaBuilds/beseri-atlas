@@ -1,69 +1,357 @@
 {
   "id": "tartisma-soykirim-kavrami",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:28.408Z",
-  "govde_hash": "c1bb1acfe503",
-  "commit": "1d273c7",
+  "zaman": "2026-08-29T03:59:51.107Z",
+  "govde_hash": "122d67d2bf29",
+  "commit": "33a9638",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, sözcüğün 1944'te Raphael Lemkin tarafından türetildiğini; eski Yunanca γένος ile Latince caedō sözcüklerinin bileşimi olduğunu kaydeder.",
+      "iddia": "1948 tarihli Soykırım Sözleşmesi'nin tanımı dört grup türü ve özel bir kast şartıyla sınırlıdır; akademik yazın ise aynı başlık altında birbirinden farklı onlar",
       "durum": "OK",
-      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bir terimin türetildiği yılın bilinmesi, ondan önceki olayların bu terimle adlandırılmasının geriye dönük bir işlem olduğunu gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Terimi türeten kişi için tutulan kayıt, onu Polonyalı bir hukukçu olarak tanımlar.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Polonyalı"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, terimin çeşitli tanımları bulunmakla birlikte neredeyse bütün uluslararası hukuk organlarının soykırım suçunu 1948 tarihli Soykırım Suçunun Önlenmesi ve",
+      "anahtar": "k4",
+      "iddia": "1948 tarihli Soykırım Sözleşmesi'nin tanımı dört grup türü ve özel bir kast şartıyla sınırlıdır; akademik yazın ise aynı başlık altında birbirinden farklı onlar",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Aynı kaynak, uluslararası hukuki tanımın akademik tanımlardan daha dar olduğunu kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "İki tanım kümesinin genişliklerinin farklı olması, atlasın şu kuralının dayanağıdır: bu terim kullanıldığı her yerde hangi tanıma göre kullanıldığı yazılır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, hukuki tanım başlığı altında tanımlardaki temalar alt başlığını; ayrıca tanımların listesi ve tanımların eleştirileri başlıklarını tutar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir kavramın tanımına, tanım listesine ve tanım eleştirisine ayrı başlıklar ayrılması, tartışmanın kapanmadığını gösterir.",
+      "anahtar": "k4",
+      "iddia": "Bir olayın bu adı taşıyıp taşımayacağı hangi tanımın seçildiğine bağlıdır; mahkemeler dar tanımla yargılarken geniş kavram kamusal tartışmada iş görür ve iki ku",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Silahlı çatışma ölümleri veri kümesinde dünya değeri 1994'te 1.701.127'dir.",
+      "iddia": "Polonyalı-Yahudi hukukçu Raphael Lemkin sözcüğü, işgal altındaki Avrupa'daki Alman yönetimini incelediği Axis Rule in Occupied Europe adlı kitabında kullanıma s",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Polonyalı-Yahudi hukukçu Raphael Lemkin sözcüğü, işgal altındaki Avrupa'daki Alman yönetimini incelediği Axis Rule in Occupied Europe adlı kitabında kullanıma s",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Lemkin sözcüğü eski Yunanca genos (soy, kabile) ile Latince caedo (öldürmek) köklerinden kurdu ve kitaptaki tanım cümlesi yeni kavramların yeni terimler gerekti",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Sözcük mahkeme diline erken girdi ama suç statüsü gecikti: Nürnberg'deki Uluslararası Askeri Mahkeme'nin başsavcıları terimi Nazi yöneticilerine yönelik iddiana",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Lemkin'in kavrayışı, sonradan hukuk metnine girecek tanımdan genişti; bir ulusun ya da etnik grubun yok edilmesini eski bir pratiğin modern gelişimi olarak adla",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Lemkin'in kavrayışı, sonradan hukuk metnine girecek tanımdan genişti; bir ulusun ya da etnik grubun yok edilmesini eski bir pratiğin modern gelişimi olarak adla",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birleşmiş Milletler Genel Kurulu, Soykırım Suçunun Önlenmesi ve Cezalandırılması Sözleşmesi'ni 9 Aralık 1948'de kabul etti; sözleşme gerekli onayların toplanmas",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Birleşmiş Milletler Genel Kurulu, Soykırım Suçunun Önlenmesi ve Cezalandırılması Sözleşmesi'ni 9 Aralık 1948'de kabul etti; sözleşme gerekli onayların toplanmas",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "madde, soykırımı ulusal, etnik, ırksal ya da dinsel bir grubu, grup olarak, kısmen ya da bütünüyle yok etme kastıyla işlenen fiiller biçiminde tanımlar ve fiill",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sözleşme suçu barış zamanında da savaş zamanında da tanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sekretarya uzmanlarının hazırladığı taslak soykırımı fiziksel, biyolojik ve kültürel olmak üzere üç kategoriye ayırıyordu; Altıncı Komite kültürel soykırımı söz",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Altıncı, Komite"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Grubu yerinden etmeye zorlamayı — sonradan etnik temizlik diye anılacak pratiği — fiil listesine ekleme önerisi de büyük farkla reddedildi; mahkemeler sonraki o",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Amerika Birleşik Devletleri temsilcisi Ernest Gross, Kasım 1948'deki konuşmasında sözleşmenin kapsamının siyasi grupları koruyacak biçimde genişletilmesini umdu",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Amerika Birleşik Devletleri temsilcisi Ernest Gross, Kasım 1948'deki konuşmasında sözleşmenin kapsamının siyasi grupları koruyacak biçimde genişletilmesini umdu",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Sonraki yazında bu eksik çoğu kez Sovyetler Birliği'nin itirazına bağlanır ve Stalin'in ülkesindeki siyasal kıyımların uluslararası incelemeye açılmasından çeki",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Müzakere tarihi böylece tartışmanın kendisine dahil olmuştur: tanımın neden dar olduğu sorusu da tanım kadar çekişmelidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Dar tanımın gücü her şeyden önce fiilî yerleşikliğidir: uluslararası hukuk organlarının hemen hemen tümü soykırım suçunu 1948 Sözleşmesi'nin tanımına göre yargı",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Tanım maddesi, Yugoslavya ve Ruanda için kurulan özel mahkemelerin statülerine de Uluslararası Ceza Mahkemesi'nin Roma Statüsü'ne de değiştirilmeden aktarıldı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sözleşmenin tanıtım notunu yazan hukukçu William Schabas'a göre tanımı değiştirme çağrılarının reddedilegelmesi bir tutuculuk işareti değildir; dar tanımın bıra",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Bu sayı bir soykırım sayımı değildir; sağlayıcının süregelen çatışma tanımına göre sayılmış yıllık bir toplamdır.",
+      "iddia": "Bu iş bölümünde soykırım \"suçların suçu\" konumunu korur: dar tanım, terimin ağırlığını taşıyan ayrıksı bir suç bırakır, geri kalan kitlesel şiddeti başka hukuki",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Aynı doğrultuda Birleşik Devletler Holokost Anma Müzesi'nin ansiklopedisi, hukuki tanımıyla soykırımın — grubu yok etme kastının ispat şartı yüzünden — insanlığ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Birleşik, Devletler, Holokost, Anma"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kitlesel öldürmenin varlığı yetmez; failin grubu, grup olarak, kısmen ya da bütünüyle yok etme özel kastı — hukuk dilindeki adıyla dolus specialis — aranır ve U",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Uluslararası, Adalet, Divanı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kitlesel öldürmenin varlığı yetmez; failin grubu, grup olarak, kısmen ya da bütünüyle yok etme özel kastı — hukuk dilindeki adıyla dolus specialis — aranır ve U",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Uluslararası, Adalet, Divanı"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Dar tanımın savunusu tam bu noktada kesinlik savunusudur: ölçüt ne kadar sıkıysa, suçlamanın ispatı ve çürütülmesi o kadar denetlenebilirdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Soykırım araştırmalarının kurucu kuşağından Leo Kuper, 1981'de yayımlanan Genocide: Its Political Use in the Twentieth Century kitabında sözleşme tanımını izlem",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Soykırım araştırmalarının kurucu kuşağından Leo Kuper, 1981'de yayımlanan Genocide: Its Political Use in the Twentieth Century kitabında sözleşme tanımını izlem",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kuper'e göre çağdaş dünyada siyasi farklılıklar, katliamın ve topluca yok etmenin zemini olarak en az ırksal, ulusal, etnik ya da dinsel farklılıklar kadar önem",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu yüzden çözümlemesinde, tanımın dışında kalmasına karşın siyasi gruplara yönelik yok etme eylemlerine serbestçe yer verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Bu yüzden çözümlemesinde, tanımın dışında kalmasına karşın siyasi gruplara yönelik yok etme eylemlerine serbestçe yer verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Helen Fein soykırımı, failin — kurbanın teslim olmasından ya da tehdit oluşturmamasından bağımsız olarak — bir topluluğu doğrudan ya da dolaylı biçimde fiziksel",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Frank Chalk ile Kurt Jonassohn'a göre soykırım, bir devletin ya da başka bir otoritenin yürüttüğü tek yanlı kitlesel öldürmedir ve hedef grubu da o gruba üyeliğ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu tanımlar, hukuki listede bulunmayan grupları — failin gözünde grup olan herkesi — kapsama alır ve suçun merkezine korunan kategorileri değil failin sınıfland",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Charny'ye göre jenerik anlamda soykırım, ilan edilmiş bir düşmanın askeri kuvvetlerine karşı yürütülen askeri harekât dışında, esaslı savunmasızlık koşullarında",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu tanımda korunan grup listesi diye bir ölçüt kalmaz; belirleyici olan kurbanların savunmasızlığı ile öldürmenin kitleselliğidir ve hiçbir kurban kümesi tanım ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Katz'a göre soykırım, failin tanımladığı ulusal, etnik, ırksal, dinsel, siyasal, toplumsal, cinsiyete dayalı ya da ekonomik bir grubun tümünü öldürme kastının —",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Grup listesi geniştir ama kast ölçütü mutlaklaşır: kısmen yok etmeyi hedefleyen şiddet bu tanımın kapsamına girmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "İki tanım yan yana konduğunda tartışmanın yapısı görünür hâle gelir: kavram genişledikçe daha çok kurbanı adlandırır ama ayırt etme gücünü yitirir, daraldıkça k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Ruanda için kurulan Uluslararası Ceza Mahkemesi, kendi kurumsal kaydına göre soykırım suçunda hüküm veren ve 1948 tanımını yorumlayan ilk uluslararası mahkemedi",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Uluslararası Adalet Divanı, Bosna-Hersek'in Sırbistan'a karşı açtığı davada 26 Şubat 2007'de verdiği kararda, savaş boyunca ülke genelinde işlenen kitlesel öldü",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Divan aynı kararda Sırbistan'ın soykırımı önleme yükümlülüğünü ihlal ettiğine karar verdi; yükümlülük, ciddi tehlikeden haberdar olan ya da olması gereken devle",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kısmen ifadesi coğrafi olarak sınırlı bir bölgedeki grup parçası için işletilebilmiş, tanımın alt sınırı böylece olay bazında çizilmiştir; ama aynı yargı pratiğ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kısmen ifadesi coğrafi olarak sınırlı bir bölgedeki grup parçası için işletilebilmiş, tanımın alt sınırı böylece olay bazında çizilmiştir; ama aynı yargı pratiğ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uluslararası Adalet Divanı ile Yugoslavya mahkemesinin kararları, tanımın kısıtlayıcı yorumunu doğrulayan bir çizgide ilerlemiştir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Silahlı çatışma ölümleri veri kümesinde dünya değeri 1994'te yüksek tahmin sütununda 1.701.127, merkezî tahminde 823.507'dir; iki sayı da bir soykırım sayımı de",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Silahlı çatışma ölümleri veri kümesinde dünya değeri 1994'te yüksek tahmin sütununda 1.701.127, merkezî tahminde 823.507'dir; iki sayı da bir soykırım sayımı de",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı yılın Ruanda'sına bir soykırım mahkemesinin penceresinden ve bir çatışma veri kümesinin penceresinden bakmak iki farklı tanımdan iki farklı büyüklük üretir",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Ruanda"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Aynı yılın Ruanda'sına bir soykırım mahkemesinin penceresinden ve bir çatışma veri kümesinin penceresinden bakmak iki farklı tanımdan iki farklı büyüklük üretir",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Ruanda"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Terimden eski olaylar için ek bir katman vardır: sözcük 1944'te türetildiğinden, ondan önceki olayların bu adla anılması geriye dönük bir adlandırmadır ve hangi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Terimden eski olaylar için ek bir katman vardır: sözcük 1944'te türetildiğinden, ondan önceki olayların bu adla anılması geriye dönük bir adlandırmadır ve hangi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Hukuk alanında dar tanım yerleşiktir: uluslararası organların hemen hemen tümü 1948 metnine göre yargılamayı sürdürür ve tanım maddesi değiştirilmeden yeni stat",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Hukuk alanında dar tanım yerleşiktir: uluslararası organların hemen hemen tümü 1948 metnine göre yargılamayı sürdürür ve tanım maddesi değiştirilmeden yeni stat",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Akademik alanda ise tanım listesi uzamaya devam eder ve hukuki tanımın hem sosyolojik tanımlardan hem kamu algısından dar olduğu saptaması geçerliliğini korur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Siyasi grupların dışarıda bırakılması, Kuper'den bu yana savunulan bir eksik olarak durur; kültürel yok etme, müzakerelerde bilinçli biçimde dışarıda bırakıldığ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Siyasi grupların dışarıda bırakılması, Kuper'den bu yana savunulan bir eksik olarak durur; kültürel yok etme, müzakerelerde bilinçli biçimde dışarıda bırakıldığ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kuper"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Siyasi grupların dışarıda bırakılması, Kuper'den bu yana savunulan bir eksik olarak durur; kültürel yok etme, müzakerelerde bilinçli biçimde dışarıda bırakıldığ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kuper"
     }
   ]
 }

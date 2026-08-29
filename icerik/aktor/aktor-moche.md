@@ -25,6 +25,7 @@ ilgili:
   - aktor-olmek
   - kavram-kanit-turu
   - aktor-cahokia
+  - tartisma-iklim-ve-cokus
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

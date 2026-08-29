@@ -1,16 +1,63 @@
 ## tartisma-kalkinma-neden-basarisiz
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.859Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:00:35.496Z_
 
-- [ATOMSUZ] k1 → "Bu haritanın çıkış noktası kaynağın içindekiler yapısıdır: bir kuram ve onun karşısına konmuş dört itiraz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, modernleşme kuramını üç ayrı başlıkta ele alır: modernleşme ve demokrasi, modernleşme ve iktisadi geli…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Aynı kaynak, uygulamalar başlığı altında 1960'larda Amerika Birleşik Devletleri dış yardımını ayrı bir alt baş…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir kuramın belirli bir onyılın dış yardım politikasına bağlanabilmesi, kuram ile politika arasındaki bağın ka…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, eleştiriler ve alternatifler başlığı altında dört alt başlık tutar: bağımlılık kuramı; Barrington Moor…"
-- [ATOMSUZ] k1 → "Bir kuramın eleştiri bölümünün ana bölümleri kadar ayrıntılı olması, atlasın şu kuralının dayanağıdır: bir çer…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Kaynağın ilk sıraya koyduğu itiraz için tutulan kayıt, çevre devletlerden merkez devletlere doğru bir kaynak a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "İki kaydın aynı itirazı farklı ayrıntıyla vermesi, atlasın çapraz doğrulama ölçütünü karşılar; kuram dosyasınd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "İki kaydın aynı itirazı farklı ayrıntıyla vermesi, atlasın çapraz doğrulama ölçütünü karşılar; kuram dosyasınd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Kişi başı GSYH serisinde dünya değeri 1960'ta yaklaşık 3.762 uluslararası dolar, 1991'de yaklaşık 7.512 ulusla…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k2 → "Bu değerler sağlayıcının toplam satırına aittir ve bölgeler arasındaki farkı göstermez; seri dosyasında ele al…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kalkınma çağına bir doğum yılı aranacaksa, kalkınma sonrası yazarlar 1949'u gösterir: Harry Truman o yıl, az g…"
+- [ATOMSUZ] k1 → "İzleyen yetmiş yılda vaat bir uzmanlık alanına, bir kurumlar ağına ve art arda gelen reçetelere dönüştü; burad…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Tarihçi Nick Cullather'a göre modernleşme ile kalkınma kavramları 1945'ten sonra kaynaştı; kalkınma böylece he…"
+- [OK]      k2 → "Maddison serisinde kişi başına gayrisafi yurt içi hasılanın dünya ortalaması 1950'de yaklaşık 3.360, 2022'de y…"
+- [OK]      k2 → "Maddison serisinde kişi başına gayrisafi yurt içi hasılanın dünya ortalaması 1950'de yaklaşık 3.360, 2022'de y…"
+- [OK]      k5 → "Rostow'un The Stages of Economic Growth başlıklı kitabı, modernleşme kuramının politika diline çevrilmiş hâli …"
+- [ATOMSUZ] k1 → "Bu bakışta geride kalmak bir ilişkinin değil bir gecikmenin adıdır; ülkeler aynı büyüme merdiveninin farklı ba…" — programatik olarak ölçülemedi (ad karşılığı yok): Batı
+- [ATOMSUZ] k5 → "Bu bakışta geride kalmak bir ilişkinin değil bir gecikmenin adıdır; ülkeler aynı büyüme merdiveninin farklı ba…" — programatik olarak ölçülemedi (ad karşılığı yok): Batı
+- [OK]      k7 → "Jeffrey Sachs bu iyimserliği yarım yüzyıl sonra, 2005'te The End of Poverty ile yeniden kurdu."
+- [OK]      k7 → "Kitap, bazı ülkelerin neden serpilemediğini ayrı bir bölümde sorar, Afrika ile hastalığı bir başka bölümde bir…"
+- [OK]      k7 → "Bolivya'nın enflasyonundan Polonya'ya, Rusya'dan Çin'e ve Hindistan'a uzanan vaka bölümleri, bu teşhis defteri…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k7 → "Kitabın önsözünü Bono yazdı, bir bölümü Milenyum ile Birleşmiş Milletler'i birlikte ele alır ve kapanışı bir k…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k7 → "Programın kendisi de içindekiler sayfasında durur: yoksulluğu bitirmek için gereken yatırımlar ve küresel bir …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Eleştirmenlerinin büyük itki diye andığı öneri budur: proje proje ilerlemek yerine, sağlıktan altyapıya aynı a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k8 → "Eleştirmenlerinin büyük itki diye andığı öneri budur: proje proje ilerlemek yerine, sağlıktan altyapıya aynı a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Raúl Prebisch'in Birleşmiş Milletler Latin Amerika Ekonomik Komisyonu için hazırladığı ve 1950'de yayımlanan r…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Şemada Latin Amerika'ya düşen görev, büyük sanayi merkezleri için gıda ve hammadde üretmekti; Prebisch'e göre …"
+- [OK]      k3 → "Sunuş yazısı Santiago'dan, 9 Ekim 1949 tarihiyle gönderilmiştir; rapor dolar kıtlığının Latin Amerika'daki yan…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k3 → "Raporun ölçüm iddiası ticaret hadleri üzerinedir: merkezler kendi sanayilerindeki teknik gelişmenin faydasını …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Önerilen çıkış içe dönük sanayileşmeydi; rapor, sanayileşmenin birincil üretimle çelişmediğini de ayrıca savun…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Sonradan Prebisch-Singer tezi adıyla anılan gözlemin kaynak metinlerinden biri bu rapordur."
+- [ATOMSUZ] k3 → "Metin bir kopuş çağrısı da değildir: dış ticaretin reddini değil, sanayileşmeyle dengelenmiş bir eklemlenmeyi …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Şili ve Brezilya üzerine tarihsel incelemeler taşıyan Capitalism and Underdevelopment in Latin America, az gel…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Kitabın yayıncısının Monthly Review çevresi olması da yerini gösterir: itiraz artık reform önerisi değil, sist…"
+- [ATOMSUZ] k4 → "Aynı okumanın başlıca örneği tek ürüne bağlanmış ihracat ekonomileriydi; sömürge tarımının o düzeni dosyasında…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Daron Acemoğlu ile James Robinson 2012'de Why Nations Fail ile tartışmanın eksenini kurumlara çekti; kitabın s…"
+- [ATOMSUZ] k6 → "Özet, sırayla kültürü, iklimi, coğrafyayı ve doğru politikaların bilinmemesini sayar, hiçbirini belirleyici bu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Bu çizginin sözlüğünde ayrım kapsayıcı kurumlar ile sömürücü kurumlar arasındadır: kapsayıcı düzen geniş kesim…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Kitap bu ikiliyi, on beş yıllık araştırmaya dayandığı belirtilen karşılaştırmalarla işler: Roma İmparatorluğu'…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k6 → "Özetin vurgusu iddialı genellemededir: sayılan etkenlerden hiçbiri belirleyici de değildir, kader de." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Sömürge yönetimlerinin bıraktığı düzenler, coğrafyanın kurumlar üzerinden işleyen dolaylı etkisi ve kapsayıcı …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Sömürge yönetimlerinin bıraktığı düzenler, coğrafyanın kurumlar üzerinden işleyen dolaylı etkisi ve kapsayıcı …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k8 → "William Easterly 2006'da The White Man's Burden ile karşı kitabı yazdı; yayıncı özeti bilançoyu iki trajediyle…"
+- [ATOMSUZ] k8 → "Kitabın omurgası içindekiler sayfasından okunur: planlayıcılar arayıcılara karşı — ve hedefini adıyla söyleyen…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Büyük itkinin savunusunun 2005'te, efsane cevabının 2006'da yayımlanması, tartışmanın soyut bir yöntem ayrılığ…"
+- [OK]      k8 → "Büyük itkinin savunusunun 2005'te, efsane cevabının 2006'da yayımlanması, tartışmanın soyut bir yöntem ayrılığ…"
+- [ATOMSUZ] k8 → "Easterly'nin ayrımında planlayıcı, yukarıdan büyük hedefler koyan ve hesabı bağışçıya veren figürdür; arayıcı,…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k8 → "Bölüm başlıklarından biri eleştirinin özeti gibi okunur — zenginlerin piyasaları, yoksulların bürokratları var…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Dambisa Moyo 2009'da yayımlanan Dead Aid ile eleştiriyi kıtanın içinden yazdı; kitabın özeti, Afrika'ya gönder…"
+- [OK]      k9 → "Sav bir düşünce deneyiyle de kurulur: bölümlerden biri hayalî bir ülkenin, Dongo Cumhuriyeti'nin yardım altınd…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k9 → "Önerilen ikameler yine bölüm başlıklarında sıralanır: sermaye piyasaları, ticaret, bankası olmayanlara bankacı…" — programatik olarak ölçülemedi (ad karşılığı yok): Çin
+- [OK]      k1 → "Arturo Escobar 1995'te Encountering Development ile soruyu tersine çevirdi: sorulması gereken, kalkınmanın ned…"
+- [OK]      k10 → "Arturo Escobar 1995'te Encountering Development ile soruyu tersine çevirdi: sorulması gereken, kalkınmanın ned…"
+- [ATOMSUZ] k1 → "Kalkınma sonrası yazarlara göre bu söylem, Kuzey'i ilerlemiş ve Güney'i geri sayan sömürge söyleminin devamıdı…" — programatik olarak ölçülemedi (ad karşılığı yok): Kuzey, Güney, Batı
+- [OK]      k1 → "Escobar bu okulun önde gelen üyelerinden sayılır ve planlı toplumsal değişim fikrinin kendisini tarihselleştir…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Aynı okulun açılış metinlerinden sayılan bir başka kitap, James Ferguson'ın Lesotho üzerine incelemesidir: The…"
+- [OK]      k1 → "Çevrenin başvuru derlemesi ise Wolfgang Sachs'ın yayıma hazırladığı The Development Dictionary'dir; büyük itki…"
+- [OK]      k1 → "Eleştirinin eleştirisi de kayda geçmiştir: Ray Kiely'ye göre kalkınma sonrası fikir, kalkınma söyleminin içind…"
+- [OK]      k11 → "Aşırı yoksulluk serisinde, sınırın altında yaşayanların dünya nüfusu içindeki payı 1990'da yüzde 43,4 iken 201…"
+- [OK]      k11 → "Aşırı yoksulluk serisinde, sınırın altında yaşayanların dünya nüfusu içindeki payı 1990'da yüzde 43,4 iken 201…"
+- [OK]      k11 → "Pencerenin kendisi de tarafsız değildir: serinin izlediği dönem 1990 sonrasıdır ve tartışmanın erken evresi — …"
+- [OK]      k2 → "Kişi başına hasıla serisi de benzer biçimde iki yüzlüdür: dünya ortalamasının 1950 ile 2022 arasında yaklaşık …"
+- [OK]      k3 → "Ticaret hadleri aleyhine dönmüş, tek ürüne kilitlenmiş bir ihracatçının uzun durgunluğu en dolaysız karşılığın…"
+- [ATOMSUZ] k6 → "Kaynakları zengin olduğu hâlde gelirini dar bir seçkinin topladığı ülke, kurumsalcı anlatının örnek vakasıdır;…" — programatik olarak ölçülemedi (ad karşılığı yok): Sachs, Easterly, Moyo
+- [OK]      k7 → "Kaynakları zengin olduğu hâlde gelirini dar bir seçkinin topladığı ülke, kurumsalcı anlatının örnek vakasıdır;…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k8 → "Kaynakları zengin olduğu hâlde gelirini dar bir seçkinin topladığı ülke, kurumsalcı anlatının örnek vakasıdır;…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Kaynakları zengin olduğu hâlde gelirini dar bir seçkinin topladığı ülke, kurumsalcı anlatının örnek vakasıdır;…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Başarısızlığın ölçütünü sorgulayan soru ise ancak kalkınma sonrası çerçevede sorulabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 3 OK · 0 ISARET · 0 HATA · 8 ATOMSUZ
+**Özet:** 36 OK · 0 ISARET · 0 HATA · 22 ATOMSUZ

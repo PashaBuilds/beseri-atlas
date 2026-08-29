@@ -1,0 +1,797 @@
+{
+  "id": "tartisma-kara-olumun-sonuclari",
+  "govde_hash": "02bb0986df7c",
+  "commit": "33a9638",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Kara Ölüm, 1346 ile 1353 arasında Avrupa'yı vuran veba pandemisidir; en yüksek tahminler 50 milyona varan ölümden söz eder ve Avrupa nüfusunun yüzde 30 ila 60'ının, Orta Doğu nüfusunun ise yaklaşık yüzde 33'ünün öldüğü tahmin edilir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 girisi: 1346-1353, up to 50 million, 30% to 60%, approximately 33% of the Middle Eastern population"
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Buradaki tartışma sonuç üzerinedir: ücret artışından serfliğin çözülüşüne uzanan büyük değişimleri salgın mı başlattı, yoksa salgın, öncesinde zaten kırılmakta olan bir dengenin çözülüşünü hızlandırmakla mı kaldı?",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3 iki konumu acikca kurar: transformative event ile would have occurred anyway, merely more slowly"
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "İlk salgın dalgasında Doğu Avrupa'daki ölüm düzeyinin Batı Avrupa'dakine benzer olduğu değerlendirilir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'The level of mortality in the rest of Eastern Europe was likely similar to that of Western Europe in the first outbreak' (hakem fetch 2026-08-29)"
+    },
+    {
+      "iddia_id": "i03b",
+      "cumle": "Tartışmayı açan gözlem Brenner'ın kaleminden gelir: izleyen bir buçuk yüzyılda batıda serflik çözüldü, doğuda o güne dek görece özgür yaşayan köylülük adım adım serfleştirildi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k4 (libcom.org, Past & Present makalesinin lisanssiz kopyasi) telif ilkesi geregi kunyeden cikarildi; iddia aktarim diliyle k5 katalog kaydina yaslandirildi. Hakem capraz kontrolu: en.wikipedia.org/wiki/Brenner_debate — 'the decline of serfdom in western Europe, but ... the intensification of serfdom ... in eastern Europe' (fetch 2026-08-29)."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Aynı şok iki zıt sonuca çıkabiliyorsa, sonucu açıklayan şeyin şokun kendisi olup olamayacağı sorusu kaçınılmaz hâle gelir ve tartışmanın üç konumu da bu gözlemle bir biçimde hesaplaşmak zorundadır.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k4 cikarildi; ayni-sok-iki-sonuc cikarimi k5 (tartisma cildi) uzerinden kismi, k3 baglam"
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Aynı ansiklopedi maddesi yüzde 50'lik bir oranla yüzde 30-60'lık bir aralığı yan yana verir; akademik özetlere göre yerel düzeyde güvenilir sayılan oranlar dörtte bir ile dörtte üç arasında değişir ve kıta geneli için ortak bir sayıya varmak güçtür.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 50 milyon = %30-60 araligiyla yan yana; k3: credible death rates between one quarter and three quarters complicate reaching a Europe-wide figure"
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Tarihleme bile ölçüte göre oynar: madde pandemiyi 1346-1353'e yerleştirir, iktisadi özet ise hastalığı İtalya'ya 1347 sonunda vardırır ve büyük saldırıyı 1347-53 diye sayar.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: from 1346 to 1353; k3: arrival in Italy in late 1347, initial onslaught in 1347-53"
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Orta Doğu için verilen yaklaşık yüzde 33'lük oran, Avrupa aralığının alt ucuna yakındır; ama şokun izi orada da uzundur, Kahire'nin nüfusu 18. yüzyıla gelindiğinde 1347'deki sayısının yarısına inmiş sayılır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: By the 18th century, the population of Cairo was halved from its numbers in 1347"
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Boccaccio, Decameron'un girişinde anlatıyı 1348 Floransa'sına yerleştirir: ölüm getiren salgın, birkaç yıl önce Doğu'da görünmüş ve oradan bu kente ulaşmıştır.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yil kaynakta yaziyla: one thousand three hundred and forty-eight; ayrica had some years before appeared in the parts of the East. denetle ISARET'i rakamin yaziyla olmasindan"
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Mart ile temmuz arasında, hastalığın şiddeti ve hastaların bakımsız bırakılması ortasında, surların içinde yüz bini aşkın insanın öldüğüne kesin gözüyle bakıldığını yazar; felaketi göğün ve belki kısmen de insanların zalimliği diye adlandırır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k7: between March and the following July ... upward of an hundred thousand human beings perished within the walls of the city of Florence; the cruelty of heaven (and in part, peradventure, that of men)"
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Dönemin tanıkları kıtlık, savaş ve karışıklık çağında yaşıyordu ve salgını kıyamet diliyle anlattı; vakanüvis tahminleri bugün demografik bir barometre değil, salgının zihinlerde açtığı yaranın kanıtı sayılır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: living in an epoch of famine and political, military, and spiritual turmoil, described the plague apocalyptically; evidence of the Black Death's battering of the medieval psyche, not an accurate barometer"
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Tanık ölçüsünde yanılabilir; ama tanıklığın kendisi — biçilmeden kalan ekinler, terk edilen hastalar, boşalan konaklar — iktisat tarihçisinin aradığı şokun ta kendisidir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Imgeler k7'de tek tek gecer (the very corn was abandoned, without being cut; sick folk ill tended or forsaken); sok esdegerligi yazarin baglantisi"
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Nüfus kaybıyla birlikte emek kıtlaştı ve ücretler fırladı; kiracı bulmakta zorlanan toprak sahipleri emek hizmetini para kirasıyla değiştirmeye yöneldi; süreç, lordun toprağındaki hak ve yükümlülüklerini sabit bir kira karşılığında köylüye devretmesiyle tamamlandı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: wages soared in response to a subsequent labour shortage; substitute monetary rents for labour services; k3: tenurial transformation was completed when the lord sold to the peasant his right of lordship ... for a fixed cash rent"
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Kimi yerde kiralar çöktü — eskiden beş sterlin getiren bir kiralama artık bir sterlin getiriyordu — ve salgını izleyen bir buçuk yüzyıl, köylünün yükselen yaşam düzeyi üzerinden bir altın çağ diye anılır oldu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: used to bring in 5 pounds, and now but 1; k3: the century and a half following the magna pestilencia has been labeled a golden age"
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Almanya kırsalında terk edilmiş yerleşimler haritayı benekledi: adları bilinen köylerin üçte ikisi Thüringen, Anhalt ve doğu Harz'da, beşte biri güneybatı Almanya'da, üçte biri Ren Pfalz'ında ortadan kalktı; terk ediliş nüfus kaybını aşıyordu ve küçük köylerden büyüklere göç payı olabilir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: two thirds of named villages disappeared in Thuringia, Anhalt, and the eastern Harz mountains, one fifth in southwestern Germany, one third in the Rhenish palatinate; abandonment far exceeding loss of population"
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "David Herlihy'nin, Samuel Cohn'un yayıma hazırlamasıyla 1997'de Harvard University Press'ten çıkan kitabı The Black Death and the Transformation of the West adını taşır; başlık konumu adıyla söyler: Kara Ölüm ve Batı'nın dönüşümü.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6 katalog sayfasi baslik, 1997, 'Cambridge, Mass. : Harvard University Press' ve 'Associated-names Cohn, Samuel Kline' gosterir; odunc-kisitli katalog kunyesi hakem kurali geregi dogrudan sayilmaz. Not: k3 kaynakcasi yayinevini yanlislikla Cambridge UP yazar; katalog kaydi Harvard'i dogrular."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Çizgiyi bugün besleyen şey de yeni araştırmadır: kaynak bakımından zengin doğu İngiltere tarımı üzerine çalışmalar, mutlak aşırı nüfus varsayımını aşındırdıkça salgını yeniden bir toplumsal-iktisadi değişim etkeni olarak öne çıkardı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: studies of agriculture in source-rich eastern England has rehabilitated the Black Death as an agent of socioeconomic change; undercut the notion of an absolutely overpopulated Europe"
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Yalnızca para ücretiyle geçinen emekçi, zanaatkâr ve ustalar, şiddetli enflasyon karşısında gerçek gelir kaybına uğradı; kazanç tablosu köylü ile kentli, kiracı ile ücretli arasında bölünür.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: many labourers, artisans, and craftsmen - those living from money-wages alone - suffered a reduction in real incomes owing to rampant inflation"
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Dönüşüm iddiası bu yüzden en sağlam zeminini ücret serilerinde değil, serflik kurumunun kendisinde arar: kurum feodalite düzeninin taşıyıcı direğiydi ve çözülüşü rejim ölçeğinde bir değişimdir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k9: 'the authority of the feudal system was broken'; k1 serflik anlatisi icermez, yalniz ucret tablosu icin baglam"
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "İngiliz tacı 1349 fermanı ve 1351 yasasıyla ücretleri ve çalışma koşullarını 1346 düzeyine döndürmeyi buyurdu; benzer emek yasaları Aragon ve Kastilya meclislerinden Fransız tacına, Siena'dan Floransa'ya ve Ragusa'ya kadar geniş bir alanda çıkarıldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: Ordinance of Laborers (1349) and Statute of Laborers (1351) called for a return to the wages and terms of employment of 1346; Cortes of Aragon and Castile, the French crown, and cities such as Siena ... Ragusa; k8 yasanin kendi metni"
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Külliyatta 1351 yasası başlığıyla duran metnin girişi durumu tacın ağzından anlatır: halkın, hele işçi ve hizmetkârların büyük bölümü salgında ölmüştür ve sağ kalanların bir kısmı 'aşırı ücret almadıkça hizmet etmeye yanaşmamaktadır'.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k8 (Avalon) metni 'The Statute of Laborers; 1351' basligini tasir; Henderson cevirisinin girisi 1349 fermaninin diliyle ortusur, bu yuzden govde 'kulliyatta ... duran metin' diye yumusatildi. Alinti k8'de: 'are not willing to serve unless they receive excessive wages'."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Altmış yaşın altındaki, bağlı ya da özgür her kadın ve erkek, kendisine uygun bir hizmet önerildiğinde çalışmakla ve yalnızca kralın saltanatının yirminci yılında geçerli olan ücreti almakla yükümlü kılındı; süresi dolmadan işi bırakan hizmetkâr hapisle, alışılmışın üzerinde ücret ödeyen işveren ödediğinin iki katı ceza ile tehdit edildi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k8: whether bond or free, who is able bodied and below the age of sixty years; wages ... in the twentieth year of our reign; penalty of imprisonment; double the sum that has thus been paid"
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Fransız tacı 1349 düzenlemesini daha 1351'de gözden geçirip ücretlere üçte bir oranında artış izni vermek zorunda kaldı; İngiltere'de etkili yönetim ve sıkı uygulama artışı bir süreliğine yavaşlatabildi, o kadar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: the French crown's 1351 revision of its 1349 enactment to permit a wage increase of one third; perhaps only in England ... did the law slow wage increases for a time"
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Seçkinlerin köylüyü eski durumuna döndürme çabaları ayaklanmalarla karşılaştı: Paris çevresinde ücret artışını bastırma önlemleri 1358 Jacquerie'sinin patlamasına katkıda bulundu, Floransa'da lonca kısıtlamaları 1378 Ciompi ayaklanmasında birikti, 1381'de İngiliz köylüsü ayağa kalktı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: 'the Jacquerie of 1358', 'the Ciompi revolt in Florence (1378-83), restrictive gild regulations', 'the English Peasants Rebellion of 1381'. Cerceve cumlesi k9'dan ('Efforts of the wealthy to return the serf to his previous condition resulted in uprisings'). Havuz ici kaynaga tasima mumkun degildi: k1 ayaklanma zincirini anlatmiyor."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "İktisadi özet burada temkin payı bırakır: 1380 ile 1381'in baş vergileri de hoşnutsuzluğu büyütmüştü, ayaklanma yoksul kuzeyde değil görece varlıklı doğu İngiltere'de başladı ve salgının payını öteki nedenlerden ayırmak güçtür.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: regressive Poll Taxes of 1380 and 1381 also contributed; began in relatively affluent eastern England; difficult to gauge its importance relative to other causes"
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Malthusçu merceğe göre nüfus, 13. yüzyıl ortasına gelindiğinde beslenme kapasitesini zorluyordu: yoksullaşma ve küçülen tasarruflar köylüyü verimsiz topraklara itti, otlağın tarlaya çevrilmesi hayvan ve gübre kıtlığı üzerinden tahıl verimini uzun vadede aşağı çekti; bu okumanın savunucuları düzeltme işaretlerini 13. yüzyıl ortasından itibaren görür.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: population growth pressed against the society's ability to feed itself by the mid-thirteenth century; inferior, low-fertility land; make manure for fertilizer scarcer; signs of demographic correction from the mid-thirteenth century onward"
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "1315'te bozulan hava hasatları yok etti; izleyen Büyük Kıtlık kuzey Avrupa nüfusunun belki yüzde 10 ila 15'ini götürdü ve kötü hasatlar İngiltere ile İtalya'yı vebanın arifesine kadar rahat bırakmadı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: Miserable weather in 1315 destroyed crops and the ensuing Great Famine (1315-22) reduced northern Europe's population by perhaps ten to fifteen percent; poor harvests bedeviled England and Italy to the eve. k3 kitligi 1315-22'ye tarihler"
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Ansiklopedi maddesi aynı sıralamayı korur: Kara Ölüm, Geç Orta Çağ Avrupa'sını vuran ikinci büyük doğal felaketti; birincisi 1315-1317 Büyük Kıtlığı'ydı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: the second great natural disaster to strike Europe during the Late Middle Ages (the first one being the Great Famine of 1315-1317)"
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Bu zeminden bakınca konumun cümlesi şudur: iklimin, kurumların, para dengesizliklerinin ve aşırı nüfusun zaten sürüklediği toplumsal-iktisadi değişimler, veba hiç gelmeseydi de — daha yavaş da olsa — yaşanacaktı; salgın bir başlatıcı değil bir hızlandırıcıdır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: These factors - climate, imperfect institutions, monetary imbalances, overpopulation; socioeconomic changes already driven by other causes would have occurred anyway, merely more slowly, had the plague never struck Europe"
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Konumun adları da bellidir: model en çok, İngiliz Orta Çağ ekonomisini nüfus-kaynak dengesiyle okuyan M. M. Postan ile Languedoc köylülüğünün uzun döngüsünü izleyen Emmanuel Le Roy Ladurie'nin adlarıyla anılır; John Hatcher'ın veba, nüfus ve İngiliz ekonomisi üzerine çalışması aynı çizgide durur ve iktisadi özetin okuma listesi üç adın da temel eserlerini tek tek sayar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k3 kaynakcasi: Postan 'The Medieval Economy and Society', Le Roy Ladurie 'The Peasants of Languedoc', Hatcher 'Plague, Population, and the English Economy 1348-1530'. Ad-pozisyon eslesmesi hakemce capraz dogrulandi: en.wikipedia.org/wiki/Brenner_debate 'Key respondents included M. M. Postan, John Hatcher, and Emmanuel Le Roy Ladurie, who defended the demographic model' (fetch 2026-08-29)."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Veba emek hizmeti havuzunu kuruttukça toprağa bağlı köylü daha hafif yükümlülükler için pazarlık edebilir hâle geldi: Tivetshall'da boşalan tarlalar lorda borçlu haftalık çalışmanın yüzde 60'ını bir yılda götürdü; ödün vermeyen lordun kiracısı, başka yerde beliren daha iyi koşullara yöneldi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: 'At Tivetshall (Norfolk), vacant holdings deprived its lord of sixty percent of his week-work and all his winnowing services by 1350-51' + 'If a lord did not make concessions, a peasant often gravitated toward any better circumstance beckoning elsewhere'"
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Sınıf okuması bu mantığı, demografik felaketin serfliğin kaderini tek başına belirlediği savı biçiminde özetleyip hedef tahtasına koyar; özetin Brenner'ın kaleminden aktarılageldiği, model savunucularının kendi anlatımının ise cevap ciltlerinde durduğu unutulmadan okunmalıdır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k5 katalog kaydi cildin makale+cevaplar derlemesi oldugunu ('Aufsatzsammlung' konu etiketi, 'debate' basligi) dogrular; ozetin icerigi aktarim duzeyinde"
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Agrarian Class Structure and Economic Development in Pre-Industrial Europe başlıklı makale ve tetiklediği cevaplar, T. H. Aston ile C. H. E. Philpin'in derlemesiyle 1985'te Cambridge University Press'ten The Brenner Debate adıyla kitaplaştı; tartışma bugün o adla anılır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3 kaynakcasi tam kunyeyi verir: 'Aston, T. H. and C. H. E. Philpin, eds. The Brenner Debate: Agrarian Class Structure and Economic Development in Pre-Industrial Europe. Cambridge: Cambridge University Press, 1985.' k5 katalog kaydi ayni bilgiyi tasir (odunc-kisitli oldugu icin kismi)."
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "Lordların şoka ilk tepkisi çoğu yerde eskiyi geri çağırmak oldu: Halesowen'in lordu servil kiracıdan hizmetlerin tamamını istemekle kalmadı, vebadan çok önce rafa kalkmış yükümlülükleri bile diriltti; Katalonya'da lordlar, vebadan önce başlayan sıkı denetimi, yıldırma ile özgürlüğü satın alma harçlarını fahiş tutmanın karışımıyla sürdürdü.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: 'The lord of Halesowen (Worcestershire) not only commanded the servile tenant to perform the full range of services but also resuscitated labor obligations in abeyance long before the Black Death' + Katalonya: 'coercion (physical intimidation, exorbitant fees to purchase freedom)'"
+    },
+    {
+      "iddia_id": "i33b",
+      "cumle": "Brenner'ın İngiliz kanıtı okuması bu tabloyu keskinleştirir: ona göre lordlar açısından serflik hâlâ yürürlükteydi ve niyet onu uygulamaktı; uygulanıp uygulanamayacağını izleyen dönemin çatışmaları gösterdi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k4 cikarildiktan sonra aktarim diliyle k5'e yaslandirildi; hakem capraz kontrolu Brenner debate kaydi uzerinden (bkz. i03b)"
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Sonuç iki ölçekle kayıtlıdır: iktisadi özete göre malikâne düzeni 1500'e gelindiğinde batı ve orta Avrupa'dan silinmişti; Brenner'ın anlatımında Batı Avrupa'nın çoğunda serflik 16. yüzyıl başına gelindiğinde ölmüştü.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: 'Manorialism, in effect, collapsed and was gone from western and central Europe by 1500'. Serflik cumlesi Brenner aktarimi (k5 kismi); govde iki olcegi acikca ayirir (manoryalizm/serflik)."
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Brenner'ın anlatımında, Elbe'nin doğusundaki Alman topraklarında ve Polonya'da nüfus çöküşüne serfliğin yoğunlaştırılması eşlik etti: o güne dek görece özgür yaşayan köylülüğe iktisat dışı zor araçları dayatıldı ve girişim sonunda başarıya ulaştı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cografya, hakemin dogrulayabildigi genislige indirildi (Pomeranya/Brandenburg/Dogu Prusya listesi ve 'en ozgur koyluluklerden biri' alintisi k4 ile birlikte cikti). Capraz kontrol: Brenner debate kaydi 'particularly in Poland and east-Elbian Germany' (fetch 2026-08-29)."
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "Yine bu anlatımda kıtanın ortasından bir yarılma geçer: batıda hemen tümüyle özgürleşmiş bir köylülük, doğuda özgürlüğünü yitirmekte olan bir köylülük.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Aktarim diline cekildi; '1500'e gelindiginde' tarihi k5-yalniz cumleden cikarildi (katalog kaydinda olcum yok)"
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "Nüfus kaybı iki tarafta da ağır olduğuna göre, demografi sabit tutulduğunda geriye köylü topluluklarının örgütlülüğü, lordların dayanışması ve iki taraf arasındaki güç dengesi kalır; Brenner'a göre serfliğin nerede çözülüp nerede kurulacağını bu denge belirledi ve şok, dengeyi kuran değil sınayan güçtü.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Olum benzerligi k1'den ('likely similar'), kurgu cikarimi Brenner aktarimi k5'ten"
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "Demografik modeli savunan tarihçiler bu okumaya cevaplar yazdı ve karşılaştırmanın deneysel temellerini sorguladı; cevaplar makaleyle aynı ciltte toplandığı için tartışmanın iki yakası bugün yan yana okunabiliyor.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k5 katalog kaydi derleme yapisini dogrular; k3 kaynakcasi cildi listeler"
+    },
+    {
+      "iddia_id": "i39",
+      "cumle": "Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1400 yılında yaklaşık 442,3 milyondur.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "veri-setleri/dunya-nufusu-uzun.csv: 1300 -> 456248096, 1400 -> 442309216; KAPI 19 kalibina uygun"
+    },
+    {
+      "iddia_id": "i40",
+      "cumle": "Seri toplamı verir, ölüm nedenini vermez; aradaki yüzyılın içinde kıtlık, savaş ve tekrarlayan veba dalgaları birlikte durur ve iki gözlem arasındaki fark bir salgın bilançosu gibi okunamaz.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Serinin niteligi k2'nin kendisinden; tekrarlayan dalgalar k1'de (further outbreaks throughout the Late Middle Ages). Okuma uyarisi yazarin"
+    },
+    {
+      "iddia_id": "i41",
+      "cumle": "Avrupa nüfusunun 14. yüzyıl düzeyini ancak 16. yüzyılda yeniden yakaladığı kaydı ise şokun uzunluğu hakkında herhangi bir oran tahmininden daha çok şey söyler.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: the European population did not regain its 14th century level until the 16th century"
+    },
+    {
+      "iddia_id": "i42",
+      "cumle": "Dönüştürücü okuma şokun ne yaptığını sorar ve ücret, kira, yasa belgeleriyle cevap verir; hızlandırıcı okuma neyin zaten yürürlükte olduğunu sorar ve kıtlığı, verim düşüşünü, vebadan önceki daralma işaretlerini gösterir; Brenner, şok geldiğinde kimin kime ne yapabildiğini sorar ve cevabı iki coğrafyanın karşılaştırmasından çıkarır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Uc konumun soru duzeyinde ayristirilmasi yazarin sentezidir; her kanadin dayandigi kanit turleri onceki bolumlerde tek tek dipnotludur"
+    },
+    {
+      "iddia_id": "i43",
+      "cumle": "Ölüm oranı, kapsam seçimine göre üçte bir ile yarı arasında herhangi bir yere yerleşebilir ve yerel oranlar bundan da geniş bir yelpazeye dağılır; hangi sayının seçileceği çoğu zaman cevaptan önce verilmiş bir karardır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 %30-60 araligi ile k3 dortte bir - dortte uc yerel araligindan cikan ortak bolge; karar nitelemesi yazarin"
+    },
+    {
+      "iddia_id": "i44",
+      "cumle": "Değişimin veba olmadan da — yalnızca daha yavaş — geleceği iddiası sınanamaz; karşı-olgusal bir kıyasa dayanır ve gücünü kanıttan çok varsayımdan alır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iddianin kendisi k3'te aynen; sinanamazlik degerlendirmesi yazarin"
+    },
+    {
+      "iddia_id": "i45",
+      "cumle": "Sınıf güç dengesi açıklaması ise dengeyi veri alır: köylülüğün batıda neden daha dirençli, lordların doğuda neden daha dayanışık olduğu sorusu, cevabın içinden yeniden sorulabilir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Brenner elestirisinin bilinen bicimi; k4 metninde dengeyi kuran kosullar kismen tartisilir, itirazlarin kendisi cevap cildindedir"
+    },
+    {
+      "iddia_id": "i46",
+      "cumle": "Boccaccio'nun yüz bini bugünkü ölçütlerle abartılı bulunabilir; ama serflik gibi bir kurumun bir buçuk yüzyıl içinde kıtanın bir yakasında çözülüp öbür yakasında kurulduğunu gösteren kayıtlar, o abartının içinden geçen insanların yaptıklarının belgeleridir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki kaynagin verileri onceki bolumlerde dogrudan dipnotlu; buradaki baglanti yazarin kapanis sentezidir"
+    },
+    {
+      "iddia_id": "i47",
+      "cumle": "Şokun mu yapıyı, yapının mı şoku biçimlendirdiği sorusu bu yüzden hem bir 14. yüzyıl sorusu hem de her büyük felaketten sonra yeniden sorulan bir yöntem sorusudur.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Kapanis cumlesi; kanit tasimaz, iki kanadin cercevesine yaslanir"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 30,
+    "kismi": 18,
+    "desteksiz": 0,
+    "olculemez": 1
+  }
+}

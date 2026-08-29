@@ -1,5 +1,5 @@
 # Çürütücü raporu — tartisma-nufus-artisi-tehdit-mi
-_2026-08-21T12:06:42.923Z_
+_2026-08-29T00:13:38.257Z_
 
 ## Zayıf bulunmayan alanlar
 

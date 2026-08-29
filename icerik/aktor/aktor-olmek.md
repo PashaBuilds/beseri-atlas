@@ -21,6 +21,7 @@ ilgili:
   - kavram-anakronizm
   - aktor-moche
   - kavram-kanit-turu
+  - tartisma-iklim-ve-cokus
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

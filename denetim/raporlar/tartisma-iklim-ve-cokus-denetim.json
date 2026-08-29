@@ -1,57 +1,267 @@
 {
   "id": "tartisma-iklim-ve-cokus",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:27.732Z",
-  "govde_hash": "97da00113b35",
-  "commit": "1d273c7",
+  "zaman": "2026-08-29T04:21:09.366Z",
+  "govde_hash": "60fd8c377f3a",
+  "commit": "33a9638",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Bu haritanın çıkış noktası kaynağın bölüm yapısıdır: aynı başlık altında hem toplumsal büyüme ve kentleşme hem toplumsal çöküş bulunur.",
+      "iddia": "İklim değişimini çöküşün başlıca tetikleyicisi sayan okuma ile bu yan yanalığı kanıt türünün elverişliliğinden güç alan bir anlatı katmanı sayan okuma, yüz yılı",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, tarihsel ve tarih öncesi toplumlar başlığı altında toplumsal büyüme ve kentleşme ile toplumsal çöküşü ayrı alt başlıklarda tutar; ayrıca Orta Çağ Sıcak ",
+      "iddia": "Yazı bırakmamış ya da yazısı çözülememiş toplumlar için iklim kaydı çoğu kez en kolay tarihlenen kanıttır ve açıklamalar ellerindeki kanıta doğru eğilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Ellsworth Huntington 1915'te yayımladığı Civilization and Climate'ta uygarlığın ancak belirli bir iklim kuşağında serpilebildiğini savunuyor, dünya haritasını h",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+      "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, geçmiş nüfus düzeylerinin ve insanların ya da bitki ve hayvanların yaşanabilir alanlarının, bölgeye dair geçmiş iklim farklarının kanıtı olarak kullanıl",
+      "anahtar": "k8",
+      "iddia": "Kitap, Yucatan ve Guatemala'daki Maya kalıntılarını ve Kaliforniya'daki dev ağaçların büyüme ölçümlerini iklim salınımlarının kanıtı olarak okur; antik ulusları",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Huntington, Kropotkin'in Orta Asya'nın kuruması üzerine gözlemlerini de aynı çerçeveye bağlamıştı: bozkırın yavaş yavaş kuruması, Karanlık Çağların Avrupa'sına ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Sav bu hâliyle sınırsızdı; iklim salınımları yalnızca belli başlı çöküşleri değil, uygarlığın coğrafi dağılımının tamamını açıklamaya adaydı ve bu genişlik, son",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Uzun dönemli nüfus serisinde sağlayıcının toplam satırı MÖ 1000 için yaklaşık 110,5 milyon verir.",
+      "anahtar": "k9",
+      "iddia": "Emmanuel Le Roy Ladurie'nin 1967'de Fransızca yayımlanan ve 1971'de Times of Feast, Times of Famine adıyla İngilizce basılan kitabı, Avrupa'nın bin yıllık iklim",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kitabın ünlü ihtiyat dersi de buradadır: Ladurie'ye göre iklim tarihi önce kendi verisiyle, insan olaylarına bağlanmadan yazılmalıdır ve onun Avrupa örneklemind",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Aynı sayının hem nüfus ölçüsü hem iklim kanıtı sayılabilmesi, atlasın şu kuralının dayanağıdır: bir veri, hangi soruya cevap olarak kullanıldığı belirtilmeden a",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "1993'te Science'ta yayımlanan ve Kuzey Mezopotamya kazılarına dayanan çalışma, Akkad İmparatorluğu'nun dağılmasını ani bir kuraklığın kaydına bağladı; adı o gün",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
-      "iddia": "Aynı sayının hem nüfus ölçüsü hem iklim kanıtı sayılabilmesi, atlasın şu kuralının dayanağıdır: bir veri, hangi soruya cevap olarak kullanıldığı belirtilmeden a",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "1993'te Science'ta yayımlanan ve Kuzey Mezopotamya kazılarına dayanan çalışma, Akkad İmparatorluğu'nun dağılmasını ani bir kuraklığın kaydına bağladı; adı o gün",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sav 2000 yılında denizden destek buldu: Cullen ve ekibinin Geology dergisinde yayımladığı inceleme, kuraklığın izini derin deniz çökelinde arayıp Akkad tartışma",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "DeMenocal'ın 2001'de Science'ta çıkan değerlendirmesi ise son binyılların iklim değişimlerine verilen kültürel tepkileri vaka sınırlarını aşan bir çerçevede top",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "MÖ 2200 dolaylarında başlayan bu kurak evre bugün 4.2 kiloyıl olayı olarak adlandırılıyor ve yalnızca Akkad'la değil, Mısır Eski Krallığı'nın ve Liangzhu kültür",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "MÖ 2200 dolaylarında başlayan bu kurak evre bugün 4.2 kiloyıl olayı olarak adlandırılıyor ve yalnızca Akkad'la değil, Mısır Eski Krallığı'nın ve Liangzhu kültür",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Daha geniş ölçekte, Afrika ve Asya'da beş bin ile dört bin yıl önce arasına tarihlenen bir megakuraklık, Yeşil Sahra'nın çölleşmesi ve muson düzeninin bozulması",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Çizgi bugün de üretkendir: Üçüncü Ur Hanedanlığı'nın yıkılış sürecini nüfus baskısı, tuzlanma ve tahıl kıtlığı üzerinden 4,2 ka iklim olayına bağlayan yakın tar",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yine de dikkatle okunduğunda kaynakların dili çekingendir: aynı ansiklopedik özet, olayın Akkad'ın çöküşüyle çakıştığını ve ona neden olmuş olabileceğini yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Maya örneği bunun öğretici olanıdır, çünkü kuraklık kayıtları geldiğinde tartışma çoktan kurulmuştu: Yoffee ile Cowgill'in 1988 tarihli derlemesinde Klasik Maya",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Jared Diamond'ın 2005 tarihli Collapse kitabı, Klasik Maya bölümünü savaşlar ve kuraklıklar ekseninde kurar; kitabın karşılaştırmalı yöntemi, Paskalya Adası'nda",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
-      "iddia": "İkincisi için tutulan kayıt, 1984'te 210 farklı kuramın sayıldığını yazar.",
+      "iddia": "Geoffrey Parker'ın 2013'te yayımlanan Global Crisis'i ise savı en geniş ölçeğe taşıdı: kitap, on yedinci yüzyılın savaş ve felaket dalgasını iklim değişikliğiyl",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynağın kendisi iklimi hem büyüme hem çöküş bölümlerinde kullanır ve aralarında bir hüküm vermez; bu atlas da vermez.",
+      "iddia": "Bu okumanın ansiklopedik özeti de nettir: Otuz Yıl Savaşı'nın 1618 ile 1648 arasında Avrupa'yı kırıp geçirdiği dönem, on yedinci yüzyıl genel krizinin parçası s",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Orta Çağ Sıcak Dönemi'nin sona erişi de aynı çerçevede kullanılır: on üçüncü ve on dördüncü yüzyıl soğuması Moğol yayılmasıyla, ardından gelen kıtlık ve savaşla",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çağ, Sıcak, Dönemi, Moğol"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Buz karotlarında korunmuş hava örnekleri, atmosferdeki karbondioksit yoğunluğunun milyonda pay cinsinden ve yüksek çözünürlükle ölçülmesine izin verir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Bu yöntemle kurulan seri, günümüzden sekiz yüz bin yılı aşkın bir geçmişe uzanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Ağaç halkaları yıl yıl sayılabildiği için kurak dizileri takvime bağlar; Diamond'ın Anasazi bölümünde ağaç halkalarına ayrılmış bir başlık bulunması, bu kaydın ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Göl ve deniz çökelleri ile polen dizileri bitki örtüsünü ve yağış düzenini izler: Akkad tartışmasındaki derin deniz karotu gibi, Doğu Çin'den alınan ve 4200 yıl",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Göl ve deniz çökelleri ile polen dizileri bitki örtüsünü ve yağış düzenini izler: Akkad tartışmasındaki derin deniz karotu gibi, Doğu Çin'den alınan ve 4200 yıl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Ladurie'nin kullandığı bağ bozumu tarihleri kilise ve kasaba kayıtlarından derlenmişti; Parker'ın on yedinci yüzyıl anlatısı da dönemin yazışma ve vakayinameler",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Parker"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ladurie'nin kullandığı bağ bozumu tarihleri kilise ve kasaba kayıtlarından derlenmişti; Parker'ın on yedinci yüzyıl anlatısı da dönemin yazışma ve vakayinameler",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ölçek de yanıltabilir: küresel ortalamalara bakıldığında Küçük Buz Çağı'nın ayrı bir dönemden çok uzun bir soğuma eğiliminin son evresi gibi göründüğü ileri sür",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Küçük, Buz, Çağı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Joseph Tainter 1988'de yayımlanan The Collapse of Complex Societies'te çöküşü siyasi bir süreç olarak tanımladı; alanın kurucu metinlerinden sayılan kitap, karm",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Joseph Tainter 1988'de yayımlanan The Collapse of Complex Societies'te çöküşü siyasi bir süreç olarak tanımladı; alanın kurucu metinlerinden sayılan kitap, karm",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Aynı yıl Norman Yoffee ile George Cowgill'in derlediği The Collapse of Ancient States and Civilizations, Mezopotamya'dan Maya'ya ve Roma'ya uzanan vakaları ayrı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eisenstadt'ın sonraki tartışmalarda sık anılan savı daha da ileri gider: çöküş, siyasi sistemlerin eksiksiz sonu olarak anlaşılırsa, böyle bir sonun hiçbir örne",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Karl Butzer'in 2012'de Amerikan Ulusal Bilimler Akademisi bülteninde çıkan Collapse, environment, and society başlıklı makalesi, itirazı vaka yöntemine bağladı:",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı bakış Tunç Çağı çöküşü tartışmasına da sızmıştır: Deniz Kavimleri'nin, Doğu Akdeniz'i vuran çevresel değişimlerin faili olduğu kadar mağduru da olabileceği",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tunç, Çağı, Deniz, Kavimleri"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Patricia McAnany ile Norman Yoffee'nin 2010'da yayımlanan derlemesi Questioning Collapse ise bu çizginin vaka kitabıdır: Grönland Nors toplumunun gerçekten başa",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu itiraz ansiklopedik düzeye de geçmiştir: Diamond'ın popüler Collapse'ine cevaben, çöküş diye anlatılan vakaların direnç ve toplumsal dönüşüm kavramlarıyla da",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Diamond'ın anlatısında ada toplumu ormanını tüketti ve yaklaşık 1600'e gelindiğinde savaş, yamyamlık ve nüfus kaybı sarmalına girdi; ada, kitapta çevresel yıkım",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Diamond'ın anlatısında ada toplumu ormanını tüketti ve yaklaşık 1600'e gelindiğinde savaş, yamyamlık ve nüfus kaybı sarmalına girdi; ada, kitapta çevresel yıkım",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Karşı okuma aynı adadan yazıldı: Terry Hunt ile Carl Lipo'nun Questioning Collapse'teki bölümü, ekokırım söylencesi dedikleri anlatıya karşı ekolojik felaket il",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Megakuraklık okuması eşzamanlılığı, kavram eleştirisi sürekliliği, çevresel seçim anlatısı kararları, ihtiyat çizgisi ölçeği sorar; bu yüzden taraflardan birini",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı iklim olayını yaşayan toplumlardan birinin dağılıp ötekinin ayakta kalması — Yirminci Hanedan Mısırı'nın ağır biçimde zayıflayıp yine de yıkılmaması gibi —",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yirminci, Hanedan, Mısırı"
     }
   ]
 }

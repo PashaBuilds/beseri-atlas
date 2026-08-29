@@ -1,14 +1,77 @@
 ## tartisma-milliyetcilik-ne-zaman
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.004Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:01:58.622Z_
 
-- [ATOMSUZ] k1 → "Bu haritanın çıkış noktası, kaynağın tarih bölümünde ayrı bir alt başlık olarak tuttuğu sorudur: milliyetçiliğ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "yüzyılın başına yerleştirdiğini yazar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, 1772'de yayımlanan bir dil kökeni incelemesinde ortak dilin rolünün vurgulandığını ve yazarın milliyet…"
-- [ATOMSUZ] k1 → "Bir kavramın fikirsel kökeninin belirli bir yıla ve metne bağlanması, tarihlendirme tartışmasının hangi zemind…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak toplumbilim başlığı altında iki yorum tutar: ilkselci evrimsel yorum ve Marksçı yorumlar." — programatik olarak ölçülemedi (ad karşılığı yok): Marksçı
-- [ATOMSUZ] k2 → "Yorumlardan birinin adını aldığı düşünür için tutulan kayıt, toplum biçimlerinin üretici gücün gelişimine göre…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Geriye dönük adlandırmaya dair bir kayıt, siyasi güdümlü anakronizm ile bilinçsiz anakronizmi ayrı başlıklar o…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Bu ayrımın kaydedilmesi, atlasın şu kuralının dayanağıdır: milliyetçilik terimi, bu atlasın 18." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynağın kendisi bir tarihlendirme verirken "sıklıkla" kaydını düşer ve bir hüküm vermez; bu atlas da vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "yüzyılın başına, Amerikan Bağımsızlık Bildirgesi'ne ya da Fransız Devrimi'ne yerleştirir; aynı kayıt, milletin…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k1 → "yüzyıla gelindiğinde sağlamca yerleştiği kabul edilir, öncesi tartışmanın kendisidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Milliyetçilik tarihlerinde Fransız Devrimi'nin (1789) önemli bir başlangıç noktası sayılması da bu dar zeminin…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k2 → "Milletler modern sayılırsa, ve kavramları daha erken yüzyıllara ancak geriye dönük bir okuma olduğu belirtiler…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Milletler modern sayılırsa, ve kavramları daha erken yüzyıllara ancak geriye dönük bir okuma olduğu belirtiler…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Tarihlendirme kararının siyasi bir yükü de vardır: hangi topluluğun kendini ne kadar eski sayabileceğini belir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "konferansında tartışmanın bugün de içinden konuşulan cevaplarından birini kurdu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Konferans önce eldeki adayları sırayla eler: saf ırk yoktur ve siyaseti etnografik çözümlemeye oturtmak onu bi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Geriye öznel bir tanım kalır: millet bir ruhtur ve biri geçmişte zengin bir hatıra mirası, öteki bugünde birli…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Fetihle kurulan krallıklarda fatihlerin kendi dillerini unutması — Clovis'in torunlarının artık Latin kökenli …"
+- [ATOMSUZ] k3 → "Tanımın olumlu yüzü de geçmişle bugünü aynı cümlede tutar: geçmişte ortak zaferler, bugünde ortak bir irade; b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Renan bu tanımı, bir metafor kullandığı için özür dileyerek özetler: bir milletin varlığı "günlük bir plebisit…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Aynı metin tarih yazımı için rahatsız edici bir gözlem de taşır: unutma, hatta tarihsel hata, milletin oluşumu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Felsefe yazını konferansı bugün de tartışmanın giriş kapısı olarak aktarır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Konum başlangıç sorusunun kendisini değiştirir: millet her gün yenilenen bir onay ise, aranacak şey bir doğum …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Konum başlangıç sorusunun kendisini değiştirir: millet her gün yenilenen bir onay ise, aranacak şey bir doğum …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "O yıl Ernest Gellner Nations and Nationalism'i yayımladı; Benedict Anderson'ın Imagined Communities'i ile Eric…"
+- [OK]      k1 → "O yıl Ernest Gellner Nations and Nationalism'i yayımladı; Benedict Anderson'ın Imagined Communities'i ile Eric…"
+- [OK]      k9 → "O yıl Ernest Gellner Nations and Nationalism'i yayımladı; Benedict Anderson'ın Imagined Communities'i ile Eric…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "yüzyılın sonundan önce aranmamalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "yüzyılın sonundan önce aranmamalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Kitabın kayıtlı bölüm başlıkları — tarım toplumunda kültür, sanayi toplumu, milliyetçilik çağına geçiş — savın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kitabın kayıtlı bölüm başlıkları — tarım toplumunda kültür, sanayi toplumu, milliyetçilik çağına geçiş — savın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bugün alanda en yaygın kabul gören çerçeve olan modernleşme kuramı bu çizgiden türetilir: milliyetçilik, sanay…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Matbaa kapitalizminin yükselişi yerel dillerde standart okur kamuları yaratır; en küçük milletin üyeleri bile …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Matbaa kapitalizminin yükselişi yerel dillerde standart okur kamuları yaratır; en küçük milletin üyeleri bile …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Buradaki vurgu uydurma değil kuruluş vurgusudur: yaygın okuryazarlık ve başta basılı söz olmak üzere iletişim …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Kitabın alt başlığı programı açıkça duyurur: milliyetçiliğin kökeni ve yayılışı üzerine düşünceler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Hobsbawm eşiği kitabının adına yazdı: 1990 tarihli incelemesi Nations and Nationalism since 1780 başlığını taş…"
+- [ATOMSUZ] k9 → "Ranger ile derlediği ciltle birlikte okununca çizginin iddiası netleşir: kökleri çok eski görünen milli gelene…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Ranger ile derlediği ciltle birlikte okununca çizginin iddiası netleşir: kökleri çok eski görünen milli gelene…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Modernist konumun sık aktarılan özeti buradan çıkar: milletler milliyetçiliği değil, milliyetçilik milletleri …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Modernist konumun sık aktarılan özeti buradan çıkar: milletler milliyetçiliği değil, milliyetçilik milletleri …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Modernliğin göstergesi yalnız sanayi ya da basım değildir; katı toplumsal hiyerarşilerin aşınması gibi başka m…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Konumun içindeki bilinen paradoks da buradan doğar: milletler çoğu örnekte kendilerini tarihin derinliklerine …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Konumun içindeki bilinen paradoks da buradan doğar: milletler çoğu örnekte kendilerini tarihin derinliklerine …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Etno-sembolcü okuma, milliyetçiliği sembollerin, mitlerin ve geleneklerin ürünü olarak açıklar ve alan yazının…"
+- [ATOMSUZ] k1 → "Konumun özü bir ayrımdır: ideoloji ve hareket olarak milliyetçilik moderndir; ama modern milletler boşlukta ku…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Konumun özü bir ayrımdır: ideoloji ve hareket olarak milliyetçilik moderndir; ama modern milletler boşlukta ku…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Çağdaş bir milletin eski bir etnik grubun çevresinde biçimlendiği durumlarda bile onu millet yapan şeyin hayal…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Smith tartışmanın haritasını da yazdı: 2000 tarihli incelemesi başlığıyla etnisite ve milliyetçilik üzerine ta…"
+- [ATOMSUZ] k7 → "Alanı modernistler, süreklilikçiler ve etno-sembolcüler biçiminde bölen sınıflandırma bu çizgiyle anılır; sını…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Alanı modernistler, süreklilikçiler ve etno-sembolcüler biçiminde bölen sınıflandırma bu çizgiyle anılır; sını…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Modernist okumada milletlerin kendilerini eski sanması açıklanacak bir yanılsamadır; etno-sembolcü okumada ise…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Modernist okumada milletlerin kendilerini eski sanması açıklanacak bir yanılsamadır; etno-sembolcü okumada ise…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu yüzden konum iki yönde birden eleştirilir: modernistlere göre çekirdek vurgusu eşiği geriye kaydırma riski …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu yüzden konum iki yönde birden eleştirilir: modernistlere göre çekirdek vurgusu eşiği geriye kaydırma riski …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "İlkselci görüş, romantik dönemde yaygın olan biçimiyle, milletlerin her zaman var olduğunu savunur; bu görüş b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Daha yumuşak sürüm ayaktadır: süreklilikçi okuma milletlerin modern olgular olduğunu kabul eder ama köklerini …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Felsefe yazını da aynı gerilimi kaydeder: milletler kendilerini çok eski bir soyun devamı olarak düşünür ve mo…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k8 → "Adrian Hastings 1997'de yayımlanan The Construction of Nationhood ile doğrudan Hobsbawm'ın 1780 eşiğine cevap …"
+- [ISARET]  k8 → "Hastings'in savunduğu çizgide milletin inşası ortaçağa kadar geriye izlenir; etnisiteyi millete dönüştüren baş…" — özel isim kaynakta bulunamadı: İngiltere
+- [OK]      k1 → "Hastings'in savunduğu çizgide milletin inşası ortaçağa kadar geriye izlenir; etnisiteyi millete dönüştüren baş…"
+- [OK]      k2 → "Aynı kanadın çağdaş bir devamı da kayıtlıdır: siyasal etnisitenin ve millet olmanın derin köklerini savunan ka…"
+- [ATOMSUZ] k1 → "Ortaçağ ve antikite sorusunun ansiklopedi kaydında hâlâ açık tutulması, bu kanadın kuram tarihine düşülmüş bir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "İlkselciliğin bir de evrimsel yorumu vardır ve ayrı tutulması gerekir: milliyetçiliği evrim kuramına dayandıra…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k8 → "Ortaçağcı itiraz bu yüzden ilkselcilikle aynı kefeye konmamalıdır; Hastings gibi tarihçiler milletin her zaman…"
+- [ATOMSUZ] k1 → "Ortaçağcı itiraz bu yüzden ilkselcilikle aynı kefeye konmamalıdır; Hastings gibi tarihçiler milletin her zaman…" — programatik olarak ölçülemedi (ad karşılığı yok): Hastings
+- [OK]      k1 → "Ansiklopedi kaydı terimi Johann Gottfried Herder'e ve 1772 tarihli dil kökeni incelemesine kadar götürür; Herd…"
+- [OK]      k1 → "Erica Benner'a göre Herder, dile dayalı kimliklerin meşru siyasi otoritenin başlıca kaynağı sayılması gerektiğ…"
+- [ATOMSUZ] k1 → "Bu kayıt tartışmayı kapatmaz, çünkü bir fikrin yazılması, bir hareketin doğması ve bir topluluğun o fikirle ge…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu kayıt tartışmayı kapatmaz, çünkü bir fikrin yazılması, bir hareketin doğması ve bir topluluğun o fikirle ge…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kelimenin 1772'de, hareketin görünür yükselişinin ise Fransız Devrimi ertesinde tarihlenmesi, aynı kaynağın iç…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "Modernistler bir ideolojinin ve hareketin tarihini sorar; süreklilikçiler ile etno-sembolcüler bir topluluk bi…"
+- [OK]      k1 → "Modernistler bir ideolojinin ve hareketin tarihini sorar; süreklilikçiler ile etno-sembolcüler bir topluluk bi…"
+- [ATOMSUZ] k1 → "yüzyıla gelindiğinde yerleşmiş olduğundan ibarettir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Aynı olay bile iki kampta iki ayrı şey olarak okunur: Fransız Devrimi modernist anlatıda bir başlangıç noktası…" — programatik olarak ölçülemedi (ad karşılığı yok): Fransız, Devrimi
+- [ATOMSUZ] k2 → "Aynı olay bile iki kampta iki ayrı şey olarak okunur: Fransız Devrimi modernist anlatıda bir başlangıç noktası…" — programatik olarak ölçülemedi (ad karşılığı yok): Fransız, Devrimi
+- [ATOMSUZ] k2 → "Erken dönem kimliklerinin okuryazar seçkinlerin ötesine ne kadar indiği, kaynakların doğası gereği güç ölçülür…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Modern öncesi etnik çekirdeklerin hangi eşikte millete dönüştüğü, etno-sembolcü okumada bile açık bir ölçüte b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Renan'ın uyarısı ise tartışmanın kendisine döner: milli hatıra unutmayla kurulduysa, milletin yaşını ölçmeye ç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Renan'ın uyarısı ise tartışmanın kendisine döner: milli hatıra unutmayla kurulduysa, milletin yaşını ölçmeye ç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 1 OK · 0 ISARET · 0 HATA · 8 ATOMSUZ
+**Özet:** 18 OK · 1 ISARET · 0 HATA · 53 ATOMSUZ

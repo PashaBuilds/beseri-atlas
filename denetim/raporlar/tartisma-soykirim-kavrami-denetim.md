@@ -1,15 +1,63 @@
 ## tartisma-soykirim-kavrami
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.408Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T03:59:51.107Z_
 
-- [OK]      k1 → "Kaynak, sözcüğün 1944'te Raphael Lemkin tarafından türetildiğini; eski Yunanca γένος ile Latince caedō sözcükl…" — 4 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir terimin türetildiği yılın bilinmesi, ondan önceki olayların bu terimle adlandırılmasının geriye dönük bir …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Terimi türeten kişi için tutulan kayıt, onu Polonyalı bir hukukçu olarak tanımlar." — programatik olarak ölçülemedi (ad karşılığı yok): Polonyalı
-- [OK]      k1 → "Kaynak, terimin çeşitli tanımları bulunmakla birlikte neredeyse bütün uluslararası hukuk organlarının soykırım…" — 1 atom doğrulandı; 4 ad ölçülemedi
-- [ATOMSUZ] k1 → "Aynı kaynak, uluslararası hukuki tanımın akademik tanımlardan daha dar olduğunu kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "İki tanım kümesinin genişliklerinin farklı olması, atlasın şu kuralının dayanağıdır: bu terim kullanıldığı her…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, hukuki tanım başlığı altında tanımlardaki temalar alt başlığını; ayrıca tanımların listesi ve tanımlar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir kavramın tanımına, tanım listesine ve tanım eleştirisine ayrı başlıklar ayrılması, tartışmanın kapanmadığı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Silahlı çatışma ölümleri veri kümesinde dünya değeri 1994'te 1.701.127'dir."
-- [ATOMSUZ] k3 → "Bu sayı bir soykırım sayımı değildir; sağlayıcının süregelen çatışma tanımına göre sayılmış yıllık bir toplamd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "1948 tarihli Soykırım Sözleşmesi'nin tanımı dört grup türü ve özel bir kast şartıyla sınırlıdır; akademik yazı…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "1948 tarihli Soykırım Sözleşmesi'nin tanımı dört grup türü ve özel bir kast şartıyla sınırlıdır; akademik yazı…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k4 → "Bir olayın bu adı taşıyıp taşımayacağı hangi tanımın seçildiğine bağlıdır; mahkemeler dar tanımla yargılarken …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Polonyalı-Yahudi hukukçu Raphael Lemkin sözcüğü, işgal altındaki Avrupa'daki Alman yönetimini incelediği Axis …" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Polonyalı-Yahudi hukukçu Raphael Lemkin sözcüğü, işgal altındaki Avrupa'daki Alman yönetimini incelediği Axis …" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Lemkin sözcüğü eski Yunanca genos (soy, kabile) ile Latince caedo (öldürmek) köklerinden kurdu ve kitaptaki ta…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k7 → "Sözcük mahkeme diline erken girdi ama suç statüsü gecikti: Nürnberg'deki Uluslararası Askeri Mahkeme'nin başsa…" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [ATOMSUZ] k4 → "Lemkin'in kavrayışı, sonradan hukuk metnine girecek tanımdan genişti; bir ulusun ya da etnik grubun yok edilme…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Lemkin'in kavrayışı, sonradan hukuk metnine girecek tanımdan genişti; bir ulusun ya da etnik grubun yok edilme…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Birleşmiş Milletler Genel Kurulu, Soykırım Suçunun Önlenmesi ve Cezalandırılması Sözleşmesi'ni 9 Aralık 1948'd…" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k3 → "Birleşmiş Milletler Genel Kurulu, Soykırım Suçunun Önlenmesi ve Cezalandırılması Sözleşmesi'ni 9 Aralık 1948'd…" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k1 → "madde, soykırımı ulusal, etnik, ırksal ya da dinsel bir grubu, grup olarak, kısmen ya da bütünüyle yok etme ka…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Sözleşme suçu barış zamanında da savaş zamanında da tanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Sekretarya uzmanlarının hazırladığı taslak soykırımı fiziksel, biyolojik ve kültürel olmak üzere üç kategoriye…" — programatik olarak ölçülemedi (ad karşılığı yok): Altıncı, Komite
+- [ATOMSUZ] k3 → "Grubu yerinden etmeye zorlamayı — sonradan etnik temizlik diye anılacak pratiği — fiil listesine ekleme öneris…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Amerika Birleşik Devletleri temsilcisi Ernest Gross, Kasım 1948'deki konuşmasında sözleşmenin kapsamının siyas…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Amerika Birleşik Devletleri temsilcisi Ernest Gross, Kasım 1948'deki konuşmasında sözleşmenin kapsamının siyas…" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k4 → "Sonraki yazında bu eksik çoğu kez Sovyetler Birliği'nin itirazına bağlanır ve Stalin'in ülkesindeki siyasal kı…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k4 → "Müzakere tarihi böylece tartışmanın kendisine dahil olmuştur: tanımın neden dar olduğu sorusu da tanım kadar ç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Dar tanımın gücü her şeyden önce fiilî yerleşikliğidir: uluslararası hukuk organlarının hemen hemen tümü soykı…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Tanım maddesi, Yugoslavya ve Ruanda için kurulan özel mahkemelerin statülerine de Uluslararası Ceza Mahkemesi'…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k3 → "Sözleşmenin tanıtım notunu yazan hukukçu William Schabas'a göre tanımı değiştirme çağrılarının reddedilegelmes…"
+- [ATOMSUZ] k3 → "Bu iş bölümünde soykırım "suçların suçu" konumunu korur: dar tanım, terimin ağırlığını taşıyan ayrıksı bir suç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Aynı doğrultuda Birleşik Devletler Holokost Anma Müzesi'nin ansiklopedisi, hukuki tanımıyla soykırımın — grubu…" — programatik olarak ölçülemedi (ad karşılığı yok): Birleşik, Devletler, Holokost, Anma
+- [ATOMSUZ] k5 → "Kitlesel öldürmenin varlığı yetmez; failin grubu, grup olarak, kısmen ya da bütünüyle yok etme özel kastı — hu…" — programatik olarak ölçülemedi (ad karşılığı yok): Uluslararası, Adalet, Divanı
+- [ATOMSUZ] k1 → "Kitlesel öldürmenin varlığı yetmez; failin grubu, grup olarak, kısmen ya da bütünüyle yok etme özel kastı — hu…" — programatik olarak ölçülemedi (ad karşılığı yok): Uluslararası, Adalet, Divanı
+- [ATOMSUZ] k5 → "Dar tanımın savunusu tam bu noktada kesinlik savunusudur: ölçüt ne kadar sıkıysa, suçlamanın ispatı ve çürütül…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Soykırım araştırmalarının kurucu kuşağından Leo Kuper, 1981'de yayımlanan Genocide: Its Political Use in the T…"
+- [OK]      k8 → "Soykırım araştırmalarının kurucu kuşağından Leo Kuper, 1981'de yayımlanan Genocide: Its Political Use in the T…"
+- [ATOMSUZ] k4 → "Kuper'e göre çağdaş dünyada siyasi farklılıklar, katliamın ve topluca yok etmenin zemini olarak en az ırksal, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Bu yüzden çözümlemesinde, tanımın dışında kalmasına karşın siyasi gruplara yönelik yok etme eylemlerine serbes…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k8 → "Bu yüzden çözümlemesinde, tanımın dışında kalmasına karşın siyasi gruplara yönelik yok etme eylemlerine serbes…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Helen Fein soykırımı, failin — kurbanın teslim olmasından ya da tehdit oluşturmamasından bağımsız olarak — bir…"
+- [OK]      k4 → "Frank Chalk ile Kurt Jonassohn'a göre soykırım, bir devletin ya da başka bir otoritenin yürüttüğü tek yanlı ki…"
+- [ATOMSUZ] k4 → "Bu tanımlar, hukuki listede bulunmayan grupları — failin gözünde grup olan herkesi — kapsama alır ve suçun mer…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Charny'ye göre jenerik anlamda soykırım, ilan edilmiş bir düşmanın askeri kuvvetlerine karşı yürütülen askeri …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Bu tanımda korunan grup listesi diye bir ölçüt kalmaz; belirleyici olan kurbanların savunmasızlığı ile öldürme…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Katz'a göre soykırım, failin tanımladığı ulusal, etnik, ırksal, dinsel, siyasal, toplumsal, cinsiyete dayalı y…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Grup listesi geniştir ama kast ölçütü mutlaklaşır: kısmen yok etmeyi hedefleyen şiddet bu tanımın kapsamına gi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "İki tanım yan yana konduğunda tartışmanın yapısı görünür hâle gelir: kavram genişledikçe daha çok kurbanı adla…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Ruanda için kurulan Uluslararası Ceza Mahkemesi, kendi kurumsal kaydına göre soykırım suçunda hüküm veren ve 1…" — 2 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k5 → "Uluslararası Adalet Divanı, Bosna-Hersek'in Sırbistan'a karşı açtığı davada 26 Şubat 2007'de verdiği kararda, …" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k5 → "Divan aynı kararda Sırbistan'ın soykırımı önleme yükümlülüğünü ihlal ettiğine karar verdi; yükümlülük, ciddi t…"
+- [ATOMSUZ] k5 → "Kısmen ifadesi coğrafi olarak sınırlı bir bölgedeki grup parçası için işletilebilmiş, tanımın alt sınırı böyle…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Kısmen ifadesi coğrafi olarak sınırlı bir bölgedeki grup parçası için işletilebilmiş, tanımın alt sınırı böyle…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Uluslararası Adalet Divanı ile Yugoslavya mahkemesinin kararları, tanımın kısıtlayıcı yorumunu doğrulayan bir …" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Silahlı çatışma ölümleri veri kümesinde dünya değeri 1994'te yüksek tahmin sütununda 1.701.127, merkezî tahmin…"
+- [OK]      k9 → "Silahlı çatışma ölümleri veri kümesinde dünya değeri 1994'te yüksek tahmin sütununda 1.701.127, merkezî tahmin…"
+- [ATOMSUZ] k6 → "Aynı yılın Ruanda'sına bir soykırım mahkemesinin penceresinden ve bir çatışma veri kümesinin penceresinden bak…" — programatik olarak ölçülemedi (ad karşılığı yok): Ruanda
+- [ATOMSUZ] k9 → "Aynı yılın Ruanda'sına bir soykırım mahkemesinin penceresinden ve bir çatışma veri kümesinin penceresinden bak…" — programatik olarak ölçülemedi (ad karşılığı yok): Ruanda
+- [OK]      k4 → "Terimden eski olaylar için ek bir katman vardır: sözcük 1944'te türetildiğinden, ondan önceki olayların bu adl…"
+- [OK]      k3 → "Terimden eski olaylar için ek bir katman vardır: sözcük 1944'te türetildiğinden, ondan önceki olayların bu adl…"
+- [OK]      k4 → "Hukuk alanında dar tanım yerleşiktir: uluslararası organların hemen hemen tümü 1948 metnine göre yargılamayı s…"
+- [OK]      k3 → "Hukuk alanında dar tanım yerleşiktir: uluslararası organların hemen hemen tümü 1948 metnine göre yargılamayı s…"
+- [ATOMSUZ] k4 → "Akademik alanda ise tanım listesi uzamaya devam eder ve hukuki tanımın hem sosyolojik tanımlardan hem kamu alg…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Siyasi grupların dışarıda bırakılması, Kuper'den bu yana savunulan bir eksik olarak durur; kültürel yok etme, …"
+- [ATOMSUZ] k3 → "Siyasi grupların dışarıda bırakılması, Kuper'den bu yana savunulan bir eksik olarak durur; kültürel yok etme, …" — programatik olarak ölçülemedi (ad karşılığı yok): Kuper
+- [ATOMSUZ] k5 → "Siyasi grupların dışarıda bırakılması, Kuper'den bu yana savunulan bir eksik olarak durur; kültürel yok etme, …" — programatik olarak ölçülemedi (ad karşılığı yok): Kuper
 
-**Özet:** 3 OK · 0 ISARET · 0 HATA · 7 ATOMSUZ
+**Özet:** 29 OK · 0 ISARET · 0 HATA · 29 ATOMSUZ

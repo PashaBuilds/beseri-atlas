@@ -1,0 +1,823 @@
+{
+  "id": "tartisma-milliyetcilik-ne-zaman",
+  "govde_hash": "3c7f37765d28",
+  "commit": "33a9638",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "yüzyılın başına, Amerikan Bağımsızlık Bildirgesi'ne ya da Fransız Devrimi'ne yerleştirir; aynı kayıt, milletin ortaçağda hatta antikitede farklı biçimlerde var olup olmadığı tartışmasının sürdüğünü de ekler.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "yüzyıla gelindiğinde sağlamca yerleştiği kabul edilir, öncesi tartışmanın kendisidir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Milliyetçilik tarihlerinde Fransız Devrimi'nin (1789) önemli bir başlangıç noktası sayılması da bu dar zeminin parçasıdır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Milletler modern sayılırsa, ve kavramları daha erken yüzyıllara ancak geriye dönük bir okuma olduğu belirtilerek taşınabilir; milletler eski sayılırsa, bugünün kimlik iddiaları geçmişi doğrudan tanık olarak çağırabilir hâle gelir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tartismanin bahsini kuran cerceve yorumu; iki kaynak da zemini verir ama cikarim yazara ait"
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Tarihlendirme kararının siyasi bir yükü de vardır: hangi topluluğun kendini ne kadar eski sayabileceğini belirler ve milletlerin kendilerini çok eski bir soy çizgisinin devamı olarak düşünme eğilimi, tartışmanın içinde durduğu kayıtlı bir çekim alanıdır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Eskilik duygusu k2de dogrudan; siyasi yuk cikarimi yazara ait"
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "konferansında tartışmanın bugün de içinden konuşulan cevaplarından birini kurdu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Konferansin varligi ve tarihi metnin kendisinde; unlulugu k2de ayrica kayitli"
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Konferans önce eldeki adayları sırayla eler: saf ırk yoktur ve siyaseti etnografik çözümlemeye oturtmak onu bir kuruntuya oturtmaktır; dil birleşmeye davet eder ama zorlamaz; din modern bir milliyete yeterli temel sunmaz; çıkar ortaklığı antlaşma yapar, vatan yapmaz; coğrafya tarihin temel etkenlerindendir ama milleti kendi başına çizmez.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Irk/dil/din/cikar/cografya elemesi metinde sirasiyla II-V basliklarinda"
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Geriye öznel bir tanım kalır: millet bir ruhtur ve biri geçmişte zengin bir hatıra mirası, öteki bugünde birlikte yaşama arzusu olmak üzere iki şeyden örülür.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Fetihle kurulan krallıklarda fatihlerin kendi dillerini unutması — Clovis'in torunlarının artık Latin kökenli halk dilini konuşması — Renan için milletin oluşumunda kurucu bir olaydır; buna karşılık fethedilenle fethedenin din üzerinden kalıcı biçimde ayrı tutulduğu düzenlerde böyle bir kaynaşma gerçekleşmez.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Clovis torunlari ve din ayrimi ornekleri metinde birebir"
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Tanımın olumlu yüzü de geçmişle bugünü aynı cümlede tutar: geçmişte ortak zaferler, bugünde ortak bir irade; birlikte büyük işler yapmış olmak ve yenilerini yapmak istemek.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Renan bu tanımı, bir metafor kullandığı için özür dileyerek özetler: bir milletin varlığı \"günlük bir plebisittir\".",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tek tirnakli alinti; metafor ozru de metinde"
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Aynı metin tarih yazımı için rahatsız edici bir gözlem de taşır: unutma, hatta tarihsel hata, milletin oluşumunda temel bir etkendir ve tarihsel araştırmanın ilerlemesi milliyet için çoğu zaman tehlikelidir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Felsefe yazını konferansı bugün de tartışmanın giriş kapısı olarak aktarır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2 girisini bu konferansla acar"
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Konum başlangıç sorusunun kendisini değiştirir: millet her gün yenilenen bir onay ise, aranacak şey bir doğum belgesi değil, rızanın hangi koşullarda üretilip sürdürüldüğüdür; tarihlendirme, tanımın gölgesinde kalır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Konumun tarihlendirme tartismasina cevirisi yazara ait"
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "O yıl Ernest Gellner Nations and Nationalism'i yayımladı; Benedict Anderson'ın Imagined Communities'i ile Eric Hobsbawm ve Terence Ranger'ın derlediği The Invention of Tradition aynı yılın kitaplarıdır.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Anderson 1983 ve Hobsbawm-Ranger 1983 k1de; Gellner 1983 k4 katalog tarihinde"
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "yüzyılın sonundan önce aranmamalıdır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Modernist esik iki kaynakta da acikca kayitli"
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Kitabın kayıtlı bölüm başlıkları — tarım toplumunda kültür, sanayi toplumu, milliyetçilik çağına geçiş — savın omurgasını kendiliğinden verir: sürekli büyümeye ve akışkan iş bölümüne dayanan toplum, üyelerinin okulda edinilmiş ortak bir yüksek kültürü paylaşmasını ister; kültür birimi ile siyaset biriminin çakışması talebi de milliyetçiliktir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k4 katalog bolum basliklarini birebir tasir; yuksek kultur ayrintisi kitabin icinden, katalog uzerinden kismi"
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Bugün alanda en yaygın kabul gören çerçeve olan modernleşme kuramı bu çizgiden türetilir: milliyetçilik, sanayileşme, kentleşme ve kitle eğitimi gibi süreçlerin milli bilinci mümkün kılmasıyla ortaya çıkmıştır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Matbaa kapitalizminin yükselişi yerel dillerde standart okur kamuları yaratır; en küçük milletin üyeleri bile birbirlerinin çoğunu hiç tanımayacak, yine de zihinlerinde ortak bir birliktelik imgesi taşıyacaktır — millet bu anlamda hayal edilmiş bir cemaattir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Matbaa kapitalizmi k1de, hayal edilmis cemaat tanimi k2de dogrudan"
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Buradaki vurgu uydurma değil kuruluş vurgusudur: yaygın okuryazarlık ve başta basılı söz olmak üzere iletişim araçları olmadan milletler var olamazdı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Kitabın alt başlığı programı açıkça duyurur: milliyetçiliğin kökeni ve yayılışı üzerine düşünceler.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iddia katalogdaki alt basligin cevirisidir; katalog kaydi oldugu icin kismi sayildi"
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Hobsbawm eşiği kitabının adına yazdı: 1990 tarihli incelemesi Nations and Nationalism since 1780 başlığını taşır ve alt başlığı programı, miti, gerçekliği ayırır.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katalog 1990 tarihini ve alt basligi tasir"
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Ranger ile derlediği ciltle birlikte okununca çizginin iddiası netleşir: kökleri çok eski görünen milli gelenekler incelemeye açıktır ve bu çizgide milliyetçilik icat edilmiş bir gelenek olarak tarif edilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Icat edilmis gelenek nitelemesi k1de dogrudan"
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Modernist konumun sık aktarılan özeti buradan çıkar: milletler milliyetçiliği değil, milliyetçilik milletleri üretir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozetleme yazara ait; k1 milletlerin toplumsal olarak kurulmus sayildigini dogrudan soyler"
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Modernliğin göstergesi yalnız sanayi ya da basım değildir; katı toplumsal hiyerarşilerin aşınması gibi başka modern özellikler de milletin ancak onlarla birlikte var olabileceği koşullar arasında sayılır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Konumun içindeki bilinen paradoks da buradan doğar: milletler çoğu örnekte kendilerini tarihin derinliklerine kök salmış, ülkenin ilk sakinlerinin doğrudan devamı sayar; modernist okumaya göre bu eskilik duygusu bir veri değil, açıklanması gereken olguların başında gelir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Paradoks k2de acikca kayitli"
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Etno-sembolcü okuma, milliyetçiliği sembollerin, mitlerin ve geleneklerin ürünü olarak açıklar ve alan yazınında Smith'in adıyla anılır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Konumun özü bir ayrımdır: ideoloji ve hareket olarak milliyetçilik moderndir; ama modern milletler boşlukta kurulmaz, çoğu örnekte mit, sembol ve hatıra taşıyan uzun ömürlü etnik topluluklara yaslanır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki katman ayrimi Smith literaturunun ozeti; k1 etno-sembolizmi, k2 eski etnik grup kaydini verir"
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Çağdaş bir milletin eski bir etnik grubun çevresinde biçimlendiği durumlarda bile onu millet yapan şeyin hayal edilmiş ortak geçmiş anlatısı olduğu kaydı, iki katmanın nasıl iç içe geçtiğini gösterir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Smith tartışmanın haritasını da yazdı: 2000 tarihli incelemesi başlığıyla etnisite ve milliyetçilik üzerine tarih yazımı tartışmalarını konu alır.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katalog 2000 tarihini ve basligi tasir"
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Alanı modernistler, süreklilikçiler ve etno-sembolcüler biçiminde bölen sınıflandırma bu çizgiyle anılır; sınıflandırmanın kendisi bile tartışmanın taraflarından birinin elinden çıkmıştır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Siniflandirmanin Smith cizgisiyle anilmasi kitap basligindan ve alan kullanimindan cikarildi"
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Modernist okumada milletlerin kendilerini eski sanması açıklanacak bir yanılsamadır; etno-sembolcü okumada ise aynı duygu bir hammaddedir — milliyetçi hareketler mitleri ve sembolleri sıfırdan uydurmak yerine eldeki birikimden seçer ve işler.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki okumanin karsilastirmasi yazara ait; iki ucu da kaynaklarda kayitli"
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Bu yüzden konum iki yönde birden eleştirilir: modernistlere göre çekirdek vurgusu eşiği geriye kaydırma riski taşır, erken millet savunucularına göre ise çekirdeği millet saymamakta direnmek eşiği keyfî biçimde yüksek tutmaktır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Yazarin sentezi; iki kampin karsilikli elestirisi kaynaklarda bu bicimde tek tek gecmez"
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "İlkselci görüş, romantik dönemde yaygın olan biçimiyle, milletlerin her zaman var olduğunu savunur; bu görüş bugün araştırmacıların çoğunca reddedilir, çünkü milletler toplumsal olarak kurulmuş ve tarihsel olarak koşullu sayılır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Daha yumuşak sürüm ayaktadır: süreklilikçi okuma milletlerin modern olgular olduğunu kabul eder ama köklerini uzun bir geçmişe uzatır ve akademik tartışma konusu olmayı sürdürür.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Felsefe yazını da aynı gerilimi kaydeder: milletler kendilerini çok eski bir soyun devamı olarak düşünür ve modernlik vurgusunun karşısında, millet olmanın derin tarihsel köklerini öne çıkaran bir muhalefet şerhi durur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Adrian Hastings 1997'de yayımlanan The Construction of Nationhood ile doğrudan Hobsbawm'ın 1780 eşiğine cevap verdi; kitabın katalog kaydı bile konuyu bu karşıtlıkla tanımlar ve milliyetçiliğin din boyutunu ayrı bir başlık olarak taşır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katalog konu alanlari Hobsbawm 1780 kitabini ve din basligini birebir listeler; katalog kaydi oldugu icin kismi"
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Hastings'in savunduğu çizgide milletin inşası ortaçağa kadar geriye izlenir; etnisiteyi millete dönüştüren başlıca güç din, özellikle yerel dile çevrilmiş kutsal metindir ve İngiltere bu sürecin erken örneği sayılır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Ortacag ve Ingiltere savi katalogda gecmez; dogrulama kutuge onerilen kanittadir (Wikipedia Adrian Hastings maddesi), kunye disi oldugu icin olculemez sayildi"
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Aynı kanadın çağdaş bir devamı da kayıtlıdır: siyasal etnisitenin ve millet olmanın derin köklerini savunan karşı okuma, felsefe yazınında Azar Gat'in 2013 tarihli çalışmasıyla anılır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Ortaçağ ve antikite sorusunun ansiklopedi kaydında hâlâ açık tutulması, bu kanadın kuram tarihine düşülmüş bir dipnottan ibaret olmadığını gösterir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "İlkselciliğin bir de evrimsel yorumu vardır ve ayrı tutulması gerekir: milliyetçiliği evrim kuramına dayandıran bu bakış geniş kamuoyunda ilgi görse de uzmanlarca genellikle reddedilir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Ortaçağcı itiraz bu yüzden ilkselcilikle aynı kefeye konmamalıdır; Hastings gibi tarihçiler milletin her zaman var olduğunu değil, belirli koşullarda — yazı, din, krallık — modern eşikten çok önce kurulabildiğini savunur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Ilkselcilik ile ortacagci itiraz ayrimi yazarin sentezi; Hastings icerigi kunyelerden olculemiyor"
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Ansiklopedi kaydı terimi Johann Gottfried Herder'e ve 1772 tarihli dil kökeni incelemesine kadar götürür; Herder ortak dilin rolünü vurgulamış, milliyet ve yurtseverlik kavramlarına olağanüstü önem atfetmiştir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 terim atfini aciklama isteyen bir notla verir; cumle kaydi kaynaga baglayarak aktarir"
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Erica Benner'a göre Herder, dile dayalı kimliklerin meşru siyasi otoritenin başlıca kaynağı sayılması gerektiğini açıkça öne süren ilk filozoftur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ilk filozof nitelemesi Bennera atfedilerek verildi; curutucunun onceki itirazi boylece karsilandi"
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Bu kayıt tartışmayı kapatmaz, çünkü bir fikrin yazılması, bir hareketin doğması ve bir topluluğun o fikirle gerçekten yaşaması ayrı şeylerdir; modernistler ile erken millet savunucuları tam bu aralığın iki yakasında durur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Fikir-hareket ayrimi yazarin cercevesi"
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Kelimenin 1772'de, hareketin görünür yükselişinin ise Fransız Devrimi ertesinde tarihlenmesi, aynı kaynağın içinde yan yana durabilmektedir.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "Modernistler bir ideolojinin ve hareketin tarihini sorar; süreklilikçiler ile etno-sembolcüler bir topluluk biçiminin tarihini; Renan ise tarihi değil tanımı sorar.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ayristirma yazarin sentezi; uc sorunun her biri kaynaklarda ayri ayri kayitli"
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "yüzyıla gelindiğinde yerleşmiş olduğundan ibarettir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i049",
+      "cumle": "Aynı olay bile iki kampta iki ayrı şey olarak okunur: Fransız Devrimi modernist anlatıda bir başlangıç noktası, süreklilikçi anlatıda uzun bir birikimin siyasal biçim kazandığı bir uğraktır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "1789un k1de baslangic sayilmasi dogrudan; cifte okuma cikarimi yazara ait"
+    },
+    {
+      "iddia_id": "i050",
+      "cumle": "Erken dönem kimliklerinin okuryazar seçkinlerin ötesine ne kadar indiği, kaynakların doğası gereği güç ölçülür.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Acik soru olarak birakildi; olcum iddiasi degil"
+    },
+    {
+      "iddia_id": "i051",
+      "cumle": "Modern öncesi etnik çekirdeklerin hangi eşikte millete dönüştüğü, etno-sembolcü okumada bile açık bir ölçüte bağlanmış değildir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Acik soru olarak birakildi; olcum iddiasi degil"
+    },
+    {
+      "iddia_id": "i052",
+      "cumle": "Renan'ın uyarısı ise tartışmanın kendisine döner: milli hatıra unutmayla kurulduysa, milletin yaşını ölçmeye çalışan tarih yazımı, ölçtüğü şeyin kuruluş malzemesini de eşeler ve bulgularının siyasi bir ağırlık taşımasını önleyemez.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Renanin uyarisi k3te dogrudan; tartismaya uygulanmasi yazara ait"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 30,
+    "kismi": 15,
+    "desteksiz": 0,
+    "olculemez": 7
+  }
+}

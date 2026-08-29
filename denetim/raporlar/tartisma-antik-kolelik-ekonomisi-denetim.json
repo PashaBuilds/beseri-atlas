@@ -1,51 +1,405 @@
 {
   "id": "tartisma-antik-kolelik-ekonomisi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:27.361Z",
-  "govde_hash": "87ff78a595ee",
-  "commit": "1d273c7",
+  "zaman": "2026-08-29T04:03:45.141Z",
+  "govde_hash": "939b284a3d47",
+  "commit": "33a9638",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Bu haritanın çıkış noktası kaynağın terminoloji bölümüdür: tek bir tanım yerine altı biçim.",
+      "anahtar": "k6",
+      "iddia": "Antik Yunan ve Roma'dan kalan metinler köleliği olağan bir kurum olarak anlatır: Atina'nın gümüş madenlerinde binlerce köle çalışır, Roma'nın çiftlik el kitapla",
       "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yunan, Roma, Atina"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Antik Yunan ve Roma'dan kalan metinler köleliği olağan bir kurum olarak anlatır: Atina'nın gümüş madenlerinde binlerce köle çalışır, Roma'nın çiftlik el kitapla",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Antik Yunan ve Roma'dan kalan metinler köleliği olağan bir kurum olarak anlatır: Atina'nın gümüş madenlerinde binlerce köle çalışır, Roma'nın çiftlik el kitapla",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, terminoloji başlığı altında mal kölelik, borç emeği, bağımlılar, zorla çalıştırma (altında çocuk askerler ve çocuk emeği), zorla evlendirme ve terimin d",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, özellikler başlığı altında iktisat ve tanımlama alt başlıklarını; hukuki yönler başlığı altında ise özel ile devlet eliyle uygulama ayrımını tutar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir olgunun iktisadi ve hukuki yönlerinin ayrı ayrı işlenmesi, sorunun iki farklı ölçütle sorulabileceğini gösterir; kaynak bu bölümlerde antik dönem için bir ü",
+      "iddia": "Sorunun iki ucunda, antik dünyaya hangi kavramlarla bakılacağına dair iki ayrı yöntem durur.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Sorunun sıklıkla sorulduğu düzen için tutulan kayıt, imparatorluk dönemini MÖ 27 ile MS 286 arasına yerleştirir.",
+      "iddia": "Sorunun iki ucunda, antik dünyaya hangi kavramlarla bakılacağına dair iki ayrı yöntem durur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "\"Köle toplumu\" nitelemesi antik dönem için savunulabilirse, klasik uygarlığın felsefesi ve mimarisi zorla çalıştırılan emeğin artık ürünü üzerinde yükselmiş dem",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "\"Köle toplumu\" nitelemesi antik dönem için savunulabilirse, klasik uygarlığın felsefesi ve mimarisi zorla çalıştırılan emeğin artık ürünü üzerinde yükselmiş dem",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Politika'nın birinci kitabında kimi insanların doğaları gereği köle olduğunu savunur; ona göre başka birinin malı olan insan, kullanım için bedenden ayrı bir al",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Bu savunmanın kanıt gösterilmeden öne sürüldüğü kavramın çağdaş incelemelerinde not edilir; aynı incelemeler, efendilik yönetiminin asıl olarak efendinin yararı",
       "durum": "OK",
       "not": ""
     },
     {
+      "anahtar": "k4",
+      "iddia": "Savunmanın varlığı başlı başına bir veridir: Politika, köleliğin doğaya aykırı olduğunu söyleyen bir karşı görüşü aktarır ve onu çürütmeye çalışır; kurum, kendi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Savunmanın varlığı başlı başına bir veridir: Politika, köleliğin doğaya aykırı olduğunu söyleyen bir karşı görüşü aktarır ve onu çürütmeye çalışır; kurum, kendi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Ksenophon'un kamu gelirleri üzerine küçük kitabı, kentin gelirini artırma planını Laurion gümüş madenlerine bağlar; yazara göre madenlerde iş, çalıştırılacak el",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı kitap, Nikeratos oğlu Nikias'ın gümüş madenlerinde çalıştırılmak üzere bin köleyi Sosias adlı Trakyalıya kiraladığını, bedelin köle başına günde bir obol o",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kölelik bu metinde ne savunulur ne sorgulanır; bir yatırım aracı olarak hesaplanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Tarım üzerine incelemesinde Varro, toprağı işleyen araçları üçe ayıran bir sınıflamayı aktarır: konuşan araçlar köleler, yarım sesli araçlar koşum hayvanları, s",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Aynı el kitabı bütün insanların tarımı kölelerle, özgürlerle ya da ikisiyle birlikte yürüttüğünü yazar; emek biçimleri çiftlik sahibinin önünde bir seçenekler l",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Cato'nun daha eski el kitabından Columella'nın bir kuşak sonraki incelemesine uzanan bu tür, köleli tarımı olağan işletme biçimi olarak varsayar ve kâhyanın köl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Cato'nun daha eski el kitabından Columella'nın bir kuşak sonraki incelemesine uzanan bu tür, köleli tarımı olağan işletme biçimi olarak varsayar ve kâhyanın köl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aristoteles okulundan çıkan Atinalıların Devleti, Solon öncesinde bütün ülkenin az sayıda kişinin elinde olduğunu, kirasını ödeyemeyen yoksulların çocuklarıyla ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aynı metin bu köylüleri, zenginlerin toprağını belirli bir ürün payı karşılığında işledikleri için hektemoroi adıyla anar; bağımlılık burada mülkiyetten değil, ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Solon'un reformu anlatının ekseninde durur: halkı \"borçlunun bedeni üzerine borç verilmesini yasaklayarak\" kurtardı ve bu düzenleme, yüklerin atılması anlamında",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Arkaik borç köleliği düzeninin ortadan kalktığı yerlerde bile borcunu ödeyemeyenin kendi zorunlu emeğiyle, kimi zaman çocuklarınınkiyle ödemeyi sürdürdüğünü Fin",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Moses Finley 1973'te yayımlanan The Ancient Economy'de tartışmanın çerçevesini değiştirdi: kitap, antik Yunan ve Roma ekonomisinin sermaye, emek, yatırım, piyas",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çözümleme sınıf yerine statü kavramıyla ilerler; efendi ile köle, toprak sahibi ile köylü, kent ile kır aynı statü düzeninin parçalarıdır ve ekonomi bu düzenin ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savın dayanaklarından biri antik iktisat yazınının kendi biçimidir: sonraki yüzyılların hane yönetimi geleneğine model olan metin, Ksenophon'un MÖ dördüncü yüzy",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Finley'ye göre klasik dönem Yunanistan'ı ile İtalya'ya odaklanan bakış, tarihin ilk gerçek köle toplumlarıyla karşı karşıyadır; bu toplumlar, başka bağımlı emek",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
       "anahtar": "k3",
-      "iddia": "Dönemin siyaset yazarı için tutulan kayıt, geride belki iki yüz kadar incelemeden oluşan bir külliyat bıraktığını ve bunlardan yaklaşık otuz birinin günümüze ul",
+      "iddia": "1980'de yayımlanan Ancient Slavery and Modern Ideology aynı savı tarihsel bir karşılaştırmaya oturtur: Finley'ye göre tarihte yalnızca beş gerçek köle toplumu v",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ölçüt sayım değildir: köle toplumu, mülk sahibi sınıfın artık ürününü esas olarak köle emeğinden çektiği toplumdur ve soru gelirin nereden geldiği sorusudur.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Bir dönemin siyaset metinlerinin çoğunun elimizde olmaması, antik iktisat sorularının neden dolaylı kanıtla yürüdüğünün dayanağıdır.",
+      "iddia": "Ölçüt sayım değildir: köle toplumu, mülk sahibi sınıfın artık ürününü esas olarak köle emeğinden çektiği toplumdur ve soru gelirin nereden geldiği sorusudur.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Finley kanıtın sınırını da saklamaz: antik köleliğin kârlılığını hesaplayacak veri elde yoktur ve kölelik en sert yüzünü İspanyol madenleri ile Roma latifundial",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Laurion'a dönüp bakan da yine odur: Ksenophon'un kamu gelirleri kitabının bütün programını Laurion'un tükenmez madenleri üzerine kurduğunu hatırlatır; birincil ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Ksenophon, Laurion"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Laurion'a dönüp bakan da yine odur: Ksenophon'un kamu gelirleri kitabının bütün programını Laurion'un tükenmez madenleri üzerine kurduğunu hatırlatır; birincil ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Michael Rostovtzeff 1926'da yayımlanan The Social and Economic History of the Roman Empire'da şehir ekonomisi üzerinden okudu; ona göre Antoninler'in anayasal m",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Iulius'lar ile Claudius'ların siyasetini de aynı çerçeveye yerleştirir: amaç, devleti imparatorluğun bütünündeki kent burjuvazisi üzerine kurmaktı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kitabın dili bilinçli olarak moderndir: İtalyan burjuvazisi ile İtalyan proletaryası arasındaki ittifaktan, geç Cumhuriyet'e özgü feodal kapitalist düzenin çökü",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu okumada kölelik yok sayılmaz; ama düzenin tanımlayıcı özelliği köle emeği değil, ticaretin, kent yaşamının ve mülk sahibi orta sınıfın gelişmişliğidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Rostovtzeff'in kavram dağarcığı on dokuzuncu yüzyılın sınıf sözlüğünden geliyordu ve sonraki eleştiri tam bu noktaya yüklendi; Finley'nin kitabı, modern kategor",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Rostovtzeff'in kavram dağarcığı on dokuzuncu yüzyılın sınıf sözlüğünden geliyordu ve sonraki eleştiri tam bu noktaya yüklendi; Finley'nin kitabı, modern kategor",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Finley"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tartışma bu yüzden yalnızca köleliğin payı hakkında değildir; antik ekonominin kendine özgü bir nesne mi, yoksa modern ekonominin küçük ölçekli bir öncülü mü ol",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tartışma bu yüzden yalnızca köleliğin payı hakkında değildir; antik ekonominin kendine özgü bir nesne mi, yoksa modern ekonominin küçük ölçekli bir öncülü mü ol",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Roma dünyası için köle sayıları sayımdan değil modelden gelir: bir hesap, MÖ altmışların ortasından MÖ 30'a kadar İtalya'nın her yıl 100.000 yeni köleye gerek d",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Walter Scheidel bu modellerin içinden konuşur: 2005 tarihli bir çalışmasında İtalya'nın köle nüfusunu hareketlilik ve doğum üzerinden yeniden kurdu; İtalya'daki",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "MÖ birinci yüzyılın sonunda İtalya nüfusunun yaklaşık yüzde 20 ila 30'unun köle olduğu tahmin edilir; bu, en az bir ila iki milyon insan demektir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Geç imparatorluk için bir hesap, MS 260 ile 425 arasında köle nüfusunu beş milyonun biraz altında, toplam nüfusun yüzde 10 ila 15'i düzeyinde bulur; kölelerin y",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Devletin kendi kayıtları da dolaylı ölçüm verir: azat vergisi MÖ 357'den itibaren kölenin değerinin yüzde 5'i olarak alındı; Augustus'un koyduğu yüzde 2'lik sat",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Karşılaştırma için Ptolemaios Mısır'ında köle satış vergisi yüzde 20'ydi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Mülkiyetin dağılımı da eşitsizdi: bir tahmine göre bütün kölelerin yüzde 49'u, imparatorluk nüfusunun yüzde 1,5'inden azını oluşturan seçkinlerin elindeydi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Delos pazarından geçen köle ticareti Sicilya'daki büyük tarım işletmelerini, latifundiaları besledi; bu işletmelerde biriken köleler, MÖ 135 ve 104'te patlak ve",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Roma'nın MÖ altıncı yüzyıldan üçüncü yüzyıla uzanan süreçte adım adım bir köle toplumuna dönüştüğü değerlendirmesi de aynı kayıtta durur; bu oranların nasıl oku",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yunanlar Sparta helotlarından köle diye söz eder; ama Finley bu grubun Atina'nın mal kölelerinden kolayca ayırt edildiğini yazar: helotlar bireylerin mülkü deği",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Lakonia ile Messenia'da Spartalıların topraklarını işleyen bu kesim, sayıca efendilerinden çok daha kalabalıktı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Ayrım antik metinlerin kendi dilinde de görünür: Politika, helotlar ile Teselya penestlerini, başkalarının çalıştırdığı kölelerin yanında ayrıca adlandırılan ba",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Borç köleliği yelpazenin üçüncü rengidir: Solon'un kaldırdığı kurum mal köleliği değil, borçlunun bedeni üzerine kurulan bağımlılıktı ve reform mal köleliğine d",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu üç biçim aynı başlık altında toplandığında oranlar da anlamını değiştirir; köle toplumu tartışması bu yüzden bir tanım tartışmasıyla iç içe yürür ve hangi bi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bu üç biçim aynı başlık altında toplandığında oranlar da anlamını değiştirir; köle toplumu tartışması bu yüzden bir tanım tartışmasıyla iç içe yürür ve hangi bi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Her antik toplumu köleci sayan genelleme, kavramı öneren metnin kendisiyle çelişir; Finley'nin nitelemesi klasik çekirdek içindir ve o çekirdeğin çevresi başka ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Köleliği önemsiz sayan indirgeme ise birincil tanıklıkla çelişir; madenler, çiftlik el kitapları ve felsefenin savunma gereksinimi, kurumun klasik kentin gündel",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Köleliği önemsiz sayan indirgeme ise birincil tanıklıkla çelişir; madenler, çiftlik el kitapları ve felsefenin savunma gereksinimi, kurumun klasik kentin gündel",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Köleliği önemsiz sayan indirgeme ise birincil tanıklıkla çelişir; madenler, çiftlik el kitapları ve felsefenin savunma gereksinimi, kurumun klasik kentin gündel",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki uyarı birlikte okunduğunda tartışma bir seçim sorusuna daralmaz; klasik çekirdekte köle emeğinin ağırlığı ile o ağırlığın ölçülemezliği aynı anda doğru olab",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "İki uyarı birlikte okunduğunda tartışma bir seçim sorusuna daralmaz; klasik çekirdekte köle emeğinin ağırlığı ile o ağırlığın ölçülemezliği aynı anda doğru olab",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Oran sorusu modele bağlı kalır: hiçbir antik sayım köle payını vermez ve aralıkların genişliği hangi varsayımın seçildiğine göre değişir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tanım sorusu çözülmüş değildir: mal kölesi, helot ve borç bağımlısı ayrı hukuki biçimlerdir ve üçünü aynı sütuna yazan her hesap, ölçtüğü şeyi baştan bulanıklaş",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Tanım sorusu çözülmüş değildir: mal kölesi, helot ve borç bağımlısı ayrı hukuki biçimlerdir ve üçünü aynı sütuna yazan her hesap, ölçtüğü şeyi baştan bulanıklaş",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kapsam sorusu ise kavramın kendisini sınar: köle toplumu nitelemesi klasik Yunanistan ile Roma İtalyası üzerinde tartışılırken, antik dünyanın geri kalanının ha",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kapsam sorusu ise kavramın kendisini sınar: köle toplumu nitelemesi klasik Yunanistan ile Roma İtalyası üzerinde tartışılırken, antik dünyanın geri kalanının ha",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yunanistan, Roma, İtalyası"
     }
   ]
 }

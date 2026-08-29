@@ -147,6 +147,52 @@ whitelist:
       asiri-olum tahmini haber sayfasi "14.9 million" dizesini birebir
       tasiyor). Modern saglik/salgin iddialarinin resmi kaynagi olarak
       Wikipedia'ya ustun tercih.
+  - alan: legal.un.org
+    tur: akademik
+    dogrulanabilir: true
+    kapsam: [hukuk, modern]
+    not: >
+      BM Uluslararasi Hukuk Gorsel-Isitsel Kutuphanesi. 2026-08-29 hakem
+      olcumu: taze fetch 200, 32k metin. Sozlesme muzakere tarihcesi ve
+      imzali uzman notlari icin havuzda esdegeri yok.
+  - alan: icj-cij.org
+    tur: birincil
+    dogrulanabilir: true
+    kapsam: [hukuk, modern]
+    not: >
+      Uluslararasi Adalet Divani resmi dava kayitlari. 2026-08-29 hakem
+      olcumu: 200, 46k. Uluslararasi mahkeme kararlari icin esdeger yok.
+  - alan: unictr.irmct.org
+    tur: birincil
+    dogrulanabilir: true
+    kapsam: [hukuk, modern]
+    not: >
+      BM/IRMCT resmi ICTR arsivi. 2026-08-29 hakem olcumu: 200. Kalici BM
+      mekanizmasi altinda; kirilma riski dusuk.
+  - alan: encyclopedia.ushmm.org
+    tur: ansiklopedi
+    dogrulanabilir: true
+    kapsam: [soykirim, modern]
+    not: >
+      ABD Holokost Anma Muzesi ansiklopedisi. 2026-08-29 hakem olcumu:
+      200, temiz HTML. Soykirim/Holokost basliklarinda kurumsal referans.
+  - alan: lwl.org
+    tur: birincil
+    dogrulanabilir: true
+    kapsam: [erken-modern, avrupa]
+    not: >
+      LWL Westfaelische Geschichte (kamu kurumu). Osnabrueck antlasmasi
+      (IPO) tam metni; Avalon yalniz IPM'yi tasiyor, wikisource'ta IPO yok.
+      2026-08-29 hakem olcumu: iki taze fetch, ikisi de 200, 216k, dizeler
+      kararli.
+  - alan: eh.net
+    tur: akademik
+    dogrulanabilir: true
+    kapsam: [iktisat-tarihi]
+    not: >
+      Economic History Association'in acik ansiklopedisi. 2026-08-29 hakem
+      olcumu: 200, 58k, JS gerektirmiyor. Iktisat tarihi basliklarinda
+      hakem-gormus ikincil kaynak.
   - alan: population.un.org
     tur: veri
     dogrulanabilir: false

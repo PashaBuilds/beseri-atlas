@@ -1,0 +1,516 @@
+{
+  "id": "tartisma-iklim-ve-cokus",
+  "govde_hash": "60fd8c377f3a",
+  "commit": "33a9638",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Ellsworth Huntington 1915'te yayımladığı Civilization and Climate'ta uygarlığın ancak belirli bir iklim kuşağında serpilebildiğini savunuyor, dünya haritasını hesapladığı iklim enerjisi değerlerine göre boyuyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tam metin; iklim enerjisi haritalari ve 1915 metnin icinde."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Kitap, Yucatan ve Guatemala'daki Maya kalıntılarını ve Kaliforniya'daki dev ağaçların büyüme ölçümlerini iklim salınımlarının kanıtı olarak okur; antik ulusların elverişli iklim dönemleriyle birlikte yükselip elverişsiz dönemlerle birlikte gerilediği fikri metinde açıkça durur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Maya ruins of Yucatan / big trees of California ve rise-fall pasajlari metinde birebir bulundu."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Huntington, Kropotkin'in Orta Asya'nın kuruması üzerine gözlemlerini de aynı çerçeveye bağlamıştı: bozkırın yavaş yavaş kuruması, Karanlık Çağların Avrupa'sına yönelen göç dalgalarını açıklayacak bir itki olarak sunuluyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kropotkin ve dessication of Asia pasaji metinde."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Sav bu hâliyle sınırsızdı; iklim salınımları yalnızca belli başlı çöküşleri değil, uygarlığın coğrafi dağılımının tamamını açıklamaya adaydı ve bu genişlik, sonraki kuşakların gözünde çizginin zayıflığı sayıldı.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ilk yarim kitabin kapsamindan cikarim; 'sonraki kusaklar' degerlendirmesi yazarin yorumu."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Emmanuel Le Roy Ladurie'nin 1967'de Fransızca yayımlanan ve 1971'de Times of Feast, Times of Famine adıyla İngilizce basılan kitabı, Avrupa'nın bin yıllık iklimini bağ bozumu tarihleri ve buzul kayıtları gibi serilerden kurdu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katalog 1967 Fransizca asli, 1971 baskiyi ve basligi dogrular; seri turleri kitabin icerik bilgisidir."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Kitabın ünlü ihtiyat dersi de buradadır: Ladurie'ye göre iklim tarihi önce kendi verisiyle, insan olaylarına bağlanmadan yazılmalıdır ve onun Avrupa örnekleminde iklim dalgalanmalarının insani sonuçları çoğu zaman sanıldığından küçüktür.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog yalniz kunyeyi dogrular; sonuc bolumunun ihtiyat dersi alan yazininda yaygin aktarilan icerik bilgisidir."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "1993'te Science'ta yayımlanan ve Kuzey Mezopotamya kazılarına dayanan çalışma, Akkad İmparatorluğu'nun dağılmasını ani bir kuraklığın kaydına bağladı; adı o günden beri megakuraklık okumasıyla birlikte anılan Weiss, sonraki çalışmalarında aynı savı üçüncü binyıl sonu Mezopotamya'sının geneline genişletti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 1993 Science haberini (How the Akkadian Empire Was Hung Out to Dry) kunyeler; k2 kaynakcasi Weiss 2015 Megadrought collapse and resilience in the late 3rd millenium BC Mesopotamia kaydini tasir. Weiss'in 1993 calismasinin basyazari oldugu bilgisi iki sayfada da acik degildir. HAKEM: Weiss-Akkad baglantisi bagimsiz dogrulandi (en.wikipedia.org/wiki/Harvey_Weiss: abrupt climate change 4,200 years BP ... forced the political collapse in southern Mesopotamia); k2 kaynakcasinda Weiss 2015 kaydi fetch ile teyit edildi."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Sav 2000 yılında denizden destek buldu: Cullen ve ekibinin Geology dergisinde yayımladığı inceleme, kuraklığın izini derin deniz çökelinde arayıp Akkad tartışmasına taşıdı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynakca kaydi tam: Cullen ve dig. 2000, Climate change and collapse of the Akkadian Empire: Evidence from the deep sea, Geology."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "DeMenocal'ın 2001'de Science'ta çıkan değerlendirmesi ise son binyılların iklim değişimlerine verilen kültürel tepkileri vaka sınırlarını aşan bir çerçevede topladı ve savı karşılaştırmalı bir programa çevirdi; 2019'da Journal of Archaeological Science'ta yayımlanan bir çalışma da uzun dönemli iklim değişiminin Akkad'ın dağılma sürecindeki etkilerini yeniden ele aldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki kaynakca kaydi da sayfada tam basliklariyla var (DeMenocal 2001; Cookson ve dig. 2019)."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "MÖ 2200 dolaylarında başlayan bu kurak evre bugün 4.2 kiloyıl olayı olarak adlandırılıyor ve yalnızca Akkad'la değil, Mısır Eski Krallığı'nın ve Liangzhu kültürünün sonuyla, belki İndus kentlerinin gerileyişiyle de ilişkilendiriliyor.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 olayin ad ve vaka listesini, k2 MÖ 2200 baslangicini acikca verir."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Daha geniş ölçekte, Afrika ve Asya'da beş bin ile dört bin yıl önce arasına tarihlenen bir megakuraklık, Yeşil Sahra'nın çölleşmesi ve muson düzeninin bozulmasıyla birlikte anılır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "5.000-4.000 yil once araligi, Yesil Sahra ve muson pasaji k1 metninde."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Çizgi bugün de üretkendir: Üçüncü Ur Hanedanlığı'nın yıkılış sürecini nüfus baskısı, tuzlanma ve tahıl kıtlığı üzerinden 4,2 ka iklim olayına bağlayan yakın tarihli bir inceleme, aynı açıklama ailesinin güncel bir örneğidir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Makalenin kendi ozeti bu zinciri kurar."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Yine de dikkatle okunduğunda kaynakların dili çekingendir: aynı ansiklopedik özet, olayın Akkad'ın çöküşüyle çakıştığını ve ona neden olmuş olabileceğini yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: coincided with and may have caused."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Maya örneği bunun öğretici olanıdır, çünkü kuraklık kayıtları geldiğinde tartışma çoktan kurulmuştu: Yoffee ile Cowgill'in 1988 tarihli derlemesinde Klasik Maya uygarlığının çöküşüne ayrılan bölümü Patrick Culbert yazmıştı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katalog TOC: The collapse of classic Maya civilization / T. Patrick Culbert; 1988."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Jared Diamond'ın 2005 tarihli Collapse kitabı, Klasik Maya bölümünü savaşlar ve kuraklıklar ekseninde kurar; kitabın karşılaştırmalı yöntemi, Paskalya Adası'ndan Grönland Norslarına uzanan örnekleri beş etkenli ortak bir çerçevede toplar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katalog TOC: The Maya collapses / Wars and droughts; A five-point framework; Twilight at Easter; Norse Greenland bolumleri."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Geoffrey Parker'ın 2013'te yayımlanan Global Crisis'i ise savı en geniş ölçeğe taşıdı: kitap, on yedinci yüzyılın savaş ve felaket dalgasını iklim değişikliğiyle birlikte ele alan sekiz yüz sayfayı aşkın bir genel kriz anlatısıdır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katalog: 2013, baslik (war, climate change and catastrophe in the seventeenth century), 871 sayfa. HAKEM: odunc-kisitli katalog kunyesine yaslandigi icin dogrudan sayilmadi, kismiye dusuruldu; tez ayrica bagimsiz dogrulandi (en.wikipedia.org/wiki/General_Crisis: in 2013 he expanded the concept to argue there was a global General Crisis, exacerbated by ... the Little Ice Age)."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Bu okumanın ansiklopedik özeti de nettir: Otuz Yıl Savaşı'nın 1618 ile 1648 arasında Avrupa'yı kırıp geçirdiği dönem, on yedinci yüzyıl genel krizinin parçası sayılır ve kriz Küçük Buz Çağı'yla, güneş lekelerinin neredeyse kaybolduğu Maunder Minimumu'yla birlikte anlatılır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1618-1648, General Crisis of the Seventeenth Century, Little Ice Age ve Maunder Minimum pasajlari k1 metninde."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Orta Çağ Sıcak Dönemi'nin sona erişi de aynı çerçevede kullanılır: on üçüncü ve on dördüncü yüzyıl soğuması Moğol yayılmasıyla, ardından gelen kıtlık ve savaşlar Kara Ölüm'ün yayılma koşullarıyla ilişkilendirilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Mongol conquests / Medieval Warm Period giving way to the Little Ice Age / Black Death pasaji k1 metninde."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Buz karotlarında korunmuş hava örnekleri, atmosferdeki karbondioksit yoğunluğunun milyonda pay cinsinden ve yüksek çözünürlükle ölçülmesine izin verir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ust veri altyazisi: measured in parts per million (ppm) ... using preserved air samples from ice cores."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Bu yöntemle kurulan seri, günümüzden sekiz yüz bin yılı aşkın bir geçmişe uzanır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV'nin en eski satirlari -803719 yilina iner."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Ağaç halkaları yıl yıl sayılabildiği için kurak dizileri takvime bağlar; Diamond'ın Anasazi bölümünde ağaç halkalarına ayrılmış bir başlık bulunması, bu kaydın çöküş anlatılarındaki yerini gösterir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog TOC Tree rings basligini Anasazi bolumunde gosterir; ilk yarim genel yontem bilgisidir."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Göl ve deniz çökelleri ile polen dizileri bitki örtüsünü ve yağış düzenini izler: Akkad tartışmasındaki derin deniz karotu gibi, Doğu Çin'den alınan ve 4200 yıl önce dolayındaki sınırda büyük iklim değişkenliği gösteren yüksek çözünürlüklü bir polen kaydı da bu türdendir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 kaynakcasi Dogu Cin polen kaydinin basligini (around 4200 years ago) tasir; k2 derin deniz kaydini kunyeler."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Ladurie'nin kullandığı bağ bozumu tarihleri kilise ve kasaba kayıtlarından derlenmişti; Parker'ın on yedinci yüzyıl anlatısı da dönemin yazışma ve vakayinamelerine yaslanır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki katalog da kitabin kimligini dogrular; kaynak malzemesi bilgisi kitaplarin icerik bilgisidir."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Ölçek de yanıltabilir: küresel ortalamalara bakıldığında Küçük Buz Çağı'nın ayrı bir dönemden çok uzun bir soğuma eğiliminin son evresi gibi göründüğü ileri sürülmüştür; yerel seriler aynı yıllar için birbirinden farklı hikâyeler anlatabilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ilk yarim k1'de birebir (not a distinct global time period but the end of a long temperature decline); ikinci yarim yorumdur."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Joseph Tainter 1988'de yayımlanan The Collapse of Complex Societies'te çöküşü siyasi bir süreç olarak tanımladı; alanın kurucu metinlerinden sayılan kitap, karmaşıklığın azalmasını gizemli bir son değil, ölçülebilir bir örgütlenme değişimi olarak ele alır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: a political process / seminal and founding work; k6 katalog kunyeyi dogrular."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Aynı yıl Norman Yoffee ile George Cowgill'in derlediği The Collapse of Ancient States and Civilizations, Mezopotamya'dan Maya'ya ve Roma'ya uzanan vakaları ayrı uzmanlara inceletti; cildin kapanışında Eisenstadt'ın bölümü çöküşün ötesine bakmayı öneriyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katalog TOC vaka bolumlerini ve Beyond collapse / Shmuel N. Eisenstadt kaydini listeler."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Eisenstadt'ın sonraki tartışmalarda sık anılan savı daha da ileri gider: çöküş, siyasi sistemlerin eksiksiz sonu olarak anlaşılırsa, böyle bir sonun hiçbir örnekte yaşanmadığı ileri sürülebilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: according to Shmuel Eisenstadt has not taken place at any point."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Karl Butzer'in 2012'de Amerikan Ulusal Bilimler Akademisi bülteninde çıkan Collapse, environment, and society başlıklı makalesi, itirazı vaka yöntemine bağladı: Butzer'e göre stres etkenlerini saymakla yetinen açıklamalar çevresel, siyasi ve toplumsal direncin hasarı sınırlayan payını küçümser; kıyamet senaryoları yerine toplumların ağır stresle nasıl baş ettiğine bakmak gelecek için daha öğreticidir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 makale kunyesini (Butzer 2012, PNAS 109(10) 3632-3639) tam tasir ve yedi yerde kaynak olarak kullanir; ozet icerigi makalenin kendisinden bilinir, k1 metni savi bu netlikte ozetlemez. HAKEM: ozet bagimsiz dogrulandi (PubMed 22371579 ozeti: Undue attention to stressors risks underestimating the intricate interplay of environmental, political, and sociocultural resilience in limiting the damages of collapse)."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Aynı bakış Tunç Çağı çöküşü tartışmasına da sızmıştır: Deniz Kavimleri'nin, Doğu Akdeniz'i vuran çevresel değişimlerin faili olduğu kadar mağduru da olabileceği ihtimali bugün ciddiye alınmaktadır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: It is possible that the Sea Peoples were themselves victims of the environmental changes."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Patricia McAnany ile Norman Yoffee'nin 2010'da yayımlanan derlemesi Questioning Collapse ise bu çizginin vaka kitabıdır: Grönland Nors toplumunun gerçekten başarısız olup olmadığını soran, Diamond'ın Amerikan Güneybatısı okumasına yerli perspektifinden cevap veren ve bugünün dertlerini sekizinci yüzyıl Maya toplumuna geri yansıtmayı sorgulayan bölümler içerir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katalog TOC uc bolumu de basliklariyla listeler (Berglund; Wilcox; McAnany ve Gallareta Negron)."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Bu itiraz ansiklopedik düzeye de geçmiştir: Diamond'ın popüler Collapse'ine cevaben, çöküş diye anlatılan vakaların direnç ve toplumsal dönüşüm kavramlarıyla daha iyi anlaşılacağı savunulur; Maya örneğinde sona erenin halk değil kutsal krallık kurumunun doğu ovalarındaki siyasi düzeni olduğu, dil ve kültür sürekliliğinin bugüne uzandığı vurgulanır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Resilience/transformation pasaji ve Maya Divine Kingship pasaji k1 metninde."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Diamond'ın anlatısında ada toplumu ormanını tüketti ve yaklaşık 1600'e gelindiğinde savaş, yamyamlık ve nüfus kaybı sarmalına girdi; ada, kitapta çevresel yıkımın metaforu olarak durur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 by around 1600 / warfare, cannibalism, and population decline; k5 TOC The vanished forest ve Easter as metaphor basliklarini tasir."
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "Karşı okuma aynı adadan yazıldı: Terry Hunt ile Carl Lipo'nun Questioning Collapse'teki bölümü, ekokırım söylencesi dedikleri anlatıya karşı ekolojik felaket ile toplumsal çöküşü birbirinden ayırır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katalog TOC: Ecological catastrophe, collapse, and the myth of ecocide on Rapa Nui / Terry L. Hunt and Carl P. Lipo."
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Aynı iklim olayını yaşayan toplumlardan birinin dağılıp ötekinin ayakta kalması — Yirminci Hanedan Mısırı'nın ağır biçimde zayıflayıp yine de yıkılmaması gibi — iklimin kendi başına yeterli bir açıklama olmadığını düşündürür; ama direnci hangi kurumsal farkların sağladığı vaka vaka tartışmalıdır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 Yirminci Hanedan doneminde Misir'in zayiflayip yikilmadigini anlatir; genel cikarim yazarin yorumudur."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 24,
+    "kismi": 9,
+    "desteksiz": 0,
+    "olculemez": 1
+  },
+  "not_orkestrator": "2026-08-29: hakem finalize sonrasi mekanik kapi onarimi (kilitli terim / dipnot / baslik atif dili); icerik iddialari degismedi, hash guncellendi."
+}

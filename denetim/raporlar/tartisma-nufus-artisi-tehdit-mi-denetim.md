@@ -1,13 +1,69 @@
 ## tartisma-nufus-artisi-tehdit-mi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.100Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:00:36.113Z_
 
-- [ATOMSUZ] k1 → "Bu haritanın çıkış noktası kaynağın kendi kipi: olay gerçekleşmiş değil öngörülmüş olarak kaydedilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, nüfus artışının potansiyel olarak üstel, gıda arzının ya da diğer kaynakların büyümesinin ise doğrusal…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak olayın adlarını sıralar: Malthusçu felaket, Malthus tuzağı, nüfus tuzağı, Malthusçu denetim, Malthusçu …"
-- [OK]      k2 → "Nüfus artış hızı serisinde sağlayıcının toplam satırı 1950 için yüzde 1,738, 2023 için yüzde 0,871 verir."
-- [OK]      k3 → "Buğday verimi serisinde ise 1961 için hektar başına 1,0889001 ton, 2024 için 3,6374002 ton verilir."
-- [ATOMSUZ] k2 → "Artış hızı düşerken verimin artması, modelin öngördüğü koşulun bu dönemde gerçekleşmediğini düşündürür; atlas …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Artış hızı düşerken verimin artması, modelin öngördüğü koşulun bu dönemde gerçekleşmediğini düşündürür; atlas …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Artış hızı düşerken verimin artması, modelin öngördüğü koşulun bu dönemde gerçekleşmediğini düşündürür; atlas …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Thomas Malthus 1798'de, insan sayısının geçim araçlarından daha hızlı büyüme eğiliminde olduğunu savunan bir d…"
+- [ATOMSUZ] k6 → "Sorunun iki yüzyıllık kaydı, iki tarafa da malzeme veren serilerle dolu: artış hızı yavaşlıyor, verim yükseliy…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k8 → "Sorunun iki yüzyıllık kaydı, iki tarafa da malzeme veren serilerle dolu: artış hızı yavaşlıyor, verim yükseliy…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k10 → "Sorunun iki yüzyıllık kaydı, iki tarafa da malzeme veren serilerle dolu: artış hızı yavaşlıyor, verim yükseliy…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Malthus ile Ehrlich büyümenin sınıra koştuğunu, Boserup ile Simon baskının uyarlanma ürettiğini savunur; üçünc…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "Malthus ile Ehrlich büyümenin sınıra koştuğunu, Boserup ile Simon baskının uyarlanma ürettiğini savunur; üçünc…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k10 → "Malthus ile Ehrlich büyümenin sınıra koştuğunu, Boserup ile Simon baskının uyarlanma ürettiğini savunur; üçünc…" — programatik olarak ölçülemedi (ad karşılığı yok): Ehrlich, Boserup, Simon
+- [OK]      k2 → "Denemenin çekirdeği iki büyüme biçimi arasındaki farktır: "Nüfus, denetlenmediğinde geometrik oranda artar; ge…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Denemenin çekirdeği iki büyüme biçimi arasındaki farktır: "Nüfus, denetlenmediğinde geometrik oranda artar; ge…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k2 → "Önleyici engel doğumları kısar; geç evlilik ve evlenmeme bu sınıfa girer." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Pozitif engel ölümleri artırır; kıtlık, salgın ve savaş bu sınıftadır ve Malthus kıtlığı doğanın en geride bek…"
+- [OK]      k2 → "Deneme bir hız tahmini de içerir: Amerika Birleşik Devletleri'nin kayıtlarına dayanarak, denetimsiz bir nüfusu…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k2 → "Koşul cümlesi mekanizmadan ayrılamaz: makas ancak nüfus geçim sınırına dayandığında kapanır ve o anda hangi en…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Deneme, Godwin ile Condorcet'nin toplumun sınırsızca iyileşebileceği yönündeki iyimserliğine karşı kaleme alın…"
+- [OK]      k9 → "Uzun dönemli seride dünya nüfusu 1800'de yaklaşık 1 milyar kişidir."
+- [OK]      k3 → "Paul Ehrlich'in The Population Bomb adlı kitabı 1968'de Ballantine Books etiketiyle çıktı."
+- [OK]      k1 → "Kitap, nüfus artış hızının gıda ve kaynak arzındaki büyümeyi hızla geride bıraktığını ve insanlığın demografik…"
+- [OK]      k1 → "Tartışmanın sonraki seyrini belirleyen satırlarından biri şuydu: "Kumarbaz olsaydım, İngiltere'nin 2000 yılınd…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k11 → "Tartışmanın sonraki seyrini belirleyen satırlarından biri şuydu: "Kumarbaz olsaydım, İngiltere'nin 2000 yılınd…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k11 → "Kitlesel ölüm getiren büyük kıtlıkların varlığı, izleyen on yıllarda önceki dönemlere göre belirgin biçimde az…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Küresel artış hızı ise kitap raflara çıktığında tepe noktasını çoktan görmüştü: seri 1963'te yüzde 2,283 ile z…"
+- [OK]      k4 → "Ester Boserup 1965'te yayımlanan The Conditions of Agricultural Growth ile nedensellik okunu tersine çevirdi; …"
+- [ATOMSUZ] k4 → "Boserup'a göre artan nüfus, nadası kısaltmaya, emeği yoğunlaştırmaya ve yeni teknikleri denemeye zorlar; gıda …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Malthus'ta gıda sabittir ve nüfus ona uyar; Boserup'ta nüfus verilidir ve tarım ona uyar." — programatik olarak ölçülemedi (ad karşılığı yok): Boserup
+- [OK]      k4 → "Malthus'ta gıda sabittir ve nüfus ona uyar; Boserup'ta nüfus verilidir ve tarım ona uyar."
+- [OK]      k5 → "The Ultimate Resource başlığındaki nihai kaynak, hammaddeler değil insan zekâsıdır; kıtlaşan her girdinin yüks…"
+- [OK]      k1 → "The Ultimate Resource başlığındaki nihai kaynak, hammaddeler değil insan zekâsıdır; kıtlaşan her girdinin yüks…"
+- [OK]      k1 → "Simon 1981 tarihli kitabında, kişi başına gıda için kullanılan ekili alanın zamanla azaldığını ve bu azalmanın…"
+- [OK]      k1 → "Meydan okuma Social Science Quarterly'nin sayfalarında doğdu: Simon, Ehrlich'i parasını sözünün arkasına koyma…"
+- [ATOMSUZ] k1 → "Karşı tarafa istediği hammaddeyi ve bir yıldan uzun istediği vadeyi seçme hakkı tanıyordu; enflasyondan arındı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Ehrlich ve meslektaşları krom, bakır, nikel, kalay ve tungsten olmak üzere beş metal seçti; her birinden kâğıt…"
+- [OK]      k1 → "Vade dolduğunda beş metalin beşi de enflasyondan arındırılmış fiyatta gerilemişti; Ehrlich, Simon'a 576,07 dol…"
+- [ATOMSUZ] k1 → "Düşüş kâğıt üzerindeki bir enflasyon oyunundan ibaret değildi: metallerin üçü nominal fiyatta da ucuzlamış, ka…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Aynı on yılda dünya nüfusu 800 milyondan fazla artmıştı; kayda göre bu, tarihin en büyük on yıllık artışıydı."
+- [OK]      k1 → "Jeremy Grantham, bahis 1980'den 2011'e uzatılsaydı Simon'ın beş metalin dördünde kaybedeceğini hesapladı."
+- [OK]      k1 → "Kiel ve arkadaşlarının 2010 tarihli çalışması, 1900 ile 2008 arasındaki bütün olası pencereler tarandığında Si…"
+- [ATOMSUZ] k1 → "Aynı çalışma buradan, bahiste uzmanlıktan çok şansın belirleyici olduğu dersini çıkarır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Nüfus artış hızı serisi 1950'de yüzde 1,738 ile başlar ve 2023'te yüzde 0,871'e iner."
+- [ATOMSUZ] k7 → "Toplam doğurganlık hızı aynı aralıkta kadın başına 4,85 çocuktan 2,25'e düştü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k8 → "Buğday verimi ters yönde koşar: 1961'de hektar başına 1,09 ton olan değer 2024'te 3,64 tona çıktı."
+- [OK]      k9 → "Uzun dönemli seride dünya nüfusu 1968'de yaklaşık 3,5 milyar, 2023'te yaklaşık 8,1 milyar kişidir."
+- [ATOMSUZ] k8 → "Nüfus iki yüzyılda sekiz katına çıktı; buğday verimi ise ölçüldüğü altmış yılda üç katından fazlasına yükseldi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Nüfus iki yüzyılda sekiz katına çıktı; buğday verimi ise ölçüldüğü altmış yılda üç katından fazlasına yükseldi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Artış hızı serisinin projeksiyon sütunu daha da ileri gider: orta senaryoda hız 2084'te sıfırın altına iner."
+- [ATOMSUZ] k6 → "Artış hızı düşerken verimin artması, modelin öngördüğü koşulun bu dönemde gerçekleşmediğini düşündürür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k8 → "Artış hızı düşerken verimin artması, modelin öngördüğü koşulun bu dönemde gerçekleşmediğini düşündürür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Buradan modelin yanlışlandığı sonucuna atlamak ise iki adımı atlar: model belirli bir koşula bağlıdır ve koşul…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k11 → "Kıtlığın on dokuzuncu yüzyıldaki ölüm yükü, yirminci yüzyıldakiyle benzer büyüklükte ve çok daha küçük bir nüf…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k11 → "Ó Gráda'nın değerlendirmesine göre kriz dışı yıllarda bile yaşam beklentisi düşükken sık kıtlık nüfusu taşımay…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k10 → "Küresel toplam doğurganlık hızı ise 1960'lardan bu yana yarıdan fazla düşerek kadın başına beş çocuğun üzerind…"
+- [ATOMSUZ] k12 → "Yüksek gelirli ülkelerin birçoğunda kadın başına iki çocuk tipik sayı hâline geldi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k10 → "Afrika'da doğurganlık 1970'lerde kadın başına yediye yakındı; bugün dörde yakın ve BM, 2050'de üçün altına inm…"
+- [OK]      k10 → "Aynı kurum 2022 revizyonunda Hindistan'ın 2023'te Çin'i geçerek en kalabalık ülke olacağını öngörmüştü; yeni t…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k10 → "Demografik geçiş çerçevesi bu düşüşü modelin dışından gelen bir şok olarak değil, ölüm oranlarındaki düşüşü iz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k10 → "Birleşmiş Milletler'in 2024 güncellemesi, orta senaryoda dünya nüfusunun 2084'te yaklaşık 10,3 milyar ile tepe…"
+- [OK]      k10 → "Aynı kurumun 2019 sürümü tepe görmüyordu ve 2100'de 10,9 milyara ulaşıp büyümeye devam eden bir seri veriyordu…"
+- [ATOMSUZ] k10 → "Sağlayıcının uyarısı metnin içinde duruyor: bunlar geleceğe dair kehanetler değil, projeksiyonlardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k12 → "Nijer'de toplam doğurganlık hızı 2023'te kadın başına altı çocuktu; ama çocukların bir bölümü yetişkinliğe ula…"
+- [ATOMSUZ] k1 → "Bahsin dönem itirazı bu savunmaya güç veriyor; ama hangi gözlemin modeli yanlışlayacağı söylenmedikçe, gecikme…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Seçilen beş metalin fiyatının 1950 ile 1975 arasında yükselmiş olduğunu, kendisinin ve meslektaşlarının gezege…"
+- [OK]      k1 → "Gıda ve metal fiyatlarında kaybedilen bahis, fiyatı olmayan kaynaklar için tekrarlanamadı: Ehrlich ile Schneid…"
+- [ATOMSUZ] k1 → "Simon öneriyi bir benzetmeyle geri çevirdi: kendisi sporcuların gelecek olimpiyatta daha iyi derece yapacağına…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Sonradan yapılan hesap, girseydi göstergelerin on birinde kaybedeceğini gösterdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Son soru mekanizmanın kalbine dönüyor: doğurganlığın zorlamasız düşüşü, Malthus'un önleyici engelinin yumuşamı…"
 
-**Özet:** 3 OK · 0 ISARET · 0 HATA · 5 ATOMSUZ
+**Özet:** 38 OK · 0 ISARET · 0 HATA · 26 ATOMSUZ

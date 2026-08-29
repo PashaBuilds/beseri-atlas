@@ -1,14 +1,69 @@
 ## tartisma-vestfalya-miti
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.648Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:21:09.418Z_
 
-- [OK]      k1 → "Bu haritanın çıkış noktası bir yokluktur: kaynağın egemenlik tarihi bölümlemesinde 1648 kendi başına bir başlı…"
-- [OK]      k1 → "Kaynak, tarih bölümünü beş alt başlığa ayırır: klasik, ortaçağ, Reform, Aydınlanma Çağı ve İkinci Dünya Savaşı…" — 1 atom doğrulandı; 3 ad ölçülemedi
-- [ATOMSUZ] k1 → "Kaynak, tanım ve türler başlığı altında mutlaklık, dışlayıcılık ile hukuken ve fiilen egemenlik alt başlıkları…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Üç ayrımın aynı anda geçerli olması, tek bir tarihte hepsinin birden değiştiğini söylemeyi zorlaştırır; kavram…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Aynı yüzyılda mutlak egemenliği savunan bir yazar için tutulan kayıt, onu 1588-1679 arasına yerleştirir, 1640 …"
-- [ATOMSUZ] k3 → "Bir kavramın savunucusunun aynı yüzyılda on yıl sürgünde kalmış olarak kaydedilmesi, o yüzyılda kavramın yerle…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Kavramın sonraki biçimi için tutulan kayıt, ilk bölümünü doğrudan karmaşıklık başlığına ayırır ve tarih bölümü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynağın bölümlemesi bu eşiği taşımadığı için, atlasın kendi dönem bölmesinde de bu tarih bir sınır değildir; …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Bu dosya tartismanin dayandigi antlasmanin metnine bağlanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Uluslararası ilişkiler öğretiminin kuruluş sahnesi çoğunlukla aynı biçimde kurulur: Otuz Yıl Savaşları 1648'de…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k3 → "Uluslararası ilişkiler öğretiminin kuruluş sahnesi çoğunlukla aynı biçimde kurulur: Otuz Yıl Savaşları 1648'de…" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [ATOMSUZ] k5 → "Siyaset bilimcilerin bir bölümü 'nı modern uluslararası sistemin başlangıcı sayar ve Vestfalya egemenliği deyi…" — programatik olarak ölçülemedi (ad karşılığı yok): Vestfalya
+- [ATOMSUZ] k5 → "Tartışma, bu sahnenin antlaşmaların kendisinde bulunup bulunmadığı üzerinedir ve sonucu bir ayrıntı değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Anlatının hammaddesi gerçek bir felakettir: barışın bitirdiği Otuz Yıl Savaşları, Almanya'yı kırıp geçiren ve …" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k5 → "Kuruluş anlatısı bu felaketin üzerine kurulur: savaşın bitişi, savaşı doğuran müdahale düzeninin de bitişi say…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Kuruluş anlatısı bu felaketin üzerine kurulur: savaşın bitişi, savaşı doğuran müdahale düzeninin de bitişi say…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Anlatının derli toplu yirminci yüzyıl ifadesi olarak Leo Gross'un American Journal of International Law dergis…"
+- [OK]      k3 → "Stanford Felsefe Ansiklopedisi'nin egemenlik maddesini yazan Daniel Philpott, yerleşik okumayı 2001 tarihli ki…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Maddeye göre zemin 1555'te hazırlanmıştı: Augsburg Barışı'nın cuius regio, eius religio formülü Alman prensler…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k3 → "Aynı maddeye göre Vestfalya'nın getirdiği gerçek değişikliklerden biri din işlerine müdahalenin kapanışıdır: m…" — programatik olarak ölçülemedi (ad karşılığı yok): Vestfalya
+- [ATOMSUZ] k3 → "Savunmanın içinde duran bir kabul, tartışmanın kapısını açar: aynı madde, antlaşma metinlerinin hiçbir yerinde…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "İmparator ile Fransa kralı arasında imzalanan Münster metninin İngilizce çevirisi Avalon Projesi'nde tam olara…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Altmış dördüncü madde, imparatorluk seçmenlerini, prenslerini ve zümrelerini eski haklarında, ayrıcalıklarında…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Altmış beşinci madde yasa yapımını, savaş ilanını, vergiyi ve asker toplamayı imparatorluk meclisinin ortak on…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Eşit egemen devletlerden oluşan bir düzen yerine bu maddelerde görünen şey, üyeleri dışarıyla antlaşma yapabil…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Çeviride egemenlik ailesinden sözcükler dokuz yerde geçer; ikisi kişi unvanında ve imparatorluk yüksek mahkeme…"
+- [ATOMSUZ] k1 → "Devletler arası bir ilke olarak egemenlik, karışmama ya da devletlerin eşitliği dili bu metinde hiç görünmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Karışmamanın bulunmadığı yerde ters yönde hüküm bile vardır: yüz yirmi üçüncü ve yüz yirmi dördüncü maddeler, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Hall Gardner'ın kitabını değerlendiren bir yazının aktarımına göre Vestfalya, karışmamanın katı biçimde kutsan…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Barış iki ayrı belgeden oluşur; imparatorun Fransa ile Münster'de, İsveç ile Osnabrück'te imzaladığı antlaşmal…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ISARET]  k2 → "Barış iki ayrı belgeden oluşur; imparatorun Fransa ile Münster'de, İsveç ile Osnabrück'te imzaladığı antlaşmal…" — özel isim kaynakta bulunamadı: Fransa
+- [OK]      k1 → "Münster metninin yirmi sekizinci maddesi bunun örneğidir: Augsburg İtikadı'na bağlı olanlar, Oppenheim halkı b…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "İmparator ile İsveç arasındaki Osnabrück metni, mezhep düzenini ayrıntısıyla kuran beşinci maddesiyle tartışma…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Madde, dinsel mülkiyet ve ibadet düzeni için ölçü yılı olarak 1 Ocak 1624'ü koyar: iki mezhebin seçmenleri, pr…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Zümrelerin ülkesel üstünlüğe bağlı reform hakkı metinde anılır; ama hükümdarından farklı mezhepten olan uyrukl…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Bu maddelerle 1555'in formülü taçlandırılmış değil daraltılmış görünür: hükümdarın din belirleme yetkisi bir ö…"
+- [OK]      k2 → "İç işler burada karışılmayan bir alan değil, imzacıların ortak metnine bağlanmış bir alandır; yerleşik anlatın…"
+- [OK]      k5 → "İç işler burada karışılmayan bir alan değil, imzacıların ortak metnine bağlanmış bir alandır; yerleşik anlatın…"
+- [OK]      k4 → "Andreas Osiander'ın International Organization dergisinde 2001'de çıkan ve itirazın adını koyan makalesi, "Ves…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Osiander bu itiraza yeni gelmiş de değildi; Avrupa devletler sistemi üzerine 1994 tarihli bir kitabı, mit eleş…"
+- [OK]      k5 → "Makalenin girişindeki yargı ise alıntılanagelmiştir: Osiander'a göre antlaşmalar ne Fransa'nın ne İsveç'in ne …" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k4 → "Makalenin kendisi kapalı erişimde durur; ama savın metne bakan yarısı, yukarıdaki madde okumalarıyla ve sözcük…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Makalenin kendisi kapalı erişimde durur; ama savın metne bakan yarısı, yukarıdaki madde okumalarıyla ve sözcük…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Stanford maddesi, Vestfalya mitinin sökülüp atılması gerektiğini savunan bir yazın sayar: Krasner'ın 1999 tari…" — 8 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k3 → "Ortak vurguları maddede şöyle özetlenir: devletliğin önemli öğeleri Vestfalya'dan çok önce vardı; egemenliği y…" — programatik olarak ölçülemedi (ad karşılığı yok): Vestfalya
+- [ATOMSUZ] k5 → "Mitin kendi kronolojisi de aynı yazında durur: karışmama ilkesi on sekizinci yüzyılda geliştirildi, sistemin d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Antlaşmanın imzasından anlatının olgunlaşmasına uzanan bu üç yüzyıl, mitin tarihinin antlaşmanın tarihinden ay…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Antlaşmanın imzasından anlatının olgunlaşmasına uzanan bu üç yüzyıl, mitin tarihinin antlaşmanın tarihinden ay…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "2003'te Verso'dan çıkan The Myth of 1648 kitabının alt başlığı derdini duyurur: sınıf, jeopolitik ve modern ul…"
+- [OK]      k6 → "Kitabın katalog kaydında konu başlıkları arasında Avrupa tarihinin 1648-1789 aralığı sayılır; Teschke bu aralı…"
+- [OK]      k3 → "Kitabın katalog kaydında konu başlıkları arasında Avrupa tarihinin 1648-1789 aralığı sayılır; Teschke bu aralı…"
+- [OK]      k6 → "Bu okumada 1648'in yanlışlığı yalnızca bir tarihleme hatası değildir; savaş ve antlaşma tarihinden okunamayaca…"
+- [OK]      k3 → "Bu okumada 1648'in yanlışlığı yalnızca bir tarihleme hatası değildir; savaş ve antlaşma tarihinden okunamayaca…"
+- [OK]      k7 → "Stephen Krasner'ın 1999'da Princeton'dan çıkan kitabı Sovereignty: Organized Hypocrisy, tartışmaya iki kutbun …"
+- [ATOMSUZ] k3 → "Krasner mit eleştirisi yazınının içinde anılır; ama vardığı yer düz bir çürütme değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Başlıktaki teşhise göre egemenlik örgütlü bir ikiyüzlülüktür: karışmama ve ülkesel egemenlik kuralları güçlü d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Başlıktaki teşhise göre egemenlik örgütlü bir ikiyüzlülüktür: karışmama ve ülkesel egemenlik kuralları güçlü d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "İhlallerin sürekliliği, 1648'de kurulup işleyen bir düzen anlatısını zayıflatır; normun sürekliliği ise metind…"
+- [OK]      k3 → "İhlallerin sürekliliği, 1648'de kurulup işleyen bir düzen anlatısını zayıflatır; normun sürekliliği ise metind…"
+- [ATOMSUZ] k3 → "Bedeli de açıktır: normun ne zaman ve nasıl kurulduğu sorusu bu çerçevede cevapsız kalır ve tarihleme yükü yen…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k8 → "1640 sonunda İngiltere'den ayrıldı, iç savaş yıllarını Paris'te sürgünde geçirdi ve 1651'e kadar dönmedi; mutl…"
+- [ATOMSUZ] k8 → "Barışın imzalandığı yıllarda egemenlik, devletler arasında yerleşmiş bir düzenin adından çok, iç savaşa karşı …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Antlaşmanın tarihinde 1648, imparatorluk anayasasını onaran, mezhep düzenini 1624 ölçüsüne bağlayan ve din ger…"
+- [OK]      k3 → "Antlaşmanın tarihinde 1648, imparatorluk anayasasını onaran, mezhep düzenini 1624 ölçüsüne bağlayan ve din ger…"
+- [OK]      k5 → "Mitin tarihinde ise 1648, karışmama ve eşit egemenlik ilkelerinin doğum yeri olarak sonradan seçilmiş bir çapa…"
+- [OK]      k4 → "Mitin tarihinde ise 1648, karışmama ve eşit egemenlik ilkelerinin doğum yeri olarak sonradan seçilmiş bir çapa…"
+- [ATOMSUZ] k5 → "Vestfalya egemenliği deyişi bugün de modern devlet sisteminin temel hukuk ilkelerinin kısaltması olarak iş gör…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Adı yanlış konmuş bir düzenin adı, düzenin kendisi kadar kalıcı olabilir ve tartışmanın yirmi birinci yüzyılda…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Karışmama normunun gerçekte ne zaman kristalleştiği belirsizdir; on sekizinci yüzyıl gelişimi ile yirminci yüz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Karışmama normunun gerçekte ne zaman kristalleştiği belirsizdir; on sekizinci yüzyıl gelişimi ile yirminci yüz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Revizyonist konum kendi yükünü taşır: din savaşlarının Avrupa'nın orta sahnesinden çekilmesi gibi gerçek değiş…"
+- [ATOMSUZ] k7 → "Krasner'ın çerçevesi ise normun başlangıcını tarihlemeden bırakır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Krasner'ın çerçevesi ise normun başlangıcını tarihlemeden bırakır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 3 OK · 0 ISARET · 0 HATA · 6 ATOMSUZ
+**Özet:** 35 OK · 1 ISARET · 0 HATA · 28 ATOMSUZ

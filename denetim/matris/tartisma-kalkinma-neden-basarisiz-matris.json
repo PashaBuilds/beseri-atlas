@@ -1,0 +1,719 @@
+{
+ "id": "tartisma-kalkinma-neden-basarisiz",
+ "govde_hash": "2d225102bd9e",
+ "commit": "33a9638",
+ "zaman": "2026-08-29",
+ "hakem": "kor-hakem-2026-08-29",
+ "iddialar": [
+  {
+   "iddia_id": "i001",
+   "cumle": "Kalkınma çağına bir doğum yılı aranacaksa, kalkınma sonrası yazarlar 1949'u gösterir: Harry Truman o yıl, az gelişmiş bölgeler için \"eski emperyalizmin planlarımızda yeri yok\" diyerek, temelini demokratik ve adil ilişkiler kavramına bağladığı bir kalkınma programı ilan etti.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Truman 1949 acilisi ve ceviri alinti k1 metninde aynen; kor hakem 2026-08-29: onceki 'bilimsel ilerleme ve teknik yardim' nitelemesi k1 sayfasinda yoktu, cumle kaynaktaki 'a program of development based on the concepts of democratic fair dealings' ifadesine hizalandi"
+  },
+  {
+   "iddia_id": "i002",
+   "cumle": "İzleyen yetmiş yılda vaat bir uzmanlık alanına, bir kurumlar ağına ve art arda gelen reçetelere dönüştü; buradaki tartışma, reçetelerin neden bazı ülkelerde tuttuğu, çoğunda ise beklenen dönüşümü üretmediği üzerinedir.",
+   "onem": "merkezi",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Tartismanin cercevesi; k1 kalkinma elestirisi literaturunu aktarir, yetmis yil araligi 1949 baslangicindan turetilmis yazar ozeti"
+  },
+  {
+   "iddia_id": "i003",
+   "cumle": "Tarihçi Nick Cullather'a göre modernleşme ile kalkınma kavramları 1945'ten sonra kaynaştı; kalkınma böylece hem bir dönemin hem de dünyanın nereden gelip nereye gittiğine dair bir bakışın adı oldu.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Cullather atfi ve 1945 sonrasi kaynasma k1de aynen (fused after 1945)"
+  },
+  {
+   "iddia_id": "i004",
+   "cumle": "Maddison serisinde kişi başına gayrisafi yurt içi hasılanın dünya ortalaması 1950'de yaklaşık 3.360, 2022'de yaklaşık 16.677 uluslararası dolardır; toplamda büyüme gerçekleşti, ama dünya ortalaması bir dağılım göstermez ve hangi ülkelerin bu çizginin çok üstünde, hangilerinin çok altında kaldığı aynı satırdan okunamaz.",
+   "onem": "merkezi",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Dunya satiri degerleri (1950: 3360,164; 2022: 16676,75) depodaki ayni uc noktadan indirilen seriyle birebir; ortalamanin dagilim gostermedigi tespiti serinin yapisindan okunuyor"
+  },
+  {
+   "iddia_id": "i005",
+   "cumle": "Rostow'un The Stages of Economic Growth başlıklı kitabı, modernleşme kuramının politika diline çevrilmiş hâli sayılır; alt başlığı Soğuk Savaş'taki adresini de söyler: komünist olmayan bir manifesto.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Baslik, alt baslik (a non-communist manifesto) ve kunye katalog sayfasinda; modernlesme kuraminin politika dili nitelemesi yaygin okumadir, sayilir ile yumusatildi"
+  },
+  {
+   "iddia_id": "i006",
+   "cumle": "Bu bakışta geride kalmak bir ilişkinin değil bir gecikmenin adıdır; ülkeler aynı büyüme merdiveninin farklı basamaklarındadır ve Batı'nın iktisadi yapısı izlenecek evrensel model sayılır.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "kismi"
+    },
+    {
+     "anahtar": "k5",
+     "destek": "baglam"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Batiyi evrensel model sayan cerceve k1de (eurocentric, universalist, western models); merdiven benzetmesi ve gecikme/iliski karsitligi yazar ozeti oldugu icin kor hakem 2026-08-29: k1 dogrudan -> kismi"
+  },
+  {
+   "iddia_id": "i007",
+   "cumle": "Jeffrey Sachs bu iyimserliği yarım yüzyıl sonra, 2005'te The End of Poverty ile yeniden kurdu.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Yil (2005), baslik ve yazar katalog sayfasinda | Kor hakem 2026-08-29: odunc-kisitli katalog kunyesi kurali geregi dogrudan -> kismi (sayfadaki ozet/icindekiler fetch ile birebir dogrulandi, ama katalog kaydi kitabin kendisi degildir)"
+  },
+  {
+   "iddia_id": "i008",
+   "cumle": "Kitap, bazı ülkelerin neden serpilemediğini ayrı bir bölümde sorar, Afrika ile hastalığı bir başka bölümde birlikte işler ve yaklaşımına klinik iktisat adını verir: reçeteden önce, ülkeye özgü teşhis.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Bolum listesi katalog sayfasinda: Why some countries fail to thrive; The voiceless dying: Africa and disease; Clinical economics | Kor hakem 2026-08-29: odunc-kisitli katalog kunyesi kurali geregi dogrudan -> kismi (sayfadaki ozet/icindekiler fetch ile birebir dogrulandi, ama katalog kaydi kitabin kendisi degildir)"
+  },
+  {
+   "iddia_id": "i009",
+   "cumle": "Bolivya'nın enflasyonundan Polonya'ya, Rusya'dan Çin'e ve Hindistan'a uzanan vaka bölümleri, bu teşhis defterinin kendi kayıtları olarak sıralanır.",
+   "onem": "renk",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Vaka bolumleri katalog sayfasindaki icindekilerde: Bolivya, Polonya, Rusya, Cin, Hindistan | Kor hakem 2026-08-29: odunc-kisitli katalog kunyesi kurali geregi dogrudan -> kismi (sayfadaki ozet/icindekiler fetch ile birebir dogrulandi, ama katalog kaydi kitabin kendisi degildir)"
+  },
+  {
+   "iddia_id": "i010",
+   "cumle": "Kitabın önsözünü Bono yazdı, bir bölümü Milenyum ile Birleşmiş Milletler'i birlikte ele alır ve kapanışı bir kuşak çağrısıdır; zenginlerin yoksullara yardımı karşılayıp karşılayamayacağı sorusu da içindekilerde ayrı bir başlıktır.",
+   "onem": "renk",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Foreword / Bono, The Millennium 9/11 and the United Nations, Can the rich afford to help the poor, Our generations challenge — hepsi icindekiler listesinde | Kor hakem 2026-08-29: odunc-kisitli katalog kunyesi kurali geregi dogrudan -> kismi (sayfadaki ozet/icindekiler fetch ile birebir dogrulandi, ama katalog kaydi kitabin kendisi degildir)"
+  },
+  {
+   "iddia_id": "i011",
+   "cumle": "Programın kendisi de içindekiler sayfasında durur: yoksulluğu bitirmek için gereken yatırımlar ve küresel bir sözleşme.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Making the investments needed to end poverty ve A global compact to end poverty icindekilerde | Kor hakem 2026-08-29: odunc-kisitli katalog kunyesi kurali geregi dogrudan -> kismi (sayfadaki ozet/icindekiler fetch ile birebir dogrulandi, ama katalog kaydi kitabin kendisi degildir)"
+  },
+  {
+   "iddia_id": "i012",
+   "cumle": "Eleştirmenlerinin büyük itki diye andığı öneri budur: proje proje ilerlemek yerine, sağlıktan altyapıya aynı anda yüklenen ve dışarıdan finanse edilen bir eşik yatırımı.",
+   "onem": "merkezi",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k8",
+     "destek": "kismi"
+    },
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Buyuk itki adlandirmasi Easterly icindekilerinde (The legend of the big push); onerinin icerigi k7 bolum listesinden kismen okunuyor | Kor hakem 2026-08-29: odunc-kisitli katalog kunyesi kurali geregi dogrudan -> kismi (sayfadaki ozet/icindekiler fetch ile birebir dogrulandi, ama katalog kaydi kitabin kendisi degildir)"
+  },
+  {
+   "iddia_id": "i013",
+   "cumle": "Raúl Prebisch'in Birleşmiş Milletler Latin Amerika Ekonomik Komisyonu için hazırladığı ve 1950'de yayımlanan rapor, on dokuzuncu yüzyılın uluslararası iş bölümü şemasının Latin Amerika'da gerçeklik tarafından aşındırıldığı tespitiyle açılır.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Acilis cumlesi tam metinde: reality is undermining the out-dated schema of the international division of labour"
+  },
+  {
+   "iddia_id": "i014",
+   "cumle": "Şemada Latin Amerika'ya düşen görev, büyük sanayi merkezleri için gıda ve hammadde üretmekti; Prebisch'e göre teknik ilerlemenin meyveleri bu iş bölümünde eşit dağılmadı.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Sema ve meyvelerin esitsiz dagilimi raporun giris bolumunde"
+  },
+  {
+   "iddia_id": "i015",
+   "cumle": "Sunuş yazısı Santiago'dan, 9 Ekim 1949 tarihiyle gönderilmiştir; rapor dolar kıtlığının Latin Amerika'daki yansımalarına ve konjonktür karşıtı bir politikanın zeminine ayrı bölümler ayırır.",
+   "onem": "renk",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Letter of transmittal: Santiago, Chile, 9 October 1949; dolar kitligi ve anti-cyclical policy icindekilerde"
+  },
+  {
+   "iddia_id": "i016",
+   "cumle": "Raporun ölçüm iddiası ticaret hadleri üzerinedir: merkezler kendi sanayilerindeki teknik gelişmenin faydasını içeride tutarken, \"çevre ülkeleri kendi teknik ilerlemelerinin meyvelerinden bir payı onlara aktardı\".",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Ceviri alinti tam metinde aynen: transferred to them a share of the fruits of their own technical progress"
+  },
+  {
+   "iddia_id": "i017",
+   "cumle": "Önerilen çıkış içe dönük sanayileşmeydi; rapor, sanayileşmenin birincil üretimle çelişmediğini de ayrıca savunur.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "The industrialization of Latin America is not incompatible with the efficient development of primary production — tam metinde"
+  },
+  {
+   "iddia_id": "i018",
+   "cumle": "Sonradan Prebisch-Singer tezi adıyla anılan gözlemin kaynak metinlerinden biri bu rapordur.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Prebisch-Singer adlandirmasi sonraki literaturun terimidir; rapor tezin kaynak metni oldugunu kendisi tasir"
+  },
+  {
+   "iddia_id": "i019",
+   "cumle": "Metin bir kopuş çağrısı da değildir: dış ticaretin reddini değil, sanayileşmeyle dengelenmiş bir eklemlenmeyi savunur ve sanayileşmenin sınırlarına ayrıca bir bölüm ayırır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Uyumlu eklemlenme savunusu ve The limits of industrialization bolumu tam metinde"
+  },
+  {
+   "iddia_id": "i020",
+   "cumle": "Şili ve Brezilya üzerine tarihsel incelemeler taşıyan Capitalism and Underdevelopment in Latin America, az gelişmişliği bir başlangıç durumu olarak değil, kapitalist dünya ekonomisiyle kurulan bağın ürettiği bir durum olarak okur; geri kalmışlık merdivenin alt basamağı değil, bu okumaya göre merdivenin kendisinin ürünüdür.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Katalog kaydi baslik, yil ve Sili/Brezilya konularini dogrular; az gelismisligin uretilmis durum oldugu tez kitabin icindedir, bu okumaya gore ile atfedildi"
+  },
+  {
+   "iddia_id": "i021",
+   "cumle": "Kitabın yayıncısının Monthly Review çevresi olması da yerini gösterir: itiraz artık reform önerisi değil, sistem eleştirisidir.",
+   "onem": "renk",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Yayinci (Monthly Review Pr.) katalog kaydinda; sistem elestirisi nitelemesi yazar yorumu"
+  },
+  {
+   "iddia_id": "i022",
+   "cumle": "Aynı okumanın başlıca örneği tek ürüne bağlanmış ihracat ekonomileriydi; sömürge tarımının o düzeni dosyasında, kuramın bütünü dosyasında ele alınıyor.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "baglam"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Kor hakem 2026-08-29: k4 katalog sayfasi tek urun ornegini tasimiyor (yalniz baslik, yayinci, Sili/Brezilya konulari); dipnot sus riski tasidigi icin kismi -> baglam. Cumle esasen capraz baglanti; yorum sinifi, destek onem"
+  },
+  {
+   "iddia_id": "i023",
+   "cumle": "Daron Acemoğlu ile James Robinson 2012'de Why Nations Fail ile tartışmanın eksenini kurumlara çekti; kitabın sorusu yayıncı özetinde aynen durur: bazı uluslar neden zengin, bazıları neden yoksul?",
+   "onem": "merkezi",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "2012, baslik, yazarlar ve acilis sorusu (Why are some nations rich and others poor) katalog sayfasindaki yayinci ozetinde | Kor hakem 2026-08-29: odunc-kisitli katalog kunyesi kurali geregi dogrudan -> kismi (sayfadaki ozet/icindekiler fetch ile birebir dogrulandi, ama katalog kaydi kitabin kendisi degildir)"
+  },
+  {
+   "iddia_id": "i024",
+   "cumle": "Özet, sırayla kültürü, iklimi, coğrafyayı ve doğru politikaların bilinmemesini sayar, hiçbirini belirleyici bulmaz ve cevabı bir cümlede toplar: \"ekonomik başarının altında yatan, insan yapımı siyasi ve iktisadi kurumlardır\".",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Sayilan etkenler ve ceviri alinti yayinci ozetinde aynen: man-made political and economic institutions that underlie economic success | Kor hakem 2026-08-29: odunc-kisitli katalog kunyesi kurali geregi dogrudan -> kismi (sayfadaki ozet/icindekiler fetch ile birebir dogrulandi, ama katalog kaydi kitabin kendisi degildir)"
+  },
+  {
+   "iddia_id": "i025",
+   "cumle": "Bu çizginin sözlüğünde ayrım kapsayıcı kurumlar ile sömürücü kurumlar arasındadır: kapsayıcı düzen geniş kesimlere mülkiyet güvencesi ve karar süreçlerine katılım verir, sömürücü düzen dar bir seçkinin çıkarına çalışır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Kapsayici/somurucu terim cifti kitabin sozlugudur; yayinci ozeti tezi tasir ama terimleri anmaz"
+  },
+  {
+   "iddia_id": "i026",
+   "cumle": "Kitap bu ikiliyi, on beş yıllık araştırmaya dayandığı belirtilen karşılaştırmalarla işler: Roma İmparatorluğu'ndan Sovyetler Birliği'ne, Kore'den Afrika'ya.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Based on fifteen years of original research; from the Roman Empire to the Soviet Union, from Korea to Africa — ozet metninde | Kor hakem 2026-08-29: odunc-kisitli katalog kunyesi kurali geregi dogrudan -> kismi (sayfadaki ozet/icindekiler fetch ile birebir dogrulandi, ama katalog kaydi kitabin kendisi degildir)"
+  },
+  {
+   "iddia_id": "i027",
+   "cumle": "Özetin vurgusu iddialı genellemededir: sayılan etkenlerden hiçbiri belirleyici de değildir, kader de.",
+   "onem": "renk",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "None of these factors is either definitive or destiny — ozet metninde | Kor hakem 2026-08-29: odunc-kisitli katalog kunyesi kurali geregi dogrudan -> kismi (sayfadaki ozet/icindekiler fetch ile birebir dogrulandi, ama katalog kaydi kitabin kendisi degildir)"
+  },
+  {
+   "iddia_id": "i028",
+   "cumle": "Sömürge yönetimlerinin bıraktığı düzenler, coğrafyanın kurumlar üzerinden işleyen dolaylı etkisi ve kapsayıcı düzenin dışarıdan kurulup kurulamayacağı, çerçevenin içinde ayrı birer tartışma olarak durur.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "baglam"
+    },
+    {
+     "anahtar": "k6",
+     "destek": "baglam"
+    }
+   ],
+   "guven": "dusuk",
+   "inceleme": "Kurumsalci cercevenin acik uclari; iki kaynak da baglam saglar, dogrudan desteklemez — yazar sentezi"
+  },
+  {
+   "iddia_id": "i029",
+   "cumle": "William Easterly 2006'da The White Man's Burden ile karşı kitabı yazdı; yayıncı özeti bilançoyu iki trajediyle açar: birincisi yoksulluğun kendisi, ikincisi elli yılı ve 2,3 trilyon doları aşan yardımın ardından ortada gösterilecek şaşırtıcı ölçüde az şey olması.",
+   "onem": "merkezi",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k8",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Iki trajedi, elli yil ve 2,3 trilyon dolar yayinci ozetinde aynen (more than $2.3 trillion in aid) | Kor hakem 2026-08-29: odunc-kisitli katalog kunyesi kurali geregi dogrudan -> kismi (sayfadaki ozet/icindekiler fetch ile birebir dogrulandi, ama katalog kaydi kitabin kendisi degildir)"
+  },
+  {
+   "iddia_id": "i030",
+   "cumle": "Kitabın omurgası içindekiler sayfasından okunur: planlayıcılar arayıcılara karşı — ve hedefini adıyla söyleyen bir bölüm başlığı olarak, büyük itkinin efsanesi.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k8",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Planners versus searchers ve The legend of the big push icindekiler listesinde | Kor hakem 2026-08-29: odunc-kisitli katalog kunyesi kurali geregi dogrudan -> kismi (sayfadaki ozet/icindekiler fetch ile birebir dogrulandi, ama katalog kaydi kitabin kendisi degildir)"
+  },
+  {
+   "iddia_id": "i031",
+   "cumle": "Büyük itkinin savunusunun 2005'te, efsane cevabının 2006'da yayımlanması, tartışmanın soyut bir yöntem ayrılığı değil, kitaplar üzerinden yürüyen adresli bir polemik olduğunu gösterir.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    },
+    {
+     "anahtar": "k8",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Yayin yillari iki katalog kaydinda dogrudan; adresli polemik nitelemesi yazar yorumu"
+  },
+  {
+   "iddia_id": "i032",
+   "cumle": "Easterly'nin ayrımında planlayıcı, yukarıdan büyük hedefler koyan ve hesabı bağışçıya veren figürdür; arayıcı, yerel bilgiyle küçük ve sınanabilir çözümler arar.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k8",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Planlayici/arayici ayrimi icindekilerde adiyla durur; tanimlarin icerigi kitabin metnindedir"
+  },
+  {
+   "iddia_id": "i033",
+   "cumle": "Bölüm başlıklarından biri eleştirinin özeti gibi okunur — zenginlerin piyasaları, yoksulların bürokratları vardır —, bir başkası sömürgecilikten postmodern emperyalizme uzanan çizgiyi izler ve kitap kendi alternatifini de adlandırır: yerli, aşağıdan büyüyen kalkınma.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k8",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "The rich have markets the poor have bureaucrats; From colonialism to postmodern imperialism; Homegrown development — icindekilerde | Kor hakem 2026-08-29: odunc-kisitli katalog kunyesi kurali geregi dogrudan -> kismi (sayfadaki ozet/icindekiler fetch ile birebir dogrulandi, ama katalog kaydi kitabin kendisi degildir)"
+  },
+  {
+   "iddia_id": "i034",
+   "cumle": "Dambisa Moyo 2009'da yayımlanan Dead Aid ile eleştiriyi kıtanın içinden yazdı; kitabın özeti, Afrika'ya gönderilen yardımın işe yaramadığını, paranın yozlaşmış hükümetler ile bağımlı yurttaşlar ürettiğini ve yardımsız bir başka yolun mümkün olduğunu savunur.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k9",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Katalog ozeti tezi aynen tasir: has not helped ... corrupt governments and dependent citizens; 2009 ilk basim kaydi sayfada | Kor hakem 2026-08-29: odunc-kisitli katalog kunyesi kurali geregi dogrudan -> kismi (sayfadaki ozet/icindekiler fetch ile birebir dogrulandi, ama katalog kaydi kitabin kendisi degildir)"
+  },
+  {
+   "iddia_id": "i035",
+   "cumle": "Sav bir düşünce deneyiyle de kurulur: bölümlerden biri hayalî bir ülkenin, Dongo Cumhuriyeti'nin yardım altındaki seyrini izler.",
+   "onem": "renk",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k9",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "The Republic of Dongo icindekiler listesinde | Kor hakem 2026-08-29: odunc-kisitli katalog kunyesi kurali geregi dogrudan -> kismi (sayfadaki ozet/icindekiler fetch ile birebir dogrulandi, ama katalog kaydi kitabin kendisi degildir)"
+  },
+  {
+   "iddia_id": "i036",
+   "cumle": "Önerilen ikameler yine bölüm başlıklarında sıralanır: sermaye piyasaları, ticaret, bankası olmayanlara bankacılık ve Çin ile kurulan yeni ilişki.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k9",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "A Capital solution, Lets trade, Banking on the unbankable, The Chinese are our friends — icindekilerde | Kor hakem 2026-08-29: odunc-kisitli katalog kunyesi kurali geregi dogrudan -> kismi (sayfadaki ozet/icindekiler fetch ile birebir dogrulandi, ama katalog kaydi kitabin kendisi degildir)"
+  },
+  {
+   "iddia_id": "i037",
+   "cumle": "Arturo Escobar 1995'te Encountering Development ile soruyu tersine çevirdi: sorulması gereken, kalkınmanın neden başarısız olduğu değil, kalkınma adlı çerçevenin neyi görünür, neyi görünmez kıldığıdır.",
+   "onem": "merkezi",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k10",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Kalkinmanin anlamini sorgulama k1de aynen (challenged the very meaning of development); 1995 ve baslik k10 katalog kaydinda"
+  },
+  {
+   "iddia_id": "i038",
+   "cumle": "Kalkınma sonrası yazarlara göre bu söylem, Kuzey'i ilerlemiş ve Güney'i geri sayan sömürge söyleminin devamıdır; kalkınmanın ne olduğunu tanımlama gücü Batı'nın elindedir ve bu tanım, ilerleme yönünü dünyanın geri kalanı adına çizer.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Kuzey/Guney soylemi ve Batinin tanim gucu k1 metninde aynen"
+  },
+  {
+   "iddia_id": "i039",
+   "cumle": "Escobar bu okulun önde gelen üyelerinden sayılır ve planlı toplumsal değişim fikrinin kendisini tarihselleştirir: ona göre toplumu bütün olarak çözümlemeye ve planlı değişimin nesnesi yapmaya açan şey Avrupa modernliğidir; Üçüncü Dünya'da örgütlü değişim gerekse bile bu, toplum mühendisliği biçimini almayacaktır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Escobar alintisi k1de: only within the European modernity ... planned change; toplum muhendisligi reddi ayni pasajda"
+  },
+  {
+   "iddia_id": "i040",
+   "cumle": "Aynı okulun açılış metinlerinden sayılan bir başka kitap, James Ferguson'ın Lesotho üzerine incelemesidir: The Anti-Politics Machine, kalkınma projelerinin yerel iktisadı ve kültürü anlamadan işlediğini, başarısız olurken bile bürokratik iktidarı genişletip siyasal soruları teknik sorulara çevirdiğini ileri sürer.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Ferguson bolumu k1de: The Anti-Politics Machine, Lesotho, depolitizasyon ve burokratik iktidar"
+  },
+  {
+   "iddia_id": "i041",
+   "cumle": "Çevrenin başvuru derlemesi ise Wolfgang Sachs'ın yayıma hazırladığı The Development Dictionary'dir; büyük itkiyi savunan adaşıyla arasındaki mesafe, tartışmanın iki ucunun aynı soyadını paylaşacak kadar geniş olduğunu gösterir.",
+   "onem": "renk",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Sachs and The Development Dictionary bolumu k1de; iki uc karsilastirmasi yazar yorumu"
+  },
+  {
+   "iddia_id": "i042",
+   "cumle": "Eleştirinin eleştirisi de kayda geçmiştir: Ray Kiely'ye göre kalkınma sonrası fikir, kalkınma söyleminin içindeki uzun eleştiri tarihinin yeni bir halkasıdır; Marc Edelman ise kalkınmanın önemli bir bölümünün dayatılmadığını, gelişmekte olan dünyanın kendi içinden yükseldiğini savunur.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Kiely ve Edelman elestirileri k1 Criticisms bolumunde aynen"
+  },
+  {
+   "iddia_id": "i043",
+   "cumle": "Aşırı yoksulluk serisinde, sınırın altında yaşayanların dünya nüfusu içindeki payı 1990'da yüzde 43,4 iken 2019'da yüzde 10,8'e inmiştir; aynı seri düşüşün nerede yoğunlaştığını göstermez ve dünya toplamı, reçetelerin toptan çöktüğü anlatısını da her reçetenin işlediği anlatısını da kendi başına doğrulamaz.",
+   "onem": "merkezi",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k11",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Dunya satiri: 1990 43,41; 2019 10,76 — depodaki ayni uc noktadan indirilen seriyle birebir; yorum kismi serinin toplam niteliginden"
+  },
+  {
+   "iddia_id": "i044",
+   "cumle": "Pencerenin kendisi de tarafsız değildir: serinin izlediği dönem 1990 sonrasıdır ve tartışmanın erken evresi — kalkınma onyılları, borç krizleri, yapısal uyum yılları — bu pencerenin dışında kalır.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k11",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Serinin ilk yili 1990 — uc noktadan dogrulanabilir; erken evre adlandirmalari baglam"
+  },
+  {
+   "iddia_id": "i045",
+   "cumle": "Kişi başına hasıla serisi de benzer biçimde iki yüzlüdür: dünya ortalamasının 1950 ile 2022 arasında yaklaşık beş katına çıkması, ortalamanın çok altında kalan ülkelerin varlığıyla aynı tabloda durur.",
+   "onem": "destek",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "3360,164 -> 16676,75 orani 4,96; yaklasik bes kat ifadesi seriyle uyumlu"
+  },
+  {
+   "iddia_id": "i046",
+   "cumle": "Ticaret hadleri aleyhine dönmüş, tek ürüne kilitlenmiş bir ihracatçının uzun durgunluğu en dolaysız karşılığını Prebisch'in çerçevesinde bulur; bu çerçeveye göre sorun ülkenin içinde değil, bağlandığı ilişkinin yapısındadır.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Eslestirme yazarin sentezi; ticaret hadleri cercevesi rapora dayanir"
+  },
+  {
+   "iddia_id": "i047",
+   "cumle": "Kaynakları zengin olduğu hâlde gelirini dar bir seçkinin topladığı ülke, kurumsalcı anlatının örnek vakasıdır; sıtma kuşağında, denize kapalı ve pazarlara uzak bir ülkenin kısır döngüsü Sachs'ın teşhisine, onyıllarca yardım alıp büyüyemeyen bir ekonominin bilançosu Easterly ile Moyo'nun eleştirisine oturur.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "baglam"
+    },
+    {
+     "anahtar": "k7",
+     "destek": "baglam"
+    },
+    {
+     "anahtar": "k8",
+     "destek": "baglam"
+    },
+    {
+     "anahtar": "k9",
+     "destek": "baglam"
+    }
+   ],
+   "guven": "dusuk",
+   "inceleme": "Hangi ornegin hangi kurama oturdugu editoryal eslestirme; kaynaklar tek tek konumlari saglar, eslestirmeyi degil"
+  },
+  {
+   "iddia_id": "i048",
+   "cumle": "Başarısızlığın ölçütünü sorgulayan soru ise ancak kalkınma sonrası çerçevede sorulabilir.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "baglam"
+    }
+   ],
+   "guven": "dusuk",
+   "inceleme": "Olcut sorgusunun kalkinma sonrasi cerceveye ozgulugu yazar cikarimi; k1 baglam saglar"
+  }
+ ],
+ "sayaclar": {
+  "dogrudan": 18,
+  "kismi": 26,
+  "desteksiz": 0,
+  "olculemez": 4
+ }
+}

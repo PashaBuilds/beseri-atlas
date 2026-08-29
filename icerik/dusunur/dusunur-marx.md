@@ -31,6 +31,7 @@ ilgili:
   - kaynak-marx-kapital
   - kaynak-hegel-gorungubilim
   - kavram-ideal-tip
+  - tartisma-feodalite-kavrami
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

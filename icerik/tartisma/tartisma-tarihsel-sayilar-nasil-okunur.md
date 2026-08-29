@@ -73,6 +73,10 @@ ilgili:
   - olay-kongo-serbest-devleti
   - olay-cezayir-savasi
   - olay-herero-nama-1904
+  - tartisma-antik-kolelik-ekonomisi
+  - tartisma-iklim-ve-cokus
+  - tartisma-imparatorluk-nufusu-nasil-sayilir
+  - tartisma-nufus-artisi-tehdit-mi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

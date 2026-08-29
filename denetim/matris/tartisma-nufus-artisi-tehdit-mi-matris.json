@@ -1,0 +1,807 @@
+{
+  "id": "tartisma-nufus-artisi-tehdit-mi",
+  "govde_hash": "c20aa1c15471",
+  "commit": "33a9638",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i1",
+      "cumle": "Thomas Malthus 1798'de, insan sayısının geçim araçlarından daha hızlı büyüme eğiliminde olduğunu savunan bir deneme yayımladı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1798 metni tezi ve tarihi dogrudan tasir."
+    },
+    {
+      "iddia_id": "i2",
+      "cumle": "Sorunun iki yüzyıllık kaydı, iki tarafa da malzeme veren serilerle dolu: artış hızı yavaşlıyor, verim yükseliyor, projeksiyonlar yüzyıl içinde bir tepe gösteriyor.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uc egilim uc seriden ayri ayri okunuyor."
+    },
+    {
+      "iddia_id": "i3",
+      "cumle": "Malthus ile Ehrlich büyümenin sınıra koştuğunu, Boserup ile Simon baskının uyarlanma ürettiğini savunur; üçüncü çerçeve ise sorunun zeminini değiştirir: doğurganlık kendiliğinden düşüyorsa sınır testi hiç gelmeyebilir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Boserup konumu katalog kaydinin alt basligina yaslanir; kismi."
+    },
+    {
+      "iddia_id": "i4",
+      "cumle": "Denemenin çekirdeği iki büyüme biçimi arasındaki farktır: \"Nüfus, denetlenmediğinde geometrik oranda artar; geçim araçları yalnızca aritmetik oranda artar.\" Malthus bu farkı bir gözlem olarak değil, sayılarla azıcık haşır neşir olan herkesin görebileceği bir doğa yasası olarak sunar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alinti birebir; \"by that law of our nature\" pasaji doga yasasi sunumunu tasir."
+    },
+    {
+      "iddia_id": "i5",
+      "cumle": "Önleyici engel doğumları kısar; geç evlilik ve evlenmeme bu sınıfa girer.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Preventive check bolumleri; gec evlilik metinde."
+    },
+    {
+      "iddia_id": "i6",
+      "cumle": "Pozitif engel ölümleri artırır; kıtlık, salgın ve savaş bu sınıftadır ve Malthus kıtlığı doğanın en geride bekleyen, en korkunç aracı olarak tarif eder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"gigantic inevitable famine ... the last, the most dreadful resource of nature\" pasaji."
+    },
+    {
+      "iddia_id": "i7",
+      "cumle": "Deneme bir hız tahmini de içerir: Amerika Birleşik Devletleri'nin kayıtlarına dayanarak, denetimsiz bir nüfusun her yirmi beş yılda ikiye katlandığını yazar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"In the United States of America ... the population has been found to double itself in twenty-five years\" pasaji; hakem duzeltmesi: metindeki \"koloniler\" ifadesi kaynaga uyacak bicimde ABD yapildi."
+    },
+    {
+      "iddia_id": "i8",
+      "cumle": "Koşul cümlesi mekanizmadan ayrılamaz: makas ancak nüfus geçim sınırına dayandığında kapanır ve o anda hangi engelin devreye gireceğini metin açık bırakır.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kosulluluk metinden okunur; \"hangi engel\" sorusunun acik birakildigi yorumdur."
+    },
+    {
+      "iddia_id": "i9",
+      "cumle": "Deneme, Godwin ile Condorcet'nin toplumun sınırsızca iyileşebileceği yönündeki iyimserliğine karşı kaleme alınmış bir polemiktir ve mekanizma, bu iyimserliğin önüne konan bir karşı sav olarak kurulur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Basliktaki \"speculations of Mr. Godwin, M. Condorcet\" ibaresi."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Uzun dönemli seride dünya nüfusu 1800'de yaklaşık 1 milyar kişidir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV 1800: 983.104.755; KAPI 19 kalibina uygun, tolerans icinde."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Paul Ehrlich'in The Population Bomb adlı kitabı 1968'de Ballantine Books etiketiyle çıktı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katalog kaydi 1968 ve Ballantine Books bilgisini tasir."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Kitap, nüfus artış hızının gıda ve kaynak arzındaki büyümeyi hızla geride bıraktığını ve insanlığın demografik bir felakete sürüklendiğini savunuyordu; Malthus'un koşullu mekanizması burada takvimli bir kehanete dönüştü.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 arka plan cumlesi kitabin tezini bu sozlerle aktarir; \"takvimli kehanet\" nitelemesi yorumdur."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Tartışmanın sonraki seyrini belirleyen satırlarından biri şuydu: \"Kumarbaz olsaydım, İngiltere'nin 2000 yılında var olmayacağına bire bir bahse girerdim.\" Öngörülen ölçekte bir felaket gelmedi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k11",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Alinti k1 uzerinden; \"ongorulen olcekte felaket gelmedi\" yargisi k11 kitlik seyriyle desteklenir, olcek karsilastirmasi cikarimdir."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Kitlesel ölüm getiren büyük kıtlıkların varlığı, izleyen on yıllarda önceki dönemlere göre belirgin biçimde azaldı ve kıtlık riski taşıyan coğrafya daraldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sayfanin acilis tespiti: buyuk kitliklarin varligi azaldi, riskli cografya daraldi."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Küresel artış hızı ise kitap raflara çıktığında tepe noktasını çoktan görmüştü: seri 1963'te yüzde 2,283 ile zirve yapar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV 1963: 2,283 serinin en yuksek degeri; 1968 ile karsilastirma aritmetik."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Ester Boserup 1965'te yayımlanan The Conditions of Agricultural Growth ile nedensellik okunu tersine çevirdi; alt başlık programın özeti gibidir: nüfus baskısı altında tarımsal değişimin iktisadı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yil, baslik ve alt baslik katalog sayfasinda; \"oku tersine cevirdi\" ozetleyici yorumdur."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Boserup'a göre artan nüfus, nadası kısaltmaya, emeği yoğunlaştırmaya ve yeni teknikleri denemeye zorlar; gıda arzı nüfusu bekleyen sabit bir tavan değil, baskıyla genişleyen bir değişkendir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog icerigi dogrulamaz; tez alt basligin acilimi olarak aktarildi."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Malthus'ta gıda sabittir ve nüfus ona uyar; Boserup'ta nüfus verilidir ve tarım ona uyar.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Karsilastirma iki kaynagin cerceveleri uzerine kurulu; Malthus tarafi metinden."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "The Ultimate Resource başlığındaki nihai kaynak, hammaddeler değil insan zekâsıdır; kıtlaşan her girdinin yükselen fiyatı, arayışı, ikameyi ve yeniliği harekete geçirir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Baslik katalogda; sav k1 uzerinden aktarilir."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Simon 1981 tarihli kitabında, kişi başına gıda için kullanılan ekili alanın zamanla azaldığını ve bu azalmanın refah kaybı değil verimlilik kazancı olduğunu savundu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"In his 1981 book\" pasaji; ekili alan ve refah argumani k1 metninde."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Meydan okuma Social Science Quarterly'nin sayfalarında doğdu: Simon, Ehrlich'i parasını sözünün arkasına koymaya çağırdı ve devlet kontrolünde olmayan hammaddelerin fiyatının uzun vadede yükselmeyeceğine 10.000 dolar koymayı önerdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Social Science Quarterly ve 10.000 dolar onerisi k1 metninde."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Karşı tarafa istediği hammaddeyi ve bir yıldan uzun istediği vadeyi seçme hakkı tanıyordu; enflasyondan arındırılmış fiyatın düşeceğine bahse giriyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bahis sartlari k1 metninde."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Ehrlich ve meslektaşları krom, bakır, nikel, kalay ve tungsten olmak üzere beş metal seçti; her birinden kâğıt üzerinde 200 dolarlık alındı ve vade on yıl sonrasına, 1990'a kondu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bes metal, 200 dolar, 1990 vadesi k1 metninde."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Vade dolduğunda beş metalin beşi de enflasyondan arındırılmış fiyatta gerilemişti; Ehrlich, Simon'a 576,07 dolarlık bir çek gönderdi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sonuc ve 576,07 dolarlik cek k1 metninde."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Düşüş kâğıt üzerindeki bir enflasyon oyunundan ibaret değildi: metallerin üçü nominal fiyatta da ucuzlamış, kalay ile tungsten değerinin yarısından fazlasını yitirmişti.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uc metalde nominal dusus; kalay ve tungstende yaridan fazla dusus k1 metninde."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Aynı on yılda dünya nüfusu 800 milyondan fazla artmıştı; kayda göre bu, tarihin en büyük on yıllık artışıydı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"more than 800 million, the largest increase in one decade\" pasaji; \"kayda gore\" atif cercevesi."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Jeremy Grantham, bahis 1980'den 2011'e uzatılsaydı Simon'ın beş metalin dördünde kaybedeceğini hesapladı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Grantham hesabi k1 metninde."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Kiel ve arkadaşlarının 2010 tarihli çalışması, 1900 ile 2008 arasındaki bütün olası pencereler tarandığında Simon'ın bahsi yalnızca yüzde 38,4'ünde kazanacağı sonucuna vardı; bahsin fiilen oynandığı on yıl, bu hesaba göre yüzyılın en elverişsiz pencerelerinden biriydi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kiel et al. (2010), yuzde 38,4 ve en kotu donemler tespiti k1 metninde."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Aynı çalışma buradan, bahiste uzmanlıktan çok şansın belirleyici olduğu dersini çıkarır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"better to have luck on your side than expertise\" pasaji."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Nüfus artış hızı serisi 1950'de yüzde 1,738 ile başlar ve 2023'te yüzde 0,871'e iner.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV 1950: 1,738; 2023: 0,871. Depodaki seriyle birebir."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Toplam doğurganlık hızı aynı aralıkta kadın başına 4,85 çocuktan 2,25'e düştü.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV 1950: 4,852 -> 4,85; 2023: 2,251 -> 2,25."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Buğday verimi ters yönde koşar: 1961'de hektar başına 1,09 ton olan değer 2024'te 3,64 tona çıktı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV 1961: 1,0889001 -> 1,09; 2024: 3,6374002 -> 3,64."
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "Uzun dönemli seride dünya nüfusu 1968'de yaklaşık 3,5 milyar, 2023'te yaklaşık 8,1 milyar kişidir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV 1968: 3.545.187.246; 2023: 8.091.734.933. KAPI 19 ile olculur."
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Nüfus iki yüzyılda sekiz katına çıktı; buğday verimi ise ölçüldüğü altmış yılda üç katından fazlasına yükseldi; iki seriyi yan yana koymak kolaydır, birinin diğerini çürüttüğünü söylemek ise koşullu bir modeli koşulsuz bir kehanet gibi okumayı gerektirir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Turetilmis oranlar: 0,983 -> 8,09 milyar (yak. 8,2 kat); bugday 1,0889 -> 3,6374 (yak. 3,3 kat, 1961-2024). Hakem duzeltmesi: verim katlanmasi iki yuzyila degil serinin kapsadigi altmis yila baglandi. Yorum kismi cumlenin son yarisi."
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Artış hızı serisinin projeksiyon sütunu daha da ileri gider: orta senaryoda hız 2084'te sıfırın altına iner.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Projeksiyon sutunu 2083: 0,005; 2084: -0,004. Sifirin altina inis 2084."
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "Artış hızı düşerken verimin artması, modelin öngördüğü koşulun bu dönemde gerçekleşmediğini düşündürür.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Seriler dogrudan, \"kosul gerceklesmedi\" cikarimi yorum; \"dusundurur\" ile sinirlanmis."
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "Buradan modelin yanlışlandığı sonucuna atlamak ise iki adımı atlar: model belirli bir koşula bağlıdır ve koşulun hangi gözlemle sınanacağını kurucu metin söylemez.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Metinde sinama olcutu bulunmadigi yokluk iddiasidir; okumaya dayanir."
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "Kıtlığın on dokuzuncu yüzyıldaki ölüm yükü, yirminci yüzyıldakiyle benzer büyüklükte ve çok daha küçük bir nüfusun üzerindeydi; yük nüfusla birlikte büyümüş değildir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "O Grada (2007) aktarimi: 19. yy icin yuz milyon olum ihtiyatli tahmin, 20. yy toplamina benzer, cok daha kucuk nufus."
+    },
+    {
+      "iddia_id": "i39",
+      "cumle": "Ó Gráda'nın değerlendirmesine göre kriz dışı yıllarda bile yaşam beklentisi düşükken sık kıtlık nüfusu taşımayı zaten imkânsız kılardı; kıtlığın geçmişte bile nüfusun birincil freni olduğu şüphelidir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"frequent famines would have made it impossible to sustain population\" pasajinin aktarimi."
+    },
+    {
+      "iddia_id": "i40",
+      "cumle": "Küresel toplam doğurganlık hızı ise 1960'lardan bu yana yarıdan fazla düşerek kadın başına beş çocuğun üzerinden 2,3'e indi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"more than halved since the 1960s, from over 5 ... to 2.3\" pasaji."
+    },
+    {
+      "iddia_id": "i41",
+      "cumle": "Yüksek gelirli ülkelerin birçoğunda kadın başına iki çocuk tipik sayı hâline geldi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"Two is the typical number ... in many high-income countries\" pasaji."
+    },
+    {
+      "iddia_id": "i42",
+      "cumle": "Afrika'da doğurganlık 1970'lerde kadın başına yediye yakındı; bugün dörde yakın ve BM, 2050'de üçün altına inmesini, yüzyıl sonuna doğru ikiye yaklaşmasını bekliyor.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Afrika: 1970lerde 7ye yakin, bugun 4e yakin; 2050de 3un alti, yuzyil sonunda 2ye yaklasma beklentisi."
+    },
+    {
+      "iddia_id": "i43",
+      "cumle": "Aynı kurum 2022 revizyonunda Hindistan'ın 2023'te Çin'i geçerek en kalabalık ülke olacağını öngörmüştü; yeni tahminler bunu doğruladı ve Çin'in nüfusunun tepeyi geçip düşüşe geçtiğini gösteriyor.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hindistan-Cin gecisi ve Cin tepe tespiti k10 metninde."
+    },
+    {
+      "iddia_id": "i44",
+      "cumle": "Demografik geçiş çerçevesi bu düşüşü modelin dışından gelen bir şok olarak değil, ölüm oranlarındaki düşüşü izleyen olağan bir evre olarak okur; hızlı büyüme bu okumada kalıcı bir durum değil, geçişin ortasındaki geçici bir aralıktır.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cercevenin standart anlatimi; k10 dususu dogrular, evre okumasi kavram katmaninin alani."
+    },
+    {
+      "iddia_id": "i45",
+      "cumle": "Birleşmiş Milletler'in 2024 güncellemesi, orta senaryoda dünya nüfusunun 2084'te yaklaşık 10,3 milyar ile tepe yapmasını bekliyor.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"peak forward slightly to 2084 ... just under 10.3 billion\" pasaji; KAPI 19 ile de olculur."
+    },
+    {
+      "iddia_id": "i46",
+      "cumle": "Aynı kurumun 2019 sürümü tepe görmüyordu ve 2100'de 10,9 milyara ulaşıp büyümeye devam eden bir seri veriyordu; 2022 sürümü tepeyi 2086'ya ve 10,4 milyara koymuştu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "2019: 2100de 10,9 milyar ve buyume; 2022: 2086da 10,4 milyar. Ikisi de k10 metninde."
+    },
+    {
+      "iddia_id": "i47",
+      "cumle": "Sağlayıcının uyarısı metnin içinde duruyor: bunlar geleceğe dair kehanetler değil, projeksiyonlardır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"these are projections, not predictions\" pasaji."
+    },
+    {
+      "iddia_id": "i48",
+      "cumle": "Nijer'de toplam doğurganlık hızı 2023'te kadın başına altı çocuktu; ama çocukların bir bölümü yetişkinliğe ulaşamadığı için, yetişkinliğe ulaşanlar üzerinden ölçülen etkili doğurganlık beşe iner.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Nijer 2023: 6; etkili dogurganlik 5. Malani-Jacob aktarimi k12 metninde."
+    },
+    {
+      "iddia_id": "i49",
+      "cumle": "Bahsin dönem itirazı bu savunmaya güç veriyor; ama hangi gözlemin modeli yanlışlayacağı söylenmedikçe, gecikme savunusunun modeli yanlışlanamaz hâle getirdiği itirazı da masada duruyor.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Donem itirazi k1de dogrudan; \"savunmaya guc verir\" degerlendirmesi yorum."
+    },
+    {
+      "iddia_id": "i50",
+      "cumle": "Seçilen beş metalin fiyatının 1950 ile 1975 arasında yükselmiş olduğunu, kendisinin ve meslektaşlarının gezegenin durumunu metal fiyatlarından değil yenilenebilir kaynaklardan okuduğunu, bahse buna rağmen girdiğini yazdı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Betrayal of Science and Reason aktarimi ve 1950-1975 fiyat tespiti k1 metninde."
+    },
+    {
+      "iddia_id": "i51",
+      "cumle": "Gıda ve metal fiyatlarında kaybedilen bahis, fiyatı olmayan kaynaklar için tekrarlanamadı: Ehrlich ile Schneider, atmosferdeki karbondioksitten kişi başına ekilebilir alana ve tür sayısına uzanan on beş çevresel gösterge üzerine, 1994 ile 2004 arasını ölçen ikinci bir bahis önerdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ikinci bahis listesi (CO2, ekilebilir alan, turler; 1994-2004) k1 metninde."
+    },
+    {
+      "iddia_id": "i52",
+      "cumle": "Simon öneriyi bir benzetmeyle geri çevirdi: kendisi sporcuların gelecek olimpiyatta daha iyi derece yapacağına bahse girmektedir, karşı taraf ise pistin ve havanın durumu üzerine bahse girmek istemektedir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Olimpiyat benzetmesi k1 metninde."
+    },
+    {
+      "iddia_id": "i53",
+      "cumle": "Sonradan yapılan hesap, girseydi göstergelerin on birinde kaybedeceğini gösterdi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"would have lost on 11 out of 15 trends\" pasaji."
+    },
+    {
+      "iddia_id": "i54",
+      "cumle": "Son soru mekanizmanın kalbine dönüyor: doğurganlığın zorlamasız düşüşü, Malthus'un önleyici engelinin yumuşamış bir biçimi mi, yoksa modelin hiç hesaba katmadığı bir üçüncü yol mu?",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Soru cumlesi; onleyici engel kavrami k2den, sorunun kendisi acik birakilmistir."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 46,
+    "kismi": 8,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

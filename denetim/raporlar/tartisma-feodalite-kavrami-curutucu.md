@@ -1,5 +1,5 @@
 # Çürütücü raporu — tartisma-feodalite-kavrami
-_2026-08-21T10:28:14.465Z_
+_2026-08-29T00:02:13.835Z_
 
 ## Zayıf bulunmayan alanlar
 

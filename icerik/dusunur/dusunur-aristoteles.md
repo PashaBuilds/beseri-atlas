@@ -19,6 +19,7 @@ ilgili:
   - dusunur-ibn-rusd
   - kaynak-aristoteles-politika
   - dusunur-ibn-sina
+  - tartisma-antik-kolelik-ekonomisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,73 +1,355 @@
 {
   "id": "tartisma-kalkinma-neden-basarisiz",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:27.859Z",
-  "govde_hash": "f17342536afe",
-  "commit": "1d273c7",
+  "zaman": "2026-08-29T04:00:35.496Z",
+  "govde_hash": "2d225102bd9e",
+  "commit": "33a9638",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Bu haritanın çıkış noktası kaynağın içindekiler yapısıdır: bir kuram ve onun karşısına konmuş dört itiraz.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, modernleşme kuramını üç ayrı başlıkta ele alır: modernleşme ve demokrasi, modernleşme ve iktisadi gelişme, modernleşme ve küreselleşme.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Aynı kaynak, uygulamalar başlığı altında 1960'larda Amerika Birleşik Devletleri dış yardımını ayrı bir alt başlık olarak tutar.",
-      "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir kuramın belirli bir onyılın dış yardım politikasına bağlanabilmesi, kuram ile politika arasındaki bağın kaynağın kendisinde kayıtlı olduğunu gösterir; yardı",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, eleştiriler ve alternatifler başlığı altında dört alt başlık tutar: bağımlılık kuramı; Barrington Moore ve karşılaştırmalı tarihsel çözümleme; Guillermo",
+      "iddia": "Kalkınma çağına bir doğum yılı aranacaksa, kalkınma sonrası yazarlar 1949'u gösterir: Harry Truman o yıl, az gelişmiş bölgeler için \"eski emperyalizmin planları",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir kuramın eleştiri bölümünün ana bölümleri kadar ayrıntılı olması, atlasın şu kuralının dayanağıdır: bir çerçeve aktarılırken kaynağın ona ayırdığı itiraz baş",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Kaynağın ilk sıraya koyduğu itiraz için tutulan kayıt, çevre devletlerden merkez devletlere doğru bir kaynak akışı bulunduğu ve zenginlerin yoksullar pahasına z",
+      "iddia": "İzleyen yetmiş yılda vaat bir uzmanlık alanına, bir kurumlar ağına ve art arda gelen reçetelere dönüştü; buradaki tartışma, reçetelerin neden bazı ülkelerde tut",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "İki kaydın aynı itirazı farklı ayrıntıyla vermesi, atlasın çapraz doğrulama ölçütünü karşılar; kuram dosyasında ele alınıyor.",
+      "iddia": "Tarihçi Nick Cullather'a göre modernleşme ile kalkınma kavramları 1945'ten sonra kaynaştı; kalkınma böylece hem bir dönemin hem de dünyanın nereden gelip nereye",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Maddison serisinde kişi başına gayrisafi yurt içi hasılanın dünya ortalaması 1950'de yaklaşık 3.360, 2022'de yaklaşık 16.677 uluslararası dolardır; toplamda büy",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Maddison serisinde kişi başına gayrisafi yurt içi hasılanın dünya ortalaması 1950'de yaklaşık 3.360, 2022'de yaklaşık 16.677 uluslararası dolardır; toplamda büy",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Rostow'un The Stages of Economic Growth başlıklı kitabı, modernleşme kuramının politika diline çevrilmiş hâli sayılır; alt başlığı Soğuk Savaş'taki adresini de ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu bakışta geride kalmak bir ilişkinin değil bir gecikmenin adıdır; ülkeler aynı büyüme merdiveninin farklı basamaklarındadır ve Batı'nın iktisadi yapısı izlene",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Batı"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bu bakışta geride kalmak bir ilişkinin değil bir gecikmenin adıdır; ülkeler aynı büyüme merdiveninin farklı basamaklarındadır ve Batı'nın iktisadi yapısı izlene",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Batı"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Jeffrey Sachs bu iyimserliği yarım yüzyıl sonra, 2005'te The End of Poverty ile yeniden kurdu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Kitap, bazı ülkelerin neden serpilemediğini ayrı bir bölümde sorar, Afrika ile hastalığı bir başka bölümde birlikte işler ve yaklaşımına klinik iktisat adını ve",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Bolivya'nın enflasyonundan Polonya'ya, Rusya'dan Çin'e ve Hindistan'a uzanan vaka bölümleri, bu teşhis defterinin kendi kayıtları olarak sıralanır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Kitabın önsözünü Bono yazdı, bir bölümü Milenyum ile Birleşmiş Milletler'i birlikte ele alır ve kapanışı bir kuşak çağrısıdır; zenginlerin yoksullara yardımı ka",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Programın kendisi de içindekiler sayfasında durur: yoksulluğu bitirmek için gereken yatırımlar ve küresel bir sözleşme.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Eleştirmenlerinin büyük itki diye andığı öneri budur: proje proje ilerlemek yerine, sağlıktan altyapıya aynı anda yüklenen ve dışarıdan finanse edilen bir eşik ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Eleştirmenlerinin büyük itki diye andığı öneri budur: proje proje ilerlemek yerine, sağlıktan altyapıya aynı anda yüklenen ve dışarıdan finanse edilen bir eşik ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "İki kaydın aynı itirazı farklı ayrıntıyla vermesi, atlasın çapraz doğrulama ölçütünü karşılar; kuram dosyasında ele alınıyor.",
+      "iddia": "Raúl Prebisch'in Birleşmiş Milletler Latin Amerika Ekonomik Komisyonu için hazırladığı ve 1950'de yayımlanan rapor, on dokuzuncu yüzyılın uluslararası iş bölümü",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Şemada Latin Amerika'ya düşen görev, büyük sanayi merkezleri için gıda ve hammadde üretmekti; Prebisch'e göre teknik ilerlemenin meyveleri bu iş bölümünde eşit ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sunuş yazısı Santiago'dan, 9 Ekim 1949 tarihiyle gönderilmiştir; rapor dolar kıtlığının Latin Amerika'daki yansımalarına ve konjonktür karşıtı bir politikanın z",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Raporun ölçüm iddiası ticaret hadleri üzerinedir: merkezler kendi sanayilerindeki teknik gelişmenin faydasını içeride tutarken, \"çevre ülkeleri kendi teknik ile",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Kişi başı GSYH serisinde dünya değeri 1960'ta yaklaşık 3.762 uluslararası dolar, 1991'de yaklaşık 7.512 uluslararası dolardır.",
+      "anahtar": "k3",
+      "iddia": "Önerilen çıkış içe dönük sanayileşmeydi; rapor, sanayileşmenin birincil üretimle çelişmediğini de ayrıca savunur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sonradan Prebisch-Singer tezi adıyla anılan gözlemin kaynak metinlerinden biri bu rapordur.",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metin bir kopuş çağrısı da değildir: dış ticaretin reddini değil, sanayileşmeyle dengelenmiş bir eklemlenmeyi savunur ve sanayileşmenin sınırlarına ayrıca bir b",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Şili ve Brezilya üzerine tarihsel incelemeler taşıyan Capitalism and Underdevelopment in Latin America, az gelişmişliği bir başlangıç durumu olarak değil, kapit",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kitabın yayıncısının Monthly Review çevresi olması da yerini gösterir: itiraz artık reform önerisi değil, sistem eleştirisidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı okumanın başlıca örneği tek ürüne bağlanmış ihracat ekonomileriydi; sömürge tarımının o düzeni dosyasında, kuramın bütünü dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Daron Acemoğlu ile James Robinson 2012'de Why Nations Fail ile tartışmanın eksenini kurumlara çekti; kitabın sorusu yayıncı özetinde aynen durur: bazı uluslar n",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Özet, sırayla kültürü, iklimi, coğrafyayı ve doğru politikaların bilinmemesini sayar, hiçbirini belirleyici bulmaz ve cevabı bir cümlede toplar: \"ekonomik başar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bu çizginin sözlüğünde ayrım kapsayıcı kurumlar ile sömürücü kurumlar arasındadır: kapsayıcı düzen geniş kesimlere mülkiyet güvencesi ve karar süreçlerine katıl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kitap bu ikiliyi, on beş yıllık araştırmaya dayandığı belirtilen karşılaştırmalarla işler: Roma İmparatorluğu'ndan Sovyetler Birliği'ne, Kore'den Afrika'ya.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Özetin vurgusu iddialı genellemededir: sayılan etkenlerden hiçbiri belirleyici de değildir, kader de.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sömürge yönetimlerinin bıraktığı düzenler, coğrafyanın kurumlar üzerinden işleyen dolaylı etkisi ve kapsayıcı düzenin dışarıdan kurulup kurulamayacağı, çerçeven",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Sömürge yönetimlerinin bıraktığı düzenler, coğrafyanın kurumlar üzerinden işleyen dolaylı etkisi ve kapsayıcı düzenin dışarıdan kurulup kurulamayacağı, çerçeven",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "William Easterly 2006'da The White Man's Burden ile karşı kitabı yazdı; yayıncı özeti bilançoyu iki trajediyle açar: birincisi yoksulluğun kendisi, ikincisi ell",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Kitabın omurgası içindekiler sayfasından okunur: planlayıcılar arayıcılara karşı — ve hedefini adıyla söyleyen bir bölüm başlığı olarak, büyük itkinin efsanesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Büyük itkinin savunusunun 2005'te, efsane cevabının 2006'da yayımlanması, tartışmanın soyut bir yöntem ayrılığı değil, kitaplar üzerinden yürüyen adresli bir po",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Büyük itkinin savunusunun 2005'te, efsane cevabının 2006'da yayımlanması, tartışmanın soyut bir yöntem ayrılığı değil, kitaplar üzerinden yürüyen adresli bir po",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Easterly'nin ayrımında planlayıcı, yukarıdan büyük hedefler koyan ve hesabı bağışçıya veren figürdür; arayıcı, yerel bilgiyle küçük ve sınanabilir çözümler arar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Bölüm başlıklarından biri eleştirinin özeti gibi okunur — zenginlerin piyasaları, yoksulların bürokratları vardır —, bir başkası sömürgecilikten postmodern empe",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Dambisa Moyo 2009'da yayımlanan Dead Aid ile eleştiriyi kıtanın içinden yazdı; kitabın özeti, Afrika'ya gönderilen yardımın işe yaramadığını, paranın yozlaşmış ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Sav bir düşünce deneyiyle de kurulur: bölümlerden biri hayalî bir ülkenin, Dongo Cumhuriyeti'nin yardım altındaki seyrini izler.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Önerilen ikameler yine bölüm başlıklarında sıralanır: sermaye piyasaları, ticaret, bankası olmayanlara bankacılık ve Çin ile kurulan yeni ilişki.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Arturo Escobar 1995'te Encountering Development ile soruyu tersine çevirdi: sorulması gereken, kalkınmanın neden başarısız olduğu değil, kalkınma adlı çerçeveni",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Arturo Escobar 1995'te Encountering Development ile soruyu tersine çevirdi: sorulması gereken, kalkınmanın neden başarısız olduğu değil, kalkınma adlı çerçeveni",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kalkınma sonrası yazarlara göre bu söylem, Kuzey'i ilerlemiş ve Güney'i geri sayan sömürge söyleminin devamıdır; kalkınmanın ne olduğunu tanımlama gücü Batı'nın",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kuzey, Güney, Batı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Escobar bu okulun önde gelen üyelerinden sayılır ve planlı toplumsal değişim fikrinin kendisini tarihselleştirir: ona göre toplumu bütün olarak çözümlemeye ve p",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı okulun açılış metinlerinden sayılan bir başka kitap, James Ferguson'ın Lesotho üzerine incelemesidir: The Anti-Politics Machine, kalkınma projelerinin yere",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çevrenin başvuru derlemesi ise Wolfgang Sachs'ın yayıma hazırladığı The Development Dictionary'dir; büyük itkiyi savunan adaşıyla arasındaki mesafe, tartışmanın",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eleştirinin eleştirisi de kayda geçmiştir: Ray Kiely'ye göre kalkınma sonrası fikir, kalkınma söyleminin içindeki uzun eleştiri tarihinin yeni bir halkasıdır; M",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Aşırı yoksulluk serisinde, sınırın altında yaşayanların dünya nüfusu içindeki payı 1990'da yüzde 43,4 iken 2019'da yüzde 10,8'e inmiştir; aynı seri düşüşün nere",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Aşırı yoksulluk serisinde, sınırın altında yaşayanların dünya nüfusu içindeki payı 1990'da yüzde 43,4 iken 2019'da yüzde 10,8'e inmiştir; aynı seri düşüşün nere",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Pencerenin kendisi de tarafsız değildir: serinin izlediği dönem 1990 sonrasıdır ve tartışmanın erken evresi — kalkınma onyılları, borç krizleri, yapısal uyum yı",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Bu değerler sağlayıcının toplam satırına aittir ve bölgeler arasındaki farkı göstermez; seri dosyasında ele alınıyor.",
+      "iddia": "Kişi başına hasıla serisi de benzer biçimde iki yüzlüdür: dünya ortalamasının 1950 ile 2022 arasında yaklaşık beş katına çıkması, ortalamanın çok altında kalan ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ticaret hadleri aleyhine dönmüş, tek ürüne kilitlenmiş bir ihracatçının uzun durgunluğu en dolaysız karşılığını Prebisch'in çerçevesinde bulur; bu çerçeveye gör",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kaynakları zengin olduğu hâlde gelirini dar bir seçkinin topladığı ülke, kurumsalcı anlatının örnek vakasıdır; sıtma kuşağında, denize kapalı ve pazarlara uzak ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sachs, Easterly, Moyo"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Kaynakları zengin olduğu hâlde gelirini dar bir seçkinin topladığı ülke, kurumsalcı anlatının örnek vakasıdır; sıtma kuşağında, denize kapalı ve pazarlara uzak ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Kaynakları zengin olduğu hâlde gelirini dar bir seçkinin topladığı ülke, kurumsalcı anlatının örnek vakasıdır; sıtma kuşağında, denize kapalı ve pazarlara uzak ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kaynakları zengin olduğu hâlde gelirini dar bir seçkinin topladığı ülke, kurumsalcı anlatının örnek vakasıdır; sıtma kuşağında, denize kapalı ve pazarlara uzak ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Başarısızlığın ölçütünü sorgulayan soru ise ancak kalkınma sonrası çerçevede sorulabilir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

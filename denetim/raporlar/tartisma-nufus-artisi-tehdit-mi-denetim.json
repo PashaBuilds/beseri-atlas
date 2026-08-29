@@ -1,57 +1,393 @@
 {
   "id": "tartisma-nufus-artisi-tehdit-mi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:28.100Z",
-  "govde_hash": "2eebb3af1f13",
-  "commit": "1d273c7",
+  "zaman": "2026-08-29T04:00:36.113Z",
+  "govde_hash": "c20aa1c15471",
+  "commit": "33a9638",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Bu haritanın çıkış noktası kaynağın kendi kipi: olay gerçekleşmiş değil öngörülmüş olarak kaydedilir.",
+      "anahtar": "k2",
+      "iddia": "Thomas Malthus 1798'de, insan sayısının geçim araçlarından daha hızlı büyüme eğiliminde olduğunu savunan bir deneme yayımladı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Sorunun iki yüzyıllık kaydı, iki tarafa da malzeme veren serilerle dolu: artış hızı yavaşlıyor, verim yükseliyor, projeksiyonlar yüzyıl içinde bir tepe gösteriy",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, nüfus artışının potansiyel olarak üstel, gıda arzının ya da diğer kaynakların büyümesinin ise doğrusal olduğunu ve bunun yaşam standartlarını sonunda bi",
+      "anahtar": "k8",
+      "iddia": "Sorunun iki yüzyıllık kaydı, iki tarafa da malzeme veren serilerle dolu: artış hızı yavaşlıyor, verim yükseliyor, projeksiyonlar yüzyıl içinde bir tepe gösteriy",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak olayın adlarını sıralar: Malthusçu felaket, Malthus tuzağı, nüfus tuzağı, Malthusçu denetim, Malthusçu kapma, Malthusçu kriz, kriz noktası ve Malthusçu d",
+      "anahtar": "k10",
+      "iddia": "Sorunun iki yüzyıllık kaydı, iki tarafa da malzeme veren serilerle dolu: artış hızı yavaşlıyor, verim yükseliyor, projeksiyonlar yüzyıl içinde bir tepe gösteriy",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Malthus ile Ehrlich büyümenin sınıra koştuğunu, Boserup ile Simon baskının uyarlanma ürettiğini savunur; üçüncü çerçeve ise sorunun zeminini değiştirir: doğurga",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Malthus ile Ehrlich büyümenin sınıra koştuğunu, Boserup ile Simon baskının uyarlanma ürettiğini savunur; üçüncü çerçeve ise sorunun zeminini değiştirir: doğurga",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Malthus ile Ehrlich büyümenin sınıra koştuğunu, Boserup ile Simon baskının uyarlanma ürettiğini savunur; üçüncü çerçeve ise sorunun zeminini değiştirir: doğurga",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Ehrlich, Boserup, Simon"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Denemenin çekirdeği iki büyüme biçimi arasındaki farktır: \"Nüfus, denetlenmediğinde geometrik oranda artar; geçim araçları yalnızca aritmetik oranda artar.\" Mal",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Denemenin çekirdeği iki büyüme biçimi arasındaki farktır: \"Nüfus, denetlenmediğinde geometrik oranda artar; geçim araçları yalnızca aritmetik oranda artar.\" Mal",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Önleyici engel doğumları kısar; geç evlilik ve evlenmeme bu sınıfa girer.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Pozitif engel ölümleri artırır; kıtlık, salgın ve savaş bu sınıftadır ve Malthus kıtlığı doğanın en geride bekleyen, en korkunç aracı olarak tarif eder.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Nüfus artış hızı serisinde sağlayıcının toplam satırı 1950 için yüzde 1,738, 2023 için yüzde 0,871 verir.",
+      "iddia": "Deneme bir hız tahmini de içerir: Amerika Birleşik Devletleri'nin kayıtlarına dayanarak, denetimsiz bir nüfusun her yirmi beş yılda ikiye katlandığını yazar.",
       "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Buğday verimi serisinde ise 1961 için hektar başına 1,0889001 ton, 2024 için 3,6374002 ton verilir.",
-      "durum": "OK",
-      "not": ""
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
-      "iddia": "Artış hızı düşerken verimin artması, modelin öngördüğü koşulun bu dönemde gerçekleşmediğini düşündürür; atlas bundan modelin yanlışlandığı sonucunu çıkarmaz, çü",
+      "iddia": "Koşul cümlesi mekanizmadan ayrılamaz: makas ancak nüfus geçim sınırına dayandığında kapanır ve o anda hangi engelin devreye gireceğini metin açık bırakır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
+      "anahtar": "k2",
+      "iddia": "Deneme, Godwin ile Condorcet'nin toplumun sınırsızca iyileşebileceği yönündeki iyimserliğine karşı kaleme alınmış bir polemiktir ve mekanizma, bu iyimserliğin ö",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1800'de yaklaşık 1 milyar kişidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
       "anahtar": "k3",
-      "iddia": "Artış hızı düşerken verimin artması, modelin öngördüğü koşulun bu dönemde gerçekleşmediğini düşündürür; atlas bundan modelin yanlışlandığı sonucunu çıkarmaz, çü",
+      "iddia": "Paul Ehrlich'in The Population Bomb adlı kitabı 1968'de Ballantine Books etiketiyle çıktı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kitap, nüfus artış hızının gıda ve kaynak arzındaki büyümeyi hızla geride bıraktığını ve insanlığın demografik bir felakete sürüklendiğini savunuyordu; Malthus'",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tartışmanın sonraki seyrini belirleyen satırlarından biri şuydu: \"Kumarbaz olsaydım, İngiltere'nin 2000 yılında var olmayacağına bire bir bahse girerdim.\" Öngör",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Tartışmanın sonraki seyrini belirleyen satırlarından biri şuydu: \"Kumarbaz olsaydım, İngiltere'nin 2000 yılında var olmayacağına bire bir bahse girerdim.\" Öngör",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Kitlesel ölüm getiren büyük kıtlıkların varlığı, izleyen on yıllarda önceki dönemlere göre belirgin biçimde azaldı ve kıtlık riski taşıyan coğrafya daraldı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Küresel artış hızı ise kitap raflara çıktığında tepe noktasını çoktan görmüştü: seri 1963'te yüzde 2,283 ile zirve yapar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Ester Boserup 1965'te yayımlanan The Conditions of Agricultural Growth ile nedensellik okunu tersine çevirdi; alt başlık programın özeti gibidir: nüfus baskısı ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Boserup'a göre artan nüfus, nadası kısaltmaya, emeği yoğunlaştırmaya ve yeni teknikleri denemeye zorlar; gıda arzı nüfusu bekleyen sabit bir tavan değil, baskıy",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Malthus'ta gıda sabittir ve nüfus ona uyar; Boserup'ta nüfus verilidir ve tarım ona uyar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Boserup"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Malthus'ta gıda sabittir ve nüfus ona uyar; Boserup'ta nüfus verilidir ve tarım ona uyar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "The Ultimate Resource başlığındaki nihai kaynak, hammaddeler değil insan zekâsıdır; kıtlaşan her girdinin yükselen fiyatı, arayışı, ikameyi ve yeniliği harekete",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "The Ultimate Resource başlığındaki nihai kaynak, hammaddeler değil insan zekâsıdır; kıtlaşan her girdinin yükselen fiyatı, arayışı, ikameyi ve yeniliği harekete",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Simon 1981 tarihli kitabında, kişi başına gıda için kullanılan ekili alanın zamanla azaldığını ve bu azalmanın refah kaybı değil verimlilik kazancı olduğunu sav",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Meydan okuma Social Science Quarterly'nin sayfalarında doğdu: Simon, Ehrlich'i parasını sözünün arkasına koymaya çağırdı ve devlet kontrolünde olmayan hammaddel",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Karşı tarafa istediği hammaddeyi ve bir yıldan uzun istediği vadeyi seçme hakkı tanıyordu; enflasyondan arındırılmış fiyatın düşeceğine bahse giriyordu.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Artış hızı düşerken verimin artması, modelin öngördüğü koşulun bu dönemde gerçekleşmediğini düşündürür; atlas bundan modelin yanlışlandığı sonucunu çıkarmaz, çü",
+      "iddia": "Ehrlich ve meslektaşları krom, bakır, nikel, kalay ve tungsten olmak üzere beş metal seçti; her birinden kâğıt üzerinde 200 dolarlık alındı ve vade on yıl sonra",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Vade dolduğunda beş metalin beşi de enflasyondan arındırılmış fiyatta gerilemişti; Ehrlich, Simon'a 576,07 dolarlık bir çek gönderdi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düşüş kâğıt üzerindeki bir enflasyon oyunundan ibaret değildi: metallerin üçü nominal fiyatta da ucuzlamış, kalay ile tungsten değerinin yarısından fazlasını yi",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı on yılda dünya nüfusu 800 milyondan fazla artmıştı; kayda göre bu, tarihin en büyük on yıllık artışıydı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Jeremy Grantham, bahis 1980'den 2011'e uzatılsaydı Simon'ın beş metalin dördünde kaybedeceğini hesapladı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kiel ve arkadaşlarının 2010 tarihli çalışması, 1900 ile 2008 arasındaki bütün olası pencereler tarandığında Simon'ın bahsi yalnızca yüzde 38,4'ünde kazanacağı s",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı çalışma buradan, bahiste uzmanlıktan çok şansın belirleyici olduğu dersini çıkarır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Nüfus artış hızı serisi 1950'de yüzde 1,738 ile başlar ve 2023'te yüzde 0,871'e iner.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Toplam doğurganlık hızı aynı aralıkta kadın başına 4,85 çocuktan 2,25'e düştü.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Buğday verimi ters yönde koşar: 1961'de hektar başına 1,09 ton olan değer 2024'te 3,64 tona çıktı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1968'de yaklaşık 3,5 milyar, 2023'te yaklaşık 8,1 milyar kişidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Nüfus iki yüzyılda sekiz katına çıktı; buğday verimi ise ölçüldüğü altmış yılda üç katından fazlasına yükseldi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Nüfus iki yüzyılda sekiz katına çıktı; buğday verimi ise ölçüldüğü altmış yılda üç katından fazlasına yükseldi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Artış hızı serisinin projeksiyon sütunu daha da ileri gider: orta senaryoda hız 2084'te sıfırın altına iner.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Artış hızı düşerken verimin artması, modelin öngördüğü koşulun bu dönemde gerçekleşmediğini düşündürür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Artış hızı düşerken verimin artması, modelin öngördüğü koşulun bu dönemde gerçekleşmediğini düşündürür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Buradan modelin yanlışlandığı sonucuna atlamak ise iki adımı atlar: model belirli bir koşula bağlıdır ve koşulun hangi gözlemle sınanacağını kurucu metin söylem",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Kıtlığın on dokuzuncu yüzyıldaki ölüm yükü, yirminci yüzyıldakiyle benzer büyüklükte ve çok daha küçük bir nüfusun üzerindeydi; yük nüfusla birlikte büyümüş değ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Ó Gráda'nın değerlendirmesine göre kriz dışı yıllarda bile yaşam beklentisi düşükken sık kıtlık nüfusu taşımayı zaten imkânsız kılardı; kıtlığın geçmişte bile n",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Küresel toplam doğurganlık hızı ise 1960'lardan bu yana yarıdan fazla düşerek kadın başına beş çocuğun üzerinden 2,3'e indi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Yüksek gelirli ülkelerin birçoğunda kadın başına iki çocuk tipik sayı hâline geldi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Afrika'da doğurganlık 1970'lerde kadın başına yediye yakındı; bugün dörde yakın ve BM, 2050'de üçün altına inmesini, yüzyıl sonuna doğru ikiye yaklaşmasını bekl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Aynı kurum 2022 revizyonunda Hindistan'ın 2023'te Çin'i geçerek en kalabalık ülke olacağını öngörmüştü; yeni tahminler bunu doğruladı ve Çin'in nüfusunun tepeyi",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Demografik geçiş çerçevesi bu düşüşü modelin dışından gelen bir şok olarak değil, ölüm oranlarındaki düşüşü izleyen olağan bir evre olarak okur; hızlı büyüme bu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Birleşmiş Milletler'in 2024 güncellemesi, orta senaryoda dünya nüfusunun 2084'te yaklaşık 10,3 milyar ile tepe yapmasını bekliyor.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Aynı kurumun 2019 sürümü tepe görmüyordu ve 2100'de 10,9 milyara ulaşıp büyümeye devam eden bir seri veriyordu; 2022 sürümü tepeyi 2086'ya ve 10,4 milyara koymu",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Sağlayıcının uyarısı metnin içinde duruyor: bunlar geleceğe dair kehanetler değil, projeksiyonlardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Nijer'de toplam doğurganlık hızı 2023'te kadın başına altı çocuktu; ama çocukların bir bölümü yetişkinliğe ulaşamadığı için, yetişkinliğe ulaşanlar üzerinden öl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bahsin dönem itirazı bu savunmaya güç veriyor; ama hangi gözlemin modeli yanlışlayacağı söylenmedikçe, gecikme savunusunun modeli yanlışlanamaz hâle getirdiği i",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Seçilen beş metalin fiyatının 1950 ile 1975 arasında yükselmiş olduğunu, kendisinin ve meslektaşlarının gezegenin durumunu metal fiyatlarından değil yenilenebil",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Gıda ve metal fiyatlarında kaybedilen bahis, fiyatı olmayan kaynaklar için tekrarlanamadı: Ehrlich ile Schneider, atmosferdeki karbondioksitten kişi başına ekil",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Simon öneriyi bir benzetmeyle geri çevirdi: kendisi sporcuların gelecek olimpiyatta daha iyi derece yapacağına bahse girmektedir, karşı taraf ise pistin ve hava",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sonradan yapılan hesap, girseydi göstergelerin on birinde kaybedeceğini gösterdi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Son soru mekanizmanın kalbine dönüyor: doğurganlığın zorlamasız düşüşü, Malthus'un önleyici engelinin yumuşamış bir biçimi mi, yoksa modelin hiç hesaba katmadığ",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

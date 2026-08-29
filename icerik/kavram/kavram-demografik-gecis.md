@@ -23,6 +23,7 @@ ilgili:
   - veri-bebek-olumleri
   - tartisma-demografik-donum-sonuclari
   - kavram-toplumsal-cinsiyet-duzeni
+  - tartisma-nufus-artisi-tehdit-mi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

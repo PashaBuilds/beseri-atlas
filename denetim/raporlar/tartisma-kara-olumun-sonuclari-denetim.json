@@ -1,43 +1,355 @@
 {
   "id": "tartisma-kara-olumun-sonuclari",
   "gecis": 2,
-  "zaman": "2026-08-28T18:46:18.424Z",
-  "govde_hash": "0038409bb252",
-  "commit": "d04b692",
+  "zaman": "2026-08-29T04:15:12.974Z",
+  "govde_hash": "02bb0986df7c",
+  "commit": "33a9638",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl nüfusunun yüzde 50'si olduğunu yazar; birkaç cümle sonra Avrupa nüfusunun yüzde 30 ile 60 arasını ve Orta Doğu nüfusunun yaklaşık yüzde 33'ünü öldürdüğün",
+      "iddia": "Kara Ölüm, 1346 ile 1353 arasında Avrupa'yı vuran veba ; en yüksek tahminler 50 milyona varan ölümden söz eder ve Avrupa nüfusunun yüzde 30 ila 60'ının, Orta Do",
       "durum": "OK",
-      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "6 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Buradaki tartışma sonuç üzerinedir: ücret artışından serfliğin çözülüşüne uzanan büyük değişimleri salgın mı başlattı, yoksa salgın, öncesinde zaten kırılmakta ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, hastalığın Yersinia pestis bakterisinden kaynaklandığını ve öncelikle pire ısırıklarıyla yayıldığını, ayrıca enfekte doku ya da sıvılarla temas yoluyla ",
-      "durum": "OK",
-      "not": ""
+      "iddia": "Buradaki tartışma sonuç üzerinedir: ücret artışından serfliğin çözülüşüne uzanan büyük değişimleri salgın mı başlattı, yoksa salgın, öncesinde zaten kırılmakta ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir olayın hem etkeni hem bulaşma yolları bakımından kaydedilmesi, atlasın salgın dosyalarını neden yalnızca demografik eksene bağlamadığının dayanağıdır; kavra",
+      "iddia": "İlk salgın dalgasında Doğu Avrupa'daki ölüm düzeyinin Batı Avrupa'dakine benzer olduğu değerlendirilir; tartışmayı açan gözlem ise Brenner'ın kaleminden gelir: ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "İlk salgın dalgasında Doğu Avrupa'daki ölüm düzeyinin Batı Avrupa'dakine benzer olduğu değerlendirilir; tartışmayı açan gözlem ise Brenner'ın kaleminden gelir: ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aynı şok iki zıt sonuca çıkabiliyorsa, sonucu açıklayan şeyin şokun kendisi olup olamayacağı sorusu kaçınılmaz hâle gelir ve tartışmanın üç konumu da bu gözleml",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Bir olayın hem etkeni hem bulaşma yolları bakımından kaydedilmesi, atlasın salgın dosyalarını neden yalnızca demografik eksene bağlamadığının dayanağıdır; kavra",
+      "iddia": "Aynı şok iki zıt sonuca çıkabiliyorsa, sonucu açıklayan şeyin şokun kendisi olup olamayacağı sorusu kaçınılmaz hâle gelir ve tartışmanın üç konumu da bu gözleml",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, Kara Ölüm'ün Geç Orta Çağ'da Avrupa'yı vuran ikinci büyük doğal felaket olduğunu ve birincisinin 1315-1317 Büyük Kıtlığı olduğunu yazar.",
+      "iddia": "Aynı ansiklopedi maddesi yüzde 50'lik bir oranla yüzde 30-60'lık bir aralığı yan yana verir; akademik özetlere göre yerel düzeyde güvenilir sayılan oranlar dört",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı ansiklopedi maddesi yüzde 50'lik bir oranla yüzde 30-60'lık bir aralığı yan yana verir; akademik özetlere göre yerel düzeyde güvenilir sayılan oranlar dört",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tarihleme bile ölçüte göre oynar: madde pandemiyi 1346-1353'e yerleştirir, iktisadi özet ise hastalığı İtalya'ya 1347 sonunda vardırır ve büyük saldırıyı 1347-5",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Tarihleme bile ölçüte göre oynar: madde pandemiyi 1346-1353'e yerleştirir, iktisadi özet ise hastalığı İtalya'ya 1347 sonunda vardırır ve büyük saldırıyı 1347-5",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıla gelindiğinde 1347'deki sayısının yarısına inmiş sayılır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Boccaccio, Decameron'un girişinde anlatıyı 1348 Floransa'sına yerleştirir: ölüm getiren salgın, birkaç yıl önce Doğu'da görünmüş ve oradan bu kente ulaşmıştır.",
+      "durum": "ISARET",
+      "not": "kaynakta bulunamayan sayısal değer: 1348 (kaynak metni 400k sınırında kesildi; kesin sayılmaz)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Mart ile temmuz arasında, hastalığın şiddeti ve hastaların bakımsız bırakılması ortasında, surların içinde yüz bini aşkın insanın öldüğüne kesin gözüyle bakıldı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dönemin tanıkları kıtlık, savaş ve karışıklık çağında yaşıyordu ve salgını kıyamet diliyle anlattı; vakanüvis tahminleri bugün demografik bir barometre değil, s",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Tanık ölçüsünde yanılabilir; ama tanıklığın kendisi — biçilmeden kalan ekinler, terk edilen hastalar, boşalan konaklar — iktisat tarihçisinin aradığı şokun ta k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Tanık ölçüsünde yanılabilir; ama tanıklığın kendisi — biçilmeden kalan ekinler, terk edilen hastalar, boşalan konaklar — iktisat tarihçisinin aradığı şokun ta k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Nüfus kaybıyla birlikte emek kıtlaştı ve ücretler fırladı; kiracı bulmakta zorlanan toprak sahipleri emek hizmetini para kirasıyla değiştirmeye yöneldi; süreç, ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Nüfus kaybıyla birlikte emek kıtlaştı ve ücretler fırladı; kiracı bulmakta zorlanan toprak sahipleri emek hizmetini para kirasıyla değiştirmeye yöneldi; süreç, ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Nüfus kaybıyla birlikte emek kıtlaştı ve ücretler fırladı; kiracı bulmakta zorlanan toprak sahipleri emek hizmetini para kirasıyla değiştirmeye yöneldi; süreç, ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kimi yerde kiralar çöktü — eskiden beş sterlin getiren bir kiralama artık bir sterlin getiriyordu — ve salgını izleyen bir buçuk yüzyıl, köylünün yükselen yaşam",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kimi yerde kiralar çöktü — eskiden beş sterlin getiren bir kiralama artık bir sterlin getiriyordu — ve salgını izleyen bir buçuk yüzyıl, köylünün yükselen yaşam",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Almanya kırsalında terk edilmiş yerleşimler haritayı benekledi: adları bilinen köylerin üçte ikisi Thüringen, Anhalt ve doğu Harz'da, beşte biri güneybatı Alman",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "David Herlihy'nin, Samuel Cohn'un yayıma hazırlamasıyla 1997'de Harvard University Press'ten çıkan kitabı The Black Death and the Transformation of the West adı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Çizgiyi bugün besleyen şey de yeni araştırmadır: kaynak bakımından zengin doğu İngiltere tarımı üzerine çalışmalar, mutlak aşırı nüfus varsayımını aşındırdıkça ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yalnızca para ücretiyle geçinen emekçi, zanaatkâr ve ustalar, şiddetli enflasyon karşısında gerçek gelir kaybına uğradı; kazanç tablosu köylü ile kentli, kiracı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönüşüm iddiası bu yüzden en sağlam zeminini ücret serilerinde değil, serflik kurumunun kendisinde arar: kurum düzeninin taşıyıcı direğiydi ve çözülüşü rejim öl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Dönüşüm iddiası bu yüzden en sağlam zeminini ücret serilerinde değil, serflik kurumunun kendisinde arar: kurum düzeninin taşıyıcı direğiydi ve çözülüşü rejim öl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İngiliz tacı 1349 fermanı ve 1351 yasasıyla ücretleri ve çalışma koşullarını 1346 düzeyine döndürmeyi buyurdu; benzer emek yasaları Aragon ve Kastilya meclisler",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "İngiliz tacı 1349 fermanı ve 1351 yasasıyla ücretleri ve çalışma koşullarını 1346 düzeyine döndürmeyi buyurdu; benzer emek yasaları Aragon ve Kastilya meclisler",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Külliyatta 1351 yasası başlığıyla duran metnin girişi durumu tacın ağzından anlatır: halkın, hele işçi ve hizmetkârların büyük bölümü salgında ölmüştür ve sağ k",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Altmış yaşın altındaki, bağlı ya da özgür her kadın ve erkek, kendisine uygun bir hizmet önerildiğinde çalışmakla ve yalnızca kralın saltanatının yirminci yılın",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Fransız tacı 1349 düzenlemesini daha 1351'de gözden geçirip ücretlere üçte bir oranında artış izni vermek zorunda kaldı; İngiltere'de etkili yönetim ve sıkı uyg",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Seçkinlerin köylüyü eski durumuna döndürme çabaları ayaklanmalarla karşılaştı: Paris çevresinde ücret artışını bastırma önlemleri 1358 Jacquerie'sinin patlaması",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Seçkinlerin köylüyü eski durumuna döndürme çabaları ayaklanmalarla karşılaştı: Paris çevresinde ücret artışını bastırma önlemleri 1358 Jacquerie'sinin patlaması",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Paris"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İktisadi özet burada temkin payı bırakır: 1380 ile 1381'in baş vergileri de hoşnutsuzluğu büyütmüştü, ayaklanma yoksul kuzeyde değil görece varlıklı doğu İngilt",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "yüzyıl ortasından itibaren görür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "1315'te bozulan hava hasatları yok etti; izleyen Büyük Kıtlık kuzey Avrupa nüfusunun belki yüzde 10 ila 15'ini götürdü ve kötü hasatlar İngiltere ile İtalya'yı ",
       "durum": "OK",
       "not": "4 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir salgının etkisinin, ondan otuz yıl önceki bir kıtlıkla birlikte kaydedilmesi, ölü oranlarının tek bir nedene atfedilmesini zorlaştırır.",
+      "iddia": "Ansiklopedi maddesi aynı sıralamayı korur: Kara Ölüm, Geç Orta Çağ Avrupa'sını vuran ikinci büyük doğal felaketti; birincisi 1315-1317 Büyük Kıtlığı'ydı.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu zeminden bakınca konumun cümlesi şudur: iklimin, kurumların, para dengesizliklerinin ve aşırı nüfusun zaten sürüklediği toplumsal-iktisadi değişimler, veba h",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Postan ile Languedoc köylülüğünün uzun döngüsünü izleyen Emmanuel Le Roy Ladurie'nin adlarıyla anılır; John Hatcher'ın veba, nüfus ve İngiliz ekonomisi üzerine ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Postan ile Languedoc köylülüğünün uzun döngüsünü izleyen Emmanuel Le Roy Ladurie'nin adlarıyla anılır; John Hatcher'ın veba, nüfus ve İngiliz ekonomisi üzerine ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Veba emek hizmeti havuzunu kuruttukça toprağa bağlı köylü daha hafif yükümlülükler için pazarlık edebilir hâle geldi: Tivetshall'da boşalan tarlalar lorda borçl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Sınıf okuması bu mantığı, demografik felaketin serfliğin kaderini tek başına belirlediği savı biçiminde özetleyip hedef tahtasına koyar; özetin Brenner'ın kalem",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sınıf okuması bu mantığı, demografik felaketin serfliğin kaderini tek başına belirlediği savı biçiminde özetleyip hedef tahtasına koyar; özetin Brenner'ın kalem",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Philpin'in derlemesiyle 1985'te Cambridge University Press'ten The Brenner Debate adıyla kitaplaştı; tartışma bugün o adla anılır ve derlemenin tam künyesi ikti",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Philpin'in derlemesiyle 1985'te Cambridge University Press'ten The Brenner Debate adıyla kitaplaştı; tartışma bugün o adla anılır ve derlemenin tam künyesi ikti",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Halesowen'in lordu servil kiracıdan hizmetlerin tamamını istemekle kalmadı, vebadan çok önce rafa kalkmış yükümlülükleri bile diriltti; Katalonya'da lordlar, ve",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Katalonya"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Brenner'ın İngiliz kanıtı okuması bu tabloyu keskinleştirir: ona göre lordlar açısından serflik hâlâ yürürlükteydi ve niyet onu uygulamaktı; uygulanıp uygulanam",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İngiliz"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sonuç iki ölçekle kayıtlıdır: iktisadi özete göre malikâne düzeni 1500'e gelindiğinde batı ve orta Avrupa'dan silinmişti; Brenner'ın anlatımında Batı Avrupa'nın",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "yüzyıl başına gelindiğinde ölmüştü.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "yüzyıl başına gelindiğinde ölmüştü.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Brenner'ın anlatımında, Elbe'nin doğusundaki Alman topraklarında ve Polonya'da nüfus çöküşüne serfliğin yoğunlaştırılması eşlik etti: o güne dek görece özgür ya",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Elbe, Alman, Polonya"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Yine bu anlatımda kıtanın ortasından bir yarılma geçer: batıda hemen tümüyle özgürleşmiş bir köylülük, doğuda özgürlüğünü yitirmekte olan bir köylülük.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İlk dalganın ölüm düzeyi doğuda batıya benzer sayıldığına göre, demografi sabit tutulduğunda geriye köylü topluluklarının örgütlülüğü, lordların dayanışması ve ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Brenner"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "İlk dalganın ölüm düzeyi doğuda batıya benzer sayıldığına göre, demografi sabit tutulduğunda geriye köylü topluluklarının örgütlülüğü, lordların dayanışması ve ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Demografik modeli savunan tarihçiler bu okumaya cevaplar yazdı ve karşılaştırmanın deneysel temellerini sorguladı; cevaplar makaleyle aynı ciltte toplandığı içi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Demografik modeli savunan tarihçiler bu okumaya cevaplar yazdı ve karşılaştırmanın deneysel temellerini sorguladı; cevaplar makaleyle aynı ciltte toplandığı içi",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -48,14 +360,104 @@
       "not": ""
     },
     {
+      "anahtar": "k2",
+      "iddia": "Seri toplamı verir, ölüm nedenini vermez; aradaki yüzyılın içinde kıtlık, savaş ve tekrarlayan veba dalgaları birlikte durur ve iki gözlem arasındaki fark bir s",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
       "anahtar": "k1",
-      "iddia": "Atlas bu iki değer arasındaki farkı bir salgın ölü sayısı olarak sunmaz: seri dünya toplamını verir, ölüm nedenini vermez ve iki gözlem arasındaki yüz yılda baş",
+      "iddia": "Seri toplamı verir, ölüm nedenini vermez; aradaki yüzyılın içinde kıtlık, savaş ve tekrarlayan veba dalgaları birlikte durur ve iki gözlem arasındaki fark bir s",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılda yeniden yakaladığı kaydı ise şokun uzunluğu hakkında herhangi bir oran tahmininden daha çok şey söyler; serinin kendisi dosyasında işleniyor.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Atlas bu iki değer arasındaki farkı bir salgın ölü sayısı olarak sunmaz: seri dünya toplamını verir, ölüm nedenini vermez ve iki gözlem arasındaki yüz yılda baş",
+      "iddia": "yüzyılda yeniden yakaladığı kaydı ise şokun uzunluğu hakkında herhangi bir oran tahmininden daha çok şey söyler; serinin kendisi dosyasında işleniyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dönüştürücü okuma şokun ne yaptığını sorar ve ücret, kira, yasa belgeleriyle cevap verir; hızlandırıcı okuma neyin zaten yürürlükte olduğunu sorar ve kıtlığı, v",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Dönüştürücü okuma şokun ne yaptığını sorar ve ücret, kira, yasa belgeleriyle cevap verir; hızlandırıcı okuma neyin zaten yürürlükte olduğunu sorar ve kıtlığı, v",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Brenner"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dönüştürücü okuma şokun ne yaptığını sorar ve ücret, kira, yasa belgeleriyle cevap verir; hızlandırıcı okuma neyin zaten yürürlükte olduğunu sorar ve kıtlığı, v",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönüştürücü okuma şokun ne yaptığını sorar ve ücret, kira, yasa belgeleriyle cevap verir; hızlandırıcı okuma neyin zaten yürürlükte olduğunu sorar ve kıtlığı, v",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Brenner"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Dönüştürücü okuma şokun ne yaptığını sorar ve ücret, kira, yasa belgeleriyle cevap verir; hızlandırıcı okuma neyin zaten yürürlükte olduğunu sorar ve kıtlığı, v",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ölüm oranı, kapsam seçimine göre üçte bir ile yarı arasında herhangi bir yere yerleşebilir ve yerel oranlar bundan da geniş bir yelpazeye dağılır; hangi sayının",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ölüm oranı, kapsam seçimine göre üçte bir ile yarı arasında herhangi bir yere yerleşebilir ve yerel oranlar bundan da geniş bir yelpazeye dağılır; hangi sayının",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Değişimin veba olmadan da — yalnızca daha yavaş — geleceği iddiası sınanamaz; karşı-olgusal bir kıyasa dayanır ve gücünü kanıttan çok varsayımdan alır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Sınıf güç dengesi açıklaması ise dengeyi veri alır: köylülüğün batıda neden daha dirençli, lordların doğuda neden daha dayanışık olduğu sorusu, cevabın içinden ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Boccaccio'nun yüz bini bugünkü ölçütlerle abartılı bulunabilir; ama serflik gibi bir kurumun bir buçuk yüzyıl içinde kıtanın bir yakasında çözülüp öbür yakasınd",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Boccaccio'nun yüz bini bugünkü ölçütlerle abartılı bulunabilir; ama serflik gibi bir kurumun bir buçuk yüzyıl içinde kıtanın bir yakasında çözülüp öbür yakasınd",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "yüzyıl sorusu hem de her büyük felaketten sonra yeniden sorulan bir yöntem sorusudur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "yüzyıl sorusu hem de her büyük felaketten sonra yeniden sorulan bir yöntem sorusudur.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

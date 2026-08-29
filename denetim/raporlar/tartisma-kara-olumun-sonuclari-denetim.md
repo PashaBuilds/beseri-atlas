@@ -1,14 +1,81 @@
 ## tartisma-kara-olumun-sonuclari
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:18.424Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T04:15:12.974Z_
 
-- [OK]      k1 → "yüzyıl nüfusunun yüzde 50'si olduğunu yazar; birkaç cümle sonra Avrupa nüfusunun yüzde 30 ile 60 arasını ve Or…" — 5 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k1 → "Kaynak, hastalığın Yersinia pestis bakterisinden kaynaklandığını ve öncelikle pire ısırıklarıyla yayıldığını, …"
-- [ATOMSUZ] k1 → "Bir olayın hem etkeni hem bulaşma yolları bakımından kaydedilmesi, atlasın salgın dosyalarını neden yalnızca d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Bir olayın hem etkeni hem bulaşma yolları bakımından kaydedilmesi, atlasın salgın dosyalarını neden yalnızca d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, Kara Ölüm'ün Geç Orta Çağ'da Avrupa'yı vuran ikinci büyük doğal felaket olduğunu ve birincisinin 1315-…" — 4 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir salgının etkisinin, ondan otuz yıl önceki bir kıtlıkla birlikte kaydedilmesi, ölü oranlarının tek bir nede…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kara Ölüm, 1346 ile 1353 arasında Avrupa'yı vuran veba ; en yüksek tahminler 50 milyona varan ölümden söz eder…" — 6 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k3 → "Buradaki tartışma sonuç üzerinedir: ücret artışından serfliğin çözülüşüne uzanan büyük değişimleri salgın mı b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Buradaki tartışma sonuç üzerinedir: ücret artışından serfliğin çözülüşüne uzanan büyük değişimleri salgın mı b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "İlk salgın dalgasında Doğu Avrupa'daki ölüm düzeyinin Batı Avrupa'dakine benzer olduğu değerlendirilir; tartış…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k5 → "İlk salgın dalgasında Doğu Avrupa'daki ölüm düzeyinin Batı Avrupa'dakine benzer olduğu değerlendirilir; tartış…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k5 → "Aynı şok iki zıt sonuca çıkabiliyorsa, sonucu açıklayan şeyin şokun kendisi olup olamayacağı sorusu kaçınılmaz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Aynı şok iki zıt sonuca çıkabiliyorsa, sonucu açıklayan şeyin şokun kendisi olup olamayacağı sorusu kaçınılmaz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Aynı ansiklopedi maddesi yüzde 50'lik bir oranla yüzde 30-60'lık bir aralığı yan yana verir; akademik özetlere…"
+- [OK]      k3 → "Aynı ansiklopedi maddesi yüzde 50'lik bir oranla yüzde 30-60'lık bir aralığı yan yana verir; akademik özetlere…"
+- [OK]      k1 → "Tarihleme bile ölçüte göre oynar: madde pandemiyi 1346-1353'e yerleştirir, iktisadi özet ise hastalığı İtalya'…"
+- [OK]      k3 → "Tarihleme bile ölçüte göre oynar: madde pandemiyi 1346-1353'e yerleştirir, iktisadi özet ise hastalığı İtalya'…"
+- [OK]      k1 → "yüzyıla gelindiğinde 1347'deki sayısının yarısına inmiş sayılır."
+- [ISARET]  k7 → "Boccaccio, Decameron'un girişinde anlatıyı 1348 Floransa'sına yerleştirir: ölüm getiren salgın, birkaç yıl önc…" — kaynakta bulunamayan sayısal değer: 1348 (kaynak metni 400k sınırında kesildi; kesin sayılmaz)
+- [ATOMSUZ] k7 → "Mart ile temmuz arasında, hastalığın şiddeti ve hastaların bakımsız bırakılması ortasında, surların içinde yüz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Dönemin tanıkları kıtlık, savaş ve karışıklık çağında yaşıyordu ve salgını kıyamet diliyle anlattı; vakanüvis …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Tanık ölçüsünde yanılabilir; ama tanıklığın kendisi — biçilmeden kalan ekinler, terk edilen hastalar, boşalan …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Tanık ölçüsünde yanılabilir; ama tanıklığın kendisi — biçilmeden kalan ekinler, terk edilen hastalar, boşalan …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Nüfus kaybıyla birlikte emek kıtlaştı ve ücretler fırladı; kiracı bulmakta zorlanan toprak sahipleri emek hizm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Nüfus kaybıyla birlikte emek kıtlaştı ve ücretler fırladı; kiracı bulmakta zorlanan toprak sahipleri emek hizm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Nüfus kaybıyla birlikte emek kıtlaştı ve ücretler fırladı; kiracı bulmakta zorlanan toprak sahipleri emek hizm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kimi yerde kiralar çöktü — eskiden beş sterlin getiren bir kiralama artık bir sterlin getiriyordu — ve salgını…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Kimi yerde kiralar çöktü — eskiden beş sterlin getiren bir kiralama artık bir sterlin getiriyordu — ve salgını…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Almanya kırsalında terk edilmiş yerleşimler haritayı benekledi: adları bilinen köylerin üçte ikisi Thüringen, …" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "David Herlihy'nin, Samuel Cohn'un yayıma hazırlamasıyla 1997'de Harvard University Press'ten çıkan kitabı The …"
+- [OK]      k3 → "Çizgiyi bugün besleyen şey de yeni araştırmadır: kaynak bakımından zengin doğu İngiltere tarımı üzerine çalışm…"
+- [ATOMSUZ] k1 → "Yalnızca para ücretiyle geçinen emekçi, zanaatkâr ve ustalar, şiddetli enflasyon karşısında gerçek gelir kaybı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Dönüşüm iddiası bu yüzden en sağlam zeminini ücret serilerinde değil, serflik kurumunun kendisinde arar: kurum…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Dönüşüm iddiası bu yüzden en sağlam zeminini ücret serilerinde değil, serflik kurumunun kendisinde arar: kurum…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "İngiliz tacı 1349 fermanı ve 1351 yasasıyla ücretleri ve çalışma koşullarını 1346 düzeyine döndürmeyi buyurdu;…" — 5 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k8 → "İngiliz tacı 1349 fermanı ve 1351 yasasıyla ücretleri ve çalışma koşullarını 1346 düzeyine döndürmeyi buyurdu;…" — 3 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k8 → "Külliyatta 1351 yasası başlığıyla duran metnin girişi durumu tacın ağzından anlatır: halkın, hele işçi ve hizm…"
+- [ATOMSUZ] k8 → "Altmış yaşın altındaki, bağlı ya da özgür her kadın ve erkek, kendisine uygun bir hizmet önerildiğinde çalışma…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Fransız tacı 1349 düzenlemesini daha 1351'de gözden geçirip ücretlere üçte bir oranında artış izni vermek zoru…"
+- [OK]      k3 → "Seçkinlerin köylüyü eski durumuna döndürme çabaları ayaklanmalarla karşılaştı: Paris çevresinde ücret artışını…" — 6 atom doğrulandı; 1 ad ölçülemedi
+- [ISARET]  k9 → "Seçkinlerin köylüyü eski durumuna döndürme çabaları ayaklanmalarla karşılaştı: Paris çevresinde ücret artışını…" — özel isim kaynakta bulunamadı: Paris
+- [OK]      k3 → "İktisadi özet burada temkin payı bırakır: 1380 ile 1381'in baş vergileri de hoşnutsuzluğu büyütmüştü, ayaklanm…"
+- [ATOMSUZ] k3 → "yüzyıl ortasından itibaren görür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "1315'te bozulan hava hasatları yok etti; izleyen Büyük Kıtlık kuzey Avrupa nüfusunun belki yüzde 10 ila 15'ini…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Ansiklopedi maddesi aynı sıralamayı korur: Kara Ölüm, Geç Orta Çağ Avrupa'sını vuran ikinci büyük doğal felake…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k3 → "Bu zeminden bakınca konumun cümlesi şudur: iklimin, kurumların, para dengesizliklerinin ve aşırı nüfusun zaten…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Postan ile Languedoc köylülüğünün uzun döngüsünü izleyen Emmanuel Le Roy Ladurie'nin adlarıyla anılır; John Ha…"
+- [OK]      k5 → "Postan ile Languedoc köylülüğünün uzun döngüsünü izleyen Emmanuel Le Roy Ladurie'nin adlarıyla anılır; John Ha…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k3 → "Veba emek hizmeti havuzunu kuruttukça toprağa bağlı köylü daha hafif yükümlülükler için pazarlık edebilir hâle…"
+- [OK]      k5 → "Sınıf okuması bu mantığı, demografik felaketin serfliğin kaderini tek başına belirlediği savı biçiminde özetle…"
+- [OK]      k3 → "Sınıf okuması bu mantığı, demografik felaketin serfliğin kaderini tek başına belirlediği savı biçiminde özetle…"
+- [OK]      k3 → "Philpin'in derlemesiyle 1985'te Cambridge University Press'ten The Brenner Debate adıyla kitaplaştı; tartışma …"
+- [OK]      k5 → "Philpin'in derlemesiyle 1985'te Cambridge University Press'ten The Brenner Debate adıyla kitaplaştı; tartışma …"
+- [ATOMSUZ] k3 → "Halesowen'in lordu servil kiracıdan hizmetlerin tamamını istemekle kalmadı, vebadan çok önce rafa kalkmış yükü…" — programatik olarak ölçülemedi (ad karşılığı yok): Katalonya
+- [ATOMSUZ] k5 → "Brenner'ın İngiliz kanıtı okuması bu tabloyu keskinleştirir: ona göre lordlar açısından serflik hâlâ yürürlükt…" — programatik olarak ölçülemedi (ad karşılığı yok): İngiliz
+- [OK]      k3 → "Sonuç iki ölçekle kayıtlıdır: iktisadi özete göre malikâne düzeni 1500'e gelindiğinde batı ve orta Avrupa'dan …" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k5 → "yüzyıl başına gelindiğinde ölmüştü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "yüzyıl başına gelindiğinde ölmüştü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Brenner'ın anlatımında, Elbe'nin doğusundaki Alman topraklarında ve Polonya'da nüfus çöküşüne serfliğin yoğunl…" — programatik olarak ölçülemedi (ad karşılığı yok): Elbe, Alman, Polonya
+- [ATOMSUZ] k5 → "Yine bu anlatımda kıtanın ortasından bir yarılma geçer: batıda hemen tümüyle özgürleşmiş bir köylülük, doğuda …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "İlk dalganın ölüm düzeyi doğuda batıya benzer sayıldığına göre, demografi sabit tutulduğunda geriye köylü topl…" — programatik olarak ölçülemedi (ad karşılığı yok): Brenner
+- [OK]      k5 → "İlk dalganın ölüm düzeyi doğuda batıya benzer sayıldığına göre, demografi sabit tutulduğunda geriye köylü topl…"
+- [ATOMSUZ] k5 → "Demografik modeli savunan tarihçiler bu okumaya cevaplar yazdı ve karşılaştırmanın deneysel temellerini sorgul…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Demografik modeli savunan tarihçiler bu okumaya cevaplar yazdı ve karşılaştırmanın deneysel temellerini sorgul…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1400 yılında yaklaşık 442,3 milyondur."
-- [ATOMSUZ] k1 → "Atlas bu iki değer arasındaki farkı bir salgın ölü sayısı olarak sunmaz: seri dünya toplamını verir, ölüm nede…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu iki değer arasındaki farkı bir salgın ölü sayısı olarak sunmaz: seri dünya toplamını verir, ölüm nede…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Seri toplamı verir, ölüm nedenini vermez; aradaki yüzyılın içinde kıtlık, savaş ve tekrarlayan veba dalgaları …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Seri toplamı verir, ölüm nedenini vermez; aradaki yüzyılın içinde kıtlık, savaş ve tekrarlayan veba dalgaları …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "yüzyılda yeniden yakaladığı kaydı ise şokun uzunluğu hakkında herhangi bir oran tahmininden daha çok şey söyle…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "yüzyılda yeniden yakaladığı kaydı ise şokun uzunluğu hakkında herhangi bir oran tahmininden daha çok şey söyle…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Dönüştürücü okuma şokun ne yaptığını sorar ve ücret, kira, yasa belgeleriyle cevap verir; hızlandırıcı okuma n…"
+- [ATOMSUZ] k8 → "Dönüştürücü okuma şokun ne yaptığını sorar ve ücret, kira, yasa belgeleriyle cevap verir; hızlandırıcı okuma n…" — programatik olarak ölçülemedi (ad karşılığı yok): Brenner
+- [OK]      k3 → "Dönüştürücü okuma şokun ne yaptığını sorar ve ücret, kira, yasa belgeleriyle cevap verir; hızlandırıcı okuma n…"
+- [ATOMSUZ] k1 → "Dönüştürücü okuma şokun ne yaptığını sorar ve ücret, kira, yasa belgeleriyle cevap verir; hızlandırıcı okuma n…" — programatik olarak ölçülemedi (ad karşılığı yok): Brenner
+- [OK]      k5 → "Dönüştürücü okuma şokun ne yaptığını sorar ve ücret, kira, yasa belgeleriyle cevap verir; hızlandırıcı okuma n…"
+- [ATOMSUZ] k1 → "Ölüm oranı, kapsam seçimine göre üçte bir ile yarı arasında herhangi bir yere yerleşebilir ve yerel oranlar bu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Ölüm oranı, kapsam seçimine göre üçte bir ile yarı arasında herhangi bir yere yerleşebilir ve yerel oranlar bu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Değişimin veba olmadan da — yalnızca daha yavaş — geleceği iddiası sınanamaz; karşı-olgusal bir kıyasa dayanır…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Sınıf güç dengesi açıklaması ise dengeyi veri alır: köylülüğün batıda neden daha dirençli, lordların doğuda ne…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Boccaccio'nun yüz bini bugünkü ölçütlerle abartılı bulunabilir; ama serflik gibi bir kurumun bir buçuk yüzyıl …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Boccaccio'nun yüz bini bugünkü ölçütlerle abartılı bulunabilir; ama serflik gibi bir kurumun bir buçuk yüzyıl …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "yüzyıl sorusu hem de her büyük felaketten sonra yeniden sorulan bir yöntem sorusudur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "yüzyıl sorusu hem de her büyük felaketten sonra yeniden sorulan bir yöntem sorusudur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 4 OK · 0 ISARET · 0 HATA · 5 ATOMSUZ
+**Özet:** 32 OK · 2 ISARET · 0 HATA · 42 ATOMSUZ

@@ -1,61 +1,439 @@
 {
   "id": "tartisma-milliyetcilik-ne-zaman",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:28.004Z",
-  "govde_hash": "2fb6112376cd",
-  "commit": "1d273c7",
+  "zaman": "2026-08-29T04:01:58.622Z",
+  "govde_hash": "3c7f37765d28",
+  "commit": "33a9638",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Bu haritanın çıkış noktası, kaynağın tarih bölümünde ayrı bir alt başlık olarak tuttuğu sorudur: milliyetçiliğin ortaya çıkışının tarihlendirilmesi.",
+      "iddia": "yüzyılın başına, Amerikan Bağımsızlık Bildirgesi'ne ya da Fransız Devrimi'ne yerleştirir; aynı kayıt, milletin ortaçağda hatta antikitede farklı biçimlerde var ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıla gelindiğinde sağlamca yerleştiği kabul edilir, öncesi tartışmanın kendisidir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılın başına yerleştirdiğini yazar.",
+      "iddia": "Milliyetçilik tarihlerinde Fransız Devrimi'nin (1789) önemli bir başlangıç noktası sayılması da bu dar zeminin parçasıdır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Milletler modern sayılırsa, ve kavramları daha erken yüzyıllara ancak geriye dönük bir okuma olduğu belirtilerek taşınabilir; milletler eski sayılırsa, bugünün ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, 1772'de yayımlanan bir dil kökeni incelemesinde ortak dilin rolünün vurgulandığını ve yazarın milliyet ile yurtseverlik kavramlarına olağanüstü önem atf",
+      "iddia": "Milletler modern sayılırsa, ve kavramları daha erken yüzyıllara ancak geriye dönük bir okuma olduğu belirtilerek taşınabilir; milletler eski sayılırsa, bugünün ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tarihlendirme kararının siyasi bir yükü de vardır: hangi topluluğun kendini ne kadar eski sayabileceğini belirler ve milletlerin kendilerini çok eski bir soy çi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "konferansında tartışmanın bugün de içinden konuşulan cevaplarından birini kurdu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Konferans önce eldeki adayları sırayla eler: saf ırk yoktur ve siyaseti etnografik çözümlemeye oturtmak onu bir kuruntuya oturtmaktır; dil birleşmeye davet eder",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Geriye öznel bir tanım kalır: millet bir ruhtur ve biri geçmişte zengin bir hatıra mirası, öteki bugünde birlikte yaşama arzusu olmak üzere iki şeyden örülür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Fetihle kurulan krallıklarda fatihlerin kendi dillerini unutması — Clovis'in torunlarının artık Latin kökenli halk dilini konuşması — Renan için milletin oluşum",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Tanımın olumlu yüzü de geçmişle bugünü aynı cümlede tutar: geçmişte ortak zaferler, bugünde ortak bir irade; birlikte büyük işler yapmış olmak ve yenilerini yap",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Renan bu tanımı, bir metafor kullandığı için özür dileyerek özetler: bir milletin varlığı \"günlük bir plebisittir\".",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı metin tarih yazımı için rahatsız edici bir gözlem de taşır: unutma, hatta tarihsel hata, milletin oluşumunda temel bir etkendir ve tarihsel araştırmanın il",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Felsefe yazını konferansı bugün de tartışmanın giriş kapısı olarak aktarır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Konum başlangıç sorusunun kendisini değiştirir: millet her gün yenilenen bir onay ise, aranacak şey bir doğum belgesi değil, rızanın hangi koşullarda üretilip s",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Konum başlangıç sorusunun kendisini değiştirir: millet her gün yenilenen bir onay ise, aranacak şey bir doğum belgesi değil, rızanın hangi koşullarda üretilip s",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "O yıl Ernest Gellner Nations and Nationalism'i yayımladı; Benedict Anderson'ın Imagined Communities'i ile Eric Hobsbawm ve Terence Ranger'ın derlediği The Inven",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir kavramın fikirsel kökeninin belirli bir yıla ve metne bağlanması, tarihlendirme tartışmasının hangi zeminde yürüdüğünü gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "O yıl Ernest Gellner Nations and Nationalism'i yayımladı; Benedict Anderson'ın Imagined Communities'i ile Eric Hobsbawm ve Terence Ranger'ın derlediği The Inven",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "O yıl Ernest Gellner Nations and Nationalism'i yayımladı; Benedict Anderson'ın Imagined Communities'i ile Eric Hobsbawm ve Terence Ranger'ın derlediği The Inven",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak toplumbilim başlığı altında iki yorum tutar: ilkselci evrimsel yorum ve Marksçı yorumlar.",
+      "iddia": "yüzyılın sonundan önce aranmamalıdır.",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Marksçı"
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Yorumlardan birinin adını aldığı düşünür için tutulan kayıt, toplum biçimlerinin üretici gücün gelişimine göre yükselip düştüğü fikri etrafında kurulu bir tarih",
+      "iddia": "yüzyılın sonundan önce aranmamalıdır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Geriye dönük adlandırmaya dair bir kayıt, siyasi güdümlü anakronizm ile bilinçsiz anakronizmi ayrı başlıklar olarak tutar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bu ayrımın kaydedilmesi, atlasın şu kuralının dayanağıdır: milliyetçilik terimi, bu atlasın 18.",
+      "anahtar": "k4",
+      "iddia": "Kitabın kayıtlı bölüm başlıkları — tarım toplumunda kültür, sanayi toplumu, milliyetçilik çağına geçiş — savın omurgasını kendiliğinden verir: sürekli büyümeye ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynağın kendisi bir tarihlendirme verirken \"sıklıkla\" kaydını düşer ve bir hüküm vermez; bu atlas da vermez.",
+      "iddia": "Kitabın kayıtlı bölüm başlıkları — tarım toplumunda kültür, sanayi toplumu, milliyetçilik çağına geçiş — savın omurgasını kendiliğinden verir: sürekli büyümeye ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bugün alanda en yaygın kabul gören çerçeve olan modernleşme kuramı bu çizgiden türetilir: milliyetçilik, sanayileşme, kentleşme ve kitle eğitimi gibi süreçlerin",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Matbaa kapitalizminin yükselişi yerel dillerde standart okur kamuları yaratır; en küçük milletin üyeleri bile birbirlerinin çoğunu hiç tanımayacak, yine de zihi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Matbaa kapitalizminin yükselişi yerel dillerde standart okur kamuları yaratır; en küçük milletin üyeleri bile birbirlerinin çoğunu hiç tanımayacak, yine de zihi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Buradaki vurgu uydurma değil kuruluş vurgusudur: yaygın okuryazarlık ve başta basılı söz olmak üzere iletişim araçları olmadan milletler var olamazdı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kitabın alt başlığı programı açıkça duyurur: milliyetçiliğin kökeni ve yayılışı üzerine düşünceler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Hobsbawm eşiği kitabının adına yazdı: 1990 tarihli incelemesi Nations and Nationalism since 1780 başlığını taşır ve alt başlığı programı, miti, gerçekliği ayırı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Ranger ile derlediği ciltle birlikte okununca çizginin iddiası netleşir: kökleri çok eski görünen milli gelenekler incelemeye açıktır ve bu çizgide milliyetçili",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ranger ile derlediği ciltle birlikte okununca çizginin iddiası netleşir: kökleri çok eski görünen milli gelenekler incelemeye açıktır ve bu çizgide milliyetçili",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Modernist konumun sık aktarılan özeti buradan çıkar: milletler milliyetçiliği değil, milliyetçilik milletleri üretir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Modernist konumun sık aktarılan özeti buradan çıkar: milletler milliyetçiliği değil, milliyetçilik milletleri üretir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Modernliğin göstergesi yalnız sanayi ya da basım değildir; katı toplumsal hiyerarşilerin aşınması gibi başka modern özellikler de milletin ancak onlarla birlikt",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Konumun içindeki bilinen paradoks da buradan doğar: milletler çoğu örnekte kendilerini tarihin derinliklerine kök salmış, ülkenin ilk sakinlerinin doğrudan deva",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Konumun içindeki bilinen paradoks da buradan doğar: milletler çoğu örnekte kendilerini tarihin derinliklerine kök salmış, ülkenin ilk sakinlerinin doğrudan deva",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Etno-sembolcü okuma, milliyetçiliği sembollerin, mitlerin ve geleneklerin ürünü olarak açıklar ve alan yazınında Smith'in adıyla anılır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Konumun özü bir ayrımdır: ideoloji ve hareket olarak milliyetçilik moderndir; ama modern milletler boşlukta kurulmaz, çoğu örnekte mit, sembol ve hatıra taşıyan",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Konumun özü bir ayrımdır: ideoloji ve hareket olarak milliyetçilik moderndir; ama modern milletler boşlukta kurulmaz, çoğu örnekte mit, sembol ve hatıra taşıyan",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Çağdaş bir milletin eski bir etnik grubun çevresinde biçimlendiği durumlarda bile onu millet yapan şeyin hayal edilmiş ortak geçmiş anlatısı olduğu kaydı, iki k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Smith tartışmanın haritasını da yazdı: 2000 tarihli incelemesi başlığıyla etnisite ve milliyetçilik üzerine tarih yazımı tartışmalarını konu alır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Alanı modernistler, süreklilikçiler ve etno-sembolcüler biçiminde bölen sınıflandırma bu çizgiyle anılır; sınıflandırmanın kendisi bile tartışmanın taraflarında",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Alanı modernistler, süreklilikçiler ve etno-sembolcüler biçiminde bölen sınıflandırma bu çizgiyle anılır; sınıflandırmanın kendisi bile tartışmanın taraflarında",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Modernist okumada milletlerin kendilerini eski sanması açıklanacak bir yanılsamadır; etno-sembolcü okumada ise aynı duygu bir hammaddedir — milliyetçi hareketle",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Modernist okumada milletlerin kendilerini eski sanması açıklanacak bir yanılsamadır; etno-sembolcü okumada ise aynı duygu bir hammaddedir — milliyetçi hareketle",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu yüzden konum iki yönde birden eleştirilir: modernistlere göre çekirdek vurgusu eşiği geriye kaydırma riski taşır, erken millet savunucularına göre ise çekird",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu yüzden konum iki yönde birden eleştirilir: modernistlere göre çekirdek vurgusu eşiği geriye kaydırma riski taşır, erken millet savunucularına göre ise çekird",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İlkselci görüş, romantik dönemde yaygın olan biçimiyle, milletlerin her zaman var olduğunu savunur; bu görüş bugün araştırmacıların çoğunca reddedilir, çünkü mi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Daha yumuşak sürüm ayaktadır: süreklilikçi okuma milletlerin modern olgular olduğunu kabul eder ama köklerini uzun bir geçmişe uzatır ve akademik tartışma konus",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Felsefe yazını da aynı gerilimi kaydeder: milletler kendilerini çok eski bir soyun devamı olarak düşünür ve modernlik vurgusunun karşısında, millet olmanın deri",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Adrian Hastings 1997'de yayımlanan The Construction of Nationhood ile doğrudan Hobsbawm'ın 1780 eşiğine cevap verdi; kitabın katalog kaydı bile konuyu bu karşıt",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Hastings'in savunduğu çizgide milletin inşası ortaçağa kadar geriye izlenir; etnisiteyi millete dönüştüren başlıca güç din, özellikle yerel dile çevrilmiş kutsa",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: İngiltere"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hastings'in savunduğu çizgide milletin inşası ortaçağa kadar geriye izlenir; etnisiteyi millete dönüştüren başlıca güç din, özellikle yerel dile çevrilmiş kutsa",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı kanadın çağdaş bir devamı da kayıtlıdır: siyasal etnisitenin ve millet olmanın derin köklerini savunan karşı okuma, felsefe yazınında Azar Gat'in 2013 tari",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ortaçağ ve antikite sorusunun ansiklopedi kaydında hâlâ açık tutulması, bu kanadın kuram tarihine düşülmüş bir dipnottan ibaret olmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İlkselciliğin bir de evrimsel yorumu vardır ve ayrı tutulması gerekir: milliyetçiliği evrim kuramına dayandıran bu bakış geniş kamuoyunda ilgi görse de uzmanlar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Ortaçağcı itiraz bu yüzden ilkselcilikle aynı kefeye konmamalıdır; Hastings gibi tarihçiler milletin her zaman var olduğunu değil, belirli koşullarda — yazı, di",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ortaçağcı itiraz bu yüzden ilkselcilikle aynı kefeye konmamalıdır; Hastings gibi tarihçiler milletin her zaman var olduğunu değil, belirli koşullarda — yazı, di",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Hastings"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ansiklopedi kaydı terimi Johann Gottfried Herder'e ve 1772 tarihli dil kökeni incelemesine kadar götürür; Herder ortak dilin rolünü vurgulamış, milliyet ve yurt",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Erica Benner'a göre Herder, dile dayalı kimliklerin meşru siyasi otoritenin başlıca kaynağı sayılması gerektiğini açıkça öne süren ilk filozoftur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu kayıt tartışmayı kapatmaz, çünkü bir fikrin yazılması, bir hareketin doğması ve bir topluluğun o fikirle gerçekten yaşaması ayrı şeylerdir; modernistler ile ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu kayıt tartışmayı kapatmaz, çünkü bir fikrin yazılması, bir hareketin doğması ve bir topluluğun o fikirle gerçekten yaşaması ayrı şeylerdir; modernistler ile ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kelimenin 1772'de, hareketin görünür yükselişinin ise Fransız Devrimi ertesinde tarihlenmesi, aynı kaynağın içinde yan yana durabilmektedir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Modernistler bir ideolojinin ve hareketin tarihini sorar; süreklilikçiler ile etno-sembolcüler bir topluluk biçiminin tarihini; Renan ise tarihi değil tanımı so",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Modernistler bir ideolojinin ve hareketin tarihini sorar; süreklilikçiler ile etno-sembolcüler bir topluluk biçiminin tarihini; Renan ise tarihi değil tanımı so",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıla gelindiğinde yerleşmiş olduğundan ibarettir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı olay bile iki kampta iki ayrı şey olarak okunur: Fransız Devrimi modernist anlatıda bir başlangıç noktası, süreklilikçi anlatıda uzun bir birikimin siyasal",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Fransız, Devrimi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı olay bile iki kampta iki ayrı şey olarak okunur: Fransız Devrimi modernist anlatıda bir başlangıç noktası, süreklilikçi anlatıda uzun bir birikimin siyasal",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Fransız, Devrimi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Erken dönem kimliklerinin okuryazar seçkinlerin ötesine ne kadar indiği, kaynakların doğası gereği güç ölçülür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Modern öncesi etnik çekirdeklerin hangi eşikte millete dönüştüğü, etno-sembolcü okumada bile açık bir ölçüte bağlanmış değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Renan'ın uyarısı ise tartışmanın kendisine döner: milli hatıra unutmayla kurulduysa, milletin yaşını ölçmeye çalışan tarih yazımı, ölçtüğü şeyin kuruluş malzeme",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Renan'ın uyarısı ise tartışmanın kendisine döner: milli hatıra unutmayla kurulduysa, milletin yaşını ölçmeye çalışan tarih yazımı, ölçtüğü şeyin kuruluş malzeme",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

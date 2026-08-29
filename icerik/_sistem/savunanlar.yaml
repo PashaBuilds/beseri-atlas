@@ -589,3 +589,173 @@ adlar:
     durum: dogrulandi
     gectigi: [tartisma-buyuk-adam-kurami]
     not: "1841 tarihli On Heroes konferanslarinda konumu dogrudan savunur"
+  # ─── 2026-08-29 P1 tartisma dalgasi: bagimsiz kor hakemlerin fetch kanitiyla
+  #     onayladigi adlar. Kanit URL'leri dogrulama_kaynagi alaninda. ───
+  - ad: "Moses Finley"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org The Ancient Economy djvu: 'the first genuine slave societies in history'"
+    gectigi: [tartisma-antik-kolelik-ekonomisi]
+  - ad: "Michael Rostovtzeff"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org SEHRE 1926 djvu: 'rested on the urban middle class' / 'bourgeoisie'"
+    gectigi: [tartisma-antik-kolelik-ekonomisi]
+  - ad: "Walter Scheidel"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia.org/wiki/Slavery_in_ancient_Rome: 'according to Walter Scheidel of Stanford University' + JRS 95 (2005)"
+    gectigi: [tartisma-antik-kolelik-ekonomisi]
+  - ad: "Statü yelpazesini esas alan çizgi"
+    durum: kisi-degil
+    gectigi: [tartisma-antik-kolelik-ekonomisi]
+  - ad: "Harvey Weiss"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia.org/wiki/Harvey_Weiss: 'abrupt climate change 4,200 years before present ... forced the political collapse'"
+    gectigi: [tartisma-iklim-ve-cokus]
+  - ad: "Geoffrey Parker"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia.org/wiki/General_Crisis: 'global General Crisis, exacerbated by ... the Little Ice Age'"
+    gectigi: [tartisma-iklim-ve-cokus]
+  - ad: "Karl Butzer"
+    durum: dogrulandi
+    dogrulama_kaynagi: "PubMed 22371579 ozet: 'Undue attention to stressors risks underestimating the ... resilience'"
+    gectigi: [tartisma-iklim-ve-cokus]
+  - ad: "Patricia McAnany"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org/details/questioningcolla00mcan es-editor + TOC"
+    gectigi: [tartisma-iklim-ve-cokus]
+  - ad: "Norman Yoffee"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org/details/questioningcolla00mcan es-editor"
+    gectigi: [tartisma-iklim-ve-cokus]
+  - ad: "Emmanuel Le Roy Ladurie"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia.org/wiki/Brenner_debate: 'defended the demographic model'"
+    gectigi: [tartisma-kara-olumun-sonuclari, tartisma-iklim-ve-cokus]
+  - ad: "Karl Julius Beloch"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org Die Bevoelkerung 1886 djvu icindekiler: 'beziehen sich jetzt auf die buergerliche'"
+    gectigi: [tartisma-imparatorluk-nufusu-nasil-sayilir]
+  - ad: "Elio Lo Cascio"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia.org/wiki/Demography_of_the_Roman_Empire: Lo Cascio 1994 JRS 84"
+    gectigi: [tartisma-imparatorluk-nufusu-nasil-sayilir]
+  - ad: "Hane kaydını vergi yükümlülüğü olarak okuyan çizgi"
+    durum: kisi-degil
+    gectigi: [tartisma-imparatorluk-nufusu-nasil-sayilir]
+  - ad: "Dolaylı göstergeden geri-hesap yaklaşımı"
+    durum: kisi-degil
+    gectigi: [tartisma-imparatorluk-nufusu-nasil-sayilir]
+  - ad: "Jeffrey Sachs"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org endofpovertyecon00sach: 'Clinical economics' / 'A global compact to end poverty'"
+    gectigi: [tartisma-kalkinma-neden-basarisiz]
+  - ad: "William Easterly"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org whitemansburdenw0000east: 'Planners versus searchers'"
+    gectigi: [tartisma-kalkinma-neden-basarisiz]
+  - ad: "Dambisa Moyo"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org deadaidwhyaidisn0000moyo: 'corrupt governments and dependent citizens'"
+    gectigi: [tartisma-kalkinma-neden-basarisiz]
+  - ad: "Raúl Prebisch"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org 1950 Prebisch UN raporu djvu: 'the peripheral countries transferred to them a share of the fruits'"
+    gectigi: [tartisma-kalkinma-neden-basarisiz]
+  - ad: "Arturo Escobar"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia.org/wiki/Postdevelopment_theory: 'leading members of the postdevelopment school'"
+    gectigi: [tartisma-kalkinma-neden-basarisiz]
+  - ad: "David Herlihy"
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: "archive.org blackdeathtransf0000herl katalog + en.wikipedia.org/wiki/David_Herlihy (pozisyon kitap basliginda; icerik odunc-kisitli)"
+    gectigi: [tartisma-kara-olumun-sonuclari]
+  - ad: "M. M. Postan"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia.org/wiki/Brenner_debate: 'defended the demographic model'"
+    gectigi: [tartisma-kara-olumun-sonuclari]
+  - ad: "John Hatcher"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia.org/wiki/Brenner_debate: 'Key respondents included M. M. Postan, John Hatcher...'"
+    gectigi: [tartisma-kara-olumun-sonuclari]
+  - ad: "Robert Brenner"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia.org/wiki/Brenner_debate: 'privileges the role of class structure and class conflict'"
+    gectigi: [tartisma-kara-olumun-sonuclari]
+  - ad: "Ernest Gellner"
+    durum: dogrulandi
+    dogrulama_kaynagi: "SEP nationalism 'drawing upon Gellner 1983' + archive.org TOC 'Industrial society'"
+    gectigi: [tartisma-milliyetcilik-ne-zaman]
+  - ad: "Benedict Anderson"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia.org/wiki/Nationalism: 'rise of nationalism was related to the emergence of print capitalism'"
+    gectigi: [tartisma-milliyetcilik-ne-zaman]
+  - ad: "Eric Hobsbawm"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org nationsnationali00hobs (1990) + inventionoftradi0000unse (Ranger ile)"
+    gectigi: [tartisma-milliyetcilik-ne-zaman]
+  - ad: "Anthony D. Smith"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia.org/wiki/Nationalism: 'Ethnosymbolism ... is associated with the work of Anthony D. Smith'"
+    gectigi: [tartisma-milliyetcilik-ne-zaman]
+  - ad: "Adrian Hastings"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia.org/wiki/Adrian_Hastings: 'traced the origins of European nations back to the Middle Ages'"
+    gectigi: [tartisma-milliyetcilik-ne-zaman]
+  - ad: "Azar Gat"
+    durum: dogrulandi
+    dogrulama_kaynagi: "SEP nationalism: 'deep historical roots of nationhood, see Gat 2013'"
+    gectigi: [tartisma-milliyetcilik-ne-zaman]
+  - ad: "Ernest Renan"
+    durum: dogrulandi
+    dogrulama_kaynagi: "fr.wikisource Qu'est-ce qu'une nation?: 'un plébiscite de tous les jours'"
+    gectigi: [tartisma-milliyetcilik-ne-zaman]
+  - ad: "Thomas Malthus"
+    durum: dogrulandi
+    dogrulama_kaynagi: "gutenberg.org pg4239: 'increases in a geometrical ratio ... arithmetical ratio'"
+    gectigi: [tartisma-nufus-artisi-tehdit-mi]
+  - ad: "Paul Ehrlich"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia.org/wiki/Simon–Ehrlich_wager: 'The Population Bomb ... demographic catastrophe'"
+    gectigi: [tartisma-nufus-artisi-tehdit-mi]
+  - ad: "Ester Boserup"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia.org/wiki/Ester_Boserup: 'population change drives the intensity of agricultural production'"
+    gectigi: [tartisma-nufus-artisi-tehdit-mi]
+  - ad: "Julian Simon"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia.org/wiki/Julian_Simon: 'power of human ingenuity to create substitutes'"
+    gectigi: [tartisma-nufus-artisi-tehdit-mi]
+  - ad: "Demografik geçiş çerçevesi"
+    durum: kisi-degil
+    gectigi: [tartisma-nufus-artisi-tehdit-mi]
+  - ad: "William Schabas"
+    durum: dogrulandi
+    dogrulama_kaynagi: "legal.un.org/avl/ha/cppcg: 'stood the test of time, resisting calls for its expansion' (imzali not)"
+    gectigi: [tartisma-soykirim-kavrami]
+  - ad: "Leo Kuper"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia.org/wiki/Genocide_definitions: 'a major omission to be in the exclusion of political groups'"
+    gectigi: [tartisma-soykirim-kavrami]
+  - ad: "Israel Charny"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia.org/wiki/Genocide_definitions: 'Genocide in the generic sense means the mass killing...'"
+    gectigi: [tartisma-soykirim-kavrami]
+  - ad: "Steven Katz"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia.org/wiki/Genocide_definitions: 'to murder in its totality any national, ethnic, ... group'"
+    gectigi: [tartisma-soykirim-kavrami]
+  - ad: "Daniel Philpott"
+    durum: dogrulandi
+    dogrulama_kaynagi: "SEP sovereignty: 'Daniel Philpott has argued for the orthodoxy' + sayfa yazarligi"
+    gectigi: [tartisma-vestfalya-miti]
+  - ad: "Andreas Osiander"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia.org/wiki/Westphalian_system: 'least of all do they contain anything about sovereignty as a principle' (Osiander 2001)"
+    gectigi: [tartisma-vestfalya-miti]
+  - ad: "Benno Teschke"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org mythof1648classg0000tesc + SEP sovereignty dokumu"
+    gectigi: [tartisma-vestfalya-miti]
+  - ad: "Stephen Krasner"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org sovereigntyorgan0000kras (Princeton 1999) + SEP: 'see Krasner 1999'"
+    gectigi: [tartisma-vestfalya-miti]

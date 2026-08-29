@@ -19,6 +19,7 @@ ilgili:
   - dusunur-marx
   - dusunur-du-bois
   - kaynak-durkheim-intihar
+  - tartisma-feodalite-kavrami
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

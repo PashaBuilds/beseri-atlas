@@ -17,6 +17,7 @@ ilgili:
   - olay-nufus-patlamasi
   - veri-nufus-artis-hizi
   - tartisma-demografik-donum-sonuclari
+  - tartisma-nufus-artisi-tehdit-mi
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/dogurganlik-hizi.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

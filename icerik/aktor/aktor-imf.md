@@ -20,6 +20,7 @@ ilgili:
   - aktor-dunya-ticaret-orgutu
   - olay-2008-finansal-krizi
   - aktor-dunya-bankasi
+  - tartisma-kalkinma-neden-basarisiz
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

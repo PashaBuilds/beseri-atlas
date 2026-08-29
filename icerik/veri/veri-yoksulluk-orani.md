@@ -17,6 +17,7 @@ ilgili:
   - kavram-bagimlilik-kurami
   - tartisma-kalkinma-yardimi-ise-yariyor-mu
   - veri-kuresel-esitsizlik
+  - tartisma-kalkinma-neden-basarisiz
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/yoksulluk-orani.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

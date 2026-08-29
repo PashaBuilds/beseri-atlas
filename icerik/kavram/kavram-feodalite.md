@@ -17,6 +17,7 @@ ilgili:
   - kavram-timar
   - tartisma-feodalite-kavrami
   - kaynak-magna-carta
+  - tartisma-kara-olumun-sonuclari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

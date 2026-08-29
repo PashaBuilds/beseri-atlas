@@ -1,49 +1,229 @@
 {
   "id": "tartisma-imparatorluk-nufusu-nasil-sayilir",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:27.768Z",
-  "govde_hash": "f079b14fd223",
-  "commit": "1d273c7",
+  "zaman": "2026-08-29T04:02:58.826Z",
+  "govde_hash": "eb50e6bec0ec",
+  "commit": "33a9638",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "yüzyıl sonu için 7.200.000 kişilik bir tahmin verir; aynı kutunun dipnotunda Eyyûbî topraklarının toplam nüfusunun bilinmediğini ve bu sayının yalnızca Mısır, S",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
-    },
-    {
       "anahtar": "k2",
-      "iddia": "yüzyıl için nüfusu 3 milyon olarak verir.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Göçebe bir siyasi birim için hem alan hem nüfus kaydedilebilmesi, atlasın şu kuralının dayanağıdır: göçebe düzenler için sayı yokluğu bir kural değil bir kaynak",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Uzun dönemli nüfus serisinde sağlayıcının toplam satırı MS 600 için yaklaşık 271,6 milyon, 1300 için yaklaşık 456,2 milyon verir.",
+      "iddia": "Augustus, mezarının önüne dikilmek üzere bıraktığı yazıtta üç sayım toplamıyla övünür: MÖ 28 sayımında 4.063.000, MÖ 8 sayımında 4.233.000, MS 14 sayımında 4.93",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Atlas bu değerleri yalnızca ölçek bağlamı olarak kaydeder ve imparatorluk sayılarıyla bölmez: iki kayıt aynı sayım yöntemine dayanmaz ve kapsamları farklı tanım",
+      "iddia": "Bu üç rakam, antik dünyanın en iyi belgelenmiş nüfus verileri arasındadır; yine de aynı üç rakamdan İtalya için hem 8-9 milyonluk hem 12-13 milyonluk bir nüfus,",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıldan kalan on dört rakam 258.318 ile 394.736 arasındadır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıldan ise yalnızca dört rakam vardır ve seri, MÖ 70/69'daki 910.000 ile MÖ 28'deki 4.063.000 arasında büyük bir sıçrama gösterir; Augustus dönemi sayımların",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Atlas bu değerleri yalnızca ölçek bağlamı olarak kaydeder ve imparatorluk sayılarıyla bölmez: iki kayıt aynı sayım yöntemine dayanmaz ve kapsamları farklı tanım",
+      "iddia": "Augustus, MÖ 28 sayımını Marcus Agrippa ile birlikte ve kırk bir yıllık bir aradan sonra yaptığını yazar; sayılanın Roma yurttaşlarının başı olduğu belirtilir, ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılda İtalya yarımadasının tümüne yayılmıştı ama bu bölge imparatorluk topraklarının yüzde 5'i kadardı ve kadınların yurttaş olarak sayılıp sayılmadığı, sayı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl başı tahminleri köleleştirilmiş payı toplamın yaklaşık yüzde 15'i olarak verir ve bu payın İtalya'da belirgin biçimde daha yüksek, Mısır ile Afrika'da da",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Karl Julius Beloch 1886'da sıçramayı usul değişikliğiyle açıklar: bu okumaya göre Augustus sayımları, Cumhuriyet'in yetişkin erkek yurttaş sayımından farklı ola",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı çalışma bölge alanlarını dönemin askeri haritacılarının planimetrik ölçümlerinden alır, her tahmini nüfus yoğunluğu üzerinden denetler ve Augustus dönemi i",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Beloch'un hedeflerinden biri de kendinden önceki şişkin rakamlardı: kitabı, imparatorluk için 410 milyona varan eski tahminleri aktarır ve bunları antik yazarla",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Elio Lo Cascio buna karşı sayım tabanının değişmediğini savunur: Augustus sayımları da Cumhuriyet dönemindeki gibi yalnız yetişkin erkekleri saydıysa, aynı raka",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki okumanın da açığı bilinir: standart yorumu yazıtın kendi metninden destekleyen bir kanıt bulunmaz, yüksek okumanın ürettiği yoğunluklar ise başka dönem ve b",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
+      "anahtar": "k1",
+      "iddia": "yüzyıla kadar görülmemiş yoğunluklar gerektirdiği gerekçesiyle sonradan aşağı çekildi: Bruce Frier 2000 tarihli hesabında 12 milyonu daha akla yakın buldu, Kyle",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Russell'ın 1958 hesabı ise MS 350 için imparatorluk toplamını 39,3 milyona indirir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sonuç, büyük ölçüde bir varsayıma asılı duran bir imparatorluk nüfusudur: Frier'ın hesabı MS 14 için 45,5 milyon verir; Harper'ın hesabı Augustus dönemi için 60",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Harper'ın Augustus dönemi değeri, Beloch'un 1886 toplamından dokuzda bir yüksektir; yüz kırk yıllık araştırma, 1886 hesabının çevresinde salınmayı sürdürür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Han hanedanının resmi tarihi Han Shu, coğrafya bölümünün kapanışında MS 2 yılı için iki toplam verir: 12.233.062 hane ve 59.594.978 kişi.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Han, Shu"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Kaydın çözünürlüğü şaşırtıcı düzeydedir: bölüm yüzü aşkın komutanlık ve krallığı, binin üzerinde ilçeyi tek tek dökümler; toplamların hemen öncesinde ekilebilir",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Han"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Kaydın bağlamı bir nüfus merakı değil, devletin vergi ve yükümlülük idaresidir; çift sütun tam da bu idarenin izidir, sayımın birimi hanedir ve kişi toplamı han",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Ping-ti Ho'nun 1959'da yayımlanan ve 1368-1953 arasını inceleyen çalışması, bu okuma tarzının sonraki yüzyıllar için dayanağı sayılır: bu çizgide, Ming ve Qing ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Katsayı değiştikçe aynı kayıtlardan türetilen Çin nüfusu on milyonlarca kişi oynar; seri içindeki ani düşüş ve sıçramaların bir bölümü de nüfus hareketi değil, ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Böyle okunduğunda, kayıtlardaki bir yükseliş kimi zaman nüfus artışı değil, idarenin hane defterlerini sıkılaştırması anlamına gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Beloch'un derlediği örneklerde Prokopios, Justinianus döneminde yalnız Afrika'da 5 milyon kişinin yok olduğunu, imparatorluk ve komşu topraklarda ise bunun çok ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ansiklopedi kaydı da aynı uyarıyı taşır: antik dünyadan kalan nüfus sayılarının çoğu retorik ya da simgeseldir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Beloch alandan ve yoğunluktan ilerler; kitabında Akdeniz'in tahıl ambarlarının alanı ve üretim kapasitesi, besleyebilecekleri nüfus için bir denetim ölçüsü olar",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Akdeniz"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıllar için 1 milyon dolayında kabul edilir ve bu kabul, kentleşme oranı üzerinden toplam nüfus hesaplarına girer.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Colin McEvedy ile Richard Jones'un 1978 tarihli dünya nüfus tarihi atlası, bölge bölge nüfus eğrilerini kesintisiz biçimde veren ve uzun süre başvurulan bir cil",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bugünün uzun serileri ise veri tabanlarında kurulur: Our World in Data'nın uzun nüfus serisi 1799 öncesi için HYDE 3.3 veri tabanına, 1800-1949 için Gapminder d",
+      "durum": "OK",
+      "not": ""
+    },
+    {
       "anahtar": "k3",
-      "iddia": "Atlas bu değerleri yalnızca ölçek bağlamı olarak kaydeder ve imparatorluk sayılarıyla bölmez: iki kayıt aynı sayım yöntemine dayanmaz ve kapsamları farklı tanım",
+      "iddia": "Bu uzlaştırılmış seride dünya nüfusu MS 200 için yaklaşık 240,8 milyon, 600 için yaklaşık 271,6 milyon, 1300 için yaklaşık 456,2 milyon görünür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Uzlaştırma, yöntem tercihlerini de miras alır: kaynak dökümüne göre HYDE tahminleri 1800 ile 1950 arasında yalnız onar yıllık adımlarla bulunduğundan 1800 sonra",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bugünkü sınırlar kuralı, uzun serinin imparatorluk sorusunu hiç sormadığı anlamına gelir: seride Roma ya da Han diye bir satır bulunmaz, bugünün ülkeleri ve dün",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aynı yüzyıl için farklı derlemeler farklı değerler verebilir; hangi bölgesel tahminin seçildiği, hangi boşluğun hangi katsayıyla doldurulduğu derlemeden derleme",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı yüzyıl için farklı derlemeler farklı değerler verebilir; hangi bölgesel tahminin seçildiği, hangi boşluğun hangi katsayıyla doldurulduğu derlemeden derleme",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Roma zirvesi için önerilen 75 milyon ile serideki MS 200 toplamı yan yana koyulduğunda bir pay hesabı cazip hale gelir; ama iki sayı aynı yöntemle üretilmemişti",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Roma zirvesi için önerilen 75 milyon ile serideki MS 200 toplamı yan yana koyulduğunda bir pay hesabı cazip hale gelir; ama iki sayı aynı yöntemle üretilmemişti",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Augustus sayımlarının tabanı bugün de karara bağlanmış değildir; düşük ve yüksek okuma, aynı yazıtın iki yorumlanabilir hali olarak yan yana durur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Çin kayıtlarında hane başına kişi katsayısının dönem dönem ne olduğu ayrı bir açık sorudur ve resmi toplamların hangi yıllarda kişi, hangi yıllarda yükümlü sayd",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

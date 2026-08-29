@@ -1,5 +1,5 @@
 # Çürütücü raporu — tartisma-soykirim-kavrami
-_2026-08-21T12:46:32.915Z_
+_2026-08-29T00:06:53.871Z_
 
 ## Zayıf bulunmayan alanlar
 

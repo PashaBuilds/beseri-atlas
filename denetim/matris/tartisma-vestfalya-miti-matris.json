@@ -1,0 +1,758 @@
+{
+  "id": "tartisma-vestfalya-miti",
+  "govde_hash": "cde91d8c3f54",
+  "commit": "33a9638",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "v1",
+      "cumle": "Uluslararası ilişkiler öğretiminin kuruluş sahnesi çoğunlukla aynı biçimde kurulur: Otuz Yıl Savaşları 1648'de Münster ve Osnabrück'te imzalanan antlaşmalarla kapanır, din gerekçeli müdahale çağı sona erer ve iç işlerine karışılmayan, hukuken eşit egemen devletlerden oluşan modern sistem doğar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ders kitabi anlatisinin varligi iki kaynakta da acikca tarif ediliyor."
+    },
+    {
+      "iddia_id": "v2",
+      "cumle": "Siyaset bilimcilerin bir bölümü 'nı modern uluslararası sistemin başlangıcı sayar ve Vestfalya egemenliği deyişi, bu sistemin temelindeki hukuk ilkelerinin kısaltması olarak bugün de kullanılır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wikipedia: beginning of the modern international system; shorthand for the basic legal principles."
+    },
+    {
+      "iddia_id": "v3",
+      "cumle": "Anlatının hammaddesi gerçek bir felakettir: barışın bitirdiği Otuz Yıl Savaşları, Almanya'yı kırıp geçiren ve nüfusunun yüzde 30'unu öldürdüğü aktarılan bir din savaşıydı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yuzde 30 kaybi tartismali bir tahmindir; cumle aktarim kipinde tutuldu."
+    },
+    {
+      "iddia_id": "v4",
+      "cumle": "Kuruluş anlatısı bu felaketin üzerine kurulur: savaşın bitişi, savaşı doğuran müdahale düzeninin de bitişi sayılır ve barışın imzacıları, geriye dönük olarak, egemen devletler sisteminin kurucuları ilan edilir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Anlatinin mantiginin ozeti; iki kaynagin anlatimindan turetildi."
+    },
+    {
+      "iddia_id": "v5",
+      "cumle": "Anlatının derli toplu yirminci yüzyıl ifadesi olarak Leo Gross'un American Journal of International Law dergisinde Ocak 1948'de, antlaşmanın üç yüzüncü yılında çıkan The Peace of Westphalia makalesi gösterilir; deyişin geçerliliği ise yüzyılın ortasından bu yana çeşitli açılardan sorgulanmaktadır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Gross 1948 kunyesi Wikipedia kaynakcasinda tam kunyeyle var; uc yuzuncu yil aritmetik."
+    },
+    {
+      "iddia_id": "v6",
+      "cumle": "Stanford Felsefe Ansiklopedisi'nin egemenlik maddesini yazan Daniel Philpott, yerleşik okumayı 2001 tarihli kitabıyla savunan adlar arasında anılır ve maddenin kendi anlatısı da bu okumayı taşır: devlet, 1648'den bu yana dış egemenliğin başlıca taşıyıcısıdır ve bu tarihten sonra başka devletlerin yönetim yetkilerine karışmak gayrimeşru hâle gelmiştir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Madde imzasi Daniel Philpott; argued for the orthodoxy ve 1648 sonrasi karismanin gayrimesrulugu metinde."
+    },
+    {
+      "iddia_id": "v7",
+      "cumle": "Maddeye göre zemin 1555'te hazırlanmıştı: Augsburg Barışı'nın cuius regio, eius religio formülü Alman prenslerine kendi topraklarında kendi mezheplerini uygulama hakkı tanıdı, ama düzen oturmadı ve mezhep savaşları 1648'e kadar sürdü.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP: cuius regio, eius religio ve Augsburg istikrarsizligi."
+    },
+    {
+      "iddia_id": "v8",
+      "cumle": "Aynı maddeye göre Vestfalya'nın getirdiği gerçek değişikliklerden biri din işlerine müdahalenin kapanışıdır: müdahale büsbütün bitmedi ama gözle görülür biçimde seyrekleşti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP: intervention did not come to an absolute end, became exceedingly rare."
+    },
+    {
+      "iddia_id": "v9",
+      "cumle": "Savunmanın içinde duran bir kabul, tartışmanın kapısını açar: aynı madde, antlaşma metinlerinin hiçbir yerinde egemen devletler sisteminin ya da yönetimin meşru birimi olarak devletin öngörülmediğini de yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP: Nowhere in the settlement s treaties is a sovereign states system prescribed."
+    },
+    {
+      "iddia_id": "v10",
+      "cumle": "İmparator ile Fransa kralı arasında imzalanan Münster metninin İngilizce çevirisi Avalon Projesi'nde tam olarak durur ve tartışmanın sınanabilir bölümü buradan başlar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Avalon sayfasi tam metni tasiyor; fetch ile dogrulandi."
+    },
+    {
+      "iddia_id": "v11",
+      "cumle": "Altmış dördüncü madde, imparatorluk seçmenlerini, prenslerini ve zümrelerini eski haklarında, ayrıcalıklarında ve ülkesel yetkinin serbest kullanımında teyit eder.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Madde LXIV metni birebir."
+    },
+    {
+      "iddia_id": "v12",
+      "cumle": "Altmış beşinci madde yasa yapımını, savaş ilanını, vergiyi ve asker toplamayı imparatorluk meclisinin ortak onayına bağlar; zümrelere \"kendi korunmaları ve güvenlikleri için yabancılarla ittifak yapma\" hakkı tanınır, ama aynı cümle bu ittifakların imparatora ve imparatorluğa karşı olamayacağı şartını koyar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Madde LXV; alinti ceviri, sart ayni cumlede."
+    },
+    {
+      "iddia_id": "v13",
+      "cumle": "Eşit egemen devletlerden oluşan bir düzen yerine bu maddelerde görünen şey, üyeleri dışarıyla antlaşma yapabilen ama imparatorluk hukukuna bağlı kalan, onarılmış bir imparatorluk anayasasıdır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Maddelerden cikan yorum; metin dogrudan boyle bir niteleme yapmaz."
+    },
+    {
+      "iddia_id": "v14",
+      "cumle": "Çeviride egemenlik ailesinden sözcükler dokuz yerde geçer; ikisi kişi unvanında ve imparatorluk yüksek mahkemelerinin adında, beşi Metz, Toul ve Verdun piskoposlukları, Pignerol ve Alsas gibi Fransa'ya devredilen yerler üzerindeki mülk, yargı ve devir haklarını sayan maddelerde durur; kalan ikisi de Savoya dükünün kimi toprakları üzerindeki hakkı ile hakları iade edilen yerlerde beylere saklı tutulan haklar gibi yine mülk ve yargı bağlamlarındadır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem sayimi (fetch): Sovereign* 9 kez — unvan 1 (Sovereign Count of Neuschaftel), mahkeme 1 (Sovereign Courts), Fransa devri 5 (LXXI Metz/Toul/Verdun, LXXIII Pignerol, LXXVI Alsas, LXXXVIII Avusturya mirasi, XCII Sovereign Dominion), Savoya topraklari 1 (CI civari), beylere sakli haklar 1 (CXVII civari). Onceki 'geri kalani Fransa'ya devredilen yerler' ifadesi 2 gecisi yanlis kapsiyordu; cumle duzeltildi."
+    },
+    {
+      "iddia_id": "v15",
+      "cumle": "Devletler arası bir ilke olarak egemenlik, karışmama ya da devletlerin eşitliği dili bu metinde hiç görünmez.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yokluk iddiasi bu ceviri metniyle sinirli kuruldu; arama fetch uzerinde yinelenebilir."
+    },
+    {
+      "iddia_id": "v16",
+      "cumle": "Karışmamanın bulunmadığı yerde ters yönde hüküm bile vardır: yüz yirmi üçüncü ve yüz yirmi dördüncü maddeler, barışın herhangi bir hükmü çiğnenirse bütün imzacıları, dostane çözüm ve yargı yolunun üç yıl sonuç vermemesi hâlinde mağdur tarafa güçle katılmakla yükümlü kılar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Maddeler CXXIII-CXXIV birebir."
+    },
+    {
+      "iddia_id": "v17",
+      "cumle": "Hall Gardner'ın kitabını değerlendiren bir yazının aktarımına göre Vestfalya, karışmamanın katı biçimde kutsanması olmak şöyle dursun, Fransa ile İsveç'e Alman Protestan prenslerinin işlerine karışma hakkı vererek ortak egemenliği meşrulaştırmıştır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Shidore nin Gardner degerlendirmesi Wikipedia notunda; aktarimin aktarimi oldugu cumlede acik."
+    },
+    {
+      "iddia_id": "v18",
+      "cumle": "Barış iki ayrı belgeden oluşur; imparatorun Fransa ile Münster'de, İsveç ile Osnabrück'te imzaladığı antlaşmalar birbirine gönderme yapar ve mezhep hükümleri iki metinde paralel ilerler.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "IPM madde XXIX Isvec antlasmasina gonderme yapar; iki metin de fetch edildi."
+    },
+    {
+      "iddia_id": "v19",
+      "cumle": "Münster metninin yirmi sekizinci maddesi bunun örneğidir: Augsburg İtikadı'na bağlı olanlar, Oppenheim halkı başta olmak üzere, kiliselerine ve kilise mallarına 1624 yılındaki durumlarıyla yeniden kavuşacak, talep edenler dinlerini açık kiliselerde ve evlerinde serbestçe yaşayabilecektir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Madde XXVIII birebir: Oppenheim, 1624, Augsburg Itikadi."
+    },
+    {
+      "iddia_id": "v20",
+      "cumle": "İmparator ile İsveç arasındaki Osnabrück metni, mezhep düzenini ayrıntısıyla kuran beşinci maddesiyle tartışmanın öbür yarısını taşır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "IPO icindekiler: Artikel V mezhep duzeni."
+    },
+    {
+      "iddia_id": "v21",
+      "cumle": "Madde, dinsel mülkiyet ve ibadet düzeni için ölçü yılı olarak 1 Ocak 1624'ü koyar: iki mezhebin seçmenleri, prensleri ve zümreleri o günkü duruma eksiksiz geri döndürülecek, aradaki değişiklikler hükümsüz sayılacaktır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "IPO: 1. Januar 1624 olcu tarihi ve eksiksiz iade."
+    },
+    {
+      "iddia_id": "v22",
+      "cumle": "Zümrelerin ülkesel üstünlüğe bağlı reform hakkı metinde anılır; ama hükümdarından farklı mezhepten olan uyruklara Din Barışı'ndan beri tanınan göç hakkı, beneficium emigrandi, hatırlatılır ve hükümdarından farklı mezhebi benimseyenlerin evlerinde tam vicdan özgürlüğü içinde, soruşturmaya ve engellemeye uğramadan ibadet edebileceği yazılır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ius reformandi, beneficium emigrandi ve conscientia libera pasajlari fetch icinde."
+    },
+    {
+      "iddia_id": "v23",
+      "cumle": "Bu maddelerle 1555'in formülü taçlandırılmış değil daraltılmış görünür: hükümdarın din belirleme yetkisi bir ölçü yılına dondurulur, uyruk hakları antlaşmayla güvenceye bağlanır ve tartışmalı durumlar için karar, imparatorluk kurumlarının usulüne bırakılır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Daraltilma yorumu madde iceriginden turetildi; metin bu nitelemeyi yapmaz."
+    },
+    {
+      "iddia_id": "v24",
+      "cumle": "İç işler burada karışılmayan bir alan değil, imzacıların ortak metnine bağlanmış bir alandır; yerleşik anlatının 1648'e yerleştirdiği karışmama ilkesiyle bu düzenleme biçimi arasındaki mesafe, revizyonist okumanın başlıca dayanaklarındandır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Revizyonist okumanin dayanagi oldugu tespiti yorum."
+    },
+    {
+      "iddia_id": "v25",
+      "cumle": "Andreas Osiander'ın International Organization dergisinde 2001'de çıkan makalesi, itirazın adını koyan metindir: Sovereignty, International Relations, and the Westphalian Myth.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Semantic Scholar kaydi: baslik, dergi, yil, yazar."
+    },
+    {
+      "iddia_id": "v26",
+      "cumle": "Osiander bu itiraza yeni gelmiş de değildi; Avrupa devletler sistemi üzerine 1994 tarihli bir kitabı, mit eleştirisi yazınının dökümünde 2001 makalesiyle yan yana anılır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP dokumunde Osiander 1994 ve 2001 yan yana; kaynakcada 1994 kitabinin adi var."
+    },
+    {
+      "iddia_id": "v27",
+      "cumle": "Makalenin girişindeki yargı ise alıntılanagelmiştir: Osiander'a göre antlaşmalar ne Fransa'nın ne İsveç'in ne de bir başkasının egemenliğini teyit eder; \"hele bir ilke olarak egemenlik hakkında hiçbir şey içermezler\".",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Osiander alintisi Wikipedia da s. 251 e atifla verilmis; ceviri alinti 15 kelime altinda."
+    },
+    {
+      "iddia_id": "v28",
+      "cumle": "Makalenin kendisi kapalı erişimde durur; ama savın metne bakan yarısı, yukarıdaki madde okumalarıyla ve sözcük aramasıyla herkesçe yinelenebilir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kayitta openAccessPdf status CLOSED; yinelenebilirlik ifadesi yontem notu."
+    },
+    {
+      "iddia_id": "v29",
+      "cumle": "Stanford maddesi, Vestfalya mitinin sökülüp atılması gerektiğini savunan bir yazın sayar: Krasner'ın 1999 tarihli kitabı, Osiander'ın 1994 ve 2001 tarihli çalışmaları, Teschke'nin kitabı, Nexon'ın 2009 ve Carvalho, Leira ve Hobson'ın 2011 tarihli incelemeleri bu dökümdedir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP: myth ought to be deconstructed and discarded listesi birebir."
+    },
+    {
+      "iddia_id": "v30",
+      "cumle": "Ortak vurguları maddede şöyle özetlenir: devletliğin önemli öğeleri Vestfalya'dan çok önce vardı; egemenliği yukarıdan sınırlayan hiyerarşi öğeleri ondan çok sonra da sürdü.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP ozet cumlesi birebir aktarildi."
+    },
+    {
+      "iddia_id": "v31",
+      "cumle": "Mitin kendi kronolojisi de aynı yazında durur: karışmama ilkesi on sekizinci yüzyılda geliştirildi, sistemin doruğu on dokuzuncu ve yirminci yüzyıllara yerleştirilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wikipedia: non-interference 18. yy da gelisti, sistem 19-20. yy da dorukta."
+    },
+    {
+      "iddia_id": "v32",
+      "cumle": "Antlaşmanın imzasından anlatının olgunlaşmasına uzanan bu üç yüzyıl, mitin tarihinin antlaşmanın tarihinden ayrı yazılması gerektiği savının gövdesidir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Uc yuzyil vurgusu iki kaynagin kronolojisinden turetilen yorum."
+    },
+    {
+      "iddia_id": "v33",
+      "cumle": "2003'te Verso'dan çıkan The Myth of 1648 kitabının alt başlığı derdini duyurur: sınıf, jeopolitik ve modern uluslararası ilişkilerin kuruluşu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katalog kaydi 2003/Verso/alt basligi dogrudan tasir; ancak odunc kisitli katalog kunyesine yaslanan iddia hakem kurali geregi 'dogrudan' sayilmadi, kismi'ye dusuruldu."
+    },
+    {
+      "iddia_id": "v34",
+      "cumle": "Kitabın katalog kaydında konu başlıkları arasında Avrupa tarihinin 1648-1789 aralığı sayılır; Teschke bu aralığı modernliğin başlangıcı olarak değil, hanedan devletlerin ve eski mülkiyet ilişkilerinin sürdüğü bir ara dönem olarak okumayı önerir ve modern devletler arası ilişkilerin kuruluşunu daha geç bir toplumsal dönüşüme bağlar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Konu basliklari katalogda dogrudan; tez ozeti baslik ve SEP dokumune yaslanir, kitap tam metnine erisim yok."
+    },
+    {
+      "iddia_id": "v35",
+      "cumle": "Bu okumada 1648'in yanlışlığı yalnızca bir tarihleme hatası değildir; savaş ve antlaşma tarihinden okunamayacak bir dönüşümün, mülkiyet ilişkilerinin tarihine bakılarak yeniden kurulması önerilir ve dosyasının izlediği geç kuruluş çizgisi bu öneriyle kesişir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tezin genislemesi; ayni sinirlilik."
+    },
+    {
+      "iddia_id": "v36",
+      "cumle": "Stephen Krasner'ın 1999'da Princeton'dan çıkan kitabı Sovereignty: Organized Hypocrisy, tartışmaya iki kutbun arasında duran bir çerçeve ekler.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katalog kaydi 1999/Princeton/basligi dogrudan tasir; odunc kisitli katalog kunyesine yaslanan iddia hakem kurali geregi 'dogrudan' sayilmadi, kismi'ye dusuruldu."
+    },
+    {
+      "iddia_id": "v37",
+      "cumle": "Krasner mit eleştirisi yazınının içinde anılır; ama vardığı yer düz bir çürütme değildir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "SEP Krasner i dokumde sayar; ara konum nitelemesi yorum."
+    },
+    {
+      "iddia_id": "v38",
+      "cumle": "Başlıktaki teşhise göre egemenlik örgütlü bir ikiyüzlülüktür: karışmama ve ülkesel egemenlik kuralları güçlü devletlerce tekrar tekrar çiğnendi, yine de devletlerin birbirine nasıl davranacağını tarif eden bir senaryo olarak ayakta kaldı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tez ozeti kitabin basligina ve SEP dokumune yaslanir; tam metne erisim yok, cumle basliktaki teshise gore kipinde."
+    },
+    {
+      "iddia_id": "v39",
+      "cumle": "İhlallerin sürekliliği, 1648'de kurulup işleyen bir düzen anlatısını zayıflatır; normun sürekliliği ise metindeki yokluğun kendi başına sonuç vermediğini hatırlatır, çünkü bir ilkenin antlaşmada yazılı olmaması, sonradan o antlaşmaya yaslanarak kurulan bir normun gerçekliğini ortadan kaldırmaz.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cercevenin tartismadaki islevi uzerine cikarim."
+    },
+    {
+      "iddia_id": "v40",
+      "cumle": "Bedeli de açıktır: normun ne zaman ve nasıl kurulduğu sorusu bu çerçevede cevapsız kalır ve tarihleme yükü yeniden tarih yazımına döner.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cercevenin sinirina iliskin cikarim."
+    },
+    {
+      "iddia_id": "v41",
+      "cumle": "1640 sonunda İngiltere'den ayrıldı, iç savaş yıllarını Paris'te sürgünde geçirdi ve 1651'e kadar dönmedi; mutlak egemenlik savunusunun ona ceza korkusu yaşatmış olabileceği kaydedilir ve Leviathan sürgünün sonunda, 1651'de yayımlandı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP Hobbes: 1640 ayrilis, Paris surgunu, 1651 donus, Leviathan 1651, ceza korkusu pasaji."
+    },
+    {
+      "iddia_id": "v42",
+      "cumle": "Barışın imzalandığı yıllarda egemenlik, devletler arasında yerleşmiş bir düzenin adından çok, iç savaşa karşı savunulan ve savunucusunu sürgünde tutabilen bir iç düzen kuramıydı.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hobbes verisinden turetilen baglamsal yorum."
+    },
+    {
+      "iddia_id": "v43",
+      "cumle": "Antlaşmanın tarihinde 1648, imparatorluk anayasasını onaran, mezhep düzenini 1624 ölçüsüne bağlayan ve din gerekçeli müdahaleyi gözle görülür biçimde seyrekleştiren bir barıştır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1624 olcusu IPO da, seyreklesme SEP te dogrudan."
+    },
+    {
+      "iddia_id": "v44",
+      "cumle": "Mitin tarihinde ise 1648, karışmama ve eşit egemenlik ilkelerinin doğum yeri olarak sonradan seçilmiş bir çapadır; anlatının klasik ifadesi 1948'e, adının konması 2001'e tarihlenir.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "1948 ve 2001 tarihleri kunyelerle dogrudan; capa nitelemesi yorum."
+    },
+    {
+      "iddia_id": "v45",
+      "cumle": "Vestfalya egemenliği deyişi bugün de modern devlet sisteminin temel hukuk ilkelerinin kısaltması olarak iş görür ve sisteme yönelik güncel itirazlar, insani müdahale savunucularının eleştirileri dahil, kendilerini yine bu deyiş üzerinden anlatır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wikipedia: continues to be used as a shorthand; challenges from advocates of humanitarian intervention."
+    },
+    {
+      "iddia_id": "v46",
+      "cumle": "Adı yanlış konmuş bir düzenin adı, düzenin kendisi kadar kalıcı olabilir ve tartışmanın yirmi birinci yüzyılda da sürmesinin bir nedeni budur.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kapanis gozlemi; kanit yuku tasimayan yorum."
+    },
+    {
+      "iddia_id": "v47",
+      "cumle": "Karışmama normunun gerçekte ne zaman kristalleştiği belirsizdir; on sekizinci yüzyıl gelişimi ile yirminci yüzyıl kodifikasyonu arasında yazın net bir tarih vermez.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki kaynagin kronolojileri arasindaki bosluktan turetildi."
+    },
+    {
+      "iddia_id": "v48",
+      "cumle": "Revizyonist konum kendi yükünü taşır: din savaşlarının Avrupa'nın orta sahnesinden çekilmesi gibi gerçek değişiklikler, mitin çürütülmesiyle açıklanmış olmaz.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "SEP in gercek degisiklik saydigi seyreklesmeyle revizyonist yukun tespiti."
+    },
+    {
+      "iddia_id": "v49",
+      "cumle": "Krasner'ın çerçevesi ise normun başlangıcını tarihlemeden bırakır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cercevenin acik biraktigi soru; cikarim."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 31,
+    "kismi": 14,
+    "desteksiz": 0,
+    "olculemez": 4
+  },
+  "not_orkestrator": "2026-08-29: hakem finalize sonrasi mekanik kapi onarimi (kilitli terim / dipnot / baslik atif dili); icerik iddialari degismedi, hash guncellendi."
+}

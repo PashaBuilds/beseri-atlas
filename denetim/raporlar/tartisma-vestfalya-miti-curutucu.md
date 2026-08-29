@@ -1,18 +1,12 @@
 # Çürütücü raporu — tartisma-vestfalya-miti
-_2026-08-21T12:08:48.012Z_
+_2026-08-29T00:04:18.136Z_
 
-## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
+## Zayıf bulunmayan alanlar
 
-**Cümle:** "Üç ayrımın aynı anda geçerli olması,[^k1] tek bir tarihte hepsinin birden değiştiğini söylemeyi zorlaştırır; kavram [Egemenlik](/kavram/egemenlik/) dosyasında ele alınıyor."
+Programatik tarama, §10'da sayılan yedi zayıflık tipinde (tek kaynaklı
+nedensellik, atıfsız kesinlik dili, üstünlük iddiası, kapsam çarpıtması,
+anakronizm, yetersiz pozisyon, ince kanıt tabanı) itiraz adayı bulamadı.
 
-**Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
-
-**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
-
-## İtiraz 2 — [ciddiyet: dusuk] ustunluk-iddiasi
-
-**Cümle:** "Kavramın sonraki biçimi için tutulan kayıt, ilk bölümünü doğrudan karmaşıklık başlığına ayırır ve tarih bölümünde ulus-devlet öncesi diye ayrı bir alt başlık tutar.[^k2] O kavram ["
-
-**Sorun:** "ilk" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
-
-**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
+Bu, makalenin doğru olduğu anlamına gelmez; bu yedi kalıptan hiçbirinin
+tetiklenmediği anlamına gelir. Sayısal ve ad düzeyindeki doğrulama Geçiş 2,
+bağımsız yeniden türetme Geçiş 4 raporlarındadır.
