@@ -375,3 +375,40 @@ kayıtlı).
     derinleştirme turu açıldı. Bu, hattın sayı uğruna kaliteden ödün
     vermediğinin ölçülebilir kanıtı: dosyalar 200 kelimeden 1500'e çıkmış
     olmasına rağmen yayına alınmadı.
+
+## K. Düşünür katmanı: hattın kendi sınırını bulması
+
+56. **Hakemler kaynak hiyerarşisini düşünür katmanında da uyguladı ve
+    dördüne KOŞULLU verdi.** Foucault dosyasında düşünürün kendi cümlesi
+    yoktu (tek dokuz kelimelik alıntı, o da ansiklopediden aktarılmış),
+    55 iddianın 36'sı tek bir ansiklopedi maddesine dayanıyordu. Carr
+    dosyasında Carr'ın tek bir cümlesi yoktu; merkezî sav yayıncının
+    tanıtım metninden geliyordu.
+
+57. **Sınırın ölçülmesi kararı belirledi.** Her dosyada aynı sınır
+    yoktu ve bunu varsaymak yerine ölçtüm: Arendt için Kongre
+    Kütüphanesi evrakı 403, Internet Archive kopyaları 401,
+    marxists.org'da arşiv yok — kapalı. Carr için de kapalı. Ama
+    Foucault için marxists.org'da *Bilginin Arkeolojisi*'nin tam metni,
+    Montesquieu için Wikisource'ta İngilizce çeviri kitap kitap
+    duruyor — açık.
+
+58. **Karar K9 ve `kaynak_siniri` alanı.** Açık olan düzeltildi;
+    kapalı olan yayımlandı ama sınırını beyan ederek. Beyan makale
+    sayfasında okura gösteriliyor. Gerekçe: telif altındaki bir metne
+    ulaşılamaması meşru bir sınırdır, sessiz kalması değildir.
+
+59. **Montesquieu düzeltmesi, iyi bir kaynak çalışmasının nasıl
+    göründüğünü gösteriyor.** Althusser'in 1959 tarihli Montesquieu
+    kitabı hiçbir açık kanalda yoktu; ajan bunun yerine Althusser'in
+    Montesquieu'ye *değindiği* başka bir birincil metnini buldu (1962).
+    Asya-Avrupa karşılaştırması ansiklopedi özetinden Nugent
+    çevirisinin XVII. kitabına taşındı ve Montesquieu'nün kendi
+    çekincesi korundu: nedeni sunarken "daha önce belirtildiğini
+    anımsamadığım bir neden" diye kaydediyor.
+
+60. **Ve bir sınır dürüstçe beyan edildi:** SEP'in sömürgecilik
+    maddesinde "Montesquieu" adı hiç geçmiyor. Gövde bunu söylüyor —
+    Said'in tarifini Kanunların Ruhu'na bağlayan, maddenin kendisi
+    değil makalenin okuması. Bu cümle, atlasın en zor disiplinidir:
+    kurduğun bağın kaynağa mı sana mı ait olduğunu okura söylemek.

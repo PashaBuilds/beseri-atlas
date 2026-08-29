@@ -110,3 +110,38 @@ gezinme yüzüdür (kısmi benimseme okuru yanıltır), `birincil_tur` ise
 künye içinde gösterilen bir niteleyicidir (kısmi benimseme yanıltmaz,
 yalnız kesinliği düşürür). Bu yüzden bu maddenin önceliği K8'den
 düşüktür ama aynı geçişte ele alınmalıdır.
+
+## Faz 4 kuyruğu — hakemlerin işaret ettiği EKSİK makaleler
+
+Kör hakemler, bir dosyayı denetlerken atlasta olmayan ama olması gereken
+makaleleri de bildirdi. Bunlar rastgele kapsam büyütmesi değil, var olan
+dosyaların *yarım kalmasına neden olan* boşluklar — Faz 4 bunlardan
+başlamalı.
+
+**Mill dosyasının hakemi:**
+- `dusunur-bentham` — Mill dosyası "Bentham'dan kopuş"u merkezî sav
+  yapıyor ama Bentham'ın kendi konumu hiçbir yerde kurulu değil. Nitel
+  haz ayrımının anlamı Bentham dosyası olmadan yarım kalıyor.
+- `dusunur-harriet-taylor` — Mill, *Özgürlük Üzerine*'yi "adını taşıyan
+  başka hiçbir metinden daha doğrudan ve harfi harfine ortak ürünümüz"
+  diye veriyor. Taylor'ın kendi dosyası yoksa iddia havada kalıyor.
+- `dusunur-stephen` (James Fitzjames Stephen) — dosyanın en sert çağdaş
+  itirazı; *Liberty, Equality, Fraternity* kamu malı ve tam metni var.
+- `kavram-zarar-ilkesi` — kask/uyuşturucu/paternalizm tartışmaları tek
+  bir düşünür dosyasına sıkışmış durumda.
+- `kavram-faydacilik` — hem Mill hem Bentham hem sonraki tartışma için
+  ortak dayanak; `icerik/kavram` altında yok.
+- `olay-morant-bay-ayaklanmasi` — Mill'in Avam Kamarası dönemi Vali Eyre
+  davası üzerinden anlatılıyor ama olayın kendisi atlasta yok;
+  "sömürgeciliğe karşı Mill" savının tek somut dayanağı bu.
+
+**Foucault dosyasının hakemi:** hapishane tarihinin kronolojisine dair
+ampirik itirazları taşıyan bir tartışma dosyası yok.
+
+**Memlûk dosyasının hakemi:** Kara Ölüm'ün Memlûk askerî sınıfının
+yeniden üretimini bozması dosyanın en büyük boşluğu; Dols ya da Borsch
+künyeleriyle ayrı bir dosya gerekiyor.
+
+**Kural:** bu liste, "3000 makaleye çıkalım" türü bir sayı hedefinden
+farklıdır. Her madde, VAR OLAN bir dosyanın kaynaklı bir iddiasının
+dayanaksız kalmasına neden oluyor. Faz 4 önce bunları kapatır.
