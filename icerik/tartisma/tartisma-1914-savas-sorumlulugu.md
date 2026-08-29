@@ -356,7 +356,7 @@ verilmesini öneren telgrafını.[^k5] Telgraf derlemeye Rus basınının Ocak
 bastığına da bağlıdır.[^k5] Hans-Ulrich Wehler, Clark'ın Alman
 tarafındaki kaynakları özenle araştırdığını ama şaşırtıcı bir tek yanlılıkla
 elediğini yazdı ve kitabın Almanya'daki satış başarısını, okurların ulusal savaş
-suçu suçlamalarından kurtulma ihtiyacına bağladı.[^k1] Mombauer ise "sleepwalker"
+suçu suçlamalarından kurtulma ihtiyacına bağladı.[^k1] Mombauer ise *Uyurgezerler*
 çerçevesinin sorumluluğun görelileştirilmesine yol açtığını, Berlin ve Viyana'da
 diplomasi yerine savaşı seçen bilinçli kararları gölgelediğini savunur; birden
 çok hükümetin krize katkısını kabul etmekle birlikte esas itici gücün

@@ -21,6 +21,11 @@ export function telifDenetimi(makaleler) {
 
     for (const p of paragraflar(m.govde)) {
       if (/^#{1,6}\s/.test(p.metin.trim())) continue;
+      // Dipnot TANIM satirlari kaynakcadir, govde degil. Makale adlari tirnak
+      // icinde yazilir (dergi adi italik) ve bunlar alinti degildir. 2026-08-29:
+      // Braudel dosyasi bu yuzden "k1'den 6 alinti" hatasi veriyordu; altisi da
+      // kaynakcadaki makale basligiydi.
+      if (/^\[\^k\d+\]:/.test(p.metin.trim())) continue;
       for (const e of p.metin.matchAll(TIRNAK)) {
         const alinti = (e[1] || e[2] || e[3] || '').trim();
         const kelime = alinti.split(/\s+/).filter(Boolean).length;
@@ -29,8 +34,11 @@ export function telifDenetimi(makaleler) {
         }
         // Alintiyi takip eden ilk dipnot, alintinin kaynagidir.
         const bitis = (e.index || 0) + e[0].length;
-        const sonrasi = p.metin.slice(bitis, bitis + 40);
-        const k = /\[\^(k\d+)\]/.exec(sonrasi)?.[1] || /\[\^(k\d+)\]/.exec(p.metin)?.[1];
+        // Dipnot, destekledigi seyi TAKIP eder. Once alintinin hemen ardina,
+        // bulunamazsa paragrafin KALANINA bakilir — paragrafin ilk dipnotuna
+        // dusmek, alintiyi kendinden onceki bir kaynaga yazmak olurdu.
+        const k = /\[\^(k\d+)\]/.exec(p.metin.slice(bitis, bitis + 40))?.[1]
+          || /\[\^(k\d+)\]/.exec(p.metin.slice(bitis))?.[1];
         if (k) kaynakSayaci.set(k, (kaynakSayaci.get(k) || 0) + 1);
       }
     }
