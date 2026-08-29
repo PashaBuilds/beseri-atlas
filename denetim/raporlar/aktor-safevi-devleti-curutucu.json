@@ -1,6 +1,57 @@
 {
   "id": "aktor-safevi-devleti",
   "gecis": 3,
-  "zaman": "2026-08-21T06:39:37.299Z",
-  "itirazlar": []
+  "zaman": "2026-08-29T19:12:18.441Z",
+  "govde_hash": "af43f5ac32d3",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Safevîleri çağdaşlarından ayıran şey kazandıkları savaşlar değil, iktidara gelme biçimleridir: bir tarikat kendisini devlete çevirdi. Kathryn Babayan'ın makale künyesindeki özete g",
+      "sorun": "Makale islam-dunyasi kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "yuksek",
+      "tip": "kesinlik-dili",
+      "cumle": "Dönüşümün ikinci kolu bilgiydi. Şiî ulemânın azlığı yüzünden Lübnan ve Bahreyn'den âlimler İran'a davet edildi; madde bunun ilk Şiî metinlerinin Arapça kaleme alınmasına ya da Arap",
+      "sorun": "Kesinlik ifadesi \"tamamen\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dönüşümün ikinci kolu bilgiydi. Şiî ulemânın azlığı yüzünden Lübnan ve Bahreyn'den âlimler İran'a davet edildi; madde bunun ilk Şiî metinlerinin Arapça kaleme alınmasına ya da Arap",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Sonuç tek yönlü okunmamalı. Maddeye göre yeni sistemin dışında kalan kızılbaş Türkmenler, hem ateşli silah kullanmaktan hoşlanmamaları hem de siyasal ve ekonomik güçlerini kaybetme",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "yuksek",
+      "tip": "anakronizm",
+      "cumle": "Toprak şahın malı sayılırdı. Selçuklu iktâ geleneğinin devamı olarak idarecilere ve askerî sınıfa tuyul adıyla araziler tahsis edilirdi; askerî sınıftan olup tuyul alan kişi sipahi",
+      "sorun": "\"bürokrasi\" kavramı yaklaşık 1750'den itibaren kullanılıyor; makale 1736'te bitiyor.",
+      "oneri": "Kavramı dönemin kendi diliyle değiştir ya da geriye dönük okuma olduğunu açıkça belirt."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Olayın üçüncü anlatımı bir yabancınındır. Fransız kuyumcu Jean-Baptiste Tavernier, Erivan ile Tebriz arasındaki bütün ülkenin Osmanlı orduları geçim bulamasın diye I. Abbas tarafın",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Çöküşün nedeni de tek bir kalıba sıkıştırılamaz. Madde, çöküşün Şah Safî döneminde başlayıp Şah Süleyman zamanında hızlandığını söyler ve Sultan Hüseyin'in eğlenceye ayırdığı zaman",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
 }

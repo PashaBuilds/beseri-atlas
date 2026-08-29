@@ -1,9 +1,9 @@
 {
   "id": "aktor-varsova-pakti",
-  "govde_hash": "302b318305ae",
-  "commit": "b8530ef",
+  "govde_hash": "59eecf3604b2",
+  "commit": "f403bfb",
   "zaman": "2026-08-29",
-  "hakem": "TASLAK-yazar",
+  "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
     {
       "iddia_id": "i01",
@@ -21,7 +21,7 @@
     },
     {
       "iddia_id": "i02",
-      "cumle": "Örgütün resmî adı Varşova Antlaşması Örgütü'ydü; \"Varşova Paktı\" sonradan yerleşen kısa addır.",
+      "cumle": "Örgütün adı Varşova Antlaşması Örgütü'ydü; karşı bloğun kaydı \"Varşova Paktı\"nı bunun öbür adı olarak verir.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -31,7 +31,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Kaynak orgutun adini Warsaw Treaty Organization, kisa adini Warsaw Pact diye verir."
+      "inceleme": "Kaynak orgutun adini Warsaw Treaty Organization, kisa adini 'also known as Warsaw Pact' diye verir; 'resmi ad' ve 'sonradan yerlesen' nitelemeleri kaynakta yok, kor hakem cumleyi kaynagin soyledigine indirdi."
     },
     {
       "iddia_id": "i03",
@@ -67,7 +67,7 @@
     },
     {
       "iddia_id": "i05",
-      "cumle": "Aynı kayıt 1955'teki Sovyet hesabını da ikiye ayırır: yeniden silahlanan Batı Almanya'yı çevrelemek ve ile eşit taraf olarak pazarlık edebilmek kadar, Doğu Avrupa başkentlerini Moskova'ya daha sıkı bağlamak.",
+      "cumle": "Aynı kayıt 1955'teki Sovyet hesabını da ikiye ayırır: yeniden silahlanan Batı Almanya'yı çevrelemek ve NATO ile eşit taraf olarak pazarlık edebilmek kadar, Doğu Avrupa başkentlerini Moskova'ya daha sıkı bağlamak.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -109,7 +109,7 @@
     },
     {
       "iddia_id": "i08",
-      "cumle": "6. madde tek ortak siyasi organı, Siyasi Danışma Komitesi'ni oluşturur; her taraf burada bir hükümet üyesiyle ya da özel olarak atanmış bir temsilciyle bulunur.",
+      "cumle": "6. madde ortak siyasi organı, Siyasi Danışma Komitesi'ni oluşturur; her taraf burada bir hükümet üyesiyle ya da özel olarak atanmış bir temsilciyle bulunur ve komite gerekli gördüğü yardımcı organları kurabilir.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -119,11 +119,11 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "6. maddenin metni; 'tek ortak siyasi organ' nitelemesi kaynakta yok, kor hakem kaldirip maddenin yardimci organ hukmunu geri koydu."
     },
     {
       "iddia_id": "i09",
-      "cumle": "8. madde ise tarafların birbirlerinin bağımsızlığına, egemenliğine ve iç işlerine karışmama ilkesine bağlı kalacağını yazar.",
+      "cumle": "8. madde ise tarafların iktisadi ve kültürel ilişkilerini geliştirirken birbirlerinin bağımsızlığına, egemenliğine ve iç işlerine karışmama ilkesine bağlı kalacağını yazar; aynı ilke antlaşmanın girişinde de geçer.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -133,7 +133,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "8. madde bagimsizlik, egemenlik ve ic islere karismama ilkelerini birlikte sayar."
+      "inceleme": "8. maddenin karismama taahhudu metinde iktisadi ve kulturel iliskileri gelistirme baglaminda gecer; kor hakem bu baglami geri koydu. Ayni ilke antlasmanin girisinde de yer alir."
     },
     {
       "iddia_id": "i10",
@@ -165,7 +165,7 @@
     },
     {
       "iddia_id": "i12",
-      "cumle": "Avalon derlemesinin yayımladığı çeviri Sovyet dergisi New Times'ın 21 Mayıs 1955 tarihli sayısından alınmıştır ve derlemenin kendi notu, Paktın Birleşmiş Milletler Sekretaryası'na tescil edildiğini ama resmî İngilizce metnin Antlaşma Serisi'nde henüz basılmadığını kaydeder.",
+      "cumle": "Avalon'un yayımladığı metin, ABD Dışişleri Bakanlığı'nın 1957'de bastığı American Foreign Policy 1950-1955 belge derlemesinden alınmıştır; o derlemenin notu çevirinin Sovyet dergisi New Times'ın 21 Mayıs 1955 tarihli sayısından geldiğini, Paktın Birleşmiş Milletler Sekretaryası'na tescil edildiğini ama resmî İngilizce metnin Antlaşma Serisi'nde henüz basılmadığını kaydeder.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -175,11 +175,11 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Avalon'un kendi dipnotu: New Times No. 21, 21 Mayis 1955 ve BM Antlasma Serisi kaydi."
+      "inceleme": "Avalon sayfasi metnin kaynagini ABD Disisleri Bakanligi'nin 1957 tarihli American Foreign Policy 1950-1955 cildi olarak verir; New Times ve BM Antlasma Serisi notu o cildin notudur. Aktarim halkasi iki adimlidir."
     },
     {
       "iddia_id": "i13",
-      "cumle": "Yani Avalon'da duran İngilizce metin, tarafın kendi yayın organından aktarılmış bir çeviridir.",
+      "cumle": "Aktarım halkası iki adımlıdır: taraf devletin kendi haftalık dergisinden karşı tarafın belge derlemesine, oradan da bugün okuduğumuz çevrimiçi metne.",
       "onem": "destek",
       "tur": "yorum",
       "kaynaklar": [
@@ -189,21 +189,21 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Kaynagin dipnotundan cikarilan degerlendirme; kaynak metnin taraf yayinindan geldigini soyler, 'ceviridir' nitelemesi bu bilgiden turetilmistir."
+      "inceleme": "Aktarim halkasinin adlandirilmasi hakem sentezidir; halkanin iki adimi da k1 sayfasinda yazilidir."
     },
     {
       "iddia_id": "i14",
-      "cumle": "Rusya Bilimler Akademisi Dünya Tarihi Enstitüsü'nden Nikita Pivovarov'un Sovyetler Birliği Komünist Partisi Merkez Komitesi belgelerine dayanan incelemesi askerî bütünleşmeyi üç evreye ayırır: 1945-1950'de ikili askerî bağların kurulması, 1951-1953'te ilk devletlerarası yapı olan Koordinasyon Komitesi ve 1953-1955'te askerî üretimin kısmen dönüştürülmesiyle uzmanlaşmanın güçlenmesi.",
+      "cumle": "Rusya Bilimler Akademisi Dünya Tarihi Enstitüsü'nden Nikita Pivovarov'un Sovyetler Birliği Komünist Partisi Merkez Komitesi belgelerine dayanan incelemesi askerî bütünleşmeyi üç evreye ayırır: 1945-1950'de ikili askerî bağların kurulması, 1951-1953'te sosyalist ülkelerin silahlı kuvvetlerini pekiştirmek üzere kurulan ilk devletlerarası yapı olan Koordinasyon Komitesi ve 1953-1955'te askerî üretimin kısmen dönüştürülmesiyle uzmanlaşmanın güçlenmesi.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
         {
           "anahtar": "k8",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Pivovarov'un uc evreli donemlendirmesi."
+      "inceleme": "Pivovarov'un uc evreli donemlendirmesi. Havuz kurali (api.crossref.org / api.semanticscholar.org): ustveri ucu icerik iddiasini en cok OZET duzeyinde tasir; kor hakem destegi 'dogrudan'dan 'kismi'ye indirdi. Kaynak Koordinasyon Komitesi'ni 'silahli kuvvetlerin pekistirilmesi icin kurulan ilk devletlerarasi yapi' diye niteler; kayitsiz 'ilk' iddiasi olmasin diye nitelemenin tamami geri konuldu."
     },
     {
       "iddia_id": "i15",
@@ -213,11 +213,11 @@
       "kaynaklar": [
         {
           "anahtar": "k8",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Uretici ve tuketici ulke listeleri kaynaktan birebir alindi; sekiz ulkenin tamami sayildi."
+      "inceleme": "Uretici ve tuketici ulke listeleri kaynaktan birebir alindi; sekiz ulkenin tamami sayildi. Havuz kurali (api.crossref.org / api.semanticscholar.org): ustveri ucu icerik iddiasini en cok OZET duzeyinde tasir; kor hakem destegi 'dogrudan'dan 'kismi'ye indirdi."
     },
     {
       "iddia_id": "i16",
@@ -227,11 +227,11 @@
       "kaynaklar": [
         {
           "anahtar": "k8",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": " Havuz kurali (api.crossref.org / api.semanticscholar.org): ustveri ucu icerik iddiasini en cok OZET duzeyinde tasir; kor hakem destegi 'dogrudan'dan 'kismi'ye indirdi."
     },
     {
       "iddia_id": "i17",
@@ -241,15 +241,15 @@
       "kaynaklar": [
         {
           "anahtar": "k8",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "orta",
-      "inceleme": "Kaynagin kendi cekincesi metne tasindi; yazar Rusya Bilimler Akademisi'ndendir ve bu degerlendirme kurumsal konumuyla birlikte okunmali."
+      "inceleme": "Kaynagin kendi cekincesi metne tasindi; yazar Rusya Bilimler Akademisi'ndendir ve bu degerlendirme kurumsal konumuyla birlikte okunmali. Havuz kurali (api.crossref.org / api.semanticscholar.org): ustveri ucu icerik iddiasini en cok OZET duzeyinde tasir; kor hakem destegi 'dogrudan'dan 'kismi'ye indirdi."
     },
     {
       "iddia_id": "i18",
-      "cumle": "Paralel Tarih Projesi'nin sekiz kurucu üyenin tamamının arşivlerinden derlediği 193 belge, ittifakın içeriden nasıl işlediğini gösteren ilk toplu kayıttır.",
+      "cumle": "Paralel Tarih Projesi'nin sekiz kurucu üyenin tamamının arşivlerinden derlediği 193 belge, derlemeyi duyuran arşivin kendi ifadesiyle, ittifaka içeriden bakan türünün ilk örneğidir.",
       "onem": "destek",
       "tur": "sayi",
       "kaynaklar": [
@@ -259,7 +259,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "193 belge, sekiz kurucu uyenin tamamindan; sayi derlemenin tanitim sayfasindan."
+      "inceleme": "'Turunun ilki' nitelemesi arsivin kendi basin duyurusundan gelir; kor hakem atif cercevesini metne yazdi."
     },
     {
       "iddia_id": "i19",
@@ -445,11 +445,11 @@
       "kaynaklar": [
         {
           "anahtar": "k5",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Veselý'nin ana savi; destek Crossref abstract'iyla sinirlidir."
+      "inceleme": "Veselý'nin ana savi; destek Crossref abstract'iyla sinirlidir. Havuz kurali (api.crossref.org / api.semanticscholar.org): ustveri ucu icerik iddiasini en cok OZET duzeyinde tasir; kor hakem destegi 'dogrudan'dan 'kismi'ye indirdi."
     },
     {
       "iddia_id": "i32",
@@ -459,11 +459,11 @@
       "kaynaklar": [
         {
           "anahtar": "k5",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": " Havuz kurali (api.crossref.org / api.semanticscholar.org): ustveri ucu icerik iddiasini en cok OZET duzeyinde tasir; kor hakem destegi 'dogrudan'dan 'kismi'ye indirdi."
     },
     {
       "iddia_id": "i33",
@@ -473,11 +473,11 @@
       "kaynaklar": [
         {
           "anahtar": "k5",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Kaynagin kendi sonucu."
+      "inceleme": "Kaynagin kendi sonucu. Havuz kurali (api.crossref.org / api.semanticscholar.org): ustveri ucu icerik iddiasini en cok OZET duzeyinde tasir; kor hakem destegi 'dogrudan'dan 'kismi'ye indirdi."
     },
     {
       "iddia_id": "i34",
@@ -501,11 +501,11 @@
       "kaynaklar": [
         {
           "anahtar": "k6",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Romaniecki doktrinin kaynagini Gromiko'nun 27 Haziran 1968 beyanina baglar."
+      "inceleme": "Romaniecki doktrinin kaynagini Gromiko'nun 27 Haziran 1968 beyanina baglar. Havuz kurali (api.crossref.org / api.semanticscholar.org): ustveri ucu icerik iddiasini en cok OZET duzeyinde tasir; kor hakem destegi 'dogrudan'dan 'kismi'ye indirdi."
     },
     {
       "iddia_id": "i36",
@@ -515,11 +515,11 @@
       "kaynaklar": [
         {
           "anahtar": "k6",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Pravda makalesinin tarihi 26 Eylul 1968; mudahale Agustos 1968'dir."
+      "inceleme": "Pravda makalesinin tarihi 26 Eylul 1968; mudahale Agustos 1968'dir. Havuz kurali (api.crossref.org / api.semanticscholar.org): ustveri ucu icerik iddiasini en cok OZET duzeyinde tasir; kor hakem destegi 'dogrudan'dan 'kismi'ye indirdi."
     },
     {
       "iddia_id": "i37",
@@ -529,11 +529,11 @@
       "kaynaklar": [
         {
           "anahtar": "k6",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": " Havuz kurali (api.crossref.org / api.semanticscholar.org): ustveri ucu icerik iddiasini en cok OZET duzeyinde tasir; kor hakem destegi 'dogrudan'dan 'kismi'ye indirdi."
     },
     {
       "iddia_id": "i38",
@@ -543,11 +543,11 @@
       "kaynaklar": [
         {
           "anahtar": "k9",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Kramer'in ozetinden; tam metin kapali erisim."
+      "inceleme": "Kramer'in ozetinden; tam metin kapali erisim. Havuz kurali (api.crossref.org / api.semanticscholar.org): ustveri ucu icerik iddiasini en cok OZET duzeyinde tasir; kor hakem destegi 'dogrudan'dan 'kismi'ye indirdi."
     },
     {
       "iddia_id": "i39",
@@ -557,11 +557,11 @@
       "kaynaklar": [
         {
           "anahtar": "k9",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": " Havuz kurali (api.crossref.org / api.semanticscholar.org): ustveri ucu icerik iddiasini en cok OZET duzeyinde tasir; kor hakem destegi 'dogrudan'dan 'kismi'ye indirdi."
     },
     {
       "iddia_id": "i40",
@@ -571,11 +571,11 @@
       "kaynaklar": [
         {
           "anahtar": "k9",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": " Havuz kurali (api.crossref.org / api.semanticscholar.org): ustveri ucu icerik iddiasini en cok OZET duzeyinde tasir; kor hakem destegi 'dogrudan'dan 'kismi'ye indirdi."
     },
     {
       "iddia_id": "i41",
@@ -585,11 +585,11 @@
       "kaynaklar": [
         {
           "anahtar": "k7",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Békés'in saydigi dort kurum da yazildi."
+      "inceleme": "Békés'in saydigi dort kurum da yazildi. Havuz kurali (api.crossref.org / api.semanticscholar.org): ustveri ucu icerik iddiasini en cok OZET duzeyinde tasir; kor hakem destegi 'dogrudan'dan 'kismi'ye indirdi."
     },
     {
       "iddia_id": "i42",
@@ -599,11 +599,11 @@
       "kaynaklar": [
         {
           "anahtar": "k7",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Itkinin sirasi (Macaristan ve Cekoslovakya, sonra Polonya) kaynaktaki gibi korundu."
+      "inceleme": "Itkinin sirasi (Macaristan ve Cekoslovakya, sonra Polonya) kaynaktaki gibi korundu. Havuz kurali (api.crossref.org / api.semanticscholar.org): ustveri ucu icerik iddiasini en cok OZET duzeyinde tasir; kor hakem destegi 'dogrudan'dan 'kismi'ye indirdi."
     },
     {
       "iddia_id": "i43",
@@ -641,11 +641,11 @@
       "kaynaklar": [
         {
           "anahtar": "k7",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": " Havuz kurali (api.crossref.org / api.semanticscholar.org): ustveri ucu icerik iddiasini en cok OZET duzeyinde tasir; kor hakem destegi 'dogrudan'dan 'kismi'ye indirdi."
     },
     {
       "iddia_id": "i46",
@@ -697,15 +697,15 @@
       "kaynaklar": [
         {
           "anahtar": "k5",
-          "destek": "dogrudan"
+          "destek": "kismi"
         },
         {
           "anahtar": "k6",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Adlandirma cekismesinin iki yarisi ayri kaynaklidir."
+      "inceleme": "Adlandirma cekismesinin iki yarisi ayri kaynaklidir. Havuz kurali (api.crossref.org / api.semanticscholar.org): ustveri ucu icerik iddiasini en cok OZET duzeyinde tasir; kor hakem destegi 'dogrudan'dan 'kismi'ye indirdi."
     },
     {
       "iddia_id": "i50",
@@ -720,11 +720,123 @@
       ],
       "guven": "dusuk",
       "inceleme": "Yorum cumlesi; metnin yumusakligi 4., 5. ve 11. maddelerin sinirlayicilarindan cikarilmistir."
+    },
+    {
+      "iddia_id": "i51",
+      "cumle": "Federal Almanya Mayıs 1955'in başında NATO'ya girmiş, antlaşma aynı ayın on dördünde imzalanmıştı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak Federal Almanya'nin 1955 Mayis'inin basinda NATO'ya girdigini ve orgutun 14 Mayis 1955'te kuruldugunu yazar; gun sayisi hesaplanmadi, kaynagin verdigi iki tarih birakildi."
+    },
+    {
+      "iddia_id": "i52",
+      "cumle": "Antlaşmanın kendi girişi de bu gerekçeyi yazar: Paris anlaşmalarının onaylanmasıyla Avrupa'da doğan durum, yani Batı Avrupa Birliği biçiminde yeni bir askerî hizalanma, yeniden silahlandırılmış bir Batı Almanya'nın buna katılması ve Kuzey Atlantik bloğuna bütünleşmesi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Antlasmanin giris bolumu Paris anlasmalarinin onaylanmasini, Bati Avrupa Birligi bicimindeki hizalanmayi, yeniden silahlandirilmis Bati Almanya'yi ve onun Kuzey Atlantik bloguna butunlesmesini sayar. Ittifakin ILAN EDILEN gerekcesidir; taraf beyani olarak okunmali."
+    },
+    {
+      "iddia_id": "i53",
+      "cumle": "Derleme bu dörde bir de Macar liderliğinin kendi içindeki gelişmeleri ekler; ona göre bunlar da Moskova'nın kararında kuşkusuz pay sahibiydi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak dort etkeni sayip ardindan Macar liderligindeki gelismelerin de 'kuskusuz pay sahibi' oldugunu ayri bir cumlede ekler; liste kirpmasini kapatmak icin geri konuldu."
+    },
+    {
+      "iddia_id": "i54",
+      "cumle": "Arnavutluk'un kopuşu yıllar öncesine dayanır: dönemin bir kaydı, Mart 1961'de Moskova'da toplanan Siyasi Danışma Komitesi'ne Arnavutluk'un parti birinci sekreterini değil bir başbakan yardımcısını göndermesinin basında geniş yorum konusu olduğunu, aynı toplantıya Çin'in gözlemci yolladığını yazar; kaydın kendisi basın haberlerine dayandığını belirtir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kayit Mart 1961 Siyasi Danisma Komitesi toplantisini, Arnavutluk'un parti birinci sekreteri yerine bir basbakan yardimcisi gondermesini ve Cin gozlemcisini verir; kendisi basin haberlerine dayandigini soyler. Kayittaki kisi adlarinin yazimi hatali oldugu icin govdeye HICBIR ad tasinmadi."
+    },
+    {
+      "iddia_id": "i55",
+      "cumle": "Elidor Mëhilli'nin incelemesi kopuşun çerçevesini verir: 1960'lardaki Çin-Sovyet bölünmesi birleşik bir sosyalist dünya fikrine ağır bir darbe indirdi ve Arnavutluk'taki partiye Stalinizmin temel özelliklerini koruyup Moskova yerine Pekin'e yönelme fırsatı yarattı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref ozeti Cin-Sovyet bolunmesinin birlesik sosyalist dunya fikrine darbe indirdigini ve Arnavutluk'taki partiye 'Moskova'dan Pekin'e gecme' firsati yarattigini yazar. Tam metin gorulmedi."
+    },
+    {
+      "iddia_id": "i56",
+      "cumle": "Kurucu sekiz addan biri, o bölünmeyle birlikte başka bir merkeze bağlandı.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Arnavutluk'un RESMI cikis tarihi (fiili 1961, hukuki 1968 diye anilir) guvenilir bir kunyeyle dogrulanamadigi icin gövdede tarih verilmedi; yalnizca kaynagin tasidigi 'baska bir merkeze baglanma' yazildi. Kalan boslugun kendisi rapora islendi."
+    },
+    {
+      "iddia_id": "i57",
+      "cumle": "Csaba Békés blok içi dış politika eşgüdümünü, dışarıdan görünmeyen bir lobi mücadelesi olarak okur: güvenlik odaklı ve iktisat odaklı iki alt blok vardı; 1960'ların ortasında Polonya ile Doğu Almanya üstünlük kurmuş, 1969'dan sonra ise bloğun Avrupa Güvenlik ve İşbirliği Konferansı gündemini bir Sovyet-Macar-Romen koalisyonunun tutumu belirlemişti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref ozeti iki alt blogu, disaridan gorunmeyen lobi mucadelesini, 1960'larin ortasinda Polonya-DAC ustunlugunu ve 1969 sonrasi Sovyet-Macar-Romen koalisyonunun CSCE gundemini belirlemesini tasir."
+    },
+    {
+      "iddia_id": "i58",
+      "cumle": "Bu tabloda ittifak, Moskova'nın buyruklarını ileten bir aygıt değil, içinde pazarlık yürüyen bir yapıdır; 1968'de Romanya ile Arnavutluk'un harekâtın dışında kalması aynı yapının en görünür ucudur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Bolum sonu degerlendirmesi; Romanya ile Arnavutluk'un 1968 sureci disinda kalmasi k5 ozetinde yazilidir, 'pazarlik yuruyen yapi' okumasi hakem sentezidir ve kaynagin tasidiginin otesine gecmemesi icin ayni olguya baglandi."
     }
   ],
   "sayaclar": {
-    "dogrudan": 45,
-    "kismi": 5,
+    "dogrudan": 31,
+    "kismi": 27,
     "desteksiz": 0,
     "olculemez": 0
   },
@@ -732,6 +844,14 @@
     {
       "zaman": "2026-08-29",
       "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "kor hakem gecisi: 8 yeni iddia (kapsam boslugu + liste kirpmasi + giris paragrafi), 6 cumle tazelendi, 18 destek 'dogrudan'dan 'kismi'ye indirildi (ustveri ucu kurali)"
     }
   ]
 }

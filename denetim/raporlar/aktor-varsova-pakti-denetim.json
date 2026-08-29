@@ -1,9 +1,9 @@
 {
   "id": "aktor-varsova-pakti",
   "gecis": 2,
-  "zaman": "2026-08-29T17:42:34.804Z",
-  "govde_hash": "302b318305ae",
-  "commit": "b8530ef",
+  "zaman": "2026-08-29T19:13:56.183Z",
+  "govde_hash": "59eecf3604b2",
+  "commit": "f403bfb",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -13,9 +13,9 @@
     },
     {
       "anahtar": "k4",
-      "iddia": "Örgütün resmî adı Varşova Antlaşması Örgütü'ydü; \"Varşova Paktı\" sonradan yerleşen kısa addır.",
+      "iddia": "Örgütün adı Varşova Antlaşması Örgütü'ydü; karşı bloğun kaydı \"Varşova Paktı\"nı bunun öbür adı olarak verir.",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Varşova, Antlaşması, Örgütü, Paktı"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Varşova, Antlaşması, Örgütü"
     },
     {
       "anahtar": "k1",
@@ -31,9 +31,21 @@
     },
     {
       "anahtar": "k4",
-      "iddia": "Aynı kayıt 1955'teki Sovyet hesabını da ikiye ayırır: yeniden silahlanan Batı Almanya'yı çevrelemek ve ile eşit taraf olarak pazarlık edebilmek kadar, Doğu Avru",
+      "iddia": "Aynı kayıt 1955'teki Sovyet hesabını da ikiye ayırır: yeniden silahlanan Batı Almanya'yı çevrelemek ve NATO ile eşit taraf olarak pazarlık edebilmek kadar, Doğu",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Federal Almanya Mayıs 1955'in başında NATO'ya girmiş, antlaşma aynı ayın on dördünde imzalanmıştı.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Antlaşmanın kendi girişi de bu gerekçeyi yazar: Paris anlaşmalarının onaylanmasıyla Avrupa'da doğan durum, yani Batı Avrupa Birliği biçiminde yeni bir askerî hi",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -49,13 +61,13 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "6. madde tek ortak siyasi organı, Siyasi Danışma Komitesi'ni oluşturur; her taraf burada bir hükümet üyesiyle ya da özel olarak atanmış bir temsilciyle bulunur.",
+      "iddia": "6. madde ortak siyasi organı, Siyasi Danışma Komitesi'ni oluşturur; her taraf burada bir hükümet üyesiyle ya da özel olarak atanmış bir temsilciyle bulunur ve k",
       "durum": "ATOMSUZ",
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): Siyasi, Danışma, Komitesi"
     },
     {
       "anahtar": "k1",
-      "iddia": "8. madde ise tarafların birbirlerinin bağımsızlığına, egemenliğine ve iç işlerine karışmama ilkesine bağlı kalacağını yazar.",
+      "iddia": "8. madde ise tarafların iktisadi ve kültürel ilişkilerini geliştirirken birbirlerinin bağımsızlığına, egemenliğine ve iç işlerine karışmama ilkesine bağlı kalac",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -73,15 +85,15 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Avalon derlemesinin yayımladığı çeviri Sovyet dergisi New Times'ın 21 Mayıs 1955 tarihli sayısından alınmıştır ve derlemenin kendi notu, Paktın Birleşmiş Millet",
+      "iddia": "Avalon'un yayımladığı metin, ABD Dışişleri Bakanlığı'nın 1957'de bastığı American Foreign Policy 1950-1955 belge derlemesinden alınmıştır; o derlemenin notu çev",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "5 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Yani Avalon'da duran İngilizce metin, tarafın kendi yayın organından aktarılmış bir çeviridir.",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "iddia": "Aktarım halkası iki adımlıdır: taraf devletin kendi haftalık dergisinden karşı tarafın belge derlemesine, oradan da bugün okuduğumuz çevrimiçi metne.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k8",
@@ -109,7 +121,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Paralel Tarih Projesi'nin sekiz kurucu üyenin tamamının arşivlerinden derlediği 193 belge, ittifakın içeriden nasıl işlediğini gösteren ilk toplu kayıttır.",
+      "iddia": "Paralel Tarih Projesi'nin sekiz kurucu üyenin tamamının arşivlerinden derlediği 193 belge, derlemeyi duyuran arşivin kendi ifadesiyle, ittifaka içeriden bakan t",
       "durum": "OK",
       "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
@@ -186,6 +198,12 @@
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
+      "anahtar": "k3",
+      "iddia": "Derleme bu dörde bir de Macar liderliğinin kendi içindeki gelişmeleri ekler; ona göre bunlar da Moskova'nın kararında kuşkusuz pay sahibiydi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
       "anahtar": "k1",
       "iddia": "Kurucu metindeki karışmama ilkesiyle üyenin topraklarındaki harekât arasındaki açı, karşı bloğun kaydının saydığı üç örneğin ilkidir.",
       "durum": "ATOMSUZ",
@@ -238,6 +256,36 @@
       "iddia": "Doktrin her sosyalist devletin sınırlı egemenliğini teyit etmeyi ve Varşova Paktı üyelerinin Çekoslovakya'daki askerî müdahalesini haklı göstermeyi amaçlıyordu;",
       "durum": "OK",
       "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Arnavutluk'un kopuşu yıllar öncesine dayanır: dönemin bir kaydı, Mart 1961'de Moskova'da toplanan Siyasi Danışma Komitesi'ne Arnavutluk'un parti birinci sekrete",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Elidor Mëhilli'nin incelemesi kopuşun çerçevesini verir: 1960'lardaki Çin-Sovyet bölünmesi birleşik bir sosyalist dünya fikrine ağır bir darbe indirdi ve Arnavu",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Kurucu sekiz addan biri, o bölünmeyle birlikte başka bir merkeze bağlandı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Csaba Békés blok içi dış politika eşgüdümünü, dışarıdan görünmeyen bir lobi mücadelesi olarak okur: güvenlik odaklı ve iktisat odaklı iki alt blok vardı; 1960'l",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bu tabloda ittifak, Moskova'nın buyruklarını ileten bir aygıt değil, içinde pazarlık yürüyen bir yapıdır; 1968'de Romanya ile Arnavutluk'un harekâtın dışında ka",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k9",

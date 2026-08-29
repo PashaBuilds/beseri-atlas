@@ -1,0 +1,723 @@
+{
+  "id": "aktor-safevi-devleti",
+  "govde_hash": "af43f5ac32d3",
+  "commit": "f403bfb",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Kathryn Babayan'ın makale künyesindeki özete göre Safevîler 1301'de bir tasavvuf tarikatı olarak başlamış, 1447'de mesihçi bir harekete dönüşmüş, 1501'de dünya fethi iddiası taşıyan bir imparatorluk kurmuştur; tarikatın siyasi role soyunan ilk pîri olan İsmâil, İran'ın kültürel geçmişinden bir dizi peygamber ve krallık kahramanının yeniden bedenlenmesi olduğunu ileri sürüyordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ozeti birebir tasiyor: 'The Safavids evolved from a Sufi order (1301) into a messianic movement (1447) before they finally established their imperium with world-conquering aspirations (1501)' ve 'Isma'il, the first pir of the Safavid order to assume the political role of shah, claimed to be the reincarnation of a host of prophets and kingly heroes from Iran's cultural past'. Govde ozeti ozet olarak isaretliyor; tam metin bu kayitta yok."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Tebriz'de tahta oturduğunda ilk işi On İki İmam Şiîliğini resmî mezhep ilan etmek ve hutbelerde ilk üç halifeye lânet okunmasını emretmek oldu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV SAFEVILER: 'Ismail Tebriz'e girerek tahta oturdu. On iki imam Siiligini resmi mezhep ilan etti. Hutbelerde Hz. Ebu Bekir, Omer ve Osman'a lanet okunmasini emretti.' Govde 'ilk isi' diyor; kaynak da bu ucunu tahta oturusun hemen ardindan siralar."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Hanedan adını bir fatihten değil, merkezi Erdebil'de bulunan Safeviyye tarikatının pîri Şeyh Safiyyüddin'den alır; referans eserin kendisi Safiyyüddin'in etnik kökeninin belirsiz olduğunu kaydeder ve devletin kurulmasından sonra yazılan eserlerde onun Hz. Ali soyundan geldiği iddiasının ileri sürüldüğünü belirtir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV: 'Adini merkezi Erdebil'de bulunan Safeviyye tarikatinin piri Seyh Safiyyuddin'den almistir. Safiyyuddin'in etnik kokeni belirsizdir.' ve 'ozellikle Safevi Devleti'nin kurulmasindan sonra yazilan eserlerde onun Hz. Ali soyundan geldigi ... ileri surulmustur'."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Tarikat şeyhliğinin tasavvuf geleneklerine aykırı olarak babadan oğula geçmesi de aynı dönüşümün parçasıdır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV: 'Boylece tasavvuf geleneklerine aykiri olarak tarikat seyhligi babadan ogula intikal etti.' Kaynak bunu Sadreddin-Hace Ali silsilesiyle somutlar."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Ortaya çıkan yapı, şahın aynı anda hem hükümdar hem mürşid-i kâmil sayıldığı, zıllullah fi'l-arz ve nâib-i imam unvanlarını taşıdığı",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "KISMI. Kaynak sahin hem dini hem siyasi otoriteyi temsil ettigini ve 'zillullah fi'l-arz, naib-i imam mehdi (imam gaib)' unvanlarini tasidigini, ayrica 'mursid-i kamil sayilan sah' ifadesini verir. Kirpma var: govde unvani 'naib-i imam' diye kisaltiyor, kaynakta unvan 'naib-i imam mehdi (imam gaib)'dir — kisaltma unvanin mehdilik/gaib imam boyutunu dusuruyor. Cumle govdede bir ic bag ([mesruiyet](/kavram/mesruiyet/)) tasidigi icin iki parca halinde kayda gecirildi (devami i06); aracin cumle cikaricisi ic baglari tumuyle siliyor, hash karsilastiricisi ise bag metnini birakiyor — tek parca hicbir bicimde iki olcumu birden saglayamiyor."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "şahın vekilliğini yürüten vekîl-i nefes-i nefîs-i hümâyun makamı da kızılbaş reisleri arasından seçilirdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV SAFEVILER: 'Onun zamaninda tesis edilen vekil-i nefes-i nefis-i humayun sahin vekilligini yerine getirmekte olup kizilbas reisler arasindan seciliyordu.' i05'teki cumlenin ikinci yarisi."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Şeyh Haydar, müridlerine tarikatın simgesi olarak on iki dilimli kırmızı başlıklar giydirdi; kaynağın deyişiyle bununla hem gücünü açığa vurmuş hem de müridlerinin ayırt edilmesini sağlamış oldu, ve takipçiler bundan sonra kızılbaş adıyla anılmaya başlandı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV: 'Muridleri hizla artan Haydar tarikatin simgesi olarak onlara on iki dilimli kirmizi renkli basliklar giydirdi. Boylece hem gucunu aciga vurmus hem de muridlerinin tefrik edilmesini saglamis oldu. Safevi tarikatinin takipcileri kizilbas adiyla anilmaya baslandi.'"
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Başlığın adı ile taşıdığı anlam arasındaki bağ tartışmalıdır: KIZILBAŞ maddesi adın kökünü eski Türk âdetlerindeki kızıl börke bağlar, terimin belirli bir dinî ve sosyal grubu nitelemek üzere ilk kullanımına dair kesin bir kayıt bulunmadığını açıkça söyler ve yalnızca ağırlık kazanan görüşe göre bunun XV. yüzyılın son çeyreğinden itibaren ortaya çıktığını yazar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV KIZILBAS: 'kizilbas isminin kokunun eski Turk adetlerine kadar uzandigi ve bunun basa giyilen kirmizi borkle ilgili oldugu anlasilir'; 'ilk defa ne zaman kullanildigina dair kesin bir kayit yoksa da agirlik kazanan goruse gore bu kullanim XV. yuzyilin son ceyreginden itibaren ortaya cikmistir'. Kaynagin kendi cekincesi govdede korunmus."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Adı Hz. Ali'nin Hayber'de ya da Sıffîn'de kırmızı sarık sarmasına bağlayan rivayetleri ise aynı madde tarihî kaynaklarla doğrulanamaz sayar ve ada bir tür kutsallık kazandırma çabası olarak okur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV KIZILBAS ucu rivayet sayar (Hayber-Hz. Ali, Uhud-Ebu Ducane, Siffin-Hz. Ali) ve 'Tarihi kaynaklar bakimindan dogrulanma imkani olmayan bu yaklasimlarin kizilbas ismine bir cesit kutsallik kazandirma cabasinin bir sonucu oldugu anlasilmaktadir' der. Govde ucunden ikisini — yalniz Hz. Ali'ye baglananlari — anar; kirpma cumlenin konusuna (Hz. Ali) uygun, savi zayiflatmiyor."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Erdebil tekkesine Anadolu, Suriye ve Azerbaycan'dan büyük kafileler hâlinde gelen ve tekkeye maddî destek sağlayan müridlerin sayısı hızla arttı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV: 'Anadolu, Suriye ve Azerbaycan'da bulunan Safeviye tarikatinin takipcileri Seyh Haydar'i ziyaret icin buyuk kafileler halinde Erdebil'e geliyor ve tekkeye maddi destek sagliyorlardi. Muridleri hizla artan Haydar...'"
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "tabanı zamanla devletin askerî omurgasına dönüştü; KIZILBAŞ maddesi adın devlet kurulduktan sonra önce kurucu unsuru, sonra askerî aristokrasiyi ve orduyu nitelemek üzere kullanıldığını kaydeder.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "KISMI: cumlenin ilk yarisi (tasavvuf tabaninin askeri omurgaya donusmesi) dosyanin cikarimi. k2 bunun kayit tarafini tasir: 'Safevi Devleti'nin kurulmasiyla birlikte kizilbas ismi, devlet bunyesinde kurucu unsuru teskil etmesi bakimindan Turk yahut Turkmen, daha sonra ... askeri aristokrasi anlaminda kullanilmistir' ve ordu 'lesker-i kizilbas' diye anilir. Onarim oncesi bu nedensellik tek kaynakli (k1) ve dipnotsuz bir cikarimdi; hakem ikinci kaynagi ekledi."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Şeyh Haydar'ın kuzeydeki Çerkezler üzerine yaptığı akınlardan elde ettiği ganimeti müridleri arasında paylaştırması, çevresinde yalnız müridlerin değil ganimet peşindekilerin de toplanmasına yol açtı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV: 'Haydar, babasinin intikamini almak icin kuzeydeki gayri muslim Cerkezler uzerine akinlar yaparak elde ettigi ganimetleri muridleri arasinda paylastirdi. Bu sayede etrafinda sadece muridleri degil ayni zamanda ganimet yoluyla kazanc saglamaya calisan kisiler de toplanmaya basladi.' Govde motivi (babasinin intikami) dusuruyor, mekanizmayi degistirmiyor."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Safevîler'in ilk döneminde İran'da yaşayanların büyük bölümü Sünnî idi; maddeye göre Şah İsmâil'in aldığı sert tedbirlerle Şiîlik kısa sürede bütün İran'ı kapsayan bir mezhep hâline geldi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "TDV: 'Safeviler'in ilk donemlerinde Iran'da yasayan ahalinin buyuk bolumu Sunni idi ... Sah Ismail'in aldigi sert tedbirlerle Siilik kisa surede butun Iran'i kapsayan bir mezhep haline geldi.' Ikinci yari kaynagin KENDI iddiasidir ve govde bunu 'maddeye gore' diye cerceveliyor; guven kaynagin kendi kesinligi yuzunden orta."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Bu dönüşümün nasıl işlediğine dair maddenin verdiği tek somut sahne bir Venedikli tüccarın anlatısıdır: Tebriz Meydanı'nda toplanan halka önce Şiî fıkhı anlatılıyor, ardından şeyhülislâmın nezaretinde topluca mezhep değiştirme işlemi yapılıyordu; ülke genelinde geçiş telkin ediliyor, aksi hâlde katliamlar yapılıyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "TDV: 'Bir Venedikli tuccarin anlattigina gore Tebriz Meydani'nda toplanan halka once Sii fikhi anlatiliyor, daha sonra seyhulislamin nezaretinde topluca mezhep degistirme islemi yerine getiriliyordu. Ulke genelinde halkin yeni mezhebe gecmesi telkin ediliyor, aksi halde katliamlar yapiliyordu.' Aktarim halkasi (adsiz Venedikli tuccar -> ansiklopedi -> dosya) govdede aciktan soyleniyor."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Şiî ulemânın azlığı yüzünden Lübnan ve Bahreyn'den âlimler İran'a davet edildi; madde bunun ilk Şiî metinlerinin Arapça kaleme alınmasına ya da Arapçadan Farsçaya çevrilmesine ortam hazırladığını yazar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV: 'Sii ulemanin azligi yuzunden Lubnan ve Bahreyn'den alimler Iran'a davet edilmis, bu durum ilk Sii metinlerinin Arapca olarak kaleme alinmasina veya Arapca'dan Farsca'ya tercumelerin baslamasina ortam hazirlamistir.' Curutucunun 'ilk' oncelik itirazi uzerine hakem cumleyi kaynaga atfetti; 'ilk' kaynagin kendi sozu."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Üçüncü kol popüler anlatıydı: Mehmet Dağlar'ın makalesi, Safevîler'in rakiplerini kötüleme, psikolojik baskı ve tamamen ortadan kaldırma gibi yöntemlerle devlet otoritesini güçlendirdiğini, buna karşılık Şah İsmâil döneminden itibaren halk arasında okunan Hamza-nâme ve Ebû Müslim-nâme gibi destanların Şiîliğin yayılmasında önemli bir yere sahip olduğunu ileri sürer.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Daglar ozeti: 'Safeviler rakiplerini kotulemek, onlara psikolojik baski uygulamak ya da tamamen ortadan kaldirmak gibi cesitli yontemler uygulamaya baslamis ve devlet otoritesini guclendirdi' ve 'Sah Ismail doneminden itibaren halk arasinda okunan destan turundeki eserlerin Siiligin yayilmasinda onemli bir yere sahip oldugu soylenebilir'; Hamza-name ve Ebumuslimname ozette adlandirilir."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Yazar bu son cümleyi kesin bir tespit olarak değil, \"söylenebilir\" kaydıyla kurar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozetin fiili 'soylenebilir' — kaynagin kendi cekincesi dosyada korunmus. Sus dipnotu degil: dipnot tam da bu cekinceyi tasiyan kaynaga isaret ediyor."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Muhammed Hudâbende zamanında hutbelerde lânet okunması yasaklandı ve bu tür davranışların ortadan kalkması için tedbirler alındı; ancak onun tahttan indirilmesinin ardından uygulama yeniden başladı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV: 'Muhammed Hudabende zamaninda bu gelenek yasaklandigi gibi bu tur davranislarin ortadan kalkmasi icin tedbirler alinmis, fakat onun tahttan indirilmesinin ardindan yeniden baslamistir.'"
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Şah İsmâil'in ölümünden sonra kızılbaş reisleri arasındaki rekabet devleti felce uğrattı: emîrülümerâlık 1520'lerden 1530'lara Dîv Sultân-ı Rûmlû, Çuha Sultan ve Hüseyin Han Şamlû arasında birbirini öldürerek el değiştirdi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV: 'Sah Ismail'in olumunden sonra emirulumeralik makamina yukselen Div Sultan-i Rumlu...'; '1527'de Div Sultan-i Rumlu'nun oldurulmesinin ardindan iktidar Tekelu asiretinden Cuha Sultan'a gecti. 1530'da ... Cuha Sultan olduruldu. Huseyin Han Samlu onun yerine gecti, ancak o da uc yil sonra ortadan kaldirildi.' Govdedeki 1520'ler-1530'lar araligi kaynaktaki 1526-1533 dizisiyle ortusuyor."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Şahseven adıyla kurulan yeni birlikler, sadakatinden şüphe edilmeyen kızılbaş Türkmenler dışında Gürcü, Çerkez, Ermeni ve diğer Kafkas halklarından küçük yaşta İran'a gelen gulâmlarla savaşta esir düşüp Müslüman olanlardan meydana geliyordu; başlarına, daha önce Müslüman olmuş Ermeni asıllı Allahverdi Han getirildi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV: 'Oncelikle kizilbas reislerinin gucunu kirmak icin Sahseven adiyla yeni askeri birlikler meydana getirdi. Bu yeni ordu saha sadik olduginda supe olmayan kizilbas Turkmenler'den baska Gurcu, Cerkez, Ermeni ve diger Kafkas halklarindan kucuk yasta Iran'a gelen gulamlarla savaslarda esir dusup Islamiyet'i secenlerden olusuyordu. Bunlarin basina daha once Islam'a girmis olan Ermeni asilli Allahverdi Han getirildi.' Hakem duzeltmesi: govde 'getirilen gulamlar' diyordu, kaynak 'gelen'; ayrica Allahverdi Han'in onceden ihtida ettigi kaydi geri konuldu."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Bu birliklerin kuruluşunda İngiliz elçileri Sherley kardeşlerin etkili olduğu söylenirse de maddeye göre bu husus açık değildir; Safevîler zaten Şah İsmâil döneminden beri ateşli silahlara âşinaydı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV: 'Her ne kadar bu birliklerin olusturulmasinda Ingiliz elcileri Sherley kardeslerin etkili oldugu soylenirse de bu husus acik degildir. Esasen Safeviler daha Sah Ismail doneminden itibaren atesli silahlara asina idi.' Kaynagin kendi cekincesi korunmus."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Maddeye göre yeni sistemin dışında kalan kızılbaş Türkmenler, hem ateşli silah kullanmaktan hoşlanmamaları hem de siyasal ve ekonomik güçlerini kaybetmeleri yüzünden etkinliklerini hızla yitirdi; buna rağmen kaynağın kaydına göre devletin son zamanlarına, hatta Nâdir Şah dönemine kadar ordu içindeki varlıklarını sürdürdüler.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV: 'Yeni askeri sistemin disinda kalan kizilbas Turkmenler, gerek atesli silahlari kullanmaktan hoslanmamalari gerekse siyasal ve ekonomik guclerini kaybetmis olmalarindan dolayi etkinliklerini hizla yitirdiler. Yine de Safevi Devleti'nin son zamanlarina ... Nadir Sah doneminde bile Safevi ordusu icindeki varliklarini surdurduler.' Curutucunun tek-kaynakli-nedensellik itirazi uzerine hakem nedenselligi acikca kaynaga atfetti."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Selçuklu iktâ geleneğinin devamı olarak idarecilere ve askerî sınıfa tuyul adıyla araziler tahsis edilirdi; askerî sınıftan olup tuyul alan kişi sipahiliği bırakmadığı sürece toprağı ömür boyu tasarrufunda tutar ve erkek evlâdına devredebilirdi, yıllık verilen tuyullar ise her yıl sonunda yenilenir ya da başkasına verilirdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV: 'Selcuklular'da da uygulanan ikta geleneginin bir devami olarak idarecilere veya askeri sinifa tuyul adiyla araziler tahsis edilirdi ... omur boyu topragi tasarrufunda tutar ve erkek evladina devredebilirdi. Yillik olarak tahsis edilen tuyullar her yilin sonunda yenilenir veya baskasina verilirdi.'"
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Eyaletlerin gelirlerini kızılbaş beylerbeyileri tasarruf ediyor, savaşta kendi kabile erkekleriyle orduya katılıyorlardı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV: 'Kizilbas reisleri emiru'l-umera veya beylerbeyi unvani ile eyaletlerde gorevlendirildiginde ... kabilesinin erkekleri ayni zamanda onlarin askeri gucunu olusturuyordu. Bu vesile ile eyaletlerin gelirlerini tasarruf ediyor, savas halinde kendilerine tabi askerlerle orduya katiliyordu.'"
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Bürokrasi ise Tacik denilen Fars kökenlilerin elindeydi; askerî sınıf ile kalem sınıfı arasındaki bu ayrım devletin kalıcı fay hattıydı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV: 'Burokrasi Tacik olarak da adlandirilan Fars kokenlilerin elindeydi ... Buna karsilik askeri sinifi meydana getiren kizilbaslar hem merkezdeki hem eyaletlerdeki ust duzey gorevleri ellerinde tutuyordu.' Curutucunun 'burokrasi anakronizmdir' itirazi REDDEDILDI: sozcuk kaynagin kendi sozcugudur, dosyanin geriye donuk okumasi degil."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Dış gelirin omurgası ipekti ve üretimi büyük ölçüde devletin tekelindeydi; XVII. yüzyılın ortalarında saray teşkilâtına bağlı otuzdan fazla imalâthanede yaklaşık 5000 sanatkâr çalışıyordu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "KISMI. Sayilar birebir: 'XVII. yuzyilin ortalarinda Buyutat-i Hassa-i Serife'ye bagli olarak otuzdan fazla imalathane bulunuyordu ve burada yaklasik 5000 sanatkar calisiyordu' ve hemen oncesinde 'Iran ipeginin uretimi buyuk olcude devletin tekelindeydi'. Ancak kaynak bu imalathaneleri IPEK imalathanesi diye ADLANDIRMIYOR; saray teskilatina (Buyutat-i Hassa) bagli oldugunu soyluyor — govdedeki noktali virgul ikisini kaynaktan daha siki baglar. Ayrica 'dis gelirin omurgasi ipekti' cumlesi dosyanin ozetlemesidir; kaynak 'iktisadi hayatin temelini tarim ve hayvancilik olusturuyordu' der, ipegin ustunlugunu yalniz dis ticaret/hali karsilastirmasinda kurar."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Abbas köprüler ve kervansaraylar yaptırarak yol ağını güvenli kılmış, İpek yolunun güzergâhını İsfahan'dan geçirmek için Kevir çölünü kateden bir yol inşa ettirmişti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV: 'I. Abbas zamaninda kopruler ve kervansaraylar yapilarak yol agi daha guvenilir ve kullanilabilir hale getirilmis, Ipek yolunun guzergahinin Isfahan'dan gecmesini saglamak amaciyla Orta Iran'da yer alan Kevir colunu kateden bir yol insa edilmistir.'"
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Şehirlerdeki ticarî hayat Ermeni, yahudi ve Hintli tüccarların elindeydi; yahudilerle Hintliler kıymetli maden ticaretiyle uğraşırken dış ticareti ellerinde tutan Ermeniler İran ipeğini ve halısını Avrupa'nın en uzak şehirlerine kadar pazarlıyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI. Onarim govdesi 'dis ticaret Ermeni, yahudi ve Hintli tuccarlarin elindeydi' diyordu; kaynak boyle demiyor: 'Sehirlerde ticari hayat daha cok Ermeni, yahudi ve Hintli tuccarlarin elindeydi. Yahudiler ve Hintliler kiymetli madenlerin ticaretiyle mesgulken Ermeniler dis ticareti ellerinde bulunduruyor ... Ermeniler sayesinde Iran ipegi ve halisi Avrupa'nin en uzak sehirlerine kadar pazarlanabiliyordu.' Dis ticaret yalniz Ermenilere ait; ayrica kaynagin listesinde bulunan 'hali' govdeden dusmustu. Ikisi de geri konuldu."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Abbas, Ermeni tüccarların Avrupa bağlantısından yararlanmak için Azerbaycan'ın Culfa şehrindeki Ermenilerin büyük bölümünü İsfahan'a nakletti ve onlara geniş imtiyazlar tanıyarak yine Culfa adıyla yeni bir yerleşim kurdu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV: 'Ermeni tuccarlarin Avrupa ile baglantisindan istifade etmek icin Azerbaycan'in Culfa sehrinde bulunan Ermeniler'in buyuk bir bolumunu Isfahan'a nakledip yine Culfa adiyla yeni bir yerlesim yeri kurmus ve onlara genis imtiyazlar tanimistir.' Bu, olayin RESMI-IMTIYAZ okumasidir; dosya bunu bilerek karsi anlatilarla yan yana koyar."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Ina Baghdiantz-MacCabe'nin makale özetine göre Yeni Culfa, 1604'te Abbas tarafından sürülen Culfalı ipek tüccarları için özel olarak yapılmış bir mahalledir; başlangıçta yalnız varlıklı tüccarlara orada oturma hakkı tanınmış, zanaatkârlar ve hizmetliler İsfahan'ın Müslüman nüfusu arasında yaşamış, bir fermanla Müslümanların, Katolik misyonerlerin ve Culfalı olmayan Ermenilerin orada ikameti yasaklanmıştı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Fransizca ozet: 'un quartier residentiel construit specialement pour recevoir les marchands de soie de Joulfa deportes a Isfahan en 1604 par Abbas ier'; 'seuls les marchands prosperes s'etaient vus accorder le droit de sejour ... tandis que les artisans et les domestiques habitaient parmi la population musulmane d'Isfahan meme'; 'Aux termes d'un decret, les musulmans, les missionnaires catholiques et les autres armeniens, n'etaient autorises a y resider' (metin 'La Nouvelle Joulfa etait strictement reservee aux Joulfains' ile birlikte okunur). 'Deportes' = surulen; govdenin 'surulen' cevirisi ozetin kendi sozcugudur."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Aynı özet, Osmanlı yönetimindeki Halep ve Kahire gibi Arap kentlerinin aksine İsfahan'da bir Ermeni mahallesi bulunmadığını, mahallenin ancak 1655'ten sonra bu niteliği kazandığını ve Afgan fethinden sonra XVIII. yüzyılda yoksullaşarak başka Hristiyanların da yaşadığı bir gettoya dönüştüğünü belirtir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozet: 'contrairement aux villes arabes sous domination ottomane ... comme Alep ou Le Caire, il n'existait pas un quartier armenien'; 'Apres 1655 ... deviendrait un quartier armenien'; 'Apres la conquete afghane ... la Nouvelle Joulfa se transforme, pendant le xviiie siecle, en ghetto ou habitent non seulement des Armeniens, mais aussi d'autres chretiens'."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Fransız kuyumcu Jean-Baptiste Tavernier, Erivan ile Tebriz arasındaki bütün ülkenin Osmanlı orduları geçim bulamasın diye I. Abbas tarafından tahrip edildiğini, Culfa ve çevresindeki halkın yaşlı genç demeden İran'a sürüldüğünü yazar; verdiği sayıya göre 27.000'den fazla Ermeni ailesi ipeğin geldiği Gîlân'a gönderilmiş, ılıman havaya alışkın bu insanların çoğu iklimin sertliği yüzünden ölmüştür.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tavernier (1678 Ingilizce cevirisi, OCR): 'All the Country between Erivan and Tauris was wholly deftroy'd by Sha-Abas King of Perfia, and the firft of that Name; to the end that the Armies of the Turks, not meeting with any fubfiftance, might perifh of themfelves.' ve 'He fent above 27000 Families of Armenians into Guilan, whence the Silks come; and where the harfhnefs of the Climate kill'd abundance of thofe poor People, that were accuftom'd to a milder Air.' Sayi tanigin kendi duydugudur; govde bunu bir sonraki cumlede aciktan soyluyor. Guven orta: idari kayit degil."
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "En itibarlı olanlar İsfahan'a yollanmış, şah onları ipek ticaretine koymuş ve mal avans vererek satış dönüşü ödemelerini sağlamış; üçte biri İsfahan ile Şîraz arasındaki köylere dağıtılmıştır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tavernier: 'The moft confiderable were fent to Ifpahan, where the King put them upon the Trade of Silk, and lent them Commodities, for which they paid upon the return of their Markets' ve 'A third part of the People were difpers'd into other Villages between Ifpahan and Sciras.'"
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Tavernier anlatıyı, yaşlılar öldükçe gençlerin genellikle Müslüman olduğu ve artık o ovalarda iki Hristiyan Ermeniye zor rastlandığı kaydıyla bitirir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tavernier: 'But the old People dying, the young ones generally turn Mahumetans: fo that now you can hardly meet with two Chriftian Armenians in all thofe fair Plains, which their Fathers were fent to manure.' (OCR 'Armemians' yazar.)"
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Jean Chardin, Culfa Ermenilerinin kethüdasına ait büyük bir elmasın şah tarafından peşin üç bin yüz elli tümene satın alındığını, bunun kaynağın hesabıyla yaklaşık elli bin kron ettiğini, aynı taşın Avrupa'da yüz bin kron değerinde olacağını yazar; taşın kusursuzluğuna dair hükmü kendisinin değil, elmas konusunda kendisinden bilgili saydığı yol arkadaşınındır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Chardin (1720 Ingilizce cevirisi): 'The King bought it for three Thoufand one Hundred and fifty Tomans ready Money, which amounts to about fifty Thoufand Crowns; this Stone would have been worth in Europe a Hundred Thoufand Crowns'; tas 'belong'd to the Prevoft of the Armenians of Julpha'. Kusursuzluk hukmu: 'I told him I had not skill enough in Diamonds to give my Opinion on fo large a Stone, but that my Companion was a very knowing Man in thofe Things. He judged it to be of the firft Water, and perfectly clear.' Govde hukmun sahibini dogru gosteriyor."
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "Aynı günlük, şahın yarım fersahlık bir yola çıkmak için astrologların belirlediği uğurlu saatte kaldırıldığını da kaydeder.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Chardin: 'The Aftrologers made him rife at that early Hour, to go fo little a way as half a League, by reafon it was the lucky Moment of a favourable Conftellation.' Kunye dogrulama dizesi de bu cumledir ve sayfada birebir gecer."
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "Metnin bir yerinde Hollandalıların İran'a gönderdikleri mektupları Batavia valisi ya da Orange prensi adına yazdırdıklarını, çünkü oradakilerin eşit yetkili birden fazla kişinin egemenlik kullanmasını kavrayamadığını anlatır — bu, doğrulanabilir bir diplomatik uygulamadır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Chardin: 'The Hollanders, that they may not offend thefe Manners, fpeak always of their Country as of a Monarchy ... and when they fend an Ambaffador into Perfia, the Letters are made in the Name of the Governor of Batavia, or in the Name of the Prince of Orange', hemen oncesinde 'they cannot conceive the Adminiftration of the Sovereign Power, by a Plurality of Perfons of equal Authority'. HAKEM DUZELTMESI: govde bunu 'sarayin ... kavrayamadigi' diye daraltiyordu; Chardin'in oznesi saray degil, genel bir 'onlar'dir — cumle kaynaga oturtuldu. Son yan cumle ('dogrulanabilir bir diplomatik uygulamadir') dosyanin kendi degerlendirmesidir."
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "Ama aynı paragraf gözlemi hemen bir hükme bağlar ve bütün Doğu'nun \"the Yoke of one Man, whose Caprice is a Sovereign Law\" altında yaşamaya alışkın olduğunu söyler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alintilanan dize sayfada birebir gecer: 'They are accuftom'd throughout the Eaft to the Yoke of one Man, whofe Caprice is a Sovereign Law, and who does and undoes as he himfelf pleafes, without either Reafon or Senfe.' Govde alintiyi anlamini tersine cevirecek bicimde kirpmiyor; tam tersine kaynagin cercevesini tesirmek icin kullaniyor."
+    },
+    {
+      "iddia_id": "i39",
+      "cumle": "Cümlenin ikinci yarısı Safevî yönetimi hakkında bir ölçüm değil, XVII. yüzyıl Avrupa'sının Doğu despotizmi kalıbıdır; elimizdeki metnin 1720'de Fransızcadan çevrilmiş bir baskı olması bu katmanı bir kat daha kalınlaştırır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "KISMI. 'Dogu despotizmi kalibidir' dosyanin yorumu — kaynak kendi cercevesini boyle adlandirmaz. Yorumun dayanagi olan ikinci olgu ise dogrudan: cildin kapak sayfasi 'Sir John Chardins TRAVELS IN PERSIA. Never before Tranflated into ENGLISH ... By EDM. LLOYD, Efq; LONDON Printed for the Author ... 1720' der, yani elimizdeki metin gercekten 1720 Ingilizce cevirisidir. (Kunyedeki 'Edm. Lloyd' adi hayalet degil: OCR adi 'EDM. LLiovp' diye bozar, bu yuzden birebir dize aramasi bosa doner.)"
+    },
+    {
+      "iddia_id": "i40",
+      "cumle": "Maddeye göre İran Devleti kavramı Safevîler'in ilk dönemlerinde müphem kalmış, Memleket-i Îrân tabiri gerçek anlamda ancak Şah Süleyman zamanında kullanılmaya başlanmıştır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV: 'Iran Devleti kavrami Safeviler'in ilk donemlerinde biraz muphem kalmistir. Her ne kadar Osmanlilar'in Iran'a gonderdigi mektuplarda ve Iskender Bey Turkmen'in eserinde Mulk-i Iran, Memalik-i Iran gibi tabirler gecmisse de gercek anlamda Sah Suleyman zamaninda Memleket-i Iran tabiri kullanilmaya baslanmistir.' Adlandirma tartismasi dosyanin acik ekseni."
+    },
+    {
+      "iddia_id": "i41",
+      "cumle": "Adı taşıyan geniş toplumsal taban onu iftiharla benimserken muhalifleri hareketin siyasi karakteri dolayısıyla ada kötüleyici anlamlar yükledi; XVI. yüzyıldan itibaren Osmanlılar terimi \"devlet muhalifi ve isyancı zümreler\" anlamında kullandı, sonra ada dinî bir boyut eklenerek kızılbaşlık sapıklık ve inkârcılıkla özdeşleştirildi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV KIZILBAS: 'Bu sosyal taban kizilbas ismini iftiharla benimserken muhalifleri hareketin tasidigi siyasi karakter dolayisiyla buna kotuleyici anlamlar yuklemislerdir. XVI. yuzyildan itibaren ... Osmanlilar kizilbas terimini devlet muhalifi ve isyanci zumreler anlaminda kullanmis ... kizilbaslik sapiklik, yoldan cikmislik, hatta inkarcilik ... olarak anilmistir.' Tirnakli ibare sayfada birebir gecer."
+    },
+    {
+      "iddia_id": "i42",
+      "cumle": "Rıza Yıldırım'ın makale özeti bu mirasın bugünkü uzantısını tartışır: eski Türk araştırmalarının Alevîliği \"heterodoksi\" diye kavramsallaştırıp köklerini Orta Asya geleneklerinde ve ortaçağ Anadolu tarikatlarında araması yeni bir literatür tarafından eleştirilmiştir, ama Yıldırım'a göre yeni literatür de ortaçağ tarikatlarına odaklanmayı sürdürür; kendisi her iki çizgiyle de eleştirel biçimde hesaplaşarak Alevî dindarlığını doğuranın ortaçağ tarikatları değil Safevî-kızılbaş hareketinin kendisi olduğunu savunur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ozeti: 'Conceptualizing this feature as heterodoxy, earlier Turkish scholarship sought the roots of Alevi religiosity in Turkish traditions which traced back to Central Asia ... and in medieval Anatolian Sufi orders'; 'A new line of scholarship has critiqued the earlier conceptualization'; 'In the meantime, the new scholarship too has focused on medieval Anatolian Sufi orders'; 'this paper argues that it was the Safavid-Qizilbash movement ... rather than medieval Sufi orders, that gave birth to Alevi religiosity.' Govde savi Yildirim'a atfediyor, kendi hukmu diye sunmuyor."
+    },
+    {
+      "iddia_id": "i43",
+      "cumle": "1639 Kasrışîrin Antlaşması Osmanlı-İran sınırını geniş ölçüde belirlemiş ve uzun süreli bir barış döneminin başlangıcı olmuştu.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV: '1049'da (1639) Osmanlilar'la imzalanan Kasrisirin (Zuhab) Antlasmasi, Osmanli-Iran sinirini genis olcude belirledigi gibi iki ulke arasinda uzun sureli bir baris doneminin de baslangici oldu.'"
+    },
+    {
+      "iddia_id": "i44",
+      "cumle": "Selim Güngörürler'in makale özetine göre bu tarihten Safevî yönetiminin çöküşüne kadarki ilişkiler, her düzlemde bir kıdemlilik-kıdemsizlik ilkesiyle işleyen hiyerarşik bir temele oturuyordu ve İstanbul ile İsfahan arasındaki Zühâb sonrası ilişkiler hareketli ve canlıydı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref ozeti: 'it illustrates the hierarchical foundation of relations marked by the principle of seniority-juniority on every platform' ve 'thus shows how active and dynamic post-Zuhab relations between Istanbul and Isfahan were'. KUNYE DUZELTMESI: kunye bu makaleyi 'Journal of Persianate Studies' diye gosteriyordu; Crossref kaydinda container-title 'Turkish Historical Review' (Brill, 9/2, 2018). Dergi adi duzeltildi. Ozet iddiayi tasir, ayrintili kaniti tasimaz — guven orta."
+    },
+    {
+      "iddia_id": "i45",
+      "cumle": "Madde, çöküşün Şah Safî döneminde başlayıp Şah Süleyman zamanında hızlandığını söyler ve Sultan Hüseyin'in eğlenceye ayırdığı zamanın saray masraflarını artırdığını kaydeder — hanedan tarihlerine özgü, kişiye bağlı bir açıklama.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "TDV: 'Safevi Devleti'nin Sah Safi doneminde baslayan cokusu Sah Suleyman zamaninda daha da hizlandi' ve Sultan Huseyin icin 'kisa sure sonra eglence ve isrete daha fazla zaman ayirmaya basladi. Bu durum sarayin masraflarini iyice artirdi.' Govde bu aciklamayi benimsemiyor, hanedan tarihciligine ozgu oldugunu soyleyerek isaretliyor — curutucunun tek-kaynakli-nedensellik itirazi bu yuzden REDDEDILDI."
+    },
+    {
+      "iddia_id": "i46",
+      "cumle": "Aynı maddenin başka yerlerinde yapısal veriler durur: XVII. yüzyılın ortalarından itibaren Avrupa'da ipeğe olan ilginin azalması İran ipeğinin değer kaybetmesine yol açmış, Kandehar 1709'da Galzay Afganlılarının eline geçtiğinde Safevî kuvvetleri arasındaki Gürcü-kızılbaş çekişmesi yüzünden geri alınamamıştı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV: 'XVII. yuzyilin ortalarindan itibaren Avrupa'da ipege olan ilginin azalmasi, Iran ipeginin deger kaybetmesine ve ipek ticaretinin giderek onemini yitirmesine sebep olmustur.' ve '1709'da Galzay Afganlilari, Mir Veys kumandasinda Kandehar'i isgal etti. Safevi kuvvetleri arasindaki Gurcu-kizilbas cekismesi yuzunden Kandehar geri alinamadi.'"
+    },
+    {
+      "iddia_id": "i47",
+      "cumle": "Sultan Hüseyin 1722'de İsfahan kuşatmasında kayıtsız şartsız teslim oldu; hanedanın resmî sonu olan 1736 ise, fiilen 1722'de biten bir düzenin kayda geçirilmesinden ibarettir.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "KISMI. Ilk yari dogrudan: 'Sultan Huseyin Sah 30 Muharrem 1135'te (10 Kasim 1722) kayitsiz sartsiz teslim olmak zorunda kaldi.' Ikinci yari ('1736 fiilen 1722'de biten bir duzenin kayda gecirilmesidir') dosyanin cikarimidir; kaynak 1501-1736 araligini ve Abbas III 1732-1736 kaydini verir ama 1736'yi boyle nitelemez. Cikarim makul ama kaynagin sozu degil."
+    },
+    {
+      "iddia_id": "i48",
+      "cumle": "Yerleşik anlatı Safevîleri İran'ın Şiîleştiği an olarak okur ve bu okuma kaynakların kendisinde temellenir: mezhep bir devlet kararıyla ilan edildi, ulemâ dışarıdan getirildi, metinler çevrildi ve destanlar yoluyla yaygınlaştırıldı.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kapanis paragrafinin ozetleme cumlesi; yeni iddia kurmuyor, govdede zaten kaynaklanmis dort olguyu topluyor (mezhep ilani ve ulema daveti k1; destanlar k9). Cerceve paragrafi kurali geregi ikisi de gosterilmis."
+    },
+    {
+      "iddia_id": "i49",
+      "cumle": "Anlatının zayıf yeri, kararın yukarıdan verilmiş olmasını dönüşümün tamamlanmış olmasıyla karıştırmasıdır; kaynağın kendi kaydında politika Muhammed Hudâbende'yle kesintiye uğrayıp geri dönmüştür.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yorum cumlesi, ama dayanagi kaynagin kendi kaydidir: Hudabende yasagi ve tahttan indirilmesinden sonra uygulamanin yeniden baslamasi (i17 ile ayni pasaj). Dosyanin en guclu duzeltici savi ve kaynakli."
+    },
+    {
+      "iddia_id": "i50",
+      "cumle": "Düzenin ikinci mirası ise sınırın öbür tarafında kaldı: kızılbaş adı Osmanlı belgesinde isyancı damgasına dönüşürken aynı hareket, Yıldırım'ın savına göre, bugünkü Alevî dindarlığını doğurdu.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki yarisi da kaynakli: Osmanli belgesinde isyanci damgasi k2'den, Alevi dindarliginin Safevi-kizilbas hareketinden dogdugu savi k6'dan ve acikca Yildirim'a atfedilerek. Kapanis paragrafinda yeni iddia kurulmamis."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 45,
+    "kismi": 5,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

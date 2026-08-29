@@ -1,55 +1,313 @@
 {
   "id": "aktor-safevi-devleti",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:51.392Z",
-  "govde_hash": "4d23820bf9b6",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T19:14:33.747Z",
+  "govde_hash": "af43f5ac32d3",
+  "commit": "f403bfb",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Safevîler, İran'da 1501-1736 yılları arasında hüküm süren bir hanedandır.",
+      "anahtar": "k5",
+      "iddia": "Kathryn Babayan'ın makale künyesindeki özete göre Safevîler 1301'de bir tasavvuf tarikatı olarak başlamış, 1447'de mesihçi bir harekete dönüşmüş, 1501'de dünya ",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Hanedan adını, merkezi Erdebil'de bulunan Safeviyye tarikatının pîri Şeyh Safiyyüddin'den almıştır.",
+      "iddia": "Tebriz'de tahta oturduğunda ilk işi On İki İmam Şiîliğini resmî mezhep ilan etmek ve hutbelerde ilk üç halifeye lânet okunmasını emretmek oldu.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Aynı madde, Safiyyüddin'in etnik kökeninin belirsiz olduğunu açıkça kaydeder.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak konuyu beş başlığa ayırır: siyasî tarih, idare ve teşkilât, üçüncü bir başlık, ilim ve kültür ile sanat.",
+      "iddia": "Ali soyundan geldiği iddiasının ileri sürüldüğünü belirtir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Sanat bölümü, Safevî devrinin İslâm sanat tarihinde İran sanatı içinde çok önemli bir merhale teşkil ettiğini ve dönemin gösterişli sanat eserleriyle temsil edi",
+      "iddia": "Tarikat şeyhliğinin tasavvuf geleneklerine aykırı olarak babadan oğula geçmesi de aynı dönüşümün parçasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ortaya çıkan yapı, şahın aynı anda hem hükümdar hem mürşid-i kâmil sayıldığı, zıllullah fi'l-arz ve nâib-i imam unvanlarını taşıdığı bir düzeniydi; şahın vekill",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şeyh Haydar, müridlerine tarikatın simgesi olarak on iki dilimli kırmızı başlıklar giydirdi; kaynağın deyişiyle bununla hem gücünü açığa vurmuş hem de müridleri",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Aynı yüzyıllarda batıdaki düzen, Batı Anadolu'nun kuzeyinde bir Türkmen beyliği olarak ortaya çıkıp üç kıtaya yayılan ve kurucusunun adıyla anılan devletti.",
-      "durum": "OK",
-      "not": ""
+      "iddia": "yüzyılın son çeyreğinden itibaren ortaya çıktığını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1500'de yaklaşık 503,1 milyon, 1600'de yaklaşık 516,1 milyondur.",
+      "anahtar": "k2",
+      "iddia": "Ali'nin Hayber'de ya da Sıffîn'de kırmızı sarık sarmasına bağlayan rivayetleri ise aynı madde tarihî kaynaklarla doğrulanamaz sayar ve ada bir tür kutsallık kaz",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Hanedanın siyasî tarihi, idari teşkilâtı, mezhep politikası ve Osmanlı ile savaşları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümle",
+      "iddia": "Erdebil tekkesine Anadolu, Suriye ve Azerbaycan'dan büyük kafileler hâlinde gelen ve tekkeye maddî destek sağlayan müridlerin sayısı hızla arttı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu tabanı zamanla devletin askerî omurgasına dönüştü; KIZILBAŞ maddesi adın devlet kurulduktan sonra önce kurucu unsuru, sonra askerî aristokrasiyi ve orduyu ni",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şeyh Haydar'ın kuzeydeki Çerkezler üzerine yaptığı akınlardan elde ettiği ganimeti müridleri arasında paylaştırması, çevresinde yalnız müridlerin değil ganimet ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Safevîler'in ilk döneminde İran'da yaşayanların büyük bölümü Sünnî idi; maddeye göre Şah İsmâil'in aldığı sert tedbirlerle Şiîlik kısa sürede bütün İran'ı kapsa",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dönüşümün nasıl işlediğine dair maddenin verdiği tek somut sahne bir Venedikli tüccarın anlatısıdır: Tebriz Meydanı'nda toplanan halka önce Şiî fıkhı anlatıl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şiî ulemânın azlığı yüzünden Lübnan ve Bahreyn'den âlimler İran'a davet edildi; madde bunun ilk Şiî metinlerinin Arapça kaleme alınmasına ya da Arapçadan Farsça",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Üçüncü kol popüler anlatıydı: Mehmet Dağlar'ın makalesi, Safevîler'in rakiplerini kötüleme, psikolojik baskı ve tamamen ortadan kaldırma gibi yöntemlerle devlet",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Yazar bu son cümleyi kesin bir tespit olarak değil, \"söylenebilir\" kaydıyla kurar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Muhammed Hudâbende zamanında hutbelerde lânet okunması yasaklandı ve bu tür davranışların ortadan kalkması için tedbirler alındı; ancak onun tahttan indirilmesi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şah İsmâil'in ölümünden sonra kızılbaş reisleri arasındaki rekabet devleti felce uğrattı: emîrülümerâlık 1520'lerden 1530'lara Dîv Sultân-ı Rûmlû, Çuha Sultan v",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şahseven adıyla kurulan yeni birlikler, sadakatinden şüphe edilmeyen kızılbaş Türkmenler dışında Gürcü, Çerkez, Ermeni ve diğer Kafkas halklarından küçük yaşta ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu birliklerin kuruluşunda İngiliz elçileri Sherley kardeşlerin etkili olduğu söylenirse de maddeye göre bu husus açık değildir; Safevîler zaten Şah İsmâil döne",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Maddeye göre yeni sistemin dışında kalan kızılbaş Türkmenler, hem ateşli silah kullanmaktan hoşlanmamaları hem de siyasal ve ekonomik güçlerini kaybetmeleri yüz",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Selçuklu iktâ geleneğinin devamı olarak idarecilere ve askerî sınıfa tuyul adıyla araziler tahsis edilirdi; askerî sınıftan olup tuyul alan kişi sipahiliği bıra",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eyaletlerin gelirlerini kızılbaş beylerbeyileri tasarruf ediyor, savaşta kendi kabile erkekleriyle orduya katılıyorlardı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bürokrasi ise Tacik denilen Fars kökenlilerin elindeydi; askerî sınıf ile kalem sınıfı arasındaki bu ayrım devletin kalıcı fay hattıydı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılın ortalarında saray teşkilâtına bağlı otuzdan fazla imalâthanede yaklaşık 5000 sanatkâr çalışıyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Abbas köprüler ve kervansaraylar yaptırarak yol ağını güvenli kılmış, İpek yolunun güzergâhını İsfahan'dan geçirmek için Kevir çölünü kateden bir yol inşa ettir",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şehirlerdeki ticarî hayat Ermeni, yahudi ve Hintli tüccarların elindeydi; yahudilerle Hintliler kıymetli maden ticaretiyle uğraşırken dış ticareti ellerinde tut",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Abbas, Ermeni tüccarların Avrupa bağlantısından yararlanmak için Azerbaycan'ın Culfa şehrindeki Ermenilerin büyük bölümünü İsfahan'a nakletti ve onlara geniş im",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Ina Baghdiantz-MacCabe'nin makale özetine göre Yeni Culfa, 1604'te Abbas tarafından sürülen Culfalı ipek tüccarları için özel olarak yapılmış bir mahalledir; ba",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "yüzyılda yoksullaşarak başka Hristiyanların da yaşadığı bir gettoya dönüştüğünü belirtir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Abbas tarafından tahrip edildiğini, Culfa ve çevresindeki halkın yaşlı genç demeden İran'a sürüldüğünü yazar; verdiği sayıya göre 27.000'den fazla Ermeni ailesi",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Culfa, İran, Ermeni"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "En itibarlı olanlar İsfahan'a yollanmış, şah onları ipek ticaretine koymuş ve mal avans vererek satış dönüşü ödemelerini sağlamış; üçte biri İsfahan ile Şîraz a",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: İsfahan"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Tavernier anlatıyı, yaşlılar öldükçe gençlerin genellikle Müslüman olduğu ve artık o ovalarda iki Hristiyan Ermeniye zor rastlandığı kaydıyla bitirir.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Müslüman, Ermeniye"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Jean Chardin, Culfa Ermenilerinin kethüdasına ait büyük bir elmasın şah tarafından peşin üç bin yüz elli tümene satın alındığını, bunun kaynağın hesabıyla yakla",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Culfa"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı günlük, şahın yarım fersahlık bir yola çıkmak için astrologların belirlediği uğurlu saatte kaldırıldığını da kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Metnin bir yerinde Hollandalıların İran'a gönderdikleri mektupları Batavia valisi ya da Orange prensi adına yazdırdıklarını, çünkü oradakilerin eşit yetkili bir",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: İran"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Ama aynı paragraf gözlemi hemen bir hükme bağlar ve bütün Doğu'nun \"the Yoke of one Man, whose Caprice is a Sovereign Law\" altında yaşamaya alışkın olduğunu söy",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Doğu"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "yüzyıl Avrupa'sının Doğu despotizmi kalıbıdır; elimizdeki metnin 1720'de Fransızcadan çevrilmiş bir baskı olması bu katmanı bir kat daha kalınlaştırır.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Doğu, Fransızcadan"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Maddeye göre İran Devleti kavramı Safevîler'in ilk dönemlerinde müphem kalmış, Memleket-i Îrân tabiri gerçek anlamda ancak Şah Süleyman zamanında kullanılmaya b",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "yüzyıldan itibaren Osmanlılar terimi \"devlet muhalifi ve isyancı zümreler\" anlamında kullandı, sonra ada dinî bir boyut eklenerek kızılbaşlık sapıklık ve inkârc",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Rıza Yıldırım'ın makale özeti bu mirasın bugünkü uzantısını tartışır: eski Türk araştırmalarının Alevîliği \"heterodoksi\" diye kavramsallaştırıp köklerini Orta A",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1639 Kasrışîrin Antlaşması Osmanlı-İran sınırını geniş ölçüde belirlemiş ve uzun süreli bir barış döneminin başlangıcı olmuştu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Selim Güngörürler'in makale özetine göre bu tarihten Safevî yönetiminin çöküşüne kadarki ilişkiler, her düzlemde bir kıdemlilik-kıdemsizlik ilkesiyle işleyen hi",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Madde, çöküşün Şah Safî döneminde başlayıp Şah Süleyman zamanında hızlandığını söyler ve Sultan Hüseyin'in eğlenceye ayırdığı zamanın saray masraflarını artırdı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılın ortalarından itibaren Avrupa'da ipeğe olan ilginin azalması İran ipeğinin değer kaybetmesine yol açmış, Kandehar 1709'da Galzay Afganlılarının eline ge",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sultan Hüseyin 1722'de İsfahan kuşatmasında kayıtsız şartsız teslim oldu; hanedanın resmî sonu olan 1736 ise, fiilen 1722'de biten bir düzenin kayda geçirilmesi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yerleşik anlatı Safevîleri İran'ın Şiîleştiği an olarak okur ve bu okuma kaynakların kendisinde temellenir: mezhep bir devlet kararıyla ilan edildi, ulemâ dışar",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Yerleşik anlatı Safevîleri İran'ın Şiîleştiği an olarak okur ve bu okuma kaynakların kendisinde temellenir: mezhep bir devlet kararıyla ilan edildi, ulemâ dışar",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Anlatının zayıf yeri, kararın yukarıdan verilmiş olmasını dönüşümün tamamlanmış olmasıyla karıştırmasıdır; kaynağın kendi kaydında politika Muhammed Hudâbende'y",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Düzenin ikinci mirası ise sınırın öbür tarafında kaldı: kızılbaş adı Osmanlı belgesinde isyancı damgasına dönüşürken aynı hareket, Yıldırım'ın savına göre, bugü",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Düzenin ikinci mirası ise sınırın öbür tarafında kaldı: kızılbaş adı Osmanlı belgesinde isyancı damgasına dönüşürken aynı hareket, Yıldırım'ın savına göre, bugü",
       "durum": "OK",
       "not": ""
     }

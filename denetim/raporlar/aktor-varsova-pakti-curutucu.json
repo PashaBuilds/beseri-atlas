@@ -1,12 +1,34 @@
 {
   "id": "aktor-varsova-pakti",
   "gecis": 3,
-  "zaman": "2026-08-21T07:17:20.578Z",
+  "zaman": "2026-08-29T19:13:56.708Z",
+  "govde_hash": "59eecf3604b2",
   "itirazlar": [
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Blok yapısına dayanan bütün kurumlar — ittifaklar, sınır rejimleri, kalkınma yardımı mekanizmaları — dayanaklarını kaybeder.[^k1] Kaynak, dönemin ilk evresini 1947-1953 arasına yer",
+      "cumle": "Pakt 1955'te sıfırdan kurulmadı. Rusya Bilimler Akademisi Dünya Tarihi Enstitüsü'nden Nikita Pivovarov'un Sovyetler Birliği Komünist Partisi Merkez Komitesi belgelerine dayanan inc",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Pakt 1955'te sıfırdan kurulmadı. Rusya Bilimler Akademisi Dünya Tarihi Enstitüsü'nden Nikita Pivovarov'un Sovyetler Birliği Komünist Partisi Merkez Komitesi belgelerine dayanan inc",
+      "sorun": "Makale avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Romanya ile Arnavutluk'un 1968'de dışarıda kalması tekil bir olay değildi. Arnavutluk'un kopuşu yıllar öncesine dayanır: dönemin bir kaydı, Mart 1961'de Moskova'da toplanan Siyasi ",
+      "sorun": "Makale avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Csaba Békés bu son evrenin itkisini Moskova'da değil, Doğu-Orta Avrupa başkentlerinde arar. Komünizmin 1989-1990'da tasfiye edilmesinin ardından yeni hükümetler bağımsızlıklarını p",
       "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     }

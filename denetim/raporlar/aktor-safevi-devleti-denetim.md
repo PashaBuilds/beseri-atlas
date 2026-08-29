@@ -1,13 +1,56 @@
 ## aktor-safevi-devleti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:51.392Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:14:33.747Z_
 
-- [OK]      k1 → "Safevîler, İran'da 1501-1736 yılları arasında hüküm süren bir hanedandır."
-- [OK]      k1 → "Hanedan adını, merkezi Erdebil'de bulunan Safeviyye tarikatının pîri Şeyh Safiyyüddin'den almıştır."
-- [OK]      k1 → "Aynı madde, Safiyyüddin'in etnik kökeninin belirsiz olduğunu açıkça kaydeder."
-- [ATOMSUZ] k1 → "Kaynak konuyu beş başlığa ayırır: siyasî tarih, idare ve teşkilât, üçüncü bir başlık, ilim ve kültür ile sanat…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Sanat bölümü, Safevî devrinin İslâm sanat tarihinde İran sanatı içinde çok önemli bir merhale teşkil ettiğini …"
-- [OK]      k2 → "Aynı yüzyıllarda batıdaki düzen, Batı Anadolu'nun kuzeyinde bir Türkmen beyliği olarak ortaya çıkıp üç kıtaya …"
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1500'de yaklaşık 503,1 milyon, 1600'de yaklaşık 516,1 milyondur."
-- [OK]      k1 → "Hanedanın siyasî tarihi, idari teşkilâtı, mezhep politikası ve Osmanlı ile savaşları burada ayrı başlıklar alt…"
+- [OK]      k5 → "Kathryn Babayan'ın makale künyesindeki özete göre Safevîler 1301'de bir tasavvuf tarikatı olarak başlamış, 144…"
+- [OK]      k1 → "Tebriz'de tahta oturduğunda ilk işi On İki İmam Şiîliğini resmî mezhep ilan etmek ve hutbelerde ilk üç halifey…"
+- [ATOMSUZ] k1 → "Ali soyundan geldiği iddiasının ileri sürüldüğünü belirtir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Tarikat şeyhliğinin tasavvuf geleneklerine aykırı olarak babadan oğula geçmesi de aynı dönüşümün parçasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Ortaya çıkan yapı, şahın aynı anda hem hükümdar hem mürşid-i kâmil sayıldığı, zıllullah fi'l-arz ve nâib-i ima…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Şeyh Haydar, müridlerine tarikatın simgesi olarak on iki dilimli kırmızı başlıklar giydirdi; kaynağın deyişiyl…"
+- [ATOMSUZ] k2 → "yüzyılın son çeyreğinden itibaren ortaya çıktığını yazar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Ali'nin Hayber'de ya da Sıffîn'de kırmızı sarık sarmasına bağlayan rivayetleri ise aynı madde tarihî kaynaklar…"
+- [OK]      k1 → "Erdebil tekkesine Anadolu, Suriye ve Azerbaycan'dan büyük kafileler hâlinde gelen ve tekkeye maddî destek sağl…"
+- [OK]      k2 → "Bu tabanı zamanla devletin askerî omurgasına dönüştü; KIZILBAŞ maddesi adın devlet kurulduktan sonra önce kuru…"
+- [OK]      k1 → "Şeyh Haydar'ın kuzeydeki Çerkezler üzerine yaptığı akınlardan elde ettiği ganimeti müridleri arasında paylaştı…"
+- [OK]      k1 → "Safevîler'in ilk döneminde İran'da yaşayanların büyük bölümü Sünnî idi; maddeye göre Şah İsmâil'in aldığı sert…"
+- [OK]      k1 → "Bu dönüşümün nasıl işlediğine dair maddenin verdiği tek somut sahne bir Venedikli tüccarın anlatısıdır: Tebriz…"
+- [OK]      k1 → "Şiî ulemânın azlığı yüzünden Lübnan ve Bahreyn'den âlimler İran'a davet edildi; madde bunun ilk Şiî metinlerin…"
+- [OK]      k9 → "Üçüncü kol popüler anlatıydı: Mehmet Dağlar'ın makalesi, Safevîler'in rakiplerini kötüleme, psikolojik baskı v…"
+- [ATOMSUZ] k9 → "Yazar bu son cümleyi kesin bir tespit olarak değil, "söylenebilir" kaydıyla kurar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Muhammed Hudâbende zamanında hutbelerde lânet okunması yasaklandı ve bu tür davranışların ortadan kalkması içi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Şah İsmâil'in ölümünden sonra kızılbaş reisleri arasındaki rekabet devleti felce uğrattı: emîrülümerâlık 1520'…"
+- [OK]      k1 → "Şahseven adıyla kurulan yeni birlikler, sadakatinden şüphe edilmeyen kızılbaş Türkmenler dışında Gürcü, Çerkez…"
+- [OK]      k1 → "Bu birliklerin kuruluşunda İngiliz elçileri Sherley kardeşlerin etkili olduğu söylenirse de maddeye göre bu hu…"
+- [OK]      k1 → "Maddeye göre yeni sistemin dışında kalan kızılbaş Türkmenler, hem ateşli silah kullanmaktan hoşlanmamaları hem…"
+- [ATOMSUZ] k1 → "Selçuklu iktâ geleneğinin devamı olarak idarecilere ve askerî sınıfa tuyul adıyla araziler tahsis edilirdi; as…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Eyaletlerin gelirlerini kızılbaş beylerbeyileri tasarruf ediyor, savaşta kendi kabile erkekleriyle orduya katı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Bürokrasi ise Tacik denilen Fars kökenlilerin elindeydi; askerî sınıf ile kalem sınıfı arasındaki bu ayrım dev…"
+- [OK]      k1 → "yüzyılın ortalarında saray teşkilâtına bağlı otuzdan fazla imalâthanede yaklaşık 5000 sanatkâr çalışıyordu."
+- [OK]      k1 → "Abbas köprüler ve kervansaraylar yaptırarak yol ağını güvenli kılmış, İpek yolunun güzergâhını İsfahan'dan geç…"
+- [OK]      k1 → "Şehirlerdeki ticarî hayat Ermeni, yahudi ve Hintli tüccarların elindeydi; yahudilerle Hintliler kıymetli maden…"
+- [OK]      k1 → "Abbas, Ermeni tüccarların Avrupa bağlantısından yararlanmak için Azerbaycan'ın Culfa şehrindeki Ermenilerin bü…"
+- [OK]      k7 → "Ina Baghdiantz-MacCabe'nin makale özetine göre Yeni Culfa, 1604'te Abbas tarafından sürülen Culfalı ipek tücca…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k7 → "yüzyılda yoksullaşarak başka Hristiyanların da yaşadığı bir gettoya dönüştüğünü belirtir."
+- [ISARET]  k3 → "Abbas tarafından tahrip edildiğini, Culfa ve çevresindeki halkın yaşlı genç demeden İran'a sürüldüğünü yazar; …" — özel isim kaynakta bulunamadı: Culfa, İran, Ermeni
+- [ISARET]  k3 → "En itibarlı olanlar İsfahan'a yollanmış, şah onları ipek ticaretine koymuş ve mal avans vererek satış dönüşü ö…" — özel isim kaynakta bulunamadı: İsfahan
+- [ISARET]  k3 → "Tavernier anlatıyı, yaşlılar öldükçe gençlerin genellikle Müslüman olduğu ve artık o ovalarda iki Hristiyan Er…" — özel isim kaynakta bulunamadı: Müslüman, Ermeniye
+- [ISARET]  k4 → "Jean Chardin, Culfa Ermenilerinin kethüdasına ait büyük bir elmasın şah tarafından peşin üç bin yüz elli tümen…" — özel isim kaynakta bulunamadı: Culfa
+- [ATOMSUZ] k4 → "Aynı günlük, şahın yarım fersahlık bir yola çıkmak için astrologların belirlediği uğurlu saatte kaldırıldığını…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ISARET]  k4 → "Metnin bir yerinde Hollandalıların İran'a gönderdikleri mektupları Batavia valisi ya da Orange prensi adına ya…" — özel isim kaynakta bulunamadı: İran
+- [ISARET]  k4 → "Ama aynı paragraf gözlemi hemen bir hükme bağlar ve bütün Doğu'nun "the Yoke of one Man, whose Caprice is a So…" — özel isim kaynakta bulunamadı: Doğu
+- [ISARET]  k4 → "yüzyıl Avrupa'sının Doğu despotizmi kalıbıdır; elimizdeki metnin 1720'de Fransızcadan çevrilmiş bir baskı olma…" — özel isim kaynakta bulunamadı: Doğu, Fransızcadan
+- [OK]      k1 → "Maddeye göre İran Devleti kavramı Safevîler'in ilk dönemlerinde müphem kalmış, Memleket-i Îrân tabiri gerçek a…"
+- [OK]      k2 → "yüzyıldan itibaren Osmanlılar terimi "devlet muhalifi ve isyancı zümreler" anlamında kullandı, sonra ada dinî …"
+- [OK]      k6 → "Rıza Yıldırım'ın makale özeti bu mirasın bugünkü uzantısını tartışır: eski Türk araştırmalarının Alevîliği "he…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "1639 Kasrışîrin Antlaşması Osmanlı-İran sınırını geniş ölçüde belirlemiş ve uzun süreli bir barış döneminin ba…"
+- [OK]      k8 → "Selim Güngörürler'in makale özetine göre bu tarihten Safevî yönetiminin çöküşüne kadarki ilişkiler, her düzlem…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Madde, çöküşün Şah Safî döneminde başlayıp Şah Süleyman zamanında hızlandığını söyler ve Sultan Hüseyin'in eğl…"
+- [OK]      k1 → "yüzyılın ortalarından itibaren Avrupa'da ipeğe olan ilginin azalması İran ipeğinin değer kaybetmesine yol açmı…"
+- [OK]      k1 → "Sultan Hüseyin 1722'de İsfahan kuşatmasında kayıtsız şartsız teslim oldu; hanedanın resmî sonu olan 1736 ise, …"
+- [OK]      k1 → "Yerleşik anlatı Safevîleri İran'ın Şiîleştiği an olarak okur ve bu okuma kaynakların kendisinde temellenir: me…"
+- [OK]      k9 → "Yerleşik anlatı Safevîleri İran'ın Şiîleştiği an olarak okur ve bu okuma kaynakların kendisinde temellenir: me…"
+- [OK]      k1 → "Anlatının zayıf yeri, kararın yukarıdan verilmiş olmasını dönüşümün tamamlanmış olmasıyla karıştırmasıdır; kay…"
+- [OK]      k6 → "Düzenin ikinci mirası ise sınırın öbür tarafında kaldı: kızılbaş adı Osmanlı belgesinde isyancı damgasına dönü…"
+- [OK]      k2 → "Düzenin ikinci mirası ise sınırın öbür tarafında kaldı: kızılbaş adı Osmanlı belgesinde isyancı damgasına dönü…"
 
-**Özet:** 7 OK · 0 ISARET · 0 HATA · 1 ATOMSUZ
+**Özet:** 35 OK · 7 ISARET · 0 HATA · 9 ATOMSUZ

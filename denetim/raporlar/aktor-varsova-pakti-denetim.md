@@ -1,24 +1,26 @@
 ## aktor-varsova-pakti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T17:42:34.804Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:13:56.183Z_
 
 - [OK]      k1 → "Antlaşmayı Arnavutluk, Bulgaristan, Macaristan, Alman Demokratik Cumhuriyeti, Polonya, Romanya, Sovyetler Birl…" — 2 atom doğrulandı; 3 ad ölçülemedi
-- [ATOMSUZ] k4 → "Örgütün resmî adı Varşova Antlaşması Örgütü'ydü; "Varşova Paktı" sonradan yerleşen kısa addır." — programatik olarak ölçülemedi (ad karşılığı yok): Varşova, Antlaşması, Örgütü, Paktı
+- [ATOMSUZ] k4 → "Örgütün adı Varşova Antlaşması Örgütü'ydü; karşı bloğun kaydı "Varşova Paktı"nı bunun öbür adı olarak verir." — programatik olarak ölçülemedi (ad karşılığı yok): Varşova, Antlaşması, Örgütü
 - [OK]      k1 → "İttifakın otuz altı yıllık ömrünü tuhaf kılan şey şudur: antlaşmanın merkezine yerleştirilen durum, Avrupa'da …" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k4 → "Karşı tarafın dışişleri bakanlığının kendi kaydı bunu açıkça söyler: üyeler birbirlerini savunmaya söz vermiş,…" — 4 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k4 → "Aynı kayıt 1955'teki Sovyet hesabını da ikiye ayırır: yeniden silahlanan Batı Almanya'yı çevrelemek ve ile eşi…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k4 → "Aynı kayıt 1955'teki Sovyet hesabını da ikiye ayırır: yeniden silahlanan Batı Almanya'yı çevrelemek ve NATO il…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "Federal Almanya Mayıs 1955'in başında NATO'ya girmiş, antlaşma aynı ayın on dördünde imzalanmıştı." — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Antlaşmanın kendi girişi de bu gerekçeyi yazar: Paris anlaşmalarının onaylanmasıyla Avrupa'da doğan durum, yan…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Yardım yükümlülüğünü kuran 4. madde yalnızca Avrupa'daki silahlı saldırıyı kapsar; saldırıya uğrayan tarafa ya…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "5. madde bir Birleşik Komutanlık kurar, ama bu komutanlığa hangi kuvvetlerin verileceğini tarafların kendi ara…" — programatik olarak ölçülemedi (ad karşılığı yok): Birleşik, Komutanlık
-- [ATOMSUZ] k1 → "6. madde tek ortak siyasi organı, Siyasi Danışma Komitesi'ni oluşturur; her taraf burada bir hükümet üyesiyle …" — programatik olarak ölçülemedi (ad karşılığı yok): Siyasi, Danışma, Komitesi
-- [ATOMSUZ] k1 → "8. madde ise tarafların birbirlerinin bağımsızlığına, egemenliğine ve iç işlerine karışmama ilkesine bağlı kal…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "6. madde ortak siyasi organı, Siyasi Danışma Komitesi'ni oluşturur; her taraf burada bir hükümet üyesiyle ya d…" — programatik olarak ölçülemedi (ad karşılığı yok): Siyasi, Danışma, Komitesi
+- [ATOMSUZ] k1 → "8. madde ise tarafların iktisadi ve kültürel ilişkilerini geliştirirken birbirlerinin bağımsızlığına, egemenli…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Ve Avrupa'da bir toplu güvenlik sistemi kurulup Genel Avrupa Toplu Güvenlik Antlaşması yürürlüğe girerse, ki t…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "9. madde de üyeliği toplumsal ve siyasal sistemi ne olursa olsun her devlete açık tutuyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Avalon derlemesinin yayımladığı çeviri Sovyet dergisi New Times'ın 21 Mayıs 1955 tarihli sayısından alınmıştır…" — 3 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k1 → "Yani Avalon'da duran İngilizce metin, tarafın kendi yayın organından aktarılmış bir çeviridir." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Avalon'un yayımladığı metin, ABD Dışişleri Bakanlığı'nın 1957'de bastığı American Foreign Policy 1950-1955 bel…" — 5 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k1 → "Aktarım halkası iki adımlıdır: taraf devletin kendi haftalık dergisinden karşı tarafın belge derlemesine, orad…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k8 → "Rusya Bilimler Akademisi Dünya Tarihi Enstitüsü'nden Nikita Pivovarov'un Sovyetler Birliği Komünist Partisi Me…" — 6 atom doğrulandı; 4 ad ölçülemedi
 - [OK]      k8 → "Sosyalist kamp 1950'lerin ortasına gelindiğinde savunma sanayii bakımından üretici ülkelere — Sovyetler Birliğ…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k8 → "İthalat ve ihracat ile sanayi işbirliği ikili anlaşmalarla düzenleniyor, savunmanın genel ilkeleri ise Siyasi …" — programatik olarak ölçülemedi (ad karşılığı yok): Siyasi, Danışma, Komitesi, Birleşik
 - [OK]      k8 → "Pivovarov'un çekincesini de taşımak gerekir: Sovyetler Birliği'nin askerî bütünleşmedeki baskın rolüne rağmen,…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k2 → "Paralel Tarih Projesi'nin sekiz kurucu üyenin tamamının arşivlerinden derlediği 193 belge, ittifakın içeriden …" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Paralel Tarih Projesi'nin sekiz kurucu üyenin tamamının arşivlerinden derlediği 193 belge, derlemeyi duyuran a…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Derlemeye göre 1960'lardan başlayarak savunma harekâtı planlarından Batı Avrupa'nın derinliklerine saldırı pla…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k2 → "Sovyet planlamacıları geleneksel bir çatışmanın nükleere dönmesini bekliyor ve böyle bir savaşı verip kazanmay…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Üye devletler Sovyet hâkimiyetinden ve üzerlerine yıkılan eşitsiz askerî yükten derin bir hoşnutsuzluk duyuyor…" — 1 atom doğrulandı; 3 ad ölçülemedi
@@ -31,6 +33,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T17:42:34.804Z_
 - [OK]      k3 → "Antlaşmanın 11. maddesi fesih için Polonya hükümetine bir yıl önceden bildirim öngörüyordu; Nagy'nin 1 Kasım i…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k3 → "31 Ekim'de Pravda'da yayımlanan bildiri Sovyet hükümetinin Macar hükümeti ve diğer Varşova Antlaşması üyeleriy…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k3 → "Gizliliği kaldırılmış belgelerden çıkan etkenleri derleme sayarak verir: ayaklanmanın Macaristan'da komünist i…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Derleme bu dörde bir de Macar liderliğinin kendi içindeki gelişmeleri ekler; ona göre bunlar da Moskova'nın ka…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kurucu metindeki karışmama ilkesiyle üyenin topraklarındaki harekât arasındaki açı, karşı bloğun kaydının sayd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k4 → "Kurucu metindeki karışmama ilkesiyle üyenin topraklarındaki harekât arasındaki açı, karşı bloğun kaydının sayd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k5 → "Zdeněk Veselý bu adlandırmaya itiraz eder: müdahale kararı Paktın en yüksek organı olan Siyasi Danışma Komites…" — programatik olarak ölçülemedi (ad karşılığı yok): Paktın, Siyasi, Danışma, Komitesi
@@ -40,6 +43,11 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T17:42:34.804Z_
 - [OK]      k6 → "Leon Romaniecki'nin 1970 tarihli incelemesi doktrinin kaynağını Sovyet Dışişleri Bakanı Gromiko'nun 27 Haziran…" — 3 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k6 → "Brejnev Doktrini adıyla anılan formülasyonun kendisi ise 26 Eylül 1968'de Pravda'da yayımlanan makalede kuruld…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k6 → "Doktrin her sosyalist devletin sınırlı egemenliğini teyit etmeyi ve Varşova Paktı üyelerinin Çekoslovakya'daki…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k12 → "Arnavutluk'un kopuşu yıllar öncesine dayanır: dönemin bir kaydı, Mart 1961'de Moskova'da toplanan Siyasi Danış…" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k11 → "Elidor Mëhilli'nin incelemesi kopuşun çerçevesini verir: 1960'lardaki Çin-Sovyet bölünmesi birleşik bir sosyal…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k11 → "Kurucu sekiz addan biri, o bölünmeyle birlikte başka bir merkeze bağlandı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k10 → "Csaba Békés blok içi dış politika eşgüdümünü, dışarıdan görünmeyen bir lobi mücadelesi olarak okur: güvenlik o…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "Bu tabloda ittifak, Moskova'nın buyruklarını ileten bir aygıt değil, içinde pazarlık yürüyen bir yapıdır; 1968…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k9 → "Mihail Gorbaçov'un 1985'te iktidara geldiği sırada Pakt hâlâ sağlam bir askerî ittifaktı: Avrupa'da büyük ölçe…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k9 → "Nisan 1985'te liderler Varşova'da toplanıp Paktı otuz yıl daha yeniledi." — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k9 → "Altı yıl sonra ittifak dağıtıldı; Mark Kramer bunu 1989-1990'daki siyasi dönüşümün örgütü işlevsiz kılmasına b…"
@@ -55,4 +63,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T17:42:34.804Z_
 - [OK]      k6 → "Adlandırma da hâlâ çekişmelidir: 1968 harekâtı bir Varşova Paktı müdahalesi diye anılmayı sürdürüyor, oysa kar…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Örgütün otuz altı yılı, kurucu metnin taahhütleriyle uygulamanın açısında geçti; bu açıyı 1955'te fark etmek z…"
 
-**Özet:** 37 OK · 0 ISARET · 0 HATA · 16 ATOMSUZ
+**Özet:** 43 OK · 0 ISARET · 0 HATA · 18 ATOMSUZ

@@ -1,0 +1,645 @@
+{
+  "id": "aktor-emevi-hilafeti",
+  "govde_hash": "03b1979be4c5",
+  "commit": "f403bfb",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Emevîler, Hulefâ-yi Râşidîn'den sonra 661-750 arasında hüküm süren ilk İslâm hânedanıdır ve adını kurucusu Muâviye b. Ebû Süfyân'ın mensup olduğu Benî Ümeyye kabilesinden alır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 tanim satiri birebir: \"Hulefa-yi Rasidin'den sonra 661-750 yillari arasinda hukum suren ilk Islam hanedani\". 'ilk' bir hakem uydurmasi degil, maddenin kendi nitelemesidir; ayrica madde 632-661'i ayri bir evre sayar. Ad kaynagi da birebir: \"adini kurucusu Muaviye b. Ebu Sufyan'in mensup oldugu Beni Umeyye ... kabilesinden almistir\"."
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Ayırt edici yanı, halifelik makamını mutlak verasete dayalı bir hükümdarlığa dönüştürmesi ve biat uygulamasını yalnızca biçim olarak sürdürmesidir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: \"Halifelik muessesesini mutlak verasete dayali bir hukumdarlik haline donusturen Emeviler biat uygulamasini seklen de olsa devam ettirmislerdir.\""
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Devlet gücünün tamamı halifede toplandığı için vezirlik bu dönemde hukuki bir statü kazanmadı; buna karşılık halifenin görüşmelerini düzenleyen hâciblik görevi ihdas edildi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 birebir. KIRPMA BEYANI: kaynak hacibin uc gorevini sayar (halifenin guvenligi, halk tarafindan mesgul edilmesini onleme, gorusmeleri duzenleme); govde tanitici tek gorevi tutuyor, sayim iddiasi kurmuyor."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Emevîler, fethedilen yerleri merkezî bir vergi kaydına bağladılar ve bu kayıt, tebaayı din ve soy üzerinden tabakalara ayırdı: müslümanlar, cizye ödeyen zimmîler ve köleler; müslümanlar da fâtih Araplar ile mevâlî denilen Arap olmayan müslümanlar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: \"Emeviler zamaninda Islam toplumu muslumanlar, zimmiler ve koleler olmak uzere baslica uc tabakadan meydana geliyor, cogunlugu teskil eden muslumanlar da ... fatih Araplar'la ... 'mevali' denilen Arap disi unsurlara ayriliyordu.\" HAKEM DUZELTMESI: cumle onceden \"Arapca tutulan bir vergi kaydi\" diyordu; bu hem kaynakta yok hem de dosyanin kendi 'divan defterleri Suriye'de Rumca, Iran'da Farsca tutuluyordu' (k3) cumlesiyle celisiyordu. 'merkezi' yapildi."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Bu ayrım devleti finanse etti; aynı ayrım, hânedanı deviren Abbâsî ihtilâline kaynağın ifadesiyle \"damgasını vuran\" kitleyi de üretti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "HAKEM DUZELTMESI: cumle onceden \"en genis destekci kitlesini de uretti\" diyordu; k2 boyle bir ustunluk olcusu vermez, \"Abbasi ihtilal hareketine yaptigi buyuk yardimla ... onemli rol oynamistir\" ve \"Abbasi ihtilaline damgasini vurdu\" der. Cumle kaynagin ifadesine indirildi. Destek KISMI: ikinci onerme k2'de birebir var, birinci onerme (ayrimin devleti finanse etmesi) k2'de dolayli durur (Haccac'in cizye/harac geliri dusunce cizyeyi mevaliden almayi surdurmesi); fey kalemlerinin dogrudan kaydi k1'dedir ve ayni paragrafta gosterilir."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Hz. Ömer zamanında Dımaşk valiliğine, Hz. Osman zamanında 24 (645) yılında Suriye umumi valiliğine getirilmişti; Hz. Ali'ye biat etmeyi reddetti ve Hz. Osman'ın kanını dava etmek şartıyla Şam halkından biat aldı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: \"Dimask valiligine getirildi. Hz. Osman zamaninda 24 (645) yilinda Suriye umumi valisi oldu ... Hz. Ali'ye biat etmedi ... bunu gerceklestirmek sartiyla Sam halkindan biat aldi.\" HAKEM DUZELTMESI: govde \"kendi adina biat aldi\" diyordu; kaynak biati Osman'in kanini dava etme SARTINA baglar. Sart geri kondu."
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "TDV maddesinin değerlendirmesine göre İslam öncesinde Bizans yönetiminde yaşamış, düzenli devlet kurumuna ve askerî disipline alışkın Suriye halkı bu saltanatı kendi geleneğine göre meşru buldu ve Kur'an ile Sünnet'e uygunluğu bakımından eleştirmeye gerek görmedi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 birebir; govde bunu maddenin DEGERLENDIRMESI diye cerceveliyor, olgu gibi vermiyor. Kirpma: kaynak \"askeri ve siyasi disipline asina\" der, govde 'siyasi'yi dusurmus; sav degismiyor."
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Muâviye'nin siyaseti \"hilim\" diye adlandırılır: kuvvete ancak çok zor durumlarda başvurur, muhaliflerine onların anlayacağı dilden konuşurdu — ama Ziyâd b. Ebîh örneğinde olduğu gibi valilerinin sertliğine göz yumuyor, zaman zaman bunu teşvik ediyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: \"Muaviye, muhalifleriyle anlasabilmek icin onlarin anlayacagi dilden konusmayi prensip edinmisti. Siyasetinin inceligi 'hilim' idi; kuvvete cok zor durumlarda basvururdu. Ancak Ziyad b. Ebih orneginde oldugu gibi valilerinin sertligine goz yumuyor, zaman zaman bunu tesvik ediyordu.\" Kaynagin kendi kayitli cekincesi ('ancak...') govdede korunmus."
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Aynı madde, hânedanın kendi çevresinin dışında meşruiyetinin ne kadar zayıf kaldığını da kaydeder: halifeler istişareye ve ehliyete dayanan bir düzeni kuvvete ve verasete dayanan bir saltanatla değiştirdikleri için eleştirildiler ve Şiî ile Hâricî ayaklanmaları hânedanın ömrü boyunca sürdü.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: ilk dort halifenin seciminde \"istisare yolu ile secilme prensipleri\" gecerliydi; Muaviye'nin hilafeti \"kilicinin kuvvetiyle\" kazanmasi hilafet sisteminin ozunde buyuk degisiklik yaratti; Sii ve Harici ayaklanmalari madde boyunca hanedanin omru boyunca kayitli."
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Merkezde iş, divanlar üzerinden yürüdü: resmî yazışmalar için Dîvânü'r-resâil, halifenin mektupları için Dîvânü'l-hâtem, mali işler için Dîvânü'l-harâc, posta ve istihbarat için Dîvânü'l-berîd, askerî işler için Dîvânü'l-cünd.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1'de bes divan ayni sirayla birebir sayilir; liste kirpilmamis."
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Devletin başlıca gelir havuzu olan fey dört kalemden oluşuyordu: gayri müslim erkeklerden kişi başına alınan cizye, savaşla alınıp eski sahiplerinin elinde bırakılan topraklardan tahakkuk eden haraç, barışla kazanılan topraklara konan vergi ve müslüman ile gayri müslim tüccarların mallarından farklı oranlarda alınan uşûr.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 dort kalemi birebir sayar. HAKEM DUZELTMESI (liste kirpmasi): govde usuru \"tuccar mallarindan alinan\" diye kisaltmisti; kaynak \"musluman ve gayri muslim tuccarlarin mallarindan FARKLI ORANLARDA\" der. Dusen ayrint, dosyanin kendi tabakalasma savini tasidigi icin geri kondu."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Ya'kūbî'ye göre Şam vergi bölgesinden toplanan haraç 1.430.000 dinara ulaşıyordu; Sevâd bölgesinin yıllık haracı Ubeydullah b. Ziyâd'ın valiliğinde 135 milyon dirhemken Emevîler'in son zamanlarında 100 milyon civarına, Mısır haracı 14 milyon dinardan Süleyman devrinde 12 milyona indi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Uc rakam da k1'de birebir; 1.430.000 icin madde Ya'kubi'yi (Tarih, II, 233) gosterir, govde aktarim halkasini yaziyor. Kirpma beyani: kaynak 14 milyonluk Misir rakamini Abdullah b. Sa'd b. Ebu Serh'in valiligine baglar, govde valiyi anmiyor. Rakamlar seri degil tek tek kayitlardir; guven 'orta'."
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Maddenin kendisi bu düşüşlerin nedenini kesin söylemez: Şam'daki azalma için haracî arazinin bir bölümünün öşrî araziye dönüşmesi ve ziraatın ihmal edilmesi olsa gerektir der, Mısır'daki düşüşü ise bölgedeki karışıklıklarla ilgili görüldüğünü söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: \"bunun sebebi, haraci arazilerin bir bolumunun zekata tabi osri araziye donusturulmesi ve ziraatin ihmali OLSA GEREKTIR\" (Sam bolgesi icin) ve Misir icin \"bolgede cikan karisikliklar yuzunden ziraatin ihmal edilmesiyle ILGILI GORULMEKTEDIR\". HAKEM DUZELTMESI: govde iki aciklamayi ayirmadan tek bir dususe bagliyordu; Sam kaydi ayrildi. Kaynagin kendi tereddut kipi ('olsa gerektir') korunmus."
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Aynı çekince merkeze giden paylar için de geçerlidir: Ziyâd b. Ebîh'in 60 milyon dirhemlik Basra gelirinden 4 milyonu, 40 milyonluk Kûfe gelirinden 4 milyonun üçte ikisini, Mısır valisinin de 600.000 dinarı Dımaşk'a yolladığı bilinir, ancak maddeye göre bu tutarların içinde muhtemelen cizye ve öşür de vardır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 birebir (Necde Hammas, s. 315-317). Kaynagin cekincesi \"Herhalde bu rakamlarin icinde ... cizye, harac ve osur vergileri de bulunuyordu\" govdede korunmus. Misir valisi kaynakta adliydi (Mesleme b. Muhalled); govde adsiz biraktigi icin hayalet ad uretmiyor."
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Deyrülcemâcim Savaşı'nda bütün divanların yanması, Emevîler zamanında divanın nasıl işlediğinin bilinmesini engellemektedir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 birebir. Bu, dosyanin kaynak-elestirisi cercevesinin dayanagi: mali kaydin kendisi ayakta degil."
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Mevâlî terimi başlangıçta iki grubu kapsıyordu: âzat edilmiş savaş esirleri ve bir Arap kabilesiyle himaye akdi yaparak onun mevlâsı sayılan gayri Arap müslümanlar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2: \"Mevali esas itibariyle iki gruba ayriliyordu\" — birinci grup sahsi azatlilar (mevali'l-itaka), ikinci grup vela (himaye) akdiyle bagli gayri Arap muslumanlar."
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Sayıları artıp kabile himayesine ihtiyaç kalmayınca terimin kapsamı genişledi ve Arap olmayan bütün müslümanları içine aldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2: \"sayilari giderek cogalinca artik Arap kabilelerinin himayesine ihtiyac duymamaya basladilar ... mevali kavraminin kapsami genislemistir.\" 'butun' olcusu k1'de birebir durur: \"aslen Arap olmayan muslumanlarin tamamini icine almistir\"."
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Ölçek tek tek rakamlardan okunur ve maddenin verdiği halka görünür: Dîneverî'ye göre Muâviye zamanında yalnız Kûfe'de 20.000 mevâlî yaşıyordu; Taberî'ye göre Abdülmelik devrinde İbnü'l-Eş'as'ın 200.000 kişilik ordusunun yarısına yakınını mevâlî askerler oluşturuyordu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k2 birebir ve kendi halkasini verir: (Dineveri, s. 288) ve (Taberi, VI, 347). HAKEM DUZELTMESI: govde iki ravinin adini yazmiyordu; ansiklopediden aktarilan birincil kayit gizli kalmasin diye halka metne kondu. Guven 'orta': ikisi de Abbasi cagi derlemeleridir."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Hukuken müslüman olan mevâlî Araplarla eşitti ve Hz. Ömer maaş sisteminde onlara eski efendileriyle aynı miktarı bağlamıştı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2: \"Mevali Islamiyet'i kabul etmekle hukuken musluman Araplar'la esit hale geliyordu\" ve \"Hz. Omer maas sistemini kurarken mevaliyi ... eski efendileriyle ayni seviyede tutmus ve onlara ayni miktarda maas baglamistir.\" Dosyanin mekanizmasinin dayanagi: hukuki esitlik ile fiili durum arasindaki fark."
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "İhtida hızlanıp cizye ve haraç geliri düşünce Haccâc, müslüman olanlardan kaldırılması gereken cizyeyi mevâlîden almayı sürdürdü; uygulama Ömer b. Abdülazîz döneminde durduruldu, ondan sonra yeniden konuldu ve Horasan valisi Nasr b. Seyyâr tarafından kaldırıldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2 birebir: \"ihtida hareketleri hizlaninca cizye ve harac gelirinin azaldigini goren Haccac, Islam'a girenlerden kaldirilmasi gereken cizye vergisini mevaliden almaya devam etmis ... Omer b. Abdulaziz'den sonra tekrar konulan bu vergi Horasan Valisi Nasr b. Seyyar tarafindan kaldirilmistir.\" Mevali sorununun mali mekanizmasi budur."
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Cizyeyi sürdüren Haccâc tarımı güçlendirmek gerekçesiyle mevâlînin şehirlere göçünü de yasaklamış, gelmiş olanları zor kullanarak köylerine geri göndermişti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI — YANLIS ATIF: govde \"Ayni vali tarimi guclendirmek gerekcesiyle...\" diyordu; oncesindeki cumlenin son adlandirilmis valisi Nasr b. Seyyar oldugu icin eylem ona baglaniyordu. k2 bunu acikca HACCAC'a baglar: \"Ote yandan Haccac tarimi guclendirmek icin mevalinin sehirlere gocunu yasaklamis, onceden sehirlere gelmis olanlari da zor kullanarak koy ve kasabalarina geri gondermistir.\" Ad birebir kondu."
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "MEVÂLÎ maddesi Emevîler'in mevâlîye ikinci sınıf tebaa muamelesi yaptığını doğrudan söyler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2 birebir: \"Emeviler'in mevaliye ikinci sinif tebaa muamelesi yapmasi ve irki faktorlerin on plana cikarilmasi Araplar'la mevali arasindaki kirilmayi derinlestirdi.\""
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "EMEVÎLER maddesi ise aynı olguyu kabul ettikten sonra yumuşatır: bunu devletin resmî siyaseti olmaktan çok hâkim sınıf ile öteki güç odakları arasındaki rekabetin yansıması saymanın da mümkün olduğunu söyler ve mevâlînin isyanlara katılmasını yalnız ırk etkenine bağlamanın doğru olmadığını, mezhep ayrılıklarının, bölgesel farkların ve toplumsal sıkıntıların da rol oynadığını, hiçbir ayaklanmanın her yönüyle bir mevâlî isyanı sayılamayacağını ekler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 birebir: \"Emeviler'in mevaliye karsi bu yaklasimini, devletin resmi politikasi olmaktan ziyade hakim sinif ile diger guc odaklari arasindaki rekabetin bir yansimasi seklinde degerlendirmek de mumkundur\" ve \"verilen destegi sadece irk faktorune baglamak dogru degildir; mezhep ihtilaflari, bolgesel farkliliklar ve cesitli sosyal sikintilar da buna tesir etmistir. Ayrica bu ayaklanmalardan herhangi birini her yonuyle bir mevali isyani olarak gormek de mumkun degildir.\" GIZLENEN TARTISMA YOK: iki TDV maddesi ayni imzayi tasidigi halde ayrisiyor ve dosya ikisini birden tutuyor."
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Zimmîler cizye karşılığında askerlikten muaf tutuluyor, can, mal ve din güvencesi kazanıyor, müslümanları ilgilendiren davalar dışında kendi hukukları ve dinî liderleriyle yönetiliyorlardı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 birebir."
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "TDV maddesi bunu geniş bir hoşgörü olarak okur ve Muâviye'den başlayarak hıristiyan maliyecilerle hâkimlerin görevlendirildiğini, Ömer b. Abdülazîz'in halifeliği dışında zimmîlerin sarayda bile istihdam edildiğini kaydeder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: \"Emeviler doneminde genis bir musamahadan faydalanan zimmiler, Omer b. Abdulaziz'in halifelik suresi haric sarayda dahi istihdam edilmislerdir ve ilk once devletin kurucusu Muaviye tarafindan hiristiyan maliyecilerle hakimlere gorev verilmistir.\" Govde bunu maddenin OKUMASI diye cerceveliyor, olgu diye degil."
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Aynı madde, köleliğin kaynağının savaş esirleriyle sınırlandığını ve Hz. Ömer'in Irak, Suriye ve Mısır halkını köle değil hür tebaa saydığını Belâzürî'ye dayanarak aktarır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: \"bu sinifin kaynaklarini savas esirleriyle sinirlandirmistir\" ve \"Hz. Omer Irak, Suriye ve Misir halkini ikinci statuye koyup onlari hur kabul etmistir (Belazuri, Futuh, s. 627)\". Aktarim halkasi govdede yazili."
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Fetih sonrası Mısır köylerinden kalan papirüsler üzerine çalışan Papaconstantinou, kırsal hıristiyan nüfusun kendini önce köy topluluğuna ait saydığını ve otoritenin hâlâ dünyevi seçkinlerin elinde olduğunu savunur; ona göre bu, kilisenin öncelikli konumunu anlatan sonraki anlatı kaynaklarıyla çelişir, çünkü o kaynaklar dokuzuncu yüzyıl ve sonrasının gerçekliğini geriye yansıtmaktadır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref abstract birebir: \"the primary communal self-ascription of the rural Christian population was to their village communities, and that authority was still firmly in the hands of secular elites. Based on evidence from papyri, this contradicts the later narrative sources ... a reality they retroject from the ninth century and later.\" Muellif adi API'de birebir (Arietta Papaconstantinou) — hayalet ad yok. Guven 'orta': dogrulama ozet duzeyindedir, bolumun govdesi bu ucta yok; govde de zaten iddiayi yazarina baglayarak veriyor."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Maddeye göre Abdülmelik b. Mervân zamanında başarıya ulaştırılan önemli işlerden biri ilk İslâmî sikkenin bastırılmasıdır; o tarihe kadar İslam ülkelerinde Bizans ve Sâsânî paraları tedavüldeydi ve altın dinar ile gümüş dirhemin basılmasıyla bunlar tedavülden kalktı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI (curutucu itirazi KABUL EDILDI, tip ustunluk-iddiasi): govde \"Abdulmelik b. Mervan'in EN KALICI ISI ilk Islami sikkenin bastirilmasidir\" diyordu. k3 boyle demez: \"Halife Abdulmelik zamaninda tesebbus edilen ve basariya ulastirilan ONEMLI ISLERDEN BIRI, ilk Islami sikkenin bastirilmasidir.\" Ustelik maddenin kendi ustunluk ifadesi sikkeye degil DILE aittir (bk. i032). Cumle kaynagin olcusune indirildi ve 'ilk' nitelemesi maddeye atfedildi."
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Reform 77 hicri / 696 miladi yılına tarihlenir.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref abstract birebir: \"up to and including the Abd al-Malik's Monetary Reform of the 77 AH / 696 AD\". Muellif adi API'de birebir (Maria del Mar Royo Martinez). Guven 'orta': dogrulama ozet/ustveri duzeyindedir, makalenin govdesi bu ucta yok. Bu tarih ile i031'deki 79 AH'lik sikke celismez; biri reformun tarihi, oteki elde kalan bir nesnenin tarihidir."
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Taberî'nin aktardığı kayıt hem işlemi hem de kaydın kendi belirsizliğini gösterir: bir zincir el-Vâkıdî'ye, bir başkası İbn Ebü'z-Zinâd'a dayanır ve ilk basan kişinin Abdülmelik olduğu ifadesi bunlardan yalnız birine aittir; üçüncü zincir ise sikkenin İslam öncesi ağırlık ölçüsünü bir habbe eksiğiyle yirmi iki kırat olarak verir ve on tanesinin yedi mithkal çektiğini söyler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref abstract uc zinciri de birebir tasir: \"according to al-Waqidi--Sa'd b. Rashid--Salih b. Kaysan\"; \"According to Ibn Abi al-Zinad—his father: ... he was the first to initiate the striking of them\"; \"According to Khalid b. Abi Rabi'ah—Ibn Hilal—his father: The pre-Islamic units of weight (mithqals) ... were twenty-two qirats, minus a habbah; ten weighed seven.\" 'Ilk basan odur' gercekten tek zincire aittir — govde bunu dogru soyluyor. BIRIM UYARISI: kaynak son ifadede yalnizca \"ten weighed seven\" der, birimi yazmaz; govde 'mithkal'i onceki cumleden tasiyor ve bunu metinde acikca beyan ediyor."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Metropolitan Museum koleksiyonundaki 99.35.2386 envanter numaralı altın dinar 79 hicri / 698-99 tarihli ve Suriye yapımı diye kayıtlıdır; müzenin kendi kaydında kültür, dönem ve hânedan alanları boştur, yani nesne kendi başına bir halife adı taşımaz.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Met API kaydi birebir: accessionNumber 99.35.2386, objectDate \"dated 79 AH/698-99 CE\", medium Gold, geographyType \"Made in\", country \"Syria\"; culture, period, dynasty, reign alanlarinin hepsi bos dize. Govde nesneden bir halife adi CIKARMIYOR ve bos alanlari acikca soyluyor — bu, muze kaydinin tasidigindan fazlasini iddia etmeme ornegidir."
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Maddenin kendi ölçüsünde asıl ağırlık sikkede değil dildedir: Abdülmelik'in kültür alanında yaptığı en önemli iş, Arapça'yı resmî dil olarak kabul etmesidir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3 birebir: \"Abdulmelik'in kultur alaninda yaptigi en onemli is, Arapca'yi resmi dil olarak kabul etmesidir.\" HAKEM EKLEMESI: govde kaynagin ustunluk olcusunu sikkeye kaydirmisti (bk. i028); olcunun kaynaktaki gercek yeri metne kondu. 'en onemli' burada bir hakem hukmu degil, maddeye atfedilmis bir ifadedir."
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "O zamana kadar divan defterleri Suriye'de Rumca, İran'da Farsça tutuluyordu ve memurların büyük bölümü Rum ya da İranlıydı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3 birebir: \"Onun zamanina kadar divanlardaki defterler Suriye'de Rumca, Iran'da ise Farsca olarak tutuluyordu. Buna bagli olarak memurlarin buyuk bir kismi da Rum veya Iranli idi.\" Bu cumle i004'un duzeltilmesini zorunlu kildi."
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Arapçalaştırma tek bir emirle olmadı: ilk girişim Haccâc'tan geldi, hesapları Arapça tutmayı İranlı kâtip Zâdenferrûh'un yardımcısı Sâlih b. Abdurrahman üstlendi, Dımaşk'ta işi Süleyman b. Saîd yürüttü, Mısır'da ise Abdülmelik'in oğlu Abdullah'ın en önemli icraatı divanda Arapça'yı resmî dil olarak kabul ettirmesi oldu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3 dort halkayi da birebir verir: \"Arapca'nin divanda kullanilmasi icin ilk tesebbus Haccac tarafindan yapilmistir. Haccac'in Iranli katibi Zadenferruh b. Piri'nin yardimcisi Salih b. Abdurrahman hesaplarin Arapca tutulmasini teklif etti ... Suleyman b. Said adinda bir kisi ... Ogullari arasinda ... Abdullah ... Misir valiligine tayin edildi. Yonetimi boyunca gerceklestirdigi en onemli faaliyet, divanda Arapca'yi resmi dil olarak kabul ettirmis olmasidir.\" HAYALET AD DENETIMI: govde 'Zadenferruh' yaziyor, kaynak 'Zadenferruh b. Piri' — kisaltma, uydurma degil; ikinci bir kisi uretilmemis."
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "I. Velîd döneminde ikinci büyük fetih dalgası başladı: Mâverâünnehir'de Kuteybe b. Müslim, Sind'de Muhammed b. Kāsım es-Sekafî, Anadolu'da Mesleme b. Abdülmelik, İspanya'da Târık b. Ziyâd ve Mûsâ b. Nusayr.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: \"Islam tarihinin ikinci buyuk fetih harekatini baslatti. Onun zamani Maverunnehir fatihi Kuteybe b. Muslim, Sind ve civarinin fatihi Muhammed b. Kasim es-Sekafi, Anadolu gazalarinin meshur ismi kardesi Mesleme b. Abdulmelik, Ispanya fatihleri Tarik b. Ziyad ve Musa b. Nusayr ... fetihleriyle dopdolu olarak gecti.\" Bes ad da kaynakta; liste kirpilmamis."
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Sınırlar Türkistan'dan Fransa içlerine, Anadolu'dan Hindistan sınırına uzandı; 99 (717) yılında İstanbul kuşatıldı, 114 (732) yılında Belâtüşşühedâ denilen yerde Charles Martel kumandasındaki Frank ordusuna yenilgi alındı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: \"sinirlari Turkistan'dan Fransa iclerine, Anadolu'dan Hindistan sinirlarina kadar genislemisti\"; \"Mesleme b. Abdulmelik kumandasinda Istanbul'u kusatmasidir (99/717)\"; \"Belatussuheda denilen yerde Charles Martel kumandasindaki Frank ordusuna yenildi (114/732)\". Uc kayit da birebir."
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Maaşlı ve daimî statüdeki mürtezika ile yalnız ganimetten pay alan gönüllü mütetavvia ayrı kalemlerdi; ordu başlangıçta yalnız Araplardan oluşuyordu, sonra mevâlî de alınmaya başlandı ve İranlı, Berberî ve Türk asıllı askerlerin sayısı son dönemde iyice arttı, ancak kumandanlığa getirilmeleri çok nadir oldu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 birebir; kaynagin kendi sinirlayici cumlesi (\"Ancak bunlarin kumandanlik makamina getirilmesi cok nadir olurdu\") govdede korunmus. 'Islam ordusu tek bir orgut degildi' savinin dayanagi."
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Endülüs'ü alan Târık b. Ziyâd'ın ordusunun çoğunluğunu Berberî mevâlî oluşturuyordu ve Târık ile Mûsâ b. Nusayr'ın kendileri de şahsî âzatlılardı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2: \"Endulus fatihi Tarik b. Ziyad'in ordusunun cogunlugunu Berberi mevali olusturmustur\" ve \"basta Musa b. Nusayr ve Tarik b. Ziyad gibi sahsi azatlilar olmak uzere mevali arasindan meshur kumandanlar cikmistir.\""
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Hânedanın sonu 132 (750) yılında II. Mervân'ın Mısır'da öldürülmesiyle geldi; Abbâsîler aile mensuplarını Endülüs'e kaçıp orada yeni bir devlet kuran Abdurrahman b. Muâviye dışında katlettiler.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: \"Misir'da olduruldu (26 Zilhicce 132 / 5 Agustos 750)\" ve \"Kuzey Afrika'ya kacip oradan Endulus'e gecerek Endulus Emevi Devleti'ni kuran Abdurrahman b. Muaviye b. Hisam disindakilerini katlettiler.\" Kirpma beyani: govde Kuzey Afrika gucegini ve adin ucuncu halkasini (b. Hisam) kisaltiyor; hayalet ad uretmiyor."
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "TDV maddesinin kendi ifadesiyle, Abbâsîler zamanında yaşayan İslam tarihçilerinin Emevî Devleti'ne karşı sert bir tutum takındıkları genellikle kabul edilir ve bu tutumda Sünnî ulemanın Emevî aleyhtarı düşünceleri de etkili olmuştur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 birebir: \"Abbasiler zamaninda yasayan Islam tarihcilerinin ... Emevi Devleti'ne karsi sert bir tutum takindiklari umumiyetle kabul edilmektedir. Bu tutumlarinda Sunni ulemanin Emevi aleyhtari dusunceleri de etkili olmustur.\" Dosyanin en onemli cercevesi budur: kaydi KIMIN yazdigi metinde yazili, Abbasi anlatisi olgu gibi aktarilmiyor."
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Ona göre Suriye'nin kendi tarih geleneği kaybolmuştur, izleri Belâzürî'de, belki bir de Kelbî'ye bağlı Avâne'de kalmıştır, Suriye bakışına en çok hıristiyan vekayinameleri yaklaşır ve orada Emevîler alışılandan çok daha olumlu görünür; Arapların durumunda \"düşmanları son sözü söyledi\" ve tarihleri bundan ağır zarar gördü.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wellhausen onsozu birebir: \"Doubtless there was likewise a tradition in Syria itself ... but it is lost to us. Traces of it are found in Baladhuri, perhaps also in the Kalbite 'Awana ... We are best acquainted with the spirit of this Syrian tradition from Christian chronicles ... The Umaiyids there appear in a quite different, and very much more favourable light ... In the case of the Arabs, their enemies had the last word, and their history in consequence suffered severely.\" HAKEM DUZELTMESI: govde Avane icin kaynagin 'perhaps' cekincesini dusurmustu; 'belki bir de' diye geri kondu. ARAC NOTU: bu pasaj 400k onbellek kopyasinda var; ayni URL --tam ile agdan cekildiginde onsozsuz bir OCR donuyor ve dize bulunamiyor."
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Taberî'nin başlıca ravilerinden Medâinî için Wellhausen açıkça Abbasi bakış açısını benimsediğini ve Emevîlerin düşüşünü oradan anlattığını söyler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kunye dogrulama dizesi \"the  Abbasid  stand-point\" birebir gecti ve oznesi denetlendi: pasaj \"Madaini takes up a kind of middle position ... He takes up altogether the Abbasid stand-point and from it describes the fall of the Umaiyids and the rise of the blessed dynasty.\" Ozne gercekten Medaini'dir; komsu cumleye kaymis bir atif degil."
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Wellhausen'in kendisi de tarafsız değildir ve TDV maddesi bunu doğrudan söyler: Wellhausen ve Lammens gibi şarkiyatçıların Emevîler'e aşırı destekçi tutumunda İslam aleyhtarlığının payı vardır; Wellhausen kitabına Arap Devleti ve Sukutu adını vererek düzeni Arapların millet olarak güç göstermesi sayar ve dini ikinci dereceye indirir, Della Vida ise ırkî ve iktisadî etkenleri kabul etmekle birlikte din etkeninin geri plana atılmasını yanlış bulur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 birebir: \"Lammens gibi sarkiyatcilarin Emeviler'e asiri destekci bir tutum takinmalarinda suphesiz Islam aleyhtari olmalarinin da buyuk rolu vardir. Wellhausen ... eserine Arap Devleti ve Sukutu adini vermis ve bu devleti, Araplar'in dunyada millet olarak guclerini ispat etmek uzere giristikleri bir tesebbus olarak degerlendirip bu tesebbuste dinin ancak ikinci derecede rol oynadigini gostermek istemistir ... Irki ve iktisadi faktorlerin de ihmal edilemeyecegini belirten yazar [Della Vida] din faktorunun ikinci plana atilmasinin yanlis oldugu kanaatindedir.\" HAKEM DUZELTMESI: govde kitap adini 'Arap Devleti' diye kisaltmisti, kaynaktaki tam ad kondu. Bu cumle dosyanin cift yonlu kaynak elestirisini tamamliyor: karsi-kaynak (k4) da taraftir."
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "TDV maddesi ikinciyi savunur, ama kendi uyarısını da koyar: düşüşü Araplığın sonu, Abbâsî iktidarını da İslam dünyasının İranlılaştırılması diye göstermek \"hayli mübalağalı\" bir yaklaşımdır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 birebir: \"devletin cokusu bazi tarihciler tarafindan Arapligin sonu gibi gosterilmistir. Buna karsilik ... Abbasiler Islam alemini Iranlilastirmakla itham edilmistir. Bu kanaate goturecek onemli sebepler bulunmakla birlikte boylesine kesin cizgiler cizmek hayli mubalagali bir yaklasimdir.\" Kunyede k1'in TARAF BEYANI oldugu yaziyor ve govde de maddenin savundugu cizgiyi acikca adlandiriyor."
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Mevâlî, iktidara taşıdığı Abbâsîler devrinde Araplarla eşit haklar elde etti ve Horasanlı liderler vezirliğe kadar yükseldi; aynı dönemde, Emevîler'in son yıllarında doğan ve Arap olmayanların üstünlüğünü savunan Şuûbiyye de güçlendi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2 birebir: \"Mevali, iktidari ele gecirmelerinde buyuk pay sahibi oldugu Abbasiler devrinde Araplar'la esit haklar elde etmis, hatta ... Horasanli liderlerin vezirlik gibi yuksek idari gorevlere tayiniyle ... one gecmis\" ve \"Emeviler'in son donemlerinde Arap olmayanlarin Araplar'a ustunlugunu iddia eden Suubiyye hareketi ortaya cikmistir.\""
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 44,
+    "kismi": 1,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

@@ -1,75 +1,279 @@
 {
   "id": "aktor-emevi-hilafeti",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:48.935Z",
-  "govde_hash": "51be5f966e30",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T19:15:15.885Z",
+  "govde_hash": "03b1979be4c5",
+  "commit": "f403bfb",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Emevîler, Hulefâ-yi Râşidîn'den sonra 661-750 yılları arasında hüküm süren ilk İslâm hanedanıdır.",
+      "iddia": "Ebû Süfyân'ın mensup olduğu Benî Ümeyye kabilesinden alır.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak hanedanı doğrudan ilk İslâm hânedanı olarak niteler ve öncesindeki dönemi 632-661 arası ayrı bir evre olarak sayar.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bu ayrım kurumsal bir kırılmayı işaretler: seçimle gelen bir halifeler dizisinden babadan oğula geçen bir hanedana geçiş.",
+      "iddia": "Ayırt edici yanı, halifelik makamını mutlak verasete dayalı bir hükümdarlığa dönüştürmesi ve biat uygulamasını yalnızca biçim olarak sürdürmesidir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Devlet, Suriye'nin merkezi Dımaşk'ta kurulmuştur.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Siyasi merkezin Arabistan'daki şehirlerden Suriye'ye taşınması, dinî merkez ile idari merkezin ayrışmasıdır.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Hanedanın ömrü, kaynakların ayrı ayrı tarihlediği fetih dizisiyle örtüşür: Mağrib'in fethi 647-742, Hispanya ve Septimanya'nın fethi 711-721, Sind'in fethi 711-",
-      "durum": "OK",
-      "not": "7 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bu genişleme, doğuda Sind'deki Hint alt kıtasından batıda Pireneler'deki İber Yarımadası'na uzanan bir alan üretti.",
-      "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Üç kıtaya yayılan bir alanın tek bir hanedanın ömrü içinde tamamlanması, dönemin siyasi birleşme hızının ölçüsüdür; süreç dosyasında ele alınıyor.",
+      "iddia": "Devlet gücünün tamamı halifede toplandığı için vezirlik bu dönemde hukuki bir statü kazanmadı; buna karşılık halifenin görüşmelerini düzenleyen hâciblik görevi ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Hanedanın ardılı 750 ile 1258 yılları arasında hüküm süren Abbâsî hanedanıdır.",
+      "iddia": "Emevîler, fethedilen yerleri merkezî bir vergi kaydına bağladılar ve bu kayıt, tebaayı din ve soy üzerinden tabakalara ayırdı: müslümanlar, cizye ödeyen zimmîle",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu ayrım devleti finanse etti; aynı ayrım, hânedanı deviren Abbâsî ihtilâline kaynağın ifadesiyle \"damgasını vuran\" kitleyi de üretti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Osman'ın kanını dava etmek şartıyla Şam halkından biat aldı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "TDV maddesinin değerlendirmesine göre İslam öncesinde Bizans yönetiminde yaşamış, düzenli devlet kurumuna ve askerî disipline alışkın Suriye halkı bu saltanatı ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ebîh örneğinde olduğu gibi valilerinin sertliğine göz yumuyor, zaman zaman bunu teşvik ediyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı madde, hânedanın kendi çevresinin dışında meşruiyetinin ne kadar zayıf kaldığını da kaydeder: halifeler istişareye ve ehliyete dayanan bir düzeni kuvvete v",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Merkezde iş, divanlar üzerinden yürüdü: resmî yazışmalar için Dîvânü'r-resâil, halifenin mektupları için Dîvânü'l-hâtem, mali işler için Dîvânü'l-harâc, posta v",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Devletin başlıca gelir havuzu olan fey dört kalemden oluşuyordu: gayri müslim erkeklerden kişi başına alınan cizye, savaşla alınıp eski sahiplerinin elinde bıra",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ziyâd'ın valiliğinde 135 milyon dirhemken Emevîler'in son zamanlarında 100 milyon civarına, Mısır haracı 14 milyon dinardan Süleyman devrinde 12 milyona indi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Maddenin kendisi bu düşüşlerin nedenini kesin söylemez: Şam'daki azalma için haracî arazinin bir bölümünün öşrî araziye dönüşmesi ve ziraatın ihmal edilmesi ols",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ebîh'in 60 milyon dirhemlik Basra gelirinden 4 milyonu, 40 milyonluk Kûfe gelirinden 4 milyonun üçte ikisini, Mısır valisinin de 600.000 dinarı Dımaşk'a yolladı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Deyrülcemâcim Savaşı'nda bütün divanların yanması, Emevîler zamanında divanın nasıl işlediğinin bilinmesini engellemektedir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Mevâlî terimi başlangıçta iki grubu kapsıyordu: âzat edilmiş savaş esirleri ve bir Arap kabilesiyle himaye akdi yaparak onun mevlâsı sayılan gayri Arap müslüman",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sayıları artıp kabile himayesine ihtiyaç kalmayınca terimin kapsamı genişledi ve Arap olmayan bütün müslümanları içine aldı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ölçek tek tek rakamlardan okunur ve maddenin verdiği halka görünür: Dîneverî'ye göre Muâviye zamanında yalnız Kûfe'de 20.000 mevâlî yaşıyordu; Taberî'ye göre Ab",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ömer maaş sisteminde onlara eski efendileriyle aynı miktarı bağlamıştı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Seyyâr tarafından kaldırıldı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Cizyeyi sürdüren Haccâc tarımı güçlendirmek gerekçesiyle mevâlînin şehirlere göçünü de yasaklamış, gelmiş olanları zor kullanarak köylerine geri göndermişti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "MEVÂLÎ maddesi Emevîler'in mevâlîye ikinci sınıf tebaa muamelesi yaptığını doğrudan söyler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "EMEVÎLER maddesi ise aynı olguyu kabul ettikten sonra yumuşatır: bunu devletin resmî siyaseti olmaktan çok hâkim sınıf ile öteki güç odakları arasındaki rekabet",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Zimmîler cizye karşılığında askerlikten muaf tutuluyor, can, mal ve din güvencesi kazanıyor, müslümanları ilgilendiren davalar dışında kendi hukukları ve dinî l",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Abdülazîz'in halifeliği dışında zimmîlerin sarayda bile istihdam edildiğini kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ömer'in Irak, Suriye ve Mısır halkını köle değil hür tebaa saydığını Belâzürî'ye dayanarak aktarır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Fetih sonrası Mısır köylerinden kalan papirüsler üzerine çalışan Papaconstantinou, kırsal hıristiyan nüfusun kendini önce köy topluluğuna ait saydığını ve otori",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu MS 600 için yaklaşık 271,6 milyon, 1000 yılı için yaklaşık 323,5 milyon olarak verilir.",
+      "iddia": "Mervân zamanında başarıya ulaştırılan önemli işlerden biri ilk İslâmî sikkenin bastırılmasıdır; o tarihe kadar İslam ülkelerinde Bizans ve Sâsânî paraları tedav",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Reform 77 hicri / 696 miladi yılına tarihlenir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Taberî'nin aktardığı kayıt hem işlemi hem de kaydın kendi belirsizliğini gösterir: bir zincir el-Vâkıdî'ye, bir başkası İbn Ebü'z-Zinâd'a dayanır ve ilk basan k",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Metropolitan Museum koleksiyonundaki 99.35.2386 envanter numaralı altın dinar 79 hicri / 698-99 tarihli ve Suriye yapımı diye kayıtlıdır; müzenin kendi kaydında",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Maddenin kendi ölçüsünde asıl ağırlık sikkede değil dildedir: Abdülmelik'in kültür alanında yaptığı en önemli iş, Arapça'yı resmî dil olarak kabul etmesidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "O zamana kadar divan defterleri Suriye'de Rumca, İran'da Farsça tutuluyordu ve memurların büyük bölümü Rum ya da İranlıydı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Saîd yürüttü, Mısır'da ise Abdülmelik'in oğlu Abdullah'ın en önemli icraatı divanda Arapça'yı resmî dil olarak kabul ettirmesi oldu.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Hanedanın siyasi tarihi, halife sıralaması, idari düzeni ve düşüş süreci burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işl",
+      "iddia": "Nusayr.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sınırlar Türkistan'dan Fransa içlerine, Anadolu'dan Hindistan sınırına uzandı; 99 (717) yılında İstanbul kuşatıldı, 114 (732) yılında Belâtüşşühedâ denilen yerd",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Maaşlı ve daimî statüdeki mürtezika ile yalnız ganimetten pay alan gönüllü mütetavvia ayrı kalemlerdi; ordu başlangıçta yalnız Araplardan oluşuyordu, sonra mevâ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Nusayr'ın kendileri de şahsî âzatlılardı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Muâviye dışında katlettiler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "TDV maddesinin kendi ifadesiyle, Abbâsîler zamanında yaşayan İslam tarihçilerinin Emevî Devleti'ne karşı sert bir tutum takındıkları genellikle kabul edilir ve ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Ona göre Suriye'nin kendi tarih geleneği kaybolmuştur, izleri Belâzürî'de, belki bir de Kelbî'ye bağlı Avâne'de kalmıştır, Suriye bakışına en çok hıristiyan vek",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Suriye, Arapların"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Taberî'nin başlıca ravilerinden Medâinî için Wellhausen açıkça Abbasi bakış açısını benimsediğini ve Emevîlerin düşüşünü oradan anlattığını söyler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Wellhausen'in kendisi de tarafsız değildir ve TDV maddesi bunu doğrudan söyler: Wellhausen ve Lammens gibi şarkiyatçıların Emevîler'e aşırı destekçi tutumunda İ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "TDV maddesi ikinciyi savunur, ama kendi uyarısını da koyar: düşüşü Araplığın sonu, Abbâsî iktidarını da İslam dünyasının İranlılaştırılması diye göstermek \"hayl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Mevâlî, iktidara taşıdığı Abbâsîler devrinde Araplarla eşit haklar elde etti ve Horasanlı liderler vezirliğe kadar yükseldi; aynı dönemde, Emevîler'in son yılla",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }
