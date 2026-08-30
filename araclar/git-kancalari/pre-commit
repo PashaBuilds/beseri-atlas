@@ -21,4 +21,20 @@ if [ $? -ne 0 ]; then
   echo "(tam cikti: /tmp/beseri-lint.log · atlamak icin: git commit --no-verify)"
   exit 1
 fi
+
+# ARAC SINAMALARI DA BURADA KOSAR.
+# Gerekce olculmus bir olaydir: 2026-08-29'da matris.mjs'in bir davranisi
+# BILEREK degistirildi ama onu donduran sinama ayni commit'te
+# guncellenmedi; `npm test` o gunden 30 Agustos'a kadar KIRMIZI kaldi ve
+# kimse fark etmedi. Cunku kapilar yesildi — ama kapilar KORPUSU olcer,
+# sinamalar ARACI olcer. Iki ayri katman ve biri otekini kurtarmiyor.
+# Sinamalar korpustan bagimsizdir, bu yuzden BESERI_KAPSAM onlari
+# gevsetmez: kirik bir arac sinamasi her zaman commit'i durdurur.
+npm test > /tmp/beseri-test.log 2>&1
+if [ $? -ne 0 ]; then
+  echo "COMMIT DURDURULDU — arac sinamalari gecmedi:"
+  tail -25 /tmp/beseri-test.log
+  echo "(tam cikti: /tmp/beseri-test.log · atlamak icin: git commit --no-verify)"
+  exit 1
+fi
 exit 0
