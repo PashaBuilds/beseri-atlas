@@ -83,13 +83,12 @@ kaynaklar:
       taşımaz. Kaydın kendisi eserin adını "méditeranéen" yazımıyla verir.
   - anahtar: k6
     tur: akademik
-    ad: "Dale Tomich, 'The Order of Historical Time: The Longue Durée and Micro-History', Almanack 2 (2011) — SciELO"
-    url: https://www.scielo.br/j/alm/a/dF7D8LWPFhCjtjmx7NKbtQk/?lang=en
+    ad: "Dale Tomich, 'The Order of Historical Time: The Longue Durée and Micro-History', Almanack 2 (2011) — SciELO tam metninin Jina Reader kopyasi"
+    url: https://r.jina.ai/https://www.scielo.br/j/alm/a/dF7D8LWPFhCjtjmx7NKbtQk/?lang=en
     erisim_tarihi: 2026-08-30
     dogrulama_dizesi: "a more or less stable historical relation"
     not: >-
-      Açık erişim. SINIR: gövde metni yalnızca PDF olarak veriliyor; sayfada
-      özet ile dipnotların tamamı açık duruyor ve buradan alınan Braudel
+      SciELO DOI 10.1590/2236-463320110204 sayfasinin salt-okunur metin kopyasi. Buradan alınan Braudel
       aktarımları o dipnotlardaki İngilizce çeviriden okunmuştur, Braudel'in
       Fransızca metninden değil.
   - anahtar: k7

@@ -39,13 +39,12 @@ kaynaklar:
       bölümdür. Katmanın adlandırılması ikincil kaynaklardan okunmuştur.
   - anahtar: k2
     tur: akademik
-    ad: "Dale Tomich, 'The Order of Historical Time: The Longue Durée and Micro-History', Almanack 2 (2011) — SciELO"
-    url: https://www.scielo.br/j/alm/a/dF7D8LWPFhCjtjmx7NKbtQk/?lang=en
+    ad: "Dale Tomich, 'The Order of Historical Time: The Longue Durée and Micro-History', Almanack 2 (2011) — SciELO tam metninin Jina Reader kopyasi"
+    url: https://r.jina.ai/https://www.scielo.br/j/alm/a/dF7D8LWPFhCjtjmx7NKbtQk/?lang=en
     erisim_tarihi: 2026-08-30
     dogrulama_dizesi: "the duration of either structure or conjuncture may vary"
     not: >-
-      Açık erişim. SINIR: gövde yalnızca PDF olarak veriliyor; özet ile
-      dipnotların tamamı açık duruyor ve Braudel, Chaunu ve Labrousse
+      SciELO DOI 10.1590/2236-463320110204 sayfasinin salt-okunur metin kopyasi. Braudel, Chaunu ve Labrousse
       aktarımları o dipnotlardaki İngilizce çeviriden okunmuştur.
   - anahtar: k3
     tur: akademik

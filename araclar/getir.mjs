@@ -9,6 +9,7 @@ const ONBELLEK = path.join(KOK, 'denetim', '.onbellek');
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
 const TTL_MS = 7 * 24 * 60 * 60 * 1000;
 const ZAMAN_ASIMI_MS = 25000;
+const VARSAYILAN_ACCEPT = 'text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8';
 
 /**
  * Sunucunun kaynagi reddettigini degil, o anda saglikli bir olcum
@@ -18,6 +19,21 @@ const ZAMAN_ASIMI_MS = 25000;
  */
 export function geciciHttpDurumuMu(durum) {
   return durum === 408 || durum === 425 || durum === 429 || durum >= 500;
+}
+
+/**
+ * Jina Reader, tam tarayici kimligini otomasyon trafigi sayip Cloudflare
+ * sayfasina yonlendiriyor; sade ve dogru bir metin istemcisi kimligiyle ise
+ * kaynak metnini donduruyor. Bu uyarlama yalniz o alan adina uygulanir.
+ */
+export function istekBasliklari(url) {
+  let jina = false;
+  try { jina = new URL(url).hostname === 'r.jina.ai'; } catch { /* URL'yi cagiran katman dogrular */ }
+  return {
+    'User-Agent': jina ? 'Mozilla/5.0' : UA,
+    Accept: jina ? 'text/plain' : VARSAYILAN_ACCEPT,
+    'Accept-Language': 'en,tr;q=0.8',
+  };
 }
 
 function yol(url) {
@@ -93,7 +109,7 @@ export async function getir(url, { taze = false, metinSakla = true, deneme = 3 }
     const zamanlayici = setTimeout(() => kontrol.abort(), ZAMAN_ASIMI_MS);
     try {
       const r = await fetch(url, {
-        headers: { 'User-Agent': UA, Accept: 'text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8', 'Accept-Language': 'en,tr;q=0.8' },
+        headers: istekBasliklari(url),
         redirect: 'follow',
         signal: kontrol.signal,
       });
