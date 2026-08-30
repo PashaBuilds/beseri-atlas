@@ -80,6 +80,16 @@ const KAVRAM_DOGUMU = [
   ['emperyalizm', 1870], ['GSYH', 1930], ['bürokrasi', 1750],
 ];
 
+// Curutucunun urettigi itiraz turleri. Disa aciliyor cunku baska araclarin
+// bu adlari BILMESI gerekiyor: hakemler matris `inceleme` notlarina hangi
+// itirazi degerlendirdiklerini yazarken bu adlari tirnak icinde aniyor ve
+// alinti dogrulayici onlari "kaynakta gecmeyen alinti" saniyordu. Ad listesi
+// iki yerde durursa biri er gec yanlis olur; tanim burada, tuketen orada.
+export const ITIRAZ_TURLERI = [
+  'anakronizm', 'kapsam-carpitmasi', 'kaynak-yogunlugu',
+  'tek-kaynakli-nedensellik', 'ustunluk-iddiasi', 'yetersiz-pozisyon',
+];
+
 export function itirazAdaylari(m) {
   const adaylar = [];
   const ekle = (ciddiyet, tip, cumle, sorun, oneri) =>

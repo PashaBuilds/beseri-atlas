@@ -30,6 +30,7 @@ import path from 'node:path';
 import { makaleleriTopla, KOK, RENK } from './ortak.mjs';
 import { getir } from './getir.mjs';
 import { dizeGeciyorMu } from './kaynak-canlilik.mjs';
+import { ITIRAZ_TURLERI } from './curut.mjs';
 
 const EN_KISA = 12;      // bundan kisa tirnaklar terim/vurgu olabilir, alinti degil
 const EN_UZUN = 400;
@@ -95,6 +96,23 @@ function turkceMetinMi(metin) {
   return ozel / sozcukler.length > 0.05 || durak / sozcukler.length > 0.04;
 }
 
+// DENETIM SOZLUGU. Hakemler matris `inceleme` notlarina hangi curutucu
+// itirazini degerlendirdiklerini yazar ve kategori adini tirnak icine alir
+// ("ustunluk-iddiasi", "kesinlik-dili"). Bunlar atlasin KENDI arac
+// sozlugudur; hicbir kaynakta gecmezler ve gecmemelidirler. Olculdu: Fatimi
+// dosyasindaki 27 "uydurma alinti adayi"nin dokuzu bu sinifti.
+// Kategori listesi curut.mjs'ten ice aktarilir — iki yerde durmasin.
+const DENETIM_SOZLUGU = new Set([
+  ...ITIRAZ_TURLERI,
+  'kesinlik-dili', 'sus-dipnotu', 'hayalet-ad', 'gizlenen-aktarim-halkasi',
+  'liste-kirpmasi', 'kapsam-boslugu', 'atomsuz', 'merkezi', 'destek', 'renk',
+  'dogrudan', 'kismi', 'baglam', 'celisir',
+]);
+function denetimSozluguMu(dize) {
+  const s = dize.trim().toLowerCase().replace(/[^a-zçğıöşü-]/g, '');
+  return DENETIM_SOZLUGU.has(s);
+}
+
 const TIRNAK = /"([^"\n]{4,400})"|“([^”\n]{4,400})”|«([^»\n]{4,400})»/g;
 
 // TEK SAYIDA TIRNAK ARTIGI. Bir notta uc tirnak varsa (birinin esi
@@ -143,6 +161,7 @@ export function govdeAlintilari(govde) {
       const dize = (e[1] || e[2] || e[3] || '').trim();
       if (dize.length < EN_KISA || dize.length > EN_UZUN) continue;
       if (tirnakArtigiMi(dize)) continue;
+      if (denetimSozluguMu(dize)) continue;
       const bitis = (e.index || 0) + e[0].length;
       // ADLANDIRMA CERCEVESI. `"X" olarak adlandirilmasi`, `"X" adi verilir`
       // kaliplarinda tirnak bir ALINTI degil bir ADDIR; kaynak metninde
@@ -178,6 +197,7 @@ export function matrisAlintilari(matris) {
       const dize = (e[1] || e[2] || e[3] || '').trim();
       if (dize.length < EN_KISA || dize.length > EN_UZUN) continue;
       if (tirnakArtigiMi(dize)) continue;
+      if (denetimSozluguMu(dize)) continue;
       cikti.push({ nerede: `matris:${i.iddia_id}`, dize, anahtar: anahtarlar[0], adaylar: anahtarlar });
     }
   }
