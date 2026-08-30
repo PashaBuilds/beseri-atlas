@@ -532,3 +532,58 @@ kayıtlı).
     `::tartismali` işaretiydi. İşaret eklendi — ve ilk yazdığım not
     "Atlas" öz-göndermesi içerdiği için KAPI 18 borcunu büyüttü, yeniden
     yazıldı. Kendi kuralımı kendi düzeltmemde çiğnemiştim.
+
+75. **Yedi linter sessizce hiçbir şey yapmıyordu.** Avam Kamarası hakemi
+    ölçtü: `linter-dipnot`, `linter-kaynak`, `linter-ozet`, `linter-terim`,
+    `linter-tekrar`, `linter-savunan` ve `linter-link` tek dosya argümanıyla
+    HİÇBİR çıktı vermiyordu — yedisinde de CLI bloğu yoktu. Ajan "sessizce
+    geçti" ile "hiç çalışmadı"yı ayırt edemiyordu. Aynı kusur daha önce telif
+    linterinde de vardı ve orada bir hakemin telif denetimi sessizce
+    yapılmamıştı.
+
+76. **Düzeltmemin ilk hâli, düzeltmeye çalıştığım kusurun aynısını üretti.**
+    Ortak CLI'yi yazarken linterlere daraltılmış bir liste veriyordum.
+    `linter-link` kimlik dizinini kendisine verilen listeden kurar; tek
+    dosyayla çağrılınca `kavram-lonca`'nın ON bağını birden "kırık iç link"
+    ilan etti — oysa `kavram-timar` da ötekiler de korpusta duruyordu. Daha
+    ağırı: kaynak ve dil denetimleri borç defteri YAZIYOR, daraltılmış bir
+    koşu defteri tek dosyayla yeniden kurar ve bütün korpusun borç kaydını
+    silerdi. **Anlamı girdisine bağlı olan bir ölçüme dar girdi vermek,
+    ölçümü bozmaktır.** Doğrusu: denetim her zaman korpusun tamamında koşar,
+    yalnızca rapor daraltılır.
+
+77. **Kendi havuz notum yanlıştı ve hakem yalanladı.** `legislation.gov.uk`
+    için "1988 öncesi yasalar yalnızca künye düzeyindedir" diye
+    genellemiştim; hakem Parliament Act 1911'i ölçtü: 200 ve 14.250 karakter,
+    gövde gerçek yasa metni. Genelleme yanlıştı. Ama hakemin bulduğu asıl
+    tuzak benim notumdan önemliydi: **site yürürlükteki revize metni verir.**
+    1911 sayfası "two successive sessions" yazar; 1911 aslında "three"
+    yazıyordu, değişiklik 1949'da geldi. Tarihsel bir iddiayı o sayfaya
+    dayandırmak olgu hatası üretir.
+
+78. **`npm test` bir gündür kırmızıymış ve fark etmemişim.** 29 Ağustos'ta
+    `matris.mjs`'in bir davranışını bilerek değiştirdim (iç bağlar tümüyle
+    siliniyor artık, çünkü iki hakem bağımsız olarak iç bağ taşıyan bir
+    cümlenin K-6 ile `--eksik-iddia`yı aynı anda geçemediğini ölçmüştü) ama
+    o davranışı donduran sınamayı aynı commit'te güncellemedim. Kapılar
+    13/13 yeşil olduğu için görünmedi: **kapılar korpusu ölçer, sınamalar
+    aracı ölçer; iki ayrı katman ve biri ötekini kurtarmıyor.** Sınama
+    düzeltildi ve `npm test` commit kancasına bağlandı — sınamalar korpustan
+    bağımsız olduğu için `BESERI_KAPSAM` onları gevşetmez.
+
+79. **Fâtımî dosyasındaki 27 "uydurma alıntı adayı"nın dokuzu hakemin kendi
+    denetim sözlüğüydü.** Hakem, matris notuna hangi çürütücü itirazını
+    değerlendirdiğini yazarken kategori adını tırnak içine alıyor
+    ("ustunluk-iddiasi", "kesinlik-dili"). Bunlar atlasın kendi araç
+    sözlüğüdür; hiçbir kaynakta geçmezler. Kategori listesi `curut.mjs`'te
+    dışa açıldı ve doğrulayıcı oradan içe aktarıyor — ama liste hâlâ iki
+    yerde (sabitte ve `ekle()` çağrılarında), o yüzden senkronu bir sınama
+    tutuyor.
+
+80. **Aracın kendi isabeti ölçüldü, iddia edilmedi.** Alıntı doğrulayıcı ilk
+    koşusunda 119 aday bildirdi. Adayları tek tek sınamak gösterdi ki 55'i
+    aracın kendi kusuruydu: üç noktayla birleştirilmiş alıntılar, kaynağın
+    dili, noktalama, çevrilmiş terimler, çok dipnotlu cümle, adlandırma
+    çerçevesi, tek sayıda tırnak artığı, boşluk artığı, denetim sözlüğü.
+    Her biri düzeltildi ve on bir sınamayla donduruldu. Geriye kalan 64 aday
+    gerçek bir inceleme kuyruğudur ve **kapanmamıştır**.
