@@ -73,7 +73,7 @@ Kaynak üç Eleştiri'yi künyeleriyle sıralar: *Saf Aklın Eleştirisi* (1781,
 İlk eserin iki yılla birden verilmesi,[^k1] aynı başlık altında iki farklı
 baskının bulunduğu anlamına gelir.
 
-Atlasın kuralı şudur: bu esere yapılan atıflar, hangi baskıya ait olduğu
+Korpusun kuralı şudur: bu esere yapılan atıflar, hangi baskıya ait olduğu
 belirtilmeden verilemez. Aynı sorun
 [Hobbes — Leviathan](/kaynak/hobbes-leviathan/) dosyasında da kayıtlıdır; o
 eserin 1668 tarihli Latince baskısında tartışmalı konularla ilgili bazı önemli
@@ -86,8 +86,8 @@ Kaynak, eleştirel felsefenin özellikle üç Eleştiri'deki temel fikrinin insa
 yasalarının kaynağı olduğunu ve insan aklının kendisine ahlak yasasını verdiğini
 savunduğunu yazar.[^k1]
 
-Atlas bu özeti bir olgu olarak değil, kaynağın kendi özetleme kararı olarak
-taşır.[^k1] Yazar [Immanuel Kant](/dusunur/kant/) dosyasında ele alınıyor.
+Yazar [Immanuel Kant](/dusunur/kant/)
+dosyasında ele alınıyor.[^k1]
 
 ## Sonraki kuşaktan okuma
 
@@ -96,15 +96,14 @@ ayrı okumayı alt başlıklar hâlinde sıralar ve bunlardan birini Kant sonras
 olarak adlandırır.[^k3] O düşünür
 [G. W. F. Hegel](/dusunur/hegel/) dosyasında ele alınıyor.
 
-## Okuma yönlendirmesi
-
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
+## Okumayı sürdürmek için
+Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
 ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi baskının ve hangi çevirinin
 kullanıldığı her aktarımda belirtilmelidir. Kaynak sınıflandırması
 [Birincil kaynak](/kavram/birincil-kaynak/) dosyasında ele alınıyor.
 
 ## Metne bağ
 
-Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
+Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
 atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
 çevirinin kullanıldığı her aktarımda belirtilmelidir.

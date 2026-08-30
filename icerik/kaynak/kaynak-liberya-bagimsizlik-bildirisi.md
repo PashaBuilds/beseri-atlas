@@ -71,7 +71,7 @@ yerleşimin bağımsızlığını ilan eden metindir.[^k1] İmzacılar, Atlantik
 Yerleşim, bir dernek tarafından örgütlenmişti.[^k2] Derneğin amacı,
 köleliği sona ermiş kişilerin kıtaya yerleştirilmesiydi.
 
-Bu dosyanın asıl konusu metnin kapsamıdır.[^k1] Metin bir hak
+Bu incelemenin asıl konusu metnin kapsamıdır.[^k1] Metin bir hak
 yoksunluğunu anlatır ve kurulan düzen, aynı toprakta yaşayan halkı
 yurttaşlık kapsamının dışında bırakır.
 
@@ -81,11 +81,11 @@ Metin, imzacıların geldikleri ülkede maruz kaldıkları hukuki ve
 toplumsal dışlanmayı sayar.[^k1] Mülkiyet, eğitim ve yargı önündeki
 engeller tek tek anılır.
 
-Bu bölüm, atlasın en doğrudan tanıklık metinlerindendir.[^k3] Dışlanmayı
+Bu bölüm, korpusun en doğrudan tanıklık metinlerindendir.[^k3] Dışlanmayı
 yaşayanların kendi kalemiyle yazılmıştır.
 
-Atlas bu değeri ayrıca kaydeder.[^k2] Bir hak yoksunluğunun mağduru
-tarafından yazılması seyrektir ve künyede ayrıca belirtilmelidir.
+Bir hak yoksunluğunun mağduru
+tarafından yazılması seyrektir ve künyede ayrıca belirtilmelidir.[^k2]
 
 ## Çözüm önerisi
 
@@ -95,10 +95,9 @@ elde edilemeyeceği, bu nedenle başka bir yere gidildiği bildirilir.
 Çözüm, hakları veren düzeni değiştirmeyi hedeflemez.[^k3] Düzenin
 dışına çıkmayı hedefler.
 
-Atlas bu tercihi ayrıca kaydeder.[^k2] Bir hak talebi iki yoldan
-karşılanabilir: mevcut düzeni değiştirerek ya da o düzenin dışına
-çıkarak; ikinci yol yeni bir düzen kurmayı gerektirir ve o düzenin kendi
-kapsamı ayrıca sorulmalıdır.
+Bir hak talebi iki yoldan karşılanabilir: mevcut
+düzeni değiştirerek ya da o düzenin dışına çıkarak; ikinci yol yeni bir düzen kurmayı
+gerektirir ve o düzenin kendi kapsamı ayrıca sorulmalıdır.[^k2]
 
 ## Kurulan düzenin kapsamı
 
@@ -115,16 +114,16 @@ sorulmalıdır.**
 
 ## Ölçümün genelleştirilmesi
 
-Bu, atlasın hak kapsamı dizisine yeni bir gözlem ekler.[^k3] Dizide
+Bu, korpusun hak kapsamı dizisine yeni bir gözlem ekler.[^k3] Dizide
 kapsamın nasıl kurulduğu ölçülmüştü; burada kimin kurduğu sorusu
 ekleniyor.
 
 Gözlem şudur.[^k1] Kapsamı kimin belirlediği, kapsamın genişliğini
 öngörmez; dışlanmış bir grubun kurduğu düzen de dışlayıcı olabilir.
 
-Atlas bunu bir suçlama olarak yazmaz.[^k2] Bir olguyu kaydeder ve
-olgunun neden şaşırtıcı bulunduğunu da sorar; şaşırma, kapsamın yazanın
-kimliğinden çıkarılabileceği varsayımından doğar.
+Bir olguyu kaydeder ve olgunun neden
+şaşırtıcı bulunduğunu da sorar; şaşırma, kapsamın yazanın kimliğinden çıkarılabileceği
+varsayımından doğar.[^k2]
 
 ## Yerleşim ile sömürgeleştirme ayrımı
 
@@ -132,12 +131,12 @@ Bu düzenin nasıl adlandırılacağı tartışmalıdır.[^k2] Yerleşimciler bi
 imparatorluk adına hareket etmiyordu ve kendi bağımsızlıklarını ilan
 ettiler.
 
-Buna karşılık yerleşim biçimi, atlasın sömürge yerleşimlerinde ölçtüğü
+Buna karşılık yerleşim biçimi, korpusun sömürge yerleşimlerinde ölçtüğü
 özellikleri taşır.[^k3] Toprak edinimi, yerel halkla çatışma ve ayrı
 hukuki statü üç örnekte de görülür.
 
-Atlas bir adlandırmaya bağlanmaz.[^k1] Adlandırma tartışmasını kaydeder
-ve ölçülebilir özellikleri ayrı ayrı sıralar.
+Adlandırma tartışmasını kaydeder ve
+ölçülebilir özellikleri ayrı ayrı sıralar.[^k1]
 
 ## Tanınma sorunu
 
@@ -147,21 +146,21 @@ Avrupa devletlerinden tanıma görece hızlı geldi.
 Yerleşimcilerin geldiği ülkeden tanıma on beş yıldan uzun süre
 gecikti.[^k2] Gecikmenin nedeni, o ülkedeki iç siyasi dengelerdi.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k3] Bir devletin tanınması, o
-devletin nitelikleri kadar tanıyacak tarafın iç siyasetine bağlıdır.
+Bir devletin tanınması, o devletin
+nitelikleri kadar tanıyacak tarafın iç siyasetine bağlıdır.[^k3]
 
 ## Kıtadaki konum
 
 Devlet, kıtada sömürge yönetimi altına girmeyen iki birimden
-biridir.[^k2] Bu, atlasın Afrika dosyalarında seyrek görülen bir
+biridir.[^k2] Bu, korpusun Afrika dosyalarında seyrek görülen bir
 durumdur.
 
 Bağımsızlığın korunmasında dış tanınmanın payı vardır.[^k1] Devletin
 kurulduğu yıllarda kıyı bölgeleri hızla paylaşılıyordu.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Tanınmış bir devletin ilhakı ek
-gerekçe gerektirir; gerekçe üretmek maliyetlidir ve maliyet, ilgi düşük
-olduğunda caydırıcıdır.
+Tanınmış bir devletin ilhakı ek gerekçe
+gerektirir; gerekçe üretmek maliyetlidir ve maliyet, ilgi düşük olduğunda
+caydırıcıdır.[^k3]
 
 ## Ekonomik yapı
 
@@ -172,7 +171,7 @@ Yirminci yüzyılda kauçuk plantasyonları ve maden çıkarımı ağırlık
 kazandı.[^k2] İşletmelerin önemli bölümü yabancı sermayeye aitti.
 
 Dosya bu dönemi ayrıntılandırmaz.[^k1] Ayrı bir dosya gerektirir ve bu
-dosya yazıldığında atlasta bulunmuyordu.
+dosya yazıldığında korpusta bulunmuyordu.
 
 ## Kapsamın genişlemesi
 
@@ -182,13 +181,12 @@ iç ve dış baskıların birlikte etkisiyle gerçekleşti.
 Genişleme, kurulu düzendeki güç dağılımını hemen değiştirmedi.[^k2]
 Yönetimde belirli bir kesimin ağırlığı sonraki onyıllarda da sürdü.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Hukuki kapsamın genişlemesi ile
-fiilî temsilin değişmesi ayrı iki olgudur ve ikincisi birincisinden çok
-daha yavaş ilerleyebilir.
+Hukuki kapsamın genişlemesi ile fiilî temsilin
+değişmesi ayrı iki olgudur ve ikincisi birincisinden çok daha yavaş ilerleyebilir.[^k3]
 
 ## Belge katmanındaki yeri
 
-Bu dosyayla birlikte atlasın belge türü kaynakları ona çıktı.[^k1] Afrika
+Bu incelemeyle birlikte korpusun belge türü kaynakları ona çıktı.[^k1] Afrika
 geleneğinden iki belge künyelenmiş oldu.
 
 Denge hâlâ eksiktir.[^k3] Kıtanın kendi hukuk geleneklerinden — sömürge
@@ -196,11 +194,10 @@ Denge hâlâ eksiktir.[^k3] Kıtanın kendi hukuk geleneklerinden — sömürge
 künyelenememiştir.
 
 Eksik borç defterine yazılmıştır.[^k2] Bu, doğrudan kaynak
-erişilebilirliğiyle ilgilidir ve atlasın kendi ölçtüğü dijital erişim
+erişilebilirliğiyle ilgilidir ve korpusun kendi ölçtüğü dijital erişim
 eşitsizliğinin bir örneğidir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, yerleşimin nasıl adlandırılacağı hakkında hüküm vermez.[^k1]
 Tartışmayı kaydeder ve ölçülebilir özellikleri sıralar.
 
@@ -209,8 +206,7 @@ yapılmaz.[^k2] Kapsam sınırlamasının varlığı ve süresi kaydedilir.
 
 Devletin yirminci yüzyıl tarihi işlenmez.[^k3] Ayrı dosyalar gerektirir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Hak kapsamı dizisinin öteki halkaları için
 [İnsan Hakları Evrensel Beyannamesi](/kaynak/insan-haklari-beyannamesi/)
 ve [Magna Carta](/kaynak/magna-carta/) dosyaları okunmalıdır.[^k1]

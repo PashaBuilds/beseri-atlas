@@ -51,7 +51,7 @@ Bu devletin kuruluşu, kendi kaynağında bir devlet kurma işlemi olarak değil
 sonuçlar listesinin maddesi olarak kaydedilir. 3 Ocak 1868 tarihli olayın
 sonuçları arasında Tokugawa şogunluğunun devrilmesi, Japonya İmparatorluğu'nun
 kurulması, sanayileşme ve feodalitenin kaldırılması ile alan düzeninin ve samuray
-sınıfının dağıtılması sayılır.[^k1] Bu dosya, o **paket kuruluşu** ele alır.
+sınıfının dağıtılması sayılır.[^k1] Bu inceleme, o **paket kuruluşu** ele alır.
 
 ## Kuruluş ile tasfiye aynı anda
 
@@ -83,7 +83,7 @@ listede Milletler Cemiyeti'nin başarısızlıkları, dünya ticaretinin çökü
 faşist diplomasi ile birlikte yer alır.[^k2]
 
 Bu liste bir nedensellik zinciri değil, çağdaşların aynı anda izlediği krizlerin
-envanteridir;[^k2] atlas buradan bir neden çıkarmaz. Dönemin savaşı
+envanteridir;[^k2] korpus buradan bir neden çıkarmaz. Dönemin savaşı
 [İkinci Dünya Savaşı](/olay/ikinci-dunya-savasi/) dosyasında ele alınıyor.
 
 ## Ölçek
@@ -92,8 +92,7 @@ Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1945'te yakl
 2,38 milyardır.[^k3] Devletin kendi nüfusuna dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Anayasal düzen, sanayileşme politikalarının içeriği, sömürge yönetimi ve savaş
 sonrası dönüşüm burada ayrı başlıklar altında ele alınmamıştır; kullanılan kaynak
 bölümlerinin kapsamı kuruluş anı ve çağdaş çerçevedir. Dönemin bütünü

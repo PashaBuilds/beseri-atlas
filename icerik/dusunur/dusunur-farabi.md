@@ -52,7 +52,7 @@ Kaynak maddesine şu cümleyle başlar: onun hayatı hakkında gerçekten güven
 az şey biliyoruz; muhtemelen 870 yılında (hicri 257) doğduğu yazılır.[^k1] Bu
 dosya, felsefesini değil **metinlerinin bugünkü durumunu** ele alır.
 
-::tartismali[Kaynak, kişinin hayatına dair güvenilir bilginin azlığını maddenin ilk cümlesi yapıyor ve doğum yılını "muhtemelen" ile veriyor. Atlas bu iki çekinceyi de taşır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Kaynak, kişinin hayatına dair güvenilir bilginin azlığını maddenin ilk cümlesi yapıyor ve doğum yılını "muhtemelen" ile veriyor. Korpus bu iki çekinceyi de taşır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu tür çekincelerin nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -67,7 +67,7 @@ neşirler ile çevirilerin daha derin incelemelere ve canlı tartışmalara yol
 açtığını da kaydeder.[^k1]
 
 Bir düşünürün bin yıl sonra bile bazı metinlerinin hiçbir modern dile
-aktarılmamış olması,[^k1] atlasın kaynak alanına neden erişim tarihi yazdığını
+aktarılmamış olması,[^k1] korpusun kaynak alanına neden erişim tarihi yazdığını
 gösterir: bir metnin erişilebilirliği zamanla değişen bir durumdur.
 
 ## Karşıt örnek: tam edisyonlu bir külliyat
@@ -102,8 +102,7 @@ Bir düşünürün adının farklı geleneklerde farklı biçimlerde kaydedilmes
 [Konfüçyüs](/dusunur/konfucyus/) ve [Aristoteles](/dusunur/aristoteles/)
 dosyalarında da görülen bir örüntüdür.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Mantık, metafizik, siyaset felsefesi ve musiki kuramının içeriği burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

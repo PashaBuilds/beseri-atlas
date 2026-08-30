@@ -13,6 +13,7 @@ etiketler: [somurgecilik, yerlesimci-somurgeciligi, emperyalizm, donemlendirme, 
 ilgili:
   - kavram-emperyalizm
   - kavram-somurgesizlesme
+baglam:
   - tartisma-somurgeciligin-ekonomik-bilancosu
   - tartisma-kesif-mi-istila-mi
   - olay-berlin-konferansi

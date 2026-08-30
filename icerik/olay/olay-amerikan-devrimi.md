@@ -49,7 +49,7 @@ onarim_turu: 0
 Kopuşun kaynağı bir sınır kararıdır. Grenville bakanlığı 1763 Kraliyet
 Bildirisi'ni yayımlayarak Apalaş Dağları ile Mississippi Nehri arasındaki
 toprakları sömürge yerleşimine kapalı bir Yerli Bölgesi olarak
-belirledi.[^k1] Bu dosya, sonraki yirmi yılın **anayasal tartışmasını** ele alır.
+belirledi.[^k1] Bu inceleme, sonraki yirmi yılın **anayasal tartışmasını** ele alır.
 
 ## Neden bir sınır çizildi
 
@@ -105,8 +105,7 @@ Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyondur.[^k3]
 Sömürgelerin kendi nüfusuna dair bir ölçüm kullanılan kaynaklarda bulunmadığı
 için bu toplam içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Bağımsızlık savaşının askerî seyri, anayasanın yapımı, kölelik sorununun devrim
 içindeki yeri ve yerli halkların savaş sırasındaki konumu burada ayrı başlıklar
 altında ele alınmamıştır. Dönemin bütünü [1650–1789](/donem/10/) dosyasında ele

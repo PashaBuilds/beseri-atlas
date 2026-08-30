@@ -12,10 +12,11 @@ eksen: [siyasi, ekonomik]
 guven_geneli: yaygin
 etiketler: [avam-kamarasi, hansard, secmen-tabani, parlamento-yasasi, butce-hakki, temsil]
 ilgili:
+  - olay-1857-hint-ayaklanmasi
+baglam:
   - donem-12
   - aktor-britanya-imparatorlugu
   - aktor-ingiliz-doguhindistan-sirketi
-  - olay-1857-hint-ayaklanmasi
   - kavram-vatandaslik
   - kavram-mesruiyet
   - kavram-hukuk-devleti

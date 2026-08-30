@@ -56,10 +56,10 @@ anılması,[^k1] adın kendisinin bir yorum olduğunu gösterir: "yeniden doğu�
 nitelemesi, öncesini bir ölüm sayan bir çerçeve varsayar.
 
 ::tartismali[Rönesans'ın bir kopuş mu yoksa Orta Çağ'ın devamı mı olduğu, kendi
-referans maddesinde bir tez başlığı olarak yer alır; bu dosya taraf
+referans maddesinde bir tez başlığı olarak yer alır; bu inceleme taraf
 tutmaz.]{harita=tartisma-romanin-cokus-nedeni}
 
-Atlas bu tartışmaya taraf olmaz. Aynı yapıdaki soru — bir dönemin sonunun kopuş mu
+Korpus bu tartışmaya taraf olmaz. Aynı yapıdaki soru — bir dönemin sonunun kopuş mu
 dönüşüm mü olduğu — [Roma neden çöktü?](/tartisma/romanin-cokus-nedeni/)
 haritasında da ele alınıyor.
 
@@ -71,7 +71,7 @@ Floransa'daki kültürel koşullar.[^k1]
 
 Bir kültürel dönemin kökenleri arasında bir pandeminin sayılması,[^k1] demografik
 kırılma ile kültürel değişim arasında bir bağ kurulduğunu gösterir; salgın
-[Kara Ölüm](/olay/kara-olum/) dosyasında ele alınıyor. Atlas bu bağın yönü
+[Kara Ölüm](/olay/kara-olum/) dosyasında ele alınıyor. Korpus bu bağın yönü
 konusunda bir iddia taşımaz.
 
 ## Özellikler listesi tek bir alana ait değil
@@ -103,8 +103,7 @@ Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1600
 yaklaşık 516,1 milyondur.[^k3] Dönemin etkilediği nüfusa dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Sanat tarihi, tek tek düşünürler, mimari ve bilim tarihi burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1] Dönemin
 bütünü [1350-1500](/donem/08/) dosyasında ele alınıyor.

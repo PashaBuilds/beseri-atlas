@@ -72,7 +72,7 @@ yaklaşımından bir ayrışma gösterdiği kaydedilir.[^k1]
 Kaynak, Schelling'in eserin önsözündeki iğneli bir eleştiriyi kendisine yönelik
 yorumladığını ve dostluklarının aniden sona erdiğini yazar.[^k1]
 
-Bir metnin önsözünün bir ilişkiyi bitirmesi,[^k1] atlasın şu kuralının
+Bir metnin önsözünün bir ilişkiyi bitirmesi,[^k1] korpusun şu kuralının
 dayanağıdır: bu esere yapılan atıflar, önsöz ile ana metnin ayrı ayrı
 belirtilmesini gerektirir.
 
@@ -85,7 +85,7 @@ yazar.[^k1] İlgili savaşlar
 
 ## Eserin okuması tartışmalıdır
 
-::tartismali[Kaynak yazarın felsefesine dair üç ayrı okumayı alt başlıklar hâlinde sıralıyor ve hangisinin doğru olduğunu söylemiyor. Atlas da söylemez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Kaynak yazarın felsefesine dair üç ayrı okumayı alt başlıklar hâlinde sıralıyor ve hangisinin doğru olduğunu söylemiyor. Korpus da söylemez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Kaynak okumaları şöyle adlandırır: geleneksel metafizik görüş, kimi zaman
 metafizik olmayan görüş de denen Kant sonrası görüş ve Kant sonrası görüşe karşı
@@ -95,14 +95,13 @@ gözden geçirilmiş metafizik tepki.[^k1] Okumalardan birinin adını aldığı
 alınıyor.[^k3] Yazar
 [G. W. F. Hegel](/dusunur/hegel/) dosyasında ele alınıyor.
 
-## Okuma yönlendirmesi
-
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
+## Okumayı sürdürmek için
+Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
 ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi baskının ve hangi çevirinin
 kullanıldığı her aktarımda belirtilmelidir.
 
 ## Metne bağ
 
-Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
+Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
 atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
 çevirinin kullanıldığı her aktarımda belirtilmelidir.

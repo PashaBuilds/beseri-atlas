@@ -49,7 +49,7 @@ Weber, Schmuel Eisenstadt, Richard Pipes, J. I. Bakker ve Francis Fukuyama.[^k1]
 
 ## Kavramın beş ayrı betimlemesi vardır
 
-::tartismali[Kaynak kavramı tek bir tanımla vermiyor; beş araştırmacının betimlemesini ayrı ayrı sıralıyor. Atlas bu dosyada tek bir tanım kullanmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Kaynak kavramı tek bir tanımla vermiyor; beş araştırmacının betimlemesini ayrı ayrı sıralıyor. Korpus bu incelemede tek bir tanım kullanmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Kavram tartışmalarının nasıl taşınacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -57,8 +57,8 @@ haritasında ele alınıyor.
 
 ## Zayıflık kavramın kendi bölümüdür
 
-Kaynağın kavrama dair bir zayıflık bölümü tutması,[^k1] atlasın şu kuralının
-dayanağıdır: bu dosyada patrimonyalizm, bir yönetim biçiminin adı olarak
+Kaynağın kavrama dair bir zayıflık bölümü tutması,[^k1] korpusun şu kuralının
+dayanağıdır: bu incelemede patrimonyalizm, bir yönetim biçiminin adı olarak
 kullanıldığında kaynağın kendi çekincesiyle birlikte anılır.
 
 ## Listenin ilk adı
@@ -98,9 +98,8 @@ değil göreve bağlandığı düzendir.
 İki biçim saf hâlde ender bulunur.[^k1] Çoğu düzen ikisinin
 karışımıdır.
 
-Atlas bu karışımı ayrıca kaydeder.[^k3] İki ideal tipin arasındaki
-mesafe, bir düzeni sınıflandırmaktan çok ölçmeye
-yarar.
+İki ideal tipin arasındaki mesafe, bir
+düzeni sınıflandırmaktan çok ölçmeye yarar.[^k3]
 
 ## Ev ile devletin ayrılmaması
 
@@ -111,9 +110,8 @@ Bu, saray görevlilerinin devlet görevlisi olmasını
 doğurur.[^k1] Mutfak, ahır ve hazine görevlileri aynı hiyerarşinin
 parçasıdır.
 
-Atlas bu yapıyı ayrıca kaydeder.[^k3] Devlet görevlerinin saray
-hizmetlerinden türemesi, kavramın en görünür
-izidir.
+Devlet görevlerinin saray hizmetlerinden
+türemesi, kavramın en görünür izidir.[^k3]
 
 ## Ölçmenin yolu
 
@@ -125,9 +123,8 @@ Sık azil, konumun kurala değil kişiye bağlı olduğunu
 gösterir.[^k1] Uzun süreli görevler tersini
 gösterir.
 
-Atlas bu göstergeyi ayrıca kaydeder.[^k3] Bir kavramın doğrudan
-ölçülememesi, hiçbir göstergesinin olmadığı anlamına
-gelmez.
+Bir kavramın doğrudan ölçülememesi, hiçbir
+göstergesinin olmadığı anlamına gelmez.[^k3]
 
 
 ## Sadakat ile ehliyet
@@ -139,9 +136,8 @@ Ehliyet ikinci sıraya düşebilir.[^k1] Bu, kısa vadede istikrar, uzun
 vadede kapasite kaybı
 üretir.
 
-Atlas bu değiş tokuşu ayrıca kaydeder.[^k3] Sadakati önceleyen bir
-atama düzeni, en yetkin kişiyi dışarıda bırakma riskini kalıcı olarak
-taşır.
+Sadakati önceleyen bir atama
+düzeni, en yetkin kişiyi dışarıda bırakma riskini kalıcı olarak taşır.[^k3]
 
 ## Devşirme ve kul düzeni
 
@@ -153,22 +149,19 @@ Bu kişilerin tek dayanağı hükümdardı.[^k1] Sadakat ile ehliyet aynı
 kişide birleştirilmeye
 çalışıldı.
 
-Atlas bu çözümü ayrıca kaydeder.[^k3] Yerel bağı olmayan bir görevli,
-merkeze bağımlı olduğu için hem sadık hem denetlenebilir
-sayıldı.
+Yerel bağı olmayan bir görevli, merkeze
+bağımlı olduğu için hem sadık hem denetlenebilir sayıldı.[^k3]
 
 ## Çözümün sınırı
 
 Bu düzen de kendi sorununu üretti.[^k2] Zamanla bu görevliler kendi
 grup çıkarlarını geliştirdi.
 
-Atlasın başka dosyalarında aynı sonuç kayıtlıdır.[^k1] Bağımsız olsun
-diye kurulan bir kurum, bağımsızlığını kuranına karşı da
-kullanabilir.
+Bağımsız olsun diye kurulan
+bir kurum, bağımsızlığını kuranına karşı da kullanabilir.[^k1]
 
-Atlas bu tekrarı ayrıca kaydeder.[^k3] Aynı örüntünün farklı
-kıtalarda görülmesi, onu yapısal
-kılar.
+Aynı örüntünün farklı kıtalarda görülmesi,
+onu yapısal kılar.[^k3]
 
 
 ## Kavramın kullanım sınırı
@@ -181,15 +174,12 @@ Küçük ölçekte kişiye bağlı düzen daha hızlı
 işleyebilir.[^k1] Sorun ölçek büyüdüğünde
 çıkar.
 
-Atlas bu ölçek bağını ayrıca kaydeder.[^k3] Bir yönetim biçiminin
-yeterliliği, yönettiği alanın büyüklüğüne göre
-değişir.
+Bir yönetim biçiminin yeterliliği,
+yönettiği alanın büyüklüğüne göre değişir.[^k3]
 
-## Atlasta kullanımı
-
-Atlas kavramı bir sınıflandırma etiketi olarak
-kullanmaz.[^k2] Üç ölçüt her düzen için ayrı ayrı
-sorulur.
+## Nasıl kullanılır?
+Üç ölçüt her düzen için ayrı ayrı
+sorulur.[^k2]
 
 Sonuç bir derecedir.[^k1] Bir düzen bir ölçütte patrimonyal, başka
 ölçütte bürokratik
@@ -206,7 +196,6 @@ Kavramı bugünkü biçimiyle tanımlayan yazar, onu bir ideal tip olarak
 kurdu.[^k2] Amaç betimlemek değil karşılaştırma ölçütü
 üretmekti.[^k1][^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Betimlemelerin içeriği, örnekler ve çağdaş tartışmalar burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]

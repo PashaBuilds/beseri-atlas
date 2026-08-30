@@ -56,7 +56,7 @@ Kaynak, erken tarih başlığı altında üç alt başlık tutar: antik Yunan, �
 
 ## Üç gelenek yan yana kaydedilmiştir
 
-::tartismali[Kaynak erken tarihi tek bir gelenekle değil üç ayrı gelenekle başlatıyor. Atlas bu kavramı belirli bir uygarlığın buluşu olarak sunmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Kaynak erken tarihi tek bir gelenekle değil üç ayrı gelenekle başlatıyor. Korpus bu kavramı belirli bir uygarlığın buluşu olarak sunmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Kavram tartışmalarının nasıl taşınacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -67,8 +67,8 @@ haritasında ele alınıyor.
 Kaynak, hukuk kuramı ve felsefesi başlığı altında biçimci anlayış ile maddi
 anlayışı ayrı alt başlıklar olarak tutar.[^k1]
 
-Aynı kavramın iki farklı anlayışla tanımlanması,[^k1] atlasın şu kuralının
-dayanağıdır: bu dosyada hukuk devleti, hangi anlayışın kastedildiği belirtilmeden
+Aynı kavramın iki farklı anlayışla tanımlanması,[^k1] korpusun şu kuralının
+dayanağıdır: bu incelemede hukuk devleti, hangi anlayışın kastedildiği belirtilmeden
 bir ölçüt olarak kullanılmaz.
 
 ## Toplum bilimsel çözümlemeler ayrı bir bölümdür
@@ -89,8 +89,7 @@ Yakın bir kavram için tutulan kayıt, mutlaklık, dışlayıcılık ile hukuke
 fiilen egemenlik alt başlıklarını tutar.[^k3] O kavram
 [Egemenlik](/kavram/egemenlik/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ülke ülke tarihler, kuramların içeriği ve ölçüm endeksleri burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]
 

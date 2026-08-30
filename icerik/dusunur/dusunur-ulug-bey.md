@@ -61,7 +61,7 @@ gençliğinde devraldı.
 Yönetim süresi uzun, hükümdarlık süresi kısadır.[^k3] Yaklaşık kırk
 yıl bölgeyi yönetti, ancak bütünün başında yalnızca birkaç yıl kaldı.
 
-Bu dosya bir siyasi biyografi değildir.[^k2] Bir hükümdarın ölçüm
+Bu inceleme bir siyasi biyografi değildir.[^k2] Bir hükümdarın ölçüm
 işine yaptığı yatırımın ve o yatırımın kaderinin kaydıdır.
 
 ## Rasathane bir yatırımdır
@@ -73,8 +73,8 @@ oturtulmuş bir yay.
 Bu ölçekte bir araç bir kişinin işi değildir.[^k3] Taş işçiliği, arazi,
 sürekli personel ve yıllara yayılan finansman gerektirir.
 
-Atlas bu yüzden rasathaneyi bir kurum sayar.[^k2] Ölçüm aletinin
-büyüklüğü, arkasındaki kurumun büyüklüğünü de gösterir.
+Ölçüm aletinin büyüklüğü, arkasındaki
+kurumun büyüklüğünü de gösterir.[^k2]
 
 ## Neden büyük alet
 
@@ -85,8 +85,8 @@ Yay ne kadar uzunsa, bir derecelik açı o kadar geniş bir yay parçasına
 karşılık gelir.[^k3] Daha geniş bir aralık, daha ince bölmelendirme ve
 daha küçük okuma hatası demektir.
 
-Atlas bu bağı ayrıca kaydeder.[^k2] Ölçümün doğruluğu, gözlemcinin
-dikkatinden önce aletin fiziksel sınırlarına bağlıdır.
+Ölçümün doğruluğu, gözlemcinin
+dikkatinden önce aletin fiziksel sınırlarına bağlıdır.[^k2]
 
 ## Ne üretildi
 
@@ -96,9 +96,8 @@ konumlarını hesaplamaya yarayan tablolar bütünüdür.
 Bu zîcin ayırt edici yanı yıldız kataloğudur.[^k1] Katalog, eski
 kayıtları kopyalamak yerine yeni gözlemlere dayandırıldı.
 
-Atlas bu tercihi ayrıca kaydeder.[^k3] Bin yıldan uzun süredir
-kopyalanan bir listeyi yeniden ölçmek, ayrı bir karar ve ayrı bir
-maliyettir.
+Bin yıldan uzun süredir kopyalanan bir
+listeyi yeniden ölçmek, ayrı bir karar ve ayrı bir maliyettir.[^k3]
 
 ## Kopyalamak ile ölçmek
 
@@ -108,9 +107,8 @@ pahalıydı ve otoriteye karşı çıkma riski taşıyordu.
 Yine de yeniden ölçüldü.[^k3] Sonuçların bir bölümü eski kayıtla
 örtüştü, bir bölümü örtüşmedi.
 
-Atlas bu işlemi kendi yöntemine bağlar.[^k2] **Bir kaydın uzun süredir
-tekrarlanıyor olması, doğruluğunun değil yalnızca aktarımının
-kanıtıdır.**
+**Bir kaydın uzun süredir tekrarlanıyor
+olması, doğruluğunun değil yalnızca aktarımının kanıtıdır.**[^k2]
 
 ## Ekip meselesi
 
@@ -120,8 +118,8 @@ matematikçileri ve astronomları görev aldı.
 Ekip üyelerinin bazıları eserlerini ayrıca yazdılar.[^k3] Kimin hangi
 hesabı yaptığı, bu eserlerden kısmen izlenebilir.
 
-Atlas katkı dağılımını ayrıca kaydeder.[^k2] Hükümdarın adıyla anılan
-bir eser, hükümdarın tek başına ürettiği bir eser değildir.
+Hükümdarın adıyla anılan bir eser,
+hükümdarın tek başına ürettiği bir eser değildir.[^k2]
 
 ## Hükümdarın kendi katkısı
 
@@ -131,8 +129,8 @@ hükümdarları için olağan bir uğraş değildi.
 Katkının kapsamı tartışmalıdır.[^k3] Eserin girişindeki ifadeler,
 hükümdarın rolünü belirlemekte tek başına yeterli değildir.
 
-Atlas bu belirsizliği korur.[^k2] Bir eserin kime atfedildiği ile kimin
-yaptığı, ayrı ayrı sorulması gereken iki sorudur.
+Bir eserin kime atfedildiği ile
+kimin yaptığı, ayrı ayrı sorulması gereken iki sorudur.[^k2]
 
 ## Ölçümün doğruluğu
 
@@ -142,8 +140,8 @@ uzunluğu ve gök ekseninin eğikliği bunlar arasındadır.
 Yakınlık şaşırtıcı değildir.[^k3] Büyük bir aletle uzun süre yapılan
 tekrarlı gözlem, tam da bu sonucu üretmek için tasarlanmıştı.
 
-Atlas yine de dikkatli davranır.[^k2] Bir değerin bugünküne yakın
-çıkması, o değerin nasıl elde edildiğini açıklamaz.
+Bir değerin bugünküne yakın çıkması, o
+değerin nasıl elde edildiğini açıklamaz.[^k2]
 
 ## Kataloğun kapsamı
 
@@ -153,8 +151,8 @@ koordinat sisteminde, sayısal olarak kaydedilmiştir.
 Bütün yıldızlar yeniden gözlenmedi.[^k3] Semerkant'ın enleminden
 görülemeyen yıldızlar için eski kayıtlara başvuruldu.
 
-Atlas bu ayrımı önemli sayar.[^k2] Bir katalogda hangi kaydın yeni
-gözlemden, hangisinin aktarımdan geldiği ayrıca işaretlenmelidir.
+Bir katalogda hangi kaydın yeni gözlemden, hangisinin
+aktarımdan geldiği ayrıca işaretlenmelidir.[^k2]
 
 ## Coğrafyanın ölçüme etkisi
 
@@ -164,8 +162,8 @@ göğünün bir bölümü Semerkant'tan hiç görünmez.
 Bu, kaçınılmaz bir kısıttır.[^k3] Tek bir yerde kurulan bir rasathane,
 göğün ancak bir bölümünü ölçebilir.
 
-Atlas aynı kısıtı kendi çalışmasına uygular.[^k2] Tek bir konumdan
-bakan bir derleme, göremediği alanı da beyan etmelidir.
+Tek bir konumdan bakan bir derleme,
+göremediği alanı da beyan etmelidir.[^k2]
 
 ## Medresenin işlevi
 
@@ -175,8 +173,8 @@ ve astronomi ağırlıklı bir eğitim verildi.
 İkisi birlikte düşünülmelidir.[^k3] Rasathane ölçüm yapar, medrese
 ölçümü yapacak kişiyi yetiştirir.
 
-Atlas bu bağı kurumsal sayar.[^k2] Bir ölçüm geleneği, alet kadar
-öğretim düzeni de gerektirir.
+Bir ölçüm geleneği, alet kadar öğretim
+düzeni de gerektirir.[^k2]
 
 ## Kurumun sonu
 
@@ -186,8 +184,8 @@ kaldı ve zamanla yıkıldı.
 Yıkım hızlı oldu.[^k3] Bir kuruma yapılan yatırımın koruyucusu
 kaybolunca, kurumun kendisi de kısa sürede kaybolabilir.
 
-Atlas bu kırılganlığı ayrıca kaydeder.[^k2] Bir bilgi kurumunun ömrü,
-onu koruyan siyasi düzenin ömrüne bağlı olabilir.
+Bir bilgi kurumunun ömrü, onu koruyan
+siyasi düzenin ömrüne bağlı olabilir.[^k2]
 
 ## Eserin kurumdan uzun yaşaması
 
@@ -197,9 +195,8 @@ bölgenin dışına taşındı.
 Ekipten biri çalışmayı batıya götürdü.[^k3] Eser, başka bir düzenin
 eğitim ve takvim işlerinde kullanıldı.
 
-Atlas bu ayrımı bir kural olarak kaydeder.[^k2] **Bir ölçüm, onu
-yaptıran kurumdan uzun yaşayabilir; taşınabilir olması bunun
-koşuludur.**
+**Bir ölçüm, onu yaptıran kurumdan uzun yaşayabilir;
+taşınabilir olması bunun koşuludur.**[^k2]
 
 ## Taşınabilirlik neyi belirler
 
@@ -208,8 +205,8 @@ Rasathane taşınamazdı.[^k1] Tablolar taşınabilirdi.
 Fark, malzemededir.[^k3] Taşa oturtulmuş bir alet yerinde kalır; kâğıda
 yazılmış bir sayı listesi çoğaltılabilir.
 
-Atlas bu farkı genelleştirir.[^k2] Bir bilginin yayılma ihtimali,
-içeriğinden çok taşındığı ortamın özelliklerine bağlıdır.
+Bir bilginin yayılma ihtimali, içeriğinden çok
+taşındığı ortamın özelliklerine bağlıdır.[^k2]
 
 ## Batıya ulaşması
 
@@ -219,20 +216,19 @@ Zîc, sonraki yüzyıllarda Avrupa'da da yayımlandı.[^k3] Latinceye
 Kullanım, kaynağın hangi gelenekten geldiğine bakılmadan yapıldı.[^k1]
 Değerlendirilen, tabloların hesapla uyuşup uyuşmadığıydı.
 
-Atlas bu tutumu Kâtib Çelebi dosyasına bağlar.[^k2] Aynı ilke, bir
-yüzyıl sonra ters yönde ve yazılı bir gerekçeyle uygulandı.
+Aynı ilke, bir yüzyıl sonra ters yönde
+ve yazılı bir gerekçeyle uygulandı.[^k2]
 
 ## İki yönlü akış
 
-Atlas bu örneği ayrıca kaydeder.[^k1] Bilgi akışı tek yönlü bir
-anlatıya sığmaz.
+Bilgi akışı tek yönlü bir anlatıya
+sığmaz.[^k1]
 
 Aynı yüzyıllarda tablolar doğudan batıya, coğrafya eserleri batıdan
 doğuya taşındı.[^k3] İki hareket birbirinden bağımsız değildi.
 
-Atlas bu yüzden tek yönlü aktarım anlatılarını sorgular.[^k2] Bir
-dönemin bilgi akışı, o dönemin siyasi üstünlüğüyle aynı yönde
-olmayabilir.
+Bir dönemin bilgi akışı, o dönemin
+siyasi üstünlüğüyle aynı yönde olmayabilir.[^k2]
 
 ## Rasathanenin bulunması
 
@@ -242,8 +238,8 @@ yapılan bir kazıyla ortaya çıkarıldı.
 Kazıda aletin taşa gömülü bölümü bulundu.[^k3] Bu bölüm, aletin
 büyüklüğünün doğrudan kanıtıdır.
 
-Atlas bu buluntuyu ayrı bir kanıt türü sayar.[^k2] Metinde anlatılan
-bir aletin fiziksel kalıntısı, metnin bağımsız doğrulamasıdır.
+Metinde anlatılan bir aletin
+fiziksel kalıntısı, metnin bağımsız doğrulamasıdır.[^k2]
 
 ## Metin ve kalıntının birlikte okunması
 
@@ -253,8 +249,8 @@ yapıldığını gösterir.
 İkisi ayrı sorulara cevap verir.[^k3] Biri yöntemi, diğeri varlığı
 kanıtlar.
 
-Atlas iki kanıtı birlikte ister.[^k2] Yalnızca metne dayanan bir iddia,
-yalnızca kalıntıya dayanan bir iddiadan daha güçlü değildir.
+Yalnızca metne dayanan bir
+iddia, yalnızca kalıntıya dayanan bir iddiadan daha güçlü değildir.[^k2]
 
 ## Hükümdarlık ile uğraş arasındaki gerilim
 
@@ -264,8 +260,8 @@ işlerinin ihmal edildiği ileri sürüldü.
 Bu eleştiri, ölümünden sonraki anlatılarda güçlendi.[^k3] Yenilen
 tarafın uğraşları, yenilginin nedeni olarak gösterilmeye elverişlidir.
 
-Atlas bu anlatı kalıbını işaretler.[^k2] Bir yöneticinin ilgi alanı,
-başarısızlığının nedeni olarak sunulduğunda ayrıca sorgulanmalıdır.
+Bir yöneticinin ilgi alanı,
+başarısızlığının nedeni olarak sunulduğunda ayrıca sorgulanmalıdır.[^k2]
 
 ## Takvimin pratik karşılığı
 
@@ -276,8 +272,8 @@ Bu kullanım, yatırımın gerekçesini de açıklar.[^k3] Bir hükümdarın
 rasathaneye kaynak ayırması, merakla olduğu kadar yönetimin günlük
 ihtiyaçlarıyla da ilgilidir.
 
-Atlas bu bağı ayrıca kaydeder.[^k2] Bir bilgi kurumunun sürekliliği,
-ürettiği bilginin gündelik bir işe yaramasına bağlı olabilir.
+Bir bilgi kurumunun sürekliliği,
+ürettiği bilginin gündelik bir işe yaramasına bağlı olabilir.[^k2]
 
 ## Ölçümün tekrarlanabilirliği
 
@@ -287,9 +283,8 @@ gözlemin nasıl yapıldığı ve hesabın nasıl yürütüldüğü yazılıdır
 Bu, sonucun sınanabilmesini sağlar.[^k1] Yöntemi bilen bir okur, aynı
 hesabı yeniden yapabilir ve farklı bir sonuç bulursa itiraz edebilir.
 
-Atlas bu özelliği doğrudan kendi kuralına bağlar.[^k3] Yöntemini
-bildiren bir kayıt, yalnızca sonucunu bildiren bir kayıttan daha
-güçlüdür.
+Yöntemini bildiren bir kayıt, yalnızca
+sonucunu bildiren bir kayıttan daha güçlüdür.[^k3]
 
 ## Sayıların yazılışı
 
@@ -300,8 +295,8 @@ Standart olması, karşılaştırmayı mümkün kıldı.[^k1] Farklı yerlerde
 üretilmiş tablolar aynı biçimde okunabildiği için yan yana
 konabiliyordu.
 
-Atlas bu koşulu ayrıca kaydeder.[^k3] Ortak bir gösterim biçimi,
-bilginin dolaşımı için dilden daha belirleyici olabilir.
+Ortak bir gösterim biçimi,
+bilginin dolaşımı için dilden daha belirleyici olabilir.[^k3]
 
 ## Semerkant'ın konumu
 
@@ -311,11 +306,10 @@ konum, kaynakların ve kişilerin toplanmasını kolaylaştırdı.
 Rasathaneye gelen astronomların bir bölümü başka bölgelerden
 geldi.[^k3] Kentin çekim gücü, hükümdarın davetinden ibaret değildi.
 
-Atlas konumu bir etken sayar.[^k2] Bir bilgi merkezinin kurulduğu yer,
-oraya kimin ulaşabileceğini de belirler.
+Bir bilgi merkezinin kurulduğu yer, oraya kimin
+ulaşabileceğini de belirler.[^k2]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, zîcin hesap yöntemlerini çözümlemez.[^k1] Bu, ayrı bir uzmanlık
 alanıdır.
 
@@ -324,11 +318,10 @@ kimin kime karşı hangi desteği aldığı sorusuyla birlikte ayrı bir
 dosyayı hak eder ve burada geçiştirilmemelidir.
 
 Zîcin doğrulanabilir çevrimiçi tam metni künyelenememiştir.[^k2] Erişilebilir
-nüsha taramaları bu dosya yazıldığında doğrulanamamıştır ve kısıt
+nüsha taramaları bu inceleme yazıldığında doğrulanamamıştır ve kısıt
 burada beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Bağlı olduğu düzen için
 [Timur İmparatorluğu](/aktor/timur-imparatorlugu/) dosyası
 okunmalıdır.[^k1]

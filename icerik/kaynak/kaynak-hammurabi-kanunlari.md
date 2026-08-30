@@ -73,10 +73,10 @@ girişle başlar, iki yüzü aşkın hüküm sıralar ve bir lanet bölümüyle
 biter.
 
 Dikilitaş bugün bir müzede bulunmaktadır ve metin tam olarak
-okunabilmektedir.[^k2] Bu, atlasın en erken tarihli tam metin
+okunabilmektedir.[^k2] Bu, korpusun en erken tarihli tam metin
 künyesidir.
 
-Bu dosyanın asıl konusu metnin yapısıdır.[^k1] Hükümlerin önemli bölümü,
+Bu incelemenin asıl konusu metnin yapısıdır.[^k1] Hükümlerin önemli bölümü,
 cezayı fiile değil tarafların toplumsal konumuna göre belirler.
 
 ## Nesne ve metin bir arada
@@ -87,8 +87,8 @@ Kaynak hem bir metin hem bir nesnedir.[^k2] Dikilitaşın kendisi,
 Boyutu ve konumu bir ilan işlevine işaret eder.[^k1] Metin, okunması için
 değil görülmesi için de dikilmiş olabilir.
 
-Atlas bu ikiliği ayrıca kaydeder.[^k3] Aynı kaynağın iki ayrı kanıt
-türü olarak okunabilmesi seyrektir ve burada ikisi de kullanılabilir.
+Aynı kaynağın iki ayrı kanıt türü olarak
+okunabilmesi seyrektir ve burada ikisi de kullanılabilir.[^k3]
 
 ## Kanun mu derleme mi
 
@@ -99,20 +99,20 @@ Alternatif okuma, metni bir hükümdar övgüsü sayar.[^k2] Bu okumada
 hükümler, uygulanan kurallar değil hükümdarın adaletini gösteren
 örneklerdir.
 
-Atlas bir sonuca bağlanmaz.[^k1] İki okuma da metnin kendisine uyar ve
-ayrım ancak mahkeme kayıtlarıyla yapılabilir.
+İki okuma da metnin kendisine uyar ve
+ayrım ancak mahkeme kayıtlarıyla yapılabilir.[^k1]
 
-## Ayrımın atlas için önemi
+## Ayrımın korpus için önemi
 
 Bir metnin kanun sayılması, uygulandığının gösterilmesine
 bağlıdır.[^k3] Yazılmış olması tek başına yeterli değildir.
 
-Bu, atlasın bütün hukuk belgesi künyeleri için geçerli bir kuraldır.[^k1]
+Bu, korpusun bütün hukuk belgesi künyeleri için geçerli bir kuraldır.[^k1]
 Bir belgenin ne dediği ile o belgenin ne kadar uygulandığı ayrı iki
 sorudur.
 
-Atlas iki soruyu ayrı ayrı sorar.[^k2] Uygulama kanıtı bulunamadığında,
-belge yalnızca "beyan edilen düzen" olarak kaydedilir.
+Uygulama kanıtı bulunamadığında, belge
+yalnızca "beyan edilen düzen" olarak kaydedilir.[^k2]
 
 ## Konuma göre değişen ceza
 
@@ -128,10 +128,10 @@ farklı bedeli açıkça yazar.
 
 ## Açıklığın anlamı
 
-Atlas bu açıklığı ayrıca kaydeder.[^k3] Eşitsizliğin belgeye yazılmış
-olması, onu incelenebilir kılar.
+Eşitsizliğin belgeye yazılmış
+olması, onu incelenebilir kılar.[^k3]
 
-Aynı gözlem atlasın vesayet dosyasında da yapılmıştı.[^k2] Bir
+Aynı gözlem korpusun vesayet dosyasında da yapılmıştı.[^k2] Bir
 hiyerarşinin belgede yazılı olması, onu tartışılabilir kılar;
 yazılmadığı yerde aynı hiyerarşi işler ama gösterilemez.
 
@@ -148,8 +148,8 @@ Bu, bugünkü eşitlik anlayışından farklıdır ve fark
 belirtilmelidir.[^k3] Metni bugünün ölçütüyle okumak, onun kendi
 tutarlılığını görünmez kılar.
 
-Atlas iki katmanı ayrı tutar.[^k2] Önce metnin kendi mantığı, sonra
-bugünün diliyle neye benzediği yazılır.
+Önce metnin kendi mantığı, sonra bugünün
+diliyle neye benzediği yazılır.[^k2]
 
 ## Bedel ölçekleri
 
@@ -171,8 +171,8 @@ metnin en çok alıntılanan bölümüdür.
 Alıntılanma sıklığı, metindeki ağırlığını yansıtmaz.[^k2] Kısas
 hükümleri azınlıktadır ve bedel hükümleri çok daha yaygındır.
 
-Atlas bu orantısızlığı ayrıca kaydeder.[^k3] Bir metnin en çok
-alıntılanan bölümü, o metnin ne olduğunu göstermeyebilir.
+Bir metnin en çok alıntılanan
+bölümü, o metnin ne olduğunu göstermeyebilir.[^k3]
 
 ## Ekonomik hükümler
 
@@ -193,12 +193,12 @@ Metinde sulama kanallarının bakımına ilişkin hükümler bulunur.[^k1]
 Kanalını bakımsız bırakıp komşusunun tarlasını su basmasına yol açan
 kişi zarardan sorumlu tutulur.
 
-Bu hükümler, atlasın sulama dosyalarında ölçtüğü kısıtı doğrudan
+Bu hükümler, korpusun sulama dosyalarında ölçtüğü kısıtı doğrudan
 belgeler.[^k2] Sulamaya dayanan tarım, ortak bakım yükümlülüğü
 gerektirir ve bu yükümlülük hukuki olarak tanımlanmıştır.
 
-Atlas bu örtüşmeyi ayrıca kaydeder.[^k3] Bir coğrafi kısıtın hukuk
-metnine yansıması, kısıtın gerçekten bağlayıcı olduğunun kanıtıdır.
+Bir coğrafi kısıtın hukuk metnine
+yansıması, kısıtın gerçekten bağlayıcı olduğunun kanıtıdır.[^k3]
 
 ## Girişin işlevi
 
@@ -209,9 +209,8 @@ listesinden uzundur.
 Bu oran bir şey gösterir.[^k2] Metnin ağırlığı hükümlerde değil, hükümleri
 koyanın yetkisinin gerekçelendirilmesindedir.
 
-Atlas bu yapıyı ayrıca kaydeder.[^k3] Bir hukuk metninin ne kadarının
-yetki gerekçesine ayrıldığı, o yetkinin ne kadar tartışmalı olduğunun
-göstergesi olabilir.
+Bir hukuk metninin ne kadarının yetki gerekçesine
+ayrıldığı, o yetkinin ne kadar tartışmalı olduğunun göstergesi olabilir.[^k3]
 
 ## Lanet bölümü
 
@@ -233,11 +232,10 @@ derlemeler bilinmektedir ve bir bölümü kısmen korunmuştur.
 Bu metnin öne çıkmasının nedeni tam korunmuş olmasıdır.[^k1] Öncelik
 iddiası, korunma durumundan çıkarılmamalıdır.
 
-Atlas bu uyarıyı ayrıca yazar.[^k3] En erken kayıt, korunmuş kayıtların
-en erkenidir; korunmamış olanlar hakkında bir şey söylemez.
+En erken kayıt, korunmuş kayıtların en
+erkenidir; korunmamış olanlar hakkında bir şey söylemez.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, metnin uygulanıp uygulanmadığı hakkında hüküm vermez.[^k1] İki
 okuma da kaydedilir.
 
@@ -248,8 +246,7 @@ tartışılmamıştır.
 Hükümlerin tek tek içeriği aktarılmaz.[^k3] Metin künyede erişilebilir
 durumdadır ve dosya yalnızca yapısını kaydeder.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı yapıyı üç bin yıl sonra gösteren belge için
 [Magna Carta](/kaynak/magna-carta/), hiyerarşinin belgeye yazılmasının
 yirminci yüzyıl örneği için

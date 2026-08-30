@@ -1,7 +1,7 @@
 {
   "id": "kavram-kolelik",
-  "govde_hash": "edce2c1b5b5c",
-  "commit": "9ff3a1f",
+  "govde_hash": "435823b417f1",
+  "commit": "4373ec95",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -291,5 +291,13 @@
     "kismi": 4,
     "desteksiz": 0,
     "olculemez": 0
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "edce2c1b5b5c",
+      "yeni_hash": "435823b417f1",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    }
+  ]
 }

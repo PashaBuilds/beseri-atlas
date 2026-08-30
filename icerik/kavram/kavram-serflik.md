@@ -13,10 +13,11 @@ eksen: [ekonomik, siyasi, kulturel]
 guven_geneli: yaygin
 etiketler: [serflik, angarya, manor, ikinci-serflik, adet, koyluluk]
 ilgili:
+  - tartisma-feodalite-kavrami
+baglam:
   - kavram-kolelik
   - kavram-feodalite
   - kavram-vasallik
-  - tartisma-feodalite-kavrami
   - tartisma-kara-olumun-sonuclari
   - kavram-timar
   - kavram-zorunlu-emek-duzeni

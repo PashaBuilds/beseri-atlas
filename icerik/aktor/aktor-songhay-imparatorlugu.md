@@ -47,7 +47,7 @@ onarim_turu: 0
 ---
 
 Bu imparatorluğun para düzeni iki farklı ekonomiyi aynı anda taşır: kaynak para
-birimi olarak hem deniz kabuğu parayı hem altın sikkeleri kaydeder.[^k1] Bu dosya,
+birimi olarak hem deniz kabuğu parayı hem altın sikkeleri kaydeder.[^k1] Bu inceleme,
 o **ikili yapıyı** ele alır.
 
 ## İki para, iki ticaret alanı
@@ -63,7 +63,7 @@ Kaynak dini Sünni İslam ve geleneksel Afrika dinleri olarak birlikte
 kaydeder.[^k1] Yönetici unvanı imparatordur.[^k1]
 
 Para düzeninde görülen ikilik dinde de tekrar eder: resmî inanç ile yerel inanç
-aynı kayıtta yan yana durur.[^k1] Atlas bunlardan birini asıl ilan etmez.
+aynı kayıtta yan yana durur.[^k1] Korpus bunlardan birini asıl ilan etmez.
 
 ## Nehir donanması
 
@@ -96,8 +96,7 @@ Uzun dönemli seride dünya nüfusu 1500'de yaklaşık 503,1 milyon, 1600'de yak
 516,1 milyondur.[^k3] İmparatorluğun kendi nüfusuna dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 İmparatorluğun idari örgütlenmesi, ceza hukuku, ekonomisi ve Timbuktu ile ilişkisi
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1] Dönemin bütünü [1500-1650](/donem/09/) dosyasında ele alınıyor.

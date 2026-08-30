@@ -65,13 +65,13 @@ Devlet, çok sayıda ayrı topluluğun bir çatı altında birleşmesiyle
 kuruldu.[^k1] Birleşme askerî fetihle değil, ortak bir sembol ve ortak bir hukuk
 düzeni etrafında anlaşmayla sağlandı.
 
-Bu dosyanın asıl konusu o düzendir.[^k2] Devlet, yazıya dayanmayan bir
+Bu incelemenin asıl konusu o düzendir.[^k2] Devlet, yazıya dayanmayan bir
 hukuk ve protokol aygıtı işletti.
 
 ## Yazısız devlet aygıtı
 
-Atlasın kanıt dosyasında yazılı kayıt bırakmayan düzenler için bir kısıt
-tanımlanır.[^k1] Bu dosya kısıtın bir başka yüzünü gösterir.
+Bu inceleme kısıtın bir başka yüzünü
+gösterir.[^k1]
 
 Yazının bulunmaması, karmaşık bir devlet aygıtının bulunmadığı anlamına
 gelmez.[^k2] Vergi, yargı, elçilik ve askerlik düzenleri işliyordu.
@@ -87,7 +87,7 @@ kişiler belirli bilgi kümelerinden sorumluydu.
 Sorumluluk kalıtsaldı ve eğitimle aktarılıyordu.[^k2] Yanlış aktarma
 ağır bir kusur sayılıyordu.
 
-Bu, atlasın sözlü gelenek tartışmasında geçen bir ölçütü doğrudan
+Bu, korpusun sözlü gelenek tartışmasında geçen bir ölçütü doğrudan
 karşılar.[^k1] Aktarımın kuralları biliniyorsa, güvenilirlik derecesi de
 değerlendirilebilir.
 
@@ -99,8 +99,8 @@ bulunuyordu.[^k1] Nesne, kişiye değil birliğin kendisine aitti.
 Bu ayrım siyasi olarak belirleyicidir.[^k2] Hükümdar değişse de birliğin
 sürekliliği nesne üzerinden korunuyordu.
 
-Atlas nesne kanıtını ayrı bir künye alt türü olarak tanır.[^k3] Burada
-nesne bir kanıt değil, doğrudan bir kurumdur.
+Burada nesne bir kanıt değil,
+doğrudan bir kurumdur.[^k3]
 
 ## Altın
 
@@ -120,11 +120,11 @@ gösterir.[^k2] Bu, yazıya gerek duymadan işleyen bir standardizasyon
 gösterir.[^k1] Standardı kim belirliyor ve kim denetliyor sorusu, siyasi
 otoritenin kapsamını da gösterir.
 
-Bu, atlasın başka dosyalarında sikke üzerinden ölçtüğü şeydir.[^k3]
+Bu, korpusun başka dosyalarında sikke üzerinden ölçtüğü şeydir.[^k3]
 Burada sikke yerine ağırlık takımı aynı işlevi görür.
 
-Atlas iki göstergeyi aynı aileden sayar.[^k2] Ölçü ve para
-standartları, siyasi otoritenin ekonomik alandaki izidir.
+Ölçü ve para standartları, siyasi
+otoritenin ekonomik alandaki izidir.[^k2]
 
 ## Köle ticareti
 
@@ -134,7 +134,7 @@ komşuydu.[^k1] Esir ihracatı, devletin gelir kalemlerindendi.
 Ticaret, iç savaşları ve fetihleri de besliyordu.[^k3] Esir kaynağı,
 komşu topluluklarla yapılan seferlerdi.
 
-Bu, atlasın silahlı ticaret dosyasında tanımlanan döngünün bir başka
+Bu, korpusun silahlı ticaret dosyasında tanımlanan döngünün bir başka
 örneğidir.[^k2] Silah edinmek için esir gerekir, esir edinmek için silah
 gerekir.
 
@@ -146,8 +146,8 @@ azaldı.[^k1] Bu, bölgenin gelir yapısını doğrudan etkiledi.
 Devlet, altın ve orman ürünleri ihracatına yöneldi.[^k3] Geçiş sancılı
 oldu ve iç gerilimleri artırdı.
 
-Atlas bu geçişi ayrıca kaydeder.[^k2] Bir gelir kaleminin ortadan
-kalkması, o kaleme bağlı siyasi dengeleri de bozar.
+Bir gelir kaleminin ortadan kalkması, o
+kaleme bağlı siyasi dengeleri de bozar.[^k2]
 
 ## Kıyıyla ilişki
 
@@ -168,8 +168,8 @@ savaş yaşandı.[^k1] Savaşların sonuçları farklı oldu.
 İlk savaşlarda devlet üstünlük sağladı.[^k3] Sonrakilerde teknolojik ve
 lojistik fark belirleyici hâle geldi.
 
-Atlas bu diziyi ayrıca kaydeder.[^k2] Askerî üstünlüğün yön
-değiştirmesi, kısa bir zaman aralığında ölçülebiliyor.
+Askerî üstünlüğün yön değiştirmesi, kısa
+bir zaman aralığında ölçülebiliyor.[^k2]
 
 ## Üstünlüğün yön değiştirmesi
 
@@ -179,8 +179,8 @@ menzili, tıbbi önlemler ve deniz üzerinden ikmal birlikte işledi.
 Tıbbi etken çoğu anlatıda atlanır.[^k3] Bölgedeki hastalıklara karşı
 alınan önlemler, iç bölgelere sefer düzenlemeyi mümkün kıldı.
 
-Atlas bu etkeni ayrıca yazar.[^k2] Bir askerî sonucu yalnızca silahla
-açıklamak, çoğu örnekte eksik bir açıklamadır.
+Bir askerî sonucu yalnızca silahla açıklamak,
+çoğu örnekte eksik bir açıklamadır.[^k2]
 
 ## İlhak
 
@@ -190,7 +190,7 @@ ve bölge doğrudan yönetime bağlandı.
 Bir süre sonra sembolün teslim edilmesi istendi.[^k2] Talep, geniş bir
 direnişe yol açtı.
 
-Direniş bastırıldı ama sembol teslim edilmedi.[^k1] Atlas bu ayrıntıyı
+Direniş bastırıldı ama sembol teslim edilmedi.[^k1] Korpus bu ayrıntıyı
 kaydeder: bir kurumun ortadan kaldırılması ile onun sembolünün ele
 geçirilmesi ayrı iki şeydir.
 
@@ -199,7 +199,7 @@ geçirilmesi ayrı iki şeydir.
 Devlet ortadan kalktıktan sonra da sembol etrafındaki kurum sürdü.[^k1]
 Sonraki dönemde tören ve hukuk işlevleriyle varlığını korudu.
 
-Bu, atlasın Buhara dosyasında ölçtüğü ayrımın bir başka
+Bu, korpusun Buhara dosyasında ölçtüğü ayrımın bir başka
 örneğidir.[^k3] Bir yapının adı ve biçimi, yetkisi alındıktan sonra da
 sürebilir.
 
@@ -217,9 +217,9 @@ Yapı, merkezin gücünü baştan sınırlıyordu.[^k2] Merkez, savaş ve dış
 ilişkilerde karar veriyor, iç meselelerde topluluk yöneticilerinin
 onayını almak zorunda kalıyordu.
 
-Atlas bu yapıyı ayrıca kaydeder.[^k3] Federatif kuruluşlar, merkezî
-fetihle kurulan devletlerden farklı biçimde çözülür; parçalar ayrılabilir
-hâlde kalır ve dış baskı altında ayrılma seçeneği her zaman masadadır.
+Federatif kuruluşlar, merkezî fetihle
+kurulan devletlerden farklı biçimde çözülür; parçalar ayrılabilir hâlde kalır ve dış
+baskı altında ayrılma seçeneği her zaman masadadır.[^k3]
 
 ## Yapının askerî sonucu
 
@@ -232,9 +232,9 @@ Devletin karşılaştığı dört savaştan sonrakilerde bu risk
 gerçekleşti.[^k3] Bazı topluluklar tarafsız kaldı, bazıları karşı tarafa
 geçti ve merkez yalnızlaştı.
 
-Atlas bu örüntüyü ayrıca yazar.[^k2] Bir devletin kuruluş biçimi, hangi
-koşulda dağılacağını da önceden belirler ve dağılma anı çoğu zaman
-kuruluşun mantığından okunabilir.
+Bir devletin kuruluş biçimi, hangi koşulda
+dağılacağını da önceden belirler ve dağılma anı çoğu zaman kuruluşun mantığından
+okunabilir.[^k2]
 
 ## Yargı düzeni
 
@@ -246,9 +246,9 @@ Kuralların yazılı olmaması, keyfîlik anlamına gelmiyordu.[^k2] Kuralın
 ne olduğu konusunda anlaşmazlık çıktığında, kuralı bilmekle görevli
 kişilere başvuruluyordu ve bu kişilerin ifadeleri karşılaştırılıyordu.
 
-Atlas bu mekanizmayı ayrıca kaydeder.[^k3] Yazılı olmayan bir hukuk,
-kuralın taşıyıcılarının çokluğu ve karşılaştırılabilirliği sayesinde
-sınanabilir hâle gelir; tek bir taşıyıcı kaldığında bu imkân kaybolur.
+Yazılı olmayan bir hukuk, kuralın
+taşıyıcılarının çokluğu ve karşılaştırılabilirliği sayesinde sınanabilir hâle gelir; tek
+bir taşıyıcı kaldığında bu imkân kaybolur.[^k3]
 
 ## Ekonominin orman koşulu
 
@@ -261,9 +261,9 @@ Altın ve esir bu kısıtın dışındaydı.[^k3] İkisi de birim ağırlık ba�
 yüksek değer taşıyordu ve bu nedenle uzun mesafeli ticarette baskın
 kalemler hâline geldi.
 
-Atlas bu bağı ayrıca kaydeder.[^k2] Bir bölgenin hangi malı ihraç
-ettiği, o malın orada bol olmasından çok taşıma maliyetinin hangi
-malları elediğiyle açıklanabilir.
+Bir bölgenin hangi malı ihraç ettiği, o
+malın orada bol olmasından çok taşıma maliyetinin hangi malları elediğiyle
+açıklanabilir.[^k2]
 
 ## Kayıt sorunu
 
@@ -273,12 +273,12 @@ bölümü ya sözlü aktarımdan ya dışarıdan gelen gözlemcilerden gelir.
 Dışarıdan gelen kayıtların çerçevesi bellidir.[^k3] Gözlemcilerin
 önemli bir bölümü ticaret ya da askerî amaçla bulunuyordu.
 
-Atlas bu kaynakları reddetmez, konumlandırır.[^k2] Gözlemcinin niçin
-orada bulunduğu, neyi kayda değer bulduğunu da belirler.
+Gözlemcinin niçin orada
+bulunduğu, neyi kayda değer bulduğunu da belirler.[^k2]
 
-## Bu dosyanın künyeleri
+## Bu incelemenin künyeleri
 
-Bu dosyanın iki künyesi dönem tanıklığıdır.[^k2] Biri ilhaktan on yıl
+Bu incelemenin iki künyesi dönem tanıklığıdır.[^k2] Biri ilhaktan on yıl
 sonra yazılmış bir ansiklopedi maddesi, biri bir gezi anlatısıdır.
 
 İkisi de olgu kaynağı olarak değil, dönemin kendi bakışının kaydı
@@ -297,21 +297,19 @@ Savaşların askerî ayrıntısı kapsam dışıdır.[^k3] Dosya yalnızca
 üstünlüğün yön değiştirmesine ilişkin olanı kaydeder.
 
 İlhak sonrası sömürge dönemi işlenmez.[^k2] Ayrı bir dosya gerektirir ve
-bu dosya yazıldığında atlasta bulunmuyordu.
+bu inceleme yazıldığında korpusta bulunmuyordu.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, yazısız bir düzenin yazılı düzenlerle eşit olduğunu ileri
 sürmez.[^k1] İkisinin farklı sorulara cevap verebildiğini kaydeder.
 
 Sözlü aktarımın güvenilirliği burada çözülmez.[^k2] Ayrı bir tartışma
-dosyası gerektirir ve o dosya atlasta bulunmaktadır.
+dosyası gerektirir ve o dosya korpusta bulunmaktadır.
 
 Köle ticaretindeki payın büyüklüğü sayısal olarak verilmez.[^k3] Dönem
 için güvenilir sayım yoktur ve tahminler geniş aralıklar verir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı kıyıdan öteki düzenler için
 [Benin Krallığı](/aktor/benin-kralligi/) ve
 [Kongo Krallığı](/aktor/kongo-kralligi/) dosyaları okunmalıdır; üçü

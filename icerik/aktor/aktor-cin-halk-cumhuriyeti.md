@@ -48,7 +48,7 @@ onarim_turu: 0
 
 Devletin kuruluşu, yirmi iki yıl süren bir sürecin son maddesi olarak kaydedilir.
 Kaynak sonucu üç maddede toplar: komünist zafer, Çin Halk Cumhuriyeti'nin ilanı ve
-Çin Cumhuriyeti hükümetinin Tayvan'a çekilmesi.[^k1] Bu dosya, o **üçüncü
+Çin Cumhuriyeti hükümetinin Tayvan'a çekilmesi.[^k1] Bu inceleme, o **üçüncü
 maddenin taşıdığı sorunu** ele alır.
 
 ## Yenilen taraf ortadan kalkmadı
@@ -57,7 +57,7 @@ maddenin taşıdığı sorunu** ele alır.
 dağılmadı, yer değiştirdi.[^k1] Bu, sonraki dönemlerin çözülmemiş sorununu
 kuruluş anına yerleştirir.
 
-Atlas burada bir egemenlik değerlendirmesi yapmaz. Kaydettiği şey, kaynağın
+Korpus burada bir egemenlik değerlendirmesi yapmaz. Kaydettiği şey, kaynağın
 kuruluşu ve yer değiştirmeyi aynı listede vermiş olmasıdır.
 
 ## Kuruluşa giden süreç
@@ -83,8 +83,7 @@ Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yakl
 bir ölçüm kullanılan kaynaklarda bulunmadığı için bu değerler içindeki pay burada
 hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Devletin siyasi tarihi, iktisadi politikaları, kurumsal yapısı ve sonraki
 dönemleri burada ayrı başlıklar altında ele alınmamıştır; kullanılan kaynak
 bölümlerinin kapsamı kuruluş anı ve çerçevesidir. Dönemin bütünü

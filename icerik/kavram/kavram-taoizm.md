@@ -14,9 +14,10 @@ ilgili:
   - kavram-legalizm
   - dusunur-konfucyus
   - dusunur-han-feizi
-  - kavram-anakronizm
   - tartisma-feodalite-kavrami
   - kavram-konfucyuscluk
+baglam:
+  - kavram-anakronizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -53,7 +54,7 @@ Taoizm, "yol" anlamına gelen bir terim çevresinde kurulan ve doğaya
 uygunluğu, kendiliğindenliği ve zorlayıcı müdahaleden kaçınmayı merkeze alan
 düşünce çizgisine verilen addır.[^k1][^k2]
 
-Çizginin iki temel metni vardır ve bu dosya ikisine de bağlanır.[^k2][^k3]
+Çizginin iki temel metni vardır ve bu inceleme ikisine de bağlanır.[^k2][^k3]
 İki metin aynı terimleri kullanır ama üslupları farklıdır: biri özlü ve
 buyurgan, öteki hikâye ve diyalog yoluyla ilerler.
 
@@ -64,15 +65,14 @@ yönetim, en az fark edilen yönetimdir.
 ## Adın kendisi bir sınıflandırma
 
 "Taoizm" adı, metinlerin yazıldığı dönemde var olan bir grubun kendi adı
-değildir; sonraki dönemlerin yaptığı bir sınıflandırmadır.[^k1] Bu, atlasın
-[Legalizm](/kavram/legalizm/) dosyasında kaydedilen durumun aynısıdır.
+değildir; sonraki dönemlerin yaptığı bir sınıflandırmadır.[^k1] Bu, [Legalizm](/kavram/legalizm/) incelemesinde kaydedilen durumun aynısıdır.
 
 İki dosyanın aynı sorunu göstermesi tesadüf değildir. Çin düşünce
 geleneğindeki "okul" adlarının çoğu, o okulların kurulduğu dönemden değil
 sonraki derleme çabalarından gelir;[^k1] adlar, düşünceleri değil
 düşünceleri tasnif eden kişileri yansıtır.
 
-Atlasın [Anakronizm](/kavram/anakronizm/) dosyası bu tür geriye dönük
+Korpusun [Anakronizm](/kavram/anakronizm/) dosyası bu tür geriye dönük
 adlandırmaları genel biçimiyle ele alır. Burada somut sonucu şudur: bir metnin
 "Taocu" sayılması, yazarının kendini öyle görmesinden değil, sonraki bir
 tasnifin onu o rafa koymasından gelir.[^k1]
@@ -80,11 +80,11 @@ tasnifin onu o rafa koymasından gelir.[^k1]
 **Tartışmalı.** Ad, iki ayrı olguyu tek başlıkta toplar: felsefe metinleri ile
 sonraki yüzyıllarda kurulan dinî gelenekler ve kurumlar. Bu ikisinin aynı
 adla anılması bazı araştırmacılarca gerekli, bazılarınca yanıltıcı bulunur.
-Atlas ayrımı belirtir ve bir kullanımı benimsemez.[^k1]
+Korpus ayrımı belirtir ve bir kullanımı benimsemez.[^k1]
 
 ## Müdahale etmeme ve yönetim
 
-Çizginin siyasi tarafı, atlasın öteki dosyalarıyla doğrudan kesişir. Müdahale
+Çizginin siyasi tarafı, korpusun öteki dosyalarıyla doğrudan kesişir. Müdahale
 etmeme ilkesi bir yönetim önerisine dönüştüğünde, yöneticinin düzeni
 kurmaktan çok bozmamakla yükümlü olduğu bir anlayış çıkar.[^k2]
 
@@ -94,17 +94,17 @@ kurulan her düzenek bozulmanın kaynağı sayılır.[^k1][^k2]
 
 [Konfüçyüs](/dusunur/konfucyus/) dosyasındaki gelenekle ilişki daha
 karmaşıktır. Üç çizgi de yönetimin nasıl olması gerektiğini söyler ama
-birbirlerini farklı noktalarda eleştirirler;[^k1] atlas üçünü de kaydeder ve
+birbirlerini farklı noktalarda eleştirirler;[^k1] korpus üçünü de kaydeder ve
 aralarında hüküm vermez.
 
-Üç çizginin aynı dönemde ve aynı bölgede bulunması, atlasın bir dönemi tek
+Üç çizginin aynı dönemde ve aynı bölgede bulunması, korpusun bir dönemi tek
 bir düşünce biçimiyle anlatmamasının gerekçesidir. Bir dönemin "hâkim
 düşüncesi" varsayımı, o dönemde yürüyen tartışmayı silerdi.
 
 ## Metinlerin durumu
 
 İki metnin de tek bir yazara ait olup olmadığı tartışılır; ikisinin de
-katmanlı biçimde oluştuğu ileri sürülür.[^k1] Bu, atlasın Doğu Asya
+katmanlı biçimde oluştuğu ileri sürülür.[^k1] Bu, korpusun Doğu Asya
 dosyalarında tekrar eden bir durumdur ve künyede gösterilmez.
 
 Kullanılan kaynak, Çince özgün metinleri ve İngilizce çevirilerini birlikte
@@ -112,26 +112,25 @@ sunar.[^k2][^k3] Bu çizgide bu imkân özellikle değerlidir çünkü temel
 terimlerin çevirisi büyük ölçüde yorum taşır; "yol", "erdem" ve "eylemsizlik"
 karşılıklarının hiçbiri tam değildir.
 
-Atlas bu yüzden bu dosyada terimleri tanımlamaya çalışmaz. Terimlerin
+Korpus bu yüzden bu incelemede terimleri tanımlamaya çalışmaz. Terimlerin
 karşılıkları metnin kendisinden ve çeviri karşılaştırmasından okunmalıdır.[^k2][^k3]
 
-## Atlastaki yeri ve sınırı
-
-Bu dosya, atlasın Doğu Asya kavram kapsamındaki ikinci dosyadır.[^k1] Bölgenin
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun Doğu Asya kavram kapsamındaki ikinci dosyadır.[^k1] Bölgenin
 aktör katmanında on ikiden fazla dosya bulunurken kavram katmanı bu iki
 dosyadan ibarettir.
 
 Dosyanın kapsamadıkları belirtilmelidir. Dinî geleneğin kurumsal tarihi,
 ritüelleri ve sonraki mezhepleri burada işlenmez;[^k1] ayrı dosyalar
-gerektirir ve bu dosya yazıldığında atlasta bulunmuyorlardı.
+gerektirir ve bu inceleme yazıldığında korpusta bulunmuyorlardı.
 
 Metinlerin bölüm bölüm içeriği ve terim tartışmaları da kapsam dışıdır.
-Bu dosya çizginin ne olduğunu ve adının neden sorunlu olduğunu anlatır;
+Bu inceleme çizginin ne olduğunu ve adının neden sorunlu olduğunu anlatır;
 ne söylediği için metinlerin kendisine inilmelidir.[^k2][^k3]
 
 ## İki metnin farkı
 
-Bu dosyanın iki birincil metne birden bağlanması bir tercih değil
+Bu incelemenin iki birincil metne birden bağlanması bir tercih değil
 gerekliliktir.[^k2][^k3] Tek metne bağlanan bir kavram dosyası, o metnin
 üslubunu çizginin tamamının üslubu sanma riskini taşır.
 
@@ -140,16 +139,14 @@ biçimde ortaya koyar; öteki aynı ilkeleri hikâyelerle ve karşılıklı
 konuşmalarla sınar, yer yer kendi ilkeleriyle şakalaşır.[^k3] Bir düşünce
 çizgisinin iç çeşitliliği ancak birden çok metinle görünür olur.
 
-Atlasın kavram dosyalarında bu ilkenin genel karşılığı şudur: bir kavram tek
-bir kaynaktan tanımlandığında, tanım o kaynağın sınırlarını da devralır.[^k1]
-Bu yüzden mümkün olan yerlerde birden çok metne bağlanılır.
+Bu yüzden mümkün olan yerlerde
+birden çok metne bağlanılır.[^k1]
 
 Aynı ilkenin uygulanamadığı dosyalar da vardır ve orada eksik açıkça
-beyan edilir. Bu dosyada eksik yoktur; iki metin de erişilebilir ve özgün
+beyan edilir. Bu incelemede eksik yoktur; iki metin de erişilebilir ve özgün
 dilleriyle birlikte durur.[^k2][^k3]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı adlandırma sorununun başka bir örneği için [Legalizm](/kavram/legalizm/),
 geriye dönük tasnifin genel biçimi için [Anakronizm](/kavram/anakronizm/)
 dosyaları okunmalıdır.

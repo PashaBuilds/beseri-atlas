@@ -14,8 +14,9 @@ etiketler: [enerji, kisi-basi, toplam-fark, owid, birim]
 ilgili:
   - veri-enerji-tuketimi-1800-2023
   - veri-dunya-nufusu-1500-2025
-  - olay-sanayi-devrimi
   - veri-fosil-elektrik-payi
+baglam:
+  - olay-sanayi-devrimi
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/kisi-basi-enerji.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"
@@ -57,26 +58,26 @@ ve 2025 için 166.753,6 TWh'dir.[^k2]
 
 Toplam yaklaşık bin yediyüz kat artarken kişi başına değerin yaklaşık iki yüz kat
 artması,[^k1][^k2] iki ölçünün farklı soruları cevapladığını gösterir: biri
-ne kadar enerji kullanıldığını, diğeri kişi başına ne düştüğünü verir. Atlas
+ne kadar enerji kullanıldığını, diğeri kişi başına ne düştüğünü verir. Korpus
 bunları ayrı dosyalarda tutar; toplam biçim
 [Birincil enerji tüketimi, 1800–2025](/veri/enerji-tuketimi-1800-2023/)
 dosyasındadır.
 
 ## Kişi başı hesap sağlayıcı tarafından yapılmıştır
 
-Bu seri sağlayıcının kendi hesabıdır; atlas iki seriyi bölerek kendi kişi başı
+Bu seri sağlayıcının kendi hesabıdır; korpus iki seriyi bölerek kendi kişi başı
 değerini üretmez.[^k1][^k2]
 
-Bu, atlasın diğer veri dosyalarında koyduğu kuralın karşılığıdır: kaynak bir
-oranı kendisi veriyorsa o kullanılır, vermiyorsa atlas türetmez.
+Bu, korpusun diğer veri dosyalarında koyduğu kuralın karşılığıdır: kaynak bir
+oranı kendisi veriyorsa o kullanılır, vermiyorsa korpus türetmez.
 
 ## Birim bir dönüştürme kararıdır
 
 Serinin birimi kilovatsaattir; farklı enerji kaynaklarının ortak bir birime
-çevrilmesi bir dönüştürme kararıdır ve dönüştürme katsayısı bu dosyada
+çevrilmesi bir dönüştürme kararıdır ve dönüştürme katsayısı bu incelemede
 verilmez.[^k1]
 
-Atlasın kuralı şudur: bu seriden okunan değerler, birimin ne olduğu belirtilmeden
+Korpusun kuralı şudur: bu seriden okunan değerler, birimin ne olduğu belirtilmeden
 aktarılmaz.
 
 ## Serinin başlangıcına denk gelen dönüşüm
@@ -85,8 +86,7 @@ Serinin başlangıç yıllarına denk gelen dönüşüm için tutulan kayıt, o 
 ayrı bir madde olarak işler.[^k3] O dönüşüm
 [Sanayi Devrimi](/olay/sanayi-devrimi/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ülke ülke değerler, enerji kaynağı kırılımı ve dönüştürme yöntemi burada ayrı
-başlıklar altında ele alınmamıştır; bu dosya yalnızca sağlayıcının toplam
+başlıklar altında ele alınmamıştır; bu inceleme yalnızca sağlayıcının toplam
 satırını kaydeder.[^k1]

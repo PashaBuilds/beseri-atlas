@@ -62,7 +62,7 @@ Kağanlığın denetlediği alan, kuzey ile güney arasındaki ticaret
 yollarının üzerindeydi.[^k2] Bu konum, düzenin gelirini ve dış
 ilişkilerini belirledi.
 
-Bu dosyanın asıl konusu düzenin kendisi kadar, hakkında bilinenlerin
+Bu incelemenin asıl konusu düzenin kendisi kadar, hakkında bilinenlerin
 nereden geldiğidir.[^k3] İkisi ayrılamaz.
 
 ## Kaynakların dağılımı
@@ -87,8 +87,8 @@ Kayıt bırakmamak, yazıyı bilmemek anlamına gelmez.[^k1] Kağanlıkta birden
 Kayıtların bugüne ulaşmamış olması da mümkündür.[^k2] Bozkır bölgelerinde
 korunma koşulları, yerleşik bölgelerdekinden farklıdır.
 
-Atlas iki ihtimali ayırmaz ve ayırmadığını yazar.[^k3] Elde bulunan kanıt,
-hangisinin doğru olduğunu belirlemeye yetmez.
+Elde bulunan kanıt, hangisinin doğru
+olduğunu belirlemeye yetmez.[^k3]
 
 ## Ticaret konumu
 
@@ -111,8 +111,8 @@ süren çatışmalar yaşandı.
 Çatışmaların sonucu, kuzeye doğru genişlemenin bu hatta durmasıdır.[^k2]
 Bu, kağanlığın en çok anılan işlevidir.
 
-Atlas bu işlevi tek başına bir açıklama saymaz.[^k3] Bir genişlemenin
-durması, tek bir tarafın direncinden değil birden çok etkenden doğar.
+Bir genişlemenin durması, tek bir tarafın
+direncinden değil birden çok etkenden doğar.[^k3]
 
 ## Bizans ile ilişki
 
@@ -149,8 +149,8 @@ Tartışma olgunun kendisinde değil kapsamındadır.[^k2] Değişimin ne zaman
 gerçekleştiği, yönetici kesimin ötesine geçip geçmediği ve ne kadar
 derinleştiği açık değildir.
 
-Atlas bir sonuca bağlanmaz.[^k3] Kaynakların hepsi dışarıdan ya da geç
-tarihlidir ve hiçbiri ötekini bağımsız olarak doğrulamaz.
+Kaynakların hepsi dışarıdan ya da geç
+tarihlidir ve hiçbiri ötekini bağımsız olarak doğrulamaz.[^k3]
 
 ## Din değiştirmenin siyasi okuması
 
@@ -162,8 +162,8 @@ Başka bir okumaya göre bu açıklama fazla düzenlidir.[^k1] Din
 değiştirmeleri tek bir hesaba indirgemek, sonradan kurulan bir
 tutarlılıktır.
 
-Atlas iki okumayı da kaydeder ve seçmez.[^k3] İkisi de aynı sınırlı
-kaynak kümesine dayanır.
+İkisi de aynı sınırlı kaynak
+kümesine dayanır.[^k3]
 
 ## İbranice yazışmalar
 
@@ -185,7 +185,7 @@ Bölgede kazılar yapılmış ve yerleşim kalıntıları bulunmuştur.[^k2] Bul
 Başkentin yeri kesin olarak belirlenememiştir.[^k1] Kaynaklarda anılan
 merkez, arkeolojik olarak kesin biçimde eşleştirilememiştir.
 
-Bu, atlasın kanıt dosyasındaki ölçütü doğrudan örnekler.[^k3] Nesne
+Bu, korpusun kanıt dosyasındaki ölçütü doğrudan örnekler.[^k3] Nesne
 kanıtı üretim ve süreklilik sorularına cevap verir; yer ve tarih
 sorularına yazılı kayıt olmadan cevap veremez.
 
@@ -209,7 +209,7 @@ ilişkilendiren iddialar ortaya atılmıştır.[^k2] Bu iddialar akademik
 yazında karşılık bulmamıştır.
 
 İddiaların önemli bir bölümü siyasi amaçlarla kullanılmıştır.[^k3]
-Atlas bu kullanımları konu edinmez ve tartışmaz.
+Korpus bu kullanımları konu edinmez ve tartışmaz.
 
 Pratik sonucu doğrudan bir kaynak sorunudur.[^k2] Konu hakkında açık
 arama yapıldığında dönen sonuçların önemli bölümü güvenilir değildir ve
@@ -217,11 +217,11 @@ bu, dosyanın uzun süre yazılamamasının nedenidir.
 
 ## Dosyanın geciktirilmesi
 
-Bu dosya, atlasın Orta Asya dizisinde daha önce yazılabilirdi.[^k1]
+Bu inceleme, korpusun Orta Asya dizisinde daha önce yazılabilirdi.[^k1]
 Yazılmadı ve nedeni kayda geçirildi.
 
 Neden, kaynak taramasının güvenilir olmayan malzeme döndürmesiydi.[^k3]
-Atlasın kuralı, ilerlemek için kaynak uydurmamaktır; bu, kaynak
+Korpusun kuralı, ilerlemek için kaynak uydurmamaktır; bu, kaynak
 bulunamadığında dosyayı ertelemeyi de kapsar.
 
 Dosya, alanın standart akademik monografisi künyelenebilir hâle
@@ -244,15 +244,14 @@ hakkında neredeyse hiç bilgi yoktur.
 
 ## Gözlemcinin ilgisinin kaydı belirlemesi
 
-Atlas bu mekanizmayı ayrıca kaydeder.[^k1] Bir düzen yalnızca
-dışarıdan yazılmışsa, o düzen hakkında bilinenler gözlemcinin neyi
-kayda değer bulduğuyla sınırlıdır.
+Bir düzen yalnızca dışarıdan yazılmışsa,
+o düzen hakkında bilinenler gözlemcinin neyi kayda değer bulduğuyla sınırlıdır.[^k1]
 
 Sınır bir eksiklik değil, ölçülebilir bir özelliktir.[^k2] Gözlemcinin
 ilgisi bilinirse, kaydın hangi alanlarda güvenilir olduğu da
 kestirilebilir.
 
-Bu dosyada uygulanması şöyledir.[^k3] Ticaret ve coğrafya bilgileri
+Bu incelemede uygulanması şöyledir.[^k3] Ticaret ve coğrafya bilgileri
 görece güvenilir sayılır; iç yapı ve inanç konusundaki bilgiler ise
 gözlemcinin dışarıdan çıkarımıdır.
 
@@ -266,8 +265,8 @@ Bu ayrım, çöküş sonrası nüfusun ne olduğu sorusunu da etkiler.[^k2] Siya
 bir çatı dağıldığında, o çatının adıyla anılan topluluklar ortadan
 kalkmaz; adla anılmaz olur.
 
-Atlas bu ayrımı ayrıca yazar.[^k3] Bir adın kayıtlardan çekilmesi, o adla
-anılanların yok olduğunu göstermez ve iki durum sık sık karıştırılır.
+Bir adın kayıtlardan çekilmesi, o adla anılanların
+yok olduğunu göstermez ve iki durum sık sık karıştırılır.[^k3]
 
 ## Ölçütün formüle edilmesi
 
@@ -275,7 +274,7 @@ Dosyanın kaydettiği kural tek cümleyle ifade edilebilir.[^k2] **Yalnızca
 dışarıdan yazılmış bir düzen hakkında bilinenler, o düzenin özelliği
 değil gözlemcilerin ilgisinin haritasıdır.**
 
-Kural bu dosyaya özgü değildir.[^k1] Atlasın kayıt bırakmamış düzenleri
+Kural bu incelemeye özgü değildir.[^k1] Korpusun kayıt bırakmamış düzenleri
 işleyen bütün dosyalarında aynı kısıt geçerlidir.
 
 Kuralın uygulanması bir maliyet doğurur.[^k3] Dosya, sürekli olarak neyin
@@ -284,14 +283,14 @@ belirtmeden yazmak ve kanıtı olduğundan güçlü göstermektir.
 
 ## Kaynak durumu
 
-Bu dosyanın üç künyesinden biri ansiklopedi maddesi, biri kütüphane
+Bu incelemenin üç künyesinden biri ansiklopedi maddesi, biri kütüphane
 kaydı, biri giriş kapısıdır.[^k1] Hiçbiri birincil kaynak değildir.
 
 Birincil kaynaklar mevcuttur ama künyelenememiştir.[^k2] İslam
 coğrafyacılarının ilgili bölümlerinin doğrulanabilir çevrimiçi baskıları
-bu dosya yazıldığında bulunamamıştır.
+bu inceleme yazıldığında bulunamamıştır.
 
-Eksik, atlasın borç defterine yazılmıştır.[^k3] Dosya, birincil kaynağı
+Eksik, korpusun borç defterine yazılmıştır.[^k3] Dosya, birincil kaynağı
 olmayan makaleler grubundadır ve bu, künyesinden görülebilir.
 
 ## Kapsam dışı
@@ -306,8 +305,7 @@ gerektirirler.
 Kağanlık sonrası bölge tarihi kapsam dışıdır.[^k3] Dosya onuncu yüzyıl
 sonunda biter.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, din değiştirmenin kapsamı hakkında hüküm vermez.[^k2] Kaynakların
 ne söylediğini ve neden yetersiz olduğunu kaydeder.
 
@@ -318,12 +316,11 @@ Dosyanın güven düzeyi künyede tartışmalı olarak
 işaretlenmiştir.[^k1] İşaret, olguların uydurma olduğunu değil, elde
 bulunan kanıtın kesin sonuç vermeye yetmediğini gösterir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı bozkır geleneğinden çıkan ve kendi dilinde uzun yazıtlar bırakmış
 düzen için [Göktürk Kağanlığı](/aktor/gokturk-kaganligi/) ve
 [Orhon Yazıtları](/kaynak/orhon-yazitlari/) dosyaları okunmalıdır;
-karşılaştırma bu dosyanın konusunu doğrudan gösterir.[^k2]
+karşılaştırma bu incelemenin konusunu doğrudan gösterir.[^k2]
 
 Bozkır düzenlerinin genel yapısı için
 [Bozkır imparatorluğu](/kavram/bozkir-imparatorlugu/) dosyası

@@ -63,8 +63,8 @@ ve devletin rolü.[^k1]
 
 ## Tanımın kendisi bir bölüm başlığıdır
 
-Bir kavramın tanımına ayrı bir bölüm ayrılması,[^k1] atlasın şu kuralının
-dayanağıdır: bu dosyada kapitalizm sözcüğü, hangi tanımın kullanıldığı
+Bir kavramın tanımına ayrı bir bölüm ayrılması,[^k1] korpusun şu kuralının
+dayanağıdır: bu incelemede kapitalizm sözcüğü, hangi tanımın kullanıldığı
 belirtilmeden bir iddianın öznesi yapılmaz.
 
 ## Tarih dört evreye bölünmüştür
@@ -73,13 +73,13 @@ Kaynak tarih bölümünü dört alt başlığa ayırır: tarımcılık, merkanti
 Devrimi ve modernlik; sonuncusunun altında demokrasiyle ilişki ayrıca
 işlenir.[^k1]
 
-Bir kavramın tarihinin öncüllerini de içermesi,[^k1] atlasın bu dosyayı
+Bir kavramın tarihinin öncüllerini de içermesi,[^k1] korpusun bu incelemeyi
 [Merkantilizm](/kavram/merkantilizm/) ve
 [Sanayi Devrimi](/olay/sanayi-devrimi/) dosyalarına bağlamasının dayanağıdır.
 
 ## İki rakip tanım kaydedilir
 
-::tartismali[Bir kayıt kapitalizmi rekabetçi piyasalarla tanımlar; bir başka kayıt ise kapitalistlerin tekelci olduğunu ve serbest piyasaları kullanmadığını savunur. Atlas iki tanımı da taşır ve seçim yapmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bir kayıt kapitalizmi rekabetçi piyasalarla tanımlar; bir başka kayıt ise kapitalistlerin tekelci olduğunu ve serbest piyasaları kullanmadığını savunur. Korpus iki tanımı da taşır ve seçim yapmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Karşıt tanım için tutulan kayıt, kapitalistlerin genellikle varsayıldığı gibi
 rekabetçi piyasalarda faaliyet gösteren girişimciler değil tekelciler olduğunu ve
@@ -95,8 +95,7 @@ Okuma yöntemi
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
 haritasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Türler, eleştiriler, savunular ve ülke ülke uygulamalar burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]
 

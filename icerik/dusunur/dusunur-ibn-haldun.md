@@ -173,6 +173,6 @@ yüklediği anlam katmanlarını ayrıntılı biçimde
 
 ## Eserine bağ
 
-Bu dosya eserin kamu malı tam metnine bağlanır: *Mukaddime*.[^k4] Esere yapılacak
+Bu inceleme eserin kamu malı tam metnine bağlanır: *Mukaddime*.[^k4] Esere yapılacak
 her atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
 çevirinin kullanıldığı belirtilmelidir.

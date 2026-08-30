@@ -72,7 +72,7 @@ Hanlığın yerleşik nüfusu, nehrin suladığı vaha ile sınırlıydı.[^k2]
 Vahanın dışı çöl ve otlaktı; yerleşik tarım bu şeridin dışına
 çıkamıyordu ve hanlığın bütün ekonomik ağırlığı orada toplanmıştı.
 
-Bu dosyanın asıl konusu bu kısıttır.[^k4] Hanlığın haritadaki görüntüsü
+Bu incelemenin asıl konusu bu kısıttır.[^k4] Hanlığın haritadaki görüntüsü
 ile gerçek büyüklüğü aynı şey değildir.
 
 ## Haritanın yanılttığı yer
@@ -83,8 +83,8 @@ kapsayacak biçimde çizilir.
 Yerleşik nüfus ve üretim bu alanın küçük bir bölümünde
 toplanmıştı.[^k2] Vaha, toplam alanın yanında küçük bir şerittir.
 
-Atlas bu farkı ayrıca kaydeder.[^k3] **Bir devletin haritadaki
-yüzölçümü, o devletin kaynaklarını değil iddia ettiği alanı ölçer.**
+**Bir devletin haritadaki yüzölçümü, o devletin
+kaynaklarını değil iddia ettiği alanı ölçer.**[^k3]
 
 ## Ölçütün genelleştirilmesi
 
@@ -95,9 +95,8 @@ Bu, karşılaştırmayı doğrudan bozar.[^k4] İki devletin yüzölçümünü
 karşılaştırmak, ikisi de aynı yoğunlukta kullanıyormuş gibi
 varsaymaktır.
 
-Atlas bu nedenle yüzölçümü karşılaştırmalarını tek başına
-kullanmaz.[^k1] Sulanan alan, nüfus ve vergi geliri ayrı ayrı
-sorulmalıdır.
+Sulanan alan, nüfus ve vergi geliri
+ayrı ayrı sorulmalıdır.[^k1]
 
 ## Nehrin belirleyiciliği
 
@@ -129,8 +128,8 @@ azalırsa üretim düşer; kanal bakımı aksarsa üretim düşer.
 İki risk birbirini büyütür.[^k1] Üretim düştüğünde bakım için ayrılan
 emek de azalır.
 
-Atlas bu döngüyü ayrıca kaydeder.[^k3] Sulamaya dayanan düzenlerde
-çöküş, kuru tarım bölgelerinden daha hızlı ilerleyebilir.
+Sulamaya dayanan düzenlerde çöküş, kuru
+tarım bölgelerinden daha hızlı ilerleyebilir.[^k3]
 
 ## Kuruluş ve hanedan
 
@@ -140,8 +139,8 @@ Soy, komşu hanlığı kuran hanedanla aynı çizgiye dayandırılır.
 Bu, han unvanının kullanılmasını mümkün kıldı.[^k4] Soy şartı bu
 gelenekte geçerliliğini koruyordu.
 
-Atlas kuralın burada da işlediğini kaydeder.[^k3] Aynı bölgede aynı
-kural, üç ayrı devlette ölçülmüştür.
+Aynı bölgede aynı kural, üç ayrı
+devlette ölçülmüştür.[^k3]
 
 ## Komşu hanlıkla ilişki
 
@@ -151,7 +150,7 @@ konusu genellikle aradaki verimli şeritlerdi.
 İki devlet birleşmedi.[^k3] Aradaki çöl, sürekli bir askerî varlık
 bulundurmayı maliyetli kılıyordu.
 
-Coğrafi kısıt, siyasi ayrılığı sürdüren etkendir.[^k2] Atlas bunu bir
+Coğrafi kısıt, siyasi ayrılığı sürdüren etkendir.[^k2] Korpus bunu bir
 zorunluluk değil bir maliyet farkı olarak yazar.
 
 ## Göçebe nüfusla ilişki
@@ -175,9 +174,8 @@ Uygulama, kanal bakımı ve tarım için gereken emeğin bir bölümünü
 karşılıyordu.[^k1] Bu, uygulamayı ekonomik yapının bir parçası hâline
 getirir.
 
-Atlas uygulamayı bir yan ayrıntı olarak değil, üretim düzeninin bir
-bileşeni olarak kaydeder.[^k2] Emek biçimi, üretim biçiminin
-parçasıdır.
+Emek biçimi, üretim biçiminin
+parçasıdır.[^k2]
 
 ## Müdahale gerekçesi
 
@@ -188,9 +186,9 @@ dile getirildi.
 Gerekçenin kullanılması, uygulamanın varlığını değiştirmez.[^k1] İki
 olgu ayrı ayrı doğrudur.
 
-Atlas iki düzeyi ayrı tutar.[^k3] Bir uygulamanın gerçekliği ile o
-uygulamanın müdahale gerekçesi olarak seçilmesi, ayrı ayrı
-incelenmelidir; ikincisi seçim yapanın niyetine ilişkindir.
+Bir uygulamanın gerçekliği ile o uygulamanın müdahale
+gerekçesi olarak seçilmesi, ayrı ayrı incelenmelidir; ikincisi seçim yapanın niyetine
+ilişkindir.[^k3]
 
 ## Himayeye giriş
 
@@ -200,7 +198,7 @@ himayesine girdi.[^k4] Hanedan yerinde kaldı ve iç yönetim sürdürüldü.
 Dış ilişkiler ve savunma devredildi.[^k1] Nehrin sağ kıyısındaki
 topraklar doğrudan yönetime bağlandı.
 
-Düzen, komşu hanlıkta kurulan düzenle aynı yapıdadır.[^k3] Atlas iki
+Düzen, komşu hanlıkta kurulan düzenle aynı yapıdadır.[^k3] Korpus iki
 örneği birlikte kaydeder çünkü aynı dönemde aynı taraf tarafından
 kurulmuşlardır.
 
@@ -212,8 +210,8 @@ bütünüyle değişmesiyle oldu.
 Yerine kurulan yapı farklı bir devlet biçimine dayanıyordu.[^k1]
 Hanedan düzeni kaldırıldı.
 
-Bu dosya o dönemi kapsamaz.[^k2] Sonrası ayrı bir dosya gerektirir ve
-bu dosya yazıldığında atlasta bulunmuyordu.
+Bu inceleme o dönemi kapsamaz.[^k2] Sonrası ayrı bir dosya gerektirir ve
+bu inceleme yazıldığında korpusta bulunmuyordu.
 
 ## Öncesi: aynı bölgenin eski devleti
 
@@ -234,8 +232,8 @@ Saray himayesinde vakayinameler yazıldı.
 Bu üretim, bölgenin yazılı geleneğinin sürdüğünü gösterir.[^k2] Kayıt
 bırakma pratiği kesintiye uğramamıştır.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k4] Küçük bir siyasi birim
-olmak, kayıt bırakmamak anlamına gelmez.
+Küçük bir siyasi birim olmak, kayıt
+bırakmamak anlamına gelmez.[^k4]
 
 ## Nüfus tahminleri
 
@@ -243,10 +241,10 @@ Hanlığın nüfusu için güvenilir sayım yoktur.[^k4] Bilinenler vergi
 kayıtlarından ve on dokuzuncu yüzyıl gözlemcilerinin tahminlerinden
 gelir.
 
-Tahminler geniş aralıklar verir.[^k1] Atlas sayı vermek yerine
+Tahminler geniş aralıklar verir.[^k1] Korpus sayı vermek yerine
 yöntemin ne olduğunu yazar.
 
-Sorun, atlasın ayrı bir tartışma dosyasında ele aldığı genel bir
+Sorun, ayrı bir tartışma incelemesinda ele aldığı genel bir
 sorundur.[^k3] Modern öncesi nüfusların nasıl sayılacağı, ölçüt seçimine
 bağlıdır.
 
@@ -272,8 +270,8 @@ görür.
 İki çıkar farklı dış politikalar üretir.[^k2] Biri komşularla
 anlaşmayı, öteki sınır bölgelerini denetim altında tutmayı önceler.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k1] Bir devletin dış davranışı,
-gelirinin nereden geldiğiyle birlikte okunmalıdır.
+Bir devletin dış davranışı, gelirinin nereden
+geldiğiyle birlikte okunmalıdır.[^k1]
 
 ## Zanaat ve pazar
 
@@ -284,7 +282,7 @@ Uzak pazarlara giden ürün miktarı sınırlıydı.[^k4] Bu, hanlığın
 ekonomisini büyük ölçüde iç pazara bağlıyordu.
 
 İç pazara bağlı bir ekonomi, dış hatlardaki değişimlerden daha az
-etkilenir.[^k1] Atlas bunu bir üstünlük değil, farklı bir kırılganlık
+etkilenir.[^k1] Korpus bunu bir üstünlük değil, farklı bir kırılganlık
 dağılımı olarak yazar.
 
 ## Yönetim aygıtı
@@ -300,11 +298,11 @@ aygıtın maliyeti, toplanabilecek ek gelirden yüksek olabilir.
 
 ## Kaynak durumu
 
-Bu dosyanın dört künyesinin üçü ansiklopedi maddesidir.[^k1] Birincil
+Bu incelemenin dört künyesinin üçü ansiklopedi maddesidir.[^k1] Birincil
 kaynak künyelenememiştir.
 
 Dönemin Çağatayca vakayinameleri mevcuttur.[^k2] Doğrulanabilir
-çevrimiçi baskıları bu dosya yazıldığında bulunamamıştır.
+çevrimiçi baskıları bu inceleme yazıldığında bulunamamıştır.
 
 Eksik borç defterine yazılmıştır.[^k3] Dosya, birincil kaynağı olmayan
 makaleler grubundadır.
@@ -318,12 +316,11 @@ Komşu hanlıklarla yapılan seferlerin ayrıntısı kapsam dışıdır.[^k3]
 Dosya yalnızca coğrafi kısıta ve onun siyasi sonuçlarına ilişkin olanı
 kaydeder.
 
-Hanlığın mimari mirası ayrı bir çalışma gerektirir.[^k2] Bu dosya
-yazıldığında atlasta bulunmuyordu. Vahanın surlu iç şehri, dönemin
+Hanlığın mimari mirası ayrı bir çalışma gerektirir.[^k2] Bu inceleme
+yazıldığında korpusta bulunmuyordu. Vahanın surlu iç şehri, dönemin
 yapı geleneğinin en bütünlüklü örneklerinden biridir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya coğrafyanın siyasi sonucu belirlediğini ileri sürmez.[^k4]
 Coğrafya bir maliyet dağılımı kurar; kararları insanlar verir.
 
@@ -332,11 +329,10 @@ ne olduğu, sorulan soruya göre değişir.
 
 Himaye düzeninin hukuki niteliği tartışılmaz.[^k1] Dosya olayların
 sırasını kaydeder; himayenin hangi koşullarda kabul edildiği sorusu,
-atlasın başka dosyalarında kurulan soruyla aynı yapıdadır ve burada
+korpusun başka dosyalarında kurulan soruyla aynı yapıdadır ve burada
 cevaplanmamıştır.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Komşu ve rakip devlet için [Buhara Hanlığı](/aktor/buhara-hanligi/),
 iki hanlığın da çıktığı hanedan için
 [Şeybânîler](/aktor/seybaniler/) dosyaları okunmalıdır.[^k1]

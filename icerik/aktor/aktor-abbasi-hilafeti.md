@@ -100,10 +100,9 @@ görünür siyasi sonucudur. Beş yüzyıllık bir kurumun kapanması, aynı zam
 meşruiyet zincirinin kopması demektir; sonraki yüzyıllarda hilafet iddiası farklı
 merkezlerce yeniden kurulmaya çalışılacaktır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kaynak tabanı ağırlıklı olarak hanedanın siyasi tarihine ilişkin ansiklopedi
-maddesidir. Abbasi döneminin ilim, çeviri ve iktisat tarihi bu dosyada ayrı
+maddesidir. Abbasi döneminin ilim, çeviri ve iktisat tarihi bu incelemede ayrı
 başlıklar altında ele alınmamıştır; bu bir kapsam sınırıdır ve burada beyan
 edilir.
 

@@ -46,7 +46,7 @@ onarim_turu: 0
 ---
 
 ARPA, ARPANET projesinin geliştirilmesi için 1969'da sözleşmeler verdi; proje
-Robert Taylor'ın yönetiminde, Lawrence Roberts'ın idaresindeydi.[^k1] Bu dosya,
+Robert Taylor'ın yönetiminde, Lawrence Roberts'ın idaresindeydi.[^k1] Bu inceleme,
 kaydın **tek bir icat anı tanımamasını** ele alır.
 
 ## Fikir, projeden yedi yıl öncedir
@@ -82,7 +82,7 @@ yazılır; 1963'te dağıtık bir ağı anlatan notlar yazdığı, 1964'te ofist
 ayrıldığı ve bunun ARPANET'in devreye girmesinden beş yıl önce olduğu
 kaydedilir.[^k1]
 
-Bir fikrin sahibinin, fikrin gerçekleştiği anda kurumda bulunmaması,[^k1] atlasın
+Bir fikrin sahibinin, fikrin gerçekleştiği anda kurumda bulunmaması,[^k1] korpusun
 buluş anlatılarına neden tek bir ad yazmadığını gösterir.
 
 ## Yayılma kendi başlığını taşır
@@ -108,8 +108,7 @@ Uzun dönemli seride dünya nüfusu 1969 için yaklaşık 3,62 milyar, 2004 içi
 yaklaşık 6,50 milyardır.[^k3] Ağa bağlı nüfusa dair bir ölçüm kullanılan kaynak
 bölümünde bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 TCP/IP'nin geliştirilmesi, NSFNET'e geçiş, optik ağlar, Web'in tarihi ve 2004
 sonrası burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
 bölümler olarak işler.[^k1] Dönemin bütünü [1991-2008](/donem/15/) dosyasında ele

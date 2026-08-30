@@ -1,6 +1,6 @@
 // KAPI 5 — Link butunlugu. Kirik ic link yok.
-// `ilgili`, `okuma_onerisi`, ::tartismali{harita=...} ve gövdedeki /tip/slug
-// linklerinin tamami var olan bir makaleye cozulmek zorundadir.
+// `ilgili`, yonlu `baglam`, `okuma_onerisi`, ::tartismali{harita=...} ve
+// govdedeki /tip/slug linklerinin tamami var olan bir makaleye cozulmelidir.
 import { Rapor, linterCli } from './ortak.mjs';
 
 export function linkDenetimi(makaleler) {
@@ -12,7 +12,7 @@ export function linkDenetimi(makaleler) {
     if (m.ayristirmaHatasi) continue;
     const kendi = m.fm.id;
 
-    for (const alan of ['ilgili', 'okuma_onerisi']) {
+    for (const alan of ['ilgili', 'baglam', 'okuma_onerisi']) {
       for (const hedef of m.fm[alan] || []) {
         if (!idler.has(hedef)) {
           r.hata(m.goreli, `${alan}: "${hedef}" diye bir makale yok (kirik ic link)`);
@@ -65,7 +65,8 @@ export function linkDenetimi(makaleler) {
     }
   }
 
-  // Cift yonlu bag kontrolu — tek yonlu bag uyaridir, capraz gecisinde hataya donusur.
+  // Cift yonlu bag kontrolu — yalniz `ilgili` karsilikli olmak zorundadir.
+  // Yonlu okuma kapilari `baglam` alaninda tutulur ve geri bag beklemez.
   // `okuma_onerisi` bir kaynak dosyasina isaret ettiginde, o kaynagin `ilgili`
   // alanindaki geri bagin mesru karsiligidir: iki alan ayni iliskinin iki ucudur.
   const geriBagVar = (hedefMakale, id) =>

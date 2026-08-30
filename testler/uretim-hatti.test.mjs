@@ -5,6 +5,7 @@ import {
   uretimHattiDenetimi,
   paketMetni,
   iskeletBenzerligi,
+  sonrakiParti,
 } from '../araclar/uretim-hatti.mjs';
 
 let n = 0;
@@ -18,6 +19,7 @@ test('üretim kuyruğu on gelecek rotada altmış dengeli aday taşır', () => {
   assert.equal(veri.adaylar.length, 60);
   assert.equal(new Set(veri.adaylar.map((a) => a.rota)).size, 10);
   assert.equal(veri.sozlesme.yayin_puani, 10);
+  assert.equal(veri.sozlesme.yonlu_bag_alani, 'baglam');
 });
 
 test('yeni üretim sözleşmesi bütün adaylarda geçer', () => {
@@ -26,6 +28,8 @@ test('yeni üretim sözleşmesi bütün adaylarda geçer', () => {
   assert.equal(rapor.olcum.arastirmayaHazir, 5);
   assert.equal(rapor.olcum.canliKaynak, 21);
   assert.equal(rapor.olcum.kaynakSayisi, 21);
+  assert.equal(rapor.olcum.paketli, 60);
+  assert.equal(rapor.olcum.parti, 12);
 });
 
 test('paket kalite sözleşmesini ve doğal öğrenme iskeletini taşır', () => {
@@ -34,6 +38,8 @@ test('paket kalite sözleşmesini ve doğal öğrenme iskeletini taşır', () =>
   assert.match(metin, /En az \*\*6 kaynak\*\*/);
   assert.match(metin, /Bağımsız oturum/);
   assert.match(metin, /Doğal öğrenme iskeleti/);
+  assert.match(metin, /tek yönlü geçişler `baglam`/);
+  assert.match(metin, /dolgu ile değil/);
 });
 
 test('bölüm iskeleti kopyası ölçülebilir', () => {
@@ -44,4 +50,12 @@ test('bölüm iskeleti kopyası ölçülebilir', () => {
   assert.equal(sonuc.id, 'b');
 });
 
-console.log(`uretim-hatti.test.mjs: ${n}/4 gecti`);
+test('tam sıra her adayı yalnız bir kez ve dengeli partilenebilir biçimde taşır', () => {
+  const veri = uretimKuyruguOku();
+  const sirali = sonrakiParti(veri.adaylar, veri.adaylar.length);
+  assert.equal(sirali.length, 60);
+  assert.equal(new Set(sirali.map((a) => a.id)).size, 60);
+  assert.equal(sirali.slice(0, 5).every((a) => a.durum === 'arastirmada'), true);
+});
+
+console.log(`uretim-hatti.test.mjs: ${n}/5 gecti`);

@@ -17,7 +17,6 @@ etiketler: [braudel, longue-duree, annales, akdeniz, olay-tarihi, tarih-yazimi]
 ilgili:
   - kaynak-braudel-akdeniz
   - kavram-longue-duree
-  - kavram-tarih-yazimi
   - dusunur-wallerstein
   - kavram-dunya-sistemi
   - dusunur-marx
@@ -26,6 +25,8 @@ ilgili:
   - dusunur-carr
   - tartisma-buyuk-adam-kurami
   - kavram-konjonktur
+baglam:
+  - kavram-tarih-yazimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

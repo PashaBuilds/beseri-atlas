@@ -54,7 +54,7 @@ onarim_turu: 0
 
 Ağ, Han hanedanının MÖ 114 civarında Orta Asya'ya yayılmasıyla, Çinli saray
 elçisi Zhang Qian'ın görevleri ve keşifleriyle başladı; bu yayılma bölgeyi tek
-bir denetim altına getirdi.[^k1] Bu dosya, ağın kendisini değil **adının kayda
+bir denetim altına getirdi.[^k1] Bu inceleme, ağın kendisini değil **adının kayda
 etkisini** ele alır.
 
 ## Kaynak, adın kendisini eleştirir
@@ -64,9 +64,9 @@ imparatorlukları ayrıcalıklı kıldığını ve bozkır göçebelerinin katk�
 ardı ettiğini yazar; klasik tanımın Hindistan ve İran gibi önemli uygarlıkları da
 kenara ittiğini ekler.[^k1]
 
-::tartismali[Bir ticaret ağının adı, ağın kimin katkısıyla kurulduğu sorusunun cevabını önceden veriyorsa, ad da bir tarih yazımı kararıdır. Atlas burada terimi kullanmaya devam eder ama itirazı yanına yazar.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bir ticaret ağının adı, ağın kimin katkısıyla kurulduğu sorusunun cevabını önceden veriyorsa, ad da bir tarih yazımı kararıdır. Korpus burada terimi kullanmaya devam eder ama itirazı yanına yazar.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
-Bu itiraz, atlasın terim kilidi kapısının neden var olduğunu dışarıdan
+Bu itiraz, korpusun terim kilidi kapısının neden var olduğunu dışarıdan
 doğrular:[^k1] adlandırma tarafsız bir işlem değildir.
 
 ## Ağ ipekten eskidir
@@ -111,8 +111,7 @@ yaklaşık 240,8 milyondur.[^k3] Ağ üzerindeki ticaret hacmine ya da bu ticare
 katılan nüfusa dair bir ölçüm kullanılan kaynak bölümünde bulunmadığı için bu
 değerler içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Güzergâhlar, deniz yolları, taşınan mallar, dinlerin yayılışı ve ağın çözülmesi
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1] Dönemin bütünü [MÖ 500-MS 200](/donem/04/) dosyasında ele

@@ -1,7 +1,7 @@
 {
   "id": "tartisma-eksen-cagi-gercek-mi",
-  "govde_hash": "2e2443c45649",
-  "commit": "9181554",
+  "govde_hash": "1e3262c066b4",
+  "commit": "4373ec95",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -486,6 +486,18 @@
     {
       "zaman": "2026-08-29",
       "gerekce": "12 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "2e2443c45649",
+      "yeni_hash": "80c2a9469ff3",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    },
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "80c2a9469ff3",
+      "yeni_hash": "1e3262c066b4",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
     }
   ]
 }

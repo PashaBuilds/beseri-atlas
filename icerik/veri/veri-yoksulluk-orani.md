@@ -60,7 +60,7 @@ sürümüyle ve belirli bir yoksulluk sınırıyla birlikte tanımlar; ayrıca r
 türünün gelir ya da tüketim olduğunu ve anket karşılaştırılabilirliğine dair bir
 kaydı içerir.[^k1]
 
-::tartismali[Ölçünün adı tek başına altı ayrı karar taşıyor: eşik, parite sürümü, refah türü, tablo, anket karşılaştırılabilirliği ve sayım yöntemi. Bu kararlardan biri değişince oran da değişir. Atlas bu seriden okunan değerleri eşik belirtilmeden aktarmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Ölçünün adı tek başına altı ayrı karar taşıyor: eşik, parite sürümü, refah türü, tablo, anket karşılaştırılabilirliği ve sayım yöntemi. Bu kararlardan biri değişince oran da değişir. Korpus bu seriden okunan değerleri eşik belirtilmeden aktarmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Sayıların nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -70,8 +70,8 @@ haritasında ele alınıyor.
 
 Veri kümesinde dünya toplamı için 1990'dan önce gözlem bulunmaz.[^k1]
 
-Bir yoksulluk serisinin yalnızca son otuz beş yılı kapsaması,[^k1] atlasın şu
-kuralının dayanağıdır: bu dosyadan sanayi öncesi ya da sömürge dönemine dair bir
+Bir yoksulluk serisinin yalnızca son otuz beş yılı kapsaması,[^k1] korpusun şu
+kuralının dayanağıdır: bu incelemeden sanayi öncesi ya da sömürge dönemine dair bir
 yoksulluk oranı okunamaz. İlgili kuram
 [Bağımlılık kuramı](/kavram/bagimlilik-kurami/) dosyasında ele alınıyor.
 
@@ -81,13 +81,12 @@ Aynı sağlayıcının kişi başına GSYH serisinde dünya değeri 1820 için 1
 2022 için 16.676,75'tir.[^k2]
 
 Bir ortalama ile bir dağılım ölçüsünün aynı yıl için farklı şeyler
-söyleyebilmesi,[^k1][^k2] atlasın bu iki seriyi ayrı dosyalarda tutmasının
+söyleyebilmesi,[^k1][^k2] korpusun bu iki seriyi ayrı dosyalarda tutmasının
 dayanağıdır; ilişkili dosyalar
 [Kişi başına GSYH, 1820–2022](/veri/kisi-basi-gsyh-1-2022/) ve
 [Gini katsayısı](/kavram/gini-katsayisi/) dosyalarıdır.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ülke ülke oranlar, eşik seçiminin etkisi ve anket yöntemleri burada ayrı
-başlıklar altında ele alınmamıştır; bu dosya yalnızca dünya toplamı serisini
+başlıklar altında ele alınmamıştır; bu inceleme yalnızca dünya toplamı serisini
 kaydeder.[^k1]

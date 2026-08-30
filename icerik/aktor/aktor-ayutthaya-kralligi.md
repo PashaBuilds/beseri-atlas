@@ -60,9 +60,9 @@ Bu konum, dosyanın ayırt edici yanını da açıklar. Krallık ne yalnızca bi
 liman devleti ne de yalnızca bir tarım devletidir; ikisini birden
 taşır.[^k1][^k2]
 
-Atlasın öteki Güneydoğu Asya dosyaları bu iki uçtan birine yakın durur.[^k3]
-[Malaka Sultanlığı](/aktor/malaka-sultanligi/) geçit gelirine dayanır;
-buradaki düzen ise pirinç fazlasıyla deniz gelirini birlikte kullanır.
+[Malaka
+Sultanlığı](/aktor/malaka-sultanligi/) geçit gelirine dayanır; buradaki düzen ise pirinç
+fazlasıyla deniz gelirini birlikte kullanır.[^k3]
 
 ## Karma gelir yapısının sonucu
 
@@ -71,7 +71,7 @@ doğrudan artırır.[^k1] Deniz ticareti daraldığında tarım geliri, kuraklı
 olduğunda liman geliri devreye girer.
 
 Bu dayanıklılık, krallığın dört yüzyıl sürmesinin açıklamalarından
-biridir.[^k3] Atlasın kaydettiği liman devletlerinin çoğu bir ya da iki
+biridir.[^k3] incelenen liman devletlerinin çoğu bir ya da iki
 yüzyıl içinde el değiştirmiştir.
 
 Karma yapının bedeli de vardır. İki gelir kaynağı iki ayrı yönetim düzeni
@@ -82,14 +82,14 @@ tüccar düzeni.[^k2]
 
 Başkentte farklı kökenlerden gelmiş yerleşik tüccar toplulukları
 bulunuyordu ve her biri kendi mahallesinde örgütlenmişti.[^k1][^k2] Bu düzen,
-atlasın [Ticaret diasporası](/kavram/ticaret-diasporasi/) dosyasında tanımlanan
+[Ticaret diasporası](/kavram/ticaret-diasporasi/) incelemesinde tanımlanan
 yapının bir örneğidir.
 
 Toplulukların yalnızca ticaret yapmadıkları kaydedilir. Bazı üyeler saray
 hizmetine girmiş, elçilik ve muhasebe görevleri almıştır;[^k2] yabancılık,
 devlet görevine engel sayılmıyordu.
 
-Bu, atlasın başka bölgelerinde de görülen bir yönetim tercihidir.[^k1] Yerel
+Bu, korpusun başka bölgelerinde de görülen bir yönetim tercihidir.[^k1] Yerel
 soylulardan bağımsız bir görevli sınıfı kurmak isteyen yönetimler, dışarıdan
 gelenleri tercih edebilir; sadakatleri hükümdara bağlıdır.
 
@@ -99,7 +99,7 @@ Krallığın Avrupa devletleriyle ilişkisi, tek bir tarafa bağlanmamak üzerin
 kuruldu.[^k1][^k2] Bir devletin ticari ayrıcalık talebi, başka bir devlete
 verilen ayrıcalıkla dengeleniyordu.
 
-Bu, atlasın [Güç dengesi](/kavram/guc-dengesi/) dosyasında tanımlanan
+Bu, [Güç dengesi](/kavram/guc-dengesi/) incelemesinde tanımlanan
 mantığın Avrupa dışındaki bir örneğidir.[^k3] Kavramın Avrupa'ya özgü
 sayılması, aynı mantığın başka yerlerde işlediğini gizler.
 
@@ -109,7 +109,7 @@ ilişkilerin daraltılmasıyla sonuçlandı.
 
 ## Tek tanık kaydının değeri ve sınırı
 
-Bu dosyanın birincil kaynağı, sarayda bulunmuş bir elçilik üyesinin
+Bu incelemenin birincil kaynağı, sarayda bulunmuş bir elçilik üyesinin
 kaydıdır.[^k2] Kayıt, saray düzenini, ölçü sistemini, hukuku ve gündelik
 hayatı doğrudan gözleme dayanarak anlatır.
 
@@ -118,9 +118,8 @@ gözlemleri, kendi devletinin çıkarları çerçevesinde
 değerlendirilmiştir;[^k2] neyi kayda değer bulduğu bu çerçeveyle
 belirlenmiştir.
 
-Atlas kaydı bir olgu kaynağı olarak değil, bir gözlemcinin ne gördüğünün
-kaydı olarak kullanır.[^k1][^k2] Aynı sarayın kendi kayıtlarıyla
-karşılaştırma bu dosyada yapılmamıştır ve borç olarak bırakılmıştır.
+Aynı sarayın kendi kayıtlarıyla karşılaştırma bu
+dosyada yapılmamıştır ve borç olarak bırakılmıştır.[^k1][^k2]
 
 ## Egemenliğin biçimi
 
@@ -129,7 +128,7 @@ değil, katmanlı bağlılık biçimindeydi.[^k1][^k3] Çevre birimler kendi
 hanedanlarını korudu ve bağlılıklarını düzenli hediye ve tören yoluyla
 bildirdi.
 
-Bu yapı, atlasın [Mandala devleti](/kavram/mandala-devleti/) dosyasında
+Bu yapı, [Mandala devleti](/kavram/mandala-devleti/) incelemesinde
 tanımlanır: egemenlik bir sınır çizgisiyle değil, merkezden uzaklaştıkça
 zayıflayan bir etki alanıyla ölçülür.[^k3]
 
@@ -159,7 +158,7 @@ Böyle bir düzen ayrıntılı bir kayıt sistemi gerektirir: kimin nereye bağl
 olduğu, kaç gün çalıştığı ve hangi göreve ayrıldığı yazılmalıdır.[^k2] Kayıt
 tutmadan emek vergisi toplanamaz.
 
-Atlasın [Bürokrasi](/kavram/burokrasi/) dosyası bu tür yapıları kavram
+Korpusun [Bürokrasi](/kavram/burokrasi/) dosyası bu tür yapıları kavram
 düzeyinde ele alır. Burada somut hâli, kayıt tutmanın bir yönetim tercihi
 değil bir zorunluluk olmasıdır.[^k1]
 
@@ -173,9 +172,8 @@ Bu bağ tek yönlü değildi. Hükümdar dinî kurumları destekliyor, kurumlar
 hükümdarın konumunu gerekçelendiriyordu;[^k2] iki taraf da bu ilişkiden
 kazanıyordu.
 
-Atlas bu ilişkiyi bir bağımlılık olarak değil karşılıklı bir düzen olarak
-kaydeder.[^k1] Hangi tarafın belirleyici olduğu sorusu, elde bulunan
-kaynaklarla karara bağlanamaz.
+Hangi tarafın belirleyici olduğu sorusu,
+elde bulunan kaynaklarla karara bağlanamaz.[^k1]
 
 ## Komşularla süreklilik ve kopuş
 
@@ -188,9 +186,8 @@ Süreklilik iddiası dikkatle kurulmalıdır. Terim ve tören devralınması, si
 bir devamlılık kanıtı değildir;[^k3] devralan taraf, devraldığı şeyi kendi
 amacına göre yeniden düzenler.
 
-Atlas bu yüzden iki düzeni ayrı dosyalarda tutar ve aralarındaki ilişkiyi
-bir aktarım olarak kaydeder.[^k1] Aktarımın hangi kanallardan yürüdüğü ayrı
-bir çalışma konusudur.
+Aktarımın hangi kanallardan yürüdüğü
+ayrı bir çalışma konusudur.[^k1]
 
 ## Sonun biçimi
 
@@ -202,7 +199,7 @@ Kayıtların önemli bir bölümü bu sırada yok oldu ve bu, dosyanın kaynak
 durumunu doğrudan etkiler.[^k3] Krallığın kendi arşivinin büyük bölümü
 elde bulunmamaktadır.
 
-Bu yüzden bu dosyada dışarıdan yazılmış bir kaydın ağırlığı yüksektir.[^k2]
+Bu yüzden bu incelemede dışarıdan yazılmış bir kaydın ağırlığı yüksektir.[^k2]
 Bir devletin kendi kayıtlarının yok olması, o devlet hakkındaki bilginin
 kalıcı olarak dışarıdan gelmesine yol açar.
 
@@ -217,29 +214,28 @@ karşılaştırma yaparak verdiği izlenimlerdir.[^k2] Bir başkentin büyüklü
 gözlemcinin daha önce hangi başkentleri gördüğüne bağlı olarak farklı
 tarif edilebilir.
 
-Atlas bu yüzden bu dosyada bir nüfus rakamı vermez.[^k1] Değerlendirmeler
-mutlak sayılara değil, birden çok kaydın ortak vurgusuna dayanır.
+Değerlendirmeler mutlak sayılara
+değil, birden çok kaydın ortak vurgusuna dayanır.[^k1]
 
-## Bu dosyanın kapsamadıkları
-
+## Açıkta kalan sorular
 Krallığın hanedan tarihi, taht kavgaları ve hükümdar listesi burada
-verilmez.[^k1][^k3] Atlasın aktör dosyaları bir düzenin nasıl işlediğini
+verilmez.[^k1][^k3] Korpusun aktör dosyaları bir düzenin nasıl işlediğini
 anlatır; olay sırasını değil.
 
 Sanat, mimari ve edebiyat üretimi de kapsam dışıdır.[^k2] Bu malzeme yazılı
 kayıtların vermediği bilgiyi taşır ve ayrı bir dosya gerektirir.
 
 Krallığın yıkılışından sonra kurulan siyasi düzen burada işlenmez.[^k1] Ayrı
-bir dosya gerektirir ve bu dosya yazıldığında atlasta bulunmuyordu.
+bir dosya gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu.
 
 ## Kaynak durumu
 
-Bu dosya üç kaynağa dayanır ve biri birincildir.[^k2] Birincil kaynak,
+Bu inceleme üç kaynağa dayanır ve biri birincildir.[^k2] Birincil kaynak,
 krallığın kendi kalemiyle değil dışarıdan gelen bir gözlemcinin elinden
 çıkmıştır.
 
 Krallığın kendi saray kayıtlarının erişilebilir ve doğrulanabilir bir tam
-metni bu dosya yazıldığında bulunamamıştır.[^k1] Bu bir kısıttır ve burada
+metni bu inceleme yazıldığında bulunamamıştır.[^k1] Bu bir kısıttır ve burada
 beyan edilir.
 
 Kısıtın sebebi kısmen yukarıda anlatılan tahribattır.[^k3] Bir devletin
@@ -257,9 +253,8 @@ Kayıtta anlatılan usul, davanın nasıl açıldığını, tanıklığın nası
 alındığını ve cezaların nasıl derecelendirildiğini içerir.[^k2] Bu
 ayrıntı düzeyi, dönemin başka bölgeleri için elde bulunmayan bir malzemedir.
 
-Atlas bu malzemeyi bir hukuk tarihi kaydı olarak değil, bir yabancının
-neyi anlaşılır bulduğunun kaydı olarak tutar.[^k1] Anlatılan usul ile
-uygulanan usul arasındaki farkı bu kayıttan okumak mümkün değildir.
+Anlatılan usul ile uygulanan usul arasındaki
+farkı bu kayıttan okumak mümkün değildir.[^k1]
 
 ## Pirincin siyasi anlamı
 
@@ -271,13 +266,11 @@ Gıda üretimi fazlası olan bir devletin, gıda ithal eden liman devletleri
 üzerinde kurduğu etki, silahla kurulan etkiden farklı işler.[^k1] Yaptırım
 sessizdir, hızlıdır ve karşı tarafın seçeneği azdır.
 
-Atlas bu tür etkiyi ayrı bir kategori olarak kaydeder.[^k3] Askerî üstünlük
-üzerinden okunan bölgesel güç haritaları, gıda akışının kurduğu bağımlılıkları
-görünmez kılar.
+Askerî üstünlük üzerinden okunan bölgesel
+güç haritaları, gıda akışının kurduğu bağımlılıkları görünmez kılar.[^k3]
 
-## Atlastaki yeri
-
-Bu dosya, atlasın Güneydoğu Asya aktör katmanındaki dördüncü dosyadır ve
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun Güneydoğu Asya aktör katmanındaki dördüncü dosyadır ve
 bölgenin anakara bölümünü ilk kez ayrıntılı biçimde ele alır.[^k1][^k3]
 Önceki dosyalar ağırlıklı olarak ada ve boğaz düzenlerini anlatıyordu.
 
@@ -289,8 +282,7 @@ Bölgenin bir düzen değil birbirinden farklı düzenler topluluğu olduğu,
 ancak birkaç dosya yan yana konduğunda görünür hale gelir.[^k3] Tek bir
 dosya bölgeyi anlatamaz.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı bölgedeki geçit devleti için [Malaka Sultanlığı](/aktor/malaka-sultanligi/),
 mirasını devraldığı düzen için [Khmer İmparatorluğu](/aktor/khmer-imparatorlugu/)
 dosyaları okunmalıdır.

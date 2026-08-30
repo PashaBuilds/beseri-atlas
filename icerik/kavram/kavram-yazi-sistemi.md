@@ -11,7 +11,6 @@ guven_geneli: yaygin
 etiketler: [yazi-sistemi, logografik, hece, alfabe, siniflandirma]
 ilgili:
   - olay-yazinin-icadi
-  - kavram-anakronizm
   - aktor-sumer-sehir-devletleri
   - veri-okuryazarlik-1475-2023
   - tartisma-yazinin-icadi-nerede
@@ -26,6 +25,8 @@ ilgili:
   - aktor-kirgizlar
   - kavram-takvim
   - kavram-okuryazarlik
+baglam:
+  - kavram-anakronizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -59,8 +60,8 @@ göre (logografik sistemler, heceler, alfabeler ve özellikçi sistemler) ve gra
 
 ## İki ölçüt aynı anda geçerlidir
 
-Aynı nesnenin iki ayrı ölçüte göre sınıflandırılabilmesi,[^k1] atlasın şu
-kuralının dayanağıdır: bu dosyada yazı sistemi adları, hangi sınıflandırmaya ait
+Aynı nesnenin iki ayrı ölçüte göre sınıflandırılabilmesi,[^k1] korpusun şu
+kuralının dayanağıdır: bu incelemede yazı sistemi adları, hangi sınıflandırmaya ait
 oldukları belirtilmeden karşılaştırılmaz.
 
 ## Dil ile yazı arasındaki ilişki ilk bölümdür
@@ -95,8 +96,8 @@ heceyi ya da bir sesi karşılar.
 Üçü saf hâlde ender bulunur.[^k2] Çoğu sistem karışıktır ve birden çok
 ilkeyi bir arada kullanır.
 
-Atlas bu karışıklığı ayrıca kaydeder.[^k3] Bir yazı sistemini tek bir
-biçimle adlandırmak, içindeki karma yapıyı görünmez kılar.
+Bir yazı sistemini tek bir biçimle
+adlandırmak, içindeki karma yapıyı görünmez kılar.[^k3]
 
 ## İşaret sayısı ve erişim
 
@@ -108,9 +109,8 @@ Bu, kimin yazabileceğini doğrudan etkiler.[^k2] Uzun eğitim gerektiren
 bir sistem, yazıyı uzman bir sınıfa
 bağlar.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Bir yazı sisteminin işaret sayısı,
-teknik bir ayrıntı değil bir erişim
-ölçütüdür.
+Bir yazı sisteminin işaret sayısı,
+teknik bir ayrıntı değil bir erişim ölçütüdür.[^k3]
 
 ## Dil ile yazının ayrılması
 
@@ -121,9 +121,8 @@ kalır.
 Kaynak dilde bulunmayan sesler yazılamaz.[^k2] Bu, uyarlanan dilin bazı
 ayrımlarını kayıt dışı bırakır.
 
-Atlas bu kaybı ayrıca kaydeder.[^k3] Bir dilin başka bir yazı
-sistemiyle kaydedilmesi, o dilin bir bölümünü kaydın dışına
-çıkarır.
+Bir dilin başka bir yazı sistemiyle
+kaydedilmesi, o dilin bir bölümünü kaydın dışına çıkarır.[^k3]
 
 ## Çözülememiş sistemler
 
@@ -134,9 +133,8 @@ Bilinen bir dile bağlanamayan bir yazı, kendi başına
 anlaşılamaz.[^k2] Metin uzunluğu tek başına
 yetmez.
 
-Atlas bu koşulu ayrıca kaydeder.[^k3] Bir yazının çözülmesi,
-metinlerin çokluğundan çok bilinen bir dille kurulan bağa
-bağlıdır.
+Bir yazının çözülmesi, metinlerin
+çokluğundan çok bilinen bir dille kurulan bağa bağlıdır.[^k3]
 
 ## Malzeme ile biçim
 
@@ -148,9 +146,8 @@ Aynı sistem farklı malzemelerde farklı görünür.[^k2] Bu, sonraki
 okurlar için bir sınıflandırma sorunu
 doğurur.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Bir yazının biçimi, o yazının
-taşındığı malzemeden ayrı
-düşünülemez.
+Bir yazının biçimi, o yazının taşındığı
+malzemeden ayrı düşünülemez.[^k3]
 
 ## Bugüne ulaşmanın koşulu
 
@@ -162,9 +159,8 @@ Bu, coğrafi bir yanlılık üretir.[^k2] Kil kullanan bölgeler ayrıntılı,
 organik yüzey kullananlar seyrek
 bilinir.
 
-Atlas bu yanlılığı ayrıca kaydeder.[^k3] Bir yazı geleneğinin az
-bilinmesi, o geleneğin az üretim yaptığını
-göstermez.
+Bir yazı geleneğinin az bilinmesi, o
+geleneğin az üretim yaptığını göstermez.[^k3]
 
 
 ## Yazının ilk işi
@@ -175,8 +171,8 @@ kayıtlarıdır: kaç ölçek tahıl, kaç baş hayvan, kimden kime.
 Bu, yazının neden icat edildiğini gösterir.[^k2] Anlatı için değil
 sayma ve izleme için.
 
-Atlas bu sırayı ayrıca kaydeder.[^k3] Bir aracın ilk kullanımı,
-sonraki kullanımlarının hiçbirini önceden belirlemez.
+Bir aracın ilk kullanımı, sonraki
+kullanımlarının hiçbirini önceden belirlemez.[^k3]
 
 ## Bağımsız icat
 
@@ -186,8 +182,8 @@ edilir.[^k1] Aktarım gösterilemeyen örnekler vardır.
 Bağımsızlık, sistemlerin yapısal farkından ve coğrafi uzaklıktan
 çıkarılır.[^k2] Kanıt dolaylıdır.
 
-Atlas bu bulguyu ayrıca kaydeder.[^k3] Aynı çözümün birden çok yerde
-bulunması, aktarımı değil ortak bir ihtiyacı gösterir.
+Aynı çözümün birden çok yerde bulunması, aktarımı
+değil ortak bir ihtiyacı gösterir.[^k3]
 
 
 ## Sayı yazımı
@@ -199,8 +195,7 @@ yazılır.[^k1] Sayı yazımı, dil yazımından önce de ortaya
 Bu, yazının muhasebe kökenini destekler.[^k2] Sayılmak, anlatılmaktan
 önce gelmiştir.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Yazının tarihi, sistemlerin ayrıntısı ve çözümleme yöntemleri burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1] Yazının icadı

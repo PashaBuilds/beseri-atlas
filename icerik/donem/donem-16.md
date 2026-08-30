@@ -156,7 +156,7 @@ altında kültürel asimilasyon, kültürel temellük ve yabancı korkusu olgula
 yatar.[^k3]
 
 Bu gerilimin hangi kurumsal biçimi alacağı henüz belirlenmiş değildir. Kronolojik
-omurganın son halkası olarak bu dosya, açık uçlu kalmayı tercih eder — kapanmamış
+omurganın son halkası olarak bu inceleme, açık uçlu kalmayı tercih eder — kapanmamış
 bir sürece dönem tanısı koymak, bu projenin kaçındığı hakemlik biçimlerinden
 biridir.
 
@@ -180,8 +180,8 @@ Bitiş yoktur; dosya açık uçludur.
 Açık uçlu bir dönem dosyası özel bir sorun taşır.[^k1] Bir dönemin
 eksenini belirlemek, o dönem bitmeden yapılan bir tahmindir.
 
-Atlas bu kısıtı açıkça beyan eder.[^k2] Bu dosyanın eksen cümlesi,
-sonraki yıllarda değiştirilmesi en olası cümledir.
+Bu incelemenin eksen cümlesi, sonraki
+yıllarda değiştirilmesi en olası cümledir.[^k2]
 
 ## Yakın dönemin özel zorluğu
 
@@ -189,10 +189,10 @@ Yakın dönem, uzak dönemden farklı bir sorun üretir.[^k1] Uzak dönemde
 sorun kaynak azlığı, yakın dönemde kaynak bolluğudur.
 
 Hangi olayın önemli olduğu, ancak sonuçları görüldükten sonra
-belirlenebilir.[^k3] Bu dosya, o sonuçlar görülmeden yazılmıştır.
+belirlenebilir.[^k3] Bu inceleme, o sonuçlar görülmeden yazılmıştır.
 
-Atlas bu riski ayrıca kaydeder.[^k4] Yakın dönem hakkında yazılan her
-şey, sonraki yıllarda düzeltilmeye en açık olan kısımdır.
+Yakın dönem hakkında yazılan her şey, sonraki
+yıllarda düzeltilmeye en açık olan kısımdır.[^k4]
 
 ## Demografik dönüm
 
@@ -202,9 +202,8 @@ düşmesidir.[^k1] Düşüş yeni değil; onlarca yıldır sürüyor.
 Bu dönemde eşik geçildi.[^k4] Birçok bölgede doğurganlık hızı, nüfusun
 kendini yenileme düzeyinin altına indi.
 
-Atlas bu eşiği ayrıca kaydeder.[^k2] Bir eğrinin yönü uzun süredir
-aynıysa, dönemi tanımlayan şey yön değil belirli bir çizginin
-geçilmesidir.
+Bir eğrinin yönü uzun süredir aynıysa,
+dönemi tanımlayan şey yön değil belirli bir çizginin geçilmesidir.[^k2]
 
 ## Zirvenin beklenmesi
 
@@ -215,8 +214,8 @@ tepe değerleri verir.
 Fark, doğurganlık varsayımından gelir.[^k4] Küçük varsayım farkları,
 yüzyıl ölçeğinde büyük sonuç farkı üretir.
 
-Atlas bu yüzden tek bir tahmin vermez.[^k1] Bir projeksiyon, veri
-değil bir varsayımlar kümesinin sonucudur.
+Bir projeksiyon, veri değil bir
+varsayımlar kümesinin sonucudur.[^k1]
 
 ## Yaş yapısının değişmesi
 
@@ -226,9 +225,8 @@ nüfusun payı önce artar, sonra azalır.
 Bu iki aşama farklı sonuçlar üretir.[^k1] Birinci aşama büyümeyi
 destekler, ikinci aşama bakım yükünü artırır.
 
-Atlas iki aşamayı ayrı ayrı izler.[^k2] Aynı demografik geçişin farklı
-noktalarındaki bölgeler, aynı yılda karşıt sorunlar
-yaşayabilir.
+Aynı demografik geçişin farklı
+noktalarındaki bölgeler, aynı yılda karşıt sorunlar yaşayabilir.[^k2]
 
 ## Göçün rolü
 
@@ -239,9 +237,8 @@ Uygulamada göç, dönemin en tartışmalı siyasi başlığı hâline
 geldi.[^k1] Teknik gerekçe ile siyasi tartışma aynı düzlemde
 yürümedi.
 
-Atlas bu farkı ayrıca kaydeder.[^k4] Bir sorunun teknik çözümü
-bulunması, o çözümün siyasi olarak uygulanabilir olduğunu
-göstermez.
+Bir sorunun teknik çözümü bulunması, o çözümün siyasi
+olarak uygulanabilir olduğunu göstermez.[^k4]
 
 ## Küreselleşmenin sorgulanması
 
@@ -251,8 +248,8 @@ engellerinin kaldırılması artık kendiliğinden meşru sayılmıyor.
 Sorgulama iki yönden geldi.[^k1] Bir yönden dağılım eşitsizliği, diğer
 yönden bağımlılık riski öne sürüldü.
 
-Atlas iki gerekçeyi ayrı ayrı kaydeder.[^k5] Aynı sonuca varan iki
-itiraz, farklı çözümler önerir ve aynı konum sayılamaz.
+Aynı sonuca varan iki itiraz, farklı
+çözümler önerir ve aynı konum sayılamaz.[^k5]
 
 ## Tedarik zincirinin kırılganlığı
 
@@ -263,8 +260,8 @@ riskini görünür kıldı.[^k3] Tek bir noktadaki aksama, uzak
 Bu, verimlilik ile dayanıklılık arasındaki değiş tokuşu ortaya
 koydu.[^k1] En verimli zincir, en kırılgan zincirdir.
 
-Atlas bu değiş tokuşu ayrıca kaydeder.[^k5] Stok tutmamak bir maliyet
-tasarrufudur ve aynı zamanda bir sigortadan vazgeçmedir.
+Stok tutmamak bir maliyet tasarrufudur ve aynı
+zamanda bir sigortadan vazgeçmedir.[^k5]
 
 ## Salgın deneyimi
 
@@ -274,9 +271,8 @@ hızını hem riskini aynı anda gösterdi.
 Tepkiler ülkeden ülkeye farklıydı.[^k1] Aynı bilgiye erişen düzenler
 farklı kararlar aldı.
 
-Atlas bu farkı ayrıca kaydeder.[^k4] Aynı veriye dayanan farklı
-kararlar, kararın veriden değil kurumsal yapıdan çıktığını
-gösterir.
+Aynı veriye dayanan farklı kararlar, kararın veriden
+değil kurumsal yapıdan çıktığını gösterir.[^k4]
 
 ## Kurumsal aşınma
 
@@ -287,9 +283,8 @@ Aşınma resmî bir dağılma biçiminde değil, işlevsizleşme biçiminde
 oldu.[^k1] Kurumlar ayakta kaldı, kararları bağlayıcı olmaktan
 çıktı.
 
-Atlas bu biçimi ayrıca kaydeder.[^k5] Bir kurumun sona ermesi
-gerekmez; kararlarının uygulanmaması da aynı sonucu
-üretir.
+Bir kurumun sona ermesi gerekmez;
+kararlarının uygulanmaması da aynı sonucu üretir.[^k5]
 
 ## Çok merkezliliğe dönüş
 
@@ -300,8 +295,8 @@ Bu, önceki dönemlere dönüş değildir.[^k1] Merkezler arasındaki
 ekonomik bağımlılık, önceki çok merkezli dönemlerdekinden çok daha
 yüksektir.
 
-Atlas bu farkı ayrıca kaydeder.[^k5] Aynı siyasi biçim, farklı
-ekonomik bağımlılık düzeylerinde farklı davranış üretir.
+Aynı siyasi biçim, farklı ekonomik bağımlılık
+düzeylerinde farklı davranış üretir.[^k5]
 
 ## Yaptırımın araç hâline gelmesi
 
@@ -312,9 +307,8 @@ Bu araçlar, karşılıklı bağımlılığın kendisini silaha
 çevirir.[^k1] Bağımlılık ne kadar yüksekse araç o kadar
 etkilidir.
 
-Atlas bu tersliği ayrıca kaydeder.[^k5] Bağımlılığın barışı sağladığı
-varsayımı, bağımlılığın baskı aracına dönüşebileceğini
-hesaba katmaz.
+Bağımlılığın barışı sağladığı varsayımı,
+bağımlılığın baskı aracına dönüşebileceğini hesaba katmaz.[^k5]
 
 ## Teknoloji rekabeti
 
@@ -325,9 +319,8 @@ Bu alanların ortak yanı, üretim zincirinin çok az sayıda noktada
 yoğunlaşmasıdır.[^k1] Yoğunlaşma, hem kırılganlık hem pazarlık gücü
 üretir.
 
-Atlas bu yoğunlaşmayı ayrıca kaydeder.[^k5] Bir teknolojinin kritik
-sayılması, üretiminin kaç yerde yapılabildiğine
-bağlıdır.
+Bir teknolojinin kritik sayılması,
+üretiminin kaç yerde yapılabildiğine bağlıdır.[^k5]
 
 ## İklim ekseninin belirginleşmesi
 
@@ -337,8 +330,8 @@ geldi.[^k5] Emisyon serileri düzenli olarak izlenmeye başlandı.
 Sorumluluk ölçütü tartışmalıdır.[^k5] Yıllık emisyon, kişi başına
 emisyon ve birikimli emisyon üç farklı sıralama verir.
 
-Atlas üç ölçütü ayrı ayrı kaydeder.[^k1] Aynı olguya dair üç ölçüt,
-sorumluluğu üç farklı tarafa yükler.
+Aynı olguya dair üç ölçüt,
+sorumluluğu üç farklı tarafa yükler.[^k1]
 
 ## Üretim ve tüketim ölçütü
 
@@ -349,8 +342,8 @@ tüketildiği yerde mi sayılacaktır.
 biçimde farklı sonuç verir.[^k3] Fark, önceki dönemin üretim
 kaymasından doğar.
 
-Atlas bu bağı ayrıca kaydeder.[^k1] Bir dönemin ölçüm sorunu, önceki
-dönemin yapısal kararının doğrudan sonucu olabilir.
+Bir dönemin ölçüm sorunu, önceki dönemin
+yapısal kararının doğrudan sonucu olabilir.[^k1]
 
 ## Enerji dönüşümü
 
@@ -361,8 +354,8 @@ Buna karşılık toplam fosil tüketimi aynı hızda azalmadı.[^k5] Yeni
 kapasite, mevcut kapasitenin yerini almadan üzerine
 eklendi.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k1] Bir kaynağın payının artması,
-diğerinin mutlak miktarının azaldığını göstermez.
+Bir kaynağın payının artması, diğerinin mutlak
+miktarının azaldığını göstermez.[^k1]
 
 ## Kentleşmenin devamı
 
@@ -372,9 +365,8 @@ nüfus artışının yavaşladığı bölgelerde de sürdü.
 Kentleşme ile büyüme arasındaki bağ zayıfladı.[^k3] Bazı bölgelerde
 kentleşme, istihdam artışı olmadan gerçekleşti.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k4] İki göstergenin tarihsel olarak
-birlikte hareket etmesi, aralarındaki bağın sürdüğünü
-göstermez.
+İki göstergenin tarihsel olarak birlikte hareket
+etmesi, aralarındaki bağın sürdüğünü göstermez.[^k4]
 
 ## Eşitsizliğin seyri
 
@@ -384,8 +376,8 @@ göstermez.
 İki eğilimin toplamı, küresel eşitsizliğin ölçüsüne göre değişir.[^k1]
 Ölçüt seçimi sonucu belirler.
 
-Atlas bu yüzden tek bir yargı vermez.[^k5] Aynı döneme dair karşıt
-ifadeler, farklı ölçütlerle ikisi de doğru olabilir.
+Aynı döneme dair karşıt ifadeler, farklı
+ölçütlerle ikisi de doğru olabilir.[^k5]
 
 ## Bilginin dolaşımı
 
@@ -395,48 +387,44 @@ kurumlardan platform düzenine kaydı.
 Bu, hem erişimi genişletti hem doğrulamayı zorlaştırdı.[^k1] Aynı
 mekanizma iki sonucu birden üretir.
 
-Atlas bu ikiliği ayrıca kaydeder.[^k4] Bir aracın erişimi
-kolaylaştırması, taşınan içeriğin niteliğini
-belirlemez.
+Bir aracın erişimi kolaylaştırması,
+taşınan içeriğin niteliğini belirlemez.[^k4]
 
 ## Kaydın yeni sorunu
 
-Atlas için bu dönem yeni bir kaynak sorunu üretir.[^k3] Kayıt bol ama
-kalıcılığı belirsizdir.
+Kayıt bol ama kalıcılığı
+belirsizdir.[^k3]
 
 Basılı bir belge yüzyıllarca kalabilir.[^k1] Çevrimiçi bir kayıt,
 tutulduğu sunucu kapandığında ortadan kalkar.
 
-Atlas bu kırılganlığı ayrıca kaydeder.[^k5] Bir kaydın erişilebilir
-olması ile kalıcı olması ayrı iki özelliktir ve ikincisi
-azalmaktadır.
+Bir kaydın erişilebilir olması ile kalıcı
+olması ayrı iki özelliktir ve ikincisi azalmaktadır.[^k5]
 
-## Atlasın kendi kısıtı
+## Korpusun kendi kısıtı
 
-Bu dosya, atlasın kendi kaynak havuzunun en zorlandığı
+Bu inceleme, korpusun kendi kaynak havuzunun en zorlandığı
 dönemdir.[^k1] Ansiklopedik kaynaklar sürekli değişir ve birincil
 belge seçimi tartışmalıdır.
 
 Sayısal seriler bu dönem için güçlüdür.[^k5] Dosyanın dayanağının
 büyük bölümü bu yüzden veri katmanındadır.
 
-Atlas bu tercihi açıkça beyan eder.[^k2] Bir dosyanın hangi kaynak
-türüne dayandığı, hangi soruları cevaplayabileceğini de
-belirler.
+Bir dosyanın hangi kaynak türüne
+dayandığı, hangi soruları cevaplayabileceğini de belirler.[^k2]
 
 ## Dönemin adlandırılması
 
 Dönemin yaygın kabul görmüş bir adı yoktur.[^k3] Kullanılan adlar,
 kullananın hangi ekseni öne çıkardığını gösterir.
 
-Atlas bu dosyada üç ekseni birlikte adlandırır.[^k1] Demografik dönüm,
-çok kutupluluk ve kurumsal aşınma.
+Demografik dönüm, çok kutupluluk ve
+kurumsal aşınma.[^k1]
 
 Bu üçlü de bir tercihtir.[^k5] Sonraki yıllarda dördüncü bir eksen
 belirginleşirse, dosyanın adı değişecektir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, dönemin bütün olaylarını sıralamaz.[^k3] Her olay kendi
 dosyasında ayrıntılı ele alınır ve burada yalnızca döneme
 bağlanır.
@@ -446,7 +434,7 @@ tarihlerinden çok ortak mekanizmanın onlardaki görünümünü
 verir.
 
 Dosya, süregelen tartışmaları karara bağlamaz.[^k4] Yakın dönemde
-tarafların hâlâ konum aldığı bir tartışmada hakemlik etmek, atlasın
+tarafların hâlâ konum aldığı bir tartışmada hakemlik etmek, korpusun
 ilkesine aykırıdır.[^k2]
 
 
@@ -459,8 +447,8 @@ sürdürüldü.
 Bu, varlık fiyatlarını yükseltti.[^k1] Varlık sahibi olan ile olmayan
 arasındaki fark açıldı.
 
-Atlas bu sonucu ayrıca kaydeder.[^k5] Bir kriz tedbirinin dağılım
-sonucu, tedbirin amacından bağımsız olarak ölçülmelidir.
+Bir kriz tedbirinin dağılım sonucu, tedbirin
+amacından bağımsız olarak ölçülmelidir.[^k5]
 
 ## Kemer sıkma tartışması
 
@@ -470,9 +458,8 @@ borcun sürdürülebilirliğiydi.
 Kısıntının büyüme üzerindeki etkisi tartışmalı kaldı.[^k1] Aynı veriye
 dayanan karşıt yorumlar üretildi.
 
-Atlas bu tartışmayı karara bağlamaz.[^k4] Kaydettiği şey, aynı dönemde
-farklı yolları seçen ülkelerin karşılaştırılabilir bir zemin
-sunduğudur.
+Kaydettiği şey, aynı dönemde farklı
+yolları seçen ülkelerin karşılaştırılabilir bir zemin sunduğudur.[^k4]
 
 ## Borç düzeyleri
 
@@ -482,9 +469,8 @@ neredeyse bütün gelir gruplarında görüldü.
 Düşük faiz, yüksek borcu sürdürülebilir kıldı.[^k1] Faizin yükseldiği
 yıllarda aynı borç farklı bir yük hâline geldi.
 
-Atlas bu bağı ayrıca kaydeder.[^k5] Bir borcun sürdürülebilirliği,
-miktarından çok o miktarın hangi faizle taşındığına
-bağlıdır.
+Bir borcun sürdürülebilirliği,
+miktarından çok o miktarın hangi faizle taşındığına bağlıdır.[^k5]
 
 ## Bölgesel bloklaşma
 
@@ -495,9 +481,8 @@ yaygınlaştı.
 Bu, maliyeti artırır ve riski azaltır.[^k1] Tercih, ikisi arasındaki
 dengeye göre yapılır.
 
-Atlas bu dengeyi ayrıca kaydeder.[^k5] Bir tedarik kararının
-verimlilik mi güvenlik mi gözettiği, seçilen coğrafyadan
-okunabilir.
+Bir tedarik kararının verimlilik mi
+güvenlik mi gözettiği, seçilen coğrafyadan okunabilir.[^k5]
 
 ## Sanayi siyasetinin dönüşü
 
@@ -507,9 +492,8 @@ sübvansiyon ve yerli üretim şartı yaygınlaştı.
 Bu, önceki dönemin kural düzeniyle çelişir.[^k1] Aynı devletler, önceki
 dönemde bu araçları kısıtlayan kuralları yazmıştı.
 
-Atlas bu dönüşü ayrıca kaydeder.[^k5] Bir kural düzeninin savunucusu,
-kuralın kendi aleyhine işlediği koşullarda kuralı terk
-edebilir.
+Bir kural düzeninin savunucusu,
+kuralın kendi aleyhine işlediği koşullarda kuralı terk edebilir.[^k5]
 
 ## Nüfus ve emeklilik
 
@@ -519,8 +503,8 @@ Yaşlanan bölgelerde emeklilik ve sağlık harcamaları arttı.[^k4] Artış,
 Bu, bütçelerin bileşimini değiştirdi.[^k2] Yatırıma ayrılan pay,
 transfer harcamaları karşısında geriledi.
 
-Atlas bu kaymayı ayrıca kaydeder.[^k1] Demografik bir değişimin
-sonucu, doğrudan bütçe kalemlerinde okunabilir.
+Demografik bir değişimin sonucu, doğrudan
+bütçe kalemlerinde okunabilir.[^k1]
 
 ## Eğitimin uzaması
 
@@ -530,9 +514,8 @@ doğurganlıktaki düşüşle birlikte gitti.
 İlişki iki yönlüdür.[^k4] Eğitim süresi uzadıkça ilk doğum yaşı
 yükseliyor; yükselen yaş toplam doğurganlığı düşürüyor.
 
-Atlas bu döngüyü ayrıca kaydeder.[^k1] Demografik geçişin bu
-aşamasında belirleyici değişken gelir değil eğitim
-süresidir.
+Demografik geçişin bu aşamasında belirleyici
+değişken gelir değil eğitim süresidir.[^k1]
 
 ## Kentlerin yoğunlaşması
 
@@ -542,9 +525,8 @@ konut maliyetini o kentlerde belirgin biçimde artırdı.
 Artan maliyet, hareketliliği azalttı.[^k1] İş imkânının olduğu yere
 taşınmak pahalı hâle geldi.
 
-Atlas bu kilidi ayrıca kaydeder.[^k5] Bir ekonomide işgücünün
-hareketliliği, iş imkânından çok barınma maliyetiyle
-sınırlanabilir.
+Bir ekonomide işgücünün hareketliliği, iş
+imkânından çok barınma maliyetiyle sınırlanabilir.[^k5]
 
 ## Otomasyon tartışması
 
@@ -555,9 +537,8 @@ Geçmiş dalgalar, işlerin yok olmasından çok içeriğinin değişmesiyle
 sonuçlandı.[^k1] Bu dalganın aynı yolu izleyip izlemeyeceği
 bilinmiyor.
 
-Atlas bu belirsizliği ayrıca kaydeder.[^k4] Geçmiş bir örüntünün
-tekrarlanacağı varsayımı, örüntünün nedeni bilinmedikçe
-sınanamaz.
+Geçmiş bir örüntünün tekrarlanacağı
+varsayımı, örüntünün nedeni bilinmedikçe sınanamaz.[^k4]
 
 ## Ölçülemeyen üretim
 
@@ -567,9 +548,8 @@ Dijital hizmetlerin bir bölümü ücretsiz sunulur.[^k3] Bu hizmetler
 Aynı sorun önceki dönemlerde hane içi emek için de
 geçerliydi.[^k1] Ölçülmeyen üretim, ekonominin dışında sayılır.
 
-Atlas bu sürekliliği ayrıca kaydeder.[^k5] Bir üretim biçiminin
-kayda girmemesi, o biçimin yeni olmasından değil ölçüm
-çerçevesinin dar olmasından gelir.
+Bir üretim biçiminin kayda girmemesi, o
+biçimin yeni olmasından değil ölçüm çerçevesinin dar olmasından gelir.[^k5]
 
 ## Su ve gıda
 
@@ -580,9 +560,8 @@ Gıda fiyatlarındaki dalgalanmalar siyasi sonuç üretti.[^k3] Bazı
 bölgelerdeki toplumsal hareketlerin başlangıcı fiyat artışlarıyla
 çakıştı.
 
-Atlas bu bağı ihtiyatla kurar.[^k1] Bir fiyat hareketiyle bir siyasi
-olayın zaman olarak çakışması, nedensellik kanıtı
-değildir.
+Bir fiyat hareketiyle bir siyasi
+olayın zaman olarak çakışması, nedensellik kanıtı değildir.[^k1]
 
 ## Silahlı çatışmanın seyri
 
@@ -593,22 +572,19 @@ Bu, uzun dönemli bir eğilimin sona erdiği anlamına gelmez.[^k1] Kısa
 dönemli dalgalanma ile eğilim değişimi ayrı ayrı
 sınanmalıdır.
 
-Atlas bu ihtiyatı ayrıca kaydeder.[^k4] Birkaç yıllık bir hareket,
-yüzyıllık bir eğilimin kırıldığını göstermeye
-yetmez.
+Birkaç yıllık bir hareket, yüzyıllık
+bir eğilimin kırıldığını göstermeye yetmez.[^k4]
 
-## Dönemi atlasta okumak
-
+## Dönemin bağlantıları
 Bu döneme bağlanan dosyalar ağırlıklı olarak veri katmanındadır.[^k5]
 Nüfus, emisyon, gelir ve eğitim serileri dönemin başlıca
 dayanağıdır.
 
 Olay dosyaları henüz azdır.[^k3] Yakın dönemde hangi olayın dosya
-açmayı hak ettiği, atlasın en zor kararlarındandır.
+açmayı hak ettiği, korpusun en zor kararlarındandır.
 
-Atlas bu kararı zamanla verir.[^k1] Bir olayın kalıcı sonuç üretip
-üretmediği, ancak aradan zaman geçtikten sonra
-görülür.[^k2]
+Bir olayın kalıcı sonuç üretip üretmediği, ancak
+aradan zaman geçtikten sonra görülür.[^k2][^k1]
 
 
 ## Ölçüm altyapısının kendisi
@@ -619,9 +595,8 @@ idari kayıt ve anket düzenleri bir arada işler.
 Bu ayrıntı bir yanılsama üretebilir.[^k1] Daha çok ölçülen bir olgu,
 daha çok yaşanan bir olgu gibi görünür.
 
-Atlas bu tuzağı ayrıca kaydeder.[^k2] Bir serideki artışın ne kadarının
-olguya, ne kadarının ölçme kapasitesine ait olduğu ayrıca
-sorulmalıdır.
+Bir serideki artışın ne kadarının olguya,
+ne kadarının ölçme kapasitesine ait olduğu ayrıca sorulmalıdır.[^k2]
 
 ## Veri sahipliği
 
@@ -632,32 +607,31 @@ bu kapsamdadır.
 Bu veri araştırmaya açık değildir.[^k1] Erişim, şirketin kararına
 bağlıdır.
 
-Atlas bu kısıtı ayrıca kaydeder.[^k5] Bir dönemin en kapsamlı kaydının
-özel elde bulunması, o dönemin bağımsız incelenmesini
-zorlaştırır.
+Bir dönemin en kapsamlı kaydının
+özel elde bulunması, o dönemin bağımsız incelenmesini zorlaştırır.[^k5]
 
 ## Karşılaştırmanın sınırı
 
-Bu dosya, önceki dönem dosyalarıyla aynı biçimde yazılmıştır.[^k1]
+Bu inceleme, önceki dönem dosyalarıyla aynı biçimde yazılmıştır.[^k1]
 Karşılaştırılabilirlik bilinçli bir tercihtir.
 
 Buna karşılık kaynak tabanı farklıdır.[^k5] Önceki dönemler için
 birincil belge, bu dönem için sayısal seri ağırlıktadır.
 
-Atlas bu farkı beyan eder.[^k2] Aynı biçimde yazılmış iki dosya, aynı
-güçte olmayabilir; dayandıkları kanıt türü farklıysa
-sonuçları da farklı ağırlık taşır.[^k4]
+Aynı biçimde yazılmış iki dosya, aynı güçte
+olmayabilir; dayandıkları kanıt türü farklıysa sonuçları da farklı ağırlık
+taşır.[^k4][^k2]
 
 
-## Bu dosyanın gözden geçirilme kuralı
+## Bu incelemenin gözden geçirilme kuralı
 
 Açık uçlu bir dosya, kapalı bir dosyadan farklı bir bakım
 gerektirir.[^k1] Eksen cümlesi ve dönem adı düzenli olarak yeniden
 sınanmalıdır.
 
-Atlas bu dosya için bir kural koyar.[^k2] Yeni bir eksen belirginleşirse
-dosyanın adı ve eksen cümlesi değiştirilir, önceki hâli faz
-notlarında kayıtlı kalır.
+Yeni bir eksen belirginleşirse
+dosyanın adı ve eksen cümlesi değiştirilir, önceki hâli faz notlarında kayıtlı
+kalır.[^k2]
 
 Kuralın gerekçesi izlenebilirliktir.[^k5] Bir dosyanın nasıl
 değiştiğinin kaydı, dosyanın kendi içeriği kadar bilgi
@@ -672,8 +646,8 @@ döndü, yoksa yalnızca yavaşladı mı.
 İki cevap farklı sonuçlar doğurur.[^k1] Tersine dönmüşse yeni bir
 dönem başlamıştır; yavaşlamışsa aynı dönemin geç aşamasındayız.
 
-Atlas cevabı vermez ve soruyu açık tutar.[^k5] Bu, açık uçlu bir dönem
-dosyasının verebileceği en dürüst kapanıştır.[^k2][^k4]
+Bu, açık uçlu bir dönem dosyasının
+verebileceği en dürüst kapanıştır.[^k2][^k4][^k5]
 
 ## Fikir dünyası
 

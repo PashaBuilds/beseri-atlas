@@ -45,7 +45,7 @@ onarim_turu: 0
 ---
 
 Sasani İmparatorluğu, 224–651 yılları arasındaki son İslam öncesi İran
-imparatorluğudur.[^k1] Bu dosya, dört yüzyıl boyunca süren bir rekabetin
+imparatorluğudur.[^k1] Bu inceleme, dört yüzyıl boyunca süren bir rekabetin
 **kurumsal zeminini** ele alır.
 
 ## Kuruluş ve merkez
@@ -92,8 +92,7 @@ arasındaki farkı gösterir: başkent düştükten sonra da direniş sürebilir
 verilir.[^k3] Sasani nüfusuna dair bir ölçüm kullanılan kaynaklarda bulunmadığı
 için bu toplam içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ordu örgütlenmesi, sınıf yapısı, sanat ve bilim üretimi ile devletin sona erdiği
 fetih süreci burada ayrı başlıklar altında ele alınmamıştır. Dönemin bütünü
 [200–650](/donem/05/) dosyasında ele alınıyor.

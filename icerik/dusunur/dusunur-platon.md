@@ -13,7 +13,6 @@ guven_geneli: tartismali
 etiketler: [platon, diyalog, idealar, sokrates, akademi]
 ilgili:
   - dusunur-aristoteles
-  - dusunur-thukydides
   - tartisma-tarihsel-sayilar-nasil-okunur
   - dusunur-konfucyus
   - dusunur-augustinus
@@ -21,6 +20,8 @@ ilgili:
   - kavram-ikincil-kaynak
   - tartisma-eksen-cagi-gercek-mi
   - kaynak-platon-devlet
+baglam:
+  - dusunur-thukydides
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -57,10 +58,10 @@ onarim_turu: 0
 ---
 
 Kaynak onu MÖ 429? - 347 arasına yerleştirir; doğum yılının yanındaki soru
-işareti kaynağın kendi işaretidir.[^k1] Bu dosya, öğretisini değil **kaynağın
+işareti kaynağın kendi işaretidir.[^k1] Bu inceleme, öğretisini değil **kaynağın
 kendi belirsizliklerini** ele alır.
 
-::tartismali[Doğum yılı kaynağın kendi metninde soru işaretiyle yazılmıştır. Atlas bu işareti silmez ve tek bir yıl yazmaz; belirsizlik kaydın parçasıdır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Doğum yılı kaynağın kendi metninde soru işaretiyle yazılmıştır. Korpus bu işareti silmez ve tek bir yıl yazmaz; belirsizlik kaydın parçasıdır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Sayıların ve tarihlerin nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -74,7 +75,7 @@ değiştirir mi, tarihsel Sokrates ve neden diyaloglar.[^k1]
 
 Bir filozof maddesinin beş ayrı bölümünün soru cümlesi olması,[^k1] konunun
 kapalılığının bir eksiklik değil maddenin yapısı olarak kaydedildiğini gösterir;
-atlas bu tavrı örnek alır.
+korpus bu tavrı örnek alır.
 
 ## Yazar hiç kendi adına konuşmaz
 
@@ -82,7 +83,7 @@ Kaynak, Sokrates'i baskın konuşmacı olarak ayrı bir başlıkta işler ve Pla
 dolaylılığına da ayrı bir başlık ayırır.[^k1]
 
 Bir düşünürün görüşlerinin yalnızca başkalarının ağzından aktarılmış olması,[^k1]
-filanca şunu savundu biçimindeki cümlelerin bu dosyada neden kurulmadığını
+filanca şunu savundu biçimindeki cümlelerin bu incelemede neden kurulmadığını
 açıklar: kaynak bile bunu bir sorun olarak işaretlemiştir.
 
 ## Öğreti kaynağın kendi çekincesiyle verilir
@@ -96,7 +97,7 @@ sayılır.[^k1]
 
 Kaynağın öğretiyi doğrudan değil birçok kişinin onunla ilişkilendirdiği
 biçiminde
-vermesi,[^k1] atlasın tartışmalı alanlarda kullandığı kalıbın aynısıdır: iddia
+vermesi,[^k1] korpusun tartışmalı alanlarda kullandığı kalıbın aynısıdır: iddia
 kime aitse onun adıyla taşınır.
 
 ## Öğrencisi ayrı bir maddedir
@@ -116,13 +117,12 @@ mesleklerini birlikte verir.[^k3] O yazar
 diğeri tarih başlığı altında tutulması,[^k1][^k3] disiplin ayrımının kaynakların
 kendi düzenlemesinden geldiğini gösterir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Diyalogların sırası, form kuramının ayrıntıları, siyaset felsefesi ve etkisi
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1]
 
 ## Eserine bağ
 
-Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Devlet*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+Bu inceleme düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Devlet*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
 verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

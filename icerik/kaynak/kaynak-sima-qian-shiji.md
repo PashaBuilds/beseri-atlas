@@ -76,7 +76,7 @@ Sima Tan'a ait olduğu ya da onun notlarına dayandığı tahmin edilen yalnızc
 parçalar bulunduğunu kaydeder.[^k1]
 
 Bir metnin içindeki tek bir bölümün başka bir yazara açıkça atfedilmiş olması,
-[^k1] atlasın şu kuralının dayanağıdır: bu dosyada esere yapılan atıflar, hangi
+[^k1] korpusun şu kuralının dayanağıdır: bu incelemede esere yapılan atıflar, hangi
 bölümden geldiği belirtilerek verilmelidir.
 
 ## Tasarı babaya, yazım oğula aittir
@@ -91,7 +91,7 @@ Kaynak, eserin antik Çinlilerin bildiği dünyanın ilk evrensel tarihi olarak
 sonraki hanedanların resmî tarihleri için Sinosfer boyunca 20. yüzyıla kadar
 model olduğunu yazar.[^k1]
 
-Bir eserin iki bin yıl boyunca bir tür standardı olarak kalması,[^k1] atlasın
+Bir eserin iki bin yıl boyunca bir tür standardı olarak kalması,[^k1] korpusun
 tarih yazımı dosyasında Doğu Asya'yı neden ayrı bir gelenek olarak tuttuğunun
 dayanağıdır; o dosya
 [Tarih yazımı](/kavram/tarih-yazimi/) dosyasıdır.
@@ -109,14 +109,13 @@ yerleştirir.[^k3] O hanedan
 [Han İmparatorluğu](/aktor/han-imparatorlugu/) dosyasında, yazarın kendisi ise
 [Sima Qian](/dusunur/sima-qian/) dosyasında ele alınıyor.
 
-## Okuma yönlendirmesi
-
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
+## Okumayı sürdürmek için
+Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
 ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi çevirinin ve hangi
 neşrin kullanıldığı her aktarımda belirtilmelidir.
 
 ## Metne bağ
 
-Bu dosya eserin kamu malı tam metnine bağlanır: *Shiji*.[^k4] Esere yapılacak
+Bu inceleme eserin kamu malı tam metnine bağlanır: *Shiji*.[^k4] Esere yapılacak
 her atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
 çevirinin kullanıldığı belirtilmelidir.

@@ -53,7 +53,7 @@ onarim_turu: 0
 Fransız Devrimi, Fransa'da 1789'daki Etats-Généraux ile başlayan ve on yıl
 sonra, 9 Kasım
 1799'daki 18 Brumaire Darbesi ile sona eren bir siyasi ve toplumsal değişim
-dönemidir.[^k1] Bu dosya, sürecin **maliyeden anayasaya nasıl geçtiğini** ele
+dönemidir.[^k1] Bu inceleme, sürecin **maliyeden anayasaya nasıl geçtiğini** ele
 alır.
 
 ## Vergi düzeninin kendisi bir siyasi sorundu
@@ -116,7 +116,7 @@ Fransız Konsüllüğü'nün kurulması.[^k1]
 
 Kaynak devrimin mirasını da not eder: devrimin birçok fikri liberal demokrasinin
 temel ilkeleri sayılır ve değerleri modern Fransız siyasi söyleminin merkezinde
-kalmaya devam eder.[^k1] Bu, atlasın kendi değerlendirmesi değil kaynağın
+kalmaya devam eder.[^k1] Bu, korpusun kendi değerlendirmesi değil kaynağın
 kaydettiği bir niteliktir.
 
 Kaynağın kronolojisinde savaşlar Konsüllük'ten önce gelir;[^k1] bunların ardından
@@ -128,10 +128,9 @@ Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 1848'de yak
 1,27 milyardır.[^k3] Fransa'nın kendi nüfusuna dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için bu toplam içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Devrimin iç siyasi hizipleri, terör evresinin bilançosu, kilise düzenlemeleri ve
 sonrasındaki imparatorluk dönemi burada ayrı başlıklar altında ele
 alınmamıştır. Devrimin nasıl
-yorumlanması gerektiği ayrı bir tartışma konusudur ve bu dosya o soruya cevap
+yorumlanması gerektiği ayrı bir tartışma konusudur ve bu inceleme o soruya cevap
 vermez. Dönemin bütünü [1789–1848](/donem/11/) dosyasında ele alınıyor.

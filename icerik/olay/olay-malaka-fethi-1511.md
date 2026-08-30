@@ -57,7 +57,7 @@ onarim_turu: 0
 birbirine bağlayan boğazın kıyısındaki limanı kuşattı ve birkaç hafta içinde
 ele geçirdi.[^k1][^k3] Şehri elinde tutan sultanlık sona erdi.
 
-Olayın atlas açısından ayırt edici yanı, hedefin bir toprak değil bir geçit
+Olayın korpus açısından ayırt edici yanı, hedefin bir toprak değil bir geçit
 olmasıdır.[^k3] Sefer, iç bölgeyi almak için değil boğazı denetlemek için
 yapılmıştı ve bu, dönemin Avrupa deniz stratejisinin tipik hedefiydi.
 
@@ -70,9 +70,8 @@ Limanın değeri konumundan geliyordu.[^k1] Mevsim rüzgârlarının belirlediğ
 takvim, batıdan ve doğudan gelen gemileri burada buluşturuyordu ve liman bir
 taşıma noktası değil bir değişim noktasıydı.
 
-Atlasın [Hint Okyanusu ticareti](/kavram/hint-okyanusu-ticareti/) dosyası bu
-takvimi tanımlar.[^k1] Limanın önemi, coğrafyanın ve rüzgârın birlikte
-kurduğu bir zorunluluktu; siyasi bir tercih değildi.
+Limanın önemi, coğrafyanın ve rüzgârın
+birlikte kurduğu bir zorunluluktu; siyasi bir tercih değildi.[^k1]
 
 Seferi düzenleyen taraf bu mantığı doğru okumuştu.[^k3] Yanlış okuduğu şey,
 geçidin tek olmadığıydı ve bu, sonraki yüzyılın seyrini belirledi.
@@ -87,9 +86,8 @@ Belirleyici olan, gemilerin taşıdığı topların menzili ve limanın deniz
 tarafından savunmasız olmasıydı.[^k1][^k3] Şehir, kara saldırılarına göre
 kurulmuştu; denizden gelen sürekli ateşe karşı tasarlanmamıştı.
 
-Atlasın [Açe Sultanlığı](/aktor/ace-sultanligi/) dosyası, aynı dersi çıkaran
-bir düzeni anlatır.[^k1] Kendi donanmasını kuran bir liman, aynı taktiğe
-karşı yüzyıllarca direnebildi.
+Kendi donanmasını kuran bir liman, aynı taktiğe
+karşı yüzyıllarca direnebildi.[^k1]
 
 ## Şehrin yapısı bir zayıflıktı
 
@@ -101,17 +99,16 @@ yabancı tüccar topluluklarıydı.[^k1][^k2] Bu yapı, barış zamanında bir
 bazı toplulukların savunmaya katılmadığını, bazılarının kuşatan tarafla temas
 kurduğunu kaydeder.
 
-Atlas bunu bir ihanet olarak değil bir yapı sonucu olarak kaydeder.[^k2] Bir
-liman devletinin sermayesi tarafsızlıktır ve tarafsızlık, savaş anında
-savunulacak bir şey bırakmaz.
+Bir liman devletinin sermayesi
+tarafsızlıktır ve tarafsızlık, savaş anında savunulacak bir şey bırakmaz.[^k2]
 
 ## Kaybeden tarafın kaydı
 
-Bu dosyanın birincil kaynağı, sultanlığın kendi saray anlatısıdır.[^k2]
+Bu incelemenin birincil kaynağı, sultanlığın kendi saray anlatısıdır.[^k2]
 Anlatı, olayı hanedanın bakış açısından verir ve düşüşü bir dizi hata ile
 açıklar.
 
-Kaybeden tarafın kendi kaydının bulunması, atlasın olay dosyalarında seyrek
+Kaybeden tarafın kendi kaydının bulunması, korpusun olay dosyalarında seyrek
 karşılaşılan bir durumdur.[^k2] Fetih anlatılarının çoğu yalnızca fetheden
 tarafın kaydından bilinir.
 
@@ -129,8 +126,8 @@ Bu fark bir bilgidir.[^k3] Bir tarafın neyi ayrıntılandırdığı, o tarafın
 olayı nasıl açıkladığını gösterir ve iki açıklama yan yana konduğunda
 hiçbirinin tek başına vermeyeceği bir tablo çıkar.
 
-Atlas bu karşılaştırmayı kurar ve bir sonuç yazmaz.[^k1] Hangi açıklamanın
-daha doğru olduğu, iki kaydın dışından bir kanıt gerektirir.
+Hangi açıklamanın daha doğru
+olduğu, iki kaydın dışından bir kanıt gerektirir.[^k1]
 
 ## Sonuç: ticaret durmadı
 
@@ -138,9 +135,8 @@ Limanın el değiştirmesi, bölgedeki ticareti sona erdirmedi.[^k1] Tüccarlar
 boğazı kullanmayan bir güzergâha yöneldi ve ticaret hacmi büyük ölçüde
 korundu.
 
-Atlasın [Açe Sultanlığı](/aktor/ace-sultanligi/) dosyası bu kaymanın kuzey
-kapısını anlatır.[^k1] Bir geçidi kapatmak, ancak alternatif geçit yoksa
-ticareti durdurur; adalar arasında birden çok geçit vardı.
+Bir geçidi kapatmak, ancak alternatif
+geçit yoksa ticareti durdurur; adalar arasında birden çok geçit vardı.[^k1]
 
 Bu, seferi düzenleyen tarafın hesabındaki asıl hatadır.[^k3] Denetim
 kuruldu, gelir kurulmadı; değişen şey ticaretin hacmi değil, hangi limana
@@ -148,7 +144,7 @@ gittiğiydi.
 
 ## Silahlı ticaretin başlangıcı
 
-Olayın atlas açısından ikinci sonucu, ticaretin silahla birlikte
+Olayın korpus açısından ikinci sonucu, ticaretin silahla birlikte
 yürütülmesinin bölgede yerleşmesidir.[^k3] Bu tarihe kadar okyanus
 ticaretinde donanma gücü belirleyici değildi.
 
@@ -156,21 +152,21 @@ Değişimin sebebi teknolojik olduğu kadar örgütseldir.[^k3] Gemiye top koyma
 tek başına yeterli değildir; ticaret gelirini askerî harcamaya bağlayan bir
 şirket ve devlet yapısı da gerekir.
 
-Atlas bu ikinci unsuru ayrıca kaydeder.[^k1] Aynı toplar başka donanmalarda
-da vardı; fark, gelirin askerî güce sistemli biçimde geri yatırılmasıydı.
+Aynı toplar başka donanmalarda da vardı; fark,
+gelirin askerî güce sistemli biçimde geri yatırılmasıydı.[^k1]
 
 ## Adlandırma sorunu
 
-Olayın nasıl adlandırılacağı tartışmalıdır ve atlas bir ad seçmek
+Olayın nasıl adlandırılacağı tartışmalıdır ve korpus bir ad seçmek
 zorundadır.[^k3] Fetih, alınma, ele geçirme ve istila, aynı olay için
 kullanılan ve farklı şeyler ima eden adlardır.
 
 ::tartismali[Olayın hangi adla anılacağı, olayı hangi tarafın kaydından
-okuduğunuza bağlıdır ve seçilen ad kendi değerlendirmesini de taşır. Atlas
+okuduğunuza bağlıdır ve seçilen ad kendi değerlendirmesini de taşır. Korpus
 yerleşmiş adı kullanır ve itirazı yanına
 yazar.]{harita=tartisma-kesif-mi-istila-mi}
 
-Bu tutum atlasın genel kuralıdır.[^k1] Yerleşmiş bir adı kullanmak onu
+Bu tutum korpusun genel kuralıdır.[^k1] Yerleşmiş bir adı kullanmak onu
 onaylamak değildir; sessizce değiştirmek ise sorunu çözmek değil gizlemek
 olurdu.
 
@@ -183,8 +179,8 @@ Bu kayıtların yönü bellidir.[^k3] Az sayıda gemiyle büyük bir şehri alma
 kaydı tutanın başarısını büyüttüğü için savunan tarafın sayısı yüksek
 gösterilmeye eğilimlidir.
 
-Atlas bu yüzden bu dosyada sayı vermez.[^k1] Değerlendirmeler mutlak
-büyüklüklere değil, iki kaydın ortak vurgusuna dayanır.
+Değerlendirmeler mutlak büyüklüklere
+değil, iki kaydın ortak vurgusuna dayanır.[^k1]
 
 ## Bölgesel zincirleme
 
@@ -192,9 +188,8 @@ Limanın düşmesi, bölgedeki öteki liman devletlerinin davranışını da
 değiştirdi.[^k1] Bazıları donanma kurmaya, bazıları uzak müttefik aramaya
 yöneldi.
 
-Atlasın [Açe Sultanlığı](/aktor/ace-sultanligi/) dosyası bu iki tepkinin de
-örneğini verir.[^k1] Sultanlık hem kendi donanmasını kurdu hem de çok
-uzaktaki bir devletten top ve topçu desteği aldı.
+Sultanlık hem kendi donanmasını kurdu hem de çok
+uzaktaki bir devletten top ve topçu desteği aldı.[^k1]
 
 Bu zincirleme, olayın tek bir şehirle sınırlı kalmadığını gösterir.[^k3] Bir
 limanın düşmesi, bölgedeki bütün liman devletlerinin risk hesabını
@@ -202,7 +197,7 @@ değiştirir.
 
 ## Kaynak durumu
 
-Bu dosya üç kaynağa dayanır ve biri birincildir.[^k2] Birincil kaynak
+Bu inceleme üç kaynağa dayanır ve biri birincildir.[^k2] Birincil kaynak
 kaybeden tarafın saray anlatısıdır; fetheden tarafın çağdaş kayıtları
 künyeye alınamamıştır.
 
@@ -211,19 +206,18 @@ edilir.[^k3] Fetheden tarafın kayıtlarından gelen bilgiler, giriş kapısı
 maddesinin aktarımıyla sınırlıdır.
 
 Kısıtın sebebi erişimdir, kayıt yokluğu değil.[^k1] Dönemin Portekizce
-kayıtları bilinmektedir; doğrulanabilir ve tam metin bir baskısı bu dosya
+kayıtları bilinmektedir; doğrulanabilir ve tam metin bir baskısı bu inceleme
 yazıldığında bulunamamıştır.
 
-## Bu dosyanın kapsamadıkları
-
+## Açıkta kalan sorular
 Kuşatmanın günlük seyri ve askerî ayrıntıları burada işlenmez.[^k3] Ayrı bir
 dosya gerektirir.
 
-Şehrin sonraki sömürge dönemi de kapsam dışıdır.[^k1] Bu dosya bir olayı
+Şehrin sonraki sömürge dönemi de kapsam dışıdır.[^k1] Bu inceleme bir olayı
 konu edinir; şehrin sonraki dört yüzyılını değil.
 
-Seferi düzenleyen devletin kendi tarihi burada verilmez.[^k3] Bu dosya
-yazıldığında atlasta ayrı bir dosyası bulunmuyordu.
+Seferi düzenleyen devletin kendi tarihi burada verilmez.[^k3] Bu inceleme
+yazıldığında korpusta ayrı bir dosyası bulunmuyordu.
 
 ## Öncesindeki elçilik girişimi
 
@@ -235,9 +229,9 @@ Bu ön tarih, seferin gerekçelendirilmesinde kullanıldı.[^k3] Fetheden taraf�
 kaydında sefer, bir haksızlığın karşılığı olarak sunulur; kaybeden tarafın
 kaydında ise heyetin niyeti baştan şüpheli bulunmuştur.
 
-Atlas iki anlatıyı da kaydeder ve birini doğrulamaz.[^k2] Bir seferin
-gerekçesi, sefer sonrası yazılan kayıtlarda her zaman düzenlenmiş hâliyle
-bulunur ve bu, iki taraf için de geçerlidir.
+Bir seferin gerekçesi, sefer sonrası
+yazılan kayıtlarda her zaman düzenlenmiş hâliyle bulunur ve bu, iki taraf için de
+geçerlidir.[^k2]
 
 ## Limanın sonraki durumu
 
@@ -249,11 +243,10 @@ Bu, bir liman devletinin sermayesinin ne olduğunu gösterir.[^k1] Limanın
 değeri yalnızca konumunda değil, herkesin aynı şartlarla iş yapabileceğine
 duyulan güvendedir; güven, konum gibi devralınamaz.
 
-Atlas bu ayrımı kaydeder çünkü seferin ekonomik sonucunu açıklar.[^k3]
-Denetim devralındı, ayrıcalık devralınamadı ve gelirin bir bölümü başka
-limanlara gitti. Bir limanın fiziksel altyapısı el değiştirebilir; onu
-değerli kılan tüccar ağı ise ancak kendi rızasıyla kalır ve bu ayrım, sonraki
-yüzyılda bölgedeki bütün liman hesaplarını belirledi.[^k1]
+Denetim devralındı, ayrıcalık devralınamadı ve
+gelirin bir bölümü başka limanlara gitti.[^k3] Bir limanın fiziksel altyapısı el
+değiştirebilir; onu değerli kılan tüccar ağı ise ancak kendi rızasıyla kalır ve bu
+ayrım, sonraki yüzyılda bölgedeki bütün liman hesaplarını belirledi.[^k1]
 
 ## Zamanlamanın anlamı
 
@@ -265,14 +258,12 @@ Planın mantığı, okyanusun birkaç dar geçidinin tutulmasıyla bütün ticar
 denetlenebileceğiydi.[^k1] Bu mantık kısmen işledi ve kısmen işlemedi; hangi
 geçitte hangi sonucun alındığı ayrı ayrı incelenmelidir.
 
-Atlas bu planı bir bütün olarak kaydeder ve tek tek olayları onun aşamaları
-sayar.[^k3] Bir olayı kendi başına okumak, planın mantığını ve
-başarısızlığının nedenini görünmez kılar. Aynı yıllarda başka bir geçitte
-alınan sonuç farklıydı ve fark, geçidin coğrafi yapısından değil oradaki
-siyasi düzenin donanma kapasitesinden geliyordu.[^k1]
+Bir olayı kendi başına okumak, planın
+mantığını ve başarısızlığının nedenini görünmez kılar.[^k3] Aynı yıllarda başka bir
+geçitte alınan sonuç farklıydı ve fark, geçidin coğrafi yapısından değil oradaki siyasi
+düzenin donanma kapasitesinden geliyordu.[^k1]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Sona eren siyasi düzen için
 [Malaka Sultanlığı](/aktor/malaka-sultanligi/), ticaretin kaydığı yön için
 [Açe Sultanlığı](/aktor/ace-sultanligi/) dosyaları okunmalıdır.[^k1]

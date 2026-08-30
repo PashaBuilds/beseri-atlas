@@ -63,7 +63,7 @@ bu zincir düzenin ilk yarım yüzyılında belirleyici oldu.
 Düzen, bir yüzyıl içinde yarımadanın büyük bölümünde etkili hâle
 geldi.[^k3] Buna karşılık bu alanın tamamını yönetmedi.
 
-Bu dosyanın asıl konusu o ayrımdır.[^k2] Etki alanı ile yönetim alanı
+Bu incelemenin asıl konusu o ayrımdır.[^k2] Etki alanı ile yönetim alanı
 birbirinden farklıydı; fark, kullanılan mali araçtan doğuyordu ve bu
 araç düzenin bütün coğrafi görünümünü belirledi.
 
@@ -89,9 +89,9 @@ Buna karşılık gelirin bir bölümü elde edilir.[^k2] Toplam gelir, aynı
 askerî güçle fethedilebilecek alandan elde edilecek gelirden büyük
 olabilir.
 
-Atlas mekanizmayı ayrıca kaydeder.[^k3] **Bir düzen, toprağı yönetmeden
-gelirinden pay alabilir; bu durumda etki alanı yönetim alanından çok
-daha geniş olur.**
+**Bir düzen, toprağı yönetmeden
+gelirinden pay alabilir; bu durumda etki alanı yönetim alanından çok daha geniş
+olur.**[^k3]
 
 ## Haritanın çizilememesi
 
@@ -102,8 +102,8 @@ olabilir.
 Yaygın haritalar bu durumu tek renkle gösterir.[^k3] Gösterim, iki ayrı
 ilişkiyi tek bir hâkimiyet ilişkisine indirger.
 
-Atlas bu nedenle bu düzenin sınırını çizmez.[^k2] Bu, atlasın sınır
-tartışması dosyasında tanımlanan sorunun en somut örneklerindendir.
+Bu, korpusun sınır tartışması
+dosyasında tanımlanan sorunun en somut örneklerindendir.[^k2]
 
 ## Konfederasyon adlandırması
 
@@ -114,16 +114,15 @@ Adlandırma dönemleri birleştirir.[^k3] İlk elli yılda merkez güçlüydü;
 sonraki dönemde yetki başbakanlık makamına, ardından bölgesel evlere
 kaydı.
 
-Atlas tek bir ad kullanır ve dönemleri ayırır.[^k2] Bir düzenin
-adlandırılması, o düzenin bütün dönemleri için aynı yapıyı ima
-etmemelidir.
+Bir düzenin adlandırılması, o düzenin
+bütün dönemleri için aynı yapıyı ima etmemelidir.[^k2]
 
 ## Yetkinin kayması
 
 Kurucudan sonra yetki, kalıtsal hâle gelen başbakanlık makamına
 geçti.[^k1] Hükümdar makamı korundu ama fiilî yönetim başbakanlıktaydı.
 
-Bu, atlasın başka dosyalarında ölçtüğü bir örüntüdür.[^k3] Unvan ile
+Bu, korpusun başka dosyalarında ölçtüğü bir örüntüdür.[^k3] Unvan ile
 yetkinin ayrılması, meşruiyet kuralının bağlayıcı kaldığı düzenlerde
 görülen çözümdür.
 
@@ -136,7 +135,7 @@ Bölgesel evlerin ayrı ordular kurması, toplam gücü artırdı ve ortak
 hareketi zorlaştırdı.[^k1] Büyük savaşlarda birlikte hareket edilmesi
 her seferinde ayrıca sağlanmak zorundaydı.
 
-Bu, atlasın Aşanti dosyasında ölçtüğü kısıtla aynıdır.[^k3] Federatif
+Bu, korpusun Aşanti dosyasında ölçtüğü kısıtla aynıdır.[^k3] Federatif
 kuruluşlar geniş kuvvet toplayabilir ama uzun süreli savaşta dağılma
 riski taşır.
 
@@ -163,8 +162,8 @@ ve hareketli yapıdan ağır ve pahalı yapıya geçiş yaygındır.
 Geçişi zorunlu kılan, karşıdaki gücün biçimidir.[^k3] Eğitilmiş piyade
 ve topçuya karşı hafif süvari yeterli olmuyordu.
 
-Atlas bu zorunluluğu ayrıca kaydeder.[^k2] Bir askerî biçim, rakibin
-biçimini taklit etmeye zorlandığında kendi avantajını da kaybeder.
+Bir askerî biçim, rakibin biçimini
+taklit etmeye zorlandığında kendi avantajını da kaybeder.[^k2]
 
 ## Kuzeydeki imparatorlukla ilişki
 
@@ -175,7 +174,7 @@ yöneltildi.
 On sekizinci yüzyıl ortasında imparatorluğun başkenti fiilen bu düzenin
 korumasına girdi.[^k3] Hükümdar makamı korundu, yetki değişti.
 
-Bu, atlasın Buhara dosyasında ölçtüğü ayrımın bir başka
+Bu, korpusun Buhara dosyasında ölçtüğü ayrımın bir başka
 örneğidir.[^k2] Bir yapının adı ve biçimi, yetkisi alındıktan sonra da
 sürebilir.
 
@@ -187,9 +186,8 @@ durdurdu.[^k3] Kayıplar ağırdı ve merkezî otorite zayıfladı.
 Yenilgi düzeni sona erdirmedi.[^k1] Bölgesel evler on yıl içinde
 toparlandı ve genişleme yeniden başladı.
 
-Atlas bu ayrımı ayrıca yazar.[^k2] Tek bir yenilginin belirleyici
-sayılması, sonradan bakıldığında kurulan bir düzendir; o anda süreç
-devam etmiştir.
+Tek bir yenilginin belirleyici sayılması, sonradan
+bakıldığında kurulan bir düzendir; o anda süreç devam etmiştir.[^k2]
 
 ## Sonun biçimi
 
@@ -211,9 +209,8 @@ Yeni yönetim, aynı toprakların gelirini doğrudan toplamaya başladı.
 Bu geçiş, gelir hakkının bir mülk gibi el değiştirebildiğini
 gösterir.[^k2] Hak, toprağa değil bir sözleşme ilişkisine bağlıydı.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k3] Toprak mülkiyeti ile gelir
-hakkı ayrı ayrı devredilebilir ve ikisinin karıştırılması dönem
-kayıtlarında yaygın bir hatadır.
+Toprak mülkiyeti ile gelir hakkı ayrı ayrı
+devredilebilir ve ikisinin karıştırılması dönem kayıtlarında yaygın bir hatadır.[^k3]
 
 ## Dağ kalelerinin rolü
 
@@ -234,8 +231,8 @@ alındığı defterlere işleniyordu.
 Bu defterler, gelir hakkının nerelere uzandığını gösteren en doğrudan
 kanıttır.[^k3] Harita çizilemese de defter okunabilir.
 
-Atlas bu imkânı ayrıca kaydeder.[^k2] Sınırı çizilemeyen bir düzenin
-kapsamı, toprak haritasıyla değil gelir defteriyle gösterilebilir.
+Sınırı çizilemeyen bir düzenin kapsamı,
+toprak haritasıyla değil gelir defteriyle gösterilebilir.[^k2]
 
 ## Kurucunun taç giymesi
 
@@ -248,16 +245,15 @@ Törenin işlevi doğrudan siyasidir.[^k3] Bir düzenin komşularıyla
 antlaşma yapabilmesi, elçi kabul edebilmesi ve vergi talep edebilmesi,
 karşı tarafın onu hangi kategoriye koyduğuna bağlıdır.
 
-Atlas bu mekanizmayı ayrıca kaydeder.[^k2] Meşruiyet biçimini kuşanmak,
-askerî gücü artırmaz ama o gücün karşılığında ne talep edilebileceğini
-değiştirir.
+Meşruiyet biçimini kuşanmak, askerî gücü
+artırmaz ama o gücün karşılığında ne talep edilebileceğini değiştirir.[^k2]
 
 ## Deniz gücü
 
 Düzenin batı kıyısında bir donanması vardı.[^k1] Donanma, kıyı
 ticaretini denetliyor ve geçiş ücreti topluyordu.
 
-Bu, atlasın çok az güney Asya dosyasında görülen bir özelliktir.[^k3]
+Bu, korpusun çok az güney Asya dosyasında görülen bir özelliktir.[^k3]
 Kara düzenlerinin çoğu deniz gücüne yatırım yapmaz; burada yapılmıştır
 ve bir dönem etkili olmuştur.
 
@@ -266,12 +262,12 @@ yapılan anlaşmaların bir maddesiydi ve kıyı denetimi el değiştirdi.
 
 ## Kaynak durumu
 
-Bu dosyanın üç künyesinden ikisi dönem tanıklığıdır ve ikisi de karşı
+Bu incelemenin üç künyesinden ikisi dönem tanıklığıdır ve ikisi de karşı
 taraftan gelir.[^k2] Biri ilhak döneminde görev yapmış bir subayın
 anlatısı, biri sonraki bir ansiklopedi maddesidir.
 
 Düzenin kendi defterleri ve Marathi dilindeki vakayinameleri
-mevcuttur.[^k1] Doğrulanabilir çevrimiçi baskıları bu dosya
+mevcuttur.[^k1] Doğrulanabilir çevrimiçi baskıları bu inceleme
 yazıldığında bulunamamıştır.
 
 Eksik borç defterine yazılmıştır.[^k3] Dosyanın asıl bulgusu gelir
@@ -288,11 +284,10 @@ araca ve federatif yapının sonuçlarına ilişkin olanı kaydeder;
 seferlerin güzergâhı ve kayıpları ayrı bir çalışma gerektirir.
 
 Toplumsal yapı ve kast düzeniyle ilişkisi işlenmez.[^k3] Ayrı bir dosya
-gerektirir ve atlasta o dosya bulunmaktadır; düzenin hangi toplumsal
+gerektirir ve korpusta o dosya bulunmaktadır; düzenin hangi toplumsal
 kesimlerden asker ve yönetici devşirdiği ayrıca incelenmelidir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, mali aracın genel bir üstünlük olduğunu ileri sürmez.[^k1]
 Yönetim maliyetini düşürdüğü kadar, yönetilen bölgede kalıcı kurum
 kurmayı da engeller.
@@ -303,8 +298,7 @@ bu örnekte ölçülmüştür ve her federatif yapı için geçerli değildir.
 Karşı tarafın stratejisi hakkında değerlendirme yapılmaz.[^k2] Dosya
 olayların sırasını ve yapısal nedenlerini kaydeder.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Gelirinden pay alınan imparatorluk için
 [Bâbür İmparatorluğu](/aktor/babur-imparatorlugu/), düzeni ortadan
 kaldıran taraf için
@@ -313,7 +307,7 @@ dosyaları okunmalıdır.[^k1]
 
 Haritada sınırın neden çizilemediği için
 [İmparatorluk sınırı nasıl çizilir](/tartisma/imparatorluk-siniri-nasil-cizilir/)
-dosyası uygundur; bu dosya oraya en somut örneği sağlar.[^k3]
+dosyası uygundur; bu inceleme oraya en somut örneği sağlar.[^k3]
 
 Yönetmeden gelir alma ilişkisinin genel biçimi için
 [Haraçgüzarlık](/kavram/haracguzarlik/) ve

@@ -73,15 +73,15 @@ onarim_turu: 0
 ## Nerede durduğu
 
 Benin Krallığı, Batı Afrika'nın orman kuşağında, Sahra ticaret yollarının
-güneyinde ve okyanus kıyısının iç tarafında kuruldu.[^k1][^k2] Atlasın bölge
+güneyinde ve okyanus kıyısının iç tarafında kuruldu.[^k1][^k2] Korpusun bölge
 şemasında yalnızca Afrika etiketi taşır.
 
-Bu tek etiket kendi başına bir bilgidir.[^k1] Atlasın öteki Batı Afrika
+Bu tek etiket kendi başına bir bilgidir.[^k1] Korpusun öteki Batı Afrika
 dosyalarının çoğu İslam dünyası etiketini de taşır; bu krallık, Sahra
 ticaretinin ve onunla gelen yazı geleneğinin dışında kaldı.
 
 Sonuç doğrudan bir kaynak sorunudur.[^k3] Krallığın kendi yazılı kayıt
-geleneği bulunmadığı için, atlasın onun hakkında bildiği her şey başka
+geleneği bulunmadığı için, korpusun onun hakkında bildiği her şey başka
 türden kanıtlardan gelir.
 
 ## Kanıtın üç kaynağı
@@ -91,13 +91,12 @@ söyler.[^k3] Birincisi saray sözlü geleneği, ikincisi kıyıya gelen Avrupal
 tüccar ve elçilerin kayıtları, üçüncüsü krallığın bıraktığı maden döküm
 eserleri.
 
-Üçünün bir arada bulunması, atlasın Afrika dosyalarında seyrek görülen bir
+Üçünün bir arada bulunması, korpusun Afrika dosyalarında seyrek görülen bir
 durumdur.[^k1] Çoğu dosyada yalnızca ikinci tür kanıt vardır ve bu, bölgeyi
 tümüyle dışarıdan yazılmış hâle getirir.
 
-Atlasın [Sözlü gelenek kaynak sayılır mı](/tartisma/sozlu-gelenek-kaynak-mi/)
-dosyası bu üçlünün nasıl değerlendirileceğini tartışır.[^k3] Bu dosya, o
-tartışmanın en somut örneklerinden biridir.
+Bu inceleme, o tartışmanın en somut
+örneklerinden biridir.[^k3]
 
 ## Döküm eserlerin kanıt değeri
 
@@ -105,7 +104,7 @@ Krallığın bıraktığı maden döküm levhalar ve heykeller, saray hayatını
 tören düzenini, giyimi ve hiyerarşiyi gösterir.[^k3] Levhalar saray
 duvarlarına asılıydı ve bir kayıt işlevi taşıyordu.
 
-Bu, atlasın kaydettiği ender bir kanıt türüdür.[^k1] Bir düzenin kendi
+Bu ender bir kanıt türüdür.[^k1] Bir düzenin kendi
 hiyerarşisini görsel olarak ve kalıcı bir malzemeyle kaydetmesi, yazılı
 kaydın yerini tam olarak tutmaz ama ona yakın bir işlev görür.
 
@@ -123,8 +122,8 @@ usta-çırak zinciri ve düzenli hammadde tedariki gerektirir.
 saray desteği olmadan yüzyıllarca sürdürülemez ve eserlerin sürekliliği,
 düzenin sürekliliğinin dolaylı kanıtıdır.
 
-Atlas bu çıkarımı kaydeder ve sınırını da yazar.[^k3] Üretimin sürmesi
-düzenin sürdüğünü gösterir; düzenin nasıl işlediğini göstermez.
+Üretimin sürmesi düzenin sürdüğünü
+gösterir; düzenin nasıl işlediğini göstermez.[^k3]
 
 ## Hammaddenin geldiği yer
 
@@ -135,9 +134,8 @@ Bağlantının yönü zamanla değişti.[^k1] Erken dönemde kuzeyden gelen kara
 ticareti, sonraki yüzyıllarda kıyıdan gelen deniz ticareti belirleyici
 oldu.
 
-Atlas bu değişimi kaydeder çünkü krallığın dış ilişkilerinin de yön
-değiştirdiğini gösterir.[^k2] Bir düzenin hangi yöne baktığı, hammaddesinin
-nereden geldiğinden okunabilir.
+Bir düzenin hangi yöne baktığı,
+hammaddesinin nereden geldiğinden okunabilir.[^k2]
 
 ## Kıyı ticareti ve köle ticareti
 
@@ -151,14 +149,13 @@ kaydedilir.
 ::tartismali[Batı Afrika siyasi düzenlerinin Atlantik köle ticaretindeki
 payının nasıl değerlendirileceği tartışmalıdır; bir okuma bu düzenleri
 sürecin ortağı, öteki okuma dışarıdan gelen bir talebe uyum sağlamak
-zorunda kalan taraf sayar. Atlas bir sonuca
+zorunda kalan taraf sayar. Korpus bir sonuca
 bağlanmaz.]{harita=tartisma-somurgeciligin-ekonomik-bilancosu}
 
 ## Tartışmanın iki tarafını ayrı tutmak
 
-Atlas bu tartışmada iki ayrı soruyu birbirinden ayırır.[^k3] Birincisi
-katılımın gerçekleşip gerçekleşmediğidir; buna kaynaklar evet der ve bu
-tartışmalı değildir.
+Birincisi katılımın gerçekleşip gerçekleşmediğidir;
+buna kaynaklar evet der ve bu tartışmalı değildir.[^k3]
 
 İkincisi katılımın nasıl değerlendirileceğidir.[^k1] Bu soru, tarafların
 elindeki seçeneklerin neler olduğuna ve talebin nereden geldiğine bağlıdır;
@@ -178,7 +175,7 @@ döküm levhalardan gelir.
 gelenek unvanları sayar, levhalar o unvanların giyim ve konum farklarını
 gösterir; iki kayıt birbirini doğrular.
 
-Bu, atlasın kaynak yöntemi açısından öğreticidir.[^k3] Farklı türden iki
+Bu, korpusun kaynak yöntemi açısından öğreticidir.[^k3] Farklı türden iki
 kanıtın örtüşmesi, aynı türden iki kanıtın örtüşmesinden daha güçlü bir
 doğrulamadır.
 
@@ -191,9 +188,8 @@ kendi şehirleriyle karşılaştırma yaparak yazılmıştır.
 Bu karşılaştırmalı yapı, tarifleri ölçüm değil izlenim yapar.[^k1] Bir
 şehrin büyük bulunması, gözlemcinin daha önce gördüğü şehirlere bağlıdır.
 
-Atlas bu yüzden bu dosyada şehir ölçüsü vermez.[^k3] Kaydedilen şey,
-birden çok bağımsız gözlemcinin şehri düzenli ve büyük olarak tarif etmiş
-olmasıdır.
+Kaydedilen şey, birden çok bağımsız
+gözlemcinin şehri düzenli ve büyük olarak tarif etmiş olmasıdır.[^k3]
 
 ## Sonun biçimi
 
@@ -201,17 +197,16 @@ Krallığın sonu, on dokuzuncu yüzyıl sonunda bir askerî seferle
 geldi.[^k2][^k3] Başkent alındı ve saray hazinesindeki eserlerin büyük
 bölümü yurt dışına çıkarıldı.
 
-Bu olay, atlasın kaynak katmanını doğrudan ilgilendirir.[^k3] Krallık
+Bu olay, korpusun kaynak katmanını doğrudan ilgilendirir.[^k3] Krallık
 hakkındaki en önemli kanıt yığını, bugün krallığın bulunduğu ülkenin
 dışındaki müzelerdedir.
 
-Atlas bu durumu kaydeder ve bir hüküm vermez.[^k2] Eserlerin bulunduğu yer
-ile ait olduğu yer arasındaki fark, süregelen bir tartışmanın konusudur ve
-ayrı bir dosya gerektirir.
+Eserlerin bulunduğu yer ile ait olduğu yer
+arasındaki fark, süregelen bir tartışmanın konusudur ve ayrı bir dosya gerektirir.[^k2]
 
 ## Kanıtın yerinden edilmesi
 
-Bu durumun atlas açısından ikinci bir sonucu vardır.[^k3] Bir bölgenin
+Bu durumun korpus açısından ikinci bir sonucu vardır.[^k3] Bir bölgenin
 tarihine dair kanıtın başka bir kıtada bulunması, o tarihi kimin
 yazabileceğini de etkiler.
 
@@ -219,13 +214,12 @@ Kanıta erişim, araştırma imkânını belirler.[^k1] Eserlerin bulunduğu
 ülkelerdeki araştırmacılar, ait olduğu ülkedekilerden daha kolay
 çalışabilir ve bu, üretilen bilginin dağılımına yansır.
 
-Atlas bu mekanizmayı kaydeder çünkü kendi kaynak bileşiminde de aynı
-eğilimi ölçmüştür.[^k3] Dijital erişim yokluğu ile fiziksel erişim yokluğu,
-aynı sonucun iki biçimidir.
+Dijital erişim yokluğu ile fiziksel
+erişim yokluğu, aynı sonucun iki biçimidir.[^k3]
 
 ## Süreklilik sorusu
 
-Krallık yaklaşık yedi yüzyıl sürdü ve bu, atlasın kaydettiği en uzun ömürlü
+Krallık yaklaşık yedi yüzyıl sürdü ve bu en uzun ömürlü
 siyasi düzenlerden biridir.[^k1][^k3] Süreklilik iddiası dikkatle
 kurulmalıdır.
 
@@ -233,31 +227,29 @@ Süreklilik, hanedan listesine ve saray geleneğine dayanır.[^k3] İki kaynak d
 sözlü gelenekten gelir ve bir hanedanın kendi sürekliliğini kaydetmesi,
 kesintileri düzeltme eğilimi taşır.
 
-Atlas bu yüzden süreyi geniş bir aralık olarak verir ve kesinlik
-önermez.[^k1] Künyedeki tarihler yerleşmiş kabulü yansıtır, bir ölçüm
-değildir.
+Künyedeki tarihler yerleşmiş kabulü yansıtır, bir
+ölçüm değildir.[^k1]
 
-## Atlastaki yeri
-
-Bu dosya, atlasın Afrika aktör katmanına orman kuşağından ilk düzeni
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun Afrika aktör katmanına orman kuşağından ilk düzeni
 ekler.[^k2] Katmandaki öteki dosyalar Sahel kuşağı, Doğu Afrika kıyısı ve
 Habeşistan yaylasındaydı.
 
 Ayrım coğrafi olduğu kadar kaynakla ilgilidir.[^k1] Sahel düzenleri Arapça
 yazılı kayıt bıraktı; orman kuşağı düzenleri bırakmadı ve bu, ikisinin
-atlasta nasıl temsil edildiğini doğrudan belirler.
+korpusta nasıl temsil edildiğini doğrudan belirler.
 
-Bu dosyanın yazılabilmesi, üçüncü bir kanıt türünün varlığı
-sayesindedir.[^k3] Döküm eserler olmasaydı, krallık atlasta yalnızca
+Bu incelemenin yazılabilmesi, üçüncü bir kanıt türünün varlığı
+sayesindedir.[^k3] Döküm eserler olmasaydı, krallık korpusta yalnızca
 ziyaretçi kayıtlarından tanınan bir konu olarak kalırdı.
 
 ## Kaynak durumu
 
-Bu dosya beş kaynağa dayanır ve ikisi birincildir.[^k4][^k5] İki birincil
-künye, döküm eserlerin müze katalog kayıtlarıdır ve atlasın künye şemasına
-bu dosya için eklenen `nesne` alt türünü taşır.
+Bu inceleme beş kaynağa dayanır ve ikisi birincildir.[^k4][^k5] İki birincil
+künye, döküm eserlerin müze katalog kayıtlarıdır ve korpusun künye şemasına
+bu inceleme için eklenen `nesne` alt türünü taşır.
 
-Eklemenin gerekçesi bu dosyada ortaya çıktı.[^k3] Şema metin kaynaklarına göre
+Eklemenin gerekçesi bu incelemede ortaya çıktı.[^k3] Şema metin kaynaklarına göre
 tasarlanmıştı; bir dosyanın en güçlü kanıtı bir metin değil bir nesne
 olduğunda künyede yeri yoktu ve dosya birincil kaynaksız görünüyordu.
 
@@ -266,8 +258,7 @@ sayfaları otomatik istekleri engellediği için künyeler katalog API'sine
 verilmiştir; API kaydı başlık, kültür, tarih ve insan sayfasının bağlantısını
 makine okunur biçimde döndürür.
 
-## Bu dosyanın kapsamadıkları
-
+## Açıkta kalan sorular
 Krallığın hükümdar listesi ve hanedan tarihi burada verilmez.[^k3] Sözlü
 gelenekten gelir ve doğrulanmamıştır.
 
@@ -275,27 +266,26 @@ Döküm eserlerin sanat tarihi açısından incelenmesi de kapsam dışıdır.[^
 Ayrı bir dosya gerektirir.
 
 Eserlerin bulunduğu müzelerle ilgili süregelen tartışma burada
-işlenmez.[^k2] Bu dosya bir siyasi düzeni konu edinir; eserlerin bugünkü
+işlenmez.[^k2] Bu inceleme bir siyasi düzeni konu edinir; eserlerin bugünkü
 hukuki durumunu değil.
 
 ## Yazılı kaydı olan komşularla karşılaştırma
 
-Atlasta aynı kıtadan, aynı yüzyıllarda ve yazılı kayıt bırakmış düzenler
-bulunmaktadır.[^k1][^k2] Karşılaştırma, iki grubun atlasta nasıl temsil
-edildiğindeki farkı görünür kılar.
+Karşılaştırma, iki grubun
+korpusta nasıl temsil edildiğindeki farkı görünür kılar.[^k1][^k2]
 
 Yazılı kayıt bırakan düzenlerin dosyalarında hükümdar adları, tarihler ve
-idari kararlar bulunabilir.[^k1] Bu dosyada aynı bilgiler ya sözlü gelenekten
+idari kararlar bulunabilir.[^k1] Bu incelemede aynı bilgiler ya sözlü gelenekten
 gelir ya da hiç yoktur; buna karşılık saray hiyerarşisi ve tören düzeni
 hakkında daha somut kanıt vardır.
 
 Fark, bir düzenin ne kadar gelişmiş olduğunu değil neyi kaydettiğini
-gösterir.[^k3] Atlas bu ayrımı korur çünkü kayıt bolluğunu gelişmişlik
+gösterir.[^k3] Korpus bu ayrımı korur çünkü kayıt bolluğunu gelişmişlik
 göstergesi saymak, kaynak yanlılığını olgu hâline getirir.
 
 ## Kanıt türünün soruyu belirlemesi
 
-Bu dosya, atlasın genel bir gözlemini en açık biçimde taşır.[^k3] Elde
+Bu inceleme, korpusun genel bir gözlemini en açık biçimde taşır.[^k3] Elde
 bulunan kanıt türü, o konuda sorulabilecek soruları da belirler.
 
 Yazılı kayıt olay sırası ve karar sorusunu cevaplayabilir; nesne kanıtı
@@ -307,8 +297,7 @@ Sonuç, bölgeler arası karşılaştırmalarda dikkate alınmalıdır.[^k2] Bir
 hakkında olay tarihi yazılamıyorsa, bu o bölgede olay olmadığı anlamına
 değil, olayların kaydedilmediği anlamına gelir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı kıtanın kuzeyindeki ticaret düzeni için
 [Songhay İmparatorluğu](/aktor/songhay-imparatorlugu/), kanıt türlerinin nasıl
 değerlendirileceği için

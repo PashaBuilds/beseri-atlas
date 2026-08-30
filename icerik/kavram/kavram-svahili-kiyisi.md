@@ -65,8 +65,7 @@ Kuşağın ayırt edici yanı, siyasi birlik olmadan kültürel birlik
 taşımasıdır.[^k2][^k4] Ortak bir dil, ortak bir yapı geleneği ve ortak bir
 hukuk çerçevesi, merkezî bir yönetim olmadan sürdürülmüştür.
 
-Bu, atlasın [Hint Okyanusu ticareti](/kavram/hint-okyanusu-ticareti/)
-dosyasında tanımlanan düzenin batı ucudur.[^k3] Kuşağın varlık sebebi, mevsim
+Bu, [Hint Okyanusu ticareti](/kavram/hint-okyanusu-ticareti/) incelemesinde tanımlanan düzenin batı ucudur.[^k3] Kuşağın varlık sebebi, mevsim
 rüzgârlarının bu kıyıyı okyanus ağının başlangıç noktası yapmasıdır.
 
 ## Karma bir oluşum
@@ -107,14 +106,14 @@ Yazılı kayıtlar okyanus bağlantısını öne çıkarır; kazılar ise iç b�
 sürekli bir alışverişi gösterir.[^k4] İki kanıt türü çelişmez ama farklı
 ağırlıklar verir.
 
-Atlasın [Arkeolojik kanıt](/kavram/arkeolojik-kanit/) dosyası bu gerilimi
+Korpusun [Arkeolojik kanıt](/kavram/arkeolojik-kanit/) dosyası bu gerilimi
 genel biçimiyle ele alır. Burada somut hâli şudur: kuşağın kökeni sorusu,
 hangi kanıt türüne ağırlık verildiğine göre farklı yanıtlanır.[^k1]
 
 ## Tek tanık kaydının ağırlığı
 
 Kuşağı yerinde görmüş ve erişilebilir bir kayıt bırakmış tanık sayısı
-azdır.[^k3] Bu dosyada kullanılan tanık kaydı, kıyıdaki iki şehri ziyaret
+azdır.[^k3] Bu incelemede kullanılan tanık kaydı, kıyıdaki iki şehri ziyaret
 etmiş bir gezginin anlatısıdır.
 
 Tek bir tanığa dayanmanın riski açıktır. Gezginin gördüğü şehirler kuşağın
@@ -122,9 +121,9 @@ tamamını temsil etmeyebilir ve gördüklerini kendi ölçütleriyle
 değerlendirmiştir;[^k3] zenginlik, dindarlık ve düzen hakkındaki
 değerlendirmeleri karşılaştırmalıdır, ölçüm değildir.
 
-Atlas bu yüzden tanık kaydından sayı aktarmaz.[^k4] Kaydın değeri, kuşağın
-o tarihte işler durumda olduğunu ve dışarıdan gelen birine nasıl göründüğünü
-belgelemesindedir.
+Kaydın değeri, kuşağın o tarihte
+işler durumda olduğunu ve dışarıdan gelen birine nasıl göründüğünü
+belgelemesindedir.[^k4]
 
 ## İç bölgeyle ilişki
 
@@ -132,17 +131,15 @@ Kuşağın okyanusa sattığı malların bir bölümü iç bölgeden geliyordu.[
 Bu, kıyı şehirlerini yalnızca deniz ticaretinin değil, kıta içi ticaret
 ağlarının da ucu yapar.
 
-İç bölgedeki siyasi düzenlerle ilişki, atlasın
-[Büyük Zimbabve](/aktor/buyuk-zimbabve/) dosyasıyla kesişir.[^k4] İki dosya
+İç bölgedeki siyasi düzenlerle ilişki, [Büyük Zimbabve](/aktor/buyuk-zimbabve/) incelemesiyle kesişir.[^k4] İki dosya
 birlikte okunduğunda, kıyının iç bölgesiz açıklanamayacağı görünür.
 
-Bu bağlantının ayrıntısı bilinmemektedir ve atlas bir güzergâh
+Bu bağlantının ayrıntısı bilinmemektedir ve korpus bir güzergâh
 çizmez.[^k1][^k4] İç bölge ile kıyı arasındaki aracıların kim olduğu, elde
 bulunan kaynaklarla karara bağlanamaz.
 
-## Atlastaki yeri ve sınırı
-
-Bu dosya, atlasın Doğu Afrika kapsamındaki ilk kavram dosyasıdır.[^k1]
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun Doğu Afrika kapsamındaki ilk kavram dosyasıdır.[^k1]
 Bölgenin aktör katmanında dosyalar bulunuyordu; bunları birbirine bağlayan
 bir yapı tanımı yoktu.
 
@@ -151,12 +148,12 @@ hanedanları ve birbirleriyle çatışmaları burada işlenmez;[^k2] her biri ay
 dosya gerektirir.
 
 Kuşağın Portekiz donanmalarıyla karşılaşması ve sonraki sömürge dönemi de
-kapsam dışıdır.[^k4] Bu dosya kuşağın kendi işleyişini anlatır; sonunu
+kapsam dışıdır.[^k4] Bu inceleme kuşağın kendi işleyişini anlatır; sonunu
 değil.
 
 ## Taş yapı bir kayıt biçimidir
 
-Kuşaktaki şehirlerin taş yapı geleneği, atlasın kanıt katmanı açısından ayrıca
+Kuşaktaki şehirlerin taş yapı geleneği, korpusun kanıt katmanı açısından ayrıca
 kaydedilmelidir.[^k1][^k4] Mercan taşından yapılmış cami, saray ve mezar
 yapıları, yazılı kaydın bulunmadığı yerde bir yerleşimin varlığını, süresini
 ve zenginlik derecesini gösterir.
@@ -165,12 +162,11 @@ Taş yapının anlattığı şey mimari değildir. Bir yerleşimin taşa geçmes
 sürekli bir işgücü, sürekli bir gelir ve gelecekte de orada bulunma beklentisi
 gerektirir;[^k2] geçici bir ticaret durağı taş yapı kurmaz.
 
-Bu, atlasın bölge dosyalarında tekrar eden bir ölçüttür. Bir düzenin ne kadar
+Bu, korpusun bölge dosyalarında tekrar eden bir ölçüttür. Bir düzenin ne kadar
 yerleşik olduğu, bıraktığı yapının cinsinden okunabilir ve bu okuma yazılı
 kayıttan bağımsız bir kanıt sağlar.[^k4]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Kuşağın en çok kaydedilen şehri için [Kilva](/aktor/kilva/), bağlı olduğu
 deniz ağı için [Hint Okyanusu ticareti](/kavram/hint-okyanusu-ticareti/)
 dosyaları okunmalıdır.

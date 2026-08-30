@@ -57,7 +57,7 @@ onarim_turu: 0
 Britanya İmparatorluğu, Britanya Tacı ve seleflerince yönetilen ya da idare
 edilen dominyonlar, sömürgeler, himayeler, mandalar ve diğer toprakları
 kapsıyordu; İngiltere'nin 16. yüzyılın sonlarında kurduğu denizaşırı mülkler ve
-ticaret karakollarıyla başladı.[^k1] Bu dosya, o **statü çokluğunu** ele alır.
+ticaret karakollarıyla başladı.[^k1] Bu inceleme, o **statü çokluğunu** ele alır.
 
 ## Beş ayrı hukuki kap
 
@@ -65,7 +65,7 @@ Tanımın kendisi bir liste olarak verilir: dominyon, sömürge, himaye, manda v
 "diğer topraklar".[^k1] Bunlar eş anlamlı değildir; her biri farklı bir egemenlik
 derecesi anlatır.
 
-Kaynağın tanımında beş ayrı statünün sayılması,[^k1] atlasın imparatorluk
+Kaynağın tanımında beş ayrı statünün sayılması,[^k1] korpusun imparatorluk
 gösterimi tartışmasının doğrudan malzemesidir: tek renkli bir harita bu kapları
 ayırt edemez. Gösterim sorunu
 [İmparatorluk sınırı haritada nasıl gösterilmeli?](/tartisma/imparatorluk-siniri-nasil-cizilir/)
@@ -105,8 +105,7 @@ Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1945'te yakl
 2,38 milyardır.[^k3] İmparatorluğun yönettiği nüfusa dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Genişleme evreleri, sömürge yönetiminin ülke ülke biçimleri, köle ticareti ve
 sömürgesizleşme süreci burada ayrı başlıklar altında ele alınmamıştır; kaynak
 bunları ayrı bölümler olarak işler.[^k1] Dönemin bütünü

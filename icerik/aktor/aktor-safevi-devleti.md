@@ -18,14 +18,15 @@ ilgili:
   - aktor-osmanli-imparatorlugu
   - aktor-babur-imparatorlugu
   - aktor-seybaniler
-  - aktor-memluk-devleti
   - kavram-barut-imparatorluklari
+  - olay-iran-devrimi-1979
+  - tartisma-osmanli-gerileme-tezi
+baglam:
+  - aktor-memluk-devleti
   - kavram-mesruiyet
   - kavram-tasavvuf
   - kavram-ticaret-diasporasi
   - kavram-timar
-  - olay-iran-devrimi-1979
-  - tartisma-osmanli-gerileme-tezi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

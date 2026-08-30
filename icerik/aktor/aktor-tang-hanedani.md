@@ -95,7 +95,7 @@ kalıcı oldu; ama sonraki yüzyıllara aktarılabilen model sınav sistemi olac
 
 Hanedanın hüküm sürdüğü dönemde dünya nüfusu 600 yılında yaklaşık 271,6 milyon,
 1000 yılında yaklaşık 323,5 milyondu.[^k3] Kaynak, bu toplamın bölgesel dağılımını
-vermez; Tang'ın kendi nüfusu bu dosyada ayrı olarak verilmemektedir ve bu bir
+vermez; Tang'ın kendi nüfusu bu incelemede ayrı olarak verilmemektedir ve bu bir
 kapsam sınırıdır.
 
 Dönemin bütününe dair çerçeve [650–1000](/donem/06/) dosyasında ele alınıyor.

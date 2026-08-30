@@ -57,11 +57,11 @@ onarim_turu: 0
 kısa bir metnin şerhinde kurdu.[^k1] Konum, şerh edilen metnin cümlelerinin
 arasından çıkar.
 
-Bu, atlasın kaydettiği bir tür sorununu doğurur.[^k2] Yazarın kendi sesi
+Bu bir tür sorununu doğurur.[^k2] Yazarın kendi sesi
 ile şerh ettiği metnin sesi, aynı sayfada iç içedir ve ayrıştırılmaları
 okurun işidir.
 
-Dosya bir öğreti özeti değildir.[^k3] Bu düşünürün atlasa hangi yöntem
+Dosya bir öğreti özeti değildir.[^k3] Bu düşünürün korpusa hangi yöntem
 sorusuyla girdiğini kaydeder.
 
 ## Şerh türünün kuralları
@@ -73,13 +73,13 @@ Bu kabul, konumu ifade etme biçimini de belirler.[^k2] Yeni bir iddia, yeni
 bir iddia olarak değil, eski metnin zaten söylediği şeyin açıklaması olarak
 sunulur.
 
-Sonuç, atlasın ölçmek istediği şeyi zorlaştırır.[^k1] Bir düşünürün neyi
+Sonuç, korpusun ölçmek istediği şeyi zorlaştırır.[^k1] Bir düşünürün neyi
 kendisinin eklediğini bulmak, türün kurallarını bilmeyi gerektirir.
 
-## Türün atlas için sorunu
+## Türün korpus için sorunu
 
-Atlasın kaynak katmanı, bir metnin kime ait olduğunu sorar.[^k2] Şerh
-türünde bu soru iki katmanlıdır: asıl metin kimin, şerh kimin.
+Şerh türünde bu soru iki
+katmanlıdır: asıl metin kimin, şerh kimin.[^k2]
 
 İkinci katman genellikle daha zayıf belgelenir.[^k1] Asıl metin geleneğin
 merkezindedir ve korunur; şerhler çoğalır, karışır ve birbirine karışmış
@@ -107,9 +107,8 @@ Düzey ayrımının işlevi bir çelişkiyi yönetmektir.[^k1] Metinlerin bir k�
 Şerh, iki metin grubunu da geçerli sayar ve farklı düzeylere yerleştirir.[^k2]
 Böylece kanon içinde bir eleme yapılmadan tutarlılık kurulur.
 
-Atlas bu hamleyi ayrıca kaydeder.[^k1] Kutsal sayılan bir metin bütününde
-çelişki bulunduğunda, çözüm genellikle metni elemek değil okuma düzeyi
-eklemek olur.
+Kutsal sayılan bir metin bütününde çelişki
+bulunduğunda, çözüm genellikle metni elemek değil okuma düzeyi eklemek olur.[^k1]
 
 ## Karşı çıktığı konumlar
 
@@ -120,9 +119,9 @@ korunmamıştır.
 Bu, metni beklenmedik bir kaynak hâline getirir.[^k1] Kaybolmuş görüşlerin
 bazıları, yalnızca onları çürütmek için yazılmış sayfalardan bilinir.
 
-Atlas bu kaynak türünü ayrıca işaretler.[^k2] Bir görüşü yalnızca
+Bir görüşü yalnızca
 düşmanının aktarımından bilmek, o görüşün en zayıf hâlini bilmek anlamına
-gelebilir.
+gelebilir.[^k2]
 
 ## Budist konumla ilişkisi
 
@@ -133,8 +132,8 @@ kendi geleneği içinden yapılmıştır.
 Suçlama, iki konum arasındaki biçimsel benzerliğe dayanır.[^k1] İkisi de
 görünen çokluğun nihai düzeyde geçerli olmadığını ileri sürer.
 
-Atlas benzerliği kaydeder, özdeşlik kurmaz.[^k2] İki konumun aynı sonuca
-farklı gerekçelerle varması, birinin ötekinden alındığını göstermez.
+İki konumun aynı sonuca farklı
+gerekçelerle varması, birinin ötekinden alındığını göstermez.[^k2]
 
 ## Tarihlendirme sorunu
 
@@ -142,7 +141,7 @@ Düşünürün yaşadığı yıllar kesin değildir.[^k1] Gelenek bir tarih aral
 verir, akademik yazın genellikle bundan yaklaşık bir yüzyıl öncesini kabul
 eder.
 
-Künyede kullanılan aralık ikincisidir.[^k1] Seçim, atlasın kaynak
+Künyede kullanılan aralık ikincisidir.[^k1] Seçim, korpusun kaynak
 sıralamasına uygundur; geleneksel tarih dışlanmaz, ikinci sırada anılır.
 
 Bu tür belirsizlik güney Asya'nın erken düşünce tarihinde olağandır.[^k3]
@@ -158,19 +157,18 @@ Nedeni bir sahtecilik girişimi olmak zorunda değildir.[^k1] Aynı adı taşıy
 sonraki kişiler, aynı geleneğin öğretmenleri ve bir metnin ağırlığını
 artırmak isteyen kopyacılar aynı sonucu üretebilir.
 
-Atlas bu ayrımı korumak zorundadır.[^k2] Bir metnin bir kişiye
-atfedilmesiyle o kişi tarafından yazılmış olması ayrı iki iddiadır ve
-ayrı ayrı gerekçelendirilir.
+Bir metnin bir kişiye atfedilmesiyle o kişi
+tarafından yazılmış olması ayrı iki iddiadır ve ayrı ayrı gerekçelendirilir.[^k2]
 
-## Atıf sorununun atlas için anlamı
+## Atıf sorununun korpus için anlamı
 
-Atlasın künye şeması bir metnin yazarını alan olarak kaydeder.[^k2] Bu alan,
-tartışmalı atıflarda bir kesinlik izlenimi üretir.
+Bu alan, tartışmalı atıflarda bir kesinlik
+izlenimi üretir.[^k2]
 
 Sorunun çözümü alanı boş bırakmak değildir.[^k1] Kataloğun verdiği atıf
 künyeye yazılır, atfın tartışmalı olduğu ise metinde belirtilir.
 
-Bu dosya bu kuralın uygulandığı bir örnektir.[^k2] Künyedeki kaynak,
+Bu inceleme bu kuralın uygulandığı bir örnektir.[^k2] Künyedeki kaynak,
 kataloğunda yaratıcı olarak bu düşünürü gösterir; dosya bunun bir katalog
 kaydı olduğunu ayrıca yazar.
 
@@ -183,15 +181,15 @@ hâline gelir.
 Anlatının doğrulanması zordur.[^k1] Merkezlerin varlığı belgelenebilir ama
 kuruluşlarının bu kişiye bağlanması geç kaynaklara dayanır.
 
-Atlas anlatıyı bir olgu olarak değil bir iddia olarak kaydeder.[^k3] Bir
-kurumun kendi kuruluş hikâyesi, o kurum hakkında bir veridir.
+Bir kurumun kendi kuruluş hikâyesi, o
+kurum hakkında bir veridir.[^k3]
 
 ## Anlatının işlevi
 
 Kuruluş anlatısının işlevi geriye dönük meşruiyet kurmaktır.[^k3] Sonraki
 öğretmenler, yetkilerini bu zincire bağlayarak sunar.
 
-Aynı işlev atlasın başka dosyalarında da görülür.[^k1] Soy zinciri kurmak,
+Aynı işlev korpusun başka dosyalarında da görülür.[^k1] Soy zinciri kurmak,
 yazılı kaydı olmayan bir yetkiyi belgelendirmenin en yaygın yoludur.
 
 Bu, anlatıyı yanlış yapmaz.[^k2] Bir anlatının işlevi olması, uydurulduğu
@@ -206,19 +204,19 @@ geleneğinin özeti olarak dışarıya tanıtıldı.
 Sunum bir seçim içeriyordu.[^k1] Aynı geleneğin içindeki rakip okullar,
 bu tanıtımda çok daha az yer aldı.
 
-Atlas seçimin kendisini kaydeder.[^k2] Bir geleneği temsil eden konumun
-hangi ölçütle seçildiği, o gelenek hakkında olduğu kadar seçimi yapan
-dönem hakkında da bilgi verir.
+Bir geleneği temsil eden konumun hangi ölçütle
+seçildiği, o gelenek hakkında olduğu kadar seçimi yapan dönem hakkında da bilgi
+verir.[^k2]
 
 ## Yeniden sunumun riski
 
 Risk, sonraki sunumun özgün metne geri okunmasıdır.[^k1] Modern bir
 çerçeveyle özetlenen konum, şerhin kendi terimlerinden uzaklaşabilir.
 
-Bu, atlasın her düşünür dosyasında karşılaştığı bir sorundur.[^k2] Çözüm,
+Bu, korpusun her düşünür dosyasında karşılaştığı bir sorundur.[^k2] Çözüm,
 iki katmanı ayrı yazmak ve hangisinin okunduğunu belirtmektir.
 
-Bu dosyada özgün metnin çevirisi künyelenmiştir.[^k2] Okurun konumu ikinci
+Bu incelemede özgün metnin çevirisi künyelenmiştir.[^k2] Okurun konumu ikinci
 elden değil metnin kendisinden sınayabilmesi için gereklidir.
 
 ## Kaynak durumu
@@ -227,7 +225,7 @@ Künyelenen çeviri, şerhin tamamını değil bir bölümünü kapsar ve on
 dokuzuncu yüzyıl sonunda yapılmıştır.[^k2] Çeviri dili ve terim seçimleri
 o dönemin çerçevesini taşır.
 
-Özgün dildeki metnin doğrulanabilir çevrimiçi tam metin baskısı bu dosya
+Özgün dildeki metnin doğrulanabilir çevrimiçi tam metin baskısı bu inceleme
 yazıldığında bulunamamıştır.[^k1] Kısıt burada beyan edilir.
 
 Atıf yapılırken hangi bölümün ve hangi çevirinin kullanıldığı
@@ -235,7 +233,7 @@ belirtilmelidir.[^k2] Şerh uzun bir metindir ve bölümleri ayrı basılmışt�
 
 Künyedeki çeviri, şerh edilen kısa metni ve şerhi birlikte
 verir.[^k2] İki katmanın aynı sayfada bulunması, okurun yazarın kendi
-eklediği kısmı ayırt edebilmesi için gereklidir ve bu dosyanın temel
+eklediği kısmı ayırt edebilmesi için gereklidir ve bu incelemenin temel
 sorusunu doğrudan sınanabilir kılar.
 
 ## Metnin içindeki tartışma düzeni
@@ -257,8 +255,8 @@ Yazılı metnin bu düzeni, arkasında sözlü bir tartışma pratiği
 bulunduğunu gösterir.[^k1] Karşı tarafın konumunu doğru kurma
 zorunluluğu, yüz yüze tartışmanın kuralıdır.
 
-Atlas bu tür izleri ayrıca kaydeder.[^k3] Yazılı bir metnin biçimi,
-yazılmamış bir kurum hakkında dolaylı kanıt sağlayabilir.
+Yazılı bir metnin biçimi, yazılmamış bir
+kurum hakkında dolaylı kanıt sağlayabilir.[^k3]
 
 Kanıt dolaylıdır ve öyle işaretlenir.[^k2] Metnin biçiminden bir pratiğin
 varlığı çıkarılabilir; ayrıntısı çıkarılamaz.
@@ -269,26 +267,24 @@ Düşünürün hayatına ilişkin geleneksel anlatılar burada ayrıntılandır�
 Anlatıların kaynak değeri ayrı bir çalışma gerektirir.
 
 Konumun teknik terimleri ve tartışma yapısı da kapsam dışıdır.[^k1] Dosya
-konumun ne olduğunu değil, atlasın onu hangi kısıtlarla kaydettiğini
+konumun ne olduğunu değil, korpusun onu hangi kısıtlarla kaydettiğini
 yazar.
 
 Aynı gelenek içindeki rakip okullar burada işlenmez.[^k1] Ayrı dosyalar
-gerektirirler ve bu dosya yazıldığında atlasta bulunmuyorlardı.
+gerektirirler ve bu inceleme yazıldığında korpusta bulunmuyorlardı.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya konumu savunmaz ve çürütmez.[^k2] Konumu, konuma yöneltilen itirazı
 ve ikisinin de dayandığı metin sorununu kaydeder.
 
 Düşünürün bölge felsefesindeki yerine dair bir sıralama yapılmaz.[^k1]
-Atlas düşünürleri etkilerine göre derecelendirmez.
+Korpus düşünürleri etkilerine göre derecelendirmez.
 
-Atıf sorunu bu dosyada çözülmez.[^k1] Hangi metnin kime ait olduğu, her
+Atıf sorunu bu incelemede çözülmez.[^k1] Hangi metnin kime ait olduğu, her
 metin için ayrı bir çalışma gerektirir ve burada yalnızca sorunun varlığı
 kaydedilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı bölgeden ve daha erken bir dönemden, çokluk ve gerçeklik sorusuna
 başka bir cevap veren konum için [Nagarjuna](/dusunur/nagarjuna/) dosyası
 okunmalıdır.[^k1]

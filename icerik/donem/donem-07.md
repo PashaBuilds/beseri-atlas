@@ -227,8 +227,8 @@ bir salgını taşıdığı yıllardır.
 İki sınır da bir bağlantı ölçütüne dayanır.[^k2] Başka ölçütler
 seçilseydi sınırlar farklı olurdu.
 
-Atlas bu tercihi ayrıca beyan eder.[^k3] Bir dönemlendirme, seçilen
-ölçütün kendisidir.
+Bir dönemlendirme, seçilen ölçütün
+kendisidir.[^k3]
 
 ## Bozkır biçiminin işleyişi
 
@@ -240,8 +240,8 @@ Bu düzen toprak yönetmekte değil, geçit ve yol denetlemekte
 üstündür.[^k1] Yerleşik düzenlerle kurduğu ilişki bu yüzden vergi ve
 ticaret üzerinden yürür.
 
-Atlas bu farkı ayrıca kaydeder.[^k5] Bir düzenin gücü, tuttuğu
-topraktan çok denetlediği hareketten okunabilir.
+Bir düzenin gücü, tuttuğu topraktan çok denetlediği
+hareketten okunabilir.[^k5]
 
 ## Tek ağın kurulması
 
@@ -252,9 +252,8 @@ düşürdü.
 Yol güvenliği merkezî olarak sağlanıyordu.[^k1] Menzil düzeni,
 haberleşmeyi hızlandırdı.
 
-Atlas bu altyapıyı ayrıca kaydeder.[^k5] Bir ticaret ağının varlığı,
-tüccarların sayısından çok yolun güvenliğine
-bağlıdır.
+Bir ticaret ağının varlığı, tüccarların
+sayısından çok yolun güvenliğine bağlıdır.[^k5]
 
 ## Aynı ağın iki yükü
 
@@ -264,8 +263,8 @@ sonundaki salgın, aynı yolları izledi.
 İki taşıma ayrı sistemler değildir.[^k2] Bağlantının artması, taşınan
 her şeyin hızını artırır.
 
-Atlas bu bağı dosyanın ekseni sayar.[^k1] Bu ölçüm, atlasın bir
-sonraki dönem dosyasında da tekrarlanır.
+Bu ölçüm, korpusun bir sonraki dönem
+dosyasında da tekrarlanır.[^k1]
 
 ## Fetihlerin bilançosu
 
@@ -275,9 +274,8 @@ kayıp oranlarını yüksek verir.
 Sayılar tartışmalıdır.[^k3] Dönemin anlatı geleneğinde büyük sayılar
 çokluğu belirtir, sayımı değil.
 
-Atlas bu yüzden tek bir sayı vermez.[^k5] Bir kaydın abartılı olması,
-olayın yaşanmadığını göstermez; ölçüsünün
-bilinmediğini gösterir.
+Bir kaydın abartılı olması, olayın
+yaşanmadığını göstermez; ölçüsünün bilinmediğini gösterir.[^k5]
 
 ## Yıkım ile bağlantının bir arada okunması
 
@@ -287,9 +285,8 @@ aynı anda kaydedilmelidir.
 Anlatıların bir bölümü yalnızca birini öne çıkarır.[^k1] Seçim,
 anlatanın konumuna göre değişir.
 
-Atlas ikisini birlikte tutar.[^k5] Bir düzenin bilançosu, yalnızca
-kazandırdıklarıyla da yalnızca yıktıklarıyla da
-çıkarılamaz.
+Bir düzenin bilançosu, yalnızca
+kazandırdıklarıyla da yalnızca yıktıklarıyla da çıkarılamaz.[^k5]
 
 ## Yerleşiklerle kurulan düzen
 
@@ -300,9 +297,8 @@ bırakıldı.
 Bu, hızlı genişlemeyi mümkün kıldı.[^k2] Her bölge için yeni bir düzen
 kurmak gerekmiyordu.
 
-Atlas bu yöntemi ayrıca kaydeder.[^k6] Mevcut bir düzeni kaydedip
-merkeze bağlamak, onu yıkıp yeniden kurmaktan hızlı ve
-ucuzdur.
+Mevcut bir düzeni kaydedip merkeze
+bağlamak, onu yıkıp yeniden kurmaktan hızlı ve ucuzdur.[^k6]
 
 ## Din siyaseti
 
@@ -313,9 +309,8 @@ Uygulamanın gerekçesi pratikti.[^k1] Geniş ve çok inançlı bir alanı
 yönetmek, tek bir inancı dayatmakla
 uyuşmuyordu.
 
-Atlas bu gerekçeyi ayrıca kaydeder.[^k5] Bir hoşgörü uygulaması,
-ahlaki bir tercih olduğu kadar bir yönetim maliyeti hesabı
-olabilir.
+Bir hoşgörü uygulaması, ahlaki bir tercih olduğu
+kadar bir yönetim maliyeti hesabı olabilir.[^k5]
 
 ## Song ekonomisi
 
@@ -326,9 +321,8 @@ yaygınlaştı.
 Bu düzen, dönemin en gelişmiş iktisadi yapısıdır.[^k2] Nüfus ve
 kentleşme oranları başka bölgelerin üzerindeydi.
 
-Atlas bu dengeyi ayrıca kaydeder.[^k1] Dönemin ağırlık merkezi doğuda
-bulunuyordu ve bu, sonraki yüzyıllarda
-değişmiştir.
+Dönemin ağırlık merkezi doğuda bulunuyordu
+ve bu, sonraki yüzyıllarda değişmiştir.[^k1]
 
 ## Teknolojinin taşınması
 
@@ -339,8 +333,8 @@ Taşınma tarihleri kesin değildir.[^k5] Bir tekniğin bir bölgede
 görülmesi, oraya nereden geldiğini
 göstermez.
 
-Atlas bu belirsizliği korur.[^k1] Bağımsız icat ile aktarım, aynı
-kayıtla ayırt edilemez.
+Bağımsız icat ile aktarım, aynı
+kayıtla ayırt edilemez.[^k1]
 
 ## Haçlı seferleri
 
@@ -350,8 +344,8 @@ düzenlendi.[^k1] Seferler iki yüzyıla yayıldı.
 Seferlerin gerekçesi dinîydi.[^k2] Sonuçları arasında ticaret
 bağlantılarının kurulması da vardır.
 
-Atlas iki yönü de kaydeder.[^k6] Bir hareketin ilan edilen amacı ile
-ürettiği sonuçlar birbirine indirgenemez.
+Bir hareketin ilan edilen amacı ile
+ürettiği sonuçlar birbirine indirgenemez.[^k6]
 
 ## Deniz cumhuriyetleri
 
@@ -363,9 +357,8 @@ Aracılık, dönemin sonunda kalıcı bir yapı hâline geldi.[^k2] Doğu
 mallarının batıya girişi bu kentler üzerinden
 yürüdü.
 
-Atlas bu yapıyı ayrıca kaydeder.[^k5] Bir askerî hareketin en kalıcı
-sonucu, kurduğu ticaret bağlantısı
-olabilir.
+Bir askerî hareketin en kalıcı sonucu, kurduğu
+ticaret bağlantısı olabilir.[^k5]
 
 ## Hint Okyanusu düzeni
 
@@ -376,9 +369,8 @@ yapılıyordu.
 Bu düzende hiçbir taraf denizde tekel kurmuyordu.[^k6] Limanlar açık,
 ticaret rekabetliydi.
 
-Atlas bu farkı ayrıca kaydeder.[^k1] Aynı yüzyıllarda iki farklı deniz
-düzeni işlemiştir ve ikisi aynı mantığa
-dayanmaz.
+Aynı yüzyıllarda iki farklı deniz düzeni işlemiştir
+ve ikisi aynı mantığa dayanmaz.[^k1]
 
 ## Tanıklığın kaydı
 
@@ -389,9 +381,8 @@ Metin, ağın işlediğinin doğrudan kanıtıdır.[^k6] Tek bir kişinin bu
 mesafeyi kat edebilmesi, yolun güvenli ve düzenli olduğunu
 gösterir.
 
-Atlas bu kanıtı ayrıca kaydeder.[^k1] Bir ağın varlığı, taşınan mal
-kadar tek bir yolcunun güzergâhından da
-okunabilir.
+Bir ağın varlığı, taşınan mal
+kadar tek bir yolcunun güzergâhından da okunabilir.[^k1]
 
 ## Nüfusun seyri
 
@@ -401,9 +392,8 @@ düştü.[^k3] Düşüş, salgının doğrudan sonucudur.
 Artışın büyük bölümü doğuda gerçekleşti.[^k2] Tarımsal verimdeki
 artış bunu taşıdı.
 
-Atlas bu dağılımı ayrıca kaydeder.[^k1] Bir küresel eğrinin şekli,
-çoğu zaman tek bir bölgenin hareketinden
-gelir.
+Bir küresel eğrinin şekli, çoğu zaman tek
+bir bölgenin hareketinden gelir.[^k1]
 
 ## Okyanusya'daki eşzamanlı yerleşim
 
@@ -414,9 +404,8 @@ gerektiriyordu.
 Bu, Avrasya ağından bağımsız bir başarıdır.[^k4] İki hareket birbirini
 bilmiyordu.
 
-Atlas bu eş zamanlılığı ayrıca kaydeder.[^k1] Bir dönemin bütün
-bölgeleri aynı ağın parçası olmak zorunda
-değildir.
+Bir dönemin bütün bölgeleri aynı
+ağın parçası olmak zorunda değildir.[^k1]
 
 ## Aletsiz seyir
 
@@ -426,9 +415,8 @@ kullanılıyordu.
 
 Yöntem sözlü olarak aktarılıyordu.[^k5] Yazılı kaydı yoktu.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k6] Bir bilginin yazılı kaydının
-bulunmaması, o bilginin sistematik olmadığını
-göstermez.
+Bir bilginin yazılı kaydının bulunmaması, o bilginin
+sistematik olmadığını göstermez.[^k6]
 
 ## Kaydın durumu
 
@@ -440,12 +428,10 @@ Ağı kuran düzenin kendi yazılı kaydı sınırlıdır.[^k2] Onun hakkındaki
 bilginin büyük bölümü, yönettiği yerleşik bölgelerin kayıtlarından
 gelir.
 
-Atlas bu durumu ayrıca kaydeder.[^k5] Bir düzen hakkındaki kaydın
-büyük bölümünün tabi olanlardan gelmesi, o kaydın çerçevesini de
-belirler.
+Bir düzen hakkındaki kaydın büyük bölümünün tabi
+olanlardan gelmesi, o kaydın çerçevesini de belirler.[^k5]
 
-## Dönemi atlasta okumak
-
+## Dönemin bağlantıları
 Bu döneme bağlanan dosyalar dört öbekte toplanır.[^k1] Bozkır ve
 yerleşik düzenlerin aktör dosyaları, seferlerin olay dosyaları,
 bağlantı ve ticaret kavram dosyaları, dönemin veri
@@ -455,8 +441,7 @@ Dördü birlikte okunmalıdır.[^k2] Bir ordunun hareketi, bir kentin
 düşmesi, bir tekniğin taşınması ve bir nüfus eğrisinin kırılması aynı
 dönemi dört ayrı düzeyde kaydeder.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
 dosyasında ayrıntılı ele alınır; burada yalnızca döneme bağlanır ve
 dönemin eksenine katkısıyla anılır.
@@ -466,8 +451,8 @@ tarihlerinden çok ortak mekanizmanın onlardaki görünümünü verir ve
 her bölge kendi dosyalarında ayrıca ele alınır.
 
 Sayısal seriler burada yorumlanır, üretilmez.[^k3] Serilerin
-kaynakları, yöntemleri ve başlangıç tarihleri atlasın veri
-dosyalarında ayrı ayrı kayıtlıdır ve bu dosya onların yerine
+kaynakları, yöntemleri ve başlangıç tarihleri korpusun veri
+dosyalarında ayrı ayrı kayıtlıdır ve bu inceleme onların yerine
 geçmez.[^k5]
 
 
@@ -480,9 +465,8 @@ gücünü kendi kabile tabanından aldı.
 Bu ikili yapı bir gerilim üretti.[^k6] Yerleşik bürokrasi ile bozkır
 askerî tabanı farklı beklentiler taşıyordu.
 
-Atlas bu gerilimi ayrıca kaydeder.[^k2] Bir düzenin iki farklı kaynağa
-dayanması, ikisi arasındaki dengeyi sürekli bir yönetim sorunu hâline
-getirir.
+Bir düzenin iki farklı kaynağa dayanması,
+ikisi arasındaki dengeyi sürekli bir yönetim sorunu hâline getirir.[^k2]
 
 ## Toprak karşılığı hizmet
 
@@ -494,9 +478,8 @@ Düzen, merkezî hazineye yük bindirmeden ordu beslemeyi
 sağlıyordu.[^k6] Karşılığında merkezin taşra üzerindeki doğrudan
 denetimi azalıyordu.
 
-Atlas bu değiş tokuşu ayrıca kaydeder.[^k5] Bir maliyeti taşraya
-devretmek, o taşra üzerindeki yetkiyi de kısmen
-devretmektir.
+Bir maliyeti taşraya devretmek, o taşra
+üzerindeki yetkiyi de kısmen devretmektir.[^k5]
 
 ## Medrese düzeni
 
@@ -506,9 +489,8 @@ vakıf gelirleriyle finanse ediliyordu.
 Vakıf, geliri belirli bir amaca kalıcı olarak bağlar.[^k6] Bu, kurumun
 hükümdarın ömründen uzun yaşamasını sağlar.
 
-Atlas bu mekanizmayı ayrıca kaydeder.[^k2] Bir kurumun sürekliliği,
-gelirinin siyasi karardan bağımsız hâle getirilmesine
-bağlıdır.
+Bir kurumun sürekliliği, gelirinin
+siyasi karardan bağımsız hâle getirilmesine bağlıdır.[^k2]
 
 ## Yazılı geleneğin taşınması
 
@@ -519,9 +501,8 @@ sağladı.
 Aktarım tek yönlü değildi.[^k6] Farklı geleneklerden gelen metinler
 çeviriyle bu ağa katıldı.
 
-Atlas bu bileşimi ayrıca kaydeder.[^k5] Bir öğretim ağının kapsamı,
-kaç metni değil kaç ayrı gelenekten metin taşıdığıyla
-ölçülebilir.
+Bir öğretim ağının kapsamı, kaç
+metni değil kaç ayrı gelenekten metin taşıdığıyla ölçülebilir.[^k5]
 
 ## Kâğıdın yayılması
 
@@ -532,9 +513,8 @@ etkiledi.
 Kâğıt, deriden ve papirüsten ucuzdu.[^k1] Ucuz yazı yüzeyi, daha çok
 kaydın tutulmasını mümkün kıldı.
 
-Atlas bu bağı ayrıca kaydeder.[^k5] Bir dönemin bıraktığı kayıt
-miktarı, o dönemin yazı malzemesinin maliyetiyle doğrudan
-ilişkilidir.
+Bir dönemin bıraktığı kayıt miktarı, o
+dönemin yazı malzemesinin maliyetiyle doğrudan ilişkilidir.[^k5]
 
 ## Kâğıt para
 
@@ -544,9 +524,8 @@ merkezî bir güvence gerektiriyordu.
 Ağın kurulmasından sonra aynı uygulama batıya doğru
 denendi.[^k5] Denemeler kısa ömürlü oldu.
 
-Atlas bu farkı ayrıca kaydeder.[^k1] Bir aracın taşınabilir olması,
-onu mümkün kılan kurumsal güvencenin de taşınabilir olduğunu
-göstermez.
+Bir aracın taşınabilir olması, onu mümkün kılan
+kurumsal güvencenin de taşınabilir olduğunu göstermez.[^k1]
 
 ## Kentleşme oranı
 
@@ -556,9 +535,8 @@ batı Asya'da büyük kentler bulunuyordu.
 Kent nüfusu, çevresinin tarımsal fazlasıyla besleniyordu.[^k2] Kentin
 büyüklüğü, ulaşımın menziliyle sınırlıydı.
 
-Atlas bu sınırı ayrıca kaydeder.[^k5] Su yoluna bağlı olmayan bir
-kentin büyüklüğü, kara taşımacılığının menziliyle
-kısıtlanır.
+Su yoluna bağlı olmayan bir kentin
+büyüklüğü, kara taşımacılığının menziliyle kısıtlanır.[^k5]
 
 ## Su yolu ve kent
 
@@ -570,9 +548,8 @@ Aynı bağ başka kıtalarda da görülür.[^k1] Kent büyüklüğü ile su yolu
 erişimi arasındaki ilişki, dönemin en tutarlı
 örüntülerindendir.
 
-Atlas bu örüntüyü ayrıca kaydeder.[^k5] Coğrafi bir kısıt, siyasi
-kararlardan bağımsız olarak yerleşim düzenini
-belirler.
+Coğrafi bir kısıt, siyasi kararlardan bağımsız
+olarak yerleşim düzenini belirler.[^k5]
 
 ## Salgının gelişi
 
@@ -583,9 +560,8 @@ Salgının etkisi bir sonraki dönem dosyasının konusudur.[^k2] Burada
 kaydedilen, taşıyıcının bu dönemde kurulmuş
 olmasıdır.
 
-Atlas bu bağı ayrıca kaydeder.[^k1] Bir dönemin en yıkıcı sonucu,
-kendinden önceki dönemde kurulan bir altyapının ürünü
-olabilir.
+Bir dönemin en yıkıcı sonucu, kendinden
+önceki dönemde kurulan bir altyapının ürünü olabilir.[^k1]
 
 ## Ağın çözülmesi
 
@@ -595,9 +571,8 @@ ayrı hanedanlığa bölünmüştü.
 Bölünme ticareti hemen durdurmadı.[^k5] Yollar bir süre daha
 işledi.
 
-Atlas bu gecikmeyi ayrıca kaydeder.[^k1] Bir siyasi çatının
-dağılması, onun sağladığı altyapının aynı anda çökmesi anlamına
-gelmez.
+Bir siyasi çatının dağılması, onun
+sağladığı altyapının aynı anda çökmesi anlamına gelmez.[^k1]
 
 ## Bilginin aktarımı
 
@@ -609,9 +584,8 @@ Aktarımın izi, terimlerde sürülebilir.[^k1] Bir dilden diğerine geçen
 teknik terimler, aktarım yönünü
 gösterir.
 
-Atlas bu kanıt türünü ayrıca kaydeder.[^k5] Bir terimin kökeni,
-metinlerin dolaşım yönüne dair dolaylı ama izlenebilir bir
-kayıttır.
+Bir terimin kökeni,
+metinlerin dolaşım yönüne dair dolaylı ama izlenebilir bir kayıttır.[^k5]
 
 ## Dönemin bıraktığı soru
 
@@ -623,9 +597,8 @@ miydi.
 hızlandırdı; aynı ağ, salgını da taşıyarak bölgeleri farklı
 biçimde vurdu.
 
-Atlas soruyu ayrı bir tartışma dosyasına devreder.[^k3] Aynı olayın hem
-hızlandırıcı hem sarsıcı sayılması, iki etkinin ayrıştırılmasını
-gerektirir.
+Aynı olayın hem hızlandırıcı hem sarsıcı sayılması,
+iki etkinin ayrıştırılmasını gerektirir.[^k3]
 
 
 ## Sikke ve ölçü
@@ -637,9 +610,8 @@ yapabildi.
 Ortaklık tam değildi.[^k1] Yerel sikkeler dolaşımda kaldı ve kambiyo
 işi ayrı bir meslek olarak sürdü.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k5] Ortak bir ölçü biriminin
-yaygınlaşması, ticaretin menzilinden çok işlem maliyetini
-düşürür.
+Ortak bir ölçü biriminin yaygınlaşması,
+ticaretin menzilinden çok işlem maliyetini düşürür.[^k5]
 
 ## Ortaklık ve kredi
 
@@ -651,8 +623,8 @@ Bu biçim, farklı hukuk geleneklerinde benzer düzenlemelerle
 bulunur.[^k1] Benzerlik, aktarımla da bağımsız gelişmeyle de
 açıklanabilir.
 
-Atlas bu belirsizliği korur.[^k5] Aynı sorunun benzer çözümlerle
-karşılanması, çözümün taşındığını kanıtlamaz.
+Aynı sorunun benzer çözümlerle
+karşılanması, çözümün taşındığını kanıtlamaz.[^k5]
 
 ## Kervansaray düzeni
 
@@ -663,9 +635,8 @@ sağlıyordu.
 Bu, yolculuğun maliyetini doğrudan düşürüyordu.[^k6] Ticaretin
 menzili, konaklama ağının menzilini izler.
 
-Atlas bu bağı ayrıca kaydeder.[^k5] Bir ticaret ağının sınırı, çoğu
-zaman yolun değil yol üzerindeki hizmet altyapısının
-sınırıdır.
+Bir ticaret ağının sınırı, çoğu zaman
+yolun değil yol üzerindeki hizmet altyapısının sınırıdır.[^k5]
 
 ## Haber menzili
 
@@ -677,9 +648,8 @@ Bu, merkezin uzak bölgeleri denetlemesini
 sağlıyordu.[^k1] Denetim kapasitesi, haber hızıyla doğrudan
 orantılıdır.
 
-Atlas bu ölçütü ayrıca kaydeder.[^k5] Bir imparatorluğun fiilî
-büyüklüğü, sınırlarından çok merkezle çevre arasındaki haber
-süresiyle ölçülebilir.
+Bir imparatorluğun fiilî büyüklüğü,
+sınırlarından çok merkezle çevre arasındaki haber süresiyle ölçülebilir.[^k5]
 
 
 ## Moğol sonrası hanedanlıklar
@@ -691,9 +661,8 @@ benimsedi.
 Bu benimseme şaşırtıcı ölçüde hızlıydı.[^k1] Bir kuşak içinde yönetim
 dili, hukuk düzeni ve inanç tercihi büyük ölçüde değişti.
 
-Atlas bu hızı ayrıca kaydeder.[^k6] Fetheden tarafın fethedilen
-bölgenin düzenini benimsemesi, bozkır kökenli düzenlerde tekrar eden
-bir örüntüdür.
+Fetheden tarafın fethedilen bölgenin
+düzenini benimsemesi, bozkır kökenli düzenlerde tekrar eden bir örüntüdür.[^k6]
 
 ## Kaydın hangi tarafta tutulduğu
 
@@ -705,9 +674,8 @@ Sonuç, o düzen hakkındaki bilginin büyük bölümünün tabi olanlardan
 gelmesidir.[^k1] Anlatı çerçevesi de buradan
 gelir.
 
-Atlas bu durumu ayrıca kaydeder.[^k2] Bir düzen hakkındaki kaydın
-tabi olanlarca tutulması, o düzenin anlatısını da onların
-konumundan kurar.
+Bir düzen hakkındaki kaydın tabi olanlarca
+tutulması, o düzenin anlatısını da onların konumundan kurar.[^k2]
 
 
 ## Dönemin adlandırılması
@@ -715,9 +683,8 @@ konumundan kurar.
 Dönem için kullanılan adlar bölgeye göre değişir.[^k1] Bir bölgede
 hanedan adıyla, başka bölgede sefer adıyla anılır.
 
-Atlas dört ayrı adı bir arada kullanır.[^k2] Tek bir bölgenin adını
-seçmek, dönemin ekseninin o bölgede kurulduğu izlenimi
-verir.
+Tek bir bölgenin adını seçmek, dönemin
+ekseninin o bölgede kurulduğu izlenimi verir.[^k2]
 
 Oysa eksen bağlantının kendisidir.[^k5] Bağlantı hiçbir bölgeye ait
 değildir; hepsini birbirine bağlayan şeydir.[^k3]
@@ -743,6 +710,5 @@ Bu dönemin şeridine Okyanusya satırı, Aotearoa'ya yerleşimin bu yüzyıllar
 gerçekleşmesi nedeniyle eklendi.[^k4] Avustronezya yayılmasının en geç
 ulaştığı büyük kara parçası, beş yüzyıl içinde kendi siyasi düzenini kurdu.
 
-Atlasın Okyanusya kapsamı bu dönemde de eksiktir ve satır bir başlangıçtır,
-bir temsil değil.[^k4] Bölgenin öteki ada gruplarının bu yüzyıllardaki
-durumu atlasta henüz kayıtlı değildir.
+Bölgenin öteki ada gruplarının bu
+yüzyıllardaki durumu korpusta henüz kayıtlı değildir.[^k4]

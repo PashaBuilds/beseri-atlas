@@ -66,7 +66,7 @@ Kaynak, yazarın eski iktisatlara yaklaşımının Kolomb öncesi Amerika ve esk
 Mezopotamya gibi çeşitli örneklere uygulandığını, ancak eski toplumların
 incelenmesinde genel yararının sorgulandığını yazar.[^k1]
 
-::tartismali[Aynı paragraf hem eserin bir model sayıldığını hem yaklaşımın genel yararının sorgulandığını taşıyor. Atlas ikisini de kaydeder ve hangisinin ağır bastığını söylemez.]{harita=tartisma-bati-neden-yukseldi}
+::tartismali[Aynı paragraf hem eserin bir model sayıldığını hem yaklaşımın genel yararının sorgulandığını taşıyor. Korpus ikisini de kaydeder ve hangisinin ağır bastığını söylemez.]{harita=tartisma-bati-neden-yukseldi}
 
 Bu tür yan yana kayıtların nasıl okunacağı
 [Batı neden yükseldi?](/tartisma/bati-neden-yukseldi/) haritasında ele
@@ -79,7 +79,7 @@ metalar, iktisatçı yanılgısı ve biçimci-özcü tartışmasını sayar; çi
 kavramını piyasalaşma ile ona karşı toplumsal korunma talebinin diyalektik
 süreci olarak tanımlar.[^k1]
 
-Bir eserin katkısının kavram listesiyle kaydedilmesi,[^k1] atlasın kavram
+Bir eserin katkısının kavram listesiyle kaydedilmesi,[^k1] korpusun kavram
 katmanının neden ayrı bir tip olarak kurulduğunun dayanağıdır; ilgili düzen
 [Kapitalizm](/kavram/kapitalizm/) dosyasında ele alınıyor.
 
@@ -88,7 +88,7 @@ katmanının neden ayrı bir tip olarak kurulduğunun dayanağıdır; ilgili dü
 Kaynak, yazarın modern Avrupa'daki piyasa temelli toplumların kaçınılmaz değil
 tarihsel olarak olumsal olduğunu savunduğunu yazar.[^k1]
 
-Bir kuramın kendi konusunun kaçınılmaz olmadığını öne sürmesi,[^k1] atlasın
+Bir kuramın kendi konusunun kaçınılmaz olmadığını öne sürmesi,[^k1] korpusun
 kaçınılmazlık cümlelerine neden temkinle yaklaştığıyla aynı soruna değinir;
 ilgili kavram [İlkel birikim](/kavram/ilkel-birikim/) dosyasında ele alınıyor.
 
@@ -104,8 +104,7 @@ kapitalistleri tekelciler olarak gördüğünü yazar.[^k3] O yazar
 [Fernand Braudel](/dusunur/braudel/) dosyasında, eserin yazarı ise
 [Karl Polanyi](/dusunur/polanyi/) dosyasında ele alınıyor.
 
-## Okuma yönlendirmesi
-
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser teliflidir; atlas metninden alıntı yapmaz ve
+## Okumayı sürdürmek için
+Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
+ansiklopedi maddesidir.[^k1] Eser teliflidir; korpus metninden alıntı yapmaz ve
 yalnızca hakkında yazılanı aktarır.

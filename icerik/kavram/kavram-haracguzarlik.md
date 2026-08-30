@@ -50,7 +50,7 @@ haraç, kültür ve törenler.[^k1]
 ## Özerklik sistemin kendi başlığıdır
 
 Bir bağlılık sisteminin ansiklopedi maddesinde özerkliğin ayrı bir alt başlık
-taşıması,[^k1] atlasın şu kuralının dayanağıdır: bu dosyada haraçgüzarlık, bir
+taşıması,[^k1] korpusun şu kuralının dayanağıdır: bu incelemede haraçgüzarlık, bir
 egemenlik kaybı olarak değil bir ilişki türü olarak anılır.
 
 ## Törenler ayrı ayrı işlenir
@@ -93,9 +93,8 @@ yükümlülüktür.
 Haraç, ayrı bir siyasi birimden gelir.[^k2] Ödeyen taraf kendi
 yönetimini korur.
 
-Atlas bu ayrımı kavramın merkezine koyar.[^k3] Haraç bir iç mali
-işlem değil, iki düzen arasındaki bir ilişki
-biçimidir.
+Haraç bir iç mali işlem değil, iki düzen arasındaki
+bir ilişki biçimidir.[^k3]
 
 ## Ne karşılığı ödenir
 
@@ -106,9 +105,8 @@ Bazı düzenlerde asıl kazanç ticaret iznidir.[^k2] Haracın parasal
 değeri, elde edilen ticaret hakkının değerinin altında
 kalabilir.
 
-Atlas bu hesabı ayrıca kaydeder.[^k3] Bir haraç ilişkisinde kimin
-kârlı çıktığı, ödemenin miktarına bakılarak
-belirlenemez.
+Bir haraç ilişkisinde kimin kârlı çıktığı,
+ödemenin miktarına bakılarak belirlenemez.[^k3]
 
 ## Törenin işlevi
 
@@ -119,9 +117,8 @@ Sunulan malın değerinden çok sunma biçimi
 önemlidir.[^k2] Kimin kime, hangi sırayla ve hangi sözlerle sunduğu
 kaydedilir.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k3] Bir törenin protokolü,
-tarafların birbirini hangi konumda gördüğünün doğrudan
-kaydıdır.
+Bir törenin protokolü, tarafların
+birbirini hangi konumda gördüğünün doğrudan kaydıdır.[^k3]
 
 ## İki taraflı okuma
 
@@ -132,9 +129,8 @@ kaydedebilir.
 Bu, kayıtları çelişkili gösterir.[^k2] Çelişki bir hata
 değildir.
 
-Atlas iki kaydı birlikte kullanır.[^k3] Aynı olayın iki kayıtta farklı
-adlandırılması, olayın kendisi kadar
-veridir.
+Aynı olayın iki kayıtta farklı
+adlandırılması, olayın kendisi kadar veridir.[^k3]
 
 ## Sıklığın pazarlığı
 
@@ -145,20 +141,18 @@ demektir.
 Alan taraf sıklığı sınırlar.[^k2] Sınırlama, maliyeti ve protokol
 yükünü denetlemek içindir.
 
-Atlas bu pazarlığı ayrıca kaydeder.[^k3] Bu düzende asıl mesele
-bağlılığın kendisi değil, bağlılığın kaç kez
-bildirileceğidir.
+Bu düzende asıl mesele bağlılığın kendisi
+değil, bağlılığın kaç kez bildirileceğidir.[^k3]
 
 ## Çifte bağlılık
 
 Bir düzen aynı anda birden çok merkeze haraç
-gönderebilir.[^k1] Atlasın Ryukyu dosyasında bu durum kayıtlıdır.
+gönderebilir.[^k1] Korpusun Ryukyu dosyasında bu durum kayıtlıdır.
 
 Çifte bağlılık gizlenebilir.[^k2] Her merkeze diğeri anlatılmaz.
 
-Atlas bu biçimi ayrıca kaydeder.[^k3] Bir bağlılığın gizlenmesi, o
-bağlılığın diğeriyle bağdaşmadığının
-kabulüdür.
+Bir bağlılığın gizlenmesi, o bağlılığın
+diğeriyle bağdaşmadığının kabulüdür.[^k3]
 
 ## Sona ermesi
 
@@ -170,9 +164,8 @@ Bu, düzenin niteliğini de gösterir.[^k2] Zorla değil çıkarla
 sürdürülen bir ilişki, çıkar bitince
 sürmez.
 
-Atlas bu bitişi ayrıca kaydeder.[^k3] Varlığı bir ihtiyaca bağlı olan
-bir düzen, ihtiyaç ortadan kalktığında
-korunmaz.
+Varlığı bir ihtiyaca bağlı olan bir düzen,
+ihtiyaç ortadan kalktığında korunmaz.[^k3]
 
 ## Ölçüt
 
@@ -183,16 +176,13 @@ alındığı.
 Üçü birlikte bakılır.[^k2] Tek seferlik bir ödeme bu kavramı
 gerektirmez.
 
-Atlas bu ölçütleri her dosyada uygular.[^k3] Bir ödemeyi haraç saymak,
-onun ne karşılığında yapıldığının
-gösterilmesini gerektirir.
+Bir ödemeyi haraç saymak, onun ne
+karşılığında yapıldığının gösterilmesini gerektirir.[^k3]
 
 
-## Atlasta kullanımı
-
-Atlas kavramı bir aşağılama olarak kullanmaz.[^k1] Haraç ödeyen bir
-düzen bağımsızlığını koruyor
-olabilir.
+## Nasıl kullanılır?
+Haraç ödeyen bir düzen bağımsızlığını
+koruyor olabilir.[^k1]
 
 Belirleyici olan, ödemenin karşılığında elde edilenin ödenenden
 büyük olup olmadığıdır.[^k2] Bu hesap her dosyada ayrı
@@ -207,7 +197,6 @@ kendi yönetimini korumasıdır.
 Farklar da vardır.[^k2] Bazı düzenlerde ödeme bir kereye mahsus, bazı
 düzenlerde nesillere yayılan bir yükümlülüktür.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Sistemin tanımı, haraç kalemleri ve ülke ülke tarihler burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]

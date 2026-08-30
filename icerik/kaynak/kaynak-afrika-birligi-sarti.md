@@ -73,21 +73,21 @@ amaçlarını ve üyeleri bağlayan ilkeleri sıralar.
 karışmama yer alır.[^k1] Bu iki ilke, örgütün sonraki kararlarında
 belirleyici oldu.
 
-Bu dosyanın asıl konusu sınır meselesidir.[^k2] Örgüt, kuruluşunun
+Bu incelemenin asıl konusu sınır meselesidir.[^k2] Örgüt, kuruluşunun
 ertesi yılında sömürge döneminden devralınan sınırların korunmasını
 karara bağladı.
 
 ## Devralınan sınırlar
 
 Kıtadaki sınırların büyük bölümü, kıta dışında ve kıtada yaşamayanlar
-tarafından çizilmişti.[^k2] Atlasın Berlin Konferansı dosyası bu işlemi
+tarafından çizilmişti.[^k2] Korpusun Berlin Konferansı dosyası bu işlemi
 kaydeder.
 
 Bağımsızlık dalgası, bu sınırlarla tanımlanmış birimlerde
 gerçekleşti.[^k1] Kurulan devletler, sınırlarını değil yönetimlerini
 değiştirdi.
 
-Bu dosyanın kaydettiği şey o kararın metne bağlanmasıdır.[^k3] Sınırların
+Bu incelemenin kaydettiği şey o kararın metne bağlanmasıdır.[^k3] Sınırların
 korunması bir zorunluluk değil, ilgili devletlerin ortak bir tercihi
 olarak yazılmıştır.
 
@@ -101,13 +101,13 @@ Gerekçe pratiktir ve tarihsel bir değerlendirme içermez.[^k2] Sınırların
 nasıl çizildiği ayrı bir mesele sayılır; burada sorulan, bundan sonra ne
 yapılacağıdır.
 
-Atlas gerekçeyi ayrıca kaydeder.[^k3] Bir düzenin haksız kurulduğunu
-kabul etmek ile onu değiştirmenin daha maliyetli olacağını kabul etmek
-ayrı iki yargıdır ve ikisi bir arada tutulabilir.
+Bir düzenin haksız kurulduğunu kabul etmek
+ile onu değiştirmenin daha maliyetli olacağını kabul etmek ayrı iki yargıdır ve ikisi
+bir arada tutulabilir.[^k3]
 
 ## Ölçümün formüle edilmesi
 
-Bu, atlasın paylaşım dizisine yeni bir halka ekler.[^k1] Dizi
+Bu, korpusun paylaşım dizisine yeni bir halka ekler.[^k1] Dizi
 Tordesillas, Berlin ve Samoa dosyalarında üç kez ölçülmüştü.
 
 Dördüncü halka farklıdır.[^k2] Burada masayı kuranlar değil, masanın
@@ -122,12 +122,12 @@ ama sonucu değiştirilemez hâle getirir.**
 Onay gönüllü ama zorunlu koşullar altındadır.[^k1] Alternatif, çok sayıda
 sınır uyuşmazlığının aynı anda açılmasıydı.
 
-Bu, atlasın himaye dosyasında kaydedilen kısıtın bir başka
+Bu, korpusun himaye dosyasında kaydedilen kısıtın bir başka
 biçimidir.[^k3] Bir belgenin hangi koşullarda kabul edildiği, belgenin
 metninden okunamaz.
 
-Atlas kısıtı burada da uygular.[^k2] Metin bir tercih bildirir; tercihin
-hangi seçenekler arasından yapıldığı metinde yazmaz.
+Metin bir tercih bildirir; tercihin
+hangi seçenekler arasından yapıldığı metinde yazmaz.[^k2]
 
 ## İlkelerin çatışması
 
@@ -138,7 +138,7 @@ metinde yer alır.
 Çatışma soyut değildir.[^k2] Kıtada ayrılma talepleri ortaya çıktığında
 iki ilke zıt sonuçlara götürdü.
 
-Örgüt uygulamada birinciyi öncelemiştir.[^k3] Atlas bu önceliği kaydeder
+Örgüt uygulamada birinciyi öncelemiştir.[^k3] Korpus bu önceliği kaydeder
 ve metinden çıkarılamayacağını belirtir; iki ilke arasında sıralama
 yazılı değildir.
 
@@ -148,13 +148,12 @@ Bir metinde iki ilke sıralanmadan yan yana konduğunda, sıralamayı
 uygulama belirler.[^k1] Uygulama sıralaması metnin kendisi kadar
 bağlayıcı hâle gelebilir.
 
-Bu, atlasın anayasa dosyalarında ölçtüğü örüntüyle aynı
+Bu, korpusun anayasa dosyalarında ölçtüğü örüntüyle aynı
 ailedendir.[^k3] Metnin sustuğu yerler, konuştuğu yerler kadar
 belirleyicidir.
 
-Atlas ölçütü burada da uygular.[^k2] Bir belgenin hangi ilkeyi
-önceleyeceği yazılmamışsa, bu bir eksiklik değil bir açık alan olarak
-kaydedilir.
+Bir belgenin hangi ilkeyi
+önceleyeceği yazılmamışsa, bu bir eksiklik değil bir açık alan olarak kaydedilir.[^k2]
 
 ## İç işlere karışmama
 
@@ -166,8 +165,8 @@ alınmasını güçleştirdi.
 kurulmuş ve iç meşruiyeti tartışmalı devletler için, dışarıdan müdahale
 kapısını kapalı tutmak bir güvenceydi.
 
-Atlas iki yönü de kaydeder.[^k3] Aynı hüküm, bir yönden bağımsızlığın
-güvencesi, öteki yönden hesap sorulmasının engelidir.
+Aynı hüküm, bir yönden
+bağımsızlığın güvencesi, öteki yönden hesap sorulmasının engelidir.[^k3]
 
 ## Örgütün sonraki hâli
 
@@ -179,9 +178,8 @@ getirdi.
 kırk yıllık uygulamanın ürettiği eleştiriye verilen cevap olarak
 okunabilir.
 
-Atlas bu geçişi ayrıca kaydeder.[^k3] Bir ilkenin sonradan
-sınırlandırılması, o ilkenin yarattığı sorunun kurumun kendisi
-tarafından tanındığını gösterir.
+Bir ilkenin sonradan sınırlandırılması,
+o ilkenin yarattığı sorunun kurumun kendisi tarafından tanındığını gösterir.[^k3]
 
 ## Sınır kararının bugünkü izi
 
@@ -192,13 +190,13 @@ Uyulmuş olması, kararın sorunsuz olduğunu göstermez.[^k1] Sınırların
 etnik ve dilsel dağılımla örtüşmemesi, iç çatışmaların tekrar eden
 gerekçelerindendir.
 
-Atlas iki olguyu ayrı ayrı kaydeder.[^k3] Bir kuralın istikrarlı olması
-ile adil olması ayrı ayrı ölçülür ve biri ötekini göstermez.
+Bir kuralın istikrarlı olması ile adil olması
+ayrı ayrı ölçülür ve biri ötekini göstermez.[^k3]
 
 ## Dizinin tamamı
 
-Atlasın paylaşım dizisi artık dört halkalıdır.[^k1] Tordesillas 1494,
-Berlin 1885, Samoa 1899 ve bu metin 1963.
+Tordesillas 1494, Berlin 1885, Samoa 1899
+ve bu metin 1963.[^k1]
 
 İlk üçünde bölünen taraf masada yoktu.[^k2] Dördüncüde masadakiler,
 kendilerini bölmüş olan çizgileri koruma kararı aldı.
@@ -207,19 +205,17 @@ Dizi bir sonuç verir.[^k3] Bir sınırın kalıcılığı, çizildiği andaki
 gerekçesinden çok sonraki her kuşağın onu değiştirme maliyetine bağlıdır
 ve bu maliyet zamanla artar.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, sınır kararının doğru olup olmadığı hakkında hüküm vermez.[^k1]
 Kararı, gerekçesini ve sonuçlarını ayrı ayrı kaydeder.
 
 Örgütün tek tek kararları izlenmez.[^k2] Ayrı bir çalışma gerektirir ve
-bu dosya yazıldığında atlasta bulunmuyordu.
+bu inceleme yazıldığında korpusta bulunmuyordu.
 
 Kıtadaki iç çatışmaların nedenleri işlenmez.[^k3] Sınır meselesi
 etkenlerden biridir ve tek etken olarak sunulmaz.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Sınırların çizildiği masa için
 [Berlin Konferansı](/olay/berlin-konferansi/), aynı yapının en erken
 örneği için

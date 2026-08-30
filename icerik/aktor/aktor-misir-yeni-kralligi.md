@@ -68,7 +68,7 @@ Fırat'tan Nubya'ya kadar Yakın Doğu'nun büyük bölümünü fethettiği
 kaydedilir.[^k1] I. Tutmosis'ten sonra Fırat'ı geçen ilk firavun oldu.[^k1]
 
 Bu rakamların hükümdarın kendi kayıtlarından geldiği unutulmamalıdır; sayı, bir
-ölçüm değil bir beyandır. Atlas bu tür rakamları düzeltmez, kaynağını gösterir.
+ölçüm değil bir beyandır. Korpus bu tür rakamları düzeltmez, kaynağını gösterir.
 
 ## Başkentin gezinmesi
 
@@ -80,7 +80,7 @@ Bu taşınmalar idari değil, çoğunlukla dinî ve askerî kararlardır. Amarna
 IV. Amenhotep'in adını Akhenaten olarak değiştirmesiyle aynı dönemdir; kaynağın ifadesine göre onun Aten'e
 kişisel tanrısı olarak tapınması sıklıkla tarihteki ilk tektanrıcılık örneği
 olarak yorumlanır.[^k1] Buradaki "sıklıkla yorumlanır" ifadesi bir uzlaşıyı değil
-bir eğilimi bildirir; atlas bu iddiayı kesinleştirmez.
+bir eğilimi bildirir; korpus bu iddiayı kesinleştirmez.
 
 ## Rakip güç
 
@@ -96,8 +96,7 @@ Dönemin kapanışına yakın dünya nüfusu, uzun dönemli seride MÖ 1000 içi
 ile bu değer farklı serilerden gelir; Mısır'ın o toplam içindeki payına dair bir
 ölçüm kullanılan kaynaklarda bulunmadığı için burada oran verilmemiştir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ramses dönemi olarak anılan son evre, On Dokuzuncu Hanedan (MÖ 1295–1189) ve
 Yirminci Hanedan (MÖ 1189–1069) altında toplanır ve adını Ramses adını alan on bir
 firavundan alır.[^k1] Bu evrenin iç siyasi tarihi, din reformunun geri alınışı ve

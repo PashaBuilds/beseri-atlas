@@ -62,10 +62,8 @@ bağdır.[^k1] Üyelik, hem yükümlülük hem koruma doğurur.
 Bağ hukuki bir işlemdir.[^k2] Doğumla, yerleşimle ya da bir kararla
 kurulur.
 
-Atlas bu kavramı bir kimlik konusu olarak değil bir konum konusu
-olarak ele alır.[^k3] **Bir kişinin hangi hukukun koruması altında
-olduğu, kim olduğundan değil hangi düzenin onu üyesi saydığından
-gelir.**
+**Bir kişinin hangi hukukun koruması altında olduğu,
+kim olduğundan değil hangi düzenin onu üyesi saydığından gelir.**[^k3]
 
 ## Nasıl edinilir
 
@@ -75,9 +73,8 @@ doğulan yerin belirlediği bağ, üçüncüsü sonradan verilen bağdır.
 Düzenler bunları farklı ağırlıklarla birleştirir.[^k2] Aynı çocuk,
 farklı düzenlerde farklı sonuçlarla karşılaşır.
 
-Atlas bu farkı ölçülebilir sayar.[^k3] Bir ülkede doğan bir kişinin
-o ülkenin vatandaşı olup olmaması, göç ve nüfus kayıtlarının
-tamamını etkiler.
+Bir ülkede doğan bir kişinin o ülkenin vatandaşı olup
+olmaması, göç ve nüfus kayıtlarının tamamını etkiler.[^k3]
 
 ## Alınabilirlik
 
@@ -87,8 +84,8 @@ alınabilmesidir.[^k1] Bir düzen, üyeliğini geri çekebilir.
 Geri çekme kimseyi yerinden etmeden yapılabilir.[^k2] Kişi aynı yerde
 kalır; değişen tek şey hukuki konumudur.
 
-Atlas bu işlemi ayrıca kaydeder.[^k3] Atlasın apartheid dosyasında bu
-işlemin en kapsamlı örneği kayıtlıdır.
+Korpusun apartheid dosyasında bu işlemin en
+kapsamlı örneği kayıtlıdır.[^k3]
 
 ## Kimsenin vatandaşı olmamak
 
@@ -99,20 +96,19 @@ gösterir.
 Haklar evrensel ilan edilebilir.[^k1] Uygulanmaları için bir düzenin
 o kişiyi kendi işi sayması gerekir.
 
-Atlas bu boşluğu ayrıca kaydeder.[^k2] Bir hakkın metinde bulunması,
-onu uygulayacak bir makamın bulunduğunu göstermez.
+Bir hakkın metinde bulunması, onu
+uygulayacak bir makamın bulunduğunu göstermez.[^k2]
 
 ## Ortak yönetim örneği
 
-Atlasın Okyanusya dosyalarında bu boşluğun somut bir örneği
-vardır.[^k2] İki devletin birlikte yönettiği bir ada topluluğunda,
-adalılar iki devletten hiçbirinin vatandaşı sayılmadı.
+İki devletin birlikte yönettiği bir ada
+topluluğunda, adalılar iki devletten hiçbirinin vatandaşı sayılmadı.[^k2]
 
 Sonuç iki hukukun kesişimi değil, dışında kalmaktı.[^k1] Özel bir
 mahkeme kurulmak zorunda kaldı.
 
-Atlas bu örneği kavramın sınav durumu sayar.[^k3] Bir kavramın nasıl
-işlediği, en iyi işlemediği durumlarda görünür.
+Bir kavramın nasıl işlediği, en iyi işlemediği
+durumlarda görünür.[^k3]
 
 ## Katmanlı üyelik
 
@@ -122,8 +118,8 @@ işlediği, en iyi işlemediği durumlarda görünür.
 Tarihsel örneklerin çoğu katmanlıdır.[^k2] Bir kişi kentin üyesi
 olmadan devletin tebaası olabiliyordu.
 
-Atlas bu katmanları ayrı ayrı izler.[^k3] Tek bir üyelik varsaymak,
-çoğu tarihsel düzeni yanlış tanımlar.
+Tek bir üyelik varsaymak, çoğu tarihsel
+düzeni yanlış tanımlar.[^k3]
 
 ## Tebaa ile vatandaş farkı
 
@@ -133,8 +129,8 @@ olmayı; vatandaşlık, bir siyasi topluluğun üyesi olmayı belirtir.
 Fark yükümlülüğün yönündedir.[^k3] Tebaa itaat eder; vatandaşın
 yönetime katılma iddiası vardır.
 
-Atlas terimleri karıştırmaz.[^k2] Bir düzeni tanımlarken hangi
-terimin kullanıldığı, o düzenin kendi iddiasını da gösterir.
+Bir düzeni tanımlarken hangi terimin
+kullanıldığı, o düzenin kendi iddiasını da gösterir.[^k2]
 
 ## Eksik üyelik
 
@@ -142,13 +138,12 @@ terimin kullanıldığı, o düzenin kendi iddiasını da gösterir.
 kullanamayabilir, mülk edinemeyebilir ya da belirli görevlere
 giremeyebilir.
 
-Bu, atlasın toplumsal cinsiyet dosyasındaki ölçütle aynı
+Bu, korpusun toplumsal cinsiyet dosyasındaki ölçütle aynı
 yapıdadır.[^k2] Haklar tek bir paket değil, alan alan değişen bir
 dizidir.
 
-Atlas bu yüzden tek bir sıfat kullanmaz.[^k3] Bir düzende kimin
-vatandaş sayıldığı ile kimin hangi hakları kullanabildiği ayrı ayrı
-sorulur.
+Bir düzende kimin vatandaş sayıldığı ile
+kimin hangi hakları kullanabildiği ayrı ayrı sorulur.[^k3]
 
 ## Belge olarak vatandaşlık
 
@@ -159,8 +154,8 @@ Kayıt düzeninin kapsamı bu yüzden doğrudan bir haklar
 sorunudur.[^k2] Doğumu kaydedilmemiş bir kişi, kanıtlayamadığı bir
 üyeliğe sahiptir.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Kayıt kapasitesi, bir düzenin
-kimi koruyabildiğinin sınırıdır.
+Kayıt kapasitesi, bir düzenin kimi
+koruyabildiğinin sınırıdır.[^k3]
 
 ## Sömürge düzenlerinde
 
@@ -171,8 +166,8 @@ kategori sayıldı.
 Bu, tek bir yönetim altında iki hukuk anlamına geliyordu.[^k2] Aynı
 suç, faile göre farklı mahkemede görülebiliyordu.
 
-Atlas bu yapıyı ayrıca kaydeder.[^k3] Bir yönetimin yönettiği herkesi
-üyesi saymaması, sömürge düzenlerinin tanımlayıcı özelliğidir.
+Bir yönetimin yönettiği herkesi üyesi
+saymaması, sömürge düzenlerinin tanımlayıcı özelliğidir.[^k3]
 
 ## Bağımsızlıktan sonra
 
@@ -183,23 +178,21 @@ Bazı örneklerde önceki dönemde getirilmiş nüfus bu kararın dışında
 kaldı.[^k2] Sömürge döneminin taşıdığı topluluklar, bağımsızlıktan
 sonra vatansız kalabildi.
 
-Atlas bu sonucu ayrıca kaydeder.[^k3] Bir sınırın çizilmesi kadar
-kimin içeride sayılacağı da bir karardır.
+Bir sınırın çizilmesi kadar kimin içeride
+sayılacağı da bir karardır.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, tek tek ülkelerin vatandaşlık hukukunu vermez.[^k1] Her düzen
 kendi dosyasında ele alınır.
 
 Göç ve sığınma rejimleri burada çözümlenmez.[^k2] Bağlantı gerçektir
 ama ayrı bir çalışma gerektirir.
 
-Kavramın çağdaş tartışmaları karara bağlanmaz.[^k3] Atlas kavramın
+Kavramın çağdaş tartışmaları karara bağlanmaz.[^k3] Korpus kavramın
 tarihsel işleyişini kaydeder, bugünkü düzenlemeleri
 değerlendirmez.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Üyeliğin ulus ölçeğindeki biçimi için
 [Ulus-devlet](/kavram/ulus-devlet/), yetkinin kaynağı için
 [Egemenlik](/kavram/egemenlik/) dosyaları okunmalıdır.[^k1]

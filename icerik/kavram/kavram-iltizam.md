@@ -13,6 +13,7 @@ guven_geneli: yaygin
 etiketler: [iltizam, mukataa, malikane, muaccele, osmanli, vergi-ihalesi]
 ilgili:
   - kavram-timar
+baglam:
   - kavram-vergi
   - aktor-osmanli-imparatorlugu
   - tartisma-osmanli-gerileme-tezi

@@ -61,7 +61,7 @@ dışında geçti.
 Güney Afrika'da yaklaşık yirmi yıl kaldı.[^k1] Geliştirdiği yöntemi
 orada denedi ve orada adlandırdı.
 
-Bu dosya bir yaşam öyküsü değildir.[^k3] Yöntemin ne olduğunun ve neyi
+Bu inceleme bir yaşam öyküsü değildir.[^k3] Yöntemin ne olduğunun ve neyi
 ölçtüğünün kaydıdır.
 
 ## Yöntemin çekirdeği
@@ -73,9 +73,8 @@ Vergi toplanması, mahkemelerin çalışması, okulların açık kalması ve
 malların satılması bu iş birliğini gerektirir.[^k3] İş birliği
 çekildiğinde yönetim durmaz ama maliyeti hızla artar.
 
-Atlas bu gözlemi ölçülebilir sayar.[^k2] **Bir yönetimin gücü,
-kullandığı zorla değil, zor kullanmadan sağladığı iş birliğinin
-miktarıyla ölçülür.**
+**Bir yönetimin gücü, kullandığı
+zorla değil, zor kullanmadan sağladığı iş birliğinin miktarıyla ölçülür.**[^k2]
 
 ## Neden şiddetsizlik
 
@@ -85,9 +84,8 @@ Silahlı direniş, karşı tarafın en güçlü olduğu alana geçmektir.
 İkinci gerekçe kamuoyuyla ilgilidir.[^k3] Direnişin şiddetsiz kalması,
 kullanılan zorun gerekçesiz görünmesini sağlar.
 
-Atlas bu ikinci gerekçeyi ayrıca kaydeder.[^k2] Yöntem, izleyicisi olan
-bir ortam gerektirir; kayıt tutulmayan bir yerde etkisi ölçülemez
-kalır.
+Yöntem, izleyicisi olan bir ortam gerektirir;
+kayıt tutulmayan bir yerde etkisi ölçülemez kalır.[^k2]
 
 ## Hangi koşullarda işler
 
@@ -97,8 +95,8 @@ kamuoyuna karşı gerekçe vermek zorunda olması gerekir.
 Bu koşul her yönetimde bulunmaz.[^k3] Kaydın tutulmadığı ve
 gerekçenin sorulmadığı yerlerde aynı yöntem başka sonuç verir.
 
-Atlas bu sınırı açıkça kaydeder.[^k2] Bir yöntemin bir yerde işlemesi,
-her yerde işleyeceğini göstermez.
+Bir yöntemin bir yerde işlemesi, her
+yerde işleyeceğini göstermez.[^k2]
 
 ## Erken metin
 
@@ -109,8 +107,8 @@ cevap biçimindedir ve kendi diline sonra kendisi tarafından
 Metin, modern uygarlığı bütün olarak eleştirir.[^k3] Demiryolu, hukuk
 mesleği ve modern tıp ayrı ayrı hedef alınır.
 
-Atlas bu keskinliği ayrıca kaydeder.[^k2] Metin, sonraki dönemde
-savunulan görüşlerin hepsini içermez; erken bir konumdur.
+Metin, sonraki dönemde savunulan
+görüşlerin hepsini içermez; erken bir konumdur.[^k2]
 
 ## Kendi metnini aşması
 
@@ -121,9 +119,9 @@ kullandı.
 Metni reddetmedi ama tekrar da yayımlamadı.[^k3] Görüşlerinin
 değiştiğini birçok yerde kendisi belirtti.
 
-Atlas bu durumu bir kural olarak kaydeder.[^k2] Bir düşünüre atıf
-yapılırken hangi dönemin metninin kastedildiği belirtilmelidir; bu,
-atlasın sürüm kuralının kişilere uygulanmasıdır.
+Bir düşünüre atıf yapılırken hangi
+dönemin metninin kastedildiği belirtilmelidir; bu, korpusun sürüm kuralının kişilere
+uygulanmasıdır.[^k2]
 
 ## Güney Afrika dönemi
 
@@ -134,9 +132,8 @@ Bu dönemin görüşleri sonraki dönemle aynı değildir.[^k1] Erken
 yazılarında bölgedeki diğer topluluklarla ilgili ifadeleri sonradan
 eleştirilmiştir.
 
-Atlas bu eleştiriyi kaydeder ve gizlemez.[^k3] Bir yöntemin değeri,
-onu geliştiren kişinin bütün görüşlerinin savunulmasını
-gerektirmez.
+Bir yöntemin değeri, onu geliştiren kişinin
+bütün görüşlerinin savunulmasını gerektirmez.[^k3]
 
 ## Ekonomik boyut
 
@@ -147,8 +144,8 @@ Amaç iki katmanlıydı.[^k3] Birincisi, ithalatı azaltarak karşı tarafın
 gelirini düşürmek; ikincisi, kırsal nüfusa yılın tamamında iş
 sağlamak.
 
-Atlas ikinci amacı ayrıca kaydeder.[^k2] Tek ürüne bağlanmış bir tarım
-düzeninde mevsim dışı iş, doğrudan bir gelir sorunudur.
+Tek ürüne bağlanmış bir tarım düzeninde
+mevsim dışı iş, doğrudan bir gelir sorunudur.[^k2]
 
 ## Tuz kampanyası
 
@@ -158,8 +155,8 @@ Deniz kıyısına yürünerek yasağa açıkça uyulmadı.
 Hedefin seçimi hesaplıydı.[^k1] Tuz herkesin kullandığı, ucuz ve
 gerekli bir maddedir; yasağın gerekçesiz görünmesi kolaydır.
 
-Atlas bu seçimi yöntemin parçası sayar.[^k3] Hangi kuralın çiğneneceği,
-eylemin nasıl anlaşılacağını belirler.
+Hangi kuralın çiğneneceği, eylemin nasıl
+anlaşılacağını belirler.[^k3]
 
 ## Kitleselliğin riski
 
@@ -169,9 +166,8 @@ sayısı arttıkça yöntemin kurallarından sapabilir.
 Bunun yaşandığı bir örnekte kampanyayı durdurdu.[^k3] Karar,
 hareketin içinde de eleştirildi.
 
-Atlas bu kararı yöntemin tutarlılığı açısından kaydeder.[^k2] Bir
-yöntemi savunmak, o yöntemin ihlal edildiği anda maliyeti kabul
-etmeyi gerektirir.
+Bir yöntemi savunmak, o yöntemin ihlal
+edildiği anda maliyeti kabul etmeyi gerektirir.[^k2]
 
 ## Temsil konusundaki anlaşmazlık
 
@@ -182,8 +178,8 @@ başladı.
 Sonuçta ayrılmış koltuk düzeninde uzlaşıldı.[^k3] Uzlaşma, karşı
 tarafın baskı altında kabul ettiği bir çözümdü.
 
-Atlas bu olayı iki dosyada da kaydeder.[^k2] Aynı olay, iki tarafın
-dosyasında farklı ağırlık taşır ve bu fark ayrıca belirtilir.
+Aynı olay, iki tarafın dosyasında
+farklı ağırlık taşır ve bu fark ayrıca belirtilir.[^k2]
 
 ## Kast konusundaki tutumu
 
@@ -193,8 +189,8 @@ Buna karşılık kast düzeninin bütünüyle kaldırılmasını savunmadı.
 Bu tutum döneminde de eleştirildi.[^k3] Eleştiri, düzenin kötüye
 kullanımını düzeltmenin yeterli olmadığı yönündeydi.
 
-Atlas bu ayrımı korur.[^k2] Bir uygulamaya karşı çıkmak, o uygulamayı
-doğuran düzene karşı çıkmakla aynı şey değildir.
+Bir uygulamaya karşı çıkmak, o uygulamayı doğuran
+düzene karşı çıkmakla aynı şey değildir.[^k2]
 
 ## Bölünme karşısındaki konumu
 
@@ -204,9 +200,8 @@ engelleyemedi.
 Bölünme sırasındaki toplu şiddet döneminde bölgelerde dolaşarak
 durdurmaya çalıştı.[^k1] Bu çabaların sınırlı bir etkisi oldu.
 
-Atlas bu sınırı ayrıca kaydeder.[^k3] Bir yöntemin, karşısında bir
-yönetim değil karşılıklı toplu şiddet olduğunda etkisi belirgin
-biçimde azalır.
+Bir yöntemin, karşısında bir yönetim
+değil karşılıklı toplu şiddet olduğunda etkisi belirgin biçimde azalır.[^k3]
 
 ## Suikast ve sonrası
 
@@ -216,8 +211,8 @@ sırasındaki tutumunu gerekçe gösterdi.
 Ölümü, hareketin iç ayrışmasını da açığa çıkardı.[^k1] Aynı hareketin
 içinde birbirine karşıt konumlar zaten oluşmuştu.
 
-Atlas bu sonu ayrıca kaydeder.[^k3] Bir yöntemin en sert direnci, karşı
-çıktığı yönetimden değil kendi toplumundan gelebilir.
+Bir yöntemin en sert direnci, karşı
+çıktığı yönetimden değil kendi toplumundan gelebilir.[^k3]
 
 ## Yöntemin sonraki kullanımı
 
@@ -228,8 +223,8 @@ Başarılı örneklerin ortak yanı, karşı tarafın kendi kamuoyuna hesap
 verme zorunluluğudur.[^k1] Bu koşul yoksa yöntem, katılanların
 maliyetini artırmaktan öteye gitmez.
 
-Atlas bu koşulu her uygulamada ayrıca sorar.[^k2] Yöntemin ithal
-edilmesi, koşullarının da ithal edilmesi anlamına gelmez.
+Yöntemin ithal edilmesi, koşullarının da ithal
+edilmesi anlamına gelmez.[^k2]
 
 ## Adlandırmanın kendisi
 
@@ -239,8 +234,8 @@ seçilen bu ad, "gerçeğe tutunma" anlamına gelir.
 Ad seçimi rastgele değildi.[^k3] Karşı çıktığı ilk karşılık "pasif
 direniş"ti; bu ifadeyi edilgen ve zayıf bulduğu için reddetti.
 
-Atlas bu ayrıntıyı önemli sayar.[^k2] Bir yöntemin adı, o yöntemin
-nasıl anlaşılmasını istediğinin de kaydıdır.
+Bir yöntemin adı, o yöntemin nasıl
+anlaşılmasını istediğinin de kaydıdır.[^k2]
 
 ## Cezanın kabulü
 
@@ -250,8 +245,8 @@ kaçınılmaz.
 Bu kural, eylemi sıradan bir yasa ihlalinden ayırır.[^k3] Cezayı kabul
 etmek, itirazın yasaya değil belirli bir yasaya olduğunu gösterir.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k2] Cezayı kabul eden bir itiraz,
-hukuk düzenini bütünüyle reddetmediğini de bildirmiş olur.
+Cezayı kabul eden bir itiraz, hukuk düzenini
+bütünüyle reddetmediğini de bildirmiş olur.[^k2]
 
 ## Hapishanenin işlevi
 
@@ -261,9 +256,8 @@ için bir maliyet olduğu kadar bir araçtı.
 Hapishanelerin dolması, yönetimin kapasitesini zorlar.[^k3] Bir noktada
 tutuklama, sorunu çözmek yerine büyütür hâle gelir.
 
-Atlas bu eşiği ölçülebilir sayar.[^k2] Bir baskı aracının etkisi,
-uygulandığı kişi sayısı arttıkça artmaz; belirli bir noktadan sonra
-azalır.
+Bir baskı aracının etkisi,
+uygulandığı kişi sayısı arttıkça artmaz; belirli bir noktadan sonra azalır.[^k2]
 
 ## Basının rolü
 
@@ -274,9 +268,8 @@ Yayın, yöntemin işleyişi için gereklidir.[^k3] Görülmeyen bir
 eylemin, karşı tarafa gerekçe verme zorunluluğu doğurması
 beklenemez.
 
-Atlas bu bağı ayrıca kaydeder.[^k2] Yöntemin etkisi, iletişim
-araçlarının yaygınlığıyla birlikte artar ve bu, yöntemi belirli bir
-döneme bağlar.
+Yöntemin etkisi, iletişim araçlarının
+yaygınlığıyla birlikte artar ve bu, yöntemi belirli bir döneme bağlar.[^k2]
 
 ## Köy ve merkez
 
@@ -286,9 +279,8 @@ mümkün olduğunca yerelde kalmasını savundu.
 Bu görüş, bağımsızlıktan sonra izlenen sanayileşme siyasetiyle
 çelişti.[^k3] Yeni yönetim büyük ölçekli sanayiyi tercih etti.
 
-Atlas bu ayrışmayı ayrıca kaydeder.[^k2] Bir hareketin kurucusunun
-görüşleri, o hareketin kurduğu devletin siyasetiyle aynı olmak zorunda
-değildir.
+Bir hareketin kurucusunun görüşleri, o
+hareketin kurduğu devletin siyasetiyle aynı olmak zorunda değildir.[^k2]
 
 ## Ölçülebilir sonuçlar
 
@@ -298,8 +290,8 @@ toplanabildi, ne kadar mal satılabildi, kaç memur görevini sürdürdü.
 Bu ölçümler dönemin idari kayıtlarında bulunur.[^k3] Kayıtlar,
 kampanyaların hangi bölgelerde ne ölçüde tuttuğunu gösterir.
 
-Atlas bu tür ölçümleri tercih eder.[^k2] Bir hareketin etkisi, katılan
-sayısından çok yönetimin işleyişindeki aksamayla ölçülür.
+Bir hareketin etkisi, katılan
+sayısından çok yönetimin işleyişindeki aksamayla ölçülür.[^k2]
 
 ## Bölgesel farklar
 
@@ -310,8 +302,8 @@ Fark, yerel toprak düzeni ve önceki örgütlenme deneyimiyle
 açıklanır.[^k3] Hazır bir ağın bulunduğu yerde katılım hızlı
 gerçekleşti.
 
-Atlas bu farkı ayrıca kaydeder.[^k2] Bir çağrının karşılık bulması,
-çağrının içeriği kadar önceden var olan bağlara bağlıdır.
+Bir çağrının karşılık bulması, çağrının içeriği kadar
+önceden var olan bağlara bağlıdır.[^k2]
 
 ## Kişisel disiplinin yeri
 
@@ -321,11 +313,10 @@ Sadelik, oruç ve mülk edinmemek bu disiplinin parçalarıdır.
 Bunun bir işlevi vardı.[^k3] Yöntemin inandırıcılığı, savunanın kendi
 hayatında da aynı maliyeti taşımasına bağlanıyordu.
 
-Atlas bu bağı ayrıca kaydeder.[^k2] Bir çağrının ikna gücü, çağrıyı
-yapanın kendisi için de geçerli olup olmadığından ölçülebilir.
+Bir çağrının ikna gücü, çağrıyı yapanın
+kendisi için de geçerli olup olmadığından ölçülebilir.[^k2]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, hareketin örgütsel tarihini izlemez.[^k2] Partinin kuruluşu,
 iç seçimleri ve bölgesel örgütlenmesi ayrı bir çalışmadır.
 
@@ -336,8 +327,7 @@ Sonraki dönem metinlerinin doğrulanabilir çevrimiçi tam baskıları
 künyelenememiştir.[^k3] Künyedeki birincil metin erken dönemine
 aittir ve bu kısıt burada beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Temsil konusunda anlaşamadığı isim için
 [B. R. Ambedkar](/dusunur/ambedkar/) dosyası okunmalıdır.[^k1]
 

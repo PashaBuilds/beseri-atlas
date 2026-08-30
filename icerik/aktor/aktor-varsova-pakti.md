@@ -18,6 +18,7 @@ ilgili:
   - aktor-nato
   - aktor-sovyetler-birligi
   - olay-berlin-duvarinin-yikilisi
+baglam:
   - olay-sovyetler-dagilmasi
 okuma_onerisi: []
 kaynaklar:

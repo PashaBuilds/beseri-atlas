@@ -13,6 +13,9 @@ sozlesme:
   wikipedia_max: 1
   kor_hakem_zorunlu: true
   yayin_puani: 10
+  meta_dil_yasak: true
+  yonlu_bag_alani: baglam
+  kaynakli_derinlik_zorunlu: true
 
 durumlar: [bekliyor, arastirmada, yaziliyor, kor-hakemde, onarimda, onaylandi]
 

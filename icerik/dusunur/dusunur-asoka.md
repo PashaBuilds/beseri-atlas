@@ -52,12 +52,12 @@ onarim_turu: 0
 
 ## Nerede durduğu
 
-Aşoka, Maurya hanedanının hükümdarlarından biridir ve atlasta
+Aşoka, Maurya hanedanının hükümdarlarından biridir ve korpusta
 [Maurya İmparatorluğu](/aktor/maurya-imparatorlugu/) dosyası o siyasi birimi
-ayrıca ele alır.[^k1] Bu dosya ise kişiyi değil, adına bağlanan **metin
+ayrıca ele alır.[^k1] Bu inceleme ise kişiyi değil, adına bağlanan **metin
 külliyatını** konu edinir.
 
-Bir hükümdarın düşünür katmanında dosya taşıması, atlasın tip ayrımının
+Bir hükümdarın düşünür katmanında dosya taşıması, korpusun tip ayrımının
 sonucudur. Aktör dosyaları siyasi birimleri kaydeder; düşünür dosyaları, adı
 bir metne bağlanabilen kişileri.[^k1][^k2] Aynı gerekçeyle
 [Nizâmülmülk](/dusunur/nizamulmulk/) de bir devlet görevlisi olduğu hâlde
@@ -70,14 +70,14 @@ bölgelerine dağıtılmış duyurulardır.[^k1][^k2]
 ## Taşa kazınmış bir kaynak
 
 Fermanlar kayalara ve dikilmiş sütunlara kazınmıştır; metinler bulundukları
-yerde, açık havada, yüzyıllar boyunca durmuştur.[^k1][^k2] Bu, atlasın
+yerde, açık havada, yüzyıllar boyunca durmuştur.[^k1][^k2] Bu, korpusun
 kullandığı kaynak türleri arasında ender bir durumdur.
 
 Elyazması olarak aktarılan bir metin, her kopyalanışında değişme riski taşır;
 kazınmış bir metin taşımaz. Aktarım zinciri burada neredeyse yoktur: bugün
 okunan işaretler, kazındıkları günden beri aynı taştadır.[^k1]
 
-Bu, atlasın öteki dosyalarında sık kaydedilen çeviri ve nüsha sorununu büyük
+Bu, korpusun öteki dosyalarında sık kaydedilen çeviri ve nüsha sorununu büyük
 ölçüde ortadan kaldırır. Yerine başka bir sorun koyar: taş aşınır, kırılır ve
 bazı bölümler okunamaz hâle gelir.[^k2] Kayıp, kopyalama hatasıyla değil
 fiziksel bozulmayla olur.
@@ -107,14 +107,13 @@ Bu, ilk bakışta teknik bir ayrıntı gibi görünür ama sonucu büyüktür. E
 bir hükümdarın kendi ağzından çıkmış metinler vardır; hangi hükümdar olduğu
 ise metinden değil dışarıdan gelen bilgiyle belirlenmiştir.[^k1]
 
-Atlasın kaynak künyelerinde bu tür bir katmanı gösterecek alan yoktur. Künye
-metnin birincil olduğunu söyler; metnin kime ait olduğunun nasıl belirlendiğini
-söylemez.[^k1][^k2] Bu boşluk burada metne yazılarak doldurulmuştur.
+Bu boşluk burada metne
+yazılarak doldurulmuştur.[^k1][^k2]
 
 **Tartışmalı.** Fermanlarda anlatılan pişmanlık ifadesinin ne ölçüde kişisel bir
 dönüşümün kaydı, ne ölçüde bir yönetim programının ilanı olduğu tartışılır.
 Aynı metin iki biçimde de okunabilir ve metnin kendisi bu ayrımı çözmez;
-atlas bir okumayı benimsemez.[^k1][^k3]
+korpus bir okumayı benimsemez.[^k1][^k3]
 
 ## Çok dilli duyuru
 
@@ -123,8 +122,7 @@ kazınmıştır.[^k1] Aynı duyurunun birden fazla dilde verilmesi, muhatabın k
 olduğuna dair doğrudan bir bilgidir.
 
 Bir yönetimin duyurusunu hangi dillerde yaptığı, o yönetimin kimi muhatap
-saydığını gösterir.[^k1][^k2] Bu, atlasın [Meşruiyet](/kavram/mesruiyet/)
-dosyasında ele alınan sorunun somut bir kaydıdır: yönetim kendini kime, hangi
+saydığını gösterir.[^k1][^k2] Bu, [Meşruiyet](/kavram/mesruiyet/) incelemesinde ele alınan sorunun somut bir kaydıdır: yönetim kendini kime, hangi
 dille anlatır?
 
 Çok dilli metinlerin bir yan faydası daha vardır. Aynı içeriğin bilinen bir
@@ -135,7 +133,7 @@ metninin bulunmaması, çözümün önündeki engeller arasında sayılmıştı.
 ## Dinî çerçeve
 
 Fermanlarda geçen ahlak ve yönetim dili, dönemin dinî akımlarıyla ilişkili
-biçimde okunur.[^k3] Atlas bu ilişkinin niteliği hakkında bir hüküm vermez;
+biçimde okunur.[^k3] Korpus bu ilişkinin niteliği hakkında bir hüküm vermez;
 metinlerin hangi geleneğe ne kadar bağlı olduğu ayrı bir uzmanlık alanıdır.
 
 Burada kaydedilen şey daha dar bir olgudur: bir hükümdarın kendi
@@ -144,7 +142,7 @@ aldığına dair bir işarettir.[^k1][^k3]
 
 ## Kaynak durumu
 
-Bu dosya üç kaynağa dayanır: fermanların iki ayrı neşri[^k1][^k2] ve dinî
+Bu inceleme üç kaynağa dayanır: fermanların iki ayrı neşri[^k1][^k2] ve dinî
 bağlam için bir akademik ansiklopedi maddesi.[^k3] İki birincil kaynak aynı
 alan adındadır ama farklı derleyicilere ve farklı bölgelerdeki fermanlara
 aittir.
@@ -156,19 +154,18 @@ tamamlanmasından doğar ve neşirler bu tamamlamaları ayrı ayrı gösterir.
 Künyede giriş kapısı niteliğinde bir kaynak bulunmaz.
 
 Sınır belirtilmelidir: kullanılan neşirler yirminci yüzyılın ilk yarısına
-aittir.[^k1][^k2] Sonraki bulgular ve okuma önerileri bu dosyada
+aittir.[^k1][^k2] Sonraki bulgular ve okuma önerileri bu incelemede
 kullanılmamıştır; güncel epigrafi literatürü telifli olduğu için künyeye
 giremez. Aynı kısıt [İndus Vadisi](/aktor/indus-vadisi/) dosyasında da
 kaydedilmişti.
 
-## Bu dosyanın kapsamadıkları
-
+## Açıkta kalan sorular
 Fermanların tek tek içerikleri, bulundukları yerler ve metin varyantları
 burada işlenmez;[^k1][^k2] her biri ayrı bir çalışma konusudur.
 
 Hükümdarın siyasi tarihi ve hanedanın yapısı da kapsam dışıdır.
 [Maurya İmparatorluğu](/aktor/maurya-imparatorlugu/) dosyası siyasi birimi ele
-alır; bu dosya yalnızca metin külliyatını konu edinir.
+alır; bu inceleme yalnızca metin külliyatını konu edinir.
 
 Dönemin siyaset düşüncesinin öteki tarafı için
 [Kautilya](/dusunur/kautilya/) dosyası okunabilir; iki metin aynı bölgeden ve
@@ -182,7 +179,7 @@ kenarları, geçit noktaları ve toplanma yerleri, metnin okunmasının
 beklendiği yerlerdir.
 
 Bir metnin kamuya açık bir yere kazınması, muhatabının yönetim kadrosu değil
-geçen herkes olduğunu düşündürür.[^k1] Bu, atlasın öteki metin türlerinden
+geçen herkes olduğunu düşündürür.[^k1] Bu, korpusun öteki metin türlerinden
 ayrı bir kategori kurar: bir öğüt kitabı hükümdara, bir kronik saraya, bir
 ferman ise yoldan geçene seslenir.
 
@@ -191,13 +188,13 @@ onu okuyabildiği anlamına gelmez; okuryazarlık oranı hakkında bu metinlerde
 bir bilgi çıkmaz.[^k1][^k2] Duyurunun sesli okunmuş olması da mümkündür ve
 metin bu ihtimali ayırt ettirmez.
 
-Atlas bu tür ikinci sıra soruları kaydeder ve cevaplamaz. Bir kaynağın
+Korpus bu tür ikinci sıra soruları kaydeder ve cevaplamaz. Bir kaynağın
 fiziksel konumu bir bilgi verir; o bilginin ne kadar ileri götürülebileceği
 ayrı bir sorudur.
 
 ## İki metin türü yan yana
 
-Aynı bölgeden ve birbirine yakın dönemlerden gelen iki metin, atlasta iki ayrı
+Aynı bölgeden ve birbirine yakın dönemlerden gelen iki metin, korpusta iki ayrı
 dosyada durur: buradaki fermanlar ve [Kautilya](/dusunur/kautilya/) dosyasında
 ele alınan yönetim el kitabı.[^k1]
 
@@ -210,13 +207,13 @@ kaçıracağını gösterir. Yalnızca fermanlara bakan biri, yönetimi kendi il
 ettiği ahlaki çerçeve içinde görür; yalnızca el kitabına bakan biri, yönetimi
 kendi hesaplarının içinde görür.[^k1]
 
-Atlas ikisini de kaydeder ve aralarında bir seçim yapmaz. İki metin çelişmez;
+Korpus ikisini de kaydeder ve aralarında bir seçim yapmaz. İki metin çelişmez;
 farklı işlevleri vardır ve bir yönetim aynı anda hem ilan ettiği çerçeveye hem
 yürüttüğü hesaba sahip olabilir.
 
 ## Bir kaynağın tam olması ne demek
 
-Bu dosya, atlasın kaynak zorunluluğunun en rahat uygulandığı örneklerden
+Bu inceleme, korpusun kaynak zorunluluğunun en rahat uygulandığı örneklerden
 biridir. Metin dönemin kendisinden, aktarım zinciri neredeyse yok, iki
 bağımsız neşir mevcut.[^k1][^k2]
 
@@ -225,17 +222,16 @@ belirlenmiştir; bazı bölümler aşınmıştır; anlatılan pişmanlığın ni
 tartışmalıdır.[^k1][^k3] Yani en iyi kaynak durumu bile tam bir bilgi
 üretmez.
 
-Bunun kaydedilmesi, atlasın kaynak arayışının amacını doğru anlamak için
+Bunun kaydedilmesi, korpusun kaynak arayışının amacını doğru anlamak için
 gereklidir. Amaç kesinliğe ulaşmak değil, her iddianın nereye kadar
 dayandığını gösterebilmektir.[^k1] Kaynak, belirsizliği ortadan kaldırmaz;
 belirsizliğin nerede başladığını işaretler.
 
-Aynı ilke atlasın kaynak durumu zayıf olan dosyaları için de geçerlidir.
+Aynı ilke korpusun kaynak durumu zayıf olan dosyaları için de geçerlidir.
 Orada belirsizlik daha erken başlar; burada daha geç. Aradaki fark derece
 farkıdır, tür farkı değil.[^k2][^k3]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı bölgenin çözülmemiş yazılı katmanı için [İndus Vadisi](/aktor/indus-vadisi/),
 siyasi birimin kendisi için [Maurya İmparatorluğu](/aktor/maurya-imparatorlugu/)
 dosyaları okunmalıdır. İki dosya birlikte, aynı coğrafyanın iki ucundaki iki
@@ -248,18 +244,18 @@ uygundur.
 Aynı bölgenin yönetim düşüncesinin öteki yüzü için
 [Kautilya](/dusunur/kautilya/) dosyası okunmalıdır; iki metni birlikte okumak,
 bir yönetimin ilan ettiği çerçeve ile yürüttüğü hesap arasındaki farkı
-görünür kılar.[^k1] Atlas ikisi arasında bir seçim yapmaz ve ikisinin
+görünür kılar.[^k1] Korpus ikisi arasında bir seçim yapmaz ve ikisinin
 çelişmediğini kaydeder.
 
 Fermanların metnine yapılacak atıflarda hangi neşrin kullanıldığı
 belirtilmelidir;[^k1][^k2] iki neşir aynı fermanı farklı tamamlamalarla
 verebilir ve fark, metnin kendisinde değil okumasındadır.
 
-Bu ayrım atlasın kaynak künyelerinde görünmez. Künye bir metnin birincil
+Bu ayrım korpusun kaynak künyelerinde görünmez. Künye bir metnin birincil
 olduğunu söyler; o metnin hangi okumasının kullanıldığını söylemez.[^k1][^k2]
 Kazınmış metinlerde bu boşluk özellikle önemlidir çünkü aşınmış bir işaretin
 nasıl tamamlandığı, cümlenin anlamını değiştirebilir.
 
-Okuyucuya son bir hatırlatma: bu dosya fermanların ne dediğini özetlemez,
+Okuyucuya son bir hatırlatma: bu inceleme fermanların ne dediğini özetlemez,
 ne tür bir kaynak olduklarını anlatır.[^k1] İçerikleri için metnin kendisine
 inilmelidir ve inilirken hangi neşrin okunduğu not edilmelidir.

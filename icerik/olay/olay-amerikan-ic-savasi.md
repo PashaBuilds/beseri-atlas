@@ -44,7 +44,7 @@ denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-Bu savaşın bilançosu, atlasın sayı okuma tartışmasının en açık örneklerinden
+Bu savaşın bilançosu, korpusun sayı okuma tartışmasının en açık örneklerinden
 biridir. Kaynak, 2 Nisan 2012 tarihli bir gazete haberine dayanarak yeni bir
 çalışmanın ölü sayısını tahmini 650.000'den 850.000'e yükselttiğini
 aktarır.[^k1]
@@ -56,10 +56,10 @@ eski kölelerin ölümlülüğünü yansıtmamaktadır; eski köleler bu rakama 
 edilseydi bilanço daha da yükselirdi.[^k1]
 
 ::tartismali[Amerikan İç Savaşı'nın ölü sayısı hem yukarı revize edilmiş hem de
-kaynağın kendisince eksik ilan edilmiştir; bu dosya tek bir sayı
+kaynağın kendisince eksik ilan edilmiştir; bu inceleme tek bir sayı
 sunmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
-Bu iki cümle, atlasın yöntem tartışmasının bütün unsurlarını taşır: bir sayı
+Bu iki cümle, korpusun yöntem tartışmasının bütün unsurlarını taşır: bir sayı
 revize edilebilir, revize edilmiş sayı bile eksik olabilir ve eksiklik rastgele
 değil belirli bir nüfus grubuna aittir.[^k1]
 
@@ -80,7 +80,7 @@ dağıtılmasıdır.[^k1] Komutanlar arasında Abraham Lincoln, Ulysses S. Grant
 Andrew Johnson sayılır; Lincoln suikaste kurban gitmiştir.[^k1]
 
 Bir savaşın sonucunun "dağıtılma" olarak kaydedilmesi,[^k1] karşı tarafın bir
-devlet olarak tanınıp tanınmadığı sorusunu doğurur; atlas bu soruyu karara
+devlet olarak tanınıp tanınmadığı sorusunu doğurur; korpus bu soruyu karara
 bağlamaz.
 
 ## Ölçek
@@ -90,8 +90,7 @@ Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1914'te yakl
 farklı serilerden gelir; ülkenin kendi nüfusuna dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için burada oran kurulmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Savaşın nedenleri, cephelerin seyri, kölelik düzeninin kaldırılması ve yeniden
 inşa dönemi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
 bölümler olarak işler.[^k1] Dönemin bütünü [1848-1914](/donem/12/) dosyasında ele

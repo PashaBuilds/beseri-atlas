@@ -171,16 +171,15 @@ olduğunu gösterir.
 
 ## Dönem sınırının gerekçesi
 
-Bu dosyanın başlangıç ve bitiş tarihleri iki olaya bağlanmıştır.[^k1]
+Bu incelemenin başlangıç ve bitiş tarihleri iki olaya bağlanmıştır.[^k1]
 Başlangıç, iki kutuplu düzenin resmen sona ermesidir.
 
 Bitiş, engellerin kaldırılması eğiliminin ilk kez toplu biçimde
 sorgulandığı finansal kriz olarak alınmıştır.[^k4] İki tarih arasında
 on yedi yıl vardır.
 
-Atlas bu sınırın tartışmalı olduğunu ayrıca kaydeder.[^k1]
-Küreselleşmenin başlangıcı için çok daha erken tarihler de savunulur ve
-bu tercih dönemlendirme dosyasında ele alınır.
+Küreselleşmenin başlangıcı için çok
+daha erken tarihler de savunulur ve bu tercih dönemlendirme dosyasında ele alınır.[^k1]
 
 ## Sınıra yapılan itiraz
 
@@ -190,9 +189,8 @@ on dokuzuncu yüzyılın sonunda da yüksek düzeylere ulaşmıştı.
 Buna göre bu dönem bir ilk değil, bir geri dönüştür.[^k1] Aradaki iki
 savaş ve korumacılık dönemi bir kesinti sayılır.
 
-Atlas itirazı kaydeder ve bir ayrım önerir.[^k5] Ticaret hacmi
-karşılaştırılabilir olsa da, iletişim maliyetindeki düşüş bu dönemde
-önceki hiçbir dönemle karşılaştırılamaz.
+Ticaret hacmi karşılaştırılabilir olsa da, iletişim
+maliyetindeki düşüş bu dönemde önceki hiçbir dönemle karşılaştırılamaz.[^k5]
 
 ## Ticaretin payı
 
@@ -203,8 +201,8 @@ yükselmiştir.
 Yükseliş düzenli değildir.[^k4] Bölgesel krizlerin yaşandığı yıllarda
 seri geriler, ardından yeniden yükselir.
 
-Atlas bu dalgalanmayı ayrıca kaydeder.[^k1] Bir eğilimin yönü ile o
-eğilimin kesintisizliği ayrı iki bulgudur.
+Bir eğilimin yönü ile o eğilimin
+kesintisizliği ayrı iki bulgudur.[^k1]
 
 ## Üretimin parçalanması
 
@@ -214,8 +212,8 @@ Dönemin ayırt edici yanı ticaretin hacmi değil biçimidir.[^k1] Tek bir
 Bu, önceki dönemlerde görülmeyen bir yapıdır.[^k4] Daha önce ticaret
 büyük ölçüde bitmiş ürünler ve hammaddeler üzerineydi.
 
-Atlas bu farkı ölçüm sayar.[^k5] Bir ürünün kaç ülkede parça değiştirdiği,
-o ürünün ticaret hacminden daha çok şey söyler.
+Bir ürünün kaç ülkede parça değiştirdiği, o ürünün
+ticaret hacminden daha çok şey söyler.[^k5]
 
 ## Taşıma maliyetinin rolü
 
@@ -225,9 +223,8 @@ yaygınlaşması, yükleme boşaltma maliyetini büyük ölçüde düşürdü.
 Bu, dönemden önce başlamış bir süreçtir.[^k4] Bu dönemde etkisi
 birikimli hâle geldi.
 
-Atlas bu gecikmeyi ayrıca kaydeder.[^k5] Bir teknik değişimin etkisi,
-uygulanmaya başladığı tarihte değil yaygınlaştığı tarihte
-ölçülür.
+Bir teknik değişimin etkisi, uygulanmaya
+başladığı tarihte değil yaygınlaştığı tarihte ölçülür.[^k5]
 
 ## İletişim eşiği
 
@@ -238,8 +235,8 @@ ulaşmıştır.
 Yayılma her yerde aynı hızda olmadı.[^k5] Aynı yılda bölgeler
 arasındaki fark, oranın kendisinden büyüktü.
 
-Atlas bu farkı ayrıca kaydeder.[^k1] Bir teknolojinin küresel ortalaması,
-o teknolojiye kimin eriştiğini gizler.
+Bir teknolojinin küresel ortalaması, o teknolojiye
+kimin eriştiğini gizler.[^k1]
 
 ## Mesafenin anlamının değişmesi
 
@@ -250,8 +247,8 @@ verilebilir hâle geldi.
 Bu, üretimin coğrafyasını mallardan farklı biçimde değiştirdi.[^k5]
 Mal ticareti limana bağlıyken, hizmet ticareti hatta bağlıdır.
 
-Atlas iki yapıyı ayrı ayrı izler.[^k4] Bir bölgenin ihracatının mal mı
-hizmet mi olduğu, hangi altyapıya bağımlı olduğunu belirler.
+Bir bölgenin ihracatının mal mı hizmet mi
+olduğu, hangi altyapıya bağımlı olduğunu belirler.[^k4]
 
 ## Sermaye hareketleri
 
@@ -262,9 +259,8 @@ Serbestleşme, sermayenin hızla girmesi kadar hızla çıkmasını da mümkün
 kıldı.[^k4] Bu ikinci yön, dönemin krizlerinin ortak
 mekanizmasıdır.
 
-Atlas bu simetriyi ayrıca kaydeder.[^k5] Bir engelin kaldırılması, iki
-yönde birden kaldırılır; giriş kolaylaştığında çıkış da
-kolaylaşır.
+Bir engelin kaldırılması, iki yönde birden
+kaldırılır; giriş kolaylaştığında çıkış da kolaylaşır.[^k5]
 
 ## Kriz zinciri
 
@@ -274,9 +270,8 @@ farklı bir bölgede başladı ve benzer bir seyir izledi.
 Ortak örüntü şudur.[^k1] Hızlı sermaye girişi, ardından güven kaybı,
 ardından ani çıkış ve para biriminin çöküşü.
 
-Atlas bu tekrarı ayrıca kaydeder.[^k5] Aynı örüntünün farklı
-coğrafyalarda tekrarlanması, nedenin yerel değil yapısal olduğuna
-işaret eder.
+Aynı örüntünün farklı coğrafyalarda
+tekrarlanması, nedenin yerel değil yapısal olduğuna işaret eder.[^k5]
 
 ## Kurumsal çerçeve
 
@@ -287,9 +282,9 @@ içeriyordu.
 Bu, önceki düzenden bir farktır.[^k4] Kurallar artık yalnızca yazılı
 değil, uygulanabilir hâle gelmişti.
 
-Atlas bu farkı ayrıca kaydeder.[^k5] Bu, atlasın belge tartışmasında
-kurulan ölçütün doğrudan konusudur: bir kuralın yürürlüğü, onu
-uygulayacak bir mekanizmanın varlığına bağlıdır.
+Bu, korpusun belge tartışmasında kurulan ölçütün
+doğrudan konusudur: bir kuralın yürürlüğü, onu uygulayacak bir mekanizmanın varlığına
+bağlıdır.[^k5]
 
 ## Kuralı kimin yazdığı
 
@@ -301,9 +296,9 @@ Tarım ve tekstil gibi bazı alanlar, diğerlerinden farklı işlem
 gördü.[^k4] Bu ayrım, hangi ülkelerin hangi alanda rekabet ettiğiyle
 örtüşür.
 
-Atlas bu örtüşmeyi ayrıca kaydeder.[^k5] Bir kural düzeninin tarafsız
-görünmesi, kuralın herkese aynı biçimde uygulanmasından gelir;
-kuralların hangi alanlara konduğu ayrı bir sorudur.
+Bir kural düzeninin tarafsız görünmesi,
+kuralın herkese aynı biçimde uygulanmasından gelir; kuralların hangi alanlara konduğu
+ayrı bir sorudur.[^k5]
 
 ## Bölgesel bloklar
 
@@ -313,9 +308,8 @@ anlaşmalar, üyeleri arasında engelleri daha da düşürdü.
 İki düzey her zaman uyumlu değildir.[^k4] Bölgesel bir tercih,
 küresel kural düzeninin temel ilkesiyle gerilim üretir.
 
-Atlas bu gerilimi ayrıca kaydeder.[^k5] Aynı dönemde hem
-evrenselleşme hem bloklaşma yönünde eğilimlerin bulunması, dönemi tek
-bir yöne indirgemeyi engeller.
+Aynı dönemde hem evrenselleşme hem bloklaşma
+yönünde eğilimlerin bulunması, dönemi tek bir yöne indirgemeyi engeller.[^k5]
 
 ## Nüfusun ağırlık merkezi
 
@@ -325,9 +319,8 @@ coğrafi dağılımı eşit değildi.
 Bazı bölgelerde nüfus artışı yavaşlarken, bazılarında hızlı
 sürdü.[^k2] Bu, gelecek dönemlerin nüfus dağılımını da belirledi.
 
-Atlas bu kaymayı ayrıca kaydeder.[^k1] Bir dönemin nüfus artış hızı,
-bir sonraki dönemin siyasi ağırlık dağılımının önceden okunabilir
-göstergesidir.
+Bir dönemin nüfus artış hızı, bir sonraki
+dönemin siyasi ağırlık dağılımının önceden okunabilir göstergesidir.[^k1]
 
 ## Kentleşme
 
@@ -337,8 +330,8 @@ Yükseliş, nüfus artışının yavaşladığı bölgelerde de sürdü.
 Kentleşme ile nüfus artışı ayrı iki süreçtir.[^k4] Biri toplam
 büyüklüğü, diğeri dağılımı değiştirir.
 
-Atlas ikisini ayrı ayrı izler.[^k5] Aynı yönde hareket etmeleri, aynı
-nedenden geldiklerini göstermez.
+Aynı yönde hareket etmeleri, aynı nedenden
+geldiklerini göstermez.[^k5]
 
 ## Yoksulluk ölçüsü
 
@@ -348,8 +341,8 @@ büyük bölümü belirli bölgelerde yoğunlaşmıştır.
 Ölçütün kendisi tartışmalıdır.[^k1] Eşik değerin nasıl belirlendiği ve
 zamanla nasıl güncellendiği sonucu doğrudan etkiler.
 
-Atlas bu yüzden oranı ölçütüyle birlikte verir.[^k5] Bir eşik değere
-bağlı her oran, eşiğin tanımı değişince değişir.
+Bir eşik değere bağlı her oran,
+eşiğin tanımı değişince değişir.[^k5]
 
 ## Eşitsizliğin iki ölçüsü
 
@@ -359,9 +352,8 @@ Eşitsizlik iki farklı biçimde ölçülebilir.[^k4] Ülkeler arası fark ve
 Bu dönemde iki ölçü farklı yönlerde hareket etti.[^k1] Ülkeler arası
 fark daralırken, birçok ülkede iç fark açıldı.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k5] Aynı döneme dair "eşitsizlik
-arttı" ve "eşitsizlik azaldı" ifadeleri, farklı ölçüler kullanıldığında
-ikisi de doğru olabilir.
+Aynı döneme dair "eşitsizlik arttı" ve "eşitsizlik
+azaldı" ifadeleri, farklı ölçüler kullanıldığında ikisi de doğru olabilir.[^k5]
 
 ## Çatışmanın biçimi
 
@@ -372,9 +364,8 @@ olarak öne çıktı.
 Bu, ölçmeyi de zorlaştırır.[^k3] İç çatışmalarda taraf sayısı ve
 sınırlar belirsizdir.
 
-Atlas bu güçlüğü ayrıca kaydeder.[^k1] Bir kategorinin tanımı
-değiştiğinde, o kategorideki sayısal düşüş gerçek bir düşüş
-olmayabilir.
+Bir kategorinin tanımı değiştiğinde, o
+kategorideki sayısal düşüş gerçek bir düşüş olmayabilir.[^k1]
 
 ## Müdahale tartışması
 
@@ -384,8 +375,8 @@ egemenlik ilkesi ile koruma sorumluluğu arasında yürüdü.
 İki ilke birbiriyle çelişir.[^k3] Biri sınırların dokunulmazlığını,
 diğeri belirli koşullarda sınırın aşılabileceğini savunur.
 
-Atlas bu tartışmayı karara bağlamaz.[^k5] Kaydettiği şey, aynı
-dönemde her iki ilkenin de farklı olaylarda ileri sürüldüğüdür.
+Kaydettiği şey, aynı dönemde her iki
+ilkenin de farklı olaylarda ileri sürüldüğüdür.[^k5]
 
 ## Devletin konumu
 
@@ -395,8 +386,8 @@ anlatıyı tam olarak desteklemez.
 Kamu harcamalarının payı çoğu ülkede düşmedi.[^k4] Değişen, harcamanın
 bileşimi ve devletin hangi alanlarda düzenleyici olduğuydu.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k5] Bir kurumun küçülmesi ile
-işlevinin değişmesi ayrı iki olgudur.
+Bir kurumun küçülmesi ile işlevinin değişmesi ayrı
+iki olgudur.[^k5]
 
 ## Enerji ve emisyon
 
@@ -407,8 +398,8 @@ Bu, sorumluluk tartışmasını doğurdu.[^k1] Bir malın üretiminde çıkan
 emisyonun üreticiye mi tüketiciye mi yazılacağı ayrı bir ölçüt
 sorusudur.
 
-Atlas bu soruyu ayrıca kaydeder.[^k4] Aynı emisyon, iki farklı ölçütle
-iki farklı ülkenin hanesine yazılabilir.
+Aynı emisyon, iki farklı ölçütle iki farklı
+ülkenin hanesine yazılabilir.[^k4]
 
 ## Sağlık göstergeleri
 
@@ -418,30 +409,30 @@ iyileşti.[^k2] İyileşme neredeyse bütün bölgelerde görüldü.
 İstisnalar vardır ve ayrıca kaydedilmelidir.[^k1] Bazı bölgelerde
 salgın hastalıklar bu eğilimi tersine çevirdi.
 
-Atlas istisnaları ortalamada eritmez.[^k5] Bir küresel eğilim, onu
-izlemeyen bölgeleri de ayrıca adlandırmadan tam sayılmaz.
+Bir küresel eğilim, onu izlemeyen
+bölgeleri de ayrıca adlandırmadan tam sayılmaz.[^k5]
 
 ## Kaydın kendisi
 
-Bu dönem, atlasın en çok veri bulabildiği dönemdir.[^k4] Serilerin
+Bu dönem, korpusun en çok veri bulabildiği dönemdir.[^k4] Serilerin
 büyük bölümü bu yıllarda ya başlar ya da kapsamını genişletir.
 
 Bu bir avantaj ve bir risktir.[^k5] Veri bolluğu, önceki dönemlerle
 karşılaştırmayı kolaylaştırmaz, zorlaştırır.
 
-Atlas bu asimetriyi ayrıca kaydeder.[^k1] Yakın dönemin daha ayrıntılı
-bilinmesi, o dönemin daha önemli olduğu anlamına gelmez.
+Yakın dönemin daha ayrıntılı
+bilinmesi, o dönemin daha önemli olduğu anlamına gelmez.[^k1]
 
 ## Serilerin başlangıç tarihleri
 
-Atlasın veri katmanında birçok seri bu dönemde başlar.[^k4] Yoksulluk
-ve iletişim serileri bunlar arasındadır.
+Yoksulluk ve iletişim serileri bunlar
+arasındadır.[^k4]
 
 Serinin başlaması, ölçülen olgunun o tarihte başladığı anlamına
 gelmez.[^k5] Ölçmenin başladığı tarihi gösterir.
 
-Atlas bu ayrımı her veri dosyasında yineler.[^k2] Bir eğrinin başladığı
-nokta, çoğu zaman olgunun değil kaydın başlangıcıdır.
+Bir eğrinin başladığı nokta, çoğu zaman olgunun değil
+kaydın başlangıcıdır.[^k2]
 
 ## Dönemin kendi anlatısı
 
@@ -451,9 +442,8 @@ engellerin kaldırılması kaçınılmaz ve geri döndürülemez sayılıyordu.
 Anlatının kendisi bir veri olarak kaydedilmelidir.[^k4] Kaçınılmazlık
 iddiası, alınan kararları tercih olmaktan çıkarır.
 
-Atlas bu iddiayı ayrıca sorgular.[^k5] Bir sürecin kaçınılmaz
-sunulması, o süreci yürütenlerin sorumluluğunu da görünmez
-kılar.
+Bir sürecin kaçınılmaz sunulması, o süreci
+yürütenlerin sorumluluğunu da görünmez kılar.[^k5]
 
 
 ## Göç ve emeğin hareketliliği
@@ -466,9 +456,8 @@ Bu asimetri dönemin tanımlayıcı özelliklerindendir.[^k4] Üretim
 faktörlerinden biri serbest bırakılmazsa, serbestleşmenin kazancı da
 eşit dağılmaz.
 
-Atlas bu asimetriyi ayrıca kaydeder.[^k5] Bir serbestleşme düzeninin
-kimin lehine işlediği, hangi faktörün serbest bırakıldığına
-bakılarak okunabilir.
+Bir serbestleşme düzeninin kimin lehine işlediği,
+hangi faktörün serbest bırakıldığına bakılarak okunabilir.[^k5]
 
 ## Havale akışları
 
@@ -479,8 +468,8 @@ kalemi hâline geldi.
 Havale, yardım ve yatırımdan farklı işler.[^k1] Doğrudan haneye ulaşır
 ve aracı kurum gerektirmez.
 
-Atlas bu farkı ayrıca kaydeder.[^k5] Bir gelirin hangi kanaldan
-geldiği, kimin eline geçtiğini de belirler.
+Bir gelirin hangi kanaldan geldiği, kimin eline
+geçtiğini de belirler.[^k5]
 
 ## Kentleşmenin biçimi
 
@@ -491,8 +480,8 @@ istihdamıyla, bazılarında sanayi olmadan gerçekleşti.
 düzenli istihdam bulamadığında hizmet ve enformel işlere
 yöneldi.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k1] Kentleşme oranı tek başına, o
-kentleşmenin hangi işe dayandığını göstermez.
+Kentleşme oranı tek başına, o kentleşmenin hangi işe
+dayandığını göstermez.[^k1]
 
 ## Enformel istihdamın kaydı
 
@@ -502,9 +491,8 @@ işgücü verilerinde sistematik bir boşluk üretir.
 Boşluk rastgele değildir.[^k5] Belirli bölgelerde ve belirli iş
 türlerinde yoğunlaşır.
 
-Atlas bu yönlü hatayı ayrıca beyan eder.[^k1] Bu, atlasın toplumsal
-cinsiyet dosyasında tanımlanan kayıt yanlılığının bir başka
-biçimidir.
+Bu, korpusun toplumsal cinsiyet dosyasında
+tanımlanan kayıt yanlılığının bir başka biçimidir.[^k1]
 
 ## Salgın ve sağlık düzeni
 
@@ -515,9 +503,9 @@ düşürdü.[^k2] Etki, küresel ortalamada görünmeyecek kadar bölgeseldi.
 hakkı arasındaki gerilim, ticaret kurallarının konusu hâline
 geldi.
 
-Atlas bu gerilimi ayrıca kaydeder.[^k4] Aynı kural düzeninin bir
-alanda üretimi teşvik ederken başka bir alanda erişimi kısıtlaması,
-kuralın hangi amaca göre yazıldığını gösterir.
+Aynı kural düzeninin bir alanda üretimi teşvik
+ederken başka bir alanda erişimi kısıtlaması, kuralın hangi amaca göre yazıldığını
+gösterir.[^k4]
 
 ## Eğitimin yaygınlaşması
 
@@ -528,8 +516,8 @@ birlikte gitti.
 İki eğilim birbirini besledi.[^k4] Eğitim süresi uzadıkça doğurganlık
 hızı düştü ve düşüş eğitime ayrılan kaynağı artırdı.
 
-Atlas bu döngüyü ayrıca kaydeder.[^k1] Demografik geçişin motoru,
-gelir kadar eğitim süresidir.
+Demografik geçişin motoru, gelir kadar
+eğitim süresidir.[^k1]
 
 ## Şehir ölçeğinde yoğunlaşma
 
@@ -540,9 +528,8 @@ yoğunlaştı.
 Bu yoğunlaşma ülke içi farkı da büyüttü.[^k5] Aynı ülkenin bağlantılı
 ve bağlantısız bölgeleri arasındaki fark açıldı.
 
-Atlas bu ölçeği ayrıca izler.[^k1] Küreselleşmenin kazancı ülke
-ortalamasında görünse de, dağılımı kent düzeyinde
-okunmalıdır.
+Küreselleşmenin kazancı ülke
+ortalamasında görünse de, dağılımı kent düzeyinde okunmalıdır.[^k1]
 
 ## Para düzeni
 
@@ -553,8 +540,8 @@ Aynı bağlama, kriz anında esnekliği ortadan kaldırdı.[^k1] Kur
 ayarlaması yapılamayan bir ekonomi, uyumu istihdam üzerinden
 yapmak zorunda kalır.
 
-Atlas bu değiş tokuşu ayrıca kaydeder.[^k5] Bir istikrar aracı,
-istikrarsızlık anında maliyeti başka bir alana aktarır.
+Bir istikrar aracı, istikrarsızlık anında
+maliyeti başka bir alana aktarır.[^k5]
 
 ## Bölgesel para birliği
 
@@ -564,9 +551,8 @@ siyasetinin ulusal düzeyden çıkması demekti.
 Maliye siyaseti ise ulusal düzeyde kaldı.[^k4] İki düzeyin ayrılması,
 sonraki dönemin başlıca gerilim kaynaklarından biri oldu.
 
-Atlas bu yapıyı ayrıca kaydeder.[^k5] Bir yetkinin devredilip
-tamamlayıcısının devredilmemesi, kurulan düzenin kırılganlığını
-belirler.
+Bir yetkinin devredilip
+tamamlayıcısının devredilmemesi, kurulan düzenin kırılganlığını belirler.[^k5]
 
 ## Teknolojinin dağılımı
 
@@ -577,9 +563,8 @@ atladı.
 Bu, teknolojik gelişmenin tek bir sıra izlediği varsayımını
 zayıflatır.[^k1] Aşamalar atlanabilir.
 
-Atlas bu gözlemi ayrıca kaydeder.[^k4] Bir teknolojinin yayılma yolu,
-onu ilk geliştiren bölgenin izlediği yolu tekrarlamak zorunda
-değildir.
+Bir teknolojinin yayılma yolu, onu ilk
+geliştiren bölgenin izlediği yolu tekrarlamak zorunda değildir.[^k4]
 
 ## Ölçme kapasitesinin kendisi
 
@@ -589,9 +574,8 @@ kuruluşlar düzenli seri üretmeye başladı.
 Bu, önceki dönemlerle karşılaştırmayı zorlaştırır.[^k5] Daha iyi
 ölçülen bir olgu, artmış gibi görünebilir.
 
-Atlas bu tuzağı ayrıca kaydeder.[^k2] Bir serideki artışın ne kadarının
-olguya, ne kadarının ölçme kapasitesine ait olduğu ayrıca
-sorulmalıdır.
+Bir serideki artışın ne kadarının olguya, ne
+kadarının ölçme kapasitesine ait olduğu ayrıca sorulmalıdır.[^k2]
 
 ## Dönemin bıraktığı soru
 
@@ -601,23 +585,20 @@ kaldırılması bir tercih miydi yoksa kaçınılmaz bir eğilim mi.
 İki cevap farklı sonuçlar doğurur.[^k4] Tercihse geri alınabilir;
 eğilimse ancak yönetilebilir.
 
-Atlas bu soruyu bir sonraki döneme devreder.[^k5] Cevabın hangi yönde
-verildiği, izleyen dönemin siyasi biçimini doğrudan
-belirlemiştir.
+Cevabın hangi yönde verildiği, izleyen
+dönemin siyasi biçimini doğrudan belirlemiştir.[^k5]
 
 
-## Bu dönemi atlasta okumak
-
-Atlasın bu döneme bağlanan dosyaları üç öbekte toplanır.[^k1]
-Birincisi, düzenin kurumlarını anlatan aktör dosyalarıdır.
+## Dönemin bağlantıları
+Birincisi, düzenin kurumlarını anlatan
+aktör dosyalarıdır.[^k1]
 
 İkincisi, dönemin krizlerini ve dönüm noktalarını anlatan olay
 dosyalarıdır.[^k4] Üçüncüsü, dönemin ölçülerini taşıyan veri
 dosyalarıdır.
 
-Atlas üçünü birlikte okumayı önerir.[^k5] Bir kurumun kuruluşu, bir
-krizin seyri ve bir serinin eğrisi aynı olguyu üç ayrı düzeyde
-kaydeder.
+Bir kurumun kuruluşu, bir krizin seyri ve
+bir serinin eğrisi aynı olguyu üç ayrı düzeyde kaydeder.[^k5]
 
 ## Önceki dönemle bağ
 
@@ -627,9 +608,8 @@ ve para düzeninin çerçevesi, savaş sonrasında kurulmuştu.
 Değişen, kapsamdır.[^k4] Aynı çerçeve, önceki dönemde dışarıda kalan
 ekonomileri de içine aldı.
 
-Atlas bu sürekliliği ayrıca kaydeder.[^k5] Bir dönemin yeniliği,
-kurumların yeni olmasından değil kapsamlarının genişlemesinden
-gelebilir.
+Bir dönemin yeniliği, kurumların
+yeni olmasından değil kapsamlarının genişlemesinden gelebilir.[^k5]
 
 ## Sonraki döneme bağ
 
@@ -641,26 +621,25 @@ Sonraki dönemin siyasi biçimi bu sorgulamadan doğdu.[^k1] Ticaret
 siyaseti, göç ve teknoloji yeniden siyasi tartışmanın merkezine
 girdi.
 
-Atlas iki dönemi bu bağla birleştirir.[^k5] Bir dönemin bitişi, onu
-tanımlayan eğilimin sona ermesi değil, o eğilimin ilk kez
-savunulmak zorunda kalmasıdır.
+Bir dönemin bitişi, onu tanımlayan
+eğilimin sona ermesi değil, o eğilimin ilk kez savunulmak zorunda kalmasıdır.[^k5]
 
 
 ## Dosyanın kendi sınırı
 
-Bu dosya, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
+Bu inceleme, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
 dosyasında ayrıntılı ele alınır ve burada yalnızca döneme bağlanır.
 
 Bölgesel ayrıntı sınırlıdır.[^k4] Şerit satırları, bölgelerin kendi
 tarihlerinden çok ortak mekanizmanın onlardaki görünümünü verir.
 
 Dönemin sayısal serileri burada yorumlanır, üretilmez.[^k5] Serilerin
-kendi kaynakları, yöntemleri ve başlangıç tarihleri atlasın veri
-dosyalarında ayrı ayrı kayıtlıdır ve bu dosya onların yerine
+kendi kaynakları, yöntemleri ve başlangıç tarihleri korpusun veri
+dosyalarında ayrı ayrı kayıtlıdır ve bu inceleme onların yerine
 geçmez.[^k2]
 
 
-## Bu dosyanın kaynak tabanı
+## Bu incelemenin kaynak tabanı
 
 Dosya beş kaynağa dayanır ve ikisi ansiklopedik, üçü sayısal
 seridir.[^k1] Sayısal seriler dönemin iktisadi, iletişimsel ve
@@ -668,7 +647,7 @@ demografik eksenlerini ayrı ayrı ölçer.
 
 Bu bileşim bilinçlidir.[^k4] Bir dönemin anlatısı tek bir kaynağa
 dayandığında, o kaynağın kendi bölümlemesi dönemin bölümlemesi hâline
-gelir ve bu, atlasın kaçınmaya çalıştığı bir hatadır.[^k5]
+gelir ve bu, korpusun kaçınmaya çalıştığı bir hatadır.[^k5]
 
 ## Fikir dünyası
 

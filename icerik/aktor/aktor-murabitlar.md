@@ -68,7 +68,7 @@ denizin öteki yakasını aynı yönetim altında toplayan hanedandır.[^k1]
 hareket bir çöl kenarı yerleşmesinden başladı.
 
 Hanedanın hâkim olduğu alan, iki farklı iklimi ve iki farklı üretim
-düzenini kapsıyordu.[^k2] Bu, atlasın bu dosyada ölçtüğü ilk özelliktir.
+düzenini kapsıyordu.[^k2] Bu, korpusun bu incelemede ölçtüğü ilk özelliktir.
 
 Devlet, kuruluşundan yaklaşık bir yüzyıl sonra kendi çıktığı bölgeden
 gelen bir başka hareket tarafından ortadan kaldırıldı.[^k1] Aynı örüntü
@@ -83,9 +83,8 @@ Bu hanedanın tarihi bunun tersini gösterir.[^k1] Çölün iki kıyısı,
 düzenli kervan güzergâhlarıyla birbirine bağlıydı ve bağ siyasi bir
 birliğe dönüşebildi.
 
-Atlas bu gözlemi ayrıca kaydeder.[^k4] **Bir yüzeyin ayırıcı mı bağlayıcı
-mı olduğu, coğrafyasından değil o yüzeyde işleyen ulaşım düzeninden
-okunur.**
+**Bir yüzeyin ayırıcı mı bağlayıcı mı
+olduğu, coğrafyasından değil o yüzeyde işleyen ulaşım düzeninden okunur.**[^k4]
 
 ## Denizle karşılaştırma
 
@@ -95,7 +94,7 @@ kurulduğunda kara parçalarından daha hızlı bir bağdır.
 Bu hanedan iki yüzeyi de aynı anda kullandı.[^k1] Çölü kervanla,
 denizi gemiyle geçti ve ikisini tek yönetim altında tuttu.
 
-Bu, atlasta seyrek görülen bir bileşimdir.[^k4] Kara ve deniz
+Bu, korpusta seyrek görülen bir bileşimdir.[^k4] Kara ve deniz
 lojistiğini birlikte işleten düzenler, ikisinden birini kullananlardan
 daha kırılgan ama daha geniş olur.
 
@@ -108,9 +107,8 @@ dayanıyordu.
 Basılan sikke, kendi bölgesinin dışında da kabul gördü.[^k3] Akdeniz'in
 kuzey kıyısındaki ticarette de kullanıldığı kayıtlıdır.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k1] Bir sikkenin çıkarıldığı
-alanın dışında kabul görmesi, arkasındaki üretim ve güven düzeninin
-ölçüsüdür.
+Bir sikkenin çıkarıldığı alanın dışında kabul
+görmesi, arkasındaki üretim ve güven düzeninin ölçüsüdür.[^k1]
 
 ## Altının kaynağı sorunu
 
@@ -133,8 +131,8 @@ bulunuyordu.[^k1] İki düzen arasındaki ilişki hem ticari hem
 aktarımlar doğrudan bir askerî ele geçirme anlatır, bazıları kademeli
 bir nüfuz süreci tarif eder.
 
-Atlas bir sonuca bağlanmaz.[^k4] Bu döneme ilişkin kaynakların önemli
-bölümü olaydan sonra ve kuzeyden yazılmıştır.
+Bu döneme ilişkin kaynakların önemli
+bölümü olaydan sonra ve kuzeyden yazılmıştır.[^k4]
 
 ## Hareketin kuruluş biçimi
 
@@ -144,8 +142,8 @@ olarak başladı.[^k1] Askerî örgütlenme sonradan eklendi.
 Bu sıralama, hareketin meşruiyet biçimini de belirledi.[^k3] Yetki, soy
 iddiasına değil dinî ıslah iddiasına dayandırıldı.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k4] Meşruiyetin soya dayandığı
-düzenlerle öğretiye dayandığı düzenler farklı biçimlerde el değiştirir.
+Meşruiyetin soya dayandığı düzenlerle öğretiye
+dayandığı düzenler farklı biçimlerde el değiştirir.[^k4]
 
 ## Meşruiyet biçiminin sonucu
 
@@ -156,8 +154,8 @@ Bu hanedanın sonu tam olarak bu yoldan geldi.[^k2] Aynı bölgeden çıkan
 ikinci bir hareket, birincisini yeterince tutarlı olmamakla suçlayarak
 yerini aldı.
 
-Atlas örüntüyü kaydeder.[^k4] Öğretiye dayanan bir meşruiyet, kendisini
-yıkacak aracı da beraberinde getirir.
+Öğretiye dayanan bir meşruiyet, kendisini
+yıkacak aracı da beraberinde getirir.[^k4]
 
 ## Denizin öteki yakası
 
@@ -167,9 +165,8 @@ geçti.[^k3] Bölge o sırada çok sayıda küçük birime bölünmüştü.
 Davetin sonucu, davet edenlerin beklediği gibi olmadı.[^k3] Yardım eden
 taraf, kısa süre içinde bölgenin yönetimini de aldı.
 
-Atlas bu örüntüyü ayrıca işaretler.[^k2] Dışarıdan askerî yardım
-çağırmak, çağıran tarafın konumunu güçlendirmek yerine ortadan
-kaldırabilir.
+Dışarıdan askerî yardım çağırmak, çağıran
+tarafın konumunu güçlendirmek yerine ortadan kaldırabilir.[^k2]
 
 ## İki yakanın farkı
 
@@ -189,7 +186,7 @@ Birlik dönemi, iki yaka arasındaki insan ve metin hareketini
 artırdı.[^k3] Kuzeyden güneye mimari ve yazı gelenekleri, güneyden
 kuzeye askerî örgütlenme biçimleri geçti.
 
-Bu tür geçişler tek yönlü değildir.[^k2] Atlas bu nedenle "etki"
+Bu tür geçişler tek yönlü değildir.[^k2] Korpus bu nedenle "etki"
 sözcüğünü tek yönlü kullanmaz.
 
 Geçişin ölçülmesi zordur.[^k4] Hangi unsurun hangi yönde ve ne zaman
@@ -203,7 +200,7 @@ hareket, aynı çöl kenarı bölgesinden çıktı.
 Çöküş, dış bir istiladan çok iç bir yer değiştirmedir.[^k2] Aynı
 coğrafyadan çıkan iki hareket art arda aynı alanı yönetti.
 
-Bu, atlasın Kuzey Afrika dosyalarında tekrar eden bir örüntüdür.[^k4]
+Bu, korpusun Kuzey Afrika dosyalarında tekrar eden bir örüntüdür.[^k4]
 Çöl kenarı, siyasi hareketlerin tekrar tekrar çıktığı bir kuşaktır.
 
 ## Örüntünün açıklaması
@@ -214,8 +211,8 @@ farklı üretim düzeninin temas ettiği yerdir.
 Temas bölgeleri, hem kaynak hem çatışma yoğunluğunun yüksek olduğu
 yerlerdir.[^k1] Askerî örgütlenme burada hem gerekli hem mümkündür.
 
-Atlas bu açıklamayı bir kural olarak sunmaz.[^k4] Bölgeye özgü olarak
-ölçülmüş bir örüntüdür ve başka kuşaklarda ayrıca sınanmalıdır.
+Bölgeye özgü olarak ölçülmüş bir örüntüdür
+ve başka kuşaklarda ayrıca sınanmalıdır.[^k4]
 
 ## Kervan düzeninin işleyişi
 
@@ -225,8 +222,8 @@ tek bir halkasının denetimi, bütün güzergâhı denetlemeye yeter.
 Bu, çöl siyasetinin ölçeğini de belirler.[^k1] Geniş bir alana yayılmak
 gerekmez; sayılı noktayı tutmak yeterlidir.
 
-Atlas bu örüntüyü ayrıca kaydeder.[^k4] Noktasal denetime dayanan
-düzenler, haritada göründüklerinden hem daha küçük hem daha güçlüdür.
+Noktasal denetime dayanan düzenler, haritada
+göründüklerinden hem daha küçük hem daha güçlüdür.[^k4]
 
 ## Göçebe askerî örgütlenme
 
@@ -236,8 +233,8 @@ dayanıyordu.[^k1] Bu örgütlenme, uzun mesafeli hareket için elverişliydi.
 Aynı örgütlenme, yerleşik bölgelerin sürekli yönetimi için elverişli
 değildi.[^k2] Fetih ile yönetim farklı yetenekler gerektirir.
 
-Atlas bu ayrımı bozkır dosyalarında da ölçmüştü.[^k4] Örüntü çöl kenarı
-düzenlerinde de aynı biçimde görülür.
+Örüntü çöl kenarı düzenlerinde de aynı biçimde
+görülür.[^k4]
 
 ## Şehirlerin kurulması
 
@@ -247,8 +244,8 @@ güzergâhının kuzey ucu ile kıyı arasında konumlandı.
 Konum tercihi, hanedanın gelir yapısını doğrudan yansıtır.[^k1] Merkez,
 tarım bölgesinin ortasına değil ticaret hattının üzerine kuruldu.
 
-Atlas başkent konumlarını ayrıca izler.[^k4] Bir merkezin nereye
-kurulduğu, o düzenin neyi öncelediğini gösterir.
+Bir merkezin nereye kurulduğu, o düzenin neyi
+öncelediğini gösterir.[^k4]
 
 ## Hukuk ve öğretim
 
@@ -259,9 +256,8 @@ geliyordu.
 Uygulamanın bir sonucu ticari olabilir.[^k3] Aynı hukukun iki yakada da
 geçerli olması, uzun mesafeli sözleşmeleri kolaylaştırır.
 
-Atlas bu bağı bir iddia olarak değil bir olasılık olarak
-kaydeder.[^k2] Hukuk birliği ile ticaret hacmi arasındaki ilişki bu
-dönem için ölçülmemiştir.
+Hukuk birliği ile ticaret hacmi
+arasındaki ilişki bu dönem için ölçülmemiştir.[^k2]
 
 ## Adın kaynağı
 
@@ -271,16 +267,16 @@ addan gelir.[^k1] Ad, bir soyu değil bir kurumu işaret eder.
 Bu, hanedanın kendini nasıl tanımladığını gösterir.[^k4] Kimlik, bir
 hanedan çizgisine değil bir örgütlenme biçimine bağlanmıştır.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k2] Bir düzenin kendine verdiği ad,
-meşruiyetini nereye dayandırdığının en kısa göstergesidir.
+Bir düzenin kendine verdiği ad, meşruiyetini
+nereye dayandırdığının en kısa göstergesidir.[^k2]
 
 ## Kaynak durumu
 
-Bu dosyanın dört künyesinin dördü de ansiklopedi maddesidir.[^k1]
+Bu incelemenin dört künyesinin dördü de ansiklopedi maddesidir.[^k1]
 Birincil kaynak künyelenememiştir.
 
 Dönemin Arapça tarih ve coğrafya metinleri mevcuttur.[^k2]
-Doğrulanabilir çevrimiçi baskıları bu dosya yazıldığında
+Doğrulanabilir çevrimiçi baskıları bu inceleme yazıldığında
 bulunamamıştır.
 
 Eksik borç defterine yazılmıştır.[^k3] Dosya, birincil kaynağı olmayan
@@ -294,13 +290,12 @@ konuda örtüşmez.
 Askerî seferlerin ayrıntısı kapsam dışıdır.[^k3] Dosya yalnızca çölün
 bağlayıcılığına ve meşruiyet biçimine ilişkin olanı kaydeder.
 
-Hanedanın mimari mirası ayrı bir çalışma gerektirir.[^k2] Bu dosya
-yazıldığında atlasta bulunmuyordu; iki yakada da yapı bırakmış bir
+Hanedanın mimari mirası ayrı bir çalışma gerektirir.[^k2] Bu inceleme
+yazıldığında korpusta bulunmuyordu; iki yakada da yapı bırakmış bir
 düzenin mimari mirası, birliğin ne kadar derinleştiğine dair ölçülebilir
 bir gösterge sunabilir ve bu ölçüm yapılmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, çölün her zaman ve her yerde bağlayıcı olduğunu ileri
 sürmez.[^k4] Bağlayıcılık, üzerinde işleyen ulaşım düzenine bağlıdır ve
 o düzen kurulmadığında çöl gerçekten ayırır.
@@ -311,8 +306,7 @@ Güneydeki düzenle ilişkinin niteliği de belirlenmez.[^k2] Kaynaklar
 Meşruiyet biçimine ilişkin gözlem iki örnekle sınırlıdır.[^k1] İki
 örnekten kural çıkarılamaz.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Çölün güneyindeki düzenler için
 [Gana İmparatorluğu](/aktor/gana-imparatorlugu/),
 [Mali İmparatorluğu](/aktor/mali-imparatorlugu/) ve

@@ -49,8 +49,8 @@ salgınları için çerçeveler bölümleri gelir.[^k1]
 ## Salgın ilan etmek bir eşik kararıdır
 
 Tanımın altında parametrelerin ayrı bir alt başlık olarak tutulması ve grip
-salgınları için ayrı çerçevelerin sayılması,[^k1] atlasın şu kuralının
-dayanağıdır: bu atlasta bir olayın salgın sayılması, hangi çerçevenin
+salgınları için ayrı çerçevelerin sayılması,[^k1] korpusun şu kuralının
+dayanağıdır: bu korpusta bir olayın salgın sayılması, hangi çerçevenin
 kullanıldığı belirtilerek kaydedilir.
 
 ## Etik ve siyasi meseleler ayrı bir alt başlıktır
@@ -59,7 +59,7 @@ Kaynak, önleme ve hazırlık başlığı altında etik ve siyasi meseleleri ayr
 başlık olarak tutar.[^k1]
 
 Bir sağlık kavramının maddesinde siyasi meselelerin ayrı bir başlık taşıması,
-[^k1] atlasın salgın dosyalarını neden siyasi eksene de bağladığının
+[^k1] korpusun salgın dosyalarını neden siyasi eksene de bağladığının
 dayanağıdır.
 
 ## Kayda değer örnekler ayrı bir bölümdür
@@ -74,7 +74,7 @@ tarihler.[^k1] O örnek
 Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1400 yılında
 yaklaşık 442,3 milyondur.[^k2]
 
-Atlas bu iki değeri bir salgın ölüm sayısı olarak sunmaz; seri toplam nüfusu
+Korpus bu iki değeri bir salgın ölüm sayısı olarak sunmaz; seri toplam nüfusu
 verir, ölüm nedenini vermez.[^k1][^k2]
 
 
@@ -86,9 +86,8 @@ nüfus yoğunluğu ve bağlantı.
 Üçü birlikte gerekir.[^k2] Bulaşıcı bir etken, dağınık ve bağlantısız
 bir nüfusta kendi kendini sınırlar.
 
-Atlas bu bağı kavramın merkezine koyar.[^k3] Salgın bir hastalık
-özelliği değil, hastalık ile yerleşim düzeninin
-kesişimidir.
+Salgın bir hastalık özelliği değil,
+hastalık ile yerleşim düzeninin kesişimidir.[^k3]
 
 ## Yerleşiklikle bağı
 
@@ -99,21 +98,20 @@ mümkün kıldı.
 Toplayıcı gruplarda bu ölçekte salgın
 sürdürülemez.[^k2] Etken taşıyacak yeterli nüfus yoktur.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Salgın, tarımın ve yerleşikliğin
-doğrudan bir sonucudur.
+Salgın, tarımın ve yerleşikliğin
+doğrudan bir sonucudur.[^k3]
 
 ## Ağın taşıyıcılığı
 
-Salgınlar ticaret yollarını izler.[^k3] Atlasın birçok dosyasında aynı
+Salgınlar ticaret yollarını izler.[^k3] Korpusun birçok dosyasında aynı
 örüntü kayıtlıdır.
 
 Bağlantının artması, taşınan her şeyin hızını
 artırır.[^k1] Mal ve hastalık aynı yolu
 kullanır.
 
-Atlas bu ölçümü tekrar eden bir bulgu sayar.[^k2] Bir dönemin
-bağlantı yoğunluğu, o dönemin salgın riskinin doğrudan
-göstergesidir.
+Bir dönemin bağlantı yoğunluğu, o
+dönemin salgın riskinin doğrudan göstergesidir.[^k2]
 
 ## Kaydın sorunu
 
@@ -125,9 +123,8 @@ Genetik çalışmalar bazı örneklerde etkeni
 tanımlayabildi.[^k1] Bu, yazılı kayıttan bağımsız bir kanıt
 kaynağıdır.
 
-Atlas iki kanıt türünü birlikte kullanır.[^k2] Bir belirti anlatısının
-bugünkü bir adla eşleştirilmesi, bağımsız kanıt olmadan bir
-varsayımdır.
+Bir belirti anlatısının
+bugünkü bir adla eşleştirilmesi, bağımsız kanıt olmadan bir varsayımdır.[^k2]
 
 ## Ölü sayısı sorunu
 
@@ -139,8 +136,8 @@ Kayıt, ölümü çoğu zaman salgın kategorisinde
 tutmaz.[^k3] Açlık ve ikincil hastalıklar ayrı sayılabilir ya da
 birleştirilebilir.
 
-Atlas bu yüzden tek bir sayı vermez.[^k1] Bir oranın paydası
-bilinmiyorsa, oranın kendisi de bilinmiyordur.
+Bir oranın paydası bilinmiyorsa,
+oranın kendisi de bilinmiyordur.[^k1]
 
 
 ## Tedbirin biçimi
@@ -152,8 +149,8 @@ dayanıyordu.
 Bu tedbirler işe yaradı.[^k2] Doğru bir tedbir, yanlış bir kuramla
 birlikte var olabilir.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Bir uygulamanın etkili olması,
-onu uygulayanların nedeni doğru bildiğini göstermez.
+Bir uygulamanın etkili olması, onu uygulayanların
+nedeni doğru bildiğini göstermez.[^k3]
 
 ## Suçlama örüntüsü
 
@@ -164,8 +161,8 @@ Bu, salgının doğrudan değil dolaylı bir
 sonucudur.[^k3] Belirsizlik ve korku, var olan ayrımları şiddete
 çevirir.
 
-Atlas bu örüntüyü ayrıca kaydeder.[^k2] Bir felaket, yeni ayrımlar
-üretmekten çok mevcut ayrımları sertleştirir.
+Bir felaket, yeni ayrımlar üretmekten çok
+mevcut ayrımları sertleştirir.[^k2]
 
 ## Eşitsiz etki
 
@@ -176,9 +173,8 @@ Bu, ölüm dağılımını meslek ve gelir gruplarına göre
 farklılaştırır.[^k1] Dağılım, salgının nedeni hakkında da bilgi
 verir.
 
-Atlas bu dağılımı ölçüm sayar.[^k3] Bir felaketin kimleri vurduğu,
-felaketin yayılma mekanizması hakkında doğrudan bilgi
-verir.
+Bir felaketin kimleri vurduğu,
+felaketin yayılma mekanizması hakkında doğrudan bilgi verir.[^k3]
 
 ## Kurumsal sonuç
 
@@ -190,11 +186,10 @@ Kurumlar salgın geçtikten sonra da kaldı.[^k3] Olağanüstü koşullarda
 kurulan kapasite, koşullar geçince tümüyle geri
 çekilmez.
 
-Atlas bu örüntüyü ayrıca kaydeder.[^k2] Aynı bulgu atlasın savaş
-dönemleri dosyalarında da kayıtlıdır.
+Aynı bulgu korpusun savaş dönemleri
+dosyalarında da kayıtlıdır.[^k2]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Yönetim stratejileri, çerçevelerin içeriği ve örneklerin ayrıntısı burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

@@ -55,13 +55,13 @@ onarim_turu: 0
 ## Nerede durduğu
 
 Maldiv Sultanlığı, Hint Okyanusu'nun ortasında, kıtalardan uzak bir
-takımadada kurulmuş siyasi birimdir.[^k1][^k3] Atlasın bölge şemasında Güney
+takımadada kurulmuş siyasi birimdir.[^k1][^k3] Korpusun bölge şemasında Güney
 Asya, İslam dünyası ve Afrika etiketlerini birden taşır.
 
 Üç bölge etiketi taşımasının sebebi coğrafya değil ekonomidir.[^k1] Adaların
 ürettiği mal, üç bölgede birden dolaşımdaydı ve adaları hepsine bağlıyordu.
 
-Bu dosyanın ayırt edici yanı budur. Toprağı, madeni ve tarımı olmayan bir
+Bu incelemenin ayırt edici yanı budur. Toprağı, madeni ve tarımı olmayan bir
 düzenin, kendisinden çok uzaktaki ekonomilerin işleyişine doğrudan katkı
 yapmasıdır.[^k3]
 
@@ -75,7 +75,7 @@ Bir malın para olarak iş görmesi için üç şart gerekir: bölünebilir olma
 taşınabilir olması ve çoğaltılamaması.[^k1] Kabuk üçünü de sağlıyordu; taklit
 edilemiyordu çünkü tek bir yerde doğal olarak bulunuyordu.
 
-Atlasın [Para](/kavram/para/) dosyası bu kavramı genel biçimiyle ele alır.
+Korpusun [Para](/kavram/para/) dosyası bu kavramı genel biçimiyle ele alır.
 Burada somut hâli, bir para biriminin arzını tek bir küçük siyasi düzenin
 elinde tutmasıdır.[^k3]
 
@@ -88,7 +88,7 @@ Aradaki fark önemlidir. Üretici, malının uzaktaki değerini bilmediği süre
 o değerin büyük bölümü taşıyanda kalır;[^k3] adalar bir hammadde
 kaynağıydı, bir finans merkezi değil.
 
-Bu, atlasın başka bölgelerinde de kaydettiği bir yapıdır.[^k1] Değerli bir
+Bu, korpusun başka bölgelerinde de kaydettiği bir yapıdır.[^k1] Değerli bir
 kaynağı elinde tutan bir düzenin zengin olması, ancak dağıtım ağını da
 denetlemesiyle mümkündür.
 
@@ -107,7 +107,7 @@ sağlıyordu.
 
 ## İçeriden bir tanık kaydı
 
-Bu dosyanın birincil kaynağı olağandışıdır: gözlemci adalarda yalnızca
+Bu incelemenin birincil kaynağı olağandışıdır: gözlemci adalarda yalnızca
 konaklamamış, bir süre yargı görevi yapmıştır.[^k3] Bu, kayda dışarıdan bir
 gezgin anlatısının veremeyeceği bir ayrıntı düzeyi kazandırır.
 
@@ -122,14 +122,14 @@ gerginliklerdir.
 
 ## Görevlinin kaydının değeri
 
-Atlas bu tür kayıtları ayrı bir kategori olarak tutar.[^k3] Bir yerde
-görev yapmış kişinin kaydı, o yerin işleyişi hakkında bir gezginden fazla
-şey söyler ama kendi görevinin çerçevesiyle sınırlıdır.
+Bir yerde görev yapmış
+kişinin kaydı, o yerin işleyişi hakkında bir gezginden fazla şey söyler ama kendi
+görevinin çerçevesiyle sınırlıdır.[^k3]
 
 Gezgin neyi tuhaf bulduğunu yazar; görevli neyi düzeltmek istediğini
 yazar.[^k3] İkisi de bir tercihtir ve ikisi de kaydın kapsamını belirler.
 
-Bu ayrım, atlasın tanık kayıtlarını okuma biçimini belirler.[^k1] Kaydın
+Bu ayrım, korpusun tanık kayıtlarını okuma biçimini belirler.[^k1] Kaydın
 hangi konumdan tutulduğu, künyede `birincil_tur` alanıyla işaretlenir ama
 kaydın çerçevesi metinde ayrıca anlatılmalıdır.
 
@@ -144,9 +144,9 @@ olması, kaydın güvenilirliğini artıran bir işarettir.[^k3] Kişinin
 onaylamadığı bir şeyi aktarması, aktarımı çıkarına göre şekillendirmediğini
 gösterir.
 
-Atlas bu ölçütü genel olarak kullanır.[^k1] Bir kaydın taraflılığı, taraflı
-olmayan bölümlerini geçersiz kılmaz; hangi bölümün hangi yönde çarpıtılmış
-olabileceği ayrı ayrı değerlendirilir.
+Bir kaydın taraflılığı, taraflı
+olmayan bölümlerini geçersiz kılmaz; hangi bölümün hangi yönde çarpıtılmış olabileceği
+ayrı ayrı değerlendirilir.[^k1]
 
 ## Coğrafyanın kurduğu savunma
 
@@ -158,7 +158,7 @@ Savunma böylece surla değil bilgiyle sağlanır.[^k3] Geçitlerin bilgisi
 adalılardadır ve bu bilgi paylaşılmadığı sürece dışarıdan bir donanmanın
 manevra alanı dardır.
 
-Aynı mantık atlasın öteki dosyalarında da görülür.[^k1] Bir bilginin kasten
+Aynı mantık korpusun öteki dosyalarında da görülür.[^k1] Bir bilginin kasten
 saklanması, o bilginin stratejik değerinin kaydıdır ve aynı zamanda kayıt
 boşluklarının sebeplerinden biridir.
 
@@ -172,7 +172,7 @@ Kaynaklarda adaların bölgelere ayrıldığı ve her bölgenin kendi görevlisi
 tarafından yönetildiği kaydedilir.[^k3] Merkez, vergi ve yargı yoluyla
 bağlantıyı sürdürür.
 
-Böyle bir düzende merkezin gücü, ulaşımın hızıyla sınırlıdır.[^k1] Atlasın
+Böyle bir düzende merkezin gücü, ulaşımın hızıyla sınırlıdır.[^k1] Korpusun
 kara imparatorlukları için kaydettiği aynı sınır, burada deniz mesafesiyle
 ölçülür.
 
@@ -182,12 +182,11 @@ Adalarda toplanan kabuk, Batı Afrika'daki pazarlarda da ödeme aracı olarak
 kullanılıyordu.[^k1] İki bölge arasında doğrudan bir bağlantı yoktu; kabuk
 aracılar zinciriyle taşınıyordu.
 
-Bu, atlasın kaydettiği en uzun mal zincirlerinden biridir.[^k1] Bir okyanus
+Bu en uzun mal zincirlerinden biridir.[^k1] Bir okyanus
 ortasındaki adadan çıkan bir kabuğun, başka bir kıtadaki bir pazarda fiyat
 belirlemesi, ağın ne kadar geniş olduğunun kanıtıdır.
 
-Zincirin sonucu, atlasın [Gana İmparatorluğu](/aktor/gana-imparatorlugu/)
-dosyasıyla kesişir.[^k1] Batı Afrika'daki ticaret düzeninin para birimlerinden
+Zincirin sonucu, [Gana İmparatorluğu](/aktor/gana-imparatorlugu/) incelemesiyle kesişir.[^k1] Batı Afrika'daki ticaret düzeninin para birimlerinden
 birinin kaynağı bu adalardır.
 
 ## Arz artışının sonucu
@@ -196,13 +195,12 @@ Sonraki yüzyıllarda Avrupa gemilerinin kabuğu büyük miktarlarda taşımaya
 başlaması, uzak pazarlarda arzı artırdı.[^k1] Artan arz, kabuğun satın alma
 gücünü düşürdü.
 
-Bu, atlasın kaydettiği en açık para arzı örneklerinden biridir.[^k1] Bir para
+Bu en açık para arzı örneklerinden biridir.[^k1] Bir para
 biriminin değeri, onu üretenin iradesinden bağımsız olarak, taşıyan tarafın
 hacmini artırmasıyla düşebilir.
 
-Atlasın [Para](/kavram/para/) dosyası bu mekanizmayı genel biçimiyle
-tanımlar.[^k1] Burada somut hâli, üreticinin kendi para biriminin değerini
-koruyamamasıdır.
+Burada somut hâli, üreticinin kendi para
+biriminin değerini koruyamamasıdır.[^k1]
 
 ## Din değişiminin kaydı
 
@@ -212,12 +210,11 @@ kararıyla tamamlanır.
 
 ::tartismali[Bu anlatının tarihsel bir olay kaydı mı yoksa sonradan
 oluşturulmuş bir kuruluş anlatısı mı olduğu tartışmalıdır; benzer yapıdaki
-anlatılar bölgedeki başka adalarda da kaydedilmiştir. Atlas bir sonuca
+anlatılar bölgedeki başka adalarda da kaydedilmiştir. Korpus bir sonuca
 bağlanmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
-Atlas anlatıyı bir olgu olarak değil, adaların kendi dönüşümünü nasıl
-anlattığının kaydı olarak tutar.[^k3] İki kullanım arasındaki fark, kaydın
-nereye kadar dayandığını belirler.
+İki kullanım arasındaki fark,
+kaydın nereye kadar dayandığını belirler.[^k3]
 
 ## Komşuyla ilişki
 
@@ -225,7 +222,7 @@ En yakın büyük komşu, kuzeydoğudaki adadır ve iki düzen arasında sürekl
 bir alışveriş bulunuyordu.[^k2] Ticaret, evlilik ve zaman zaman askerî
 baskı kaydedilir.
 
-Küçük bir düzenin büyük bir komşuyla ilişkisi, atlasın tekrar eden
+Küçük bir düzenin büyük bir komşuyla ilişkisi, korpusun tekrar eden
 konularından biridir.[^k2] Burada belirleyici olan, adaların komşusuna
 ihtiyaç duyduğu malların sınırlı olmasıdır.
 
@@ -235,8 +232,8 @@ zorunda olduğunu belirler.
 
 ## Kaynak durumu
 
-Bu dosya üç kaynağa dayanır ve biri birincildir.[^k3] Birincil kaynak,
-adalarda görev yapmış bir gözlemcinin kaydıdır ve bu dosyanın omurgasını
+Bu inceleme üç kaynağa dayanır ve biri birincildir.[^k3] Birincil kaynak,
+adalarda görev yapmış bir gözlemcinin kaydıdır ve bu incelemenin omurgasını
 oluşturur.
 
 Adaların kendi yazılı kayıtlarının doğrulanabilir, tam metin bir baskısı bu
@@ -257,48 +254,44 @@ Ada nüfusları özel bir güçlük taşır. Yerleşim yüzlerce ada arasında
 dağılmıştır ve hiçbir gözlemci hepsini görmemiştir;[^k3] verilen sayılar bir
 kesitten bütüne genellemedir.
 
-Atlas bu yüzden bu dosyada bir nüfus rakamı vermez.[^k1] Değerlendirmeler
-sayılara değil, kayıtların ortak vurgusuna dayanır.
+Değerlendirmeler sayılara değil,
+kayıtların ortak vurgusuna dayanır.[^k1]
 
-## Atlastaki yeri
-
-Bu dosya, atlasın aktör katmanında en küçük yüzölçümlü siyasi birimi
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun aktör katmanında en küçük yüzölçümlü siyasi birimi
 kaydeder.[^k1] Dosyanın gerekçesi büyüklük değil bağlantıdır.
 
-Adalar, atlasın üç ayrı bölge dosyasını birbirine bağlar: Güney Asya'daki
+Adalar, korpusun üç ayrı bölge dosyasını birbirine bağlar: Güney Asya'daki
 komşusunu, Doğu Afrika kıyısını ve Batı Afrika'daki ticaret düzenini.[^k1]
 Bu bağı başka hiçbir dosya kurmaz.
 
 Bir dosyanın değeri yalnızca anlattığı konunun büyüklüğüyle
-ölçülmez.[^k2] Atlasta bir dosya, kurduğu bağlarla da iş görür.
+ölçülmez.[^k2] Korpusta bir dosya, kurduğu bağlarla da iş görür.
 
-## Bu dosyanın kapsamadıkları
-
-Sultanlığın hükümdar listesi ve hanedan tarihi burada verilmez.[^k1] Atlasın
+## Açıkta kalan sorular
+Sultanlığın hükümdar listesi ve hanedan tarihi burada verilmez.[^k1] Korpusun
 aktör dosyaları bir düzenin nasıl işlediğini anlatır.
 
 Adaların Avrupa devletleriyle sonraki ilişkileri ve sömürge dönemi de kapsam
 dışıdır.[^k2] Ayrı dosyalar gerektirir.
 
 Kabuk ticaretinin Batı Afrika'daki etkisinin ayrıntısı burada
-işlenmez.[^k1] Bu, atlasın Afrika dosyalarının konusudur ve burada yalnızca
+işlenmez.[^k1] Bu, korpusun Afrika dosyalarının konusudur ve burada yalnızca
 işaret edilir.
 
-## Küçük düzenlerin atlasta temsili
+## Küçük düzenlerin korpusta temsili
 
-Atlasın aktör katmanı, doğal olarak büyük siyasi birimlere doğru
-eğilimlidir.[^k1] Büyük düzenler daha çok kayıt bırakır, daha çok
-araştırılır ve daha kolay bulunur.
+Büyük düzenler daha çok kayıt bırakır, daha çok
+araştırılır ve daha kolay bulunur.[^k1]
 
-Bu eğilim düzeltilmezse atlas, geçmişi yalnızca büyük devletlerden oluşan
+Bu eğilim düzeltilmezse korpus, geçmişi yalnızca büyük devletlerden oluşan
 bir manzara olarak gösterir.[^k2] Oysa dönemin ekonomisi, küçük ve uzmanlaşmış
 düzenlerin katkısı olmadan işlemezdi.
 
-Bu dosya o düzeltmenin bir örneğidir.[^k1] Küçük bir düzenin atlasa girme
+Bu inceleme o düzeltmenin bir örneğidir.[^k1] Küçük bir düzenin korpusa girme
 gerekçesi, kendi büyüklüğü değil, büyük düzenlerin işleyişindeki payıdır.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Adaların bağlı olduğu deniz ağı için
 [Hint Okyanusu ticareti](/kavram/hint-okyanusu-ticareti/), ürettikleri malın
 işlevi için [Para](/kavram/para/) dosyaları okunmalıdır.

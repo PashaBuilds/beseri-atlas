@@ -46,7 +46,7 @@ onarim_turu: 0
 
 Asya–Afrika Konferansı 18–24 Nisan 1955 tarihleri arasında Endonezya'nın Bandung
 şehrinde toplandı; 304 temsilci katıldı ve başkanlığını Endonezya Dışişleri Bakanı
-Ruslan Abdulgani yaptı.[^k1] Bu dosya, konferansın **ne başlattığını** ele alır.
+Ruslan Abdulgani yaptı.[^k1] Bu inceleme, konferansın **ne başlattığını** ele alır.
 
 ## Toplantının somut verileri
 
@@ -88,8 +88,7 @@ Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yakl
 kullanılan kaynaklarda bulunmadığı için bu değerler içindeki pay burada
 hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Konferansın bildirisinin içeriği, katılımcı ülkelerin tek tek konumları,
 tartışmaların seyri ve Amerika Birleşik Devletleri'nin sürece dahli burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]

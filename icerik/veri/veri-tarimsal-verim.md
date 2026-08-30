@@ -55,9 +55,9 @@ biter.[^k1]
 ## Veri kümesi birden çok ürün taşır
 
 Veri kümesinin başlık satırı aynı dosyada birden çok ürün için verim sütunu
-tutar; bu dosya yalnızca ilk sütunu, buğday verimini kaydeder.[^k1]
+tutar; bu inceleme yalnızca ilk sütunu, buğday verimini kaydeder.[^k1]
 
-Bir dosyada birden çok ölçünün bulunması,[^k1] atlasın şu kuralının dayanağıdır:
+Bir dosyada birden çok ölçünün bulunması,[^k1] korpusun şu kuralının dayanağıdır:
 hangi sütunun alındığı hem lisans dosyasında hem gövdede belirtilir. Aksi hâlde
 "tarımsal verim" ifadesi hangi ürünü kastettiği belirsiz kalır.
 
@@ -67,7 +67,7 @@ Gıda arzı üzerine bir model için tutulan kayıt, nüfus artışının potans
 üstel, gıda arzının ya da diğer kaynakların büyümesinin ise doğrusal olduğunu öne
 sürer.[^k2]
 
-Verimin altmış üç yılda üç katından fazla artması,[^k1][^k2] atlas tarafından o
+Verimin altmış üç yılda üç katından fazla artması,[^k1][^k2] korpus tarafından o
 modelin çürütülmesi olarak sunulmaz: model bir kaynak kısıtı önerir, seri ise
 yalnızca birim alan verimini verir ve ekilen alanı vermez. Model
 [Malthus tuzağı](/kavram/malthus-tuzagi/) dosyasında, dönemin dönüşümü ise
@@ -78,12 +78,11 @@ yalnızca birim alan verimini verir ve ekilen alanı vermez. Model
 Uzun dönemli nüfus serisinde sağlayıcının toplam satırı 1960 için yaklaşık 3,03
 milyar, 2020 için yaklaşık 7,84 milyar verir.[^k3]
 
-Atlas iki seriyi bölerek kişi başına gıda üretimi üretmez; verim birim alan
-başınadır, nüfus ise kişi sayısıdır ve ekilen alan bu dosyada
+Korpus iki seriyi bölerek kişi başına gıda üretimi üretmez; verim birim alan
+başınadır, nüfus ise kişi sayısıdır ve ekilen alan bu incelemede
 bulunmaz.[^k1][^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Diğer ürünler, ülke ülke verimler ve girdi kullanımı burada ayrı başlıklar
-altında ele alınmamıştır; bu dosya yalnızca sağlayıcının toplam satırındaki
+altında ele alınmamıştır; bu inceleme yalnızca sağlayıcının toplam satırındaki
 buğday sütununu kaydeder.[^k1]

@@ -61,9 +61,9 @@ olabilir ya da hiç olmayabilir.
 Kuralın varlığı, uygulanacağını göstermez.[^k1] Uygulanıp
 uygulanmadığı ayrı bir veridir.
 
-Atlas bu ikisini ayrı ayrı izler.[^k3] **Bir ölümün geçiş mi kriz mi
-olacağını belirleyen şey, kuralın adaleti değil, tarafların kurala
-uymaktan kârlı çıkıp çıkmadığıdır.**
+**Bir ölümün geçiş mi kriz mi olacağını
+belirleyen şey, kuralın adaleti değil, tarafların kurala uymaktan kârlı çıkıp
+çıkmadığıdır.**[^k3]
 
 ## Başlıca biçimler
 
@@ -85,8 +85,8 @@ Bu biçim çoğu zaman kural yokluğu sayılır.[^k2] Oysa kendi kuralları
 vardır: kimlerin aday sayıldığı ve yarışın hangi noktada bittiği
 bellidir.
 
-Atlas bu biçimi ayrı bir tür sayar.[^k3] Belirsiz bir sonuç, kuralsız
-bir süreç anlamına gelmez.
+Belirsiz bir sonuç, kuralsız bir süreç anlamına
+gelmez.[^k3]
 
 ## Temel değiş tokuş
 
@@ -96,8 +96,8 @@ ama yetersiz bir kişiyi başa getirebilir.
 Açık yarış, yetkin olanı seçme ihtimalini artırır.[^k1] Karşılığında
 her geçişte bir iç savaş maliyeti doğurur.
 
-Atlas bu değiş tokuşu ölçülebilir sayar.[^k3] Bir hanedanda kaç
-geçişin çekişmeli olduğu sayılabilir ve biçimle karşılaştırılabilir.
+Bir hanedanda kaç geçişin çekişmeli
+olduğu sayılabilir ve biçimle karşılaştırılabilir.[^k3]
 
 ## Aday sayısının etkisi
 
@@ -108,8 +108,8 @@ Aday sayısını azaltan düzenlemeler bu yüzden yaygındır.[^k2] Rakip
 adayların dışlanması, uzak tutulması ya da yetkisizleştirilmesi
 bunlar arasındadır.
 
-Atlas bu ölçütü başka dosyalarında da kullanır.[^k3] Seçenek sayısı,
-hem özerkliğin hem de veraset istikrarının ortak değişkenidir.
+Seçenek sayısı, hem özerkliğin hem
+de veraset istikrarının ortak değişkenidir.[^k3]
 
 ## Kadınların konumu
 
@@ -120,8 +120,8 @@ gelir.
 Kural, evlilik siyasetini de belirler.[^k1] Kadın yoluyla geçiş
 mümkünse, evlilik bir toprak ve taht aktarım aracına dönüşür.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Miras hukuku ile siyasi veraset
-farklı kurallara tabi olabilir; ikisi ayrı ayrı izlenmelidir.
+Miras hukuku ile siyasi veraset farklı
+kurallara tabi olabilir; ikisi ayrı ayrı izlenmelidir.[^k3]
 
 ## Kurumsallaşmanın etkisi
 
@@ -131,9 +131,8 @@ kurumlara dağıldığında aynı ölüm bir prosedüre dönüşür.
 Bu, veraset sorununun en kalıcı çözümüdür.[^k2] Kişi değişse de
 işleyiş sürer.
 
-Atlas bu dönüşümü ayrıca izler.[^k3] Bir düzenin ne kadar
-kurumsallaştığı, hükümdar ölümlerinin yarattığı kesintinin süresinden
-okunabilir.
+Bir düzenin ne kadar kurumsallaştığı, hükümdar
+ölümlerinin yarattığı kesintinin süresinden okunabilir.[^k3]
 
 ## Kaydın üzerindeki etkisi
 
@@ -143,9 +142,8 @@ yazılı olarak gerekçelendirir.
 Sorunsuz geçişler az iz bırakır.[^k2] Kayıt kısa bir bildirimden
 ibaret kalabilir.
 
-Atlas bu dengesizliği ayrıca kaydeder.[^k3] Kaynakların çekişmeli
-geçişlerle dolu olması, geçişlerin çoğunun çekişmeli olduğunu
-göstermez.
+Kaynakların çekişmeli geçişlerle dolu
+olması, geçişlerin çoğunun çekişmeli olduğunu göstermez.[^k3]
 
 ## Meşruiyetle ilişkisi
 
@@ -155,9 +153,9 @@ geçiş, ayrıca gerekçelendirilmeye ihtiyaç duymaz.
 Kural dışı bir geçiş ise gerekçe üretmek zorundadır.[^k2] Bu gerekçe
 çoğu zaman yeni bir kuruluş anlatısı biçimini alır.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Bir hanedanın kendi kökeni
-hakkında ürettiği anlatının yoğunluğu, geçişin ne kadar tartışmalı
-olduğunun dolaylı göstergesidir.
+Bir hanedanın kendi kökeni hakkında
+ürettiği anlatının yoğunluğu, geçişin ne kadar tartışmalı olduğunun dolaylı
+göstergesidir.[^k3]
 
 ## Kuralın değişmesi
 
@@ -167,8 +165,8 @@ değiştirildikleri sık görülür.
 Değişiklik çoğu zaman belirsizliği azaltmayı hedefler.[^k2] Yeni kural,
 bir önceki krizin tekrarını önlemek üzere yazılır.
 
-Atlas bu tepkiselliği ayrıca kaydeder.[^k3] Bir kuralın metni, onu
-doğuran krizin izini taşır ve o krizle birlikte okunmalıdır.
+Bir kuralın metni, onu doğuran krizin
+izini taşır ve o krizle birlikte okunmalıdır.[^k3]
 
 ## Ölçüt
 
@@ -181,19 +179,17 @@ biliniyor olup olmadığıdır.
 Üçüncüsü en kolay ölçülenidir.[^k3] Yetkinin boşta kaldığı süre,
 kuralın fiilen işleyip işlemediğinin doğrudan göstergesidir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, tek tek hanedanların veraset tarihini vermez.[^k1] Her biri
 kendi dosyasında ele alınır.
 
 Miras hukukunun kendisi burada çözümlenmez.[^k3] Mülkiyetin devriyle
 yetkinin devri farklı kurallara tabidir ve karıştırılmamalıdır.
 
-Seçim yoluyla belirlenen modern yönetimler bu dosyanın konusu
+Seçim yoluyla belirlenen modern yönetimler bu incelemenin konusu
 değildir.[^k2] Aradaki bağ gerçektir ama ayrı bir çalışma gerektirir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Kuralın meşruiyetle bağı için [Meşruiyet](/kavram/mesruiyet/),
 yetkinin kişide toplanması için
 [Patrimonyalizm](/kavram/patrimonyalizm/) dosyaları okunmalıdır.[^k1]

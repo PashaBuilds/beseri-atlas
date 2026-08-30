@@ -15,10 +15,11 @@ ilgili:
   - kavram-ilkel-birikim
   - kavram-donemlendirme
   - kavram-longue-duree
-  - kavram-kaynak-elestirisi
-  - kavram-kapitalizm
   - tartisma-feodalite-kavrami
   - dusunur-carr
+baglam:
+  - kavram-kaynak-elestirisi
+  - kavram-kapitalizm
   - dusunur-marx
 okuma_onerisi: []
 kaynaklar:

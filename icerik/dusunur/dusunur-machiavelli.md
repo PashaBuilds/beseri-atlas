@@ -15,9 +15,10 @@ ilgili:
   - dusunur-hobbes
   - olay-ronesans
   - tartisma-tarihsel-sayilar-nasil-okunur
-  - dusunur-locke
   - dusunur-clausewitz
   - kaynak-machiavelli-prens
+baglam:
+  - dusunur-locke
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -55,7 +56,7 @@ onarim_turu: 0
 
 Kaynak maddesine bir soruyla başlar: neden Machiavelli? Bir felsefe
 ansiklopedisinde onunla ilgili bir maddeye rastlayan herkesin bu soruyu doğal ve
-meşru biçimde sorabileceğini yazar.[^k1] Bu dosya, öğretisini değil **kategori
+meşru biçimde sorabileceğini yazar.[^k1] Bu inceleme, öğretisini değil **kategori
 sorununu** ele alır.
 
 ## Kendisini filozof saymamış görünür
@@ -65,7 +66,7 @@ felsefi soruşturmayı konu dışı sayarak açıkça reddettiğini yazar; nitel
 bakımından da standart akademik felsefe modellerine rahatça oturmadığını
 kaydeder.[^k1]
 
-::tartismali[Bir felsefe ansiklopedisi, maddesinin konusunun kendisini filozof saymadığını kendi ilk paragrafında yazıyor. Atlas bu gerilimi kategoriyi düzelterek çözmez; kaydeder.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bir felsefe ansiklopedisi, maddesinin konusunun kendisini filozof saymadığını kendi ilk paragrafında yazıyor. Korpus bu gerilimi kategoriyi düzelterek çözmez; kaydeder.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu tür kategori gerilimlerinin nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -76,7 +77,7 @@ haritasında ele alınıyor.
 Kaynak yazılarını çileden çıkaracak ve herkesçe bilinir ölçüde sistemsiz ve
 tutarsız olarak niteler.[^k1]
 
-Bir külliyatın sistemsizliğinin maddenin kendisinde belirtilmesi,[^k1] atlasın bu
+Bir külliyatın sistemsizliğinin maddenin kendisinde belirtilmesi,[^k1] korpusun bu
 dosyada neden tek bir tez cümlesi kurmadığını açıklar: kaynak zaten böyle bir
 cümlenin kurulamayacağını söylemektedir.
 
@@ -94,7 +95,7 @@ kendisinden değil sonraki düzenlemelerden geldiğini gösterir; aynı örünt�
 
 Kaynak biyografi bölümünü, hakkında görece az şey bilindiği kaydıyla açar.[^k1]
 
-Bu, atlasın düşünür dosyalarında tekrar eden bir durumdur ve
+Bu, korpusun düşünür dosyalarında tekrar eden bir durumdur ve
 [Fârâbî](/dusunur/farabi/) ile [Kautilya](/dusunur/kautilya/) dosyalarında da
 görülür.
 
@@ -107,7 +108,7 @@ neo-Romen siyaset kuramcısının onun cumhuriyetçilik sürümünden ilham ald�
 yazar.[^k1]
 
 Aynı yazarın hem prens hem cumhuriyet başlıkları altında okunabilmesi,[^k1]
-atlasın bu dosyayı neden tartışmalı olarak işaretlediğinin ikinci gerekçesidir.
+korpusun bu incelemeyi neden tartışmalı olarak işaretlediğinin ikinci gerekçesidir.
 
 ## Sonraki halka
 
@@ -116,13 +117,12 @@ Sonraki yüzyılın siyaset düşünürü için tutulan kayıt, onun bugünkü �
 [Thomas Hobbes](/dusunur/hobbes/) dosyasında, yazdığı dönem ise
 [Rönesans](/olay/ronesans/) dosyasında ele alınıyor.[^k2]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 *Prens*'in içeriği, virtù ve fortuna kavramları, *Söylevler* ve Batı düşüncesindeki
 yeri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1]
 
 ## Eserine bağ
 
-Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Hukumdar*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+Bu inceleme düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Hukumdar*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
 verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

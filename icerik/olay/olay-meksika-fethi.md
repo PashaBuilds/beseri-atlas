@@ -18,9 +18,10 @@ ilgili:
   - aktor-aztek-imparatorlugu
   - aktor-ispanyol-imparatorlugu
   - tartisma-kesif-mi-istila-mi
+  - dusunur-las-casas
+baglam:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - kavram-kaynak-elestirisi
-  - dusunur-las-casas
   - olay-amerikanin-kesfi
 okuma_onerisi: []
 kaynaklar:

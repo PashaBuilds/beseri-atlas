@@ -53,7 +53,7 @@ denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-Bu dosya imparatorluğu bir fetih dizisi olarak değil, bir **siyasi biçim** olarak
+Bu inceleme imparatorluğu bir fetih dizisi olarak değil, bir **siyasi biçim** olarak
 ele alır: bozkır örgütlenmesinin yerleşik devletleri yönetebilir hâle gelmesi ve
 bunun sınırları.
 
@@ -106,11 +106,11 @@ birbirini doğrudan gözlemleyebildiği ilk uzun dönemdir.
 
 Aynı dönemde dünya nüfusu 1000'de yaklaşık 323,5 milyondan 1300'de yaklaşık 456,2
 milyona çıktı.[^k3] Bağlantının artışıyla nüfusun artışı aynı yüzyıllara
-düşer; ikisi arasındaki nedensellik yönü bu dosyada iddia edilmez.
+düşer; ikisi arasındaki nedensellik yönü bu incelemede iddia edilmez.
 
 ## Sınırı
 
-Bu dosyanın kaynak tabanı ağırlıklı olarak imparatorluğun kendisi hakkındaki
+Bu incelemenin kaynak tabanı ağırlıklı olarak imparatorluğun kendisi hakkındaki
 genel referans maddesidir; ardıl hanlıkların her birinin iç yönetimi ayrı ayrı
 incelenmemiştir. Bu bir kapsam sınırıdır ve burada beyan edilir.
 

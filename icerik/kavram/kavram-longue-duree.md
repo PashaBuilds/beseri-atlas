@@ -62,14 +62,14 @@ saptandığı kaydedilir.[^k1]
 Katmanların içerikleriyle değil değişim hızlarıyla ayrılması,[^k1] kavramın bir
 konu sınıflandırması değil bir zaman ölçeği önerisi olduğunu gösterir.
 
-## Atlas bu kavramı bir yöntem olarak kullanır
+## Korpus bu kavramı bir yöntem olarak kullanır
 
-Bu atlasın on altı dönemlik kronolojik omurgası ile her olay dosyasının bir dönem
+Bu korpusun on altı dönemlik kronolojik omurgası ile her olay dosyasının bir dönem
 dosyasına bağlanması, aynı ayrımın uygulanmasıdır: olay tek başına bir açıklama
 sayılmaz. Kavramı öneren tarihçi
 [Fernand Braudel](/dusunur/braudel/) dosyasında ele alınıyor.[^k1]
 
-Atlas bu kullanımı bir doğruluk iddiası olarak değil bir düzenleme kararı olarak
+Korpus bu kullanımı bir doğruluk iddiası olarak değil bir düzenleme kararı olarak
 kaydeder; kaynak da kavramı bir yöntem tercihi olarak sunar.[^k1]
 
 ## Rakip bir yapısal tarih kurgusu
@@ -80,7 +80,7 @@ fikri etrafında kurulu bir tarih kuramını anlatır.[^k2] O kuram
 [Karl Marx](/dusunur/marx/) dosyasında ele alınıyor.
 
 İki kurgunun da olayların altında daha yavaş bir düzey araması,[^k1][^k2] soruyu
-paylaştıklarını gösterir; cevapları ayrıdır ve atlas aralarında seçim yapmaz.
+paylaştıklarını gösterir; cevapları ayrıdır ve korpus aralarında seçim yapmaz.
 
 ## Uzun dönemin veri karşılığı
 
@@ -91,8 +91,7 @@ Böyle bir serinin tek bir grafikte on iki bin yılı kapsayabilmesi,[^k3] kavra
 neden veri katmanında da bir karşılığı olduğunu gösterir: bazı büyüklükler ancak
 bu ölçekte görünür hâle gelir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kavramın Annales okulundaki gelişimi, eleştirileri ve sonraki tarih yazımındaki
 kullanımı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
 bölümler olarak işler.[^k1]

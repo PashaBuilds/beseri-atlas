@@ -44,7 +44,7 @@ onarim_turu: 0
 
 26 Nisan 1986'da, yerel saatle 01:23'te, Çernobil Nükleer Santrali'nin 4 numaralı
 reaktörü patladı; yer Pripyat yakını, Ukrayna Sovyet Sosyalist Cumhuriyeti,
-Sovyetler Birliği olarak kaydedilir.[^k1] Bu dosya, kazanın kendisini değil
+Sovyetler Birliği olarak kaydedilir.[^k1] Bu inceleme, kazanın kendisini değil
 **kaydının biçimini** ele alır.
 
 ## Kaza, duyurulmadan önce ölçüldü
@@ -54,7 +54,7 @@ Forsmark Nükleer Santrali'nin personeli radyoaktivitede tehlikeli bir artış
 saptadı; aynı gün 21:02'de Moskova televizyon haberleri bir kazanın meydana
 geldiğini duyurdu.[^k1]
 
-Ölçümün duyurudan yaklaşık on bir buçuk saat önce kaydedilmesi,[^k1] atlasın
+Ölçümün duyurudan yaklaşık on bir buçuk saat önce kaydedilmesi,[^k1] korpusun
 "kayıt" ile "olay" arasındaki farkı neden ayrı tuttuğunun en açık örneklerinden
 biridir: bir olayın bilinmesi, olduğu yerde başlamak zorunda değildir.
 
@@ -66,7 +66,7 @@ doları tahmini verilir.[^k1]
 
 Aynı kaynakta iki farklı maliyet sayısının bulunması,[^k1] bunların farklı şeyleri
 ölçtüğünü düşündürür; kaynak bu iki sayının kapsam farkını burada açıkça
-tanımlamaz, atlas da bir tanesini seçmez.
+tanımlamaz, korpus da bir tanesini seçmez.
 
 ## Kaynak kendi ifadesine şerh düşer
 
@@ -75,7 +75,7 @@ iki nükleer kazadan biri olarak kaydeder; diğeri Japonya'daki 2011 Fukuşima
 kazasıdır.[^k1]
 
 Aynı cümlenin devamındaki niteleme ise kaynağın kendi düzenleme işaretiyle
-şerhlidir.[^k1] Atlas bu şerhi silmez: bir kaydın kendi içindeki tereddüt,
+şerhlidir.[^k1] Korpus bu şerhi silmez: bir kaydın kendi içindeki tereddüt,
 kaydın parçasıdır.
 
 ## Kaza bir test sırasında oldu
@@ -99,8 +99,7 @@ Uzun dönemli seride dünya nüfusu 1986 için yaklaşık 4,96 milyardır.[^k3]
 Kazadan etkilenen nüfusa dair tek bir toplam ölçüm kullanılan kaynak bölümünde
 bulunmadığı için bu değer içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kazanın teknik seyri, tahliye, sağlık sonuçları, örtbas tartışmaları ve sonraki
 onlarca yıl burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
 bölümler olarak işler.[^k1] Dönemin bütünü [1945-1991](/donem/14/) dosyasında ele

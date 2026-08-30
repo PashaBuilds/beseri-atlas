@@ -50,8 +50,8 @@ müellifi Tahsin Görgün olarak kaydedilir.[^k1]
 
 ## Kavram bir konu değil bir ilim adıdır
 
-Kaynağın kavramı bir ilim olarak adlandırması,[^k1] atlasın şu kuralının
-dayanağıdır: bu dosyada umran, bir konu başlığı olarak değil bir inceleme alanı
+Kaynağın kavramı bir ilim olarak adlandırması,[^k1] korpusun şu kuralının
+dayanağıdır: bu incelemede umran, bir konu başlığı olarak değil bir inceleme alanı
 önerisi olarak anılır.
 
 ## Madde dört bölümden oluşur ve her bölümün ayrı müellifi vardır
@@ -60,7 +60,7 @@ Kaynak, maddenin dört bölümden oluştuğunu ve bölümlerin ayrı müellifler
 tarafından yazıldığını kaydeder; Ekonomi ve Toplum İlişkisi bölümünün müellifi
 İbrahim Erol Kozak, Literatür bölümünün müellifi Cengiz Tomar'dır.[^k1]
 
-Tek bir ansiklopedi maddesinin dört ayrı imzayı taşıması,[^k1] atlasın kaynak
+Tek bir ansiklopedi maddesinin dört ayrı imzayı taşıması,[^k1] korpusun kaynak
 alanında neden müellif notu tuttuğunun dayanağıdır: bir madde içinde bile
 yazarlık bölünebilir.
 
@@ -69,10 +69,9 @@ yazarlık bölünebilir.
 Kaynak, İbn Haldûn'un insanın varlığını devam ettirebilmesi için toplu hâlde
 yaşamak mecburiyetinde olduğunu belirttiğini yazar.[^k1]
 
-Atlas bu önermeyi bir olgu olarak değil, kaynağın aktardığı bir konum olarak
-taşır.[^k1] Kavramın kardeş kavramı
-[Asabiyet](/kavram/asabiyet/) dosyasında, düşünürün kendisi ise
-[İbn Haldûn](/dusunur/ibn-haldun/) dosyasında ele alınıyor.
+Kavramın kardeş kavramı [Asabiyet](/kavram/asabiyet/)
+dosyasında, düşünürün kendisi ise [İbn Haldûn](/dusunur/ibn-haldun/) dosyasında ele
+alınıyor.[^k1]
 
 ## Ortaçağ siyaset felsefesindeki yeri
 
@@ -86,11 +85,10 @@ katmanlara ayıran ve olayları en yüzeydeki katmana yerleştiren bir kurguyu
 anlatır.[^k3] O kurgu
 [Longue durée](/kavram/longue-duree/) dosyasında ele alınıyor.
 
-Atlas iki yaklaşım arasında bir öncüllük bağı kurmaz; kullanılan kaynak
+Korpus iki yaklaşım arasında bir öncüllük bağı kurmaz; kullanılan kaynak
 bölümlerinde böyle bir bağ belirtilmemiştir.[^k1][^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Umran ilminin içeriği, *Mukaddime*'nin yapısı ve sonraki alımlanması burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

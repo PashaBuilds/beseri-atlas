@@ -69,13 +69,13 @@ toprak kullanımında benzer kaynak kısıtlarıyla karşılaştığını savund
 yalnızca 1800'den sonra, doğal kömür varlıkları ve sömürge mülkleri edinmesi
 sonucunda Batı Avrupa'nın Asya'nın önüne geçmeye başladığını kaydeder.[^k1]
 
-Bir tezin önce eşitlik sonra ayrışma olarak iki kanada bölünmesi,[^k1] atlasın şu
-kuralının dayanağıdır: bu dosyada esere atfedilen önermeler, hangi tarihten önce
+Bir tezin önce eşitlik sonra ayrışma olarak iki kanada bölünmesi,[^k1] korpusun şu
+kuralının dayanağıdır: bu incelemede esere atfedilen önermeler, hangi tarihten önce
 ya da sonra için söylendiği belirtilerek aktarılır.
 
 ## Kaynak tartışmayı da kaydeder
 
-::tartismali[Kaynak, kitabın yoğun akademik tartışmaya konu olduğunu yazıyor. Atlas tezi bir sonuç olarak değil bir konum olarak taşır.]{harita=tartisma-bati-neden-yukseldi}
+::tartismali[Kaynak, kitabın yoğun akademik tartışmaya konu olduğunu yazıyor. Korpus tezi bir sonuç olarak değil bir konum olarak taşır.]{harita=tartisma-bati-neden-yukseldi}
 
 Tartışmanın kendisi
 [Batı neden yükseldi?](/tartisma/bati-neden-yukseldi/) haritasında, kavram ise
@@ -92,12 +92,10 @@ kapsamlı ve alışılmadık bir sürümünü geliştirdiğini yazar.[^k2] O yaz
 Uzun dönemli seride dünya nüfusu 1800 için yaklaşık 983,1 milyon, 1900 için
 yaklaşık 1,63 milyardır.[^k3]
 
-Atlas bu seriyi tezin kanıtı olarak sunmaz; seri dünya toplamını verir, tez ise
-bölgeler arası bir karşılaştırma yapar.[^k1][^k3] İlgili dönüşüm
-[Sanayi Devrimi](/olay/sanayi-devrimi/) dosyasında ele alınıyor.
+İlgili dönüşüm [Sanayi
+Devrimi](/olay/sanayi-devrimi/) dosyasında ele alınıyor.[^k1][^k3]
 
-## Okuma yönlendirmesi
-
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser teliflidir; atlas metninden alıntı yapmaz ve
+## Okumayı sürdürmek için
+Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir
+ansiklopedi maddesidir.[^k1] Eser teliflidir; korpus metninden alıntı yapmaz ve
 yalnızca hakkında yazılanı aktarır.

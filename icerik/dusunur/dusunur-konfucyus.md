@@ -60,10 +60,10 @@ denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-Kaynak tarihleri geleneksel kaydıyla verir: MÖ 551-479.[^k1] Bu dosya,
+Kaynak tarihleri geleneksel kaydıyla verir: MÖ 551-479.[^k1] Bu inceleme,
 öğretisini değil **kaydın kendi çekincelerini** ele alır.
 
-::tartismali[Kaynak tarihlerin başına "geleneksel" notunu koyar. Bu, tarihlerin ölçülmüş değil aktarılmış olduğunu söyler. Atlas notu silmez ve tarihleri kesinmiş gibi sunmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Kaynak tarihlerin başına "geleneksel" notunu koyar. Bu, tarihlerin ölçülmüş değil aktarılmış olduğunu söyler. Korpus notu silmez ve tarihleri kesinmiş gibi sunmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Tarih ve sayıların nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -76,7 +76,7 @@ Latinceleştirilmiş bir birleşimi olduğunu yazar; aynı adın geleneksel Doğ
 toplumunun farklı yönleri için küresel bir düzdeğişmece hâline geldiğini de
 kaydeder.[^k1]
 
-Bir düşünürün en yaygın adının kendi dilinde bulunmaması,[^k1] atlasın terim
+Bir düşünürün en yaygın adının kendi dilinde bulunmaması,[^k1] korpusun terim
 kilidi kapısının neden var olduğunu gösterir: ad, taşıdığı dilin izini taşır.
 
 ## Kayıt, tek bir portre vermez
@@ -87,7 +87,7 @@ biyografik ayrıntılar koruduğunu ama *Lunyu* gibi erken metinlerdeki diyalog 
 hikâyelerin çeşitli temsiller ve kaygılar yansıttığını kaydeder.[^k1]
 
 Altı ayrı sıfatın aynı kişi için ve farklı dönemlere ait olarak kaydedilmesi,[^k1]
-atlasın hiçbir düşünür dosyasında tek bir tanım cümlesi kurmamasının
+korpusun hiçbir düşünür dosyasında tek bir tanım cümlesi kurmamasının
 gerekçesidir.
 
 ## Kaynak kendi nitelemesine "tartışmasız" demez
@@ -98,7 +98,7 @@ sunulmasının, onu Doğu Asya tarihinin en önemli düşünürü saymayı savun
 kıldığını yazar.[^k1]
 
 Bu cümlenin savunulabilir kaydıyla verilmesi,[^k1] bir üstünlük iddiasının bile
-kaynakta koşullu yazıldığını gösterir; atlas o koşulu düşürmez.
+kaynakta koşullu yazıldığını gösterir; korpus o koşulu düşürmez.
 
 ## Öğretinin devlet düzeyindeki karşılığı
 
@@ -118,13 +118,12 @@ yılını soru işaretiyle verir.[^k3] O düşünür
 İki kaydın da tarih konusunda çekince taşıması,[^k1][^k3] belirsizliğin tek bir
 geleneğe özgü olmadığını gösterir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Öğretinin içeriği, *Lunyu*'nun metin tarihi, sonraki yorum gelenekleri ve
 kurumsal Konfüçyüsçülük burada ayrı başlıklar altında ele alınmamıştır; kaynak
 bunları ayrı bölümler olarak işler.[^k1]
 
 ## Eserine bağ
 
-Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Lunyu*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+Bu inceleme düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Lunyu*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
 verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

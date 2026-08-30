@@ -15,6 +15,7 @@ guven_geneli: tartismali
 etiketler: [harriet-taylor, mill, ortak-yazarlik, kadin-haklari, oy-hakki, atif]
 ilgili:
   - dusunur-mill
+baglam:
   - kavram-toplumsal-cinsiyet-duzeni
   - kavram-vatandaslik
   - kavram-kamusal-alan

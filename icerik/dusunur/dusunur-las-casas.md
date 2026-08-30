@@ -61,7 +61,7 @@ değildi.
 Yerleşimci olarak gitti ve kendisine toprak ve emek tahsisi
 yapıldı.[^k2] Yıllar sonra bu tahsisi bıraktı ve rahip oldu.
 
-Bu dosya bir aziz portresi değildir.[^k3] Bir eleştirinin nereden
+Bu inceleme bir aziz portresi değildir.[^k3] Bir eleştirinin nereden
 geldiğinin ve nasıl kullanıldığının kaydıdır.
 
 ## İçeriden eleştiri
@@ -72,9 +72,9 @@ hangi uygulamanın nasıl yürütüldüğünü tek tek anlatır.
 Ayrıntı bilgisi dışarıdan gelmez.[^k1] Düzene katılmış olmasından
 gelir.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] **Bir düzeni en ayrıntılı biçimde
-eleştirenler çoğu zaman o düzenin içinden çıkar; ayrıntı bilgisinin
-kaynağı katılımın kendisidir.**
+**Bir düzeni en ayrıntılı biçimde
+eleştirenler çoğu zaman o düzenin içinden çıkar; ayrıntı bilgisinin kaynağı katılımın
+kendisidir.**[^k3]
 
 ## Metnin muhatabı
 
@@ -84,8 +84,8 @@ biçimini doğrudan belirler.
 Metin bir tarih anlatısı değil bir dilekçedir.[^k2] Amacı ikna etmek ve
 belirli bir düzenlemeyi sağlamaktır.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Bir metnin muhatabı bilinmeden,
-neyi vurguladığı ve neyi atladığı değerlendirilemez.
+Bir metnin muhatabı bilinmeden, neyi vurguladığı ve
+neyi atladığı değerlendirilemez.[^k3]
 
 ## Sayı sorunu
 
@@ -96,8 +96,8 @@ Sayıların bir bölümü tahmindir ve yöntemi verilmez.[^k1] Bir bölümü ise
 dönemin anlatı geleneğine uygun biçimde çokluğu belirtir, sayımı
 değil.
 
-Atlas bu yüzden metnin sayılarını veri olarak kullanmaz.[^k3] Bu,
-atlasın tarihsel sayılar kuralının doğrudan uygulanmasıdır.
+Bu, korpusun tarihsel sayılar
+kuralının doğrudan uygulanmasıdır.[^k3]
 
 ## Sayıları reddetmek metni reddetmek değildir
 
@@ -108,8 +108,8 @@ Nüfusun çöktüğü, çöküşün ana nedeninin hastalık olduğu ve zorla
 çalıştırmanın bunu ağırlaştırdığı ayrı ayrı kayıtlarla
 desteklenir.[^k3] Toplam sayı ise desteklenmez.
 
-Atlas iki düzeyi ayrı tutar.[^k2] Bir metnin bir bölümünün
-çürütülmesi, bütününü geçersiz kılmaz.
+Bir metnin bir bölümünün çürütülmesi, bütününü
+geçersiz kılmaz.[^k2]
 
 ## Hukuki tartışma
 
@@ -120,9 +120,8 @@ saray önünde ve yazılı olarak yürütüldü.
 Karşı taraf, tabi kılmanın haklı olduğunu savundu.[^k3] Gerekçe,
 tabi kılınanların kendi kendilerini yönetmeye elverişsiz sayılmasıydı.
 
-Atlas tartışmanın biçimini ayrıca kaydeder.[^k2] Bir uygulamanın
-hukuken tartışmaya açılması, uygulamanın durduğu anlamına
-gelmez.
+Bir uygulamanın hukuken tartışmaya açılması,
+uygulamanın durduğu anlamına gelmez.[^k2]
 
 ## Tartışmanın sonucu
 
@@ -132,9 +131,8 @@ saydı.
 Uygulamada belirgin bir değişiklik olmadı.[^k3] Sömürge düzeni,
 tartışmadan bağımsız olarak işlemeye devam etti.
 
-Atlas bu sonucu ölçüm sayar.[^k2] Bir düzenin meşruiyetinin
-tartışılması ile o düzenin sürmesi arasında doğrudan bir bağ
-yoktur.
+Bir düzenin meşruiyetinin
+tartışılması ile o düzenin sürmesi arasında doğrudan bir bağ yoktur.[^k2]
 
 ## Yasal düzenleme
 
@@ -144,9 +142,9 @@ bir yasa çıkarıldı.
 Yasa yerleşimcilerin direnişiyle karşılaştı.[^k3] Kısa sürede en
 sınırlayıcı maddeleri geri alındı.
 
-Atlas bu geri alınmayı ayrıca kaydeder.[^k2] Bu, atlasın belge
-tartışmasında kurulan ölçütün bir örneğidir: bir metnin kabul edilmesi
-ile yürürlükte kalması ayrı iki veridir.
+Bu, korpusun belge tartışmasında kurulan
+ölçütün bir örneğidir: bir metnin kabul edilmesi ile yürürlükte kalması ayrı iki
+veridir.[^k2]
 
 ## Kendi konumunu değiştirmesi
 
@@ -156,21 +154,20 @@ için Afrika'dan köle getirilmesini savundu.
 Sonraki yıllarda bu görüşten döndü.[^k3] Dönüşünü ve gerekçesini kendi
 yazdığı bir başka eserde kaydetti.
 
-Atlas bu kaydı ayrıca önemli sayar.[^k2] Bir yazarın görüş
-değiştirdiğini kendi eliyle yazması, sonraki okurun hangi dönemin
-metnine baktığını bilmesini sağlar.
+Bir yazarın görüş değiştirdiğini kendi eliyle
+yazması, sonraki okurun hangi dönemin metnine baktığını bilmesini sağlar.[^k2]
 
 ## Sürüm sorunu kişilere de uygulanır
 
-Bu, atlasın tekrar eden bir kuralıdır.[^k1] Bir düşünüre atıf
+Bu, korpusun tekrar eden bir kuralıdır.[^k1] Bir düşünüre atıf
 yapılırken hangi dönemin metninin kastedildiği belirtilmelidir.
 
-Aynı kural bu dosyada iki yönlü işler.[^k3] Erken öneriyi anmadan
+Aynı kural bu incelemede iki yönlü işler.[^k3] Erken öneriyi anmadan
 yapılan bir savunu da, sonraki dönüşü anmadan yapılan bir eleştiri de
 eksiktir.
 
-Atlas ikisini birlikte kaydeder.[^k2] Eksik alıntı, yanlış alıntının
-bir biçimidir.
+Eksik alıntı, yanlış alıntının bir
+biçimidir.[^k2]
 
 ## Metnin rakip ellerde dolaşımı
 
@@ -181,9 +178,8 @@ Basımlara çizimler eklendi ve metin propaganda amacıyla
 kullanıldı.[^k1] Kullananlar, kendi sömürge bölgelerinde benzer
 uygulamalar yürütüyordu.
 
-Atlas bu kullanımı ayrıca kaydeder.[^k3] **Bir eleştirinin kimin elinde
-dolaştığı, eleştirinin doğruluğunu değiştirmez ama neye hizmet
-ettiğini belirler.**
+**Bir eleştirinin kimin elinde
+dolaştığı, eleştirinin doğruluğunu değiştirmez ama neye hizmet ettiğini belirler.**[^k3]
 
 ## İki yönlü hata
 
@@ -194,21 +190,19 @@ propaganda sayıp içeriğini reddetmek.
 kullanmaktır.[^k3] İki hata da aynı kaynaktan doğar: metnin kullanımı
 ile içeriğinin karıştırılması.
 
-Atlas ikisinden de kaçınır.[^k2] Bir metnin nasıl kullanıldığı, metnin
-kendisi hakkında bir kanıt değildir.
+Bir metnin nasıl kullanıldığı, metnin
+kendisi hakkında bir kanıt değildir.[^k2]
 
 ## Yerli kaydıyla karşılaştırma
 
-Atlasın kıtaya dair bir başka birincil kaynağı yerli bir yazarındır.[^k3]
-O metin, aynı düzeni içeriden ve tabi kılınan tarafın konumundan
-anlatır.
+O metin, aynı düzeni içeriden ve tabi kılınan
+tarafın konumundan anlatır.[^k3]
 
 İki metin birlikte okunmalıdır.[^k1] Biri düzenin içinden ama
 yönetenler tarafından, diğeri yönetilenler tarafından yazılmıştır.
 
-Atlas ikisini birbirinin yerine koymaz.[^k2] İki tanıklığın aynı
-uygulamayı anlatması, ikisinin aynı konumdan yazıldığı anlamına
-gelmez.
+İki tanıklığın aynı uygulamayı anlatması,
+ikisinin aynı konumdan yazıldığı anlamına gelmez.[^k2]
 
 ## Tahsis düzeninin kendisi
 
@@ -218,9 +212,8 @@ yerleşimciye tahsis eden düzenin kendisiydi.
 Ayrım önemlidir.[^k2] Kötü muameleyi cezalandırmak düzeni sürdürür;
 düzeni kaldırmak ise tahsisi ortadan kaldırır.
 
-Atlas bu ayrımı başka dosyalarında da kullanır.[^k3] Bir düzenin
-kusuru mu var, yoksa kusur düzenin kendisi mi — cevap, önerilecek
-çözümü tümüyle değiştirir.
+Bir düzenin kusuru mu var, yoksa kusur düzenin
+kendisi mi — cevap, önerilecek çözümü tümüyle değiştirir.[^k3]
 
 ## Din adamlarının konumu
 
@@ -230,9 +223,9 @@ adamı, ondan önce de aynı yönde vaaz vermişti.
 Bu grup, kıtaya yerleşimcilerle aynı gemilerle gelmişti.[^k3] Yani
 eleştiri, düzenin taşıdığı kurumların içinden çıktı.
 
-Atlas bu yapıyı ayrıca kaydeder.[^k2] Bir düzenin kendi kurumlarından
-birine eleştiri yetkisi tanıması, o eleştirinin etkisiz kalacağı
-anlamına gelmez ama sınırını da belirler.
+Bir düzenin kendi kurumlarından birine
+eleştiri yetkisi tanıması, o eleştirinin etkisiz kalacağı anlamına gelmez ama sınırını
+da belirler.[^k2]
 
 ## Nüfus çöküşünün nedenleri
 
@@ -242,9 +235,8 @@ ağırlığı doğrudan şiddete ve zorla çalıştırmaya verir.
 Sonraki çalışmalar ana nedeni salgın hastalıklarda buldu.[^k1] Bağışıklığı
 olmayan bir nüfusta hastalık, tek başına büyük bir çöküş üretebilir.
 
-Atlas iki nedeni birbirinin alternatifi saymaz.[^k3] Zorla çalıştırma
-ve yerinden etme, bir salgının ölümcüllüğünü doğrudan artırır; ayrı
-ayrı sayılmaları gerekir.
+Zorla çalıştırma ve yerinden etme,
+bir salgının ölümcüllüğünü doğrudan artırır; ayrı ayrı sayılmaları gerekir.[^k3]
 
 ## Kayıt öncesi nüfus
 
@@ -255,8 +247,8 @@ Tahminler birbirinden kat kat farklıdır.[^k3] Aradaki fark, yöntem
 farkından gelir: arkeolojik yerleşim yoğunluğu, taşıma kapasitesi
 hesabı ve erken sömürge vergi kayıtları farklı sonuçlar verir.
 
-Atlas bu belirsizliği korur.[^k2] Bir oranın paydası bilinmiyorsa,
-oranın kendisi de bilinmiyordur.
+Bir oranın paydası bilinmiyorsa,
+oranın kendisi de bilinmiyordur.[^k2]
 
 ## Yazının bugünkü kullanımı
 
@@ -266,8 +258,8 @@ dönemine göre değişir.
 Bir dönem yalnızca sömürge karşıtı bir belge olarak okundu.[^k3] Başka
 bir dönemde abartılı sayıları nedeniyle bütünüyle reddedildi.
 
-Atlas iki okumayı da kaydeder.[^k2] Bir metnin itibarındaki
-dalgalanma, metnin değil onu okuyan dönemin kaydıdır.
+Bir metnin itibarındaki dalgalanma, metnin değil
+onu okuyan dönemin kaydıdır.[^k2]
 
 ## Ne değişti ne değişmedi
 
@@ -277,9 +269,8 @@ Emek tahsisi düzeni kıtanın büyük bölümünde sürdü.
 Buna karşılık bir şey değişti.[^k3] Uygulamanın meşruiyeti bir daha
 sorgusuz kabul edilmedi ve tartışma yazılı kayda geçti.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k2] Bir kampanyanın uygulamayı
-durdurmaması, hiçbir şey değiştirmediği anlamına gelmez; gerekçe
-verme zorunluluğu da bir sonuçtur.
+Bir kampanyanın uygulamayı durdurmaması, hiçbir şey
+değiştirmediği anlamına gelmez; gerekçe verme zorunluluğu da bir sonuçtur.[^k2]
 
 ## Metnin dolaşım hızı
 
@@ -290,9 +281,8 @@ Aynı yazarın daha kapsamlı ve daha ölçülü tarih eseri ise
 yüzyıllarca basılmadı.[^k1] Kısa, sert ve okunması kolay metin dolaştı;
 uzun ve ayrıntılı olan dolaşmadı.
 
-Atlas bu seçilimi ayrıca kaydeder.[^k3] Bir yazarın hangi metninin
-dolaşacağı, metnin niteliğinden çok basım ve okuma koşullarının
-belirlediği bir sonuçtur.
+Bir yazarın hangi metninin dolaşacağı, metnin
+niteliğinden çok basım ve okuma koşullarının belirlediği bir sonuçtur.[^k3]
 
 ## Adlandırmanın kendisi
 
@@ -302,8 +292,8 @@ ilk gelenlerin coğrafi yanılgısından türemiştir.
 Ad, yüzlerce farklı dili ve düzeni tek bir kategoride topladı.[^k1]
 Eleştiri metninin kendisi de bu kategoriyi kullanır.
 
-Atlas bu sınırı ayrıca kaydeder.[^k3] Bir düzene karşı yazılmış bir
-metin, o düzenin ürettiği kategorileri devralabilir.
+Bir düzene karşı yazılmış bir metin,
+o düzenin ürettiği kategorileri devralabilir.[^k3]
 
 ## Kimin adına konuşuldu
 
@@ -312,13 +302,12 @@ onların değil, onları gözleyen birinindir.
 
 Bu, metnin değerini düşürmez ama konumunu belirler.[^k3] Aynı dönemde
 tabi kılınan tarafın kendi kaleminden yazılmış kayıtlar da vardır ve
-atlas onları ayrıca künyeler.
+korpus onları ayrıca künyeler.
 
-Atlas iki kaydı birbirinin yerine koymaz.[^k2] Adına konuşmak ile
-konuşmak arasındaki fark, atlasta tekrar eden bir ölçümdür.
+Adına konuşmak ile konuşmak
+arasındaki fark, korpusta tekrar eden bir ölçümdür.[^k2]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, yazarın bütün eserlerini değerlendirmez.[^k1] Uzun tarih
 eseri burada ele alınmaz.
 
@@ -330,8 +319,7 @@ Metnin özgün dildeki doğrulanabilir tam metni künyelenememiştir.[^k2]
 Künyedeki birincil kaynak bir çeviridir ve bu kısıt burada beyan
 edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Eleştirdiği düzen için
 [Zorunlu emek düzeni](/kavram/zorunlu-emek-duzeni/) ve
 [İspanyol İmparatorluğu](/aktor/ispanyol-imparatorlugu/) dosyaları

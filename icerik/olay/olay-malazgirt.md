@@ -44,7 +44,7 @@ onarim_turu: 0
 ---
 
 Malazgirt Muharebesi, 1071'de Bizans'la yapılan ve Türkler'e Anadolu'nun
-kapılarını açan meydan savaşı olarak tanımlanır.[^k1] Bu dosya muharebe gününü
+kapılarını açan meydan savaşı olarak tanımlanır.[^k1] Bu inceleme muharebe gününü
 değil, ona giden **karar zincirini** ele alır.
 
 ## Sultan başka bir yere gidiyordu
@@ -115,8 +115,7 @@ tek bir gün üzerinden değil, sonraki yüzyılların toprak ve nüfus verileri
 üzerinden okunmalıdır. Devletin kendisi
 [Bizans İmparatorluğu](/aktor/bizans-imparatorlugu/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Muharebe alanındaki taktik seyir, iki ordunun sayısı, imparatorun esareti ve
 sonrasında imzalanan antlaşma burada ayrı başlıklar altında ele alınmamıştır;
 kullanılan kaynak bölümünün kapsamı muharebe öncesi karar zinciridir. Dönemin

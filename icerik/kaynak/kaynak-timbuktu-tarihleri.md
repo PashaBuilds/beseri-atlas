@@ -71,7 +71,7 @@ onarim_turu: 0
 
 ## Ne olduğu
 
-Bu dosya, Nijer kıvrımındaki bir şehirde ve o şehrin âlim çevresinde yazılmış
+Bu inceleme, Nijer kıvrımındaki bir şehirde ve o şehrin âlim çevresinde yazılmış
 iki tarih kitabını birlikte künyeler.[^k1][^k2] İkisi de bölgenin kendi
 kalemiyle tutulmuş kaydıdır.
 
@@ -83,7 +83,7 @@ Kayıt yalnızca yöneticileri saymaz. Kadılar, hocalar, kitap sahipleri ve
 öğrenci silsileleri de ayrı ayrı yazılır;[^k1][^k3] bu, kaydın saraydan
 değil ilim çevresinden geldiğini gösterir.
 
-## Neden bu dosya önemli
+## Neden bu inceleme önemli
 
 Batı Afrika'nın bu dönemi hakkında yaygın olarak bilinenler, büyük ölçüde
 dışarıdan gelen gezgin anlatılarına dayanır.[^k3] Bu anlatılar değerlidir ama
@@ -93,10 +93,9 @@ bölgeyi bir uğrak yeri olarak görür.
 sıralamasıyla anlatır ve neyin kayda değer olduğuna kendisi karar
 verir.[^k2][^k4]
 
-Atlasın kaynak katmanı bu dosya yazılana kadar Afrika'dan tek bir metin
-içermiyordu.[^k3] Kıtaya bağlanan kaynak dosyalarının tamamı, çok sonra
-yazılmış Avrupa kaynaklı metinlerdi; kıta bir konu olarak vardı, bir ses
-olarak yoktu.
+Kıtaya bağlanan kaynak
+dosyalarının tamamı, çok sonra yazılmış Avrupa kaynaklı metinlerdi; kıta bir konu olarak
+vardı, bir ses olarak yoktu.[^k3]
 
 ## İki kitabın karışması
 
@@ -109,40 +108,39 @@ bölümlerin sonradan eklendiği ve ikinci kitabın bugünkü biçiminin ne zama
 oluştuğu tartışmalıdır; künyedeki tarih birinci kitabın tamamlanışını
 yansıtır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
-Atlas bu yüzden kaynak künyelerinde katalog başlıklarını olduğu gibi
-yazar.[^k1][^k2] Başlığı düzeltmek, karışıklığı çözmek değil gizlemek
-olurdu; okur iki kaydı görüp farkı kendisi değerlendirebilmelidir.
+Başlığı düzeltmek,
+karışıklığı çözmek değil gizlemek olurdu; okur iki kaydı görüp farkı kendisi
+değerlendirebilmelidir.[^k1][^k2]
 
 ## Sayıların durumu
 
 Metinler ordu mevcutları, gelir kalemleri ve nüfus büyüklükleri
 verir.[^k2] Bu sayılar bölgenin siyasi tarihi için sıkça alıntılanır.
 
-Atlas bu sayıları olduğu gibi aktarmaz. Dönemin tarih yazımında büyüklük
+Korpus bu sayıları olduğu gibi aktarmaz. Dönemin tarih yazımında büyüklük
 bildiren rakamlar çoğu zaman ölçüm değil derece belirtir;[^k4] bir sayının
 büyüklüğü, sayının kendisinden çok yazarın verdiği önemi gösterir.
 
-Bu tutum atlasın genel kuralıdır ve ayrı bir dosyada gerekçelendirilir.[^k3]
+Bu tutum korpusun genel kuralıdır ve ayrı bir dosyada gerekçelendirilir.[^k3]
 Metinlerden sayı aktaracak okur,
 [Tarihsel sayılar nasıl okunur](/tartisma/tarihsel-sayilar-nasil-okunur/)
 dosyasını önce okumalıdır.
 
 ## Kapsam dışı
 
-Bu dosya iki kitabın ne olduğunu ve atlasta ne işe yaradığını kaydeder;
+Bu inceleme iki kitabın ne olduğunu ve korpusta ne işe yaradığını kaydeder;
 bölüm bölüm içeriklerini vermez.[^k1][^k2] Metinler kaynaklarda erişilebilir
 durumdadır.
 
 Şehrin elyazması koleksiyonlarının tarihi, yakın dönemdeki durumu ve
-korunması burada işlenmez.[^k3] Ayrı bir dosya gerektirir ve bu dosya
-yazıldığında atlasta bulunmuyordu.
+korunması burada işlenmez.[^k3] Ayrı bir dosya gerektirir ve bu inceleme
+yazıldığında korpusta bulunmuyordu.
 
 Metinlerin bölgedeki sözlü aktarım gelenekleriyle ilişkisi de kapsam
 dışıdır.[^k4] Bu ilişki, kıtanın kaynak katmanı genişledikçe kurulabilir hale
 gelecektir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Metinlerin anlattığı siyasi birimler için
 [Songhay İmparatorluğu](/aktor/songhay-imparatorlugu/) ve
 [Mali İmparatorluğu](/aktor/mali-imparatorlugu/) dosyaları okunmalıdır.

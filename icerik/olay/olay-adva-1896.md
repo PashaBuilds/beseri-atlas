@@ -63,7 +63,7 @@ bulunuyordu.
 Savaş bir günde sonuçlandı ve giren ordu kesin bir yenilgi
 aldı.[^k1] Kayıplar ağırdı ve geri çekilme düzensiz oldu.
 
-Bu dosyanın asıl konusu savaşın kendisi değil, onu başlatan belgedir.[^k2]
+Bu incelemenin asıl konusu savaşın kendisi değil, onu başlatan belgedir.[^k2]
 Savaşın nedeni, yedi yıl önce imzalanmış iki dilli bir antlaşmanın iki
 metninin çelişmesiydi.
 
@@ -82,9 +82,8 @@ himaye düzeni kurar, öteki kurmaz.
 
 ## Waitangi kuralının ikinci ölçümü
 
-Atlas bu yapıyı daha önce ölçmüştü.[^k3] Waitangi dosyasında, aynı anda
-imzalanmış iki dilli bir belgenin metinleri aynı maddede farklı şey
-söylüyordu.
+Waitangi dosyasında, aynı anda
+imzalanmış iki dilli bir belgenin metinleri aynı maddede farklı şey söylüyordu.[^k3]
 
 İki örnek arasında elli altı yıl ve iki kıta vardır.[^k1] Aynı yapı iki
 kez ölçülmüştür ve bu, onu tek bir belgeye özgü olmaktan çıkarır.
@@ -101,7 +100,7 @@ kendi metnine daha geniş bir yetki yazabilir.**
 Burada çelişki savaşa dönüştü ve savaşı, metni dar yorumlayan taraf
 kazandı.[^k2] Antlaşma savaştan sonra feshedildi.
 
-Fark, atlasın kaydettiği asıl bulgudur.[^k3] Aynı belge sorunu, tarafların
+Fark, incelenen asıl bulgudur.[^k3] Aynı belge sorunu, tarafların
 askerî kapasitesine göre bambaşka sonuçlar üretir; belgenin metni
 sonucun yalnızca bir bileşenidir.
 
@@ -114,9 +113,9 @@ sağlamlaşmamıştı.
 Dış tanınma, bu konumu güçlendiren bir araçtı.[^k1] Antlaşma, tanınma
 karşılığında imzalandı ve karşı taraf da bunu biliyordu.
 
-Atlas bu bağlamı ayrıca kaydeder.[^k3] Bir belgenin hangi koşullarda
-kabul edildiği metinden okunamaz; bu, atlasın himaye dosyasında kurulan
-kuralın burada da geçerli olduğunu gösterir.
+Bir belgenin hangi koşullarda kabul
+edildiği metinden okunamaz; bu, korpusun himaye dosyasında kurulan kuralın burada da
+geçerli olduğunu gösterir.[^k3]
 
 ## Çelişkinin fark edilmesi
 
@@ -127,9 +126,9 @@ olarak bildirdi.
 Bildirim uluslararası düzeye taşınınca çelişki görünür oldu.[^k2] Yerel
 imparatorluk, kendi metnini göstererek bildirimi reddetti.
 
-Atlas bu sırayı ayrıca kaydeder.[^k3] İki metinli bir belgede çelişki,
-imza anında değil taraflardan biri o metne dayanarak işlem yaptığında
-görünür hâle gelir.
+İki metinli bir belgede çelişki, imza
+anında değil taraflardan biri o metne dayanarak işlem yaptığında görünür hâle
+gelir.[^k3]
 
 ## Reddin biçimi
 
@@ -137,11 +136,11 @@ Ret, uluslararası yazışma yoluyla yapıldı.[^k1] İmparatorluk, öteki
 Avrupa devletlerine kendi metnini bildiren mektuplar gönderdi.
 
 Bu, bir devletin kendi belgesini uluslararası dolaşıma sokmasıdır.[^k2]
-Atlasın Gülhane dosyasında ölçtüğü mekanizmanın aynısıdır: bir iç
+Korpusun Gülhane dosyasında ölçtüğü mekanizmanın aynısıdır: bir iç
 metnin çevrilip dağıtılması, muhataplarından birinin dışarısı olduğunu
 gösterir.
 
-Yazışma sonuç vermedi ve savaşa gidildi.[^k3] Atlas bu diziyi kaydeder:
+Yazışma sonuç vermedi ve savaşa gidildi.[^k3] Korpus bu diziyi kaydeder:
 belge, diplomasi, savaş.
 
 ## Askerî kapasitenin kaynağı
@@ -153,7 +152,7 @@ alınıyordu.
 Tek bir tedarikçiye bağlı kalmamak belirleyiciydi.[^k2] Bir tedarikçi
 ambargo uyguladığında ötekiler devreye giriyordu.
 
-Bu, atlasın Samoa dosyasında ölçtüğü mekanizmanın tersten
+Bu, korpusun Samoa dosyasında ölçtüğü mekanizmanın tersten
 işleyişidir.[^k3] Orada üç tedarikçinin varlığı iç mücadeleyi
 sürdürüyordu; burada aynı çokluk bir devletin dış savunmasını mümkün
 kıldı.
@@ -164,7 +163,7 @@ kıldı.
 gücünü artırır; bu, silah ticaretinde doğrudan askerî kapasiteye
 dönüşür.**
 
-İfade, atlasın silahlı ticaret dosyasındaki döngüye bir ek
+İfade, korpusun silahlı ticaret dosyasındaki döngüye bir ek
 getirir.[^k2] Orada döngü alıcıyı bağımlı kılıyordu; burada tedarikçi
 çokluğu bağımlılığı azaltıyor.
 
@@ -180,9 +179,8 @@ Rekabet, yerel imparatorluğa hem silah hem diplomatik alan
 sağlıyordu.[^k2] Bir devletle sorun yaşandığında ötekiyle görüşme
 seçeneği vardı.
 
-Atlas bu mekanizmayı ayrıca kaydeder.[^k3] Büyük güçler arasındaki
-rekabet, aralarındaki bölgeler için hem tehdit hem korunma alanı
-üretir.
+Büyük güçler arasındaki rekabet,
+aralarındaki bölgeler için hem tehdit hem korunma alanı üretir.[^k3]
 
 ## Coğrafi etken
 
@@ -193,9 +191,8 @@ aşar.[^k2] Arazi, dışarıdan gelen ordu için lojistik güçlük
 Yerel kuvvetler araziyi biliyor ve ikmal hatları kısaydı.[^k1] Giren
 ordunun ikmali kıyıdan başlıyordu.
 
-Atlas coğrafyayı tek neden saymaz.[^k3] Coğrafya bir maliyet dağılımı
-kurar; kararları insanlar verir ve aynı arazide başka sonuçlar da
-mümkündü.
+Coğrafya bir maliyet dağılımı kurar;
+kararları insanlar verir ve aynı arazide başka sonuçlar da mümkündü.[^k3]
 
 ## Sayısal üstünlük
 
@@ -206,9 +203,8 @@ Seferberliğin kendisi bir siyasi başarıdır.[^k2] İmparatorluk, kısa
 süre önce iç çatışmalar yaşamış bir yapıydı ve bölgesel önderlerin
 katılımı verili değildi.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k3] Bir savaşın sonucunu belirleyen
-şey çoğu zaman savaş alanında değil, o alana kimin geldiğinde
-belirlenir.
+Bir savaşın sonucunu belirleyen şey çoğu zaman
+savaş alanında değil, o alana kimin geldiğinde belirlenir.[^k3]
 
 ## Haritaların rolü
 
@@ -219,9 +215,9 @@ Harita eksikliği bir teknik ayrıntı değildir.[^k2] Bir bölgeyi
 haritalamamış olmak, o bölge hakkında bilgi toplamamış olmanın
 göstergesidir.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Bir tarafın öteki hakkındaki bilgisi,
+Bir tarafın öteki hakkındaki bilgisi,
 askerî sonucun ölçülebilir bir bileşenidir ve iki taraf için ayrı ayrı
-sorulmalıdır.
+sorulmalıdır.[^k3]
 
 ## Sonrasında imzalanan antlaşma
 
@@ -232,9 +228,8 @@ Tanıma, bölgedeki öteki Avrupa devletlerince de izlendi.[^k2]
 İmparatorluk sonraki onyıllarda elçilikler açtı ve uluslararası
 kuruluşlara katıldı.
 
-Atlas bu diziyi ayrıca kaydeder.[^k3] Askerî bir sonuç, hukuki bir
-statüye dönüştüğünde kalıcılaşır; dönüşüm otomatik değildir ve ayrıca
-sağlanır.
+Askerî bir sonuç, hukuki bir statüye dönüştüğünde
+kalıcılaşır; dönüşüm otomatik değildir ve ayrıca sağlanır.[^k3]
 
 ## Kıtadaki konum
 
@@ -242,7 +237,7 @@ Bu sonuç, kıtada seyrek görülen bir durumdur.[^k2] Aynı onyıllarda
 kıtanın büyük bölümü paylaşılmıştı.
 
 İmparatorluk, sömürge yönetimi altına girmeyen iki birimden
-biridir.[^k1] Atlas ötekini ayrı bir dosyada künyelemiştir.
+biridir.[^k1] Korpus ötekini ayrı bir dosyada künyelemiştir.
 
 İki örneğin ortak yanı dış tanınmadır.[^k3] Farkları, tanınmanın nasıl
 elde edildiğidir: biri antlaşmayla, öteki savaşla.
@@ -256,9 +251,8 @@ sürdü.
 Bağımsızlık da kalıcı olmadı.[^k1] Aynı Avrupa devleti kırk yıl sonra
 yeniden saldırdı ve bu kez işgal gerçekleşti.
 
-Atlas iki olayı birlikte kaydeder.[^k3] Bir savaşın kazanılması, aynı
-sorunun kapandığı anlamına gelmez; kapanma ancak sonraki sınamalarla
-ölçülebilir.
+Bir savaşın kazanılması, aynı sorunun
+kapandığı anlamına gelmez; kapanma ancak sonraki sınamalarla ölçülebilir.[^k3]
 
 ## İkinci saldırının farkı
 
@@ -268,28 +262,27 @@ zırhlı araçlar ve kimyasal silahlar kullanıldı.
 Tedarikçi çokluğu da ortadan kalkmıştı.[^k2] Uluslararası ortam,
 imparatorluğa silah akışını sınırlandırıyordu.
 
-Atlas iki farkı birlikte kaydeder.[^k3] İlk savaşı kazandıran iki etken —
-teknolojik yakınlık ve tedarikçi çokluğu — ikinci savaşta ikisi de
-ortadan kalkmıştı.
+İlk savaşı kazandıran iki etken — teknolojik yakınlık
+ve tedarikçi çokluğu — ikinci savaşta ikisi de ortadan kalkmıştı.[^k3]
 
 ## Anlatının sonraki kullanımı
 
 Savaş, sonraki onyıllarda kıtanın öteki bölgelerinde de anıldı.[^k1]
 Bağımsızlık hareketleri için bir referans noktası oldu.
 
-Bu, atlasın Kânûn-ı Esâsî dosyasında ölçtüğü işlevle aynı
+Bu, korpusun Kânûn-ı Esâsî dosyasında ölçtüğü işlevle aynı
 ailedendir.[^k2] Bir olay ya da belge, kendi bağlamının dışında bir
 talep dayanağı hâline gelebilir.
 
-Atlas iki düzeyi ayrı tutar.[^k3] Bir olayın ne olduğu ile o olayın
-sonradan neyi temsil ettiği ayrı iki sorudur.
+Bir olayın ne olduğu ile o olayın sonradan neyi
+temsil ettiği ayrı iki sorudur.[^k3]
 
 ## Kaynak durumu
 
-Bu dosyanın üç künyesinden biri giriş kapısı, biri dönem tanıklığı, biri
+Bu incelemenin üç künyesinden biri giriş kapısı, biri dönem tanıklığı, biri
 karşılaştırma belgesidir.[^k2] Antlaşmanın iki metni künyelenememiştir.
 
-Metinlerin doğrulanabilir çevrimiçi baskıları bu dosya yazıldığında
+Metinlerin doğrulanabilir çevrimiçi baskıları bu inceleme yazıldığında
 bulunamamıştır.[^k1] Bu, dosyanın asıl konusunu doğrudan etkiler:
 çelişki hakkında konuşulur ve iki metne atıf yapılamaz.
 
@@ -305,10 +298,9 @@ yalnızca belgeye ve sonucun bileşenlerine ilişkin olanı kaydeder.
 İmparatorluğun iç tarihi işlenmez.[^k2] Ayrı bir dosya bulunmaktadır.
 
 Kırk yıl sonraki işgal ayrıntılandırılmaz.[^k3] Ayrı bir dosya
-gerektirir ve bu dosya yazıldığında atlasta bulunmuyordu.
+gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, çelişkinin kasten yaratıldığı hakkında hüküm vermez.[^k1] İki
 metnin farklı olduğu kaydedilir; farkın nasıl oluştuğu iki metne
 erişilmeden belirlenemez.
@@ -320,8 +312,7 @@ ağırlıkları ölçülmemiştir.
 Savaşın kıtadaki öteki süreçler üzerindeki etkisi ölçülmez.[^k2]
 Anlatının kullanımı kaydedilir; nedensel etki iddia edilmez.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı belge sorununun ilk ölçüldüğü yer için
 [Waitangi Antlaşması](/olay/waitangi-antlasmasi-1840/) ve
 [Waitangi'de hangi metin bağlayıcıdır](/tartisma/waitangi-hangi-metin/)

@@ -92,13 +92,13 @@ Sonraki elli yılda birden çok anayasa daha yapıldı.[^k4] Her biri
 
 ## Belgelerin bolluğu
 
-Atlasın Okyanusya dosyaları arasında bu dosya en çok birincil belgeye
-sahip olanıdır.[^k1] Nedeni bölgeye ilginin fazlalığı değildir.
+Nedeni bölgeye ilginin
+fazlalığı değildir.[^k1]
 
 Neden şudur: bu devlet, dönüşümünün her adımını yazılı bir hukuki
 belgeye bağladı.[^k2] Belge üreten bir süreç, arkasında belge bırakır.
 
-Bu gözlem atlasın kanıt dosyasındaki ölçümü tersinden doğrular.[^k3]
+Bu gözlem korpusun kanıt dosyasındaki ölçümü tersinden doğrular.[^k3]
 Kayıt bolluğu, kaydedilen sürecin niteliği hakkında tek başına bir şey
 söylemez.
 
@@ -108,7 +108,7 @@ Krallık on dokuzuncu yüzyıl ortasında Avrupa devletleri ve Amerika
 Birleşik Devletleri tarafından bağımsız bir devlet olarak tanındı.[^k4]
 Tanıma, karşılıklı temsilcilikler ve antlaşmalarla sürdürüldü.
 
-Tanıma, atlasın egemenlik dosyasındaki ölçütlerden birini
+Tanıma, korpusun egemenlik dosyasındaki ölçütlerden birini
 karşılar.[^k4] Bir düzenin devlet sayılması, öteki devletlerin onu
 öyle saymasına da bağlıdır.
 
@@ -158,7 +158,7 @@ belgenin adının bugün anıldığı biçimde de görünür.
 Anayasanın metni okunduğunda baskının izi görünmez.[^k2] Belge,
 herhangi bir anayasa gibi maddeler hâlinde düzenlenmiştir.
 
-Bu, atlasın kaydettiği bir kuralı doğurur.[^k3] **Bir belgenin hangi
+Bu bir kuralı doğurur.[^k3] **Bir belgenin hangi
 koşullarda kabul edildiği, belgenin metninden okunamaz.**
 
 Kural bütün resmî belgeler için geçerlidir.[^k1] Bir metnin biçimsel
@@ -166,9 +166,8 @@ düzgünlüğü, kabul sürecinin gönüllü olduğunu göstermez.
 
 ## Kuralın uygulanması
 
-Atlas bu nedenle anayasa ve antlaşma künyelerine kabul koşulunu ayrıca
-yazar.[^k2] Künye notu, metnin ne dediğini değil nasıl kabul edildiğini
-kaydeder.
+Künye notu, metnin ne dediğini değil nasıl kabul
+edildiğini kaydeder.[^k2]
 
 Aynı uygulama Waitangi dosyasında da vardır.[^k4] Orada sorun iki metnin
 farkı, burada tek metnin arkasındaki koşuldur.
@@ -198,7 +197,7 @@ durumdadır ve devrilmenin doğrudan gerekçesini gösterir.
 Bu, dosyanın ana gözlemini tamamlar.[^k2] Sürecin her adımı bir belgeye
 bağlandığı için, her adım belgelenmiş durumdadır.
 
-Belgelenmiş olmak, meşru olmak anlamına gelmez.[^k1] Atlas iki niteliği
+Belgelenmiş olmak, meşru olmak anlamına gelmez.[^k1] Korpus iki niteliği
 ayrı ayrı değerlendirir.
 
 ## Sonrası
@@ -210,12 +209,12 @@ katıldı.
 Katılma süreci de belgelerle yürütüldü.[^k4] Sürecin hukuki niteliği,
 sonraki yüzyılda tartışma konusu oldu.
 
-Atlas bu tartışmayı bu dosyada sonuçlandırmaz.[^k3] Dosya krallığın
-kendisini kaydeder; sonrasını ayrı bir dosya gerektirir.
+Dosya krallığın kendisini kaydeder; sonrasını ayrı
+bir dosya gerektirir.[^k3]
 
 ## Bölge kaydı bakımından
 
-Bu dosya, atlasın Okyanusya aktör katmanındaki altıncı dosyadır.[^k4]
+Bu inceleme, atlasın Okyanusya aktör katmanındaki altıncı dosyadır.[^k4]
 Katman uzun süre yalnızca topluluk ve kültür dosyalarından oluşuyordu.
 
 Bir devlet dosyasının eklenmesi, katmanın yapısını değiştirir.[^k1]
@@ -231,7 +230,7 @@ Adaların tek yönetim altında toplanması, dışarıdan gelen gemilerle
 kurulan ticaretle aynı yıllara denk gelir.[^k4] Ticaretin sağladığı
 ateşli silahlar, seferlerin sonucunu doğrudan etkiledi.
 
-Örüntü atlasın başka bölge dosyalarında da ölçülmüştür.[^k4] Dış ticarete
+Örüntü korpusun başka bölge dosyalarında da ölçülmüştür.[^k4] Dış ticarete
 erişimi olan taraf, aynı bölgedeki rakiplerine karşı üstünlük kurar ve
 üstünlük siyasi birleşmeye dönüşür.
 
@@ -261,7 +260,7 @@ yüksek bir orana ulaştı.
 Bunun doğrudan bir sonucu, hukukun yerel dilde yazılabilmesidir.[^k1]
 Anayasa ve yasalar, halkın okuyabildiği bir dilde yayımlandı.
 
-Bu, atlasın Waitangi dosyasındaki durumdan farklıdır.[^k2] Orada yerel
+Bu, korpusun Waitangi dosyasındaki durumdan farklıdır.[^k2] Orada yerel
 dildeki metin bir çeviriydi; burada yerel dil, hukukun asıl dillerinden
 biriydi.
 
@@ -284,7 +283,7 @@ bölümünü dışarıda bırakır.
 belge, ilan ettiği ilkeyi değiştirmeden, uygulama ölçütlerini
 değiştirerek sonucu tersine çevirebilir.
 
-Mekanizma yalnızca bu örneğe ait değildir.[^k1] Atlas benzer yapıyı
+Mekanizma yalnızca bu örneğe ait değildir.[^k1] Korpus benzer yapıyı
 oy hakkı düzenlemelerinin incelendiği başka dosyalarda da kaydeder.
 
 Sonuç, metin okumanın nasıl yapılacağına dair bir kuraldır.[^k3] Bir
@@ -293,7 +292,7 @@ bakmak gerekir.
 
 ## Kaynak durumu
 
-Bu dosyanın üç künyesi anayasa metinlerinin transkripsiyonlarıdır.[^k1]
+Bu incelemenin üç künyesi anayasa metinlerinin transkripsiyonlarıdır.[^k1]
 Transkripsiyonlar bir açık kütüphanede bulunur ve asıl nüshalar değildir.
 
 Bölgenin resmî arşiv siteleri otomatik erişime kapalıdır.[^k4] Bu
@@ -306,16 +305,15 @@ sınanmamıştır.[^k2] Atıf yapılırken bu zincir belirtilmelidir.
 ## Kapsam dışı
 
 Hükümdarların tek tek biyografileri burada işlenmez.[^k4] Ayrı dosyalar
-gerektirirler ve bu dosya yazıldığında atlasta bulunmuyorlardı.
+gerektirirler ve bu inceleme yazıldığında korpusta bulunmuyorlardı.
 
 Şeker ekonomisinin ayrıntılı yapısı da kapsam dışıdır.[^k4] Dosya
 yalnızca toprak düzeni değişiminin siyasi sonucunu kaydeder.
 
-Katılma sonrasının tarihi bu dosyada yer almaz.[^k3] Krallık dosyası
+Katılma sonrasının tarihi bu incelemede yer almaz.[^k3] Krallık dosyası
 1893'te biter.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya devrilme sürecinin hukuki geçerliliği hakkında hüküm
 vermez.[^k3] Olayların sırasını ve her adımın hangi belgeye bağlandığını
 kaydeder.
@@ -323,11 +321,10 @@ kaydeder.
 Tarafların niyetleri hakkında da bir sonuca varılmaz.[^k2] Niyet,
 belgelerden doğrudan okunamayan bir şeydir.
 
-Bugünkü siyasi tartışmalar kapsam dışıdır.[^k4] Atlas güncel hukuki ve
+Bugünkü siyasi tartışmalar kapsam dışıdır.[^k4] Korpus güncel hukuki ve
 siyasi durumlar hakkında değerlendirme yapmaz.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı dönemde bir başka Okyanusya toplumuyla imzalanan ve iki metni
 farklı şey söyleyen belge için
 [Waitangi Antlaşması](/olay/waitangi-antlasmasi-1840/) dosyası

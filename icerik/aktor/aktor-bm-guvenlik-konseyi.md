@@ -13,9 +13,10 @@ eksen: [siyasi, askeri]
 guven_geneli: yaygin
 etiketler: [guvenlik-konseyi, veto, birlesmis-milletler, daimi-uyelik, "1945"]
 ilgili:
+  - olay-kore-savasi
+baglam:
   - donem-14
   - aktor-birlesmis-milletler
-  - olay-kore-savasi
   - aktor-abd
   - aktor-sovyetler-birligi
   - aktor-cin-halk-cumhuriyeti

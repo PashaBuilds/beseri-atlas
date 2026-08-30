@@ -65,7 +65,7 @@ Kaynak bölüm başlıklarını sıralar ve *Tarih Nedir?* için ayrı bir böl�
 tutar.[^k1]
 
 Bir yöntem kitabının bir biyografi maddesinde kendi bölümünü taşıması,[^k1]
-atlasın şu kuralının dayanağıdır: bu dosyada eser, yazarın hayatının bir
+korpusun şu kuralının dayanağıdır: bu incelemede eser, yazarın hayatının bir
 ayrıntısı olarak değil kendi başına bir konu olarak anılır.
 
 ## Niteleme bir makaleye atıfla verilir
@@ -73,7 +73,7 @@ ayrıntısı olarak değil kendi başına bir konu olarak anılır.
 Kaynak, bir dergi makalesine atıfla tarihsel gerçekçilik nitelemesini
 kaydeder.[^k1]
 
-Bir nitelemenin kaynağının ayrıca belirtilmesi,[^k1] atlasın kaynak notlarında
+Bir nitelemenin kaynağının ayrıca belirtilmesi,[^k1] korpusun kaynak notlarında
 neden kimin söylediğini tuttuğunun dayanağıdır.
 
 ## Alanın bütünü
@@ -91,8 +91,7 @@ yaşamış bir düşünür olarak verir.[^k3] O yazar
 [Hannah Arendt](/dusunur/arendt/) dosyasında, kitabın yazarı ise
 [E. H. Carr](/dusunur/carr/) dosyasında ele alınıyor.
 
-## Okuma yönlendirmesi
-
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser teliflidir; atlas metninden alıntı yapmaz ve
+## Okumayı sürdürmek için
+Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
+ansiklopedi maddesidir.[^k1] Eser teliflidir; korpus metninden alıntı yapmaz ve
 yalnızca hakkında yazılanı aktarır.

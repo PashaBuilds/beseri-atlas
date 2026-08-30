@@ -68,16 +68,15 @@ onarim_turu: 0
 ## Nerede durduğu
 
 Malaka Sultanlığı, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan
-dar geçidin kıyısında kurulmuş bir liman devletidir.[^k1][^k4] Atlasın bölge
+dar geçidin kıyısında kurulmuş bir liman devletidir.[^k1][^k4] Korpusun bölge
 şemasında Doğu Asya ile İslam dünyasının kesiştiği yerde durur.
 
-Bu dosyanın ayırt edici yanı, bir devletin toprak yerine geçit üzerine
+Bu incelemenin ayırt edici yanı, bir devletin toprak yerine geçit üzerine
 kurulabildiğini göstermesidir.[^k1] Sultanlığın iç bölgesi küçüktü, tarımsal
 üretimi sınırlıydı ve nüfusu bölgedeki komşularının çok altındaydı.
 
 Buna rağmen bir yüzyıl içinde bölgenin en büyük ticaret merkezi hâline
-geldi.[^k4] Bu yükselişin açıklaması coğrafi konumdadır ve atlasın
-[Hint Okyanusu ticareti](/kavram/hint-okyanusu-ticareti/) dosyasında
+geldi.[^k4] Bu yükselişin açıklaması coğrafi konumdadır ve [Hint Okyanusu ticareti](/kavram/hint-okyanusu-ticareti/) incelemesinde
 tanımlanan düzenle doğrudan ilgilidir.
 
 ## Boğazın kendisi bir gelir kaynağıdır
@@ -104,7 +103,7 @@ temsilcileriyle örgütlendiği kaydedilir.[^k1][^k4] Her topluluk kendi iç
 işlerini kendi usulüne göre yürütür; sultanlık yalnızca topluluklar arası
 anlaşmazlıklara bakar.
 
-Bu düzen, atlasın [Ticaret diasporası](/kavram/ticaret-diasporasi/) dosyasında
+Bu düzen, [Ticaret diasporası](/kavram/ticaret-diasporasi/) incelemesinde
 kavram düzeyinde ele alınır. Burada somut hâli, bir devletin kendi hukukunu
 limandaki herkese dayatmaktan kaçınmasıdır.[^k1]
 
@@ -118,13 +117,13 @@ Yine de bağlantı kaydedilmelidir. Okyanus ticaretinin baskın tüccar
 toplulukları aynı inanç çevresine mensuptu ve ortak hukuk, uzak mesafeli
 ticarette güven kurmanın araçlarından biriydi.[^k3]
 
-Atlas bu ilişkiyi tek yönlü kurmaz.[^k2] İnancın ticaret için benimsendiğini
-söylemek de ticaretin inanç sayesinde geliştiğini söylemek de aynı
-kayıtlardan çıkarılabilir; ikisi de ayrı kanıtlar gerektirir.
+İnancın ticaret için benimsendiğini
+söylemek de ticaretin inanç sayesinde geliştiğini söylemek de aynı kayıtlardan
+çıkarılabilir; ikisi de ayrı kanıtlar gerektirir.[^k2]
 
 ## Kendi anlatısını kendi yazdıran devlet
 
-Bu sultanlık, atlasın Güneydoğu Asya dosyaları arasında kendi saray
+Bu sultanlık, korpusun Güneydoğu Asya dosyaları arasında kendi saray
 anlatısını bırakmış olan tek örnektir.[^k2] Metin, hanedanın kökenini,
 kuruluşu ve saray düzenini kendi ağzından verir.
 
@@ -132,23 +131,22 @@ Böyle bir metnin varlığı, dosyayı komşu ve rakip kayıtlarına bağımlı 
 kurtarır.[^k2] Aynı metin, kendi taraflılığını da taşır: hanedanın
 meşruiyetini kurmak için yazılmıştır ve olayları o amaca göre sıralar.
 
-Atlas metni bir olay kaydı olarak değil, bir hanedanın kendini nasıl
-anlattığının kaydı olarak kullanır.[^k2][^k4] İki kullanım arasındaki fark,
-metnin nereye kadar dayandığını belirler.
+İki kullanım arasındaki fark, metnin nereye kadar
+dayandığını belirler.[^k2][^k4]
 
 ## Kuruluş anlatısının işlevi
 
 Saray anlatısı, hanedanın kökenini uzak ve saygın bir soya bağlar.[^k2] Bu,
-atlasın başka bölgelerinde de karşılaşılan bir kuruluş tekniğidir ve tarihsel
+korpusun başka bölgelerinde de karşılaşılan bir kuruluş tekniğidir ve tarihsel
 bir olgu olarak değil bir meşruiyet aracı olarak kaydedilmelidir.
 
 Anlatının işlevi geriye dönük değil ileriye dönüktür. Bir soy iddiası,
 geçmişi açıklamak için değil bugünkü hükümranlığı gerekçelendirmek için
 kurulur.[^k2]
 
-Aynı teknik, atlasın Amerika ve Batı Afrika dosyalarında da
+Aynı teknik, korpusun Amerika ve Batı Afrika dosyalarında da
 görülür.[^k4] Birbirinden habersiz bölgelerin aynı aracı kullanması,
-atlasın karşılaştırmalı okumaya açtığı yerlerden biridir.
+korpusun karşılaştırmalı okumaya açtığı yerlerden biridir.
 
 ## Komşularla ilişki
 
@@ -156,7 +154,7 @@ Sultanlık, bölgedeki daha büyük siyasi birimlerle doğrudan çatışmaktan �
 denge kurarak var oldu.[^k1][^k4] Kuzeydeki büyük devlete tâbiiyet
 bildirmesi, güneydeki rakibe karşı bir güvence sağladı.
 
-Bu, atlasın [Mandala devleti](/kavram/mandala-devleti/) dosyasında tanımlanan
+Bu, [Mandala devleti](/kavram/mandala-devleti/) incelemesinde tanımlanan
 yapının bir örneğidir: bölgede egemenlik tek bir merkezde toplanmaz, iç içe
 geçmiş etki alanları hâlinde dağılır.[^k4]
 
@@ -170,18 +168,18 @@ Sultanlığın sonu, bölge içi bir çatışmayla değil dışarıdan gelen bir
 saldırısıyla geldi.[^k1][^k4] Limanın düşmesi, ticaret ağının sona ermesi
 anlamına gelmedi; ağ komşu limanlara kaydı.
 
-Bu ayrım, atlasın liman devletleri hakkındaki genel gözlemini
+Bu ayrım, korpusun liman devletleri hakkındaki genel gözlemini
 doğrular.[^k4] Geçit üzerine kurulan bir gelirin sahibi değişebilir; geçidin
 kendisi ortadan kalkmaz.
 
 ::tartismali[Limanın düşmesinin bölgesel ticaret üzerindeki etkisinin ne
 kadar büyük olduğu tartışmalıdır; bazı değerlendirmeler ağın kesintiye
-uğradığını, bazıları yalnızca yön değiştirdiğini savunur. Atlas bir sonuca
+uğradığını, bazıları yalnızca yön değiştirdiğini savunur. Korpus bir sonuca
 bağlanmaz.]{harita=tartisma-kesif-mi-istila-mi}
 
 ## Kaynak durumu
 
-Bu dosya dört kaynağa dayanır ve ikisi birincildir.[^k2][^k3] Birincil
+Bu inceleme dört kaynağa dayanır ve ikisi birincildir.[^k2][^k3] Birincil
 metinlerden biri sultanlığın kendi saray anlatısı, öteki aynı suların
 sultanlıktan önceki dışarıdan kaydıdır.
 
@@ -194,24 +192,23 @@ Saray anlatısının kullanılan çevirisi yirminci yüzyıl ortasına aittir ve
 kamu malı olduğu iddia edilmez;[^k2] kaynakta erişim kısıtı bulunmadığı için
 künyeye alınmıştır.
 
-## Bu dosyanın kapsamadıkları
-
+## Açıkta kalan sorular
 Sultanlığın idari yapısı, hukuk derlemesi ve saray teşkilatı burada ayrı
 başlıklar altında işlenmez.[^k1] Bunlar için saray anlatısının kendisi ve
 ayrı dosyalar gerekir.
 
-Limanın düşmesinden sonraki sömürge dönemi de kapsam dışıdır.[^k4] Atlasın
-sömürgecilik dosyalarının konusudur ve bu dosya bir liman devletinin
+Limanın düşmesinden sonraki sömürge dönemi de kapsam dışıdır.[^k4] Korpusun
+sömürgecilik dosyalarının konusudur ve bu inceleme bir liman devletinin
 işleyişini anlatır.
 
 Bölgedeki öteki sultanlıklar ve bunların birbirleriyle ilişkisi burada
-verilmez.[^k1] Her biri ayrı dosya gerektirir ve bu dosya yazıldığında
-atlasta bulunmuyorlardı.
+verilmez.[^k1] Her biri ayrı dosya gerektirir ve bu inceleme yazıldığında
+korpusta bulunmuyorlardı.
 
 ## Dilin ortak hâle gelmesi
 
 Sultanlığın limanında kullanılan dil, bölge boyunca ticaretin ortak dili
-hâline geldi.[^k1][^k2] Bu, atlasın Orta Asya dosyalarında da kaydettiği bir
+hâline geldi.[^k1][^k2] Bu, korpusun Orta Asya dosyalarında da kaydettiği bir
 olgunun deniz karşılığıdır: bir dil, askerî üstünlükle değil ticari
 kullanışlılıkla yayılabilir.
 
@@ -219,7 +216,7 @@ Yayılmanın biçimi de kaydedilmelidir. Dil, tam biçimiyle değil ticarete
 yeten sadeleşmiş bir hâliyle taşındı;[^k4] limanlar arası iletişim için
 gereken şey edebî yetkinlik değil ortak bir alışveriş sözlüğüydü.
 
-Bu ayrım, atlasın dil yayılımı hakkında tek bir açıklamaya bağlanmamasının
+Bu ayrım, korpusun dil yayılımı hakkında tek bir açıklamaya bağlanmamasının
 gerekçelerinden biridir.[^k1] Fetih, göç ve ticaret ayrı yayılma yollarıdır
 ve bıraktıkları iz de aynı değildir.
 
@@ -248,23 +245,22 @@ Bir limanın büyüklüğüne dair izlenim, gözlemcinin daha önce hangi limanl
 gördüğüne bağlıdır.[^k3] Aynı liman, farklı yerlerden gelen iki gözlemci
 tarafından farklı büyüklükte tarif edilebilir.
 
-Atlas bu yüzden bu dosyada bir nüfus ya da hacim rakamı vermez.[^k1]
-Sayıların nasıl okunacağı sorusu atlasın ayrı bir dosyasında ele alınır ve
-bu dosyadaki değerlendirmeler mutlak sayılara değil kayıtların ortak
-vurgusuna dayanır.
+Sayıların nasıl okunacağı sorusu
+korpusun ayrı bir dosyasında ele alınır ve bu incelemedeki değerlendirmeler mutlak sayılara
+değil kayıtların ortak vurgusuna dayanır.[^k1]
 
-## Bir yüzyıllık devletin atlastaki yeri
+## Bir yüzyıllık devletin korpustaki yeri
 
-Bu sultanlık yaklaşık yüz yıl varlığını sürdürdü ve atlasın aktör
+Bu sultanlık yaklaşık yüz yıl varlığını sürdürdü ve korpusun aktör
 katmanındaki en kısa ömürlü siyasi birimlerden biridir.[^k1][^k4] Kısalık,
 dosyanın gerekçesini zayıflatmaz.
 
-Bir siyasi birimin atlasa girme ölçütü süresi değil, bir yapıyı ne kadar
+Bir siyasi birimin korpusa girme ölçütü süresi değil, bir yapıyı ne kadar
 açık gösterdiğidir.[^k1] Bu sultanlık, geçit üzerine kurulan bir devletin
 nasıl yükselip nasıl çözüldüğünü tek bir yüzyıl içinde eksiksiz gösterir.
 
 Uzun ömürlü devletlerde aynı yapı, yüzyıllara yayıldığı için görünmez
-olur.[^k4] Atlasın kısa ömürlü örnekleri kaydetmesi, bu görünmezliği
+olur.[^k4] Korpusun kısa ömürlü örnekleri kaydetmesi, bu görünmezliği
 gidermek içindir.
 
 ## Karşılaştırmalı okuma
@@ -277,12 +273,11 @@ Karşılaştırmanın gösterdiği şey, benzer coğrafi konumların benzer siya
 biçimler ürettiğidir.[^k1][^k3] Her iki uçta da küçük, ticarete dayalı,
 tarafsızlığı sermaye sayan devletler görülür.
 
-Atlas bu benzerliği bir yasa olarak ileri sürmez.[^k4] Benzerlik kaydedilir;
-gerekçesi coğrafyada mı, ağın kendi mantığında mı yoksa iki uç arasındaki
-doğrudan alışverişte mi aranmalıdır sorusu açık bırakılır.
+Benzerlik kaydedilir; gerekçesi
+coğrafyada mı, ağın kendi mantığında mı yoksa iki uç arasındaki doğrudan alışverişte mi
+aranmalıdır sorusu açık bırakılır.[^k4]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı boğazı daha önce denetleyen düzen için [Srivijaya](/aktor/srivijaya/),
 bölgedeki büyük rakip için [Majapahit](/aktor/majapahit/) dosyaları
 okunmalıdır.

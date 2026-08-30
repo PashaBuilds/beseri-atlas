@@ -57,11 +57,11 @@ onarim_turu: 0
 Bu antlaşmalara yüklenen anlam, antlaşmaların kendisinden daha tartışmalıdır.
 Birçok uluslararası ilişkiler araştırmacısı Vestfalya Barışı'nı, topluca
 "Vestfalyan egemenlik" olarak bilinen ve modern uluslararası ilişkiler için
-belirleyici sayılan ilkelerin kaynağı olarak tanımlamıştır.[^k1] Bu dosya hem
+belirleyici sayılan ilkelerin kaynağı olarak tanımlamıştır.[^k1] Bu inceleme hem
 antlaşmaların içeriğini hem de bu tanımlamaya yönelen itirazı kaydeder.
 
 ::tartismali[Vestfalya'nın modern egemenlik düzeninin başlangıcı sayılıp
-sayılamayacağı açık bir tartışmadır; bu dosya taraf tutmaz.]{harita=tartisma-imparatorluk-siniri-nasil-cizilir}
+sayılamayacağı açık bir tartışmadır; bu inceleme taraf tutmaz.]{harita=tartisma-imparatorluk-siniri-nasil-cizilir}
 
 ## İtiraz
 
@@ -71,7 +71,7 @@ egemenlik kaygılarıyla bağlantılı olarak ortaya çıktığını ileri sürm
 
 Kaynağın kendisi tartışmayı şöyle çerçeveler: Vestfalya Barışı'nın kritik bir
 dönüm noktası olup olmadığından bağımsız olarak, ona dair anlatılar
-sürmektedir.[^k1] Atlas bu iki konum arasında hakemlik yapmaz.
+sürmektedir.[^k1] Korpus bu iki konum arasında hakemlik yapmaz.
 
 ## Antlaşmaların somut içeriği
 
@@ -91,7 +91,7 @@ Düzenleme yalnızca dinî değildi. İsviçre, Kutsal Roma İmparatorluğu'ndan
 ayrıldı — 1499 Basel Antlaşması'ndan beri fiilen bağımsız olmasına rağmen; savaş
 sırasında kurulan ticaret ve mübadele engelleri kaldırıldı ve Ren üzerinde belirli bir ölçüde serbest seyrüsefer güvence altına alındı.[^k1]
 
-"Fiilen bağımsız" ile "resmen ayrılmış" arasındaki fark, bu dosyanın asıl
+"Fiilen bağımsız" ile "resmen ayrılmış" arasındaki fark, bu incelemenin asıl
 konusudur: egemenlik bir gün icat edilmez, kayda geçirilir.
 
 ## Neyi bitirmedi
@@ -111,13 +111,12 @@ egemenlik, dönemin tek modeli değildi; gösterim sorununun kendisi
 [İmparatorluk sınırı haritada nasıl gösterilmeli?](/tartisma/imparatorluk-siniri-nasil-cizilir/)
 haritasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Antlaşmaların madde madde toprak düzenlemeleri, müzakere süreci ve tarafların tek
 tek kazanımları burada ayrı başlıklar altında ele alınmamıştır. Dönemin bütünü
 [1500–1650](/donem/09/) dosyasında ele alınıyor.
 
 ## Belgeye bağ
 
-Bu dosya vestfalya antlasmasi'nin metnine bağlanır.[^k4] Belgeye yapılacak atıflar
+Bu inceleme vestfalya antlasmasi'nin metnine bağlanır.[^k4] Belgeye yapılacak atıflar
 madde numarasıyla verilmelidir; ikincil özet yerine metnin kendisi esas alınır.

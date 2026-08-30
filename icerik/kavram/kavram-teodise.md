@@ -10,7 +10,8 @@ bolge: [avrupa, kuresel]
 eksen: [dini, felsefi, kulturel]
 guven_geneli: yaygin
 etiketler: [teodise, kotuluk-sorunu, lizbon-depremi, felaket, mesrulastirma]
-ilgili:
+ilgili: []
+baglam:
   - dusunur-weber
   - dusunur-augustinus
   - dusunur-gazali

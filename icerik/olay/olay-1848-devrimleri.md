@@ -91,7 +91,7 @@ yönetimde bir devrimin hâkim olduğu bir dönem olarak nitelendirmiştir; 1848
 sonrasındaki hükümetler kamusal alanı ve halk alanını daha etkili biçimde
 yönetmeye zorlanmıştır.[^k1]
 
-Kaynak iki okumayı da kendi metninde yan yana taşır;[^k1] atlas da öyle yapar ve
+Kaynak iki okumayı da kendi metninde yan yana taşır;[^k1] korpus da öyle yapar ve
 aralarında hakemlik etmez. İkisi arasındaki fark, başarı ölçütünün anayasal
 metinlerde mi yoksa idari pratikte mi aranacağıdır.
 
@@ -121,8 +121,7 @@ Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyardır.[^k3]
 Ayaklanmalara katılan nüfusa dair bir ölçüm kullanılan kaynaklarda bulunmadığı
 için bu toplam içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ülke ülke ayaklanmaların seyri, ulusal hareketlerin talepleri ve askerî
 bastırma süreçleri burada ayrı başlıklar altında ele alınmamıştır. Dönemin bütünü
 [1789–1848](/donem/11/) dosyasında ele alınıyor.

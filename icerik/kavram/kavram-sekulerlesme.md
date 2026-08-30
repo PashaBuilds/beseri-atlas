@@ -55,7 +55,7 @@ eleştirisi ve bölgesel gelişmeler.[^k1]
 
 ## Eleştiri kuramın yanında durur
 
-::tartismali[Aynı madde, kuramı ve kuramın eleştirisini iki ayrı bölüm olarak taşıyor. Atlas bu dosyayı tartışmalı olarak işaretler ve tek bir yönde bir eğilim iddiası kurmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Aynı madde, kuramı ve kuramın eleştirisini iki ayrı bölüm olarak taşıyor. Korpus bu incelemeyi tartışmalı olarak işaretler ve tek bir yönde bir eğilim iddiası kurmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu tür yan yana kayıtların nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -67,8 +67,8 @@ Kaynak bölgesel gelişmeler başlığı altında Birleşik Devletler, Britanya,
 Almanya, Asya ve Arap dünyası alt başlıklarını tutar; Birleşik Devletler için
 1870-1930 ve 2000-2021 dönemleri ayrı ayrı verilir.[^k1]
 
-Aynı olgunun bölge bölge ve dönem dönem ayrılması,[^k1] atlasın şu kuralının
-dayanağıdır: bu dosyada sekülerleşme, hangi bölge ve hangi dönem için
+Aynı olgunun bölge bölge ve dönem dönem ayrılması,[^k1] korpusun şu kuralının
+dayanağıdır: bu incelemede sekülerleşme, hangi bölge ve hangi dönem için
 söylendiği belirtilmeden bir eğilim olarak anılmaz.
 
 ## Tanım da çoğuldur
@@ -88,8 +88,7 @@ Din ile felsefe ilişkisi üzerine erken bir kayıt için tutulan madde, eserler
 çoğunun bugün tenkitli neşirlerinin mevcut olduğunu yazar.[^k3] O kayıt
 [Augustinus](/dusunur/augustinus/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kuramın içeriği, güncel meseleler ve ülke ülke gelişmeler burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]
 

@@ -63,15 +63,14 @@ En bilinen iki eseri bir bibliyografya ve bir dünya coğrafyasıdır.[^k2]
 Bibliyografya, bilinen eserleri alfabetik olarak sıralar ve on binlerce
 başlık içerir.
 
-Bu dosyanın asıl konusu ikinci eserdir.[^k3] Coğrafya çalışmasında,
+Bu incelemenin asıl konusu ikinci eserdir.[^k3] Coğrafya çalışmasında,
 kendi geleneğinin dışından gelen kaynaklar çeviri yaptırılarak
 kullanılmıştır.
 
 ## Kaynak bileşimi sorunu
 
-Atlasın kendi kaynak ilkesi, bir bölgeyi kendi kaydından okumayı
-tercih eder.[^k1] Aynı ilke bir sorun doğurur: bir bölge hakkında
-yalnızca kendi kaydına bakmak da bir kısıttır.
+Aynı ilke bir sorun doğurur:
+bir bölge hakkında yalnızca kendi kaydına bakmak da bir kısıttır.[^k1]
 
 Bu düşünür sorunu on yedinci yüzyılda karşıladı.[^k3] Bilinen dünyanın
 uzak bölgeleri hakkında kendi geleneğindeki bilgi eskiydi ve
@@ -88,9 +87,8 @@ Düşünür bu gerekçeyi yazdı.
 Gerekçe pratiktir.[^k3] Bilgi doğruysa nereden geldiği ikinci
 sorudur; yanlışsa nereden geldiği zaten önemsizdir.
 
-Atlas bu tutumu ayrıca kaydeder.[^k2] **Bir bilginin doğruluğu ile
-kaynağının hangi gelenekten geldiği ayrı iki sorudur ve ikincisi
-birincinin yerine geçemez.**
+**Bir bilginin doğruluğu ile kaynağının hangi
+gelenekten geldiği ayrı iki sorudur ve ikincisi birincinin yerine geçemez.**[^k2]
 
 ## Tutumun sınırı
 
@@ -98,9 +96,8 @@ Aynı tutumun bir sınırı vardır ve dosya bunu da kaydeder.[^k1] Bir
 bilgiyi kaynağından bağımsız kabul etmek, o kaynağın çerçevesini de
 görmezden gelmeyi kolaylaştırır.
 
-Atlas bu sınırı Câmiu't-Tevârîh dosyasında da kaydetmişti.[^k3] Yerel
-kaynağa dayanmak ile o kaynağın çerçevesini benimsemek ayrı şeylerdir;
-tersi de geçerlidir.
+Yerel kaynağa dayanmak ile o
+kaynağın çerçevesini benimsemek ayrı şeylerdir; tersi de geçerlidir.[^k3]
 
 İki uyarı birlikte okunmalıdır.[^k2] Kaynağı reddetmek de körü körüne
 kabul etmek de aynı hatanın iki biçimidir.
@@ -120,8 +117,8 @@ gösterir.
 
 ## İkinci elden kaydın değeri
 
-Atlas bu ayrımı ayrıca kaydeder.[^k2] Bir katalog kaydı, eserin
-kendisine erişimi olmayan bir kayıt olabilir.
+Bir katalog kaydı, eserin kendisine erişimi olmayan
+bir kayıt olabilir.[^k2]
 
 Buna karşılık kayıt yine de değerlidir.[^k1] Kaybolmuş eserlerin
 varlığı, çoğu zaman yalnızca böyle listelerden bilinir.
@@ -138,7 +135,7 @@ sonraki dönemde başkaları tarafından tamamlanıp basıldı.
 Basılan hâl ile yazarın bıraktığı hâl aynı değildir.[^k3] Sonraki
 eklemeler ayrıca işaretlenmelidir.
 
-Bu, atlasın Magna Carta dosyasında kurduğu kuralın bir başka
+Bu, korpusun Magna Carta dosyasında kurduğu kuralın bir başka
 uygulamasıdır.[^k2] Bir esere atıf yapılırken hangi sürümün kastedildiği
 belirtilmelidir.
 
@@ -165,9 +162,8 @@ Mali konularda yazdığı bir risale, imparatorluğun gelir gider dengesini
 sayılarla ele alır.[^k3] Sayılar, kendi görevinden gelen kayıtlara
 dayanır.
 
-Atlas bu bağı ayrıca kaydeder.[^k2] Bir yazarın mesleği, hangi
-kaynaklara erişebildiğini ve hangi sorulara sayısal cevap
-verebildiğini doğrudan belirler.
+Bir yazarın mesleği, hangi kaynaklara
+erişebildiğini ve hangi sorulara sayısal cevap verebildiğini doğrudan belirler.[^k2]
 
 ## Sayısal düşünmenin yeri
 
@@ -175,11 +171,11 @@ Mali risalede önerilen çözümler, bir teşhise dayandırılır.[^k1] Gelirin
 giderin altında kalması, tek tek harcamalardan çok yapısal bir dengesizlik
 olarak sunulur.
 
-Bu, atlasın İbn Haldûn dosyasında kaydedilen yaklaşımla aynı
+Bu, korpusun İbn Haldûn dosyasında kaydedilen yaklaşımla aynı
 ailedendir.[^k3] Bir düzenin durumu, tek tek kararlardan değil
 ölçülebilir bir eğilimden okunur.
 
-İki yazar arasında iki yüzyıldan fazla vardır.[^k2] Atlas ikisini
+İki yazar arasında iki yüzyıldan fazla vardır.[^k2] Korpus ikisini
 birbirine bağlar ve doğrudan bir aktarım iddia etmez.
 
 ## Ölçü ve karşılaştırma
@@ -191,9 +187,8 @@ yana konmasını gerektirir.
 Bu işlem bir sorun doğurur.[^k3] Farklı ölçü birimleri ve farklı
 yöntemlerle üretilmiş sayılar doğrudan karşılaştırılamaz.
 
-Atlas aynı sorunu kendi veri dosyalarında da yaşar.[^k2] Bu, atlasın
-nüfus tartışmasında tanımlanan kuralın on yedinci yüzyıldaki
-karşılığıdır.
+Bu, korpusun nüfus tartışmasında tanımlanan
+kuralın on yedinci yüzyıldaki karşılığıdır.[^k2]
 
 ## Eserlerin dili
 
@@ -204,8 +199,8 @@ Bibliyografya Arapça, tartışmalara müdahale eden eser Türkçedir.[^k2]
 Birincisi geniş bir âlim çevresine, ikincisi yerel bir okur kitlesine
 sesleniyordu.
 
-Atlas bu tercihi ayrıca kaydeder.[^k3] Bir eserin dili, yazarın kimi
-ikna etmek istediğini gösterir ve içeriğinden bağımsız bir bilgidir.
+Bir eserin dili, yazarın kimi ikna etmek
+istediğini gösterir ve içeriğinden bağımsız bir bilgidir.[^k3]
 
 ## Tartışmalara müdahale
 
@@ -216,7 +211,7 @@ alınır.
 Tutumu her iki uçtan da ayrılır.[^k3] Ne her yeniliği reddeder ne her
 uygulamayı savunur; her konuyu ayrı ayrı ele alır.
 
-Yöntem, atlasın kendi tutumuyla örtüşür.[^k2] Bir tartışmada taraf
+Yöntem, korpusun kendi tutumuyla örtüşür.[^k2] Bir tartışmada taraf
 seçmek yerine, tartışmanın hangi noktada ayrıldığını göstermek de bir
 konumdur.
 
@@ -226,7 +221,7 @@ Bir başka eseri, imparatorluğun deniz seferlerini ve donanma tarihini
 konu alır.[^k1] Eser, sefer kayıtlarına ve görgü tanıklarına
 dayanır.
 
-Bu, atlasın kanıt dosyasında tanımlanan türlerin bir arada
+Bu, korpusun kanıt dosyasında tanımlanan türlerin bir arada
 kullanılmasıdır.[^k3] Yazılı kayıt ve tanıklık aynı eserde
 birleştirilmiştir.
 
@@ -241,17 +236,16 @@ Alıntılanan eserler ve yazarları çoğu yerde anılır.
 Bu, sonraki okurlar için doğrudan bir imkândır.[^k3] Bir iddianın
 dayanağı izlenebiliyorsa, iddia bağımsız olarak sınanabilir.
 
-Atlas bu pratiği kendi künyeleme kuralının erken bir örneği olarak
-kaydeder.[^k2] Kaynak göstermek bir biçim kuralı değil, sınanabilirliğin
-koşuludur.
+Kaynak göstermek bir biçim kuralı değil,
+sınanabilirliğin koşuludur.[^k2]
 
 ## Tercümanın görünmezliği
 
 Çeviri işini yürüten kişi, eserde ayrıntılı olarak tanıtılmaz.[^k1] Bu,
 dönem için olağandır.
 
-Atlas bu boşluğu ayrıca kaydeder.[^k3] Bir çeviriden gelen bilgi, iki
-kişinin ortak ürünüdür ve ikincisi çoğu zaman kayda geçmez.
+Bir çeviriden gelen bilgi, iki kişinin
+ortak ürünüdür ve ikincisi çoğu zaman kayda geçmez.[^k3]
 
 Sonuç, sorumluluğun tek kişiye yüklenmesidir.[^k2] Çeviride yapılan bir
 yanlışın kime ait olduğu, kaynak zinciri eksik olduğunda
@@ -266,8 +260,8 @@ açık değildir.
 Sonradan tamamlayanlar kendi kaynaklarını da kattılar.[^k3] Bu
 kaynaklar yazarın erişebildiklerinden farklı olabilir.
 
-Atlas bu yüzden esere atıf yaparken baskıyı belirtir.[^k2] Bir eser adı
-tek başına, hangi metnin kastedildiğini göstermeye yetmez.
+Bir eser adı tek başına, hangi
+metnin kastedildiğini göstermeye yetmez.[^k2]
 
 ## Coğrafyanın siyasi kullanımı
 
@@ -279,10 +273,10 @@ Bu, eserin seçimlerini de belirler.[^k3] Hangi bölgenin ayrıntılı,
 hangisinin kısa geçildiği bilgi bolluğuyla olduğu kadar ilgiyle de
 açıklanır.
 
-Atlas aynı soruyu kendi bölge dengesine sorar.[^k2] Bir derlemede
-neyin ayrıntılı anlatıldığı, derleyenin nereye baktığını gösterir.
+Bir derlemede neyin ayrıntılı
+anlatıldığı, derleyenin nereye baktığını gösterir.[^k2]
 
-## Atlasın bu dosyadan çıkardığı
+## Korpusun bu incelemeden çıkardığı
 
 Dosya bir kişinin eserlerini sıralamaz.[^k1] Bir yöntem tercihini ve o
 tercihin gerekçesini kaydeder.
@@ -290,7 +284,7 @@ tercihin gerekçesini kaydeder.
 Tercih şudur.[^k3] Bilginin kaynağı ile doğruluğu ayrı ayrı
 değerlendirilir; gelenek sınırı bir kabul ölçütü değildir.
 
-Bu tercih, atlasın kendi kaynak havuzunun dayandığı ilkedir.[^k2]
+Bu tercih, korpusun kendi kaynak havuzunun dayandığı ilkedir.[^k2]
 Havuzda hangi geleneğin kaynağı olduğu değil, kaydın doğrulanabilir
 olup olmadığı sorulur.
 
@@ -304,12 +298,10 @@ Bu genişlik dönem için istisnai değildir ama sınırsız da
 değildir.[^k3] Her alanda aynı derinlikte olmadığı, kendi eserlerinde
 de görülür.
 
-Atlas bunu bir uyarı olarak kaydeder.[^k2] Çok alanda yazan bir yazarın
-her alandaki kaydı aynı ağırlıkta sayılamaz; her iddia kendi
-dayanağıyla tartılır.
+Çok alanda yazan bir yazarın her alandaki kaydı
+aynı ağırlıkta sayılamaz; her iddia kendi dayanağıyla tartılır.[^k2]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, düşünürün eserlerinin içeriğini aktarmaz.[^k1] Eserler künyede
 anılan maddeler üzerinden erişilebilir durumdadır.
 
@@ -318,11 +310,10 @@ sonraki yazarların bu eserlere ne ölçüde başvurduğunun tek tek
 gösterilmesini gerektirir ve ayrı bir çalışmadır.
 
 Birincil kaynak künyelenememiştir.[^k2] Eserlerin doğrulanabilir
-çevrimiçi tam metin baskıları bu dosya yazıldığında bulunamamıştır ve
+çevrimiçi tam metin baskıları bu inceleme yazıldığında bulunamamıştır ve
 kısıt burada beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı imparatorluktan bir başka coğrafya eseri için
 [Pîrî Reis — Kitâb-ı Bahriye](/kaynak/piri-reis-kitab-i-bahriye/)
 dosyası okunmalıdır; ikisi birlikte okunduğunda kaynak bileşimi sorunu

@@ -54,10 +54,10 @@ denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-Bu ittifakın atlastaki yeri, tek başına değil karşıtıyla birlikte tanımlanır.
+Bu ittifakın korpustaki yeri, tek başına değil karşıtıyla birlikte tanımlanır.
 Kaynak, kıtanın iki askerî bloka bölündüğünü ve NATO ile Varşova Paktı
 devletlerinin 1988'deki dağılımının dönemin standart haritası olduğunu
-kaydeder.[^k1] Bu dosya, o **ikili yapıyı** ele alır.
+kaydeder.[^k1] Bu inceleme, o **ikili yapıyı** ele alır.
 
 ## İki blok tek bir haritada
 
@@ -84,7 +84,7 @@ reformları, ilişkilerde yumuşama, Doğu Avrupa'nın ayrılması ve Sovyet da�
 başlıklarıyla verir.[^k1]
 
 Bir savunma ittifakının, kendisini tanımlayan karşıtın ortadan kalkmasından sonra
-da sürmesi, kurumların kuruluş amaçlarından bağımsızlaşabileceğini gösterir; atlas
+da sürmesi, kurumların kuruluş amaçlarından bağımsızlaşabileceğini gösterir; korpus
 bunu bir değerlendirme değil bir gözlem olarak kaydeder.
 
 ## Aynı yıllarda kurulan küresel örgüt
@@ -99,8 +99,7 @@ Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yakl
 5,42 milyardır.[^k3] İttifak üyelerinin toplam nüfusuna dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 İttifakın kuruluş antlaşması, karar mekanizması, üye genişlemesi ve rekabetin
 sona ermesinden[^k1] sonraki dönüşümü burada ayrı başlıklar altında ele
 alınmamıştır; kullanılan kaynak
@@ -109,5 +108,5 @@ bölümünün kapsamı blokların karşılıklı dizilişidir. Dönemin bütün�
 
 ## Belgeye bağ
 
-Bu dosya kuzey atlantik antlasmasi'nin metnine bağlanır.[^k4] Belgeye yapılacak atıflar
+Bu inceleme kuzey atlantik antlasmasi'nin metnine bağlanır.[^k4] Belgeye yapılacak atıflar
 madde numarasıyla verilmelidir; ikincil özet yerine metnin kendisi esas alınır.

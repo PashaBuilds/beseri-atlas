@@ -163,8 +163,8 @@ büyük bölümü iki dillidir ve çevirileri bir tarafça hazırlanmıştır.
 Bu nedenle tartışma bir yöntem tartışmasıdır.[^k4] Verilen cevap,
 benzer yapıdaki bütün belgelere uygulanabilir olmalıdır.
 
-Atlas tartışmayı bu düzeyde tutar.[^k2] Tek bir uyuşmazlığın nasıl
-çözüleceği değil, hangi ölçütün kullanılacağı sorulmaktadır.
+Tek bir uyuşmazlığın nasıl çözüleceği değil, hangi
+ölçütün kullanılacağı sorulmaktadır.[^k2]
 
 ## Dört konumun ortak zemini
 
@@ -189,16 +189,14 @@ kabul edilirse, İngilizce metnin öngördüğü yapı geçerli sayılır.
 Dördüncü ölçüt bir metin seçmez.[^k2] Çelişkiyi çözülecek bir hata
 değil, ilişkinin kurucu verisi sayar.
 
-## Atlasın bu tartışmadaki konumu
+## Korpusun bu tartışmadaki konumu
 
-Atlas dört konumdan birini seçmez.[^k3] Seçim, hukuki ve siyasi bir
-karardır; atlasın yetki alanında değildir ve bu dosyanın amacı da bir
-karar vermek değil, kararın hangi ölçütlere göre verilebileceğini
-görünür kılmaktır.
+Seçim, hukuki ve siyasi bir karardır; korpusun yetki
+alanında değildir ve bu incelemenin amacı da bir karar vermek değil, kararın hangi
+ölçütlere göre verilebileceğini görünür kılmaktır.[^k3]
 
-Atlasın yaptığı, tartışmanın hangi olguya dayandığını kesinleştirmektir.[^k1]
-İki metnin varlığı ve farkı bir yorum değil, künyelenmiş bir belgeden
-doğrudan okunabilen bir olgudur.
+İki metnin varlığı ve farkı bir yorum değil,
+künyelenmiş bir belgeden doğrudan okunabilen bir olgudur.[^k1]
 
 Bu ayrım korunmalıdır.[^k2] Olguda anlaşmak, sonuçta anlaşmayı
 gerektirmez; tartışmanın sürmesi, olgunun tartışmalı olduğu anlamına
@@ -206,7 +204,7 @@ gelmez.
 
 ## Kaynak seçiminin gerekçesi
 
-Bu dosyanın birinci künyesi, iki metni birlikte basan bir eke
+Bu incelemenin birinci künyesi, iki metni birlikte basan bir eke
 dayanır.[^k1] Yalnızca İngilizce metni veren bir kaynak, tartışmanın
 konusunu görünmez kılardı.
 
@@ -304,10 +302,9 @@ inceler ve görüş bildirir.[^k2] Kararları bağlayıcı değildir.
 Kurulun kurulması, iki metinli olmanın resmen bir sorun sayıldığı
 andır.[^k2] Öncesinde sorun vardı ama muhatabı yoktu.
 
-Atlas kurulu tarafsız bir kaynak saymaz.[^k2] Kurul, tartışmanın
-taraflarından birinin kurduğu bir organdır ve künyede bu belirtilir;
-reddedilmemesinin nedeni, elde bulunan en ayrıntılı incelemeyi
-kaybetmemektir.
+Kurul, tartışmanın
+taraflarından birinin kurduğu bir organdır ve künyede bu belirtilir; reddedilmemesinin
+nedeni, elde bulunan en ayrıntılı incelemeyi kaybetmemektir.[^k2]
 
 ## Ölçütlerin başka belgelere uygulanması
 
@@ -322,12 +319,12 @@ Uygulama ölçütü ise ters yönde geniş sonuç verir.[^k1] Uygulanmış her
 düzeni kendi temeli hâline getirdiği için, itiraz edilebilecek belge
 sayısını neredeyse sıfıra indirir.
 
-## Atlasın kendi künyelerine etkisi
+## Korpusun kendi künyelerine etkisi
 
-Tartışmanın atlas için doğrudan bir sonucu vardır.[^k1] Çok dilli bir
+Tartışmanın korpus için doğrudan bir sonucu vardır.[^k1] Çok dilli bir
 belgeye atıf yapılırken hangi dildeki metnin kastedildiği yazılmalıdır.
 
-Kural bu dosyadan sonra atlasın bütün antlaşma künyelerine
+Kural bu incelemeden sonra korpusun bütün antlaşma künyelerine
 uygulanır.[^k4] Önceki künyelerde bu bilgi eksikse, borç defterine
 yazılır.
 
@@ -344,7 +341,7 @@ dağılımı — bunlar belgeden doğrudan okunur.
 Çözülmemiş olan, farkın hukuki sonucudur.[^k3] Dört konum da aynı
 olgulara bakar ve farklı sonuçlara varır.
 
-Ayrımın korunması atlasın temel işidir.[^k2] Bir tartışmanın sürmesi,
+Ayrımın korunması korpusun temel işidir.[^k2] Bir tartışmanın sürmesi,
 tartışmanın dayandığı olguların da tartışmalı olduğu anlamına gelmez ve
 bu iki durumu birbirine karıştırmak en yaygın hatadır.
 
@@ -360,13 +357,13 @@ Bu konumun sınanması zordur.[^k3] Bir ölçüt önermediği için, uygulandı�
 hangi sonuca götürdüğü de önceden söylenemez ve değerlendirme ancak
 sonradan yapılabilir.
 
-## Bu tartışmanın atlasa kattığı kural
+## Bu tartışmanın korpusa kattığı kural
 
 Tartışmadan çıkan kural tek cümleyle ifade edilebilir.[^k1] **Bir
 belgenin ne söylediği, hangi metninin okunduğuna bağlı olabilir ve bu
 bağlılık belgenin kendisinden okunmaz.**
 
-Kural, atlasın kanıt dosyasındaki ölçümlerle aynı ailedendir.[^k4] Orada
+Kural, korpusun kanıt dosyasındaki ölçümlerle aynı ailedendir.[^k4] Orada
 kanıtın türü soruları belirliyordu; burada metnin dili sonucu belirliyor.
 
 İki durumun ortak yanı şudur.[^k3] Kaynağın biçimsel özellikleri,
@@ -396,14 +393,13 @@ Bu, tartışmaya üçüncü bir katman ekler.[^k4] Hangi metnin bağlayıcı
 olduğu sorusunun altında, hangi transkripsiyonun doğru olduğu sorusu
 durur.
 
-Atlas bu katmanı ayrıca işaretler.[^k2] Kendi künyesi de bir
-transkripsiyondur; asıl nüsha değildir ve bu, atıf yapılırken
-belirtilmelidir.
+Kendi künyesi de bir transkripsiyondur;
+asıl nüsha değildir ve bu, atıf yapılırken belirtilmelidir.[^k2]
 
 ## Erişimin tartışmaya etkisi
 
 Bir belgenin hangi metninin daha kolay bulunduğu, hangi metnin
-okunacağını da belirler.[^k1] Bu dosya yazılırken yapılan arama, önce
+okunacağını da belirler.[^k1] Bu inceleme yazılırken yapılan arama, önce
 yalnızca İngilizce metni verdi.
 
 Yerel dildeki metne ulaşmak, bir görgü tanığının kitabının ekine inmeyi
@@ -416,40 +412,38 @@ belirler ve bu etki bir gerekçe değildir.
 
 ## Konumların sayısı üzerine
 
-Bu dosya dört konum kurar ama alan dörtle sınırlı değildir.[^k3] Kimi
+Bu inceleme dört konum kurar ama alan dörtle sınırlı değildir.[^k3] Kimi
 yaklaşımlar iki metni ayrı ayrı geçerli sayıp uygulama alanlarını
 bölmeyi önerir; kimileri sorunun bir üst düzeye, tanıma ve devletler
 hukukuna taşınması gerektiğini savunur.
 
 Bu yaklaşımlar dosyaya alınmadı.[^k4] Nedeni değersiz görülmeleri değil,
-bu dosya yazıldığında doğrulanabilir bir kaynakla künyelenememeleridir.
+bu inceleme yazıldığında doğrulanabilir bir kaynakla künyelenememeleridir.
 
 Eksik burada beyan edilir.[^k1] Dört konumun alanın tamamı olduğu
 izlenimi verilmemelidir; künyelenebilir kaynak bulunduğunda dosya
 genişletilmelidir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya yürürlükteki hiçbir davaya ilişkin değerlendirme yapmaz.[^k2]
 Konumlar, güncel uyuşmazlıklardan bağımsız olarak ve yalnızca belgenin
 kendisine dayanarak kurulmuştur; taraflardan birinin bugünkü taleplerini
 desteklemek ya da reddetmek gibi bir amaç taşımazlar.
 
 Konumların savunanları kişi adlarıyla değil çizgi ve yaklaşım adlarıyla
-verilmiştir.[^k4] Nedeni atlasın kütük kuralıdır: bir kişiyi savunmadığı
+verilmiştir.[^k4] Nedeni korpusun kütük kuralıdır: bir kişiyi savunmadığı
 bir konuma yerleştirmek, yapılabilecek en ağır hatadır ve doğrulanamayan
 atıf yerine yaklaşım adı kullanılır.
 
 Dört konum, alanın tamamını kapsamaz.[^k3] Başka ölçütler önerilmiştir ve
-bu dosya yazıldığında doğrulanabilir kaynakla künyelenemedikleri için
-alınmamışlardır; eksik, atlasın borç defterine yazılmıştır ve kaynak
+bu inceleme yazıldığında doğrulanabilir kaynakla künyelenemedikleri için
+alınmamışlardır; eksik, korpusun borç defterine yazılmıştır ve kaynak
 bulunduğunda kapatılmalıdır.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Antlaşmanın kendisi, iki metnin ayrıldığı maddeler ve imza süreci için
 [Waitangi Antlaşması](/olay/waitangi-antlasmasi-1840/) dosyası
-okunmalıdır; bu dosya onun açık bıraktığı soruyu ele alır.[^k1]
+okunmalıdır; bu inceleme onun açık bıraktığı soruyu ele alır.[^k1]
 
 Tarafların dosyaları için [Maori](/aktor/maori/) ve
 [Britanya İmparatorluğu](/aktor/britanya-imparatorlugu/), devredildiği

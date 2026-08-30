@@ -55,7 +55,7 @@ sonuncusunun altında video oyunları ayrı bir alt başlıktır.[^k1]
 ## Askerî ve oyunsal kullanım yan yana durur
 
 Bir askerî kavramın maddesinde oyun tasarımının ayrı bir bölüm taşıması,[^k1]
-atlasın şu kuralının dayanağıdır: bu dosyada sürtünme, yalnızca tarihsel bir
+korpusun şu kuralının dayanağıdır: bu incelemede sürtünme, yalnızca tarihsel bir
 askerî terim olarak değil bugün de kullanılan bir modelleme kavramı olarak anılır.
 
 ## Kuramcının kendi tanımı
@@ -65,7 +65,7 @@ beklenmedik gelişmelerin uyanık komutanlardan hızlı kararlar gerektirdiğini
 durumun eksik, şüpheli ve çoğu kez hatalı bilgi ile büyük korku, kuşku ve heyecan
 karşısında yaşandığını yazar.[^k2]
 
-Bilginin niteliğinin üç sıfatla birden tanımlanması,[^k2] atlasın kaynak
+Bilginin niteliğinin üç sıfatla birden tanımlanması,[^k2] korpusun kaynak
 doğrulama kapısıyla aynı sorunu paylaşır: bir kaydın eksik mi şüpheli mi hatalı
 mı olduğu ayrı ayrı sorulur. Kuramcı
 [Carl von Clausewitz](/dusunur/clausewitz/) dosyasında ele alınıyor.
@@ -76,8 +76,7 @@ Thomas Hobbes için tutulan kayıt, onun siyaset felsefesinde mutlak egemenliği
 savunduğunu yazar ve 1588-1679 arasında yaşadığını verir.[^k3] O yazar
 [Thomas Hobbes](/dusunur/hobbes/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kavramın kökeni, askerî uygulamaları ve oyun tasarımındaki biçimleri burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

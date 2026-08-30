@@ -66,16 +66,16 @@ olan hanedandır.[^k1] Çıkış noktası dağ topluluklarıydı.
 Hanedan, kendinden önceki düzeni ortadan kaldırarak kuruldu.[^k2]
 Kaldırdığı düzen de aynı bölgeden ve aynı yüzyıl içinde çıkmıştı.
 
-Bu dosyanın asıl konusu iki hanedan arasındaki ilişkidir.[^k4] İkisi de
+Bu incelemenin asıl konusu iki hanedan arasındaki ilişkidir.[^k4] İkisi de
 yetkisini öğretiye dayandırdı ve ikincisi birincisini öğreti
 gerekçesiyle devirdi.
 
 ## Öğretiye dayanan meşruiyetin ikinci ölçümü
 
-Atlas, önceki hanedan dosyasında bir kayıt tutmuştu.[^k2] Öğretiye
-dayanan bir meşruiyet, kendisini yıkacak aracı da beraberinde getirir.
+Öğretiye dayanan bir
+meşruiyet, kendisini yıkacak aracı da beraberinde getirir.[^k2]
 
-Bu dosya aynı kaydı ikinci kez ölçer.[^k1] Muvahhidler, seleflerini
+Bu inceleme aynı kaydı ikinci kez ölçer.[^k1] Muvahhidler, seleflerini
 inanç konusunda yeterince tutarlı olmamakla suçlayarak iktidara geldi.
 
 Aynı hanedan, bir buçuk yüzyıl sonra kendi tutarlılık iddiasını
@@ -102,8 +102,8 @@ Bu, aynı yüzyıllarda Orta Asya'da ölçülen düzenden farklıdır.[^k4]
 Orada yetki belirli bir soya bağlıydı ve soy şartı yüzyıllarca
 sürdü.
 
-Atlas iki bölgeyi karşılaştırır.[^k3] Meşruiyetin neye bağlandığı,
-iktidarın nasıl el değiştirdiğini de belirler.
+Meşruiyetin neye bağlandığı, iktidarın nasıl el
+değiştirdiğini de belirler.[^k3]
 
 ## İki modelin karşılaştırılması
 
@@ -119,11 +119,11 @@ değişimlerini yavaşlatır; öğreti modeli hızlandırır ve her değişimi b
 
 ## Ölçümün sınırı
 
-İki örnek bir kural kurmaya yetmez.[^k4] Atlas bunu iki bölgede
+İki örnek bir kural kurmaya yetmez.[^k4] Korpus bunu iki bölgede
 ölçülmüş bir eğilim olarak kaydeder.
 
 Aynı bölgede sonraki yüzyıllarda kurulan hanedanlar da
-sınanmalıdır.[^k1] Bu dosya yazıldığında o dosyalar atlasta
+sınanmalıdır.[^k1] Bu inceleme yazıldığında o dosyalar korpusta
 bulunmuyordu.
 
 Karşılaştırmanın kendisi yine de kazançtır.[^k3] İki bölgeyi aynı
@@ -150,9 +150,8 @@ zordu.[^k3] Bölge, kuzeyden gelen sürekli askerî baskı altındaydı.
 Bir savaşta alınan büyük yenilgi, bölgedeki konumu belirleyici biçimde
 zayıflattı.[^k3] Bundan sonra kuzey yakadaki alan hızla daraldı.
 
-Atlas yenilgiyi bir dönüm noktası olarak kaydeder ve tek neden
-saymaz.[^k1] Aynı dönemde iç muhalefet ve mali sorunlar da
-derinleşmişti.
+Aynı dönemde iç muhalefet ve mali sorunlar
+da derinleşmişti.[^k1]
 
 ## Felsefe himayesi
 
@@ -162,9 +161,8 @@ tanınmış filozoflarından biri bu himaye altında çalıştı.
 Himaye kesintisiz değildi.[^k3] Aynı filozof, sonraki dönemde
 görevinden alındı ve eserleri sınırlandırıldı.
 
-Atlas bu dalgalanmayı ayrıca kaydeder.[^k1] Öğretiye dayanan bir
-meşruiyet, öğretiyi tartışan kişilere hem alan açar hem onları risk
-altında bırakır.
+Öğretiye dayanan bir meşruiyet,
+öğretiyi tartışan kişilere hem alan açar hem onları risk altında bırakır.[^k1]
 
 ## Himayenin mekanizması
 
@@ -175,7 +173,7 @@ Aynı donanım, düzenin iddiasını sorgulamak için de
 kullanılabilir.[^k4] Himaye ile kısıtlama arasındaki salınım buradan
 doğar.
 
-Bu, atlasın Wang Yangming dosyasında kaydedilen örüntüyle aynı
+Bu, korpusun Wang Yangming dosyasında kaydedilen örüntüyle aynı
 ailedendir.[^k3] Resmî bir yorum, ona en iyi hâkim olanın itirazını
 üretir.
 
@@ -211,9 +209,8 @@ Bölgeler tek tek ayrıldı ve her birinde ayrı hanedanlar
 kuruldu.[^k4] Kuzey Afrika bundan sonra uzun süre üç ayrı siyasi birim
 biçiminde kaldı.
 
-Atlas bu geçişi bir çöküş olarak değil bir yeniden yapılanma olarak
-kaydeder.[^k3] Siyasi birimin küçülmesi, bölgenin küçülmesi anlamına
-gelmez.
+Siyasi birimin küçülmesi, bölgenin
+küçülmesi anlamına gelmez.[^k3]
 
 ## Ardıl hanedanlar
 
@@ -224,8 +221,8 @@ soy iddiasına döndü.
 Bu çeşitlilik, tek bir modelin bölgeye özgü olmadığını gösterir.[^k4]
 Aynı coğrafyada iki model de kullanılabilmiştir.
 
-Atlas bu nedenle bölgeye bir meşruiyet tipi atfetmez.[^k3] Model, dönem
-ve hanedan bazında ayrıca sorulmalıdır.
+Model, dönem ve hanedan bazında ayrıca
+sorulmalıdır.[^k3]
 
 ## Kuzey Afrika'nın parçalı yapısı
 
@@ -236,8 +233,8 @@ doğal olarak bölmektedir.
 Bu, tek merkezden yönetimi maliyetli kılar.[^k2] Birleşme dönemleri
 kısa, ayrılma dönemleri uzundur.
 
-Atlas örüntüyü kaydeder ve tek nedene bağlamaz.[^k4] Coğrafya bir
-maliyet dağılımı kurar; kararları insanlar verir.
+Coğrafya bir maliyet dağılımı kurar;
+kararları insanlar verir.[^k4]
 
 ## Ordunun bileşimi
 
@@ -250,9 +247,9 @@ durumunun doğrudan göstergesidir.
 ise ödeme ile tutuluyordu ve gelirin daralması bu ikinci grubu doğrudan
 etkiledi; ödeme aksadığında birlikler dağıldı ya da taraf değiştirdi.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k2] İdeolojik bağla tutulan birlik ile
-ücretle tutulan birlik, aynı yenilgide farklı davranır ve bu fark bir
-düzenin çözülme hızını belirler.
+İdeolojik bağla tutulan birlik ile ücretle tutulan
+birlik, aynı yenilgide farklı davranır ve bu fark bir düzenin çözülme hızını
+belirler.[^k2]
 
 ## Denizin iki yakasının maliyeti
 
@@ -264,9 +261,9 @@ Kuzey yakadaki askerî baskı arttıkça taşımanın hacmi de arttı.[^k1] Ayn�
 dönemde güney yakadaki gelir daralıyordu; iki eğilim ters yönde işledi
 ve makas açıldı.
 
-Atlas bu tür makasları ayrıca izler.[^k4] Bir düzenin çözülmesi çoğu
-zaman tek bir yenilgiyle değil, gelir ile gider eğrilerinin uzun süre
-ters yönde ilerlemesiyle açıklanabilir.
+Bir düzenin çözülmesi çoğu zaman tek bir
+yenilgiyle değil, gelir ile gider eğrilerinin uzun süre ters yönde ilerlemesiyle
+açıklanabilir.[^k4]
 
 ## Öğretinin yayılma sınırı
 
@@ -279,12 +276,12 @@ onu taşıyan aygıtla birlikte ayakta durur; aygıt dağıldığında öğreti 
 dağılır ve geriye kalıcı bir toplumsal taban bırakmaz.
 
 Soy modeli bu bakımdan farklıdır.[^k2] Bir soy iddiası, onu taşıyan
-devlet dağıldıktan sonra da tanınabilirliğini korur; atlasın Orta Asya
+devlet dağıldıktan sonra da tanınabilirliğini korur; korpusun Orta Asya
 dosyalarında ölçülen dört yüzyıllık süreklilik bunun kanıtıdır.
 
 ## Ölçümün toplanması
 
-İki hanedanı birlikte okumak, atlasa iki karşıt model verir.[^k1] Soya
+İki hanedanı birlikte okumak, korpusa iki karşıt model verir.[^k1] Soya
 dayanan meşruiyet yavaş değişir ve zor gücü olmadan da sürer; öğretiye
 dayanan meşruiyet hızlı değişir ve taşıyıcı aygıtla birlikte biter.
 
@@ -292,17 +289,17 @@ dayanan meşruiyet hızlı değişir ve taşıyıcı aygıtla birlikte biter.
 kişilere iktidar yolu açar ve toplumsal hareketliliği artırır; soy
 modeli istikrar sağlar ama yetkiyi kapalı bir kümede tutar.
 
-Atlas iki modeli bir üstünlük sıralaması olarak yazmaz.[^k3] İkisi
-farklı sorunları çözer ve farklı maliyetler üretir; hangisinin
-tercih edildiği, o toplumun hangi sorunu daha yakıcı bulduğunu gösterir.
+İkisi farklı sorunları çözer ve
+farklı maliyetler üretir; hangisinin tercih edildiği, o toplumun hangi sorunu daha
+yakıcı bulduğunu gösterir.[^k3]
 
 ## Kaynak durumu
 
-Bu dosyanın dört künyesinin dördü de ansiklopedi maddesidir.[^k1]
+Bu incelemenin dört künyesinin dördü de ansiklopedi maddesidir.[^k1]
 Birincil kaynak künyelenememiştir.
 
 Dönemin Arapça tarih ve öğreti metinleri mevcuttur.[^k3]
-Doğrulanabilir çevrimiçi baskıları bu dosya yazıldığında
+Doğrulanabilir çevrimiçi baskıları bu inceleme yazıldığında
 bulunamamıştır.
 
 Eksik borç defterine yazılmıştır.[^k2] Dosya, birincil kaynağı olmayan
@@ -316,11 +313,10 @@ konuda örtüşmez.
 Öğreti tartışmasının teknik ayrıntısı kapsam dışıdır.[^k4] Dosya
 tartışmanın siyasi işlevini kaydeder, içeriğini çözümlemez.
 
-Hanedanın mimari mirası ayrı bir çalışma gerektirir.[^k3] Bu dosya
-yazıldığında atlasta bulunmuyordu.
+Hanedanın mimari mirası ayrı bir çalışma gerektirir.[^k3] Bu inceleme
+yazıldığında korpusta bulunmuyordu.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, öğreti iddiasının samimi olup olmadığı hakkında hüküm
 vermez.[^k1] Niyet, kaynaklardan doğrudan okunamayan bir şeydir.
 
@@ -330,10 +326,9 @@ eğilim çıkarılabilir, kural çıkarılamaz.
 Kuzey yakadaki yenilginin belirleyici olduğu da tek başına ileri
 sürülmez.[^k3] Aynı dönemde birden çok etken işlemiştir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Yerini alınan hanedan için [Murâbıtlar](/aktor/murabitlar/) dosyası
-okunmalıdır; bu dosya onsuz eksiktir ve ikisi birlikte tek bir
+okunmalıdır; bu inceleme onsuz eksiktir ve ikisi birlikte tek bir
 örüntüyü kurar.[^k2]
 
 Himaye altında çalışan filozof için
@@ -345,5 +340,5 @@ için [İbn Haldûn — Mukaddime](/kaynak/ibn-haldun-mukaddime/) ve
 [Umran](/kavram/umran/) dosyaları okunabilir.[^k1]
 
 Yetkinin neye dayandığı için [Meşruiyet](/kavram/mesruiyet/) dosyası
-okunmalıdır; bu dosya o dosyanın en açık iki örneğinden birini
+okunmalıdır; bu inceleme o dosyanın en açık iki örneğinden birini
 sağlar.[^k3]

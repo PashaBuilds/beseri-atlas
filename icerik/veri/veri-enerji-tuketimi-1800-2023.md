@@ -55,12 +55,12 @@ gözlem vardır.[^k1]
 
 ## Artış oranı diğer serilerden farklıdır
 
-Serinin ilk ve son değeri arasındaki oran, atlasın diğer veri dosyalarında
+Serinin ilk ve son değeri arasındaki oran, korpusun diğer veri dosyalarında
 kaydedilen artışların hiçbirine benzemez: nüfus yaklaşık sekiz, okuryazarlık
 yaklaşık yedi kat artarken bu seri bin yediyüz katın üzerinde bir artış
 gösterir.[^k1][^k2]
 
-Atlas bu farkı bir açıklamayla değil bir uyarıyla kaydeder: dört serinin aynı
+Korpus bu farkı bir açıklamayla değil bir uyarıyla kaydeder: dört serinin aynı
 grafikte gösterilmesi, ölçek farkı nedeniyle üçünü görünmez kılar.[^k1][^k2]
 
 ## Kişi başı hesap kaynakta yoktur
@@ -68,17 +68,15 @@ grafikte gösterilmesi, ölçek farkı nedeniyle üçünü görünmez kılar.[^k
 Uzun dönemli nüfus serisinde dünya nüfusu 1800 için yaklaşık 983,1 milyon, 2020
 için yaklaşık 7,89 milyardır.[^k2]
 
-Atlas iki seriyi bölerek kişi başına enerji tüketimi üretmez; iki kümenin gözlem
-yılları aynı değildir ve böyle bir hesap kullanılan kaynak bölümlerinde
-verilmemiştir.[^k1][^k2] Nüfus serisi
-[Dünya nüfusu, 1500–2025](/veri/dunya-nufusu-1500-2025/) dosyasında ele alınıyor.
+Nüfus serisi [Dünya nüfusu,
+1500–2025](/veri/dunya-nufusu-1500-2025/) dosyasında ele alınıyor.[^k1][^k2]
 
 ## Birincil enerji ne demektir
 
 Serinin ölçtüğü şey birincil enerjidir; bu, dönüşüm kayıpları düşülmeden önceki
 toplam enerji girdisidir ve son kullanıcıya ulaşan enerjiden farklıdır.[^k1]
 
-Atlas bu ayrımı kaydeder çünkü iki ölçü aynı yıl için farklı sayılar verir; bu
+Korpus bu ayrımı kaydeder çünkü iki ölçü aynı yıl için farklı sayılar verir; bu
 dosyadan okunan değerler hangi ölçünün kullanıldığı belirtilmeden
 aktarılmaz.[^k1]
 
@@ -89,11 +87,10 @@ ayrı bir madde olarak işler.[^k3] O dönüşüm
 [Sanayi Devrimi](/olay/sanayi-devrimi/) dosyasında, ilgili kavram ise
 [Büyük Ayrışma](/kavram/buyuk-ayrisma/) dosyasında ele alınıyor.
 
-Atlas iki kayıt arasında bir neden bağı kurmaz; kullanılan kaynak bölümlerinde
+Korpus iki kayıt arasında bir neden bağı kurmaz; kullanılan kaynak bölümlerinde
 böyle bir bağ belirtilmemiştir.[^k1][^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Enerji kaynaklarına göre dağılım, ülke ülke tüketim ve dönüşüm verimliliği
-burada ayrı başlıklar altında ele alınmamıştır; bu dosya yalnızca dünya toplamı
+burada ayrı başlıklar altında ele alınmamıştır; bu inceleme yalnızca dünya toplamı
 serisini kaydeder.[^k1]

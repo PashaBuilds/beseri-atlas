@@ -56,7 +56,7 @@ sıklıkla 18. yüzyılın sonuna ya da 19. yüzyılın başına yerleştirdiği
 
 ## Başlangıç tarihi bir tartışma konusudur
 
-::tartismali[Kaynak, kavramın ne zaman ortaya çıktığını ayrı bir bölüm başlığı yapıyor ve "sıklıkla" kaydıyla veriyor. Atlas tek bir başlangıç yılı yazmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Kaynak, kavramın ne zaman ortaya çıktığını ayrı bir bölüm başlığı yapıyor ve "sıklıkla" kaydıyla veriyor. Korpus tek bir başlangıç yılı yazmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu tür tarihlendirme tartışmalarının nasıl taşınacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -70,7 +70,7 @@ atfettiğini yazar; bir araştırmacının o yazarı, dile dayalı kimliklerin m
 siyasi otoritenin başlıca kaynağı sayılması gerektiğini açıkça öne süren ilk
 filozof olarak belirlediği kaydedilir.[^k1]
 
-Bir kavramın kökeninin bir dil incelemesine bağlanması,[^k1] atlasın terim kilidi
+Bir kavramın kökeninin bir dil incelemesine bağlanması,[^k1] korpusun terim kilidi
 kapısının kavram düzeyindeki karşılığıdır: dil, siyasi bir iddia taşıyabilir.
 
 ## On üç tür ayrı ayrı sayılır
@@ -80,7 +80,7 @@ liberal, kreol, etnik, iktisadi, toplumsal cinsiyetli, bütüncül ve pan
 milliyetçilikler ile irredentizm, sol kanat, ulusal anarşizm, yerlici, ırksal,
 toprak temelli ve spor milliyetçiliği.[^k1]
 
-Aynı ad altında bu kadar çok türün sayılması,[^k1] atlasın bu kavramı tek bir
+Aynı ad altında bu kadar çok türün sayılması,[^k1] korpusun bu kavramı tek bir
 tanımla kullanmamasının dayanağıdır.
 
 ## Yorumlar da ayrı başlıklardır
@@ -88,7 +88,7 @@ tanımla kullanmamasının dayanağıdır.
 Kaynak toplumbilim başlığı altında iki yorum tutar: ilkselci evrimsel yorum ve
 Marksçı yorumlar; ayrıca eleştiriye kendi bölümünü ayırır.[^k1]
 
-Bir kavramın yorum geleneklerinin ayrı ayrı adlandırılması,[^k1] atlasın hakemlik
+Bir kavramın yorum geleneklerinin ayrı ayrı adlandırılması,[^k1] korpusun hakemlik
 etmeme ilkesinin kaynaklarda da uygulandığını gösterir. Yorum geleneklerinden
 birinin düşünürü [Karl Marx](/dusunur/marx/) dosyasında ele alınıyor.[^k2]
 
@@ -98,8 +98,7 @@ Kavramın uygulama örneklerinden biri için ayrı bir kayıt tutulur; o kayıt
 birleşmeyi bir dizi savaş, sefer ve yenilgi olarak bölümler.[^k3] O örnek
 [İtalyan birliği](/olay/italyan-birligi/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ülke ülke tarihler, siyaset bilimi tartışmaları ve eleştiriler burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

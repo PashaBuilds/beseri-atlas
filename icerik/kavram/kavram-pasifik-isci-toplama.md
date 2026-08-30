@@ -77,22 +77,20 @@ başladı.
 Aradaki fark hukuki olarak önemliydi.[^k3] Kaçırma yasaktı;
 sözleşmeyle taşıma değildi.
 
-Atlas bu ayrımı ölçülemez saymaz ama zor sayar.[^k2] Bir sözleşmenin
-gerçek olup olmadığı, sözleşmeyi tutan tarafın kaydından
-belirlenemez.
+Bir sözleşmenin gerçek olup olmadığı, sözleşmeyi
+tutan tarafın kaydından belirlenemez.[^k2]
 
 ## Kaydı kim tuttu
 
-Bu dosyanın asıl ölçümü kayıtla ilgilidir.[^k1] Düzene dair yazılı
+Bu incelemenin asıl ölçümü kayıtla ilgilidir.[^k1] Düzene dair yazılı
 kaydın neredeyse tamamı toplayan tarafça üretildi.
 
 Mevzuat, gemi defterleri, müfettiş raporları ve anılar aynı taraftan
 gelir.[^k2] Taşınan kişilerin kendi yazılı kaydı yok denecek kadar
 azdır.
 
-Atlas bu durumu ayrıca kaydeder.[^k3] **Bir uygulamanın kaydı yalnızca
-uygulayan tarafça tutulmuşsa, o kayıttaki rıza ifadeleri bağımsız
-kanıt sayılmaz.**
+**Bir uygulamanın kaydı yalnızca uygulayan
+tarafça tutulmuşsa, o kayıttaki rıza ifadeleri bağımsız kanıt sayılmaz.**[^k3]
 
 ## Mevzuatın işlevi
 
@@ -103,8 +101,8 @@ ceza hükümleri yer alır.
 Aynı mevzuat düzeni yasal hâle de getirdi.[^k3] Düzenleme, taşımayı
 sınırlarken meşrulaştırdı da.
 
-Atlas bu iki yönü birlikte okur.[^k2] Bir uygulamayı düzenleyen metin,
-o uygulamanın var olduğunun ve sürdürüleceğinin kaydıdır.
+Bir uygulamayı düzenleyen metin, o
+uygulamanın var olduğunun ve sürdürüleceğinin kaydıdır.[^k2]
 
 ## Toplayanın anlatısı
 
@@ -115,9 +113,8 @@ Anlatının savunma olması onu değersiz kılmaz.[^k1] Yolculukların
 işleyişi, ödeme biçimleri ve adalardaki karşılama biçimleri hakkında
 ayrıntı verir.
 
-Atlas bu tür kaynakları çerçevesiyle birlikte kullanır.[^k3] Bir
-tanığın taraflılığı, verdiği ayrıntıları geçersiz kılmaz; hangi
-ayrıntıyı vermediğini sorgulatır.
+Bir tanığın taraflılığı,
+verdiği ayrıntıları geçersiz kılmaz; hangi ayrıntıyı vermediğini sorgulatır.[^k3]
 
 ## Nüfus üzerindeki etkisi
 
@@ -128,20 +125,19 @@ bozdu.
 Dönüş oranı düşüktü.[^k1] Ölüm, hastalık ve sözleşmenin uzatılması
 dönüşü azalttı.
 
-Atlas bu etkiyi ayrıca kaydeder.[^k2] Bir topluluktan ayrılan kişi
-sayısı tek başına yetersizdir; topluluğun büyüklüğüne oranı
-gerekir.
+Bir topluluktan ayrılan kişi sayısı tek
+başına yetersizdir; topluluğun büyüklüğüne oranı gerekir.[^k2]
 
 ## Peru baskınları
 
 Aynı dönemde başka bir kıyıdan da baskınlar yapıldı.[^k3] Bu
 baskınlar sözleşme kılıfı olmadan yürütüldü.
 
-Etkilenen adalardan biri, atlasta ayrı bir dosyası olan uzak bir
+Etkilenen adalardan biri, korpusta ayrı bir dosyası olan uzak bir
 adadır.[^k1] Ada nüfusunun büyük bölümünü kısa sürede kaybetti.
 
-Atlas iki uygulamayı ayrı ayrı kaydeder.[^k2] İkisi de aynı emek
-talebinden doğdu ama hukuki biçimleri farklıydı.
+İkisi de aynı emek talebinden doğdu ama hukuki
+biçimleri farklıydı.[^k2]
 
 ## Düzenin sona ermesi
 
@@ -151,8 +147,8 @@ yasasıyla kapatıldı ve çalışanların çoğu geri gönderildi.
 Kapatma gerekçesi işçilerin korunması değildi.[^k3] Gerekçe, beyaz
 olmayan işgücünün ülkeden çıkarılmasını öngören bir siyasetti.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k2] Bir uygulamanın sona ermesi,
-onu haksız bulan bir gerekçeye dayanmak zorunda değildir.
+Bir uygulamanın sona ermesi, onu haksız bulan bir
+gerekçeye dayanmak zorunda değildir.[^k2]
 
 ## Geri gönderilmenin sonucu
 
@@ -163,8 +159,8 @@ bırakılabiliyordu.
 Kalanlar da oldu.[^k3] Kalanların soyundan gelenler, sonraki yüzyılda
 ayrı bir topluluk olarak tanındı.
 
-Atlas bu tanınmayı geç bir düzeltme sayar.[^k2] Tanınma, kaydın
-eksikliğini gidermez ama eksikliğin kabul edildiğini gösterir.
+Tanınma, kaydın eksikliğini gidermez ama
+eksikliğin kabul edildiğini gösterir.[^k2]
 
 ## Karşılaştırma sınırı
 
@@ -172,8 +168,8 @@ Düzen, kölelikle aynı sayılmaz ve serbest göçle de aynı
 sayılmaz.[^k1] İkisinin arasında, ikisinden de öğe taşıyan bir
 biçimdir.
 
-Atlas bu yüzden tek bir ad dayatmaz.[^k3] Uygulamanın hangi örneğinin
-hangi biçime yakın olduğu ayrı ayrı sorulur.
+Uygulamanın hangi örneğinin hangi biçime
+yakın olduğu ayrı ayrı sorulur.[^k3]
 
 Kavramın işlevi budur.[^k2] Bir ara biçimi tek bir kategoriye zorlamak
 yerine, ölçütleri sayarak yerleştirmek.
@@ -188,11 +184,10 @@ bıraktığı boşluğun nasıl doldurulduğu, hangi işlerin kime kaldığı ve
 hangi bağların koptuğu ayrı bir çalışmayı gerektirir.
 
 Taşınan kişilerin kendi anlatıları künyelenememiştir.[^k2] Sözlü
-aktarımdan derlenmiş doğrulanabilir çevrimiçi kayıt bu dosya
+aktarımdan derlenmiş doğrulanabilir çevrimiçi kayıt bu inceleme
 yazıldığında bulunamamıştır; kısıt burada beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı bölgede kurulan yönetim biçimleri için
 [Himaye düzeni](/kavram/himaye-duzeni/) ve
 [Vesayet yönetimi](/kavram/vesayet-yonetimi/) dosyaları

@@ -65,9 +65,8 @@ kalkmaz ama ikinci plana düşer.
 Düzenleme bir tercihle başlar.[^k2] Tercihi yapan her zaman o toprağı
 eken kişi değildir.
 
-Atlas bu ayrımı kavramın merkezine koyar.[^k3] **Bir bölgenin ne
-ektiği, toprağının neye elverişli olduğundan çok bağlandığı pazarın
-ne istediğiyle belirlenebilir.**
+**Bir bölgenin ne ektiği, toprağının neye elverişli
+olduğundan çok bağlandığı pazarın ne istediğiyle belirlenebilir.**[^k3]
 
 ## Nasıl kurulur
 
@@ -89,8 +88,8 @@ yapılmıştır.
 Bu yapıların hepsi başka bir ürün için yeniden kurulmalıdır.[^k2]
 Maliyet, tek tek üreticilerin taşıyabileceğinden büyüktür.
 
-Atlas bu kilidi ayrıca kaydeder.[^k3] Altyapı bir kez tek ürüne göre
-kurulduğunda, tercih bireysel olmaktan çıkar.
+Altyapı bir kez tek ürüne göre kurulduğunda,
+tercih bireysel olmaktan çıkar.[^k3]
 
 ## Fiyat riskinin yoğunlaşması
 
@@ -100,8 +99,8 @@ düştüğünde bütün bölge aynı anda etkilenir.
 Çeşitlilik bir sigortadır.[^k2] Birden çok ürün eken bir bölgede,
 birinin fiyatı düşerken diğeri telafi edebilir.
 
-Atlas bu farkı ölçülebilir sayar.[^k3] Bir bölgenin gelirinin kaç
-üründen geldiği, o bölgenin kırılganlığının doğrudan göstergesidir.
+Bir bölgenin gelirinin kaç üründen geldiği, o
+bölgenin kırılganlığının doğrudan göstergesidir.[^k3]
 
 ## Gıda güvenliği sorunu
 
@@ -111,8 +110,8 @@ gelir.[^k1] Bölge, kendi beslenmesi için de pazara bağlanır.
 Bu ikili bağımlılık tehlikelidir.[^k2] Ürün fiyatı düşerken gıda
 fiyatı yükseldiğinde iki etki üst üste biner.
 
-Atlas bu kesişimi ayrıca kaydeder.[^k3] Kıtlıklar çoğu zaman üretim
-düşüşünden değil, satın alma gücünün çökmesinden doğar.
+Kıtlıklar çoğu zaman üretim
+düşüşünden değil, satın alma gücünün çökmesinden doğar.[^k3]
 
 ## Su ve toprak üzerindeki etki
 
@@ -122,8 +121,8 @@ yönlendirilmesini gerektirir.
 Sonuçlar uzun vadeli ve geri dönüşsüz olabilir.[^k2] Bir iç denizin
 büyük ölçüde kuruması, bu tür bir düzenlemenin sonucudur.
 
-Atlas bu sonucu tarım kararına bağlar.[^k3] Çevresel bir çöküş, çoğu
-zaman bir çevre kararının değil bir tarım kararının sonucudur.
+Çevresel bir çöküş, çoğu zaman bir çevre
+kararının değil bir tarım kararının sonucudur.[^k3]
 
 ## İşgücü nereden gelir
 
@@ -133,9 +132,8 @@ zaman yerel değildir.
 Farklı yerlerde farklı çözümler bulundu.[^k3] Zorla çalıştırma,
 sözleşmeli taşıma ve mevsimlik göç bunlar arasındadır.
 
-Atlas bu çözümleri aynı sorunun cevapları sayar.[^k2] Düzenin
-kendisi değişmeden, işgücünün nasıl sağlandığı bölgeden bölgeye
-değişir.
+Düzenin kendisi değişmeden, işgücünün nasıl
+sağlandığı bölgeden bölgeye değişir.[^k2]
 
 ## Kimin kararı
 
@@ -146,8 +144,8 @@ Cevap her örnekte aynı değildir.[^k2] Bazı yerlerde sömürge yönetimi,
 bazılarında merkezî devlet, bazılarında yerel toprak sahipleri
 belirleyici oldu.
 
-Atlas bu farkı korur.[^k3] Aynı sonucu doğuran farklı karar
-zincirleri, aynı şey sayılamaz.
+Aynı sonucu doğuran farklı karar zincirleri, aynı şey
+sayılamaz.[^k3]
 
 ## Bağımsızlıktan sonra süren düzen
 
@@ -158,8 +156,8 @@ Birçok örnekte düzen onlarca yıl daha sürdü.[^k2] Bazı örneklerde
 yeni yönetimler ihracat gelirine bağlı oldukları için düzeni
 pekiştirdiler.
 
-Atlas bu sürekliliği ayrıca kaydeder.[^k3] Yönetimin el değiştirmesi,
-ekonomik yapının el değiştirmesi anlamına gelmez.
+Yönetimin el değiştirmesi, ekonomik yapının el
+değiştirmesi anlamına gelmez.[^k3]
 
 ## Ölçütler
 
@@ -182,9 +180,8 @@ pazarın ihtiyacına göre kaydedilir.
 kadar kazandığı, borcunu nasıl kapattığı ve ne yediği çoğu zaman
 sayıya dökülmemiştir.
 
-Atlas bu dengesizliği ayrıca kaydeder.[^k3] Bir düzenin verimliliğini
-ölçen sayılar, o düzenin maliyetini taşıyanların kaydından değil
-kazananların kaydından gelir.
+Bir düzenin verimliliğini ölçen sayılar, o
+düzenin maliyetini taşıyanların kaydından değil kazananların kaydından gelir.[^k3]
 
 ## Sınır
 
@@ -194,11 +191,10 @@ belirli bir üründe uzmanlaşması verimlilik de sağlayabilir.
 Ayrım, seçeneklerin varlığındadır.[^k2] Alternatifi olan bir uzmanlaşma
 ile alternatifi kapatılmış bir bağımlılık aynı şey değildir.
 
-Atlas bu ölçütü başka dosyalarda da kullanır.[^k3] Özerkliğin ölçüsü,
-elde bulunan seçeneklerin sayısıdır.
+Özerkliğin ölçüsü, elde bulunan
+seçeneklerin sayısıdır.[^k3]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Düzenin kurulduğu bir örnek için
 [Türkistan'ın Rusya tarafından fethi](/olay/rus-turkistan-fethi/)
 dosyası okunmalıdır.[^k1]

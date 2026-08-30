@@ -71,7 +71,7 @@ Vadi, çevresindeki bölgelerden dağ sıralarıyla ayrılır.[^k2] Bu, hem
 savunma avantajı hem ticari kısıt anlamına geliyordu; geçitler sayılı
 olduğu için hem savunulabilir hem denetlenebilir bir alandı.
 
-Bu dosyanın asıl konusu hanlığın sonudur.[^k4] Komşu iki hanlık himaye
+Bu incelemenin asıl konusu hanlığın sonudur.[^k4] Komşu iki hanlık himaye
 altına alınırken bu hanlık doğrudan ilhak edildi.
 
 ## Farklı sonun sorusu
@@ -82,8 +82,8 @@ girdi.[^k1] İkisi hanedanını korudu, biri korumadı.
 Fark bir tesadüf değildir.[^k2] Aynı güç, komşu üç devlete bilinçli
 olarak iki farklı araç uyguladı.
 
-Atlas soruyu sorar ve tek bir cevaba bağlamaz.[^k4] Sorulabilir olması,
-karşılaştırmanın verdiği asıl kazançtır.
+Sorulabilir olması, karşılaştırmanın
+verdiği asıl kazançtır.[^k4]
 
 ## Cevap adayları
 
@@ -102,15 +102,14 @@ işlemesi için gereken tek muhatabı ortadan kaldırır.
 ## Açıklamaların sınanması
 
 Üç açıklama da aynı olguya uyar ve bu, hiçbirinin sınanmadığı anlamına
-gelir.[^k2] Sonucu bilerek gerekçe aramak, atlasın kaçındığı işlemdir.
+gelir.[^k2] Sonucu bilerek gerekçe aramak, korpusun kaçındığı işlemdir.
 
 Sınama için karşılaştırılabilir başka örnekler gerekir.[^k1] Aynı gücün
 başka bölgelerde hangi araca hangi koşulda başvurduğu ayrı bir
 çalışmadır.
 
-Atlas soruyu açık bırakır ve niçin açık bıraktığını yazar.[^k4] Cevabı
-olmayan bir sorunun kaydedilmesi, yanlış cevabın kaydedilmesinden
-iyidir.
+Cevabı olmayan bir sorunun kaydedilmesi, yanlış
+cevabın kaydedilmesinden iyidir.[^k4]
 
 ## Kuruluş
 
@@ -121,8 +120,8 @@ soydan gelmiyordu.
 Bu, unvan sorununu doğurdu.[^k1] Hanedan, kuruluşundan uzun süre sonra
 han unvanını kullanmaya başladı.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k3] Soy şartı bu bölgede
-işlemeyi sürdürüyordu ve unvanın gecikmesi bunun kanıtıdır.
+Soy şartı bu bölgede işlemeyi sürdürüyordu
+ve unvanın gecikmesi bunun kanıtıdır.[^k3]
 
 ## Unvanın alınma biçimi
 
@@ -133,9 +132,8 @@ kurulmuştur.
 Bu, kuralla başa çıkmanın üçüncü yoludur.[^k3] Buhara'da unvan
 değiştirilmişti; burada soy iddiası üretildi.
 
-Atlas üç yolu birlikte kaydeder.[^k4] Bir kural karşısında güç sahibi
-üç seçenek bulur: uymak, unvanı değiştirmek ya da kurala uyduğunu
-iddia etmek.
+Bir kural karşısında güç sahibi üç
+seçenek bulur: uymak, unvanı değiştirmek ya da kurala uyduğunu iddia etmek.[^k4]
 
 ## Vadinin verimi
 
@@ -157,8 +155,8 @@ Kuzeydeki sanayinin hammadde ihtiyacı, bölgeye yönelen ilginin
 etkenlerinden biriydi.[^k4] Bu ilgi, sonraki dönemde bölgenin üretim
 yapısını da değiştirdi.
 
-Atlas bu bağı ayrıca kaydeder.[^k1] Bir bölgenin hangi ürünü ürettiği,
-o bölgeye kimin niçin ilgi duyduğunu da belirler.
+Bir bölgenin hangi ürünü ürettiği, o
+bölgeye kimin niçin ilgi duyduğunu da belirler.[^k1]
 
 ## Ticaret konumu
 
@@ -182,7 +180,7 @@ dengenin bir türlü kurulamamasıdır.[^k2] İki kesim farklı adayları
 destekliyordu.
 
 Bu istikrarsızlık, hanlığın dış baskıya karşı direncini
-zayıflattı.[^k4] Atlas bunu tek neden saymaz ama izlenebilir bir etken
+zayıflattı.[^k4] Korpus bunu tek neden saymaz ama izlenebilir bir etken
 olarak kaydeder.
 
 ## Fethin biçimi
@@ -205,9 +203,8 @@ Karşılığında yönetim maliyeti ve doğrudan sorumluluk getirir.
 Dolaylı yönetim maliyeti düşürür.[^k4] Karşılığında denetimi azaltır ve
 yerel hanedanın istikrarına bağımlı hâle gelir.
 
-Atlas iki aracı bir üstünlük sıralaması olarak değil bir maliyet tercihi
-olarak yazar.[^k1] Hangi aracın seçileceği, hedefe ve koşullara göre
-değişir.
+Hangi aracın seçileceği, hedefe ve koşullara
+göre değişir.[^k1]
 
 ## Fetih sonrası
 
@@ -219,7 +216,7 @@ yönelen bir tarım düzeni, fiyat ve ulaşım kesintilerine karşı
 kırılgandır.
 
 Dosya bu dönemi ayrıntılandırmaz.[^k1] Fetih sonrası ayrı bir dosya
-gerektirir ve bu dosya yazıldığında atlasta bulunmuyordu.
+gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu.
 
 ## Kültürel üretim
 
@@ -229,9 +226,8 @@ Saray himayesinde vakayinameler yazıldı.
 Bu üretim, hanlığın son dönemine kadar sürdü.[^k2] Siyasi
 istikrarsızlık, yazılı üretimi kesintiye uğratmadı.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k4] Siyasi istikrarsızlık ile
-kültürel üretim arasında doğrudan bir ters orantı varsaymak yaygın bir
-hatadır.
+Siyasi istikrarsızlık ile kültürel üretim
+arasında doğrudan bir ters orantı varsaymak yaygın bir hatadır.[^k4]
 
 ## Nüfus
 
@@ -242,8 +238,8 @@ Fetih sonrası sayımlar daha düzenlidir ama farklı bir amaçla
 yapılmıştır.[^k4] Yeni yönetimin vergi ve askerlik ihtiyacı, sayımın
 kapsamını belirlemiştir.
 
-Atlas iki dönemin sayılarını doğrudan karşılaştırmaz.[^k1] Farklı
-yöntemlerle üretilmiş sayılar aynı seriye konulamaz.
+Farklı yöntemlerle üretilmiş sayılar
+aynı seriye konulamaz.[^k1]
 
 ## Vadinin siyasi tarihi
 
@@ -254,9 +250,8 @@ bağımsızlaşmayı kolaylaştırıyordu.
 Aynı coğrafi özellik, dışarıdan gelen orduların girişini de
 zorlaştırıyordu.[^k1] Geçitler sayılıydı ve savunulabilirdi.
 
-Atlas bu tür coğrafi kısıtları ayrıca kaydeder.[^k4] Bir bölgenin siyasi
-birim olarak tekrar tekrar ortaya çıkması, çoğu zaman ulaşım
-maliyetleriyle açıklanabilir.
+Bir bölgenin siyasi birim olarak
+tekrar tekrar ortaya çıkması, çoğu zaman ulaşım maliyetleriyle açıklanabilir.[^k4]
 
 ## Dinî kurumların konumu
 
@@ -279,14 +274,14 @@ Bu topluluklar hanlığın vergi ve asker kaynaklarındandı.
 askerî yükümlülük tartışma konusuydu.
 
 Sınır topluluklarının tutumu, hanlığın dış baskıya karşı direncini
-doğrudan etkiledi.[^k4] Atlas bu bağı ayrıca kaydeder.
+doğrudan etkiledi.[^k4] Korpus bu bağı bu noktayı da belirtir.
 
 ## Fetih öncesi diplomasi
 
 Hanlık, fethin öncesindeki yıllarda kuzeydeki devletle antlaşmalar
 imzaladı.[^k4] Antlaşmalar ticaret ve sınır düzenini kapsıyordu.
 
-Antlaşmalar fethi engellemedi.[^k1] Bu, atlasın Hawai dosyasında
+Antlaşmalar fethi engellemedi.[^k1] Bu, korpusun Hawai dosyasında
 kaydedilen gözlemin bir başka örneğidir: tanınma ve antlaşma, ilhakın
 önünde tek başına engel değildir.
 
@@ -295,11 +290,11 @@ ilişki kurulmuş, sonra ilişkinin tarafı ortadan kaldırılmıştır.
 
 ## Kaynak durumu
 
-Bu dosyanın dört künyesinin üçü ansiklopedi maddesidir.[^k1] Birincil
+Bu incelemenin dört künyesinin üçü ansiklopedi maddesidir.[^k1] Birincil
 kaynak künyelenememiştir.
 
 Dönemin Çağatayca ve Farsça vakayinameleri mevcuttur.[^k2]
-Doğrulanabilir çevrimiçi baskıları bu dosya yazıldığında
+Doğrulanabilir çevrimiçi baskıları bu inceleme yazıldığında
 bulunamamıştır.
 
 Eksik borç defterine yazılmıştır.[^k3] Dosya, birincil kaynağı olmayan
@@ -314,10 +309,9 @@ Askerî seferlerin ayrıntısı kapsam dışıdır.[^k4] Dosya yalnızca
 sonun biçimine ve karşılaştırmaya ilişkin olanı kaydeder.
 
 Fetih sonrası idari düzenin ayrıntısı ayrı bir dosya gerektirir.[^k2]
-Bu dosya yazıldığında atlasta bulunmuyordu.
+Bu inceleme yazıldığında korpusta bulunmuyordu.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, farklı sonun nedenini belirlemez.[^k4] Üç açıklama adayını sıralar
 ve hiçbirinin sınanmadığını yazar.
 
@@ -326,11 +320,10 @@ bir etken olarak kaydedilir.
 
 Fethin hukuki niteliği tartışılmaz.[^k2] Dosya olayların sırasını
 kaydeder; fethin gerekçelerinin nasıl kurulduğu ve kamuya nasıl
-sunulduğu ayrı bir çalışma gerektirir ve bu dosya yazıldığında atlasta
+sunulduğu ayrı bir çalışma gerektirir ve bu inceleme yazıldığında korpusta
 işlenmemişti.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Karşılaştırmanın öteki iki tarafı için
 [Buhara Hanlığı](/aktor/buhara-hanligi/) ve
 [Hîve Hanlığı](/aktor/hive-hanligi/) dosyaları okunmalıdır; üçü

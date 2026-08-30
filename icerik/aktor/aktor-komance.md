@@ -64,7 +64,7 @@ Gruplar ortak dil ve akrabalık bağları taşıyordu; ortak bir karar organı
 ya da tek bir başkent taşımıyordu ve bu, dosyanın bütün gözlemlerini
 etkiler.
 
-Bu dosyanın asıl konusu at ve ticarettir.[^k3] Atın bölgeye girişi bir
+Bu incelemenin asıl konusu at ve ticarettir.[^k3] Atın bölgeye girişi bir
 askerî değişimden çok bir ekonomik dönüşüm üretti.
 
 ## Atın gelişi
@@ -75,9 +75,8 @@ ovaya yayıldı.[^k2] Yayılma, insan hareketinden hızlı oldu.
 Bölgedeki topluluklar atı farklı hızlarda benimsedi.[^k1] Komançe
 gruplarının benimseme hızı ve ölçeği ayırt edicidir.
 
-Atlas bu farkı ayrıca kaydeder.[^k3] Aynı yeniliğe erişimi olan
-topluluklar onu aynı ölçüde kullanmaz; benimseme hızı da açıklanması
-gereken bir olgudur.
+Aynı yeniliğe erişimi olan topluluklar onu aynı
+ölçüde kullanmaz; benimseme hızı da açıklanması gereken bir olgudur.[^k3]
 
 ## Askerî değil ekonomik dönüşüm
 
@@ -96,11 +95,11 @@ dönüşür; askerî kapasite bu zeminden doğar, onu üretmez.
 ekonomik etkisinin türevidir; sıralamayı tersine çevirmek, mekanizmayı
 görünmez kılar.**
 
-İfade atlasın öteki dosyalarında da sınanabilir.[^k3] Ateşli silah,
+İfade korpusun öteki dosyalarında da sınanabilir.[^k3] Ateşli silah,
 gemi ve demir için aynı soru sorulabilir.
 
-Atlas ifadeyi bu örnekte ölçülmüş bir gözlem olarak kaydeder.[^k2]
-Genelleştirme için başka örneklerde ayrıca sınanmalıdır.
+Genelleştirme için başka örneklerde
+ayrıca sınanmalıdır.[^k2]
 
 ## At sürüsünün büyüklüğü
 
@@ -123,7 +122,7 @@ akıyordu.
 Ağ, birden çok devletin sınırlarını kesiyordu.[^k2] Aynı gruplar farklı
 devletlerin tüccarlarıyla eşzamanlı iş yapıyordu.
 
-Bu, atlasın Adva dosyasında ölçtüğü mekanizmanın bir başka
+Bu, korpusun Adva dosyasında ölçtüğü mekanizmanın bir başka
 biçimidir.[^k3] Birden çok tedarikçinin bulunması, alıcının pazarlık
 gücünü artırır.
 
@@ -135,8 +134,8 @@ bir bölümü satılıyor, bir bölümü gruplara katılıyordu.
 İkinci uygulama, nüfus artışının bir kaynağıydı.[^k2] Katılanlar zamanla
 tam üye sayılabiliyordu.
 
-Atlas iki yönü de kaydeder.[^k3] Aynı uygulama hem bir şiddet biçimi hem
-bir nüfus stratejisiydi ve ikisi ayrı ayrı ölçülmelidir.
+Aynı uygulama hem bir şiddet biçimi hem
+bir nüfus stratejisiydi ve ikisi ayrı ayrı ölçülmelidir.[^k3]
 
 ## Merkezsizliğin etkisi
 
@@ -147,15 +146,14 @@ bağlamıyordu.
 Sömürge ve sonraki yönetimler bunu bir tutarsızlık olarak
 kaydetti.[^k2] Antlaşmaların ihlal edildiği bildirildi.
 
-Bu, atlasın Samoa dosyasında ölçtüğü uyumsuzluğun aynısıdır.[^k3] Dış
+Bu, korpusun Samoa dosyasında ölçtüğü uyumsuzluğun aynısıdır.[^k3] Dış
 tanıma, tanınacak tarafın tek bir muhatap üretmesini gerektirir; bu
 biçimi taşımayan düzenler tutarsız olarak kaydedilir.
 
 ## Mapuçe ile karşılaştırma
 
-Atlasın aynı kıtadan bir başka dosyası benzer bir yapıyı
-kaydeder.[^k1] Orada da merkezî bir aygıt yoktu ve orada da bir sınır üç
-yüzyıl boyunca duruyordu.
+Orada da merkezî bir aygıt yoktu
+ve orada da bir sınır üç yüzyıl boyunca duruyordu.[^k1]
 
 İki örnek arasında ortak üç unsur vardır.[^k3] Merkezsiz örgütlenme,
 atın hızlı benimsenmesi ve karşı tarafın tek muhatap bulamaması.
@@ -174,7 +172,7 @@ Bu ortaklık ayrıca kaydedilmelidir.[^k3] Merkezsiz örgütlenmenin
 avantajı, karşı tarafın lojistik ve haberleşme kapasitesi belirli bir
 eşiği geçene kadar sürüyor.
 
-Eşik, ikisinde de aynı onyıllara denk gelir.[^k2] Atlas bunu bir
+Eşik, ikisinde de aynı onyıllara denk gelir.[^k2] Korpus bunu bir
 rastlantı saymaz ama nedensellik de iddia etmez; iki örnek bir eğilim
 gösterir, kural kurmaz.
 
@@ -184,7 +182,7 @@ Gruplar, üç ayrı devletin genişleme yönünün kesiştiği bölgedeydi.[^k2]
 Güneyde bir Avrupa imparatorluğu ve onun ardılı, doğuda genişleyen bir
 başka devlet bulunuyordu.
 
-Bu konum, atlasın Karluklar dosyasında ölçtüğü yapının aynısıdır.[^k3]
+Bu konum, korpusun Karluklar dosyasında ölçtüğü yapının aynısıdır.[^k3]
 Sınır bölgelerindeki birimler, güçlerinden bağımsız olarak pazarlık
 kapasitesi kazanır ve kapasite komşu sayısından gelir.
 
@@ -201,9 +199,9 @@ sonuçlandı.
 Bu, pazarlık kapasitesini doğrudan düşürdü.[^k1] Artık taraf değiştirme
 ya da alternatif tedarikçi bulma seçeneği kalmamıştı.
 
-Atlas bu ölçümü Zulu dosyasında da yapmıştı.[^k3] Bir askerî ya da
-siyasi konumun sürdürülebilirliği, karşı tarafın sayısına bağlıdır ve
-sayı azaldığında konum hızla bozulur.
+Bir askerî ya da siyasi konumun
+sürdürülebilirliği, karşı tarafın sayısına bağlıdır ve sayı azaldığında konum hızla
+bozulur.[^k3]
 
 ## Kışlık kamplar
 
@@ -236,9 +234,8 @@ dönüşüm üretmişti; bizonun yok olması aynı dönüşümü tersine çevird
 Askerî sonuç, iki uçta da türevdi.[^k3] Yükseliş de çöküş de ekonomik
 zeminden geldi.
 
-Atlas bu simetriyi ayrıca kaydeder.[^k2] Bir gücün yükseliş ve çöküş
-açıklamaları aynı mekanizmaya dayanıyorsa, mekanizma daha güçlü bir
-adaydır.
+Bir gücün yükseliş ve çöküş açıklamaları aynı
+mekanizmaya dayanıyorsa, mekanizma daha güçlü bir adaydır.[^k2]
 
 ## Kuraklık ve hastalık
 
@@ -246,13 +243,12 @@ adaydır.
 süren bir kuraklık yaşandı ve dışarıdan gelen hastalıklar nüfusu
 azalttı.
 
-Hastalık etkisi, atlasın Amerika dosyalarında tekrar eden bir
+Hastalık etkisi, korpusun Amerika dosyalarında tekrar eden bir
 kısıttır.[^k2] Bağışıklık bulunmaması, temas eden bütün topluluklar için
 geçerliydi.
 
-Atlas etkenleri sıralar ve ağırlıklarını ölçmez.[^k3] Dört etken —
-bizonun yok edilmesi, kuraklık, hastalık ve askerî baskı — aynı
-onyıllarda işledi.
+Dört etken — bizonun yok edilmesi,
+kuraklık, hastalık ve askerî baskı — aynı onyıllarda işledi.[^k3]
 
 ## Kayıt durumu
 
@@ -263,7 +259,7 @@ Karşı tarafın kayıtları askerî ve idari amaçlıdır.[^k2] Baskınlar,
 antlaşmalar ve nüfus tahminleri ayrıntılı; iç yapı ve karar süreçleri
 yok denecek kadar azdır.
 
-Bu, atlasın Hazarlar dosyasında formüle edilen kısıtın aynısıdır.[^k3]
+Bu, korpusun Hazarlar dosyasında formüle edilen kısıtın aynısıdır.[^k3]
 Yalnızca dışarıdan yazılmış bir düzen hakkında bilinenler, o düzenin
 özelliği değil gözlemcilerin ilgisinin haritasıdır.
 
@@ -276,8 +272,8 @@ gözlemci izlenimlerine dayanır.
 İki kaynak da eksiktir.[^k2] Sayımlar yalnızca temas edilen grupları
 kapsar; izlenimler yöntem belirtmez.
 
-Atlas sayı vermez.[^k3] Sayı vermek yerine yöntemin ne olduğunu yazar;
-bu, atlasın nüfus dosyasında tanımlanan genel kuraldır.
+Sayı vermek yerine yöntemin ne
+olduğunu yazar; bu, korpusun nüfus dosyasında tanımlanan genel kuraldır.[^k3]
 
 ## Adın kapsamı
 
@@ -285,14 +281,13 @@ Kaynaklarda geçen ad, tek bir topluluğu değil birden çok grubu
 karşılar.[^k1] Grupların kendilerini nasıl adlandırdığı, dışarıdan
 verilen adla aynı değildir.
 
-Bu, atlasın bozkır dosyalarında tekrar eden bir sorundur.[^k3] Bir ad,
+Bu, korpusun bozkır dosyalarında tekrar eden bir sorundur.[^k3] Bir ad,
 etnik değil siyasi ya da coğrafi bir birimi gösterebilir.
 
-Atlas adı kullanır ve kapsamını belirtir.[^k2] Bir adın kaynaklardan
-çekilmesi, o adla anılanların yok olduğunu göstermez.
+Bir adın kaynaklardan çekilmesi, o adla
+anılanların yok olduğunu göstermez.[^k2]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, atın tek belirleyici etken olduğunu ileri sürmez.[^k1] Otlak
 coğrafyası, ticaret ağı ve komşu devletlerin rekabeti ayrı ayrı
 etkendir.
@@ -304,8 +299,7 @@ Grupların iç yapısı ve karar süreçleri işlenmez.[^k2] Kaynaklar bu
 konuda ayrıntı vermez ve dosya boşluğu doldurmaz; akrabalık düzeni,
 önderlik biçimi ve kararların nasıl alındığı ayrıca incelenmelidir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı kıtadan, merkezî devlet kurmadan direnen bir başka örnek için
 [Mapuçe](/aktor/mapuche/) dosyası okunmalıdır; iki dosya birlikte
 okunduğunda aynı yapı iki yarımkürede görünür.[^k1]

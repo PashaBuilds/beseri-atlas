@@ -65,7 +65,7 @@ Kıtlık, bir kuraklık ya da tam bir hasat kaybı sonrası değil, görece
 sınırlı bir üretim düşüşünün ardından geldi.[^k2] Bu, olayın en çok
 tartışılan yanıdır.
 
-Bu dosyanın konusu ölü sayısı değildir.[^k3] Kıtlığın hangi
+Bu incelemenin konusu ölü sayısı değildir.[^k3] Kıtlığın hangi
 mekanizmayla yayıldığı ve kaydının kim tarafından tutulduğudur.
 
 ## Resmî soruşturma
@@ -76,7 +76,7 @@ kıtlığın seyrini, nedenlerini ve yönetimin tepkisini inceledi.
 Rapor kamuya açıktır ve bugün erişilebilir durumdadır.[^k3] Komisyon
 ayrıca bölgeyi aşan bir genel rapor da hazırladı.
 
-Bu dosya, raporu hem kaynak hem inceleme nesnesi olarak
+Bu inceleme, raporu hem kaynak hem inceleme nesnesi olarak
 kullanır.[^k2] **Bir yönetimin kendi felaketini soruşturması, bir
 kanıt üretir ama tarafsız bir kanıt üretmez.**
 
@@ -88,9 +88,8 @@ göre düşüktü ama tarihteki en düşük düzeyde değildi.
 Daha düşük üretimin yaşandığı yıllarda kıtlık olmamıştı.[^k3] Bu
 karşılaştırma, tek başına üretim açıklamasını zayıflatır.
 
-Atlas bu karşılaştırmayı yöntemin merkezine koyar.[^k2] Bir açıklamayı
-sınamanın en doğrudan yolu, aynı nedenin bulunduğu ama sonucun
-oluşmadığı yılları aramaktır.
+Bir açıklamayı sınamanın en doğrudan yolu,
+aynı nedenin bulunduğu ama sonucun oluşmadığı yılları aramaktır.[^k2]
 
 ## Fiyatın yükselişi
 
@@ -100,8 +99,8 @@ katlanarak arttı.
 Ücretler aynı hızda artmadı.[^k3] Tarım işçisi, balıkçı ve zanaatkâr
 gibi gıdayı satın alan gruplar en ağır etkilendi.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k2] Bir kıtlıkta ölenler, gıdanın
-bulunmadığı kişiler değil, bulunan gıdayı satın alamayan kişilerdir.
+Bir kıtlıkta ölenler, gıdanın bulunmadığı kişiler
+değil, bulunan gıdayı satın alamayan kişilerdir.[^k2]
 
 ## Kimin öldüğü
 
@@ -111,8 +110,8 @@ göre çok eşitsiz dağıldı.
 Toprağı olan üretici, ürettiğini tüketebildiği için görece
 korundu.[^k3] Ücretle geçinen gruplar korunmadı.
 
-Atlas bu dağılımı ölçüm sayar.[^k2] Bir felaketin kimleri vurduğu,
-felaketin nedeni hakkında doğrudan bilgi verir.
+Bir felaketin kimleri vurduğu,
+felaketin nedeni hakkında doğrudan bilgi verir.[^k2]
 
 ## Savaşın etkisi
 
@@ -122,8 +121,8 @@ etkiyi aynı anda üretti.
 Komşu bir üretici bölgeden gelen ithalat kesildi.[^k3] Ordu ve savaş
 sanayii için yapılan alımlar talebi artırdı.
 
-Atlas bu etkileri ayrı ayrı sayar.[^k2] Aynı yönde işleyen birden çok
-etken, tek bir nedene indirgenemez.
+Aynı yönde işleyen birden çok
+etken, tek bir nedene indirgenemez.[^k2]
 
 ## Taşıma araçlarına el konması
 
@@ -145,8 +144,8 @@ eyaletin kendi stokunu korumasıydı.
 Kısıt, fiyat farkının kapanmasını engelledi.[^k3] Ucuz bölgeden pahalı
 bölgeye akış durdu.
 
-Atlas bu düzenlemeyi ayrıca kaydeder.[^k2] Yerel bir koruma tedbiri,
-bölge ölçeğinde felaketi derinleştirebilir.
+Yerel bir koruma tedbiri, bölge ölçeğinde
+felaketi derinleştirebilir.[^k2]
 
 ## Spekülasyon ve stoklama
 
@@ -156,8 +155,8 @@ satmaktan kârlı hâle geldi.
 Rapor bu davranışı kaydeder.[^k3] Stoklama kıtlığı başlatmadı ama
 hızlandırdı.
 
-Atlas bu ayrımı korur.[^k2] Bir davranışın sonucu ağırlaştırması ile
-onu başlatması ayrı iki iddiadır.
+Bir davranışın sonucu ağırlaştırması ile onu
+başlatması ayrı iki iddiadır.[^k2]
 
 ## Yönetimin tepkisi
 
@@ -167,9 +166,8 @@ tedbirler sınırlı kaldı.
 Tanınmanın gecikmesinin bir nedeni kayıttır.[^k3] Ölümler, kıtlık
 kategorisinde değil hastalık kategorisinde kaydedildi.
 
-Atlas bu ayrıntıyı doğrudan kendi konusuna bağlar.[^k2] Bir olayın
-nasıl sınıflandırıldığı, ona ne zaman müdahale edileceğini de
-belirler.
+Bir olayın nasıl sınıflandırıldığı, ona
+ne zaman müdahale edileceğini de belirler.[^k2]
 
 ## Basının rolü
 
@@ -179,8 +177,8 @@ görüntüleri ve rakamları duyurdu.
 Merkezî yönetimin tepkisi bu yayınlardan sonra hızlandı.[^k3] Kamuoyu
 baskısı, tedbirlerin ölçeğini değiştirdi.
 
-Atlas bu bağı ayrıca kaydeder.[^k2] Kaydın kamuya açılması, kaydın
-kendisinden ayrı bir etki üretir.
+Kaydın kamuya açılması, kaydın
+kendisinden ayrı bir etki üretir.[^k2]
 
 ## Ordunun devreye girmesi
 
@@ -190,8 +188,8 @@ kapasitesiyle bu işi yürütebiliyordu.
 Bu, tedbirin gecikmesini daha da göze batırır hâle getirdi.[^k3]
 Kapasite baştan beri vardı; kullanılmamıştı.
 
-Atlas bu noktayı ölçüm sayar.[^k2] Bir müdahalenin geç kalması,
-imkânsızlıktan değil önceliklendirmeden kaynaklanabilir.
+Bir müdahalenin geç kalması,
+imkânsızlıktan değil önceliklendirmeden kaynaklanabilir.[^k2]
 
 ## Sayıların durumu
 
@@ -202,9 +200,8 @@ vardır.
 Farkın nedeni yöntemdir.[^k3] Doğrudan açlık ölümleri ile açlığa bağlı
 hastalık ölümlerinin sayılıp sayılmadığı tahmini ikiye katlayabilir.
 
-Atlas bu yüzden tek bir sayı vermez.[^k2] Bu, atlasın tarihsel sayılar
-kuralının doğrudan uygulanmasıdır: sayı, yöntemiyle birlikte
-verilmelidir.
+Bu, korpusun tarihsel sayılar
+kuralının doğrudan uygulanmasıdır: sayı, yöntemiyle birlikte verilmelidir.[^k2]
 
 ## Raporun kendi sınırı
 
@@ -214,9 +211,9 @@ Kurulun kapsamı ve yetkisi de aynı yönetimce belirlenmişti.
 Rapor yine de yönetimi eleştirir.[^k3] Bazı kararların hatalı olduğu
 açıkça yazılır.
 
-Atlas iki yönü birlikte tutar.[^k2] Kendi kendini soruşturan bir
-yönetimin raporu, eleştiri içerdiğinde bile hangi soruların
-sorulmadığıyla birlikte okunmalıdır.
+Kendi kendini soruşturan bir yönetimin
+raporu, eleştiri içerdiğinde bile hangi soruların sorulmadığıyla birlikte
+okunmalıdır.[^k2]
 
 ## Sonraki etkisi
 
@@ -228,8 +225,8 @@ Bu ayrım bugün politikaya da yansır.[^k3] Kıtlığa karşı tedbirin
 gıda getirmek mi gelir sağlamak mı olduğu, bu ayrıma göre
 belirlenir.
 
-Atlas bu etkiyi ayrıca kaydeder.[^k2] Bir olayın kavramsal etkisi,
-insani sonucundan bağımsız olarak ölçülebilir.
+Bir olayın kavramsal etkisi, insani sonucundan
+bağımsız olarak ölçülebilir.[^k2]
 
 ## Bölgenin tarım yapısı
 
@@ -239,9 +236,8 @@ dayanıyordu.[^k1] Ekilebilir alan başına düşen nüfus yüksekti.
 Bu yapı, küçük bir sarsıntıyı bile büyütür.[^k3] Tampon olacak ikinci
 bir ürün ve biriktirilmiş stok yoktu.
 
-Atlas bu yapıyı önceden var olan bir kırılganlık sayar.[^k2] Bir
-felaketin büyüklüğü, tetikleyen olay kadar öncesinde kurulmuş yapıya
-bağlıdır.
+Bir felaketin büyüklüğü, tetikleyen olay
+kadar öncesinde kurulmuş yapıya bağlıdır.[^k2]
 
 ## Toprak ve borç düzeni
 
@@ -251,9 +247,8 @@ kısmı daha tarlada iken borca sayılıyordu.
 Bu düzen, stok tutmayı imkânsız kılar.[^k3] Ürün, satılmak zorunda
 olduğu için üreticinin elinde kalmaz.
 
-Atlas bu bağı ayrıca kaydeder.[^k2] Kıtlığa karşı en etkili tampon
-olan hane stoğu, borç düzeni tarafından baştan ortadan
-kaldırılmıştı.
+Kıtlığa karşı en etkili tampon olan hane
+stoğu, borç düzeni tarafından baştan ortadan kaldırılmıştı.[^k2]
 
 ## Bir yıl önceki fırtına
 
@@ -263,9 +258,8 @@ hem hasada hem de depolanmış ürüne verildi.
 Bu olay tek başına kıtlık yaratmadı.[^k3] Ancak zaten dar olan payı
 daha da daralttı.
 
-Atlas bu tür etkenleri sıraya koyar.[^k2] Üst üste gelen küçük
-sarsıntılar, tek bir büyük sarsıntıdan daha ağır sonuç
-verebilir.
+Üst üste gelen küçük sarsıntılar, tek bir
+büyük sarsıntıdan daha ağır sonuç verebilir.[^k2]
 
 ## Kentin öncelenmesi
 
@@ -275,9 +269,8 @@ için özel bir tedarik düzeni kuruldu.
 Bu düzen kırsalın aleyhine işledi.[^k3] Piyasadan yapılan alımlar
 fiyatı daha da yukarı çekti.
 
-Atlas bu önceliklendirmeyi ayrıca kaydeder.[^k2] Bir kaynağın kime
-öncelikle gideceği kararı, kıtlık koşullarında doğrudan bir yaşam
-kararıdır.
+Bir kaynağın kime öncelikle
+gideceği kararı, kıtlık koşullarında doğrudan bir yaşam kararıdır.[^k2]
 
 ## Kırdan kente hareket
 
@@ -287,8 +280,8 @@ bulunabileceği beklentisi bu hareketi besledi.
 Kentte hazırlık yoktu.[^k3] Gelenlerin çoğu barınak ve gıda
 bulamadı.
 
-Atlas bu hareketi ölçüm sayar.[^k2] Bir kıtlığın kente ulaşması,
-kırsalda çoktan başlamış olduğunun gecikmeli göstergesidir.
+Bir kıtlığın kente ulaşması,
+kırsalda çoktan başlamış olduğunun gecikmeli göstergesidir.[^k2]
 
 ## Salgınların üst üste binmesi
 
@@ -298,8 +291,8 @@ hastalıklardan oldu.[^k1] Sıtma ve kolera aynı dönemde yayıldı.
 Kalabalık ve göç bu yayılmayı hızlandırdı.[^k3] Zayıf düşmüş bir
 nüfusta hastalık ölümcül hâle gelir.
 
-Atlas bu zinciri kaydeder.[^k2] Kıtlık ölümlerinin sayılmasında en
-büyük belirsizlik bu noktadan doğar.
+Kıtlık ölümlerinin sayılmasında en büyük
+belirsizlik bu noktadan doğar.[^k2]
 
 ## Yardımın biçimi
 
@@ -309,8 +302,8 @@ tahılın denetimli fiyatla satışı denendi.
 İki yöntemin kapsamı farklıdır.[^k3] Mutfaklar ulaşabildiği yerde
 işler; denetimli satış ise ödeme gücü kalmış olanlara ulaşır.
 
-Atlas bu farkı ayrıca kaydeder.[^k2] Bir yardım biçiminin seçimi,
-kimin kurtarılacağını da seçer.
+Bir yardım biçiminin seçimi, kimin kurtarılacağını da
+seçer.[^k2]
 
 ## Sonraki hasat
 
@@ -320,11 +313,10 @@ Kıtlığın sona ermesi, iyi bir hasatla oldu.[^k1] Yeni ürün piyasaya
 Bu, sorunun kendiliğinden çözüldüğü anlamına gelmez.[^k3] Ölümlerin
 büyük bölümü bu aşamadan önce gerçekleşmişti.
 
-Atlas bu sırayı ayrıca kaydeder.[^k2] Bir krizin sona ermesi,
-sonuçlarının geri alındığını göstermez.
+Bir krizin sona ermesi, sonuçlarının geri
+alındığını göstermez.[^k2]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, kıtlığın bölge bölge ve ay ay seyrini izlemez.[^k1] Künyedeki
 rapor bu düzeyde ayrıntı verir ve doğrudan okunabilir.
 
@@ -337,8 +329,7 @@ Kıtlıktan etkilenenlerin kendi kaydından bir birincil metin
 künyelenememiştir.[^k2] Künyedeki iki birincil belge de yönetimin
 kurduğu komisyona aittir ve bu kısıt burada beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Dönemin yönetimi için
 [Britanya İmparatorluğu](/aktor/britanya-imparatorlugu/) dosyası
 okunmalıdır.[^k1]

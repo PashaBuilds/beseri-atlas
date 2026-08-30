@@ -52,7 +52,7 @@ onarim_turu: 0
 Han hanedanının kuzey sınırındaki ilişki bir yenilgiyle açılır: Xiongnu, MÖ 200'de
 Han'ı yendi ve bu, Han'ı Xiongnu'yu evlilik ittifakı ve haraç ödemeleri
 politikasıyla yatıştırmaya yöneltti; buna rağmen Xiongnu akınlarını
-sürdürdü.[^k1] Bu dosya, o yenilginin nasıl bir dış politika mimarisine
+sürdürdü.[^k1] Bu inceleme, o yenilginin nasıl bir dış politika mimarisine
 dönüştüğünü ele alır.
 
 ## Yatıştırmadan tasfiyeye
@@ -111,8 +111,7 @@ bölgelerden geçiyordu.[^k1] Batıdaki düzen
 verilir.[^k3] Han'ın kendi nüfusuna dair bir ölçüm kullanılan kaynaklarda
 bulunmadığı için bu toplam içindeki payı burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Hanedanın yönetim yapısı, vergi düzeni, resmî öğretisi ve iç siyasi tarihi
 burada ayrı başlıklar altında ele alınmamıştır. Dönemin bütünü
 [MÖ 500–MS 200](/donem/04/) dosyasında ele alınıyor.

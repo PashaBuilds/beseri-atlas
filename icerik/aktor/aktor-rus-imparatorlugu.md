@@ -49,7 +49,7 @@ onarim_turu: 0
 
 Bu imparatorluğun yönetim biçimi tek bir satırla verilemez. Kaynak üç ayrı biçim
 kaydeder: 1721-1906 arasında üniter mutlak monarşi, 1906-1917 arasında üniter
-parlamenter yarı anayasal monarşi ve 1917'de geçici hükümet.[^k1] Bu dosya, o
+parlamenter yarı anayasal monarşi ve 1917'de geçici hükümet.[^k1] Bu inceleme, o
 **üç aşamalı dönüşümü** ele alır.
 
 ## Yüz seksen beş yıl, sonra on bir yıl, sonra bir yıl
@@ -59,7 +59,7 @@ uzanır, yarı anayasal evre 1906-1917 arasındadır, geçici hükümet ise tek 
 sıkışır.[^k1]
 
 Bir siyasi düzenin hızlanan biçim değişimi, çöküşün kendisinden önce gelen bir
-işarettir; atlas bunu bir kural olarak değil bu vakanın kaydı olarak aktarır.
+işarettir; korpus bunu bir kural olarak değil bu vakanın kaydı olarak aktarır.
 
 ## Hükümdar ve hükümet çizgisi
 
@@ -94,8 +94,7 @@ Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1914'te yakl
 1,82 milyardır.[^k3] İmparatorluğun kendi nüfusuna dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Toprak genişlemesi, serflik düzeni ve kaldırılması, milliyetler politikası ve
 1905 sonrası anayasal deney burada ayrı başlıklar altında ele alınmamıştır;
 kaynak bunları ayrı bölümler olarak işler.[^k1] Dönemin bütünü

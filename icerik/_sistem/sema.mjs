@@ -99,7 +99,10 @@ const ortak = {
   eksen: z.array(z.enum(EKSENLER)).min(1),
   guven_geneli: z.enum(GUVEN),
   etiketler: z.array(z.string().regex(/^[a-z0-9-]+$/)).default([]),
+  // `ilgili` karsilikli bir komsuluk bagidir. `baglam` ise bu makaleden
+  // acilan yonlu bir okuma kapisidir; hedefin geri bag vermesi gerekmez.
   ilgili: z.array(z.string()).default([]),
+  baglam: z.array(z.string()).default([]),
   okuma_onerisi: z.array(z.string()).default([]),
   kaynaklar: z.array(kaynakSemasi).min(1),
   son_denetim: isoGun,

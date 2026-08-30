@@ -18,6 +18,7 @@ etiketler: [fatimiler, kahire, ismaili, hilafet, nesep, ezher, kuzey-afrika]
 ilgili:
   - donem-07
   - aktor-abbasi-hilafeti
+baglam:
   - aktor-eyyubi-devleti
   - aktor-buyuk-selcuklu
   - olay-hacli-seferleri

@@ -59,7 +59,7 @@ onarim_turu: 0
 İmparatorluk Amerika, Afrika, Asya ve Okyanusya'da olduğu kadar Avrupa'nın diğer
 bölgelerinde de toprak taşıyordu; erken modern dönemin en güçlü
 imparatorluklarından biriydi ve üzerinde güneşin hiç batmadığı imparatorluk
-olarak anılır hale geldi.[^k1] Bu dosya, o nitelemenin **ölçülebilir
+olarak anılır hale geldi.[^k1] Bu inceleme, o nitelemenin **ölçülebilir
 karşılığını** ele alır.
 
 ## Nitelemenin sayısal karşılığı
@@ -69,7 +69,7 @@ başındaki en geniş noktasında İspanyol İmparatorluğu 13,7 milyon kilometr
 alan kaplıyordu ve bu onu tarihin en büyük imparatorluklarından biri
 yapıyordu.[^k1]
 
-Bu, atlasın alışılmış uyarısını gerektirir: alan ölçüsü denetimin niteliğini
+Bu, korpusun alışılmış uyarısını gerektirir: alan ölçüsü denetimin niteliğini
 vermez. Gösterim sorununun kendisi
 [İmparatorluk sınırı haritada nasıl gösterilmeli?](/tartisma/imparatorluk-siniri-nasil-cizilir/)
 haritasında ele alınıyor.
@@ -111,8 +111,7 @@ Uzun dönemli seride dünya nüfusu 1600'de yaklaşık 516,1 milyon, 1848'de yak
 1,27 milyardır.[^k3] İmparatorluğun yönettiği nüfusa dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Amerika'daki sömürge yönetimi, gümüş ekonomisi, bağımsızlık savaşları ve
 imparatorluğun tasfiyesi burada ayrı başlıklar altında ele alınmamıştır; kaynak
 bunları ayrı bölümler olarak işler.[^k1] Dönemin bütünü

@@ -12,8 +12,9 @@ eksen: [dini, kulturel, siyasi]
 guven_geneli: yaygin
 etiketler: [ulema, ilmiye, medrese, icazet, fetva, seyhulislam, mulazemet]
 ilgili:
-  - aktor-osmanli-imparatorlugu
   - tartisma-osmanli-gerileme-tezi
+baglam:
+  - aktor-osmanli-imparatorlugu
   - kavram-timar
   - kavram-vakif
   - kavram-ictihad

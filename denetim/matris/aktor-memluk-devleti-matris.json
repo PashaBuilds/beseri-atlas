@@ -1,7 +1,7 @@
 {
   "id": "aktor-memluk-devleti",
-  "govde_hash": "f637f768c031",
-  "commit": "c634195",
+  "govde_hash": "968db7d2767c",
+  "commit": "4373ec95",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -748,6 +748,12 @@
     {
       "zaman": "2026-08-29",
       "gerekce": "2 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "f637f768c031",
+      "yeni_hash": "968db7d2767c",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
     }
   ]
 }

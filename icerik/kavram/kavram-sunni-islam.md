@@ -11,11 +11,12 @@ eksen: [dini, felsefi, siyasi]
 guven_geneli: yaygin
 etiketler: [sunni-islam, ehl-i-sunnet, mezhep, icma, kiyas, fikih, ulema]
 ilgili:
+  - aktor-abbasi-hilafeti
+baglam:
   - kavram-ictihad
   - kavram-ulema
   - kavram-tasavvuf
   - kavram-mesruiyet
-  - aktor-abbasi-hilafeti
   - aktor-emevi-hilafeti
   - aktor-fatimi-hilafeti
   - dusunur-gazali

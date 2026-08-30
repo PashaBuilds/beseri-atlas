@@ -20,11 +20,12 @@ ilgili:
   - aktor-delhi-sultanligi
   - kaynak-baburname
   - kaynak-ain-i-akbari
-  - aktor-timur-imparatorlugu
   - aktor-marathalar
   - aktor-bengal-sultanligi
-  - aktor-ingiliz-doguhindistan-sirketi
   - olay-plassey-1757
+baglam:
+  - aktor-timur-imparatorlugu
+  - aktor-ingiliz-doguhindistan-sirketi
   - kavram-imparatorluk
   - kavram-mesruiyet
   - kavram-tarih-yazimi
@@ -119,7 +120,7 @@ maiyetteki süvari sayısıyla ölçülür, gelir hizmet karşılığı verilen 
 ödenir,[^k3] meşruiyet ise tek bir mezhebe değil hükümdarın bütün mezheplerin
 üstünde kutsal bir konum iddiasına bağlanır.[^k6] Sayıca küçük ve başka dil
 konuşan bir askerî seçkinin kendisinden çok daha kalabalık bir tarım toplumunu
-bu iki dayanakla yönettiği, kaynakların ayrı ayrı verdiklerinden bu dosyanın
+bu iki dayanakla yönettiği, kaynakların ayrı ayrı verdiklerinden bu incelemenin
 çıkardığı çerçevedir. İkinci güçlük kayıttadır. Pirbhai'nin özeti, Bâbürlü
 devletinden bir devlet arşivi kalmamasını ve dönem derlemelerinin Britanya
 sömürgeciliğiyle birlikte oluşmuş olmasını, İslam hukuku çalışmalarındaki
@@ -285,7 +286,7 @@ geliyor. Pirbhai'nin özeti, devletin kendi arşivinin bulunmamasını ve dönem
 derlemelerinin Britanya sömürgeciliğiyle oluşmasını İslam hukuku çalışmaları
 için tarif eder;[^k7] Faruqui'nin özeti ise Evrengzîb okumasının iki ucunun
 bugün de canlı olduğunu bildirir.[^k9] İkisini birleştirip bütün bir tarih
-görüntüsüne genellemek bu dosyanın çıkarımıdır, kaynakların beyanı değil.
+görüntüsüne genellemek bu incelemenin çıkarımıdır, kaynakların beyanı değil.
 Kurucu metne dönüldüğünde geriye daha az gösterişli bir şey kalıyor: yedi yüz
 arabayı ham deri halatla bağlayan, geldiği ülkeyi beğenmeyen ama servetini
 sayan, kaydı ve tahsilatı zaten yürüten bir kadronun üstüne oturan bir askerî

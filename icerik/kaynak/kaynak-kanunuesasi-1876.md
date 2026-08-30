@@ -82,7 +82,7 @@ sayar ve yürütmenin yapısını tanımlar.
 Anayasa iki yıl sonra fiilen askıya alındı.[^k2] Meclis tatil edildi ve
 otuz yıl boyunca toplanmadı.
 
-Bu dosyanın asıl konusu askıya alınma biçimidir.[^k1] Meclis, anayasanın
+Bu incelemenin asıl konusu askıya alınma biçimidir.[^k1] Meclis, anayasanın
 ihlal edilmesiyle değil anayasanın kendi maddesi kullanılarak
 kapatıldı.
 
@@ -106,9 +106,9 @@ anayasa hazırlığında yer alan kişilere karşı da kullanıldı.
 İki madde birlikte okunmalıdır.[^k2] Biri kurumu, öteki kişileri
 etkisizleştirmeyi mümkün kılar.
 
-Atlas bu birlikteliği ayrıca kaydeder.[^k3] Bir belgenin hangi
-maddelerinin bir arada kullanılabildiği, o belgenin gerçek etkisini
-metnin tek tek maddelerinden daha iyi gösterir.
+Bir belgenin hangi maddelerinin bir arada
+kullanılabildiği, o belgenin gerçek etkisini metnin tek tek maddelerinden daha iyi
+gösterir.[^k3]
 
 ## Maddenin nasıl girdiği
 
@@ -119,9 +119,9 @@ Bu, anayasa hazırlığının genel bir kısıtını gösterir.[^k3] Yürürlü�
 girmesi mevcut iktidarın onayına bağlı olan bir metin, o iktidarı
 sınırlandırma kapasitesini baştan sınırlar.
 
-Atlas bu kısıtı ayrıca yazar.[^k1] Bir sınırlama belgesinin
-sınırlanacak tarafça onaylanması gerekiyorsa, belge o tarafın kabul
-edebileceği kadar sınırlayıcı olabilir.
+Bir sınırlama belgesinin
+sınırlanacak tarafça onaylanması gerekiyorsa, belge o tarafın kabul edebileceği kadar
+sınırlayıcı olabilir.[^k1]
 
 ## Bir önceki halkayla ilişki
 
@@ -142,7 +142,7 @@ kaldı.
 Anayasa askıya alındıktan sonra metin ortadan kaldırılmadı.[^k2] Resmî
 yıllıklarda yayımlanmayı sürdürdü.
 
-Bu, atlasın Magna Carta dosyasında ölçtüğü örüntüyle aynı
+Bu, korpusun Magna Carta dosyasında ölçtüğü örüntüyle aynı
 ailedendir.[^k1] Bir belge, işlemediği dönemde de varlığını sürdürebilir
 ve sonradan yeniden canlandırılabilir.
 
@@ -160,8 +160,8 @@ Referans noktası olmak, uygulanmaktan farklı bir güçtür.[^k3] Var olan
 ama işlemeyen bir belge, yeni bir belge yazmaya gerek kalmadan bir talep
 formüle etmeyi mümkün kılar.
 
-Atlas bu işlevi ayrıca kaydeder.[^k1] Bir belgenin siyasi değeri,
-yürürlükte olup olmamasından bağımsız olarak ölçülmelidir.
+Bir belgenin siyasi değeri, yürürlükte
+olup olmamasından bağımsız olarak ölçülmelidir.[^k1]
 
 ## Kapsam ifadesi
 
@@ -170,7 +170,7 @@ Kategori, kişinin bağlı olduğu topluluktan bağımsız olarak
 tanımlanır.
 
 Bu, bir önceki halkanın kapsam ifadesini anayasa düzeyine
-taşır.[^k3] Atlasın hak kapsamı dizisinde beşinci ölçüm noktasıdır.
+taşır.[^k3] Korpusun hak kapsamı dizisinde beşinci ölçüm noktasıdır.
 
 Uygulama düzeyinde kapsamın ne ölçüde işlediği ayrı bir sorudur.[^k2]
 Dosya bu soruyu açık bırakır; ölçüm yapılmamıştır.
@@ -185,8 +185,8 @@ Meclis kısa ömrüne rağmen tartışmalı oturumlar yaptı.[^k3] Savaş
 yönetimine yöneltilen eleştiriler, kapatma kararının gerekçelerinden
 biri olarak anılır.
 
-Atlas gerekçeyi kaydeder ve doğrulamaz.[^k1] Bir kurumun kapatılma
-gerekçesi, kapatan tarafın beyanıdır ve bağımsız olarak sınanmalıdır.
+Bir kurumun kapatılma gerekçesi,
+kapatan tarafın beyanıdır ve bağımsız olarak sınanmalıdır.[^k1]
 
 ## Savaşın rolü
 
@@ -196,13 +196,13 @@ yaşandı.[^k2] Savaş ağır bir yenilgiyle sonuçlandı.
 Askıya almanın savaşla ilişkisi tartışmalıdır.[^k3] Bir okumada savaş
 bir gerekçe, başka bir okumada bir fırsat sayılır.
 
-Atlas bir sonuca bağlanmaz.[^k1] İki okuma da aynı olgulara uyar ve
-ayrım ancak karar sürecine ilişkin belgelerle yapılabilir.
+İki okuma da aynı olgulara uyar ve ayrım
+ancak karar sürecine ilişkin belgelerle yapılabilir.[^k1]
 
 ## Künyenin dili
 
-Bu dosyada künyelenen metin bir çeviridir.[^k1] Özgün metnin
-doğrulanabilir çevrimiçi tam baskısı bu dosya yazıldığında
+Bu incelemede künyelenen metin bir çeviridir.[^k1] Özgün metnin
+doğrulanabilir çevrimiçi tam baskısı bu inceleme yazıldığında
 bulunamamıştır.
 
 Bu kısıt gizlenmez, kayda geçirilir.[^k1] Çeviri ya da çok dilli bir
@@ -214,18 +214,17 @@ metne dayanır ve özgün metinle karşılaştırılmamıştır.
 
 ## Belge katmanındaki yeri
 
-Atlasın belge türü kaynakları bu turla altıya çıktı.[^k1] Altısından
-ikisi Osmanlı belgesi, dördü başka geleneklerden gelir.
+Altısından ikisi Osmanlı
+belgesi, dördü başka geleneklerden gelir.[^k1]
 
 Denge hâlâ eksiktir.[^k3] Doğu Asya, Güney Asya ve Afrika
 geleneklerinden hiçbir hukuk belgesi künyelenmemiştir.
 
 Eksik borç defterine yazılmıştır.[^k2] Belge katmanının bölge dağılımı,
-atlasın öteki katmanlarındakinden daha dengesizdir ve bu, kaynak
+korpusun öteki katmanlarındakinden daha dengesizdir ve bu, kaynak
 erişilebilirliğiyle doğrudan ilgilidir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, anayasanın samimi bir sınırlama girişimi olup olmadığı hakkında
 hüküm vermez.[^k2] Metnin ne içerdiğini ve nasıl kullanıldığını
 kaydeder.
@@ -236,8 +235,7 @@ kaydedilir.
 Maddelerin tek tek içeriği aktarılmaz.[^k1] Metin künyede erişilebilir
 durumdadır.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı zincirin önceki halkası için
 [Gülhane Hatt-ı Şerîfi](/kaynak/gulhane-hatti/) dosyası okunmalıdır;
 ikisi birlikte okunduğunda kırk yıllık hat görünür.[^k3]

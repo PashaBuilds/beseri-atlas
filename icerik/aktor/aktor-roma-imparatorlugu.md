@@ -58,7 +58,7 @@ onarim_turu: 0
 ---
 
 Roma İmparatorluğu, klasik dönemde Akdeniz'e ve Avrupa'nın, Batı Asya'nın ve
-Kuzey Afrika'nın büyük bölümüne hâkim olan bir devletti.[^k1] Bu dosya fetih
+Kuzey Afrika'nın büyük bölümüne hâkim olan bir devletti.[^k1] Bu inceleme fetih
 tarihini değil, **rejim değişikliğinin niteliğini** ele alır.
 
 ## Fetih önce, imparatorluk sonra
@@ -100,7 +100,7 @@ kolonisi olarak yeniden kurdu.[^k1]
 ## İki sonu olan devlet
 
 Roma'nın "sonu" tek bir tarih değildir. MS 395'ten sonra batı kanadı 476/480'e,
-doğu kanadı ise 1453'e kadar sürer.[^k1] Bu, atlasın kronolojik omurgasında tek
+doğu kanadı ise 1453'e kadar sürer.[^k1] Bu, korpusun kronolojik omurgasında tek
 bir aktörün üç dönem boyunca taşınması demektir.
 
 Doğu kanadının 1453'e kadar sürmesine karşılık batı kanadının 476/480'de
@@ -123,10 +123,9 @@ Afrika'nın büyük bölümüne hâkim olan bir devletin[^k1] bu toplam içindek
 dair bir ölçüm kullanılan kaynaklarda bulunmadığı için burada oran
 verilmemiştir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 İmparatorun pontifex maximus sıfatıyla merkezî dinî otorite haline gelmesi[^k1]
-bu dosyada yalnızca rejim yapısı bakımından ele alınmıştır; Roma hukuku, ordu
+bu incelemede yalnızca rejim yapısı bakımından ele alınmıştır; Roma hukuku, ordu
 örgütlenmesi, eyalet yönetimi ve dinî dönüşümün kendisi ayrı başlıklar
 gerektirir ve burada işlenmemiştir. Dönemin bütünü
 [MÖ 500–MS 200](/donem/04/) dosyasında ele alınıyor.

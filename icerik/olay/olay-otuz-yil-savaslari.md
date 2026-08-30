@@ -55,7 +55,7 @@ onarim_turu: 0
 Savaşın çıkışı bir inanç kavgasından çok bir sayım sorunudur. Yedi seçici prens
 daha önce üç Protestan ve dört Katolik'ten oluştuğu için, Ferdinand'ın yerine
 Frederick'in geçmesi dinî dengeyi değiştirecek, Protestan bir imparatorun
-seçilmesini ve Habsburg üstünlüğünün sonunu mümkün kılacaktı.[^k1] Bu dosya,
+seçilmesini ve Habsburg üstünlüğünün sonunu mümkün kılacaktı.[^k1] Bu inceleme,
 savaşın **çoklu nedenselliğini** ele alır.
 
 ## Bir hanedan anlaşması
@@ -77,7 +77,7 @@ sağlıyordu ve 1618'e gelindiğinde bu yolun İspanya'nın denetiminde olmayan 
 bölümü Seçici Palatinalık'tan geçiyordu.[^k1]
 
 Bu, savaşın haritasını açıklar: Palatinalık'ın kimin elinde olacağı, teolojik değil
-lojistik bir sorudur. Atlas burada dinî nedeni reddetmez; tek başına yeterli
+lojistik bir sorudur. Korpus burada dinî nedeni reddetmez; tek başına yeterli
 olmadığını gösterir.
 
 ## Kıvılcım
@@ -124,8 +124,7 @@ olarak verilir.[^k4] Savaşan ordular için verilen azami kuvvet sayıları[^k1]
 ölçekteki bir dünyaya aittir; iki seri farklı olduğu için burada oran
 kurulmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Muharebelerin seyri, komutanların askerî kararları, savaşın nüfus üzerindeki
 etkisine dair tahminler ve bölge bölge tahribat burada ayrı başlıklar altında ele
 alınmamıştır. Dönemin bütünü [1500–1650](/donem/09/) dosyasında ele alınıyor.

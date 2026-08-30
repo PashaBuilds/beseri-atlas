@@ -46,7 +46,7 @@ başlık vardır.[^k1]
 
 ## Aynı soruya iki kaynak türü
 
-::tartismali[Aynı ansiklopedi maddesi, ordu büyüklüğü için idari kayıtları ve anlatı kaynaklarını ayrı ayrı işliyor. Bu, iki kaynak türünün aynı soruya farklı cevaplar verdiği anlamına gelir. Atlas tek bir sayı yazmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Aynı ansiklopedi maddesi, ordu büyüklüğü için idari kayıtları ve anlatı kaynaklarını ayrı ayrı işliyor. Bu, iki kaynak türünün aynı soruya farklı cevaplar verdiği anlamına gelir. Korpus tek bir sayı yazmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Sayı kaynaklarının nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -57,8 +57,8 @@ haritasında ele alınıyor.
 Kaynak, kavramın kökenine ayrı bir bölüm ayırır ve ardından bir kronoloji bölümü
 tutar.[^k1]
 
-Bir kavramın kökeninin bir bölüm başlığı olması,[^k1] atlasın şu kuralının
-dayanağıdır: bu dosyada askerî devrim, bir olgu adı olarak değil bir araştırma
+Bir kavramın kökeninin bir bölüm başlığı olması,[^k1] korpusun şu kuralının
+dayanağıdır: bu incelemede askerî devrim, bir olgu adı olarak değil bir araştırma
 önerisi olarak anılır.
 
 ## Taktik değişimi ad ad sayılır
@@ -80,8 +80,7 @@ arasında yaşamış bir Prusya ordusu subayı ve askerî kuramcı olarak verir 
 savaşta çeşitli etkenlerin çoklu etkileşimlerine dikkat çektiğini yazar.[^k2] O kuramcı
 [Carl von Clausewitz](/dusunur/clausewitz/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kronolojinin ayrıntıları, tahkimat tartışması ve kavrama yöneltilen eleştiriler
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1]

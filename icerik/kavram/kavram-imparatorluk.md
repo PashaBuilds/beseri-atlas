@@ -53,7 +53,7 @@ dönem alt başlıklarına ayrılır.[^k1]
 Kaynak, imparatorlukların çöküşü başlığı altında Roma İmparatorluğu'nu ve
 sömürgesizleşmeyi ayrı alt başlıklar olarak tutar.[^k1]
 
-::tartismali[Bir kavramın çöküş bölümünde yalnızca bir imparatorluğun adı geçiyor ve yanında bir süreç adı var. Atlas bu dosyada "çöküş" kategorisini tek bir modele bağlamaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bir kavramın çöküş bölümünde yalnızca bir imparatorluğun adı geçiyor ve yanında bir süreç adı var. Korpus bu incelemede "çöküş" kategorisini tek bir modele bağlamaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu kategorinin nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -61,14 +61,14 @@ haritasında ele alınıyor.
 
 ## Geçiş ayrı bir bölümdür
 
-Çöküşün yanında imparatorluktan geçiş diye ayrı bir bölüm bulunması,[^k1] atlasın
-şu kuralının dayanağıdır: bu atlasta imparatorlukların sonu, bir yıkım değil bir
+Çöküşün yanında imparatorluktan geçiş diye ayrı bir bölüm bulunması,[^k1] korpusun
+şu kuralının dayanağıdır: bu korpusta imparatorlukların sonu, bir yıkım değil bir
 dönüşüm kaydı olarak tutulur; ilgili süreç
 [Sömürgesizleşme](/kavram/somurgesizlesme/) dosyasında ele alınıyor.[^k3]
 
 ## Tanım kendi bölümüdür
 
-Kaynağın ilk bölümünü tanıma ayırması,[^k1] atlasın imparatorluk sınırlarının
+Kaynağın ilk bölümünü tanıma ayırması,[^k1] korpusun imparatorluk sınırlarının
 haritada nasıl gösterileceğini neden ayrı bir tartışma dosyasında tuttuğunun
 dayanağıdır; o tartışma
 [İmparatorluk sınırı haritada nasıl gösterilmeli?](/tartisma/imparatorluk-siniri-nasil-cizilir/)
@@ -84,9 +84,8 @@ düşünür olarak verir.[^k2] O düşünür
 
 ## Ölçütler
 
-Atlas bir düzeni üç ölçütle imparatorluk sayar.[^k1] Birincisi kapsam:
-birden çok halkı ve birden çok hukuk geleneğini bir arada
-yönetmek.
+Birincisi kapsam: birden çok halkı
+ve birden çok hukuk geleneğini bir arada yönetmek.[^k1]
 
 İkincisi hiyerarşi: merkez ile çevre arasında hukuki ya da mali bir
 eşitsizlik bulunması.[^k2] Üçüncüsü kalıcılık: bu düzenin bir kuşaktan
@@ -104,9 +103,8 @@ Bu, iki biçimin meşruiyet kaynağını da
 ayırır.[^k2] Biri ortaklığa, diğeri hiyerarşiye
 dayanır.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] İmparatorluğun eşitsizliği bir
-kusur değil tanımının parçasıdır; ulus-devletin eşitlik iddiası da
-uygulamayı garanti etmez.
+İmparatorluğun eşitsizliği bir kusur değil tanımının
+parçasıdır; ulus-devletin eşitlik iddiası da uygulamayı garanti etmez.[^k3]
 
 ## Doğrudan ve dolaylı yönetim
 
@@ -118,9 +116,8 @@ Seçim maliyet hesabına dayanır.[^k2] Doğrudan yönetim pahalıdır;
 dolaylı yönetim maliyeti yerel yöneticiye
 devreder.
 
-Atlas bu hesabı ayrıca kaydeder.[^k3] Aynı imparatorluk aynı dönemde
-farklı biçimler kullanır ve fark ideolojiden değil maliyetten
-gelir.
+Aynı imparatorluk aynı dönemde farklı
+biçimler kullanır ve fark ideolojiden değil maliyetten gelir.[^k3]
 
 ## Mesafe sorunu
 
@@ -129,12 +126,11 @@ bölgeleri, haberin günlerce sürdüğü koşullarda
 yönetmek.
 
 Fiilî büyüklük, sınırlardan çok merkezle çevre arasındaki haber
-süresiyle ölçülebilir.[^k2] Bu ölçüt atlasın birçok dosyasında
+süresiyle ölçülebilir.[^k2] Bu ölçüt korpusun birçok dosyasında
 kullanılır.
 
-Atlas bu ölçütü ayrıca kaydeder.[^k3] İletişim hızındaki bir artış,
-doğrudan bir merkezîleşme
-aracıdır.
+İletişim hızındaki bir artış,
+doğrudan bir merkezîleşme aracıdır.[^k3]
 
 ## Çeşitliliğin yönetimi
 
@@ -142,12 +138,11 @@ Birden çok halkı yönetmek bir çözüm gerektirir.[^k1] Üç yol
 görülür: tek hukuk dayatmak, yerel hukuku tanımak, ya da kişinin
 topluluğuna göre hukuk belirlemek.
 
-Üçü farklı sonuç verir.[^k2] Atlas her imparatorluk dosyasında hangi
+Üçü farklı sonuç verir.[^k2] Korpus her imparatorluk dosyasında hangi
 yolun seçildiğini kaydeder.
 
-Atlas bu tercihi ölçüm sayar.[^k3] Bir imparatorluğun çeşitliliği
-yönetme biçimi, onun kalıcılığının en iyi
-göstergelerindendir.
+Bir imparatorluğun çeşitliliği
+yönetme biçimi, onun kalıcılığının en iyi göstergelerindendir.[^k3]
 
 ## Çözülme örüntüsü
 
@@ -158,8 +153,8 @@ tabanın kendi çıkarını izlemesi.
 Üçü çoğu zaman birlikte görülür.[^k2] Sıra bölgeden bölgeye
 değişir.
 
-Atlas bu örüntüyü ayrıca kaydeder.[^k3] Aynı çözülme biçiminin farklı
-kıtalarda görülmesi, onu yapısal kılar.
+Aynı çözülme biçiminin farklı kıtalarda
+görülmesi, onu yapısal kılar.[^k3]
 
 ## Sonrası
 
@@ -170,9 +165,8 @@ kalır.
 Ardıl devletler bu mirası devralır.[^k2] Devraldıkları sorunlar da
 mirasın parçasıdır.
 
-Atlas bu sürekliliği ayrıca kaydeder.[^k3] Bir düzenin siyasi olarak
-sona ermesi, kurumsal biçimlerinin de sona erdiği anlamına
-gelmez.
+Bir düzenin siyasi olarak sona ermesi,
+kurumsal biçimlerinin de sona erdiği anlamına gelmez.[^k3]
 
 ## Terimin kullanımı
 
@@ -181,12 +175,11 @@ kazandı.[^k1] Kendini böyle adlandıran düzenler
 azaldı.
 
 Bu, kavramın çözümleyici değerini ortadan
-kaldırmaz.[^k2] Atlas terimi ölçütlerle uygular, kendi
+kaldırmaz.[^k2] Korpus terimi ölçütlerle uygular, kendi
 adlandırmalarına bakmaz.
 
-Atlas bu tutumu ayrıca kaydeder.[^k3] Bir düzenin kendini nasıl
-adlandırdığı, ölçütleri karşılayıp karşılamadığından ayrı bir
-veridir.
+Bir düzenin kendini nasıl adlandırdığı, ölçütleri
+karşılayıp karşılamadığından ayrı bir veridir.[^k3]
 
 
 ## Kaydın yönü
@@ -195,10 +188,9 @@ veridir.
 gelir.[^k1] Çevre bölgeler hakkında bilinen, merkezin onlar hakkında
 yazdığıdır.
 
-Atlas bu dengesizliği her dosyada beyan eder.[^k2] Bir düzenin
-merkezleri, o düzenin kaydını da merkezîleştirir.[^k3]
+Bir düzenin merkezleri, o düzenin kaydını
+da merkezîleştirir.[^k3][^k2]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Tanımın içeriği, özellikler ve dönem dönem tarihler burada ayrı başlıklar altında
 ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]

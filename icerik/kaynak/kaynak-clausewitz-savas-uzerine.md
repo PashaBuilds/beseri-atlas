@@ -76,7 +76,7 @@ eserin önsözünü yazdığı ve 1835'e kadar toplu eserlerinin çoğunu yayım
 yazılır.[^k1]
 
 Bir eserin bugünkü biçiminin yazarından sonra bir başkasının düzenleme
-kararlarıyla oluşması,[^k1] atlasın şu kuralının dayanağıdır: bu dosyada esere
+kararlarıyla oluşması,[^k1] korpusun şu kuralının dayanağıdır: bu incelemede esere
 atfedilen hiçbir önerme, hangi düzenlemeye ait olduğu belirtilmeden tek bir
 yazara mal edilmez.
 
@@ -105,5 +105,5 @@ savaş ilkelerini sayar.[^k3] O yazar
 
 ## Metne bağ
 
-Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Eserin kendisi kamu malıdır; hangi baskının ve
+Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Eserin kendisi kamu malıdır; hangi baskının ve
 hangi çevirinin kullanıldığı her aktarımda belirtilmelidir.

@@ -14,10 +14,11 @@ eksen: [siyasi, felsefi]
 guven_geneli: yaygin
 etiketler: [arendt, totalitarizm, kamusal-alan, eichmann, yargi]
 ilgili:
-  - dusunur-kant
-  - dusunur-foucault
   - olay-ikinci-dunya-savasi
   - kavram-kamusal-alan
+baglam:
+  - dusunur-kant
+  - dusunur-foucault
   - kavram-vatandaslik
 okuma_onerisi: []
 kaynaklar:

@@ -121,8 +121,7 @@ yılı için yaklaşık 323,5 milyon olarak verilir.[^k4] Devletin kendi nüfusu
 verilen değerler[^k1] farklı bir seriden geldiği için burada iki seri arasında
 oran kurulmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Hukuk düzeni, kilise ile devlet ilişkisi, ordu ve eyalet düzeni ile dinî imge
 tartışması burada ayrı başlıklar altında ele alınmamıştır. Dönemin bütünü
 [200–650](/donem/05/) dosyasında ele alınıyor.

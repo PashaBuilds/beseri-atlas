@@ -17,10 +17,11 @@ etiketler: [kultur-devrimi, kizil-muhafizlar, mao, tasfiye, cin, olu-sayisi]
 ilgili:
   - donem-14
   - aktor-cin-halk-cumhuriyeti
-  - olay-cin-devrimi-1949
   - olay-cin-reformlari-1978
-  - olay-1968-hareketleri
   - tartisma-tarihsel-sayilar-nasil-okunur
+baglam:
+  - olay-cin-devrimi-1949
+  - olay-1968-hareketleri
   - kavram-tarih-yazimi
   - kavram-birincil-kaynak
   - kavram-mesruiyet

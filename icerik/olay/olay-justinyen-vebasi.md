@@ -47,7 +47,7 @@ onarim_turu: 0
 ---
 
 Justinyen vebası (MS 541–549), bütün Akdeniz havzasını etkileyen bir veba
-salgınıydı.[^k1] Bu dosya salgının kendisi kadar, **bilançosunun neden hâlâ
+salgınıydı.[^k1] Bu inceleme salgının kendisi kadar, **bilançosunun neden hâlâ
 tartışıldığını** ele alır.
 
 ## Etken kesinleşti
@@ -79,7 +79,7 @@ etkisine dair iddialar yöntemleri ve kaynakları ele alışları bakımından
 eleştirilmiştir.[^k1] Yani hem "büyük felaket" hem de "abartıldı" konumu, kendi
 karşı eleştirisiyle birlikte kayda geçmiştir.
 
-Atlas bu iki konum arasında hakemlik yapmaz. Kaydettiği şey şudur: etkenin
+Korpus bu iki konum arasında hakemlik yapmaz. Kaydettiği şey şudur: etkenin
 kimliği kanıtlanmış olsa bile ölçeği kanıtlanmış olmaz — mikrobiyolojik kesinlik
 demografik kesinlik vermez.
 
@@ -108,8 +108,7 @@ ulaşım ağlarına ve nüfus yoğunluğuna da bağlı olduğunu düşündürür
 verilir.[^k3] Salgının bu toplam üzerindeki etkisine dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için burada oran verilmemiştir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Salgının yayılma güzergâhı, dönemin tıbbi anlayışı ve dönemin fetih
 politikasıyla ilişkisi burada ayrı başlıklar altında ele alınmamıştır. Dönemin
 bütünü [200–650](/donem/05/) dosyasında ele alınıyor.

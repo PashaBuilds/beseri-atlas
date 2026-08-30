@@ -62,11 +62,11 @@ onarim_turu: 0
 
 Soğdlular, Orta Asya'da iki büyük nehir arasındaki vahalar kuşağında yaşayan
 ve kıtalar arası kara ticaretini yüzyıllar boyunca yürüten
-topluluktur.[^k1][^k4] Atlasın bölge şemasında Orta Asya ile Doğu Asya'nın
+topluluktur.[^k1][^k4] Korpusun bölge şemasında Orta Asya ile Doğu Asya'nın
 kesiştiği yerde durur.
 
-Bu dosyanın ayırt edici yanı, konusunun bir siyasi birim
-olmamasıdır.[^k1][^k3] Atlasın aktör katmanındaki dosyaların neredeyse tamamı
+Bu incelemenin ayırt edici yanı, konusunun bir siyasi birim
+olmamasıdır.[^k1][^k3] Korpusun aktör katmanındaki dosyaların neredeyse tamamı
 devlet, imparatorluk ya da örgüttür; burada konu, ortak dili ve ortak ticaret
 pratiği olan bir topluluktur.
 
@@ -85,7 +85,7 @@ Siyasi birleşmenin olmaması, ağın işlemesine engel olmadı.[^k1] Ortak dil,
 ortak yazı ve ortak ticaret usulü, merkezî bir yönetimin sağlayacağı
 güvenceyi başka yoldan sağladı.
 
-Bu, atlasın kaydettiği önemli bir ayrımdır. Uzun mesafeli ticaretin
+Bu önemli bir ayrımdır. Uzun mesafeli ticaretin
 yürümesi için bir devletin yolları denetlemesi tek yol değildir; bir
 topluluğun kendi içinde güven kurması da yeterli olabilir.[^k2][^k4]
 
@@ -100,21 +100,21 @@ tüccar, tanımadığı bir şehirde kendi topluluğundan birine mal bırakabili
 bırakılan malın karşılığı, kişisel tanışıklıkla değil topluluk aidiyetiyle
 güvence altına alınır.
 
-Atlasın [Ticaret diasporası](/kavram/ticaret-diasporasi/) dosyası bu yapıyı
-kavram düzeyinde tanımlar. Bu dosya, kavramın en çok belgelenmiş
+Korpusun [Ticaret diasporası](/kavram/ticaret-diasporasi/) dosyası bu yapıyı
+kavram düzeyinde tanımlar. Bu inceleme, kavramın en çok belgelenmiş
 örneklerinden birini verir.[^k1][^k4]
 
 ## Dil, ticaretin altyapısı olarak
 
 Bu topluluğun dili, ticaret yolu boyunca ortak iletişim dili hâline
 geldi.[^k1][^k4] Ticaretin kendisinden başka bir siyasi güç tarafından
-desteklenmeden yaygınlaşan bir dil, atlasta seyrek karşılaşılan bir olgudur.
+desteklenmeden yaygınlaşan bir dil, korpusta seyrek karşılaşılan bir olgudur.
 
 Dilin yayılma biçimi de kaydedilmelidir. Bir dil, onu konuşanların askerî
 üstünlüğüyle değil, o dili bilmenin ticari işleri kolaylaştırmasıyla
 yayılmıştır.[^k2]
 
-Bu, atlasın dil yayılımı hakkında tek bir açıklamaya bağlanmamasının
+Bu, korpusun dil yayılımı hakkında tek bir açıklamaya bağlanmamasının
 gerekçelerinden biridir.[^k4] Fetih, göç ve ticaret ayrı ayrı yayılma
 yollarıdır ve biri ötekinin yerine geçmez.
 
@@ -128,9 +128,8 @@ Aynı topluluğun farklı inançlara mensup üyelerinin aynı ağ içinde çalı
 ağın aidiyet ölçütünün inanç olmadığını gösterir.[^k1] Ölçüt dil, köken ve
 ticari usuldü.
 
-Atlas bu noktayı kaydeder çünkü inanç birliğini topluluk birliğinin ön şartı
-sayan okumaları sınırlar.[^k4] Burada bir topluluk, inanç farkına rağmen değil
-inanç farkını konu etmeden birlikte çalışmıştır.
+Burada bir topluluk, inanç farkına
+rağmen değil inanç farkını konu etmeden birlikte çalışmıştır.[^k4]
 
 ## Kayıtların ikinci ellik sorunu
 
@@ -146,21 +145,21 @@ değildir.
 
 ::tartismali[Bu topluluğun ticaret ağındaki payının ne kadar büyük olduğu,
 aracılık mı yoksa doğrudan üretim ve satış mı yaptıkları ve ağın ne zaman
-zayıfladığı kaynaklar arasında farklı değerlendirilir; atlas bir sonuca
+zayıfladığı kaynaklar arasında farklı değerlendirilir; korpus bir sonuca
 bağlanmaz.]{harita=tartisma-imparatorluk-siniri-nasil-cizilir}
 
 ## Birincil metin bulunamamıştır
 
-Bu dosya için topluluğun kendi dilinde, doğrulanabilir ve tam metin olarak
+Bu inceleme için topluluğun kendi dilinde, doğrulanabilir ve tam metin olarak
 erişilebilir bir birincil kaynak bulunamamıştır.[^k1][^k4] Bu bir kısıttır ve
 künyede gizlenmemiştir.
 
 Topluluğun kendi mektupları ve ticari belgeleri bilinmektedir; ancak bu
 metinlerin yayımlanmış derlemeleri ya teliflidir ya da katalog künyesiyle
-doğrulanabilir tam metin olarak sunulmamaktadır.[^k3] Atlasın kaynak
+doğrulanabilir tam metin olarak sunulmamaktadır.[^k3] Korpusun kaynak
 şartı, okurun iki tıklamayla metnin kendisine ulaşabilmesidir.
 
-Bu eksik atlasın borç defterine yazılmıştır. Aynı bölgenin başka
+Bu eksik korpusun borç defterine yazılmıştır. Aynı bölgenin başka
 dosyalarında birincil metin bulunabilmişken burada bulunamaması, konunun
 önemsizliğinden değil metinlerin dijital erişime geç açılmasından
 gelir.[^k1]
@@ -171,7 +170,7 @@ Ticaret ağının zayıflaması tek bir olayla açıklanmaz.[^k1][^k2] Kaynaklar
 bölgedeki siyasi düzenin değişmesi, deniz yollarının payının artması ve
 tüccar topluluğunun çevredeki nüfusa karışması birlikte aktarılır.
 
-Üç etkenin ağırlığı tartışmalıdır ve atlas bir sıralama yapmaz.[^k4] Bir
+Üç etkenin ağırlığı tartışmalıdır ve korpus bir sıralama yapmaz.[^k4] Bir
 ticaret ağının sonu, ağı kuran topluluğun ortadan kalkması demek değildir;
 ağın işlevi başkalarına geçmiş olabilir.
 
@@ -184,18 +183,18 @@ gerektirir.[^k4]
 
 ## Neden aktör katmanında
 
-Bu dosyanın aktör katmanına konması bir tercihtir ve gerekçesi
+Bu incelemenin aktör katmanına konması bir tercihtir ve gerekçesi
 yazılmalıdır.[^k4] Topluluk bir devlet kurmadı, bir ordu beslemedi ve bir
 sınır çizmedi; buna rağmen dönemin ekonomik düzeninde belirleyici bir
 konumdaydı.
 
-Aktör kavramını yalnızca devletlerle sınırlamak, atlasın anlatabileceklerini
+Aktör kavramını yalnızca devletlerle sınırlamak, korpusun anlatabileceklerini
 daraltır.[^k2] Bir dönemin nasıl işlediğini anlamak için, o dönemde iş gören
 yapıların tamamı sayılmalıdır.
 
 Bu tercihin bedeli de kaydedilmelidir. Sınırı ve tarihi belirsiz bir konuyu
 aktör saymak, künye alanlarının bir bölümünü zorlar;[^k4] künyedeki tarihler
-bu dosyada bir devletin değil bir işlevin sürdüğü aralığı gösterir.
+bu incelemede bir devletin değil bir işlevin sürdüğü aralığı gösterir.
 
 ## Künyedeki tarihlerin anlamı
 
@@ -203,11 +202,11 @@ Künyede verilen başlangıç ve bitiş tarihleri, bir kuruluş ve bir yıkılı
 değildir.[^k1][^k4] Topluluğun ticaret ağındaki belirleyici konumunun
 başladığı ve sona erdiği düşünülen geniş bir aralığı gösterir.
 
-Bu, atlasın öteki aktör dosyalarından farklı bir kullanımdır ve burada
+Bu, korpusun öteki aktör dosyalarından farklı bir kullanımdır ve burada
 beyan edilir.[^k3] Bir devlet dosyasında tarihler siyasi bir olaya bağlanır;
 burada bağlanacak bir olay yoktur.
 
-Okur bu farkı bilerek okumalıdır. Zaman şeridinde bu dosyanın kapladığı
+Okur bu farkı bilerek okumalıdır. Zaman şeridinde bu incelemenin kapladığı
 aralık, bir devletin varlık süresiyle aynı anlamı taşımaz.[^k4]
 
 ## Şehirlerin durumu
@@ -220,26 +219,24 @@ Süreklilik iddiası burada dikkatle kurulmalıdır. Bir şehrin ticaret merkezi
 olması ile ilim merkezi olması aynı şey değildir; ikisi arasında bir bağ
 kurulabilir ama bağ kendiliğinden değildir.[^k3]
 
-Atlas bu bağı bir tez olarak ileri sürmez.[^k1] Şehirlerin sonraki dönemdeki
-konumu ayrı dosyalar gerektirir ve bu dosya yazıldığında atlasta
-bulunmuyorlardı.
+Şehirlerin sonraki dönemdeki konumu ayrı
+dosyalar gerektirir ve bu inceleme yazıldığında korpusta bulunmuyorlardı.[^k1]
 
-## Bu dosyanın kapsamadıkları
-
+## Açıkta kalan sorular
 Topluluğun sanat üretimi, duvar resimleri ve arkeolojik buluntuları burada
 işlenmez.[^k1] Bu malzeme, yazılı kayıtların vermediği bilgiyi taşır ve ayrı
 bir dosya gerektirir.
 
-Bölgedeki siyasi birimlerin tek tek tarihi de kapsam dışıdır.[^k3] Bu dosya
+Bölgedeki siyasi birimlerin tek tek tarihi de kapsam dışıdır.[^k3] Bu inceleme
 bir ağı konu edinir; ağın geçtiği şehirlerin siyasi tarihini değil.
 
 Topluluğun sonraki yüzyıllardaki izleri, dil ve nüfus açısından ne olduğu da
 burada ele alınmaz.[^k4] Bu, ayrı bir çalışma konusudur ve elde bulunan
-kaynaklarla bu dosyada karara bağlanamaz.
+kaynaklarla bu incelemede karara bağlanamaz.
 
 ## Aracılığın kendisi bir üretim midir
 
-Bu topluluğun ekonomik konumu, atlasın başka dosyalarında da karşılaşılan bir
+Bu topluluğun ekonomik konumu, korpusun başka dosyalarında da karşılaşılan bir
 soruyu doğurur: bir malı üretmeden taşıyan ve satan bir düzen, ekonomik
 değer üretiyor mudur?[^k2][^k4]
 
@@ -248,7 +245,7 @@ arasına girerek her ikisinden de pay alır. Öteki yanıt, aracılığın kendi
 bir üretim biçimi sayar: bilgi, güven ve ulaşım altyapısı olmadan mal iki
 uç arasında hareket edemez.[^k2]
 
-Atlas iki yanıttan birini benimsemez. İkisi de savunulabilir, ikisi de ayrı
+Korpus iki yanıttan birini benimsemez. İkisi de savunulabilir, ikisi de ayrı
 kanıtlar gerektirir ve bu tartışma çok sonraki yüzyılların iktisat
 metinlerinde de sürer.[^k4]
 
@@ -263,12 +260,10 @@ Aynı dağınıklık bir zayıflık da yarattı. Ağın kendisini savunacak bir 
 ve kendi adına anlaşma yapacak bir yönetimi yoktu;[^k3] her yerleşim,
 bulunduğu yerdeki siyasi gücün şartlarına uymak zorundaydı.
 
-Atlas bu iki yönü birlikte kaydeder ve bir üstünlük sıralaması yapmaz.[^k4]
-Merkezli ve dağınık örgütlenmelerin hangisinin daha dayanıklı olduğu, hangi
-tür baskıya maruz kaldıklarına bağlıdır.
+Merkezli ve dağınık örgütlenmelerin
+hangisinin daha dayanıklı olduğu, hangi tür baskıya maruz kaldıklarına bağlıdır.[^k4]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Ağın kavram karşılığı için [Ticaret diasporası](/kavram/ticaret-diasporasi/),
 ağın kendisi için [İpek Yolu'nun kuruluşu](/olay/ipek-yolu-kurulusu/)
 dosyaları okunmalıdır.

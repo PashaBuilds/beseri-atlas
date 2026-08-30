@@ -13,6 +13,7 @@ guven_geneli: tartismali
 etiketler: [ticaret-hadleri, prebisch-singer, fiyat-endeksi, merkez-cevre, olcum]
 ilgili:
   - kavram-bagimlilik-kurami
+baglam:
   - kavram-dunya-sistemi
   - kavram-pamuk-tek-urun
   - tartisma-kalkinma-neden-basarisiz

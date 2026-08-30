@@ -13,10 +13,11 @@ etiketler: [kolelik, tanim, borc-koleligi, serflik, zorla-calistirma, toplumsal-
 ilgili:
   - olay-atlantik-kole-ticareti
   - aktor-abd
+  - tartisma-antik-kolelik-ekonomisi
+baglam:
   - kavram-ilkel-birikim
   - kavram-zorunlu-emek-duzeni
   - kavram-anakronizm
-  - tartisma-antik-kolelik-ekonomisi
   - tartisma-tarihsel-sayilar-nasil-okunur
   - dusunur-marx
 okuma_onerisi: []
@@ -148,7 +149,7 @@ Roma'ya ya da on yedinci yüzyıl Karayipleri'ne uygulandıklarında geriye dön
 
 Toplumbilim aynı olguyu mülkiyetten değil aidiyetten okur. Orlando
 Patterson'ın köleliği *toplumsal ölüm* olarak kuran çözümlemesi, köle ile hür
-arasında keskin bir statü ayrımı olduğunu savunur — bu dosya Patterson'ı
+arasında keskin bir statü ayrımı olduğunu savunur — bu inceleme Patterson'ı
 kendi kitabından değil, onu tartışan Benedetta Rossi'nin 2021 tarihli makale
 özetinden okuyor. Rossi bu ayrımı genel hatlarıyla benimserken seçkin
 köleleri "nihai köleler" sayan yorumu reddeder ve eğretilemenin bazı bağlamlara diğerlerinden daha iyi
@@ -199,7 +200,7 @@ dili 1926 ve 1956 sözleşmelerinin hukuki sınırlarını fiilen gölgeledi.[^k
 Endeksi'nin üç bileşenini de inceleyip yöntem ve uygulama kalitesi
 hakkında ön bulgular ortaya koydu; ayrıca endekse yönelik eleştirel ilginin
 göze çarpacak kadar az olduğunu ve ölçüm odaklı hayırseverliğin sorunu
-tanımlama ile müdahaleyi yönlendirmedeki payının büyüdüğünü yazdı.[^k6] Atlas bu yüzden
+tanımlama ile müdahaleyi yönlendirmedeki payının büyüdüğünü yazdı.[^k6] Korpus bu yüzden
 dolaşımdaki modern kölelik tahminlerini tek bir sayıya indirmiyor; sayıların
 nasıl okunacağı
 [Tarihsel sayılar nasıl okunur](/tartisma/tarihsel-sayilar-nasil-okunur/)

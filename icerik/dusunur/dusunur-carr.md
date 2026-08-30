@@ -20,8 +20,9 @@ ilgili:
   - kavram-anakronizm
   - dusunur-herodotos
   - dusunur-braudel
-  - dusunur-marx
   - tartisma-buyuk-adam-kurami
+baglam:
+  - dusunur-marx
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

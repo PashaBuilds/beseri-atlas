@@ -45,7 +45,7 @@ dair güncel görüşlere ayırır.[^k1]
 
 ## Kavram, önerenlerinin adıyla anılır
 
-::tartismali[Bir kavramın ansiklopedi maddesinin ilk iki bölümü, kavramı kimin önerdiği ve bugün ne düşünüldüğüdür. Bu, kavramın yerleşik bir tanım değil bir öneri olduğunu gösterir. Atlas kavramı bu çekinceyle kullanır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bir kavramın ansiklopedi maddesinin ilk iki bölümü, kavramı kimin önerdiği ve bugün ne düşünüldüğüdür. Bu, kavramın yerleşik bir tanım değil bir öneri olduğunu gösterir. Korpus kavramı bu çekinceyle kullanır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Kavram tartışmalarının nasıl taşınacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -57,7 +57,7 @@ Kaynak tarih bölümünü bölgelere ayırır: Müslüman dünyasının barut im
 (Osmanlı, Safevi ve Babür), Doğu Asya'nınkiler (Çin, Japonya ve Kore) ve
 Güneydoğu Asya'nınkiler.[^k1]
 
-Bir kavramın üç ayrı bölgeye uygulanması,[^k1] atlasın bu dosyayı neden üç bölge
+Bir kavramın üç ayrı bölgeye uygulanması,[^k1] korpusun bu incelemeyi neden üç bölge
 etiketiyle tuttuğunun dayanağıdır; kapsanan devletlerden ikisi
 [Osmanlı İmparatorluğu](/aktor/osmanli-imparatorlugu/) ve
 [Safevi Devleti](/aktor/safevi-devleti/) dosyalarında ele alınıyor.
@@ -68,7 +68,7 @@ Yakın bir kavram için tutulan kayıt, ordu büyüklüğü sorusunda idari ve a
 kaynaklarını ayrı ayrı işler.[^k2] O kavram
 [Askerî devrim](/kavram/askeri-devrim/) dosyasında ele alınıyor.
 
-Atlas iki kavramı birbirinin yerine kullanmaz; kullanılan kaynak bölümlerinde
+Korpus iki kavramı birbirinin yerine kullanmaz; kullanılan kaynak bölümlerinde
 böyle bir eşleme belirtilmemiştir.[^k1][^k2]
 
 ## Dönemin savaş ilkeleri yazarı
@@ -88,9 +88,8 @@ Ortak olan, silahı merkezî bir orduya bağlayan örgütlenmedir.[^k2]
 Topçu ve tüfekli piyade sürekli hazine ve daimî birlik
 gerektirir.
 
-Atlas bu ayrımı kavramın merkezine koyar.[^k3] Aynı teknolojiyi
-kullanan düzenlerin benzemesi, teknolojinin değil onun gerektirdiği
-örgütlenmenin sonucudur.
+Aynı teknolojiyi kullanan düzenlerin benzemesi,
+teknolojinin değil onun gerektirdiği örgütlenmenin sonucudur.[^k3]
 
 ## Kalenin değersizleşmesi
 
@@ -102,9 +101,8 @@ Pahalı savunma, ancak merkezî bir hazineyle
 karşılanabilir.[^k2] Yerel güç odaklarının savunma kapasitesi
 düştü.
 
-Atlas bu zinciri ayrıca kaydeder.[^k3] Bir askerî teknolojinin
-maliyeti yükseldiğinde, ona erişebilenlerin sayısı azalır ve güç
-merkezîleşir.
+Bir askerî teknolojinin maliyeti yükseldiğinde,
+ona erişebilenlerin sayısı azalır ve güç merkezîleşir.[^k3]
 
 ## Kavramın eleştirisi
 
@@ -116,9 +114,8 @@ Bazı okumalar, genişlemenin süvari ve idari kapasiteyle daha iyi
 açıklandığını savunur.[^k2] Silah, sonucu değil hızı
 değiştirmiş olabilir.
 
-Atlas bu eleştiriyi ayrıca kaydeder.[^k3] Bir kavramın üç örneği bir
-arada açıklaması, her biri için en iyi açıklama olduğunu
-göstermez.
+Bir kavramın üç örneği bir arada
+açıklaması, her biri için en iyi açıklama olduğunu göstermez.[^k3]
 
 ## Ölçüt
 
@@ -142,8 +139,8 @@ farklıdır.
 Ortaklık askerî örgütlenmeyle sınırlıdır.[^k1] Bu, kavramın kapsamını
 da sınırlar.
 
-Atlas bu sınırı ayrıca kaydeder.[^k3] Bir kavramın birden çok örneği
-kapsaması, o örneklerin başka yönlerden de benzediğini göstermez.
+Bir kavramın birden çok örneği
+kapsaması, o örneklerin başka yönlerden de benzediğini göstermez.[^k3]
 
 ## Barutun tedariki
 
@@ -153,8 +150,8 @@ olarak dağınıktır.
 Bu, tedariki stratejik bir mesele hâline getirdi.[^k2] Kaynağa erişimi
 olan düzenler avantajlıydı.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Bir askerî teknolojinin
-yaygınlığı, onu besleyen hammaddenin coğrafi dağılımıyla sınırlıdır.
+Bir askerî teknolojinin yaygınlığı, onu
+besleyen hammaddenin coğrafi dağılımıyla sınırlıdır.[^k3]
 
 ## Sonraki dönemde geri kalma
 
@@ -165,15 +162,13 @@ farktan geldi.
 Silah satın alınabiliyordu; onu üreten sanayi ve onu kullanan eğitim
 düzeni satın alınamıyordu.[^k2] Fark buradan açıldı.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Bir teknolojiye erişmek ile onu
-üretebilmek arasındaki fark, uzun vadede belirleyicidir.
+Bir teknolojiye erişmek ile onu üretebilmek
+arasındaki fark, uzun vadede belirleyicidir.[^k3]
 
 
-## Kavramın atlasta kullanımı
-
-Atlas kavramı üç ölçütle uygular ve sonucu dereceli
-verir.[^k1] Bir düzen bir ölçütte karşılık bulup diğerinde
-bulmayabilir.
+## Nasıl kullanılır?
+Bir düzen bir ölçütte karşılık bulup
+diğerinde bulmayabilir.[^k1]
 
 Kavram, üç düzeni tek bir kategoriye kapatmak için değil
 karşılaştırmak için kullanılır.[^k2] Karşılaştırmanın kendisi
@@ -189,12 +184,10 @@ gücüne dayanan düzenler de kuruldu.
 gerektirir.[^k2] Tersane ve eğitimli mürettebat, topçu ordusundan
 başka bir kapasitedir.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Aynı dönemde iki farklı askerî
-biçim yükseldi ve ikisi aynı kavramla
-anlatılamaz.
+Aynı dönemde iki farklı askerî biçim yükseldi ve
+ikisi aynı kavramla anlatılamaz.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kavramın önerdiği mekanizma, ülke ülke tarihler ve eleştiriler burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

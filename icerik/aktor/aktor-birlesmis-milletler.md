@@ -60,7 +60,7 @@ onarim_turu: 0
 ---
 
 Birleşmiş Milletler bir hükümetler arası örgüttür; üyeliği 193 üye devlet ve 2
-gözlemci devletten oluşur.[^k1] Bu dosya örgütün siyasi tarihini değil,
+gözlemci devletten oluşur.[^k1] Bu inceleme örgütün siyasi tarihini değil,
 **kuruluş biçimini ve iç mimarisini** ele alır.
 
 ## Kuruluş tek bir toplantı değildir
@@ -128,8 +128,7 @@ kaydeder.[^k2] Güvenlik kanadının 1945'te, para kanadının 1944'te kurulmuş
 olması,[^k1][^k2] savaş sonrası düzenin iki ayağının bir yıl arayla
 tasarlandığını gösterir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Barışı koruma operasyonları, insan hakları mekanizmaları, Güvenlik Konseyi veto
 düzeni ve reform tartışmaları burada ayrı başlıklar altında ele alınmamıştır;
 kaynak bunları ayrı bölümler olarak işler.[^k1] Dönemin bütünü
@@ -137,5 +136,5 @@ kaynak bunları ayrı bölümler olarak işler.[^k1] Dönemin bütünü
 
 ## Belgeye bağ
 
-Bu dosya birlesmis milletler sarti'nin metnine bağlanır.[^k4] Belgeye yapılacak atıflar
+Bu inceleme birlesmis milletler sarti'nin metnine bağlanır.[^k4] Belgeye yapılacak atıflar
 madde numarasıyla verilmelidir; ikincil özet yerine metnin kendisi esas alınır.

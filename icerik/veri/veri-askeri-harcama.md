@@ -57,7 +57,7 @@ Seri 1988'de yaklaşık 1.759.879.600.000 ile başlar ve 2025'te yaklaşık
 Veri kümesinde dünya toplamı için 1988'den önce gözlem bulunmaz.[^k1]
 
 Bir askerî harcama serisinin yirminci yüzyılın son on yılından başlaması,[^k1]
-atlasın şu kuralının dayanağıdır: bu dosyadan iki dünya savaşı dönemine ya da
+korpusun şu kuralının dayanağıdır: bu incelemeden iki dünya savaşı dönemine ya da
 Soğuk Savaş'ın büyük bölümüne dair bir harcama değeri okunamaz. İlgili olay
 [Sovyetler Birliği'nin dağılması](/olay/sovyetler-dagilmasi/) dosyasında ele
 alınıyor.
@@ -69,7 +69,7 @@ karşılaştırılabilir kılmak için enflasyondan arındırılmış bir hesap
 birimidir.[^k1]
 
 Bir ölçünün biriminin doğrudan bir para birimi değil bir düzeltme kurgusu
-olması,[^k1] atlasın şu kuralının dayanağıdır: bu seriden okunan değerler,
+olması,[^k1] korpusun şu kuralının dayanağıdır: bu seriden okunan değerler,
 birimin ne olduğu belirtilmeden aktarılmaz.
 
 ## Kişi başı hesap kaynakta yoktur
@@ -77,7 +77,7 @@ birimin ne olduğu belirtilmeden aktarılmaz.
 Uzun dönemli nüfus serisinde dünya nüfusu 1990 için yaklaşık 5,33 milyar, 2020
 için yaklaşık 7,89 milyardır.[^k2]
 
-Atlas iki seriyi bölerek kişi başına askerî harcama üretmez; iki kümenin gözlem
+Korpus iki seriyi bölerek kişi başına askerî harcama üretmez; iki kümenin gözlem
 yılları aynı değildir ve böyle bir hesap kullanılan kaynak bölümlerinde
 verilmemiştir.[^k1][^k2]
 
@@ -88,10 +88,9 @@ orantılılık, karşılıklılık ve zorlayıcı inandırıcılık diye üç ö
 O kuram [Caydırıcılık](/kavram/caydiricilik/) dosyasında, rakip çerçeve ise
 [Güç dengesi](/kavram/guc-dengesi/) dosyasında ele alınıyor.
 
-Atlas bu seriyi o kuramların doğrulanması olarak sunmaz: seri harcamayı verir,
+Korpus bu seriyi o kuramların doğrulanması olarak sunmaz: seri harcamayı verir,
 harcamanın etkisini vermez.[^k1][^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ülke ülke harcamalar, GSYH'ye oran ve harcama kalemleri burada ayrı başlıklar
-altında ele alınmamıştır; bu dosya yalnızca dünya toplamı serisini kaydeder.[^k1]
+altında ele alınmamıştır; bu inceleme yalnızca dünya toplamı serisini kaydeder.[^k1]

@@ -217,8 +217,8 @@ Bitiş, kıtayı saran devrim dalgasının yılıdır.
 İki sınır da aynı kıtanın olaylarına bağlıdır.[^k3] Başka bölgeler
 için başka dönüm noktaları daha belirleyicidir.
 
-Atlas bu tercihi ayrıca beyan eder.[^k4] Bir dönemlendirme, seçilen
-eksenin coğrafyasını da taşır.
+Bir dönemlendirme, seçilen eksenin
+coğrafyasını da taşır.[^k4]
 
 ## Üç dönüşümün iç içe geçmesi
 
@@ -230,9 +230,8 @@ bağlanması.
 nüfus üretti; o nüfus, siyasi katılım talebinin tabanı
 oldu.
 
-Atlas bu bağı ayrıca kaydeder.[^k6] Bir siyasi talebin ortaya çıkışı,
-onu taşıyacak bir toplumsal kesimin oluşmasına
-bağlıdır.
+Bir siyasi talebin ortaya çıkışı, onu
+taşıyacak bir toplumsal kesimin oluşmasına bağlıdır.[^k6]
 
 ## Hakların metne girmesi
 
@@ -244,9 +243,8 @@ Bu, önceki dönemin metinlerinden bir farktır.[^k2] Önceki metinler
 haklarını belirli bir tebaanın ayrıcalığı olarak
 tanımlıyordu.
 
-Atlas bu farkı ayrıca kaydeder.[^k4] Bir hakkın evrensel ifadeyle
-yazılması, kapsamının belirlenmesini sonraki tartışmaya
-bırakır.
+Bir hakkın evrensel ifadeyle yazılması, kapsamının
+belirlenmesini sonraki tartışmaya bırakır.[^k4]
 
 ## Kapsamın sınanması
 
@@ -258,8 +256,8 @@ Sorular dönem içinde kısmen cevaplandı.[^k2] Bir sömürgede kölelik
 kaldırıldı, sonra yeniden kuruldu, sonra tekrar
 kaldırıldı.
 
-Atlas bu gidiş gelişi ayrıca kaydeder.[^k4] Bir hakkın tanınması,
-geri alınamaz olduğu anlamına gelmez.
+Bir hakkın tanınması, geri
+alınamaz olduğu anlamına gelmez.[^k4]
 
 ## Haiti örneği
 
@@ -269,9 +267,8 @@ başlayan ayaklanma, bağımsız bir devletle sonuçlandı.
 Yeni devlet uzun süre tanınmadı.[^k1] Tanınmanın koşulu, eski
 sahiplerine tazminat ödenmesiydi.
 
-Atlas bu koşulu ayrıca kaydeder.[^k4] Bir bağımsızlığın tanınması için
-tazminat istenmesi, hangi tarafın hak sahibi sayıldığını
-gösterir.
+Bir bağımsızlığın tanınması için tazminat
+istenmesi, hangi tarafın hak sahibi sayıldığını gösterir.[^k4]
 
 ## Buhar gücünün girişi
 
@@ -281,9 +278,8 @@ gösterir.
 Fabrika artık akarsu kıyısında kurulmak zorunda değildi.[^k6] Kömür
 havzasına ve limana yakınlık belirleyici hâle geldi.
 
-Atlas bu kaymayı ayrıca kaydeder.[^k4] Bir enerji kaynağının
-değişmesi, sanayinin coğrafyasını doğrudan yeniden
-çizer.
+Bir enerji kaynağının değişmesi, sanayinin
+coğrafyasını doğrudan yeniden çizer.[^k4]
 
 ## Kömürün rolü
 
@@ -293,9 +289,8 @@ bölgelerinin konumunu belirledi.
 Bu, bölgeler arası farkı da açtı.[^k6] Havzası olmayan bölgeler
 sanayileşmede geride kaldı.
 
-Atlas bu bağı ayrıca kaydeder.[^k4] Bir dönemin bölgesel eşitsizliği,
-o dönemin enerji kaynağının coğrafi dağılımından kısmen
-okunabilir.
+Bir dönemin bölgesel eşitsizliği, o
+dönemin enerji kaynağının coğrafi dağılımından kısmen okunabilir.[^k4]
 
 ## Fabrika düzeni
 
@@ -307,8 +302,8 @@ Bu, önceki dönemin zaman ölçümü yaygınlaşmasının doğrudan
 sonucudur.[^k6] Ortak bir zaman ölçüsü olmadan vardiya
 kurulamaz.
 
-Atlas bu bağı ayrıca kaydeder.[^k4] Bir örgütlenme biçimi, kendinden
-önce kurulmuş bir ölçüm altyapısını gerektirebilir.
+Bir örgütlenme biçimi, kendinden önce
+kurulmuş bir ölçüm altyapısını gerektirebilir.[^k4]
 
 ## Çocuk emeği
 
@@ -319,9 +314,8 @@ Dönem içinde bunu sınırlayan ilk yasalar çıkarıldı.[^k1] Yasaların
 uygulanması için ayrı bir denetim kadrosu kurulması
 gerekti.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k6] Bir yasanın etkili olması,
-metnin varlığından değil onu denetleyecek kadronun kurulmasından
-gelir.
+Bir yasanın etkili olması, metnin
+varlığından değil onu denetleyecek kadronun kurulmasından gelir.[^k6]
 
 ## Kentleşmenin hızlanması
 
@@ -331,21 +325,19 @@ payı bu dönemde belirgin biçimde yükseldi.
 Büyüme, altyapı olmadan gerçekleşti.[^k2] Su, kanalizasyon ve konut
 düzeni geriden geldi.
 
-Atlas bu gecikmeyi ayrıca kaydeder.[^k4] Kent nüfusunun altyapıdan
-hızlı büyümesi, ölüm oranını doğrudan
-yükseltir.
+Kent nüfusunun altyapıdan hızlı
+büyümesi, ölüm oranını doğrudan yükseltir.[^k4]
 
 ## Salgın ve kent
 
 Yeni kentlerde su kaynaklı salgınlar yaygınlaştı.[^k4] Ölüm oranları
 kırsaldan yüksekti.
 
-Nedeninin su olduğu dönem içinde gösterildi.[^k2] Bu, atlasın kanıt
+Nedeninin su olduğu dönem içinde gösterildi.[^k2] Bu, korpusun kanıt
 dosyalarında ayrıca ele alınan bir yöntem örneğidir.
 
-Atlas bu bulguyu ayrıca kaydeder.[^k6] Bir salgının kaynağının
-haritalanarak bulunması, verinin mekânla birleştirilmesinin erken ve
-etkili bir örneğidir.
+Bir salgının kaynağının haritalanarak
+bulunması, verinin mekânla birleştirilmesinin erken ve etkili bir örneğidir.[^k6]
 
 ## Ulaşımın değişmesi
 
@@ -355,9 +347,8 @@ ve süresi belirgin biçimde düştü.
 Bu, iç pazarları birbirine bağladı.[^k6] Yerel fiyat farkları
 daraldı.
 
-Atlas bu sonucu ayrıca kaydeder.[^k4] Taşıma maliyetindeki bir düşüş,
-tek başına bölgeler arası fiyat yakınsaması
-üretir.
+Taşıma maliyetindeki bir düşüş, tek başına
+bölgeler arası fiyat yakınsaması üretir.[^k4]
 
 ## Ulus fikrinin yayılması
 
@@ -368,9 +359,8 @@ geldi.[^k1] Ortak dil, ortak tarih ve ortak toprak ölçüt olarak
 Ölçütler her yerde aynı sonucu vermedi.[^k3] Aynı bölgede birden çok
 dil ve birden çok anlatı bulunuyordu.
 
-Atlas bu güçlüğü ayrıca kaydeder.[^k2] Bir ulus tanımının hangi ölçüte
-dayandığı, kimin dışarıda kalacağını da
-belirler.
+Bir ulus tanımının hangi ölçüte dayandığı,
+kimin dışarıda kalacağını da belirler.[^k2]
 
 ## Anlatının üretilmesi
 
@@ -380,8 +370,8 @@ destanlar ve sözlükler bu amaçla toplandı.
 Derleme bir seçimdi.[^k3] Hangi anlatının ulusun anlatısı sayılacağı
 karara bağlanıyordu.
 
-Atlas bu işlemi ayrıca kaydeder.[^k4] Bir ulusun geçmişi keşfedilmez;
-mevcut malzemeden seçilerek kurulur.
+Bir ulusun geçmişi keşfedilmez; mevcut malzemeden
+seçilerek kurulur.[^k4]
 
 ## İmparatorluklardaki karşılığı
 
@@ -393,9 +383,8 @@ Bazı imparatorluklar buna kendi merkezî kimliğini güçlendirerek
 karşılık verdi.[^k1] Ortak eğitim ve ortak dil politikaları
 yaygınlaştı.
 
-Atlas bu tepkiyi ayrıca kaydeder.[^k2] Bir fikre karşı verilen
-karşılık, çoğu zaman aynı fikrin bir başka biçimde
-uygulanmasıdır.
+Bir fikre karşı verilen karşılık, çoğu
+zaman aynı fikrin bir başka biçimde uygulanmasıdır.[^k2]
 
 ## Reform girişimleri
 
@@ -405,9 +394,8 @@ maliye ve eğitim başlıca alanlardı.
 Reformların bir gerekçesi askerî yenilgilerdi.[^k1] Yeni düzenlerin
 askerî üstünlüğü, kurumsal değişimi zorunlu kıldı.
 
-Atlas bu gerekçeyi ayrıca kaydeder.[^k2] Bir kurumsal reformun
-tetikleyicisi, çoğu zaman iç talep değil dış bir yenilgi
-karşılaştırmasıdır.
+Bir kurumsal reformun
+tetikleyicisi, çoğu zaman iç talep değil dış bir yenilgi karşılaştırmasıdır.[^k2]
 
 ## Köleliğin kaldırılması
 
@@ -418,9 +406,8 @@ gelmedi.
 Ticaretin yasaklanması ile köleliğin kaldırılması ayrı iki
 adımdı.[^k2] Aralarında çoğu yerde onlarca yıl vardır.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k4] Bir uygulamanın beslenme
-kanalının kesilmesi, uygulamanın kendisinin sona ermesi anlamına
-gelmez.
+Bir uygulamanın beslenme kanalının kesilmesi,
+uygulamanın kendisinin sona ermesi anlamına gelmez.[^k4]
 
 ## Tazminatın yönü
 
@@ -430,9 +417,8 @@ köleleştirilenlere değil köle sahiplerine
 
 Gerekçe mülkiyet hakkıydı.[^k2] Kaldırma bir mülk kaybı sayılıyordu.
 
-Atlas bu yönü ayrıca kaydeder.[^k4] Bir haksızlığın kaldırılmasında
-kime tazminat ödendiği, o düzende kimin hak sahibi sayıldığını
-gösterir.
+Bir haksızlığın kaldırılmasında kime tazminat
+ödendiği, o düzende kimin hak sahibi sayıldığını gösterir.[^k4]
 
 ## Antlaşmaların iki metni
 
@@ -443,9 +429,8 @@ Bir metinde egemenlik devri, diğerinde koruma ve yönetim hakkı
 anlaşılabiliyordu.[^k5] Fark, sonraki yüzyılların hukuki
 tartışmasını üretti.
 
-Atlas bu sorunu tekrar eden bir ölçüm sayar.[^k1] İki metinli bir
-antlaşmada hangi metnin geçerli olduğu, antlaşmanın kendisinden daha
-belirleyicidir.
+İki metinli bir antlaşmada hangi
+metnin geçerli olduğu, antlaşmanın kendisinden daha belirleyicidir.[^k1]
 
 ## Nüfusun artışı
 
@@ -455,9 +440,8 @@ bölgelerde ölüm oranı düşerken doğum oranı yüksek kaldı.
 Bu, demografik geçişin ilk aşamasıdır.[^k6] Aradaki fark, hızlı bir
 nüfus artışı üretir.
 
-Atlas bu aşamayı ayrıca kaydeder.[^k2] Nüfus artışının en hızlı olduğu
-an, ölüm oranı düşerken doğum oranının henüz düşmediği
-aralıktır.
+Nüfus artışının en hızlı olduğu an, ölüm oranı
+düşerken doğum oranının henüz düşmediği aralıktır.[^k2]
 
 ## Göç ve yerleşim
 
@@ -467,8 +451,8 @@ besledi.[^k4] Dönemin sonuna doğru göç hacmi hızla arttı.
 Bir bölgedeki kıtlık, göçü tek başına da tetikleyebiliyordu.[^k6]
 Dönemin sonundaki büyük bir kıtlık bunun örneğidir.
 
-Atlas bu bağı ayrıca kaydeder.[^k2] Bir göç dalgasının nedeni, hedefin
-çekiciliğinden çok kaynağın itmesi olabilir.
+Bir göç dalgasının nedeni, hedefin
+çekiciliğinden çok kaynağın itmesi olabilir.[^k2]
 
 ## İdeolojilerin biçimlenmesi
 
@@ -480,8 +464,8 @@ Terimler, kendi dönemlerinin sorularına verilmiş
 cevaplardır.[^k2] Sonraki dönemlere taşınırken anlamları
 değişti.
 
-Atlas bu kaymayı ayrıca kaydeder.[^k3] Bir terimin bugünkü anlamıyla
-geçmişe uygulanması, atlasın anakronizm dosyasında tanımlanan hatadır.
+Bir terimin bugünkü anlamıyla
+geçmişe uygulanması, korpusun anakronizm dosyasında tanımlanan hatadır.[^k3]
 
 ## Dönemin bıraktığı soru
 
@@ -493,11 +477,10 @@ mi.
 bir dayanak verdi; aynı ifade, kapsamın zaten çözülmüş olduğu
 izlenimi de üretti.
 
-Atlas soruyu açık tutar.[^k4] Cevap, sonraki iki yüzyılın siyasi
-mücadelelerinde tek tek aranmıştır.
+Cevap, sonraki iki yüzyılın siyasi
+mücadelelerinde tek tek aranmıştır.[^k4]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
 dosyasında ayrıntılı ele alınır; burada yalnızca döneme bağlanır ve
 dönemin eksenine katkısıyla anılır.
@@ -507,8 +490,8 @@ tarihlerinden çok ortak mekanizmanın onlardaki görünümünü verir ve
 her bölge kendi dosyalarında ayrıca ele alınır.
 
 Sayısal seriler burada yorumlanır, üretilmez.[^k6] Serilerin
-kaynakları, yöntemleri ve başlangıç tarihleri atlasın veri
-dosyalarında ayrı ayrı kayıtlıdır ve bu dosya onların yerine
+kaynakları, yöntemleri ve başlangıç tarihleri korpusun veri
+dosyalarında ayrı ayrı kayıtlıdır ve bu inceleme onların yerine
 geçmez.[^k4]
 
 
@@ -520,9 +503,8 @@ zorunlu askerlik ve kitlesel ordu düzenini yaygınlaştırdı.
 Kitlesel ordu, nüfus kaydını ve merkezî yönetimi
 gerektiriyordu.[^k3] Bu, savaşın kurumsal mirasıdır.
 
-Atlas bu mirası ayrıca kaydeder.[^k4] Bir savaşın en kalıcı sonucu,
-sınır değişikliği değil onu yürütmek için kurulan kurumlar
-olabilir.
+Bir savaşın en kalıcı sonucu, sınır değişikliği
+değil onu yürütmek için kurulan kurumlar olabilir.[^k4]
 
 ## Hukuk düzenlerinin yayılması
 
@@ -533,9 +515,8 @@ Bu düzenler işgal sona erdikten sonra da kaldı.[^k3] Feodal
 yükümlülüklerin kaldırılması birçok yerde geri
 alınmadı.
 
-Atlas bu sürekliliği ayrıca kaydeder.[^k2] Bir dış müdahalenin
-kurumsal sonucu, müdahalenin siyasi sonucundan uzun
-yaşayabilir.
+Bir dış müdahalenin kurumsal sonucu,
+müdahalenin siyasi sonucundan uzun yaşayabilir.[^k2]
 
 ## Kongre düzeni
 
@@ -546,9 +527,8 @@ kuruldu.
 Düzenlemede halkların tercihi ölçüt değildi.[^k3] Hanedan hakları ve
 güç dengesi esas alındı.
 
-Atlas bu ölçütü ayrıca kaydeder.[^k5] Aynı yıllarda hakların evrensel
-olduğu yazılırken, sınırlar hanedan hakkına göre
-çiziliyordu.
+Aynı yıllarda hakların evrensel
+olduğu yazılırken, sınırlar hanedan hakkına göre çiziliyordu.[^k5]
 
 ## İki ilkenin çatışması
 
@@ -559,9 +539,8 @@ Gerilim, dönemin sonundaki devrim dalgasında patladı.[^k3] Talepler
 anayasa, temsil ve ulusal birlik etrafında
 toplandı.
 
-Atlas bu bağı ayrıca kaydeder.[^k2] Bir düzenlemenin görmezden geldiği
-ilke, birkaç kuşak sonra o düzenlemenin kendisini hedef
-alır.
+Bir düzenlemenin görmezden geldiği ilke,
+birkaç kuşak sonra o düzenlemenin kendisini hedef alır.[^k2]
 
 ## 1848 dalgası
 
@@ -571,8 +550,8 @@ yaşandı.[^k1] Hareketler birbirinden haberdardı.
 Çoğu birkaç ay içinde bastırıldı.[^k3] Buna karşılık bazı talepler
 sonraki yıllarda kabul edildi.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k4] Bir hareketin bastırılması,
-taleplerinin gündemden düştüğü anlamına gelmez.
+Bir hareketin bastırılması, taleplerinin gündemden
+düştüğü anlamına gelmez.[^k4]
 
 ## Haberin hızı
 
@@ -583,9 +562,8 @@ sağlıyordu.
 Bu, önceki dönemlerin ayaklanmalarından bir farktır.[^k6] Önceki
 hareketler yerel kalıyordu.
 
-Atlas bu bağı ayrıca kaydeder.[^k4] Bir hareketin ölçeği, taleplerin
-yaygınlığı kadar haberin hızıyla da
-belirlenir.
+Bir hareketin ölçeği, taleplerin
+yaygınlığı kadar haberin hızıyla da belirlenir.[^k4]
 
 ## Serbest ticaret tartışması
 
@@ -597,9 +575,8 @@ Kısıtların kaldırılması dönemin sonuna denk gelir.[^k1] Karar, ucuz
 gıda ve düşük ücret dengesiyle
 gerekçelendirildi.
 
-Atlas bu bağı ayrıca kaydeder.[^k6] Bir ticaret siyaseti tartışması,
-çoğu zaman iki üretim kesimi arasındaki dağılım
-tartışmasıdır.
+Bir ticaret siyaseti tartışması, çoğu
+zaman iki üretim kesimi arasındaki dağılım tartışmasıdır.[^k6]
 
 ## Sanayinin yayılmadığı yerler
 
@@ -610,9 +587,8 @@ konusudur.
 Bu, bölgeler arası gelir farkının açılmaya başladığı andır.[^k6] Fark,
 önceki dönemlerde bu ölçekte değildi.
 
-Atlas bu başlangıcı ayrıca kaydeder.[^k4] Ayrışmanın hangi yüzyılda
-başladığı tartışması, atlasın ayrı bir dosyasında ele
-alınır.
+Ayrışmanın hangi yüzyılda başladığı
+tartışması, korpusun ayrı bir dosyasında ele alınır.[^k4]
 
 ## El dokumacılığının çözülmesi
 
@@ -623,9 +599,8 @@ bıraktı.
 Bu, bir bölgenin sanayisizleşmesi olarak kaydedilir.[^k3] Aynı
 dönemde bir yerde sanayi kurulurken başka yerde çözülüyordu.
 
-Atlas iki hareketi birlikte kaydeder.[^k6] Bir bölgedeki sanayileşme
-ile başka bölgedeki çözülme, aynı sürecin iki
-ucudur.
+Bir bölgedeki sanayileşme ile başka bölgedeki
+çözülme, aynı sürecin iki ucudur.[^k6]
 
 ## Ham madde ve pazar
 
@@ -635,9 +610,8 @@ pazarı.
 İkisi de büyük ölçüde dışarıdan sağlandı.[^k3] Bu, sonraki dönemin
 genişlemesinin iktisadi zeminidir.
 
-Atlas bu zemini ayrıca kaydeder.[^k1] Bir dönemin sonunda kurulan
-ihtiyaç, sonraki dönemin siyasi programı hâline
-gelebilir.
+Bir dönemin sonunda kurulan ihtiyaç,
+sonraki dönemin siyasi programı hâline gelebilir.[^k1]
 
 ## Bilimin kurumsallaşması
 
@@ -647,12 +621,10 @@ Dönemde bilimsel çalışma meslekleşti.[^k2] Ücretli araştırmacı ve
 Alanların adlandırılması da bu dönemde yerleşti.[^k1] Bugün kullanılan
 disiplin adlarının çoğu bu yıllarda tanımlandı.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k4] Bir bilgi alanının
-adlandırılması, o alanın sınırlarının da çizilmesi
-demektir.
+Bir bilgi alanının adlandırılması,
+o alanın sınırlarının da çizilmesi demektir.[^k4]
 
-## Dönemi atlasta okumak
-
+## Dönemin bağlantıları
 Bu döneme bağlanan dosyalar dört öbekte toplanır.[^k1] Devrimlerin
 olay dosyaları, sanayileşmenin kavram ve olay dosyaları, ideolojilerin
 düşünür dosyaları ve dönemin veri dosyaları.
@@ -671,9 +643,8 @@ yazıldı.
 Talep dönem içinde karşılık bulmadı.[^k2] Yeni kurulan düzenlerin
 neredeyse tamamı oy hakkını erkeklerle sınırladı.
 
-Atlas bu sonucu ayrıca kaydeder.[^k4] Bir metnin evrensel ifadeyle
-yazılması, o metnin uygulamada da evrensel olacağını
-göstermez.
+Bir metnin evrensel ifadeyle yazılması, o
+metnin uygulamada da evrensel olacağını göstermez.[^k4]
 
 ## İşçi örgütlenmesinin başlangıcı
 
@@ -683,9 +654,8 @@ Fabrika düzeni, ilk örgütlü işçi hareketlerini de
 Örgütlenme birçok yerde yasaktı.[^k1] Yasağın kaldırılması dönemin
 sonuna doğru gerçekleşti.
 
-Atlas bu sırayı ayrıca kaydeder.[^k6] Bir hakkın tanınması, çoğu zaman
-o hakkın fiilen kullanılmaya başlanmasından
-sonradır.
+Bir hakkın tanınması, çoğu zaman o hakkın fiilen
+kullanılmaya başlanmasından sonradır.[^k6]
 
 ## Makine kırıcılığı
 
@@ -696,9 +666,8 @@ Hedef, makinenin kendisi değil onu belirli bir ücret düzenini
 dayatmak için kullanan işletmeydi.[^k1] Ayrım kayıtlarda
 izlenebilir.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k4] Bir teknolojiye yönelen tepki,
-teknolojinin kendisine değil onunla kurulan çalışma düzenine yönelmiş
-olabilir.
+Bir teknolojiye yönelen tepki, teknolojinin kendisine
+değil onunla kurulan çalışma düzenine yönelmiş olabilir.[^k4]
 
 ## Kayıt düzeninin kurulması
 
@@ -706,12 +675,12 @@ Dönemde düzenli nüfus sayımı ve doğum ölüm kaydı
 yaygınlaştı.[^k4] Devletler kendi nüfuslarını sistematik biçimde
 kaydetmeye başladı.
 
-Bu, atlasın veri katmanının birçok serisinin başlangıç
+Bu, korpusun veri katmanının birçok serisinin başlangıç
 tarihini açıklar.[^k6] Seriler bu dönemde başlar çünkü ölçüm bu
 dönemde kurulmuştur.
 
-Atlas bu ayrımı yineler.[^k2] Bir eğrinin başladığı nokta, olgunun
-değil kaydın başlangıcıdır.
+Bir eğrinin başladığı nokta, olgunun değil kaydın
+başlangıcıdır.[^k2]
 
 
 ## Dönemin adlandırılması
@@ -723,10 +692,8 @@ adlandırılabilirdi.
 İki adlandırma farklı eksenler seçer.[^k2] Biri anayasa metinlerini,
 diğeri fabrika kayıtlarını merkeze koyar.
 
-Atlas ikisini birlikte adlandırır ve tercihini beyan
-eder.[^k6] İki dönüşüm aynı yıllarda ve birbirine bağlı biçimde
-yürümüştür; birini seçmek diğerini arka plana
-atar.[^k4]
+İki dönüşüm aynı yıllarda ve birbirine
+bağlı biçimde yürümüştür; birini seçmek diğerini arka plana atar.[^k4][^k6]
 
 ## Fikir dünyası
 

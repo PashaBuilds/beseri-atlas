@@ -29,12 +29,13 @@ ilgili:
   - donem-15
   - aktor-sovyetler-birligi
   - aktor-nato
-  - dusunur-carr
   - kavram-caydiricilik
   - tartisma-ikinci-dunya-savasi-sorumlulugu
   - olay-kore-savasi
   - kavram-ideoloji
   - olay-truman-doktrini
+baglam:
+  - dusunur-carr
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

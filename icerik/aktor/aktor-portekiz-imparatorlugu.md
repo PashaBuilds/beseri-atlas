@@ -69,7 +69,7 @@ liman noktaları dizisiydi.
 Bu, dönemin diğer imparatorluklarından ayrı bir biçimdir.[^k3] Kara
 imparatorlukları alan tutar; bu düzen geçit tutar.
 
-Bu dosyanın konusu seferlerin sırası değildir.[^k4] Bu biçimin nasıl
+Bu incelemenin konusu seferlerin sırası değildir.[^k4] Bu biçimin nasıl
 işlediği ve neyi ölçtüğüdür.
 
 ## Başlangıç
@@ -81,8 +81,8 @@ alındı.
 Sonraki yüz yıl boyunca Atlantik kıyısı adım adım haritalandı.[^k3]
 Adalara yerleşildi ve şeker üretimi kuruldu.
 
-Atlas bu sırayı önemli sayar.[^k4] Ada şeker plantasyonları, sonraki
-kıtasal plantasyon düzeninin denendiği yerdir.
+Ada şeker plantasyonları, sonraki kıtasal
+plantasyon düzeninin denendiği yerdir.[^k4]
 
 ## Yolun açılması
 
@@ -93,8 +93,8 @@ Bu, kara üzerinden işleyen mevcut ticaret yollarına bir alternatif
 açtı.[^k3] Alternatif, mevcut yolları ortadan kaldırmadı ama pazarlık
 gücünü değiştirdi.
 
-Atlas bu etkiyi ayrıca kaydeder.[^k4] Bir güzergâh alternatifinin
-varlığı, taşınan miktarı değiştirmeden fiyatı değiştirebilir.
+Bir güzergâh alternatifinin varlığı, taşınan
+miktarı değiştirmeden fiyatı değiştirebilir.[^k4]
 
 ## Çizginin çizilmesi
 
@@ -105,9 +105,8 @@ imzalandı.[^k2] Anlaşma, okyanusta bir boylam çizgisi belirledi ve
 Çizgiyi çizenler o toprakların hiçbirinde yaşamıyordu.[^k1] Anlaşmanın
 metni, bölünen yerlerde yaşayanlardan söz etmez.
 
-Atlas bu örüntüyü tekrar eden bir ölçüm olarak kaydeder.[^k3] Orada
-yaşamayanlarca çizilen bölüşüm çizgileri, atlasta kıtadan kıtaya
-tekrarlanır.
+Orada yaşamayanlarca çizilen bölüşüm
+çizgileri, korpusta kıtadan kıtaya tekrarlanır.[^k3]
 
 ## Ağ tipi hâkimiyet
 
@@ -117,9 +116,9 @@ da bir geçidi denetler.
 
 Toplam yüzölçümü küçüktür.[^k1] Denetlenen ticaretin hacmi büyüktür.
 
-Atlas bu oranı kavramın merkezine koyar.[^k3] **Bir gücün kapsamı,
-tuttuğu toprakla değil, başkalarının hangi işlemler için ondan izin
-almak zorunda kaldığıyla ölçülür.**
+**Bir gücün kapsamı, tuttuğu
+toprakla değil, başkalarının hangi işlemler için ondan izin almak zorunda kaldığıyla
+ölçülür.**[^k3]
 
 ## İzin belgesi düzeni
 
@@ -129,9 +128,8 @@ gemilerden, bu belgeyi taşımaları istendi.
 Belgeyi taşımayan gemiler el konulabilir sayıldı.[^k4] Belge ücretliydi
 ve belirli limanlara uğramayı da şart koşuyordu.
 
-Atlas bu düzeni ayrıca kaydeder.[^k3] Belge, yeni bir ticaret
-yaratmadı; yüzyıllardır süren bir ticaretin üzerine bir ücret
-koydu.
+Belge, yeni bir ticaret yaratmadı;
+yüzyıllardır süren bir ticaretin üzerine bir ücret koydu.[^k3]
 
 ## Zaten yapılana izin satmak
 
@@ -142,9 +140,8 @@ Yaptığı şey, mevcut akışın belirli noktalardan geçmek zorunda
 olmasından yararlanmaktı.[^k4] Coğrafi darboğaz, gelirin
 kaynağıydı.
 
-Atlas bu mekanizmayı başka dosyalarda da arar.[^k3] Bir gelirin
-üretimden mi geçiş denetiminden mi geldiği, o gücün kırılganlığını da
-belirler.
+Bir gelirin üretimden mi geçiş
+denetiminden mi geldiği, o gücün kırılganlığını da belirler.[^k3]
 
 ## Düzenin sınırı
 
@@ -154,8 +151,8 @@ her biri tek tek kaybedilebilir.
 Bir noktanın kaybı, o hattın tamamını etkisiz kılabilir.[^k4] Kara
 imparatorluklarında toprak kaybı kademelidir; burada değildir.
 
-Atlas bu farkı ayrıca kaydeder.[^k3] Yoğunlaşmış bir denetim, yüksek
-getiri ve yüksek kırılganlık aynı anda üretir.
+Yoğunlaşmış bir denetim, yüksek getiri ve yüksek
+kırılganlık aynı anda üretir.[^k3]
 
 ## Karşı tarafın kaydı
 
@@ -165,8 +162,8 @@ olay, iki kayıtta farklı adlandırılır.
 Bir tarafta seyir ve ticaret, diğer tarafta kuşatma ve el koyma
 anlatılır.[^k3] İkisi de aynı gemilerden söz eder.
 
-Atlas iki kaydı yan yana kullanır.[^k1] Aynı olayın iki kayıttaki
-adlandırma farkı, olayın kendisi kadar veridir.
+Aynı olayın iki kayıttaki adlandırma farkı,
+olayın kendisi kadar veridir.[^k1]
 
 ## Nüfusun küçüklüğü
 
@@ -189,9 +186,8 @@ yerel ortaklar bulundu.
 Ortaklık karşılıklıydı.[^k4] Yerel bir hanedan, komşusuna karşı üstünlük
 sağlamak için bu düzenle anlaşabiliyordu.
 
-Atlas bu örüntüyü ayrıca kaydeder.[^k3] Dışarıdan gelen bir gücün
-yerleşmesi, çoğu zaman yerel bir anlaşmazlığın taraflarından birine
-katılmasıyla başlar.
+Dışarıdan gelen bir gücün yerleşmesi, çoğu
+zaman yerel bir anlaşmazlığın taraflarından birine katılmasıyla başlar.[^k3]
 
 ## Din ve ticaretin birlikte gitmesi
 
@@ -202,9 +198,9 @@ ticaretle aynı gemilerle taşındı.
 anlaşması yapmak, aynı hükümdarlara yönelik misyon çalışmasını
 zorlaştırıyordu.
 
-Atlas bu gerilimi ayrıca kaydeder.[^k3] Aynı düzenin iki amacı,
-belirli noktalarda birbirini engelleyebilir ve hangisinin öncelikli
-olduğu kararlarla ölçülür.
+Aynı düzenin iki amacı, belirli
+noktalarda birbirini engelleyebilir ve hangisinin öncelikli olduğu kararlarla
+ölçülür.[^k3]
 
 ## Doğu Asya'daki uç
 
@@ -215,8 +211,8 @@ Aracılık, iki tarafın birbiriyle doğrudan ticaret yapmadığı bir dönemde
 mümkündü.[^k4] Bu koşul ortadan kalkınca aracılığın da değeri
 kalmadı.
 
-Atlas bu bağımlılığı ayrıca kaydeder.[^k3] Aracılıktan doğan bir gelir,
-tarafların ilişkisi değiştiğinde kendiliğinden yok olur.
+Aracılıktan doğan bir gelir, tarafların
+ilişkisi değiştiğinde kendiliğinden yok olur.[^k3]
 
 ## Haritanın kendisi bir varlıktı
 
@@ -226,8 +222,8 @@ haritaları ve seyir defterleri devlet sırrı olarak korundu.
 Bu koruma, sonraki dönemde kısmen boşa çıktı.[^k3] Bilgi, el değiştiren
 gemiler ve yer değiştiren denizciler üzerinden yayıldı.
 
-Atlas bu yayılmayı ayrıca kaydeder.[^k4] Taşınabilir bilgi, taşıyıcısı
-insansa gizli tutulamaz.
+Taşınabilir bilgi, taşıyıcısı insansa gizli
+tutulamaz.[^k4]
 
 ## Brezilya'nın farkı
 
@@ -238,20 +234,19 @@ kuruldu.
 Fark, üretilen maldan gelir.[^k3] Şeker ve sonra maden, geniş arazi ve
 yoğun emek gerektirir.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k4] Bir imparatorluğun aynı dönemde
-iki farklı biçim kullanması, biçimin ideolojiden değil üründen
-belirlendiğini gösterir.
+Bir imparatorluğun aynı dönemde iki farklı biçim
+kullanması, biçimin ideolojiden değil üründen belirlendiğini gösterir.[^k4]
 
 ## Emeğin nereden geldiği
 
 Plantasyon ve maden düzeni yoğun emek istedi.[^k1] Bu emek büyük ölçüde
 kıtalar arası zorla taşımayla sağlandı.
 
-Taşımanın hacmi ve süresi, atlasın ayrı bir dosyasında ele
+Taşımanın hacmi ve süresi, korpusun ayrı bir dosyasında ele
 alınır.[^k3] Burada kaydedilen, iki düzen arasındaki bağdır.
 
-Atlas bu bağı doğrudan kurar.[^k4] Ağ tipi hâkimiyetin sağladığı deniz
-yolu denetimi, aynı zamanda bu taşımanın altyapısıdır.
+Ağ tipi hâkimiyetin sağladığı deniz yolu
+denetimi, aynı zamanda bu taşımanın altyapısıdır.[^k4]
 
 ## Birleşme dönemi
 
@@ -261,8 +256,8 @@ yıl boyunca iki imparatorluk aynı hükümdara bağlı kaldı.
 Bu dönemde, o hükümdarın düşmanları bu düzenin noktalarına da saldırdı.[^k3]
 Uzak noktalar bu saldırılarda tek tek kaybedildi.
 
-Atlas bu dönemi ölçüm sayar.[^k4] Bir hanedan birleşmesi, birleşen
-tarafların düşmanlarını da birleştirir.
+Bir hanedan birleşmesi, birleşen
+tarafların düşmanlarını da birleştirir.[^k4]
 
 ## Sonraki dönem
 
@@ -272,8 +267,8 @@ Kaybedilen noktaların bir bölümü geri alınmadı.[^k1] Okyanustaki
 Buna karşılık düzen tümüyle çökmedi.[^k4] Bazı noktalar ve büyük
 yerleşim bölgesi elde kaldı.
 
-Atlas bu direnci ayrıca kaydeder.[^k3] Bir imparatorluğun en kârlı
-bölümünü kaybetmesi, varlığının sona ermesi anlamına gelmez.
+Bir imparatorluğun en kârlı
+bölümünü kaybetmesi, varlığının sona ermesi anlamına gelmez.[^k3]
 
 ## Sürenin kendisi
 
@@ -285,8 +280,8 @@ Süre, tek bir biçimin sürdüğü anlamına gelmez.[^k3] Ağ düzeni, yerleşi
 düzeni ve yirminci yüzyıl sömürge yönetimi birbirinden farklı
 biçimlerdir.
 
-Atlas bu yüzden süreyi tek başına anlamlı saymaz.[^k4] Uzun ömür, aynı
-adın farklı düzenler üzerinde kalmasından da doğabilir.
+Uzun ömür, aynı adın farklı düzenler
+üzerinde kalmasından da doğabilir.[^k4]
 
 ## Nasıl sona erdi
 
@@ -296,9 +291,9 @@ başlamadı.[^k1] Ana ülkedeki bir rejim değişikliğiyle geldi.
 Değişiklik, uzun süren sömürge savaşlarının ana ülkedeki
 maliyetinden beslendi.[^k3] Yani bağ dolaylıdır ama vardır.
 
-Atlas bu bitişi ayrıca kaydeder.[^k4] Bir sömürge düzeninin sona ermesi,
-sömürgede değil merkezde alınan bir kararla da gerçekleşebilir; karar
-yine de sömürgedeki direnişin maliyetinden doğmuş olabilir.
+Bir sömürge düzeninin sona ermesi, sömürgede
+değil merkezde alınan bir kararla da gerçekleşebilir; karar yine de sömürgedeki
+direnişin maliyetinden doğmuş olabilir.[^k4]
 
 ## Karma nüfus ve dil
 
@@ -308,11 +303,10 @@ karışan ticaret dilleri, ağın kendi iletişim aracı hâline geldi.
 Bu diller, siyasi denetim sona erdikten sonra da sürdü.[^k4] Bazıları
 bugün hâlâ konuşulmaktadır.
 
-Atlas bu sürekliliği ayrıca kaydeder.[^k3] Bir düzenin en uzun ömürlü
-kalıntısı, çoğu zaman kurumları değil dili olur.
+Bir düzenin en uzun ömürlü kalıntısı, çoğu
+zaman kurumları değil dili olur.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, tek tek noktaların tarihini vermez.[^k1] Her limanın ne zaman
 alındığı, nasıl tutulduğu ve ne zaman kaybedildiği kendi dosyasını
 hak eder.
@@ -325,8 +319,7 @@ Portekizce birincil kayıttan doğrulanabilir bir metin
 künyelenememiştir.[^k4] Künyedeki birincil belge, iki Avrupa devleti arasında imzalanmış
 bir antlaşmadır ve bu kısıt burada açıkça beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Paylaşım çizgisini kuran metin için
 [Tordesillas Antlaşması](/kaynak/tordesillas-antlasmasi/) dosyası
 okunmalıdır.[^k2]

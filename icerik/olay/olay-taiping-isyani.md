@@ -44,7 +44,7 @@ onarim_turu: 0
 ---
 
 Bu isyanın bilançosu için kaynağın verdiği aralık şudur: toplam ölü 20–100
-milyon.[^k1] Bu dosya, öncelikle o aralığın kendisini ele alır.
+milyon.[^k1] Bu inceleme, öncelikle o aralığın kendisini ele alır.
 
 ## Beş katlık belirsizlik
 
@@ -53,10 +53,10 @@ sınırıdır.[^k1] Alt sınır ile üst sınır arasındaki oran beştir; yani 
 ve en kötümser tahmin arasında seksen milyon insan vardır.
 
 ::tartismali[Taiping İsyanı'nın insan bedeli için verilen aralık son derece
-geniştir; atlas tek bir sayı sunmaz ve aralığı olduğu gibi
+geniştir; korpus tek bir sayı sunmaz ve aralığı olduğu gibi
 aktarır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
-Atlas böyle durumlarda ortalama almaz ve "yaklaşık" diyerek tek bir sayı
+Korpus böyle durumlarda ortalama almaz ve "yaklaşık" diyerek tek bir sayı
 üretmez. Aralığın genişliği, olayın kendisi hakkında bir bilgidir: kayıt
 tutmanın çöktüğü bir savaş, kendi bilançosunu da kaydedememiştir.
 
@@ -99,9 +99,8 @@ ile isyan için verilen 20–100 milyonluk ölü aralığı[^k1] farklı seriler
 Çin'in kendi nüfusuna dair bir ölçüm kullanılan kaynaklarda bulunmadığı için
 burada oran kurulmamıştır.
 
-## Bu dosyanın sınırı
-
-Kaynak, Batılı güçlerle ilişkileri ayrı bir başlık altında ele alır;[^k1] bu dosya
+## Kanıtın ve kapsamın sınırı
+Kaynak, Batılı güçlerle ilişkileri ayrı bir başlık altında ele alır;[^k1] bu inceleme
 o başlığı kapsamaz. İsyanın dinî öğretisi, önderlerinin biyografileri ve askerî
 seferlerin seyri de burada ayrı başlıklar altında işlenmemiştir. Dönemin
 bütünü [1848–1914](/donem/12/) dosyasında ele alınıyor.

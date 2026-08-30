@@ -18,12 +18,13 @@ ilgili:
   - donem-09
   - aktor-delhi-sultanligi
   - aktor-chola
-  - aktor-babur-imparatorlugu
   - kavram-kanit-turu
   - kavram-hint-okyanusu-ticareti
   - kavram-haracguzarlik
   - kavram-mandala-devleti
   - aktor-marathalar
+baglam:
+  - aktor-babur-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -66,7 +67,7 @@ Devlet, kuzeyden gelen askerî baskının yoğunlaştığı bir dönemde
 kuruldu.[^k3] Kuruluşunun bu baskıya karşı bir tepki olup olmadığı
 tartışmalıdır ve dosya bir sonuca bağlanmaz.
 
-Bu dosyanın asıl konusu kaynak dağılımıdır.[^k2] İmparatorluk kendi
+Bu incelemenin asıl konusu kaynak dağılımıdır.[^k2] İmparatorluk kendi
 diliyle binlerce yazıt bıraktı ama gündelik hayatı büyük ölçüde yabancı
 ziyaretçilerden bilinir.
 
@@ -91,9 +92,9 @@ taşa geçirmek içindir; kalıcılık istenen şey ise mülkiyet ve bağıştı
 Gündelik hayatın taşa yazılması için bir gerekçe yoktur.[^k3] Kaydın
 amacı, hangi bilginin korunduğunu doğrudan belirler.
 
-Atlas bu mekanizmayı ayrıca kaydeder.[^k2] **Bir toplumun neyi taşa
-yazdığı, o toplumun neyi kalıcı kılmak istediğini gösterir; geri kalanı
-başka kaynak gerektirir.**
+**Bir toplumun neyi taşa yazdığı, o
+toplumun neyi kalıcı kılmak istediğini gösterir; geri kalanı başka kaynak
+gerektirir.**[^k2]
 
 ## Ziyaretçi anlatıları
 
@@ -104,9 +105,8 @@ ayrıntılı olarak betimler.
 Anlatıların yazarları tüccar ve at satıcısıydı.[^k2] İlgileri
 ticariydi ve bu, neyi ayrıntılı yazdıklarını belirler.
 
-Atlas bu kısıtı ayrıca yazar.[^k1] Bir gözlemcinin mesleği, kaydının
-hangi alanlarda ayrıntılı hangi alanlarda boş olacağını önceden
-belirler.
+Bir gözlemcinin mesleği, kaydının
+hangi alanlarda ayrıntılı hangi alanlarda boş olacağını önceden belirler.[^k1]
 
 ## İki türün birlikte okunması
 
@@ -114,7 +114,7 @@ Yazıtlar ile anlatılar birbirini denetleyebilir.[^k3] Bir yazıtta adı
 geçen hükümdarın, aynı yıllarda bir ziyaretçi tarafından betimlenmesi
 iki kaydı çakıştırır.
 
-Çakışma, atlasın seyrek bulduğu bir imkândır.[^k1] Çoğu dosyada tek bir
+Çakışma, korpusun seyrek bulduğu bir imkândır.[^k1] Çoğu dosyada tek bir
 kanıt türü vardır ve karşılaştırma yapılamaz.
 
 Burada karşılaştırma mümkündür ve yapılmalıdır.[^k2] İki tür aynı
@@ -140,10 +140,10 @@ getirdi.[^k2] Limanları elinde tutan taraf, iç bölgedeki devletlerin
 askerî kapasitesini etkileyebiliyordu.
 
 On altıncı yüzyılda kıyıya yerleşen Avrupa gücü bu konumu
-kullandı.[^k1] Atlas bunu ayrıca kaydeder çünkü etki, toprak
+kullandı.[^k1] Korpus bunu bu noktayı da belirtir çünkü etki, toprak
 fethetmeden kurulmuştur.
 
-Mekanizma atlasın başka dosyalarında da görülür.[^k3] Bir malın
+Mekanizma korpusun başka dosyalarında da görülür.[^k3] Bir malın
 tedarik hattını denetlemek, o malı kullanan devletler üzerinde toprak
 sahibi olmadan etki kurmanın yoludur.
 
@@ -155,8 +155,8 @@ anlatıları şehrin büyüklüğünü ve pazar yoğunluğunu vurgular.
 Sayısal tahminler bu anlatılardan çıkarılır.[^k1] Anlatılar sayı verir
 ama sayıların nasıl elde edildiği belirtilmez.
 
-Atlas bu nedenle nüfus için sayı vermez.[^k3] Bir gözlemcinin verdiği
-büyüklük tahmini, sayım değil izlenimdir ve öyle işaretlenmelidir.
+Bir gözlemcinin verdiği büyüklük
+tahmini, sayım değil izlenimdir ve öyle işaretlenmelidir.[^k3]
 
 ## Su sistemi
 
@@ -167,7 +167,7 @@ düzenlenmişti.
 Sistem, kurak bir bölgede kalabalık bir şehri mümkün kıldı.[^k2] Yapımı
 ve bakımı sürekli örgütlü emek gerektiriyordu.
 
-Bu, atlasın Hîve dosyasında ölçtüğü kısıtla aynı ailedendir.[^k3] Suya
+Bu, korpusun Hîve dosyasında ölçtüğü kısıtla aynı ailedendir.[^k3] Suya
 bağlı bir yerleşim, siyasi istikrara doğrudan bağımlıdır.
 
 ## Tapınak ekonomisi
@@ -180,8 +180,8 @@ Bu, tapınakları dinî kurum olduğu kadar iktisadi kurum yapar.[^k3]
 Bağış kaydının taşa yazılması, mülkiyetin güvence altına alınması
 işlemidir.
 
-Atlas bu ayrımı ayrıca yazar.[^k2] Bir kaydın dinî bir bağlamda
-tutulması, içeriğinin dinî olduğu anlamına gelmez.
+Bir kaydın dinî bir bağlamda tutulması, içeriğinin
+dinî olduğu anlamına gelmez.[^k2]
 
 ## Yönetim düzeni
 
@@ -192,7 +192,7 @@ yükümlüydü.
 Valiliklerin özerkliği zamanla arttı.[^k3] Bazı valiler kendi hanedan
 çizgilerini kurdu ve merkeze bağlılık biçimsel hâle geldi.
 
-Bu, atlasın çok sayıda dosyada ölçtüğü bir örüntüdür.[^k2] Askerî
+Bu, korpusun çok sayıda dosyada ölçtüğü bir örüntüdür.[^k2] Askerî
 yükümlülük karşılığı verilen gelir tahsisi, zamanla kalıcı mülkiyete
 dönüşme eğilimindedir.
 
@@ -202,13 +202,12 @@ dönüşme eğilimindedir.
 oluşturduğu bir ittifak karşısında büyük bir yenilgi aldı.[^k3] Yenilgi
 sonrasında başkent yağmalandı ve terk edildi.
 
-Şehrin terk edilişi ani ve kalıcı oldu.[^k2] Bu, atlasın az sayıda
+Şehrin terk edilişi ani ve kalıcı oldu.[^k2] Bu, korpusun az sayıda
 dosyasında görülen bir durumdur; çoğu başkent yağmalandıktan sonra
 yeniden yerleşir.
 
-Atlas terk edilişin nedenini tek etkene bağlamaz.[^k1] Su sisteminin
-bakımsız kalması, ticaret hattının değişmesi ve siyasi merkezin güneye
-kayması birlikte işlemiştir.
+Su sisteminin bakımsız kalması, ticaret
+hattının değişmesi ve siyasi merkezin güneye kayması birlikte işlemiştir.[^k1]
 
 ## Yenilginin sonrası
 
@@ -218,8 +217,8 @@ yıl daha sürdü.
 Bu ayrım kaydedilmelidir.[^k3] Bir başkentin düşmesi, devletin sona
 ermesiyle aynı şey değildir ve iki olay sık sık birleştirilir.
 
-Atlas iki tarihi ayrı ayrı yazar.[^k2] Başkentin terk edildiği yıl ile
-hanedanın sona erdiği yıl arasında seksen yıl vardır.
+Başkentin terk edildiği yıl ile hanedanın sona
+erdiği yıl arasında seksen yıl vardır.[^k2]
 
 ## İttifakın niteliği
 
@@ -230,8 +229,8 @@ kuruldu.[^k1] Bu devletler o güne kadar birbirleriyle de savaşmıştı.
 yalnızca inanç hattı üzerinden okunursa, bu devletlerin birbirleriyle
 savaşması açıklanamaz.
 
-Atlas bu nedenle çatışmayı tek eksene indirgemez.[^k2] İttifaklar dönem
-boyunca değişti ve hat üzerinden geçen ittifaklar da kuruldu.
+İttifaklar dönem boyunca değişti ve hat
+üzerinden geçen ittifaklar da kuruldu.[^k2]
 
 ## Adlandırma sorunu
 
@@ -241,9 +240,8 @@ kullanılan ad, başkentin adından türetilmiştir.
 Hanedanlar dönem boyunca dört kez değişti.[^k3] Dört hanedanı tek bir
 devlet olarak saymak, sonradan yapılmış bir gruplamadır.
 
-Atlas gruplamayı kullanır ve sonradan yapıldığını belirtir.[^k2]
-Süreklilik iddiası, hanedan devamlılığından değil kurumsal ve coğrafi
-devamlılıktan çıkarılmıştır.
+Süreklilik iddiası, hanedan devamlılığından değil
+kurumsal ve coğrafi devamlılıktan çıkarılmıştır.[^k2]
 
 ## Bakır levha yazıtları
 
@@ -255,9 +253,8 @@ bağış yapılan kişide kalırdı.
 taşınamazdır; bakır levha taşınabilir ve sahibinin elindedir, yani biri
 ilan, öteki tapu işlevi taşır.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k2] Aynı bilginin hangi malzemeye
-yazıldığı, o bilginin kime ve hangi amaçla gösterileceğini belirler;
-malzeme seçimi bir hukuki tercihtir.
+Aynı bilginin hangi malzemeye yazıldığı, o bilginin
+kime ve hangi amaçla gösterileceğini belirler; malzeme seçimi bir hukuki tercihtir.[^k2]
 
 ## Dil çeşitliliği
 
@@ -268,16 +265,16 @@ kullanılmıştır.
 Dil seçimi, yazıtın kime seslendiğini gösterir.[^k3] Klasik dil dinî ve
 resmî çerçeveyi, yerel diller doğrudan muhatabı işaret eder.
 
-Bu, imparatorluğun tek bir dil dayatmadığını gösterir.[^k2] Atlas bunu
+Bu, imparatorluğun tek bir dil dayatmadığını gösterir.[^k2] Korpus bunu
 bir hoşgörü göstergesi değil, yönetim maliyetini düşüren bir tercih
 olarak kaydeder; yerel dilde yazmak, kaydın anlaşılmasını sağlar.
 
 ## Kaynak durumu
 
-Bu dosyanın üç künyesinden ikisi dönem tanıklığı, biri giriş
+Bu incelemenin üç künyesinden ikisi dönem tanıklığı, biri giriş
 kapısıdır.[^k2] Yazıtların kendileri künyelenememiştir.
 
-Yazıt derlemelerinin doğrulanabilir çevrimiçi baskıları bu dosya
+Yazıt derlemelerinin doğrulanabilir çevrimiçi baskıları bu inceleme
 yazıldığında bulunamamıştır.[^k1] Bu, dosyanın asıl bulgusunu doğrudan
 etkiler: iki kanıt türünden yalnızca birine atıf yapılabilmiştir.
 
@@ -291,13 +288,12 @@ konuda görece iyi kayıt tutar ama derlemeler künyelenemediği için
 liste burada üretilmez.
 
 Mimari miras ayrıntılı olarak işlenmez.[^k3] Ayrı bir çalışma
-gerektirir ve bu dosya yazıldığında atlasta bulunmuyordu.
+gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu.
 
 Askerî seferlerin ayrıntısı kapsam dışıdır.[^k2] Dosya yalnızca kanıt
 dağılımına ve at bağımlılığına ilişkin olanı kaydeder.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, imparatorluğun kuruluş gerekçesi hakkında hüküm vermez.[^k3]
 Kuzeyden gelen baskıya tepki olarak kurulduğu iddiası tartışmalıdır ve
 kaydedilmekle yetinilir.
@@ -306,17 +302,16 @@ Terk edilişin nedeni tek etkene bağlanmaz.[^k1] Üç etken sıralanır ve
 ağırlıkları ölçülmemiştir.
 
 Ziyaretçi anlatılarındaki sayılar aktarılmaz.[^k2] Sayılar izlenime
-dayanır ve atlas izlenimi sayı olarak kaydetmez.
+dayanır ve korpus izlenimi sayı olarak kaydetmez.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı yarımadadan daha erken bir deniz imparatorluğu için
 [Chola](/aktor/chola/), kuzeydeki rakip düzen için
 [Delhi Sultanlığı](/aktor/delhi-sultanligi/) dosyaları
 okunmalıdır.[^k1]
 
 Kanıt türlerinin hangi soruya cevap verdiği için
-[Kanıt türü](/kavram/kanit-turu/) dosyası uygundur; bu dosya iki türün
+[Kanıt türü](/kavram/kanit-turu/) dosyası uygundur; bu inceleme iki türün
 birbirini tamamladığı seyrek örneklerdendir.[^k3]
 
 At ve mal tedarikinin siyasi etki kurma biçimi için

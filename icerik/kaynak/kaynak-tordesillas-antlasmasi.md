@@ -76,7 +76,7 @@ Paylaşım, kuzeyden güneye uzanan bir çizgiyle yapılır.
 uzaklıkta olarak tarif edilir.[^k1] Çizginin doğusu bir tarafa, batısı
 ötekine ayrılır.
 
-Bu dosyanın asıl konusu belgenin uygulanabilirliğidir.[^k2] Antlaşmanın
+Bu incelemenin asıl konusu belgenin uygulanabilirliğidir.[^k2] Antlaşmanın
 merkezindeki çizginin nerede olduğu, dönemin tekniğiyle
 ölçülemiyordu.
 
@@ -90,16 +90,16 @@ Antlaşmanın imzalandığı tarihte böyle bir imkân yoktu.[^k3] Çizginin
 gerçekte nereden geçtiği, taraflar arasında sürekli bir uyuşmazlık
 konusu olarak kaldı.
 
-Atlas bu durumu ayrıca kaydeder.[^k1] **Bir belgenin merkezî hükmü, o
-belgenin yazıldığı dönemin tekniğiyle ölçülemiyorsa, hüküm bağlayıcı
-değil müzakere edilebilir hâle gelir.**
+**Bir belgenin merkezî hükmü, o belgenin
+yazıldığı dönemin tekniğiyle ölçülemiyorsa, hüküm bağlayıcı değil müzakere edilebilir
+hâle gelir.**[^k1]
 
 ## Ölçüm belirsizliğinin kullanımı
 
 Belirsizlik iki tarafça da kullanıldı.[^k2] Her taraf, kendi lehine olan
 ölçümü savundu ve fersah biriminin uzunluğu bile tartışma konusu oldu.
 
-Bu, atlasın Samoa dosyasında ölçtüğü örüntünün bir başka
+Bu, korpusun Samoa dosyasında ölçtüğü örüntünün bir başka
 biçimidir.[^k3] Bir hukuki belirsizlik, taraflardan hangisine ne zaman
 yarayacağı belli değilse bile, güçlü olanın lehine çözülme eğilimindedir.
 
@@ -111,7 +111,7 @@ sürekli bir pazarlık zeminine dönüşür ve çözülmez.
 Antlaşmanın iki tarafı vardır ve ikisi de Avrupa'dandır.[^k1] Paylaşılan
 toprakların hiçbirinde yaşayan hiç kimse taraf değildir.
 
-Bu, atlasın tekrar tekrar kaydettiği yapının en erken
+Bu, korpusun tekrar tekrar kaydettiği yapının en erken
 örneğidir.[^k2] Aynı yapı Berlin Konferansı'nda ve Samoa
 paylaşımında yeniden görülür.
 
@@ -124,7 +124,7 @@ Yapı tek cümleyle ifade edilebilir.[^k1] **Bir bölgenin bölünmesi, o
 bölgede yaşayanların katılmadığı bir masada kararlaştırılabilir ve
 sonucu yüzyıllarca sürebilir.**
 
-İfade bir değerlendirme değil bir gözlemdir.[^k3] Atlas bu işlemin
+İfade bir değerlendirme değil bir gözlemdir.[^k3] Korpus bu işlemin
 hukuki geçerliliği hakkında hüküm vermez.
 
 Gözlemin pratik sonucu vardır.[^k2] Bir sınırın kim tarafından
@@ -138,8 +138,8 @@ paylaşım yapmıştı.[^k2] Antlaşma, o kararlardaki çizgiyi batıya kaydır�
 Kaydırma, taraflardan birinin itirazı üzerine yapıldı.[^k2] İtiraz eden
 taraf, kendi keşif hattının çizginin ötesine düştüğünü ileri sürdü.
 
-Atlas bu diziyi ayrıca kaydeder.[^k1] Bir hakem kararının taraflarca
-yeniden pazarlık edilmesi, hakemin yetkisinin sınırını da gösterir.
+Bir hakem kararının taraflarca yeniden pazarlık
+edilmesi, hakemin yetkisinin sınırını da gösterir.[^k1]
 
 ## Yetkinin dayanağı
 
@@ -177,9 +177,8 @@ Sınırın nihai hâli antlaşma metninden değil, sonraki yerleşim ve
 seferlerden çıktı.[^k1] Fiilî yayılma, çizginin ötesine geçti ve
 sonradan yeni antlaşmalarla tanındı.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Bir belgenin çizdiği sınır ile
-fiilen oluşan sınır farklı olabilir; ikincisi çoğu zaman birinciyi
-geriye dönük olarak değiştirir.
+Bir belgenin çizdiği sınır ile fiilen oluşan sınır
+farklı olabilir; ikincisi çoğu zaman birinciyi geriye dönük olarak değiştirir.[^k3]
 
 ## Belgenin bugünkü izi
 
@@ -190,8 +189,8 @@ idari mirası ayırır.
 Bu, belgenin ölçülemez olmasına rağmen etkili olduğunu gösterir.[^k1]
 Uygulanabilirliğin eksikliği, etkisizlik anlamına gelmez.
 
-Atlas iki düzeyi ayrı tutar.[^k3] Bir hükmün teknik olarak
-uygulanamaması ile o hükmün siyasi sonuç doğurmaması ayrı iki olgudur.
+Bir hükmün teknik olarak uygulanamaması ile o hükmün
+siyasi sonuç doğurmaması ayrı iki olgudur.[^k3]
 
 ## Antlaşmanın öteki yarısı
 
@@ -215,24 +214,21 @@ sınır tespiti değil, bir pazarlık çerçevesi kuruyordu.
 çözülebiliyordu.[^k1] Çizginin gerçek konumu, çözümün bir parçası
 değildi.
 
-Atlas bu işlevi ayrıca kaydeder.[^k2] Bir antlaşma, hükmü
-uygulanamıyorsa bile taraflar arasında bir müzakere düzeni kurabilir ve
-asıl değeri bu olabilir.
+Bir antlaşma, hükmü uygulanamıyorsa bile
+taraflar arasında bir müzakere düzeni kurabilir ve asıl değeri bu olabilir.[^k2]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, antlaşmanın hukuki geçerliliği hakkında hüküm vermez.[^k1]
 Metnin ne dediğini, neyin ölçülemediğini ve sonucun ne olduğunu
 kaydeder.
 
 Paylaşılan bölgelerdeki toplumların tarihi burada işlenmez.[^k2] Ayrı
-dosyalar gerektirir ve atlasta bir bölümü bulunmaktadır.
+dosyalar gerektirir ve korpusta bir bölümü bulunmaktadır.
 
 Metin çeviri üzerinden okunmuştur.[^k1] Fersah biriminin karşılığı ve
 terim seçimleri çevirmenin tercihlerini taşır; bu kısıt beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı yapının sonraki örnekleri için
 [Berlin Konferansı](/olay/berlin-konferansi/) ve
 [Samoa Krallığı](/aktor/samoa-kralligi/) dosyaları okunmalıdır; üçü

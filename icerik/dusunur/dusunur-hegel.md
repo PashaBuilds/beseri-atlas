@@ -57,7 +57,7 @@ onarim_turu: 0
 Kaynak onu 1770-1831 arasında yaşamış, J. G. Fichte ve en azından erken
 eserlerinde F. W. J. von Schelling ile birlikte anılan bir düşünür olarak
 kaydeder; 1770'te Stuttgart'ta doğduğu ve 1788-1793 arasında Tübingen'de önce
-felsefe sonra ilahiyat okuduğu yazılır.[^k1] Bu dosya, felsefesini değil
+felsefe sonra ilahiyat okuduğu yazılır.[^k1] Bu inceleme, felsefesini değil
 **kaynağın onu nasıl bölümlediğini** ele alır.
 
 ## Üç rakip okuma üç ayrı başlıktır
@@ -66,7 +66,7 @@ Kaynak felsefesine dair okumaları alt başlıklar hâlinde sıralar: geleneksel
 metafizik görüş, kimi zaman metafizik olmayan görüş de denen Kant sonrası görüş ve
 Kant sonrası görüşe karşı gözden geçirilmiş metafizik tepki.[^k1]
 
-::tartismali[Aynı ansiklopedi maddesi, konusunun felsefesi hakkında üç ayrı okuma sıralar ve hangisinin doğru olduğunu söylemez. Atlas da söylemez; üç okumanın varlığını kaydeder.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Aynı ansiklopedi maddesi, konusunun felsefesi hakkında üç ayrı okuma sıralar ve hangisinin doğru olduğunu söylemez. Korpus da söylemez; üç okumanın varlığını kaydeder.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu tür çoklu okumaların nasıl taşınacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -81,7 +81,7 @@ sıradan bir takipçisi olduğu ününden kurtulamadığını yazar; Schelling'i
 beş yaş küçük olduğunu da kaydeder.[^k1]
 
 Bir düşünürün ününün, kendi metinlerinden değil bir ilişkiden türemiş olarak
-kaydedilmesi,[^k1] atlasın etki alanını neden ayrı tuttuğunu gösterir.
+kaydedilmesi,[^k1] korpusun etki alanını neden ayrı tuttuğunu gösterir.
 
 ## Bir dostluğun bitişi bir önsözle tarihlenir
 
@@ -104,13 +104,12 @@ Bir başyapıtın yazılma koşulları arasında bir askerî işgalin sayılmas�
 düşünce tarihini siyasi tarihten ayrı tutmanın güçlüğünü gösterir; ilgili savaşlar
 [Napolyon Savaşları](/olay/napolyon-savaslari/) dosyasında ele alınıyor.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 *Tinin Görüngübilimi* ve *Mantık Bilimi*'nin içeriği, ansiklopedik sistem ve tin
 felsefesi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
 bölümler olarak işler.[^k1]
 
 ## Eserine bağ
 
-Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Tinin Gorungubilimi*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+Bu inceleme düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Tinin Gorungubilimi*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
 verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

@@ -85,8 +85,8 @@ ortadan ikiye böler.
 
 ## Sonu
 
-Monarşinin sonunu getiren kriz, atlasta ayrı bir dosyada ele alınıyor:
-[1914 Temmuz Krizi](/olay/1914-temmuz-krizi/). Bu dosya krizin seyrini
+Monarşinin sonunu getiren kriz, korpusta ayrı bir dosyada ele alınıyor:
+[1914 Temmuz Krizi](/olay/1914-temmuz-krizi/). Bu inceleme krizin seyrini
 kapsamaz.
 
 ## Ölçek
@@ -95,8 +95,7 @@ Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1914'te yakl
 1,82 milyardır.[^k3] Monarşinin kendi nüfusuna dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 1867 Uzlaşması'nın içeriği, iki yarının anayasal ilişkisi, milliyetçi hareketler
 ve monarşinin dağılma süreci burada ayrı başlıklar altında ele alınmamıştır;
 kaynak bunları ayrı bölümler olarak işler.[^k1] Dönemin bütünü

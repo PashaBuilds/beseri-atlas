@@ -42,7 +42,7 @@ denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-Önceki hanedan 918-1392 arasına tarihlenir.[^k1] Bu dosya, iki hanedan arasındaki
+Önceki hanedan 918-1392 arasına tarihlenir.[^k1] Bu inceleme, iki hanedan arasındaki
 **1392 eşiğini** ve bağımsızlığın nasıl kaydedildiğini ele alır.
 
 ## Bağımsızlık aralıklı yazılır
@@ -50,7 +50,7 @@ onarim_turu: 0
 Kaynak devlet biçimini tek bir satırda vermez: bağımsız devlet 918-1270 ve
 1356-1392 arasında, Yuan hanedanının tabi devleti ise 1270-1356 arasında.[^k1]
 
-Bir devletin bağımsızlığının iki ayrı aralık halinde kaydedilmesi,[^k1] atlasın
+Bir devletin bağımsızlığının iki ayrı aralık halinde kaydedilmesi,[^k1] korpusun
 "bağımsız / bağımlı" ikiliğine neden tek bir kutu ayırmadığını gösterir: durum,
 aynı hanedanın ömrü içinde iki kez değişmiştir.
 
@@ -80,7 +80,7 @@ ortasına, geç dönem 17. yüzyıl ortasından 19. yüzyıl sonuna.[^k2]
 
 Kaynağın sonu ayrı iki başlıkta işlemesi dikkat çekicidir: hanedanın sonu ile
 imparatorluğun kurulması ve sömürgeleştirme ayrı bölümlerdir.[^k2] Bir hanedanın
-bitişi ile ülkenin bağımsızlığının bitişinin aynı olay olmaması,[^k2] bu dosyanın
+bitişi ile ülkenin bağımsızlığının bitişinin aynı olay olmaması,[^k2] bu incelemenin
 1897'de değil daha geç bir tarihte kapanmadığının gerekçesidir.
 
 ## Yönetim aygıtı bölüm bölüm yazılır
@@ -89,7 +89,7 @@ Sonraki hanedanın yönetimi kaynakta kral, memurlar, Devlet Konseyi, Altı Baka
 Üç Daire ve yerel yönetim başlıklarına ayrılır; ordu için kara, deniz ve saray
 muhafızı alt başlıkları vardır.[^k2]
 
-Bir hanedanın yönetim şemasının bu ayrıntıda kaydedilmesi,[^k2] atlasın kurumsal
+Bir hanedanın yönetim şemasının bu ayrıntıda kaydedilmesi,[^k2] korpusun kurumsal
 tarih için Doğu Asya'da neden görece zengin bir kayıt bulduğunu gösterir.
 
 ## Ölçek
@@ -99,8 +99,7 @@ için yaklaşık 503,1 milyondur.[^k3] Yarımadanın kendi nüfusuna dair bir ö
 kullanılan kaynak bölümlerinde bulunmadığı için bu değerler içindeki pay burada
 hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Savaşlar, Moğol istilaları, kültür ve teknoloji burada ayrı başlıklar altında ele
 alınmamıştır; kaynaklar bunları ayrı bölümler olarak işler.[^k1][^k2] Dönemin
 bütünü [1350-1500](/donem/08/) dosyasında ele alınıyor.

@@ -65,8 +65,8 @@ Güneydoğu Asya, Güney Asya) ve Okyanusya.[^k1]
 
 ## Yöntem tek bir merkezden yayılmamıştır
 
-Bir yöntemin gelişiminin bu kadar çok bölgede ayrı ayrı işlenmesi,[^k1] atlasın
-şu kuralının dayanağıdır: bu atlasta sözlü tarih, bir bölgeye ait bir yenilik
+Bir yöntemin gelişiminin bu kadar çok bölgede ayrı ayrı işlenmesi,[^k1] korpusun
+şu kuralının dayanağıdır: bu korpusta sözlü tarih, bir bölgeye ait bir yenilik
 olarak anılmaz.
 
 ## Halkbilim kökleri ayrıca kaydedilir
@@ -101,8 +101,8 @@ kişilerin görevidir ve ezber düzenli olarak sınanır.
 Bu, aktarımı denetlenebilir kılar.[^k2] Yanlış aktaran, dinleyiciler
 tarafından düzeltilir.
 
-Atlas bu düzeni ayrıca kaydeder.[^k3] Sözlü aktarım, denetim
-mekanizması bulunduğunda yazılı aktarımdan daha az bozulabilir.
+Sözlü aktarım, denetim mekanizması
+bulunduğunda yazılı aktarımdan daha az bozulabilir.[^k3]
 
 ## Biçimin işlevi
 
@@ -112,8 +112,8 @@ sabit ifadeler ezberi kolaylaştırır.
 Biçim, içeriği koruyan bir kaptır.[^k2] Kalıp bozulursa hata fark
 edilir.
 
-Atlas bu işlevi ayrıca kaydeder.[^k3] Bir metnin edebî biçimi, süsleme
-değil bir koruma mekanizması olabilir.
+Bir metnin edebî biçimi, süsleme değil bir koruma
+mekanizması olabilir.[^k3]
 
 ## Bozulmanın yönü
 
@@ -124,8 +124,8 @@ Uyarlama en belirgin bozulma biçimidir.[^k2] Anlatı, her kuşakta o
 kuşağın sorularına cevap verecek biçimde
 yeniden şekillenir.
 
-Atlas bu yönü ayrıca kaydeder.[^k3] Sözlü bir anlatı, geçmişi
-kaydettiği kadar anlatıldığı anı da kaydeder.
+Sözlü bir anlatı, geçmişi kaydettiği kadar
+anlatıldığı anı da kaydeder.[^k3]
 
 ## Yazıya geçirmenin etkisi
 
@@ -134,8 +134,8 @@ Yazıya geçirme aktarımı dondurur.[^k1] Bu bir koruma ve bir kayıptır.
 Metin korunur; her seferinde yenilenen esneklik sona
 erer.[^k2] Yazıya geçirilen sürüm, o anın sürümüdür.
 
-Atlas bu değiş tokuşu ayrıca kaydeder.[^k3] Bir sözlü metnin yazılı
-hâli, geleneğin tamamı değil bir kesitidir.
+Bir sözlü metnin yazılı hâli,
+geleneğin tamamı değil bir kesitidir.[^k3]
 
 ## Derleyicinin payı
 
@@ -146,20 +146,19 @@ verir.
 Bu kararlar metne geçer.[^k2] Derleyicinin dili, sınıflandırması ve
 atlamaları metnin parçası olur.
 
-Atlas bu katmanı ayrıca kaydeder.[^k3] Yazıya geçirilmiş bir sözlü
-metin, iki kişinin ortak ürünüdür.
+Yazıya geçirilmiş bir sözlü metin, iki
+kişinin ortak ürünüdür.[^k3]
 
 ## Ölçütler
 
-Atlas sözlü kaynağı üç ölçütle değerlendirir.[^k1] Aktarım zincirinin
-bilinip bilinmediği, denetim mekanizmasının bulunup bulunmadığı ve
-kayda geçiş koşulları.
+Aktarım zincirinin bilinip
+bilinmediği, denetim mekanizmasının bulunup bulunmadığı ve kayda geçiş koşulları.[^k1]
 
 Üçü de bilinmiyorsa kaynak zayıftır.[^k2] Bilinen bir zincir, zayıf
 bir kaydı güçlendirebilir.
 
-Atlas bu ölçütleri künyeye taşır.[^k3] Sözlü kökenli bir kaynak,
-kökeninin belirtilmesiyle kullanılabilir.
+Sözlü kökenli bir kaynak, kökeninin
+belirtilmesiyle kullanılabilir.[^k3]
 
 ## Hangi bilgiyi taşır
 
@@ -170,8 +169,8 @@ korunur.
 Tarih ve sayı en hızlı bozulan bilgilerdir.[^k2] Kuşak sayısı,
 yıla çevrildiğinde geniş bir aralık verir.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Sözlü bir kaynağın betimleyici
-iddiaları, sayısal iddialarından daha güçlüdür.
+Sözlü bir kaynağın betimleyici iddiaları, sayısal
+iddialarından daha güçlüdür.[^k3]
 
 ## Yazılı kaynakla karşılaştırma
 
@@ -183,9 +182,8 @@ imkânıdır.
 konuda güvenilir olduğunu sormaya
 yol açar.
 
-Atlas bu karşılaştırmayı yeğler.[^k3] İki bağımsız kanıt türünün
-örtüşmesi, tek tek her birinden güçlü bir
-bulgudur.
+İki bağımsız kanıt türünün örtüşmesi, tek
+tek her birinden güçlü bir bulgudur.[^k3]
 
 
 ## Yakın dönemde kullanımı
@@ -198,11 +196,9 @@ Bu kayıtlar, resmî arşivin dışında kalanları
 gösterir.[^k2] Yazılı kaydın sessiz kaldığı yerde
 konuşurlar.
 
-Atlas bu işlevi ayrıca kaydeder.[^k3] Sözlü kayıt, kaydı olmayanların
-kaydını üretmenin en doğrudan
-yoludur.
+Sözlü kayıt, kaydı olmayanların
+kaydını üretmenin en doğrudan yoludur.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Yöntemin teknikleri, arşivleme ve etik kurallar burada ayrı başlıklar altında ele
 alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]

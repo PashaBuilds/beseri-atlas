@@ -46,7 +46,7 @@ onarim_turu: 0
 
 Bu birliğin en dikkat çekici özelliği, **devlet olmadan devlet işlevi görmesidir**.
 Üyeliği Baltık ve Kuzey denizleri bölgesindeki çeşitli şehirlerden oluşur;
-gayriresmî başkenti Lübeck'tir.[^k1] Bu dosya, o **biçimsizliği** ele alır.
+gayriresmî başkenti Lübeck'tir.[^k1] Bu inceleme, o **biçimsizliği** ele alır.
 
 ## "Gayriresmî başkent" ne demektir
 
@@ -55,7 +55,7 @@ kaydeder.[^k1] Bu, bir siyasi yapının merkezinin hukuki değil fiilî olduğu
 anlamına gelir: kimse Lübeck'i başkent ilan etmemiştir, ama ağırlık merkezi
 oradadır.
 
-Bu, atlasın imparatorluk gösterimi tartışmasına farklı bir örnek ekler: burada
+Bu, korpusun imparatorluk gösterimi tartışmasına farklı bir örnek ekler: burada
 sınır değil merkez tanımsızdır. Gösterim sorunu
 [İmparatorluk sınırı haritada nasıl gösterilmeli?](/tartisma/imparatorluk-siniri-nasil-cizilir/)
 haritasında ele alınıyor.
@@ -95,8 +95,7 @@ yaklaşık 503,1 milyondur.[^k3] Birliğe üye şehirlerin toplam nüfusuna dair
 ölçüm kullanılan kaynaklarda bulunmadığı için bu değerler içindeki pay burada
 hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Birliğin ticaret ağı, kontor düzeni, askerî girişimleri ve çözülme süreci burada
 ayrı başlıklar altında ele alınmamıştır; kullanılan kaynak bölümünün kapsamı
 birliğin kurumsal biçimidir. Dönemin bütünü [1350–1500](/donem/08/) dosyasında ele

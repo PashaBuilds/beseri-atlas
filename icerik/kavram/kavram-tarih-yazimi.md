@@ -78,8 +78,8 @@ Gibbon) ve 19. yüzyıl.[^k1]
 
 ## Doğu Asya iki kez ayrı başlıktır
 
-Aynı bölgenin iki ayrı dönem başlığı altında yeniden geçmesi,[^k1] atlasın şu
-kuralının dayanağıdır: bu atlasta tarih yazımı gelenekleri, tek bir çizgi olarak
+Aynı bölgenin iki ayrı dönem başlığı altında yeniden geçmesi,[^k1] korpusun şu
+kuralının dayanağıdır: bu korpusta tarih yazımı gelenekleri, tek bir çizgi olarak
 değil dönem dönem ayrı ayrı anılır.
 
 ## Terminoloji ilk bölümdür
@@ -107,17 +107,15 @@ yüzyıldaki hâli ise [E. H. Carr](/dusunur/carr/) dosyasında ele alınıyor.
 
 ## Yöntemin bildirilmesi
 
-Atlasın bir tarih metnine bakarken sorduğu ilk soru
-yöntemdir.[^k1] Yazar hangi kaynağa neden güvendiğini
-yazmış mı.
+Yazar hangi kaynağa neden güvendiğini
+yazmış mı.[^k1]
 
 Bu bildirim erken dönemlerde de görülür.[^k3] Bazı yazarlar, bir
 iddiayı kimden duyduklarını ve neden şüphe ettiklerini
 kaydeder.
 
-Atlas bu tutumu ölçüt sayar.[^k2] Yöntemini bildiren bir metin,
-yalnızca sonucunu bildirenden daha
-güçlüdür.
+Yöntemini bildiren bir metin,
+yalnızca sonucunu bildirenden daha güçlüdür.[^k2]
 
 ## Kimin için yazıldığı
 
@@ -129,9 +127,8 @@ Muhatap, neyin vurgulanacağını ve neyin atlanacağını
 belirler.[^k2] Aynı olay iki farklı muhatap için iki farklı biçimde
 anlatılır.
 
-Atlas bu soruyu her kaynak dosyasında sorar.[^k3] Bir metnin muhatabı
-bilinmeden, seçimleri
-değerlendirilemez.
+Bir metnin muhatabı
+bilinmeden, seçimleri değerlendirilemez.[^k3]
 
 ## Dönemlendirmenin kendisi
 
@@ -143,9 +140,8 @@ Bölümleme, hangi olayın dönüm noktası sayıldığını
 gösterir.[^k2] Farklı bölümlemeler farklı nedensellikler
 kurar.
 
-Atlas kendi bölümlemesini bu yüzden açıkça
-gerekçelendirir.[^k3] Bir atlasın dönem sınırları, anlattığı içerik
-kadar kendi konumunun da kaydıdır.
+Bir korpusun dönem sınırları,
+anlattığı içerik kadar kendi konumunun da kaydıdır.[^k3]
 
 ## Kimin tarihi
 
@@ -157,9 +153,8 @@ Kapsam, kaynak seçimini de belirler.[^k2] Hanedan tarihi saray
 kayıtlarıyla, gündelik hayat mahkeme sicilleriyle
 yazılır.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Bir metnin kimi anlattığı, hangi
-kaynakların kullanıldığından geriye doğru
-okunabilir.
+Bir metnin kimi anlattığı, hangi
+kaynakların kullanıldığından geriye doğru okunabilir.[^k3]
 
 
 ## Sayıların yeri
@@ -172,9 +167,8 @@ Yöntemi belirtilmemiş bir sayı, bir izlenimin sayıya
 çevrilmiş hâli olabilir.[^k2] Dönemin anlatı geleneğinde büyük sayılar
 çokluğu belirtir.
 
-Atlas bu ayrımı her dosyada uygular.[^k3] Sayı, yöntemiyle birlikte
-verilmediğinde atlasta veri
-sayılmaz.
+Sayı, yöntemiyle birlikte verilmediğinde korpusta veri
+sayılmaz.[^k3]
 
 ## Anlatının kapanışı
 
@@ -185,9 +179,8 @@ Sona doğru kurulan bir anlatı, aradaki bütün olayları o sonun
 hazırlığı olarak okur.[^k2] Bu, seçimi de
 belirler.
 
-Atlas bu kalıptan kaçınmaya çalışır.[^k3] Bir dönemin sonunu bilerek
-yazmak kaçınılmazdır; o sonu kaçınılmaz göstermek
-kaçınılabilir.
+Bir dönemin sonunu bilerek yazmak
+kaçınılmazdır; o sonu kaçınılmaz göstermek kaçınılabilir.[^k3]
 
 
 ## Karşı tarafın kaydı
@@ -200,9 +193,8 @@ mı.
 bırakmıştır.[^k2] Bu, anlatıyı kaçınılmaz olarak tek yönlü
 kılar.
 
-Atlas bu eksikliği beyan eder.[^k3] Tek taraflı bir kayda dayanan
-anlatı, o tarafın anlatısıdır ve dosyada bu
-yazılır.
+Tek taraflı bir kayda dayanan
+anlatı, o tarafın anlatısıdır ve dosyada bu yazılır.[^k3]
 
 ## Kaydın hiç olmadığı yerler
 
@@ -214,9 +206,8 @@ Bu durumda tarih yazımı bir başkasının bakışını aktarır.[^k2] Adlar,
 sınırlar ve nitelemeler o bakıştan
 gelir.
 
-Atlas bu sınırı her dosyada yineler.[^k3] Bir topluluğun yalnızca
-dışarıdan kaydedilmiş olması, o topluluğun kendi kaydını tutmadığını
-göstermez.
+Bir topluluğun yalnızca dışarıdan
+kaydedilmiş olması, o topluluğun kendi kaydını tutmadığını göstermez.[^k3]
 
 
 ## Sonradan yazılan tarih
@@ -228,12 +219,10 @@ Aradaki süre, hem bellek kaybını hem sonraki bilginin geriye
 yansıtılmasını üretir.[^k2] İkisi ters yönde
 işler.
 
-Atlas bu aralığı her kaynak künyesinde belirtir.[^k3] Bir metnin
-yazılış tarihi, anlattığı olayın tarihinden ayrı bir
-veridir.
+Bir metnin yazılış tarihi,
+anlattığı olayın tarihinden ayrı bir veridir.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Gelenek gelenek ayrıntılar, yöntem tartışmaları ve 20. yüzyıl okulları burada
 ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

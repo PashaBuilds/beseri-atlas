@@ -25,10 +25,11 @@ etiketler: [milliyetcilik, tarihlendirme, herder, modernist, ilkselci, etno-semb
 ilgili:
   - kavram-milliyetcilik
   - kavram-ulus-devlet
-  - kavram-anakronizm
   - olay-1848-devrimleri
   - donem-11
   - olay-italyan-birligi
+baglam:
+  - kavram-anakronizm
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

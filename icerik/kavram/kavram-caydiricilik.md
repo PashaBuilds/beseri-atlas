@@ -50,8 +50,8 @@ ve zorlayıcı inandırıcılık.[^k1]
 
 ## Kavram üç ölçüte ayrılmıştır
 
-Bir askerî kavramın üç ayrı ölçütle tanımlanması,[^k1] atlasın şu kuralının
-dayanağıdır: bu dosyada caydırıcılık, tek bir yetenek olarak değil bir ölçüt
+Bir askerî kavramın üç ayrı ölçütle tanımlanması,[^k1] korpusun şu kuralının
+dayanağıdır: bu incelemede caydırıcılık, tek bir yetenek olarak değil bir ölçüt
 demeti olarak anılır.
 
 ## Akılcı sürümü ayrı bir bölümdür
@@ -93,9 +93,8 @@ Bu, fiilî kullanımı değil kullanılabilirlik algısını
 gerektirir.[^k2] Etki, envanterin varlığından ve inandırıcılığından
 gelir.
 
-Atlas bu ayrımı kavramın merkezine koyar.[^k3] Caydırıcılık bir
-kullanım değil bir iletişim
-biçimidir.
+Caydırıcılık bir kullanım değil bir iletişim
+biçimidir.[^k3]
 
 ## Üç koşul
 
@@ -107,9 +106,8 @@ yapabilmesi.
 maliyeti kabul eden bir taraf
 caydırılamaz.
 
-Atlas bu koşulları ayrıca kaydeder.[^k3] Bir stratejinin işlemesi,
-karşı tarafın belirli bir biçimde davranmasını
-varsayar.
+Bir stratejinin işlemesi, karşı tarafın belirli
+bir biçimde davranmasını varsayar.[^k3]
 
 ## Sınanamazlık sorunu
 
@@ -120,9 +118,8 @@ bilinmez.
 İki açıklama aynı gözlemle uyumludur.[^k2] Gözlem seçim yapmaya
 yetmez.
 
-Atlas bu belirsizliği korur.[^k3] Hiç sınanmamış bir mekanizma,
-başarılı sayılamaz; yalnızca çürütülmemiş
-sayılır.
+Hiç sınanmamış bir mekanizma,
+başarılı sayılamaz; yalnızca çürütülmemiş sayılır.[^k3]
 
 ## Maliyet
 
@@ -134,9 +131,8 @@ Bu maliyet, kapasiteye oranlandığında taraflar için farklı ağırlık
 taşır.[^k2] Aynı mutlak harcama, küçük bir ekonomide çok daha büyük
 bir yüktür.
 
-Atlas bu oranı ayrıca kaydeder.[^k3] Bir yarışta belirleyici olan
-mutlak büyüklük değil, kapasiteye oranlanmış
-yüktür.
+Bir yarışta belirleyici olan mutlak
+büyüklük değil, kapasiteye oranlanmış yüktür.[^k3]
 
 ## Yayılma sorunu
 
@@ -147,9 +143,8 @@ dönüşür.
 Her yeni taraf, diğerlerinin hesabını değiştirir.[^k2] İstikrar
 varsayımı zayıflar.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] İki taraf için kurulmuş bir
-mekanizmanın çok taraflı bir düzende aynı biçimde işleyeceği
-varsayılamaz.
+İki taraf için kurulmuş bir mekanizmanın
+çok taraflı bir düzende aynı biçimde işleyeceği varsayılamaz.[^k3]
 
 ## Nükleer dışı biçimler
 
@@ -161,9 +156,8 @@ Ortak yan, tehdidin kullanılmadan sonuç
 üretmesidir.[^k2] Kullanıldığında mekanizma başarısız olmuş
 demektir.
 
-Atlas bu genellemeyi ayrıca kaydeder.[^k3] Bir caydırıcılık aracının
-kullanılması, o aracın amacına ulaşmadığının
-kaydıdır.
+Bir caydırıcılık aracının kullanılması, o aracın
+amacına ulaşmadığının kaydıdır.[^k3]
 
 
 ## Tarihsel öncüller
@@ -175,8 +169,8 @@ kullanır.
 Ortak yan, kapasitenin görünür kılınmasıdır.[^k2] Görünmeyen bir
 kapasite caydırmaz.
 
-Atlas bu sürekliliği ayrıca kaydeder.[^k3] Bir mekanizmanın
-adlandırılması, o mekanizmanın ortaya çıkış tarihi değildir.
+Bir mekanizmanın adlandırılması, o
+mekanizmanın ortaya çıkış tarihi değildir.[^k3]
 
 ## Yanlış hesap riski
 
@@ -188,9 +182,8 @@ Bu, iletişimi mekanizmanın parçası hâline
 getirir.[^k2] Kapasitenin bilinmesi, kapasitenin kendisi kadar
 önemlidir.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Gizli tutulan bir kapasite
-caydırmaz; caydırıcılık gizlilikle değil görünürlükle
-işler.
+Gizli tutulan bir kapasite caydırmaz;
+caydırıcılık gizlilikle değil görünürlükle işler.[^k3]
 
 
 ## Savunma ile farkı
@@ -203,11 +196,9 @@ hedefler.
 karşılık verme kapasitesine
 yatırım yapar.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Bir düzenin hangi stratejiyi
-seçtiği, askerî harcamasının nereye gittiğinden
-okunur.
+Bir düzenin hangi stratejiyi seçtiği, askerî
+harcamasının nereye gittiğinden okunur.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Nükleer caydırıcılık kuramı, örnekler ve eleştiriler burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]

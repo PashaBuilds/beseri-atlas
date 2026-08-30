@@ -64,7 +64,7 @@ onarim_turu: 0
 birkaç hafta içinde düştü.[^k1][^k2] Şehri yöneten hanedanın beş yüzyıldır
 sürdürdüğü hilafet, bu kuşatmayla sona erdi.
 
-Olayın atlas açısından ayırt edici yanı, düşüşün hızıdır.[^k1] Yüzyıllardır
+Olayın korpus açısından ayırt edici yanı, düşüşün hızıdır.[^k1] Yüzyıllardır
 İslam dünyasının sembolik merkezi sayılan bir şehir, kuşatmaya aylarca değil
 haftalarca dayanabildi.
 
@@ -78,9 +78,8 @@ Hilafet kurumu, bu tarihte fiilî siyasi otoritesini büyük ölçüde
 yitirmişti.[^k1][^k4] Bölgedeki askerî gücü elinde tutan hanedanlar, halifeyi
 tanıyor ama ondan emir almıyordu.
 
-Atlasın [Büyük Selçuklu Devleti](/aktor/buyuk-selcuklu/) dosyası bu ilişkiyi
-önceki yüzyıldan gösterir.[^k1] Askerî güç halifeyi koruyor, karşılığında
-meşruiyet alıyordu; koruma ile itaat aynı şey değildi.
+Askerî güç halifeyi koruyor,
+karşılığında meşruiyet alıyordu; koruma ile itaat aynı şey değildi.[^k1]
 
 Böyle bir düzenin kırılganlığı, koruyucu güç ortadan kalktığında ortaya
 çıkar.[^k2] Halifeliğin kendi ordusu, kendi başına bir kuşatmayı
@@ -93,14 +92,13 @@ Kuşatmada ölenlerin sayısına dair kaynaklarda çok farklı rakamlar
 verilir.[^k1][^k2] Aradaki fark yüz binlerle ölçülür ve hiçbiri bağımsız bir
 sayıma dayanmaz.
 
-Bu, atlasın dönem olaylarında tekrar eden bir durumdur.[^k1] Bir felaketin
+Bu, korpusun dönem olaylarında tekrar eden bir durumdur.[^k1] Bir felaketin
 büyüklüğünü bildiren sayılar, felaketin şiddetini anlatmak için kullanılır;
 ölçüm değil vurgu taşırlar.
 
-Atlas bu yüzden bu dosyada bir ölü sayısı vermez.[^k3] Sayıların nasıl
-okunacağı sorusu
-[Tarihsel sayılar nasıl okunur](/tartisma/tarihsel-sayilar-nasil-okunur/)
-dosyasında ayrıca ele alınır.
+Sayıların nasıl okunacağı sorusu
+[Tarihsel sayılar nasıl okunur](/tartisma/tarihsel-sayilar-nasil-okunur/) dosyasında
+ayrıca ele alınır.[^k3]
 
 ## Kütüphanelerin durumu
 
@@ -112,9 +110,9 @@ Anlatının kaynak durumu dikkatle değerlendirilmelidir.[^k1][^k4] Yıkımın
 büyüklüğüne dair ifadelerin çoğu olaydan sonraki kuşakların kayıtlarıdır ve
 bir kayıp anlatısının parçasıdır.
 
-Atlas yıkımı kaydeder, ondan çıkarılan sonucu kaydetmez.[^k2] Bir şehirdeki
-kitapların yok olması ile bir bölgenin entelektüel üretiminin durması ayrı
-iddialardır ve ikincisi ayrı kanıt gerektirir.
+Bir şehirdeki kitapların yok olması ile
+bir bölgenin entelektüel üretiminin durması ayrı iddialardır ve ikincisi ayrı kanıt
+gerektirir.[^k2]
 
 ## Halifenin sonu
 
@@ -126,9 +124,9 @@ Bu ayrıntının kaydedilmiş olması kendi başına bir bilgidir.[^k3] Bir infa
 biçiminin özenle seçilmesi, öldürülen kişinin sıradan bir esir sayılmadığını
 gösterir; sembolik konum, sonunu belirlemede bile etkilidir.
 
-Atlas anlatının doğruluğunu doğrulamaz.[^k4] Kaydedilen şey, kaynakların bu
-ayrıntıyı kayda değer bulmuş olmasıdır ve bu, olayın çağdaşları için
-taşıdığı anlamı gösterir.
+Kaydedilen şey, kaynakların bu
+ayrıntıyı kayda değer bulmuş olmasıdır ve bu, olayın çağdaşları için taşıdığı anlamı
+gösterir.[^k4]
 
 ## Kurumun devamı sorunu
 
@@ -140,9 +138,8 @@ Tartışmanın özü şudur: bir kurumun sürekliliği, adın devam etmesiyle mi
 yoksa işlevin devam etmesiyle mi ölçülür?[^k1] Ad devam etti; merkez,
 bağımsızlık ve fiilî otorite devam etmedi.
 
-Atlas bu soruya cevap vermez ve iki kaydı ayrı ayrı tutar.[^k4] Kurumun
-sonraki biçimi, atlasta ayrı bir dosya gerektirir ve bu dosya yazıldığında
-bulunmuyordu.
+Kurumun sonraki biçimi, korpusta ayrı bir
+dosya gerektirir ve bu inceleme yazıldığında bulunmuyordu.[^k4]
 
 ## Bölgesel sonuçlar
 
@@ -150,13 +147,12 @@ bulunmuyordu.
 kanallarının bakımı merkezî bir yönetim gerektiriyordu ve merkez ortadan
 kalktı.
 
-Bu, atlasın [Pagan Krallığı](/aktor/pagan-kralligi/) dosyasında kaydedilen
+Bu, [Pagan Krallığı](/aktor/pagan-kralligi/) incelemesinde kaydedilen
 mekanizmanın aynısıdır.[^k1] Bakım gerektiren altyapı, onu sürdüren siyasi
 düzenle birlikte çöker; çöküş, savaşın kendisinden yavaş ve uzun sürelidir.
 
-Atlas bu bağı bir yasa olarak ileri sürmez.[^k2] Kanal düzeninin ne zaman ve
-ne kadar bozulduğu ayrı bir ölçüm gerektirir ve elde bulunan kaynaklarda
-bu ölçüm yoktur.
+Kanal düzeninin ne zaman ve ne kadar
+bozulduğu ayrı bir ölçüm gerektirir ve elde bulunan kaynaklarda bu ölçüm yoktur.[^k2]
 
 ## Ticaret yollarının kayması
 
@@ -164,12 +160,12 @@ bu ölçüm yoktur.
 ticaretinin bir bölümü kuzeye ve deniz yollarına kaydı.
 
 Kaymanın tek sebebi bu olay değildir.[^k2] Aynı yüzyıllarda deniz
-taşımacılığının payı zaten artıyordu ve atlasın
+taşımacılığının payı zaten artıyordu ve korpusun
 [Hint Okyanusu ticareti](/kavram/hint-okyanusu-ticareti/) dosyası bu eğilimi
 kaydeder.
 
-Atlas iki etkeni ayrı tutar.[^k1] Bir olayın hızlandırdığı bir eğilim ile
-başlattığı bir eğilim ayrı şeylerdir; birincisi için olay gerekli değildir.
+Bir olayın hızlandırdığı bir eğilim ile
+başlattığı bir eğilim ayrı şeylerdir; birincisi için olay gerekli değildir.[^k1]
 
 ## Seferin kendi mantığı
 
@@ -177,7 +173,7 @@ Sefer, tek bir şehri hedefleyen bir baskın değildi.[^k2] Doğudan batıya
 uzanan geniş bir harekâtın parçasıydı ve komuta yapısı merkezî bir karara
 bağlıydı.
 
-Bu ayrım, atlasın [Moğol fetihleri](/olay/mogol-fetihleri/) dosyasıyla
+Bu ayrım, [Moğol fetihleri](/olay/mogol-fetihleri/) incelemesiyle
 kesişir.[^k2] Tek tek şehirlerin düşüşü, ayrı olaylar değil aynı harekâtın
 aşamalarıdır ve öyle okunmalıdır.
 
@@ -187,34 +183,31 @@ alınabileceğini gösterir.
 
 ## Tartışmanın konusu
 
-Bu olayın bölgenin sonraki yüzyıllardaki durumundaki payı, atlasın
-[Moğol etkisi](/tartisma/mogol-etkisi/) dosyasında tartışılır.[^k1] İki uçtaki
+Bu olayın bölgenin sonraki yüzyıllardaki durumundaki payı, [Moğol etkisi](/tartisma/mogol-etkisi/) incelemesinde tartışılır.[^k1] İki uçtaki
 konumlar burada özetlenir.
 
 Bir konum, olayı bir kopuş noktası sayar: kurumlar, nüfus ve altyapı
 yıkılmış, bölge yüzyıllarca toparlanamamıştır.[^k2] Öteki konum, gerilemenin
 zaten sürdüğünü ve olayın hızlandırıcı olduğunu ileri sürer.
 
-Atlas iki konumu da kaydeder ve bir sıralama yapmaz.[^k1] İkisi de aynı
-kayıtlardan çıkarılabilir ve ayrı kanıtlar gerektirir; tartışma dosyası bu
-işi ayrıca yapar.
+İkisi de aynı kayıtlardan çıkarılabilir ve ayrı
+kanıtlar gerektirir; tartışma dosyası bu işi ayrıca yapar.[^k1]
 
 ## Kaynak durumu
 
-Bu dosya dört kaynağa dayanır ve biri birincildir.[^k4] Üç ansiklopedi
+Bu inceleme dört kaynağa dayanır ve biri birincildir.[^k4] Üç ansiklopedi
 maddesi aynı alan adındadır; bağımsızlık şartı dördüncü kaynakla
 sağlanmıştır.
 
 Olayın çağdaş kayıtları hem kuşatan hem kuşatılan taraftan
-bulunmaktadır.[^k1][^k2] Bu dosya yazıldığında, bu kayıtların doğrulanabilir
+bulunmaktadır.[^k1][^k2] Bu inceleme yazıldığında, bu kayıtların doğrulanabilir
 ve tam metin bir baskısı künyeye alınamamıştır.
 
 Kısıt burada beyan edilir.[^k3] Dosyadaki bilgilerin tamamı, çağdaş
 kayıtları özetleyen sonraki derlemelerden gelir ve o derlemelerin seçimlerini
 taşır.
 
-## Bu dosyanın kapsamadıkları
-
+## Açıkta kalan sorular
 Kuşatmanın askerî ayrıntıları, kullanılan teknikler ve savunmanın
 düzenlenişi burada işlenmez.[^k2] Ayrı bir dosya gerektirir.
 
@@ -224,9 +217,8 @@ dosya bir olayı konu edinir; şehrin tarihini değil.
 Seferi yürüten siyasi düzenin kendi tarihi burada verilmez.[^k2] Bunun için
 [Moğol İmparatorluğu](/aktor/mogol-imparatorlugu/) dosyası okunmalıdır.
 
-## Atlastaki yeri
-
-Bu dosya, atlasın olay katmanına bir kurumun sona erişini ekler ve bu, olay
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun olay katmanına bir kurumun sona erişini ekler ve bu, olay
 dosyalarında seyrek görülen bir konudur.[^k4] Çoğu olay dosyası bir savaşı,
 bir keşfi ya da bir kararı kaydeder.
 
@@ -234,8 +226,8 @@ Bir kurumun sona erişinin ayrı bir dosya gerektirmesinin gerekçesi
 şudur.[^k1] Kurumun sonu, onu ortadan kaldıran askerî olayla aynı şey
 değildir; askerî olay birkaç hafta, kurumsal sonuçlar yüzyıllar sürer.
 
-Atlas bu ayrımı dosya düzeyinde korur.[^k2] Askerî olay bu dosyada, kurumun
-kendisi aktör dosyasında, sonuçları ise tartışma dosyasında kaydedilir.
+Askerî olay bu incelemede, kurumun kendisi aktör
+dosyasında, sonuçları ise tartışma dosyasında kaydedilir.[^k2]
 
 ## Teslim görüşmelerinin kaydı
 
@@ -248,9 +240,9 @@ görüşmeye açık olması, hedefin şehrin yok edilmesi değil teslim alınmas
 olduğunu gösterir; sonucun farklı olması, görüşmenin başarısız olmasından
 gelir.
 
-Atlas görüşmelerin içeriğini doğrulamaz.[^k2] Kaydedilen şey, iki tarafın da
+Kaydedilen şey, iki tarafın da
 görüşmeyi kayda değer bulmuş olmasıdır ve bu, olayın kaçınılmaz sayılmadığını
-gösterir.
+gösterir.[^k2]
 
 ## Kuşatmanın hazırlığı
 
@@ -258,7 +250,7 @@ Sefer aniden başlamadı; hazırlığı yıllar sürdü ve lojistiği ayrıca
 kuruldu.[^k2] Köprüler, ikmal hatları ve kuşatma makineleri önceden
 düzenlendi.
 
-Bu, atlasın kaydettiği bir ayrımı gösterir.[^k1] Bozkır ordularının hızlı
+Bu bir ayrımı gösterir.[^k1] Bozkır ordularının hızlı
 akınlarla anıldığı yaygın anlatı, kuşatma harekâtlarının gerektirdiği
 örgütlenmeyi görünmez kılar; bir şehri almak akın yapmaktan farklı bir
 kapasite ister.
@@ -277,14 +269,12 @@ Merkezden bölgesel merkeze geçiş, şehrin nüfusunu ve gelirini
 etkiledi.[^k1] Bir hilafet başkenti olmakla bir eyalet şehri olmak arasındaki
 fark, vergi, yapı ve nüfus verilerinde görülür.
 
-Atlas bu geçişi kaydeder ve bir gerileme anlatısına çevirmez.[^k1] Şehrin
-konumunun değişmesi ile bölgenin bütününün gerilemesi ayrı iddialardır ve
-ikincisi ayrı kanıt gerektirir. Bir merkezin taşınması, bölgedeki üretimin
-ve nüfusun da azaldığı anlamına gelmez; gelirin nereye aktığı değişmiş
-olabilir ve bu iki durum aynı kayıtlardan ayrılamaz.[^k2]
+Şehrin konumunun değişmesi ile bölgenin
+bütününün gerilemesi ayrı iddialardır ve ikincisi ayrı kanıt gerektirir.[^k1] Bir
+merkezin taşınması, bölgedeki üretimin ve nüfusun da azaldığı anlamına gelmez; gelirin
+nereye aktığı değişmiş olabilir ve bu iki durum aynı kayıtlardan ayrılamaz.[^k2]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Sona eren kurum için [Abbasi Hilafeti](/aktor/abbasi-hilafeti/), seferi
 yürüten düzen için [Moğol İmparatorluğu](/aktor/mogol-imparatorlugu/)
 dosyaları okunmalıdır.[^k1]

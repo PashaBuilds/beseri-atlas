@@ -51,7 +51,7 @@ onarim_turu: 0
 ---
 
 Kaynak onu Hippolu Augustinus başlığı altında işler ve Antik Çağ'ın belki en
-büyük Hıristiyan filozofu olduğunu yazar.[^k1] Bu dosya, düşüncesini değil
+büyük Hıristiyan filozofu olduğunu yazar.[^k1] Bu inceleme, düşüncesini değil
 **metinlerinin bugünkü durumunu** ele alır.
 
 ## Üstünlük cümlesi bile koşulludur
@@ -60,7 +60,7 @@ Kaynağın nitelemesi "belki" ile açılır ve ardından bir kesinlik ifadesiyle
 sürer.[^k1]
 
 Bir ansiklopedinin en büyük türünden bir niteleme yaparken bile tereddüt
-belirtmesi,[^k1] atlasın bu tür ifadeleri neden yalnızca kime ait olduğunu
+belirtmesi,[^k1] korpusun bu tür ifadeleri neden yalnızca kime ait olduğunu
 belirterek taşıdığını gösterir. Aynı biçim
 [Konfüçyüs](/dusunur/konfucyus/) dosyasında da görülür.
 
@@ -71,7 +71,7 @@ neredeyse tamamının, mektupların tümünün ve vaazların hatırı sayılır 
 Corpus Scriptorum Ecclesiasticorum Latinorum ve Corpus Christianorum Series Latina
 dizilerinde neşredildiğini yazar.[^k1]
 
-Bir külliyatın neredeyse eksiksiz neşredilmiş olması,[^k1] atlasın bir düşünür
+Bir külliyatın neredeyse eksiksiz neşredilmiş olması,[^k1] korpusun bir düşünür
 hakkında ne kadar şey söyleyebileceğinin sınırını belirleyen ilk koşuldur.
 
 ## Karşıt örnek: neşredilmemiş bir külliyat
@@ -101,13 +101,12 @@ Yaşadığı yüzyıllardaki siyasi düzen için ayrı bir kayıt, imparatorluk 
 27 ile MS 286 arasına yerleştirir.[^k3] O düzen
 [Roma İmparatorluğu](/aktor/roma-imparatorlugu/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Hayatı, *İtiraflar*, teolojisi, irade ve zaman görüşleri ile sonraki etkisi
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1]
 
 ## Eserine bağ
 
-Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Tanri Devleti*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+Bu inceleme düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Tanri Devleti*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
 verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

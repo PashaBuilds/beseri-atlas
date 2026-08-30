@@ -15,6 +15,7 @@ guven_geneli: yaygin
 etiketler: [neolitik, arkeoloji, canak-comlek, evcillestirme, donemlendirme, anadolu]
 ilgili:
   - olay-neolitik-devrim
+baglam:
   - olay-gobeklitepe
   - donem-01
   - kavram-arkeolojik-kanit

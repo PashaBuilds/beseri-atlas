@@ -21,8 +21,9 @@ ilgili:
   - kavram-kentlesme
   - kaynak-pomeranz-buyuk-ayrisma
   - dusunur-smith
-  - dusunur-marx
   - veri-enerji-tuketimi-1800-2023
+baglam:
+  - dusunur-marx
   - olay-1848-devrimleri
 okuma_onerisi: []
 kaynaklar:

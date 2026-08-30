@@ -1,7 +1,7 @@
 {
   "id": "tartisma-imparatorluk-siniri-nasil-cizilir",
-  "govde_hash": "604c456d52bb",
-  "commit": "58a10ea",
+  "govde_hash": "d4040254325f",
+  "commit": "4373ec95",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -376,5 +376,19 @@
     "desteksiz": 0,
     "olculemez": 0
   },
-  "not_orkestrator": "2026-08-29: hakem finalize sonrasi mekanik KAPI 2 onarimi (dipnot ekleme/paragraf birlesimi/yonlendirme sadeleme); icerik iddialari degismedi."
+  "not_orkestrator": "2026-08-29: hakem finalize sonrasi mekanik KAPI 2 onarimi (dipnot ekleme/paragraf birlesimi/yonlendirme sadeleme); icerik iddialari degismedi.",
+  "tazeleme": [
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "604c456d52bb",
+      "yeni_hash": "df1a7c8c5ee0",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    },
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "df1a7c8c5ee0",
+      "yeni_hash": "d4040254325f",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    }
+  ]
 }

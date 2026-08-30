@@ -51,13 +51,13 @@ hukuku, modern tarih ve artık kullanılmayan biçimler.[^k1]
 ## İki hukuk geleneği yan yana kaydedilmiştir
 
 Bir maliye kavramının tarihinin iki ayrı hukuk geleneğiyle başlatılması,[^k1]
-atlasın şu kuralının dayanağıdır: bu dosyada vergi, tek bir hukuk düzeninin
+korpusun şu kuralının dayanağıdır: bu incelemede vergi, tek bir hukuk düzeninin
 kavramı olarak anılmaz.
 
 ## Artık kullanılmayan biçimler ayrı bir alt başlıktır
 
-Kaynağın eskimiş vergi biçimlerine ayrı bir alt başlık ayırması,[^k1] atlasın şu
-kuralının dayanağıdır: bu atlasta vergi adları, ait oldukları dönem belirtilerek
+Kaynağın eskimiş vergi biçimlerine ayrı bir alt başlık ayırması,[^k1] korpusun şu
+kuralının dayanağıdır: bu korpusta vergi adları, ait oldukları dönem belirtilerek
 yazılır.
 
 ## Sınıflandırma kendi bölümüdür
@@ -65,7 +65,7 @@ yazılır.
 Kaynak, taksonomi ve sınıflandırma başlığı altında gelir vergisi, sosyal güvenlik
 katkıları, bordro, mülkiyet ve miras gibi alt başlıklar tutar.[^k1]
 
-Bir tek kavram altında bu kadar çok türün sayılması,[^k1] atlasın şu kuralının
+Bir tek kavram altında bu kadar çok türün sayılması,[^k1] korpusun şu kuralının
 dayanağıdır: vergi yükü karşılaştırmaları, hangi türlerin sayıldığı belirtilmeden
 aktarılmaz.
 
@@ -92,9 +92,8 @@ doğrudan belirler.
 Ayni vergi ürünün bir bölümünü alır.[^k2] Nakdi vergi, ürünü satmayı
 zorunlu kılar.
 
-Atlas bu farkı ayrıca kaydeder.[^k3] Verginin nakde çevrilmesi tek
-başına bir tarım siyasetidir; ne ekileceğini dolaylı olarak
-belirler.
+Verginin nakde çevrilmesi tek başına bir tarım
+siyasetidir; ne ekileceğini dolaylı olarak belirler.[^k3]
 
 ## Kimin üzerinden toplandığı
 
@@ -102,11 +101,10 @@ Vergi kişi başına, hane başına ya da topluluk başına
 toplanabilir.[^k1] Üçü farklı sonuç verir.
 
 Topluluk başına sabit bir yükümlülük, nüfus azaldıkça kişi başına
-ağırlaşır.[^k2] Bu, atlasın birçok dosyasında kayıtlıdır.
+ağırlaşır.[^k2] Bu, korpusun birçok dosyasında kayıtlıdır.
 
-Atlas bu mekanizmayı ayrıca kaydeder.[^k3] Yükümlülüğün hangi birime
-bağlandığı, o yükümlülüğün zaman içinde nasıl değişeceğini
-belirler.
+Yükümlülüğün hangi birime bağlandığı, o
+yükümlülüğün zaman içinde nasıl değişeceğini belirler.[^k3]
 
 ## Toplama biçimi
 
@@ -116,9 +114,8 @@ devredebilir.[^k1] İhale yaygın bir çözümdür.
 İhale merkeze garantili gelir sağlar.[^k2] Karşılığında toplananın
 miktarını denetimden çıkarır.
 
-Atlas bu değiş tokuşu ayrıca kaydeder.[^k3] Vergi toplamanın ihale
-edilmesi, gelirin öngörülebilirliğini artırır ve mükellef üzerindeki
-yükü denetimsiz bırakır.
+Vergi toplamanın ihale edilmesi, gelirin
+öngörülebilirliğini artırır ve mükellef üzerindeki yükü denetimsiz bırakır.[^k3]
 
 ## Ölçme kapasitesi
 
@@ -128,8 +125,8 @@ Vergi toplamak ölçmeyi gerektirir.[^k1] Toprak ölçümü, nüfus sayımı ve
 Ölçemeyen bir merkez, ihaleye ya da götürü usule
 başvurur.[^k2] İki yol da geliri düşürür.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Bir düzenin kayıt kapasitesi ile
-mali özerkliği aynı şeyin iki yüzüdür.
+Bir düzenin kayıt kapasitesi ile mali
+özerkliği aynı şeyin iki yüzüdür.[^k3]
 
 ## Muafiyetler
 
@@ -140,8 +137,8 @@ Muafiyetin kapsamı, o düzendeki güç dağılımının doğrudan
 kaydıdır.[^k2] Kimin muaf olduğu, kimin pazarlık gücü olduğunu
 gösterir.
 
-Atlas bu göstergeyi ayrıca kullanır.[^k3] Bir vergi düzeninin muafiyet
-listesi, o toplumun ayrıcalık haritasıdır.
+Bir vergi düzeninin muafiyet listesi, o
+toplumun ayrıcalık haritasıdır.[^k3]
 
 ## Verginin siyasi sonucu
 
@@ -152,8 +149,8 @@ Talep çoğu zaman verginin kaldırılması değil, eski düzeye
 dönülmesidir.[^k2] Yeni bir yük, mevcut yükten daha çok tepki
 üretir.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Bir yükün büyüklüğü kadar
-değişme hızı da tepkiyi belirler.
+Bir yükün büyüklüğü kadar değişme hızı da tepkiyi
+belirler.[^k3]
 
 ## Temsille bağı
 
@@ -164,9 +161,8 @@ alınamaz.
 Bağ zorunlu değildir.[^k2] Birçok düzen temsilsiz vergi
 toplamıştır.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Formülün ileri sürülmesi, o
-düzende temsil bulunduğunu değil talep edildiğini
-gösterir.
+Formülün ileri sürülmesi, o düzende temsil
+bulunduğunu değil talep edildiğini gösterir.[^k3]
 
 ## Kayıt olarak vergi defteri
 
@@ -177,9 +173,8 @@ gelir.
 Kayıt, üretimin tamamını değil vergilendirilen bölümünü
 gösterir.[^k2] Kayıt dışı üretim görünmez.
 
-Atlas bu sınırı ayrıca kaydeder.[^k3] Bir dönemin ekonomisi hakkındaki
-tahminler, o dönemin vergi kaydının kapsamıyla
-sınırlıdır.
+Bir dönemin ekonomisi hakkındaki
+tahminler, o dönemin vergi kaydının kapsamıyla sınırlıdır.[^k3]
 
 
 ## Verginin harcandığı yer
@@ -192,7 +187,6 @@ Dağılım, o düzenin önceliklerinin doğrudan
 kaydıdır.[^k2] Bütçe, ilan edilen amaçlardan daha
 güvenilir bir göstergedir.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Vergi türlerinin ayrıntısı, oranlar ve iktisadi etkiler burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]

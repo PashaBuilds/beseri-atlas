@@ -41,7 +41,8 @@ export function hakemlikDenetimi(makaleler) {
     // guven_geneli tartismali ise ya pozisyonlar ya da bir tartisma haritasi baglantisi olmali.
     if (m.fm.guven_geneli === 'tartismali' && m.fm.tip !== 'tartisma') {
       const haritaVar = /::tartismali\[[^\]]*\]\{[^}]*harita\s*=/i.test(m.govde)
-        || (m.fm.ilgili || []).some((x) => String(x).startsWith('tartisma-'));
+        || [...(m.fm.ilgili || []), ...(m.fm.baglam || [])]
+          .some((x) => String(x).startsWith('tartisma-'));
       if (!haritaVar) {
         r.hata(m.goreli, 'guven_geneli=tartismali ama ne ::tartismali haritasi ne de ilgili bir tartisma dosyasi var (Ilke 2)');
       }

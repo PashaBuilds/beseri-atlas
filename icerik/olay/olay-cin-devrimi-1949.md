@@ -52,7 +52,7 @@ onarim_turu: 0
 ---
 
 Devrimin tarihi tek bir yıl değildir: 1 Ağustos 1927 – 1 Ekim 1949 arasına
-yerleştirilen, 1927–1949 tarihli bir toplumsal devrimdir.[^k1] Bu dosya, o yirmi
+yerleştirilen, 1927–1949 tarihli bir toplumsal devrimdir.[^k1] Bu inceleme, o yirmi
 iki yılın **kesintili yapısını** ele alır.
 
 ## Yirmi iki yıl, iki evre ve bir ara
@@ -73,7 +73,7 @@ başarısız müzakere girişimleri, 1946–1948 arasındaki Mançurya seferleri
 gelir.[^k1]
 
 Kaynağın son evreyi 1945–1949 arasına yerleştirmesi,[^k1] önceki yılların
-hazırlık niteliğinde olduğu okumasını akla getirir; atlas bunu bir iddia olarak
+hazırlık niteliğinde olduğu okumasını akla getirir; korpus bunu bir iddia olarak
 öne sürmez, yalnızca bölümlemenin bu sıralamayı verdiğini kaydeder.
 
 ## Sonuç
@@ -107,8 +107,7 @@ Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyardır.[^k3] Çi
 kendi nüfusuna dair bir ölçüm kullanılan kaynaklarda bulunmadığı için bu toplam
 içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kaynak devrimin ardından gelen dönemi ayrı bir başlık altında ele alır;[^k1] bu
 dosya o başlığı kapsamaz. Devrimin toplumsal programı, toprak reformu ve
 önderlerinin biyografileri de burada işlenmemiştir. Dönemin

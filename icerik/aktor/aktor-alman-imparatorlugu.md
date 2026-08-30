@@ -92,8 +92,7 @@ Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1914'te yakl
 1,82 milyardır.[^k3] İmparatorluğun kendi nüfusuna dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Anayasal düzen, yasama organının yetkileri, sömürge politikası ve savaş sonrası
 düzenlemeler burada ayrı başlıklar altında ele alınmamıştır. Savaş sonrası
 antlaşma [Versailles Antlaşması](/olay/versailles-antlasmasi/), savaşın açılışı

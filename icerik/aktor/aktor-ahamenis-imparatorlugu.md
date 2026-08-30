@@ -91,7 +91,7 @@ kutsal boğa Apis'in öldürülmesini vurgular.[^k1] Aynı anlatı, bu eylemleri
 Kambises'i kardeşini, kız kardeşi olan eşini ve Lidyalı Kroisos'u öldürmeye
 sürükleyen bir çılgınlığa yol açtığı sonucuna varır.[^k1]
 
-Atlas bu anlatıyı ne doğrular ne yalanlar. Kaydettiği şey şudur: elimizdeki
+Korpus bu anlatıyı ne doğrular ne yalanlar. Kaydettiği şey şudur: elimizdeki
 ayrıntı zengin, ama tek taraflıdır. Karşılaşmanın kendisi MÖ 499–449 arasındaki
 Yunan-Pers Savaşları başlığı altında toplanır[^k1] ve
 [Pers–Yunan savaşları](/olay/pers-yunan-savaslari/) dosyasında ele alınıyor.
@@ -125,8 +125,7 @@ yaklaşık 110,5 milyon, MS 200 için yaklaşık 240,8 milyon olarak verilir.[^k
 Hindistan'dan Mısır'a uzanan hâkimiyet alanının[^k1] bu toplamlar içindeki payına
 dair bir ölçüm kullanılan kaynaklarda bulunmadığı için burada oran verilmemiştir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 İmparatorluğun para düzeni, vergi bölgeleri, ordu bileşimi ve din politikası
 burada ayrı başlıklar altında ele alınmamıştır. Dönemin bütünü
 [MÖ 500–MS 200](/donem/04/) dosyasında ele alınıyor.

@@ -55,7 +55,7 @@ onarim_turu: 0
 ## Nerede durduğu
 
 Kuşan İmparatorluğu, bugünkü Orta Asya'nın güneyi ile Güney Asya'nın
-kuzeybatısını kapsayan bir alanda kuruldu.[^k1] Atlasın bölge şemasında iki
+kuzeybatısını kapsayan bir alanda kuruldu.[^k1] Korpusun bölge şemasında iki
 etiket birden taşır.
 
 Bulunduğu yer, dört büyük kültür alanının kesiştiği noktadır.[^k1] Doğudan
@@ -72,7 +72,7 @@ bir arada bulunur.
 tasvirleri taşır.[^k1][^k2] Aynı hükümdarın bastığı paralarda İran, Hint,
 Yunan ve yerel panteonlardan figürler bulunur.
 
-Bu, atlasın kaydettiği en açık meşruiyet devşirme örneklerinden biridir.[^k2]
+Bu en açık meşruiyet devşirme örneklerinden biridir.[^k2]
 Bir hükümdar, farklı inanç çevrelerinden tebaasına aynı anda kendi
 diliyle seslenmiş olur.
 
@@ -82,7 +82,7 @@ para bir ödeme aracı olduğu kadar bir yayın aracıdır.
 
 ## Sikkenin kanıt değeri
 
-Sikkeler atlasın kaynak katmanında ayrı bir yere sahiptir.[^k2] Tarihlenebilir,
+Sikkeler korpusun kaynak katmanında ayrı bir yere sahiptir.[^k2] Tarihlenebilir,
 seri hâlinde üretilmiş ve geniş bir alana dağılmış nesnelerdir.
 
 Dağılımları da bilgi verir.[^k1] Bir sikke tipinin nerelerde bulunduğu,
@@ -96,7 +96,7 @@ iddiasının kabul görüp görmediğini göstermez ve iki bilgi ayrı tutulmal�
 İmparatorluk kayıtlarında birden çok yazı sistemi ve dil kullanıldı.[^k1]
 Sikkelerde ve yazıtlarda farklı alfabeler yan yana bulunur.
 
-Bu, yönetimin tek bir dil dayatmadığını gösterir.[^k1] Atlasın başka
+Bu, yönetimin tek bir dil dayatmadığını gösterir.[^k1] Korpusun başka
 bölgelerinde kaydettiği yönetim dili tercihlerinden farklı bir tutumdur.
 
 Tercihin gerekçesi tartışmalıdır.[^k2] Hoşgörü, pratik zorunluluk ve
@@ -108,7 +108,7 @@ Bölgede, insan biçimli Buda tasvirinin en erken örneklerinden bazıları
 üretildi.[^k3] Üslup, Helenistik heykel geleneğinin biçim dilini yerel
 konuya uygular.
 
-Bu birleşme, atlasın kaydettiği en somut kültürel aktarım
+Bu birleşme, incelenen örnekler arasındaki en somut kültürel aktarım
 örneklerindendir.[^k3] İki gelenek birbirini yok etmez; biri konuyu, öteki
 biçimi verir.
 
@@ -119,7 +119,7 @@ bağlıdır.]{harita=tartisma-sozlu-gelenek-kaynak-mi}
 
 ## Aynı yöntemsel sorun
 
-Bu tartışma, atlasın Olmek dosyasında kaydedilen sorunun bir başka
+Bu tartışma, korpusun Olmek dosyasında kaydedilen sorunun bir başka
 biçimidir.[^k1] Bir unsurun hangi bölgede önce ortaya çıktığı, ancak her iki
 bölgede de yeterince kazı yapılmışsa belirlenebilir.
 
@@ -127,15 +127,15 @@ En erken tarih, kazılmış alanların en erken tarihidir.[^k3] Kazılmamış
 alanlar hakkında bir şey söylemez ve öncelik iddiaları bu sınırla birlikte
 okunmalıdır.
 
-Atlas bu yüzden iki bölgeyi de kaydeder ve öncelik vermez.[^k2] Tartışmanın
-kendisi, kanıt tabanının nasıl dağıldığına dair bir bilgidir.
+Tartışmanın kendisi, kanıt tabanının nasıl
+dağıldığına dair bir bilgidir.[^k2]
 
 ## Ticaret yolundaki konum
 
 İmparatorluk, doğu-batı kara ticaretinin geçtiği güzergâhların üzerinde
 bulunuyordu.[^k1] Aynı alan, kuzey-güney bağlantısını da taşıyordu.
 
-Bu konum, atlasın [Soğdlular](/aktor/sogdlular/) dosyasında anlatılan ağla
+Bu konum, [Soğdlular](/aktor/sogdlular/) incelemesinde anlatılan ağla
 kesişir.[^k1] İki dosya birlikte okunduğunda, aynı güzergâhın siyasi ve
 ticari katmanları ayrı ayrı görünür.
 
@@ -145,8 +145,7 @@ düzenden biriydi.
 
 ## Deniz bağlantısı
 
-Güneydeki limanlar üzerinden, atlasın
-[Hint Okyanusu ticareti](/kavram/hint-okyanusu-ticareti/) dosyasında
+Güneydeki limanlar üzerinden, [Hint Okyanusu ticareti](/kavram/hint-okyanusu-ticareti/) incelemesinde
 tanımlanan ağa bağlanıyordu.[^k1] Bu, kara ve deniz ağlarının birleştiği
 seyrek noktalardan biridir.
 
@@ -154,16 +153,15 @@ Birleşmenin kanıtı, uzak bölgelerden gelen nesnelerdir.[^k3] Akdeniz kökenl
 cam ve metal eşya ile Doğu Asya kökenli ipek, aynı buluntu katmanlarında ele
 geçmiştir.
 
-Atlas bu birleşmeyi kaydeder çünkü iki ağın birbirinden bağımsız
-olmadığını gösterir.[^k1] Kara ve deniz güzergâhları rakip değil,
-birbirini besleyen kanallardı.
+Kara ve deniz güzergâhları rakip değil,
+birbirini besleyen kanallardı.[^k1]
 
 ## Dinin yayılmasındaki rol
 
 Bölgedeki manastır ve tapınak yapımı, dinî bir geleneğin doğuya
 taşınmasında aracı oldu.[^k1] Metinler ve tasvirler bu güzergâhtan geçti.
 
-Bu, atlasın [Nāgārjuna](/dusunur/nagarjuna/) dosyasıyla kesişir.[^k1] O
+Bu, [Nāgārjuna](/dusunur/nagarjuna/) incelemesiyle kesişir.[^k1] O
 dosyada kaydedilen çizginin doğuya taşınması, bu güzergâh üzerinden
 gerçekleşti.
 
@@ -180,8 +178,8 @@ Sorunun kaynağı, kullanılan takvim sisteminin başlangıç yılının kesin
 bilinmemesidir.[^k2] Yazıtlar yıl verir ama yılların hangi başlangıca göre
 sayıldığı belirsizdir.
 
-Atlas bu yüzden künyede geniş bir aralık verir.[^k1] Aralık bir belirsizlik
-beyanıdır; hanedan tarihi için kesinlik iddia edilmez.
+Aralık bir belirsizlik beyanıdır; hanedan
+tarihi için kesinlik iddia edilmez.[^k1]
 
 ## Adın ve kimliğin durumu
 
@@ -189,12 +187,12 @@ beyanıdır; hanedan tarihi için kesinlik iddia edilmez.
 kuzeyden gelen bir göçer grupla ilişkilendirilir ama bağlantının niteliği
 kesin değildir.
 
-Bu belirsizlik, atlasın bozkır dosyalarında tekrar eder.[^k2] Göçer
+Bu belirsizlik, korpusun bozkır dosyalarında tekrar eder.[^k2] Göçer
 toplulukların kendi kayıtları seyrektir ve kimlikleri komşularının
 adlandırmalarından okunur.
 
-Atlas yerleşmiş adı kullanır ve köken iddiasını bir olgu olarak
-sunmaz.[^k3] Adın kaynağı ile topluluğun kendi adı aynı olmayabilir.
+Adın kaynağı ile topluluğun kendi
+adı aynı olmayabilir.[^k3]
 
 ## Sonun biçimi
 
@@ -202,11 +200,10 @@ sunmaz.[^k3] Adın kaynağı ile topluluğun kendi adı aynı olmayabilir.
 baskısı, güneyde yeni bir düzenin yükselmesi ve merkezin parçalanması
 birlikte aktarılır.
 
-Üç etkenin ağırlığı tartışmalıdır.[^k2] Atlas bir sıralama yapmaz ve
+Üç etkenin ağırlığı tartışmalıdır.[^k2] Korpus bir sıralama yapmaz ve
 kaynakların ortak vurgusunu kaydeder.
 
-Güneyde yükselen düzen, atlasın
-[Gupta İmparatorluğu](/aktor/gupta-imparatorlugu/) dosyasında ele
+Güneyde yükselen düzen, [Gupta İmparatorluğu](/aktor/gupta-imparatorlugu/) incelemesinde ele
 alınır.[^k1] İki dosyanın birlikte okunması, bölgesel ağırlığın nasıl
 kaydığını gösterir.
 
@@ -218,43 +215,41 @@ kaydığını gösterir.
 Sikke dağılımı ise ölçülebilir bir veridir.[^k2] Bir sikke tipinin bulunduğu
 alan, siyasi sınırı değil dolaşım alanını gösterir ve ikisi aynı değildir.
 
-Atlas bu ayrımı korur.[^k1] Para dolaşımı siyasi denetimden geniş de dar da
-olabilir; sikke haritası bir sınır haritası değildir.
+Para dolaşımı siyasi denetimden geniş de dar da
+olabilir; sikke haritası bir sınır haritası değildir.[^k1]
 
 ## Kaynak durumu
 
-Bu dosya üç kaynağa dayanır ve ikisi birincildir.[^k2][^k3] İki birincil
+Bu inceleme üç kaynağa dayanır ve ikisi birincildir.[^k2][^k3] İki birincil
 künye müze katalog kaydıdır ve `nesne` alt türünü taşır.
 
 İmparatorluğun kendi yazıtları bulunmaktadır.[^k1] Doğrulanabilir, katalog
 künyesiyle teyit edilmiş ve tam metin olarak erişilebilir bir derlemesi bu
 dosya yazıldığında bulunamamıştır.
 
-Kısıt beyan edilir.[^k3] Yazıtlar bu dosyanın en doğrudan kaynağı olurdu;
+Kısıt beyan edilir.[^k3] Yazıtlar bu incelemenin en doğrudan kaynağı olurdu;
 yerlerine giriş kapısı maddesinin aktarımı kullanılmıştır.
 
-## Bu dosyanın kapsamadıkları
-
+## Açıkta kalan sorular
 Hükümdar listesi ve hanedan tarihi burada verilmez.[^k1] Tarihlendirme
 tartışmalı olduğu için bir liste, çözülmüş bir kronoloji izlenimi verirdi.
 
 Heykel geleneğinin sanat tarihi açısından incelenmesi de kapsam
-dışıdır.[^k3] Bu dosya nesneleri kanıt olarak kullanır.
+dışıdır.[^k3] Bu inceleme nesneleri kanıt olarak kullanır.
 
 Bölgedeki dinî geleneklerin kendi tarihi burada işlenmez.[^k1] Ayrı
 dosyalar gerektirir.
 
-## Atlastaki yeri
-
-Bu dosya, atlasın Orta Asya aktör katmanındaki sekizinci dosyadır.[^k1]
-Bölge, atlasın en ince katmanlarından biri olmayı sürdürüyor.
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun Orta Asya aktör katmanındaki sekizinci dosyadır.[^k1]
+Bölge, korpusun en ince katmanlarından biri olmayı sürdürüyor.
 
 Dosyanın seçilme gerekçesi kesişmedir.[^k2] Dört kültür alanının değdiği bir
-noktada kurulmuş bir düzen, atlasın bölge etiketlerinin sınırını da
+noktada kurulmuş bir düzen, korpusun bölge etiketlerinin sınırını da
 gösterir.
 
 Bir düzeni tek bir bölgeye yerleştirmek her zaman mümkün değildir.[^k3]
-Atlasın çoklu etiket imkânı bu yüzden vardır ve bu dosya onun en açık
+Korpusun çoklu etiket imkânı bu yüzden vardır ve bu inceleme onun en açık
 kullanımıdır.
 
 ## Sentez mi bir arada durma mı
@@ -271,23 +266,22 @@ Heykel geleneğinde ise durum farklıdır.[^k3] Orada biçim ile konu gerçekten
 birleşir ve ayrıştırılamaz hâle gelir; iki alanda iki farklı süreç
 işlemiştir.
 
-## Ayrımın atlas açısından sonucu
+## Ayrımın korpus açısından sonucu
 
-Atlas bu iki süreci ayrı ayrı kaydeder çünkü sonuçları farklıdır.[^k1] Bir
-arada durma, taraflardan biri çekildiğinde ötekini olduğu gibi bırakır;
-sentez, geri döndürülemez bir değişim üretir.
+Bir arada durma, taraflardan biri çekildiğinde
+ötekini olduğu gibi bırakır; sentez, geri döndürülemez bir değişim üretir.[^k1]
 
-Ayrım başka bölgelerde de uygulanabilir.[^k2] Atlasın kültürel aktarım
+Ayrım başka bölgelerde de uygulanabilir.[^k2] Korpusun kültürel aktarım
 kaydeden dosyalarında hangi sürecin işlediği, çoğu zaman belirtilmeden
 geçilir.
 
-Bu dosya, ayrımın aynı düzen içinde bile ikisinin birden görülebileceğini
+Bu inceleme, ayrımın aynı düzen içinde bile ikisinin birden görülebileceğini
 gösterir.[^k3] Bir imparatorluk, bir alanda unsurları yan yana tutup başka
 bir alanda birleştirebilir.
 
 ## İki kanıt türünün birlikte okunması
 
-Bu dosyanın kanıt tabanı, sikke ve heykel olmak üzere iki nesne türüne
+Bu incelemenin kanıt tabanı, sikke ve heykel olmak üzere iki nesne türüne
 dayanır.[^k2][^k3] İkisi farklı sorulara cevap verir.
 
 Sikke, devletin ne iddia ettiğini gösterir; seri üretimdir, tarihlenebilir
@@ -298,8 +292,7 @@ gösterir; resmî bir mesaj taşımak zorunda değildir.
 Devletin meşruiyet hesabı ile atölyenin biçim tercihi ayrı ayrı işler ve
 aynı yöne gitmek zorunda değildir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı güzergâhın ticari katmanı için [Soğdlular](/aktor/sogdlular/), güneyde
 yükselen sonraki düzen için
 [Gupta İmparatorluğu](/aktor/gupta-imparatorlugu/) dosyaları

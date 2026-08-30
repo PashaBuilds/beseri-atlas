@@ -55,7 +55,7 @@ onarim_turu: 0
 ---
 
 Kaynak onu MÖ yaklaşık 145 - yaklaşık 86 arasında yaşamış, erken Han hanedanı
-döneminde bir Çinli tarihçi olarak kaydeder.[^k1] Bu dosya, eserin içeriğini
+döneminde bir Çinli tarihçi olarak kaydeder.[^k1] Bu inceleme, eserin içeriğini
 değil **yazarlığının nasıl bölüştürüldüğünü** ele alır.
 
 ## Tasarı babasına aittir
@@ -64,7 +64,7 @@ Kaynak, eserin tasarısını ilk kez babası Sima Tan'ın düşündüğünü ve 
 *Bahar ve Güz Yıllıkları*'nı izlemek istediğini yazar; Sima Tan'ın ölmeden önce
 yalnızca bir taslak oluşturabilmiş göründüğü kaydedilir.[^k1]
 
-Bir eserin fikrinin bir kuşağa, yazımının bir başkasına atfedilmesi,[^k1] atlasın
+Bir eserin fikrinin bir kuşağa, yazımının bir başkasına atfedilmesi,[^k1] korpusun
 yazar alanını neden tek bir ad olarak görmediğini gösterir.
 
 ## Kaynak, bölüm bölüm atfeder
@@ -75,7 +75,7 @@ onun notlarına dayandığı tahmin edilen yalnızca parçalar bulunduğunu
 kaydeder.[^k1]
 
 Bir metnin içindeki tek bir bölümün başka bir yazara açıkça atfedilmiş olması,[^k1]
-bu atlasın dipnot birimini neden paragraf düzeyinde tuttuğunu dışarıdan
+bu korpusun dipnot birimini neden paragraf düzeyinde tuttuğunu dışarıdan
 doğrular: yazarlık eser düzeyinde değil, bölüm düzeyinde çözülür.
 
 ## Tamamlanma tarihi bir aralıktır
@@ -84,7 +84,7 @@ Kaynak eserin MÖ 91'den önce, muhtemelen MÖ 94 dolaylarında tamamlandığın
 yazar.[^k1]
 
 Bir üst sınır ile bir tahmin yılının birlikte verilmesi,[^k1] tarihlemenin
-kesinlik derecesini de kaydeden bir biçimdir; atlas bu biçimi korur.
+kesinlik derecesini de kaydeden bir biçimdir; korpus bu biçimi korur.
 
 ## Görev babadan devralınmıştır
 
@@ -113,14 +113,13 @@ efsane ile kayıt arasında bir ayrım tuttuğunu gösterir.
 Aynı geleneğin bir başka düşünürü için tutulan kayıtta tarihler geleneksel notuyla
 verilir.[^k2] O düşünür [Konfüçyüs](/dusunur/konfucyus/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Hayatının seyri, cezalandırılması, *Shiji*'nin yapısı ve sonraki eleştiriler
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1]
 
 ## Eserine bağ
 
-Bu dosya eserin kamu malı tam metnine bağlanır: *Shiji*.[^k4] Esere yapılacak
+Bu inceleme eserin kamu malı tam metnine bağlanır: *Shiji*.[^k4] Esere yapılacak
 her atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
 çevirinin kullanıldığı belirtilmelidir.

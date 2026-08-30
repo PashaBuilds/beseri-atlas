@@ -1,6 +1,7 @@
 ---
 import fs from 'node:fs';
 import path from 'node:path';
+import crypto from 'node:crypto';
 import { render } from 'astro:content';
 import Temel from '../../layouts/Temel.astro';
 import AygitRayi from '../../components/AygitRayi.astro';
@@ -15,6 +16,13 @@ import { makaleRotalari } from '../../lib/rotalar';
 
 export async function getStaticPaths() {
   const korpus = await tumOnayliIcerik();
+  const hakemCumlesiniSadelestir = (deger: unknown) => String(deger ?? '')
+    .replace(/\[\^k\d+\]/g, '')
+    .replace(/\[[^\]]*\]\(\/[^)]*\)/g, ' ')
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
+    .replace(/[*_`]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
   const donemler = korpus
     .filter((e: any) => e.data.tip === 'donem')
     .sort((a: any, b: any) => a.data.donem.localeCompare(b.data.donem))
@@ -26,14 +34,45 @@ export async function getStaticPaths() {
 
   return korpus.map((girdi: any) => {
     const [tip, ...rest] = girdi.data.id.split('-');
+    let hakemKaydi: any = { durum: 'yok' };
+    // Astro Markdown govdesini kendi yukleyicisinde normallestirebilir. Hakem
+    // hash'i ise frontmatter'dan sonraki ham govdeye aittir; kaynak dosyayi
+    // burada dogrudan okumak gecerli matrisleri yanlislikla "bayat" yapmaz.
+    const kaynakYolu = path.join(process.cwd(), 'icerik', girdi.data.tip, `${girdi.data.id}.md`);
+    const ham = fs.existsSync(kaynakYolu) ? fs.readFileSync(kaynakYolu, 'utf8') : '';
+    const govdeEslesmesi = /^---\r?\n[\s\S]*?\r?\n---\r?\n?([\s\S]*)$/.exec(ham);
+    const hamGovde = govdeEslesmesi?.[1] ?? '';
+    const matrisYolu = path.join(process.cwd(), 'denetim', 'matris', `${girdi.data.id}-matris.json`);
+    try {
+      if (hamGovde && fs.existsSync(matrisYolu)) {
+        const mat = JSON.parse(fs.readFileSync(matrisYolu, 'utf8'));
+        if (String(mat.hakem ?? '').startsWith('kor-hakem')) {
+          const guncelGovdeHash = crypto.createHash('sha1')
+            .update(hamGovde).digest('hex').slice(0, 12);
+          const sadeGovde = hakemCumlesiniSadelestir(hamGovde);
+          const iddialarIzlenebilir = Array.isArray(mat.iddialar) && mat.iddialar.length > 0
+            && mat.iddialar.every((iddia: any) => {
+              const cumle = hakemCumlesiniSadelestir(iddia.cumle);
+              return Boolean(cumle) && sadeGovde.includes(cumle);
+            });
+          hakemKaydi = {
+            durum: mat.govde_hash === guncelGovdeHash && iddialarIzlenebilir ? 'guncel' : 'bayat',
+            dogrudan: mat.sayaclar?.dogrudan ?? 0,
+            kismi: mat.sayaclar?.kismi ?? 0,
+            iddia: (mat.iddialar ?? []).length,
+            zaman: String(mat.zaman ?? '').slice(0, 10),
+          };
+        }
+      }
+    } catch { hakemKaydi = { durum: 'yok' }; }
     return {
       params: { tip, slug: rest.join('-') },
-      props: { girdi, korpus, donemler },
+      props: { girdi, korpus, donemler, hakemKaydi },
     };
   });
 }
 
-const { girdi, korpus, donemler } = Astro.props;
+const { girdi, korpus, donemler, hakemKaydi } = Astro.props;
 const v = girdi.data;
 const { Content, headings } = await render(girdi);
 
@@ -41,26 +80,15 @@ const { Content, headings } = await render(girdi);
 // Bunu okura soylemek zorunludur — "denetlendi" ifadesi tek basina, mekanik
 // katmanin gordugu kadariyla denetlenmis bir dosyayla hakemden gecmis bir
 // dosyayi ayni gosterir. Matris yoksa beyan bunu da acikca soyler.
-let hakem: { dogrudan: number; kismi: number; iddia: number; zaman: string } | null = null;
-try {
-  const matrisYolu = path.join(process.cwd(), 'denetim', 'matris', `${v.id}-matris.json`);
-  if (fs.existsSync(matrisYolu)) {
-    const mat = JSON.parse(fs.readFileSync(matrisYolu, 'utf8'));
-    if (String(mat.hakem ?? '').startsWith('kor-hakem')) {
-      hakem = {
-        dogrudan: mat.sayaclar?.dogrudan ?? 0,
-        kismi: mat.sayaclar?.kismi ?? 0,
-        iddia: (mat.iddialar ?? []).length,
-        zaman: String(mat.zaman ?? '').slice(0, 10),
-      };
-    }
-  }
-} catch { /* bozuk matris beyani degistirmez */ }
+const hakem: { dogrudan: number; kismi: number; iddia: number; zaman: string } | null =
+  hakemKaydi?.durum === 'guncel' ? hakemKaydi : null;
+const hakemBayat = hakemKaydi?.durum === 'bayat';
 // İçindekiler: yalnızca h2 başlıklar; kısa makalede gürültü olmasın diye
 // 4'ten az bölümde gösterilmez.
 const bolumler = (headings ?? []).filter((h: { depth: number }) => h.depth === 2);
 const icindekilerGoster = bolumler.length >= 4;
 const ilgili = baglariCoz(v.ilgili, korpus);
+const baglamKapilari = baglariCoz(v.baglam, korpus);
 const okuma = baglariCoz(v.okuma_onerisi, korpus);
 // Okuma hatti: donem sayfasi kendi makalelerini sirali listeler, her makale
 // de hattaki komsularini gosterir. Donemi olmayan tipler hatta girmez.
@@ -330,14 +358,19 @@ const oturumSorulari = rotaAdimi
         güven seviyesi: {GUVEN_ADLARI[v.guven_geneli].toLocaleLowerCase('tr')}).
         {hakem ? (
           <span>
-            {' '}Bu dosya ayrıca <strong>kör hakemden geçti</strong>: makaleyi yazmamış
+            {' '}Bu inceleme ayrıca <strong>kör hakemden geçti</strong>: makaleyi yazmamış
             bir oturum {hakem.iddia} iddianın kaynağını tek tek sınadı ({hakem.zaman}) ve
             {' '}{hakem.dogrudan} tanesini kaynağın doğrudan taşıdığı,
             {' '}{hakem.kismi} tanesini kısmen taşıdığı olarak kaydetti.
           </span>
+        ) : hakemBayat ? (
+          <span>
+            {' '}Önceki kör-hakem kaydı, metin ya da izlenen iddia yüzeyi değiştiği için <strong>yenilenmeyi bekliyor</strong>;
+            güncel metin yalnız mekanik denetim beyanı taşır.
+          </span>
         ) : (
           <span>
-            {' '}Bu dosya <strong>henüz kör hakemden geçmedi</strong>; denetimi mekanik
+            {' '}Bu inceleme <strong>henüz kör hakemden geçmedi</strong>; denetimi mekanik
             katmanın gördüğü kadarıyla sınırlıdır.
           </span>
         )}
@@ -356,7 +389,7 @@ const oturumSorulari = rotaAdimi
         )}
       </div>
     </main>
-    <AygitRayi veri={v} ilgili={ilgili} okuma={okuma} />
+    <AygitRayi veri={v} ilgili={ilgili} baglam={baglamKapilari} okuma={okuma} />
   </div>
 </Temel>
 

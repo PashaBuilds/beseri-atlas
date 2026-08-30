@@ -69,7 +69,7 @@ sayar ve hükümdarın konumunu tanımlar.
 Anayasa elli altı yıl yürürlükte kaldı.[^k2] Bu süre boyunca askıya
 alınmadı.
 
-Bu dosyanın asıl konusu bir karşılaştırmadır.[^k1] Atlasın on üç yıl önce
+Bu incelemenin asıl konusu bir karşılaştırmadır.[^k1] Korpusun on üç yıl önce
 ilan edilmiş bir başka anayasa künyesi vardır ve o metin iki yıl içinde
 fiilen askıya alınmıştı.
 
@@ -96,8 +96,8 @@ Aynı ölçütle bakıldığında bu metin daha az sınırlayıcı da sayılabil
 Askerî komuta yetkisinin meclis denetiminin tümüyle dışında tutulması,
 öteki metinde bulunmayan bir düzenlemedir.
 
-Atlas bu nedenle farkı metinlerin içeriğinde aramaz.[^k2] İki metin de
-hükümdarı ciddi biçimde sınırlamıyordu.
+İki metin de hükümdarı ciddi biçimde
+sınırlamıyordu.[^k2]
 
 ## Farkın nerede aranacağı
 
@@ -115,15 +115,14 @@ durdurulur.**
 
 ## Ölçümün sınırı
 
-İki örnek bir kural kurmaya yetmez.[^k1] Atlas bunu iki karşılaştırmalı
+İki örnek bir kural kurmaya yetmez.[^k1] Korpus bunu iki karşılaştırmalı
 ölçüm olarak kaydeder ve genelleştirmez.
 
 Başka etkenler de ayrılır.[^k2] Savaş sonuçları, mali durum ve dış
 müdahalenin yoğunluğu iki örnekte farklıydı.
 
-Atlas etkenlerin ağırlığını ölçmez.[^k3] Ölçülmemiş bir ağırlığı
-belirtmeden sıralamak, karşılaştırmayı bir açıklamaya dönüştürür ve
-dosya bunu yapmaz.
+Ölçülmemiş bir ağırlığı belirtmeden
+sıralamak, karşılaştırmayı bir açıklamaya dönüştürür ve dosya bunu yapmaz.[^k3]
 
 ## Hazırlık süreci
 
@@ -133,8 +132,8 @@ gönderildi ve birden çok anayasa düzeni yerinde incelendi.
 Seçim bilinçliydi.[^k2] Meclise geniş yetki veren örnekler yerine,
 hükümdarın konumunu koruyan bir örnek esas alındı.
 
-Atlas bu seçimi ayrıca kaydeder.[^k1] Bir kurum ödünç alınırken hangi
-örneğin seçildiği, ödünç alanın ne istediğini doğrudan gösterir.
+Bir kurum ödünç alınırken hangi örneğin
+seçildiği, ödünç alanın ne istediğini doğrudan gösterir.[^k1]
 
 ## Ödünç almanın biçimi
 
@@ -142,7 +141,7 @@ Atlas bu seçimi ayrıca kaydeder.[^k1] Bir kurum ödünç alınırken hangi
 hak listesi, dönemin uluslararası pratiğinde devlet sayılmanın
 koşullarıydı.
 
-Bu, atlasın Tonga dosyasında ölçtüğü mekanizmanın aynısıdır.[^k1] Bir
+Bu, korpusun Tonga dosyasında ölçtüğü mekanizmanın aynısıdır.[^k1] Bir
 düzen, kendisini dışarıdakilerin tanıyabileceği biçime sokarak
 korunmayı umar.
 
@@ -156,7 +155,7 @@ Anayasanın açık hedeflerinden biri, yabancı devletlerle imzalanmış
 antlaşmaların değiştirilmesiydi.[^k2] O antlaşmalar, yabancıların yerel
 yargı yetkisinin dışında tutulmasını öngörüyordu.
 
-Bu düzen, atlasın Samoa dosyasında kaydedilen yapının aynısıdır.[^k3]
+Bu düzen, korpusun Samoa dosyasında kaydedilen yapının aynısıdır.[^k3]
 Yargı yetkisinin uyrukluğa göre bölünmesi, egemenliği toprakta değil
 kişide tanımlar.
 
@@ -173,9 +172,9 @@ getirildiğinde muafiyetin gerekçesi kalmaz.
 Gerekçe kabul gördü ve muafiyet kaldırıldı.[^k3] Süreç yaklaşık bir
 kuşak sürdü.
 
-Atlas bu diziyi ayrıca kaydeder.[^k1] Bir hukuki biçimin benimsenmesi,
-doğrudan bir egemenlik kazanımına dönüşebilir ve bu, biçimin iç
-işlevinden bağımsız bir sonuçtur.
+Bir hukuki biçimin benimsenmesi,
+doğrudan bir egemenlik kazanımına dönüşebilir ve bu, biçimin iç işlevinden bağımsız bir
+sonuçtur.[^k1]
 
 ## Ordunun konumu
 
@@ -186,9 +185,8 @@ Düzenleme sonraki yarım yüzyılda belirleyici oldu.[^k2] Askerî kurumun
 sivil yönetimden bağımsız hareket edebilmesinin hukuki dayanağı bu
 maddedir.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Bir anayasanın en uzun vadeli
-sonucu, en çok tartışılan maddesi değil denetim dışında bıraktığı alan
-olabilir.
+Bir anayasanın en uzun vadeli sonucu, en
+çok tartışılan maddesi değil denetim dışında bıraktığı alan olabilir.[^k3]
 
 ## Denetim dışı alanın ölçülmesi
 
@@ -199,8 +197,8 @@ sorulur.
 Bu metinde denetim dışı alan açıkça tanımlanmıştır.[^k1] Alan, sonraki
 onyıllarda genişledi ve genişleme metne aykırı değildi.
 
-Atlas bu ölçütü bütün anayasa künyelerine uygular.[^k2] Metnin sustuğu
-yerler, konuştuğu yerler kadar incelenmelidir.
+Metnin sustuğu yerler, konuştuğu
+yerler kadar incelenmelidir.[^k2]
 
 ## Hakların kayıtla verilmesi
 
@@ -221,8 +219,8 @@ sınırlıydı.[^k2] Bu, nüfusun küçük bir bölümüne karşılık geliyordu
 Eşik sonraki onyıllarda düşürüldü ve seçmen tabanı genişledi.[^k2]
 Genişleme metnin değiştirilmesini gerektirmedi.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k1] Bir anayasanın kapsamı,
-metni değişmeden de genişleyebilir; belirleyici olan alt düzenlemelerdir.
+Bir anayasanın kapsamı, metni değişmeden
+de genişleyebilir; belirleyici olan alt düzenlemelerdir.[^k1]
 
 ## Sona eriş
 
@@ -232,24 +230,21 @@ bıraktı.[^k2] Yeni metin, işgal yönetimi döneminde hazırlandı.
 Geçiş, eski anayasanın kendi değişiklik usulü kullanılarak
 yapıldı.[^k2] Biçimsel süreklilik korundu.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k3] Bir anayasanın kendi usulüyle
-değiştirilmesi, içerik olarak kesintili bir geçişe biçimsel bir
-süreklilik görüntüsü verebilir.
+Bir anayasanın kendi usulüyle değiştirilmesi,
+içerik olarak kesintili bir geçişe biçimsel bir süreklilik görüntüsü verebilir.[^k3]
 
 ## Künyenin dili
 
-Bu dosyada künyelenen metin bir çeviridir.[^k1] Özgün metinle
+Bu incelemede künyelenen metin bir çeviridir.[^k1] Özgün metinle
 karşılaştırma yapılmamıştır.
 
-Atlas bu kısıtı Waitangi dosyasında kurduğu kuralla ele alır.[^k3] Çok
-dilli bir belgeye atıf yapılırken hangi dildeki metnin kastedildiği
-yazılmalıdır.
+Çok dilli bir belgeye atıf
+yapılırken hangi dildeki metnin kastedildiği yazılmalıdır.[^k3]
 
 Kural burada uygulanmıştır.[^k2] Dosyadaki madde göndermeleri çeviri
 metne dayanır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, iki anayasa arasındaki farkın nedenini belirlemez.[^k1] Bir
 ölçüm önerir ve ölçümün iki örnekle sınırlı olduğunu yazar.
 
@@ -257,12 +252,11 @@ Metnin maddeleri tek tek aktarılmaz.[^k2] Metin künyede erişilebilir
 durumdadır.
 
 Sonraki anayasa ve savaş dönemi işlenmez.[^k3] Ayrı dosyalar gerektirir
-ve bu dosya yazıldığında atlasta bulunmuyorlardı.
+ve bu inceleme yazıldığında korpusta bulunmuyorlardı.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Karşılaştırmanın öteki tarafı için
-[Kânûn-ı Esâsî](/kaynak/kanunuesasi-1876/) dosyası okunmalıdır; bu dosya
+[Kânûn-ı Esâsî](/kaynak/kanunuesasi-1876/) dosyası okunmalıdır; bu inceleme
 onsuz eksiktir ve ikisi birlikte tek bir soruyu kurar.[^k1]
 
 Aynı hattın erken halkası için

@@ -14,6 +14,7 @@ guven_geneli: tartismali
 etiketler: [lonca, cirak, kalfa, usta, gedik, tekel, narh, ciraklik-yasasi]
 ilgili:
   - kavram-timar
+baglam:
   - kavram-feodalite
   - kavram-kapitalizm
   - kavram-kentlesme

@@ -46,7 +46,7 @@ onarim_turu: 0
 Bu savaşın çağdaş kaydı iki şeyi aynı anda söyler: İspanya İç Savaşı daha büyük
 bir çatışmaya tırmanmadı, ama bütün komünistleri ve birçok sosyalist ile liberali
 Katoliklerin, muhafazakârların ve faşistlerin karşısına koyan dünya çapında bir
-ideolojik savaş alanına dönüştü.[^k2] Bu dosya, o **ikili niteliği** ele alır.
+ideolojik savaş alanına dönüştü.[^k2] Bu inceleme, o **ikili niteliği** ele alır.
 
 ## Sınırlı savaş, sınırsız saflaşma
 
@@ -67,18 +67,18 @@ yabancı gönüllüler ve Enternasyonal Tugaylar ile Sovyetler Birliği, Meksika
 sınırlı ölçüde Fransa sayılır.[^k1]
 
 Bir iç savaşın taraf listesinde devletlerin bulunması, "iç" nitelemesini
-zorlaştırır. Atlas bu gerilimi çözmez; kaynağın kendi sınıflandırmasını aktarır.
+zorlaştırır. Korpus bu gerilimi çözmez; kaynağın kendi sınıflandırmasını aktarır.
 
 ## Her iki taraf için ayrı vahşet başlığı
 
-Kaynağın yapısı, atlasın hakemlik yapmama ilkesiyle örtüşür: vahşetler bölümü
+Kaynağın yapısı, korpusun hakemlik yapmama ilkesiyle örtüşür: vahşetler bölümü
 Milliyetçiler ve Cumhuriyetçiler olmak üzere iki alt başlığa ayrılır.[^k1]
 
 ::tartismali[İspanya İç Savaşı'nın bilançosu ve sorumluluğu, kaynağın kendisinde
-iki taraf için ayrı başlıklar altında ele alınır; bu dosya taraf
+iki taraf için ayrı başlıklar altında ele alınır; bu inceleme taraf
 tutmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
-Aynı madde ölüm sayısını da ayrı bir başlık olarak ele alır.[^k1] Atlas, bu
+Aynı madde ölüm sayısını da ayrı bir başlık olarak ele alır.[^k1] Korpus, bu
 başlığın varlığını kaydeder ve tek bir sayı üretmez.
 
 ## Maddenin diğer başlıkları
@@ -96,8 +96,7 @@ Uzun dönemli seride dünya nüfusu 1914'te yaklaşık 1,82 milyar, 1945'te yakl
 2,38 milyardır.[^k3] İspanya'nın kendi nüfusuna dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Darbenin seyri, cephelerin askerî tarihi, İspanyol Devrimi ve savaş sonrası rejim
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1] Dönemin bütünü [1914–1945](/donem/13/) dosyasında ele alınıyor.

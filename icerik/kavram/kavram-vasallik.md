@@ -16,8 +16,9 @@ eksen: [siyasi, askeri, ekonomik]
 guven_geneli: tartismali
 etiketler: [vasallik, feodalite, fief, homage, ortacag, reynolds, karolenj]
 ilgili:
-  - kavram-feodalite
   - tartisma-feodalite-kavrami
+baglam:
+  - kavram-feodalite
   - kavram-anakronizm
   - kavram-timar
   - kavram-haracguzarlik

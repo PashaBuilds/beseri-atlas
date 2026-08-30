@@ -206,9 +206,9 @@ kutuplu düzenin bir tarafının dağılmasıdır.
 başladığını ve dağılmanın birkaç yıla yayıldığını savunan okumalar
 vardır.
 
-Atlas bu belirsizliği ayrıca kaydeder.[^k2] Bir dönemin sınırı, o
-dönemi tanımlayan eğilimin en görünür olduğu ana konur; eğilimin
-kendisi sınırdan önce başlar.
+Bir dönemin sınırı, o dönemi
+tanımlayan eğilimin en görünür olduğu ana konur; eğilimin kendisi sınırdan önce
+başlar.[^k2]
 
 ## İki eğilim aynı yıllarda
 
@@ -219,9 +219,8 @@ imparatorluklarının tasfiyesi.
 İkisi bağımsız değildir.[^k3] Bağımsızlaşan her yeni devlet, iki
 tarafın da kazanmak istediği bir taraf hâline geldi.
 
-Atlas bu kesişimi dosyanın ekseni sayar.[^k4] Aynı olay, bir tarafta
-kurtuluş, diğer tarafta nüfuz alanı genişlemesi olarak
-kaydedilmiştir.
+Aynı olay, bir tarafta kurtuluş, diğer tarafta
+nüfuz alanı genişlemesi olarak kaydedilmiştir.[^k4]
 
 ## Doğrudan çarpışmama kuralı
 
@@ -232,8 +231,8 @@ Nükleer silahların varlığı, doğrudan çatışmanın maliyetini her iki
 taraf için de kabul edilemez kılıyordu.[^k3] Rekabet başka alanlara
 kaydı.
 
-Atlas bu kaymayı ayrıca kaydeder.[^k2] Bir maliyetin çok yükselmesi
-çatışmayı ortadan kaldırmaz; biçimini değiştirir.
+Bir maliyetin çok yükselmesi çatışmayı
+ortadan kaldırmaz; biçimini değiştirir.[^k2]
 
 ## Vekâlet savaşları
 
@@ -244,21 +243,19 @@ Bu düzenin bedeli, çatışmanın yürüdüğü ülkelere yüklendi.[^k1] İki
 tarafın da kayıpları, çatışmanın yaşandığı ülkelerin kayıplarının
 yanında küçüktü.
 
-Atlas bu dağılımı ölçüm sayar.[^k2] Bir rekabetin maliyetinin nerede
-biriktiği, o rekabetin kimin adına yürütüldüğünden ayrı bir
-veridir.
+Bir rekabetin maliyetinin nerede
+biriktiği, o rekabetin kimin adına yürütüldüğünden ayrı bir veridir.[^k2]
 
 ## Nükleer silahların işlevi
 
 Silahların işlevi kullanılmak değil, kullanılabilir sayılmaktı.[^k1]
 Etki, envanterin varlığından geliyordu.
 
-Bu, atlasın caydırıcılık dosyasında ele alınan yapıdır.[^k3] Caydırıcılık,
+Bu, korpusun caydırıcılık dosyasında ele alınan yapıdır.[^k3] Caydırıcılık,
 karşı tarafın hesabını değiştirmeye dayanır.
 
-Atlas bu mekanizmanın sınavını ayrıca kaydeder.[^k2] Bir caydırıcılık
-iddiası, ancak sınandığı ve çalıştığı durumlarla doğrulanabilir; hiç
-sınanmaması kanıt üretmez.
+Bir caydırıcılık iddiası, ancak
+sınandığı ve çalıştığı durumlarla doğrulanabilir; hiç sınanmaması kanıt üretmez.[^k2]
 
 ## Sömürgesizleşmenin hızı
 
@@ -269,8 +266,8 @@ Yeni kurulan devletlerin sayısı, uluslararası kuruluşların üye
 sayısında doğrudan görünür.[^k2] Üye sayısı dönem boyunca birkaç kat
 arttı.
 
-Atlas bu hızı ayrıca kaydeder.[^k4] Bir siyasi haritanın bu ölçüde
-kısa sürede değişmesi, dönemi tanımlayan olgulardan biridir.
+Bir siyasi haritanın bu ölçüde kısa sürede
+değişmesi, dönemi tanımlayan olgulardan biridir.[^k4]
 
 ## Sınırların devralınması
 
@@ -280,10 +277,9 @@ kararla benimsenen bir ilkeydi.
 Gerekçe pratikti.[^k3] Sınırların yeniden çizilmesi, kıta ölçeğinde
 çatışma riski taşıyordu.
 
-Atlas bu tercihi ayrıca kaydeder.[^k2] Bölgede yaşamayanlarca çizilmiş
-sınırların korunması, atlasta tekrar eden bir ölçümün doğrudan
-sonucudur: karar bir kez dışarıda alındığında etkisi kendi
-kaldırılmasından sonra da sürer.
+Bölgede yaşamayanlarca çizilmiş sınırların
+korunması, korpusta tekrar eden bir ölçümün doğrudan sonucudur: karar bir kez dışarıda
+alındığında etkisi kendi kaldırılmasından sonra da sürer.[^k2]
 
 ## Bağımsızlığın biçimleri
 
@@ -294,9 +290,8 @@ Biçim, sonraki devletin kurumlarını da belirledi.[^k4] Silahlı
 mücadeleyle kurulan düzenlerde ordu, siyasi hayatta daha merkezî bir
 yer edindi.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Bir devletin kuruluş biçimi,
-kurumlarının sonraki dağılımının önceden okunabilir
-göstergesidir.
+Bir devletin kuruluş biçimi,
+kurumlarının sonraki dağılımının önceden okunabilir göstergesidir.[^k3]
 
 ## Kalkınma yarışı
 
@@ -306,9 +301,8 @@ düzeninin daha hızlı büyüme sağladığını iddia ediyordu.
 İddia sayılarla sınanabilir hâle geldi.[^k4] Kişi başına gelir serileri
 bu dönemde düzenli olarak üretilmeye başlandı.
 
-Atlas bu sınamayı ayrıca kaydeder.[^k1] Bir siyasi iddianın sayısal
-göstergeye bağlanması, o göstergenin üretimini de siyasi hâle
-getirir.
+Bir siyasi iddianın sayısal göstergeye
+bağlanması, o göstergenin üretimini de siyasi hâle getirir.[^k1]
 
 ## Sayıların taraflılığı
 
@@ -319,8 +313,8 @@ Karşılaştırma bu yüzden doğrudan yapılamaz.[^k2] Sonradan yapılan
 yeniden hesaplamalar, dönemin resmî sayılarından belirgin biçimde
 farklı sonuçlar verdi.
 
-Atlas bu farkı ayrıca kaydeder.[^k3] İki tarafın kendi ölçtüğü
-sayılarla yürüttüğü bir yarışta, sayılar da yarışın parçasıdır.
+İki tarafın kendi ölçtüğü sayılarla yürüttüğü bir
+yarışta, sayılar da yarışın parçasıdır.[^k3]
 
 ## Sanayileşme modelleri
 
@@ -330,8 +324,8 @@ Model tercihleri iki kutbun sunduğu seçeneklerle sınırlı değildi.
 Bazıları ikisinden de ayrı bir yol denedi.[^k1] İthal ikamesi ve
 planlı karma ekonomi bu denemeler arasındadır.
 
-Atlas bu üçüncü yolu ayrıca kaydeder.[^k5] Bir dönemi iki seçenekle
-anlatmak, o dönemde denenen üçüncü yolları görünmez kılar.
+Bir dönemi iki seçenekle anlatmak, o
+dönemde denenen üçüncü yolları görünmez kılar.[^k5]
 
 ## Bağlantısızlık
 
@@ -341,8 +335,8 @@ iki kutbun hiçbirine bağlanmamayı ilke edindi.
 Uygulamada bağlantısızlık her zaman korunamadı.[^k3] Silah ve kredi
 ihtiyacı, çoğu üyeyi bir tarafa yaklaştırdı.
 
-Atlas ilke ile uygulama arasındaki farkı ayrıca kaydeder.[^k2] Bir
-konumun ilan edilmesi, sürdürülebilmesinden ayrı bir olgudur.
+Bir konumun ilan edilmesi, sürdürülebilmesinden ayrı
+bir olgudur.[^k2]
 
 ## Yardımın işlevi
 
@@ -352,8 +346,8 @@ aracı hem bağlılık aracıydı.
 İki işlev birbirinden ayrılamaz.[^k1] Aynı kredi, hem yol yapımını hem
 oy desteğini finanse edebiliyordu.
 
-Atlas bu ikiliği ayrıca kaydeder.[^k3] Bir aktarımın amacı, aktaranın
-beyanından değil aktarımın kesildiği koşullardan okunur.
+Bir aktarımın amacı, aktaranın beyanından
+değil aktarımın kesildiği koşullardan okunur.[^k3]
 
 ## Nüfusun büyümesi
 
@@ -364,9 +358,8 @@ Artışın nedeni doğum sayısındaki artıştan çok ölüm oranındaki
 düşüştür.[^k5] Aşı, antibiyotik ve temiz su erişimi bu düşüşün başlıca
 etkenleridir.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k4] Nüfus artışını doğurganlıkla
-açıklamak, ölüm oranındaki düşüşü görmezden gelmek anlamına
-gelir.
+Nüfus artışını doğurganlıkla açıklamak, ölüm
+oranındaki düşüşü görmezden gelmek anlamına gelir.[^k4]
 
 ## Kentleşmenin hızlanması
 
@@ -378,9 +371,8 @@ Bu, kentleşmeyi sanayileşmeden ayrı bir süreç olarak izlemeyi
 gerektirir.[^k4] İki eğilim aynı yönde gitse de aynı nedenden
 gelmez.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k2] Bir göstergenin yükselmesi,
-onunla tarihsel olarak birlikte anılan sürecin de yaşandığını
-göstermez.
+Bir göstergenin yükselmesi, onunla tarihsel olarak
+birlikte anılan sürecin de yaşandığını göstermez.[^k2]
 
 ## Yeşil devrim
 
@@ -390,8 +382,8 @@ tohum çeşitleri, gübre ve sulama yatırımıyla sağlandı.
 Verim artışı, nüfus artışının doğurduğu beslenme sorununu
 erteledi.[^k5] Aynı zamanda girdi bağımlılığı üretti.
 
-Atlas iki sonucu birlikte kaydeder.[^k1] Bir teknik çözümün sorunu
-çözmesi, yeni bir bağımlılık kurmadığı anlamına gelmez.
+Bir teknik çözümün sorunu çözmesi,
+yeni bir bağımlılık kurmadığı anlamına gelmez.[^k1]
 
 ## Enerjinin rolü
 
@@ -402,9 +394,8 @@ Fiyatın yükseldiği yıllar, dönemin en belirgin kırılma
 noktalarındandır.[^k1] Yükseliş, hem tüketici hem üretici ülkeleri
 yeniden konumlandırdı.
 
-Atlas bu kırılmayı ayrıca kaydeder.[^k3] Tek bir malın fiyatındaki
-değişimin küresel ölçekte kırılma üretmesi, o mala bağımlılığın
-ölçüsüdür.
+Tek bir malın fiyatındaki değişimin
+küresel ölçekte kırılma üretmesi, o mala bağımlılığın ölçüsüdür.[^k3]
 
 ## Kaynak sahibi ülkelerin konumu
 
@@ -412,12 +403,12 @@ Fiyat yükselişi, kaynak sahibi ülkelerin pazarlık gücünü
 artırdı.[^k4] Üretici ülkelerin kurduğu ortak yapı, fiyat üzerinde
 etkili oldu.
 
-Bu, atlasın tek ürüne bağlanma dosyasındaki yapıya bir istisna
+Bu, korpusun tek ürüne bağlanma dosyasındaki yapıya bir istisna
 sunar.[^k1] Tek ürüne bağlı olmak, o ürünün arzı sınırlıysa güç de
 verebilir.
 
-Atlas bu istisnayı ayrıca kaydeder.[^k5] Bağımlılığın yönü, ürünün
-ikame edilebilirliğine göre değişir.
+Bağımlılığın yönü, ürünün ikame edilebilirliğine
+göre değişir.[^k5]
 
 ## Bloklar içindeki çatlaklar
 
@@ -427,9 +418,8 @@ anlaşmazlığa düşen üyeler oldu.
 Bu anlaşmazlıklar bazen çatışmaya dönüştü.[^k3] Aynı blok içindeki
 devletler arasında silahlı çatışmalar da yaşandı.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k2] İki kutuplu bir anlatı, blok
-içi çatışmaları görünmez kılar ve dönemi olduğundan basit
-gösterir.
+İki kutuplu bir anlatı, blok içi
+çatışmaları görünmez kılar ve dönemi olduğundan basit gösterir.[^k2]
 
 ## Casusluk ve bilgi
 
@@ -439,9 +429,9 @@ istihbarat örgütleri kurdu.
 Bu, dönemin kaydı açısından bir sonuç doğurdu.[^k3] Karar süreçlerinin
 önemli bölümü gizli tutuldu ve uzun süre erişilemez kaldı.
 
-Atlas bu gecikmeyi ayrıca kaydeder.[^k2] Bu, atlasın Cezayir
-dosyasında kaydedilen ölçümün bir başka örneğidir: bir olayın kaydına
-erişim tarihi, o olay hakkındaki bilginin tarihidir.
+Bu, korpusun Cezayir dosyasında kaydedilen ölçümün
+bir başka örneğidir: bir olayın kaydına erişim tarihi, o olay hakkındaki bilginin
+tarihidir.[^k2]
 
 ## Kültürel rekabet
 
@@ -451,9 +441,8 @@ Rekabet, spor, bilim ve sanat alanlarına da taşındı.[^k1] Uzay
 Bu alanların seçilmesi tesadüf değildir.[^k4] Hepsi ölçülebilir bir
 sonuç üretiyor ve doğrudan karşılaştırmaya elveriyordu.
 
-Atlas bu tercihi ayrıca kaydeder.[^k5] Bir rekabetin hangi alanlarda
-yürütüldüğü, tarafların hangi sonuçları gösterilebilir saydığını
-belirler.
+Bir rekabetin hangi alanlarda yürütüldüğü,
+tarafların hangi sonuçları gösterilebilir saydığını belirler.[^k5]
 
 ## Bilimsel çalışmanın yönü
 
@@ -464,9 +453,8 @@ bağlantılıdır.
 Sonuçlar askerî alanda kalmadı.[^k4] Aynı teknolojiler sonraki dönemin
 sivil altyapısını kurdu.
 
-Atlas bu geçişi ayrıca kaydeder.[^k3] Bir yatırımın hangi amaçla
-yapıldığı, hangi sonuçları üreteceğini tam olarak
-belirlemez.
+Bir yatırımın hangi amaçla yapıldığı,
+hangi sonuçları üreteceğini tam olarak belirlemez.[^k3]
 
 ## Duvarın iki yanı
 
@@ -477,9 +465,8 @@ Bu, karşılaştırma için ender bir zemin sunar.[^k4] Benzer başlangıç
 koşullarına sahip iki alanın farklı düzenler altındaki sonucu
 izlenebilir.
 
-Atlas bu karşılaştırmayı ihtiyatla kullanır.[^k5] İki alanın
-başlangıç koşulları hiçbir zaman tam olarak aynı değildi ve
-karşılaştırma bu kısıtla yapılmalıdır.
+İki alanın başlangıç koşulları
+hiçbir zaman tam olarak aynı değildi ve karşılaştırma bu kısıtla yapılmalıdır.[^k5]
 
 ## Dağılmanın biçimi
 
@@ -490,9 +477,8 @@ Dönemin sonu bir yenilgiyle değil bir çözülmeyle geldi.[^k1] Askerî bir
 gevşemesinin birlikte işlemesiyle oldu.[^k4] Tek bir neden yeterli
 değildir.
 
-Atlas bu çokluğu ayrıca kaydeder.[^k3] Uzun ömürlü bir düzenin sona
-ermesi, çoğu zaman tek bir olaya değil eş zamanlı birkaç eğilime
-bağlanır.
+Uzun ömürlü bir düzenin sona ermesi, çoğu zaman
+tek bir olaya değil eş zamanlı birkaç eğilime bağlanır.[^k3]
 
 ## Sonuçların dağılımı
 
@@ -502,9 +488,8 @@ destek kesildi ve süregelen çatışmalar biçim değiştirdi.
 Bazı bölgelerde ise dış destek olmadan ayakta duran rejimler
 çöktü.[^k4] İki sonuç aynı nedenden gelir.
 
-Atlas bu dağılımı ayrıca kaydeder.[^k5] Bir küresel düzenin sona
-ermesi, o düzenin çeperindeki bölgelerde merkezindekinden farklı
-sonuçlar üretir.
+Bir küresel düzenin sona ermesi, o düzenin
+çeperindeki bölgelerde merkezindekinden farklı sonuçlar üretir.[^k5]
 
 ## Dosyanın bıraktığı soru
 
@@ -514,12 +499,10 @@ ermesi, çatışmaların da azalması anlamına geldi mi.
 Sayılar kısmi bir cevap verir.[^k3] Devletler arası savaşlar azaldı;
 devlet içi çatışmalar aynı ölçüde azalmadı.
 
-Atlas cevabı bir sonraki döneme devreder.[^k5] Bir düzenin sona
-ermesiyle ortaya çıkan boşluğun nasıl doldurulduğu, izleyen dönemin
-konusudur.
+Bir düzenin sona ermesiyle ortaya çıkan boşluğun
+nasıl doldurulduğu, izleyen dönemin konusudur.[^k5]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
 dosyasında ele alınır.
 
@@ -527,7 +510,7 @@ Bölgesel ayrıntı sınırlıdır.[^k4] Şerit satırları ortak mekanizmanın
 bölgelerdeki görünümünü verir.
 
 Sayısal seriler burada yorumlanır, üretilmez.[^k5] Serilerin kaynakları
-ve yöntemleri atlasın veri dosyalarında ayrı ayrı kayıtlıdır.[^k2]
+ve yöntemleri bağlantılı veri incelemelerinde ayrı ayrı kayıtlıdır.[^k2]
 
 
 ## Uluslararası kurumların kuruluşu
@@ -538,9 +521,8 @@ ticaret ayrı ayrı kurumsallaştırıldı.
 Kurumlar savaşın hemen ardından, savaşı kazananlarca tasarlandı.[^k4]
 Karar mekanizmaları bu dengeye göre kuruldu.
 
-Atlas bu tasarımı ayrıca kaydeder.[^k5] Bir kurumun kuruluş anındaki
-güç dengesi, o kurumun sonraki on yıllardaki işleyişine yazılır ve
-kolayca değişmez.
+Bir kurumun kuruluş anındaki güç dengesi,
+o kurumun sonraki on yıllardaki işleyişine yazılır ve kolayca değişmez.[^k5]
 
 ## Veto ve temsil
 
@@ -551,9 +533,8 @@ işlemez kıldı.
 Aynı düzenleme kurumun dağılmasını da önledi.[^k3] Vetosu olan bir
 taraf, kurumdan çıkmak zorunda kalmıyordu.
 
-Atlas bu değiş tokuşu ayrıca kaydeder.[^k4] Bir kurumu etkisiz kılan
-düzenleme, aynı zamanda onu ayakta tutan düzenleme
-olabilir.
+Bir kurumu etkisiz kılan
+düzenleme, aynı zamanda onu ayakta tutan düzenleme olabilir.[^k4]
 
 ## Yeni üyelerin ağırlığı
 
@@ -563,9 +544,8 @@ değişti.[^k1] Sayısal çoğunluk, yeni bağımsız devletlere geçti.
 Bu, kurumun gündemini değiştirdi.[^k4] Sömürgesizleşme, ırk ayrımı ve
 ekonomik düzen konuları öne çıktı.
 
-Atlas bu kaymayı ayrıca kaydeder.[^k5] Bir kurumda oy sayısının
-değişmesi, karar yetkisinin değişmesiyle aynı şey değildir; ikisi
-ayrı ayrı izlenmelidir.
+Bir kurumda oy sayısının değişmesi, karar
+yetkisinin değişmesiyle aynı şey değildir; ikisi ayrı ayrı izlenmelidir.[^k5]
 
 ## Para düzeninin sonu
 
@@ -575,9 +555,9 @@ Sabit kur sistemi terk edildi.
 Bu, sonraki dönemin sermaye hareketlerinin önünü açtı.[^k1] Kurların
 serbest bırakılması, sermaye akışlarını da serbestleştirdi.
 
-Atlas bu bağı ayrıca kaydeder.[^k5] Bir dönemin sonundaki teknik bir
-kararın, sonraki dönemin tanımlayıcı özelliğini kurması atlasta
-tekrarlanan bir örüntüdür.
+Bir dönemin sonundaki teknik bir
+kararın, sonraki dönemin tanımlayıcı özelliğini kurması korpusta tekrarlanan bir
+örüntüdür.[^k5]
 
 ## Borç birikimi
 
@@ -587,9 +567,8 @@ kredi ve yüksek hammadde fiyatları bu birikimi kolaylaştırdı.
 Faiz oranlarının yükseldiği yıllarda borç sürdürülemez hâle
 geldi.[^k1] Ödeme güçlüğü birçok ülkede aynı yıllara denk geldi.
 
-Atlas bu eş zamanlılığı ayrıca kaydeder.[^k3] Aynı yıllarda birbirinden
-bağımsız ülkelerde aynı sorunun çıkması, nedenin yerel değil ortak
-olduğunu gösterir.
+Aynı yıllarda birbirinden bağımsız
+ülkelerde aynı sorunun çıkması, nedenin yerel değil ortak olduğunu gösterir.[^k3]
 
 ## Yapısal uyum koşulları
 
@@ -599,9 +578,8 @@ kısılması ve piyasaların açılması başlıca koşullardı.
 Koşullar, borç veren kuruluşlarca belirlendi.[^k1] Bu, ekonomi
 siyasetinin bir bölümünün dışarıdan belirlenmesi demekti.
 
-Atlas bu düzenlemeyi ayrıca kaydeder.[^k5] Bir egemenlik alanının
-gönüllü bir anlaşmayla devredilmesi, devredilmediği anlamına
-gelmez.
+Bir egemenlik alanının gönüllü bir anlaşmayla
+devredilmesi, devredilmediği anlamına gelmez.[^k5]
 
 ## Silahlanma yarışının maliyeti
 
@@ -612,8 +590,8 @@ Aynı mutlak harcama, küçük bir ekonomide çok daha büyük bir yük
 demektir.[^k1] Bu oran, dönemin sonundaki çözülmenin
 etkenlerindendir.
 
-Atlas bu oranı ayrıca kaydeder.[^k3] Bir yarışta mutlak büyüklük
-değil, kapasiteye oranlanmış yük belirleyicidir.
+Bir yarışta mutlak büyüklük değil,
+kapasiteye oranlanmış yük belirleyicidir.[^k3]
 
 ## Tüketim düzeni
 
@@ -623,9 +601,9 @@ ev aleti ve konut kredisi yaygınlaştı.
 Bu düzen bir karşılaştırma ölçütü hâline geldi.[^k1] Rekabet, silahtan
 çok gündelik hayat standardı üzerinden görünür oldu.
 
-Atlas bu kaymayı ayrıca kaydeder.[^k5] Bir siyasi rekabetin ölçütü
-gündelik tüketime kaydığında, sonucu belirleyen şey ideoloji değil
-tedarik kapasitesi olur.
+Bir siyasi rekabetin ölçütü
+gündelik tüketime kaydığında, sonucu belirleyen şey ideoloji değil tedarik kapasitesi
+olur.[^k5]
 
 ## Kadınların işgücüne katılımı
 
@@ -635,8 +613,8 @@ her iki blokta da görüldü, gerekçeleri farklıydı.
 Bir tarafta plan hedefleri, diğer tarafta hizmet sektörünün büyümesi
 belirleyici oldu.[^k5] Sonuç benzer, mekanizma farklıdır.
 
-Atlas bu farkı ayrıca kaydeder.[^k1] Aynı göstergedeki benzer hareket,
-aynı nedenden geldiği anlamına gelmez.
+Aynı göstergedeki benzer hareket, aynı nedenden
+geldiği anlamına gelmez.[^k1]
 
 ## Eğitim ve uzmanlık
 
@@ -646,8 +624,8 @@ doğa bilimleri öne çıkarıldı.
 Bu, dönemin araştırma kapasitesini belirledi.[^k1] Uzman sayısındaki
 artış, sonraki dönemin teknolojik tabanını kurdu.
 
-Atlas bu birikimi ayrıca kaydeder.[^k5] Bir dönemin eğitim yatırımı,
-sonuçlarını çoğu zaman bir sonraki dönemde verir.
+Bir dönemin eğitim yatırımı, sonuçlarını çoğu
+zaman bir sonraki dönemde verir.[^k5]
 
 ## Salgın hastalıkların gerilemesi
 
@@ -657,9 +635,8 @@ yaşandı.[^k2] Aşı kampanyaları bu gerilemenin başlıca aracıydı.
 Kampanyalar, iki bloğun rekabetine rağmen ortak yürütüldü.[^k1] Bu,
 dönemin ender iş birliği alanlarındandır.
 
-Atlas bu istisnayı ayrıca kaydeder.[^k3] İki tarafın da kazandığı bir
-alanda iş birliği, rekabetin en yoğun olduğu dönemde bile
-kurulabilir.
+İki tarafın da kazandığı bir alanda iş
+birliği, rekabetin en yoğun olduğu dönemde bile kurulabilir.[^k3]
 
 ## Çevre sorununun görünür olması
 
@@ -671,12 +648,11 @@ Tartışma, kalkınma hedefiyle doğrudan çelişiyordu.[^k5] Yeni bağımsız
 devletler, sınırlama önerilerini kendi büyümelerine karşı bir
 kısıt olarak okudu.
 
-Atlas bu gerilimi ayrıca kaydeder.[^k1] Bir kısıtın kimin için
-kısıt olduğu, o kısıtın hangi aşamada konduğuna bağlıdır.
+Bir kısıtın kimin için kısıt olduğu, o kısıtın
+hangi aşamada konduğuna bağlıdır.[^k1]
 
 
-## Dönemi atlasta okumak
-
+## Dönemin bağlantıları
 Bu döneme bağlanan dosyalar üç öbekte toplanır.[^k1] Rekabetin
 kurumlarını anlatan aktör dosyaları, çatışmaların ve dönüm
 noktalarının olay dosyaları, ve dönemin ölçülerini taşıyan veri
@@ -696,9 +672,8 @@ sürekli hazırlık hâlini anlatır.
 Adın kendisi taraflardan birinin kullanımıyla yaygınlaştı.[^k3] Karşı
 taraf uzun süre farklı adlandırmalar kullandı.
 
-Atlas bu tercihi ayrıca kaydeder.[^k4] Bir dönemin yaygın adı, o adı
-üreten tarafın çerçevesini de taşır ve atlas adı kullanırken bu kaydı
-düşer.[^k5]
+Bir dönemin yaygın adı, o adı üreten
+tarafın çerçevesini de taşır ve korpus adı kullanırken bu kaydı düşer.[^k5][^k4]
 
 ## Fikir dünyası
 

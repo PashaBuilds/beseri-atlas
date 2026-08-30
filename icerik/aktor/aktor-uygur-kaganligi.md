@@ -64,11 +64,11 @@ onarim_turu: 0
 ## Nerede durduğu
 
 Uygur Kağanlığı, önceki bozkır düzeninin dağılmasından sonra aynı vadide
-kurulan siyasi birimdir.[^k1][^k4] Atlasın bölge şemasında Orta Asya ile Doğu
+kurulan siyasi birimdir.[^k1][^k4] Korpusun bölge şemasında Orta Asya ile Doğu
 Asya'nın kesiştiği yerde durur; iki bölge etiketi birden taşımasının sebebi
 budur.
 
-Bu dosyanın atlas açısından ayırt edici yanı, bir siyasi düzenin bozkır
+Bu incelemenin korpus açısından ayırt edici yanı, bir siyasi düzenin bozkır
 biçiminden yerleşik biçime geçişini tek bir örnek üzerinden
 göstermesidir.[^k1] Geçiş kuşaklar içinde olmuştur ve her aşaması ayrı ayrı
 kayda geçmiştir.
@@ -80,7 +80,7 @@ birbirini nasıl beslediği görünür.
 
 ## Aynı vadi, ikinci kayıt
 
-Bu kağanlığın kurulduğu vadi, atlasın kaynak katmanında bir metinle
+Bu kağanlığın kurulduğu vadi, korpusun kaynak katmanında bir metinle
 temsil edilir.[^k2] Önceki düzenin taş kaydı aynı bölgededir ve iki dönem
 arasındaki karşılaştırma bu yüzden mümkündür.
 
@@ -89,7 +89,7 @@ Karşılaştırmanın gösterdiği şey bir süreklilik değil bir tercih farkı
 sayar;[^k2] bu kağanlık ise komşuyla kurduğu ilişkiyi gelirin kaynağı hâline
 getirmiştir.[^k1]
 
-Atlas iki tutumdan birini doğru saymaz. Bir bozkır düzeninin yerleşik komşuyla
+Korpus iki tutumdan birini doğru saymaz. Bir bozkır düzeninin yerleşik komşuyla
 ilişkisini kesmesi de ona bağlanması da savunulabilir; ikisinin de bedeli
 kayıtlıdır ve ayrı kanıtlar gerektirir.[^k1][^k2]
 
@@ -111,7 +111,7 @@ bölümü güneybatıya, vahalar kuşağına yerleşmiştir.
 ## Din değişiminin devlet kararı olması
 
 Bu kağanlığın en çok kaydedilen özelliği, yönetimin bir dini devlet kararıyla
-benimsemesidir.[^k1][^k4] Kararın kendisi, atlasın başka dosyalarında da
+benimsemesidir.[^k1][^k4] Kararın kendisi, korpusun başka dosyalarında da
 karşılaşılan bir olguya örnektir: inanç değişimi her zaman aşağıdan yukarı
 işlemez.
 
@@ -119,9 +119,9 @@ Yukarıdan alınan bir kararın iki yönlü sonucu vardır. Yönetim, seçtiği 
 çevresinin yazı, hukuk ve muhasebe bilgisini de devralır;[^k3] aynı seçim,
 bu çevrenin dışındaki nüfusla arasına bir mesafe koyar.
 
-Atlas bu ikili etkiyi kaydeder ve bir değerlendirme yapmaz.[^k1] Bir yönetimin
-inanç tercihi ne yalnızca siyasi bir hesap ne de yalnızca bir inanç meselesi
-sayılabilir; ikisi de savunulabilir ve ayrı kanıtlar gerektirir.
+Bir yönetimin inanç tercihi ne
+yalnızca siyasi bir hesap ne de yalnızca bir inanç meselesi sayılabilir; ikisi de
+savunulabilir ve ayrı kanıtlar gerektirir.[^k1]
 
 ## Yazı ve metin bırakma
 
@@ -134,7 +134,7 @@ Metin bırakmanın kendisi bir yerleşiklik göstergesidir. Elyazması üretimi
 kâğıt, mürekkep, atölye ve sürekli bir okur çevresi gerektirir;[^k3] hiçbiri
 hareket hâlindeki bir düzende kolayca kurulmaz.
 
-Bu, atlasın bozkır düzenleri hakkındaki kayıt boşluğunu da açıklar. Bozkır
+Bu, korpusun bozkır düzenleri hakkındaki kayıt boşluğunu da açıklar. Bozkır
 düzenleri az yazdıkları için değil, yazdıklarını taşıyacak kurumları geç
 kurdukları için az metin bırakmışlardır;[^k2][^k3] taşa yazılan istisnadır ve
 bu yüzden değerlidir.
@@ -145,8 +145,7 @@ Kağanlığın güneydeki yerleşik komşuyla ilişkisi askerî olduğu kadar
 ticariydi.[^k1][^k4] Kağanlık komşusuna asker desteği verdi ve karşılığında
 düzenli bir mal akışı sağladı.
 
-Bu ilişki biçimi, atlasın [Bozkır imparatorluğu](/kavram/bozkir-imparatorlugu/)
-dosyasında tanımlanan yapının somut bir örneğidir. Bozkır düzeni, yerleşik
+Bu ilişki biçimi, [Bozkır imparatorluğu](/kavram/bozkir-imparatorlugu/) incelemesinde tanımlanan yapının somut bir örneğidir. Bozkır düzeni, yerleşik
 komşunun ürettiğini üretmez; ona erişimi denetler ya da onunla değişir.[^k1]
 
 Değişimin şartlarının kayıtlı olması, ilişkinin tek taraflı olmadığını
@@ -155,34 +154,33 @@ bağımlı olması ayrı şeylerdir ve kaynaklar burada ikincisini kaydeder.
 
 ## Kaynak durumu
 
-Bu dosya dört kaynağa dayanır ve ikisi birincildir.[^k2][^k3] Birincil
+Bu inceleme dört kaynağa dayanır ve ikisi birincildir.[^k2][^k3] Birincil
 metinlerden biri önceki düzenin taş kaydı, öteki bölgeden çıkan elyazması
 metinlerin bir derlemesidir.
 
 İkinci birincil kaynağın katalog kaydında yazar alanı boştur; eser adı ve
-yayın yılı kayıtlıdır ve başlık yazarın adını taşır.[^k3] Atlas bu eksikliği
+yayın yılı kayıtlıdır ve başlık yazarın adını taşır.[^k3] Korpus bu eksikliği
 künyede gizlemez, burada beyan eder.
 
-Kağanlığın kendi dilinde ve kendi döneminden bir yönetim belgesi bu dosya
+Kağanlığın kendi dilinde ve kendi döneminden bir yönetim belgesi bu inceleme
 yazıldığında bulunamamıştır. Bu bir kısıttır: dosyadaki siyasi bilgilerin
 tamamı ya sonraki derlemelerden ya da komşu kayıtlardan gelir.[^k1][^k4]
 
-## Bu dosyanın kapsamadıkları
-
+## Açıkta kalan sorular
 Vahalar kuşağına yerleşen sonraki siyasi birimler burada işlenmez;[^k1] ayrı
-dosyalar gerektirir ve bu dosya yazıldığında atlasta bulunmuyorlardı.
+dosyalar gerektirir ve bu inceleme yazıldığında korpusta bulunmuyorlardı.
 
 Elyazması külliyatının dil ve yazı özellikleri, çeviri faaliyeti ve bu
 faaliyetin kaynak dilleri de kapsam dışıdır.[^k3] Bunlar bölgenin kaynak
 katmanı genişledikçe ayrıca ele alınabilir.
 
 Kağanlığın iç siyasi tarihi, hanedan çekişmeleri ve kağan listesi burada
-verilmez.[^k1][^k4] Atlasın aktör dosyaları bir düzenin nasıl işlediğini
+verilmez.[^k1][^k4] Korpusun aktör dosyaları bir düzenin nasıl işlediğini
 anlatır; olay sırasını değil.
 
 ## Bir düzenin iki kez kurulması
 
-Bu kağanlığın tarihi, atlasın aktör dosyalarında seyrek karşılaşılan bir
+Bu kağanlığın tarihi, korpusun aktör dosyalarında seyrek karşılaşılan bir
 yapıya sahiptir: düzen bir kez bozkırda, bir kez de dağılmadan sonra vahalar
 kuşağında kurulur.[^k1][^k4] İkinci kuruluş, birincisinin devamı sayılabilir
 mi sorusu açıktır.
@@ -191,9 +189,9 @@ Süreklilik iddiasının dayanağı adın, dilin ve yazının taşınmış olmas
 Kopuş iddiasının dayanağı ise siyasi biçimin, geçim kaynağının ve komşuluk
 ilişkilerinin tamamen değişmiş olmasıdır.[^k1]
 
-Atlas iki iddiadan birini benimsemez ve bu dosyayı ilk kuruluşa ayırır.
+Korpus iki iddiadan birini benimsemez ve bu incelemeyi ilk kuruluşa ayırır.
 Künyedeki tarihler bozkır düzenini kapsar; sonraki yerleşik düzen ayrı bir
-dosya gerektirir ve bu dosya yazıldığında atlasta bulunmuyordu.[^k1][^k4]
+dosya gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu.[^k1][^k4]
 
 ## Ölçek sorunu
 
@@ -205,7 +203,7 @@ Rakip kaydında bir düzen iki yönde çarpıtılabilir. Tehdidin büyüklüğü
 alınan önlemin gerekçesini oluşturduğu için abartılabilir; alınan yenilgi,
 kaydı tutanın itibarını koruduğu için küçültülebilir.[^k4]
 
-Atlas bu yüzden bu dosyada bir nüfus ya da ordu sayısı vermez. Sayıların nasıl
+Korpus bu yüzden bu incelemede bir nüfus ya da ordu sayısı vermez. Sayıların nasıl
 okunacağı sorusu
 [Tarihsel sayılar nasıl okunur](/tartisma/tarihsel-sayilar-nasil-okunur/)
 dosyasında ayrıca ele alınır.[^k1]
@@ -216,49 +214,48 @@ Kağanlığın denetlediği kuşak, doğu ile batı arasındaki kara ticaretinin
 geçtiği yerdedir.[^k1][^k4] Bu konum, gelirin üretimden değil geçişten
 alınması anlamına gelir.
 
-Geçiş gelirine dayanan düzenlerin ortak iki özelliği vardır ve atlas bunları
+Geçiş gelirine dayanan düzenlerin ortak iki özelliği vardır ve korpus bunları
 başka bölgelerde de kaydeder: yolların güvenliği doğrudan bir maliye
 meselesidir, ve ticaretin yön değiştirmesi siyasi gücü doğrudan
 zayıflatır.[^k1]
 
-Aynı yapı, atlasın Batı Afrika ve Doğu Afrika dosyalarında da görülür.
+Aynı yapı, korpusun Batı Afrika ve Doğu Afrika dosyalarında da görülür.
 Farklı kıtalarda, birbirinden habersiz kurulmuş düzenlerin aynı konum
-mantığını paylaşması, atlasın karşılaştırmalı okumaya açtığı yerlerden
+mantığını paylaşması, korpusun karşılaştırmalı okumaya açtığı yerlerden
 biridir.[^k4]
 
 ## Yazının siyasi işlevi
 
 Bu düzenin bıraktığı metinlerin bir bölümü dinî, bir bölümü idaridir.[^k3]
-İkinci grup, atlas açısından daha belirleyicidir: idari kayıt, bir yönetimin
+İkinci grup, korpus açısından daha belirleyicidir: idari kayıt, bir yönetimin
 kendi işleyişini yazıya bağladığının kanıtıdır.
 
 Sözlü aktarıma dayanan bir yönetimde bilgi, onu taşıyan kişiyle birlikte
 kaybolur. Yazılı kayda geçen bir yönetimde ise bilgi kişiden ayrılır ve
 görev, onu devralan kişi tarafından sürdürülebilir.[^k3]
 
-Bu ayrım, atlasın [Bürokrasi](/kavram/burokrasi/) dosyasında kavram düzeyinde
+Bu ayrım, [Bürokrasi](/kavram/burokrasi/) incelemesinde kavram düzeyinde
 ele alınır. Burada somut hâli şudur: bir bozkır düzeninin yazılı idari kayıt
 tutmaya başlaması, yerleşikliğe geçişin en ölçülebilir göstergesidir.[^k1][^k3]
 
-## Atlastaki yeri
-
-Bu dosya, atlasın Orta Asya aktör katmanındaki yedinci dosyadır ve bölgenin
-en ince katmanlarından birini genişletir.[^k1] Bölge, atlasın etiket
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun Orta Asya aktör katmanındaki yedinci dosyadır ve bölgenin
+en ince katmanlarından birini genişletir.[^k1] Bölge, korpusun etiket
 dağılımında uzun süre en az dosya taşıyan bölge oldu.
 
-Dosyanın seçilme gerekçesi kapsamdan çok bağlantıdır. Bu düzen, atlasta zaten
+Dosyanın seçilme gerekçesi kapsamdan çok bağlantıdır. Bu düzen, korpusta zaten
 bulunan üç dosyayı birbirine bağlar: önceki bozkır düzenini, güneydeki
 yerleşik komşuyu ve bölgenin kendi taş kaydını.[^k1][^k2]
 
-Bir dosyanın değeri yalnızca anlattığı konuyla ölçülmez. Atlasta bir dosya,
+Bir dosyanın değeri yalnızca anlattığı konuyla ölçülmez. Korpusta bir dosya,
 kurduğu bağlarla da iş görür; birbirine değmeyen dosyalardan oluşan bir
-derleme atlas değil listedir.[^k4]
+derleme korpus değil listedir.[^k4]
 
 ## Bir bölgenin kendi kaydına bağlanması
 
-Bu dosya, atlasın Orta Asya çalışmasında yeni bir aşamayı işaretler. Bölgenin
+Bu inceleme, korpusun Orta Asya çalışmasında yeni bir aşamayı işaretler. Bölgenin
 aktör dosyaları uzun süre yalnızca giriş kapısı ve ansiklopedi maddelerine
-bağlanabiliyordu;[^k1][^k4] bu dosya, bölgenin kendi taş kaydına ve kendi
+bağlanabiliyordu;[^k1][^k4] bu inceleme, bölgenin kendi taş kaydına ve kendi
 elyazmalarına bağlanan ilk aktör dosyasıdır.[^k2][^k3]
 
 Fark yalnızca künyede değildir. Bir bölge dışarıdan yazılmış kayıtlarla
@@ -270,8 +267,7 @@ düzeltmez. Kendi kaydı da bir yönetimin kaydıdır ve kendi taraflılığın�
 taşır;[^k2] iki kaydın yan yana durması, tek bir kayda güvenmekten daha
 sağlam bir zemin verir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Önceki bozkır düzeni için [Göktürk Kağanlığı](/aktor/gokturk-kaganligi/) ve o
 düzenin kendi kaydı için [Orhon Yazıtları](/kaynak/orhon-yazitlari/) dosyaları
 okunmalıdır.

@@ -15,14 +15,15 @@ eksen: [felsefi, siyasi, kulturel]
 guven_geneli: yaygin
 etiketler: [kant, aydinlanma, ozerklik, ebedi-baris, kozmopolit-hukuk, irk-tartismasi]
 ilgili:
-  - donem-10
   - dusunur-hobbes
-  - dusunur-locke
-  - dusunur-montesquieu
   - dusunur-hegel
-  - dusunur-mill
   - kaynak-kant-elestiri
   - tartisma-aydinlanmanin-sinirlari
+baglam:
+  - donem-10
+  - dusunur-locke
+  - dusunur-montesquieu
+  - dusunur-mill
   - kavram-kamusal-alan
   - kavram-hukuk-devleti
   - kavram-vatandaslik

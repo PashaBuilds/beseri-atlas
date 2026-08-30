@@ -14,6 +14,7 @@ guven_geneli: yaygin
 etiketler: [ittifak-sistemi, casus-foederis, antlasma-metni, kolektif-savunma, gizli-diplomasi]
 ilgili:
   - olay-1914-temmuz-krizi
+baglam:
   - tartisma-1914-savas-sorumlulugu
   - kavram-seferberlik
   - kavram-caydiricilik

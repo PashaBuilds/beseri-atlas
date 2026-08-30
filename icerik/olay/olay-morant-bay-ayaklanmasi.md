@@ -14,8 +14,9 @@ eksen: [siyasi, askeri, ekonomik, felsefi]
 guven_geneli: yaygin
 etiketler: [morant-bay, jamaika, sikiyonetim, somurgecilik, hukuk-devleti, mill]
 ilgili:
-  - donem-12
   - dusunur-mill
+baglam:
+  - donem-12
   - aktor-britanya-imparatorlugu
   - kavram-emperyalizm
   - kavram-hukuk-devleti

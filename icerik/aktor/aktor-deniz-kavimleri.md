@@ -15,6 +15,7 @@ guven_geneli: tartismali
 etiketler: [deniz-kavimleri, tunc-cagi-cokusu, medinet-habu, gec-tunc-cagi, kimlik-tartismasi]
 ilgili:
   - olay-tunc-cagi-cokusu
+baglam:
   - tartisma-tunc-cagi-cokusunun-nedeni
   - tartisma-iklim-ve-cokus
   - aktor-misir-yeni-kralligi

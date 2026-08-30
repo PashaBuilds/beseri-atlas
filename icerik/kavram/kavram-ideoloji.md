@@ -12,12 +12,13 @@ eksen: [felsefi, siyasi, kulturel]
 guven_geneli: tartismali
 etiketler: [ideoloji, destutt-de-tracy, yanlis-bilinc, bilgi-sosyolojisi, mannheim, ideoloji-elestirisi]
 ilgili:
+  - tartisma-soguk-savasin-baslangici
+baglam:
   - dusunur-marx
   - dusunur-foucault
   - kavram-hegemonya
   - kavram-tarihsel-materyalizm
   - kavram-tarih-yazimi
-  - tartisma-soguk-savasin-baslangici
   - tartisma-fransiz-devrimi-yorumlari
 okuma_onerisi: []
 kaynaklar:

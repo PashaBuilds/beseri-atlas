@@ -14,7 +14,8 @@ bolge: [kuresel, amerika]
 eksen: [ekonomik, siyasi, kulturel]
 guven_geneli: tartismali
 etiketler: [modernlesme-kurami, kalkinma, kalkis, soguk-savas, gelenek-modern-ikiligi, kalip-degiskenler]
-ilgili:
+ilgili: []
+baglam:
   - kavram-bagimlilik-kurami
   - kavram-dunya-sistemi
   - kavram-ticaret-hadleri

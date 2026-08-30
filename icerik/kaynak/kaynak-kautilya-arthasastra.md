@@ -15,8 +15,9 @@ ilgili:
   - aktor-maurya-imparatorlugu
   - kavram-burokrasi
   - kavram-mesruiyet
-  - kavram-anakronizm
   - tartisma-buyuk-adam-kurami
+baglam:
+  - kavram-anakronizm
 okuma_onerisi: []
 yazar: "Kautilya"
 eser_adi: "Arthaşastra"
@@ -91,15 +92,13 @@ etkiler.
 sürede katmanlanmış bir derleme mi olduğu çözülmüş değildir; künyedeki ad ve
 tarih geleneksel atfı yansıtır, bir tespit değildir.]{harita=tartisma-buyuk-adam-kurami}
 
-Atlas bu dosyada künyeye geleneksel atfın tarihini yazar ve itirazı burada
-kaydeder. Tercih, metnin ilişkilendirildiği hanedan dosyasıyla tutarlılık
-içindir; doğruluk iddiası taşımaz.[^k3] Metne yapılacak her atıfta hangi
-tarihlendirmenin varsayıldığı belirtilmelidir.
+Metne yapılacak her atıfta hangi
+tarihlendirmenin varsayıldığı belirtilmelidir.[^k3]
 
 ## Tek yazar sorunu
 
 Metnin tek bir kişi tarafından mı yazıldığı, yoksa katmanlı biçimde mi
-oluştuğu ayrıca tartışılır.[^k3] Bu, atlasın başka kaynak dosyalarında da
+oluştuğu ayrıca tartışılır.[^k3] Bu, korpusun başka kaynak dosyalarında da
 karşılaşılan bir durumdur; [Sima Qian — Shiji](/kaynak/sima-qian-shiji/)
 dosyasında benzer bir kayıt vardır.
 
@@ -107,41 +106,38 @@ Yazarlık sorusunun pratik sonucu şudur. Metin tek elden çıktıysa tutarlı b
 öğreti olarak okunabilir; katmanlıysa, içindeki gerilimler yazarın çelişkisi
 değil farklı dönemlerin izidir.[^k3]
 
-Atlas iki okumadan birini benimsemez ve metni yazarına değil kendisine
-bağlar.[^k1][^k2] Kişi için ayrı bir dosya bulunur; bu dosya metni kaydeder.
+Kişi için ayrı bir dosya bulunur; bu
+dosya metni kaydeder.[^k1][^k2]
 
-## Neden atlasta
+## Neden korpusta
 
-Atlasın kaynak katmanı, bu dosya yazılana kadar ağırlıklı olarak Avrupa ve
-Doğu Asya metinlerinden oluşuyordu.[^k1] Güney Asya'dan tek bir kaynak
-dosyası yoktu; oysa bölgenin aktör ve düşünür katmanlarında dosyalar
-bulunuyordu.
+Güney Asya'dan tek bir kaynak
+dosyası yoktu; oysa bölgenin aktör ve düşünür katmanlarında dosyalar bulunuyordu.[^k1]
 
 Bu eksiğin sonucu görünmez değildi. Bir bölge hakkında dosya bulunması ile o
-bölgenin kendi metninin atlasa girmesi ayrı şeylerdir; ikincisi olmadan
+bölgenin kendi metninin korpusa girmesi ayrı şeylerdir; ikincisi olmadan
 bölge, başkalarının anlattığı bir konu olarak kalır.[^k2]
 
 Metnin seçilme gerekçesi, hem özgün dilde hem çeviride erişilebilir
-olmasıdır.[^k1][^k2] Atlasın kaynak dosyalarında aranan asgari koşul budur:
+olmasıdır.[^k1][^k2] Korpusun kaynak dosyalarında aranan asgari koşul budur:
 okurun iki tıklamayla metnin kendisine ulaşabilmesi.
 
 ## Kapsam dışı
 
-Bu dosya metnin ne olduğunu ve hangi tartışmalara girdiğini kaydeder;
+Bu inceleme metnin ne olduğunu ve hangi tartışmalara girdiğini kaydeder;
 bölümlerinin içeriğini özetlemez.[^k1] Kitap kitap özet çıkarmak, kaynak
 dosyalarının işi değildir.
 
 Metnin sonraki Güney Asya siyasi düşüncesindeki yeri, yeniden keşfi ve
 çağdaş yorumları da burada işlenmez.[^k3] Her biri ayrı dosya gerektirir ve
-bu dosya yazıldığında atlasta bulunmuyorlardı.
+bu inceleme yazıldığında korpusta bulunmuyorlardı.
 
 Metnin bugünkü yönetim kuramlarıyla karşılaştırılması ayrıca kapsam
 dışıdır. Böyle bir karşılaştırma, [Anakronizm](/kavram/anakronizm/) dosyasında
 kaydedilen riski taşır: bugünün kavramları geçmişin metnine
 yüklenir.[^k3]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Metnin atfedildiği kişi için [Kautilya](/dusunur/kautilya/), metnin
 ilişkilendirildiği siyasi birim için
 [Maurya İmparatorluğu](/aktor/maurya-imparatorlugu/) dosyaları okunmalıdır.

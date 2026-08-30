@@ -118,16 +118,16 @@ onarim_turu: 0
 Bu haritanın çıkış noktası kaynağın bölüm yapısıdır: kurama ve varsayımlarına
 ayrı alt başlıklar, ardından yanıtlar için ayrı bir bölüm.[^k1]
 
-## Soru neden atlası ilgilendiriyor
+## Soru neden korpusu ilgilendiriyor
 
-Bu harita, atlasın bütün aktör ve düşünür dosyalarını ilgilendirir.[^k1]
+Bu harita, korpusun bütün aktör ve düşünür dosyalarını ilgilendirir.[^k1]
 Bir dosyanın neyi anlatacağı, bu sorunun cevabına göre değişir.
 
 Cevap bireyse, dosya kararları anlatır.[^k2] Cevap koşullarsa, dosya
 kararı mümkün kılan yapıyı anlatır.
 
-Atlas bu tercihi sessizce yapmaz.[^k3] Dosyanın sonunda kendi tercihini
-ve gerekçesini açıkça yazar.
+Dosyanın sonunda kendi tercihini ve
+gerekçesini açıkça yazar.[^k3]
 
 ## Birinci konum: birey belirleyicidir
 
@@ -138,8 +138,8 @@ biyografilerinden oluştuğunu savunur.
 Sav yalnızca bir gözlem değildir.[^k1] Aynı zamanda bir okuma
 önerisidir: tarihe bakarken önce olağanüstü kişileri arayın.
 
-Atlas bu öneriyi ayrıca kaydeder.[^k3] Bir yöntem önerisi, doğru ya da
-yanlış olmadan önce, neyin kayda geçeceğini belirler.
+Bir yöntem önerisi, doğru ya da yanlış olmadan
+önce, neyin kayda geçeceğini belirler.[^k3]
 
 ## Kurucu metnin kendi seçimi
 
@@ -150,8 +150,8 @@ hükümdar.
 Bölümleme bir kanıt değil bir çerçevedir.[^k1] Çerçeve seçildikten
 sonra, örnekler çerçeveye uyanlar arasından seçilir.
 
-Atlas bu döngüyü ayrıca kaydeder.[^k3] Bir kuramın örnekleri, kuram
-tarafından seçilmişse, örneklerin çokluğu kuramı doğrulamaz.
+Bir kuramın örnekleri, kuram tarafından
+seçilmişse, örneklerin çokluğu kuramı doğrulamaz.[^k3]
 
 ## İkinci konum: koşullar bireyi üretir
 
@@ -162,8 +162,8 @@ Eleştiriye göre kişi, doğduğu toplumun ürünüdür.[^k3] Onu yetiştiren
 kurumlar, bilgi birikimi ve toplumsal koşullar olmadan aynı kişi aynı
 şeyi yapamazdı.
 
-Atlas eleştirinin biçimini önemli sayar.[^k1] Eleştiri, kuramı yanlış
-olduğu için değil, açıklamayı çok erken durdurduğu için reddeder.
+Eleştiri, kuramı yanlış olduğu
+için değil, açıklamayı çok erken durdurduğu için reddeder.[^k1]
 
 ## Eleştirinin kendi sınırı
 
@@ -173,8 +173,8 @@ yaşayan herkes aynı kararı vermez.
 Koşullar bir aralık belirler.[^k3] Aralığın içinde hangi noktanın
 seçileceği, koşullardan çıkarılamaz.
 
-Atlas bu boşluğu ayrıca kaydeder.[^k2] Bir açıklamanın gerekli koşulu
-göstermesi, yeterli koşulu gösterdiği anlamına gelmez.
+Bir açıklamanın gerekli koşulu
+göstermesi, yeterli koşulu gösterdiği anlamına gelmez.[^k2]
 
 ## Üçüncü konum: birey yine de fark yaratır
 
@@ -198,17 +198,16 @@ katman toplumsal ve iktisadi yapılar, en hızlı katman olaylardır.
 Açıklama, yavaş katmanlarda aranır.[^k4] Yüzeydeki hareket, altındaki
 yapının izinden okunur.
 
-## Atlasın kendi biçimi
+## Korpusun kendi biçimi
 
-Atlasın biçimi dördüncü konuma yakın durur.[^k1] Her olay dosyası bir
-dönem dosyasına bağlanır ve düşünür dosyaları kişilerin görüşleri
-yerine metinlerinin bugünkü durumunu anlatır.
+Her olay dosyası bir dönem dosyasına bağlanır ve
+düşünür dosyaları kişilerin görüşleri yerine metinlerinin bugünkü durumunu anlatır.[^k1]
 
 Bu bir tercihtir ve gerekçesi pratiktir.[^k4] Kayıtların yapısı,
 kişilerin niyetinden daha güvenilir biçimde izlenebilir.
 
-Atlas tercihi savunuya çevirmez.[^k3] Bir biçim tercihi, o tercihin
-doğru olduğunu göstermez.
+Bir biçim tercihi, o tercihin doğru
+olduğunu göstermez.[^k3]
 
 ## Ölçüt önerisi
 
@@ -218,9 +217,8 @@ Birincisi, olay o kişi olmasaydı da olur muydu.
 İkincisi, olay o kişi olmasaydı aynı biçimde ve aynı zamanda mı
 olurdu.[^k3] İki soru farklı cevaplar verebilir.
 
-Atlas bu ayrımı kullanışlı sayar.[^k2] Bir kişinin sonucu değil
-zamanlamayı ve biçimi değiştirdiği durumlar, iki uç konumun ikisine de
-girmez.
+Bir kişinin sonucu değil zamanlamayı ve biçimi
+değiştirdiği durumlar, iki uç konumun ikisine de girmez.[^k2]
 
 ## Konumun sonuca etkisi
 
@@ -231,9 +229,8 @@ belirleyicidir.
 Bu, kuramı kısmen kurtarır.[^k3] Kuram her yerde değil, belirli kurumsal
 düzenlerde geçerli olabilir.
 
-Atlas bu koşullu okumayı ayrıca kaydeder.[^k2] Bir açıklamanın hangi
-kurumsal düzende geçerli olduğu, açıklamanın kendisi kadar
-belirtilmelidir.
+Bir açıklamanın hangi kurumsal düzende
+geçerli olduğu, açıklamanın kendisi kadar belirtilmelidir.[^k2]
 
 ## Kaydın etkisi
 
@@ -244,11 +241,11 @@ Bir hükümdarın kararı adıyla kaydedilir; bir bölgenin toprak
 verimindeki yavaş değişim kaydedilmez.[^k4] Kaynakların yapısı, birinci
 konumu kendiliğinden destekler.
 
-Atlas bu yanlılığı ayrıca kaydeder.[^k3] Bir açıklamanın kayıtta daha
-çok görünmesi, kaynakların yapısından da gelebilir ve tek başına o
-açıklama lehine kanıt sayılmaz.
+Bir açıklamanın kayıtta daha çok
+görünmesi, kaynakların yapısından da gelebilir ve tek başına o açıklama lehine kanıt
+sayılmaz.[^k3]
 
-::tartismali[Dört konum aynı olayı dört ayrı düzeyde açıklar. Atlas hiçbirini benimsemez; dördüncüsünü kendi biçimi olarak kullandığını ise açıkça yazar.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Dört konum aynı olayı dört ayrı düzeyde açıklar. Korpus hiçbirini benimsemez; dördüncüsünü kendi biçimi olarak kullandığını ise açıkça yazar.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 ## Kuram nereden çıktı
 
@@ -259,8 +256,8 @@ Metin bu geleneği hem sürdürdü hem de gerekçelendirdi.[^k1] Yapılan
 şeyi bir yöntem tercihi olarak adlandırmak, o tercihi tartışılabilir
 hâle getirdi.
 
-Atlas bu etkiyi ayrıca kaydeder.[^k3] Örtük bir uygulamayı açıkça
-savunmak, onu ilk kez eleştirilebilir kılar.
+Örtük bir uygulamayı açıkça savunmak, onu
+ilk kez eleştirilebilir kılar.[^k3]
 
 ## Eleştirinin geldiği yer
 
@@ -271,9 +268,8 @@ kuruluyordu.
 Yeni alan, kendi varlık gerekçesini bu eleştiriyle kurdu.[^k1] Toplumsal
 koşullar bireyi açıklıyorsa, toplumu incelemek gerekir.
 
-Atlas bu bağı ayrıca kaydeder.[^k4] Bir eleştirinin, eleştireni kuran
-bir alanla birlikte gelmesi, eleştiriyi geçersiz kılmaz ama
-konumlandırır.
+Bir eleştirinin, eleştireni kuran bir
+alanla birlikte gelmesi, eleştiriyi geçersiz kılmaz ama konumlandırır.[^k4]
 
 ## Kolektif özneler nereye girer
 
@@ -284,8 +280,8 @@ Tartışma çoğu zaman birey ile yapı arasında kurulur.[^k2] Arada bir
 Bu düzey ne tek bir kişidir ne de anonim bir yapıdır.[^k1] Kararı
 alan bir kuruldur ve kurulun bileşimi izlenebilir.
 
-Atlas bu düzeyi ayrı tutar.[^k3] Bir kararın kurul kararı olması, hem
-bireye hem yapıya indirgenemez bir açıklama düzeyi üretir.
+Bir kararın kurul kararı olması, hem
+bireye hem yapıya indirgenemez bir açıklama düzeyi üretir.[^k3]
 
 ## Yerine geçebilirlik ölçütü
 
@@ -296,9 +292,8 @@ bakılarak tahmin edilebilir.
 Aday sayısı çoksa, kişi büyük ölçüde değiştirilebilirdir.[^k3] Aday
 sayısı azsa, kişinin özellikleri sonuca daha çok yansır.
 
-Atlas bu ölçütü başka dosyalarında da kullanır.[^k2] Özerkliğin ölçüsü,
-elde bulunan seçeneklerin sayısıdır; aynı mantık kişiler için de
-işler.
+Özerkliğin ölçüsü, elde bulunan
+seçeneklerin sayısıdır; aynı mantık kişiler için de işler.[^k2]
 
 ## Aynı olayın iki anlatısı
 
@@ -309,9 +304,8 @@ Bir seferin kazanılması, komutanın kararlarıyla da anlatılabilir,
 karşı tarafın iç bölünmesiyle de.[^k4] İki anlatı aynı sonuca varır ve
 aynı kayıtlara dayanır.
 
-Atlas bu durumu ayrıca kaydeder.[^k3] İki açıklamanın da aynı veriyle
-uyumlu olması, veriyi çoğaltmanın aralarında seçim yapmaya
-yetmeyeceğini gösterir.
+İki açıklamanın da aynı veriyle uyumlu
+olması, veriyi çoğaltmanın aralarında seçim yapmaya yetmeyeceğini gösterir.[^k3]
 
 ## Ne zaman ayrışırlar
 
@@ -321,20 +315,18 @@ benzer koşullarda benzer sonuçlar bekler.
 Birey merkezli açıklama böyle bir beklenti üretmez.[^k1] Her durum,
 oradaki kişiye göre farklı sonuçlanabilir.
 
-Atlas ayrışma noktasını sınav noktası sayar.[^k4] İki açıklamanın
-farklı beklenti ürettiği yerler, tartışmanın ilerleyebileceği tek
-yerlerdir.
+İki açıklamanın farklı beklenti
+ürettiği yerler, tartışmanın ilerleyebileceği tek yerlerdir.[^k4]
 
 ## Biyografinin yeri
 
-Atlasın düşünür dosyaları biyografi yazmaz.[^k1] Bu, birinci konumun
-reddi değildir.
+Bu, birinci konumun reddi değildir.[^k1]
 
 Gerekçe erişilebilirliktir.[^k3] Bir kişinin ne düşündüğü metninden
 izlenebilir; ne hissettiği ve neden öyle karar verdiği izlenemez.
 
-Atlas bu sınırı her dosyada beyan eder.[^k2] Metne dayanan bir iddia,
-niyete dayanan bir iddiadan farklı bir kanıt düzeyindedir.
+Metne dayanan bir iddia, niyete
+dayanan bir iddiadan farklı bir kanıt düzeyindedir.[^k2]
 
 ## Kuramın bugünkü hâli
 
@@ -344,8 +336,8 @@ karşılık popüler anlatıda ve yönetim yazınında canlıdır.
 İki alan arasındaki bu fark ayrıca kaydedilmelidir.[^k4] Bir kuramın
 terk edilmesi, dolaşımdan kalkması anlamına gelmez.
 
-Atlas bu farkı bir veri sayar.[^k3] Hangi açıklamanın hangi alanda
-canlı kaldığı, o alanın kendi ihtiyaçları hakkında bilgi verir.
+Hangi açıklamanın hangi alanda canlı kaldığı, o
+alanın kendi ihtiyaçları hakkında bilgi verir.[^k3]
 
 ## Kuramın siyasi kullanımı
 
@@ -355,8 +347,8 @@ kişilere olağanüstü yetki verilmesi bu çerçeveyle gerekçelendirildi.
 Bu kullanım kuramı yanlış kılmaz.[^k1] Ancak kuramın hangi sonuçlara
 elverişli olduğunu gösterir.
 
-Atlas ikisini ayrı tutar.[^k3] Bir kuramın kötüye kullanılabilir olması,
-o kuramın yanlış olduğunun kanıtı değildir.
+Bir kuramın kötüye kullanılabilir olması, o
+kuramın yanlış olduğunun kanıtı değildir.[^k3]
 
 ## Kuramın kapsadığı kişi tipi
 
@@ -368,8 +360,8 @@ Bu seçim kuramın kendisinden değil, kurucunun erişebildiği
 kayıttan gelir.[^k1] Aynı dönemde başka bölgelerde de olağanüstü
 sayılan kişiler vardı.
 
-Atlas bu daralmayı ayrıca kaydeder.[^k3] Bir kuramın örneklem havuzu,
-kuramın iddiasının kapsamını da fiilen daraltır.
+Bir kuramın örneklem havuzu, kuramın
+iddiasının kapsamını da fiilen daraltır.[^k3]
 
 ## Kim büyük sayılır sorusu
 
@@ -379,9 +371,8 @@ sonuca bakılarak belirlenir.
 Bu, döngüsel bir tanım riski taşır.[^k3] Başarılı olan büyük sayılır,
 büyük olduğu için başarılı olduğu söylenir.
 
-Atlas bu döngüyü kuramın en zayıf noktası olarak kaydeder.[^k2]
-Öncesinden uygulanabilir bir ölçüt vermeyen bir kavram, açıklama değil
-adlandırma yapar.
+Öncesinden uygulanabilir bir ölçüt
+vermeyen bir kavram, açıklama değil adlandırma yapar.[^k2]
 
 ## Yenilgi tarafı
 
@@ -392,8 +383,8 @@ Bu, kuramın sınanmasını engeller.[^k4] Aynı nitelikleri taşıyıp
 başarısız olan kişiler örneklem dışında kaldığı için, niteliklerin
 sonuca etkisi ölçülemez.
 
-Atlas bu seçme yanlılığını ayrıca kaydeder.[^k3] Yalnızca kazananların
-incelendiği bir örneklem, kazanmanın nedenini gösteremez.
+Yalnızca kazananların incelendiği
+bir örneklem, kazanmanın nedenini gösteremez.[^k3]
 
 ## Karşılaştırma imkânı
 
@@ -402,9 +393,9 @@ ilerleyebilir.[^k2] Ardışık hükümdarlar, aynı görevdeki farklı
 valiler ve aynı kurumun farklı dönemleri böyle bir karşılaştırma
 sağlar.
 
-Atlasın dosyalarında bu tür karşılaştırmalar vardır.[^k1] Aynı
-imparatorluk altında farklı bölgelerde farklı düzenler kurulması,
-kişi ile yapının payını ayırmak için elverişli bir zemindir.
+Aynı imparatorluk altında farklı bölgelerde
+farklı düzenler kurulması, kişi ile yapının payını ayırmak için elverişli bir
+zemindir.[^k1]
 
 Karşılaştırma yine de kesin sonuç vermez.[^k4] Ardışık kişiler aynı
 koşullarda görev yapmaz; koşullar da onlarla birlikte değişir.
@@ -418,14 +409,12 @@ Aynı yüzyılın nüfus eğrisi için kişi neredeyse hiç
 belirleyici değildir.[^k4] İki iddia birbiriyle çelişmez; farklı
 ölçeklerde ölçülmüş iki ayrı şeydir.
 
-Atlas bu yüzden ölçeği her iddiada belirtir.[^k3] Ölçek verilmeden
-kurulan bir birey-yapı tartışması, iki tarafın farklı şeyler
-konuşmasıyla sonuçlanır.
+Ölçek verilmeden kurulan bir
+birey-yapı tartışması, iki tarafın farklı şeyler konuşmasıyla sonuçlanır.[^k3]
 
 ## Dosyanın bıraktığı yer
 
-Atlas bu haritada bir sonuca varmaz.[^k1] Varsa, hakemlik etmiş
-olurdu.
+Varsa, hakemlik etmiş olurdu.[^k1]
 
 Bıraktığı şey bir çalışma kuralıdır.[^k3] Her aktör ve düşünür
 dosyasında, kişinin yerine geçebilecek kaç aday bulunduğu
@@ -436,17 +425,16 @@ sorunun kaydı, sorulmamış bir sorudan daha kullanışlıdır.
 
 ## Bu harita hakem değildir
 
-Atlas dört pozisyondan hiçbirini benimsemez.[^k1] Dördüncüsünü kendi
-biçimi olarak kullandığını açıkça yazsa bile.
+Dördüncüsünü kendi biçimi olarak
+kullandığını açıkça yazsa bile.[^k1]
 
 Bir biçim tercihi, o tercihin doğru olduğunu göstermez.[^k3] Bu ayrım
-atlasın hakemlik etmeme ilkesinin gereğidir.
+korpusun hakemlik etmeme ilkesinin gereğidir.
 
 Dosyanın verdiği tek şey bir soru çiftidir.[^k2] Olay o kişi olmasaydı da
 olur muydu; olsaydı aynı biçimde ve aynı zamanda mı olurdu.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Dördüncü konumun kavramı için
 [Longue durée](/kavram/longue-duree/), savunucusu için
 [Fernand Braudel](/dusunur/braudel/) dosyaları okunmalıdır.[^k4]

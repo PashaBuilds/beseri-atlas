@@ -46,7 +46,7 @@ onarim_turu: 0
 ---
 
 Savaş 28 Temmuz 1914 - 11 Kasım 1918 arasında, yani dört yıl üç ay on dört gün
-sürdü; sonuç İtilaf Devletleri'nin zaferi olarak kaydedilir.[^k1] Bu dosya,
+sürdü; sonuç İtilaf Devletleri'nin zaferi olarak kaydedilir.[^k1] Bu inceleme,
 savaşın seyrini değil **kaydının ölçü birimlerini** ele alır.
 
 ## Ölü sayısı bir aralıktır
@@ -55,7 +55,7 @@ Kaynak zayiatı 15-22 milyon ölü (askerî ve sivil) olarak verir ve ayrıntı 
 ayrı bir kayda yönlendirir.[^k1]
 
 Alt sınır ile üst sınır arasındaki yedi milyonluk fark,[^k1] bir sayının
-belirsizliğinin de bir bilgi olduğunu gösterir: atlas burada ortalama almaz,
+belirsizliğinin de bir bilgi olduğunu gösterir: korpus burada ortalama almaz,
 aralığı olduğu gibi taşır. Sayıların nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
 haritasında ele alınıyor.
@@ -107,11 +107,10 @@ göre değiştiğini gösterir.
 
 Uzun dönemli seride dünya nüfusu 1914 için yaklaşık 1,82 milyar, 1918 için
 yaklaşık 1,87 milyardır.[^k3] Kaynağın verdiği 15-22 milyonluk ölü aralığı[^k1]
-bu nüfusun içinde yer alır; atlas bu iki kaydı tek bir oranda birleştirmez,
+bu nüfusun içinde yer alır; korpus bu iki kaydı tek bir oranda birleştirmez,
 çünkü kaynakta böyle bir oran verilmemiştir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Savaşın nedenleri, yıl yıl seyri, teknoloji, diplomasi ve iktisadi etkiler
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1] Savaşın açılışına giden haftalar

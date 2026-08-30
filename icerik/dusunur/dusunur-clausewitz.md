@@ -57,7 +57,7 @@ onarim_turu: 0
 
 Kaynak onu 1 Temmuz 1780 - 16 Kasım 1831 arasında yaşamış bir Prusya ordusu
 subayı ve askerî kuramcı olarak kaydeder; en dikkate değer eseri *Vom Kriege*'nin
-ölümünde tamamlanmamış olduğunu yazar.[^k1] Bu dosya, kuramını değil **eserin
+ölümünde tamamlanmamış olduğunu yazar.[^k1] Bu inceleme, kuramını değil **eserin
 kim tarafından tamamlandığını** ele alır.
 
 ## Eseri dul eşi yayıma hazırladı
@@ -69,7 +69,7 @@ yayımladığını ve giriş bölümünü yazdığını kaydeder; yazarın metin
 yayımladığı ve Ocak 1836'da öldüğü yazılır.[^k1]
 
 Bir kuram metninin bugünkü biçiminin, yazarından sonra bir başkasının düzenleme
-kararlarıyla oluşması,[^k1] atlasın yazar alanını neden tek bir ad olarak
+kararlarıyla oluşması,[^k1] korpusun yazar alanını neden tek bir ad olarak
 görmediğinin ikinci örneğidir; birincisi
 [Sima Qian](/dusunur/sima-qian/) dosyasındadır.
 
@@ -91,7 +91,7 @@ vurguladığını yazar; savaşta çeşitli etkenlerin çoklu etkileşimlerine d
 çektiğini ve savaş sisi altında ortaya çıkan beklenmedik gelişmelerin uyanık
 komutanlardan hızlı kararlar gerektirdiğini kaydettiğini belirtir.[^k1]
 
-Kaynağın bir terimi bugünkü karşılığıyla birlikte vermesi,[^k1] atlasın terim
+Kaynağın bir terimi bugünkü karşılığıyla birlikte vermesi,[^k1] korpusun terim
 kilidi kapısının kaynaklarda da bir karşılığı olduğunu gösterir.
 
 ## İçinde görev aldığı savaşlar
@@ -106,13 +106,12 @@ Bir önceki yüzyılın savaş ilkeleri üzerine yazan yazarı için tutulan kay
 katkı alanları arasında savaş ilkelerini de sayar.[^k2] O yazar
 [Machiavelli](/dusunur/machiavelli/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Savaş kuramının içeriği, siyaset-savaş ilişkisi, hayatının seyri ve sonraki
 alımlanması burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
 bölümler olarak işler.[^k1]
 
 ## Eserine bağ
 
-Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Savas Uzerine*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+Bu inceleme düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Savas Uzerine*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
 verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

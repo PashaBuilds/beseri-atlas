@@ -70,7 +70,7 @@ alır.[^k1] Arayış başarısızlıkla biter.
 Yolculuk bir dostlukla başlar ve bir yasla sürer.[^k2] Ölümün
 kaçınılmazlığı, arayışın sonunda kabul edilir.
 
-Bu dosyanın konusu anlatının yorumu değildir.[^k3] Metnin elimize
+Bu incelemenin konusu anlatının yorumu değildir.[^k3] Metnin elimize
 hangi yolla ve hangi hâlde ulaştığıdır.
 
 ## Tek bir asıl yok
@@ -81,9 +81,9 @@ uzunlukta ve farklı dillerde sürümleri vardır.
 Sürümler arasında bölüm farkları bulunur.[^k2] Bazı bölümler yalnızca
 geç sürümlerde görünür.
 
-Atlas bu durumu ayrıca kaydeder.[^k3] **Bir metnin "aslı" sorusu her
-zaman anlamlı değildir; bazı metinler bir asıldan değil, bir kopyalama
-geleneğinden gelir.**
+**Bir metnin "aslı" sorusu her zaman
+anlamlı değildir; bazı metinler bir asıldan değil, bir kopyalama geleneğinden
+gelir.**[^k3]
 
 ## Nasıl bulundu
 
@@ -93,8 +93,8 @@ farklı yerleşimlerde, farklı kazı dönemlerinde ortaya çıktı.
 Bu, kanıt türünü belirler.[^k2] Metin hem bir eser hem bir kazı
 buluntusudur.
 
-Atlas iki niteliği ayrı ayrı kullanır.[^k3] Eser olarak içeriği,
-buluntu olarak bulunduğu yer ve katman bilgi verir.
+Eser olarak içeriği, buluntu olarak bulunduğu yer
+ve katman bilgi verir.[^k3]
 
 ## Eksikliğin yapısı
 
@@ -104,8 +104,8 @@ tam değildir.
 Boşluklar, başka nüshalarla karşılaştırılarak doldurulur.[^k2] Bu
 doldurma bir yorumdur ve çeviriden çeviriye değişir.
 
-Atlas bu yüzden metne atıf yaparken çeviriyi belirtir.[^k1] Aynı
-satır, iki çeviride farklı okunabilir.
+Aynı satır, iki çeviride farklı
+okunabilir.[^k1]
 
 ## Yeni tabletlerin etkisi
 
@@ -115,8 +115,8 @@ tablet parçaları yayımlandı.
 Yeni parçalar bilinen bölümleri uzattı.[^k3] Bir örnekte, uzun süre
 kısa bilinen bir bölüm belirgin biçimde genişledi.
 
-Atlas bunu bir uyarı olarak kaydeder.[^k1] Kazıdan gelen bir metnin
-tam olduğu hiçbir zaman kesin değildir.
+Kazıdan gelen bir metnin tam
+olduğu hiçbir zaman kesin değildir.[^k1]
 
 ## Kopyalamanın kendisi bir veri
 
@@ -126,8 +126,8 @@ Kopyalama, yazıcı eğitiminin bir parçasıydı.
 Bu, metnin okunma nedenini de gösterir.[^k2] Anlatı yalnızca
 eğlence için değil, yazı öğretiminde de kullanılıyordu.
 
-Atlas bu izi kaydeder.[^k1] Bir metnin kaç kez kopyalandığı, o metnin
-hangi kurumda tutulduğunu gösterir.
+Bir metnin kaç kez kopyalandığı, o metnin
+hangi kurumda tutulduğunu gösterir.[^k1]
 
 ## Hükümdarlık iddiası
 
@@ -137,8 +137,8 @@ yaptırdığı surları anarak başlar ve biter.
 Bu çerçeve bir iddia taşır.[^k1] Kalıcılık, ölümsüzlükle değil, geride
 bırakılan yapıyla sağlanır.
 
-Atlas bu iddiayı meşruiyet dosyasına bağlar.[^k3] Yapı yaptırmak,
-hükümdarlığın gerekçesi olarak sunulan tekrar eden bir ölçüttür.
+Yapı yaptırmak, hükümdarlığın gerekçesi
+olarak sunulan tekrar eden bir ölçüttür.[^k3]
 
 ## Diğer metinlerle ilişkisi
 
@@ -148,8 +148,8 @@ Büyük tufan anlatısı bunlardan biridir.
 Benzerlik, doğrudan bir aktarımın kanıtı sayılmaz.[^k2] Ortak bir
 anlatı havuzu da aynı benzerliği üretir.
 
-Atlas bu ayrımı korur.[^k3] Benzerlik bir ilişkiyi gösterir; ilişkinin
-yönünü göstermez.
+Benzerlik bir ilişkiyi gösterir; ilişkinin yönünü
+göstermez.[^k3]
 
 ## Yeniden keşfin tarihi
 
@@ -159,11 +159,10 @@ Metin, on dokuzuncu yüzyılda okunabilir hâle geldi.[^k2] Çivi yazısının
 Okunma tarihi, yazılma tarihinden yaklaşık üç bin yıl sonradır.[^k3]
 Arada metin dolaşımda değildi.
 
-Atlas bu aralığı ayrıca kaydeder.[^k1] Bir metnin etkisi, yazıldığı
-dönemde değil okunabilir hâle geldiği dönemde de ölçülmelidir.
+Bir metnin etkisi, yazıldığı dönemde değil
+okunabilir hâle geldiği dönemde de ölçülmelidir.[^k1]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, anlatının edebî çözümlemesini yapmaz.[^k1] Bu, ayrı bir
 alandır.
 
@@ -173,8 +172,7 @@ tarihi ayrı bir dosyayı hak eder.
 Künyedeki çeviri erken bir çeviridir.[^k3] Sonraki yayınlarda eklenen
 parçaları içermez ve bu kısıt burada beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Kuruluş anlatılarının nasıl okunacağı için
 [Kuruluş anlatısı](/kavram/kurulus-anlatisi/) dosyası
 okunmalıdır.[^k1]

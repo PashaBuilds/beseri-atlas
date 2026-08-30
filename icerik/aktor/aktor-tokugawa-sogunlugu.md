@@ -19,6 +19,7 @@ ilgili:
   - olay-meiji-restorasyonu
   - aktor-japonya-imparatorlugu
   - aktor-ryukyu-kralligi
+baglam:
   - aktor-hollanda-doguhindistan-sirketi
   - aktor-qing-hanedani
   - aktor-goryeo-choson

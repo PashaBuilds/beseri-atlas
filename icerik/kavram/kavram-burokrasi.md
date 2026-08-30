@@ -64,7 +64,7 @@ ayrı alt başlıklarda tutar.[^k1]
 ## Kavramın adı modern, örnekleri değildir
 
 Kaynağın ilk bölümünü köken bilgisi ve kullanıma ayırması ve tarihi antikçağla
-başlatması,[^k1] atlasın şu kuralının dayanağıdır: bu atlasta bürokrasi terimi,
+başlatması,[^k1] korpusun şu kuralının dayanağıdır: bu korpusta bürokrasi terimi,
 antik dönem dosyalarında geriye dönük bir adlandırma olduğu belirtilerek
 kullanılır. Aynı sorun
 [Anakronizm](/kavram/anakronizm/) dosyasında ele alınıyor.
@@ -81,7 +81,7 @@ Kaynak, kuramlar başlığı altında Karl Marx ve Leon Troçki gibi adları ayr
 başlıklar olarak tutar.[^k1] Bunlardan biri için tutulan ayrı kayıt, o düşünürü
 1818-1883 arasına yerleştirir.[^k2]
 
-Bir yönetim biçiminin kuramlarının kişi adlarıyla bölümlenmesi,[^k1][^k2] atlasın
+Bir yönetim biçiminin kuramlarının kişi adlarıyla bölümlenmesi,[^k1][^k2] korpusun
 kavram dosyalarında neden düşünür bağlantısı tuttuğunun dayanağıdır; o düşünür
 [Karl Marx](/dusunur/marx/) dosyasında ele alınıyor.
 
@@ -102,8 +102,8 @@ görev ve göreve ehliyetle atanma.
 Altısı bir arada ender bulunur.[^k2] Gerçek düzenler bu ölçütlerin
 bazılarını karşılar.
 
-Atlas bu dereceli okumayı yeğler.[^k3] İdeal tip, varlık yokluk değil
-mesafe ölçmeye yarar.
+İdeal tip, varlık yokluk değil mesafe
+ölçmeye yarar.[^k3]
 
 ## Kayıt kapasitesiyle bağı
 
@@ -114,8 +114,8 @@ Bu, kavramı yazının yaygınlığına doğrudan
 bağlar.[^k2] Kayıt kapasitesi düşük bir düzen, bürokratik
 olamaz.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Bürokrasinin sınırı, o düzenin
-kayıt tutma kapasitesinin sınırıdır.
+Bürokrasinin sınırı, o düzenin kayıt
+tutma kapasitesinin sınırıdır.[^k3]
 
 ## Görevin soydan geçmemesi
 
@@ -123,12 +123,11 @@ En belirleyici ölçüt budur.[^k1] Görev soydan geçtiğinde, yetkinin
 kaynağı da kural olmaktan çıkar.
 
 Sınav düzenleri bu ölçütü karşılamak için
-kuruldu.[^k2] Atlasın Doğu Asya dosyalarında bu düzen
+kuruldu.[^k2] Korpusun Doğu Asya dosyalarında bu düzen
 kayıtlıdır.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] İdari görevlerin soydan geçmemesi,
-hanedan verasetinden ayrı ve daha erken kurumsallaşabilen bir
-düzendir.
+İdari görevlerin soydan geçmemesi,
+hanedan verasetinden ayrı ve daha erken kurumsallaşabilen bir düzendir.[^k3]
 
 ## Denetim mekanizması
 
@@ -136,12 +135,11 @@ Bürokrasi kendi kendini denetlemez.[^k1] Bir dış denetim katmanı
 gerekir.
 
 Tarihsel düzenlerde bu, ikinci bir görevli kanalıyla
-sağlandı.[^k2] Atlasın birçok dosyasında aynı düzenleme
+sağlandı.[^k2] Korpusun birçok dosyasında aynı düzenleme
 kayıtlıdır.
 
-Atlas bu tekrarı ayrıca kaydeder.[^k3] Bir merkezin taşradan iki
-bağımsız kanaldan bilgi alması, denetim kapasitesinin ortak
-ölçüsüdür.
+Bir merkezin taşradan iki bağımsız
+kanaldan bilgi alması, denetim kapasitesinin ortak ölçüsüdür.[^k3]
 
 ## Bürokrasinin kendi çıkarı
 
@@ -152,10 +150,9 @@ Bu, kurumun kurulma amacına aykırı işleyebilir.[^k2] Kural,
 uygulanmaktan çok korunacak bir konum hâline
 gelebilir.
 
-Atlas bu örüntüyü ayrıca kaydeder.[^k3] Aynı bulgu atlasın askerî
-kadro dosyalarında da kayıtlıdır: bağımsız olsun diye kurulan bir
-kurum, bağımsızlığını kuranına karşı da
-kullanabilir.
+Aynı bulgu korpusun askerî kadro
+dosyalarında da kayıtlıdır: bağımsız olsun diye kurulan bir kurum, bağımsızlığını
+kuranına karşı da kullanabilir.[^k3]
 
 ## Ölçek koşulu
 
@@ -166,9 +163,8 @@ olabilir.
 Ölçek büyüdükçe alternatifi kalmaz.[^k2] Kişiye bağlı bir düzen
 belirli bir büyüklükten sonra işlemez.
 
-Atlas bu eşiği ayrıca kaydeder.[^k3] Bir yönetim biçiminin
-yeterliliği, yönettiği alanın büyüklüğüne göre
-değişir.
+Bir yönetim biçiminin yeterliliği, yönettiği
+alanın büyüklüğüne göre değişir.[^k3]
 
 ## Ölçmenin yolu
 
@@ -180,14 +176,12 @@ Uzun görev süreleri kurala bağlılığı, sık azil kişiye bağlılığı
 gösterir.[^k2] İki gösterge zıt yönde
 okunur.
 
-Atlas bu göstergeleri ayrıca kaydeder.[^k3] Doğrudan ölçülemeyen bir
-kavram, karşılaştırılabilir dolaylı göstergelerle izlenebilir.
+Doğrudan ölçülemeyen bir kavram,
+karşılaştırılabilir dolaylı göstergelerle izlenebilir.[^k3]
 
-## Atlasta kullanımı
-
-Atlas kavramı bir övgü olarak kullanmaz.[^k1] Bürokratik bir düzen,
-patrimonyal bir düzenden zorunlu olarak iyi
-değildir.
+## Nasıl kullanılır?
+Bürokratik bir düzen, patrimonyal bir düzenden
+zorunlu olarak iyi değildir.[^k1]
 
 Kavram bir ölçüttür.[^k2] Altı ölçütün her düzen için ayrı ayrı
 cevabı verilir.
@@ -206,7 +200,6 @@ Bu biçimler sonraki okur için doğrudan bir
 kanıttır.[^k2] Standartlaşmış bir belge dizisi, arkasındaki kurumun
 düzenliliğini gösterir.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kavramın tanımı, ülke ülke tarihler ve kuramların içeriği burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]

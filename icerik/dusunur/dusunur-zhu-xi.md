@@ -20,8 +20,9 @@ ilgili:
   - aktor-song-hanedani
   - kavram-burokrasi
   - kavram-tarih-yazimi
-  - kavram-anakronizm
   - dusunur-wang-yangming
+baglam:
+  - kavram-anakronizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -55,13 +56,13 @@ onarim_turu: 0
 
 Zhu Xi, kendisinden bin beş yüz yıl önce yazılmış metinleri yeniden
 düzenleyen, yorumlayan ve bir öğretim programına çeviren düşünürdür.[^k1]
-Atlasın bölge şemasında Doğu Asya'da durur.
+Korpusun bölge şemasında Doğu Asya'da durur.
 
 Dosyanın ayırt edici yanı, düşünürün özgün bir öğreti kurmak yerine mevcut
 bir geleneği yeniden inşa etmiş olmasıdır.[^k1][^k2] Kendisi de bunu bir
 yenilik değil bir onarım olarak sunar.
 
-Bu iddia, atlasın kaydettiği bir tekniği gösterir.[^k1] Yeniyi eski adına
+Bu iddia, incelenen bir tekniği gösterir.[^k1] Yeniyi eski adına
 sunmak, yeniliğin kabul görme ihtimalini artırır ve aynı anda değişimin
 ölçüsünü gizler.
 
@@ -82,15 +83,14 @@ sınanır.[^k3] Bu geçiş, dosyanın merkezindeki sonucu doğurur.
 
 Düşünürün seçimi ve yorumu, sonraki yüzyıllarda devlet görevlisi
 seçme sınavlarının resmî içeriği hâline geldi.[^k1][^k3] Bir yorumun resmî
-doğru sayılması, atlasın seyrek kaydettiği bir durumdur.
+doğru sayılması, korpusun seyrek kaydettiği bir durumdur.
 
 Sonucu ikili çalışır. Bir yandan yorum, ülke çapında yayılır, öğretilir ve
 korunur; öte yandan alternatif yorumlar kariyer yolunun dışında
 kalır.[^k3]
 
-Atlas bu ikili etkiyi kaydeder ve bir değerlendirme yapmaz.[^k1] Bir
-yorumun resmîleşmesi ne doğruluğunun kanıtıdır ne de yozlaşmasının; ikisi
-de savunulabilir.
+Bir yorumun resmîleşmesi ne
+doğruluğunun kanıtıdır ne de yozlaşmasının; ikisi de savunulabilir.[^k1]
 
 ## Yorumun görünmezleşmesi
 
@@ -98,7 +98,7 @@ Resmîleşen bir yorumun en önemli özelliği, zamanla yorum olduğunun
 unutulmasıdır.[^k1] Öğrenci metni değil, metnin belirli bir okunuşunu
 öğrenir ve ikisini ayırt etmez.
 
-Bu, atlasın [Anakronizm](/kavram/anakronizm/) dosyasında ele alınan sorunun
+Bu, [Anakronizm](/kavram/anakronizm/) incelemesinde ele alınan sorunun
 bir biçimidir.[^k1] Sonraki bir okuma, önceki metnin kendi anlamı sanılır.
 
 Ayrımın pratik sonucu şudur: bugün geleneğin klasik metni sayılan şeye
@@ -114,16 +114,16 @@ maddesini gösterir.
 Ayrımın işlevi, dünyanın hem düzenli hem değişken olmasını aynı çerçevede
 açıklayabilmektir.[^k1][^k2] Düzen ilkededir; değişkenlik maddededir.
 
-Atlas bu ayrımın felsefi ayrıntısına girmez.[^k2] Kaydedilen şey, bir ahlak
-öğretisinin bir evren tasarımıyla birleştirilmiş olmasıdır; bu birleştirme,
-öğretiye önceki hâlinde bulunmayan bir kapsam kazandırdı.
+Kaydedilen şey, bir ahlak öğretisinin bir evren
+tasarımıyla birleştirilmiş olmasıdır; bu birleştirme, öğretiye önceki hâlinde bulunmayan
+bir kapsam kazandırdı.[^k2]
 
 ## Konuşma derlemesi
 
 Düşünürün en hacimli metni, kendi kaleminden değil öğrencileriyle
 konuşmalarının derlemesinden oluşur.[^k2] Metin soru-cevap biçimindedir.
 
-Bu biçim, atlasın kaynak katmanı açısından ayrıca kaydedilmelidir.[^k2] Bir
+Bu biçim, korpusun kaynak katmanı açısından ayrıca kaydedilmelidir.[^k2] Bir
 öğretinin sistematik açıklaması ile aynı öğretinin öğrencilere anlatılışı
 farklı şeylerdir; ikincisi, öğretinin nerede zorlandığını gösterir.
 
@@ -140,7 +140,7 @@ Yayılmanın biçimi kaydedilmelidir. Yorum, fetihle değil metin ve
 kurum aktarımıyla taşındı;[^k3] taşıyan şey sınav sistemi ve okul
 düzeninin kendisiydi.
 
-Bu, atlasın kaydettiği yayılma yolları arasında ayrı bir kategoridir.[^k1]
+Bu yayılma yolları arasında ayrı bir kategoridir.[^k1]
 Bir düşüncenin kurumla birlikte taşınması, tek başına taşınmasından farklı
 sonuçlar verir.
 
@@ -149,12 +149,12 @@ sonuçlar verir.
 Aynı yorum, taşındığı her yerde aynı biçimde benimsenmedi.[^k3] Bazı
 bölgelerde eleştirilerek, bazılarında seçmeci biçimde alındı.
 
-Bu fark, atlasın önemli bir gözlemini destekler.[^k3] Bir öğretinin
+Bu fark, korpusun önemli bir gözlemini destekler.[^k3] Bir öğretinin
 yayılması onun her yerde aynı şeyi ifade ettiği anlamına gelmez; alan
 taraf, aldığını kendi sorunlarına göre yeniden düzenler.
 
-Atlas bu yüzden yayılmayı tek bir merkezden çevreye akış olarak
-anlatmaz.[^k1] Her alımlanma noktası, ayrı bir dosya konusudur.
+Her alımlanma noktası, ayrı bir dosya
+konusudur.[^k1]
 
 ## Karşı çıkanlar
 
@@ -162,7 +162,7 @@ Yorumun resmîleşmesi, kendi içinden itirazlar da doğurdu.[^k1][^k3] Sonraki
 yüzyıllarda aynı gelenek içinden farklı bir yorum çizgisi geliştirildi.
 
 İtirazın ana noktası, bilgi ile eylem arasındaki ilişkiydi.[^k1] Bu tartışma
-atlasta ayrı bir dosya gerektirir ve burada yalnızca varlığı kaydedilir.
+korpusta ayrı bir dosya gerektirir ve burada yalnızca varlığı kaydedilir.
 
 İtirazın varlığı, resmîleşmenin tartışmayı bitirmediğini gösterir.[^k3] Bir
 yorumun devlet tarafından benimsenmesi, alternatifleri ortadan kaldırmaz;
@@ -170,15 +170,14 @@ onları kurum dışına iter.
 
 ## Metin ile yorumun ayrılması
 
-Atlas bu dosyada bir yöntem tercihi uygular.[^k2] Geleneğin temel metinleri
-için ayrı bir kavram dosyası, bu düşünürün yorumu için ayrı bir düşünür
-dosyası tutulur.
+Geleneğin temel metinleri için
+ayrı bir kavram dosyası, bu düşünürün yorumu için ayrı bir düşünür dosyası tutulur.[^k2]
 
 Ayrımın gerekçesi şudur: ikisi aynı dosyada birleştirilirse, yorumun
-metne sonradan eklendiği görünmez olur.[^k1] Atlasın kaçındığı tam olarak
+metne sonradan eklendiği görünmez olur.[^k1] Korpusun kaçındığı tam olarak
 budur.
 
-Aynı ilke atlasın öteki dosyalarında da uygulanır.[^k2] Bir metin ile o
+Aynı ilke korpusun öteki dosyalarında da uygulanır.[^k2] Bir metin ile o
 metnin yerleşmiş okunuşu arasındaki fark, ancak ikisi ayrı ayrı
 kaydedildiğinde ölçülebilir.
 
@@ -192,13 +191,12 @@ Yorumun resmî konum kazanması, düşünürün ölümünden sonra
 gerçekleşti.[^k1][^k3] Bu ayrım korunmalıdır: bir düşünürün resmî öğreti
 sahibi olması, hayattayken devlet desteği gördüğü anlamına gelmez.
 
-Atlas bu ayrımı genel olarak kaydeder.[^k3] Bir öğretinin kurumsallaşması,
-kurucusunun değil sonraki yönetimlerin kararıdır ve gerekçeleri
-farklıdır.
+Bir öğretinin kurumsallaşması, kurucusunun değil
+sonraki yönetimlerin kararıdır ve gerekçeleri farklıdır.[^k3]
 
 ## Kaynak durumu
 
-Bu dosya üç kaynağa dayanır ve biri birincildir.[^k2] Birincil kaynak, Çince
+Bu inceleme üç kaynağa dayanır ve biri birincildir.[^k2] Birincil kaynak, Çince
 özgün metni sunar ve düşünürün kendi ifadelerine erişim sağlar.
 
 Metnin Türkçe ya da yaygın bir Batı diline yapılmış tam çevirisi bu
@@ -214,17 +212,15 @@ gelir; özgün metin künyede yalnızca erişim noktası olarak durur.
 Düşünürün merkezî terimleri, başka dillere tam karşılıkla
 çevrilemez.[^k1][^k2] Kullanılan karşılıkların hepsi bir yorum taşır.
 
-Atlas bu yüzden bu dosyada terimleri Türkçe karşılıklarıyla
-sabitlemez.[^k2] Terimlerin ne anlama geldiği, metnin kendisinden ve çeviri
-karşılaştırmasından okunmalıdır.
+Terimlerin ne anlama geldiği, metnin kendisinden
+ve çeviri karşılaştırmasından okunmalıdır.[^k2]
 
-Bu tutum atlasın Doğu Asya dosyalarında genel kuraldır.[^k1] Bir terimi
+Bu tutum korpusun Doğu Asya dosyalarında genel kuraldır.[^k1] Bir terimi
 sabit bir karşılıkla çevirmek, o karşılığın taşıdığı çağrışımları da
 metne yüklemek olur.
 
-## Atlastaki yeri
-
-Bu dosya, atlasın Doğu Asya düşünür katmanındaki üçüncü dosyadır.[^k1]
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun Doğu Asya düşünür katmanındaki üçüncü dosyadır.[^k1]
 Önceki iki dosya, bu düşünürün yeniden düzenlediği geleneğin kurucusu ve
 karşıtı için yazılmıştı.
 
@@ -232,19 +228,17 @@ karşıtı için yazılmıştı.
 taşındığı ve nerede değiştiği görünür.[^k2] Tek bir dosya bu süreyi
 anlatamaz.
 
-Bu, atlasın düşünür katmanını kurma biçimidir.[^k3] Dosyalar tek tek
+Bu, korpusun düşünür katmanını kurma biçimidir.[^k3] Dosyalar tek tek
 kişileri değil, kişiler arasındaki aktarım zincirini kaydeder.
 
-## Bu dosyanın kapsamadıkları
-
+## Açıkta kalan sorular
 Düşünürün doğa felsefesi, kozmoloji görüşleri ve dönemin bilim
 tartışmalarındaki yeri burada işlenmez.[^k1] Ayrı bir dosya gerektirir.
 
-Sınav sisteminin kendi tarihi de kapsam dışıdır.[^k3] Bu, atlasın
-[Bürokrasi](/kavram/burokrasi/) dosyasıyla kesişir ve orada ele alınır.
+Sınav sisteminin kendi tarihi de kapsam dışıdır.[^k3] Bu, [Bürokrasi](/kavram/burokrasi/) incelemesiyle kesişir ve orada ele alınır.
 
-Sonraki yüzyıllardaki karşıt yorum çizgisi burada verilmez.[^k1] Bu dosya
-yazıldığında atlasta ayrı bir dosyası bulunmuyordu.
+Sonraki yüzyıllardaki karşıt yorum çizgisi burada verilmez.[^k1] Bu inceleme
+yazıldığında korpusta ayrı bir dosyası bulunmuyordu.
 
 ## Metin seçmenin kendisi bir iş
 
@@ -252,12 +246,11 @@ Bir gelenekten dört metin seçmek, o geleneğin geri kalanını ikinci sıraya
 düşürmek demektir.[^k1] Seçim işlemi, seçilenleri öne çıkardığı kadar
 seçilmeyenleri de belirler ve bu ikinci etki genellikle görünmez kalır.
 
-Atlas bu tür işlemleri ayrı ayrı kaydeder çünkü sonuçları yüzyıllar boyunca
-sürer.[^k2] Sonraki kuşaklar, seçilen metinleri geleneğin kendisi sanır;
-seçilmeyenler yalnızca uzman çevrelerde okunur ve zamanla dolaşımdan
-çıkar.
+Sonraki kuşaklar, seçilen metinleri
+geleneğin kendisi sanır; seçilmeyenler yalnızca uzman çevrelerde okunur ve zamanla
+dolaşımdan çıkar.[^k2]
 
-Aynı mekanizma atlasın öteki bölgelerinde de görülür.[^k3] Bir külliyatın
+Aynı mekanizma korpusun öteki bölgelerinde de görülür.[^k3] Bir külliyatın
 belirli bir bölümünün ders programına girmesi, geri kalanının kaybolmasının
 en yaygın sebeplerinden biridir; kayıp, yasaklamayla değil ilgisizlikle
 olur.
@@ -272,14 +265,13 @@ Bu ayrım küçük görünür ama sonucu belirleyicidir.[^k1] Anlamak için okum
 itirazı besler; doğru cevabı bulmak için okuma, itirazı maliyetli hâle
 getirir ve yorumun tartışılabilirliğini azaltır.
 
-Atlas bu bağı kaydeder ve bir değerlendirme yapmaz.[^k2] Bir öğretinin
-sınav yoluyla yayılması ne başarısının kanıtıdır ne de bozulmasının;
-ikisi de savunulabilir ve ayrı kanıtlar gerektirir. Kaydedilmesi gereken şey,
-sonucun her iki yönde de yüzyıllarca sürmüş olmasıdır: yorum hem korundu hem
-tartışılamaz hâle geldi ve ikisi aynı kurumun eseridir.[^k1]
+Bir öğretinin sınav yoluyla yayılması ne
+başarısının kanıtıdır ne de bozulmasının; ikisi de savunulabilir ve ayrı kanıtlar
+gerektirir.[^k2] Kaydedilmesi gereken şey, sonucun her iki yönde de yüzyıllarca sürmüş
+olmasıdır: yorum hem korundu hem tartışılamaz hâle geldi ve ikisi aynı kurumun
+eseridir.[^k1]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Yeniden düzenlediği gelenek için
 [Konfüçyüsçülük](/kavram/konfucyuscluk/), geleneğin kurucusu sayılan kişi
 için [Konfüçyüs](/dusunur/konfucyus/) dosyaları okunmalıdır.[^k1]

@@ -57,7 +57,7 @@ onarim_turu: 0
 
 Kaynak onu 1588-1679 arasında yaşamış, bugünkü ünü büyük ölçüde siyaset
 felsefesine dayanan ama geniş ilgi alanları olan bir düşünür olarak
-kaydeder; 4 Aralık 1679'da Hardwick Hall'da öldüğü yazılır.[^k1] Bu dosya,
+kaydeder; 4 Aralık 1679'da Hardwick Hall'da öldüğü yazılır.[^k1] Bu inceleme,
 öğretisini değil **metinlerinin baskıdan baskıya değişmesini** ele alır.
 
 ## Aynı eserin iki baskısı aynı metin değildir
@@ -67,7 +67,7 @@ Teslis ile Tanrı'nın doğası gibi tartışmalı konularla ilgili bazı öneml
 değişiklikler ve eklemeler bulunduğunu yazar; eserin ilk yayımının 1651 olduğu
 kaydedilir.[^k1]
 
-Aynı başlığın on yedi yıl arayla iki farklı içerikle çıkması,[^k1] atlasın kaynak
+Aynı başlığın on yedi yıl arayla iki farklı içerikle çıkması,[^k1] korpusun kaynak
 alanında neden yalnızca eser adını değil erişilen sürümü ve tarihi tuttuğunu
 gösterir: "Leviathan'da şöyle yazar" cümlesi, hangi baskı olduğu belirtilmeden
 eksiktir.
@@ -80,7 +80,7 @@ yazar; kralcı tarafla ilişkilendirildiğini ve siyaset felsefesinde mutlak
 egemenliği savunması nedeniyle cezalandırılmaktan korkmak için de sebebi
 olabileceğini kaydeder.[^k1]
 
-Bir düşünürün bulunduğu ülkenin bile bir siyasi olayla açıklanması,[^k1] atlasın
+Bir düşünürün bulunduğu ülkenin bile bir siyasi olayla açıklanması,[^k1] korpusun
 düşünür dosyalarını dönem dosyalarına neden bağladığını gösterir; ilgili olay
 [İngiliz İç Savaşı](/olay/ingiliz-ic-savasi/) dosyasında ele alınıyor.[^k2]
 
@@ -110,13 +110,12 @@ Bir önceki yüzyılın siyaset yazarı için tutulan kayıt, o kişinin kendisi
 saymamış göründüğünü yazar.[^k3] O yazar
 [Machiavelli](/dusunur/machiavelli/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Zihin ve dil kuramı, doğa durumu, egemenlik kuramı ve din görüşleri burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]
 
 ## Eserine bağ
 
-Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Leviathan*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+Bu inceleme düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Leviathan*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
 verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

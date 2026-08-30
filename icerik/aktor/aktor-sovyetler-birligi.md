@@ -21,8 +21,9 @@ ilgili:
   - aktor-varsova-pakti
   - olay-uzay-yarisi
   - olay-cernobil
-  - dusunur-carr
   - tartisma-soguk-savasin-baslangici
+baglam:
+  - dusunur-carr
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -48,7 +49,7 @@ denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-Bu dosya devleti iç tarihiyle değil, uluslararası sistemdeki **konumuyla** ele
+Bu inceleme devleti iç tarihiyle değil, uluslararası sistemdeki **konumuyla** ele
 alır: Soğuk Savaş, 1947 ile 1991 arasında ABD ile SSCB arasındaki jeopolitik
 rekabeti anlatır ve kırk dört yıl dokuz ay sürmüştür.[^k1]
 
@@ -93,13 +94,12 @@ sürdürüldüğü tezini destekler.
 
 Devletin varlığını sürdürdüğü dönemde dünya nüfusu 1945'te yaklaşık 2,38 milyar,
 1991'de yaklaşık 5,42 milyardı.[^k2] Kaynak bu toplamın ülke bazında dağılımını
-vermez; Sovyetler Birliği'nin kendi nüfusu bu dosyada verilmemektedir.
+vermez; Sovyetler Birliği'nin kendi nüfusu bu incelemede verilmemektedir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kaynak tabanı, rekabeti 1947–1991 arası jeopolitik çerçevede ele alan bir
 maddedir.[^k1] Devletin iç siyasi tarihi, planlı ekonomi deneyimi ve milliyetler
-politikası bu dosyada ayrı başlıklar altında ele alınmamıştır; bu bir kapsam
+politikası bu incelemede ayrı başlıklar altında ele alınmamıştır; bu bir kapsam
 sınırıdır ve burada beyan edilir.
 
 Dönemin bütününe dair çerçeve [1945–1991](/donem/14/) dosyasında ele alınıyor.

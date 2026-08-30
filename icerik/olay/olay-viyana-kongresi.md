@@ -49,7 +49,7 @@ Kongrenin ürünü tek bir antlaşma değil, bir doktrindir. Viyana Kongresi
 düzenlemesi, siyasi sınırların korunmasını, güç dengesini ve nüfuz alanlarına
 saygıyı vurgulayan ve Birinci Dünya Savaşı'nın patlak vermesine kadar Avrupa
 ulusları arasındaki dış politikaya yön veren uluslararası bir siyasi doktrin olan
-Avrupa Ahengi'ni doğurdu.[^k1] Bu dosya, o doktrinin **nasıl kurulduğunu** ele
+Avrupa Ahengi'ni doğurdu.[^k1] Bu inceleme, o doktrinin **nasıl kurulduğunu** ele
 alır.
 
 ## Kongre başlamadan alınan kararlar
@@ -112,8 +112,7 @@ Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyardır.[^k3] Dü
 kapsadığı Avrupa nüfusuna dair bir ölçüm kullanılan kaynaklarda bulunmadığı için
 bu toplam içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kongrenin müzakere süreci, toprak paylaşımının ayrıntıları, küçük devletlerin
 konumu ve kongreyle birlikte anılan diğer ittifak metinleri burada ayrı başlıklar
 altında ele alınmamıştır. Dönemin

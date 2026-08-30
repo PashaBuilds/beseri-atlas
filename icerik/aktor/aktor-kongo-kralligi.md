@@ -66,15 +66,14 @@ Devlet, on beşinci yüzyıl sonunda bir Avrupa devletiyle doğrudan
 ilişkiye girdi.[^k2] İlişki, elçi teatisi ve mektuplaşma biçiminde
 kuruldu.
 
-Bu dosyanın asıl konusu o kayıttır.[^k1] Krallığın hükümdarlarının
+Bu incelemenin asıl konusu o kayıttır.[^k1] Krallığın hükümdarlarının
 yazdırdığı mektuplar, Afrika'dan yazılmış diplomatik kaydın en erken
 örneklerindendir.
 
 ## Kaydın niteliği
 
-Atlasın kanıt dosyasında ölçülen kısıt burada kısmen aşılır.[^k2]
-Krallık hakkında bilinenlerin bir bölümü, krallığın kendi
-hükümdarlarının kaleminden gelir.
+Krallık hakkında bilinenlerin bir
+bölümü, krallığın kendi hükümdarlarının kaleminden gelir.[^k2]
 
 Bu, aynı yüzyıllardaki pek çok Afrika düzeninden farklıdır.[^k1]
 Çoğunda kayıt yalnızca dışarıdan gelir.
@@ -91,9 +90,8 @@ yazılmıştır.[^k2] Yazım işi, gelen din adamlarınca yürütülmüştür.
 Bu, kaydın aracısız olmadığı anlamına gelir.[^k1] Hükümdarın söylediği
 ile mektuba geçen arasında bir çeviri ve bir yazıcı bulunur.
 
-Atlas kaydı birincil sayar ve aracıyı ayrıca işaretler.[^k3] Bir
-belgenin kimin adına yazıldığı ile kimin eliyle yazıldığı ayrı iki
-bilgidir.
+Bir belgenin kimin adına yazıldığı ile kimin
+eliyle yazıldığı ayrı iki bilgidir.[^k3]
 
 ## Din değişimi
 
@@ -103,8 +101,8 @@ etti.[^k1] Kabul, bir fetih sonucu değil bir karar olarak gerçekleşti.
 Kararın gerekçesi tartışmalıdır.[^k2] Bir okumada inanç değişimi, başka
 bir okumada diplomatik ve teknolojik erişim arayışı öne çıkar.
 
-Atlas bir sonuca bağlanmaz.[^k3] İki gerekçe birbirini dışlamaz ve
-kaynaklar ikisini ayırmaya yetmez.
+İki gerekçe birbirini dışlamaz ve
+kaynaklar ikisini ayırmaya yetmez.[^k3]
 
 ## Diplomatik konum
 
@@ -140,7 +138,7 @@ boyunca bölgenin en belirleyici dış ilişkisi olarak kaldı.
 
 Belgenin varlığı, itirazın kendisinden bağımsız olarak da bilgi
 taşır.[^k3] Sürecin içinden ve karşı taraftan bir kayıt bulunması,
-atlasın olağan kaynak durumunun dışındadır.
+korpusun olağan kaynak durumunun dışındadır.
 
 ## Silah ve bağımlılık
 
@@ -148,7 +146,7 @@ Ticaretin karşılığında gelen mallar arasında ateşli silahlar
 vardı.[^k1] Silahlar, hem savunma hem yeni esir edinme kapasitesini
 artırıyordu.
 
-Bu, atlasın silahlı ticaret dosyasında tanımlanan döngünün bir
+Bu, korpusun silahlı ticaret dosyasında tanımlanan döngünün bir
 örneğidir.[^k2] Silah edinmek için esir gerekir, esir edinmek için silah
 gerekir.
 
@@ -163,8 +161,8 @@ aldı.[^k1] Hükümdar öldü ve merkezî otorite dağıldı.
 Sonraki dönemde krallık adı sürdü ama tek merkezli bir yapı
 kurulamadı.[^k2] Rakip hanedan kolları ayrı bölgeleri yönetti.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Bir adın sürmesi, o adın
-gösterdiği yapının sürdüğü anlamına gelmez.
+Bir adın sürmesi, o adın gösterdiği yapının sürdüğü
+anlamına gelmez.[^k3]
 
 ## Uzun bölünme dönemi
 
@@ -174,8 +172,8 @@ savaşlar, esir alma pratiğini daha da yaygınlaştırdı.
 İç savaş ile köle ticareti arasında karşılıklı bir besleme
 ilişkisi vardır.[^k2] Savaş esir üretir, esir talebi savaşı sürdürür.
 
-Atlas bu ilişkiyi tek yönlü kurmaz.[^k1] Hangisinin önce geldiği, her
-örnekte ayrıca sorulmalıdır.
+Hangisinin önce geldiği, her örnekte
+ayrıca sorulmalıdır.[^k1]
 
 ## Dinî hareketler
 
@@ -183,7 +181,7 @@ Bölünme döneminde, krallığın birleştirilmesini hedefleyen dinî temelli
 hareketler ortaya çıktı.[^k2] Hareketler, gelen inanç ile yerel
 gelenekleri birleştiren biçimler geliştirdi.
 
-Bu, atlasın Kuşan dosyasında kaydedilen ayrımın bir başka
+Bu, korpusun Kuşan dosyasında kaydedilen ayrımın bir başka
 örneğidir.[^k1] Unsurların yan yana durması ile birleşmesi ayrı
 süreçlerdir.
 
@@ -199,7 +197,7 @@ Son, tek bir olayla değil uzun bir aşınmayla geldi.[^k1] Yetki, üç
 yüzyıl boyunca kademeli olarak dağıldı.
 
 Dosya sömürge dönemini kapsamaz.[^k2] Ayrı bir dosya gerektirir ve bu
-dosya yazıldığında atlasta bulunmuyordu.
+dosya yazıldığında korpusta bulunmuyordu.
 
 ## İç örgütlenme
 
@@ -234,46 +232,44 @@ sürdürülmek zorunda kalır.
 Bu örnekte başka bir araç bulunamadı.[^k1] Askerî üstünlük de aynı
 dönemde aşındı.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Ticaretin bir düzeni çözme biçimi,
-çoğu zaman doğrudan bir istila değil, merkezin araçlarının teker teker
-işlevsizleşmesidir.
+Ticaretin bir düzeni çözme biçimi, çoğu
+zaman doğrudan bir istila değil, merkezin araçlarının teker teker
+işlevsizleşmesidir.[^k3]
 
 ## Nüfus etkisi
 
-Köle ticaretinin bölgedeki nüfus üzerindeki etkisi, atlasta sayısal
+Köle ticaretinin bölgedeki nüfus üzerindeki etkisi, korpusta sayısal
 olarak verilemez.[^k1] Dönem için güvenilir nüfus sayımı yoktur.
 
 Bilinen, etkinin nicel değil yapısal olduğudur.[^k2] Ticaret, belirli
 yaş ve cinsiyet gruplarını hedefliyordu ve bu, geride kalan nüfusun
 bileşimini değiştirir.
 
-Atlas sayı vermek yerine mekanizmayı yazar.[^k3] Ölçülemeyen bir etki
-için sayı üretmek, atlasın kaçındığı işlemdir.
+Ölçülemeyen bir etki için sayı üretmek,
+korpusun kaçındığı işlemdir.[^k3]
 
-## Atlas için ölçüm
+## Korpus için ölçüm
 
-Bu dosyanın atlasa kattığı ölçüm şudur.[^k2] **Bir düzenin kendi kaydını
+Bu incelemenin korpusa kattığı ölçüm şudur.[^k2] **Bir düzenin kendi kaydını
 bırakması, o düzenin başına gelenleri değiştirmez; yalnızca ne olduğunu
 bilinebilir kılar.**
 
 İfade bir teselli değil bir uyarıdır.[^k1] Kaynak zenginliği ile siyasi
 sonuç arasında bir ilişki yoktur.
 
-Atlas bu nedenle kaynak durumu ile tarihsel sonucu ayrı ayrı
-kaydeder.[^k3] İkisini birbirine bağlamak, atlasın kaçındığı
-hatalardandır.
+İkisini birbirine bağlamak,
+korpusun kaçındığı hatalardandır.[^k3]
 
 ## Karşılaştırma: aynı kıyıdaki öteki düzen
 
-Atlasın aynı kıyıdan bir başka dosyası vardır ve karşılaştırma
-öğreticidir.[^k1] Öteki düzen de aynı ticaret ağının içindeydi ve aynı
-talebe maruz kaldı.
+Öteki düzen de aynı ticaret ağının
+içindeydi ve aynı talebe maruz kaldı.[^k1]
 
 İki düzen farklı biçimlerde etkilendi.[^k2] Biri merkezî otoritesini
 kaybederek çözüldü, öteki merkezî otoritesini uzun süre korudu.
 
-Farkın nedeni bu dosyada belirlenmez.[^k3] Karşılaştırmanın yapılabilir
-olması, atlasın iki dosyayı da yazmış olmasının kazancıdır.
+Farkın nedeni bu incelemede belirlenmez.[^k3] Karşılaştırmanın yapılabilir
+olması, korpusun iki dosyayı da yazmış olmasının kazancıdır.
 
 ## Kaydın erken olmasının anlamı
 
@@ -283,21 +279,21 @@ yaygın varsayımı doğrudan bozar.[^k1] Kayıt vardır ve erkendir.
 Kaydın az bilinmesi, var olmamasından farklı bir olgudur.[^k2] Biri
 bölge hakkında, öteki kaydın dolaşımı hakkında bilgi verir.
 
-Atlas iki olguyu ayrı ayrı işaretler.[^k3] Bu ayrım, atlasın kanıt
-dosyasında tanımlanan kısıtın en somut örneklerinden biridir.
+Bu ayrım, korpusun kanıt dosyasında
+tanımlanan kısıtın en somut örneklerinden biridir.[^k3]
 
 ## Kaynak durumu
 
-Bu dosyanın üç künyesinden biri giriş kapısı, biri kütüphane kaydı, biri
+Bu incelemenin üç künyesinden biri giriş kapısı, biri kütüphane kaydı, biri
 dönem tanıklığıdır.[^k1] Krallığın kendi mektupları künyelenememiştir.
 
-Mektupların doğrulanabilir çevrimiçi baskıları bu dosya yazıldığında
+Mektupların doğrulanabilir çevrimiçi baskıları bu inceleme yazıldığında
 bulunamamıştır.[^k2] Metinler yayımlanmıştır ama açık erişimde
 değildir.
 
-Eksik borç defterine yazılmıştır.[^k3] Bu dosyanın asıl konusu olan
+Eksik borç defterine yazılmıştır.[^k3] Bu incelemenin asıl konusu olan
 belgeler künyelenemediği için, dosya onlar hakkında konuşur ve onlara
-atıf yapamaz; bu, atlasın en rahatsız edici kısıt biçimidir.
+atıf yapamaz; bu, korpusun en rahatsız edici kısıt biçimidir.
 
 ## Kapsam dışı
 
@@ -311,8 +307,7 @@ kaydeder.
 Bölgenin sömürge dönemi ve sonrası işlenmez.[^k3] Ayrı dosyalar
 gerektirir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, din değişiminin gerekçesi hakkında hüküm vermez.[^k2] İki okuma
 da kaydedilir.
 
@@ -323,12 +318,11 @@ Belgelerin içeriği burada aktarılmaz.[^k3] Künyelenemedikleri için,
 haklarında yapılan her ifade ikincil kaynağa dayanır ve bu kısıt
 dosyanın tamamı için geçerlidir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Ticaretin genel çerçevesi için
 [Atlantik köle ticareti](/olay/atlantik-kole-ticareti/) ve
 [Silahlı ticaret](/kavram/silahli-ticaret/) dosyaları okunmalıdır;
-ikincisi bu dosyadaki döngüyü tanımlar.[^k1]
+ikincisi bu incelemedeki döngüyü tanımlar.[^k1]
 
 Aynı kıyıdan bir başka düzen için
 [Benin Krallığı](/aktor/benin-kralligi/), kayıt bırakmamış bir düzenle
@@ -336,7 +330,7 @@ karşılaştırma için
 [Büyük Zimbabve](/aktor/buyuk-zimbabve/) dosyaları uygundur.[^k2]
 
 Kanıt türünün soruları nasıl belirlediği için
-[Kanıt türü](/kavram/kanit-turu/) dosyası okunabilir; bu dosya o
+[Kanıt türü](/kavram/kanit-turu/) dosyası okunabilir; bu inceleme o
 kısıtın kısmen aşıldığı seyrek örneklerdendir.[^k3]
 
 Sonraki dönemin çerçevesi için [Emperyalizm](/kavram/emperyalizm/) ve

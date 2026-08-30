@@ -46,7 +46,7 @@ onarim_turu: 0
 
 Büyük Zimbabve, bugünkü Zimbabve'nin güneydoğu tepelerinde, Masvingo yakınlarında
 bir şehirdi; yaklaşık 1000 yılından itibaren iskân edildi ve 13. yüzyıldan
-itibaren Büyük Zimbabve Krallığı'nın başkenti olarak hizmet etti.[^k1] Bu dosya,
+itibaren Büyük Zimbabve Krallığı'nın başkenti olarak hizmet etti.[^k1] Bu inceleme,
 o şehrin **ölçüsünü ve zaman aralıklarını** ele alır.
 
 ## Ölçülmüş bir şehir
@@ -54,7 +54,7 @@ o şehrin **ölçüsünü ve zaman aralıklarını** ele alır.
 Taş şehir 7,22 kilometrekarelik bir alanı kaplar ve sömürge öncesi Güney
 Afrika'nın en büyük taş yapısıdır.[^k1]
 
-Kilometrekare cinsinden verilmiş bir şehir alanı, atlas için ender bir veridir:
+Kilometrekare cinsinden verilmiş bir şehir alanı, korpus için ender bir veridir:
 çoğu erken dönem yerleşimi için böyle bir ölçüm bulunmaz.[^k1] Ölçülebilir olması,
 yapının taştan olmasının doğrudan sonucudur.
 
@@ -64,7 +64,7 @@ yapının taştan olmasının doğrudan sonucudur.
 ya da 17. yüzyılda terk edildi.[^k1]
 
 Terk edilişin iki yüzyıllık bir aralıkla verilmesi,[^k1] sonun bir olay değil bir
-süreç olduğunu ya da kaydın o kadar kesin olmadığını gösterir. Atlas bu aralığı
+süreç olduğunu ya da kaydın o kadar kesin olmadığını gösterir. Korpus bu aralığı
 daraltmaz.
 
 ## Kimin eseri
@@ -90,8 +90,7 @@ Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1500
 yaklaşık 503,1 milyondur.[^k3] Şehrin nüfusuna dair kaynakta verilen tahminler
 değişkendir[^k1] ve bu nedenle burada bir oran kurulmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Yapının mimari ayrıntıları, ticaret bağlantıları, arkeolojik kazı tarihi ve
 krallığın siyasi tarihi burada ayrı başlıklar altında ele alınmamıştır. Dönemin
 bütünü [1350-1500](/donem/08/) dosyasında ele alınıyor.

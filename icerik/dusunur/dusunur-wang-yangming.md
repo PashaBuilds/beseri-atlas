@@ -20,8 +20,9 @@ ilgili:
   - dusunur-mengzi
   - kavram-konfucyuscluk
   - aktor-ming-hanedani
-  - kavram-anakronizm
   - kavram-tarih-yazimi
+baglam:
+  - kavram-anakronizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -56,12 +57,12 @@ Wang Yangming, kendi zamanında resmî doğru sayılan bir metin yorumunun
 karşısına, aynı metin geleneğinin içinden çıkarak durdu.[^k1] Kullandığı
 kanon, karşı çıktığı yorumun kanonuyla aynıydı.
 
-Bu, atlasın kaydettiği bir örüntünün en açık örneğidir.[^k2] Bir yorumun
+Bu bir örüntünün en açık örneğidir.[^k2] Bir yorumun
 resmî hâle gelmesi, ona karşı çıkacak kişilerin de o yorumun terimleriyle
 düşünmesini sağlar.
 
 Dosya bir hayat hikâyesi değildir.[^k3] Düşünürün ne söylediğini, kime karşı
-söylediğini ve bunun atlas için ne anlama geldiğini kaydeder.
+söylediğini ve bunun korpus için ne anlama geldiğini kaydeder.
 
 ## Karşı çıktığı konum
 
@@ -94,10 +95,10 @@ ezberlemiş olması, bu tanıma göre onu bilen kişi yapmaz.
 bildiği, söylediklerinden değil yaptıklarından okunur.
 
 Bu ölçüt tarihçinin işine yarar.[^k3] Bir düzenin ne iddia ettiği ile ne
-yaptığı arasındaki fark, atlasın sürekli ölçtüğü bir aralıktır.
+yaptığı arasındaki fark, korpusun sürekli ölçtüğü bir aralıktır.
 
-Atlas ilkeyi kendi pratiğine de uygular.[^k1] Bir kaynağın beyan ettiği
-niyet, o kaynağın kaydettiği eylemle karşılaştırılmadan aktarılmaz.
+Bir kaynağın beyan ettiği niyet, o
+kaynağın kaydettiği eylemle karşılaştırılmadan aktarılmaz.[^k1]
 
 ## İddianın zayıf yanı
 
@@ -107,8 +108,8 @@ kolaylaştırır.[^k1] Bu, iddiayı yanlışlanamaz hâle getirebilir.
 İtiraz kendi zamanında da yapılmıştır.[^k1] Bilginin ölçütü eylemse, eylemin
 doğruluğu neye göre ölçülecektir sorusu açık kalır.
 
-Atlas bu açığı kapatmaz ve kapatılmış gibi göstermez.[^k2] Bir düşünürün
-konumunu aktarmak, o konumun tutarlı olduğunu ileri sürmek değildir.
+Bir düşünürün konumunu aktarmak, o konumun
+tutarlı olduğunu ileri sürmek değildir.[^k2]
 
 ## Sınav düzeniyle ilişkisi
 
@@ -118,8 +119,8 @@ devlete girmenin tek yolunun geçtiği müfredatın içindeydi.
 Bu, bir fikrin doğruluğu ile yaygınlığı arasındaki bağı koparır.[^k2] Bir
 yorum, daha iyi olduğu için değil sınavda sorulduğu için yayılabilir.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k1] Bir düşüncenin yayılma mekanizması,
-içeriğinden bağımsız olarak incelenmesi gereken bir veridir.
+Bir düşüncenin yayılma mekanizması, içeriğinden
+bağımsız olarak incelenmesi gereken bir veridir.[^k1]
 
 ## Ortodoksinin kendi muhalefetini üretmesi
 
@@ -129,7 +130,7 @@ eleştirenlere de ortak bir söz dağarcığı verir.
 Karşı çıkan kişi, karşı çıktığı metni herkesten iyi bilmek zorundadır.[^k2]
 Bu zorunluluk, muhalefeti kanonun dışına değil içine yerleştirir.
 
-Örüntü atlasta başka yerlerde de görülür.[^k3] Resmî bir yorumun bulunduğu
+Örüntü korpusta başka yerlerde de görülür.[^k3] Resmî bir yorumun bulunduğu
 her yerde, ona en ciddi itiraz genellikle onu en iyi öğrenmiş olandan gelir.
 
 ## Askerî ve idari görevleri
@@ -142,8 +143,8 @@ Görevlerin dosyada yer alma nedeni biyografik değildir.[^k1] Bilgi ile
 eylemin birliği ilkesini savunan bir kişinin, iddiasını uygulama imkânı
 bulmuş olması ayrıca kayda değerdir.
 
-Atlas bu örtüşmeyi bir kanıt saymaz.[^k1] Bir düşünürün kendi ilkesine
-uygun yaşaması, ilkenin doğru olduğunu göstermez.
+Bir düşünürün kendi ilkesine
+uygun yaşaması, ilkenin doğru olduğunu göstermez.[^k1]
 
 ## Sürgün ve dönüm noktası
 
@@ -154,9 +155,8 @@ geleneğin kendi içinde yerleşmiş biçimdedir.
 Böyle anlatıların doğrulanması zordur.[^k1] Bir düşüncenin hangi anda
 oluştuğu, sonradan yazılmış kayıtlardan kesin olarak çıkarılamaz.
 
-Atlas anlatıyı aktarır ve kaynağının niteliğini belirtir.[^k3] Geleneğin
-kendi hakkında anlattığı hikâye, o gelenek hakkında bir veridir; olay
-hakkında değil.
+Geleneğin kendi hakkında anlattığı
+hikâye, o gelenek hakkında bir veridir; olay hakkında değil.[^k3]
 
 ## Öğrencilerin bölünmesi
 
@@ -168,9 +168,8 @@ Bölünme, ilkenin kendisindeki belirsizlikten kaynaklanır.[^k1] Eylemin
 doğruluğunu ölçen dışsal bir ölçüt bırakılmadığında, ölçüt kişinin kendi
 yargısı olur.
 
-Atlas için asıl bilgi bölünmenin varlığıdır.[^k2] Bir öğretinin
-izleyicilerinin ayrışması, öğretinin hangi noktada eksik bırakıldığını
-gösterir.
+Bir öğretinin izleyicilerinin ayrışması,
+öğretinin hangi noktada eksik bırakıldığını gösterir.[^k2]
 
 ## Japonya'ya aktarım
 
@@ -181,8 +180,8 @@ olarak kullanıldı.
 Aktarımda anlam değişti.[^k1] Aynı ilke, bir bağlamda kişisel ahlak
 sorusuna, başka bir bağlamda siyasi eylem sorusuna cevap verdi.
 
-Atlas bu tür kaymaları ayrıca kaydeder.[^k2] Bir düşüncenin başka bir
-bağlama taşınması, taşınan şeyin aynı kalmasını garanti etmez.
+Bir düşüncenin başka bir bağlama
+taşınması, taşınan şeyin aynı kalmasını garanti etmez.[^k2]
 
 ## Batı felsefe tarihiyle karşılaştırma sorunu
 
@@ -193,9 +192,8 @@ Bedel şudur: adlandırma, sorunun da aynı olduğunu ima eder.[^k1] Oysa iki
 gelenek farklı sorulara cevap veriyordu ve cevapların benzemesi soruların
 benzediğini göstermez.
 
-Atlas karşılaştırmayı yapar ve sınırını yazar.[^k2] Bir terimi ödünç almak
-açıklayıcıdır; ödünç alınan terimin bütün çağrışımlarını da taşımak
-değildir.
+Bir terimi ödünç almak
+açıklayıcıdır; ödünç alınan terimin bütün çağrışımlarını da taşımak değildir.[^k2]
 
 ## Anakronizm riski
 
@@ -203,22 +201,22 @@ Aynı risk daha genel biçimde de vardır.[^k1] Beş yüzyıl öncesinin bir
 tartışmasını bugünün kavramlarıyla özetlemek, tartışmanın kendi
 terimlerini görünmez kılar.
 
-Atlasın kuralı, iki katmanı ayrı tutmaktır.[^k2] Önce tartışmanın kendi
-diliyle ne olduğu, sonra bugünün diliyle neye benzediği yazılır.
+Önce tartışmanın kendi diliyle ne olduğu,
+sonra bugünün diliyle neye benzediği yazılır.[^k2]
 
-Bu dosyada ikinci katman özellikle kısa tutulmuştur.[^k1] Benzetmeler
+Bu incelemede ikinci katman özellikle kısa tutulmuştur.[^k1] Benzetmeler
 çoğaldıkça özgün konumun görünürlüğü azalır.
 
 ## Kaynak durumu
 
 Düşünürün öğrencileriyle konuşmalarının derlemesi, temel metindir.[^k1]
-Metnin doğrulanabilir çevrimiçi tam metin baskısı bu dosya yazıldığında
+Metnin doğrulanabilir çevrimiçi tam metin baskısı bu inceleme yazıldığında
 bulunamamıştır ve bu kısıt burada beyan edilir.
 
 Dosya bu nedenle ikincil kaynaklara dayanır.[^k2] Konumun aktarımı akademik
 bir ansiklopedi maddesi üzerinden yapılmıştır.
 
-Eksik, atlasın kaynak defterine yazılmıştır.[^k3] Birincil metin
+Eksik, korpusun kaynak defterine yazılmıştır.[^k3] Birincil metin
 künyelenebilir hâle geldiğinde dosya güncellenmelidir.
 
 ## Doğuştan gelen ahlaki bilgi
@@ -230,7 +228,7 @@ yarar.
 Terimin kaynağı düşünürün kendisi değildir.[^k1] Bin sekiz yüz yıl önceki
 bir metinden alınmış ve yeniden merkeze konmuştur.
 
-Bu, atlasın kaydettiği bir başka örüntüdür.[^k2] Yeni bir konum çoğu zaman
+Bu bir başka örüntüdür.[^k2] Yeni bir konum çoğu zaman
 yeni bir terimle değil, eski bir terimin ağırlığının değiştirilmesiyle
 kurulur.
 
@@ -256,26 +254,25 @@ her iki taraf için de dayanak sayılır.
 Yerleşik yorum ifadeyi dış dünyanın incelenmesi olarak okur.[^k2] Karşı
 konum, aynı ifadeyi kişinin kendi niyetlerinin düzeltilmesi olarak okur.
 
-Atlas bu tür düğüm noktalarını ayrıca işaretler.[^k1] Bir tartışmanın
-gerçekte nerede ayrıldığını görmek için, iki tarafın da kabul ettiği metne
-bakmak gerekir.
+Bir tartışmanın gerçekte nerede
+ayrıldığını görmek için, iki tarafın da kabul ettiği metne bakmak gerekir.[^k1]
 
-## Atlasta hangi soruya cevap verdiği
+## Korpusta hangi soruya cevap verdiği
 
-Bu dosya, düşünce tarihine değil kurum tarihine bakan bir soruya
+Bu inceleme, düşünce tarihine değil kurum tarihine bakan bir soruya
 cevap verir.[^k2] Soru şudur: resmî bir doğru ilan edildiğinde ne olur.
 
 Cevabın bu örnekteki hâli üç adımlıdır.[^k1] Yorum kurumsallaşır,
 kurumsallaşma onu tartışılmaz kılar, tartışılmazlık ona en iyi hâkim olanın
 itirazını üretir.
 
-Üç adım her yerde aynı sırayla işlemez.[^k2] Atlas örüntüyü bir yasa değil
+Üç adım her yerde aynı sırayla işlemez.[^k2] Korpus örüntüyü bir yasa değil
 tekrar eden bir gözlem olarak kaydeder.
 
 ## Kapsam dışı
 
 Düşünürün şiirleri ve edebî yazıları burada işlenmez.[^k3] Ayrı bir çalışma
-gerektirir ve bu dosyanın sorusuyla ilgili değildir.
+gerektirir ve bu incelemenin sorusuyla ilgili değildir.
 
 Yönettiği askerî seferlerin ayrıntısı da kapsam dışıdır.[^k1] Seferler
 dosyada yalnızca kuram ile uygulamanın aynı kişide birleşmesi bakımından
@@ -284,22 +281,20 @@ anılmıştır.
 Öğretinin sonraki yüzyıllardaki bütün kolları izlenmemiştir.[^k1] Aktarım
 zincirinin tamamı ayrı dosyalar gerektirir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya bir konumu savunmaz ve çürütmez.[^k2] İddiayı, iddiaya yöneltilen
 itirazı ve ikisinin de açık bıraktığı noktayı kaydeder.
 
-Düşünürün önemi hakkında bir sıralama da yapılmaz.[^k1] Atlas, düşünürleri
+Düşünürün önemi hakkında bir sıralama da yapılmaz.[^k1] Korpus, düşünürleri
 etkilerine göre derecelendirmez; ne söylediklerini ve hangi soruya cevap
 verdiklerini yazar.
 
-Bu dosya bir başka dosyayla birlikte okunmak üzere yazılmıştır.[^k2] Tek
+Bu inceleme bir başka dosyayla birlikte okunmak üzere yazılmıştır.[^k2] Tek
 başına okunduğunda, karşı çıkılan konum yeterince görünmez.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Karşı çıkılan resmî yorum ve onu müfredat hâline getiren düzen için
-[Zhu Xi](/dusunur/zhu-xi/) dosyası okunmalıdır; bu dosya onsuz
+[Zhu Xi](/dusunur/zhu-xi/) dosyası okunmalıdır; bu inceleme onsuz
 eksiktir.[^k2]
 
 Geleneğin kurucu metinleri ve terimleri için

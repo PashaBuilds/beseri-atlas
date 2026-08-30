@@ -43,7 +43,7 @@ onarim_turu: 0
 ---
 
 Kaynak dalgayı 5 Ocak 1968 - 29 Mart 1969 arasına, yani bir yıl iki ay üç hafta
-üç güne yerleştirir; yer olarak dünya çapı verilir.[^k1] Bu dosya, dalganın
+üç güne yerleştirir; yer olarak dünya çapı verilir.[^k1] Bu inceleme, dalganın
 **adıyla kaydı arasındaki farkı** ele alır.
 
 ## Ad bir yıl, kayıt on beş ay
@@ -51,7 +51,7 @@ Kaynak dalgayı 5 Ocak 1968 - 29 Mart 1969 arasına, yani bir yıl iki ay üç h
 Olayın adı tek bir yılı gösterirken kaynağın verdiği aralık 1969 Mart'ına kadar
 uzanır.[^k1]
 
-Bir dalganın adının, kaydettiği süreden kısa olması,[^k1] atlasın yıl adlı
+Bir dalganın adının, kaydettiği süreden kısa olması,[^k1] korpusun yıl adlı
 olaylara neden ayrıca tarih aralığı yazdığını gösterir: ad bir kısaltmadır,
 ölçüm değil.
 
@@ -65,7 +65,7 @@ serbestleşme ve sosyalizm.[^k1]
 
 Aynı listede hem kapitalizm karşıtlığının hem komünizm karşıtlığının yer
 alması,[^k1] tek bir 1968 hareketi öznesi varsayımını kaydın kendisinin
-desteklemediğini gösterir. Atlas burada bir ortak payda önermez.
+desteklemediğini gösterir. Korpus burada bir ortak payda önermez.
 
 ## Sebepler listesi de heterojendir
 
@@ -74,7 +74,7 @@ Rodezya Çalı Savaşı, ırkçılık, Marksizmde algılanan revizyonizm, Birle�
 Devletler'de linç, otoriterlik, cinsiyetçilik, Orangeburg Katliamı, Che
 Guevara'nın ölümü ve Martin Luther King Jr. suikastı sayılır.[^k1]
 
-Bir listede hem yapısal olguların hem tek tek olayların bulunması,[^k1] sebep alanının farklı ölçeklerdeki şeyleri aynı düzleme koyduğunu gösterir; atlas bu
+Bir listede hem yapısal olguların hem tek tek olayların bulunması,[^k1] sebep alanının farklı ölçeklerdeki şeyleri aynı düzleme koyduğunu gösterir; korpus bu
 kalemleri eşit ağırlıkta saymaz.
 
 ## Ülke bölümleri dalganın haritasıdır
@@ -107,8 +107,7 @@ Uzun dönemli seride dünya nüfusu 1968 için yaklaşık 3,55 milyardır.[^k3]
 Protestolara katılan insan sayısına dair bir ölçüm kullanılan kaynak bölümünde
 bulunmadığı için bu değer içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ülke ülke hareketlerin seyri, savaş sonrası arka plan ve toplumsal hareketler
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1] Dönemin bütünü [1945-1991](/donem/14/) dosyasında ele alınıyor.

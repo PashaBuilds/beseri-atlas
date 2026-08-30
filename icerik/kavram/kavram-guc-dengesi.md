@@ -11,7 +11,6 @@ guven_geneli: tartismali
 etiketler: [guc-dengesi, gercekcilik, dengeleme, karsi-kanit, ittifak]
 ilgili:
   - dusunur-mackinder
-  - dusunur-carr
   - olay-viyana-kongresi
   - kavram-caydiricilik
   - kavram-hegemonya
@@ -21,6 +20,8 @@ ilgili:
   - veri-askeri-harcama
   - aktor-ayutthaya-kralligi
   - olay-kirim-savasi
+baglam:
+  - dusunur-carr
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -66,7 +67,7 @@ saldırgan ve savunmacı gerçekçilik, tehdit dengesi, yumuşak dengeleme ve g�
 Kaynak, tarih bölümünün altında güç dengesi kuramına karşı tarihsel kanıtlar diye
 ayrı bir alt başlık tutar.[^k1]
 
-::tartismali[Bir kuramın kendi ansiklopedi maddesinde "kurama karşı tarihsel kanıtlar" başlıklı bir bölüm bulunuyor. Atlas kuramı da karşı kanıtı da kaydeder ve aralarında hüküm vermez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bir kuramın kendi ansiklopedi maddesinde "kurama karşı tarihsel kanıtlar" başlıklı bir bölüm bulunuyor. Korpus kuramı da karşı kanıtı da kaydeder ve aralarında hüküm vermez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu tür yan yana kayıtların nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -79,7 +80,7 @@ söylendiğini ve dar marjlarla çalışmanın bir güç sınamasına davetiye �
 belirtildiğini aktarır.[^k1]
 
 Bir kavramın hem kuram hem siyasi tartışma konusu olarak kaydedilmesi,[^k1]
-atlasın kavram dosyalarında neden kullanım örneklerini de tuttuğunun dayanağıdır.
+korpusun kavram dosyalarında neden kullanım örneklerini de tuttuğunun dayanağıdır.
 
 ## Seçenekler de adlandırılmıştır
 
@@ -102,11 +103,10 @@ yürütme ve yargı gücünü ayrı ayrı kullandığı bir düzen önerisini an
 O öneri [Montesquieu](/dusunur/montesquieu/) dosyasında ele alınıyor.
 
 Aynı fikrin biri devletler arasında biri devlet içinde iki ayrı biçimde
-kaydedilmesi,[^k1][^k3] atlasın kavram dosyalarını neden ölçek belirterek
+kaydedilmesi,[^k1][^k3] korpusun kavram dosyalarını neden ölçek belirterek
 tuttuğunun dayanağıdır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kuramın tarihi, İngiltere örneği, gerçekçilik tartışmaları ve modern
 uygulamaları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
 bölümler olarak işler.[^k1]

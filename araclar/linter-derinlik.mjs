@@ -29,6 +29,7 @@
 //   Boylece esik dusurulmez, olcum susturulmaz, ama kapi da var olan korpusu
 //   rehin almaz. Borcun kapanmasi icerik isidir, kapi isi degil.
 import path from 'node:path';
+import crypto from 'node:crypto';
 import { Rapor, KOK, yamlOku, varMi, oku, yaz } from './ortak.mjs';
 
 export const TABAN_YOLU = path.join(KOK, 'denetim', 'derinlik-taban.json');
@@ -65,13 +66,27 @@ export function tabanOku() {
   try { return JSON.parse(oku(TABAN_YOLU)); } catch { return null; }
 }
 
-/** Taban dosyasini mevcut korpustan uretir (yalnizca --taban-yaz ile cagrilir). */
-export function tabanYaz(makaleler) {
+/**
+ * Taban dosyasini mevcut korpustan uretir. Var olan defter ancak acik bir
+ * migrasyon gerekcesiyle yenilenebilir; onceki defterin hash'i denetim izi
+ * olarak saklanir. Borc miktari yine §3 hedefinden hesaplanir ve gizlenmez.
+ */
+export function tabanYaz(makaleler, { gerekce = '' } = {}) {
+  const eskiMetin = varMi(TABAN_YOLU) ? oku(TABAN_YOLU) : '';
+  if (eskiMetin && !String(gerekce).trim()) {
+    throw new Error('var olan derinlik tabanı yalnız `--neden "..."` ile yenilenebilir');
+  }
   const kayit = {
     aciklama: 'KAPI 11 borc defteri. Kapinin devreye girdigi andaki kelime '
       + 'sayilari. Esik DEGIL: §3 hedefi kapinin kendisindedir. Bu dosya '
       + 'yalnizca "borc buyumesin" ciritini tutar.',
     yazildi: new Date().toISOString(),
+    ...(eskiMetin ? {
+      migrasyon: {
+        gerekce: String(gerekce).trim(),
+        onceki_taban_sha1: crypto.createHash('sha1').update(eskiMetin).digest('hex'),
+      },
+    } : {}),
     makaleler: {},
   };
   for (const m of makaleler) {
@@ -208,7 +223,11 @@ if (process.argv[1]?.endsWith('linter-derinlik.mjs')) {
     const { yol, liste, toplam } = borcListesiYaz(makaleler);
     console.log(`is listesi yazildi: ${liste.length} makale, ${toplam.toLocaleString('tr-TR')} kelime eksik -> ${path.relative(KOK, yol)}`);
   } else if (process.argv.includes('--taban-yaz')) {
-    const k = tabanYaz(makaleler);
+    const nedenKonumu = process.argv.indexOf('--neden');
+    const gerekce = nedenKonumu >= 0 ? (process.argv[nedenKonumu + 1] || '') : '';
+    let k;
+    try { k = tabanYaz(makaleler, { gerekce }); }
+    catch (hata) { console.error(hata.message); process.exit(2); }
     console.log(`borc defteri yazildi: ${Object.keys(k.makaleler).length} makale -> ${path.relative(KOK, TABAN_YOLU)}`);
   } else {
     const r = derinlikDenetimi(makaleler);

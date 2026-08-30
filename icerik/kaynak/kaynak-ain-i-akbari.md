@@ -71,7 +71,7 @@ onarim_turu: 0
 kalem saydığı bir envanterdir.[^k1][^k2] Saray teşkilatıyla başlar, ordu
 düzeni ve ölçü sistemiyle sürer, eyalet kayıtlarıyla biter.
 
-Eserin atlas açısından ayırt edici yanı, anlatı değil tablo
+Eserin korpus açısından ayırt edici yanı, anlatı değil tablo
 olmasıdır.[^k2] Metnin büyük bölümü mesafe, gelir, ürün ve birim
 listelerinden oluşur.
 
@@ -89,7 +89,7 @@ Envanterin kapsamı bu iddiayı gösterir. Yalnızca vergi değil, ürün çeşi
 yol mesafesi, para ayarı ve ölçü karşılıkları da kayda geçmiştir;[^k2]
 yönetim kendini bir hesap sistemi olarak tarif eder.
 
-Atlasın [Bürokrasi](/kavram/burokrasi/) dosyası bu yapıyı kavram düzeyinde
+Korpusun [Bürokrasi](/kavram/burokrasi/) dosyası bu yapıyı kavram düzeyinde
 ele alır. Burada somut hâli, bir imparatorluğun kendini sayıya çevirmiş
 olmasıdır.[^k1]
 
@@ -101,7 +101,7 @@ bildirilmiştir.
 
 ::tartismali[Eserde verilen gelir ve alan rakamlarının gerçek tahsilatı mı
 yoksa hedeflenen tahakkuku mu gösterdiği tartışmalıdır; iki okuma çok farklı
-ekonomik tablolar üretir. Atlas bir okumayı benimsemez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+ekonomik tablolar üretir. Korpus bir okumayı benimsemez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bildirimin yönü de bellidir. Bir taşra görevlisi, hedefin altında kalmamak
 için tahsilatı yüksek, gelecek yükümlülüğü düşük göstermeye
@@ -117,9 +117,9 @@ Bu çerçeve, sayıları geçersiz kılmaz ama neyin sayıldığını
 etkiler.[^k1][^k2] Başarısızlık kalemleri, isyanlar ve tahsil edilemeyen
 gelirler aynı ayrıntıyla yazılmaz.
 
-Atlas bu yüzden eseri iki katman hâlinde okur.[^k2] Tablolar bir idari
-kayıttır; onları çevreleyen değerlendirme bir yönetim savunmasıdır ve ikisi
-ayrı ayrı değerlendirilmelidir.
+Tablolar bir idari kayıttır; onları
+çevreleyen değerlendirme bir yönetim savunmasıdır ve ikisi ayrı ayrı
+değerlendirilmelidir.[^k2]
 
 ## Nüfus sorusu
 
@@ -131,40 +131,36 @@ Bu kalemlerden nüfusa geçmek bir varsayım zinciri gerektirir: kişi başına
 verim, hane büyüklüğü ve vergi oranı varsayılmalıdır.[^k2] Zincirin her
 halkası bir tartışma konusudur.
 
-Atlasın
-[İmparatorluk nüfusu nasıl sayılır](/tartisma/imparatorluk-nufusu-nasil-sayilir/)
-dosyası bu geçişi ayrıca ele alır.[^k1] Bu dosya, geçişin dayandığı kaynağı
-kaydeder ve sonucu vermez.
+Bu inceleme, geçişin dayandığı kaynağı
+kaydeder ve sonucu vermez.[^k1]
 
-## Neden atlasta
+## Neden korpusta
 
-Atlasın kaynak katmanında Güney Asya'dan bir metin bulunuyordu ve o metin bir
-yönetim el kitabıydı.[^k1] Bu dosya, aynı bölgeden bir idari kayıt ekler ve
-iki metin farklı işler yapar.
+Bu inceleme, aynı bölgeden bir
+idari kayıt ekler ve iki metin farklı işler yapar.[^k1]
 
 Fark şudur: el kitabı yönetimin nasıl olması gerektiğini anlatır, envanter
 yönetimin ne olduğunu kaydeder.[^k1][^k2] Bir bölge için ikisinin de bulunması
 seyrektir.
 
-İki metnin yan yana okunabilmesi, atlasın karşılaştırmalı okumaya açtığı
+İki metnin yan yana okunabilmesi, korpusun karşılaştırmalı okumaya açtığı
 yerlerden biridir.[^k2] Öneri ile uygulama arasındaki fark, ancak ikisi de
 elde varsa ölçülebilir.
 
 ## Kapsam dışı
 
-Bu dosya eserin ne olduğunu ve nasıl okunması gerektiğini kaydeder; içindeki
+Bu inceleme eserin ne olduğunu ve nasıl okunması gerektiğini kaydeder; içindeki
 tabloları aktarmaz.[^k1][^k2] Metin kaynaklarda erişilebilir durumdadır.
 
 Eserin bağlı olduğu daha büyük derlemenin öteki bölümleri ve yazarın kendi
-konumu burada işlenmez.[^k3] Ayrı dosyalar gerektirir ve bu dosya
-yazıldığında atlasta bulunmuyorlardı.
+konumu burada işlenmez.[^k3] Ayrı dosyalar gerektirir ve bu inceleme
+yazıldığında korpusta bulunmuyorlardı.
 
 Eyalet kayıtlarının tek tek değerlendirilmesi de kapsam dışıdır.[^k3] Her
-eyalet için ayrı bir doğrulama çalışması gerekir ve atlasın mevcut kapsamı
+eyalet için ayrı bir doğrulama çalışması gerekir ve korpusun mevcut kapsamı
 bunu sunmuyor.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Eserin yazıldığı imparatorluk için
 [Babür İmparatorluğu](/aktor/babur-imparatorlugu/), envanterin tanımladığı
 örgütlenme biçimi için [Bürokrasi](/kavram/burokrasi/) dosyaları okunmalıdır.

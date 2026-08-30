@@ -17,10 +17,11 @@ ilgili:
   - donem-12
   - olay-viyana-kongresi
   - aktor-rus-imparatorlugu
-  - aktor-osmanli-imparatorlugu
   - kavram-guc-dengesi
-  - tartisma-tarihsel-sayilar-nasil-okunur
   - olay-italyan-birligi
+baglam:
+  - aktor-osmanli-imparatorlugu
+  - tartisma-tarihsel-sayilar-nasil-okunur
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

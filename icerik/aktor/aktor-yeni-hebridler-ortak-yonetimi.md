@@ -63,7 +63,7 @@ paylaşmadı; ikisi de bütünü yönetti.
 Bu, olağan bir sömürge düzeni değildir.[^k2] Olağan biçimde bir bölge
 tek bir yönetime bağlanır.
 
-Bu dosyanın konusu düzenin siyasi tarihi değildir.[^k3] İkili
+Bu incelemenin konusu düzenin siyasi tarihi değildir.[^k3] İkili
 yönetimin adada yaşayanlar için ne anlama geldiğidir.
 
 ## Nasıl kuruldu
@@ -75,8 +75,8 @@ Hiçbiri diğerinin tek başına yönetmesini kabul etmedi.
 yetersiz kalınca, iki taraf resmî bir anlaşmayla ortak yönetimi
 kurdu.
 
-Atlas kuruluşu ayrıca kaydeder.[^k3] Düzen, adada yaşayanların bir
-talebiyle değil, iki dış gücün birbirini engellemesiyle doğdu.
+Düzen, adada yaşayanların bir talebiyle
+değil, iki dış gücün birbirini engellemesiyle doğdu.[^k3]
 
 ## İki idarenin paralel işlemesi
 
@@ -88,8 +88,8 @@ Yerleşimciler kendi devletlerinin idaresine bağlıydı.[^k2] Hangi
 mahkemede yargılanacakları, hangi ülkenin vatandaşı olduklarına
 göre belirleniyordu.
 
-Atlas bu yapıyı ayrıca kaydeder.[^k3] İkili düzen, maliyeti iki katına
-çıkarır ve yetki çakışmalarını kural hâline getirir.
+İkili düzen, maliyeti iki katına çıkarır ve yetki
+çakışmalarını kural hâline getirir.[^k3]
 
 ## Adada yaşayanların konumu
 
@@ -99,9 +99,9 @@ hiçbirinin vatandaşı sayılmadı.
 Bu, onları iki hukukun da dışında bıraktı.[^k2] Anlaşmazlıkları,
 özel olarak kurulan ortak bir mahkemede görülüyordu.
 
-Atlas bu sonucu bir ölçüm olarak kaydeder.[^k3] **İki yönetimin
-birlikte kurulduğu yerde, hiçbirine ait olmayanlar korunmaz; iki
-hukukun kesişiminde değil, dışında kalırlar.**
+**İki yönetimin birlikte kurulduğu
+yerde, hiçbirine ait olmayanlar korunmaz; iki hukukun kesişiminde değil, dışında
+kalırlar.**[^k3]
 
 ## Ortak mahkemenin yapısı
 
@@ -111,9 +111,9 @@ iki tarafın da olmadığı üçüncü bir ülkeden atanıyordu.
 Bu düzenleme tarafsızlık amacı taşıyordu.[^k2] Amaç, iki tarafın
 birbirini bloke etmesini engellemekti.
 
-Atlas düzenlemeyi ayrıca kaydeder.[^k3] Tarafsızlık, bir kurumu
-tarafların dışından birine emanet ederek sağlanmaya çalışıldı; taraf
-olan üçüncü kişi de adada yaşamıyordu.
+Tarafsızlık, bir kurumu tarafların
+dışından birine emanet ederek sağlanmaya çalışıldı; taraf olan üçüncü kişi de adada
+yaşamıyordu.[^k3]
 
 ## Toprak anlaşmazlıkları
 
@@ -123,9 +123,8 @@ geniş araziler edinmişti.
 Bu edinimlerin bir bölümü, karşı tarafın satış olarak görmediği
 işlemlerdi.[^k2] Aynı toprak için birden çok hak iddiası ortaya çıktı.
 
-Atlas bu örüntüyü başka dosyalarda da kaydetmişti.[^k3] Bir tarafın
-mülkiyet, diğerinin kullanım hakkı saydığı bir işlem, iki kayıtta iki
-farklı olay olarak yer alır.
+Bir tarafın mülkiyet, diğerinin kullanım
+hakkı saydığı bir işlem, iki kayıtta iki farklı olay olarak yer alır.[^k3]
 
 ## İşgücü bağlantısı
 
@@ -136,21 +135,20 @@ Bu geçmiş, ortak yönetimin kurulmasının nedenlerinden biridir.[^k1]
 Kontrolsüz taşımaya son verilmesi, iki devletin ortak
 gerekçelerindendi.
 
-Atlas gerekçeyi kaydeder ama tek başına yeterli saymaz.[^k2] Bir
-düzensizliği durdurmak, yerine kurulan düzenin niteliğini
-belirlemez.
+Bir düzensizliği durdurmak, yerine kurulan
+düzenin niteliğini belirlemez.[^k2]
 
 ## Plantasyon ekonomisi
 
 Adalarda hindistancevizi ve diğer ihraç ürünleri için plantasyonlar
 kuruldu.[^k1] Ekonomi bu ürünlerin fiyatına bağlandı.
 
-Bu, atlasın tek ürüne bağlanma dosyasında tanımlanan yapının bir
+Bu, korpusun tek ürüne bağlanma dosyasında tanımlanan yapının bir
 örneğidir.[^k2] Altyapı, işleme ve taşıma tek bir ürün ailesine göre
 kuruldu.
 
-Atlas iki dosyayı birbirine bağlar.[^k3] Aynı yapı, bambaşka
-coğrafyalarda aynı kırılganlığı üretir.
+Aynı yapı, bambaşka coğrafyalarda aynı
+kırılganlığı üretir.[^k3]
 
 ## İki dilin sonucu
 
@@ -160,8 +158,8 @@ kayıtlar buna göre ayrıştı.
 Sonuç, adada üç dilli bir yapı oldu.[^k2] İki resmî dil ve
 topluluklar arası iletişimde kullanılan ortak bir dil.
 
-Atlas bu sonucu ayrıca kaydeder.[^k3] Ortak dilin idarelerden değil
-gündelik ihtiyaçtan doğması, ikili düzenin bir boşluğunu gösterir.
+Ortak dilin idarelerden değil gündelik ihtiyaçtan
+doğması, ikili düzenin bir boşluğunu gösterir.[^k3]
 
 ## Kayıtların ikiye ayrılması
 
@@ -172,9 +170,8 @@ idare kendi kaydını tuttu.
 işlemi, iki dosyada iki farklı hukuki nitelendirmeyle
 görünebiliyordu.
 
-Atlas bu durumu doğrudan kendi konusuna bağlar.[^k3] Bu, atlasın
-Waitangi dosyasında kaydettiği iki metin sorununun yönetim düzeyindeki
-karşılığıdır.
+Bu, korpusun Waitangi dosyasında
+kaydettiği iki metin sorununun yönetim düzeyindeki karşılığıdır.[^k3]
 
 ## Adaların ilk haritalanması
 
@@ -185,8 +182,8 @@ türetilmişti.
 Adlandırma bir işlemdir.[^k1] Adaların her birinin kendi dilinde bir adı vardı ve haritaya geçen ad
 bunların hiçbiri değildi.
 
-Atlas bu işlemi ayrıca kaydeder.[^k3] Bir yere haritada verilen ad,
-oranın kimin kaydına girdiğini gösterir.
+Bir yere haritada verilen ad,
+oranın kimin kaydına girdiğini gösterir.[^k3]
 
 ## Haritadan yerleşime
 
@@ -196,8 +193,8 @@ Aradaki dönemde adalara gelenler tüccarlar ve misyonerlerdi.
 Sandal ağacı ticareti erken dönemin başlıca uğraşıydı.[^k1] Kaynak
 tükenince ticaret başka mallara ve sonra işgücüne kaydı.
 
-Atlas bu sırayı ayrıca kaydeder.[^k3] Bir bölgeyle kurulan ilişki,
-çıkarılabilir kaynak tükendiğinde sona ermez; hedef değişir.
+Bir bölgeyle kurulan ilişki,
+çıkarılabilir kaynak tükendiğinde sona ermez; hedef değişir.[^k3]
 
 ## Nüfusun azalması
 
@@ -208,8 +205,8 @@ Azalmanın başlıca nedeni, dışarıdan gelen hastalıklardı.
 pekiştirdi: azalan nüfus, ayrılanların oranını daha ağır hâle
 getirdi.
 
-Atlas iki etkeni ayrı ayrı sayar.[^k2] Aynı sonucu doğuran farklı
-nedenler, farklı sorumluluklar da doğurur.
+Aynı sonucu doğuran farklı nedenler, farklı
+sorumluluklar da doğurur.[^k2]
 
 ## Misyonların rolü
 
@@ -219,8 +216,8 @@ hizmetler, iki idarenin sağladıklarından çoğu yerde önce geldi.
 Örgütler iki devletin de değil, kendi kiliselerinin
 düzenindeydi.[^k3] Bu, adalarda üçüncü bir yetki katmanı yarattı.
 
-Atlas bu katmanı ayrıca kaydeder.[^k2] İkili yönetimin boşluklarını
-dolduran kurumlar, kendi çerçevelerini de birlikte getirdi.
+İkili yönetimin boşluklarını dolduran
+kurumlar, kendi çerçevelerini de birlikte getirdi.[^k2]
 
 ## Vergi ve para
 
@@ -230,8 +227,8 @@ dolaşıyordu.
 Kur farkı gündelik bir sorundu.[^k3] Aynı mal, hangi dükkândan
 alındığına göre farklı fiyatlanabiliyordu.
 
-Atlas bu ayrıntıyı önemsiz saymaz.[^k2] Bir düzenin gündelik hayatta
-nasıl işlediği, kurucu belgesinden çok bu tür ayrıntılarda görünür.
+Bir düzenin gündelik hayatta nasıl işlediği,
+kurucu belgesinden çok bu tür ayrıntılarda görünür.[^k2]
 
 ## Savaş yıllarının etkisi
 
@@ -242,9 +239,8 @@ Adalıların bu dönemde gördüğü, önceki kırk yılda gördüklerinden
 farklıydı.[^k3] Ücretli iş, bol malzeme ve farklı bir muamele biçimi
 aynı anda ortaya çıktı.
 
-Atlas bu deneyimi sonraki hareketlerin bir kaynağı sayar.[^k2] Bir
-düzenin doğal görünmesi, karşılaştırma imkânının olmamasına
-bağlıdır.
+Bir düzenin doğal görünmesi, karşılaştırma
+imkânının olmamasına bağlıdır.[^k2]
 
 ## Yerel hareketlerin doğuşu
 
@@ -254,8 +250,8 @@ güçlendi.[^k1] Talep, atalardan kalan toprakların iadesiydi.
 Hareketler ikili yönetime karşı ortak bir muhatap bulmakta
 zorlandı.[^k2] Bir idareden alınan cevap, diğerini bağlamıyordu.
 
-Atlas bu zorluğu düzenin doğrudan sonucu sayar.[^k3] Muhatabı ikiye
-bölünmüş bir yönetimde, itiraz etmenin maliyeti de ikiye katlanır.
+Muhatabı ikiye bölünmüş bir
+yönetimde, itiraz etmenin maliyeti de ikiye katlanır.[^k3]
 
 ## Bağımsızlığa geçiş
 
@@ -265,9 +261,9 @@ devlet kurulurken ada topluluğu adını değiştirdi.
 Geçiş sorunsuz olmadı.[^k2] Bir adada, bağımsızlığın hemen öncesinde
 ayrı bir yönetim ilan edildi ve bu girişim bastırıldı.
 
-Atlas girişimi ikili yönetimin mirası sayar.[^k3] Yetmiş yıl boyunca
-iki ayrı merkeze, iki ayrı okula ve iki ayrı mahkemeye bağlanmış
-topluluklar, tek bir merkeze geçerken kendiliğinden birleşmedi.
+Yetmiş yıl boyunca iki ayrı merkeze, iki
+ayrı okula ve iki ayrı mahkemeye bağlanmış topluluklar, tek bir merkeze geçerken
+kendiliğinden birleşmedi.[^k3]
 
 ## Toprak sorununun devri
 
@@ -279,8 +275,8 @@ Bu karar, ikili yönetimin çözemediği sorunu bir hamlede
 çözmüyordu.[^k2] Hangi toprağın kime ait olduğu, ayrı ayrı
 belirlenmesi gereken bir işti.
 
-Atlas bu devri ayrıca kaydeder.[^k3] Bir yönetimin çözmediği sorun,
-ardılına daha ağırlaşmış olarak devredilir.
+Bir yönetimin çözmediği sorun, ardılına daha
+ağırlaşmış olarak devredilir.[^k3]
 
 ## Ortak yönetim nerede başka görüldü
 
@@ -290,8 +286,8 @@ devletin aynı toprağı birlikte yönettiği düzenler kuruldu.
 Örneklerin ortak yanı, tarafların birbirine güvenmemesidir.[^k3] Ortak
 yönetim, anlaşmanın değil anlaşamamanın ürünüdür.
 
-Atlas bu genellemeyi ihtiyatla yapar.[^k2] Her örnekte tarafların
-gücü, süresi ve orada yaşayanların konumu farklıdır.
+Her örnekte tarafların gücü, süresi
+ve orada yaşayanların konumu farklıdır.[^k2]
 
 ## Süre neden bu kadar uzadı
 
@@ -301,12 +297,10 @@ rağmen değiştirilmedi.
 Nedeni, değişimin bir tarafın kazanması anlamına gelmesiydi.[^k3] İki
 devlet de diğerinin tek başına kalmasını kabul etmiyordu.
 
-Atlas bu kilidi ayrıca kaydeder.[^k2] İşlemeyen bir düzen, taraflardan
-hiçbiri onu değiştirmekten kâr etmiyorsa uzun süre ayakta
-kalabilir.
+İşlemeyen bir düzen, taraflardan hiçbiri onu
+değiştirmekten kâr etmiyorsa uzun süre ayakta kalabilir.[^k2]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, adaların bağımsızlık sonrası siyasetini izlemez.[^k1] Yeni
 devletin kurumları, seçim düzeni ve dış ilişkileri ayrı bir dosyayı
 hak eder ve burada geçiştirilmemelidir.
@@ -319,8 +313,7 @@ Ada topluluklarının kendi kaydından bir birincil metin
 künyelenememiştir.[^k3] Künyedeki iki birincil kaynak da dışarıdan
 gelen tanıklıklardır ve bu kısıt burada beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Adaların ilk haritalanması için
 [James Cook — Güney Kutbuna Doğru Yolculuk](/kaynak/cook-guney-seyir-defteri/)
 dosyası okunmalıdır.[^k2]

@@ -68,4 +68,12 @@ test('sablon kapanis basligi tespiti', () => {
   assert.equal(s.sablon_kapanis, 1);
 });
 
+test('Atlas adini Korpus yapmak oz-gonderim borcunu gizlemez', () => {
+  assert.equal(kalipSay('Korpus bu ayrımı kaydeder.').korpus_oz, 1);
+});
+
+test('bu inceleme iki dogal gecisten sonra tekrar borcu sayilir', () => {
+  assert.equal(kalipSay('Bu inceleme açar. Bu incelemede sınır var. Bu inceleme tekrar eder.').inceleme_tekrari, 1);
+});
+
 console.log(`\n${kosulan} test gecti`);

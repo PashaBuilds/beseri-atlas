@@ -49,7 +49,7 @@ denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-Bu dosyanın en dikkat çekici değeri bir zirve değil, bir sıfırdır.
+Bu incelemenin en dikkat çekici değeri bir zirve değil, bir sıfırdır.
 
 ## Seri iki yüz on iki yıl kapsıyor
 
@@ -57,7 +57,7 @@ Sağlayıcının toplam satırında seri 1800'de başlar ve 2011'de biter; 1800 
 2.063, 2011 değeri 9.400'dür.[^k1]
 
 Planın kapsam satırı daha geç bir bitiş yılı öngörüyordu; sağlayıcının serisi
-2011'de bittiği için bu dosyanın başlığı serinin gerçek sınırını taşır.[^k1]
+2011'de bittiği için bu incelemenin başlığı serinin gerçek sınırını taşır.[^k1]
 
 ## Sıfır bir ölçüm değeridir
 
@@ -65,7 +65,7 @@ Seride en düşük değerler sıfırdır: 1957 ve 1959 yıllarında değer 0'dı
 
 ::tartismali[Sıfır burada "o yıl kimse ölmedi" demek değildir; sağlayıcının bu veri kümesinde saydığı türde bir çatışmanın o yıl kaydedilmediği anlamına gelir.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
-Bir serideki sıfırın iki farklı okuması olması,[^k1] atlasın şu kuralının
+Bir serideki sıfırın iki farklı okuması olması,[^k1] korpusun şu kuralının
 dayanağıdır: sıfır değeri, veri kümesinin sayma tanımıyla birlikte aktarılır.
 Okuma yöntemi
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -88,18 +88,17 @@ Aynı yılları farklı bir tanımla sayan kayıt, İkinci Dünya Savaşı'nın 
 ölümler ile hastalık ve kıtlık ölümleri diye ayırır.[^k3]
 
 İki kaydın aynı savaş için farklı büyüklükler vermesi,[^k1][^k3] tanım farkından
-gelir: bu dosya yıl başına muharebe ölümlerini, diğeri savaşın bütün ölüm
+gelir: bu inceleme yıl başına muharebe ölümlerini, diğeri savaşın bütün ölüm
 türlerini sayar.
 
 ## Ölçek
 
 Uzun dönemli seride dünya nüfusu 1800'de yaklaşık 983,1 milyon, 1945'te yaklaşık
 2,4 milyar, 2011'de yaklaşık 7,11 milyardır.[^k2] Kişi başı bir oran burada
-hesaplanmamıştır; sağlayıcı bu dosyada yüksek ve düşük olmak üzere iki ayrı
+hesaplanmamıştır; sağlayıcı bu incelemede yüksek ve düşük olmak üzere iki ayrı
 tahmin sütunu tutar ve oran hangi sütundan hesaplandığına göre değişir.[^k1]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Savaş türleri, bölge dağılımı ve dolaylı ölümler burada ele alınmamıştır; bu
 dosya tek bir sütunun yıl bazlı değerlerini taşır.[^k1] Daha yeni yıllar için
 farklı bir sayım

@@ -17,13 +17,14 @@ ilgili:
   - donem-11
   - donem-12
   - aktor-asanti-imparatorlugu
-  - olay-atlantik-kole-ticareti
   - kavram-silahli-ticaret
   - kavram-tarih-yazimi
   - kavram-kanit-turu
   - kavram-sozlu-tarih
   - tartisma-sozlu-gelenek-kaynak-mi
   - aktor-zulu-kralligi
+baglam:
+  - olay-atlantik-kole-ticareti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -63,7 +64,7 @@ ve bazı eski birimler ortadan kalktı.
 Sürecin etkisi geniş bir alana yayıldı.[^k2] Bugünkü birden çok ülkenin
 sınırları içinde kalan bölgeler etkilendi.
 
-Bu dosyanın asıl konusu olayın kendisi değil, hakkındaki
+Bu incelemenin asıl konusu olayın kendisi değil, hakkındaki
 anlatıdır.[^k3] Anlatının hem adı hem nedeni tartışmalıdır.
 
 ## Adın kendisi tartışmalı
@@ -76,19 +77,18 @@ Aynı süreç için başka adlar da kullanılmıştır.[^k2] Bir bölümü olay�
 belirli bir topluluğun eseri olarak adlandırır ve fail seçimini adın
 içine yerleştirir.
 
-Atlas bu durumu ayrıca kaydeder.[^k3] **Bir olayın adı, o olay hakkında
-bir iddia taşıyabilir; adlandırma tarafsız bir işlem değildir.**
+**Bir olayın adı, o olay hakkında bir
+iddia taşıyabilir; adlandırma tarafsız bir işlem değildir.**[^k3]
 
-## Adlandırmanın atlas için sonucu
+## Adlandırmanın korpus için sonucu
 
-Atlas bu dosyada yerel dilden gelen adı kullanır.[^k1] Tercih, adın
-tarafsız olduğu için değil, alternatiflerin daha güçlü bir fail iddiası
-taşıdığı içindir.
+Tercih, adın tarafsız olduğu için değil,
+alternatiflerin daha güçlü bir fail iddiası taşıdığı içindir.[^k1]
 
 Tercih bir çözüm değildir.[^k3] Kullanılan ad da bir çerçeve taşır ve
-atlas bunu belirtmeden kullanmaz.
+korpus bunu belirtmeden kullanmaz.
 
-Aynı sorun atlasın başka dosyalarında da vardır.[^k2] Bir olayın nasıl
+Aynı sorun korpusun başka dosyalarında da vardır.[^k2] Bir olayın nasıl
 adlandırılacağı, çoğu zaman o olay hakkındaki tartışmanın kendisidir.
 
 ## Yerleşmiş anlatı
@@ -122,7 +122,7 @@ kaydedilmiş olabilir.
 İki itiraz da aynı şeyi yapar.[^k3] Faili bölgenin içinden dışına
 taşır.
 
-Bu, atlasın Rapa Nui dosyasında ölçtüğü örüntüyle aynıdır.[^k2] İki
+Bu, korpusun Rapa Nui dosyasında ölçtüğü örüntüyle aynıdır.[^k2] İki
 okuma aynı olguya bakar ve farklı fail gösterir; fail seçimi anlatının
 vereceği dersi de belirler.
 
@@ -139,8 +139,8 @@ askerî yeniliğin bölgesel dengeyi nasıl bozduğu anlatılır.
 beslediği hakkındadır.[^k1] Atlantik ve Hint Okyanusu ticaret ağları
 sürecin içine girer.
 
-Atlas iki okumayı da kaydeder ve seçmez.[^k3] İkisi de aynı sınırlı
-kanıt kümesine dayanır.
+İkisi de aynı sınırlı kanıt kümesine
+dayanır.[^k3]
 
 ## Kanıt durumu
 
@@ -151,8 +151,8 @@ Avrupalı gözlemcilerin kayıtları ve arkeolojik bulgular.
 ihtiyacını taşır; gözlemci kayıtları geç tarihli ve dolaylıdır;
 arkeolojik bulgu nüfus hareketini tarihlemekte zorlanır.
 
-Atlas bu sınırı ayrıca kaydeder.[^k1] Üç kaynak türünün de zayıf olduğu
-bir konuda, güçlü bir nedensellik iddiası kurulamaz.
+Üç kaynak türünün de zayıf olduğu
+bir konuda, güçlü bir nedensellik iddiası kurulamaz.[^k1]
 
 ## Sözlü aktarımın konumu
 
@@ -160,7 +160,7 @@ Sürecin en ayrıntılı anlatıları sözlü aktarımdan gelir.[^k2] Aktarım,
 sonraki dönemde kurulan siyasi birimlerin saraylarında
 sürdürülmüştür.
 
-Bu, aktarımın değerini ortadan kaldırmaz.[^k1] Atlasın sözlü gelenek
+Bu, aktarımın değerini ortadan kaldırmaz.[^k1] Korpusun sözlü gelenek
 tartışması, aktarımın kurallarının bilinmesi hâlinde güvenilirlik
 derecesinin de değerlendirilebileceğini kaydeder.
 
@@ -176,7 +176,7 @@ başlar.[^k2] Kayıtlar, olayın kendisini değil sonuçlarını görür.
 Gözlemciler boşalmış alanlar gördüler ve boşluğu bir yıkımla
 açıkladılar.[^k3] Açıklama, gözlemin kendisi değil bir çıkarımdı.
 
-Bu, atlasın Rapa Nui dosyasında kaydedilen mekanizmanın aynısıdır.[^k1]
+Bu, korpusun Rapa Nui dosyasında kaydedilen mekanizmanın aynısıdır.[^k1]
 Bir gözlemcinin kaydı ile o gözlemcinin çıkarımı ayrı ayrı
 değerlendirilmelidir.
 
@@ -185,9 +185,8 @@ değerlendirilmelidir.
 Boşalmış toprak anlatısının bir sonucu vardır.[^k2] Sonraki yerleşim
 hareketleri, boş sayılan toprağa yerleşme olarak sunulabilmiştir.
 
-Atlas bu bağı bir suçlama olarak değil bir işlev tespiti olarak
-kaydeder.[^k3] Bir anlatının belirli bir sonucu kolaylaştırması, o
-anlatının bu amaçla üretildiğini göstermez.
+Bir anlatının belirli bir sonucu
+kolaylaştırması, o anlatının bu amaçla üretildiğini göstermez.[^k3]
 
 İşlev yine de kaydedilmelidir.[^k1] Bir anlatı, dayandığı kanıt
 tartışmalıyken bile işlevi sayesinde ayakta kalabilir.
@@ -201,8 +200,8 @@ sayılır.
 Yeniliğin kapsamı tartışmalıdır.[^k1] Bazı unsurların daha önce de
 kullanıldığı, yeniliğin bileşimde olduğu ileri sürülür.
 
-Atlas bir sonuca bağlanmaz.[^k3] Askerî yeniliğin varlığı ile o
-yeniliğin bütün süreci açıklaması ayrı iki iddiadır.
+Askerî yeniliğin varlığı ile o yeniliğin
+bütün süreci açıklaması ayrı iki iddiadır.[^k3]
 
 ## Yaş gruplarına dayalı örgütlenme
 
@@ -210,12 +209,12 @@ Sürekli birliklerin yaş gruplarına göre kurulması, akrabalık
 bağlarının yerine yeni bir bağ koyar.[^k2] Bu, siyasi merkezileşmeyi
 doğrudan destekler.
 
-Aynı mekanizma atlasın başka dosyalarında da ölçülmüştür.[^k1] Akrabalık
+Aynı mekanizma korpusun başka dosyalarında da ölçülmüştür.[^k1] Akrabalık
 dışı bir örgütlenme birimi kurmak, merkezin yerel önderlere
 bağımlılığını azaltır.
 
-Atlas mekanizmayı kaydeder ve bu örneğe özgü saymaz.[^k3] Aynı çözüm
-farklı bölgelerde bağımsız olarak geliştirilmiştir.
+Aynı çözüm farklı bölgelerde bağımsız
+olarak geliştirilmiştir.[^k3]
 
 ## Sürecin sonuçları
 
@@ -234,10 +233,10 @@ Kayıp tahminleri, sürecin ölçeğini gösteren en çok alıntılanan
 sayılardır.[^k2] Tahminlerin nasıl üretildiği çoğu zaman
 belirtilmez.
 
-Atlas bu nedenle sayı vermez.[^k1] Sayı vermek yerine yöntemin ne
-olduğunu ve hangi varsayımlara dayandığını yazar.
+Sayı vermek yerine yöntemin ne
+olduğunu ve hangi varsayımlara dayandığını yazar.[^k1]
 
-Bu, atlasın nüfus dosyasında tanımlanan genel kuraldır.[^k3] Farklı
+Bu, korpusun nüfus dosyasında tanımlanan genel kuraldır.[^k3] Farklı
 yöntemlerle üretilmiş sayılar aynı seriye konulamaz.
 
 ## Çevresel etken iddiası
@@ -262,8 +261,8 @@ okuyor; bu üçüncüsü yeni bir kayıt getiriyor.
 Kanıtın varlığı açıklamayı doğrulamaz.[^k1] Kuraklık ile çatışma
 arasındaki bağın kurulması ayrıca gerekir ve bu bağ ölçülmemiştir.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k2] Yeni bir kanıt türünün devreye
-girmesi, tartışmayı çözmez ama sınanabilir hâle getirir.
+Yeni bir kanıt türünün devreye girmesi, tartışmayı
+çözmez ama sınanabilir hâle getirir.[^k2]
 
 ## Üç açıklamanın birlikte durumu
 
@@ -275,10 +274,10 @@ Bu birleşik okuma en makul görünendir ve en az sınanabilir
 olanıdır.[^k3] Üç etkenin ağırlığı ayrı ayrı ölçülmediği sürece, birleşik
 okuma her sonuca uyar.
 
-Atlas bu riski ayrıca kaydeder.[^k2] Her etkeni kapsayan bir açıklama,
-hiçbirini sınamayan bir açıklama olabilir.
+Her etkeni kapsayan bir açıklama,
+hiçbirini sınamayan bir açıklama olabilir.[^k2]
 
-## Bu dosyanın kaydettiği
+## Bu incelemenin kaydettiği
 
 Dosya, sürecin nedeni hakkında hüküm vermez.[^k1] İki okumayı, kanıt
 durumunu ve adlandırma sorununu kaydeder.
@@ -288,12 +287,11 @@ kanıttan önce yapılabildiği, adın bile bir iddia taşıyabildiği ve üç
 kaynak türünün de zayıf olduğu bir konuda güçlü bir sonuç
 kurulamayacağı.
 
-Bu, atlasın kaçındığı hatanın tersidir.[^k2] Bir konuda kesin
+Bu, korpusun kaçındığı hatanın tersidir.[^k2] Bir konuda kesin
 konuşamamak, o konuyu yazmamak için gerekçe değildir; kesin
 konuşamadığını yazmak da bir kayıttır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, yerleşmiş anlatının yanlış olduğunu ileri sürmez.[^k1] İtirazların
 varlığını ve dayanaklarını kaydeder.
 
@@ -301,12 +299,11 @@ varlığını ve dayanaklarını kaydeder.
 kanıta dayanır.
 
 Sürecin ayrıntılı seyri ve tek tek çatışmalar işlenmez.[^k2] Ayrı
-dosyalar gerektirir ve bu dosya yazıldığında atlasta bulunmuyorlardı;
+dosyalar gerektirir ve bu inceleme yazıldığında korpusta bulunmuyorlardı;
 bölgedeki siyasi birimlerin hiçbiri için ayrı bir aktör dosyası da
 yoktur ve bu, açık bir borçtur.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Fail seçiminin kanıttan önce yapılması sorunu için
 [Rapa Nui](/aktor/rapa-nui/) dosyası okunmalıdır; iki dosya birlikte
 okunduğunda aynı yapı iki kıtada görünür.[^k1]

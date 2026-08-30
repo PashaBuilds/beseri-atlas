@@ -13,8 +13,9 @@ eksen: [ekonomik, kulturel, felsefi]
 guven_geneli: yaygin
 etiketler: [konjonktur, annales, labrousse, seri-tarih, fiyat-dizisi, zaman-katmani]
 ilgili:
-  - kavram-longue-duree
   - dusunur-braudel
+baglam:
+  - kavram-longue-duree
   - kavram-tarih-yazimi
   - kavram-donemlendirme
   - kavram-dunya-sistemi

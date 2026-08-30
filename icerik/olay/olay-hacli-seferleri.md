@@ -50,7 +50,7 @@ Seferlerin başlangıcı bir dinî uyanış değil, bir askerî yardım talebidi
 VII. Gregorius imparatorun askerî yardım çağrısını olumlu karşılamış ancak yardım
 gerçekleştirilememişti; on beş yıl sonra papalık tahtına çıkan II. Urbanus ile
 Bizans İmparatoru I. Aleksios Komnenos (1081-1118) arasında aynı konu yeniden ele
-alındı.[^k1] Bu dosya, o talebin **nasıl başka bir şeye dönüştüğünü** ele alır.
+alındı.[^k1] Bu inceleme, o talebin **nasıl başka bir şeye dönüştüğünü** ele alır.
 
 ## Talebin gerekçesi
 
@@ -78,7 +78,7 @@ bakımdan dinî hisleri tatmin edecek bir cazibe ile Doğu'ya yönlendirme, ve s
 Îsâ aşkı, din uğruna fedakârlık ve din kardeşlerine sevgi teması üzerine
 oturtulması.[^k1]
 
-Bu, atlas için ender bir malzemedir: bir kitlesel hareketin gerekçesinin nasıl
+Bu, korpus için ender bir malzemedir: bir kitlesel hareketin gerekçesinin nasıl
 kurgulandığı, hareketin kendi kaynak geleneğinde açıkça anlatılmaktadır.
 
 ## Çağrının yapıldığı an
@@ -104,8 +104,7 @@ devletin dışarıdan asker istemesi, kaybın yalnızca toprakla değil askerî 
 kaynağıyla da ilgili olduğunu düşündürür; devletin kendisi
 [Bizans İmparatorluğu](/aktor/bizans-imparatorlugu/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Seferlerin tek tek seyri, sonrasında kurulan devletler, sefer sayısı ve
 sınıflandırması ile bölgedeki uzun vadeli sonuçlar burada ayrı başlıklar altında
 ele alınmamıştır; kullanılan kaynak bölümünün kapsamı çağrının kendisidir.

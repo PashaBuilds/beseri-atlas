@@ -242,6 +242,32 @@ if (process.argv[1]?.endsWith('matris.mjs')) {
     idler = process.argv.slice(2).filter((a) => !a.startsWith('--'));
     if (idler.length === 0) { console.error('kullanim: node araclar/matris.mjs <id> ... | --hepsi'); process.exit(1); }
   }
+  if (process.argv.includes('--yenileme-listesi')) {
+    const satirlar = [];
+    for (const id of idler) {
+      const matris = matrisOku(id); const makale = haritada.get(id);
+      if (!matris || !makale) continue;
+      const hashBayat = matris.govde_hash !== govdeHash(makale.govde);
+      const kayip = tazelenebilirMi(matris, makale).kayip;
+      if (hashBayat || kayip.length) satirlar.push({ id, hashBayat, kayip });
+    }
+    const toplamKayip = satirlar.reduce((n, s) => n + s.kayip.length, 0);
+    const metin = [
+      '# Kör-hakem yenileme borcu', '',
+      '_Bu dosya `node araclar/matris.mjs --yenileme-listesi --hepsi` ile üretilir._', '',
+      'Gövde parmak izi değişen veya matristeki iddia cümlesi güncel gövdede birebir izlenemeyen kayıtlar. Bu satırlar otomatik onaylanmaz; bağımsız bir hakem cümleyi ve kaynak desteğini yeniden sınamalıdır.', '',
+      `Yenilenecek matris: **${satirlar.length}** · İzlenemeyen iddia cümlesi: **${toplamKayip}**`, '',
+      '| makale | gövde hash’i | izlenemeyen iddia kimlikleri |',
+      '|---|---|---|',
+      ...satirlar.map((s) => `| \`${s.id}\` | ${s.hashBayat ? 'bayat' : 'güncel'} | ${s.kayip.length ? s.kayip.map((x) => `\`${x}\``).join(', ') : '—'} |`),
+      '',
+      '> Site bu listedeki makalelerde güncel kör-hakem rozeti göstermez. Hash tek başına yeterli değildir; bütün iddia cümleleri de metinde izlenebilir olmalıdır.', '',
+    ].join('\n');
+    const hedef = path.join(KOK, 'denetim', 'hakem-yenileme-borcu.md');
+    fs.writeFileSync(hedef, metin);
+    console.log(`yenileme listesi: ${satirlar.length} matris · ${toplamKayip} izlenemeyen iddia -> ${path.relative(KOK, hedef)}`);
+    process.exit(0);
+  }
   if (process.argv.includes('--eksik-iddia')) {
     // TERS YONDEKI BOSLUK: govdede dipnotlu bir cumle var ama matriste
     // kaydi yok. Bu, matrisin sessizce eksik kalmasi demektir — sayaclar

@@ -85,8 +85,7 @@ Uzun dönemli seride dünya nüfusu 1991'de yaklaşık 5,42 milyar, 2008'de yakl
 6,84 milyardır.[^k3] Birliğin kendi nüfusuna dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ortak pazar, para birliği, kurumların yetki dağılımı ve genişleme
 müzakerelerinin içeriği burada ayrı başlıklar altında ele alınmamıştır; kaynak
 bunları ayrı bölümler olarak işler.[^k1] Dönemin bütünü [1991–2008](/donem/15/)

@@ -62,8 +62,8 @@ denizden olanlar.[^k1]
 
 ## Yol bir hat değil bir sınıflandırmadır
 
-Aynı yolların ulaşım biçimine göre üç kategoriye ayrılması,[^k1] atlasın şu
-kuralının dayanağıdır: bu atlasta ticaret yolu adları, bir çizgi değil bir yollar
+Aynı yolların ulaşım biçimine göre üç kategoriye ayrılması,[^k1] korpusun şu
+kuralının dayanağıdır: bu korpusta ticaret yolu adları, bir çizgi değil bir yollar
 demeti olarak anılır.
 
 ## Erken gelişim ayrı bir alt başlıktır
@@ -71,8 +71,8 @@ demeti olarak anılır.
 Kaynak, erken yolların gelişimi başlığı altında erken gelişim, deniz ticareti ve
 görünür ticaret yolları alt başlıklarını tutar.[^k1]
 
-Görünür ticaret yollarının ayrı bir alt başlık taşıması,[^k1] atlasın şu
-kuralının dayanağıdır: bu atlasta yol adları, hangi kanıt türüne dayandığı
+Görünür ticaret yollarının ayrı bir alt başlık taşıması,[^k1] korpusun şu
+kuralının dayanağıdır: bu korpusta yol adları, hangi kanıt türüne dayandığı
 belirtilerek anılır.
 
 ## İlk sırada sayılan kara yolu
@@ -87,9 +87,8 @@ göçebelerinin katkılarını göz ardı ettiğini kaydeder.[^k2] O yol
 Uzun dönemli seride dünya nüfusu MS 100 için yaklaşık 237,1 milyon, 1500 için
 yaklaşık 503,1 milyondur.[^k3]
 
-Atlas bu seriyi ticaret hacminin göstergesi olarak sunmaz; seri nüfus verir,
-ticaret vermez.[^k1][^k3] Ticaretle kurulmuş bir siyasi biçim
-[Hansa Birliği](/aktor/hansa-birligi/) dosyasında ele alınıyor.
+Ticaretle kurulmuş bir siyasi biçim [Hansa
+Birliği](/aktor/hansa-birligi/) dosyasında ele alınıyor.[^k1][^k3]
 
 
 ## Tanım
@@ -101,9 +100,8 @@ bağlantılıdır.
 Ağ siyasi bir birim değildir.[^k2] Üyeleri bulundukları yerin
 yönetimine tabidir.
 
-Atlas bu ayrımı kavramın merkezine koyar.[^k3] Bir ticaret ağı, siyasi
-sınırlardan bağımsız işleyebilir ve bu onun en belirgin
-özelliğidir.
+Bir ticaret ağı, siyasi sınırlardan bağımsız
+işleyebilir ve bu onun en belirgin özelliğidir.[^k3]
 
 ## Güvenin kaynağı
 
@@ -113,9 +111,8 @@ Uzun mesafeli ticaret güven gerektirir.[^k1] Malı teslim eden ile
 Ortak köken bu güveni sağlar.[^k2] Akrabalık, ortak dil ve ortak inanç
 bir yaptırım mekanizması üretir.
 
-Atlas bu mekanizmayı ayrıca kaydeder.[^k3] Hukuki yaptırımın
-ulaşmadığı bir mesafede, topluluk içi itibar tek yaptırım
-aracı olabilir.
+Hukuki yaptırımın ulaşmadığı bir
+mesafede, topluluk içi itibar tek yaptırım aracı olabilir.[^k3]
 
 ## İtibarın işleyişi
 
@@ -125,9 +122,8 @@ Yaptırım, ticaretten dışlanma tehdididir.[^k1] Sözünde durmayan bir
 Bu, mahkemeden hızlı ve ucuzdur.[^k2] Bilgi ağ içinde hızla
 yayılır.
 
-Atlas bu düzeni ayrıca kaydeder.[^k3] Bir yaptırım mekanizmasının
-etkisi, bilginin ne kadar hızlı yayıldığına
-bağlıdır.
+Bir yaptırım mekanizmasının
+etkisi, bilginin ne kadar hızlı yayıldığına bağlıdır.[^k3]
 
 ## Aracılık işlevi
 
@@ -138,22 +134,20 @@ bağlıdırlar.
 Bu, onları vazgeçilmez aracı yapar.[^k2] Aynı konum onları hedef de
 hâline getirir.
 
-Atlas bu ikiliği ayrıca kaydeder.[^k3] Aracı bir topluluğun konumu,
-onu hem gerekli hem kırılgan
-kılar.
+Aracı bir topluluğun konumu, onu hem
+gerekli hem kırılgan kılar.[^k3]
 
 ## Kırılganlığın kaynağı
 
 Aracılıktan doğan bir gelir, tarafların doğrudan ilişki kurması
-hâlinde yok olur.[^k1] Bu, atlasın birçok dosyasında
+hâlinde yok olur.[^k1] Bu, korpusun birçok dosyasında
 kayıtlıdır.
 
 İkinci kırılganlık siyasidir.[^k2] Kriz dönemlerinde aracı topluluk,
 her iki tarafça da yabancı sayılabilir.
 
-Atlas bu riski ayrıca kaydeder.[^k3] İki tarafı da tanıyan bir
-topluluk, gerginlik arttığında ikisine de ait
-sayılmayabilir.
+İki tarafı da tanıyan bir topluluk, gerginlik
+arttığında ikisine de ait sayılmayabilir.[^k3]
 
 ## Yerel uyum
 
@@ -164,9 +158,8 @@ Ayırt edici bağ çoğu zaman inanç ve evlilik düzeniyle
 korunur.[^k2] Bu iki alan, uyumun sınırını
 belirler.
 
-Atlas bu sınırı ayrıca kaydeder.[^k3] Bir topluluğun sürekliliği,
-en çok grup içi evlilik kuralıyla
-korunur.
+Bir topluluğun sürekliliği, en çok
+grup içi evlilik kuralıyla korunur.[^k3]
 
 ## Kaydın durumu
 
@@ -178,9 +171,8 @@ kayıtları.
 kayıt topluluğun hukuki konumunu
 gösterir.
 
-Atlas ikisini birlikte kullanır.[^k3] Bir topluluğun ağırlığı,
-kendi kaydından değil bulunduğu yerin vergi kayıtlarından da
-okunabilir.
+Bir topluluğun ağırlığı, kendi kaydından değil
+bulunduğu yerin vergi kayıtlarından da okunabilir.[^k3]
 
 ## Ölçüt
 
@@ -190,9 +182,8 @@ yerleşiklik ve limanlar arası düzenli bağlantı.
 Üçü birlikte gerekir.[^k2] Tek bir limanda yerleşik bir tüccar grubu bu
 kavramı gerektirmez.
 
-Atlas bu ölçütleri her dosyada uygular.[^k3] Bir ağın varlığı,
-düğümlerin sayısı kadar aralarındaki bağlantının düzenliliğiyle de
-ölçülür.
+Bir ağın varlığı, düğümlerin sayısı
+kadar aralarındaki bağlantının düzenliliğiyle de ölçülür.[^k3]
 
 
 ## Dilin izi
@@ -204,8 +195,7 @@ kaydıdır.
 Bu diller siyasi denetim sona erdikten sonra da
 sürebilir.[^k2] Bir ağın en uzun ömürlü kalıntısı çoğu zaman dilidir.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Yolların ayrıntısı, taşınan mallar ve ticaretin iktisadi etkileri burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

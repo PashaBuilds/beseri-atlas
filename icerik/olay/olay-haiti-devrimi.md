@@ -48,7 +48,7 @@ onarim_turu: 0
 ---
 
 Haiti Devrimi, köleleştirilmiş Afrikalıların Saint-Domingue'deki Fransız sömürge
-yönetimine karşı başarıya ulaşan bir ayaklanmasıydı.[^k1] Bu dosya, sürecin
+yönetimine karşı başarıya ulaşan bir ayaklanmasıydı.[^k1] Bu inceleme, sürecin
 **süresini, bilançosunu ve çerçevesini** ele alır.
 
 ## Süre
@@ -78,7 +78,7 @@ Fransa için 57.000–75.000 ölü (bunun 37.000'i muharebede), beyaz sömürgec
 25.000 ölü.[^k1]
 
 Bu listede eksik olan taraf dikkat çekicidir: ayaklanan nüfusun kaybına dair bir
-sayı kaynağın bu bölümünde verilmemiştir. Atlas eksik veriyi tamamlamaz; eksik
+sayı kaynağın bu bölümünde verilmemiştir. Korpus eksik veriyi tamamlamaz; eksik
 olduğunu yazar.
 
 ## Çerçevenin çelişkisi
@@ -102,7 +102,7 @@ ele alır.[^k1]
 
 Kaynağın kullandığı bağımsızlık borcu ifadesi,[^k1] bağımsızlığın mali bir yük
 karşılığında tanındığını işaret eder; bu, sonraki dönemlerin tartışma
-konularından biridir ve bu dosyada karara bağlanmaz.
+konularından biridir ve bu incelemede karara bağlanmaz.
 
 ## Ölçek
 
@@ -110,8 +110,7 @@ Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyondur.[^k3]
 Saint-Domingue'ün kendi nüfusuna dair bir ölçüm kullanılan kaynaklarda
 bulunmadığı için bu toplam içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ayaklanmanın askerî seyri, önderlerinin biyografileri, adadaki toplumsal
 tabakalaşma ve bağımsızlık sonrası devlet kurma süreci burada ayrı başlıklar altında ele
 alınmamıştır. Dönemin bütünü [1789–1848](/donem/11/) dosyasında ele alınıyor.

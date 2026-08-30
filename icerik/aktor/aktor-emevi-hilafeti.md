@@ -18,9 +18,10 @@ etiketler: [emeviler, dimask, hilafet, mevali, cizye, harac, sikke, abdulmelik, 
 ilgili:
   - donem-06
   - aktor-abbasi-hilafeti
+  - olay-islam-fetihleri
+baglam:
   - aktor-bizans-imparatorlugu
   - aktor-fatimi-hilafeti
-  - olay-islam-fetihleri
   - kavram-mesruiyet
   - kavram-veraset
   - kavram-vergi

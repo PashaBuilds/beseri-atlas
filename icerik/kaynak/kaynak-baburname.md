@@ -69,7 +69,7 @@ Bâbürnâme, bir hükümdarın kendi hayatını birinci ağızdan anlattığı
 hatırattır.[^k1][^k2] Anlatı gençlik yıllarındaki taht mücadelesiyle başlar
 ve son seferlerle biter.
 
-Metnin atlas açısından ayırt edici yanı, yenilgilerin de yazılmış
+Metnin korpus açısından ayırt edici yanı, yenilgilerin de yazılmış
 olmasıdır.[^k1] Kaybedilen şehirler, dağılan ordular ve yanlış hesaplanan
 kararlar aynı ayrıntıyla kaydedilir.
 
@@ -87,9 +87,8 @@ Bu ölçüt mutlak değildir. Bir yenilgiyi kabul etmek, sonraki başarıyı dah
 etkileyici kılan bir anlatı tekniği de olabilir;[^k1] samimiyet ile
 kurgu her zaman ayrılamaz.
 
-Atlas bu yüzden metni bir doğruluk garantisi olarak değil, olağandışı bir
-kayıt biçimi olarak künyeler.[^k2] Değeri, ne söylediği kadar nasıl
-kurulduğundadır.
+Değeri, ne söylediği kadar
+nasıl kurulduğundadır.[^k2]
 
 ## Doğa ve gündelik hayat kayıtları
 
@@ -97,7 +96,7 @@ Metnin önemli bir bölümü, gezilen bölgelerin bitki örtüsüne, hayvanları
 meyvelerine ve yerel âdetlerine ayrılmıştır.[^k1] Bu bölümler siyasi
 anlatının arasına serpiştirilmiştir.
 
-Bu malzeme atlasın öteki kaynaklarında seyrek bulunur.[^k2] Bir hükümdarın
+Bu malzeme korpusun öteki kaynaklarında seyrek bulunur.[^k2] Bir hükümdarın
 bir meyvenin tadını ya da bir kuşun göçünü kaydetmesi, dönemin çevre ve
 gündelik hayat tarihi için doğrudan kanıt sağlar.
 
@@ -107,7 +106,7 @@ tarif eder; değerlendirmeleri bir kıyaslamadır, bir ölçüm değil.
 
 ## Karşılaştırmalı okuma
 
-Bu dosya, atlasın Güney Asya kaynak katmanındaki idari envanterle birlikte
+Bu inceleme, korpusun Güney Asya kaynak katmanındaki idari envanterle birlikte
 okunmak üzere yazılmıştır.[^k3] İki metin aynı hanedanın iki ayrı yüzünü
 gösterir.
 
@@ -115,7 +114,7 @@ Fark keskindir. Hatırat bir kişinin kararlarını ve hatalarını anlatır;
 envanter aynı hanedanın iki kuşak sonraki hesap defteridir ve kişiyi
 görünmez kılar.[^k3]
 
-İki metnin yan yana okunması, atlasın
+İki metnin yan yana okunması, korpusun
 [Büyük adam kuramı](/tartisma/buyuk-adam-kurami/) tartışmasına doğrudan
 malzeme verir.[^k1] Aynı hanedan, bir metinde bir kişiye, ötekinde bir
 sisteme benzer.
@@ -130,24 +129,22 @@ Metnin bazı bölümleri eksiktir ve elde bulunan nüshalarda boşluklar
 vardır.[^k2] Bu boşluklar künyede gösterilmez ama metne atıf yapılırken
 dikkate alınmalıdır.
 
-Atlas metni iki ayrı alan adından künyeler.[^k1][^k2] Aynı çevirinin iki
-erişim noktası bulunması, bir alan adının erişilemez hâle gelmesi durumunda
-kaynağın kaybolmamasını sağlar.
+Aynı çevirinin iki erişim noktası bulunması, bir
+alan adının erişilemez hâle gelmesi durumunda kaynağın kaybolmamasını sağlar.[^k1][^k2]
 
 ## Kapsam dışı
 
-Bu dosya metnin ne olduğunu ve nasıl okunması gerektiğini kaydeder; olayları
+Bu inceleme metnin ne olduğunu ve nasıl okunması gerektiğini kaydeder; olayları
 özetlemez.[^k1] Metin kaynaklarda erişilebilir durumdadır.
 
 Yazarın kurduğu siyasi düzenin tarihi burada işlenmez.[^k3] Bunun için
 [Babür İmparatorluğu](/aktor/babur-imparatorlugu/) dosyası okunmalıdır.
 
 Metnin edebî özellikleri, dili ve sonraki edebiyat üzerindeki etkisi de
-kapsam dışıdır.[^k2] Ayrı bir dosya gerektirir ve bu dosya yazıldığında
-atlasta bulunmuyordu.
+kapsam dışıdır.[^k2] Ayrı bir dosya gerektirir ve bu inceleme yazıldığında
+korpusta bulunmuyordu.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Yazarın kurduğu siyasi düzen için
 [Babür İmparatorluğu](/aktor/babur-imparatorlugu/), geldiği hanedan çizgisi
 için [Timur İmparatorluğu](/aktor/timur-imparatorlugu/) dosyaları

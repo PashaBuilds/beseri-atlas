@@ -49,7 +49,7 @@ onarim_turu: 0
 Krizin en öğretici ayrıntısı bir kelime tercihidir. 22 Ekim'de Kennedy, Küba'ya
 daha fazla füze ulaşmasını önlemek için deniz ablukası emri verdi; ablukayı
 "blokaj" değil "karantina" olarak adlandırdı, böylece ABD savaş hali sayılmanın
-resmî sonuçlarından kaçınabilecekti.[^k1] Bu dosya, o tercihi merkeze alır.
+resmî sonuçlarından kaçınabilecekti.[^k1] Bu inceleme, o tercihi merkeze alır.
 
 ## Adlandırma bir hukuki işlemdir
 
@@ -57,7 +57,7 @@ Abluka, uluslararası hukukta savaş haliyle ilişkilendirilen bir eylemdir; ayn
 fiilin karantina olarak adlandırılması, eylemi değiştirmeden hukuki sonucunu
 değiştirmeyi amaçlar.[^k1]
 
-Atlas bu tür örnekleri özellikle kaydeder: siyasi dilin, olguyu değil olgunun
+Korpus bu tür örnekleri özellikle kaydeder: siyasi dilin, olguyu değil olgunun
 hukuki çerçevesini hedeflediği anlar, kaynak okumanın neden gerekli olduğunu
 gösterir.
 
@@ -104,8 +104,7 @@ Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yakl
 5,42 milyardır.[^k3] Krizin risk altındaki nüfusuna dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Askerî harekât planları, füzelerin teknik özellikleri, krizin gün gün seyri ve
 sonrasındaki silahsızlanma görüşmeleri burada ayrı başlıklar altında ele
 alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1] Dönemin bütünü

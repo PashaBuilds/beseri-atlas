@@ -47,7 +47,7 @@ onarim_turu: 0
 
 Krizin merkezinde bir mülkiyet kararı vardır. Kaynak, konuyu Süveyş Kanalı'nın
 millîleştirilmesi başlığı altında ele alır ve Britanya, Fransa ile Milletler
-Topluluğu tepkilerini ayrı alt başlıklar olarak sıralar.[^k1] Bu dosya, kararın
+Topluluğu tepkilerini ayrı alt başlıklar olarak sıralar.[^k1] Bu inceleme, kararın
 **nasıl alındığını ve nasıl karşılandığını** ele alır.
 
 ## Kararın kendisi eleştiri konusudur
@@ -57,8 +57,8 @@ aktarır: Mısırlı tarihçi Abd el-Azim Ramazan, Nasır'ın Süveyş Kanalı'n
 istişare olmaksızın millîleştirme kararını, onun yalnız karar alma eğiliminin bir
 örneği olarak not eder.[^k1]
 
-Bu, atlas için değerli bir malzemedir: eleştiri, karşı taraftan değil aynı ülkenin
-tarih yazımından gelmektedir. Atlas bu değerlendirmeyi ne onaylar ne reddeder;
+Bu, korpus için değerli bir malzemedir: eleştiri, karşı taraftan değil aynı ülkenin
+tarih yazımından gelmektedir. Korpus bu değerlendirmeyi ne onaylar ne reddeder;
 kimin söylediğini belirterek aktarır.
 
 ## Öncesindeki tırmanma
@@ -90,7 +90,7 @@ Uyuşmazlığın hukuki cephesi de kayıtlıdır: Mısır Akabe Körfezi'ni ablu
 aldı ve bu, 1888 tarihli İstanbul Sözleşmesi'ne aykırıydı; birçok kişi bunun aynı
 zamanda 1949 Ateşkes Anlaşmaları'nın da ihlali olduğunu ileri sürdü.[^k1]
 
-"Birçok kişi ileri sürdü" ifadesi bir uzlaşıyı değil bir iddiayı bildirir; atlas
+"Birçok kişi ileri sürdü" ifadesi bir uzlaşıyı değil bir iddiayı bildirir; korpus
 bu ayrımı korur.
 
 ## Ölçek
@@ -99,8 +99,7 @@ Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyardır.[^k3] Kri
 taraflarının nüfusuna dair bir ölçüm kullanılan kaynaklarda bulunmadığı için bu
 toplam içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Askerî harekâtın seyri, Sèvres Protokolü, ateşkes süreci ve krizin Britanya ile
 Fransa'nın konumu üzerindeki uzun vadeli sonuçları burada ayrı başlıklar altında
 ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1] Dönemin bütünü

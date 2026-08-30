@@ -61,7 +61,7 @@ için toplam 21 gözlem vardır.[^k1]
 Gözlem sayısının yıl sayısına oranı yaklaşık on yılda bir noktaya karşılık
 gelir.[^k1]
 
-::tartismali[Bu seri bir ölçüm dizisi değil, bir yeniden kurma projesidir. Aradaki yıllar için değer okunamaz ve iki gözlem arasında çizilen çizgi bir varsayımdır. Atlas bu seriden yıllık büyüme oranı türetmez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bu seri bir ölçüm dizisi değil, bir yeniden kurma projesidir. Aradaki yıllar için değer okunamaz ve iki gözlem arasında çizilen çizgi bir varsayımdır. Korpus bu seriden yıllık büyüme oranı türetmez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Sayıların nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -74,7 +74,7 @@ yılların değerlerini karşılaştırılabilir kılmak için kurulmuş bir hes
 birimidir.[^k1]
 
 Bir ölçünün biriminin doğrudan bir para birimi değil bir dönüştürme kurgusu
-olması,[^k1] atlasın şu kuralının dayanağıdır: bu seriden okunan değerler,
+olması,[^k1] korpusun şu kuralının dayanağıdır: bu seriden okunan değerler,
 birimin ne olduğu belirtilmeden aktarılmaz.
 
 ## Aynı sağlayıcının nüfus serisi
@@ -82,9 +82,8 @@ birimin ne olduğu belirtilmeden aktarılmaz.
 Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1820 için yaklaşık
 1,09 milyar, 2020 için yaklaşık 7,89 milyardır.[^k2]
 
-Atlas iki seriyi çarparak toplam hasıla üretmez; iki kümenin gözlem yılları ve
-yeniden kurma yöntemi aynı değildir.[^k1][^k2] Nüfus serisi
-[Dünya nüfusu, 1500–2025](/veri/dunya-nufusu-1500-2025/) dosyasında ele alınıyor.
+Nüfus serisi [Dünya nüfusu,
+1500–2025](/veri/dunya-nufusu-1500-2025/) dosyasında ele alınıyor.[^k1][^k2]
 
 ## Serinin tartışıldığı tez
 
@@ -94,11 +93,10 @@ düzeylerine ulaştığını savunan bir kitabı anlatır.[^k3] O tez
 [Pomeranz — Büyük Ayrışma](/kaynak/pomeranz-buyuk-ayrisma/) dosyasında, kavram
 ise [Büyük Ayrışma](/kavram/buyuk-ayrisma/) dosyasında ele alınıyor.
 
-Atlas bu seriyi o tezin kanıtı ya da çürütmesi olarak sunmaz: seri dünya
+Korpus bu seriyi o tezin kanıtı ya da çürütmesi olarak sunmaz: seri dünya
 toplamını verir, tez ise bölgeler arası bir karşılaştırma yapar.[^k1][^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ülke ülke değerler, satın alma gücü düzeltmeleri ve yeniden kurma yöntemi burada
-ayrı başlıklar altında ele alınmamıştır; bu dosya yalnızca dünya toplamı
+ayrı başlıklar altında ele alınmamıştır; bu inceleme yalnızca dünya toplamı
 serisini kaydeder.[^k1]

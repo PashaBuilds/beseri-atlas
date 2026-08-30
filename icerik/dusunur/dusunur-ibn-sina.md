@@ -54,11 +54,11 @@ onarim_turu: 0
 
 İbn Sînâ, Sâmânî hâkimiyetindeki Buhara çevresinde doğdu ve yetişti; hayatının
 büyük bölümünü İran'ın çeşitli hanedan merkezlerinde, hekim ve saray görevlisi
-olarak geçirdi.[^k1][^k2] Bu coğrafya, atlasta ayrı bir bölge olarak tutulan
+olarak geçirdi.[^k1][^k2] Bu coğrafya, korpusta ayrı bir bölge olarak tutulan
 Orta Asya ile İslam dünyasının kesiştiği yerdir; dosyanın iki bölge etiketi
 taşımasının sebebi budur.
 
-Bölge etiketinin çift olması yalnızca bir künye ayrıntısı değildir. Atlasın
+Bölge etiketinin çift olması yalnızca bir künye ayrıntısı değildir. Korpusun
 bölge şeması, siyasi birimleri doğdukları coğrafyaya göre ayırır; bir düşünürün
 hem Buhara'nın hem de İran'daki hanedan merkezlerinin çevresinde çalışmış
 olması,[^k1][^k2] tek bölgeye kilitlenmiş bir okumanın onu eksik göstereceği
@@ -66,8 +66,7 @@ anlamına gelir.
 
 Felsefe geleneği bakımından [Fârâbî](/dusunur/farabi/)'nin açtığı yoldan
 ilerler: Aristoteles'ten gelen mantık ve metafizik çerçevesini İslam
-düşüncesinin sorularıyla birleştirir.[^k1] Bu süreklilik, atlasın
-[Aristoteles](/dusunur/aristoteles/) dosyasıyla arasındaki bağın da
+düşüncesinin sorularıyla birleştirir.[^k1] Bu süreklilik, [Aristoteles](/dusunur/aristoteles/) incelemesiyle arasındaki bağın da
 dayanağıdır — aradaki halka doğrudan değil, Fârâbî üzerindendir.
 
 ## İki eser, iki ayrı etki hattı
@@ -77,14 +76,14 @@ felsefe alanında *Kitâbü'ş-Şifâ*.[^k1][^k2] İkisinin etkisi aynı yönde 
 Biri hekimlik pratiğine ve tıp eğitimine yerleşir; öteki metafizik
 tartışmasının terimlerini belirler.[^k1][^k2]
 
-Bu ayrım, atlasın kaynak dosyalarını neden eser düzeyinde tuttuğunun bir
+Bu ayrım, korpusun kaynak dosyalarını neden eser düzeyinde tuttuğunun bir
 örneğidir: aynı yazarın iki eseri, iki ayrı okur kitlesine, iki ayrı soruyla
 ulaşmıştır. Yazar düzeyinde tutulan bir kayıt bu ayrımı silerdi.
 
 *Şifâ*'nın metafizik bölümü bağımsız bir çeviri olarak yayımlanmıştır ve bu
-dosya o metne bağlanır.[^k3] Eserin kendi metnine bağlanması, atlasın kaynak
+dosya o metne bağlanır.[^k3] Eserin kendi metnine bağlanması, korpusun kaynak
 kuralının gereğidir: bir düşünürün tezi, onun hakkında yazılmış bir maddeden
-değil, mümkün olduğunca kendi metninden okunur. Bu dosya yazıldığında atlasta
+değil, mümkün olduğunca kendi metninden okunur. Bu inceleme yazıldığında korpusta
 düşünür makalelerinin çoğu bu şarta uymuyordu; kural sonradan işletilmiştir.
 
 ## Varlık ile mahiyet ayrımı
@@ -113,14 +112,14 @@ akılla kavranan arasındaki ayrım, onun sisteminde ayrı bir başlık altında
 işlenir.[^k1]
 
 Aynı sorunun tıp eserinde de karşılığı vardır. Beden üzerine yazan bir hekimle
-nefs üzerine yazan bir filozofun aynı kişi olması,[^k1][^k2] atlasın onu tek
+nefs üzerine yazan bir filozofun aynı kişi olması,[^k1][^k2] korpusun onu tek
 bir eksen altında sınıflamamasının dayanağıdır; dosyanın eksen alanı hem
 felsefî hem kültürel hem dinî etiketleri birlikte taşır.
 
 **Tartışmalı.** İbn Sînâ'nın felsefesinin İslam düşüncesi içindeki yeri, kendi döneminden
 başlayarak tartışma konusudur. [Gazâlî](/dusunur/gazali/), filozofların belirli
 tezlerini hedef alan bir reddiye yazmıştır.[^k1][^k2] Bu metnin İslam dünyasında
-felsefî etkinliği bitirip bitirmediği ayrı bir tartışmadır; atlas bu konuda
+felsefî etkinliği bitirip bitirmediği ayrı bir tartışmadır; korpus bu konuda
 hüküm vermez ve iki tarafın da kaydını tutar.[^k1][^k2]
 
 ## Latin skolastiğine geçiş
@@ -130,20 +129,20 @@ tartışmalarının doğrudan muhatabı hâline getirdi.[^k1] Böylece aynı met
 iki ayrı gelenekte, farklı sorularla okundu: bir yanda İslam dünyasındaki kelâm
 tartışmaları, öte yanda Latin skolastiğinin varlık tartışmaları.[^k1]
 
-Varlık ile mahiyet ayrımının Latin tartışmasına geçmesi,[^k1] atlasın bu dosyayı
+Varlık ile mahiyet ayrımının Latin tartışmasına geçmesi,[^k1] korpusun bu incelemeyi
 yalnızca İslam düşüncesi başlığı altında tutmamasının sebebidir. Bir düşünürün
 iki gelenekte birden tartışma zemini kurması, bölge etiketleriyle değil bağlarla
 gösterilebilir; bu yüzden dosya [İbn Rüşd](/dusunur/ibn-rusd/) ve
 [Gazâlî](/dusunur/gazali/) dosyalarına birlikte bağlanır.
 
-## Kaynak durumu ve bu dosyanın sınırı
+## Kaynak durumu ve bu incelemenin sınırı
 
-Bu dosya üç kaynağa dayanır: felsefe tarafında bir akademik ansiklopedi
+Bu inceleme üç kaynağa dayanır: felsefe tarafında bir akademik ansiklopedi
 maddesi,[^k1] Türkçe akademik literatürden bir madde,[^k2] ve *Şifâ*'nın
 metafizik bölümünün çevirisi.[^k3] Üçü üç ayrı alan adındadır; künyede
 Wikipedia bulunmaz.
 
-Bu, atlasın çoğu makalesinden farklı bir kaynak bileşimidir ve bilinçlidir.
+Bu, korpusun çoğu makalesinden farklı bir kaynak bileşimidir ve bilinçlidir.
 Dosya yazıldığında korpusun kaynak borcu ölçülmüş durumdaydı: makalelerin
 büyük bölümü ansiklopedi maddelerine dayanıyordu ve yeni yazılan her makalenin
 bu bileşimi tekrarlaması, borcu büyütmekten başka bir şey yapmazdı.
@@ -161,7 +160,7 @@ ilerler.[^k1][^k3]
 
 Bu düzen, eserin nasıl okunacağını da belirler. Metafizik bölümünü tek başına
 okumak, orada kullanılan terimlerin daha önce tanımlanmış olduğunu gözden
-kaçırma riski taşır.[^k3] Atlasın bu dosyada yalnızca metafizik cildine
+kaçırma riski taşır.[^k3] Korpusun bu incelemede yalnızca metafizik cildine
 bağlanması bilinçli bir sınırdır ve burada beyan edilir.
 
 Eserin bütününü tek bir tez cümlesine indirmek mümkün değildir; kaynaklar da
@@ -172,23 +171,22 @@ tablosu olur.
 
 İbn Sînâ'dan sonra yazılan felsefe metinlerinin önemli bir bölümü, onun
 eserlerine yazılmış şerhler ya da onlara verilmiş cevaplar biçimindedir.[^k1][^k2]
-Bir düşünürün etkisinin şerh geleneği üzerinden ölçülmesi, atlasın kaynak
+Bir düşünürün etkisinin şerh geleneği üzerinden ölçülmesi, korpusun kaynak
 dosyalarında da karşılığı olan bir ölçüttür: bir eserin ağırlığı, kendisinden
 sonra ne kadar okunduğuyla değil, ne kadar tartışıldığıyla görünür.
 
 Bu ölçüt tek yönlü işlemez. Şerh geleneğinin yoğunluğu, o metnin doğru
 olduğunu göstermez; yalnızca tartışmanın merkezinde durduğunu gösterir.[^k1]
-Atlas bu ikisini ayrı tutar ve bu dosyada bir doğruluk hükmü vermez.
+Korpus bu ikisini ayrı tutar ve bu incelemede bir doğruluk hükmü vermez.
 
 Türkçe akademik literatürde de aynı yapı görülür: madde, onun eserlerini ve
 o eserler üzerine yürütülen tartışmaları ayrı başlıklar altında işler.[^k2]
-Bu ayrımın kendisi, atlasın düşünür ve kaynak dosyalarını neden ayrı tiplerde
+Bu ayrımın kendisi, korpusun düşünür ve kaynak dosyalarını neden ayrı tiplerde
 tuttuğunun bir dayanağıdır.
 
-## Bu dosyanın atlastaki yeri
-
-Bu makale, atlasın kaynak kuralının yeniden işletilmeye başlandığı sırada
-yazıldı. Önceki makalelerin çoğu ansiklopedi maddelerine dayanıyordu; bu dosya
+## Bağlantılar ve karşılaştırmalar
+Bu makale, korpusun kaynak kuralının yeniden işletilmeye başlandığı sırada
+yazıldı. Önceki makalelerin çoğu ansiklopedi maddelerine dayanıyordu; bu inceleme
 üç ayrı alan adına dayanır ve künyesinde giriş kapısı niteliğinde bir kaynak
 bulunmaz.[^k1][^k2][^k3]
 
@@ -196,20 +194,20 @@ Aynı ölçüt sonraki makaleler için de geçerlidir. Bir düşünür dosyasın
 düşünürün kendi metnine bağlanmadan yazılması artık istisna sayılır; istisna
 olduğu durumlarda gerekçesi dosyada beyan edilir.
 
-Orta Asya bölgesinin atlastaki kapsamı bu dosya yazıldığında dar
+Orta Asya bölgesinin korpustaki kapsamı bu inceleme yazıldığında dar
 kalıyordu.[^k1][^k2] Bölge etiketi taşıyan makale sayısı, Avrupa etiketi
-taşıyanların çok altındaydı; bu dosya o farkı kapatmaya yönelik ilk adımdır ve
+taşıyanların çok altındaydı; bu inceleme o farkı kapatmaya yönelik ilk adımdır ve
 tek başına kapatmaz.
 
 ## Dönem omurgasındaki yeri
 
-Yaşadığı yıllar, atlasın kronolojik omurgasında iki dönemin kesiştiği yere
+Yaşadığı yıllar, korpusun kronolojik omurgasında iki dönemin kesiştiği yere
 düşer.[^k1][^k2] Doğumu Abbasi sonrası bölgesel hanedanların güçlendiği
 dönemin içindedir; ölümü ise Selçuklu genişlemesinin arifesine denk gelir. Bu
 konum, dosyanın hangi dönem makalesine bağlanacağı sorusunu tek cevaplı
 olmaktan çıkarır.
 
-Atlas bu tür durumlarda tek bir dönem seçmez; düşünür dosyaları dönem alanı
+Korpus bu tür durumlarda tek bir dönem seçmez; düşünür dosyaları dönem alanı
 taşımaz ve zaman şeridine doğrudan girmez. Sebep şudur: bir düşünürün etkisi,
 yaşadığı yıllarla sınırlı kalmaz. İbn Sînâ'nın metinlerinin sonraki
 yüzyıllarda hem şerh hem reddiye üretmeyi sürdürmesi,[^k1][^k2] onu tek bir
@@ -220,15 +218,14 @@ Bu kural düşünürlere özgüdür. Olaylar ve aktörler dönem alanı taşır 
 gerekçesi budur: birincilerin başlangıç ve bitiş tarihi vardır, ikincilerin
 etkisi tarihlenmez.
 
-Okuyucu bu dosyaya iki yoldan gelebilir. Biri, dönem makalelerinden birinin
+Okuyucu bu incelemeye iki yoldan gelebilir. Biri, dönem makalelerinden birinin
 fikir dünyası bölümünden bağ takip etmektir; öteki, [Fârâbî](/dusunur/farabi/)
 ile [Gazâlî](/dusunur/gazali/) arasındaki zinciri sırayla okumaktır. İkinci yol,
 tartışmanın nasıl kurulduğunu daha iyi gösterir: önce çerçeve, sonra itiraz,
 sonra itiraza cevap.
 
-## Okuma yönlendirmesi
-
-Bu dosya bir giriş kapısıdır, tez özeti değildir. Atlasın düşünür dosyaları,
+## Okumayı sürdürmek için
+Bu inceleme bir giriş kapısıdır, tez özeti değildir. Korpusun düşünür dosyaları,
 bir düşünürün görüşlerini özetlemek yerine onun hangi tartışmanın neresinde
 durduğunu göstermek üzere yazılır; görüşlerin kendisi için eserin metnine
 inilir.[^k1][^k3] Bu tercih, kaynak zorunluluğunun doğrudan sonucudur: bir
@@ -241,5 +238,5 @@ metni okunmalıdır; o itirazlara verilen cevap için
 
 Kavram tarafından girmek isteyen okuyucu için [İctihad](/kavram/ictihad/)
 dosyası, bu tartışmanın hukuk ve yöntem boyutunu ayrı tutar. Felsefî
-itirazla fıkhî yöntem tartışması aynı şey değildir; atlas ikisini ayrı
+itirazla fıkhî yöntem tartışması aynı şey değildir; korpus ikisini ayrı
 tiplerde işler ve aralarındaki bağı künyeden değil metinden kurar.[^k1][^k2]

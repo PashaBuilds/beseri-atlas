@@ -58,16 +58,15 @@ yarı çevre, yarı tekeller ve Kondratiev dalgaları.[^k1]
 Merkez ve çevrenin yanına yarı çevrenin ayrı bir başlık olarak eklenmesi,[^k1]
 ikili bir bölünme yerine üçlü bir sınıflandırma önerildiğini gösterir.
 
-Atlas bu sınıflandırmayı doğru ya da yanlış saymaz; kaynağın kaydettiği bir kurgu
-olarak taşır.[^k1] Kurguyu geliştiren düşünür
-[Immanuel Wallerstein](/dusunur/wallerstein/) dosyasında ele alınıyor.
+Kurguyu geliştiren düşünür [Immanuel
+Wallerstein](/dusunur/wallerstein/) dosyasında ele alınıyor.[^k1]
 
 ## Eleştiri kaynağın kendi başlığıdır
 
-::tartismali[Aynı kayıt, kuramı ve ona yöneltilen eleştiriyi iki ayrı alt başlık olarak tutuyor. Atlas bu dosyayı tartışmalı olarak işaretler ve tek bir cevap sunmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Aynı kayıt, kuramı ve ona yöneltilen eleştiriyi iki ayrı alt başlık olarak tutuyor. Korpus bu incelemeyi tartışmalı olarak işaretler ve tek bir cevap sunmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Kuram bölümünün altındaki ikinci alt başlığın doğrudan eleştiriye ayrılması,[^k1]
-bu dosyanın güven düzeyinin gerekçesidir. Okuma yöntemi
+bu incelemenin güven düzeyinin gerekçesidir. Okuma yöntemi
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
 haritasında ele alınıyor.
 
@@ -78,7 +77,7 @@ rekabetçi piyasalarda çalışan girişimciler değil tekelciler olduğunu savu
 ve hem liberal hem Marksçı yorumlardan ayrıldığını yazar.[^k2] O tarihçi
 [Fernand Braudel](/dusunur/braudel/) dosyasında ele alınıyor.
 
-İki kurgunun da tek tek devletlerin üstünde bir birim araması,[^k2] atlasın
+İki kurgunun da tek tek devletlerin üstünde bir birim araması,[^k2] korpusun
 kavram katmanında bu iki dosyayı yan yana tutmasının gerekçesidir; zaman ölçeği
 tarafı [Longue durée](/kavram/longue-duree/) dosyasında ele alınıyor.
 
@@ -88,11 +87,10 @@ Uzun dönemli seride dünya nüfusu 1500 için yaklaşık 503,1 milyon, 1800 iç
 yaklaşık 983,1 milyon, 2020 için yaklaşık 7,89 milyar verir.[^k3]
 
 Böyle bir serinin tek bir birim olarak tutulabilmesi,[^k3] küresel ölçekli
-kurguların veri düzeyinde de bir karşılığı olduğunu gösterir; atlas bu karşılığın
+kurguların veri düzeyinde de bir karşılığı olduğunu gösterir; korpus bu karşılığın
 kuramı doğruladığını söylemez.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kuramın tarihsel uygulamaları, Kondratiev dalgalarının içeriği ve eleştirilerin
 ayrıntısı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
 bölümler olarak işler.[^k1]

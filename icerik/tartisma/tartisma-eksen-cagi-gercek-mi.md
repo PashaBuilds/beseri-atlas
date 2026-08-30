@@ -392,7 +392,7 @@ dönem adlarına da uygulanmayı bekler.
 
 Kavramın kendisi [Eksen Çağı](/kavram/eksen-cagi/) dosyasında, dönem
 bölmesinin genel sorunu [Dönemlendirme](/kavram/donemlendirme/) dosyasında
-işleniyor. Bu atlasın omurgasında söz konusu ad bir dönem sınırı olarak
+işleniyor. Buradaki dönem omurgasında söz konusu ad bir dönem sınırı olarak
 kullanılmıyor;
 adın anıldığı yerde bile dönemin çatısı tarih aralığıyla kuruluyor ve o
 anlatı [MÖ 500–MS 200](/donem/04/) dosyasında duruyor.

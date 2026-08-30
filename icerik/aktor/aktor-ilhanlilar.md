@@ -62,11 +62,10 @@ onarim_turu: 0
 ## Nerede durduğu
 
 İlhanlılar, bugünkü İran'ı merkez alan ve batıda Anadolu'ya, doğuda Orta
-Asya'ya uzanan bir alanda kuruldu.[^k1][^k3] Atlasın bölge şemasında Orta
+Asya'ya uzanan bir alanda kuruldu.[^k1][^k3] Korpusun bölge şemasında Orta
 Asya ile İslam dünyasının kesiştiği yerde durur.
 
-Düzen, aynı hanedanın bir başka koluyla birlikte doğdu ve atlasın
-[Altın Orda](/aktor/altin-orda/) dosyasında anlatılan düzenle aynı çıkış
+Düzen, aynı hanedanın bir başka koluyla birlikte doğdu ve [Altın Orda](/aktor/altin-orda/) incelemesinde anlatılan düzenle aynı çıkış
 noktasını paylaşır.[^k1] İkisi yüzyıl boyunca birbirinin rakibi oldu.
 
 Dosyanın ayırt edici yanı, iki kolun **farklı yönlerde dönüşmüş
@@ -82,7 +81,7 @@ Kuzeydeki kol, bozkır nüfusunun dilini benimsedi ve göçer düzenle
 bağını korudu.[^k1] Buradaki kol, yerleşik bir devlet geleneğinin bürokrasisini
 devraldı ve o geleneğin diliyle yönetti.
 
-Bu karşılaştırma, atlasın en açık doğal deneylerinden biridir.[^k2] Başlangıç
+Bu karşılaştırma, korpusun en açık doğal deneylerinden biridir.[^k2] Başlangıç
 koşulları benzer, çevre koşulları farklı ve sonuçlar ölçülebilir.
 
 ## Din değişiminin biçimi
@@ -94,21 +93,21 @@ kırk yıl sonra hükümdarlardan biri İslam'ı benimsedi ve din, devletin resm
 Değişimin biçimi kuzeydeki koldan farklıdır.[^k2] Orada süreç kademeli ve
 geri dönüşlüydü; burada tek bir hükümdarın kararıyla ve hızlı gerçekleşti.
 
-Atlas iki biçimi ayrı ayrı kaydeder.[^k1] Bir yönetimin inanç değiştirmesi
-ile nüfusun değiştirmesi ayrı süreçlerdir; ikisinin hızları aynı olmak
-zorunda değildir.
+Bir yönetimin inanç değiştirmesi ile
+nüfusun değiştirmesi ayrı süreçlerdir; ikisinin hızları aynı olmak zorunda
+değildir.[^k1]
 
 ## Değişimin idari sonucu
 
 Din değişimiyle birlikte bir dizi idari düzenleme yapıldı.[^k2] Vergi
 sistemi, para birimi ve toprak düzeni yeniden kuruldu.
 
-Bu düzenlemeler, atlasın kaydettiği bir örüntüyü doğrular.[^k1] Bir
+Bu düzenlemeler, incelenen bir örüntüyü doğrular.[^k1] Bir
 meşruiyet çerçevesinin değişmesi, o çerçevenin gerektirdiği kurumsal
 düzenlemeleri de beraberinde getirir.
 
 Düzenlemelerin ne kadar uygulandığı ayrı bir sorudur.[^k4] Kayıtlar
-kararları verir; uygulamanın kapsamını vermez ve atlas iki bilgiyi ayrı
+kararları verir; uygulamanın kapsamını vermez ve korpus iki bilgiyi ayrı
 tutar.
 
 ## Merkezin seçimi
@@ -121,7 +120,7 @@ Merkez seçimi, göçer ve yerleşik düzenler arasındaki geçişi
 gösterir.[^k3] Hanedan bir şehri merkez saydı ama sarayın mevsimlik hareketi
 sürdü.
 
-Bu ikili yapı, atlasın bozkır dosyalarında kaydedilen bir geçiş
+Bu ikili yapı, korpusun bozkır dosyalarında kaydedilen bir geçiş
 biçimidir.[^k1] Sabit merkez ile mevsimlik hareket bir süre yan yana
 yürüyebilir; ikisi arasında seçim yapmak zorunlu değildir.
 
@@ -135,13 +134,13 @@ Kapsamı olağandışıdır.[^k4] Çin, Hindistan, İslam dünyası ve Avrupa ay
 bölümler hâlinde ele alınır; her bölge için o bölgeden gelen bilgi
 kaynakları kullanılmıştır.
 
-Atlas bu eseri ayrı bir yere koyar.[^k4] Kıtalar arası bir tarih derlemesi,
-ancak kıtalar arası bir siyasi ağın içinden yazılabilirdi ve o ağ bu düzen
-tarafından sağlanmıştı.
+Kıtalar arası bir tarih derlemesi, ancak kıtalar
+arası bir siyasi ağın içinden yazılabilirdi ve o ağ bu düzen tarafından
+sağlanmıştı.[^k4]
 
-## Derlemenin atlas için anlamı
+## Derlemenin korpus için anlamı
 
-Eser, atlasın kendi işine benzer bir işi yedi yüzyıl önce
+Eser, korpusun kendi işine benzer bir işi yedi yüzyıl önce
 denemiştir.[^k4] Farklı bölgeleri aynı çerçevede, her birinin kendi
 kaynağına dayanarak yan yana koymak.
 
@@ -149,9 +148,8 @@ Benzerlik sınırlıdır ve abartılmamalıdır.[^k1] Derleme bir hanedanın
 görevlendirmesiyle yazılmıştır ve o hanedanın meşruiyetini kurmak da
 işlevleri arasındadır.
 
-Atlas bu ikili niteliği kaydeder.[^k4] Bir eserin geniş kapsamlı olması,
-tarafsız olduğu anlamına gelmez; kapsam ile taraflılık ayrı ayrı
-değerlendirilmelidir.
+Bir eserin geniş kapsamlı olması, tarafsız
+olduğu anlamına gelmez; kapsam ile taraflılık ayrı ayrı değerlendirilmelidir.[^k4]
 
 ## Kaynak çeşitliliğinin sağlanması
 
@@ -159,7 +157,7 @@ Derlemenin kaynakları arasında farklı dillerden ve geleneklerden metinler
 bulunur.[^k4] Yazar, her bölge için o bölgeden gelen bilgi taşıyıcılarıyla
 çalışmıştır.
 
-Bu yöntem, atlasın kendi kaynak ilkesiyle örtüşür.[^k1] Bir bölgeyi kendi
+Bu yöntem, korpusun kendi kaynak ilkesiyle örtüşür.[^k1] Bir bölgeyi kendi
 kaydından okumak, dışarıdan yazılmış aktarımlardan okumaya tercih edilir.
 
 Yöntemin dönemindeki karşılığı seyrektir.[^k4] Aynı yüzyılda yazılmış öteki
@@ -168,17 +166,15 @@ izler.
 
 ## Bağdat'ın alınmasıyla ilişki
 
-Düzenin kurucusu, atlasın
-[Bağdat kuşatması](/olay/bagdat-kusatmasi-1258/) dosyasında anlatılan seferi
+Düzenin kurucusu, [Bağdat kuşatması](/olay/bagdat-kusatmasi-1258/) incelemesinde anlatılan seferi
 yürüten kişidir.[^k1] Düzen, o seferin sonucunda kurulan yönetimin devamıdır.
 
 Bu bağlantı, iki dosyanın birlikte okunmasını gerektirir.[^k1] Bir kurumu
 ortadan kaldıran güç, kırk yıl sonra o kurumun ait olduğu inanç çevresine
 girmiştir.
 
-Atlas bu dönüşü bir çelişki olarak sunmaz.[^k2] Fetheden tarafın
-fethettiğinin çerçevesini benimsemesi, atlasın birden çok dosyasında
-kaydedilen bir örüntüdür.
+Fetheden tarafın fethettiğinin
+çerçevesini benimsemesi, korpusun birden çok dosyasında kaydedilen bir örüntüdür.[^k2]
 
 ## Ekonomik düzenlemeler
 
@@ -191,7 +187,7 @@ kurum da taşıdığını gösterir.
 
 Başarısızlığın sebebi tartışmalıdır.[^k4] Güven eksikliği, hazırlık
 yetersizliği ve mevcut para düzeninin direnci ayrı ayrı ileri sürülür;
-atlas bir sıralama yapmaz.
+korpus bir sıralama yapmaz.
 
 ## Ticaret ağındaki konum
 
@@ -201,9 +197,9 @@ Düzenin denetlediği alan, doğu-batı kara ticaretinin güney güzergâhının
 İki kolun rekabeti bu yüzden ticari bir boyut da taşır.[^k1] Hangi
 güzergâhın güvenli olduğu, gelirin hangi hanedana gideceğini belirliyordu.
 
-Atlas bu boyutu ayrıca kaydeder.[^k3] Hanedan çekişmeleri çoğu zaman
-kişisel ya da dinî gerekçelerle anlatılır; güzergâh rekabeti üçüncü bir
-gerekçe sunar ve ötekileri geçersiz kılmaz.
+Hanedan çekişmeleri çoğu zaman kişisel ya
+da dinî gerekçelerle anlatılır; güzergâh rekabeti üçüncü bir gerekçe sunar ve ötekileri
+geçersiz kılmaz.[^k3]
 
 ## Sonun biçimi
 
@@ -214,25 +210,24 @@ Bölünme kuzeydeki koldan farklı işledi.[^k1] Orada ardıl hanlıklar üç y�
 sürdü; burada bölünme daha hızlı gerçekleşti ve yerel hanedanlar kısa
 ömürlü oldu.
 
-Atlas farkı kaydeder ve açıklamaz.[^k2] İki bölünmenin farklı seyretmesi,
-yerel yönetim geleneklerinin farklılığıyla ilişkilendirilebilir ama bu ayrı
-kanıt gerektirir.
+İki bölünmenin farklı seyretmesi, yerel yönetim
+geleneklerinin farklılığıyla ilişkilendirilebilir ama bu ayrı kanıt gerektirir.[^k2]
 
 ## Ölçek sorunu
 
 Düzenin nüfusuna ve gelirine dair sayılar, kendi vergi kayıtlarından ve
 sonraki derlemelerden gelir.[^k1] Kayıtların bir bölümü korunmuştur.
 
-Bu, atlasın bozkır kökenli düzenleri arasında görece elverişli bir
+Bu, korpusun bozkır kökenli düzenleri arasında görece elverişli bir
 durumdur.[^k4] Yerleşik bürokrasinin devralınması, kayıt tutma kapasitesini
 de devralmak demektir.
 
-Atlas yine de bu dosyada sayı vermez.[^k1] Kayıtların tam metin ve
-doğrulanabilir bir baskısı künyeye alınamamıştır.
+Kayıtların tam metin ve
+doğrulanabilir bir baskısı künyeye alınamamıştır.[^k1]
 
 ## Kaynak durumu
 
-Bu dosya dört kaynağa dayanır ve biri birincildir.[^k4] Birincil kaynak,
+Bu inceleme dört kaynağa dayanır ve biri birincildir.[^k4] Birincil kaynak,
 düzenin kendi veziri tarafından ve sarayın görevlendirmesiyle yazılmış
 derlemedir.
 
@@ -240,30 +235,28 @@ Kaynağın taraflılığı bellidir ve gizlenmez.[^k4] Metin, hanedanın
 meşruiyetini kurmak üzere yazılmıştır ve olayları o amaca göre sıralar.
 
 Kullanılan baskı bir çeviridir.[^k4] Özgün dildeki metnin doğrulanabilir tam
-metin bir baskısı bu dosya yazıldığında bulunamamıştır ve bu kısıt burada
+metin bir baskısı bu inceleme yazıldığında bulunamamıştır ve bu kısıt burada
 beyan edilir.
 
-## Bu dosyanın kapsamadıkları
-
-Hükümdar listesi ve hanedan çekişmeleri burada verilmez.[^k2] Atlasın aktör
+## Açıkta kalan sorular
+Hükümdar listesi ve hanedan çekişmeleri burada verilmez.[^k2] Korpusun aktör
 dosyaları bir düzenin nasıl işlediğini anlatır.
 
 Derlemenin bölüm bölüm içeriği de kapsam dışıdır.[^k4] Eser için ayrı bir
-kaynak dosyası gerekir ve bu dosya yazıldığında atlasta bulunmuyordu.
+kaynak dosyası gerekir ve bu inceleme yazıldığında korpusta bulunmuyordu.
 
 Dönemin sanat ve mimari üretimi burada işlenmez.[^k3] Ayrı dosyalar
 gerektirir.
 
-## Atlastaki yeri
-
-Bu dosya, atlasın Orta Asya aktör katmanındaki onuncu dosyadır.[^k1] Bir
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun Orta Asya aktör katmanındaki onuncu dosyadır.[^k1] Bir
 önceki turda yazılan dosyayla birlikte okunmak üzere yazılmıştır.
 
-İki dosyanın birlikte okunması, atlasın karşılaştırmalı okumaya açtığı en
+İki dosyanın birlikte okunması, korpusun karşılaştırmalı okumaya açtığı en
 net yerlerden biridir.[^k2] Aynı hanedan, aynı on yıl, farklı çevre ve
 farklı sonuç.
 
-Karşılaştırmanın sonucunu atlas yazmaz.[^k1] Hangi etkenin belirleyici
+Karşılaştırmanın sonucunu korpus yazmaz.[^k1] Hangi etkenin belirleyici
 olduğu — nüfus oranı, yerleşik bürokrasinin varlığı, coğrafya — ayrı ayrı
 incelenmelidir.
 
@@ -272,11 +265,11 @@ incelenmelidir.
 Düzen, batıdaki devletlerle doğrudan yazışma yürüttü.[^k1] Mektuplar
 gönderildi, elçiler gidip geldi ve ortak hareket önerileri tartışıldı.
 
-Bu yazışmalar atlas için iki bakımdan değerlidir.[^k4] Birincisi, iki
+Bu yazışmalar korpus için iki bakımdan değerlidir.[^k4] Birincisi, iki
 uzak siyasi düzenin birbirini nasıl tarif ettiğini gösterir; ikincisi,
 mektupların kendisi tarihlenebilir belgelerdir.
 
-Ortak hareket önerileri sonuç vermedi.[^k1] Atlas girişimin başarısızlığını
+Ortak hareket önerileri sonuç vermedi.[^k1] Korpus girişimin başarısızlığını
 değil varlığını kaydeder; bir teklifin yapılmış olması, tarafların
 birbirini hesaba katan aktörler saydığını gösterir.
 
@@ -285,12 +278,12 @@ birbirini hesaba katan aktörler saydığını gösterir.
 Düzenin desteğiyle bir gözlemevi kuruldu ve burada astronomi tabloları
 hazırlandı.[^k1] Tablolar, sonraki yüzyıllarda geniş bir alanda kullanıldı.
 
-Bu, atlasın kaydettiği bir örüntünün örneğidir.[^k3] Kıtalar arası bir
+Bu bir örüntünün örneğidir.[^k3] Kıtalar arası bir
 siyasi ağ, yalnızca mal ve metin değil gözlem verisi de taşır; farklı
 geleneklerin ölçümleri tek bir yerde karşılaştırılabilir hâle gelir.
 
 Kurumun sürekliliği yönetime bağlıydı.[^k1] Merkezî destek zayıfladığında
-çalışma da zayıfladı; bu, atlasın başka bölgelerde de kaydettiği bir
+çalışma da zayıfladı; bu, korpusun başka bölgelerde de kaydettiği bir
 bağımlılıktır.
 
 ## Karşılaştırmanın sınırı
@@ -302,12 +295,11 @@ farklı büyüklükte kuvvetle ve farklı komutanlarla yola çıktı.
 Çevre koşulları da tek bir değişkene indirgenemez.[^k1] Yerleşik bürokrasinin
 varlığı, nüfus oranı, iklim ve ticaret güzergâhı aynı anda farklıydı.
 
-Atlas bu yüzden karşılaştırmayı bir kanıt değil bir soru olarak
-sunar.[^k4] İki dosyanın yan yana durması hangi etkenin belirleyici olduğunu
-göstermez; sorunun sorulabilir hâle gelmesini sağlar.
+İki dosyanın yan yana durması
+hangi etkenin belirleyici olduğunu göstermez; sorunun sorulabilir hâle gelmesini
+sağlar.[^k4]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Karşılaştırılacak kardeş düzen için [Altın Orda](/aktor/altin-orda/), ortak
 çıkış noktası için [Moğol İmparatorluğu](/aktor/mogol-imparatorlugu/)
 dosyaları okunmalıdır.[^k1]

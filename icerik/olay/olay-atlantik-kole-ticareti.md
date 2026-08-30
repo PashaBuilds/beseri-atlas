@@ -22,15 +22,16 @@ ilgili:
   - tartisma-antik-kolelik-ekonomisi
   - aktor-portekiz-imparatorlugu
   - aktor-ispanyol-imparatorlugu
-  - aktor-britanya-imparatorlugu
   - aktor-dahomey-kralligi
   - aktor-asanti-imparatorlugu
   - aktor-oyo-imparatorlugu
   - aktor-benin-kralligi
   - aktor-kongo-kralligi
-  - olay-haiti-devrimi
   - kaynak-liberya-bagimsizlik-bildirisi
   - dusunur-las-casas
+baglam:
+  - aktor-britanya-imparatorlugu
+  - olay-haiti-devrimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

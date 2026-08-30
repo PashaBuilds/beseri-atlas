@@ -16,9 +16,10 @@ etiketler: [memlukler, misir, suriye, kolelik, ikta, hilafet, veraset, kahire]
 ilgili:
   - donem-08
   - aktor-eyyubi-devleti
-  - aktor-abbasi-hilafeti
   - aktor-mogol-imparatorlugu
   - aktor-osmanli-imparatorlugu
+baglam:
+  - aktor-abbasi-hilafeti
   - kavram-kolelik
   - kavram-veraset
   - kavram-mesruiyet
@@ -273,7 +274,7 @@ salgını yüzünden büyük bir kriz yaşadı.[^k1] Uzun dönemli seride dünya
 Bu seri dünya toplamıdır ve bölgesel ayrışma içermez: Mısır ile Suriye'nin
 kaybını ölçmez, yalnızca yüzyıl ölçeğinde bir gerilemenin dünya toplamında bile
 göründüğünü söyler. Memlük nüfusuna ya da askerî sınıfın yeniden üretimine dair
-sayısal bir kayıt bu dosyanın kaynak tabanında yoktur.
+sayısal bir kayıt bu incelemenin kaynak tabanında yoktur.
 [Kara Ölüm](/olay/kara-olum/) dosyası bu düşüşü ayrıca ele alıyor. Sıkıntı 15.
 yüzyıl başında Timur'un Suriye'yi tahrip etmesiyle derinleşti; ağır vergiler iç
 ve dış ticareti vurdu ve Ümitburnu yolunun açılmasının ardından Mısır ile

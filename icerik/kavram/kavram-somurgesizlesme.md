@@ -74,8 +74,8 @@ başlıklarını tutar.[^k1]
 
 ## Kapsam sorusu ilk bölümdür
 
-Bir kavramın maddesinin kapsam başlığıyla açılması,[^k1] atlasın şu kuralının
-dayanağıdır: bu dosyada sömürgesizleşme, hangi imparatorluk ve hangi dönem için
+Bir kavramın maddesinin kapsam başlığıyla açılması,[^k1] korpusun şu kuralının
+dayanağıdır: bu incelemede sömürgesizleşme, hangi imparatorluk ve hangi dönem için
 söylendiği belirtilmeden anılmaz.
 
 ## Şiddet ve bölünme ayrı alt başlıklardır
@@ -84,7 +84,7 @@ Kaynak, Britanya İmparatorluğu alt başlığının altında şiddet, iç sava�
 diye ayrı bir alt başlık tutar.[^k1]
 
 Bir bağımsızlık sürecinin ansiklopedi maddesinde şiddetin ayrı bir alt başlık
-taşıması,[^k1] atlasın bu kavramı yalnızca bir hukuki devir olarak
+taşıması,[^k1] korpusun bu kavramı yalnızca bir hukuki devir olarak
 kaydetmemesinin dayanağıdır; ilgili olay
 [Hindistan'ın bölünmesi](/olay/hindistan-bolunmesi/) dosyasında ele alınıyor.
 
@@ -115,8 +115,8 @@ Biçim, sonraki devletin kurumlarını da belirledi.[^k2] Silahlı
 mücadeleyle kurulan düzenlerde ordu siyasi hayatta daha merkezî bir
 yer edindi.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Bir devletin kuruluş biçimi,
-kurumlarının sonraki dağılımının önceden okunabilir göstergesidir.
+Bir devletin kuruluş biçimi,
+kurumlarının sonraki dağılımının önceden okunabilir göstergesidir.[^k3]
 
 ## Sınırların devralınması
 
@@ -126,10 +126,9 @@ kararla benimsenen bir ilkeydi.
 Gerekçe pratikti.[^k2] Sınırların yeniden çizilmesi, kıta ölçeğinde
 çatışma riski taşıyordu.
 
-Atlas bu tercihi ayrıca kaydeder.[^k3] Bölgede yaşamayanlarca çizilmiş
-sınırların korunması, atlasta tekrar eden bir ölçümün sonucudur: karar
-bir kez dışarıda alındığında, etkisi o kararı verenin gitmesinden
-sonra da sürer.
+Bölgede yaşamayanlarca çizilmiş sınırların
+korunması, korpusta tekrar eden bir ölçümün sonucudur: karar bir kez dışarıda
+alındığında, etkisi o kararı verenin gitmesinden sonra da sürer.[^k3]
 
 ## Hızın kendisi
 
@@ -139,8 +138,8 @@ hiçbir siyasi dönüşümle karşılaştırılamaz.
 Yeni devletlerin sayısı uluslararası kuruluşların üye sayısında
 doğrudan görünür.[^k2] Üye sayısı birkaç kat arttı.
 
-Atlas bu hızı ayrıca kaydeder.[^k3] Bir siyasi haritanın bu ölçüde
-kısa sürede değişmesi, dönemi tanımlayan olgulardan biridir.
+Bir siyasi haritanın bu ölçüde kısa sürede
+değişmesi, dönemi tanımlayan olgulardan biridir.[^k3]
 
 ## Bağımsızlığın kapsamı
 
@@ -152,8 +151,8 @@ Birçok örnekte tek ürüne bağlı düzen onlarca yıl daha
 sürdü.[^k2] Bazı örneklerde yeni yönetimler ihracat gelirine bağlı
 oldukları için düzeni pekiştirdiler.
 
-Atlas bu sürekliliği ayrıca kaydeder.[^k3] Yönetimin el değiştirmesi,
-ekonomik yapının el değiştirmesi anlamına gelmez.
+Yönetimin el değiştirmesi,
+ekonomik yapının el değiştirmesi anlamına gelmez.[^k3]
 
 ## Devredilen sorunlar
 
@@ -164,8 +163,8 @@ konumları bunlar arasındadır.
 Devredilen sorun çoğu zaman ağırlaşmış olarak
 gelir.[^k2] Erteleme, sorunu büyütür.
 
-Atlas bu devri ayrıca kaydeder.[^k3] Bir yönetimin çözmediği sorun,
-ardılının kuruluş gündemine yazılır.
+Bir yönetimin çözmediği sorun, ardılının
+kuruluş gündemine yazılır.[^k3]
 
 ## Kayıt devri
 
@@ -177,9 +176,8 @@ Bu, yeni devletin kendi geçmişine erişimini
 sınırladı.[^k2] Kendi toprağının kaydı başka bir ülkenin arşivinde
 kaldı.
 
-Atlas bu durumu ayrıca kaydeder.[^k3] Bir ülkenin kendi kaydına
-erişememesi, o ülkenin tarihinin başka bir yerden yazılmasını
-sürdürür.
+Bir ülkenin kendi kaydına erişememesi, o ülkenin
+tarihinin başka bir yerden yazılmasını sürdürür.[^k3]
 
 ## Terimin kendisi
 
@@ -189,8 +187,8 @@ adlandırır.[^k1] Adlandırma, önceki durumu esas alır.
 Bağımsızlık hareketlerinin kendi adlandırması farklıydı.[^k2] Kurtuluş
 ve bağımsızlık terimleri kullanıldı.
 
-Atlas iki adlandırmayı da kaydeder.[^k3] Bir sürece verilen ad, o
-süreci kimin anlattığını gösterir.
+Bir sürece verilen ad, o süreci kimin
+anlattığını gösterir.[^k3]
 
 ## Ölçüt
 
@@ -200,9 +198,8 @@ olduğu.
 
 Üçü birden devredilmemiş olabilir.[^k2] Kademeli devir yaygındır.
 
-Atlas bu kademeleri ayrıca kaydeder.[^k3] Bağımsızlık bir gün değil,
-çoğu zaman yıllara yayılan bir yetki devirleri
-dizisidir.
+Bağımsızlık bir gün değil, çoğu zaman yıllara
+yayılan bir yetki devirleri dizisidir.[^k3]
 
 
 ## Yerleşimci nüfusun durumu
@@ -215,8 +212,7 @@ Bazı örneklerde yerleşimciler ülkeyi terk etti, bazılarında
 kaldı.[^k2] İki sonuç farklı devlet biçimleri
 üretti.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 İmparatorluk imparatorluk süreçler, planlama ve sonrasındaki gelişmeler burada
 ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

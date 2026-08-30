@@ -14,6 +14,7 @@ guven_geneli: yaygin
 etiketler: [seferberlik, lojistik, levee-en-masse, ihtiyat, tarife, askere-alma]
 ilgili:
   - olay-1914-temmuz-krizi
+baglam:
   - tartisma-1914-savas-sorumlulugu
   - kavram-topyekun-savas
   - kavram-askeri-devrim

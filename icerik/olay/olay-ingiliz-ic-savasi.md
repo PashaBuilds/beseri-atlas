@@ -46,7 +46,7 @@ onarim_turu: 0
 
 Adı tekil, kendisi çoğuldur. Kaynak olayı Birinci İngiliz İç Savaşı (1642–1646),
 İkinci İngiliz İç Savaşı ve Üçüncü İngiliz İç Savaşı olarak üç ayrı sefer dizisine
-böler; ayrıca 1650–1652 arasında bir Anglo-İskoç savaşı sayar.[^k1] Bu dosya, o
+böler; ayrıca 1650–1652 arasında bir Anglo-İskoç savaşı sayar.[^k1] Bu inceleme, o
 **bölünmüş yapıyı ve bilançoyu** ele alır.
 
 ## Bilançonun kırılımı
@@ -54,7 +54,7 @@ böler; ayrıca 1650–1652 arasında bir Anglo-İskoç savaşı sayar.[^k1] Bu 
 Kaynak, kayıpları alışılmadık bir ayrımla verir: muharebe kayıplarının yanında
 127.000 muharebe dışı ölüm — bunların yaklaşık 40.000'i sivil — kaydedilir.[^k1]
 
-Bu ayrım, atlasın bilanço okuma yönteminin doğrudan malzemesidir. Muharebe dışı
+Bu ayrım, korpusun bilanço okuma yönteminin doğrudan malzemesidir. Muharebe dışı
 ölümlerin ayrıca sayılması, savaş kayıplarının yalnızca çarpışmadan ibaret
 olmadığını gösterir; ölçüm sorununun kendisi ise
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -86,7 +86,7 @@ sürmüştür.[^k2]
 
 Adalardaki üç savaş dizisi[^k1] ile kıtadaki 1635–1648 evresinin[^k2] örtüşmesi,
 17. yüzyılın ortasını kıta çapında bir siyasi kriz dönemi yapar; kıtadaki savaş
-[Otuz Yıl Savaşları](/olay/otuz-yil-savaslari/) dosyasında ele alınıyor. Bu dosya
+[Otuz Yıl Savaşları](/olay/otuz-yil-savaslari/) dosyasında ele alınıyor. Bu inceleme
 iki kriz arasında bir nedensellik iddiası taşımaz.
 
 ## Ölçek
@@ -96,8 +96,7 @@ ile savaş için verilen 127.000 muharebe dışı ölüm[^k1] farklı serilerden
 adaların kendi nüfusuna dair bir ölçüm kullanılan kaynaklarda bulunmadığı için
 burada oran kurulmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Muharebelerin seyri, tarafların askerî örgütlenmesi, kralın yargılanması ve
 sonrasındaki cumhuriyet dönemi burada ayrı başlıklar altında ele alınmamıştır;
 kaynak bunları ayrı bölümler olarak işler.[^k1] Dönemin bütünü

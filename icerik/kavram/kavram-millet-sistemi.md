@@ -49,7 +49,7 @@ belirli milletler ve tarih.[^k1]
 ## Terim ile kavram ayrı bölümlerdir
 
 Bir sözcüğün ve onun adlandırdığı düzenin ayrı bölümler olarak tutulması,[^k1]
-atlasın terim kilidi kapısının kurumsal düzeydeki karşılığıdır: adın tarihi ile
+korpusun terim kilidi kapısının kurumsal düzeydeki karşılığıdır: adın tarihi ile
 kurumun tarihi aynı şey değildir.
 
 ## Terimin Osmanlı öncesi kullanımı da kayıtlıdır
@@ -59,7 +59,7 @@ ayrı bir alt başlık olarak tutar ve 19. yüzyıl için ayrı bir alt başlık
 ayırır.[^k1]
 
 Bir Osmanlı kurumunun adının başka bir imparatorluk için de kullanılmış olarak
-kaydedilmesi,[^k1] atlasın şu kuralının dayanağıdır: bu dosyada millet sözcüğü,
+kaydedilmesi,[^k1] korpusun şu kuralının dayanağıdır: bu incelemede millet sözcüğü,
 hangi bağlamda kullanıldığı belirtilmeden geçmez.
 
 ## Cemaatler ad ad sayılır
@@ -89,8 +89,8 @@ kendi mahkemesine bırakılır.
 
 Ceza ve idare merkezin hukukuna tabidir.[^k1] İki alan ayrılır.
 
-Atlas bu ayrımı kavramın merkezine koyar.[^k2] Düzen, eşitlik değil
-ayrı ayrı yönetim öngörür; iki şey karıştırılmamalıdır.
+Düzen, eşitlik değil ayrı ayrı yönetim öngörür; iki
+şey karıştırılmamalıdır.[^k2]
 
 ## Kimin muhatap olduğu
 
@@ -101,9 +101,8 @@ toplanır.
 Bu, temsilciyi güçlendirir.[^k1] Topluluk içindeki muhalefet, merkeze
 doğrudan ulaşamaz.
 
-Atlas bu sonucu ayrıca kaydeder.[^k2] Bir topluluğun toplu muhatap
-sayılması, o topluluğun içindeki farkları merkez açısından görünmez
-kılar.
+Bir topluluğun toplu muhatap sayılması, o
+topluluğun içindeki farkları merkez açısından görünmez kılar.[^k2]
 
 ## Ayrı olmak ile eşit olmak
 
@@ -114,9 +113,8 @@ Bu, dönemin başka düzenleriyle karşılaştırıldığında iki yönlü
 okunabilir.[^k1] Tek bir hukuk dayatan düzenlere göre esnek, eşit
 vatandaşlık kuran düzenlere göre kısıtlıdır.
 
-Atlas iki karşılaştırmayı da kaydeder.[^k2] Bir düzenin
-değerlendirilmesi, neyle karşılaştırıldığına bağlıdır ve
-karşılaştırma noktası belirtilmelidir.
+Bir düzenin değerlendirilmesi, neyle
+karşılaştırıldığına bağlıdır ve karşılaştırma noktası belirtilmelidir.[^k2]
 
 ## Sona ermesi
 
@@ -126,8 +124,8 @@ değiştirildi.[^k1] Eşit vatandaşlık ilkesi ilan edildi.
 Uygulama kademeli ve eksik oldu.[^k3] Eski düzenin kurumları bir süre
 daha işledi.
 
-Atlas bu geçişi belge kuralına bağlar.[^k2] Bir metnin ilan ettiği
-ilke ile fiilî uygulama arasındaki fark, ayrı ayrı ölçülmelidir.
+Bir metnin ilan ettiği ilke ile fiilî
+uygulama arasındaki fark, ayrı ayrı ölçülmelidir.[^k2]
 
 
 ## Benzer düzenlerle karşılaştırma
@@ -138,8 +136,8 @@ düzenlerde de vardı.[^k1] Çözümler farklıydı.
 Bazı düzenler tek bir hukuk dayattı, bazıları yerel hukuku tanıdı.[^k3]
 Üçüncü bir yol, kişinin uyruğuna göre hukuk belirlemekti.
 
-Atlas üç çözümü ayrı ayrı kaydeder.[^k2] Aynı soruna verilen farklı
-cevaplar, aynı çizginin aşamaları değildir.
+Aynı soruna verilen farklı cevaplar, aynı
+çizginin aşamaları değildir.[^k2]
 
 ## Yargı ayrıcalığıyla farkı
 
@@ -149,8 +147,8 @@ düzeninde de görülür.[^k1] İki durum karıştırılmamalıdır.
 Birinde hukuk, topluluğun kendi geleneğine göre belirlenir.[^k3]
 Diğerinde dış bir devletin hukuku, kendi uyruklarına uygulanır.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k2] Belirleyici olan hukukun
-çokluğu değil, o hukuku kimin belirlediğidir.
+Belirleyici olan hukukun çokluğu değil, o hukuku
+kimin belirlediğidir.[^k2]
 
 ## Kaydın durumu
 
@@ -160,15 +158,13 @@ gelir.[^k3] Toplulukların kendi kayıtları da vardır.
 İki kayıt aynı olayı farklı adlandırabilir.[^k1] Merkez için bir
 düzenleme, topluluk için bir kısıt olabilir.
 
-Atlas iki kaydı birlikte kullanır.[^k2] Bir düzenin nasıl işlediği,
-yalnızca onu kuranın kaydından okunamaz.
+Bir düzenin nasıl işlediği, yalnızca onu
+kuranın kaydından okunamaz.[^k2]
 
 
-## Kavramın atlasta kullanımı
-
-Atlas kavramı bir övgü ya da yergi olarak
-kullanmaz.[^k1] Sorduğu soru dardır: hangi konularda topluluğun kendi
-hukuku geçerliydi, hangi konularda merkezin.
+## Nasıl kullanılır?
+Sorduğu soru dardır: hangi konularda topluluğun
+kendi hukuku geçerliydi, hangi konularda merkezin.[^k1]
 
 Cevap dönemden döneme değişir.[^k3] Bu değişim, düzenin kendisinden
 çok merkezin kapasitesindeki değişimi
@@ -180,12 +176,10 @@ gösterir.[^k2]
 Terimin bugünkü kullanımı, dönemin kendi kullanımıyla tam
 örtüşmez.[^k3] Sözcüğün anlamı zamanla değişti.
 
-Atlas bu kaymayı ayrıca kaydeder.[^k1] Bir terimi bugünkü anlamıyla
-geçmişe uygulamak, atlasın anakronizm dosyasında tanımlanan
-hatadır.[^k2]
+Bir terimi bugünkü anlamıyla geçmişe
+uygulamak, korpusun anakronizm dosyasında tanımlanan hatadır.[^k2][^k1]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Sistemin işleyişi, hukuki dayanakları ve 19. yüzyıldaki dönüşümü burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

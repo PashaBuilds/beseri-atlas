@@ -50,7 +50,7 @@ onarim_turu: 0
 ---
 
 İmparatorluk 1370-1507 arasına tarihlenir; devlet biçimi emirlik, yönetim biçimi
-mutlak monarşi, hükümdar unvanı emirdir.[^k1] Bu dosya, **kuruluş ile fetih
+mutlak monarşi, hükümdar unvanı emirdir.[^k1] Bu inceleme, **kuruluş ile fetih
 arasındaki yedi yılı ve dağılmanın biçimini** ele alır.
 
 ## Fetihler kuruluştan önce başlar
@@ -78,7 +78,7 @@ Koyunlu, Ak Koyunlu ve Babür İmparatorluğu; öncülleri ise Çağatay Hanlı�
 1526'daki Panipat Savaşı olarak kaydedilir.[^k1]
 
 Bir imparatorluğun sonunun tek bir ardılla değil beş ayrı devletle
-kaydedilmesi,[^k1] atlasın "çöküş" kategorisine karşı uyarısıdır: dağılan şey
+kaydedilmesi,[^k1] korpusun "çöküş" kategorisine karşı uyarısıdır: dağılan şey
 ortadan kalkmaz, bölünür.
 
 ## Üç dil, iki din listesi
@@ -97,7 +97,7 @@ Kaynak 20 Temmuz 1402'yi Ankara Savaşı olarak kaydeder.[^k1] Karşı taraf iç
 kaynak, Osmanlı İmparatorluğu'nu 1299-1922 arasına yerleştirir ve devlet dilini
 Osmanlı Türkçesi olarak verir.[^k2]
 
-İki tarih dizisinin 1402'de kesişmesi,[^k1][^k2] atlasın dönem içi
+İki tarih dizisinin 1402'de kesişmesi,[^k1][^k2] korpusun dönem içi
 karşılaştırmalarının somut düğüm noktalarından biridir; karşı taraf
 [Osmanlı İmparatorluğu](/aktor/osmanli-imparatorlugu/) dosyasında ele alınıyor.
 
@@ -108,8 +108,7 @@ yaklaşık 503,1 milyondur.[^k3] İmparatorluğun kendi nüfusuna dair bir ölç
 kullanılan kaynak bölümünde bulunmadığı için bu değerler içindeki pay burada
 hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Seferler, yükseliş ve gerileme dönemleri, mimari ve edebiyat burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1] Dönemin bütünü [1350-1500](/donem/08/) dosyasında ele alınıyor.

@@ -48,7 +48,7 @@ onarim_turu: 0
 ---
 
 Sümer, güney Mezopotamya'da yaklaşık MÖ 3300 ile MÖ 1900 arasına tarihlenir;
-öncesinde Ubeyd dönemi, sonrasında Akkad İmparatorluğu gelir.[^k1] Bu dosya tek
+öncesinde Ubeyd dönemi, sonrasında Akkad İmparatorluğu gelir.[^k1] Bu inceleme tek
 bir devleti değil, **birbirine benzeyen ama birleşmeyen** bir şehirler kümesini
 ele alır.
 
@@ -96,8 +96,7 @@ Uzun dönemli seride dünya nüfusu MÖ 3000'de yaklaşık 44,6 milyondur.[^k3] 
 şehirlerine dair bir nüfus ölçümü bulunmadığı için burada bir pay
 hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Şehirlerin tek tek siyasi tarihleri, hanedan sıralamaları ve aralarındaki savaşlar
 burada ele alınmaz; dosya kurumsal örüntüye odaklanır. Yazının bu şehirlerde
 ortaya çıkışı [yazının icadı](/olay/yazinin-icadi/), dönemin bütünü ise

@@ -1,7 +1,7 @@
 {
   "id": "tartisma-fransiz-devrimi-yorumlari",
-  "govde_hash": "7dc559b1fae7",
-  "commit": "7549ec6",
+  "govde_hash": "fe8478e9b6f1",
+  "commit": "4373ec95",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -773,5 +773,13 @@
     "kismi": 10,
     "desteksiz": 0,
     "olculemez": 0
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "7dc559b1fae7",
+      "yeni_hash": "fe8478e9b6f1",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    }
+  ]
 }

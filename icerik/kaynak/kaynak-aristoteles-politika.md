@@ -70,7 +70,7 @@ başlıklar olarak tutar.[^k1]
 Kaynak, anayasaların sınıflandırılmasına ayrı bir bölüm ayırır.[^k1]
 
 Bir siyaset metninin yönetim biçimlerini sınıflandırmasının ayrı bir başlık
-taşıması,[^k1] atlasın aktör dosyalarında yönetim biçimi alanını neden ayrı
+taşıması,[^k1] korpusun aktör dosyalarında yönetim biçimi alanını neden ayrı
 tuttuğunun eski bir örneğidir.
 
 ## Kompozisyon bir sorundur
@@ -99,5 +99,5 @@ satır aralığıyla birlikte sıraladığını yazar.[^k3] O eser
 
 ## Metne bağ
 
-Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Eser kamu malıdır; hangi çevirinin kullanıldığı her
+Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Eser kamu malıdır; hangi çevirinin kullanıldığı her
 aktarımda belirtilmelidir.

@@ -20,6 +20,7 @@ ilgili:
   - aktor-inka-imparatorlugu
   - aktor-teotihuacan
   - olay-meksika-fethi
+baglam:
   - olay-meksika-devrimi
   - kavram-imparatorluk
   - kavram-arkeolojik-kanit
@@ -112,7 +113,7 @@ hizmet üstlenmiyordu.[^k1]
 Bu düzeni önemli kılan, kapladığı alanın genişliği değil tutunma biçiminin
 inceliğidir. Güncel özet bu biçime dolaylı denetim adını verir; sözcüğün
 altındaki düzeneğin — eyalet yönetiminin fiilen kime bırakıldığının — ne
-olduğunu ise elimizdeki künye düzeyindeki kayıt açmıyor, bu dosya da açmış
+olduğunu ise elimizdeki künye düzeyindeki kayıt açmıyor, bu inceleme de açmış
 gibi yapmıyor.[^k1] Yönetimi ucuzlatan bu düzenek onu kırılgan da kılar: tabi
 halklar merkezin zayıfladığını her hissettiklerinde ayaklandı, başkent
 ayaklanmaları hızla bastırdı ve bu döngü 1519'a kadar sürdü.[^k2] İkinci bir
@@ -264,7 +265,7 @@ yüzlerle verir ve bunu insan kurbanının büyük ölçekli olduğunun kanıtı
 sayar.[^k4] İki uç birlikte tutulmalı: kurban gerçekten yapılıyordu ve kazı
 bunu doğruluyor; öte yandan kazılan yapıdan çıkan sayı, vakayinamelerin
 verdiği yüz binlerle aynı büyüklük mertebesinde değil — bu mertebe
-karşılaştırması haberin değil, bu dosyanın kendi çıkarımıdır. Sayının kendisi
+karşılaştırması haberin değil, bu incelemenin kendi çıkarımıdır. Sayının kendisi
 hakemli bir makaleden değil, bir haber başlığından geliyor; kesinlik iddiası
 buraya kadar. Bu tür rakamların nasıl okunacağı [Tarihsel sayılar nasıl
 okunur](/tartisma/tarihsel-sayilar-nasil-okunur/) dosyasında ayrıca

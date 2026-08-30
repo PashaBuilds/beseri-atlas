@@ -69,7 +69,7 @@ onarim_turu: 0
 
 ## Ne olduğu
 
-Bu dosya bir tarihsel olguyu değil, atlasın kendi belge künyelerini
+Bu inceleme bir tarihsel olguyu değil, korpusun kendi belge künyelerini
 yazarken tekrar tekrar karşılaştığı yedi kısıtı toplar.[^k1] Kısıtların
 tamamı, on ayrı belge dosyasında ayrı ayrı ölçülmüştür.
 
@@ -85,7 +85,7 @@ Bir metnin kimi kapsadığı dört biçimde kurulabilir.[^k2] Eşitsizlik
 açıkça yazılabilir, kapsam sessizce daraltılabilir, kapsam açıkça
 genişletilebilir ya da engel adlandırılarak hedef alınabilir.
 
-Dördü de atlasta ölçüldü.[^k1] Sırasıyla Hammurabi, Magna Carta,
+Dördü de korpusta ölçüldü.[^k1] Sırasıyla Hammurabi, Magna Carta,
 Gülhane ile Beyanname, ve Hindistan Anayasası dosyalarında.
 
 İkinci biçim en zor görülenidir.[^k3] Metinde bir ayrım maddesi
@@ -102,7 +102,7 @@ dönemin mahkeme kayıtlarında ona atıf yapıldığının gösterilmesine
 bağlıdır ve bu gösterilememiştir.
 
 Uygulama kanıtı bulunamadığında belge, beyan edilen düzen olarak
-kaydedilir.[^k3] Atlas bu ayrımı bütün hukuk belgesi künyelerinde
+kaydedilir.[^k3] Korpus bu ayrımı bütün hukuk belgesi künyelerinde
 uygular.
 
 ## Üçüncü kısıt: metnin sustuğu yer
@@ -128,7 +128,7 @@ kuruldu.[^k1] İkisi aynı ailedendir: bir belgenin ne söylediği, hangi
 sürümünün okunduğuna bağlı olabilir ve bu bağlılık belgenin kendisinden
 okunmaz.
 
-Kural atlasın altı belge künyesinde uygulanmıştır.[^k3] Beş künyede
+Kural korpusun altı belge künyesinde uygulanmıştır.[^k3] Beş künyede
 metin çeviridir ve bu her dosyada ayrıca beyan edilmiştir.
 
 ## Beşinci kısıt: kabul koşulları
@@ -174,14 +174,13 @@ aynı belge yüzyıllarca süren bir sınır bırakabilir.
 Yedi kısıt bir sıralama değildir.[^k1] Her belge için hepsi sorulur ve
 bir bölümü cevapsız kalır.
 
-Cevapsız kalanlar da kaydedilir.[^k3] Atlasın belge künyelerinde
+Cevapsız kalanlar da kaydedilir.[^k3] Korpusun belge künyelerinde
 sorulmuş ama cevaplanamamış kısıtlar açıkça beyan edilir.
 
-Listenin kendisi kapalı değildir.[^k2] Yedi kısıt atlasın bugüne kadar
+Listenin kendisi kapalı değildir.[^k2] Yedi kısıt korpusun bugüne kadar
 karşılaştıklarıdır; yenileri eklenebilir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya bir hukuk kuramı sunmaz.[^k1] Belgelerin nasıl yorumlanması
 gerektiğine ilişkin bir öneri içermez.
 
@@ -189,10 +188,9 @@ Kısıtların ağırlığı da sıralanmaz.[^k3] Hangisinin daha belirleyici
 olduğu belgeye göre değişir.
 
 Liste yalnızca hukuki metinler içindir.[^k2] Anlatı, kayıt ve gözlem
-metinleri için atlasın ayrı bir dosyası bulunmaktadır.
+metinleri için korpusun ayrı bir dosyası bulunmaktadır.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Kısıtların tek tek ölçüldüğü dosyalar için
 [Hammurabi Kanunları](/kaynak/hammurabi-kanunlari/),
 [Magna Carta](/kaynak/magna-carta/) ve

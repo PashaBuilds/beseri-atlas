@@ -15,10 +15,11 @@ guven_geneli: tartismali
 etiketler: [yedi-yil-savasi, paris-antlasmasi, hubertusburg, silezya, somurgecilik, adlandirma]
 ilgili:
   - donem-10
-  - olay-plassey-1757
   - olay-amerikan-devrimi
-  - aktor-britanya-imparatorlugu
   - aktor-rus-imparatorlugu
+baglam:
+  - olay-plassey-1757
+  - aktor-britanya-imparatorlugu
   - aktor-ingiliz-doguhindistan-sirketi
   - kavram-guc-dengesi
   - kavram-anakronizm

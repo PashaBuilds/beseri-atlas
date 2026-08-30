@@ -44,7 +44,7 @@ onarim_turu: 0
 ---
 
 Devlet 1171'de Selahaddin tarafından kuruldu ve 1260'ta sona erdi; yönetim biçimi
-kaynakta "sultanlık (beylikler konfederasyonu)" olarak verilir.[^k1] Bu dosya,
+kaynakta "sultanlık (beylikler konfederasyonu)" olarak verilir.[^k1] Bu inceleme,
 kaynağın **kendi bilmediğini yazdığı yerleri** ele alır.
 
 ## Kaynak nüfusu bilmediğini söyler
@@ -54,7 +54,7 @@ dipnotunda Eyyûbî topraklarının toplam nüfusunun bilinmediğini ve bu sayı
 yalnızca Mısır, Suriye, Yukarı Mezopotamya, Filistin ve Ürdün'ü kapsadığını
 yazar; Yemen kıyıları, Hicaz, Nubye ve Kirenayka dışarıda bırakılmıştır.[^k1]
 
-Bir kaynağın verdiği sayının neyi kapsamadığını sayması,[^k1] atlasın aradığı
+Bir kaynağın verdiği sayının neyi kapsamadığını sayması,[^k1] korpusun aradığı
 kayıt biçimidir: bir tahminin sınırını belirtmek, tahmini geri çekmek değil
 kullanılabilir kılmaktır.
 
@@ -65,7 +65,7 @@ Mısır'ı Memlükler'e kaptırmalarına rağmen Levant'ı 1260'a kadar denetled
 hanedanın bir kolu Hasankeyf'i 16. yüzyıl başlarına kadar yönetti.[^k1]
 
 Aynı hanedan için üç ayrı bitiş tarihi verilebilmesi (1250, 1260, 16. yüzyıl
-başı),[^k1] atlasın tek bir yıkılış yılı alanına neden temkinle yaklaştığını
+başı),[^k1] korpusun tek bir yıkılış yılı alanına neden temkinle yaklaştığını
 gösterir; burada seçilen 1260, kaynağın kutusunda yazan yıldır.
 
 ## Başkent üç şehir arasında dolaşır
@@ -106,11 +106,10 @@ Kaynak alan için 1200 yılı tahminini 1.700.000 km² olarak verir ve bunu zirv
 alanın alt sınır tahmini diye niteler.[^k1] Uzun dönemli seride dünya nüfusu 1000
 yılı için yaklaşık 314,7 milyon, 1300 yılı için yaklaşık 456,2 milyondur.[^k3]
 
-Atlas burada bir pay hesaplamaz. Gerekçe kaynağın kendi dipnotudur: verilen
+Korpus burada bir pay hesaplamaz. Gerekçe kaynağın kendi dipnotudur: verilen
 nüfus sayısının kapsamı eksik ilan edilmiştir.[^k1]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Seferler, Haçlı devletleriyle ilişkiler, iktisadi düzen ve hanedan içi bölünmeler
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1] Dönemin bütünü [1000-1350](/donem/07/) dosyasında ele alınıyor.

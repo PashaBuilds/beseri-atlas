@@ -15,7 +15,6 @@ ilgili:
   - dusunur-locke
   - dusunur-montesquieu
   - olay-sanayi-devrimi
-  - dusunur-kant
   - dusunur-malthus
   - dusunur-marx
   - dusunur-mill
@@ -25,6 +24,8 @@ ilgili:
   - kavram-merkantilizm
   - kavram-ilkel-birikim
   - kaynak-smith-uluslarin-zenginligi
+baglam:
+  - dusunur-kant
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -61,7 +62,7 @@ onarim_turu: 0
 ---
 
 Kaynak onun ahlak felsefesinin kapsamlı ve alışılmadık bir sürümünü
-geliştirdiğini yazar.[^k1] Bu dosya, iktisat kuramını değil **kaynağın kurduğu
+geliştirdiğini yazar.[^k1] Bu inceleme, iktisat kuramını değil **kaynağın kurduğu
 kavram ayrımlarını** ele alır.
 
 ## Aynı sözcük iki düşünürde iki şey demektir
@@ -74,7 +75,7 @@ olduğunu kaydeder.[^k1]
 
 Kaynak iki anlatıya iki ayrı ad verir: biri bulaşma, diğeri yansıtma
 anlatısı.[^k1] Aynı sözcüğün iki çağdaş düşünürde iki farklı işlem anlamına
-gelmesi, atlasın terim kilidi kapısının neden var olduğunu gösterir.
+gelmesi, korpusun terim kilidi kapısının neden var olduğunu gösterir.
 
 ## İki tür norm ayrı ayrı sayılır
 
@@ -85,7 +86,7 @@ türlerini yasakladığını ve toplum için ortak beklentiler çerçevesi sağl
 kaydeder.[^k1]
 
 Kuralların örneklerden türetildiğinin yazılması,[^k1] normların yukarıdan değil
-tepkilerden oluştuğu bir kurguyu gösterir; atlas bu kurguyu doğru ya da yanlış
+tepkilerden oluştuğu bir kurguyu gösterir; korpus bu kurguyu doğru ya da yanlış
 saymaz, kaydeder.
 
 ## Yöntem tercihi de metinde yazılıdır
@@ -95,7 +96,7 @@ düşündüğünü ve çeşitli ahlaki yargı türlerini nasıl yürüttüğüm�
 ayrımlı bir görüngübilimin, bu süreçte düşmeye eğilimli olduğumuz hatalarla
 birlikte, çok daha yararlı olacağını yazar.[^k1]
 
-Bir kuramcının yöntem tercihini gerekçelendirmesi,[^k1] bu atlasın yöntem
+Bir kuramcının yöntem tercihini gerekçelendirmesi,[^k1] bu korpusun yöntem
 notlarını neden ayrı bir dosyada tuttuğunun eski bir örneğidir.
 
 ## Aynı on yıllardaki dönüşüm
@@ -103,7 +104,7 @@ notlarını neden ayrı bir dosyada tuttuğunun eski bir örneğidir.
 Aynı on yıllarda başlayan iktisadi dönüşüm için ayrı bir kayıt tutulur.[^k2] O
 dönüşüm [Sanayi Devrimi](/olay/sanayi-devrimi/) dosyasında ele alınıyor.
 
-Atlas iki kayıt arasında bir neden bağı kurmaz; kullanılan kaynak bölümlerinde
+Korpus iki kayıt arasında bir neden bağı kurmaz; kullanılan kaynak bölümlerinde
 böyle bir bağ belirtilmemiştir.[^k1][^k2]
 
 ## Bir önceki kuşak
@@ -112,13 +113,12 @@ Bir önceki kuşağın düşünürü için tutulan kayıt, eserinin insan anlay�
 sınırlarını belirlemekle ilgilendiğini yazar.[^k3] O düşünür
 [John Locke](/dusunur/locke/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 *Ulusların Zenginliği*, iş bölümü, tarafsız gözlemci kavramı ve iktisat kuramı
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1]
 
 ## Eserine bağ
 
-Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Uluslarin Zenginligi*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+Bu inceleme düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Uluslarin Zenginligi*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
 verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

@@ -85,10 +85,10 @@ yere bağlamalarıdır.
 
 Dönemde dünya nüfusu 600 yılında yaklaşık 271,6 milyon, 1000 yılında yaklaşık
 323,5 milyondu.[^k3] Kaynak bu toplamın bölgesel dağılımını vermez; Karolenj
-İmparatorluğu'nun kendi nüfusu bu dosyada verilmemektedir ve bu bir kapsam
+İmparatorluğu'nun kendi nüfusu bu incelemede verilmemektedir ve bu bir kapsam
 sınırıdır.
 
-Bu dosyanın kaynak tabanı, imparatorluğu erken ortaçağ çerçevesi içinde ele alan
+Bu incelemenin kaynak tabanı, imparatorluğu erken ortaçağ çerçevesi içinde ele alan
 genel bir referans maddesidir; iç idari yapısı, kapitülerleri ve saray okulu
 ayrı ayrı incelenmemiştir.
 

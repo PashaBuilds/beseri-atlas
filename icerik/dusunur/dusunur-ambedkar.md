@@ -65,7 +65,7 @@ her alanını belirledi.
 Yurt dışında hukuk ve iktisat öğrenimi gördü.[^k2] Döndüğünde hem
 hukukçu hem de siyasi bir örgütleyici olarak çalıştı.
 
-Bu dosya bir yaşam öyküsü değildir.[^k3] Bir kuralın kim tarafından
+Bu inceleme bir yaşam öyküsü değildir.[^k3] Bir kuralın kim tarafından
 sınanacağı sorusuna verdiği cevabın kaydıdır.
 
 ## Temel ölçüt
@@ -77,9 +77,8 @@ sorularak belirlenemez.
 Ölçüt bir yöntem önerir.[^k3] Düzeni, onun dışında bırakılanların
 konumundan bakarak sınamak.
 
-Atlas bu ölçütü kendi çalışmasına da uygular.[^k2] **Bir kaydın
-eksikliği, o kaydı tutanlara değil, kayda geçmeyenlere bakılarak
-görülür.**
+**Bir kaydın eksikliği, o kaydı
+tutanlara değil, kayda geçmeyenlere bakılarak görülür.**[^k2]
 
 ## Reform ile ilga arasındaki fark
 
@@ -90,9 +89,8 @@ kaldırılmasını savunuyordu.
 İkinci tutumu savundu.[^k3] Ona göre eşitsizlik düzenin bozulması
 değil, düzenin kendisiydi.
 
-Atlas bu ayrımı genel bir soru olarak kaydeder.[^k2] Bir düzenin
-kusuru mu var yoksa kusur düzenin kendisi mi — cevap, önerilecek
-çözümü tümüyle değiştirir.
+Bir düzenin kusuru mu var yoksa kusur düzenin kendisi
+mi — cevap, önerilecek çözümü tümüyle değiştirir.[^k2]
 
 ## Metnin dayanağı sorunu
 
@@ -103,9 +101,8 @@ Karşı görüş, metinlerin yanlış yorumlandığını ileri sürüyordu.[^k3]
 Tartışma, metnin ne dediğinden çok metnin bağlayıcı olup olmadığına
 kaydı.
 
-Atlas bu kaymayı ayrıca kaydeder.[^k2] Bir uygulamanın metne
-dayandırılması, tartışmayı metin yorumuna hapseder ve uygulamanın
-kendisini sorgulanmadan bırakır.
+Bir uygulamanın metne dayandırılması,
+tartışmayı metin yorumuna hapseder ve uygulamanın kendisini sorgulanmadan bırakır.[^k2]
 
 ## Su hakkı eylemi
 
@@ -116,9 +113,8 @@ hukuken tanınmıştı ama uygulanmıyordu.
 Eylemin hedefi bir yasa değişikliği değildi.[^k3] Var olan hakkın
 kullanılabilir olduğunu göstermekti.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k2] Bir hakkın metinde bulunması ile
-kullanılabilir olması ayrı iki veridir; ikincisi ancak denenerek
-ölçülür.
+Bir hakkın metinde bulunması ile kullanılabilir
+olması ayrı iki veridir; ikincisi ancak denenerek ölçülür.[^k2]
 
 ## Yayımlanamayan konuşma
 
@@ -129,8 +125,8 @@ sakıncalı bulununca konuşma yapılmadı.
 Metni kendi imkânlarıyla bastırdı.[^k3] Yayımlanmama gerekçesi de
 kitaba eklendi.
 
-Atlas bu ayrıntıyı önemli sayar.[^k2] Bir metnin nasıl yayımlandığı,
-metnin hangi dirençle karşılaştığının kaydıdır.
+Bir metnin nasıl yayımlandığı, metnin
+hangi dirençle karşılaştığının kaydıdır.[^k2]
 
 ## Temsil tartışması
 
@@ -141,9 +137,9 @@ Karşı taraf bunu toplumu bölmek olarak gördü.[^k3] Uzun bir açlık
 grevinin ardından, ayrı seçmen listesi yerine ayrılmış koltuk
 düzeninde uzlaşıldı.
 
-Atlas bu uzlaşmayı ayrıca kaydeder.[^k2] Bir uzlaşmanın nasıl
-sağlandığı, uzlaşmanın kendisi kadar veridir; baskı altında varılan
-anlaşma, gönüllü anlaşmayla aynı değildir.
+Bir uzlaşmanın nasıl sağlandığı, uzlaşmanın
+kendisi kadar veridir; baskı altında varılan anlaşma, gönüllü anlaşmayla aynı
+değildir.[^k2]
 
 ## İki temsil biçiminin farkı
 
@@ -154,8 +150,8 @@ yapar.
 Fark, temsilcinin kime hesap vereceğindedir.[^k3] Birincisinde yalnız
 gruba, ikincisinde bütün seçmenlere.
 
-Atlas bu farkı ölçülebilir sayar.[^k2] Bir temsil düzeninin kimi
-koruduğu, oyu kimin verdiğine bakılarak belirlenir.
+Bir temsil düzeninin kimi koruduğu, oyu kimin
+verdiğine bakılarak belirlenir.[^k2]
 
 ## Anayasa taslağı
 
@@ -166,9 +162,9 @@ Metin, ayrımcılığı yasaklayan ve dokunulmazlık uygulamasını
 kaldıran maddeler içerir.[^k1] Aynı metin, dezavantajlı gruplar için
 ayrılmış kontenjanlar da tanımlar.
 
-Atlas bu ikiliği ayrıca kaydeder.[^k3] Aynı belge hem eşit muamele
-ilkesini hem de farklılaştırılmış tedbirleri kurar; ikisi çelişki
-değil, ikinci ilkenin birinciyi sağlama aracı olarak konumlandırılır.
+Aynı belge hem eşit muamele ilkesini hem de
+farklılaştırılmış tedbirleri kurar; ikisi çelişki değil, ikinci ilkenin birinciyi
+sağlama aracı olarak konumlandırılır.[^k3]
 
 ## Kurucu meclisin bileşimi
 
@@ -179,9 +175,9 @@ Bu, metnin meşruiyeti hakkında bir soru doğurur.[^k1] Metin, adına
 konuştuğu nüfusun büyük bölümünün oyuyla seçilmemiş bir kurulca
 yazıldı.
 
-Atlas bu soruyu kaydeder ve karara bağlamaz.[^k3] Kurucu metinlerin
-çoğu, kurdukları düzenin kendi ölçütlerini karşılamayan kurullarca
-yazılmıştır; bu, atlasta tekrar eden bir ölçümdür.
+Kurucu metinlerin çoğu, kurdukları
+düzenin kendi ölçütlerini karşılamayan kurullarca yazılmıştır; bu, korpusta tekrar eden
+bir ölçümdür.[^k3]
 
 ## Metnin sınırının kabulü
 
@@ -192,9 +188,8 @@ söyledi.
 Bu, iyimser bir kapanış değildir.[^k1] Aksine, uğruna yıllarını
 verdiği metnin tek başına yetersiz kaldığının açık bir kabulüdür.
 
-Atlas bu kabulü doğrudan kendi kuralına bağlar.[^k3] Bu, atlasın belge
-tartışmasında kurulan ölçütün yazarının ağzından ifadesidir: yürürlük
-metinle değil uygulamayla ölçülür.
+Bu, korpusun belge tartışmasında kurulan
+ölçütün yazarının ağzından ifadesidir: yürürlük metinle değil uygulamayla ölçülür.[^k3]
 
 ## İktisatçı yanı
 
@@ -204,8 +199,8 @@ maliyesi üzerine tezleri vardır.
 Bu yön çoğu anlatıda geri planda kalır.[^k3] Oysa toprak ve emek
 üzerine görüşleri bu çalışmalarla bağlantılıdır.
 
-Atlas bu ihmali ayrıca kaydeder.[^k2] Bir düşünürün en çok anılan yanı,
-en belirleyici yanı olmayabilir.
+Bir düşünürün en çok anılan yanı, en
+belirleyici yanı olmayabilir.[^k2]
 
 ## Toprak ve emek
 
@@ -215,8 +210,8 @@ iş bölümünü zorla sabitleyen bir ekonomik düzen olarak tanımladı.
 Bu tanım, çözümü de değiştirir.[^k3] Statü sorunuysa saygı, ekonomik
 sorunsa mülkiyet ve iş imkânı gerekir.
 
-Atlas bu bağı ayrıca kaydeder.[^k2] Bir eşitsizliğin hangi alanda
-tanımlandığı, hangi araçla giderileceğini belirler.
+Bir eşitsizliğin hangi alanda
+tanımlandığı, hangi araçla giderileceğini belirler.[^k2]
 
 ## Eğitimin rolü
 
@@ -228,8 +223,8 @@ Bu, düzenin bir zayıf noktasını gösterir.[^k3] Statüyü doğuştan
 belirleyen bir düzen, dışarıdan gelen bir ölçütle sınandığında
 gerekçesiz kalır.
 
-Atlas bu mekanizmayı ayrıca kaydeder.[^k2] Kapalı bir hiyerarşi, dış
-dünyayla temas arttıkça kendi ölçütünü savunmak zorunda kalır.
+Kapalı bir hiyerarşi, dış dünyayla temas
+arttıkça kendi ölçütünü savunmak zorunda kalır.[^k2]
 
 ## Eğitimin yaygınlaştırılması
 
@@ -239,9 +234,8 @@ grupların okula erişimini merkeze koydu.
 Gerekçe pratiktir.[^k3] Bir düzenin kurallarını değiştirmek, o kuralları
 okuyabilmeyi ve yazabilmeyi gerektirir.
 
-Atlas bu bağı ayrıca kaydeder.[^k2] Okuryazarlık, hakların
-kullanılabilirliğinin ön koşuludur ve bu yönüyle teknik değil siyasi
-bir eşiktir.
+Okuryazarlık, hakların
+kullanılabilirliğinin ön koşuludur ve bu yönüyle teknik değil siyasi bir eşiktir.[^k2]
 
 ## Sayımın rolü
 
@@ -251,9 +245,8 @@ grupları hem görünür kıldı hem de sabitledi.
 Bu ikili etki tartışmalıdır.[^k3] Sayım olmadan tedbir alınamaz; sayım
 yapılınca kategori pekişir.
 
-Atlas bu ikilemi ayrıca kaydeder.[^k2] Bir eşitsizliği gidermek için
-onu ölçmek gerekir; ölçmek ise ölçülen ayrımı kayıtta
-kalıcılaştırır.
+Bir eşitsizliği gidermek için onu ölçmek
+gerekir; ölçmek ise ölçülen ayrımı kayıtta kalıcılaştırır.[^k2]
 
 ## Kimin adına konuşulur
 
@@ -261,11 +254,11 @@ Dışlanan grup adına kimin konuşacağı ayrı bir tartışmaydı.[^k1] Grubun
 dışından gelen sözcülerle grubun kendi sözcüleri arasında bir gerilim
 vardı.
 
-Bu gerilim yalnızca bu örneğe özgü değildir.[^k3] Atlasta başka
+Bu gerilim yalnızca bu örneğe özgü değildir.[^k3] Korpusta başka
 dosyalarda da aynı biçimde görünür.
 
-Atlas bu soruyu tekrar eden bir ölçüm sayar.[^k2] Bir grubun çıkarını
-kimin tanımladığı, o çıkarın nasıl tanımlanacağını da belirler.
+Bir grubun çıkarını kimin
+tanımladığı, o çıkarın nasıl tanımlanacağını da belirler.[^k2]
 
 ## Bağımsızlığın kapsamı
 
@@ -275,8 +268,8 @@ değiştirmesinin, dışlanan gruplar için ne değiştireceğini sordu.
 Soru bağımsızlığa karşı çıkmak değildi.[^k3] Bağımsızlığın tek başına
 yeterli olmadığını göstermeyi amaçlıyordu.
 
-Atlas bu soruyu genel bir ölçüt olarak kaydeder.[^k2] Bir kurtuluşun
-kimin için kurtuluş olduğu, ayrıca sorulması gereken bir sorudur.
+Bir kurtuluşun kimin için kurtuluş
+olduğu, ayrıca sorulması gereken bir sorudur.[^k2]
 
 ## Kadınların konumu
 
@@ -287,8 +280,8 @@ genişletiyordu.
 Öneri o dönemde kabul edilmedi.[^k3] Bunun üzerine bakanlıktan
 ayrıldı.
 
-Atlas bu istifayı ayrıca kaydeder.[^k2] Bir reformun hangi noktada
-durduğu, o dönemin gerçek sınırını gösterir.
+Bir reformun hangi noktada durduğu, o dönemin
+gerçek sınırını gösterir.[^k2]
 
 ## Din değiştirme kararı
 
@@ -299,9 +292,8 @@ Gerekçe teolojik olduğu kadar siyasidir.[^k3] Statüyü doğuştan
 belirleyen bir çerçeveden çıkmak, o çerçeveyi terk etmeyi
 gerektiriyordu.
 
-Atlas bu kararı bir yöntem sayar.[^k2] Bir düzenin kurallarını
-değiştiremeyen kişi için, düzenin dışına çıkmak da bir seçenektir ve
-maliyeti ayrıca ölçülmelidir.
+Bir düzenin kurallarını değiştiremeyen
+kişi için, düzenin dışına çıkmak da bir seçenektir ve maliyeti ayrıca ölçülmelidir.[^k2]
 
 ## Karşı görüşlerin kaydı
 
@@ -313,8 +305,8 @@ Bu eleştirilerin bir bölümü yöntemle ilgiliydi.[^k3] Bir bölümü ise
 dışlanan grupların birbirinden farklı olduğunu ve tek bir çatı altında
 temsil edilemeyeceğini ileri sürdü.
 
-Atlas bu eleştirileri ayrıca kaydeder.[^k2] Bir hareketin iç
-tartışmaları, karşıtlarının eleştirileriyle aynı kefeye konmaz.
+Bir hareketin iç tartışmaları, karşıtlarının
+eleştirileriyle aynı kefeye konmaz.[^k2]
 
 ## Sonraki dönemde kullanımı
 
@@ -324,12 +316,10 @@ Birbirine karşı duran hareketler aynı ismi kendi dayanağı saydı.
 Bu, metinlerinin okunmasını da etkiledi.[^k3] Hangi metnin öne
 çıkarıldığı, onu anan hareketin konumuna göre değişti.
 
-Atlas bu kullanımı ayrıca kaydeder.[^k2] Bir düşünürün sonraki
-dönemdeki itibarı, yazdıklarının değil onları kimin kullandığının
-kaydıdır.
+Bir düşünürün sonraki dönemdeki itibarı,
+yazdıklarının değil onları kimin kullandığının kaydıdır.[^k2]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, anayasanın madde madde çözümlemesini yapmaz.[^k2] Metnin
 tamamı künyede anılan kaynaktan okunabilir ve maddelerin sonraki
 değişiklikleri burada izlenmez.
@@ -343,8 +333,7 @@ künyelenememiştir.[^k3] Erişilebilir yüklemelerin yükleyicisi, yayıncısı
 doğrulanamadığı için künyeye alınmamıştır ve bu kısıt burada beyan
 edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Düzenin kendisi için [Kast](/kavram/kast/) dosyası okunmalıdır.[^k1]
 
 Yazdığı metin için

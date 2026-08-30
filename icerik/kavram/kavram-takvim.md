@@ -12,7 +12,6 @@ guven_geneli: yaygin
 etiketler: [takvim, tarihleme, cevirme, hicri, donemlendirme]
 ilgili:
   - kavram-donemlendirme
-  - kavram-anakronizm
   - kavram-birincil-kaynak
   - kavram-kaynak-elestirisi
   - kavram-belge-okumasi
@@ -20,6 +19,8 @@ ilgili:
   - kavram-yazi-sistemi
   - dusunur-ulug-bey
   - kavram-kurulus-anlatisi
+baglam:
+  - kavram-anakronizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -50,16 +51,15 @@ onarim_turu: 0
 
 ## Neden ayrı bir dosya
 
-Atlas her olayı tek bir ölçekle tarihler.[^k2] Bu, karşılaştırma
-yapabilmek için gereklidir.
+Bu, karşılaştırma yapabilmek için
+gereklidir.[^k2]
 
 Tek ölçek kullanmak tarafsız bir işlem değildir.[^k1] Seçilen ölçek,
 belirli bir geleneğin başlangıç noktasına ve yıl uzunluğuna
 dayanır.
 
-Atlas bu tercihi gizlemez.[^k3] **Bir kaynaktaki tarih, o kaynağın
-takvimine aittir; çevrilmiş bir tarih özgününden daha kesin
-değildir.**
+**Bir kaynaktaki tarih, o kaynağın takvimine
+aittir; çevrilmiş bir tarih özgününden daha kesin değildir.**[^k3]
 
 ## Takvimler üç noktada ayrılır
 
@@ -92,8 +92,8 @@ kaydın yazıldığı anda pratik bir çözümdür.
 Sonraki okur için iki bilinmeyen doğurur.[^k2] Hükümdarın hangi yılda
 tahta çıktığı ve yılın hangi günden sayılmaya başlandığı.
 
-Atlas bu tür tarihleri aralıkla verir.[^k3] Bir bilinmeyene dayanan
-bir tarih, o bilinmeyenin belirsizliğini taşır.
+Bir bilinmeyene dayanan bir tarih, o
+bilinmeyenin belirsizliğini taşır.[^k3]
 
 ## Yılbaşının yeri
 
@@ -103,8 +103,8 @@ gelenek içinde bile dönemden döneme değişebilir.
 Bunun somut sonucu vardır.[^k1] Yılbaşı ilkbahardaysa, kışın olan bir
 olay bir önceki yıla yazılır.
 
-Atlas bu farkı ayrıca kaydeder.[^k3] Yıl sınırına yakın tarihlerde,
-hangi yılbaşı kuralının kullanıldığı belirtilmelidir.
+Yıl sınırına yakın tarihlerde, hangi yılbaşı
+kuralının kullanıldığı belirtilmelidir.[^k3]
 
 ## Takvim değişikliği dönemleri
 
@@ -114,16 +114,16 @@ gün, iki farklı tarihle kaydedilebilir.
 Geçiş her yerde aynı anda olmadığı için, aynı olay iki ülkede iki
 tarihle kayıtlıdır.[^k1] Bu durum bazı yerlerde yüzyıllarca sürdü.
 
-Atlas bu dönemlerde iki tarihi de kaydeder.[^k3] Tek bir tarih vermek,
-hangi kaydın esas alındığını gizler.
+Tek bir tarih vermek, hangi kaydın esas
+alındığını gizler.[^k3]
 
 ## Çevirinin ürettiği hata
 
 Çeviri, kaynağın vermediği bir kesinlik üretebilir.[^k1] Bir kaynak
 yalnızca ayı veriyorsa, çeviri sonucunda bir gün çıkması yanıltıcıdır.
 
-Atlas bu yüzden çevirinin kesinliğini kaynağınkiyle
-sınırlar.[^k2] Kaynak ay veriyorsa, atlas da ay verir.
+Kaynak ay veriyorsa, korpus da ay
+verir.[^k2]
 
 Kural basittir.[^k3] Çeviri bilgi eklemez; yalnızca aynı bilgiyi başka
 bir ölçekte ifade eder.
@@ -137,8 +137,8 @@ Bağımsız doğrulama için, iki kaynağın kendi takvimlerinde tarih
 vermesi gerekir.[^k1] Ancak o zaman iki ayrı hesap karşılaştırılmış
 olur.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Aynı hesabın iki yerde
-tekrarlanması, iki bağımsız kayıt sayılmaz.
+Aynı hesabın iki yerde tekrarlanması, iki bağımsız
+kayıt sayılmaz.[^k3]
 
 ## Gök gözleminin bağlantısı
 
@@ -148,8 +148,8 @@ doğru ölçülmesi, düzeltme kuralını değiştirir.
 Bu yüzden takvim reformları çoğu zaman rasathane çalışmalarının
 ardından gelir.[^k3] Ölçüm önce, kural sonra gelir.
 
-Atlas bu bağı ayrıca kaydeder.[^k2] Bir takvimin doğruluğu, onu kuran
-düzenin ölçüm kapasitesinin doğrudan göstergesidir.
+Bir takvimin doğruluğu, onu kuran
+düzenin ölçüm kapasitesinin doğrudan göstergesidir.[^k2]
 
 ## Takvimin siyasi yanı
 
@@ -160,8 +160,8 @@ Takvim değiştirmek de aynı nedenle siyasidir.[^k2] Yeni bir başlangıç
 noktası ilan etmek, önceki düzenden kopuşu ilan etmenin bir
 biçimidir.
 
-Atlas bu işlevi ayrıca kaydeder.[^k3] Bir takvim reformu, teknik bir
-düzeltme olduğu kadar bir meşruiyet iddiasıdır.
+Bir takvim reformu, teknik bir düzeltme
+olduğu kadar bir meşruiyet iddiasıdır.[^k3]
 
 ## Tarihsiz kayıtlar
 
@@ -171,14 +171,14 @@ olaylara göre kurulur.
 Böyle bir kayıt yine de kullanılabilir.[^k2] Verdiği şey mutlak tarih
 değil, göreli sıradır.
 
-Atlas iki bilgiyi ayrı tutar.[^k3] Bir olayın başka bir olaydan sonra
-geldiğini bilmek, hangi yılda geldiğini bilmekten farklı ve çoğu
-zaman daha güvenilir bir bilgidir.
+Bir olayın başka bir olaydan sonra
+geldiğini bilmek, hangi yılda geldiğini bilmekten farklı ve çoğu zaman daha güvenilir
+bir bilgidir.[^k3]
 
-## Atlasın kendi kuralı
+## Korpusun kendi kuralı
 
-Atlas üç kural uygular.[^k2] Birincisi, çevrilmiş her tarih çeviri
-olduğu belirtilerek kullanılır.
+Birincisi, çevrilmiş her tarih çeviri
+olduğu belirtilerek kullanılır.[^k2]
 
 İkincisi, kaynağın verdiği kesinlik aşılmaz.[^k1] Üçüncüsü, geçiş
 dönemlerinde iki tarih birlikte verilir.
@@ -186,8 +186,7 @@ dönemlerinde iki tarih birlikte verilir.
 Üçü de aynı amaca hizmet eder.[^k3] Bir tarihin nereden geldiğinin
 izlenebilir kalması.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Dönem sınırlarının nasıl çizildiği için
 [Dönemlendirme](/kavram/donemlendirme/), geriye dönük adlandırma için
 [Anakronizm](/kavram/anakronizm/) dosyaları okunmalıdır.[^k2]

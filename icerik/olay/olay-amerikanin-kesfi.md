@@ -47,7 +47,7 @@ denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-Bu dosyanın başlığı bir keşiften çok bir **aktarım** anlatır. Kolomb değişimi
+Bu incelemenin başlığı bir keşiften çok bir **aktarım** anlatır. Kolomb değişimi
 bitkileri, hayvanları, hastalıkları ve kültürü aktardı.[^k1] Odak, kimin neyi
 bulduğu değil, iki yarımkürenin biyolojik olarak birbirine bağlanmasıdır.
 
@@ -57,7 +57,7 @@ Sürecin adı, sürecin kendisinden dört yüzyıl sonra verilmiştir: terim ilk
 1972'de Amerikalı tarihçi Alfred W. Crosby tarafından çevre tarihi kitabında
 kullanıldı.[^k1]
 
-Bu, atlas için önemli bir kayıttır: bir olguyu adlandıran çerçeve, olgunun
+Bu, korpus için önemli bir kayıttır: bir olguyu adlandıran çerçeve, olgunun
 kendisiyle aynı yaşta olmayabilir. Kolomb değişimini bir "olay" olarak
 görebilmemiz, 20. yüzyıl çevre tarihçiliğinin ürünüdür.
 
@@ -79,7 +79,7 @@ Aktarım yalnızca ürünlerden ibaret değildi. Kaynak, değişimin taşıdığ
 arasında frengi ve çiçek hastalığını da sayar.[^k1] Bir yarımkürede besin
 kaynağını genişleten süreç, diğerinde hastalık yükünü artırmıştır.
 
-Atlas bu iki sonucu aynı cümlede tutar. "Değişim" sözcüğü tarafsız görünür; oysa
+Korpus bu iki sonucu aynı cümlede tutar. "Değişim" sözcüğü tarafsız görünür; oysa
 kazanç ve kayıp coğrafi olarak eşit dağılmamıştır.
 
 ## Ölçek
@@ -89,7 +89,7 @@ Uzun dönemli seride dünya nüfusu 1500'de yaklaşık 503,1 milyon, 1600'de yak
 sonraki yüzyılların hızına göre düşük bir değer.
 
 Bu yavaşlığın nedeni kullanılan kaynaklarda ayrıştırılmamıştır; artışın hangi
-bölgede olduğu ve hangi bölgede kayıp yaşandığı bu seriden okunamaz. Atlas
+bölgede olduğu ve hangi bölgede kayıp yaşandığı bu seriden okunamaz. Korpus
 burada bir nedensellik kurmaz.
 
 ## Eski Dünya'nın öteki ucunda
@@ -99,9 +99,8 @@ Devleti'nin klasik taşra düzeni tımarlı eyaletler ve özel statülü birimle
 oluşuyordu.[^k3] Kolomb değişiminin ürünlerinin bu düzenlere ne zaman ve nasıl
 ulaştığı burada kullanılan kaynaklarda ele alınmamıştır.
 
-## Bu dosyanın sınırı
-
-Kaynak, Atlantik köle ticaretini ayrı bir başlık altında ele alır;[^k1] bu dosya
+## Kanıtın ve kapsamın sınırı
+Kaynak, Atlantik köle ticaretini ayrı bir başlık altında ele alır;[^k1] bu inceleme
 o başlığı kapsamaz. Seferlerin kendisi, sömürgeleştirmenin siyasi tarihi ve
 yerli nüfustaki kayıp da burada ayrı başlıklar altında işlenmemiştir;
 kullanılan kaynak bölümünün kapsamı biyolojik ve tarımsal aktarımdır. Dönemin

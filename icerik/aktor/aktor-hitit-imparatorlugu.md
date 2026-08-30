@@ -45,7 +45,7 @@ onarim_turu: 0
 ---
 
 Hitit İmparatorluğu yaklaşık MÖ 1650 ile MÖ 1200 arasında Hattuşa merkezli olarak
-varlığını sürdürdü; nüfusu 200.000'in üzerinde tahmin edilir.[^k1] Bu dosya
+varlığını sürdürdü; nüfusu 200.000'in üzerinde tahmin edilir.[^k1] Bu inceleme
 imparatorluğun askerî tarihini değil, **kurumsal ve dilsel mirasını** ele alır.
 
 ## Dil neden önemli
@@ -65,7 +65,7 @@ Hitit devletinin başında kral, ardından veliaht bulunurdu.[^k1] Bilinen en es
 anayasal monarşinin Hititler tarafından geliştirildiği ileri sürülmüştür.[^k1]
 
 Buradaki dil dikkatle okunmalıdır: kaynak "ileri sürülmüştür" der, "kurulmuştur"
-demez. Atlas bu ayrımı korur ve iddiayı bir bulgu olarak değil bir sav olarak
+demez. Korpus bu ayrımı korur ve iddiayı bir bulgu olarak değil bir sav olarak
 aktarır.
 
 ## Demir tekeli tezi
@@ -75,7 +75,7 @@ zamanlar demir işlemenin gelişimini Hititlere atfetmiş ve onların Tunç Ça�
 boyunca demir işçiliğini tekellerinde tuttuklarını düşünmüşlerdi; bu kuram giderek
 daha fazla sorgulanmıştır.[^k1]
 
-Bu, atlasın hakemlik yapmadığı türden bir örnektir. Eski kuram da, ona yönelen
+Bu, korpusun hakemlik yapmadığı türden bir örnektir. Eski kuram da, ona yönelen
 itiraz da kaynağın kendi ifadesiyle aktarılmıştır; hangi tarafın haklı olduğu
 burada karara bağlanmaz.
 
@@ -107,8 +107,7 @@ dönemin diplomatik yazışma hacmini açıklayan etkenlerden biridir.
 arasında bir yüzde hesaplamak, dönem içi karşılaştırılabilirliği kaynaklarca
 gösterilmediği için burada yapılmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Hitit hukuk metinleri, din ve mitolojisi ile sanatı burada ayrı başlıklar altında
 ele alınmamıştır. Dönemin bütünü [MÖ 3000–1200](/donem/02/) dosyasında ele
 alınıyor.

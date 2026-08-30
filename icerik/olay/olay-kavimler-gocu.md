@@ -56,7 +56,7 @@ Bu sürecin sınırları üzerinde uzlaşı yoktur. Kaynaklar Kavimler Göçü'n
 ve bitiş tarihleri konusunda ayrılır: başlangıç yaygın olarak Hunların yaklaşık
 375'te Asya'dan Avrupa'ya girmesi, bitiş ise Lombardların 568'de İtalya'yı
 fethetmesi sayılır; daha gevşek bir tanımla dönem 300 kadar erken bir tarihten 800
-kadar geç bir tarihe uzanır.[^k1] Bu dosya, tarih aralığındaki bu belirsizliği bir
+kadar geç bir tarihe uzanır.[^k1] Bu inceleme, tarih aralığındaki bu belirsizliği bir
 kusur olarak değil bir bulgu olarak ele alır.
 
 ## Ölçek: rakamlar ve belirsizlikleri
@@ -80,7 +80,7 @@ Yani "göç" ile "iskân politikası" arasındaki sınır, dönemin kendi uygula
 bulanıktır.
 
 Bu, hareketin nasıl adlandırılacağı sorusunu doğurur: istila mı, yerleşim mi,
-devlet eliyle iskân mı? Atlas bu adlandırmalardan birini seçmez.
+devlet eliyle iskân mı? Korpus bu adlandırmalardan birini seçmez.
 
 ## İki kanat, iki sonuç
 
@@ -95,7 +95,7 @@ tarafındaki kayıtta da aynı ayrım görülür: MS 395'ten sonra batı kanadı
 doğu kanadı 1453'e kadar sürer.[^k2]
 
 Aynı basınç altındaki iki kanattan birinin çökmesi, çöküşü tek başına göçe
-bağlamayı zorlaştırır. Bu, atlasın hakemlik yapmadığı bir noktadır; rakip
+bağlamayı zorlaştırır. Bu, korpusun hakemlik yapmadığı bir noktadır; rakip
 açıklamalar [Roma neden çöktü?](/tartisma/romanin-cokus-nedeni/) haritasında,
 ayakta kalan kanat ise [Bizans İmparatorluğu](/aktor/bizans-imparatorlugu/)
 dosyasında ele alınıyor.
@@ -115,8 +115,7 @@ için yaklaşık 271,6 milyon olarak verilir.[^k4] Toplam göç için verilen 50
 1.000.000 üzeri aralık[^k1] bu ölçekteki bir dünyaya aittir; iki seri farklı
 olduğu için burada oran kurulmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Tek tek toplulukların siyasi tarihi, sonrasında kurulan krallıklar ve göçün
 arkeolojik kanıt tabanı burada ayrı başlıklar altında ele alınmamıştır. Dönemin
 bütünü [200–650](/donem/05/) dosyasında ele alınıyor.

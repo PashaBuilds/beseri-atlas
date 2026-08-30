@@ -27,7 +27,6 @@ ilgili:
   - olay-amerikanin-kesfi
   - olay-meksika-fethi
   - kavram-emperyalizm
-  - kavram-anakronizm
   - donem-09
   - tartisma-aydinlanmanin-sinirlari
   - kaynak-guaman-poma-nueva-coronica
@@ -41,6 +40,8 @@ ilgili:
   - tartisma-hacli-seferlerinin-nedeni
   - tartisma-tarihsel-sayilar-nasil-okunur
   - aktor-inka-imparatorlugu
+baglam:
+  - kavram-anakronizm
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:
@@ -301,7 +302,7 @@ listesine bakar.[^k5] Karşılaşma ve değiş tokuş gibi ara adlar bu çerçev
 türedi; sözcüklerin ima ettiği simetrinin, yükü kimin taşıdığı sorusunu
 örtüp örtmediği ise pozisyon tablosundaki itirazın konusudur.[^k5]
 
-Bu çerçevenin izi atlasın kendi kaydında da görülür: olayın dosyası
+Bu çerçevenin izi korpusun kendi kaydında da görülür: olayın dosyası
 [Amerika'ya ulaşım ve Kolomb değişimi](/olay/amerikanin-kesfi/) başlığını
 taşır ve iki yarımküre arasındaki aktarımı gövdesine alır.
 
@@ -403,7 +404,7 @@ yüzyılların ürünüdür.[^k8]
 
 ## Başlık pratiği ve açık kalanlar
 
-Adlandırma sorusu atlasın kendi pratiğine de dokunur. Olayın dosyası bugün
+Adlandırma sorusu korpusun kendi pratiğine de dokunur. Olayın dosyası bugün
 [Amerika'ya ulaşım ve Kolomb değişimi](/olay/amerikanin-kesfi/) başlığını
 taşır; sayfanın adresi ise keşif sözcüğünü korur. Başlık düzeltilebilmiş,
 adres kalmıştır: seçimin izi kaydın üzerinde durmaya devam eder ve bu

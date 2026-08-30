@@ -48,7 +48,7 @@ onarim_turu: 0
 ---
 
 Maurya İmparatorluğu'nun başkenti, bugünkü Patna yakınlarındaki Pataliputra'ydı;
-ilk hükümdarı Çandragupta yaklaşık MÖ 321–298 arasında hüküm sürdü.[^k1] Bu dosya
+ilk hükümdarı Çandragupta yaklaşık MÖ 321–298 arasında hüküm sürdü.[^k1] Bu inceleme
 hanedan tarihinden çok, **imparatorluğun haritada nasıl gösterildiği**
 tartışmasını ele alır.
 
@@ -65,7 +65,7 @@ kavramsallaştırılır ve geniş alanlarda Maurya denetimi ya çevresel düzeyd
 da hiç yoktur.[^k1]
 
 Bu iki gösterim arasındaki fark bir ayrıntı değildir. Birincisi kesintisiz
-egemenlik, ikincisi noktasal denetim anlatır. Atlas bunlardan birini seçmez;
+egemenlik, ikincisi noktasal denetim anlatır. Korpus bunlardan birini seçmez;
 farkın kendisini kaydeder ve makalenin güven düzeyini bu nedenle `tartismali`
 olarak işaretler. Gösterim sorununun kendisi
 [İmparatorluk sınırı haritada nasıl gösterilmeli?](/tartisma/imparatorluk-siniri-nasil-cizilir/)
@@ -101,8 +101,7 @@ kuruluşunda hem çözülüşünde belirleyici sınır olmuştur.
 kullanılan kaynaklarda bulunmadığı için bu değerler içindeki pay burada
 hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Hükümdar yazıtları, dinî himaye düzeni, ordu örgütlenmesi ve yerel yönetim
 biçimi burada ayrı başlıklar altında ele alınmamıştır. Dönemin bütünü
 [MÖ 500–MS 200](/donem/04/) dosyasında ele alınıyor.

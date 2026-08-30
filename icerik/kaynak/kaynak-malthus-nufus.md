@@ -85,28 +85,25 @@ emekçi nüfusu gıda üretiminden hızlı büyüdüğünde gerçek ücretler d�
 geçindirmenin güçlükleri sonunda nüfus artış hızını azaltır ve düşen nüfus
 yeniden daha yüksek gerçek ücretlere yol açar.[^k1]
 
-Atlas bu zinciri bir olgu olarak değil, kaynağın aktardığı bir model olarak
-taşır.[^k1] Kavram
-[Malthus tuzağı](/kavram/malthus-tuzagi/) dosyasında ele alınıyor.[^k2]
+Kavram [Malthus
+tuzağı](/kavram/malthus-tuzagi/) dosyasında ele alınıyor.[^k2][^k1]
 
 ## Modelin sınandığı seri
 
 Nüfus artış hızı serisinde sağlayıcının toplam satırı 1950 için yüzde 1,738,
 2023 için yüzde 0,871 verir.[^k3]
 
-Atlas bu seriyi modelin çürütülmesi olarak sunmaz: model belirli koşullar altında
-bir sonuç öngörür, seri ise yalnızca artış hızını verir.[^k1][^k3] Seri
-[Nüfus artış hızı, 1950–2023](/veri/nufus-artis-hizi/) dosyasında, yazar ise
-[Thomas Malthus](/dusunur/malthus/) dosyasında ele alınıyor.
+Seri [Nüfus artış hızı,
+1950–2023](/veri/nufus-artis-hizi/) dosyasında, yazar ise [Thomas
+Malthus](/dusunur/malthus/) dosyasında ele alınıyor.[^k1][^k3]
 
-## Okuma yönlendirmesi
-
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
+## Okumayı sürdürmek için
+Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
 ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi baskının kullanıldığı her
 aktarımda belirtilmelidir.
 
 ## Metne bağ
 
-Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
+Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
 atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
 çevirinin kullanıldığı her aktarımda belirtilmelidir.

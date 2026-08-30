@@ -12,11 +12,12 @@ eksen: [kulturel, felsefi, siyasi]
 guven_geneli: tartismali
 etiketler: [olay-tarihi, annales, simiand, olayin-geri-donusu, mikro-tarih, tarih-yazimi]
 ilgili:
+  - tartisma-karsi-olgusal-tarih
+baglam:
   - dusunur-braudel
   - kavram-longue-duree
   - kavram-tarih-yazimi
   - kavram-donemlendirme
-  - tartisma-karsi-olgusal-tarih
   - tartisma-fransiz-devrimi-yorumlari
   - tartisma-buyuk-adam-kurami
 okuma_onerisi:

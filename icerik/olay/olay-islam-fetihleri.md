@@ -47,7 +47,7 @@ onarim_turu: 0
 ---
 
 Genişlemenin sonucu doğuda Sind'deki Hint alt kıtasından batıda Pireneler'deki
-İber Yarımadası'na uzanan bir alandır.[^k1] Bu dosya seferlerin anlatısını değil,
+İber Yarımadası'na uzanan bir alandır.[^k1] Bu inceleme seferlerin anlatısını değil,
 **takvimini ve bıraktığı siyasi boşluğu** ele alır.
 
 ## Takvim
@@ -98,8 +98,7 @@ Yani genişleme, bir iç savaşla kesintiye uğramış ama sonrasında devam etm
 Fethin sonraki kurumsal karşılığı olan hilafet düzeni[^k2]
 [Abbasi Hilafeti](/aktor/abbasi-hilafeti/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Fetihlerin dinî ve hukuki çerçevesi, fethedilen bölgelerdeki vergi ve statü
 düzenlemeleri ile ordu bileşimi burada ayrı başlıklar altında ele alınmamıştır.
 Dönemin bütünü [650–1000](/donem/06/) dosyasında ele alınıyor.

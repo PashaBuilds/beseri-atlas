@@ -76,11 +76,11 @@ onarim_turu: 0
 ## Nerede durduğu
 
 Büyük Selçuklu Devleti, Horasan bölgesinden başlayarak İran ve Irak üzerinden batıya
-uzanan bir siyasi düzen kurmuştur.[^k1] Atlasın bölge şemasında Orta Asya ile
+uzanan bir siyasi düzen kurmuştur.[^k1] Korpusun bölge şemasında Orta Asya ile
 İslam dünyasının kesiştiği yerde durur; iki bölge etiketi birden taşımasının
 sebebi budur.
 
-Bu düzenin atlas açısından ayırt edici yanı, yönetim yapısının dönemin
+Bu düzenin korpus açısından ayırt edici yanı, yönetim yapısının dönemin
 içinden yazılmış bir metin üzerinden okunabilmesidir.[^k2][^k3] Bir siyasi
 birimin idari düzeni hakkında, o düzenin kendi veziri tarafından yazılmış bir
 kaynağın bulunması seyrek rastlanan bir durumdur.
@@ -100,8 +100,7 @@ bağladı.[^k1] Fetih, evlilik ve hutbe üçlüsü birlikte kullanılmıştır.
 ## Halifelikle kurulan ilişki
 
 Selçuklu düzeni, Abbasi halifeliğine bağlılığını korurken fiilî siyasi gücü
-elinde tutmuştur.[^k1] Bu yapı, atlasın [Sâmânîler](/aktor/samaniler/)
-dosyasında da kaydedilen katmanlı egemenlik biçiminin daha geniş ölçekli bir
+elinde tutmuştur.[^k1] Bu yapı, [Sâmânîler](/aktor/samaniler/) incelemesinde da kaydedilen katmanlı egemenlik biçiminin daha geniş ölçekli bir
 örneğidir.
 
 Bağlılığın sembolik göstergeleri ile fiilî gücün dağılımı ayrı ayrı
@@ -109,8 +108,8 @@ işler.[^k1] Bir hükümdarın halife tarafından tanınması, halifenin o hük�
 üzerinde denetim kurduğu anlamına gelmez; tanıma, meşruiyetin dolaşım
 biçimidir.
 
-Atlasın [Meşruiyet](/kavram/mesruiyet/) dosyası bu kavramı genel biçimiyle
-ele alır. Bu dosya, kavramın bir dönemdeki somut işleyişini gösterir: iki ayrı
+Korpusun [Meşruiyet](/kavram/mesruiyet/) dosyası bu kavramı genel biçimiyle
+ele alır. Bu inceleme, kavramın bir dönemdeki somut işleyişini gösterir: iki ayrı
 otorite kaynağı aynı anda var olabilir ve biri ötekini geçersiz kılmaz.
 
 ## Halifeyi korumak, meşruiyeti almak
@@ -139,7 +138,7 @@ hanedan birbirine bağlanır. Aynı teknik hilafet karşısında da kullanılmı
 ## Vezirlik ve idari düzen
 
 Dönemin idari düzeninde vezirlik makamı belirleyici bir yer tutar.[^k2] Bu
-makamda uzun süre bulunan [Nizâmülmülk](/dusunur/nizamulmulk/), atlasta ayrı
+makamda uzun süre bulunan [Nizâmülmülk](/dusunur/nizamulmulk/), korpusta ayrı
 bir düşünür dosyası taşır; iki dosyanın birlikte okunması, yönetim pratiği
 ile yönetim düşüncesi arasındaki bağı gösterir.
 
@@ -149,10 +148,10 @@ hangi konulara yer ayırdığı, dönemin gündemi hakkında dolaylı bilgi taş
 
 Görevlilerin denetimi, haber alma düzeni ve saray teşkilatı gibi başlıkların
 metinde ayrı ayrı ele alınması,[^k3] bu konuların yönetimin sorunları arasında
-sayıldığını gösterir. Atlas bu çıkarımı yapar ve daha ötesine gitmez.
+sayıldığını gösterir. Korpus bu çıkarımı yapar ve daha ötesine gitmez.
 
 [Bürokrasi](/kavram/burokrasi/) dosyası, yönetimin kurallara bağlanmasını
-kavram düzeyinde ele alır; bu dosya o kavramın bir dönemdeki karşılığını
+kavram düzeyinde ele alır; bu inceleme o kavramın bir dönemdeki karşılığını
 verir.
 
 ## Medrese düzeni ve bilgi üretimi
@@ -163,12 +162,12 @@ finanse etmesi, bilgi üretiminin siyasi zeminini görünür kılar.
 
 Bu bağın sonuçları tek yönlü okunmamalıdır. Kurumların kurulması bilgi
 üretimini artırabilir; aynı kurumlar, finanse edenin tercihlerini de
-yansıtabilir.[^k2] Atlas ikisini birlikte kaydeder ve aralarında bir
+yansıtabilir.[^k2] Korpus ikisini birlikte kaydeder ve aralarında bir
 öncelik sırası kurmaz.
 
 **Tartışmalı.** Selçuklu döneminin Anadolu'daki uzun vadeli sonuçları, tarih yazımının en
 çekişmeli konularından biridir. Aynı olaylar, farklı ulusal tarih
-anlatılarında farklı başlangıçlar olarak kurgulanır. Atlas bu anlatıların
+anlatılarında farklı başlangıçlar olarak kurgulanır. Korpus bu anlatıların
 hiçbirini benimsemez ve olayların kendisini kaydetmekle yetinir.[^k1]
 
 ## Batı sınırı: akın, sonra savaş
@@ -181,17 +180,17 @@ Selçuklular'a tâbi oldu.[^k1] Sultan Alparslan devrinde Anadolu'ya akınlar da
 Karşı tarafın tepkisi de kaynakta kayıtlıdır: Bizans'ta imparatorluğun başına,
 gittikçe artan Türk akınlarına son vereceğine inanılan kumandanlardan Romanos
 Diogenes getirildi.[^k1] Yani 1071'e giden yol, iki tarafın birbirine
-verdiği tepkilerle örülmüştür; muharebenin kendisi bu dosyanın konusu değildir.
+verdiği tepkilerle örülmüştür; muharebenin kendisi bu incelemenin konusu değildir.
 
 ## Bölünme ve sonraki düzenler
 
-Siyasi düzenin zaman içinde kollara ayrılması, atlasın aktör dosyalarında
+Siyasi düzenin zaman içinde kollara ayrılması, korpusun aktör dosyalarında
 tekrar eden bir sorunu doğurur: bölünen bir birim, tek dosyada mı yoksa ayrı
 dosyalarda mı tutulmalıdır?[^k1]
 
-Bu dosya ana gövdeyi kaydeder ve kolları ayrı ayrı işlemez. Gerekçe, atlasın
+Bu inceleme ana gövdeyi kaydeder ve kolları ayrı ayrı işlemez. Gerekçe, korpusun
 mevcut kapsamının bu ayrıntıyı taşıyacak dosyalara henüz sahip olmamasıdır;
-kollar için ayrı dosyalar açıldığında bu dosya onlara bağlanacaktır.
+kollar için ayrı dosyalar açıldığında bu inceleme onlara bağlanacaktır.
 
 Künyede verilen başlangıç ve bitiş tarihleri, kaynaktaki genel çerçeveyi
 izler.[^k1] Bir siyasi düzenin ne zaman başlayıp ne zaman bittiği, o düzeni
@@ -218,7 +217,7 @@ akınlarının başladığı sınır, bu ölçekte bir devletin doğu kenarıyd�
 
 ## Dönemin içinden bir kaynağa sahip olmak
 
-Bu dosyanın kaynak durumu, atlasın aynı bölge kümesindeki diğer dosyalarıyla
+Bu incelemenin kaynak durumu, korpusun aynı bölge kümesindeki diğer dosyalarıyla
 karşılaştırıldığında ayrı bir yerde durur.[^k1] [Sâmânîler](/aktor/samaniler/)
 dosyası için dönemin içinden doğrulanabilir bir metin bulunamamış ve bu
 eksiklik orada beyan edilmişti.
@@ -231,7 +230,7 @@ aktarımından bağımsız olarak dayandırmayı mümkün kılar.
 Ancak bu avantajın sınırı da açıktır. Bir vezirin yazdığı metin tarafsız bir
 kayıt değildir; yazar hem yönetimin içindedir hem de kendi konumunu
 savunmaktadır.[^k3] Dönemin içinden olmak, tarafsız olmakla aynı şey değildir
-ve atlas bu ikisini karıştırmaz.
+ve korpus bu ikisini karıştırmaz.
 
 Bu ayrımın kaydedilmesi önemlidir çünkü birincil kaynak arayışı kolayca bir
 yanılgıya dönüşebilir: metnin döneme ait olması, metnin doğru olduğunu
@@ -252,10 +251,10 @@ farklı evrelerinde farklı ağırlıklarda görülür.
 
 Vezirin yazdığı metin, görevlilerin denetlenmesine ayrı bir yer
 ayırır.[^k3] Denetim ihtiyacının metinde bu kadar yer tutması, tahsis
-düzeninin kendi denetim sorununu doğurduğunu düşündürür; atlas bu çıkarımı
+düzeninin kendi denetim sorununu doğurduğunu düşündürür; korpus bu çıkarımı
 bir olasılık olarak kaydeder, kanıt olarak değil.
 
-Atlasın toprak düzenlerini ayrı bir kavram dosyasında toplaması, bu tür
+Korpusun toprak düzenlerini ayrı bir kavram dosyasında toplaması, bu tür
 karşılaştırmaları mümkün kılmak içindir. Farklı dönemlerin farklı tahsis
 biçimleri, aynı sorunun farklı cevapları olarak yan yana okunabilir.
 
@@ -272,29 +271,28 @@ yönetimin yazı dili farklı bir tercihi izler.[^k1] İki dosyanın aynı yüzy
 iki farklı tercihi kaydetmesi, dil ile siyasi kimlik arasındaki bağın
 zorunlu olmadığını gösterir.
 
-Atlas bu tür karşılaştırmaları kavram dosyalarına değil, aktör dosyaları
+Korpus bu tür karşılaştırmaları kavram dosyalarına değil, aktör dosyaları
 arasındaki bağlara yükler. Bir kavram dosyası genel tanımı verir; iki somut
 örnek yan yana konduğunda tanımın sınırları görünür.
 
-## Bu dosyanın atlastaki yeri
-
-Bu dosya, [Nizâmülmülk](/dusunur/nizamulmulk/) dosyasında "atlasta
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, [Nizâmülmülk](/dusunur/nizamulmulk/) dosyasında "korpusta
 bulunmuyordu" diye işaretlenen boşluğu kapatır.[^k2] Bir dosyanın kendi
 eksiklerini yazması, sonraki dosyaların ne yazacağını belirleyen bir kayıt
 işlevi görür.
 
-Bu çalışma biçimi, atlasın büyüme yönteminin bir parçasıdır. Her makale,
+Bu çalışma biçimi, korpusun büyüme yönteminin bir parçasıdır. Her makale,
 kapsamadığı şeyleri açıkça yazar; o notlar bir sonraki turun iş listesini
 oluşturur. Kapsam planı böylece soyut bir listeden değil, yazılan metinlerin
 kendi ihtiyaçlarından çıkar.
 
-Aynı yöntemle bu dosya da kendi boşluklarını bırakır: askerî teşkilat, toprak
+Aynı yöntemle bu inceleme de kendi boşluklarını bırakır: askerî teşkilat, toprak
 düzeninin ayrıntıları ve batıya doğru genişlemenin sonuçları burada
 işlenmemiştir.[^k1] Üçü de ayrı dosyalar gerektirir.
 
 Boşlukların dosyada yazılı olmasının bir sakıncası da vardır ve belirtilmelidir:
-bir eksiği kaydetmek, onu kapatmakla aynı şey değildir. Atlasın borç defterleri
-uzun süredir kapatılmayı bekleyen kayıtlar taşıyor; bu dosyanın bıraktığı
+bir eksiği kaydetmek, onu kapatmakla aynı şey değildir. Korpusun borç defterleri
+uzun süredir kapatılmayı bekleyen kayıtlar taşıyor; bu incelemenin bıraktığı
 notlar da o listeye eklenir ve kendiliğinden kapanmaz.[^k1]
 
 ## Korunan kurumun kırılganlığı
@@ -310,29 +308,29 @@ olduğunu gösterir.
 
 ## Kaynak durumu
 
-Bu dosya üç kaynağa dayanır: siyasi düzen üzerine bir madde,[^k1] dönemin
+Bu inceleme üç kaynağa dayanır: siyasi düzen üzerine bir madde,[^k1] dönemin
 veziri üzerine ayrı bir madde,[^k2] ve o vezirin yazdığı metnin
 çevirisi.[^k3] İlk ikisi aynı alan adındadır; bağımsızlık şartı asgari
 düzeyde sağlanır ve bu burada beyan edilir.
 
-Bu dosya hazırlanırken iki ansiklopedi maddesi daha aday olarak sınandı ve
+Bu inceleme hazırlanırken iki ansiklopedi maddesi daha aday olarak sınandı ve
 reddedildi: sorgulanan adresler madde sayfası değil arama sonucu sayfası
 döndürüyordu.[^k1] Arama sayfası, aranan terimi içerdiği için otomatik
 doğrulamadan geçebilir; bu yüzden her aday sayfanın başlığı ayrıca
 denetlenmiştir.
 
-Bu, atlasın kaynak doğrulama yönteminin bilinen bir zayıflığıdır. Bir sayfanın
+Bu, korpusun kaynak doğrulama yönteminin bilinen bir zayıflığıdır. Bir sayfanın
 aranan dizeyi içermesi, o sayfanın aranan içerik olduğunu göstermez; dizinin
 sayfada bulunması ile sayfanın konusu olması ayrı şeylerdir.[^k1] Otomatik
 denetim ilkini ölçer, ikincisini ölçemez.
 
 Dosyanın kapsamadıkları belirtilmelidir. Askerî teşkilat ve toprak düzeni
 ayrıntılı olarak işlenmez; Anadolu'daki gelişmeler ayrı dosyalar
-gerektirir.[^k1] Bu dosya bir başlangıç noktasıdır.
+gerektirir.[^k1] Bu inceleme bir başlangıç noktasıdır.
 
-## Bu dosyanın birleştirilmiş olması
+## Bu incelemenin birleştirilmiş olması
 
-Bu dosya, atlasta bir dönem aynı hanedanı anlatan iki ayrı kayıt bulunduğu
+Bu inceleme, korpusta bir dönem aynı hanedanı anlatan iki ayrı kayıt bulunduğu
 için birleştirilmiştir. Okur, aynı yüzyıllar için farklı tarih aralıkları
 veren iki dosyayla karşılaşıyordu.[^k1]
 
@@ -345,8 +343,7 @@ Künye tarihleri iki kaydın uçları alınarak genişletilmiştir. Genişlik, b
 ölçüm değil bir belirsizlik beyanıdır; hanedanın hangi yılda kurulmuş
 sayılacağı kaynaklar arasında değişir.[^k1]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Dönemin yönetim düşüncesi için [Nizâmülmülk](/dusunur/nizamulmulk/) dosyası
 ve orada bağlanan metin okunmalıdır. Aynı yılların doğusu için
 [Karahanlılar](/aktor/karahanlilar/), merkezî otorite tarafı için
@@ -361,7 +358,7 @@ dosyası okunmalıdır; iki dosya, katmanlı egemenliğin iki farklı ölçektek
 örneğini kaydeder ve birlikte okunduklarında bu biçimin tek bir hanedanın
 istisnası olmadığı görünür.[^k1]
 
-Bu dosyanın kurduğu iddiaların bir bölümü dönemin içinden bir metne
-dayanmaktadır;[^k3] o metnin kendisini okumadan bu dosyadaki çıkarımlar
-sınanamaz. Atlasın kaynak zorunluluğunun amacı da budur: okuru metne
+Bu incelemenin kurduğu iddiaların bir bölümü dönemin içinden bir metne
+dayanmaktadır;[^k3] o metnin kendisini okumadan bu incelemedeki çıkarımlar
+sınanamaz. Korpusun kaynak zorunluluğunun amacı da budur: okuru metne
 göndermek, metnin yerine geçmek değil.

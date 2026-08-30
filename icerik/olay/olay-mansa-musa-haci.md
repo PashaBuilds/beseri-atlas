@@ -46,7 +46,7 @@ onarim_turu: 0
 ---
 
 Musa 1324'te Mekke'ye hacca gitti; yanında çok büyük bir maiyet ve çok miktarda
-altın vardı, yol üstünde Kahire'de bir süre kaldı.[^k1] Bu dosya, yolculuğun
+altın vardı, yol üstünde Kahire'de bir süre kaldı.[^k1] Bu inceleme, yolculuğun
 kendisini değil, **onunla ilgili sayıların statüsünü** ele alır.
 
 ## Kaynak sayılarını kendi geri çeker
@@ -56,7 +56,7 @@ taşıdığının söylendiğini aktarır; hemen ardından bu aralığın, döne
 bir sayımının bulunmadığını yansıttığını ve modern tarihçilerce bir ölçüm değil
 üst sınır niteliğinde edebî bir kalıp sayıldığını yazar.[^k1]
 
-::tartismali[Bir kaynağın verdiği sayıyı aynı cümlede ölçüm olmadığı notuyla birlikte vermesi, tarihsel niceliklerin nasıl okunacağı sorusunun ta kendisidir. Atlas burada bir rakam benimsemez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bir kaynağın verdiği sayıyı aynı cümlede ölçüm olmadığı notuyla birlikte vermesi, tarihsel niceliklerin nasıl okunacağı sorusunun ta kendisidir. Korpus burada bir rakam benimsemez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Sayıların nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -68,7 +68,7 @@ Alayın 12.000'i aşkın köle içerdiği, hepsinin brokar ve Yemen ipeği giydi
 her birinin 1,8 kg altın külçe taşıdığının söylendiği aktarılır; kaynak bu
 cümlenin yanına kendi kaynak gerekli işaretini koyar.[^k1]
 
-Bir ansiklopedinin kendi cümlesini kaynaksız ilan etmesi,[^k1] atlasın her
+Bir ansiklopedinin kendi cümlesini kaynaksız ilan etmesi,[^k1] korpusun her
 paragrafa dipnot şartı koymasının nedenini dışarıdan doğrular: işaretlenmemiş bir
 sayı, işaretlenmiş bir sayıdan farklı bir şeydir.
 
@@ -78,10 +78,9 @@ Kahire'deki cömert hediye dağıtımının Mısır'da altının değerini gözl
 biçimde etkilediğinin söylendiği kaydedilir ve bunun daha geniş İslam dünyasının
 dikkatini çektiği yazılır.[^k1]
 
-Atlas bu cümleyi bir iktisadi olgu olarak değil, kaynağın aktardığı bir rivayet
-olarak taşır.[^k1] Aynı temkin hazırlık safhası için de geçerlidir: Musa'nın
-erken saltanatının çoğunu hac hazırlığıyla geçirmiş olmasının muhtemel sayıldığı
-yazılır.[^k1]
+Aynı temkin hazırlık safhası için de
+geçerlidir: Musa'nın erken saltanatının çoğunu hac hazırlığıyla geçirmiş olmasının
+muhtemel sayıldığı yazılır.[^k1]
 
 ## Tahta çıkışın kendisi de tartışmalıdır
 
@@ -89,7 +88,7 @@ Kaynak, bazı modern tarihçilerin Musa'nın kendi anlatısına şüpheyle bakt�
 selefini tahttan indirmiş olabileceğini öne sürdüklerini kaydeder; yine de böyle
 bir yolculuk ihtimalinin birçok tarihçi tarafından ciddiye alındığını yazar.[^k1]
 
-Aynı kaynağın hem şüpheyi hem ciddiye alınmayı kaydetmesi,[^k1] atlasın hakemlik
+Aynı kaynağın hem şüpheyi hem ciddiye alınmayı kaydetmesi,[^k1] korpusun hakemlik
 etmeme ilkesiyle birebir örtüşür: iki konum da kayıtta durur.
 
 ## Soy zinciri de çekişmelidir
@@ -99,7 +98,7 @@ tarihçinin Musa'yı Ebu Bekir I'in oğlu olarak öneren bir açıklama getirdi�
 aktarır; İbn Battuta'nın Mali'yi Musa'nın kardeşi Süleyman döneminde ziyaret
 ettiği de kaydedilir.[^k1]
 
-Bir hükümdarın soyunun bile çekişmeli olması,[^k1] bu dosyanın genel güven
+Bir hükümdarın soyunun bile çekişmeli olması,[^k1] bu incelemenin genel güven
 düzeyinin neden tartışmalı işaretlendiğinin ikinci gerekçesidir.
 
 ## Çıkış noktasındaki devlet
@@ -115,8 +114,7 @@ Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyondur.[^
 Mali'nin kendi nüfusuna dair bir ölçüm kullanılan kaynak bölümünde bulunmadığı
 için bu değer içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Musa'nın saltanatı, Mali'nin yönetimi, Timbuktu ve mimari burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1] Dönemin
 bütünü [1000-1350](/donem/07/) dosyasında ele alınıyor.

@@ -71,13 +71,12 @@ tarzını anlamaya giderek daha çok yöneldiğini yazar.[^k1]
 Kaynak, bu üretim tarzının kârın acımasız takibiyle sürüklendiğini ve kökeninin
 sömürülen proletaryadan artı değer çıkarılmasında bulunduğunu yazar.[^k1]
 
-Atlas bu özeti bir olgu olarak değil, kaynağın aktardığı bir tez olarak
-taşır.[^k1] Eserin konusu
-[Kapitalizm](/kavram/kapitalizm/) dosyasında ele alınıyor.[^k3]
+Eserin konusu
+[Kapitalizm](/kavram/kapitalizm/) dosyasında ele alınıyor.[^k3][^k1]
 
 ## Uzlaşı yokluğu aynı maddede kayıtlıdır
 
-::tartismali[Kaynak, ahlakın bu eleştirideki tam rolü konusunda yerleşik bir bilimsel uzlaşı bulunmadığını yazıyor. Atlas bu boşluğu bir yorumla doldurmaz.]{harita=tartisma-bati-neden-yukseldi}
+::tartismali[Kaynak, ahlakın bu eleştirideki tam rolü konusunda yerleşik bir bilimsel uzlaşı bulunmadığını yazıyor. Korpus bu boşluğu bir yorumla doldurmaz.]{harita=tartisma-bati-neden-yukseldi}
 
 Kaynak, ahlakın ve ahlaki eleştirinin çağdaş kapitalist topluma yönelik
 eleştirideki tam rolünün çokça tartışıldığını ve bu meselelerde yerleşik bir
@@ -97,18 +96,17 @@ Kaynak, yazarın erken yazılarına yabancılaşma anlayışının hâkim olduğ
 ardından çoğu kez tarihsel materyalizm denen bir tarih kuramı geliştirdiğini
 yazar.[^k1]
 
-Atlasın kuralı şudur: bu yazara atfedilen önermeler, hangi döneme ve hangi esere
+Korpusun kuralı şudur: bu yazara atfedilen önermeler, hangi döneme ve hangi esere
 ait olduğu belirtilerek aktarılır. Yazar
 [Karl Marx](/dusunur/marx/) dosyasında ele alınıyor.
 
-## Okuma yönlendirmesi
-
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
+## Okumayı sürdürmek için
+Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
 ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi cildin, hangi baskının ve
 hangi çevirinin kullanıldığı her aktarımda belirtilmelidir.
 
 ## Metne bağ
 
-Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
+Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
 atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
 çevirinin kullanıldığı her aktarımda belirtilmelidir.

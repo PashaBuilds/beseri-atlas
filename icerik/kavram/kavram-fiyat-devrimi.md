@@ -11,7 +11,8 @@ bolge: [avrupa, amerika]
 eksen: [ekonomik]
 guven_geneli: tartismali
 etiketler: [fiyat-devrimi, enflasyon, gumus, tagsis, nufus-baskisi, nicelik-kurami]
-ilgili:
+ilgili: []
+baglam:
   - kavram-merkantilizm
   - kavram-para
   - kavram-kapitalizm

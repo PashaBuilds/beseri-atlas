@@ -62,8 +62,8 @@ Yugoslavya, Sırbistan Halk Cumhuriyeti'nde, Belgrad'da doğduğunu ve Belgrad
 Kaynak yazarın alanını iktisadi eşitsizlik ve iktisadi büyüme olarak verir;
 Luxembourg Income Study ile ilişkisini de kaydeder.[^k1]
 
-Eşitsizliğin bir uzmanlık alanı olarak kaydedilmesi,[^k1] atlasın şu kuralının
-dayanağıdır: bu dosyada eşitsizlik ölçüleri, hangi araştırma programından
+Eşitsizliğin bir uzmanlık alanı olarak kaydedilmesi,[^k1] korpusun şu kuralının
+dayanağıdır: bu incelemede eşitsizlik ölçüleri, hangi araştırma programından
 geldiği belirtilerek aktarılır.
 
 ## Ödüller de kayıtlıdır
@@ -71,7 +71,7 @@ geldiği belirtilerek aktarılır.
 Kaynak, yazarın 2018'de Hans-Matthöfer-Preis für Wirtschaftspublizistik ile
 Leontief Prize ödüllerini aldığını yazar.[^k1]
 
-Bir araştırmacının ödüllerinin kaydedilmesi,[^k1] atlasın kaynak dosyalarında
+Bir araştırmacının ödüllerinin kaydedilmesi,[^k1] korpusun kaynak dosyalarında
 neden alımlanma bilgisi tuttuğunun dayanağıdır; ödül, iddianın doğruluğunu değil
 alandaki konumunu gösterir.
 
@@ -80,9 +80,8 @@ alandaki konumunu gösterir.
 Uzun dönemli seride dünya nüfusu 1953 için yaklaşık 2,63 milyar, 2020 için
 yaklaşık 7,89 milyardır.[^k2]
 
-Atlas bu seriyi eşitsizlik ölçüsüyle birleştirmez; nüfus toplamı bir dağılım
-ölçüsü değildir.[^k1][^k2] Ölçünün kendisi
-[Gini katsayısı](/kavram/gini-katsayisi/) dosyasında ele alınıyor.
+Ölçünün kendisi [Gini
+katsayısı](/kavram/gini-katsayisi/) dosyasında ele alınıyor.[^k1][^k2]
 
 ## Eşitsizliği yapısal olarak ele alan önceki gelenek
 
@@ -92,8 +91,7 @@ sınıflara bölünmüş toplumların istikrarını açıklamaya çalışan bir 
 [Karl Marx](/dusunur/marx/) dosyasında, küresel ölçekli kurgu ise
 [Dünya sistemi](/kavram/dunya-sistemi/) dosyasında ele alınıyor.
 
-## Okuma yönlendirmesi
-
-Bu dosya yazarın eserlerinin metnine bağlanmaz; kullanılan kaynak yazar
-hakkındaki bir ansiklopedi maddesidir.[^k1] Eserleri teliflidir; atlas
+## Okumayı sürdürmek için
+Bu inceleme yazarın eserlerinin metnine bağlanmaz; kullanılan kaynak yazar
+hakkındaki bir ansiklopedi maddesidir.[^k1] Eserleri teliflidir; korpus
 metinlerinden alıntı yapmaz ve yalnızca hakkında yazılanı aktarır.

@@ -52,7 +52,7 @@ onarim_turu: 0
 ---
 
 Bağımsızlık Bildirisi 4 Temmuz 1776'da İkinci Kıta Kongresi tarafından kabul
-edildi.[^k1] Bu dosya, devletin siyasi tarihini değil **adının ve alanının nasıl
+edildi.[^k1] Bu inceleme, devletin siyasi tarihini değil **adının ve alanının nasıl
 kaydedildiğini** ele alır.
 
 ## Adın bir ilk görülme tarihi vardır
@@ -83,7 +83,7 @@ Alan sırası üçüncü olarak kaydedilir; ölçü 3.796.742 mil kare olarak ve
 yalnızca iç sular dâhil edildiğinde 9.572.900 km² olarak ayrıca yazılır.[^k1]
 
 Aynı ülkenin alanı için hangi suların sayıldığına göre iki farklı değer
-bulunması,[^k1] atlasın alan sayılarını neden tek başına karşılaştırmadığını
+bulunması,[^k1] korpusun alan sayılarını neden tek başına karşılaştırmadığını
 gösterir; ölçüt değişince sayı da değişir.
 
 ## Kurucu kolonilerin seçmeni tanımlıdır
@@ -117,8 +117,7 @@ Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 2020'de yak
 7,89 milyardır.[^k3] Ülkenin kendi nüfusuna dair bir ölçüm kullanılan kaynak
 bölümünde bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Siyasi tarih, iç savaş, dış politika, iktisat ve kültür burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1] Dönemin
 bütünü [1789-1848](/donem/11/) dosyasında ele alınıyor.

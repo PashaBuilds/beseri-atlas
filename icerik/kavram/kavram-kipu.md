@@ -58,8 +58,7 @@ onluk basamak düzenine karşılık geldiği, birbirinden bağımsız örneklerd
 gösterilmiştir.
 
 Tartışmalı olan, sistemin sayı dışında ne kaydettiğidir.[^k1] Bu soru,
-dosyanın merkezindedir ve atlasın
-[Yazı sistemi](/kavram/yazi-sistemi/) dosyasıyla doğrudan kesişir.
+dosyanın merkezindedir ve [Yazı sistemi](/kavram/yazi-sistemi/) incelemesiyle doğrudan kesişir.
 
 ## Sayının çözülmüş olması
 
@@ -71,9 +70,8 @@ Bu, çözümlemenin neden mümkün olduğunu açıklar.[^k2] Sayı sistemleri ke
 içinde denetlenebilir; bir dil kaydı ise ancak dili bilenler ya da iki dilli
 bir metin varsa çözülebilir.
 
-Atlas bu ayrımı kaydeder çünkü çözülmüş ile çözülmemiş kayıt sistemleri
-arasındaki farkın kaynağını gösterir.[^k1] Fark, sistemin karmaşıklığından
-değil denetlenebilirliğinden gelir.
+Fark, sistemin karmaşıklığından değil
+denetlenebilirliğinden gelir.[^k1]
 
 ## Dil kaydı sorusu
 
@@ -85,9 +83,9 @@ kaydeden bir bileşen de taşıyıp taşımadığı tartışmalıdır; dönem ka
 anlatı aktarımından söz eder ama bunun ipten mi yoksa görevlinin
 belleğinden mi geldiği ayrılamaz.]{harita=tartisma-sozlu-gelenek-kaynak-mi}
 
-Atlas iki okumayı da kaydeder.[^k3] Görevlinin ipe bakarak konuşması, ipin
-metni taşıdığı anlamına gelmez; ip bir hatırlatıcı da olabilir ve iki
-işlev dışarıdan ayırt edilemez.
+Görevlinin ipe bakarak konuşması, ipin metni
+taşıdığı anlamına gelmez; ip bir hatırlatıcı da olabilir ve iki işlev dışarıdan ayırt
+edilemez.[^k3]
 
 ## Görevlinin yeri
 
@@ -107,20 +105,19 @@ Sistem, geniş bir alana yayılmış bir imparatorluğun vergi, nüfus, ürün v
 işgücü kayıtlarını tutuyordu.[^k1][^k3] Kayıtlar merkeze taşınıyor ve
 merkezde saklanıyordu.
 
-Bu, atlasın [Bürokrasi](/kavram/burokrasi/) dosyasında tanımlanan yapının
+Bu, [Bürokrasi](/kavram/burokrasi/) incelemesinde tanımlanan yapının
 alfabetik yazı olmadan kurulmuş bir örneğidir.[^k1] Kayıt tutma,
 görevlendirme ve denetim, düğümlü iple yürütülmüştür.
 
-Atlas bu örneği ayrıca kaydeder çünkü yaygın bir varsayımı sınırlar.[^k2]
-Büyük ölçekli yönetimin alfabetik yazıyı gerektirdiği varsayımı, bu örnekle
-çürütülür.
+Büyük ölçekli yönetimin alfabetik
+yazıyı gerektirdiği varsayımı, bu örnekle çürütülür.[^k2]
 
 ## Yok edilmesi
 
 Sömürge yönetimi döneminde kipuların önemli bir bölümü yok edildi.[^k1] Yok
 etme, kayıtların dinî içerik taşıdığı gerekçesiyle yapıldı.
 
-Bu, atlasın kaydettiği bir kayıp biçimidir.[^k3] Bir kayıt sisteminin
+Bu bir kayıp biçimidir.[^k3] Bir kayıt sisteminin
 taşıyıcı nesneleriyle birlikte okuyucu çevresinin de ortadan kalkması,
 kaybı geri döndürülemez kılar.
 
@@ -128,9 +125,8 @@ Bugün elde bulunan örnekler büyük ölçüde mezar ve kuru iklim koşulların
 korunmuş olanlardır.[^k2] Yani eldeki külliyat, kullanımdaki külliyatın
 temsilî bir örneği değil, hayatta kalabilmiş bir kalıntısıdır.
 
-## Atlastaki yeri ve sınırı
-
-Bu dosya, atlasın kavram katmanına yazı olmayan bir kayıt sistemi ekler.[^k1]
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun kavram katmanına yazı olmayan bir kayıt sistemi ekler.[^k1]
 Katmanda yazı sistemi dosyası bulunuyordu; onun karşıtı yoktu.
 
 Dosyanın kapsamadıkları belirtilmelidir.[^k2] Düğüm tiplerinin ayrıntısı,
@@ -155,9 +151,9 @@ Anahtar, görevlilerin usulüydü ve o usul kayda geçmedi.[^k3] Sistem
 öğrenilerek aktarılıyordu; aktarım zinciri kırıldığında anahtar da
 kayboldu.
 
-## Neden bu dosya atlasta
+## Neden bu inceleme korpusta
 
-Bu dosya, atlasın bir varsayımını sınamak için yazıldı.[^k1] Varsayım şudur:
+Bu inceleme, korpusun bir varsayımını sınamak için yazıldı.[^k1] Varsayım şudur:
 bir toplum hakkında ne kadar bilgi edinilebileceği, o toplumun kayıt
 tutup tutmadığına bağlıdır.
 
@@ -169,8 +165,7 @@ Belirleyici olan kayıt tutmak değil, kaydın okunma usulünün de
 aktarılabilir olmasıydı.[^k3] Yazı bu usulü metnin içine gömer; kipu
 gömmez ve bu fark, iki sistemin sonraki kaderini belirledi.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Karşıt kayıt biçimi için [Yazı sistemi](/kavram/yazi-sistemi/), sistemi
 kullanan düzen için [İnka İmparatorluğu](/aktor/inka-imparatorlugu/)
 dosyaları okunmalıdır.[^k1]

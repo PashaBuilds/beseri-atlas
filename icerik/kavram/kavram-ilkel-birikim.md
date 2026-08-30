@@ -14,9 +14,10 @@ ilgili:
   - dusunur-marx
   - dusunur-smith
   - kavram-kapitalizm
-  - kavram-somurgesizlesme
   - kavram-anakronizm
   - kaynak-marx-kapital
+baglam:
+  - kavram-somurgesizlesme
   - kaynak-smith-uluslarin-zenginligi
   - olay-atlantik-kole-ticareti
   - tartisma-somurgeciligin-ekonomik-bilancosu

@@ -1,0 +1,141 @@
+{
+  "surum": 1,
+  "parti_boyutu": 5,
+  "aday_sayisi": 60,
+  "parti_sayisi": 12,
+  "kural": "Her aday tek partide; her makale 10/10 ve ayrı kör hakem olmadan yayımlanamaz.",
+  "partiler": [
+    {
+      "no": 1,
+      "dosya": "plan/uretim-partileri/parti-01.md",
+      "adaylar": [
+        "dusunur-ibn-heysem",
+        "olay-bikini-nukleer-denemeleri",
+        "dusunur-ban-zhao",
+        "aktor-hausa-sehir-devletleri",
+        "aktor-lapita-kulturu"
+      ]
+    },
+    {
+      "no": 2,
+      "dosya": "plan/uretim-partileri/parti-02.md",
+      "adaylar": [
+        "kaynak-budist-vinaya",
+        "olay-potosi-mita",
+        "kaynak-florentine-codex",
+        "kaynak-hammurabi-steli",
+        "olay-justinianus-vebasi"
+      ]
+    },
+    {
+      "no": 3,
+      "dosya": "plan/uretim-partileri/parti-03.md",
+      "adaylar": [
+        "aktor-beytulhikme",
+        "olay-sahel-kurakligi-1968-1985",
+        "aktor-yoruba-ifa-uzmanlari",
+        "aktor-osmanli-loncalari",
+        "aktor-bati-afrika-griotlari"
+      ]
+    },
+    {
+      "no": 4,
+      "dosya": "plan/uretim-partileri/parti-04.md",
+      "adaylar": [
+        "kaynak-magna-carta-1215",
+        "dusunur-mary-wollstonecraft",
+        "aktor-muisca-konfederasyonu",
+        "aktor-nan-madol",
+        "olay-tenochtitlan-cicek-hastaligi"
+      ]
+    },
+    {
+      "no": 5,
+      "dosya": "plan/uretim-partileri/parti-05.md",
+      "adaylar": [
+        "dusunur-tu-youyou",
+        "olay-aral-golunun-kuculmesi",
+        "aktor-vakif-kulliyesi",
+        "olay-hint-sozlesmeli-emek-gocu",
+        "kaynak-maori-whakapapa"
+      ]
+    },
+    {
+      "no": 6,
+      "dosya": "plan/uretim-partileri/parti-06.md",
+      "adaylar": [
+        "olay-haiti-anayasasi-1805",
+        "dusunur-sojourner-truth",
+        "aktor-tiwanaku",
+        "olay-manila-kalyonu-ticareti",
+        "olay-samoa-gribi-1918"
+      ]
+    },
+    {
+      "no": 7,
+      "dosya": "plan/uretim-partileri/parti-07.md",
+      "adaylar": [
+        "olay-cicek-hastaliginin-yok-edilmesi",
+        "olay-minamata-hastaligi",
+        "olay-meksika-yerli-kardeslikleri",
+        "olay-meiji-kadin-tekstil-iscileri",
+        "olay-yasukuni-hafizasi"
+      ]
+    },
+    {
+      "no": 8,
+      "dosya": "plan/uretim-partileri/parti-08.md",
+      "adaylar": [
+        "olay-hindistan-anayasasi-1950",
+        "olay-aba-kadin-savasi-1929",
+        "aktor-mutapa-devleti",
+        "olay-konteynerlesme",
+        "olay-bombay-veba-onlemleri-1896"
+      ]
+    },
+    {
+      "no": 9,
+      "dosya": "plan/uretim-partileri/parti-09.md",
+      "adaylar": [
+        "kavram-akademik-hakemlik",
+        "kavram-cevre-adaleti",
+        "kavram-hac-ekonomisi",
+        "kavram-ev-ici-emek",
+        "kavram-arsiv-sessizligi"
+      ]
+    },
+    {
+      "no": 10,
+      "dosya": "plan/uretim-partileri/parti-10.md",
+      "adaylar": [
+        "kavram-sozlu-hukuk",
+        "olay-yeni-zelanda-kadinlara-oy-hakki-1893",
+        "kavram-sahra-otesi-ticaret",
+        "kavram-muson-seyruseferi",
+        "kavram-epidemiyolojik-gecis"
+      ]
+    },
+    {
+      "no": 11,
+      "dosya": "plan/uretim-partileri/parti-11.md",
+      "adaylar": [
+        "tartisma-bilimsel-devrim-avrupaya-mi-ait",
+        "tartisma-antroposen-ne-zaman-basladi",
+        "tartisma-sekulerlesme-kuresel-mi",
+        "tartisma-ucretli-emek-ozgur-mu",
+        "tartisma-anitlar-kaldirilmali-mi"
+      ]
+    },
+    {
+      "no": 12,
+      "dosya": "plan/uretim-partileri/parti-12.md",
+      "adaylar": [
+        "tartisma-yazili-hukuk-esitlik-getirir-mi",
+        "tartisma-kadin-haklari-evrensel-mi",
+        "tartisma-kentlesme-devleti-gerektirir-mi",
+        "tartisma-kuresellesme-ne-zaman-basladi",
+        "tartisma-salginlar-esitsizlik-uretir-mi"
+      ]
+    }
+  ]
+}

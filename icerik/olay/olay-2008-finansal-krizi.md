@@ -53,7 +53,7 @@ kaldıraç.[^k1]
 ## Sekiz başlık, tek bir olay
 
 ::tartismali[2008 krizinin nedeni, kaynağın kendisinde sekizden fazla ayrı başlık
-altında incelenir; bu dosya bunlardan birini asıl neden ilan
+altında incelenir; bu inceleme bunlardan birini asıl neden ilan
 etmez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu listenin yapısı dikkat çekicidir: içinde hem bir piyasa dinamiği (balon), hem
@@ -61,7 +61,7 @@ bir politika tercihi (kuralsızlaştırma), hem bir davranış biçimi (hileli
 değerlendirme), hem de bir yapısal ölçü (kaldıraç) vardır. Bunlar farklı
 türlerden nedenlerdir ve tek bir açıklama çerçevesine indirgenemezler.
 
-Atlas burada bir neden sıralaması önermez. Kaydettiği şey, kaynağın kendisinin de
+Korpus burada bir neden sıralaması önermez. Kaydettiği şey, kaynağın kendisinin de
 sıralama yapmamış olmasıdır.
 
 ## Ölçülebilir bir an
@@ -103,8 +103,7 @@ Uzun dönemli seride dünya nüfusu 2008'de yaklaşık 6,84 milyardır.[^k3] Kri
 etkilenen nüfusa dair bir ölçüm kullanılan kaynaklarda bulunmadığı için bu değer
 içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Krizin yıl yıl seyri, federal müdahaleler, kurtarma paketleri ve ülke ülke
 sonuçları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
 bölümler olarak işler.[^k1] Dönemin bütünü [1991–2008](/donem/15/) dosyasında ele

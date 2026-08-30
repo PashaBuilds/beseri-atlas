@@ -10,7 +10,8 @@ bolge: [avrupa, amerika, kuresel]
 eksen: [askeri, ekonomik, siyasi]
 guven_geneli: yaygin
 etiketler: [lojistik, tedarik, yem, menzil, demiryolu, soguk-zincir]
-ilgili:
+ilgili: []
+baglam:
   - kavram-askeri-devrim
   - kavram-topyekun-savas
   - olay-kirim-savasi

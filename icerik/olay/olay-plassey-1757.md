@@ -56,7 +56,7 @@ onarim_turu: 0
 yöneticisinin ordusu karşılaştı ve muharebe bir gün içinde sonuçlandı.[^k1][^k3]
 Şirket kazandı ve eyaletin yönetimi fiilen el değiştirdi.
 
-Olayın atlas açısından ayırt edici yanı, kazanan tarafın bir devlet
+Olayın korpus açısından ayırt edici yanı, kazanan tarafın bir devlet
 olmamasıdır.[^k3] Bir ticaret kuruluşu, bir eyaletin vergi gelirini ve
 yönetici atama yetkisini eline geçirdi.
 
@@ -72,9 +72,8 @@ Sonucu belirleyen şey ateş gücü değil, karşı taraf içindeki
 anlaşmaydı.[^k1][^k3] Eyalet ordusunun büyük bir bölümü muharebeye
 girmedi; komutanların bir kısmı önceden şirketle temas kurmuştu.
 
-Atlas bu ayrımı kaydeder çünkü olayın nasıl anlatılacağını doğrudan
-belirler.[^k2] Askerî üstünlükle kazanılmış bir muharebe ile satın alınmış
-bir muharebe farklı şeyler anlatır.
+Askerî üstünlükle kazanılmış bir muharebe ile satın
+alınmış bir muharebe farklı şeyler anlatır.[^k2]
 
 ## İttifakın kurulması
 
@@ -86,9 +85,8 @@ Bu anlaşma, olayın niteliğini belirler.[^k2] Şirket bir yabancı güç olara
 eyaleti işgal etmedi; eyalet içindeki bir taht mücadelesinde taraf oldu ve
 kazanan tarafın ortağı hâline geldi.
 
-Atlas bu yapıyı ayrı bir kategori olarak tutar.[^k1] Dışarıdan gelen bir
-gücün yerel bir çekişmede taraf olması, atlasın başka bölgelerinde de tekrar
-eden bir giriş biçimidir.
+Dışarıdan gelen bir gücün yerel bir çekişmede
+taraf olması, korpusun başka bölgelerinde de tekrar eden bir giriş biçimidir.[^k1]
 
 ## Şirketin niyeti sorusu
 
@@ -98,12 +96,12 @@ aynı belgelerden çıkarılabilir.
 
 ::tartismali[Şirketin bölgede siyasi otorite kurmayı önceden hedefleyip
 hedeflemediği tartışmalıdır; bir okuma planlı bir genişleme, öteki okuma
-ticari kaygıların sürüklediği bir sonuç görür. Atlas bir okumayı
+ticari kaygıların sürüklediği bir sonuç görür. Korpus bir okumayı
 benimsemez.]{harita=tartisma-somurgeciligin-ekonomik-bilancosu}
 
-Atlas iki okumayı da kaydeder ve niyet sorusunu açık bırakır.[^k1] Niyetin
-belgelenmesi, sonradan yazılmış gerekçelendirmelerden ayrıştırılmayı
-gerektirir ve bu ayrıştırma bu dosyanın kapsamı dışındadır.
+Niyetin belgelenmesi, sonradan yazılmış
+gerekçelendirmelerden ayrıştırılmayı gerektirir ve bu ayrıştırma bu incelemenin kapsamı
+dışındadır.[^k1]
 
 ## Vergi yetkisinin devri
 
@@ -115,9 +113,8 @@ Vergi yetkisi, bir ticaret kuruluşunu bir yönetim aygıtına çevirir.[^k2]
 Vergi toplamak kayıt tutmayı, kayıt tutmak görevli istihdam etmeyi, görevli
 istihdam etmek de bir hukuk düzeni kurmayı gerektirir.
 
-Atlasın [Bürokrasi](/kavram/burokrasi/) dosyası bu zinciri kavram düzeyinde
-tanımlar.[^k1] Burada somut hâli, bir şirketin kendi istemediği hâlde bir
-devlet aygıtı kurmak zorunda kalmasıdır.
+Burada somut hâli, bir şirketin
+kendi istemediği hâlde bir devlet aygıtı kurmak zorunda kalmasıdır.[^k1]
 
 ## Ticaret ile vergi arasındaki fark
 
@@ -129,15 +126,13 @@ Fark, şirketin davranışını da değiştirdi.[^k1] Bir tüccar, müşterisini
 başka bir satıcıya gitmesini engelleyemez; bir vergi toplayıcı, mükellefinin
 başka bir yönetime geçmesini engelleyebilir.
 
-Atlas bu geçişi kaydeder çünkü atlasın
-[Silahlı ticaret](/kavram/silahli-ticaret/) dosyasında tanımlanan düzeneğin
-son aşamasıdır.[^k3] Ticaret geliri askerî güce, askerî güç ticaret
-ayrıcalığına, ayrıcalık da nihayet vergi yetkisine dönüşür.
+Ticaret geliri askerî güce, askerî güç
+ticaret ayrıcalığına, ayrıcalık da nihayet vergi yetkisine dönüşür.[^k3]
 
 ## Bengal'in seçilmesi tesadüf değil
 
 Eyaletin bölgedeki en yüksek gelirli birim olması, olayın oradaki
-gerçekleşmesini açıklar.[^k2] Atlasın
+gerçekleşmesini açıklar.[^k2] Korpusun
 [Bengal Sultanlığı](/aktor/bengal-sultanligi/) dosyası bu gelir tabanını
 anlatır: delta toprağı, yüksek tarım verimi ve dokuma üretimi.
 
@@ -145,9 +140,8 @@ Bir şirketin en yüksek gelirli eyalette siyasi otorite kurması, sonraki
 genişlemenin de finansmanını sağladı.[^k1] Elde edilen gelir, yeni askerî
 harcamaya ve yeni bölgelerin denetimine yatırıldı.
 
-Atlas bu döngüyü kaydeder ve bir zorunluluk olarak sunmaz.[^k3] Aynı gelirin
-başka amaçlara da yönlendirilebileceği, karşı bir kanıt bulunmadığı sürece
-açık bir ihtimaldir.
+Aynı gelirin başka amaçlara da
+yönlendirilebileceği, karşı bir kanıt bulunmadığı sürece açık bir ihtimaldir.[^k3]
 
 ## Merkezî otoritenin durumu
 
@@ -159,8 +153,7 @@ Bu boşluk, olayın koşulunu oluşturur.[^k2] Merkezî otorite işler durumda
 olsaydı, bir eyalet yönetiminin bir şirketle anlaşması aynı sonucu
 vermezdi.
 
-Aynı yapı atlasın [Bağdat kuşatması](/olay/bagdat-kusatmasi-1258/)
-dosyasında da kaydedilmiştir.[^k1] Bir kurumun adının sürmesi ile fiilî
+Aynı yapı [Bağdat kuşatması](/olay/bagdat-kusatmasi-1258/) incelemesinde da kaydedilmiştir.[^k1] Bir kurumun adının sürmesi ile fiilî
 gücünün sürmesi ayrı şeylerdir ve fark, ancak sınandığında görünür.
 
 ## Sayıların durumu
@@ -172,9 +165,8 @@ Bu kayıtların yönü bellidir.[^k3] Az sayıda kuvvetle büyük bir orduyu
 yenmek, kaydı tutanın başarısını büyüttüğü için karşı tarafın mevcudu yüksek
 gösterilmeye eğilimlidir.
 
-Atlas bu yüzden bu dosyada sayı vermez.[^k1] Muharebenin sonucunu belirleyen
-şeyin sayı değil önceden yapılmış anlaşma olduğu, iki kaynakta da
-kaydedilmiştir.
+Muharebenin sonucunu belirleyen
+şeyin sayı değil önceden yapılmış anlaşma olduğu, iki kaynakta da kaydedilmiştir.[^k1]
 
 ## Sonraki yüzyıla etkisi
 
@@ -186,39 +178,35 @@ Bu çerçeveleme dikkatle değerlendirilmelidir.[^k2] Bir olayı bir dönemin
 başlangıcı saymak, sonrasında olan her şeyi o olayın sonucu gibi göstermeye
 yol açar ve ara halkaları görünmez kılar.
 
-Atlas olayı bir başlangıç değil bir eşik olarak kaydeder.[^k1] Eşik, önceki
-eğilimlerin sürdüğünü ve sonrasında hızlandığını söyler; tek başına
-sebep olduğunu söylemez.
+Eşik, önceki eğilimlerin sürdüğünü ve sonrasında
+hızlandığını söyler; tek başına sebep olduğunu söylemez.[^k1]
 
 ## Bölgedeki üretime etkisi
 
-Şirket yönetiminin bölgedeki dokuma üretimi üzerindeki etkisi, atlasın
-[Sömürgeciliğin ekonomik bilançosu](/tartisma/somurgeciligin-ekonomik-bilancosu/)
-dosyasında tartışılır.[^k2] Burada yalnızca tartışmanın varlığı kaydedilir.
+Şirket yönetiminin bölgedeki dokuma üretimi üzerindeki etkisi, [Sömürgeciliğin ekonomik bilançosu](/tartisma/somurgeciligin-ekonomik-bilancosu/) incelemesinde tartışılır.[^k2] Burada yalnızca tartışmanın varlığı kaydedilir.
 
 Bir konum, vergi yükünün ve ticaret düzenlemelerinin yerel üretimi
 zayıflattığını ileri sürer.[^k2] Öteki konum, gerilemenin daha geniş
 teknolojik ve ticari değişimlerden geldiğini savunur.
 
-Atlas iki konumu da kaydeder ve bir sıralama yapmaz.[^k1] İkisi de aynı
-verilerden çıkarılabilir ve tartışma dosyası bu işi ayrıca yapar.
+İkisi de aynı verilerden çıkarılabilir ve tartışma
+dosyası bu işi ayrıca yapar.[^k1]
 
 ## Kaynak durumu
 
-Bu dosya üç kaynağa dayanır ve **hiçbiri birincil değildir.**[^k1][^k2][^k3]
-Bu, atlasın olay dosyalarında istenmeyen bir durumdur ve burada beyan
+Bu inceleme üç kaynağa dayanır ve **hiçbiri birincil değildir.**[^k1][^k2][^k3]
+Bu, korpusun olay dosyalarında istenmeyen bir durumdur ve burada beyan
 edilir.
 
 Olayın çağdaş kayıtları hem şirket hem eyalet tarafından
 bulunmaktadır.[^k3] Şirket kayıtlarının önemli bir bölümü arşivlerde ve
 telifsiz durumdadır; doğrulanabilir, katalog künyesiyle teyit edilmiş tam
-metin bir baskısı bu dosya yazıldığında künyeye alınamamıştır.
+metin bir baskısı bu inceleme yazıldığında künyeye alınamamıştır.
 
 Okur bu sınırı bilerek okumalıdır.[^k2] Buradaki bilgilerin tamamı,
 ansiklopedi maddelerinin aktarımıdır ve o maddelerin seçimlerini taşır.
 
-## Bu dosyanın kapsamadıkları
-
+## Açıkta kalan sorular
 Muharebenin askerî ayrıntıları, birlik düzeni ve komuta kararları burada
 işlenmez.[^k3] Ayrı bir dosya gerektirir.
 
@@ -226,18 +214,17 @@ işlenmez.[^k3] Ayrı bir dosya gerektirir.
 [İngiliz Doğu Hindistan Şirketi](/aktor/ingiliz-doguhindistan-sirketi/)
 dosyası okunmalıdır.
 
-Sonraki yüzyıldaki yönetim düzeni ve ayaklanma burada verilmez.[^k2] Atlasın
+Sonraki yüzyıldaki yönetim düzeni ve ayaklanma burada verilmez.[^k2] Korpusun
 [1857 Hint Ayaklanması](/olay/1857-hint-ayaklanmasi/) dosyası o dönemi ele
 alır.
 
-## Atlastaki yeri
-
-Bu dosya, atlasın olay katmanına bir ticari kuruluşun siyasi otoriteye
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun olay katmanına bir ticari kuruluşun siyasi otoriteye
 dönüşmesini ekler.[^k3] Olay dosyalarının çoğu devletler arası bir
 karşılaşmayı kaydeder; burada taraflardan biri devlet değildir.
 
-Bu ayrım, atlasın aktör kavramını sınayan örneklerden biridir.[^k1] Atlasın
-aktör katmanında şirket dosyaları zaten bulunuyordu; bu dosya, bir şirketin
+Bu ayrım, korpusun aktör kavramını sınayan örneklerden biridir.[^k1] Korpusun
+aktör katmanında şirket dosyaları zaten bulunuyordu; bu inceleme, bir şirketin
 ne zaman aktör hâline geldiğini gösterir.
 
 Gösterdiği eşik ölçülebilir.[^k2] Bir kuruluşun vergi toplama yetkisini
@@ -254,9 +241,8 @@ Böyle bir ayrıntının belirleyici sayılması dikkatle değerlendirilmelidir.
 Hava koşullarına dayanan açıklamalar, sonucu açıklamakta kolaylık sağlar ve
 aynı kolaylıkla yapısal sebepleri gölgede bırakır.
 
-Atlas ayrıntıyı kaydeder, ona sonucu yüklemez.[^k2] Barutun korunması bir
-hazırlık meselesidir ve hazırlığın kendisi hava koşulu değil örgütlenme
-farkıdır.
+Barutun korunması bir hazırlık
+meselesidir ve hazırlığın kendisi hava koşulu değil örgütlenme farkıdır.[^k2]
 
 ## Ödemelerin kaydı
 
@@ -264,13 +250,13 @@ Muharebeden sonra şirket ile yeni yönetim arasında yapılan ödemeler
 kayıtlıdır ve miktarları belgelenmiştir.[^k3] Ödemeler hem kuruma hem tek
 tek kişilere yapılmıştır.
 
-Bu ikinci kalem atlasın ayrıca kaydettiği bir olgudur.[^k1] Bir kurumun
+Bu ikinci kalem korpusun ayrıca kaydettiği bir olgudur.[^k1] Bir kurumun
 kazancı ile o kurumda görevli kişilerin kazancı ayrı şeylerdir ve ikisinin
 ayrılmadığı bir düzende, kurumsal çıkar ile kişisel çıkar birbirinden
 ayrıştırılamaz.
 
 Bu ayrıştırılamazlık, sonraki on yıllarda şirketin kendi merkezinde de
-tartışma konusu oldu.[^k2] Atlas tartışmanın varlığını kaydeder; sonucunu
+tartışma konusu oldu.[^k2] Korpus tartışmanın varlığını kaydeder; sonucunu
 ayrı bir dosyaya bırakır.
 
 ## Yerel finansörlerin konumu
@@ -283,12 +269,11 @@ Konumları, olayı yalnızca yabancı bir güç ile yerel bir yönetim arasında
 karşılaşma olarak okumayı zorlaştırır.[^k2] Yerel sermaye, kendi hesabına
 taraf seçmiştir.
 
-Atlas bu unsuru kaydeder çünkü sömürge girişlerinin yaygın anlatısını
-sınırlar.[^k1] Dışarıdan gelen bir gücün yerleşmesi, çoğu zaman yerel
-ortakların katılımıyla mümkün olur ve bu ortaklık ayrıca incelenmelidir.
+Dışarıdan gelen bir gücün
+yerleşmesi, çoğu zaman yerel ortakların katılımıyla mümkün olur ve bu ortaklık ayrıca
+incelenmelidir.[^k1]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Kazanan tarafın kurumsal yapısı için
 [İngiliz Doğu Hindistan Şirketi](/aktor/ingiliz-doguhindistan-sirketi/),
 eyaletin önceki düzeni için [Bengal Sultanlığı](/aktor/bengal-sultanligi/)

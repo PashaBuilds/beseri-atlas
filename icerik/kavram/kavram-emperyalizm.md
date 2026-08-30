@@ -71,7 +71,7 @@ yayılmacılık, şarkiyatçılık ve hayalî coğrafya, haritacılık, kültür
 dinî emperyalizm, psikolojik emperyalizm, toplumsal emperyalizm, toplumsal
 Darwincilik ve çevresel belirlenimcilik.[^k1]
 
-Haritacılığın bir gerekçelendirme başlığı olarak sayılması,[^k1] atlasın harita
+Haritacılığın bir gerekçelendirme başlığı olarak sayılması,[^k1] korpusun harita
 gösterimini neden ayrı bir tartışma dosyası olarak tuttuğunun dayanağıdır; o
 tartışma
 [İmparatorluk sınırı haritada nasıl gösterilmeli?](/tartisma/imparatorluk-siniri-nasil-cizilir/)
@@ -80,7 +80,7 @@ haritasında ele alınıyor.
 ## Kavram ile sömürgecilik ayrı ayrı tutulur
 
 Sömürgeciliğin emperyalizmin altında bir alt başlık olarak kaydedilmesi,[^k1]
-iki terimin eşanlamlı sayılmadığını gösterir; atlas bu ayrımı korur.
+iki terimin eşanlamlı sayılmadığını gösterir; korpus bu ayrımı korur.
 
 ## Kuramlar bölümü ayrıdır
 
@@ -100,7 +100,7 @@ alınıyor.
 
 ## Kavramın sınırı
 
-Kavram her genişlemeyi kapsamaz.[^k1] Atlas üç ölçüt
+Kavram her genişlemeyi kapsamaz.[^k1] Korpus üç ölçüt
 uygular.
 
 Birincisi, kararın nerede alındığıdır.[^k2] İkincisi, gelirin nereye
@@ -118,9 +118,8 @@ yönetim içerir.
 Emperyalizm daha geniştir.[^k2] Yerleşim olmadan da, doğrudan yönetim
 olmadan da kurulabilir.
 
-Atlas bu farkı ayrıca kaydeder.[^k3] Bir gelirin denetimi, bir toprağın
-işgali olmadan da bağımlılık
-üretebilir.
+Bir gelirin denetimi, bir toprağın işgali olmadan da
+bağımlılık üretebilir.[^k3]
 
 ## Biçimsel olmayan biçimler
 
@@ -128,12 +127,11 @@ Kavramın en zor ölçülen biçimi budur.[^k1] Borç, ticaret anlaşması ve
 askerî üs yoluyla kurulan bağımlılık, hukuken egemen bir devlette de
 görülür.
 
-Bu biçim atlasın birçok dosyasında kayıtlıdır.[^k2] Gümrük denetimi ve
+Bu biçim korpusun birçok dosyasında kayıtlıdır.[^k2] Gümrük denetimi ve
 yaptırım araçları bunlar arasındadır.
 
-Atlas bu biçimi ayrıca kaydeder.[^k3] Egemenliğin biçimsel olarak
-korunması, fiilî bağımlılığın bulunmadığını
-göstermez.
+Egemenliğin biçimsel olarak korunması, fiilî
+bağımlılığın bulunmadığını göstermez.[^k3]
 
 ## Kavramın kullanımı
 
@@ -144,9 +142,8 @@ yaygınlaştı.[^k2] Kullananların çoğu, tanımladıkları düzene karşı
 Bu, terimi geçersiz kılmaz.[^k1] Ancak tanımın kimin elinde
 şekillendiğini gösterir.
 
-Atlas bu kaydı ayrıca düşer.[^k3] Bir kavramın eleştirel amaçla
-kurulmuş olması, çözümleyici değerini ortadan
-kaldırmaz.
+Bir kavramın eleştirel amaçla kurulmuş
+olması, çözümleyici değerini ortadan kaldırmaz.[^k3]
 
 
 ## Ölçülebilir izler
@@ -159,9 +156,8 @@ Bir bölgenin ihracatının tek bir ülkeye yönelmesi bir
 göstergedir.[^k2] Getirinin nereye döndüğü bir
 başkasıdır.
 
-Atlas bu göstergeleri ayrı ayrı kaydeder.[^k3] Bir bağımlılık iddiası,
-en az iki bağımsız göstergeyle
-desteklenmelidir.
+Bir bağımlılık iddiası, en az iki
+bağımsız göstergeyle desteklenmelidir.[^k3]
 
 ## Merkez ve çevre
 
@@ -173,9 +169,8 @@ Bu şema kullanışlıdır ve eksiktir.[^k1] Ara konumdaki bölgeleri ve
 zamanla yer değiştirenleri
 açıklamaz.
 
-Atlas şemayı ihtiyatla kullanır.[^k3] İkili bir model, gerçek
-dağılımın ancak uçlarını
-gösterir.
+İkili bir model, gerçek dağılımın
+ancak uçlarını gösterir.[^k3]
 
 ## Sona ermesi
 
@@ -183,20 +178,18 @@ Biçimsel emperyalizm yirminci yüzyılda büyük ölçüde sona
 erdi.[^k2] Biçimsel olmayan biçimlerin sona erip ermediği
 tartışmalıdır.
 
-Atlas bu tartışmayı karara bağlamaz.[^k1] Kaydettiği şey, ölçütlerin
-her dönem için ayrı ayrı uygulanması
-gerektiğidir.
+Kaydettiği şey, ölçütlerin her dönem
+için ayrı ayrı uygulanması gerektiğidir.[^k1]
 
 Ölçütler sabittir, sonuç dönemden döneme değişir.[^k3] Bir kavramın
 yararı, farklı dönemlere aynı soruyu sorabilmesinden
 gelir.
 
 
-## Atlasın kullanım kuralı
+## Korpusun kullanım kuralı
 
-Atlas kavramı her dosyada aynı üç soruyla
-uygular.[^k1] Karar nerede alındı, gelir nereye aktı, yönetilenler
-karara katıldı mı.
+Karar nerede alındı, gelir nereye aktı,
+yönetilenler karara katıldı mı.[^k1]
 
 Üç sorunun cevabı dosyada açıkça
 yazılır.[^k2] Etiket yapıştırmak yerine ölçüt
@@ -210,16 +203,15 @@ yazıldığında kullanılabilir.
 ## Kavramın öncülleri
 
 Terim yirminci yüzyılda yaygınlaştı ama tanımladığı ilişki çok daha
-eskidir.[^k1] Atlasın erken dönem dosyalarında da aynı üç ölçüt
+eskidir.[^k1] Korpusun erken dönem dosyalarında da aynı üç ölçüt
 uygulanabilir.
 
 Bu, kavramın geriye taşınabilir olduğunu
 göstermez.[^k2] Ölçütler geriye taşınabilir; terimin kendisi o
 dönemlerin diline ait değildir.
 
-Atlas bu ayrımı korur.[^k3] Bir ölçütü geçmişe uygulamak ile bir
-terimi geçmişe yüklemek ayrı iki
-işlemdir.
+Bir ölçütü geçmişe uygulamak ile bir terimi geçmişe
+yüklemek ayrı iki işlemdir.[^k3]
 
 
 ## Karşı tarafın kaydı
@@ -231,11 +223,9 @@ Yöneten tarafın kaydı düzenli ve arşivlidir.[^k2] Yönetilen tarafın
 kaydı çoğu zaman sözlü ya da
 dağınıktır.
 
-Atlas bu dengesizliği her dosyada beyan eder.[^k3] Bir ilişkinin iki
-tarafından yalnızca birinin kaydı varsa, o ilişkinin anlatısı da tek
-taraflıdır.
+Bir ilişkinin iki tarafından yalnızca
+birinin kaydı varsa, o ilişkinin anlatısı da tek taraflıdır.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Emperyalizm çağı, ülke ülke tarihler ve kuramların içeriği burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]

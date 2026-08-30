@@ -1,7 +1,7 @@
 {
   "id": "olay-truman-doktrini",
-  "govde_hash": "66ccf94dd13f",
-  "commit": "bf4bb9c",
+  "govde_hash": "c79f573cd71e",
+  "commit": "4373ec95",
   "zaman": "2026-08-30",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -449,5 +449,13 @@
     "kismi": 1,
     "desteksiz": 0,
     "olculemez": 0
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "66ccf94dd13f",
+      "yeni_hash": "c79f573cd71e",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    }
+  ]
 }

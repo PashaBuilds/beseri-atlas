@@ -66,8 +66,8 @@ sayılır.[^k1]
 
 ## Kavram bir liste olarak tanımlanmıştır
 
-Bir siyasi biçimin tanımının örnek listesiyle verilmesi,[^k1] atlasın şu
-kuralının dayanağıdır: bu dosyada bozkır imparatorluğu, bir tanım değil bir
+Bir siyasi biçimin tanımının örnek listesiyle verilmesi,[^k1] korpusun şu
+kuralının dayanağıdır: bu incelemede bozkır imparatorluğu, bir tanım değil bir
 örnekler kümesi olarak anılır.
 
 ## Örneklerden biri ayrıntılı kayıtlıdır
@@ -88,13 +88,12 @@ anıldığını yazar; aynı madde onun Pers tebaası olarak doğduğunu da
 kaydeder.[^k3]
 
 Bozkır düzenlerine dair bilginin büyük ölçüde dışarıdan yazılmış kayıtlara
-dayanması,[^k1][^k3] atlasın şu kuralının dayanağıdır: bu dosyada göçebe siyasi
+dayanması,[^k1][^k3] korpusun şu kuralının dayanağıdır: bu incelemede göçebe siyasi
 birimler, onları anlatan kaydın kimin olduğu belirtilerek anılır. O yazar
 [Herodotos](/dusunur/herodotos/) dosyasında, ilgili ticaret ağı ise
 [İpek Yolu'nun kuruluşu](/olay/ipek-yolu-kurulusu/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kavramın arka planı, örneklerin tarihleri ve göçebe düzenlerin iç yapısı burada
 ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

@@ -19,9 +19,10 @@ ilgili:
   - olay-cheng-ho-seferleri
   - aktor-qing-hanedani
   - aktor-hansa-birligi
-  - olay-sanayi-devrimi
   - kavram-para
   - dusunur-zhu-xi
+baglam:
+  - olay-sanayi-devrimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -49,7 +50,7 @@ onarim_turu: 0
 ---
 
 Song ekonomisi, yılda 100.000.000 kilogramdan fazla demir ürünü üretecek kadar
-istikrarlıydı.[^k1] Bu dosya, o üretimin **hangi koşullarda** sürdürüldüğünü ele
+istikrarlıydı.[^k1] Bu inceleme, o üretimin **hangi koşullarda** sürdürüldüğünü ele
 alır — çünkü aynı yüzyıllarda hanedan topraklarının yarısını kaybetmiştir.
 
 ## Toprak kaybı ve zenginleşme aynı anda
@@ -70,11 +71,11 @@ gitmediği, bu örnekte açıkça görülür.
 ormansızlaşma, yüksek fırınlarda odun kömürü yerine taş kömürü kullanımının 11.
 yüzyıldaki yeniliği olmasa sürecekti.[^k1]
 
-Kaynağın bu yeniliği 11. yüzyıla yerleştirmesi[^k1] atlas için önemli bir
+Kaynağın bu yeniliği 11. yüzyıla yerleştirmesi[^k1] korpus için önemli bir
 kayıttır: bir enerji geçişi, Avrupa'daki sanayileşmeden çok önce ve başka bir
 kıtada gerçekleşmiştir. Aynı geçişin neden bir sanayileşmeye dönüşmediği sorusu
 [Batı neden yükseldi?](/tartisma/bati-neden-yukseldi/) haritasında ele alınıyor;
-bu dosya o soruya cevap vermez.
+bu inceleme o soruya cevap vermez.
 
 ## Mülkiyet biçimi
 
@@ -83,7 +84,7 @@ tesislerine sahip özel girişimciler hem de devlet gözetimindeki izabe tesisle
 tarafından yürütülüyordu.[^k1]
 
 Karma mülkiyet, dönemin ekonomik düzeni hakkında tek bir etiket kullanmayı
-zorlaştırır. Atlas burada bir sınıflandırma önermez; kaynağın verdiği ikili yapıyı
+zorlaştırır. Korpus burada bir sınıflandırma önermez; kaynağın verdiği ikili yapıyı
 aktarır.
 
 ## Selefiyle karşılaştırma
@@ -99,8 +100,7 @@ selefi [Tang hanedanı](/aktor/tang-hanedani/) dosyasında ele alınıyor.
 olarak verilir.[^k3] Song nüfusuna dair bir ölçüm kullanılan kaynaklarda
 bulunmadığı için bu toplam içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dönemin matbaası, deniz teknolojisi, matematiği ve kartografyası ile felsefi
 akımları burada ayrı başlıklar altında ele alınmamıştır. Dönemin bütünü
 [1000–1350](/donem/07/) dosyasında ele alınıyor.

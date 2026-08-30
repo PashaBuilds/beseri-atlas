@@ -49,17 +49,16 @@ denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-## Neden atlasın konusu
+## Neden korpusun konusu
 
-Akrabalık düzeni, atlas için bir aile konusu değildir.[^k1] Toprağın,
+Akrabalık düzeni, korpus için bir aile konusu değildir.[^k1] Toprağın,
 yetkinin ve ittifakın nasıl aktarıldığı konusudur.
 
 Bu üçü çoğu düzende akrabalık yoluyla aktarılır.[^k2] Kimin kimin
 akrabası sayıldığı, kimin neye hak sahibi olduğunu belirler.
 
-Atlas bu bağı kavramın merkezine koyar.[^k3] **Bir düzende akrabalığın
-hangi yoldan sayıldığı, toprağın kaç kuşakta parçalanacağını da
-belirler.**
+**Bir düzende akrabalığın hangi yoldan
+sayıldığı, toprağın kaç kuşakta parçalanacağını da belirler.**[^k3]
 
 ## Soyun sayıldığı yön
 
@@ -69,9 +68,8 @@ yoluyla ya da her ikisiyle.
 Seçim, kimin hangi gruba ait sayıldığını belirler.[^k2] Aynı çocuk,
 farklı düzenlerde farklı gruplara yazılır.
 
-Atlas bu ayrımı her dosyada uygular.[^k3] Bir toplumun "kabile" ya da
-"soy" birimlerinden söz edilirken, birimin hangi yoldan tanımlandığı
-belirtilmelidir.
+Bir toplumun "kabile" ya da "soy" birimlerinden söz
+edilirken, birimin hangi yoldan tanımlandığı belirtilmelidir.[^k3]
 
 ## Evlilik nereye yapılır
 
@@ -81,8 +79,8 @@ Grup içi evlilik sınırı korur; grup dışı evlilik bağ kurar.
 İkisi farklı işlev görür.[^k1] Biri mülkü ve statüyü grupta tutar,
 diğeri gruplar arasında ittifak üretir.
 
-Atlas bu işlevi ayrıca kaydeder.[^k2] Bir evlilik siyaseti, çoğu zaman
-bir dış siyasettir.
+Bir evlilik siyaseti, çoğu zaman bir dış
+siyasettir.[^k2]
 
 ## Yerleşim kuralı
 
@@ -92,8 +90,8 @@ ailesinin yanına, kadının ailesinin yanına ya da ayrı bir haneye.
 Kural, gündelik gücü belirler.[^k1] Kendi akrabalarının yanında
 yaşayan taraf, anlaşmazlıkta daha fazla destek bulur.
 
-Atlas bu ayrıntıyı önemsiz saymaz.[^k3] Hukuki hakların eşit olduğu bir
-düzende bile, yerleşim kuralı fiilî konumu değiştirir.
+Hukuki hakların eşit olduğu bir
+düzende bile, yerleşim kuralı fiilî konumu değiştirir.[^k3]
 
 ## Toprağın parçalanması
 
@@ -103,9 +101,8 @@ eşit dağıtan bir kural, toprağı her kuşakta böler.
 Tek bir çocuğa aktaran kural toprağı bütün tutar.[^k1] Karşılığında
 kalan çocuklara başka bir yol bulunması gerekir.
 
-Atlas bu ikilemi ölçülebilir sayar.[^k3] Diğer çocukların nereye
-gittiği — orduya, ruhban sınıfına, kente ya da göçe — düzenin başka
-kurumlarını da açıklar.
+Diğer çocukların nereye gittiği —
+orduya, ruhban sınıfına, kente ya da göçe — düzenin başka kurumlarını da açıklar.[^k3]
 
 ## Kolektif mülkiyet
 
@@ -116,8 +113,8 @@ Bu düzen, dışarıdan gelen bir mülkiyet anlayışıyla karşılaştığında
 çatışır.[^k2] Satın alan taraf mülk edindiğini, satan taraf kullanım
 hakkı devrettiğini düşünebilir.
 
-Atlas bu çatışmayı tekrar eden bir ölçüm sayar.[^k3] Aynı işlem, iki
-kayıtta iki farklı olay olarak yer alır.
+Aynı işlem, iki kayıtta iki farklı
+olay olarak yer alır.[^k3]
 
 ## Kurgusal akrabalık
 
@@ -128,8 +125,8 @@ kardeşliği, ant kardeşliği ve şakalaşma ilişkileri de akrabalık
 Bu bağlar hukuki sonuç doğurur.[^k3] Evlenme yasağı, miras hakkı ve
 kan davası yükümlülüğü bunlar arasındadır.
 
-Atlas bu biçimleri ayrıca kaydeder.[^k1] Kurgusal bir bağ, gerçek bir
-yükümlülük üretiyorsa, atlas için gerçek bir bağdır.
+Kurgusal bir bağ, gerçek bir yükümlülük
+üretiyorsa, korpus için gerçek bir bağdır.[^k1]
 
 ## Siyasi ölçeğe etkisi
 
@@ -140,8 +137,8 @@ Büyümek isteyen düzenler bu sınırı aşmak zorunda kalır.[^k2] Kurgusal
 akrabalık, evlilik ittifakları ve ortak bir kuruluş anlatısı bu işi
 görür.
 
-Atlas bu çözümleri ayrıca kaydeder.[^k3] Bir düzenin akrabalık dışında
-üyelik tanımlaması, ölçek büyütmenin ön koşuludur.
+Bir düzenin akrabalık dışında üyelik tanımlaması,
+ölçek büyütmenin ön koşuludur.[^k3]
 
 ## Kayıttaki izi
 
@@ -152,8 +149,8 @@ Soy listeleri dikkatle okunmalıdır.[^k1] Bir listenin işlevi çoğu zaman
 geçmişi kaydetmek değil, bugünkü bir hak iddiasını
 gerekçelendirmektir.
 
-Atlas bu işlevi ayrıca kaydeder.[^k3] Bir soy ağacı, yazıldığı andaki
-ittifakların da haritasıdır.
+Bir soy ağacı, yazıldığı andaki
+ittifakların da haritasıdır.[^k3]
 
 ## Kuşak derinliği
 
@@ -163,11 +160,10 @@ Derinlik, grubun büyüklüğünü doğrudan belirler.
 Üç kuşak geriye sayan bir düzende gruplar küçük ve çoktur.[^k2] On
 kuşak geriye sayan bir düzende gruplar büyük ve azdır.
 
-Atlas bu ölçüyü ayrıca kaydeder.[^k3] Aynı nüfus, farklı kuşak
-derinlikleriyle bambaşka sayıda birime bölünebilir.
+Aynı nüfus, farklı kuşak
+derinlikleriyle bambaşka sayıda birime bölünebilir.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, akrabalık terminolojisinin karşılaştırmalı çözümlemesini
 yapmaz.[^k1] Bu ayrı bir uzmanlık alanıdır.
 
@@ -177,8 +173,7 @@ dosyasında ele alınır.
 Kavram, bugünkü hane biçimlerine uzatılmaz.[^k3] Aradaki bağ gerçektir
 ama ayrı bir çalışma gerektirir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Kimin mülk edinip tanıklık edebildiği için
 [Toplumsal cinsiyet düzeni](/kavram/toplumsal-cinsiyet-duzeni/), yetki
 devri için [Veraset kuralı](/kavram/veraset/) dosyaları

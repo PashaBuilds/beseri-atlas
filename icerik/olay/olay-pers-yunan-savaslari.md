@@ -16,9 +16,10 @@ ilgili:
   - donem-04
   - aktor-ahamenis-imparatorlugu
   - dusunur-herodotos
-  - dusunur-thukydides
   - kaynak-herodotos-tarihler
   - tartisma-tarihsel-sayilar-nasil-okunur
+baglam:
+  - dusunur-thukydides
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

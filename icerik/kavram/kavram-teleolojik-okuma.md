@@ -11,7 +11,8 @@ bolge: [kuresel]
 eksen: [kulturel, felsefi]
 guven_geneli: yaygin
 etiketler: [teleolojik-okuma, tarih-yazimi, whig-tarihi, kacinilmazlik, ilerleme, yontem]
-ilgili:
+ilgili: []
+baglam:
   - kavram-anakronizm
   - kavram-donemlendirme
   - kavram-tarih-yazimi

@@ -18,10 +18,11 @@ ilgili:
   - aktor-khmer-imparatorlugu
   - aktor-malaka-sultanligi
   - aktor-mogol-imparatorlugu
-  - aktor-ming-hanedani
   - kavram-avustronezya-yayilmasi
-  - kavram-hint-okyanusu-ticareti
   - tartisma-imparatorluk-siniri-nasil-cizilir
+baglam:
+  - aktor-ming-hanedani
+  - kavram-hint-okyanusu-ticareti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

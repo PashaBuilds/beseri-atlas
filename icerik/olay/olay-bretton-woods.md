@@ -55,7 +55,7 @@ onarim_turu: 0
 Düzenin mekaniği iki halkalı bir zincirdir. Bretton Woods sistemi, ülkelerin kendi
 para birimlerinin ABD dolarına çevrilebilirliğini güvence altına almasını
 gerektiriyordu; dolar ise yabancı hükümetler ve merkez bankaları için altın
-külçesine çevrilebilirdi.[^k1] Bu dosya, o zincirin **kimin elinde olduğunu** ele
+külçesine çevrilebilirdi.[^k1] Bu inceleme, o zincirin **kimin elinde olduğunu** ele
 alır.
 
 ## Kuralı koyan taraf
@@ -98,7 +98,7 @@ ticareti ve para birimlerinin altına veya dolara uluslararası çevrilebilirli�
 destekledi.[^k1]
 
 Yani düzen, bir yardım programı olarak değil bir talep yönetimi olarak
-tasarlanmıştır. Bu, atlasın kendi yorumu değil kaynağın kurduğu neden zinciridir.
+tasarlanmıştır. Bu, korpusun kendi yorumu değil kaynağın kurduğu neden zinciridir.
 
 ## Sonu
 
@@ -118,9 +118,8 @@ Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yakl
 kullanılan kaynaklarda bulunmadığı için bu değerler içindeki pay burada
 hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
-Kaynak savaş sonrası müzakereleri ayrı bir başlık altında ele alır;[^k1] bu dosya
+## Kanıtın ve kapsamın sınırı
+Kaynak savaş sonrası müzakereleri ayrı bir başlık altında ele alır;[^k1] bu inceleme
 o başlığı kapsamaz. Kurulan kurumların iç işleyişi, sabit kur rejiminin teknik
 ayrıntıları ve çöküş sonrası düzen de burada işlenmemiştir. Dönemin bütünü [1945–1991](/donem/14/)
 dosyasında ele alınıyor.

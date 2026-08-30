@@ -54,7 +54,7 @@ onarim_turu: 0
 ---
 
 Kağanlık 552'de kuruldu ve 603'te sona erdi; ilk kağan Bumin Kağan'dır, son kağan
-599-603 arasında Tardu'dur.[^k1] Bu dosya, kağanlığın **sayılabilir olmasını** ele
+599-603 arasında Tardu'dur.[^k1] Bu inceleme, kağanlığın **sayılabilir olmasını** ele
 alır.
 
 ## Kuruluş bir isyanın dört yıl sonrasıdır
@@ -98,7 +98,7 @@ milyon.[^k1] Uzun dönemli seride dünya nüfusu MS 600 için yaklaşık 271,6 m
 olarak verilir.[^k3]
 
 Bu iki nüfus sayısı yan yana konabilir çünkü ikisi de aynı türden ölçümdür;
-atlasın alan sayılarıyla nüfus payı hesaplamayı reddettiği durumdan farkı
+korpusun alan sayılarıyla nüfus payı hesaplamayı reddettiği durumdan farkı
 budur.[^k1][^k3] Yine de kullanılan kaynak bölümü kağanlığın dünya nüfusu
 içindeki payını kendisi belirtmediği için burada tek bir oran değil iki sayı
 kaydedilmiştir.
@@ -109,8 +109,7 @@ Bölünmenin ardından doğuda yükselen düzen için kaynak Tang hanedanını 6
 arasına yerleştirir ve başkenti Chang'an olarak kaydeder.[^k2] O hanedan
 [Tang hanedanı](/aktor/tang-hanedani/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kağanlığın seferleri, komşu devletlerle ilişkileri, ticaret yolları üzerindeki
 konumu ve yazıtları burada ayrı başlıklar altında ele alınmamıştır; kullanılan
 kaynak bölümünün kapsamı kağanlığın kuruluşu, yönetim listesi ve sonudur. Dönemin

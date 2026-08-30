@@ -82,7 +82,7 @@ toplulukları oluşmasının doğrudan sebebidir.
 
 ## Rüzgârın kurduğu takvim
 
-Bir ticaret düzeninin doğa koşullarına bu kadar sıkı bağlı olması, atlasta
+Bir ticaret düzeninin doğa koşullarına bu kadar sıkı bağlı olması, korpusta
 seyrek görülen bir durumdur.[^k1] Kara yollarında yolculuk her mevsim
 mümkündür; burada değildir.
 
@@ -105,7 +105,7 @@ Böyle bir düzende siyasi güç, toprağın büyüklüğüyle değil boğazın
 konumuyla ölçülür.[^k3] Dar bir geçidi denetleyen küçük bir devlet, geniş bir
 iç bölgeye sahip büyük bir devletten daha fazla gelir elde edebilir.
 
-Atlasın [Ticaret diasporası](/kavram/ticaret-diasporasi/) dosyası, bu
+Korpusun [Ticaret diasporası](/kavram/ticaret-diasporasi/) dosyası, bu
 limanlarda oluşan yabancı tüccar topluluklarını kavram düzeyinde ele alır.
 
 ## Devletsizliğin sonucu
@@ -120,12 +120,12 @@ komşu limana kayar ve düzen yeniden kurulur.
 
 ::tartismali[Bu düzenin ne zaman ve neden Avrupa donanmalarının denetimine
 geçtiği tartışmalıdır; teknolojik üstünlük, silahlı ticaret pratiği ve yerel
-siyasi bölünmüşlük farklı ağırlıklarla ileri sürülür. Atlas bir sıralama
+siyasi bölünmüşlük farklı ağırlıklarla ileri sürülür. Korpus bir sıralama
 yapmaz.]{harita=tartisma-bati-neden-yukseldi}
 
 ## İki kaydın bin yıl arayla aynı şeyi anlatması
 
-Bu dosya iki birincil kaynağa bağlıdır ve aralarında yaklaşık bin üç yüz yıl
+Bu inceleme iki birincil kaynağa bağlıdır ve aralarında yaklaşık bin üç yüz yıl
 vardır.[^k1][^k2] Birincisi bir tüccarın elinden çıkmış liman ve mal
 rehberidir; ikincisi aynı sularda dolaşmış bir gezginin kaydıdır.
 
@@ -137,10 +137,9 @@ Farklar da kaydedilmelidir. Sonraki kayıtta ağın dinî ve hukuki altyapısı
 gelişmiştir; önceki kayıtta yalnızca mal ve mesafe vardır.[^k2] Ağ aynı
 kalmamış, kurumsallaşmıştır.
 
-## Atlastaki yeri ve sınırı
-
-Bu dosya, atlasın deniz ticareti kapsamındaki ilk yapısal kavram
-dosyasıdır.[^k3] Atlasta Atlantik ekonomisi üzerine dosyalar bulunuyordu;
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun deniz ticareti kapsamındaki ilk yapısal kavram
+dosyasıdır.[^k3] Korpusta Atlantik ekonomisi üzerine dosyalar bulunuyordu;
 ondan önce ve daha büyük hacimle işleyen bu düzen için bir dosya yoktu.
 
 Dosyanın kapsamadıkları belirtilmelidir. Ağdaki tek tek limanların tarihi,
@@ -148,7 +147,7 @@ taşınan malların üretim bölgeleri ve fiyat hareketleri burada
 işlenmez;[^k1] her biri ayrı dosya gerektirir.
 
 Ağın Avrupa donanmalarıyla karşılaşması ve sonrasındaki dönüşümü de kapsam
-dışıdır.[^k3] Bu, atlasın sömürgecilik dosyalarının konusudur ve burada
+dışıdır.[^k3] Bu, korpusun sömürgecilik dosyalarının konusudur ve burada
 yalnızca işaret edilir.
 
 ## Malların yönü ve hacim sorunu
@@ -161,9 +160,9 @@ Hacme dair sayılar dikkatle okunmalıdır. Elde bulunan kayıtlar liman
 kayıtları değil, tüccar ve gezgin anlatılarıdır;[^k2] bu anlatılarda
 büyüklük bildiren ifadeler ölçüm değil izlenim taşır.
 
-Atlas bu yüzden bu dosyada bir hacim rakamı vermez.[^k3] Ağın Atlantik
-ticaretinden daha büyük olduğu yönündeki değerlendirme, mutlak sayılara değil
-katılan liman ve nüfus sayısına dayanır.
+Ağın Atlantik ticaretinden daha
+büyük olduğu yönündeki değerlendirme, mutlak sayılara değil katılan liman ve nüfus
+sayısına dayanır.[^k3]
 
 ## Dinin taşıyıcısı olarak ticaret
 
@@ -176,12 +175,10 @@ Bu ayrım önemlidir. Fetihle yayılan bir inanç yönetimden aşağıya doğru
 işler; ticaretle yayılan bir inanç ise önce liman çevresinde, tüccar
 sınıfı içinde yerleşir.[^k2][^k3]
 
-Atlas bu iki yolu ayrı ayrı kaydeder ve birini ötekinin hafif biçimi
-saymaz.[^k3] İki yolun bıraktığı kurumsal iz de farklıdır ve ayrı kanıtlar
-gerektirir.
+İki yolun bıraktığı kurumsal iz de farklıdır ve
+ayrı kanıtlar gerektirir.[^k3]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Ağın karşılıklı uçlarındaki liman devletleri için [Kilva](/aktor/kilva/) ve
 [Srivijaya](/aktor/srivijaya/), donanma gücüyle ağa katılan bir örnek için
 [Chola](/aktor/chola/) dosyaları okunmalıdır.[^k3]

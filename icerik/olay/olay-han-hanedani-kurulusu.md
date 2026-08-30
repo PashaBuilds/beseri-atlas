@@ -42,7 +42,7 @@ onarim_turu: 0
 ---
 
 Hanedanın ilk imparatoru Gaozu'dur ve hükümdarlığı MÖ 202-195 arasına
-tarihlenir.[^k1] Bu dosya, kuruluş anının **kurumsal bileşimini** ele alır.
+tarihlenir.[^k1] Bu inceleme, kuruluş anının **kurumsal bileşimini** ele alır.
 
 ## İmparator ile şansölye aynı anda
 
@@ -85,7 +85,7 @@ ulaşamadığı bir toplumsal alanın varlığını gösterir.
 
 Aynı yüzyıllarda batıda Roma Cumhuriyeti MÖ 509 ile MÖ 27 arasına, imparatorluk
 dönemi ise MÖ 27 ile MS 286 arasına yerleştirilir.[^k2] İki düzenin ömürlerinin
-büyük ölçüde örtüşmesi, atlasın dönem karşılaştırmalarının zeminidir; hanedanın
+büyük ölçüde örtüşmesi, korpusun dönem karşılaştırmalarının zeminidir; hanedanın
 kendisi [Han İmparatorluğu](/aktor/han-imparatorlugu/) dosyasında ele alınıyor.
 
 ## Ölçek
@@ -95,8 +95,7 @@ yaklaşık 240,8 milyon olarak verilir.[^k3] Han'ın kendi nüfusuna dair bir ö
 kullanılan kaynaklarda bulunmadığı için bu değerler içindeki pay burada
 hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kuruluş savaşları, hanedan içi mücadeleler, vergi ve toprak düzeni ile başkent
 değişiklikleri burada ayrı başlıklar altında ele alınmamıştır; kullanılan kaynak
 bölümünün kapsamı hükümdar ve şansölye çizgisidir. Dönemin bütünü

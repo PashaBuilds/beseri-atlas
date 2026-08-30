@@ -12,6 +12,7 @@
 // Kullanım:
 //   node araclar/uretim-hatti.mjs --durum
 //   node araclar/uretim-hatti.mjs --parti 5
+//   node araclar/uretim-hatti.mjs --partileri-hazirla 5
 //   node araclar/uretim-hatti.mjs --paket <id>
 //   node araclar/uretim-hatti.mjs --kontrol <id>
 //   node araclar/uretim-hatti.mjs --kaynak-kontrol [id]
@@ -25,6 +26,7 @@ import { makaleKalitesi } from './linter-ogrenme-cekirdegi.mjs';
 export const URETIM_KUYRUGU = path.join(KOK, 'plan', 'uretim-kuyrugu.yaml');
 export const PAKET_DIZINI = path.join(KOK, 'plan', 'uretim-paketleri');
 export const PARTI_DIZINI = path.join(KOK, 'plan', 'uretim-partileri');
+export const PARTI_MANIFESTI = path.join(PARTI_DIZINI, 'manifest.json');
 export const KAYNAK_RAPORU = path.join(KOK, 'denetim', 'uretim-kaynak-kontrol.json');
 
 const SOMUT_TIPLER = new Set(['olay', 'aktor', 'dusunur', 'kaynak']);
@@ -76,12 +78,17 @@ export function uretimHattiDenetimi(makaleler = makaleleriTopla()) {
   let kaynakRaporu = null;
   try { kaynakRaporu = JSON.parse(fs.readFileSync(KAYNAK_RAPORU, 'utf8')); } catch { /* aşağıda açık hata */ }
   const kaynakKaydi = new Map((kaynakRaporu?.sonuclar || []).map((x) => [`${x.id}\n${x.url}`, x]));
+  let partiManifesti = null;
+  try { partiManifesti = JSON.parse(fs.readFileSync(PARTI_MANIFESTI, 'utf8')); } catch { /* aşağıda açık hata */ }
 
   if ((soz.kaynak_min || 0) < 6) r.hata('plan/uretim-kuyrugu.yaml', 'kaynak hedefi 6 altına indirilemez');
   if ((soz.alan_adi_min || 0) < 4) r.hata('plan/uretim-kuyrugu.yaml', 'bağımsız alan adı hedefi 4 altına indirilemez');
   if ((soz.birincil_min || 0) < 1) r.hata('plan/uretim-kuyrugu.yaml', 'en az bir birincil kaynak zorunludur');
   if (soz.kor_hakem_zorunlu !== true) r.hata('plan/uretim-kuyrugu.yaml', 'bağımsız kör hakem zorunluluğu kaldırılamaz');
   if (soz.yayin_puani !== 10) r.hata('plan/uretim-kuyrugu.yaml', 'yayın puanı yalnız 10 olabilir');
+  if (soz.meta_dil_yasak !== true) r.hata('plan/uretim-kuyrugu.yaml', 'yeni makalelerde şablon/meta-dil yasağı kaldırılamaz');
+  if (soz.yonlu_bag_alani !== 'baglam') r.hata('plan/uretim-kuyrugu.yaml', 'tek yönlü bağlar yalnız `baglam` alanında tutulmalıdır');
+  if (soz.kaynakli_derinlik_zorunlu !== true) r.hata('plan/uretim-kuyrugu.yaml', 'uzunluk hedefi yalnız kaynaklı içerikle tamamlanabilir');
   if (adaylar.length < 60) r.hata('plan/uretim-kuyrugu.yaml', `en az 60 araştırma adayı bekleniyor; bulunan ${adaylar.length}`);
 
   const gorulen = new Set();
@@ -103,6 +110,8 @@ export function uretimHattiDenetimi(makaleler = makaleleriTopla()) {
     if (!a.anlati_bicimi) r.hata(yer, 'anlatı biçimi eksik');
     for (const b of a.bolge || []) bolgeler.add(b);
     if (!(a.bolge || []).length || !(a.eksen || []).length) r.hata(yer, 'bölge ve eksen boş bırakılamaz');
+    const paketYolu = path.join(PAKET_DIZINI, `${a.id}.md`);
+    if (!fs.existsSync(paketYolu)) r.hata(yer, `üretim paketi eksik: ${path.relative(KOK, paketYolu)}`);
 
     if (!rotalar.has(a.rota)) rotalar.set(a.rota, []);
     rotalar.get(a.rota).push(a);
@@ -149,8 +158,21 @@ export function uretimHattiDenetimi(makaleler = makaleleriTopla()) {
     if (!bolgeler.has(bolge)) r.hata('plan/uretim-kuyrugu.yaml', `bölgesel açık kapanmıyor: ${bolge}`);
   }
 
+  const partiIdleri = (partiManifesti?.partiler || []).flatMap((p) => p.adaylar || []);
+  const partiKimlikleri = new Set(partiIdleri);
+  if (!partiManifesti) r.hata('plan/uretim-partileri/manifest.json', 'paralel üretim manifesti yok');
+  else {
+    if (partiIdleri.length !== adaylar.length) r.hata('plan/uretim-partileri/manifest.json', `partilerde ${partiIdleri.length} yer var; ${adaylar.length} aday bekleniyor`);
+    if (partiKimlikleri.size !== adaylar.length) r.hata('plan/uretim-partileri/manifest.json', `adaylar partilerde yalnız birer kez görünmeli; benzersiz ${partiKimlikleri.size}/${adaylar.length}`);
+    for (const id of partiKimlikleri) if (!gorulen.has(id)) r.hata('plan/uretim-partileri/manifest.json', `kuyrukta olmayan aday: ${id}`);
+    if ((partiManifesti.partiler || []).some((p) => (p.adaylar || []).length !== partiManifesti.parti_boyutu)) {
+      r.hata('plan/uretim-partileri/manifest.json', 'her parti manifestteki parti boyutunu tam karşılamalı');
+    }
+  }
+
   r.ozetSatirlari = [
-    `${adaylar.length} aday · ${rotalar.size} gelecek rota · ${arastirmayaHazir} araştırma paketi hazır`,
+    `${adaylar.length} aday · ${rotalar.size} gelecek rota · ${partiIdleri.length}/${adaylar.length} üretim paketi · ${(partiManifesti?.partiler || []).length} paralel parti`,
+    `${arastirmayaHazir} adayın başlangıç kaynakları doğrulandı`,
     `${[...kaynakKaydi.values()].filter((x) => x.okunabilir).length}/${kaynakRaporu?.kaynak_sayisi || 0} başlangıç kaynağı canlı ve okunabilir`,
     `yayın sözleşmesi ${soz.kaynak_min} kaynak / ${soz.alan_adi_min} alan adı / ${soz.yayin_puani}/10 · onaylanan ${yayinaHazir}`,
   ];
@@ -158,6 +180,8 @@ export function uretimHattiDenetimi(makaleler = makaleleriTopla()) {
     aday: adaylar.length,
     gelecekRota: rotalar.size,
     arastirmayaHazir,
+    paketli: partiIdleri.length,
+    parti: (partiManifesti?.partiler || []).length,
     canliKaynak: [...kaynakKaydi.values()].filter((x) => x.okunabilir).length,
     kaynakSayisi: kaynakRaporu?.kaynak_sayisi || 0,
     onaylanan: yayinaHazir,
@@ -195,6 +219,9 @@ export function paketMetni(a, sozlesme) {
     `- En fazla **${sozlesme.wikipedia_max}** Wikipedia künyesi; giriş kapısı asıl kanıt olamaz.`,
     '- Her olgusal cümle doğru kaynak anahtarına bağlanır; kaynak yalnız “konuyla ilgili” olduğu için kullanılamaz.',
     '- Karşı görüş, belirsizlik ve kaynak sınırı metnin içinde görünür olur.',
+    '- `ilgili` yalnız karşı makalede de geri bağ varsa kullanılır; tek yönlü geçişler `baglam` alanına yazılır.',
+    '- “Atlas kaydeder”, “bu dosya” ve stok kapanışlar kullanılmaz; anlatıcı platformu değil kanıtı ve mekanizmayı görünür kılar.',
+    '- Uzunluk hedefi tekrar, meta-cümle ya da dolgu ile değil; kaynaklı kanıt, mekanizma, karşı örnek ve sınırla tamamlanır.',
     '- Makale `bekliyor` durumunda yazılır. Üretici kendi metnini onaylayamaz.',
     '- Bağımsız oturum bütün dipnotlu iddialar için kör-hakem matrisi oluşturur.',
     '- Dil taraması, bölüm iskeleti benzerliği ve KAPI 20 ölçütleri 10/10 olmadan yayın yoktur.', '',
@@ -213,12 +240,48 @@ export function paketYaz(a, sozlesme) {
   return hedef;
 }
 
-function sonrakiParti(adaylar, n) {
+export function sonrakiParti(adaylar, n) {
   const oncelik = { arastirmada: 0, bekliyor: 1, onarimda: 2, yaziliyor: 3, 'kor-hakemde': 4, onaylandi: 9 };
   return [...adaylar]
     .filter((a) => a.durum !== 'onaylandi')
     .sort((a, b) => (oncelik[a.durum] ?? 8) - (oncelik[b.durum] ?? 8) || a.sira - b.sira || a.rota.localeCompare(b.rota, 'tr'))
     .slice(0, n);
+}
+
+export function partiMetni(parti, yollar, { no = 1, toplam = 1 } = {}) {
+  return [
+    `# Dengeli üretim partisi ${String(no).padStart(2, '0')}/${String(toplam).padStart(2, '0')}`, '',
+    'Her paket ayrı bir üretici bağlamında araştırılabilir. Ortak olan yalnız kalite sözleşmesidir; cümle, bölüm sırası ve anlatı sesi ortak şablondan kopyalanamaz.', '',
+    ...parti.flatMap((a, i) => [`## ${i + 1}. ${a.baslik}`, '', `- Paket: \`${path.relative(KOK, yollar[i])}\``, `- Gelecek rota: \`${a.rota}\` · ${a.sira}/6`, `- Öğrenme sorusu: ${a.soru}`, '']),
+    '## Birleştirme kuralı', '',
+    'Dosyalar paralel yazılabilir; fakat her biri ayrı kör-hakem oturumundan geçmeden `onaylandi` yapılamaz. Parti sonunda `npm run uretim -- --kapi`, `npm test` ve `npm run lint` birlikte geçmelidir.', '',
+  ].join('\n');
+}
+
+/** Kuyrugun tamamini tekrar etmeyen, esit buyuklukte paralel is paketlerine boler. */
+export function tumPartileriHazirla(veri, boyut = 5) {
+  if (!Number.isInteger(boyut) || boyut < 1) throw new Error('parti boyutu pozitif tam sayı olmalı');
+  const sirali = sonrakiParti(veri.adaylar, veri.adaylar.length);
+  const toplam = Math.ceil(sirali.length / boyut);
+  const paketYollari = new Map(sirali.map((a) => [a.id, paketYaz(a, veri.sozlesme)]));
+  const partiler = [];
+  for (let i = 0; i < toplam; i += 1) {
+    const adaylar = sirali.slice(i * boyut, (i + 1) * boyut);
+    const yollar = adaylar.map((a) => paketYollari.get(a.id));
+    const dosya = `parti-${String(i + 1).padStart(2, '0')}.md`;
+    yaz(path.join(PARTI_DIZINI, dosya), partiMetni(adaylar, yollar, { no: i + 1, toplam }));
+    partiler.push({ no: i + 1, dosya: `plan/uretim-partileri/${dosya}`, adaylar: adaylar.map((a) => a.id) });
+  }
+  const manifest = {
+    surum: 1,
+    parti_boyutu: boyut,
+    aday_sayisi: sirali.length,
+    parti_sayisi: partiler.length,
+    kural: 'Her aday tek partide; her makale 10/10 ve ayrı kör hakem olmadan yayımlanamaz.',
+    partiler,
+  };
+  yaz(PARTI_MANIFESTI, `${JSON.stringify(manifest, null, 2)}\n`);
+  return manifest;
 }
 
 function durumYazdir(veri) {
@@ -288,16 +351,15 @@ if (process.argv[1]?.endsWith('uretim-hatti.mjs')) {
     const n = Number(argv[argv.indexOf('--parti') + 1]) || 5;
     const parti = sonrakiParti(veri.adaylar, n);
     const yollar = parti.map((a) => paketYaz(a, veri.sozlesme));
-    const metin = [
-      '# Sıradaki dengeli üretim partisi', '',
-      `Bu parti ${new Date().toISOString().slice(0, 10)} tarihinde üretildi. Her dosya ayrı üretici bağlamında yazılabilir; ortak olan yalnız kalite sözleşmesidir.`, '',
-      ...parti.flatMap((a, i) => [`## ${i + 1}. ${a.baslik}`, '', `- Paket: \`${path.relative(KOK, yollar[i])}\``, `- Öğrenme sorusu: ${a.soru}`, '']),
-      '## Birleştirme kuralı', '',
-      'Dosyalar paralel yazılabilir; fakat her biri ayrı kör-hakem oturumundan geçmeden `onaylandi` yapılamaz. Parti sonunda `npm run uretim -- --kapi`, `npm test` ve `npm run lint` birlikte geçmelidir.', '',
-    ].join('\n');
+    const metin = partiMetni(parti, yollar);
     const hedef = path.join(PARTI_DIZINI, 'siradaki-parti.md');
     yaz(hedef, metin);
     console.log(`${parti.length} paket -> ${path.relative(KOK, hedef)}`);
+  } else if (argv.includes('--partileri-hazirla')) {
+    const konum = argv.indexOf('--partileri-hazirla');
+    const boyut = Number(argv[konum + 1]) || 5;
+    const manifest = tumPartileriHazirla(veri, boyut);
+    console.log(`${manifest.aday_sayisi} paket · ${manifest.parti_sayisi} parti -> plan/uretim-partileri/manifest.json`);
   } else if (argv.includes('--kontrol')) {
     const id = argv[argv.indexOf('--kontrol') + 1];
     const makaleler = makaleleriTopla();

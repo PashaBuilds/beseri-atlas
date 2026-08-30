@@ -21,9 +21,10 @@ ilgili:
   - kavram-demografik-gecis
   - kavram-malthus-tuzagi
   - tartisma-nufus-artisi-tehdit-mi
-  - tartisma-tarihsel-sayilar-nasil-okunur
   - veri-tarimsal-verim
   - veri-tarim-istihdami
+baglam:
+  - tartisma-tarihsel-sayilar-nasil-okunur
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

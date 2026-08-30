@@ -18,6 +18,7 @@ ilgili:
   - aktor-eyyubi-devleti
   - olay-hacli-seferleri
   - tartisma-hacli-seferlerinin-nedeni
+baglam:
   - kavram-kaynak-elestirisi
   - tartisma-tarihsel-sayilar-nasil-okunur
 okuma_onerisi: []
@@ -93,7 +94,7 @@ değil bir pazarlıkla bitti: savunmayı yöneten İbelinli Balian 30 Eylül'de
 sultanın karargâhına gidip teslim şartlarını konuştu,[^k3] elçiler birkaç kez
 gidip geldikten sonra bir antlaşma yapıldı ve şehir 27 Receb 583 / 2 Ekim 1187
 Cuma günü el değiştirdi.[^k1] Süreyi kaynakların hiçbiri kendisi yazmaz; iki uç
-tarih onlarındır, aradaki sayı bu dosyanındır.
+tarih onlarındır, aradaki sayı bu incelemenindir.
 
 Olayın ağırlığı buradan gelir. Şehri seksen sekiz yıl önce alan Haçlı ordusu
 kılıçtan geçirme yolunu seçmişti;[^k3] 1187'deki el değiştirme ise bir bedel
@@ -226,7 +227,7 @@ Latin tarafında da durum farklı değildir. Lane-Poole, Itinerarium'un Richard'
 duyduğu ölçüsüz hayranlığı ve taraf tutuşunu adıyla anar; onu Üçüncü Haçlı
 Seferi'nin en dolgun kaynağı sayar, yani asıl konusu 1187 değil ondan
 sonrasıdır.[^k5] Latin tarafının 1187'ye en yakın tanığı ise şehri savunan
-Balian'ın silahtarı Ernoul'dür.[^k5] Bu dosyanın kullandığı Latin kayıt
+Balian'ın silahtarı Ernoul'dür.[^k5] Bu incelemenin kullandığı Latin kayıt
 Ernoul'ünki değil Itinerarium'dur; yani buradaki iki ana kalemden biri sultanın
 maiyetinden gelir, öteki olayı bir başka seferin çerçevesinden ve İngiliz
 kralının etrafından yazar.[^k5]

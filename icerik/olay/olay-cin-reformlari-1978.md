@@ -45,7 +45,7 @@ onarim_turu: 0
 Reformlar, Çin Komünist Partisi tarafından 18 Aralık 1978'de, 11. Merkez
 Komitesi'nin üçüncü genel oturumunda başlatıldı; kaynak bunu Mao Zedong'un
 1976'daki ölümünün ardından gelen bir dizi iktisadi reform olarak
-tanımlar.[^k1] Bu dosya, kaydın **iki paralel programı ayrı tutmasını** ele alır.
+tanımlar.[^k1] Bu inceleme, kaydın **iki paralel programı ayrı tutmasını** ele alır.
 
 ## İki program, iki akıbet
 
@@ -75,7 +75,7 @@ Xiaoping'in 1979'da Çin ekonomisini modernleştirmeyi amaçlayan Dört
 Modernizasyon'u başlattığı kaydedilir.[^k1]
 
 Aynı sürecin üç ayrı adla anılması,[^k1] adlandırmanın değerlendirme taşıdığını
-gösterir: "mucize" bir betimleme değil bir yargıdır ve atlas onu benimsemez,
+gösterir: "mucize" bir betimleme değil bir yargıdır ve korpus onu benimsemez,
 kaydeder.
 
 ## Öncesindeki dönem
@@ -91,8 +91,7 @@ yaklaşık 5,51 milyardır.[^k3] Reformlardan etkilenen nüfusa dair bir ölçü
 kullanılan kaynak bölümünde bulunmadığı için bu değerler içindeki pay burada
 hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Reformların içeriği, özel ekonomi bölgeleri, tarım ve sanayi düzenlemeleri ile
 iktisadi sonuçlar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları
 ayrı bölümler olarak işler.[^k1] Dönemin bütünü [1945-1991](/donem/14/) dosyasında

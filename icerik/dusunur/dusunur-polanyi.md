@@ -13,9 +13,10 @@ guven_geneli: tartismali
 etiketler: [polanyi, gomululuk, cift-hareket, substantivizm, itiraz]
 ilgili:
   - dusunur-smith
-  - dusunur-braudel
   - dusunur-marx
   - kaynak-polanyi-buyuk-donusum
+baglam:
+  - dusunur-braudel
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -46,7 +47,7 @@ onarim_turu: 0
 Kaynak onun disiplinlerini iktisat toplumbilimi, iktisat tarihi, iktisadi
 antropoloji ve felsefe olarak sıralar; kayda değer fikirleri arasında gömülülük,
 çift hareket, kurgusal metalar, iktisatçı yanılgısı ve biçimci-özcü tartışmasını
-sayar.[^k1] Bu dosya, kuramını değil **kaydın itirazı da taşımasını** ele alır.
+sayar.[^k1] Bu inceleme, kuramını değil **kaydın itirazı da taşımasını** ele alır.
 
 ## Kaynak, yaklaşımın sorgulandığını yazar
 
@@ -54,7 +55,7 @@ Kaynak, eski iktisatlara yaklaşımının Kolomb öncesi Amerika ve eski Mezopot
 gibi çeşitli örneklere uygulandığını, ancak eski toplumların incelenmesinde genel
 yararının sorgulandığını yazar.[^k1]
 
-::tartismali[Aynı paragraf hem uygulama örneklerini hem yaklaşımın genel yararına yönelik sorgulamayı taşıyor. Atlas ikisini de kaydeder ve hangisinin ağır bastığına karar vermez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Aynı paragraf hem uygulama örneklerini hem yaklaşımın genel yararına yönelik sorgulamayı taşıyor. Korpus ikisini de kaydeder ve hangisinin ağır bastığına karar vermez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu tür itirazların nasıl taşınacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -67,7 +68,7 @@ kültürel bir iktisat sürümünün kurucusu olarak hatırlandığını yazar; 
 ana akım iktisada karşı olduğunu ama antropoloji, iktisat tarihi, iktisat
 toplumbilimi ve siyaset biliminde yaygın olduğunu kaydeder.[^k1]
 
-Bir görüşün bir alanda karşı, başka alanlarda yaygın sayılması,[^k1] atlasın
+Bir görüşün bir alanda karşı, başka alanlarda yaygın sayılması,[^k1] korpusun
 kaynak türü alanını ayrı tutmasının dayanağıdır: bir iddianın nasıl
 karşılandığı, hangi alanın kaydına bakıldığına göre değişebilmektedir.
 
@@ -78,7 +79,7 @@ talebinin diyalektik sürecine gönderme yaptığını ve onun modern Avrupa'dak
 piyasa temelli toplumların kaçınılmaz değil tarihsel olarak olumsal olduğunu
 savunduğunu yazar.[^k1]
 
-Bir kuramın kendi konusunun kaçınılmaz olmadığını öne sürmesi,[^k1] atlasın
+Bir kuramın kendi konusunun kaçınılmaz olmadığını öne sürmesi,[^k1] korpusun
 kaçınılmazlık cümlelerine neden temkinle yaklaştığıyla aynı soruna değinir.
 
 ## Etki listesi karşıtlarını da içerir
@@ -98,8 +99,7 @@ kapitalistleri tekelciler olarak gördüğünü ve hem liberal hem Marksçı
 yorumlardan ayrıldığını yazar.[^k3] O yazar
 [Fernand Braudel](/dusunur/braudel/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 *Büyük Dönüşüm*'ün içeriği, hayatının seyri ve substantivizm tartışmasının
 ayrıntıları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
 bölümler olarak işler.[^k1]

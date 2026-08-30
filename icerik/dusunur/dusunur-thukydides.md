@@ -18,6 +18,7 @@ etiketler: [thukydides, peloponez, prophasis, tarih-yazimi, gercekcilik]
 ilgili:
   - kaynak-thukydides-peloponnesos
   - dusunur-herodotos
+baglam:
   - dusunur-hobbes
   - kavram-tarih-yazimi
   - kavram-anakronizm

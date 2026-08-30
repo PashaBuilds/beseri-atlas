@@ -61,7 +61,7 @@ ayrı ayrı işlenir.[^k1]
 ## Kavram antikçağa özgü değildir
 
 Bir siyasi biçimin ansiklopedi maddesinde 20. yüzyıla ait örneklerin ayrı alt
-başlıklar taşıması,[^k1] atlasın şu kuralının dayanağıdır: bu dosyada şehir
+başlıklar taşıması,[^k1] korpusun şu kuralının dayanağıdır: bu incelemede şehir
 devleti, tamamlanmış bir tarihsel evre olarak anılmaz.
 
 ## Güneydoğu Asya ayrı bir alt başlıktır
@@ -88,8 +88,7 @@ siyasi birim olmasının tek bir biçime bağlanamayacağını gösterir; en esk
 ayrı bir bölüm başlığı yapar.[^k3] O düşünür
 [Platon](/dusunur/platon/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 İtalyan şehir devletleri, çağdaş örnekler ve kavramın hukuki tanımı burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

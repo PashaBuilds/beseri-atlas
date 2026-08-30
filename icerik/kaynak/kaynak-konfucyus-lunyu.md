@@ -68,7 +68,7 @@ tutar.[^k1]
 
 ## Metnin oluşumu ayrı bir alt başlıktır
 
-::tartismali[Bir metnin "oluşumu" ile "metin tarihi" ayrı alt başlıklar olarak tutuluyor. Bu, eserin tek bir yazarın tek seferde yazdığı bir metin olmadığı anlamına gelir. Atlas esere tek bir yazar atfetmez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bir metnin "oluşumu" ile "metin tarihi" ayrı alt başlıklar olarak tutuluyor. Bu, eserin tek bir yazarın tek seferde yazdığı bir metin olmadığı anlamına gelir. Korpus esere tek bir yazar atfetmez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Metin sorunlarının nasıl taşınacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -80,7 +80,7 @@ Kaynak, içerik başlığı altında toplumsal felsefe, siyaset felsefesi, eğit
 bölümler alt başlıklarını tutar; ayrıca kayda değer çevirilere ayrı bir bölüm
 ayırır.[^k1]
 
-Bir metnin içeriğinin dört ayrı felsefe alanına bölünmesi,[^k1] atlasın şu
+Bir metnin içeriğinin dört ayrı felsefe alanına bölünmesi,[^k1] korpusun şu
 kuralının dayanağıdır: bu esere yapılan atıflar, hangi bölümden ve hangi konu
 başlığından geldiği belirtilerek verilir.
 
@@ -91,7 +91,7 @@ koruduğunu ama bu metindeki diyalog ve hikâyelerin çeşitli temsiller ve kayg
 yansıttığını yazar; tarihleri geleneksel kaydıyla MÖ 551-479 olarak verir.[^k2]
 
 Aynı metnin hem birincil kaynak hem sonradan derlenmiş bir metin sayılabilmesi,
-[^k1][^k2] atlasın kaynak sınıflandırması dosyasında kaydettiği sınır durumunun
+[^k1][^k2] korpusun kaynak sınıflandırması dosyasında kaydettiği sınır durumunun
 bir örneğidir; o dosya
 [Birincil kaynak](/kavram/birincil-kaynak/) dosyasıdır. Yazar
 [Konfüçyüs](/dusunur/konfucyus/) dosyasında ele alınıyor.
@@ -104,5 +104,5 @@ başka bir yazara atfedildiğini yazar.[^k3] O eser
 
 ## Metne bağ
 
-Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Eser kamu malıdır; hangi çevirinin kullanıldığı her
+Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Eser kamu malıdır; hangi çevirinin kullanıldığı her
 aktarımda belirtilmelidir.

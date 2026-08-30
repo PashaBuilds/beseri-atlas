@@ -81,16 +81,15 @@ başlarına karşılık vermesi yerine meclise başvurması esas alınır.
 
 ## Metnin tarihiyle belgenin tarihi
 
-Bu dosyanın asıl konusu metnin içeriği değildir.[^k1] Elde bulunan
+Bu incelemenin asıl konusu metnin içeriği değildir.[^k1] Elde bulunan
 yazılı metnin ne zaman oluştuğudur.
 
 Şartın ilan edildiği tarih on üçüncü yüzyıl olarak aktarılır.[^k2]
 Yazılı metin ise yirminci yüzyılda, sözlü aktarıcılardan derlenerek
 kaydedildi.
 
-Atlas bu iki tarihi ayrı ayrı kaydeder.[^k3] **Bir belgenin ilan
-tarihi ile elde bulunan metninin tarihi ayrı iki veridir ve birincisi
-ikincisinin yerine geçemez.**
+**Bir belgenin ilan tarihi ile elde
+bulunan metninin tarihi ayrı iki veridir ve birincisi ikincisinin yerine geçemez.**[^k3]
 
 ## Aradaki yedi yüzyıl
 
@@ -111,8 +110,8 @@ birbirinden farklıdır.
 Madde sayısı ve maddelerin sırası sürümden sürüme değişir.[^k1] Bazı
 maddeler yalnızca bir derlemede bulunur.
 
-Atlas bu yüzden şarta atıf yaparken sürümü belirtir.[^k3] Bu, atlasın
-Magna Carta dosyasında kurduğu kuralın buradaki karşılığıdır.
+Bu, korpusun Magna Carta dosyasında kurduğu
+kuralın buradaki karşılığıdır.[^k3]
 
 ## Modern ekleme sorunu
 
@@ -123,7 +122,7 @@ Bu, iki ayrı ihtimali doğurur.[^k1] Ya asıl kural gerçekten o
 kapsamdaydı ya da derleme sırasında bugünkü bir kavramla
 yeniden ifade edildi.
 
-Metinden hangisinin doğru olduğu çıkarılamaz.[^k3] Atlas bu yüzden
+Metinden hangisinin doğru olduğu çıkarılamaz.[^k3] Korpus bu yüzden
 şartın belirli maddelerine dayanan iddiaları tartışmalı sayar.
 
 ## Neden yine de künyelenir
@@ -135,9 +134,8 @@ anlatısı, belgesi tartışmalı bir bölge anlatısından daha zayıftır.
 kayıttır.[^k2] Bu kaydın varlığı, içeriğinin her maddesinden bağımsız
 bir bilgidir.
 
-Atlas iki düzeyi ayırır.[^k3] Şartın var olduğu ve aktarıldığı ayrı
-bir olgudur; her maddesinin on üçüncü yüzyıla ait olduğu ayrı bir
-iddiadır.
+Şartın var olduğu ve aktarıldığı ayrı bir olgudur;
+her maddesinin on üçüncü yüzyıla ait olduğu ayrı bir iddiadır.[^k3]
 
 ## Dışarıdan bir karşılaştırma
 
@@ -161,8 +159,8 @@ Arapça yazılı belgeler üretiliyordu.
 açıklanamaz.[^k2] Yazı vardı ama bu tür bir metin için
 kullanılmadı.
 
-Atlas bunu bir tercih olarak kaydeder.[^k3] Hangi bilginin yazıya
-geçirileceği, yazının varlığından ayrı bir karardır.
+Hangi bilginin yazıya
+geçirileceği, yazının varlığından ayrı bir karardır.[^k3]
 
 ## Meşruiyet iddiası
 
@@ -170,7 +168,7 @@ geçirileceği, yazının varlığından ayrı bir karardır.
 kurulmuştu ama meşruiyetini savaştan değil, meclisin kabulünden
 alır.
 
-Bu, atlasın birçok dosyasında geçen bir örüntüdür.[^k2] Güç kullanarak
+Bu, korpusun birçok dosyasında geçen bir örüntüdür.[^k2] Güç kullanarak
 kurulan düzenler, kalıcı olmak için güç dışında bir gerekçe
 üretirler.
 
@@ -185,23 +183,21 @@ alındı.[^k2] Listeye giren, yazılı metin değil aktarım pratiğidir.
 Bu ayrım önemlidir.[^k1] Tanınan, belgenin içeriğinin doğruluğu değil,
 aktarımın kültürel varlığıdır.
 
-Atlas ikisini karıştırmaz.[^k3] Bir metnin miras listesinde bulunması,
-o metnin tarihsel iddialarını doğrulamaz.
+Bir metnin miras listesinde bulunması, o
+metnin tarihsel iddialarını doğrulamaz.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, şartın maddelerini tek tek çözümlemez.[^k1] Metnin sürümleri
 arasındaki farklar ayrı bir çalışma gerektirir.
 
 Aktarıcı soyların tarihi izlenmez.[^k2] Ezberi taşıyan ailelerin kendi
-tarihi bu dosyanın konusu değildir.
+tarihi bu incelemenin konusu değildir.
 
 Doğrulanabilir çevrimiçi tam metin künyelenememiştir.[^k3] Derlenmiş
-sürümlerin erişilebilir ve doğrulanabilir baskıları bu dosya
+sürümlerin erişilebilir ve doğrulanabilir baskıları bu inceleme
 yazıldığında bulunamamıştır; kısıt burada beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Şartın bağlı olduğu düzen için
 [Mali İmparatorluğu](/aktor/mali-imparatorlugu/) dosyası
 okunmalıdır.[^k1]

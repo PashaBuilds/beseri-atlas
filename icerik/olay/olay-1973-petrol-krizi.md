@@ -45,7 +45,7 @@ onarim_turu: 0
 
 Ekim 1973'te Arap Petrol İhraç Eden Ülkeler Örgütü (OAPEC), 1973 Yom Kippur Savaşı
 sırasında herhangi bir noktada İsrail'i destekleyen ülkelere karşı tam bir petrol
-ambargosu uyguladığını açıkladı.[^k1] Bu dosya, ambargonun **kapsamını ve fiyat
+ambargosu uyguladığını açıkladı.[^k1] Bu inceleme, ambargonun **kapsamını ve fiyat
 etkisini** ele alır.
 
 ## Savaşın kendisi
@@ -85,7 +85,7 @@ erdirmişti.[^k2]
 1971'deki çevrilebilirlik kararı[^k2] ile 1973'teki ambargo[^k1] aynı yılların
 içine düşer; bu, dönemin iktisadi kırılganlığının iki ayrı kaynaktan beslendiğini
 gösterir. Para düzeni
-[Bretton Woods düzeni](/olay/bretton-woods/) dosyasında ele alınıyor. Bu dosya iki
+[Bretton Woods düzeni](/olay/bretton-woods/) dosyasında ele alınıyor. Bu inceleme iki
 olay arasında bir nedensellik iddiası taşımaz.
 
 ## Ölçek
@@ -94,8 +94,7 @@ Uzun dönemli seride dünya nüfusu 1991'de yaklaşık 5,42 milyardır.[^k3]
 Ambargodan etkilenen nüfusa dair bir ölçüm kullanılan kaynaklarda bulunmadığı için
 bu değer içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ambargonun ülke ülke etkileri, çözüm girişimleri, ambargonun etkinliğine dair
 değerlendirme ve petrol ihraç eden ülkeler üzerindeki sonuçları burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak

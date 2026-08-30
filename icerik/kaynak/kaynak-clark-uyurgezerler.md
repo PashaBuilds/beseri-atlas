@@ -86,9 +86,8 @@ dört güç konferansı ve Lahey tahkimi seçeneklerinin Almanya ve
 Avusturya-Macaristan tarafından reddedilmesinin, savaşın nedenleri aranırken bu
 iki devlet aleyhine ağır bastığını savunur.[^k2]
 
-## Okuma yönlendirmesi
-
-Kitap teliflidir; bu dosya bölüm çevirisi, uzun özet veya yeniden yapılandırılmış
+## Okumayı sürdürmek için
+Kitap teliflidir; bu inceleme bölüm çevirisi, uzun özet veya yeniden yapılandırılmış
 anlatı içermez ve içeremez. Yukarıdaki künye kaydı katalog bilgisi içindir,
 eserin metnine bağlanmaz.
 

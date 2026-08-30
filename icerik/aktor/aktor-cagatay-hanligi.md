@@ -74,7 +74,7 @@ tarımına ve şehir ticaretine dayanan bölgeler, öte yanda otlak
 ekonomisine dayanan bozkır vardı.
 
 Hanlık on dördüncü yüzyıl ortasında ikiye ayrıldı.[^k1] Bölünmenin nedeni
-ve bölünmeden sonra ayakta kalan meşruiyet kuralı, bu dosyanın asıl
+ve bölünmeden sonra ayakta kalan meşruiyet kuralı, bu incelemenin asıl
 konusudur.
 
 ## Ardıl devletler arasındaki yeri
@@ -87,7 +87,7 @@ geleneğine, doğudaki birim Çin'in yönetim geleneğine eklemlendi.
 bölgeleri ile bozkır bölgeleri arasındaki gerilim, tek bir yöne
 karar verilmesini engelledi.
 
-Sonuç bütünleşme değil bölünme oldu.[^k1] Atlas bu farkı ayrıca
+Sonuç bütünleşme değil bölünme oldu.[^k1] Korpus bu farkı ayrıca
 kaydeder: "Moğol ardıl devleti" tek bir kategori değildir.
 
 ## Bölünmenin hattı
@@ -102,18 +102,17 @@ uzun süre korundu.
 Ayrışmanın dinî boyutu da vardır.[^k1] İslamlaşma iki kanatta aynı
 zamanda ve aynı derinlikte gerçekleşmedi.
 
-## Bölünmenin atlas için anlamı
+## Bölünmenin korpus için anlamı
 
 Bir siyasi birimin ikiye ayrılması, çoğu zaman hanedan çekişmesine
-bağlanır.[^k4] Bu dosya farklı bir sıralama önerir.
+bağlanır.[^k4] Bu inceleme farklı bir sıralama önerir.
 
 Çekişme, ayrışmanın nedeni değil biçimidir.[^k2] Birbirinden farklı
 ekonomik temellere oturan iki bölgeyi tek merkezden yönetmenin maliyeti,
 çekişmeye zemin hazırlar.
 
-Atlas iddiayı bir kural olarak sunmaz.[^k1] Bu örnekte ölçülen bir
-örüntü olarak kaydeder ve karşılaştırma için öteki ardıl devletlerin
-dosyalarına yönlendirir.
+Bu örnekte ölçülen bir örüntü olarak
+kaydeder ve karşılaştırma için öteki ardıl devletlerin dosyalarına yönlendirir.[^k1]
 
 ## Paylaşımın niteliği
 
@@ -137,9 +136,8 @@ Bu kurumların çözülmesi, ayrışmanın ölçülebilir göstergesidir.[^k2] A
 sikke basmak, ayrı bir siyasi birim olduğunu ilan etmenin en somut
 biçimidir.
 
-Atlas bu tür göstergeleri ayrıca izler.[^k4] Bir birliğin ne zaman sona
-erdiği, ilan edilen tarihlerden değil kurumların ne zaman ayrıştığından
-okunur.
+Bir birliğin ne zaman sona erdiği, ilan edilen
+tarihlerden değil kurumların ne zaman ayrıştığından okunur.[^k4]
 
 ## Şehirlerin konumu
 
@@ -151,7 +149,7 @@ Kaynaklar, bazı dönemlerde şehirlerin bilinçli olarak zayıf
 tutulduğunu aktarır.[^k1] Güçlü bir şehir, göçebe yönetici kesim için
 denetlenmesi zor bir merkez anlamına gelirdi.
 
-Bu tercih uzun vadede geliri de düşürür.[^k2] Atlas gerilimi bir
+Bu tercih uzun vadede geliri de düşürür.[^k2] Korpus gerilimi bir
 tutarsızlık değil, iki farklı ekonomik mantığın aynı devlet içinde
 bulunmasının sonucu olarak kaydeder.
 
@@ -178,8 +176,8 @@ birim bölündü.
 Örüntü dört örnekle sınırlıdır ve bir kural değildir.[^k2] Dört örnek,
 bir eğilimi göstermeye yeter ama sınamaya yetmez.
 
-Atlas bunu böyle yazar.[^k4] Az sayıda örnekten çıkarılan örüntü,
-sınanmış bir iddia değil, sınanacak bir hipotezdir.
+Az sayıda örnekten çıkarılan örüntü,
+sınanmış bir iddia değil, sınanacak bir hipotezdir.[^k4]
 
 ## Meşruiyet kuralı
 
@@ -201,9 +199,9 @@ yürüttü.[^k3] Kendisi ayrı bir unvan kullandı.
 Düzenleme bir zayıflık göstergesi değildir.[^k1] Askerî üstünlük
 tartışmasızdı; sınırlayan şey güç dengesi değil kuralın kendisiydi.
 
-Atlasın bu dosyadan çıkardığı kayıt budur.[^k2] **Bir meşruiyet kuralı,
-onu kuran gücün çöküşünden sonra da bağlayıcı kalabilir ve onu
-çiğneyebilecek olanları da bağlar.**
+**Bir meşruiyet kuralı, onu
+kuran gücün çöküşünden sonra da bağlayıcı kalabilir ve onu çiğneyebilecek olanları da
+bağlar.**[^k2]
 
 ## Kuralın neden sürdüğü
 
@@ -214,7 +212,7 @@ Soy şartını tanımak, aynı geleneği paylaşan bütün bölgelerde
 tanınabilirlik sağlıyordu.[^k4] Kuralı çiğnemek, o tanınırlığı
 kaybetmek anlamına gelirdi.
 
-Bu, kuralı bir kısıt olduğu kadar bir kaynak yapar.[^k2] Atlas iki
+Bu, kuralı bir kısıt olduğu kadar bir kaynak yapar.[^k2] Korpus iki
 işlevi birlikte kaydeder; bir kurala uymanın maliyeti ile getirisi ayrı
 ayrı ölçülmelidir.
 
@@ -228,7 +226,7 @@ Göçebe yönetici kesim ile yerleşik üretici kesim arasındaki ilişki
 gerilimliydi.[^k1] Vergi düzeni, otlak kullanımı ve şehirlerin
 korunması sürekli tartışma konusuydu.
 
-Gerilim, atlasın bozkır dosyasında tanımlanan genel örüntünün bir
+Gerilim, korpusun bozkır dosyasında tanımlanan genel örüntünün bir
 örneğidir.[^k2] Bozkır düzenleri yerleşik bölgeleri fethedebilir ama
 onları yönetmek için farklı bir aygıt kurmak zorundadır.
 
@@ -255,8 +253,8 @@ Adın dile verilmesi, hanlığın kendi edebî üretiminin zenginliğinden
 kaynaklanmaz.[^k1] Ad, sonraki dönemlerde bölgeye ve geleneğe verilen
 genel bir etikettir.
 
-Atlas bu ayrımı ayrıca yazar.[^k2] Bir adın sonradan geniş bir alana
-yayılması, adı taşıyan ilk birimin o alana hâkim olduğunu göstermez.
+Bir adın sonradan geniş bir alana yayılması, adı
+taşıyan ilk birimin o alana hâkim olduğunu göstermez.[^k2]
 
 ## Çöküş
 
@@ -273,14 +271,14 @@ paylaşmıyordu.
 
 ## Kaynak durumu
 
-Bu dosyanın dört künyesinin üçü ansiklopedi maddesidir.[^k1] Birincil
+Bu incelemenin dört künyesinin üçü ansiklopedi maddesidir.[^k1] Birincil
 kaynak künyelenememiştir.
 
 Dönemin birincil kaynakları mevcuttur.[^k4] Farsça ve Arapça
-tarih metinlerinin doğrulanabilir çevrimiçi baskıları bu dosya
+tarih metinlerinin doğrulanabilir çevrimiçi baskıları bu inceleme
 yazıldığında bulunamamıştır.
 
-Eksik, atlasın borç defterine yazılmıştır.[^k2] Dosya, birincil kaynağı
+Eksik, korpusun borç defterine yazılmıştır.[^k2] Dosya, birincil kaynağı
 olmayan makaleler grubundadır.
 
 ## Kapsam dışı
@@ -293,10 +291,9 @@ bölünmeye ve meşruiyet kuralına ilişkin olanı kaydeder; seferlerin
 güzergâhı, süresi ve sonuçları ayrı bir çalışma gerektirir.
 
 Doğu kanadının sonraki yüzyıllardaki tarihi ayrı bir dosya
-gerektirir.[^k4] Bu dosya yazıldığında atlasta bulunmuyordu.
+gerektirir.[^k4] Bu inceleme yazıldığında korpusta bulunmuyordu.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya bölünmenin tek nedene bağlanabileceğini ileri sürmez.[^k2]
 Ekonomik temel farkını, izlenebilir en doğrudan etken olarak kaydeder.
 
@@ -311,8 +308,7 @@ gerektirir ve her dosya kendi bölgesinin kaynak durumuna göre farklı
 ayrıntı düzeyinde yazılmıştır; ayrıntı farkı, önem farkı olarak
 okunmamalıdır.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Paylaşımın çıktığı düzen için
 [Moğol İmparatorluğu](/aktor/mogol-imparatorlugu/), aynı paylaşımdan
 çıkan öteki birimler için [Altın Orda](/aktor/altin-orda/) ve

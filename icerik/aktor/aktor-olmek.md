@@ -18,10 +18,11 @@ ilgili:
   - aktor-maya-uygarligi
   - aktor-teotihuacan
   - kavram-arkeolojik-kanit
-  - kavram-anakronizm
   - aktor-moche
   - kavram-kanit-turu
   - tartisma-iklim-ve-cokus
+baglam:
+  - kavram-anakronizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -63,7 +64,7 @@ onarim_turu: 0
 ## Nerede durduğu
 
 Olmek, Orta Amerika'nın körfez kıyısındaki alçak ve sulak ovada yerleşmiş bir
-düzendir.[^k1] Atlasın bölge şemasında yalnızca Amerika etiketi taşır.
+düzendir.[^k1] Korpusun bölge şemasında yalnızca Amerika etiketi taşır.
 
 Düzen, bölgenin bilinen en erken büyük ölçekli yerleşimlerini kurdu.[^k2]
 Tören merkezleri, yapay höyükler ve anıtsal taş yontular bu yerleşimlerin
@@ -98,8 +99,8 @@ Kazı yoğunluğu bölgeler arasında eşit değildir.[^k3] Bir bölgede daha er
 tarihli bulgu çıkması, o bölgenin gerçekten önce olduğunu değil, orada daha
 çok kazı yapıldığını da gösterebilir.
 
-Atlas bu yöntemsel sorunu ayrıca kaydeder.[^k1] En erken tarih, kazılmış
-alanların en erken tarihidir; kazılmamış alanlar hakkında bir şey söylemez.
+En erken tarih, kazılmış alanların en
+erken tarihidir; kazılmamış alanlar hakkında bir şey söylemez.[^k1]
 
 ## Anıtsal başlar
 
@@ -109,9 +110,8 @@ biri farklı yüz özellikleri taşır ve başlık biçimleri birbirinden ayrıl
 Bireysel farklılık bir bilgidir.[^k3] Standartlaşmış figürler bir tipi
 gösterir; ayırt edici yüzler, belirli kişilerin kaydedildiğini düşündürür.
 
-Atlas bu çıkarımı Teotihuacan dosyasındaki karşıt gözlemle birlikte
-okur.[^k4] Orada bireysel portre yoktu ve bu, kurumsal bir yönetim biçimine
-dayanak yapılmıştı; burada tersi görülür.
+Orada bireysel portre yoktu ve bu, kurumsal bir
+yönetim biçimine dayanak yapılmıştı; burada tersi görülür.[^k4]
 
 ## Taşın nereden geldiği
 
@@ -134,9 +134,8 @@ Tartışma, ana kültür sorusuyla doğrudan bağlantılıdır.[^k1] İşaretler
 yazıysa, bölgedeki yazının kaynağı bu düzen olur ve birinci görüş
 güçlenir.
 
-Atlas iki okumayı da kaydeder ve bir sonuca bağlanmaz.[^k2] Buluntu sayısı
-azdır ve az sayıda örnekten bir sistem çıkarmak, sistemin varlığını
-varsaymayı gerektirir.
+Buluntu sayısı azdır ve az sayıda
+örnekten bir sistem çıkarmak, sistemin varlığını varsaymayı gerektirir.[^k2]
 
 ## Yerleşim düzeni
 
@@ -144,7 +143,7 @@ Düzenin merkezleri, yapay olarak yükseltilmiş platformlar ve düzenlenmiş
 alanlar içeriyordu.[^k1] Yerleşimlerin yönelimi ve iç düzeni, plansız bir
 büyümeyle açıklanamaz.
 
-Planlı düzen, atlasın Teotihuacan dosyasında da kaydedilen çıkarıma
+Planlı düzen, korpusun Teotihuacan dosyasında da kaydedilen çıkarıma
 dayanak verir.[^k4] Bir plana uyulması, planı uygulatan bir otoriteyi
 gösterir.
 
@@ -157,7 +156,7 @@ Buradaki fark ölçektir.[^k2] Bu düzenin merkezleri, sonraki yüzyılların
 Yerleşimler, düzenli olarak taşan nehir ovalarında kuruldu.[^k1] Taşkın,
 toprağı her yıl yeniden verimlendiriyordu.
 
-Aynı mekanizma atlasın Bengal dosyasında da kaydedilmiştir.[^k3] Taşkına
+Aynı mekanizma korpusun Bengal dosyasında da kaydedilmiştir.[^k3] Taşkına
 dayalı tarım, sulama altyapısı gerektirmez ve bu yüzden merkezî yönetim
 zorunluluğu daha zayıftır.
 
@@ -174,8 +173,8 @@ Yayılmanın biçimi tartışmalıdır.[^k1] Ortak bir inanç sisteminin
 yayılması, ticaret yoluyla nesne dolaşımı ve bağımsız gelişme, üç ayrı
 açıklamadır.
 
-Atlas üçünü de kaydeder.[^k2] Aynı figürün iki yerde bulunması, o yerlerin
-aynı inancı paylaştığını göstermez; nesnenin taşındığını gösterir.
+Aynı figürün iki yerde bulunması,
+o yerlerin aynı inancı paylaştığını göstermez; nesnenin taşındığını gösterir.[^k2]
 
 ## Alışverişin kanıtı
 
@@ -187,9 +186,8 @@ Bu, bölgede uzun mesafeli bir alışveriş ağının bulunduğunu gösterir.[^k
 Ağın biçimi — düzenli ticaret mi, armağan değişimi mi, haraç mı — elde
 bulunan kanıtla ayrıştırılamaz.
 
-Atlas ayrımı korur çünkü üç biçimin siyasi sonuçları farklıdır.[^k2] Ticaret
-eşitler arası bir ilişki kurar; haraç bir tabiiyet ilişkisi kurar ve ikisi
-aynı buluntulardan okunamaz.
+Ticaret eşitler arası bir ilişki kurar; haraç bir
+tabiiyet ilişkisi kurar ve ikisi aynı buluntulardan okunamaz.[^k2]
 
 ## Sonun biçimi
 
@@ -201,9 +199,8 @@ Bu, tek bir çöküş olayı yerine bir ağırlık kayması anlamına gelir.[^k2
 ::tartismali[Merkezlerin terk edilmesinde çevresel değişimin payı, iklimin çöküşlerdeki genel rolü tartışmasının bir örneğidir; kanıt türü kesin bir yanıta izin vermez.]{harita=tartisma-iklim-ve-cokus}
 Düzenin sona ermesi ile merkezinin değişmesi ayrı şeylerdir.
 
-Atlas bu ayrımı korur.[^k3] Bir kültürel geleneğin sürmesi ile onu taşıyan
-siyasi birimin sürmesi aynı şey değildir; ikisi ayrı kanıtlarla
-gösterilmelidir.
+Bir kültürel geleneğin sürmesi ile onu taşıyan siyasi
+birimin sürmesi aynı şey değildir; ikisi ayrı kanıtlarla gösterilmelidir.[^k3]
 
 ## Adın kaynağı
 
@@ -211,16 +208,16 @@ Düzenin bugün kullanılan adı, kendi adı değildir.[^k1] Ad, çok sonraki bi
 dönemde aynı bölgede yaşayan bir topluluk için kullanılan bir terimden
 alınmıştır.
 
-Bu, atlasın Amerika dosyalarında tekrar eden bir durumdur.[^k4] Yazı
+Bu, korpusun Amerika dosyalarında tekrar eden bir durumdur.[^k4] Yazı
 bırakmamış düzenlerin adları, onları inceleyenler tarafından ve çoğu zaman
 ilgisiz bir kaynaktan verilir.
 
-Atlas yerleşmiş adı kullanır ve kaynağını burada beyan eder.[^k2] Adın
-seçilmiş bir şey olduğunu görünür kılmak, atlasın genel kuralıdır.
+Adın seçilmiş bir şey olduğunu görünür
+kılmak, korpusun genel kuralıdır.[^k2]
 
 ## Kaynak durumu
 
-Bu dosya dört kaynağa dayanır ve üçü birincildir.[^k2][^k3][^k4] Üç birincil
+Bu inceleme dört kaynağa dayanır ve üçü birincildir.[^k2][^k3][^k4] Üç birincil
 künye, müze katalog kayıtlarıdır ve `nesne` alt türünü taşır.
 
 Anıtsal başlar künyeye alınamamıştır.[^k1] Bulundukları yerde ve bölgesel
@@ -231,30 +228,27 @@ Bu kısıt beyan edilmelidir.[^k3] Dosyanın en çok atıfta bulunduğu eser
 grubu, künyede temsil edilmiyor; künyedeki nesneler daha küçük ölçekli
 buluntulardır.
 
-## Bu dosyanın kapsamadıkları
-
+## Açıkta kalan sorular
 Kazı alanlarının tek tek tarihi ve buluntu listeleri burada işlenmez.[^k1]
 Her biri ayrı dosya gerektirir.
 
-Nesnelerin ikonografik çözümlemesi de kapsam dışıdır.[^k4] Bu dosya
+Nesnelerin ikonografik çözümlemesi de kapsam dışıdır.[^k4] Bu inceleme
 nesneleri kanıt olarak kullanır; içeriklerini yorumlamaz.
 
-Sonraki Orta Amerika uygarlıklarının tarihi burada verilmez.[^k1] Atlasın
+Sonraki Orta Amerika uygarlıklarının tarihi burada verilmez.[^k1] Korpusun
 [Maya uygarlığı](/aktor/maya-uygarligi/) ve
 [Teotihuacan](/aktor/teotihuacan/) dosyaları o dönemleri ele alır.
 
-## Atlastaki yeri
-
-Bu dosya, atlasın Amerika aktör katmanındaki en erken tarihli dosyadır.[^k2]
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun Amerika aktör katmanındaki en erken tarihli dosyadır.[^k2]
 Katmandaki öteki dosyalar en az bin yıl sonrasına aittir.
 
 Dosyanın seçilme gerekçesi kapsamdan çok tartışmadır.[^k1] Ana kültür
 sorusu, bir bölgenin tarihinin tek bir kaynaktan mı yoksa çoklu merkezlerden
 mi anlatılacağını belirler.
 
-Atlas bu tercihte taraf tutmaz ama sorunun kendisini kaydeder.[^k3] Bir
-bölgeyi tek bir kaynaktan anlatmak, atlasın öteki bölgelerde de kaçındığı
-bir anlatım biçimidir.
+Bir bölgeyi tek bir kaynaktan anlatmak, korpusun
+öteki bölgelerde de kaçındığı bir anlatım biçimidir.[^k3]
 
 ## Nesnelerin gömülmesi
 
@@ -266,9 +260,8 @@ Bu davranışın anlamı tartışmalıdır.[^k2] Bir tören uygulaması, bir yö
 değişiminde önceki dönemin eserlerinin devre dışı bırakılması ya da bir
 düşman eylemi olarak okunmuştur.
 
-Atlas üç okumayı da kaydeder ve seçim yapmaz.[^k3] Özenli gömme, rastgele
-bir yıkımı dışlar; geriye kalan iki açıklama aynı bulgudan çıkarılabilir ve
-ayrı kanıt gerektirir.
+Özenli gömme, rastgele bir yıkımı dışlar;
+geriye kalan iki açıklama aynı bulgudan çıkarılabilir ve ayrı kanıt gerektirir.[^k3]
 
 ## Kauçuk ve oyun alanları
 
@@ -293,13 +286,12 @@ Höyük hacmi, kullanılan işgücünü tahmin etmeye izin verir.[^k2] Kişi ba�
 günlük kazı ve taşıma kapasitesi varsayılırsa, toplam iş gününe ulaşılır;
 oradan nüfusa geçmek ise ek varsayımlar gerektirir.
 
-Atlas bu yüzden bu dosyada nüfus rakamı vermez.[^k4] Höyük hacmi ise
-ölçülebilir bir veridir ve karşılaştırma için kullanılabilir. Aynı ölçüt
-atlasın öteki nesne kanıtına dayanan dosyalarında da uygulanmıştır: ölçülen
-şey yapının kendisidir, ondan çıkarılan nüfus değil.[^k2]
+Höyük hacmi ise ölçülebilir bir
+veridir ve karşılaştırma için kullanılabilir.[^k4] Aynı ölçüt korpusun öteki nesne
+kanıtına dayanan dosyalarında da uygulanmıştır: ölçülen şey yapının kendisidir, ondan
+çıkarılan nüfus değil.[^k2]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Tartışmanın öteki tarafındaki uygarlıklar için
 [Maya uygarlığı](/aktor/maya-uygarligi/) ve
 [Teotihuacan](/aktor/teotihuacan/) dosyaları okunmalıdır.[^k1]

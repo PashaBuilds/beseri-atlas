@@ -80,7 +80,7 @@ Yazarın suçlaması belirli bir yere oturur. Kötü yönetimin kaynağı inanç
 farkı değil, görevlilerin uygulamalarıdır;[^k2] metin bu yüzden kralı
 karşısına almaz, ona bir düzeltme önerisi sunar.
 
-## Neden bu dosya önemli
+## Neden bu inceleme önemli
 
 Amerika kıtasının fetih dönemi hakkında bilinenlerin büyük bölümü fetheden
 tarafın kayıtlarından gelir.[^k3] Bu kayıtlar sefer günlükleri, resmî
@@ -90,9 +90,9 @@ Bu metin dengeyi bozar. Yazar bölgenin kendisindendir, yerel dili ve
 İspanyolcayı birlikte kullanır ve olayları kendi ölçütleriyle
 değerlendirir.[^k1][^k2] Bir tanıklık değil, bir iddia sunar.
 
-Atlasın kaynak katmanı bu dosya yazılana kadar Amerika'dan tek bir yerli metin
-içermiyordu.[^k3] Kıtaya bağlanan kaynak dosyalarının tamamı, çok sonra
-yazılmış Avrupa ve Kuzey Amerika kaynaklı iktisat metinleriydi.
+Kıtaya bağlanan kaynak
+dosyalarının tamamı, çok sonra yazılmış Avrupa ve Kuzey Amerika kaynaklı iktisat
+metinleriydi.[^k3]
 
 ## Çizimlerin durumu
 
@@ -100,13 +100,12 @@ Metin dört yüz kadar çizimle birlikte gider ve çizimler süsleme
 değildir.[^k1][^k2] Yazının söyleyemediğini gösterirler: mekânın düzeni,
 kimin kimin üstünde durduğu, hangi aletin kimin elinde olduğu.
 
-Bu, atlasın kaynak dosyalarında seyrek karşılaşılan bir durumdur. Bir
+Bu, korpusun kaynak dosyalarında seyrek karşılaşılan bir durumdur. Bir
 metnin kanıt katmanı yalnızca cümlelerinden ibaret olmayabilir;[^k1] görsel
 düzen de bir iddia taşır ve ayrıca okunması gerekir.
 
-Atlas bu yüzden dosyada çizimleri metnin parçası sayar.[^k2] Metne yapılacak
-atıflarda yalnızca sayfa değil, sayfadaki çizimin de kastedilip
-kastedilmediği belirtilmelidir.
+Metne yapılacak atıflarda yalnızca sayfa değil,
+sayfadaki çizimin de kastedilip kastedilmediği belirtilmelidir.[^k2]
 
 ## Ulaşamamış bir belge
 
@@ -114,7 +113,7 @@ Metnin krala ulaşıp ulaşmadığı bilinmez ve elyazması yüzyıllarca
 kayıptı.[^k3] Bir kütüphane koleksiyonunda bulunması yirminci yüzyılın
 başında gerçekleşti.
 
-Bu durumun atlas açısından iki sonucu vardır. Metin, yazıldığı dönemin siyasi
+Bu durumun korpus açısından iki sonucu vardır. Metin, yazıldığı dönemin siyasi
 tartışmasına katılmamıştır; dolayısıyla dönemin gidişatı üzerinde bir
 etkisi olduğu ileri sürülemez.[^k3]
 
@@ -124,20 +123,19 @@ durur. Kayıp olması, kaydı bozulmaktan korumuştur.
 
 ## Kapsam dışı
 
-Bu dosya metnin ne olduğunu ve atlasta ne işe yaradığını kaydeder; bölüm
+Bu inceleme metnin ne olduğunu ve korpusta ne işe yaradığını kaydeder; bölüm
 bölüm içeriğini vermez.[^k1] Metnin kendisi kaynakta erişilebilir
 durumdadır.
 
 Yazarın hayatı, soy iddiası ve bu iddianın doğruluğu burada
 işlenmez.[^k3] Metnin dil kullanımı ve iki dilli yapısı da ayrı bir dosya
-gerektirir; bu dosya yazıldığında atlasta bulunmuyordu.
+gerektirir; bu inceleme yazıldığında korpusta bulunmuyordu.
 
 Metnin verdiği yönetim bilgilerinin başka kaynaklarla karşılaştırılması da
 kapsam dışıdır.[^k2] Böyle bir karşılaştırma, kıtanın kaynak katmanı
 genişledikçe yapılabilir hale gelecektir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Metnin anlattığı fetih öncesi düzen için
 [İnka İmparatorluğu](/aktor/inka-imparatorlugu/), fethin nasıl adlandırılacağı
 sorusu için [Keşif mi istila mı](/tartisma/kesif-mi-istila-mi/) dosyaları

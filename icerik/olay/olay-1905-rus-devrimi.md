@@ -45,7 +45,7 @@ onarim_turu: 0
 
 Bu yılın en somut sonucu bir rejim tanımının değişmesidir. Aynı devlet için
 kaydedilen yönetim biçimi 1721–1906 arasında üniter mutlak monarşi, 1906–1917
-arasında üniter parlamenter yarı anayasal monarşidir.[^k2] Bu dosya, o **geçiş
+arasında üniter parlamenter yarı anayasal monarşidir.[^k2] Bu inceleme, o **geçiş
 yılını ve bilançosunu** ele alır.
 
 ## Bilanço üç ayrı satırda verilir
@@ -56,11 +56,11 @@ Romanya'ya teslim olan bir savaş gemisi; ayrıca devrimciler tarafından öldü
 17.000 sivil.[^k1]
 
 ::tartismali[1905'in insan bedeli, kaynağın kendisinde üç ayrı taraf satırında
-verilir ve toplanmaz; bu dosya da toplamaz ve tek bir sayı
+verilir ve toplanmaz; bu inceleme de toplamaz ve tek bir sayı
 sunmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Kaynağın devrimciler tarafından öldürülen sivilleri ayrı bir kalem olarak
-kaydetmesi[^k1] dikkat çekicidir. Atlas bu ayrımı korur ve kalemleri
+kaydetmesi[^k1] dikkat çekicidir. Korpus bu ayrımı korur ve kalemleri
 birleştirmez.
 
 ## Olayların dizisi
@@ -99,8 +99,7 @@ Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1914'te yakl
 1,82 milyardır.[^k3] Rusya'nın kendi nüfusuna dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kaynağın kronolojisinde sayılan olayların tek tek seyri,[^k1] grev dalgaları,
 meclis seçimleri ve sonrasındaki bastırma süreci burada ayrı başlıklar altında ele
 alınmamıştır. Dönemin bütünü

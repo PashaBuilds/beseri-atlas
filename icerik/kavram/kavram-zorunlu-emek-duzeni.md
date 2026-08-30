@@ -65,8 +65,8 @@ mülk değildir ama çalışmayı reddedemez.
 Ara biçimler farklı adlar taşır.[^k2] Kıtanın kuzeyinde ve güneyinde
 farklı düzenlemeler farklı adlarla kuruldu.
 
-Atlas bu adları bir arada tutar.[^k3] Ortak nokta, çalışmanın hukuki
-olarak zorunlu ama biçimsel olarak kölelik dışı sayılmasıdır.
+Ortak nokta, çalışmanın hukuki olarak
+zorunlu ama biçimsel olarak kölelik dışı sayılmasıdır.[^k3]
 
 ## Birinci biçim: tahsis
 
@@ -77,9 +77,8 @@ haktır.
 Karşılığında yerleşimciye iki yükümlülük verilir.[^k3] Topluluğu
 korumak ve dinî eğitimini sağlamak.
 
-Atlas bu karşılıklılığı ayrıca kaydeder.[^k2] Yükümlülüğün metinde
-bulunması, yerine getirildiğini göstermez; iki veri ayrı ayrı
-izlenmelidir.
+Yükümlülüğün metinde bulunması, yerine
+getirildiğini göstermez; iki veri ayrı ayrı izlenmelidir.[^k2]
 
 ## İkinci biçim: dönüşümlü angarya
 
@@ -90,9 +89,9 @@ kalır.
 Bu biçim, fetihten önceki bir uygulamanın devamı olarak
 sunuldu.[^k2] Ad ve çerçeve korundu, amaç değiştirildi.
 
-Atlas bu devralmayı ölçüm sayar.[^k3] **Yerleşik bir yükümlülüğün adını
-koruyup içeriğini değiştirmek, yeni bir yükümlülük kurmaktan daha az
-direnç doğurur.**
+**Yerleşik bir yükümlülüğün adını
+koruyup içeriğini değiştirmek, yeni bir yükümlülük kurmaktan daha az direnç
+doğurur.**[^k3]
 
 ## Adın işlevi
 
@@ -102,8 +101,8 @@ dönemin hukuki ve dinî tartışmasında ayrı bir konuma sahipti.
 Ara biçim, bu tartışmayı doğrudan karşılamadan aynı emeği
 sağlıyordu.[^k3] Hukuki konum değişince gerekçe yükü de değişir.
 
-Atlas bu işlevi ayrıca kaydeder.[^k2] Bir düzene verilen ad, o düzenin
-hangi itirazlara cevap vermek zorunda olduğunu belirler.
+Bir düzene verilen ad, o düzenin
+hangi itirazlara cevap vermek zorunda olduğunu belirler.[^k2]
 
 ## Ölçüt
 
@@ -125,8 +124,8 @@ rakımdaki büyük gümüş ve cıva madenleri bu düzenle işletildi.
 Madencilik, ölüm oranı yüksek bir iştir.[^k1] Dönüşümlü düzen, aynı
 topluluktan sürekli yeni kişi gelmesini sağlar.
 
-Atlas bu yapıyı ayrıca kaydeder.[^k3] Dönüşümlü bir yükümlülük,
-bireysel riski dağıtırken topluluk düzeyinde kaybı sürekli kılar.
+Dönüşümlü bir yükümlülük, bireysel riski
+dağıtırken topluluk düzeyinde kaybı sürekli kılar.[^k3]
 
 ## Nüfus üzerindeki etkisi
 
@@ -136,8 +135,8 @@ topluluklarını terk edenler oldu.
 Terk, yükümlülüğü kalanların üzerine yığdı.[^k1] Kota topluluk başına
 belirlendiği için, azalan nüfus kişi başına yükü artırdı.
 
-Atlas bu döngüyü ayrıca kaydeder.[^k3] Topluluk başına sabit bir
-yükümlülük, nüfus azaldıkça kendiliğinden ağırlaşır.
+Topluluk başına sabit bir yükümlülük, nüfus
+azaldıkça kendiliğinden ağırlaşır.[^k3]
 
 ## Kaydın tarafı
 
@@ -145,13 +144,12 @@ Düzenin yazılı kaydının büyük bölümü yönetim tarafından tutuldu.[^k1
 Kota listeleri, vergi kayıtları ve tahsis belgeleri aynı elden
 çıkar.
 
-Bir istisna vardır ve atlas bunu ayrıca künyeler.[^k2] Yerli bir
+Bir istisna vardır ve korpus bunu ayrıca künyeler.[^k2] Yerli bir
 yazarın hazırladığı çizimli el yazması, düzeni tabi kılınan tarafın
 konumundan anlatır.
 
-Atlas iki kaydı yan yana kullanır.[^k3] Aynı uygulamanın iki kayıtta
-nasıl adlandırıldığı, adlandırmanın kendisini bir veri hâline
-getirir.
+Aynı uygulamanın iki kayıtta nasıl
+adlandırıldığı, adlandırmanın kendisini bir veri hâline getirir.[^k3]
 
 ## Direnişin biçimleri
 
@@ -161,9 +159,9 @@ başvuru ve kota pazarlığı daha sık görülen biçimlerdir.
 Hukuki başvuru şaşırtıcı ölçüde yaygındı.[^k2] Topluluklar, düzenin
 kendi kurallarını kullanarak yükümlülüklerini azaltmaya çalıştı.
 
-Atlas bu biçimi ayrıca kaydeder.[^k3] Bir düzenin kurallarını
-kullanarak itiraz etmek, düzeni kabul etmek anlamına gelmez;
-elde bulunan tek aracı kullanmak anlamına gelebilir.
+Bir düzenin kurallarını kullanarak itiraz etmek,
+düzeni kabul etmek anlamına gelmez; elde bulunan tek aracı kullanmak anlamına
+gelebilir.[^k3]
 
 ## Diğer bölgelerdeki karşılıkları
 
@@ -173,9 +171,8 @@ taşıma, zorunlu ekim ve angarya vergisi bunlar arasındadır.
 Ortak nokta üç ölçütte görünür.[^k3] Reddin mümkün olmaması,
 satılabilir olmama ve karşılığın karşı tarafça belirlenmesi.
 
-Atlas bu ortaklığı bir aile benzerliği sayar.[^k2] Aynı üç ölçütü
-karşılayan düzenler, adları farklı olsa da aynı soruyla
-incelenir.
+Aynı üç ölçütü karşılayan düzenler, adları
+farklı olsa da aynı soruyla incelenir.[^k2]
 
 ## Sona ermesi
 
@@ -185,11 +182,10 @@ yasayla kaldırıldı, bazıları uygulanmaz hâle geldi.
 Kaldırılma, emek sorununu ortadan kaldırmadı.[^k3] Yerine borç
 bağımlılığı ve kiracılık gibi başka bağlama biçimleri geçti.
 
-Atlas bu süreklilik sorusunu açık tutar.[^k2] Bir zorlama biçiminin
-kaldırılması, zorlamanın sona erdiğini göstermez.
+Bir zorlama biçiminin kaldırılması,
+zorlamanın sona erdiğini göstermez.[^k2]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Düzenin dönemindeki en ayrıntılı eleştirisi için
 [Bartolomé de las Casas](/dusunur/las-casas/) dosyası okunmalıdır.[^k1]
 

@@ -68,7 +68,7 @@ Büyük Britanya Krallığı.[^k1] Eser 9 Mart 1776'da iki cilt hâlinde yayıml
 birinci ciltte I-III, ikinci ciltte IV ve V. kitaplar yer alır.[^k1]
 
 Bir eserin iki cilt hâlinde ve kitapları bölüştürülerek yayımlanması,[^k1]
-atlasın şu kuralının dayanağıdır: bu dosyada esere yapılan atıflar, cilt ve kitap
+korpusun şu kuralının dayanağıdır: bu incelemede esere yapılan atıflar, cilt ve kitap
 numarasıyla birlikte verilmelidir.
 
 ## Kitaplar konu başlıklarıyla adlandırılmıştır
@@ -84,8 +84,8 @@ Aydınlanması ve İskoç Tarım Devrimi sırasında yayımlandığını ve Karl
 yazarları etkilediğini yazar; Alexander Hamilton'ın da kısmen bu eserden
 etkilendiği kaydedilir.[^k1]
 
-Kitap adlarının doğrudan konu cümleleri olması,[^k1] atlasın şu kuralının
-dayanağıdır: bu dosyada esere atfedilen her önerme, hangi kitaptan geldiği
+Kitap adlarının doğrudan konu cümleleri olması,[^k1] korpusun şu kuralının
+dayanağıdır: bu incelemede esere atfedilen her önerme, hangi kitaptan geldiği
 belirtilerek aktarılır.
 
 ## Uzun dönemli büyüme ayrı bir alt başlıktır
@@ -93,7 +93,7 @@ belirtilerek aktarılır.
 Kaynak, üçüncü kitabın altında uzun dönemli iktisadi büyüme ile tarım alt
 başlıklarını tutar.[^k1]
 
-Bir iktisat metninin uzun dönemi ayrı bir başlık olarak işlemesi,[^k1] atlasın
+Bir iktisat metninin uzun dönemi ayrı bir başlık olarak işlemesi,[^k1] korpusun
 uzun dönem kavramını kavram katmanında ayrı tutmasıyla aynı ayrımı yapar; o
 kavram [Longue durée](/kavram/longue-duree/) dosyasında ele alınıyor.
 
@@ -104,7 +104,7 @@ alışılmadık bir sürümünü geliştirdiğini yazar ve sempati anlatısıyla
 kitabı işler.[^k2]
 
 Aynı yazarın iki eserinin iki ayrı ansiklopedi maddesinde işlenmesi,[^k1][^k2]
-atlasın kaynak dosyalarını neden eser düzeyinde tuttuğunun dayanağıdır. Yazar
+korpusun kaynak dosyalarını neden eser düzeyinde tuttuğunun dayanağıdır. Yazar
 [Adam Smith](/dusunur/smith/) dosyasında ele alınıyor.
 
 ## Karşısına aldığı politika geleneği
@@ -113,16 +113,15 @@ Eserin karşısına aldığı politika geleneği için tutulan kayıt, o gelene�
 bölümleri arasında savaşlar ve emperyalizm ile merkantilizmin sonunu sayar.[^k3]
 O gelenek [Merkantilizm](/kavram/merkantilizm/) dosyasında ele alınıyor.
 
-Atlas eserin bu geleneği çürüttüğü yönünde bir hüküm vermez; kullanılan kaynak
+Korpus eserin bu geleneği çürüttüğü yönünde bir hüküm vermez; kullanılan kaynak
 bölümleri böyle bir sonuç kaydetmez.[^k1][^k3]
 
-## Okuma yönlendirmesi
-
-Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Eserin bölümlerine
+## Okumayı sürdürmek için
+Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Eserin bölümlerine
 yapılacak her atıf kitap ve bölüm numarasıyla verilmelidir; hangi baskının ve
 hangi çevirinin kullanıldığı her aktarımda belirtilmelidir.
 
-Bu dosya bir zamanlar eserin metnine bağlanmadığını, kullanılan kaynağın eser
+Bu inceleme bir zamanlar eserin metnine bağlanmadığını, kullanılan kaynağın eser
 hakkındaki bir ansiklopedi maddesi olduğunu yazıyordu. Beyan dürüsttü ama durum
-kusurluydu: eser kamu malıyken atlas onun yerine onun hakkında yazılmış maddeyi
+kusurluydu: eser kamu malıyken korpus onun yerine onun hakkında yazılmış maddeyi
 okuyordu. Bağ artık kurulmuştur.

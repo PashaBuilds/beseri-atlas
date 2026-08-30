@@ -17,17 +17,18 @@ ilgili:
   - dusunur-smith
   - dusunur-tocqueville
   - dusunur-marx
-  - dusunur-ambedkar
-  - aktor-ingiliz-doguhindistan-sirketi
-  - aktor-britanya-imparatorlugu
-  - kavram-emperyalizm
   - kavram-faydacilik
   - kavram-zarar-ilkesi
-  - kavram-toplumsal-cinsiyet-duzeni
   - dusunur-stephen
   - dusunur-bentham
   - olay-morant-bay-ayaklanmasi
   - dusunur-harriet-taylor
+baglam:
+  - dusunur-ambedkar
+  - aktor-ingiliz-doguhindistan-sirketi
+  - aktor-britanya-imparatorlugu
+  - kavram-emperyalizm
+  - kavram-toplumsal-cinsiyet-duzeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -81,12 +81,12 @@ onarim_turu: 0
 
 ## Ne olduğu
 
-Bu dosya bir tarihsel olguyu değil, atlasın kendi dosyalarını yazarken
+Bu inceleme bir tarihsel olguyu değil, korpusun kendi dosyalarını yazarken
 tekrar tekrar karşılaştığı bir kısıtı tanımlar.[^k1] Kısıt şudur: elde
 bulunan kanıtın türü, o konuda sorulabilecek soruları da belirler.
 
-İfade bir yöntem kuralı gibi görünür ama bir gözlemdir.[^k3] Atlasın
-yedi ayrı bölge dosyasında aynı örüntü ölçülmüş ve bu dosya o ölçümü
+İfade bir yöntem kuralı gibi görünür ama bir gözlemdir.[^k3] Korpusun
+yedi ayrı bölge dosyasında aynı örüntü ölçülmüş ve bu inceleme o ölçümü
 toplar.
 
 Sonucu doğrudan okuma pratiğini etkiler.[^k2] Bir bölge hakkında olay
@@ -95,9 +95,8 @@ kaydedilmediğini gösterir.
 
 ## Dört kanıt türü ve cevapladıkları
 
-Atlasın kullandığı kanıt türleri dörde ayrılır ve her biri farklı bir soru
-kümesine cevap verir.[^k1] Ayrım, atlasın künye şemasındaki
-`birincil_tur` alanında da karşılık bulur.
+Ayrım, korpusun künye şemasındaki `birincil_tur`
+alanında da karşılık bulur.[^k1]
 
 **Çağdaş yazılı kayıt** olay sırası, tarih ve karar sorularına cevap
 verir.[^k1] Kim ne zaman ne yaptı sorusunu yalnızca bu tür
@@ -118,12 +117,12 @@ verir.[^k2] Gözlemcinin neyi kayda değer bulduğu, kaydın kapsamını da
 belirler ve bu bir kısıt değil bir bilgidir.
 
 Dördü birbirinin yerine geçmez.[^k1] Bir türü ötekinin eksik biçimi saymak,
-atlasın kaçındığı en yaygın hatadır; nesne kanıtı yazının ilkel hâli
+korpusun kaçındığı en yaygın hatadır; nesne kanıtı yazının ilkel hâli
 değildir.
 
 ## Yazılı kaydın kendi içinde bölünmesi
 
-Dört türden birincisi, atlasın Kuş dosyasında yazıldıktan sonra ikiye
+Dört türden birincisi, korpusun Kuş dosyasında yazıldıktan sonra ikiye
 ayrılması gereken bir tür olarak görüldü.[^k1] Ayrım, yazının
 okunabilirliğine dayanır.
 
@@ -145,13 +144,12 @@ Bu, bölge karşılaştırmalarını doğrudan etkiler.[^k1] Bir bölge hakkınd
 "yazılı kayıt var" demek, o bölgenin olay tarihinin yazılabileceği
 anlamına gelmez.
 
-Atlas bu nedenle künyelerinde okunabilirliği ayrıca
-belirtir.[^k2] Çözülmemiş bir yazı sistemine ait metinler, birincil
-kaynak olarak künyelenmez; onlara ilişkin kazı raporları künyelenir.
+Çözülmemiş bir yazı sistemine ait metinler,
+birincil kaynak olarak künyelenmez; onlara ilişkin kazı raporları künyelenir.[^k2]
 
 ## Okunabilir kaydın kendi içinde bölünmesi
 
-Okunabilir yazılı kayıt da tek bir tür değildir.[^k1] Atlasın Kırgızlar
+Okunabilir yazılı kayıt da tek bir tür değildir.[^k1] Korpusun Kırgızlar
 dosyasında üçüncü bir ayrım ölçüldü: metnin uzunluğu ve amacı.
 
 Aynı yazı sistemiyle yazılmış iki metin kümesi bambaşka soruları
@@ -171,13 +169,12 @@ Bu, künyeleme pratiğini doğrudan etkiler.[^k3] Bir bölge için yazılı
 kaynak bulunduğunu söylemek, o bölgenin olay tarihinin yazılabileceği
 anlamına gelmez; metnin türü ayrıca sorulmalıdır.
 
-Atlas bu nedenle künyelerinde metin türünü belirtir.[^k2] Yazıt, ferman,
-vakayiname ve mektup farklı soruları cevaplar ve aynı torbaya
-konulamaz.
+Yazıt, ferman, vakayiname ve
+mektup farklı soruları cevaplar ve aynı torbaya konulamaz.[^k2]
 
-## Atlasın kendi ölçümü
+## Korpusun kendi ölçümü
 
-Bu dosya, atlasın yedi dosyasında ölçülen sonucu toplar.[^k3] Moche,
+Bu inceleme, korpusun yedi dosyasında ölçülen sonucu toplar.[^k3] Moche,
 Teotihuacan, Olmek, Benin, Maori, Avustralya ve Kuşan dosyalarında aynı
 örüntü görüldü.
 
@@ -192,7 +189,7 @@ hâline getirir.
 
 ## Yanlılığın iki biçimi
 
-Kanıt dağılımını bozan iki mekanizma atlasta ayrı ayrı ölçüldü.[^k1]
+Kanıt dağılımını bozan iki mekanizma korpusta ayrı ayrı ölçüldü.[^k1]
 Birincisi dijital erişim eşitsizliğidir: aynı dönemin bazı bölge metinleri
 tek aramada bulunurken bazıları hiç bulunamadı.
 
@@ -213,30 +210,28 @@ Aynı ifade metin kaynakları için de kurulabilir.[^k1] En erken kayıt,
 korunmuş kayıtların en erkenidir; korunmamış olanlar hakkında bir şey
 söylemez.
 
-Atlas bu iki cümleyi öncelik iddialarının yanına yazar.[^k2] Bir unsurun
-"ilk kez şurada ortaya çıktığı" iddiası, bu kısıt belirtilmeden
-aktarılmaz.
+Bir unsurun "ilk kez şurada ortaya
+çıktığı" iddiası, bu kısıt belirtilmeden aktarılmaz.[^k2]
 
 ## Uygulamanın bedeli
 
-Bu tutumun bir bedeli vardır ve kaydedilmelidir.[^k1] Atlasın dosyaları,
+Bu tutumun bir bedeli vardır ve kaydedilmelidir.[^k1] Korpusun dosyaları,
 sürekli olarak kanıtın ne söyleyip ne söylemediğini yazdığı için okuma
 akıcılığını düşürür.
 
 Alternatif, kısıtı belirtmeden yazmaktır.[^k2] Bu, metni akıcı kılar ve
 okura kanıtın gerçekte olduğundan güçlü olduğu izlenimini verir.
 
-Atlas birinciyi seçer.[^k3] Tercihin gerekçesi şudur: bir okur, bir iddianın
-neye dayandığını bilmeden onu değerlendiremez ve değerlendirilemeyen bir
-iddia bir kayıt değil bir beyandır.
+Tercihin gerekçesi şudur: bir okur, bir
+iddianın neye dayandığını bilmeden onu değerlendiremez ve değerlendirilemeyen bir iddia
+bir kayıt değil bir beyandır.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya bir yöntem tarifi değildir ve bir yöntem önermez.[^k1] Kanıt
 türlerinin nasıl birleştirileceği, her konuda ayrı bir karardır.
 
-Kanıt türlerinin listesi de kapalı değildir.[^k3] Atlasın şeması altı alt tür
-tanır ve bunlar atlasın bugüne kadar karşılaştıklarıdır; yenileri
+Kanıt türlerinin listesi de kapalı değildir.[^k3] Korpusun şeması altı alt tür
+tanır ve bunlar korpusun bugüne kadar karşılaştıklarıdır; yenileri
 eklenebilir, biri bu yıl eklendi ve birinci tür bu yıl kendi içinde
 ikiye ayrıldı.
 
@@ -245,8 +240,7 @@ Farklı türlerin ağırlıklandırılması burada işlenmez.[^k2] İki kanıt
 [Sözlü gelenek kaynak sayılır mı](/tartisma/sozlu-gelenek-kaynak-mi/)
 dosyasında tartışılır.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Nesne ve kazı kanıtının ayrıntısı için
 [Arkeolojik kanıt](/kavram/arkeolojik-kanit/), kaynakların nasıl sınanacağı
 için [Kaynak eleştirisi](/kavram/kaynak-elestirisi/) dosyaları

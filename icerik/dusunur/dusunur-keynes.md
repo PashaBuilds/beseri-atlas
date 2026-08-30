@@ -16,17 +16,18 @@ etiketler: [keynes, toplam-talep, genel-teori, carpan, hayvani-ruhlar, versaille
 ilgili:
   - olay-buyuk-buhran
   - olay-bretton-woods
+  - dusunur-smith
+  - tartisma-1929-krizinin-nedeni
+  - kaynak-keynes-genel-teori
+baglam:
   - olay-versailles-antlasmasi
   - olay-birinci-dunya-savasi
   - olay-2008-finansal-krizi
-  - dusunur-smith
   - dusunur-malthus
   - dusunur-marx
   - dusunur-polanyi
   - kavram-kapitalizm
   - kavram-para
-  - tartisma-1929-krizinin-nedeni
-  - kaynak-keynes-genel-teori
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -267,7 +268,7 @@ ayrıntılı biçimde eleştirmişti.[^k1] İki adamın ilişkisi bir cephe hatt
 değildi; Wikipedia'nın aktardığı mektupta Keynes, *The Road to Serfdom*'u
 okuduktan sonra Hayek'e "Morally and philosophically I find myself in
 agreement with virtually the whole of it." diye yazar; mektubun kendi metni
-bu dosya için görülmedi.[^k1]
+bu inceleme için görülmedi.[^k1]
 
 Hayek'in en açık ifadesi 1974 Nobel ödül dersindedir. Orada iktisatçıların
 tavsiye ettiği politikaların hızlanan enflasyona yol açtığını, meslek

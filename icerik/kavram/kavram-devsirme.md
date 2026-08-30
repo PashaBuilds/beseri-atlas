@@ -14,8 +14,9 @@ eksen: [siyasi, askeri, dini]
 guven_geneli: tartismali
 etiketler: [osmanli, devsirme, kapikulu, yeniceri, acemi-ocagi, pencik]
 ilgili:
-  - aktor-osmanli-imparatorlugu
   - tartisma-osmanli-gerileme-tezi
+baglam:
+  - aktor-osmanli-imparatorlugu
   - kavram-kolelik
   - kavram-patrimonyalizm
   - kavram-timar

@@ -55,7 +55,7 @@ onarim_turu: 0
 
 Kaynak onun başlıca eserlerini künyeleriyle verir: *Amerika'da Demokrasi* (1835)
 ve *Eski Rejim ve Devrim* (1856); başlıca ilgi alanları tarih, siyaset felsefesi
-ve toplumbilim olarak sıralanır.[^k1] Bu dosya, düşüncesini değil **kaynağın
+ve toplumbilim olarak sıralanır.[^k1] Bu inceleme, düşüncesini değil **kaynağın
 bölüm listesini** ele alır.
 
 ## Bölüm listesi tek bir konuda toplanmaz
@@ -67,7 +67,7 @@ topluluklar, asimilasyon politikaları, gelecekteki küresel güçler olarak Bir
 Devletler ve Rusya, ve sivil jüri hizmeti.[^k1]
 
 Sekiz alt başlığın aynı eser altında sıralanması,[^k1] bir kitabın tek bir teze
-indirgenemeyeceğini gösterir; atlas bu dosyada da tek bir tez cümlesi kurmaz.
+indirgenemeyeceğini gösterir; korpus bu incelemede da tek bir tez cümlesi kurmaz.
 
 ## Aynı yazar için ayrı bir Cezayir bölümü vardır
 
@@ -77,7 +77,7 @@ istilasına muhalefeti ve 1847 tarihli Cezayir Raporu alt başlıklarını
 tutar.[^k1]
 
 Aynı yazarın demokrasi bölümleriyle sömürge bölümlerinin aynı maddede yan yana
-durması,[^k1] atlasın bir düşünürü tek bir konumla özetlememesinin nedenidir. Bu
+durması,[^k1] korpusun bir düşünürü tek bir konumla özetlememesinin nedenidir. Bu
 dosya iki bölümü de kaydeder ve aralarında bir tutarlılık ya da tutarsızlık hükmü
 vermez.
 
@@ -87,7 +87,7 @@ Kaynak, onun siyasi konumu için bir kaynaktan aktarımla muhafazakâr liberal
 nitelemesini taşır ve aynı yerde liberal muhafazakâr ile karşılaştırıldığını
 kaydeder.[^k1]
 
-İki sıfatın sırasının değişmesiyle farklı bir konum belirtilmesi,[^k1] atlasın
+İki sıfatın sırasının değişmesiyle farklı bir konum belirtilmesi,[^k1] korpusun
 etiket alanlarını neden kaynaktan aktarılan biçimiyle tuttuğunu gösterir.
 
 ## Kavramları da adlandırılmıştır
@@ -105,12 +105,11 @@ Bir önceki kuşağın Fransız siyaset düşünürü için tutulan kayıt, onun
 despot olmayan her yönetim için sürekli bir tehlike saydığını yazar.[^k2] O
 düşünür [Montesquieu](/dusunur/montesquieu/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Hayatı, siyasi kariyeri, seyahatleri ve eserlerin içeriği burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]
 
 ## Eserine bağ
 
-Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Amerika da Demokrasi*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+Bu inceleme düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Amerika da Demokrasi*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
 verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

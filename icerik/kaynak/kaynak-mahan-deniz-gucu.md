@@ -72,8 +72,8 @@ Washington'da ölmüş biri olarak verir.[^k1]
 Kaynak, etki bölümünün altında beş alt başlık tutar: Almanya, Birleşik Krallık,
 Fransa, Japonya ve Birleşik Devletler.[^k1]
 
-Bir kuramın etkisinin beş ayrı ülke başlığında işlenmesi,[^k1] atlasın şu
-kuralının dayanağıdır: bu dosyada esere atfedilen etki cümleleri, hangi ülke
+Bir kuramın etkisinin beş ayrı ülke başlığında işlenmesi,[^k1] korpusun şu
+kuralının dayanağıdır: bu incelemede esere atfedilen etki cümleleri, hangi ülke
 için söylendiği belirtilmeden kurulmaz.
 
 ## Kaynak görüşlerin sınırına da başlık ayırır
@@ -82,7 +82,7 @@ Kaynak, stratejik görüşlerinin kökeni ve sınırlaması diye ayrı bir böl�
 tutar.[^k1]
 
 Bir kuramcının görüşlerinin sınırının bir ansiklopedi maddesinde kendi başlığını
-taşıması,[^k1] atlasın her dosyada bu dosyanın sınırı bölümü tutmasının
+taşıması,[^k1] korpusun her dosyada bu incelemenin sınırı bölümü tutmasının
 karşılığıdır.
 
 ## Karşıt tez aynı on yıllardadır
@@ -91,7 +91,7 @@ Karşıt tezin yazarı için tutulan kayıt, onun kuramını 1904'te bir bildiri
 formüle ettiğini yazar.[^k2] O yazar
 [Halford Mackinder](/dusunur/mackinder/) dosyasında ele alınıyor.
 
-Kara gücü ile deniz gücü tezlerinin aynı on yıllara düşmesi,[^k1][^k2] atlasın
+Kara gücü ile deniz gücü tezlerinin aynı on yıllara düşmesi,[^k1][^k2] korpusun
 karşıt tezleri aynı dönem dosyasına bağlamasının dayanağıdır.
 
 ## Savaş üzerine önceki yazar
@@ -101,14 +101,13 @@ arasında savaş ilkelerini sayar.[^k3] O yazar
 [Machiavelli](/dusunur/machiavelli/) dosyasında, eserin yazarı ise
 [Alfred Thayer Mahan](/dusunur/mahan/) dosyasında ele alınıyor.
 
-## Okuma yönlendirmesi
-
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
+## Okumayı sürdürmek için
+Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
 ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi baskının kullanıldığı her
 aktarımda belirtilmelidir.
 
 ## Metne bağ
 
-Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
+Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
 atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
 çevirinin kullanıldığı her aktarımda belirtilmelidir.

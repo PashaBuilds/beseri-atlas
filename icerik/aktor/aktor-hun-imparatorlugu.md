@@ -54,7 +54,7 @@ Bir siyasi yapının bütün tarihinin tek bir hükümdarın adıyla bölümlenm
 kayıt tabanının o kişi etrafında yoğunlaştığını gösterir: öncesi ve sonrası, ona
 göre tanımlanır.
 
-Atlas bunu bir merkezîlik kanıtı olarak değil bir kayıt özelliği olarak
+Korpus bunu bir merkezîlik kanıtı olarak değil bir kayıt özelliği olarak
 kaydeder.
 
 ## Ekonomi bölümü dört başlıklıdır
@@ -70,7 +70,7 @@ başlıklar taşıması,[^k1] onu yalnızca askerî bir güç olarak okumayı zo
 Kaynak, fiziksel görünüm ve genetiği de ayrı başlıklar olarak ele alır.[^k1]
 
 Bir halkın referans maddesinde bu iki başlığın bulunması,[^k1] kimlik sorusunun
-yazılı kayıt dışındaki yöntemlerle de araştırıldığını gösterir; atlas bu
+yazılı kayıt dışındaki yöntemlerle de araştırıldığını gösterir; korpus bu
 araştırmaların sonuçları hakkında bir hüküm taşımaz.
 
 ## Tetiklediği sayılan süreç
@@ -80,10 +80,10 @@ Avrupa'ya girmesi sayılır.[^k2] Süreç
 [Kavimler Göçü](/olay/kavimler-gocu/) dosyasında ele alınıyor.
 
 ::tartismali[Hunların Avrupa'ya girişinin Batı Roma'nın çöküşündeki payı açık bir
-tartışmadır; bu dosya bir neden ilan
+tartışmadır; bu inceleme bir neden ilan
 etmez.]{harita=tartisma-romanin-cokus-nedeni}
 
-Atlas bu atfın kendisini bir kayıt olarak aktarır, bir neden olarak onaylamaz;
+Korpus bu atfın kendisini bir kayıt olarak aktarır, bir neden olarak onaylamaz;
 rakip açıklamalar
 [Roma neden çöktü?](/tartisma/romanin-cokus-nedeni/) haritasında ele alınıyor.
 
@@ -94,8 +94,7 @@ yaklaşık 271,6 milyon olarak verilir.[^k3] Konfederasyonun kendi nüfusuna dai
 ölçüm kullanılan kaynaklarda bulunmadığı için bu değerler içindeki pay burada
 hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kökenleri, askerî örgütlenmesi, Roma ile savaşları ve dağılma süreci burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1] Dönemin bütünü [200-650](/donem/05/) dosyasında ele alınıyor.

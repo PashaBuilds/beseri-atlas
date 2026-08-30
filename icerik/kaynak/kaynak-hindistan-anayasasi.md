@@ -71,7 +71,7 @@ organlarını tanımlar ve federal yapıyı kurar.
 Belge, yazılı anayasalar arasında en uzunlarındandır.[^k2] Uzunluk, çok
 sayıda konunun anayasa düzeyinde düzenlenmesinden gelir.
 
-Bu dosyanın asıl konusu kapsam maddeleridir.[^k1] Metin, bir toplumsal
+Bu incelemenin asıl konusu kapsam maddeleridir.[^k1] Metin, bir toplumsal
 ayrım biçimini adıyla anarak yasaklar ve aynı zamanda düzeltici
 düzenlemelere izin veren maddeler içerir.
 
@@ -80,7 +80,7 @@ düzenlemelere izin veren maddeler içerir.
 Metnin ayırt edici yanı, yasakladığı ayrımı adıyla anmasıdır.[^k1]
 Genel bir eşitlik ilanıyla yetinilmez.
 
-Bu, atlasın hak kapsamı dizisinde yeni bir biçimdir.[^k3] Dizide üç
+Bu, korpusun hak kapsamı dizisinde yeni bir biçimdir.[^k3] Dizide üç
 biçim ölçülmüştü: eşitsizliği açıkça yazmak, kapsamı sessizce
 daraltmak, kapsamı açıkça genişletmek.
 
@@ -108,9 +108,9 @@ içerir.[^k1] Yasama ve idare organlarında ayrılan yer oranları da
 Bu düzenlemeler, genel eşitlik hükmüyle çelişir görünür.[^k3] Metin
 çelişkiyi bir istisna maddesiyle çözer.
 
-Atlas yapıyı ayrıca kaydeder.[^k2] Bir metnin hem eşit muameleyi hem
-farklı muameleyi öngörmesi, iki hükmün farklı zaman ufuklarına
-bakmasıyla açıklanır: biri sonucu, öteki başlangıç noktasını hedef alır.
+Bir metnin hem eşit muameleyi hem farklı
+muameleyi öngörmesi, iki hükmün farklı zaman ufuklarına bakmasıyla açıklanır: biri
+sonucu, öteki başlangıç noktasını hedef alır.[^k2]
 
 ## Sürenin belirsizliği
 
@@ -118,7 +118,7 @@ Düzeltici düzenlemelerin bir bölümü başlangıçta süreli olarak
 öngörülmüştü.[^k2] Süre, sonraki değişikliklerle tekrar tekrar
 uzatıldı.
 
-Bu, atlasın vesayet dosyasında ölçtüğü örüntüyle aynı ailedendir.[^k3]
+Bu, korpusun vesayet dosyasında ölçtüğü örüntüyle aynı ailedendir.[^k3]
 Geçici olduğu beyan edilen bir düzenlemenin süresi, o düzenlemeyi
 uygulayan tarafın kararına bağlıysa geçicilik beyanı bağlayıcı değildir.
 
@@ -135,8 +135,8 @@ Sayım yöntemi bir tercihtir.[^k2] Yetkileri genel ilkelerle bölmek
 yerine tek tek saymak, uyuşmazlıkları azaltmayı hedefler ve metnin
 uzunluğunu artırır.
 
-Atlas bu tercihi ayrıca kaydeder.[^k3] Bir anayasanın uzunluğu, kapsamlı
-olmasından çok belirsizliğe ne kadar tahammül ettiğinin göstergesidir.
+Bir anayasanın uzunluğu, kapsamlı olmasından çok
+belirsizliğe ne kadar tahammül ettiğinin göstergesidir.[^k3]
 
 ## Uzunluğun ikinci nedeni
 
@@ -146,9 +146,9 @@ Sömürge dönemi yönetim kanununun birçok maddesi metne aktarıldı.
 Aktarım, kesintisiz bir idare için gerekliydi.[^k1] Yeni bir devlet
 kurulurken idari boşluk oluşmaması, hazırlık heyetinin açık kaygısıydı.
 
-Atlas bu sürekliliği ayrıca kaydeder.[^k3] Sömürge yönetiminin sona
-ermesi, o yönetimin kurduğu idari aygıtın ortadan kalkması anlamına
-gelmez ve iki olgu ayrı ayrı izlenmelidir.
+Sömürge yönetiminin sona ermesi, o
+yönetimin kurduğu idari aygıtın ortadan kalkması anlamına gelmez ve iki olgu ayrı ayrı
+izlenmelidir.[^k3]
 
 ## Bölünmenin gölgesi
 
@@ -158,9 +158,8 @@ Metin, bir bölünmenin hemen ardından hazırlandı.[^k2] Bölünme, büyük
 Bu, metnin bazı tercihlerini doğrudan etkiledi.[^k1] Din temelli ayrı
 seçmen kütükleri kaldırıldı ve tek bir seçmen kütüğü benimsendi.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Bir anayasanın hangi kurumu
-reddettiği, hazırlandığı dönemin hangi kurumu sorumlu tuttuğunu
-gösterir.
+Bir anayasanın hangi kurumu reddettiği,
+hazırlandığı dönemin hangi kurumu sorumlu tuttuğunu gösterir.[^k3]
 
 ## Ayrı kütük tartışması
 
@@ -171,9 +170,8 @@ Kurucu meclis bu yolu reddetti ve yerine ayrılmış sandalye yöntemini
 benimsedi.[^k1] İki yöntem farklı sonuç üretir: biri seçmeni ayırır,
 öteki adayı ayırır.
 
-Atlas ayrımı ayrıca yazar.[^k3] Temsili güvence altına almanın birden
-çok teknik yolu vardır ve seçilen yol, toplumun nasıl bölüneceğini de
-belirler.
+Temsili güvence altına almanın birden çok teknik yolu
+vardır ve seçilen yol, toplumun nasıl bölüneceğini de belirler.[^k3]
 
 ## Dil sorunu
 
@@ -183,9 +181,9 @@ süresi belirlendi ve süre sonunda tek bir dilin resmî olması hedeflendi.
 Hedef gerçekleşmedi.[^k1] Süre dolduğunda geçiş tamamlanmadı ve
 düzenleme değiştirildi.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k3] Bir anayasanın öngördüğü
-takvim tutmadığında, metin genellikle değiştirilir; bu, metnin
-başarısızlığı değil düzenleme mekanizmasının işlemesidir.
+Bir anayasanın öngördüğü takvim tutmadığında,
+metin genellikle değiştirilir; bu, metnin başarısızlığı değil düzenleme mekanizmasının
+işlemesidir.[^k3]
 
 ## Değişiklik sıklığı
 
@@ -195,8 +193,8 @@ Değişiklik sayısı, benzer yaştaki anayasalara göre yüksektir.
 Sıklığın iki okuması vardır.[^k1] Bir okumada esneklik, başka bir okumada
 metnin bağlayıcılığının zayıflığı görülür.
 
-Atlas bir sonuca bağlanmaz.[^k3] Değişiklik sıklığı tek başına bir
-gösterge değildir; hangi maddelerin değiştiği ayrıca incelenmelidir.
+Değişiklik sıklığı tek başına bir
+gösterge değildir; hangi maddelerin değiştiği ayrıca incelenmelidir.[^k3]
 
 ## Temel yapı öğretisi
 
@@ -206,54 +204,51 @@ yetkisi sınırsız değildir.
 
 Öğreti metinde yazılı değildir.[^k1] Yorumla üretilmiştir.
 
-Bu, atlasın Magna Carta dosyasında ölçtüğü mekanizmanın bir başka
+Bu, korpusun Magna Carta dosyasında ölçtüğü mekanizmanın bir başka
 örneğidir.[^k3] Bir metnin sonraki hukuki değeri, metnin kendisinden
 değil sonraki kullanımından gelir.
 
 ## Karşılaştırma
 
-Atlasın belge katmanında artık üç anayasa vardır.[^k1] Üçü de farklı
-kıtalarda ve farklı koşullarda hazırlandı.
+Üçü de farklı kıtalarda ve
+farklı koşullarda hazırlandı.[^k1]
 
 Üçü arasında bir fark belirgindir.[^k2] İkisi hükümdarın onayıyla ve
 yukarıdan aşağıya hazırlandı; bu metin seçilmiş bir kurucu meclis
 tarafından hazırlandı.
 
-Atlas farkı kaydeder ve sonuçla ilişkilendirmez.[^k3] Üç örnek, hazırlık
-usulü ile ömür arasında bir ilişki kurmaya yetmez.
+Üç örnek, hazırlık usulü ile ömür arasında bir ilişki
+kurmaya yetmez.[^k3]
 
 ## Künyenin dili
 
-Metnin resmî hâli birden çok dilde yayımlanmıştır.[^k1] Bu dosyada
+Metnin resmî hâli birden çok dilde yayımlanmıştır.[^k1] Bu incelemede
 künyelenen metin İngilizcedir.
 
-Atlas bu kısıtı Waitangi dosyasında kurduğu kuralla ele alır.[^k3] Çok
-dilli bir belgeye atıf yapılırken hangi dildeki metnin kastedildiği
-yazılmalıdır.
+Çok dilli bir belgeye atıf
+yapılırken hangi dildeki metnin kastedildiği yazılmalıdır.[^k3]
 
 Kural burada uygulanmıştır.[^k2] Diller arasında fark bulunup
 bulunmadığı sınanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, düzeltici düzenlemelerin sonuçları hakkında hüküm vermez.[^k2]
 Metnin ne öngördüğünü kaydeder; uygulama sonuçları ayrı bir çalışma
 gerektirir.
 
-Güncel siyasi tartışmalar işlenmez.[^k3] Atlas yaşayan siyasi durumlar
+Güncel siyasi tartışmalar işlenmez.[^k3] Korpus yaşayan siyasi durumlar
 hakkında değerlendirme yapmaz.
 
 Maddelerin tek tek içeriği aktarılmaz.[^k1] Metin künyede erişilebilir
 durumdadır ve dosya yalnızca kapsam yapısını kaydeder.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Hak kapsamı dizisinin öteki halkaları için
 [İnsan Hakları Evrensel Beyannamesi](/kaynak/insan-haklari-beyannamesi/)
 ve [Magna Carta](/kaynak/magna-carta/) dosyaları okunmalıdır.[^k1]
 
 Metnin adlandırarak yasakladığı ayrım için
-[Kast](/kavram/kast/) dosyası uygundur; bu dosya o dosyanın hukuki
+[Kast](/kavram/kast/) dosyası uygundur; bu inceleme o dosyanın hukuki
 karşılığını kaydeder.[^k2]
 
 Metnin hazırlandığı dönemin olayı için

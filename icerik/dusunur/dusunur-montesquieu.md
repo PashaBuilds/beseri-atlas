@@ -18,15 +18,16 @@ ilgili:
   - dusunur-locke
   - dusunur-hobbes
   - olay-fransiz-devrimi
-  - olay-amerikan-devrimi
   - dusunur-smith
   - dusunur-tocqueville
   - kavram-hukuk-devleti
+  - kaynak-montesquieu-kanunlarin-ruhu
+baglam:
+  - olay-amerikan-devrimi
   - kavram-egemenlik
   - kavram-kolelik
   - kavram-anakronizm
   - tartisma-aydinlanmanin-sinirlari
-  - kaynak-montesquieu-kanunlarin-ruhu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

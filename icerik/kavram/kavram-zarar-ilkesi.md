@@ -14,6 +14,7 @@ ilgili:
   - dusunur-mill
   - dusunur-stephen
   - kavram-faydacilik
+baglam:
   - kavram-hukuk-devleti
   - kavram-kamusal-alan
   - kavram-sivil-toplum

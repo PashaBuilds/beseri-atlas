@@ -62,7 +62,7 @@ Bastırma sırasında uygulanan yöntemler, dönemin sömürge
 uygulamalarından da ayrılıyordu.[^k2] Bu ayrım, olayın sonraki
 tartışmasının merkezindedir.
 
-Bu dosyanın konusu askerî seyir değildir.[^k3] Kararın nasıl kayda
+Bu incelemenin konusu askerî seyir değildir.[^k3] Kararın nasıl kayda
 geçtiği ve o kaydın sonradan ne olduğudur.
 
 ## Ayaklanmanın nedeni
@@ -74,8 +74,8 @@ devrediliyordu.
 İkinci etken borçtu.[^k2] Tüccarlarla kurulan borç ilişkileri,
 hayvanların el değiştirmesine yol açıyordu.
 
-Atlas bu iki etkeni ayrı ayrı sayar.[^k3] Toprak devri ve borç yoluyla
-mülk kaybı farklı mekanizmalardır ve farklı belgeler bırakır.
+Toprak devri ve borç yoluyla mülk kaybı
+farklı mekanizmalardır ve farklı belgeler bırakır.[^k3]
 
 ## Hayvancılığın önemi
 
@@ -85,9 +85,8 @@ hem gelir hem statü hem de kuraklığa karşı tampondu.
 Sürünün kaybı bu üç işlevi birden ortadan kaldırır.[^k2] Kayıp geçici
 bir gelir azalması değil, yapının çöküşüdür.
 
-Atlas bu farkı ayrıca kaydeder.[^k3] Bir varlığın birden çok işlev
-taşıdığı düzenlerde, o varlığın kaybı tek bir kalemle
-ölçülemez.
+Bir varlığın birden çok işlev taşıdığı düzenlerde, o
+varlığın kaybı tek bir kalemle ölçülemez.[^k3]
 
 ## Yazılı emir
 
@@ -97,21 +96,21 @@ bölgede kalanların yapılacak muamelesini açıkça tarif ediyordu.
 Emrin metni korunmuştur.[^k2] Sonradan merkez tarafından geri alındı
 ama uygulama bir süre daha sürdü.
 
-Atlas bu durumu ayrıca kaydeder.[^k3] **Bir kararın yazılı olması,
-uygulamayı değil kanıt durumunu değiştirir; benzer olayların çoğunda
-böyle bir metin bulunmaz.**
+**Bir kararın yazılı olması, uygulamayı
+değil kanıt durumunu değiştirir; benzer olayların çoğunda böyle bir metin
+bulunmaz.**[^k3]
 
 ## Emir ile uygulama arasındaki süre
 
 Geri alma ile uygulamanın durması aynı tarihte olmadı.[^k1] Aradaki
 süre kayıtlarda izlenebilir.
 
-Bu, atlasın belge tartışmasında kurulan ölçütün bir örneğidir.[^k2] Bir
+Bu, korpusun belge tartışmasında kurulan ölçütün bir örneğidir.[^k2] Bir
 metnin yürürlükten kaldırılması, uygulamanın o gün durduğunu
 göstermez.
 
-Atlas iki tarihi ayrı ayrı kaydeder.[^k3] Kabul tarihi, geri alma
-tarihi ve fiilî durma tarihi üç ayrı veridir.
+Kabul tarihi, geri alma tarihi ve
+fiilî durma tarihi üç ayrı veridir.[^k3]
 
 ## Kamplar
 
@@ -121,9 +120,8 @@ zorunlu çalıştırma uygulandı.
 Kamp kayıtları tutuldu.[^k2] Giriş, çıkış ve ölüm kayıtları idari
 belge olarak üretildi.
 
-Atlas bu kayıtları ayrıca değerlendirir.[^k3] Bir uygulamanın kendi
-idari kaydını üretmesi, o uygulamanın sonradan sayılabilmesini
-sağlar.
+Bir uygulamanın kendi idari kaydını
+üretmesi, o uygulamanın sonradan sayılabilmesini sağlar.[^k3]
 
 ## Sayılar
 
@@ -134,8 +132,8 @@ konduğundan kaynaklanır.
 Bir sayım vardır ama bastırmadan sonrasına aittir.[^k2] Öncesi için
 karşılaştırılabilir bir kayıt yoktur.
 
-Atlas bu yüzden tek bir sayı vermez.[^k3] Bir oranın paydası
-bilinmiyorsa, oranın kendisi de bilinmiyordur.
+Bir oranın paydası bilinmiyorsa,
+oranın kendisi de bilinmiyordur.[^k3]
 
 ## Toprak ve hayvanların akıbeti
 
@@ -146,8 +144,8 @@ Bu düzenleme, ayaklanmanın nedeni olan sorunu tersine
 pekiştirdi.[^k1] Ayaklanma öncesi eğilim, bastırma sonrası kural
 hâline geldi.
 
-Atlas bu sonucu ayrıca kaydeder.[^k3] Bir ayaklanmanın bastırılması,
-çoğu zaman ayaklanmanın nedenini ortadan kaldırmaz; hızlandırır.
+Bir ayaklanmanın bastırılması, çoğu zaman
+ayaklanmanın nedenini ortadan kaldırmaz; hızlandırır.[^k3]
 
 ## Emek düzenine bağlanma
 
@@ -155,12 +153,12 @@ Hayatta kalanların önemli bölümü ücretli çalışmaya
 yönlendirildi.[^k1] Kendi sürüsü ve toprağı olmayan bir nüfus, madenler
 ve çiftlikler için işgücü havuzu oluşturdu.
 
-Bu, atlasın zorunlu emek dosyasında tanımlanan yapının bir
+Bu, korpusun zorunlu emek dosyasında tanımlanan yapının bir
 biçimidir.[^k2] Reddin mümkün olmadığı bir emek tahsisi, mülksüzleştirme
 yoluyla da kurulabilir.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Bir baskı döneminin ekonomik
-sonucu, baskı sona erdikten sonra da yapıyı belirler.
+Bir baskı döneminin ekonomik sonucu,
+baskı sona erdikten sonra da yapıyı belirler.[^k3]
 
 ## Suyun belirleyiciliği
 
@@ -172,8 +170,8 @@ Bastırma sırasında bu coğrafi gerçek doğrudan bir yöntem hâline
 geldi.[^k2] Kuyuların tutulması, çölün kendisini bir engel olarak
 kullanmayı mümkün kıldı.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Kurak bir bölgede su noktalarının
-denetimi, geniş bir alanı fiilen kapatmaya yeter.
+Kurak bir bölgede su noktalarının
+denetimi, geniş bir alanı fiilen kapatmaya yeter.[^k3]
 
 ## İki ayaklanmanın farkı
 
@@ -183,9 +181,8 @@ vardı ve ortak bir komuta kurulmadı.
 Bu, bastırma açısından belirleyiciydi.[^k2] Kuvvetler sırayla
 yoğunlaştırılabildi.
 
-Atlas bu örüntüyü başka dosyalarda da kaydetmişti.[^k3] Aralarında
-çözülmemiş anlaşmazlık bulunan komşu topluluklar, ortak bir tehdide
-karşı çoğu zaman geç birleşir.
+Aralarında çözülmemiş anlaşmazlık
+bulunan komşu topluluklar, ortak bir tehdide karşı çoğu zaman geç birleşir.[^k3]
 
 ## Demiryolunun rolü
 
@@ -196,8 +193,8 @@ Aynı hat sonrasında madenlerin ve çiftliklerin ürününü limana
 taşıdı.[^k1] Askerî amaçla döşenen altyapı ekonomik altyapıya
 dönüştü.
 
-Atlas bu dönüşümü ayrıca kaydeder.[^k3] Bu, atlasın Türkistan
-dosyasında kaydedilen örüntünün bir başka örneğidir.
+Bu, korpusun Türkistan dosyasında
+kaydedilen örüntünün bir başka örneğidir.[^k3]
 
 ## Merkez ile sahadaki komuta
 
@@ -207,9 +204,8 @@ Merkez, emri sonradan geri aldı.
 Buna karşılık komutan görevden hemen alınmadı.[^k2] Geri alma ile
 görevden alma arasında bir süre geçti.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k3] Bir emrin geri alınması,
-onu verenin yetkisinin geri alındığını göstermez; iki işlem ayrı
-ayrı izlenmelidir.
+Bir emrin geri alınması, onu verenin yetkisinin
+geri alındığını göstermez; iki işlem ayrı ayrı izlenmelidir.[^k3]
 
 ## Kamu tartışması
 
@@ -219,9 +215,8 @@ bütçe görüşmeleri üzerinden yürüdü.
 Sömürge harcamalarının onaylanması bir baskı aracına dönüştü.[^k1]
 Tartışma sonunda seçime gidildi.
 
-Atlas bu mekanizmayı ayrıca kaydeder.[^k3] Bir sömürge uygulamasının
-merkezde denetlenmesi, çoğu zaman ahlaki değil mali yoldan
-başlar.
+Bir sömürge uygulamasının merkezde
+denetlenmesi, çoğu zaman ahlaki değil mali yoldan başlar.[^k3]
 
 ## Bölgenin sonraki yönetimi
 
@@ -231,9 +226,8 @@ Yönetim komşu bir devlete verildi.
 Manda düzeni, denetim öngörüyordu.[^k2] Uygulamada denetim sınırlı
 kaldı.
 
-Atlas bu düzeni vesayet dosyasına bağlar.[^k3] Bir yönetimin
-uluslararası bir çerçeveye bağlanması, o çerçevenin işletildiği
-anlamına gelmez.
+Bir yönetimin uluslararası bir çerçeveye
+bağlanması, o çerçevenin işletildiği anlamına gelmez.[^k3]
 
 ## Raporun hazırlanması
 
@@ -243,9 +237,8 @@ Birinci büyük savaş sırasında bölge el değiştirdi.[^k2] Yeni yönetim,
 Rapor tanıklıklara ve ele geçirilen belgelere dayanıyordu.[^k1]
 Resmî olarak basıldı ve dağıtıldı.
 
-Atlas bu kaynağı ayrıca adlandırır.[^k3] Bu, atlasın Kongo dosyasında
-tanımladığı türden bir kaynaktır: bir devletin başka bir devletin
-yönetimini soruşturması.
+Bu, korpusun Kongo dosyasında tanımladığı
+türden bir kaynaktır: bir devletin başka bir devletin yönetimini soruşturması.[^k3]
 
 ## Raporun geri çekilmesi
 
@@ -256,20 +249,19 @@ bağlantılıydı.
 Nüshalarının toplatılması yönünde işlem yapıldı.[^k1] Bugün elde
 bulunan nüshalar, bu işlemden kurtulanlardır.
 
-Atlas bu akıbeti ölçüm sayar.[^k3] **Bir raporun varlığı, onu üretenin
-çıkarının sürmesine bağlıdır; çıkar değişince rapor da geri
-çekilebilir.**
+**Bir raporun varlığı, onu üretenin
+çıkarının sürmesine bağlıdır; çıkar değişince rapor da geri çekilebilir.**[^k3]
 
 ## İki soruşturma türünün ortak zayıflığı
 
-Atlas bu noktayı Kongo dosyasıyla birlikte okur.[^k2] Her iki örnekte
-de soruşturan devletin kendi çıkarı vardı.
+Her iki örnekte de soruşturan devletin
+kendi çıkarı vardı.[^k2]
 
 Kongo örneğinde bu çıkar raporun yayımlanmasını sağladı.[^k1] Burada
 aynı türden bir çıkar, raporun geri çekilmesini sağladı.
 
-Atlas bu simetriyi ayrıca kaydeder.[^k3] Aynı mekanizma, koşullara göre
-bir kaydı üretebilir de ortadan kaldırabilir de.
+Aynı mekanizma, koşullara göre bir kaydı
+üretebilir de ortadan kaldırabilir de.[^k3]
 
 ## Sonraki tanıma
 
@@ -281,21 +273,20 @@ Etkilenen toplulukların temsilcileri bu görüşmelerde taraf
 değildi.[^k2] Bu, kendi temsilcilerince açıkça itiraz edilen bir
 noktadır.
 
-Atlas bu itirazı ayrıca kaydeder.[^k3] **Bir haksızlığın tanınması iki
-devlet arasında görüşülüyorsa, tanınan taraf o görüşmede yine muhatap
-sayılmamıştır.**
+**Bir haksızlığın tanınması iki devlet arasında
+görüşülüyorsa, tanınan taraf o görüşmede yine muhatap sayılmamıştır.**[^k3]
 
-## Atlasta tekrar eden ölçüm
+## Korpusta tekrar eden ölçüm
 
-Bu örüntü atlasta birçok kez kaydedilmiştir.[^k1] Bölgede yaşamayanlarca
+Bu örüntü korpusta birçok kez kaydedilmiştir.[^k1] Bölgede yaşamayanlarca
 çizilen sınırlar, orada bulunmayanlarca alınan kararlar ve şimdi
 etkilenenler olmadan yapılan tanıma görüşmeleri.
 
 Üçü aynı yapıdadır.[^k2] Karar, sonucu taşıyanların dışında bir
 masada alınır.
 
-Atlas bunu tekrar eden bir ölçüm sayar.[^k3] Tekrarın kendisi, tek tek
-örneklerden ayrı bir bulgudur.
+Tekrarın kendisi, tek tek
+örneklerden ayrı bir bulgudur.[^k3]
 
 ## Sürgün edilenler
 
@@ -305,9 +296,8 @@ topraklara geçenler ve başka bölgelere taşınanlar oldu.
 Bu, topluluğun bugünkü dağılımını doğrudan belirledi.[^k2] Aynı
 topluluğun üyeleri bugün birden çok ülkede yaşamaktadır.
 
-Atlas bu sonucu ayrıca kaydeder.[^k3] Bir nüfusun bugünkü coğrafi
-dağılımı, çoğu zaman bir yüzyıl önceki bir kararın hâlâ okunabilir
-izidir.
+Bir nüfusun bugünkü coğrafi dağılımı, çoğu
+zaman bir yüzyıl önceki bir kararın hâlâ okunabilir izidir.[^k3]
 
 ## Müzelerdeki kalıntılar
 
@@ -317,17 +307,16 @@ kurumlara götürüldü.[^k1] Bunlar uzun süre koleksiyonlarda kaldı.
 Bir bölümü yirmi birinci yüzyılda iade edildi.[^k2] İade, tanıma
 sürecinin bir parçası olarak yürütüldü.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k3] Bir kalıntının nerede
-tutulduğu, o kalıntının hangi çerçevede okunacağını da belirler.
+Bir kalıntının nerede tutulduğu, o
+kalıntının hangi çerçevede okunacağını da belirler.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, askerî harekâtın ayrıntısını vermez.[^k1] Birlik hareketleri,
 muharebe yerleri ve komuta kararları ayrı bir çalışmanın
 konusudur.
 
 Terim tartışması burada karara bağlanmaz.[^k2] Olayın hangi kavramla
-adlandırılacağı ve o kavramın hangi ölçütlerle uygulandığı, atlasın
+adlandırılacağı ve o kavramın hangi ölçütlerle uygulandığı, korpusun
 ayrı bir tartışma dosyasında ele alınır.
 
 Toplulukların kendi kaydından doğrulanabilir bir birincil metin
@@ -335,8 +324,7 @@ künyelenememiştir.[^k3] Künyedeki birincil belge, olayı yürüten
 devletin değil onunla savaşan bir başka devletin yönetimine aittir ve
 bu kısıt burada açıkça beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Dönemin yöneten düzeni için
 [Alman İmparatorluğu](/aktor/alman-imparatorlugu/) ve paylaşımın
 çerçevesi için [Berlin Konferansı](/olay/berlin-konferansi/) dosyaları

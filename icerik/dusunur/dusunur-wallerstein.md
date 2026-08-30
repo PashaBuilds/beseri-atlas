@@ -44,14 +44,14 @@ onarim_turu: 0
 ---
 
 Kaynak, kuram bölümünün altında iki alt başlık tutar: modern dünya sistemi ve
-eleştiri.[^k1] Bu dosya, kuramını değil **kaydın eleştiriyi de bölüm yapmasını**
+eleştiri.[^k1] Bu inceleme, kuramını değil **kaydın eleştiriyi de bölüm yapmasını**
 ele alır.
 
 ## Eleştiri kuramın yanında durur
 
 Kaynak, kuram bölümünün ikinci alt başlığını doğrudan eleştiriye ayırır.[^k1]
 
-::tartismali[Aynı ansiklopedi maddesi, kuramı ve ona yöneltilen eleştiriyi iki alt başlık olarak yan yana tutuyor. Atlas ikisini de kaydeder ve hangisinin ağır bastığını söylemez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Aynı ansiklopedi maddesi, kuramı ve ona yöneltilen eleştiriyi iki alt başlık olarak yan yana tutuyor. Korpus ikisini de kaydeder ve hangisinin ağır bastığını söylemez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu tür yan yana kayıtların nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -63,7 +63,7 @@ Kaynak terimler ve tanımlar başlığı altında beş alt başlık tutar: kapit
 dünya sistemi, merkez ve çevre, yarı çevre, yarı tekeller ve Kondratiev
 dalgaları.[^k1]
 
-Bir kuramın terimlerinin ansiklopedide ayrı ayrı tanımlanması,[^k1] bu atlasın
+Bir kuramın terimlerinin ansiklopedide ayrı ayrı tanımlanması,[^k1] bu korpusun
 kavram katmanının neden ayrı bir tip olarak kurulduğunun dayanağıdır; kavram
 [Dünya sistemi](/kavram/dunya-sistemi/) dosyasında ele alınıyor.
 
@@ -89,8 +89,7 @@ kapitalistleri tekelciler olarak gördüğünü yazar.[^k3] O yazar
 gücün gelişimine göre yükselip düştüğü fikrini anlatır.[^k2] O kuram
 [Karl Marx](/dusunur/marx/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dünya sistemi kuramının içeriği, akademik kariyeri ve eleştirilerin ayrıntıları
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1]

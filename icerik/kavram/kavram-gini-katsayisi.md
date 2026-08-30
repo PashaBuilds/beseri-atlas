@@ -51,7 +51,7 @@ eşitsizlik ile aynî yardım ve gelirler.[^k1]
 
 ## Sınırlamalar ölçünün kendi bölümüdür
 
-::tartismali[Bir istatistiğin ansiklopedi maddesinde sınırlamalara sekiz alt başlık ayrılmış. Atlas bu katsayıyı tek başına bir eşitsizlik hükmü olarak kullanmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bir istatistiğin ansiklopedi maddesinde sınırlamalara sekiz alt başlık ayrılmış. Korpus bu katsayıyı tek başına bir eşitsizlik hükmü olarak kullanmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Sayıların nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -60,7 +60,7 @@ haritasında ele alınıyor.
 ## Ölçü göreceli olduğunu kendi kaydında söyler
 
 Sınırlamalar listesinin ilk maddesinin görece olup mutlak olmaması olması,[^k1]
-atlasın şu kuralının dayanağıdır: bu dosyada Gini değerleri, iki ülke ya da iki
+korpusun şu kuralının dayanağıdır: bu incelemede Gini değerleri, iki ülke ya da iki
 yıl karşılaştırılırken hangi tanımın ve hangi birimin kullanıldığı belirtilmeden
 aktarılmaz.
 
@@ -79,7 +79,7 @@ katsayının bir konu değil bir hesap yöntemi olduğunu gösterir.
 Uzun dönemli seride dünya nüfusu 1800 için yaklaşık 983,1 milyon, 2020 için
 yaklaşık 7,89 milyardır.[^k2]
 
-Atlas bu seriyi katsayıyla birleştirmez; nüfus toplamı bir dağılım ölçüsü
+Korpus bu seriyi katsayıyla birleştirmez; nüfus toplamı bir dağılım ölçüsü
 değildir.[^k1][^k2]
 
 ## Eşitsizliği bir sistem özelliği sayan kuram
@@ -88,8 +88,7 @@ Eşitsizliği bir sistem özelliği sayan bir kuram için tutulan kayıt, merkez
 ve yarı çevre terimlerini ayrı ayrı tanımlar.[^k3] O kuram
 [Dünya sistemi](/kavram/dunya-sistemi/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Katsayının hesaplanması, matematiksel biçimleri ve alternatif ölçüler burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

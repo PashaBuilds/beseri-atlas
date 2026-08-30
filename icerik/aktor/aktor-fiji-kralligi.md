@@ -61,14 +61,14 @@ onarim_turu: 0
 
 Fiji Krallığı, 1871'de takımadanın önde gelen şeflerinden birinin
 hükümdar ilan edilmesiyle kurulmuş ve üç yıl sonra sona ermiş bir
-devlettir.[^k1] Ömrü, atlasın aktör dosyalarındaki en kısa
+devlettir.[^k1] Ömrü, korpusun aktör dosyalarındaki en kısa
 sürelerdendir.
 
 Krallığın kuruluşu, adalarda çoğalan yabancı yerleşimcilerle yerel
 yönetim arasındaki uyuşmazlıkları çözmek üzere tasarlanmıştı.[^k2]
 Yerleşimciler, tanıyacakları tek bir muhatap istiyordu.
 
-Bu dosyanın asıl konusu krallığın sona eriş biçimidir.[^k1] Egemenlik
+Bu incelemenin asıl konusu krallığın sona eriş biçimidir.[^k1] Egemenlik
 askerî yenilgiyle değil, ödenemeyen bir borç yüzünden devredildi.
 
 ## Borcun kaynağı
@@ -80,9 +80,8 @@ bir vatandaşın kaybına dayandırılıyordu.
 Talebin miktarı, adaların gelirinin çok üzerindeydi.[^k1] Miktarın nasıl
 hesaplandığı tartışmalıdır ve talep zamanla büyüdü.
 
-Atlas talebin meşruiyetini değerlendirmez.[^k2] Kaydettiği şey,
-ödenemeyecek büyüklükte bir borcun bir egemenlik devrine
-dönüştüğüdür.
+Kaydettiği şey, ödenemeyecek
+büyüklükte bir borcun bir egemenlik devrine dönüştüğüdür.[^k2]
 
 ## Mekanizmanın kendisi
 
@@ -92,9 +91,8 @@ eder ya da borçlu, borcu üstlenecek bir tarafa egemenlik devreder.
 İkinci yol seçildi.[^k2] Egemenlik, borcu üstlenmeyi kabul eden bir
 başka devlete devredildi.
 
-Atlas mekanizmayı ayrıca kaydeder.[^k1] **Bir egemenlik devri, askerî
-yenilgi olmadan da gerçekleşebilir; ödenemeyen bir borç aynı sonucu
-üretir.**
+**Bir egemenlik devri, askerî yenilgi
+olmadan da gerçekleşebilir; ödenemeyen bir borç aynı sonucu üretir.**[^k1]
 
 ## Toprak sorunu
 
@@ -106,20 +104,18 @@ Yerel toprak düzeni, bireysel satışa uygun değildi.[^k1] Toprak
 akrabalık gruplarına aitti ve tek bir şefin satış yetkisi
 tartışmalıydı.
 
-Atlas bu ayrımı Tonga dosyasıyla birlikte okur.[^k3] Orada toprağın
-yabancılara satılması anayasayla yasaklanmıştı; burada satış açıktı ve
-sonuç farklı oldu.
+Orada toprağın yabancılara satılması anayasayla
+yasaklanmıştı; burada satış açıktı ve sonuç farklı oldu.[^k3]
 
 ## Karşılaştırmanın verdiği
 
-Atlasın Okyanusya dosyalarında artık üç örnek vardır.[^k3] Tonga toprağı
-kapattı ve bağımsız kaldı; Hawai toprağı açtı ve devrildi; Fiji toprağı
-açtı ve devretti.
+Tonga toprağı kapattı ve bağımsız
+kaldı; Hawai toprağı açtı ve devrildi; Fiji toprağı açtı ve devretti.[^k3]
 
 Üç örnek aynı yöne işaret eder.[^k1] Toprağın devredilebilirliği, dış
 sermayenin ve dış nüfusun yerleşmesini belirleyen ilk halkadır.
 
-Üç örnek bir kural kurmaya yetmez.[^k2] Atlas bunu ölçülmüş bir eğilim
+Üç örnek bir kural kurmaya yetmez.[^k2] Korpus bunu ölçülmüş bir eğilim
 olarak kaydeder ve daha çok örnek gerektiğini yazar.
 
 ## Krallık öncesi düzen
@@ -129,7 +125,7 @@ Adalarda, krallıktan önce tek bir merkezî otorite yoktu.[^k2] Birden çok
 değildi.
 
 Bir şefliğin öne çıkması, on dokuzuncu yüzyılda dışarıdan gelen silah ve
-gemi erişimiyle hızlandı.[^k1] Bu, atlasın Hawai ve Tonga dosyalarında
+gemi erişimiyle hızlandı.[^k1] Bu, korpusun Hawai ve Tonga dosyalarında
 ölçtüğü örüntüyle aynıdır: dış ticarete erişimi olan taraf, aynı
 takımadadaki rakiplerine karşı üstünlük kurar.
 
@@ -145,7 +141,7 @@ düzeni oluşturuldu ve okuryazarlık yaygınlaştı.
 Bu, yerel yönetimin yazılı hukuk üretebilmesini sağladı.[^k1] Krallık
 döneminde çıkarılan düzenlemeler yerel dilde yayımlandı.
 
-Aynı süreç Tonga ve Hawai'de de yaşandı.[^k3] Atlas üç örnekte de aynı
+Aynı süreç Tonga ve Hawai'de de yaşandı.[^k3] Korpus üç örnekte de aynı
 sıralamayı kaydeder: misyoner teması, yazı, yazılı hukuk, sonra devlet
 biçimi.
 
@@ -157,13 +153,12 @@ kıtadaki iç savaşın pamuk arzını kesmesinden doğmuştu.
 Savaş bitince talep düştü ve pamuk plantasyonları zarar etti.[^k1] Bu,
 adalardaki mali sıkışıklığı derinleştiren etkenlerden biriydi.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Bir okyanusun öteki ucundaki bir
-savaşın bitmesi, bu adalarda toprak satışlarını ve borç sarmalını
-doğrudan etkiledi.
+Bir okyanusun öteki ucundaki bir savaşın
+bitmesi, bu adalarda toprak satışlarını ve borç sarmalını doğrudan etkiledi.[^k3]
 
 ## Zincirin uzak ucu
 
-Bağlantı, atlasın küresel ağ dosyalarında ölçtüğü türdendir.[^k1] Bir
+Bağlantı, korpusun küresel ağ dosyalarında ölçtüğü türdendir.[^k1] Bir
 bölgedeki üretim kararı, bambaşka bir bölgedeki siyasi olaya bağlı
 olabilir.
 
@@ -171,9 +166,8 @@ Bağlantı ancak iki bölge birlikte okunduğunda görünür.[^k2] Tek bir
 bölgenin dosyası okunduğunda, talep düşüşü nedensiz bir dalgalanma
 gibi görünür.
 
-Atlas bu nedenle bölge dosyalarını birbirine bağlar.[^k3] Bağlantıların
-görünmesi, atlasın bölge katmanlarının ayrı ayrı değil birlikte
-okunmasına bağlıdır.
+Bağlantıların görünmesi, korpusun bölge
+katmanlarının ayrı ayrı değil birlikte okunmasına bağlıdır.[^k3]
 
 ## Devrin biçimi
 
@@ -184,13 +178,13 @@ Belgenin gönüllü olup olmadığı tartışmalıdır.[^k2] Bir okumada
 şeflerin kendi tercihi, başka bir okumada borcun yarattığı zorunluluk
 öne çıkar.
 
-Atlas bir sonuca bağlanmaz.[^k1] Bu, atlasın himaye dosyasında
-kaydedilen genel kısıtın bir örneğidir: bir belgenin hangi koşullarda
-kabul edildiği, belgenin metninden okunamaz.
+Bu, korpusun himaye dosyasında kaydedilen
+genel kısıtın bir örneğidir: bir belgenin hangi koşullarda kabul edildiği, belgenin
+metninden okunamaz.[^k1]
 
 ## Himaye değil devir
 
-Fiji örneği, atlasın himaye dosyasındaki düzenden farklıdır.[^k1] Burada
+Fiji örneği, korpusun himaye dosyasındaki düzenden farklıdır.[^k1] Burada
 hanedan yerinde kalmadı ve iç yönetim yerel elde bırakılmadı.
 
 Devralan taraf, doğrudan yönetim kurdu.[^k2] Yerel şeflik yapısı
@@ -223,9 +217,8 @@ adalarda ikinci bir büyük nüfus grubu oluştu.
 kurdu.[^k2] Toprak mülkiyeti ile nüfus çoğunluğunun farklı gruplarda
 toplanması, tekrar eden anayasal krizler üretti.
 
-Atlas bu zinciri ayrıca kaydeder.[^k3] Bir koruma kararı, koruduğu şeyin
-dışında yeni bir yapısal gerilim üretebilir ve iki sonuç aynı kararın
-parçasıdır.
+Bir koruma kararı, koruduğu şeyin dışında yeni
+bir yapısal gerilim üretebilir ve iki sonuç aynı kararın parçasıdır.[^k3]
 
 ## Zincirin genel biçimi
 
@@ -236,9 +229,8 @@ değişimine yol açtı.
 Halkaların hiçbiri kaçınılmaz değildir.[^k2] Her adımda başka kararlar
 alınabilirdi ve bazı adalarda alındı.
 
-Atlas zinciri bir zorunluluk olarak değil, izlenmiş bir güzergâh olarak
-yazar.[^k3] Geriye dönük bakıldığında düzenli görünen dizilerin her
-adımı, o anda açık bir seçimdi.
+Geriye dönük bakıldığında düzenli görünen
+dizilerin her adımı, o anda açık bir seçimdi.[^k3]
 
 ## Şeflik yapısı
 
@@ -249,7 +241,7 @@ Yeni yönetim bu yapıyı ortadan kaldırmadı.[^k1] Yerel yönetimi şefler
 üzerinden yürütmek, hem maliyeti düşürüyor hem meşruiyet
 sağlıyordu.
 
-Bu, atlasın başka bölgelerde de ölçtüğü bir tercihtir.[^k3] Mevcut
+Bu, korpusun başka bölgelerde de ölçtüğü bir tercihtir.[^k3] Mevcut
 hiyerarşiyi kaldırmak yerine ona bağlanmak, yönetim maliyetini
 düşüren yaygın bir yöntemdir.
 
@@ -261,48 +253,46 @@ kısıtladı.[^k2] Kayıt, o anki durumu sabitledi.
 Sabitleme bir koruma olduğu kadar bir dondurmadır.[^k1] Kaydın alındığı
 andaki dağılım, sonraki kuşaklar için de bağlayıcı hâle geldi.
 
-Atlas bu ikili etkiyi ayrıca yazar.[^k3] Bir hakkı kayıt altına almak,
-o hakkı korur ve aynı anda onu değiştirilemez kılar; iki sonuç aynı
-işlemden doğar.
+Bir hakkı kayıt altına almak, o
+hakkı korur ve aynı anda onu değiştirilemez kılar; iki sonuç aynı işlemden doğar.[^k3]
 
 ## Krallığın kısalığının anlamı
 
-Krallık üç yıl sürdü ve bu, atlasta bir soru doğurur.[^k1] Üç yıllık bir
+Krallık üç yıl sürdü ve bu, korpusta bir soru doğurur.[^k1] Üç yıllık bir
 devletin ayrı bir dosya olarak kaydedilmesi gerekli midir.
 
 Gerekçe süre değil işlevdir.[^k2] Krallık, egemenliğin devredilebilir
 hâle geldiği hukuki çerçeveyi kurdu; onsuz devir aynı biçimde
 yapılamazdı.
 
-Atlas bu nedenle kısa ömürlü birimleri de kaydeder.[^k3] Bir yapının
-ömrü ile sonuç üzerindeki etkisi arasında doğrudan bir ilişki yoktur.
+Bir yapının ömrü ile sonuç üzerindeki
+etkisi arasında doğrudan bir ilişki yoktur.[^k3]
 
 ## Kaynak durumu
 
-Bu dosyanın üç künyesinden biri giriş kapısı, biri dönem tanıklığı, biri
+Bu incelemenin üç künyesinden biri giriş kapısı, biri dönem tanıklığı, biri
 karşılaştırma belgesidir.[^k1] Devir belgesinin kendisi
 künyelenememiştir.
 
-Belgenin doğrulanabilir çevrimiçi bir baskısı bu dosya yazıldığında
+Belgenin doğrulanabilir çevrimiçi bir baskısı bu inceleme yazıldığında
 bulunamamıştır.[^k2] Bölgenin resmî arşiv siteleri otomatik erişime
 kapalıdır.
 
 Eksik borç defterine yazılmıştır.[^k3] Bir devir dosyasında devir
-belgesinin künyelenememesi, atlasın rahatsız edici kısıtlarındandır.
+belgesinin künyelenememesi, korpusun rahatsız edici kısıtlarındandır.
 
 ## Kapsam dışı
 
 Krallık öncesi adaların siyasi tarihi burada işlenmez.[^k2] Ayrı bir
-dosya gerektirir ve bu dosya yazıldığında atlasta bulunmuyordu.
+dosya gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu.
 
 Sömürge dönemi yönetiminin ayrıntısı kapsam dışıdır.[^k1] Dosya yalnızca
 devrin mekanizmasına ve nüfus sonucuna ilişkin olanı kaydeder.
 
-Yirminci yüzyıl siyasi krizleri işlenmez.[^k3] Atlas yaşayan siyasi
+Yirminci yüzyıl siyasi krizleri işlenmez.[^k3] Korpus yaşayan siyasi
 durumlar hakkında değerlendirme yapmaz.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, borcun kasten yaratıldığını ileri sürmez.[^k1] Talebin nasıl
 hesaplandığının tartışmalı olduğunu ve sonucun ne olduğunu kaydeder.
 
@@ -312,15 +302,14 @@ Devrin gönüllü olup olmadığı belirlenmez.[^k2] İki okuma da kaydedilir.
 devredilebilirliği izlenebilir en doğrudan fark olarak kaydedilir ve
 daha çok örnek gerektiği yazılır.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı okyanustan karşılaştırma dosyaları için
 [Tonga Krallığı](/aktor/tonga-kralligi/) ve
 [Hawai Krallığı](/aktor/hawai-kralligi/) okunmalıdır; üçü birlikte
 okunduğunda toprak hükmünün rolü görünür.[^k3]
 
 Egemenliğin bir bölümünün devredildiği öteki düzen için
-[Himaye düzeni](/kavram/himaye-duzeni/) dosyası uygundur; bu dosya
+[Himaye düzeni](/kavram/himaye-duzeni/) dosyası uygundur; bu inceleme
 o düzenden farklı bir biçimi kaydeder.[^k1]
 
 Devredilen yetkinin ne olduğu için [Egemenlik](/kavram/egemenlik/),

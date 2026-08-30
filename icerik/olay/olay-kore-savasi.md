@@ -21,9 +21,10 @@ ilgili:
   - aktor-abd
   - olay-vietnam-savasi
   - tartisma-soguk-savasin-baslangici
-  - tartisma-tarihsel-sayilar-nasil-okunur
   - kavram-caydiricilik
   - aktor-nato
+baglam:
+  - tartisma-tarihsel-sayilar-nasil-okunur
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -272,7 +273,7 @@ kişidir.[^k9] Kuzey tarafında en çok bilinen olay, 28 Haziran 1950'de Seul
 29 Eylül 1999'da bir haber ajansının yayımladığı dosya, 1950 Temmuzunda No Gun
 Ri yakınlarında Amerikan askerlerinin mültecilere ateş açtığı iddiasını
 gündeme getirdi; iki hükümet bağımsız ama işbirliği içinde soruşturmalar
-başlattı.[^k7] Raporun kendi ifadesiyle bu dosya, Koreli yurttaşların daha
+başlattı.[^k7] Raporun kendi ifadesiyle bu inceleme, Koreli yurttaşların daha
 önce resmî soruşturma için yürüttüğü çabayı öne çıkarmıştı; soruşturmayı
 doğuran etkenler haberden ibaret değildi.[^k7] Amerikan tarafının Ocak 2001'de
 yayımlanan raporu bir milyondan fazla belge taradı, yaklaşık 200 Amerikalı

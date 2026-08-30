@@ -10,11 +10,12 @@ etiketler: [asabiyet, kabile, mesruiyet, ibn-haldun, umran]
 ilgili:
   - dusunur-ibn-haldun
   - dusunur-aristoteles
-  - dusunur-thukydides
   - kavram-mesruiyet
   - kavram-umran
   - kaynak-ibn-haldun-mukaddime
   - kavram-akrabalik
+baglam:
+  - dusunur-thukydides
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

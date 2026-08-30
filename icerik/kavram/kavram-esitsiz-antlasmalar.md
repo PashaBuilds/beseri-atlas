@@ -62,7 +62,7 @@ Bir taraf hak ve ayrıcalık alır, diğer taraf yükümlülük üstlenir.
 Biçim olarak sıradan bir antlaşmadan ayırt edilemez.[^k2] İki tarafın
 imzası, resmî onay ve yürürlük maddeleri aynıdır.
 
-Ayrım maddelerin dağılımındadır.[^k3] Atlas bu yüzden bir antlaşmayı
+Ayrım maddelerin dağılımındadır.[^k3] Korpus bu yüzden bir antlaşmayı
 adına değil madde dizisine bakarak sınıflandırır.
 
 ## Dört tekrar eden madde
@@ -86,9 +86,9 @@ Bu, sistemi kendi kendini büyüten bir yapıya çevirir.[^k2] Tek bir
 yenilgi, o yenilgiye hiç katılmamış devletlere de yeni haklar
 kazandırır.
 
-Atlas bu mekanizmayı kavramın merkezine koyar.[^k3] **Bir ayrıcalığın
-otomatik olarak yayılmasını sağlayan bir madde, her yeni antlaşmayı
-bütün önceki antlaşmaların da genişlemesi hâline getirir.**
+**Bir ayrıcalığın otomatik olarak
+yayılmasını sağlayan bir madde, her yeni antlaşmayı bütün önceki antlaşmaların da
+genişlemesi hâline getirir.**[^k3]
 
 ## Geri alınamazlık
 
@@ -99,8 +99,8 @@ Ayrıcalık, o maddeyi taşıyan bütün devletlerle ayrı ayrı
 görüşülmeden kalkmaz.[^k2] Bu, revizyonu tek tek değil toplu bir işe
 çevirir.
 
-Atlas bu asimetriyi ayrıca kaydeder.[^k3] Kolayca yayılan bir hak,
-aynı kolaylıkla geri alınmaz.
+Kolayca yayılan bir hak, aynı kolaylıkla geri
+alınmaz.[^k3]
 
 ## Gümrük tarifesinin sabitlenmesi
 
@@ -110,21 +110,20 @@ Antlaşmaların bir bölümü gümrük oranını da belirliyordu.[^k2] Oran,
 Bu, mali egemenliğin doğrudan kaybıdır.[^k1] Devlet, kendi bütçesinin
 başlıca gelir kalemini kendi belirleyemez.
 
-Atlas bu kaybı ayrıca ölçer.[^k3] Bir düzenin gümrüğünü kendi
-belirleyip belirleyemediği, egemenliğin en somut ölçütlerinden
-biridir.
+Bir düzenin gümrüğünü kendi
+belirleyip belirleyemediği, egemenliğin en somut ölçütlerinden biridir.[^k3]
 
 ## Sanayi üzerindeki etkisi
 
 Sabit ve düşük tarife, yerli üretimi korumayı imkânsız kılar.[^k1]
 Yeni kurulan üretim dalları rekabete açık kalır.
 
-Bu, atlasın tek ürüne bağlanma dosyasındaki yapıyla kesişir.[^k2]
+Bu, korpusun tek ürüne bağlanma dosyasındaki yapıyla kesişir.[^k2]
 Korunmayan bir pazar, kolayca ihracata dayalı bir düzene
 yerleşir.
 
-Atlas iki dosyayı birbirine bağlar.[^k3] Ticaret siyasetinin dışarıdan
-belirlenmesi, üretim yapısını da dışarıdan belirler.
+Ticaret siyasetinin dışarıdan
+belirlenmesi, üretim yapısını da dışarıdan belirler.[^k3]
 
 ## Yargı ayrıcalığının işleyişi
 
@@ -135,8 +134,8 @@ göre değişir.
 Aynı olay, faile göre farklı hukuka tabi olur.[^k1] Bu, tek bir
 toprakta birden çok hukuk düzeni demektir.
 
-Atlas bu yapıyı ayrıca kaydeder.[^k3] Bu, atlasın vatandaşlık
-dosyasında tanımlanan katmanlı hukukun bir biçimidir.
+Bu, korpusun vatandaşlık dosyasında
+tanımlanan katmanlı hukukun bir biçimidir.[^k3]
 
 ## İki metin sorunu
 
@@ -146,10 +145,9 @@ birbirinin tam karşılığı değildi.
 Hangi metnin esas alınacağı ayrı bir maddeyle belirleniyordu.[^k1] Bu
 madde, çoğu zaman bir tarafın dilini üstün kılıyordu.
 
-Atlas bu sorunu tekrar eden bir ölçüm sayar.[^k3] Aynı yapı, atlasın
-Waitangi ve Adva dosyalarında da kayıtlıdır: iki metinli bir
-antlaşmada, hangi metnin geçerli olduğu antlaşmanın kendisinden daha
-belirleyicidir.
+Aynı yapı, korpusun Waitangi ve Adva
+dosyalarında da kayıtlıdır: iki metinli bir antlaşmada, hangi metnin geçerli olduğu
+antlaşmanın kendisinden daha belirleyicidir.[^k3]
 
 ## Adın kendisi
 
@@ -159,8 +157,8 @@ ve revizyon isteyen taraf tarafından kullanılmıştır.
 Ad, bir hukuki iddiayı taşır.[^k2] Eşitsiz sayılan bir antlaşmanın
 bağlayıcılığı tartışmaya açılabilir.
 
-Atlas bu işlevi ayrıca kaydeder.[^k3] Bir belgeye sonradan verilen ad,
-o belgeye karşı yürütülecek siyasetin de adıdır.
+Bir belgeye sonradan verilen ad, o belgeye
+karşı yürütülecek siyasetin de adıdır.[^k3]
 
 ## Revizyonun koşulu
 
@@ -171,8 +169,8 @@ Görüşmelerde öne sürülen koşul hukuki reformdu.[^k1] Yargı
 ayrıcalığının kalkması için, karşı tarafın tanıdığı bir hukuk düzeninin
 benimsenmesi isteniyordu.
 
-Atlas bu koşulu ayrıca kaydeder.[^k3] **Egemenliği geri almanın bedeli,
-o egemenliğin biçimini karşı tarafın belirlemesiydi.**
+**Egemenliği geri almanın bedeli, o egemenliğin
+biçimini karşı tarafın belirlemesiydi.**[^k3]
 
 ## Reformun iki yüzü
 
@@ -182,8 +180,8 @@ düzeni ve ticaret hukuku yeniden yazıldı.
 Reformun kaynağı bu yüzden tek bir yerde aranmaz.[^k1] İç talep ile dış
 koşul aynı yönde işledi.
 
-Atlas iki etkeni ayrı ayrı sayar.[^k3] Bir reformun dış baskıyla
-gelmiş olması, iç talebin bulunmadığını göstermez.
+Bir reformun dış baskıyla gelmiş olması,
+iç talebin bulunmadığını göstermez.[^k3]
 
 ## Kalıbı uygulayan taraf
 
@@ -194,8 +192,8 @@ aynı madde dizisini taşıyordu.
 Bu, kalıbın taraflara değil konuma bağlı olduğunu gösterir.[^k2] Kalıbı
 kullanan, önce ona tabi olan taraftı.
 
-Atlas bu gözlemi ayrıca kaydeder.[^k1] Bir düzenin mağduru olmak, aynı
-düzeni uygulamaya engel değildir.
+Bir düzenin mağduru olmak, aynı
+düzeni uygulamaya engel değildir.[^k1]
 
 ## Osmanlı ile karşılaştırma
 
@@ -206,8 +204,8 @@ gözetilerek verilmişti.
 Zamanla güç dengesi değişince aynı maddeler tek yönlü işlemeye
 başladı.[^k2] Metin aynı kaldı, işlevi değişti.
 
-Atlas bu farkı ayrıca kaydeder.[^k3] Bir maddenin eşitsiz olup olmaması
-metinden değil, taraflar arasındaki güç dengesinden okunur.
+Bir maddenin eşitsiz olup olmaması metinden değil,
+taraflar arasındaki güç dengesinden okunur.[^k3]
 
 ## Ölçüt
 
@@ -228,11 +226,10 @@ koşullarında ve müttefiklik ilişkileri içinde gerçekleşti.
 Kaldırılma tarihleri ülkeden ülkeye farklıdır.[^k2] Bazı ayrıcalıklar
 resmen kalktıktan sonra da fiilen sürdü.
 
-Atlas bu ayrımı belge kuralına bağlar.[^k3] Bir metnin yürürlükten
-kalkması ile uygulamanın durması ayrı iki tarihtir.
+Bir metnin yürürlükten kalkması ile uygulamanın
+durması ayrı iki tarihtir.[^k3]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Kavramın karşıtı için [Egemenlik](/kavram/egemenlik/), mali boyut için
 [Vergi](/kavram/vergi/) dosyaları okunmalıdır.[^k1]
 

@@ -16,6 +16,7 @@ etiketler: [meksika-devrimi, 1917-anayasasi, toprak-reformu, zapata, carranza, e
 ilgili:
   - donem-13
   - olay-ekim-devrimi
+baglam:
   - aktor-abd
   - kavram-zorunlu-emek-duzeni
   - kavram-ulus-devlet

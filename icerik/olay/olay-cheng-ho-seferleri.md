@@ -47,7 +47,7 @@ onarim_turu: 0
 
 Ming hazine seferleri, 1405 ile 1433 arasındaki deniz yolculuklarıdır; proje,
 Güney Çin Denizi ile Hint Okyanusu'nun kıyı bölgelerine ve adalarına yönelik yedi
-uzun menzilli okyanus seferiyle sonuçlandı.[^k1] Bu dosya seferlerin
+uzun menzilli okyanus seferiyle sonuçlandı.[^k1] Bu inceleme seferlerin
 güzergâhından çok, **onları mümkün kılan devlet örgütlenmesini** ele alır.
 
 ## İki hükümdar, yedi sefer
@@ -100,7 +100,7 @@ kullanımına geçilmişti.[^k2]
 Kapasite ile kullanımın aynı şey olmadığı bu örnekte görülür: teknik imkân sürer,
 program durur. Aynı sorunun daha geniş biçimi
 [Batı neden yükseldi?](/tartisma/bati-neden-yukseldi/) haritasında ele alınıyor;
-bu dosya o soruya cevap vermez ve seferlerin neden durdurulduğuna dair kullanılan
+bu inceleme o soruya cevap vermez ve seferlerin neden durdurulduğuna dair kullanılan
 kaynak bölümünde bir açıklama bulunmamaktadır.
 
 ## Çağdaş dünya
@@ -109,8 +109,7 @@ kaynak bölümünde bir açıklama bulunmamaktadır.
 olarak verilir.[^k3] Seferlere katılan insan sayısına dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için burada oran verilmemiştir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Seferlerin diplomatik sonuçları, taşınan mallar, gemi boyutlarına dair
 tartışmalar ve programın sona erdirilme kararı burada ayrı başlıklar altında ele
 alınmamıştır. Dönemin bütünü [1350–1500](/donem/08/) dosyasında ele alınıyor.

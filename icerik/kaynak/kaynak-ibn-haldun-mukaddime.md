@@ -74,7 +74,7 @@ kitaptan oluşan yedi ciltten meydana gelir; müellif girişte tarih ilminin
 ## Önsöz eserin kendisinden ünlüdür
 
 Bir yedi ciltlik dünya tarihinin önsözünün kendi adıyla anılır hâle gelmesi,[^k1]
-atlasın şu kuralının dayanağıdır: bu dosyada Mukaddime'ye atfedilen önermeler,
+korpusun şu kuralının dayanağıdır: bu incelemede Mukaddime'ye atfedilen önermeler,
 eserin bütününe değil o bölüme atfedilir.
 
 ## Düşünce sisteminin merkezi kaynakta adlandırılmıştır
@@ -83,7 +83,7 @@ Kaynak, müellifin düşünce sisteminin merkezini ilk defa kendisinin
 temellendirdiği umran ilminin oluşturduğunu yazar; maddenin Görüşleri bölümünün
 müellifi Tahsin Görgün'dür.[^k1]
 
-Bir kavramın bir ilim adı olarak kaydedilmesi,[^k1] atlasın kavram katmanında o
+Bir kavramın bir ilim adı olarak kaydedilmesi,[^k1] korpusun kavram katmanında o
 kavrama ayrı bir dosya açmasının dayanağıdır; kavram
 [Umran](/kavram/umran/) dosyasında, kardeş kavram ise
 [Asabiyet](/kavram/asabiyet/) dosyasında ele alınıyor.
@@ -94,7 +94,7 @@ Kaynak, maddenin dört bölümden oluştuğunu ve bölümlerin ayrı müellifler
 tarafından yazıldığını kaydeder; Ekonomi ve Toplum İlişkisi bölümünün müellifi
 İbrahim Erol Kozak, Literatür bölümünün müellifi Cengiz Tomar'dır.[^k1]
 
-Tek bir maddenin dört imza taşıması,[^k1] atlasın kaynak alanında neden müellif
+Tek bir maddenin dört imza taşıması,[^k1] korpusun kaynak alanında neden müellif
 notu tuttuğunun dayanağıdır.
 
 ## Ortaçağ siyaset felsefesindeki yeri
@@ -109,7 +109,7 @@ Aynı ölçekte çalışan sonraki bir tarihçi için tutulan kayıt, zamanı ka
 ayıran ve olayları en yüzeydeki katmana yerleştiren bir kurguyu anlatır.[^k3] O
 tarihçi [Fernand Braudel](/dusunur/braudel/) dosyasında ele alınıyor.
 
-Atlas iki yaklaşım arasında bir öncüllük bağı kurmaz; kullanılan kaynak
+Korpus iki yaklaşım arasında bir öncüllük bağı kurmaz; kullanılan kaynak
 bölümlerinde böyle bir bağ belirtilmemiştir.[^k1][^k3]
 
 ## Metne bağ

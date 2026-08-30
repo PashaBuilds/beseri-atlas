@@ -61,12 +61,12 @@ Veri kümesinde dünya toplamı için 1970'ten önce gözlem bulunmaz.[^k1] Bu,
 serinin en önemli sınırıdır ve dosyanın adında da belirtilmiştir.
 
 Bir dışa açıklık serisinin yirminci yüzyılın ikinci yarısından
-başlaması,[^k1] atlasın şu kuralının dayanağıdır: bu dosyadan on dokuzuncu
+başlaması,[^k1] korpusun şu kuralının dayanağıdır: bu incelemeden on dokuzuncu
 yüzyıl küreselleşme dalgasına ya da iki savaş arası kapanmaya dair bir değer
 okunamaz.
 
 Sınır önemlidir çünkü serinin gösterdiği yükseliş, tarihteki tek yükseliş
-değildir.[^k3] Atlasın kavram dosyaları daha erken dalgaları kaydeder; bu
+değildir.[^k3] Korpusun kavram dosyaları daha erken dalgaları kaydeder; bu
 seri onları göstermez.
 
 ## Oranın ne ölçtüğü
@@ -79,9 +79,8 @@ Bu hesap biçimi, oranın yüzde yüzü aşabileceği anlamına gelir.[^k1] Kü�
 yeniden ihracat yapan ekonomilerde oran birkaç yüz olabilir; dünya toplamında
 ise iki kez sayma etkisi daha sınırlıdır.
 
-Atlas bu yüzden oranı bir ticaret hacmi değil bir dışa açıklık göstergesi
-olarak kaydeder.[^k1] Oranın artması, ticaretin arttığını gösterir ama ne
-kadar arttığını doğrudan vermez.
+Oranın artması, ticaretin arttığını
+gösterir ama ne kadar arttığını doğrudan vermez.[^k1]
 
 ## Serinin içindeki iniş
 
@@ -89,28 +88,27 @@ Seri düz bir yükseliş çizmez.[^k1] Kayıtta 2008 sonrasında bir düşüş v
 ardından dalgalı bir seyir bulunur; 2023'te yaklaşık %58,1 olan oran 2024'te
 yaklaşık %56,7'ye iner.
 
-Bu iniş, atlasın olay dosyalarıyla birlikte okunmalıdır.[^k3] Bir oranın
+Bu iniş, korpusun olay dosyalarıyla birlikte okunmalıdır.[^k3] Bir oranın
 düşmesi, ticaretin azaldığını değil, millî gelirin ticaretten daha hızlı
 büyüdüğünü de gösterebilir.
 
-Atlas iki açıklamayı ayrı tutar ve seriden bir sebep okumaz.[^k1] Oranın
-payı ile paydası ayrı ayrı incelenmeden, hareketin kaynağı belirlenemez.
+Oranın payı ile paydası ayrı ayrı incelenmeden,
+hareketin kaynağı belirlenemez.[^k1]
 
 ## Nüfusla birlikte okunması
 
 Aynı dönemde dünya nüfusu da büyümüştür.[^k2] Uzun dönemli nüfus serisinde
 1970 için yaklaşık 3,7 milyar, 2020 için yaklaşık 7,89 milyar değer bulunur.
 
-Atlas iki seriyi bölerek kişi başına ticaret üretmez.[^k1] İki kümenin
-gözlem yılları ve tanımları farklıdır; bölme işlemi, iki kaynağın
-uyumlu olduğu varsayımını gerektirir.
+İki kümenin gözlem yılları ve tanımları
+farklıdır; bölme işlemi, iki kaynağın uyumlu olduğu varsayımını gerektirir.[^k1]
 
-Bu, atlasın veri dosyalarında genel kuraldır.[^k2] Farklı kaynaklardan gelen
+Bu, bağlantılı veri incelemelerinde genel kuraldır.[^k2] Farklı kaynaklardan gelen
 seriler, aralarındaki tanım farkı incelenmeden birbirine bölünmez.
 
-## Serinin atlastaki işlevi
+## Serinin korpustaki işlevi
 
-Bu dosya, atlasın ticaret kavramı dosyalarına ölçülebilir bir zemin
+Bu inceleme, korpusun ticaret kavramı dosyalarına ölçülebilir bir zemin
 sağlar.[^k1] Kavram dosyaları ticaretin nasıl örgütlendiğini anlatır; bu seri
 ne kadarının sınır geçtiğini verir.
 
@@ -118,23 +116,21 @@ ne kadarının sınır geçtiğini verir.
 biçimi ile hacmi ayrı şeylerdir; aynı hacim çok farklı düzenlerle
 taşınabilir.
 
-Atlas bu yüzden seriden bir düzen çıkarımı yapmaz.[^k1] Seri bir sonucu
-ölçer; sonucu üreten düzeni göstermez.
+Seri bir sonucu ölçer; sonucu
+üreten düzeni göstermez.[^k1]
 
-## Bu dosyanın kapsamadıkları
-
+## Açıkta kalan sorular
 Ülke ve bölge kırılımları burada işlenmez.[^k1] Dosya yalnızca dünya
 toplamını kaydeder ve kaynak dosyasında ülke satırları da bulunur.
 
 Ticaretin bileşimi — hangi malların, hangi hizmetlerin — kapsam
 dışıdır.[^k1] Seri toplam değer verir; içerik dağılımı vermez.
 
-1970 öncesi dönem bu dosyadan okunamaz.[^k3] Atlasın daha erken ticaret
+1970 öncesi dönem bu incelemeden okunamaz.[^k3] Korpusun daha erken ticaret
 düzenleri için kavram ve olay dosyaları vardır ve bu seri onları
 desteklemez.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Serinin ölçtüğü olgunun kavram karşılığı için
 [Küreselleşme](/kavram/kuresellesme/) ve
 [Dünya sistemi](/kavram/dunya-sistemi/) dosyaları okunmalıdır.[^k3]

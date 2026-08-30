@@ -14,11 +14,12 @@ guven_geneli: tartismali
 ilgili:
   - aktor-maya-uygarligi
   - kavram-sozlu-tarih
-  - kavram-anakronizm
   - tartisma-kesif-mi-istila-mi
   - kaynak-guaman-poma-nueva-coronica
   - tartisma-sozlu-gelenek-kaynak-mi
   - kavram-kurulus-anlatisi
+baglam:
+  - kavram-anakronizm
 okuma_onerisi: []
 yazar: "Quiché Maya yazıcıları"
 eser_adi: "Popol Vuh"
@@ -73,13 +74,13 @@ Anlatının işlevi eğlendirmek değildir. Kimin nereden geldiği ve hangi topr
 üzerinde söz sahibi olduğu bu metinle gerekçelendirilir;[^k1] son bölümler
 soy listesine dönüşür.
 
-Bu yapı, atlasın başka bölgelerdeki kuruluş anlatılarında da görülür.[^k2]
+Bu yapı, korpusun başka bölgelerdeki kuruluş anlatılarında da görülür.[^k2]
 Bir kuruluş anlatısı, geçmişi anlatırken bugünkü bir hak iddiasını
 dayandırır; iki iş aynı metinde yürür.
 
 ## Kaydın ikili durumu
 
-Metin, kaydedildiği anda iki dünyaya birden aittir ve bu dosyanın asıl
+Metin, kaydedildiği anda iki dünyaya birden aittir ve bu incelemenin asıl
 konusu budur.[^k1][^k2] Anlatı fetih öncesine dayanır; yazıya geçirilişi ise
 fetihten sonradır ve fetheden tarafın alfabesiyle yapılmıştır.
 
@@ -89,11 +90,10 @@ harfleriyle kaydetmişlerdir.[^k2] Seçilen her karşılık bir tercihtir.
 
 ::tartismali[Metnin ne kadarının fetih öncesi sözlü aktarımı taşıdığı, ne
 kadarının yazıya geçiriliş anındaki koşullardan etkilendiği tartışmalıdır;
-atlas iki okumadan birini benimsemez.]{harita=tartisma-kesif-mi-istila-mi}
+korpus iki okumadan birini benimsemez.]{harita=tartisma-kesif-mi-istila-mi}
 
-Atlas bu yüzden metni bir fetih öncesi belgesi olarak değil, fetihten hemen
-sonra tutulmuş bir kayıt olarak künyeler.[^k1] Tarih alanındaki yıl, anlatının
-değil kaydın tarihidir.
+Tarih alanındaki yıl,
+anlatının değil kaydın tarihidir.[^k1]
 
 ## Aktarım zinciri
 
@@ -101,29 +101,29 @@ Bugün elde bulunan metin, ilk kaydın kendisi değildir.[^k2] Elimizdeki
 biçim, sonraki bir yüzyılda bir din adamının yaptığı kopya ve çeviri
 üzerinden gelir.
 
-Zincirin her halkası bir müdahale imkânıdır ve bu, atlasın elyazması
+Zincirin her halkası bir müdahale imkânıdır ve bu, korpusun elyazması
 kaynaklarında olağan bir durumdur.[^k2] Burada özel olan, halkaların farklı
 dinî ve siyasi konumlarda bulunmasıdır.
 
-Kullanılan kaynak, bu zincirin sonundaki standart okumayı sunar.[^k1] Atlas
+Kullanılan kaynak, bu zincirin sonundaki standart okumayı sunar.[^k1] Korpus
 tek bir okumaya bağlanmanın sınırını kaydeder ve metne yapılacak atıflarda
 hangi çevirinin kullanıldığının belirtilmesini şart koşar.
 
 ## Kıyaslamalı okuma
 
 Aynı kıtada, aynı yüzyılda ve benzer koşullarda yazılmış bir başka metin
-atlasta bulunur.[^k3] İki metin farklı işler yapar ama aynı durumdan doğar:
+korpusta bulunur.[^k3] İki metin farklı işler yapar ama aynı durumdan doğar:
 yerli bir kayıt, fetheden düzenin yazı sistemiyle tutulmuştur.
 
-Fark yönlerindedir. Bu dosyadaki metin geçmişe bakar ve bir soyu
+Fark yönlerindedir. Bu incelemedeki metin geçmişe bakar ve bir soyu
 dayandırır; öteki metin bugüne bakar ve bir yönetimi suçlar.[^k1][^k3]
 
-Atlas ikisini yan yana koyar ve bir sonuç yazmaz.[^k2] Karşılaştırmanın ne
-göstereceği, okurun hangi soruyla geldiğine bağlıdır.
+Karşılaştırmanın ne göstereceği, okurun hangi
+soruyla geldiğine bağlıdır.[^k2]
 
 ## Kapsam dışı
 
-Bu dosya metnin ne olduğunu ve hangi koşullarda kaydedildiğini yazar; bölüm
+Bu inceleme metnin ne olduğunu ve hangi koşullarda kaydedildiğini yazar; bölüm
 bölüm içeriğini vermez.[^k1] Metnin kendisi kaynakta erişilebilir
 durumdadır.
 
@@ -135,8 +135,7 @@ Metnin taş yapıtlar ve resimli kayıtlarla ilişkisi de kapsam
 dışıdır.[^k1] Bu ilişki, bölgenin kaynak katmanı genişledikçe kurulabilir
 hale gelecektir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Metnin ait olduğu uygarlık için [Maya uygarlığı](/aktor/maya-uygarligi/),
 yazılı kaydın bulunmadığı yerde bilginin nasıl taşındığı için
 [Sözlü tarih](/kavram/sozlu-tarih/) dosyaları okunmalıdır.

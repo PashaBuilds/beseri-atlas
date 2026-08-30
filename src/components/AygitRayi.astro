@@ -1,8 +1,8 @@
 ---
 /** Sol aygıt rayı — kesitin derinlik ölçeği. Dönem, bölge, güven, bağlar. */
 import { BOLGE_ADLARI, GUVEN_ADLARI, yol, bag, tipAdi } from '../lib/icerik';
-export interface Props { veri: any; ilgili?: any[]; okuma?: any[]; }
-const { veri, ilgili = [], okuma = [] } = Astro.props;
+export interface Props { veri: any; ilgili?: any[]; baglam?: any[]; okuma?: any[]; }
+const { veri, ilgili = [], baglam: baglamKapilari = [], okuma = [] } = Astro.props;
 const EKSEN_ADLARI: Record<string, string> = {
   siyasi: 'Siyasi', askeri: 'Askerî', ekonomik: 'Ekonomik', kulturel: 'Kültürel',
   felsefi: 'Felsefi', dini: 'Dinî', demografik: 'Demografik', mitolojik: 'Mitolojik',
@@ -54,6 +54,15 @@ const tarih = [veri.tarih_baslangic, veri.tarih_bitis].filter(Boolean).join(' �
       <div class="ray__baslik">İlgili</div>
       <ul class="ray__deger">
         {ilgili.map((i: any) => <li><a href={yol(i.data.id)}>{i.data.baslik}</a></li>)}
+      </ul>
+    </div>
+  )}
+
+  {baglamKapilari.length > 0 && (
+    <div class="ray__blok">
+      <div class="ray__baslik">Bağlam kapıları</div>
+      <ul class="ray__deger">
+        {baglamKapilari.map((i: any) => <li><a href={yol(i.data.id)}>{i.data.baslik}</a></li>)}
       </ul>
     </div>
   )}

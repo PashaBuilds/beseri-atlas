@@ -20,11 +20,12 @@ ilgili:
   - aktor-ispanyol-imparatorlugu
   - kavram-merkantilizm
   - kavram-silahli-ticaret
+  - tartisma-somurgeciligin-ekonomik-bilancosu
+baglam:
   - kavram-kolelik
   - kavram-kapitalizm
   - kavram-tarih-yazimi
   - olay-atlantik-kole-ticareti
-  - tartisma-somurgeciligin-ekonomik-bilancosu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

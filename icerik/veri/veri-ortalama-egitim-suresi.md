@@ -54,7 +54,7 @@ Seri 1870'te 0,46026796 yıl ile başlar ve 2020'de 8,840671 yıl ile biter.[^k1
 Veri kümesinin sütun adı ölçünün kapsadığı yaş grubunu taşır: gençler ve
 yetişkinler, 15-64 yaş.[^k1]
 
-Bir ölçünün adında yaş aralığının bulunması,[^k1] atlasın şu kuralının
+Bir ölçünün adında yaş aralığının bulunması,[^k1] korpusun şu kuralının
 dayanağıdır: bu seriden okunan değerler, hangi yaş grubu için hesaplandığı
 belirtilmeden aktarılmaz. Aynı yıl için farklı yaş grupları farklı sayılar
 verir.
@@ -64,7 +64,7 @@ verir.
 Aynı sağlayıcının okuryazarlık serisinde dünya değeri 1820 için yüzde
 12,046689, 2024 için yüzde 87,74'tür.[^k2]
 
-İki serinin farklı birimlerde olması (biri yıl, diğeri yüzde),[^k1][^k2] atlasın
+İki serinin farklı birimlerde olması (biri yıl, diğeri yüzde),[^k1][^k2] korpusun
 veri dosyalarında birim alanını neden ayrı tuttuğunun dayanağıdır; ilişkili dosya
 [Okuryazarlık oranı, 1820–2024](/veri/okuryazarlik-1475-2023/) dosyasıdır.
 
@@ -74,8 +74,7 @@ veri dosyalarında birim alanını neden ayrı tuttuğunun dayanağıdır; iliş
 sınıflandırır.[^k3] O kavram
 [Yazı sistemi](/kavram/yazi-sistemi/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ülke ülke değerler, cinsiyete göre dağılım ve eğitim tanımları burada ayrı
-başlıklar altında ele alınmamıştır; bu dosya yalnızca dünya toplamı serisini
+başlıklar altında ele alınmamıştır; bu inceleme yalnızca dünya toplamı serisini
 kaydeder.[^k1]

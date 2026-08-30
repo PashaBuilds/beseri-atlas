@@ -57,7 +57,7 @@ onarim_turu: 0
 
 Kaynak onu MÖ 384-322 arasına yerleştirir ve geride belki iki yüz kadar
 incelemeden oluşan büyük bir külliyat bıraktığını, bunlardan yaklaşık otuz birinin
-günümüze ulaştığını yazar.[^k1] Bu dosya, düşüncesini değil **külliyatın
+günümüze ulaştığını yazar.[^k1] Bu inceleme, düşüncesini değil **külliyatın
 aktarımını** ele alır.
 
 ## Elde kalan oran kaydedilmiştir
@@ -65,7 +65,7 @@ aktarımını** ele alır.
 İki sayı yan yana durur: belki iki yüz inceleme, yaklaşık otuz bir kalan.[^k1]
 
 Bir düşünürün yazdıklarının çoğunun elimizde olmadığının açıkça yazılması,[^k1]
-atlasın bir eser üzerinden kurulan bütün genellemelere neden temkinle
+korpusun bir eser üzerinden kurulan bütün genellemelere neden temkinle
 yaklaştığını gösterir: elimizdeki, yazılanın küçük bir bölümüdür.
 
 ## Alan listesi tek bir disiplinle sınırlı değildir
@@ -87,7 +87,7 @@ biçimlendirdiğini yazar.[^k1] Hocasının kendi kaydı da onu, derinlik ve kap
 bakımından kendisine yaklaşan az sayıda yazardan biri olarak ve kendisiyle
 çalışmış olarak anar.[^k2]
 
-İki maddenin birbirini karşılıklı anması,[^k1][^k2] atlasın çift yönlü bağ
+İki maddenin birbirini karşılıklı anması,[^k1][^k2] korpusun çift yönlü bağ
 kuralının kaynaklarda da bir karşılığı olduğunu gösterir; hocası
 [Platon](/dusunur/platon/) dosyasında ele alınıyor.
 
@@ -99,7 +99,7 @@ sayılan filozof, fakih ve hekim; aynı listede Averroes, bu adın Batı dilleri
 kullanılan biçimi olarak ayrı bir madde başlığıdır.[^k3]
 
 Aynı külliyatın Geç Antik Çağ'dan Rönesans'a kadar yüzyıllarca felsefeyi
-biçimlendirdiği ayrıca kaydedilir.[^k1] Atlas bu iki kaydı yan yana koyar ve
+biçimlendirdiği ayrıca kaydedilir.[^k1] Korpus bu iki kaydı yan yana koyar ve
 aralarında bir neden bağı kurmaz; kurulabilecek bağ, kullanılan kaynak
 bölümlerinde belirtilmemiştir.
 
@@ -107,12 +107,11 @@ Aynı adın hem iki ayrı kişiye hem bir Batı diline ayrı ayrı kaydedilmesi,
 düşünür dosyalarında adın kendisinin de bir kayıt sorunu olduğunu gösterir; aynı
 sorun [Konfüçyüs](/dusunur/konfucyus/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Mantık, doğa felsefesi, etik ve siyaset kuramının içeriği burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]
 
 ## Eserine bağ
 
-Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Politika*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+Bu inceleme düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Politika*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
 verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

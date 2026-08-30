@@ -58,7 +58,7 @@ onarim_turu: 0
 ## Ne olduğu
 
 Mapuçe, Güney Amerika'nın güneybatısında yaşayan ve bugün de varlığını
-sürdüren bir halktır.[^k1] Bu dosya, halkın tamamının tarihini değil
+sürdüren bir halktır.[^k1] Bu inceleme, halkın tamamının tarihini değil
 yalnızca belirli bir siyasi olguyu ve onun kaynak durumunu kaydeder.
 
 Olgu şudur: bölgeye kuzeyden gelen imparatorluk da, sonradan gelen
@@ -79,9 +79,8 @@ başkent ve tek bir ordu yoktu.
 birleşmesiyle kuruluyordu.[^k2] Birleşme kalıcı değildi ve savaş
 bitince birimler kendi düzenlerine dönüyordu.
 
-Atlas bunu bir eksiklik olarak değil bir yapı olarak kaydeder.[^k3]
-Merkezî bir aygıtın yokluğu, karşı tarafın uygulayacağı yöntemi de
-işlevsiz kılar.
+Merkezî bir aygıtın yokluğu, karşı
+tarafın uygulayacağı yöntemi de işlevsiz kılar.[^k3]
 
 ## Yokluğun sağladığı üstünlük
 
@@ -102,9 +101,8 @@ gelmez.[^k1] Aynı yapı, saldırı ve uzun süreli seferler için elverişsizdi
 Merkezsiz bir düzen kendi topraklarında dayanıklıdır ve dışarıda
 etkisizdir.[^k3] İki özellik aynı yapının iki yüzüdür.
 
-Atlas bu nedenle karşılaştırmayı savunma ve saldırı için ayrı ayrı
-yapar.[^k2] Bir örgütlenme biçiminin değeri, hangi işi yapacağına göre
-değişir.
+Bir örgütlenme biçiminin değeri, hangi işi
+yapacağına göre değişir.[^k2]
 
 ## Coğrafi etken
 
@@ -115,9 +113,8 @@ Bu, kuzeyden gelen ordular için lojistik güçlük demekti.[^k1] Sürekli
 ikmal gerektiren büyük birlikler, orman koşullarında hareket
 edemiyordu.
 
-Atlas coğrafyayı tek neden saymaz.[^k2] Coğrafya bir maliyet dağılımı
-kurar; kararları insanlar verir ve aynı coğrafyada başka sonuçlar da
-mümkündü.
+Coğrafya bir maliyet dağılımı kurar;
+kararları insanlar verir ve aynı coğrafyada başka sonuçlar da mümkündü.[^k2]
 
 ## At ve uyum
 
@@ -128,9 +125,9 @@ At, hareket kabiliyetini ve baskın menzilini artırdı.[^k2] Bu, sınır
 hattının yalnızca savunulmasını değil, kuzeye doğru baskı
 yapılabilmesini de sağladı.
 
-Atlas bu uyumu ayrıca kaydeder.[^k3] Dışarıdan gelen bir unsurun
-benimsenmesi, benimseyeni zayıflatmak zorunda değildir; burada
-karşıtına karşı kullanılmıştır.
+Dışarıdan gelen bir unsurun
+benimsenmesi, benimseyeni zayıflatmak zorunda değildir; burada karşıtına karşı
+kullanılmıştır.[^k3]
 
 ## Ateşli silahların etkisi
 
@@ -140,7 +137,7 @@ doldurma süresi ve arazi, silahın üstünlüğünü sınırlıyordu.
 Belirleyici hâle gelmesi on dokuzuncu yüzyılı buldu.[^k3] O yüzyılda
 menzil, atış hızı ve ikmal birlikte değişti.
 
-Bu, atlasın Aşanti dosyasında ölçtüğü örüntüyle aynıdır.[^k1] Askerî
+Bu, korpusun Aşanti dosyasında ölçtüğü örüntüyle aynıdır.[^k1] Askerî
 üstünlüğün yön değiştirmesi tek bir silahla değil bir bileşimle
 gerçekleşir.
 
@@ -149,12 +146,12 @@ gerçekleşir.
 On yedinci yüzyıldan itibaren iki taraf arasında antlaşmalar
 imzalandı.[^k1] Antlaşmalar sınırı tanıyor ve ticareti düzenliyordu.
 
-Bu, atlasın kayda değer bulduğu bir olgudur.[^k3] Bir Avrupa gücü,
+Bu, korpusun kayda değer bulduğu bir olgudur.[^k3] Bir Avrupa gücü,
 kendi hâkimiyet iddiasının içinde kalan bir bölgeyi antlaşmayla ayrı
 tuttu.
 
 Antlaşmaların varlığı, tanınmanın merkezî devlet şartına bağlı
-olmadığını gösterir.[^k2] Atlas aynı gözlemi Haudenosaunee dosyasında da
+olmadığını gösterir.[^k2] Korpus aynı gözlemi Haudenosaunee dosyasında da
 kaydetmişti.
 
 ## Antlaşmaların işleyişi
@@ -166,15 +163,15 @@ Bu tören yapısı bir formalite değildi.[^k2] Merkezî bir muhatabın
 bulunmadığı bir düzende, antlaşmanın geçerliliği her kuşakta yeniden
 kurulmak zorundaydı.
 
-Atlas bu mekanizmayı ayrıca yazar.[^k3] Merkezsiz bir tarafla yapılan
-antlaşma, imzayla değil tekrarla ayakta durur.
+Merkezsiz bir tarafla yapılan antlaşma,
+imzayla değil tekrarla ayakta durur.[^k3]
 
 ## Ticaret ilişkisi
 
 Sınır hattı bir kapanma değil bir alışveriş yüzeyiydi.[^k2] Hayvan,
 tekstil, tuz ve maden iki yönde de hareket ediyordu.
 
-Ticaret, çatışma dönemlerinde bile tümüyle kesilmedi.[^k1] Bu, atlasın
+Ticaret, çatışma dönemlerinde bile tümüyle kesilmedi.[^k1] Bu, korpusun
 başka sınır bölgelerinde de ölçtüğü bir örüntüdür.
 
 Sonucu şudur.[^k3] Bir sınırın askerî olarak çatışmalı olması, ekonomik
@@ -189,13 +186,12 @@ saydılar.
 On dokuzuncu yüzyıl sonunda iki yönden askerî harekât düzenlendi ve
 bölge ilhak edildi.[^k1] Üç yüzyıllık sınır düzeni sona erdi.
 
-Atlas bu geçişi ayrıca kaydeder.[^k2] Sömürge yönetiminin sona ermesi,
-sömürge sınırlarının içindeki her grup için bağımsızlık anlamına
-gelmedi.
+Sömürge yönetiminin sona ermesi, sömürge
+sınırlarının içindeki her grup için bağımsızlık anlamına gelmedi.[^k2]
 
 ## Sonucun genel biçimi
 
-Bu örüntü atlasta başka yerlerde de görülür.[^k3] Sömürge sonrası
+Bu örüntü korpusta başka yerlerde de görülür.[^k3] Sömürge sonrası
 kurulan devletler, önceki yönetimin tanımadığı alanları da kendi
 sınırlarına dâhil ettiler.
 
@@ -203,8 +199,8 @@ Devralınan şey toprak iddiasıydı, antlaşma yükümlülüğü değil.[^k1]
 İki taraflı bir antlaşma, taraflardan biri değişince otomatik olarak
 sürmedi.
 
-Atlas bunu bir hukuki değerlendirme olarak değil bir olgu olarak
-yazar.[^k2] Antlaşmaların halefiyeti ayrı bir tartışma gerektirir.
+Antlaşmaların halefiyeti ayrı bir
+tartışma gerektirir.[^k2]
 
 ## Sınırın kurumsallaşması
 
@@ -216,9 +212,8 @@ Aracılık bir meslek hâline geldi.[^k3] Sınırın iki yanında da dil bilen,
 her iki tarafın da güvendiği kişiler yetişti ve bunlar antlaşma
 görüşmelerinin yürütücüsüydü.
 
-Atlas bu tür oluşumları ayrıca kaydeder.[^k2] Uzun süren bir sınır,
-yalnızca bir ayrım çizgisi değil, kendi nüfusu ve kendi meslekleri olan
-bir bölgedir.
+Uzun süren bir sınır, yalnızca bir ayrım çizgisi
+değil, kendi nüfusu ve kendi meslekleri olan bir bölgedir.[^k2]
 
 ## Sınır bölgesi nüfusu
 
@@ -230,9 +225,8 @@ haneler ortaya çıktı.
 Bu geçiş, iki tarafı da değiştirdi.[^k2] Dil, giyim, hayvancılık ve savaş
 teknikleri her iki yönde de aktarıldı ve aktarım tek yönlü olmadı.
 
-Atlas bu nedenle "etki" sözcüğünü tek yönlü kullanmaz.[^k3] Bir sınır
-bölgesinde etkinin yönünü belirlemek, ancak her unsur için ayrı ayrı
-sorularak yapılabilir.
+Bir sınır bölgesinde etkinin yönünü
+belirlemek, ancak her unsur için ayrı ayrı sorularak yapılabilir.[^k3]
 
 ## Direnişin maliyeti
 
@@ -243,18 +237,17 @@ belirliyordu.
 Bu maliyet dosyada ayrıca yazılır.[^k3] Bir direnişin başarılı olması,
 direnenler için bedelsiz olduğu anlamına gelmez.
 
-Atlas iki düzeyi ayrı tutar.[^k2] Siyasi sonucun kaydedilmesi ile o
-sonucun bedelinin kaydedilmesi ayrı işlerdir ve ikincisi çoğu zaman
-atlanır.
+Siyasi sonucun kaydedilmesi ile o sonucun bedelinin
+kaydedilmesi ayrı işlerdir ve ikincisi çoğu zaman atlanır.[^k2]
 
 ## Kaynak durumu
 
-Bu dosyanın iki künyesi dönem tanıklığıdır ve ikisi de karşı taraftan
+Bu incelemenin iki künyesi dönem tanıklığıdır ve ikisi de karşı taraftan
 gelir.[^k2] Biri savaşa katılmış bir askerin manzum anlatısı, biri
 ilhaktan sonra yazılmış bir ansiklopedi maddesidir.
 
 Halkın kendi kayıtları sözlü aktarımdadır.[^k1] Doğrulanabilir çevrimiçi
-bir derleme bu dosya yazıldığında bulunamamıştır.
+bir derleme bu inceleme yazıldığında bulunamamıştır.
 
 Eksik borç defterine yazılmıştır.[^k3] Dosyanın konusu bir direniştir ve
 direnen tarafın kendi kaydı künyelenememiştir; bu kısıt burada beyan
@@ -268,38 +261,35 @@ Künyelenen manzum anlatı, karşı tarafın bir askerinin kaleminden
 Bu, metnin tarafsız olduğu anlamına gelmez.[^k1] Düşmanı yüceltmek,
 onu yenen tarafı da yüceltmenin bilinen bir yoludur.
 
-Atlas metni bir tanıklık olarak künyeler ve çerçevesini
-belirtir.[^k3] Bir kaynağın karşı tarafa saygılı olması, o kaynağı karşı
-tarafın kaydı yapmaz.
+Bir kaynağın karşı tarafa saygılı olması,
+o kaynağı karşı tarafın kaydı yapmaz.[^k3]
 
 ## Kapsam dışı
 
 Halkın toplumsal yapısı, dili ve inanç düzeni burada ayrıntılı olarak
-işlenmez.[^k1] Ayrı dosyalar gerektirirler ve bu dosya yazıldığında
-atlasta bulunmuyorlardı.
+işlenmez.[^k1] Ayrı dosyalar gerektirirler ve bu inceleme yazıldığında
+korpusta bulunmuyorlardı.
 
 Savaşların askerî ayrıntısı kapsam dışıdır.[^k2] Dosya yalnızca sınırın
 üç yüzyıl boyunca neden durduğuna ilişkin olanı kaydeder; seferlerin
 güzergâhı, süresi ve tarafların kayıpları ayrı bir çalışma gerektirir.
 
-Yirminci yüzyıl ve sonrası işlenmez.[^k3] Atlas yaşayan siyasi durumlar
+Yirminci yüzyıl ve sonrası işlenmez.[^k3] Korpus yaşayan siyasi durumlar
 hakkında değerlendirme yapmaz.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, merkezsiz örgütlenmenin genel bir üstünlük olduğunu ileri
 sürmez.[^k1] Savunmada dayanıklı, saldırıda etkisiz olduğunu kaydeder.
 
 Sınırın durmasının tek nedeni belirlenmez.[^k2] Coğrafya, örgütlenme
 biçimi ve at uyumu ayrı ayrı etkendir ve ağırlıkları ölçülmemiştir.
 
-Halkın kendi anlatısı bu dosyada temsil edilmemektedir.[^k3] Bu bir
+Halkın kendi anlatısı bu incelemede temsil edilmemektedir.[^k3] Bu bir
 tercih değil bir kaynak kısıtıdır ve kapatılması gerekir; dosyanın
 tamamı, karşı taraftan gelen iki tanıklığa ve bir giriş kapısına
 dayanmaktadır ve bu, konusuna göre en zayıf kaynak bileşimidir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Kuzeydeki imparatorluk için [İnka İmparatorluğu](/aktor/inka-imparatorlugu/),
 sonradan gelen güç için
 [İspanyol İmparatorluğu](/aktor/ispanyol-imparatorlugu/) dosyaları
@@ -307,7 +297,7 @@ okunmalıdır.[^k1]
 
 Merkezî zor aygıtı olmadan işleyen bir başka siyasi birlik için
 [Haudenosaunee Konfederasyonu](/aktor/haudenosaunee/) dosyası uygundur;
-iki dosya birlikte okunduğunda atlasın aktör kategorisinin sınırı
+iki dosya birlikte okunduğunda korpusun aktör kategorisinin sınırı
 görünür.[^k3]
 
 Sürecin nasıl adlandırılacağı için

@@ -66,9 +66,8 @@ Hanedan ya da hükümet yerinde kalır.
 Düzen, ilhak ile bağımsızlık arasında bir ara biçimdir.[^k1] İki uçtan
 da ayrılır ve ikisiyle de karıştırılır.
 
-Atlas bu kavramı ayrı bir dosya olarak tutar.[^k3] Beş ayrı dosyada aynı
-düzenle karşılaşıldı ve her defasında yeniden tarif edilmesi
-gerekiyordu.
+Beş ayrı dosyada aynı düzenle karşılaşıldı
+ve her defasında yeniden tarif edilmesi gerekiyordu.[^k3]
 
 ## Neyi devrettiği
 
@@ -89,31 +88,31 @@ kurulmaz, memur atanmaz, gündelik idari sorumluluk alınmaz.
 Karşılığında denetim azalır.[^k3] Koruyan taraf, hedeflerine yerel
 hanedan aracılığıyla ulaşmak zorundadır.
 
-Tercih bu nedenle bir maliyet hesabıdır.[^k2] Atlas iki aracı bir
+Tercih bu nedenle bir maliyet hesabıdır.[^k2] Korpus iki aracı bir
 gelişmişlik sıralaması olarak değil, bir seçim olarak kaydeder.
 
 ## Ne zaman tercih edilmediği
 
-Aynı güç, komşu devletlere farklı araçlar uygulayabilir.[^k3] Atlasta bu,
+Aynı güç, komşu devletlere farklı araçlar uygulayabilir.[^k3] Korpusta bu,
 Orta Asya'da üç hanlıkta ölçüldü: ikisi himaye altına alındı, biri
 doğrudan ilhak edildi.
 
 Farkın nedeni tek bir etkene bağlanamadı.[^k1] Sınır konumu, üretim
 yapısı ve hanedanın istikrarı ayrı ayrı öne sürülebilir.
 
-Atlas soruyu açık bırakır.[^k2] Cevabı olmayan bir sorunun kaydedilmesi,
-yanlış cevabın kaydedilmesinden iyidir.
+Cevabı olmayan bir sorunun kaydedilmesi, yanlış
+cevabın kaydedilmesinden iyidir.[^k2]
 
 ## Korunanın korunmadığı durum
 
-Himaye, korunan devletin varlığını garanti etmez.[^k3] Atlasta iki örnek
+Himaye, korunan devletin varlığını garanti etmez.[^k3] Korpusta iki örnek
 himaye altındayken sona erdi.
 
 Bir başka örnekte düzen sona erdi ve devlet ayakta kaldı.[^k2] Devredilen
 yetki geri alındı; kurulacak yeni bir devlet yoktu çünkü devlet hiç
 ortadan kalkmamıştı.
 
-Fark, atlasın sömürgesizleşme dosyasındaki örüntüden ayrılır.[^k1]
+Fark, korpusun sömürgesizleşme dosyasındaki örüntüden ayrılır.[^k1]
 Olağan biçim yeni bir devletin kurulmasıdır; himaye örneklerinde
 süreklilik korunabilir.
 
@@ -126,8 +125,8 @@ eğilimindedir.
 Yerleşim, çoğu zaman toprağın satın alınabilmesine bağlıdır.[^k1] Toprak
 devredilemez ise yerleşim de kurulamaz.
 
-Atlas bu zinciri ayrıca kaydeder.[^k3] Hukuki bir hüküm, demografik bir
-sonucu ve onun üzerinden siyasi bir sonucu belirleyebilir.
+Hukuki bir hüküm, demografik bir sonucu ve
+onun üzerinden siyasi bir sonucu belirleyebilir.[^k3]
 
 ## Rızanın belirsizliği
 
@@ -137,8 +136,8 @@ Himaye antlaşmaları, karşılıklı rıza biçiminde yazılır.[^k2] Metinler
 Metnin bunu bildirmesi, öyle olduğunu göstermez.[^k1] Antlaşmaların
 önemli bir bölümü askerî baskı altında imzalanmıştır.
 
-Atlas bu ayrımı bütün himaye künyelerine yazar.[^k3] Bir belgenin hangi
-koşullarda kabul edildiği, belgenin metninden okunamaz.
+Bir belgenin hangi koşullarda kabul edildiği,
+belgenin metninden okunamaz.[^k3]
 
 ## Adlandırmanın etkisi
 
@@ -149,9 +148,8 @@ Aynı ilişki başka bir sözcükle adlandırılsaydı farklı görünürdü.[^k
 Adlandırma, ilişkinin kendisini değiştirmez ama nasıl tartışıldığını
 değiştirir.
 
-Atlas terimi kullanır ve terimin taşıdığı çerçeveyi ayrıca
-belirtir.[^k2] Bir terimi kullanmak, onun çerçevesini benimsemek
-değildir.
+Bir terimi kullanmak, onun çerçevesini
+benimsemek değildir.[^k2]
 
 ## Süre ve sonuç ilişkisi
 
@@ -162,26 +160,23 @@ Süre ile sonuç arasında doğrudan bir ilişki görünmez.[^k1] Uzun süren
 düzenlerin bir bölümü devletin ortadan kalkmasıyla, bir bölümü
 bağımsızlığın geri alınmasıyla bitmiştir.
 
-Atlas bu nedenle süreyi bir gösterge olarak kullanmaz.[^k2] Sonucu
-belirleyen etkenler süreden bağımsız görünmektedir ve hangileri olduğu
-ölçülmemiştir.
+Sonucu belirleyen etkenler süreden bağımsız
+görünmektedir ve hangileri olduğu ölçülmemiştir.[^k2]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya himaye düzeninin hukuki geçerliliği hakkında hüküm vermez.[^k1]
-Düzenin nasıl işlediğini ve atlasta hangi örneklerde görüldüğünü
+Düzenin nasıl işlediğini ve korpusta hangi örneklerde görüldüğünü
 kaydeder.
 
 Bir tipoloji de önermez.[^k3] Örnekler arasındaki farklar, tek bir
 sınıflandırmaya sığmayacak kadar geniştir.
 
-Güncel uluslararası hukuktaki karşılıkları işlenmez.[^k2] Atlas güncel
+Güncel uluslararası hukuktaki karşılıkları işlenmez.[^k2] Korpus güncel
 hukuki durumlar hakkında değerlendirme yapmaz ve bugün yürürlükte olan
-benzer düzenlemeler bu dosyanın kapsamı dışındadır; dosya yalnızca
+benzer düzenlemeler bu incelemenin kapsamı dışındadır; dosya yalnızca
 tarihsel örnekleri kaydeder.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Himaye altındayken hanedanını ve toprak düzenini koruyan örnek için
 [Tonga Krallığı](/aktor/tonga-kralligi/), himaye altındayken sona eren
 örnekler için [Buhara Hanlığı](/aktor/buhara-hanligi/) ve

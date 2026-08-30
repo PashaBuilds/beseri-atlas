@@ -11,7 +11,8 @@ bolge: [okyanusya]
 eksen: [kulturel, demografik, ekonomik]
 guven_geneli: tartismali
 etiketler: [lapita, pasifik, seramik, goc, avustronezya, arkeoloji, dna]
-ilgili:
+ilgili: []
+baglam:
   - kavram-avustronezya-yayilmasi
   - kavram-arkeolojik-kanit
   - aktor-rapa-nui

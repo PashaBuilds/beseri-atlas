@@ -268,9 +268,8 @@ Bu okuma tartışmalıdır.[^k5] İki savaşı ayrı olaylar sayan ve
 aralarındaki yılları bağımsız bir dönem olarak ele alan okumalar da
 vardır.
 
-Atlas bu tercihi ayrıca beyan eder.[^k2] Dosyanın adı, iki savaşı tek
-bir krizin parçası sayan okumayı yansıtır ve bu bir
-yorumdur.
+Dosyanın adı, iki savaşı tek bir krizin
+parçası sayan okumayı yansıtır ve bu bir yorumdur.[^k2]
 
 ## Sanayi kapasitesinin savaşa çevrilmesi
 
@@ -281,9 +280,8 @@ kullanıldı.
 Bu, savaşın süresini de belirledi.[^k2] Cephe hattı kırılamadığında
 savaş, üretim kapasitesinin sınavına dönüştü.
 
-Atlas bu dönüşümü ayrıca kaydeder.[^k5] Bir savaşın kazananı,
-muharebe alanında değil üretim ve ikmal kapasitesinde
-belirlenebilir.
+Bir savaşın kazananı, muharebe alanında değil
+üretim ve ikmal kapasitesinde belirlenebilir.[^k5]
 
 ## Cephe gerisinin savaşa katılması
 
@@ -294,8 +292,8 @@ doğdu.
 Sivil ile asker arasındaki ayrım fiilen aşındı.[^k2] Ayrım hukuken
 korunurken uygulamada terk edildi.
 
-Atlas bu aşınmayı ayrıca kaydeder.[^k6] Bir hukuki ayrımın metinde
-durması, uygulamada işlediğini göstermez.
+Bir hukuki ayrımın metinde durması,
+uygulamada işlediğini göstermez.[^k6]
 
 ## İmparatorlukların dağılması
 
@@ -306,9 +304,8 @@ kuruldu.
 Ölçüt uygulanamadı.[^k1] Nüfus dağılımı sınırlarla örtüşmüyordu ve
 yeni devletlerin her birinde azınlık grupları kaldı.
 
-Atlas bu sonucu ayrıca kaydeder.[^k5] Ulus ölçütüne dayanan bir sınır
-çizimi, karışık yerleşim düzeninde kaçınılmaz olarak azınlık
-üretir.
+Ulus ölçütüne dayanan bir sınır
+çizimi, karışık yerleşim düzeninde kaçınılmaz olarak azınlık üretir.[^k5]
 
 ## Nüfus mübadelesi
 
@@ -318,9 +315,8 @@ düzenlenen zorunlu göçler yapıldı.
 Çözüm, sorunu tanımlayan çerçeveyi kabul ediyordu.[^k1] Sınırı nüfusa
 uydurmak yerine nüfusu sınıra uydurmak seçildi.
 
-Atlas bu tercihi ayrıca kaydeder.[^k6] İki çözümden hangisinin
-seçildiği, hangi tarafın taşınabilir sayıldığını
-gösterir.
+İki çözümden hangisinin seçildiği, hangi
+tarafın taşınabilir sayıldığını gösterir.[^k6]
 
 ## Manda düzeni
 
@@ -331,9 +327,8 @@ olarak tanımlandı.
 Uygulamada sömürge yönetiminden ayırt edilmesi güçtü.[^k3] Denetim
 mekanizması zayıf işledi.
 
-Atlas bu biçimi ayrıca kaydeder.[^k1] Bir yönetimin uluslararası bir
-çerçeveye bağlanması, o çerçevenin işletildiği anlamına
-gelmez.
+Bir yönetimin uluslararası bir çerçeveye
+bağlanması, o çerçevenin işletildiği anlamına gelmez.[^k1]
 
 ## Tazminat maddeleri
 
@@ -343,9 +338,8 @@ ve ödeme takvimi ayrı bir komisyona bırakıldı.
 Tazminatın iktisadi etkisi dönem boyunca tartışıldı.[^k5] Tartışma,
 ödemenin mümkün olup olmadığı üzerineydi.
 
-Atlas bu tartışmayı ayrıca kaydeder.[^k1] Bir yükümlülüğün hukuken
-konması, iktisaden karşılanabilir olduğunu
-göstermez.
+Bir yükümlülüğün hukuken konması, iktisaden
+karşılanabilir olduğunu göstermez.[^k1]
 
 ## Savaş suçluluğu maddesi
 
@@ -356,9 +350,8 @@ Maddenin siyasi etkisi hukuki işlevinden büyük oldu.[^k1] Sonraki
 yıllarda iç siyasette sürekli bir dayanak hâline
 geldi.
 
-Atlas bu etkiyi ayrıca kaydeder.[^k5] Bir metnin siyasi kullanımı,
-metnin hukuki amacından bağımsız bir sonuç
-üretebilir.
+Bir metnin siyasi kullanımı, metnin hukuki
+amacından bağımsız bir sonuç üretebilir.[^k5]
 
 ## İktisadi çöküş
 
@@ -369,8 +362,8 @@ daraldı.
 Çöküş, tek bir ülkeden başlayıp yayıldı.[^k1] Yayılmanın kanalı,
 önceki dönemde kurulan mali bağlantılardı.
 
-Atlas bu kanalı ayrıca kaydeder.[^k2] Bütünleşmenin sağladığı akış,
-kriz anında bulaşma kanalına dönüşür.
+Bütünleşmenin sağladığı akış, kriz anında
+bulaşma kanalına dönüşür.[^k2]
 
 ## Korumacılığa dönüş
 
@@ -381,9 +374,8 @@ daralttı.
 Her ülke için tek tek makul olan tedbir, toplamda zarar
 verdi.[^k1] Bu, dönemin en açık örneklerinden biridir.
 
-Atlas bu örüntüyü ayrıca kaydeder.[^k2] Tek tek akılcı kararların
-toplamı, hiçbir tarafın istemediği bir sonuç
-üretebilir.
+Tek tek akılcı kararların toplamı,
+hiçbir tarafın istemediği bir sonuç üretebilir.[^k2]
 
 ## Rakip ideolojiler
 
@@ -395,9 +387,8 @@ Destek, iktisadi çöküşle doğrudan bağlantılıydı.[^k5] İşsizlik
 oranlarıyla oy hareketleri arasındaki ilişki kayıtlarda
 izlenebilir.
 
-Atlas bu bağı ihtiyatla kurar.[^k2] Bir ilişkinin varlığını göstermek,
-yönünü ve tek başına yeterliliğini
-göstermez.
+Bir ilişkinin varlığını göstermek,
+yönünü ve tek başına yeterliliğini göstermez.[^k2]
 
 ## Kitle iletişiminin rolü
 
@@ -407,9 +398,8 @@ seslenmek mümkün hâle geldi.
 Bu, siyasi iletişimin biçimini değiştirdi.[^k5] Aracısız ve eş
 zamanlı bir kanal kuruldu.
 
-Atlas bu aracı ayrıca kaydeder.[^k2] Bir iletişim aracının kimin
-elinde olduğu, hangi mesajın yayılacağını doğrudan
-belirler.
+Bir iletişim aracının kimin elinde olduğu, hangi
+mesajın yayılacağını doğrudan belirler.[^k2]
 
 ## İkinci savaşın ölçeği
 
@@ -420,9 +410,8 @@ açıldı.
 Sivil kayıpların payı asker kayıplarını aştı.[^k2] Bu, önceki
 savaşlardan yapısal bir farktır.
 
-Atlas bu oranı ayrıca kaydeder.[^k1] Bir savaşın niteliği, toplam
-kayıptan çok kayıpların asker ve sivil arasındaki dağılımından
-okunur.
+Bir savaşın niteliği, toplam
+kayıptan çok kayıpların asker ve sivil arasındaki dağılımından okunur.[^k1]
 
 ## Sayıların durumu
 
@@ -434,8 +423,8 @@ Doğrudan çatışma, salgın, kıtlık ve yerinden etme kaynaklı ölümler
 ayrı ayrı sayılabilir ya da birleştirilebilir.[^k4] Tercih, toplamı
 kat kat değiştirir.
 
-Atlas bu yüzden tek bir sayı vermez.[^k5] Bu, atlasın tarihsel
-sayılar kuralının doğrudan uygulamasıdır.
+Bu, korpusun tarihsel sayılar
+kuralının doğrudan uygulamasıdır.[^k5]
 
 ## Sömürge askerleri
 
@@ -446,9 +435,8 @@ Savaş sonrasında aynı askerlerin hakları genişletilmedi.[^k1] Bu
 çelişki, sonraki dönemin bağımsızlık hareketlerinin
 gerekçelerindendir.
 
-Atlas bu bağı ayrıca kaydeder.[^k6] Bir yükümlülüğün paylaşılması,
-karşılığında hak talep edilmesini
-meşrulaştırır.
+Bir yükümlülüğün paylaşılması,
+karşılığında hak talep edilmesini meşrulaştırır.[^k6]
 
 ## Yeni kurumların tasarımı
 
@@ -460,9 +448,8 @@ Yeni tasarımda belirli üyelere veto hakkı verildi.[^k6] Bu, kurumun
 büyük güçler arasındaki anlaşmazlıklarda işlemez kalmasını da
 getirdi.
 
-Atlas bu değiş tokuşu ayrıca kaydeder.[^k5] Bir kurumu etkisiz kılan
-düzenleme, aynı zamanda onu ayakta tutan düzenleme
-olabilir.
+Bir kurumu etkisiz kılan
+düzenleme, aynı zamanda onu ayakta tutan düzenleme olabilir.[^k5]
 
 ## Kaydın durumu
 
@@ -473,12 +460,10 @@ bulunur.
 Kaydın önemli bölümü uzun süre kapalı kaldı.[^k5] Açılma kademeli
 gerçekleşti ve bazı bölümler hâlâ kapalıdır.
 
-Atlas bu gecikmeyi ayrıca kaydeder.[^k2] Bir olayın kaydına erişim
-tarihi, o olay hakkındaki bilginin
-tarihidir.
+Bir olayın kaydına erişim tarihi, o olay
+hakkındaki bilginin tarihidir.[^k2]
 
-## Dönemi atlasta okumak
-
+## Dönemin bağlantıları
 Bu döneme bağlanan dosyalar dört öbekte toplanır.[^k1] İki savaşın
 olay dosyaları, dağılan ve kurulan düzenlerin aktör dosyaları,
 ideolojilerin kavram dosyaları ve dönemin veri
@@ -489,18 +474,17 @@ imparatorluğun dağılması, bir kavramın adlandırılması ve bir üretim
 serisinin çökmesi aynı dönemi dört ayrı düzeyde
 kaydeder.[^k4]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
 dosyasında ayrıntılı ele alınır ve burada yalnızca döneme
 bağlanır.
 
 Sorumluluk tartışmaları burada karara bağlanmaz.[^k6] İki savaşın
-sorumluluğu, atlasın ayrı tartışma dosyalarında ele
+sorumluluğu, korpusun ayrı tartışma dosyalarında ele
 alınır.
 
 Sayısal seriler burada yorumlanır, üretilmez.[^k4] Serilerin
-kaynakları ve yöntemleri atlasın veri dosyalarında ayrı ayrı
+kaynakları ve yöntemleri bağlantılı veri incelemelerinde ayrı ayrı
 kayıtlıdır.[^k5]
 
 
@@ -513,9 +497,8 @@ Salgın kaynaklı ölüm sayısı, savaşın kendi kaybıyla karşılaştırıla
 düzeydedir.[^k2] İki olgu çoğu anlatıda ayrı ayrı ele
 alınır.
 
-Atlas ikisini birlikte kaydeder.[^k1] Bir savaşın bilançosu, savaşın
-kolaylaştırdığı salgını dışarıda bırakarak
-çıkarılamaz.
+Bir savaşın bilançosu, savaşın kolaylaştırdığı
+salgını dışarıda bırakarak çıkarılamaz.[^k1]
 
 ## Kadınların işgücüne girişi
 
@@ -525,16 +508,15 @@ Savaş yıllarında kadınlar, daha önce kapalı olan sektörlerde
 Savaş bitince bu istihdamın büyük bölümü geri alındı.[^k5] Aynı
 örüntü ikinci savaştan sonra da tekrarlandı.
 
-Atlas bu tekrarı ayrıca kaydeder.[^k4] Kıtlık koşullarında gevşeyen
-bir kısıtın geri getirilmesi, kendiliğinden olmaz; ayrı bir
-karardır.
+Kıtlık koşullarında gevşeyen bir kısıtın
+geri getirilmesi, kendiliğinden olmaz; ayrı bir karardır.[^k4]
 
 ## Oy hakkının genişlemesi
 
 Aynı yıllarda birçok ülkede oy hakkı genişletildi.[^k1] Genişleme,
 savaş katkısıyla açıkça gerekçelendirildi.
 
-Bu, atlasın tekrar eden bir ölçümüdür.[^k6] Bir yükümlülüğün
+Bu, korpusun tekrar eden bir ölçümüdür.[^k6] Bir yükümlülüğün
 paylaşılması, karşılığında hak talebini
 meşrulaştırır.
 
@@ -551,9 +533,8 @@ Hareketler, savaş sırasında verilen sözlere dayanıyordu.[^k6] Sözlerin
 tutulmaması, talebin sertleşmesini
 hızlandırdı.
 
-Atlas bu zinciri ayrıca kaydeder.[^k1] Verilip tutulmayan bir söz,
-verilmemiş bir sözden daha güçlü bir talep dayanağı
-üretir.
+Verilip tutulmayan bir söz, verilmemiş bir sözden
+daha güçlü bir talep dayanağı üretir.[^k1]
 
 ## Altın standardının terk edilmesi
 
@@ -563,9 +544,8 @@ bıraktı.[^k5] Bırakma tarihleri farklıdır.
 Erken bırakanlar daha hızlı toparlandı.[^k5] Bu, dönemin en net
 sayısal bulgularından biridir.
 
-Atlas bu bulguyu ayrıca kaydeder.[^k1] Aynı krize farklı zamanlarda
-verilen aynı cevap, karşılaştırılabilir bir doğal deney
-sunar.
+Aynı krize farklı zamanlarda verilen aynı
+cevap, karşılaştırılabilir bir doğal deney sunar.[^k1]
 
 ## Devletin ekonomideki payı
 
@@ -575,9 +555,8 @@ yıllarında keskin, ara yıllarda kalıcı oldu.
 Savaş sonrası paylar savaş öncesine dönmedi.[^k1] Her savaş, kalıcı
 bir düzey artışı bıraktı.
 
-Atlas bu örüntüyü ayrıca kaydeder.[^k4] Olağanüstü koşullarda
-genişleyen bir kapasite, koşullar geçtikten sonra tümüyle geri
-çekilmez.
+Olağanüstü koşullarda genişleyen
+bir kapasite, koşullar geçtikten sonra tümüyle geri çekilmez.[^k4]
 
 ## Mültecilik ve yersizlik
 
@@ -589,9 +568,8 @@ Bu, uluslararası bir sorun olarak ilk kez kurumsal biçimde ele
 alındı.[^k6] Belge, statü ve yardım düzenleri bu yıllarda
 kuruldu.
 
-Atlas bu kuruluşu ayrıca kaydeder.[^k1] Bir kurumun doğuşu, çoğu zaman
-onu gerektiren felaketin ölçeğinin
-kaydıdır.
+Bir kurumun doğuşu, çoğu zaman onu
+gerektiren felaketin ölçeğinin kaydıdır.[^k1]
 
 ## Bilimsel araştırmanın yönü
 
@@ -602,9 +580,8 @@ hesaplama ve nükleer fizik alanlarındaki ilerlemeler bu
 Sonuçlar askerî alanda kalmadı.[^k5] Aynı çalışmalar sonraki dönemin
 sivil altyapısını kurdu.
 
-Atlas bu geçişi ayrıca kaydeder.[^k2] Bir yatırımın hangi amaçla
-yapıldığı, hangi sonuçları üreteceğini tam olarak
-belirlemez.
+Bir yatırımın hangi amaçla yapıldığı,
+hangi sonuçları üreteceğini tam olarak belirlemez.[^k2]
 
 
 ## Dönemin adlandırılması
@@ -613,9 +590,8 @@ Dönem için kullanılan adlar farklıdır.[^k1] Bazıları iki savaşı ayrı
 olaylar sayar, bazıları tek bir uzun kriz olarak
 adlandırır.
 
-Atlas ikinci okumayı seçmiştir ve gerekçesi kurumsaldır.[^k6] İkinci
-savaşın koşullarının önemli bölümü, birincinin ardından kurulan
-düzenlemelerde kayıtlıdır.
+İkinci savaşın koşullarının önemli bölümü,
+birincinin ardından kurulan düzenlemelerde kayıtlıdır.[^k6]
 
 Bu bir yorumdur ve mutlaklaştırılmaz.[^k5] Aradaki yılları bağımsız
 bir dönem sayan okuma da aynı kayıtlarla
@@ -630,9 +606,8 @@ doğdu.[^k1] Kriz, o düzenin içinde birikmişti.
 Bu bağ, savaşın kaçınılmaz olduğunu göstermez.[^k5] Aynı düzen içinde
 başka kararlar da mümkündü.
 
-Atlas iki iddiayı ayrı tutar.[^k6] Bir sonucun zeminini göstermek,
-o sonucun zorunlu olduğunu göstermekle aynı şey
-değildir.[^k2]
+Bir sonucun zeminini göstermek, o sonucun zorunlu
+olduğunu göstermekle aynı şey değildir.[^k2][^k6]
 
 ## Fikir dünyası
 

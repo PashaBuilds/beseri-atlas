@@ -68,8 +68,8 @@ kapak gravürü, giriş ile dört kısmı ayrı alt başlıklar olarak tutar.[^k
 
 ## Görsel de metnin parçası sayılır
 
-Bir kitabın ön kapak gravürüne ayrı bir alt başlık ayrılması,[^k1] atlasın şu
-kuralının dayanağıdır: bu dosyada eserin savunduğu şey, yalnızca cümlelerinden
+Bir kitabın ön kapak gravürüne ayrı bir alt başlık ayrılması,[^k1] korpusun şu
+kuralının dayanağıdır: bu incelemede eserin savunduğu şey, yalnızca cümlelerinden
 değil kitabın sunum biçiminden de okunabilecek bir kayıt olarak anılır.
 
 ## Devlet kısmı dört alt başlığa ayrılır
@@ -86,7 +86,7 @@ kavram [Egemenlik](/kavram/egemenlik/) dosyasında ele alınıyor.[^k3]
 Kaynak, birinci kısımda yazarın duyu deneyciliği ve insan doğasına dair anlatısını
 verirken sözcükleri ve tanımlarını merkeze aldığını yazar.[^k1]
 
-Bir felsefe metninin tanımlarla açılması,[^k1] atlasın terim kilidi kapısının
+Bir felsefe metninin tanımlarla açılması,[^k1] korpusun terim kilidi kapısının
 erken bir örneğidir: tartışma, terimlerin sabitlenmesiyle başlar.
 
 ## Aynı eserin iki baskısı aynı metin değildir
@@ -95,11 +95,10 @@ Yazar için tutulan ayrı bir kayıt, 1668'de eserin Latince bir baskısını
 yayımladığını ve bu baskıda Teslis ile Tanrı'nın doğası gibi tartışmalı konularla
 ilgili bazı önemli değişiklikler ve eklemeler bulunduğunu yazar.[^k2]
 
-Atlas bu yüzden bu dosyanın künyesinde 1651 yılını tutar ve eserden yapılacak
-her aktarımda hangi baskının kullanıldığının belirtilmesini şart koşar.[^k1][^k2]
-Yazar [Thomas Hobbes](/dusunur/hobbes/) dosyasında ele alınıyor.
+Yazar [Thomas Hobbes](/dusunur/hobbes/)
+dosyasında ele alınıyor.[^k1][^k2]
 
 ## Metne bağ
 
-Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Eserin kendisi kamu malıdır; hangi baskının
+Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Eserin kendisi kamu malıdır; hangi baskının
 kullanıldığı her aktarımda belirtilmelidir.

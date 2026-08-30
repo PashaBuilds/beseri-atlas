@@ -45,7 +45,7 @@ onarim_turu: 0
 
 II. Mahmud ve Tanzimat devirleri, Osmanlı Devleti'nin idari, siyasi, sosyal,
 kültürel ve ekonomik açılardan âdeta yeni bir şekle dönüştürüldüğü dönem olarak
-tanımlanır.[^k1] Bu dosya fermanın metnini değil, açtığı dönüşümün **kurumsal
+tanımlanır.[^k1] Bu inceleme fermanın metnini değil, açtığı dönüşümün **kurumsal
 mantığını** ele alır.
 
 ## Neyi değiştirdi
@@ -92,7 +92,7 @@ ile 29 Eylül 1913 tarihleri arasında sürmüştür.[^k3] Yetmiş yıllık yeni
 yapılanmanın ardından gelen bu kayıp, reformun başarısızlığının kanıtı olarak da,
 dış baskının reformdan güçlü olduğunun kanıtı olarak da okunabilir.
 
-Bu dosya iki okuma arasında hakemlik yapmaz; savaşın iki safhalı seyri ayrı bir
+Bu inceleme iki okuma arasında hakemlik yapmaz; savaşın iki safhalı seyri ayrı bir
 dosyanın konusudur.[^k3] Devletin kurumsal mimarisi
 [Osmanlı İmparatorluğu](/aktor/osmanli-imparatorlugu/), dönemin bütünü ise
 [1848–1914](/donem/12/) dosyasında ele alınıyor.

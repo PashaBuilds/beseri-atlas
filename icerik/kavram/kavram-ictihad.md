@@ -60,7 +60,7 @@ baskı tarihi 2000 olarak kaydedilir.[^k1]
 ## Belirsizlik tanımın içindedir
 
 Bir hukuk yönteminin tanımında ulaşılan bilginin zannî olarak nitelenmesi,[^k1]
-atlasın şu kuralının dayanağıdır: bu dosyada ictihad sonuçları, kesin hüküm
+korpusun şu kuralının dayanağıdır: bu incelemede ictihad sonuçları, kesin hüküm
 olarak değil belirli bir yöntemle ulaşılmış görüş olarak anılır.
 
 ## Nassın bulunmadığı durum ayrıca kayıtlıdır
@@ -83,13 +83,12 @@ yöntemlerini öne çıkardığını yazar.[^k3] O düşünür
 
 ## Kanıt derecesi bir yöntem kararıdır
 
-Üç kaydın da kanıt derecesini ayrıca belirtmesi,[^k1][^k2][^k3] atlasın güven
+Üç kaydın da kanıt derecesini ayrıca belirtmesi,[^k1][^k2][^k3] korpusun güven
 düzeyi alanının bu gelenekteki karşılığıdır: bir sonucun hangi kesinlik
 derecesinde olduğu, sonucun kendisi kadar kaydedilir. Meşruiyet tarafı
 [Meşruiyet](/kavram/mesruiyet/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 İctihad türleri, ictihad kapısı tartışması ve mezhepler arası farklar burada ayrı
 başlıklar altında ele alınmamıştır; kullanılan kaynak bölümünün kapsamı tanımdır.[^k1]
 

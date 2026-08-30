@@ -65,7 +65,7 @@ Yirminci yüzyıl başında adada yüksek kaliteli fosfat yatağı
 bulundu.[^k1] Yatak, adanın iç platosunun neredeyse tamamını
 kaplıyordu ve kalınlığı yer yer birkaç metreyi buluyordu.
 
-Bu dosyanın asıl konusu o örtüşmedir.[^k2] Çıkarılan kaynak ile
+Bu incelemenin asıl konusu o örtüşmedir.[^k2] Çıkarılan kaynak ile
 yaşanabilir alan aynı şeydi.
 
 ## Örtüşmenin anlamı
@@ -94,15 +94,14 @@ Emanetçi ile işletmeci aynı taraflardı.
 
 ## Emanet ile işletmenin birleşmesi
 
-Bu, atlasın vesayet dosyasında kaydedilen eleştirinin en somut
+Bu, korpusun vesayet dosyasında kaydedilen eleştirinin en somut
 örneğidir.[^k2] Emanet fikri, emanetçinin tarafsız olmasını gerektirir.
 
 Burada emanetçi, emanet edilen kaynağın alıcısıydı.[^k1] Fosfat, ödenen
 bedelle dünya piyasasının çok altında satın alınıyordu.
 
-Atlas bu yapıyı ayrıca kaydeder.[^k3] Bir denetim düzeninin, denetlenen
-kaynağın alıcısına emanet edilmesi, denetimin kendisini işlevsiz
-kılar.
+Bir denetim düzeninin, denetlenen kaynağın
+alıcısına emanet edilmesi, denetimin kendisini işlevsiz kılar.[^k3]
 
 ## Bağımsızlık
 
@@ -112,9 +111,8 @@ devralınmasıyla birlikte gerçekleşti.
 Devralma bedelle yapıldı.[^k1] Ada, kendi toprağının çıkarılma hakkını
 geri satın aldı.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k2] Sömürgesizleşmenin mali
-biçimi, çoğu örnekte devralınan varlığın bedelinin de devralana
-yüklenmesidir.
+Sömürgesizleşmenin mali biçimi, çoğu örnekte
+devralınan varlığın bedelinin de devralana yüklenmesidir.[^k2]
 
 ## Gelirin yönetimi
 
@@ -131,14 +129,14 @@ sayılır.
 
 ## Erimenin okunması
 
-Atlas erimeyi tek nedene bağlamaz.[^k3] Sayılan üç etkenin ağırlığı
-ölçülmemiştir.
+Sayılan üç etkenin ağırlığı
+ölçülmemiştir.[^k3]
 
 Yapısal bir etken ayrıca kaydedilir.[^k1] Küçük bir nüfusa sahip yeni bir
 devletin, büyük ölçekli varlık yönetimi için gereken kurumsal kapasiteyi
 kısa sürede kurması beklenemez.
 
-Bu, atlasın başka kaynak zengini devletlerde de ölçtüğü bir
+Bu, korpusun başka kaynak zengini devletlerde de ölçtüğü bir
 örüntüdür.[^k2] Gelirin büyüklüğü ile onu yönetecek kurumun olgunluğu
 arasında zamansal bir uyumsuzluk vardır.
 
@@ -148,11 +146,11 @@ Uyumsuzluk tek cümleyle ifade edilebilir.[^k3] **Bir gelir kaynağı, onu
 yönetecek kurum kurulmadan önce akmaya başlarsa, kurumun kurulması için
 gereken teşvik de ortadan kalkar.**
 
-İfade bir kural değil, atlasta birden çok örnekte gözlenen bir
+İfade bir kural değil, korpusta birden çok örnekte gözlenen bir
 eğilimdir.[^k1] Karşı örnekler de vardır ve ayrıca incelenmelidir.
 
-Atlas eğilimi kaydeder ve genelleştirmez.[^k2] Nedeni, karşı örneklerin
-neden farklı sonuç verdiğinin ölçülmemiş olmasıdır.
+Nedeni, karşı örneklerin neden
+farklı sonuç verdiğinin ölçülmemiş olmasıdır.[^k2]
 
 ## Fosfatın kaynağı
 
@@ -162,9 +160,8 @@ oluşmuştu.[^k1] Oluşum süresi jeolojik ölçektedir.
 Bu, kaynağın yenilenemez olmasını kesinleştirir.[^k3] Çıkarım hızı ile
 oluşum hızı arasında karşılaştırılamaz bir fark vardır.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k2] Yenilenemez kaynak tanımı,
-kaynağın bitmesiyle değil oluşum hızının kullanım hızıyla
-karşılaştırılamaz olmasıyla kurulur.
+Yenilenemez kaynak tanımı, kaynağın bitmesiyle değil
+oluşum hızının kullanım hızıyla karşılaştırılamaz olmasıyla kurulur.[^k2]
 
 ## Sonraki gelir arayışları
 
@@ -175,28 +172,26 @@ kararlarının pazarlık konusu edilmesi sayılır.
 Modellerin bir bölümü uluslararası baskıyla sona erdi.[^k1] Bir bölümü
 sürdürülebilir gelir sağlamadı.
 
-Atlas bu arayışları bir değerlendirme yapmadan kaydeder.[^k3] Gelir
-kaynağı kalmamış küçük bir devletin seçenekleri, atlasın ayrıca
-inceleyeceği bir konudur.
+Gelir kaynağı kalmamış küçük bir
+devletin seçenekleri, korpusun ayrıca inceleyeceği bir konudur.[^k3]
 
 ## Okyanusya karşılaştırması
 
-Atlasın Okyanusya dosyalarında artık beş örnek vardır.[^k3] Dördünde
-belirleyici etken toprağın devredilebilirliğiydi.
+Dördünde belirleyici etken toprağın
+devredilebilirliğiydi.[^k3]
 
 Bu örnek farklı bir eksende durur.[^k2] Burada sorun toprağın
 satılabilirliği değil, toprağın kendisinin ihraç malı olmasıydı.
 
-Atlas iki ekseni ayrı tutar.[^k1] Toprağın mülkiyeti ile toprağın maddi
-varlığı ayrı ayrı sorulmalıdır ve ikincisi yalnızca bu örnekte
-belirleyici oldu.
+Toprağın mülkiyeti ile toprağın maddi varlığı
+ayrı ayrı sorulmalıdır ve ikincisi yalnızca bu örnekte belirleyici oldu.[^k1]
 
 ## Nüfus ve göç
 
 Fosfat işletmesi, dışarıdan getirilen işçilerle yürütüldü.[^k1] İşçiler
 komşu adalardan ve Doğu Asya'dan geldi.
 
-Bu, atlasın Fiji dosyasında ölçtüğü örüntünün küçük ölçekli bir
+Bu, korpusun Fiji dosyasında ölçtüğü örüntünün küçük ölçekli bir
 tekrarıdır.[^k3] Plantasyon ya da maden ekonomisi, yerel nüfusun
 karşılayamayacağı emek talebi üretir ve talep göçle karşılanır.
 
@@ -213,8 +208,8 @@ Bu, bir hesaplama sorusu doğurur.[^k3] Bir kaynaktan elde edilen gelir,
 o kaynağın çıkarılmasının bıraktığı zararın giderilme maliyetini
 karşılıyor muydu.
 
-Atlas hesabı yapmaz.[^k2] Sorunun sorulabilir olduğunu kaydeder ve
-gerekli verinin künyelenemediğini belirtir.
+Sorunun sorulabilir olduğunu kaydeder ve
+gerekli verinin künyelenemediğini belirtir.[^k2]
 
 ## İlhak öncesi düzen
 
@@ -226,7 +221,7 @@ Fosfat çıkarımı bu düzeni doğrudan etkiledi.[^k3] Çıkarılacak alanın
 kime ait olduğu sorusu, kayıtlı bir mülkiyet düzeni gerektiriyordu ve
 böyle bir düzen yoktu.
 
-Yönetim kendi kayıt sistemini kurdu.[^k2] Atlas bu adımı ayrıca
+Yönetim kendi kayıt sistemini kurdu.[^k2] Korpus bu adımı ayrıca
 kaydeder: bir kaynağın çıkarılabilmesi için önce mülkiyetin
 kayda geçirilmesi gerekir ve kaydı yapan taraf, kaydın biçimini de
 belirler.
@@ -240,9 +235,8 @@ alındı.
 Bu çevirme işlemi, sonraki gelir dağılımının da temeli oldu.[^k3] Fosfat
 gelirinden pay, kaydedilmiş mülkiyete göre dağıtıldı.
 
-Atlas bu zinciri ayrıca kaydeder.[^k2] Bir mülkiyet düzeninin
-kaydedilmesi teknik bir işlem gibi görünür; sonuçları ise kuşaklar
-boyunca sürer.
+Bir mülkiyet düzeninin
+kaydedilmesi teknik bir işlem gibi görünür; sonuçları ise kuşaklar boyunca sürer.[^k2]
 
 ## İkinci Dünya Savaşı
 
@@ -254,42 +248,40 @@ Bu, adanın nüfusunda kalıcı bir kırılma yarattı.[^k3] Savaş sonrası
 nüfus, savaş öncesinin belirgin biçimde altındaydı.
 
 Dosya bu dönemi ayrıntılandırmaz.[^k2] Ayrı bir dosya gerektirir ve bu
-dosya yazıldığında atlasta bulunmuyordu.
+dosya yazıldığında korpusta bulunmuyordu.
 
 ## Ölçeğin kendisi
 
-Adanın küçüklüğü, bu dosyanın bütün gözlemlerini etkiler.[^k1] Yirmi bir
+Adanın küçüklüğü, bu incelemenin bütün gözlemlerini etkiler.[^k1] Yirmi bir
 kilometrekarelik bir alanda, her karar bütün alanı etkiler.
 
 Bu, ölçeği bir kısıt olduğu kadar bir gözlem imkânı da yapar.[^k3] Büyük
 bir ülkede bölgesel olarak dağılacak bir süreç, burada tek bir birimde
 ve tümüyle izlenebilir.
 
-Atlas bu imkânı ayrıca kaydeder.[^k2] Küçük birimler, büyük birimlerde
-seyrelen mekanizmaların yalın hâlde görülebildiği yerlerdir ve bu
-nedenle ayrıca değerlidir.
+Küçük birimler, büyük birimlerde seyrelen
+mekanizmaların yalın hâlde görülebildiği yerlerdir ve bu nedenle ayrıca değerlidir.[^k2]
 
 ## Ada devletlerinin ortak kısıtı
 
-Atlasın Okyanusya dosyaları, küçük ada devletleri için ortak bir kısıt
-gösterir.[^k3] Gelir kaynağı çeşitlendirilemediğinde, tek bir kalemdeki
-değişim bütün ekonomiyi etkiler.
+Gelir kaynağı
+çeşitlendirilemediğinde, tek bir kalemdeki değişim bütün ekonomiyi etkiler.[^k3]
 
 Bu kısıt büyük ülkelerde de vardır ama seyrelir.[^k1] Bir bölgedeki
 daralma başka bölgelerdeki üretimle dengelenebilir; ada devletlerinde
 dengeleyecek ikinci bölge yoktur.
 
-Atlas kısıtı ayrıca kaydeder.[^k2] Ekonomik çeşitlilik bir tercih
-olduğu kadar bir ölçek meselesidir ve küçük birimler için seçenek
-kümesi baştan dardır.
+Ekonomik çeşitlilik bir tercih
+olduğu kadar bir ölçek meselesidir ve küçük birimler için seçenek kümesi baştan
+dardır.[^k2]
 
 ## Kaynak durumu
 
-Bu dosyanın üç künyesinden biri giriş kapısı, ikisi karşılaştırma
+Bu incelemenin üç künyesinden biri giriş kapısı, ikisi karşılaştırma
 belgesidir.[^k1] Adaya özgü birincil kaynak künyelenememiştir.
 
 Vesayet dönemi raporları ve fosfat işletmesinin kayıtları
-mevcuttur.[^k2] Doğrulanabilir çevrimiçi baskıları bu dosya yazıldığında
+mevcuttur.[^k2] Doğrulanabilir çevrimiçi baskıları bu inceleme yazıldığında
 bulunamamıştır.
 
 Eksik borç defterine yazılmıştır.[^k3] Dosyanın sayısal ifadeleri
@@ -298,18 +290,17 @@ ikincil aktarıma dayanır ve bu kısıt burada beyan edilir.
 ## Kapsam dışı
 
 Adanın sömürge öncesi tarihi burada işlenmez.[^k1] Ayrı bir dosya
-gerektirir ve bu dosya yazıldığında atlasta bulunmuyordu.
+gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu.
 
 Güncel siyasi düzenlemeler ve dış politika tercihleri
-değerlendirilmez.[^k3] Atlas yaşayan siyasi durumlar hakkında
+değerlendirilmez.[^k3] Korpus yaşayan siyasi durumlar hakkında
 değerlendirme yapmaz.
 
 Fosfat işletmesinin teknik ayrıntısı kapsam dışıdır.[^k2] Dosya yalnızca
 kaynak ile yaşam alanının örtüşmesine ilişkin olanı kaydeder; çıkarım
 yöntemleri ve üretim rakamları ayrı bir çalışma gerektirir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, fon erimesinin nedenini belirlemez.[^k1] Üç etken sıralanır ve
 ağırlıkları ölçülmemiştir.
 
@@ -320,8 +311,7 @@ yazılır.
 Onarım maliyeti hesabı yapılmaz.[^k2] Sorunun sorulabilirliği kaydedilir
 ve veri eksikliği beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Adanın bağlı olduğu düzen için
 [Vesayet yönetimi](/kavram/vesayet-yonetimi/) dosyası okunmalıdır; bu
 dosya oradaki eleştirinin en somut örneğini sağlar.[^k2]

@@ -57,7 +57,7 @@ denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-Bu dosya bir savaş anlatısını değil, bir **açıklama biçimini** ele alır: askerî
+Bu inceleme bir savaş anlatısını değil, bir **açıklama biçimini** ele alır: askerî
 kararların iktisadi kısıtlarla açıklanması.
 
 ## Künye
@@ -77,7 +77,7 @@ onları Sovyetler Birliği'nin işgaline sürükledi; Hitler, iktisadi süper g�
 olan Amerika Birleşik Devletleri ile Britanya İmparatorluğu'na meydan okumak için
 gereken doğal kaynakları elde etmek üzere 1941'de bunu yapmak zorunda kaldı.[^k1]
 
-::tartismali[Bu bir iktisadi zorunluluk açıklamasıdır; aynı olay için başka açıklama biçimleri de bulunur. Atlas tezi aktarır, benimsemez.]{harita=tartisma-ikinci-dunya-savasi-sorumlulugu}
+::tartismali[Bu bir iktisadi zorunluluk açıklamasıdır; aynı olay için başka açıklama biçimleri de bulunur. Korpus tezi aktarır, benimsemez.]{harita=tartisma-ikinci-dunya-savasi-sorumlulugu}
 
 Sorumluluk tartışması
 [İkinci Dünya Savaşı'nın sorumluluğu](/tartisma/ikinci-dunya-savasi-sorumlulugu/)
@@ -89,7 +89,7 @@ Kaynak, kitabın Albert Speer yönetimindeki bir silahlanma mucizesi fikrine kar
 çıktığını ve Nazi iktisadının savaş ekonomisi için çok daha fazla kadını
 seferber edebileceği fikrini reddettiğini yazar.[^k1]
 
-Bir kitabın tezinden çok reddettikleriyle tanımlanabilmesi,[^k1] atlasın şu
+Bir kitabın tezinden çok reddettikleriyle tanımlanabilmesi,[^k1] korpusun şu
 kuralının dayanağıdır: bir kaynağın konumu, neyi savunduğu kadar neye karşı
 çıktığıyla da kaydedilir.
 
@@ -98,7 +98,7 @@ kuralının dayanağıdır: bir kaynağın konumu, neyi savunduğu kadar neye ka
 Kitabın merkezine koyduğu harekât için tutulan kayıt, onu 22 Haziran 1941'de
 başlatılan Sovyetler Birliği işgali olarak tarihler.[^k3]
 
-İki kaydın aynı yılı vermesi,[^k1][^k3] atlasın çapraz doğrulama ölçütünü
+İki kaydın aynı yılı vermesi,[^k1][^k3] korpusun çapraz doğrulama ölçütünü
 karşılar.
 
 ## Ölçülebilir arka plan
@@ -113,10 +113,9 @@ alınıyor.
 
 ## Telif sınırı
 
-Kitap teliflidir; bu dosyada metninden alıntı yapılmamıştır. Buradaki bütün
+Kitap teliflidir; bu incelemede metninden alıntı yapılmamıştır. Buradaki bütün
 ifadeler kaynak sayfasının kendi anlatımına dayanır.[^k1]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kitabın bölüm yapısı, aldığı eleştiriler ve yazarın diğer eserleri burada ele
-alınmamıştır; bu dosyanın kapsamı künye ve ana tezdir.
+alınmamıştır; bu incelemenin kapsamı künye ve ana tezdir.

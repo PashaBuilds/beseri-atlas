@@ -56,7 +56,7 @@ onarim_turu: 0
 ---
 
 Kaynak onu 1126-1198 arasında yaşamış Endülüslü bir filozof, hekim ve kadı olarak
-kaydeder.[^k1] Bu dosya, düşüncesini değil **nasıl alımlandığını** ele alır.
+kaydeder.[^k1] Bu inceleme, düşüncesini değil **nasıl alımlandığını** ele alır.
 
 ## Yaygın adı, kaynağa göre bozulmuş bir biçimdir
 
@@ -75,7 +75,7 @@ etrafında kurulduğunu ve bu yüzden kendi ayırt edici felsefesini takdir etme
 yetersiz kaldığını yazar.[^k1]
 
 Bir ansiklopedi maddesinin kendi alanının yönelim hatasını kaydetmesi,[^k1]
-atlasın kaynak seçiminde neden alan çeşitliliği aradığını gösterir: bir konuyu
+korpusun kaynak seçiminde neden alan çeşitliliği aradığını gösterir: bir konuyu
 kimin okuduğu, o konu hakkında ne bilindiğini belirler.
 
 ## Şerhler üç türe ayrılır
@@ -95,7 +95,7 @@ Kaynak, Aristoteles'e odaklanmasının gerekçesini onun kendi ifadesiyle aktar�
 ondan sonra gelen hiç kimse, aradan yaklaşık bin beş yüz yıl geçmesine rağmen
 söylediklerine dikkate değer bir söz ekleyememiştir.[^k1]
 
-Bir şerhçinin şerh gerekçesini kendi metnine yazması,[^k1] atlasın kaynak
+Bir şerhçinin şerh gerekçesini kendi metnine yazması,[^k1] korpusun kaynak
 notlarında neden "neden bu kaynak" alanı tuttuğunun eski bir örneğidir. Şerh
 edilen külliyat [Aristoteles](/dusunur/aristoteles/) dosyasında ele alınıyor.[^k3]
 
@@ -106,16 +106,15 @@ bağlamlarda onun başka akıl yürütme ve ikna yöntemlerini incelikle öne ç
 yazar; düşüncesini bütünüyle kavramak için yalnızca şerhlere değil din, tıp ve
 hukuk gibi alanlara da bakmak gerektiğini ekler.[^k1]
 
-Kanıt biçiminin konuya ve muhataba göre değişmesi,[^k1] bu atlasın kaynak türü
+Kanıt biçiminin konuya ve muhataba göre değişmesi,[^k1] bu korpusun kaynak türü
 alanının (ansiklopedi, akademik, birincil, veri) neden ayrı tutulduğunu gösterir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Metafiziği, akıl kuramı, din-felsefe ilişkisi ve hukuk yazıları burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]
 
 ## Eserine bağ
 
-Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Tehafutu t-tehafut*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+Bu inceleme düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Tehafutu t-tehafut*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
 verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

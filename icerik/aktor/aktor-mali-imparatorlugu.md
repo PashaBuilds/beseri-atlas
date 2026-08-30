@@ -52,7 +52,7 @@ denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-Mali İmparatorluğu yaklaşık 1235 ile 1610 arasına tarihlenir.[^k1] Bu dosya,
+Mali İmparatorluğu yaklaşık 1235 ile 1610 arasına tarihlenir.[^k1] Bu inceleme,
 imparatorluğun **yönetim biçimini ve kaynaklardaki belirsizliğini** ele alır.
 
 ## Yönetim biçimi üç sıfat taşır
@@ -69,7 +69,7 @@ Kaynak, başkentin konumunu "tartışmalı" olarak işaretler ve ayrı bir böl�
 havale eder.[^k1]
 
 ::tartismali[Mali İmparatorluğu'nun başkentinin nerede olduğu açık bir
-tartışmadır; bu dosya bir konum önermez.]{harita=tartisma-imparatorluk-siniri-nasil-cizilir}
+tartışmadır; bu inceleme bir konum önermez.]{harita=tartisma-imparatorluk-siniri-nasil-cizilir}
 
 Bir imparatorluğun merkezinin yeri bilinmiyorsa, sınırlarının haritada nasıl
 gösterileceği sorusu daha da keskinleşir; gösterim sorunu
@@ -82,7 +82,7 @@ haritasında ele alınıyor.
 arasında, son hükümdar Mahmud IV ise yaklaşık 17. yüzyılda hüküm sürer.[^k1]
 
 Son hükümdarın saltanatının bir yüzyıl aralığıyla verilmesi — "yaklaşık 17.
-yüzyıl" — kayıt yoğunluğunun zamanla azaldığını gösterir. Atlas bu belirsizliği
+yüzyıl" — kayıt yoğunluğunun zamanla azaldığını gösterir. Korpus bu belirsizliği
 düzeltmez, kaydeder.
 
 ## Ölçülen alan
@@ -104,8 +104,7 @@ yaklaşık 503,1 milyondur.[^k3] İmparatorluğun kendi nüfusuna dair bir ölç
 kullanılan kaynaklarda bulunmadığı için bu değerler içindeki pay burada
 hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Altın ticareti, hac seferleri, Timbuktu'nun kurumsal tarihi ve imparatorluğun
 çözülme süreci burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları
 ayrı bölümler olarak işler.[^k1] Dönemin bütünü [1350–1500](/donem/08/) dosyasında

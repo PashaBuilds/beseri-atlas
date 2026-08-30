@@ -15,9 +15,10 @@ guven_geneli: yaygin
 etiketler: [stephen, ozgurluk, zarar-ilkesi, ceza-hukuku, somurgecilik, faydacilik]
 ilgili:
   - dusunur-mill
+  - kavram-zarar-ilkesi
+baglam:
   - dusunur-bentham
   - dusunur-hobbes
-  - kavram-zarar-ilkesi
   - kavram-faydacilik
   - olay-morant-bay-ayaklanmasi
   - aktor-britanya-imparatorlugu

@@ -20,11 +20,12 @@ ilgili:
   - olay-iran-devrimi-1979
   - olay-sovyetler-dagilmasi
   - tartisma-karsi-olgusal-tarih
-  - tartisma-tarihsel-sayilar-nasil-okunur
-  - kavram-belge-okumasi
   - kavram-hukuk-devleti
   - olay-suveys-krizi
   - aktor-birlesmis-milletler
+baglam:
+  - tartisma-tarihsel-sayilar-nasil-okunur
+  - kavram-belge-okumasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

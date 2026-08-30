@@ -13,7 +13,8 @@ bolge: [avrupa]
 eksen: [felsefi, siyasi, kulturel]
 guven_geneli: tartismali
 etiketler: [foucault, iktidar, disiplin, biyoiktidar, yonetimsellik, soylem]
-ilgili:
+ilgili: []
+baglam:
   - dusunur-marx
   - dusunur-weber
   - kavram-egemenlik

@@ -12,8 +12,9 @@ guven_geneli: yaygin
 etiketler: [faydacilik, bentham, mill, haz-hesabi, kural-faydaciligi, ahlak-olcutu]
 ilgili:
   - dusunur-mill
-  - dusunur-bentham
   - kavram-zarar-ilkesi
+baglam:
+  - dusunur-bentham
   - dusunur-smith
   - dusunur-kant
   - dusunur-foucault

@@ -12,7 +12,6 @@ etiketler: [kast, varna, jati, siniflandirma, sayim, esneklik]
 ilgili:
   - aktor-gupta-imparatorlugu
   - aktor-delhi-sultanligi
-  - kavram-anakronizm
   - kaynak-hindistan-anayasasi
   - dusunur-ambedkar
   - dusunur-gandhi
@@ -22,6 +21,8 @@ ilgili:
   - kavram-akrabalik
   - kavram-toplumsal-cinsiyet-duzeni
   - kavram-apartheid
+baglam:
+  - kavram-anakronizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -53,7 +54,7 @@ onarim_turu: 0
 
 ## Üç terim, tek bir kavram değil
 
-Bu alanda üç ayrı terim kullanılır ve atlas bunları birbirinin
+Bu alanda üç ayrı terim kullanılır ve korpus bunları birbirinin
 çevirisi saymaz.[^k1] Birincisi, klasik metinlerdeki dört bölümlü
 şemadır.
 
@@ -76,8 +77,8 @@ Gündelik hayattaki düzen bu şemaya oturmaz.[^k3] Grup sayısı çok daha
 fazladır, sıralama bölgeden bölgeye değişir ve bazı gruplar şemaya
 hiç yerleştirilemez.
 
-Atlas bu farkı ayrıca kaydeder.[^k2] Bir metindeki düzenli şema, o
-metnin yazıldığı toplumda uygulandığının kanıtı değildir.
+Bir metindeki düzenli şema, o metnin yazıldığı
+toplumda uygulandığının kanıtı değildir.[^k2]
 
 ## Sayımın etkisi
 
@@ -89,9 +90,9 @@ Bir sayımda grupları toplumsal önceliğe göre sıralama denemesi
 yapıldı.[^k3] Deneme, gruplardan gelen itirazlar ve yeniden
 sınıflandırma talepleriyle karşılandı.
 
-Atlas bu tepkiyi ölçüm sayar.[^k1] **Bir sınıflandırma resmî hâle
-geldiğinde, sınıflandırılanlar kendi konumlarını iyileştirmek için
-sınıflandırmanın diline geçmek zorunda kalır.**
+**Bir sınıflandırma resmî hâle
+geldiğinde, sınıflandırılanlar kendi konumlarını iyileştirmek için sınıflandırmanın
+diline geçmek zorunda kalır.**[^k1]
 
 ## Kaydın kalıcılaştırdığı şey
 
@@ -101,9 +102,8 @@ hangi göreve ve hangi tedbire tabi olacağı bu kayıtla belirlendi.
 Kayıt, akışkan olabilen bir yapıyı sabitledi.[^k1] Grup değiştirme ve
 yerel sıralamadaki oynaklık, resmî kayıt karşısında zorlaştı.
 
-Atlas bu etkiyi ölçmenin genel sorunu olarak kaydeder.[^k2] Bir
-eşitsizliği gidermek için onu ölçmek gerekir; ölçmek ise ölçülen
-ayrımı kayıtta kalıcılaştırır.
+Bir eşitsizliği gidermek için onu
+ölçmek gerekir; ölçmek ise ölçülen ayrımı kayıtta kalıcılaştırır.[^k2]
 
 ## Ne kadarı sömürge ürünü
 
@@ -115,8 +115,8 @@ Karşı görüş, yapının çok daha eski olduğunu ve yönetimin yalnızca
 kaydettiğini ileri sürer.[^k3] İki görüş de aynı belgelere
 başvurur.
 
-Atlas taraf tutmaz ve ayrımı korur.[^k2] Bir yapının kaydedilmesi, o
-yapının kaydeden tarafından yaratıldığını da göstermez.
+Bir yapının kaydedilmesi, o yapının kaydeden
+tarafından yaratıldığını da göstermez.[^k2]
 
 ## Ekonomik boyut
 
@@ -126,8 +126,8 @@ açık olduğunu ve toprağın kimin elinde tutulacağını da belirler.
 Bu boyut, çözümü değiştirir.[^k3] Statü sorunu ise saygı, ekonomik
 sorun ise mülkiyet ve iş imkânı gerekir.
 
-Atlas bu ayrımı Ambedkar dosyasına bağlar.[^k2] Bir eşitsizliğin hangi
-alanda tanımlandığı, hangi araçla giderileceğini belirler.
+Bir eşitsizliğin hangi alanda tanımlandığı, hangi
+araçla giderileceğini belirler.[^k2]
 
 ## Evlilik düzeninin işlevi
 
@@ -137,9 +137,8 @@ evlilik, sınırın nesiller boyunca korunmasını sağlar.
 Bu kural, diğer bütün kuralların taşıyıcısıdır.[^k3] İş bölümü ve
 temas kuralları gevşediğinde bile evlilik kuralı sürebilir.
 
-Atlas bu yüzden değişimi burada ölçer.[^k2] Bir düzenin gerçekten
-gevşeyip gevşemediği, en iyi grup dışı evlilik oranından
-izlenir.
+Bir düzenin gerçekten gevşeyip
+gevşemediği, en iyi grup dışı evlilik oranından izlenir.[^k2]
 
 ## Hukuki kaldırma
 
@@ -151,8 +150,8 @@ Yasal kaldırma ile fiilî sona erme aynı şey değildir.[^k1] Evlilik
 düzeni, yerleşim ayrımı ve iş dağılımı yasadan bağımsız olarak
 sürebilir.
 
-Atlas bu ayrımı belge kuralına bağlar.[^k3] Bir metnin resmî konumu
-ile fiilî uygulanma alanı ayrı iki veridir.
+Bir metnin resmî konumu ile fiilî uygulanma alanı
+ayrı iki veridir.[^k3]
 
 ## Bölge farkı
 
@@ -162,11 +161,10 @@ sıralama ve katılık bölgeden bölgeye belirgin biçimde değişir.
 Bu, tek bir ülke ölçeğinde konuşmayı zorlaştırır.[^k3] Ortalama bir
 tablo, hiçbir bölgeyi doğru anlatmayabilir.
 
-Atlas bu yüzden bölge belirtmeden genelleme yapmaz.[^k2] Bir ortalama,
-altındaki dağılım verilmeden bilgi taşımaz.
+Bir ortalama, altındaki dağılım verilmeden bilgi
+taşımaz.[^k2]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, düzenin kökenini karara bağlamaz.[^k1] Kökene dair
 anlaşmazlık burada kaydedilmiştir, çözülmemiştir.
 
@@ -174,12 +172,11 @@ Diğer bölgelerdeki benzer yapılarla karşılaştırma yapılmaz.[^k3] Bu,
 ayrı bir çalışma gerektirir.
 
 Klasik metinlerden doğrulanabilir bir birincil künye
-verilmemiştir.[^k2] Bu dosya, şema metinlerini değil şemanın
+verilmemiştir.[^k2] Bu inceleme, şema metinlerini değil şemanın
 kayıtlanma biçimini konu aldığı için künyedeki birincil belge bir
 sayım raporudur; kısıt burada beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Düzeni bütünüyle kaldırmayı savunan isim için
 [B. R. Ambedkar](/dusunur/ambedkar/), farklı bir tutum için
 [Gandhi](/dusunur/gandhi/) dosyaları okunmalıdır.[^k1]

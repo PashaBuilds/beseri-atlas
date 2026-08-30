@@ -19,10 +19,11 @@ ilgili:
   - kaynak-gilgamis-destani
   - kaynak-popol-vuh
   - tartisma-sozlu-gelenek-kaynak-mi
-  - kavram-anakronizm
   - kavram-takvim
   - kavram-veraset
   - aktor-oyo-imparatorlugu
+baglam:
+  - kavram-anakronizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -62,13 +63,13 @@ bağlar.
 Anlatı tarih kitabı değildir.[^k3] Amacı olayları kaydetmek değil,
 mevcut düzenin neden böyle olduğunu göstermektir.
 
-Atlas bu tür metinleri ayrı bir kategori sayar.[^k2] Onlara başka
-kaynaklara uygulanan ölçüt doğrudan uygulanmaz.
+Onlara başka kaynaklara
+uygulanan ölçüt doğrudan uygulanmaz.[^k2]
 
 ## Temel kural
 
-Atlasın bu metinler için kuralı tektir.[^k1] **Bir kuruluş anlatısı,
-anlattığı dönemin değil, yazıya geçirildiği dönemin kaynağıdır.**
+**Bir kuruluş anlatısı,
+anlattığı dönemin değil, yazıya geçirildiği dönemin kaynağıdır.**[^k1]
 
 Kural, anlatıyı değersiz saymaz.[^k3] Yalnızca hangi soruya cevap
 verdiğini değiştirir.
@@ -95,8 +96,8 @@ hâkim anlatının alt dalı hâline getirilir.
 Bu, silmekten daha etkilidir.[^k3] Rakip soy, hâkim soya bağlanınca
 kendi bağımsız iddiasını da kaybeder.
 
-Atlas bu işlemi ayrıca kaydeder.[^k2] Bir anlatının kapsayıcı hâle
-gelmesi, kapsadıklarının yenilgisidir.
+Bir anlatının kapsayıcı hâle gelmesi,
+kapsadıklarının yenilgisidir.[^k2]
 
 ## Zincir kurma
 
@@ -106,8 +107,8 @@ yüksek meşruiyet kaynağından bugüne kesintisiz uzanır.
 Kesintisizlik iddiası önemlidir.[^k3] Zincirde bir kopma varsa,
 kopmanın nasıl kapatıldığı ayrıca anlatılır.
 
-Atlas kopma noktalarına bakar.[^k2] Bir anlatının en çok ayrıntı
-verdiği yer, çoğu zaman en zayıf olduğu yerdir.
+Bir anlatının en çok ayrıntı
+verdiği yer, çoğu zaman en zayıf olduğu yerdir.[^k2]
 
 ## Toprakla bağ
 
@@ -117,9 +118,8 @@ kıyısı ya da bir kent adı verilir.
 Yer, iddiayı somutlaştırır.[^k3] Toprakla kurulan bağ, sonraki
 hak iddialarının dayanağı olur.
 
-Atlas bu bağı siyasi bir işlem sayar.[^k2] Bir toprağın anlatıda
-başlangıç yeri olması, o toprağın sonraki dönemde tartışmalı olduğunu
-da gösterebilir.
+Bir toprağın anlatıda başlangıç yeri
+olması, o toprağın sonraki dönemde tartışmalı olduğunu da gösterebilir.[^k2]
 
 ## Yenilginin anlatılması
 
@@ -129,8 +129,8 @@ anlatının merkezine konur.
 Bu, zafer anlatısından farklı bir meşruiyet üretir.[^k1] Hak, güçten
 değil dayanmaktan türetilir.
 
-Atlas iki biçimi ayrı ayrı kaydeder.[^k2] Anlatının başladığı yer,
-düzenin kendini nasıl gördüğünü gösterir.
+Anlatının başladığı yer, düzenin kendini nasıl
+gördüğünü gösterir.[^k2]
 
 ## Sonradan okunma
 
@@ -140,8 +140,8 @@ yüzyıllar sonra, başka bir ihtiyaçla artabilir.
 Bu, iki ayrı tarih doğurur.[^k3] Yazılma tarihi ve etkili olma tarihi
 farklıdır.
 
-Atlas ikisini ayrı kaydeder.[^k2] Bir metnin ne zaman önemsendiği,
-metnin kendisinden çok onu okuyanları anlatır.
+Bir metnin ne zaman önemsendiği, metnin
+kendisinden çok onu okuyanları anlatır.[^k2]
 
 ## Modern kullanım
 
@@ -151,8 +151,8 @@ devletler de kuruluş anlatıları üretir.
 Biçim değişir, işlev değişmez.[^k1] Tanrısal soy yerine bir savaş, bir
 bildiri ya da bir kurucu meclis konur.
 
-Atlas aynı ölçütü modern örneklere de uygular.[^k2] Bir bağımsızlık
-bildirisi de, kendi döneminin kuruluş anlatısıdır.
+Bir bağımsızlık bildirisi de, kendi
+döneminin kuruluş anlatısıdır.[^k2]
 
 ## Neyi ölçebiliriz
 
@@ -173,8 +173,8 @@ anlatının bazı öğeleri tarihsel olabilir.
 Kavram, ayrımın nasıl yapılacağını da tek başına vermez.[^k3] Her
 öğe kendi bağımsız kanıtıyla sınanmalıdır.
 
-Atlas bu yüzden anlatıyı kanıt yerine koymaz.[^k2] Anlatı bir soru
-listesi verir; cevapları başka kaynaklardan gelir.
+Anlatı bir soru listesi
+verir; cevapları başka kaynaklardan gelir.[^k2]
 
 ## Anlatının taşıyıcısı
 
@@ -184,8 +184,8 @@ okul ya da ordu bu işlevi görebilir.
 Taşıyıcı değişince anlatı da değişir.[^k3] Bir tapınaktan devlet
 okuluna geçen anlatı, vurgusunu ibadetten yurttaşlığa kaydırır.
 
-Atlas taşıyıcıyı ayrıca kaydeder.[^k2] Anlatının hangi kurumda
-saklandığı, hangi kısımlarının korunacağını belirler.
+Anlatının hangi kurumda
+saklandığı, hangi kısımlarının korunacağını belirler.[^k2]
 
 ## Tekrarın işlevi
 
@@ -195,11 +195,10 @@ derslerde ve bayramlarda düzenli olarak tekrarlanır.
 Tekrar, metnin kendisinden bağımsız bir etki üretir.[^k3] Sık
 tekrarlanan bir anlatı, sınanmadan bilinen bir çerçeve hâline gelir.
 
-Atlas tekrarın sıklığını da bir veri sayar.[^k2] Bir anlatının ne
-sıklıkla anıldığı, o anlatıya ne kadar ihtiyaç duyulduğunu gösterir.
+Bir anlatının ne sıklıkla anıldığı, o
+anlatıya ne kadar ihtiyaç duyulduğunu gösterir.[^k2]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Kavramın uygulandığı örnekler için
 [Kojiki](/kaynak/kojiki/), [Gılgamış Destanı](/kaynak/gilgamis-destani/)
 ve [Popol Vuh](/kaynak/popol-vuh/) dosyaları okunmalıdır.[^k1]

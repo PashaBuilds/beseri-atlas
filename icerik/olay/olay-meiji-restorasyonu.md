@@ -14,10 +14,11 @@ guven_geneli: yaygin
 etiketler: [meiji, tokugawa, samuray, japonya, restorasyon]
 ilgili:
   - donem-12
-  - olay-1857-hint-ayaklanmasi
   - aktor-japonya-imparatorlugu
   - aktor-tokugawa-sogunlugu
   - kavram-esitsiz-antlasmalar
+baglam:
+  - olay-1857-hint-ayaklanmasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -47,7 +48,7 @@ onarim_turu: 0
 Meiji Restorasyonu 3 Ocak 1868 tarihine yerleştirilir ve dört sonuç birden
 kaydedilir: Tokugawa şogunluğunun devrilmesi, Japonya İmparatorluğu'nun kurulması,
 sanayileşme ve feodalitenin kaldırılması, alan düzeninin ve samuray sınıfının
-dağıtılması.[^k1] Bu dosya, o dört maddenin **birlikte alınmasının anlamını** ele
+dağıtılması.[^k1] Bu inceleme, o dört maddenin **birlikte alınmasının anlamını** ele
 alır.
 
 ## Tek bir tarihte dört ayrı iş
@@ -80,7 +81,7 @@ Adın kendisi bir siyasi iddiadır: hareket, Japonya'da imparatorluk yönetimine
 dönüş olarak adlandırılır.[^k1] Yani en köklü dönüşüm, bir yenilik olarak değil
 bir geri dönüş olarak sunulmuştur.
 
-Bu, meşruiyet üretmenin yaygın bir biçimidir. Atlas bu adlandırmayı ne onaylar ne
+Bu, meşruiyet üretmenin yaygın bir biçimidir. Korpus bu adlandırmayı ne onaylar ne
 reddeder; adın kendisinin bir argüman taşıdığını kaydeder.
 
 ## Aynı on yıllarda komşuda
@@ -92,7 +93,7 @@ kentleşme, Batı ile ticaret ve gelir başlıkları altında ele alır.[^k2]
 Bir tarafta 1868'de ilan edilen bütünsel bir program,[^k1] öte tarafta 1912'ye
 kadar süren bir hanedan[^k2] — iki düzenin aynı yüzyıldaki basınca farklı
 yanıtlar vermesi bu dönemin karşılaştırmalı sorularından biridir; komşu düzen
-[Qing hanedanı](/aktor/qing-hanedani/) dosyasında ele alınıyor. Bu dosya, iki
+[Qing hanedanı](/aktor/qing-hanedani/) dosyasında ele alınıyor. Bu inceleme, iki
 yolun neden ayrıştığına dair bir açıklama önermez.
 
 ## Ölçek
@@ -101,8 +102,7 @@ Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyardır.[^k3]
 Japonya'nın kendi nüfusuna dair bir ölçüm kullanılan kaynaklarda bulunmadığı için
 bu toplam içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Restorasyonun ardından gelen iç savaş, anayasa yapımı, sanayileşme
 politikalarının içeriği ve savaşçı sınıfın tasfiyesinin toplumsal sonuçları
 burada ayrı başlıklar altında ele alınmamıştır. Dönemin bütünü [1848–1914](/donem/12/) dosyasında ele alınıyor.

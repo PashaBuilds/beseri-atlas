@@ -47,8 +47,8 @@ tarihi 2011 olarak kaydedilir.[^k1]
 
 ## Tanım bir öğreti değil bir yaşayış tarif eder
 
-Kaynağın kavramı hayat tarzı olarak tanımlaması,[^k1] atlasın şu kuralının
-dayanağıdır: bu dosyada tasavvuf, bir doktrin listesi olarak değil bir pratik
+Kaynağın kavramı hayat tarzı olarak tanımlaması,[^k1] korpusun şu kuralının
+dayanağıdır: bu incelemede tasavvuf, bir doktrin listesi olarak değil bir pratik
 olarak anılır.
 
 ## Zâhir ve bâtın birlikte anılır
@@ -63,7 +63,7 @@ Bağımsız bir akademik kaynak, bir düşünürü yaklaşık 1056-1111 arasınd
 Sünni İslam'ın en önde gelen ve etkili filozof, kelamcı, fakih ve
 mutasavvıflarından biri olarak kaydeder.[^k2]
 
-Aynı kişinin dört sıfatla birden kaydedilmesi,[^k2] atlasın düşünür dosyalarında
+Aynı kişinin dört sıfatla birden kaydedilmesi,[^k2] korpusun düşünür dosyalarında
 neden tek bir kategori kullanmadığının dayanağıdır; o düşünür
 [Gazâlî](/dusunur/gazali/) dosyasında ele alınıyor.
 
@@ -77,9 +77,8 @@ biçiminde örgütlendi.
 belirli bir silsile içinde
 aktarılır.
 
-Atlas bu yapıyı ayrıca kaydeder.[^k2] Bir öğretinin silsileye
-bağlanması, onu doğrulayan mekanizmanın metin değil kişi zinciri
-olduğunu gösterir.
+Bir öğretinin silsileye bağlanması, onu
+doğrulayan mekanizmanın metin değil kişi zinciri olduğunu gösterir.[^k2]
 
 ## Vakıf ve gelir
 
@@ -90,9 +89,8 @@ Bu, tarikatları ekonomik birimler hâline
 getirdi.[^k3] Toprak ve gelir kayıtlarında düzenli
 görünürler.
 
-Atlas bu boyutu ayrıca kaydeder.[^k2] Bir dinî hareketin yayılma
-alanı, çoğu zaman onu finanse eden vakıf ağının
-alanıdır.
+Bir dinî hareketin yayılma alanı, çoğu zaman onu
+finanse eden vakıf ağının alanıdır.[^k2]
 
 ## Siyasi konum
 
@@ -104,9 +102,8 @@ Aynı tarikat farklı dönemlerde farklı konumda
 bulunabildi.[^k3] Konum, öğretiden çok koşullara
 bağlıydı.
 
-Atlas bu değişkenliği ayrıca kaydeder.[^k2] Bir hareketin siyasi
-konumu, öğretisinden okunamaz; her dönem için ayrı
-belirlenmelidir.
+Bir hareketin siyasi konumu, öğretisinden
+okunamaz; her dönem için ayrı belirlenmelidir.[^k2]
 
 ## Sınır bölgelerindeki işlevi
 
@@ -116,9 +113,8 @@ yol üzerinde konaklama ve güvenlik sağlıyordu.
 Bu işlev dinî olduğu kadar idariydi.[^k3] Merkezin ulaşamadığı yerde
 bir düzen kuruyordu.
 
-Atlas bu bağı ayrıca kaydeder.[^k2] Bir dinî kurumun yayılması, çoğu
-zaman merkezî yönetimin boşluk bıraktığı yerlerde
-hızlanır.
+Bir dinî kurumun yayılması, çoğu zaman
+merkezî yönetimin boşluk bıraktığı yerlerde hızlanır.[^k2]
 
 
 ## Metin geleneği
@@ -130,9 +126,8 @@ Yerel dillerin yazılı hâle gelmesinde bu külliyatın payı
 büyüktür.[^k3] Halka seslenen metinler, âlim diliyle
 yazılmıyordu.
 
-Atlas bu bağı ayrıca kaydeder.[^k2] Bir öğretinin yerel dilde
-yazılması, hedeflediği okur kitlesinin doğrudan
-kaydıdır.
+Bir öğretinin yerel dilde yazılması,
+hedeflediği okur kitlesinin doğrudan kaydıdır.[^k2]
 
 ## Eleştiriler
 
@@ -143,9 +138,8 @@ yöneldi.
 Tartışma yüzyıllar boyunca sürdü.[^k3] Aynı gelenek içinde birbirine
 karşıt konumlar bulunur.
 
-Atlas bu iç çeşitliliği ayrıca kaydeder.[^k2] Bir geleneği tek bir
-konumla anlatmak, içindeki tartışmayı görünmez
-kılar.
+Bir geleneği tek bir konumla anlatmak, içindeki
+tartışmayı görünmez kılar.[^k2]
 
 ## Yayılma alanı
 
@@ -156,9 +150,8 @@ vardır.
 Yayılmayı taşıyan şey ticaret ağlarıydı.[^k3] Tüccarlar aynı zamanda
 öğretinin taşıyıcısıydı.
 
-Atlas bu bağı ayrıca kaydeder.[^k2] Bir öğretinin coğrafi dağılımı,
-çoğu zaman onu taşıyan ticaret ağının
-dağılımıdır.
+Bir öğretinin coğrafi dağılımı, çoğu
+zaman onu taşıyan ticaret ağının dağılımıdır.[^k2]
 
 
 ## Kadınların konumu
@@ -171,9 +164,8 @@ Buna karşılık silsilelerde ve kurumsal yapıda görünürlükleri
 sınırlıdır.[^k3] Aktarım zinciri büyük ölçüde erkekler üzerinden
 kurulmuştur.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k2] Bir gelenekte anılmak ile
-aktarım zincirine girmek ayrı iki şeydir; ikincisi kurumsal
-konumdur.
+Bir gelenekte anılmak ile aktarım zincirine girmek
+ayrı iki şeydir; ikincisi kurumsal konumdur.[^k2]
 
 ## Müzik ve tören
 
@@ -185,9 +177,8 @@ Tartışma yüzyıllara yayıldı ve bölgeden bölgeye farklı
 sonuçlandı.[^k3] Aynı uygulama bir yerde kabul, başka yerde ret
 gördü.
 
-Atlas bu farkı ayrıca kaydeder.[^k2] Bir uygulamanın kabul görmesi,
-öğretiden çok yerel geleneğe
-bağlıdır.
+Bir uygulamanın kabul görmesi, öğretiden çok yerel
+geleneğe bağlıdır.[^k2]
 
 
 ## Kaydın durumu
@@ -199,11 +190,9 @@ kayıtlar.
 İkisi farklı sorulara cevap verir.[^k3] Biri öğretiyi, diğeri kurumun
 mülkünü ve konumunu gösterir.
 
-Atlas ikisini birlikte kullanır.[^k2] Bir hareketin öğretisi kendi
-metinlerinden, ağırlığı ise vergi ve vakıf kayıtlarından
-okunur.
+Bir hareketin öğretisi kendi
+metinlerinden, ağırlığı ise vergi ve vakıf kayıtlarından okunur.[^k2]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Tasavvufun tarihi, tarikatlar, kavramları ve edebiyatı burada ayrı başlıklar
 altında ele alınmamıştır; kullanılan kaynak bölümünün kapsamı tanımdır.[^k1]

@@ -69,8 +69,8 @@ ulusların iç işlerinde bağımsız kalmasını, ortak meselelerde ise bir
 konsey aracılığıyla karar almasını düzenler; yetki dağılımı baştan
 yazılmıştır ve sonradan pazarlıkla kurulmuş değildir.
 
-Bu dosyanın iki konusu vardır.[^k3] Birincisi metnin kendisi ve nasıl
-taşındığı; ikincisi böyle bir birliğin atlasın aktör katmanında nasıl
+Bu incelemenin iki konusu vardır.[^k3] Birincisi metnin kendisi ve nasıl
+taşındığı; ikincisi böyle bir birliğin korpusun aktör katmanında nasıl
 yer alacağı.
 
 ## Metnin taşınma biçimi
@@ -83,7 +83,7 @@ Boncuk dizileri bir alfabe değildir.[^k1] Desenler, metnin bölümlerine
 karşılık gelen hatırlatıcılardır; metnin kendisi ezberden aktarılır ve
 dizi, aktarımın doğruluğunu denetlemeye yarar.
 
-Bu, atlasın Aşanti dosyasında ölçtüğü düzenle aynı ailedendir.[^k3]
+Bu, korpusun Aşanti dosyasında ölçtüğü düzenle aynı ailedendir.[^k3]
 İkisinde de yazı yoktur ama aktarımın kuralları vardır ve kurallar
 biliniyorsa güvenilirlik derecesi de değerlendirilebilir.
 
@@ -93,7 +93,7 @@ Metin, on dokuzuncu yüzyıl sonu ile yirminci yüzyıl başı arasında
 yazıya geçirildi.[^k3] Yazıya geçirme işini, konfederasyon üyeleri ile
 araştırmacılar birlikte yürüttü.
 
-Bu dosyanın künyelediği baskı o çalışmanın ürünüdür.[^k3] Katalogda
+Bu incelemenin künyelediği baskı o çalışmanın ürünüdür.[^k3] Katalogda
 yaratıcı alanında hem bir araştırmacı hem bir konfederasyon üyesi
 görünür.
 
@@ -111,14 +111,13 @@ Hangi sürümün bağlayıcı olduğu konfederasyon içinde de tartışılır.[^
 Bir görüşe göre yazılı sürümler yalnızca yardımcıdır ve asıl metin sözlü
 aktarımdadır.
 
-Atlas bu tartışmayı çözmez ve künyesinde konumunu belirtir.[^k3]
-Künyelenen sürüm, doğrulanabilir olduğu için seçilmiştir; en doğru sürüm
-olduğu iddia edilmemektedir.
+Künyelenen sürüm, doğrulanabilir olduğu için
+seçilmiştir; en doğru sürüm olduğu iddia edilmemektedir.[^k3]
 
 ## Aynı sorunun bir başka örneği
 
-Atlas bu sorunu Waitangi dosyasında da ölçmüştü.[^k2] Orada iki dilli bir
-belgenin hangi metninin bağlayıcı olduğu sorusu vardı.
+Orada iki dilli bir belgenin hangi
+metninin bağlayıcı olduğu sorusu vardı.[^k2]
 
 Burada soru bir dil farkından değil bir ortam farkından doğar.[^k1] Sözlü
 aktarımdaki metin ile yazıya geçirilmiş metin arasındaki ilişki, iki
@@ -136,19 +135,18 @@ merci yoktur.
 Karar alma, oy çokluğuyla değil uzlaşmayla yürür.[^k1] Konsey içindeki
 gruplar sırayla görüş bildirir ve anlaşmazlık sürerse konu ertelenir.
 
-Bu yapı, atlasın aktör katmanındaki olağan birimden farklıdır.[^k3]
-Atlasın aktör dosyalarının çoğu, vergi toplayan ve zor kullanan bir
+Bu yapı, korpusun aktör katmanındaki olağan birimden farklıdır.[^k3]
+Korpusun aktör dosyalarının çoğu, vergi toplayan ve zor kullanan bir
 merkezî aygıta sahip düzenleri işler.
 
-## Atlasın kendi biriminin sınırı
+## Korpusun kendi biriminin sınırı
 
-Dosya bu nedenle atlasın kendi kategorisini de sınar.[^k1] "Aktör"
+Dosya bu nedenle korpusun kendi kategorisini de sınar.[^k1] "Aktör"
 kategorisi, merkezî aygıta sahip düzenlere göre kurulmuşsa, böyle bir
 birliği eksik temsil eder.
 
-Atlas kategoriyi genişletir ve genişlettiğini yazar.[^k2] Bir siyasi
-birim, zor kullanma tekelini merkezde toplamadan da uzun süre
-işleyebilir.
+Bir siyasi birim, zor kullanma tekelini
+merkezde toplamadan da uzun süre işleyebilir.[^k2]
 
 Ölçümün sonucu şudur.[^k3] **Bir siyasi birliğin sürekliliği, merkezî
 bir zor aygıtına sahip olmasını gerektirmez; bu iki özellik ayrı ayrı
@@ -160,7 +158,7 @@ Kurucu metinde, konsey üyelerinin belirlenmesi ve görevden alınması
 yetkisi belirli kadınlara verilmiştir.[^k2] Yetki, soy hattı üzerinden
 işler.
 
-Bu, atlasın karşılaştığı düzenlerin çoğundan farklıdır.[^k3] Yetkinin
+Bu, korpusun karşılaştığı düzenlerin çoğundan farklıdır.[^k3] Yetkinin
 seçme ve azletme biçiminde ayrıştırılması, yönetenlerin sürekli bir
 denetim altında olması anlamına gelir.
 
@@ -191,13 +189,12 @@ Erken tarih, sözlü geleneğe ve bir güneş tutulması kaydına
 dayandırılır.[^k3] Geç tarih, arkeolojik bulgulara ve yerleşim
 düzenindeki değişimlere dayandırılır.
 
-Atlas bir tarihe bağlanmaz ve künyede geç aralığı kullanır.[^k2] Seçim,
-atlasın kaynak sıralamasına uygundur; erken tarih dışlanmaz, ikinci
-sırada anılır.
+Seçim, korpusun kaynak sıralamasına
+uygundur; erken tarih dışlanmaz, ikinci sırada anılır.[^k2]
 
 ## Tarih tartışmasının yapısı
 
-Tartışma, atlasın sözlü gelenek dosyasında tanımlanan ayrımın somut
+Tartışma, korpusun sözlü gelenek dosyasında tanımlanan ayrımın somut
 hâlidir.[^k1] Bir tarafta topluluğun kendi aktarımı, öteki tarafta
 maddi kanıt bulunur.
 
@@ -205,7 +202,7 @@ maddi kanıt bulunur.
 neden ve nasıl kurulduğunu anlatır; maddi kanıt yerleşim düzeninin ne
 zaman değiştiğini gösterir.
 
-Çelişki, ikisini aynı soruya cevap saymaktan doğar.[^k2] Atlas iki
+Çelişki, ikisini aynı soruya cevap saymaktan doğar.[^k2] Korpus iki
 kanıtı ayrı ayrı kaydeder ve hangisinin hangi soruyu cevapladığını
 belirtir.
 
@@ -218,9 +215,9 @@ konularını kapsıyordu.
 Antlaşmalar, konfederasyonu muhatap alan belgelerdir.[^k3] Bu, birliğin
 o dönemde uluslararası ilişkilerde taraf sayıldığını gösterir.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k2] Bir birliğin devlet olarak
-tanınması, merkezî bir zor aygıtına sahip olmasına bağlanmamıştır ve
-bu, tanıma ölçütlerinin dönemden döneme değiştiğini gösterir.
+Bir birliğin devlet olarak tanınması,
+merkezî bir zor aygıtına sahip olmasına bağlanmamıştır ve bu, tanıma ölçütlerinin
+dönemden döneme değiştiğini gösterir.[^k2]
 
 ## Bölünme
 
@@ -232,8 +229,8 @@ Savaş sonunda topraklar bölündü ve nüfusun bir bölümü kuzeye
 göç etti.[^k3] Konfederasyon bundan sonra iki ayrı konseyle
 sürdü.
 
-Atlas bu bölünmeyi bir sona eriş olarak kaydetmez.[^k2] Birlik varlığını
-sürdürdü ve kurucu metin her iki konseyde de geçerli kaldı.
+Birlik varlığını sürdürdü ve kurucu metin her
+iki konseyde de geçerli kaldı.[^k2]
 
 ## Etki tartışması
 
@@ -243,22 +240,21 @@ sürülmüştür.[^k1] İddia, yirminci yüzyılda geniş biçimde tartışıld�
 Karşı görüş, benzerliklerin yüzeysel olduğunu ve doğrudan aktarım
 zincirinin gösterilemediğini savunur.[^k3] Tartışma sürmektedir.
 
-Atlas bir sonuca bağlanmaz.[^k2] Etki iddialarının sınanması, aktarım
-zincirinin belgelenmesini gerektirir ve bu belgeleme bu dosya
-yazıldığında yapılmış değildir.
+Etki iddialarının sınanması, aktarım
+zincirinin belgelenmesini gerektirir ve bu belgeleme bu inceleme yazıldığında yapılmış
+değildir.[^k2]
 
 ## Etki iddialarının genel sorunu
 
-Tartışma, atlasın başka dosyalarında da karşılaştığı bir sorunu
+Tartışma, korpusun başka dosyalarında da karşılaştığı bir sorunu
 örnekler.[^k1] İki kurum arasındaki benzerlik, birinin ötekinden
 alındığını göstermez.
 
 Benzerlik bağımsız olarak da ortaya çıkabilir.[^k3] Aynı soruna verilen
 cevaplar, aralarında temas olmadan da benzeşebilir.
 
-Atlas bu nedenle etki iddialarını ayrı bir kanıt eşiğine
-bağlar.[^k2] Aktarım zinciri gösterilmeden, benzerlik yalnızca
-benzerliktir.
+Aktarım zinciri gösterilmeden, benzerlik
+yalnızca benzerliktir.[^k2]
 
 ## Bugünkü durum
 
@@ -266,30 +262,29 @@ Konfederasyon bugün de varlığını sürdürmektedir.[^k1] Konsey toplanmakta,
 kurucu metin geçerliliğini korumakta ve üye uluslar kendi yönetim
 organlarını işletmektedir.
 
-Bu, atlasın aktör dosyalarının çoğundan farklıdır.[^k3] Dosyaların
+Bu, korpusun aktör dosyalarının çoğundan farklıdır.[^k3] Dosyaların
 büyük bölümü sona ermiş düzenleri işler.
 
-Dosya güncel siyasi meseleleri işlemez.[^k2] Atlas yaşayan siyasi
+Dosya güncel siyasi meseleleri işlemez.[^k2] Korpus yaşayan siyasi
 durumlar hakkında değerlendirme yapmaz ve dosya tarihsel kayıtla
 sınırlıdır.
 
 ## Kaynak durumu
 
-Bu dosyanın üç künyesinden ikisi birincil belgedir.[^k2] Bu, atlasın
+Bu incelemenin üç künyesinden ikisi birincil belgedir.[^k2] Bu, korpusun
 Amerika bölgesindeki dosyaları için olağan değildir.
 
 Birincil belgelerin ikisi de geç transkripsiyondur.[^k3] Metnin
 yüzyıllarca taşındığı ortam yazılı değildi ve bu kısıt künyede
 belirtilmiştir.
 
-Atlas transkripsiyonu birincil sayar ve niteliğini ayrıca
-yazar.[^k1] Bir metnin geç yazıya geçirilmiş olması onu ikincil yapmaz;
-aktarım zincirinin belirtilmesini gerektirir.
+Bir metnin geç yazıya geçirilmiş olması
+onu ikincil yapmaz; aktarım zincirinin belirtilmesini gerektirir.[^k1]
 
 ## Kapsam dışı
 
 Üye ulusların ayrı ayrı tarihleri burada işlenmez.[^k1] Her biri ayrı bir
-dosya gerektirir ve bu dosya yazıldığında atlasta bulunmuyorlardı.
+dosya gerektirir ve bu inceleme yazıldığında korpusta bulunmuyorlardı.
 
 Kurucu metnin madde madde içeriği aktarılmaz.[^k2] Metin künyede tam
 olarak erişilebilir durumdadır ve okur doğrudan ona bakabilir.
@@ -299,10 +294,9 @@ yalnızca birliğin yapısına ve metnin taşınma biçimine ilişkin olanı
 kaydeder; savaşların güzergâhı ve tarafların kayıpları ayrı bir çalışma
 gerektirir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, konfederasyonun yapısını bir model olarak önermez.[^k2] Yapının
-nasıl düzenlendiğini ve atlasın kendi kategorisini nasıl sınadığını
+nasıl düzenlendiğini ve korpusun kendi kategorisini nasıl sınadığını
 kaydeder.
 
 Kuruluş tarihi belirlenmez.[^k1] İki kanıt türü farklı tarihler verir ve
@@ -311,19 +305,18 @@ ikisi de kendi alanında geçerlidir.
 Etki tartışması sonuçlandırılmaz.[^k3] Aktarım zinciri belgelenmeden
 sonuç verilemez ve dosya bunu açıkça yazar.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Sözlü aktarımın kaynak değeri için
 [Sözlü tarih](/kavram/sozlu-tarih/) ve
 [Sözlü gelenek kaynak sayılır mı](/tartisma/sozlu-gelenek-kaynak-mi/)
-dosyaları okunmalıdır; bu dosya o tartışmanın en somut örneğidir.[^k2]
+dosyaları okunmalıdır; bu inceleme o tartışmanın en somut örneğidir.[^k2]
 
 Kanıt türlerinin hangi soruya cevap verdiği için
 [Kanıt türü](/kavram/kanit-turu/), belgelerin nasıl sınanacağı için
 [Birincil kaynak](/kavram/birincil-kaynak/) dosyaları uygundur.[^k3]
 
 Yetkinin neye dayandığı için [Meşruiyet](/kavram/mesruiyet/) ve
-[Egemenlik](/kavram/egemenlik/) dosyaları okunabilir; bu dosya ikisinin
+[Egemenlik](/kavram/egemenlik/) dosyaları okunabilir; bu inceleme ikisinin
 de olağan tanımını sınar.[^k1]
 
 Etki tartışmasının öteki tarafı için [ABD](/aktor/abd/) dosyası

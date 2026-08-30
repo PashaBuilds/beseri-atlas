@@ -55,8 +55,8 @@ devletin iki ya da üç güçlü güce haraç ödeyebileceğini kaydeder.[^k1]
 Kaynak, haraç ödeyen hükümdarın güçlü güçleri birbirine karşı oynayarak her
 birinin müdahalesini en aza indirebileceğini yazar.[^k1]
 
-Bir siyasi birimin aynı anda birden çok merkeze bağlı olabilmesi,[^k1] atlasın
-şu kuralının dayanağıdır: bu dosyada bağlılık, bir aidiyet değil bir ilişki
+Bir siyasi birimin aynı anda birden çok merkeze bağlı olabilmesi,[^k1] korpusun
+şu kuralının dayanağıdır: bu incelemede bağlılık, bir aidiyet değil bir ilişki
 demeti olarak kaydedilir. Harita gösterimi sorunu
 [İmparatorluk sınırı haritada nasıl gösterilmeli?](/tartisma/imparatorluk-siniri-nasil-cizilir/)
 haritasında ele alınıyor.
@@ -80,11 +80,10 @@ Karşıt biçim için tutulan kayıt, mutlak egemenliği savunan bir düşünür
 1588-1679 arasında yaşadığını verir.[^k3] O düşünür
 [Thomas Hobbes](/dusunur/hobbes/) dosyasında ele alınıyor.
 
-İki kaydın yan yana durması,[^k1][^k3] atlasın şu kuralının dayanağıdır:
-egemenliğin tekil ve bölünmez sayılması, bu atlasta belirli bir geleneğe ait bir
+İki kaydın yan yana durması,[^k1][^k3] korpusun şu kuralının dayanağıdır:
+egemenliğin tekil ve bölünmez sayılması, bu korpusta belirli bir geleneğe ait bir
 varsayım olarak kaydedilir, ortak bir başlangıç noktası olarak değil.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Terminoloji, kavramın tarihi ve yükümlülüklerin ayrıntısı burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]

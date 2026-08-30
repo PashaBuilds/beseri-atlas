@@ -60,7 +60,7 @@ Asya'da karşılaştı.[^k1] Karşılaşma bir nehir vadisinde gerçekleşti.
 Doğudan gelen ordu yenildi.[^k2] Yenilgide, savaş sırasında taraf
 değiştiren bir bozkır topluluğunun payı olduğu aktarılır.
 
-Bu dosyanın konusu muharebenin ayrıntısı değildir.[^k3] Sonucuna
+Bu incelemenin konusu muharebenin ayrıntısı değildir.[^k3] Sonucuna
 yüklenen anlamların hangi kanıta dayandığıdır.
 
 ## Savaşın çıkış nedeni yerel bir infazdır
@@ -95,8 +95,8 @@ Aradaki vadi ve vaha kentleri iki genişlemenin de hedefiydi.
 Yerel hükümdarlar iki tarafla da ilişki kuruyordu.[^k3] Taraf
 seçmek, çoğu zaman hangi ordunun daha yakın olduğuna bağlıydı.
 
-Atlas bu davranışı ayrıca kaydeder.[^k2] Küçük bir düzenin taraf
-seçmesi, tercih değil seçeneklerin sayısıyla ilgili bir sonuçtur.
+Küçük bir düzenin taraf seçmesi, tercih
+değil seçeneklerin sayısıyla ilgili bir sonuçtur.[^k2]
 
 ## Vaha kentlerinin konumu
 
@@ -120,8 +120,8 @@ sağlanıyordu.
 Bu düzenin bir sonucu vardır.[^k3] Uzaktaki bir merkezin bölgedeki
 gücü, oradaki komutanın kendi kararlarına bağlıydı.
 
-Atlas bu bağımlılığı ayrıca kaydeder.[^k2] Merkezden uzaklık arttıkça,
-imparatorluk siyaseti ile yerel komutanın siyaseti ayrışır.
+Merkezden uzaklık arttıkça, imparatorluk
+siyaseti ile yerel komutanın siyaseti ayrışır.[^k2]
 
 ## Mesafe ve tedarik
 
@@ -132,8 +132,8 @@ Bu, muharebenin ölçeğini de sınırladı.[^k3] Bölgede beslenebilecek
 ordu büyüklüğü, merkezde toplanabilecek büyüklükten çok daha
 küçüktür.
 
-Atlas bu kısıtı sayı tartışmasına bağlar.[^k2] Kaynaklarda geçen büyük
-sayılar, bölgenin taşıyabileceği tedarikle çelişir.
+Kaynaklarda geçen büyük sayılar,
+bölgenin taşıyabileceği tedarikle çelişir.[^k2]
 
 ## Taraf değiştirmenin zamanlaması
 
@@ -143,8 +143,8 @@ Zamanlama, sonucu belirleyici hâle getirdi.
 Bu tür anlatılar dikkatle okunmalıdır.[^k3] Yenilgiyi açıklamak
 zorunda kalan bir kayıt, ihaneti öne çıkarmaya eğilimlidir.
 
-Atlas bu eğilimi işaretler.[^k2] Yenilginin iç nedenleri, dış bir
-ihanetle açıklandığında incelenmeden kalır.
+Yenilginin iç nedenleri, dış bir
+ihanetle açıklandığında incelenmeden kalır.[^k2]
 
 ## Sonucun sınırı
 
@@ -155,9 +155,9 @@ Buna karşılık çekilmenin tek nedeni bu muharebe değildir.[^k2]
 Birkaç yıl sonra çıkan büyük bir iç ayaklanma, aynı düzenin batıdaki
 gücünü zaten ortadan kaldırdı.
 
-Atlas iki nedeni birlikte kaydeder.[^k3] **Bir sonucun ardından gelen
-tek olay, o sonucun nedeni sayılamaz; aynı dönemde işleyen başka
-etkenler ayrıca sayılmalıdır.**
+**Bir sonucun ardından gelen tek olay, o
+sonucun nedeni sayılamaz; aynı dönemde işleyen başka etkenler ayrıca
+sayılmalıdır.**[^k3]
 
 ## Kâğıt iddiası
 
@@ -167,9 +167,8 @@ esir alınan zanaatkârlar kâğıt yapımını batıya taşıdı.
 İddia yaygın olarak anlatılır.[^k2] Dayanağı, olaydan çok sonra
 yazılmış kayıtlardır.
 
-Atlas iddiayı tartışmalı sayar.[^k3] Bölgede kâğıt üretiminin
-muharebeden önce de bilindiğine dair göstergeler vardır ve tek bir
-olayla açıklanması zorlamadır.
+Bölgede kâğıt üretiminin muharebeden önce de
+bilindiğine dair göstergeler vardır ve tek bir olayla açıklanması zorlamadır.[^k3]
 
 ## Kâğıt iddiasının sınanması
 
@@ -179,8 +178,8 @@ tarihte mi ulaştığıdır.
 İkincisi, ulaşmanın bu muharebeyle mi olduğudur.[^k3] İki soru ayrı
 ayrı sınanmalıdır ve birinin cevabı diğerini vermez.
 
-Atlas bu ayrımı genel bir kural olarak kaydeder.[^k2] Bir yayılmanın
-tarihi ile mekanizması ayrı iki sorudur.
+Bir yayılmanın tarihi ile mekanizması ayrı iki
+sorudur.[^k2]
 
 ## Neden bu iddia tutundu
 
@@ -190,9 +189,8 @@ anlatılıyor.
 Cevap anlatının biçimindedir.[^k3] Tek bir tarihe, tek bir olaya ve
 tek bir aktarım anına bağlanan açıklamalar akılda kalır.
 
-Atlas bu eğilimi ayrıca kaydeder.[^k2] Bir teknolojinin yayılması
-genellikle uzun ve dağınıktır; tek bir olayla anlatılması, anlatının
-ihtiyacıdır.
+Bir teknolojinin yayılması genellikle uzun ve
+dağınıktır; tek bir olayla anlatılması, anlatının ihtiyacıdır.[^k2]
 
 ## Üretimin yerleşmesi
 
@@ -202,8 +200,8 @@ Kent, uzun süre üretim merkezi olarak anıldı.
 Yerleşme, tek bir aktarım anıyla açıklanamaz.[^k3] Üretim için su,
 hammadde, işgücü ve sürekli talep gerekir.
 
-Atlas bu koşulları ayrıca sayar.[^k2] Bir tekniğin bilinmesi ile o
-teknikle üretim yapılması arasında bir kurumsal eşik vardır.
+Bir tekniğin bilinmesi ile o teknikle
+üretim yapılması arasında bir kurumsal eşik vardır.[^k2]
 
 ## Yazının ucuzlaması
 
@@ -213,9 +211,8 @@ malzeme maliyeti belirgin biçimde düştü.
 Ucuzlama, kaydın kapsamını değiştirir.[^k3] Daha ucuz malzeme, daha
 çok kaydın tutulması ve saklanması demektir.
 
-Atlas bu etkiyi doğrudan kendi konusuna bağlar.[^k2] Bugün elde
-bulunan kaynakların dağılımı, hangi dönemde yazmanın ucuz olduğuna da
-bağlıdır.
+Bugün elde bulunan kaynakların dağılımı,
+hangi dönemde yazmanın ucuz olduğuna da bağlıdır.[^k2]
 
 ## Esirlerin akıbeti
 
@@ -227,8 +224,8 @@ Bu bildirimin kaynağı, esirlerden birinin sonradan yazdığı
 anlatıdır.[^k3] Anlatı, bölge ve dönem hakkında başka bilgiler de
 verir.
 
-Atlas bu kaydı ayrı bir tanıklık sayar.[^k2] Bir esirin anlatısı,
-muharebenin değil, sonrasındaki hareketin kaynağıdır.
+Bir esirin anlatısı, muharebenin değil,
+sonrasındaki hareketin kaynağıdır.[^k2]
 
 ## Kaynakların durumu
 
@@ -238,8 +235,8 @@ yüzyıllarda yazıldı.
 İki taraftan da kayıt vardır ama ikisi de sonradan derlenmiştir.[^k2]
 Ordu büyüklükleri ve kayıp sayıları birbirini tutmaz.
 
-Atlas bu yüzden sayı vermez.[^k3] Bu, atlasın tarihsel sayılar
-kuralının buradaki uygulamasıdır.
+Bu, korpusun tarihsel sayılar
+kuralının buradaki uygulamasıdır.[^k3]
 
 ## Bölgenin kendi kaydı
 
@@ -250,20 +247,19 @@ Muharebeye doğrudan değinen bir yerel belge bilinmiyor.[^k3] Bölgenin
 kendi kaydı, iki imparatorluğun karşılaşmasını değil, kendi işlerini
 tutar.
 
-Atlas bu boşluğu anlamlı sayar.[^k2] Bir olayın yerel kayıtta yer
-almaması, o olayın orada yaşayanlar için merkezde olmadığını da
-gösterebilir.
+Bir olayın yerel kayıtta yer almaması, o
+olayın orada yaşayanlar için merkezde olmadığını da gösterebilir.[^k2]
 
 ## Sınır çizgisinin oluşması
 
 Muharebeden sonra iki düzen arasında fiilî bir sınır oluştu.[^k1] Sınır
 bir antlaşmayla çizilmedi.
 
-Sınır, genişlemenin durduğu yerde oluştu.[^k3] Bu, atlasın imparatorluk
+Sınır, genişlemenin durduğu yerde oluştu.[^k3] Bu, korpusun imparatorluk
 sınırı tartışmasında tanımlanan biçimlerden biridir.
 
-Atlas bu oluşumu ayrıca kaydeder.[^k2] Bir sınır, çizildiği için değil
-iki tarafın da ötesine geçemediği için kalıcı olabilir.
+Bir sınır, çizildiği için değil iki tarafın da
+ötesine geçemediği için kalıcı olabilir.[^k2]
 
 ## Uzun vadeli sonuç
 
@@ -273,8 +269,8 @@ girdi.[^k1] Bu geçiş yüzyıllar sürdü.
 Geçişin muharebeyle başladığı söylenemez.[^k2] Ticaret, göç ve yerel
 hükümdarların tercihleri daha belirleyiciydi.
 
-Atlas iki süreci ayırır.[^k3] Askerî sonuç ile kültürel geçiş aynı
-takvimde işlemez.
+Askerî sonuç ile kültürel geçiş aynı
+takvimde işlemez.[^k3]
 
 ## Sonraki yüzyıllarda vadi
 
@@ -285,8 +281,8 @@ kullanıldı.
 Coğrafya, siyasi düzenlerden daha uzun ömürlüdür.[^k3] Geçit veren
 vadiler, hangi düzen kurulursa kurulsun geçit vermeyi sürdürür.
 
-Atlas bu sürekliliği ayrıca kaydeder.[^k2] Aynı yerde tekrarlanan
-karşılaşmalar, rastlantı değil güzergâh sonucudur.
+Aynı yerde tekrarlanan
+karşılaşmalar, rastlantı değil güzergâh sonucudur.[^k2]
 
 ## Muharebenin sonraki anlatılarda yeri
 
@@ -296,10 +292,10 @@ Muharebe, uzun süre dünya tarihi anlatılarında merkezde değildi.[^k1]
 Öne çıkma, iki uygarlığın karşılaşması çerçevesiyle birlikte
 geldi.[^k3] Bu çerçeve, olayı olduğundan büyük gösterir.
 
-Atlas çerçeveyi ayrıca kaydeder.[^k2] Bir olayın önemi, kaynaklardan
-değil onu anlatan çerçeveden de gelebilir.
+Bir olayın önemi, kaynaklardan değil onu
+anlatan çerçeveden de gelebilir.[^k2]
 
-## Atlasın bu dosyadan çıkardığı
+## Korpusun bu incelemeden çıkardığı
 
 Dosya bir muharebeyi anlatmaz.[^k1] Bir olayın nasıl fazla yük
 taşımaya başladığını gösterir.
@@ -307,11 +303,10 @@ taşımaya başladığını gösterir.
 Ölçüm şudur.[^k3] Tek bir tarihe bağlanan açıklamalar, sınanması
 kolay olduğu için değil, anlatılması kolay olduğu için yaygınlaşır.
 
-Atlas bu yüzden tarihleri açıklama yerine koymaz.[^k2] Bir tarih, bir
-sürecin nerede sorulacağını gösterir; cevabını vermez.
+Bir tarih, bir sürecin nerede sorulacağını
+gösterir; cevabını vermez.[^k2]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, muharebenin taktik ayrıntısını vermez.[^k1] Kaynaklar bu düzeyde
 güvenilir değildir.
 
@@ -323,8 +318,7 @@ ayrı bir dosya gerektirir.
 doğrulanabilir çevrimiçi çağdaş metin bulunamamıştır ve kısıt burada
 beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Taraf değiştiren topluluk için [Karluklar](/aktor/karluklar/), bölgenin
 sonraki düzeni için [Uygur Kağanlığı](/aktor/uygur-kaganligi/)
 dosyaları okunmalıdır.[^k1]

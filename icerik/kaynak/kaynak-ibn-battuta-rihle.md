@@ -73,7 +73,7 @@ bir alanı kapsar.
 Yolculuklar yaklaşık yirmi dokuz yıl sürdü.[^k2] Anlatı, yolculuklar
 bittikten sonra, hükümdarın isteğiyle kaleme alındı.
 
-Bu dosya eserin içeriğini özetlemez.[^k3] Atlasta bu tanıklığa yapılan
+Bu inceleme eserin içeriğini özetlemez.[^k3] Korpusta bu tanıklığa yapılan
 atıfların hangi koşullarla yapılabileceğini kaydeder.
 
 ## İki kişilik bir metin
@@ -81,7 +81,7 @@ atıfların hangi koşullarla yapılabileceğini kaydeder.
 Metni yazan kişi ile anlatan kişi aynı değildir.[^k1] Yolculukları
 yapan anlattı, bir kâtip yazdı.
 
-Bu ayrım künyeye de geçirilmiştir.[^k2] Atlasın künyesinde hem
+Bu ayrım künyeye de geçirilmiştir.[^k2] Korpusun künyesinde hem
 yazdıran hem yazan anılır.
 
 Ayrımın sonucu vardır.[^k3] Metnin üslubu, bölüm düzeni ve edebî
@@ -94,7 +94,7 @@ Anlatı, olayların üzerinden yıllar geçtikten sonra yazıldı.[^k1] Yol
 notlarının bir bölümünün yolculuk sırasında kaybolduğu eserin kendi
 içinde bildirilir.
 
-Bu, atlasın tanıklık için kurduğu kuralın doğrudan konusudur.[^k3] Bir
+Bu, korpusun tanıklık için kurduğu kuralın doğrudan konusudur.[^k3] Bir
 tanıklığın değeri, olayla kayıt arasındaki sürenin uzunluğuyla ters
 orantılıdır.
 
@@ -110,9 +110,8 @@ kayar.
 Aktarım, eserin bütününü geçersiz kılmaz.[^k3] Dönemin yazım
 pratiğinde başka eserlerden bölüm almak bir kusur sayılmıyordu.
 
-Atlas bu yüzden eseri bölüm bölüm değerlendirir.[^k2] **Bir eserin
-bütünü için verilen güven derecesi, o eserin her bölümü için ayrı ayrı
-geçerli değildir.**
+**Bir eserin bütünü için verilen
+güven derecesi, o eserin her bölümü için ayrı ayrı geçerli değildir.**[^k2]
 
 ## Hangi bölgeler için kullanılabilir
 
@@ -123,21 +122,20 @@ elden aktarımdır.
 Ayrım her zaman kesin değildir.[^k3] Bazı bölümlerde anlatıcının orada
 bulunup bulunmadığı metinden çıkarılamaz.
 
-Atlas belirsiz bölümleri ayrıca işaretler.[^k2] Bir tanıklığın kapsamı
-belirsizse, o kapsam iddiaya çevrilmez.
+Bir tanıklığın kapsamı belirsizse, o
+kapsam iddiaya çevrilmez.[^k2]
 
 ## Batı Afrika bölümü
 
-Eserin Mali seferi bölümü, atlasta en çok atıf yapılan
+Eserin Mali seferi bölümü, korpusta en çok atıf yapılan
 kısımlarındandır.[^k1] Bölge hakkında dönemin başka yazılı kaydı
 sınırlıdır.
 
 Bu, bir avantaj ve bir risktir.[^k3] Az sayıda kaynak, tek kaynağa
 yaslanmayı kolaylaştırır.
 
-Atlas riski açıkça beyan eder.[^k2] Bir bölge hakkındaki bilginin
-neredeyse tamamı tek bir metinden geliyorsa, bu bilginin gücü o metnin
-gücüyle sınırlıdır.
+Bir bölge hakkındaki bilginin neredeyse
+tamamı tek bir metinden geliyorsa, bu bilginin gücü o metnin gücüyle sınırlıdır.[^k2]
 
 ## Dışarıdan bakışın izi
 
@@ -158,8 +156,8 @@ kısaltılmıştır.
 Erken Avrupa çevirileri kısaltılmış nüshalardan yapıldı.[^k2] Bu,
 çevirilerde bulunmayan bölümlerin olduğu anlamına gelir.
 
-Atlas bu yüzden hangi çeviriye atıf yapıldığını belirtir.[^k3] Eser adı
-tek başına, hangi metnin okunduğunu göstermez.
+Eser adı tek başına, hangi metnin
+okunduğunu göstermez.[^k3]
 
 ## Sayılara yaklaşım
 
@@ -167,8 +165,8 @@ Metinde geçen ordu büyüklükleri, kalabalık tahminleri ve mesafeler
 dönemin anlatı geleneğine uygundur.[^k1] Bu gelenekte büyük sayılar
 çokluğu belirtir, sayımı değil.
 
-Atlas bu sayıları veri olarak kullanmaz.[^k3] Bu, atlasın tarihsel
-sayılar tartışmasında kurulan kuralın bir uygulamasıdır.
+Bu, korpusun tarihsel sayılar
+tartışmasında kurulan kuralın bir uygulamasıdır.[^k3]
 
 Kayıt yine de değerlidir.[^k2] Bir kalabalığın "sayılamayacak kadar
 çok" diye anlatılması, o kalabalığın gözlemciye bıraktığı izlenimin
@@ -183,8 +181,8 @@ Mesleki bilgi bir kaynağı belirli konularda daha güvenilir
 kılar.[^k3] Aynı kişi, uzmanlık alanı dışındaki konularda ortalama bir
 gözlemcidir.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k2] Bir tanığın güvenilirliği kişiye
-değil, konuya göre belirlenir.
+Bir tanığın güvenilirliği kişiye değil, konuya göre
+belirlenir.[^k2]
 
 ## Ticaret ve para kayıtları
 
@@ -195,12 +193,11 @@ yarar.
 Fiyat kayıtları özellikle kullanışlıdır.[^k3] Aynı malın farklı
 kentlerdeki fiyatı, taşıma maliyeti hakkında dolaylı bilgi verir.
 
-Atlas bu kayıtları karşılaştırmalı okur.[^k2] Tek bir fiyat kaydı
-anlamsızdır; iki kayıt bir ilişki kurar.
+Tek bir fiyat kaydı
+anlamsızdır; iki kayıt bir ilişki kurar.[^k2]
 
-## Bu dosyanın sınırı
-
-Dosya, eserin bütün bölümlerini değerlendirmez.[^k1] Yalnızca atlasta
+## Kanıtın ve kapsamın sınırı
+Dosya, eserin bütün bölümlerini değerlendirmez.[^k1] Yalnızca korpusta
 atıf yapılan kısımlar için kural koyar.
 
 Anlatıcının yolculuk güzergâhı tartışmalıdır.[^k3] Bazı bölgelere hangi
@@ -210,8 +207,7 @@ tartışmasıdır ve burada karara bağlanmaz.
 Eserin tam Arapça metni künyelenememiştir.[^k2] Künyedeki çeviri
 kısaltılmış nüshalara dayanır ve bu kısıt burada beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Bu tanıklığın hangi ölçütle değerlendirildiği için
 [Birincil kaynak](/kavram/birincil-kaynak/) ve
 [Kaynak eleştirisi](/kavram/kaynak-elestirisi/) dosyaları

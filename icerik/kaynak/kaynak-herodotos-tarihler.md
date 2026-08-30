@@ -63,7 +63,7 @@ yükselişini sayar.[^k1]
 
 ## Eserin statüsü aynı maddede iki yönlüdür
 
-::tartismali[Kaynak hem yazarın çağdaşı tarafından hikâye uydurmakla suçlandığını hem eserin hatırı sayılır bir bölümünün sonradan doğrulandığını yazıyor. Atlas iki kaydı da taşır ve hangisinin ağır bastığını söylemez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Kaynak hem yazarın çağdaşı tarafından hikâye uydurmakla suçlandığını hem eserin hatırı sayılır bir bölümünün sonradan doğrulandığını yazıyor. Korpus iki kaydı da taşır ve hangisinin ağır bastığını söylemez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Kaynak, yazarın kendi zamanında eserine efsaneler ve hayalî anlatılar kattığı
 için eleştirildiğini ve Peloponez Savaşı'nı yazan çağdaşının onu eğlence olsun
@@ -79,7 +79,7 @@ Kaynak, yazarın bu suçlamaya gördüğünü ve kendisine anlatılanı bildirdi
 söyleyerek karşılık verdiğini yazar.[^k1]
 
 İki kanıt türünün — taniklik ve aktarım — bir yöntem beyanı içinde ayrılması,
-[^k1] atlasın kaynak eleştirisi dosyasında kaydettiği ayrımın en eski
+[^k1] korpusun kaynak eleştirisi dosyasında kaydettiği ayrımın en eski
 örneklerinden biridir; o dosya
 [Kaynak eleştirisi](/kavram/kaynak-elestirisi/) dosyasıdır.
 
@@ -97,11 +97,10 @@ dosyasında ele alınıyor.
 Yüz yıl önce yazılmış bir başka ansiklopedi maddesi, yazarı tarihin babası diye
 anılan Yunan tarihçi olarak tanıtır ve Halikarnassos'ta doğduğunu yazar.[^k2]
 
-Atlas bu unvanı benimsemez, kaydeder; yazar
+Korpus bu unvanı benimsemez, kaydeder; yazar
 [Herodotos](/dusunur/herodotos/) dosyasında ele alınıyor.
 
-## Okuma yönlendirmesi
-
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki ansiklopedi
+## Okumayı sürdürmek için
+Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki ansiklopedi
 maddeleridir.[^k1][^k2] Eser kamu malıdır; hangi çevirinin ve hangi baskının
 kullanıldığı her aktarımda belirtilmelidir.

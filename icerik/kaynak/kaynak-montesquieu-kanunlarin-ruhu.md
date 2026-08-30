@@ -69,7 +69,7 @@ verir ve maddenin ilk kez 18 Temmuz 2003'te yayımlandığını, 2 Nisan 2014'te
 esaslı biçimde gözden geçirildiğini kaydeder.[^k1]
 
 Bir ansiklopedi maddesinin kendi yayın ve gözden geçirme tarihlerini taşıması,
-[^k1] atlasın kaynak alanında neden erişim tarihi tuttuğunun dayanağıdır: bir
+[^k1] korpusun kaynak alanında neden erişim tarihi tuttuğunun dayanağıdır: bir
 madde zamanla değişir.
 
 Aynı kayıt, yazarı Aydınlanma'nın büyük siyaset filozoflarından biri olarak
@@ -83,7 +83,7 @@ kurduğunu yazar.[^k1]
 Kaynak, yazarın bu açıklamayı yönetimlerin yozlaşmadan nasıl korunabileceğini
 açıklamak için kullandığını yazar.[^k1]
 
-Bir betimlemenin açıkça bir amaca bağlanması,[^k1] atlasın şu kuralının
+Bir betimlemenin açıkça bir amaca bağlanması,[^k1] korpusun şu kuralının
 dayanağıdır: bu esere yapılan atıflarda betimleme ile öneri ayrı ayrı
 belirtilir.
 
@@ -104,7 +104,7 @@ gösterir; ilgili kavram
 Kaynak yazarı doymak bilmez biçimde meraklı ve iğneleyici biçimde komik olarak
 niteler.[^k1]
 
-Atlas bu nitelemeyi benimsemez, kime ait olduğunu belirterek taşır. Yazar
+Korpus bu nitelemeyi benimsemez, kime ait olduğunu belirterek taşır. Yazar
 [Montesquieu](/dusunur/montesquieu/) dosyasında ele alınıyor.
 
 ## Sonraki on yıllardaki uygulama alanı
@@ -113,17 +113,16 @@ Sonraki on yıllardaki uygulama alanlarından biri için tutulan kayıt, o olay�
 bir madde olarak işler.[^k3] O olay
 [Fransız Devrimi](/olay/fransiz-devrimi/) dosyasında ele alınıyor.
 
-Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde
+Korpus iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde
 böyle bir bağ belirtilmemiştir.[^k1][^k3]
 
-## Okuma yönlendirmesi
-
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
+## Okumayı sürdürmek için
+Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
 ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi çevirinin kullanıldığı her
 aktarımda belirtilmelidir.
 
 ## Metne bağ
 
-Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
+Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
 atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
 çevirinin kullanıldığı her aktarımda belirtilmelidir.

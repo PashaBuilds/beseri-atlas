@@ -97,8 +97,7 @@ rağmen yaklaşık yüzde otuz arttı.
 Bu, savaş kayıplarının küçük olduğu anlamına gelmez; demografik büyümenin başka
 mekanizmalarla sürdüğü anlamına gelir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Bu makale savaşın askerî seyrini, cephelerini ve barış düzenlemelerini ayrı ayrı
 ele almaz; kaynak tabanı savaşın **bilançosu** ve **öncesi** üzerinedir. Cephe
 tarihi ve soykırımlar, ayrı dosyalar gerektiren konulardır ve burada temsil

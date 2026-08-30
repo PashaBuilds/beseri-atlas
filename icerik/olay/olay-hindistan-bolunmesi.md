@@ -52,7 +52,7 @@ onarim_turu: 0
 1947'deki Hindistan'ın bölünmesi, Britanya Hindistanı'nın Hindistan Birliği ve
 Pakistan Hâkimiyeti adlı iki bağımsız hâkimiyet devletine bölünmesiydi;[^k1]
 tarih 15 Ağustos 1947 olarak verilir ve sonuç, iki bağımsız hâkimiyet ile mülteci
-krizleri olarak kaydedilir.[^k1] Bu dosya, olayın **sayılarını ve bıraktığı
+krizleri olarak kaydedilir.[^k1] Bu inceleme, olayın **sayılarını ve bıraktığı
 belirsizliği** ele alır.
 
 ## İki sayı, iki farklı belirsizlik
@@ -62,7 +62,7 @@ Kaynak iki nicelik verir: ölü sayısı 200.000–2 milyon, yerinden edilen say
 arasında yerinden etti ve kitlesel göç ile nüfus transferiyle ilişkili ezici
 mülteci krizleri yarattı.[^k1]
 
-::tartismali[Bölünmenin ölü sayısı için verilen aralık on kat farklıdır; atlas
+::tartismali[Bölünmenin ölü sayısı için verilen aralık on kat farklıdır; korpus
 tek bir sayı sunmaz ve aralığı olduğu gibi
 aktarır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
@@ -95,7 +95,7 @@ Pakistan'ın Hindu ve Sih nüfusları ise on yıllar içinde göç ve zulüm ned
 ciddi biçimde azaldı.[^k1]
 
 Aynı kayda göre tam bir mübadelenin gerçekleşmemesi kalıcı toplumsal gerilimlere yol açmıştır.[^k1]
-Atlas burada bir hüküm vermez; kaynağın kurduğu neden zincirini aktarır.
+Korpus burada bir hüküm vermez; kaynağın kurduğu neden zincirini aktarır.
 
 ## Öncesindeki idari düzenleme
 
@@ -112,10 +112,9 @@ ile bölünmede yerinden edilen 12–20 milyon kişi[^k1] farklı serilerden gel
 bölgenin kendi nüfusuna dair bir ölçüm kullanılan kaynaklarda bulunmadığı için
 burada oran kurulmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kaynak, bazı prens devletlerinin yöneticilerinin bağımsızlığı seçtiğini
-kaydeder;[^k1] bu seçimlerin sonraki tarihi bu dosyada izlenmemektedir.
+kaydeder;[^k1] bu seçimlerin sonraki tarihi bu incelemede izlenmemektedir.
 Bağımsızlık müzakereleri, siyasi partilerin konumları ve şiddetin bölge bölge
 seyri de burada ayrı başlıklar altında ele alınmamıştır.
 Dönemin bütünü [1945–1991](/donem/14/) dosyasında ele alınıyor.

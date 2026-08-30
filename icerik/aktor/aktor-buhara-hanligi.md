@@ -72,7 +72,7 @@ Devlet üç yüzyıl boyunca birden çok hanedan tarafından yönetildi.[^k1]
 Hanedan değişimleri, devletin sürekliliğini kesmedi; merkez, hukuk düzeni
 ve vergi yapısı büyük ölçüde aynı kaldı.
 
-Bu dosyanın asıl konusu hanedanlardan biridir.[^k4] On sekizinci yüzyıl
+Bu incelemenin asıl konusu hanedanlardan biridir.[^k4] On sekizinci yüzyıl
 sonunda iktidara gelen hanedan, han unvanını kullanamadı.
 
 ## Unvan sorunu
@@ -88,7 +88,7 @@ yetkiyi karşılayan ayrı bir başlıktı.
 
 ## Ölçümün anlamı
 
-Bu, atlasın Çağatay dosyasında kaydedilen kuralın dördüncü kez
+Bu, korpusun Çağatay dosyasında kaydedilen kuralın dördüncü kez
 ölçülmesidir.[^k3] Kural aynıdır ve aralarında dört yüzyıl vardır.
 
 Kuralı uygulatan zor gücü çok önce ortadan kalkmıştı.[^k1] Onu kuran
@@ -106,8 +106,8 @@ Kuralın uygulanma biçimi de öğreticidir.[^k1] Yeni hanedan kuralı
 Bu, kuralla çatışmadan iktidarı almanın yoludur.[^k4] Kural, kimin
 yöneteceğini değil kimin hangi adla yöneteceğini belirliyordu.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Bir kuralın etkili olması, gücü
-engellemesini gerektirmez; gücü bir biçime sokması yeterlidir.
+Bir kuralın etkili olması, gücü engellemesini
+gerektirmez; gücü bir biçime sokması yeterlidir.[^k3]
 
 ## Öncesi: hanedanlar
 
@@ -141,9 +141,8 @@ Bu ağ, devletin siyasi sınırlarından daha geniş bir alana
 yayılıyordu.[^k1] Şehrin etkisi, siyasi hâkimiyet alanıyla
 ölçülemez.
 
-Atlas bu farkı ayrıca kaydeder.[^k3] Bir merkezin çekim alanı ile bir
-devletin sınırı farklı büyüklüklerdir ve sık sık birbirine
-karıştırılır.
+Bir merkezin çekim alanı ile bir devletin sınırı
+farklı büyüklüklerdir ve sık sık birbirine karıştırılır.[^k3]
 
 ## Kuzeyle ilişki
 
@@ -161,7 +160,7 @@ sonunda kuzeydeki devletin himayesine girdi.
 Himaye, ilhak değildi.[^k4] Hanedan yerinde kaldı ve iç yönetim
 sürdürüldü.
 
-Dış ilişkiler ve savunma devredildi.[^k1] Bu, atlasın Tonga
+Dış ilişkiler ve savunma devredildi.[^k1] Bu, korpusun Tonga
 dosyasında kaydedilen düzenin bir başka örneğidir.
 
 İki örnek arasındaki fark sonuçtadır.[^k4] Buhara'da himaye, yirminci
@@ -175,8 +174,8 @@ siyasi düzenin bütünüyle değişmesiyle oldu.
 Yerine kurulan yapı, farklı bir devlet biçimine dayanıyordu.[^k1] Hanedan
 düzeni bütünüyle kaldırıldı.
 
-Bu dosya o dönemi kapsamaz.[^k3] Devletin sonrası ayrı bir dosya
-gerektirir ve bu dosya yazıldığında atlasta bulunmuyordu.
+Bu inceleme o dönemi kapsamaz.[^k3] Devletin sonrası ayrı bir dosya
+gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu.
 
 ## Toprak ve vergi düzeni
 
@@ -197,8 +196,8 @@ bakımı, merkezî örgütlenme gerektiren bir işti.
 Bakımın aksaması doğrudan üretim kaybı demekti.[^k2] Bu, siyasi
 istikrar ile tarımsal üretim arasında doğrudan bir bağ kurar.
 
-Atlas bu bağı ayrıca kaydeder.[^k1] Sulamaya dayanan tarım bölgelerinde
-siyasi çalkantının maliyeti, kuru tarım bölgelerinden daha yüksektir.
+Sulamaya dayanan tarım bölgelerinde
+siyasi çalkantının maliyeti, kuru tarım bölgelerinden daha yüksektir.[^k1]
 
 ## Ticaret hacmi tartışması
 
@@ -208,8 +207,8 @@ sürülür.[^k4] İddia, deniz yollarının açılmasına dayandırılır.
 Karşı kayıtlar da vardır.[^k2] Şehirlerin imar faaliyeti ve medrese
 yapımı dönem boyunca sürdü.
 
-Atlas iddiayı bu dosyada sonuçlandırmaz.[^k1] Ölçüt sorunu ayrı bir
-tartışma dosyasında ele alınır.
+Ölçüt sorunu ayrı bir tartışma
+dosyasında ele alınır.[^k1]
 
 ## Kölelik
 
@@ -221,8 +220,8 @@ Uygulama, kuzeydeki devletin müdahale gerekçelerinden biri olarak da
 kullanıldı.[^k1] Gerekçenin kullanılması, uygulamanın varlığını
 değiştirmez.
 
-Atlas iki düzeyi ayrı tutar.[^k4] Bir uygulamanın gerçekliği ile o
-uygulamanın müdahale gerekçesi olarak kullanılması ayrı iki olgudur.
+Bir uygulamanın gerçekliği ile o uygulamanın müdahale
+gerekçesi olarak kullanılması ayrı iki olgudur.[^k4]
 
 ## Nüfus ve şehirler
 
@@ -245,9 +244,8 @@ Havzalar arasındaki mesafe, merkezî bir ordunun sürekli
 konuşlandırılmasını maliyetli kılıyordu.[^k1] Bu, birleşmeyi
 zorlaştıran yapısal bir etkendir.
 
-Atlas bu örüntüyü ayrıca kaydeder.[^k4] Sulama havzalarına dayanan
-tarım bölgelerinde siyasi birimler, havzaların sınırlarını izleme
-eğilimindedir.
+Sulama havzalarına dayanan tarım bölgelerinde
+siyasi birimler, havzaların sınırlarını izleme eğilimindedir.[^k4]
 
 ## Zanaat ve üretim
 
@@ -258,7 +256,7 @@ Bu üretim yalnızca yerel pazara değil, uzak pazarlara da
 yönelikti.[^k1] Ürünlerin kuzeye ve güneye taşındığı kayıtlıdır.
 
 Zanaat üretiminin varlığı, geçiş ticaretinin tek gelir kaynağı olmadığını
-gösterir.[^k3] Atlas bu ayrımı ayrıca yazar çünkü gerileme iddiaları
+gösterir.[^k3] Korpus bu ayrımı ayrıca yazar çünkü gerileme iddiaları
 genellikle yalnızca geçiş ticaretini ölçer.
 
 ## Gerileme ölçütü sorunu
@@ -270,9 +268,8 @@ Geçiş ticareti hacmi ölçüt alınırsa bir sonuç, kişi başına üretim ya
 kentleşme oranı ölçüt alınırsa başka bir sonuç çıkar.[^k2] Ölçütlerin
 hiçbiri bu dönem için doğrudan ölçülmüş değildir.
 
-Atlas bu nedenle gerileme sözcüğünü ölçüt belirtmeden
-kullanmaz.[^k1] Ölçüt belirtilmeden yapılan gerileme iddiası, bir
-karşılaştırma değil bir izlenimdir.
+Ölçüt belirtilmeden yapılan gerileme
+iddiası, bir karşılaştırma değil bir izlenimdir.[^k1]
 
 ## Kaynakların taraflılığı
 
@@ -283,16 +280,16 @@ belirledi.[^k4] Bu raporlar sık sık alıntılanır.
 Raporların yazılma bağlamı belirtilmelidir.[^k1] Bir bölümü, o bölgeye
 yönelen askerî ve siyasi ilginin parçası olarak hazırlanmıştır.
 
-Atlas bu kaynakları reddetmez, konumlandırır.[^k3] Gözlemcinin niçin
-orada bulunduğu, neyi kayda değer bulduğunu da belirler.
+Gözlemcinin niçin orada
+bulunduğu, neyi kayda değer bulduğunu da belirler.[^k3]
 
 ## Kaynak durumu
 
-Bu dosyanın dört künyesinin üçü ansiklopedi maddesidir.[^k1] Birincil
+Bu incelemenin dört künyesinin üçü ansiklopedi maddesidir.[^k1] Birincil
 kaynak künyelenememiştir.
 
 Dönemin Farsça ve Çağatayca vakayinameleri ile vakıf belgeleri
-mevcuttur.[^k2] Doğrulanabilir çevrimiçi baskıları bu dosya yazıldığında
+mevcuttur.[^k2] Doğrulanabilir çevrimiçi baskıları bu inceleme yazıldığında
 bulunamamıştır.
 
 Eksik borç defterine yazılmıştır.[^k3] Dosya, birincil kaynağı olmayan
@@ -302,19 +299,18 @@ makaleler grubundadır.
 
 Hükümdarların listesi ve saltanat süreleri verilmez.[^k1] Kaynaklar bu
 konuda örtüşmez ve bir liste vermek, kaynaklar arasında örtüşme varmış
-izlenimi yaratır; atlas bu izlenimi üretmemeyi tercih eder.
+izlenimi yaratır; korpus bu izlenimi üretmemeyi tercih eder.
 
 Komşu hanlıklarla yapılan seferlerin ayrıntısı kapsam dışıdır.[^k4]
 Dosya yalnızca unvan ve meşruiyet kaydını tutar.
 
-Şehrin mimari mirası ayrı bir çalışma gerektirir.[^k2] Bu dosya
-yazıldığında atlasta bulunmuyordu. Medrese, kervansaray ve türbe
+Şehrin mimari mirası ayrı bir çalışma gerektirir.[^k2] Bu inceleme
+yazıldığında korpusta bulunmuyordu. Medrese, kervansaray ve türbe
 yapılarının dönem dönem dağılımı, gerileme tartışmasında kullanılabilecek
-bir gösterge olmasına rağmen atlasta hiç ölçülmemiştir ve bu eksik borç
+bir gösterge olmasına rağmen korpusta hiç ölçülmemiştir ve bu eksik borç
 defterine yazılmıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya devletin gerilediğini ya da gerilemediğini ileri sürmez.[^k4]
 Gerileme iddiası ayrı bir tartışma dosyasında ele alınır.
 
@@ -323,11 +319,10 @@ gelenekte ölçülmüştür ve her örnek ayrıca sınanmalıdır.
 
 Himaye düzeninin hukuki niteliği tartışılmaz.[^k3] Dosya olayların
 sırasını kaydeder; himayenin gönüllü mü yoksa zorlama altında mı kabul
-edildiği sorusu, atlasın Hawai dosyasında kurulan soruyla aynı yapıdadır
+edildiği sorusu, korpusun Hawai dosyasında kurulan soruyla aynı yapıdadır
 ve burada cevaplanmamıştır.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Devleti kuran hanedan için [Şeybânîler](/aktor/seybaniler/), aynı
 dönemin öteki hanlığı için [Hîve Hanlığı](/aktor/hive-hanligi/)
 dosyaları okunmalıdır.[^k1]

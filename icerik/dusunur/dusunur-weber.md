@@ -21,8 +21,9 @@ ilgili:
   - kavram-sekulerlesme
   - kavram-burokrasi
   - kavram-patrimonyalizm
-  - kavram-kapitalizm
   - kaynak-weber-protestan-ahlaki
+baglam:
+  - kavram-kapitalizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

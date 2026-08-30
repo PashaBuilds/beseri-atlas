@@ -77,8 +77,7 @@ Geçiş izni, tek başına büyük bir gelir kalemi değildi.[^k3] Asıl işlevi
 hangi malın nereye gideceğini ve hangi limanın gelişip hangisinin
 söneceğini belirleyebilmekti.
 
-Bu, atlasın [Hint Okyanusu ticareti](/kavram/hint-okyanusu-ticareti/)
-dosyasında tanımlanan düzenle doğrudan çatışır.[^k1] O düzende hiçbir güç
+Bu, [Hint Okyanusu ticareti](/kavram/hint-okyanusu-ticareti/) incelemesinde tanımlanan düzenle doğrudan çatışır.[^k1] O düzende hiçbir güç
 okyanusun tamamında donanma bulundurmaz ve ticaret siyasi değişimlerden
 görece bağımsız sürer.
 
@@ -90,9 +89,8 @@ değil, akışın hangi kanaldan geçeceğini bir devletin kararına bağlamakt�
 Düzenek uygulandığı her yerde aynı sonucu vermedi.[^k1][^k2] Okyanusun
 coğrafyası, birden çok geçit sunduğu için tam kapatma mümkün olmadı.
 
-Atlasın [Açe Sultanlığı](/aktor/ace-sultanligi/) dosyası bunun en açık
-örneğidir.[^k2] Bir boğaz denetim altına alındığında ticaret durmadı, komşu
-bir güzergâha kaydı ve gelir başka bir limana gitti.
+Bir boğaz denetim altına alındığında
+ticaret durmadı, komşu bir güzergâha kaydı ve gelir başka bir limana gitti.[^k2]
 
 Bu, düzeneğin yapısal sınırıdır.[^k3] Denetim, ancak alternatif yolun
 kapatılabildiği ölçüde gelire dönüşür; okyanusta bu koşul çoğu zaman
@@ -108,9 +106,9 @@ Bu değişim, bölgedeki bütün liman devletlerinin hesabını
 değiştirdi.[^k1][^k2] Tarafsızlık sermayesini korumak ile kendini savunabilmek
 arasında bir seçim doğdu ve iki tercihin de bedeli oldu.
 
-Atlas bu ikili sonucu kaydeder ve bir üstünlük sıralaması yapmaz.[^k2]
-Donanma kuran düzen bağımsızlığını korudu ve sürekli bir askerî yük altına
-girdi; kurmayan düzen o yükü ödemedi ve karşılık verecek aracı kalmadı.
+Donanma kuran düzen bağımsızlığını korudu ve
+sürekli bir askerî yük altına girdi; kurmayan düzen o yükü ödemedi ve karşılık verecek
+aracı kalmadı.[^k2]
 
 ## Şirket biçimi
 
@@ -118,13 +116,13 @@ Düzeneğin olgun hâli, ticaret ile askerî gücü tek bir tüzel kişilikte
 birleştiren şirketlerdir.[^k3] Bu şirketler ordu besleme, kale kurma,
 antlaşma yapma ve savaş ilan etme yetkisi taşıdı.
 
-Bu biçim, atlasın kaydettiği en olağandışı kurumsal yapılardan
+Bu biçim, incelenen örnekler arasındaki en olağandışı kurumsal yapılardan
 biridir.[^k1] Bir ticari kuruluşun egemenlik yetkisi kullanması, bugünkü
 devlet-şirket ayrımıyla açıklanamaz.
 
 ::tartismali[Bu şirketlerin devletin bir aracı mı yoksa kendi başına siyasi
 bir aktör mü sayılması gerektiği tartışmalıdır; ikisi de aynı belgelerden
-çıkarılabilir. Atlas bir sonuca bağlanmaz.]{harita=tartisma-somurgeciligin-ekonomik-bilancosu}
+çıkarılabilir. Korpus bir sonuca bağlanmaz.]{harita=tartisma-somurgeciligin-ekonomik-bilancosu}
 
 ## Maliyenin kendini yiyen tarafı
 
@@ -136,13 +134,12 @@ Bu durumda düzenek kendini besleyemez ve ya devlet desteğiyle ya da yeni
 bölgelerin ele geçirilmesiyle sürdürülür.[^k1] İkinci yol, düzeneği
 genişlemeye mecbur kılar.
 
-Atlas bu mekanizmayı kaydeder ve bir zorunluluk olarak sunmaz.[^k2]
-Genişlemenin maliyeti karşılamak için mi yoksa başka gerekçelerle mi
-sürdürüldüğü, her örnekte ayrı ayrı incelenmelidir.
+Genişlemenin maliyeti karşılamak için mi
+yoksa başka gerekçelerle mi sürdürüldüğü, her örnekte ayrı ayrı incelenmelidir.[^k2]
 
 ## Merkantilizmle ilişkisi
 
-Düzenek, atlasın [Merkantilizm](/kavram/merkantilizm/) dosyasında tanımlanan
+Düzenek, [Merkantilizm](/kavram/merkantilizm/) incelemesinde tanımlanan
 iktisat anlayışıyla akrabadır ama onunla özdeş değildir.[^k3] Merkantilizm
 bir devletin dış ticaret dengesine dair bir öğretidir; silahlı ticaret bir
 uygulama düzeneğidir.
@@ -151,25 +148,24 @@ Ayrımın pratik sonucu şudur: merkantilist olmayan bir devlet de silahlı
 ticaret yapabilir, merkantilist bir devlet de yapmayabilir.[^k1] İki kavramı
 birleştirmek, ikisinin de açıklama gücünü azaltır.
 
-Atlas bu yüzden ikisini ayrı dosyalarda tutar.[^k2] Öğreti ile pratik
-arasındaki fark, ancak ayrı ayrı kaydedildiğinde ölçülebilir.
+Öğreti ile pratik arasındaki fark,
+ancak ayrı ayrı kaydedildiğinde ölçülebilir.[^k2]
 
 ## Kavramın sınırı ve kapsamı
 
-Bu dosya bir düzeneği tanımlar; onu uygulayan devletlerin tarihini
-anlatmaz.[^k1] Her biri ayrı dosya gerektirir ve bazıları atlasta zaten
+Bu inceleme bir düzeneği tanımlar; onu uygulayan devletlerin tarihini
+anlatmaz.[^k1] Her biri ayrı dosya gerektirir ve bazıları korpusta zaten
 bulunmaktadır.
 
 Düzeneğin Atlantik'teki ve Akdeniz'deki biçimleri de burada
-işlenmez.[^k3] Bu dosya, kavramın en açık ölçüldüğü okyanus üzerinden
+işlenmez.[^k3] Bu inceleme, kavramın en açık ölçüldüğü okyanus üzerinden
 kurulmuştur ve başka denizlerdeki karşılıkları ayrı inceleme gerektirir.
 
 Kavramın bugünkü karşılıkları ise kapsam dışıdır.[^k2] Böyle bir uzatma,
-atlasın anakronizm ilkesine aykırıdır ve ayrı bir gerekçelendirme
+korpusun anakronizm ilkesine aykırıdır ve ayrı bir gerekçelendirme
 gerektirir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Düzeneğin çatıştığı ticaret ağı için
 [Hint Okyanusu ticareti](/kavram/hint-okyanusu-ticareti/), ilk sistemli
 uygulandığı liman için [Malaka Sultanlığı](/aktor/malaka-sultanligi/)

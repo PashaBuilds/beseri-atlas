@@ -46,7 +46,7 @@ onarim_turu: 0
 ---
 
 Yeni Asur İmparatorluğu MÖ 670'te yaklaşık 1.400.000 kilometrekare alan
-kaplıyordu.[^k1] Bu dosya fetih listesini değil, o alanın **nasıl yönetildiğini**
+kaplıyordu.[^k1] Bu inceleme fetih listesini değil, o alanın **nasıl yönetildiğini**
 ele alır.
 
 ## Yükseliş
@@ -111,7 +111,6 @@ alan[^k1] farklı serilerden gelir; aralarında oran kurmak için Asur'un kendi
 nüfusuna dair bir ölçüm gerekir ve kullanılan kaynaklarda böyle bir ölçüm yoktur.
 Bu nedenle alan ile nüfus payı arasında burada bir bağ kurulmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Asur sanatı, dini ve saray kütüphaneleri burada ayrı başlıklar altında ele
 alınmamıştır. Dönemin bütünü [MÖ 1200–500](/donem/03/) dosyasında ele alınıyor.

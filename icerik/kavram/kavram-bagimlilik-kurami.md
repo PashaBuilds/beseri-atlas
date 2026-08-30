@@ -55,7 +55,7 @@ ve Andre Gunder Frank tarafından geliştirildiğini kaydeder.[^k1]
 Kaynak, Latin Amerika yapısalcı okulu ile Amerikan Marksist okulunun önemli
 farkları bulunduğunu yazar.[^k1]
 
-::tartismali[Kaynak, tek bir "bağımlılık kuramı" adı altında iki ayrı okul ve aralarında önemli farklar kaydediyor. Atlas tek bir tanım vermez ve iki okulu birleştirmez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Kaynak, tek bir "bağımlılık kuramı" adı altında iki ayrı okul ve aralarında önemli farklar kaydediyor. Korpus tek bir tanım vermez ve iki okulu birleştirmez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu tür çoklu kaynak durumlarının nasıl taşınacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -69,7 +69,7 @@ yaygın yoksulluk nedeniyle giderek gözden düştüğünü yazar; o dönemde li
 kalkınma kuramlarının varsayımlarının saldırı altında olduğunu kaydeder.[^k1]
 
 Bir kuramın popülerliğinin bir başka kuramın gözden düşmesiyle birlikte
-kaydedilmesi,[^k1] atlasın kavram dosyalarında neden rakip seçenekleri de
+kaydedilmesi,[^k1] korpusun kavram dosyalarında neden rakip seçenekleri de
 tuttuğunun dayanağıdır.
 
 ## Uygulama örnekleri ad ad verilmiştir
@@ -79,10 +79,8 @@ emperyalistlerce bilinçli olarak sömürülmüş ve bunun kıtanın çoğunun b
 geri kalmışlığına doğrudan yol açtığı bir Afrika betimlediğini yazar; kuramın
 ayrıca aşırı kentleşmenin nedenlerini açıklamak için kullanıldığını kaydeder.[^k1]
 
-Atlas bu betimlemeyi bir olgu olarak değil, kaynağın aktardığı bir konum olarak
-taşır.[^k1] İlgili on yıllardaki bağımsızlık dalgası
-[Afrika bağımsızlık dalgası](/olay/afrika-bagimsizlik-dalgasi/) dosyasında ele
-alınıyor.
+İlgili on yıllardaki bağımsızlık dalgası [Afrika
+bağımsızlık dalgası](/olay/afrika-bagimsizlik-dalgasi/) dosyasında ele alınıyor.[^k1]
 
 ## Okullardan birinin adını aldığı düşünür
 
@@ -97,8 +95,7 @@ Yakın bir kavram için tutulan kayıt, merkez, çevre ve yarı çevre terimleri
 ayrı tanımlar.[^k2] O kavram
 [Dünya sistemi](/kavram/dunya-sistemi/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kuramın temel önermeleri, eleştiriler ve yardım bağımlılığı tartışması burada
 ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

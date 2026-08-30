@@ -56,8 +56,8 @@ Veri kümesinde dünya toplamı için ilk gözlem 2005 yılına aittir.[^k1] Oys
 kendisi için tutulan kayıt, ARPANET sözleşmelerinin 1969'da verildiğini yazar ve
 1989-2004 arasını küresel internetin yükselişi olarak adlandırır.[^k2]
 
-Ölçümün, ölçtüğü olgudan otuz altı yıl sonra başlaması,[^k1][^k2] atlasın şu
-kuralının dayanağıdır: bu dosyadan ağın ilk otuz yılına dair bir kullanım oranı
+Ölçümün, ölçtüğü olgudan otuz altı yıl sonra başlaması,[^k1][^k2] korpusun şu
+kuralının dayanağıdır: bu incelemeden ağın ilk otuz yılına dair bir kullanım oranı
 okunamaz. Ağın tarihi
 [İnternetin yaygınlaşması](/olay/internetin-yayginlasmasi/) dosyasında ele
 alınıyor.
@@ -68,7 +68,7 @@ Ağın tarihi için tutulan kayıt, 1980'lerdeki küresel yayılmayı işlerken 
 sayısal uçurumun ortaya çıkışını ayrı bir alt başlık olarak tutar.[^k2]
 
 Bir yayılma anlatısının yanında eşitsizliğin ayrı bir başlık taşıması,[^k2]
-atlasın bu seriden okunan dünya ortalamasını neden tek başına yeterli
+korpusun bu seriden okunan dünya ortalamasını neden tek başına yeterli
 saymadığının dayanağıdır; kavram
 [Küreselleşme](/kavram/kuresellesme/) dosyasında ele alınıyor.
 
@@ -76,11 +76,10 @@ saymadığının dayanağıdır; kavram
 
 Uzun dönemli nüfus serisinde dünya nüfusu 2020 için yaklaşık 7,89 milyardır.[^k3]
 
-Atlas iki seriyi çarparak kullanıcı sayısı üretmez; iki kümenin gözlem yılları
+Korpus iki seriyi çarparak kullanıcı sayısı üretmez; iki kümenin gözlem yılları
 aynı değildir ve böyle bir hesap kullanılan kaynak bölümlerinde
 verilmemiştir.[^k1][^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ülke ülke oranlar, bağlantı kalitesi ve kullanım tanımı burada ayrı başlıklar
-altında ele alınmamıştır; bu dosya yalnızca dünya toplamı serisini kaydeder.[^k1]
+altında ele alınmamıştır; bu inceleme yalnızca dünya toplamı serisini kaydeder.[^k1]

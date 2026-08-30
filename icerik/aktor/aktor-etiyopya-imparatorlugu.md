@@ -48,17 +48,17 @@ onarim_turu: 0
 Bu imparatorluğun kurumsal dönüşümü tek bir cümlede kaydedilir: hükümdar,
 bölgesel savaş ağalarının yerine idari memurlar koyarak imparatorluk otoritesini
 merkezîleştirdi ve komşu İslam topraklarındaki hegemonyasını belirgin biçimde
-genişletti.[^k1] Bu dosya, o **merkezîleşme hamlesini** ele alır.
+genişletti.[^k1] Bu inceleme, o **merkezîleşme hamlesini** ele alır.
 
 ## Savaş ağasından memura
 
-Bu değişimin mekanizması, atlasın başka dosyalarında da görülen bir örüntüdür:
+Bu değişimin mekanizması, korpusun başka dosyalarında da görülen bir örüntüdür:
 yerel askerî güç sahiplerinin yerine merkezden atanan görevlilerin
 konması.[^k1] Aynı hamle, aynı kaynakta komşu topraklardaki genişlemeyle birlikte
 anılır.[^k1]
 
 Merkezîleşme ile genişlemenin aynı cümlede durması, ikisinin birbirini
-beslediğini düşündürür; atlas bu bağı bir iddia olarak öne sürmez.
+beslediğini düşündürür; korpus bu bağı bir iddia olarak öne sürmez.
 
 ## Komşuyla mücadele
 
@@ -75,7 +75,7 @@ Kaynak, bir başka gücün de burada durdurulduğunu kaydeder: Osmanlılar, İmp
 Sarsa Dengel'in 1589'daki zaferi ve Arkiko'yu yağmalamasıyla dizginlendi ve dar
 bir kıyı şeridinde tutuldu.[^k1]
 
-Bu, atlas için önemli bir kayıttır: aynı yüzyıllarda üç kıtaya yayılan Osmanlı
+Bu, korpus için önemli bir kayıttır: aynı yüzyıllarda üç kıtaya yayılan Osmanlı
 düzeninin[^k2] genişlemesinin durduğu noktalardan biri burada tarihlenmiştir.
 Karşılaşılan düzen [Osmanlı İmparatorluğu](/aktor/osmanli-imparatorlugu/)
 dosyasında ele alınıyor.
@@ -92,8 +92,7 @@ Uzun dönemli seride dünya nüfusu 1500'de yaklaşık 503,1 milyon, 1848'de yak
 1,27 milyardır.[^k3] İmparatorluğun kendi nüfusuna dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Hanedanın kuruluşu, kilise ile devlet ilişkisi, 19. yüzyıl modernleşmesi ve
 imparatorluğun sona erişi burada ayrı başlıklar altında ele alınmamıştır; kaynak
 bunları ayrı bölümler olarak işler.[^k1] Dönemin bütünü

@@ -16,11 +16,12 @@ ilgili:
   - donem-08
   - olay-cheng-ho-seferleri
   - aktor-qing-hanedani
-  - aktor-safevi-devleti
   - aktor-goryeo-choson
   - kavram-haracguzarlik
   - dusunur-wang-yangming
   - aktor-ryukyu-kralligi
+baglam:
+  - aktor-safevi-devleti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -49,7 +50,7 @@ onarim_turu: 0
 
 Ming hanedanı, resmî adıyla Büyük Ming, Moğol önderliğindeki Yuan hanedanının
 çöküşünün ardından 1368'den 1644'e kadar Çin'i yöneten bir imparatorluk
-hanedanıydı.[^k1] Bu dosya, hanedanın **iç yapısındaki iki gerilimi** ele alır.
+hanedanıydı.[^k1] Bu inceleme, hanedanın **iç yapısındaki iki gerilimi** ele alır.
 
 ## İki başkent aynı anda
 
@@ -72,7 +73,7 @@ Budizm, Çin halk dini, İslam ve Roma Katolikliği aynı listede yer alır.[^k1
 
 Kaynağın hanedanı bir etnik gruba bağlarken tebaanın dillerini ve dinlerini uzun
 listeler hâlinde vermesi,[^k1] nitelemenin yönetici katmanı anlattığını
-gösterir; yönetilenleri değil. Atlas bu ayrımı korur.
+gösterir; yönetilenleri değil. Korpus bu ayrımı korur.
 
 ## Yönetim biçimi ve çözülmesi
 
@@ -102,8 +103,7 @@ Uzun dönemli seride dünya nüfusu 1500'de yaklaşık 503,1 milyon, 1600'de yak
 516,1 milyondur.[^k3] Ming nüfusuna dair bir ölçüm kullanılan kaynaklarda
 bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Hanedanın kuruluş savaşları, Tibet ile ilişkileri, Tumu krizi ve kuzey sınır
 seferleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
 bölümler olarak işler.[^k1] Dönemin bütünü [1350–1500](/donem/08/) dosyasında ele

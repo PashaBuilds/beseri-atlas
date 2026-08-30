@@ -14,12 +14,13 @@ ilgili:
   - dusunur-han-feizi
   - dusunur-konfucyus
   - kavram-burokrasi
-  - kavram-anakronizm
   - kavram-mesruiyet
   - tartisma-feodalite-kavrami
   - kavram-taoizm
   - kavram-konfucyuscluk
   - dusunur-mengzi
+baglam:
+  - kavram-anakronizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -76,13 +77,13 @@ sınırdır. Bu çizgide ise kural, yöneticinin elindeki bir yönetim aracıdı
 onu bağlaması amaçlanmaz.[^k1][^k2] İki anlayış aynı kelimeyle anıldığında,
 biri ötekinin yerine okunur.
 
-Atlasın [Anakronizm](/kavram/anakronizm/) dosyası bu tür kaymaları genel
+Korpusun [Anakronizm](/kavram/anakronizm/) dosyası bu tür kaymaları genel
 biçimiyle ele alır. Burada somut hâli, bir kavramın kendi adı üzerinden
 başka bir geleneğe taşınmasıdır.[^k1]
 
 **Tartışmalı.** Bu çizginin tek bir "okul" oluşturup oluşturmadığı
 tartışılır. Adlandırma sonraki dönemlerin bir sınıflandırmasıdır; metinlerin
-yazarları kendilerini böyle bir grubun üyesi saymamış olabilir. Atlas adı
+yazarları kendilerini böyle bir grubun üyesi saymamış olabilir. Korpus adı
 kullanmayı sürdürür ama itirazı yanına yazar.[^k1]
 
 ## Karşı çıktığı şey
@@ -103,20 +104,19 @@ hatanın nereden geldiği bulunamaz. Metinler bu itirazı ele almaz.
 ## Bürokrasi ile ilişkisi
 
 Bu çizginin önerdiği yapı — yazılı kurallar, kayıt tutma, görevli denetimi —
-atlasın [Bürokrasi](/kavram/burokrasi/) dosyasında tanımlanan yapıyla aynı
+[Bürokrasi](/kavram/burokrasi/) incelemesinde tanımlanan yapıyla aynı
 aileden gelir.[^k1][^k2]
 
 Ama iki kavram özdeş değildir. Bürokrasi bir örgütlenme biçimini tanımlar;
 bu çizgi ise o biçimin neden tercih edilmesi gerektiğine dair bir savunma
 sunar.[^k1] Biri betimleyici, öteki normatiftir.
 
-Ayrımın korunması, atlasın kavram dosyalarının birbirinin yerine geçmemesi
+Ayrımın korunması, korpusun kavram dosyalarının birbirinin yerine geçmemesi
 içindir. İki kavram aynı olguyu farklı sorularla ele alır ve biri ötekini
 kapsamaz.
 
-## Atlastaki yeri ve sınırı
-
-Bu dosya, atlasın Doğu Asya kavram kapsamındaki ilk dosyadır ve bir eksiği
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun Doğu Asya kavram kapsamındaki ilk dosyadır ve bir eksiği
 kapatmak için yazılmıştır.[^k1] Bölgenin aktör katmanında on ikiden fazla
 dosya bulunurken kavram katmanı boştu.
 
@@ -131,7 +131,7 @@ metin üzerinden kurar; burada yalnızca işaret edilir.[^k1]
 
 ## Aynı sorunun başka bir örneği
 
-Bir kavramın adının kendi bağlamı dışından gelmesi, atlasta ilk kez burada
+Bir kavramın adının kendi bağlamı dışından gelmesi, korpusta ilk kez burada
 karşılaşılan bir durum değildir. [Feodalite kavramı](/tartisma/feodalite-kavrami/)
 dosyası aynı soruyu başka bir malzeme üzerinden tartışır: ödünç alınmış bir
 analitik terim, adlandırdığı düzeni çarpıtır mı?[^k1]
@@ -141,16 +141,15 @@ kurumlar bütününü tarif eder; başka bir bağlama taşındığında o bütü
 çağrışımlarını da taşır ve okur, orada bulunmayan özellikleri varsayar.[^k1]
 
 Terimi bırakmak da bir çözüm değildir. Ad olmadan karşılaştırma yapılamaz ve
-karşılaştırma yapılmadan bir düzenin neye benzediği anlatılamaz.[^k1] Atlas
+karşılaştırma yapılmadan bir düzenin neye benzediği anlatılamaz.[^k1] Korpus
 bu yüzden terimi kullanmayı sürdürür ve itirazı yanına yazar; sessizce
 düzeltmek, sorunu çözmek değil gizlemek olurdu.
 
-Bu tutum atlasın genel kuralıdır. Yerleşmiş bir adı kullanmak onu onaylamak
+Bu tutum korpusun genel kuralıdır. Yerleşmiş bir adı kullanmak onu onaylamak
 değildir; ada bağlı itirazın künyeyle birlikte taşınması, adın seçilmiş bir
 şey olduğunu görünür kılar.[^k1][^k2]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Çizginin en gelişmiş metni ve karşılaştırmalı okuması için
 [Han Feizi](/dusunur/han-feizi/), karşı çıktığı gelenek için
 [Konfüçyüs](/dusunur/konfucyus/) dosyaları okunmalıdır.

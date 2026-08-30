@@ -47,8 +47,8 @@ yaşam beklentisi.[^k1]
 
 ## Sütun adı ölçünün başlangıç yaşını verir
 
-Bir ölçünün adında başlangıç yaşının bulunması,[^k1] atlasın şu kuralının
-dayanağıdır: bu dosyada yaşam beklentisi, hangi yaşta hesaplandığı belirtilmeden
+Bir ölçünün adında başlangıç yaşının bulunması,[^k1] korpusun şu kuralının
+dayanağıdır: bu incelemede yaşam beklentisi, hangi yaşta hesaplandığı belirtilmeden
 aktarılmaz. Doğumdaki beklenti ile belirli bir yaşa ulaşmış kişilerin beklentisi
 aynı sayı değildir.
 
@@ -57,7 +57,7 @@ aynı sayı değildir.
 Aynı veri kümesinde Afganistan için doğumdaki yaşam beklentisi 1950'de yaklaşık
 28,16, 1960'ta yaklaşık 32,80, 1970'te yaklaşık 37,46'dır.[^k1]
 
-Atlas burada tek bir ülkenin satırlarını örnek olarak verir; bu, iddianın kaynağa
+Korpus burada tek bir ülkenin satırlarını örnek olarak verir; bu, iddianın kaynağa
 gidip doğrulanabilir olmasını sağlar.
 
 ## Yirmi yılda dokuz yıllık artış
@@ -65,7 +65,7 @@ gidip doğrulanabilir olmasını sağlar.
 Aynı ülke için 1950 ile 1970 arasındaki üç kayıt arasındaki fark, verinin
 kendisinde okunabilir.[^k1]
 
-Atlas bu farkı bir nedenle açıklamaz; kullanılan veri kümesi yalnızca ölçüm
+Korpus bu farkı bir nedenle açıklamaz; kullanılan veri kümesi yalnızca ölçüm
 sağlar, açıklama sağlamaz.
 
 ## Aynı sağlayıcının başka bir serisi
@@ -73,7 +73,7 @@ sağlar, açıklama sağlamaz.
 Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1950 için yaklaşık
 2,49 milyar, 2020 için yaklaşık 7,89 milyardır.[^k2]
 
-İki serinin farklı birimlerde olması (biri yıl, diğeri kişi),[^k1][^k2] atlasın
+İki serinin farklı birimlerde olması (biri yıl, diğeri kişi),[^k1][^k2] korpusun
 veri dosyalarında neden birim alanını ayrı tuttuğunun dayanağıdır.
 
 ## Nüfus ve geçim ilişkisi üzerine erken kayıt
@@ -82,8 +82,7 @@ Nüfus ve geçim ilişkisi üzerine erken bir kayıt, emekçi nüfusu gıda üre
 hızlı büyüdüğünde gerçek ücretlerin düştüğünü öne süren bir modeli anlatır.[^k3]
 O model [Thomas Malthus](/dusunur/malthus/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ölçünün hesaplanma yöntemi, ülke ülke seyri ve alt gruplar arası farklar burada
 ayrı başlıklar altında ele alınmamıştır; kullanılan kaynak veri kümesidir, bir
 anlatı değildir.[^k1]

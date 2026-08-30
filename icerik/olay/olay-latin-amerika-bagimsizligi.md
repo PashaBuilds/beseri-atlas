@@ -19,6 +19,7 @@ ilgili:
   - aktor-ispanyol-imparatorlugu
   - olay-napolyon-savaslari
   - olay-tupac-amaru-ayaklanmasi-1780
+baglam:
   - olay-haiti-devrimi
   - olay-atlantik-kole-ticareti
   - kavram-vatandaslik

@@ -20,10 +20,11 @@ ilgili:
   - olay-kore-savasi
   - olay-cezayir-savasi
   - olay-1968-hareketleri
-  - kavram-somurgesizlesme
   - aktor-cin-halk-cumhuriyeti
-  - tartisma-tarihsel-sayilar-nasil-okunur
   - tartisma-karsi-olgusal-tarih
+baglam:
+  - kavram-somurgesizlesme
+  - tartisma-tarihsel-sayilar-nasil-okunur
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -312,7 +313,7 @@ kendi anlatısının nerede bittiğini baştan yazması seyrek görülür.
 
 Kısıt yalnızca ekibin niyetinde değil, elindeki kâğıtlardaydı: Gelb 1945-1961
 belgelerinin çoğunun kaybolduğunu ya da hiç tutulmadığını, 1961 sonrasının ise
-bol kayıt bıraktığını yazar.[^k1] Bu dosyanın kaynak tabanı da ağırlıkla aynı
+bol kayıt bıraktığını yazar.[^k1] Bu incelemenin kaynak tabanı da ağırlıkla aynı
 taraftan gelir; Hanoi'nin karar kâğıtları buradaki künyelerle ölçülmemiştir. Bu,
 anlatıyı geçersiz kılmaz ama hangi taraftan bakıldığını hatırlatır.
 

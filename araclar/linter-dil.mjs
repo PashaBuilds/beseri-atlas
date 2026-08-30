@@ -50,6 +50,19 @@ export const KALIPLAR = {
     ad: 'sablon kapanis basligi',
     say: (govde) => (govde.match(/^#{2,3}\s+(Bu dosyanın sınırı|Bu dosyanın kapsamadıkları|Okuma yönlendirmesi)\s*$/gim) || []).length,
   },
+  korpus_oz: {
+    ad: '"korpus" oz-gonderimi',
+    say: (govde) => (govde.match(/\bkorpus(?:un|u|a|ta|taki)?\b/giu) || []).length,
+  },
+  inceleme_tekrari: {
+    ad: 'yinelenen "bu inceleme" oz-gonderimi',
+    // Konuyu ve kaynak sinirini birer kez adlandirmak dogaldir. Ucuncu ve
+    // sonraki gecisler ise eski seri uretim iskeletinin belirgin izidir.
+    say(govde) {
+      const n = (govde.match(/\bbu inceleme(?:nin|de|den|ye|yi|yle|ler|si|sinde)?\b/giu) || []).length;
+      return Math.max(0, n - 2);
+    },
+  },
 };
 
 export function kalipSay(govde) {

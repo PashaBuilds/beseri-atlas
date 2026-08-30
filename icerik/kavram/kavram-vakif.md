@@ -12,6 +12,8 @@ eksen: [ekonomik, siyasi, dini]
 guven_geneli: yaygin
 etiketler: [vakif, vakfiye, mutevelli, imaret, kulliye, evladiyelik, mulkiyet]
 ilgili:
+  - tartisma-imparatorluk-siniri-nasil-cizilir
+baglam:
   - kavram-timar
   - kavram-vergi
   - kavram-veraset
@@ -23,7 +25,6 @@ ilgili:
   - aktor-osmanli-imparatorlugu
   - aktor-memluk-devleti
   - tartisma-osmanli-gerileme-tezi
-  - tartisma-imparatorluk-siniri-nasil-cizilir
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

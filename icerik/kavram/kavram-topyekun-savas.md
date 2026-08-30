@@ -64,8 +64,8 @@ Kaynak, İkinci Dünya Savaşı alt başlığının altında Japonya İmparatorl
 Birleşik Krallık, Nazi Almanyası, Kanada, Sovyetler Birliği ve Birleşik Devletler
 için ayrı alt başlıklar tutar.[^k1]
 
-Aynı savaş içinde altı devletin ayrı ayrı işlenmesi,[^k1] atlasın şu kuralının
-dayanağıdır: bu dosyada topyekûn savaş, bir savaşın tamamı için değil belirli bir
+Aynı savaş içinde altı devletin ayrı ayrı işlenmesi,[^k1] korpusun şu kuralının
+dayanağıdır: bu incelemede topyekûn savaş, bir savaşın tamamı için değil belirli bir
 devletin belirli bir savaştaki düzeni için kullanılır.
 
 ## Ölçütler ad ad sayılır
@@ -80,7 +80,7 @@ değil bir toplumsal seferberlik demeti olduğunu gösterir. İlgili savaşlar
 
 ## Kavramın öncesi de kayıtlıdır
 
-Tarih bölümünün Orta Çağ ile başlaması,[^k1] atlasın şu kuralının dayanağıdır:
+Tarih bölümünün Orta Çağ ile başlaması,[^k1] korpusun şu kuralının dayanağıdır:
 bu kavram bir dönem sınırı olarak kullanılmaz.
 
 ## Savaş kuramı yazarları
@@ -91,8 +91,7 @@ yönlerini vurguladığını yazar.[^k2] O yazar
 önceki yazar ise [Machiavelli](/dusunur/machiavelli/) dosyasında ele
 alınıyor.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kavramın özellikleri, ülke ülke uygulamalar ve koşulsuz teslim tartışması burada
 ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

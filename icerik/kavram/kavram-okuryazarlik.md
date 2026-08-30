@@ -49,18 +49,17 @@ denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-## Neden atlasın konusu
+## Neden korpusun konusu
 
-Okuryazarlık, atlas için bir eğitim konusu değildir.[^k1] Bir kaynak
+Okuryazarlık, korpus için bir eğitim konusu değildir.[^k1] Bir kaynak
 konusudur.
 
 Bir dönemde kimlerin yazabildiği, o dönemden hangi kayıtların
 kalacağını doğrudan belirler.[^k3] Yazamayanların bıraktığı yazılı iz
 yoktur.
 
-Atlas bu bağı kavramın merkezine koyar.[^k2] **Bir dönemin kaynak
-havuzu, o dönemin okuryazar nüfusunun bileşimini yansıtır; nüfusun
-bileşimini değil.**
+**Bir dönemin kaynak havuzu, o dönemin
+okuryazar nüfusunun bileşimini yansıtır; nüfusun bileşimini değil.**[^k2]
 
 ## Tek bir eşik değildir
 
@@ -70,8 +69,8 @@ belgeyi okuyabilmek ve bir metin kaleme alabilmek ayrı düzeylerdir.
 Tarihsel ölçümlerin çoğu en alt düzeyi ölçer.[^k2] İmza atabilme,
 uzun süre başlıca gösterge olarak kullanıldı.
 
-Atlas bu ölçütü sınırıyla birlikte kullanır.[^k3] İmza atabilmek,
-sözleşme okuyabilmeyi göstermez.
+İmza atabilmek, sözleşme
+okuyabilmeyi göstermez.[^k3]
 
 ## Hangi dilde
 
@@ -81,8 +80,8 @@ sözleşme okuyabilmeyi göstermez.
 Bu durum yaygındı.[^k1] Yazı dili ile gündelik dil birçok bölgede
 yüzyıllarca ayrıydı.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k2] Bir bölgenin okuryazarlık oranı,
-o bölgenin kendi dilinde yazılı üretim yaptığını göstermez.
+Bir bölgenin okuryazarlık oranı, o bölgenin kendi
+dilinde yazılı üretim yaptığını göstermez.[^k2]
 
 ## Kurumların rolü
 
@@ -92,8 +91,8 @@ Yazı öğretimi kurum gerektirir.[^k3] Okul, öğretmen, malzeme ve
 Son koşul en çok gözden kaçanıdır.[^k1] Çocuk emeğinin gerekli olduğu
 bir hanede okula gidilecek zaman yoktur.
 
-Atlas bu bağı ayrıca kaydeder.[^k2] Okuryazarlık oranındaki değişim,
-öğretim isteğinden çok hane gelirindeki değişimi izleyebilir.
+Okuryazarlık oranındaki değişim, öğretim
+isteğinden çok hane gelirindeki değişimi izleyebilir.[^k2]
 
 ## Meslek olarak yazıcılık
 
@@ -103,8 +102,8 @@ Yazıcı, başkası adına yazar ve okur.
 Bu, aradaki kişiyi kayda sokar.[^k1] Bir dilekçenin dili yazıcının,
 talebi başvuranındır.
 
-Atlas bu katmanı ayrıca kaydeder.[^k2] Yazıcı aracılığıyla üretilmiş
-bir belge, başvuranın kendi ifadesi sayılamaz.
+Yazıcı aracılığıyla üretilmiş bir belge,
+başvuranın kendi ifadesi sayılamaz.[^k2]
 
 ## Kalıp metinler
 
@@ -114,8 +113,8 @@ aynı ifadelerle yazılır.
 Bu, belgeleri birbirine benzetir.[^k1] Benzerlik, olayların
 benzerliğinden değil kalemin aynılığından gelebilir.
 
-Atlas bu tuzağı ayrıca kaydeder.[^k2] Aynı ifadeyi taşıyan iki belge,
-aynı durumu anlatmak zorunda değildir.
+Aynı ifadeyi taşıyan iki belge, aynı durumu
+anlatmak zorunda değildir.[^k2]
 
 ## Ölçülebilirlik sorunu
 
@@ -125,8 +124,8 @@ Kapsamlı veri yirminci yüzyıla aittir.
 Öncesi için dolaylı göstergeler kullanılır.[^k1] Belgelerdeki imza
 oranı, kitap baskı sayıları ve okul kayıtları bunlar arasındadır.
 
-Atlas bu göstergeleri ayrı ayrı adlandırır.[^k3] Dolaylı bir gösterge,
-ölçtüğü şeyle karıştırılmamalıdır.
+Dolaylı bir gösterge, ölçtüğü şeyle
+karıştırılmamalıdır.[^k3]
 
 ## Yazının maliyeti
 
@@ -136,8 +135,8 @@ mürekkep ve saklama koşulu maliyetlidir.
 Maliyet, neyin yazılacağını seçer.[^k1] Pahalı malzemeye ancak
 korunmaya değer sayılan bilgi yazılır.
 
-Atlas bu seçimi ayrıca kaydeder.[^k2] Kayıtta bulunanların önemi, kayda
-girme maliyetini karşılayabilmiş olmalarıyla da açıklanır.
+Kayıtta bulunanların önemi, kayda girme
+maliyetini karşılayabilmiş olmalarıyla da açıklanır.[^k2]
 
 ## Basımın etkisi
 
@@ -147,8 +146,8 @@ Baskı teknolojisi maliyeti düşürür.[^k1] Düşen maliyet, hangi metinlerin
 Etki tek yönlü değildir.[^k3] Baskı, okuryazarlığı artırdığı gibi,
 artan okuryazarlık da baskıyı besler.
 
-Atlas iki yönü de kaydeder.[^k2] Nedenselliğin yönü, tek bir bölgeye
-bakılarak belirlenemez.
+Nedenselliğin yönü, tek bir bölgeye
+bakılarak belirlenemez.[^k2]
 
 ## Kimin okuduğu
 
@@ -158,8 +157,8 @@ meslek grupları ve cinsiyet arasında belirgin farklar bulunur.
 Bu dağılım, kaynakların kimin bakışını taşıdığını belirler.[^k3] Dar bir
 grubun yazdığı bir dönem, o grubun gördüğü kadarıyla bilinir.
 
-Atlas bu sınırı her dosyada göz önünde tutar.[^k2] Kaynağın sessiz
-kaldığı yerler, olayın olmadığı yerler değildir.
+Kaynağın sessiz kaldığı yerler,
+olayın olmadığı yerler değildir.[^k2]
 
 ## Okumak ile yazmak ayrılabilir
 
@@ -169,8 +168,8 @@ düzenlerinde okuma yaygın, yazma dar bir gruba açıktı.
 Ayrım işlevseldir.[^k1] Okuyabilen biri kuralı öğrenir; yazabilen biri
 kural üretebilir.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k2] Yalnızca okuma öğreten bir düzen,
-metne erişimi açarken metin üretimini kapalı tutar.
+Yalnızca okuma öğreten bir düzen, metne erişimi
+açarken metin üretimini kapalı tutar.[^k2]
 
 ## Ezber ve yazı bir arada
 
@@ -181,8 +180,8 @@ Yazılı bir metin, ezberi bilen biri tarafından okunduğunda hatalar
 düzeltilebiliyordu.[^k1] Yazı tek başına doğruluk güvencesi
 değildir.
 
-Atlas bu birlikteliği ayrıca kaydeder.[^k2] Yazılı bir kaydın varlığı,
-sözlü aktarımın sona erdiğini göstermez.
+Yazılı bir kaydın varlığı, sözlü aktarımın sona
+erdiğini göstermez.[^k2]
 
 ## Okuryazarlığın siyasi yanı
 
@@ -191,13 +190,12 @@ olmadan okunabilen bir kural, aracı gerektiren bir kuraldan farklı
 işler.
 
 Bu yüzden okuryazarlık, hak talepleriyle doğrudan bağlantılıdır.[^k3]
-Atlasın başka dosyalarında bu bağ açıkça kurulmuştur.
+Korpusun başka dosyalarında bu bağ açıkça kurulmuştur.
 
-Atlas bu işlevi ayrıca kaydeder.[^k2] Okuryazarlık teknik değil siyasi
-bir eşiktir; kimin kendi adına konuşabileceğini belirler.
+Okuryazarlık teknik değil siyasi bir
+eşiktir; kimin kendi adına konuşabileceğini belirler.[^k2]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Yazının kendisi için [Yazı sistemi](/kavram/yazi-sistemi/) ve
 [Yazının icadı](/olay/yazinin-icadi/) dosyaları okunmalıdır.[^k1]
 

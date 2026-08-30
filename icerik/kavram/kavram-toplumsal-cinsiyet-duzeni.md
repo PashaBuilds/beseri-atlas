@@ -53,16 +53,15 @@ onarim_turu: 0
 
 ## Neden bir ölçüt
 
-Atlas bu kavramı bir kimlik konusu olarak değil, bir kayıt konusu
-olarak ele alır.[^k2] Sorduğu soru dardır ve sınanabilir.
+Sorduğu soru dardır ve
+sınanabilir.[^k2]
 
 Soru şudur: bir düzende kim mülk edinebilir, kim mahkemede tanıklık
 edebilir, kim kendi adına belge imzalayabilir.[^k1] Üçü de doğrudan
 kayıt üretir.
 
-Atlas bu bağı kavramın merkezine koyar.[^k3] **Bir düzende kimin
-belge imzalayabildiği, o düzenden kimin sesinin kalacağını
-belirler.**
+**Bir düzende kimin belge
+imzalayabildiği, o düzenden kimin sesinin kalacağını belirler.**[^k3]
 
 ## Üç ölçüt
 
@@ -83,8 +82,8 @@ hakkı tanınırken tanıklık sınırlı olabilir.
 Bunun tersi de görülür.[^k3] Tek bir "konum" yerine, alan alan
 değişen bir haklar dizisi vardır.
 
-Atlas bu yüzden tek bir sıfat kullanmaz.[^k2] Bir düzeni tek kelimeyle
-nitelemek, üç ölçütün farklı sonuç verdiği durumları gizler.
+Bir düzeni tek kelimeyle nitelemek, üç
+ölçütün farklı sonuç verdiği durumları gizler.[^k2]
 
 ## Evlilikte mülkiyet aktarımı
 
@@ -94,8 +93,8 @@ yönde yapıldığı ve kimin mülkü sayıldığı belirleyicidir.
 Bazı düzenlerde aktarım gelinin kendi mülkü olur.[^k1] Bazılarında
 ailesine geçer; bazılarında ters yönde işler.
 
-Atlas bu farkı ölçülebilir sayar.[^k2] Aktarımın kimin mülkü olduğu,
-kadının boşanma ve dulluk durumundaki konumunu doğrudan belirler.
+Aktarımın kimin mülkü olduğu, kadının boşanma ve
+dulluk durumundaki konumunu doğrudan belirler.[^k2]
 
 ## Hane içi emeğin kaydı
 
@@ -105,9 +104,8 @@ dokuma, bakım ve su taşıma çoğu vergi ve üretim kaydına girmez.
 Kaydedilmemesi, yapılmadığı anlamına gelmez.[^k1] Ücret ödenmediği ve
 pazara çıkmadığı için sayıya girmez.
 
-Atlas bu boşluğu ayrıca kaydeder.[^k3] Bir ekonominin üretim
-kayıtları, o ekonomide yapılan işin tamamını değil, para karşılığı
-yapılan bölümünü ölçer.
+Bir ekonominin üretim kayıtları, o
+ekonomide yapılan işin tamamını değil, para karşılığı yapılan bölümünü ölçer.[^k3]
 
 ## Sayıların yanlılığı
 
@@ -117,9 +115,8 @@ verileri, kayda giren işi ölçer.
 Bu, bir grubun katkısını sistematik olarak düşük gösterir.[^k3]
 Yanlılık rastgele değil, yönlüdür.
 
-Atlas bu yönlü hatayı ayrıca beyan eder.[^k2] Rastgele bir hata
-ortalamada kaybolur; yönlü bir hata kaybolmaz ve düzeltilmediğinde
-sonucu belirli bir yöne çeker.
+Rastgele bir hata ortalamada kaybolur; yönlü bir
+hata kaybolmaz ve düzeltilmediğinde sonucu belirli bir yöne çeker.[^k2]
 
 ::tartismali[Kayda girmeyen emeğin geriye dönük olarak nasıl tahmin edileceği tartışmalıdır; her yöntem farklı bir toplam verir.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
@@ -132,8 +129,8 @@ istisnalar bulunur.
 İstisnalar çoğu zaman kayda girer.[^k3] Kural gereği yer almaması
 gereken bir kişinin yer alması, ayrıca kaydedilecek bir olaydır.
 
-Atlas bu yüzden dikkatli davranır.[^k2] Kaynakta çok anılan bir
-istisna, sıklığının değil olağandışılığının kanıtıdır.
+Kaynakta çok anılan bir istisna,
+sıklığının değil olağandışılığının kanıtıdır.[^k2]
 
 ## Din ve hukukun ayrı katmanları
 
@@ -143,8 +140,8 @@ tanırken uygulama tanımayabilir; tersi de görülür.
 İki katman ayrı ayrı izlenmelidir.[^k3] Metin okuması tek başına
 uygulamayı göstermez.
 
-Atlas bu ayrımı belge kuralına bağlar.[^k2] Bir metnin resmî konumu ile
-fiilî uygulanma alanı ayrı iki veridir.
+Bir metnin resmî konumu ile fiilî uygulanma alanı
+ayrı iki veridir.[^k2]
 
 ## Nüfus kayıtlarındaki iz
 
@@ -154,8 +151,8 @@ Bazı kayıtlar yalnızca hane reisini sayar.
 Böyle bir kayıtta hanenin geri kalanı sayı olarak bile
 görünmez.[^k1] Toplam nüfus tahminleri bu yüzden çarpanla üretilir.
 
-Atlas bu yöntemi ayrıca kaydeder.[^k3] Çarpanla üretilmiş bir nüfus
-sayısı, sayımın değil varsayımın sonucudur.
+Çarpanla üretilmiş bir nüfus sayısı,
+sayımın değil varsayımın sonucudur.[^k3]
 
 ## Vakıf kayıtlarının değeri
 
@@ -165,23 +162,22 @@ kuran kişinin adı, mülkü ve koşulları ayrıntılı kaydedilir.
 Bu kayıtlar, mülkiyet ölçütünü doğrudan sınamaya elverişlidir.[^k1]
 Kaç vakfın kimin adına kurulduğu sayılabilir.
 
-Atlas bu tür kaynakları önceliklendirir.[^k2] Sayılabilir bir kayıt,
-genel bir nitelemeden daha kullanışlıdır.
+Sayılabilir bir kayıt, genel
+bir nitelemeden daha kullanışlıdır.[^k2]
 
 ## Kavramın kendi sınırı
 
 Kavram, geçmiş düzenleri bugünkü ölçütle yargılamak için
-kullanılmaz.[^k1] Atlasın sorusu değerlendirme değil kayıt
+kullanılmaz.[^k1] Korpusun sorusu değerlendirme değil kayıt
 sorusudur.
 
 Kavram ayrıca tek bir dünya çapında düzen varsaymaz.[^k3] Ölçütler
 bölgeden bölgeye ve dönemden döneme belirgin biçimde değişir.
 
-Atlas bu yüzden her dosyada ölçütü ayrı ayrı uygular.[^k2] Genel bir
-niteleme yerine, üç sorunun o düzendeki cevabı kaydedilir.
+Genel bir niteleme yerine, üç
+sorunun o düzendeki cevabı kaydedilir.[^k2]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Hane ve soy düzeni için [Akrabalık](/kavram/akrabalik/), yetki devri
 için [Veraset kuralı](/kavram/veraset/) dosyaları okunmalıdır.[^k1]
 

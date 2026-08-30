@@ -51,7 +51,7 @@ onarim_turu: 0
 
 Kurumun bugünkü adı ile kuruluş adı aynı değildir. Bretton Woods Konferansı
 Uluslararası İmar ve Kalkınma Bankası'nı kurdu; bu kurum bugün Dünya Bankası
-Grubu'nun parçasıdır.[^k1] Bu dosya, o **ad değişiminin taşıdığı anlamı** ele
+Grubu'nun parçasıdır.[^k1] Bu inceleme, o **ad değişiminin taşıdığı anlamı** ele
 alır.
 
 ## "İmar" önce gelir
@@ -91,7 +91,7 @@ daha sonra nihai anlaşmaları onaylamayı reddettiler; kurdukları kurumları
 "Wall Street'in şubeleri" olarak niteliyorlardı.[^k1]
 
 Bu nitelemenin kurumun kendi referans kaydında yer alması, eleştirinin kuruluş
-anından itibaren var olduğunu gösterir; atlas bu değerlendirmeyi ne onaylar ne
+anından itibaren var olduğunu gösterir; korpus bu değerlendirmeyi ne onaylar ne
 reddeder, kimin söylediğini belirterek aktarır.
 
 ## Aynı soydan gelen üçüncü kurum
@@ -108,8 +108,7 @@ Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yakl
 kullanılan kaynaklarda bulunmadığı için bu değerler içindeki pay burada
 hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Bankanın kredi programları, oy düzeni, iç yapısı ve kalkınma politikalarına
 yönelik eleştiriler burada ayrı başlıklar altında ele alınmamıştır; kullanılan
 kaynak bölümlerinin kapsamı kurumun kuruluşu ve kurumsal soyudur. Dönemin bütünü

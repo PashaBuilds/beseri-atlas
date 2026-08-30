@@ -76,8 +76,7 @@ Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1914'te yakl
 1,82 milyardır.[^k3] İsyanın insan bedeline dair bir ölçüm kullanılan kaynak
 bölümünde bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 İsyanın nedenleri, seyri, kuşatma dönemi ve protokolün maddeleri burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1] Dönemin bütünü [1848-1914](/donem/12/) dosyasında ele alınıyor.
@@ -91,9 +90,8 @@ yerel gruplardı.
 Bölgede aynı yıllarda kuraklık ve sel yaşanmıştı.[^k3] Geçim koşulları
 bozulmuş, işsiz genç nüfus artmıştı.
 
-Atlas bu zemini ayrıca kaydeder.[^k2] Bir hareketin hedefi ile onu
-mümkün kılan koşullar ayrı ayrı
-incelenmelidir.
+Bir hareketin hedefi ile onu mümkün kılan
+koşullar ayrı ayrı incelenmelidir.[^k2]
 
 ## Demiryolu ve telgraf
 
@@ -104,9 +102,8 @@ Saldırı simgesel değildi.[^k3] Hat, kervan taşımacılığında çalışan
 büyük bir nüfusun işini
 ortadan kaldırmıştı.
 
-Atlas bu bağı ayrıca kaydeder.[^k2] Bir altyapıya yönelen tepki, çoğu
-zaman o altyapının ortadan kaldırdığı geçim biçiminin
-tepkisidir.
+Bir altyapıya yönelen tepki, çoğu zaman
+o altyapının ortadan kaldırdığı geçim biçiminin tepkisidir.[^k2]
 
 ## Merkezin konumu
 
@@ -116,10 +113,9 @@ bastırmayı, bir kesim desteklemeyi savunuyordu.
 Sonunda destekleme yönünde karar verildi.[^k3] Yönetim, yabancı
 devletlere karşı savaş ilan etti.
 
-Atlas bu kararı ayrıca kaydeder.[^k2] Bir yönetimin kendi ülkesindeki
-bir halk hareketini dış politikada araç olarak kullanması, o hareketi
-denetleyebildiği varsayımına
-dayanır.
+Bir yönetimin kendi ülkesindeki bir halk
+hareketini dış politikada araç olarak kullanması, o hareketi denetleyebildiği
+varsayımına dayanır.[^k2]
 
 ## Varsayımın çökmesi
 
@@ -130,9 +126,8 @@ etti.
 Sonuç, yönetimin hem hareketi hem savaşı denetleyememesi
 oldu.[^k3] İki başarısızlık üst üste bindi.
 
-Atlas bu sonucu ayrıca kaydeder.[^k2] Kendiliğinden doğmuş bir hareketi
-araca çevirmek, onu yönlendirebilmeyi
-gerektirir.
+Kendiliğinden doğmuş bir hareketi
+araca çevirmek, onu yönlendirebilmeyi gerektirir.[^k2]
 
 ## Sekiz devletin ittifakı
 
@@ -143,9 +138,8 @@ Aralarında birbiriyle rekabet hâlinde olanlar da vardı.[^k3] Ortak
 hareket, ortak çıkarın geçici olarak öne
 geçmesiyle mümkün oldu.
 
-Atlas bu geçiciliği ayrıca kaydeder.[^k2] Rakip güçlerin ortak hareket
-etmesi, aralarındaki rekabetin sona erdiğini
-göstermez.
+Rakip güçlerin ortak hareket etmesi,
+aralarındaki rekabetin sona erdiğini göstermez.[^k2]
 
 ## Başkentin işgali
 
@@ -156,9 +150,8 @@ Yağma, kuvvetlerin kendi kayıtlarında da
 geçer.[^k3] Alınan nesnelerin bir bölümü bugün de merkez ülkelerin
 koleksiyonlarındadır.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k2] Bir nesnenin bugün nerede
-tutulduğu, o nesnenin hangi çerçevede okunacağını da
-belirler.
+Bir nesnenin bugün nerede tutulduğu, o nesnenin
+hangi çerçevede okunacağını da belirler.[^k2]
 
 ## Protokolün maddeleri
 
@@ -170,9 +163,8 @@ Ayrıca yabancı devletlere başkentte asker bulundurma hakkı
 tanındı.[^k2] Bu, egemenliğin doğrudan
 sınırlanmasıdır.
 
-Atlas bu maddeleri ayrıca kaydeder.[^k1] Bu, atlasın eşitsiz
-antlaşmalar dosyasında tanımlanan kalıbın en ileri
-örneklerindendir.
+Bu, korpusun eşitsiz antlaşmalar dosyasında
+tanımlanan kalıbın en ileri örneklerindendir.[^k1]
 
 ## Tazminatın büyüklüğü
 
@@ -183,10 +175,9 @@ eklendi.
 Ödeme, gümrük ve tuz gelirlerine bağlandı.[^k1] Bu gelirler fiilen
 alacaklıların denetimine geçti.
 
-Atlas bu düzenlemeyi ayrıca kaydeder.[^k3] Bu, atlasın aynı dönemde
-başka bölgelerde de kaydettiği bir yapıdır: egemenliğin sınırlanması
-için toprak kaybı gerekmez, gelirin denetimi
-yeterlidir.
+Bu, korpusun aynı dönemde başka bölgelerde de
+kaydettiği bir yapıdır: egemenliğin sınırlanması için toprak kaybı gerekmez, gelirin
+denetimi yeterlidir.[^k3]
 
 ## Tazminatın geri dönüşü
 
@@ -198,9 +189,8 @@ Bu, ödeyen taraf için bir kazanç sayılmaz.[^k3] Aktarım, alan tarafın
 kendi kararıyla ve kendi öncelikleriyle
 yapıldı.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k2] Bir tazminatın bir bölümünün geri
-harcanması, tazminatın kendisini
-hafifletmez.
+Bir tazminatın bir bölümünün geri harcanması,
+tazminatın kendisini hafifletmez.[^k2]
 
 ## Sayılar
 
@@ -211,9 +201,8 @@ Yabancı ölümleri ayrıntılı kayıtlıdır.[^k1] Yerel ölümler, özellikle
 bastırma sırasında yaşananlar, çok daha az
 kayıtlıdır.
 
-Atlas bu dengesizliği ayrıca kaydeder.[^k2] Bir olayın kayıp
-kaydındaki ayrıntı farkı, kaydı kimin tuttuğunun doğrudan
-göstergesidir.
+Bir olayın kayıp kaydındaki
+ayrıntı farkı, kaydı kimin tuttuğunun doğrudan göstergesidir.[^k2]
 
 ## Adlandırma
 
@@ -224,9 +213,8 @@ Ad, hareketi bir isyan olarak konumlandırır.[^k3] Bu, karşı tarafın
 meşru yönetim olduğu varsayımını da
 taşır.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k2] Bir olaya verilen ad, o olayı
-kimin kaydettiğini gösterir; atlas yaygın adı kullanır ve bu kaydı
-düşer.
+Bir olaya verilen ad, o olayı kimin kaydettiğini
+gösterir; korpus yaygın adı kullanır ve bu kaydı düşer.[^k2]
 
 ## Sonraki dönemde etkisi
 
@@ -236,9 +224,8 @@ zayıflattı.[^k2] On yıl içinde hanedan sona erdi.
 İki olay arasında doğrudan bir neden sonuç bağı kurmak
 zordur.[^k1] Aradaki halkalar ayrıca gösterilmelidir.
 
-Atlas bu ihtiyatı ayrıca kaydeder.[^k3] İki olayın kısa aralıkla
-gerçekleşmesi, birinin diğerinin nedeni olduğunu
-göstermez.
+İki olayın kısa aralıkla
+gerçekleşmesi, birinin diğerinin nedeni olduğunu göstermez.[^k3]
 
 ## Reform girişimleri
 
@@ -246,16 +233,14 @@ göstermez.
 başlattı.[^k1] Ordu, eğitim ve idare yeniden
 düzenlendi.
 
-Reformun tetikleyicisi bir yenilgiydi.[^k3] Bu, atlasın başka
+Reformun tetikleyicisi bir yenilgiydi.[^k3] Bu, korpusun başka
 dosyalarında da kaydedilen bir
 örüntüdür.
 
-Atlas bu tekrarı ayrıca kaydeder.[^k2] Bir kurumsal reformun
-tetikleyicisi çoğu zaman iç talep değil, dış bir yenilgi
-karşılaştırmasıdır.
+Bir kurumsal reformun tetikleyicisi çoğu
+zaman iç talep değil, dış bir yenilgi karşılaştırmasıdır.[^k2]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, askerî harekâtın ayrıntısını vermez.[^k1] Bu ayrı bir
 çalışmanın konusudur.
 
@@ -279,9 +264,8 @@ Bu, olayın uluslararası kamuoyundaki yerini
 belirledi.[^k3] Kuşatma anlatısı, isyanın nedenlerinden çok daha
 geniş yer buldu.
 
-Atlas bu dengesizliği ayrıca kaydeder.[^k2] Bir olayın hangi
-bölümünün anlatıldığı, o bölümün önemine değil izlenebilirliğine
-bağlı olabilir.
+Bir olayın hangi bölümünün anlatıldığı, o bölümün
+önemine değil izlenebilirliğine bağlı olabilir.[^k2]
 
 ## Güney eyaletlerinin tutumu
 
@@ -293,9 +277,8 @@ Bu, merkezin taşra üzerindeki denetiminin ne kadar zayıfladığını
 gösterir.[^k3] Valiler fiilen kendi dış politikalarını
 yürüttü.
 
-Atlas bu durumu ayrıca kaydeder.[^k2] Bir savaş ilanının ülkenin bir
-bölümünde uygulanmaması, merkezî otoritenin doğrudan
-ölçüsüdür.
+Bir savaş ilanının ülkenin bir bölümünde
+uygulanmaması, merkezî otoritenin doğrudan ölçüsüdür.[^k2]
 
 ## Dinî boyut
 
@@ -307,9 +290,9 @@ Koruma, onları hem güvence altına aldı hem hedef
 hâline getirdi.[^k3] İki sonuç aynı düzenlemeden
 doğar.
 
-Atlas bu ikiliği ayrıca kaydeder.[^k2] Bir topluluğa dışarıdan
-sağlanan koruma, o topluluğun konumunu güçlendirirken aynı zamanda
-onu dış bir güçle özdeşleştirir.
+Bir topluluğa dışarıdan sağlanan
+koruma, o topluluğun konumunu güçlendirirken aynı zamanda onu dış bir güçle
+özdeşleştirir.[^k2]
 
 ## Misyon ayrıcalıkları
 
@@ -321,9 +304,8 @@ Bu ayrıcalıklar yerel yönetimlerle sürtüşme
 üretiyordu.[^k3] Anlaşmazlıklarda yerel mahkeme yetkisiz
 kalıyordu.
 
-Atlas bu bağı ayrıca kaydeder.[^k2] Yargı ayrıcalığının gündelik
-sonucu, aynı toprakta iki hukukun işlemesidir ve sürtüşme buradan
-doğar.
+Yargı ayrıcalığının gündelik sonucu,
+aynı toprakta iki hukukun işlemesidir ve sürtüşme buradan doğar.[^k2]
 
 
 ## Bastırma sonrası cezalandırma
@@ -335,9 +317,9 @@ Bu, iç hukukun dışarıdan belirlenmesi
 demektir.[^k1] Kimin suçlu sayılacağı, yargılayan tarafın değil
 antlaşmanın konusuydu.
 
-Atlas bu düzenlemeyi ayrıca kaydeder.[^k3] Bir barış metninin
-karşı tarafın kendi görevlilerini cezalandırmasını şart koşması,
-egemenliğin en doğrudan sınırlanmasıdır.
+Bir barış metninin karşı tarafın kendi
+görevlilerini cezalandırmasını şart koşması, egemenliğin en doğrudan
+sınırlanmasıdır.[^k3]
 
 ## Anıt maddesi
 
@@ -348,9 +330,8 @@ belirliyordu.
 Anıt sonraki dönemde kaldırıldı.[^k1] Kaldırma da ayrı bir siyasi
 işlemdi.
 
-Atlas iki işlemi birlikte kaydeder.[^k3] Bir anıtın dikilmesi ve
-kaldırılması, aynı olayın iki farklı dönemde nasıl
-adlandırıldığının kaydıdır.
+Bir anıtın dikilmesi ve kaldırılması, aynı
+olayın iki farklı dönemde nasıl adlandırıldığının kaydıdır.[^k3]
 
 
 ## Rusya'nın ayrı hareketi
@@ -363,12 +344,10 @@ Bu, ittifakın geçiciliğini doğrudan gösterir.[^k3] Ortak düşman
 karşısında birleşen taraflar, aynı anda kendi ayrı hedeflerini de
 izliyordu.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k2] Ortak bir harekâtın içinde
-yürütülen ayrı bir işgal, ittifakın hangi çıkarlar üzerine kurulduğunu
-açığa çıkarır.
+Ortak bir harekâtın içinde yürütülen ayrı bir işgal,
+ittifakın hangi çıkarlar üzerine kurulduğunu açığa çıkarır.[^k2]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Dönemin antlaşma düzeni için
 [Eşitsiz antlaşmalar](/kavram/esitsiz-antlasmalar/) dosyası
 okunmalıdır.[^k2]

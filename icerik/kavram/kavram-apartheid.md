@@ -62,8 +62,8 @@ Düzen sıfırdan icat edilmedi.[^k3] Önceki dönemin toprak ve yerleşim
 yasaları zaten ayrımı kurmuştu; yeni yasalar bunu bütünleştirdi ve
 adlandırdı.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k2] Bir uygulamanın adının konması,
-uygulamanın başladığı tarih değildir.
+Bir uygulamanın adının konması, uygulamanın başladığı
+tarih değildir.[^k2]
 
 ## Sınıflandırma işlemi
 
@@ -75,9 +75,8 @@ Sınıflandırmanın ölçütü tutarlı değildi.[^k3] Görünüş, soy ve
 çevrenin kabulü gibi birbirinden bağımsız ölçütler bir arada
 kullanıldı.
 
-Atlas bu belirsizliği kavramın merkezine koyar.[^k2] **Bir
-sınıflandırmanın ölçütünün belirsiz olması uygulanmasını engellemez;
-kararı verenin yetkisini artırır.**
+**Bir sınıflandırmanın ölçütünün
+belirsiz olması uygulanmasını engellemez; kararı verenin yetkisini artırır.**[^k2]
 
 ## Yeniden sınıflandırma
 
@@ -87,9 +86,9 @@ yıl çok sayıda kişinin sınıfı değiştirildi.
 Değişiklik, kişinin kendisinde bir değişiklik olmadan
 gerçekleşiyordu.[^k3] Değişen, kaydı tutan makamın kararıydı.
 
-Atlas bu durumu ayrıca kaydeder.[^k2] Kişide bir değişiklik olmadan
-değişebilen bir sınıflandırma, tanımladığı şeyin kendisini değil,
-tanımlayanın yetkisini gösterir.
+Kişide bir değişiklik olmadan değişebilen
+bir sınıflandırma, tanımladığı şeyin kendisini değil, tanımlayanın yetkisini
+gösterir.[^k2]
 
 ## İki katman
 
@@ -99,9 +98,8 @@ girişler, ayrı oturma yerleri, ayrı hizmetler.
 İkincisi toprak ayrımıdır.[^k3] Nüfusun büyük bölümü, ülkenin küçük
 bir bölümünde yaşamaya yönlendirildi.
 
-Atlas ikinci katmanı daha belirleyici sayar.[^k2] Gündelik ayrım
-görünür ve semboliktir; toprak ayrımı mülkiyeti ve geliri
-belirler.
+Gündelik ayrım görünür ve
+semboliktir; toprak ayrımı mülkiyeti ve geliri belirler.[^k2]
 
 ## Vatandaşlığın kaldırılması
 
@@ -112,9 +110,8 @@ Bu birimlere bağlanan kişiler, ülkenin vatandaşı sayılmaktan
 İşlem, kimseyi yerinden etmeden yapıldı.[^k3] Kişiler bulundukları
 yerde kaldı; değişen sınırın hukuki tanımıydı.
 
-Atlas bu işlemi ayrıca kaydeder.[^k2] Bir kişiyi yerinden etmeden
-yabancı hâline getirmek, yalnızca sınırı yeniden çizmekle
-mümkündür.
+Bir kişiyi yerinden etmeden yabancı
+hâline getirmek, yalnızca sınırı yeniden çizmekle mümkündür.[^k2]
 
 ## Geçiş belgesi düzeni
 
@@ -125,9 +122,8 @@ Belgenin işlevi denetim kadar tahsisti.[^k3] Kimin nerede
 çalışabileceğini belirleyerek işgücünü madenlere ve kentlere
 yönlendiriyordu.
 
-Atlas bu işlevi ayrıca kaydeder.[^k2] Bu, atlasın zorunlu emek
-dosyasında tanımlanan yapının bir biçimidir: reddin mümkün olmadığı
-bir emek tahsisi.
+Bu, korpusun zorunlu emek dosyasında tanımlanan
+yapının bir biçimidir: reddin mümkün olmadığı bir emek tahsisi.[^k2]
 
 ## Ekonomik işlev
 
@@ -137,9 +133,8 @@ hareketsiz bir işgücü havuzu üretiyordu.
 Ailelerin işçiden ayrı bölgelerde tutulması bu havuzu ucuzlatıyordu.[^k3]
 Ücret, tek kişinin geçimine göre hesaplanabiliyordu.
 
-Atlas bu mekanizmayı ayrıca kaydeder.[^k2] Bir ayrım düzeninin
-maliyeti ile getirisi ayrı ayrı hesaplanmalıdır; ikisi aynı hanede
-toplanamaz.
+Bir ayrım düzeninin maliyeti ile
+getirisi ayrı ayrı hesaplanmalıdır; ikisi aynı hanede toplanamaz.[^k2]
 
 ## Direnişin biçimleri
 
@@ -149,8 +144,8 @@ aldı.[^k1] Biçim, dönemin baskı düzeyine göre değişti.
 Yasal yolların kapanması, silahlı örgütlenmeyi öne çıkardı.[^k3] Bu
 sıralama kayıtlarda izlenebilir.
 
-Atlas bu sıralamayı ayrıca kaydeder.[^k2] Bir hareketin yöntemi,
-kendi tercihinden çok elde kalan seçeneklerle belirlenir.
+Bir hareketin yöntemi, kendi tercihinden çok elde
+kalan seçeneklerle belirlenir.[^k2]
 
 ## Dış baskı
 
@@ -160,9 +155,8 @@ boykotları ve yatırım çekilmeleri uygulandı.
 Bu araçların etkisi tartışmalıdır.[^k3] İç direnişin mi dış baskının
 mı belirleyici olduğu ayrı bir tartışmadır.
 
-Atlas bu tartışmayı karara bağlamaz.[^k2] İki etkenin aynı anda
-işlediği durumlarda payların ayrıştırılması ayrı bir yöntem
-sorunudur.
+İki etkenin aynı anda işlediği
+durumlarda payların ayrıştırılması ayrı bir yöntem sorunudur.[^k2]
 
 ## Kaydın iki türü
 
@@ -172,9 +166,9 @@ belgesi kayıtları ve güvenlik dosyaları kapsamlıdır.
 Sona ermesinden sonra ikinci bir kayıt türü üretildi.[^k3] Bir
 komisyon önünde verilen tanıklıklar kayda geçirildi.
 
-Atlas iki türü ayrı ayrı değerlendirir.[^k2] İdari kayıt düzenin nasıl
-işlediğini, tanıklık ise nasıl yaşandığını gösterir; ikisi birbirinin
-yerine geçmez.
+İdari kayıt düzenin nasıl
+işlediğini, tanıklık ise nasıl yaşandığını gösterir; ikisi birbirinin yerine
+geçmez.[^k2]
 
 ## Sona ermesi
 
@@ -185,23 +179,22 @@ Yasal sona erme, ayrımın fiilen sona ermesi değildir.[^k3] Yerleşim
 düzeni, toprak dağılımı ve gelir farkı yasadan bağımsız olarak
 sürdü.
 
-Atlas bu ayrımı belge kuralına bağlar.[^k2] Bir metnin resmî konumu ile
-fiilî uygulanma alanı ayrı iki veridir.
+Bir metnin resmî konumu ile fiilî uygulanma alanı
+ayrı iki veridir.[^k2]
 
 ## Kast düzeniyle karşılaştırma
 
-Atlasın kast dosyasıyla arasında bir ortaklık vardır.[^k1] İkisinde de
-resmî bir sayım ve sınıflandırma, akışkan bir yapıyı sabitlemiştir.
+İkisinde de resmî bir sayım ve sınıflandırma,
+akışkan bir yapıyı sabitlemiştir.[^k1]
 
 Farkları da açıktır.[^k3] Biri bir devletin bir kuşakta yazdığı
 yasalarla kuruldu; diğeri yüzyıllara yayılan bir teamüle
 dayanır.
 
-Atlas ikisini aynı kefeye koymaz.[^k2] Ortak bir mekanizma paylaşmak,
-aynı olmak anlamına gelmez.
+Ortak bir mekanizma paylaşmak, aynı olmak
+anlamına gelmez.[^k2]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Benzer bir sınıflandırma yapısı için [Kast](/kavram/kast/), emek
 tahsisi için [Zorunlu emek düzeni](/kavram/zorunlu-emek-duzeni/)
 dosyaları okunmalıdır.[^k1]

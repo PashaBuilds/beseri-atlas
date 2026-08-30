@@ -46,7 +46,7 @@ onarim_turu: 0
 ---
 
 Sultanlık 25 Haziran 1206'da bağımsızlıkla başlar ve 1526'da Panipat Savaşı ile
-biter; devlet biçimi sultanlıktır.[^k1] Bu dosya, **tek ad altında sıralanan beş
+biter; devlet biçimi sultanlıktır.[^k1] Bu inceleme, **tek ad altında sıralanan beş
 hanedanı** ele alır.
 
 ## Bir ad, beş hanedan
@@ -56,7 +56,7 @@ hanedanı 1290-1320, Tuğluk hanedanı 1320-1413, Seyyid hanedanı 1414-1450 ve 
 hanedanı 1451-1526.[^k1]
 
 Aynı siyasi adın üç yüz yirmi yıl boyunca beş ayrı hanedanı taşıması,[^k1]
-atlasın "devlet" ile "hanedan" ayrımını neden ayrı tuttuğunu gösterir: biri
+korpusun "devlet" ile "hanedan" ayrımını neden ayrı tuttuğunu gösterir: biri
 diğerinden uzun yaşayabilir.
 
 ## Hanedan değişimleri tarihlenmiştir
@@ -75,7 +75,7 @@ Sultanlığın bitiş olayı Panipat Savaşı'dır.[^k1] Aynı savaş, Timur
 geçer.[^k2]
 
 Bir olayın bir devletin sonu, bir başkasının sonrası olarak kaydedilmesi,[^k1][^k2]
-atlasın çapraz okuma yönteminin tam da aradığı örtüşmedir; diğer taraf
+korpusun çapraz okuma yönteminin tam da aradığı örtüşmedir; diğer taraf
 [Timur İmparatorluğu](/aktor/timur-imparatorlugu/) dosyasında ele alınıyor.
 
 ## Öncüller ve ardıllar
@@ -95,8 +95,7 @@ yaklaşık 456,2 milyondur.[^k3] Sultanlığın kendi nüfusuna dair bir ölçü
 kullanılan kaynak bölümünde bulunmadığı için bu değer içindeki pay burada
 hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Siyasi düzen, iktisat siyaseti, ordu, mimari ve gerileme dönemi burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1] Dönemin bütünü [1000-1350](/donem/07/) dosyasında ele alınıyor.

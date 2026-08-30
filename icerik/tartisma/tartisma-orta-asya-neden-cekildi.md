@@ -153,7 +153,7 @@ Cümlenin işlevi, dört yüzyılı atlamaktır.[^k2] Bölgenin tarihi, çoğu
 anlatıda Timurlulardan doğrudan on dokuzuncu yüzyıl fetihlerine geçer ve
 aradaki dönem tek bir geçiş cümlesine sıkışır.
 
-Bu dosya cümlenin doğru olup olmadığını sormaz.[^k4] Cümlenin hangi
+Bu inceleme cümlenin doğru olup olmadığını sormaz.[^k4] Cümlenin hangi
 ölçüte dayandığını ve o ölçütün gerçekten ölçülüp ölçülmediğini sorar;
 ikinci soru, birincisinden önce gelir.
 
@@ -177,9 +177,8 @@ Bu, iddianın dolaylı göstergelere dayanmak zorunda olduğu anlamına
 gelir.[^k3] Şehirlerin durumu, imar faaliyeti ve sikke bulguları böyle
 göstergelerdir.
 
-Atlas dolaylı göstergeleri reddetmez ama dolaylı olduklarını
-yazar.[^k2] Dolaylı bir göstergeden çıkarılan sonuç, doğrudan ölçüm
-gibi aktarılamaz.
+Dolaylı bir göstergeden çıkarılan sonuç,
+doğrudan ölçüm gibi aktarılamaz.[^k2]
 
 ## Dört konumun ortak kabulü
 
@@ -212,9 +211,8 @@ artabilir.
 Vakayiname üretimi de saray himayesine bağlıdır.[^k2] Sarayın üretim
 yaptırması, bölgenin genelinin durumu hakkında sınırlı bilgi verir.
 
-Atlas iki karşı kanıtı da bu kısıtlarla birlikte kaydeder.[^k4] Bir
-göstergenin karşı tarafın iddiasını zayıflatması, kendi iddiasını
-kanıtladığı anlamına gelmez.
+Bir göstergenin karşı tarafın
+iddiasını zayıflatması, kendi iddiasını kanıtladığı anlamına gelmez.[^k4]
 
 ## Ticaretin yön değiştirmesi
 
@@ -225,8 +223,8 @@ kullanılmaya başlandı.
 Bu hatların hacmi ölçülmemiştir.[^k2] Yön değişimi ile hacim azalması
 farklı iki olgudur ve kaynaklarda çoğu zaman ayrılmaz.
 
-Atlas ayrımı ayrıca kaydeder.[^k3] Bir ticaret hattının değişmesi, çoğu
-zaman ticaretin azalması değil yön değiştirmesidir.
+Bir ticaret hattının değişmesi, çoğu zaman ticaretin
+azalması değil yön değiştirmesidir.[^k3]
 
 ## Mal bileşimi sorunu
 
@@ -262,9 +260,8 @@ sayılır.
 Sayılan göstergeler bu dönem için düzenli olarak tutulmamıştır.[^k2]
 Konum, sınanabilir olduğunu iddia ettiği hâlde sınanmamıştır.
 
-Atlas bu durumu ayrıca işaretler.[^k1] Sınanabilir bir iddia ile
-sınanmış bir iddia arasındaki fark, tartışmanın en sık atlanan
-noktasıdır.
+Sınanabilir bir iddia ile sınanmış
+bir iddia arasındaki fark, tartışmanın en sık atlanan noktasıdır.[^k1]
 
 ## Neden ile sonucun yer değiştirmesi
 
@@ -283,11 +280,11 @@ Dördüncü konum, sorunun kendisini hedef alır.[^k4] Ölçülen şeyin
 bölgenin ağırlığı değil, bölge hakkındaki kaydın erişilebilirliği
 olduğunu ileri sürer.
 
-Konum, atlasın başka dosyalarında da ölçülmüş bir mekanizmaya
+Konum, korpusun başka dosyalarında da ölçülmüş bir mekanizmaya
 dayanır.[^k2] Dijital erişim eşitsizliği, kaynak yanlılığını sessizce
 üretir.
 
-Mekanizmanın varlığı bu dosyada da doğrulanabilir.[^k3] Bu dosyanın
+Mekanizmanın varlığı bu incelemede da doğrulanabilir.[^k3] Bu incelemenin
 künyelerinin tamamı ansiklopedi maddesidir; bölgenin dönem kaynakları
 künyelenebilir hâlde bulunamamıştır.
 
@@ -299,37 +296,34 @@ göstermez.[^k1] İki iddia birbirinden bağımsızdır.
 Uç biçimde uygulandığında konum her gerileme iddiasını kaynak sorununa
 indirger.[^k4] Bu, gerçek bir daralmayı da görünmez kılabilir.
 
-Atlas bu riski açıkça yazar.[^k3] Kaynak eleştirisi bir yöntemdir; her
-sonucu üretebilen bir yöntem, yöntem olmaktan çıkar.
+Kaynak eleştirisi bir yöntemdir; her
+sonucu üretebilen bir yöntem, yöntem olmaktan çıkar.[^k3]
 
 ## Kalıbın kendisi
 
-İddianın yapısı — bir bölgenin "önemini yitirmesi" — atlasın öteki
+İddianın yapısı — bir bölgenin "önemini yitirmesi" — korpusun öteki
 bölgeleri için de kullanılan bir kalıptır.[^k4] Aynı cümle başka
 bölgeler için de kurulur.
 
 Kalıbın ortak özelliği, ölçüt belirtmemesidir.[^k2] Neye göre önem
 yitirildiği çoğu zaman yazılmaz.
 
-Atlas bu nedenle kalıbı bir bulgu olarak da kaydeder.[^k1] Ölçüt
-belirtmeden kurulan gerileme cümlesi, bir karşılaştırma değil bir
-izlenimdir.
+Ölçüt belirtmeden kurulan gerileme cümlesi, bir
+karşılaştırma değil bir izlenimdir.[^k1]
 
-## Atlasın bu tartışmadaki konumu
+## Korpusun bu tartışmadaki konumu
 
-Atlas dört konumdan birini seçmez.[^k3] Seçim, ölçülmemiş verilere
-dayanmayı gerektirir.
+Seçim, ölçülmemiş verilere dayanmayı gerektirir.[^k3]
 
-Atlasın yaptığı, tartışmanın hangi olguya dayandığını
-kesinleştirmektir.[^k2] Ölçülmüş olan ile ölçülmemiş olan ayrı ayrı
-işaretlenmiştir.
+Ölçülmüş olan ile ölçülmemiş olan ayrı ayrı
+işaretlenmiştir.[^k2]
 
 Bu, dosyanın asıl çıktısıdır.[^k4] Dört konumun hangisinin hangi
 noktada veri eksiği taşıdığı, dosyanın kendisinden okunabilir.
 
 ## Uygulanan kural
 
-Tartışmadan bir kural çıkar ve atlasın bütün bölge dosyalarına
+Tartışmadan bir kural çıkar ve korpusun bütün bölge dosyalarına
 uygulanır.[^k1] **Gerileme sözcüğü, ölçüt belirtilmeden
 kullanılmaz.**
 
@@ -362,7 +356,7 @@ Bu mekanizma, on altıncı yüzyıldan sonraki dünya için doğrudan
 geçerlidir.[^k1] Atlantik ekonomisinin büyümesi, bütün öteki bölgelerin
 payını matematiksel olarak düşürür.
 
-Payın düşmesi, o bölgede bir şeyin kötüleştiğini göstermez.[^k3] Atlas
+Payın düşmesi, o bölgede bir şeyin kötüleştiğini göstermez.[^k3] Korpus
 bu ayrımı bütün pay hesaplarında ayrıca yazar.
 
 ## Dönemlendirmenin etkisi
@@ -386,8 +380,8 @@ kaydı vardır.[^k2] Bir bölümü arşivlerde korunmaktadır.
 Bu kaynakların çoğu çevrilmemiş ve dijitalleştirilmemiştir.[^k3]
 Tartışmanın ölçüt sorunu, doğrudan bu erişim durumuna bağlıdır.
 
-Atlas bunu bir gelecek işi olarak kaydeder.[^k1] Ölçütler, ancak bu
-kaynaklar erişilebilir hâle geldiğinde ölçülebilir.
+Ölçütler, ancak bu kaynaklar erişilebilir
+hâle geldiğinde ölçülebilir.[^k1]
 
 ## Tartışmanın pratik sonucu
 
@@ -395,11 +389,11 @@ Tartışmanın sonucu, dört yüzyılın yazılıp yazılmayacağını
 belirler.[^k4] Bölge önemini yitirdiyse, o dönemi ayrıntılı yazmanın
 gerekçesi zayıflar.
 
-Atlas gerekçeyi tersine kurar.[^k2] Bir dönemin yazılması, o dönemin
-önemli olduğunun kanıtlanmasına bağlanamaz; önem, ancak yazıldıktan
-sonra değerlendirilebilir.
+Bir dönemin yazılması, o dönemin
+önemli olduğunun kanıtlanmasına bağlanamaz; önem, ancak yazıldıktan sonra
+değerlendirilebilir.[^k2]
 
-Bu, atlasın bu tura ilişkin kararını açıklar.[^k1] Dört hanlık dosyası,
+Bu, korpusun bu tura ilişkin kararını açıklar.[^k1] Dört hanlık dosyası,
 tartışma sonuçlanmadan yazıldı.
 
 ## Bölge içi ticaretin görünmezliği
@@ -416,16 +410,15 @@ kalması küçük olduğu anlamına gelmez.
 
 ## Ölçülemeyenin dışarıda kalması
 
-Aynı mekanizma atlasın başka dosyalarında da ölçülmüştür.[^k4] Bir
+Aynı mekanizma korpusun başka dosyalarında da ölçülmüştür.[^k4] Bir
 olgunun kayda geçme biçimi, o olgunun tartışmadaki ağırlığını da
 belirler.
 
 Sonuç, sistematik bir eğilimdir.[^k1] Kayda geçen kalemler
 büyütülür, geçmeyenler yok sayılır.
 
-Atlas bu eğilimi bir yanlış değil bir kısıt olarak yazar.[^k3]
-Ölçülemeyen bir kalemi tartışmaya sokmanın yolu, onu ölçmektir; yokluğunu
-iddiaya çevirmek değildir.
+Ölçülemeyen bir kalemi tartışmaya
+sokmanın yolu, onu ölçmektir; yokluğunu iddiaya çevirmek değildir.[^k3]
 
 ## Bölgenin kendi anlatısı
 
@@ -442,15 +435,15 @@ ikinci dayanağıdır.
 
 ## Tartışmanın öteki bölgelerle bağı
 
-Aynı yapıdaki bir tartışma atlasta bir başka bölge için de
+Aynı yapıdaki bir tartışma korpusta bir başka bölge için de
 vardır.[^k4] Orada da bir gerileme tezi ve tezin öncülünü hedef alan bir
 eleştiri bulunur.
 
 İki tartışmanın karşılaştırılması öğreticidir.[^k2] Öncül eleştirisi iki
 yerde de aynı mekanizmaya dayanır: kaydın kimin tarafından tutulduğu.
 
-Atlas iki dosyayı birbirine bağlar.[^k3] Aynı yapıdaki tartışmaların
-birlikte okunması, kalıbın kendisini görünür kılar.
+Aynı yapıdaki tartışmaların birlikte
+okunması, kalıbın kendisini görünür kılar.[^k3]
 
 ## Ne çözülmüş sayılabilir
 
@@ -461,26 +454,24 @@ açıldığı, bozkırda büyük siyasi birimlerin tasfiye edildiği ve bölgeni
 Çözülmemiş olan, bu üçünün bölgenin ağırlığı üzerindeki bileşik
 etkisidir.[^k2] Üç olgu da doğrudur ve üçünün toplamı ölçülmemiştir.
 
-Ayrımın korunması atlasın temel işidir.[^k3] Bir tartışmanın sürmesi,
+Ayrımın korunması korpusun temel işidir.[^k3] Bir tartışmanın sürmesi,
 dayandığı olguların da tartışmalı olduğu anlamına gelmez.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dört konum alanın tamamını kapsamaz.[^k4] İklim değişimini ve salgın
 etkisini esas alan yaklaşımlar da vardır.
 
-Bu yaklaşımlar dosyaya alınmadı.[^k2] Bu dosya yazıldığında
+Bu yaklaşımlar dosyaya alınmadı.[^k2] Bu inceleme yazıldığında
 doğrulanabilir kaynakla künyelenemediler; eksik burada beyan edilir ve
-atlasın borç defterine yazılmıştır, künyelenebilir kaynak bulunduğunda
+korpusun borç defterine yazılmıştır, künyelenebilir kaynak bulunduğunda
 dosya genişletilmelidir.
 
 Konumların savunanları kişi adlarıyla değil çizgi ve yaklaşım adlarıyla
-verilmiştir.[^k3] Nedeni atlasın kütük kuralıdır: bir kişiyi savunmadığı
+verilmiştir.[^k3] Nedeni korpusun kütük kuralıdır: bir kişiyi savunmadığı
 bir konuma yerleştirmek yapılabilecek en ağır hatadır ve doğrulanamayan
 kişi atfı yerine yaklaşım adı kullanılır.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Tartışmanın konusu olan dört yüzyıl için
 [Şeybânîler](/aktor/seybaniler/),
 [Buhara Hanlığı](/aktor/buhara-hanligi/),

@@ -53,7 +53,7 @@ dünya tarihi.[^k1]
 
 ## Dönemlendirmenin kendi tarihi vardır
 
-::tartismali[Bir dönem bölmesinin kendi tarihi ve kendi tarih yazımı bölümü var. Bu, dönem sınırlarının bir bulgu değil bir karar olduğu anlamına gelir. Atlas kendi on altı dönemini de bir karar olarak sunar.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bir dönem bölmesinin kendi tarihi ve kendi tarih yazımı bölümü var. Bu, dönem sınırlarının bir bulgu değil bir karar olduğu anlamına gelir. Korpus kendi on altı dönemini de bir karar olarak sunar.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu kararın nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -73,14 +73,14 @@ Bach'ın ölümüyle 1750 yılına koyduğunu, sanat tarihçilerinin ise çoğu 
 dönemi belirgin biçimde daha erken bitirdiğini yazar.[^k1]
 
 Aynı dönem için müzik tarihinin ve sanat tarihinin farklı bitiş noktaları
-vermesi,[^k1] atlasın şu kuralının dayanağıdır: bu atlasta dönem adları evrensel
-değil bu atlasa ait bir bölmedir.
+vermesi,[^k1] korpusun şu kuralının dayanağıdır: bu korpusta dönem adları evrensel
+değil bu korpusa ait bir bölmedir.
 
 ## Dünya tarihi ayrıca bölümlenmiştir
 
 Kaynak dünya tarihi için ayrı bir bölüm tutar.[^k1]
 
-Dünya ölçeğindeki bölmenin ayrıca işlenmesi,[^k1] atlasın paralel zaman şeridi
+Dünya ölçeğindeki bölmenin ayrıca işlenmesi,[^k1] korpusun paralel zaman şeridi
 bileşeninin dayanağıdır: bir bölgenin dönem adları başka bölgelere uymayabilir.
 
 ## Rakip bir bölme önerisi
@@ -96,8 +96,7 @@ tarihçi hem filozof olarak kaydeder.[^k3] O yazar
 [Michel Foucault](/dusunur/foucault/) dosyasında, geriye dönük adlandırma sorunu
 ise [Anakronizm](/kavram/anakronizm/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Üç çağ sisteminin içeriği, tarih yazımı tartışmaları ve dünya tarihi bölmeleri
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1]

@@ -13,9 +13,10 @@ guven_geneli: yaygin
 etiketler: [co2, emisyon, sanayi-devrimi, yogun-seri, owid]
 ilgili:
   - veri-enerji-tuketimi-1800-2023
-  - olay-sanayi-devrimi
   - olay-paris-iklim-anlasmasi
   - veri-fosil-elektrik-payi
+baglam:
+  - olay-sanayi-devrimi
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/co2-emisyonu.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"
@@ -56,7 +57,7 @@ biter.[^k1]
 Veri kümesinde dünya toplamı için ilk gözlem 1750 yılına aittir.[^k1]
 
 Bir emisyon serisinin sanayileşmenin yaygın olarak tarihlendiği dönemden önce
-başlaması,[^k1] atlasın şu kuralının dayanağıdır: bu dosyadan okunan değerler bir
+başlaması,[^k1] korpusun şu kuralının dayanağıdır: bu incelemeden okunan değerler bir
 başlangıç noktası iddiası taşımaz; seri yalnızca kayıt başlangıcını gösterir.
 İlgili dönüşüm
 [Sanayi Devrimi](/olay/sanayi-devrimi/) dosyasında ele alınıyor.[^k3]
@@ -66,7 +67,7 @@ başlangıç noktası iddiası taşımaz; seri yalnızca kayıt başlangıcını
 Aynı sağlayıcının birincil enerji serisinde dünya değeri 1800 için 97 TWh, 2025
 için 166.753,6 TWh'dir.[^k2]
 
-İki serinin aynı yönde ve benzer büyüklükte artması,[^k1][^k2] atlasın bunları
+İki serinin aynı yönde ve benzer büyüklükte artması,[^k1][^k2] korpusun bunları
 tek bir nedene bağlamasını gerektirmez; iki ölçü farklı birimlerde farklı
 şeyleri ölçer. İlişkili dosya
 [Birincil enerji tüketimi, 1800–2025](/veri/enerji-tuketimi-1800-2023/)
@@ -77,12 +78,10 @@ dosyasıdır.
 Serinin sütun adı toplam emisyonu verir; hangi kaynakların (fosil yakıt, çimento,
 arazi kullanımı) sayıldığı ölçünün tanımına bağlıdır.[^k1]
 
-Atlasın kuralı şudur: bu seriden okunan değerler, hangi kaynakların dâhil
-edildiği belirtilmeden aktarılmaz.[^k1] İlgili anlaşma
-[Paris İklim Anlaşması](/olay/paris-iklim-anlasmasi/) dosyasında ele alınıyor.
+İlgili anlaşma [Paris İklim
+Anlaşması](/olay/paris-iklim-anlasmasi/) dosyasında ele alınıyor.[^k1]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ülke ülke emisyonlar, kişi başına değerler ve kaynak kırılımı burada ayrı
-başlıklar altında ele alınmamıştır; bu dosya yalnızca dünya toplamı serisini
+başlıklar altında ele alınmamıştır; bu inceleme yalnızca dünya toplamı serisini
 kaydeder.[^k1]

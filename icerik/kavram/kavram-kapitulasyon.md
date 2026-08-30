@@ -13,7 +13,8 @@ bolge: [islam-dunyasi, avrupa]
 eksen: [siyasi, ekonomik, dini]
 guven_geneli: yaygin
 etiketler: [kapitulasyon, ahidname, eman, yargi-ayricaligi, gumruk, lozan]
-ilgili:
+ilgili: []
+baglam:
   - kavram-esitsiz-antlasmalar
   - kavram-egemenlik
   - aktor-osmanli-imparatorlugu

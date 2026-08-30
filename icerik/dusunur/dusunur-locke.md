@@ -17,6 +17,7 @@ ilgili:
   - dusunur-hobbes
   - dusunur-montesquieu
   - dusunur-smith
+baglam:
   - dusunur-mill
   - olay-atlantik-kole-ticareti
   - olay-amerikan-devrimi

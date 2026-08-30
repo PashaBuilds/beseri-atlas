@@ -74,7 +74,7 @@ düzenlendi.
 Anlatı gün gün ilerler.[^k2] Seyir bilgileri, hava ve buz gözlemleri,
 karaya çıkışlar ve karşılaşmalar sırayla verilir.
 
-Bu dosyanın konusu seferin başarısı değildir.[^k3] Anlatının nasıl bir
+Bu incelemenin konusu seferin başarısı değildir.[^k3] Anlatının nasıl bir
 kayıt olduğudur.
 
 ## Aranan şeyin bulunmaması
@@ -86,8 +86,8 @@ Bu, kanıt açısından özel bir durumdur.[^k2] Bir şeyin var olduğu tek
 bir gözlemle gösterilebilir; olmadığı ancak kapsamlı bir taramayla
 savunulabilir.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Yokluk iddiası, taramanın
-kapsamı belirtilmeden değerlendirilemez.
+Yokluk iddiası, taramanın kapsamı belirtilmeden
+değerlendirilemez.[^k3]
 
 ## Ham defter ile basılı metin
 
@@ -98,9 +98,8 @@ yeniden yazıldı.
 Fark ölçülebilir.[^k2] Ham defterlerin sonraki yayınları,
 basılı anlatıda bulunmayan ifadeleri içerir.
 
-Atlas bu yüzden hangi metne atıf yapıldığını belirtir.[^k3] Bu, atlasın
-Magna Carta dosyasında kurduğu sürüm kuralının buradaki
-uygulamasıdır.
+Bu, korpusun Magna Carta dosyasında kurduğu sürüm
+kuralının buradaki uygulamasıdır.[^k3]
 
 ## Karşılaşma kayıtlarının yapısı
 
@@ -110,9 +109,8 @@ edilen mallar, kullanılan işaretler ve çıkan anlaşmazlıklar kaydedilir.
 Kayıt tek yönlüdür.[^k2] Karşı tarafın aynı karşılaşmaya dair yazılı
 kaydı yoktur.
 
-Atlas bu tek yönlülüğü ayrıca kaydeder.[^k3] **Bir karşılaşmanın tek
-tarafça tutulmuş kaydı, o karşılaşmanın değil, kaydı tutanın
-beklentilerinin de kaynağıdır.**
+**Bir karşılaşmanın tek tarafça tutulmuş
+kaydı, o karşılaşmanın değil, kaydı tutanın beklentilerinin de kaynağıdır.**[^k3]
 
 ## Alışverişin anlamı sorunu
 
@@ -122,8 +120,8 @@ alınan şeyler listelenir.
 Değişimin iki taraf için aynı anlama geldiği varsayılamaz.[^k2] Bir
 tarafın hediye saydığı, diğerinin ödeme sayması mümkündür.
 
-Atlas bu belirsizliği korur.[^k3] Anlatıdaki "satın aldı" ifadesi,
-karşı taraf için de bir satış olduğunu göstermez.
+Anlatıdaki "satın aldı" ifadesi,
+karşı taraf için de bir satış olduğunu göstermez.[^k3]
 
 ## Şiddet kayıtları
 
@@ -133,8 +131,8 @@ Anlatı, çıkan çatışmaları gizlemez.[^k1] Ateş açılan durumlar ve
 Kayıt bir gerekçeyle birlikte verilir.[^k2] Gerekçe genellikle hırsızlık
 ya da tehdit olarak sunulur.
 
-Atlas gerekçeyi olayla birlikte kaydeder.[^k3] Bir şiddet kaydının
-gerekçesi de o kaydı tutanın çerçevesine aittir.
+Bir şiddet kaydının gerekçesi de o kaydı
+tutanın çerçevesine aittir.[^k3]
 
 ## Haritalamanın sonucu
 
@@ -144,8 +142,8 @@ konumu ve derinlikler ölçüldü.
 Harita, sonraki seferlerin koşuludur.[^k2] Ölçülmüş bir kıyı,
 ticaretin ve yerleşimin de yolunu açar.
 
-Atlas bu bağı doğrudan kurar.[^k3] Bir bölgenin haritalanması,
-o bölgeye ulaşmanın maliyetini düşürür ve müdahaleyi kolaylaştırır.
+Bir bölgenin haritalanması, o bölgeye
+ulaşmanın maliyetini düşürür ve müdahaleyi kolaylaştırır.[^k3]
 
 ## Yerel seyrüsefer bilgisiyle ilişkisi
 
@@ -156,8 +154,8 @@ biliyordu.
 Anlatı bu katkıyı anar ama ayrıntısını vermez.[^k2] Katkının kapsamı
 metinden çıkarılamaz.
 
-Atlas bu boşluğu ayrıca kaydeder.[^k3] Bir keşif anlatısında yerel
-bilginin payı, çoğu zaman anlatının kendisinden ölçülemez.
+Bir keşif anlatısında yerel bilginin payı,
+çoğu zaman anlatının kendisinden ölçülemez.[^k3]
 
 ## Bir yüzyıl sonrasıyla karşılaştırma
 
@@ -167,11 +165,10 @@ kayıt, ada topluluklarını iş gücü kaynağı olarak anlatır.
 İki metin arasındaki fark anlatıcının amacındadır.[^k1] Birincisi
 haritalamak, ikincisi işçi toplamak için yazıldı.
 
-Atlas ikisini birlikte okur.[^k2] Aynı yerin iki kaydı, arada ne
-değiştiğini kaydın kendisinden gösterir.
+Aynı yerin iki kaydı, arada ne değiştiğini kaydın
+kendisinden gösterir.[^k2]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, seferin bütün duraklarını izlemez.[^k1] Duraklar künyede anılan
 metinden takip edilebilir.
 
@@ -182,8 +179,7 @@ Ham seyir defterlerinin doğrulanabilir çevrimiçi nüshası
 künyelenememiştir.[^k3] Künyedeki metin yayımlanmak üzere düzenlenmiş
 hâldir ve bu kısıt burada beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Karşılaşmanın nasıl adlandırılacağı için
 [Keşif mi istila mı](/tartisma/kesif-mi-istila-mi/) dosyası
 okunmalıdır.[^k1]

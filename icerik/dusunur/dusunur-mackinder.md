@@ -54,7 +54,7 @@ onarim_turu: 0
 ---
 
 Kaynak, 1904'te Kraliyet Coğrafya Cemiyeti'nde bir bildiri sunduğunu ve o
-bildiride kuramını formüle ettiğini yazar.[^k1] Bu dosya, kuramını değil
+bildiride kuramını formüle ettiğini yazar.[^k1] Bu inceleme, kuramını değil
 **kuramın kayda geçtiği bağlamı** ele alır.
 
 ## Siyasi konum değişikliği kuramdan bir yıl öncedir
@@ -64,8 +64,8 @@ ticareti desteklemediğini, Liberal Parti'den ayrılıp korumacılığı savundu
 Muhafazakâr Parti üyesi olduğunu yazar; kuramı 1904'te formüle ettiğini
 kaydeder.[^k1]
 
-İki tarihin yan yana kaydedilmesi,[^k1] atlasın bir kuramın yazılma bağlamını
-neden ayrı bir alan saydığını gösterir. Atlas iki kayıt arasında bir neden bağı
+İki tarihin yan yana kaydedilmesi,[^k1] korpusun bir kuramın yazılma bağlamını
+neden ayrı bir alan saydığını gösterir. Korpus iki kayıt arasında bir neden bağı
 kurmaz; kaynakta böyle bir bağ belirtilmemiştir.[^k1]
 
 ## Kaynak, önem nitelemesini bile koşullu yazar
@@ -73,7 +73,7 @@ kurmaz; kaynakta böyle bir bağ belirtilmemiştir.[^k1]
 Kaynak bildirinin sıklıkla alanının kurucu metinlerinden biri, hatta kurucu metni
 sayıldığını yazar; ifade bir düzeltme kaydıyla verilmiştir.[^k1]
 
-Bir ansiklopedinin kendi üstünlük ifadesini cümle içinde düzeltmesi,[^k1] atlasın
+Bir ansiklopedinin kendi üstünlük ifadesini cümle içinde düzeltmesi,[^k1] korpusun
 bu tür ifadeleri neden kaynağın koyduğu çekinceyle birlikte taşıdığını gösterir.
 
 ## Kariyer bir siyasi kariyerdir
@@ -93,7 +93,7 @@ tutulur; o yazarın 27 Eylül 1840'ta doğduğu ve 1 Aralık 1914'te öldüğü
 yazılır.[^k2] O yazar
 [Alfred Thayer Mahan](/dusunur/mahan/) dosyasında ele alınıyor.
 
-Kara gücü ile deniz gücü tezlerinin aynı on yıllara düşmesi,[^k1][^k2] atlasın
+Kara gücü ile deniz gücü tezlerinin aynı on yıllara düşmesi,[^k1][^k2] korpusun
 karşıt tezleri aynı dönem dosyasına bağlamasının gerekçesidir.
 
 ## Coğrafya ile yönetim biçimini birlikte ele alan önceki yazar
@@ -102,13 +102,12 @@ Bir önceki yüzyılların yazarı için tutulan kayıt, onun yönetim biçimler
 doğalcı bir açıklamasını kurduğunu yazar.[^k3] O yazar
 [Montesquieu](/dusunur/montesquieu/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kuramın içeriği, coğrafya eğitimi alanındaki çalışmaları ve sonraki alımlanması
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1]
 
 ## Eserine bağ
 
-Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Tarihin Cografi Ekseni*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+Bu inceleme düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Tarihin Cografi Ekseni*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
 verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

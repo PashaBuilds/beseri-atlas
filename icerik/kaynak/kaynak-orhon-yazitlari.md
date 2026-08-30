@@ -82,7 +82,7 @@ Uyarı şudur: halkın kendi yöneticisinden uzaklaşıp komşunun düzenine ve
 malına yaklaşması, siyasi varlığın kaybıyla sonuçlanır.[^k1][^k2] Metin bunu
 geçmişte yaşanmış bir olay olarak anlatır ve tekrarlanmaması için yazar.
 
-## Neden bu dosya önemli
+## Neden bu inceleme önemli
 
 Bozkır siyasi düzenleri hakkında bilinenlerin büyük bölümü komşu yerleşik
 devletlerin kayıtlarından gelir.[^k3] Bu kayıtlar dışarıdan yazılmıştır ve
@@ -90,12 +90,12 @@ yazıldıkları devletin çıkarını taşır.
 
 Yazıtlar bu dengeyi bozar. Burada bozkır düzeni kendini anlatır; komşusunu
 kendi ölçütleriyle değerlendirir ve kendi kaybını kendi diliyle
-açıklar.[^k1][^k2] Bu, atlasın bölge dosyaları için aradığı türden bir
+açıklar.[^k1][^k2] Bu, korpusun bölge dosyaları için aradığı türden bir
 kaynaktır.
 
-Atlasın kaynak katmanı, bu dosya yazılana kadar Orta Asya'dan tek bir metin
-içermiyordu.[^k3] Bölgenin aktör katmanında altı dosya bulunurken kendi
-sesini taşıyan hiçbir kayıt yoktu; dosya bu eksiği kapatır.
+Bölgenin aktör katmanında
+altı dosya bulunurken kendi sesini taşıyan hiçbir kayıt yoktu; dosya bu eksiği
+kapatır.[^k3]
 
 ## Taş kaydın sağladığı
 
@@ -123,26 +123,24 @@ sadakatine, başarısızlığı ise halkın kendinden uzaklaşmasına
 bağlar;[^k1][^k2] bu, [Meşruiyet](/kavram/mesruiyet/) dosyasında ele alınan
 gerekçelendirme biçimlerinden biridir.
 
-Atlas metni bu yüzden bir olgu kaydı olarak değil, bir devletin kendini nasıl
-anlattığının kaydı olarak kullanır.[^k3] İki kullanım arasındaki fark,
-kaynağın nereye kadar dayandığını belirler.
+İki kullanım arasındaki fark, kaynağın nereye
+kadar dayandığını belirler.[^k3]
 
 ## Kapsam dışı
 
-Bu dosya yazıtların ne olduğunu ve atlasta ne işe yaradığını kaydeder;
+Bu inceleme yazıtların ne olduğunu ve korpusta ne işe yaradığını kaydeder;
 satır satır içeriğini vermez.[^k1] Metnin kendisi kaynakta erişilebilir
 durumdadır.
 
 Yazıtların dil ve alfabe özellikleri, okuma tarihi ve çözümlenme süreci de
-burada işlenmez.[^k2][^k3] Bunlar ayrı dosyalar gerektirir ve bu dosya
-yazıldığında atlasta bulunmuyorlardı.
+burada işlenmez.[^k2][^k3] Bunlar ayrı dosyalar gerektirir ve bu inceleme
+yazıldığında korpusta bulunmuyorlardı.
 
 Aynı bölgede bulunan öteki yazıt gruplarıyla karşılaştırma da kapsam
-dışıdır.[^k3] Atlasın Orta Asya kaynak katmanı bu dosyayla başlar; genişlemesi
+dışıdır.[^k3] Korpusun Orta Asya kaynak katmanı bu incelemeyle başlar; genişlemesi
 sonraki turlara bırakılmıştır.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Yazıtları diktiren siyasi birim için
 [Göktürk Kağanlığı](/aktor/gokturk-kaganligi/), bu birimin ait olduğu düzen
 biçimi için [Bozkır imparatorluğu](/kavram/bozkir-imparatorlugu/) dosyaları

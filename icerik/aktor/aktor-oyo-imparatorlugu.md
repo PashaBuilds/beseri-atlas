@@ -64,7 +64,7 @@ Ayırt edici yanı yönetim yapısıdır.[^k2] Hükümdarın karşısında,
 yetkisini sınırlayan ve gerektiğinde onu görevden alabilen bir kurul
 vardı.
 
-Bu dosyanın konusu sefer tarihi değildir.[^k3] Bu sınırlamanın nasıl
+Bu incelemenin konusu sefer tarihi değildir.[^k3] Bu sınırlamanın nasıl
 işlediği ve neyi ürettiğidir.
 
 ## Meclisin yetkisi
@@ -75,9 +75,9 @@ oluşuyordu.[^k2] Hükümdarı seçme yetkisi de bu kuruldaydı.
 Kurul, hükümdara güvenini çektiğini bildirebiliyordu.[^k1] Bildirimin
 sonucu hükümdarın görevi bırakmasıydı.
 
-Atlas bu düzenlemeyi ayrıca kaydeder.[^k3] **Yetkinin en tepede
-sınırlandırılması, sınırı uygulayacak bir kurulun ve uygulamanın
-tanınmış bir biçiminin bulunmasına bağlıdır.**
+**Yetkinin en tepede sınırlandırılması,
+sınırı uygulayacak bir kurulun ve uygulamanın tanınmış bir biçiminin bulunmasına
+bağlıdır.**[^k3]
 
 ## Sınırın işlemesi için gereken
 
@@ -99,8 +99,8 @@ yetkisi, kurulun kendi iç çekişmelerinin aracına dönüşebilir.
 Kayıtlarda bu yönde bir dönem vardır.[^k1] Ardı ardına gelen görevden
 almalar, merkezin sürekliliğini zayıflattı.
 
-Atlas bu sonucu ayrıca kaydeder.[^k3] Bir denetim aracı, sık
-kullanıldığında denetlediği makamı işlevsiz bırakabilir.
+Bir denetim aracı, sık kullanıldığında
+denetlediği makamı işlevsiz bırakabilir.[^k3]
 
 ## Dönemlendirme sorunu
 
@@ -108,12 +108,11 @@ Düzenin ne zaman kurulduğu kesin değildir.[^k2] Aktarımlar bir kuruluş
 anlatısı verir ama tarih vermez.
 
 Kuruluş anlatısı, hanedanın kökenini uzak bir kutsal merkeze
-bağlar.[^k1] Bu, atlasın kuruluş anlatısı dosyasında tanımlanan
+bağlar.[^k1] Bu, korpusun kuruluş anlatısı dosyasında tanımlanan
 işlevin bir örneğidir.
 
-Atlas bu yüzden başlangıç tarihini aralıkla verir.[^k3] Anlatının
-verdiği köken ile arkeolojik ve yazılı kaydın verdiği tarih ayrı ayrı
-kaydedilir.
+Anlatının verdiği köken ile arkeolojik ve
+yazılı kaydın verdiği tarih ayrı ayrı kaydedilir.[^k3]
 
 ## Askerî temel
 
@@ -123,9 +122,8 @@ getiriliyordu.
 Bu, iki bağımlılık üretti.[^k3] At tedariki kuzey ticaret yollarına,
 yem ve bakım ise açık savana koşullarına bağlıydı.
 
-Atlas bu bağımlılıkları ayrıca kaydeder.[^k2] Bir askerî üstünlüğün
-kaynağı dışarıdan geliyorsa, o kaynağın kesilmesi üstünlüğü doğrudan
-sona erdirir.
+Bir askerî üstünlüğün kaynağı dışarıdan
+geliyorsa, o kaynağın kesilmesi üstünlüğü doğrudan sona erdirir.[^k2]
 
 ## Coğrafi sınır
 
@@ -135,19 +133,19 @@ kesimlerde aynı üstünlük sağlanamıyordu.
 Bu, imparatorluğun sınırlarını belirledi.[^k3] Genişleme, açık arazinin
 bittiği yerde durdu.
 
-Atlas bu sınırı ayrıca kaydeder.[^k2] Bir düzenin kapsamı, siyasi
-kararlardan önce kullandığı askerî aracın çalıştığı arazinin sınırıdır.
+Bir düzenin kapsamı, siyasi
+kararlardan önce kullandığı askerî aracın çalıştığı arazinin sınırıdır.[^k2]
 
 ## Vasal düzen
 
 Denetim, doğrudan yönetim biçiminde değildi.[^k1] Bağlı kentler kendi
 yöneticilerini korudu ve düzenli ödeme yaptı.
 
-Bu, atlasın himaye dosyasında tanımlanan yapının bir biçimidir.[^k3]
+Bu, korpusun himaye dosyasında tanımlanan yapının bir biçimidir.[^k3]
 Yönetim maliyeti yerel yöneticiye bırakılır.
 
-Atlas bu benzerliği ayrıca kaydeder.[^k2] Aynı hesap, birbirinden
-bağımsız kıtalarda ve dönemlerde tekrarlanır.
+Aynı hesap, birbirinden bağımsız kıtalarda ve
+dönemlerde tekrarlanır.[^k2]
 
 ## Ticaretle bağlantı
 
@@ -158,9 +156,8 @@ ucundaydı.
 Taşınan mallar arasında insanlar da vardı.[^k3] Bölge, Atlantik
 üzerinden yürütülen taşımanın kaynak alanlarından biriydi.
 
-Atlas bu bağı açıkça kaydeder.[^k2] Bir düzenin geliri, atlasın ayrı
-bir dosyasında ele alınan bir taşımanın parçasıysa, bu bağ dosyada
-gizlenmez.
+Bir düzenin geliri, korpusun ayrı bir
+dosyasında ele alınan bir taşımanın parçasıysa, bu bağ dosyada gizlenmez.[^k2]
 
 ## Başkentin konumu
 
@@ -171,9 +168,8 @@ Kuzeye doğru atlı birlik kullanılabiliyor, güneye doğru orman
 ürünlerine ve kıyı ticaretine erişilebiliyordu.[^k3] İki farklı
 ekonomiye aynı anda bağlanmak, konumun sağladığı asıl imkândı.
 
-Atlas bu tür konumları ayrıca kaydeder.[^k2] İki ekolojik kuşağın
-sınırında kurulan merkezler, iki ayrı ürün ve iki ayrı ulaşım
-biçimine erişir.
+İki ekolojik kuşağın sınırında kurulan merkezler, iki
+ayrı ürün ve iki ayrı ulaşım biçimine erişir.[^k2]
 
 ## Vergi ve haraç
 
@@ -183,9 +179,8 @@ bağlılığın yenilenmesi anlamına da geliyordu.
 Ödemenin kesilmesi bir bildirimdi.[^k1] Bağlılıktan çıkmak, ayrı bir
 ilan gerektirmiyordu.
 
-Atlas bu düzenlemeyi ayrıca kaydeder.[^k3] Bir bağlılığın düzenli bir
-işlemle yenilenmesi, o işlemin durmasını doğrudan bir siyasi
-bildirime çevirir.
+Bir bağlılığın düzenli bir işlemle
+yenilenmesi, o işlemin durmasını doğrudan bir siyasi bildirime çevirir.[^k3]
 
 ## Askerî komutanın konumu
 
@@ -195,9 +190,9 @@ yürütüyor ve kendi birliklerine dayanıyordu.
 Bu, hükümdar ile komutan arasında sürekli bir gerilim üretti.[^k2]
 Kayıtlarda bu gerilimin çatışmaya dönüştüğü dönemler vardır.
 
-Atlas bu yapıyı ayrıca kaydeder.[^k3] Bir düzende askerî yetki ile
-siyasi yetkinin ayrı kişilerde toplanması, denetim sağlar ve aynı
-anda kriz kaynağı olur.
+Bir düzende askerî yetki ile
+siyasi yetkinin ayrı kişilerde toplanması, denetim sağlar ve aynı anda kriz kaynağı
+olur.[^k3]
 
 ## Kadınların yönetimdeki yeri
 
@@ -208,9 +203,8 @@ Bazı görevliler, hükümdarla vasal yöneticiler arasındaki iletişimi
 yürütüyordu.[^k1] Bu, bilgi akışı üzerinde fiilî bir denetim
 demektir.
 
-Atlas bu konumu ayrıca kaydeder.[^k3] Resmî yetki listesinde
-görünmeyen bir görev, bilgi akışını denetliyorsa fiilî bir güç
-konumudur.
+Resmî yetki listesinde görünmeyen bir görev, bilgi
+akışını denetliyorsa fiilî bir güç konumudur.[^k3]
 
 ## Dinî düzenin rolü
 
@@ -220,9 +214,8 @@ kehanet düzeni, göreve gelişin ve görevden ayrılışın parçasıydı.
 Aynı çerçeve, görevden alma işlemini de meşrulaştırıyordu.[^k2] Kurul
 kararı, dinî bir usulle bildiriliyordu.
 
-Atlas bu ikili işlevi ayrıca kaydeder.[^k3] Bir meşruiyet kaynağı, hem
-göreve getirmeyi hem görevden almayı aynı anda gerekçelendirebiliyorsa,
-iki tarafın da elindedir.
+Bir meşruiyet kaynağı, hem göreve getirmeyi hem
+görevden almayı aynı anda gerekçelendirebiliyorsa, iki tarafın da elindedir.[^k3]
 
 ## Kuzeyden gelen baskı
 
@@ -232,9 +225,8 @@ düzen güneye doğru genişledi.
 Baskı yalnızca askerî değildi.[^k3] Kuzeydeki değişim, at ticaretini ve
 kuzey yollarını da yeniden düzenledi.
 
-Atlas iki etkiyi ayrı ayrı sayar.[^k2] Doğrudan askerî baskı ile
-tedarik yolunun kesilmesi, aynı sonuca götüren iki ayrı
-mekanizmadır.
+Doğrudan askerî baskı ile tedarik yolunun
+kesilmesi, aynı sonuca götüren iki ayrı mekanizmadır.[^k2]
 
 ## Çözülme
 
@@ -245,8 +237,8 @@ Merkezdeki iç çekişme, vasal kentlerin ayrılması ve kuzeyden gelen
 askerî baskı aynı dönemde yaşandı.[^k3] Atlı birliklerin tedarik yolu
 da kesildi.
 
-Atlas bu çokluğu ayrıca kaydeder.[^k2] Uzun ömürlü bir düzenin
-çözülmesi, tek bir nedene indirgenemez.
+Uzun ömürlü bir düzenin çözülmesi, tek bir nedene
+indirgenemez.[^k2]
 
 ## Sonrasında kurulan düzenler
 
@@ -257,8 +249,8 @@ Savaşlar, kıyıdaki Avrupa varlığının iç kesimlere ilerlemesini
 kolaylaştırdı.[^k3] Bölünmüş bir alan, tek tek anlaşma yapmaya
 elverişlidir.
 
-Atlas bu bağı ayrıca kaydeder.[^k2] Bir düzenin çözülmesi, yerine
-gelen boşluğu dolduracak dış aktörler için bir imkândır.
+Bir düzenin çözülmesi, yerine gelen
+boşluğu dolduracak dış aktörler için bir imkândır.[^k2]
 
 ## Yerleşim yoğunluğu
 
@@ -269,8 +261,8 @@ gidiliyordu.
 Bu, kıtanın başka bölgelerindeki dağınık yerleşimden farklıdır.[^k1]
 Yoğunluk, savunmayı ve vergi toplamayı kolaylaştırır.
 
-Atlas bu farkı ayrıca kaydeder.[^k3] Yerleşim yoğunluğu, bir düzenin
-hem askerî hem mali kapasitesini doğrudan belirler.
+Yerleşim yoğunluğu, bir düzenin hem askerî hem mali
+kapasitesini doğrudan belirler.[^k3]
 
 ## Zanaat ve pazar
 
@@ -280,8 +272,8 @@ boyacılık düzenli pazarlara bağlıydı.
 Pazarlar belirli günlerde ve dönüşümlü olarak kuruluyordu.[^k1] Bu,
 komşu yerleşimler arasında düzenli bir dolaşım üretiyordu.
 
-Atlas bu düzeni ayrıca kaydeder.[^k3] Dönüşümlü pazar takvimi, siyasi
-sınırlardan bağımsız bir bağlantı ağı kurar.
+Dönüşümlü pazar takvimi, siyasi
+sınırlardan bağımsız bir bağlantı ağı kurar.[^k3]
 
 ## Sonraki dönemdeki izi
 
@@ -292,9 +284,8 @@ bu biçimlere dayandı.
 Bu, dolaylı yönetim uygulamasının bir örneğidir.[^k2] Var olan bir
 yetki düzeni, yeni bir merkeze bağlanarak sürdürülür.
 
-Atlas bu sürekliliği ayrıca kaydeder.[^k3] Bir düzenin siyasi olarak
-sona ermesi, kurumsal biçimlerinin de sona erdiği anlamına
-gelmez.
+Bir düzenin siyasi olarak sona ermesi, kurumsal
+biçimlerinin de sona erdiği anlamına gelmez.[^k3]
 
 ## Kaydın kaynağı
 
@@ -305,9 +296,9 @@ yazıya geçirdi.
 Eser yazarın ölümünden sonra yayımlandı.[^k1] Yazma ile yayımlanma
 arasında uzun bir süre vardır.
 
-Atlas bu kaydı ayrıca değerlendirir.[^k3] Sözlü aktarıma dayanan bir
-yazılı tarih, hem birinci elden bir derleme hem de derlendiği
-dönemin çerçevesini taşıyan bir metindir.
+Sözlü aktarıma dayanan bir yazılı
+tarih, hem birinci elden bir derleme hem de derlendiği dönemin çerçevesini taşıyan bir
+metindir.[^k3]
 
 ## Kaydın kendi çerçevesi
 
@@ -318,11 +309,10 @@ Bu, anlatının merkezini belirler.[^k1] Hangi kentin başat sayıldığı ve
 hangi olayın dönüm noktası olarak anlatıldığı bu konumdan
 etkilenir.
 
-Atlas bu çerçeveyi eksiklik saymaz.[^k3] Her kaydın bir konumu vardır;
-önemli olan konumun bilinmesidir.
+Her kaydın bir konumu vardır; önemli
+olan konumun bilinmesidir.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, bağlı kentlerin tek tek tarihini vermez.[^k1] Her birinin
 kendi hanedanı, kendi pazarı ve kendi bağlılık tarihi vardır ve ayrı
 bir dosyayı hak eder.
@@ -334,8 +324,7 @@ Dönemin kendi yazılı belgelerinden doğrulanabilir bir künye
 verilememiştir.[^k2] Künyedeki birincil kaynak yirminci yüzyılda
 derlenmiş bir metindir ve bu kısıt burada beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Komşu düzenler için [Benin Krallığı](/aktor/benin-kralligi/) ve
 [Dahomey Krallığı](/aktor/dahomey-kralligi/) dosyaları
 okunmalıdır.[^k1]

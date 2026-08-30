@@ -65,7 +65,7 @@ onarim_turu: 0
 ## Nerede durduğu
 
 Teotihuacan, Orta Amerika'nın yüksek yaylasında, bir vadi tabanında kurulmuş
-bir şehirdir.[^k1] Atlasın bölge şemasında yalnızca Amerika etiketi taşır.
+bir şehirdir.[^k1] Korpusun bölge şemasında yalnızca Amerika etiketi taşır.
 
 Şehir, kurulduğu dönemde dünyanın en kalabalık yerleşimlerinden
 biriydi.[^k1] Planlı bir ızgara düzeni, geniş bir tören ekseni ve binlerce
@@ -81,12 +81,12 @@ Bugün kullanılan ad, şehir terk edildikten yüzyıllar sonra bölgeye gelen
 başka bir topluluk tarafından verilmiştir.[^k1] Şehri kuranların ona ne
 dediği bilinmez.
 
-Bu, atlasın başka bölgelerinde de kaydettiği bir durumdur.[^k4] Yazı
+Bu, korpusun başka bölgelerinde de kaydettiği bir durumdur.[^k4] Yazı
 bırakmamış ya da yazısı çözülmemiş düzenlerin adları, onları sonradan
 bulanlar tarafından verilir.
 
-Atlas yerleşmiş adı kullanır ve kaynağını burada beyan eder.[^k1] Ad
-seçiminin tarafsız bir işlem olmadığı, atlasın genel kuralıdır.
+Ad seçiminin tarafsız bir işlem olmadığı,
+korpusun genel kuralıdır.[^k1]
 
 ## Yazı sorunu
 
@@ -104,8 +104,8 @@ olduğu sorusunu da doğurur.]{harita=tartisma-sozlu-gelenek-kaynak-mi}
 
 ## Ölçek ile kayıt arasındaki kopukluk
 
-Bu dosyanın merkezindeki gözlem şudur: şehrin büyüklüğü ile hakkındaki
-kaydın azlığı ters orantılıdır.[^k1] Atlasın kaydettiği benzer ölçekli
+Bu incelemenin merkezindeki gözlem şudur: şehrin büyüklüğü ile hakkındaki
+kaydın azlığı ters orantılıdır.[^k1] incelenen benzer ölçekli
 şehirlerin hepsinde hükümdar listeleri, yıllıklar ya da idari kayıtlar
 bulunur.
 
@@ -113,16 +113,16 @@ Bu, yaygın bir varsayımı sınırlar.[^k2] Büyük ölçekli bir kentsel düze
 ayrıntılı yazılı kayıt gerektirdiği varsayımı, bu örnekle
 zayıflar.
 
-Atlas alternatif açıklamaları kaydeder ve seçim yapmaz.[^k1] Kayıtlar
-tutulmuş ve yok olmuş olabilir; başka bir ortamda tutulmuş olabilir; ya da
-sistem kaydı gerektirmeyecek biçimde işlemiş olabilir.
+Kayıtlar tutulmuş ve yok olmuş olabilir; başka
+bir ortamda tutulmuş olabilir; ya da sistem kaydı gerektirmeyecek biçimde işlemiş
+olabilir.[^k1]
 
 ## Konut düzeni
 
 Şehrin en çok araştırılmış yanı, konut birimleridir.[^k1] Binlerce kişi,
 avlu çevresinde örgütlenmiş çok haneli yapılarda yaşıyordu.
 
-Bu yapı biçimi, atlasın kaydettiği dönem şehirlerinde seyrek
+Bu yapı biçimi, incelenen dönem şehirlerinde seyrek
 görülür.[^k4] Tek haneli konut yerine ortak avlulu birimler, hane
 ötesinde bir örgütlenme birimi bulunduğunu gösterir.
 
@@ -140,7 +140,7 @@ Bu bulgu, şehri bölgesel bir çekim merkezi yapar.[^k4] Uzak bölgelerden
 gelenlerin kalıcı mahalleler kurması, ticaret ve göçün süreklilik
 taşıdığını gösterir.
 
-Aynı yapı, atlasın liman devletleri dosyalarında da kaydedilmiştir.[^k1]
+Aynı yapı, korpusun liman devletleri dosyalarında da kaydedilmiştir.[^k1]
 Yabancı toplulukların kendi mahallelerinde örgütlenmesi, kıyıdan uzak bir
 kara şehrinde de görülüyor.
 
@@ -150,7 +150,7 @@ kara şehrinde de görülüyor.
 dağıtımıydı.[^k1] Yakındaki yataklar işleniyor ve ürünler geniş bir alana
 gönderiliyordu.
 
-Bu, atlasın kaydettiği tek kaynağa dayalı ekonomilerle
+Bu tek kaynağa dayalı ekonomilerle
 karşılaştırılabilir.[^k4] Bir malın üretimini ve dağıtımını denetlemek,
 uzak bölgeler üzerinde etki kurmanın yollarından biridir.
 
@@ -162,13 +162,13 @@ tahakküm mü olduğu, elde bulunan kanıtla ayrıştırılamaz.
 Şehrin yapıları geniş duvar resimleriyle kaplıydı.[^k2] Resimler tören
 sahneleri, doğa unsurları ve tekrar eden figürler taşır.
 
-Resimlerde bireysel portre yoktur ve bu bir bilgidir.[^k2] Atlasın öteki
+Resimlerde bireysel portre yoktur ve bu bir bilgidir.[^k2] Korpusun öteki
 dosyalarında hükümdar tasvirleri kişiseldir; burada figürler
 standartlaşmıştır ve ayırt edici kişisel özellik taşımaz.
 
 Bu gözlem, yönetim biçimine dair bir çıkarıma dayanak yapılmıştır.[^k3]
 Bireysel hükümdar tasvirinin bulunmaması, ortak ya da kurumsal bir yönetim
-biçimini işaret ediyor olabilir; çıkarım tartışmalıdır ve atlas bir sonuca
+biçimini işaret ediyor olabilir; çıkarım tartışmalıdır ve korpus bir sonuca
 bağlanmaz.
 
 ## Yönetim biçimi sorusu
@@ -178,11 +178,11 @@ hükümdar, bir konsey, rakip hanedanlar ve bunların dönüşümlü biçimleri 
 sürülmüştür.
 
 Tartışmanın çözülememesinin sebebi kanıt türüdür.[^k3] Nesne ve mimari
-kanıtı yapıyı gösterir; karar mekanizmasını göstermez ve bu, atlasın Moche
+kanıtı yapıyı gösterir; karar mekanizmasını göstermez ve bu, korpusun Moche
 dosyasında da kaydedilen sınırdır.
 
-Atlas bu yüzden künyede bir devlet biçimi belirtmez.[^k1] Dosyanın başlığı
-bir yer adıdır; bu tercih, siyasi biçimin bilinmediğinin kaydıdır.
+Dosyanın başlığı bir yer adıdır; bu
+tercih, siyasi biçimin bilinmediğinin kaydıdır.[^k1]
 
 ## Komşularla ilişki
 
@@ -193,9 +193,8 @@ kişilerden söz edilir.
 Bu, dosyanın ilginç bir yanıdır.[^k4] Şehir hakkındaki en açık yazılı kayıt,
 kendi kayıtlarında değil komşularının kayıtlarında bulunur.
 
-Atlasın [Maya uygarlığı](/aktor/maya-uygarligi/) dosyası o kayıtların geldiği
-bölgeyi anlatır.[^k1] İki dosyanın birlikte okunması, bir düzenin dışarıdan
-nasıl göründüğünü gösterir.
+İki dosyanın birlikte
+okunması, bir düzenin dışarıdan nasıl göründüğünü gösterir.[^k1]
 
 ## Dışarıdan görünmenin sınırı
 
@@ -207,8 +206,8 @@ müdahaleler.
 hakkında yalnızca komşularının kaydı varsa, bilinen şey o düzenin dış
 ilişkileridir; iç düzeni değil.
 
-Atlas bu ayrımı korur ve iki bilgi türünü karıştırmaz.[^k2] Dış ilişkiler
-yazılı kayıttan, iç düzen nesne ve mimari kanıtından okunur.
+Dış ilişkiler yazılı kayıttan, iç düzen nesne ve
+mimari kanıtından okunur.[^k2]
 
 ## Yıkımın biçimi
 
@@ -220,8 +219,8 @@ Seçicilik, olayın niteliği hakkında bilgi verir.[^k4] Dışarıdan gelen bir
 istila genellikle ayrım gözetmez; hedefli bir yıkım, içeriden bir hesaplaşmayı
 düşündürür.
 
-Atlas çıkarımı kaydeder ve kesinlik önermez.[^k1] Yakmanın kim tarafından
-yapıldığı bilinmemektedir ve iki okuma da savunulabilir.
+Yakmanın kim tarafından yapıldığı
+bilinmemektedir ve iki okuma da savunulabilir.[^k1]
 
 ## Şehrin sonrası
 
@@ -232,7 +231,7 @@ Yüzyıllar sonra bölgeye gelen bir başka düzen, harabeleri kutsal saydı ve
 kendi kuruluş anlatısına bağladı.[^k1] Şehrin bugünkü adı da o dönemden
 gelir.
 
-Bu, atlasın kaydettiği bir olgudur.[^k4] Bir yıkıntı, sonraki düzenler için
+Bu bir olgudur.[^k4] Bir yıkıntı, sonraki düzenler için
 bir meşruiyet kaynağına dönüşebilir ve bu dönüşüm, yıkıntının kendi
 tarihinden bağımsızdır.
 
@@ -245,42 +244,40 @@ Hesaplama bir varsayım zinciri gerektirir: birim başına hane sayısı ve hane
 başına kişi sayısı varsayılmalıdır.[^k4] Zincirin halkaları tartışmalıdır ve
 sonuçlar geniş bir aralıkta değişir.
 
-Atlas bu yüzden bu dosyada nüfus rakamı vermez.[^k2] Yerleşim alanının
-büyüklüğü ise ölçülebilir bir veridir ve karşılaştırma için kullanılabilir.
+Yerleşim alanının büyüklüğü ise
+ölçülebilir bir veridir ve karşılaştırma için kullanılabilir.[^k2]
 
 ## Kaynak durumu
 
-Bu dosya dört kaynağa dayanır ve üçü birincildir.[^k2][^k3][^k4] Üç birincil
+Bu inceleme dört kaynağa dayanır ve üçü birincildir.[^k2][^k3][^k4] Üç birincil
 künye, müze katalog kayıtlarıdır ve `nesne` alt türünü taşır.
 
-Bu, atlasın nesne kanıtına en çok dayanan dosyasıdır.[^k2] Alt tür, iki tur
+Bu, korpusun nesne kanıtına en çok dayanan dosyasıdır.[^k2] Alt tür, iki tur
 önce şemaya eklendi ve burada üç künyeyle kullanılıyor.
 
 Kısıt açıkça beyan edilmelidir.[^k3] Üç nesne, bir şehrin tamamını temsil
 etmez; künyeler örnek niteliğindedir ve dosyadaki genel değerlendirmeler
 giriş kapısı maddesinin aktarımına dayanır.
 
-## Bu dosyanın kapsamadıkları
-
+## Açıkta kalan sorular
 Kazı alanlarının tek tek tarihi ve bulguları burada işlenmez.[^k1] Her biri
 ayrı dosya gerektirir.
 
-Duvar resimlerinin ikonografik çözümlemesi de kapsam dışıdır.[^k2] Bu dosya
+Duvar resimlerinin ikonografik çözümlemesi de kapsam dışıdır.[^k2] Bu inceleme
 resimleri kanıt olarak kullanır; içeriklerini yorumlamaz.
 
-Bölgedeki sonraki düzenlerin tarihi burada verilmez.[^k1] Atlasın
+Bölgedeki sonraki düzenlerin tarihi burada verilmez.[^k1] Korpusun
 [Aztek İmparatorluğu](/aktor/aztek-imparatorlugu/) dosyası o dönemi ele
 alır.
 
-## Atlastaki yeri
-
-Bu dosya, atlasın Amerika aktör katmanına bir şehri ekler.[^k1] Katmandaki
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun Amerika aktör katmanına bir şehri ekler.[^k1] Katmandaki
 öteki dosyalar imparatorluk, uygarlık ya da kültür adı taşır.
 
 Ayrım bilinçlidir.[^k4] Şehrin siyasi biçimi bilinmediği için, dosya bir
 devlet adıyla değil bir yer adıyla künyelenmiştir.
 
-Bu, atlasın genel bir kuralının uygulanmasıdır.[^k3] Bilinmeyen bir şeyi
+Bu, korpusun genel bir kuralının uygulanmasıdır.[^k3] Bilinmeyen bir şeyi
 bilinen bir kategoriyle adlandırmak, bilinmezliği görünmez kılar.
 
 ## Planlamanın kendisi bir kanıt
@@ -293,12 +290,10 @@ Böyle bir sürekliliğin kendisi bir yönetim kanıtıdır.[^k4] Bir plana
 kuşaklar boyunca uyulması, planı koruyan ve uygulatan sürekli bir otoritenin
 varlığını gösterir; otoritenin biçimini göstermez ama varlığını gösterir.
 
-Atlas bu çıkarımı kaydeder çünkü nesne kanıtından yapılabilen en güçlü
-siyasi çıkarımlardan biridir.[^k2] Tek tek yapılar bir dönemin ürünüdür;
-bir planın sürdürülmesi, dönemler arası bir kurumun ürünüdür.
+Tek tek yapılar bir dönemin
+ürünüdür; bir planın sürdürülmesi, dönemler arası bir kurumun ürünüdür.[^k2]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Komşu bölgenin yazılı kayıt geleneği için
 [Maya uygarlığı](/aktor/maya-uygarligi/), harabeleri kutsal sayan sonraki
 düzen için [Aztek İmparatorluğu](/aktor/aztek-imparatorlugu/) dosyaları

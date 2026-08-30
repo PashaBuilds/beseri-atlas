@@ -62,8 +62,8 @@ Kapsanan alan, modern öncesi dünyanın en geniş insan yayılmasıdır.[^k1] �
 uç arasındaki mesafe, dünyanın çevresinin yarısından fazlasına karşılık
 gelir.
 
-Bu dosya, atlasın **Okyanusya bölgesindeki ilk dosyasıdır.**[^k2] Bölge
-etiketi, bu dosya yazılırken atlasın şemasına eklendi; o zamana kadar
+Bu inceleme, korpusun **Okyanusya bölgesindeki ilk dosyasıdır.**[^k2] Bölge
+etiketi, bu inceleme yazılırken korpusun şemasına eklendi; o zamana kadar
 şema, bir dünya bölgesini temsil etmeyi yapısal olarak imkânsız kılıyordu.
 
 ## Kanıtın üç ayağı
@@ -82,9 +82,8 @@ tarihini üçüncü kez sınar.
 
 ## Üç kanıtın örtüşmesi neden önemli
 
-Atlasın öteki dosyalarında bu kadar bağımsız kanıt türü seyrek
-bulunur.[^k1] Üçünün aynı yönü göstermesi, tek bir kanıt türüne
-dayanmaktan çok daha güçlü bir zemindir.
+Üçünün aynı yönü göstermesi, tek bir
+kanıt türüne dayanmaktan çok daha güçlü bir zemindir.[^k1]
 
 Örtüşmeyen ayrıntılar da vardır ve kaydedilmelidir.[^k3] Dilbilimin verdiği
 ayrışma tarihleri ile arkeolojinin verdiği yerleşim tarihleri her adada
@@ -92,7 +91,7 @@ birebir uyuşmaz.
 
 ::tartismali[Yayılmanın hızı, güzergâhı ve tek bir dalga mı yoksa birden çok
 dalga mı olduğu tartışmalıdır; dilbilim ile arkeolojinin verdiği tarihler
-bazı adalarda ayrışır. Atlas bir okumayı benimsemez.]{harita=tartisma-sozlu-gelenek-kaynak-mi}
+bazı adalarda ayrışır. Korpus bir okumayı benimsemez.]{harita=tartisma-sozlu-gelenek-kaynak-mi}
 
 ## Teknolojinin payı
 
@@ -104,47 +103,44 @@ Teknoloji tek başına yeterli değildir.[^k2] Bir adaya varmak kadar oraya
 yerleşebilmek de gerekir; bu, yanınızda bitki, hayvan ve tohum taşımayı ve
 varılan yerde bunları üretime sokmayı gerektirir.
 
-Atlas bu ikinci unsuru ayrıca kaydeder.[^k1] Yayılma bir keşif dizisi değil,
-tekrarlanabilir bir yerleşim programıdır ve tekrarlanabilirliği onu
-olağandışı kılar.
+Yayılma bir keşif dizisi değil, tekrarlanabilir
+bir yerleşim programıdır ve tekrarlanabilirliği onu olağandışı kılar.[^k1]
 
 ## Dökümün nesne olmadığı
 
-Bu dosyanın bir künyesi, bir nesnenin kendisi değil bir **dökümüdür** ve bu
+Bu incelemenin bir künyesi, bir nesnenin kendisi değil bir **dökümüdür** ve bu
 künyede ayrıca belirtilmiştir.[^k3] Döküm, yirminci yüzyılda alınmış bir
 kopyadır.
 
-Ayrım atlas için önemlidir.[^k3] Nesne künyeleri, nesnenin kendisine
+Ayrım korpus için önemlidir.[^k3] Nesne künyeleri, nesnenin kendisine
 erişimi belgeler; bir döküm, biçimi belgeler ama malzemeyi, yapım izlerini
 ve buluntu bağlamını belgelemez.
 
-Atlas kopyayı künyeye almayı tercih etti ve niteliğini beyan etti.[^k1]
-Alternatif, o kanıt türünü hiç göstermemekti; beyan edilmiş bir kopya,
-gösterilmemiş bir kanıttan daha kullanışlıdır.
+Alternatif, o kanıt türünü hiç
+göstermemekti; beyan edilmiş bir kopya, gösterilmemiş bir kanıttan daha
+kullanışlıdır.[^k1]
 
 ## Uçlardaki iki ada
 
 Yayılmanın batı ucundaki büyük ada, dil olarak bu aileye bağlıdır ve
-Afrika kıyısındadır.[^k1] Bu, atlasın kaydettiği en uzun tek yönlü deniz
-yerleşimidir.
+Afrika kıyısındadır.[^k1] Bu güzergâh, incelenen örnekler arasında coğrafi
+ölçekte en uzun tek yönlü deniz yerleşimidir.
 
-Bağlantı, atlasın [Hint Okyanusu ticareti](/kavram/hint-okyanusu-ticareti/)
-dosyasıyla kesişir.[^k2] O ağın işlediği sular, bu yerleşimin de geçtiği
+Bağlantı, [Hint Okyanusu ticareti](/kavram/hint-okyanusu-ticareti/) incelemesiyle kesişir.[^k2] O ağın işlediği sular, bu yerleşimin de geçtiği
 sulardır ve iki olgu birbirinden bağımsız değildir.
 
 Doğu ucundaki ada ise Pasifik'in en izole yerleşimlerinden biridir.[^k1] İki
 uç arasındaki fark, aynı yayılmanın çok farklı sonuçlar üretebildiğini
 gösterir.
 
-## Atlastaki yeri ve sınırı
-
-Bu dosya bir bölgeyi açar ama doldurmaz.[^k1] Okyanusya etiketi bu dosyayla
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme bir bölgeyi açar ama doldurmaz.[^k1] Okyanusya etiketi bu incelemeyle
 kullanılabilir hâle geldi; bölgenin aktör, olay ve kaynak katmanları
 neredeyse boştur.
 
-Eksik açıkça beyan edilmelidir.[^k3] Atlasın bölge dağılımında Okyanusya,
+Eksik açıkça beyan edilmelidir.[^k3] Korpusun bölge dağılımında Okyanusya,
 öteki sekiz bölgenin toplamının yanında sayılamayacak kadar küçük bir pay
-tutar ve bu, bölgenin tarihsel önemsizliğini değil atlasın eksiğini
+tutar ve bu, bölgenin tarihsel önemsizliğini değil korpusun eksiğini
 gösterir.
 
 Dosyanın kapsamadıkları da yazılmalıdır.[^k2] Yayılmanın tek tek ada
@@ -161,12 +157,11 @@ Bu ölçütün bir varsayımı vardır ve beyan edilmelidir.[^k3] Çeşitliliği
 zamanla arttığı varsayılır; oysa çeşitlilik, göç, izolasyon ve nüfus
 kayıplarıyla da değişir ve her zaman yaşla orantılı değildir.
 
-Atlas ölçütü kaydeder ve mutlak saymaz.[^k2] Dilbilimsel ağacın verdiği yön
-arkeoloji tarafından desteklendiği ölçüde güçlüdür; tek başına bir yayılma
-tarihi kurmaz.
+Dilbilimsel ağacın verdiği yön
+arkeoloji tarafından desteklendiği ölçüde güçlüdür; tek başına bir yayılma tarihi
+kurmaz.[^k2]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Yayılmanın güney ucundaki bir toplum için [Maori](/aktor/maori/), aynı dil
 ailesinin batı ucundaki siyasi düzenler için
 [Srivijaya](/aktor/srivijaya/) ve [Majapahit](/aktor/majapahit/) dosyaları

@@ -15,11 +15,12 @@ ilgili:
   - kavram-taoizm
   - kavram-legalizm
   - dusunur-han-feizi
-  - kavram-anakronizm
   - tartisma-feodalite-kavrami
   - dusunur-zhu-xi
   - dusunur-mengzi
   - dusunur-wang-yangming
+baglam:
+  - kavram-anakronizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -68,13 +69,13 @@ yitirilmesi hâlinde yöneticinin konumunun tartışılabileceğini söyler.[^k3
 
 ## Üçlünün tamamlanması
 
-Bu dosya, atlasın Doğu Asya kavram katmanındaki üçüncü ve son halkadır.
+Bu inceleme, korpusun Doğu Asya kavram katmanındaki üçüncü ve son halkadır.
 [Legalizm](/kavram/legalizm/) yönetimi kural ve teknikle kurar;
 [Taoizm](/kavram/taoizm/) kurulan her düzeneği bozulmanın kaynağı sayar;
 buradaki çizgi ise düzeni erdem ve örneklik üzerine oturtur.[^k1][^k2]
 
 Üçünün aynı yüzyıllarda, aynı bölgede ve birbirini adıyla anarak tartıştığı
-bir ortamda bulunması, atlasın bir dönemi tek bir düşünce biçimiyle
+bir ortamda bulunması, korpusun bir dönemi tek bir düşünce biçimiyle
 anlatmamasının en açık gerekçesidir.[^k1] Bir dönemin "hâkim düşüncesi"
 varsayımı, o dönemde yürüyen tartışmayı siler.
 
@@ -96,11 +97,11 @@ sonraki metinler çizgiyi genişletmiş ve yer yer değiştirmiştir.
 **Tartışmalı.** Bu çizginin iki bin yıl boyunca sürüp sürmediği, yoksa aynı
 adla anılan farklı düşünce sistemlerinin mi söz konusu olduğu tartışılır.
 Sonraki yüzyıllarda geliştirilen yorumların ilk metinlerle ilişkisi süreklilik
-mi kopuş mu sayılmalıdır — atlas bir yanıt benimsemez.[^k1]
+mi kopuş mu sayılmalıdır — korpus bir yanıt benimsemez.[^k1]
 
 ## Resmî öğreti olmanın sonucu
 
-Çizginin uzun süre resmî öğreti konumunda bulunması, atlasın kaydettiği
+Çizginin uzun süre resmî öğreti konumunda bulunması, incelenen
 başka olgularla kesişir.[^k1] Bir düşüncenin devlet tarafından benimsenmesi,
 onun yaygınlaşmasını sağlar ve aynı anda dönüşmesine de yol açar.
 
@@ -108,23 +109,22 @@ Resmîleşme iki yönde çalışır. Metinler kurumsal olarak korunur, öğretil
 sınavlarla aktarılır; aynı süreçte metinlerin hangi yorumunun geçerli olduğu
 da idari bir karara dönüşür.[^k1]
 
-Atlas bu ikili etkiyi kaydeder ve bir değerlendirme yapmaz. Bir öğretinin
+Korpus bu ikili etkiyi kaydeder ve bir değerlendirme yapmaz. Bir öğretinin
 resmîleşmesi ne başarısının kanıtıdır ne de bozulmasının; ikisi de
 savunulabilir ve ayrı kanıtlar gerektirir.
 
-## Atlastaki yeri ve sınırı
-
-Bu dosya çizgiyi konu edinir; kurucu sayılan kişi için ayrı bir dosya
-vardır.[^k2] Kavram ile kişiyi ayrı tutmak, atlasın genel tercihidir: kişi
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme çizgiyi konu edinir; kurucu sayılan kişi için ayrı bir dosya
+vardır.[^k2] Kavram ile kişiyi ayrı tutmak, korpusun genel tercihidir: kişi
 dosyası bir metni kaydeder, kavram dosyası o metnin ait olduğu çizgiyi
 tanımlar ve karşılaştırılabilir kılar.
 
 Dosyanın kapsamadıkları belirtilmelidir. Sonraki yüzyıllarda geliştirilen
 yorumlar, sınav sistemi ve çizginin Kore, Japonya ve Vietnam'daki biçimleri
-burada işlenmez;[^k1] her biri ayrı dosya gerektirir ve bu dosya yazıldığında
-atlasta bulunmuyorlardı.
+burada işlenmez;[^k1] her biri ayrı dosya gerektirir ve bu inceleme yazıldığında
+korpusta bulunmuyorlardı.
 
-Metinlerin bölüm bölüm içeriği de kapsam dışıdır. Bu dosya çizginin ne
+Metinlerin bölüm bölüm içeriği de kapsam dışıdır. Bu inceleme çizginin ne
 olduğunu anlatır; ne söylediği için metinlerin kendisine inilmelidir.[^k2][^k3]
 
 ## Karşılıklı yükümlülük
@@ -138,13 +138,12 @@ gibi okunur.[^k1] Metinlerde, yükümlülüğünü yerine getirmeyen üstün
 konumunun sorgulanabileceğine dair ifadeler bulunur;[^k3] itaat, koşulsuz
 değildir.
 
-Atlas bu okuma farkını kaydeder çünkü çizginin sonraki dönemlerdeki
-kullanımları çoğu zaman tek yönlü tarafı öne çıkarmıştır.[^k1] Bir öğretinin
-nasıl kullanıldığı ile ne söylediği ayrı ayrı incelenmelidir.
+Bir öğretinin nasıl kullanıldığı ile ne söylediği
+ayrı ayrı incelenmelidir.[^k1]
 
 ## İki metnin farkı
 
-Bu dosya iki temel metne birden bağlanır ve bu bir tercih değil
+Bu inceleme iki temel metne birden bağlanır ve bu bir tercih değil
 gerekliliktir.[^k2][^k3] İki metin aynı çizgiyi sürdürür ama aynı şeyi
 söylemez.
 
@@ -152,12 +151,11 @@ söylemez.
 metin daha tartışmacıdır ve çizginin ilkelerini karşıt görüşlere karşı
 savunur.[^k3] Bir çizginin iç gelişimi ancak birden çok metinle görünür olur.
 
-Aynı ilke [Taoizm](/kavram/taoizm/) dosyasında da uygulanmıştır. Atlasın
+Aynı ilke [Taoizm](/kavram/taoizm/) dosyasında da uygulanmıştır. Korpusun
 kavram dosyaları, mümkün olan yerlerde tek metne bağlanmaktan kaçınır; tek
 kaynaktan tanımlanan bir kavram, o kaynağın sınırlarını da devralır.[^k1]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Kurucu sayılan kişi ve ona atfedilen metin için
 [Konfüçyüs](/dusunur/konfucyus/) dosyası okunmalıdır.
 

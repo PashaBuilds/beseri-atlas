@@ -11,6 +11,7 @@ guven_geneli: tartismali
 etiketler: [satin-alma-gucu, uluslararasi-dolar, olcum, karsilastirma, fiyat]
 ilgili:
   - veri-kisi-basi-gsyh-1-2022
+baglam:
   - veri-yoksulluk-orani
   - veri-kuresel-esitsizlik
   - kavram-gini-katsayisi

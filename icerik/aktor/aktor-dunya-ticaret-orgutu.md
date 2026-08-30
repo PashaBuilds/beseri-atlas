@@ -52,7 +52,7 @@ denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-Bu dosyanın konusu bir kurum kadar, o kurum hakkındaki **iki yönlü kayıttır**.
+Bu incelemenin konusu bir kurum kadar, o kurum hakkındaki **iki yönlü kayıttır**.
 Kaynak aynı maddede hem bir bulgu hem bir eleştiri listesi taşır.
 
 ## Bulgu
@@ -74,7 +74,7 @@ kaygılarının önüne konduğu.[^k1]
 faydaların eşit paylaşılmadığı eleştirisi — aynı kaynakta yan yana durur; bu
 dosya taraf tutmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
-Atlas bu iki kaydı da aynı ağırlıkta aktarır. Bir kurumun toplam ticaret hacmini
+Korpus bu iki kaydı da aynı ağırlıkta aktarır. Bir kurumun toplam ticaret hacmini
 artırması ile o artıştan kimin ne kadar pay aldığı, farklı sorulardır ve tek bir
 sayıyla cevaplanmaz.
 
@@ -120,8 +120,7 @@ Ticaret örgütünün kuruluşunun bu düzenin sona ermesinden sonraya düşmesi
 savaş sonrası kurumsal mimarinin tek seferde değil aşamalarla kurulduğunu
 gösterir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Örgütün karar alma usulü, uyuşmazlık çözüm mekanizmasının işleyişi, katılım
 süreçleri ve örgütsel yapısı burada ayrı başlıklar altında ele alınmamıştır;
 kaynak bunları ayrı bölümler olarak işler.[^k1] Dönemin bütünü

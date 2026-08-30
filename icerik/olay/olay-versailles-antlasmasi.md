@@ -96,7 +96,7 @@ statüsü, tazminat rejimi ve silahsızlanma tartışmaları hep aynı metinden 
 ## Neyin ardından geldi
 
 Antlaşmanın imzalandığı savaşta yedi milyondan fazla asker ölmüştü.[^k3] Bu
-ölçek, metnin sertliğini açıklamaya yardımcı olur ama meşrulaştırmaz; bu dosya
+ölçek, metnin sertliğini açıklamaya yardımcı olur ama meşrulaştırmaz; bu inceleme
 antlaşmanın adil olup olmadığı konusunda bir hüküm vermez.
 
 Ölçüye dair bir uyarı da eklenmelidir: verilen sayı muharip ölümleridir.
@@ -107,5 +107,5 @@ Dönemin bütününe dair çerçeve [1914–1945](/donem/13/) dosyasında ele al
 
 ## Belgeye bağ
 
-Bu dosya versailles antlasmasi'nin metnine bağlanır.[^k4] Belgeye yapılacak atıflar
+Bu inceleme versailles antlasmasi'nin metnine bağlanır.[^k4] Belgeye yapılacak atıflar
 madde numarasıyla verilmelidir; ikincil özet yerine metnin kendisi esas alınır.

@@ -72,7 +72,7 @@ Kaynak kitapları konu ve satır aralığıyla birlikte sıralar: birinci kitap
 yaşlanma, sevgi ve adaletin tanımları (327a-354c), ikinci kitap Gyges'in yüzüğü
 (357a-383c), üçüncü kitap soylu yalan (386a-417b).[^k1]
 
-Bir metne yapılan atfın kitap adı yerine satır aralığıyla verilmesi,[^k1] atlasın
+Bir metne yapılan atfın kitap adı yerine satır aralığıyla verilmesi,[^k1] korpusun
 şu kuralının dayanağıdır: bu esere yapılan atıflar, çeviriye değil özgün metnin
 satır numarasına bağlanmalıdır — böylece hangi çeviri kullanılırsa kullanılsın
 aynı yere gidilir.
@@ -95,5 +95,5 @@ yazar.[^k3] O eser
 
 ## Metne bağ
 
-Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Eser kamu malıdır; hangi çevirinin kullanıldığı ve
+Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Eser kamu malıdır; hangi çevirinin kullanıldığı ve
 hangi satır aralığına atıf yapıldığı her aktarımda belirtilmelidir.

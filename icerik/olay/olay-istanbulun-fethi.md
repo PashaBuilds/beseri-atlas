@@ -46,7 +46,7 @@ onarim_turu: 0
 
 Bizans İmparatorluğu'nun başkenti Konstantinopolis, 6 Nisan'da başlayan elli üç
 günlük bir kuşatmanın doruk noktası olarak 29 Mayıs 1453'te Osmanlı İmparatorluğu
-tarafından ele geçirildi.[^k1] Bu dosya kuşatmanın seyrini değil, **olayın
+tarafından ele geçirildi.[^k1] Bu inceleme kuşatmanın seyrini değil, **olayın
 tarihsel konumunu** ele alır.
 
 ## Şehrin önceki kaydı
@@ -103,8 +103,7 @@ yüzyıldaki çöküşünden sonra ayakta kalmış ve 1453'e kadar sürmüştür
 eren devlet [Bizans İmparatorluğu](/aktor/bizans-imparatorlugu/) dosyasında ele
 alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kuşatmanın taktik seyri, top teknolojisi, surların durumu ve fethin ardından
 şehrin yeniden iskânı burada ayrı başlıklar altında ele alınmamıştır. Dönemin
 bütünü [1350–1500](/donem/08/) dosyasında ele alınıyor.

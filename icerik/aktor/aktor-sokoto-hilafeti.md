@@ -60,14 +60,14 @@ onarim_turu: 0
 ## Nerede durduğu
 
 Sokoto Hilafeti, Batı Afrika'nın Sahra altı savan kuşağında, birbirinden
-bağımsız şehir devletlerinin bulunduğu bir bölgede kuruldu.[^k1][^k3] Atlasın
+bağımsız şehir devletlerinin bulunduğu bir bölgede kuruldu.[^k1][^k3] Korpusun
 bölge şemasında Afrika ile İslam dünyasının kesiştiği yerde durur.
 
 Kuruluş, dışarıdan bir fetihle değil bölgenin kendi içinden bir hareketle
 gerçekleşti.[^k1][^k2] Hareketi başlatan kişi bir âlimdi ve gerekçesini
 mevcut yönetimlerin uygulamalarına yönelttiği eleştirilerle kurdu.
 
-Bu, dosyanın ayırt edici yanıdır.[^k1] Atlasın kaydettiği çoğu siyasi
+Bu, dosyanın ayırt edici yanıdır.[^k1] incelenen çoğu siyasi
 düzenin kuruluş gerekçesi sonradan yazılmıştır; burada gerekçe, kuruluştan
 önce ve yazılı olarak vardır.
 
@@ -77,7 +77,7 @@ Hareketin lideri, siyasi eyleme geçmeden önce yıllarca ders verdi ve yazdı;
 metinleri bölgede dolaşımdaydı.[^k1][^k4] Devlet kurulduğunda, dayandığı
 ilkeler zaten yazılı biçimde bulunuyordu.
 
-Bu sıralamanın atlas açısından değeri büyüktür.[^k2] Bir düzenin kendi
+Bu sıralamanın korpus açısından değeri büyüktür.[^k2] Bir düzenin kendi
 gerekçesini kendi kalemiyle ve iktidara gelmeden önce yazmış olması, sonradan
 düzenlenmiş meşruiyet anlatılarından ayrıştırılabilmesini sağlar.
 
@@ -91,13 +91,12 @@ Hareketin mevcut yönetimlere yönelttiği eleştiri, esas olarak vergi
 uygulamaları ve yerel âdetlerin sürdürülmesi üzerineydi.[^k1][^k4] İddia,
 yönetimlerin kendi ilan ettikleri ilkelere uymadığıydı.
 
-Bu tür bir eleştiri, atlasın kaydettiği yaygın bir siyasi hamledir.[^k2] Bir
+Bu tür bir eleştiri, incelenen yaygın bir siyasi hamledir.[^k2] Bir
 hareketin, karşı çıktığı düzenin kendi ölçütlerini kullanması, hem meşruiyet
 sağlar hem de karşı tarafın savunma alanını daraltır.
 
-Atlas eleştirinin haklılığını değerlendirmez.[^k1] Kaydedilen şey,
-eleştirinin hangi zeminde kurulduğu ve bu zeminin hareketi nasıl
-güçlendirdiğidir.
+Kaydedilen şey, eleştirinin hangi
+zeminde kurulduğu ve bu zeminin hareketi nasıl güçlendirdiğidir.[^k1]
 
 ## Toplulukla hareketin ilişkisi
 
@@ -111,7 +110,7 @@ tartışmalıdır.
 
 ::tartismali[Hareketin öncelikle dinî bir yenilenme mi yoksa yerleşik
 yönetimlerle göçer topluluklar arasındaki bir çıkar çatışması mı olduğu
-tartışmalıdır; ikisi de aynı kaynaklardan çıkarılabilir. Atlas bir sonuca
+tartışmalıdır; ikisi de aynı kaynaklardan çıkarılabilir. Korpus bir sonuca
 bağlanmaz.]{harita=tartisma-buyuk-adam-kurami}
 
 ## Emirlik yapısı
@@ -120,7 +119,7 @@ Kurulan düzen tek merkezli değildi; birbirine bağlı emirliklerden
 oluşuyordu.[^k1][^k4] Her emirlik kendi yönetimini yürütüyor, merkeze
 bağlılığını düzenli ödeme ve tanınma yoluyla bildiriyordu.
 
-Bu yapı, atlasın başka bölgelerinde kaydettiği katmanlı egemenlik
+Bu yapı, korpusun başka bölgelerinde kaydettiği katmanlı egemenlik
 biçiminin bir örneğidir.[^k3] Merkez, emirliklerin gündelik yönetimine
 karışmıyor; atama onayı ve anlaşmazlık çözümüyle yetiniyordu.
 
@@ -134,11 +133,10 @@ Emirliklerde yazışma, kayıt ve hukuk uygulaması yazılı olarak
 yürütülüyordu.[^k1][^k4] Bu, bölge için yeni değildi ama ölçek olarak
 genişledi.
 
-Atlasın [Bürokrasi](/kavram/burokrasi/) dosyası bu yapıyı kavram düzeyinde
-ele alır.[^k1] Burada somut hâli, bir yönetimin kendi işleyişini yazıya
-bağlamasının kayıt bırakma kapasitesini de artırmasıdır.
+Burada somut hâli, bir yönetimin kendi işleyişini
+yazıya bağlamasının kayıt bırakma kapasitesini de artırmasıdır.[^k1]
 
-Bu kapasitenin sonucu, atlas açısından doğrudan bir kazançtır.[^k4] Bölgenin
+Bu kapasitenin sonucu, korpus açısından doğrudan bir kazançtır.[^k4] Bölgenin
 bu dönemine dair yerli yazılı kaynak, önceki yüzyıllara göre çok daha
 fazladır.
 
@@ -147,7 +145,7 @@ fazladır.
 Düzenin geliri tarım, hayvancılık ve Sahra ticaretinden geliyordu.[^k1][^k3]
 Bölge, kuzeye giden kervan yollarının güney ucundaydı.
 
-Aynı konum, atlasın önceki Batı Afrika dosyalarında da kaydedilmiştir.[^k3]
+Aynı konum, korpusun önceki Batı Afrika dosyalarında da kaydedilmiştir.[^k3]
 Sahra ticaretinin güney ucunu tutan düzenler, geçiş gelirini üretim
 geliriyle birleştirebildikleri ölçüde uzun ömürlü olmuştur.
 
@@ -164,9 +162,9 @@ Bu olgu, hareketin kendi gerekçesiyle gerilim içindedir.[^k1] Hareket, mevcut
 yönetimleri kendi ilan ettikleri ilkelere uymamakla suçlamıştı; kurduğu düzen
 de benzer bir tutarsızlık iddiasına açıktır.
 
-Atlas bu gerilimi kaydeder ve bir hüküm vermez.[^k4] Dönemin hukuk
-anlayışında köleliğin nasıl çerçevelendiği ayrı bir dosya gerektirir ve bu
-dosya yazıldığında atlasta bulunmuyordu.
+Dönemin hukuk anlayışında köleliğin nasıl
+çerçevelendiği ayrı bir dosya gerektirir ve bu inceleme yazıldığında korpusta
+bulunmuyordu.[^k4]
 
 ## Kadınların eğitimi
 
@@ -174,16 +172,16 @@ Düzenin kaydedilen özelliklerinden biri, liderin ailesinden kadınların da
 yazan ve ders veren kişiler olmasıdır.[^k1][^k4] Metinleri bölgede
 dolaşımdaydı ve öğretim için kullanıldı.
 
-Bu, atlasın kaydettiği dönem ve bölgelerde seyrek görülen bir
+Bu dönem ve bölgelerde seyrek görülen bir
 durumdur.[^k2] Seyrek olması, açıklanması gereken bir olgu yapar.
 
-Atlas olguyu kaydeder ve genelleme yapmaz.[^k1] Bir hareketin belirli bir
-ailesinde görülen bir uygulama, o hareketin bütününe ya da bölgeye
-yayıldığının kanıtı değildir.
+Bir hareketin belirli bir
+ailesinde görülen bir uygulama, o hareketin bütününe ya da bölgeye yayıldığının kanıtı
+değildir.[^k1]
 
 ## Komşularla ilişki
 
-Düzenin doğusunda, atlasta ayrı bir dosyası bulunan daha eski bir siyasi
+Düzenin doğusunda, korpusta ayrı bir dosyası bulunan daha eski bir siyasi
 birim vardı.[^k1][^k3] İki düzen arasındaki ilişki çatışma ve karşılıklı
 tanıma dönemleri içerdi.
 
@@ -191,9 +189,9 @@ Karşılaştırma bilgilendiricidir.[^k3] Biri yüzyıllardır süren bir haneda
 düzeni, öteki bir yüzyıl içinde kurulmuş bir hareket devletiydi; ikisi de
 aynı ticaret kuşağında ve aynı ekolojik koşullarda bulunuyordu.
 
-Atlas iki dosyayı yan yana koyar ve bir sonuç yazmaz.[^k1] Uzun ömürlü
-hanedan düzeni ile hızlı kurulan hareket devletinin hangi koşullarda daha
-dayanıklı olduğu, tek bir karşılaştırmadan çıkarılamaz.
+Uzun ömürlü hanedan düzeni ile hızlı
+kurulan hareket devletinin hangi koşullarda daha dayanıklı olduğu, tek bir
+karşılaştırmadan çıkarılamaz.[^k1]
 
 ## Sonun biçimi
 
@@ -204,7 +202,7 @@ Sonun biçimi, kuruluş yapısıyla doğrudan ilişkilidir.[^k1] Katmanlı bir
 düzende merkezin düşmesi bütünün teslimi anlamına gelmez; her emirlik kendi
 kararını verir ve süreç uzar.
 
-Aynı yapı, atlasın Açe dosyasında da kaydedilmiştir.[^k4] Dağınık düzenler
+Aynı yapı, korpusun Açe dosyasında da kaydedilmiştir.[^k4] Dağınık düzenler
 yavaş ve parça parça çözülür; merkezîleşmiş düzenler tek bir darbeyle
 çöker.
 
@@ -214,13 +212,12 @@ Ele geçiren yönetim, emirlik yapısını ortadan kaldırmadı; onu kendi idare
 altında sürdürdü.[^k3][^k4] Emirler görevde kaldı ve vergi toplamayı
 sürdürdü.
 
-Bu tercih, atlasın kaydettiği yaygın bir sömürge yönetim biçimidir.[^k3]
+Bu tercih, incelenen yaygın bir sömürge yönetim biçimidir.[^k3]
 Mevcut yönetim yapısını devralmak, yeni bir aygıt kurmaktan ucuzdur ve yerel
 meşruiyeti de kısmen devralır.
 
 Tercihin sonucu uzun vadelidir.[^k3] Bölgenin sonraki siyasi yapısı, bu
-devralınmış emirlik düzeninin izlerini taşır ve bu, atlasın
-[Sömürgesizleşme](/kavram/somurgesizlesme/) dosyasıyla kesişir.
+devralınmış emirlik düzeninin izlerini taşır ve bu, [Sömürgesizleşme](/kavram/somurgesizlesme/) incelemesiyle kesişir.
 
 ## Ölçek sorunu
 
@@ -232,56 +229,54 @@ Sömürge dönemi kayıtlarının yönü bellidir.[^k3] Ele geçirilen alanın
 büyüklüğü, harekâtın başarısını büyüttüğü için yüksek gösterilmeye
 eğilimlidir.
 
-Atlas bu yüzden bu dosyada sayı vermez.[^k1] Değerlendirmeler mutlak
-büyüklüklere değil, kaynakların ortak vurgusuna dayanır.
+Değerlendirmeler mutlak büyüklüklere
+değil, kaynakların ortak vurgusuna dayanır.[^k1]
 
 ## Kaynak durumu
 
-Bu dosya dört kaynağa dayanır ve **hiçbiri birincil değildir.**[^k1][^k2][^k3][^k4]
+Bu inceleme dört kaynağa dayanır ve **hiçbiri birincil değildir.**[^k1][^k2][^k3][^k4]
 Bu, hareketin kendi külliyatının varlığı düşünüldüğünde özellikle
 dikkat çekicidir.
 
 Külliyatın Arapça ve yerel dillerdeki metinleri bilinmektedir ve bir bölümü
 yayımlanmıştır.[^k1] Doğrulanabilir, katalog künyesiyle teyit edilmiş ve tam
-metin olarak erişilebilir bir baskısı bu dosya yazıldığında bulunamamıştır.
+metin olarak erişilebilir bir baskısı bu inceleme yazıldığında bulunamamıştır.
 
-Bu, atlasın Afrika dosyalarında tekrar eden bir eğilimin devamıdır.[^k4] Aynı
+Bu, korpusun Afrika dosyalarında tekrar eden bir eğilimin devamıdır.[^k4] Aynı
 dönemin Avrupa metinleri tek aramada bulunurken bu külliyat
 bulunamamaktadır; kayıt yokluğu değil, dijital erişim yokluğu söz
 konusudur.
 
-## Atlastaki yeri
-
-Bu dosya, atlasın Afrika aktör katmanına on dokuzuncu yüzyıldan bir düzen
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun Afrika aktör katmanına on dokuzuncu yüzyıldan bir düzen
 ekler.[^k3] Katmandaki öteki dosyalar ağırlıklı olarak daha erken
 dönemlerdeydi.
 
-Ayrımın önemi şudur: Afrika'nın sömürge öncesi son yüzyılı, atlasta
-yalnızca sömürge yayılmasının arka planı olarak görünüyordu.[^k4] Bu dosya,
+Ayrımın önemi şudur: Afrika'nın sömürge öncesi son yüzyılı, korpusta
+yalnızca sömürge yayılmasının arka planı olarak görünüyordu.[^k4] Bu inceleme,
 aynı yüzyılda bölgede kurulmuş ve işleyen bir düzeni kaydeder.
 
-Bir kıtanın tarihini yalnızca ona ne yapıldığıyla anlatmak, atlasın
-kaçındığı anlatım biçimidir.[^k1] Bu dosya o kaçınmanın somut
+Bir kıtanın tarihini yalnızca ona ne yapıldığıyla anlatmak, korpusun
+kaçındığı anlatım biçimidir.[^k1] Bu inceleme o kaçınmanın somut
 karşılığıdır.
 
-## Bu dosyanın kapsamadıkları
-
+## Açıkta kalan sorular
 Hareketin askerî seferleri, muharebeleri ve genişleme aşamaları burada
 işlenmez.[^k4] Ayrı bir dosya gerektirir.
 
 Külliyatın içeriği ve hukuk görüşleri de kapsam dışıdır.[^k1] Bunun için
-metinlerin kendisi gerekir ve bu dosya yazıldığında künyeye alınamamıştır.
+metinlerin kendisi gerekir ve bu inceleme yazıldığında künyeye alınamamıştır.
 
-Bölgenin sonraki sömürge ve bağımsızlık dönemi burada verilmez.[^k3] Atlasın
+Bölgenin sonraki sömürge ve bağımsızlık dönemi burada verilmez.[^k3] Korpusun
 ilgili dosyaları o dönemleri ele alır.
 
 ## Bir yüzyıllık ömrün anlamı
 
-Düzen yaklaşık bir yüzyıl sürdü ve bu, atlasın kaydettiği hanedan
+Düzen yaklaşık bir yüzyıl sürdü ve bu hanedan
 düzenlerinin çoğundan kısadır.[^k1][^k4] Kısalık, dosyanın gerekçesini
 zayıflatmaz.
 
-Bir siyasi birimin atlasa girme ölçütü süresi değil, bir yapıyı ne kadar
+Bir siyasi birimin korpusa girme ölçütü süresi değil, bir yapıyı ne kadar
 açık gösterdiğidir.[^k2] Burada gösterilen yapı, bir metin külliyatının
 önce bir hareket, sonra bir devlet üretmesidir ve bu, tek bir yüzyıl
 içinde baştan sona izlenebilir.
@@ -290,8 +285,7 @@ Uzun ömürlü düzenlerde aynı süreç yüzyıllara yayılır ve başlangıç 
 kayıtlardan silinir.[^k1] Kısa ömürlü örneklerin kaydedilmesi, bu
 görünmezliği gidermek içindir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Doğudaki daha eski komşu için [Kanem-Bornu](/aktor/kanem-bornu/), aynı
 ticaret kuşağındaki önceki düzen için
 [Songhay İmparatorluğu](/aktor/songhay-imparatorlugu/) dosyaları

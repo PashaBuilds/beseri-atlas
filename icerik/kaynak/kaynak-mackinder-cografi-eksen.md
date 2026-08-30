@@ -73,9 +73,9 @@ ticareti desteklemediğini, Liberal Parti'den ayrıldığını, korumacılığı
 savunduğunu ve Muhafazakâr Parti üyesi olduğunu yazar; kuramı 1904'te formüle
 ettiğini kaydeder.[^k1]
 
-İki tarihin bir yıl arayla kaydedilmesi,[^k1] atlasın şu kuralının dayanağıdır:
-bu dosyada bildiriye atfedilen önermeler, yazıldığı siyasi bağlam belirtilerek
-aktarılır. Atlas iki kayıt arasında bir neden bağı kurmaz; kaynakta böyle bir bağ
+İki tarihin bir yıl arayla kaydedilmesi,[^k1] korpusun şu kuralının dayanağıdır:
+bu incelemede bildiriye atfedilen önermeler, yazıldığı siyasi bağlam belirtilerek
+aktarılır. Korpus iki kayıt arasında bir neden bağı kurmaz; kaynakta böyle bir bağ
 belirtilmemiştir.[^k1]
 
 ## Önem nitelemesi koşulludur
@@ -83,7 +83,7 @@ belirtilmemiştir.[^k1]
 Kaynak, bildirinin sıklıkla alanının kurucu metinlerinden biri, hatta kurucu
 metni sayıldığını yazar; ifade bir düzeltme kaydıyla verilmiştir.[^k1]
 
-Bir ansiklopedinin kendi üstünlük ifadesini cümle içinde düzeltmesi,[^k1] atlasın
+Bir ansiklopedinin kendi üstünlük ifadesini cümle içinde düzeltmesi,[^k1] korpusun
 bu tür ifadeleri neden koşullarıyla birlikte taşıdığının dayanağıdır.
 
 ## Karşıt tez aynı on yıllardadır
@@ -99,14 +99,13 @@ bir açıklamasını kurduğunu yazar.[^k3] O yazar
 [Montesquieu](/dusunur/montesquieu/) dosyasında, bildirinin yazarı ise
 [Halford Mackinder](/dusunur/mackinder/) dosyasında ele alınıyor.
 
-## Okuma yönlendirmesi
-
-Bu dosya bildirinin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
+## Okumayı sürdürmek için
+Bu inceleme bildirinin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
 ansiklopedi maddesidir.[^k1] Bildiri kamu malıdır; hangi baskının kullanıldığı
 her aktarımda belirtilmelidir.
 
 ## Metne bağ
 
-Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
+Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
 atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
 çevirinin kullanıldığı her aktarımda belirtilmelidir.

@@ -54,11 +54,11 @@ Seri 1950'de yüzde 28,7983 ile başlar ve 2025'te yüzde 57,8335 ile biter; top
 
 ## Başlık ile veri arasındaki fark kayıtlıdır
 
-Bu dosyanın kimliği 1500'den başlayan bir aralığı adlandırır, ancak veri
+Bu incelemenin kimliği 1500'den başlayan bir aralığı adlandırır, ancak veri
 kümesinde 1950'den önce dünya toplamı için gözlem yoktur.[^k1]
 
-Atlas bu farkı gizlemez: dosya başlığı serinin gerçek aralığını taşır ve kimlik
-alanı plandaki adıyla kalır. Veri kümesinin kapsamadığı yıllar için bu dosyadan
+Korpus bu farkı gizlemez: dosya başlığı serinin gerçek aralığını taşır ve kimlik
+alanı plandaki adıyla kalır. Veri kümesinin kapsamadığı yıllar için bu incelemeden
 bir değer okunamaz.[^k1]
 
 ## Sütun adı ölçüm türünü taşır
@@ -66,7 +66,7 @@ bir değer okunamaz.[^k1]
 Veri kümesinin sütun adı hem alan türünü hem veri türünü belirtir: kentsel alan
 türü için pay, veri türü tahminler.[^k1]
 
-Bir ölçünün adında tahmin olduğunun yazması,[^k1] atlasın şu kuralının
+Bir ölçünün adında tahmin olduğunun yazması,[^k1] korpusun şu kuralının
 dayanağıdır: bu seriden okunan değerler ölçüm değil tahmindir ve öyle aktarılır.
 
 ## Yarıyı aşma noktası seride görünür
@@ -74,7 +74,7 @@ dayanağıdır: bu seriden okunan değerler ölçüm değil tahmindir ve öyle a
 Seri 1950'de yüzde 28,80'den 2025'te yüzde 57,83'e çıkar; yani aralığın içinde
 bir noktada yüzde 50 eşiği aşılmıştır.[^k1]
 
-Atlas bu eşiğin hangi yılda aşıldığını burada tek bir yıl olarak yazmaz; veri
+Korpus bu eşiğin hangi yılda aşıldığını burada tek bir yıl olarak yazmaz; veri
 kümesindeki yıllık değerler eşiğin etrafında yakın seyreder ve kesin yıl seçimi
 yuvarlama kararına bağlıdır.[^k1]
 
@@ -83,9 +83,8 @@ yuvarlama kararına bağlıdır.[^k1]
 Uzun dönemli nüfus serisinde dünya nüfusu 1950 için yaklaşık 2,49 milyar, 2020
 için yaklaşık 7,89 milyardır.[^k2]
 
-Atlas iki seriyi çarparak kentsel nüfus sayısı üretmez; iki kümenin yıl kapsamı
-ve tahmin yöntemi aynı değildir.[^k1][^k2] Nüfus serisi
-[Dünya nüfusu, 1500–2025](/veri/dunya-nufusu-1500-2025/) dosyasında ele alınıyor.
+Nüfus serisi [Dünya nüfusu,
+1500–2025](/veri/dunya-nufusu-1500-2025/) dosyasında ele alınıyor.[^k1][^k2]
 
 ## Sıklıkla bağlanan dönüşüm
 
@@ -93,12 +92,10 @@ Kentleşmenin sıklıkla bağlandığı dönüşüm için tutulan kayıt, o dön
 madde olarak işler.[^k3] O dönüşüm
 [Sanayi Devrimi](/olay/sanayi-devrimi/) dosyasında ele alınıyor.
 
-Atlas iki kayıt arasında bir neden bağı kurmaz; kullanılan kaynak bölümlerinde
-böyle bir bağ belirtilmemiştir.[^k1][^k3] Kavramın kendisi
-[Kentleşme](/kavram/kentlesme/) dosyasında ele alınıyor.
+Kavramın kendisi
+[Kentleşme](/kavram/kentlesme/) dosyasında ele alınıyor.[^k1][^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ülke ülke oranlar, kentsel tanımların ülkeler arasındaki farkı ve 1950 öncesi
-tahminler burada ayrı başlıklar altında ele alınmamıştır; bu dosya yalnızca dünya
+tahminler burada ayrı başlıklar altında ele alınmamıştır; bu inceleme yalnızca dünya
 toplamı serisini kaydeder.[^k1]

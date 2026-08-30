@@ -55,7 +55,7 @@ kuzen evliliği yasağı.[^k1]
 
 ## Şans da bir başlıktır
 
-::tartismali[Kaynak nedenleri "olası etkenler" diye adlandırıyor ve listeye "şans"ı da alıyor. Atlas bu dosyada tek bir neden göstermez; on sekiz başlığın hepsi kayıttır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Kaynak nedenleri "olası etkenler" diye adlandırıyor ve listeye "şans"ı da alıyor. Korpus bu incelemede tek bir neden göstermez; on sekiz başlığın hepsi kayıttır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu tür neden listelerinin nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -66,15 +66,15 @@ haritasında ele alınıyor.
 Kaynak, sanayi öncesi ileri bölgeler başlığı altında altı alt başlık tutar: Çin,
 Batı Avrupa, Hindistan, Orta Doğu, Japonya ve Sahra altı Afrika.[^k1]
 
-Karşılaştırmanın altı bölgeyi kapsaması,[^k1] atlasın şu kuralının dayanağıdır:
-bu dosyada ayrışma, Avrupa'nın yükselişi olarak değil bölgeler arası bir fark
+Karşılaştırmanın altı bölgeyi kapsaması,[^k1] korpusun şu kuralının dayanağıdır:
+bu incelemede ayrışma, Avrupa'nın yükselişi olarak değil bölgeler arası bir fark
 olarak anılır.
 
 ## Tanım da ayrı bir bölümdür
 
 Kaynak ilk bölümünü terminoloji ve tanıma ayırır.[^k1]
 
-Bir kavramın tanımının ayrı bir bölüm olması,[^k1] atlasın bu kavramı hangi
+Bir kavramın tanımının ayrı bir bölüm olması,[^k1] korpusun bu kavramı hangi
 anlamda kullandığını her seferinde belirtmesinin dayanağıdır.
 
 ## Sonuçlar da bölümlenmiştir
@@ -85,7 +85,7 @@ yakıt ve kaynaklar ile ticaret alt başlıklarını tutar.[^k1]
 ## Dönemin nüfus serisi ve iktisat yazarı
 
 Uzun dönemli seride dünya nüfusu 1700 için yaklaşık 595,5 milyon, 1900 için
-yaklaşık 1,63 milyardır.[^k3] Atlas bu seriyi kavramın kanıtı olarak sunmaz;
+yaklaşık 1,63 milyardır.[^k3] Korpus bu seriyi kavramın kanıtı olarak sunmaz;
 seri dünya toplamını verir, kavram ise bölgeler arası bir farkı öne sürer.[^k1][^k3]
 
 Dönemin iktisat yazarı için tutulan kayıt, onun ahlak felsefesinin kapsamlı ve
@@ -93,8 +93,7 @@ alışılmadık bir sürümünü geliştirdiğini yazar.[^k2] O yazar
 [Adam Smith](/dusunur/smith/) dosyasında, dönemin dönüşümü ise
 [Sanayi Devrimi](/olay/sanayi-devrimi/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Etkenlerin ayrıntısı, bölge bölge karşılaştırmalar ve iktisadi sonuçlar burada
 ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

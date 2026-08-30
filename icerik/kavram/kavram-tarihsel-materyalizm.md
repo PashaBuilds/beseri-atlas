@@ -56,7 +56,7 @@ tarih kuramı.[^k1]
 
 ## Adın kendisi çekinceyle verilir
 
-::tartismali[Kaynak kuramı adlandırırken "çoğu kez şöyle denen" kaydını koyuyor. Bu, adın yazarına ait olmayabileceği anlamına gelir. Atlas adı kullanır ama çekinceyi düşürmez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Kaynak kuramı adlandırırken "çoğu kez şöyle denen" kaydını koyuyor. Bu, adın yazarına ait olmayabileceği anlamına gelir. Korpus adı kullanır ama çekinceyi düşürmez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu tür adlandırma çekincelerinin nasıl taşınacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -83,11 +83,10 @@ Sonraki kuşaktan bir başka cevap için tutulan kayıt ise merkez, çevre ve ya
 [Dünya sistemi](/kavram/dunya-sistemi/) dosyasında ele alınıyor.
 
 Üç kurgunun da olayların altında daha yavaş bir düzey araması,[^k1][^k2][^k3]
-atlasın kavram katmanında bu üç dosyayı birbirine bağlamasının dayanağıdır;
-cevapları ayrıdır ve atlas aralarında seçim yapmaz.
+korpusun kavram katmanında bu üç dosyayı birbirine bağlamasının dayanağıdır;
+cevapları ayrıdır ve korpus aralarında seçim yapmaz.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kuramın ayrıntıları, üretim tarzları dizisi ve sonraki tartışmalar burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

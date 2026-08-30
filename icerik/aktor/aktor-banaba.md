@@ -62,7 +62,7 @@ belirgin biçimde yükselir.
 Bu yükseklik, adanın kaderini belirledi.[^k2] Yüzeyin altında kalın
 bir fosfat tabakası vardı.
 
-Bu dosyanın konusu madenciliğin tekniği değildir.[^k3] Bir topluluğun
+Bu incelemenin konusu madenciliğin tekniği değildir.[^k3] Bir topluluğun
 toprağıyla bağının hangi işlemlerle koparıldığıdır.
 
 ## Fosfatın bulunması
@@ -74,9 +74,8 @@ da aynı yatağı buldu.
 Buluş rastlantısal anlatılır.[^k1] Anlatının kaynağı, buluşu yapan
 kişinin kendi kitabıdır.
 
-Atlas bu kaynağı çerçevesiyle birlikte kullanır.[^k3] Bir işletmenin
-kuruluş anlatısı, o işletmenin kendi kaydından geldiğinde bağımsız
-kanıt sayılmaz.
+Bir işletmenin kuruluş anlatısı, o
+işletmenin kendi kaydından geldiğinde bağımsız kanıt sayılmaz.[^k3]
 
 ## İlk anlaşma
 
@@ -87,9 +86,9 @@ Anlaşmanın kapsamı ve karşılığı tartışmalıdır.[^k1] Ne kadar toprağ
 ne kadar süreyle ve hangi ödeme karşılığında kapsadığı, iki tarafın
 anlatısında farklıdır.
 
-Atlas bu farkı ayrıca kaydeder.[^k3] **Bir imza, iki tarafın aynı
-şeye rıza gösterdiğini kanıtlamaz; yalnızca birinin metni
-hazırladığını ve diğerinin imzaladığını gösterir.**
+**Bir imza, iki tarafın aynı şeye rıza gösterdiğini
+kanıtlamaz; yalnızca birinin metni hazırladığını ve diğerinin imzaladığını
+gösterir.**[^k3]
 
 ## Fosfat neye yarıyordu
 
@@ -100,8 +99,8 @@ Bu, adanın hangi zincire bağlandığını gösterir.[^k1] Küçük bir adanın
 toprağı, binlerce kilometre ötedeki tarlaların verimine
 dönüştürüldü.
 
-Atlas bu zinciri ayrıca kaydeder.[^k3] Bir kaynağın değeri, çıkarıldığı
-yerde değil kullanıldığı yerde belirlenir.
+Bir kaynağın değeri, çıkarıldığı yerde
+değil kullanıldığı yerde belirlenir.[^k3]
 
 ## İşletmenin el değiştirmesi
 
@@ -111,9 +110,8 @@ kurduğu bir komisyona devredildi.
 Devir, madenciliği durdurmadı.[^k1] Aksine, üretim daha düzenli ve
 daha büyük ölçekli hâle geldi.
 
-Atlas bu devri ayrıca kaydeder.[^k3] Bir işletmenin kamu eline
-geçmesi, orada yaşayanlar açısından kendiliğinden bir iyileşme
-değildir.
+Bir işletmenin kamu eline geçmesi,
+orada yaşayanlar açısından kendiliğinden bir iyileşme değildir.[^k3]
 
 ## Ödemenin yapısı
 
@@ -123,9 +121,8 @@ bölümü doğrudan verilmedi, bir fonda tutuldu.
 Fonun yönetimi adalıların elinde değildi.[^k1] Ne zaman ve neye
 harcanacağına yönetim karar veriyordu.
 
-Atlas bu düzenlemeyi ayrıca kaydeder.[^k3] Bir topluluğun adına tutulan
-ama o topluluğun yönetemediği bir fon, mülkiyetten çok vesayet
-kurar.
+Bir topluluğun adına tutulan ama o
+topluluğun yönetemediği bir fon, mülkiyetten çok vesayet kurar.[^k3]
 
 ## Toprağın tükenmesi
 
@@ -135,8 +132,8 @@ mercan kayası olarak kaldı.
 Bu alan tarıma elverişsizdir.[^k1] Ada, ekilebilir toprağının büyük
 bölümünü kaybetti.
 
-Atlas bu kaybı geri dönüşsüz sayar.[^k3] Bir toprak katmanının
-kaldırılması, yüzyıllar ölçeğinde onarılamaz.
+Bir toprak katmanının kaldırılması, yüzyıllar
+ölçeğinde onarılamaz.[^k3]
 
 ## Savaş ve sürgün
 
@@ -146,9 +143,8 @@ bölümü başka adalara sürüldü.
 Savaş bitince geri dönüş olmadı.[^k2] Hayatta kalanlar, başka bir
 ülkedeki bir adaya yerleştirildi.
 
-Atlas bu iki adımı ayrı ayrı kaydeder.[^k3] Sürgün savaşın,
-yerleştirme ise yönetimin kararıydı ve ikisi aynı sorumluluğa
-girmez.
+Sürgün savaşın, yerleştirme ise yönetimin
+kararıydı ve ikisi aynı sorumluluğa girmez.[^k3]
 
 ## Satın alınan ada
 
@@ -159,9 +155,9 @@ toprağa taşındı.
 İşlem hukuken düzgün görünür.[^k2] Bir toprak satın alındı ve bir
 topluluk oraya yerleşti.
 
-Atlas işlemin biçimini değil sonucunu ölçer.[^k3] Bir topluluğun kendi
-toprağından çıkan gelirle başka bir yere taşınması, tazminat değil
-yer değiştirme finansmanıdır.
+Bir topluluğun kendi toprağından
+çıkan gelirle başka bir yere taşınması, tazminat değil yer değiştirme
+finansmanıdır.[^k3]
 
 ## Yeni adada durum
 
@@ -171,8 +167,8 @@ sahipti.[^k1] Geçim biçimleri yeniden kurulmak zorunda kaldı.
 Topluluk kendi dilini ve düzenini korudu.[^k2] Yeni adada ayrı bir
 yerel yönetim kuruldu.
 
-Atlas bu direnci ayrıca kaydeder.[^k3] Toprak değişse de aktarım
-sürebilir; sürmesi kendiliğinden olmaz, düzenli bir çaba gerektirir.
+Toprak değişse de aktarım sürebilir;
+sürmesi kendiliğinden olmaz, düzenli bir çaba gerektirir.[^k3]
 
 ## İki ülkeye bölünmüş topluluk
 
@@ -183,9 +179,8 @@ kaldı.[^k1] Banaba yeni kurulan bir devletin sınırları içinde, halkın
 Bu, çifte bir bağlılık doğurdu.[^k2] Toprak hakkı bir ülkede,
 gündelik hayat başka bir ülkedeydi.
 
-Atlas bu bölünmeyi ayrıca kaydeder.[^k3] Sömürge sınırlarının
-bağımsızlıkla sabitlenmesi, önceki dönemde yapılmış yer değiştirmeleri
-kalıcı hâle getirir.
+Sömürge sınırlarının bağımsızlıkla
+sabitlenmesi, önceki dönemde yapılmış yer değiştirmeleri kalıcı hâle getirir.[^k3]
 
 ## Hukuki girişim
 
@@ -195,8 +190,8 @@ doğan zararın karşılanması ve toprağın onarılmasıydı.
 Sonuç büyük ölçüde olumsuzdu.[^k2] Mahkeme talebin çoğunu reddetti,
 buna karşılık yönetimin bazı davranışlarını eleştirdi.
 
-Atlas bu sonucu ayrıca kaydeder.[^k3] Bir yargı kararının eleştirisi
-ile hükmü ayrı şeylerdir; eleştiri kayda geçer, tazminat geçmez.
+Bir yargı kararının eleştirisi ile hükmü
+ayrı şeylerdir; eleştiri kayda geçer, tazminat geçmez.[^k3]
 
 ## Nauru ile karşılaştırma
 
@@ -206,9 +201,9 @@ Komşu adada aynı kaynak, aynı dönemde ve büyük ölçüde aynı
 Fark, bağımsızlığın zamanlamasındadır.[^k1] Biri kaynak tükenmeden
 bağımsızlaştı ve geliri kendi eline aldı; diğeri alamadı.
 
-Atlas bu karşılaştırmayı bir ölçüm sayar.[^k3] Aynı kaynağın aynı
-biçimde çıkarılması, sonucun aynı olacağı anlamına gelmez; belirleyici
-olan geliri kimin ne zaman denetlediğidir.
+Aynı kaynağın aynı biçimde
+çıkarılması, sonucun aynı olacağı anlamına gelmez; belirleyici olan geliri kimin ne
+zaman denetlediğidir.[^k3]
 
 ## Kaydın tarafı
 
@@ -219,8 +214,8 @@ anlatılar aynı taraftan gelir.
 Adalıların kendi kaydı sözlü aktarıma dayanır.[^k1] Yazılı hâle
 gelmesi çok sonradır.
 
-Atlas bu dengesizliği ayrıca kaydeder.[^k3] Bu, atlasın Pasifik işçi
-toplama dosyasında kurulan kuralın buradaki karşılığıdır.
+Bu, korpusun Pasifik işçi toplama
+dosyasında kurulan kuralın buradaki karşılığıdır.[^k3]
 
 ## Ada nüfusunun büyüklüğü
 
@@ -231,8 +226,8 @@ Az sayıda kişinin toprağı, çok sayıda tarlanın verimine
 dönüştürüldü.[^k2] Orantısızlık, meselenin özünde yatan asimetriyi
 gösterir.
 
-Atlas bu oranı ayrıca hesaba katar.[^k3] Bir müdahalenin ağırlığı,
-mutlak büyüklüğüyle değil etkilenen topluluğa oranıyla ölçülür.
+Bir müdahalenin ağırlığı, mutlak
+büyüklüğüyle değil etkilenen topluluğa oranıyla ölçülür.[^k3]
 
 ## Suyun sorunu
 
@@ -242,8 +237,8 @@ sağlanıyordu.
 Madencilik bu düzeni de bozdu.[^k1] Yüzeyin kaldırılması, suyun
 tutulduğu yapıyı değiştirdi.
 
-Atlas bu etkiyi ayrıca kaydeder.[^k3] Bir kaynağın çıkarılması,
-yalnızca o kaynağı değil, çevresindeki bütün dengeyi taşır.
+Bir kaynağın çıkarılması, yalnızca o
+kaynağı değil, çevresindeki bütün dengeyi taşır.[^k3]
 
 ## İşgücü nereden geldi
 
@@ -253,9 +248,8 @@ ve uzak ülkelerden getirildi.
 Bu, adalıları kendi topraklarında azınlık hâline getirdi.[^k1] Aynı
 zamanda madencilikten doğan işi de büyük ölçüde dışarıya bıraktı.
 
-Atlas bu düzenlemeyi ayrıca kaydeder.[^k3] Bir topluluğun toprağından
-çıkan gelirden hem mülkiyet hem istihdam yoluyla dışlanması, iki ayrı
-kayıptır.
+Bir topluluğun toprağından çıkan
+gelirden hem mülkiyet hem istihdam yoluyla dışlanması, iki ayrı kayıptır.[^k3]
 
 ## Barakalar ve ayrı düzen
 
@@ -265,9 +259,8 @@ kayıptır.
 Ayrım idari olarak da sürdürüldü.[^k1] Kimin nereye girebileceği ve
 hangi hizmeti alacağı belirlenmişti.
 
-Atlas bu düzeni başka dosyalarda da kaydetmişti.[^k3] Aynı ikili
-yerleşim yapısı, madencilik ve plantasyon bölgelerinde
-tekrarlanır.
+Aynı ikili yerleşim yapısı, madencilik ve
+plantasyon bölgelerinde tekrarlanır.[^k3]
 
 ## Rızanın nasıl alındığı
 
@@ -277,8 +270,8 @@ zamanla daha az gönüllü hâle geldi.
 Sonraki dönemde reddedilen tekliflerin ardından, yönetim toprağı
 zorunlu alım yoluyla devraldı.[^k2] Ret, işlemi durdurmadı.
 
-Atlas bu noktayı ölçüm sayar.[^k3] Reddin sonucu değiştirmediği bir
-düzende, önceki onayların gönüllü olduğu da savunulamaz.
+Reddin sonucu değiştirmediği bir
+düzende, önceki onayların gönüllü olduğu da savunulamaz.[^k3]
 
 ## Kayıtların iki dönemi
 
@@ -288,9 +281,8 @@ dönemi ve komisyon dönemi.
 İkinci dönemin kaydı daha düzenlidir.[^k1] Üç devletin ortak
 denetimi, muhasebe ve raporlamayı standartlaştırdı.
 
-Atlas düzenli kaydın kendiliğinden daha doğru olmadığını
-hatırlatır.[^k3] Standart bir rapor, standart bir çerçevenin de
-kaydıdır.
+Standart bir rapor, standart bir
+çerçevenin de kaydıdır.[^k3]
 
 ## Dilin durumu
 
@@ -300,8 +292,8 @@ adanın uzun süre görece yalıtılmış kalmasıyla açıklanır.
 Yer değiştirme dili tehdit etti.[^k2] Yeni adada çevre dili başkaydı
 ve okul düzeni de farklıydı.
 
-Atlas dili bir kayıt taşıyıcısı sayar.[^k3] Bir dilin daralması,
-o dilde tutulan aktarımın da daralması demektir.
+Bir dilin daralması, o dilde
+tutulan aktarımın da daralması demektir.[^k3]
 
 ## Toprakla kurulan bağın biçimi
 
@@ -312,9 +304,8 @@ düzeninden okunuyordu.
 Madencilik anlaşmaları bu düzeni tanımadı.[^k2] Muhatap olarak tek tek
 imza atabilecek kişiler arandı.
 
-Atlas bu uyumsuzluğu ayrıca kaydeder.[^k3] Bir mülkiyet düzenini
-tanımayan bir sözleşme, o düzeni yok saymakla kalmaz, onu
-parçalar.
+Bir mülkiyet düzenini tanımayan bir
+sözleşme, o düzeni yok saymakla kalmaz, onu parçalar.[^k3]
 
 ## Geri dönüş girişimleri
 
@@ -324,11 +315,10 @@ kısmen gerçekleşti ve küçük bir nüfus adada kaldı.
 Dönenler için koşullar ağırdı.[^k2] Su, toprak ve altyapı büyük ölçüde
 tükenmişti.
 
-Atlas dönüşü ayrıca kaydeder.[^k3] Bir toprakla bağın sürmesi, orada
-yaşamanın mümkün olup olmamasından bağımsız bir tercih olabilir.
+Bir toprakla bağın sürmesi, orada
+yaşamanın mümkün olup olmamasından bağımsız bir tercih olabilir.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, madenciliğin teknik ayrıntısını ve üretim rakamlarını
 vermez.[^k1] Üretim yöntemleri
 ayrı bir alandır.
@@ -340,8 +330,7 @@ Topluluğun kendi kaydından doğrulanabilir çevrimiçi bir metin
 künyelenememiştir.[^k3] Künyedeki iki birincil kaynak da dışarıdan
 gelen tanıklıklardır ve kısıt burada beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı kaynağın çıkarıldığı komşu ada için [Nauru](/aktor/nauru/) dosyası
 okunmalıdır.[^k1]
 

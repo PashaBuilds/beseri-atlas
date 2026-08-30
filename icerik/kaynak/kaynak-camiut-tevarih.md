@@ -75,19 +75,17 @@ Eserin ayırt edici yanı kapsam değil yöntemdir.[^k1] Her bölüm için o
 bölgeden gelen bilgi taşıyıcılarıyla çalışılmış ve yerel kaynaklara
 dayanılmıştır.
 
-## Yöntemin atlas için anlamı
+## Yöntemin korpus için anlamı
 
-Atlasın kendi kaynak ilkesi şudur: bir bölgeyi kendi kaydından okumak,
-dışarıdan yazılmış aktarımlardan okumaya tercih edilir.[^k1] Bu eser aynı
-ilkeyi yedi yüzyıl önce uygulamış görünür.
+Bu eser aynı ilkeyi yedi
+yüzyıl önce uygulamış görünür.[^k1]
 
 Benzerlik gerçektir ama sınırlıdır.[^k3] Yerel kaynağa dayanmak ile o
 kaynağın çerçevesini benimsemek ayrı şeylerdir; eser bilgiyi yerelden alır,
 düzenlemeyi merkezden yapar.
 
-Atlas bu farkı kaydeder çünkü kendi pratiğine de uygulanır.[^k1] Bir bölgenin
-kendi metnini künyelemek, o bölgenin bakış açısını benimsemek anlamına
-gelmez.
+Bir bölgenin kendi metnini künyelemek, o bölgenin
+bakış açısını benimsemek anlamına gelmez.[^k1]
 
 ## Kapsamı mümkün kılan koşul
 
@@ -98,9 +96,9 @@ sağladığı hareket imkânına bağlıydı.
 Bu, eserin kendisini bir kanıt hâline getirir.[^k1] Metnin varlığı, yazıldığı
 dönemde bölgeler arası bilgi akışının hangi düzeye ulaştığını gösterir.
 
-Atlas bu ikinci okumayı ayrıca kaydeder.[^k2] Bir eser, içeriğinden bağımsız
-olarak da bilgi taşır; kim tarafından, nerede ve hangi imkânlarla
-yazılabildiği ayrı bir veridir.
+Bir eser, içeriğinden bağımsız olarak da
+bilgi taşır; kim tarafından, nerede ve hangi imkânlarla yazılabildiği ayrı bir
+veridir.[^k2]
 
 ## Taraflılığı
 
@@ -113,23 +111,22 @@ yönetiminin gerekçesi, eserin ilk ve en ayrıntılı bölümünü oluşturur.
 ::tartismali[Eserin Moğol yönetimini nasıl değerlendirdiği tartışmalıdır;
 bir okuma metni bir meşrulaştırma çalışması sayar, öteki okuma yazarın kendi
 konumundan gelen sınırlar içinde eleştirel bir kayıt tuttuğunu ileri sürer.
-Atlas bir sonuca bağlanmaz.]{harita=tartisma-mogol-etkisi}
+Korpus bir sonuca bağlanmaz.]{harita=tartisma-mogol-etkisi}
 
-Atlas kapsam ile taraflılığı ayrı ayrı değerlendirir.[^k1] Bir eserin geniş
-kapsamlı olması tarafsız olduğu anlamına gelmez; iki nitelik birbirinden
-bağımsızdır.
+Bir eserin geniş kapsamlı olması
+tarafsız olduğu anlamına gelmez; iki nitelik birbirinden bağımsızdır.[^k1]
 
 ## İbn Haldûn ile karşılaştırma
 
-Atlasın kaynak katmanında, aynı yüzyıldan bir başka büyük tarih metni
-bulunur.[^k1] İkisi farklı işler yapar ve karşılaştırma öğreticidir.
+İkisi farklı işler yapar ve
+karşılaştırma öğreticidir.[^k1]
 
 Öteki metin bir yöntem önerisi geliştirir ve tarihin nasıl yazılması
 gerektiğini tartışır.[^k3] Bu metin ise bir derleme sunar ve yöntemi
 uygulayarak gösterir, tartışarak değil.
 
-Atlas iki metni ayrı ayrı künyeler.[^k2] Kuram üreten metin ile malzeme
-sunan metin farklı sorulara cevap verir ve biri ötekinin yerine geçmez.
+Kuram üreten metin ile malzeme sunan metin
+farklı sorulara cevap verir ve biri ötekinin yerine geçmez.[^k2]
 
 ## Metnin durumu
 
@@ -137,12 +134,12 @@ Eserin bugüne ulaşan nüshaları eksiktir ve bölümler farklı elyazmalarınd
 dağınık durumdadır.[^k1] Bazı bölümler yalnızca sonraki kopyalardan
 bilinmektedir.
 
-Bu, atlasın elyazması kaynaklarında olağan bir durumdur.[^k1] Künyede
+Bu, korpusun elyazması kaynaklarında olağan bir durumdur.[^k1] Künyede
 gösterilmez ama metne atıf yapılırken hangi bölüm ve hangi nüshanın
 kastedildiği belirtilmelidir.
 
 Kullanılan künye bir çeviridir.[^k1] Özgün dildeki metnin doğrulanabilir tam
-metin baskısı bu dosya yazıldığında bulunamamıştır ve bu kısıt burada beyan
+metin baskısı bu inceleme yazıldığında bulunamamıştır ve bu kısıt burada beyan
 edilir.
 
 ## Resimli nüshalar
@@ -151,27 +148,26 @@ Eserin bazı nüshaları resimlidir ve resimler farklı gelenekleri bir arada
 kullanır.[^k2] Doğu Asya ve İslam dünyası resim gelenekleri aynı sayfalarda
 görülür.
 
-Bu, atlasın Kuşan dosyasında kaydedilen ayrımın bir başka örneğidir.[^k3]
+Bu, korpusun Kuşan dosyasında kaydedilen ayrımın bir başka örneğidir.[^k3]
 Unsurların yan yana durması ile birleşmesi ayrı süreçlerdir ve burada
 ikisi birden görülür.
 
-Resimli nüshalar bu dosyada künyelenmemiştir.[^k1] Nesne künyesi
-gerektirirler ve doğrulanabilir bir çevrimiçi katalog kaydı bu dosya
+Resimli nüshalar bu incelemede künyelenmemiştir.[^k1] Nesne künyesi
+gerektirirler ve doğrulanabilir bir çevrimiçi katalog kaydı bu inceleme
 yazıldığında bulunamamıştır.
 
 ## Kapsam dışı
 
-Bu dosya eserin ne olduğunu ve nasıl okunması gerektiğini kaydeder; bölüm
+Bu inceleme eserin ne olduğunu ve nasıl okunması gerektiğini kaydeder; bölüm
 bölüm içeriğini vermez.[^k1] Metin kaynakta erişilebilir durumdadır.
 
 Yazarın kendi hayatı ve sonu burada işlenmez.[^k3] Ayrı bir dosya gerektirir
-ve bu dosya yazıldığında atlasta bulunmuyordu.
+ve bu inceleme yazıldığında korpusta bulunmuyordu.
 
 Eserin sonraki tarih yazımı üzerindeki etkisi de kapsam dışıdır.[^k2]
 Aktarım zincirinin izlenmesi ayrı bir çalışma gerektirir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Eserin yazıldığı siyasi düzen için [İlhanlılar](/aktor/ilhanlilar/), o
 düzenin çıktığı ağ için
 [Moğol İmparatorluğu](/aktor/mogol-imparatorlugu/) dosyaları

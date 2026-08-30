@@ -49,7 +49,7 @@ araştırmacıların başka tekniklere başvurmak zorunda olduğunu kaydeder.[^k
 
 ## Kanıt türü toplumun kayıt biçimine bağlıdır
 
-::tartismali[Aynı soru için kullanılabilecek kanıt, incelenen toplumun yazı kullanıp kullanmadığına göre değişiyor. Atlas bu yüzden iklim iddialarını hangi kanıt türüne dayandığı belirtilerek taşır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Aynı soru için kullanılabilecek kanıt, incelenen toplumun yazı kullanıp kullanmadığına göre değişiyor. Korpus bu yüzden iklim iddialarını hangi kanıt türüne dayandığı belirtilerek taşır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Kanıt türlerinin nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -62,7 +62,7 @@ yaşanabilir alanlarının, bölgeye dair geçmiş iklim farklarının kanıtı 
 kullanılabileceğini yazar; polenlerin incelenmesi olan palinolojinin yalnızca
 bitki yayılımını değil olası ekolojiyi de yeniden kurabildiğini kaydeder.[^k1]
 
-Nüfusun bir iklim kanıtı olarak kullanılması,[^k1] atlasın nüfus serisini
+Nüfusun bir iklim kanıtı olarak kullanılması,[^k1] korpusun nüfus serisini
 kullanırken neden hangi soruya cevap verdiğini belirttiğinin dayanağıdır; aynı
 seri farklı sorularda farklı şeyler gösterir.[^k2]
 
@@ -89,8 +89,7 @@ Kanıt türlerinin tarihselliği üzerine yazan bir yazar için tutulan kayıt, 
 1926-1984 arasında yaşamış bir Fransız tarihçi ve filozof olarak verir.[^k3] O
 yazar [Michel Foucault](/dusunur/foucault/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Buzul çağları, Orta Çağ Sıcak Dönemi, Küçük Buz Çağı ve insan kaynaklı iklim
 değişikliği kanıtları burada ayrı başlıklar altında ele alınmamıştır; kaynak
 bunları ayrı bölümler olarak işler.[^k1]

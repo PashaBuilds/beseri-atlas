@@ -74,7 +74,7 @@ Bildirilen esaslar üç başlıkta toplanır.[^k2] Can, mal ve namus
 güvencesi; vergi düzeninin belirli kurallara bağlanması; askerlik
 yükümlülüğünün düzenlenmesi.
 
-Bu dosyanın asıl konusu güvencelerin kapsamıdır.[^k1] Metin,
+Bu incelemenin asıl konusu güvencelerin kapsamıdır.[^k1] Metin,
 güvencelerin bütün uyruklara ayrım gözetilmeksizin tanındığını
 belirtir.
 
@@ -84,7 +84,7 @@ Metnin ayırt edici yanı, hükümdarın kendi koyduğu kurala kendisinin de
 bağlı olduğunu bildirmesidir.[^k1] Bağ, dışarıdan bir zorlamayla değil
 kendi iradesiyle kurulur.
 
-Bu, atlasın Magna Carta dosyasında ölçtüğü durumun tersidir.[^k2] Orada
+Bu, korpusun Magna Carta dosyasında ölçtüğü durumun tersidir.[^k2] Orada
 hükümdarın sınırlanması bir yenilginin ardından ve zorlamayla
 gerçekleşti.
 
@@ -100,8 +100,8 @@ kalkabilir.[^k2] Magna Carta üç ay sonra geçersiz ilan edilmişti.
 Kendi iradesiyle kurulan sınır, aynı iradeyle geri de alınabilir.[^k1] İki
 yolun da kendine özgü kırılganlığı vardır.
 
-Atlas iki yolu bir üstünlük sıralaması olarak yazmaz.[^k3] İkisi farklı
-koşullarda ortaya çıkar ve farklı biçimlerde bozulur.
+İkisi farklı koşullarda ortaya çıkar ve
+farklı biçimlerde bozulur.[^k3]
 
 ## Neden kendi iradesiyle
 
@@ -113,9 +113,8 @@ Gerekçe, düzenlemeyi bir yenilik değil bir dönüş olarak sunar.[^k2]
 Yeni esaslar, terk edilmiş bir düzenin yeniden kurulması biçiminde
 anlatılır.
 
-Atlas bu sunum biçimini ayrıca kaydeder.[^k3] Bir değişimin dönüş
-olarak sunulması, değişimin meşrulaştırılmasında yaygın bir yöntemdir ve
-içeriği hakkında bilgi vermez.
+Bir değişimin dönüş olarak sunulması, değişimin
+meşrulaştırılmasında yaygın bir yöntemdir ve içeriği hakkında bilgi vermez.[^k3]
 
 ## Dış bağlamın rolü
 
@@ -127,8 +126,8 @@ Bu, metnin gerekçesine ilişkin bir soru doğurur.[^k2] Düzenleme yalnızca
 iç hesaba mı, yoksa dış desteği sürdürmeye yönelik bir adıma mı
 dayanıyordu.
 
-Atlas bir sonuca bağlanmaz.[^k1] İki gerekçe birbirini dışlamaz ve
-metnin kendisi ikisini ayırmaya yetmez.
+İki gerekçe birbirini dışlamaz ve metnin
+kendisi ikisini ayırmaya yetmez.[^k1]
 
 ## Kapsam ifadesi
 
@@ -140,13 +139,13 @@ doğrudan etkiler.
 farklılaşıyordu.[^k3] Yeni ifade, güvenceleri bu farklılıktan bağımsız
 kılar.
 
-Atlas bu adımı hak kapsamı dizisine ekler.[^k1] Bu, dizide ölçülen
-üçüncü biçimin — kapsamı açıkça genişletmenin — erken bir örneğidir.
+Bu, dizide ölçülen üçüncü biçimin
+— kapsamı açıkça genişletmenin — erken bir örneğidir.[^k1]
 
 ## Dizideki yeri
 
-Atlasın hak kapsamı dizisi üç belgeden oluşuyordu.[^k1] Bu metin
-dördüncü halkadır ve zaman sıralamasında üçüncü sıradadır.
+Bu metin dördüncü halkadır ve
+zaman sıralamasında üçüncü sıradadır.[^k1]
 
 Dizideki konumu şudur.[^k2] Hammurabi eşitsizliği açıkça yazar; Magna
 Carta kapsamı daraltarak uygular; bu metin kapsamı açıkça genişletir;
@@ -158,7 +157,7 @@ tamamı, hak kapsamının hangi biçimlerde kurulabildiğini gösterir.
 
 ## Uygulamanın ölçülmesi
 
-Metnin ilan edilmesi ile uygulanması ayrı iki olgudur.[^k2] Atlas bu
+Metnin ilan edilmesi ile uygulanması ayrı iki olgudur.[^k2] Korpus bu
 ayrımı bütün hukuk belgesi künyelerinde uygular.
 
 Uygulama düzensiz oldu.[^k3] Bazı bölgelerde yeni esaslar hızla
@@ -174,33 +173,31 @@ Direniş yalnızca bir kesimden gelmedi.[^k3] Ayrıcalığını kaybeden yerel
 güçler ile önceki düzendeki konumunu koruyan kesimler farklı
 gerekçelerle karşı çıktı.
 
-Bu, atlasın çok sayıda reform dosyasında ölçtüğü örüntüdür.[^k2] Bir
+Bu, korpusun çok sayıda reform dosyasında ölçtüğü örüntüdür.[^k2] Bir
 düzenleme, kazananları dağınık ve kaybedenleri örgütlü olduğunda
 uygulanmakta zorlanır.
 
-Atlas örüntüyü ayrıca kaydeder.[^k1] Bir reformun hızı, içeriğinden çok
-kaybedenlerin örgütlenme kapasitesine bağlı olabilir.
+Bir reformun hızı, içeriğinden çok kaybedenlerin
+örgütlenme kapasitesine bağlı olabilir.[^k1]
 
 ## Metnin dolaşımı
 
 Metin, ilan edildikten sonra Fransızcaya çevrilerek Avrupa
-başkentlerine gönderildi.[^k1] Bu dosyanın birinci künyesi o çeviridir.
+başkentlerine gönderildi.[^k1] Bu incelemenin birinci künyesi o çeviridir.
 
 Çevirinin varlığı bir bilgi taşır.[^k3] Metin yalnızca iç bir düzenleme
 değil, dışarıya yönelik bir bildirim olarak da tasarlanmıştı.
 
-Atlas bu ikili işlevi ayrıca kaydeder.[^k2] Bir iç düzenlemenin çevrilip
-dağıtılması, o düzenlemenin muhataplarından birinin dışarısı olduğunu
-gösterir.
+Bir iç düzenlemenin çevrilip dağıtılması,
+o düzenlemenin muhataplarından birinin dışarısı olduğunu gösterir.[^k2]
 
 ## Künyenin dili sorunu
 
-Bu dosyada künyelenen metin Fransızcadır.[^k1] Özgün Osmanlıca metin
+Bu incelemede künyelenen metin Fransızcadır.[^k1] Özgün Osmanlıca metin
 künyelenememiştir.
 
-Atlas bu durumu Waitangi dosyasında kurduğu kuralla ele alır.[^k2] Çok
-dilli bir belgeye atıf yapılırken hangi dildeki metnin kastedildiği
-yazılmalıdır.
+Çok dilli bir belgeye atıf yapılırken hangi
+dildeki metnin kastedildiği yazılmalıdır.[^k2]
 
 Kural burada uygulanmıştır.[^k3] Dosyadaki bütün ifadeler Fransızca
 metne ve ikincil kaynaklara dayanır; iki metin arasında fark bulunup
@@ -211,7 +208,7 @@ bulunmadığı sınanmamıştır ve bu, açık bir eksiktir.
 Metin bir meydanda, yüksek sesle ve kalabalık önünde okundu.[^k2] Okuma
 işlemi, metnin yürürlüğe girmesinin parçasıydı.
 
-Bu, atlasın Hammurabi dosyasında kaydedilen ilan işlevinin bir başka
+Bu, korpusun Hammurabi dosyasında kaydedilen ilan işlevinin bir başka
 biçimidir.[^k1] Orada metin taşa kazınmış ve dikilmişti; burada
 okunmuştur.
 
@@ -228,24 +225,23 @@ Tekrar bir şey gösterir.[^k2] Bir hükmün yeniden ilan edilmesi
 gerekiyorsa, ilk ilanın yeterince uygulanmadığı sonucu
 çıkarılabilir.
 
-Atlas bu çıkarımı ihtiyatla yapar.[^k1] Yeniden ilan, uygulama
-eksikliğinden olduğu kadar dış baskıdan ya da yeni bir hükümdarın kendi
-adına teyit ihtiyacından da doğabilir.
+Yeniden ilan, uygulama eksikliğinden
+olduğu kadar dış baskıdan ya da yeni bir hükümdarın kendi adına teyit ihtiyacından da
+doğabilir.[^k1]
 
 ## Anayasaya giden hat
 
 Bu metin, kırk yıl sonra ilan edilecek yazılı anayasanın hazırlık
-zincirindeki ilk halka sayılır.[^k3] Zincir, atlasın ayrı bir dosyada
+zincirindeki ilk halka sayılır.[^k3] Zincir, korpusun ayrı bir dosyada
 künyelediği metinle tamamlanır.
 
 Zincir kurma bir yorum işlemidir.[^k2] Metnin kendisi bir anayasa
 hazırlığı olduğunu bildirmez.
 
-Atlas iki düzeyi ayrı tutar.[^k1] Bir belgenin sonraki gelişmelerle
-kurduğu bağ, sonradan yapılan bir sıralamadır ve belgeye ait değildir.
+Bir belgenin sonraki gelişmelerle kurduğu bağ,
+sonradan yapılan bir sıralamadır ve belgeye ait değildir.[^k1]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, metnin gerekçesi hakkında hüküm vermez.[^k2] İç hesap ve dış
 baskı gerekçeleri ayrı ayrı kaydedilir.
 
@@ -255,8 +251,7 @@ farkları ölçülmemiştir ve bu, açık bir eksiktir.
 Metnin maddeleri tek tek aktarılmaz.[^k1] Metin künyede erişilebilir
 durumdadır ve dosya yalnızca yapısını ve kapsam ifadesini kaydeder.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı zincirin sonraki halkası için
 [Kânûn-ı Esâsî](/kaynak/kanunuesasi-1876/) dosyası okunmalıdır; ikisi
 birlikte okunduğunda kendini sınırlamanın iki ayrı biçimi görünür.[^k3]

@@ -57,7 +57,7 @@ Kaynak, 1974'te yayımlanan "The Tyranny of a Construct" ile 1994'te yayımlanan
 ortaçağ toplumunu anlamak için yararlı bir kurgu olup olmadığına dair sonuçsuz
 bir tartışmanın sürdüğünü yazar.[^k1]
 
-::tartismali[Bir kavramın tanımladığı şeyi tanımlayıp tanımlamadığı elli yıldır tartışılıyor ve kaynak tartışmayı "sonuçsuz" diye niteliyor. Atlas kavramı kullanır ama bu çekinceyi her kullanımda taşır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bir kavramın tanımladığı şeyi tanımlayıp tanımlamadığı elli yıldır tartışılıyor ve kaynak tartışmayı "sonuçsuz" diye niteliyor. Korpus kavramı kullanır ama bu çekinceyi her kullanımda taşır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu tür kavram tartışmalarının nasıl taşınacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -66,7 +66,7 @@ haritasında ele alınıyor.
 ## Kavramın kendisi geriye dönük bir adlandırmadır
 
 Terimin, tanımladığı dönemde o dönemin insanlarınca kullanılmamış olması,[^k1]
-atlasın anakronizm kapısının neden var olduğunun dayanağıdır; kapı
+korpusun anakronizm kapısının neden var olduğunun dayanağıdır; kapı
 [Anakronizm](/kavram/anakronizm/) dosyasında ele alınıyor.
 
 ## Kaynak kendi tarih yazımını da bölümler
@@ -75,7 +75,7 @@ Kaynak, tarih yazımı başlığı altında kavramın evrimi ile ayrı ayrı adl
 tarihçi yaklaşımlarını alt başlıklar hâlinde tutar; ayrıca 1500-1850'ler arasını
 Avrupa feodalitesinin sonu olarak ayrı bir bölümde işler.[^k1]
 
-Bir kavramın kendi tarih yazımının ayrı bölümler hâlinde tutulması,[^k1] atlasın
+Bir kavramın kendi tarih yazımının ayrı bölümler hâlinde tutulması,[^k1] korpusun
 kavram katmanında neden kavramın kim tarafından nasıl kullanıldığını da
 kaydettiğinin dayanağıdır.
 
@@ -87,11 +87,10 @@ mücadeleleriyle nitelendiğini yazar.[^k2] O gelenek
 [Karl Marx](/dusunur/marx/) dosyasında ele alınıyor.
 
 Bir kavramın hem varlığı tartışmalı hem bir kuramın basamağı olması,[^k1][^k2]
-atlasın bu dosyayı tartışmalı olarak işaretlemesinin ikinci gerekçesidir. Yapısal
+korpusun bu incelemeyi tartışmalı olarak işaretlemesinin ikinci gerekçesidir. Yapısal
 tarih yaklaşımı [Fernand Braudel](/dusunur/braudel/) dosyasında ele alınıyor.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Klasik feodalite, vasallık, Fransa'daki feodal devrim ve feodal toplumun yapısı
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1]

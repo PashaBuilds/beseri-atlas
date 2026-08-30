@@ -202,8 +202,8 @@ yıllardır.
 İki sınır da tartışmalıdır.[^k3] Salgın bölgeye göre farklı yıllarda
 geldi ve etkisi farklı sürelerde sürdü.
 
-Atlas bu tercihi ayrıca beyan eder.[^k5] Bir dönemlendirme, bütün
-bölgeler için değil seçilen eksen için geçerlidir.
+Bir dönemlendirme, bütün bölgeler için
+değil seçilen eksen için geçerlidir.[^k5]
 
 ## Ağın kendisi
 
@@ -214,8 +214,8 @@ ticareti aynı yıllarda en yoğun hâlindeydi.
 Aynı ağ hem malı hem hastalığı taşıdı.[^k1] İkisi ayrı sistemler
 değildir.
 
-Atlas bu bağı dosyanın ekseni sayar.[^k3] Bağlantının artması, taşınan
-her şeyin taşınma hızını artırır ve seçim yapmaz.
+Bağlantının artması, taşınan her şeyin
+taşınma hızını artırır ve seçim yapmaz.[^k3]
 
 ## Tanıklığın kaydı
 
@@ -226,9 +226,8 @@ Anlatılar belirtileri ve seyri benzer biçimde tarif eder.[^k1] Bu
 benzerlik, tek bir hastalık etkeninin varlığına dolaylı bir
 kanıttır.
 
-Atlas bu yakınsamayı ayrıca kaydeder.[^k2] Birbirinden bağımsız
-kayıtların aynı ayrıntıda örtüşmesi, tek tek kayıtlardan daha güçlü
-bir kanıttır.
+Birbirinden bağımsız kayıtların aynı
+ayrıntıda örtüşmesi, tek tek kayıtlardan daha güçlü bir kanıttır.[^k2]
 
 ## Ölü sayısı sorunu
 
@@ -238,8 +237,8 @@ Bölgeden bölgeye ve kaynaktan kaynağa değişir.
 Farkın nedeni öncesi nüfusun bilinmemesidir.[^k1] Vergi kayıtları
 kısmi ve tutarsızdır.
 
-Atlas bu yüzden tek bir oran vermez.[^k5] Bir oranın paydası
-bilinmiyorsa, oranın kendisi de bilinmiyordur.
+Bir oranın paydası bilinmiyorsa,
+oranın kendisi de bilinmiyordur.[^k5]
 
 ## Nüfus çöküşünün süresi
 
@@ -249,9 +248,8 @@ tekrarlayan dalgalar hâlinde döndü.
 Bu, nüfusun toparlanmasını engelledi.[^k3] Her toparlanma girişimi yeni
 bir dalgayla kesildi.
 
-Atlas bu örüntüyü ayrıca kaydeder.[^k5] Tek seferlik büyük bir kayıp
-ile tekrarlanan orta ölçekli kayıplar, aynı toplam sayıda bile farklı
-sonuç üretir.
+Tek seferlik büyük bir kayıp ile
+tekrarlanan orta ölçekli kayıplar, aynı toplam sayıda bile farklı sonuç üretir.[^k5]
 
 ## Emeğin pazarlık gücü
 
@@ -261,8 +259,8 @@ kişi azalınca ücret yükseldi.
 Yükseliş, yasayla engellenmeye çalışıldı.[^k5] Ücret tavanı koyan
 düzenlemeler birçok bölgede çıkarıldı.
 
-Atlas bu tepkiyi ayrıca kaydeder.[^k3] Bir yasanın çıkarılması, engellemeye
-çalıştığı eğilimin gücünün doğrudan kaydıdır.
+Bir yasanın çıkarılması, engellemeye çalıştığı
+eğilimin gücünün doğrudan kaydıdır.[^k3]
 
 ## Yasanın işlemediği yerler
 
@@ -272,8 +270,8 @@ kıtlığı, işverenlerin de kuralı çiğnemesini kârlı kıldı.
 Sonuç, kuralın kâğıtta kalmasıydı.[^k5] Uygulama, yerel güç dengesine
 göre değişti.
 
-Atlas bu ayrımı belge kuralına bağlar.[^k3] Bir metnin resmî konumu
-ile fiilî uygulanma alanı ayrı iki veridir.
+Bir metnin resmî konumu ile fiilî uygulanma alanı
+ayrı iki veridir.[^k3]
 
 ## Toprak düzeninin değişmesi
 
@@ -283,8 +281,8 @@ kalan nüfusa daha elverişli koşullarla verildi.
 Bazı bölgelerde kişisel bağlılığa dayanan yükümlülükler
 gevşedi.[^k5] Bazı bölgelerde ise tersine sıkılaştırıldı.
 
-Atlas bu ayrışmayı ayrıca kaydeder.[^k3] Aynı demografik şok, farklı
-kurumsal zeminlerde karşıt sonuçlar üretti.
+Aynı demografik şok, farklı kurumsal zeminlerde
+karşıt sonuçlar üretti.[^k3]
 
 ## İki yönlü sonuç
 
@@ -294,9 +292,8 @@ serbestleşme, başka yerde bağımlılığın artması sonucunu verdi.
 Belirleyici olan, toprak sahiplerinin örgütlü olup olmamasıydı.[^k5]
 Örgütlü olduğu yerde kısıtlar sıkılaştı.
 
-Atlas bu ölçütü ayrıca kaydeder.[^k3] Bir şokun sonucu, şokun
-büyüklüğünden çok üzerine düştüğü kurumsal yapıdan
-belirlenir.
+Bir şokun sonucu, şokun
+büyüklüğünden çok üzerine düştüğü kurumsal yapıdan belirlenir.[^k3]
 
 ## Ayaklanmalar
 
@@ -306,8 +303,8 @@ vergi, ücret ve kişisel yükümlülüklerle ilgiliydi.
 Ayaklanmaların çoğu bastırıldı.[^k5] Buna karşılık talep edilen
 değişikliklerin bir bölümü sonradan fiilen gerçekleşti.
 
-Atlas bu farkı ayrıca kaydeder.[^k3] Bir hareketin bastırılması,
-taleplerinin gerçekleşmediği anlamına gelmez.
+Bir hareketin bastırılması, taleplerinin
+gerçekleşmediği anlamına gelmez.[^k3]
 
 ## Fiyat ve ücret makası
 
@@ -317,9 +314,8 @@ yükseldi.
 Bu makas, ücretle geçinenlerin lehine işledi.[^k1] Toprak gelirine
 dayananların aleyhine.
 
-Atlas bu dağılımı ayrıca kaydeder.[^k3] Bir demografik şokun kimi
-zenginleştirip kimi yoksullaştırdığı, gelirinin hangi kalemden
-geldiğine bağlıdır.
+Bir demografik şokun kimi zenginleştirip
+kimi yoksullaştırdığı, gelirinin hangi kalemden geldiğine bağlıdır.[^k3]
 
 ## Kişi başına gelirin yükselmesi
 
@@ -330,9 +326,8 @@ azalmasından gelir.
 Bu, göstergenin okunmasında bir uyarıdır.[^k3] Aynı gösterge iki
 bambaşka durumda yükselebilir.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k1] Kişi başına bir ölçünün
-yükselmesi, paydanın küçülmesiyle de sağlanabilir ve bu bir iyileşme
-değildir.
+Kişi başına bir ölçünün yükselmesi, paydanın
+küçülmesiyle de sağlanabilir ve bu bir iyileşme değildir.[^k1]
 
 ## Kentlerin durumu
 
@@ -342,9 +337,8 @@ kolaylaştırıyordu.
 Buna karşılık kentler daha hızlı toparlandı.[^k3] Kırsaldan gelen göç,
 açığı kapattı.
 
-Atlas bu dengeyi ayrıca kaydeder.[^k5] Bir kentin nüfusunu koruması,
-kendi doğum ölüm dengesinden değil çevresinden gelen akıştan
-gelebilir.
+Bir kentin nüfusunu koruması, kendi doğum
+ölüm dengesinden değil çevresinden gelen akıştan gelebilir.[^k5]
 
 ## Sağlık düzenlemeleri
 
@@ -354,8 +348,8 @@ belirli bir süre bekletildikten sonra limana alınıyordu.
 Bu, hastalığın nedeni bilinmeden geliştirilen bir tedbirdi.[^k5]
 Gözleme dayanıyordu, kurama değil.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Bir tedbirin işe yaraması, onu
-uygulayanların nedeni doğru bildiğini göstermez.
+Bir tedbirin işe yaraması, onu uygulayanların nedeni
+doğru bildiğini göstermez.[^k3]
 
 ## Suçlama ve şiddet
 
@@ -365,8 +359,8 @@ Salgın dönemlerinde belirli gruplar suçlandı.[^k1] Suçlamalar toplu
 Bu, salgının doğrudan değil dolaylı bir sonucudur.[^k5] Belirsizlik ve
 korku, mevcut ayrımları keskinleştirdi.
 
-Atlas bu mekanizmayı ayrıca kaydeder.[^k3] Bir felaket, yeni ayrımlar
-üretmekten çok mevcut ayrımları şiddete çevirir.
+Bir felaket, yeni ayrımlar üretmekten
+çok mevcut ayrımları şiddete çevirir.[^k3]
 
 ## Dinî otoritenin sınanması
 
@@ -376,8 +370,8 @@ sınadı.[^k1] Kurumlar da ağır kayıp verdi.
 Sonuç tek yönlü değildir.[^k5] Bazı bölgelerde otorite zayıfladı,
 bazılarında dinî hareketler güçlendi.
 
-Atlas bu ikiliği ayrıca kaydeder.[^k2] Bir kurumun sınanması, zayıflama
-kadar sertleşmeyle de sonuçlanabilir.
+Bir kurumun sınanması, zayıflama
+kadar sertleşmeyle de sonuçlanabilir.[^k2]
 
 ## Osmanlı yükselişi
 
@@ -387,9 +381,8 @@ düzenli ve kurumsaldı.
 Yükselişin bir etkeni, rakiplerinin aynı dönemde salgın ve iç
 çekişmeyle zayıflamış olmasıdır.[^k1] Etken tek değildir.
 
-Atlas bu bağı ihtiyatla kurar.[^k5] Bir yükselişin karşı tarafın
-zayıflamasıyla açıklanması, yükselen tarafın kendi
-kapasitesini görmezden gelir.
+Bir yükselişin karşı tarafın
+zayıflamasıyla açıklanması, yükselen tarafın kendi kapasitesini görmezden gelir.[^k5]
 
 ## Kurumsal süreklilik
 
@@ -400,9 +393,8 @@ kayıtları yeniden yazılıyor, yerel uygulamalar kaydediliyordu.
 Bu, hızlı genişlemeyi mümkün kıldı.[^k1] Her bölge için yeni bir
 düzen kurmak gerekmiyordu.
 
-Atlas bu yöntemi ayrıca kaydeder.[^k3] Mevcut bir düzeni kaydedip
-merkeze bağlamak, onu yıkıp yeniden kurmaktan hızlı ve
-ucuzdur.
+Mevcut bir düzeni kaydedip merkeze bağlamak, onu
+yıkıp yeniden kurmaktan hızlı ve ucuzdur.[^k3]
 
 ## Sur ve top
 
@@ -412,9 +404,8 @@ alındı.[^k2] Olay, savunma mimarisinin sonunu ilan etti.
 Bu, dönemin askerî kırılmasıdır.[^k1] Yüksek duvar artık koruma
 sağlamıyordu.
 
-Atlas bu kırılmayı ayrıca kaydeder.[^k5] Bir savunma biçiminin
-değersizleşmesi, ona güvenen bütün düzenleri aynı anda
-kırılganlaştırır.
+Bir savunma biçiminin değersizleşmesi, ona
+güvenen bütün düzenleri aynı anda kırılganlaştırır.[^k5]
 
 ## Ming düzeni
 
@@ -425,19 +416,19 @@ düzenledi.
 Aynı düzen, yüzyılın başında büyük deniz seferleri düzenledi ve
 sonra bunları durdurdu.[^k3] Durdurma kararı bir tercihti.
 
-Atlas bu kararı ayrıca kaydeder.[^k5] Bir kapasitenin kullanılmaması,
-kapasitenin bulunmadığı anlamına gelmez.
+Bir kapasitenin kullanılmaması, kapasitenin
+bulunmadığı anlamına gelmez.[^k5]
 
 ## Kapasitenin terk edilmesi
 
-Seferlerin durdurulması, atlasta sık tartışılan bir örnektir.[^k1]
+Seferlerin durdurulması, korpusta sık tartışılan bir örnektir.[^k1]
 Karar, iç önceliklerin değişmesiyle açıklanır.
 
 Karşı görüş, seferlerin zaten sürdürülemez maliyette olduğunu
 savunur.[^k5] İki açıklama aynı kayıtlarla uyumludur.
 
-Atlas taraf tutmaz.[^k3] Kaydettiği şey, kapasitenin bulunduğu ve
-kullanılmadığıdır.
+Kaydettiği şey, kapasitenin bulunduğu ve
+kullanılmadığıdır.[^k3]
 
 ## Rönesans
 
@@ -447,8 +438,8 @@ hareket yayıldı.[^k1] Hareketin merkezi kent devletleriydi.
 Maddi tabanı ticaret ve bankacılık gelirleriydi.[^k5] Himaye düzeni,
 sanat üretimini doğrudan finanse ediyordu.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Bir kültürel hareketin coğrafyası,
-çoğu zaman onu finanse edebilen gelirin coğrafyasıdır.
+Bir kültürel hareketin coğrafyası, çoğu
+zaman onu finanse edebilen gelirin coğrafyasıdır.[^k3]
 
 ## Metinlerin gelişi
 
@@ -458,20 +449,20 @@ Klasik metinlerin bir bölümü doğudan geldi.[^k2] Aktarım, çeviri ve
 Bu, hareketin kendi anlatısında her zaman yer almaz.[^k1] Anlatı,
 kesintiden sonra doğrudan bir dönüş olarak kurulur.
 
-Atlas bu boşluğu ayrıca kaydeder.[^k5] Bir hareketin kendi kuruluş
-anlatısı, aktarım zincirini kısaltma eğilimindedir.
+Bir hareketin kendi kuruluş anlatısı,
+aktarım zincirini kısaltma eğilimindedir.[^k5]
 
 ## Basımın eşiği
 
 Yüzyılın ortasında hareketli harfle basım yaygınlaştı.[^k1] Etkisi bu
 dönemde değil sonraki dönemde belirginleşti.
 
-Bu, atlasın tekrar eden bir ölçümüdür.[^k5] Bir teknik değişimin
+Bu, korpusun tekrar eden bir ölçümüdür.[^k5] Bir teknik değişimin
 etkisi, icat tarihinde değil yaygınlaştığı tarihte
 ölçülür.
 
-Atlas iki tarihi ayrı ayrı kaydeder.[^k3] İcat ile yaygınlaşma
-arasındaki aralık, çoğu zaman bir kuşaktan uzundur.
+İcat ile yaygınlaşma arasındaki aralık, çoğu
+zaman bir kuşaktan uzundur.[^k3]
 
 ## Kaydın durumu
 
@@ -481,24 +472,21 @@ defteri, mahkeme sicili ve noter kaydı yaygınlaşmıştır.
 Salgın, kayıt üretimini de artırdı.[^k1] Vasiyetnameler ve miras
 davaları çoğaldı.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k5] Bir felaket, kendi kaydını
-da üretir; ölüm kayıtlarının artması hem olgunun hem kayıt
-pratiğinin sonucudur.
+Bir felaket, kendi kaydını da üretir; ölüm
+kayıtlarının artması hem olgunun hem kayıt pratiğinin sonucudur.[^k5]
 
 ## Dönemin bıraktığı soru
 
 Dosya bir soruyla kapanır.[^k1] Aynı demografik şok neden farklı
 bölgelerde karşıt kurumsal sonuçlar verdi.
 
-Cevap, şokun kendisinde değil üzerine düştüğü yapıdadır.[^k5] Bu, atlasın
+Cevap, şokun kendisinde değil üzerine düştüğü yapıdadır.[^k5] Bu, korpusun
 başka dosyalarında da tekrarlanan bir bulgudur.
 
-Atlas soruyu ayrı bir tartışma dosyasına devreder.[^k3] Aynı nedenin
-farklı sonuçlar vermesi, nedenin yeterli olmadığını
-gösterir.
+Aynı nedenin farklı sonuçlar vermesi, nedenin yeterli
+olmadığını gösterir.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
 dosyasında ayrıntılı ele alınır ve burada yalnızca döneme
 bağlanır.
@@ -508,7 +496,7 @@ tarihlerinden çok ortak mekanizmanın onlardaki görünümünü
 verir.
 
 Sayısal seriler burada yorumlanır, üretilmez.[^k5] Serilerin
-kaynakları ve yöntemleri atlasın veri dosyalarında ayrı ayrı
+kaynakları ve yöntemleri bağlantılı veri incelemelerinde ayrı ayrı
 kayıtlıdır.[^k3]
 
 
@@ -521,9 +509,8 @@ Son yıllarda genetik çalışmalar tartışmaya yeni kanıt
 kattı.[^k5] Kanıt, yazılı kayıtlardan bağımsız bir kaynak
 türüdür.
 
-Atlas bu kanıt türünü ayrıca kaydeder.[^k3] Yazılı kayıtla
-çelişmeyen bağımsız bir kanıt kaynağı, tartışmayı ilerletmenin en
-güçlü yoludur.
+Yazılı kayıtla çelişmeyen
+bağımsız bir kanıt kaynağı, tartışmayı ilerletmenin en güçlü yoludur.[^k3]
 
 ## Hayvan ve insan
 
@@ -533,9 +520,8 @@ bilinmiyordu.[^k1] Tedbirler bu yüzden eksik kaldı.
 Buna karşılık bazı gözleme dayalı tedbirler işe yaradı.[^k5] Temas
 kesme ve bekletme, nedeni bilinmeden de etkiliydi.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Doğru bir tedbir yanlış bir
-kuramla birlikte var olabilir; ikisi ayrı ayrı
-değerlendirilmelidir.
+Doğru bir tedbir yanlış bir kuramla birlikte var
+olabilir; ikisi ayrı ayrı değerlendirilmelidir.[^k3]
 
 ## Tarımın çekilmesi
 
@@ -545,9 +531,8 @@ edildi.
 Terk edilen alanlar otlağa ve ormana döndü.[^k1] Bu, hayvancılığın
 payını artırdı.
 
-Atlas bu kaymayı ayrıca kaydeder.[^k3] Bir nüfus kaybı, tarım
-düzenini yalnızca küçültmez; bileşimini de
-değiştirir.
+Bir nüfus kaybı, tarım düzenini yalnızca
+küçültmez; bileşimini de değiştirir.[^k3]
 
 ## Beslenmenin değişmesi
 
@@ -557,9 +542,8 @@ dönemde hane başına et tüketiminde artış gösterir.
 Bu, kişi başına gelirdeki yükselişle uyumludur.[^k1] Kalan nüfus daha
 iyi besleniyordu.
 
-Atlas bu bulguyu ihtiyatla kaydeder.[^k3] Bir ortalamanın iyileşmesi,
-kaybın büyüklüğünü telafi etmez ve iki olgu aynı hanede
-toplanamaz.
+Bir ortalamanın iyileşmesi, kaybın
+büyüklüğünü telafi etmez ve iki olgu aynı hanede toplanamaz.[^k3]
 
 ## Askerî düzenin değişimi
 
@@ -569,8 +553,8 @@ bulmak zorlaştı.
 Bu, ücretli ve uzman birliklerin payını artırdı.[^k2] Uzun eğitimli
 okçu ve ateşli silah kullanan birlikler öne çıktı.
 
-Atlas bu bağı ayrıca kaydeder.[^k5] Bir askerî tercihin arkasında
-çoğu zaman bir işgücü piyasası koşulu vardır.
+Bir askerî tercihin arkasında çoğu zaman
+bir işgücü piyasası koşulu vardır.[^k5]
 
 ## Ateşli silahın yayılması
 
@@ -581,9 +565,8 @@ Yayılmanın hızı, silahın kendisinden çok üretim ve tedarik ağının
 varlığına bağlıydı.[^k1] Barut ve metal işleme kapasitesi
 gerekiyordu.
 
-Atlas bu koşulu ayrıca kaydeder.[^k5] Bir teknolojinin
-benimsenmesi, onu üretebilecek altyapının bulunmasına
-bağlıdır.
+Bir teknolojinin benimsenmesi, onu üretebilecek
+altyapının bulunmasına bağlıdır.[^k5]
 
 ## Deniz teknolojisi
 
@@ -593,9 +576,8 @@ birleştirilmesi, rüzgâra karşı seyri kolaylaştırdı.
 Bu, okyanus seferlerinin ön koşuludur.[^k5] Sonraki dönemin
 genişlemesi bu teknik birikime dayanır.
 
-Atlas bu birikimi ayrıca kaydeder.[^k3] Bir dönemin en görünür
-olayları, çoğu zaman bir önceki dönemin sessiz teknik
-birikiminden çıkar.
+Bir dönemin en görünür olayları, çoğu
+zaman bir önceki dönemin sessiz teknik birikiminden çıkar.[^k3]
 
 ## Bankacılığın gelişmesi
 
@@ -605,21 +587,21 @@ Uzun mesafeli ticaret, ödeme araçlarını geliştirdi.[^k1] Poliçe ve
 Bu araçlar, nakit taşımadan ödeme yapmayı mümkün kıldı.[^k5] Yol
 güvenliği sorununu kısmen ortadan kaldırdı.
 
-Atlas bu yeniliği ayrıca kaydeder.[^k3] Bir kayıt tekniğinin
-yaygınlaşması, taşınan malın miktarından bağımsız olarak ticaretin
-menzilini artırabilir.
+Bir kayıt tekniğinin
+yaygınlaşması, taşınan malın miktarından bağımsız olarak ticaretin menzilini
+artırabilir.[^k3]
 
 ## Kayıt tekniğinin kendisi
 
 Çift girişli defter, bir işlemin iki tarafını birden kaydeder.[^k1]
 Bu, hatayı kendiliğinden görünür kılar.
 
-Teknik, atlasın kendi yöntemine yakındır.[^k5] Bir kaydın kendi içinde
+Teknik, korpusun kendi yöntemine yakındır.[^k5] Bir kaydın kendi içinde
 tutarlılık sınavı taşıması, dışarıdan doğrulama ihtiyacını
 azaltır.
 
-Atlas bu benzerliği ayrıca kaydeder.[^k3] İyi bir kayıt düzeni,
-yalnızca bilgi saklamaz; kendi hatasını da gösterir.
+İyi bir kayıt düzeni, yalnızca bilgi
+saklamaz; kendi hatasını da gösterir.[^k3]
 
 ## Kent devletlerinin konumu
 
@@ -627,12 +609,11 @@ Batıda birkaç kent devleti, kendilerinden çok büyük düzenlerle
 pazarlık edebilir hâle geldi.[^k1] Güçleri topraktan değil ticaret ve
 kredi kapasitesinden geliyordu.
 
-Bu, atlasın ağ tipi hâkimiyet dosyasındaki yapıya yakındır.[^k5] Küçük
+Bu, korpusun ağ tipi hâkimiyet dosyasındaki yapıya yakındır.[^k5] Küçük
 alan, büyük bağlantı.
 
-Atlas bu benzerliği ayrıca kaydeder.[^k3] Bir düzenin ağırlığı
-yüzölçümünden değil bağlantılarının menzilinden
-okunur.
+Bir düzenin ağırlığı yüzölçümünden değil
+bağlantılarının menzilinden okunur.[^k3]
 
 ## Doğuda kentleşme
 
@@ -642,12 +623,10 @@ fazlaydı.[^k3] Kentleşme oranı bölgeler arasında farklıydı.
 Bu fark, dönemin ağırlık dağılımını gösterir.[^k5] Küresel merkez
 henüz batıya kaymamıştı.
 
-Atlas bu dengeyi ayrıca kaydeder.[^k1] Bir dönemi sonraki dönemin
-merkezinden okumak, o dönemin kendi dağılımını yanlış
-gösterir.
+Bir dönemi sonraki dönemin merkezinden
+okumak, o dönemin kendi dağılımını yanlış gösterir.[^k1]
 
-## Dönemi atlasta okumak
-
+## Dönemin bağlantıları
 Bu döneme bağlanan dosyalar dört öbekte toplanır.[^k1] Salgının olay
 ve tartışma dosyaları, yükselen düzenlerin aktör dosyaları, kültürel
 hareketin düşünür dosyaları ve dönemin veri dosyaları.
@@ -666,9 +645,8 @@ adlarına rastlanır.
 Bu değişim kalıcı olmadı.[^k5] Nüfus toparlandıkça kısıtlar yeniden
 sıkılaştırıldı.
 
-Atlas bu geri dönüşü ayrıca kaydeder.[^k3] Bir kıtlık döneminde
-gevşeyen kısıt, kıtlık geçince kendiliğinden geri gelmez; geri
-getirilmesi ayrı bir karardır.
+Bir kıtlık döneminde gevşeyen kısıt, kıtlık
+geçince kendiliğinden geri gelmez; geri getirilmesi ayrı bir karardır.[^k3]
 
 ## Evlilik yaşı
 
@@ -679,9 +657,8 @@ kolaylaştırıyordu.
 Bu, doğurganlığı doğrudan etkiler.[^k1] Geç evlilik, hane başına düşen
 çocuk sayısını azaltır.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Demografik davranış, gelir
-düzeyine doğrudan değil hane kurma maliyeti üzerinden
-bağlanır.
+Demografik davranış, gelir düzeyine
+doğrudan değil hane kurma maliyeti üzerinden bağlanır.[^k3]
 
 ## Toparlanmanın süresi
 
@@ -692,9 +669,8 @@ Bu, dönemin bütününü kapsayan bir kısıttır.[^k5] Dönemin ekonomik ve
 siyasi olaylarının çoğu, nüfusun henüz toparlanmadığı bir zeminde
 gerçekleşti.
 
-Atlas bu zemini ayrıca kaydeder.[^k1] Bir dönemin olayları, o dönemin
-demografik durumu belirtilmeden tam olarak
-değerlendirilemez.
+Bir dönemin olayları, o dönemin
+demografik durumu belirtilmeden tam olarak değerlendirilemez.[^k1]
 
 
 ## Kaydın bölgesel dengesizliği
@@ -707,9 +683,8 @@ Salgının etkisi bu yüzden her yerde aynı güvenle
 ölçülemez.[^k3] Kaydı zengin olan bölgelerin sayıları, kaydı zayıf
 bölgelere uzatılamaz.
 
-Atlas bu kısıtı ayrıca beyan eder.[^k5] Bir bölge için ölçülen bir
-oranı bütün kıtaya uygulamak, ölçümü değil varsayımı
-yaymaktır.
+Bir bölge için ölçülen bir oranı
+bütün kıtaya uygulamak, ölçümü değil varsayımı yaymaktır.[^k5]
 
 ## Fikir dünyası
 

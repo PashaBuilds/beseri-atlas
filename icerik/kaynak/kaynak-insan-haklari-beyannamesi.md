@@ -79,13 +79,13 @@ bildirir.
 Belge bir antlaşma değildir.[^k2] Kabul edildiği anda hiçbir devlet için
 bağlayıcı yükümlülük doğurmadı.
 
-Bu dosyanın asıl konusu kapsam iddiasıdır.[^k1] Metin, kapsamını
+Bu incelemenin asıl konusu kapsam iddiasıdır.[^k1] Metin, kapsamını
 daraltmak yerine evrensel olduğunu açıkça ilan eder.
 
 ## Üçlü dizinin tamamlanması
 
-Atlas bu metni iki belgeyle birlikte okur.[^k1] Üçü arasında üç bin yedi
-yüz yıl vardır ve üçü de hak kapsamını farklı biçimde kurar.
+Üçü arasında üç bin yedi yüz
+yıl vardır ve üçü de hak kapsamını farklı biçimde kurar.[^k1]
 
 Birinci belge eşitsizliği açıkça yazar.[^k1] Ceza, tarafların
 konumuna göre değişir ve konum adlandırılır.
@@ -117,9 +117,9 @@ olmadığı ayrı iki sorudur.
 Bu metinde iki soru zıt yönde ayrışır.[^k2] Kapsam en geniş, bağlayıcılık
 en zayıf hâldedir.
 
-Atlas bu ilişkiyi ayrıca kaydeder.[^k1] Kapsamın genişlemesi ile
-yaptırımın zayıflaması arasında bir bağ bulunup bulunmadığı, tek bir
-örnekten çıkarılamaz ve açık bir soru olarak bırakılır.
+Kapsamın genişlemesi ile yaptırımın
+zayıflaması arasında bir bağ bulunup bulunmadığı, tek bir örnekten çıkarılamaz ve açık
+bir soru olarak bırakılır.[^k1]
 
 ## Kabul oylaması
 
@@ -131,9 +131,8 @@ vermediğini ve iç işlere karışma zemini yarattığını ileri sürdü.[^k2]
 Başka bir gerekçe, bazı maddelerin yerel hukuk geleneğiyle
 bağdaşmamasıydı.
 
-Atlas gerekçeleri kaydeder ve değerlendirmez.[^k3] Bir metne yöneltilen
-itirazların içeriği, o metnin hangi noktalarda gerçekten yeni olduğunu
-da gösterir.
+Bir metne yöneltilen itirazların
+içeriği, o metnin hangi noktalarda gerçekten yeni olduğunu da gösterir.[^k3]
 
 ## Kabul tarihindeki dünya
 
@@ -144,9 +143,9 @@ yöneten devletlerin bir bölümü metne olumlu oy verdi.
 Metin, siyasi statünün fark yaratmayacağını yazıyordu.[^k1] Uygulamada
 bu topraklarda metin doğrudan yürürlüğe girmedi.
 
-Atlas bu gerilimi ayrıca kaydeder.[^k3] Bir metnin kapsamı ile o metni
-kabul edenlerin yönettiği düzen çeliştiğinde, çelişki metnin kendisinde
-değil kabulün koşullarında aranmalıdır.
+Bir metnin kapsamı ile o metni
+kabul edenlerin yönettiği düzen çeliştiğinde, çelişki metnin kendisinde değil kabulün
+koşullarında aranmalıdır.[^k3]
 
 ## Vesayet dosyasıyla bağ
 
@@ -158,9 +157,8 @@ belgeye dayanıyordu.
 statüden bağımsız eşitlik ilan eder, öteki statüye göre derecelendirme
 yapar.
 
-Atlas çelişkiyi çözmez, kaydeder.[^k3] Bir kurumun aynı anda iki zıt
-ilkeyi taşıması olağandır ve bu, ilkelerden birinin sahte olduğunu
-göstermez.
+Bir kurumun aynı anda iki zıt ilkeyi
+taşıması olağandır ve bu, ilkelerden birinin sahte olduğunu göstermez.[^k3]
 
 ## Bağlayıcılığın sonradan kurulması
 
@@ -168,7 +166,7 @@ Metin bağlayıcı olmadığı hâlde sonraki yıllarda bağlayıcı sözleşmel
 temeli oldu.[^k2] İki büyük sözleşme, metnin maddelerini yükümlülük
 hâline getirdi.
 
-Bu, atlasın Magna Carta dosyasında ölçtüğü örüntünün tersidir.[^k1]
+Bu, korpusun Magna Carta dosyasında ölçtüğü örüntünün tersidir.[^k1]
 Orada bağlayıcı bir uzlaşma sonradan genel bir ilkeye dönüştürülmüştü;
 burada genel bir ilke sonradan bağlayıcı hâle getirildi.
 
@@ -183,12 +181,10 @@ mevcut sayılır ve devletlerin görevi onları korumak olarak tanımlanır.
 Bu dil tercihi bir konum taşır.[^k3] Hakların devlet tarafından
 verildiği kabul edilseydi, devlet onları geri de alabilirdi.
 
-Atlas tercihin sonucunu ayrıca yazar.[^k2] Metnin kendi mantığı içinde,
-bir devletin hakları tanımaması onları ortadan kaldırmaz; yalnızca ihlal
-eder.
+Metnin kendi mantığı içinde, bir devletin
+hakları tanımaması onları ortadan kaldırmaz; yalnızca ihlal eder.[^k2]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, metnin gerçekten evrensel olup olmadığı hakkında hüküm
 vermez.[^k1] Kapsam iddiasını, kabul koşullarını ve sonraki uygulamayı
 ayrı ayrı kaydeder.
@@ -197,10 +193,9 @@ Maddelerin tek tek içeriği aktarılmaz.[^k2] Metin künyede erişilebilir
 durumdadır.
 
 Sonraki insan hakları hukukunun gelişimi izlenmez.[^k3] Ayrı dosyalar
-gerektirir ve bu dosya yazıldığında atlasta bulunmuyorlardı.
+gerektirir ve bu inceleme yazıldığında korpusta bulunmuyorlardı.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Dizinin öteki iki halkası için
 [Hammurabi Kanunları](/kaynak/hammurabi-kanunlari/) ve
 [Magna Carta](/kaynak/magna-carta/) dosyaları okunmalıdır; üçü birlikte

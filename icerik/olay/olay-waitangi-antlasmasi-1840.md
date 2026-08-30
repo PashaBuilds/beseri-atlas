@@ -74,8 +74,8 @@ toplandı.
 Belgenin iki metni vardır.[^k1] Biri İngilizce, biri yerel dildedir ve
 ikisi aynı şeyi söylemez.
 
-Bu dosya olayın kendisini değil, iki metinli olmanın ne anlama geldiğini
-kaydeder.[^k2] Atlas için asıl konu buradadır.
+Bu inceleme olayın kendisini değil, iki metinli olmanın ne anlama geldiğini
+kaydeder.[^k2] Korpus için asıl konu buradadır.
 
 ## İki metin
 
@@ -123,7 +123,7 @@ yetkiyi tam karşılayan bir yerel terim yoktu ve en yakın karşılık
 seçildi.
 
 Başka bir okumaya göre seçim, imzayı kolaylaştıracak yönde
-yapılmıştır.[^k3] Atlas iki okuma arasında bir sonuca bağlanmaz; ikisinin
+yapılmıştır.[^k3] Korpus iki okuma arasında bir sonuca bağlanmaz; ikisinin
 de aynı belgeye dayandığını kaydeder.
 
 ## Terimin geçmişi
@@ -135,9 +135,8 @@ benzer bir terim tercihi yapmıştı.
 Bu, terimin rastgele seçilmediğini gösterir.[^k1] Seçim bir alışkanlığın
 sürdürülmesidir ve alışkanlığın kendisi incelenebilir bir veridir.
 
-Atlas terim tercihlerini ayrıca izler.[^k2] Bir çevirinin hangi
-sözcükleri düzenli olarak hangi karşılıklarla verdiği, çevirmenin
-çerçevesini gösterir.
+Bir çevirinin hangi sözcükleri düzenli
+olarak hangi karşılıklarla verdiği, çevirmenin çerçevesini gösterir.[^k2]
 
 ## Toprak alım tekeli
 
@@ -152,13 +151,13 @@ fiyatı belirleme gücünü de tek elde toplar.
 
 ## Bir belge iki belge olabilir
 
-Atlasın bu dosyadan çıkardığı kayıt tek cümleyle ifade edilebilir.[^k1]
-**Bir belgenin ne söylediği, hangi metninin okunduğuna bağlı olabilir.**
+**Bir belgenin ne söylediği,
+hangi metninin okunduğuna bağlı olabilir.**[^k1]
 
 İfade bir yorum değildir.[^k2] İki metin de özgün, ikisi de imzalanmış ve
 ikisi de aynı belgenin parçası sayılmaktadır.
 
-Kural atlasın bütün antlaşma dosyalarına uygulanır.[^k1] Çok dilli bir
+Kural korpusun bütün antlaşma dosyalarına uygulanır.[^k1] Çok dilli bir
 belgeye atıf yapılırken hangi dildeki metnin kastedildiği yazılmalıdır.
 
 ## Sonraki on yıllar
@@ -171,8 +170,8 @@ Bir dönem boyunca belgenin iç hukukta doğrudan hüküm doğurmadığı kabul
 edildi.[^k4] Bu kabul, belgenin varlığını ortadan kaldırmadı ama
 uygulanabilirliğini askıya aldı.
 
-Atlas bu ayrımı kaydeder.[^k3] Bir belgenin geçerli sayılması ile
-uygulanabilir sayılması ayrı iki durumdur.
+Bir belgenin geçerli sayılması ile uygulanabilir
+sayılması ayrı iki durumdur.[^k3]
 
 ## İnceleme kurulunun kurulması
 
@@ -186,9 +185,9 @@ edildiği andır.[^k3] Öncesinde sorun vardı ama muhatabı yoktu.
 Kurulun kararları bağlayıcı değildir.[^k3] Bu, kurulun konumunu anlamak
 için gerekli bir ayrıntıdır.
 
-## Kurulun atlas için konumu
+## Kurulun korpus için konumu
 
-Kurul bir taraftır ve atlas onu tarafsız bir kaynak saymaz.[^k3] Künyede
+Kurul bir taraftır ve korpus onu tarafsız bir kaynak saymaz.[^k3] Künyede
 yer alması, bir olguyu değil bir kurumsal değerlendirmeyi aktarmak
 içindir.
 
@@ -196,8 +195,8 @@ Aynı kural bütün resmî kurullar için geçerlidir.[^k2] Bir kurumun kendi
 yetki alanı hakkındaki değerlendirmesi, o kurum hakkında da bilgi
 taşır.
 
-Atlas bu tür kaynakları reddetmez, konumlandırır.[^k1] Reddetmek, elde
-bulunan en ayrıntılı incelemeyi kaybetmek olurdu.
+Reddetmek, elde bulunan en
+ayrıntılı incelemeyi kaybetmek olurdu.[^k1]
 
 ## Belirsizliğin hukuki ele alınışı
 
@@ -209,12 +208,12 @@ Bir başkası, imzalayan tarafın gerçekte ne anladığına bakmaktır.[^k1]
 İmzaların çoğunun yerel metne atılmış olması bu ölçüt bakımından
 belirleyicidir.
 
-Atlas hangi yaklaşımın doğru olduğunu söylemez.[^k2] Yaklaşımların
-varlığını ve hangisinin hangi sonuca götürdüğünü kaydeder.
+Yaklaşımların varlığını ve hangisinin
+hangi sonuca götürdüğünü kaydeder.[^k2]
 
 ## Künyelenen metnin özelliği
 
-Bu dosyanın birinci künyesi, iki metni birlikte basan bir eke
+Bu incelemenin birinci künyesi, iki metni birlikte basan bir eke
 dayanır.[^k1] Ek, imza töreninde bulunmuş bir matbaacının kitabındandır
 ve iki metni yan yana verir.
 
@@ -228,14 +227,14 @@ metinle sınırlı olduğu, dosyanın konusuyla doğrudan ilgilidir.
 ## Erişimin ürettiği varsayılan okuma
 
 Bir belgenin hangi metninin daha kolay bulunduğu, hangi metnin
-okunacağını da belirler.[^k2] Bu dosya yazılırken yapılan arama, önce
+okunacağını da belirler.[^k2] Bu inceleme yazılırken yapılan arama, önce
 yalnızca İngilizce metni verdi.
 
 Yerel dildeki metne ulaşmak, bir görgü tanığının kitabının ekine inmeyi
 gerektirdi.[^k1] Erişim farkı, iki metnin ağırlığını da farklılaştırır.
 
-Atlas bu mekanizmayı daha önce başka bölgelerde de ölçmüştü.[^k4]
-Dijital erişim eşitsizliği, kaynak yanlılığını sessizce üretir.
+Dijital erişim eşitsizliği, kaynak
+yanlılığını sessizce üretir.[^k4]
 
 ## Tanıklık katmanı
 
@@ -251,13 +250,13 @@ işlenir.
 
 ## Okyanusya kaydı bakımından
 
-Bu dosya, atlasın Okyanusya katmanındaki ilk olay dosyasıdır.[^k4]
+Bu inceleme, atlasın Okyanusya katmanındaki ilk olay dosyasıdır.[^k4]
 Katman uzun süre yalnızca aktör ve kavram dosyalarından oluşuyordu.
 
 Boşluğun nedeni ilgisizlik değil kaynak erişimiydi.[^k2] Bölgenin resmî
 kurum siteleri otomatik erişime kapalıdır ve künyelenemez.
 
-Bu dosya boşluğu, erişilebilir bir metin transkripsiyonu bulunarak
+Bu inceleme boşluğu, erişilebilir bir metin transkripsiyonu bulunarak
 kapattı.[^k1] Yöntem not edilmiştir: kapalı bir kurum sitesi yerine, aynı
 metnin açık transkripsiyonu aranır.
 
@@ -270,8 +269,8 @@ açıklanmıştır.
 Sözlü açıklamanın içeriği tartışmalıdır.[^k1] Törende bulunanların
 sonradan yazdıkları birbiriyle her noktada örtüşmez.
 
-Atlas bu boşluğu doldurmaz.[^k3] Yazılı metinle sözlü sunum arasındaki
-farkın ölçülemediği durumlar, ölçülmüş gibi aktarılmaz.
+Yazılı metinle sözlü sunum arasındaki
+farkın ölçülemediği durumlar, ölçülmüş gibi aktarılmaz.[^k3]
 
 ## Belgenin fiziksel hâli
 
@@ -287,7 +286,7 @@ nüsha belirtilmelidir.
 
 Nüshaların bir bölümü sonraki yüzyılda hasar gördü.[^k4] Bugün okunan
 metinler, hasarlı asıllardan değil önceki transkripsiyonlardan gelir ve
-bu zincir atıfta belirtilmelidir; atlasın künyesi de bir
+bu zincir atıfta belirtilmelidir; korpusun künyesi de bir
 transkripsiyondur, asıl nüsha değildir.
 
 ## Kapsam dışı
@@ -296,26 +295,24 @@ transkripsiyondur, asıl nüsha değildir.
 yerlerde toplanan imzaların koşulları ayrı bir çalışma gerektirir.
 
 Sonraki yüzyılın toprak davaları ve savaşları da kapsam dışıdır.[^k3]
-Ayrı dosyalar gerektirirler ve bu dosya yazıldığında atlasta
+Ayrı dosyalar gerektirirler ve bu inceleme yazıldığında korpusta
 bulunmuyorlardı.
 
-Belgenin bugünkü hukuki konumu tartışılmaz.[^k3] Atlas güncel hukuki
+Belgenin bugünkü hukuki konumu tartışılmaz.[^k3] Korpus güncel hukuki
 durumlar hakkında hüküm vermez ve yürürlükteki davalara ilişkin bir
 değerlendirme yapmaz; dosya yalnızca belgenin tarihsel kaydını tutar.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya iki metinden birini doğru saymaz.[^k1] İkisinin de var olduğunu ve
 farklı şeyler söylediğini kaydeder.
 
 Tarafların niyetleri hakkında da bir sonuca varılmaz.[^k2] Niyet,
 belgeden doğrudan okunamayan bir şeydir.
 
-Bu konu için ayrı bir tartışma dosyası gereklidir.[^k3] Bu dosya
-yazıldığında atlasta bulunmuyordu ve eksik kaynak defterine yazılmıştır.
+Bu konu için ayrı bir tartışma dosyası gereklidir.[^k3] Bu inceleme
+yazıldığında korpusta bulunmuyordu ve eksik kaynak defterine yazılmıştır.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Antlaşmanın bir tarafını oluşturan topluluklar için
 [Maori](/aktor/maori/), öteki tarafı için
 [Britanya İmparatorluğu](/aktor/britanya-imparatorlugu/) dosyaları

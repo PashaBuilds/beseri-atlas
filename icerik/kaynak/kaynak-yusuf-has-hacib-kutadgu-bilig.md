@@ -80,9 +80,8 @@ Bir siyaset metninin öğüt yerine konuşma biçimini seçmesi, kendi başına 
 tercihtir.[^k2] Öğüt tek yönlüdür ve itiraz taşımaz; konuşma, itirazın
 metnin içinde bulunmasını gerektirir.
 
-Atlas bu biçimi kaydeder çünkü kaynak dosyalarında tekrar eden bir ayrımı
-görünür kılar.[^k1] Bir metnin ne söylediği kadar, karşı görüşe kendi
-içinde yer açıp açmadığı da o metnin nasıl okunacağını belirler.
+Bir metnin ne söylediği kadar, karşı görüşe kendi
+içinde yer açıp açmadığı da o metnin nasıl okunacağını belirler.[^k1]
 
 Karşılaştırma yakındır. Aynı yüzyılda ve yakın bir siyasi çevrede yazılmış
 öteki yönetim metinleri için [Nizâmülmülk](/dusunur/nizamulmulk/) dosyası
@@ -91,7 +90,7 @@ okunmalıdır;[^k2] iki metnin biçim tercihi aynı değildir.
 ## Metnin durumu
 
 Metin tek bir nüshadan gelmez ve nüshalar arasında farklar
-bulunur.[^k2][^k3] Bu, atlasın elyazması kaynaklarında olağan bir durumdur
+bulunur.[^k2][^k3] Bu, korpusun elyazması kaynaklarında olağan bir durumdur
 ve künyede ayrıca gösterilmez.
 
 Kullanılan kaynak, Uygur harfli metni ve çevirisini birlikte
@@ -99,46 +98,44 @@ sunar.[^k1] Bu imkân bu metin için özellikle değerlidir: temel terimlerin
 karşılıkları büyük ölçüde yorum taşır ve çeviri tercihi metnin siyasi
 iddiasını doğrudan etkiler.
 
-Atlas bu yüzden bu dosyada terimleri tanımlamaya çalışmaz.[^k1][^k2]
-Karşılıklar metnin kendisinden ve çeviri karşılaştırmasından okunmalıdır.
+Karşılıklar metnin kendisinden ve çeviri
+karşılaştırmasından okunmalıdır.[^k1][^k2]
 
 ## Yazar hakkında bilinenin sınırı
 
 Yazar hakkında bilinenlerin neredeyse tamamı metnin kendi içinden
 gelir.[^k3] Dışarıdan gelen bağımsız kayıt yok denecek kadar azdır.
 
-Bu durum atlasın genel bir kuralını gerektirir. Bir kişi hakkındaki bilginin
+Bu durum korpusun genel bir kuralını gerektirir. Bir kişi hakkındaki bilginin
 kaynağı yalnızca o kişinin eseriyse, kişi dosyası ile eser dosyası birbirinin
 yerine geçemez;[^k3] eserin söylediği, yazarın hayatının kanıtı sayılamaz.
 
-Atlas bu yüzden bu dosyayı esere ayırmıştır.[^k1][^k2] Yazar için ayrı bir
-dosya açılması, bağımsız bir kaydın bulunmasına bağlıdır.
+Yazar için ayrı bir dosya açılması,
+bağımsız bir kaydın bulunmasına bağlıdır.[^k1][^k2]
 
-## Atlastaki yeri
-
-Bu dosya, atlasın Orta Asya kaynak katmanındaki ikinci metindir ve birincisiyle
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun Orta Asya kaynak katmanındaki ikinci metindir ve birincisiyle
 birlikte okunmak üzere yazılmıştır.[^k1] Önceki dosya bir devletin kendini
-nasıl anlattığını, bu dosya ise aynı bölgede yönetimin nasıl tartışıldığını
+nasıl anlattığını, bu inceleme ise aynı bölgede yönetimin nasıl tartışıldığını
 gösterir.
 
 İki metin arasında yüzyıllar ve bir din değişimi vardır.[^k2] Buna rağmen
 ikisi de aynı soruyu sorar: yönetimin dayanağı nedir ve kaybedildiğinde ne
 olur?
 
-Atlas bu sürekliliği bir tez olarak ileri sürmez.[^k3] İki dosyanın yan yana
-durması, karşılaştırmanın okurun elinde kalmasını sağlar; sonuç yazılmaz.
+İki dosyanın yan yana durması,
+karşılaştırmanın okurun elinde kalmasını sağlar; sonuç yazılmaz.[^k3]
 
 ## Kapsam dışı
 
-Bu dosya metnin ne olduğunu ve nasıl kurulduğunu kaydeder; bölüm bölüm
+Bu inceleme metnin ne olduğunu ve nasıl kurulduğunu kaydeder; bölüm bölüm
 içeriğini vermez.[^k1] Metnin kendisi kaynakta erişilebilir durumdadır.
 
 Metnin dil özellikleri, nüsha tarihi ve sonraki edebî etkisi de burada
-işlenmez.[^k2][^k3] Her biri ayrı dosya gerektirir ve bu dosya yazıldığında
-atlasta bulunmuyorlardı.
+işlenmez.[^k2][^k3] Her biri ayrı dosya gerektirir ve bu inceleme yazıldığında
+korpusta bulunmuyorlardı.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Metnin yazıldığı siyasi çevre için [Karahanlılar](/aktor/karahanlilar/),
 aynı yüzyılın başka bir yönetim metni için
 [Nizâmülmülk](/dusunur/nizamulmulk/) dosyaları okunmalıdır.

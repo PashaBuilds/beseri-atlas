@@ -54,7 +54,7 @@ taşır: kentsel alan türü için pay, veri türü tahminler.[^k1]
 ## Sütun adı bir tanım beyanıdır
 
 Bir ölçünün sütun adında hem alan türünün hem veri türünün belirtilmesi,[^k1]
-atlasın şu kuralının dayanağıdır: bu dosyada kentleşme oranı, hangi kentsel
+korpusun şu kuralının dayanağıdır: bu incelemede kentleşme oranı, hangi kentsel
 tanımın ve hangi tahmin yönteminin kullanıldığı belirtilmeden aktarılmaz.
 
 ## Doğrulanabilir bir satır
@@ -62,9 +62,9 @@ tanımın ve hangi tahmin yönteminin kullanıldığı belirtilmeden aktarılmaz
 Aynı veri kümesinde Afganistan için kentsel nüfus payı 1950'de 5,78, 1960'ta
 yaklaşık 8,12'dir.[^k1]
 
-Atlas burada tek bir ülkenin satırını örnek olarak verir; bu, iddianın kaynağa
+Korpus burada tek bir ülkenin satırını örnek olarak verir; bu, iddianın kaynağa
 gidip doğrulanabilir olmasını sağlar. Aynı kümedeki dünya toplamı satırı,
-kullanılan çekme penceresinin dışında kaldığı için bu dosyada
+kullanılan çekme penceresinin dışında kaldığı için bu incelemede
 kullanılmamıştır.[^k1]
 
 ## Payın uzerine uygulanacağı toplam
@@ -72,7 +72,7 @@ kullanılmamıştır.[^k1]
 Uzun dönemli nüfus serisinde dünya nüfusu 1950 için yaklaşık 2,49 milyar, 2020
 için yaklaşık 7,89 milyardır.[^k2]
 
-Atlas bu iki kümeyi çarpmaz: kentleşme payı ülke ülke verilir, nüfus serisi ise
+Korpus bu iki kümeyi çarpmaz: kentleşme payı ülke ülke verilir, nüfus serisi ise
 dünya toplamını verir; kapsamları aynı değildir.[^k1][^k2]
 
 ## Sıklıkla bağlandığı dönüşüm
@@ -80,7 +80,7 @@ dünya toplamını verir; kapsamları aynı değildir.[^k1][^k2]
 Kentleşmenin sıklıkla bağlandığı dönüşüm için ayrı bir kayıt tutulur.[^k3] O
 dönüşüm [Sanayi Devrimi](/olay/sanayi-devrimi/) dosyasında ele alınıyor.
 
-Atlas iki kayıt arasında bir neden bağı kurmaz; kullanılan kaynak bölümlerinde
+Korpus iki kayıt arasında bir neden bağı kurmaz; kullanılan kaynak bölümlerinde
 böyle bir bağ belirtilmemiştir.[^k1][^k3]
 
 
@@ -93,9 +93,8 @@ değişir.
 Bazı ülkeler nüfus eşiği, bazıları idari statü
 kullanır.[^k3] Aynı yerleşim iki ülkede farklı sınıflanabilir.
 
-Atlas bu belirsizliği ayrıca kaydeder.[^k2] Uluslararası kentleşme
-karşılaştırmaları, ortak bir kent tanımı bulunmadığı için
-yaklaşıktır.
+Uluslararası kentleşme
+karşılaştırmaları, ortak bir kent tanımı bulunmadığı için yaklaşıktır.[^k2]
 
 ## Sanayisiz kentleşme
 
@@ -107,8 +106,8 @@ Bu, kentleşme oranının tek başına ne anlattığını
 sınırlar.[^k2] Aynı oran iki bambaşka yapıyı
 gösterebilir.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Kentleşme oranı, o kentleşmenin
-hangi işe dayandığını göstermez.
+Kentleşme oranı, o kentleşmenin hangi işe dayandığını
+göstermez.[^k3]
 
 ## Kentin büyüklük sınırı
 
@@ -119,22 +118,19 @@ Bu sınır ulaşım teknolojisi değişince
 değişir.[^k2] Demiryolu ve buharlı gemi, kent büyüklüğünün üst sınırını
 yukarı çekti.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Kent nüfusundaki sıçramalar, çoğu
-zaman ulaşım maliyetindeki düşüşleri
-izler.
+Kent nüfusundaki sıçramalar, çoğu zaman
+ulaşım maliyetindeki düşüşleri izler.[^k3]
 
 ## Tersine hareket
 
 Kentleşme geri de dönebilir.[^k1] Salgın, savaş ya da tedarik ağının
 kesilmesi kentleri hızla küçültür.
 
-Atlasın erken dönem dosyalarında bu tür küçülmeler
-kayıtlıdır.[^k3] Merkezî kaynak akışıyla büyüyen bir kent, akış
-kesildiğinde savunma gerektirmeden
-küçülür.
+Merkezî kaynak akışıyla
+büyüyen bir kent, akış kesildiğinde savunma gerektirmeden küçülür.[^k3]
 
-Atlas bu tersinirliği ayrıca kaydeder.[^k2] Kentleşme tek yönlü bir
-süreç değildir.
+Kentleşme tek yönlü bir süreç
+değildir.[^k2]
 
 
 ## Kentleşme ve nüfus artışı
@@ -145,8 +141,8 @@ değiştirir.
 Aynı yönde hareket etmeleri, aynı nedenden geldiklerini göstermez.[^k1]
 Nüfus artışının yavaşladığı bölgelerde de kentleşme sürebilir.
 
-Atlas ikisini ayrı ayrı izler.[^k3] İki göstergenin tarihsel olarak
-birlikte hareket etmesi, aralarındaki bağın sürdüğünü göstermez.
+İki göstergenin tarihsel olarak birlikte hareket
+etmesi, aralarındaki bağın sürdüğünü göstermez.[^k3]
 
 ## Ölüm oranı farkı
 
@@ -156,8 +152,8 @@ sahipti.[^k1] Yoğunluk ve su düzeni bulaşmayı kolaylaştırıyordu.
 Kentler nüfusunu ancak sürekli göçle koruyabiliyordu.[^k2] Bu, on
 dokuzuncu yüzyıldaki altyapı yatırımlarıyla değişti.
 
-Atlas bu dönüşümü ayrıca kaydeder.[^k3] Kentin ölüm oranı avantajına
-geçmesi, bir sağlık altyapısı kararının doğrudan sonucudur.
+Kentin ölüm oranı avantajına geçmesi, bir
+sağlık altyapısı kararının doğrudan sonucudur.[^k3]
 
 ## Ölçmenin sınırı
 
@@ -167,15 +163,13 @@ yoğunluk çarpımıyla üretilir.
 Varsayım sonucu belirler.[^k1] Kişi başına alan varsayımı iki katına
 çıkarsa, tahmin yarıya iner.
 
-Atlas bu yöntemi ayrıca kaydeder.[^k3] Çarpanla üretilmiş bir oran,
-ölçümün değil varsayımın sonucudur.
+Çarpanla üretilmiş bir oran, ölçümün değil
+varsayımın sonucudur.[^k3]
 
 
-## Atlasta kullanımı
-
-Atlas kentleşme oranını tek başına yorumlamaz.[^k1] Yanına iki soru
-daha koyar: kent hangi işe dayanıyor ve kenti ne
-besliyor.
+## Nasıl kullanılır?
+Yanına iki soru daha koyar: kent
+hangi işe dayanıyor ve kenti ne besliyor.[^k1]
 
 Üçü birlikte okunduğunda oran anlam kazanır.[^k2] Tek başına bir oran,
 iki bambaşka yapıyı aynı sayıyla gösterebilir.[^k3]
@@ -187,12 +181,10 @@ Dünya nüfusunun yarısından fazlası bu yüzyılın başında kentte
 yaşamaya başladı.[^k1] Eşik tarih olarak kaydedilir ama tanım
 belirsizliği taşır.
 
-Atlas eşiği ayrıca kaydeder.[^k2] Bir eşiğin geçilmesi, o eşiği
-tanımlayan ölçütün de kaydedilmesini
-gerektirir.[^k3]
+Bir eşiğin geçilmesi, o eşiği
+tanımlayan ölçütün de kaydedilmesini gerektirir.[^k3][^k2]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kentleşmenin nedenleri, ülke ülke seyri ve kentsel tanımların ülkeler arasındaki
 farkı burada ayrı başlıklar altında ele alınmamıştır; kullanılan kaynak veri
 kümesidir, bir anlatı değildir.[^k1]

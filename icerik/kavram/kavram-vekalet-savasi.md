@@ -11,7 +11,8 @@ bolge: [kuresel, afrika, islam-dunyasi, amerika]
 eksen: [askeri, siyasi]
 guven_geneli: tartismali
 etiketler: [vekalet-savasi, ortulu-operasyon, soguk-savas, angola, afganistan, mesruiyet]
-ilgili:
+ilgili: []
+baglam:
   - tartisma-soguk-savasin-baslangici
   - kavram-caydiricilik
   - kavram-guc-dengesi

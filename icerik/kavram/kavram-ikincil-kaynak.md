@@ -48,8 +48,8 @@ alt başlıklarıyla) yer alır.[^k1]
 
 ## Aynı metin alana göre sınıf değiştirir
 
-Kaynağın sınıflandırmayı alan alan bölümlemesi,[^k1] atlasın şu kuralının
-dayanağıdır: bu atlasta bir kaynağın birincil ya da ikincil sayılması, kaynağın
+Kaynağın sınıflandırmayı alan alan bölümlemesi,[^k1] korpusun şu kuralının
+dayanağıdır: bu korpusta bir kaynağın birincil ya da ikincil sayılması, kaynağın
 kendi niteliği değil sorulan soruyla ilgili bir karar olarak kaydedilir.
 
 ## Otobiyografiler ayrı bir alt başlıktır
@@ -86,9 +86,8 @@ halkadan uzun olabilir.
 seçme ve yorumlama katmanı
 ekler.
 
-Atlas zincirin uzunluğunu ayrıca kaydeder.[^k3] Bir iddianın kaç
-elden geçtiği, o iddianın güvenilirliğinin doğrudan
-ölçüsüdür.
+Bir iddianın kaç elden geçtiği, o iddianın
+güvenilirliğinin doğrudan ölçüsüdür.[^k3]
 
 ## Kaybolan birincil kaynak
 
@@ -99,9 +98,8 @@ vardır.
 Bu durumda ikincil kaynak, birincilin tek izidir.[^k2] Reddedilemez ama
 doğrulanamaz da.
 
-Atlas bu durumu ayrıca kaydeder.[^k3] Kaybolmuş bir metnin varlığı,
-çoğu zaman yalnızca ona atıf yapan metinlerden
-bilinir.
+Kaybolmuş bir metnin varlığı, çoğu zaman yalnızca
+ona atıf yapan metinlerden bilinir.[^k3]
 
 ## Aynı zincirin tekrarı
 
@@ -109,13 +107,12 @@ bilinir.
 değildir.[^k2] İkisi de aynı birincil kaynağa dayanıyor
 olabilir.
 
-Bu, atlasta sık karşılaşılan bir tuzaktır.[^k1] Çok sayıda kaynağın
+Bu, korpusta sık karşılaşılan bir tuzaktır.[^k1] Çok sayıda kaynağın
 tekrarı, tek bir kaynağın yaygınlığı
 olabilir.
 
-Atlas bu yüzden zinciri geriye doğru izler.[^k3] Bağımsızlık, kaynak
-sayısıyla değil zincirlerin ayrı olmasıyla
-ölçülür.
+Bağımsızlık, kaynak sayısıyla değil
+zincirlerin ayrı olmasıyla ölçülür.[^k3]
 
 ## İkincil kaynağın kendi değeri
 
@@ -126,46 +123,41 @@ gösterebilir.
 Bu, tek bir birincil kaynağın yapamayacağı bir
 iştir.[^k2] Karşılaştırma ayrı bir katkıdır.
 
-Atlas bu katkıyı ayrıca kaydeder.[^k3] İyi bir ikincil kaynak,
-kullandığı birincil kaynakları da adıyla
-bildirir.
+İyi bir ikincil kaynak, kullandığı
+birincil kaynakları da adıyla bildirir.[^k3]
 
 
-## Atlasın kendi konumu
+## Korpusun kendi konumu
 
-Atlasın kendisi bir ikincil kaynaktır.[^k1] Birincil metinlere dayanır
-ve onları yorumlar.
+Birincil metinlere dayanır ve
+onları yorumlar.[^k1]
 
-Bu, atlası kendi ölçütlerine tabi kılar.[^k2] Zincirin uzunluğu,
-kaynağın adıyla bildirilmesi ve yöntemin açıklanması atlas için de
+Bu, korpusu kendi ölçütlerine tabi kılar.[^k2] Zincirin uzunluğu,
+kaynağın adıyla bildirilmesi ve yöntemin açıklanması korpus için de
 geçerlidir.
 
-Atlas bu tabiiyeti açıkça yazar.[^k3] Kendi kurallarını kendine
-uygulamayan bir derleme, o kuralları başkalarına da
-uygulayamaz.
+Kendi kurallarını kendine uygulamayan bir
+derleme, o kuralları başkalarına da uygulayamaz.[^k3]
 
 ## Künyenin işlevi
 
-Atlasın her dosyası künyelidir.[^k1] Künye, iddianın hangi kaynağa
-dayandığını satır düzeyinde
-gösterir.
+Künye, iddianın hangi kaynağa dayandığını
+satır düzeyinde gösterir.[^k1]
 
 Bu, dosyayı sınanabilir kılar.[^k2] Bir okur, künyedeki kaynağa gidip
 iddiayı doğrulayabilir ya da
 çürütebilir.
 
-Atlas bu sınanabilirliği kendi varlık koşulu
-sayar.[^k3] Künyesiz bir iddia, atlasta bir iddia
-değildir.
+Künyesiz bir iddia, korpusta bir iddia
+değildir.[^k3]
 
 
 ## Ansiklopedinin konumu
 
-Atlasın en çok kullandığı ikincil kaynak türü ansiklopedi
-maddesidir.[^k1] Madde, kendi kaynaklarına
-dayanır.
+Madde, kendi kaynaklarına
+dayanır.[^k1]
 
-Bu, zincire bir halka daha ekler.[^k2] Atlas bu yüzden ansiklopediyi
+Bu, zincire bir halka daha ekler.[^k2] Korpus bu yüzden ansiklopediyi
 giriş kapısı sayar, dayanak
 saymaz.
 
@@ -183,9 +175,8 @@ Bölümleme bir yorumdur.[^k2] Hangi konunun hangi başlık altında
 toplandığı, o kaynağın kendi
 kararıdır.
 
-Atlas bu devralmadan kaçınır.[^k3] Bir derlemenin yapısı, dayandığı
-tek kaynağın içindekiler sayfası hâline
-gelmemelidir.
+Bir derlemenin yapısı, dayandığı
+tek kaynağın içindekiler sayfası hâline gelmemelidir.[^k3]
 
 
 ## Aktarım hatasının birikmesi
@@ -197,12 +188,10 @@ Uzun bir zincirin sonundaki metin, başındakinden belirgin biçimde
 farklı olabilir.[^k2] Fark kasıtlı olmak zorunda
 değildir.
 
-Atlas bu birikmeyi ayrıca kaydeder.[^k3] Kasıt olmadan da bozulan bir
-aktarım, kasıtlı bir çarpıtma kadar yanıltıcı
-olabilir.
+Kasıt olmadan da bozulan bir aktarım,
+kasıtlı bir çarpıtma kadar yanıltıcı olabilir.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Alan alan farklar, ikincil literatürün türleri ve kullanım kuralları burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

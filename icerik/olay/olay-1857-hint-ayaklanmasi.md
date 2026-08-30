@@ -21,6 +21,7 @@ ilgili:
   - aktor-britanya-imparatorlugu
   - olay-plassey-1757
   - olay-hindistan-bolunmesi
+baglam:
   - olay-bengal-kitligi-1943
   - kavram-kaynak-elestirisi
   - kavram-belge-okumasi

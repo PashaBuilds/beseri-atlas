@@ -56,7 +56,7 @@ Aynı maddede bir günün ve iki yüzyılın yan yana durması,[^k1] kayıt yoğ
 olay türüne göre değiştiğini gösterir: bir tören belgeye geçer, bir devletin
 oluşumu geçmez.
 
-Atlas bu farkı düzeltmez; kaynağın verdiği kesinlik düzeyini olduğu gibi aktarır.
+Korpus bu farkı düzeltmez; kaynağın verdiği kesinlik düzeyini olduğu gibi aktarır.
 
 ## Savaşlar da aralıklarla verilir
 
@@ -72,7 +72,7 @@ kuzeybatıdan gelen basıncın süreklilik taşıdığını gösterir.
 Kaynak 400 yılı için zirve alanın yüksek uçlu tahmini olarak 3.500.000
 kilometrekare verir.[^k1]
 
-Değerin "yüksek uçlu tahmin" olarak nitelenmesi,[^k1] atlasın alan ölçümlerine
+Değerin "yüksek uçlu tahmin" olarak nitelenmesi,[^k1] korpusun alan ölçümlerine
 yaklaşımını doğrular: alan bir ölçüm değil bir tahmin aralığının ucudur.
 
 ## Öncesindeki düzen
@@ -89,8 +89,7 @@ yaklaşık 271,6 milyon olarak verilir.[^k3] İmparatorluğun kendi nüfusuna da
 ölçüm kullanılan kaynaklarda bulunmadığı için bu değerler içindeki pay burada
 hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Hanedanın siyasi tarihi, hükümdar sıralaması, sanat ve bilim üretimi ile çöküş
 nedenleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
 bölümler olarak işler.[^k1] Dönemin bütünü [200-650](/donem/05/) dosyasında ele

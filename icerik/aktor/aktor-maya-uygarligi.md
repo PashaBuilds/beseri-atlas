@@ -47,7 +47,7 @@ onarim_turu: 0
 
 Kaynak bu uygarlığı tek bir devlet olarak değil, Mezoamerika'da var olmuş Maya
 şehir devletleri olarak tanımlar; tarih aralığı yaklaşık MÖ 2000 ile MS 1697
-arasıdır.[^k1] Bu dosya, o **çoğul yapıyı ve süreyi** ele alır.
+arasıdır.[^k1] Bu inceleme, o **çoğul yapıyı ve süreyi** ele alır.
 
 ## Çoğul siyasi biçim
 
@@ -59,7 +59,7 @@ Uxmal ve Xunantunich.[^k1]
 Kaynağın burada şehir devletleri çoğulunu kullanması,[^k1] aynı siyasi biçimin
 Mezopotamya'da da görüldüğünü hatırlatır;
 [Sümer şehir devletleri](/aktor/sumer-sehir-devletleri/) dosyasında ele alınıyor.
-Atlas iki bölge arasında bir temas iddiası taşımaz.
+Korpus iki bölge arasında bir temas iddiası taşımaz.
 
 ## Dönemlendirme ve "çöküş"
 
@@ -93,8 +93,7 @@ yaklaşık 503,1 milyondur.[^k3] Maya şehirlerinin nüfusuna dair bir ölçüm
 kullanılan kaynaklarda bulunmadığı için bu değerler içindeki pay burada
 hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Maya yazısı, takvimi, mimarisi, dini ve şehir devletlerinin siyasi tarihi burada
 ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1] Dönemin bütünü [200-650](/donem/05/) dosyasında ele alınıyor.

@@ -66,8 +66,8 @@ olayların zamanı olduğunu, bunun adı olan bireylerin tarihi olduğunu ve yaz
 için yüzeylerin ve aldatıcı etkilerin zamanı sayıldığını kaydeder.[^k1] Eserin
 üçüncü bölümünün olaylar, siyaset ve insanları işlediği belirtilir.[^k1]
 
-Bir eserin bölümlerinin değişim hızına göre sıralanması,[^k1] atlasın şu
-kuralının dayanağıdır: bu dosyada eserden yapılan aktarımlar, hangi katmandan
+Bir eserin bölümlerinin değişim hızına göre sıralanması,[^k1] korpusun şu
+kuralının dayanağıdır: bu incelemede eserden yapılan aktarımlar, hangi katmandan
 geldiği belirtilerek verilir.
 
 ## Coğrafya toplumsal biçim üretir
@@ -76,10 +76,10 @@ Kaynak, eserin Akdeniz'inin denizin yanı sıra çöl ve dağlar olduğunu; çö
 topluluğun taşındığı göçebe bir toplumsal örgütlenme biçimi ürettiğini, dağ
 yaşamının ise yerleşik olduğunu yazar.[^k1]
 
-Bir deniz tarihinin çölle ve dağla birlikte tanımlanması,[^k1] atlasın bölge
+Bir deniz tarihinin çölle ve dağla birlikte tanımlanması,[^k1] korpusun bölge
 alanını neden çoğul tuttuğunun dayanağıdır.
 
-## Kavram atlasın kendi katmanında
+## Kavram korpusun kendi katmanında
 
 Eserin dayandığı zaman katmanı kavramı
 [Longue durée](/kavram/longue-duree/) dosyasında, dönem bölmesinin genel sorunu
@@ -96,8 +96,7 @@ fikrini anlatır.[^k2] O gelenek
 [Karl Marx](/dusunur/marx/) dosyasında, yazarın kendisi ise
 [Fernand Braudel](/dusunur/braudel/) dosyasında ele alınıyor.
 
-## Okuma yönlendirmesi
-
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser teliflidir; atlas metninden alıntı yapmaz ve
+## Okumayı sürdürmek için
+Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
+ansiklopedi maddesidir.[^k1] Eser teliflidir; korpus metninden alıntı yapmaz ve
 yalnızca hakkında yazılanı aktarır.

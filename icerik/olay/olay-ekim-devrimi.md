@@ -46,7 +46,7 @@ onarim_turu: 0
 ---
 
 Ekim Devrimi 7 Kasım 1917 (eski takvimle 25 Ekim) tarihine ve Rusya
-Cumhuriyeti'nin Petrograd şehrine yerleştirilir.[^k1] Bu dosya, olayın sonuçları
+Cumhuriyeti'nin Petrograd şehrine yerleştirilir.[^k1] Bu inceleme, olayın sonuçları
 kadar **hakkındaki tarih yazımının bölünmüşlüğünü** de ele alır.
 
 ## Tek bir günde sayılan sonuçlar
@@ -69,7 +69,7 @@ sayar.[^k1] Komutanlar arasında Vladimir Lenin, Lev Troçki, Lev Kamenev, Vladi
 Ovseenko, Pavel Dıbenko ve Yakov Sverdlov ile karşı tarafta Aleksandr Kerenski yer
 alır.[^k1]
 
-Kaynağın devrimci cephede üç ayrı akım sayması[^k1] atlas için kayda değerdir;
+Kaynağın devrimci cephede üç ayrı akım sayması[^k1] korpus için kayda değerdir;
 bu bileşimin sonraki gelişmelerle ilişkisi burada bir iddia olarak öne
 sürülmemektedir.
 
@@ -81,7 +81,7 @@ olarak ayırır; Batı tarafını da "Totaliter" tarihçiler ve "Revizyonist" ta
 alt başlıklarına böler ve Sovyetler Birliği'nin dağılmasının etkisini ayrıca ele
 alır.[^k1]
 
-Bir olayın literatürünün okullara ayrılmış olması, atlas için bir uyarıdır: burada
+Bir olayın literatürünün okullara ayrılmış olması, korpus için bir uyarıdır: burada
 aktarılan her cümle, bir okulun tercih ettiği çerçeveyi taşıyabilir. Kaynağın
 kendi bölümlemesini aktarmak, bu riski ortadan kaldırmaz ama görünür kılar.
 
@@ -97,8 +97,7 @@ Uzun dönemli seride dünya nüfusu 1914'te yaklaşık 1,82 milyardır.[^k3]
 Rusya'nın kendi nüfusuna dair bir ölçüm kullanılan kaynaklarda bulunmadığı için bu
 toplam içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Aynı yılın erken evresi, iç savaşın seyri, ekonomik politikalar ve kurucu
 meclisin dağıtılması burada ayrı başlıklar altında ele alınmamıştır; kullanılan kaynak
 bölümünün kapsamı tek bir günün sonuçları ve literatürün yapısıdır. Dönemin

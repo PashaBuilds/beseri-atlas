@@ -12,10 +12,11 @@ eksen: [kulturel, siyasi]
 guven_geneli: yaygin
 etiketler: [tacitus, annales, historiae, germania, etki-zinciri]
 ilgili:
-  - dusunur-thukydides
   - aktor-roma-imparatorlugu
   - dusunur-sima-qian
   - kaynak-tacitus-annales
+baglam:
+  - dusunur-thukydides
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -52,7 +53,7 @@ onarim_turu: 0
 
 Kaynak onu MS yaklaşık 56 - yaklaşık 120 arasında yaşamış bir tarihçi ve siyasetçi
 olarak kaydeder; disiplini tarih, başlıca ilgi alanları tarih, biyografi ve
-hitabettir.[^k1] Bu dosya, eserlerini değil **kaydın kurduğu etki zincirini** ele
+hitabettir.[^k1] Bu inceleme, eserlerini değil **kaydın kurduğu etki zincirini** ele
 alır.
 
 ## Etkilenenler ad ad sayılır
@@ -60,7 +61,7 @@ alır.
 Kaynak etkilendiği kişileri sıralar: Thukydides, Fabius Rusticus, Sallustius,
 Livius, Marcus Cluvius Rufus, Yaşlı Plinius ve Quintilianus.[^k1]
 
-Yedi adın liste hâlinde kaydedilmesi,[^k1] atlasın düşünür dosyalarında etkiyi
+Yedi adın liste hâlinde kaydedilmesi,[^k1] korpusun düşünür dosyalarında etkiyi
 neden ayrı bir alan saydığını gösterir: bir yazarın kaynağı da bir kayıttır.
 
 ## Listenin başındaki ad beş yüz yıl öncedendir
@@ -68,7 +69,7 @@ neden ayrı bir alan saydığını gösterir: bir yazarın kaynağı da bir kay�
 Listenin ilk adı için ayrı bir kayıt, o kişiyi MÖ yaklaşık 460 - yaklaşık 400
 arasına yerleştirir ve mesleğini tarihçi ve general olarak verir.[^k3]
 
-İki tarih arasındaki yaklaşık beş yüz yıllık aralık,[^k1][^k3] bu atlasın
+İki tarih arasındaki yaklaşık beş yüz yıllık aralık,[^k1][^k3] bu korpusun
 kronolojik omurgasının neden dönemler arası bağ kurmayı gerektirdiğini gösterir:
 etki, dönem sınırlarını tanımaz. Etkileyen taraf
 [Thukydides](/dusunur/thukydides/) dosyasında ele alınıyor.
@@ -105,8 +106,7 @@ için tutulan kayıt, onu erken Han hanedanı döneminde bir Çinli tarihçi ola
 verir.[^k4] O yazar
 [Sima Qian](/dusunur/sima-qian/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Hayatının seyri, eserlerin içeriği, kaynakları ve sonraki etkisi burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

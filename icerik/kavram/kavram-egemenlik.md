@@ -81,11 +81,11 @@ bağımsızlık ayrımı ayrıca işlenir.[^k1]
 
 ## Hukuken ile fiilen ayrı ayrı tanımlanır
 
-Aynı kavram için hukuki ve fiilî durumların ayrı ayrı tanımlanması,[^k1] atlasın
+Aynı kavram için hukuki ve fiilî durumların ayrı ayrı tanımlanması,[^k1] korpusun
 aktör dosyalarında neden devlet biçimini kaynağın verdiği ifadeyle tuttuğunun
 dayanağıdır: bir devletin ne olduğu ile ne sayıldığı ayrı kayıtlardır.
 
-Aynı ayrımın somut bir örneği atlasın aktör katmanında bulunur:
+Aynı ayrımın somut bir örneği korpusun aktör katmanında bulunur:
 [Goryeo ve Joseon Kore](/aktor/goryeo-choson/) dosyası, bir hanedanın devlet
 biçimini aralıklarla kaydeden bir örnektir.
 
@@ -94,8 +94,8 @@ biçimini aralıklarla kaydeden bir örnektir.
 Kaynak tarih bölümünü beş alt başlığa ayırır: klasik, ortaçağ, Reform, Aydınlanma
 Çağı ve İkinci Dünya Savaşı sonrası dünya düzeni.[^k1]
 
-Bir kavramın tarihinin dönemlere ayrılması,[^k1] atlasın şu kuralının
-dayanağıdır: bu atlasta egemenlik sözcüğü, hangi dönemde kullanıldığı
+Bir kavramın tarihinin dönemlere ayrılması,[^k1] korpusun şu kuralının
+dayanağıdır: bu korpusta egemenlik sözcüğü, hangi dönemde kullanıldığı
 belirtilmeden geçmez.
 
 ## Mutlak egemenliği savunan düşünür
@@ -112,8 +112,7 @@ bir fikir olarak sayar.[^k3] O tanım
 [Max Weber](/dusunur/weber/) dosyasında, meşruiyet tarafı ise
 [Meşruiyet](/kavram/mesruiyet/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kavramın hukuki tanımları, uluslararası tanınma sorunu ve modern tartışmaları
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1]

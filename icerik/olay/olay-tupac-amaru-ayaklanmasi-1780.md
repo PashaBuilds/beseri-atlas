@@ -63,7 +63,7 @@ Katılım, sömürge dönemindeki benzer hareketlerin çok üzerindeydi.[^k2]
 Bölgedeki yerli nüfusun büyük bölümü ve bir kesim melez nüfus harekete
 katıldı.
 
-Bu dosyanın asıl konusu talebin değişmesidir.[^k1] Hareket bir vergi ve
+Bu incelemenin asıl konusu talebin değişmesidir.[^k1] Hareket bir vergi ve
 idare şikâyetiyle başladı, bağımsızlık talebiyle bitti.
 
 ## Başlangıçtaki talep
@@ -76,7 +76,7 @@ zorunlu kılıyordu.[^k2] Fiyatlar piyasanın üzerindeydi ve borç
 birikiyordu.
 
 Hareketin ilk çerçevesi, kötü yönetilen bir düzenin düzeltilmesi
-talebiydi.[^k3] Bu, atlasın çok sayıda dosyasında gördüğü olağan bir
+talebiydi.[^k3] Bu, korpusun çok sayıda dosyasında gördüğü olağan bir
 başlangıçtır.
 
 ## Kral adına ayaklanmak
@@ -85,7 +85,7 @@ başlangıçtır.
 üzere hareket ettiğini bildiriyordu.[^k1] Hedef, kral ile tebaası
 arasına giren yerel idarecilerdi.
 
-Bu, atlasın Kânûn-ı Esâsî dosyasında ölçtüğü mekanizmayla aynı
+Bu, korpusun Kânûn-ı Esâsî dosyasında ölçtüğü mekanizmayla aynı
 ailedendir.[^k3] Var olan ama uygulanmayan bir düzen, yeni bir talep
 formüle etmeden itiraz etmeyi mümkün kılar.
 
@@ -101,9 +101,8 @@ hedef alındı ve sömürge yönetiminin tümüyle sona ermesi talep edildi.
 Değişim aylar içinde gerçekleşti.[^k2] Aynı hareket, aynı önderlikle,
 iki farklı talep çerçevesi kullandı.
 
-Atlas bu değişimi ayrıca kaydeder.[^k3] Bir hareketin talebi süreç
-içinde değişebilir ve başlangıçtaki talep, hareketin ne olduğunu tek
-başına göstermez.
+Bir hareketin talebi süreç içinde
+değişebilir ve başlangıçtaki talep, hareketin ne olduğunu tek başına göstermez.[^k3]
 
 ## Meşruiyet iddiası
 
@@ -114,7 +113,7 @@ Soy iddiası hukuki bir dayanak üretiyordu.[^k2] Sömürge yönetimi, yerel
 hanedan soyunu belirli ayrıcalıklarla tanımıştı ve iddia bu tanınmaya
 dayanıyordu.
 
-Bu, atlasın Çağatay dosyasında ölçtüğü mekanizmanın bir başka
+Bu, korpusun Çağatay dosyasında ölçtüğü mekanizmanın bir başka
 biçimidir.[^k3] Bir meşruiyet kuralı, onu kuran düzen ortadan kalktıktan
 sonra da bir talep dayanağı olmayı sürdürebilir.
 
@@ -126,9 +125,9 @@ hukukunun tanıdığı soy ayrıcalığı, öteki eski hanedanın hatırasıydı
 İki kaynak farklı kitlelere sesleniyordu.[^k2] Birincisi hukuki
 tartışmada, ikincisi kitlesel seferberlikte işe yarıyordu.
 
-Atlas bu ikiliği ayrıca kaydeder.[^k3] Bir hareket, birbiriyle
-çelişebilecek iki meşruiyet kaynağını aynı anda kullanabilir; çelişki
-ancak talep çerçevesi değiştiğinde görünür hâle gelir.
+Bir hareket, birbiriyle çelişebilecek iki
+meşruiyet kaynağını aynı anda kullanabilir; çelişki ancak talep çerçevesi değiştiğinde
+görünür hâle gelir.[^k3]
 
 ## Bastırma
 
@@ -139,9 +138,8 @@ Bastırmanın ardından geniş bir yasak dizisi geldi.[^k2] Yerel hanedan
 unvanları kaldırıldı, yerel dilde basım ve belirli giyim biçimleri
 yasaklandı.
 
-Atlas bu diziyi ayrıca kaydeder.[^k3] Askerî bastırma ile kültürel
-yasak farklı araçlardır; ikincisinin uygulanması, birincisinin yeterli
-görülmediğini gösterir.
+Askerî bastırma ile kültürel yasak farklı
+araçlardır; ikincisinin uygulanması, birincisinin yeterli görülmediğini gösterir.[^k3]
 
 ## Yasakların hedefi
 
@@ -152,9 +150,8 @@ dayanağını ortadan kaldırdı.
 Bu, doğrudan bir kayıt müdahalesidir.[^k2] Bir hakkın kaldırılması, o
 hakkı taşıyan kaydın da geçersiz kılınmasıyla yapılır.
 
-Atlas bu mekanizmayı ayrıca kaydeder.[^k3] Bir talebin dayandığı belge
-ya da statü ortadan kaldırıldığında, talep yeniden formüle edilmek
-zorunda kalır.
+Bir talebin dayandığı belge ya da statü
+ortadan kaldırıldığında, talep yeniden formüle edilmek zorunda kalır.[^k3]
 
 ## Sonraki bağımsızlık hareketleriyle ilişki
 
@@ -164,8 +161,8 @@ Ayaklanma, bölgedeki bağımsızlık hareketlerinden kırk yıl öncedir.[^k2]
 Bağ kurma girişimleri sonradan yapılmıştır.[^k1] Yirminci yüzyılda
 hareketin adı, farklı siyasi hareketler tarafından benimsendi.
 
-Atlas iki düzeyi ayrı tutar.[^k3] Bir olayın ne olduğu ile o olayın
-sonradan neyi temsil ettiği ayrı iki sorudur.
+Bir olayın ne olduğu ile o olayın sonradan neyi
+temsil ettiği ayrı iki sorudur.[^k3]
 
 ## Bağımsızlık hareketlerine etkisi
 
@@ -177,8 +174,8 @@ Bu okuma, bağımsızlığın neden yerleşik seçkinler eliyle ve yerli
 katılımı sınırlı biçimde gerçekleştiğini açıklamayı hedefler.[^k1]
 Açıklama tartışmalıdır.
 
-Atlas bir sonuca bağlanmaz.[^k3] Kırk yıllık aralık, doğrudan bir
-nedensellik kurmayı zorlaştırır ve iddia bağımsız olarak sınanmalıdır.
+Kırk yıllık aralık, doğrudan bir
+nedensellik kurmayı zorlaştırır ve iddia bağımsız olarak sınanmalıdır.[^k3]
 
 ## Ekonomik zemin
 
@@ -202,9 +199,9 @@ Nedeni, hareketin önderliğinin belirli bir bölgeden ve belirli bir
 soydan gelmesiydi.[^k2] Rakip yerel önderlikler bu iddiayı kabul
 etmedi.
 
-Atlas bu bölünmeyi ayrıca kaydeder.[^k3] Bir hareketin meşruiyet iddiası,
-katılımı genişlettiği kadar sınırlayabilir de; soy iddiası aynı soyu
-tanımayanları dışarıda bırakır.
+Bir hareketin meşruiyet iddiası, katılımı
+genişlettiği kadar sınırlayabilir de; soy iddiası aynı soyu tanımayanları dışarıda
+bırakır.[^k3]
 
 ## Coğrafyanın rolü
 
@@ -216,7 +213,7 @@ Aynı coğrafya bastırmayı da geciktirdi.[^k1] Sömürge yönetiminin
 birlikleri kıyıdan ve uzak merkezlerden gelmek zorundaydı.
 
 Coğrafya sonucu belirlemedi.[^k3] Gecikme, hareketin genişlemesine izin
-verdi ama nihai sonucu değiştirmedi; bu, atlasın öteki dosyalarında
+verdi ama nihai sonucu değiştirmedi; bu, korpusun öteki dosyalarında
 ölçtüğü örüntüyle uyumludur.
 
 ## Kentlerin konumu
@@ -228,9 +225,8 @@ Kentlerdeki melez ve yerleşik nüfus, ilk aşamada tarafsız kaldı ve
 sonraki aşamada karşı tarafa geçti.[^k2] Geçiş, talep çerçevesinin
 değişmesiyle aynı döneme denk gelir.
 
-Atlas bu örtüşmeyi ayrıca kaydeder.[^k3] Bir hareketin talebini
-genişletmesi, katılımı artırabileceği gibi mevcut katılımcıların bir
-bölümünü de kaybettirebilir.
+Bir hareketin talebini genişletmesi, katılımı
+artırabileceği gibi mevcut katılımcıların bir bölümünü de kaybettirebilir.[^k3]
 
 ## Çerçeve değişiminin bedeli
 
@@ -238,8 +234,8 @@ Bu, çerçeve değişiminin ölçülebilir maliyetidir.[^k1] İlk çerçeve
 kentli kesimlerin bir bölümünü kapsıyordu; ikinci çerçeve
 kapsamıyordu.
 
-Atlas iki yönü birlikte kaydeder.[^k2] Talebin radikalleşmesi kırsal
-katılımı derinleştirdi ve kentli desteği kesti.
+Talebin radikalleşmesi kırsal katılımı
+derinleştirdi ve kentli desteği kesti.[^k2]
 
 Ölçüm şudur.[^k3] **Bir talebin genişletilmesi, kazandırdığı kadar
 kaybettirebilir; net etkisi ancak iki yön birlikte ölçüldüğünde
@@ -253,9 +249,9 @@ kayıtlıdır.[^k1] Yargılama tutanakları bu kişileri ayrıca anar.
 Kayıt, bastıran tarafın arşivinden gelir.[^k2] Bu, bilginin korunmasını
 sağlamış ama çerçevesini de belirlemiştir.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k3] Bir grubun tarihsel kayda
-girmesi, çoğu zaman yargılanmış olmasına bağlıdır ve bu, kaydın
-kendisinde bir yanlılık üretir.
+Bir grubun tarihsel kayda girmesi,
+çoğu zaman yargılanmış olmasına bağlıdır ve bu, kaydın kendisinde bir yanlılık
+üretir.[^k3]
 
 ## Kayıt durumu
 
@@ -263,13 +259,13 @@ Ayaklanmanın kayıtları büyük ölçüde bastıran tarafın
 arşivindedir.[^k2] Yargılama tutanakları, yazışmalar ve bildiri
 kopyaları buradan gelir.
 
-Bu, atlasın olağan kaynak durumudur ve bir kısıt taşır.[^k1] Hareketin
+Bu, korpusun olağan kaynak durumudur ve bir kısıt taşır.[^k1] Hareketin
 kendi belgeleri, yalnızca ele geçirilmiş oldukları için
 korunmuştur.
 
-Atlas bu ayrıntıyı ayrıca yazar.[^k3] Bir hareketin belgelerinin karşı
-tarafın arşivinde korunması, hangi belgelerin korunduğunu da belirler;
-ele geçirilmeyenler kaybolmuştur.
+Bir hareketin belgelerinin karşı tarafın
+arşivinde korunması, hangi belgelerin korunduğunu da belirler; ele geçirilmeyenler
+kaybolmuştur.[^k3]
 
 ## Bildirilerin durumu
 
@@ -280,23 +276,22 @@ Bu, dosyanın asıl bulgusunu mümkün kılan kaynaktır.[^k2] Çerçeve
 değişimi bir yorum değil, iki metin kümesinin karşılaştırılmasından
 çıkan bir gözlemdir.
 
-Atlas bu imkânı ayrıca kaydeder.[^k3] Bir hareketin kendi metinlerinin
-tarihli olarak korunması seyrektir ve korunduğunda talep değişimi
-ölçülebilir hâle gelir.
+Bir hareketin kendi metinlerinin tarihli olarak
+korunması seyrektir ve korunduğunda talep değişimi ölçülebilir hâle gelir.[^k3]
 
 ## Adın sonraki dolaşımı
 
 Hareketin adı yirminci yüzyılda birden çok ülkede yeniden
 kullanıldı.[^k1] Kullananlar farklı siyasi çizgilerden geliyordu.
 
-Bu, atlasın Kânûn-ı Esâsî dosyasında ölçtüğü işlevin bir başka
+Bu, korpusun Kânûn-ı Esâsî dosyasında ölçtüğü işlevin bir başka
 örneğidir.[^k3] Bir ad ya da belge, kendi bağlamının dışında bir talep
 dayanağı hâline gelebilir.
 
-Atlas iki düzeyi ayrı tutar.[^k2] Bir adın sonradan kullanılması, o adın
-ilk taşıyıcısının programı hakkında bilgi vermez.
+Bir adın sonradan kullanılması, o adın ilk
+taşıyıcısının programı hakkında bilgi vermez.[^k2]
 
-## Bu dosyanın kaydettiği
+## Bu incelemenin kaydettiği
 
 Dosya, ayaklanmanın nedenini tek bir etkene bağlamaz.[^k1] Vergi
 düzenlemesi, zorunlu alım ve idari uygulamalar birlikte sıralanır.
@@ -309,8 +304,7 @@ kullandı.
 değişebilir; başlangıçtaki talebe bakarak hareketin ne olduğuna karar
 vermek, sürecin kendisini görmezden gelmektir.**
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, sonraki bağımsızlık hareketleriyle nedensel bir bağ kurmaz.[^k1]
 İki okuma kaydedilir ve ikisi de sınanmamıştır.
 
@@ -321,8 +315,7 @@ Hareketin önderleri hakkında ayrı dosya bulunmamaktadır.[^k3] Bu, açık
 bir borçtur ve defterine yazılmıştır; aynı şekilde bölgedeki sömürge
 idari düzeninin kendisi de künyelenmemiştir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Soy iddiasının dayandığı düzen için
 [İnka İmparatorluğu](/aktor/inka-imparatorlugu/), bastıran taraf için
 [İspanyol İmparatorluğu](/aktor/ispanyol-imparatorlugu/) dosyaları

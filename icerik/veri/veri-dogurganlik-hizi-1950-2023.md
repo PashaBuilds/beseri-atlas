@@ -58,16 +58,15 @@ toplam 74 gözlem vardır.[^k1]
 Serinin ilk ve son değeri arasındaki fark, başlangıç değerinin yarısından
 büyüktür.[^k1]
 
-Atlas bu düşüşü bir nedene bağlamaz: veri kümesi doğurganlık hızını verir,
-nedenlerini vermez.[^k1] Nedene dair kuramsal çerçeve
-[Demografik geçiş](/kavram/demografik-gecis/) dosyasında ele alınıyor.
+Nedene dair kuramsal çerçeve [Demografik
+geçiş](/kavram/demografik-gecis/) dosyasında ele alınıyor.[^k1]
 
 ## Serinin son değeri bir eşiğe yakındır
 
 Son gözlem 2,251'dir.[^k1]
 
 Bu sayının demografik yazında sıkça anılan yenilenme düzeyine yakın olması,
-atlasın burada bir yorum yapmasını gerektirmez; kullanılan veri kümesi bir eşik
+korpusun burada bir yorum yapmasını gerektirmez; kullanılan veri kümesi bir eşik
 değeri tanımlamaz ve dosya da tanımlamaz.[^k1]
 
 ## Seri 1950'den önce yoktur
@@ -75,7 +74,7 @@ değeri tanımlamaz ve dosya da tanımlamaz.[^k1]
 Veri kümesinde dünya toplamı için 1950'den önce gözlem bulunmaz.[^k1]
 
 Bir demografik ölçünün yalnızca yirminci yüzyılın ikinci yarısını kapsaması,[^k1]
-atlasın şu kuralının dayanağıdır: bu dosyadan sanayi öncesi doğurganlık hakkında
+korpusun şu kuralının dayanağıdır: bu incelemeden sanayi öncesi doğurganlık hakkında
 bir değer okunamaz.
 
 ## Aynı sağlayıcının nüfus serisi
@@ -84,7 +83,7 @@ Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1950 için 
 2,49 milyar, 2020 için yaklaşık 7,89 milyardır.[^k2]
 
 Doğurganlık hızı düşerken nüfusun artmış olması,[^k1][^k2] iki ölçünün farklı
-şeyler ölçtüğünü gösterir; atlas bu iki seriyi tek bir eğilim cümlesinde
+şeyler ölçtüğünü gösterir; korpus bu iki seriyi tek bir eğilim cümlesinde
 birleştirmez. Nüfus serisi
 [Dünya nüfusu, 1500–2025](/veri/dunya-nufusu-1500-2025/) dosyasında ele alınıyor.
 
@@ -94,13 +93,10 @@ Nüfus artışı üzerine erken bir model için tutulan kayıt, aile geçindirme
 güçlüklerinin sonunda nüfus artış hızını azalttığını öne süren bir döngüyü
 anlatır.[^k3]
 
-Atlas bu seriyi o modelin doğrulanması olarak sunmaz: model gıda ve ücret
-üzerinden bir mekanizma önerir, seri ise yalnızca doğurganlık hızını
-verir.[^k1][^k3] O model
-[Thomas Malthus](/dusunur/malthus/) dosyasında ele alınıyor.
+O model [Thomas
+Malthus](/dusunur/malthus/) dosyasında ele alınıyor.[^k1][^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ülke ülke değerler, yaş gruplarına göre dağılım ve projeksiyonlar burada ayrı
-başlıklar altında ele alınmamıştır; bu dosya yalnızca dünya toplamı serisini
+başlıklar altında ele alınmamıştır; bu inceleme yalnızca dünya toplamı serisini
 kaydeder.[^k1]

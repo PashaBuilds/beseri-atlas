@@ -48,7 +48,7 @@ denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-Bu dosyanın taşıdığı sayılar bir sayım değil, bir değerlendirmedir: sütun adı
+Bu incelemenin taşıdığı sayılar bir sayım değil, bir değerlendirmedir: sütun adı
 tahmin sözcüğünü içerir.[^k1]
 
 ## Sütun adı bir tahmin olduğunu söylüyor
@@ -56,9 +56,9 @@ tahmin sözcüğünü içerir.[^k1]
 Sağlayıcının sütun adı `electdem_vdem__estimate_best` biçimindedir; adın kendisi
 değerin en iyi tahmin olduğunu kaydeder.[^k1]
 
-::tartismali[Bu seri ölçülmüş bir büyüklük değil, kodlayıcı değerlendirmelerinden türetilmiş bir tahmindir. Atlas onu ölçüm gibi aktarmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bu seri ölçülmüş bir büyüklük değil, kodlayıcı değerlendirmelerinden türetilmiş bir tahmindir. Korpus onu ölçüm gibi aktarmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
-Bir değerin adında tahmin sözcüğünün bulunması,[^k1] atlasın şu kuralının
+Bir değerin adında tahmin sözcüğünün bulunması,[^k1] korpusun şu kuralının
 dayanağıdır: endeks değerleri, üretim yöntemi yazılmadan aktarılmaz. Okuma
 yöntemi
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -89,7 +89,6 @@ Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 2025'te yak
 8,23 milyardır.[^k2] Endeks bir orandır ve nüfusla ağırlıklandırılmamıştır; bu
 dosyada nüfusa göre yeniden hesaplama yapılmamıştır.[^k1]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ülke dağılımı, rejim türleri ve endeksin alt bileşenleri burada ele
-alınmamıştır; bu dosya tek bir sütunun yıl bazlı değerlerini taşır.[^k1]
+alınmamıştır; bu inceleme tek bir sütunun yıl bazlı değerlerini taşır.[^k1]

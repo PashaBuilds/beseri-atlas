@@ -57,9 +57,9 @@ onarim_turu: 0
 Kaynak maddesine şu cümleyle başlar: yazarın hayatı hakkında gerçekten güvenilir
 pek az şey biliyoruz; muhtemelen 870 yılında doğduğu yazılır.[^k1]
 
-## Bu dosya eserin metnine değil erişim durumuna bağlanır
+## Bu inceleme eserin metnine değil erişim durumuna bağlanır
 
-::tartismali[Kaynak, yazarın bazı metinlerinin hâlâ herhangi bir dile çevrilmediğini yazıyor. Atlas bu eser için bir tez özeti kurarken, kurduğu şeyin metnin kendisi değil metin hakkındaki kayıt olduğunu belirtmek zorundadır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Kaynak, yazarın bazı metinlerinin hâlâ herhangi bir dile çevrilmediğini yazıyor. Korpus bu eser için bir tez özeti kurarken, kurduğu şeyin metnin kendisi değil metin hakkındaki kayıt olduğunu belirtmek zorundadır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Kaynak, hâlâ tenkitli neşirlerin, tam İngilizce çevirilerin ve zaman zaman
 birkaç metnin herhangi bir dile çevirisinin bulunmadığını, ayrıca felsefesine
@@ -73,7 +73,7 @@ Kaynak, 1980'lerden itibaren Fârâbî araştırmalarında çok şey olduğunu; 
 daha iyi neşirler ile yeni ve daha iyi çevirilerin düşüncesine dair daha derin
 incelemelere ve ilginç, canlı tartışmalara yol açtığını yazar.[^k1]
 
-Bir külliyatın erişilebilirliğinin on yıllar içinde değişmesi,[^k1] atlasın
+Bir külliyatın erişilebilirliğinin on yıllar içinde değişmesi,[^k1] korpusun
 kaynak alanında neden erişim tarihi tuttuğunun dayanağıdır; kavram
 [Birincil kaynak](/kavram/birincil-kaynak/) dosyasında ele alınıyor.
 
@@ -86,9 +86,8 @@ tenkitli neşirlerinin mevcut olduğunu yazar.[^k3] O örnek
 Bağımsız bir ansiklopedinin madde listesi de aynı ada bağlı ayrı başlıklar
 tutar.[^k2] Yazar [Fârâbî](/dusunur/farabi/) dosyasında ele alınıyor.
 
-## Okuma yönlendirmesi
-
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
+## Okumayı sürdürmek için
+Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
 ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi neşrin ve hangi çevirinin
 kullanıldığı her aktarımda belirtilmelidir — kaynağın kendi kaydına göre bu
 seçim her metin için mümkün olmayabilir.[^k1]

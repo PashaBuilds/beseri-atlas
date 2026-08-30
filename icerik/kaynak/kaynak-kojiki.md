@@ -73,7 +73,7 @@ Anlatı, tanrılardan hükümdarlara kesintisiz geçer.[^k2] Bir soy
 zinciri, en yüksek tanrıdan metnin yazıldığı dönemin hanedanına
 uzanır.
 
-Bu dosyanın konusu anlatının içeriği değildir.[^k3] Bu zincirin ne işe
+Bu incelemenin konusu anlatının içeriği değildir.[^k3] Bu zincirin ne işe
 yaradığıdır.
 
 ## Neden yazıldı
@@ -84,8 +84,8 @@ derleme gerekçesi metnin girişinde bildirilir.
 Gerekçe şudur.[^k2] Dolaşımdaki kayıtlar birbirini tutmuyordu ve
 düzeltilmesi isteniyordu.
 
-Atlas bu gerekçeyi ayrıca kaydeder.[^k3] Bir kaydın "düzeltmek için"
-yapıldığını söylemesi, hangi kaydın yanlış sayıldığını da bildirir.
+Bir kaydın "düzeltmek için" yapıldığını
+söylemesi, hangi kaydın yanlış sayıldığını da bildirir.[^k3]
 
 ## Kim aktardı, kim yazdı
 
@@ -95,9 +95,8 @@ yazıya geçirdi.
 Bu, aktarımın o tarihte hâlâ sözlü olduğunu gösterir.[^k2] Yazı
 biliniyordu ama bu anlatı yazıyla taşınmıyordu.
 
-Atlas bu geçişi bir dönüm noktası sayar.[^k3] Sözlü aktarımın yazıya
-geçirilmesi, aktarımı korumakla kalmaz; onu sabitler ve rakip
-sürümlerin dolaşımını zorlaştırır.
+Sözlü aktarımın yazıya geçirilmesi,
+aktarımı korumakla kalmaz; onu sabitler ve rakip sürümlerin dolaşımını zorlaştırır.[^k3]
 
 ## Sabitlemenin sonucu
 
@@ -107,9 +106,8 @@ birinin resmî hâle gelmesi, diğerlerini gayriresmî yapar.
 Diğer soyların kendi anlatıları vardı.[^k2] Bu anlatıların bir bölümü
 metne bağımlı biçimde, hüküm süren soya bağlanarak kaydedildi.
 
-Atlas bunu bir örüntü olarak kaydeder.[^k3] **Rakip kuruluş anlatıları
-çoğu zaman silinmez; hâkim anlatının alt dalları hâline getirilerek
-etkisizleştirilir.**
+**Rakip kuruluş anlatıları çoğu zaman
+silinmez; hâkim anlatının alt dalları hâline getirilerek etkisizleştirilir.**[^k3]
 
 ## Yakın tarihli bir başka kayıt
 
@@ -119,9 +117,8 @@ derlendi.[^k2] İkinci kayıt Çince yazıldı ve dış okur da gözetildi.
 İki metin aynı olayları farklı ayrıntılarla anlatır.[^k1] Bazı
 noktalarda ikincisi birden çok sürümü yan yana verir.
 
-Atlas iki metni birlikte okur.[^k3] Aynı saraydan çıkan iki kaydın
-farklı olması, resmî anlatının o tarihte henüz tek biçim olmadığını
-gösterir.
+Aynı saraydan çıkan iki kaydın
+farklı olması, resmî anlatının o tarihte henüz tek biçim olmadığını gösterir.[^k3]
 
 ## Dil ve yazı sorunu
 
@@ -131,8 +128,8 @@ seslerini vermek için zorlanarak kullanıldı.
 Bu, okunuşu tartışmalı kılar.[^k2] Bazı adların ve sözcüklerin nasıl
 telaffuz edildiği kesin değildir.
 
-Atlas bu kısıtı ayrıca kaydeder.[^k3] Bir metnin elde bulunması, o
-metnin nasıl okunduğunun bilindiği anlamına gelmez.
+Bir metnin elde bulunması, o metnin
+nasıl okunduğunun bilindiği anlamına gelmez.[^k3]
 
 ## Sonraki kullanımı
 
@@ -142,8 +139,8 @@ yapılan yorum çalışmalarıyla arttı.
 On sekizinci yüzyılda metne dönülmesi, kendi döneminin sorusuyla
 ilgiliydi.[^k2] Aranan, yabancı etkiden arınmış bir başlangıçtı.
 
-Atlas bu dönüşü ayrıca kaydeder.[^k1] Bir metnin ne zaman önemsendiği,
-metnin kendisinden çok onu okuyanların ihtiyacını gösterir.
+Bir metnin ne zaman önemsendiği, metnin
+kendisinden çok onu okuyanların ihtiyacını gösterir.[^k1]
 
 ## Yirminci yüzyıldaki kullanımı
 
@@ -153,8 +150,8 @@ Soy zinciri, siyasi bir iddiaya çevrildi.
 Bu kullanım, metnin sekizinci yüzyıldaki işleviyle aynı değildir.[^k3]
 Aradaki bin iki yüz yıl, iddianın kapsamını da değiştirdi.
 
-Atlas ikisini ayırır.[^k1] Bir metnin sonraki kullanımı, o metnin
-yazıldığı andaki anlamını geriye doğru belirlemez.
+Bir metnin sonraki kullanımı, o metnin
+yazıldığı andaki anlamını geriye doğru belirlemez.[^k1]
 
 ## Kaynak olarak değeri
 
@@ -165,12 +162,10 @@ Buna karşılık metin, yazıldığı dönem için birinci elden bir
 kayıttır.[^k2] Sekizinci yüzyıl sarayının kendini nasıl anlattığını
 doğrudan gösterir.
 
-Atlas bu ayrımı bütün kuruluş anlatıları için uygular.[^k3] Bir
-kuruluş anlatısı, kuruluşun değil, anlatının yazıldığı anın
-kaynağıdır.
+Bir kuruluş anlatısı, kuruluşun değil, anlatının
+yazıldığı anın kaynağıdır.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, metnin bölümlerini tek tek özetlemez.[^k1] Tam metin künyede
 anılan çeviriden okunabilir.
 
@@ -180,8 +175,7 @@ uzmanlık alanıdır.
 Künyedeki çeviri on dokuzuncu yüzyıla aittir.[^k3] Sonraki çeviriler
 bazı bölümleri farklı okur ve bu kısıt burada beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Kuruluş anlatılarının nasıl okunacağı için
 [Kuruluş anlatısı](/kavram/kurulus-anlatisi/) dosyası
 okunmalıdır.[^k1]

@@ -73,8 +73,8 @@ yönetimi altına girmemiş olanıdır.[^k3] Bu, dosyanın asıl konusudur.
 
 ## Hawai ile karşılaştırma
 
-Atlasta bu dosyanın bir eşi vardır.[^k1] Hawai Krallığı da aynı okyanusta,
-aynı yüzyılda ve benzer baskılar altında yazılı anayasalar kabul etti.
+Hawai Krallığı da aynı okyanusta, aynı
+yüzyılda ve benzer baskılar altında yazılı anayasalar kabul etti.[^k1]
 
 İki devletin kullandığı araç aynıdır.[^k1] Yazılı anayasa, meclis, tanınma
 arayışı ve dış temsilcilikler her ikisinde de görülür.
@@ -85,7 +85,7 @@ Sonuçlar karşıttır.[^k3] Biri yüzyıl sonunda devrildi ve ilhak edildi;
 ## Karşılaştırmanın verdiği
 
 Aynı araç karşıt sonuç verdiyse, sonucu belirleyen araç değildir.[^k1]
-Bu, atlasın bu dosyadan çıkardığı temel kayıttır.
+Bu, korpusun bu incelemeden çıkardığı temel kayıttır.
 
 Gözlem yaygın bir varsayımı bozar.[^k2] Yazılı anayasa kabul etmek,
 kendi başına bir koruma sağlamaz; belgenin ne düzenlediği belirleyicidir.
@@ -114,7 +114,7 @@ Toprak toplanamadığında, dışarıdan gelen sermaye ekonomiyi ele
 geçiremez.[^k1] Ele geçiremediğinde, o sermayeyi taşıyan nüfus da
 siyasi ağırlık kazanamaz.
 
-Zincirin ilk halkası hukukidir.[^k1] Atlas bu nedenle sonucu ekonomik
+Zincirin ilk halkası hukukidir.[^k1] Korpus bu nedenle sonucu ekonomik
 değil hukuki bir karara bağlar; ekonomik sonuç, o kararın ardından
 gelir.
 
@@ -142,7 +142,7 @@ Yazının yaygınlaşması, hukukun yerel dilde yazılabilmesini
 sağladı.[^k1] Anayasa ve yasalar halkın okuyabildiği bir dilde
 yayımlandı.
 
-Bu, atlasın Waitangi dosyasındaki durumdan farklıdır.[^k2] Orada yerel
+Bu, korpusun Waitangi dosyasındaki durumdan farklıdır.[^k2] Orada yerel
 dildeki metin bir çeviriydi; burada yerel dil hukukun asıl dillerinden
 biriydi.
 
@@ -166,8 +166,8 @@ gösterir.[^k1] Orada da yazılı anayasa, meclis ve tanınma vardı.
 Fark, biçime uyumun neyi koruduğundadır.[^k3] Biçim aynıysa ama içerik
 toprağı serbestleştiriyorsa, strateji kendi amacının tersine çalışır.
 
-Atlas bu nedenle stratejiyi bir açıklama saymaz.[^k2] Biçime uyum bir
-koşuldur, bir güvence değildir.
+Biçime uyum bir koşuldur, bir güvence
+değildir.[^k2]
 
 ## Tanınmanın işlevi
 
@@ -202,9 +202,8 @@ maddeleri ve terimleri dönemin batı anayasa geleneğine aittir.
 toprağı korumak için de toprağı serbestleştirmek için de
 kullanılabilir.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Bir kurumun biçiminin nereden
-geldiği ile ne için kullanıldığı ayrı iki sorudur ve biri ötekini
-belirlemez.
+Bir kurumun biçiminin nereden geldiği ile ne için
+kullanıldığı ayrı iki sorudur ve biri ötekini belirlemez.[^k3]
 
 ## Koruma antlaşması
 
@@ -227,7 +226,7 @@ Geçiş bir bağımsızlık savaşı gerektirmedi.[^k2] Devredilen yetki geri
 alındı; kurulacak yeni bir devlet yoktu çünkü devlet hiç ortadan
 kalkmamıştı.
 
-Bu, atlasın sömürgesizleşme dosyasındaki örüntülerden ayrılır.[^k3]
+Bu, korpusun sömürgesizleşme dosyasındaki örüntülerden ayrılır.[^k3]
 Sömürgesizleşmenin olağan biçimi yeni bir devletin kurulmasıdır; burada
 süreklilik korunmuştur.
 
@@ -251,8 +250,8 @@ karşı bağışıklık bulunmaması, takımadanın geneli için geçerliydi.
 Bu, iki örneği ayıran etkenler arasında değildir.[^k3] Her iki devlette
 de aynı yönde işledi.
 
-Atlas bu tür ortak etkenleri ayrıca işaretler.[^k1] İki örneği ayıran
-şeyi bulmak için, ikisinde de ortak olanları elemek gerekir.
+İki örneği ayıran şeyi bulmak
+için, ikisinde de ortak olanları elemek gerekir.[^k1]
 
 ## Karşılaştırmanın sınırı
 
@@ -263,26 +262,24 @@ Hawai, okyanusun ortasında büyük bir liman ve şeker için elverişli
 arazi sunuyordu.[^k2] Bu, dışarıdan gelen ilginin yoğunluğunu doğrudan
 etkiledi.
 
-Atlas toprak hükmünü tek neden saymaz.[^k1] Onu, iki metin
-karşılaştırıldığında görünen en keskin ve en doğrudan izlenebilir fark
-olarak kaydeder.
+Onu, iki metin karşılaştırıldığında
+görünen en keskin ve en doğrudan izlenebilir fark olarak kaydeder.[^k1]
 
 ## Dönemin kendi bakışı
 
-Bu dosyanın ikinci künyesi yirminci yüzyıl başından bir ansiklopedi
+Bu incelemenin ikinci künyesi yirminci yüzyıl başından bir ansiklopedi
 maddesidir.[^k2] Olgu kaynağı olarak değil, dönem tanıklığı olarak
 kullanılmıştır.
 
 Maddenin dili ve sınıflandırmaları, yazıldığı dönemin çerçevesini
 taşır.[^k2] Bu, kullanımını sınırlar ama değersiz kılmaz.
 
-Atlas böyle kaynakları ayrı bir alt türle künyeler.[^k1] Bir metnin
-tanıklık olarak okunması, olgu bildirimi olarak okunmasından farklı
-kurallara tabidir.
+Bir metnin tanıklık olarak
+okunması, olgu bildirimi olarak okunmasından farklı kurallara tabidir.[^k1]
 
 ## Kaynak durumu
 
-Bu dosyanın birinci künyesi anayasa metninin bir
+Bu incelemenin birinci künyesi anayasa metninin bir
 transkripsiyonudur.[^k1] Asıl nüsha değildir ve transkripsiyon doğruluğu
 bağımsız olarak sınanmamıştır.
 
@@ -296,16 +293,15 @@ dayanmaktadır.
 ## Kapsam dışı
 
 Hükümdarların tek tek biyografileri burada işlenmez.[^k3] Ayrı dosyalar
-gerektirirler ve bu dosya yazıldığında atlasta bulunmuyorlardı.
+gerektirirler ve bu inceleme yazıldığında korpusta bulunmuyorlardı.
 
 Birleşme öncesi siyasi düzen de kapsam dışıdır.[^k2] Takımadanın erken
 dönem hiyerarşisi ayrı bir çalışma gerektirir.
 
-Bugünkü siyasi tartışmalar ve anayasa değişiklikleri işlenmez.[^k1] Atlas
+Bugünkü siyasi tartışmalar ve anayasa değişiklikleri işlenmez.[^k1] Korpus
 güncel siyasi durumlar hakkında değerlendirme yapmaz.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya bir başarı anlatısı kurmaz.[^k3] Bağımsızlığın korunması, yönetimin
 iyi olduğu anlamına gelmez ve iki soru ayrıdır; anayasanın kurduğu iç
 düzenin kendi eşitsizlikleri burada işlenmemiştir.
@@ -314,14 +310,13 @@ Toprak hükmünün sonucu tek başına belirlediği de ileri
 sürülmez.[^k1] Hüküm, izlenebilir en keskin fark olarak kaydedilir.
 
 Karşılaştırma iki örnekle sınırlıdır.[^k2] İki örnekten bir kural
-çıkarılamaz ve bu dosya bir kural önermez; ölçülebilir bir iddia
+çıkarılamaz ve bu inceleme bir kural önermez; ölçülebilir bir iddia
 kurulabilmesi için aynı okyanustan daha çok örneğin künyelenmesi gerekir
-ve bu, atlasın açık borcudur.
+ve bu, korpusun açık borcudur.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Karşılaştırmanın öteki tarafı için
-[Hawai Krallığı](/aktor/hawai-kralligi/) dosyası okunmalıdır; bu dosya
+[Hawai Krallığı](/aktor/hawai-kralligi/) dosyası okunmalıdır; bu inceleme
 onsuz eksiktir ve ikisi birlikte tek bir soruyu kurar.[^k1]
 
 Aynı okyanustan ve aynı dönemden bir başka belge sorunu için

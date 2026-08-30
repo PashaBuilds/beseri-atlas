@@ -51,7 +51,7 @@ onarim_turu: 0
 ---
 
 Reform'un başlangıç işareti bellidir: Doksan Beş Tez, Martin Luther tarafından
-1517'de yazılmıştır.[^k1] Bu dosya, o tarihi bir başlangıç değil bir **eşik**
+1517'de yazılmıştır.[^k1] Bu inceleme, o tarihi bir başlangıç değil bir **eşik**
 olarak ele alır.
 
 ## Öncüller listesi uzundur
@@ -120,8 +120,7 @@ kullanamayacağı bir yorum getirdi.[^k3]
 olarak verilir.[^k4] Hareketin ulaştığı insan sayısına dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için burada oran verilmemiştir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Reformcuların teolojileri, karşı tarafın yanıtı ve ülke ülke yayılma seyri burada
 ayrı başlıklar altında ele alınmamıştır.
 Dönemin bütünü [1500–1650](/donem/09/) dosyasında ele alınıyor.

@@ -56,7 +56,7 @@ onarim_turu: 0
 Kaynak onu, 4. ile 11. yüzyıllar arasına tarihlenen çeşitli geleneklerde korunmuş
 efsanevi anlatılara göre ilk Maurya hükümdarına yardım eden bir Brahman olarak
 tanıtır; mesleği siyasi danışman ve başvezir, dönemi MÖ 4. - MÖ 3. yüzyıl olarak
-verilir.[^k1] Bu dosya, öğretisini değil **kaydın kaynak yapısını** ele alır.
+verilir.[^k1] Bu inceleme, öğretisini değil **kaydın kaynak yapısını** ele alır.
 
 ## Anlatının tarihi kişinin tarihinden yedi yüzyıl sonradır
 
@@ -64,7 +64,7 @@ Kaynak anlatıların 4. ile 11. yüzyıllar arasına tarihlendiğini yazar, kiş
 dönemi ise MÖ 4.-3. yüzyıldır.[^k1] Sürümler ayrı ayrı başlıklanır: 11. yüzyıla
 ait Keşmir sürümü ve 4.-8. yüzyıllara ait Mudrarakshasa sürümü.[^k1]
 
-::tartismali[Bir kişi hakkındaki en erken anlatı, kişinin yaşadığı dönemden yedi yüzyıl sonrasına tarihleniyor. Atlas bu boşluğu kapatmaz, ölçer ve gösterir.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bir kişi hakkındaki en erken anlatı, kişinin yaşadığı dönemden yedi yüzyıl sonrasına tarihleniyor. Korpus bu boşluğu kapatmaz, ölçer ve gösterir.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu tür boşlukların nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -78,7 +78,7 @@ efsanelerine göre); babasının adı da Cayna efsanesine göre kaydı düşüle
 Chanaka olarak verilir.[^k1]
 
 Aynı alanda iki birbirini dışlayan cevabın hangi geleneğe ait olduğu
-belirtilerek yazılması,[^k1] atlasın tartışmalı alanlarda uyguladığı biçimin
+belirtilerek yazılması,[^k1] korpusun tartışmalı alanlarda uyguladığı biçimin
 kaynaklarda da bulunduğunu gösterir: cevap değil, cevabın sahibi kaydedilir.
 
 ## Özdeşleştirmenin kendisi bir başlıktır
@@ -87,7 +87,7 @@ Kaynak, *Arthashastra*'nın yazarı Kautilya ile özdeşleştirilmesini miras
 bölümünün altında ayrı bir başlık olarak işler; adlandırma da ayrı bir alt
 başlıktır.[^k1]
 
-Bir kişinin bir eserin yazarı sayılmasının kendisinin başlık olması,[^k1] atlasın
+Bir kişinin bir eserin yazarı sayılmasının kendisinin başlık olması,[^k1] korpusun
 "filanca şunu yazdı" cümlelerini neden temkinle kurduğunu gösterir: yazarlık bazen
 bir veri değil bir sonuçtur.
 
@@ -108,14 +108,13 @@ verilir.[^k3] O düşünür [Konfüçyüs](/dusunur/konfucyus/) dosyasında ele 
 İki kaydın da tarih ve anlatı kaynağı konusunda çekince taşıması,[^k1][^k3]
 belirsizliğin tek bir bölgeye özgü olmadığını gösterir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 *Arthashastra*'nın içeriği, siyaset kuramı, efsane sürümlerinin ayrıntıları ve
 sonraki alımlanma burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları
 ayrı bölümler olarak işler.[^k1]
 
 ## Eserine bağ
 
-Bu dosya eserin kamu malı tam metnine bağlanır: *Arthasastra*.[^k4] Esere yapılacak
+Bu inceleme eserin kamu malı tam metnine bağlanır: *Arthasastra*.[^k4] Esere yapılacak
 her atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
 çevirinin kullanıldığı belirtilmelidir.

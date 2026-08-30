@@ -59,22 +59,21 @@ onarim_turu: 0
 ## Nerede durduğu
 
 Moche, Güney Amerika'nın Pasifik kıyısında, dağlardan inen nehir vadilerinin
-çöle açıldığı kuşakta yerleşmiş bir düzendir.[^k1] Atlasın bölge şemasında
+çöle açıldığı kuşakta yerleşmiş bir düzendir.[^k1] Korpusun bölge şemasında
 yalnızca Amerika etiketi taşır.
 
-Coğrafya bu dosyanın bütün mantığını belirler.[^k1] Kıyı şeridi yağış almayan
+Coğrafya bu incelemenin bütün mantığını belirler.[^k1] Kıyı şeridi yağış almayan
 bir çöldür; tarım ancak nehir sularının kanallarla vadiye yayılmasıyla
 mümkün olur.
 
-Dosyanın atlas açısından ayırt edici yanı kanıt tarafındadır.[^k2][^k3] Düzen
+Dosyanın korpus açısından ayırt edici yanı kanıt tarafındadır.[^k2][^k3] Düzen
 yazı bırakmadı; hakkında bilinen her şey bıraktığı nesnelerden ve
 yerleşimlerinden okunur.
 
 ## Yazısız bir düzenin okunması
 
-Atlasın öteki aktör dosyalarının neredeyse tamamı, en azından bir yazılı
-kayda dayanır.[^k1] Burada böyle bir kayıt yoktur ve bu, dosyanın hangi
-soruları cevaplayabileceğini de belirler.
+Burada böyle bir kayıt yoktur ve bu,
+dosyanın hangi soruları cevaplayabileceğini de belirler.[^k1]
 
 Nesne kanıtı yapı ve süreklilik sorularını cevaplar.[^k2] Bir kanal
 sisteminin varlığı, bir yönetimin bakımını üstlendiğini gösterir; seramik
@@ -91,13 +90,13 @@ Kıyı vadilerinde tarım, uzun kanallarla ve düzenli bakımla yürütülüyord
 Kanal sistemleri tek bir vadiyi aşacak ölçekteydi ve merkezî bir
 örgütlenme gerektiriyordu.
 
-Bu bağ, atlasın başka bölgelerinde de kaydedilmiştir.[^k1] Su düzenine
+Bu bağ, korpusun başka bölgelerinde de kaydedilmiştir.[^k1] Su düzenine
 dayanan tarım merkezî yönetimi zorunlu kılar; merkezî yönetim de varlığını o
 su düzeninin sürmesine bağlar.
 
 Bağın buradaki özel yanı, kanıtın yalnızca yapının kendisi olmasıdır.[^k2]
 Kanalların varlığı ölçülebilir; onları yaptıran otoritenin biçimi
-ölçülemez ve atlas bu ayrımı korur.
+ölçülemez ve korpus bu ayrımı korur.
 
 ## Seramiğin kayıt işlevi
 
@@ -109,15 +108,15 @@ Bu tasvirler bir kayıt işlevi görür ama yazının işlevini görmez.[^k3] Bi
 sahne neyin yapıldığını gösterir; ne zaman ve kim tarafından yapıldığını
 göstermez.
 
-Atlas bu farkı ayrıca kaydeder.[^k1] Tasvir, yazının eksik bir biçimi
-değildir; farklı bir kayıt türüdür ve farklı sorulara cevap verir.
+Tasvir, yazının eksik bir biçimi değildir; farklı bir
+kayıt türüdür ve farklı sorulara cevap verir.[^k1]
 
 ## Portre kapların özelliği
 
 Kapların bir bölümü, belirli kişileri gösterdiği düşünülen portrelerdir.[^k3]
 Aynı yüzün farklı kaplarda ve farklı yaşlarda tekrarlandığı gözlenmiştir.
 
-Bu, atlasın kaydettiği olağandışı bir durumdur.[^k3] Yazı bırakmamış bir
+Bu olağandışı bir durumdur.[^k3] Yazı bırakmamış bir
 düzende bireylerin tanınabilir biçimde kaydedilmiş olması, kişi
 kimliğinin o düzende önemsendiğini gösterir.
 
@@ -134,11 +133,10 @@ kaydı olarak okunabilir.
 ::tartismali[Seramik sahnelerinin gerçek olayları mı, tören kalıplarını mı
 yoksa anlatı sahnelerini mi gösterdiği tartışmalıdır; üç okuma da aynı
 nesnelerden çıkarılabilir ve seçim, çıkarılacak tarihsel sonucu doğrudan
-belirler. Atlas bir okumayı benimsemez.]{harita=tartisma-sozlu-gelenek-kaynak-mi}
+belirler. Korpus bir okumayı benimsemez.]{harita=tartisma-sozlu-gelenek-kaynak-mi}
 
-Atlas bu belirsizliği bir eksiklik olarak değil bir kanıt özelliği olarak
-kaydeder.[^k2] Yazılı bir kaydın da yorumu tartışmalıdır; farkı, yazılı
-kaydın en azından kendi kategorisini beyan etmesidir.
+Yazılı bir kaydın da yorumu
+tartışmalıdır; farkı, yazılı kaydın en azından kendi kategorisini beyan etmesidir.[^k2]
 
 ## Kazı bulgularının katkısı
 
@@ -150,9 +148,8 @@ büyüklüğü toplumsal katmanlaşmayı gösterir.
 veremeyeceği bir tabloyu üretir.[^k2] Seramik neyin yapıldığını, gömüler
 kimin nerede durduğunu gösterir.
 
-Atlasın [Arkeolojik kanıt](/kavram/arkeolojik-kanit/) dosyası bu birleşimi
-kavram düzeyinde ele alır.[^k1] Bu dosya, birleşimin en açık uygulandığı
-örneklerden biridir.
+Bu inceleme, birleşimin en açık
+uygulandığı örneklerden biridir.[^k1]
 
 ## Tek bir devlet miydi
 
@@ -164,21 +161,20 @@ Ortak seramik üslubu ve ortak dinî tasvirler, birlik lehine
 okunabilir.[^k2][^k3] Vadiler arasındaki mimari ve gömü farkları ise ayrı
 merkezler lehine okunabilir.
 
-Atlas iki okumayı da kaydeder ve künyede bir devlet adı kullanmaz.[^k1]
-Dosyanın başlığı bir kültür adıdır; bu tercih, siyasi biçimin bilinmediğinin
-kaydıdır.
+Dosyanın başlığı bir kültür adıdır; bu
+tercih, siyasi biçimin bilinmediğinin kaydıdır.[^k1]
 
 ## Adlandırmanın kaynağı
 
 Düzenin bugün kullanılan adı, kendi adı değildir.[^k1] Ad, kazıların
 yapıldığı vadinin modern adından gelir.
 
-Bu, atlasın başka bölgelerinde de kaydettiği bir durumdur.[^k1] Yazı
+Bu, korpusun başka bölgelerinde de kaydettiği bir durumdur.[^k1] Yazı
 bırakmamış düzenlerin adları, onları inceleyenler tarafından verilir ve
 kendi adlandırmalarıyla ilgisi olmayabilir.
 
-Atlas yerleşmiş adı kullanır ve itirazı yanına yazar.[^k2] Sessizce
-değiştirmek, sorunu çözmek değil gizlemek olurdu.
+Sessizce değiştirmek, sorunu çözmek değil gizlemek
+olurdu.[^k2]
 
 ## Metal işçiliği
 
@@ -190,21 +186,21 @@ Bu teknik, sürekli bir atölye ve uzun bir öğrenme zinciri gerektirir.[^k2]
 Tekniğin varlığı, düzenin bu zinciri yüzyıllarca sürdürebildiğinin dolaylı
 kanıtıdır.
 
-Aynı çıkarım, atlasın [Benin Krallığı](/aktor/benin-kralligi/) dosyasında da
+Aynı çıkarım, [Benin Krallığı](/aktor/benin-kralligi/) incelemesinde da
 yapılmıştır.[^k1] İki düzen birbirinden habersizdir; ortak olan, nesne
 kanıtının aynı türden çıkarıma izin vermesidir.
 
 ## İki kıtada aynı yöntem
 
-Bu benzerlik atlasın yöntemi açısından öğreticidir.[^k1] Farklı kıtalarda,
+Bu benzerlik korpusun yöntemi açısından öğreticidir.[^k1] Farklı kıtalarda,
 birbirinden habersiz iki düzen hakkında aynı türden kanıtla aynı türden
 sonuca varılabiliyor.
 
 Sonucun sınırı da aynıdır.[^k2] İki dosyada da üretim örgütlenmesi
 gösterilebiliyor, yönetim biçimi gösterilemiyor.
 
-Atlas bu paraleli kaydeder ve bir genelleme yapmaz.[^k3] Kanıt türünün
-soruyu belirlemesi, incelenen bölgeden bağımsız bir kısıttır.
+Kanıt türünün soruyu belirlemesi,
+incelenen bölgeden bağımsız bir kısıttır.[^k3]
 
 ## Çöküşün açıklaması
 
@@ -212,12 +208,12 @@ Düzenin sona erişi, kaynaklarda birden çok etkenle açıklanır.[^k1] İklim
 değişkenliği, kanal sistemlerinin bozulması ve siyasi parçalanma birlikte
 aktarılır.
 
-Etkenlerin ağırlığı tartışmalıdır ve atlas bir sıralama yapmaz.[^k1] Su
+Etkenlerin ağırlığı tartışmalıdır ve korpus bir sıralama yapmaz.[^k1] Su
 düzenine dayanan bir düzende iklim ile siyaset birbirinden ayrılamaz;
 kuraklık bakımı zorlaştırır, bakımın aksaması meşruiyeti zayıflatır.
 
-Bu bağ, atlasın [İklim ve çöküş](/tartisma/iklim-ve-cokus/) dosyasıyla
-kesişir.[^k1] Bu dosya bir örnek sağlar; tartışmayı o dosya yürütür.
+Bu bağ, [İklim ve çöküş](/tartisma/iklim-ve-cokus/) incelemesiyle
+kesişir.[^k1] Bu inceleme bir örnek sağlar; tartışmayı o dosya yürütür.
 
 ## Ölçek sorunu
 
@@ -229,8 +225,8 @@ Hesaplama bir varsayım zinciri gerektirir: alan başına verim, kişi başına
 tüketim ve yerleşim yoğunluğu varsayılmalıdır.[^k1] Zincirin her halkası
 tartışmalıdır.
 
-Atlas bu yüzden bu dosyada nüfus rakamı vermez.[^k2] Kanal sisteminin
-uzunluğu ise ölçülebilir bir büyüklüktür ve dolaylı çıkarımın dayanağıdır.
+Kanal sisteminin uzunluğu ise
+ölçülebilir bir büyüklüktür ve dolaylı çıkarımın dayanağıdır.[^k2]
 
 ## Sonraki düzenlerle ilişki
 
@@ -242,13 +238,12 @@ Ayrım korunmalıdır.[^k2] Bir altyapının kullanılmaya devam etmesi, onu
 kuran düzenin sürdüğünü göstermez; kullanılabilir bir kanal, kimin
 yönettiğinden bağımsız olarak kullanılır.
 
-Atlasın [İnka İmparatorluğu](/aktor/inka-imparatorlugu/) dosyası bölgenin çok
-sonraki düzenini anlatır.[^k1] İki dosya arasında bin yıl vardır ve doğrudan
-bir bağ kurulmaz.
+İki dosya arasında bin yıl vardır ve
+doğrudan bir bağ kurulmaz.[^k1]
 
 ## Yazının yokluğu bir eksiklik mi
 
-Bu düzenin yazı geliştirmemiş olması, atlasın kaydettiği bir olgudur ve bir
+Bu düzenin yazı geliştirmemiş olması, incelenen bir olgudur ve bir
 değerlendirme taşımaz.[^k1] Aynı bölgede sonraki yüzyıllarda da alfabetik
 yazı gelişmedi.
 
@@ -256,16 +251,15 @@ Bunun yerine, düğümlü ip kayıt sistemleri ve tasvir gelenekleri
 kullanıldı.[^k1] Bu sistemler sayısal ve idari kayıt tutabiliyordu; anlatı
 kaydı için tasarlanmamışlardı.
 
-Atlasın [Yazı sistemi](/kavram/yazi-sistemi/) dosyası bu ayrımı kavram
-düzeyinde ele alır.[^k2] Bir toplumun yazı geliştirmemesi, kayıt tutmadığı
-anlamına gelmez.
+Bir toplumun yazı geliştirmemesi, kayıt tutmadığı
+anlamına gelmez.[^k2]
 
 ## Kaynak durumu
 
-Bu dosya üç kaynağa dayanır ve ikisi birincildir.[^k2][^k3] İki birincil
+Bu inceleme üç kaynağa dayanır ve ikisi birincildir.[^k2][^k3] İki birincil
 künye, müze katalog kayıtlarıdır ve `nesne` alt türünü taşır.
 
-Bu, atlasın nesne kanıtına dayanan ikinci dosyasıdır.[^k2] Alt tür, önceki
+Bu, korpusun nesne kanıtına dayanan ikinci dosyasıdır.[^k2] Alt tür, önceki
 turda Benin Krallığı dosyası yazılırken şemaya eklendi; burada ilk kez tek
 kanıt türü olarak kullanılıyor.
 
@@ -273,34 +267,31 @@ Kısıt açıkça beyan edilmelidir.[^k3] İki nesne, bir düzenin tamamını te
 etmez; künyeler örnek niteliğindedir ve dosyadaki genel değerlendirmeler
 giriş kapısı maddesinin aktarımına dayanır.
 
-## Bu dosyanın kapsamadıkları
-
+## Açıkta kalan sorular
 Kazı alanlarının tek tek tarihi ve bulguları burada işlenmez.[^k1] Her biri
 ayrı dosya gerektirir.
 
 Seramik ve metal eserlerin sanat tarihi açısından incelenmesi de kapsam
-dışıdır.[^k2] Bu dosya nesneleri kanıt olarak kullanır; nesnelerin kendisini
+dışıdır.[^k2] Bu inceleme nesneleri kanıt olarak kullanır; nesnelerin kendisini
 konu edinmez.
 
-Bölgedeki komşu ve çağdaş düzenler burada verilmez.[^k1] Bu dosya
-yazıldığında atlasta ayrı dosyaları bulunmuyordu.
+Bölgedeki komşu ve çağdaş düzenler burada verilmez.[^k1] Bu inceleme
+yazıldığında korpusta ayrı dosyaları bulunmuyordu.
 
-## Atlastaki yeri
-
-Bu dosya, atlasın Amerika aktör katmanına Kolomb öncesi bir kıyı düzeni
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun Amerika aktör katmanına Kolomb öncesi bir kıyı düzeni
 ekler.[^k1] Katmandaki öteki dosyalar ağırlıklı olarak daha geç ve daha
 büyük imparatorluklardı.
 
 Dosyanın seçilme gerekçesi kapsamdan çok yöntemdir.[^k2] Yazı bırakmamış bir
-düzenin nasıl yazılabileceği, atlasın kendi kaynak ilkesini sınayan bir
+düzenin nasıl yazılabileceği, korpusun kendi kaynak ilkesini sınayan bir
 örnektir.
 
 Sınavın sonucu dosyada görülebilir.[^k3] Dosya yazılabildi ama hangi
-soruların cevapsız kaldığı da her bölümde ayrıca yazıldı; atlasın istediği
+soruların cevapsız kaldığı da her bölümde ayrıca yazıldı; korpusun istediği
 budur.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Kanıt türlerinin nasıl değerlendirileceği için
 [Arkeolojik kanıt](/kavram/arkeolojik-kanit/), yazısız kayıt biçimleri için
 [Yazı sistemi](/kavram/yazi-sistemi/) dosyaları okunmalıdır.[^k1]

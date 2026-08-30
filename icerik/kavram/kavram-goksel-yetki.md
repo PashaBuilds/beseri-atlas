@@ -13,9 +13,10 @@ etiketler: [goksel-yetki, isyan-hakki, hanedan, mesruiyet, cin]
 ilgili:
   - kavram-mesruiyet
   - dusunur-mengzi
-  - dusunur-konfucyus
   - aktor-han-imparatorlugu
   - aktor-qing-hanedani
+baglam:
+  - dusunur-konfucyus
   - kavram-anakronizm
 okuma_onerisi: []
 kaynaklar:

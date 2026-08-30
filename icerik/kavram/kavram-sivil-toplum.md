@@ -59,8 +59,8 @@ kamusal alanla bağlantı ve kurumlar.[^k1]
 Kaynak tarih bölümünü Batı antikçağı, erken modern tarih, modern tarih ve
 post-modern tarih alt başlıklarına ayırır.[^k1]
 
-Bir kavramın tarihinin antikçağa kadar geri götürülmesi,[^k1] atlasın şu
-kuralının dayanağıdır: bu dosyada sivil toplum, modern bir icat olarak
+Bir kavramın tarihinin antikçağa kadar geri götürülmesi,[^k1] korpusun şu
+kuralının dayanağıdır: bu incelemede sivil toplum, modern bir icat olarak
 sunulmaz.
 
 ## Sınıf sınırları ayrı bir bölümdür
@@ -68,7 +68,7 @@ sunulmaz.
 Kaynak, sivil toplum ile simgesel sınıf sınırları diye ayrı bir bölüm tutar.[^k1]
 
 Bir katılım kavramının maddesinde sınıf sınırlarının ayrı bir başlık taşıması,
-[^k1] atlasın bu kavramı bir kapsayıcılık göstergesi olarak kullanmamasının
+[^k1] korpusun bu kavramı bir kapsayıcılık göstergesi olarak kullanmamasının
 dayanağıdır.
 
 ## Kamusal alanla bağ ayrıca kurulur
@@ -87,8 +87,7 @@ Demokrasi* (1835) ve *Eski Rejim ve Devrim* (1856) künyeleriyle verir; kayda
 değer fikirleri arasında gönüllü birliği ve karşılıklı özgürlüğü sayar.[^k3] O yazar
 [Alexis de Tocqueville](/dusunur/tocqueville/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Demokrasi ile ilişkisi, iktisadi boyutu ve kurumların ayrıntısı burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

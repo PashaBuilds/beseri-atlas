@@ -256,7 +256,7 @@ evlilik — çizginin değil değiş tokuşun tarihidir ve bu ilişkiyi tarif et
 için duvarın kendisine bakmak yetmez. İki kuşak kuramı yan yana koyulduğunda
 fark da görünür: Turner'ın kuşağı yalnız bir yönde, yerleşimin ilerlediği
 yönde yürür; Lattimore'un kuşağı iki yanlıdır ve iki dünya birbirini orada
-biçimlendirir. Aynı güçlük bu atlasın kendi sayfalarına da işler: dönem
+biçimlendirir. Aynı güçlük burada kullanılan dönem sayfalarına da işler: dönem
 sayfalarındaki bölge şeritleri, kuşakta duran bir aktörü iki kutudan birine
 yazmak zorunda kaldıkça çizgiyi şeridin içine geri getirir.
 
@@ -362,7 +362,7 @@ tartılıyor.
 
 ## Ağın öteki örnekleri
 
-Aynı gösterim sorusu bu atlasın başka aktörlerinde de açıktır ve çoğunda
+Aynı gösterim sorusu başka aktörlerde de açıktır ve çoğunda
 cevap bekletilmektedir. [Srivijaya](/aktor/srivijaya/) boğaz geçitlerini
 tutan bir liman düzeniyse haritada nasıl bir yüzey kaplamalıdır?
 [Hansa Birliği](/aktor/hansa-birligi/) hiçbir bitişik toprağı doldurmayan bir

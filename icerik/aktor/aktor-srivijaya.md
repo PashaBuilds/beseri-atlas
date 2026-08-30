@@ -67,7 +67,7 @@ Kaynak alan ölçümünü 1200 yılı tahmini olarak 1.200.000 km² verir; aynı
 imparatorluğun bitişi 1025'tir.[^k1]
 
 Bir alan tahmininin, aynı kutuda verilen bitiş yılından yaklaşık iki yüzyıl sonra
-tarihlenmesi[^k1] atlasın kaydettiği türden bir tutarsızlıktır. Atlas burada iki
+tarihlenmesi[^k1] incelenen türden bir tutarsızlıktır. Korpus burada iki
 sayıdan birini seçmez; ikisini de olduğu gibi aktarır ve okurun kaynağa gitmesini
 bekler.
 
@@ -77,7 +77,7 @@ Hükümdarlar yaklaşık yıllarla sıralanır: yaklaşık 683'te Dapunta Hyang 
 Jayanasa, yaklaşık 775'te Dharmasetu, yaklaşık 792'de Samaratungga, yaklaşık
 835'te Balaputra ve yaklaşık 988'de Sri Cudamani Warmadewa.[^k1]
 
-Beş hükümdarın da yaklaşık tarihle verilmesi,[^k1] bu dosyanın genel güven
+Beş hükümdarın da yaklaşık tarihle verilmesi,[^k1] bu incelemenin genel güven
 düzeyinin neden tartışmalı olarak işaretlendiğinin gerekçesidir.
 
 ## Başkent de tek değildir
@@ -109,8 +109,7 @@ için yaklaşık 314,7 milyondur.[^k3] İmparatorluğun kendi nüfusuna dair bir
 kullanılan kaynak bölümünde bulunmadığı için bu değerler içindeki pay burada
 hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kuruluş ve büyüme, altın çağ, ticaret ağı, gemi tipleri ve sanat burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1] Dönemin bütünü [650-1000](/donem/06/) dosyasında ele alınıyor.

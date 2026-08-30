@@ -45,7 +45,7 @@ denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-Bu krallığın atlastaki yeri, bir çağdaşının yaptığı sıralamaya dayanır. Aksum
+Bu krallığın korpustaki yeri, bir çağdaşının yaptığı sıralamaya dayanır. Aksum
 Krallığı, Maniheizm'in kurucusu Mani tarafından Pers, Roma ve Çin'in yanı sıra 3.
 yüzyılın dört büyük gücünden biri sayılmıştır.[^k1]
 
@@ -56,7 +56,7 @@ kayıttır: listeyi yapan kişi 3. yüzyılda yaşamış bir din kurucusudur.[^k
 Dördüncü ismin bugünün genel anlatılarında nadiren anılması, o anlatının kendi
 seçimlerini görünür kılar.
 
-Atlas bu sıralamayı doğru ya da yanlış ilan etmez; kimin, ne zaman yaptığını
+Korpus bu sıralamayı doğru ya da yanlış ilan etmez; kimin, ne zaman yaptığını
 belirterek aktarır. Aynı listedeki İran gücü, 224-651 arasındaki son İslam öncesi
 İran imparatorluğuydu[^k2] ve
 [Sasani İmparatorluğu](/aktor/sasani-imparatorlugu/) dosyasında ele alınıyor.
@@ -66,7 +66,7 @@ belirterek aktarır. Aynı listedeki İran gücü, 224-651 arasındaki son İsla
 Krallık 1. yüzyılda kuruldu ve 960'ta çöküşle sona erdi; daha erken Dʿmt
 uygarlığından doğmuştur ve başkenti Aksum şehriydi.[^k1]
 
-1. yüzyıl ile 960 arasındaki aralık,[^k1] atlasın kronolojik omurgasında birden
+1. yüzyıl ile 960 arasındaki aralık,[^k1] korpusun kronolojik omurgasında birden
 fazla dönemi keser; krallık kısa ömürlü bir bölgesel güç değil uzun süreli bir
 düzendir.
 
@@ -96,8 +96,7 @@ yaklaşık 271,6 milyon olarak verilir.[^k3] Krallığın kendi nüfusuna dair b
 kullanılan kaynaklarda bulunmadığı için bu değerler içindeki pay burada
 hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Krallığın siyasi tarihi, ticaret ağı, dikilitaşları ve çöküş nedenleri burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]
 Dönemin bütünü [200-650](/donem/05/) dosyasında ele alınıyor.

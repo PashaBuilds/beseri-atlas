@@ -58,14 +58,14 @@ onarim_turu: 0
 
 Kaynak onu yaklaşık 1056-1111 arasında yaşamış, Sünni İslam'ın en önde gelen ve
 etkili filozof, kelamcı, fakih ve mutasavvıflarından biri olarak kaydeder.[^k1]
-Bu dosya, öğretisini değil **kaynağın bir görüşü tespit edememesini** ele alır.
+Bu inceleme, öğretisini değil **kaynağın bir görüşü tespit edememesini** ele alır.
 
 ## Kaynak, görüşü tespit edemediğini yazar
 
 Kaynak, onun ilgili konumunun ne yazık ki hiçbir yerde açıkça açıklanmadığını ve
 ancak birbirinden kopuk ifadelerden derlenebileceğini yazar.[^k1]
 
-::tartismali[Bir düşünürün görüşü, birincil metinlerde açıkça yazılı değil; kaynak da bunu belirtiyor. Atlas burada bir görüş atfetmez ve tespit edilememiş olmasını kaydeder.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bir düşünürün görüşü, birincil metinlerde açıkça yazılı değil; kaynak da bunu belirtiyor. Korpus burada bir görüş atfetmez ve tespit edilememiş olmasını kaydeder.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu tür kayıt boşluklarının nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -77,7 +77,7 @@ Kaynak, *Tehâfüt*'ten sonra belirgin biçimde okazyonalist bir kozmoloji savun
 kitaplar yazdığını, *İhyâ*'nın otuz beşinci kitabı ile *Mişkâtü'l-envâr* gibi
 başka eserlerde ise açıkça nedenselci bir dil kullandığını yazar.[^k1]
 
-Aynı yazarın iki farklı yönde okunabilen metinler bırakmış olması,[^k1] atlasın
+Aynı yazarın iki farklı yönde okunabilen metinler bırakmış olması,[^k1] korpusun
 bir düşünüre tek bir tez atfetmemesinin nedenidir; hangi eserin okunduğuna göre
 sonuç değişmektedir.
 
@@ -87,7 +87,7 @@ Kaynak, ölümünden yalnızca birkaç gün önce tamamladığı son eserinde Ta
 yaratıklarının aracılığıyla yaratıp yaratmadığını tartıştığını ve meselenin kesin
 olarak çözülemeyeceğini savunduğunu yazar.[^k1]
 
-Bir düşünürün son eserinde bir soruyu açık bırakması,[^k1] atlasın hakemlik
+Bir düşünürün son eserinde bir soruyu açık bırakması,[^k1] korpusun hakemlik
 etmeme ilkesinin en eski örneklerinden biridir: kararsızlık da bir konumdur ve
 kaydedilir.
 
@@ -105,15 +105,14 @@ tartışmanın kişilerle değil metinlerle yürüdüğünü gösterir.
 Bağımsız bir ansiklopedinin madde listesi adı farklı bir imlayla tutar.[^k2]
 
 Aynı düşünürün adının iki ansiklopedide iki ayrı biçimde yazılması,[^k1][^k2]
-atlasın kimlik alanını neden ad değil kimlik dizgesi üzerinden kurduğunu gösterir.
+korpusun kimlik alanını neden ad değil kimlik dizgesi üzerinden kurduğunu gösterir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Hayatı, Nizâmiye'deki görevi, *Tehâfüt*'ün içeriği, tasavvufa yönelişi ve sonraki
 etkisi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
 bölümler olarak işler.[^k1]
 
 ## Eserine bağ
 
-Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Tehafutu l-felasife*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+Bu inceleme düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Tehafutu l-felasife*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
 verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

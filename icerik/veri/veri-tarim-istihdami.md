@@ -55,8 +55,8 @@ biter.[^k1]
 
 Veri kümesinde dünya toplamı için 1991'den önce gözlem bulunmaz.[^k1]
 
-Bir istihdam serisinin yalnızca son otuz beş yılı kapsaması,[^k1] atlasın şu
-kuralının dayanağıdır: bu dosyadan sanayileşme öncesi ya da sanayileşme
+Bir istihdam serisinin yalnızca son otuz beş yılı kapsaması,[^k1] korpusun şu
+kuralının dayanağıdır: bu incelemeden sanayileşme öncesi ya da sanayileşme
 dönemine dair bir istihdam payı okunamaz. Sıklıkla bağlanan dönüşüm
 [Sanayi Devrimi](/olay/sanayi-devrimi/) dosyasında ele alınıyor.[^k3]
 
@@ -65,7 +65,7 @@ dönemine dair bir istihdam payı okunamaz. Sıklıkla bağlanan dönüşüm
 Aynı sağlayıcının kentleşme serisinde dünya değeri 1950 için yüzde 28,7983,
 2025 için yüzde 57,8335'tir.[^k2]
 
-Tarımda istihdam payı düşerken kentsel nüfus payının artması,[^k1][^k2] atlasın
+Tarımda istihdam payı düşerken kentsel nüfus payının artması,[^k1][^k2] korpusun
 bu iki seriyi tek bir nedene bağlamasını gerektirmez; iki ölçü farklı şeyler
 ölçer ve kullanılan veri kümeleri bir neden bilgisi taşımaz. İlişkili dosya
 [Kentleşme oranı, 1950–2025](/veri/kentlesme-orani-1500-2023/) dosyasıdır.
@@ -75,10 +75,9 @@ bu iki seriyi tek bir nedene bağlamasını gerektirmez; iki ölçü farklı şe
 Serinin sütun adı istihdam payını tarım için verir; hangi işlerin tarım
 sayıldığı, ölçünün tanımına bağlıdır.[^k1]
 
-Atlasın kuralı şudur: bu seriden okunan değerler, hangi sınıflandırmanın
+Korpusun kuralı şudur: bu seriden okunan değerler, hangi sınıflandırmanın
 kullanıldığı belirtilmeden aktarılmaz.[^k1]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ülke ülke oranlar, kayıt dışı istihdam ve sektör tanımları burada ayrı başlıklar
-altında ele alınmamıştır; bu dosya yalnızca dünya toplamı serisini kaydeder.[^k1]
+altında ele alınmamıştır; bu inceleme yalnızca dünya toplamı serisini kaydeder.[^k1]

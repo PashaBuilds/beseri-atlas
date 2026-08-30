@@ -11,7 +11,8 @@ bolge: [kuresel, avrupa, dogu-asya]
 eksen: [askeri, siyasi]
 guven_geneli: yaygin
 etiketler: [asimetrik-savas, gerilla-savasi, halk-savasi, ayaklanma, uzun-savas, siyasi-dayanma]
-ilgili:
+ilgili: []
+baglam:
   - kavram-caydiricilik
   - kavram-topyekun-savas
   - kavram-surtunme

@@ -62,7 +62,7 @@ bir ülkenin kralıydı.
 Düzen, uluslararası bir konferansta tanındı.[^k3] Tanıyan devletler,
 alanın herhangi bir devletin sömürgesi olmamasında anlaştılar.
 
-Bu dosyanın konusu düzenin siyasi tarihi değildir.[^k2] Adının,
+Bu incelemenin konusu düzenin siyasi tarihi değildir.[^k2] Adının,
 kotasının ve kaydının nasıl işlediğidir.
 
 ## Adın kendisi
@@ -73,9 +73,8 @@ de fiilî durumu tarif etmez.
 Ad bir işlev görüyordu.[^k3] Alanı hiçbir Avrupa devletinin sömürgesi
 saymamak, rakip devletlerin itirazını baştan karşılıyordu.
 
-Atlas bu işlevi ayrıca kaydeder.[^k2] **Bir düzene verilen ad, hukuki
-konumunu değil, o konumun hangi itirazları karşılamak üzere seçildiğini
-gösterir.**
+**Bir düzene verilen ad, hukuki konumunu
+değil, o konumun hangi itirazları karşılamak üzere seçildiğini gösterir.**[^k2]
 
 ## Tanınmanın gerekçesi
 
@@ -85,9 +84,8 @@ Konferans metinlerinde bu koşul yazılıdır.
 Uygulamada koşul kısa sürede terk edildi.[^k3] Kauçuk ve fildişi
 üzerinde fiilî bir tekel kuruldu.
 
-Atlas bu farkı ayrıca kaydeder.[^k2] Bu, atlasın belge tartışmasında
-kurulan ölçütün bir örneğidir: bir metnin koşul koyması, koşulun
-denetlendiği anlamına gelmez.
+Bu, korpusun belge tartışmasında kurulan ölçütün bir
+örneğidir: bir metnin koşul koyması, koşulun denetlendiği anlamına gelmez.[^k2]
 
 ## Kota düzeni
 
@@ -97,9 +95,8 @@ yürütüldü.
 Kota köy başına belirlendi.[^k1] Karşılanmadığında yaptırım köyün
 tamamına uygulandı.
 
-Atlas bu yapıyı başka dosyalarda da kaydetmişti.[^k3] Topluluk başına
-sabit bir yükümlülük, nüfus azaldıkça kişi başına ağırlaşır ve
-kendini besleyen bir baskı üretir.
+Topluluk başına sabit bir yükümlülük,
+nüfus azaldıkça kişi başına ağırlaşır ve kendini besleyen bir baskı üretir.[^k3]
 
 ## Silahlı zor
 
@@ -114,8 +111,8 @@ raporlarda ayrıntılı biçimde kaydedilmiş bir uygulamaya yol açtı.
 
 ## Denetimin yan etkisi
 
-Atlas bu mekanizmayı ayrıca kaydeder.[^k3] Bir denetim kuralı,
-denetlemek istediğinden başka bir davranışı ödüllendirebilir.
+Bir denetim kuralı, denetlemek
+istediğinden başka bir davranışı ödüllendirebilir.[^k3]
 
 Amaç merminin boşa harcanmamasıydı.[^k1] Sonuç, ispat üretme
 zorunluluğu oldu.
@@ -132,20 +129,20 @@ dinledi ve raporunu hükümetine sundu.
 Rapor yayımlandı ve geniş yankı buldu.[^k1] Ardından bir kamuoyu
 kampanyası başladı.
 
-Atlas bu kaynak türünü ayrıca adlandırır.[^k3] Bir devletin başka bir
-devletin yönetimini soruşturması, kendi kendini soruşturmasından farklı
-bir kanıt üretir.
+Bir devletin başka bir
+devletin yönetimini soruşturması, kendi kendini soruşturmasından farklı bir kanıt
+üretir.[^k3]
 
 ## İki soruşturma türünün karşılaştırması
 
-Atlasın Bengal dosyasında bir yönetim kendi felaketini
-soruşturmuştu.[^k2] Burada bir devlet başka bir devleti soruşturuyor.
+Burada bir devlet başka bir devleti
+soruşturuyor.[^k2]
 
 İkisinin zayıflıkları farklıdır.[^k1] Birincisi kendi kararlarını
 sorgulamakta isteksizdir; ikincisinin ise kendi çıkarı olabilir.
 
-Atlas iki türü de çerçevesiyle kullanır.[^k3] Soruşturanın konumu,
-raporun hangi sorularının sorulmadığını belirler.
+Soruşturanın konumu, raporun hangi
+sorularının sorulmadığını belirler.[^k3]
 
 ## Raporu hazırlayanın konumu
 
@@ -155,9 +152,8 @@ uygulamalar yürütüyordu.[^k1] Bu, raporu geçersiz kılmaz.
 Ancak seçiciliği açıklar.[^k2] Neden bu bölgenin soruşturulduğu ve
 kendi bölgelerinin soruşturulmadığı ayrıca sorulmalıdır.
 
-Atlas bu soruyu Las Casas dosyasındaki ölçüme bağlar.[^k3] Bir
-eleştirinin kimin elinde dolaştığı, doğruluğunu değiştirmez ama neye
-hizmet ettiğini belirler.
+Bir eleştirinin kimin elinde dolaştığı,
+doğruluğunu değiştirmez ama neye hizmet ettiğini belirler.[^k3]
 
 ## Kauçuğun neden bu dönemde
 
@@ -168,9 +164,8 @@ Talep, uzak bir bölgenin ormanını dünya pazarına bağladı.[^k3] Bölgenin
 kendi ihtiyacıyla hiçbir ilgisi olmayan bir ürün, tek gelir kalemi
 hâline geldi.
 
-Atlas bu bağı ayrıca kaydeder.[^k2] Bir bölgenin neyi ürettiği, o
-bölgenin ihtiyacından değil uzak bir sanayinin girdisinden
-belirlenebilir.
+Bir bölgenin neyi ürettiği, o bölgenin
+ihtiyacından değil uzak bir sanayinin girdisinden belirlenebilir.[^k2]
 
 ## Toplanan ile ekilen arasındaki fark
 
@@ -180,9 +175,8 @@ plantasyondan ayırır.
 Toplama, üretimi artırmak için yatırım gerektirmez.[^k3] Yalnızca daha
 çok kişinin daha uzun süre ormanda kalmasını gerektirir.
 
-Atlas bu farkı ölçüm sayar.[^k2] Yatırım gerektirmeyen bir çıkarma
-düzeninde, üretimi artırmanın tek yolu emeği artırmaktır ve bu doğrudan
-zorlamaya çevrilir.
+Yatırım gerektirmeyen bir çıkarma düzeninde, üretimi
+artırmanın tek yolu emeği artırmaktır ve bu doğrudan zorlamaya çevrilir.[^k2]
 
 ## Gıda üretimine etkisi
 
@@ -192,9 +186,8 @@ gıda üretimi düştü.
 Bu, açlığı doğrudan üretti.[^k3] Ölümlerin bir bölümü şiddetten değil
 bu ikinci mekanizmadan geldi.
 
-Atlas iki mekanizmayı ayrı ayrı sayar.[^k2] Aynı düzenin doğrudan ve
-dolaylı sonuçları, aynı hanede toplanmadan önce ayrı ayrı
-gösterilmelidir.
+Aynı düzenin doğrudan ve dolaylı
+sonuçları, aynı hanede toplanmadan önce ayrı ayrı gösterilmelidir.[^k2]
 
 ## Şirketlerin rolü
 
@@ -204,9 +197,8 @@ kendi bölgelerinde vergi toplama ve zor kullanma yetkisi aldı.
 Bu, yetkinin bölünmesi anlamına gelir.[^k3] Devlet ile şirket
 arasındaki ayrım fiilen ortadan kalktı.
 
-Atlas bu yapıyı ayrıca kaydeder.[^k2] Zor kullanma yetkisi bir
-şirkete devredildiğinde, sorumluluğun kime ait olduğu da
-belirsizleşir.
+Zor kullanma yetkisi bir şirkete
+devredildiğinde, sorumluluğun kime ait olduğu da belirsizleşir.[^k2]
 
 ## Kâr ve pay
 
@@ -216,8 +208,8 @@ denetleyen ile denetlenen aynı çıkarı paylaşıyordu.
 Bu yapı, şikâyetlerin yerinde incelenmesini engelledi.[^k3] Başvuru
 yolu, şikâyet edilen tarafa çıkıyordu.
 
-Atlas bu kilidi ayrıca kaydeder.[^k2] Bir denetim düzeninde
-denetleyenin denetlenenden kazancı varsa, denetim biçimsel kalır.
+Bir denetim düzeninde denetleyenin
+denetlenenden kazancı varsa, denetim biçimsel kalır.[^k2]
 
 ## Kampanyanın işleyişi
 
@@ -228,8 +220,8 @@ sunuldu.
 Fotoğraf bu kampanyada ilk kez bu ölçekte kullanıldı.[^k3] Görsel
 kanıt, yazılı raporun ulaşamadığı bir kitleye ulaştı.
 
-Atlas bu değişimi ayrıca kaydeder.[^k2] Bir kanıt türünün dolaşıma
-girmesi, kanıtın kendisinden bağımsız olarak siyasi etki üretebilir.
+Bir kanıt türünün dolaşıma girmesi, kanıtın
+kendisinden bağımsız olarak siyasi etki üretebilir.[^k2]
 
 ## Karşı kampanya
 
@@ -239,8 +231,8 @@ karşı raporlar ve yönlendirilmiş geziler kullanıldı.
 İki kampanya aynı araçları kullandı.[^k3] Aradaki fark araçlarda
 değil, dayandıkları kayıtlardaydı.
 
-Atlas bu simetriyi ayrıca kaydeder.[^k2] İki tarafın da kampanya
-yürütmesi, iddialarının eşit değerde olduğunu göstermez.
+İki tarafın da kampanya yürütmesi,
+iddialarının eşit değerde olduğunu göstermez.[^k2]
 
 ## Nüfus tartışması
 
@@ -251,8 +243,8 @@ Farkın iki kaynağı vardır.[^k3] Başlangıç nüfusu bilinmiyor ve
 ölümlerin ne kadarının doğrudan şiddete, ne kadarının hastalık ve
 açlığa bağlanacağı tartışmalı.
 
-Atlas bu yüzden tek bir sayı vermez.[^k2] Bir oranın paydası
-bilinmiyorsa, oranın kendisi de bilinmiyordur.
+Bir oranın paydası bilinmiyorsa,
+oranın kendisi de bilinmiyordur.[^k2]
 
 ## Devir
 
@@ -262,8 +254,8 @@ Bir devletin resmî sömürgesi hâline getirildi.
 Devir, çıkarma düzenini sona erdirmedi.[^k3] Zorunlu çalışma biçimleri
 değişerek sürdü.
 
-Atlas bu sürekliliği ayrıca kaydeder.[^k2] Bir yönetimin el
-değiştirmesi, ekonomik yapının el değiştirmesi anlamına gelmez.
+Bir yönetimin el değiştirmesi, ekonomik
+yapının el değiştirmesi anlamına gelmez.[^k2]
 
 ## Kişisel mülk olmanın sonucu
 
@@ -274,9 +266,8 @@ Kral, kendi ülkesinin hükümetine bu alan hakkında hesap vermek zorunda
 değildi.[^k3] Denetimin yokluğu bir kusur değil, düzenin
 tanımıydı.
 
-Atlas bu noktayı ölçüm sayar.[^k2] Bir yönetimin hesap verdiği makam
-yoksa, uygulamalarının sınırını yalnızca dışarıdan gelen baskı
-belirler.
+Bir yönetimin hesap verdiği makam
+yoksa, uygulamalarının sınırını yalnızca dışarıdan gelen baskı belirler.[^k2]
 
 ## Ulaşımın belirlediği sınır
 
@@ -286,8 +277,8 @@ bölgelerde denetim zayıf kaldı.
 Bu, kotanın da eşitsiz uygulanmasına yol açtı.[^k3] Ulaşılabilir
 köyler orantısız yük taşıdı.
 
-Atlas bu dağılımı ayrıca kaydeder.[^k2] Bir baskının şiddeti, kararın
-sertliği kadar ulaşım imkânının dağılımıyla da belirlenir.
+Bir baskının şiddeti, kararın sertliği
+kadar ulaşım imkânının dağılımıyla da belirlenir.[^k2]
 
 ## Belgelerin akıbeti
 
@@ -297,9 +288,8 @@ araştırmaların kaynak tabanını doğrudan daralttı.
 Kalan kayıtların önemli bölümü şirket ve idare kayıtlarıdır.[^k3] Üretim
 miktarları ve sevkiyat kayıtları korunmuştur.
 
-Atlas bu dengesizliği ayrıca kaydeder.[^k2] Ne tutulduğu kadar ne yok
-edildiği de bir veridir; yok edilen kayıt türü, neyin gizlenmek
-istendiğini gösterir.
+Ne tutulduğu kadar ne yok edildiği de bir
+veridir; yok edilen kayıt türü, neyin gizlenmek istendiğini gösterir.[^k2]
 
 ## Yerel kayıt
 
@@ -309,23 +299,21 @@ sınırlıdır.[^k1] Aktarım büyük ölçüde sözlüdür.
 Sonraki dönemde derlenen tanıklıklar bulunmaktadır.[^k3] Bunlar, olayla
 kayıt arasında uzun bir süre bulunduğu için ayrıca değerlendirilir.
 
-Atlas bu boşluğu açıkça beyan eder.[^k2] Bölge hakkındaki yazılı
-kaydın neredeyse tamamı, olayı yürüten ve olayı soruşturan
-taraflardan gelir.
+Bölge hakkındaki yazılı kaydın neredeyse
+tamamı, olayı yürüten ve olayı soruşturan taraflardan gelir.[^k2]
 
 ## Sonraki dönemin adlandırması
 
 Bu dönemin nasıl adlandırılacağı bugün de tartışmalıdır.[^k1] Kullanılan
 terimler, olayın hangi çerçeveye yerleştirildiğini gösterir.
 
-Atlas terim tercihini karara bağlamaz.[^k3] Tartışmanın hangi noktada
-ayrıldığını kaydeder: sayı, kasıt ve karşılaştırma ölçütü.
+Tartışmanın hangi noktada ayrıldığını
+kaydeder: sayı, kasıt ve karşılaştırma ölçütü.[^k3]
 
 Üç nokta ayrı ayrı sorulmalıdır.[^k2] Bir terimi kabul veya reddetmek,
 üç sorunun da aynı anda cevaplanmasını gerektirir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, bölgedeki toplulukların kendi tarihlerini vermez.[^k1] Bölgede
 yaşayan çok sayıda topluluğun her biri ayrı bir dosyanın konusudur.
 
@@ -336,8 +324,7 @@ Yerel dilden birincil bir kayıt künyelenememiştir.[^k2] Künyedeki
 birincil belge yabancı bir konsolosun raporudur ve bu kısıt burada
 beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Alanın paylaşıldığı konferans için
 [Berlin Konferansı](/olay/berlin-konferansi/) dosyası okunmalıdır.[^k1]
 

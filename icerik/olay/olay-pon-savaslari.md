@@ -52,7 +52,7 @@ onarim_turu: 0
 Pön Savaşları, Roma Cumhuriyeti ile Kartaca İmparatorluğu arasında MÖ 264–146
 arasında yürütülen savaşlardır; üç savaş yaşanmış, kara ve denizde toplam kırk üç
 yıllık çarpışma ve Kartaca'ya karşı dört yıl süren bir isyan meydana
-gelmiştir.[^k1] Bu dosya, sürenin kendisini bir bulgu olarak ele alır.
+gelmiştir.[^k1] Bu inceleme, sürenin kendisini bir bulgu olarak ele alır.
 
 ## Yüz on sekiz yıl, kırk üç yıl çarpışma
 
@@ -86,7 +86,7 @@ Savaşları yürüten şey imparatorluk değil cumhuriyettir. Roma Cumhuriyeti M
 MÖ 27 arasına yerleştirilir[^k3] ve dönemin anayasal düzeni senato, yasama
 meclisleri ve magistralıklar üzerine kuruludur.[^k2]
 
-Bu, atlas için bir uyarı noktasıdır: Akdeniz'i fetheden düzen ile onu yöneten
+Bu, korpus için bir uyarı noktasıdır: Akdeniz'i fetheden düzen ile onu yöneten
 düzen aynı değildir. Roma Cumhuriyeti bu toprakların büyük bölümünü daha önce
 fethetmişti; topraklar ancak MÖ 27'de Augustus Principatus'unun kurulmasının
 ardından kalıcı tek kişi yönetimi altına girdi.[^k3] Sonraki düzen
@@ -98,8 +98,7 @@ ardından kalıcı tek kişi yönetimi altına girdi.[^k3] Sonraki düzen
 200 için yaklaşık 240,8 milyon olarak verilir.[^k4] Savaşların taraflarına dair
 nüfus ölçümü kullanılan kaynaklarda bulunmadığı için burada oran verilmemiştir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kaynak, dizinin üç savaş ve dört yıllık bir isyandan oluştuğunu kaydeder;[^k1] bu
 dosya yalnızca dizinin çerçevesini ele alır. Kara seferlerinin güzergâhı, deniz
 muharebelerinin teknik seyri ve karşı tarafın iç siyasi tarihi burada ayrı

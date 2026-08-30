@@ -53,7 +53,7 @@ onarim_turu: 0
 ## Nerede durduğu
 
 Pagan Krallığı, Güneydoğu Asya'nın batı ucunda, büyük bir nehrin orta
-havzasında kurulmuş siyasi birimdir.[^k1][^k3] Atlasın bölge şemasında Doğu
+havzasında kurulmuş siyasi birimdir.[^k1][^k3] Korpusun bölge şemasında Doğu
 Asya ile Güney Asya'nın kesiştiği yerde durur.
 
 Krallığın kurulduğu ova, sulama yoluyla yüksek tarım verimi
@@ -61,7 +61,7 @@ sağlayabilen bir alandır.[^k3] Bu, bölgedeki liman devletlerinden farklı bir
 gelir temeli anlamına gelir.
 
 Dosyanın ayırt edici yanı, bir devletin dinî bağış düzeninin maliyesini
-nasıl aşındırdığını ölçülebilir biçimde göstermesidir.[^k1][^k3] Atlasta bu
+nasıl aşındırdığını ölçülebilir biçimde göstermesidir.[^k1][^k3] Korpusta bu
 mekanizmanın başka bir örneği bulunmaz.
 
 ## Sulamanın kurduğu temel
@@ -74,7 +74,7 @@ Sulama düzeni sürekli bakım ister ve bakım merkezî bir örgütlenme
 gerektirir.[^k1] Kanalların temizlenmesi, suyun paylaştırılması ve
 anlaşmazlıkların çözülmesi bir yönetim işidir.
 
-Bu bağ atlasın başka bölgelerinde de görülür. Su düzenine dayanan
+Bu bağ korpusun başka bölgelerinde de görülür. Su düzenine dayanan
 tarım, merkezî yönetimi zorunlu kılar; merkezî yönetim de varlığını o su
 düzeninin sürmesine bağlar.[^k3]
 
@@ -88,7 +88,7 @@ gerektirir.[^k3] Yapıların kendisi, krallığın maliyesinin bir dönem ne kad
 güçlü olduğunun doğrudan kanıtıdır.
 
 Aynı yapılar, aşağıda anlatılan çöküş mekanizmasının da kanıtıdır.[^k1]
-Atlasın [Arkeolojik kanıt](/kavram/arkeolojik-kanit/) dosyası, yapı
+Korpusun [Arkeolojik kanıt](/kavram/arkeolojik-kanit/) dosyası, yapı
 kalıntılarının yazılı kayıttan bağımsız bir kanıt türü olduğunu tanımlar.
 
 ## Bağışın maliyeyi aşındırması
@@ -101,7 +101,7 @@ küçültür; bağış geri alınamadığı için küçülme geri döndürüleme
 İki yüzyıl boyunca süren bir bağış akışı, tabanın önemli bir bölümünü
 yönetimin erişimi dışına çıkarır.
 
-Bu, atlasın kaydettiği en açık kendi kendini zayıflatan yönetim
+Bu en açık kendi kendini zayıflatan yönetim
 biçimlerinden biridir.[^k3] Yönetim, meşruiyetini artıran her hamlede
 maliyesini zayıflatmış olur.
 
@@ -115,7 +115,7 @@ ne kadar çok yapı yaptırdığı, ne kadar iyi bir hükümdar sayıldığını
 zayıflatan davranışla aynıydı; hükümdarın ikisini birden gözetme
 imkânı sınırlıydı.[^k3]
 
-Atlasın [Meşruiyet](/kavram/mesruiyet/) dosyası bu kavramı genel biçimiyle
+Korpusun [Meşruiyet](/kavram/mesruiyet/) dosyası bu kavramı genel biçimiyle
 ele alır. Burada somut hâli, meşruiyet üretmenin bedava olmadığı ve bedelinin
 ölçülebildiğidir.[^k1]
 
@@ -127,16 +127,16 @@ aynı yıllara düşer.
 
 ::tartismali[Çöküşün asıl sebebinin dışarıdan gelen askerî baskı mı yoksa
 bağış düzeninin maliyeyi yıllar içinde aşındırması mı olduğu tartışmalıdır;
-iki açıklama birbirini dışlamaz ama ağırlıkları farklı verilir. Atlas bir
+iki açıklama birbirini dışlamaz ama ağırlıkları farklı verilir. Korpus bir
 sıralama yapmaz.]{harita=tartisma-iklim-ve-cokus}
 
-Atlas iki açıklamayı da kaydeder ve birleştirmeye çalışmaz.[^k3] Zayıflamış
-bir maliyenin dış baskıya dayanamaması ile dış baskının kendi başına yeterli
-olması ayrı iddialardır ve ayrı kanıtlar gerektirir.
+Zayıflamış bir maliyenin dış baskıya
+dayanamaması ile dış baskının kendi başına yeterli olması ayrı iddialardır ve ayrı
+kanıtlar gerektirir.[^k3]
 
 ## Saray anlatısının durumu
 
-Bu dosyanın birincil kaynağı, krallığın saray anlatısıdır.[^k2] Metin
+Bu incelemenin birincil kaynağı, krallığın saray anlatısıdır.[^k2] Metin
 hanedanların sırasını, hükümdarların yaptırdığı yapıları ve kuruluş
 anlatılarını verir.
 
@@ -144,20 +144,19 @@ Metnin derlenme tarihi, anlattığı dönemden yüzyıllar sonradır.[^k2] Bu, o
 bir çağdaş kayıt değil, sonraki bir yönetimin geçmişi nasıl kaydettiğinin
 belgesi yapar.
 
-Atlas metni bu çerçevede kullanır.[^k1][^k2] Anlattığı olayların doğruluğu
-için değil, bir hanedanın kendinden öncekileri nasıl sıraladığı için
-okunmalıdır.
+Anlattığı olayların doğruluğu için değil, bir
+hanedanın kendinden öncekileri nasıl sıraladığı için okunmalıdır.[^k1][^k2]
 
 ## Kuruluş anlatısının işlevi
 
 Saray anlatısı, hanedanın kökenini dinî bir çerçeveye ve uzak bir soya
-bağlar.[^k2] Bu, atlasın başka bölgelerinde de karşılaşılan bir kuruluş
+bağlar.[^k2] Bu, korpusun başka bölgelerinde de karşılaşılan bir kuruluş
 tekniğidir.
 
 Anlatının işlevi geçmişi açıklamak değil, bugünkü hükümranlığı
 gerekçelendirmektir.[^k2] Bir soy iddiası ileriye dönük çalışır.
 
-Aynı teknik atlasın Güneydoğu Asya, Batı Afrika ve Amerika dosyalarında
+Aynı teknik korpusun Güneydoğu Asya, Batı Afrika ve Amerika dosyalarında
 görülür.[^k3] Birbirinden habersiz bölgelerin aynı aracı kullanması,
 karşılaştırmalı okumaya açtığı yerlerden biridir.
 
@@ -167,7 +166,7 @@ Krallığın çevre bölgelerle ilişkisi doğrudan yönetim değil, katmanlı
 bağlılıktı.[^k1][^k3] Çevredeki birimler kendi yöneticilerini korudu ve
 bağlılıklarını düzenli olarak yeniledi.
 
-Bu, atlasın [Mandala devleti](/kavram/mandala-devleti/) dosyasında tanımlanan
+Bu, [Mandala devleti](/kavram/mandala-devleti/) incelemesinde tanımlanan
 yapının bir örneğidir: egemenlik bir sınırla değil, merkezden uzaklaştıkça
 zayıflayan bir etki alanıyla ölçülür.[^k3]
 
@@ -185,9 +184,8 @@ Taş kayıtların değeri, saray anlatısıyla karşılaştırılabilir
 olmalarıdır.[^k2][^k3] İki kaynak aynı olayı farklı anlatıyorsa, farkın
 kendisi bir bilgidir.
 
-Atlas bu karşılaştırmayı bu dosyada yapmaz ve borç olarak
-bırakır.[^k1] Taş kayıtların doğrulanabilir ve tam metin bir derlemesi bu
-dosya yazıldığında bulunamamıştır.
+Taş kayıtların doğrulanabilir ve tam metin
+bir derlemesi bu inceleme yazıldığında bulunamamıştır.[^k1]
 
 ## Komşularla ilişki
 
@@ -199,9 +197,8 @@ Benzerlik tesadüf değildir ama doğrudan bir alışverişin kanıtı da
 sayılmaz.[^k3] Aynı coğrafi koşullar ve aynı dinî çerçeve, benzer siyasi
 biçimler üretmiş olabilir.
 
-Atlas iki düzeni ayrı dosyalarda tutar ve karşılaştırmayı okura
-bırakır.[^k1] [Khmer İmparatorluğu](/aktor/khmer-imparatorlugu/) dosyası
-birlikte okunmalıdır.
+[Khmer
+İmparatorluğu](/aktor/khmer-imparatorlugu/) dosyası birlikte okunmalıdır.[^k1]
 
 ## Ölçek sorunu
 
@@ -210,42 +207,40 @@ derlemelerden gelir.[^k2][^k3] Bağımsız bir sayım kaydı elde
 bulunmamaktadır.
 
 Yapı sayısı ise farklı bir durumdadır. Ayakta kalan yapılar sayılabilir ve
-bu sayı, kayıt değil ölçümdür;[^k3] atlasın bu dosyada güvendiği tek
+bu sayı, kayıt değil ölçümdür;[^k3] korpusun bu incelemede güvendiği tek
 niceliksel bilgi budur.
 
 Yapı sayısından nüfusa geçmek ise bir varsayım zinciri gerektirir.[^k1]
-Atlas bu geçişi yapmaz ve bir nüfus tahmini vermez.
+Korpus bu geçişi yapmaz ve bir nüfus tahmini vermez.
 
 ## Bölgenin sonraki tarihiyle ilişki
 
 Krallığın dağılmasından sonra bölgede küçük siyasi birimler
 oluştu.[^k1][^k3] Merkezî düzenin yeniden kurulması yüzyıllar aldı.
 
-Bu ara dönem, atlasın kaydettiği genel bir gözlemi doğrular.[^k3] Sulama
+Bu ara dönem, incelenen genel bir gözlemi doğrular.[^k3] Sulama
 düzenine dayanan bir merkezin dağılması, tarımsal kapasitenin de gerilemesine
 yol açar; bakımsız kalan kanal düzeni hızla işlevini yitirir.
 
-Atlas bu bağı bir yasa olarak ileri sürmez.[^k1] Bakım gerektiren altyapının
-siyasi düzenle birlikte çökmesi, ayrı kanıtlarla gösterilmesi gereken bir
-iddiadır.
+Bakım gerektiren altyapının siyasi
+düzenle birlikte çökmesi, ayrı kanıtlarla gösterilmesi gereken bir iddiadır.[^k1]
 
-## Atlastaki yeri
-
-Bu dosya, atlasın Güneydoğu Asya aktör katmanındaki beşinci dosyadır ve
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun Güneydoğu Asya aktör katmanındaki beşinci dosyadır ve
 bölgenin batı ucunu ilk kez ele alır.[^k1][^k3] Önceki dosyalar ada, boğaz
 ve nehir ovası düzenlerini anlatıyordu.
 
 Dosyanın seçilme gerekçesi kapsamdan çok mekanizmadır.[^k3] Dinî bağışın
-maliyeyi aşındırması, atlasın başka hiçbir dosyasında bu kadar açık
+maliyeyi aşındırması, korpusun başka hiçbir dosyasında bu kadar açık
 ölçülemez.
 
 Bu mekanizma başka bölgelerde de vardır ve orada başka biçimler alır.[^k1]
-Bir mekanizmanın en açık göründüğü örnekten okunması, atlasın kavram
+Bir mekanizmanın en açık göründüğü örnekten okunması, korpusun kavram
 dosyalarının kurulma yöntemidir.
 
 ## Kaynak durumu
 
-Bu dosya üç kaynağa dayanır ve biri birincildir.[^k2] Birincil kaynak
+Bu inceleme üç kaynağa dayanır ve biri birincildir.[^k2] Birincil kaynak
 krallığın kendi saray anlatısıdır ama sonraki bir hanedanın derlemesidir.
 
 Bu ayrım künyede gizlenmez.[^k2] Bir metnin bir devletin kendi anlatısı
@@ -257,24 +252,23 @@ bulunamamıştır ve bu, dosyanın en önemli kısıtıdır.[^k3] Okur, buradaki
 siyasi bilgilerin bağımsız bir çağdaş kayıtla doğrulanmadığını bilerek
 okumalıdır.
 
-## Bu dosyanın kapsamadıkları
-
+## Açıkta kalan sorular
 Krallığın hükümdar listesi, taht kavgaları ve hanedan tarihi burada
-verilmez.[^k2] Atlasın aktör dosyaları bir düzenin nasıl işlediğini anlatır.
+verilmez.[^k2] Korpusun aktör dosyaları bir düzenin nasıl işlediğini anlatır.
 
 Yapıların mimari özellikleri, üslup evreleri ve resim programları da kapsam
 dışıdır.[^k3] Bu malzeme ayrı bir dosya gerektirir.
 
-Bölgedeki dinî geleneğin kendi tarihi burada işlenmez.[^k1] Bu dosya bir
+Bölgedeki dinî geleneğin kendi tarihi burada işlenmez.[^k1] Bu inceleme bir
 siyasi düzeni konu edinir; bir inanç geleneğini değil.
 
 ## Bağış kaydının kanıt değeri
 
-Bağışların taşa yazılmış olması, bu dosyanın merkezindeki mekanizmayı
+Bağışların taşa yazılmış olması, bu incelemenin merkezindeki mekanizmayı
 ölçülebilir kılar.[^k3] Bir bağışın tarihi, büyüklüğü ve bağışlayanı
 kayıtlıysa, vergi tabanının nasıl daraldığı yıl yıl izlenebilir.
 
-Bu, atlasın nadiren sahip olduğu türden bir kanıttır.[^k1] Çoğu dönem ve
+Bu, korpusun nadiren sahip olduğu türden bir kanıttır.[^k1] Çoğu dönem ve
 bölgede maliye tartışmaları dolaylı göstergelerle yürütülür; burada kaydın
 kendisi doğrudandır.
 
@@ -282,10 +276,9 @@ Kaydın taraflılığı da vardır ve yönü bellidir. Taşa yazılan bir bağı
 övünme kaydıdır;[^k2] yapılmayan bağışlar ya da geri alınan topraklar aynı
 titizlikle yazılmaz. Bu yüzden kayıtlardan çıkarılan eğilim, bağışın
 yönünü doğru verir ama büyüklüğünü olduğundan fazla gösterebilir.[^k3]
-Atlas eğilimi kaydeder, oranı değil.
+Korpus eğilimi kaydeder, oranı değil.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı yüzyıllarda doğudaki benzer düzen için
 [Khmer İmparatorluğu](/aktor/khmer-imparatorlugu/), bölgedeki egemenlik biçimi
 için [Mandala devleti](/kavram/mandala-devleti/) dosyaları okunmalıdır.

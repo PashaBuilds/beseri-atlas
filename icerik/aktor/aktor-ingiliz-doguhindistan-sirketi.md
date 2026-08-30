@@ -18,10 +18,11 @@ ilgili:
   - olay-hindistan-bolunmesi
   - aktor-britanya-imparatorlugu
   - aktor-hollanda-doguhindistan-sirketi
-  - olay-atlantik-kole-ticareti
   - kavram-silahli-ticaret
   - olay-plassey-1757
   - aktor-marathalar
+baglam:
+  - olay-atlantik-kole-ticareti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -49,7 +50,7 @@ onarim_turu: 0
 ---
 
 Şirketin kuruluşu bir sermaye toplantısıyla tarihlenir: girişimciler 31 Aralık
-1600'de yeniden toplandılar.[^k1] Bu dosya, bir ticaret ortaklığının **nasıl bir
+1600'de yeniden toplandılar.[^k1] Bu inceleme, bir ticaret ortaklığının **nasıl bir
 yönetim aygıtına dönüştüğünü** ele alır.
 
 ## Sermaye ve getiri
@@ -115,9 +116,8 @@ Uzun dönemli seride dünya nüfusu 1600'de yaklaşık 516,1 milyon, 1848'de yak
 1,27 milyardır.[^k3] Şirketin yönettiği nüfusa dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
-Kaynak Çin ile ilişkileri ayrı bir başlık altında ele alır;[^k1] bu dosya o
+## Kanıtın ve kapsamın sınırı
+Kaynak Çin ile ilişkileri ayrı bir başlık altında ele alır;[^k1] bu inceleme o
 başlığı kapsamaz. Şirketin idari yapısı, ordusu, yerel vergi düzeni ve
 tasfiyesinin hukuki süreci de burada işlenmemiştir.
 Dönemin bütünü [1650–1789](/donem/10/) dosyasında ele alınıyor.

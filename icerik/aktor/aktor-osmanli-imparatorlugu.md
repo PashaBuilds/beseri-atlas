@@ -67,7 +67,7 @@ denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-Altı yüzyılı tek bir anlatıya sığdırmak mümkün değildir; bu dosya devleti
+Altı yüzyılı tek bir anlatıya sığdırmak mümkün değildir; bu inceleme devleti
 olaylar dizisi olarak değil, **kurumsal bir mimari** olarak ele alır. Sorulan
 soru şudur: bu devlet toprağı, askeri, vergiyi ve hukuku hangi düzeneklerle
 birbirine bağladı ve bu düzenekler ne zaman çalışmaz hâle geldi?
@@ -177,5 +177,5 @@ tartışması bölümü taşır.[^k4]
 Şemanın kendisinin bir yorum olduğu, aynı maddenin Osmanlı devleti üzerine ayrı
 bir tarih yazımı tartışması bölümü taşımasından da anlaşılır.[^k4] Bir devletin
 yüzyıllarını "duraklama" ya da "gerileme" olarak adlandırmak, karşılaştırma
-ölçütünün ne olduğuna bağlıdır. Bu dosya bu yüzden dönemlendirmeyi bir veri gibi
+ölçütünün ne olduğuna bağlıdır. Bu inceleme bu yüzden dönemlendirmeyi bir veri gibi
 değil, bir tercih gibi sunar.

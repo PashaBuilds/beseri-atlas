@@ -79,8 +79,8 @@ bilgi bilimi ile etik.[^k1]
 
 ## Etik de bir katkı alanıdır
 
-Bir doğrulama yönteminin katkı alanları arasında etiğin sayılması,[^k1] atlasın şu
-kuralının dayanağıdır: bu atlasta kaynak doğrulama, yalnızca teknik bir işlem
+Bir doğrulama yönteminin katkı alanları arasında etiğin sayılması,[^k1] korpusun şu
+kuralının dayanağıdır: bu korpusta kaynak doğrulama, yalnızca teknik bir işlem
 olarak değil bir sorumluluk olarak anılır.
 
 ## Genellik düzeyleri ayrı bir bölümdür
@@ -96,7 +96,7 @@ kaynak türüne aynı biçimde uygulanamayacağını gösterir.
 Kaynak, belirli alanlarda başlığı altında fotoğraflar, internet kaynakları ile
 arkeoloji gibi alt başlıklar tutar.[^k1]
 
-İnternet kaynaklarının ayrı bir alt başlık taşıması,[^k1] atlasın kaynak alanında
+İnternet kaynaklarının ayrı bir alt başlık taşıması,[^k1] korpusun kaynak alanında
 neden erişim tarihi tuttuğunun dayanağıdır: bir internet kaynağı zamanla değişir.
 
 ## En eski kayıtlı örnek
@@ -118,8 +118,7 @@ babası sayılması,[^k2][^k3] kaynak eleştirisinin neden tek bir kaynağa
 bakılarak yapılamayacağını gösterir. Sahtecilik saptama araçlarından biri
 [Anakronizm](/kavram/anakronizm/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 İlkelerin ayrıntısı, alan alan uygulamalar ve yöntem tartışmaları burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

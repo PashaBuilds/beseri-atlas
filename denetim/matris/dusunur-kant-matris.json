@@ -1,7 +1,7 @@
 {
   "id": "dusunur-kant",
-  "govde_hash": "836ee3c2e775",
-  "commit": "d9e0ff7",
+  "govde_hash": "b4d9601e1591",
+  "commit": "4373ec95",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -695,5 +695,13 @@
     "kismi": 4,
     "desteksiz": 0,
     "olculemez": 0
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "836ee3c2e775",
+      "yeni_hash": "b4d9601e1591",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    }
+  ]
 }

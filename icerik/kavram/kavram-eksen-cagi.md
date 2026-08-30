@@ -17,6 +17,7 @@ ilgili:
   - dusunur-platon
   - donem-04
   - tartisma-eksen-cagi-gercek-mi
+baglam:
   - kavram-donemlendirme
   - kavram-anakronizm
 okuma_onerisi: []

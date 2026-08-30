@@ -62,9 +62,8 @@ Boğazın denetimi bir başka güce geçtiğinde, buradaki liman boğaza girmede
 okyanusa açılan alternatif bir güzergâhın başlangıcı hâline gelir.[^k1] Konum,
 ancak rakip bir denetim kurulduğunda değer kazanır.
 
-Atlasın [Malaka Sultanlığı](/aktor/malaka-sultanligi/) dosyası boğazın
-kendisini anlatır.[^k2] İki dosya birlikte okunduğunda, bir geçidin
-kapanmasının ticareti durdurmadığı, yalnızca yön değiştirdiği görünür.
+İki dosya birlikte okunduğunda, bir
+geçidin kapanmasının ticareti durdurmadığı, yalnızca yön değiştirdiği görünür.[^k2]
 
 ## Ablukayı aşmak
 
@@ -72,7 +71,7 @@ Boğazın Avrupa donanmalarınca denetim altına alınması, bölgedeki ticareti
 sona ermesi anlamına gelmedi.[^k1][^k2] Tüccarlar boğazı kullanmayan bir
 güzergâha yöneldi ve bu sultanlık o güzergâhın kuzey kapısı oldu.
 
-Bu, atlasın kaydettiği en açık abluka aşma örneğidir.[^k1] Bir geçidi
+Bu en açık abluka aşma örneğidir.[^k1] Bir geçidi
 kapatmak, ancak alternatif geçit yoksa ticareti durdurur; adalar arasında
 birden çok geçit bulunduğu için kapatma tam olamadı.
 
@@ -82,14 +81,14 @@ korundu; değişen şey, gelirin hangi limana gittiğiydi.
 ## Biberin siyasi anlamı
 
 Sultanlığın ekonomik temeli, kendi topraklarında yetişen bir baharatın
-üretimi ve ihracıydı.[^k1][^k2] Bu, atlasın öteki liman devletlerinden
+üretimi ve ihracıydı.[^k1][^k2] Bu, korpusun öteki liman devletlerinden
 farklıdır: burada devlet aracı değil üreticidir.
 
 Üretici olmanın avantajı açıktır. Aracı, malın akışını denetler ama akış yön
 değiştirdiğinde elinde bir şey kalmaz;[^k1] üretici, malın kendisine
 sahiptir ve alıcı kim olursa olsun satabilir.
 
-Bu fark, sultanlığın uzun ömrünü açıklamanın bir parçasıdır.[^k2] Atlasın
+Bu fark, sultanlığın uzun ömrünü açıklamanın bir parçasıdır.[^k2] Korpusun
 kaydettiği aracı liman devletlerinin çoğu bir ya da iki yüzyıl sürerken bu
 sultanlık dört yüzyıl varlığını korumuştur.
 
@@ -99,12 +98,12 @@ Sultanlık, kendisinden çok uzaktaki büyük bir devletten askerî destek
 istedi ve aldı.[^k1] Top ve topçu desteği, bölgedeki güç dengesini doğrudan
 etkiledi.
 
-Bu ilişki, atlasın kaydettiği en uzun mesafeli askerî iş birliklerinden
+Bu ilişki, incelenen örnekler arasındaki en uzun mesafeli askerî iş birliklerinden
 biridir.[^k1] İki taraf arasında ortak sınır, ortak dil ya da doğrudan
 ticaret bağı yoktu; ortak olan şey aynı rakiple karşı karşıya olmaktı.
 
 İlişkinin dayanağı ortak inanç çerçevesiydi ama sürdürücüsü ortak
-çıkardı.[^k2] Atlas bu ikisini ayrı tutar: inanç bağı ilişkiyi kurmayı
+çıkardı.[^k2] Korpus bu ikisini ayrı tutar: inanç bağı ilişkiyi kurmayı
 kolaylaştırır, sürdüren şey karşılıklı yarardır.
 
 ## Uzak ittifakın sınırı
@@ -113,7 +112,7 @@ Böyle bir ittifakın sınırı da kaydedilmelidir. Destek, mesafenin izin
 verdiği ölçüde geldi ve düzenli değildi;[^k1] uzak bir müttefik, yakın bir
 rakibin yerini tutmaz.
 
-Bu, atlasın genel bir gözlemidir. İttifakın değeri yalnızca müttefikin
+Bu, korpusun genel bir gözlemidir. İttifakın değeri yalnızca müttefikin
 gücüyle değil, o gücün olay yerine ne kadar sürede ulaşabildiğiyle
 ölçülür.[^k2]
 
@@ -144,23 +143,22 @@ Böyle karma bir düzende, hangi konunun hangi kaynağa göre çözüleceği bir
 uygulama meselesidir.[^k1] Yazılı bir sınır çizilmez; sınır, kadıların ve
 yerel önderlerin pratiğinde oluşur.
 
-Atlas bu düzeni bir eksiklik olarak değil bir biçim olarak
-kaydeder.[^k2] Tek kaynaklı bir hukuk düzeni, karma bir düzenin gelişmiş
-hâli değildir; ikisi ayrı çözümlerdir.
+Tek kaynaklı bir hukuk düzeni, karma
+bir düzenin gelişmiş hâli değildir; ikisi ayrı çözümlerdir.[^k2]
 
 ## Kadın hükümdarlar
 
 Sultanlığın tarihinde birbirini izleyen kadın hükümdarlar
-bulunur.[^k1][^k2] Bu, atlasın kaydettiği dönem ve bölgeler içinde seyrek
+bulunur.[^k1][^k2] Bu dönem ve bölgeler içinde seyrek
 görülen bir durumdur.
 
 Seyrek olması, açıklanması gereken bir olgu yapar.[^k1] Kaynaklarda bu
 dönemin, merkezî iktidarın soylu çevreler karşısında zayıfladığı bir dönem
 olduğu da kaydedilir.
 
-Atlas iki olgu arasında bir nedensellik kurmaz.[^k2] Zayıf merkezî iktidarın
-kadın hükümdarları mümkün kıldığı iddiası da, kadın hükümdarların merkezî
-iktidarı zayıflattığı iddiası da ayrı kanıtlar gerektirir.
+Zayıf merkezî iktidarın kadın hükümdarları
+mümkün kıldığı iddiası da, kadın hükümdarların merkezî iktidarı zayıflattığı iddiası da
+ayrı kanıtlar gerektirir.[^k2]
 
 ## Yazı ve metin üretimi
 
@@ -172,12 +170,12 @@ Bir liman devletinin metin üretim merkezi olması tesadüf
 değildir.[^k1] Limanda toplanan tüccar toplulukları, uzak bölgelerden gelen
 metinleri ve onları okuyacak çevreleri birlikte getirir.
 
-Bu, atlasın Orta Asya dosyalarında da kaydettiği bağın deniz
+Bu, korpusun Orta Asya dosyalarında da kaydettiği bağın deniz
 karşılığıdır.[^k2] Ticaret ağı, metin ağıyla büyük ölçüde örtüşür.
 
 ## Yüz elli yıl öncesinin tanığı
 
-Bu dosyanın birincil kaynağı sultanlığı değil, ondan yaklaşık yüz elli yıl
+Bu incelemenin birincil kaynağı sultanlığı değil, ondan yaklaşık yüz elli yıl
 önce aynı adanın kuzeyini görmüş bir gezginin kaydıdır.[^k3] Bu sınır burada
 açıkça belirtilir.
 
@@ -191,29 +189,29 @@ kuruluşu gösterir, bölgedeki düzenin başlangıcını değil.
 
 ## Kaynak durumu
 
-Bu dosya üç kaynağa dayanır ve biri birincildir.[^k3] Birincil kaynak
+Bu inceleme üç kaynağa dayanır ve biri birincildir.[^k3] Birincil kaynak
 sultanlığın kendi dönemine ait değildir ve bu bir kısıttır.
 
 Sultanlığın kendi saray kayıtlarının ve hukuk derlemelerinin
-doğrulanabilir, tam metin bir baskısı bu dosya yazıldığında
+doğrulanabilir, tam metin bir baskısı bu inceleme yazıldığında
 bulunamamıştır.[^k1] Metinlerin var olduğu bilinmektedir; erişim sorunu
 ayrıdır.
 
-Bu durum, atlasın başka bölge dosyalarında da ölçülen bir eğilimin
+Bu durum, korpusun başka bölge dosyalarında da ölçülen bir eğilimin
 devamıdır.[^k2] Kayıt yokluğu ile dijital erişim yokluğu ayrı şeylerdir ve
-atlas bu ikisini karıştırmaz.
+korpus bu ikisini karıştırmaz.
 
 ## Sonun biçimi
 
 Sultanlığın sonu, uzun süren bir savaşın ardından geldi.[^k1][^k2] Direniş
-onlarca yıl sürdü ve bu, atlasın kaydettiği en uzun sömürge karşıtı
+onlarca yıl sürdü ve bu en uzun sömürge karşıtı
 direnişlerden biridir.
 
 Direnişin uzunluğu, sultanlığın merkezî değil dağınık bir yapıya sahip
 olmasıyla açıklanır.[^k1] Merkezin düşmesi direnişi bitirmedi; yerel
 önderler kendi bölgelerinde sürdürdü.
 
-Bu, atlasın Orta Asya dosyalarında kaydettiği gözlemin tersidir.[^k2]
+Bu, korpusun Orta Asya dosyalarında kaydettiği gözlemin tersidir.[^k2]
 Merkezîleşmiş bir düzen tek bir darbeyle çöker; dağınık bir düzen yavaş ve
 parça parça çözülür.
 
@@ -227,8 +225,8 @@ Rakip kayıtlarındaki sayıların yönü bellidir.[^k2] Direnişin büyüklüğ
 kullanılan gücün gerekçesini oluşturduğu için abartılabilir; alınan kayıplar
 ise küçültülebilir.
 
-Atlas bu yüzden bu dosyada bir sayı vermez.[^k1] Değerlendirmeler mutlak
-büyüklüklere değil, kayıtların ortak vurgusuna dayanır.
+Değerlendirmeler mutlak büyüklüklere
+değil, kayıtların ortak vurgusuna dayanır.[^k1]
 
 ## Bölgesel bağlantılar
 
@@ -236,16 +234,15 @@ Sultanlık, adanın öteki liman şehirleriyle sürekli bir rekabet
 içindeydi.[^k2] Bölgede tek bir merkez hiçbir zaman kalıcı üstünlük
 sağlayamadı.
 
-Bu çokluk, atlasın Doğu Afrika kıyısı için de kaydettiği yapıyla
+Bu çokluk, korpusun Doğu Afrika kıyısı için de kaydettiği yapıyla
 aynıdır.[^k1] Her limanın kendi başına okyanusa açılabildiği yerlerde,
 merkezîleşme coğrafi olarak zordur.
 
 İki bölgenin benzerliği, aynı deniz ağının iki ucunda bulunmalarıyla
-ilgilidir.[^k2] Atlas bu benzerliği kaydeder ve gerekçesini açık bırakır.
+ilgilidir.[^k2] Korpus bu benzerliği kaydeder ve gerekçesini açık bırakır.
 
-## Atlastaki yeri
-
-Bu dosya, atlasın Güneydoğu Asya aktör katmanındaki altıncı dosyadır ve
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun Güneydoğu Asya aktör katmanındaki altıncı dosyadır ve
 bölgeyi Avrupa donanmalarının gelişinden sonraki yüzyıllara taşır.[^k1][^k2]
 Önceki dosyalar ağırlıklı olarak daha erken dönemlerdeydi.
 
@@ -253,19 +250,18 @@ Dosyanın seçilme gerekçesi, bölgenin sömürge dönemine tek bir anlatıyla
 girmediğini göstermektir.[^k1] Bir bölgede aynı anda hem denetim altına
 alınmış limanlar hem de dört yüzyıl direnen bir sultanlık bulunabilir.
 
-Bu ayrım, atlasın sömürgecilik dosyalarını okumak için gereklidir.[^k2]
+Bu ayrım, korpusun sömürgecilik dosyalarını okumak için gereklidir.[^k2]
 Bölgeyi tek bir tarihe indirgeyen anlatılar, direnen tarafı kaydın dışında
 bırakır.
 
-## Bu dosyanın kapsamadıkları
-
+## Açıkta kalan sorular
 Sultanlığın hükümdar listesi, taht kavgaları ve hanedan tarihi burada
-verilmez.[^k1] Atlasın aktör dosyaları bir düzenin nasıl işlediğini anlatır.
+verilmez.[^k1] Korpusun aktör dosyaları bir düzenin nasıl işlediğini anlatır.
 
 Uzun direniş savaşının askerî ayrıntıları ve sonraki sömürge yönetimi de
 kapsam dışıdır.[^k2] Her biri ayrı dosya gerektirir.
 
-Bölgedeki dinî geleneğin kendi tarihi burada işlenmez.[^k1] Bu dosya bir
+Bölgedeki dinî geleneğin kendi tarihi burada işlenmez.[^k1] Bu inceleme bir
 siyasi düzeni konu edinir.
 
 ## Bir direnişin kaynak izi
@@ -274,15 +270,14 @@ Uzun süren direniş, sultanlık hakkındaki kayıtların bileşimini de
 değiştirdi.[^k1][^k2] Savaşan tarafın tuttuğu ayrıntılı askerî ve idari
 kayıtlar, bugün bölgeye dair en hacimli belge yığınını oluşturur.
 
-Bu, atlasın dikkat çektiği bir tersliktir.[^k2] Bir bölge hakkındaki
+Bu, korpusun dikkat çektiği bir tersliktir.[^k2] Bir bölge hakkındaki
 kaydın bolluğu, o bölgenin kendi kayıt geleneğinin gücünü değil, onunla
 savaşan tarafın bürokrasisinin gücünü gösterebilir.
 
 Okur bu farkı bilerek okumalıdır.[^k1] Kayıt bolluğu ile bilgi güvenilirliği
 aynı şey değildir; bol kayıt, tek bir bakış açısının bol kaydı olabilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Boğazın kendisi ve önceki denetleyicisi için
 [Malaka Sultanlığı](/aktor/malaka-sultanligi/), bağlı olduğu deniz ağı için
 [Hint Okyanusu ticareti](/kavram/hint-okyanusu-ticareti/) dosyaları

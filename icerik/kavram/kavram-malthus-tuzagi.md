@@ -63,7 +63,7 @@ Kaynak bu olayın adlarını sıralar: Malthusçu felaket, Malthus tuzağı, nü
 tuzağı, Malthusçu denetim, Malthusçu kapma, Malthusçu kriz, kriz noktası ve
 Malthusçu daralma.[^k1]
 
-::tartismali[Kaynak bu adlardan ikisinin yanına kendi kaynak gerekli işaretini koymuştur. Atlas işareti silmez: bir adın kaynaksız olması, adın kendisi kadar kaydedilmeye değer.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Kaynak bu adlardan ikisinin yanına kendi kaynak gerekli işaretini koymuştur. Korpus işareti silmez: bir adın kaynaksız olması, adın kendisi kadar kaydedilmeye değer.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu tür işaretlerin nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -74,7 +74,7 @@ haritasında ele alınıyor.
 Kaynak olayın, nüfus artışı tarımsal üretimi geçerse gerçekleşeceğinin
 öngörüldüğünü ve bunun kıtlığa ya da savaşa yol açacağını yazar.[^k1]
 
-Bir olgunun gerçekleşmiş değil öngörülmüş olarak kaydedilmesi,[^k1] atlasın bu
+Bir olgunun gerçekleşmiş değil öngörülmüş olarak kaydedilmesi,[^k1] korpusun bu
 dosyayı bir olay değil bir kavram olarak tuttuğunun dayanağıdır.
 
 ## Zincirin devamı da kuramın parçasıdır
@@ -84,21 +84,19 @@ artacağını, artan yoksulluğun doğum oranlarını düşürerek nüfus azalma
 açacağını ve varlık fiyatları artmaya devam ederse toplumsal huzursuzluk
 doğacağını yazar.[^k1]
 
-Atlas bu zinciri bir olgu olarak değil, kaynağın aktardığı bir kuram olarak
-taşır.[^k1] Kavramın adını aldığı yazar
-[Thomas Malthus](/dusunur/malthus/) dosyasında ele alınıyor.[^k2]
+Kavramın adını aldığı yazar [Thomas
+Malthus](/dusunur/malthus/) dosyasında ele alınıyor.[^k2][^k1]
 
 ## Sınandığı seri
 
 Uzun dönemli seride dünya nüfusu 1800 için yaklaşık 983,1 milyon, 1900 için
 yaklaşık 1,63 milyar, 2020 için yaklaşık 7,89 milyardır.[^k3]
 
-Atlas bu seriyi kuramın çürütülmesi olarak sunmaz: kuram belirli koşullar altında
+Korpus bu seriyi kuramın çürütülmesi olarak sunmaz: kuram belirli koşullar altında
 bir sonuç öngörür, seri ise koşulların gerçekleşip gerçekleşmediğini kendi başına
 söylemez.[^k1][^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kuramın tarihi, yeni-Malthusçuluk, eleştiriler ve çevre tartışmalarındaki yeri
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1]

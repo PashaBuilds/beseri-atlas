@@ -49,7 +49,7 @@ başlığa böler: arkaik, erken modern, modern ve çağdaş.[^k1]
 
 ## İlk evrenin adı arkaiktir
 
-::tartismali[Kaynak küreselleşmenin tarihini "arkaik" bir evreyle başlatıyor. Bu, kavramın yalnızca yirminci yüzyıla ait sayılamayacağı anlamına gelir. Atlas kavramı bir dönem adı olarak kullanmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Kaynak küreselleşmenin tarihini "arkaik" bir evreyle başlatıyor. Bu, kavramın yalnızca yirminci yüzyıla ait sayılamayacağı anlamına gelir. Korpus kavramı bir dönem adı olarak kullanmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Kavram tartışmalarının nasıl taşınacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -64,7 +64,7 @@ alınıyor.
 Kaynak iktisadi, kültürel ve siyasi küreselleşmeyi ayrı bölümler olarak tutar;
 siyasi küreselleşme altında ordu ve toplumsal cinsiyet alt başlıkları vardır.[^k1]
 
-Aynı olgunun üç ayrı boyutta işlenmesi,[^k1] atlasın şu kuralının dayanağıdır: bu
+Aynı olgunun üç ayrı boyutta işlenmesi,[^k1] korpusun şu kuralının dayanağıdır: bu
 dosyada küreselleşme, hangi boyutun kastedildiği belirtilmeden bir eğilim olarak
 anılmaz.
 
@@ -79,7 +79,7 @@ ayrı tanımlar.[^k2] O kavram
 Uzun dönemli seride dünya nüfusu 1500 için yaklaşık 503,1 milyon, 1900 için
 yaklaşık 1,63 milyar, 2020 için yaklaşık 7,89 milyardır.[^k3]
 
-Atlas bu seriyi kavramın kanıtı olarak sunmaz; nüfus toplamı bir bağlantılılık
+Korpus bu seriyi kavramın kanıtı olarak sunmaz; nüfus toplamı bir bağlantılılık
 ölçüsü değildir.[^k1][^k3]
 
 
@@ -104,8 +104,8 @@ Aradaki savaş ve korumacılık dönemi bir kesintidir.[^k1] Bu, süreci
 tek yönlü bir ilerleme olmaktan
 çıkarır.
 
-Atlas bu kesintiyi ayrıca kaydeder.[^k3] Geri döndürülemez sayılan bir
-eğilim, bir kez geri dönmüşse yeniden dönebilir.
+Geri döndürülemez sayılan bir eğilim, bir
+kez geri dönmüşse yeniden dönebilir.[^k3]
 
 ## Dalgaların farkı
 
@@ -116,8 +116,8 @@ eğilim, bir kez geri dönmüşse yeniden dönebilir.
 üretildi.[^k3] Bu, önceki dönemde görülmeyen bir
 yapıdır.
 
-Atlas bu farkı ayrıca kaydeder.[^k1] Ticaret hacmi karşılaştırılabilir
-olsa da, ticaretin biçimi karşılaştırılamaz.
+Ticaret hacmi karşılaştırılabilir olsa da, ticaretin
+biçimi karşılaştırılamaz.[^k1]
 
 ## Asimetri
 
@@ -129,9 +129,8 @@ düşmedi.[^k2] Bu asimetri kavramın tanımlayıcı
 dağılmaz.[^k3] Kimin lehine işlediği buradan
 okunur.
 
-Atlas bu ölçütü ayrıca kaydeder.[^k1] Bir serbestleşme düzeninin
-dağılım sonucu, hangi faktörün serbest bırakıldığına
-bakılarak tahmin edilebilir.
+Bir serbestleşme düzeninin dağılım
+sonucu, hangi faktörün serbest bırakıldığına bakılarak tahmin edilebilir.[^k1]
 
 ## Tersine dönebilirlik
 
@@ -143,9 +142,8 @@ Buna karşılık iletişim maliyetindeki düşüş geri
 alınamaz.[^k3] Ticaret kısıtlanabilir; bilgi akışının maliyeti eski
 düzeyine dönmez.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k1] Bir sürecin bazı bileşenleri
-tersinir, bazıları değildir; ikisi ayrı ayrı
-değerlendirilmelidir.
+Bir sürecin bazı bileşenleri tersinir, bazıları
+değildir; ikisi ayrı ayrı değerlendirilmelidir.[^k1]
 
 
 ## Ölçüm kapasitesinin payı
@@ -156,9 +154,8 @@ Uluslararası kuruluşlar düzenli seri üretmeye başladı.
 Bu, önceki dönemlerle karşılaştırmayı zorlaştırır.[^k3] Daha iyi
 ölçülen bir olgu, artmış gibi görünebilir.
 
-Atlas bu tuzağı ayrıca kaydeder.[^k1] Bir serideki artışın ne
-kadarının olguya, ne kadarının ölçmeye ait olduğu ayrıca
-sorulmalıdır.
+Bir serideki artışın ne kadarının olguya,
+ne kadarının ölçmeye ait olduğu ayrıca sorulmalıdır.[^k1]
 
 ## Kurumsal çerçeve
 
@@ -170,9 +167,9 @@ Kuralların içeriği tarafsız değildir.[^k3] Hangi alanların
 serbestleştirileceği bir müzakere
 sonucudur.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k1] Bir kural düzeninin tarafsız
-görünmesi, kuralın herkese aynı uygulanmasından gelir; kuralların
-hangi alanlara konduğu ayrı bir sorudur.
+Bir kural düzeninin tarafsız görünmesi, kuralın
+herkese aynı uygulanmasından gelir; kuralların hangi alanlara konduğu ayrı bir
+sorudur.[^k1]
 
 ## Kendi tepkisini üretmesi
 
@@ -182,9 +179,8 @@ bağımlılık riski iki ayrı itiraz kaynağıdır.
 İki itiraz farklı çözümler önerir.[^k3] Aynı sonuca varmaları, aynı
 konum oldukları anlamına gelmez.
 
-Atlas ikisini ayrı ayrı kaydeder.[^k1] Bir eğilime yönelen itirazlar,
-gerekçelerine göre ayrıştırılmadan
-sayılamaz.
+Bir eğilime yönelen itirazlar,
+gerekçelerine göre ayrıştırılmadan sayılamaz.[^k1]
 
 ## Anlatının kendisi
 
@@ -195,11 +191,9 @@ Kaçınılmazlık iddiası bir veri olarak
 kaydedilmelidir.[^k3] İddia, alınan kararları tercih olmaktan
 çıkarır.
 
-Atlas bu iddiayı ayrıca sorgular.[^k1] Bir sürecin kaçınılmaz
-sunulması, onu yürütenlerin sorumluluğunu da görünmez
-kılar.
+Bir sürecin kaçınılmaz sunulması, onu
+yürütenlerin sorumluluğunu da görünmez kılar.[^k1]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Boyutların içeriği, eleştiriler ve çağdaş tartışmalar burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]

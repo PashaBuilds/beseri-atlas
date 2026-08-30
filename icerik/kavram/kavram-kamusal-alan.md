@@ -46,7 +46,7 @@ ile feminist eleştiriler ve genişletmeler, retorik ve medya.[^k1]
 
 ## Eleştiriler kavramın yanında durur
 
-::tartismali[Aynı madde, kavramın klasik biçimini ve ona yöneltilen feminist eleştirileri ayrı bölümler olarak taşıyor. Atlas ikisini de kaydeder ve aralarında hüküm vermez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Aynı madde, kavramın klasik biçimini ve ona yöneltilen feminist eleştirileri ayrı bölümler olarak taşıyor. Korpus ikisini de kaydeder ve aralarında hüküm vermez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu tür yan yana kayıtların nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -56,8 +56,8 @@ haritasında ele alınıyor.
 
 Kaynak tanımlar bölümünü çoğul başlıkla verir.[^k1]
 
-Bir kavramın tanımının çoğul olarak kaydedilmesi,[^k1] atlasın şu kuralının
-dayanağıdır: bu dosyada kamusal alan, hangi tanım kullanıldığı belirtilmeden bir
+Bir kavramın tanımının çoğul olarak kaydedilmesi,[^k1] korpusun şu kuralının
+dayanağıdır: bu incelemede kamusal alan, hangi tanım kullanıldığı belirtilmeden bir
 iddianın öznesi yapılmaz.
 
 ## Medya kendi bölümüdür
@@ -102,8 +102,8 @@ gelmez.[^k1] Zaman, okuryazarlık ve ödenen bedel fiilî engellerdir.
 Erken örneklerde katılım dar bir kesimle
 sınırlıydı.[^k2] Mülk sahibi ve okuryazar bir kesim.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Biçimsel açıklık ile fiilî
-katılım ayrı ayrı ölçülmelidir.
+Biçimsel açıklık ile fiilî katılım ayrı ayrı
+ölçülmelidir.[^k3]
 
 ## Taşıyıcı ortam
 
@@ -115,22 +115,19 @@ Ortam değiştiğinde koşullar da değişir.[^k2] Yayın maliyetinin
 düşmesi erişimi genişletir ve aynı anda doğrulamayı
 zorlaştırır.
 
-Atlas bu ikiliği ayrıca kaydeder.[^k3] Bir ortamın erişimi
-kolaylaştırması, taşınan tartışmanın niteliğini
-belirlemez.
+Bir ortamın erişimi kolaylaştırması, taşınan
+tartışmanın niteliğini belirlemez.[^k3]
 
 ## Ölçüt olarak kullanımı
 
-Atlas kavramı bir sınıflandırma değil bir ölçüt olarak
-kullanır.[^k1] Bir dönem için üç koşulun ne ölçüde karşılandığı
-sorulur.
+Bir dönem için üç koşulun ne ölçüde
+karşılandığı sorulur.[^k1]
 
 Cevap derecelidir.[^k2] Hiçbir dönem tam karşılamaz, hiçbir dönem
 tümüyle yoksun değildir.
 
-Atlas bu dereceli okumayı yeğler.[^k3] Bir ideal tip, varlık yokluk
-değil mesafe ölçmeye
-yarar.
+Bir ideal tip, varlık yokluk değil
+mesafe ölçmeye yarar.[^k3]
 
 
 ## Devletten ve piyasadan ayrı
@@ -142,9 +139,8 @@ Bu ayrım tam değildir.[^k2] Tartışmanın yürüdüğü ortamlar çoğu zaman
 piyasa içinde işler; gazete satılır, kahvehanede ödeme
 yapılır.
 
-Atlas bu iç içeliği ayrıca kaydeder.[^k3] Devletten ayrı olmak,
-piyasadan da ayrı olmak anlamına
-gelmez.
+Devletten ayrı olmak, piyasadan da ayrı
+olmak anlamına gelmez.[^k3]
 
 ## Denetim ve sansür
 
@@ -155,9 +151,8 @@ belirler.
 Sansürün biçimi de bilgi verir.[^k2] Neyin yasaklandığı, neyin tehdit
 sayıldığını gösterir.
 
-Atlas bu göstergeyi ayrıca kullanır.[^k3] Bir dönemin sansür listesi,
-o dönemin iktidarının neden korktuğunun doğrudan
-kaydıdır.
+Bir dönemin sansür listesi, o dönemin
+iktidarının neden korktuğunun doğrudan kaydıdır.[^k3]
 
 ## Kavramın tarihselliği
 
@@ -165,21 +160,18 @@ Kavram belirli bir dönemin deneyiminden
 çıkarılmıştır.[^k2] Başka dönemlere uygulanması dikkat
 ister.
 
-Atlas kavramı ölçüt olarak taşır, model olarak
-değil.[^k1] Üç koşul her döneme sorulabilir; o dönemin bir kamusal
-alanı olduğu varsayılmaz.
+Üç koşul her döneme sorulabilir; o
+dönemin bir kamusal alanı olduğu varsayılmaz.[^k1]
 
-Bu, atlasın anakronizm kuralının doğrudan
+Bu, korpusun anakronizm kuralının doğrudan
 uygulamasıdır.[^k3] Bir kavramı geçmişe taşımak, o kavramın orada
 bulunduğunu varsaymadan
 yapılabilir.
 
 
-## Atlasta kullanımı
-
-Atlas kavramı üç soruyla uygular.[^k1] Kimler katılabiliyordu, hangi
-konular tartışılabiliyordu, tartışma hangi ölçütle
-yürüyordu.
+## Nasıl kullanılır?
+Kimler katılabiliyordu, hangi konular
+tartışılabiliyordu, tartışma hangi ölçütle yürüyordu.[^k1]
 
 Üç sorunun cevabı dönemden döneme
 değişir.[^k2] Cevaplar dosyalarda ayrı ayrı
@@ -192,9 +184,8 @@ Kavram, tartışmanın niteliğini değil koşullarını
 ölçer.[^k1] Bir kamusal alanın varlığı, orada iyi kararlar alındığını
 göstermez.
 
-Atlas bu ayrımı korur.[^k2] Koşulların sağlanması ile sonucun iyi
-olması ayrı iki sorudur ve ikincisi bu kavramın konusu
-değildir.[^k3]
+Koşulların sağlanması ile sonucun iyi olması ayrı iki
+sorudur ve ikincisi bu kavramın konusu değildir.[^k3][^k2]
 
 
 ## Ölçmenin yolu
@@ -207,12 +198,10 @@ Göstergeler eksiktir ama karşılaştırmaya
 elverişlidir.[^k2] Aynı gösterge iki dönem ya da iki bölge için
 hesaplanabilir.
 
-Atlas bu yaklaşımı yeğler.[^k3] Doğrudan ölçülemeyen bir kavram,
-karşılaştırılabilir dolaylı göstergelerle yine de
-izlenebilir.
+Doğrudan ölçülemeyen bir kavram,
+karşılaştırılabilir dolaylı göstergelerle yine de izlenebilir.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kavramın tarihi, burjuva kamusal alanı çözümlemesi ve retorik tartışması burada
 ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]

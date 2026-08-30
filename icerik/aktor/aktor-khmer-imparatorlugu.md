@@ -54,10 +54,10 @@ Listede bir din değişimi, bir askerî basınç, bir çevre olayı ve bir salg�
 yana durur.[^k1]
 
 ::tartismali[Khmer İmparatorluğu'nun çöküş nedeni kaynağın kendisinde dört ayrı
-alt başlığa bölünmüştür; bu dosya bunlardan birini asıl neden ilan
+alt başlığa bölünmüştür; bu inceleme bunlardan birini asıl neden ilan
 etmez.]{harita=tartisma-tunc-cagi-cokusunun-nedeni}
 
-Bu yapı, atlasın başka bir dosyasında ele alınan soruyla aynı biçimdedir: bir
+Bu yapı, korpusun başka bir dosyasında ele alınan soruyla aynı biçimdedir: bir
 sistemin çöküşünü tek bir nedene bağlamanın zorluğu. Aynı soru
 [Tunç Çağı çöküşünün nedeni neydi?](/tartisma/tunc-cagi-cokusunun-nedeni/)
 haritasında ele alınıyor.
@@ -65,7 +65,7 @@ haritasında ele alınıyor.
 ## Ekolojik çöküşün ayrı başlık olması
 
 Bir imparatorluğun referans maddesinde çevresel bozulmanın kendi alt başlığını
-taşıması,[^k1] atlas için kayda değerdir: bu, çoğu erken dönem düzeninde
+taşıması,[^k1] korpus için kayda değerdir: bu, çoğu erken dönem düzeninde
 bulunmayan bir açıklama türüdür.
 
 ## Altın çağın ölçütü yapılardır
@@ -81,7 +81,7 @@ kurulduğunu gösterir.
 
 Kaynağın çöküş nedenleri arasında salgını sayması,[^k1] aynı yüzyıllarda başka
 kıtalarda da kaydedilen bir olguyla örtüşür: 1346-1353 arasında Avrupa'yı vuran
-pandemi ayrı bir kayıt geleneğinde ele alınır.[^k2] Atlas iki olay arasında bir
+pandemi ayrı bir kayıt geleneğinde ele alınır.[^k2] Korpus iki olay arasında bir
 bağ iddiası taşımaz; salgın [Kara Ölüm](/olay/kara-olum/) dosyasında ele alınıyor.
 
 ## Ölçek
@@ -91,8 +91,7 @@ için yaklaşık 456,2 milyon olarak verilir.[^k3] İmparatorluğun kendi nüfus
 bir ölçüm kullanılan kaynaklarda bulunmadığı için bu değerler içindeki pay burada
 hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 İmparatorluğun kuruluşu, hükümdar sıralaması, sulama düzeni ve Angkor'un mimari
 tarihi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
 bölümler olarak işler.[^k1] Dönemin bütünü [1000-1350](/donem/07/) dosyasında ele

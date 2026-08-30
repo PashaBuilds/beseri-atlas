@@ -16,7 +16,6 @@ etiketler: [seybaniler, ozbek, maveraunnehir, timurlu, mesruiyet, orta-asya]
 ilgili:
   - donem-09
   - aktor-timur-imparatorlugu
-  - aktor-babur-imparatorlugu
   - aktor-cagatay-hanligi
   - aktor-altin-orda
   - aktor-safevi-devleti
@@ -27,6 +26,8 @@ ilgili:
   - aktor-hive-hanligi
   - aktor-hokand-hanligi
   - tartisma-orta-asya-neden-cekildi
+baglam:
+  - aktor-babur-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -83,7 +84,7 @@ unvanını almamış, ayrı bir unvan kullanmıştı.
 Şeybânîler ise doğrudan han unvanını taşıdı.[^k1] Soy şartını
 karşıladıkları için buna hakları vardı.
 
-Bu, atlasın Çağatay dosyasında kaydedilen kuralın aynı bölgede ikinci
+Bu, korpusun Çağatay dosyasında kaydedilen kuralın aynı bölgede ikinci
 kez ölçülmesidir.[^k4] Soy şartı, onu kuran imparatorluk yıkıldıktan
 iki yüzyıl sonra da geçerliydi.
 
@@ -95,21 +96,21 @@ Hindistan'da yeni bir devlet kurdu.[^k3] Bu devlet üç yüzyıl sürdü.
 Bağlantı doğrudandır.[^k1] Mâverâünnehir'deki yenilgi olmasaydı, güneye
 yönelme de olmayacaktı.
 
-Atlas bu tür bağlantıları ayrıca işaretler.[^k4] Bir bölgedeki iktidar
-değişimi, başka bir kıtada devlet kuruluşunun nedeni olabilir ve
-bağlantı ancak iki bölge birlikte okunduğunda görünür.
+Bir bölgedeki iktidar değişimi, başka
+bir kıtada devlet kuruluşunun nedeni olabilir ve bağlantı ancak iki bölge birlikte
+okunduğunda görünür.[^k4]
 
 ## Bağlantının kaynağı
 
 Bağlantının en ayrıntılı kaydı, güneye çekilen kişinin kendi
-anılarındadır.[^k3] Metin, atlasın kaynak katmanında ayrıca
+anılarındadır.[^k3] Metin, korpusun kaynak katmanında ayrıca
 künyelenmiştir.
 
 Kaydın tek taraflı olduğu belirtilmelidir.[^k1] Yenilen tarafın kendi
 anlatısıdır ve karşı tarafın kaydı aynı ayrıntıda değildir.
 
-Atlas iki tarafın kayıt yoğunluğunu ayrı ayrı ölçer.[^k2] Ayrıntı
-farkı, olayın önemini değil kimin yazdığını gösterir.
+Ayrıntı farkı, olayın önemini değil
+kimin yazdığını gösterir.[^k2]
 
 ## Batıdaki rakip
 
@@ -133,9 +134,8 @@ büyüyen devletle ve doğudaki hanedanla ilişkiler ağırlık kazandı.
 Bu yönelme bir tercih değil bir zorunluluktu.[^k1] Alternatif hatlar
 kapandığında kalan hatlar kullanılır.
 
-Atlas bu tür kaymaları ayrıca kaydeder.[^k2] Bir ticaret hattının
-değişmesi, çoğu zaman ticaretin azalması değil yön değiştirmesidir ve
-ikisi karıştırılır.
+Bir ticaret hattının değişmesi, çoğu zaman
+ticaretin azalması değil yön değiştirmesidir ve ikisi karıştırılır.[^k2]
 
 ## Yerleşik düzenle ilişki
 
@@ -145,7 +145,7 @@ tarihinde tekrar eden bir durumdur.
 Yönetim, önceki düzenin kurumlarını büyük ölçüde devraldı.[^k3] Vergi
 düzeni, kadılık ve vakıf yapısı sürdürüldü.
 
-Süreklilik, hanedan değişiminin toplumsal etkisini sınırlar.[^k2] Atlas
+Süreklilik, hanedan değişiminin toplumsal etkisini sınırlar.[^k2] Korpus
 hanedan değişimi ile düzen değişimini ayrı ayrı ölçer; ikisi her zaman
 birlikte gerçekleşmez.
 
@@ -157,8 +157,8 @@ kaldı.[^k2] İmar faaliyeti sürdü ve yeni yapılar eklendi.
 Bu, bölgenin bu dönemde çöktüğü yolundaki yaygın anlatıyı
 zorlaştırır.[^k1] Çöken bir bölgede büyük ölçekli imar beklenmez.
 
-Atlas çelişkiyi çözmez, kaydeder.[^k4] Aynı dönem için hem gerileme hem
-imar kaydı bulunması, ölçütün ne olduğu sorusunu gündeme getirir.
+Aynı dönem için hem gerileme hem
+imar kaydı bulunması, ölçütün ne olduğu sorusunu gündeme getirir.[^k4]
 
 ## Toprak ve askerî düzen
 
@@ -168,7 +168,7 @@ toprak ve gelir tahsis edilmesi, merkezin yetkisini sınırlıyordu.
 Bu yapı, hanedanın parçalanmasını kolaylaştırdı.[^k2] Tahsis edilen
 gelirler zamanla kalıcı hâle geldi ve merkeze bağlılık zayıfladı.
 
-Yapı, atlasın bozkır dosyasında tanımlanan örüntünün bir
+Yapı, korpusun bozkır dosyasında tanımlanan örüntünün bir
 örneğidir.[^k4] Bozkır düzenleri fetih için etkili, merkezî yönetim
 için kırılgan bir örgütlenme kullanır.
 
@@ -180,9 +180,8 @@ akraba hanedanlar ve yerel güçler arasında dağıldı.
 Bölge bundan sonra tek merkezden yönetilmedi.[^k2] Üç ayrı hanlık
 biçimindeki düzen bu dağılmadan doğdu.
 
-Atlas bu geçişi bir çöküş olarak değil bir yeniden yapılanma olarak
-kaydeder.[^k4] Siyasi birimin küçülmesi, bölgenin küçülmesi anlamına
-gelmez.
+Siyasi birimin küçülmesi, bölgenin
+küçülmesi anlamına gelmez.[^k4]
 
 ## Din ve hukuk
 
@@ -193,7 +192,7 @@ Medreseler ve vakıflar dönem boyunca desteklendi.[^k2] Bu kurumlar,
 hanedan değişimlerinden görece bağımsız olarak sürdü.
 
 Kurumsal süreklilik, siyasi süreksizlikle birlikte
-okunmalıdır.[^k3] Atlas ikisini ayrı ayrı kaydeder çünkü aynı dönemde
+okunmalıdır.[^k3] Korpus ikisini ayrı ayrı kaydeder çünkü aynı dönemde
 farklı yönlerde işlerler.
 
 ## Bozkırdan gelişin koşulu
@@ -218,9 +217,8 @@ göstermez.
 On altıncı yüzyıldaki ad, siyasi bir birliği karşılar.[^k4] Sonraki
 kullanım, yerleşik hâle gelmiş bir nüfusu karşılar.
 
-Atlas iki kullanımı ayırır.[^k2] Bir adın zaman içinde kapsam
-değiştirmesi olağandır ve iki dönemi aynı adla birleştirmek anakronizm
-üretir.
+Bir adın zaman içinde kapsam değiştirmesi
+olağandır ve iki dönemi aynı adla birleştirmek anakronizm üretir.[^k2]
 
 ## Kuzeydeki devletle ilişki
 
@@ -231,7 +229,7 @@ etkiledi.
 İlişki başlangıçta ticariydi.[^k2] Kürk, kumaş ve maden karşılığında
 güneyden dokuma ve işlenmiş mal gidiyordu.
 
-Askerî baskı sonraki yüzyıllarda arttı.[^k1] Bu dosya o dönemi
+Askerî baskı sonraki yüzyıllarda arttı.[^k1] Bu inceleme o dönemi
 kapsamaz; kuzey ilişkisi burada yalnızca başlangıç hâliyle
 kaydedilir.
 
@@ -244,9 +242,9 @@ yaygındır.
 İlişkilendirme çoğu zaman tek yönlü kurulur.[^k4] Deniz yollarının
 açılması, kara ticaretinin çöküşünün nedeni sayılır.
 
-Atlas bu çıkarımı otomatik saymaz.[^k1] İki olayın aynı yıllarda olması,
-birinin ötekinin nedeni olduğunu göstermez ve iddia ayrı bir tartışma
-dosyasında ele alınır.
+İki olayın aynı yıllarda olması, birinin
+ötekinin nedeni olduğunu göstermez ve iddia ayrı bir tartışma dosyasında ele
+alınır.[^k1]
 
 ## Kara ticaretinin ölçülmesi sorunu
 
@@ -257,9 +255,8 @@ Bu, gerileme iddiasının dayandığı verinin niteliğini
 belirler.[^k1] Ölçülemeyen bir hacmin azaldığı iddiası, dolaylı
 göstergelere dayanmak zorundadır.
 
-Atlas dolaylı göstergeleri reddetmez ama dolaylı olduklarını
-yazar.[^k4] Şehirlerin durumu, imar faaliyeti ve sikke bulguları böyle
-göstergelerdir.
+Şehirlerin durumu, imar faaliyeti ve sikke
+bulguları böyle göstergelerdir.[^k4]
 
 ## Kaynakların dili ve kapsamı
 
@@ -269,29 +266,28 @@ iki farklı okur kitlesine ve iki farklı geleneğe işaret eder.
 Metinlerin çoğu saray himayesinde üretilmiştir.[^k1] Bu, hangi
 olayların ayrıntılı yazıldığını doğrudan belirler.
 
-Atlas bu kısıtı bütün hanedan dosyalarında aynı biçimde
-uygular.[^k2] Saray kaynağı, saray dışındaki hayat hakkında ancak
-dolaylı bilgi verir.
+Saray kaynağı, saray dışındaki hayat
+hakkında ancak dolaylı bilgi verir.[^k2]
 
 ## Nüfus ve kentleşme
 
 Dönemin nüfusu için güvenilir sayım yoktur.[^k2] Bilinenler, vergi
 kayıtlarından ve şehir büyüklüğü tahminlerinden çıkarılır.
 
-Bu tür tahminler geniş aralıklar verir.[^k4] Atlas sayı vermek yerine
+Bu tür tahminler geniş aralıklar verir.[^k4] Korpus sayı vermek yerine
 yöntemin ne olduğunu yazar.
 
-Sayısız bir dönem hakkında sayısal iddia kurmak, atlasın
+Sayısız bir dönem hakkında sayısal iddia kurmak, korpusun
 kaçındığı hatalardandır.[^k1] Tahmin edilebilir olan ile ölçülmüş olan
 ayrı ayrı işaretlenir.
 
 ## Kaynak durumu
 
-Bu dosyanın dört künyesinin üçü ansiklopedi maddesidir.[^k1] Birincil
+Bu incelemenin dört künyesinin üçü ansiklopedi maddesidir.[^k1] Birincil
 kaynak künyelenememiştir.
 
 Dönemin Farsça ve Çağatayca tarih metinleri mevcuttur.[^k3]
-Doğrulanabilir çevrimiçi baskıları bu dosya yazıldığında
+Doğrulanabilir çevrimiçi baskıları bu inceleme yazıldığında
 bulunamamıştır.
 
 Eksik borç defterine yazılmıştır.[^k2] Dosya, birincil kaynağı olmayan
@@ -304,15 +300,14 @@ bu konuda örtüşmez.
 
 Askerî seferlerin ayrıntısı kapsam dışıdır.[^k2] Dosya yalnızca iktidar
 değişiminin ve meşruiyet kuralının kaydını tutar. Seferlerin güzergâhı, süresi
-ve tarafların kayıpları ayrı bir çalışma gerektirir ve bu dosyanın
+ve tarafların kayıpları ayrı bir çalışma gerektirir ve bu incelemenin
 sorusuyla doğrudan ilgili değildir.
 
 Hanedanın edebî ve sanatsal himayesi ayrı bir çalışma
-gerektirir.[^k3] Bu dosya yazıldığında atlasta bulunmuyordu ve dönemin
+gerektirir.[^k3] Bu inceleme yazıldığında korpusta bulunmuyordu ve dönemin
 el yazması üretimi hiç işlenmemişti.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya hanedan değişiminin bölgeyi gerilettiğini ileri sürmez.[^k4]
 Gerileme iddiası ayrı bir tartışma gerektirir ve o tartışma ayrı bir
 dosyadadır.
@@ -322,17 +317,16 @@ söylenmez.[^k2] Ticaret yönündeki değişim birden çok etkenin
 sonucudur.
 
 Bağlantıların tamamı burada kurulmaz.[^k1] Bölgenin güney ve kuzey
-komşularıyla ilişkileri ayrı dosyalar gerektirir ve bu dosya
-yazıldığında bu ilişkilerin bir bölümü atlasta hiç işlenmemişti; eksik,
+komşularıyla ilişkileri ayrı dosyalar gerektirir ve bu inceleme
+yazıldığında bu ilişkilerin bir bölümü korpusta hiç işlenmemişti; eksik,
 dosyanın kapsamını daraltan bir kısıt olarak burada beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Yerini alınan düzen için
 [Timur İmparatorluğu](/aktor/timur-imparatorlugu/), yenilginin sonucunda
 kurulan devlet için
 [Bâbür İmparatorluğu](/aktor/babur-imparatorlugu/) dosyaları
-okunmalıdır; ikinci bağlantı bu dosyanın asıl bulgusudur.[^k3]
+okunmalıdır; ikinci bağlantı bu incelemenin asıl bulgusudur.[^k3]
 
 Bağlantının en ayrıntılı kaydı için
 [Bâbürnâme](/kaynak/baburname/) dosyası uygundur.[^k1]

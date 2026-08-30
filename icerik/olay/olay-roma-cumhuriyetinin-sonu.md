@@ -93,7 +93,7 @@ ve MÖ 27'de Augustus Principatus'unun kurulmasının ardından kalıcı tek ki�
 yönetimi altına girdi;[^k2] imparatorun üstünlüğü birkaç cumhuriyet makamının
 yetkilerinin birleştirilmesine dayanıyordu.[^k2]
 
-Bu nedenle bu dosya "cumhuriyetin yıkılışı" değil "sonu" başlığını taşır: yıkılan
+Bu nedenle bu inceleme "cumhuriyetin yıkılışı" değil "sonu" başlığını taşır: yıkılan
 bir bina yoktur, işlevi devredilmiş bir yapı vardır. Devralan düzen
 [Roma İmparatorluğu](/aktor/roma-imparatorlugu/) dosyasında ele alınıyor.
 
@@ -104,8 +104,7 @@ bir bina yoktur, işlevi devredilmiş bir yapı vardır. Devralan düzen
 dağıtılan tayın,[^k1] bu ölçekteki bir dünyada tek bir şehirde toplanmış bir
 kitleyi besliyordu.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Toprak reformu girişimleri, ordu düzenindeki değişim, iç savaşların askerî seyri
 ve diktatörün öldürülmesi burada ayrı başlıklar altında ele alınmamıştır.
 Dönemin bütünü [MÖ 500–MS 200](/donem/04/) dosyasında ele alınıyor.

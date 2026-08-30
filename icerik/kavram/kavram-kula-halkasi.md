@@ -16,9 +16,10 @@ ilgili:
   - kavram-avustronezya-yayilmasi
   - aktor-maldiv-sultanligi
   - kavram-hint-okyanusu-ticareti
-  - dusunur-durkheim
   - kavram-aletsiz-seyrusefer
   - kavram-akrabalik
+baglam:
+  - dusunur-durkheim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -66,7 +67,7 @@ Düzenin ayırt edici yanı, nesnelerin kullanım değeri taşımamasıdır.[^k2
 Değer, nesnenin ne işe yaradığından değil kimlerin elinden geçtiğinden ve ne
 kadar süredir dolaştığından gelir.
 
-Bu, atlasın [Para](/kavram/para/) dosyasında tanımlanan işlevlerin
+Bu, [Para](/kavram/para/) incelemesinde tanımlanan işlevlerin
 hiçbirine tam olarak uymaz.[^k1] Nesneler ödeme aracı değildir, biriktirilmez
 ve değer ölçüsü olarak kullanılmaz.
 
@@ -79,8 +80,8 @@ Elde tutma süresi bir tercihtir ama sınırsız değildir.[^k2] Nesneyi çok
 uzun süre tutmak itibar kaybettirir; düzenin işlemesi, kimsenin
 biriktirmemesine bağlıdır.
 
-Atlas bu kuralı kaydeder çünkü birikime dayalı ekonomilerin tersini
-gösterir.[^k1] Burada değer, elde tutmakla değil geçirmekle kazanılır.
+Burada değer, elde tutmakla değil
+geçirmekle kazanılır.[^k1]
 
 ## Ticaret mi değil mi
 
@@ -93,7 +94,7 @@ anılır.
 
 ::tartismali[Bu düzenin bir ticaret biçimi mi, bir siyasi ittifak düzeneği mi
 yoksa ikisinden de ayrı bir mübadele türü mü sayılması gerektiği
-tartışmalıdır; üç okuma da aynı kayıtlardan çıkarılabilir. Atlas bir sonuca
+tartışmalıdır; üç okuma da aynı kayıtlardan çıkarılabilir. Korpus bir sonuca
 bağlanmaz.]{harita=tartisma-somurgeciligin-ekonomik-bilancosu}
 
 ## Ne işe yaradığı
@@ -110,18 +111,17 @@ mal değişimi güvenle yapılabilir.
 nesneyi bir süre elinde tutmak, kişiye ve topluluğuna itibar kazandırır ve
 bu itibar siyasi güce çevrilebilir.
 
-## Atlas için neden önemli
+## Korpus için neden önemli
 
-Bu dosya, atlasın ekonomik kavram katmanındaki bir varsayımı sınar.[^k1]
+Bu inceleme, korpusun ekonomik kavram katmanındaki bir varsayımı sınar.[^k1]
 Katmandaki dosyaların çoğu, mübadeleyi ya pazar ya da haraç olarak
 sınıflandırır.
 
 Bu düzen ikisine de girmez.[^k2] Pazar değildir çünkü fiyat ve pazarlık
 yoktur; haraç değildir çünkü zorlama ve tabiiyet yoktur.
 
-Atlas bu yüzden dosyayı bir üçüncü kategori olarak tutar.[^k1] Mübadelenin
-biçimleri ikiyle sınırlı değildir ve bir düzeni iki kategoriden birine
-zorlamak, onu görünmez kılar.
+Mübadelenin biçimleri ikiyle sınırlı değildir ve
+bir düzeni iki kategoriden birine zorlamak, onu görünmez kılar.[^k1]
 
 ## Kaydın kaynağı ve sınırı
 
@@ -133,39 +133,36 @@ Tek bir kaynağa bu kadar dayanmanın riski açıktır.[^k1] Gözlemcinin neyi
 kayda değer bulduğu, düzenin bugün nasıl anlaşıldığını doğrudan
 belirlemiştir.
 
-Atlas bu bağımlılığı beyan eder.[^k2] Sonraki çalışmalar düzenin
-ayrıntılarını düzeltmiş ve genişletmiştir; buradaki anlatım, ilk kaydın
-çerçevesini taşır.
+Sonraki çalışmalar düzenin ayrıntılarını
+düzeltmiş ve genişletmiştir; buradaki anlatım, ilk kaydın çerçevesini taşır.[^k2]
 
 ## Gözlem anının sorunu
 
 Kayıt, bölgenin dış temaslarının zaten başladığı bir dönemde
 tutulmuştur.[^k1] Gözlenen düzen, temas öncesi hâliyle aynı olmayabilir.
 
-Bu, atlasın öteki dosyalarında da kaydedilen bir sorundur.[^k2] Bir
+Bu, korpusun öteki dosyalarında da kaydedilen bir sorundur.[^k2] Bir
 uygulamanın ilk kaydı, çoğu zaman o uygulamanın değişmeye başladığı dönemde
 tutulur; kayıt, değişimin öncesini değil kendisini gösterir.
 
-Atlas bu yüzden düzeni tarihsiz bir gelenek olarak sunmaz.[^k1] Kaydedilen
-şey, belirli bir tarihte gözlenmiş bir düzendir ve öncesi hakkında
-çıkarım yapmak ayrı kanıt gerektirir.
+Kaydedilen şey, belirli bir
+tarihte gözlenmiş bir düzendir ve öncesi hakkında çıkarım yapmak ayrı kanıt
+gerektirir.[^k1]
 
 ## Nesnelerin bugünkü yeri
 
-Bu dosyanın künyelediği iki nesne, bölgenin dışındaki bir müzededir.[^k3][^k4]
-Bu, atlasın Benin, Maori ve Avustralya dosyalarında da kaydedilen bir
+Bu incelemenin künyelediği iki nesne, bölgenin dışındaki bir müzededir.[^k3][^k4]
+Bu, korpusun Benin, Maori ve Avustralya dosyalarında da kaydedilen bir
 durumdur.
 
 Buradaki durum ayrıca dikkat çekicidir.[^k3] Değeri dolaşımından gelen bir
 nesne, dolaşımdan çıkarılıp bir vitrine konduğunda, tam olarak değerini
 oluşturan şeyi kaybeder.
 
-Atlas bunu bir hüküm olarak değil bir gözlem olarak kaydeder.[^k4] Nesnenin
-müzedeki hâli, kendi düzeninde ne olduğunu göstermez; bu fark, künye
-notlarında ayrıca belirtilmelidir.
+Nesnenin müzedeki hâli, kendi düzeninde
+ne olduğunu göstermez; bu fark, künye notlarında ayrıca belirtilmelidir.[^k4]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Mübadelenin öteki biçimleri için
 [Ticaret diasporası](/kavram/ticaret-diasporasi/) ve
 [Para](/kavram/para/) dosyaları okunmalıdır.[^k1]

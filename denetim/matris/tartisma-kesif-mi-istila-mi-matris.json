@@ -1,7 +1,7 @@
 {
   "id": "tartisma-kesif-mi-istila-mi",
-  "govde_hash": "2694f58ce913",
-  "commit": "58a10ea",
+  "govde_hash": "8480c1debaa3",
+  "commit": "4373ec95",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -475,5 +475,13 @@
     "kismi": 9,
     "desteksiz": 0,
     "olculemez": 2
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "2694f58ce913",
+      "yeni_hash": "8480c1debaa3",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    }
+  ]
 }

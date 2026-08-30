@@ -57,7 +57,7 @@ kökenler, merkantilizmin sonu ve miras.[^k1]
 ## Savaş kavramın kendi bölümüdür
 
 Bir iktisat politikasının ansiklopedi maddesinde savaşlar ve emperyalizme ayrı bir
-bölüm ayrılması,[^k1] atlasın iktisat kavramlarını neden askerî eksene de
+bölüm ayrılması,[^k1] korpusun iktisat kavramlarını neden askerî eksene de
 bağladığının dayanağıdır.
 
 ## Politikalar ülke ülke ayrılmıştır
@@ -73,7 +73,7 @@ tanımının bütün örnekleri kapsamayabileceğini gösterir.
 Kaynak, miras başlığı altında neo-merkantilizmi ayrı bir alt başlık olarak tutar
 ve altında güncel bir örneği işler.[^k1]
 
-Bir kavramın hem sonunun hem devamının aynı maddede kaydedilmesi,[^k1] atlasın
+Bir kavramın hem sonunun hem devamının aynı maddede kaydedilmesi,[^k1] korpusun
 kavram dosyalarında neden bitiş tarihi alanı tutmadığının dayanağıdır: kavramlar
 olaylar gibi bitmez.
 
@@ -91,8 +91,7 @@ kapsamlı ve alışılmadık bir sürümünü geliştirdiğini yazar.[^k2] O yaz
 [Adam Smith](/dusunur/smith/) dosyasında, kavramın ardılı sayılan düzen ise
 [Kapitalizm](/kavram/kapitalizm/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kuramın içeriği, politikaların ayrıntıları ve kavramın sonu burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]
 

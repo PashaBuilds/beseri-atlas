@@ -30,10 +30,11 @@ ilgili:
   - kavram-kolelik
   - aktor-roma-imparatorlugu
   - olay-atlantik-kole-ticareti
-  - kavram-ilkel-birikim
   - dusunur-aristoteles
   - tartisma-tarihsel-sayilar-nasil-okunur
   - donem-04
+baglam:
+  - kavram-ilkel-birikim
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

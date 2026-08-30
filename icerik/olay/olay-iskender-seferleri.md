@@ -52,7 +52,7 @@ onarim_turu: 0
 Seferlerin takvimi sıkışıktır. Balkan seferi MÖ 335'te Haemus Dağı, Pelion ve
 Thebai muharebeleriyle başlar; Pers seferi MÖ 334'te Granikos, Miletos ve
 Halikarnassos, MÖ 333'te İssos, MÖ 332'de Tiros ve Gazze, MÖ 331'de Gaugamela ve
-Uksiya Geçidi, MÖ 330'da Pers Kapısı ile sürer.[^k1] Bu dosya muharebe anlatısı
+Uksiya Geçidi, MÖ 330'da Pers Kapısı ile sürer.[^k1] Bu inceleme muharebe anlatısı
 değil, **seferin coğrafyasının ne anlattığı** üzerinedir.
 
 ## Rota, bir imparatorluğun iskeletidir
@@ -74,7 +74,7 @@ son evresinde III. Artakserkses MÖ 358–338, IV. Artakserkses MÖ 338–336 ve
 Darius MÖ 336–330 arasında hüküm sürmüştür.[^k2] İmparatorluk Makedonya'ya
 yenilerek sona erer.[^k2]
 
-Atlas burada bir nedensellik sırası önermez: iç istikrarsızlığın yenilgiyi
+Korpus burada bir nedensellik sırası önermez: iç istikrarsızlığın yenilgiyi
 kolaylaştırdığı savunulabileceği gibi, yenilginin iç istikrarsızlığı görünür
 kıldığı da savunulabilir. İki okuma da kaynakla uyumludur.
 
@@ -84,7 +84,7 @@ Seferlerin insan bedeli için kaynak "bir milyondan fazla" kayıp verir.[^k1] Bu
 sayının hangi tanıma göre — asker mi, sivil mi, hangi taraflar — verildiği aynı
 yerde belirtilmez.
 
-Atlas bu rakamı düzeltmez ve kullanmaya devam etmez: kaydeder ve kapsamının
+Korpus bu rakamı düzeltmez ve kullanmaya devam etmez: kaydeder ve kapsamının
 belirsiz olduğunu söyler. Ölçüsü tanımlanmamış bir sayı, karşılaştırmaya elverişli
 değildir.
 
@@ -103,8 +103,7 @@ hem Hint siyasi geleneğinin birlikte bulunduğu bir alan olarak kalır; bu düz
 milyondan fazla" kayıp rakamı[^k1] bu iki ölçüm arasındaki bir dünyaya aittir;
 iki seri farklı olduğu için burada oran kurulmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Seferi yürüten kişinin biyografisi, ordusunun taktik yapısı, halefleri arasındaki
 bölünme ve sonrasındaki kültürel dönemin sonuçları burada ayrı başlıklar altında
 ele alınmamıştır. Dönemin bütünü [MÖ 500–MS 200](/donem/04/) dosyasında ele alınıyor.

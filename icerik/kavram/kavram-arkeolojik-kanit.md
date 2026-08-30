@@ -69,8 +69,8 @@ araştırmacıların başka tekniklere başvurmak zorunda olduğunu kaydeder.[^k
 
 ## Kanıt bir yorumla birlikte gelir
 
-Bir maddi kalıntının ancak bir teknikle kanıta dönüşmesi,[^k1] atlasın şu
-kuralının dayanağıdır: bu atlasta arkeolojik iddialar, hangi teknikle
+Bir maddi kalıntının ancak bir teknikle kanıta dönüşmesi,[^k1] korpusun şu
+kuralının dayanağıdır: bu korpusta arkeolojik iddialar, hangi teknikle
 üretildikleri belirtilerek taşınır.
 
 ## Dönemlendirme maddi kültüre dayanır
@@ -79,14 +79,14 @@ Bir başka kayıt, arkeolojide uzak tarih öncesinin dönemlendirilmesinde olağ
 yöntemin maddi kültür ve teknolojideki değişimlere dayanmak olduğunu yazar ve Taş
 Devri, Tunç Çağı ile Demir Çağı'nı sayar.[^k2]
 
-Dönem adlarının malzemeden türetilmesi,[^k2] atlasın şu kuralının dayanağıdır: bu
-atlasta bu dönem adları, o dönemde yaşayanların kendilerini böyle adlandırdığı
+Dönem adlarının malzemeden türetilmesi,[^k2] korpusun şu kuralının dayanağıdır: bu
+korpusta bu dönem adları, o dönemde yaşayanların kendilerini böyle adlandırdığı
 anlamına gelmez. Dönemlendirme tartışması
 [Dönemlendirme](/kavram/donemlendirme/) dosyasında ele alınıyor.
 
 ## Yazı öncesi bir örnek
 
-Yazı öncesi bir örnek için atlasın kendi dosyası bulunur; o dosya
+Yazı öncesi bir örnek için korpusun kendi dosyası bulunur; o dosya
 [Göbeklitepe](/olay/gobeklitepe/) dosyasıdır ve yalnızca maddi kalıntıya dayanan
 bir kaydın nasıl okunacağını ele alır.
 
@@ -98,11 +98,10 @@ post-yapısalcı akımlarla ilişkilendirir.[^k3] O yazar
 [Michel Foucault](/dusunur/foucault/) dosyasında ele alınıyor.
 
 Aynı sözcüğün hem bir kazı yöntemi hem bir düşünce çözümlemesi için
-kullanılması,[^k1][^k3] atlasın terim kilidi kapısının neden var olduğunun bir
+kullanılması,[^k1][^k3] korpusun terim kilidi kapısının neden var olduğunun bir
 başka örneğidir.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kazı teknikleri, tarihleme yöntemleri ve buluntu yorumlama tartışmaları burada
 ayrı başlıklar altında ele alınmamıştır; kullanılan kaynak bölümlerinin kapsamı
 kanıt türüdür.[^k1][^k2]

@@ -119,7 +119,7 @@ soydan gelenlerin veya başka bir sebeple aralarında yakınlık bulunanların
 muhaliflere karşı birlikte hareket etmelerini sağlayan dayanışma duygusu.[^k2]
 
 O kavram [Asabiyet](/kavram/asabiyet/) dosyasında, kavramı geliştiren düşünür ise
-[İbn Haldûn](/dusunur/ibn-haldun/) dosyasında ele alınıyor. Atlas iki cevabı
+[İbn Haldûn](/dusunur/ibn-haldun/) dosyasında ele alınıyor. Korpus iki cevabı
 karşılaştırmaz ve birini diğerinin öncülü saymaz; kullanılan kaynak bölümlerinde
 böyle bir bağ belirtilmemiştir.[^k1][^k2]
 
@@ -134,8 +134,7 @@ tartışılması,[^k3] kavramın statik bir onay değil sürekli bir sorun olara
 kaydedildiğini gösterir; ilgili düşünür
 [Montesquieu](/dusunur/montesquieu/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Kavramın hukuk kuramındaki kullanımı, uluslararası tanınma sorunu ve modern
 demokrasi tartışmalarındaki yeri burada ayrı başlıklar altında ele alınmamıştır;
 kullanılan kaynak bölümlerinin kapsamı sınıflandırma ve karşılaştırmadır.[^k1][^k2]

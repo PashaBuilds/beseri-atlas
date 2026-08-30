@@ -11,7 +11,8 @@ bolge: [dogu-asya]
 eksen: [kulturel, siyasi, felsefi]
 guven_geneli: tartismali
 etiketler: [ban-zhao, nu-jie, han, kadin, egitim, aile, itaat]
-ilgili:
+ilgili: []
+baglam:
   - aktor-han-imparatorlugu
   - dusunur-konfucyus
   - kavram-konfucyuscluk

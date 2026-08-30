@@ -21,6 +21,7 @@ ilgili:
   - tartisma-teknolojik-belirlenimcilik
   - tartisma-tarihsel-sayilar-nasil-okunur
   - kavram-sivil-toplum
+baglam:
   - kavram-mesruiyet
 okuma_onerisi: []
 kaynaklar:

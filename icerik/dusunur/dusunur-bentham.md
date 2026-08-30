@@ -15,6 +15,7 @@ guven_geneli: yaygin
 etiketler: [bentham, faydacilik, panoptikon, ceza-hukuku, dogal-haklar, hukuk]
 ilgili:
   - dusunur-mill
+baglam:
   - dusunur-foucault
   - dusunur-smith
   - dusunur-malthus

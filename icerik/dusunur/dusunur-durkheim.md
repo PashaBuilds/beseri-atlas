@@ -15,12 +15,13 @@ guven_geneli: tartismali
 etiketler: [durkheim, toplumsal-olgu, anomi, dayanisma, intihar-orani]
 ilgili:
   - dusunur-marx
-  - dusunur-mill
   - dusunur-weber
-  - dusunur-foucault
   - kavram-ideal-tip
   - kavram-sekulerlesme
   - kaynak-durkheim-intihar
+baglam:
+  - dusunur-mill
+  - dusunur-foucault
   - tartisma-tarihsel-sayilar-nasil-okunur
 okuma_onerisi: []
 kaynaklar:

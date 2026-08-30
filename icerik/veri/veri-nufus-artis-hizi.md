@@ -58,7 +58,7 @@ Veri kümesinin sütun adları iki ayrı seriyi taşır: biri tahminler, diğeri
 varyant projeksiyonu.[^k1]
 
 Bir sağlayıcının ölçülmüş değerler ile ileriye dönük hesapları ayrı sütunlarda
-tutması,[^k1] atlasın şu kuralının dayanağıdır: bu dosya yalnızca tahmin
+tutması,[^k1] korpusun şu kuralının dayanağıdır: bu inceleme yalnızca tahmin
 sütununu kaydeder ve projeksiyon değerlerini içermez. Böylece dosyadan okunan
 hiçbir değer bir öngörü değildir.
 
@@ -68,7 +68,7 @@ Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1950 için 
 2,49 milyar, 2020 için yaklaşık 7,89 milyardır.[^k2]
 
 Artış hızının yarıya düşmesine rağmen nüfusun üç katına çıkması,[^k1][^k2] hız
-ile düzey arasındaki farkı gösterir; atlas bu iki seriyi tek bir eğilim
+ile düzey arasındaki farkı gösterir; korpus bu iki seriyi tek bir eğilim
 cümlesinde birleştirmez. Nüfus serisi
 [Dünya nüfusu, 1500–2025](/veri/dunya-nufusu-1500-2025/) dosyasında, doğurganlık
 tarafı ise
@@ -83,10 +83,9 @@ anlatır.[^k3] O model
 [Thomas Malthus](/dusunur/malthus/) dosyasında, kuramsal çerçeve ise
 [Demografik geçiş](/kavram/demografik-gecis/) dosyasında ele alınıyor.
 
-Atlas bu seriyi o modelin çürütülmesi olarak sunmaz: model belirli koşullar
+Korpus bu seriyi o modelin çürütülmesi olarak sunmaz: model belirli koşullar
 altında bir sonuç öngörür, seri ise yalnızca artış hızını verir.[^k1][^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ülke ülke hızlar, yaş yapısı ve göç etkisi burada ayrı başlıklar altında ele
-alınmamıştır; bu dosya yalnızca dünya toplamı tahmin serisini kaydeder.[^k1]
+alınmamıştır; bu inceleme yalnızca dünya toplamı tahmin serisini kaydeder.[^k1]

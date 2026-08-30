@@ -205,8 +205,8 @@ Sınırlar geniş bir aralıkta tartışılır.[^k4] Bazı okumalar dönemi iki
 yüzyıl daha geriye, bazıları bir yüzyıl daha ileriye
 taşır.
 
-Atlas bu aralığı ayrıca beyan eder.[^k5] Geçiş dönemlerinin sınırları,
-olay dönemlerininkinden daha tartışmalıdır.
+Geçiş dönemlerinin sınırları, olay
+dönemlerininkinden daha tartışmalıdır.[^k5]
 
 ## Çöküş mü dönüşüm mü
 
@@ -216,9 +216,8 @@ Dönemin okunma biçimi bir tartışma konusudur.[^k1] Bir okuma bunu bir
 İki okuma aynı kayıtlara dayanır.[^k5] Fark, hangi göstergenin
 seçildiğindedir.
 
-Atlas iki okumayı da kaydeder.[^k4] Kent nüfusu ve ticaret hacmi
-düşerken, yerleşim sayısı ve dinî yapı inşası
-artmıştır.
+Kent nüfusu ve ticaret hacmi düşerken, yerleşim
+sayısı ve dinî yapı inşası artmıştır.[^k4]
 
 ## Göstergelerin çelişmesi
 
@@ -228,9 +227,8 @@ göstergeler karşıt yönde hareket eder.
 Kentleşme ve uzun mesafeli ticaret geriler.[^k1] Yerel üretim, kırsal
 yerleşim ve dinî kurum sayısı artar.
 
-Atlas bu durumu ayrıca kaydeder.[^k5] Bir dönemi tek bir göstergeyle
-değerlendirmek, o göstergenin seçimini gizli bir yargıya
-çevirir.
+Bir dönemi tek bir göstergeyle
+değerlendirmek, o göstergenin seçimini gizli bir yargıya çevirir.[^k5]
 
 ## Sikke ve ticaret
 
@@ -241,9 +239,8 @@ kanıtlardan biridir.
 Daralma her yerde aynı ölçüde değildir.[^k5] Doğu Akdeniz'de ticaret
 daha uzun süre canlı kaldı.
 
-Atlas bu farkı ayrıca kaydeder.[^k4] Bir bölgesel gerilemenin bütün
-kıtaya uzatılması, en sık yapılan
-genellemelerdendir.
+Bir bölgesel gerilemenin bütün kıtaya uzatılması, en
+sık yapılan genellemelerdendir.[^k4]
 
 ## Vergi düzeninin çözülmesi
 
@@ -253,9 +250,8 @@ vergi yerini ayni yükümlülüğe bıraktı.
 Bu, ordunun finansmanını da değiştirdi.[^k3] Ücretli asker yerine
 toprağa bağlı hizmet düzeni yaygınlaştı.
 
-Atlas bu zinciri ayrıca kaydeder.[^k5] Vergi kapasitesindeki bir
-düşüş, askerî örgütlenmeyi doğrudan yeniden
-biçimlendirir.
+Vergi kapasitesindeki bir düşüş, askerî
+örgütlenmeyi doğrudan yeniden biçimlendirir.[^k5]
 
 ## Ordu düzeninin değişimi
 
@@ -266,9 +262,8 @@ Bu değişim, siyasi yetkiyi de yerelleştirdi.[^k1] Askerî gücü elinde
 tutan, vergi ve hukuk yetkisini de fiilen
 edindi.
 
-Atlas bu bağı ayrıca kaydeder.[^k5] Zor kullanma kapasitesi
-yerelleştiğinde, diğer yetkiler de aynı yöne
-kayar.
+Zor kullanma kapasitesi yerelleştiğinde,
+diğer yetkiler de aynı yöne kayar.[^k5]
 
 ## Kavimler hareketi
 
@@ -279,9 +274,8 @@ değiştirdi.[^k1] Hareketin nedenleri tartışmalıdır.
 sayılır.[^k4] Çekici etken, imparatorluk topraklarının
 zenginliğidir.
 
-Atlas iki tür etkeni ayrı ayrı sayar.[^k5] Bir göç dalgasının nedeni,
-kaynağın itmesi ile hedefin çekmesinin bileşkesidir ve ikisi ayrı
-ayrı ölçülmelidir.
+Bir göç dalgasının nedeni, kaynağın itmesi
+ile hedefin çekmesinin bileşkesidir ve ikisi ayrı ayrı ölçülmelidir.[^k5]
 
 ## İstila mı yerleşme mi
 
@@ -292,8 +286,8 @@ Arkeolojik kanıt ikisini ayırt etmekte zorlanır.[^k4] Yerleşim
 biçimindeki değişim, her iki senaryoyla da
 uyumludur.
 
-Atlas bu belirsizliği korur.[^k5] Aynı kanıtla iki senaryo uyumluysa,
-kanıt seçim yapmaya yetmiyordur.
+Aynı kanıtla iki senaryo uyumluysa,
+kanıt seçim yapmaya yetmiyordur.[^k5]
 
 ## Adlandırmanın etkisi
 
@@ -304,8 +298,8 @@ aynı olayı iki farklı çerçeveye yerleştirir.
 İkinci terim, bir tarafın kendi kaydından
 gelir.[^k3] Adlandırma o kaydın çerçevesini taşır.
 
-Atlas bu bağı ayrıca kaydeder.[^k5] Bir olaya verilen ad, o olayı
-kimin kaydettiğini de gösterir.
+Bir olaya verilen ad, o olayı kimin
+kaydettiğini de gösterir.[^k5]
 
 ## İki büyük gücün düellosu
 
@@ -316,9 +310,8 @@ yürüdü.
 Hiçbiri diğerini kesin olarak yenemedi.[^k5] Sınır hattı yüzyıllar
 boyunca aynı bölgede kaldı.
 
-Atlas bu dengeyi ayrıca kaydeder.[^k3] Denk güçler arasındaki uzun bir
-çatışma, sınırı değiştirmeden her iki tarafın kaynağını
-tüketebilir.
+Denk güçler arasındaki uzun bir
+çatışma, sınırı değiştirmeden her iki tarafın kaynağını tüketebilir.[^k3]
 
 ## Tükenmenin sonucu
 
@@ -330,9 +323,8 @@ belirdi.
 gücün hızlı genişlemesi, karşısındakilerin durumundan bağımsız
 açıklanamaz.
 
-Atlas bu bağı ihtiyatla kurar.[^k1] Bir genişlemenin karşı tarafın
-zayıflığıyla açıklanması, genişleyen tarafın kendi kapasitesini
-görmezden gelir.
+Bir genişlemenin karşı tarafın
+zayıflığıyla açıklanması, genişleyen tarafın kendi kapasitesini görmezden gelir.[^k1]
 
 ## Vebanın gelişi
 
@@ -342,9 +334,8 @@ ticaret ağını izleyerek yayıldı.
 Etkisi tartışmalıdır.[^k1] Bazı okumalar dönemin çözülmesinde
 belirleyici sayar, bazıları ikincil.
 
-Atlas bu tartışmayı karara bağlamaz.[^k5] Salgının kaydı büyük ölçüde
-tek bir tanığa dayanır ve bu, ölçmeyi
-zorlaştırır.
+Salgının kaydı büyük ölçüde tek bir
+tanığa dayanır ve bu, ölçmeyi zorlaştırır.[^k5]
 
 ## Tanıklığın konumu
 
@@ -356,9 +347,8 @@ Bu, tanıklığın değerlendirilmesini zorlaştırır.[^k1] İki metinden
 hangisinin yazarın görüşünü taşıdığı
 tartışmalıdır.
 
-Atlas bu durumu ayrıca kaydeder.[^k5] Aynı yazarın karşıt iki metni,
-ikisinin de dönemin siyasi baskısı altında yazıldığını
-gösterir.
+Aynı yazarın karşıt iki metni, ikisinin de
+dönemin siyasi baskısı altında yazıldığını gösterir.[^k5]
 
 ## Nüfusun seyri
 
@@ -369,9 +359,8 @@ Kayıt zayıftır ve tahminler geniş aralıklarla
 verilir.[^k2] Arkeolojik yerleşim yoğunluğu başlıca dolaylı
 göstergedir.
 
-Atlas bu belirsizliği korur.[^k5] Bu dönem için nüfus tahminleri, kat
-düzeyinde farklı sonuçlar veren yöntemlere
-dayanır.
+Bu dönem için nüfus tahminleri, kat
+düzeyinde farklı sonuçlar veren yöntemlere dayanır.[^k5]
 
 ## Dinin siyasi konumu
 
@@ -382,9 +371,8 @@ Bu, önceki dönemin çok tanrılı ve yerel düzeninden farklıdır.[^k4]
 Yeni düzende tek bir çerçeve, geniş bir alanda ortak bir hukuk dili
 sağlıyordu.
 
-Atlas bu işlevi ayrıca kaydeder.[^k5] Bir inanç çerçevesinin
-yaygınlaşması, yönetim için ortak bir kural dili sağlama ihtiyacıyla
-da açıklanır.
+Bir inanç çerçevesinin yaygınlaşması,
+yönetim için ortak bir kural dili sağlama ihtiyacıyla da açıklanır.[^k5]
 
 ## Konsil ve tanım
 
@@ -394,9 +382,8 @@ kabul edilen tanımlar bağlayıcı sayıldı.
 Tanım dışında kalan gruplar ayrıldı.[^k4] Ayrılan gruplar kendi
 kurumlarını kurdu.
 
-Atlas bu işlemi ayrıca kaydeder.[^k5] Bir inanç çerçevesinin
-tanımlanması, aynı anda o tanımın dışında kalanların da
-tanımlanmasıdır.
+Bir inanç çerçevesinin
+tanımlanması, aynı anda o tanımın dışında kalanların da tanımlanmasıdır.[^k5]
 
 ## Ayrılan grupların akıbeti
 
@@ -408,9 +395,8 @@ Bu, dinî ayrımın siyasi bir boyut kazanmasını sağladı.[^k3] Mezhep
 farkı, sınır ötesi bağlılık şüphesine
 dönüştü.
 
-Atlas bu dönüşümü ayrıca kaydeder.[^k1] Bir inanç ayrımının siyasi
-sonuç doğurması, ayrımın kendisinden çok tarafların onu nasıl
-okuduğuna bağlıdır.
+Bir inanç ayrımının siyasi sonuç
+doğurması, ayrımın kendisinden çok tarafların onu nasıl okuduğuna bağlıdır.[^k1]
 
 ## Manastır düzeni
 
@@ -420,9 +406,8 @@ kayıt merkezi hâline geldi.
 Yazılı metinlerin korunması büyük ölçüde bu kurumlara
 bağlıydı.[^k5] Kopyalama işi burada yürütüldü.
 
-Atlas bu bağı ayrıca kaydeder.[^k4] Bu dönemden bugüne ulaşan
-metinlerin çoğu, bu kurumların seçtiği ve kopyaladığı
-metinlerdir.
+Bu dönemden bugüne ulaşan metinlerin
+çoğu, bu kurumların seçtiği ve kopyaladığı metinlerdir.[^k4]
 
 ## Diğer bölgelerdeki eşzamanlı düzenler
 
@@ -433,9 +418,8 @@ etkilenmedi.
 Doğuda ve güneyde kentleşme ve ticaret sürdü.[^k5] Bazı bölgelerde bu
 yüzyıllar bir yükseliş dönemidir.
 
-Atlas bu dengeyi ayrıca kaydeder.[^k1] Bir bölgenin gerileme dönemi,
-başka bir bölgenin yükseliş dönemi
-olabilir.
+Bir bölgenin gerileme dönemi, başka bir
+bölgenin yükseliş dönemi olabilir.[^k1]
 
 ## Kaydın durumu
 
@@ -446,9 +430,8 @@ açıklanır.
 Azalma, olayların azaldığını göstermez.[^k5] Kaydın seyrekleşmesi
 dönemin kendisi hakkında bir bilgidir.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k4] Bir dönemin az kayıt bırakması,
-o dönemde az şey olduğunu değil kayıt kapasitesinin düştüğünü
-gösterir.
+Bir dönemin az kayıt bırakması, o dönemde az şey
+olduğunu değil kayıt kapasitesinin düştüğünü gösterir.[^k4]
 
 ## Arkeolojinin payı
 
@@ -459,11 +442,10 @@ kalıntıları başlıca kaynaklardır.
 Bu kanıt türü farklı sorulara cevap verir.[^k1] Tek tek olayları değil,
 uzun süreli eğilimleri gösterir.
 
-Atlas bu farkı ayrıca kaydeder.[^k4] Kanıt türü değiştiğinde, sorulabilecek
-soru da değişir.
+Kanıt türü değiştiğinde, sorulabilecek soru da
+değişir.[^k4]
 
-## Dönemi atlasta okumak
-
+## Dönemin bağlantıları
 Bu döneme bağlanan dosyalar dört öbekte toplanır.[^k1] İki büyük gücün
 aktör dosyaları, salgın ve göç olay dosyaları, dinî ve idari kavram
 dosyaları, dönemin veri dosyaları.
@@ -473,17 +455,16 @@ salgının yayılması, bir tanımın kabul edilmesi ve bir yerleşim
 yoğunluğunun düşmesi aynı dönemi dört ayrı düzeyde
 kaydeder.[^k2]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
 dosyasında ayrıntılı ele alınır ve burada yalnızca döneme
 bağlanır.
 
-Çöküş tartışması burada karara bağlanmaz.[^k5] Atlasın ayrı bir
+Çöküş tartışması burada karara bağlanmaz.[^k5] Korpusun ayrı bir
 tartışma dosyası bu soruyu ele alır.
 
 Sayısal seriler burada yorumlanır, üretilmez.[^k2] Serilerin
-kaynakları ve yöntemleri atlasın veri dosyalarında ayrı ayrı
+kaynakları ve yöntemleri bağlantılı veri incelemelerinde ayrı ayrı
 kayıtlıdır.[^k4]
 
 
@@ -495,9 +476,8 @@ daraldı, kamu yapıları başka amaçlarla kullanıldı.
 Küçülme her yerde aynı hızda olmadı.[^k5] Bazı kentler nüfusunu
 korudu, bazıları tümüyle terk edildi.
 
-Atlas bu dağılımı ayrıca kaydeder.[^k1] Bir bölgesel eğilim, o bölgedeki
-her yerleşim için geçerli değildir ve ortalama tek tek
-durumları gizler.
+Bir bölgesel eğilim, o bölgedeki
+her yerleşim için geçerli değildir ve ortalama tek tek durumları gizler.[^k1]
 
 ## Yapı malzemesinin değişmesi
 
@@ -508,8 +488,8 @@ Bu, yalnızca yoksullaşma olarak okunmaz.[^k4] Malzeme değişimi, uzun
 mesafeli tedarik ağının çözülmesiyle de
 açıklanır.
 
-Atlas iki açıklamayı ayrı tutar.[^k1] Aynı kanıt, kaynak yokluğuyla da
-tedarik ağının kesilmesiyle de uyumludur.
+Aynı kanıt, kaynak yokluğuyla da tedarik
+ağının kesilmesiyle de uyumludur.[^k1]
 
 ## Yol ağının durumu
 
@@ -519,9 +499,8 @@ gerektiriyordu.
 Yollar kullanılmaya devam etti.[^k3] Kullanım sürdü, standart
 düştü.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k5] Bir altyapının bakımsız kalması,
-ortadan kalkması anlamına gelmez; menzilini ve kapasitesini
-düşürür.
+Bir altyapının bakımsız kalması, ortadan kalkması
+anlamına gelmez; menzilini ve kapasitesini düşürür.[^k5]
 
 ## Hukukun derlenmesi
 
@@ -532,9 +511,8 @@ topladı.
 Derleme bir seçimdi.[^k5] Çelişen kararlar arasından biri
 seçiliyordu.
 
-Atlas bu işlemi ayrıca kaydeder.[^k1] Bir hukuk derlemesi, mevcut
-hukuku kaydetmekle kalmaz; hangisinin geçerli olduğuna da karar
-verir.
+Bir hukuk derlemesi, mevcut hukuku
+kaydetmekle kalmaz; hangisinin geçerli olduğuna da karar verir.[^k1]
 
 ## Derlemenin sonraki etkisi
 
@@ -544,9 +522,8 @@ Bu derleme sonraki yüzyıllarda yeniden keşfedildi.[^k5] Batıda hukuk
 Etki, derlendiği dönemden çok sonraki dönemlerde
 görüldü.[^k4] Aradaki aralık birkaç yüzyıldır.
 
-Atlas bu gecikmeyi ayrıca kaydeder.[^k1] Bir metnin etkisi,
-yazıldığı dönemde değil yeniden okunduğu dönemde
-ölçülür.
+Bir metnin etkisi, yazıldığı dönemde değil
+yeniden okunduğu dönemde ölçülür.[^k1]
 
 
 ## İpek ve tekel
@@ -559,9 +536,8 @@ konularındandı.
 azalttı.[^k5] Aktarımın nasıl gerçekleştiği anlatılarda
 efsaneleştirilmiştir.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k1] Bir tekniğin aktarımına dair
-anlatı, aktarımın gerçekleştiğini doğrular ama nasıl
-gerçekleştiğini göstermez.
+Bir tekniğin aktarımına dair anlatı, aktarımın
+gerçekleştiğini doğrular ama nasıl gerçekleştiğini göstermez.[^k1]
 
 ## Deniz yolunun payı
 
@@ -572,9 +548,8 @@ etkileniyordu.
 Bölgedeki liman kentleri bu ticaretten pay aldı.[^k5] Bazıları bu
 dönemde belirgin biçimde büyüdü.
 
-Atlas bu alternatifi ayrıca kaydeder.[^k1] Bir güzergâhın kesilmesi,
-ticareti durdurmaz; başka bir güzergâha kaydırır ve o güzergâhtaki
-aktarları güçlendirir.
+Bir güzergâhın kesilmesi, ticareti
+durdurmaz; başka bir güzergâha kaydırır ve o güzergâhtaki aktarları güçlendirir.[^k1]
 
 ## Aksum ve Güney Arabistan
 
@@ -585,9 +560,8 @@ oldu.
 Bölge, dinî ayrımların da kesiştiği bir alandı.[^k5] Bağlılıklar hem
 ticari hem inanç eksenlerinde kuruluyordu.
 
-Atlas bu kesişimi ayrıca kaydeder.[^k1] Küçük düzenlerin büyük güçler
-arasındaki konumu, iki eksende birden pazarlık imkânı
-sağlayabilir.
+Küçük düzenlerin büyük güçler arasındaki
+konumu, iki eksende birden pazarlık imkânı sağlayabilir.[^k1]
 
 ## Bozkırdan gelen baskı
 
@@ -599,9 +573,8 @@ Bu, dönemin en geniş kapsamlı bağlantısıdır.[^k5] Bozkırdaki bir
 değişim, binlerce kilometre ötede sonuç
 üretiyordu.
 
-Atlas bu bağı ayrıca kaydeder.[^k1] Yerleşik düzenlerin tarihini
-bozkırdaki hareketlerden ayrı okumak, ortak nedeni görünmez
-kılar.
+Yerleşik düzenlerin tarihini bozkırdaki
+hareketlerden ayrı okumak, ortak nedeni görünmez kılar.[^k1]
 
 ## Doğu Asya'daki bölünme
 
@@ -611,9 +584,8 @@ birçok hanedanlık kuruldu.
 Aynı yüzyıllarda batıda da benzer bir süreç işledi.[^k4] İki uçtaki
 çözülme birbirinden bağımsızdı.
 
-Atlas bu eş zamanlılığı ayrıca kaydeder.[^k1] Ortak bir neden aramak
-gerekir ama benzerlik tek başına ortak neden kanıtı
-değildir.
+Ortak bir neden aramak gerekir ama
+benzerlik tek başına ortak neden kanıtı değildir.[^k1]
 
 ## Yeniden birleşme
 
@@ -623,9 +595,8 @@ kuruldu ve büyük altyapı yatırımları yapıldı.
 Batıda benzer bir birleşme yaşanmadı.[^k4] İki uç, aynı süreçten
 farklı sonuçlarla çıktı.
 
-Atlas bu ayrışmayı ayrıca kaydeder.[^k1] Benzer bir çözülmeden
-farklı sonuçlar çıkması, sonucun çözülmenin kendisiyle değil
-zeminiyle belirlendiğini gösterir.
+Benzer bir çözülmeden farklı sonuçlar çıkması,
+sonucun çözülmenin kendisiyle değil zeminiyle belirlendiğini gösterir.[^k1]
 
 
 ## İklim kaydı
@@ -638,9 +609,8 @@ Bu kanıt türü yazılı kayıttan bağımsızdır.[^k4] Aynı yıllar için ya
 kaynaklarda da olağandışı hava anlatıları
 bulunur.
 
-Atlas bu yakınsamayı ayrıca kaydeder.[^k1] Birbirinden bağımsız iki
-kanıt türünün aynı yılı işaret etmesi, tek tek her ikisinden de güçlü
-bir bulgudur.
+Birbirinden bağımsız iki kanıt türünün
+aynı yılı işaret etmesi, tek tek her ikisinden de güçlü bir bulgudur.[^k1]
 
 ## İklim ile olay arasındaki bağ
 
@@ -650,9 +620,8 @@ kaybı, kıtlık ve göç arasındaki zincir savunulur.
 Zincirin her halkası ayrı ayrı gösterilmelidir.[^k4] Zaman olarak
 çakışma tek başına yeterli değildir.
 
-Atlas bu ihtiyatı ayrıca kaydeder.[^k1] Bir iklim olayıyla bir siyasi
-olayın aynı yıllara denk gelmesi, aralarındaki bağın
-kanıtı değildir.
+Bir iklim olayıyla bir siyasi olayın
+aynı yıllara denk gelmesi, aralarındaki bağın kanıtı değildir.[^k1]
 
 ## Yazının sürekliliği
 
@@ -664,9 +633,8 @@ Kesintinin olduğu yerlerde sonraki dönemler için bilgi büyük ölçüde
 arkeolojiye dayanır.[^k5] Bu, sorulabilecek soruları da
 sınırlar.
 
-Atlas bu bağı ayrıca kaydeder.[^k4] Bir bölge hakkında hangi soruların
-sorulabileceği, o bölgenin bıraktığı kanıt türüyle
-belirlenir.
+Bir bölge hakkında hangi soruların
+sorulabileceği, o bölgenin bıraktığı kanıt türüyle belirlenir.[^k4]
 
 
 ## Dönemin adlandırılması
@@ -674,8 +642,8 @@ belirlenir.
 Dönem için kullanılan adlar birbirinden çok farklıdır.[^k1] Bir kısmı
 çöküşü, bir kısmı geçişi öne çıkarır.
 
-Atlas geçiş adlandırmasını seçmiştir.[^k5] Gerekçe, göstergelerin
-karşıt yönlerde hareket etmesidir.
+Gerekçe, göstergelerin karşıt yönlerde
+hareket etmesidir.[^k5]
 
 Bu bir yorumdur ve mutlaklaştırılmaz.[^k4] Çöküş adlandırmasını
 seçenlerin dayandığı göstergeler de aynı dosyada

@@ -69,7 +69,7 @@ Metin, bu toprakları "henüz kendi kendini yönetemeyecek" durumda
 sayar.[^k1] Yönetim, gelişmiş sayılan devletlere bir emanet olarak
 verilir.
 
-Bu dosyanın asıl konusu metnin kendisidir.[^k2] Düzenin taşıdığı
+Bu incelemenin asıl konusu metnin kendisidir.[^k2] Düzenin taşıdığı
 hiyerarşi, örtük değil açıkça yazılıdır.
 
 ## Üç derece
@@ -95,14 +95,13 @@ Fiilî dağılım incelenebilir.[^k2] Birinci derece eski Osmanlı
 topraklarına, ikinci ve üçüncü derece Afrika ve Pasifik bölgelerine
 uygulandı.
 
-Atlas bu dağılımı ayrıca kaydeder.[^k3] Ölçüt yazılmamış olsa da,
-uygulamanın kendisi bir sıralama üretir ve o sıralama incelenebilir.
+Ölçüt yazılmamış olsa da, uygulamanın
+kendisi bir sıralama üretir ve o sıralama incelenebilir.[^k3]
 
 ## Belgenin seyrekliği
 
-Atlas için bu metnin değeri, hiyerarşiyi açıkça yazmasındadır.[^k1]
-Sömürge dönemi belgelerinin çoğu böyle bir sıralamayı gerekçe olarak
-kullanır ama metne dökmez.
+Sömürge dönemi belgelerinin çoğu
+böyle bir sıralamayı gerekçe olarak kullanır ama metne dökmez.[^k1]
 
 Burada sıralama metnin kendisindedir.[^k2] Hangi bölgenin hangi
 derecede olduğu, uluslararası bir antlaşmanın maddesinde
@@ -121,9 +120,8 @@ inceleniyordu.
 Yerel uygulamada değişen az oldu.[^k2] Yönetim aygıtı, vergi düzeni ve
 kolluk pratiği çoğu bölgede sürdü.
 
-Atlas iki düzeyi ayrı ayrı kaydeder.[^k3] Hukuki biçimin değişmesi ile
-yönetim pratiğinin değişmesi ayrı olgulardır ve biri ötekini
-gerektirmez.
+Hukuki biçimin değişmesi ile yönetim pratiğinin
+değişmesi ayrı olgulardır ve biri ötekini gerektirmez.[^k3]
 
 ## Raporlama ve dilekçe
 
@@ -133,9 +131,9 @@ tanıyordu.[^k1] Dilekçeler emanetçi üzerinden iletiliyordu.
 Bu, iki yönlü bir kısıttır.[^k2] Kanal vardı ama şikâyet edilen taraf,
 şikâyetin ulaştırıcısıydı.
 
-Atlas bu yapıyı ayrıca kaydeder.[^k3] Bir denetim mekanizmasının
+Bir denetim mekanizmasının
 varlığı, denetlenenin o mekanizma üzerindeki denetimiyle birlikte
-değerlendirilmelidir.
+değerlendirilmelidir.[^k3]
 
 ## Sona eriş
 
@@ -146,9 +144,8 @@ Devredilmeyen bölgeler de vardı.[^k1] Bir bölge, emanetçisi tarafından
 kendi toprağına katıldı ve bu, uzun süren bir hukuki uyuşmazlık
 doğurdu.
 
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k3] Geçici olduğu beyan edilen bir
-düzenin kalıcı hâle gelmesi, beyanın kendisiyle çelişir ve çelişki
-belgelenebilir.
+Geçici olduğu beyan edilen bir düzenin
+kalıcı hâle gelmesi, beyanın kendisiyle çelişir ve çelişki belgelenebilir.[^k3]
 
 ## Emanetçinin seçimi
 
@@ -159,8 +156,8 @@ etmiş devlete verildi.
 Bu, düzenin en çok eleştirilen yanıdır.[^k1] Emanet fikri, emanetçinin
 tarafsız olmasını gerektirir; burada emanetçi doğrudan ilgili taraftı.
 
-Atlas eleştiriyi kaydeder ve bir sonuca bağlanmaz.[^k3] Alternatif bir
-düzenlemenin uygulanabilir olup olmadığı ayrı bir sorudur.
+Alternatif bir düzenlemenin
+uygulanabilir olup olmadığı ayrı bir sorudur.[^k3]
 
 ## Sürenin belirsizliği
 
@@ -172,23 +169,21 @@ Belirsizlik, süreyi emanetçinin değerlendirmesine bırakır.[^k2] Bir
 düzenin ne zaman biteceğine, o düzenden yararlanan taraf karar
 verir.
 
-Atlas bu yapıyı ayrıca kaydeder.[^k3] Geçici olduğu beyan edilen bir
-düzenin süresi tanımlanmamışsa, geçicilik beyanı bağlayıcı değildir.
+Geçici olduğu beyan edilen bir düzenin
+süresi tanımlanmamışsa, geçicilik beyanı bağlayıcı değildir.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, düzenin niyeti hakkında hüküm vermez.[^k1] Metnin ne dediğini ve
 uygulamanın ne olduğunu ayrı ayrı kaydeder.
 
 Tek tek bölgelerin tarihi burada işlenmez.[^k2] Her biri ayrı dosya
-gerektirir ve bu dosya yazıldığında atlasta çoğu bulunmuyordu.
+gerektirir ve bu inceleme yazıldığında korpusta çoğu bulunmuyordu.
 
 Yeni örgütün kurduğu düzen ayrıntılandırılmaz.[^k3] Ayrı bir dosya
-gerektirir ve bu dosya yazıldığında atlasta bulunmuyordu; iki düzen
+gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu; iki düzen
 arasındaki farkların ölçülmesi ayrı bir çalışmadır.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Egemenliğin bir bölümünün devredildiği öteki düzen için
 [Himaye düzeni](/kavram/himaye-duzeni/) dosyası okunmalıdır; ikisi
 birlikte okunduğunda ara biçimlerin çeşitliliği görünür.[^k1]

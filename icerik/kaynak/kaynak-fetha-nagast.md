@@ -71,7 +71,7 @@ Birinci bölüm ibadet, ruhban düzeni ve kilise yönetimi
 konularındadır.[^k2] İkinci bölüm miras, borç, evlilik, mülkiyet ve
 ceza konularını kapsar.
 
-Bu dosyanın konusu metnin maddeleri değildir.[^k3] Bir düzenin temel
+Bu incelemenin konusu metnin maddeleri değildir.[^k3] Bir düzenin temel
 hukukunun nereden geldiğidir.
 
 ## Nerede derlendi
@@ -88,9 +88,9 @@ imparatorluğun temel hukuk kitabı hâline geldi.
 
 ## Çeviriyle gelen temel hukuk
 
-Atlas bu geçişi ayrıca kaydeder.[^k1] **Bir düzenin temel hukuku,
-o düzenin içinde üretilmemiş ve başka bir dilden çevrilmiş olabilir;
-yürürlükte olması, yerli olmasını gerektirmez.**
+**Bir düzenin temel hukuku, o düzenin
+içinde üretilmemiş ve başka bir dilden çevrilmiş olabilir; yürürlükte olması, yerli
+olmasını gerektirmez.**[^k1]
 
 Bu, Kâtib Çelebi dosyasında kaydedilen tercihin hukuk alanındaki
 karşılığıdır.[^k2] Kaynağın dışarıdan gelmesi, kullanımına engel
@@ -108,8 +108,8 @@ gelen derlemeler bir arada kullanılır.
 Bu, metnin katmanlı olduğu anlamına gelir.[^k1] Farklı maddeler farklı
 geleneklerin izini taşır.
 
-Atlas bu yüzden metne bütün olarak atıf yapmaz.[^k3] Hangi maddenin
-hangi katmandan geldiği, o maddenin nasıl okunacağını değiştirir.
+Hangi maddenin hangi katmandan geldiği, o
+maddenin nasıl okunacağını değiştirir.[^k3]
 
 ## Çevirinin tarihi
 
@@ -119,8 +119,8 @@ aktarım çeviriyi belirli bir hükümdarın dönemine bağlar.
 Bu tarih tartışmalıdır.[^k1] Çevirinin daha erken veya daha geç
 olduğunu savunan görüşler vardır.
 
-Atlas tarihi aralıkla verir.[^k3] Kesin tarih verilemediğinde aralık
-vermek, yanlış bir kesinlikten iyidir.
+Kesin tarih verilemediğinde aralık vermek,
+yanlış bir kesinlikten iyidir.[^k3]
 
 ## Yürürlük ne demek
 
@@ -130,9 +130,9 @@ dikkatle okunmalıdır.
 Yürürlük, her davada metne bakıldığı anlamına gelmez.[^k1] Yerel
 âdet hukuku çoğu anlaşmazlıkta fiilen belirleyiciydi.
 
-Atlas iki düzeyi ayırır.[^k3] Bu, atlasın belge tartışmasında kurulan
-kuralın buradaki uygulamasıdır: bir metnin resmî konumu ile fiilî
-uygulanma alanı ayrı iki veridir.
+Bu, korpusun belge tartışmasında kurulan kuralın
+buradaki uygulamasıdır: bir metnin resmî konumu ile fiilî uygulanma alanı ayrı iki
+veridir.[^k3]
 
 ## Hükümdarın bağlılığı
 
@@ -142,8 +142,8 @@ hükümdarın üstünde bir ölçü sunar.
 Bu iddia ile uygulama arasındaki fark kaydedilmelidir.[^k2] Metnin
 hükümdarı bağladığını söylemesi, bağladığını göstermez.
 
-Atlas bu ayrımı Magna Carta dosyasında da kaydetmişti.[^k3] Aynı
-örüntü, birbirinden bağımsız iki gelenekte görünür.
+Aynı örüntü, birbirinden bağımsız iki gelenekte
+görünür.[^k3]
 
 ## Ne zaman yürürlükten kalktı
 
@@ -153,9 +153,8 @@ kanun yürürlüğe girince temel hukuk kaynağı olmaktan çıktı.
 Değişim bir günde olmadı.[^k1] Yeni kanunlar kabul edildikten sonra da
 bazı konularda eski metne başvuruldu.
 
-Atlas bu geçişi ayrıca kaydeder.[^k3] Bir hukuk metninin yürürlükten
-kalkması, kabul edilen yeni bir metinle değil, başvurulmaz hâle
-gelmesiyle tamamlanır.
+Bir hukuk metninin yürürlükten kalkması,
+kabul edilen yeni bir metinle değil, başvurulmaz hâle gelmesiyle tamamlanır.[^k3]
 
 ## Dil ve erişim
 
@@ -165,8 +164,8 @@ konuşma dili değildi.
 Bu, erişimi sınırlar.[^k2] Metni okuyabilenler, dili öğrenmiş dar bir
 gruptu.
 
-Atlas bunu bir yetki sorunu olarak kaydeder.[^k3] Bağlayıcı bir metnin
-dili, kimin o metne dayanarak konuşabileceğini belirler.
+Bağlayıcı bir metnin dili, kimin o metne
+dayanarak konuşabileceğini belirler.[^k3]
 
 ## Sömürge dışında kalmanın izi
 
@@ -177,23 +176,21 @@ Kıtanın çoğunda temel hukuk sömürge yönetimleri tarafından
 getirildi.[^k1] Burada temel hukuk, yüzyıllar önce yapılmış bir
 tercihe dayanıyordu.
 
-Atlas iki durumu karşılaştırır.[^k3] İkisinde de hukuk dışarıdan
-gelmiştir; farkı, çevirinin kimin kararıyla yapıldığıdır.
+İkisinde de hukuk dışarıdan gelmiştir; farkı,
+çevirinin kimin kararıyla yapıldığıdır.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, metnin maddelerini çözümlemez.[^k1] Madde düzeyinde okuma ayrı
 bir çalışma gerektirir.
 
 Metnin köleliğe ilişkin hükümleri burada ele alınmaz.[^k2] Konu ayrı
-bir dosyayı hak eder ve bu dosyada geçiştirilmemelidir.
+bir dosyayı hak eder ve bu incelemede geçiştirilmemelidir.
 
 Doğrulanabilir bir tam metin künyelenememiştir.[^k3] Erişilebilir
 çevrimiçi nüshaların yükleyici bilgisi doğrulanamadığı için künyeye
 alınmamıştır; kısıt burada beyan edilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Metnin bağlı olduğu düzen için
 [Etiyopya İmparatorluğu](/aktor/etiyopya-imparatorlugu/) ve
 [Aksum Krallığı](/aktor/aksum-kralligi/) dosyaları okunmalıdır.[^k1]

@@ -54,7 +54,7 @@ onarim_turu: 0
 ---
 
 Kaynak *Nüfus İlkesi Üzerine Bir Deneme* için ayrı bir bölüm açar ve altında
-baskılar ve sürümler diye bir alt başlık tutar.[^k1] Bu dosya, kuramını değil
+baskılar ve sürümler diye bir alt başlık tutar.[^k1] Bu inceleme, kuramını değil
 **baskılar arasındaki farkı** ele alır.
 
 ## Birinci baskı sonrakilerden farklıdır
@@ -79,10 +79,10 @@ yükselttiği için gerçek ücretler düşer; aile geçindirmenin güçlükleri
 nüfus artış hızını azaltır ve düşen nüfus yeniden daha yüksek gerçek ücretlere yol
 açar.[^k1]
 
-Bir kuramın döngüsel olarak kurulması,[^k1] atlasın bunu bir öngörü değil bir
+Bir kuramın döngüsel olarak kurulması,[^k1] korpusun bunu bir öngörü değil bir
 model olarak kaydetmesini gerektirir.
 
-Modelin sonraki nüfus verileriyle ilişkisi için atlasın kavram katmanında ayrı bir
+Modelin sonraki nüfus verileriyle ilişkisi için korpusun kavram katmanında ayrı bir
 dosya vardır; o dosyanın adı yirminci yüzyılda ortaya çıkmış bir terimdir ve
 kullanılan kaynak bölümünde geçmediği için burada anılmaz.[^k1] Bağlantı, bu
 dosyanın üst verisindeki ilgili alanında tutulmaktadır.
@@ -94,16 +94,15 @@ gibi çeşitli düşünülebilir çözümlerin bulunduğunu yazar; ayrıca siyas
 üzerine Ricardo ile yürüttüğü tartışmaya bir bölüm ayırır.[^k1]
 
 Bir kuramın yanına karşı görüşlerin ve bir tartışma başlığının kaydedilmesi,[^k1]
-atlasın hakemlik etmeme ilkesinin kaynaklarda da uygulandığını gösterir.
+korpusun hakemlik etmeme ilkesinin kaynaklarda da uygulandığını gösterir.
 
 ## Dönemin nüfus serisi
 
 Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 1834'te yaklaşık
 1,19 milyardır.[^k3]
 
-Atlas bu seriyi kuramın doğrulanması ya da yanlışlanması olarak sunmaz; kuram
-tek bir ülkeyle sınırlı bir mekanizma önerirken seri dünya toplamını
-verir.[^k1][^k3] İki ölçünün kapsamı aynı değildir.
+İki ölçünün kapsamı aynı
+değildir.[^k1][^k3]
 
 ## Bir önceki kuşak
 
@@ -111,13 +110,12 @@ Bir önceki kuşağın iktisat yazarı için tutulan kayıt, onun ahlak kurallar
 belirli örneklere verilen tepkilerden oluştuğunu savunduğunu yazar.[^k2] O yazar
 [Adam Smith](/dusunur/smith/) dosyasında ele alınıyor.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Hayatı, Tahıl Yasaları üzerine yazıları, siyasal iktisat ilkeleri ve sonraki
 alımlanması burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
 bölümler olarak işler.[^k1]
 
 ## Eserine bağ
 
-Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Nufus Ilkesi Uzerine Deneme*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+Bu inceleme düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Nufus Ilkesi Uzerine Deneme*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
 verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

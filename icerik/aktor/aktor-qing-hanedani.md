@@ -50,7 +50,7 @@ onarim_turu: 0
 ---
 
 Qing, Çin'in Mançu önderliğindeki hanedanıdır ve 1644–1912 arasına
-tarihlenir.[^k1] Bu dosya, hanedanın **tanımındaki belirsizlikten** başlar.
+tarihlenir.[^k1] Bu inceleme, hanedanın **tanımındaki belirsizlikten** başlar.
 
 ## Başlangıç tarihi tartışmalıdır
 
@@ -62,7 +62,7 @@ söylemeyi âdet edinmiştir.[^k1]
 İki tarih arasındaki sekiz yıl teknik bir ayrıntı değildir: kaynağın kaydına göre
 1636 hanedanın başlangıcı, 1644 ise Mançuların Pekin'i ve kuzey Çin'i fethettiği
 tarihtir.[^k1] Hangisinin seçileceği,
-egemenliğin ilanla mı fetihle mi kurulduğu sorusuna verilen cevaba bağlıdır. Atlas
+egemenliğin ilanla mı fetihle mi kurulduğu sorusuna verilen cevaba bağlıdır. Korpus
 bu soruyu karara bağlamaz ve her iki tarihi de kaydeder.
 
 ## Çok halklı yapı
@@ -103,9 +103,8 @@ Uzun dönemli seride dünya nüfusu 1600'de yaklaşık 516,1 milyon, 1848'de yak
 1,27 milyardır.[^k3] Qing'in kendi nüfusuna dair bir ölçüm kullanılan kaynaklarda
 bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
-Kaynak Batı ile ticareti ayrı bir başlık altında ele alır;[^k1] bu dosya o
+## Kanıtın ve kapsamın sınırı
+Kaynak Batı ile ticareti ayrı bir başlık altında ele alır;[^k1] bu inceleme o
 başlığı kapsamaz. Hanedanın siyasi tarihi, sınav sistemi, imzalanan antlaşmalar
 ve hanedanın sona erişi de burada işlenmemiştir. Dönemin bütünü
 [1650–1789](/donem/10/) dosyasında ele alınıyor.

@@ -67,7 +67,7 @@ Takımada 1900'de ikiye bölündü ve iki ayrı devletin yönetimine
 girdi.[^k1] Bölünme adalarda değil, uzaktaki başkentlerde yürütülen
 görüşmelerde kararlaştırıldı.
 
-Bu dosyanın asıl konusu bölünmenin biçimidir.[^k2] Paylaşımın tarafları
+Bu incelemenin asıl konusu bölünmenin biçimidir.[^k2] Paylaşımın tarafları
 arasında bölünen halk bulunmuyordu.
 
 ## Üçlü rekabet
@@ -79,8 +79,8 @@ gemileri vardı.
 Üçü de yerel hükümdarlık mücadelesinde farklı adayları
 destekliyordu.[^k2] Destek, silah ve tanıma biçiminde veriliyordu.
 
-Atlas bu yapıyı ayrıca kaydeder.[^k1] Bir iç mücadeleye üç dış gücün
-üç farklı adayla girmesi, mücadeleyi iç bir mesele olmaktan çıkarır.
+Bir iç mücadeleye üç dış gücün üç farklı
+adayla girmesi, mücadeleyi iç bir mesele olmaktan çıkarır.[^k1]
 
 ## Yerel hükümdarlık sorunu
 
@@ -92,9 +92,9 @@ Bu yapı, dışarıdan bakan için tek bir muhatap üretmiyordu.[^k1] Yabancı
 konsoloslar, tanıyacakları tek bir kral arıyordu ve yapı buna uygun
 değildi.
 
-Atlas bu uyumsuzluğu ayrıca kaydeder.[^k2] Dış tanıma, tanınacak
-tarafın belirli bir biçimde örgütlenmiş olmasını gerektirir; bu biçimi
-taşımayan düzenler kendi yapılarını değiştirmeye zorlanır.
+Dış tanıma, tanınacak tarafın belirli bir biçimde
+örgütlenmiş olmasını gerektirir; bu biçimi taşımayan düzenler kendi yapılarını
+değiştirmeye zorlanır.[^k2]
 
 ## Zorlamanın sonucu
 
@@ -118,9 +118,9 @@ Yerel yönetimin bu kişiler üzerinde yetkisi yoktu.[^k2] Bir yabancının
 karıştığı uyuşmazlık, yerel mahkemede değil ilgili konsoloslukta
 görülüyordu.
 
-Atlas bu düzeni ayrıca kaydeder.[^k1] Yargı yetkisinin uyrukluğa göre
-bölünmesi, egemenliğin toprakta değil kişide tanımlandığı bir düzen
-üretir ve bu, yerel yönetimi baştan sınırlar.
+Yargı yetkisinin uyrukluğa göre bölünmesi,
+egemenliğin toprakta değil kişide tanımlandığı bir düzen üretir ve bu, yerel yönetimi
+baştan sınırlar.[^k1]
 
 ## Yargı bölünmesinin sonucu
 
@@ -132,16 +132,15 @@ Bu belirsizlik, satın alan taraf için bir avantajdı.[^k1] Uyuşmazlık
 kendi devletinin mahkemesinde görüldüğü sürece, sonucun yönü büyük
 ölçüde belliydi.
 
-Atlas mekanizmayı ayrıca yazar.[^k2] Bir hukuki belirsizlik, taraflardan
-birine sistematik olarak yarıyorsa, o belirsizlik bir kusur değil bir
-düzenlemedir.
+Bir hukuki belirsizlik, taraflardan
+birine sistematik olarak yarıyorsa, o belirsizlik bir kusur değil bir düzenlemedir.[^k2]
 
 ## Silah ticareti
 
 Üç gücün desteklediği rakip adaylar, silahı destekçilerinden
 alıyordu.[^k1] Silah akışı, iç mücadelenin ölçeğini doğrudan büyüttü.
 
-Aynı mekanizma atlasın Batı Afrika dosyalarında da ölçülmüştü.[^k2] Dış
+Aynı mekanizma korpusun Batı Afrika dosyalarında da ölçülmüştü.[^k2] Dış
 kaynaklı silah, bir iç mücadeleyi hem uzatır hem şiddetlendirir.
 
 Fark, buradaki üçlü yapıdadır.[^k1] Tek bir dış tedarikçi olduğunda
@@ -156,8 +155,8 @@ Kayıplar iki tarafta da ağırdı ve gemilerin çoğu kurtarılamadı.
 Olay, gerilimi geçici olarak durdurdu.[^k1] Aynı yıl üç güç bir
 konferansta bir araya geldi.
 
-Atlas olayı bir dönüm noktası saymaz.[^k2] Konferans zaten
-hazırlanıyordu; fırtına takvimi hızlandırdı, yönü değiştirmedi.
+Konferans zaten hazırlanıyordu; fırtına
+takvimi hızlandırdı, yönü değiştirmedi.[^k2]
 
 ## 1889 düzenlemesi
 
@@ -167,8 +166,8 @@ bağımsız ilan edildi ve üç güç ortak denetim üstlendi.
 Düzen on yıl sürdü ve işlemedi.[^k2] Üç tarafın da farklı adayları ve
 farklı çıkarları vardı; ortak yönetim bunları birleştirmedi.
 
-Atlas bu başarısızlığı ayrıca kaydeder.[^k1] Ortak yönetim, taraflar
-arasındaki anlaşmazlığı çözmez; onu yönetim aygıtının içine taşır.
+Ortak yönetim, taraflar arasındaki anlaşmazlığı
+çözmez; onu yönetim aygıtının içine taşır.[^k1]
 
 ## 1899 paylaşımı
 
@@ -179,7 +178,7 @@ başka bölgelerde karşılık aldı.
 Anlaşma, üç dış gücün kendi aralarında yaptığı bir mübadeleydi.[^k2]
 Adaların halkı anlaşmanın tarafı değildi.
 
-Bu, atlasın Berlin Konferansı dosyasında kaydettiği yapının aynısıdır.[^k1]
+Bu, korpusun Berlin Konferansı dosyasında kaydettiği yapının aynısıdır.[^k1]
 Bir bölgenin bölünmesi, o bölgede yaşayanların katılmadığı bir masada
 kararlaştırılabilir.
 
@@ -192,8 +191,8 @@ Bu, bölgenin bir pazarlık kalemi olarak işlem gördüğünü gösterir.[^k2]
 Değer, adaların kendi özelliklerinden değil pazarlıktaki konumundan
 geliyordu.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k1] Bir bölgenin paylaşımda hangi
-tarafa düştüğü, çoğu zaman o bölgeyle ilgili olmayan hesaplara bağlıdır.
+Bir bölgenin paylaşımda hangi tarafa düştüğü, çoğu
+zaman o bölgeyle ilgili olmayan hesaplara bağlıdır.[^k1]
 
 ## Bölünmenin kalıcılığı
 
@@ -205,8 +204,8 @@ Aynı dili konuşan ve aynı akrabalık ağlarını paylaşan nüfus, yüzyılı
 aşkın süredir iki ayrı siyasi düzende yaşamaktadır.[^k2] Ayrım,
 1899'daki masadan gelir.
 
-Atlas bu sürekliliği ayrıca kaydeder.[^k1] Bir paylaşım masası, kısa
-ömürlü bir anlaşma üretse bile kalıcı bir sınır bırakabilir.
+Bir paylaşım masası, kısa ömürlü bir anlaşma
+üretse bile kalıcı bir sınır bırakabilir.[^k1]
 
 ## Plantasyon ekonomisi
 
@@ -216,20 +215,19 @@ kuruldu.[^k2] Toprak satın alımları, yabancı şirketler eliyle yürüdü.
 Satışların geçerliliği tartışmalıydı.[^k1] Toprak akrabalık gruplarına
 aitti ve bireysel satış yetkisi belirsizdi.
 
-Bu, atlasın Fiji dosyasında ölçtüğü sorunun aynısıdır.[^k2] Toprağın
+Bu, korpusun Fiji dosyasında ölçtüğü sorunun aynısıdır.[^k2] Toprağın
 devredilebilir sayılması, yabancı sermayenin ve nüfusun yerleşmesinin
 ilk halkasıdır.
 
 ## Okyanusya'da dördüncü ölçüm
 
-Atlasın Okyanusya dosyalarında artık dört örnek vardır.[^k3] Tonga
-toprağı kapattı ve bağımsız kaldı; Hawai, Fiji ve Samoa toprağı açtı ve
-üçü de egemenliğini kaybetti.
+Tonga toprağı kapattı ve bağımsız kaldı;
+Hawai, Fiji ve Samoa toprağı açtı ve üçü de egemenliğini kaybetti.[^k3]
 
 Dört örnek aynı yöne işaret eder.[^k1] Toprağın devredilebilirliği,
 sonucu belirleyen ilk halkadır.
 
-Dört örnek yine de bir kural kurmaz.[^k2] Atlas bunu ölçülmüş bir eğilim
+Dört örnek yine de bir kural kurmaz.[^k2] Korpus bunu ölçülmüş bir eğilim
 olarak kaydeder ve karşı örnek aranması gerektiğini yazar.
 
 ## İşçi göçü
@@ -240,8 +238,8 @@ adalardan ve Doğu Asya'dan geldi.
 Göç, Fiji'dekinden küçük ölçekliydi.[^k1] Nüfus bileşimi kalıcı olarak
 değişmedi.
 
-Atlas farkı ayrıca kaydeder.[^k2] Aynı ekonomik biçim, ölçeğe bağlı
-olarak farklı demografik sonuçlar üretir.
+Aynı ekonomik biçim, ölçeğe bağlı olarak farklı
+demografik sonuçlar üretir.[^k2]
 
 ## Alman ve Amerikan yönetimleri
 
@@ -252,9 +250,8 @@ oluşturdu.
 İki yönetim de yerel şeflik yapısını korudu.[^k2] Yerel yönetimi mevcut
 hiyerarşi üzerinden yürütmek, maliyeti düşüren yaygın bir tercihti.
 
-Atlas bu tercihi başka bölgelerde de ölçmüştür.[^k1] Mevcut hiyerarşiyi
-kaldırmak yerine ona bağlanmak, atlasın en sık gördüğü yönetim
-yöntemidir.
+Mevcut hiyerarşiyi kaldırmak yerine
+ona bağlanmak, korpusun en sık gördüğü yönetim yöntemidir.[^k1]
 
 ## Birinci Dünya Savaşı'nın etkisi
 
@@ -264,8 +261,8 @@ Geçiş askerî bir harekâtla oldu ve direnç görülmedi.
 Adalar sonrasında manda yönetimine bağlandı.[^k2] Hukuki biçim değişti,
 yönetim eden taraf değişmedi.
 
-Atlas bu ayrımı ayrıca yazar.[^k1] Bir toprağın hukuki statüsünün
-değişmesi, oradaki yönetim pratiğinin değiştiği anlamına gelmez.
+Bir toprağın hukuki statüsünün değişmesi, oradaki
+yönetim pratiğinin değiştiği anlamına gelmez.[^k1]
 
 ## Direniş
 
@@ -277,15 +274,15 @@ Yönetim harekete sert karşılık verdi.[^k2] Önderler sürgüne gönderildi
 ve bir gösteride ateş açıldı.
 
 Dosya bu dönemi ayrıntılandırmaz.[^k1] Ayrı bir dosya gerektirir ve bu
-dosya yazıldığında atlasta bulunmuyordu.
+dosya yazıldığında korpusta bulunmuyordu.
 
 ## Kaynak durumu
 
-Bu dosyanın üç künyesinden biri giriş kapısı, biri dönem tanıklığı, biri
+Bu incelemenin üç künyesinden biri giriş kapısı, biri dönem tanıklığı, biri
 karşılaştırma belgesidir.[^k2] 1899 paylaşım anlaşmasının metni
 künyelenememiştir.
 
-Anlaşmanın doğrulanabilir çevrimiçi bir baskısı bu dosya yazıldığında
+Anlaşmanın doğrulanabilir çevrimiçi bir baskısı bu inceleme yazıldığında
 bulunamamıştır.[^k1] Eksik borç defterine yazılmıştır.
 
 Adalıların kendi kayıtları da künyelenememiştir.[^k3] Dosyanın tamamı
@@ -295,16 +292,15 @@ edilir.
 ## Kapsam dışı
 
 Yerel unvan sisteminin ayrıntısı burada işlenmez.[^k2] Ayrı bir çalışma
-gerektirir ve bu dosya yazıldığında atlasta bulunmuyordu.
+gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu.
 
 İç savaşların askerî ayrıntısı kapsam dışıdır.[^k1] Dosya yalnızca
 paylaşımın biçimine ilişkin olanı kaydeder.
 
-Yirminci yüzyıl ve sonrası işlenmez.[^k3] Atlas yaşayan siyasi durumlar
+Yirminci yüzyıl ve sonrası işlenmez.[^k3] Korpus yaşayan siyasi durumlar
 hakkında değerlendirme yapmaz.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, üç gücün baştan bölme niyeti taşıdığını ileri sürmez.[^k1] On
 yıllık ortak yönetim denemesi bunun tersini de düşündürür.
 
@@ -314,8 +310,7 @@ rekabet ve plantasyon çıkarları ayrı ayrı etkendir.
 Dört Okyanusya örneğinden kural çıkarılmaz.[^k3] Toprak
 devredilebilirliği izlenebilir en doğrudan fark olarak kaydedilir.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Aynı okyanustan karşılaştırma dosyaları için
 [Tonga Krallığı](/aktor/tonga-kralligi/),
 [Fiji Krallığı](/aktor/fiji-kralligi/) ve

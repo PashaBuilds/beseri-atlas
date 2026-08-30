@@ -15,8 +15,9 @@ eksen: [siyasi, askeri, ekonomik]
 guven_geneli: yaygin
 etiketler: [truman-doktrini, soguk-savas, cevreleme, yunanistan, turkiye, dis-yardim, "1947"]
 ilgili:
-  - donem-14
   - tartisma-soguk-savasin-baslangici
+baglam:
+  - donem-14
   - aktor-abd
   - aktor-sovyetler-birligi
   - aktor-nato

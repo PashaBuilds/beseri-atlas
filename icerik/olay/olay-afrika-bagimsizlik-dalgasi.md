@@ -51,7 +51,7 @@ onarim_turu: 0
 ---
 
 Kaynak bir bağımsızlık çizelgesi tutar: 1 Ocak 1956, 2 ve 20 Mart 1956, 6 Mart
-1957, 2 Ekim 1958 ve 1960 yılı boyunca sıralanan tarihler.[^k1] Bu dosya,
+1957, 2 Ekim 1958 ve 1960 yılı boyunca sıralanan tarihler.[^k1] Bu inceleme,
 çizelgenin **satır başına birden çok tarih taşıyan yerlerini** ele alır.
 
 ## Bir satırda altı tarih
@@ -63,7 +63,7 @@ ayrı ayrı sayılır.[^k1]
 
 Bir ülkenin bağımsızlığının yirmi yıla yayılmış altı tarihle kaydedilmesi,[^k1]
 "bağımsızlık yılı" alanının bütün ülkeler için doldurulabilir olmadığını gösterir;
-bu, atlasın kesin tarih alanlarına neden temkinle yaklaştığının bir örneğidir.
+bu, korpusun kesin tarih alanlarına neden temkinle yaklaştığının bir örneğidir.
 
 ## Kamerun satırında sömürgeci de değişir
 
@@ -119,8 +119,7 @@ yaklaşık 4,14 milyardır.[^k3] Bağımsızlık kazanan ülkelerin toplam nüfu
 bir ölçüm kullanılan kaynak bölümünde bulunmadığı için bu değerler içindeki pay
 burada hesaplanmamıştır.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Ülke ülke bağımsızlık süreçleri, savaşlar, sonraki iç çatışmalar ve iktisadi
 sonuçlar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
 bölümler olarak işler.[^k1] Dönemin bütünü [1945-1991](/donem/14/) dosyasında ele

@@ -59,7 +59,7 @@ Sistem birden çok gösterge kullanır ve hiçbirine tek başına
 güvenmez.[^k1] Yıldızların doğuş ve batış noktaları, hâkim dalga yönleri,
 bulut biçimleri, kuş uçuş rotaları ve suyun rengi birlikte okunur.
 
-Dosyanın atlas açısından ayırt edici yanı, bilginin nereye
+Dosyanın korpus açısından ayırt edici yanı, bilginin nereye
 yüklendiğidir.[^k2] Burada bilgi bir alete değil, eğitilmiş bir belleğe ve
 gözleme yüklenmiştir.
 
@@ -98,9 +98,8 @@ değildir, yön göstermez ve yolculuk sırasında bakılmaz.
 Gösterdiği şey adaların yeri değil, dalgaların adalar çevresinde nasıl
 davrandığıdır.[^k2] Yani coğrafyayı değil bir olguyu kaydeder.
 
-Atlas bu ayrımı kaydeder çünkü kayıt biçimleri hakkındaki genel gözlemini
-sürdürür.[^k1] Bir nesne, bilgiyi taşıyabilir ama taşıdığı bilgi kullanım
-anında değil öğrenme anında işe yarayabilir.
+Bir nesne, bilgiyi taşıyabilir ama taşıdığı bilgi
+kullanım anında değil öğrenme anında işe yarayabilir.[^k1]
 
 ## Belleğe yüklenmiş sistem
 
@@ -108,7 +107,7 @@ Sistemin bütünü, bir kişinin belleğinde tutulur ve sözlü olarak
 aktarılır.[^k1] Aktarım uzun bir eğitim süreci gerektirir ve belirli
 ailelerde ya da gruplarda yürütülür.
 
-Bu, atlasın [Kipu](/kavram/kipu/) ve şarkı yolları dosyalarında kaydedilen
+Bu, korpusun [Kipu](/kavram/kipu/) ve şarkı yolları dosyalarında kaydedilen
 yapının bir başka örneğidir.[^k2] Bilgi bir taşıyıcıya bağlıdır; taşıyıcı
 burada bir nesne ya da arazi değil, eğitilmiş bir kişidir.
 
@@ -121,17 +120,17 @@ Yöntem yirminci yüzyılın ortasında büyük ölçüde kullanımdan
 kalkmıştı.[^k1] Sonraki on yıllarda, hâlâ bilen az sayıda kişiden
 öğrenilerek yeniden canlandırıldı.
 
-Bu, atlasın kayıt sistemleri dosyalarında seyrek görülen bir durumdur.[^k2]
+Bu, korpusun kayıt sistemleri dosyalarında seyrek görülen bir durumdur.[^k2]
 Kipu ve benzeri sistemlerde zincir kırıldığında geri dönüş olmamıştır;
 burada zincir tam kopmadan yakalanmıştır.
 
-Atlas bu farkı kaydeder.[^k1] Bir bilgi sisteminin kurtarılabilmesi,
-kaybın hangi aşamada fark edildiğine bağlıdır; nesneler kalıcıdır ama
-onları okuyacak bilgi kalıcı değildir.
+Bir bilgi sisteminin kurtarılabilmesi, kaybın hangi
+aşamada fark edildiğine bağlıdır; nesneler kalıcıdır ama onları okuyacak bilgi kalıcı
+değildir.[^k1]
 
 ## Sınanabilirlik
 
-Yöntemin işleyip işlemediği, atlasın öteki kayıt sistemi dosyalarından farklı
+Yöntemin işleyip işlemediği, korpusun öteki kayıt sistemi dosyalarından farklı
 olarak doğrudan sınanabilir.[^k1] Aletsiz yapılan uzun mesafe
 yolculukları, yöntemin bugün de sonuç verdiğini göstermiştir.
 
@@ -144,20 +143,18 @@ sürüklenmeyle mi gerçekleştiği uzun süre tartışılmıştır; aletsiz sey
 bugün sınanabilir olması birinci okumayı güçlendirir ama tek başına
 kanıtlamaz.]{harita=tartisma-sozlu-gelenek-kaynak-mi}
 
-## Atlastaki yeri ve sınırı
-
-Bu dosya, atlasın Okyanusya bölgesindeki dördüncü dosyasıdır.[^k1] Bölge
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, atlasın Okyanusya bölgesindeki dördüncü dosyasıdır.[^k1] Bölge
 üç tur önce şemaya eklendi ve hâlâ eksiktir.
 
 Dosyanın kapsamadıkları belirtilmelidir.[^k2] Tek tek ada gruplarının
 yöntem farkları, tekne biçimleri ve mevsimlik seyir takvimleri burada
 işlenmez; her biri ayrı dosya gerektirir.
 
-Yöntemin bugünkü canlandırma çalışmaları da kapsam dışıdır.[^k1] Bu dosya
+Yöntemin bugünkü canlandırma çalışmaları da kapsam dışıdır.[^k1] Bu inceleme
 tekniğin kendisini kaydeder; kurumsal tarihini değil.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Yöntemin mümkün kıldığı yerleşim için
 [Avustronezya yayılması](/kavram/avustronezya-yayilmasi/), o yerleşimin güney
 ucundaki toplum için [Maori](/aktor/maori/) dosyaları okunmalıdır.[^k1]

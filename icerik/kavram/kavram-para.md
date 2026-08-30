@@ -49,8 +49,8 @@ Kaynak, işlevler başlığı altında dört alt başlık tutar: değişim arac�
 
 ## Para bir işlev demetidir
 
-Bir nesnenin dört ayrı işlevle tanımlanması,[^k1] atlasın şu kuralının
-dayanağıdır: bu dosyada para, hangi işlevinin kastedildiği belirtilmeden bir
+Bir nesnenin dört ayrı işlevle tanımlanması,[^k1] korpusun şu kuralının
+dayanağıdır: bu incelemede para, hangi işlevinin kastedildiği belirtilmeden bir
 iddianın öznesi yapılmaz. Bir nesne bu işlevlerden bazılarını yerine getirip
 bazılarını getirmeyebilir.
 
@@ -94,9 +94,8 @@ saklama.
 hesap birimi ile fiilen dolaşan nesne
 farklıdır.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Bir toplumun para düzeni,
-üç işlevin hangi nesnelerde toplandığına bakılarak
-tanımlanır.
+Bir toplumun para düzeni, üç işlevin hangi nesnelerde
+toplandığına bakılarak tanımlanır.[^k3]
 
 ## Sikkenin işlevi
 
@@ -107,9 +106,8 @@ bildirir.
 Bu, işlem maliyetini düşürür.[^k2] Ticaretin menzilini değil hızını
 artırır.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Bir para biriminin ortaya
-çıkışı bir teknik yenilik değil bir güven
-düzenlemesidir.
+Bir para biriminin ortaya çıkışı bir teknik yenilik
+değil bir güven düzenlemesidir.[^k3]
 
 ## Ayar ve güven
 
@@ -120,9 +118,8 @@ sağlar.
 Uzun vadede sikkenin kabul gördüğü alanı
 daraltır.[^k2] Tüccarlar tartmaya geri döner.
 
-Atlas bu değiş tokuşu ayrıca kaydeder.[^k3] Bir para biriminin
-menzili, onu basan merkezin güvenilirliğinin
-ölçüsüdür.
+Bir para biriminin menzili, onu basan
+merkezin güvenilirliğinin ölçüsüdür.[^k3]
 
 ## Buluntunun anlamı
 
@@ -132,9 +129,8 @@ olduğunu göstermez.[^k1] Ticari bağlantıyı gösterir.
 İki olgu sık karıştırılır.[^k2] Siyasi denetim ile ticari dolaşım ayrı
 ayrı kanıtlanmalıdır.
 
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Buluntu dağılımı, siyasi
-haritanın değil ticaret ağının
-kaydıdır.
+Buluntu dağılımı, siyasi haritanın değil ticaret
+ağının kaydıdır.[^k3]
 
 ## Parasız düzenler
 
@@ -146,9 +142,8 @@ Bu düzenlerde hesap birimi vardı ama dolaşan nesne
 yoktu.[^k2] Ödeme, defterdeki bir kayıtla
 yapılıyordu.
 
-Atlas bu biçimi ayrıca kaydeder.[^k3] Paranın yokluğu, ekonominin
-basitliğini göstermez; kaydın parayı gereksiz kıldığını
-gösterebilir.
+Paranın yokluğu, ekonominin basitliğini
+göstermez; kaydın parayı gereksiz kıldığını gösterebilir.[^k3]
 
 ## Kâğıt para
 
@@ -159,9 +154,8 @@ gelir.
 Bu, merkezî bir güvence gerektirir.[^k2] Güvence zayıfladığında
 kabul de sona erer.
 
-Atlas bu bağı ayrıca kaydeder.[^k3] Bir aracın taşınabilir olması, onu
-mümkün kılan kurumsal güvencenin de taşınabilir olduğunu
-göstermez.
+Bir aracın taşınabilir olması, onu
+mümkün kılan kurumsal güvencenin de taşınabilir olduğunu göstermez.[^k3]
 
 ## Enflasyonun kaydı
 
@@ -172,9 +166,8 @@ karşılaştırılabilir.
 Karşılaştırma dikkat ister.[^k2] Malın kalitesi, ölçü birimi ve
 bölge aynı olmalıdır.
 
-Atlas bu koşulu ayrıca kaydeder.[^k3] Bir fiyat serisinin
-karşılaştırılabilir olması, ölçülen malın sabit kalmasına
-bağlıdır.
+Bir fiyat serisinin karşılaştırılabilir
+olması, ölçülen malın sabit kalmasına bağlıdır.[^k3]
 
 ## Paranın siyasi yanı
 
@@ -185,9 +178,8 @@ bildirir.
 Bu, sikkeyi bir iletişim aracı hâline
 getirir.[^k2] Okuma bilmeyen bir nüfusa bile ulaşır.
 
-Atlas bu işlevi ayrıca kaydeder.[^k3] Bir sikkenin üzerindeki değişim,
-çoğu zaman bir iktidar değişiminin en hızlı yayılan
-duyurusudur.
+Bir sikkenin üzerindeki değişim, çoğu zaman bir
+iktidar değişiminin en hızlı yayılan duyurusudur.[^k3]
 
 
 ## Kredinin önceliği
@@ -200,11 +192,9 @@ Bu, paranın takasın yerini aldığı anlatısını
 zayıflatır.[^k2] Ara aşama takas değil kayıtlı borç
 olabilir.
 
-Atlas bu tartışmayı ayrıca kaydeder.[^k3] Bir kurumun kökeni
-hakkındaki yaygın anlatı, en erken kayıtlarla her zaman
-uyuşmaz.
+Bir kurumun kökeni hakkındaki yaygın anlatı, en erken
+kayıtlarla her zaman uyuşmaz.[^k3]
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Paranın tarihi, özellikleri ve türlerin ayrıntısı burada ayrı başlıklar altında
 ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]

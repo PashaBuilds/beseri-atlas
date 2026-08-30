@@ -57,25 +57,25 @@ onarim_turu: 0
 
 Zulu Krallığı, on dokuzuncu yüzyıl başında Güney Afrika'nın doğu
 kesiminde kurulan ve yüzyıl sonunda ortadan kaldırılan devlettir.[^k1]
-Kuruluşu, atlasın ayrı bir dosyada kaydettiği büyük altüst oluş
+Kuruluşu, korpusun ayrı bir dosyada kaydettiği büyük altüst oluş
 dönemiyle aynı yıllardadır.
 
 Krallık, yaş gruplarına dayanan sürekli birliklerle örgütlenmiş bir
 orduya sahipti.[^k2] Bu örgütlenme, bölgedeki askerî dengeyi
 değiştirdi ve kuruluş döneminin en çok anılan özelliği oldu.
 
-Bu dosyanın asıl konusu 1879'daki savaştır.[^k1] Krallık, bir Avrupa
+Bu incelemenin asıl konusu 1879'daki savaştır.[^k1] Krallık, bir Avrupa
 ordusunu ağır bir yenilgiye uğrattı ve altı ay içinde ilhak edildi.
 
 ## Adva ile karşılaştırma
 
-Atlas benzer bir olayı on yedi yıl sonrası için künyelemiştir.[^k3]
-Orada da bir Afrika devleti bir Avrupa ordusunu yendi.
+Orada da bir Afrika devleti bir Avrupa
+ordusunu yendi.[^k3]
 
 Sonuçlar zıttır.[^k1] Orada zafer tanınmış bağımsızlığa dönüştü; burada
 zaferden altı ay sonra krallık ortadan kalktı.
 
-Bu dosyanın sorusu farkın nereden geldiğidir.[^k2] Aynı tür bir askerî
+Bu incelemenin sorusu farkın nereden geldiğidir.[^k2] Aynı tür bir askerî
 sonuç, iki bambaşka siyasi sonuç üretti.
 
 ## Birinci fark: silah tedariki
@@ -114,7 +114,7 @@ bağlıdır.**
 
 ## Ölçümün genelleştirilmesi
 
-İfade, atlasın öteki dosyalarında ölçülen mekanizmalarla
+İfade, korpusun öteki dosyalarında ölçülen mekanizmalarla
 uyumludur.[^k3] Karluklar dosyasında sınır bölgelerindeki küçük
 birimlerin pazarlık kapasitesinin komşu sayısına bağlı olduğu
 kaydedilmişti.
@@ -122,8 +122,8 @@ kaydedilmişti.
 Aynı yapı burada askerî sonuç için görülür.[^k1] Tek bir karşı tarafla
 karşı karşıya kalmak, kazanılan her muharebeyi geçici kılar.
 
-Atlas iki ölçümü birbirine bağlar.[^k2] Alternatif sayısı, hem barış
-zamanında hem savaş sonrasında belirleyici bir değişkendir.
+Alternatif sayısı, hem barış zamanında
+hem savaş sonrasında belirleyici bir değişkendir.[^k2]
 
 ## Dördüncü fark: iç bölünme
 
@@ -145,8 +145,8 @@ birlik savaştan önce sağlanmış, burada sağlanamamıştı.
 Bu, dış tehdidin otomatik olarak birleştirmediğini gösterir.[^k2] Ortak
 düşman, iç rekabeti kendiliğinden askıya almaz.
 
-Atlas bu gözlemi ayrıca kaydeder.[^k3] Dış tehdidin birleştirici etkisi
-bir varsayımdır ve her örnekte ayrıca sınanmalıdır.
+Dış tehdidin birleştirici etkisi bir
+varsayımdır ve her örnekte ayrıca sınanmalıdır.[^k3]
 
 ## Sınırın kendisi
 
@@ -157,8 +157,8 @@ uyuşmazlıklar yaşanıyordu.
 Bu uyuşmazlıklar, ültimatomun gerekçe bölümünü oluşturdu.[^k1] Sınır
 olayları, savaş kararının nedeni değil sunumuydu.
 
-Atlas iki düzeyi ayrı tutar.[^k3] Bir savaşın gerekçesi ile nedeni ayrı
-iki şeydir ve gerekçe çoğu zaman nedenden sonra seçilir.
+Bir savaşın gerekçesi ile nedeni ayrı iki şeydir ve
+gerekçe çoğu zaman nedenden sonra seçilir.[^k3]
 
 ## Elmas ve altının rolü
 
@@ -169,9 +169,9 @@ Madencilik, sürekli ve kalabalık bir emek gücü gerektiriyordu.[^k1]
 Krallığın askerî örgütlenmesi, genç erkekleri uzun süre seferber
 tutuyordu ve bu iki talep doğrudan çelişiyordu.
 
-Atlas bu çelişkiyi ayrıca kaydeder.[^k3] Ültimatomun askerî
-örgütlenmenin dağıtılmasını istemesi, yalnızca güvenlik değil emek
-arzıyla da ilgili okunabilir; iki okuma birbirini dışlamaz.
+Ültimatomun askerî örgütlenmenin
+dağıtılmasını istemesi, yalnızca güvenlik değil emek arzıyla da ilgili okunabilir; iki
+okuma birbirini dışlamaz.[^k3]
 
 ## Savaşın nedeni
 
@@ -181,9 +181,8 @@ Savaş, bir ültimatomla başladı.[^k2] Ültimatom, krallığın askerî
 Talepler kabul edilemeyecek biçimde düzenlenmişti.[^k1] Kabul edilmesi
 hâlinde krallık zaten ortadan kalkmış olacaktı.
 
-Atlas bu yapıyı ayrıca kaydeder.[^k3] Reddedilmesi beklenen bir talep,
-savaş gerekçesi üretmenin bilinen yoludur ve ültimatomun içeriği bu
-işlevi gösterir.
+Reddedilmesi beklenen bir talep, savaş gerekçesi
+üretmenin bilinen yoludur ve ültimatomun içeriği bu işlevi gösterir.[^k3]
 
 ## İlk muharebe
 
@@ -194,7 +193,7 @@ en ağır kayıplardandır.
 Yenilgi, arazi ve istihbarat eksikliğinden kaynaklandı.[^k2] Ordunun
 konumu bilinmiyordu ve kamp savunmasız bırakılmıştı.
 
-Bu, atlasın Adva dosyasında ölçtüğü bilgi farkının aynısıdır.[^k3] Bir
+Bu, korpusun Adva dosyasında ölçtüğü bilgi farkının aynısıdır.[^k3] Bir
 tarafın öteki hakkındaki bilgisi, askerî sonucun ölçülebilir bir
 bileşenidir.
 
@@ -206,9 +205,9 @@ daha büyük bir kuvvetin gönderilmesini sağladı.
 Kamuoyu tepkisi, savaşı sonlandırmak yerine büyütme yönünde
 işledi.[^k2] Yenilgi bir gerekçe hâline geldi.
 
-Atlas bu mekanizmayı ayrıca kaydeder.[^k3] Bir yenilgi, kaybeden tarafın
-kapasitesi yüksekse geri çekilmeye değil tırmandırmaya yol açar; sonucu
-belirleyen ilk muharebe değil kapasite farkıdır.
+Bir yenilgi, kaybeden tarafın kapasitesi
+yüksekse geri çekilmeye değil tırmandırmaya yol açar; sonucu belirleyen ilk muharebe
+değil kapasite farkıdır.[^k3]
 
 ## Dört farkın toplanması
 
@@ -232,17 +231,16 @@ kurulmasını engellemekti.
 Sonuç, uzun süren iç çatışmalar oldu.[^k1] Bölgede istikrar, sonraki
 yirmi yıl boyunca kurulamadı.
 
-## Parçalamanın atlas için anlamı
+## Parçalamanın korpus için anlamı
 
-Bu, atlasın kaydettiği bir yönetim aracıdır.[^k3] Bir siyasi birimi
+Bu bir yönetim aracıdır.[^k3] Bir siyasi birimi
 ortadan kaldırmanın iki yolu vardır: yerine geçmek ya da parçalamak.
 
 Parçalama, doğrudan yönetim maliyetini üstlenmeden merkezî otoriteyi
 ortadan kaldırır.[^k2] Karşılığında bölgeyi istikrarsız bırakır.
 
-Atlas iki maliyeti ayrı ayrı kaydeder.[^k1] Parçalama ucuzdur ve
-sonrasında ortaya çıkan istikrarsızlığın maliyeti, parçalayan tarafa
-gecikmeli olarak döner.
+Parçalama ucuzdur ve sonrasında ortaya çıkan
+istikrarsızlığın maliyeti, parçalayan tarafa gecikmeli olarak döner.[^k1]
 
 ## Ordunun örgütlenmesi
 
@@ -252,7 +250,7 @@ oluşuyordu.[^k2] Birlikler akrabalık bağlarından bağımsız kuruluyordu.
 Bu, siyasi merkezileşmeyi doğrudan destekledi.[^k1] Merkez, yerel
 önderlere bağlı olmayan bir kuvvete sahip oldu.
 
-Aynı mekanizma atlasın Mfecane dosyasında da kaydedilmiştir.[^k3]
+Aynı mekanizma korpusun Mfecane dosyasında da kaydedilmiştir.[^k3]
 Akrabalık dışı bir örgütlenme birimi kurmak, merkezin yerel önderlere
 bağımlılığını azaltır.
 
@@ -265,15 +263,15 @@ Maliyet, sistemin sürdürülebilirliğini de sınırlar.[^k2] Nüfusun büyük
 bölümünü uzun süre seferber tutmak, tarımsal üretimi
 etkiler.
 
-Atlas bu bedeli ayrıca kaydeder.[^k3] Bir askerî üstünlük, onu üreten
-toplumsal düzenlemenin maliyetiyle birlikte değerlendirilmelidir.
+Bir askerî üstünlük, onu üreten toplumsal
+düzenlemenin maliyetiyle birlikte değerlendirilmelidir.[^k3]
 
 ## Sığır ekonomisi
 
 Krallığın ekonomisi büyük ölçüde sığıra dayanıyordu.[^k2] Sığır hem
 zenginlik ölçüsü hem evlilik ödemesi hem siyasi bağ aracıydı.
 
-Merkez, sığır dağıtımı üzerinden bağlılık kuruyordu.[^k1] Bu, atlasın
+Merkez, sığır dağıtımı üzerinden bağlılık kuruyordu.[^k1] Bu, korpusun
 başka dosyalarında gelir tahsisi olarak ölçülen mekanizmanın bir
 biçimidir.
 
@@ -282,15 +280,15 @@ siyasi bağın kendisini doğrudan zayıflatır.
 
 ## Kaynak durumu
 
-Bu dosyanın üç künyesinden biri giriş kapısı, ikisi dönem
+Bu incelemenin üç künyesinden biri giriş kapısı, ikisi dönem
 tanıklığıdır.[^k1] Krallığın kendi kayıtları yazılı değildir.
 
 Bilinenlerin önemli bölümü sözlü aktarımdan ve dışarıdan gelen
-gözlemcilerden gelir.[^k2] İkisi de atlasın kanıt dosyasında tanımlanan
+gözlemcilerden gelir.[^k2] İkisi de korpusun kanıt dosyasında tanımlanan
 kısıtları taşır.
 
 Eksik borç defterine yazılmıştır.[^k3] Sözlü aktarımın doğrulanabilir
-bir derlemesi bu dosya yazıldığında bulunamamıştır.
+bir derlemesi bu inceleme yazıldığında bulunamamıştır.
 
 ## Kapsam dışı
 
@@ -301,10 +299,9 @@ Savaşın askerî ayrıntısı kapsam dışıdır.[^k2] Dosya yalnızca zaferin
 neden siyasi sonuca dönüşmediğine ilişkin olanı kaydeder.
 
 İlhak sonrası dönem ve yirminci yüzyıl işlenmez.[^k3] Ayrı dosyalar
-gerektirir ve bu dosya yazıldığında atlasta bulunmuyorlardı.
+gerektirir ve bu inceleme yazıldığında korpusta bulunmuyorlardı.
 
-## Bu dosyanın sınırı
-
+## Kanıtın ve kapsamın sınırı
 Dosya, üç farkın tek başına belirleyici olduğunu ileri sürmez.[^k1] Üç
 etken sıralanır ve ağırlıkları ölçülmemiştir.
 
@@ -314,10 +311,9 @@ Karşılaştırma iki örnekle sınırlıdır.[^k3] İki örnekten kural
 Parçalama kararının gerekçesi hakkında hüküm verilmez.[^k2] Kararın
 sonucu kaydedilir; niyeti ayrıca sınanmalıdır.
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Karşılaştırmanın öteki tarafı için
-[Adva Savaşı](/olay/adva-1896/) dosyası okunmalıdır; bu dosya onsuz
+[Adva Savaşı](/olay/adva-1896/) dosyası okunmalıdır; bu inceleme onsuz
 eksiktir ve ikisi birlikte tek bir soruyu kurar.[^k3]
 
 Krallığın kuruluş dönemi için [Mfecane](/olay/mfecane/), karşı taraf

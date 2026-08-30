@@ -249,7 +249,7 @@ Bu ayrışmanın anlatı açısından sonucu şudur: geçişin bir kez başladı
 her yerde aynı hızda ilerleyeceği varsayımı tutmadı. Sahra altı Afrika'nın
 geçişinin ayrı bir soru olarak açılması da bunun işaretidir — bir bölgenin
 farklı olup olmadığı ancak ortak bir takvim beklendiğinde sorulur.[^k8] Kuramın
-betimlediği sıralama korunurken takvimi ülkeden ülkeye değişti. Bu dosyanın
+betimlediği sıralama korunurken takvimi ülkeden ülkeye değişti. Bu incelemenin
 kapsam sınırı da burada: künyeler sıralamayı ve tek bir bölgenin ayrıksılığını
 taşıyor, Avrupa'nın, Güney Asya'nın ve Doğu Asya'nın kendi takvimlerini ülke
 ülke ölçecek seriler taşımıyor.
@@ -298,7 +298,7 @@ Grafikte gizlenen bir ek yeri daha var ve bu, öngörü sınırından daha erken
 gelir. BM Nüfus Bölümü'nün veri portalı, toplam nüfus, toplam doğurganlık hızı
 ve beş yaş altı ölüm hızı göstergelerinin kaynağını World Population
 Prospects'in 2024 revizyonu, kapsamını da 1950 ile 2100 arası olarak
-listeler.[^k10] Bu dosyanın okuduğu seri ise MÖ 10.000'e kadar geriye
+listeler.[^k10] Bu incelemenin okuduğu seri ise MÖ 10.000'e kadar geriye
 uzanıyor.[^k1] İki kapsam arasındaki fark, 1950 öncesinin BM kaydından
 gelemeyeceğini gösterir; o bölüm tarihsel nüfus yeniden kurulumlarıyla
 dolduruluyor. Dolayısıyla yukarıda anılan 1500, 1800, 1900 ve 1927 değerleri

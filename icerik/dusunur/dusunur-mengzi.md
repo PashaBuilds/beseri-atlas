@@ -57,10 +57,10 @@ onarim_turu: 0
 
 Mengzi, kendisinden yaklaşık yüz elli yıl önce yaşamış bir düşünürün
 çizgisini sürdüren ve o çizgiyi karşıt görüşlere karşı savunan
-kişidir.[^k1][^k2] Atlasın bölge şemasında Doğu Asya'da durur.
+kişidir.[^k1][^k2] Korpusun bölge şemasında Doğu Asya'da durur.
 
 Dosyanın ayırt edici yanı, düşünürün bir geleneği sürdürürken bir noktada
-ondan ileri gitmiş olmasıdır.[^k2][^k3] Bu ileri gidiş, atlasın kaydettiği
+ondan ileri gitmiş olmasıdır.[^k2][^k3] Bu ileri gidiş, incelenen
 en dikkate değer siyasi iddialardan birini içerir.
 
 İddia şudur: yönetimin meşruiyeti yönetilenlerin refahına bağlıdır ve bu
@@ -69,15 +69,15 @@ en dikkate değer siyasi iddialardan birini içerir.
 ## Önceki metinden farkı
 
 Aynı çizginin önceki metni, yönetimi erdem ve örneklik üzerinden kurar ama
-meşruiyetin yitirilmesi durumunu açıkça ele almaz.[^k3] Bu dosya, o
+meşruiyetin yitirilmesi durumunu açıkça ele almaz.[^k3] Bu inceleme, o
 boşluğun doldurulduğu noktayı kaydeder.
 
 Fark küçük görünür ama sonucu büyüktür.[^k2] Meşruiyetin bir şarta
 bağlanması, şartın yerine getirilip getirilmediğinin sorulmasına da izin
 verir.
 
-Atlas iki metni ayrı ayrı künyeler ve farkı ölçülebilir kılar.[^k2][^k3] Bir
-çizginin iç gelişimi, ancak birden çok metin yan yana konduğunda görünür.
+Bir çizginin iç gelişimi, ancak birden çok metin yan
+yana konduğunda görünür.[^k2][^k3]
 
 ## İnsan doğası tartışması
 
@@ -90,7 +90,7 @@ ya da biçimlendirmek değil.
 
 Karşıt görüş, aynı mantığı ters yönde kurar.[^k1] İnsan doğuştan iyiye
 yatkın değilse, yönetimin işi kural ve ceza ile düzen kurmaktır; bu,
-atlasın [Legalizm](/kavram/legalizm/) dosyasında ele alınan çizgidir.
+[Legalizm](/kavram/legalizm/) incelemesinde ele alınan çizgidir.
 
 ## Doğa tartışmasının siyasi karşılığı
 
@@ -102,9 +102,8 @@ hukuka yansır.
 yapar.[^k2] Yatkınlık varsaymayan bir yönetim, denetime ve cezaya yatırım
 yapar.
 
-Atlas bu bağı kaydeder çünkü felsefi tartışmaların kurumsal karşılıklarını
-göstermek atlasın yöntemidir.[^k1] Bir insan tanımı, bir bütçe kalemine
-dönüşür.
+Bir insan tanımı, bir bütçe kalemine
+dönüşür.[^k1]
 
 ## Refah şartı
 
@@ -115,9 +114,8 @@ Bu sıralama önemlidir. Ahlak, refahın sonucu sayılır; tersi değil.[^k2]
 Yönetimin ilk görevi, halkın kendi geçimini sağlayabileceği koşulları
 kurmaktır.
 
-Atlas bu sıralamayı kaydeder çünkü aynı çizginin sonraki
-yorumlarında ters çevrilmiştir.[^k1] Ahlakı önce, refahı sonra koyan
-okumalar, metnin kendi sıralamasını değiştirmiş olur.
+Ahlakı önce, refahı sonra koyan okumalar,
+metnin kendi sıralamasını değiştirmiş olur.[^k1]
 
 ## Meşruiyetin kaybı
 
@@ -127,10 +125,10 @@ tartışmasında keskin bir konumdur.
 
 ::tartismali[Metnin bu ifadelerinin bir direnme hakkı mı tanıdığı yoksa
 yalnızca ahlaki bir uyarı mı olduğu tartışmalıdır; sonraki yüzyıllarda
-her iki yönde de okunmuştur. Atlas bir okumayı benimsemez.]{harita=tartisma-buyuk-adam-kurami}
+her iki yönde de okunmuştur. Korpus bir okumayı benimsemez.]{harita=tartisma-buyuk-adam-kurami}
 
-Atlas bu tartışmayı kaydeder ve bir sonuca bağlamaz.[^k1] İki okuma da
-metinden çıkarılabilir ve ikisi de ayrı kanıtlar gerektirir.
+İki okuma da metinden çıkarılabilir ve
+ikisi de ayrı kanıtlar gerektirir.[^k1]
 
 ## Gökten gelen yetki ile ilişki
 
@@ -142,9 +140,8 @@ Metinde göksel onayın halkın tutumundan okunabileceği ileri
 sürülür.[^k2] Böylece soyut bir yetki kaynağı, gözlemlenebilir bir ölçüte
 bağlanmış olur.
 
-Atlasın [Göksel yetki](/kavram/goksel-yetki/) dosyası bu kavramı genel
-biçimiyle ele alır.[^k1] Burada somut hâli, yetkinin doğrulanmasının halka
-havale edilmesidir.
+Burada somut hâli, yetkinin
+doğrulanmasının halka havale edilmesidir.[^k1]
 
 ## Tartışmacı biçim
 
@@ -156,8 +153,8 @@ Biçim farkı bir üslup tercihi değildir.[^k2] Bir çizgi, ilk kurulduğunda
 ilkelerini bildirir; itirazla karşılaştığında savunur ve savunma
 tartışmacı bir biçim gerektirir.
 
-Atlas bu geçişi kaydeder.[^k3] Bir düşünce çizgisinin gelişim aşaması,
-metinlerinin biçiminden okunabilir.
+Bir düşünce çizgisinin gelişim aşaması,
+metinlerinin biçiminden okunabilir.[^k3]
 
 ## Benzetmelerin işlevi
 
@@ -167,21 +164,20 @@ kurar.[^k2] Bu benzetmeler süsleme değil, kanıt yerine geçen araçlardır.
 Benzetmeyle kurulan bir kanıt, dinleyicinin zaten kabul ettiği bir düzeni
 tartışılan konuya taşır.[^k1] Gücü buradan gelir; sınırı da buradadır.
 
-Atlas bu araca dikkat çeker çünkü metnin ikna ediciliği ile doğruluğu ayrı
-şeylerdir.[^k2] Bir benzetmenin işlemesi, iddianın kanıtlandığı anlamına
-gelmez.
+Bir benzetmenin işlemesi, iddianın
+kanıtlandığı anlamına gelmez.[^k2]
 
 ## Metnin durumu
 
 Metnin düşünürün kendi kaleminden mi yoksa öğrencilerinin
-derlemesinden mi geldiği kesin değildir.[^k1] Bu, atlasın dönem metinlerinde
+derlemesinden mi geldiği kesin değildir.[^k1] Bu, korpusun dönem metinlerinde
 olağan bir durumdur.
 
 Metnin bugünkü biçimi, sonraki yüzyıllarda yapılan bir düzenlemeye
 dayanır.[^k1][^k2] Düzenleyen kişi, bölüm sırasını ve kapsamı belirlemiştir.
 
-Atlas bu zinciri künyede göstermez ama burada beyan eder.[^k2] Metne
-yapılacak atıflarda hangi bölümlemenin kullanıldığı belirtilmelidir.
+Metne yapılacak atıflarda hangi bölümlemenin
+kullanıldığı belirtilmelidir.[^k2]
 
 ## Sonraki alımlanma
 
@@ -193,8 +189,8 @@ Müfredata girmenin sonucu ikili çalışır.[^k1] Metin ülke çapında öğren
 ve korunur; aynı süreçte hangi yorumunun geçerli olduğu da bir idari karara
 dönüşür.
 
-Atlas bu etkiyi ayrı bir dosyada ele alır.[^k2] Buradaki kayıt, metnin
-kendi içeriği ile sonraki kurumsal konumunun ayrı tutulması gerektiğidir.
+Buradaki kayıt, metnin kendi içeriği ile
+sonraki kurumsal konumunun ayrı tutulması gerektiğidir.[^k2]
 
 ## Karşı çizgilerle ilişki
 
@@ -202,52 +198,49 @@ Düşünür, dönemin başka çizgilerini adıyla anar ve onlara karşı
 tartışır.[^k1][^k2] Bu, dönemin tek bir hâkim düşünceye sahip olmadığının
 doğrudan kanıtıdır.
 
-Karşıt çizgiler atlasta ayrı dosyalar taşır.[^k1] Dört dosya birlikte
+Karşıt çizgiler korpusta ayrı dosyalar taşır.[^k1] Dört dosya birlikte
 okunduğunda, aynı yüzyıllarda aynı bölgede yürüyen tartışmanın tarafları
 görünür.
 
-Atlas taraflardan birini haklı çıkarmaz.[^k2] Her dosya bir konumu kaydeder;
-konumların birbirine karşı kurulduğu ancak hepsi bir arada okunduğunda
-görünür.
+Her dosya bir konumu kaydeder;
+konumların birbirine karşı kurulduğu ancak hepsi bir arada okunduğunda görünür.[^k2]
 
-## Atlastaki yeri
-
-Bu dosya, atlasın Doğu Asya düşünür katmanındaki dördüncü dosyadır.[^k1]
+## Bağlantılar ve karşılaştırmalar
+Bu inceleme, korpusun Doğu Asya düşünür katmanındaki dördüncü dosyadır.[^k1]
 Bölgenin kavram katmanı üç dosyayla tamamlanmıştı; düşünür katmanı bu
 dosyayla dengelenir.
 
-Dosyanın seçilme gerekçesi, atlasta zaten künyelenmiş bir metnin sahibinin
+Dosyanın seçilme gerekçesi, korpusta zaten künyelenmiş bir metnin sahibinin
 kendi dosyasının bulunmamasıydı.[^k2] Metin birden çok dosyada kaynak olarak
 kullanılıyordu ama düşünür için ayrı bir kayıt yoktu.
 
-Bu, atlasın genel bir kuralını uygular.[^k3] Sık kullanılan bir kaynağın
+Bu, korpusun genel bir kuralını uygular.[^k3] Sık kullanılan bir kaynağın
 arkasındaki kişi ya da metin, kendi dosyasını hak eder; aksi hâlde kaynak
 görünmez bir otoriteye dönüşür.
 
 ## Kaynak durumu
 
-Bu dosya üç kaynağa dayanır ve ikisi birincildir.[^k2][^k3] Birincil
+Bu inceleme üç kaynağa dayanır ve ikisi birincildir.[^k2][^k3] Birincil
 metinlerin ikisi de hem Çince özgün hâlleriyle hem çevirileriyle
 sunulmaktadır.
 
-Bu, atlasın Doğu Asya dosyaları için elverişli bir durumdur.[^k2] Terim
+Bu, korpusun Doğu Asya dosyaları için elverişli bir durumdur.[^k2] Terim
 karşılıklarının tartışmalı olduğu bir gelenekte, özgün metnin görülebilmesi
 çeviri tercihlerini karşılaştırılabilir kılar.
 
 Türkçe tam çeviri künyeye alınmamıştır.[^k1] Doğrulanabilir ve tam metin bir
 Türkçe baskı bulunamamıştır; bu bir kısıttır ve burada beyan edilir.
 
-## Bu dosyanın kapsamadıkları
-
+## Açıkta kalan sorular
 Düşünürün hayatı, gezdiği saraylar ve görev denemeleri burada
 işlenmez.[^k1] Elde bulunan bilgilerin tamamı metnin kendi içinden gelir ve
 bağımsız kayıtla desteklenmez.
 
-Metnin bölüm bölüm içeriği de kapsam dışıdır.[^k2] Bu dosya düşünürün
+Metnin bölüm bölüm içeriği de kapsam dışıdır.[^k2] Bu inceleme düşünürün
 konumunu anlatır; metnin ne söylediği için metnin kendisine inilmelidir.
 
 Sonraki yüzyıllardaki yorum tartışmaları burada verilmez.[^k1] Bunun için
-atlasın ilgili düşünür dosyaları okunmalıdır.
+korpusun ilgili düşünür dosyaları okunmalıdır.
 
 ## İnsanı sınayan örnek
 
@@ -259,9 +252,9 @@ doğuştan gelen bir yatkınlığın varlığını gündelik bir sezgiye dayand�
 dışarıdan bir gözlemden değil, okurun kendi içinden gelir; bu, iddiayı
 sınanabilir kıldığı kadar tartışmaya da kapatır.
 
-Atlas bu tür kanıtları ayrı bir kategori olarak kaydeder.[^k2] Sezgiye
-dayanan bir kanıt, aynı sezgiyi paylaşmayan biri için hiçbir şey ifade
-etmez; gücü ile sınırı aynı yerden gelir.
+Sezgiye dayanan bir kanıt,
+aynı sezgiyi paylaşmayan biri için hiçbir şey ifade etmez; gücü ile sınırı aynı yerden
+gelir.[^k2]
 
 ## Vergi ve toprak düzeni önerisi
 
@@ -274,14 +267,13 @@ programına yaklaştırır.[^k1] Refahın ön şart sayılması, ancak somut bir
 düzenleme önerisiyle birlikte anlam kazanır.
 
 Önerinin tarihsel olarak uygulanıp uygulanmadığı ayrı bir sorudur ve
-kaynaklarda tartışmalıdır.[^k1] Atlas öneriyi bir program olarak kaydeder;
+kaynaklarda tartışmalıdır.[^k1] Korpus öneriyi bir program olarak kaydeder;
 bir uygulama kaydı olarak değil. Bir metinde bulunan düzenleme önerisinin
-uygulanmış sayılması, atlasın kaçındığı en yaygın çıkarım hatalarından
+uygulanmış sayılması, korpusun kaçındığı en yaygın çıkarım hatalarından
 biridir; öneri, ancak bağımsız bir idari kayıtla desteklenirse uygulama
 sayılabilir.[^k2]
 
-## Okuma yönlendirmesi
-
+## Okumayı sürdürmek için
 Sürdürdüğü çizgi için [Konfüçyüsçülük](/kavram/konfucyuscluk/), çizginin
 kurucusu sayılan kişi için [Konfüçyüs](/dusunur/konfucyus/) dosyaları
 okunmalıdır.[^k3]
