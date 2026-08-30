@@ -74,7 +74,7 @@ kaynaklar:
   - anahtar: k5
     tur: akademik
     ad: "Dale Tomich, 'The Order of Historical Time: The Longue Durée and Micro-History', Almanack 2 (2011) — SciELO"
-    url: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S2236-46332011000200038&lng=en&tlng=en
+    url: https://www.scielo.br/j/alm/a/dF7D8LWPFhCjtjmx7NKbtQk/?lang=en
     erisim_tarihi: 2026-08-30
     dogrulama_dizesi: "the conceptual dilemma presented by event history"
     not: >-

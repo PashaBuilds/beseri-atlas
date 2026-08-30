@@ -7,8 +7,9 @@
 // kunyede kullanilmazlar. Bkz. §15 "Kapiyi gevsetmek" yasagi.
 //
 // OLU ile OLCULEMEDI ayrimi (2026-08-23):
-//   4xx  -> kaynak erisilemez. HATA. Kunyede kullanilamaz.
-//   5xx / baglanti hatasi -> sunucunun O ANKI durumu. "Olu" degil "olcemedim".
+//   kalici 4xx -> kaynak erisilemez. HATA. Kunyede kullanilamaz.
+//   408/425/429 / 5xx / baglanti hatasi -> sunucunun O ANKI durumu.
+//   "Olu" degil "olcemedim".
 //
 // Bu ayrim projenin kendi ilkesidir; turet.mjs ayni cumleyi kuruyor:
 // "Turetilemeyen iddia bir CURUTME DEGILDIR." Gecici bir kesintiyi olu link
@@ -22,7 +23,7 @@
 // olcumun kendisidir ve "gecti" demek yanlis beyan olur.
 import path from 'node:path';
 import { Rapor, makaleleriTopla, yamlOku, oku, yaz, varMi, ICERIK, KOK } from './ortak.mjs';
-import { getir, normalize } from './getir.mjs';
+import { geciciHttpDurumuMu, getir, normalize } from './getir.mjs';
 
 // Ayni alan adina paralel baglanmak sitenin hiz sinirlamasini tetikliyor ve
 // kapi kendi trafigi yuzunden kiriliyordu. Es zamanlilik artik FARKLI alan
@@ -131,7 +132,7 @@ export async function canlilikDenetimi(makaleler, { taze = false, izinliHavuz = 
 
   for (const u of urller) {
     const s = cevaplar.get(u);
-    const olculemedi = s.durum === 0 || s.durum >= 500;
+    const olculemedi = s.durum === 0 || geciciHttpDurumuMu(s.durum);
 
     if (olculemedi) {
       const kayit = defter[u] || { ilk_gorulme: new Date(simdi).toISOString(), kez: 0 };

@@ -10,6 +10,16 @@ const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 const TTL_MS = 7 * 24 * 60 * 60 * 1000;
 const ZAMAN_ASIMI_MS = 25000;
 
+/**
+ * Sunucunun kaynagi reddettigini degil, o anda saglikli bir olcum
+ * yapilamadigini gosteren HTTP durumlari. Ozellikle 429'u kalici 4xx gibi
+ * onbellege almak, tek bir hiz sinirini yedi gunluk sahte "olu kaynak"
+ * sonucuna ceviriyordu.
+ */
+export function geciciHttpDurumuMu(durum) {
+  return durum === 408 || durum === 425 || durum === 429 || durum >= 500;
+}
+
 function yol(url) {
   const h = crypto.createHash('sha1').update(url).digest('hex').slice(0, 20);
   return path.join(ONBELLEK, `${h}.json`);
@@ -21,6 +31,9 @@ export function onbellektenOku(url) {
   try {
     const k = JSON.parse(fs.readFileSync(p, 'utf8'));
     if (Date.now() - k.zaman > TTL_MS) return null;
+    // Eski surumler 429 gibi gecici yanitlari onbellege aliyordu. Bu kayitlari
+    // sessizce kullanmak yerine yeniden olc; kalici 4xx kayitlari gecerlidir.
+    if (geciciHttpDurumuMu(k.durum)) return null;
     // Kaydin kendi URL'i istenenle ayni degilse kayit bozulmustur: yanlis
     // metni "kaynak boyle diyor" diye dondurmek, dogrulama zincirinin
     // yapabilecegi en agir hatadir. 2026-08-29'da bir hakem oturumu
@@ -64,9 +77,9 @@ const bekle = (ms) => new Promise((r) => setTimeout(r, ms));
  * Tek denemede ag hatasi alan URL'i olu saymak yanlis pozitif uretir; bu kapiyi
  * gevsetmek degil, dogru olcmektir.
  *
- * 4xx donduyse tekrar denenmez — 404 gercekten 404'tur. 5xx ise sunucunun O ANKI
- * durumudur, kaynagin kalici ozelligi degil: hiz sinirlamasi ve gecici kesinti
- * bu sinifa duser, dolayisiyla ag hatasi gibi yeniden denenir.
+ * Kalici 4xx tekrar denenmez — 404 gercekten 404'tur. 408/425/429 ve 5xx ise
+ * sunucunun O ANKI durumudur, kaynagin kalici ozelligi degil: hiz sinirlamasi
+ * ve gecici kesinti bu sinifa duser, dolayisiyla ag hatasi gibi yeniden denenir.
  */
 export async function getir(url, { taze = false, metinSakla = true, deneme = 3 } = {}) {
   if (!taze) {
@@ -95,8 +108,9 @@ export async function getir(url, { taze = false, metinSakla = true, deneme = 3 }
         if (tamMetin.length > 400000) sonuc.kesildi = true;
         sonuc.baslik = /<title[^>]*>([\s\S]*?)<\/title>/i.exec(ham)?.[1]?.trim().slice(0, 300) || '';
       }
-      // 5xx: sunucu gecici olarak cevap veremiyor. Son deneme degilse bekle ve tekrar dene.
-      if (r.status >= 500 && i < deneme - 1) { await bekle(1500 * (i + 1)); continue; }
+      // 5xx ve hiz/zaman siniri yanitlari sunucunun o anki durumudur. Son
+      // deneme degilse bekle ve yeniden olc.
+      if (geciciHttpDurumuMu(r.status) && i < deneme - 1) { await bekle(1500 * (i + 1)); continue; }
       break; // kalici HTTP cevabi alindi
     } catch (e) {
       sonuc.durum = 0;
@@ -107,11 +121,11 @@ export async function getir(url, { taze = false, metinSakla = true, deneme = 3 }
     }
   }
   fs.mkdirSync(ONBELLEK, { recursive: true });
-  // Ag hatalari onbellege alinmaz; sonraki kosuda yeniden denenmelidir.
-  // 5xx ayni sinifa girer. Onbelleklenirse tek bir hiz-sinirlama cevabi TTL
+  // Ag hatalari ve gecici HTTP durumlari onbellege alinmaz; sonraki kosuda
+  // yeniden denenmelidir. Onbelleklenirse tek bir hiz-sinirlama cevabi TTL
   // boyunca (7 gun) geri donulur ve kapi, sunucu coktan duzeldigi halde kirik
   // kalir — 2026-08-22'de gutenberg.org'da tam olarak bu yasandi.
-  if (sonuc.durum !== 0 && sonuc.durum < 500) {
+  if (sonuc.durum !== 0 && !geciciHttpDurumuMu(sonuc.durum)) {
     // Atomik yazma: paralel ajanlar ayni onbellek dizinine yazarken yarim
     // dosya birakmasin diye once gecici ada yaz, sonra tasi.
     const hedef = yol(url);

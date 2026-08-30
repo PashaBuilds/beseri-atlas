@@ -52,11 +52,11 @@ kaynaklar:
     not: "2002 tarihli National Construction Safety Team Act uyarinca yurutulen teknik sorusturmanin resmi ozeti; kule bazinda olu sayisi ve cokme mekanizmasi"
   - anahtar: k4
     tur: akademik
-    ad: "CDC / NIOSH - World Trade Center Health Program, History"
-    url: https://www.cdc.gov/wtc/history.html
-    erisim_tarihi: 2026-08-29
+    ad: "Public Law 111-347 — James Zadroga 9/11 Health and Compensation Act of 2010, GovInfo kaydi"
+    url: https://www.govinfo.gov/app/details/PLAW-111publ347/summary
+    erisim_tarihi: 2026-08-30
     dogrulama_dizesi: "James Zadroga 9/11 Health and Compensation Act of 2010"
-    not: "Toz maruziyetine bagli hastaliklar icin kurulan federal programin yasal takvimi"
+    not: "WTC Health Programini kuran federal yasanin resmi GPO kaydi; yasanin adi, kabul tarihi ve belge kimligi dogrudan gorulur"
   - anahtar: k5
     tur: birincil
     birincil_tur: belge

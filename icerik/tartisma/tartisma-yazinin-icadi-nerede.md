@@ -145,11 +145,11 @@ kaynaklar:
     not: "USTVERI-SINIRLI: jeton tezinin kunye kaydi; tezin icerigi k1 uzerinden aktarilir"
   - anahtar: k4
     tur: akademik
-    ad: "Semantic Scholar kaydi — Farmer, Sproat, Witzel, The Collapse of the Indus-Script Thesis (2004)"
-    url: https://api.semanticscholar.org/graph/v1/paper/419fd9cefad84cb597af3396828106e4fbf48da6?fields=title,year,authors,venue,externalIds,abstract
-    erisim_tarihi: 2026-08-29
+    ad: "DataCite DOI kaydi — Farmer, Sproat, Witzel, The Collapse of the Indus-Script Thesis (2004)"
+    url: https://api.datacite.org/dois/10.11588/ejvs.2004.2.620
+    erisim_tarihi: 2026-08-30
     dogrulama_dizesi: "The Collapse of the Indus-Script Thesis"
-    not: "USTVERI-SINIRLI; yayinci ozeti gizledigi icin icerik destegi yok, kimlik ve baslik destegi dogrudan. Kayit yazar adlarini 'Steve Farmer', 'R. Sproat', 'M. Witzel' biciminde verir. Anahtarsiz katman hiz sinirina tabidir"
+    not: "USTVERI-SINIRLI; icerik destegi yok, DOI kimligi, baslik, yazarlar ve yayin bilgisi destegi dogrudan"
   - anahtar: k5
     tur: akademik
     ad: "Crossref kaydi — Florian Coulmas'in Asko Parpola, Deciphering the Indus Script (1994) degerlendirmesi, Language 72"

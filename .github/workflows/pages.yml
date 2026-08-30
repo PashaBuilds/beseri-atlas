@@ -40,7 +40,7 @@ jobs:
       # Tip denetimi: sema-disi alan adi kullanimlari derleme zamaninda yakalanir.
       - run: npx astro check
 
-      # KAPI 8/10 her kosuda 329 URL cekiyor. Onbellek hem kosuyu hizlandirir
+      # KAPI 8/10 her kosuda yaklasik 1.700 URL olcuyor. Onbellek hem kosuyu hizlandirir
       # hem de kaynak sunuculari her push'ta yeniden yormamizi onler — hiz
       # sinirlamasi zaten bu kapinin bir numarali yanlis pozitif kaynagiydi.
       # TTL 7 gun oldugu icin bayat girdi kendi kendine duser; kapi gevsemez.
