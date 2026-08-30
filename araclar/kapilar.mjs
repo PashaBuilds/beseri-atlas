@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // On build kapisinin tek calistiricisi.
 //
-//   node araclar/kapilar.mjs --lint   -> cevrimdisi kapilar (1,2,3,4,5,7,9,11,13,15,16,20)
+//   node araclar/kapilar.mjs --lint   -> cevrimdisi kapilar (1,2,3,4,5,7,9,11,13,15,16,20,21)
 //   node araclar/kapilar.mjs --ag     -> ag kapilari (8,10)
 //   node araclar/kapilar.mjs --pre    -> lint + onay filtresi (6) + ag kapilari
 //   node araclar/kapilar.mjs --post   -> build ciktisi uzerinde onay filtresi (6), 12, 14
@@ -27,6 +27,7 @@ import { ozetDenetimi } from './linter-ozet.mjs';
 import { dilDenetimi } from './linter-dil.mjs';
 import { sayiDenetimi } from './linter-sayi.mjs';
 import { ogrenmeCekirdegiDenetimi } from './linter-ogrenme-cekirdegi.mjs';
+import { uretimHattiDenetimi } from './uretim-hatti.mjs';
 
 export const YAYIN_DURUMU = 'onaylandi';
 
@@ -117,6 +118,7 @@ export async function kapilariCalistir(mod = '--lint') {
     raporlar.push(dilDenetimi(makaleler));
     raporlar.push(sayiDenetimi(makaleler));
     raporlar.push(ogrenmeCekirdegiDenetimi(makaleler));
+    raporlar.push(uretimHattiDenetimi(makaleler));
   }
   if (mod === '--pre' || mod === '--tam') raporlar.push(onayFiltresi(makaleler));
   if (mod === '--ag' || mod === '--pre' || mod === '--tam') {

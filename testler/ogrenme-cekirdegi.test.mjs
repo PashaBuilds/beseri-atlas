@@ -42,11 +42,11 @@ test('makale kalite puanı dokuz ölçütten hesaplanır', () => {
   assert.ok(sonuc.puan < 5);
 });
 
-test('yayındaki altı rota çekirdek sözleşmesini eksiksiz geçer', () => {
+test('yayındaki on rota çekirdek sözleşmesini eksiksiz geçer', () => {
   const rapor = ogrenmeCekirdegiDenetimi(makaleleriTopla());
   assert.deepEqual(rapor.hatalar, []);
-  assert.equal(rapor.olcum.rota, 6);
-  assert.equal(rapor.olcum.adim, 36);
+  assert.equal(rapor.olcum.rota, 10);
+  assert.equal(rapor.olcum.adim, 60);
   assert.equal(rapor.olcum.tekrar, 0);
   assert.equal(rapor.olcum.ortalama, 10);
 });

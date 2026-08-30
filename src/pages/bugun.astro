@@ -69,6 +69,16 @@ const rotaVerisi = ROTALAR.map((rota) => ({
               <strong>Zenginlik ve eşitsizliği açıklamak</strong>
               <small>Sanayileşmeyi, kapitalizmi ve küresel ayrışmayı birlikte okumak.</small>
             </label>
+            <label>
+              <input type="radio" name="amac" value="kanit" />
+              <strong>Kanıtı daha iyi tartmak</strong>
+              <small>Kaynak, sayı, tanıklık ve büyük tarihsel iddialar arasındaki farkı görmek.</small>
+            </label>
+            <label>
+              <input type="radio" name="amac" value="dayaniklilik" />
+              <strong>Toplumların kırılganlığını anlamak</strong>
+              <small>Çöküşü tek nedene bağlamadan çevre, kurum ve kararları birlikte okumak.</small>
+            </label>
           </div>
         </fieldset>
 
@@ -173,7 +183,7 @@ const rotaVerisi = ROTALAR.map((rota) => ({
   .secenekler--tempo { grid-template-columns: repeat(3, 1fr); max-width: 38rem; }
   .secenekler label { position: relative; display: grid; align-content: start; padding: 1.2rem 1.2rem 1.25rem 3.2rem; min-height: 8.5rem; background: var(--yuzey); cursor: pointer; }
   .secenekler label:nth-child(odd) { border-right: 1px solid var(--cizgi); }
-  .secenekler--amac label:nth-child(-n+2) { border-bottom: 1px solid var(--cizgi); }
+  .secenekler--amac label:nth-child(-n+4) { border-bottom: 1px solid var(--cizgi); }
   .secenekler--tempo label { min-height: 6.4rem; border-right: 1px solid var(--cizgi); }
   .secenekler--tempo label:last-child { border-right: 0; }
   .secenekler input { position: absolute; left: 1.15rem; top: 1.35rem; accent-color: var(--bakir); }
@@ -250,10 +260,13 @@ const rotaVerisi = ROTALAR.map((rota) => ({
     mekanizma: 'guc-nasil-kurulur',
     dusunme: 'tarihci-gibi-dusunmek',
     ekonomi: 'zenginlik-neden-birikir',
+    kanit: 'kanit-ne-zaman-ikna-eder',
+    dayaniklilik: 'toplumlar-neden-coker',
   };
   const amacAdi: Record<string, string> = {
     bugun: 'bugünkü dünyayı anlamak', mekanizma: 'gücün işleyişini çözmek',
     dusunme: 'tarihçi gibi düşünmek', ekonomi: 'zenginlik ve eşitsizliği açıklamak',
+    kanit: 'kanıtı daha iyi tartmak', dayaniklilik: 'toplumların kırılganlığını anlamak',
   };
 
   function sayac(selector: string, deger: string | number) {

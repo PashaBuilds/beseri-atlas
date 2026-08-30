@@ -82,7 +82,7 @@ export function ogrenmeCekirdegiDenetimi(makaleler, { rotaMetni = null } = {}) {
   const r = new Rapor('KAPI 20 — öğrenme çekirdeği (rota + makale kalitesi)');
   const metin = rotaMetni ?? fs.readFileSync(ROTALAR_YOLU, 'utf8');
   const rotalar = rotaYapisiniCikar(metin);
-  if (rotalar.length !== 6) r.hata('src/lib/rotalar.ts', `6 rota bekleniyordu; ayrıştırılan ${rotalar.length}`);
+  if (rotalar.length < 10) r.hata('src/lib/rotalar.ts', `en az 10 rota bekleniyordu; ayrıştırılan ${rotalar.length}`);
 
   const tumIdler = [];
   for (const rota of rotalar) {

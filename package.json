@@ -17,6 +17,7 @@
     "denetle": "node araclar/denetle.mjs",
     "curut": "node araclar/curut.mjs",
     "turet": "node araclar/turet.mjs",
+    "uretim": "node araclar/uretim-hatti.mjs",
     "capraz": "node araclar/capraz-kontrol.mjs",
     "ornekle": "node araclar/ornekle.mjs",
     "rapor": "node araclar/rapor.mjs",

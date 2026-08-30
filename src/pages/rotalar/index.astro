@@ -2,6 +2,7 @@
 import Temel from '../../layouts/Temel.astro';
 import { ROTALAR } from '../../lib/rotalar';
 import { bag } from '../../lib/icerik';
+const cekirdekMakaleSayisi = ROTALAR.reduce((toplam, rota) => toplam + rota.adimlar.length, 0);
 ---
 <Temel baslik="Öğrenme rotaları" ozet="Olguları ezberlemek yerine aralarındaki neden-sonuç bağını kurmak için tasarlanmış okuma rotaları.">
   <main id="ana" class="rotalar">
@@ -13,7 +14,7 @@ import { bag } from '../../lib/icerik';
         açıklayan çerçeveler, en sonda cevabı açık bir tartışma. Sıra önemlidir;
         çünkü bağlam, bilgiye sonradan eklenen bir dipnot değil, bilginin kendisidir.
       </p>
-      <p class="rotalar__guvence"><span aria-hidden="true">✓</span> 36 rota makalesinin tamamı çekirdek kalite kapısından geçti.</p>
+      <p class="rotalar__guvence"><span aria-hidden="true">✓</span> {cekirdekMakaleSayisi} rota makalesinin tamamı çekirdek kalite kapısından geçti.</p>
     </header>
 
     <section class="rotalar__izgara" aria-label="Öğrenme rotaları">

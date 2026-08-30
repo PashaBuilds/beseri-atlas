@@ -14,6 +14,7 @@ import { MATRIS_DIZINI, matrisOku, matrisiDogrula, sayaclariHesapla, cumleSadele
 import { iddiaCumleleri } from './denetle.mjs';
 import { kaynakDenetimi } from './linter-kaynak.mjs';
 import { ogrenmeCekirdegiDenetimi } from './linter-ogrenme-cekirdegi.mjs';
+import { uretimHattiDenetimi } from './uretim-hatti.mjs';
 
 // Hedefler KAPI 11'in KENDI tablosundan gelir (sartname §3'ten birebir
 // alinmis). Burada ikinci bir tablo tutmak, kelime sayimi ve "birincil"
@@ -137,6 +138,7 @@ export function fotograf() {
   // bakar ve veri makalelerinde veri serilerini de birincil sayar.
   const kaynakOlcum = kaynakDenetimi(ms, { borcDefteriYaz: false }).olcum || {};
   const ogrenmeCekirdegi = ogrenmeCekirdegiDenetimi(ms).olcum || {};
+  const uretimHatti = uretimHattiDenetimi(ms).olcum || {};
 
   let commit = null;
   try { commit = execSync('git rev-parse --short HEAD', { cwd: KOK }).toString().trim(); } catch { /* git yok */ }
@@ -154,6 +156,7 @@ export function fotograf() {
     atom: { raporlu, ok, hata, isaret, atomsuz, sablonAtomsuz },
     kaynak: kaynakOlcum,
     ogrenmeCekirdegi,
+    uretimHatti,
   };
 }
 
@@ -181,4 +184,6 @@ if (process.argv[1]?.endsWith('fotograf.mjs')) {
   console.log(`                 giris kunyesi ${kk.toplamGiris} · birincil kunye ${kk.birincilKunye} / ${kk.toplamKunye}`);
   console.log(`ogrenme cekirdegi: ${f.ogrenmeCekirdegi.adim}/${f.ogrenmeCekirdegi.adim} makale · `
     + `${f.ogrenmeCekirdegi.rota} rota · ${f.ogrenmeCekirdegi.ortalama}/10`);
+  console.log(`yeni uretim hatti: ${f.uretimHatti.aday} aday · ${f.uretimHatti.gelecekRota} gelecek rota · `
+    + `${f.uretimHatti.arastirmayaHazir} arastirma paketi hazir`);
 }

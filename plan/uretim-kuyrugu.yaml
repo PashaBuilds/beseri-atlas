@@ -1,0 +1,435 @@
+# Yeni üretim hattı — 10/10 çekirdek standardıyla büyüme kuyruğu.
+#
+# Bu dosya eski kapsam kuyruğunun yerine geçmez. Bundan sonra üretilecek yeni
+# makalelerin daha yazılmadan önce öğrenme katkısını, bölgesel çeşitliliğini,
+# anlatı biçimini ve kaynak stratejisini tanımlar.
+
+surum: 1
+
+sozlesme:
+  kaynak_min: 6
+  alan_adi_min: 4
+  birincil_min: 1
+  wikipedia_max: 1
+  kor_hakem_zorunlu: true
+  yayin_puani: 10
+
+durumlar: [bekliyor, arastirmada, yaziliyor, kor-hakemde, onarimda, onaylandi]
+
+adaylar:
+  # ── Gelecek rota 11: Kadınlar yurttaşlığı nasıl genişletti? ─────────────
+  - id: dusunur-ban-zhao
+    baslik: Ban Zhao
+    tip: dusunur
+    durum: arastirmada
+    rota: kadinlar-yurttasligi-nasil-genisletti
+    sira: 1
+    bolge: [dogu-asya]
+    eksen: [kulturel, siyasi, felsefi]
+    anlati_bicimi: metin-catismasi
+    soru: Ban Zhao'nun kadınlara eğitim öneren metni itaati yeniden mi üretti, yoksa kadınların aile içindeki hareket alanını mı genişletti?
+    benzersiz_katki: Kadın düşünce tarihini Avrupa merkezli oy hakkı anlatısından önceye taşır; aynı metnin itaat ve özneleşme yönündeki rakip okumalarını birlikte sınar.
+    birincil_hedef: Nü Jie'nin Çince metni ve birbirinden bağımsız iki açık çevirisi.
+    baslangic_kaynaklari:
+      - https://afe.easia.columbia.edu/main_pop/ps/ps_china-banzhao-admonitions.htm
+      - https://ctext.org/hou-han-shu/lie-nv-zhuan/zh
+      - https://vc.bridgew.edu/jiws/vol5/iss1/3/
+
+  - id: dusunur-mary-wollstonecraft
+    baslik: Mary Wollstonecraft
+    tip: dusunur
+    durum: bekliyor
+    rota: kadinlar-yurttasligi-nasil-genisletti
+    sira: 2
+    bolge: [avrupa]
+    eksen: [felsefi, siyasi, kulturel]
+    anlati_bicimi: kavram-soykutugu
+    soru: Wollstonecraft eşitliği doğal haklardan türetirken eğitim, sınıf ve bağımlılık arasındaki hangi mekanizmayı görünür kıldı?
+    benzersiz_katki: Aydınlanma rotasındaki evrensellik sınırını bir kadın yazarın kendi metni üzerinden açar ve hak dilinin aile içindeki maddi koşullarla ilişkisini gösterir.
+    birincil_hedef: A Vindication of the Rights of Woman'ın 1792 baskısı ile çağdaş eleştiriler.
+
+  - id: dusunur-sojourner-truth
+    baslik: Sojourner Truth
+    tip: dusunur
+    durum: bekliyor
+    rota: kadinlar-yurttasligi-nasil-genisletti
+    sira: 3
+    bolge: [amerika]
+    eksen: [siyasi, kulturel]
+    anlati_bicimi: ses-ve-aktarım
+    soru: Sojourner Truth'un konuşmasının birbirinden farklı iki kaydı, ırk ve toplumsal cinsiyet hakkındaki tarihsel bir sesi nasıl yeniden kurdu?
+    benzersiz_katki: Ünlü bir alıntıyı tekrarlamak yerine konuşmanın 1851 ve 1863 sürümlerini karşılaştırır; belleğin, lehçenin ve siyasal simgeleştirmenin metni nasıl değiştirdiğini öğretir.
+    birincil_hedef: Marius Robinson'un 1851 kaydı, Frances Gage'in 1863 sürümü ve Truth'un dikte edilmiş anlatısı.
+
+  - id: olay-aba-kadin-savasi-1929
+    baslik: Aba Kadın Savaşı
+    tip: olay
+    durum: bekliyor
+    rota: kadinlar-yurttasligi-nasil-genisletti
+    sira: 4
+    bolge: [afrika]
+    eksen: [siyasi, ekonomik, kulturel]
+    anlati_bicimi: karar-zinciri
+    soru: Sömürge yönetiminin vergi sayımı neden binlerce kadını harekete geçirdi ve yerel siyasal temsil biçimleri bu seferberliği nasıl taşıdı?
+    benzersiz_katki: Kadın siyasal eylemini yalnız oy hakkı kurumlarına bağlamaz; vergi, pazar, dolaylı yönetim ve yerel protesto repertuvarını aynı mekanizma içinde inceler.
+    birincil_hedef: 1929 soruşturma komisyonu tutanakları ve Nijeryalı kadınların tanıklıkları.
+
+  - id: olay-yeni-zelanda-kadinlara-oy-hakki-1893
+    baslik: Yeni Zelanda'da kadınlara oy hakkı
+    tip: olay
+    durum: bekliyor
+    rota: kadinlar-yurttasligi-nasil-genisletti
+    sira: 5
+    bolge: [okyanusya]
+    eksen: [siyasi, kulturel]
+    anlati_bicimi: belge-izleme
+    soru: 1893 dilekçesindeki on binlerce imza nasıl yasaya dönüştü ve “ilk ülke” anlatısı Māori kadınların farklı siyasal taleplerini ne ölçüde kapsıyor?
+    benzersiz_katki: Tek bir zafer tarihini imza sayfalarından parlamento sürecine kadar izler; ulusal öncülük anlatısını sömürge yurttaşlığının sınırlarıyla birlikte okur.
+    birincil_hedef: 1893 Kadınların Oy Hakkı Dilekçesi, seçim yasası ve parlamento görüşmeleri.
+
+  - id: tartisma-kadin-haklari-evrensel-mi
+    baslik: Kadın hakları evrensel mi?
+    tip: tartisma
+    durum: bekliyor
+    rota: kadinlar-yurttasligi-nasil-genisletti
+    sira: 6
+    bolge: [kuresel, dogu-asya, afrika, amerika, okyanusya, avrupa]
+    eksen: [siyasi, kulturel, felsefi]
+    anlati_bicimi: karsilastirmali-tartisma
+    soru: Evrensel hak dili farklı toplumlarda kadınların gerçek taleplerini birleştirir mi, yoksa belirli bir tarihsel deneyimi bütün dünyaya mı taşır?
+    benzersiz_katki: Evrenselcilik ile kültürel görecilik ikiliğine sıkışmadan yerel hareketlerin evrensel dili nasıl dönüştürdüğünü gerçek savunucular ve metinler üzerinden karşılaştırır.
+    birincil_hedef: CEDAW metni, yerel hareket bildirileri ve sözleşmeye konulan çekinceler.
+
+  # ── Gelecek rota 12: Okyanuslar dünyayı nasıl bağladı? ──────────────────
+  - id: aktor-lapita-kulturu
+    baslik: Lapita kültürü
+    tip: aktor
+    durum: arastirmada
+    rota: okyanuslar-dunyayi-nasil-bagladi
+    sira: 1
+    bolge: [okyanusya]
+    eksen: [kulturel, demografik, ekonomik]
+    anlati_bicimi: nesne-izleme
+    soru: Benzer çanak çömlek, bitki ve hayvan izleri Pasifik'in ilk büyük yerleşim ağını ne ölçüde tek bir “halk” olarak yorumlamaya izin verir?
+    benzersiz_katki: Yazılı kaynak olmadan göç ve bağlantının nasıl kurulduğunu tek bir süsleme üslubuna indirgemeden arkeoloji, dil ve genetik kanıtın farklı ölçekleriyle gösterir.
+    birincil_hedef: Açık kazı raporları, radyokarbon dizileri ve Lapita seramik katalogları.
+    baslangic_kaynaklari:
+      - https://press.anu.edu.au/publications/series/terra-australis/oceanic-explorations
+      - https://www.ioa.ucla.edu/talepakemalai
+      - https://www.archaeopress.com/Archaeopress/Products/9781803270883
+
+  - id: aktor-nan-madol
+    baslik: Nan Madol
+    tip: aktor
+    durum: bekliyor
+    rota: okyanuslar-dunyayi-nasil-bagladi
+    sira: 2
+    bolge: [okyanusya]
+    eksen: [siyasi, kulturel, ekonomik]
+    anlati_bicimi: mekanizma-izleme
+    soru: Deniz üzerine kurulan taş adacıklar, Saudeleur iktidarının emek, tören ve çevre üzerinde nasıl bir merkezî denetim kurduğunu gösterir?
+    benzersiz_katki: Pasifik siyasal tarihini küçük ve yalıtılmış adalar klişesinden çıkarır; anıtsal yapıyı vergi, ikamet ve törensel yoğunlaşmanın maddi kaydı olarak okur.
+    birincil_hedef: Nan Madol arkeolojik alan raporları, taş kaynak analizleri ve Pohnpei sözlü gelenek kayıtları.
+
+  - id: olay-manila-kalyonu-ticareti
+    baslik: Manila kalyonu ticareti
+    tip: olay
+    durum: bekliyor
+    rota: okyanuslar-dunyayi-nasil-bagladi
+    sira: 3
+    bolge: [dogu-asya, amerika, avrupa]
+    eksen: [ekonomik, siyasi, kulturel]
+    anlati_bicimi: nesne-dolasimi
+    soru: Amerika gümüşü ile Çin mallarını bağlayan Manila kalyonları ilk kalıcı Pasifik ekonomisini hangi emek ve zor ilişkileri üzerinde kurdu?
+    benzersiz_katki: Küresel ticareti Atlantik merkezinden çıkarır; tek bir gümüş sikkenin maden, liman, gemi ve pazar boyunca geçirdiği dönüşümü izler.
+    birincil_hedef: İspanyol sefer kayıtları, Manila gümrük belgeleri ve gemi yük listeleri.
+
+  - id: olay-konteynerlesme
+    baslik: Konteynerleşme
+    tip: olay
+    durum: bekliyor
+    rota: okyanuslar-dunyayi-nasil-bagladi
+    sira: 4
+    bolge: [kuresel, amerika, dogu-asya]
+    eksen: [ekonomik, demografik, siyasi]
+    anlati_bicimi: altyapi-izleme
+    soru: Standart bir metal kutu taşıma maliyetini düşürürken liman işini, sanayi coğrafyasını ve küresel tedarik zincirlerini nasıl yeniden kurdu?
+    benzersiz_katki: Küreselleşmeyi soyut bir açıklık fikri yerine liman vinci, standart ölçü, iş kaybı ve üretim yerinin değişmesi üzerinden somutlaştırır.
+    birincil_hedef: ISO standart kayıtları, liman istatistikleri, sendika belgeleri ve erken konteyner şirketi raporları.
+
+  - id: kavram-muson-seyruseferi
+    baslik: Muson seyrüseferi
+    tip: kavram
+    durum: bekliyor
+    rota: okyanuslar-dunyayi-nasil-bagladi
+    sira: 5
+    bolge: [guney-asya, islam-dunyasi, afrika, dogu-asya]
+    eksen: [ekonomik, kulturel, demografik]
+    anlati_bicimi: dongu-aciklamasi
+    soru: Mevsimsel rüzgâr bilgisi Hint Okyanusu ticaretini nasıl düzenledi ve çevresel ritim liman kentlerinin toplumsal takvimine nasıl dönüştü?
+    benzersiz_katki: Çevreyi pasif arka plan saymaz; rüzgâr döngüsünün bekleme süreleri, kredi, hac, göç ve çok dilli liman toplulukları üzerindeki mekanizmasını açıklar.
+    birincil_hedef: Periplus, Arap seyir kılavuzları, gemi günlükleri ve liman mevsimsellik kayıtları.
+
+  - id: tartisma-kuresellesme-ne-zaman-basladi
+    baslik: Küreselleşme ne zaman başladı?
+    tip: tartisma
+    durum: bekliyor
+    rota: okyanuslar-dunyayi-nasil-bagladi
+    sira: 6
+    bolge: [kuresel]
+    eksen: [ekonomik, kulturel, siyasi, demografik]
+    anlati_bicimi: olcek-catismasi
+    soru: Küreselleşmenin başlangıcı 1492, 1571, 1820, 1956 ya da 1990 olarak seçildiğinde hangi bağlantı türü ölçülmüş, hangisi dışarıda bırakılmış olur?
+    benzersiz_katki: Tek başlangıç tarihi vermek yerine ticaret hacmi, fiyat yakınsaması, biyolojik değişim, iletişim ve siyasal kurumlar için ayrı eşikler kurar.
+    birincil_hedef: Uzun dönem ticaret ve fiyat serileri, gemi kayıtları ve küresel kurum belgeleri.
+
+  # ── Gelecek rota 13: Bilgi nasıl güvenilir olur? ────────────────────────
+  - id: dusunur-ibn-heysem
+    baslik: İbnü'l-Heysem
+    tip: dusunur
+    durum: arastirmada
+    rota: bilgi-nasil-guvenilir-olur
+    sira: 1
+    bolge: [islam-dunyasi, afrika]
+    eksen: [felsefi, kulturel]
+    anlati_bicimi: deney-yeniden-kurma
+    soru: İbnü'l-Heysem görmenin gözden çıkan ışınlarla gerçekleştiği fikrini hangi gözlem, geometrik model ve itiraz zinciriyle değiştirdi?
+    benzersiz_katki: “Bilimsel yöntemi icat etti” sloganını tekrarlamaz; belirli bir optik problemin metin, deney ve matematik arasında nasıl çözüldüğünü yeniden kurar.
+    birincil_hedef: Kitâbü'l-Menâzır'ın açık Arapça ya da Latince nüshası ve eleştirel çeviri bölümleri.
+    baslangic_kaynaklari:
+      - https://mathshistory.st-andrews.ac.uk/DSB/Al-Haytham.pdf
+      - https://www.unesco.org/en/articles/ibn-al-haythams-scientific-method
+      - https://arxiv.org/abs/1902.03301
+
+  - id: aktor-beytulhikme
+    baslik: Beytülhikme
+    tip: aktor
+    durum: bekliyor
+    rota: bilgi-nasil-guvenilir-olur
+    sira: 2
+    bolge: [islam-dunyasi]
+    eksen: [kulturel, siyasi, felsefi]
+    anlati_bicimi: kurum-efsanesi
+    soru: Abbasi Bağdat'ındaki çeviri ve kitap toplama faaliyetleri tek bir “Bilgelik Evi” kurumunda mı örgütlendi, yoksa sonraki anlatılar dağınık ağları mı birleştirdi?
+    benzersiz_katki: Ünlü bir kurumun kesin görünen sınırlarını kaynak düzeyinde sorgular; saray himayesi, özel çevirmen ağları ve kütüphane terimlerini ayırır.
+    birincil_hedef: Abbasi dönemi biyografi ve bibliyografya metinleri ile ödeme ve çeviri kayıtları.
+
+  - id: dusunur-tu-youyou
+    baslik: Tu Youyou
+    tip: dusunur
+    durum: bekliyor
+    rota: bilgi-nasil-guvenilir-olur
+    sira: 3
+    bolge: [dogu-asya]
+    eksen: [kulturel, siyasi, demografik]
+    anlati_bicimi: tariften-deneye
+    soru: Tu Youyou eski bir tıp tarifindeki düşük sıcaklık ipucunu modern sıtma araştırmasında sınanabilir bir çıkarıma nasıl çevirdi?
+    benzersiz_katki: Geleneksel bilgi ile laboratuvar bilimi arasında basit bir karşıtlık kurmaz; metin seçimi, ekstraksiyon yöntemi, ekip çalışması ve klinik doğrulamayı izler.
+    birincil_hedef: Tu Youyou'nun Nobel konuşması, Project 523 yayınları ve artemisinin deney raporları.
+
+  - id: olay-cicek-hastaliginin-yok-edilmesi
+    baslik: Çiçek hastalığının yok edilmesi
+    tip: olay
+    durum: bekliyor
+    rota: bilgi-nasil-guvenilir-olur
+    sira: 4
+    bolge: [kuresel, afrika, guney-asya]
+    eksen: [demografik, siyasi, kulturel]
+    anlati_bicimi: son-vaka-izleme
+    soru: Bir hastalığın dünyadan silindiği iddiası laboratuvar, saha gözetimi, yerel sağlık çalışanları ve siyasal işbirliğiyle nasıl kanıtlandı?
+    benzersiz_katki: Başarı öyküsünü yalnız aşı buluşuna bağlamaz; son vakaların aranması, yanlış alarm, soğuk zincir ve çevreleme aşılamasının bilgi altyapısını gösterir.
+    birincil_hedef: WHO eradikasyon komisyonu raporları, saha günlükleri ve son vaka dosyaları.
+
+  - id: kavram-akademik-hakemlik
+    baslik: Akademik hakemlik
+    tip: kavram
+    durum: bekliyor
+    rota: bilgi-nasil-guvenilir-olur
+    sira: 5
+    bolge: [kuresel, avrupa]
+    eksen: [kulturel, siyasi]
+    anlati_bicimi: kurum-soykutugu
+    soru: Bir iddianın yayımlanmadan önce uzmanlarca okunması ne zaman standartlaştı ve hakemlik hatayı azaltırken hangi önyargıları yeniden üretebilir?
+    benzersiz_katki: Hakemliği zamansız bilim kuralı gibi sunmaz; editör denetiminden dış rapora, tek körden açık hakemliğe uzanan kurumsal değişimi karşılaştırır.
+    birincil_hedef: Erken bilim dergilerinin editör kayıtları, hakem raporları ve modern yayın etiği belgeleri.
+
+  - id: tartisma-bilimsel-devrim-avrupaya-mi-ait
+    baslik: Bilimsel Devrim Avrupa'ya mı ait?
+    tip: tartisma
+    durum: bekliyor
+    rota: bilgi-nasil-guvenilir-olur
+    sira: 6
+    bolge: [kuresel, avrupa, islam-dunyasi, dogu-asya]
+    eksen: [felsefi, kulturel, siyasi]
+    anlati_bicimi: aktarim-tartismasi
+    soru: On altıncı ve on yedinci yüzyıl Avrupa'sındaki bilimsel dönüşüm özgün bir kopuş muydu, yoksa daha eski ve kıtalararası bilgi ağlarının yeni bir bileşimi miydi?
+    benzersiz_katki: “Her şeyi Avrupa buldu” ile “her şey daha önce bulunmuştu” uçlarını aşar; kurum, yöntem, ölçek ve aktarım için ayrı süreklilik ve kopuş ölçütleri kurar.
+    birincil_hedef: Erken modern bilim metinleri, çeviri kayıtları ve farklı bölgelerden karşılaştırılabilir gözlem gelenekleri.
+
+  # ── Gelecek rota 14: Çevre felaketi kimin kararıdır? ────────────────────
+  - id: olay-bikini-nukleer-denemeleri
+    baslik: Bikini Nükleer Denemeleri
+    tip: olay
+    durum: arastirmada
+    rota: cevre-felaketi-kimin-kararidir
+    sira: 1
+    bolge: [okyanusya, kuresel]
+    eksen: [askeri, demografik, siyasi, kulturel]
+    anlati_bicimi: karar-ve-taniklik
+    soru: “İnsanlığın iyiliği” adına yerinden edilen Bikini halkının deneyimi, nükleer test kararında riskin kim tarafından tanımlanıp kime yüklendiğini nasıl gösterir?
+    benzersiz_katki: Testlerin teknik kronolojisini yerinden edilme, yanlış verim tahmini, serpinti ve geri dönüş kararlarıyla birlikte okur; Pasifik'i boş bir test alanı gibi sunmaz.
+    birincil_hedef: Operation Crossroads ve Castle kayıtları, Bikini halkının tanıklıkları ve doz ölçüm raporları.
+    baslangic_kaynaklari:
+      - https://marshallislands.llnl.gov/affected-areas/bikini-atoll
+      - https://www.govinfo.gov/app/details/GOVPUB-D15-PURL-gpo222809
+      - https://www.archives.gov/files/declassification/pidb/recommendations/marshall-islands-feasibility-study-2022-.pdf
+      - https://history.state.gov/historicaldocuments/frus1955-57v20/d140
+
+  - id: olay-sahel-kurakligi-1968-1985
+    baslik: Sahel kuraklığı
+    tip: olay
+    durum: bekliyor
+    rota: cevre-felaketi-kimin-kararidir
+    sira: 2
+    bolge: [afrika]
+    eksen: [demografik, ekonomik, siyasi]
+    anlati_bicimi: veri-ve-hafiza
+    soru: 1968 sonrasında yağış azalması nasıl kitlesel açlık ve göçe dönüştü; sömürge sınırları, sürü politikaları ve yardım kurumları bu sonucu nasıl biçimlendirdi?
+    benzersiz_katki: Kuraklığı kendiliğinden felaket saymaz; yağış serisini geçim stratejileri, hareket kısıtları ve gıda dağıtımıyla bağlayarak çevresel şok ile toplumsal zarar arasını doldurur.
+    birincil_hedef: Yağış serileri, erken uyarı kayıtları, yardım raporları ve pastoralist tanıklıkları.
+
+  - id: olay-aral-golunun-kuculmesi
+    baslik: Aral Gölü'nün küçülmesi
+    tip: olay
+    durum: bekliyor
+    rota: cevre-felaketi-kimin-kararidir
+    sira: 3
+    bolge: [orta-asya]
+    eksen: [ekonomik, demografik, siyasi]
+    anlati_bicimi: altyapi-karari
+    soru: Sulama kanalları ve pamuk hedefleri Aral Gölü'nü nasıl küçülttü; merkezî planın üretim başarısı yerel sağlık ve geçim kaybını neden hesaba katmadı?
+    benzersiz_katki: Felaketi tek bir kötü karara bağlamaz; su bütçesi, tarımsal hedef, bürokratik teşvik ve bölgesel eşitsizlikten oluşan karar zincirini izler.
+    birincil_hedef: Sovyet sulama planları, uydu görüntüleri, su akışı serileri ve bölgesel sağlık kayıtları.
+
+  - id: olay-minamata-hastaligi
+    baslik: Minamata hastalığı
+    tip: olay
+    durum: bekliyor
+    rota: cevre-felaketi-kimin-kararidir
+    sira: 4
+    bolge: [dogu-asya]
+    eksen: [demografik, ekonomik, siyasi]
+    anlati_bicimi: nedensellik-davasi
+    soru: Balık, fabrika atığı ve nörolojik belirtiler arasındaki bağ nasıl kanıtlandı; şirket ve devlet belirsizliği sorumluluğu ertelemek için nasıl kullandı?
+    benzersiz_katki: Bilimsel nedenselliğin mahkeme ve tazminat kararına dönüşmesini hasta deneyimi, laboratuvar bulgusu ve kurumsal gecikme üzerinden birlikte gösterir.
+    birincil_hedef: Hasta kayıtları, Chisso deneyleri, resmî soruşturma raporları ve mahkeme kararları.
+
+  - id: kavram-cevre-adaleti
+    baslik: Çevre adaleti
+    tip: kavram
+    durum: bekliyor
+    rota: cevre-felaketi-kimin-kararidir
+    sira: 5
+    bolge: [kuresel, amerika, afrika, okyanusya]
+    eksen: [siyasi, ekonomik, demografik]
+    anlati_bicimi: kavramdan-olcume
+    soru: Çevresel zararın miktarı kadar kimlere yüklendiğini sormak politika değerlendirmesini nasıl değiştirir ve adalet hangi ölçütlerle ölçülebilir?
+    benzersiz_katki: Kavramı bir slogan olarak bırakmaz; dağıtım, karar sürecine katılım, tanınma ve onarım boyutlarını tarihsel vakalarda ayrı ayrı sınar.
+    birincil_hedef: Çevre adaleti hareketi bildirileri, dava dosyaları, mekânsal maruziyet verileri ve politika metinleri.
+
+  - id: tartisma-antroposen-ne-zaman-basladi
+    baslik: Antroposen ne zaman başladı?
+    tip: tartisma
+    durum: bekliyor
+    rota: cevre-felaketi-kimin-kararidir
+    sira: 6
+    bolge: [kuresel]
+    eksen: [demografik, ekonomik, kulturel]
+    anlati_bicimi: tarih-sinyali-tartismasi
+    soru: İnsan etkisinin jeolojik başlangıcı tarım, 1610, Sanayi Devrimi ya da 1950'lerin büyük hızlanması olarak seçildiğinde sorumluluk anlatısı nasıl değişir?
+    benzersiz_katki: Jeolojik işaret ile tarihsel sorumluluğu aynı soru saymaz; ölçülebilir tabaka sinyallerini imparatorluk, enerji ve eşitsizlik açıklamalarından ayırıp yeniden bağlar.
+    birincil_hedef: Stratigrafi çalışma grubu kayıtları, çekirdek örnek verileri ve rakip başlangıç tezlerinin özgün makaleleri.
+
+  # ── Gelecek rota 15: Kent devleti mi, ağ mı doğurur? ────────────────────
+  - id: aktor-hausa-sehir-devletleri
+    baslik: Hausa şehir devletleri
+    tip: aktor
+    durum: arastirmada
+    rota: kent-devleti-mi-ag-mi-dogurur
+    sira: 1
+    bolge: [afrika, islam-dunyasi]
+    eksen: [siyasi, ekonomik, kulturel]
+    anlati_bicimi: kronik-ve-kent
+    soru: Kano ve diğer Hausa kentleri ortak dil ve kuruluş anlatısına rağmen neden tek devlette birleşmedi; rekabet ile ticaret birbirini nasıl besledi?
+    benzersiz_katki: Afrika kent tarihini imparatorlukların eki olmaktan çıkarır; kronik, sözlü kuruluş anlatısı, zanaat örgütü ve pazar ağını farklı kanıt türleri olarak karşılaştırır.
+    birincil_hedef: Kano Chronicle, Hausa sözlü gelenek kayıtları, kent suru arkeolojisi ve erken coğrafyacı metinleri.
+    baslangic_kaynaklari:
+      - https://ora.ox.ac.uk/objects/uuid%3Ac7372936-6bed-47cb-87be-01a10150d868
+      - https://www.kanoarchive.com/index.php
+      - https://zenodo.org/records/2415833/files/article.pdf
+      - https://sahistory.org.za/sites/default/files/archive-files/toyin_falola_matthew_m._heaton_a_history_of_nigbook4you.pdf
+
+  - id: aktor-muisca-konfederasyonu
+    baslik: Muisca Konfederasyonu
+    tip: aktor
+    durum: bekliyor
+    rota: kent-devleti-mi-ag-mi-dogurur
+    sira: 2
+    bolge: [amerika]
+    eksen: [siyasi, ekonomik, kulturel]
+    anlati_bicimi: fetih-kaynagi-elestirisi
+    soru: İspanyol kroniklerinin “konfederasyon” diye birleştirdiği Muisca siyasal birimleri gerçekte hangi haraç, akrabalık ve rekabet ilişkileriyle bağlıydı?
+    benzersiz_katki: Fetih sonrası bir sınıflandırmayı geçmişe taşımak yerine arkeolojik yerleşim, tuz ve altın dolaşımı ile rakip kronikleri karşılaştırır.
+    birincil_hedef: Erken İspanyol kronikleri, haraç kayıtları, Muisca arkeolojisi ve yerli adlandırma verileri.
+
+  - id: aktor-tiwanaku
+    baslik: Tiwanaku
+    tip: aktor
+    durum: bekliyor
+    rota: kent-devleti-mi-ag-mi-dogurur
+    sira: 3
+    bolge: [amerika]
+    eksen: [siyasi, ekonomik, dini, demografik]
+    anlati_bicimi: peyzaj-okumasi
+    soru: Titicaca çevresindeki anıtsal merkez, yükseltilmiş tarlalar ve uzak koloniler tek bir imparatorluğu mu, yoksa ritüel ve ekonomik bir ağı mı gösterir?
+    benzersiz_katki: Devlet biçimini yazılı kaynak olmadan çıkarsamanın sınırlarını öğretir; mimari, tarım sistemi, izotop ve seramik dağılımını aynı hükme zorlamaz.
+    birincil_hedef: Kazı raporları, yükseltilmiş tarla deneyleri, izotop çalışmaları ve seramik dağılım verileri.
+
+  - id: aktor-mutapa-devleti
+    baslik: Mutapa Devleti
+    tip: aktor
+    durum: bekliyor
+    rota: kent-devleti-mi-ag-mi-dogurur
+    sira: 4
+    bolge: [afrika]
+    eksen: [siyasi, ekonomik, askeri]
+    anlati_bicimi: ticaret-pazarligi
+    soru: Altın üretimi ile Hint Okyanusu ticareti Mutapa hükümdarlarına nasıl güç verdi ve Portekiz müdahalesi bu aracı ağları neden tamamen denetleyemedi?
+    benzersiz_katki: İç Afrika ile kıyı ticaretini iki ayrı dünya gibi sunmaz; maden, tüccar, vergi, diplomasi ve askerî ittifak arasındaki pazarlığı izler.
+    birincil_hedef: Portekiz yazışmaları, Svahili ticaret kayıtları, maden arkeolojisi ve yerel sözlü gelenek.
+
+  - id: kavram-sahra-otesi-ticaret
+    baslik: Sahra ötesi ticaret
+    tip: kavram
+    durum: bekliyor
+    rota: kent-devleti-mi-ag-mi-dogurur
+    sira: 5
+    bolge: [afrika, islam-dunyasi]
+    eksen: [ekonomik, demografik, kulturel]
+    anlati_bicimi: maliyet-mekanizmasi
+    soru: Çölü aşan ticaret yalnız deve teknolojisiyle mi mümkün oldu; güven, kredi, su bilgisi ve siyasal koruma maliyeti nasıl paylaştırdı?
+    benzersiz_katki: Altın-tuz değişimi klişesini aşar; kervanın finansmanı, konak aralığı, köle emeği, bilgi ve risk yönetimini ölçülebilir bir mekanizma hâline getirir.
+    birincil_hedef: Coğrafyacı metinleri, kervan hesapları, sikke buluntuları, rota arkeolojisi ve iklim verileri.
+
+  - id: tartisma-kentlesme-devleti-gerektirir-mi
+    baslik: Kentleşme devleti gerektirir mi?
+    tip: tartisma
+    durum: bekliyor
+    rota: kent-devleti-mi-ag-mi-dogurur
+    sira: 6
+    bolge: [kuresel, afrika, amerika, okyanusya]
+    eksen: [siyasi, ekonomik, demografik, kulturel]
+    anlati_bicimi: karsilastirmali-model
+    soru: Yoğun nüfus, anıtsal yapı ve uzmanlaşmış emek merkezî bir devletin kanıtı mıdır, yoksa ağlar ve ortak kurumlar da kent üretebilir mi?
+    benzersiz_katki: Kent ile devleti eş anlamlı sayan evrim şemasını Hausa, Tiwanaku, Nan Madol ve başka karşı örneklerle sınar; her gösterge için alternatif mekanizma ister.
+    birincil_hedef: Karşılaştırmalı yerleşim verileri, kazı raporları, hane dağılımları ve rakip devlet oluşumu modelleri.
