@@ -28,10 +28,10 @@ kaynaklar:
     not: "Nü Jie'den izinli İngilizce çeviri parçaları ve belge soruları"
   - anahtar: k2
     tur: akademik
-    ad: "Yuen Ting Lee - Ban Zhao: Scholar of Han Dynasty China"
-    url: https://worldhistoryconnected.press.uillinois.edu/9.1/lee.html
+    ad: "Stanford Encyclopedia of Philosophy - Philosophy in Han Dynasty China"
+    url: https://plato.stanford.edu/entries/han-dynasty/
     erisim_tarihi: 2026-08-30
-    dogrulama_dizesi: "Ban Zhao: Scholar of Han Dynasty China"
+    dogrulama_dizesi: "Ban Zhao and the Scholarship of Women"
     not: "Ban Zhao'nun tarihçiliği, eğiticiliği ve metnin sonraki alımlanışı"
   - anahtar: k3
     tur: akademik

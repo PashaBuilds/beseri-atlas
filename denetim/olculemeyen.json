@@ -1,8 +1,14 @@
 {
   "https://openresearch-repository.anu.edu.au/items/376b0360-77f1-4ea5-ad6f-c952ea89e335": {
     "ilk_gorulme": "2026-08-30T17:04:45.841Z",
-    "kez": 3,
-    "son_gorulme": "2026-08-30T17:05:41.477Z",
+    "kez": 5,
+    "son_gorulme": "2026-08-30T17:12:46.234Z",
+    "son_durum": "ENOTFOUND"
+  },
+  "https://plato.stanford.edu/entries/han-dynasty/": {
+    "ilk_gorulme": "2026-08-30T17:12:21.234Z",
+    "kez": 2,
+    "son_gorulme": "2026-08-30T17:12:46.234Z",
     "son_durum": "ENOTFOUND"
   }
 }
