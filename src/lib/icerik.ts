@@ -20,7 +20,7 @@ export function tipAdi(tip: unknown): string {
 }
 
 export const BOLGE_ADLARI: Record<string, string> = {
-  avrupa: 'Avrupa', 'islam-dunyasi': 'İslam dünyası', 'orta-asya': 'Orta Asya',
+  avrupa: 'Avrupa', 'bati-asya': 'Batı Asya', 'islam-dunyasi': 'İslam dünyası', 'orta-asya': 'Orta Asya',
   'dogu-asya': 'Doğu Asya',
   'guney-asya': 'Güney Asya', afrika: 'Afrika', amerika: 'Amerika',
   okyanusya: 'Okyanusya', kuresel: 'Küresel',

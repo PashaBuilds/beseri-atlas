@@ -1,4 +1,4 @@
-// Bağlam kişisel öğrenme durumu.
+// Dünya Örgüsü kişisel öğrenme durumu.
 //
 // Tasarım ilkesi: "okundu" bir öğrenme ölçüsü değildir. Kalıcı öğrenme için
 // okurun önce bir tahminde bulunması, okuma sırasında bağ kurması, metin

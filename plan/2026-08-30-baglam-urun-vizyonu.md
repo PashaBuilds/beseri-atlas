@@ -1,15 +1,16 @@
-# Bağlam — ürün vizyonu ve adlandırma kararı
+# Dünya Örgüsü — ürün vizyonu ve adlandırma kararı
 
 ## Karar
 
-Çalışma adı **Bağlam**. Alt cümle: **“Tarihi ezberlemek için değil, dünyayı
-anlamak için.”**
+Ürün adı **Dünya Örgüsü**. Alt cümle: **“Dünya tarihini bağlantılarıyla oku.”**
 
 `Beşerî Atlas` neyin bulunduğunu söylüyordu: geniş bir beşerî bilimler
-korpusu. `Bağlam` ise okurun ne kazanacağını söylüyor: olayları tek tek bilmek
-yerine aralarındaki nedensellik, eşzamanlılık, süreklilik ve kırılmaları görme
-yeteneği. Ürün artık bir atlasın sayfalarını göstermekten çok, parçaları yerli
-yerine koyan bir düşünme aracı olarak tasarlanıyor.
+korpusu. İlk ürün adı olan `Bağlam` okurun ne kazanacağını söylüyordu, fakat
+fazla genel kaldı. `Dünya Örgüsü` hem kapsamı hem yöntemi adında taşır: dünya
+tarihini tek tek maddeler olarak değil, nedensellik, eşzamanlılık, süreklilik ve
+kırılmalardan oluşan bir ilişkiler ağı olarak okumak. Ürün artık bir atlasın
+sayfalarını göstermekten çok, parçalar arasındaki bağı görünür kılan bir düşünme
+aracı olarak tasarlanıyor.
 
 URL ve depo adı bu aşamada değiştirilmiyor. Görsel marka ile ürün dili yeni adı
 kullanıyor; teknik adlandırma, alan adı ve yayın adresi kesinleştiğinde tek bir
@@ -25,8 +26,10 @@ geçişte değiştirilebilir.
   fazla teknik kalıyor.
 - **Dünya Hâli:** Sıcak ve hatırlanabilir; ciddi kaynak/kanıt sistemini tek
   başına taşımıyor.
-- **Bağlam Atlası:** En açıklayıcı geçiş adı; ancak kısa `Bağlam` kadar güçlü ve
-  ürünleşebilir değil.
+- **Bağlam / Bağlam Atlası:** Yöntemi anlatıyor; fakat tek başına fazla genel ve
+  başka ürünlerden ayırt edilmesi güç.
+- **Dünya Örgüsü:** Kapsamı ve bağlantılı okuma vaadini birlikte taşıdığı için
+  seçildi; gündelik Türkçede ilk karşılaşmada açıklama gerektirmiyor.
 
 ## Yeni ürün vaadi
 
@@ -94,7 +97,7 @@ sayısının büyümesi ise ürün başarısıdır.
 
 ## Sonraki üç ürün dalgası
 
-1. **Bağlam 1.0:** Yeni ana sayfa, altı rota, kişisel defter, makale okuma
+1. **Dünya Örgüsü 1.0:** Yeni ana sayfa, altı rota, kişisel defter, makale okuma
    araçları ve mobil/masaüstü kalite doğrulaması.
 2. **Karşılaştırma:** İki olay, aktör veya kavramı aynı eksenlerde yan yana
    getiren karşılaştırma laboratuvarı; benzerlik kadar ölçülemezliği de gösterir.

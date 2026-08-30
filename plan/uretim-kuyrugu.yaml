@@ -4,7 +4,7 @@
 # makalelerin daha yazılmadan önce öğrenme katkısını, bölgesel çeşitliliğini,
 # anlatı biçimini ve kaynak stratejisini tanımlar.
 
-surum: 1
+surum: 2
 
 sozlesme:
   kaynak_min: 6
@@ -34,6 +34,9 @@ adaylar:
       - https://afe.easia.columbia.edu/main_pop/ps/ps_china-banzhao-admonitions.htm
       - https://ctext.org/hou-han-shu/lie-nv-zhuan/zh
       - https://vc.bridgew.edu/jiws/vol5/iss1/3/
+      - https://www.international.ucla.edu/ccs/article/18475
+      - https://www.cambridge.org/core/books/abs/ancient-women-philosophers/reappraising-ban-zhao/CB84B98EA5ED8E2769742CF4C5C4537E
+      - https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/be538338-7413-4eca-baef-1ecfc6ed4a81/content
 
   - id: dusunur-mary-wollstonecraft
     baslik: Mary Wollstonecraft
@@ -117,6 +120,8 @@ adaylar:
       - https://press.anu.edu.au/publications/series/terra-australis/oceanic-explorations
       - https://www.ioa.ucla.edu/talepakemalai
       - https://www.archaeopress.com/Archaeopress/Products/9781803270883
+      - https://pacificarchaeology.org/index.php/journal/article/view/55
+      - https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5515717/fullTextXML
 
   - id: aktor-nan-madol
     baslik: Nan Madol
@@ -281,7 +286,6 @@ adaylar:
     birincil_hedef: Operation Crossroads ve Castle kayıtları, Bikini halkının tanıklıkları ve doz ölçüm raporları.
     baslangic_kaynaklari:
       - https://marshallislands.llnl.gov/affected-areas/bikini-atoll
-      - https://www.govinfo.gov/app/details/GOVPUB-D15-PURL-gpo222809
       - https://www.archives.gov/files/declassification/pidb/recommendations/marshall-islands-feasibility-study-2022-.pdf
       - https://history.state.gov/historicaldocuments/frus1955-57v20/d140
 
@@ -433,3 +437,398 @@ adaylar:
     soru: Yoğun nüfus, anıtsal yapı ve uzmanlaşmış emek merkezî bir devletin kanıtı mıdır, yoksa ağlar ve ortak kurumlar da kent üretebilir mi?
     benzersiz_katki: Kent ile devleti eş anlamlı sayan evrim şemasını Hausa, Tiwanaku, Nan Madol ve başka karşı örneklerle sınar; her gösterge için alternatif mekanizma ister.
     birincil_hedef: Karşılaştırmalı yerleşim verileri, kazı raporları, hane dağılımları ve rakip devlet oluşumu modelleri.
+
+  # ── Gelecek rota 16: Hukuk kimin sözünü geçerli kılar? ─────────────────
+  - id: kaynak-hammurabi-steli
+    baslik: Hammurabi Steli
+    tip: kaynak
+    durum: bekliyor
+    rota: hukuk-kimin-sozunu-gecerli-kilar
+    sira: 1
+    bolge: [bati-asya]
+    eksen: [siyasi, ekonomik, kulturel]
+    anlati_bicimi: nesne-ve-metin
+    soru: Taşa kazınmış hükümler Babil toplumunda gerçekten uygulanan hukuku mu gösterir, yoksa kralın adalet iddiasını kalıcılaştıran seçilmiş örnekleri mi?
+    benzersiz_katki: Kanun derlemesini modern yasa kitabı gibi okumak yerine stelin görüntüsü, konumu, dava örnekleri ve hükümdarlık söylemi arasındaki farkları öğretir.
+    birincil_hedef: Louvre steli katalog kaydı, Akadca çevriyazı, açık çeviri ve aynı döneme ait gerçek mahkeme tabletleri.
+
+  - id: kaynak-magna-carta-1215
+    baslik: Magna Carta'nın 1215 nüshaları
+    tip: kaynak
+    durum: bekliyor
+    rota: hukuk-kimin-sozunu-gecerli-kilar
+    sira: 2
+    bolge: [avrupa]
+    eksen: [siyasi, ekonomik]
+    anlati_bicimi: nusha-izleme
+    soru: Başarısız bir barış anlaşmasının maddeleri sonraki yüzyıllarda nasıl “özgürlüğün başlangıcı”na dönüştürüldü ve bu anlatı ilk metinde kimleri dışarıda bıraktı?
+    benzersiz_katki: Belgenin 1215'teki kısa siyasal ömrünü sonraki yeniden basım ve yorumlardan ayırır; hakların tek seferde doğduğu efsanesi yerine metnin değişen kullanımını izler.
+    birincil_hedef: Korunan 1215 nüshalarının sayısal görüntüleri, Latince metin, 1216 ve 1225 yeniden basımları ile baron yazışmaları.
+
+  - id: olay-haiti-anayasasi-1805
+    baslik: Haiti Anayasası (1805)
+    tip: olay
+    durum: bekliyor
+    rota: hukuk-kimin-sozunu-gecerli-kilar
+    sira: 3
+    bolge: [amerika]
+    eksen: [siyasi, kulturel, demografik]
+    anlati_bicimi: madde-ve-hayat
+    soru: Köleliği yıkan bir devrim 1805 Anayasası'nda özgürlük, ırk, mülkiyet ve egemenliği hangi maddelerle yeniden tanımladı ve bu maddeler gündelik hayata nasıl yansıdı?
+    benzersiz_katki: Haiti'yi yalnız başarılı köle ayaklanması olarak değil, sömürge ırk kategorilerini tersyüz ederek yeni bir siyasal üyelik dili kuran hukuk laboratuvarı olarak gösterir.
+    birincil_hedef: 1805 Anayasası'nın Fransızca metni, çağdaş devlet yazışmaları, arazi kararları ve farklı İngilizce çeviriler.
+
+  - id: olay-hindistan-anayasasi-1950
+    baslik: Hindistan Anayasası'nın kuruluşu
+    tip: olay
+    durum: bekliyor
+    rota: hukuk-kimin-sozunu-gecerli-kilar
+    sira: 4
+    bolge: [guney-asya]
+    eksen: [siyasi, kulturel, demografik]
+    anlati_bicimi: tutanaktan-maddeye
+    soru: Kurucu Meclis kast, din, dil ve toplumsal cinsiyet ayrımlarını tek bir yurttaşlık düzeninde birleştirmeye çalışırken hangi uyuşmazlıkları anayasa maddelerine taşıdı?
+    benzersiz_katki: Anayasayı tek bir kurucunun eseri gibi sunmaz; komite taslağı, salon tartışması, azınlık itirazı ve kabul edilen hüküm arasındaki karar zincirini görünür kılar.
+    birincil_hedef: Kurucu Meclis tutanakları, taslak komite raporları, 1950 özgün metni ve ilk anayasa davalarının kararları.
+
+  - id: kavram-sozlu-hukuk
+    baslik: Sözlü hukuk
+    tip: kavram
+    durum: bekliyor
+    rota: hukuk-kimin-sozunu-gecerli-kilar
+    sira: 5
+    bolge: [afrika, okyanusya, kuresel]
+    eksen: [siyasi, kulturel]
+    anlati_bicimi: durusma-karsilastirmasi
+    soru: Bir kural yazılı değilse daha mı değişkendir; topluluk hafızası, arabulucu otoritesi ve tekrar eden kararlar hukuki sürekliliği hangi araçlarla kurar?
+    benzersiz_katki: Yazıyı hukukla eş anlamlı sayan varsayımı farklı uyuşmazlık kayıtlarıyla sınar; esneklik ile keyfîlik, süreklilik ile donmuşluk arasındaki farkı somutlaştırır.
+    birincil_hedef: Kaydedilmiş yerel duruşmalar, sözlü hukuk anlatıları, arabuluculuk tutanakları ve sömürge kodifikasyonundan önce-sonra karşılaştırmaları.
+
+  - id: tartisma-yazili-hukuk-esitlik-getirir-mi
+    baslik: Yazılı hukuk eşitlik getirir mi?
+    tip: tartisma
+    durum: bekliyor
+    rota: hukuk-kimin-sozunu-gecerli-kilar
+    sira: 6
+    bolge: [kuresel, bati-asya, avrupa, afrika, amerika, guney-asya]
+    eksen: [siyasi, kulturel, ekonomik]
+    anlati_bicimi: kurum-karsilastirmasi
+    soru: Kuralların yazılı ve herkese açık olması iktidarı gerçekten sınırlar mı, yoksa metne erişim, yorum yetkisi ve uygulama gücü eşitsizliği başka bir düzeyde yeniden mi kurar?
+    benzersiz_katki: Yazılı hukuk ile hukuk devleti arasına otomatik eşitlik işareti koymaz; öngörülebilirlik, erişim, yaptırım ve yorum tekeli için ayrı karşılaştırma ölçütleri kurar.
+    birincil_hedef: Farklı dönemlerden kanun metinleri, gerçek dava kararları, erişim ve uygulama kayıtları ile sözlü hukuk duruşmalarının karşılaştırması.
+
+  # ── Gelecek rota 17: Emek neden özgür görünür? ─────────────────────────
+  - id: olay-potosi-mita
+    baslik: Potosí mita emeği
+    tip: olay
+    durum: bekliyor
+    rota: emek-neden-ozgur-gorunur
+    sira: 1
+    bolge: [amerika]
+    eksen: [ekonomik, siyasi, demografik]
+    anlati_bicimi: bir-vardiyanin-izi
+    soru: And topluluklarından zorunlu işçi toplayan mita sistemi gümüş üretimini nasıl besledi ve ücret, borç, kota ile zor arasındaki sınırı nasıl bulanıklaştırdı?
+    benzersiz_katki: Küresel gümüş akışını yalnız fiyat ve ticaret üzerinden anlatmaz; tek bir işçinin köyden madene, vardiyadan pazara uzanan zaman ve risk maliyetini merkeze alır.
+    birincil_hedef: Mita kotaları, maden bordroları, sömürge denetim raporları, yerli dilekçeleri ve ölüm-hastalık kayıtları.
+
+  - id: aktor-osmanli-loncalari
+    baslik: Osmanlı loncaları
+    tip: aktor
+    durum: bekliyor
+    rota: emek-neden-ozgur-gorunur
+    sira: 2
+    bolge: [islam-dunyasi, avrupa, bati-asya]
+    eksen: [ekonomik, siyasi, kulturel]
+    anlati_bicimi: atolyeden-mahkemeye
+    soru: Loncalar ustalık, kalite ve fiyatı düzenlerken çalışanları koruyan bir dayanışma mı kurdu, yoksa pazara giriş ve yükselme imkânını denetleyen bir tekel mi yarattı?
+    benzersiz_katki: Lonca kurumunu romantik dayanışma ya da değişmez engel kalıbına sıkıştırmaz; farklı kent, zanaat, cinsiyet ve yüzyıllarda kuralların pazarlıkla nasıl değiştiğini izler.
+    birincil_hedef: Lonca nizamnameleri, şer'iye sicilleri, narh defterleri, gedik kayıtları ve usta-kalfa uyuşmazlıkları.
+
+  - id: olay-hint-sozlesmeli-emek-gocu
+    baslik: Hint sözleşmeli emek göçü
+    tip: olay
+    durum: bekliyor
+    rota: emek-neden-ozgur-gorunur
+    sira: 3
+    bolge: [guney-asya, afrika, amerika, okyanusya]
+    eksen: [ekonomik, demografik, siyasi]
+    anlati_bicimi: sozlesme-rotasi
+    soru: Köleliğin kaldırılmasından sonra milyonlarca Hintli işçiyi plantasyonlara taşıyan sözleşme sistemi rıza, borç, hareket ve ceza koşullarını nasıl yeniden düzenledi?
+    benzersiz_katki: Kölelik ile özgür emek arasında keskin bir kopuş varsaymaz; işe alım köyü, gemi, plantasyon ve dönüş seçeneğini tek bir sözleşmenin farklı güç ilişkileri olarak okur.
+    birincil_hedef: İşçi sözleşmeleri, göçmen listeleri, koruyucu raporları, plantasyon ceza kayıtları, mektuplar ve sözlü tarih arşivleri.
+
+  - id: olay-meiji-kadin-tekstil-iscileri
+    baslik: Meiji dönemi kadın tekstil işçileri
+    tip: olay
+    durum: bekliyor
+    rota: emek-neden-ozgur-gorunur
+    sira: 4
+    bolge: [dogu-asya]
+    eksen: [ekonomik, demografik, kulturel]
+    anlati_bicimi: fabrika-gunlugu
+    soru: Japon sanayileşmesinin dövizini kazanan genç kadın tekstil işçileri ücret, yatakhane disiplini, sağlık riski ve aile yükümlülüğü arasında nasıl bir hayat kurdu?
+    benzersiz_katki: Sanayileşmeyi makine ve ihracat grafiğinden çıkarıp beden, zaman ve hane stratejisine bağlar; “özgür ücretli işçi” kategorisinin yaş ve cinsiyete göre değiştiğini gösterir.
+    birincil_hedef: Fabrika denetim raporları, işçi günlükleri ve şarkıları, ücret çizelgeleri, yatakhane kuralları ve sağlık istatistikleri.
+
+  - id: kavram-ev-ici-emek
+    baslik: Ev içi emek
+    tip: kavram
+    durum: bekliyor
+    rota: emek-neden-ozgur-gorunur
+    sira: 5
+    bolge: [kuresel]
+    eksen: [ekonomik, demografik, kulturel]
+    anlati_bicimi: gorunmeyen-zaman-hesabi
+    soru: Yemek, bakım, temizlik ve çocuk yetiştirme piyasa fiyatına sahip olmadığında ekonominin dışında mı kalır; zaman kullanımı ölçümleri bu görünmezliği nasıl değiştirir?
+    benzersiz_katki: Ücretsiz emeği yalnız ahlaki takdir konusu yapmaz; milli gelir hesabı, ücret ikamesi, fırsat maliyeti ve bakım ilişkisi ölçülerinin neyi gösterip gizlediğini karşılaştırır.
+    birincil_hedef: Erken hane bütçeleri, zaman kullanım günlükleri, nüfus sayımı talimatları, feminist kampanya metinleri ve ulusal hesap yöntemleri.
+
+  - id: tartisma-ucretli-emek-ozgur-mu
+    baslik: Ücretli emek ne kadar özgürdür?
+    tip: tartisma
+    durum: bekliyor
+    rota: emek-neden-ozgur-gorunur
+    sira: 6
+    bolge: [kuresel, amerika, guney-asya, dogu-asya, islam-dunyasi]
+    eksen: [ekonomik, siyasi, felsefi]
+    anlati_bicimi: ozgurluk-olcutleri
+    soru: Bir işçi hukuken ayrılabiliyorsa emeği özgür müdür; borç, geçim zorunluluğu, göçmen statüsü, bakım yükü ve örgütlenme hakkı bu özgürlüğü nasıl değiştirir?
+    benzersiz_katki: Özgür ve zorunlu emek ikiliği yerine ayrılma maliyeti, sözleşme pazarlığı, hareket serbestisi ve kolektif güç için ayrı ölçüler kurup tarihsel sistemleri karşılaştırır.
+    birincil_hedef: İş sözleşmeleri, ceza hükümleri, ücret ve borç kayıtları, grev belgeleri, işçi tanıklıkları ve rakip emek kuramlarının özgün metinleri.
+
+  # ── Gelecek rota 18: Din gündelik düzeni nasıl kurar? ───────────────────
+  - id: kaynak-budist-vinaya
+    baslik: Budist Vinaya kuralları
+    tip: kaynak
+    durum: bekliyor
+    rota: din-gundelik-duzeni-nasil-kurur
+    sira: 1
+    bolge: [guney-asya, dogu-asya]
+    eksen: [dini, kulturel, ekonomik]
+    anlati_bicimi: kural-ihlali-izleme
+    soru: Manastır kuralları yalnız soyut bir inancı mı kodlar, yoksa yemek, mülkiyet, beden, cinsiyet ve anlaşmazlık gibi gündelik sorunlara verilen birikimli cevapları mı saklar?
+    benzersiz_katki: Dini metni yalnız öğreti özeti olarak okumaz; her kuralın ardındaki ihlal hikâyesini kurumun karşılaştığı maddi ve toplumsal problemin izi olarak kullanır.
+    birincil_hedef: Farklı Vinaya geleneklerinin açık çevirileri, paralel kural bölümleri, manastır muhasebeleri ve arkeolojik yerleşim planları.
+
+  - id: aktor-yoruba-ifa-uzmanlari
+    baslik: Yoruba Ifá uzmanları
+    tip: aktor
+    durum: bekliyor
+    rota: din-gundelik-duzeni-nasil-kurur
+    sira: 2
+    bolge: [afrika, amerika]
+    eksen: [dini, kulturel, siyasi]
+    anlati_bicimi: danisma-oturumu
+    soru: Ifá kehanet uzmanları ezberlenmiş şiir kümelerini kişisel bir soruna nasıl uygular ve yorum yetkisini eğitim, nesne, performans ile topluluk denetimi içinde nasıl kurar?
+    benzersiz_katki: Kehaneti yanlış-doğru tahmin ölçüsüne indirgemez; bilgi aktarımı, yorum, danışmanlık, ritüel ekonomi ve Atlantik ötesi dönüşümü tek bir uzmanlık pratiğinde birleştirir.
+    birincil_hedef: Kaydedilmiş Ifá dizeleri, danışma performansları, eğitim silsilesi tanıklıkları, kehanet tepsileri ve Afrika-diaspora karşılaştırmaları.
+
+  - id: aktor-vakif-kulliyesi
+    baslik: Vakıf külliyesi
+    tip: aktor
+    durum: bekliyor
+    rota: din-gundelik-duzeni-nasil-kurur
+    sira: 3
+    bolge: [islam-dunyasi, bati-asya, avrupa, afrika]
+    eksen: [dini, ekonomik, siyasi, kulturel]
+    anlati_bicimi: para-akisi-haritasi
+    soru: Bir vakıf cami, okul, aşevi ve su yapısını yüzyıllarca finanse ederken dindarlığı mülk geliri, çalışan emeği ve kentsel hizmetle hangi sözleşme içinde birleştirdi?
+    benzersiz_katki: Dini hayır kurumunu yalnız niyet üzerinden anlatmaz; gelir getiren dükkândan ücretli göreve ve bedelsiz hizmete uzanan maddi devri izleyerek sürekliliğin koşullarını gösterir.
+    birincil_hedef: Vakfiye metinleri, muhasebe defterleri, personel listeleri, mahkeme uyuşmazlıkları, kira kayıtları ve yapı kitabeleri.
+
+  - id: olay-meksika-yerli-kardeslikleri
+    baslik: Sömürge Meksika'sında yerli dinî kardeşlikler
+    tip: olay
+    durum: bekliyor
+    rota: din-gundelik-duzeni-nasil-kurur
+    sira: 4
+    bolge: [amerika]
+    eksen: [dini, ekonomik, kulturel, siyasi]
+    anlati_bicimi: yerel-defter-okumasi
+    soru: Katolik kardeşlikler yerli topluluklarda sömürge denetiminin aracı mı oldu, yoksa ortak para, tören ve makamlar üzerinden yerel dayanışmayı yeniden kurmanın yolu mu?
+    benzersiz_katki: Din değiştirmeyi tek yönlü kabul ya da gizli direniş ikiliğine sıkıştırmaz; aynı kurumun gözetim, itibar, borç, cenaze ve ortak kimlik işlevlerini birlikte tartar.
+    birincil_hedef: Kardeşlik hesap defterleri, seçim kayıtları, piskopos ziyaretleri, yerli dilindeki vasiyetler, aziz yortusu giderleri ve dava dosyaları.
+
+  - id: kavram-hac-ekonomisi
+    baslik: Hac ekonomisi
+    tip: kavram
+    durum: bekliyor
+    rota: din-gundelik-duzeni-nasil-kurur
+    sira: 5
+    bolge: [kuresel, islam-dunyasi, guney-asya, avrupa, dogu-asya]
+    eksen: [dini, ekonomik, demografik]
+    anlati_bicimi: yolculuk-maliyeti
+    soru: Kutsal bir yere gitmek ulaşım, konaklama, güvenlik, hediye ve kredi ağları gerektirdiğinde ibadet ile pazar arasındaki sınır nerede başlar ve nerede biter?
+    benzersiz_katki: Hac deneyimini yalnız inanç ya da turizm başlığına yerleştirmez; farklı geleneklerde yolculuk maliyeti, aracılık, altyapı ve toplu riskin kurduğu benzer mekanizmaları karşılaştırır.
+    birincil_hedef: Hacı günlükleri, yol tarifleri, kervan ve gemi kayıtları, konak ücretleri, pazar vergileri, güvenlik emirleri ve ziyaretçi sayımları.
+
+  - id: tartisma-sekulerlesme-kuresel-mi
+    baslik: Sekülerleşme küresel bir süreç mi?
+    tip: tartisma
+    durum: bekliyor
+    rota: din-gundelik-duzeni-nasil-kurur
+    sira: 6
+    bolge: [kuresel, avrupa, islam-dunyasi, guney-asya, dogu-asya, afrika, amerika]
+    eksen: [dini, siyasi, kulturel]
+    anlati_bicimi: kavram-siniri-tartismasi
+    soru: Modernleşme dini zorunlu olarak kamusal hayattan çeker mi; inanç, kurum üyeliği, devlet hukuku ve gündelik pratik farklı yönlerde değiştiğinde sekülerleşme nasıl ölçülür?
+    benzersiz_katki: Avrupa deneyimini evrensel takvim saymaz; dindarlık, kurum gücü, hukuk ve kamusal görünürlük için ayrı göstergeler kurarak zıt görünen bölgesel örnekleri karşılaştırır.
+    birincil_hedef: Uzun dönem üyelik ve ibadet verileri, anayasa ve eğitim metinleri, vakıf-kilise kayıtları, anketler ve rakip sekülerleşme tezlerinin özgün çalışmaları.
+
+  # ── Gelecek rota 19: Geçmiş kimin hatırasıdır? ─────────────────────────
+  - id: kaynak-florentine-codex
+    baslik: Florentine Codex
+    tip: kaynak
+    durum: bekliyor
+    rota: gecmis-kimin-hatirasidir
+    sira: 1
+    bolge: [amerika]
+    eksen: [kulturel, siyasi, dini]
+    anlati_bicimi: iki-dilli-sayfa
+    soru: Nahuatl anlatılar ile İspanyolca çerçeve aynı sayfada buluştuğunda fetih öncesi dünya kimin sesiyle, hangi sorulara cevap verecek biçimde ve hangi sansür altında kaydedildi?
+    benzersiz_katki: Kodeksi saydam bir yerli hafıza deposu ya da yalnız sömürge metni saymaz; dil, resim, sayfa düzeni, derleyici ve konuşmacı arasındaki ortak üretimi görünür kılar.
+    birincil_hedef: Sayısallaştırılmış iki dilli ciltler, özgün resimler, Nahuatl çevriyazı, İspanyolca metin ve farklı modern çevirilerin aynı pasajları.
+
+  - id: aktor-bati-afrika-griotlari
+    baslik: Batı Afrika griotları
+    tip: aktor
+    durum: bekliyor
+    rota: gecmis-kimin-hatirasidir
+    sira: 2
+    bolge: [afrika]
+    eksen: [kulturel, siyasi]
+    anlati_bicimi: performans-karsilastirmasi
+    soru: Soy, iktidar ve topluluk geçmişini sözlü olarak taşıyan griotlar anlatıyı her icrada değiştirirken tarihsel sürekliliği hangi ezber, müzik ve toplumsal denetim araçlarıyla korur?
+    benzersiz_katki: Sözlü tarihi yazının eksik bir kopyası saymaz; farklı tarihlerde kaydedilmiş aynı anlatıların değişen bölümlerini hata değil, hafızanın işlevini gösteren veri olarak okur.
+    birincil_hedef: Aynı destanın farklı yıllardaki ses kayıtları, performans çevriyazıları, soy listeleri, icracı görüşmeleri ve yerel tarih karşılaştırmaları.
+
+  - id: kaynak-maori-whakapapa
+    baslik: Māori whakapapa kayıtları
+    tip: kaynak
+    durum: bekliyor
+    rota: gecmis-kimin-hatirasidir
+    sira: 3
+    bolge: [okyanusya]
+    eksen: [kulturel, siyasi, dini]
+    anlati_bicimi: soy-ve-yer-haritasi
+    soru: Whakapapa soy dizileri insanları yalnız atalara değil toprağa, canlılara ve yükümlülüklere bağladığında bir geçmiş kaydı ile siyasal hak iddiası nasıl aynı biçimde birleşir?
+    benzersiz_katki: Soy listesini kronoloji çıkarmaya yarayan ham veri olarak kullanmaz; bilginin kim tarafından, hangi bağlamda ve hangi erişim kuralıyla aktarılmasının anlamın parçası olduğunu öğretir.
+    birincil_hedef: İwi tarafından erişime açılmış whakapapa kayıtları, Waitangi Mahkemesi tanıklıkları, sözlü anlatılar, yer adları ve topluluk onaylı arşiv açıklamaları.
+
+  - id: olay-yasukuni-hafizasi
+    baslik: Yasukuni hafızası tartışması
+    tip: olay
+    durum: bekliyor
+    rota: gecmis-kimin-hatirasidir
+    sira: 4
+    bolge: [dogu-asya]
+    eksen: [siyasi, dini, kulturel]
+    anlati_bicimi: ziyaretin-yankilari
+    soru: Bir başbakanın Yasukuni Tapınağı ziyareti Japonya'da yas, din ve yurttaşlık; Çin ve Kore'de ise işgal hafızası olarak neden birbirinden farklı anlamlara gelir?
+    benzersiz_katki: Tartışmayı tek bir ulusal bakışla çözmez; tapınak kayıtları, devlet-din hukuku, savaş suçlusu sınıflandırması, aile yası ve diplomatik tepkiyi ayrı katmanlara böler.
+    birincil_hedef: Tapınak kayıtları, başbakan açıklamaları, mahkeme kararları, Çin ve Kore diplomatik notaları, savaş mağduru ve aile derneklerinin beyanları.
+
+  - id: kavram-arsiv-sessizligi
+    baslik: Arşiv sessizliği
+    tip: kavram
+    durum: bekliyor
+    rota: gecmis-kimin-hatirasidir
+    sira: 5
+    bolge: [kuresel]
+    eksen: [kulturel, siyasi]
+    anlati_bicimi: kayip-belge-sorusturmasi
+    soru: Bir kişinin ya da topluluğun arşivde görünmemesi yaşamadığı veya etkisiz olduğu anlamına mı gelir; kaydetme, saklama, sınıflandırma ve erişim kararları sessizliği nasıl üretir?
+    benzersiz_katki: “Kaynak yok” cümlesini araştırmanın sonu olmaktan çıkarır; sessizliğin olay sırasında, arşiv kurarken, kataloglarken ve tarih yazarken oluşan ayrı mekanizmalarını gösterir.
+    birincil_hedef: Arşiv edinim politikaları, katalog değişimleri, imha çizelgeleri, erişim kararları ve alternatif sözlü-nesnel kanıtla yeniden kurulan vaka dosyaları.
+
+  - id: tartisma-anitlar-kaldirilmali-mi
+    baslik: Tartışmalı anıtlar kaldırılmalı mı?
+    tip: tartisma
+    durum: bekliyor
+    rota: gecmis-kimin-hatirasidir
+    sira: 6
+    bolge: [kuresel, amerika, avrupa, afrika, dogu-asya]
+    eksen: [siyasi, kulturel]
+    anlati_bicimi: karar-secenekleri-matrisi
+    soru: Şiddet ve tahakkümle ilişkilendirilen bir anıt yerinde kalmalı, açıklanmalı, taşınmalı, dönüştürülmeli ya da kaldırılmalı mı; her seçenek kimin kaybını görünür kılar?
+    benzersiz_katki: Tartışmayı geçmişi silmek ile korumak ikiliğine hapsetmez; kamusal onur, tarihsel kanıt, mağduriyet, bağlamlandırma ve karar süreci için ayrı değerlendirme ölçütleri kurar.
+    birincil_hedef: Anıt dikme kararları, kitabeler, belediye tutanakları, protesto ve mağdur topluluk beyanları, müze planları ve farklı kentlerdeki nihai kararlar.
+
+  # ── Gelecek rota 20: Salgın toplumu nasıl değiştirir? ──────────────────
+  - id: olay-justinianus-vebasi
+    baslik: Justinianus Vebası
+    tip: olay
+    durum: bekliyor
+    rota: salgin-toplumu-nasil-degistirir
+    sira: 1
+    bolge: [bati-asya, avrupa, afrika]
+    eksen: [demografik, siyasi, ekonomik]
+    anlati_bicimi: kanit-turleri-catismasi
+    soru: Altıncı yüzyıl veba dalgasının nüfus ve imparatorluk üzerindeki etkisi kronikler, mezarlar, polen, sikke ve antik DNA birbirinden farklı ölçekler verdiğinde nasıl tartılmalı?
+    benzersiz_katki: Salgını otomatik imparatorluk çöküşü açıklaması yapmaz; anlatı kaynağı, yerel arkeoloji ve biyolojik kanıtın örnekleme sınırlarını aynı iddiada karşılaştırır.
+    birincil_hedef: Prokopios ve Süryanice kronikler, toplu mezar genomları, tarihlendirilmiş arkeolojik seriler, polen ve sikke verileri.
+
+  - id: olay-tenochtitlan-cicek-hastaligi
+    baslik: Tenochtitlan'da çiçek hastalığı
+    tip: olay
+    durum: bekliyor
+    rota: salgin-toplumu-nasil-degistirir
+    sira: 2
+    bolge: [amerika]
+    eksen: [demografik, askeri, siyasi, kulturel]
+    anlati_bicimi: kusatma-icinde-salgin
+    soru: 1520'deki çiçek hastalığı Tenochtitlan kuşatmasının sonucunu nasıl etkiledi ve hastalığı tek başına fetih açıklaması yapmak yerli ittifakları ile askerî kararları nasıl görünmez kılar?
+    benzersiz_katki: Mikrop determinizmini aşar; hastalık zamanlamasını su, kuşatma, lider kaybı, Tlaxcala ittifakı ve İspanyol silahlarıyla aynı karar kronolojisinde tartar.
+    birincil_hedef: Nahuatl ve İspanyol fetih anlatıları, Florentine Codex görselleri, ölüm kayıtları, kuşatma kronolojileri ve güncel paleopatoloji çalışmaları.
+
+  - id: olay-samoa-gribi-1918
+    baslik: Samoa'da 1918 gribi
+    tip: olay
+    durum: bekliyor
+    rota: salgin-toplumu-nasil-degistirir
+    sira: 3
+    bolge: [okyanusya]
+    eksen: [demografik, siyasi, kulturel]
+    anlati_bicimi: iki-ada-karsilastirmasi
+    soru: Aynı salgın Batı Samoa'da yıkıcı ölüme yol açarken Amerikan Samoası'nda neden çok daha sınırlı kaldı; gemi karantinası ve sömürge yönetimi bu farkı nasıl üretti?
+    benzersiz_katki: Doğal deney kolaycılığına düşmeden komşu adalardaki liman kararı, haber akışı, idari kapasite ve nüfus yapısını karşılaştırır; hesap verebilirlik tartışmasını yerel hafızaya bağlar.
+    birincil_hedef: Liman ve gemi kayıtları, karantina emirleri, nüfus-ölüm çizelgeleri, yönetici yazışmaları, yerel tanıklıklar ve soruşturma belgeleri.
+
+  - id: olay-bombay-veba-onlemleri-1896
+    baslik: Bombay veba önlemleri
+    tip: olay
+    durum: bekliyor
+    rota: salgin-toplumu-nasil-degistirir
+    sira: 4
+    bolge: [guney-asya]
+    eksen: [demografik, siyasi, ekonomik, kulturel]
+    anlati_bicimi: evden-laboratuvara
+    soru: 1896 sonrasında ev arama, hastaneye zorla götürme ve mahalle boşaltma uygulamaları hastalık kontrolünü neden sömürge şiddeti ve güvensizlik deneyimine dönüştürdü?
+    benzersiz_katki: Halk direncini bilgisizlik diye açıklamaz; belirsiz bulaş bilgisi, konut koşulu, mahremiyet ihlali, ırksal yönetim ve ticaret baskısını aynı politika çatışmasında toplar.
+    birincil_hedef: Veba komitesi raporları, belediye tutanakları, yerel basın, hastane ve ölüm kayıtları, mahalle dilekçeleri ve laboratuvar yazışmaları.
+
+  - id: kavram-epidemiyolojik-gecis
+    baslik: Epidemiyolojik geçiş
+    tip: kavram
+    durum: bekliyor
+    rota: salgin-toplumu-nasil-degistirir
+    sira: 5
+    bolge: [kuresel, afrika, guney-asya, amerika]
+    eksen: [demografik, ekonomik, siyasi]
+    anlati_bicimi: model-ve-aykiri-vaka
+    soru: Toplumlar bulaşıcı hastalıktan kronik hastalığa doğru tek yönlü bir geçiş mi yaşar; ikisinin aynı anda yüksek olduğu ülkeler ve geri dönen salgınlar modeli nasıl değiştirir?
+    benzersiz_katki: Demografik modeli evrensel basamaklar dizisi olarak ezberletmez; ölüm nedeni sınıflandırması, yaş yapısı, eşitsizlik ve çift hastalık yükü üzerinden modelin kullanım sınırlarını öğretir.
+    birincil_hedef: Özgün geçiş makalesi, uzun dönem ölüm nedeni serileri, yaşa göre ölüm tabloları, hastalık sınıflandırma değişimleri ve aykırı ülke verileri.
+
+  - id: tartisma-salginlar-esitsizlik-uretir-mi
+    baslik: Salgınlar eşitsizlik üretir mi?
+    tip: tartisma
+    durum: bekliyor
+    rota: salgin-toplumu-nasil-degistirir
+    sira: 6
+    bolge: [kuresel, bati-asya, amerika, okyanusya, guney-asya]
+    eksen: [demografik, ekonomik, siyasi]
+    anlati_bicimi: mekanizma-karsilastirmasi
+    soru: Büyük salgınlar mevcut eşitsizlikleri yalnız açığa mı çıkarır, yoksa emek kıtlığı, miras, borç, eğitim kaybı ve sağlık politikası üzerinden dağılımı kalıcı biçimde değiştirir mi?
+    benzersiz_katki: “Herkesi eşit etkiler” ile “yalnız yoksulları etkiler” genellemelerini aşar; kısa ve uzun vadede gelir, servet, yaşam süresi ve siyasal güç için ayrı mekanizmalar kurar.
+    birincil_hedef: Hane ve ölüm kayıtları, ücret-sermaye serileri, vergi ve miras belgeleri, okul kapanma verileri, politika kararları ve rakip nedensel çalışmalar.

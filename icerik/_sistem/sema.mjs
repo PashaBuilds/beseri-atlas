@@ -11,7 +11,10 @@ export const TIPLER = ['donem','olay','aktor','dusunur','kavram','tartisma','ver
 // Avustralya, Yeni Zelanda ve Pasifik adalari hicbir etikete karsilik
 // gelmiyordu — yani sema, bir dunya bolgesini temsil etmeyi yapisal olarak
 // imkansiz kiliyordu. Eksik, kapsam eksigi degil sema eksigiydi.
-export const BOLGELER = ['avrupa','islam-dunyasi','orta-asya','dogu-asya','guney-asya','afrika','amerika','okyanusya','kuresel'];
+// 'bati-asya' 2026-08-30'da eklendi. Mezopotamya, Anadolu, Levant ve Iran'in
+// Islam oncesi tarihini `islam-dunyasi` etiketiyle anakronik bicimde gostermek
+// yerine cografi bir etiket gerekir. Iki etiket birbirinin yerine gecmez.
+export const BOLGELER = ['avrupa','bati-asya','islam-dunyasi','orta-asya','dogu-asya','guney-asya','afrika','amerika','okyanusya','kuresel'];
 export const EKSENLER = ['siyasi','askeri','ekonomik','kulturel','felsefi','dini','demografik','mitolojik'];
 export const GUVEN = ['kesin','yaygin','tartismali'];
 export const KAYNAK_TURLERI = ['ansiklopedi','akademik','birincil','veri','ders','kitap'];

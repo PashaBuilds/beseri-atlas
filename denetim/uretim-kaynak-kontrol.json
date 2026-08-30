@@ -1,8 +1,8 @@
 {
-  "olculdu": "2026-08-30T16:13:27.791Z",
+  "olculdu": "2026-08-30T16:53:53.865Z",
   "aday_sayisi": 5,
-  "kaynak_sayisi": 17,
-  "okunabilir": 17,
+  "kaynak_sayisi": 21,
+  "okunabilir": 21,
   "sonuclar": [
     {
       "id": "dusunur-ban-zhao",
@@ -38,6 +38,39 @@
       "hata": ""
     },
     {
+      "id": "dusunur-ban-zhao",
+      "url": "https://www.international.ucla.edu/ccs/article/18475",
+      "alan_adi": "international.ucla.edu",
+      "durum": 200,
+      "son_url": "https://www.international.ucla.edu/ccs/article/18475",
+      "karakter": 12275,
+      "kesildi": false,
+      "okunabilir": true,
+      "hata": ""
+    },
+    {
+      "id": "dusunur-ban-zhao",
+      "url": "https://www.cambridge.org/core/books/abs/ancient-women-philosophers/reappraising-ban-zhao/CB84B98EA5ED8E2769742CF4C5C4537E",
+      "alan_adi": "cambridge.org",
+      "durum": 200,
+      "son_url": "https://www.cambridge.org/core/books/abs/ancient-women-philosophers/reappraising-ban-zhao/CB84B98EA5ED8E2769742CF4C5C4537E",
+      "karakter": 8706,
+      "kesildi": false,
+      "okunabilir": true,
+      "hata": ""
+    },
+    {
+      "id": "dusunur-ban-zhao",
+      "url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/be538338-7413-4eca-baef-1ecfc6ed4a81/content",
+      "alan_adi": "openresearch-repository.anu.edu.au",
+      "durum": 200,
+      "son_url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/be538338-7413-4eca-baef-1ecfc6ed4a81/content",
+      "karakter": 400000,
+      "kesildi": true,
+      "okunabilir": true,
+      "hata": ""
+    },
+    {
       "id": "aktor-lapita-kulturu",
       "url": "https://press.anu.edu.au/publications/series/terra-australis/oceanic-explorations",
       "alan_adi": "press.anu.edu.au",
@@ -66,6 +99,28 @@
       "durum": 200,
       "son_url": "https://www.archaeopress.com/Archaeopress/Products/9781803270883",
       "karakter": 8310,
+      "kesildi": false,
+      "okunabilir": true,
+      "hata": ""
+    },
+    {
+      "id": "aktor-lapita-kulturu",
+      "url": "https://pacificarchaeology.org/index.php/journal/article/view/55",
+      "alan_adi": "pacificarchaeology.org",
+      "durum": 200,
+      "son_url": "https://pacificarchaeology.org/index.php/journal/article/view/55",
+      "karakter": 4659,
+      "kesildi": false,
+      "okunabilir": true,
+      "hata": ""
+    },
+    {
+      "id": "aktor-lapita-kulturu",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5515717/fullTextXML",
+      "alan_adi": "ebi.ac.uk",
+      "durum": 200,
+      "son_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5515717/fullTextXML",
+      "karakter": 219349,
       "kesildi": false,
       "okunabilir": true,
       "hata": ""
@@ -110,17 +165,6 @@
       "durum": 200,
       "son_url": "https://marshallislands.llnl.gov/affected-areas/bikini-atoll",
       "karakter": 21497,
-      "kesildi": false,
-      "okunabilir": true,
-      "hata": ""
-    },
-    {
-      "id": "olay-bikini-nukleer-denemeleri",
-      "url": "https://www.govinfo.gov/app/details/GOVPUB-D15-PURL-gpo222809",
-      "alan_adi": "govinfo.gov",
-      "durum": 200,
-      "son_url": "https://www.govinfo.gov/app/details/GOVPUB-D15-PURL-gpo222809",
-      "karakter": 4605,
       "kesildi": false,
       "okunabilir": true,
       "hata": ""

@@ -1,4 +1,4 @@
-# Bağlam — editoryal yükseltme programı
+# Dünya Örgüsü — editoryal yükseltme programı
 
 ## Amaç
 

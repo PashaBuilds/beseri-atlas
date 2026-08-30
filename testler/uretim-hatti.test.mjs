@@ -13,10 +13,10 @@ function test(ad, fn) {
   catch (e) { console.error(`HATA: ${ad}`); throw e; }
 }
 
-test('üretim kuyruğu beş gelecek rotada otuz dengeli aday taşır', () => {
+test('üretim kuyruğu on gelecek rotada altmış dengeli aday taşır', () => {
   const veri = uretimKuyruguOku();
-  assert.equal(veri.adaylar.length, 30);
-  assert.equal(new Set(veri.adaylar.map((a) => a.rota)).size, 5);
+  assert.equal(veri.adaylar.length, 60);
+  assert.equal(new Set(veri.adaylar.map((a) => a.rota)).size, 10);
   assert.equal(veri.sozlesme.yayin_puani, 10);
 });
 
@@ -24,8 +24,8 @@ test('yeni üretim sözleşmesi bütün adaylarda geçer', () => {
   const rapor = uretimHattiDenetimi(makaleleriTopla());
   assert.deepEqual(rapor.hatalar, []);
   assert.equal(rapor.olcum.arastirmayaHazir, 5);
-  assert.equal(rapor.olcum.canliKaynak, 17);
-  assert.equal(rapor.olcum.kaynakSayisi, 17);
+  assert.equal(rapor.olcum.canliKaynak, 21);
+  assert.equal(rapor.olcum.kaynakSayisi, 21);
 });
 
 test('paket kalite sözleşmesini ve doğal öğrenme iskeletini taşır', () => {

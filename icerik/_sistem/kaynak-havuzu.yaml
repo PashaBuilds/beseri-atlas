@@ -125,6 +125,17 @@ whitelist:
     tur: birincil
     dogrulanabilir: true
     kapsam: [cin-klasikleri]
+  - alan: afe.easia.columbia.edu
+    tur: birincil
+    birincil_tur: eser
+    dogrulanabilir: true
+    kapsam: [asya, cin, ceviri, egitim]
+    not: >
+      Columbia University Asia for Educators birincil kaynak seçkileri.
+      Yalnız sayfada açıkça çoğaltma izniyle verilen çeviri parçaları birincil
+      metin olarak sayılır; tanıtım ve belge soruları ikincil yorumdur. Ban
+      Zhao'nun Admonitions for Women seçkisi 2026-08-30 ölçümünde 200 döndü ve
+      kaynak başlığı ile metin parçalarını programatik olarak taşıdı.
   - alan: shamela.ws
     tur: birincil
     dogrulanabilir: true

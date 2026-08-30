@@ -2,6 +2,7 @@
 import Temel from '../layouts/Temel.astro';
 import { tumOnayliIcerik, yol, bag, tipAdi } from '../lib/icerik';
 import { ROTALAR } from '../lib/rotalar';
+import { MARKA } from '../lib/marka';
 
 const korpus = await tumOnayliIcerik();
 const bul = (id: string) => korpus.find((e: any) => e.data.id === id);
@@ -30,7 +31,7 @@ const bugununKapilari = [
           <p class="veri-etiket">Tarih · düşünce · ekonomi · kültür</p>
           <h1>Tarihi bilmek yetmez.<br /><em>Neden öyle olduğunu</em> gör.</h1>
           <p class="hero__aciklama">
-            Bağlam, beş yüzü aşkın kaynaklı makaleyi bir arşiv gibi önüne yığmaz.
+            {MARKA.ad}, beş yüzü aşkın kaynaklı makaleyi bir arşiv gibi önüne yığmaz.
             Olayları kavramlara, kavramları rakip açıklamalara bağlar; böylece
             yalnızca ne olduğunu değil, neden başka türlü de olabileceğini anlarsın.
           </p>
@@ -47,7 +48,7 @@ const bugununKapilari = [
           </dl>
         </div>
 
-        <div class="bag-gosterim" aria-label="Bağlam nasıl çalışır">
+        <div class="bag-gosterim" aria-label={`${MARKA.ad} nasıl çalışır`}>
           <p class="bag-gosterim__etiket">Bir bilgi nasıl bağlama dönüşür?</p>
           {ornekBag.map(({ makale, rol }, i) => (
             <a class="bag-dugum" href={yol(makale.data.id)}>

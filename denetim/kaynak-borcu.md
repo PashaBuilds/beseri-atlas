@@ -11,17 +11,17 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 
 | Ölçüm | Değer |
 |---|---|
-| Ölçülen makale | 540 |
-| Toplam künye | 2536 |
+| Ölçülen makale | 542 |
+| Toplam künye | 2548 |
 | Giriş kapısı kuralını aşan makale | 144 |
-| Birincil kaynağı olmayan makale | 175 |
+| Birincil kaynağı olmayan makale | 176 |
 | Giriş kapısı künyesi payı | 24% |
 
 ## Tipe göre borçlu makale
 
 | Tip | Borçlu |
 |---|---|
-| aktor | 61 |
+| aktor | 62 |
 | kavram | 59 |
 | olay | 52 |
 | kaynak | 28 |
@@ -249,6 +249,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `olay-talas-savasi` | 3 | 1 | 0 | birincil kaynak yok |
 | `olay-tanzimat-fermani` | 3 | 1 | 0 | birincil kaynak yok |
 | `tartisma-orta-asya-neden-cekildi` | 4 | 1 | 0 | birincil kaynak yok |
+| `aktor-lapita-kulturu` | 6 | 0 | 0 | birincil kaynak yok |
 | `dusunur-arendt` | 9 | 0 | 0 | birincil kaynak yok |
 | `dusunur-farabi` | 3 | 0 | 0 | birincil kaynak yok |
 | `kavram-kentlesme` | 3 | 0 | 0 | birincil kaynak yok |

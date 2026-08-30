@@ -1,10 +1,13 @@
 /* ═══════════════════════════════════════════════════════════════════════════
-   Bağlam — tasarım sistemi
+   Dünya Örgüsü — tasarım sistemi
    Konsept: yaşayan kenar notları, zaman katmanları ve kanıt çizgileri.
    ═══════════════════════════════════════════════════════════════════════════ */
 
 @import '@fontsource-variable/fraunces';
 @import '@fontsource-variable/literata';
+@import '@fontsource-variable/literata/wght-italic.css';
+@import '@fontsource-variable/atkinson-hyperlegible-next';
+@import '@fontsource-variable/atkinson-hyperlegible-next/wght-italic.css';
 @import '@fontsource/ibm-plex-sans-condensed/400.css';
 @import '@fontsource/ibm-plex-sans-condensed/500.css';
 @import '@fontsource/ibm-plex-sans-condensed/600.css';
@@ -28,7 +31,7 @@
   --zincifre-zemin: #f1dfda;
   --oksit-zemin: #eee1ca;
 
-  --olcu: 68ch;
+  --olcu: 66ch;
   --ray: 13.5rem;
   --bosluk: 1.5rem;
   --yuvarlak: 3px;
@@ -36,10 +39,19 @@
 
   --f-display: 'Fraunces Variable', 'Fraunces', Georgia, 'Times New Roman', serif;
   --f-govde: 'Literata Variable', 'Literata', Georgia, 'Times New Roman', serif;
+  --f-govde-ayirt: 'Atkinson Hyperlegible Next Variable', 'Atkinson Hyperlegible Next', 'Segoe UI', system-ui, sans-serif;
   --f-veri: 'IBM Plex Sans Condensed', 'Segoe UI', system-ui, sans-serif;
+  --govde-boyutu: 1.0625rem;
+  --okuma-olcegi: 1;
 
   --gecis: 180ms cubic-bezier(0.2, 0, 0.2, 1);
   color-scheme: light;
+}
+
+:root[data-yazi='ayirt'] { --f-govde: var(--f-govde-ayirt); }
+:root[data-yazi-boyutu='buyuk'] {
+  --okuma-olcegi: 1.1;
+  --olcu: 61ch;
 }
 
 :root[data-tema='koyu'] {
@@ -94,9 +106,10 @@ body {
   background-color: var(--tabaka);
   color: var(--murekkep);
   font-family: var(--f-govde);
-  font-size: 1.0625rem;
+  font-size: calc(var(--govde-boyutu) * var(--okuma-olcegi));
   line-height: 1.72;
-  font-variation-settings: 'opsz' 14;
+  font-optical-sizing: auto;
+  font-synthesis: none;
   text-rendering: optimizeLegibility;
 }
 
@@ -139,6 +152,7 @@ h3 { font-size: 1.22rem; font-variation-settings: 'opsz' 24, 'SOFT' 0, 'WONK' 0;
 
 p { margin: 0 0 1.35em; }
 p:last-child { margin-bottom: 0; }
+.govde :where(p, li, blockquote) { text-wrap: pretty; }
 
 /* Veri etiketi sesi: harita lejantı / mesaha çizimi. */
 .veri-etiket, .etiket {
@@ -204,6 +218,7 @@ p:last-child { margin-bottom: 0; }
 .govde > :first-child { margin-top: 0; }
 
 @media (max-width: 900px) {
+  :root { --govde-boyutu: 1.125rem; }
   .sayfa { grid-template-columns: minmax(0, 1fr); gap: 0; padding: 1.5rem 1.15rem 4rem; }
   /* Tek sutunda acik yerlesim sifirlanir: govde ustte (DOM sirasi), ray altta. */
   .sayfa > .ray, .sayfa > .govde { grid-column: auto; grid-row: auto; }
@@ -233,14 +248,15 @@ p:last-child { margin-bottom: 0; }
   display: flex; align-items: center; gap: 1.5rem;
 }
 .marka {
-  display: grid; grid-template-columns: 2rem auto; grid-template-rows: auto auto;
+  display: grid; grid-template-columns: 2.2rem auto; grid-template-rows: auto auto;
   column-gap: .65rem; align-items: center;
   color: var(--murekkep); text-decoration: none; line-height: 1;
 }
 .marka__isaret {
   grid-row: 1 / 3; display: grid; place-items: center;
-  width: 2rem; aspect-ratio: 1; border: 1px solid var(--bakir);
-  color: var(--bakir); font-family: var(--f-display); font-size: 1.2rem;
+  width: 2.2rem; aspect-ratio: 1; border: 1px solid var(--bakir);
+  color: var(--bakir); font-family: var(--f-veri); font-size: .78rem;
+  letter-spacing: -.04em;
   font-weight: 650; transform: rotate(-2deg);
 }
 .marka__ad {
@@ -261,7 +277,9 @@ p:last-child { margin-bottom: 0; }
 }
 .ust nav a:hover, .ust nav a[aria-current='page'] { color: var(--murekkep); border-bottom-color: var(--bakir); }
 
-.tema-dugme {
+.ust__araclar { position: relative; display: flex; align-items: center; gap: .45rem; }
+
+.tema-dugme, .okuma-ayari > summary {
   flex: 0 0 auto;
   font-family: var(--f-veri); font-size: 0.7rem; font-weight: 600;
   letter-spacing: 0.09em; text-transform: uppercase;
@@ -270,9 +288,40 @@ p:last-child { margin-bottom: 0; }
   padding: 0.36rem 0.7rem; cursor: pointer;
   transition: color var(--gecis), border-color var(--gecis);
 }
-.tema-dugme:hover { color: var(--murekkep); border-color: var(--bakir); }
+.tema-dugme:hover, .okuma-ayari > summary:hover,
+.okuma-ayari[open] > summary { color: var(--murekkep); border-color: var(--bakir); }
+.okuma-ayari { position: relative; }
+.okuma-ayari > summary { list-style: none; user-select: none; }
+.okuma-ayari > summary::-webkit-details-marker { display: none; }
+.okuma-ayari__panel {
+  position: absolute; inset-inline-end: 0; top: calc(100% + .7rem); z-index: 50;
+  width: min(22rem, calc(100vw - 2rem)); padding: 1rem;
+  border: 1px solid var(--cizgi); border-radius: var(--yuvarlak-buyuk);
+  background: var(--yuzey); box-shadow: 0 1.1rem 2.8rem color-mix(in srgb, var(--murekkep) 15%, transparent);
+}
+.okuma-ayari fieldset { border: 0; padding: 0; margin: 0 0 .9rem; }
+.okuma-ayari legend {
+  width: 100%; margin-bottom: .45rem; color: var(--golge);
+  font-family: var(--f-veri); font-size: .66rem; font-weight: 600;
+  letter-spacing: .1em; text-transform: uppercase;
+}
+.okuma-ayari fieldset > label {
+  display: grid; grid-template-columns: auto 1fr; gap: .65rem; align-items: start;
+  padding: .65rem; border: 1px solid var(--cizgi-ince); cursor: pointer;
+}
+.okuma-ayari fieldset > label + label { border-top: 0; }
+.okuma-ayari input { margin-top: .27rem; accent-color: var(--bakir); }
+.okuma-ayari strong { display: block; font-size: .88rem; line-height: 1.3; }
+.okuma-ayari small { display: block; margin-top: .12rem; color: var(--golge); font-size: .72rem; line-height: 1.35; }
+.okuma-ayari__boyut { display: grid; grid-template-columns: 1fr 1fr; }
+.okuma-ayari__boyut label {
+  display: flex; gap: .5rem; align-items: center; padding: .55rem .65rem;
+  border: 1px solid var(--cizgi-ince); font-size: .78rem; cursor: pointer;
+}
+.okuma-ayari__boyut label + label { border-inline-start: 0; }
+.okuma-ayari__panel > p { margin: 0; color: var(--golge); font-size: .72rem; line-height: 1.4; }
 /* JS kapalıyken tema düğmesi bir yalan söylemesin. */
-html:not(.js) .tema-dugme { display: none; }
+html:not(.js) :where(.tema-dugme, .okuma-ayari) { display: none; }
 
 /* ─── Alt bilgi ───────────────────────────────────────────────────────── */
 
@@ -305,7 +354,8 @@ html:not(.js) .tema-dugme { display: none; }
     overflow: visible; padding: .1rem 0 .15rem;
   }
   .ust nav a { white-space: nowrap; font-size: .68rem; }
-  .tema-dugme { grid-column: 2; grid-row: 1; margin: 0; }
+  .ust__araclar { grid-column: 2; grid-row: 1; margin: 0; }
+  .okuma-ayari__panel { position: fixed; inset-inline: 1rem; top: 4.3rem; width: auto; }
   .alt__ic { grid-template-columns: 1fr; padding-inline: 1.15rem; }
   .alt__not { justify-self: start; }
 }
@@ -435,7 +485,7 @@ sup.dipnot a:hover, sup.dipnot a:focus-visible { background: var(--bakir); color
 }
 
 @media print {
-  .ust, .ray, .tema-dugme { display: none; }
+  .ust, .ray, .tema-dugme, .okuma-ayari { display: none; }
   body { background: #fff; color: #000; }
   body::before { display: none; }
   .sayfa { display: block; max-width: none; }

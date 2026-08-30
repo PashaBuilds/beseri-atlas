@@ -255,7 +255,7 @@ const katalog = [...korpus]
     const blob = new Blob([JSON.stringify(durum, null, 2)], { type: 'application/json' });
     const a = document.createElement('a');
     a.href = URL.createObjectURL(blob);
-    a.download = `baglam-defter-${new Date().toISOString().slice(0, 10)}.json`;
+    a.download = `dunya-orgusu-defter-${new Date().toISOString().slice(0, 10)}.json`;
     a.click();
     URL.revokeObjectURL(a.href);
     yazDurum('Defter yedeği indirildi.');
@@ -275,7 +275,7 @@ const katalog = [...korpus]
       boya();
       yazDurum('Defter yedeği doğrulandı ve geri yüklendi.');
     } catch {
-      yazDurum('Bu dosya geçerli bir Bağlam defter yedeği değil.');
+      yazDurum('Bu dosya geçerli bir Dünya Örgüsü defter yedeği değil.');
     }
   });
   boya();

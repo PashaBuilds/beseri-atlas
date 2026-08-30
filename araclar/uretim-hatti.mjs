@@ -28,7 +28,7 @@ export const PARTI_DIZINI = path.join(KOK, 'plan', 'uretim-partileri');
 export const KAYNAK_RAPORU = path.join(KOK, 'denetim', 'uretim-kaynak-kontrol.json');
 
 const SOMUT_TIPLER = new Set(['olay', 'aktor', 'dusunur', 'kaynak']);
-const ZORUNLU_BOLGELER = ['okyanusya', 'afrika', 'amerika', 'orta-asya', 'guney-asya'];
+const ZORUNLU_BOLGELER = ['okyanusya', 'afrika', 'amerika', 'bati-asya', 'orta-asya', 'guney-asya'];
 
 function alanAdi(url) {
   try { return new URL(url).hostname.replace(/^www\./, ''); } catch { return ''; }
@@ -82,7 +82,7 @@ export function uretimHattiDenetimi(makaleler = makaleleriTopla()) {
   if ((soz.birincil_min || 0) < 1) r.hata('plan/uretim-kuyrugu.yaml', 'en az bir birincil kaynak zorunludur');
   if (soz.kor_hakem_zorunlu !== true) r.hata('plan/uretim-kuyrugu.yaml', 'bağımsız kör hakem zorunluluğu kaldırılamaz');
   if (soz.yayin_puani !== 10) r.hata('plan/uretim-kuyrugu.yaml', 'yayın puanı yalnız 10 olabilir');
-  if (adaylar.length < 30) r.hata('plan/uretim-kuyrugu.yaml', `en az 30 araştırma adayı bekleniyor; bulunan ${adaylar.length}`);
+  if (adaylar.length < 60) r.hata('plan/uretim-kuyrugu.yaml', `en az 60 araştırma adayı bekleniyor; bulunan ${adaylar.length}`);
 
   const gorulen = new Set();
   const rotalar = new Map();
