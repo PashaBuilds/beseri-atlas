@@ -18,7 +18,7 @@ const VARSAYILAN_ACCEPT = 'text/html,application/xhtml+xml,application/json;q=0.
  * sonucuna ceviriyordu.
  */
 export function geciciHttpDurumuMu(durum) {
-  return durum === 408 || durum === 425 || durum === 429 || durum >= 500;
+  return durum === 202 || durum === 408 || durum === 425 || durum === 429 || durum >= 500;
 }
 
 /**
@@ -93,9 +93,10 @@ const bekle = (ms) => new Promise((r) => setTimeout(r, ms));
  * Tek denemede ag hatasi alan URL'i olu saymak yanlis pozitif uretir; bu kapiyi
  * gevsetmek degil, dogru olcmektir.
  *
- * Kalici 4xx tekrar denenmez — 404 gercekten 404'tur. 408/425/429 ve 5xx ise
- * sunucunun O ANKI durumudur, kaynagin kalici ozelligi degil: hiz sinirlamasi
- * ve gecici kesinti bu sinifa duser, dolayisiyla ag hatasi gibi yeniden denenir.
+ * Kalici 4xx tekrar denenmez — 404 gercekten 404'tur. 202 (istek kabul edildi,
+ * temsil henuz hazir degil), 408/425/429 ve 5xx ise sunucunun O ANKI
+ * durumudur, kaynagin kalici ozelligi degil: hiz sinirlamasi ve gecici kesinti
+ * bu sinifa duser, dolayisiyla ag hatasi gibi yeniden denenir.
  */
 export async function getir(url, { taze = false, metinSakla = true, deneme = 3 } = {}) {
   if (!taze) {

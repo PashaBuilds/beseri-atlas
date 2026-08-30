@@ -8,7 +8,7 @@
 //
 // OLU ile OLCULEMEDI ayrimi (2026-08-23):
 //   kalici 4xx -> kaynak erisilemez. HATA. Kunyede kullanilamaz.
-//   408/425/429 / 5xx / baglanti hatasi -> sunucunun O ANKI durumu.
+//   202 / 408/425/429 / 5xx / baglanti hatasi -> sunucunun O ANKI durumu.
 //   "Olu" degil "olcemedim".
 //
 // Bu ayrim projenin kendi ilkesidir; turet.mjs ayni cumleyi kuruyor:

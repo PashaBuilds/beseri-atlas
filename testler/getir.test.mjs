@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import { geciciHttpDurumuMu, istekBasliklari } from '../araclar/getir.mjs';
 
+assert.equal(geciciHttpDurumuMu(202), true, '202 temsilin henuz hazir olmadigini bildirir');
 assert.equal(geciciHttpDurumuMu(408), true, '408 gecici olcum sorunudur');
 assert.equal(geciciHttpDurumuMu(425), true, '425 gecici olcum sorunudur');
 assert.equal(geciciHttpDurumuMu(429), true, '429 hiz siniridir; olu kaynak degildir');
@@ -14,4 +15,4 @@ assert.equal(istekBasliklari('https://r.jina.ai/https://example.org').Accept, 't
 assert.equal(istekBasliklari('https://example.org').Accept.includes('text/html'), true,
   'diger kaynaklarin istek basliklari degismez');
 
-console.log('getir.test.mjs: 9/9 gecti');
+console.log('getir.test.mjs: 10/10 gecti');
