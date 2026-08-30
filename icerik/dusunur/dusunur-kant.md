@@ -287,7 +287,7 @@ yönetebilir olduğunu söyleyerek Avrupa sömürge uygulamalarını alenen
 eleştirir.[^k6] Çağının adamıydı diyerek aklamak da dönemin dışından mahkûm
 etmek de bu kaydı değiştirmez; soru tarihlidir ve ölçülebilir.
 
-:::tartismali[Evrensel bir ahlak yasası kuran külliyatın aynı zamanda insanlığı dört ırka bölen bir sınıflandırma üretmesi, Aydınlanma'nın evrenselliği tartışmasının en çok sınanan örneğidir.]{harita=tartisma-aydinlanmanin-sinirlari}
+::tartismali[Evrensel bir ahlak yasası kuran külliyatın aynı zamanda insanlığı dört ırka bölen bir sınıflandırma üretmesi, Aydınlanma'nın evrenselliği tartışmasının en çok sınanan örneğidir.]{harita=tartisma-aydinlanmanin-sinirlari}
 
 ## İtiraz edenler
 

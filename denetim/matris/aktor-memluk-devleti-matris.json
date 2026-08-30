@@ -367,7 +367,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "TDV MEMLUKLER: \"Memlük ekonomisinin en önemli gelir kaynağı ülkeler arası ticaretti.\" Kor hakem: curutucunun \"en buyuk gelir\" ustunluk itirazi, nitelemenin kaynagin kendi degerlendirmesi oldugu beyan edilerek karsilandi."
+      "inceleme": "TDV MEMLUKLER: \"Memlük ekonomisinin en önemli gelir kaynağı ülkeler arası ticaretti.\" Kor hakem: curutucunun ustunluk nitelemesine yonelik itirazi, bu nitelemenin kaynagin kendi degerlendirmesi oldugu beyan edilerek karsilandi."
     },
     {
       "iddia_id": "i26",
@@ -651,7 +651,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Kor hakem bulgusu: onceki cumle kaynaga OLMAYAN bir degerlendirme (\"baruttan baska toplumlardan yuzyillar once yararlanildigi\", \"tek bir arastirmaciya dayandirilir\") atfediyordu; TDV maddesinin ilgili pasaji tam metin uzerinde tarandi, boyle bir ifade de bir arastirmaci atfi da YOK. Cumle, maddenin fiilen tasidigi tek ihtiyat olan \"muhtemelen\" kaydina indirildi."
+      "inceleme": "Kor hakem bulgusu: onceki cumle kaynaga OLMAYAN bir degerlendirme atfediyordu — baruttan baska toplumlardan yuzyillar once yararlanildigi yolunda bir niteleme ve onceligin tek bir arastirmaciya dayandirildigi kaydi. TDV maddesinin ilgili pasaji tam metin uzerinde tarandi; boyle bir ifade de bir arastirmaci atfi da YOK. Cumle, maddenin fiilen tasidigi tek ihtiyat olan \"muhtemelen\" kaydina indirildi."
     },
     {
       "iddia_id": "i46",
@@ -665,7 +665,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "TDV MEMLUKLER: \"Osmanlı topçusunun önemli rol oynadığı Mercidâbık Savaşı'nda Memlük ordusunu ağır bir hezimete uğrattı (24 Ağustos 1516)\"; \"İki gün süren Ridâniye Savaşı Osmanlılar'ın kesin zaferiyle sonuçlandı (23 Ocak 1517)\"; \"Tomanbay nihayet yakalanıp Bâbüzüveyle'de asılarak idam edildi.\" Kor hakem: govde \"belirleyici rol\" yaziyordu, kaynak \"onemli rol\" diyor; kaynagin gucune indirildi."
+      "inceleme": "TDV MEMLUKLER: \"Osmanlı topçusunun önemli rol oynadığı Mercidâbık Savaşı'nda Memlük ordusunu ağır bir hezimete uğrattı (24 Ağustos 1516)\"; \"İki gün süren Ridâniye Savaşı Osmanlılar'ın kesin zaferiyle sonuçlandı (23 Ocak 1517)\"; \"Tomanbay nihayet yakalanıp Bâbüzüveyle'de asılarak idam edildi.\" Kor hakem: govde topculugun rolunu belirleyici diye niteliyordu; yukarida alintilanan kaynak ifadesi bunu onemli rol olarak kaydettigi icin niteleme kaynagin gucune indirildi."
     },
     {
       "iddia_id": "i47",
@@ -735,7 +735,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Met API 444812: title \"Pair of Minbar Doors\", objectDate \"ca. 1325-30\", geographyType \"Attributed to\", city \"Cairo\", country \"Egypt\", medium \"Wood (rosewood and mulberry); carved and inlaid with carved ivory, ebony, and other woods\". Kor hakem: \"and other woods\" kirpilmisti, geri konuldu. Ayrica: gövdedeki \"sultanlarin ortalama saltanat suresi birkac ayla olculur\" cumlesi kaynaksiz ve yanlisti (1250-1517 arasi ~50 sultan; ortalama yillarla olculur) — \"kimi sultanin tahtta kalisi aylarla olculurken\" seklinde duzeltildi."
+      "inceleme": "Met API 444812: title \"Pair of Minbar Doors\", objectDate \"ca. 1325-30\", geographyType \"Attributed to\", city \"Cairo\", country \"Egypt\", medium \"Wood (rosewood and mulberry); carved and inlaid with carved ivory, ebony, and other woods\". Kor hakem: \"and other woods\" kirpilmisti, geri konuldu. Ayrica: gövdedeki, sultanlarin ortalama saltanat suresini birkac ayla olculur gosteren cumle kaynaksiz ve yanlisti (1250-1517 arasi ~50 sultan; ortalama yillarla olculur) — kimi sultanin tahtta kalisinin aylarla olculdugu bicimine indirildi."
     }
   ],
   "sayaclar": {

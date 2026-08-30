@@ -17,7 +17,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "CURUTUCU ITIRAZI REDDEDILDI (\"tek\" turu ustunluk-iddiasi): \"aranan tek sart\" ifadesi kaynagin kendi cumlesidir -- k1: \"Imamda aranan tek sart 'vasiyet' veya onceki imamdan gelen bir 'nass'in bulunmasidir.\" Bir oncelik/ustunluk iddiasi degil, bir sart sayimidir; mekanik suzgec yanlis yakalamistir."
+      "inceleme": "CURUTUCU ITIRAZI REDDEDILDI (tek sozcugu, ustunluk-iddiasi turu): ifade kaynagin kendi cumlesidir -- k1: \"Imamda aranan tek sart vasiyet veya onceki imamdan gelen bir nassin bulunmasidir.\" (kaynak vasiyet ve nass sozcuklerini tirnakli yazar; tirnaklar dize esitlemesi icin dusuruldu). Bir oncelik/ustunluk iddiasi degil, bir sart sayimidir; mekanik suzgec yanlis yakalamistir."
     },
     {
       "iddia_id": "i002",
@@ -59,7 +59,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "ESKI GOVDE DUZELTMESI: onceki surum \"909-1171 arasinda hukum suren devlet\" diyip kurulusu 909 diye tek tarihe baglamisti. TDV: Rakkade 296 (909) yilinda alindi, halifelik ilani 29 Rebiulahir 297 / 15 Ocak 910'dadir. Hicri 297 = miladi 909-910; iki tarih ayri yazildi."
+      "inceleme": "ESKI GOVDE DUZELTMESI: onceki surum devleti 909-1171 arasinda hukum suren devlet diye tanitip kurulusu 909'a, tek tarihe baglamisti. TDV: Rakkade 296 (909) yilinda alindi, halifelik ilani 29 Rebiulahir 297 / 15 Ocak 910'dadir. Hicri 297 = miladi 909-910; iki tarih ayri yazildi."
     },
     {
       "iddia_id": "i005",
@@ -73,7 +73,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "HAKEM: TDV metninde bir dizgi hatasi var (ordunun teftisi \"14 Rebiulevvel'de (5 Subat 960)\" yaziliyor, yil 358/969 olmali); metin bu bozuk tarihi kullanmadi. HAKEM DUZELTMESI: \"ilk defa\" onceligi kaynagin kendi hukmu -- k1: \"Islam tarihinde ilk defa ismen bile olsa Bagdat'a bagli olmayan bir hukumet Misir'a hakim oluyordu\" -- ama gorunur bir atif cercevesi yoktu; \"maddenin kendi degerlendirmesiyle\" eklendi. Curutucunun \"ustunluk-iddiasi\" itirazi bu yolla karsilandi, kaldirilmadi: kaynak onceligi acikca soyluyor."
+      "inceleme": "HAKEM: TDV metninde bir dizgi hatasi var (ordunun teftisi \"14 Rebiulevvel'de (5 Subat 960)\" yaziliyor, yil 358/969 olmali); metin bu bozuk tarihi kullanmadi. HAKEM DUZELTMESI: \"ilk defa\" onceligi kaynagin kendi hukmu -- k1: \"Islam tarihinde ilk defa ismen bile olsa Bagdat'a bagli olmayan bir hukumet Misir'a hakim oluyordu\" -- ama gorunur bir atif cercevesi yoktu; govdeye maddenin kendi degerlendirmesiyle ibaresi eklendi. Curutucunun \"ustunluk-iddiasi\" itirazi bu yolla karsilandi, kaldirilmadi: kaynak onceligi acikca soyluyor."
     },
     {
       "iddia_id": "i006",
@@ -101,7 +101,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Mektubun kendisi elimizde degil; TDV maddesi aktariyor. Iddia \"Mehdi soyle demistir\" degil \"kaynak boyle kaydeder\" duzeyinde tutuldu."
+      "inceleme": "Mektubun kendisi elimizde degil; TDV maddesi aktariyor. Iddia, Mehdi soyle demistir duzeyinde degil, kaynak boyle kaydeder duzeyinde tutuldu."
     },
     {
       "iddia_id": "i008",
@@ -259,7 +259,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Kaynak her grubun ayri mahallesi oldugunu ve gruplar arasi catismalarin surekliligini kaydeder; \"hanedanin son yuzyilinda devlet krizlerinin duzenli kaynagi\" nitelemesi metnin kendi ozetidir, kaynakta bu ifadeyle yer almaz."
+      "inceleme": "Kaynak her grubun ayri mahallesi oldugunu ve gruplar arasi catismalarin surekliligini kaydeder; catismalarin hanedanin son yuzyilinda devlet krizlerinin duzenli kaynagi oldugu nitelemesi metnin kendi ozetidir, kaynakta bu ifadeyle yer almaz."
     },
     {
       "iddia_id": "i019",
@@ -301,7 +301,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Kaynagin kendi kosullu dili korundu: zekatin yerine necvanin konmus \"olmasi muhtemeldir\" denir, kesin bir ikame iddiasi yoktur."
+      "inceleme": "Kaynagin kendi kosullu dili korundu: k1 zekatin yerine necvanin konmasini \"Belki de\" diye kayda gecirir; kesin bir ikame iddiasi yoktur, govdedeki muhtemeldir kipi bunun karsiligidir."
     },
     {
       "iddia_id": "i022",
@@ -329,7 +329,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "HAKEM DUZELTMESI: onceki surum \"Cevher, Misir'a girer girmez\" diyordu; k1 boyle bir es zamanlilik soylemez, yalnizca \"Ekonomik alanda ise Cevher...\" der. Uydurulmus kesinlik kaldirildi. Rakamlar (feddan 4200 m2, 3,5 -> 7 dinar) k1'de birebir gecer; Muizzi dinar adi da oyle."
+      "inceleme": "HAKEM DUZELTMESI: onceki surum bu duzenlemeleri Cevher Misir'a girer girmez yapilmis gibi yaziyordu; k1 boyle bir es zamanlilik soylemez, yalnizca \"Ekonomik alanda ise Cevher...\" der. Uydurulmus kesinlik kaldirildi. Rakamlar (feddan 4200 m2, 3,5 -> 7 dinar) k1'de birebir gecer; Muizzi dinar adi da oyle."
     },
     {
       "iddia_id": "i024",
@@ -343,7 +343,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "HAKEM DUZELTMESI -- KAPSAM KAYMASI: k1'de cumle sudur: \"Fatimiler doneminde hicbir urun, sanat ve meslek vergiden muaf tutulmamistir. Selahaddin-i Eyyubi yillik tutari 100.000 dinara ulasan BU vergilerin bircogunu kaldirmistir (el-Hitat I, 104-105).\" Rakam butun vergi yukunu degil, urun/sanat/meslek vergilerini olcer. Onceki surum \"vergilerin bircogu\" deyip bunu bir onceki cumledeki toprak haraciyla ayni paragrafa koydugu icin okuyucuyu toplam yuk sanisina goturebilirdi; kapsam kaynagin verdigi kadarina daraltildi. Rakam yine bir sayimdan degil Makrizi aktarimindan gelir ve metin bunu ayrica soyler."
+      "inceleme": "HAKEM DUZELTMESI -- KAPSAM KAYMASI: k1'de cumle sudur: \"Fatimiler doneminde hicbir urun, sanat ve meslek vergiden muaf tutulmamistir. Selahaddin-i Eyyubi yillik tutari 100.000 dinara ulasan bu vergilerin bircogunu kaldirmistir\" (kaynak burada Makrizi, el-Hitat I, 104-105'e gonderir). Rakam butun vergi yukunu degil, urun/sanat/meslek vergilerini olcer. Onceki surum \"vergilerin bircogu\" deyip bunu bir onceki cumledeki toprak haraciyla ayni paragrafa koydugu icin okuyucuyu toplam yuk sanisina goturebilirdi; kapsam kaynagin verdigi kadarina daraltildi. Rakam yine bir sayimdan degil Makrizi aktarimindan gelir ve metin bunu ayrica soyler."
     },
     {
       "iddia_id": "i025",
@@ -385,7 +385,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Insa tarihleri k2'de birebir: \"Insaatin Cemaziyelevvel 359'da (Mart 970) baslayip Ramazan 361'de (Haziran 972) bittigi... bilinmektedir.\" HAKEM DUZELTMESI: onceki surum \"Bugun Sunni dunyanin EN TANINMIS ogretim kurumu\" diyordu; bu, hicbir kunyenin tasimadigi kuresel bir ustunluk iddiasiydi (curutucu hem \"ustunluk-iddiasi\" hem \"kapsam-carpitmasi\" olarak isaretledi). \"baslica kurumlarindan biri\" ile degistirildi. Ayni cumleye takilan ikinci \"ilk\" itirazi REDDEDILDI: paragraftaki \"ilk dersler\" ifadesi Makrizi'ye acikca atfedilmis durumda."
+      "inceleme": "Insa tarihleri k2'de birebir: \"Insaatin Cemaziyelevvel 359'da (Mart 970) baslayip Ramazan 361'de (Haziran 972) bittigi... bilinmektedir.\" HAKEM DUZELTMESI: onceki surum Ezher'i bugun Sunni dunyanin en taninmis ogretim kurumu diye tanitiyordu; bu, hicbir kunyenin tasimadigi kuresel bir ustunluk iddiasiydi (curutucu hem \"ustunluk-iddiasi\" hem \"kapsam-carpitmasi\" olarak isaretledi). Yerine baslica kurumlarindan biri nitelemesi kondu. Ayni cumleye takilan ikinci ilk itirazi REDDEDILDI: paragraftaki \"ilk dersler\" ifadesi Makrizi'ye acikca atfedilmis durumda."
     },
     {
       "iddia_id": "i028",
@@ -501,7 +501,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "HAKEM BULGUSU -- KAYNAK ICI CELISKI: k1 bir yerde \"Fatimiler donemindeki vezirlerin cogu hiristiyandi. Ermeni vezir Behram 'seyfu'l-Islam' lakabini alip vezirü's-seyf oldugu halde Hiristiyanligini korudu\" der; baska bir yerde ise \"Boylece ILK DEFA bir hiristiyan Fatimiler'in cok genis yetkilere sahip tefviz vezirligine getirilmis oldu\" (16 Cemaziyelahir 529 / 13 Mart 1135) der. Iki ifade ayni maddede yan yana durur ve tam olarak uyusmaz. Onceki surum yalnizca ilkini alip \"genis yetkili tefviz vezirligine getirildigi halde\" diye ikisini birlestirmisti; celiski gorunmez oluyordu. Simdi ikisi de yazili ve uyusmazlik beyan edilmis durumda. Guven bu yuzden \"yuksek\"ten \"orta\"ya dusuruldu."
+      "inceleme": "HAKEM BULGUSU -- KAYNAK ICI CELISKI: k1 bir yerde \"Fatimiler donemindeki vezirlerin cogu hiristiyandi. Ermeni vezir Behram seyfu'l-Islam lakabini alip vezirü's-seyf oldugu halde Hiristiyanligini korudu\" der (kaynak seyfu'l-Islam'i tirnakli yazar); baska bir yerde ise \"Boylece ILK DEFA bir hiristiyan Fatimiler'in cok genis yetkilere sahip tefviz vezirligine getirilmis oldu\" (16 Cemaziyelahir 529 / 13 Mart 1135) der. Iki ifade ayni maddede yan yana durur ve tam olarak uyusmaz. Onceki surum yalnizca ilkini alip Behram'i genis yetkili tefviz vezirligine getirildigi halde hiristiyan kalmis gibi gosterip ikisini birlestirmisti; celiski gorunmez oluyordu. Simdi ikisi de yazili ve uyusmazlik beyan edilmis durumda. Guven bu yuzden yuksekten ortaya dusuruldu."
     },
     {
       "iddia_id": "i036",
@@ -515,7 +515,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "30.000 sayisi k1'de gecer ama bir sayima degil kronik aktarimina dayanir. HAKEM DUZELTMESI (iki tane): (1) k1 \"halkinin COGUNLUGU Sunni olan Iskenderiye\" der; onceki surum \"halkinin TAMAMI Sunni olan\" yaziyordu -- kaynagin kendi cekincesi dusurulmustu, geri kondu. (2) Kaynak Ermenilerin \"Tel Basir VE Ermenistan'dan\" getirtildigini yazar; onceki surum listeyi kirpmisti, tamamlandi. \"Sunni vezir Ridvan\" nitelemesi kaynagin kendi ifadesidir."
+      "inceleme": "30.000 sayisi k1'de gecer ama bir sayima degil kronik aktarimina dayanir. HAKEM DUZELTMESI (iki tane): (1) k1 \"halkinin COGUNLUGU Sunni olan Iskenderiye\" der; onceki surum halkinin TAMAMI Sunni olan diye yaziyordu -- kaynagin kendi cekincesi dusurulmustu, geri kondu. (2) Kaynak Ermenilerin \"Tel Basir VE Ermenistan'dan\" getirtildigini yazar; onceki surum listeyi kirpmisti, tamamlandi. \"Sunni vezir Ridvan\" nitelemesi kaynagin kendi ifadesidir."
     },
     {
       "iddia_id": "i037",
@@ -585,7 +585,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Maddenin dayanaklari Makrizi, Ibn Tagriberdi ve Melkit hiristiyan Yahya el-Antaki'dir; portre metinde bir tespit degil bir aktarim gelenegi olarak sunuldu. HAKEM DUZELTMESI -- UC AYRI KIRPMA GERI ALINDI: (1) k3 \"Ertesi yil da hiristiyanlarin bayram kutlamalarini YASAKLADI; daha sonra ise cikardigi fermanlarla bunlari tamamen serbest birakti\" der; onceki surum yalniz serbest birakmayi aliyor, yasagi dusuruyordu -- hosgoru gibi okunuyordu. (2) k3 \"HIRISTIYANLARI MUSLUMAN OLMAYA ZORLADI; 404'te ise (1013) tekrar eski dinlerine donmelerine izin verdi\" der; onceki surum zorla ihtidayi atlamisti, izin tek basina yine hosgoru gibi okunuyordu. (3) k3 \"Kahire'de bulunan kiliselerle Kudus'teki Kiyame Kilisesi'ni\" der; onceki surum yalniz Kudus'u aniyordu. Ayrica teravih yasaginin dokuz yil surdugu ve sovgu emrinin hedefi (Ebu Bekir, Omer, Osman) kaynaktan geri kondu."
+      "inceleme": "Maddenin dayanaklari Makrizi, Ibn Tagriberdi ve Melkit hiristiyan Yahya el-Antaki'dir; portre metinde bir tespit degil bir aktarim gelenegi olarak sunuldu. HAKEM DUZELTMESI -- UC AYRI KIRPMA GERI ALINDI: (1) k3 \"Ertesi yil da hiristiyanlarin bayram kutlamalarini YASAKLADI; daha sonra ise cikardigi fermanlarla bunlari tamamen serbest birakti\" der; onceki surum yalniz serbest birakmayi aliyor, yasagi dusuruyordu -- hosgoru gibi okunuyordu. (2) k3 \"HIRISTIYANLARI MUSLUMAN OLMAYA ZORLADI; 404'te ise (1013) tekrar eski dinlerine donmelerine izin verdi\" der; onceki surum zorla ihtidayi atlamisti, izin tek basina yine hosgoru gibi okunuyordu. (3) k3 \"Kahire'de bulunan kiliselerle Kudus'teki Kiyame (Saint Sepulcre) Kilisesi'ni\" der; onceki surum yalniz Kudus'u aniyordu. Ayrica teravih yasaginin dokuz yil surdugu ve sovgu emrinin hedefi (Ebu Bekir, Omer, Osman) kaynaktan geri kondu."
     },
     {
       "iddia_id": "i042",
@@ -599,7 +599,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "CEKINCE KORUNDU: kaynagin kendi kaydettigi 396-401 donusu ve bunun muhtemel sebebi (isyanlar + Nil kitligi) metne aynen tasindi; tutarli bir \"zulum donemi\" anlatisi kurulmadi. CURUTUCU ITIRAZI (\"tek-kaynakli-nedensellik\", k3) KARSILANDI, KALDIRILMADI: 396-401 donusunun sebebi olarak isyanlar ve Nil kitligi kaynagin kendi kosullu hukmudur (\"buyuk bir ihtimalle\") ve metin bunu k3'e atfederek, kosullu kipiyle veriyor -- kendi nedensellik iddiasi kurulmus degil. Ayrica ayni bolumdeki O'Leary okumasi (i044, k6) ayni olaylar icin bagimsiz ikinci bir cerceve koyuyor; bolumun savi zaten tek nedenli anlatinin kaynaklarin duzenlenisinden geldigidir."
+      "inceleme": "CEKINCE KORUNDU: kaynagin kendi kaydettigi 396-401 donusu ve bunun muhtemel sebebi (isyanlar + Nil kitligi) metne aynen tasindi; tutarli bir zulum donemi anlatisi kurulmadi. CURUTUCU ITIRAZI (\"tek-kaynakli-nedensellik\", k3) KARSILANDI, KALDIRILMADI: 396-401 donusunun sebebi olarak isyanlar ve Nil kitligi kaynagin kendi kosullu hukmudur (\"buyuk bir ihtimalle\") ve metin bunu k3'e atfederek, kosullu kipiyle veriyor -- kendi nedensellik iddiasi kurulmus degil. Ayrica ayni bolumdeki O'Leary okumasi (i044, k6) ayni olaylar icin bagimsiz ikinci bir cerceve koyuyor; bolumun savi zaten tek nedenli anlatinin kaynaklarin duzenlenisinden geldigidir."
     },
     {
       "iddia_id": "i043",
@@ -669,7 +669,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "CEKINCE KORUNDU: kaynak Hursah sonrasi imamlar hakkinda \"guvenilir bilgi bulunmadigini\" ve silsilelerin birbirinden farkli oldugunu, Aga Hanlar kolunun silsilesinin ancak 19. yuzyil sonlarinda benimsendigini yazar."
+      "inceleme": "CEKINCE KORUNDU: kaynak Hursah sonrasi imamlar icin \"guvenilir bilgi bulunmadigi\" der; silsilelerin birbirinden farkli oldugunu ve Aga Hanlar kolunun silsilesinin ancak 19. yuzyil sonlarinda benimsendigini de yazar."
     },
     {
       "iddia_id": "i048",
@@ -683,7 +683,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "\"Misir halki Ismaili mezhebine kesinlikle inanmis degildi\" hukmu maddenin kendi degerlendirmesidir; metin bunu TDV'ye atfederek verdi, kendi hukmu yapmadi."
+      "inceleme": "\"Ismaili mezhebine kesinlikle inanmis degildi\" hukmu maddenin kendi degerlendirmesidir; k1 bunu Misir halki icin, hilafetle is birligi icindeki zumreyi disarida birakarak soyler. Metin hukmu TDV'ye atfederek verdi, kendi hukmu yapmadi."
     },
     {
       "iddia_id": "i049",
@@ -697,7 +697,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "HAKEM EKLEMESI -- LISTE GERI KONDU: k1 \"Yahudiler de Fatimiler zamaninda onemli mevkiler isgal etmekle beraber onlarin vezirlik makamina getirilmeleri icin musluman olmalari gerekiyordu. Ibn Killis, Ebu Sa'd et-Tusteri ve Sadaka b. Yusuf el-Fellahi bu vezirlere ornek gosterilebilir\" der. Onceki surum kurali yaziyor, kaynagin verdigi uc ornegi dusuruyordu; ornekler kurali somutlastirdigi icin geri kondu."
+      "inceleme": "HAKEM EKLEMESI -- LISTE GERI KONDU: k1 \"Yahudiler de Fatimiler zamaninda onemli mevkiler isgal etmekle beraber onlarin vezirlik makamina getirilmeleri icin musluman olmalari gerekiyordu\" der ve hemen ardindan Ibn Killis, Ebu Sa'd et-Tusteri ile Sadaka b. Yusuf el-Fellahi'yi bu vezirlere ornek gosterir. Onceki surum kurali yaziyor, kaynagin verdigi uc ornegi dusuruyordu; ornekler kurali somutlastirdigi icin geri kondu."
     },
     {
       "iddia_id": "i050",
@@ -711,7 +711,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "HAKEM EKLEMESI: k3'te birebir \"Ittifakla belirtildigine gore Hakim sert mizacli, merhametsiz, insanlari oldurmekten zevk alan... bir kimse idi\". Onceki surum bolumu \"Hicbir Fatimi halifesi Hakim-Biemrillah kadar keskin bir portreye oturtulmamistir ve hicbiri onun kadar tarafli kayitla anilmaz\" diye aciyordu: iki ayri, hicbir kunyenin tasimadigi ustunluk iddiasi (curutucu \"kesinlik-dili\" ile yuksek ciddiyette isaretledi). Yerine kaynagin kendi 'ittifak' dili alintilandi -- ittifakin kimler arasinda oldugu ise hemen ardindan kaynak listesiyle veriliyor."
+      "inceleme": "HAKEM EKLEMESI: k3'te birebir \"Ittifakla belirtildigine gore Hakim sert mizacli, merhametsiz, insanlari oldurmekten zevk alan... bir kimse idi\". Onceki surum bolumu, hicbir Fatimi halifesinin Hakim-Biemrillah kadar keskin bir portreye oturtulmadigini ve hicbirinin onun kadar tarafli kayitla anilmadigini soyleyerek aciyordu: iki ayri, hicbir kunyenin tasimadigi ustunluk iddiasi (curutucu \"kesinlik-dili\" ile yuksek ciddiyette isaretledi). Yerine kaynagin kendi 'ittifak' dili alintilandi -- ittifakin kimler arasinda oldugu ise hemen ardindan kaynak listesiyle veriliyor."
     }
   ],
   "sayaclar": {

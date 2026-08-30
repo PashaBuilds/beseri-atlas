@@ -4,6 +4,7 @@ dist/
 denetim/.onbellek/
 otonom/is-emri.md
 *.log
+.claude/scheduled_tasks.lock
 
 .DS_Store
 denetim/.onbellek-tam/

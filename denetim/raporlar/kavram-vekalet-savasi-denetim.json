@@ -1,0 +1,141 @@
+{
+  "id": "kavram-vekalet-savasi",
+  "gecis": 2,
+  "zaman": "2026-08-30T00:09:50.370Z",
+  "govde_hash": "89b75891397d",
+  "commit": "81e6421a",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "14 Kasım 1975 öğleden sonra Washington'da toplanan 40 Komitesi'nde, Merkezî Haberalma Teşkilatı başkanı William Colby elindeki çizelgeyi göstererek karşı tarafı",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı 14 Kasım 1975 tutanağında Amerikan tarafının harcadığı ve harcamayı önerdiği tutarların yeri boştur; gizliliği kaldırılmamıştır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Vekâlet savaşı, çarpışan taraflardan en az birinin dışarıdaki üçüncü bir gücün yönlendirmesi ya da desteğiyle savaştığı silahlı çatışmadır; iki taraf da yabancı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Ölümlerin ve yıkımın ağırlığını genellikle vekiller taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Afganistan'da örtülü eylem seçeneklerini tartan tarihsiz bir Merkezî Haberalma Teşkilatı muhtırası, başarılı bir yardım programının Afganistan'ın Sovyet desteği",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Haberalma, Teşkilatı, Afganistan, Sovyet"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metin, bütün değerlendirmenin indirgenemez tek bir bilinmezliğin gölgesinde durduğunu söyleyerek açılır: Sovyet önderliğinin, ayaklanmaya görünür bir dış yardım",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sovyet"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sovyetler kararlıysa en geniş örtülü program bile onları durduramaz; ve büyük, görünür bir Amerikan programının Sovyetlerce sınır boyunda bir meydan okuma sayıl",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Amerikan, Sovyetlerce"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "40 Komitesi tutanağında karşı tarafın 81 milyon dolarlık hesabı basılıdır, kendi rakamları karartılmıştır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kasım 1979'da teşkilat başkanı Stansfield Turner, Brzezinski'ye Suudi Arabistan'ın ne kadar para ayırabileceğine dair bir tahmin elde edemediklerini bildirir ve",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Vekâlet savaşlarında elimizdeki sayılar çoğu zaman bir tarafın öteki taraf hakkındaki kestirimidir; Colby'nin 81 milyon doları da bir istihbarat çizelgesinin ra",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Turner'ın 5 Kasım 1979 tarihli muhtırası bunu doğrudan yalanlar: Pakistan, Washington'ı beklemeden Afgan aşiretlerini zaten desteklemektedir ve Pakistan askerî ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Suudi istihbarat şefi de hükümetinin ayaklanmaya yardım kararı aldığını ve Pakistan'daki mültecilere para aktarıldığını bildirir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı belge şunu da yazar: ilişkiler, Pakistan'ın verdiği desteğin türünü ve miktarını öğrenecek kadar sıcak değildir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Angola toplantısında bir kara baskını önerildiğinde, teşkilatın Afrika Dairesi başkanı işin yerel insanlarla yürütülmek zorunda olduğunu, onların konuşup söz ve",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Sponsor ile vekil arasındaki ilişki, sponsorun vekilin eylemlerini denetleyemediği bir asil-vekil sorununa dönüşebilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Dış destek çatışmaların süresini, şiddetini ve ölçeğini çoğu zaman büyütür — kaynak bu genellemeyi \"çoğu zaman\" kaydıyla verir — ama çatışmayı yaratmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Afgan ayaklanması, Washington'da desteklenip desteklenmeyeceği tartışılmadan önce vardı ve Pakistan tarafından besleniyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Muhtıra bu kullanımı önceden görür: Amerikan yardımının sızması hâlinde Sovyetlerin bunu ayaklanmanın baştan beri Amerikan kışkırtması olduğunun kanıtı diye kul",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Amerikan, Sovyetlerin"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "12 Ocak 1976'da ABD hükümetinden Sovyet hükümetine giden mesaj bu kısır döngüyü açıkça kabul eder: Angola'daki dış müdahalenin kurgusal mı gerçek mi olduğu üzer",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı metin Sovyet bildirisinin Güney Afrika'nın askerî müdahalesine yaptığı vurguyu da kaydeder.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Uluslararası Adalet Divanı 27 Haziran 1986'da Nikaragua davasında esasa ilişkin kararını verdi: ABD'nin ileri sürdüğü ortak meşru müdafaa gerekçesini reddetti v",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "ABD 18 Ocak 1985'te davanın bundan sonraki aşamalarına katılmayacağını bildirmişti; dava 1991'de Nikaragua'nın takipten vazgeçmesiyle listeden düştü.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    }
+  ]
+}

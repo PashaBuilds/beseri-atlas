@@ -60,6 +60,9 @@ const SIZINTI = [
   { re: /\[object Object\]/, ad: '[object Object]' },
   { re: /\bInvalid Date\b/, ad: 'Invalid Date' },
   { re: /\bnull\b/, ad: 'null' },
+  // remark eklentisi bir direktifi tanimazsa okur bu ham sozdizimini gorur.
+  // KAPI 14 metnin ulasmasini olcer; bu kapı ise yanlis BICIMDE ulasmasini yakalar.
+  { re: /::tartismali\s*\[/, ad: '::tartismali[' },
 ];
 
 /** HTML'den betik/stil cikarilmis duz metin. */

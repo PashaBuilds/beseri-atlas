@@ -1,0 +1,295 @@
+{
+  "id": "kavram-modernlesme-kurami",
+  "govde_hash": null,
+  "commit": null,
+  "zaman": "2026-08-30",
+  "hakem": "TASLAK-yazar",
+  "iddialar": [
+    {
+      "iddia_id": "i1",
+      "cumle": "Dördüncüsü yeniydi: bilimsel ve sınaî ilerlemenin faydalarını az gelişmiş bölgelerin iyileşmesi ve büyümesi için seferber eden cesur bir program. Gerekçe aynı paragrafta duruyordu — dünya insanlarının yarısından fazlası sefalete yakın koşullarda yaşıyordu, yiyecekleri yetersizdi, iktisadi hayatları ilkel ve durgundu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Konusma metninde dorduncu madde 'Fourth, we must embark on a bold new program...' diye acilir ve 'growth of underdeveloped areas' ifadesi birebir gecer; ardindan gelen uc cumle nufusun yarisindan fazlasi, yetersiz gida ve ilkel-durgun iktisadi hayat ifadelerini tasir. Iddianin tamami ayni paragraftan okunuyor."
+    },
+    {
+      "iddia_id": "i2",
+      "cumle": "Konuşmanın başında karşı taraf da adıyla anılmıştı: özgürlük vaat ettiğini iddia eden yanlış bir felsefe, yani komünizm.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni belgede 'That false philosophy is communism' cumlesi ve onun oncesindeki 'a false philosophy which purports to offer freedom, security, and greater opportunity' ifadesi bulunuyor. Iddia dogrudan bu iki cumleden."
+    },
+    {
+      "iddia_id": "i3",
+      "cumle": "Truman ayrıca bir çekince koyuyordu: The old imperialism--exploitation for foreign profit--has no place in our plans.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tirnakli dize belgede birebir gecti. Bu bir taraf beyanidir; atlas onu Truman'in kendi cekincesi olarak tasiyor, programin fiilen boyle isledigi iddiasi olarak degil."
+    },
+    {
+      "iddia_id": "i4",
+      "cumle": "W. W. Rostow 1960'ta, MIT'de iktisat tarihi profesörüyken, The Stages of Economic Growth: A Non-Communist Manifesto'yu yayımladı; kitap 1958 sonbaharında Cambridge'de verdiği derslerden çıkmıştı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Basim kunyesi taramanin kendi baslik sayfasindan okundu: 'Professor of Economic History Massachusetts Institute of Technology', 'CAMBRIDGE AT THE UNIVERSITY PRESS 1960'. Onsoz kitabin 1958 sonbaharinda Cambridge'de verilen derslerden turedigini yazar."
+    },
+    {
+      "iddia_id": "i5",
+      "cumle": "Beş aşama sayıyordu: geleneksel toplum, kalkışın önkoşulları, kalkış, olgunluğa yürüyüş ve yüksek kitlesel tüketim çağı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ikinci bolumun ozetinde bes asama ayni sirayla sayiliyor: the traditional society, the preconditions for take-off, the take-off, the drive to maturity, and the age of high mass-consumption."
+    },
+    {
+      "iddia_id": "i6",
+      "cumle": "Geleneksel toplum, Rostow'a göre, Newton öncesi bilim ve teknolojiye ve fiziksel dünyaya karşı Newton öncesi tutumlara dayanan sınırlı üretim fonksiyonları içinde kurulmuş bir yapıdır; Newton burada bir kişi değil, insanların dış dünyanın birkaç bilinebilir yasaya tabi olduğuna yaygın biçimde inanmaya başladığı eşiğin simgesidir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak 'A traditional society is one whose structure is developed within limited production functions, based on pre-Newtonian science and technology' der ve devaminda Newton'un bir simge olarak kullanildigini kendisi acikca soyler. Ikiligin kurulus yeri budur."
+    },
+    {
+      "iddia_id": "i7",
+      "cumle": "Rostow bu kategoriyi durağan saymaz ve çıktı artışını dışlamaz; ölçüt üretim değil, dünyaya bakıştır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak ayni paragrafta kategorinin 'in no sense static' oldugunu ve cikti artisini dislamadigini yazar. Cumlenin ikinci yarisi (olcutun uretim degil dunyaya bakis olmasi) tanimin kendisinden cikarilan bir okumadir; kaynakta bu sozcuklerle yer almaz."
+    },
+    {
+      "iddia_id": "i8",
+      "cumle": "Rostow kalkışı üç koşulun birlikte sağlanması olarak tanımlar; birincisi, üretken yatırımın ulusal gelir içindeki payının, Rostow'un kendi ihtiyat sözcüğüyle diyelim ki, yüzde beş ya da altından yüzde onun üzerine çıkmasıdır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak kalkisi uc kosula baglar ve birincisini 'a rise in the rate of productive investment from, say, 5% or less to over 10% of national income' diye tanimlar. Rostow'un 'say' ihtiyati cumleye tasindi; sayi bir olcum degil bir esik onerisidir."
+    },
+    {
+      "iddia_id": "i9",
+      "cumle": "Kitabın alt başlığı ile onuncu bölümün başlığı kuramın Soğuk Savaş'a nasıl bağlandığını açıkça söyler: A Non-Communist Manifesto ve Communism: A disease of the transition.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alt baslik kapak ve baslik sayfasinda; onuncu bolumun icindekiler girdisi 'Communism: A disease of the transition' alt basligini tasiyor. Iddia yalniz iki baslik uzerine kuruldu, bolumun gerekcesi ayri bir iddia olarak verilmedi."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Rostow komünizmi, yalnızca büyümenin arz yanına uygun tuhaf bir modern toplum biçimi olarak tarif eder ve yüksek kitlesel tüketim çağında sönmeye yatkın olduğunu yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynakta 'Communism is a curious form of modern society appropriate only to the supply side of the growth problem' ve 'in its essence Communism is likely to wither in the age of high mass-consumption' ifadeleri var. Atlas bunu Rostow'un konumu olarak tasiyor, bir olgu olarak degil."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Bu kitabın tam metni bugün Amerikan merkezî istihbarat teşkilatının gizliliği kaldırılmış belge odasında, her sayfasında yayım onayı damgasıyla duruyor; kaydın oraya niçin girdiği belgenin kendisinden okunamaz.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tarama CIA Reading Room kaydidir (CIA-RDP78-03062A001100030001-6) ve her sayfada 'Approved For Release 2000/08/28' damgasi tekrarlanir. Kaydin niye CIA dosyalarinda oldugu belgeden okunamaz; cumle bu sinirini kendi icinde tasiyor."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Talcott Parsons ile Edward A. Shils'in Carnegie Corporation desteğiyle hazırladığı 1951 tarihli derleme, eylem yöneliminin ikilemlerini beş çift değişkene indirger: duygusallık-duygusal yansızlık, kendine yönelim-topluluğa yönelim, evrenselcilik-tikelcilik, atfedilmişlik-başarı ve özgüllük-yaygınlık.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak bes cifti numarali bir liste halinde verir: Affectivity-Affective neutrality, Self-orientation-Collectivity-orientation, Universalism-Particularism, Ascription-Achievement, Specificity-Diffuseness. Onsoz Carnegie Corporation'in bagisini ve 1951 telif tarihini baslik sayfasindan dogruluyor."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Bu çiftler bir kalkınma reçetesi olarak değil, toplum bilimleri için kuramsal bir temel olarak yazılmıştı.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynagin alt basligi 'Theoretical Foundations for the Social Sciences' ve onsoz projeyi Harvard Sosyal Iliskiler Bolumu'nun kuramsal envanteri olarak anlatir. Ama 'kalkinma recetesi olarak yazilmadi' olumsuz bir iddiadir ve yokluktan cikarilmistir; destek bu yuzden kismi."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Aynı sözcük dağarcığının ne kadar hızlı yayıldığı, Daniel Lerner ile Lucille W. Pevsner'ın The Passing of Traditional Society adlı kitabının Şubat 1959'da American Sociological Review'da değerlendirilmesinden görülüyor.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref kaydi degerlendirmenin varligini, dergiyi (American Sociological Review 24/1, s. 117), tarihi (Subat 1959) ve adlari dogruluyor. 'Sozcuk dagarciginin hizla yayilmasi' kaydin kendisinde yazmayan bir okumadir; destek kismi."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Andre Gunder Frank 1966'da Monthly Review'da The Development of Underdevelopment başlıklı bir yazı yayımladı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydi yazar, baslik, dergi, cilt 18, sayi 4, sayfa 17 ve 1966 tarihini tasiyor. Yazinin icerigine dair hicbir iddia bu kunyeye yaslanmadi; govde bunu acikca soyluyor."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Dean C. Tipps 1973'te, modernleşme teriminin bugünkü anlamlarıyla kullanımının görece yeni olduğunu ve Amerikan toplum bilimlerinin sözlüğüne ancak 1960'larda girdiğini yazar; terimin yaygınlığının anlamı üzerinde herhangi bir geniş uzlaşmayla eşleşmediğini, tanım çeşitliliğinin terimi kullananların sayısına yaklaştığını ve popülerliğin kavramın açıklığından değil bulanık ve genel imgeleri çağırma gücünden geldiğini savunur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydindaki yazar ozeti dort savi da tasiyor: terimin 1960'larda Amerikan toplum bilimlerine girmesi, uzlasma yoklugu, tanim sayisinin kullanici sayisina yaklasmasi ve popularitenin bulanik genel imgeleri cagirma gucunden gelmesi. Ozet kaydin kendi eserine aittir (tek yazarli makale)."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Tipps bu saptamaları ihtiyat kipiyle kurar: öyle görünmektedir, oran bire yaklaşır gibidir. Ardından şunu ekler: hem eleştirenler hem savunanlar modernleşme fikrinin temelde yararlı olduğunu varsayma eğilimindedir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozet 'does not appear to be matched', 'would appear to approach unity' ve 'both critics and advocates alike tend to assume the basic utility of the idea of modernization itself' ifadelerini tasiyor. Kaynagin ihtiyat kipi cumleye tasindi."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Kendisi tam tersini yazar: aşamalar, modern tarihin akışına bakmanın an arbitrary and limited way of looking at the sequence of modern history biçimidir ve hiçbir mutlak anlamda doğru bir yol değildir; amaçları benzerlikleri olduğu kadar her ulusun tekilliğini de öne çıkarmaktır ve ancak belirli sınırlı amaçlar için yararlıdırlar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tirnakli dize taramada birebir gecti. Ayni paragrafta 'in no absolute sense, a correct way' ve asamalarin her ulusun tekilligini de vurgulamak icin tasarlandigi yazili; girisde 'for certain limited purposes, it is useful' ifadesi var. Kaynagin kendi cekincesi dogrudan tasindi."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Bir kalkınma bakanı için yüzde on eşiği soyut bir yapı çözümlemesinden daha kullanışlıydı.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Kaynak esigin kendisini verir; esigin bir bakanlik icin rakip cerceverlerden daha kullanisli oldugu karsilastirmasi kaynakta yoktur, atlasin okumasidir. Destek bu yuzden kismi ve guven dusuk."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Sanayileşme, kentleşme ve okur yazarlığın yayılması yaşanmış olgulardır; modernleşme kuramı ise bu olguları tek bir sıraya dizen, belirli bir yerde ve zamanda kurulmuş bir açıklama şemasıdır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tipps'in ozeti terimin sanayilesme ve ulus-devletin yukselisine bagli donusumleri toparlamak icin kullanildigini ve Amerikan toplum bilimlerine 1960'larda girdigini soyler — yani semanin belirli bir yer ve zamanda kuruldugunu destekler. Olgu ile sema arasindaki ayrimin kendisi atlasin formulasyonudur; destek kismi."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 16,
+    "kismi": 4,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

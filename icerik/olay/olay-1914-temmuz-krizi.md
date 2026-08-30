@@ -18,6 +18,7 @@ ilgili:
   - aktor-avusturya-macaristan
   - olay-birinci-dunya-savasi
   - kavram-seferberlik
+  - kavram-ittifak-sistemi
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 kaynaklar:

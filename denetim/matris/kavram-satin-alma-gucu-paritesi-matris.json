@@ -1,0 +1,397 @@
+{
+  "id": "kavram-satin-alma-gucu-paritesi",
+  "govde_hash": "8a21b781a1a7",
+  "commit": "81e6421a",
+  "zaman": "2026-08-30",
+  "hakem": "TASLAK-yazar",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Hindistan'da kişi başına düşen gelir, piyasa kurundan dolara çevrildiğinde Amerika Birleşik Devletleri'ndekinin yaklaşık 30'da biri kadar çıkar; aynı gelir yerel fiyat düzeyine göre düzeltildiğinde fark sekiz kata iner.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "OWID: Hindistanin kisi basi geliri piyasa dolarinda ABDninkinden neredeyse 30 kat dusuk, yasam maliyeti duzeltmesinden sonra fark yaklasik sekiz kata iniyor. Iddia kaynagin kendi ornegidir."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Her iki sayı da 2023 yılına aittir ve ikisi de 2021 taban yılına göre enflasyondan arındırılmıştır.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni sayfada karsilastirmanin 2023 yili icin yapildigi ve iki serinin de 2021 taban yiliyla enflasyondan aritildigi yaziyor. Taban yili gerekcesi bu kunyeden gelir."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Satın alma gücü paritesi hem bir para birimi çevrim katsayısı hem de mekânsal bir fiyat endeksidir: ülkeler arasındaki fiyat düzeyi farklarını ortadan kaldırarak paraları ortak bir birime taşır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ICP SSS: pariteler hem para birimi cevrim katsayisi hem mekansal fiyat endeksidir ve cevirirken fiyat duzeyi farklarini ortadan kaldirir. Tanim kaynagin kendi cumlesidir."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Piyasa kuru bir para birimine duyulan toplam talebe göre oluşur ve bu talebin bileşenleri arasında dış ticaretin ve sermaye aktarımlarının finansmanı vardır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SSS: piyasa kuru bir paraya duyulan toplam talebe gore olusur; dis ticaretin ve sermaye aktariminin finansmani bu talebin bilesenleridir."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Oysa gayrisafi yurt içi hasıla, inşaat, konut, sağlık, eğitim ve kamu hizmetleri gibi uluslararası ticarete konu olmayan kalemleri de kapsar; genel fiyat düzeyinin yüksek gelirli ülkelerde daha yüksek olmasının başlıca sebebi de ticarete konu olmayan bu ürünlerdir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SSS: hasila insaat, konut, saglik, egitim ve kamu hizmetleri gibi ticarete konu olmayan kalemleri icerir; fiyat duzeyinin yuksek gelirli ulkelerde yuksek olmasinin baslica sebebi bu kalemlerdir."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Kur bütün kalemlere aynı uygulandığından, fiyat düzeyi yüksek zengin ülkelerin büyüklüğü olduğundan geniş, fiyat düzeyi düşük yoksul ülkelerinki olduğundan dar görünür.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SSS: kur butun urunlere ayni uygulandigi icin yuksek fiyatli zengin ekonomilerin buyuklugu abartilir, dusuk fiyatli yoksul ekonomilerinki eksik gosterilir. Yon iddiasi kaynaktan aynen alinmistir."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Oranı üreten iş, 1968'de kurulan ve bugün Dünya Bankası'nın yürüttüğü Uluslararası Karşılaştırma Programı'na aittir.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ICP tarihcesi: program 1968de kuruldu; ayni sayfa programin bugun Dunya Bankasi tarafindan yurutuldugunu soyler."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Program katılan ülkelerin istatistik kurumlarına ortak tanımlı bir listenin fiyatlarını toplatır: 2021 turunda hane halkı tüketimi için kullanılan küresel çekirdek liste 651 kalem içeriyordu ve harcamalar 155 temel başlığa bölünmüştü.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SSS: 2021 kuresel cekirdek liste hane halki tuketimi icin 651 kalem; harcamalar 155 temel basliga bolunur. Iki sayi da kaynakta birebir."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Yöntemin can alıcı özelliği şudur: iki ülke arasındaki parite üçüncü ülkelerin paritelerinden etkilenir, dolayısıyla karşılaştırmaya katılan ülke bileşimi değiştiğinde herhangi iki ülke arasındaki oran da değişir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yontem notu: pariteler cok tarafli hesaplanir, iki ulke arasindaki oran ucuncu ulkelerden etkilenir ve karsilastirmadaki ulke bilesimi degisince iki ulke arasindaki parite de degisir. Dosyanin merkezi savinin dayanagi budur."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Fiyat toplamanın pahalı ya da güvenilmez olduğu bazı temel başlıklarda başka başlıkların paritelerinden türetilmiş referans oranları kullanılır; programa hiç katılmamış ülkeler için pariteler bir regresyon modeliyle atanır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yontem notu: referans pariteler ve katilmayan ekonomiler icin regresyonla atama ayri basliklar altinda anlatilir."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Terimi bugünkü anlamıyla ilk kuran, 1918'de İsveçli iktisatçı Gustav Cassel oldu; pariteden gerçek gelir düzeylerini tahmin etmekte yararlanma fikri ise 1940'ta Colin Clark'a bağlanır.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ICP kronolojisi: 1918 Cassel modern tanimi kurar, 1940 Colin Clark pariteyi gercek gelir duzeylerini tahmin etmek icin cikarsar. Iki satir da kaynagin kendi kronoloji listesindedir."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Cassel'in Money and Foreign Exchange After 1914 kitabında sorun gelir karşılaştırması değildi: 1914'ten sonra altın standardını bırakan ülkelerin birbirinden bağımsız kâğıt paraları arasındaki normal kurun ne olması gerektiğiydi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cassel taramasi: kitabin sorunu 1914 sonrasi bagimsiz kagit paralarin normal kurudur; parite bir kur kurami olarak kurulur, gelir karsilastirmasi olarak degil."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "İki ülkenin iktisadi durumundaki farklar, özellikle ulaştırma ve gümrük alanındakiler, normal kurun paritenin gösterdiği düzeyden bir ölçüde sapmasına yol açabilir; sorunun karmaşıklığı yüzünden bu kuru kuramsal olarak hesaplamak güçtür.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cassel kendi cekincesini yazar: ulasim ve gumruk gibi farklar normal kurun paritelerden bir olcude sapmasina yol acabilir ve sorunun karmasikligi yuzunden bu kuru kuramsal olarak hesaplamak guctur. Cekince govdeye tasindi."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Gelirlerin çevrilmesi bu kuramın sonraki bir kullanımıdır ve program iki işi açıkça ayırır: pariteler denge kuru sayılamaz ve bir paranın değerinin düşük ya da yüksek olduğunun göstergesi olarak okunamaz.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cumlenin isleyen yarisi k1dedir: pariteler denge kuru olarak yorumlanamaz ve bir paranin dusuk ya da yuksek degerli oldugunun gostergesi sayilamaz. Gelir cevriminin sonraki bir kullanim olmasi k2nin kronolojisinden (1918 kur tanimi, 1940 gelir kullanimi) cikarilan bir siralamadir; bu yuzden k2 kismi tutuldu."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Küresel karşılaştırmalar tur tur yapıldı: 1970, 1973, 1975, 1980, 1985, 1993, 2005, 2011, 2017 ve 2021.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tur yillari kaynakta ayni sirayla listelenir."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Katılım 10 ülkeden 176'ya çıktı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katilimci sayilari kaynakta tur tur verilir; ilk tur 10, son tur 176."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Çin programa ilk kez 2005 turunda katıldı, Hindistan ise aynı tura 1985'ten sonraki ilk katılımıyla döndü.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ICP tarihcesi: 2005 Cinin programa ilk katilimi, Hindistan icin 1985ten sonraki ilk katilimdir."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "İki ülkenin o tarihe kadarki pariteleri, kendi fiyat anketlerine dayanmıyordu.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Bu bir cikarimdir: kaynak iki ulkenin 2005ten once katilmadigini soyler, paritelerinin neye dayandigini soylemez. Kaynak ayrica katilmayan ekonomilere regresyonla parite atandigini baska sayfada anlatir; cumle bu yuzden dogrudan degil kismi sayildi."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "2017 ile 2021 turları aynı yöntemi kullandı, ama katılan ülke kümesi değişti ve iki turun sonuçları ancak bir miktar ihtiyatla karşılaştırılabilir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SSS: 2021 ve 2017 turlari ayni yontemi kullandi, katilan ekonomi kumesi degisti ve karsilastirma ancak bir olcude ihtiyatla yapilabilir. Kaynagin ihtiyat kaydi govdeye tasindi."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Aynı kaynak, tur sonuçlarının tek bir ülkenin hasılasındaki zaman içindeki değişimi izlemek için kullanılmaması gerektiğini, pariteleri zaman ve mekân boyutlarında aynı anda tutarlı tutmanın ise kavramsal olarak imkânsız olduğunu belirtiyor.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SSS: tur sonuclari tek bir ekonominin zaman icindeki hasila degisimini incelemek icin kullanilmamalidir; pariteleri zaman ve mekan boyutlarinda ayni anda tutarli tutmak kavramsal olarak imkansizdir."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Uzun tarihsel serilerde geçmiş yüzyıllar için verilen kişi başına gelir değerleri bir fiyat anketinden gelmez; bir çapa yılına bağlanıp zaman serileriyle geriye taşınmış tahminlerdir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak, capa yillarinin tarihsel gelir tahminleri icin merkezi oldugunu soyler; cumlenin tahmin ile olcum ayrimi bu ozetten cikarilan bir ozettir, kaydin kendi sozcugu degildir."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Maddison Proje Veritabanı'nın 2023 sürümünü hazırlayan Bolt ve van Zanden, 1990 çapasının, 2011 çapasının ve çoklu çapa yönteminin 1940 öncesi gelir tahminleri üzerindeki sonuçlarını ve yanlılıklarını inceleyip projenin 1990 çapasında kalmasını önerdi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaydin ozeti: 1990 capasi, 2011 capasi ve coklu capa yonteminin 1940 oncesi gelir tahminleri uzerindeki sonuclari ve yanliliklari incelenir; sonuc, projenin 1990 capasinda kalmasidir. Kayittaki baslik ve yazarlar ozetin sahibiyle ayni."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Angus Deaton ile Alan Heston, 2005 turunun bölgesel yapısını da ele aldıkları değerlendirmede, bazı uluslararası karşılaştırmaların kuramsal olarak bile neredeyse imkânsız olduğunu, bazılarındaysa pratik güçlüklerin karşılaştırmayı son derece riskli kıldığını yazdı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaydin ozeti 2005 ICPnin bolgesel yapisinin etkilerini sayar ve bazi uluslararasi karsilastirmalarin kuramsal olarak bile neredeyse imkansiz, bazilarindaysa pratik guclukler yuzunden son derece riskli oldugunu soyler. Yazarlar Angus Deaton ve Alan Heston olarak kayitta tam adla gecer."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Deaton ile Paul Schreyer, 2017 turunu değerlendirirken asıl önemli noktanın haberin yokluğu olduğunu, sonuçların 2011 turununkilerle genel olarak uyumlu çıktığını belirtti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaydin ozeti: asil onemli nokta haberin yoklugudur, sonuclar 2011 turununkilerle genel olarak uyumludur. Yazarlar Angus Deaton ve Paul Schreyer olarak kayitta tam adla gecer. Bu satir govdedeki tur oynamasi savina karsi olcum olarak konuldu."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Hacim ve fiyat düzeyi endeksleri ülkeleri kesin biçimde sıralamak için tasarlanmamıştır ve birbirine yakın değerlerde toplanan ülkeler arasındaki farklar fazla yorumlanmamalıdır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SSS: hacim ve fiyat duzeyi endeksleri ulkeleri kesin siralamak icin tasarlanmamistir ve dar bir aralikta toplanan ulkeler arasindaki farklar asiri yorumlanmamalidir."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "İkinci yaygın hata pariteleri tasarlanmadıkları işlerde kullanmaktır: yatırım akımları, yardım, dış ticaret, döviz rezervleri ve göçmen havaleleri parite ile değil piyasa kuruyla karşılaştırılır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SSS: pariteler yatirim akimlari, yardim, dis ticaret, doviz rezervleri ve gocmen havaleleri icin tasarlanmamistir; bunlar piyasa kuruyla karsilastirilmalidir."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Dünya Bankası küresel yoksulluk sayılarında 2022'de 2017 turunun paritelerine geçti; aynı pariteler Sürdürülebilir Kalkınma Amaçları göstergelerinin, İnsani Gelişme Endeksi'nin ve Uluslararası Para Fonu ile OECD'nin dünya hasılası tahminlerinin altında duruyor.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SSS: Dunya Bankasi 2022de kuresel yoksulluk sayilarinda 2017 paritelerine gecti; ayni sayfa SKA gostergelerini, Insani Gelisme Endeksini ve IMF ile OECDnin dunya hasilasi tahminlerini parite kullanicilari arasinda sayar."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 25,
+    "kismi": 2,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

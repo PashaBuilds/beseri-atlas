@@ -1,0 +1,153 @@
+{
+  "id": "kavram-asimetrik-savas",
+  "gecis": 2,
+  "zaman": "2026-08-30T00:08:02.230Z",
+  "govde_hash": "f123a75dc2d2",
+  "commit": "8a54c1d8",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Prusyalı bir subay, ölümünden sonra basılan kitabının savunma bölümünde silahlı köylülere ne yapmamaları gerektiğini yazar: düşmanın ana gövdesine ya da büyük b",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı bölümde bir halk savaşının katı bir gövdeye dönüşmemesi gerektiğini söyler; dönerse düşman yeterli bir kuvvet gönderir, çekirdeği ezer, çok sayıda esir alı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Direnme ilkesi her yerde bulunmalı, hiçbir yerde tutulabilir olmamalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Mack, Vietnam ve Cezayir savaşlarının büyük güçlerin ezici konvansiyonel askerî üstünlüğünün küçük uluslara karşı yenilgiye karşı bir güvence olmadığını gösterd",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Gerekçesi askerî değil siyasidir: dış güç için böyle savaşlar zorunlu olarak sınırlıdır, bu da tırmanmayı belli düzeylerin üstüne çıkarmayı kısıtlar; doğrudan b",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Hızlı bir zafer gelmezse, harcanan iktisadi, insani ve siyasi kaynak metropolde dengeyi çekilme lehine çeviren bölünmeleri besler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İsyancı tarafta ise işgalin kendisi birlik üretir, seferberliğin önündeki kısıtları en aza indirir ve maliyete katlanma isteğini en yükseğe çıkarır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu sav Mack'indir; yazının özeti çerçevenin uygulama alanlarının yanında sınırlarının da tartışıldığını ayrıca belirtir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Terimin yaygınlığı doğrudan bu yazıya dayanır: başvurulan madde, sözcüğün popülerliğinin Mack'in 1975'te World Politics'te çıkan yazısından geldiğini, çözümleme",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Clausewitz halk savaşını on dokuzuncu yüzyıla ait bir olgu sayar ve savaşın kendiliğinden bir halk işine dönüştüğü yer olarak İspanya'yı gösterir; 1812'de Rusya",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Clausewitz halk savaşını on dokuzuncu yüzyıla ait bir olgu sayar ve savaşın kendiliğinden bir halk işine dönüştüğü yer olarak İspanya'yı gösterir; 1812'de Rusya",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Mao Zedong 1938 Mayısında Yenan'da verdiği ders dizisinde işe kendi zayıflığını saymakla başlar: Japonya güçlü bir emperyalist ülkedir, Doğu'da askerî, iktisadi",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Savaşın uzun süreceğini ve nihai zaferin Çin'in olacağını söyleyip bu uzun savaşı üç aşamaya böler: düşmanın stratejik saldırısı ile kendi stratejik savunmaları",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Gerilla savaşı bu çerçevede bir taktik ayrıntı değil stratejik bir sorundur: bütün açısından hareketli savaş birincil ve gerilla savaşı tamamlayıcı, parçalar aç",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Üç aşamadaki somut durumu önceden kestirmenin imkânsız olduğunu, kimsenin bu savaşın yıldız falına bakamayacağını, çizdiği taslağın sonraki olgularla tam uyuşma",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Halk savaşına karşı çıkanları ikiye ayırır: siyasi gerekçeyle karşı çıkanlar onu devrimci bir araç, yasal ilan edilmiş bir anarşi hâli — içerideki toplumsal düz",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Ivan Arreguín-Toft, sonucu belirleyen şeyin tarafların gücü değil seçtikleri stratejilerin etkileşimi olduğunu savunur: iki yüz yıla yayılan çatışmaların istati",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kitabın kendi tanıtımı bunun ABD'nin Afganistan'da 2002'de birkaç ayda kazanmasını, Sovyetler Birliği'nin ise 1979-89 arasında on yılın sonunda kaybetmesini anl",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Başvurulan madde terimin askerî çözümlemecilerde gerilla savaşı, ayaklanma, isyan bastırma, terörizm ve terörle mücadeleyi birden kapsayan bir şemsiye olarak ku",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Clausewitz halk savaşının tek başına sonuç vermesi için ya Rusya dışında hiçbir Avrupa ülkesinde bulunmayan bir yüzölçümü ya da gerçekte hiç görülmeyen bir oran",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Beş koşul sayar: savaşın ülkenin kalbinde yürümesi, tek bir felaketle karara bağlanamaması, savaş sahnesinin geniş olması, ulusal karakterin elverişli olması ve",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Clausewitz İspanya'da Fransızların kuvvetlerini bölmek zorunda kaldığını, ülkelerini ayaklanmış bir halkla savunan İspanyolların da kuvvetlerinin bir bölümüyle ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kendi bölümünün sonunda gözlemlerinin nesnel bir çözümlemeden çok öznel izlenimler olduğunu, konunun henüz seyrek görüldüğünü ve uzun süre fiilen deneyimlemiş o",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Asimetrik savaş tam da bu varsayımın çöktüğü yerdir: dış güç için savaş sınırlı bir çıkardır ve doğrudan bir varlık çıkarı taşımaz, işgale uğrayan taraf içinse ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

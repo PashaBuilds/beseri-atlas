@@ -1,0 +1,117 @@
+{
+  "id": "kavram-teleolojik-okuma",
+  "gecis": 2,
+  "zaman": "2026-08-30T00:08:49.709Z",
+  "govde_hash": "53e9936fd3f1",
+  "commit": "81e6421a",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Herbert Butterfield'ın Eylül 1931 tarihli önsözü, İngiliz tarih yazımının bir alışkanlığını tek cümlede toplar: birçok tarihçide Protestanların ve Whiglerin tar",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Butterfield konuyu bir tarih felsefesi sorunu olarak değil, tarihçilerin psikolojisine ait bir mesele olarak ele aldığını da aynı sayfada söyler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Whig tarihçi geçmişi bugüne doğrudan ve sürekli gönderme yaparak inceler; on altıncı yüzyıl üzerine çalışırken yirminci yüzyılı aklında tutar ve Luther ile papa",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu doğrudan yan yana koyma çıkarımları kolaylaştırır, çünkü bir dışlama ilkesi sağlar: geçmişte bugünün fikirlerine benzer görünen kişiler ve taraflar seçilir, ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kalıp, Butterfield'a göre en sıkı ve en uzun, uzun dönemlerde ve Avrupa tarihinin büyük geçişlerinde tutunur; ayrıntıdaki istisnalar örgütleme ve kısaltma sürec",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İngiliz anayasası bir kuşaklar dizisi boyunca whiglerin eseri olarak değil, iki tarafın sürekli etkileşiminin ve durmadan çarpışmasının ürünü olarak açıklanabil",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı biçimde sonraki Protestanlar, hareketin imalarını Luther'in amaçlamadığı ve hoşlanmayacağı bir yönde işlediler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sorunun sorulma biçimi de değişir: dinsel özgürlüğü kime borçlu olduğumuzu sormak yerine, o günlerde insanların neden bu kadar zulme yatkın olduğunu sormak.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bazı filozoflar insanlık tarihinin bütününde büyük bir örgütleyici tema, anlam ya da yön aradı; bu arayış kimi zaman ilahi bir düzenin gerçekleştiğini gösterme,",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aydınlanma yazarları tarihin dinsel yorumunu reddettiler ama yerine kendi teleolojilerini, yani ilerleme fikrini koydular.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Hegel'in derslerinde bu bir yönteme dönüşür: dünya tarihi \"the progress of the consciousness of Freedom\" olarak tanımlanır ve bu ilerlemenin kendi doğasının zor",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Hegel özgürlük bilincinin basamaklarını — Doğu uluslarının birinin, Yunan ve Roma dünyasının bazılarının, kendi çağının ise insanın insan olarak özgür olduğunu ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Jonas Grethlein 2014'te History and Theory'nin 53. cildinde yayımlanan makalesinde, tarihçinin anlatısının anlatılan olayların geleceği tarafından güçlü biçimde",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Grethlein'ın vurguladığı asimetri şudur: bu nokta tarihçi ve okur için geçmiş, tarihsel failler için gelecektir; ve geçmişin tarih yazımsal kuruluşu bir telos s",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Butterfield da çekincesini kendi metnine koyar: geçmişi bugüne göre incelemenin, imaları dikkatle düşünüldüğünde itiraz edilemez olduğu bir anlamın ve kaçınılma",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Eğilim, adını doğrudan buradan alan bir derlemeye yol açacak kadar yerleşiktir: University of Pennsylvania Press'in 2004'te yayımladığı The Teleology of the Mod",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Osmanlı örneğinde bu çerçeve uzun süre geçerliydi; 1980'lerden bu yana nasihatname edebiyatının ve pek çok başka alanın yeniden incelenmesiyle tarihçilerin böyl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Terim Butterfield'ın sözcüğü değildir: metinde ne teleoloji ne telos geçer; onun adlandırdığı şey whig yorumudur.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

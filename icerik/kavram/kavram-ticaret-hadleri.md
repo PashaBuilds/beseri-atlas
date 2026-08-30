@@ -96,8 +96,8 @@ deyişle aynı mamul miktarını almak için ortalama yüzde 58,6 daha fazla bir
 mal gerekiyordu.[^k1] Prebisch bu farkın kendisini bir hüküm olarak sunmaz;
 fiyat farkına işaret etmenin, farkın başka açılardan taşıdığı anlam hakkında
 hüküm vermek olmadığını açıkça yazar ve tekniği geliştiren ülkelerin meyveyi
-paylaşmak zorunda olmadığının da savunulabileceğini kabul eder.[^k1] Sonradan
-Prebisch-Singer savı adıyla anılan tez, kaynağını bu tür dizilerden alır.[^k3]
+paylaşmak zorunda olmadığının da savunulabileceğini kabul eder.[^k1] Bu
+tablodan çıkan tez sonradan Prebisch-Singer savı adıyla anıldı.[^k3]
 
 ## Ölçüm nerede kırılır
 
@@ -112,7 +112,7 @@ endeksleridir ve raporun kendi dipnotu bunları dünya fiyatlarını temsil eden
 göstergeler olarak sunar.[^k1] Tek bir ülkenin gümrük fiyatlarından dünya
 oranına geçmek, ölçüm değil ikame işlemidir.
 
-Üçüncüsü kalitedir ve itirazı ilk yazan yine raporun kendisidir: fiyat
+Üçüncüsü kalitedir ve itirazı raporun kendisi de yazar: fiyat
 endekslerinin mamul malların kalite farklarını yansıtmadığını, bu yüzden kalite
 değişiminin hesaba katılamadığını Prebisch açıkça kaydeder.[^k1] Aynı fiyata
 daha iyi bir makine alınıyorsa, oranın gösterdiği bozulmanın bir bölümü
@@ -152,17 +152,19 @@ Ticaret hadleri bir refah ölçüsü değildir ve toplumsal fayda ile eş anlaml
 kullanılamaz.[^k5] Oran yalnızca göreli fiyatı verir; ihracatın hacmini,
 verimlilik değişimini, kaynakların dağılımını ve sermaye akımlarını
 göstermez.[^k5] Fiyatı yükselen bir ihracatçının sattığı miktar aynı anda
-düşüyor olabilir; para biriminin değerlenmesi de oranı yukarı iter.[^k5]
+düşüyor olabilir; para biriminin değerlenmesi durumunda da oranın yukarı
+gitmesi beklenir.[^k5]
 
-Yüzlerce ülkenin yüz binlerce mal alıp sattığı bir dünyada hesabın kendisi de
-karmaşıktır ve hata olasılığı küçük değildir.[^k5] Bir ülkenin ticaret hadleri
-düzeldi denildiğinde sorulacak üç soru bu yüzden hep aynıdır: hangi taban yılı,
+Kaynak, iki yüzden fazla ülkenin yüz binlerce ürün alıp sattığı gerçek dünyada
+hesapların çok karmaşıklaşabildiğini ve hata olasılığının önemli olduğunu
+kaydeder.[^k5] Bir ülkenin ticaret hadleri düzeldi denildiğinde sorulacak üç
+soru bu yüzden hep aynıdır: hangi taban yılı,
 hangi mal sepeti, hangi dönem.
 
 ## Bugün hangi tartışmada anılıyor
 
-Ölçüt, kalkınma iktisadının en uzun soluklu tartışmasında merkez ve çevre
-arasındaki ilişkinin sayısal dayanağı olarak anılmayı sürdürüyor.[^k3] Aynı
+Prebisch'in tablosundan çıkan soru kapanmış değil; sav bugün de kendi adıyla
+anılan bir hipotez olarak sınanıyor.[^k3] Aynı
 oranın bir kuram hâline geldiği çerçeve
 [bağımlılık kuramı](/kavram/bagimlilik-kurami/) ve
 [dünya sistemi](/kavram/dunya-sistemi/) dosyalarında, ihracat gelirinin tek bir

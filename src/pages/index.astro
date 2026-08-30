@@ -1,87 +1,254 @@
 ---
 import Temel from '../layouts/Temel.astro';
-import ZamanSeridi from '../components/ZamanSeridi.astro';
-import { tumOnayliIcerik, TIP_ADLARI, yol, bag, tipAdi } from '../lib/icerik';
+import { tumOnayliIcerik, yol, bag, tipAdi } from '../lib/icerik';
+import { ROTALAR } from '../lib/rotalar';
 
 const korpus = await tumOnayliIcerik();
+const bul = (id: string) => korpus.find((e: any) => e.data.id === id);
 const donemler = korpus
   .filter((e: any) => e.data.tip === 'donem')
-  .sort((a: any, b: any) => a.data.donem.localeCompare(b.data.donem))
-  .map((e: any) => ({
-    id: e.data.id, no: e.data.donem, baslik: e.data.baslik,
-    aralik: `${e.data.tarih_baslangic ?? ''}–${e.data.tarih_bitis ?? ''}`,
-    serit: e.data.serit ?? [],
-  }));
-const sayim = Object.fromEntries(
-  Object.keys(TIP_ADLARI).map((t) => [t, korpus.filter((e: any) => e.data.tip === t).length])
-);
-const sonEklenen = [...korpus].sort((a: any, b: any) => String(b.data.son_denetim).localeCompare(String(a.data.son_denetim))).slice(0, 6);
+  .sort((a: any, b: any) => a.data.donem.localeCompare(b.data.donem));
 const toplamKaynak = korpus.reduce((a: number, e: any) => a + e.data.kaynaklar.length, 0);
+
+const ornekBag = [
+  { id: 'olay-sanayi-devrimi', rol: 'Dönüm noktası' },
+  { id: 'kavram-buyuk-ayrisma', rol: 'Karşılaştırma merceği' },
+  { id: 'tartisma-sanayi-devrimi-neden-ingiltere', rol: 'Açık tartışma' },
+].map((x) => ({ ...x, makale: bul(x.id) })).filter((x) => x.makale);
+
+const bugununKapilari = [
+  { id: 'olay-2008-finansal-krizi', soru: 'Finansal krizler neden sınır tanımaz?' },
+  { id: 'kavram-kuresellesme', soru: 'Küreselleşme gerçekten yeni mi?' },
+  { id: 'tartisma-nufus-artisi-tehdit-mi', soru: 'Nüfus artışı kaynakları tüketir mi?' },
+].map((x) => ({ ...x, makale: bul(x.id) })).filter((x) => x.makale);
 ---
-<Temel baslik="Ana sayfa" ozet="Türkçe, kaynak-zorunlu beşeri bilimler bilgi atlası.">
+<Temel baslik="Ana sayfa" ozet="Tarihi ezberlemek için değil, dünyayı bağlamıyla anlamak için tasarlanmış kaynaklı öğrenme sistemi.">
   <main id="ana">
-    <section class="giris">
-      <div class="giris__ic">
-        <p class="veri-etiket">Kaynak-zorunlu beşeri bilimler atlası</p>
-        <h1 class="giris__baslik">İnsanlık tarihini <em>aynı anda</em> okumak</h1>
-        <p class="giris__metin">
-          Kronolojik bir omurga; üstüne bindirilmiş kültür, ekonomi, siyaset, askerî
-          tarih, felsefe, mitoloji ve demografi katmanları. Her iddia bir kaynağa
-          bağlıdır — "bunu nereden biliyorsun?" sorusunun cevabı iki tık uzaktadır.
-        </p>
-        <dl class="sayaclar">
-          <div><dt>Yayımlanmış makale</dt><dd>{korpus.length}</dd></div>
-          <div><dt>Kaynak künyesi</dt><dd>{toplamKaynak}</dd></div>
-          <div><dt>Dönem</dt><dd>{sayim.donem} / 16</dd></div>
-        </dl>
+    <section class="hero">
+      <div class="hero__ic">
+        <div class="hero__metin">
+          <p class="veri-etiket">Tarih · düşünce · ekonomi · kültür</p>
+          <h1>Tarihi bilmek yetmez.<br /><em>Neden öyle olduğunu</em> gör.</h1>
+          <p class="hero__aciklama">
+            Bağlam, beş yüzü aşkın kaynaklı makaleyi bir arşiv gibi önüne yığmaz.
+            Olayları kavramlara, kavramları rakip açıklamalara bağlar; böylece
+            yalnızca ne olduğunu değil, neden başka türlü de olabileceğini anlarsın.
+          </p>
+          <div class="hero__eylem">
+            <a class="dugme dugme--ana" href={bag('/rotalar/bugunku-dunya-nasil-kuruldu/')}>
+              İlk rotana başla <span aria-hidden="true">→</span>
+            </a>
+            <a class="dugme" href={bag('/zaman-seridi/')}>16 dönemi aynı anda gör</a>
+          </div>
+          <dl class="hero__sayaclar">
+            <div><dt>Yayımlanmış makale</dt><dd>{korpus.length}</dd></div>
+            <div><dt>Kaynak künyesi</dt><dd>{toplamKaynak.toLocaleString('tr')}</dd></div>
+            <div><dt>Kronolojik dönem</dt><dd>{donemler.length}</dd></div>
+          </dl>
+        </div>
+
+        <div class="bag-gosterim" aria-label="Bağlam nasıl çalışır">
+          <p class="bag-gosterim__etiket">Bir bilgi nasıl bağlama dönüşür?</p>
+          {ornekBag.map(({ makale, rol }, i) => (
+            <a class="bag-dugum" href={yol(makale.data.id)}>
+              <span class="bag-dugum__no">0{i + 1}</span>
+              <span>
+                <small>{rol}</small>
+                <strong>{makale.data.baslik}</strong>
+              </span>
+              <span class="bag-dugum__ok" aria-hidden="true">↗</span>
+            </a>
+          ))}
+          <p class="bag-gosterim__sonuc">Olay → kavram → tartışma. Ezber değil, açıklama.</p>
+        </div>
       </div>
     </section>
 
-    <div class="genis">
-      {donemler.length > 0
-        ? <ZamanSeridi donemler={donemler} baslik="Paralel zaman şeridi" />
-        : <p class="bos">Zaman şeridi, dönem makaleleri yayımlandıkça dolar.</p>}
-
-      <section class="bolum">
-        <h2>Son denetlenenler</h2>
-        <div class="izgara">
-          {sonEklenen.map((e: any) => (
-            <a class="kart" href={yol(e.data.id)}>
-              <span class="kart__tip">{tipAdi(e.data.tip)}</span>
-              <span class="kart__baslik">{e.data.baslik}</span>
-              <span class="kart__ozet">{e.data.ozet}</span>
-            </a>
-          ))}
+    <section class="ana-bolum ana-bolum--rotalar">
+      <header class="bolum-baslik">
+        <div>
+          <p class="veri-etiket">Nereden başlamak istersin?</p>
+          <h2>Bir merak seç. Büyük resme oradan gir.</h2>
         </div>
-      </section>
+        <a href={bag('/rotalar/')}>Bütün rotalar <span aria-hidden="true">→</span></a>
+      </header>
+      <div class="ana-rotalar">
+        {ROTALAR.map((rota) => (
+          <a class:list={['ana-rota', `ana-rota--${rota.vurgu}`]} href={bag(`/rotalar/${rota.slug}/`)}
+             data-rota-kisa data-adimlar={JSON.stringify(rota.adimlar.map((a) => a.id))}>
+            <span class="ana-rota__no">{rota.no}</span>
+            <span class="ana-rota__metin">
+              <small>{rota.sure} · <span data-rota-durum>{rota.seviye}</span></small>
+              <strong>{rota.baslik}</strong>
+              <span>{rota.soru}</span>
+            </span>
+            <span class="ana-rota__ok" aria-hidden="true">→</span>
+          </a>
+        ))}
+      </div>
+    </section>
 
-      <section class="bolum">
-        <h2>İçerik tipleri</h2>
-        <div class="izgara">
-          {Object.entries(TIP_ADLARI).map(([t, ad]) => (
-            <a class="kart" href={bag(`/${t}/`)}>
-              <span class="kart__tip">{sayim[t]} makale</span>
-              <span class="kart__baslik">{ad}</span>
+    <section class="zaman-kesiti">
+      <div class="zaman-kesiti__baslik">
+        <p class="veri-etiket">MÖ 10.000’den bugüne</p>
+        <h2>Hiçbir çağ, yalnızca Avrupa’da yaşanmadı.</h2>
+        <p>
+          On altı dönemlik omurga, aynı anda yedi bölgede neler olduğunu yan yana
+          getirir. Bir yerde imparatorluk çökerken başka yerde hangi düzen kuruluyordu?
+        </p>
+        <a href={bag('/zaman-seridi/')}>Paralel zaman şeridini aç <span aria-hidden="true">→</span></a>
+      </div>
+      <ol class="zaman-kesiti__donemler">
+        {donemler.map((d: any) => (
+          <li>
+            <a href={yol(d.data.id)}>
+              <span>{d.data.donem}</span>
+              <strong>{d.data.tarih_baslangic} — {d.data.tarih_bitis}</strong>
+              <small>{d.data.baslik}</small>
             </a>
-          ))}
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section class="ana-bolum bugun">
+      <header class="bolum-baslik">
+        <div>
+          <p class="veri-etiket">Bugüne açılan kapılar</p>
+          <h2>Gündem geçer. Soruların tarihi kalır.</h2>
         </div>
-      </section>
-    </div>
+      </header>
+      <div class="bugun__izgara">
+        {bugununKapilari.map(({ makale, soru }) => (
+          <article>
+            <p>{soru}</p>
+            <a href={yol(makale.data.id)}>
+              <span>{tipAdi(makale.data.tip)}</span>
+              <strong>{makale.data.baslik}</strong>
+              <small>{makale.data.ozet}</small>
+            </a>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <section class="ilke">
+      <p class="ilke__buyuk">“Bunu nereden biliyoruz?”</p>
+      <div>
+        <p>
+          Her tarih, sayı ve nedensellik iddiası bir kaynağa bağlanır. Tartışmalı
+          olan tartışmalı diye işaretlenir; otomatik denetimin göremediği şeyler
+          başarı gibi sunulmaz.
+        </p>
+        <a href={bag('/hakkinda/')}>Yöntemi ve hata payını gör <span aria-hidden="true">→</span></a>
+      </div>
+    </section>
   </main>
 </Temel>
 
 <style>
-  .giris { border-bottom: 1px solid var(--cizgi); }
-  .giris__ic { max-width: 78rem; margin: 0 auto; padding: 4.5rem 2rem 3.25rem; }
-  .giris__baslik { font-size: clamp(2.4rem, 6.5vw, 4.4rem); font-variation-settings: 'opsz' 144, 'SOFT' 0, 'WONK' 0; max-width: 18ch; margin: .5rem 0 1.15rem; }
-  .giris__baslik em { font-style: normal; color: var(--bakir); }
-  .giris__metin { max-width: 56ch; font-size: 1.1rem; color: var(--golge); margin: 0; }
-  .sayaclar { display: flex; flex-wrap: wrap; gap: 2.5rem; margin: 2.5rem 0 0; }
-  .sayaclar dt { font-family: var(--f-veri); font-size: .68rem; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; color: var(--golge); }
-  .sayaclar dd { margin: .2rem 0 0; font-family: var(--f-display); font-variation-settings: 'opsz' 48, 'SOFT' 0, 'WONK' 0; font-size: 2rem; line-height: 1; }
-  .genis { max-width: 78rem; margin: 0 auto; padding: 0 2rem 5rem; }
-  .bolum { margin-top: 3.25rem; }
-  .bolum h2 { font-size: 1.3rem; margin: 0 0 1rem; }
-  .bos { color: var(--golge); font-size: .95rem; padding: 2rem 0; }
-  @media (max-width: 900px) { .giris__ic, .genis { padding-inline: 1.15rem; } }
+  .hero { border-bottom: 1px solid var(--cizgi); }
+  .hero__ic { max-width: 78rem; margin: 0 auto; min-height: calc(100vh - 4.35rem); padding: 5rem 2rem 4.5rem; display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(20rem, .75fr); gap: clamp(3rem, 8vw, 8rem); align-items: center; }
+  .hero h1 { font-size: clamp(3.15rem, 7.2vw, 6.7rem); line-height: .94; max-width: 14ch; margin: .65rem 0 1.5rem; }
+  .hero h1 em { color: var(--bakir); font-style: italic; font-weight: 520; }
+  .hero__aciklama { max-width: 62ch; font-size: 1.08rem; color: var(--golge); text-wrap: pretty; }
+  .hero__eylem { display: flex; flex-wrap: wrap; gap: .75rem; margin: 2rem 0 2.7rem; }
+  .dugme { display: inline-flex; align-items: center; justify-content: center; min-height: 3rem; padding: .7rem 1rem; border: 1px solid var(--cizgi); color: var(--murekkep); font-family: var(--f-veri); font-size: .74rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; text-decoration: none; }
+  .dugme:hover { border-color: var(--bakir); }
+  .dugme--ana { background: var(--murekkep); color: var(--tabaka); border-color: var(--murekkep); gap: 1.1rem; }
+  .dugme--ana span { transition: transform var(--gecis); }
+  .dugme--ana:hover span { transform: translateX(.25rem); }
+  .hero__sayaclar { display: flex; flex-wrap: wrap; gap: 1.8rem 2.7rem; margin: 0; padding-top: 1.2rem; border-top: 1px solid var(--cizgi); }
+  .hero__sayaclar dt { font-family: var(--f-veri); font-size: .63rem; font-weight: 600; letter-spacing: .09em; text-transform: uppercase; color: var(--golge); }
+  .hero__sayaclar dd { margin: .18rem 0 0; font-family: var(--f-display); font-size: 1.55rem; line-height: 1; }
+  .bag-gosterim { align-self: center; border-block: 1px solid var(--cizgi); padding: 1rem 0; }
+  .bag-gosterim__etiket, .bag-gosterim__sonuc { font-family: var(--f-veri); font-size: .67rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--golge); margin: 0; }
+  .bag-gosterim__etiket { padding-bottom: .8rem; }
+  .bag-gosterim__sonuc { padding-top: .85rem; color: var(--bakir); }
+  .bag-dugum { display: grid; grid-template-columns: 2rem 1fr auto; gap: .8rem; align-items: center; padding: 1.2rem .2rem; border-top: 1px solid var(--cizgi-ince); color: inherit; text-decoration: none; }
+  .bag-dugum__no { font-family: var(--f-veri); font-size: .68rem; color: var(--bakir); }
+  .bag-dugum > span:nth-child(2) { display: grid; }
+  .bag-dugum small { font-family: var(--f-veri); font-size: .62rem; letter-spacing: .09em; text-transform: uppercase; color: var(--golge); }
+  .bag-dugum strong { font-family: var(--f-display); font-size: 1.08rem; margin-top: .15rem; }
+  .bag-dugum__ok { color: var(--bakir); opacity: 0; transform: translate(-.3rem, .3rem); transition: opacity var(--gecis), transform var(--gecis); }
+  .bag-dugum:hover .bag-dugum__ok { opacity: 1; transform: none; }
+  .ana-bolum { max-width: 78rem; margin: 0 auto; padding: 5rem 2rem; }
+  .bolum-baslik { display: flex; justify-content: space-between; gap: 2rem; align-items: end; margin-bottom: 2rem; }
+  .bolum-baslik h2 { max-width: 24ch; font-size: clamp(2rem, 4.5vw, 3.6rem); margin: .45rem 0 0; }
+  .bolum-baslik > a, .zaman-kesiti__baslik > a, .ilke a { font-family: var(--f-veri); font-size: .72rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; text-decoration: none; }
+  .ana-rotalar { display: grid; grid-template-columns: repeat(2, 1fr); border: 1px solid var(--cizgi); }
+  .ana-rota { --rota-renk: var(--bakir); display: grid; grid-template-columns: 2.6rem 1fr auto; gap: 1rem; min-height: 11.8rem; padding: 1.3rem; color: inherit; text-decoration: none; border-bottom: 1px solid var(--cizgi); background: var(--yuzey); }
+  .ana-rota:nth-child(odd) { border-right: 1px solid var(--cizgi); }
+  .ana-rota:nth-last-child(-n+2) { border-bottom: 0; }
+  .ana-rota--oksit { --rota-renk: var(--oksit); }
+  .ana-rota--zincifre { --rota-renk: var(--zincifre); }
+  .ana-rota:hover { background: var(--yuzey-2); }
+  .ana-rota__no { font-family: var(--f-display); font-size: 1.55rem; color: var(--rota-renk); }
+  .ana-rota__metin { display: flex; flex-direction: column; }
+  .ana-rota__metin small { font-family: var(--f-veri); font-size: .62rem; letter-spacing: .08em; text-transform: uppercase; color: var(--golge); }
+  .ana-rota__metin strong { font-family: var(--f-display); font-size: 1.35rem; margin: .7rem 0 .25rem; }
+  .ana-rota__metin > span { color: var(--golge); font-size: .86rem; line-height: 1.5; max-width: 46ch; }
+  .ana-rota__ok { color: var(--rota-renk); align-self: end; transition: transform var(--gecis); }
+  .ana-rota:hover .ana-rota__ok { transform: translateX(.3rem); }
+  .zaman-kesiti { border-block: 1px solid var(--cizgi); display: grid; grid-template-columns: minmax(18rem, .55fr) minmax(0, 1.45fr); }
+  .zaman-kesiti__baslik { padding: 4.5rem max(2rem, calc((100vw - 78rem) / 2)); padding-right: clamp(2rem, 6vw, 6rem); background: var(--murekkep); color: var(--tabaka); }
+  .zaman-kesiti__baslik .veri-etiket { color: color-mix(in srgb, var(--tabaka) 62%, transparent); }
+  .zaman-kesiti__baslik h2 { font-size: clamp(2.2rem, 4vw, 3.5rem); margin: .65rem 0 1rem; }
+  .zaman-kesiti__baslik p:not(.veri-etiket) { color: color-mix(in srgb, var(--tabaka) 72%, transparent); max-width: 42ch; font-size: .94rem; }
+  .zaman-kesiti__baslik > a { color: var(--tabaka); display: inline-block; margin-top: 1.25rem; }
+  .zaman-kesiti__donemler { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(4, 1fr); }
+  .zaman-kesiti__donemler li { min-width: 0; border-left: 1px solid var(--cizgi); border-bottom: 1px solid var(--cizgi); }
+  .zaman-kesiti__donemler li:nth-last-child(-n+4) { border-bottom: 0; }
+  .zaman-kesiti__donemler a { display: grid; align-content: start; min-height: 10.5rem; padding: 1rem; color: inherit; text-decoration: none; background: var(--yuzey); }
+  .zaman-kesiti__donemler a:hover { background: var(--bakir-zemin); }
+  .zaman-kesiti__donemler span { font-family: var(--f-display); font-size: 1.6rem; color: var(--bakir); }
+  .zaman-kesiti__donemler strong { font-family: var(--f-veri); font-size: .67rem; letter-spacing: .05em; margin: .7rem 0 .35rem; }
+  .zaman-kesiti__donemler small { color: var(--golge); line-height: 1.4; }
+  .bugun__izgara { display: grid; grid-template-columns: repeat(3, 1fr); border-top: 1px solid var(--cizgi); }
+  .bugun__izgara article { padding: 1.3rem 1.3rem 1.3rem 0; border-bottom: 1px solid var(--cizgi); }
+  .bugun__izgara article + article { border-left: 1px solid var(--cizgi); padding-left: 1.3rem; }
+  .bugun__izgara article > p { min-height: 3.3rem; font-family: var(--f-display); font-size: 1.1rem; }
+  .bugun__izgara a { display: grid; color: inherit; text-decoration: none; }
+  .bugun__izgara a > span { font-family: var(--f-veri); font-size: .62rem; font-weight: 600; letter-spacing: .09em; text-transform: uppercase; color: var(--bakir); }
+  .bugun__izgara a strong { font-family: var(--f-display); font-size: 1.35rem; margin: .35rem 0 .4rem; }
+  .bugun__izgara a small { color: var(--golge); line-height: 1.5; }
+  .ilke { max-width: 78rem; margin: 0 auto 6rem; padding: 4rem 2rem 0; border-top: 1px solid var(--cizgi); display: grid; grid-template-columns: 1.25fr .75fr; gap: 4rem; align-items: start; }
+  .ilke__buyuk { font-family: var(--f-display); font-size: clamp(2.6rem, 5vw, 5rem); line-height: 1; color: var(--zincifre); margin: 0; }
+  .ilke > div p { color: var(--golge); }
+  @media (max-width: 900px) {
+    .hero__ic { min-height: auto; grid-template-columns: 1fr; padding: 4rem 1.15rem; }
+    .bag-gosterim { max-width: 40rem; }
+    .ana-bolum { padding: 4rem 1.15rem; }
+    .zaman-kesiti { grid-template-columns: 1fr; }
+    .zaman-kesiti__baslik { padding: 3.5rem 1.15rem; }
+    .zaman-kesiti__donemler { grid-template-columns: repeat(4, 1fr); }
+  }
+  @media (max-width: 680px) {
+    .hero h1 { font-size: clamp(3rem, 15vw, 4.5rem); }
+    .bolum-baslik { align-items: start; flex-direction: column; }
+    .ana-rotalar { grid-template-columns: 1fr; }
+    .ana-rota:nth-child(odd) { border-right: 0; }
+    .ana-rota:nth-last-child(-n+2) { border-bottom: 1px solid var(--cizgi); }
+    .ana-rota:last-child { border-bottom: 0; }
+    .zaman-kesiti__donemler { grid-template-columns: repeat(2, 1fr); }
+    .zaman-kesiti__donemler li:nth-last-child(-n+4) { border-bottom: 1px solid var(--cizgi); }
+    .zaman-kesiti__donemler li:nth-last-child(-n+2) { border-bottom: 0; }
+    .bugun__izgara { grid-template-columns: 1fr; }
+    .bugun__izgara article + article { border-left: 0; padding-left: 0; }
+    .bugun__izgara article > p { min-height: auto; }
+    .ilke { margin-bottom: 4rem; padding: 3rem 1.15rem 0; grid-template-columns: 1fr; gap: 2rem; }
+  }
 </style>
+
+<script>
+  const anahtar = 'baglam-okunanlar-v1';
+  let okunanlar: string[] = [];
+  try { okunanlar = JSON.parse(localStorage.getItem(anahtar) || '[]'); } catch {}
+  document.querySelectorAll<HTMLElement>('[data-rota-kisa]').forEach((rota) => {
+    let adimlar: string[] = [];
+    try { adimlar = JSON.parse(rota.dataset.adimlar || '[]'); } catch {}
+    const tamam = adimlar.filter((id) => okunanlar.includes(id)).length;
+    const durum = rota.querySelector<HTMLElement>('[data-rota-durum]');
+    if (durum && tamam) durum.textContent = `${tamam}/${adimlar.length} tamamlandı`;
+  });
+</script>

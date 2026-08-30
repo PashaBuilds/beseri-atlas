@@ -1,0 +1,93 @@
+---
+import Temel from '../../layouts/Temel.astro';
+import { ROTALAR } from '../../lib/rotalar';
+import { bag } from '../../lib/icerik';
+---
+<Temel baslik="Öğrenme rotaları" ozet="Olguları ezberlemek yerine aralarındaki neden-sonuç bağını kurmak için tasarlanmış okuma rotaları.">
+  <main id="ana" class="rotalar">
+    <header class="rotalar__giris">
+      <p class="veri-etiket">Bir konu değil, bir düşünme becerisi seç</p>
+      <h1>Dünyayı parça parça değil,<br /><em>bağlantılarıyla</em> öğren.</h1>
+      <p>
+        Her rota altı kısa duraktan oluşur: önce bir olgu ya da kavram, sonra onu
+        açıklayan çerçeveler, en sonda cevabı açık bir tartışma. Sıra önemlidir;
+        çünkü bağlam, bilgiye sonradan eklenen bir dipnot değil, bilginin kendisidir.
+      </p>
+    </header>
+
+    <section class="rotalar__izgara" aria-label="Öğrenme rotaları">
+      {ROTALAR.map((rota) => (
+        <article class:list={['rota-kart', `rota-kart--${rota.vurgu}`]}
+                 data-rota-kart data-adimlar={JSON.stringify(rota.adimlar.map((a) => a.id))}>
+          <div class="rota-kart__ust">
+            <span class="rota-kart__no">Rota {rota.no}</span>
+            <span>{rota.sure} · {rota.seviye}</span>
+          </div>
+          <p class="rota-kart__soru">{rota.soru}</p>
+          <h2>{rota.baslik}</h2>
+          <p class="rota-kart__ozet">{rota.ozet}</p>
+          <div class="rota-kart__alt">
+            <span data-rota-ilerleme>0 / {rota.adimlar.length} durak</span>
+            <a href={bag(`/rotalar/${rota.slug}/`)} aria-label={`${rota.baslik} rotasını aç`}>
+              Rotayı aç <span aria-hidden="true">→</span>
+            </a>
+          </div>
+        </article>
+      ))}
+    </section>
+
+    <aside class="rotalar__not">
+      <p class="veri-etiket">Nasıl kullanılmalı?</p>
+      <p>
+        Bir rotayı tek oturuşta bitirmek zorunda değilsin. Her duraktan sonra
+        “Bu açıklamanın alternatifi ne?” sorusunu kendine sor. Okuduğun duraklar
+        yalnızca bu cihazda tutulur; hesap açman gerekmez.
+      </p>
+    </aside>
+  </main>
+</Temel>
+
+<style>
+  .rotalar { max-width: 78rem; margin: 0 auto; padding: 4.5rem 2rem 6rem; }
+  .rotalar__giris { max-width: 58rem; margin-bottom: 3.5rem; }
+  .rotalar__giris h1 { font-size: clamp(2.65rem, 6.2vw, 5.4rem); line-height: .98; max-width: 18ch; margin: .7rem 0 1.35rem; }
+  .rotalar__giris h1 em { color: var(--bakir); font-style: italic; font-weight: 520; }
+  .rotalar__giris > p:last-child { max-width: 62ch; color: var(--golge); font-size: 1.08rem; }
+  .rotalar__izgara { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1px; background: var(--cizgi); border: 1px solid var(--cizgi); }
+  .rota-kart { --rota-renk: var(--bakir); min-height: 24rem; padding: 1.5rem; background: var(--yuzey); display: flex; flex-direction: column; position: relative; }
+  .rota-kart--oksit { --rota-renk: var(--oksit); }
+  .rota-kart--zincifre { --rota-renk: var(--zincifre); }
+  .rota-kart::before { content: ''; position: absolute; inset: 0 auto 0 0; width: 3px; background: var(--rota-renk); transform: scaleY(.14); transform-origin: top; transition: transform var(--gecis); }
+  .rota-kart:hover::before { transform: scaleY(1); }
+  .rota-kart__ust, .rota-kart__alt { display: flex; justify-content: space-between; gap: 1rem; font-family: var(--f-veri); font-size: .68rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--golge); }
+  .rota-kart__no { color: var(--rota-renk); }
+  .rota-kart__soru { max-width: 42ch; min-height: 4.6rem; margin: 3rem 0 .9rem; color: var(--golge); font-size: .95rem; }
+  .rota-kart h2 { margin: 0 0 .75rem; font-size: clamp(1.65rem, 3vw, 2.35rem); }
+  .rota-kart__ozet { max-width: 52ch; color: var(--golge); font-size: .92rem; }
+  .rota-kart__alt { margin-top: auto; align-items: end; padding-top: 1.5rem; border-top: 1px solid var(--cizgi-ince); }
+  .rota-kart__alt a { color: var(--rota-renk); text-decoration: none; font-size: .75rem; }
+  .rota-kart__alt a span { display: inline-block; transition: transform var(--gecis); }
+  .rota-kart__alt a:hover span { transform: translateX(.25rem); }
+  .rotalar__not { display: grid; grid-template-columns: 12rem minmax(0, 42rem); gap: 2rem; margin-top: 3rem; padding-top: 1.4rem; border-top: 1px solid var(--cizgi); }
+  .rotalar__not p { margin: 0; }
+  .rotalar__not p:last-child { color: var(--golge); font-size: .92rem; }
+  @media (max-width: 760px) {
+    .rotalar { padding: 3rem 1.15rem 4rem; }
+    .rotalar__izgara { grid-template-columns: 1fr; }
+    .rota-kart { min-height: 22rem; }
+    .rotalar__not { grid-template-columns: 1fr; gap: .7rem; }
+  }
+</style>
+
+<script>
+  const anahtar = 'baglam-okunanlar-v1';
+  let okunanlar: string[] = [];
+  try { okunanlar = JSON.parse(localStorage.getItem(anahtar) || '[]'); } catch {}
+  document.querySelectorAll<HTMLElement>('[data-rota-kart]').forEach((kart) => {
+    let adimlar: string[] = [];
+    try { adimlar = JSON.parse(kart.dataset.adimlar || '[]'); } catch {}
+    const tamam = adimlar.filter((id) => okunanlar.includes(id)).length;
+    const alan = kart.querySelector<HTMLElement>('[data-rota-ilerleme]');
+    if (alan) alan.textContent = `${tamam} / ${adimlar.length} durak`;
+  });
+</script>

@@ -73,7 +73,7 @@ kaynaklar:
     url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1080/00324728.1975.10410201?fields=title,abstract,year,authors,venue,externalIds
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "The changing relation between mortality and level of economic development"
-    not: "Ustveri kaydi; ozet alani yayinci tarafindan cikarilmis (abstract: null), icerik iddialari en cok baslik duzeyinde destek bulur. Kayit yazari yalniz 'S. Preston' olarak veriyor; tam ad kaynakta gecmedigi icin yazilmadi. Kayittaki venue alani 'Bulletin of the World Health Organization' (1975 yeniden basimi); bu nedenle govdede dergi adi anilmiyor"
+    not: "Ustveri kaydi; ozet alani yayinci tarafindan bos birakilmis, icerik iddialari en cok baslik duzeyinde destek bulur. Kayit yazari yalniz 'S. Preston' olarak veriyor; tam ad kaynakta gecmedigi icin yazilmadi. Kayittaki venue alani 'Bulletin of the World Health Organization' (1975 yeniden basimi); bu nedenle govdede dergi adi anilmiyor"
   - anahtar: k8
     tur: akademik
     ad: "Semantic Scholar kunye kaydi - Bongaarts & Casterline, Fertility Transition: Is sub-Saharan Africa Different? (Population and Development Review, 2013)"
@@ -102,7 +102,7 @@ kaynaklar:
     url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1093/shm/1.1.1?fields=title,abstract,year,authors,venue,externalIds
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "The Importance of Social Intervention in Britain"
-    not: "Ustveri kaydi; ozet alani yayinci tarafindan cikarilmis (abstract: null) ve venue alani bos donuyor, bu yuzden govdede dergi adi anilmiyor. Destek baslik duzeyindedir: olum dususunde toplumsal mudahaleye agirlik veren karsi tezin varligini ve kapsamini (Britanya, 1850-1914) tasir, buyuklugunu tasimaz. Kayit yazari yalniz 'S. Szreter' olarak veriyor"
+    not: "Ustveri kaydi; ozet alani yayinci tarafindan bos birakilmis ve venue alani da bos donuyor, bu yuzden govdede dergi adi anilmiyor. Destek baslik duzeyindedir: olum dususunde toplumsal mudahaleye agirlik veren karsi tezin varligini ve kapsamini (Britanya, 1850-1914) tasir, buyuklugunu tasimaz. Kayit yazari yalniz 'S. Szreter' olarak veriyor"
 son_denetim: 2026-08-29
 denetim_durumu: onaylandi
 onarim_turu: 1

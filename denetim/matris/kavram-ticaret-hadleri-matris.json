@@ -1,0 +1,285 @@
+{
+  "id": "kavram-ticaret-hadleri",
+  "govde_hash": "a58ec9c7e63d",
+  "commit": "8a54c1d8",
+  "zaman": "2026-08-30",
+  "hakem": "TASLAK-yazar",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Bir ülkenin dış ticaretten ne elde ettiğini tek bir sayıya indirmeye çalışan ölçüt, ihracat fiyatlarının ithalat fiyatlarına oranıdır; daha somut okunuşuyla, bir birim ihracat karşılığında kaç birim ithalat alınabildiğidir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin acilis cumlesi olcutu 'ihracatin ithalat cinsinden goreli fiyati' ve 'ihracat fiyatlarinin ithalat fiyatlarina orani' diye tanimlar, hemen ardindan 'bir birim ihracat mali basina alinabilecek ithalat mali miktari' okumasini verir. Govdedeki iki okuma da kaynakta ayri ayri yazili."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Terimi bugünkü adıyla kullanan, 1927 tarihli International Trade kitabıyla Frank William Taussig sayılır; kavramın daha erken bir biçimi Robert Torrens'in 1844'te yayımlanan ticaret ve sömürge politikası kitabında ve aynı yıl basılan bir John Stuart Mill denemesinde izlenir.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Taussig / 1927 / International Trade, Torrens / 1844 / The Budget: On Commercial and Colonial Policy ve ayni yil basilan Mill denemesi kaynagin History bolumunde birebir yazili. NOT: kaynak Mill denemesi icin 'though allegedly already written in 1829/30' cekincesini koyar; govde yalnizca BASIM yilini iddia ettigi icin cekince iddiaya girmiyor, ama yazim tarihi iddiasi bu dosyaya hicbir yerde yazilmamalidir."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Raúl Prebisch'in Birleşmiş Milletler Latin Amerika Ekonomik Komisyonu için hazırladığı ve 1950'de yayımlanan raporda, birincil mal fiyatlarının mamul mal fiyatlarına oranını veren bir tablo bulunur; tablonun sütun başlığı ölçütü tanımın kendisi gibi yazar, belirli bir miktar birincil malla alınabilen mamul mal miktarı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Raporun Tablo I basligi 'Ratio of prices of primary commodities to those of manufactured goods', sutun basligi ise 'Amount of finished products obtainable for a given quantity of primary commodities'. Govdedeki 'tanimin kendisi gibi yazar' nitelemesi bu sutun basligina dayaniyor ve baslik birebir dogruluyor."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Taban 1876-80 dönemidir ve 100'e eşitlenmiştir; aynı dizide 1921-25 ortalaması 67,5, 1926-30 ortalaması 73,3'tür.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tablonun taban satiri 'Base: 1876-80 = 100'; 1921-25 icin 67.5 ve 1926-30 icin 73.3 degerleri tarama metninde okunakli. OCR kusuru gercek: ayni tablonun bazi donem etiketleri ('1986-90', 'w9bg-b9') bozuk cikiyor ve o satirlar govdeye TASINMAMIS. Yalniz etiketi ve degeri birlikte okunabilen iki satir kullanildi."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Raporun sözle söylediği daha çarpıcıdır: aynı miktar birincil malla 1930'larda, 1860'larda alınabilenin ancak yüzde 63'ü kadar mamul mal alınabiliyordu; başka deyişle aynı mamul miktarını almak için ortalama yüzde 58,6 daha fazla birincil mal gerekiyordu.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak birebir: ayni miktar birincil malla 1860'larda alinabilen bitmis mamullerin ancak yuzde 63'unun 1930'larda alinabildigini, baska deyisle ayni miktar mamulu almak icin ortalama yuzde 58,6 daha fazla birincil mal gerektigini yazar. Iki sayi da rapora ait, atlasin hesabi degil."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Prebisch bu farkın kendisini bir hüküm olarak sunmaz; fiyat farkına işaret etmenin, farkın başka açılardan taşıdığı anlam hakkında hüküm vermek olmadığını açıkça yazar ve tekniği geliştiren ülkelerin meyveyi paylaşmak zorunda olmadığının da savunulabileceğini kabul eder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak birebir: fiyatlar arasindaki bu esitsizlige isaret etmenin, esitsizligin baska acilardan tasidigi anlam hakkinda hukum vermek anlamina gelmedigini yazar ve hakkaniyet gerekcesiyle, yuksek teknik verimlilige ulasmis ulkelerin meyveyi dunyanin geri kalaniyla paylasmaya hicbir bicimde mecbur olmadiginin savunulabilecegini kabul eder. Cekince govdeye tam tasindi; dosyanin en onemli denge cumlesi budur."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Bu tablodan çıkan tez sonradan Prebisch-Singer savı adıyla anıldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hakem duzeltmesi: yazarin ilk hali 'tez kaynagini bu tur dizilerden alir' diyordu; k3 bir Crossref USTVERI kaydidir ve bu koken iddiasini tasimaz. Cumle savin ADLANDIRILMASI ile sinirlandirildi — kaydin basligi savi 'The Prebisch-Singer Hypothesis' diye anar ve adlandirmayi dogrudan tasir."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Prebisch'in tablosunda taban 1876-80, Dünya Bankası'nın bugün yayımladığı net takas ticaret hadleri göstergesinde ise 2015 yılıdır; iki sayı, tabanları yazılmadan yan yana konulamaz.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki taban yili iki ayri kaynaktan geliyor ve ikisi de birebir yazili: k1'de 'Base: 1876-80 = 100', k2'de gostergenin adi 'Net barter terms of trade index (2015 = 100)'. Karsilastirilamazlik hukmu bu iki tabanin farkindan cikiyor, kaynaklardan birine yuklenmiyor."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Prebisch'in kullandığı sayılar Britanya Ticaret Kurulu'nun ithalat ve ihracat ortalama fiyat endeksleridir ve raporun kendi dipnotu bunları dünya fiyatlarını temsil eden göstergeler olarak sunar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tablo basligi 'average import and export prices, according to data of the Board of Trade' diyor; raporun 3 numarali dipnoti ise verilerin Board of Trade fiyat endeksleri oldugunu ve ham madde ile mamul icin 'representative of world prices' sayildigini yaziyor. Guven ORTA: dipnotun OCR'i bozuk ('imparts', 'eapecticaly') ve 'exports' sozcugu taramada okunmuyor; ihracat kaydi dipnottan degil TABLO BASLIGINDAN aliniyor."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Üçüncüsü kalitedir ve itirazı raporun kendisi de yazar: fiyat endekslerinin mamul malların kalite farklarını yansıtmadığını, bu yüzden kalite değişiminin hesaba katılamadığını Prebisch açıkça kaydeder.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak birebir: fiyat endekslerinin bitmis urunlerin kalite farklarini yansitmamasini 'regrettable' diye niteler ve bu yuzden kalite farklarinin hesaba katilamadigini yazar. Hakem duzeltmesi: yazarin ilk hali 'itirazi ILK yazan yine raporun kendisidir' diyordu — bu bir oncelik iddiasidir ve kaynak onu tasimaz; 'raporun kendisi de yazar' bicimine cekildi."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Bu itiraz sonradan başlı başına bir araştırma konusu oldu; Robert Lipsey'in 1994'te Ulusal İktisadi Araştırmalar Bürosu için yazdığı çalışmanın başlığı, kalite değişimini mamul mal ihracat fiyatı ölçümlerinin ve birincil mallarla mamuller arasındaki ticaret hadlerinin ortak sorunu olarak adlandırır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydinin basligi birebir 'Quality Change and other Influences on Measures of Export Prices of Manufactured Goods and the Terms of Trade between Primary Products and Manufacture'; publisher ve institution alanlari 'National Bureau of Economic Research', yayin tarihi 1994-03, yazar 'Robert Lipsey'. Govde yalniz baslik, kurum, yil ve ad iddiasi kuruyor; kaydin ozet alani YOK, bu yuzden itirazin ICERIGI bu kaynaga yuklenmedi. Ad kaydin verdigi bicimde birakildi (hayalet ad uretilmedi)."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "David I. Harvey, Neil M. Kellard, Jakob B. Madsen ve Mark E. Wohar'ın 2010'da Review of Economics and Statistics dergisinde yayımlanan çalışması, dört yüzyıllık kanıt iddiasıyla tartışmaya girdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydi dort yazari (David I Harvey, Neil M Kellard, Jakob B Madsen, Mark E Wohar), dergiyi (Review of Economics and Statistics), yili (2010-05), cildi (92) ve sayfalari (367-377) veriyor; baslik 'Four Centuries of Evidence' ibaresini birebir tasiyor. Ustveri kaydinin dogrudan destekleyebilecegi tam olarak bu tur iddialardir."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Üç yıl sonra aynı dört yazar bir düzeltme metni yayımladı ve çalışmanın veri kurma aşamasında hatalar bulunduğunu, bildirilen sonuçların yanlış olduğunu, düzeltilmiş sonuçların bu metinde verildiğini yazdı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bu kaydin ozet alani DOLU ve duzeltmenin gerekcesini kendisi soyluyor: 2010 calismasinin veri kurma hatalari icerdigini, bildirilen sonuclarin yanlis oldugunu ve duzeltilmis sonuclarin bu metinde verildigini yazar. Yazar dizisi 2010 kaydiyla ayni dort kisi; 'ayni dort yazar' iddiasi iki kaydin karsilastirilmasiyla dogrulandi. 'Uc yil sonra' 2010 ve 2013 yayin yillarindan cikiyor."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Dünya Bankası'nın Zambiya için verdiği net takas ticaret hadleri dizisi, 2015 yılı 100 alındığında, 2005'te 85,4; 2011'de 125,3; 2016'da 96,2 ve 2021'de 128,2 değerini alır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dort deger de Dunya Bankasi API cevabinda birebir: 2005=85.4, 2011=125.3, 2016=96.2, 2021=128.2; gostergenin adi taban yilini kendi icinde tasiyor. Dizinin kapsami 2005-2024'tur ve govde bu pencereyi zaten 'yirmi yillik' diye sinirlandirip uzun donem iddiasi kurmuyor — kaynagin sinirini asan bir yorum yok."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Ticaret hadleri bir refah ölçüsü değildir ve toplumsal fayda ile eş anlamlı kullanılamaz.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin Limitations bolumu birebir: ticaret hadleri toplumsal refahla, hatta Pareto anlamindaki iktisadi refahla es anlamli kullanilmamalidir."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Oran yalnızca göreli fiyatı verir; ihracatın hacmini, verimlilik değişimini, kaynakların dağılımını ve sermaye akımlarını göstermez.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Destek KISMI. Kaynak dogrudan yalnizca sunu soyler: hesaplar ihracat hacmi hakkinda bilgi vermez, yalniz goreli degisimi verir. Verimlilik, kaynak dagilimi ve sermaye akimlari kaynakta 'toplumsal faydanin nasil degistigini anlamak icin AYRICA bakilmasi gerekenler' diye siralanir; 'oran bunlari GOSTERMEZ' cikarimi kaynagin sozu degil, cikariminin makul okunusudur. Bu yuzden dogrudan degil kismi yazildi."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Fiyatı yükselen bir ihracatçının sattığı miktar aynı anda düşüyor olabilir; para biriminin değerlenmesi durumunda da oranın yukarı gitmesi beklenir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak, ihracat fiyatinin yukselmesinin daha dusuk ihracat hacmiyle sonuclanacagini yazar. Hakem duzeltmesi: doviz kuru kismi ilk halde 'degerlenme orani yukari iter' diye kesin kipte yaziliydi; kaynak 'one can expect the terms of trade to improve' diyor, yani beklenti kipinde konusuyor. Cekince govdeye geri tasindi ('beklenir')."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Kaynak, iki yüzden fazla ülkenin yüz binlerce ürün alıp sattığı gerçek dünyada hesapların çok karmaşıklaşabildiğini ve hata olasılığının önemli olduğunu kaydeder.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak birebir: iki yuzden fazla ulkenin yuz binlerce urun degistirdigi gercek dunyada hesaplarin cok karmasiklasabildigini ve hata olasiliginin onemli oldugunu yazar. Hakem duzeltmesi: yazarin ilk hali 'yuzlerce ulke' diyerek kaynagin sayisini degistiriyor ve hukmu atlasin agzindan kuruyordu; curutucu bunu tek-kaynakli nedensellik olarak isaretledi. Cumle kaynagin kendi sayisina ve kendi agzina cekildi."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Prebisch'in tablosundan çıkan soru kapanmış değil; sav bugün de kendi adıyla anılan bir hipotez olarak sınanıyor.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Destek KISMI. Hakem duzeltmesi: yazarin ilk hali 'kalkinma iktisadinin en uzun soluklu tartismasinda merkez ve cevre arasindaki iliskinin sayisal dayanagi' diyordu — bir Crossref ustveri kaydi ne 'en uzun soluklu' ne de 'merkez-cevre' iddiasini tasir; klasik sus dipnotuydu. Cumle kaydin gercekten tasidigi seye cekildi: sav kendi adiyla anilan bir hipotez olarak sinanmaya devam ediyor. Yine de 'bugun' kaydi 2010 tarihli bir kaydin otesine gectigi icin destek kismi birakildi."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 17,
+    "kismi": 2,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

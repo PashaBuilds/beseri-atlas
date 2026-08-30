@@ -1,0 +1,129 @@
+{
+  "id": "kavram-ticaret-hadleri",
+  "gecis": 2,
+  "zaman": "2026-08-30T00:07:31.918Z",
+  "govde_hash": "a58ec9c7e63d",
+  "commit": "8a54c1d8",
+  "sonuclar": [
+    {
+      "anahtar": "k5",
+      "iddia": "Bir ülkenin dış ticaretten ne elde ettiğini tek bir sayıya indirmeye çalışan ölçüt, ihracat fiyatlarının ithalat fiyatlarına oranıdır; daha somut okunuşuyla, bi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Terimi bugünkü adıyla kullanan, 1927 tarihli International Trade kitabıyla Frank William Taussig sayılır; kavramın daha erken bir biçimi Robert Torrens'in 1844'",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Raúl Prebisch'in Birleşmiş Milletler Latin Amerika Ekonomik Komisyonu için hazırladığı ve 1950'de yayımlanan raporda, birincil mal fiyatlarının mamul mal fiyatl",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Taban 1876-80 dönemidir ve 100'e eşitlenmiştir; aynı dizide 1921-25 ortalaması 67,5, 1926-30 ortalaması 73,3'tür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Raporun sözle söylediği daha çarpıcıdır: aynı miktar birincil malla 1930'larda, 1860'larda alınabilenin ancak yüzde 63'ü kadar mamul mal alınabiliyordu; başka d",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Prebisch bu farkın kendisini bir hüküm olarak sunmaz; fiyat farkına işaret etmenin, farkın başka açılardan taşıdığı anlam hakkında hüküm vermek olmadığını açıkç",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu tablodan çıkan tez sonradan Prebisch-Singer savı adıyla anıldı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Prebisch'in tablosunda taban 1876-80, Dünya Bankası'nın bugün yayımladığı net takas ticaret hadleri göstergesinde ise 2015 yılıdır; iki sayı, tabanları yazılmad",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Prebisch'in tablosunda taban 1876-80, Dünya Bankası'nın bugün yayımladığı net takas ticaret hadleri göstergesinde ise 2015 yılıdır; iki sayı, tabanları yazılmad",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Prebisch'in kullandığı sayılar Britanya Ticaret Kurulu'nun ithalat ve ihracat ortalama fiyat endeksleridir ve raporun kendi dipnotu bunları dünya fiyatlarını te",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üçüncüsü kalitedir ve itirazı raporun kendisi de yazar: fiyat endekslerinin mamul malların kalite farklarını yansıtmadığını, bu yüzden kalite değişiminin hesaba",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bu itiraz sonradan başlı başına bir araştırma konusu oldu; Robert Lipsey'in 1994'te Ulusal İktisadi Araştırmalar Bürosu için yazdığı çalışmanın başlığı, kalite ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "David I. Harvey, Neil M. Kellard, Jakob B. Madsen ve Mark E. Wohar'ın 2010'da Review of Economics and Statistics dergisinde yayımlanan çalışması, dört yüzyıllık",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Üç yıl sonra aynı dört yazar bir düzeltme metni yayımladı ve çalışmanın veri kurma aşamasında hatalar bulunduğunu, bildirilen sonuçların yanlış olduğunu, düzelt",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Dünya Bankası'nın Zambiya için verdiği net takas ticaret hadleri dizisi, 2015 yılı 100 alındığında, 2005'te 85,4; 2011'de 125,3; 2016'da 96,2 ve 2021'de 128,2 d",
+      "durum": "OK",
+      "not": "7 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Ticaret hadleri bir refah ölçüsü değildir ve toplumsal fayda ile eş anlamlı kullanılamaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Oran yalnızca göreli fiyatı verir; ihracatın hacmini, verimlilik değişimini, kaynakların dağılımını ve sermaye akımlarını göstermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Fiyatı yükselen bir ihracatçının sattığı miktar aynı anda düşüyor olabilir; para biriminin değerlenmesi durumunda da oranın yukarı gitmesi beklenir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kaynak, iki yüzden fazla ülkenin yüz binlerce ürün alıp sattığı gerçek dünyada hesapların çok karmaşıklaşabildiğini ve hata olasılığının önemli olduğunu kaydede",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Prebisch'in tablosundan çıkan soru kapanmış değil; sav bugün de kendi adıyla anılan bir hipotez olarak sınanıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

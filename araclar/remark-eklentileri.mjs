@@ -64,6 +64,28 @@ export function remarkDipnot() {
 export function remarkDirektif() {
   return (agac, dosya) => {
     visit(agac, (dugum) => {
+      // remark-directive'in leaf bicimi tek satirda calisir. Icerik uretim
+      // hattinin satir saricisi uzun ::tartismali cagrisini iki ya da daha cok
+      // satira boldugunde parser onu `leafDirective` yerine duz `paragraph`
+      // olarak birakiyordu. Build basarili gorunuyor, okur ise ham
+      // `::tartismali[...]` soz dizimini goruyordu. Paragraf geri dususu ayni
+      // sozlesmeyi cok satirli metin icin de uygular.
+      if (dugum.type === 'paragraph') {
+        const ham = (dugum.children ?? []).map((c) => c.value ?? '').join('').trim();
+        const e = /^::tartismali\[([\s\S]+)\]\{harita=([^}\s]+)\}$/.exec(ham);
+        if (!e) return;
+        const [tip, ...rest] = e[2].split('-');
+        const yol = tabanla(`/${tip}/${rest.join('-')}/`);
+        dugum.type = 'html';
+        dugum.value = `<aside class="tartismali-cagri" role="note">`
+          + `<span class="tartismali-cagri__etiket">TARTIŞMALI</span>`
+          + `<p class="tartismali-cagri__metin">${e[1].replace(/\s+/g, ' ')}</p>`
+          + `<a class="tartismali-cagri__bag" href="${yol}">Tartışma haritasını aç<span aria-hidden="true"> →</span></a>`
+          + `</aside>`;
+        dugum.children = [];
+        return;
+      }
+
       if (!['textDirective', 'leafDirective', 'containerDirective'].includes(dugum.type)) return;
 
       // METIN DIREKTIFI (tek iki nokta) — 2026-08-25'te eklendi.

@@ -1,0 +1,147 @@
+{
+  "id": "kavram-ittifak-sistemi",
+  "gecis": 2,
+  "zaman": "2026-08-30T00:07:48.884Z",
+  "govde_hash": "a7905c256586",
+  "commit": "8a54c1d8",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "7 Ekim 1879'da Viyana'da imzalanan Alman–Avusturya antlaşmasının birinci maddesi dar bir koşul kurar: iki imparatorluktan biri Rusya tarafından saldırıya uğrars",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkinci madde, saldıran başka bir devletse yükümlülüğü düşürür — müttefikin karşısında saldırganı desteklememek ve en azından dostane bir tarafsızlık göstermek y",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1879 antlaşmasının dördüncü maddesi metnin gizli tutulmasını ve üçüncü bir devlete ancak iki tarafın ortak kararıyla bildirilmesini şart koşar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Üçlü İttifak'ın 1882 metni de aynı dili konuşur: üçüncü maddeye göre imzacılardan biri ya da ikisi, kendi taraflarından doğrudan bir kışkırtma olmaksızın iki ya",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı ciltte İtalya'nın 22 Mayıs 1882 tarihli ek beyanı da yer alır: ittifak hükümleri İngiltere'ye yönelmiş sayılamaz.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Cildin derleyicisi Pribram, giriş bölümünde kendi hükmünü koyar: Üçlü İttifak metinlerinin hiçbirinde, tek başına ve kışkırtılmamış saldırısı üç müttefik için b",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı bölüm, iki devletin daha 1879'da antlaşmanın kendiliğinden uzamasında anlaştığı yolundaki sık yinelenen savın hataya dayandığını da kaydeder.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Birinci madde hâlâ koşulludur ve adres verir: Fransa, Almanya tarafından ya da Almanya'nın desteklediği İtalya tarafından saldırıya uğrarsa Rusya bütün mevcut k",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İkinci madde koşulu kaldırır: Üçlü İttifak kuvvetlerinden herhangi biri seferber edilirse Fransa ile Rusya, bu haberi alır almaz ve önceden anlaşmaya gerek olma",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sözleşme sayı da verir ve sayıyı koyan, metni imzalayan iki genelkurmayın kendisidir: Almanya'ya karşı kullanılacak kuvvet Fransa'da 1.300.000, Rusya'da 700.000",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dördüncü madde iki genelkurmayın barış zamanında sürekli haberleşmesini, beşinci madde ayrı barış yapılmamasını, yedinci madde bütün maddelerin mutlak gizli tut",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "3 Ağustos 1914'te Avam Kamarası'nda Edward Grey, Avrupa'da yıllardır iki diplomatik öbek bulunduğunu söyledikten sonra ayrımı açıkça koydu: Üçlü İtilaf bir itti",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı konuşmada 22 Kasım 1912'de Fransız büyükelçisine yazdığı mektubu okudu: uzmanlar arasındaki görüşmeler iki hükümetin de ileride silahla yardım edip etmeyec",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Grey, İtalya'nın o gün tarafsız olduğunu ve kendi anladığı kadarıyla gerekçesinin bu savaşı saldırgan bir savaş sayması, Üçlü İttifak savunma ittifakı olduğu iç",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "4 Nisan 1949 tarihli Kuzey Atlantik Antlaşması'nın beşinci maddesi saldırıyı hepsine yapılmış sayar, ama yardımın biçimini her tarafın kendi takdirine bırakır: ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Fark taahhüdün gücünde değil kuruluşundadır: antlaşma yayımlanmıştır, dördüncü madde tehdit görüldüğünde danışmayı, dokuzuncu madde her an toplanabilecek bir Ko",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Konsey"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Altıncı madde ittifakın nerede geçerli olduğunu da tanımlar ve 1949 metninde Fransa'nın Cezayir departmanlarını kapsama alır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "14 Mayıs 1955 tarihli Varşova Antlaşması aynı kalıbı kullanır — dördüncü madde yine gerekli görülen her aracı taraf takdirine bırakır — ama bir adım ileri gider",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Başlangıç metni gerekçesini de saklamaz; Paris anlaşmalarının onaylanmasıyla yeniden silahlandırılan Batı Almanya'nın Kuzey Atlantik blokuna katılmasını doğruda",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Belgeler bunu taşımaz: metinler koşulluydu, gizliydi, bir imzacı yükümlülüğünün doğmadığı sonucuna vardı ve büyük devletlerden biri zaten hiçbir ittifak metnine",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Belgeler bunu taşımaz: metinler koşulluydu, gizliydi, bir imzacı yükümlülüğünün doğmadığı sonucuna vardı ve büyük devletlerden biri zaten hiçbir ittifak metnine",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Belgeler bunu taşımaz: metinler koşulluydu, gizliydi, bir imzacı yükümlülüğünün doğmadığı sonucuna vardı ve büyük devletlerden biri zaten hiçbir ittifak metnine",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "1892 sözleşmesinin ikinci maddesi bir devletin seferberliğini iki devletin seferberliğine çeviren, koşulsuz ve önceden anlaşma gerektirmeyen bir kayıttı.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

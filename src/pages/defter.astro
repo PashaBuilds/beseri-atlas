@@ -1,0 +1,148 @@
+---
+import Temel from '../layouts/Temel.astro';
+import { ROTALAR } from '../lib/rotalar';
+import { tumOnayliIcerik, yol, bag, tipAdi } from '../lib/icerik';
+
+const korpus = await tumOnayliIcerik();
+const makaleler = [...korpus].sort((a: any, b: any) => a.data.baslik.localeCompare(b.data.baslik, 'tr'));
+---
+<Temel baslik="Defterim" ozet="Okuduğun makaleler ve öğrenme rotalarındaki kişisel ilerlemen.">
+  <main id="ana" class="defter">
+    <header class="defter__giris">
+      <div>
+        <p class="veri-etiket">Yalnızca bu cihazda</p>
+        <h1>Defterim</h1>
+        <p>Okuduklarını saymak için değil, düşünme yolunun nereden geçtiğini görmek için.</p>
+      </div>
+      <dl class="defter__sayaclar" aria-live="polite">
+        <div><dt>Okunan</dt><dd data-toplam-okunan>0</dd></div>
+        <div><dt>Tamamlanan rota</dt><dd data-tamam-rota>0</dd></div>
+      </dl>
+    </header>
+
+    <section class="defter__bolum">
+      <div class="defter__bolum-baslik">
+        <div>
+          <p class="veri-etiket">Büyük resmi kur</p>
+          <h2>Rotalardaki ilerlemen</h2>
+        </div>
+        <a href={bag('/rotalar/')}>Tüm rotaları gör</a>
+      </div>
+      <div class="defter__rotalar">
+        {ROTALAR.map((rota) => (
+          <a class="defter-rota" href={bag(`/rotalar/${rota.slug}/`)}
+             data-defter-rota data-adimlar={JSON.stringify(rota.adimlar.map((a) => a.id))}>
+            <span class="defter-rota__no">{rota.no}</span>
+            <span class="defter-rota__metin">
+              <strong>{rota.baslik}</strong>
+              <span data-rota-durum>Henüz başlamadı</span>
+            </span>
+            <span class="defter-rota__olcek" aria-hidden="true"><i data-rota-cubuk></i></span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="defter__bolum">
+      <div class="defter__bolum-baslik">
+        <div>
+          <p class="veri-etiket">Kendi izlerin</p>
+          <h2>Okuduğun makaleler</h2>
+        </div>
+        <button type="button" class="defter__temizle" data-defter-temizle>İşaretleri temizle</button>
+      </div>
+      <p class="defter__bos" data-defter-bos>
+        Henüz bir makaleyi okundu olarak işaretlemedin. Bir öğrenme rotası seçerek
+        başlamak, dizinde rastgele dolaşmaktan daha güçlü bir bağlam kurar.
+      </p>
+      <ul class="defter__okunanlar" data-defter-liste>
+        {makaleler.map((girdi: any) => (
+          <li data-okunan-id={girdi.data.id} hidden>
+            <a href={yol(girdi.data.id)}>{girdi.data.baslik}</a>
+            <span>{tipAdi(girdi.data.tip)}</span>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <aside class="defter__gizlilik">
+      <strong>Hesapsız ve özel.</strong>
+      <span>Bu sayfadaki bilgiler tarayıcında saklanır; sunucuya gönderilmez ve başka cihaza taşınmaz.</span>
+    </aside>
+  </main>
+</Temel>
+
+<style>
+  .defter { max-width: 68rem; margin: 0 auto; padding: 4rem 2rem 6rem; }
+  .defter__giris { display: grid; grid-template-columns: 1fr auto; gap: 3rem; align-items: end; padding-bottom: 2.5rem; border-bottom: 1px solid var(--cizgi); }
+  .defter__giris h1 { font-size: clamp(3.2rem, 7vw, 6rem); margin: .45rem 0 .8rem; }
+  .defter__giris p { color: var(--golge); max-width: 52ch; }
+  .defter__sayaclar { display: flex; gap: 2.5rem; margin: 0; }
+  .defter__sayaclar dt { font-family: var(--f-veri); font-size: .65rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--golge); }
+  .defter__sayaclar dd { margin: .25rem 0 0; font-family: var(--f-display); font-size: 2.4rem; line-height: 1; }
+  .defter__bolum { margin-top: 3.25rem; }
+  .defter__bolum-baslik { display: flex; justify-content: space-between; gap: 2rem; align-items: end; margin-bottom: 1.25rem; }
+  .defter__bolum-baslik h2 { margin: .35rem 0 0; font-size: 1.75rem; }
+  .defter__bolum-baslik > a, .defter__temizle { font-family: var(--f-veri); font-size: .7rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; }
+  .defter__temizle { border: 0; padding: 0; background: transparent; color: var(--zincifre); cursor: pointer; text-decoration: underline; text-underline-offset: .2em; }
+  .defter__rotalar { border-top: 1px solid var(--cizgi); }
+  .defter-rota { display: grid; grid-template-columns: 3rem 1fr 10rem; gap: 1rem; align-items: center; padding: 1rem 0; color: inherit; text-decoration: none; border-bottom: 1px solid var(--cizgi); }
+  .defter-rota__no { font-family: var(--f-display); font-size: 1.45rem; color: var(--bakir); }
+  .defter-rota__metin { display: grid; }
+  .defter-rota__metin strong { font-family: var(--f-display); font-size: 1.05rem; }
+  .defter-rota__metin span { font-family: var(--f-veri); font-size: .68rem; text-transform: uppercase; letter-spacing: .07em; color: var(--golge); }
+  .defter-rota__olcek { height: 3px; background: var(--cizgi); }
+  .defter-rota__olcek i { display: block; width: 0; height: 100%; background: var(--bakir); }
+  .defter__bos { color: var(--golge); max-width: 62ch; padding: 1.5rem 0; }
+  .defter__okunanlar { list-style: none; padding: 0; margin: 0; border-top: 1px solid var(--cizgi); }
+  .defter__okunanlar li { display: flex; gap: 1rem; align-items: baseline; padding: .65rem 0; border-bottom: 1px solid var(--cizgi-ince); }
+  .defter__okunanlar li span { margin-inline-start: auto; font-family: var(--f-veri); font-size: .65rem; text-transform: uppercase; letter-spacing: .08em; color: var(--golge); }
+  .defter__gizlilik { display: flex; gap: .7rem; margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--cizgi); color: var(--golge); font-size: .82rem; }
+  .defter__gizlilik strong { color: var(--murekkep); }
+  @media (max-width: 700px) {
+    .defter { padding: 3rem 1.15rem 4rem; }
+    .defter__giris { grid-template-columns: 1fr; gap: 1.2rem; }
+    .defter-rota { grid-template-columns: 2.5rem 1fr; }
+    .defter-rota__olcek { grid-column: 2; }
+    .defter__bolum-baslik { align-items: start; }
+    .defter__gizlilik { display: grid; }
+  }
+</style>
+
+<script>
+  const anahtar = 'baglam-okunanlar-v1';
+  let okunanlar: string[] = [];
+  try { okunanlar = JSON.parse(localStorage.getItem(anahtar) || '[]'); } catch {}
+
+  function boya() {
+    document.querySelectorAll<HTMLElement>('[data-okunan-id]').forEach((satir) => {
+      satir.hidden = !okunanlar.includes(satir.dataset.okunanId || '');
+    });
+    const bos = document.querySelector<HTMLElement>('[data-defter-bos]');
+    if (bos) bos.hidden = okunanlar.length > 0;
+    const toplam = document.querySelector<HTMLElement>('[data-toplam-okunan]');
+    if (toplam) toplam.textContent = String(okunanlar.length);
+
+    let tamamRota = 0;
+    document.querySelectorAll<HTMLElement>('[data-defter-rota]').forEach((kart) => {
+      let adimlar: string[] = [];
+      try { adimlar = JSON.parse(kart.dataset.adimlar || '[]'); } catch {}
+      const tamam = adimlar.filter((id) => okunanlar.includes(id)).length;
+      if (tamam === adimlar.length && adimlar.length) tamamRota += 1;
+      const durum = kart.querySelector<HTMLElement>('[data-rota-durum]');
+      const cubuk = kart.querySelector<HTMLElement>('[data-rota-cubuk]');
+      if (durum) durum.textContent = tamam ? `${tamam} / ${adimlar.length} durak` : 'Henüz başlamadı';
+      if (cubuk) cubuk.style.width = `${adimlar.length ? (tamam / adimlar.length) * 100 : 0}%`;
+    });
+    const rotaSayac = document.querySelector<HTMLElement>('[data-tamam-rota]');
+    if (rotaSayac) rotaSayac.textContent = String(tamamRota);
+  }
+
+  document.querySelector<HTMLButtonElement>('[data-defter-temizle]')?.addEventListener('click', () => {
+    if (!okunanlar.length || !confirm('Bu cihazdaki bütün okundu işaretleri temizlensin mi?')) return;
+    okunanlar = [];
+    try { localStorage.setItem(anahtar, '[]'); } catch {}
+    boya();
+  });
+  boya();
+</script>

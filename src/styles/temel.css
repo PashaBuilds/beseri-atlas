@@ -1,6 +1,6 @@
 /* ═══════════════════════════════════════════════════════════════════════════
-   Beşeri Atlas — tasarım sistemi
-   Konsept: stratigrafik kesit. Bkz. plan/tasarim-plani.md
+   Bağlam — tasarım sistemi
+   Konsept: yaşayan kenar notları, zaman katmanları ve kanıt çizgileri.
    ═══════════════════════════════════════════════════════════════════════════ */
 
 @import '@fontsource-variable/fraunces';
@@ -13,20 +13,20 @@
 
 :root {
   /* Açık tema — birincil. Bu bir okuma sitesidir. */
-  --murekkep: #16232b;
-  --tabaka: #e6eae7;
-  --bakir: #2e6b62;
-  --oksit: #8a5d14;
-  --zincifre: #9e2b2b;
-  --golge: #5e6c69;
+  --murekkep: #1e2926;
+  --tabaka: #f3efe5;
+  --bakir: #17685c;
+  --oksit: #9a5b18;
+  --zincifre: #a33a32;
+  --golge: #63706b;
 
-  --yuzey: #eff2f0;
-  --yuzey-2: #dde3e0;
-  --cizgi: #c3ccc8;
-  --cizgi-ince: #d5dcd9;
-  --bakir-zemin: #dbe8e4;
-  --zincifre-zemin: #f0dedb;
-  --oksit-zemin: #efe4cd;
+  --yuzey: #f9f6ee;
+  --yuzey-2: #eae5da;
+  --cizgi: #c8c1b3;
+  --cizgi-ince: #ddd6c8;
+  --bakir-zemin: #dceae5;
+  --zincifre-zemin: #f1dfda;
+  --oksit-zemin: #eee1ca;
 
   --olcu: 68ch;
   --ray: 13.5rem;
@@ -98,12 +98,6 @@ body {
   line-height: 1.72;
   font-variation-settings: 'opsz' 14;
   text-rendering: optimizeLegibility;
-  /* Gratikül: çizim kâğıdı ızgarası. Skeuomorfizm değil, ölçek hissi. */
-  background-image:
-    linear-gradient(to right, color-mix(in srgb, var(--golge) 7%, transparent) 1px, transparent 1px),
-    linear-gradient(to bottom, color-mix(in srgb, var(--golge) 7%, transparent) 1px, transparent 1px);
-  background-size: 4rem 4rem;
-  background-attachment: fixed;
 }
 
 /* Grain — düz rengin ölülüğünü kırar, metinle yarışmaz. */
@@ -228,23 +222,36 @@ p:last-child { margin-bottom: 0; }
 /* ─── Başlık çubuğu ─────────────────────────────────────────────────────── */
 
 .ust {
-  position: relative; z-index: 3;
+  position: sticky; top: 0; z-index: 30;
   border-bottom: 1px solid var(--cizgi);
   background: color-mix(in srgb, var(--tabaka) 88%, transparent);
   backdrop-filter: blur(6px);
 }
 .ust__ic {
   max-width: 78rem; margin: 0 auto;
-  padding: 0.85rem 2rem;
+  min-height: 4.35rem; padding: 0.65rem 2rem;
   display: flex; align-items: center; gap: 1.5rem;
 }
 .marka {
-  font-family: var(--f-display);
-  font-variation-settings: 'opsz' 40, 'SOFT' 0, 'WONK' 0;
-  font-weight: 600; font-size: 1.12rem; letter-spacing: -0.01em;
-  color: var(--murekkep); text-decoration: none;
+  display: grid; grid-template-columns: 2rem auto; grid-template-rows: auto auto;
+  column-gap: .65rem; align-items: center;
+  color: var(--murekkep); text-decoration: none; line-height: 1;
 }
-.marka em { font-style: normal; color: var(--bakir); }
+.marka__isaret {
+  grid-row: 1 / 3; display: grid; place-items: center;
+  width: 2rem; aspect-ratio: 1; border: 1px solid var(--bakir);
+  color: var(--bakir); font-family: var(--f-display); font-size: 1.2rem;
+  font-weight: 650; transform: rotate(-2deg);
+}
+.marka__ad {
+  font-family: var(--f-display); font-variation-settings: 'opsz' 40, 'SOFT' 0, 'WONK' 0;
+  font-weight: 650; font-size: 1.25rem; letter-spacing: -0.02em;
+}
+.marka__vaat {
+  font-family: var(--f-veri); font-size: .58rem; font-weight: 500;
+  letter-spacing: .105em; text-transform: uppercase; color: var(--golge);
+  margin-top: .28rem;
+}
 .ust nav { margin-inline-start: auto; display: flex; gap: 1.15rem; align-items: center; flex-wrap: wrap; }
 .ust nav a {
   font-family: var(--f-veri); font-size: 0.76rem; font-weight: 500;
@@ -255,6 +262,7 @@ p:last-child { margin-bottom: 0; }
 .ust nav a:hover, .ust nav a[aria-current='page'] { color: var(--murekkep); border-bottom-color: var(--bakir); }
 
 .tema-dugme {
+  flex: 0 0 auto;
   font-family: var(--f-veri); font-size: 0.7rem; font-weight: 600;
   letter-spacing: 0.09em; text-transform: uppercase;
   background: transparent; color: var(--golge);
@@ -265,6 +273,42 @@ p:last-child { margin-bottom: 0; }
 .tema-dugme:hover { color: var(--murekkep); border-color: var(--bakir); }
 /* JS kapalıyken tema düğmesi bir yalan söylemesin. */
 html:not(.js) .tema-dugme { display: none; }
+
+/* ─── Alt bilgi ───────────────────────────────────────────────────────── */
+
+.alt { position: relative; z-index: 2; border-top: 1px solid var(--cizgi); background: var(--yuzey); }
+.alt__ic {
+  max-width: 78rem; margin: 0 auto; padding: 2.5rem 2rem 3rem;
+  display: grid; grid-template-columns: 1.1fr .8fr 1fr; gap: 2rem;
+}
+.alt__marka {
+  font-family: var(--f-display); font-size: 1.45rem; font-weight: 650;
+  color: var(--murekkep); text-decoration: none;
+}
+.alt p { margin: .45rem 0 0; color: var(--golge); font-size: .86rem; line-height: 1.55; }
+.alt nav { display: grid; align-content: start; gap: .5rem; }
+.alt nav a { font-family: var(--f-veri); font-size: .75rem; font-weight: 600; letter-spacing: .07em; text-transform: uppercase; text-decoration: none; }
+.alt__not { max-width: 32ch; justify-self: end; }
+
+@media (max-width: 760px) {
+  .ust__ic {
+    padding: .65rem 1.15rem .45rem; min-height: 3.9rem;
+    display: grid; grid-template-columns: minmax(0, 1fr) auto;
+    align-items: center; gap: .55rem 1rem;
+  }
+  .marka { margin-top: .15rem; }
+  .marka__vaat { display: none; }
+  .ust nav {
+    grid-column: 1 / -1; grid-row: 2; width: 100%; margin: 0;
+    display: grid; grid-template-columns: repeat(5, max-content);
+    justify-content: space-between; gap: .25rem;
+    overflow: visible; padding: .1rem 0 .15rem;
+  }
+  .ust nav a { white-space: nowrap; font-size: .68rem; }
+  .tema-dugme { grid-column: 2; grid-row: 1; margin: 0; }
+  .alt__ic { grid-template-columns: 1fr; padding-inline: 1.15rem; }
+  .alt__not { justify-self: start; }
+}
 
 /* ─── Güven seviyesi — renk tek başına taşımaz ──────────────────────────── */
 

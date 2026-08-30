@@ -1,0 +1,171 @@
+{
+  "id": "kavram-satin-alma-gucu-paritesi",
+  "gecis": 2,
+  "zaman": "2026-08-30T00:08:55.949Z",
+  "govde_hash": "8a21b781a1a7",
+  "commit": "81e6421a",
+  "sonuclar": [
+    {
+      "anahtar": "k5",
+      "iddia": "Hindistan'da kişi başına düşen gelir, piyasa kurundan dolara çevrildiğinde Amerika Birleşik Devletleri'ndekinin yaklaşık 30'da biri kadar çıkar; aynı gelir yere",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Her iki sayı da 2023 yılına aittir ve ikisi de 2021 taban yılına göre enflasyondan arındırılmıştır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Satın alma gücü paritesi hem bir para birimi çevrim katsayısı hem de mekânsal bir fiyat endeksidir: ülkeler arasındaki fiyat düzeyi farklarını ortadan kaldırara",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Piyasa kuru bir para birimine duyulan toplam talebe göre oluşur ve bu talebin bileşenleri arasında dış ticaretin ve sermaye aktarımlarının finansmanı vardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Oysa gayrisafi yurt içi hasıla, inşaat, konut, sağlık, eğitim ve kamu hizmetleri gibi uluslararası ticarete konu olmayan kalemleri de kapsar; genel fiyat düzeyi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kur bütün kalemlere aynı uygulandığından, fiyat düzeyi yüksek zengin ülkelerin büyüklüğü olduğundan geniş, fiyat düzeyi düşük yoksul ülkelerinki olduğundan dar ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Oranı üreten iş, 1968'de kurulan ve bugün Dünya Bankası'nın yürüttüğü Uluslararası Karşılaştırma Programı'na aittir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Program katılan ülkelerin istatistik kurumlarına ortak tanımlı bir listenin fiyatlarını toplatır: 2021 turunda hane halkı tüketimi için kullanılan küresel çekir",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yöntemin can alıcı özelliği şudur: iki ülke arasındaki parite üçüncü ülkelerin paritelerinden etkilenir, dolayısıyla karşılaştırmaya katılan ülke bileşimi değiş",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Fiyat toplamanın pahalı ya da güvenilmez olduğu bazı temel başlıklarda başka başlıkların paritelerinden türetilmiş referans oranları kullanılır; programa hiç ka",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Terimi bugünkü anlamıyla ilk kuran, 1918'de İsveçli iktisatçı Gustav Cassel oldu; pariteden gerçek gelir düzeylerini tahmin etmekte yararlanma fikri ise 1940'ta",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Cassel'in Money and Foreign Exchange After 1914 kitabında sorun gelir karşılaştırması değildi: 1914'ten sonra altın standardını bırakan ülkelerin birbirinden ba",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "İki ülkenin iktisadi durumundaki farklar, özellikle ulaştırma ve gümrük alanındakiler, normal kurun paritenin gösterdiği düzeyden bir ölçüde sapmasına yol açabi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Gelirlerin çevrilmesi bu kuramın sonraki bir kullanımıdır ve program iki işi açıkça ayırır: pariteler denge kuru sayılamaz ve bir paranın değerinin düşük ya da ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Küresel karşılaştırmalar tur tur yapıldı: 1970, 1973, 1975, 1980, 1985, 1993, 2005, 2011, 2017 ve 2021.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Katılım 10 ülkeden 176'ya çıktı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Çin programa ilk kez 2005 turunda katıldı, Hindistan ise aynı tura 1985'ten sonraki ilk katılımıyla döndü.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki ülkenin o tarihe kadarki pariteleri, kendi fiyat anketlerine dayanmıyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "2017 ile 2021 turları aynı yöntemi kullandı, ama katılan ülke kümesi değişti ve iki turun sonuçları ancak bir miktar ihtiyatla karşılaştırılabilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kaynak, tur sonuçlarının tek bir ülkenin hasılasındaki zaman içindeki değişimi izlemek için kullanılmaması gerektiğini, pariteleri zaman ve mekân boyutları",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Uzun tarihsel serilerde geçmiş yüzyıllar için verilen kişi başına gelir değerleri bir fiyat anketinden gelmez; bir çapa yılına bağlanıp zaman serileriyle geriye",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Maddison Proje Veritabanı'nın 2023 sürümünü hazırlayan Bolt ve van Zanden, 1990 çapasının, 2011 çapasının ve çoklu çapa yönteminin 1940 öncesi gelir tahminleri ",
+      "durum": "OK",
+      "not": "8 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Angus Deaton ile Alan Heston, 2005 turunun bölgesel yapısını da ele aldıkları değerlendirmede, bazı uluslararası karşılaştırmaların kuramsal olarak bile neredey",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Deaton ile Paul Schreyer, 2017 turunu değerlendirirken asıl önemli noktanın haberin yokluğu olduğunu, sonuçların 2011 turununkilerle genel olarak uyumlu çıktığı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hacim ve fiyat düzeyi endeksleri ülkeleri kesin biçimde sıralamak için tasarlanmamıştır ve birbirine yakın değerlerde toplanan ülkeler arasındaki farklar fazla ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkinci yaygın hata pariteleri tasarlanmadıkları işlerde kullanmaktır: yatırım akımları, yardım, dış ticaret, döviz rezervleri ve göçmen havaleleri parite ile de",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dünya Bankası küresel yoksulluk sayılarında 2022'de 2017 turunun paritelerine geçti; aynı pariteler Sürdürülebilir Kalkınma Amaçları göstergelerinin, İnsani Gel",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    }
+  ]
+}

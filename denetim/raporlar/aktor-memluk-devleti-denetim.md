@@ -1,5 +1,5 @@
 ## aktor-memluk-devleti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:13.216Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-30T00:08:20.346Z_
 
 - [OK]      k2 → "Memlûk sözcüğü sözlükte sahip olunan şey demektir ve çoğunlukla Kafkasya'dan ve Orta Asya bozkırlarından satın…"
 - [OK]      k1 → "Bu askerler 1250'de Mısır'da iktidarı ele geçirdi; kurdukları düzen 1517'de Osmanlı fethine kadar Mısır, Suriy…"

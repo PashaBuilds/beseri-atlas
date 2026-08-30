@@ -18,6 +18,7 @@ ilgili:
   - tartisma-kalkinma-yardimi-ise-yariyor-mu
   - tartisma-kalkinma-neden-basarisiz
   - kavram-pamuk-tek-urun
+  - kavram-ticaret-hadleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

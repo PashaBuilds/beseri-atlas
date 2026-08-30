@@ -1,0 +1,129 @@
+{
+  "id": "kavram-modernlesme-kurami",
+  "gecis": 2,
+  "zaman": "2026-08-30T00:08:08.757Z",
+  "govde_hash": "545f296fd122",
+  "commit": "81e6421a",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Gerekçe aynı paragrafta duruyordu — dünya insanlarının yarısından fazlası sefalete yakın koşullarda yaşıyordu, yiyecekleri yetersizdi, iktisadi hayatları ilkel ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Konuşmanın başında karşı taraf da adıyla anılmıştı: özgürlük vaat ettiğini iddia eden yanlış bir felsefe, yani komünizm.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Truman ayrıca bir çekince koyuyordu: \"The old imperialism--exploitation for foreign profit--has no place in our plans.\" Ortada bir program vardı ama programın b",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "W. W. Rostow 1960'ta, MIT'de iktisat tarihi profesörüyken, The Stages of Economic Growth: A Non-Communist Manifesto'yu yayımladı; kitap 1958 sonbaharında Cambri",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Beş aşama sayıyordu: geleneksel toplum, kalkışın önkoşulları, kalkış, olgunluğa yürüyüş ve yüksek kitlesel tüketim çağı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Geleneksel toplum, Rostow'a göre, Newton öncesi bilim ve teknolojiye ve fiziksel dünyaya karşı Newton öncesi tutumlara dayanan sınırlı üretim fonksiyonları için",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Rostow bu kategoriyi durağan saymaz ve çıktı artışını dışlamaz; ölçüt üretim değil, dünyaya bakıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Rostow kalkışı üç koşulun birlikte sağlanması olarak tanımlar; birincisi, üretken yatırımın ulusal gelir içindeki payının, Rostow'un kendi ihtiyat sözcüğüyle di",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kitabın alt başlığı ile onuncu bölümün başlığı kuramın Soğuk Savaş'a nasıl bağlandığını açıkça söyler: A Non-Communist Manifesto ve Communism: A disease of the ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Rostow komünizmi, yalnızca büyümenin arz yanına uygun tuhaf bir modern toplum biçimi olarak tarif eder ve yüksek kitlesel tüketim çağında sönmeye yatkın olduğun",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu kitabın tam metni bugün Amerikan merkezî istihbarat teşkilatının gizliliği kaldırılmış belge odasında, her sayfasında yayım onayı damgasıyla duruyor; kaydın ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Talcott Parsons ile Edward A. Shils'in Carnegie Corporation desteğiyle hazırladığı 1951 tarihli derleme, eylem yöneliminin ikilemlerini beş çift değişkene indir",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu çiftler bir kalkınma reçetesi olarak değil, toplum bilimleri için kuramsal bir temel olarak yazılmıştı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı sözcük dağarcığının ne kadar hızlı yayıldığı, Daniel Lerner ile Lucille W. Pevsner'ın The Passing of Traditional Society adlı kitabının Şubat 1959'da Ameri",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Andre Gunder Frank 1966'da Monthly Review'da \"The Development of Underdevelopment\" başlıklı bir yazı yayımladı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Dean C. Tipps 1973'te, modernleşme teriminin bugünkü anlamlarıyla kullanımının görece yeni olduğunu ve Amerikan toplum bilimlerinin sözlüğüne ancak 1960'larda g",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Ardından şunu ekler: hem eleştirenler hem savunanlar modernleşme fikrinin temelde yararlı olduğunu varsayma eğilimindedir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kendisi tam tersini yazar: aşamalar, modern tarihin akışına bakmanın \"an arbitrary and limited way of looking at the sequence of modern history\" biçimidir ve hi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir kalkınma bakanı için yüzde on eşiği, soyut bir yapı çözümlemesinden daha kullanışlıydı; itiraz bu kullanışlılığı açıklamak zorundadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Sanayileşme, kentleşme ve okur yazarlığın yayılması yaşanmış olgulardır; modernleşme kuramı ise bu olguları tek bir sıraya dizen, belirli bir yerde ve zamanda k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}
