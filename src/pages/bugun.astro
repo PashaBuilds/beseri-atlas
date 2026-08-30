@@ -1,6 +1,6 @@
 ---
 import Temel from '../layouts/Temel.astro';
-import { ROTALAR } from '../lib/rotalar';
+import { BASLANGIC_PROGRAMI, ROTALAR } from '../lib/rotalar';
 import { tumOnayliIcerik, yol, bag, tipAdi } from '../lib/icerik';
 import { MARKA } from '../lib/marka';
 
@@ -32,23 +32,60 @@ const rotaVerisi = ROTALAR.map((rota) => ({
     };
   }),
 }));
+const baslangicProgrami = BASLANGIC_PROGRAMI.map((asama) => {
+  const rota = ROTALAR.find((x) => x.slug === asama.slug)!;
+  return {
+    ...asama,
+    baslik: rota.baslik,
+    yol: bag(`/rotalar/${rota.slug}/`),
+    adimSayisi: rota.adimlar.length,
+  };
+});
 ---
 <Temel baslik="Bugün" ozet="Bugünkü öğrenme oturumun: geri çağır, yeni bir bağ kur ve doğru zamanda tekrar et.">
   <main id="ana" class="bugun-sayfa"
-        data-katalog={JSON.stringify(katalog)} data-rotalar={JSON.stringify(rotaVerisi)}>
+        data-katalog={JSON.stringify(katalog)} data-rotalar={JSON.stringify(rotaVerisi)}
+        data-program={JSON.stringify(baslangicProgrami)} data-rotalar-yolu={bag('/rotalar/')}>
     <section class="karsilama" data-karsilama>
       <div class="karsilama__giris">
-        <p class="veri-etiket">Kişisel başlangıç · 90 saniye</p>
-        <h1>Bilgi toplamak değil,<br /><em>düşünme biçimi</em> kazanmak.</h1>
+        <p class="veri-etiket">Sıfırdan başlangıç · karar vermen gerekmiyor</p>
+        <h1>İlk adımın da,<br /><em>sıran da</em> hazır.</h1>
         <p>
-          {MARKA.ad} sana yüzlerce seçenek göstermeden önce neyi anlamak istediğini ve
-          bugün ne kadar zamanın olduğunu sorar. Cevapların yalnızca bu cihazda kalır.
+          Genel kültüre sıfırdan başlıyorsan konu seçmek zorunda değilsin. {MARKA.ad}, önce
+          nasıl okuyacağını; sonra güç, kanıt ve yakın dünya bağlarını öğreten dört haftalık
+          bir çekirdek sunar. Cevapların yalnızca bu cihazda kalır.
         </p>
       </div>
 
       <form class="baslangic" data-baslangic-formu>
         <fieldset>
-          <legend><span>01</span> Bu projeden en çok ne kazanmak istiyorsun?</legend>
+          <legend><span>01</span> Nasıl başlamak istiyorsun?</legend>
+          <div class="secenekler secenekler--kip">
+            <label class="secenek--onerilen">
+              <input type="radio" name="kip" value="baslangic" checked />
+              <span class="secenek__rozet">Önerilen</span>
+              <strong>Sıfırdan başlıyorum; sırayı sen kur</strong>
+              <small>4 hafta · 24 kısa okuma · günde 20 dakika. Ön koşul yok.</small>
+            </label>
+            <label>
+              <input type="radio" name="kip" value="ozel" />
+              <strong>Belirli bir sorum var</strong>
+              <small>Başlangıç çekirdeğini atlayıp doğrudan bir konu rotasına gir.</small>
+            </label>
+          </div>
+
+          <ol class="program-sira" aria-label="Dört haftalık başlangıç sırası">
+            {baslangicProgrami.map((asama, i) => (
+              <li>
+                <span>0{i + 1}</span>
+                <div><small>{asama.hafta} · {asama.beceri}</small><strong>{asama.baslik}</strong></div>
+              </li>
+            ))}
+          </ol>
+        </fieldset>
+
+        <fieldset data-amac-alani hidden>
+          <legend><span>02</span> Hangi sorudan girmek istiyorsun?</legend>
           <div class="secenekler secenekler--amac">
             <label>
               <input type="radio" name="amac" value="bugun" checked />
@@ -84,7 +121,7 @@ const rotaVerisi = ROTALAR.map((rota) => ({
         </fieldset>
 
         <fieldset>
-          <legend><span>02</span> Sıradan bir günde kaç dakika ayırabilirsin?</legend>
+          <legend><span data-tempo-adim>02</span> Sıradan bir günde kaç dakika ayırabilirsin?</legend>
           <div class="secenekler secenekler--tempo">
             <label><input type="radio" name="tempo" value="10" /> <strong>10 dk</strong><small>Tek fikir</small></label>
             <label><input type="radio" name="tempo" value="20" checked /> <strong>20 dk</strong><small>Dengeli</small></label>
@@ -93,8 +130,8 @@ const rotaVerisi = ROTALAR.map((rota) => ({
         </fieldset>
 
         <div class="baslangic__son">
-          <p><strong>Sonuç:</strong> Sana tek bir sonraki adım göstereceğiz; bütün arşivi değil.</p>
-          <button type="submit">Öğrenme yolumu kur <span aria-hidden="true">→</span></button>
+          <p><strong>Her gün:</strong> 2 dakika hatırla, 15 dakika oku, 3 dakika kendi cümlenle anlat.</p>
+          <button type="submit">İlk haftamı başlat <span aria-hidden="true">→</span></button>
         </div>
       </form>
     </section>
@@ -180,6 +217,7 @@ const rotaVerisi = ROTALAR.map((rota) => ({
   .baslangic legend { width: 100%; margin: 0 0 1rem; font-family: var(--f-display); font-size: 1.45rem; font-weight: 600; }
   .baslangic legend span { display: inline-block; width: 2.7rem; color: var(--bakir); font-family: var(--f-veri); font-size: .74rem; }
   .secenekler { display: grid; border: 1px solid var(--cizgi); }
+  .secenekler--kip { grid-template-columns: repeat(2, 1fr); }
   .secenekler--amac { grid-template-columns: repeat(2, 1fr); }
   .secenekler--tempo { grid-template-columns: repeat(3, 1fr); max-width: 38rem; }
   .secenekler label { position: relative; display: grid; align-content: start; padding: 1.2rem 1.2rem 1.25rem 3.2rem; min-height: 8.5rem; background: var(--yuzey); cursor: pointer; }
@@ -191,6 +229,14 @@ const rotaVerisi = ROTALAR.map((rota) => ({
   .secenekler label:has(input:checked) { background: var(--bakir-zemin); box-shadow: inset 0 0 0 1px var(--bakir); }
   .secenekler strong { font-family: var(--f-display); font-size: 1.08rem; line-height: 1.3; }
   .secenekler small { margin-top: .35rem; color: var(--golge); line-height: 1.5; }
+  .secenek__rozet { justify-self: start; margin-bottom: .55rem; padding: .18rem .45rem; background: var(--bakir); color: var(--tabaka); font-family: var(--f-veri); font-size: .6rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
+  .program-sira { display: grid; grid-template-columns: repeat(4, 1fr); list-style: none; margin: 1rem 0 0; padding: 0; border: 1px solid var(--cizgi); border-top: 0; }
+  .program-sira li { display: grid; grid-template-columns: 2rem 1fr; gap: .7rem; min-width: 0; padding: 1rem; background: var(--bakir-zemin); }
+  .program-sira li + li { border-left: 1px solid var(--cizgi); }
+  .program-sira > li > span { color: var(--bakir); font-family: var(--f-display); font-size: 1.3rem; line-height: 1; }
+  .program-sira div { display: grid; gap: .25rem; }
+  .program-sira small { color: var(--golge); font-family: var(--f-veri); font-size: .58rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; }
+  .program-sira strong { font-family: var(--f-display); font-size: .98rem; line-height: 1.25; }
   .baslangic__son { display: flex; justify-content: space-between; align-items: center; gap: 2rem; padding-top: 1.5rem; border-top: 1px solid var(--cizgi); }
   .baslangic__son p { color: var(--golge); font-size: .9rem; }
   .baslangic__son button, .siradaki__eylem { display: inline-flex; align-items: center; gap: 1rem; min-height: 3.2rem; padding: .75rem 1rem; border: 0; background: var(--murekkep); color: var(--tabaka); font-family: var(--f-veri); font-size: .75rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; text-decoration: none; cursor: pointer; }
@@ -229,11 +275,15 @@ const rotaVerisi = ROTALAR.map((rota) => ({
     .karsilama__giris, .gunluk__giris { grid-template-columns: 1fr; gap: 1.5rem; }
     .dongu__adim { grid-template-columns: 3rem 1fr; gap: 1rem; }
     .dongu__icerik, .siradaki, .anlat-karti, .deftere-git { grid-column: 2; }
+    .program-sira { grid-template-columns: repeat(2, 1fr); }
+    .program-sira li:nth-child(3) { border-left: 0; border-top: 1px solid var(--cizgi); }
+    .program-sira li:nth-child(4) { border-top: 1px solid var(--cizgi); }
   }
   @media (max-width: 620px) {
-    .secenekler--amac, .secenekler--tempo { grid-template-columns: 1fr; }
+    .secenekler--kip, .secenekler--amac, .secenekler--tempo, .program-sira { grid-template-columns: 1fr; }
     .secenekler label, .secenekler label:nth-child(odd), .secenekler--tempo label { border: 0; border-bottom: 1px solid var(--cizgi); }
     .secenekler label:last-child { border-bottom: 0; }
+    .program-sira li + li, .program-sira li:nth-child(3), .program-sira li:nth-child(4) { border-left: 0; border-top: 1px solid var(--cizgi); }
     .baslangic__son, .gunluk__ayar { align-items: stretch; flex-direction: column; }
     .gunluk__sayaclar { gap: 1.4rem; justify-content: space-between; }
     .dongu__adim { grid-template-columns: 2rem 1fr; }
@@ -250,13 +300,18 @@ const rotaVerisi = ROTALAR.map((rota) => ({
   const karsilama = document.querySelector<HTMLElement>('[data-karsilama]');
   const gunluk = document.querySelector<HTMLElement>('[data-gunluk]');
   let durum: any = durumOku();
+  if (new URLSearchParams(location.search).get('kur') === 'baslangic') durum.profil.tamamlandi = false;
   let katalog: any[] = [];
   let rotalar: any[] = [];
+  let program: any[] = [];
   try { katalog = JSON.parse(kok?.dataset.katalog || '[]'); } catch {}
   try { rotalar = JSON.parse(kok?.dataset.rotalar || '[]'); } catch {}
+  try { program = JSON.parse(kok?.dataset.program || '[]'); } catch {}
   const makale = new Map(katalog.map((x) => [x.id, x]));
+  const rotalarYolu = kok?.dataset.rotalarYolu || '/rotalar/';
 
   const amacRotasi: Record<string, string> = {
+    baslangic: 'tarihci-gibi-dusunmek',
     bugun: 'bugunku-dunya-nasil-kuruldu',
     mekanizma: 'guc-nasil-kurulur',
     dusunme: 'tarihci-gibi-dusunmek',
@@ -265,6 +320,7 @@ const rotaVerisi = ROTALAR.map((rota) => ({
     dayaniklilik: 'toplumlar-neden-coker',
   };
   const amacAdi: Record<string, string> = {
+    baslangic: 'dört haftalık başlangıç çekirdeğini tamamlamak',
     bugun: 'bugünkü dünyayı anlamak', mekanizma: 'gücün işleyişini çözmek',
     dusunme: 'tarihçi gibi düşünmek', ekonomi: 'zenginlik ve eşitsizliği açıklamak',
     kanit: 'kanıtı daha iyi tartmak', dayaniklilik: 'toplumların kırılganlığını anlamak',
@@ -287,8 +343,11 @@ const rotaVerisi = ROTALAR.map((rota) => ({
     sayac('[data-sayac-seri]', ozet.seri);
     const tarih = document.querySelector<HTMLElement>('[data-bugun-tarih]');
     if (tarih) tarih.textContent = new Intl.DateTimeFormat('tr-TR', { weekday: 'long', day: 'numeric', month: 'long' }).format(new Date());
+    const programTamam = program.filter((asama) => durum.rotalar[asama.slug]?.tamamlandi).length;
     const profilOzeti = document.querySelector<HTMLElement>('[data-profil-ozeti]');
-    if (profilOzeti) profilOzeti.textContent = `Hedefin ${amacAdi[durum.profil.amac] || 'bağlam kurmak'}; günlük tempon ${durum.profil.tempo} dakika.`;
+    if (profilOzeti) profilOzeti.textContent = durum.profil.amac === 'baslangic'
+      ? `Başlangıç programında ${programTamam}/4 hafta tamamlandı; günlük tempon ${durum.profil.tempo} dakika.`
+      : `Hedefin ${amacAdi[durum.profil.amac] || 'bağlam kurmak'}; günlük tempon ${durum.profil.tempo} dakika.`;
 
     const tekrarListesi = document.querySelector<HTMLElement>('[data-tekrar-listesi]');
     const tekrarBos = document.querySelector<HTMLElement>('[data-tekrar-bos]');
@@ -301,30 +360,71 @@ const rotaVerisi = ROTALAR.map((rota) => ({
     }
     if (tekrarBos) tekrarBos.hidden = ozet.tekrarlar.length > 0;
 
-    const aktifSlug = durum.aktif.rota || durum.profil.baslangicRotasi;
-    const rota = rotalar.find((r) => r.slug === aktifSlug) || rotalar[0];
+    const programAsamasi = durum.profil.amac === 'baslangic'
+      ? program.find((asama) => !durum.rotalar[asama.slug]?.tamamlandi)
+      : undefined;
+    const aktifSlug = programAsamasi?.slug || (durum.profil.amac === 'baslangic' ? '' : durum.aktif.rota || durum.profil.baslangicRotasi);
+    const rota = rotalar.find((r) => r.slug === aktifSlug);
     const ilerleme = rotaIlerlemesi(durum, rota?.adimlar.map((a: any) => a.id) || []);
-    const siradaki = rota?.adimlar.find((a: any) => a.id === ilerleme.siradaki) || rota?.adimlar[0];
+    const siradaki = rota?.adimlar.find((a: any) => a.id === ilerleme.siradaki);
     const rotaBasladi = (durum.rotalar[rota?.slug]?.ilkCevap || '').trim().length >= 20;
     const kart = document.querySelector<HTMLElement>('[data-siradaki]');
-    if (kart && rota && siradaki) {
+    const aktifAciklama = document.querySelector<HTMLElement>('[data-aktif-aciklama]');
+    if (aktifAciklama) {
+      aktifAciklama.textContent = programAsamasi
+        ? `${programAsamasi.hafta}: ${programAsamasi.beceri}. Bugün yalnızca sıradaki durağa odaklan.`
+        : durum.profil.amac === 'baslangic'
+          ? 'Dört haftalık çekirdeği tamamladın; şimdi ilgine göre derinleşebilirsin.'
+          : 'Seçtiğin amaç ve önceki okumaların bir sonraki adımı belirler.';
+    }
+    if (kart && !rota && durum.profil.amac === 'baslangic') {
       kart.innerHTML = `
-        <span class="siradaki__ust">${rota.baslik} · ${ilerleme.tamam + 1}/${ilerleme.toplam} · ${siradaki.rol}</span>
+        <span class="siradaki__ust">Başlangıç çekirdeği · 4/4 hafta</span>
+        <h3>Artık rota seçebilecek bir zeminin var.</h3>
+        <p>Yöntem, güç, kanıt ve yakın dünya çekirdeğini tamamladın. Bundan sonra ilgine göre derinleşebilirsin.</p>
+        <a class="siradaki__eylem" href="${rotalarYolu}">Derinleşme rotalarını gör <span aria-hidden="true">→</span></a>`;
+    } else if (kart && rota && siradaki) {
+      kart.innerHTML = `
+        <span class="siradaki__ust">${programAsamasi ? `${programAsamasi.hafta} · ` : ''}${rota.baslik} · ${ilerleme.tamam + 1}/${ilerleme.toplam} · ${siradaki.rol}</span>
         <h3>${siradaki.baslik}</h3>
         <p>${siradaki.ozet}</p>
         <a class="siradaki__eylem" href="${rotaBasladi ? `${siradaki.yol}?rota=${rota.slug}` : rota.yol}">${rotaBasladi ? (ilerleme.tamam ? 'Kaldığın yerden devam et' : 'İlk durağa başla') : 'Önce ilk tahminini yap'} <span aria-hidden="true">→</span></a>`;
+    } else if (kart && rota) {
+      kart.innerHTML = `
+        <span class="siradaki__ust">${programAsamasi ? `${programAsamasi.hafta} · ` : ''}${rota.baslik} · ${ilerleme.toplam}/${ilerleme.toplam} durak</span>
+        <h3>Bu haftanın bağını kendi cümlenle kur.</h3>
+        <p>Okumaları tamamladın. İlk açıklamanla şimdiki açıklamanı karşılaştırıp rotayı kapat.</p>
+        <a class="siradaki__eylem" href="${rota.yol}#rota-sentezi">Haftayı tamamla <span aria-hidden="true">→</span></a>`;
     }
   }
+
+  const amacAlani = document.querySelector<HTMLElement>('[data-amac-alani]');
+  const tempoAdim = document.querySelector<HTMLElement>('[data-tempo-adim]');
+  const baslatDugmesi = document.querySelector<HTMLButtonElement>('[data-baslangic-formu] button[type="submit"]');
+
+  function baslangicFormunuBoya() {
+    const kip = document.querySelector<HTMLInputElement>('input[name="kip"]:checked')?.value || 'baslangic';
+    if (amacAlani) amacAlani.hidden = kip !== 'ozel';
+    if (tempoAdim) tempoAdim.textContent = kip === 'ozel' ? '03' : '02';
+    if (baslatDugmesi) baslatDugmesi.childNodes[0].textContent = kip === 'ozel' ? 'Rotamı başlat ' : 'İlk haftamı başlat ';
+  }
+
+  document.querySelectorAll<HTMLInputElement>('input[name="kip"]').forEach((secenek) => {
+    secenek.addEventListener('change', baslangicFormunuBoya);
+  });
 
   document.querySelector<HTMLFormElement>('[data-baslangic-formu]')?.addEventListener('submit', (olay) => {
     olay.preventDefault();
     const veri = new FormData(olay.currentTarget as HTMLFormElement);
-    const amac = String(veri.get('amac') || 'bugun');
+    const kip = String(veri.get('kip') || 'baslangic');
+    const amac = kip === 'baslangic' ? 'baslangic' : String(veri.get('amac') || 'bugun');
+    const baslangicRotasi = amacRotasi[amac] || 'tarihci-gibi-dusunmek';
     durum = profilKaydet(durum, {
       amac,
       tempo: Number(veri.get('tempo') || 20),
-      baslangicRotasi: amacRotasi[amac] || 'tarihci-gibi-dusunmek',
+      baslangicRotasi,
     });
+    durum.aktif.rota = baslangicRotasi;
     durum = durumYaz(durum);
     paneliBoya();
     gunluk?.scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -333,9 +433,17 @@ const rotaVerisi = ROTALAR.map((rota) => ({
   document.querySelector<HTMLButtonElement>('[data-profili-degistir]')?.addEventListener('click', () => {
     durum.profil.tamamlandi = false;
     durum = durumYaz(durum);
+    const kip = document.querySelector<HTMLInputElement>(`input[name="kip"][value="${durum.profil.amac === 'baslangic' ? 'baslangic' : 'ozel'}"]`);
+    if (kip) kip.checked = true;
+    const amac = document.querySelector<HTMLInputElement>(`input[name="amac"][value="${durum.profil.amac}"]`);
+    if (amac) amac.checked = true;
+    const tempo = document.querySelector<HTMLInputElement>(`input[name="tempo"][value="${durum.profil.tempo}"]`);
+    if (tempo) tempo.checked = true;
+    baslangicFormunuBoya();
     paneliBoya();
     karsilama?.scrollIntoView({ behavior: 'smooth', block: 'start' });
   });
 
+  baslangicFormunuBoya();
   paneliBoya();
 </script>

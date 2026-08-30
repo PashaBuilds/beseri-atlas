@@ -1,21 +1,60 @@
 ---
 import Temel from '../../layouts/Temel.astro';
-import { ROTALAR } from '../../lib/rotalar';
+import { BASLANGIC_PROGRAMI, ROTALAR } from '../../lib/rotalar';
 import { bag } from '../../lib/icerik';
 const cekirdekMakaleSayisi = ROTALAR.reduce((toplam, rota) => toplam + rota.adimlar.length, 0);
+const baslangicRotasi = BASLANGIC_PROGRAMI.map((asama) => ({
+  ...asama,
+  rota: ROTALAR.find((rota) => rota.slug === asama.slug)!,
+}));
 ---
 <Temel baslik="Öğrenme rotaları" ozet="Olguları ezberlemek yerine aralarındaki neden-sonuç bağını kurmak için tasarlanmış okuma rotaları.">
   <main id="ana" class="rotalar">
     <header class="rotalar__giris">
-      <p class="veri-etiket">Bir konu değil, bir düşünme becerisi seç</p>
-      <h1>Dünyayı parça parça değil,<br /><em>bağlantılarıyla</em> öğren.</h1>
+      <p class="veri-etiket">Tek başlangıç · sonra özgürce derinleş</p>
+      <h1>Sıfırdan başlıyorsan<br /><em>rota seçme.</em></h1>
       <p>
-        Her rota altı kısa duraktan oluşur: önce somut bir olay, aktör veya düşünür; sonra onu
-        açıklayan çerçeveler, en sonda cevabı açık bir tartışma. Sıra önemlidir;
-        çünkü bağlam, bilgiye sonradan eklenen bir dipnot değil, bilginin kendisidir.
+        Aşağıdaki dört haftalık sırayı izle. Önce tarihsel bir anlatıyı nasıl okuyacağını öğren;
+        sonra güç mekanizmasını ve kanıtı tart; en son bu araçlarla bugünkü dünyanın yakın
+        tarihini çöz. İlgi alanını bu çekirdekten sonra seç.
       </p>
       <p class="rotalar__guvence"><span aria-hidden="true">✓</span> {cekirdekMakaleSayisi} rota makalesinin tamamı çekirdek kalite kapısından geçti.</p>
     </header>
+
+    <section class="baslangic-yolu" aria-labelledby="baslangic-yolu-baslik">
+      <header>
+        <div>
+          <p class="veri-etiket">4 hafta · 24 kısa okuma</p>
+          <h2 id="baslangic-yolu-baslik">Başlangıç çekirdeği</h2>
+        </div>
+        <p>Her hafta altı kısa durak, ardından tek bir sentez. Günde 20 dakika yeter.</p>
+      </header>
+      <ol>
+        {baslangicRotasi.map((asama, i) => (
+          <li>
+            <a href={bag(`/rotalar/${asama.slug}/`)}>
+              <div class="baslangic-yolu__ust">
+                <span>0{i + 1}</span>
+                <small>{asama.hafta} · {asama.beceri}</small>
+              </div>
+              <h3>{asama.rota.baslik}</h3>
+              <p>{asama.gerekce}</p>
+              <strong>{asama.rota.sure} · {asama.rota.adimlar.length} durak <span aria-hidden="true">→</span></strong>
+            </a>
+          </li>
+        ))}
+      </ol>
+      <footer>
+        <p><strong>Günlük düzen:</strong> 2 dakika geri çağır · 15 dakika yeni okuma · 3 dakika kendi cümlenle anlat.</p>
+        <a href={`${bag('/bugun/')}?kur=baslangic`}>Programı benim için başlat <span aria-hidden="true">→</span></a>
+      </footer>
+    </section>
+
+    <div class="rotalar__tum-baslik">
+      <p class="veri-etiket">Belirli bir soruyla gelenler için</p>
+      <h2>Bütün konu rotaları</h2>
+      <p>Bunlar 01’den 10’a bitirilmesi gereken bir müfredat değil; çekirdekten sonra istediğin sırada açabileceğin bağımsız derinleşmelerdir.</p>
+    </div>
 
     <section class="rotalar__izgara" aria-label="Öğrenme rotaları">
       {ROTALAR.map((rota) => (
@@ -51,12 +90,35 @@ const cekirdekMakaleSayisi = ROTALAR.reduce((toplam, rota) => toplam + rota.adim
 
 <style>
   .rotalar { max-width: 78rem; margin: 0 auto; padding: 4.5rem 2rem 6rem; }
-  .rotalar__giris { max-width: 58rem; margin-bottom: 3.5rem; }
+  .rotalar__giris { max-width: 58rem; margin-bottom: 2.5rem; }
   .rotalar__giris h1 { font-size: clamp(2.65rem, 6.2vw, 5.4rem); line-height: .98; max-width: 18ch; margin: .7rem 0 1.35rem; }
   .rotalar__giris h1 em { color: var(--bakir); font-style: italic; font-weight: 520; }
-  .rotalar__giris > p:last-child { max-width: 62ch; color: var(--golge); font-size: 1.08rem; }
+  .rotalar__giris > p:not(.veri-etiket):not(.rotalar__guvence) { max-width: 62ch; color: var(--golge); font-size: 1.08rem; }
   .rotalar__giris .rotalar__guvence { display: flex; gap: .55rem; align-items: center; margin-top: 1rem; color: var(--bakir); font-family: var(--f-veri); font-size: .72rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; }
   .rotalar__guvence span { display: grid; place-items: center; width: 1.45rem; height: 1.45rem; border-radius: 50%; background: var(--bakir); color: var(--tabaka); }
+  .baslangic-yolu { margin: 0 0 4.5rem; border: 1px solid var(--cizgi); border-top: 4px solid var(--bakir); background: var(--bakir-zemin); }
+  .baslangic-yolu > header { display: grid; grid-template-columns: 1fr minmax(18rem, .65fr); gap: 3rem; align-items: end; padding: 1.6rem; border-bottom: 1px solid var(--cizgi); }
+  .baslangic-yolu h2 { margin: .3rem 0 0; font-size: clamp(2rem, 4vw, 3.2rem); }
+  .baslangic-yolu > header > p { max-width: 42ch; color: var(--golge); }
+  .baslangic-yolu ol { display: grid; grid-template-columns: repeat(4, 1fr); list-style: none; margin: 0; padding: 0; }
+  .baslangic-yolu li + li { border-left: 1px solid var(--cizgi); }
+  .baslangic-yolu li { min-width: 0; }
+  .baslangic-yolu li a { display: flex; flex-direction: column; min-height: 22rem; padding: 1.25rem; color: inherit; text-decoration: none; }
+  .baslangic-yolu li a:hover { background: color-mix(in srgb, var(--yuzey) 55%, transparent); }
+  .baslangic-yolu__ust { display: flex; justify-content: space-between; gap: 1rem; align-items: baseline; }
+  .baslangic-yolu__ust > span { color: var(--bakir); font-family: var(--f-display); font-size: 1.8rem; }
+  .baslangic-yolu__ust small { color: var(--golge); font-family: var(--f-veri); font-size: .59rem; font-weight: 600; letter-spacing: .07em; text-align: right; text-transform: uppercase; }
+  .baslangic-yolu h3 { margin: 2.8rem 0 .75rem; font-size: 1.5rem; }
+  .baslangic-yolu li p { color: var(--golge); font-size: .86rem; line-height: 1.55; }
+  .baslangic-yolu li strong { display: flex; justify-content: space-between; gap: 1rem; margin-top: auto; padding-top: 1rem; color: var(--bakir); border-top: 1px solid var(--cizgi-ince); font-family: var(--f-veri); font-size: .64rem; letter-spacing: .06em; text-transform: uppercase; }
+  .baslangic-yolu > footer { display: flex; justify-content: space-between; align-items: center; gap: 2rem; padding: 1.25rem 1.6rem; border-top: 1px solid var(--cizgi); }
+  .baslangic-yolu > footer p { color: var(--golge); font-size: .84rem; }
+  .baslangic-yolu > footer p strong { color: var(--murekkep); }
+  .baslangic-yolu > footer > a { flex: none; padding: .75rem 1rem; background: var(--murekkep); color: var(--tabaka); font-family: var(--f-veri); font-size: .67rem; font-weight: 600; letter-spacing: .07em; text-decoration: none; text-transform: uppercase; }
+  .rotalar__tum-baslik { display: grid; grid-template-columns: 1fr minmax(18rem, .7fr); gap: .3rem 3rem; align-items: end; margin-bottom: 1.4rem; }
+  .rotalar__tum-baslik .veri-etiket, .rotalar__tum-baslik h2 { grid-column: 1; }
+  .rotalar__tum-baslik h2 { margin: 0; font-size: clamp(1.8rem, 3vw, 2.5rem); }
+  .rotalar__tum-baslik > p:last-child { grid-column: 2; grid-row: 1 / 3; color: var(--golge); font-size: .86rem; }
   .rotalar__izgara { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1px; background: var(--cizgi); border: 1px solid var(--cizgi); }
   .rota-kart { --rota-renk: var(--bakir); min-height: 24rem; padding: 1.5rem; background: var(--yuzey); display: flex; flex-direction: column; position: relative; }
   .rota-kart--oksit { --rota-renk: var(--oksit); }
@@ -80,6 +142,14 @@ const cekirdekMakaleSayisi = ROTALAR.reduce((toplam, rota) => toplam + rota.adim
     .rotalar__izgara { grid-template-columns: 1fr; }
     .rota-kart { min-height: 22rem; }
     .rotalar__not { grid-template-columns: 1fr; gap: .7rem; }
+    .baslangic-yolu > header, .rotalar__tum-baslik { grid-template-columns: 1fr; gap: 1rem; }
+    .baslangic-yolu ol { grid-template-columns: 1fr; }
+    .baslangic-yolu li + li { border-left: 0; border-top: 1px solid var(--cizgi); }
+    .baslangic-yolu li a { min-height: 17rem; }
+    .baslangic-yolu h3 { margin-top: 1.8rem; }
+    .baslangic-yolu > footer { align-items: stretch; flex-direction: column; }
+    .baslangic-yolu > footer > a { text-align: center; }
+    .rotalar__tum-baslik .veri-etiket, .rotalar__tum-baslik h2, .rotalar__tum-baslik > p:last-child { grid-column: 1; grid-row: auto; }
   }
 </style>
 

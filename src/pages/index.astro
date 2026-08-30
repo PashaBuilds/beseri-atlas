@@ -1,7 +1,7 @@
 ---
 import Temel from '../layouts/Temel.astro';
 import { tumOnayliIcerik, yol, bag, tipAdi } from '../lib/icerik';
-import { ROTALAR } from '../lib/rotalar';
+import { BASLANGIC_PROGRAMI, ROTALAR } from '../lib/rotalar';
 import { MARKA } from '../lib/marka';
 
 const korpus = await tumOnayliIcerik();
@@ -22,6 +22,12 @@ const bugununKapilari = [
   { id: 'aktor-bm-guvenlik-konseyi', soru: 'Kurallar ile güç dağılımı çatışınca ne olur?' },
   { id: 'tartisma-aydinlanmanin-sinirlari', soru: 'Evrensel görünen bir fikir kimi dışarıda bırakır?' },
 ].map((x) => ({ ...x, makale: bul(x.id) })).filter((x) => x.makale);
+const baslangicRotalari = BASLANGIC_PROGRAMI.map((asama) => ({
+  ...asama,
+  rota: ROTALAR.find((rota) => rota.slug === asama.slug)!,
+}));
+const baslangicSluglari = new Set(BASLANGIC_PROGRAMI.map((asama) => asama.slug));
+const derinlesmeRotalari = ROTALAR.filter((rota) => !baslangicSluglari.has(rota.slug));
 ---
 <Temel baslik="Ana sayfa" ozet="Tarihi ezberlemek için değil, dünyayı bağlamıyla anlamak için tasarlanmış kaynaklı öğrenme sistemi.">
   <main id="ana">
@@ -77,13 +83,34 @@ const bugununKapilari = [
     <section class="ana-bolum ana-bolum--rotalar">
       <header class="bolum-baslik">
         <div>
-          <p class="veri-etiket">Nereden başlamak istersin?</p>
-          <h2>Bir merak seç. Büyük resme oradan gir.</h2>
+          <p class="veri-etiket">Sıfırdan başlayanlar için</p>
+          <h2>İlk dört haftan hazır.</h2>
         </div>
         <a href={bag('/rotalar/')}>Bütün rotalar <span aria-hidden="true">→</span></a>
       </header>
+      <div class="ana-baslangic">
+        <ol aria-label="Dört haftalık başlangıç programı">
+          {baslangicRotalari.map((asama, i) => (
+            <li>
+              <a href={bag(`/rotalar/${asama.slug}/`)}>
+                <span>0{i + 1}</span>
+                <small>{asama.hafta} · {asama.beceri}</small>
+                <strong>{asama.rota.baslik}</strong>
+              </a>
+            </li>
+          ))}
+        </ol>
+        <div>
+          <p><strong>Günde 20 dakika:</strong> hatırla, bir kısa okuma yap, kendi cümlenle anlat.</p>
+          <a class="dugme dugme--ana" href={`${bag('/bugun/')}?kur=baslangic`}>Sıfırdan başlat <span aria-hidden="true">→</span></a>
+        </div>
+      </div>
+      <div class="ana-derinlesme-baslik">
+        <p class="veri-etiket">Belirli bir sorunla geliyorsan</p>
+        <p>Bu bağımsız rotalara doğrudan girebilirsin; numaralar zorunlu okuma sırası değildir.</p>
+      </div>
       <div class="ana-rotalar">
-        {ROTALAR.map((rota) => (
+        {derinlesmeRotalari.map((rota) => (
           <a class:list={['ana-rota', `ana-rota--${rota.vurgu}`]} href={bag(`/rotalar/${rota.slug}/`)}
              data-rota-kisa data-adimlar={JSON.stringify(rota.adimlar.map((a) => a.id))}>
             <span class="ana-rota__no">{rota.no}</span>
@@ -190,6 +217,19 @@ const bugununKapilari = [
   .bolum-baslik { display: flex; justify-content: space-between; gap: 2rem; align-items: end; margin-bottom: 2rem; }
   .bolum-baslik h2 { max-width: 24ch; font-size: clamp(2rem, 4.5vw, 3.6rem); margin: .45rem 0 0; }
   .bolum-baslik > a, .zaman-kesiti__baslik > a, .ilke a { font-family: var(--f-veri); font-size: .72rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; text-decoration: none; }
+  .ana-baslangic { margin-bottom: 3.5rem; border: 1px solid var(--cizgi); border-top: 4px solid var(--bakir); background: var(--bakir-zemin); }
+  .ana-baslangic ol { display: grid; grid-template-columns: repeat(4, 1fr); list-style: none; margin: 0; padding: 0; }
+  .ana-baslangic li + li { border-left: 1px solid var(--cizgi); }
+  .ana-baslangic li a { display: grid; min-height: 10.5rem; padding: 1rem; color: inherit; text-decoration: none; }
+  .ana-baslangic li a:hover { background: color-mix(in srgb, var(--yuzey) 55%, transparent); }
+  .ana-baslangic li span { color: var(--bakir); font-family: var(--f-display); font-size: 1.45rem; }
+  .ana-baslangic li small { margin-top: 1.25rem; color: var(--golge); font-family: var(--f-veri); font-size: .59rem; font-weight: 600; letter-spacing: .07em; text-transform: uppercase; }
+  .ana-baslangic li strong { margin-top: .25rem; font-family: var(--f-display); font-size: 1.13rem; line-height: 1.25; }
+  .ana-baslangic > div { display: flex; justify-content: space-between; align-items: center; gap: 2rem; padding: 1.1rem; border-top: 1px solid var(--cizgi); }
+  .ana-baslangic > div p { color: var(--golge); font-size: .86rem; }
+  .ana-baslangic > div p strong { color: var(--murekkep); }
+  .ana-derinlesme-baslik { display: flex; justify-content: space-between; align-items: end; gap: 2rem; margin-bottom: 1rem; }
+  .ana-derinlesme-baslik > p:last-child { max-width: 52ch; color: var(--golge); font-size: .82rem; }
   .ana-rotalar { display: grid; grid-template-columns: repeat(2, 1fr); border: 1px solid var(--cizgi); }
   .ana-rota { --rota-renk: var(--bakir); display: grid; grid-template-columns: 2.6rem 1fr auto; gap: 1rem; min-height: 11.8rem; padding: 1.3rem; color: inherit; text-decoration: none; border-bottom: 1px solid var(--cizgi); background: var(--yuzey); }
   .ana-rota:nth-child(odd) { border-right: 1px solid var(--cizgi); }
@@ -241,6 +281,11 @@ const bugununKapilari = [
     .hero h1 { font-size: clamp(3rem, 15vw, 4.5rem); }
     .bolum-baslik { align-items: start; flex-direction: column; }
     .ana-rotalar { grid-template-columns: 1fr; }
+    .ana-baslangic ol { grid-template-columns: 1fr; }
+    .ana-baslangic li + li { border-left: 0; border-top: 1px solid var(--cizgi); }
+    .ana-baslangic li a { min-height: 8.5rem; }
+    .ana-baslangic > div, .ana-derinlesme-baslik { align-items: stretch; flex-direction: column; }
+    .ana-baslangic .dugme { align-self: start; }
     .ana-rota:nth-child(odd) { border-right: 0; }
     .ana-rota:nth-last-child(-n+2) { border-bottom: 1px solid var(--cizgi); }
     .ana-rota:last-child { border-bottom: 0; }
@@ -258,7 +303,7 @@ const bugununKapilari = [
 
 <script>
   import { durumOku, rotaIlerlemesi, ozetle } from '../lib/ogrenme-durumu.mjs';
-  import { ROTALAR } from '../lib/rotalar';
+  import { BASLANGIC_PROGRAMI, ROTALAR } from '../lib/rotalar';
 
   const durum: any = durumOku();
   document.querySelectorAll<HTMLElement>('[data-rota-kisa]').forEach((rota) => {
@@ -272,14 +317,22 @@ const bugununKapilari = [
   if (durum.profil.tamamlandi) {
     const devam = document.querySelector<HTMLElement>('[data-kisisel-devam]');
     const ozet = ozetle(durum);
-    const aktif = ROTALAR.find((r) => r.slug === durum.aktif.rota) || ROTALAR.find((r) => r.slug === durum.profil.baslangicRotasi);
+    const programdaSiradaki = durum.profil.amac === 'baslangic'
+      ? BASLANGIC_PROGRAMI.find((asama) => !durum.rotalar[asama.slug]?.tamamlandi)
+      : undefined;
+    const programBitti = durum.profil.amac === 'baslangic' && !programdaSiradaki;
+    const aktif = programBitti ? undefined : ROTALAR.find((r) => r.slug === programdaSiradaki?.slug)
+      || ROTALAR.find((r) => r.slug === durum.aktif.rota)
+      || ROTALAR.find((r) => r.slug === durum.profil.baslangicRotasi);
     const baslik = devam?.querySelector<HTMLElement>('[data-devam-baslik]');
     const aciklama = devam?.querySelector<HTMLElement>('[data-devam-aciklama]');
     if (baslik) baslik.textContent = ozet.tekrarlar.length
       ? `${ozet.tekrarlar.length} fikir yeniden hatırlanmayı bekliyor.`
+      : programBitti ? 'Başlangıç çekirdeğini tamamladın.'
       : aktif ? `${aktif.baslik} rotası seni bekliyor.` : 'Kaldığın yer hazır.';
     if (aciklama) aciklama.textContent = ozet.tekrarlar.length
       ? 'Önce kitaba bakmadan hatırla; ardından yeni durağa geç.'
+      : programBitti ? 'Şimdi ilgine göre bir derinleşme rotası seçebilirsin.'
       : 'Bugünkü tek anlamlı adımı gör ve öğrenme döngünü sürdür.';
     if (devam) devam.hidden = false;
     const anaEylem = document.querySelector<HTMLElement>('[data-ana-eylem]');

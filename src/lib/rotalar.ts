@@ -19,6 +19,47 @@ export type Rota = {
   adimlar: RotaAdimi[];
 };
 
+export type BaslangicAsamasi = {
+  slug: string;
+  hafta: string;
+  beceri: string;
+  gerekce: string;
+};
+
+/**
+ * Sıfırdan başlayan okur için tek varsayılan sıra.
+ *
+ * Bu program kronolojik bir “özet tarih” değildir. Önce okuma yöntemini,
+ * ardından taşınabilir bir açıklama mekanizmasını ve kanıt muhakemesini kurar;
+ * son hafta bu araçları yakın tarihin birbirine bağlı krizlerinde uygulatır.
+ */
+export const BASLANGIC_PROGRAMI: BaslangicAsamasi[] = [
+  {
+    slug: 'tarihci-gibi-dusunmek',
+    hafta: '1. hafta',
+    beceri: 'Anlatıyı çöz',
+    gerekce: 'Olgu, yorum, ölçek ve anakronizmi ayırmadan okunan her yeni bilgi ezbere dönüşür.',
+  },
+  {
+    slug: 'guc-nasil-kurulur',
+    hafta: '2. hafta',
+    beceri: 'Bir mekanizma kur',
+    gerekce: 'Farklı çağları birbirine bağlayan ilk açıklama aracın güç, meşruiyet ve kurum ilişkisi olsun.',
+  },
+  {
+    slug: 'kanit-ne-zaman-ikna-eder',
+    hafta: '3. hafta',
+    beceri: 'Kanıtı tart',
+    gerekce: 'Metin, sayı ve tanıklığın neyi gösterebildiğini; nerede sustuğunu ayrı ayrı sınamayı öğren.',
+  },
+  {
+    slug: 'bugunku-dunya-nasil-kuruldu',
+    hafta: '4. hafta',
+    beceri: 'Araçları birleştir',
+    gerekce: 'Kurduğun yöntemi 1929–1991 arasındaki kriz, kurum ve devrimleri birlikte açıklamak için kullan.',
+  },
+];
+
 /**
  * Korpusun kendisi bir arşivdir; rotalar ise öğrenme tasarımıdır.
  * Her rota olgudan kavrama, kavramdan tartışmaya ilerler. Böylece okur yalnız
