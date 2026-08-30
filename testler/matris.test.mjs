@@ -93,9 +93,23 @@ test('sadelestirici markdown vurgusunu siler', () => {
   assert.equal(cumleSadelestir('`kod` ve _vurgu_'), 'kod ve vurgu');
 });
 
-test('sadelestirici markdown bagini metnine indirger', () => {
+test('sadelestirici SITE ICI bagi tumuyle siler, DIS bagin metnini birakir', () => {
+  // BU SINAMA BAYATTI VE npm test'i KIRMIZI TUTUYORDU (2026-08-30'da
+  // yakalandi). Eski hali ic bagin METNININ kalmasini bekliyordu; oysa
+  // davranis bilerek degistirilmisti: iki hakem bagimsiz olarak, ic bag
+  // tasiyan bir cumlenin K-6 ile --eksik-iddia'yi AYNI ANDA gecemedigini
+  // olctu. iddiaCumleleri ic baglari siler (bag metni cogu zaman bir
+  // BASLIKTIR ve icindeki yil cumlenin iddiasi sanilir); sadelestirici de
+  // ayni seyi yapmak zorunda, yoksa iki taraf farkli metinleri karsilastirir
+  // ve korpus genelinde sessiz "kayan cumle" uretir.
+  //
+  // Ders: bir davranis bilerek degistirildiginde, onu donduran sinama da
+  // AYNI commit'te guncellenmeli. Yoksa yesil kalmasi gereken takim kirmizi
+  // kalir ve bir sure sonra kimse bakmaz.
   assert.equal(cumleSadelestir('bkz. [Sanayi Devrimi](/olay/sanayi-devrimi/) dosyasi'),
-    'bkz. Sanayi Devrimi dosyasi');
+    'bkz. dosyasi');
+  assert.equal(cumleSadelestir('bkz. [Persee kaydi](https://persee.fr/doc/x) sayfasi'),
+    'bkz. Persee kaydi sayfasi');
 });
 
 test('sadelestirici boslugu normallestirir', () => {
