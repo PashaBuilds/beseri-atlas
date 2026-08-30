@@ -12,14 +12,14 @@ const toplamKaynak = korpus.reduce((a: number, e: any) => a + e.data.kaynaklar.l
 
 const ornekBag = [
   { id: 'olay-sanayi-devrimi', rol: 'Dönüm noktası' },
-  { id: 'kavram-buyuk-ayrisma', rol: 'Karşılaştırma merceği' },
+  { id: 'kavram-ilkel-birikim', rol: 'Tartışmalı mekanizma' },
   { id: 'tartisma-sanayi-devrimi-neden-ingiltere', rol: 'Açık tartışma' },
 ].map((x) => ({ ...x, makale: bul(x.id) })).filter((x) => x.makale);
 
 const bugununKapilari = [
-  { id: 'olay-2008-finansal-krizi', soru: 'Finansal krizler neden sınır tanımaz?' },
-  { id: 'kavram-kuresellesme', soru: 'Küreselleşme gerçekten yeni mi?' },
-  { id: 'tartisma-nufus-artisi-tehdit-mi', soru: 'Nüfus artışı kaynakları tüketir mi?' },
+  { id: 'olay-buyuk-buhran', soru: 'Finansal bir çöküş siyaseti nasıl dönüştürür?' },
+  { id: 'aktor-bm-guvenlik-konseyi', soru: 'Kurallar ile güç dağılımı çatışınca ne olur?' },
+  { id: 'tartisma-aydinlanmanin-sinirlari', soru: 'Evrensel görünen bir fikir kimi dışarıda bırakır?' },
 ].map((x) => ({ ...x, makale: bul(x.id) })).filter((x) => x.makale);
 ---
 <Temel baslik="Ana sayfa" ozet="Tarihi ezberlemek için değil, dünyayı bağlamıyla anlamak için tasarlanmış kaynaklı öğrenme sistemi.">
@@ -35,8 +35,8 @@ const bugununKapilari = [
             yalnızca ne olduğunu değil, neden başka türlü de olabileceğini anlarsın.
           </p>
           <div class="hero__eylem">
-            <a class="dugme dugme--ana" href={bag('/rotalar/bugunku-dunya-nasil-kuruldu/')}>
-              İlk rotana başla <span aria-hidden="true">→</span>
+            <a class="dugme dugme--ana" href={bag('/bugun/')} data-ana-eylem>
+              Öğrenme yolunu kur <span aria-hidden="true">→</span>
             </a>
             <a class="dugme" href={bag('/zaman-seridi/')}>16 dönemi aynı anda gör</a>
           </div>
@@ -62,6 +62,15 @@ const bugununKapilari = [
           <p class="bag-gosterim__sonuc">Olay → kavram → tartışma. Ezber değil, açıklama.</p>
         </div>
       </div>
+    </section>
+
+    <section class="kisisel-devam" data-kisisel-devam hidden>
+      <div>
+        <p class="veri-etiket">Kişisel öğrenme yolun</p>
+        <h2 data-devam-baslik>Kaldığın yer hazır.</h2>
+        <p data-devam-aciklama>Bugünkü tekrarlarını ve sıradaki anlamlı durağını tek ekranda gör.</p>
+      </div>
+      <a class="dugme dugme--ana" href={bag('/bugun/')}>Bugünkü oturumu aç <span aria-hidden="true">→</span></a>
     </section>
 
     <section class="ana-bolum ana-bolum--rotalar">
@@ -173,6 +182,10 @@ const bugununKapilari = [
   .bag-dugum__ok { color: var(--bakir); opacity: 0; transform: translate(-.3rem, .3rem); transition: opacity var(--gecis), transform var(--gecis); }
   .bag-dugum:hover .bag-dugum__ok { opacity: 1; transform: none; }
   .ana-bolum { max-width: 78rem; margin: 0 auto; padding: 5rem 2rem; }
+  .kisisel-devam { max-width: 78rem; margin: 0 auto; padding: 1.4rem 2rem; border-bottom: 1px solid var(--cizgi); display: flex; justify-content: space-between; align-items: center; gap: 2rem; background: var(--bakir-zemin); }
+  .kisisel-devam[hidden] { display: none; }
+  .kisisel-devam h2 { margin: .25rem 0; font-size: 1.55rem; }
+  .kisisel-devam p:last-child { color: var(--golge); font-size: .9rem; }
   .bolum-baslik { display: flex; justify-content: space-between; gap: 2rem; align-items: end; margin-bottom: 2rem; }
   .bolum-baslik h2 { max-width: 24ch; font-size: clamp(2rem, 4.5vw, 3.6rem); margin: .45rem 0 0; }
   .bolum-baslik > a, .zaman-kesiti__baslik > a, .ilke a { font-family: var(--f-veri); font-size: .72rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; text-decoration: none; }
@@ -237,18 +250,38 @@ const bugununKapilari = [
     .bugun__izgara article + article { border-left: 0; padding-left: 0; }
     .bugun__izgara article > p { min-height: auto; }
     .ilke { margin-bottom: 4rem; padding: 3rem 1.15rem 0; grid-template-columns: 1fr; gap: 2rem; }
+    .kisisel-devam { padding: 1.2rem 1.15rem; align-items: stretch; flex-direction: column; }
+    .kisisel-devam .dugme { align-self: start; }
   }
 </style>
 
 <script>
-  const anahtar = 'baglam-okunanlar-v1';
-  let okunanlar: string[] = [];
-  try { okunanlar = JSON.parse(localStorage.getItem(anahtar) || '[]'); } catch {}
+  import { durumOku, rotaIlerlemesi, ozetle } from '../lib/ogrenme-durumu.mjs';
+  import { ROTALAR } from '../lib/rotalar';
+
+  const durum: any = durumOku();
   document.querySelectorAll<HTMLElement>('[data-rota-kisa]').forEach((rota) => {
     let adimlar: string[] = [];
     try { adimlar = JSON.parse(rota.dataset.adimlar || '[]'); } catch {}
-    const tamam = adimlar.filter((id) => okunanlar.includes(id)).length;
-    const durum = rota.querySelector<HTMLElement>('[data-rota-durum]');
-    if (durum && tamam) durum.textContent = `${tamam}/${adimlar.length} tamamlandı`;
+    const tamam = rotaIlerlemesi(durum, adimlar).tamam;
+    const durumEtiketi = rota.querySelector<HTMLElement>('[data-rota-durum]');
+    if (durumEtiketi && tamam) durumEtiketi.textContent = `${tamam}/${adimlar.length} tamamlandı`;
   });
+
+  if (durum.profil.tamamlandi) {
+    const devam = document.querySelector<HTMLElement>('[data-kisisel-devam]');
+    const ozet = ozetle(durum);
+    const aktif = ROTALAR.find((r) => r.slug === durum.aktif.rota) || ROTALAR.find((r) => r.slug === durum.profil.baslangicRotasi);
+    const baslik = devam?.querySelector<HTMLElement>('[data-devam-baslik]');
+    const aciklama = devam?.querySelector<HTMLElement>('[data-devam-aciklama]');
+    if (baslik) baslik.textContent = ozet.tekrarlar.length
+      ? `${ozet.tekrarlar.length} fikir yeniden hatırlanmayı bekliyor.`
+      : aktif ? `${aktif.baslik} rotası seni bekliyor.` : 'Kaldığın yer hazır.';
+    if (aciklama) aciklama.textContent = ozet.tekrarlar.length
+      ? 'Önce kitaba bakmadan hatırla; ardından yeni durağa geç.'
+      : 'Bugünkü tek anlamlı adımı gör ve öğrenme döngünü sürdür.';
+    if (devam) devam.hidden = false;
+    const anaEylem = document.querySelector<HTMLElement>('[data-ana-eylem]');
+    if (anaEylem) anaEylem.childNodes[0].textContent = 'Bugünkü oturuma dön ';
+  }
 </script>

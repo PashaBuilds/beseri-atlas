@@ -1,0 +1,327 @@
+---
+import Temel from '../layouts/Temel.astro';
+import { ROTALAR } from '../lib/rotalar';
+import { tumOnayliIcerik, yol, bag, tipAdi } from '../lib/icerik';
+
+const korpus = await tumOnayliIcerik();
+const harita = new Map(korpus.map((girdi: any) => [girdi.data.id, girdi]));
+const katalog = korpus.map((girdi: any) => ({
+  id: girdi.data.id,
+  baslik: girdi.data.baslik,
+  ozet: girdi.data.ozet,
+  tip: tipAdi(girdi.data.tip),
+  yol: yol(girdi.data.id),
+}));
+const rotaVerisi = ROTALAR.map((rota) => ({
+  slug: rota.slug,
+  baslik: rota.baslik,
+  soru: rota.soru,
+  ozet: rota.ozet,
+  sure: rota.sure,
+  yol: bag(`/rotalar/${rota.slug}/`),
+  adimlar: rota.adimlar.map((adim) => {
+    const girdi: any = harita.get(adim.id);
+    return {
+      id: adim.id,
+      rol: adim.rol,
+      baslik: girdi?.data.baslik ?? adim.id,
+      ozet: girdi?.data.ozet ?? '',
+      tip: girdi ? tipAdi(girdi.data.tip) : '',
+      yol: yol(adim.id),
+    };
+  }),
+}));
+---
+<Temel baslik="Bugün" ozet="Bugünkü öğrenme oturumun: geri çağır, yeni bir bağ kur ve doğru zamanda tekrar et.">
+  <main id="ana" class="bugun-sayfa"
+        data-katalog={JSON.stringify(katalog)} data-rotalar={JSON.stringify(rotaVerisi)}>
+    <section class="karsilama" data-karsilama>
+      <div class="karsilama__giris">
+        <p class="veri-etiket">Kişisel başlangıç · 90 saniye</p>
+        <h1>Bilgi toplamak değil,<br /><em>düşünme biçimi</em> kazanmak.</h1>
+        <p>
+          Bağlam sana yüzlerce seçenek göstermeden önce neyi anlamak istediğini ve
+          bugün ne kadar zamanın olduğunu sorar. Cevapların yalnızca bu cihazda kalır.
+        </p>
+      </div>
+
+      <form class="baslangic" data-baslangic-formu>
+        <fieldset>
+          <legend><span>01</span> Bu projeden en çok ne kazanmak istiyorsun?</legend>
+          <div class="secenekler secenekler--amac">
+            <label>
+              <input type="radio" name="amac" value="bugun" checked />
+              <strong>Bugünü daha iyi anlamak</strong>
+              <small>Devletlerin, sınırların ve kurumların nereden geldiğini görmek.</small>
+            </label>
+            <label>
+              <input type="radio" name="amac" value="mekanizma" />
+              <strong>Gücün nasıl işlediğini çözmek</strong>
+              <small>İtaat, vergi, bürokrasi ve meşruiyet arasındaki bağı kurmak.</small>
+            </label>
+            <label>
+              <input type="radio" name="amac" value="dusunme" />
+              <strong>Tarihçi gibi düşünmek</strong>
+              <small>Kanıtı, anlatıyı ve ikna edici görünen hataları ayırt etmek.</small>
+            </label>
+            <label>
+              <input type="radio" name="amac" value="ekonomi" />
+              <strong>Zenginlik ve eşitsizliği açıklamak</strong>
+              <small>Sanayileşmeyi, kapitalizmi ve küresel ayrışmayı birlikte okumak.</small>
+            </label>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend><span>02</span> Sıradan bir günde kaç dakika ayırabilirsin?</legend>
+          <div class="secenekler secenekler--tempo">
+            <label><input type="radio" name="tempo" value="10" /> <strong>10 dk</strong><small>Tek fikir</small></label>
+            <label><input type="radio" name="tempo" value="20" checked /> <strong>20 dk</strong><small>Dengeli</small></label>
+            <label><input type="radio" name="tempo" value="40" /> <strong>40 dk</strong><small>Derinleş</small></label>
+          </div>
+        </fieldset>
+
+        <div class="baslangic__son">
+          <p><strong>Sonuç:</strong> Sana tek bir sonraki adım göstereceğiz; bütün arşivi değil.</p>
+          <button type="submit">Öğrenme yolumu kur <span aria-hidden="true">→</span></button>
+        </div>
+      </form>
+    </section>
+
+    <section class="gunluk" data-gunluk hidden>
+      <header class="gunluk__giris">
+        <div>
+          <p class="veri-etiket" data-bugun-tarih>Bugünkü oturum</p>
+          <h1>Bugün tek bir<br /><em>bağ</em> kur.</h1>
+          <p data-gunluk-aciklama>Önce hatırla, sonra yeni bir fikir öğren, sonunda kendi cümlenle kapat.</p>
+        </div>
+        <dl class="gunluk__sayaclar" aria-live="polite">
+          <div><dt>Öğrenilen</dt><dd data-sayac-ogrenilen>0</dd></div>
+          <div><dt>Tekrar bekleyen</dt><dd data-sayac-tekrar>0</dd></div>
+          <div><dt>Günlük seri</dt><dd><span data-sayac-seri>0</span><small> gün</small></dd></div>
+        </dl>
+      </header>
+
+      <ol class="dongu" aria-label="Bugünkü doğal öğrenme döngüsü">
+        <li class="dongu__adim dongu__adim--hatirla">
+          <div class="dongu__no">01</div>
+          <div class="dongu__baslik">
+            <span class="veri-etiket">Geri çağır</span>
+            <h2>Dünkü bilgiyi kitaba bakmadan yokla.</h2>
+            <p>Hatırlamak için zorlanmak, yeniden okumaktan daha öğreticidir.</p>
+          </div>
+          <div class="dongu__icerik" data-tekrar-alani>
+            <p class="dongu__bos" data-tekrar-bos>Bugün bekleyen tekrar yok. Yeni bir bağ kurmaya geçebilirsin.</p>
+            <div class="tekrar-listesi" data-tekrar-listesi></div>
+          </div>
+        </li>
+
+        <li class="dongu__adim dongu__adim--ogren">
+          <div class="dongu__no">02</div>
+          <div class="dongu__baslik">
+            <span class="veri-etiket">Yeni bağ kur</span>
+            <h2 data-aktif-baslik>Sıradaki anlamlı durağın.</h2>
+            <p data-aktif-aciklama>Seçtiğin amaç ve önceki okumaların bir sonraki adımı belirler.</p>
+          </div>
+          <article class="siradaki" data-siradaki></article>
+        </li>
+
+        <li class="dongu__adim dongu__adim--anlat">
+          <div class="dongu__no">03</div>
+          <div class="dongu__baslik">
+            <span class="veri-etiket">Kendine anlat</span>
+            <h2>Metni kapat; düşünceyi kendi cümlenle yeniden kur.</h2>
+            <p>Makaleyi tamamladığında kısa geri çağırma alanı otomatik açılır.</p>
+          </div>
+          <div class="anlat-karti">
+            <p>“Bunu bir arkadaşıma iki cümlede nasıl açıklardım?”</p>
+            <small>Bir cümle olgu, bir cümle neden-sonuç bağı. Kaynağa ancak sonra dön.</small>
+          </div>
+        </li>
+
+        <li class="dongu__adim dongu__adim--tekrar">
+          <div class="dongu__no">04</div>
+          <div class="dongu__baslik">
+            <span class="veri-etiket">Doğru zamanda dön</span>
+            <h2>Unutmaya başladığında tekrar karşılaş.</h2>
+            <p>Bağlam tamamladığın her yazıyı 1, 3, 7, 14 ve 30 günlük aralıklarla geri getirir.</p>
+          </div>
+          <a class="deftere-git" href={bag('/defter/')}>Notlarını ve tekrar takvimini aç <span aria-hidden="true">→</span></a>
+        </li>
+      </ol>
+
+      <aside class="gunluk__ayar">
+        <div><strong>Bu plan sana göre kuruluyor.</strong><span data-profil-ozeti></span></div>
+        <button type="button" data-profili-degistir>Başlangıç tercihlerini değiştir</button>
+      </aside>
+    </section>
+  </main>
+</Temel>
+
+<style>
+  .bugun-sayfa { max-width: 78rem; margin: 0 auto; padding: 4rem 2rem 6rem; }
+  .karsilama__giris { display: grid; grid-template-columns: 1.2fr .8fr; gap: 4rem; align-items: end; padding-bottom: 3rem; border-bottom: 1px solid var(--cizgi); }
+  .karsilama h1, .gunluk__giris h1 { font-size: clamp(3.2rem, 7vw, 6.5rem); line-height: .94; margin: .5rem 0 0; }
+  .karsilama h1 em, .gunluk__giris h1 em { color: var(--bakir); font-style: italic; font-weight: 520; }
+  .karsilama__giris > p:last-child, .gunluk__giris > div > p:last-child { color: var(--golge); max-width: 52ch; }
+  .baslangic { padding-top: 3rem; }
+  .baslangic fieldset { border: 0; padding: 0; margin: 0 0 3rem; }
+  .baslangic legend { width: 100%; margin: 0 0 1rem; font-family: var(--f-display); font-size: 1.45rem; font-weight: 600; }
+  .baslangic legend span { display: inline-block; width: 2.7rem; color: var(--bakir); font-family: var(--f-veri); font-size: .74rem; }
+  .secenekler { display: grid; border: 1px solid var(--cizgi); }
+  .secenekler--amac { grid-template-columns: repeat(2, 1fr); }
+  .secenekler--tempo { grid-template-columns: repeat(3, 1fr); max-width: 38rem; }
+  .secenekler label { position: relative; display: grid; align-content: start; padding: 1.2rem 1.2rem 1.25rem 3.2rem; min-height: 8.5rem; background: var(--yuzey); cursor: pointer; }
+  .secenekler label:nth-child(odd) { border-right: 1px solid var(--cizgi); }
+  .secenekler--amac label:nth-child(-n+2) { border-bottom: 1px solid var(--cizgi); }
+  .secenekler--tempo label { min-height: 6.4rem; border-right: 1px solid var(--cizgi); }
+  .secenekler--tempo label:last-child { border-right: 0; }
+  .secenekler input { position: absolute; left: 1.15rem; top: 1.35rem; accent-color: var(--bakir); }
+  .secenekler label:has(input:checked) { background: var(--bakir-zemin); box-shadow: inset 0 0 0 1px var(--bakir); }
+  .secenekler strong { font-family: var(--f-display); font-size: 1.08rem; line-height: 1.3; }
+  .secenekler small { margin-top: .35rem; color: var(--golge); line-height: 1.5; }
+  .baslangic__son { display: flex; justify-content: space-between; align-items: center; gap: 2rem; padding-top: 1.5rem; border-top: 1px solid var(--cizgi); }
+  .baslangic__son p { color: var(--golge); font-size: .9rem; }
+  .baslangic__son button, .siradaki__eylem { display: inline-flex; align-items: center; gap: 1rem; min-height: 3.2rem; padding: .75rem 1rem; border: 0; background: var(--murekkep); color: var(--tabaka); font-family: var(--f-veri); font-size: .75rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; text-decoration: none; cursor: pointer; }
+  .gunluk__giris { display: grid; grid-template-columns: 1fr auto; gap: 4rem; align-items: end; padding-bottom: 3rem; }
+  .gunluk__sayaclar { display: flex; gap: 2.5rem; margin: 0; }
+  .gunluk__sayaclar dt { font-family: var(--f-veri); color: var(--golge); font-size: .62rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; }
+  .gunluk__sayaclar dd { margin: .25rem 0 0; font-family: var(--f-display); font-size: 2.2rem; line-height: 1; }
+  .gunluk__sayaclar dd small { font-family: var(--f-veri); font-size: .65rem; color: var(--golge); }
+  .dongu { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--cizgi); }
+  .dongu__adim { display: grid; grid-template-columns: 4rem minmax(17rem, .8fr) minmax(20rem, 1.2fr); gap: 2rem; padding: 2.5rem 0; border-bottom: 1px solid var(--cizgi); }
+  .dongu__no { font-family: var(--f-display); font-size: 2.3rem; line-height: 1; color: var(--bakir); }
+  .dongu__baslik h2 { margin: .35rem 0 .65rem; font-size: 1.7rem; }
+  .dongu__baslik p { color: var(--golge); font-size: .9rem; max-width: 43ch; }
+  .dongu__icerik { align-self: center; }
+  .dongu__bos { color: var(--golge); padding: 1.2rem; border: 1px dashed var(--cizgi); }
+  .tekrar-listesi { display: grid; gap: .55rem; }
+  .tekrar-karti { display: grid; grid-template-columns: 1fr auto; gap: .4rem 1rem; padding: .9rem 1rem; background: var(--yuzey); border-left: 3px solid var(--oksit); color: inherit; text-decoration: none; }
+  .tekrar-karti small { color: var(--oksit); font-family: var(--f-veri); font-size: .64rem; letter-spacing: .08em; text-transform: uppercase; }
+  .tekrar-karti strong { grid-column: 1; font-family: var(--f-display); }
+  .tekrar-karti span { grid-column: 2; grid-row: 1 / 3; align-self: center; color: var(--oksit); }
+  .siradaki { align-self: center; display: grid; grid-template-columns: 1fr auto; gap: .6rem 1.5rem; padding: 1.4rem; background: var(--yuzey); border: 1px solid var(--cizgi); border-top: 3px solid var(--bakir); }
+  .siradaki__ust { font-family: var(--f-veri); color: var(--bakir); font-size: .65rem; font-weight: 600; letter-spacing: .09em; text-transform: uppercase; }
+  .siradaki h3 { grid-column: 1; margin: 0; font-size: 1.55rem; }
+  .siradaki p { grid-column: 1; color: var(--golge); font-size: .9rem; }
+  .siradaki__eylem { grid-column: 2; grid-row: 1 / 4; align-self: center; }
+  .anlat-karti { align-self: center; padding: 1.4rem; background: var(--zincifre-zemin); border-left: 3px solid var(--zincifre); }
+  .anlat-karti p { font-family: var(--f-display); font-size: 1.35rem; line-height: 1.4; }
+  .anlat-karti small { color: var(--golge); }
+  .deftere-git { align-self: center; display: flex; justify-content: space-between; gap: 2rem; padding: 1.2rem; border: 1px solid var(--cizgi); font-family: var(--f-veri); font-size: .74rem; font-weight: 600; letter-spacing: .07em; text-transform: uppercase; text-decoration: none; }
+  .gunluk__ayar { display: flex; justify-content: space-between; gap: 2rem; margin-top: 2.5rem; padding: 1rem 0; color: var(--golge); font-size: .82rem; }
+  .gunluk__ayar > div { display: grid; }
+  .gunluk__ayar strong { color: var(--murekkep); }
+  .gunluk__ayar button { border: 0; background: transparent; color: var(--bakir); font: inherit; text-decoration: underline; cursor: pointer; }
+  @media (max-width: 850px) {
+    .bugun-sayfa { padding: 3rem 1.15rem 4rem; }
+    .karsilama__giris, .gunluk__giris { grid-template-columns: 1fr; gap: 1.5rem; }
+    .dongu__adim { grid-template-columns: 3rem 1fr; gap: 1rem; }
+    .dongu__icerik, .siradaki, .anlat-karti, .deftere-git { grid-column: 2; }
+  }
+  @media (max-width: 620px) {
+    .secenekler--amac, .secenekler--tempo { grid-template-columns: 1fr; }
+    .secenekler label, .secenekler label:nth-child(odd), .secenekler--tempo label { border: 0; border-bottom: 1px solid var(--cizgi); }
+    .secenekler label:last-child { border-bottom: 0; }
+    .baslangic__son, .gunluk__ayar { align-items: stretch; flex-direction: column; }
+    .gunluk__sayaclar { gap: 1.4rem; justify-content: space-between; }
+    .dongu__adim { grid-template-columns: 2rem 1fr; }
+    .dongu__no { font-size: 1.45rem; }
+    .siradaki { grid-template-columns: 1fr; }
+    .siradaki__eylem { grid-column: 1; grid-row: auto; justify-self: start; }
+  }
+</style>
+
+<script>
+  import { durumOku, durumYaz, profilKaydet, rotaIlerlemesi, ozetle } from '../lib/ogrenme-durumu.mjs';
+
+  const kok = document.querySelector<HTMLElement>('.bugun-sayfa');
+  const karsilama = document.querySelector<HTMLElement>('[data-karsilama]');
+  const gunluk = document.querySelector<HTMLElement>('[data-gunluk]');
+  let durum: any = durumOku();
+  let katalog: any[] = [];
+  let rotalar: any[] = [];
+  try { katalog = JSON.parse(kok?.dataset.katalog || '[]'); } catch {}
+  try { rotalar = JSON.parse(kok?.dataset.rotalar || '[]'); } catch {}
+  const makale = new Map(katalog.map((x) => [x.id, x]));
+
+  const amacRotasi: Record<string, string> = {
+    bugun: 'bugunku-dunya-nasil-kuruldu',
+    mekanizma: 'guc-nasil-kurulur',
+    dusunme: 'tarihci-gibi-dusunmek',
+    ekonomi: 'zenginlik-neden-birikir',
+  };
+  const amacAdi: Record<string, string> = {
+    bugun: 'bugünkü dünyayı anlamak', mekanizma: 'gücün işleyişini çözmek',
+    dusunme: 'tarihçi gibi düşünmek', ekonomi: 'zenginlik ve eşitsizliği açıklamak',
+  };
+
+  function sayac(selector: string, deger: string | number) {
+    const el = document.querySelector<HTMLElement>(selector);
+    if (el) el.textContent = String(deger);
+  }
+
+  function paneliBoya() {
+    const hazir = durum.profil.tamamlandi;
+    if (karsilama) karsilama.hidden = hazir;
+    if (gunluk) gunluk.hidden = !hazir;
+    if (!hazir) return;
+
+    const ozet = ozetle(durum);
+    sayac('[data-sayac-ogrenilen]', ozet.tamamlanan);
+    sayac('[data-sayac-tekrar]', ozet.tekrarlar.length);
+    sayac('[data-sayac-seri]', ozet.seri);
+    const tarih = document.querySelector<HTMLElement>('[data-bugun-tarih]');
+    if (tarih) tarih.textContent = new Intl.DateTimeFormat('tr-TR', { weekday: 'long', day: 'numeric', month: 'long' }).format(new Date());
+    const profilOzeti = document.querySelector<HTMLElement>('[data-profil-ozeti]');
+    if (profilOzeti) profilOzeti.textContent = `Hedefin ${amacAdi[durum.profil.amac] || 'bağlam kurmak'}; günlük tempon ${durum.profil.tempo} dakika.`;
+
+    const tekrarListesi = document.querySelector<HTMLElement>('[data-tekrar-listesi]');
+    const tekrarBos = document.querySelector<HTMLElement>('[data-tekrar-bos]');
+    if (tekrarListesi) {
+      tekrarListesi.innerHTML = ozet.tekrarlar.slice(0, Math.max(1, Math.round(durum.profil.tempo / 10))).map((id) => {
+        const m = makale.get(id);
+        if (!m) return '';
+        return `<a class="tekrar-karti" href="${m.yol}?tekrar=1"><small>${m.tip} · geri çağır</small><strong>${m.baslik}</strong><span aria-hidden="true">→</span></a>`;
+      }).join('');
+    }
+    if (tekrarBos) tekrarBos.hidden = ozet.tekrarlar.length > 0;
+
+    const aktifSlug = durum.aktif.rota || durum.profil.baslangicRotasi;
+    const rota = rotalar.find((r) => r.slug === aktifSlug) || rotalar[0];
+    const ilerleme = rotaIlerlemesi(durum, rota?.adimlar.map((a: any) => a.id) || []);
+    const siradaki = rota?.adimlar.find((a: any) => a.id === ilerleme.siradaki) || rota?.adimlar[0];
+    const rotaBasladi = (durum.rotalar[rota?.slug]?.ilkCevap || '').trim().length >= 20;
+    const kart = document.querySelector<HTMLElement>('[data-siradaki]');
+    if (kart && rota && siradaki) {
+      kart.innerHTML = `
+        <span class="siradaki__ust">${rota.baslik} · ${ilerleme.tamam + 1}/${ilerleme.toplam} · ${siradaki.rol}</span>
+        <h3>${siradaki.baslik}</h3>
+        <p>${siradaki.ozet}</p>
+        <a class="siradaki__eylem" href="${rotaBasladi ? `${siradaki.yol}?rota=${rota.slug}` : rota.yol}">${rotaBasladi ? (ilerleme.tamam ? 'Kaldığın yerden devam et' : 'İlk durağa başla') : 'Önce ilk tahminini yap'} <span aria-hidden="true">→</span></a>`;
+    }
+  }
+
+  document.querySelector<HTMLFormElement>('[data-baslangic-formu]')?.addEventListener('submit', (olay) => {
+    olay.preventDefault();
+    const veri = new FormData(olay.currentTarget as HTMLFormElement);
+    const amac = String(veri.get('amac') || 'bugun');
+    durum = profilKaydet(durum, {
+      amac,
+      tempo: Number(veri.get('tempo') || 20),
+      baslangicRotasi: amacRotasi[amac] || 'tarihci-gibi-dusunmek',
+    });
+    durum = durumYaz(durum);
+    paneliBoya();
+    gunluk?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
+
+  document.querySelector<HTMLButtonElement>('[data-profili-degistir]')?.addEventListener('click', () => {
+    durum.profil.tamamlandi = false;
+    durum = durumYaz(durum);
+    paneliBoya();
+    karsilama?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
+
+  paneliBoya();
+</script>

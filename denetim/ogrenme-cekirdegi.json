@@ -1,0 +1,262 @@
+{
+  "surum": 1,
+  "kapi": "KAPI 20 — öğrenme çekirdeği (rota + makale kalitesi)",
+  "rota": 6,
+  "adim": 36,
+  "tekrar": 0,
+  "ortalama": 10,
+  "ayrinti": [
+    {
+      "id": "aktor-avam-kamarasi",
+      "puan": 10,
+      "kelime": 1262,
+      "kaynak": 7,
+      "alan": 3
+    },
+    {
+      "id": "kavram-goksel-yetki",
+      "puan": 10,
+      "kelime": 890,
+      "kaynak": 7,
+      "alan": 4
+    },
+    {
+      "id": "dusunur-weber",
+      "puan": 10,
+      "kelime": 1736,
+      "kaynak": 9,
+      "alan": 4
+    },
+    {
+      "id": "kavram-ideal-tip",
+      "puan": 10,
+      "kelime": 619,
+      "kaynak": 5,
+      "alan": 4
+    },
+    {
+      "id": "aktor-bm-guvenlik-konseyi",
+      "puan": 10,
+      "kelime": 1343,
+      "kaynak": 8,
+      "alan": 4
+    },
+    {
+      "id": "tartisma-imparatorluk-siniri-nasil-cizilir",
+      "puan": 10,
+      "kelime": 1514,
+      "kaynak": 9,
+      "alan": 4
+    },
+    {
+      "id": "aktor-hollanda-doguhindistan-sirketi",
+      "puan": 10,
+      "kelime": 1750,
+      "kaynak": 7,
+      "alan": 7
+    },
+    {
+      "id": "olay-atlantik-kole-ticareti",
+      "puan": 10,
+      "kelime": 2000,
+      "kaynak": 15,
+      "alan": 8
+    },
+    {
+      "id": "olay-sanayi-devrimi",
+      "puan": 10,
+      "kelime": 2011,
+      "kaynak": 12,
+      "alan": 4
+    },
+    {
+      "id": "kavram-ilkel-birikim",
+      "puan": 10,
+      "kelime": 916,
+      "kaynak": 7,
+      "alan": 4
+    },
+    {
+      "id": "dusunur-marx",
+      "puan": 10,
+      "kelime": 1221,
+      "kaynak": 8,
+      "alan": 4
+    },
+    {
+      "id": "tartisma-sanayi-devrimi-neden-ingiltere",
+      "puan": 10,
+      "kelime": 1752,
+      "kaynak": 13,
+      "alan": 6
+    },
+    {
+      "id": "olay-kirim-savasi",
+      "puan": 10,
+      "kelime": 1972,
+      "kaynak": 9,
+      "alan": 7
+    },
+    {
+      "id": "kavram-seferberlik",
+      "puan": 10,
+      "kelime": 863,
+      "kaynak": 5,
+      "alan": 3
+    },
+    {
+      "id": "aktor-varsova-pakti",
+      "puan": 10,
+      "kelime": 1808,
+      "kaynak": 12,
+      "alan": 5
+    },
+    {
+      "id": "olay-uzay-yarisi",
+      "puan": 10,
+      "kelime": 1863,
+      "kaynak": 7,
+      "alan": 4
+    },
+    {
+      "id": "olay-berlin-duvarinin-yikilisi",
+      "puan": 10,
+      "kelime": 1884,
+      "kaynak": 9,
+      "alan": 6
+    },
+    {
+      "id": "tartisma-soguk-savasin-baslangici",
+      "puan": 10,
+      "kelime": 1506,
+      "kaynak": 11,
+      "alan": 4
+    },
+    {
+      "id": "dusunur-locke",
+      "puan": 10,
+      "kelime": 1737,
+      "kaynak": 10,
+      "alan": 5
+    },
+    {
+      "id": "dusunur-montesquieu",
+      "puan": 10,
+      "kelime": 1997,
+      "kaynak": 14,
+      "alan": 7
+    },
+    {
+      "id": "dusunur-bentham",
+      "puan": 10,
+      "kelime": 1637,
+      "kaynak": 7,
+      "alan": 4
+    },
+    {
+      "id": "dusunur-mill",
+      "puan": 10,
+      "kelime": 1764,
+      "kaynak": 9,
+      "alan": 4
+    },
+    {
+      "id": "dusunur-foucault",
+      "puan": 10,
+      "kelime": 1992,
+      "kaynak": 14,
+      "alan": 5
+    },
+    {
+      "id": "tartisma-aydinlanmanin-sinirlari",
+      "puan": 10,
+      "kelime": 1517,
+      "kaynak": 12,
+      "alan": 7
+    },
+    {
+      "id": "olay-buyuk-buhran",
+      "puan": 10,
+      "kelime": 1643,
+      "kaynak": 8,
+      "alan": 6
+    },
+    {
+      "id": "aktor-imf",
+      "puan": 10,
+      "kelime": 1304,
+      "kaynak": 7,
+      "alan": 5
+    },
+    {
+      "id": "olay-kultur-devrimi",
+      "puan": 10,
+      "kelime": 1905,
+      "kaynak": 12,
+      "alan": 4
+    },
+    {
+      "id": "aktor-baglantisizlar-hareketi",
+      "puan": 10,
+      "kelime": 1994,
+      "kaynak": 9,
+      "alan": 5
+    },
+    {
+      "id": "olay-iran-devrimi-1979",
+      "puan": 10,
+      "kelime": 1746,
+      "kaynak": 9,
+      "alan": 7
+    },
+    {
+      "id": "tartisma-kalkinma-neden-basarisiz",
+      "puan": 10,
+      "kelime": 1515,
+      "kaynak": 11,
+      "alan": 3
+    },
+    {
+      "id": "olay-1857-hint-ayaklanmasi",
+      "puan": 10,
+      "kelime": 1995,
+      "kaynak": 13,
+      "alan": 5
+    },
+    {
+      "id": "kavram-olay-tarihi",
+      "puan": 10,
+      "kelime": 958,
+      "kaynak": 7,
+      "alan": 4
+    },
+    {
+      "id": "dusunur-carr",
+      "puan": 10,
+      "kelime": 1554,
+      "kaynak": 9,
+      "alan": 4
+    },
+    {
+      "id": "dusunur-braudel",
+      "puan": 10,
+      "kelime": 1610,
+      "kaynak": 9,
+      "alan": 5
+    },
+    {
+      "id": "kavram-anakronizm",
+      "puan": 10,
+      "kelime": 902,
+      "kaynak": 7,
+      "alan": 4
+    },
+    {
+      "id": "tartisma-karsi-olgusal-tarih",
+      "puan": 10,
+      "kelime": 1614,
+      "kaynak": 12,
+      "alan": 7
+    }
+  ]
+}

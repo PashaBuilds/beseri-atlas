@@ -86,7 +86,7 @@ kaynaklar:
     dogrulama_dizesi: "it may choose to abstain"
     not: "Antlaşma metni değil, Konsey sekretaryasının kendi usul anlatımıdır; çekimser oyun veto sayılmaması bu anlatıya dayanır"
 son_denetim: 2026-08-30
-denetim_durumu: bekliyor
+denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 

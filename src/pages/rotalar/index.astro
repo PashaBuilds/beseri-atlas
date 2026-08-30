@@ -9,10 +9,11 @@ import { bag } from '../../lib/icerik';
       <p class="veri-etiket">Bir konu değil, bir düşünme becerisi seç</p>
       <h1>Dünyayı parça parça değil,<br /><em>bağlantılarıyla</em> öğren.</h1>
       <p>
-        Her rota altı kısa duraktan oluşur: önce bir olgu ya da kavram, sonra onu
+        Her rota altı kısa duraktan oluşur: önce somut bir olay, aktör veya düşünür; sonra onu
         açıklayan çerçeveler, en sonda cevabı açık bir tartışma. Sıra önemlidir;
         çünkü bağlam, bilgiye sonradan eklenen bir dipnot değil, bilginin kendisidir.
       </p>
+      <p class="rotalar__guvence"><span aria-hidden="true">✓</span> 36 rota makalesinin tamamı çekirdek kalite kapısından geçti.</p>
     </header>
 
     <section class="rotalar__izgara" aria-label="Öğrenme rotaları">
@@ -53,6 +54,8 @@ import { bag } from '../../lib/icerik';
   .rotalar__giris h1 { font-size: clamp(2.65rem, 6.2vw, 5.4rem); line-height: .98; max-width: 18ch; margin: .7rem 0 1.35rem; }
   .rotalar__giris h1 em { color: var(--bakir); font-style: italic; font-weight: 520; }
   .rotalar__giris > p:last-child { max-width: 62ch; color: var(--golge); font-size: 1.08rem; }
+  .rotalar__giris .rotalar__guvence { display: flex; gap: .55rem; align-items: center; margin-top: 1rem; color: var(--bakir); font-family: var(--f-veri); font-size: .72rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; }
+  .rotalar__guvence span { display: grid; place-items: center; width: 1.45rem; height: 1.45rem; border-radius: 50%; background: var(--bakir); color: var(--tabaka); }
   .rotalar__izgara { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1px; background: var(--cizgi); border: 1px solid var(--cizgi); }
   .rota-kart { --rota-renk: var(--bakir); min-height: 24rem; padding: 1.5rem; background: var(--yuzey); display: flex; flex-direction: column; position: relative; }
   .rota-kart--oksit { --rota-renk: var(--oksit); }
@@ -80,13 +83,12 @@ import { bag } from '../../lib/icerik';
 </style>
 
 <script>
-  const anahtar = 'baglam-okunanlar-v1';
-  let okunanlar: string[] = [];
-  try { okunanlar = JSON.parse(localStorage.getItem(anahtar) || '[]'); } catch {}
+  import { durumOku, rotaIlerlemesi } from '../../lib/ogrenme-durumu.mjs';
+  const durum: any = durumOku();
   document.querySelectorAll<HTMLElement>('[data-rota-kart]').forEach((kart) => {
     let adimlar: string[] = [];
     try { adimlar = JSON.parse(kart.dataset.adimlar || '[]'); } catch {}
-    const tamam = adimlar.filter((id) => okunanlar.includes(id)).length;
+    const tamam = rotaIlerlemesi(durum, adimlar).tamam;
     const alan = kart.querySelector<HTMLElement>('[data-rota-ilerleme]');
     if (alan) alan.textContent = `${tamam} / ${adimlar.length} durak`;
   });

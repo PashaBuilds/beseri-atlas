@@ -62,11 +62,38 @@ const hakemYuzde = korpus.length ? Math.round((katman.hakemli / korpus.length) *
 const ortKaynak = korpus.length
   ? (korpus.reduce((a: number, e: any) => a + e.data.kaynaklar.length, 0) / korpus.length).toFixed(1)
   : '0';
+// `npm run build` önce KAPI 20'yi çalıştırır. Sonraki çıktı kapıları genel
+// sonuç dosyasını değiştirdiği için bu ölçüm, yalnız KAPI 20 geçtiğinde
+// yenilenen kendi kalıcı kaydından okunur.
+const cekirdekYolu = path.join(process.cwd(), 'denetim', 'ogrenme-cekirdegi.json');
+const cekirdek = fs.existsSync(cekirdekYolu)
+  ? JSON.parse(fs.readFileSync(cekirdekYolu, 'utf8'))
+  : { adim: 0, rota: 0, ortalama: 0 };
 ---
 <Temel baslik="Hakkında" ozet="Bu atlasın nasıl üretildiği, nasıl denetlendiği ve hata payı.">
   <main id="ana" class="hk">
     <p class="veri-etiket">Yöntem ve hata payı</p>
     <h1>Hakkında</h1>
+
+    <section class="cekirdek" aria-labelledby="cekirdek-baslik">
+      <div>
+        <p class="veri-etiket">Önerilen öğrenme çekirdeği</p>
+        <h2 id="cekirdek-baslik">Arşiv ile öğrenme yolu aynı güven düzeyiymiş gibi sunulmaz.</h2>
+        <p>
+          “Bugün” ekranı ve altı rota yalnızca sıkı çekirdek kapısını geçen
+          <strong>{cekirdek.adim} benzersiz makaleyi</strong> önerir. Her biri türüne ait
+          derinlik hedefini, en az beş kaynak ve üç bağımsız alan adını, doğal dil
+          taramasını ve güncel kör-hakemli iddia–kaynak matrisini birlikte geçmiştir.
+          Beş yüzü aşkın makalelik arşiv araştırma alanıdır; öneri motoru, henüz aynı
+          düzeye çıkmamış bir dosyayı öğrenme yoluna sokmaz.
+        </p>
+      </div>
+      <dl>
+        <div><dt>Çekirdek puanı</dt><dd>{cekirdek.ortalama.toFixed(1)}<small>/10</small></dd></div>
+        <div><dt>Geçen makale</dt><dd>{cekirdek.adim}<small>/{cekirdek.adim}</small></dd></div>
+        <div><dt>Öğrenme rotası</dt><dd>{cekirdek.rota}<small>rota</small></dd></div>
+      </dl>
+    </section>
 
     <section class="beyan" aria-labelledby="beyan-baslik">
       <h2 id="beyan-baslik">Güvenilirlik beyanı</h2>
@@ -196,6 +223,14 @@ const ortKaynak = korpus.length
 <style>
   .hk { max-width: 44rem; margin: 0 auto; padding: 2.5rem 2rem 6rem; }
   .hk h2 { font-size: 1.32rem; }
+  .cekirdek { margin: 2rem 0 2.5rem; padding: 1.4rem; border: 1px solid var(--bakir); background: var(--bakir-zemin); }
+  .cekirdek h2 { margin: .35rem 0 .75rem; }
+  .cekirdek p { color: var(--golge); font-size: .92rem; }
+  .cekirdek dl { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; margin: 1.2rem 0 0; background: var(--cizgi); border: 1px solid var(--cizgi); }
+  .cekirdek dl div { padding: .8rem; background: var(--yuzey); }
+  .cekirdek dt { font-family: var(--f-veri); font-size: .62rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--golge); }
+  .cekirdek dd { margin: .25rem 0 0; font-family: var(--f-display); font-size: 1.9rem; line-height: 1; }
+  .cekirdek dd small { margin-left: .2rem; font-family: var(--f-veri); font-size: .68rem; color: var(--golge); }
   .beyan { margin: 2rem 0 2.5rem; padding: 1.35rem 1.5rem; background: var(--yuzey); border: 1px solid var(--cizgi); border-inline-start: 3px double var(--zincifre); border-radius: 0 var(--yuvarlak-buyuk) var(--yuvarlak-buyuk) 0; }
   .beyan h2 { margin-top: 0; font-size: 1.15rem; }
   .beyan__vurgu { margin-bottom: 0; }
@@ -208,4 +243,5 @@ const ortKaynak = korpus.length
   .gecmis { list-style: none; padding: 0; font-size: .9rem; }
   .gecmis li { padding: .25rem 0; border-bottom: 1px solid var(--cizgi-ince); }
   @media (max-width: 900px) { .hk { padding-inline: 1.15rem; } }
+  @media (max-width: 560px) { .cekirdek dl { grid-template-columns: 1fr; } }
 </style>

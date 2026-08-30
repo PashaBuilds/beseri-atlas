@@ -153,7 +153,7 @@ tarihsel dönemlerde farklı davrandığını savunarak, insan doğasında kalı
 ortaklıklar bulunduğunu ve geçmişin aktörlerini kendi deneyimimizden hareketle
 anlayabileceğimizi kabul eden görüşün karşısına geçti.[^k1] Anakronizm ölçütü,
 kaynağın Herder'e bağladığı bu tarihselci damarın mirasçısı olarak okunabilir; bağı
-kaynak kurmaz, çıkarım bu dosyanındır. Ölçütün kendisi de böylece belirli bir
+kaynak kurmaz; bu bağ, iki metnin birlikte okunmasından çıkan bir yorumdur. Ölçütün kendisi de böylece belirli bir
 dönemin ürünü çıkar.
 
 ## Nerede yanıltır
@@ -187,7 +187,7 @@ Roma İmparatorluğu kılığına sokar, 1848 ise 1789'u ve 1793-95'in devrimci
 geleneğini taklit etmekten öteye gidemez.[^k3] Böyle bir metinde Roma'ya
 yapılan gönderme bir anakronizm değil, açıklanması gereken veridir.
 
-## Atlasta işleyen biçimi
+## Bir okuma denetimi olarak anakronizm
 
 Kavram burada bir denetim adımı olarak çalışır: bir makalenin kapsadığı
 dönemden sonra doğmuş kavramlar işaretlenir, işaretlenen ifade ya dönemin
@@ -207,4 +207,3 @@ yasak değil, kullandığını gizlemek yasaktır. Valla'nın belgeyi tarihten d
 hamlesi ile Marx'ın kendi terimine sözde ön ekini takması aynı yükümlülüğün iki
 ucudur: birincisi adı tarihe karşı sınar, ikincisi adın tarihe sonradan
 konduğunu itiraf eder.[^k2][^k4]
-

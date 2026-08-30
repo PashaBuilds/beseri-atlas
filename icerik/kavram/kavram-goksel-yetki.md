@@ -115,8 +115,8 @@ Bu köken, kaynak sorununu da beraberinde getirir. Legge'nin çevirisinin giriş
 bölümü Belgeler Kitabı'nın bölümlerini güvenilirlik bakımından ayırır: Thang
 ile Yü kitaplarını açıkça sonradan derlenmiş ve efsanevi sayar, ama aynı yerde
 onları eski belgelere dayandırır ve Yao, Shun ile Yü'yü tarihsel kişiler
-olarak kaydeder.[^k1] Bu dosyanın dayandığı doğrudan tanıklık, Zhou'nun kendi
-bildirileridir.
+olarak kaydeder.[^k1] Burada doğrudan tanıklık olarak Zhou'nun kendi
+bildirileri kullanılır.
 
 ## Mengzi: gerekçeden hakka
 

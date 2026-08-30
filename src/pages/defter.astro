@@ -4,21 +4,41 @@ import { ROTALAR } from '../lib/rotalar';
 import { tumOnayliIcerik, yol, bag, tipAdi } from '../lib/icerik';
 
 const korpus = await tumOnayliIcerik();
-const makaleler = [...korpus].sort((a: any, b: any) => a.data.baslik.localeCompare(b.data.baslik, 'tr'));
+const katalog = [...korpus]
+  .sort((a: any, b: any) => a.data.baslik.localeCompare(b.data.baslik, 'tr'))
+  .map((girdi: any) => ({ id: girdi.data.id, baslik: girdi.data.baslik, tip: tipAdi(girdi.data.tip), yol: yol(girdi.data.id) }));
 ---
 <Temel baslik="Defterim" ozet="Okuduğun makaleler ve öğrenme rotalarındaki kişisel ilerlemen.">
-  <main id="ana" class="defter">
+  <main id="ana" class="defter" data-katalog={JSON.stringify(katalog)}>
     <header class="defter__giris">
       <div>
         <p class="veri-etiket">Yalnızca bu cihazda</p>
         <h1>Defterim</h1>
-        <p>Okuduklarını saymak için değil, düşünme yolunun nereden geçtiğini görmek için.</p>
+        <p>Ne okuduğunu değil; neyi hatırladığını, nerede fikrini değiştirdiğini ve ne zaman tekrar etmen gerektiğini gör.</p>
+        <a class="defter__bugun" href={bag('/bugun/')}>Bugünkü öğrenme oturumunu aç <span aria-hidden="true">→</span></a>
       </div>
       <dl class="defter__sayaclar" aria-live="polite">
-        <div><dt>Okunan</dt><dd data-toplam-okunan>0</dd></div>
+        <div><dt>Öğrenilen</dt><dd data-toplam-ogrenilen>0</dd></div>
+        <div><dt>Tekrar bekleyen</dt><dd data-toplam-tekrar>0</dd></div>
         <div><dt>Tamamlanan rota</dt><dd data-tamam-rota>0</dd></div>
+        <div><dt>Günlük seri</dt><dd><span data-gunluk-seri>0</span><small> gün</small></dd></div>
       </dl>
     </header>
+
+    <section class="defter__bolum defter__tekrar">
+      <div class="defter__bolum-baslik">
+        <div>
+          <p class="veri-etiket">Unutmadan hemen önce</p>
+          <h2>Tekrar kuyruğun</h2>
+        </div>
+        <span data-tekrar-ozeti>Bugün bekleyen yok</span>
+      </div>
+      <p class="defter__bos" data-tekrar-bos>
+        Henüz tekrar zamanı gelen bir fikir yok. Bir makalenin sonundaki geri çağırma
+        adımını tamamladığında ilk tekrar ertesi gün buraya gelir.
+      </p>
+      <div class="defter__tekrar-listesi" data-tekrar-listesi></div>
+    </section>
 
     <section class="defter__bolum">
       <div class="defter__bolum-baslik">
@@ -46,28 +66,28 @@ const makaleler = [...korpus].sort((a: any, b: any) => a.data.baslik.localeCompa
     <section class="defter__bolum">
       <div class="defter__bolum-baslik">
         <div>
-          <p class="veri-etiket">Kendi izlerin</p>
-          <h2>Okuduğun makaleler</h2>
+          <p class="veri-etiket">Kendi cümlelerin</p>
+          <h2>Fikrinin değişim kayıtları</h2>
         </div>
-        <button type="button" class="defter__temizle" data-defter-temizle>İşaretleri temizle</button>
       </div>
-      <p class="defter__bos" data-defter-bos>
-        Henüz bir makaleyi okundu olarak işaretlemedin. Bir öğrenme rotası seçerek
-        başlamak, dizinde rastgele dolaşmaktan daha güçlü bir bağlam kurar.
+      <p class="defter__bos" data-not-bos>
+        Henüz bir ilk tahmin, geri çağırma cevabı veya kişisel not yazmadın.
+        İlk kaydın, bir makaleyi açtığında karşına çıkan “Okumadan önce” alanında başlayacak.
       </p>
-      <ul class="defter__okunanlar" data-defter-liste>
-        {makaleler.map((girdi: any) => (
-          <li data-okunan-id={girdi.data.id} hidden>
-            <a href={yol(girdi.data.id)}>{girdi.data.baslik}</a>
-            <span>{tipAdi(girdi.data.tip)}</span>
-          </li>
-        ))}
-      </ul>
+      <div class="defter__notlar" data-not-listesi></div>
     </section>
 
     <aside class="defter__gizlilik">
-      <strong>Hesapsız ve özel.</strong>
-      <span>Bu sayfadaki bilgiler tarayıcında saklanır; sunucuya gönderilmez ve başka cihaza taşınmaz.</span>
+      <div>
+        <strong>Hesapsız, özel ve sana ait.</strong>
+        <span>Bu bilgiler tarayıcında saklanır; sunucuya gönderilmez. İstersen yedekleyip başka cihazına taşıyabilirsin.</span>
+      </div>
+      <div class="defter__veri-eylem">
+        <button type="button" data-defter-disa-aktar>Defterimi yedekle</button>
+        <label>Yedeği geri yükle<input type="file" accept="application/json" data-defter-ice-aktar /></label>
+        <button type="button" class="defter__temizle" data-defter-temizle>Defteri sıfırla</button>
+      </div>
+      <p role="status" data-veri-durumu></p>
     </aside>
   </main>
 </Temel>
@@ -77,13 +97,16 @@ const makaleler = [...korpus].sort((a: any, b: any) => a.data.baslik.localeCompa
   .defter__giris { display: grid; grid-template-columns: 1fr auto; gap: 3rem; align-items: end; padding-bottom: 2.5rem; border-bottom: 1px solid var(--cizgi); }
   .defter__giris h1 { font-size: clamp(3.2rem, 7vw, 6rem); margin: .45rem 0 .8rem; }
   .defter__giris p { color: var(--golge); max-width: 52ch; }
-  .defter__sayaclar { display: flex; gap: 2.5rem; margin: 0; }
+  .defter__bugun { display: inline-flex; gap: 1rem; margin-top: .8rem; padding: .65rem .8rem; background: var(--murekkep); color: var(--tabaka); font-family: var(--f-veri); font-size: .7rem; font-weight: 600; letter-spacing: .07em; text-transform: uppercase; text-decoration: none; }
+  .defter__sayaclar { display: grid; grid-template-columns: repeat(2, minmax(7rem, 1fr)); gap: 1.5rem 2.5rem; margin: 0; }
   .defter__sayaclar dt { font-family: var(--f-veri); font-size: .65rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--golge); }
   .defter__sayaclar dd { margin: .25rem 0 0; font-family: var(--f-display); font-size: 2.4rem; line-height: 1; }
+  .defter__sayaclar dd small { font-family: var(--f-veri); font-size: .65rem; color: var(--golge); }
   .defter__bolum { margin-top: 3.25rem; }
   .defter__bolum-baslik { display: flex; justify-content: space-between; gap: 2rem; align-items: end; margin-bottom: 1.25rem; }
   .defter__bolum-baslik h2 { margin: .35rem 0 0; font-size: 1.75rem; }
-  .defter__bolum-baslik > a, .defter__temizle { font-family: var(--f-veri); font-size: .7rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; }
+  .defter__bolum-baslik > a, .defter__bolum-baslik > span, .defter__temizle { font-family: var(--f-veri); font-size: .7rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; }
+  .defter__bolum-baslik > span { color: var(--golge); }
   .defter__temizle { border: 0; padding: 0; background: transparent; color: var(--zincifre); cursor: pointer; text-decoration: underline; text-underline-offset: .2em; }
   .defter__rotalar { border-top: 1px solid var(--cizgi); }
   .defter-rota { display: grid; grid-template-columns: 3rem 1fr 10rem; gap: 1rem; align-items: center; padding: 1rem 0; color: inherit; text-decoration: none; border-bottom: 1px solid var(--cizgi); }
@@ -94,55 +117,166 @@ const makaleler = [...korpus].sort((a: any, b: any) => a.data.baslik.localeCompa
   .defter-rota__olcek { height: 3px; background: var(--cizgi); }
   .defter-rota__olcek i { display: block; width: 0; height: 100%; background: var(--bakir); }
   .defter__bos { color: var(--golge); max-width: 62ch; padding: 1.5rem 0; }
-  .defter__okunanlar { list-style: none; padding: 0; margin: 0; border-top: 1px solid var(--cizgi); }
-  .defter__okunanlar li { display: flex; gap: 1rem; align-items: baseline; padding: .65rem 0; border-bottom: 1px solid var(--cizgi-ince); }
-  .defter__okunanlar li span { margin-inline-start: auto; font-family: var(--f-veri); font-size: .65rem; text-transform: uppercase; letter-spacing: .08em; color: var(--golge); }
-  .defter__gizlilik { display: flex; gap: .7rem; margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--cizgi); color: var(--golge); font-size: .82rem; }
+  .defter__tekrar-listesi { display: grid; gap: .55rem; }
+  .defter-tekrar { display: grid; grid-template-columns: 3rem 1fr auto; gap: 1rem; align-items: center; padding: .9rem; background: var(--oksit-zemin); border-left: 3px solid var(--oksit); color: inherit; text-decoration: none; }
+  .defter-tekrar__asama { font-family: var(--f-display); font-size: 1.4rem; color: var(--oksit); }
+  .defter-tekrar__metin { display: grid; }
+  .defter-tekrar__metin small { color: var(--oksit); font-family: var(--f-veri); font-size: .62rem; letter-spacing: .08em; text-transform: uppercase; }
+  .defter-tekrar__metin strong { font-family: var(--f-display); }
+  .defter__notlar { display: grid; gap: 1rem; }
+  .defter-not { padding: 1.1rem; border: 1px solid var(--cizgi); background: var(--yuzey); }
+  .defter-not__ust { display: flex; justify-content: space-between; gap: 1rem; padding-bottom: .65rem; border-bottom: 1px solid var(--cizgi-ince); }
+  .defter-not__ust a { font-family: var(--f-display); font-weight: 600; }
+  .defter-not__ust span { color: var(--golge); font-family: var(--f-veri); font-size: .64rem; letter-spacing: .07em; text-transform: uppercase; }
+  .defter-not dl { display: grid; gap: .7rem; margin: .8rem 0 0; }
+  .defter-not dl div { display: grid; grid-template-columns: 8rem 1fr; gap: 1rem; }
+  .defter-not dt { color: var(--golge); font-family: var(--f-veri); font-size: .64rem; font-weight: 600; letter-spacing: .07em; text-transform: uppercase; }
+  .defter-not dd { margin: 0; font-size: .88rem; white-space: pre-wrap; }
+  .defter__gizlilik { display: grid; grid-template-columns: 1fr auto; gap: 1rem 2rem; margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--cizgi); color: var(--golge); font-size: .82rem; }
+  .defter__gizlilik > div:first-child { display: grid; }
   .defter__gizlilik strong { color: var(--murekkep); }
+  .defter__veri-eylem { display: flex; flex-wrap: wrap; gap: .55rem; justify-content: end; }
+  .defter__veri-eylem button, .defter__veri-eylem label { border: 1px solid var(--cizgi); background: transparent; color: var(--murekkep); padding: .45rem .6rem; font-family: var(--f-veri); font-size: .66rem; cursor: pointer; }
+  .defter__veri-eylem input { position: absolute; width: 1px; height: 1px; opacity: 0; }
+  .defter__gizlilik > p { grid-column: 1 / -1; color: var(--bakir); }
   @media (max-width: 700px) {
     .defter { padding: 3rem 1.15rem 4rem; }
     .defter__giris { grid-template-columns: 1fr; gap: 1.2rem; }
+    .defter__sayaclar { grid-template-columns: repeat(2, 1fr); }
     .defter-rota { grid-template-columns: 2.5rem 1fr; }
     .defter-rota__olcek { grid-column: 2; }
     .defter__bolum-baslik { align-items: start; }
-    .defter__gizlilik { display: grid; }
+    .defter__gizlilik { grid-template-columns: 1fr; }
+    .defter__veri-eylem { justify-content: start; }
+    .defter-not dl div { grid-template-columns: 1fr; gap: .2rem; }
   }
 </style>
 
 <script>
-  const anahtar = 'baglam-okunanlar-v1';
-  let okunanlar: string[] = [];
-  try { okunanlar = JSON.parse(localStorage.getItem(anahtar) || '[]'); } catch {}
+  import { durumOku, durumYaz, bosDurum, rotaIlerlemesi, ozetle } from '../lib/ogrenme-durumu.mjs';
+
+  const kok = document.querySelector<HTMLElement>('[data-katalog]');
+  let katalog: any[] = [];
+  try { katalog = JSON.parse(kok?.dataset.katalog || '[]'); } catch {}
+  const makale = new Map(katalog.map((x) => [x.id, x]));
+  let durum: any = durumOku();
+
+  function metin(parent: HTMLElement, ad: string, deger: string) {
+    if (!deger) return;
+    const satir = document.createElement('div');
+    const dt = document.createElement('dt');
+    const dd = document.createElement('dd');
+    dt.textContent = ad;
+    dd.textContent = deger;
+    satir.append(dt, dd);
+    parent.append(satir);
+  }
 
   function boya() {
-    document.querySelectorAll<HTMLElement>('[data-okunan-id]').forEach((satir) => {
-      satir.hidden = !okunanlar.includes(satir.dataset.okunanId || '');
-    });
-    const bos = document.querySelector<HTMLElement>('[data-defter-bos]');
-    if (bos) bos.hidden = okunanlar.length > 0;
-    const toplam = document.querySelector<HTMLElement>('[data-toplam-okunan]');
-    if (toplam) toplam.textContent = String(okunanlar.length);
+    const ozet = ozetle(durum);
+    const yaz = (secici: string, deger: string | number) => {
+      const el = document.querySelector<HTMLElement>(secici);
+      if (el) el.textContent = String(deger);
+    };
+    yaz('[data-toplam-ogrenilen]', ozet.tamamlanan);
+    yaz('[data-toplam-tekrar]', ozet.tekrarlar.length);
+    yaz('[data-gunluk-seri]', ozet.seri);
+
+    const tekrarBos = document.querySelector<HTMLElement>('[data-tekrar-bos]');
+    if (tekrarBos) tekrarBos.hidden = ozet.tekrarlar.length > 0;
+    yaz('[data-tekrar-ozeti]', ozet.tekrarlar.length ? `${ozet.tekrarlar.length} fikir bugün bekliyor` : 'Bugün bekleyen yok');
+    const tekrarListesi = document.querySelector<HTMLElement>('[data-tekrar-listesi]');
+    if (tekrarListesi) {
+      tekrarListesi.innerHTML = '';
+      for (const id of ozet.tekrarlar) {
+        const m = makale.get(id);
+        if (!m) continue;
+        const a = document.createElement('a');
+        a.className = 'defter-tekrar';
+        a.href = `${m.yol}?tekrar=1`;
+        const asama = durum.makaleler[id]?.tekrarAsamasi || 0;
+        a.innerHTML = `<span class="defter-tekrar__asama">${String(asama + 1).padStart(2, '0')}</span><span class="defter-tekrar__metin"><small>${m.tip} · metne bakmadan</small><strong>${m.baslik}</strong></span><span aria-hidden="true">→</span>`;
+        tekrarListesi.append(a);
+      }
+    }
 
     let tamamRota = 0;
     document.querySelectorAll<HTMLElement>('[data-defter-rota]').forEach((kart) => {
       let adimlar: string[] = [];
       try { adimlar = JSON.parse(kart.dataset.adimlar || '[]'); } catch {}
-      const tamam = adimlar.filter((id) => okunanlar.includes(id)).length;
+      const ilerleme = rotaIlerlemesi(durum, adimlar);
+      const tamam = ilerleme.tamam;
       if (tamam === adimlar.length && adimlar.length) tamamRota += 1;
-      const durum = kart.querySelector<HTMLElement>('[data-rota-durum]');
+      const durumEtiketi = kart.querySelector<HTMLElement>('[data-rota-durum]');
       const cubuk = kart.querySelector<HTMLElement>('[data-rota-cubuk]');
-      if (durum) durum.textContent = tamam ? `${tamam} / ${adimlar.length} durak` : 'Henüz başlamadı';
+      if (durumEtiketi) durumEtiketi.textContent = tamam ? `${tamam} / ${adimlar.length} durak` : 'Henüz başlamadı';
       if (cubuk) cubuk.style.width = `${adimlar.length ? (tamam / adimlar.length) * 100 : 0}%`;
     });
     const rotaSayac = document.querySelector<HTMLElement>('[data-tamam-rota]');
     if (rotaSayac) rotaSayac.textContent = String(tamamRota);
+
+    const notListesi = document.querySelector<HTMLElement>('[data-not-listesi]');
+    if (notListesi) {
+      notListesi.innerHTML = '';
+      for (const id of ozet.notlar) {
+        const m = makale.get(id);
+        const kayit = durum.makaleler[id];
+        if (!m || !kayit) continue;
+        const kart = document.createElement('article');
+        kart.className = 'defter-not';
+        const ust = document.createElement('div');
+        ust.className = 'defter-not__ust';
+        const a = document.createElement('a');
+        a.href = m.yol;
+        a.textContent = m.baslik;
+        const tip = document.createElement('span');
+        tip.textContent = `${m.tip} · güven ${kayit.guven || '—'}/3`;
+        ust.append(a, tip);
+        const dl = document.createElement('dl');
+        metin(dl, 'İlk tahmin', kayit.onceCevap);
+        metin(dl, 'Geri çağırma', kayit.sonraCevap);
+        metin(dl, 'Kanıt / itiraz', kayit.kanitNotu);
+        metin(dl, 'Kişisel not', kayit.not);
+        kart.append(ust, dl);
+        notListesi.append(kart);
+      }
+    }
+    const notBos = document.querySelector<HTMLElement>('[data-not-bos]');
+    if (notBos) notBos.hidden = ozet.notlar.length > 0;
   }
 
   document.querySelector<HTMLButtonElement>('[data-defter-temizle]')?.addEventListener('click', () => {
-    if (!okunanlar.length || !confirm('Bu cihazdaki bütün okundu işaretleri temizlensin mi?')) return;
-    okunanlar = [];
-    try { localStorage.setItem(anahtar, '[]'); } catch {}
+    if (!confirm('Bu cihazdaki bütün öğrenme kayıtları, notlar ve tekrar takvimi silinsin mi? Bu işlem geri alınamaz.')) return;
+    durum = durumYaz(bosDurum());
     boya();
+  });
+
+  document.querySelector<HTMLButtonElement>('[data-defter-disa-aktar]')?.addEventListener('click', () => {
+    const blob = new Blob([JSON.stringify(durum, null, 2)], { type: 'application/json' });
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = `baglam-defter-${new Date().toISOString().slice(0, 10)}.json`;
+    a.click();
+    URL.revokeObjectURL(a.href);
+    yazDurum('Defter yedeği indirildi.');
+  });
+
+  function yazDurum(mesaj: string) {
+    const el = document.querySelector<HTMLElement>('[data-veri-durumu]');
+    if (el) el.textContent = mesaj;
+  }
+
+  document.querySelector<HTMLInputElement>('[data-defter-ice-aktar]')?.addEventListener('change', async (olay) => {
+    const dosya = (olay.currentTarget as HTMLInputElement).files?.[0];
+    if (!dosya) return;
+    try {
+      const ham = JSON.parse(await dosya.text());
+      durum = durumYaz(ham);
+      boya();
+      yazDurum('Defter yedeği doğrulandı ve geri yüklendi.');
+    } catch {
+      yazDurum('Bu dosya geçerli bir Bağlam defter yedeği değil.');
+    }
   });
   boya();
 </script>

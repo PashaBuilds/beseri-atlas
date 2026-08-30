@@ -1,7 +1,7 @@
 {
   "id": "kavram-goksel-yetki",
-  "govde_hash": "1d55d1805c9a",
-  "commit": "6d7ef68",
+  "govde_hash": "e81a3586e45e",
+  "commit": "7835db3f",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -342,6 +342,12 @@
     {
       "zaman": "2026-08-29",
       "gerekce": "Kor hakem: i07/i13/i17 kaynagin kendi cekincelerine gore duzeltildi, i14 itiraz sahipleriyle adlandirildi, i23 (Thang'in Bildirisi - felaket isareti) eklendi."
+    },
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "1d55d1805c9a",
+      "yeni_hash": "e81a3586e45e",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
     }
   ]
 }

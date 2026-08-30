@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // On build kapisinin tek calistiricisi.
 //
-//   node araclar/kapilar.mjs --lint   -> cevrimdisi kapilar (1,2,3,4,5,7,9,11,13,15,16)
+//   node araclar/kapilar.mjs --lint   -> cevrimdisi kapilar (1,2,3,4,5,7,9,11,13,15,16,20)
 //   node araclar/kapilar.mjs --ag     -> ag kapilari (8,10)
 //   node araclar/kapilar.mjs --pre    -> lint + onay filtresi (6) + ag kapilari
 //   node araclar/kapilar.mjs --post   -> build ciktisi uzerinde onay filtresi (6), 12, 14
@@ -26,6 +26,7 @@ import { savunanDenetimi } from './linter-savunan.mjs';
 import { ozetDenetimi } from './linter-ozet.mjs';
 import { dilDenetimi } from './linter-dil.mjs';
 import { sayiDenetimi } from './linter-sayi.mjs';
+import { ogrenmeCekirdegiDenetimi } from './linter-ogrenme-cekirdegi.mjs';
 
 export const YAYIN_DURUMU = 'onaylandi';
 
@@ -115,6 +116,7 @@ export async function kapilariCalistir(mod = '--lint') {
     raporlar.push(ozetDenetimi(makaleler));
     raporlar.push(dilDenetimi(makaleler));
     raporlar.push(sayiDenetimi(makaleler));
+    raporlar.push(ogrenmeCekirdegiDenetimi(makaleler));
   }
   if (mod === '--pre' || mod === '--tam') raporlar.push(onayFiltresi(makaleler));
   if (mod === '--ag' || mod === '--pre' || mod === '--tam') {
@@ -164,6 +166,18 @@ export async function kapilariCalistir(mod = '--lint') {
     kapilar: raporlar.map((r) => ({ kapi: r.kapi, gecti: r.gecti, hata: r.hatalar.length, uyari: r.uyarilar.length,
       hatalar: r.hatalar.slice(0, 50), ...(r.olcum ? { olcum: r.olcum } : {}) })),
   }, null, 2));
+  // `kapi-sonucu.json` her kipte yeniden yazılır; --post yalnızca üç çıktı
+  // kapısını taşıdığı için KAPI 20 ölçümü orada kalıcı değildir. Okura
+  // gösterilen çekirdek puanı ayrı, yalnız KAPI 20 gerçekten çalıştığında
+  // yenilenen bir ölçüm dosyasından gelir. Post koşusu bu kaydı silemez.
+  const ogrenmeRaporu = raporlar.find((r) => String(r.kapi).startsWith('KAPI 20'));
+  if (ogrenmeRaporu?.gecti && ogrenmeRaporu.olcum) {
+    yaz(path.join(KOK, 'denetim', 'ogrenme-cekirdegi.json'), JSON.stringify({
+      surum: 1,
+      kapi: ogrenmeRaporu.kapi,
+      ...ogrenmeRaporu.olcum,
+    }, null, 2));
+  }
   return { gecti, raporlar, makaleler };
 }
 

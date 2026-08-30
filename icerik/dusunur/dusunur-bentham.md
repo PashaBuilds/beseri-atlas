@@ -76,7 +76,7 @@ kaynaklar:
     dogrulama_dizesi: "explicitly utilitarian when it comes to action choice"
     not: "Bentham oncesi faydaci cizgi; formulun once kimlerde bulundugunu gosterir"
 son_denetim: 2026-08-29
-denetim_durumu: bekliyor
+denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 

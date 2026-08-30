@@ -38,6 +38,22 @@ const ilk = adimlar[0]?.makale;
       </div>
     </header>
 
+    <section class="rota__tahmin" data-rota-tahmin>
+      <div class="rota__tahmin-no" aria-hidden="true">00</div>
+      <div>
+        <p class="veri-etiket">Rotaya başlamadan önce</p>
+        <h2>Bugünkü açıklamanı kaydet.</h2>
+        <p>{rota.ilkTahmin}</p>
+        <label class="gizli-gorsel" for="rota-ilk-cevap">Rotaya başlamadan önceki cevabın</label>
+        <textarea id="rota-ilk-cevap" rows="3" data-rota-ilk-cevap
+                  placeholder="İlk düşüncen yanlış olabilir; amaç, rotanın sonunda nasıl değiştiğini görebilmek."></textarea>
+        <div>
+          <button type="button" data-rota-ilk-kaydet>İlk açıklamamı sakla</button>
+          <span role="status" data-rota-ilk-durum></span>
+        </div>
+      </div>
+    </section>
+
     <section class="rota__icerik">
       <div>
         <p class="veri-etiket">Bu rotanın sonunda</p>
@@ -45,31 +61,47 @@ const ilk = adimlar[0]?.makale;
           {rota.kazanımlar.map((k) => <li>{k}</li>)}
         </ul>
       </div>
-      {ilk && <a class="rota__basla" href={yol(ilk.data.id)}>İlk durağa başla <span aria-hidden="true">→</span></a>}
+      {ilk && <a class="rota__basla" href={`${yol(ilk.data.id)}?rota=${rota.slug}`} data-rota-basla aria-disabled="true">İlk durağa başla <span aria-hidden="true">→</span></a>}
     </section>
 
     <ol class="rota__adimlar">
-      {adimlar.map(({ makale, rol, sira, id }) => (
+      {adimlar.map(({ makale, rol, soru, sira, id }) => (
         <li class="rota-adim" data-rota-adim={id}>
-          <button type="button" class="rota-adim__isaret" data-okundu-dugme={id}
-                  aria-pressed="false" aria-label={`${makale.data.baslik} makalesini okundu olarak işaretle`}>
+          <span class="rota-adim__isaret" aria-hidden="true">
             <span>{String(sira).padStart(2, '0')}</span>
-          </button>
-          <a class="rota-adim__icerik" href={yol(id)}>
+          </span>
+          <a class="rota-adim__icerik" href={`${yol(id)}?rota=${rota.slug}`}>
             <span class="rota-adim__rol">{rol} · {tipAdi(makale.data.tip)}</span>
             <strong>{makale.data.baslik}</strong>
             <span>{makale.data.ozet}</span>
+            <em>{soru}</em>
           </a>
           <span class="rota-adim__ok" aria-hidden="true">Okundu</span>
         </li>
       ))}
     </ol>
 
-    <aside class="rota__soru-son">
-      <span class="veri-etiket">Rotayı kapatmadan önce</span>
-      <p>{rota.soru}</p>
-      <small>İlk cevabınla son cevabın aynıysa, rotayı bir kez de karşı çıktığın görüşün gözünden düşün.</small>
+    <aside class="rota__kalite">
+      <span aria-hidden="true">✓</span>
+      <p><strong>Editoryal çekirdek</strong> Bu rotadaki her makale derinlik, kaynak çeşitliliği, doğal dil ve kör hakemli iddia–kaynak matrisi kapılarının tamamını geçer.</p>
     </aside>
+
+    <section class="rota__soru-son" id="rota-sentezi" data-rota-kapanis>
+      <span class="veri-etiket">Bütün duraklardan sonra · sentez</span>
+      <h2>Parçaları tek bir açıklamada birleştir.</h2>
+      <p>{rota.kapanisSorusu}</p>
+      <label class="gizli-gorsel" for="rota-son-cevap">Rotanın sonundaki cevabın</label>
+      <textarea id="rota-son-cevap" rows="5" data-rota-son-cevap
+                placeholder="İlk cevabına dönmeden önce kendi açıklamanı kur. Sonra ikisini karşılaştır."></textarea>
+      <details data-rota-ilk-karsilastir hidden>
+        <summary>İlk açıklamamı göster</summary>
+        <blockquote data-rota-ilk-metni></blockquote>
+      </details>
+      <div class="rota__soru-eylem">
+        <button type="button" data-rota-tamamla disabled>Rotayı tamamla ve cevabımı sakla</button>
+        <span role="status" data-rota-son-durum>Altı öğrenme oturumunu tamamladığında sentez alanı açılır.</span>
+      </div>
+    </section>
   </main>
 </Temel>
 
@@ -86,6 +118,14 @@ const ilk = adimlar[0]?.makale;
   .rota__durum { font-family: var(--f-veri); font-size: .72rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--golge); }
   .rota__olcek { display: block; height: 3px; margin-top: .65rem; background: var(--cizgi); }
   .rota__olcek i { display: block; width: 0; height: 100%; background: var(--rota-renk); transition: width var(--gecis); }
+  .rota__tahmin { display: grid; grid-template-columns: 8rem minmax(0, 1fr); gap: 2rem; margin: 2.2rem 0 0; padding: 1.4rem 0 2rem; border-bottom: 1px solid var(--cizgi); }
+  .rota__tahmin-no { font-family: var(--f-display); font-size: 3.5rem; line-height: 1; color: color-mix(in srgb, var(--rota-renk) 40%, transparent); }
+  .rota__tahmin h2 { margin: .25rem 0 .5rem; font-size: 1.45rem; }
+  .rota__tahmin p { color: var(--golge); max-width: 62ch; }
+  .rota__tahmin textarea, .rota__soru-son textarea { width: 100%; resize: vertical; padding: .75rem; border: 1px solid var(--cizgi); background: var(--yuzey); color: var(--murekkep); font: .94rem/1.55 var(--f-govde); }
+  .rota__tahmin > div > div { display: flex; align-items: center; gap: .8rem; margin-top: .6rem; }
+  .rota__tahmin button, .rota__soru-eylem button { border: 0; background: var(--murekkep); color: var(--tabaka); padding: .65rem .8rem; font-family: var(--f-veri); font-size: .7rem; font-weight: 600; letter-spacing: .07em; text-transform: uppercase; cursor: pointer; }
+  .rota__tahmin span, .rota__soru-eylem span { color: var(--golge); font-family: var(--f-veri); font-size: .7rem; }
   .rota__icerik { display: grid; grid-template-columns: 1fr auto; gap: 2rem; align-items: end; margin: 2.5rem 0 3rem 10rem; }
   .rota__kazanimlar { margin: .8rem 0 0; padding: 0; list-style: none; max-width: 52rem; }
   .rota__kazanimlar li { position: relative; padding: .45rem 0 .45rem 1.4rem; border-bottom: 1px solid var(--cizgi-ince); }
@@ -93,67 +133,146 @@ const ilk = adimlar[0]?.makale;
   .rota__basla { display: inline-flex; gap: 1rem; align-items: center; padding: .8rem 1rem; background: var(--murekkep); color: var(--tabaka); text-decoration: none; font-family: var(--f-veri); font-size: .76rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; }
   .rota__adimlar { list-style: none; margin: 0 0 0 10rem; padding: 0; border-top: 1px solid var(--cizgi); }
   .rota-adim { display: grid; grid-template-columns: 3.25rem minmax(0, 1fr) auto; gap: 1.25rem; align-items: center; padding: 1.25rem 0; border-bottom: 1px solid var(--cizgi); }
-  .rota-adim__isaret { width: 3rem; height: 3rem; border: 1px solid var(--cizgi); background: transparent; color: var(--golge); cursor: pointer; font-family: var(--f-veri); font-weight: 600; }
-  .rota-adim__isaret:hover { border-color: var(--rota-renk); color: var(--rota-renk); }
+  .rota-adim__isaret { display: grid; place-items: center; width: 3rem; height: 3rem; border: 1px solid var(--cizgi); background: transparent; color: var(--golge); font-family: var(--f-veri); font-weight: 600; }
   .rota-adim__icerik { display: grid; color: inherit; text-decoration: none; }
   .rota-adim__rol { font-family: var(--f-veri); font-size: .66rem; font-weight: 600; letter-spacing: .09em; text-transform: uppercase; color: var(--rota-renk); }
   .rota-adim__icerik strong { font-family: var(--f-display); font-size: 1.35rem; margin: .18rem 0 .25rem; }
   .rota-adim__icerik > span:last-child { color: var(--golge); font-size: .86rem; line-height: 1.5; max-width: 66ch; }
+  .rota-adim__icerik em { margin-top: .55rem; padding-left: .8rem; border-left: 2px solid var(--rota-renk); color: var(--murekkep); font-family: var(--f-govde); font-size: .82rem; line-height: 1.5; font-style: normal; }
   .rota-adim__ok { opacity: 0; font-family: var(--f-veri); font-size: .65rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--rota-renk); }
   .rota-adim--tamam .rota-adim__isaret { background: var(--rota-renk); border-color: var(--rota-renk); color: var(--tabaka); }
   .rota-adim--tamam .rota-adim__isaret span { font-size: 0; }
   .rota-adim--tamam .rota-adim__isaret span::after { content: '✓'; font-size: 1rem; }
   .rota-adim--tamam .rota-adim__ok { opacity: 1; }
+  .rota-adim--kilitli { opacity: .46; }
+  .rota-adim--kilitli .rota-adim__icerik { cursor: not-allowed; }
+  .rota-adim--kilitli .rota-adim__ok { opacity: 1; color: var(--golge); }
+  .rota__basla[aria-disabled="true"] { opacity: .45; cursor: not-allowed; }
+  .rota__kalite { display: grid; grid-template-columns: 2rem 1fr; gap: .8rem; margin: 1.5rem 0 0 10rem; padding: .9rem 1rem; border: 1px solid var(--cizgi-ince); color: var(--golge); font-size: .78rem; }
+  .rota__kalite > span { display: grid; place-items: center; width: 1.7rem; height: 1.7rem; border-radius: 50%; background: var(--rota-renk); color: var(--tabaka); font-family: var(--f-veri); }
+  .rota__kalite p { margin: 0; }
+  .rota__kalite strong { color: var(--murekkep); }
   .rota__soru-son { margin: 4rem 0 0 10rem; padding: 2rem; border: 1px solid var(--cizgi); border-left: 3px solid var(--rota-renk); background: var(--yuzey); }
-  .rota__soru-son p { font-family: var(--f-display); font-size: 1.5rem; line-height: 1.35; margin: .5rem 0 .7rem; }
-  .rota__soru-son small { color: var(--golge); }
+  .rota__soru-son h2 { margin: .35rem 0 .6rem; }
+  .rota__soru-son > p { font-family: var(--f-display); font-size: 1.25rem; line-height: 1.4; }
+  .rota__soru-son details { margin-top: 1rem; padding: .7rem; border: 1px solid var(--cizgi-ince); }
+  .rota__soru-son summary { cursor: pointer; font-family: var(--f-veri); font-size: .7rem; font-weight: 600; letter-spacing: .07em; text-transform: uppercase; }
+  .rota__soru-eylem { display: flex; align-items: center; gap: .8rem; margin-top: .8rem; }
+  .rota__soru-eylem button:disabled { opacity: .45; cursor: not-allowed; }
   @media (max-width: 800px) {
     .rota { padding: 2rem 1.15rem 4rem; }
     .rota__giris { grid-template-columns: 4rem 1fr; gap: 1rem; }
     .rota__numara { font-size: 3.7rem; }
     .rota__durum { grid-column: 1 / -1; }
-    .rota__icerik, .rota__adimlar, .rota__soru-son { margin-left: 0; }
+    .rota__icerik, .rota__adimlar, .rota__kalite, .rota__soru-son { margin-left: 0; }
+    .rota__tahmin { grid-template-columns: 4rem 1fr; gap: 1rem; }
     .rota__icerik { grid-template-columns: 1fr; }
     .rota__basla { justify-self: start; }
     .rota-adim { grid-template-columns: 2.8rem 1fr; gap: .9rem; }
     .rota-adim__isaret { width: 2.6rem; height: 2.6rem; }
     .rota-adim__ok { grid-column: 2; }
+    .rota__soru-eylem { align-items: stretch; flex-direction: column; }
   }
 </style>
 
 <script>
-  const anahtar = 'baglam-okunanlar-v1';
-  const kok = document.querySelector<HTMLElement>('[data-rota]');
-  let okunanlar: string[] = [];
-  try { okunanlar = JSON.parse(localStorage.getItem(anahtar) || '[]'); } catch {}
+  import {
+    durumOku, durumYaz, rotaBaslat, rotaCevabiKaydet, rotaTamamla, rotaIlerlemesi,
+  } from '../../lib/ogrenme-durumu.mjs';
 
-  function kaydet() {
-    try { localStorage.setItem(anahtar, JSON.stringify(okunanlar)); } catch {}
-  }
+  const kok = document.querySelector<HTMLElement>('[data-rota]');
+  const slug = kok?.dataset.rota || '';
+  let durum: any = durumYaz(rotaBaslat(durumOku(), slug));
 
   function boya() {
     const adimlar = [...document.querySelectorAll<HTMLElement>('[data-rota-adim]')];
-    let tamam = 0;
+    const idler = adimlar.map((adim) => adim.dataset.rotaAdim || '');
+    const ilerleme = rotaIlerlemesi(durum, idler);
+    const ilkHazir = (durum.rotalar[slug]?.ilkCevap || '').trim().length >= 20;
     adimlar.forEach((adim) => {
       const id = adim.dataset.rotaAdim || '';
-      const ok = okunanlar.includes(id);
+      const ok = Boolean(durum.makaleler[id]?.tamamlandi);
+      const kilitli = !ok && (!ilkHazir || id !== ilerleme.siradaki);
       adim.classList.toggle('rota-adim--tamam', ok);
-      adim.querySelector<HTMLButtonElement>('[data-okundu-dugme]')?.setAttribute('aria-pressed', String(ok));
-      if (ok) tamam += 1;
+      adim.classList.toggle('rota-adim--kilitli', kilitli);
+      const bag = adim.querySelector<HTMLAnchorElement>('a');
+      if (bag) {
+        bag.setAttribute('aria-disabled', String(kilitli));
+        bag.tabIndex = kilitli ? -1 : 0;
+      }
+      const durumYazisi = adim.querySelector<HTMLElement>('.rota-adim__ok');
+      if (durumYazisi) durumYazisi.textContent = ok ? 'Tamamlandı' : kilitli ? 'Sırası gelince açılır' : 'Sıradaki';
     });
     const sayac = kok?.querySelector<HTMLElement>('[data-rota-sayac]');
     const cubuk = kok?.querySelector<HTMLElement>('[data-rota-cubuk]');
-    if (sayac) sayac.textContent = `${tamam} / ${adimlar.length} tamamlandı`;
-    if (cubuk) cubuk.style.width = `${adimlar.length ? (tamam / adimlar.length) * 100 : 0}%`;
+    if (sayac) sayac.textContent = `${ilerleme.tamam} / ${adimlar.length} tamamlandı`;
+    if (cubuk) cubuk.style.width = `${ilerleme.oran * 100}%`;
+    const basla = document.querySelector<HTMLAnchorElement>('[data-rota-basla]');
+    const siradaki = adimlar.find((a) => a.dataset.rotaAdim === ilerleme.siradaki);
+    const siradakiBag = siradaki?.querySelector<HTMLAnchorElement>('a');
+    if (basla && siradakiBag) {
+      basla.href = siradakiBag.href;
+      basla.childNodes[0].textContent = ilerleme.tamam ? 'Kaldığın yerden devam et ' : 'İlk durağa başla ';
+      basla.setAttribute('aria-disabled', String(!ilkHazir));
+    }
+    const sonCevap = document.querySelector<HTMLTextAreaElement>('[data-rota-son-cevap]');
+    const tamamla = document.querySelector<HTMLButtonElement>('[data-rota-tamamla]');
+    const sonDurum = document.querySelector<HTMLElement>('[data-rota-son-durum]');
+    const hazir = ilerleme.tamam === ilerleme.toplam && ilerleme.toplam > 0;
+    if (sonCevap) sonCevap.disabled = !hazir;
+    if (tamamla) tamamla.disabled = !hazir || (sonCevap?.value.trim().length || 0) < 30;
+    if (sonDurum && !hazir) sonDurum.textContent = `${ilerleme.toplam - ilerleme.tamam} öğrenme oturumu kaldı; yalnızca sayfayı açmak tamamlanmış sayılmaz.`;
   }
 
-  document.querySelectorAll<HTMLButtonElement>('[data-okundu-dugme]').forEach((dugme) => {
-    dugme.addEventListener('click', () => {
-      const id = dugme.dataset.okunduDugme || '';
-      okunanlar = okunanlar.includes(id) ? okunanlar.filter((x) => x !== id) : [...okunanlar, id];
-      kaydet();
-      boya();
+  const rotaKaydi = durum.rotalar[slug];
+  const ilkCevap = document.querySelector<HTMLTextAreaElement>('[data-rota-ilk-cevap]');
+  const sonCevap = document.querySelector<HTMLTextAreaElement>('[data-rota-son-cevap]');
+  if (ilkCevap) ilkCevap.value = rotaKaydi?.ilkCevap || '';
+  if (sonCevap) sonCevap.value = rotaKaydi?.sonCevap || '';
+
+  const ilkKaydet = document.querySelector<HTMLButtonElement>('[data-rota-ilk-kaydet]');
+  function ilkCevabiBoya() {
+    if (ilkKaydet) ilkKaydet.disabled = (ilkCevap?.value.trim().length || 0) < 20;
+  }
+  ilkCevap?.addEventListener('input', ilkCevabiBoya);
+
+  document.querySelector<HTMLButtonElement>('[data-rota-ilk-kaydet]')?.addEventListener('click', () => {
+    if ((ilkCevap?.value.trim().length || 0) < 20) return;
+    durum = durumYaz(rotaCevabiKaydet(durum, slug, 'ilkCevap', ilkCevap?.value || ''));
+    const bildirim = document.querySelector<HTMLElement>('[data-rota-ilk-durum]');
+    if (bildirim) bildirim.textContent = 'İlk açıklaman saklandı; rotanın sonunda yeniden göreceksin.';
+    boya();
+  });
+
+  document.querySelectorAll<HTMLAnchorElement>('.rota-adim__icerik, [data-rota-basla]').forEach((bag) => {
+    bag.addEventListener('click', (olay) => {
+      if (bag.getAttribute('aria-disabled') === 'true') olay.preventDefault();
     });
   });
+
+  sonCevap?.addEventListener('input', boya);
+  document.querySelector<HTMLButtonElement>('[data-rota-tamamla]')?.addEventListener('click', () => {
+    if (!sonCevap || sonCevap.value.trim().length < 30) return;
+    durum = rotaCevabiKaydet(durum, slug, 'sonCevap', sonCevap.value);
+    durum = durumYaz(rotaTamamla(durum, slug));
+    const bildirim = document.querySelector<HTMLElement>('[data-rota-son-durum]');
+    if (bildirim) bildirim.textContent = 'Rota tamamlandı. İlk ve son açıklaman kişisel defterine kaydedildi.';
+    const karsilastir = document.querySelector<HTMLDetailsElement>('[data-rota-ilk-karsilastir]');
+    const metin = document.querySelector<HTMLElement>('[data-rota-ilk-metni]');
+    if (durum.rotalar[slug]?.ilkCevap && karsilastir && metin) {
+      karsilastir.hidden = false;
+      karsilastir.open = true;
+      metin.textContent = durum.rotalar[slug].ilkCevap;
+    }
+    boya();
+  });
+
+  const karsilastir = document.querySelector<HTMLDetailsElement>('[data-rota-ilk-karsilastir]');
+  const ilkMetni = document.querySelector<HTMLElement>('[data-rota-ilk-metni]');
+  if (rotaKaydi?.ilkCevap && karsilastir && ilkMetni) {
+    karsilastir.hidden = false;
+    ilkMetni.textContent = rotaKaydi.ilkCevap;
+  }
+  ilkCevabiBoya();
   boya();
 </script>

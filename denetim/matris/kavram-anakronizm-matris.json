@@ -1,7 +1,7 @@
 {
   "id": "kavram-anakronizm",
-  "govde_hash": "df2ca9b6bcc8",
-  "commit": "6d7ef68",
+  "govde_hash": "eb69b2e0ee14",
+  "commit": "7835db3f",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -253,5 +253,13 @@
     "kismi": 2,
     "desteksiz": 0,
     "olculemez": 1
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "df2ca9b6bcc8",
+      "yeni_hash": "eb69b2e0ee14",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    }
+  ]
 }

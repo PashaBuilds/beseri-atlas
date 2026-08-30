@@ -1,6 +1,6 @@
 {
   "mod": "--post",
-  "zaman": "2026-08-30T13:55:19.824Z",
+  "zaman": "2026-08-30T15:30:24.951Z",
   "gecti": true,
   "makale_sayisi": 540,
   "kapilar": [
@@ -25,7 +25,7 @@
       "uyari": 0,
       "hatalar": [],
       "olcum": {
-        "olculen": 510,
+        "olculen": 513,
         "kayipli": 0
       }
     }

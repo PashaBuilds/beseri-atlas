@@ -13,6 +13,7 @@ import { kalipSay } from './linter-dil.mjs';
 import { MATRIS_DIZINI, matrisOku, matrisiDogrula, sayaclariHesapla, cumleSadelestir } from './matris.mjs';
 import { iddiaCumleleri } from './denetle.mjs';
 import { kaynakDenetimi } from './linter-kaynak.mjs';
+import { ogrenmeCekirdegiDenetimi } from './linter-ogrenme-cekirdegi.mjs';
 
 // Hedefler KAPI 11'in KENDI tablosundan gelir (sartname §3'ten birebir
 // alinmis). Burada ikinci bir tablo tutmak, kelime sayimi ve "birincil"
@@ -135,6 +136,7 @@ export function fotograf() {
   // kunyedeki `tur` alanina degil, havuzda birincil ilan edilmis ALAN ADINA
   // bakar ve veri makalelerinde veri serilerini de birincil sayar.
   const kaynakOlcum = kaynakDenetimi(ms, { borcDefteriYaz: false }).olcum || {};
+  const ogrenmeCekirdegi = ogrenmeCekirdegiDenetimi(ms).olcum || {};
 
   let commit = null;
   try { commit = execSync('git rev-parse --short HEAD', { cwd: KOK }).toString().trim(); } catch { /* git yok */ }
@@ -151,6 +153,7 @@ export function fotograf() {
     matris: { dosya: matrisler.length, gecerli, bayat, korHakemli: hakemli, sayac, kayanCumle, kaydsizCumle, dipnotluCumle, ustveriDogrudan, ustveriToplam },
     atom: { raporlu, ok, hata, isaret, atomsuz, sablonAtomsuz },
     kaynak: kaynakOlcum,
+    ogrenmeCekirdegi,
   };
 }
 
@@ -176,4 +179,6 @@ if (process.argv[1]?.endsWith('fotograf.mjs')) {
   const kk = f.kaynak;
   console.log(`kaynak bilesimi (KAPI 13 olcumu): giris kapisi kuralini asan ${kk.kuralIhlali} makale · birincil kaynagi olmayan ${kk.birincilsiz} makale`);
   console.log(`                 giris kunyesi ${kk.toplamGiris} · birincil kunye ${kk.birincilKunye} / ${kk.toplamKunye}`);
+  console.log(`ogrenme cekirdegi: ${f.ogrenmeCekirdegi.adim}/${f.ogrenmeCekirdegi.adim} makale · `
+    + `${f.ogrenmeCekirdegi.rota} rota · ${f.ogrenmeCekirdegi.ortalama}/10`);
 }

@@ -13,7 +13,6 @@ guven_geneli: tartismali
 etiketler: [olay-tarihi, annales, simiand, olayin-geri-donusu, mikro-tarih, tarih-yazimi]
 ilgili:
   - dusunur-braudel
-  - kavram-konjonktur
   - kavram-longue-duree
   - kavram-tarih-yazimi
   - kavram-donemlendirme
@@ -109,7 +108,7 @@ kaynak_siniri: >-
   événementielle* teriminin kime ait olduğunu söylemediği için terim
   sahiplendirilmedi.
 son_denetim: 2026-08-30
-denetim_durumu: bekliyor
+denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
@@ -157,7 +156,7 @@ süresi, ve insanların ve olayların kendi yapıları içindeki tarihi.[^k7] Ol
 tarihi bu üçüncü kipin karşılığı sayılır; eşlemeyi buradaki künye kurmaz,
 adlandırmanın kaynağı [Fernand Braudel](/dusunur/braudel/) dosyasındadır.
 Katmanların kendisi orada, [longue durée](/kavram/longue-duree/) (uzun süre) ve
-[konjonktür](/kavram/konjonktur/) dosyalarında ele alınıyor.
+konjonktür kavramıyla birlikte ele alınıyor.
 
 ## Olayı tek kategori saymanın bedeli
 
