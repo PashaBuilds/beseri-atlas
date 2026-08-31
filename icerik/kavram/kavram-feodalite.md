@@ -38,13 +38,14 @@ kaynaklar:
     dogrulama_dizesi: "Marx"
     not: "Kavrami bir uretim tarzi olarak kullanan gelenek; bagimsiz alan adi"
   - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Fernand Braudel"
-    url: https://en.wikipedia.org/wiki/Fernand_Braudel
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Braudel"
-    not: "Yapisal tarih yaklasimi"
-son_denetim: 2026-08-21
+    tur: akademik
+    ad: "Fernand Braudel — Histoire et Sciences sociales: La longue durée, Annales ESC 13/4 (1958)"
+    url: https://www.persee.fr/doc/ahess_0395-2649_1958_num_13_4_2781
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: La longue durée
+    not: Braudel'in kendi yöntem makalesinin Persée tam metni; biyografik ayrıntıların değil longue
+      durée yaklaşımının birincil kavramsal kaynağıdır.
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

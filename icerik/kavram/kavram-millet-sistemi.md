@@ -41,12 +41,11 @@ kaynaklar:
   - anahtar: k4
     tur: birincil
     birincil_tur: belge
-    ad: Islahat Hatt-i Humayunu (18 Subat 1856) — donemin Fransizca metni
-    url: https://mjp.univ-perp.fr/constit/tr1856.htm
+    ad: "World History Commons — Ottoman Decree, 1856 (İngilizce çeviri; Jina Reader metin aynası)"
+    url: https://r.jina.ai/https://worldhistorycommons.org/ottoman-decree-1856
     erisim_tarihi: 2026-08-30
-    dogrulama_dizesi: tous mes sujets, qui, à mes yeux, sont tous égaux
-    not: Fermanin Fransizca diplomatik dolasim metni; esit tebaa vaadini gosterir. Osmanlica asil
-      degildir ve vaadin uygulandigini tek basina kanitlamaz.
+    dogrulama_dizesi: "Ottoman Decree, 1856"
+    not: "Fermanın modern İngilizce çevirisinin metin aynası; eşit tebaa güvencesini gösterir. Osmanlıca asıl değildir ve vaadin uygulandığını tek başına kanıtlamaz."
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -182,8 +181,9 @@ yerel mahkemeler ve vergi uygulamaları dönem ile bölgeye göre değişti. Cem
 eşraf, kadınlar ve alt sınıflar farklı yetkilere sahipti.
 
 On dokuzuncu yüzyıldaki reformlar temsil kurumlarını ve “millet” dilini yeniden
-düzenledi.[^k2] Sonraki milliyetçiliklerin etkisiyle[^k4] erken dönemleri aynı kategorilerle
-okumak anakronizm yaratabilir. Kavram kullanılırken hangi yüzyıl, hukuk alanı ve
+düzenledi.[^k2] 1856 Islahat Fermanı, bütün tebaa için sınıf ve din ayrımı gözetmeden
+güvence dilini genişletti.[^k4] Bu on dokuzuncu yüzyıl reform dilini erken dönemlere
+geri taşımak anakronizm yaratabilir. Kavram kullanılırken hangi yüzyıl, hukuk alanı ve
 cemaatin kastedildiği belirtilmelidir. Dinî farklılığın yönetilmesi ile modern anlamda
 azınlık hakları, hoşgörü veya ayrı egemenlik kavramları birbirinin yerine
 geçirilmemelidir.[^k3]

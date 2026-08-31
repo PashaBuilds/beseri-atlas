@@ -37,12 +37,13 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Trade route"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Silk Road"
-    url: https://en.wikipedia.org/wiki/Silk_Road
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Silk Road"
-    not: "Kaynagin ilk sirada saydigi kara yolu"
+    tur: ders
+    ad: OpenStax — World History Volume 1, 12.2 East-West Interactions in the Early Middle Ages
+    url: https://openstax.org/books/world-history-volume-1/pages/12-2-east-west-interactions-in-the-early-middle-ages
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Silk Roads
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
   - anahtar: k3
     tur: veri
     ad: "Our World in Data - Population, long-run with projections (CSV verisi)"
@@ -50,7 +51,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
     not: "Yollarin bagladigi nufusun toplami; bagimsiz alan adi"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

@@ -7,23 +7,25 @@ isler:
     baslik: Taoizm
     durum: onaylandi
     faz: 6
-    bagimlilik: [kavram-legalizm]
+    bagimlilik:
+      - kavram-legalizm
     atanan_parti: B17
     deneme: 0
     yonerge: >
-      Dogu Asya kavram katmaninin ikinci dosyasi. Legalizm dosyasiyla ayni
-      adlandirma sorununu paylasir; iki temel metne birden baglanir.
+      Dogu Asya kavram katmaninin ikinci dosyasi. Legalizm dosyasiyla ayni adlandirma sorununu
+      paylasir; iki temel metne birden baglanir.
   - id: kavram-legalizm
     tip: kavram
     baslik: Legalizm
     durum: onaylandi
     faz: 6
-    bagimlilik: [dusunur-han-feizi]
+    bagimlilik:
+      - dusunur-han-feizi
     atanan_parti: B16
     deneme: 0
     yonerge: >
-      Han Feizi dosyasinin isaret ettigi boslugu kapatir; Dogu Asya kavram
-      katmaninin ilk dosyasi. Adlandirma sorunu makalenin kendi konusu.
+      Han Feizi dosyasinin isaret ettigi boslugu kapatir; Dogu Asya kavram katmaninin ilk dosyasi.
+      Adlandirma sorunu makalenin kendi konusu.
   - id: dusunur-han-feizi
     tip: dusunur
     baslik: Han Feizi
@@ -33,8 +35,8 @@ isler:
     atanan_parti: B15
     deneme: 0
     yonerge: >
-      Dogu Asya dusunur katmaninin ucuncu dosyasi. Kautilya ve Nizamulmulk ile
-      birlikte uc uygarliktan uc devlet yonetme el kitabi karsilastirmasi kurar.
+      Dogu Asya dusunur katmaninin ucuncu dosyasi. Kautilya ve Nizamulmulk ile birlikte uc
+      uygarliktan uc devlet yonetme el kitabi karsilastirmasi kurar.
   - id: aktor-chola
     tip: aktor
     baslik: Chola İmparatorluğu
@@ -44,8 +46,8 @@ isler:
     atanan_parti: B14
     deneme: 0
     yonerge: >
-      Guney Asya kumesine ucuncu birincil kaynak turunu ekler: islem kaydi.
-      Iki farkli editorun kitabe nesrine baglanir.
+      Guney Asya kumesine ucuncu birincil kaynak turunu ekler: islem kaydi. Iki farkli editorun
+      kitabe nesrine baglanir.
   - id: dusunur-asoka
     tip: dusunur
     baslik: Aşoka
@@ -55,9 +57,8 @@ isler:
     atanan_parti: B13
     deneme: 0
     yonerge: >
-      Indus dosyasinin tam karsiti kaynak durumu. Iki bagimsiz kitabe nesrine
-      baglanir; okunamayan alfabe / sonradan okunan alfabe karsilastirmasi
-      iki dosyayi birbirine baglar.
+      Indus dosyasinin tam karsiti kaynak durumu. Iki bagimsiz kitabe nesrine baglanir; okunamayan
+      alfabe / sonradan okunan alfabe karsilastirmasi iki dosyayi birbirine baglar.
   - id: aktor-indus-vadisi
     tip: aktor
     baslik: İndus Vadisi Uygarlığı
@@ -67,8 +68,8 @@ isler:
     atanan_parti: B12
     deneme: 0
     yonerge: >
-      Guney Asya'nin en eski katmani. Iki bagimsiz kazi raporuna baglanir;
-      metin olmadan ne bilinebilir sorusu makalenin kendi konusudur.
+      Guney Asya'nin en eski katmani. Iki bagimsiz kazi raporuna baglanir; metin olmadan ne
+      bilinebilir sorusu makalenin kendi konusudur.
   - id: aktor-kilva
     tip: aktor
     baslik: Kilva Sultanlığı
@@ -78,8 +79,8 @@ isler:
     atanan_parti: B11
     deneme: 0
     yonerge: >
-      Afrika kumesinin ilk dogu kiyisi dosyasi. Buyuk Zimbabve ile ayni
-      ticaret zincirinin iki ucunu olusturur; sifir giris kapisi kunyesi.
+      Afrika kumesinin ilk dogu kiyisi dosyasi. Buyuk Zimbabve ile ayni ticaret zincirinin iki ucunu
+      olusturur; sifir giris kapisi kunyesi.
   - id: aktor-kanem-bornu
     tip: aktor
     baslik: Kanem-Bornu
@@ -89,19 +90,19 @@ isler:
     atanan_parti: B10
     deneme: 0
     yonerge: >
-      Afrika kapsaminda ucuncu adim. Leo Africanus'un cagdas tarifine baglanir;
-      Gana dosyasiyla karsilastirmali okunacak sekilde yazildi.
-  - id: aktor-gana-kralligi
+      Afrika kapsaminda ucuncu adim. Leo Africanus'un cagdas tarifine baglanir; Gana dosyasiyla
+      karsilastirmali okunacak sekilde yazildi.
+  - id: aktor-gana-imparatorlugu
     tip: aktor
-    baslik: Gana Krallığı
+    baslik: Gana İmparatorluğu
     durum: onaylandi
     faz: 6
     bagimlilik: []
     atanan_parti: B09
     deneme: 0
     yonerge: >
-      Afrika kapsaminda ikinci adim. Birincil metin bulunamadi; aktarim
-      zincirinin uzunlugu makalenin kendi konusu olarak islenir.
+      Afrika kapsaminda ikinci adim. Birincil metin bulunamadi; aktarim zincirinin uzunlugu
+      makalenin kendi konusu olarak islenir.
   - id: dusunur-ibn-battuta
     tip: dusunur
     baslik: İbn Battûta
@@ -111,8 +112,8 @@ isler:
     atanan_parti: B08
     deneme: 0
     yonerge: >
-      Afrika kapsam boslugunda ilk adim. Rihle hem birincil kaynak hem
-      guvenilirligi tartismali bir metin; ikilik makalede islenir.
+      Afrika kapsam boslugunda ilk adim. Rihle hem birincil kaynak hem guvenilirligi tartismali bir
+      metin; ikilik makalede islenir.
   - id: aktor-harizmsahlar
     tip: aktor
     baslik: Hârizmşahlar
@@ -122,20 +123,19 @@ isler:
     atanan_parti: B07
     deneme: 0
     yonerge: >
-      Orta Asya kumesinin kronolojik olarak son halkasi. Cagdas kaynak
-      Cuveyni, Mogol yonetiminde gorevliydi; kaynak tarafliligi metinde
-      acikca islenir.
-  - id: aktor-selcuklular
+      Orta Asya kumesinin kronolojik olarak son halkasi. Cagdas kaynak Cuveyni, Mogol yonetiminde
+      gorevliydi; kaynak tarafliligi metinde acikca islenir.
+  - id: aktor-buyuk-selcuklu
     tip: aktor
-    baslik: Selçuklular
+    baslik: Büyük Selçuklu İmparatorluğu
     durum: onaylandi
     faz: 6
     bagimlilik: []
     atanan_parti: B06
     deneme: 0
     yonerge: >
-      Nizamulmulk dosyasinda isaretlenen boslugu kapatir. Donemin icinden
-      birincil kaynaga (Siyasetname) baglanan ilk aktor dosyasi.
+      Nizamulmulk dosyasinda isaretlenen boslugu kapatir. Donemin icinden birincil kaynaga
+      (Siyasetname) baglanan ilk aktor dosyasi.
   - id: dusunur-nizamulmulk
     tip: dusunur
     baslik: Nizâmülmülk
@@ -145,8 +145,8 @@ isler:
     atanan_parti: B05
     deneme: 0
     yonerge: >
-      Siyasetname'nin ceviri tam metnine baglanir. Kutadgu Bilig ile ayni
-      turun iki ornegi olarak karsilastirilir.
+      Siyasetname'nin ceviri tam metnine baglanir. Kutadgu Bilig ile ayni turun iki ornegi olarak
+      karsilastirilir.
   - id: aktor-karahanlilar
     tip: aktor
     baslik: Karahanlılar
@@ -156,8 +156,8 @@ isler:
     atanan_parti: B04
     deneme: 0
     yonerge: >
-      Orta Asya kumesinde ilk cift birincil metinli dosya; Kutadgu Bilig ve
-      Divanu Lugati't-Turk ceviri tam metinlerine baglanir.
+      Orta Asya kumesinde ilk cift birincil metinli dosya; Kutadgu Bilig ve Divanu Lugati't-Turk
+      ceviri tam metinlerine baglanir.
   - id: aktor-samaniler
     tip: aktor
     baslik: Sâmânîler
@@ -167,8 +167,8 @@ isler:
     atanan_parti: B03
     deneme: 0
     yonerge: >
-      Orta Asya kapsaminda ilk siyasi birim dosyasi. Birincil metin
-      bulunamadi; kisit makale metninde acikca beyan edildi.
+      Orta Asya kapsaminda ilk siyasi birim dosyasi. Birincil metin bulunamadi; kisit makale
+      metninde acikca beyan edildi.
   - id: dusunur-biruni
     tip: dusunur
     baslik: Bîrûnî
@@ -178,8 +178,8 @@ isler:
     atanan_parti: B02
     deneme: 0
     yonerge: >
-      Orta Asya boslugunda ikinci adim. Iki birincil metne baglanir; kaynak
-      bagimsizligindaki zayiflik makale metninde beyan edilir.
+      Orta Asya boslugunda ikinci adim. Iki birincil metne baglanir; kaynak bagimsizligindaki
+      zayiflik makale metninde beyan edilir.
   - id: dusunur-ibn-sina
     tip: dusunur
     baslik: İbn Sînâ
@@ -189,9 +189,8 @@ isler:
     atanan_parti: B01
     deneme: 0
     yonerge: >
-      Orta Asya kapsam boslugunun ilk kapatma adimi. Kunyede giris kapisi
-      kaynagi bulunmaz; eserin kendi metnine baglanir. Faz 6 kaynak
-      standardinin ilk ornegi.
+      Orta Asya kapsam boslugunun ilk kapatma adimi. Kunyede giris kapisi kaynagi bulunmaz; eserin
+      kendi metnine baglanir. Faz 6 kaynak standardinin ilk ornegi.
   - id: donem-13
     tip: donem
     baslik: 1914–1945 — Felaket Dönemi
@@ -992,15 +991,6 @@ isler:
       - donem-06
     atanan_parti: null
     deneme: 0
-  - id: aktor-buyuk-selcuklu
-    tip: aktor
-    baslik: Büyük Selçuklu Devleti
-    durum: onaylandi
-    faz: 2
-    bagimlilik:
-      - donem-07
-    atanan_parti: null
-    deneme: 0
   - id: aktor-song-hanedani
     tip: aktor
     baslik: Song hanedanı
@@ -1255,15 +1245,6 @@ isler:
     faz: 2
     bagimlilik:
       - donem-05
-    atanan_parti: null
-    deneme: 0
-  - id: aktor-gana-imparatorlugu
-    tip: aktor
-    baslik: Gana İmparatorluğu
-    durum: onaylandi
-    faz: 2
-    bagimlilik:
-      - donem-06
     atanan_parti: null
     deneme: 0
   - id: aktor-songhay-imparatorlugu
@@ -3232,3 +3213,1347 @@ isler:
     bagimlilik: []
     atanan_parti: null
     deneme: 0
+  - id: olay-adva-1896
+    tip: olay
+    baslik: Adva Savaşı (1896)
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: olay-bagdat-kusatmasi-1258
+    tip: olay
+    baslik: Bağdat kuşatması (1258)
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: olay-bengal-kitligi-1943
+    tip: olay
+    baslik: Bengal kıtlığı (1943)
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: olay-cezayir-savasi
+    tip: olay
+    baslik: Cezayir Savaşı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: olay-herero-nama-1904
+    tip: olay
+    baslik: Herero ve Nama ayaklanmaları (1904–1908)
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: olay-kongo-serbest-devleti
+    tip: olay
+    baslik: Kongo Serbest Devleti
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: olay-malaka-fethi-1511
+    tip: olay
+    baslik: Malaka'nın alınması (1511)
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: olay-mfecane
+    tip: olay
+    baslik: Mfecane (1815–1840)
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: olay-morant-bay-ayaklanmasi
+    tip: olay
+    baslik: Morant Bay ayaklanması
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: olay-pasifik-nukleer-denemeleri
+    tip: olay
+    baslik: Pasifik'te nükleer denemeler (1946–1996)
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: olay-plassey-1757
+    tip: olay
+    baslik: Plassey Savaşı (1757)
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: olay-rus-turkistan-fethi
+    tip: olay
+    baslik: Türkistan'ın Rusya tarafından fethi
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: olay-truman-doktrini
+    tip: olay
+    baslik: Truman Doktrini
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: olay-tupac-amaru-ayaklanmasi-1780
+    tip: olay
+    baslik: Túpac Amaru Ayaklanması (1780–1783)
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: olay-waitangi-antlasmasi-1840
+    tip: olay
+    baslik: Waitangi Antlaşması (1840)
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-ace-sultanligi
+    tip: aktor
+    baslik: Açe Sultanlığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-altin-orda
+    tip: aktor
+    baslik: Altın Orda
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-asanti-imparatorlugu
+    tip: aktor
+    baslik: Aşanti İmparatorluğu
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-avam-kamarasi
+    tip: aktor
+    baslik: Avam Kamarası
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-avustralya-yerli-halklari
+    tip: aktor
+    baslik: Avustralya yerli halkları
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-ayutthaya-kralligi
+    tip: aktor
+    baslik: Ayutthaya Krallığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-banaba
+    tip: aktor
+    baslik: Banaba
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-bengal-sultanligi
+    tip: aktor
+    baslik: Bengal Sultanlığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-benin-kralligi
+    tip: aktor
+    baslik: Benin Krallığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-bm-guvenlik-konseyi
+    tip: aktor
+    baslik: BM Güvenlik Konseyi
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-buhara-hanligi
+    tip: aktor
+    baslik: Buhara Hanlığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-cagatay-hanligi
+    tip: aktor
+    baslik: Çağatay Hanlığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-cahokia
+    tip: aktor
+    baslik: Cahokia
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-dahomey-kralligi
+    tip: aktor
+    baslik: Dahomey Krallığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-deniz-kavimleri
+    tip: aktor
+    baslik: Deniz Kavimleri
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-fiji-kralligi
+    tip: aktor
+    baslik: Fiji Krallığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-gucerat-sultanligi
+    tip: aktor
+    baslik: Gucerât Sultanlığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-haudenosaunee
+    tip: aktor
+    baslik: Haudenosaunee Konfederasyonu
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-hawai-kralligi
+    tip: aktor
+    baslik: Hawai Krallığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-hazarlar
+    tip: aktor
+    baslik: Hazarlar
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-hive-hanligi
+    tip: aktor
+    baslik: Hîve Hanlığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-hokand-hanligi
+    tip: aktor
+    baslik: Hokand Hanlığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-ilhanlilar
+    tip: aktor
+    baslik: İlhanlılar
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-karluklar
+    tip: aktor
+    baslik: Karluklar
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-kirgizlar
+    tip: aktor
+    baslik: Kırgızlar
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-komance
+    tip: aktor
+    baslik: Komançe
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-kongo-kralligi
+    tip: aktor
+    baslik: Kongo Krallığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-kus-kralligi
+    tip: aktor
+    baslik: Kuş Krallığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-kusan-imparatorlugu
+    tip: aktor
+    baslik: Kuşan İmparatorluğu
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-lapita-kulturu
+    tip: aktor
+    baslik: Lapita kültürü
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-malaka-sultanligi
+    tip: aktor
+    baslik: Malaka Sultanlığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-maldiv-sultanligi
+    tip: aktor
+    baslik: Maldiv Sultanlığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-maori
+    tip: aktor
+    baslik: Maori
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-mapuche
+    tip: aktor
+    baslik: Mapuçe
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-marathalar
+    tip: aktor
+    baslik: Marathalar
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-moche
+    tip: aktor
+    baslik: Moche
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-murabitlar
+    tip: aktor
+    baslik: Murâbıtlar
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-muvahhidler
+    tip: aktor
+    baslik: Muvahhidler
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-nauru
+    tip: aktor
+    baslik: Nauru
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-olmek
+    tip: aktor
+    baslik: Olmek
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-oyo-imparatorlugu
+    tip: aktor
+    baslik: Oyo İmparatorluğu
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-pagan-kralligi
+    tip: aktor
+    baslik: Pagan Krallığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-portekiz-imparatorlugu
+    tip: aktor
+    baslik: Portekiz İmparatorluğu
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-rapa-nui
+    tip: aktor
+    baslik: Rapa Nui
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-ryukyu-kralligi
+    tip: aktor
+    baslik: Ryukyu Krallığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-samoa-kralligi
+    tip: aktor
+    baslik: Samoa Krallığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-seybaniler
+    tip: aktor
+    baslik: Şeybânîler
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-sogdlular
+    tip: aktor
+    baslik: Soğdlular
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-sokoto-hilafeti
+    tip: aktor
+    baslik: Sokoto Hilafeti
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-teotihuacan
+    tip: aktor
+    baslik: Teotihuacan
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-tonga-kralligi
+    tip: aktor
+    baslik: Tonga Krallığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-uygur-kaganligi
+    tip: aktor
+    baslik: Uygur Kağanlığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-vijayanagara
+    tip: aktor
+    baslik: Vijayanagara
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-yeni-hebridler-ortak-yonetimi
+    tip: aktor
+    baslik: Yeni Hebridler ortak yönetimi
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-zulu-kralligi
+    tip: aktor
+    baslik: Zulu Krallığı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: dusunur-ambedkar
+    tip: dusunur
+    baslik: B. R. Ambedkar
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: dusunur-ban-zhao
+    tip: dusunur
+    baslik: Ban Zhao
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: dusunur-bentham
+    tip: dusunur
+    baslik: Jeremy Bentham
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: dusunur-du-bois
+    tip: dusunur
+    baslik: W. E. B. Du Bois
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: dusunur-fanon
+    tip: dusunur
+    baslik: Frantz Fanon
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: dusunur-gandhi
+    tip: dusunur
+    baslik: Gandhi
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: dusunur-harriet-taylor
+    tip: dusunur
+    baslik: Harriet Taylor Mill
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: dusunur-katib-celebi
+    tip: dusunur
+    baslik: Kâtib Çelebi
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: dusunur-las-casas
+    tip: dusunur
+    baslik: Bartolomé de las Casas
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: dusunur-mengzi
+    tip: dusunur
+    baslik: Mengzi
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: dusunur-nagarjuna
+    tip: dusunur
+    baslik: Nāgārjuna
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: dusunur-sankara
+    tip: dusunur
+    baslik: Şankara
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: dusunur-stephen
+    tip: dusunur
+    baslik: James Fitzjames Stephen
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: dusunur-ulug-bey
+    tip: dusunur
+    baslik: Uluğ Bey
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: dusunur-wang-yangming
+    tip: dusunur
+    baslik: Wang Yangming
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: dusunur-zhu-xi
+    tip: dusunur
+    baslik: Zhu Xi
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-akrabalik
+    tip: kavram
+    baslik: Akrabalık düzeni
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-aletsiz-seyrusefer
+    tip: kavram
+    baslik: Aletsiz seyrüsefer
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-apartheid
+    tip: kavram
+    baslik: Apartheid düzeni
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-asimetrik-savas
+    tip: kavram
+    baslik: Asimetrik savaş
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-avustronezya-yayilmasi
+    tip: kavram
+    baslik: Avustronezya yayılması
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-belge-okumasi
+    tip: kavram
+    baslik: Belge okuması
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-canak-comleksiz-neolitik
+    tip: kavram
+    baslik: Çanak Çömleksiz Neolitik
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-devsirme
+    tip: kavram
+    baslik: Devşirme
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-esitsiz-antlasmalar
+    tip: kavram
+    baslik: Eşitsiz antlaşmalar
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-faydacilik
+    tip: kavram
+    baslik: Faydacılık
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-fiyat-devrimi
+    tip: kavram
+    baslik: Fiyat devrimi
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-himaye-duzeni
+    tip: kavram
+    baslik: Himaye düzeni
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-hint-okyanusu-ticareti
+    tip: kavram
+    baslik: Hint Okyanusu ticareti
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-ideoloji
+    tip: kavram
+    baslik: İdeoloji
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-iltizam
+    tip: kavram
+    baslik: İltizam
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-ittifak-sistemi
+    tip: kavram
+    baslik: İttifak sistemi
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-kanit-turu
+    tip: kavram
+    baslik: Kanıt türü
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-kapitulasyon
+    tip: kavram
+    baslik: Kapitülasyon
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-kipu
+    tip: kavram
+    baslik: Kipu
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-konfucyuscluk
+    tip: kavram
+    baslik: Konfüçyüsçülük
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-konjonktur
+    tip: kavram
+    baslik: Konjonktür
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-kula-halkasi
+    tip: kavram
+    baslik: Kula halkası
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-kurulus-anlatisi
+    tip: kavram
+    baslik: Kuruluş anlatısı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-lojistik
+    tip: kavram
+    baslik: Lojistik
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-lonca
+    tip: kavram
+    baslik: Lonca
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-modernlesme-kurami
+    tip: kavram
+    baslik: Modernleşme kuramı
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-okuryazarlik
+    tip: kavram
+    baslik: Okuryazarlık
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-olay-tarihi
+    tip: kavram
+    baslik: Olay tarihi
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-pamuk-tek-urun
+    tip: kavram
+    baslik: Tek ürüne bağlanma
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-pasifik-isci-toplama
+    tip: kavram
+    baslik: Pasifik işçi toplama düzeni
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-satin-alma-gucu-paritesi
+    tip: kavram
+    baslik: Satın alma gücü paritesi
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-seferberlik
+    tip: kavram
+    baslik: Seferberlik
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-serflik
+    tip: kavram
+    baslik: Serflik
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-silahli-ticaret
+    tip: kavram
+    baslik: Silahlı ticaret
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-somurgecilik
+    tip: kavram
+    baslik: Sömürgecilik
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-sunni-islam
+    tip: kavram
+    baslik: Sünnî İslam
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-svahili-kiyisi
+    tip: kavram
+    baslik: Svahili kıyısı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-takvim
+    tip: kavram
+    baslik: Takvim ve tarih çevirisi
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-teleolojik-okuma
+    tip: kavram
+    baslik: Teleolojik okuma
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-teodise
+    tip: kavram
+    baslik: Teodise
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-ticaret-hadleri
+    tip: kavram
+    baslik: Ticaret hadleri
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-toplumsal-cinsiyet-duzeni
+    tip: kavram
+    baslik: Toplumsal cinsiyet düzeni
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-ulema
+    tip: kavram
+    baslik: Ulema
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-vakif
+    tip: kavram
+    baslik: Vakıf
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-vasallik
+    tip: kavram
+    baslik: Vasallık
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-vatandaslik
+    tip: kavram
+    baslik: Vatandaşlık
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-vekalet-savasi
+    tip: kavram
+    baslik: Vekâlet savaşı
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-veraset
+    tip: kavram
+    baslik: Veraset kuralı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-vesayet-yonetimi
+    tip: kavram
+    baslik: Vesayet yönetimi
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-zarar-ilkesi
+    tip: kavram
+    baslik: Zarar ilkesi
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kavram-zorunlu-emek-duzeni
+    tip: kavram
+    baslik: Zorunlu emek düzeni
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: tartisma-belge-ne-zaman-yururlukte
+    tip: tartisma
+    baslik: Bir belge ne zaman yürürlüktedir?
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: tartisma-orta-asya-neden-cekildi
+    tip: tartisma
+    baslik: Orta Asya gerçekten kenara mı düştü?
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: tartisma-sozlu-gelenek-kaynak-mi
+    tip: tartisma
+    baslik: Sözlü gelenek tarihsel kaynak sayılır mı?
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: tartisma-waitangi-hangi-metin
+    tip: tartisma
+    baslik: Aynı antlaşmanın iki metni çelişiyorsa hangisi geçerlidir?
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: veri-ticaret-payi
+    tip: veri
+    baslik: Ticaretin GSYH içindeki payı, 1970–2024
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-afrika-birligi-sarti
+    tip: kaynak
+    baslik: Afrika Birliği Teşkilatı Şartı (1963)
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-ain-i-akbari
+    tip: kaynak
+    baslik: Ebü'l-Fazl — Âyîn-i Ekberî
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-baburname
+    tip: kaynak
+    baslik: Bâbür — Bâbürnâme
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-camiut-tevarih
+    tip: kaynak
+    baslik: Reşîdüddin — Câmiu't-Tevârîh
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-cook-guney-seyir-defteri
+    tip: kaynak
+    baslik: James Cook — Güney Kutbuna Doğru Yolculuk
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-fetha-nagast
+    tip: kaynak
+    baslik: Fetha Nagast (Kralların Kanunu)
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-gilgamis-destani
+    tip: kaynak
+    baslik: Gılgamış Destanı
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-guaman-poma-nueva-coronica
+    tip: kaynak
+    baslik: Guamán Poma — Nueva Corónica y Buen Gobierno
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-gulhane-hatti
+    tip: kaynak
+    baslik: Gülhane Hatt-ı Şerîfi
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-hammurabi-kanunlari
+    tip: kaynak
+    baslik: Hammurabi Kanunları
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-hindistan-anayasasi
+    tip: kaynak
+    baslik: Hindistan Anayasası (1950)
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-ibn-battuta-rihle
+    tip: kaynak
+    baslik: İbn Battûta — Rihle
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-insan-haklari-beyannamesi
+    tip: kaynak
+    baslik: İnsan Hakları Evrensel Beyannamesi
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-kanunuesasi-1876
+    tip: kaynak
+    baslik: Kânûn-ı Esâsî (1876)
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-kautilya-arthasastra
+    tip: kaynak
+    baslik: Kautilya — Arthaşastra
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-kojiki
+    tip: kaynak
+    baslik: Kojiki (Eski Olayların Kaydı)
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-kurukan-fuga-sarti
+    tip: kaynak
+    baslik: Kurukan Fuga Şartı (Manden Şartı)
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-liberya-bagimsizlik-bildirisi
+    tip: kaynak
+    baslik: Liberya Bağımsızlık Bildirisi (1847)
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-magna-carta
+    tip: kaynak
+    baslik: Magna Carta
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-meiji-anayasasi
+    tip: kaynak
+    baslik: Meiji Anayasası (1889)
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-orhon-yazitlari
+    tip: kaynak
+    baslik: Orhon Yazıtları
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-piri-reis-kitab-i-bahriye
+    tip: kaynak
+    baslik: Pîrî Reis — Kitâb-ı Bahriye
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-popol-vuh
+    tip: kaynak
+    baslik: Popol Vuh
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-timbuktu-tarihleri
+    tip: kaynak
+    baslik: Timbüktü tarihleri — Târîhu's-Sûdân ve Târîhu'l-Fettâş
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-tordesillas-antlasmasi
+    tip: kaynak
+    baslik: Tordesillas Antlaşması
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: kaynak-yusuf-has-hacib-kutadgu-bilig
+    tip: kaynak
+    baslik: Yûsuf Has Hâcib — Kutadgu Bilig
+    durum: onaylandi
+    faz: 0
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1

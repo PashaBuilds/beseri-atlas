@@ -38,12 +38,12 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "The Peloponnesian War"
   - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) — Axial Age"
-    url: https://en.wikipedia.org/wiki/Axial_Age
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Axial Age"
-    not: "Dönemin düşünsel çerçevesi için"
+    tur: akademik
+    ad: Internet Archive katalog kaydı — Karl Jaspers, The Origin and Goal of History (1953)
+    url: https://archive.org/details/origingoalofhist0000jasp
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: The origin and goal of history
+    not: Eksen Cagi terimini yayginlastiran eserin katalog kaydi; tezin evrenselligini dogrulamaz.
   - anahtar: k4
     tur: ansiklopedi
     ad: "Wikipedia (EN) — Greco-Persian Wars"
@@ -51,7 +51,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-30
     dogrulama_dizesi: "Greco-Persian Wars"
     not: "Savaşların kronolojisi ve askerî-siyasi sonuçları"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

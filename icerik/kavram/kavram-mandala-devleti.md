@@ -32,12 +32,13 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Mandala"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Srivijaya"
-    url: https://en.wikipedia.org/wiki/Srivijaya
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Srivijaya"
-    not: "Kaynagin ornek verdigi devlet"
+    tur: ders
+    ad: OpenStax — World History Volume 2, 2.2 The Malacca Sultanate
+    url: https://openstax.org/books/world-history-volume-2/pages/2-2-the-malacca-sultanate
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Srivijaya
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Thomas Hobbes"
@@ -45,7 +46,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Hobbes"
     not: "Mutlak egemenlik karsit ornegi; bagimsiz alan adi"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

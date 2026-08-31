@@ -27,6 +27,7 @@ export function raporUret() {
   const makaleler = makaleleriTopla();
   const durum = durumOku();
   const kuyruk = yamlOku(path.join(KOK, 'plan', 'kuyruk.yaml'))?.isler || [];
+  const uretimAdaylari = yamlOku(path.join(KOK, 'plan', 'uretim-kuyrugu.yaml'))?.adaylar || [];
   const kapsam = yamlOku(path.join(KOK, 'plan', 'kapsam.yaml'));
   const met = metrikleriHesapla({ makaleler, isler: kuyruk });
   const mf = metrikDosyasi();
@@ -56,8 +57,8 @@ export function raporUret() {
     + `Karantinada: **${karantina.length}**`, '');
   if (kapsamToplam) {
     const oran = ((onayli.length / kapsamToplam) * 100).toFixed(1);
-    s.push(`Planlanan tam kapsam **${kapsamToplam}** makaledir; bu raporun yazıldığı anda`,
-      `**%${oran}**'i yayına girmiştir. Kalan iş \`plan/kuyruk.yaml\` içinde durumuyla`,
+    s.push(`Başlangıçta planlanan kapsam **${kapsamToplam}** makaledir; bu raporun yazıldığı anda`,
+      `bu tabanın **%${oran}**'i kadar içerik yayına girmiştir. Kalan iş \`plan/kuyruk.yaml\` içinde durumuyla`,
       'birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.', '');
   }
   s.push('| Tip | Yayımlanan |', '|---|---|');
@@ -77,9 +78,13 @@ export function raporUret() {
         + `${HEDEFLER[tip].min}–${HEDEFLER[tip].max} |`);
     }
     s.push('', '`veri` ve `kaynak` tiplerinde §3 uzunluk hedefi vermediği için ölçüm',
-      'dışıdır. Borcun makale bazlı dökümü `denetim/derinlik-borcu.md` dosyasındadır;',
-      'neden kapatılamadığı ve hangi kararın beklendiği `denetim/MUDAHALE-GEREKLI.md`',
-      'içinde kayıtlıdır.', '');
+      'dışıdır. Borcun makale bazlı dökümü `denetim/derinlik-borcu.md` dosyasındadır.');
+    if (der.eksikKelime === 0) {
+      s.push('Bu koşuda ölçülen derinlik borcu bütünüyle kapanmıştır.', '');
+    } else {
+      s.push('Açık kalma gerekçeleri ve bekleyen kararlar `denetim/MUDAHALE-GEREKLI.md`',
+        'içinde kayıtlıdır.', '');
+    }
   }
 
   s.push('## Doğrulama', '');
@@ -173,23 +178,39 @@ export function raporUret() {
   s.push('**Site, kitapların yerine değil, onlara giden yol olarak kullanılmalıdır.**', '');
 
   if (durum) {
-    const bekleyen = kuyruk.filter((i) => i.durum === 'bekliyor').length;
+    const makaleIdleri = new Set(makaleler.map((m) => m.fm.id));
+    const bekleyenIsler = kuyruk.filter((i) => i.durum === 'bekliyor');
+    const bekleyen = bekleyenIsler.length;
+    const bekleyenTaslak = bekleyenIsler.filter((i) => makaleIdleri.has(i.id)).length;
+    const uretilmemis = bekleyen - bekleyenTaslak;
     const karantinaKuyruk = kuyruk.filter((i) => i.durum === 'karantina').length;
     s.push('## Hattın durduğu nokta', '');
     s.push(`Aktif faz: **${durum.aktif_faz}** · Aktif parti: **${durum.aktif_parti}**`);
     s.push(`Kuyrukta bekleyen iş: **${bekleyen}** · Karantinada: **${karantinaKuyruk}**`);
-    s.push(`Harcanan bütçe: ${durum.butce.harcanan_token.toLocaleString('tr-TR')} / `
-      + `${durum.butce.toplam_token_tavani.toLocaleString('tr-TR')} token`, '');
+    s.push(`Bekleyenlerden dosyası mevcut taslak: **${bekleyenTaslak}** · Henüz üretilmemiş: **${uretilmemis}**`);
+    if (uretimAdaylari.length) {
+      s.push(`Yeni büyüme hattı: **${uretimAdaylari.length}** araştırma adayı · `
+        + '`plan/uretim-kuyrugu.yaml`');
+    }
+    s.push(`Son kayıtlı otonom bütçe: ${durum.butce.harcanan_token.toLocaleString('tr-TR')} / `
+      + `${durum.butce.toplam_token_tavani.toLocaleString('tr-TR')} token `
+      + '(Codex devralma çalışması hariç)', '');
 
     // Durma sebebini AÇIKÇA yaz. "Bitti" ile "burada kaldı" karıştırılmamalı.
     if (bekleyen > 0) {
       s.push('### Neden burada duruyor', '');
       s.push('Hat bir kapı kırılması ya da durdurma kuralı nedeniyle durmadı:');
       s.push('bütün kapılar geçildi, örnekleme kapısı eşiğin üzerinde ve karantinada');
-      s.push('makale yok. Kuyrukta bekleyen iş, henüz üretilmemiş içeriktir.', '');
-      s.push('`npm run otonom` yeniden çalıştırıldığında hat `DURUM.md` ile');
-      s.push('`plan/kuyruk.yaml`yi okuyup sıradaki partiden devam eder; üretilmiş');
-      s.push('hiçbir iş tekrarlanmaz.', '');
+      s.push('makale yok.', '');
+      if (bekleyenTaslak > 0) {
+        s.push(`${bekleyenTaslak} içerik dosyası editoryal onay bekleyen taslaktır;`,
+          'bu dosyalar kalite borcu sayılmaz ve onay verilmeden canlı siteye çıkmaz.', '');
+      }
+      if (uretilmemis > 0) {
+        s.push(`${uretilmemis} iş henüz içerik dosyasına dönüşmemiştir.`, '');
+      }
+      s.push('Mevcut taslak hattı `npm run otonom`, yeni 60 adaylık büyüme hattı ise',
+        '`npm run uretim -- --durum` ile kaldığı yerden sürdürülebilir.', '');
     } else {
       s.push('Kuyrukta bekleyen iş kalmadı.', '');
     }

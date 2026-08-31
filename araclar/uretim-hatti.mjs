@@ -24,6 +24,7 @@ import { getir } from './getir.mjs';
 import { makaleKalitesi } from './linter-ogrenme-cekirdegi.mjs';
 
 export const URETIM_KUYRUGU = path.join(KOK, 'plan', 'uretim-kuyrugu.yaml');
+export const MERKEZI_KUYRUK = path.join(KOK, 'plan', 'kuyruk.yaml');
 export const PAKET_DIZINI = path.join(KOK, 'plan', 'uretim-paketleri');
 export const PARTI_DIZINI = path.join(KOK, 'plan', 'uretim-partileri');
 export const PARTI_MANIFESTI = path.join(PARTI_DIZINI, 'manifest.json');
@@ -39,6 +40,46 @@ function alanAdi(url) {
 export function uretimKuyruguOku() {
   const veri = yamlOku(URETIM_KUYRUGU);
   return { ...veri, adaylar: veri?.adaylar || [] };
+}
+
+/** Korpus ile operasyon kuyruğunun aynı işi ve aynı yayın durumunu taşıdığını ölçer. */
+export function merkeziKuyrukUyumsuzluklari(makaleler, isler) {
+  const sorunlar = [];
+  const makaleHaritasi = new Map(makaleler.filter((m) => m.fm.id).map((m) => [m.fm.id, m]));
+  const kuyrukHaritasi = new Map();
+
+  for (const is of isler || []) {
+    if (!is?.id) {
+      sorunlar.push({ yer: 'plan/kuyruk.yaml', mesaj: 'kimliksiz kuyruk satırı' });
+      continue;
+    }
+    if (kuyrukHaritasi.has(is.id)) {
+      sorunlar.push({ yer: 'plan/kuyruk.yaml', mesaj: `yinelenen kuyruk kimliği: ${is.id}` });
+      continue;
+    }
+    kuyrukHaritasi.set(is.id, is);
+  }
+
+  for (const [id, makale] of makaleHaritasi) {
+    const is = kuyrukHaritasi.get(id);
+    if (!is) {
+      sorunlar.push({ yer: makale.goreli, mesaj: 'makale merkezî kuyrukta yok' });
+      continue;
+    }
+    if (is.durum !== makale.fm.denetim_durumu) {
+      sorunlar.push({
+        yer: makale.goreli,
+        mesaj: `kuyruk durumu "${is.durum}", makale durumu "${makale.fm.denetim_durumu}"`,
+      });
+    }
+  }
+
+  for (const id of kuyrukHaritasi.keys()) {
+    if (!makaleHaritasi.has(id)) {
+      sorunlar.push({ yer: 'plan/kuyruk.yaml', mesaj: `korpusta olmayan kuyruk kimliği: ${id}` });
+    }
+  }
+  return sorunlar;
 }
 
 function basliklar(govde) {
@@ -75,6 +116,7 @@ export function uretimHattiDenetimi(makaleler = makaleleriTopla()) {
   const adaylar = veri.adaylar;
   const durumlar = new Set(veri.durumlar || []);
   const harita = new Map(makaleler.map((m) => [m.fm.id, m]));
+  const merkeziIsler = yamlOku(MERKEZI_KUYRUK)?.isler || [];
   let kaynakRaporu = null;
   try { kaynakRaporu = JSON.parse(fs.readFileSync(KAYNAK_RAPORU, 'utf8')); } catch { /* aşağıda açık hata */ }
   const kaynakKaydi = new Map((kaynakRaporu?.sonuclar || []).map((x) => [`${x.id}\n${x.url}`, x]));
@@ -90,6 +132,9 @@ export function uretimHattiDenetimi(makaleler = makaleleriTopla()) {
   if (soz.yonlu_bag_alani !== 'baglam') r.hata('plan/uretim-kuyrugu.yaml', 'tek yönlü bağlar yalnız `baglam` alanında tutulmalıdır');
   if (soz.kaynakli_derinlik_zorunlu !== true) r.hata('plan/uretim-kuyrugu.yaml', 'uzunluk hedefi yalnız kaynaklı içerikle tamamlanabilir');
   if (adaylar.length < 60) r.hata('plan/uretim-kuyrugu.yaml', `en az 60 araştırma adayı bekleniyor; bulunan ${adaylar.length}`);
+  for (const sorun of merkeziKuyrukUyumsuzluklari(makaleler, merkeziIsler)) {
+    r.hata(sorun.yer, sorun.mesaj);
+  }
 
   const gorulen = new Set();
   const rotalar = new Map();
@@ -174,6 +219,7 @@ export function uretimHattiDenetimi(makaleler = makaleleriTopla()) {
     `${adaylar.length} aday · ${rotalar.size} gelecek rota · ${partiIdleri.length}/${adaylar.length} üretim paketi · ${(partiManifesti?.partiler || []).length} paralel parti`,
     `${arastirmayaHazir} adayın başlangıç kaynakları doğrulandı`,
     `${[...kaynakKaydi.values()].filter((x) => x.okunabilir).length}/${kaynakRaporu?.kaynak_sayisi || 0} başlangıç kaynağı canlı ve okunabilir`,
+    `merkezî kuyruk ${merkeziIsler.length}/${makaleler.length} makale · kimlik ve yayın durumları birebir`,
     `yayın sözleşmesi ${soz.kaynak_min} kaynak / ${soz.alan_adi_min} alan adı / ${soz.yayin_puani}/10 · onaylanan ${yayinaHazir}`,
   ];
   r.olcum = {
@@ -184,6 +230,7 @@ export function uretimHattiDenetimi(makaleler = makaleleriTopla()) {
     parti: (partiManifesti?.partiler || []).length,
     canliKaynak: [...kaynakKaydi.values()].filter((x) => x.okunabilir).length,
     kaynakSayisi: kaynakRaporu?.kaynak_sayisi || 0,
+    merkeziKuyruk: merkeziIsler.length,
     onaylanan: yayinaHazir,
     sozlesme: soz,
   };

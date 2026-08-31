@@ -26,19 +26,20 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Spanish Civil War"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) — Interwar period"
-    url: https://en.wikipedia.org/wiki/Interwar_period
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Interwar period"
-    not: "Savaşın çağdaş çerçevesi"
+    tur: ders
+    ad: OpenStax — World History Volume 2, 12.1 Recovering from World War I
+    url: https://openstax.org/books/world-history-volume-2/pages/12-1-recovering-from-world-war-i
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Recovering from World War I
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
   - anahtar: k3
     tur: veri
     ad: "Our World in Data — Population, long-run with projections (CSV verisi)"
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

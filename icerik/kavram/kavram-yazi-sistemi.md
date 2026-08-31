@@ -42,13 +42,6 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Confucius"
     not: "Adin Latincelestirilmesi ornegi; bagimsiz alan adi"
-  - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - First Turkic Khaganate"
-    url: https://en.wikipedia.org/wiki/First_Turkic_Khaganate
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "First Turkic Khaganate"
-    not: "Farkli dillerin ayni yonetimde kullanildigi ornek"
   - anahtar: k4
     tur: birincil
     birincil_tur: kitabe
@@ -58,7 +51,7 @@ kaynaklar:
     dogrulama_dizesi: Orkhon
     not: Yazitlarin Ingilizce cevirisi ve nesri; yazinin dil, siyasal hitap ve dayanikli malzeme
       uzerindeki kullanimina birincil ornek. Taslarin kendisi degil bilimsel nesirdir.
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -81,7 +74,7 @@ uygulanabileceğini görünür kılar.
 
 Aynı yönetimde birden çok dilin kullanıldığı bir örnek için tutulan kayıt, bir
 kağanlığın ortak dillerini Eski Türkçe (resmî, hanedan ve gündelik), Soğdca
-(resmî, diplomasi, sikke) ve Juan-juan dili (resmî) olarak sıralar.[^k3] O
+(resmî, diplomasi, sikke) ve Juan-juan dili (resmî) olarak sıralar.[^k4] O
 kağanlık [Göktürk Kağanlığı](/aktor/gokturk-kaganligi/) dosyasında ele alınıyor.
 
 ## Adın yazıya geçirilmesi de bir karardır
@@ -100,7 +93,7 @@ heceyi ya da bir sesi karşılar.
 ilkeyi bir arada kullanır.
 
 Bir yazı sistemini tek bir biçimle
-adlandırmak, içindeki karma yapıyı görünmez kılar.[^k3]
+adlandırmak, içindeki karma yapıyı görünmez kılar.[^k4]
 
 ## İşaret sayısı ve erişim
 
@@ -113,7 +106,7 @@ bir sistem, yazıyı uzman bir sınıfa
 bağlar.
 
 Bir yazı sisteminin işaret sayısı,
-teknik bir ayrıntı değil bir erişim ölçütüdür.[^k3]
+teknik bir ayrıntı değil bir erişim ölçütüdür.[^k4]
 
 ## Dil ile yazının ayrılması
 
@@ -125,7 +118,7 @@ Kaynak dilde bulunmayan sesler yazılamaz.[^k2] Bu, uyarlanan dilin bazı
 ayrımlarını kayıt dışı bırakır.
 
 Bir dilin başka bir yazı sistemiyle
-kaydedilmesi, o dilin bir bölümünü kaydın dışına çıkarır.[^k3]
+kaydedilmesi, o dilin bir bölümünü kaydın dışına çıkarır.[^k4]
 
 ## Çözülememiş sistemler
 
@@ -137,7 +130,7 @@ anlaşılamaz.[^k2] Metin uzunluğu tek başına
 yetmez.
 
 Bir yazının çözülmesi, metinlerin
-çokluğundan çok bilinen bir dille kurulan bağa bağlıdır.[^k3]
+çokluğundan çok bilinen bir dille kurulan bağa bağlıdır.[^k4]
 
 ## Malzeme ile biçim
 
@@ -150,7 +143,7 @@ okurlar için bir sınıflandırma sorunu
 doğurur.
 
 Bir yazının biçimi, o yazının taşındığı
-malzemeden ayrı düşünülemez.[^k3][^k4]
+malzemeden ayrı düşünülemez.[^k4][^k4]
 
 ## Bugüne ulaşmanın koşulu
 
@@ -163,7 +156,7 @@ organik yüzey kullananlar seyrek
 bilinir.
 
 Bir yazı geleneğinin az bilinmesi, o
-geleneğin az üretim yaptığını göstermez.[^k3]
+geleneğin az üretim yaptığını göstermez.[^k4]
 
 ## Yazının ilk işi
 
@@ -174,7 +167,7 @@ Bu, yazının neden icat edildiğini gösterir.[^k2] Anlatı için değil
 sayma ve izleme için.
 
 Bir aracın ilk kullanımı, sonraki
-kullanımlarının hiçbirini önceden belirlemez.[^k3]
+kullanımlarının hiçbirini önceden belirlemez.[^k4]
 
 ## Bağımsız icat
 
@@ -185,7 +178,7 @@ Bağımsızlık, sistemlerin yapısal farkından ve coğrafi uzaklıktan
 çıkarılır.[^k2] Kanıt dolaylıdır.
 
 Aynı çözümün birden çok yerde bulunması, aktarımı
-değil ortak bir ihtiyacı gösterir.[^k3]
+değil ortak bir ihtiyacı gösterir.[^k4]
 
 ## Sayı yazımı
 
@@ -194,7 +187,7 @@ yazılır.[^k1] Sayı yazımı, dil yazımından önce de ortaya
 çıkabilir.
 
 Bu, yazının muhasebe kökenini destekler.[^k2] Sayılmak, anlatılmaktan
-önce gelmiştir.[^k3]
+önce gelmiştir.[^k4]
 
 ## Dil, yazı ve işaret birimi
 

@@ -25,26 +25,28 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Wars of Alexander the Great"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) — Achaemenid Empire"
-    url: https://en.wikipedia.org/wiki/Achaemenid_Empire
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Achaemenid Empire"
-    not: "Yıkılan düzenin kendisi"
+    tur: ders
+    ad: OpenStax — World History Volume 1, 4.3 The Persian Empire
+    url: https://openstax.org/books/world-history-volume-1/pages/4-3-the-persian-empire
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: The Persian Empire
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
   - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) — Maurya Empire"
-    url: https://en.wikipedia.org/wiki/Maurya_Empire
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Maurya Empire"
-    not: "Doğu ucunda seferin ardından kurulan düzen"
+    tur: ders
+    ad: OpenStax — World History Volume 1, 5.4 Vedic India to the Fall of the Maurya Empire
+    url: https://openstax.org/books/world-history-volume-1/pages/5-4-vedic-india-to-the-fall-of-the-maurya-empire
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Maurya Empire
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
   - anahtar: k4
     tur: veri
     ad: "Our World in Data — Population, long-run with projections (CSV verisi)"
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

@@ -50,13 +50,14 @@ kaynaklar:
     dogrulama_dizesi: "number_deaths_ongoing_conflicts"
     not: "Bagimsiz alan adi (Ilke 6); kitabin konusu olan yillarin olculebilir arka plani"
   - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Operation Barbarossa"
-    url: https://en.wikipedia.org/wiki/Operation_Barbarossa
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Barbarossa"
-    not: "Kitabin merkezine koydugu harekat"
-son_denetim: 2026-08-21
+    tur: ders
+    ad: OpenStax — World History Volume 2, 13.2 Theaters of War
+    url: https://openstax.org/books/world-history-volume-2/pages/13-2-theaters-of-war
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: 13.2 Theaters of War
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

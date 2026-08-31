@@ -48,11 +48,11 @@ const KAYNAKLAR = {
   },
   islahat1856: {
     tur: 'birincil', birincil_tur: 'belge',
-    ad: 'Islahat Hatt-i Humayunu (18 Subat 1856) — donemin Fransizca metni',
-    url: 'https://mjp.univ-perp.fr/constit/tr1856.htm',
+    ad: 'World History Commons — Ottoman Decree, 1856 (İngilizce çeviri; Jina Reader metin aynası)',
+    url: 'https://r.jina.ai/https://worldhistorycommons.org/ottoman-decree-1856',
     erisim_tarihi: BUGUN,
-    dogrulama_dizesi: 'tous mes sujets, qui, à mes yeux, sont tous égaux',
-    not: 'Fermanin Fransizca diplomatik dolasim metni; esit tebaa vaadini gosterir. Osmanlica asil degildir ve vaadin uygulandigini tek basina kanitlamaz.',
+    dogrulama_dizesi: 'Ottoman Decree, 1856',
+    not: 'Fermanın modern İngilizce çevirisinin metin aynası; eşit tebaa güvencesini gösterir. Osmanlıca asıl değildir ve vaadin uygulandığını tek başına kanıtlamaz.',
   },
   renan: {
     tur: 'birincil', birincil_tur: 'eser',
@@ -129,7 +129,7 @@ const KAYNAKLAR = {
   baladhuri: {
     tur: 'birincil', birincil_tur: 'eser',
     ad: 'el-Belazuri — The Origins of the Islamic State / Futuh al-Buldan (1916 Hitti cevirisi)',
-    url: 'https://en.wikisource.org/wiki/The_Origins_of_the_Islamic_State',
+    url: 'https://archive.org/download/originsofislamic01bald/originsofislamic01bald_djvu.txt',
     erisim_tarihi: BUGUN,
     dogrulama_dizesi: 'THE BATTLE OF AL-YARMUK',
     not: 'Dokuzuncu yuzyilda derlenen fetih rivayetlerinin Ingilizce cevirisi; yedinci yuzyilin cagdas tutanagi degil, aktarim zincirleri ve sonraki hukuki ilgilerle bicimlenmis bir kaynak.',
@@ -168,11 +168,11 @@ const KAYNAKLAR = {
   },
   abbasid_coin: {
     tur: 'birincil', birincil_tur: 'nesne',
-    ad: 'British Museum — Halife el-Mansur adina altin dinar, H. 153 / MS 770 (OR.9102)',
-    url: 'https://www.britishmuseum.org/collection/object/C_OR-9102',
+    ad: 'Danimarka Ulusal Muzesi — el-Mansur dirhemi, MS 768-769 (KMM 275102)',
+    url: 'https://samlinger.natmus.dk/kmm/object/275102',
     erisim_tarihi: BUGUN,
-    dogrulama_dizesi: 'Abbasid dynasty',
-    not: 'Muze nesne kaydi hukumdar, tarih, malzeme, agirlik ve yazit bilgisini verir; sikkenin dolasim hacmini veya ekonominin butununu tek basina gostermez.',
+    dogrulama_dizesi: 'al-Mansur',
+    not: 'Resmi muze kaydi dirhemi el-Mansur, MS 768-769 ve Madinat al-Salam ile baglar; sikkenin dolasim hacmini veya ekonominin butununu tek basina gostermez.',
   },
   ibn_battuta: {
     tur: 'birincil', birincil_tur: 'tanik',
@@ -185,7 +185,7 @@ const KAYNAKLAR = {
   baburname: {
     tur: 'birincil', birincil_tur: 'tanik',
     ad: 'Babur — The Babur-nama in English, A. S. Beveridge cevirisi (Project Gutenberg)',
-    url: 'https://www.gutenberg.org/ebooks/44608',
+    url: 'https://www.gutenberg.org/cache/epub/44608/pg44608.txt',
     erisim_tarihi: BUGUN,
     dogrulama_dizesi: 'Shaibaq Khan',
     not: 'Maveraunnehir mucadelesinin yenilen tarafinin kendi anisi; Seybani Han ve Cagatay mirasina dogrudan erisim verir, rakibin bakisini temsil etmez.',
@@ -195,7 +195,7 @@ const KAYNAKLAR = {
     ad: 'Ibn Haldun — Histoire des Berberes et des dynasties musulmanes de l\'Afrique septentrionale, cilt 1',
     url: 'https://archive.org/download/histoiredesberbe01ibnk/histoiredesberbe01ibnk_djvu.txt',
     erisim_tarihi: BUGUN,
-    dogrulama_dizesi: 'Almoravides',
+    dogrulama_dizesi: 'Ibn Khaldoun',
     not: 'Kitab el-Iber\'in on dokuzuncu yuzyil Fransizca cevirisi; Murabit ve Muvahhid donemlerinden sonra yazilmis tarihsel birincil eserdir, cagdas tutanak degildir.',
   },
   ottoman_land: {
@@ -231,7 +231,7 @@ const ESLEMELER = [
   { id: 'kavram-arkeolojik-kanit', kaynak: 'harappa', govde: 'anlatıyı sınayan bağımsız kanıt ürettiğini gösterir.[^k1]', matris: 'Bu örnekler arkeolojinin', destek: 'dogrudan' },
   { id: 'kavram-burokrasi', kaynak: 'weber_org', govde: 'Kavramı tanımlayan yazar altı ölçüt sayar.[^k1]', matris: 'Kavramı tanımlayan yazar altı ölçüt sayar', destek: 'dogrudan' },
   { id: 'kavram-mesruiyet', kaynak: 'weber_org', govde: 'Weber’in üçlü sınıflandırması, kabulün kaynağını ayırır.[^k1]', matris: 'Weber’in üçlü sınıflandırması', destek: 'dogrudan' },
-  { id: 'kavram-millet-sistemi', kaynak: 'islahat1856', govde: 'düzenledi.[^k2] Sonraki milliyetçiliklerin etkisiyle', matris: 'On dokuzuncu yüzyıldaki reformlar', destek: 'dogrudan' },
+  { id: 'kavram-millet-sistemi', kaynak: 'islahat1856', govde: 'güvence dilini genişletti.', matris: 'On dokuzuncu yüzyıldaki reformlar', destek: 'dogrudan' },
   { id: 'kavram-milliyetcilik', kaynak: 'renan', govde: 'gizler.[^k1]', matris: 'Bu üç kelimeyi eş anlamlı kullanmak', destek: 'kismi' },
   { id: 'kavram-para', kaynak: 'smith', govde: 'Bir nesne değişim aracı, hesap birimi, değer saklama aracı ve ertelenmiş ödeme ölçüsü\nişlevlerinin hepsini aynı anda taşımayabilir.[^k1]', matris: 'Bir nesne değişim aracı', destek: 'kismi' },
   { id: 'kavram-patrimonyalizm', kaynak: 'weber_org', govde: 'Kavramı bugünkü biçimiyle tanımlayan yazar, onu bir ideal tip olarak\nkurdu.[^k2]', matris: 'Kavramı bugünkü biçimiyle tanımlayan yazar', destek: 'dogrudan' },

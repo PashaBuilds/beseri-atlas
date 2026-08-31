@@ -33,19 +33,20 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Decolonisation of Africa"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Berlin Conference"
-    url: https://en.wikipedia.org/wiki/Berlin_Conference
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Berlin Conference"
-    not: "Paylasimi duzenleyen onceki konferans"
+    tur: ders
+    ad: OpenStax — World History Volume 2, 9.3 Colonial Empires
+    url: https://openstax.org/books/world-history-volume-2/pages/9-3-colonial-empires
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Berlin Conference
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
   - anahtar: k3
     tur: veri
     ad: "Our World in Data - Population, long-run with projections (CSV verisi)"
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

@@ -122,7 +122,9 @@ export async function kapilariCalistir(mod = '--lint') {
   }
   if (mod === '--pre' || mod === '--tam') raporlar.push(onayFiltresi(makaleler));
   if (mod === '--ag' || mod === '--pre' || mod === '--tam') {
-    const { r8, r10 } = await canlilikDenetimi(makaleler, { taze: mod === '--tam' });
+    const { r8, r10 } = await canlilikDenetimi(makaleler, {
+      taze: mod === '--tam', tumKorpus: true,
+    });
     raporlar.push(r8, r10);
   }
   if (mod === '--post') {

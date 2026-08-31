@@ -50,12 +50,12 @@ kaynaklar:
   - anahtar: k4
     tur: birincil
     birincil_tur: nesne
-    ad: British Museum — Halife el-Mansur adina altin dinar, H. 153 / MS 770 (OR.9102)
-    url: https://www.britishmuseum.org/collection/object/C_OR-9102
+    ad: Danimarka Ulusal Muzesi — el-Mansur dirhemi, MS 768-769 (KMM 275102)
+    url: https://samlinger.natmus.dk/kmm/object/275102
     erisim_tarihi: 2026-08-30
-    dogrulama_dizesi: Abbasid dynasty
-    not: Muze nesne kaydi hukumdar, tarih, malzeme, agirlik ve yazit bilgisini verir; sikkenin dolasim
-      hacmini veya ekonominin butununu tek basina gostermez.
+    dogrulama_dizesi: al-Mansur
+    not: Resmi muze kaydi dirhemi el-Mansur, MS 768-769 ve Madinat al-Salam ile baglar; sikkenin
+      dolasim hacmini veya ekonominin butununu tek basina gostermez.
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0

@@ -30,12 +30,13 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Achaemenid Empire"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) — Neo-Assyrian Empire"
-    url: https://en.wikipedia.org/wiki/Neo-Assyrian_Empire
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Neo-Assyrian Empire"
-    not: "Aynı coğrafyadaki selef imparatorluk düzeni"
+    tur: ders
+    ad: OpenStax — World History Volume 1, 4.1 From Old Babylon to the Medes
+    url: https://openstax.org/books/world-history-volume-1/pages/4-1-from-old-babylon-to-the-medes
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Neo-Assyrian
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
   - anahtar: k3
     tur: veri
     ad: "Our World in Data — Population, long-run with projections (CSV verisi)"
@@ -52,17 +53,18 @@ kaynaklar:
     not: "Anlatinin kaynagi olan metnin kendisi"
   - anahtar: k5
     tur: akademik
-    ad: "Christopher Tuplin — The Administration of the Achaemenid Empire"
-    url: https://pcwww.liv.ac.uk/~Xenophon/Tuplin-Administration.pdf
+    ad: "Encyclopaedia Iranica — Achaemenid Satrapies (Jina Reader metin aynası)"
+    url: https://r.jina.ai/https://www.iranicaonline.org/articles/achaemenid-satrapies
     erisim_tarihi: 2026-08-30
-    dogrulama_dizesi: "The Administration of the Achaemenid Empire"
+    dogrulama_dizesi: "ACHAEMENID SATRAPIES"
+    not: "Satraplıkların coğrafyası ve idari düzeni üzerine imzalı uzmanlık maddesinin metin aynası; birincil metin değildir ve hanedanın bütün tarihini kapsamaz."
   - anahtar: k6
     tur: kitap
     ad: "OpenStax — World History Volume 1, 4.3 The Persian Empire"
     url: https://openstax.org/books/world-history-volume-1/pages/4-3-the-persian-empire
     erisim_tarihi: 2026-08-30
     dogrulama_dizesi: "Darius now set about reorganizing the empire"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

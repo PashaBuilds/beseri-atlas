@@ -32,19 +32,21 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Partition of India"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) — Indian Rebellion of 1857"
-    url: https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Indian Rebellion of 1857"
-    not: "Önceki yüzyıldaki idari düzenleme"
+    tur: birincil
+    birincil_tur: belge
+    ad: Queen Victoria — Proclamation to the Princes, Chiefs, and People of India (1858)
+    url: https://en.wikisource.org/wiki/Proclamation_by_the_Queen_in_Council,_to_the_princes,_chiefs,_and_people_of_India
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: We hereby announce to the native princes of India
+    not: 1857 ayaklanmasindan sonra Dogu Hindistan Sirketi yonetiminin taca devrini ilan eden galip
+      devlet belgesi; ayaklananlarin bakisini temsil etmez.
   - anahtar: k3
     tur: veri
     ad: "Our World in Data — Population, long-run with projections (CSV verisi)"
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

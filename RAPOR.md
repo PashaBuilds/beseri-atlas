@@ -1,45 +1,44 @@
 # Beşeri Atlas — Nihai Rapor
 
-_Üretim tarihi: 2026-08-28 · Bu dosya `npm run rapor` ile ölçümlerden üretilir, elle yazılmaz._
+_Üretim tarihi: 2026-08-31 · Bu dosya `npm run rapor` ile ölçümlerden üretilir, elle yazılmaz._
 
 ## Kapsam
 
-Üretilen: **505** | Onaylanan: **505** | Karantinada: **0**
+Üretilen: **542** | Onaylanan: **513** | Karantinada: **0**
 
-Planlanan tam kapsam **359** makaledir; bu raporun yazıldığı anda
-**%140.7**'i yayına girmiştir. Kalan iş `plan/kuyruk.yaml` içinde durumuyla
+Başlangıçta planlanan kapsam **359** makaledir; bu raporun yazıldığı anda
+bu tabanın **%142.9**'i kadar içerik yayına girmiştir. Kalan iş `plan/kuyruk.yaml` içinde durumuyla
 birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.
 
 | Tip | Yayımlanan |
 |---|---|
-| aktor | 122 |
+| aktor | 124 |
 | donem | 16 |
-| dusunur | 54 |
-| kavram | 90 |
+| dusunur | 55 |
+| kavram | 94 |
 | kaynak | 59 |
-| olay | 99 |
+| olay | 100 |
 | tartisma | 40 |
 | veri | 25 |
 
-Toplam gövde: **313.245** kelime.
+Toplam gövde: **583.134** kelime.
 
 ### Derinlik (§3 uzunluk hedefi)
 
-Hedefi tutan: **162/421** · Eksik: **211.620** kelime
+Hedefi tutan: **458/458** · Eksik: **0** kelime
 
 | Tip | Hedefi tutan | Eksik kelime | §3 hedefi |
 |---|---|---|---|
-| aktor | 60/122 | 54.755 | 1200–2000 |
+| aktor | 126/126 | 0 | 1200–2000 |
 | donem | 16/16 | 0 | 2500–4000 |
-| dusunur | 18/54 | 30.871 | 1200–2000 |
-| kavram | 47/90 | 13.604 | 600–1000 |
-| olay | 15/99 | 72.474 | 1200–2000 |
-| tartisma | 6/40 | 39.916 | 1500–2500 |
+| dusunur | 58/58 | 0 | 1200–2000 |
+| kavram | 117/117 | 0 | 600–1000 |
+| olay | 101/101 | 0 | 1200–2000 |
+| tartisma | 40/40 | 0 | 1500–2500 |
 
 `veri` ve `kaynak` tiplerinde §3 uzunluk hedefi vermediği için ölçüm
-dışıdır. Borcun makale bazlı dökümü `denetim/derinlik-borcu.md` dosyasındadır;
-neden kapatılamadığı ve hangi kararın beklendiği `denetim/MUDAHALE-GEREKLI.md`
-içinde kayıtlıdır.
+dışıdır. Borcun makale bazlı dökümü `denetim/derinlik-borcu.md` dosyasındadır.
+Bu koşuda ölçülen derinlik borcu bütünüyle kapanmıştır.
 
 ## Doğrulama
 
@@ -47,10 +46,10 @@ içinde kayıtlıdır.
 Nihai skor: **1** (31 ölçülen değer: 31 doğrulandı, 0 çelişki)
 Ham skor: **0.7045** (44 değerlik örneklem, 13 değer bağımsız olarak türetilemedi)
 
-Geçiş 2 (kaynak denetimi): 2282 OK · 85 ISARET · 0 HATA · 12448 programatik olarak ölçülemedi
-Kaynak doğrulama oranı: **0.982**
-Makale başına ortalama kaynak: **3.32**
-Çürütücünün ürettiği itiraz adayı: **1336**
+Geçiş 2 (kaynak denetimi): 5827 OK · 82 ISARET · 0 HATA · 13358 programatik olarak ölçülemedi
+Kaynak doğrulama oranı: **0.9931**
+Makale başına ortalama kaynak: **4.63**
+Çürütücünün ürettiği itiraz adayı: **1435**
 Çapraz tutarlılık çelişkisi: **0**
 
 ### İki skorun anlamı
@@ -127,8 +126,20 @@ hatalı kaynağa dayanıyorsa ikisi de aynı yanlışa varır.
 
 ## Hattın durduğu nokta
 
-Aktif faz: **5** · Aktif parti: **B01**
-Kuyrukta bekleyen iş: **0** · Karantinada: **0**
-Harcanan bütçe: 1.320.000 / 40.000.000 token
+Aktif faz: **Ultracode Faz 4 (kaliteli büyüme)** · Aktif parti: **parti-01**
+Kuyrukta bekleyen iş: **29** · Karantinada: **0**
+Bekleyenlerden dosyası mevcut taslak: **29** · Henüz üretilmemiş: **0**
+Yeni büyüme hattı: **60** araştırma adayı · `plan/uretim-kuyrugu.yaml`
+Son kayıtlı otonom bütçe: 1.320.000 / 40.000.000 token (Codex devralma çalışması hariç)
 
-Kuyrukta bekleyen iş kalmadı.
+### Neden burada duruyor
+
+Hat bir kapı kırılması ya da durdurma kuralı nedeniyle durmadı:
+bütün kapılar geçildi, örnekleme kapısı eşiğin üzerinde ve karantinada
+makale yok.
+
+29 içerik dosyası editoryal onay bekleyen taslaktır;
+bu dosyalar kalite borcu sayılmaz ve onay verilmeden canlı siteye çıkmaz.
+
+Mevcut taslak hattı `npm run otonom`, yeni 60 adaylık büyüme hattı ise
+`npm run uretim -- --durum` ile kaldığı yerden sürdürülebilir.

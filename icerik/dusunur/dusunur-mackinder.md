@@ -27,12 +27,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Mackinder"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Alfred Thayer Mahan"
-    url: https://en.wikipedia.org/wiki/Alfred_Thayer_Mahan
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Mahan"
-    not: "Karsit tezin yazari"
+    tur: birincil
+    birincil_tur: eser
+    ad: Alfred Thayer Mahan — The Influence of Sea Power upon History, Project Gutenberg
+    url: https://www.gutenberg.org/ebooks/13529
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: The Influence of Sea Power Upon History
+    not: Dusunurun temel eserinin kamu mali tam metni; sonraki jeopolitik etkisini tek basina
+      kanitlamaz.
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Baron de Montesquieu"
@@ -48,7 +50,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-23
     dogrulama_dizesi: "The Geographical Pivot of History"
     not: "Dusunurun baslica eserinin kamu mali tam metni"
-son_denetim: 2026-08-23
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

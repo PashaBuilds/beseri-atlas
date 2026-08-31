@@ -122,12 +122,13 @@ kaynaklar:
     erisim_tarihi: 2026-08-20
     dogrulama_dizesi: "population_historical"
   - anahtar: k4
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Māori people"
-    url: https://en.wikipedia.org/wiki/M%C4%81ori_people
-    erisim_tarihi: 2026-08-25
-    dogrulama_dizesi: "Māori"
-    not: "Okyanusya seridi icin"
+    tur: akademik
+    ad: Petchey vd. — A new chronology for the Māori settlement of Aotearoa, PNAS
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9674228/
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: A new chronology for the Māori settlement of Aotearoa
+    not: Hakemli acik erisim calisma 1.558 radyokarbon tarihini yeniden modeller; kronolojinin
+      arkeolojik kanit sinirlarini aciklar.
   - anahtar: k5
     tur: birincil
     birincil_tur: tanik
@@ -143,7 +144,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-26
     dogrulama_dizesi: "İBN BATTÛTA"
     not: "Taniklik metninin yazilis surecine dair"
-son_denetim: 2026-08-26
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

@@ -26,19 +26,21 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "1973 oil crisis"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) — Bretton Woods system"
-    url: https://en.wikipedia.org/wiki/Bretton_Woods_system
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Bretton Woods"
-    not: "Aynı yıllarda çöken para düzeni"
+    tur: birincil
+    birincil_tur: belge
+    ad: The Bretton Woods Agreements — Avalon Project, Yale Law School
+    url: https://avalon.law.yale.edu/20th_century/decad047.asp
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Articles of Agreement of the International Monetary Fund, July 22, 1944
+    not: Konferansin kapanis gununde kabul edilen IMF ve IBRD anlasmalarinin metni; sonraki uygulamayi
+      tek basina gostermez.
   - anahtar: k3
     tur: veri
     ad: "Our World in Data — Population, long-run with projections (CSV verisi)"
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

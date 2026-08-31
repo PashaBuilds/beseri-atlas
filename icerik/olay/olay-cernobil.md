@@ -25,19 +25,20 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Chernobyl disaster"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Soviet Union"
-    url: https://en.wikipedia.org/wiki/Soviet_Union
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Soviet Union"
-    not: "Kazanin gerceklestigi devlet"
+    tur: ders
+    ad: OpenStax — World History Volume 2, 12.2 The Formation of the Soviet Union
+    url: https://openstax.org/books/world-history-volume-2/pages/12-2-the-formation-of-the-soviet-union
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Soviet Union
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
   - anahtar: k3
     tur: veri
     ad: "Our World in Data - Population, long-run with projections (CSV verisi)"
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

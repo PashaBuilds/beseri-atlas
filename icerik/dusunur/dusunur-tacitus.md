@@ -33,20 +33,22 @@ kaynaklar:
     dogrulama_dizesi: "HERODOTUS"
     not: "Ayni gelenegin bir onceki halkasi; bagimsiz alan adi"
   - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Thucydides"
-    url: https://en.wikipedia.org/wiki/Thucydides
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Thucydides"
-    not: "Etki listesinin ilk adi"
+    tur: birincil
+    birincil_tur: eser
+    ad: Thukydides — History of the Peloponnesian War, Richard Crawley cevirisi
+    url: https://www.gutenberg.org/cache/epub/7142/pg7142.txt
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: make the speakers say what was in my opinion demanded of them
+    not: Kamu mali Ingilizce ceviri; yazarin yontem beyanini ve anlatim tercihlerini dogrudan verir.
   - anahtar: k4
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Sima Qian"
-    url: https://en.wikipedia.org/wiki/Sima_Qian
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Sima Qian"
-    not: "Ayni yuzyillarda dogudaki karsilastirma"
-son_denetim: 2026-08-21
+    tur: birincil
+    birincil_tur: eser
+    ad: Sima Qian — Les Mémoires historiques, Chavannes cevirisi
+    url: https://archive.org/details/SimaQianChavannesMemoiresHistoriquesV6
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: memoires
+    not: Shiji'nin kamu mali Fransizca cevirisi; Cince ozgun metnin kendisi degildir.
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

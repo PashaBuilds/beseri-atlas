@@ -44,12 +44,13 @@ kaynaklar:
     dogrulama_dizesi: "The Age of Revolution"
     not: "Kitabin kendi sayfasi; The_Age_of_Revolution adresi doneme yonlendiriyor"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - The Age of Extremes"
-    url: https://en.wikipedia.org/wiki/The_Age_of_Extremes
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Age of Extremes"
-    not: "Dizinin 20. yuzyil cildi"
+    tur: akademik
+    ad: "Eric Hobsbawm — Age of Extremes: The Short Twentieth Century, Open Library katalog kaydi"
+    url: https://openlibrary.org/books/OL1103939M.json
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: The age of extremes
+    not: Eser teliflidir; künye ve baskı bilgisi için Open Library katalog kaydının makinece okunabilir
+      sürümüdür, bölüm düzeyinde tam metin kanıtı değildir.
   - anahtar: k3
     tur: veri
     ad: "Our World in Data - Population, long-run with projections (CSV verisi)"
@@ -57,7 +58,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
     not: "Bagimsiz alan adi (Ilke 6); donem sinirlarinin olculebilir capasi"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

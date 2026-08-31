@@ -34,12 +34,13 @@ kaynaklar:
     dogrulama_dizesi: "Montesquieu"
     not: "Onceki kusaktan Fransiz siyaset dusunuru; bagimsiz alan adi"
   - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - United States"
-    url: https://en.wikipedia.org/wiki/United_States
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "United States"
-    not: "Incelediği ulke"
+    tur: ders
+    ad: "OpenStax — World History Volume 2, 7.3 Revolutions: America, France, and Haiti"
+    url: https://openstax.org/books/world-history-volume-2/pages/7-3-revolutions-america-france-and-haiti
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: United States
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -48,7 +49,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-23
     dogrulama_dizesi: "Democracy in America"
     not: "Dusunurun baslica eserinin kamu mali tam metni; Birinci cilt"
-son_denetim: 2026-08-23
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

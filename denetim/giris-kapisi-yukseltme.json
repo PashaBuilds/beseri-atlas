@@ -1,0 +1,1439 @@
+{
+  "uygulandi": true,
+  "makale": [
+    {
+      "id": "donem-07",
+      "tutulacak": "k2",
+      "islemler": [
+        {
+          "anahtar": "k4",
+          "eski": "https://en.wikipedia.org/wiki/M%C4%81ori_people",
+          "yeni": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9674228/"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-1848-devrimleri",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Congress_of_Vienna",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/7-4-nationalism-liberalism-conservatism-and-the-political-order"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-1905-rus-devrimi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Russian_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/11-5-the-war-ends"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-1968-hareketleri",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Vietnam_War",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/14-4-global-tensions-and-decolonization"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-1973-petrol-krizi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Bretton_Woods_system",
+          "yeni": "https://avalon.law.yale.edu/20th_century/decad047.asp"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-2008-finansal-krizi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/International_Monetary_Fund",
+          "yeni": "https://en.wikisource.org/wiki/United_Nations_Treaty_Series/Volume_2/1/20"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-afrika-bagimsizlik-dalgasi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Berlin_Conference",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/9-3-colonial-empires"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-bandung-konferansi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Cold_War",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/14-1-the-cold-war-begins"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-birinci-dunya-savasi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+          "yeni": "https://avalon.law.yale.edu/imt/parti.asp"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-bretton-woods",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Cold_War",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/14-1-the-cold-war-begins"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-cernobil",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Soviet_Union",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/12-2-the-formation-of-the-soviet-union"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-cheng-ho-seferleri",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Song_dynasty",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/14-1-song-china-and-the-steppe-peoples"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-cin-devrimi-1949",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Cold_War",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/14-1-the-cold-war-begins"
+        },
+        {
+          "anahtar": "k4",
+          "eski": "https://en.wikipedia.org/wiki/Qing_dynasty",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/6-2-the-rise-of-a-global-economy"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-cin-reformlari-1978",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Cultural_Revolution",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/14-5-a-new-world-order"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-ekim-devrimi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Cold_War",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/14-1-the-cold-war-begins"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-gobeklitepe",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Neolithic_Revolution",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/2-3-the-neolithic-revolution"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-han-hanedani-kurulusu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Roman_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/7-introduction"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-hindistan-bolunmesi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857",
+          "yeni": "https://en.wikisource.org/wiki/Proclamation_by_the_Queen_in_Council,_to_the_princes,_chiefs,_and_people_of_India"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-ingiliz-ic-savasi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Thirty_Years%27_War",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/5-1-the-protestant-reformation"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-internetin-yayginlasmasi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/United_States",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/7-3-revolutions-america-france-and-haiti"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-ipek-yolu-kurulusu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Han_dynasty",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/5-1-ancient-china"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-iskender-seferleri",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Achaemenid_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/4-3-the-persian-empire"
+        },
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Maurya_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/5-4-vedic-india-to-the-fall-of-the-maurya-empire"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-islam-fetihleri",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Sasanian_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/10-2-the-byzantine-empire-and-persia"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-ispanya-ic-savasi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Interwar_period",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/12-1-recovering-from-world-war-i"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-istanbulun-fethi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Byzantine_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/10-2-the-byzantine-empire-and-persia"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-justinyen-vebasi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Byzantine_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/10-2-the-byzantine-empire-and-persia"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-kavimler-gocu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Roman_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/7-introduction"
+        },
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Byzantine_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/10-2-the-byzantine-empire-and-persia"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-kuba-fuze-krizi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Cold_War",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/14-1-the-cold-war-begins"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-mansa-musa-haci",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Mali_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/15-2-medieval-sub-saharan-africa"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-meiji-restorasyonu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Qing_dynasty",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/6-2-the-rise-of-a-global-economy"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-napolyon-savaslari",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Congress_of_Vienna",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/7-4-nationalism-liberalism-conservatism-and-the-political-order"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-otuz-yil-savaslari",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Peace_of_Westphalia",
+          "yeni": "https://avalon.law.yale.edu/17th_century/westphal.asp"
+        },
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Reformation",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/5-1-the-protestant-reformation"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-pers-yunan-savaslari",
+      "tutulacak": "k4",
+      "islemler": [
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Axial_Age",
+          "yeni": "https://archive.org/details/origingoalofhist0000jasp"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-pon-savaslari",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Roman_Republic",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/6-4-the-roman-republic"
+        },
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Roman_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/7-introduction"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-reform",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Thirty_Years%27_War",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/5-1-the-protestant-reformation"
+        },
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Peace_of_Westphalia",
+          "yeni": "https://avalon.law.yale.edu/17th_century/westphal.asp"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-roma-cumhuriyetinin-sonu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Roman_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/7-introduction"
+        },
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Punic_Wars",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/6-4-the-roman-republic"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-ronesans",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Reformation",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/5-1-the-protestant-reformation"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-suveys-krizi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Cold_War",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/14-1-the-cold-war-begins"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-taiping-isyani",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Qing_dynasty",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/6-2-the-rise-of-a-global-economy"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "olay-viyana-kongresi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/French_Revolution",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/7-3-revolutions-america-france-and-haiti"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-abd",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/American_Revolution",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/7-3-revolutions-america-france-and-haiti"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-ahamenis-imparatorlugu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Neo-Assyrian_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/4-1-from-old-babylon-to-the-medes"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-aksum-kralligi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Sasanian_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/10-2-the-byzantine-empire-and-persia"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-alman-imparatorlugu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Austria-Hungary",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/11-2-the-collapse-of-the-ottomans-and-the-coming-of-war"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-avrupa-birligi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/United_Nations",
+          "yeni": "https://www.un.org/en/about-us/un-charter/full-text"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-birlesmis-milletler",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Bretton_Woods_system",
+          "yeni": "https://avalon.law.yale.edu/20th_century/decad047.asp"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-bizans-imparatorlugu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Roman_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/7-introduction"
+        },
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Sasanian_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/10-2-the-byzantine-empire-and-persia"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-britanya-imparatorlugu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857",
+          "yeni": "https://en.wikisource.org/wiki/Proclamation_by_the_Queen_in_Council,_to_the_princes,_chiefs,_and_people_of_India"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-buyuk-zimbabve",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Mali_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/15-2-medieval-sub-saharan-africa"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-cin-halk-cumhuriyeti",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Cold_War",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/14-1-the-cold-war-begins"
+        },
+        {
+          "anahtar": "k4",
+          "eski": "https://en.wikipedia.org/wiki/History_of_the_People%27s_Republic_of_China",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/14-2-the-spread-of-communism"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-delhi-sultanligi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Timurid_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/17-1-the-ottomans-and-the-mongols"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-dunya-bankasi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/World_Trade_Organization",
+          "yeni": "https://www.wto.org/english/docs_e/legal_e/04-wto_e.htm"
+        },
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/International_Monetary_Fund",
+          "yeni": "https://en.wikisource.org/wiki/United_Nations_Treaty_Series/Volume_2/1/20"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-dunya-ticaret-orgutu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Bretton_Woods_system",
+          "yeni": "https://avalon.law.yale.edu/20th_century/decad047.asp"
+        },
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/International_Monetary_Fund",
+          "yeni": "https://en.wikisource.org/wiki/United_Nations_Treaty_Series/Volume_2/1/20"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-eyyubi-devleti",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Mamluk_Sultanate",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/17-2-from-the-mamluks-to-ming-china"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-gokturk-kaganligi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Tang_dynasty",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/12-3-border-states-sogdiana-korea-and-japan"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-goryeo-choson",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Joseon",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/2-3-exchange-in-east-asia"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-gupta-imparatorlugu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Maurya_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/5-4-vedic-india-to-the-fall-of-the-maurya-empire"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-hansa-birligi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Ming_dynasty",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/17-2-from-the-mamluks-to-ming-china"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-hitit-imparatorlugu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/New_Kingdom_of_Egypt",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/4-2-egypts-new-kingdom"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-hun-imparatorlugu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Migration_Period",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/10-1-the-eastward-shift"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-ingiliz-doguhindistan-sirketi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857",
+          "yeni": "https://en.wikisource.org/wiki/Proclamation_by_the_Queen_in_Council,_to_the_princes,_chiefs,_and_people_of_India"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-ispanyol-imparatorlugu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Columbian_exchange",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/5-2-crossing-the-atlantic"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-japonya-imparatorlugu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Interwar_period",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/12-1-recovering-from-world-war-i"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-khmer-imparatorlugu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Black_Death",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/16-3-the-black-death-from-east-to-west"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-maurya-imparatorlugu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Achaemenid_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/4-3-the-persian-empire"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-maya-uygarligi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Aztec_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/8-3-the-age-of-empires-in-the-americas"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-misir-yeni-kralligi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Hittites",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/4-1-from-old-babylon-to-the-medes"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-qing-hanedani",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Taiping_Rebellion",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/9-1-the-second-industrial-revolution"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-roma-imparatorlugu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Achaemenid_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/4-3-the-persian-empire"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-rus-imparatorlugu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/October_Revolution",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/11-5-the-war-ends"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-sasani-imparatorlugu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Byzantine_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/10-2-the-byzantine-empire-and-persia"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-song-hanedani",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Tang_dynasty",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/12-3-border-states-sogdiana-korea-and-japan"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-songhay-imparatorlugu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Mali_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/15-2-medieval-sub-saharan-africa"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-srivijaya",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Majapahit",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/2-2-the-malacca-sultanate"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "aktor-timur-imparatorlugu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Ottoman_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/4-2-the-ottoman-empire"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "dusunur-herodotos",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Thucydides",
+          "yeni": "https://www.gutenberg.org/cache/epub/7142/pg7142.txt"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "dusunur-mackinder",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Alfred_Thayer_Mahan",
+          "yeni": "https://www.gutenberg.org/ebooks/13529"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "dusunur-mahan",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Halford_Mackinder",
+          "yeni": "https://archive.org/details/the-geographical-pivot-of-history-by-halford-john-mackinder"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "dusunur-polanyi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Fernand_Braudel",
+          "yeni": "https://www.persee.fr/doc/ahess_0395-2649_1958_num_13_4_2781"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "dusunur-tacitus",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Thucydides",
+          "yeni": "https://www.gutenberg.org/cache/epub/7142/pg7142.txt"
+        },
+        {
+          "anahtar": "k4",
+          "eski": "https://en.wikipedia.org/wiki/Sima_Qian",
+          "yeni": "https://archive.org/details/SimaQianChavannesMemoiresHistoriquesV6"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "dusunur-tocqueville",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/United_States",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/7-3-revolutions-america-france-and-haiti"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "dusunur-wallerstein",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Fernand_Braudel",
+          "yeni": "https://www.persee.fr/doc/ahess_0395-2649_1958_num_13_4_2781"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-arkeolojik-kanit",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Periodization",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/1-3-causation-and-interpretation-in-history"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-askeri-devrim",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Carl_von_Clausewitz",
+          "yeni": "https://www.gutenberg.org/ebooks/1946"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-bagimlilik-kurami",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Immanuel_Wallerstein",
+          "yeni": "https://www.ucpress.edu/books/the-modern-world-system-i/epub-pdf"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-birincil-kaynak",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Anachronism",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/1-3-causation-and-interpretation-in-history"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-bozkir-imparatorlugu",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/First_Turkic_Khaganate",
+          "yeni": "https://archive.org/details/orkhoninscriptions"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-burokrasi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Max_Weber",
+          "yeni": "https://plato.stanford.edu/entries/weber/"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-caydiricilik",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Balance_of_power_(international_relations)",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/7-4-nationalism-liberalism-conservatism-and-the-political-order"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-donemlendirme",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Fernand_Braudel",
+          "yeni": "https://www.persee.fr/doc/ahess_0395-2649_1958_num_13_4_2781"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-dunya-sistemi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Fernand_Braudel",
+          "yeni": "https://www.persee.fr/doc/ahess_0395-2649_1958_num_13_4_2781"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-feodalite",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Fernand_Braudel",
+          "yeni": "https://www.persee.fr/doc/ahess_0395-2649_1958_num_13_4_2781"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-gini-katsayisi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Immanuel_Wallerstein",
+          "yeni": "https://www.ucpress.edu/books/the-modern-world-system-i/epub-pdf"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-haracguzarlik",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Goryeo",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/12-3-border-states-sogdiana-korea-and-japan"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-imparatorluk",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Decolonization",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/14-4-global-tensions-and-decolonization"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-kaynak-elestirisi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Herodotus",
+          "yeni": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0126"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-mandala-devleti",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Srivijaya",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/2-2-the-malacca-sultanate"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-milliyetcilik",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Unification_of_Italy",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/7-4-nationalism-liberalism-conservatism-and-the-political-order"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-para",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Song_dynasty",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/14-1-song-china-and-the-steppe-peoples"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-sekulerlesme",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Max_Weber",
+          "yeni": "https://plato.stanford.edu/entries/weber/"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-sivil-toplum",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Alexis_de_Tocqueville",
+          "birlesti": "k4",
+          "yeni": "https://www.gutenberg.org/ebooks/815"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-somurgesizlesme",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Decolonisation_of_Africa",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/14-4-global-tensions-and-decolonization"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-surtunme",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Carl_von_Clausewitz",
+          "birlesti": "k4",
+          "yeni": "https://www.gutenberg.org/ebooks/1946"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-ticaret-diasporasi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Silk_Road",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/12-2-east-west-interactions-in-the-early-middle-ages"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-ulus-devlet",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Nationalism",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/7-4-nationalism-liberalism-conservatism-and-the-political-order"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kavram-yazi-sistemi",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/First_Turkic_Khaganate",
+          "birlesti": "k4",
+          "yeni": "https://archive.org/details/orkhoninscriptions"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kaynak-braudel-akdeniz",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Periodization",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/1-3-causation-and-interpretation-in-history"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kaynak-carr-tarih-nedir",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Historiography",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/1-3-causation-and-interpretation-in-history"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kaynak-durkheim-intihar",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Max_Weber",
+          "yeni": "https://plato.stanford.edu/entries/weber/"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kaynak-gibbon-roma",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/Historiography_of_the_fall_of_the_Western_Roman_Empire",
+          "yeni": "https://openstax.org/books/world-history-volume-1/pages/10-1-the-eastward-shift"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kaynak-herodotos-tarihler",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War",
+          "yeni": "https://www.gutenberg.org/cache/epub/7142/pg7142.txt"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kaynak-hobsbawm-caglar",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k2",
+          "eski": "https://en.wikipedia.org/wiki/The_Age_of_Extremes",
+          "yeni": "https://openlibrary.org/books/OL1103939M.json"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kaynak-polanyi-buyuk-donusum",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Fernand_Braudel",
+          "yeni": "https://www.persee.fr/doc/ahess_0395-2649_1958_num_13_4_2781"
+        }
+      ],
+      "matrisDegisimi": 0
+    },
+    {
+      "id": "kaynak-tooze-felaketin-bedeli",
+      "tutulacak": "k1",
+      "islemler": [
+        {
+          "anahtar": "k3",
+          "eski": "https://en.wikipedia.org/wiki/Operation_Barbarossa",
+          "yeni": "https://openstax.org/books/world-history-volume-2/pages/13-2-theaters-of-war"
+        }
+      ],
+      "matrisDegisimi": 0
+    }
+  ],
+  "degisim": 123,
+  "birlesme": 3,
+  "sorunlar": []
+}

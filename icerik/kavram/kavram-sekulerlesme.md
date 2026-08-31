@@ -23,12 +23,12 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Secularization"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Max Weber"
-    url: https://en.wikipedia.org/wiki/Max_Weber
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Weber"
-    not: "Buyubozumu kavramini kaydeden yazar"
+    tur: akademik
+    ad: Stanford Encyclopedia of Philosophy — Max Weber
+    url: https://plato.stanford.edu/entries/weber/
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Max Weber
+    not: Hakemli uzmanlik maddesi; Weber'in kavramlarini tarihsel ve elestirel baglamina yerlestirir.
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Augustine of Hippo"
@@ -44,7 +44,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-25
     dogrulama_dizesi: "The Protestant ethic and the spirit of capitalism"
     not: "Kavramin formule edildigi eserin kamu mali tam metni"
-son_denetim: 2026-08-25
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

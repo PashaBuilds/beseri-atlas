@@ -32,15 +32,16 @@ kaynaklar:
     dogrulama_dizesi: "Arendt"
     not: "Emperyalizm uzerine yazan dusunur; bagimsiz alan adi"
   - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Decolonization"
-    url: https://en.wikipedia.org/wiki/Decolonization
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Decolonization"
-    not: "Kaynagin cokus bolumunde ayri alt baslik yaptigi surec"
+    tur: ders
+    ad: OpenStax — World History Volume 2, 14.4 Global Tensions and Decolonization
+    url: https://openstax.org/books/world-history-volume-2/pages/14-4-global-tensions-and-decolonization
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Decolonization
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
 kaynak_siniri: >-
   İmparatorluk, çok farklı dönem ve dillerdeki yönetimleri karşılaştıran modern bir üst kategoridir; bütün örneklerin kendini aynı adla tanımladığı tek bir birincil metin yoktur. Dosya tipolojiyi ikincil sentezle kurar, tarihsel uygulamalar ilgili aktör ve belge dosyalarındaki birincil kayıtlarla sınanır.
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

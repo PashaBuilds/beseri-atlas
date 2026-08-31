@@ -45,12 +45,12 @@ kaynaklar:
     dogrulama_dizesi: "Marx"
     not: "Kaynagin kuramlar bolumunde ilk sirada saydigi ad; bagimsiz alan adi"
   - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Max Weber"
-    url: https://en.wikipedia.org/wiki/Max_Weber
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Weber"
-    not: "Kavrami kendi kuram listesinde tutan yazar"
+    tur: akademik
+    ad: Stanford Encyclopedia of Philosophy — Max Weber
+    url: https://plato.stanford.edu/entries/weber/
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Max Weber
+    not: Hakemli uzmanlik maddesi; Weber'in kavramlarini tarihsel ve elestirel baglamina yerlestirir.
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -60,7 +60,7 @@ kaynaklar:
     dogrulama_dizesi: Three Pure Types of Legitimate Authority
     not: Mesru otorite tipleri, patrimonyal otorite ve burokratik yonetim kesimlerini tasiyan metin. Bu
       Ingilizce ceviri Almanca aslin kendisi degildir.
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

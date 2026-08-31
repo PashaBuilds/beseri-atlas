@@ -25,26 +25,30 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Bretton Woods"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) — World Trade Organization"
-    url: https://en.wikipedia.org/wiki/World_Trade_Organization
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "World Trade Organization"
-    not: "Aynı soydan gelen ticaret kurumu"
+    tur: birincil
+    birincil_tur: belge
+    ad: Marrakesh Agreement Establishing the World Trade Organization — WTO
+    url: https://www.wto.org/english/docs_e/legal_e/04-wto_e.htm
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: AGREEMENT ESTABLISHING THE WORLD TRADE ORGANIZATION
+    not: Orgutun kapsam ve islevini kuran resmi anlasma metni; ticaretin dagilimsal etkisini tek basina
+      gostermez.
   - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) — International Monetary Fund"
-    url: https://en.wikipedia.org/wiki/International_Monetary_Fund
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "International Monetary Fund"
-    not: "Aynı konferansta kurulan kardeş kurum"
+    tur: birincil
+    birincil_tur: belge
+    ad: Articles of Agreement of the International Monetary Fund — UN Treaty Series transkripsiyonu
+    url: https://en.wikisource.org/wiki/United_Nations_Treaty_Series/Volume_2/1/20
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: To promote international monetary co-operation
+    not: Fonun amac, uyelik ve yetki cercevesini kuran metin; kurumun sonraki performansinin tarafsiz
+      degerlendirmesi degildir.
   - anahtar: k4
     tur: veri
     ad: "Our World in Data — Population, long-run with projections (CSV verisi)"
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

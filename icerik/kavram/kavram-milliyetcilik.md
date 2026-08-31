@@ -39,12 +39,14 @@ kaynaklar:
     dogrulama_dizesi: "Marx"
     not: "Kaynagin ayri alt baslik ayirdigi yorum gelenegi; bagimsiz alan adi"
   - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Unification of Italy"
-    url: https://en.wikipedia.org/wiki/Unification_of_Italy
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Unification of Italy"
-    not: "Kavramin uygulama ornegi"
+    tur: ders
+    ad: OpenStax — World History Volume 2, 7.4 Nationalism, Liberalism, Conservatism, and the Political
+      Order
+    url: https://openstax.org/books/world-history-volume-2/pages/7-4-nationalism-liberalism-conservatism-and-the-political-order
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Italian unification
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -54,7 +56,7 @@ kaynaklar:
     dogrulama_dizesi: un plébiscite de tous les jours
     not: 11 Mart 1882 Sorbonne konferansinin 1882 Calmann Levy basimi; ulusu irade ve ortak hafiza
       uzerinden kuran belirli bir tarihsel konumdur, kavramin butun tanimi degildir.
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

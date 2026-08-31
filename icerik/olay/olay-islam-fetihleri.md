@@ -35,22 +35,23 @@ kaynaklar:
     dogrulama_dizesi: "ABBÂSÎLER"
     not: "Fetih sonrası kurulan hilafet düzeni"
   - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) — Sasanian Empire"
-    url: https://en.wikipedia.org/wiki/Sasanian_Empire
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Sasanian Empire"
-    not: "Ortadan kalkan taraf"
+    tur: ders
+    ad: OpenStax — World History Volume 1, 10.2 The Byzantine Empire and Persia
+    url: https://openstax.org/books/world-history-volume-1/pages/10-2-the-byzantine-empire-and-persia
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Sasanian Empire
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
     ad: el-Belazuri — The Origins of the Islamic State / Futuh al-Buldan (1916 Hitti cevirisi)
-    url: https://en.wikisource.org/wiki/The_Origins_of_the_Islamic_State
+    url: https://archive.org/download/originsofislamic01bald/originsofislamic01bald_djvu.txt
     erisim_tarihi: 2026-08-30
     dogrulama_dizesi: THE BATTLE OF AL-YARMUK
     not: Dokuzuncu yuzyilda derlenen fetih rivayetlerinin Ingilizce cevirisi; yedinci yuzyilin cagdas
       tutanagi degil, aktarim zincirleri ve sonraki hukuki ilgilerle bicimlenmis bir kaynak.
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

@@ -29,12 +29,13 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Chinese Communist Revolution"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) — Cold War"
-    url: https://en.wikipedia.org/wiki/Cold_War
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Cold War"
-    not: "Kuruluşun içine düştüğü rekabet"
+    tur: ders
+    ad: OpenStax — World History Volume 2, 14.1 The Cold War Begins
+    url: https://openstax.org/books/world-history-volume-2/pages/14-1-the-cold-war-begins
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: The Cold War Begins
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
   - anahtar: k3
     tur: veri
     ad: "Our World in Data — Population, long-run with projections (CSV verisi)"
@@ -42,13 +43,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
   - anahtar: k4
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) — History of the People's Republic of China"
-    url: https://en.wikipedia.org/wiki/History_of_the_People%27s_Republic_of_China
+    tur: ders
+    ad: OpenStax — World History Volume 2, 14.2 The Spread of Communism
+    url: https://openstax.org/books/world-history-volume-2/pages/14-2-the-spread-of-communism
     erisim_tarihi: 2026-08-30
-    dogrulama_dizesi: "History of the People's Republic of China"
-    not: "1949 sonrası siyasal ve iktisadi dönüşümün dönemleri"
-son_denetim: 2026-08-21
+    dogrulama_dizesi: People’s Republic of China
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

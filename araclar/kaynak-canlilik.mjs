@@ -45,6 +45,18 @@ function defterYaz(d) {
   yaz(DEFTER, `${JSON.stringify(d, null, 2)}\n`);
 }
 
+/** Tam-korpus kosusunda artik hicbir kunyede kullanilmayan eski kayitlari siler. */
+export function yetimOlcumKayitlariniBuda(defter, urller) {
+  const kullanilan = new Set(urller);
+  let budanan = 0;
+  for (const url of Object.keys(defter)) {
+    if (kullanilan.has(url)) continue;
+    delete defter[url];
+    budanan += 1;
+  }
+  return budanan;
+}
+
 /** Kunyeden sayfada aranacak dizeyi turetir. */
 export function dogrulamaDizesi(kaynak) {
   if (kaynak.dogrulama_dizesi) return kaynak.dogrulama_dizesi;
@@ -67,7 +79,9 @@ export function dizeGeciyorMu(sayfaMetni, dize) {
   return { ok: oran >= 0.8, oran };
 }
 
-export async function canlilikDenetimi(makaleler, { taze = false, izinliHavuz = null } = {}) {
+export async function canlilikDenetimi(makaleler, {
+  taze = false, izinliHavuz = null, tumKorpus = false,
+} = {}) {
   const r8 = new Rapor('KAPI 8 — kaynak canliligi');
   const r10 = new Rapor('KAPI 10 — uydurma kaynak kontrolu');
   const havuz = izinliHavuz || yamlOku(path.join(ICERIK, '_sistem', 'kaynak-havuzu.yaml'));
@@ -174,6 +188,10 @@ export async function canlilikDenetimi(makaleler, { taze = false, izinliHavuz = 
     }
   }
 
+  // Dar hedefli tanisal kosular diger kaynaklari gormedigi icin defteri
+  // budayamaz. Kapilar ve komut satiri ise tum korpusu verdigini acikca
+  // bildirir; boylece kaldirilmis URL'ler raporda hayalet borc birakmaz.
+  if (tumKorpus) yetimOlcumKayitlariniBuda(defter, urller);
   defterYaz(defter);
 
   // Olculemeyenler sessizce gecmez: her kosuda gorunur.
@@ -209,7 +227,7 @@ export async function canlilikDenetimi(makaleler, { taze = false, izinliHavuz = 
 if (import.meta.url === `file://${process.argv[1]?.replace(/\\/g, '/')}` || process.argv[1]?.endsWith('kaynak-canlilik.mjs')) {
   const taze = process.argv.includes('--taze');
   const makaleler = makaleleriTopla();
-  const { r8, r10, kontrolEdilen } = await canlilikDenetimi(makaleler, { taze });
+  const { r8, r10, kontrolEdilen } = await canlilikDenetimi(makaleler, { taze, tumKorpus: true });
   console.log(`${kontrolEdilen} benzersiz URL kontrol edildi\n`);
   r8.yazdir();
   for (const s of r8.ozetSatirlari || []) console.log(`   ${s}`);

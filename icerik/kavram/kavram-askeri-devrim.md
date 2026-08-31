@@ -26,12 +26,13 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Military Revolution"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Carl von Clausewitz"
-    url: https://en.wikipedia.org/wiki/Carl_von_Clausewitz
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Clausewitz"
-    not: "Sonraki yuzyilin savas kuramcisi"
+    tur: birincil
+    birincil_tur: eser
+    ad: Carl von Clausewitz — On War, Project Gutenberg tam metni
+    url: https://www.gutenberg.org/ebooks/1946
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: ON WAR
+    not: Dusunurun kendi eseri; kavramlarin sonraki askeri kullanimlarini tek basina temsil etmez.
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Niccolo Machiavelli"
@@ -39,7 +40,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Machiavelli"
     not: "Donemin savas ilkeleri yazari; bagimsiz alan adi"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

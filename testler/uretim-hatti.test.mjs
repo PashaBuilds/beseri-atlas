@@ -6,6 +6,7 @@ import {
   paketMetni,
   iskeletBenzerligi,
   sonrakiParti,
+  merkeziKuyrukUyumsuzluklari,
 } from '../araclar/uretim-hatti.mjs';
 
 let n = 0;
@@ -40,6 +41,25 @@ test('paket kalite sözleşmesini ve doğal öğrenme iskeletini taşır', () =>
   assert.match(metin, /Doğal öğrenme iskeleti/);
   assert.match(metin, /tek yönlü geçişler `baglam`/);
   assert.match(metin, /dolgu ile değil/);
+  assert.equal((metin.match(/^2\./gm) || []).length, 1);
+  assert.equal((metin.match(/^3\./gm) || []).length, 1);
+});
+
+test('merkezî kuyruk eksik, fazla ve durum ayrışmalarını görünür kılar', () => {
+  const makaleler = [
+    { goreli: 'icerik/olay/a.md', fm: { id: 'olay-a', denetim_durumu: 'onaylandi' } },
+    { goreli: 'icerik/olay/b.md', fm: { id: 'olay-b', denetim_durumu: 'bekliyor' } },
+  ];
+  const isler = [
+    { id: 'olay-a', durum: 'bekliyor' },
+    { id: 'olay-a', durum: 'onaylandi' },
+    { id: 'olay-c', durum: 'onaylandi' },
+  ];
+  const sorunlar = merkeziKuyrukUyumsuzluklari(makaleler, isler).map((s) => s.mesaj);
+  assert.equal(sorunlar.some((s) => s.includes('yinelenen kuyruk kimliği')), true);
+  assert.equal(sorunlar.some((s) => s.includes('makale merkezî kuyrukta yok')), true);
+  assert.equal(sorunlar.some((s) => s.includes('kuyruk durumu')), true);
+  assert.equal(sorunlar.some((s) => s.includes('korpusta olmayan kuyruk kimliği')), true);
 });
 
 test('bölüm iskeleti kopyası ölçülebilir', () => {
@@ -58,4 +78,4 @@ test('tam sıra her adayı yalnız bir kez ve dengeli partilenebilir biçimde ta
   assert.equal(sirali.slice(0, 5).every((a) => a.durum === 'arastirmada'), true);
 });
 
-console.log(`uretim-hatti.test.mjs: ${n}/5 gecti`);
+console.log(`uretim-hatti.test.mjs: ${n}/6 gecti`);

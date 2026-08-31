@@ -26,13 +26,11 @@
 //                            makale başına en fazla bir künye (havuzun kuralı).
 //   2. Birincil kapsama    — makalede en az bir `tur: birincil` künye var mı.
 //
-// NEDEN HATA DEGIL, OLCUM
-//   Bugün hata yapılsa 226 makale build'i kırar ve tek çıkış yolu ya kuralı
-//   gevşetmek ya da 226 makaleyi bir gecede yeniden kaynaklamak olurdu. İkisi de
-//   yanlış. KAPI 11'in derinlik borcunda kurulan yol izlenir: eşik DÜŞÜRÜLMEZ,
-//   ölçüm SUSTURULMAZ, borç her koşuda görünür ve dosyaya yazılır. Borç sıfıra
-//   indiğinde bu kapı hataya çevrilir — o karar `plan/faz-notlari.md`de kayıtlı.
-import fs from 'node:fs';
+// SERT KAPIYA GECIS
+//   Ilk olcumdeki 226 fazla giris-kapisi ve 326 kanit acigi 2026-08-30'da
+//   sifirlandi. Bu tarihten sonra iki kural da yalniz raporlanmaz: tek bir yeni
+//   ihlal bile build'i kirar. Borc defteri geriye donusu gosteren tarihsel
+//   rapordur; eski ihlal icin istisna listesi artik yoktur.
 import path from 'node:path';
 import { Rapor, yamlOku, yaz, ICERIK, KOK, linterCli } from './ortak.mjs';
 
@@ -102,14 +100,6 @@ export function kaynakDenetimi(makaleler, { havuz = null, borcDefteriYaz = true 
   }
   const h = havuz || yamlOku(path.join(ICERIK, '_sistem', 'kaynak-havuzu.yaml'));
   const siniflar = havuzSiniflari(h);
-  // KARAR K9 borc defteri. Kural konuldugu andaki ihlaller burada durur.
-  const SINIR_TABAN_YOLU = path.join(KOK, 'denetim', 'kaynak-siniri-taban.json');
-  const sinirTabani = new Set(
-    fs.existsSync(SINIR_TABAN_YOLU)
-      ? (JSON.parse(fs.readFileSync(SINIR_TABAN_YOLU, 'utf8')).beyansiz || [])
-      : [],
-  );
-  const sinirBorcu = [];
   const { girisKapisi } = siniflar;
 
   const borclu = [];
@@ -146,27 +136,17 @@ export function kaynakDenetimi(makaleler, { havuz = null, borcDefteriYaz = true 
     if (kaynakSiniri) kaynakSiniriBeyanli += 1;
     if (!kanitYaDaSinirVar) kanitAcigi += 1;
 
-    // KARAR K9: birincil kaynagi olmayan bir DUSUNUR ya da KAYNAK dosyasi
-    // bu sinirI BEYAN ETMEK ZORUNDADIR. Telif altindaki bir dusunurun kendi
-    // metnine acik erisimde ulasilamamasi mesru bir sinirdir; sessiz kalmasi
-    // degildir — okur, ansiklopedi ozetinden kurulmus bir metni birincil
-    // kaynakli sanmamalidir. Beyan `kaynak_siniri` alanindadir ve makale
-    // sayfasinda okura gosterilir.
-    if (!birVar && ['dusunur', 'kaynak'].includes(tip) && !kaynakSiniri) {
-      // Borc defteri deseni (KAPI 11 ve 18 ile ayni): kural konuldugu andaki
-      // ihlaller BORC olarak kaydedilir ve ozette gorunur; YENI ihlal HATA
-      // olur. Defter yalnizca asagi yonde guncellenir, yani beyan yazilinca
-      // dosya defterden cikar ve bir daha giremez.
-      if (sinirTabani.has(m.fm.id)) sinirBorcu.push(m.goreli);
-      else {
-        r.hata(m.goreli, 'birincil kaynagi yok ve `kaynak_siniri` beyani da yok — telif altindaki bir '
-          + 'metne ulasilamamasi mesru bir sinirdir, sessiz kalmasi degildir (karar K9)');
-      }
-    }
-
     const sorunlar = [];
     if (giris.length > 1) sorunlar.push(`${giris.length} giris kapisi kunyesi (${giris.join(', ')}) — havuz en fazla 1 diyor`);
     if (!kanitYaDaSinirVar) sorunlar.push('birincil kanit veya acik kaynak siniri yok');
+    if (giris.length > 1) {
+      r.hata(m.goreli, `${giris.length} giris kapisi kunyesi var — makale basina en fazla 1; `
+        + 'baglam kaynagi uzmanlik yayini, birincil metin veya site-ici okuma zinciriyle degistirilmeli');
+    }
+    if (!kanitYaDaSinirVar) {
+      r.hata(m.goreli, 'birincil kaniti da `kaynak_siniri` beyani da yok — kaynak erisilemiyorsa '
+        + 'sinir okura aciklanmali, erisilebiliyorsa iddiaya dogrudan baglanmali');
+    }
     if (sorunlar.length) {
       borclu.push({ dosya: m.goreli, id: m.fm.id, tip,
         kunye: kaynaklar.length, giris: giris.length, birincil: birVar ? 1 : 0, sorunlar });
@@ -191,8 +171,8 @@ export function kaynakDenetimi(makaleler, { havuz = null, borcDefteriYaz = true 
   // Olcum ile YAZMA ayrilir: bir arac depoyu olcerken depoyu
   // degistirmemelidir (fikstur defteri ezme dersi).
   r.ozetSatirlari = (r.ozetSatirlari || []).concat([
-    `karar K9 borcu: ${sinirBorcu.length} dosya birincil kaynaksiz ve \`kaynak_siniri\` beyani yok `
-      + '(defterde kayitli; yeni ihlal HATA olur, borc yalnizca beyan yazilarak erir)',
+    `sert kapi etkin: ${kuralIhlali} fazla giris-kapisi · ${kanitAcigi} kanit/sinir acigi; `
+      + 'bu degerlerden biri sifirdan buyukse build kirilir',
   ]);
 
   if (borcDefteriYaz) borcYaz(borclu, r.olcum);
@@ -215,7 +195,7 @@ function borcYaz(borclu, olcum) {
     'okura göstermelidir. Veri setleri, kullanıldıkları her makale tipinde birincil',
     'kanıt sayılır. Havuz `gutenberg.org`, `archive.org`, `perseus.tufts.edu`,',
     '`avalon.law.yale.edu`, `marxists.org` ve `en.wikisource.org` alanlarını birincil',
-    'olarak zaten onaylıyor — izin vardı, kullanılmadı.',
+    'metin barındırıcıları olarak tanır; tekil kayıtların türü ayrıca künyede yazılır.',
     '',
     '| Ölçüm | Değer |',
     '|---|---|',

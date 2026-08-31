@@ -31,12 +31,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Deterrence theory"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Balance of power (international relations)"
-    url: https://en.wikipedia.org/wiki/Balance_of_power_(international_relations)
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Balance of power"
-    not: "Yakin kavram"
+    tur: ders
+    ad: OpenStax — World History Volume 2, 7.4 Nationalism, Liberalism, Conservatism, and the Political
+      Order
+    url: https://openstax.org/books/world-history-volume-2/pages/7-4-nationalism-liberalism-conservatism-and-the-political-order
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: balance of power
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Thomas Hobbes"
@@ -44,7 +46,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Hobbes"
     not: "Guc ve korku uzerine onceki yazar; bagimsiz alan adi"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

@@ -32,12 +32,13 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Dependency theory"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Immanuel Wallerstein"
-    url: https://en.wikipedia.org/wiki/Immanuel_Wallerstein
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Wallerstein"
-    not: "Yakin kavramin gelistiricisi"
+    tur: akademik
+    ad: University of California Press — Immanuel Wallerstein, The Modern World-System I
+    url: https://www.ucpress.edu/books/the-modern-world-system-i/epub-pdf
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: The Modern World-System I
+    not: Yayincinin eser, yazar, baski ve kapsam sayfasi; kitap telifli oldugu icin tam metin kaniti
+      sayilmaz.
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Karl Marx"
@@ -45,7 +46,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Marx"
     not: "Okullardan birinin adini aldigi dusunur; bagimsiz alan adi"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

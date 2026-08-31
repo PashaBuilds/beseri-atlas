@@ -35,12 +35,12 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Durkheim"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Max Weber"
-    url: https://en.wikipedia.org/wiki/Max_Weber
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Weber"
-    not: "Ayni yillarda karsit yontem karari"
+    tur: akademik
+    ad: Stanford Encyclopedia of Philosophy — Max Weber
+    url: https://plato.stanford.edu/entries/weber/
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Max Weber
+    not: Hakemli uzmanlik maddesi; Weber'in kavramlarini tarihsel ve elestirel baglamina yerlestirir.
   - anahtar: k3
     tur: veri
     ad: "Our World in Data - Population, long-run with projections (CSV verisi)"
@@ -56,7 +56,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-23
     dogrulama_dizesi: "Suicide, a study in sociology"
     not: "Eserin kamu mali tam metni"
-son_denetim: 2026-08-23
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

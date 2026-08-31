@@ -34,12 +34,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "United Nations"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) — Bretton Woods system"
-    url: https://en.wikipedia.org/wiki/Bretton_Woods_system
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Bretton Woods"
-    not: "Aynı hazırlık dizisinin iktisadi kanadı"
+    tur: birincil
+    birincil_tur: belge
+    ad: The Bretton Woods Agreements — Avalon Project, Yale Law School
+    url: https://avalon.law.yale.edu/20th_century/decad047.asp
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Articles of Agreement of the International Monetary Fund, July 22, 1944
+    not: Konferansin kapanis gununde kabul edilen IMF ve IBRD anlasmalarinin metni; sonraki uygulamayi
+      tek basina gostermez.
   - anahtar: k3
     tur: veri
     ad: "Our World in Data — Population, long-run with projections (CSV verisi)"
@@ -54,7 +56,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-25
     dogrulama_dizesi: "Charter of the United Nations"
     not: "Birlesmis Milletler Sarti'nin metni; Avalon Project"
-son_denetim: 2026-08-25
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

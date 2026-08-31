@@ -36,12 +36,13 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Decline and Fall of the Roman Empire"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Historiography of the fall of the Western Roman Empire"
-    url: https://en.wikipedia.org/wiki/Historiography_of_the_fall_of_the_Western_Roman_Empire
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "fall of the Western Roman Empire"
-    not: "Eserin baslattigi tartisma"
+    tur: ders
+    ad: OpenStax — World History Volume 1, 10.1 The Eastward Shift
+    url: https://openstax.org/books/world-history-volume-1/pages/10-1-the-eastward-shift
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Roman West
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Augustine of Hippo"
@@ -57,7 +58,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-23
     dogrulama_dizesi: "The History of the Decline and Fall of the Roman Empire"
     not: "Eserin kamu mali tam metni"
-son_denetim: 2026-08-23
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

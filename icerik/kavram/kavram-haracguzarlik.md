@@ -26,12 +26,13 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Tributary system"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Goryeo"
-    url: https://en.wikipedia.org/wiki/Goryeo
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Goryeo"
-    not: "Kaynagin ilk sirada saydigi ornek"
+    tur: ders
+    ad: "OpenStax — World History Volume 1, 12.3 Border States: Sogdiana, Korea, and Japan"
+    url: https://openstax.org/books/world-history-volume-1/pages/12-3-border-states-sogdiana-korea-and-japan
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Goryeo
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Confucius"
@@ -41,7 +42,7 @@ kaynaklar:
     not: "Toren ve hiyerarsi gelenegi; bagimsiz alan adi"
 kaynak_siniri: >-
   Haraçgüzarlık, farklı devletlerin vergi, armağan ve tâbilik kayıtlarını tek karşılaştırmalı başlıkta toplar; bu modern analitik kategoriyi bütün dönemler için tanımlayan tek bir çağdaş belge yoktur. Dosya bu nedenle ikincil senteze dayanır ve her örneğin özgün kaydı aktör dosyasında sınanmalıdır.
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

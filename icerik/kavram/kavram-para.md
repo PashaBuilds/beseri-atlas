@@ -26,12 +26,13 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Money"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Song dynasty"
-    url: https://en.wikipedia.org/wiki/Song_dynasty
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Song dynasty"
-    not: "Kagit paranin erken kaydi"
+    tur: ders
+    ad: OpenStax — World History Volume 1, 14.1 Song China and the Steppe Peoples
+    url: https://openstax.org/books/world-history-volume-1/pages/14-1-song-china-and-the-steppe-peoples
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Song China
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Adam Smith's Moral and Political Philosophy"
@@ -49,7 +50,7 @@ kaynaklar:
     dogrulama_dizesi: OF THE ORIGIN AND USE OF MONEY
     not: Kamu mali tam metin; para ve vergilendirme bolumleri icin donem kaynagi. Smith'in kurami
       tarihsel olgularin tek aciklamasi sayilmaz.
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

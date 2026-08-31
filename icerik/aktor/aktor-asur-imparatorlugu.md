@@ -35,10 +35,11 @@ kaynaklar:
     dogrulama_dizesi: "population_historical"
   - anahtar: k4
     tur: akademik
-    ad: "University College London — Assyrian empire builders"
-    url: https://www.ucl.ac.uk/sargon/abouttheproject/
+    ad: "ORACC — Assyrian Empire Builders (Jina Reader metin aynası)"
+    url: https://r.jina.ai/http://oracc.museum.upenn.edu/saao/aebp/
     erisim_tarihi: 2026-08-30
-    dogrulama_dizesi: "Assyrian empire builders"
+    dogrulama_dizesi: "Governors, diplomats and soldiers in the service of"
+    not: "Yeni Asur saray yazışmalarını açık erişimde sunan akademik projenin metin aynası; yazışmalar yönetim ağını doğrudan gösterir, bütün imparatorluk tarihini tek başına temsil etmez."
   - anahtar: k5
     tur: kitap
     ad: "OpenStax — World History Volume 1, 4.1 From Old Babylon to the Medes"

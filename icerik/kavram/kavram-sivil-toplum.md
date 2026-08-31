@@ -30,13 +30,6 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Hegel"
     not: "Kavrami sistemine alan dusunur; bagimsiz alan adi"
-  - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Alexis de Tocqueville"
-    url: https://en.wikipedia.org/wiki/Alexis_de_Tocqueville
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Tocqueville"
-    not: "Gonullu birlik kavramini kaydeden yazar"
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -45,7 +38,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-25
     dogrulama_dizesi: "Democracy in America"
     not: "Kavramin formule edildigi eserin kamu mali tam metni"
-son_denetim: 2026-08-25
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -75,7 +68,7 @@ felsefesine dair üç ayrı okumayı alt başlıklar hâlinde sıralar.[^k2] O d
 
 Alexis de Tocqueville için tutulan kayıt, başlıca eserlerini *Amerika'da
 Demokrasi* (1835) ve *Eski Rejim ve Devrim* (1856) künyeleriyle verir; kayda
-değer fikirleri arasında gönüllü birliği ve karşılıklı özgürlüğü sayar.[^k3] O yazar
+değer fikirleri arasında gönüllü birliği ve karşılıklı özgürlüğü sayar.[^k4] O yazar
 [Alexis de Tocqueville](/dusunur/tocqueville/) dosyasında ele alınıyor.
 
 ## Kanıtın ve kapsamın sınırı
@@ -109,7 +102,7 @@ ilişkiyi göstermelidir.
 Dernekler insanların birlikte karar alma, farklı görüşle uzlaşma, temsilci seçme
 ve yöneticiden hesap sorma becerisini geliştirebilir. Tocqueville’in Amerika
 gözlemleri, gönüllü birliklerin demokratik yaşam için taşıdığı öneme dikkat
-çeker.[^k3][^k4] Bağımsız basın ve hak örgütleri görünmeyen sorunları kamusal
+çeker.[^k4][^k4] Bağımsız basın ve hak örgütleri görünmeyen sorunları kamusal
 gündeme taşıyabilir; sendikalar dağınık çalışanların pazarlık gücünü birleştirebilir.
 
 Fakat sivil toplum kendiliğinden eşitlikçi veya iyi değildir. Varlıklı gruplar

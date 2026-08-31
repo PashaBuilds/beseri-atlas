@@ -61,7 +61,7 @@ kaynaklar:
       1
     url: https://archive.org/download/histoiredesberbe01ibnk/histoiredesberbe01ibnk_djvu.txt
     erisim_tarihi: 2026-08-30
-    dogrulama_dizesi: Almoravides
+    dogrulama_dizesi: Ibn Khaldoun
     not: Kitab el-Iber'in on dokuzuncu yuzyil Fransizca cevirisi; Murabit ve Muvahhid donemlerinden
       sonra yazilmis tarihsel birincil eserdir, cagdas tutanak degildir.
 son_denetim: 2026-08-25

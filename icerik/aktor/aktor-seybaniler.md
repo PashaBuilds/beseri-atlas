@@ -62,7 +62,7 @@ kaynaklar:
     tur: birincil
     birincil_tur: tanik
     ad: Babur — The Babur-nama in English, A. S. Beveridge cevirisi (Project Gutenberg)
-    url: https://www.gutenberg.org/ebooks/44608
+    url: https://www.gutenberg.org/cache/epub/44608/pg44608.txt
     erisim_tarihi: 2026-08-30
     dogrulama_dizesi: Shaibaq Khan
     not: Maveraunnehir mucadelesinin yenilen tarafinin kendi anisi; Seybani Han ve Cagatay mirasina

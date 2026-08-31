@@ -55,12 +55,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Source criticism"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Herodotus"
-    url: https://en.wikipedia.org/wiki/Herodotus
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Herodotus"
-    not: "Kaynak elestirisinin en eski kayitli ornegi"
+    tur: birincil
+    birincil_tur: eser
+    ad: Herodotos — The Histories, Book 1, Perseus Digital Library
+    url: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0126
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Herodotus, The Histories
+    not: Kamu mali Ingilizce ceviri; yazarin anlatimini verir, sonraki tarih yazimi etkisini tek basina
+      olcmez.
   - anahtar: k3
     tur: ansiklopedi
     ad: "1911 Encyclopaedia Britannica - Herodotus (Wikisource)"
@@ -68,7 +70,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "HERODOTUS"
     not: "Ayni konuda yuz yil onceki kayit; bagimsiz alan adi"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

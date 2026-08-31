@@ -25,19 +25,21 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "European Union"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) — United Nations"
-    url: https://en.wikipedia.org/wiki/United_Nations
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "United Nations"
-    not: "Karşılaştırma için hükümetler arası örgüt modeli"
+    tur: birincil
+    birincil_tur: belge
+    ad: Charter of the United Nations — United Nations
+    url: https://www.un.org/en/about-us/un-charter/full-text
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: WE THE PEOPLES OF THE UNITED NATIONS
+    not: Kurucu antlasmanin BM tarafindan yayimlanan tam metni; kurumun fiili etkisini tek basina
+      olcmez.
   - anahtar: k3
     tur: veri
     ad: "Our World in Data — Population, long-run with projections (CSV verisi)"
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

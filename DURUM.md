@@ -1,16 +1,16 @@
 ---
-aktif_faz: "Ultracode Faz 2 (pilot)"
-aktif_parti: pilot-01
-son_commit: 97e53c0
-son_guncelleme: 2026-08-28T18:55:34.666110+00:00
+aktif_faz: "Ultracode Faz 4 (kaliteli büyüme)"
+aktif_parti: parti-01
+son_commit: ee99da95
+son_guncelleme: 2026-08-31T04:55:00+03:00
 sayaclar:
-  uretilen: 505
-  onaylanan: 505
+  uretilen: 542
+  onaylanan: 513
   karantinada: 0
   onarim_dongusunde: 0
 metrikler:
-  kaynak_dogrulama_orani: 0.999
-  ortalama_kaynak_sayisi: 3.08
+  kaynak_dogrulama_orani: 0.9931
+  ortalama_kaynak_sayisi: 4.63
   ornekleme_kapisi_son_skor: 1
   ornekleme_kapisi_son_calisma: 2026-08-28T18:55:11.583Z
   ornekleme_kapisi_karar: devam
@@ -57,24 +57,25 @@ faz_parti_sayaci:
 > Bu dosya orkestratör tarafından yazılır. Elle düzenlenmez.
 > Hat durduğunda `npm run otonom` bu dosyayı okuyup aynı noktadan sürer.
 
-**Aktif faz:** 5 — Çapraz denetim
-**Aktif parti:** B01
-**Son güncelleme:** 2026-08-21T13:15:04.153Z
-**Son commit:** ae4d6aa
+**Aktif faz:** Ultracode Faz 4 — kaliteli büyüme
+**Aktif parti:** parti-01
+**Son güncelleme:** 2026-08-31T04:55:00+03:00
+**Son commit:** ee99da95
 
 | Sayaç | Değer |
 |---|---|
-| Üretilen | 28 |
-| Onaylanan | 28 |
+| Üretilen | 542 |
+| Onaylanan | 513 |
+| Editoryal onay bekleyen | 29 |
 | Karantinada | 0 |
 | Onarım döngüsünde | 0 |
 
 | Metrik | Değer | Eşik |
 |---|---|---|
-| Kaynak doğrulama oranı | 0.999 | 0.92 |
-| Makale başına ortalama kaynak | 3.08 | 3 |
+| Kaynak doğrulama oranı | 0.9931 | 0.92 |
+| Makale başına ortalama kaynak | 4.63 | 3 |
 | Örnekleme kapısı son skor | 1 | 0.9 |
 
-**Bütçe:** 1.320.000 / 40.000.000 token
+**Son kayıtlı otonom bütçe:** 1.320.000 / 40.000.000 token (Codex devralma çalışması hariç)
 **Ardışık aynı hata:** 0 / 5
 **Onarım turu:** 0 / 3

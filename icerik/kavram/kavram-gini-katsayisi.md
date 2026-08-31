@@ -32,13 +32,14 @@ kaynaklar:
     dogrulama_dizesi: "population_historical"
     not: "Olcunun uygulandigi nufusun toplami"
   - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Immanuel Wallerstein"
-    url: https://en.wikipedia.org/wiki/Immanuel_Wallerstein
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Wallerstein"
-    not: "Esitsizligi bir sistem ozelligi sayan kuram"
-son_denetim: 2026-08-21
+    tur: akademik
+    ad: University of California Press — Immanuel Wallerstein, The Modern World-System I
+    url: https://www.ucpress.edu/books/the-modern-world-system-i/epub-pdf
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: The Modern World-System I
+    not: Yayincinin eser, yazar, baski ve kapsam sayfasi; kitap telifli oldugu icin tam metin kaniti
+      sayilmaz.
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

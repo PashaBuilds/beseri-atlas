@@ -59,4 +59,28 @@ r = kaynakDenetimi([makale('verili', { kaynaklar: [
 assert.equal(r.olcum.birincilsiz, 0, 'veri kaniti kavram makalesinde de sayilir');
 assert.equal(r.olcum.kanitAcigi, 0);
 
-console.log('linter-kaynak.test.mjs: 6/6 gecti');
+r = kaynakDenetimi([makale('fazla-giris', { kaynaklar: [
+  { anahtar: 'k1', tur: 'ansiklopedi', url: 'https://en.wikipedia.org/wiki/A' },
+  { anahtar: 'k2', tur: 'ansiklopedi', url: 'https://en.wikipedia.org/wiki/B' },
+  { anahtar: 'k3', tur: 'birincil', birincil_tur: 'eser', url: 'https://gutenberg.org/a' },
+] })], {
+  havuz: { whitelist: [
+    { alan: 'en.wikipedia.org', kullanim: 'giris_kapisi' },
+    { alan: 'gutenberg.org', tur: 'birincil' },
+  ] },
+  borcDefteriYaz: false,
+});
+assert.equal(r.gecti, false, 'ikinci giris kapisi artik olcum degil sert hatadir');
+assert.equal(r.olcum.kuralIhlali, 1);
+
+r = kaynakDenetimi([makale('kanitsiz')], {
+  havuz: { whitelist: [
+    { alan: 'en.wikipedia.org', kullanim: 'giris_kapisi' },
+    { alan: 'gutenberg.org', tur: 'birincil' },
+  ] },
+  borcDefteriYaz: false,
+});
+assert.equal(r.gecti, false, 'birincil kaniti ve acik kaynak siniri olmayan makale artik sert hatadir');
+assert.equal(r.olcum.kanitAcigi, 1);
+
+console.log('linter-kaynak.test.mjs: 10/10 gecti');

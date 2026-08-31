@@ -16,7 +16,7 @@
     {
       "id": "olay-islam-fetihleri",
       "anahtar": "k4",
-      "url": "https://en.wikisource.org/wiki/The_Origins_of_the_Islamic_State",
+      "url": "https://archive.org/download/originsofislamic01bald/originsofislamic01bald_djvu.txt",
       "destek": "kismi"
     },
     {
@@ -46,7 +46,7 @@
     {
       "id": "aktor-abbasi-hilafeti",
       "anahtar": "k4",
-      "url": "https://www.britishmuseum.org/collection/object/C_OR-9102",
+      "url": "https://samlinger.natmus.dk/kmm/object/275102",
       "destek": "kismi"
     },
     {
@@ -64,7 +64,7 @@
     {
       "id": "aktor-cagatay-hanligi",
       "anahtar": "k5",
-      "url": "https://www.gutenberg.org/ebooks/44608",
+      "url": "https://www.gutenberg.org/cache/epub/44608/pg44608.txt",
       "destek": "kismi"
     },
     {
@@ -112,7 +112,7 @@
     {
       "id": "aktor-seybaniler",
       "anahtar": "k5",
-      "url": "https://www.gutenberg.org/ebooks/44608",
+      "url": "https://www.gutenberg.org/cache/epub/44608/pg44608.txt",
       "destek": "dogrudan"
     },
     {
@@ -162,7 +162,7 @@
     {
       "id": "kavram-millet-sistemi",
       "tur": "kaynak",
-      "url": "https://mjp.univ-perp.fr/constit/tr1856.htm"
+      "url": "https://r.jina.ai/https://worldhistorycommons.org/ottoman-decree-1856"
     },
     {
       "id": "kavram-milliyetcilik",

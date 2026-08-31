@@ -28,19 +28,20 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "German Empire"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) — Austria-Hungary"
-    url: https://en.wikipedia.org/wiki/Austria-Hungary
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Austria-Hungary"
-    not: "Birleşmeden dışarıda bırakılan rakip"
+    tur: ders
+    ad: OpenStax — World History Volume 2, 11.2 The Collapse of the Ottomans and the Coming of War
+    url: https://openstax.org/books/world-history-volume-2/pages/11-2-the-collapse-of-the-ottomans-and-the-coming-of-war
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Austria-Hungary
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
   - anahtar: k3
     tur: veri
     ad: "Our World in Data — Population, long-run with projections (CSV verisi)"
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

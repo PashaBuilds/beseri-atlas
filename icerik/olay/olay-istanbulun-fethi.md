@@ -33,12 +33,13 @@ kaynaklar:
     dogrulama_dizesi: "OSMANLILAR"
     not: "Fetheden düzenin kurumsal tarihi"
   - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) — Byzantine Empire"
-    url: https://en.wikipedia.org/wiki/Byzantine_Empire
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Byzantine Empire"
-    not: "Sona eren devlet"
+    tur: ders
+    ad: OpenStax — World History Volume 1, 10.2 The Byzantine Empire and Persia
+    url: https://openstax.org/books/world-history-volume-1/pages/10-2-the-byzantine-empire-and-persia
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: The Byzantine Empire and Persia
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -48,7 +49,7 @@ kaynaklar:
     dogrulama_dizesi: The Fall of Constantinople
     not: On besinci yuzyil Bizans kronigi; fethi kaybeden dunyanin bakisindan anlatir. Cagdas kaynaktir
       ama kusatmanin her anina gorgu tanikligi sayilamaz.
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

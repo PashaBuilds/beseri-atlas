@@ -26,12 +26,13 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Mahan"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Halford Mackinder"
-    url: https://en.wikipedia.org/wiki/Halford_Mackinder
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Mackinder"
-    not: "Karsit tezin yazari"
+    tur: birincil
+    birincil_tur: eser
+    ad: Halford Mackinder — The Geographical Pivot of History, tam metin
+    url: https://archive.org/details/the-geographical-pivot-of-history-by-halford-john-mackinder
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: The Geographical Pivot of History
+    not: 1904 tarihli metin; Mackinder'in sonraki goruslerinin tamami degildir.
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -40,7 +41,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-23
     dogrulama_dizesi: "The Influence of Sea Power Upon History"
     not: "Dusunurun baslica eserinin kamu mali tam metni"
-son_denetim: 2026-08-23
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

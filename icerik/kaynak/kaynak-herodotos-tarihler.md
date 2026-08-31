@@ -44,13 +44,14 @@ kaynaklar:
     dogrulama_dizesi: "HERODOTUS"
     not: "Yuz yil onceki kayit; bagimsiz alan adi"
   - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - History of the Peloponnesian War"
-    url: https://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "History of the Peloponnesian War"
-    not: "Kaynagin yontem bakimindan karsilastirdigi eser"
-son_denetim: 2026-08-21
+    tur: birincil
+    birincil_tur: eser
+    ad: Thukydides — History of the Peloponnesian War, Richard Crawley cevirisi
+    url: https://www.gutenberg.org/cache/epub/7142/pg7142.txt
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: make the speakers say what was in my opinion demanded of them
+    not: Eserin kamu mali Ingilizce tam metni; modern edisyon ve ceviri tartismalarini kapsamaz.
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

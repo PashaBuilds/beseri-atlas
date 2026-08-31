@@ -41,12 +41,13 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Nomadic empire"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - First Turkic Khaganate"
-    url: https://en.wikipedia.org/wiki/First_Turkic_Khaganate
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "First Turkic Khaganate"
-    not: "Kaynagin saydigi orneklerden biri"
+    tur: birincil
+    birincil_tur: kitabe
+    ad: The Orkhon Inscriptions — Thomsen okumasindan E. D. Ross cevirisi (1930)
+    url: https://archive.org/details/orkhoninscriptions
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Orkhon
+    not: Kaganligin siyasal hitabina kendi yazitlari uzerinden erisim verir; modern Ingilizce nesirdir.
   - anahtar: k3
     tur: ansiklopedi
     ad: "1911 Encyclopaedia Britannica - Herodotus (Wikisource)"
@@ -54,7 +55,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "HERODOTUS"
     not: "Bozkir halklarina dair en eski yazili kaydin yazari; bagimsiz alan adi"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

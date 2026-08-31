@@ -46,13 +46,14 @@ kaynaklar:
     dogrulama_dizesi: "Marx"
     not: "Ayrildigi yorumlardan biri; bagimsiz alan adi"
   - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Periodization"
-    url: https://en.wikipedia.org/wiki/Periodization
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Periodization"
-    not: "Rakip donemlendirme onerileri"
-son_denetim: 2026-08-21
+    tur: ders
+    ad: OpenStax — World History Volume 2, 1.3 Causation and Interpretation in History
+    url: https://openstax.org/books/world-history-volume-2/pages/1-3-causation-and-interpretation-in-history
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: 1.3 Causation and Interpretation in History
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

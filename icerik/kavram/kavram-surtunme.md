@@ -22,13 +22,6 @@ kaynaklar:
     url: https://en.wikipedia.org/wiki/Fog_of_war
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Fog of war"
-  - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Carl von Clausewitz"
-    url: https://en.wikipedia.org/wiki/Carl_von_Clausewitz
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Clausewitz"
-    not: "Kavrami kaydeden kuramci"
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Thomas Hobbes"
@@ -44,7 +37,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-25
     dogrulama_dizesi: "On War"
     not: "Kavramin formule edildigi eserin kamu mali tam metni"
-son_denetim: 2026-08-25
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -58,7 +51,7 @@ sonuncusunun altında video oyunları ayrı bir alt başlıktır.[^k1]
 Carl von Clausewitz için tutulan kayıt, savaş sisi altında ortaya çıkan
 beklenmedik gelişmelerin uyanık komutanlardan hızlı kararlar gerektirdiğini ve bu
 durumun eksik, şüpheli ve çoğu kez hatalı bilgi ile büyük korku, kuşku ve heyecan
-karşısında yaşandığını yazar.[^k2]
+karşısında yaşandığını yazar.[^k4]
 
 Kuramcı [Carl von Clausewitz](/dusunur/clausewitz/) dosyasında ele alınıyor.
 
@@ -86,7 +79,7 @@ hakkındaki bilgisinin eksik veya yanlış olmasını anlatır. Sürtünme daha 
 kâğıt üzerinde kolay görünen bir planı gerçek dünyada zorlaştıran küçük ve büyük
 engellerin toplamıdır. Yanlış haber bunun bir parçasıdır; yorgunluk, bozulan araç,
 geciken emir, kötü hava, korku, yolun kapanması ve iki birimin aynı saatte hareket
-edememesi de sürtünme yaratır. Bilgi kusursuz olsa bile uygulama aksayabilir.[^k1][^k2]
+edememesi de sürtünme yaratır. Bilgi kusursuz olsa bile uygulama aksayabilir.[^k1][^k4]
 
 Bu ayrım nedensellik için önemlidir. Komutan hedefi yanlış seçtiyse stratejik
 değerlendirme hatası; doğru hedefe giden emrin dili belirsizse iletişim hatası;
@@ -103,7 +96,7 @@ bir kolun zamanlamasını da etkileyebilir. Haber geciktikçe karar eski bilgiye
 dayanır; karar değiştikçe yeni emirlerin ulaşması gerekir. Böylece başlangıçta
 önemsiz görünen sapmalar birikerek planın bütün ritmini bozar. Clausewitz’in
 belirsizlik, korku ve hızlı karar ihtiyacını birlikte anması, insan zihninin de
-bu zincirin parçası olduğunu gösterir.[^k2]
+bu zincirin parçası olduğunu gösterir.[^k4]
 
 Sürtünme iki tarafta eşit dağılmaz. Yerel araziyi bilen, yedek parçaya sahip,
 alt kademeye karar yetkisi veren ve hatadan öğrenen örgüt aynı koşulu daha kolay
@@ -147,4 +140,4 @@ Sürtünmeyi anlamak, iyi planın değersiz olduğu sonucuna götürmez. Tam ter
 planın tek bir kusursuz akış yerine hata payı, yedek kapasite ve yerel uyarlama
 içermesi gerektiğini gösterir. Güçlü tarihsel açıklama da “plan başarısız oldu”
 demekle yetinmez; hangi engelin hangi bağlantı üzerinden sonucu değiştirdiğini
-ve aynı engelin başka bir örgütte neden farklı sonuç verebileceğini gösterir.[^k2][^k4]
+ve aynı engelin başka bir örgütte neden farklı sonuç verebileceğini gösterir.[^k4][^k4]

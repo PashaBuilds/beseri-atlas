@@ -27,19 +27,20 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Great Zimbabwe"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Mali Empire"
-    url: https://en.wikipedia.org/wiki/Mali_Empire
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Mali Empire"
-    not: "Ayni yuzyillarda kitanin batisindaki duzen"
+    tur: ders
+    ad: OpenStax — World History Volume 1, 15.2 Medieval Sub-Saharan Africa
+    url: https://openstax.org/books/world-history-volume-1/pages/15-2-medieval-sub-saharan-africa
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Mali Empire
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
   - anahtar: k3
     tur: veri
     ad: "Our World in Data - Population, long-run with projections (CSV verisi)"
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

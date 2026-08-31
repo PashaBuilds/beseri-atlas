@@ -28,19 +28,20 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "World War I"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Treaty of Versailles"
-    url: https://en.wikipedia.org/wiki/Treaty_of_Versailles
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Treaty of Versailles"
-    not: "Savasin ardindan gelen antlasma"
+    tur: birincil
+    birincil_tur: belge
+    ad: Treaty of Versailles, 28 June 1919 — Avalon Project
+    url: https://avalon.law.yale.edu/imt/parti.asp
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: The Versailles Treaty June 28, 1919
+    not: Antlasmanin Ingilizce metni; uygulanmasi ve toplumsal etkileri icin ikincil calisma gerekir.
   - anahtar: k3
     tur: veri
     ad: "Our World in Data - Population, long-run with projections (CSV verisi)"
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

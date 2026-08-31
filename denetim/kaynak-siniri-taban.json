@@ -1,5 +1,5 @@
 {
-  "aciklama": "KARAR K9 borc defteri. Kural 2026-08-29da konuldu; bu listedeki dosyalar o an birincil kaynaksiz ve kaynak_siniri beyansizdi. Listede OLMAYAN bir dosya ayni durumda olursa HATA verir. Liste yalnizca kisalabilir: beyan yazilan dosya defterden cikarilir ve bir daha giremez.",
+  "aciklama": "KARAR K9'un tarihsel borc defteri. 2026-08-30'da liste sifirlandi ve KAPI 13 istisnasiz sert kapiya gecti: birincil kaniti da kaynak_siniri beyani da olmayan her dosya artik HATA verir. Bu dosya geriye donuk kaydi korur; aktif istisna listesi degildir.",
   "zaman": "2026-08-29",
   "beyansiz": []
 }

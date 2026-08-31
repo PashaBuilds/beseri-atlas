@@ -56,12 +56,13 @@ kaynaklar:
     dogrulama_dizesi: "Arendt"
     not: "Ayni yuzyilin siyaset yazari; bagimsiz alan adi"
   - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Decolonisation of Africa"
-    url: https://en.wikipedia.org/wiki/Decolonisation_of_Africa
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Decolonisation of Africa"
-    not: "Bolgesel uygulama"
+    tur: ders
+    ad: OpenStax — World History Volume 2, 14.4 Global Tensions and Decolonization
+    url: https://openstax.org/books/world-history-volume-2/pages/14-4-global-tensions-and-decolonization
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: African colonies
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
   - anahtar: k4
     tur: birincil
     birincil_tur: belge
@@ -71,7 +72,7 @@ kaynaklar:
     dogrulama_dizesi: Declaration on the Granting of Independence
     not: 14 Aralik 1960 tarihli karar metninin Ingilizce asli; hukuki-siyasi bagimsizlik talebini
       gosterir, ekonomik ve toplumsal somurgesizlesmenin tamamlandigini kanitlamaz.
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

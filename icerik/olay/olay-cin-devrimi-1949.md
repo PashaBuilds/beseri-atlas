@@ -27,12 +27,13 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Chinese Communist Revolution"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) — Cold War"
-    url: https://en.wikipedia.org/wiki/Cold_War
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Cold War"
-    not: "Devrimin içine yerleştiği küresel çerçeve"
+    tur: ders
+    ad: OpenStax — World History Volume 2, 14.1 The Cold War Begins
+    url: https://openstax.org/books/world-history-volume-2/pages/14-1-the-cold-war-begins
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: The Cold War Begins
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
   - anahtar: k3
     tur: veri
     ad: "Our World in Data — Population, long-run with projections (CSV verisi)"
@@ -40,13 +41,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
   - anahtar: k4
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) — Qing dynasty"
-    url: https://en.wikipedia.org/wiki/Qing_dynasty
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Qing dynasty"
-    not: "Devrimin devraldigi devlet duzeninin kokeni"
-son_denetim: 2026-08-21
+    tur: ders
+    ad: OpenStax — World History Volume 2, 6.2 The Rise of a Global Economy
+    url: https://openstax.org/books/world-history-volume-2/pages/6-2-the-rise-of-a-global-economy
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Qing
+    not: Rice University tarafindan acik lisansla yayimlanan, yazar ve hakem kurulu acik universite ders
+      kitabi; onceki genel Wikipedia baglam kaynaginin yerine kullanildi.
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

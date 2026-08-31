@@ -34,12 +34,13 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Periodization"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Fernand Braudel"
-    url: https://en.wikipedia.org/wiki/Fernand_Braudel
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Braudel"
-    not: "Zaman katmanlari onerisi"
+    tur: akademik
+    ad: "Fernand Braudel — Histoire et Sciences sociales: La longue durée, Annales ESC 13/4 (1958)"
+    url: https://www.persee.fr/doc/ahess_0395-2649_1958_num_13_4_2781
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: La longue durée
+    not: Braudel'in kendi yöntem makalesinin Persée tam metni; biyografik ayrıntıların değil longue
+      durée yaklaşımının birincil kavramsal kaynağıdır.
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Michel Foucault"
@@ -47,7 +48,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Foucault"
     not: "Kavramlarin tarihselligi uzerine yazar; bagimsiz alan adi"
-son_denetim: 2026-08-21
+son_denetim: 2026-08-30
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
