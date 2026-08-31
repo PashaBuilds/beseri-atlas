@@ -34,13 +34,6 @@ kaynaklar:
     url: https://en.wikipedia.org/wiki/Carl_von_Clausewitz
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Clausewitz"
-  - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Fog of war"
-    url: https://en.wikipedia.org/wiki/Fog_of_war
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Fog of war"
-    not: "Eserden turetilen kavram"
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Niccolo Machiavelli"
@@ -87,7 +80,7 @@ alanında yayın yılının 1832 olarak tutulmasının gerekçesidir.
 ## Eserden türetilen kavram
 
 Eserden türetilen bir kavram için tutulan ayrı kayıt, kavramın köken, askerî
-kullanım ve benzetimler ile oyunlar bölümlerini tutar.[^k2] O kavram
+kullanım ve benzetimler ile oyunlar bölümlerini tutar. O kavram
 [Sürtünme](/kavram/surtunme/) dosyasında ele alınıyor.
 
 ## Önceki yüzyılın savaş yazarı

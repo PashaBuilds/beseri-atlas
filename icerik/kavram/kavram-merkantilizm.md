@@ -31,13 +31,6 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Adam Smith"
     not: "Ayni yuzyilda yazan iktisat yazari; bagimsiz alan adi"
-  - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Dutch East India Company"
-    url: https://en.wikipedia.org/wiki/Dutch_East_India_Company
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Dutch East India Company"
-    not: "Donemin sirket bicimi"
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -71,7 +64,7 @@ ve altında güncel bir örneği işler.[^k1]
 ## Dönemin şirket biçimi
 
 Dönemin şirket biçimi için tutulan kayıt, bir şirketin feshedildiğini ve
-yönettiği alanın devlete devrolduğunu yazar.[^k3] O şirket
+yönettiği alanın devlete devrolduğunu yazar. O şirket
 [Hollanda Doğu Hindistan Şirketi](/aktor/hollanda-doguhindistan-sirketi/)
 dosyasında ele alınıyor.
 
@@ -122,7 +115,7 @@ gücü bir araya getirebilir; tekel hakkı rekabeti sınırlar ve şiddeti ticar
 hesabın parçası yapar.
 
 [Hollanda Doğu Hindistan Şirketi](/aktor/hollanda-doguhindistan-sirketi/) şirket,
-devlet yetkisi ve denizaşırı ticaretin nasıl birleşebildiğini gösterir.[^k3]
+devlet yetkisi ve denizaşırı ticaretin nasıl birleşebildiğini gösterir.
 [Silahlı ticaret](/kavram/silahli-ticaret/) bu düzenin zor kullanma boyutunu
 görünür kılar. Şirketin kârı ile devletin vergi veya strateji kazancı aynı şey
 değildir; hangi maliyetin yerli halka, denizciye, tüketiciye ya da rakip devlete

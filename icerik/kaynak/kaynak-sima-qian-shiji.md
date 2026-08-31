@@ -42,13 +42,6 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Confucius"
     not: "Ayni gelenegin metin sorunu; bagimsiz alan adi"
-  - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Han dynasty"
-    url: https://en.wikipedia.org/wiki/Han_dynasty
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Han dynasty"
-    not: "Yazildigi donemin hanedani"
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -97,10 +90,8 @@ hikâyelerin çeşitli temsiller ve kaygılar yansıttığını yazar.[^k2] O ö
 
 ## Yazıldığı dönemin hanedanı
 
-Yazıldığı dönemin hanedanı için tutulan kayıt, Han'ı MÖ 202 - MS 220 arasına
-yerleştirir.[^k3] O hanedan
-[Han İmparatorluğu](/aktor/han-imparatorlugu/) dosyasında, yazarın kendisi ise
-[Sima Qian](/dusunur/sima-qian/) dosyasında ele alınıyor.
+Eserin siyasal bağlamı [Han İmparatorluğu](/aktor/han-imparatorlugu/),
+yazarın yaşamı ise [Sima Qian](/dusunur/sima-qian/) dosyasında ele alınıyor.
 
 ## Metne bağ
 

@@ -35,13 +35,6 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Machiavelli"
     not: "Savas ilkeleri uzerine onceki yazar; bagimsiz alan adi"
-  - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Napoleonic Wars"
-    url: https://en.wikipedia.org/wiki/Napoleonic_Wars
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Napoleonic Wars"
-    not: "Icinde gorev aldigi savaslar"
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -74,7 +67,7 @@ Bu güzergâh soyut biyografi değildir. Küçük profesyonel orduların hesapl�
 seferlerinden ulusal seferberliğe, tek muharebenin kararından uzun direnişe kadar
 farklı savaş biçimleri gördü. [Napolyon Savaşları](/olay/napolyon-savaslari/),
 kuramındaki halk katılımı, moral güç ve siyasal yoğunluk sorularının tarihsel
-laboratuvarıdır.[^k3]
+laboratuvarıdır.
 
 ## Savaş siyasetin yerini almaz, başka araçlarla sürer
 

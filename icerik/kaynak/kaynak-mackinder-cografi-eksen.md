@@ -34,13 +34,6 @@ kaynaklar:
     url: https://en.wikipedia.org/wiki/Halford_Mackinder
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Mackinder"
-  - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Alfred Thayer Mahan"
-    url: https://en.wikipedia.org/wiki/Alfred_Thayer_Mahan
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Mahan"
-    not: "Karsit tezin yazari"
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Baron de Montesquieu"
@@ -79,9 +72,8 @@ metni sayıldığını yazar; ifade bir düzeltme kaydıyla verilmiştir.[^k1]
 
 ## Karşıt tez aynı on yıllardadır
 
-Karşıt tezin yazarı için tutulan kayıt, onu 27 Eylül 1840 - 1 Aralık 1914 arasına
-yerleştirir ve deniz gücü üzerine iki eserin yazarı olduğunu belirtir.[^k2] O
-yazar [Alfred Thayer Mahan](/dusunur/mahan/) dosyasında ele alınıyor.
+Karşıt deniz gücü tezinin düşünsel bağlamı
+[Alfred Thayer Mahan](/dusunur/mahan/) dosyasında ele alınıyor.
 
 ## Coğrafya ve yönetim biçimi üzerine önceki yazar
 

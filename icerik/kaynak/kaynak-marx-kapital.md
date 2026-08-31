@@ -41,13 +41,6 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Primitive accumulation"
     not: "Eserde gelistirilen kavram; bagimsiz alan adi"
-  - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Capitalism"
-    url: https://en.wikipedia.org/wiki/Capitalism
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Capitalism"
-    not: "Eserin konusu"
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -71,7 +64,7 @@ Kaynak, bu üretim tarzının kârın acımasız takibiyle sürüklendiğini ve 
 sömürülen proletaryadan artı değer çıkarılmasında bulunduğunu yazar.[^k1]
 
 Eserin konusu
-[Kapitalizm](/kavram/kapitalizm/) dosyasında ele alınıyor.[^k3][^k1]
+[Kapitalizm](/kavram/kapitalizm/) dosyasında ele alınıyor.[^k1]
 
 ## Uzlaşı yokluğu aynı maddede kayıtlıdır
 

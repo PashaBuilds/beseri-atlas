@@ -55,13 +55,6 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Hobbes"
     not: "Mutlak egemenligi savunan dusunur; bagimsiz alan adi"
-  - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Max Weber"
-    url: https://en.wikipedia.org/wiki/Max_Weber
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Weber"
-    not: "Mesru guc tekeli tanimi"
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -95,7 +88,7 @@ ilişkili olduğunu yazar.[^k2] O düşünür
 ## Güç tekeli tanımı
 
 Bir başka kayıt, belirli bir alan içinde meşru güç kullanımı tekelini kayda değer
-bir fikir olarak sayar.[^k3] O tanım
+bir fikir olarak sayar. O tanım
 [Max Weber](/dusunur/weber/) dosyasında, meşruiyet tarafı ise
 [Meşruiyet](/kavram/mesruiyet/) dosyasında ele alınıyor.
 
@@ -137,7 +130,7 @@ düzenin egemen olmadığı anlamına değil, nihai kurallarının bölüşümü
 anlamına gelebilir.
 
 Weber’le ilişkilendirilen meşru fiziksel güç tekeli, egemenliğin fiilî ve
-meşruiyet boyutlarını birbirine bağlar.[^k3] Yalnız şiddet kapasitesi yeterli
+meşruiyet boyutlarını birbirine bağlar. Yalnız şiddet kapasitesi yeterli
 değildir; emrin haklı veya yasal görülmesi maliyetli zor kullanımını azaltır.
 [Meşruiyet](/kavram/mesruiyet/) kabulün gelenek, karizma ve akılcı-yasal düzen
 üzerinden nasıl üretilebildiğini gösterir.

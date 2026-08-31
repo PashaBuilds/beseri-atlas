@@ -36,8 +36,8 @@ export function makaleleriTopla({ tipler = TIP_KLASORLERI } = {}) {
       const tam = path.join(klasor, dosya);
       const ham = oku(tam);
       try {
-        const { fm, govde } = ayristir(ham, dosya);
-        cikti.push({ tip, dosya, yol: tam, goreli: `icerik/${tip}/${dosya}`, fm, govde, ham });
+      const { fm, govde, hamFm } = ayristir(ham, dosya);
+      cikti.push({ tip, dosya, yol: tam, goreli: `icerik/${tip}/${dosya}`, fm, govde, hamFm, ham });
       } catch (e) {
         cikti.push({ tip, dosya, yol: tam, goreli: `icerik/${tip}/${dosya}`, ayristirmaHatasi: e.message, fm: {}, govde: '', ham });
       }
@@ -143,4 +143,3 @@ export function linterCli(ad, denetimFn, { ozet } = {}) {
   }
   process.exit(r.gecti ? 0 : 1);
 }
-

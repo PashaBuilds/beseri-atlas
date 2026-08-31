@@ -28,13 +28,6 @@ kaynaklar:
     url: https://en.wikipedia.org/wiki/Cold_War
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Cold War"
-  - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - United Nations"
-    url: https://en.wikipedia.org/wiki/United_Nations
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "United Nations"
-    not: "Ayni yillarda kurulan kuresel orgut"
   - anahtar: k3
     tur: veri
     ad: "Our World in Data - Population, long-run with projections (CSV verisi)"
@@ -219,8 +212,7 @@ uzlaşmanın kalıcılığına bakılmalıdır.
 
 ## Aynı yıllarda kurulan küresel örgüt
 
-Aynı yıllarda kurulan hükümetler arası örgütün ana organları arasında Güvenlik
-Konseyi bulunur.[^k2] Bu örgüt
+Askerî ittifak ile evrensel örgüt arasındaki yetki ve üyelik farkları
 [Birleşmiş Milletler](/aktor/birlesmis-milletler/) dosyasında ele alınıyor.
 
 ## Ölçek

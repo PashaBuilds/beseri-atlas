@@ -41,13 +41,6 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Plato"
     not: "Yazarin kendi maddesi; bagimsiz alan adi"
-  - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Politics (Aristotle)"
-    url: https://en.wikipedia.org/wiki/Politics_(Aristotle)
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Politics"
-    not: "Ogrencisinin ayni konudaki eseri"
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -84,7 +77,7 @@ metinde doğrudan yer almadığı sorununu görünür kılar; o sorun
 
 Öğrencisinin aynı konudaki eseri için tutulan kayıt, o eserin kitap kitap
 bölümlendiğini ve anayasaların sınıflandırılmasına ayrı bir bölüm ayrıldığını
-yazar.[^k3] O eser
+yazar. O eser
 [Aristoteles — Politika](/kaynak/aristoteles-politika/) dosyasında ele alınıyor.
 
 ## Metne bağ

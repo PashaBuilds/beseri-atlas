@@ -31,13 +31,6 @@ kaynaklar:
     url: https://en.wikipedia.org/wiki/Han_dynasty
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Han dynasty"
-  - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) — Roman Empire"
-    url: https://en.wikipedia.org/wiki/Roman_Empire
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Roman Empire"
-    not: "Aynı yüzyıllarda Avrasya'nın öteki ucundaki düzen"
   - anahtar: k3
     tur: veri
     ad: "Our World in Data — Population, long-run with projections (CSV verisi)"
@@ -239,7 +232,7 @@ birbirinin kopyası olduğu sonucuna götürmemelidir.[^k1]
 ## Avrasya'nın öteki ucunda
 
 Aynı yüzyıllarda batıda, Roma İmparatorluğu klasik dönemde Akdeniz'e ve
-Avrupa'nın, Batı Asya'nın ve Kuzey Afrika'nın büyük bölümüne hâkimdi.[^k2] İki
+Avrupa'nın, Batı Asya'nın ve Kuzey Afrika'nın büyük bölümüne hâkimdi. İki
 düzen doğrudan temas kurmadı; aralarındaki bağ, Zhang Qian'ın haritaladığı ara
 bölgelerden geçiyordu.[^k1] Batıdaki düzen
 [Roma İmparatorluğu](/aktor/roma-imparatorlugu/) dosyasında ele alınıyor.

@@ -31,13 +31,6 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Montesquieu"
     not: "Kuvvetler ayriligi onerisi; bagimsiz alan adi"
-  - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Sovereignty"
-    url: https://en.wikipedia.org/wiki/Sovereignty
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Sovereignty"
-    not: "Yakin kavram"
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -81,7 +74,7 @@ sayıldığını yazar.[^k2] O öneri
 ## Yakın kavram
 
 Yakın bir kavram için tutulan kayıt, mutlaklık, dışlayıcılık ile hukuken ve
-fiilen egemenlik alt başlıklarını tutar.[^k3] O kavram
+fiilen egemenlik alt başlıklarını tutar. O kavram
 [Egemenlik](/kavram/egemenlik/) dosyasında ele alınıyor.
 
 ## Kanıtın ve kapsamın sınırı
@@ -128,7 +121,7 @@ bağlamda gösterir. Tehlikenin gerçekliği, her aracın otomatik olarak hukuki
 ## Egemenlik ile sınır arasındaki ilişki
 
 [Egemenlik](/kavram/egemenlik/) nihai karar yetkisini sorar; hukuk devleti bu
-yetkinin hangi usul ve haklarla kullanılabileceğini sınar.[^k3] [Meşruiyet](/kavram/mesruiyet/)
+yetkinin hangi usul ve haklarla kullanılabileceğini sınar. [Meşruiyet](/kavram/mesruiyet/)
 kurallara neden uyulduğunu açıklar. Montesquieu’nün güçlerin ayrılması yaklaşımı,
 aynı aktörün kural koyma, uygulama ve uyuşmazlığı çözme yetkilerini toplamasının
 yarattığı tehlikeye karşı kurumsal bir cevap verir.[^k2][^k4] Ayrılık mutlak

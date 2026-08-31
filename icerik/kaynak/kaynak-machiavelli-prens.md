@@ -42,13 +42,6 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Machiavelli"
     not: "Yazarin kendi maddesi; bagimsiz alan adi"
-  - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Renaissance"
-    url: https://en.wikipedia.org/wiki/Renaissance
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Renaissance"
-    not: "Yazildigi donem"
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -96,7 +89,7 @@ maddeye rastlayan herkesin neden Machiavelli sorusunu sorabileceğini yazar ve
 yazılarını çileden çıkaracak ölçüde sistemsiz ve tutarsız olarak niteler.[^k2]
 
 Yazar [Machiavelli](/dusunur/machiavelli/) dosyasında, dönem ise
-[Rönesans](/olay/ronesans/) dosyasında ele alınıyor.[^k3]
+[Rönesans](/olay/ronesans/) dosyasında ele alınıyor.
 
 ## Metne bağ
 

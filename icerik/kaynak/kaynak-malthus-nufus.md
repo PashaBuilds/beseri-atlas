@@ -34,13 +34,6 @@ kaynaklar:
     url: https://en.wikipedia.org/wiki/Thomas_Robert_Malthus
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Malthus"
-  - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Malthusianism"
-    url: https://en.wikipedia.org/wiki/Malthusianism
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Malthusianism"
-    not: "Eserden turetilen kavram"
   - anahtar: k3
     tur: veri
     ad: "Our World in Data - Population growth rates (CSV verisi)"
@@ -85,7 +78,7 @@ geçindirmenin güçlükleri sonunda nüfus artış hızını azaltır ve düşe
 yeniden daha yüksek gerçek ücretlere yol açar.[^k1]
 
 Kavram [Malthus
-tuzağı](/kavram/malthus-tuzagi/) dosyasında ele alınıyor.[^k2][^k1]
+tuzağı](/kavram/malthus-tuzagi/) dosyasında ele alınıyor.[^k1]
 
 ## Modelin sınandığı seri
 

@@ -26,13 +26,6 @@ kaynaklar:
     url: https://en.wikipedia.org/wiki/City-state
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "City-state"
-  - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Hanseatic League"
-    url: https://en.wikipedia.org/wiki/Hanseatic_League
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Hanseatic League"
-    not: "Sehirlerden olusan bir baska siyasi bicim"
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Plato"
@@ -67,12 +60,10 @@ gösterir.
 
 ## Şehirlerden oluşan bir başka biçim
 
-Şehirlerden oluşan bir başka siyasi biçim için tutulan kayıt, üyeliğinin Baltık
-ve Kuzey denizleri bölgesindeki çeşitli şehirlerden oluştuğunu ve gayriresmî
-başkentinin Lübeck olduğunu yazar.[^k2] O yapı
+Kentlerin ticari ağ içinde ortak hareket ettiği farklı bir siyasi biçim
 [Hansa Birliği](/aktor/hansa-birligi/) dosyasında ele alınıyor.
 
-Bir şehirler birliğinin ayrı bir kategori olarak kaydedilmesi,[^k1][^k2] şehrin
+Bir şehirler birliğinin ayrı bir kategori olarak kaydedilmesi,[^k1] şehrin
 siyasi birim olmasının tek bir biçime bağlanamayacağını gösterir; en eski örnek
 [Sümer şehir devletleri](/aktor/sumer-sehir-devletleri/) dosyasında ele alınıyor.
 
@@ -128,12 +119,15 @@ yükümlülüklerle verildiğini ayrı olarak sorgular.
 
 ## Farklı bölgeleri karşılaştırmak
 
-[Sümer şehir devletleri](/aktor/sumer-sehir-devletleri/) tapınak, sulama,
-hanedan ve tarımsal çevre ilişkisini; [Hansa Birliği](/aktor/hansa-birligi/)
-özerk kentlerin ticari ağ içinde ortak hareketini; [Kilwa](/aktor/kilva/)
-Hint Okyanusu bağlantılarının bir kıyı kentini nasıl güçlendirdiğini gösterir.[^k2]
-Bu örneklerin her birine aynı Yunan *polis* şemasını uygulamak yerine egemenlik,
-yurttaşlık, kırsal çevre ve ağ ilişkileri ayrı ayrı karşılaştırılmalıdır.
+Karşılaştırmalı okumayı [Sümer şehir devletleri](/aktor/sumer-sehir-devletleri/),
+[Hansa Birliği](/aktor/hansa-birligi/) ve [Kilwa](/aktor/kilva/) üzerinden
+ilerlet. Egemenlik, yurttaşlık, kırsal çevre ve ağ ilişkilerini aynı şemaya
+sıkıştırmadan ayrı ayrı karşılaştır.
+
+Karşılaştırmada önce kentin çevresindeki kırsal alanı kimin vergilendirdiğini,
+sonra ortak kararın kimleri kapsadığını ve dış ilişkilerin tek merkezden mi,
+yoksa bir birlik üzerinden mi yürüdüğünü sor. Böylece aynı etiketin örttüğü
+farklı yönetim mekanizmaları görünür olur.
 
 [Mandala devleti](/kavram/mandala-devleti/) merkezden uzaklaştıkça azalan ve
 örtüşen yetkiyi anlatır; şehir devletinde ise yoğun bir kentsel merkez öne çıkar.

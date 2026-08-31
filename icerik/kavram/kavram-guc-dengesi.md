@@ -30,13 +30,6 @@ kaynaklar:
     url: https://en.wikipedia.org/wiki/Balance_of_power_(international_relations)
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Balance of power"
-  - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - E. H. Carr"
-    url: https://en.wikipedia.org/wiki/E._H._Carr
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Carr"
-    not: "Klasik gercekciligin kuramcilarindan"
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Baron de Montesquieu"
@@ -90,7 +83,7 @@ kavramın tek bir öngörü üretmediğini gösterir.
 
 Klasik gerçekçiliğe katkılarıyla tanınan bir yazar için tutulan kayıt, mesleğini
 tarihçi, diplomat, uluslararası ilişkiler kuramcısı ve gazeteci olarak
-verir.[^k2] O yazar [E. H. Carr](/dusunur/carr/) dosyasında ele alınıyor.
+verir. O yazar [E. H. Carr](/dusunur/carr/) dosyasında ele alınıyor.
 
 ## Güç ayrımının bir başka biçimi
 
@@ -146,7 +139,7 @@ karşı tarafın maliyet hesabına, [Hegemonya](/kavram/hegemonya/) üstünlüğ
 kurumsallaştığına odaklanır. Güç dengesi bunlarla aynı şey değildir: kaynakların
 ve ittifakların dağılımını açıklayan bir mercektir. Kuram, rakip davranışları ve
 karşı kanıtları da hesaba kattığında açıklayıcı; her sonucu sonradan “denge” diye
-adlandırdığında ise sınanamaz hale gelir.[^k1][^k2]
+adlandırdığında ise sınanamaz hale gelir.[^k1]
 
 Güç ölçümü de başlı başına tartışmalıdır. Asker sayısı, ekonomi, teknoloji,
 coğrafya, ittifak güvenilirliği ve yönetim kapasitesi aynı toplamda kolayca

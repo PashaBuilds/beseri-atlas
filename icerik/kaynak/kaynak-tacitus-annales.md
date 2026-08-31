@@ -32,13 +32,6 @@ kaynaklar:
     url: https://en.wikipedia.org/wiki/Tacitus
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Tacitus"
-  - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - History of the Peloponnesian War"
-    url: https://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "History of the Peloponnesian War"
-    not: "Etki listesinin ilk adinin eseri"
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Augustine of Hippo"
@@ -75,7 +68,7 @@ Kaynak eserler bölümünü ikiye böler: Augustus'un ölümünden itibaren Roma
 Kaynak, yazarın etkilendiği kişiler arasında ilk sırada Thukydides'i sayar;
 ardından Fabius Rusticus, Sallustius, Livius, Marcus Cluvius Rufus, Yaşlı
 Plinius ve Quintilianus gelir.[^k1] Listenin ilk adının eseri için tutulan ayrı
-kayıt, o eserin yöntemini beş alt başlıkta işler.[^k2] O eser
+kayıt, o eserin yöntemini beş alt başlıkta işler. O eser
 [Thukydides — Peloponez Savaşı'nın Tarihi](/kaynak/thukydides-peloponnesos/)
 dosyasında ele alınıyor.
 

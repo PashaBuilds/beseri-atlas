@@ -33,13 +33,6 @@ kaynaklar:
     url: https://en.wikipedia.org/wiki/Alfred_Thayer_Mahan
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Mahan"
-  - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Halford Mackinder"
-    url: https://en.wikipedia.org/wiki/Halford_Mackinder
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Mackinder"
-    not: "Karsit tezin yazari"
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Niccolo Machiavelli"
@@ -78,8 +71,7 @@ tutar.[^k1]
 
 ## Karşıt tez aynı on yıllardadır
 
-Karşıt tezin yazarı için tutulan kayıt, onun kuramını 1904'te bir bildiride
-formüle ettiğini yazar.[^k2] O yazar
+Karşıt kara gücü tezinin düşünsel bağlamı
 [Halford Mackinder](/dusunur/mackinder/) dosyasında ele alınıyor.
 
 ## Savaş üzerine önceki yazar

@@ -26,13 +26,6 @@ kaynaklar:
     url: https://en.wikipedia.org/wiki/Chanakya
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Chanakya"
-  - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Maurya Empire"
-    url: https://en.wikipedia.org/wiki/Maurya_Empire
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Maurya"
-    not: "Kurulusunda rol atfedilen devlet"
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Confucius"
@@ -188,9 +181,9 @@ bile yönetilemeyen toprak ve boş hazine üretebilir.
 
 Bu yaklaşım [Maurya İmparatorluğu](/aktor/maurya-imparatorlugu/) gibi geniş bir
 siyasal yapının vergi, ordu, merkez ve taşra ilişkisini birlikte sormaya yardım
-eder.[^k2] Ancak *Arthashastra*daki ideal görevler, Maurya idaresinde aynen
+eder. Ancak *Arthashastra*daki ideal görevler, Maurya idaresinde aynen
 uygulandıklarının kanıtı değildir. Normatif el kitabı ile fiilî kurum arasında
-arkeolojik ve yazılı bağımsız kanıt aranmalıdır.
+arkeolojik ve yazılı bağımsız kanıt aranmalıdır.[^k4]
 
 Üstelik merkezden ayrıntılı görev tanımlamak, merkezin her yerde aynı denetime
 sahip olduğunu göstermez. Yerel seçkinler, mevsim, ulaşım ve kayıt teknolojisi

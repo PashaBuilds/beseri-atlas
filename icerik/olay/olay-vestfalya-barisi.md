@@ -27,13 +27,6 @@ kaynaklar:
     url: https://en.wikipedia.org/wiki/Peace_of_Westphalia
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Peace of Westphalia"
-  - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) — Thirty Years' War"
-    url: https://en.wikipedia.org/wiki/Thirty_Years%27_War
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Thirty Years"
-    not: "Bitirdiği savaş"
   - anahtar: k3
     tur: ansiklopedi
     ad: "TDV İslâm Ansiklopedisi — OSMANLILAR"
@@ -238,7 +231,7 @@ Antlaşmalar Otuz Yıl Savaşları'ndan doğan çatışmaları bütünüyle sona
 Fransa ile İspanya arasındaki çarpışma 1659'daki Pireneler Antlaşması'na kadar
 sürdü.[^k1] Savaşın kendisi
 [Otuz Yıl Savaşları](/olay/otuz-yil-savaslari/) dosyasında ele alınıyor; savaşın
-iki evresi 1618–1635 ve 1635–1648 olarak ayrılır.[^k2]
+iki evresi 1618–1635 ve 1635–1648 olarak ayrılır.
 
 ## Aynı yüzyılda başka bir egemenlik biçimi
 

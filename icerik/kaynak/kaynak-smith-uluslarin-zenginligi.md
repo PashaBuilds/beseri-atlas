@@ -40,13 +40,6 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Adam Smith"
     not: "Yazarin ahlak felsefesi maddesi; bagimsiz alan adi"
-  - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Mercantilism"
-    url: https://en.wikipedia.org/wiki/Mercantilism
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Mercantilism"
-    not: "Eserin karsisina aldigi politika gelenegi"
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -95,7 +88,7 @@ Yazar [Adam Smith](/dusunur/smith/) dosyasında ele alınıyor.
 ## Karşısına aldığı politika geleneği
 
 Eserin karşısına aldığı politika geleneği için tutulan kayıt, o geleneğin
-bölümleri arasında savaşlar ve emperyalizm ile merkantilizmin sonunu sayar.[^k3]
+bölümleri arasında savaşlar ve emperyalizm ile merkantilizmin sonunu sayar.
 O gelenek [Merkantilizm](/kavram/merkantilizm/) dosyasında ele alınıyor.
 
 Bağ artık kurulmuştur.

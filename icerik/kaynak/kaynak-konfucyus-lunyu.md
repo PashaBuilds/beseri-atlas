@@ -40,13 +40,6 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Confucius"
     not: "Yazarin kendi maddesi; bagimsiz alan adi"
-  - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Sima Qian"
-    url: https://en.wikipedia.org/wiki/Sima_Qian
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Sima Qian"
-    not: "Ayni gelenegin bir baska metin sorunu"
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -90,7 +83,7 @@ Yazar [Konfüçyüs](/dusunur/konfucyus/) dosyasında ele alınıyor.
 ## Aynı geleneğin bir başka metin sorunu
 
 Aynı geleneğin bir başka metni için tutulan kayıt, sonsözdeki bir bölümün açıkça
-başka bir yazara atfedildiğini yazar.[^k3] O eser
+başka bir yazara atfedildiğini yazar. O eser
 [Sima Qian — Shiji](/kaynak/sima-qian-shiji/) dosyasında ele alınıyor.
 
 ## Metne bağ

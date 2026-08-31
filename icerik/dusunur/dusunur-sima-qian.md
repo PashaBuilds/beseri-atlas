@@ -34,13 +34,6 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Confucius"
     not: "Ayni gelenegin bir baska kaydi; bagimsiz alan adi"
-  - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Han dynasty"
-    url: https://en.wikipedia.org/wiki/Han_dynasty
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Han dynasty"
-    not: "Yazdigi donemin hanedani"
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -83,7 +76,7 @@ aldığını yazar.[^k1]
 Aynı makamın babadan oğula geçmesi[^k1] ile eserin de aynı yolu izlemesi, hanedan
 yönetiminde tarih yazımının kişisel bir uğraş değil bir görev olduğunu
 gösterir. Hanedanın kendisi
-[Han İmparatorluğu](/aktor/han-imparatorlugu/) dosyasında ele alınıyor.[^k3]
+[Han İmparatorluğu](/aktor/han-imparatorlugu/) dosyasında ele alınıyor.
 
 ## Eserin kapsamı kaynağın kendi ifadesiyle
 

@@ -27,13 +27,6 @@ kaynaklar:
     url: https://en.wikipedia.org/wiki/Neo-Assyrian_Empire
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Neo-Assyrian Empire"
-  - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) — Hittites"
-    url: https://en.wikipedia.org/wiki/Hittites
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Hittites"
-    not: "Asur'un kuzeybatıdaki selefi ve rakibi"
   - anahtar: k3
     tur: veri
     ad: "Our World in Data — Population, long-run with projections (CSV verisi)"
@@ -227,9 +220,9 @@ verir. Hiçbiri bütünüyle tek yönteme indirgenemez.[^k1]
 
 Asur'un yükselişi boşluğa gelmedi. Geç Tunç Çağı çöküşünden sonra bölünen Hitit
 devletlerinden bazıları, Yeni Asur İmparatorluğu'na yenik düşene kadar MÖ 8.
-yüzyıla dek varlığını sürdürdü.[^k2] Bu, Asur'un yalnızca fetheden değil aynı
+yüzyıla dek varlığını sürdürdü. Bu, Asur'un yalnızca fetheden değil aynı
 zamanda önceki düzenin kalıntılarını tasfiye eden bir güç olduğunu gösterir;
-selefi [Hitit İmparatorluğu](/aktor/hitit-imparatorlugu/) dosyasında ele alınıyor.
+selefi [Hitit İmparatorluğu](/aktor/hitit-imparatorlugu/) dosyasında ele alınıyor.[^k5]
 
 ## Ölçek
 

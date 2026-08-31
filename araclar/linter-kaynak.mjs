@@ -56,18 +56,21 @@ export function havuzSiniflari(havuz) {
 }
 
 /**
- * Bir makale için "birincil" ne demek, TİPİNE bağlıdır.
+ * Bir makale için "birincil kanıt" yalnız alan adından okunamaz.
  *
- * Bu ayrım 2026-08-25'te eklendi çünkü ölçüm yanlıştı: 24 veri makalesinin
- * TAMAMI "birincil kaynağı yok" sayılıyordu, oysa 73 künyelerinin 49'u
- * ourworldindata.org — yani veri setinin KENDİSİ. Bir veri makalesi için
- * birincil kaynak bir kitap değil, sayıların geldiği seridir. Eski ölçüm
- * korpusu değil, aracın kategori şemasını ölçüyordu ve borcu 24 makale
- * fazla gösteriyordu.
+ * Veri seti, yalnız `veri` tipindeki bir makalede değil; bir olayın nüfusunu,
+ * bir aktörün üretimini veya bir kavramın dağılımını ölçen makalede de
+ * birincil kanıttır. Aynı şekilde doğrulanabilir bir alandaki künye editörce
+ * `tur: birincil` ve denetimli `birincil_tur` ile sınıflandırılmışsa alanın
+ * bütünü akademik bir depo olsa bile o tek kayıt birincil olabilir (örneğin
+ * bir düşünürün kendi makalesi). Yalnız alan adına bakmak, kanıtın makaledeki
+ * işlevini değil barındırıcısını ölçüyordu.
  */
-function birincilSayilirMi(tip, alanlar, { birincil, veri }) {
-  if (tip === 'veri') return alanlar.some((a) => veri.has(a) || birincil.has(a));
-  return alanlar.some((a) => birincil.has(a));
+export function birincilSayilirMi(kaynaklar, { birincil, veri }) {
+  return kaynaklar.some((k) => {
+    const alan = alanAdi(k.url);
+    return k.tur === 'birincil' || birincil.has(alan) || veri.has(alan);
+  });
 }
 
 function alanAdi(url) {
@@ -112,6 +115,8 @@ export function kaynakDenetimi(makaleler, { havuz = null, borcDefteriYaz = true 
   const borclu = [];
   let olculen = 0;
   let birincilTasiyan = 0;
+  let kaynakSiniriBeyanli = 0;
+  let kanitAcigi = 0;
   let toplamKunye = 0;
   let toplamGiris = 0;
   // birincil_tur alani 2026-08-25'te eklendi; doldurulmamis kunyeler borctur.
@@ -133,9 +138,13 @@ export function kaynakDenetimi(makaleler, { havuz = null, borcDefteriYaz = true 
     }
     const alanlar = kaynaklar.map((k) => alanAdi(k.url));
     const giris = alanlar.filter((a) => girisKapisi.has(a));
-    const birVar = birincilSayilirMi(tip, alanlar, siniflar);
+    const birVar = birincilSayilirMi(kaynaklar, siniflar);
+    const kaynakSiniri = String(m.fm.kaynak_siniri || '').trim();
+    const kanitYaDaSinirVar = birVar || kaynakSiniri.length > 0;
     toplamGiris += giris.length;
     if (birVar) birincilTasiyan += 1;
+    if (kaynakSiniri) kaynakSiniriBeyanli += 1;
+    if (!kanitYaDaSinirVar) kanitAcigi += 1;
 
     // KARAR K9: birincil kaynagi olmayan bir DUSUNUR ya da KAYNAK dosyasi
     // bu sinirI BEYAN ETMEK ZORUNDADIR. Telif altindaki bir dusunurun kendi
@@ -143,7 +152,7 @@ export function kaynakDenetimi(makaleler, { havuz = null, borcDefteriYaz = true 
     // degildir — okur, ansiklopedi ozetinden kurulmus bir metni birincil
     // kaynakli sanmamalidir. Beyan `kaynak_siniri` alanindadir ve makale
     // sayfasinda okura gosterilir.
-    if (!birVar && ['dusunur', 'kaynak'].includes(tip) && !(m.fm.kaynak_siniri || '').trim()) {
+    if (!birVar && ['dusunur', 'kaynak'].includes(tip) && !kaynakSiniri) {
       // Borc defteri deseni (KAPI 11 ve 18 ile ayni): kural konuldugu andaki
       // ihlaller BORC olarak kaydedilir ve ozette gorunur; YENI ihlal HATA
       // olur. Defter yalnizca asagi yonde guncellenir, yani beyan yazilinca
@@ -157,7 +166,7 @@ export function kaynakDenetimi(makaleler, { havuz = null, borcDefteriYaz = true 
 
     const sorunlar = [];
     if (giris.length > 1) sorunlar.push(`${giris.length} giris kapisi kunyesi (${giris.join(', ')}) — havuz en fazla 1 diyor`);
-    if (!birVar) sorunlar.push(tip === 'veri' ? 'veri seti kaynagi yok' : 'birincil kaynak yok');
+    if (!kanitYaDaSinirVar) sorunlar.push('birincil kanit veya acik kaynak siniri yok');
     if (sorunlar.length) {
       borclu.push({ dosya: m.goreli, id: m.fm.id, tip,
         kunye: kaynaklar.length, giris: giris.length, birincil: birVar ? 1 : 0, sorunlar });
@@ -170,11 +179,14 @@ export function kaynakDenetimi(makaleler, { havuz = null, borcDefteriYaz = true 
   r.ozetSatirlari = [
     `olculen ${olculen} makale · ${toplamKunye} kunye`,
     `giris kapisi kuralini asan: ${kuralIhlali} makale (%${olculen ? Math.round(100 * kuralIhlali / olculen) : 0})`,
-    `birincil kaynagi olmayan: ${birincilsiz} makale (%${olculen ? Math.round(100 * birincilsiz / olculen) : 0})`,
+    `birincil kanit tasimayan: ${birincilsiz} makale (%${olculen ? Math.round(100 * birincilsiz / olculen) : 0})`,
+    `acik kaynak siniri beyanli: ${kaynakSiniriBeyanli} makale`,
+    `birincil kaniti da acik kaynak siniri da olmayan: ${kanitAcigi} makale`,
     `giris kapisi kunyesi toplami: ${toplamGiris} / ${toplamKunye} (%${toplamKunye ? Math.round(100 * toplamGiris / toplamKunye) : 0})`,
     `birincil kunye ${birincilKunye} · alt turu yazilmamis ${turlenmemis}`,
   ];
-  r.olcum = { olculen, toplamKunye, kuralIhlali, birincilsiz, toplamGiris, birincilKunye, turlenmemis };
+  r.olcum = { olculen, toplamKunye, kuralIhlali, birincilsiz, kaynakSiniriBeyanli,
+    kanitAcigi, toplamGiris, birincilKunye, turlenmemis };
 
   // Olcum ile YAZMA ayrilir: bir arac depoyu olcerken depoyu
   // degistirmemelidir (fikstur defteri ezme dersi).
@@ -199,7 +211,9 @@ function borcYaz(borclu, olcum) {
     '',
     'Ölçülen kural, kaynak havuzunun kendi kuralıdır: bir makalede en fazla bir',
     'giriş kapısı (ansiklopedi) künyesi bulunabilir ve makale en az bir birincil',
-    'kaynağa dayanmalıdır. Havuz `gutenberg.org`, `archive.org`, `perseus.tufts.edu`,',
+    'kanıta dayanmalı veya neden erişilemediğini açık bir `kaynak_siniri` beyanıyla',
+    'okura göstermelidir. Veri setleri, kullanıldıkları her makale tipinde birincil',
+    'kanıt sayılır. Havuz `gutenberg.org`, `archive.org`, `perseus.tufts.edu`,',
     '`avalon.law.yale.edu`, `marxists.org` ve `en.wikisource.org` alanlarını birincil',
     'olarak zaten onaylıyor — izin vardı, kullanılmadı.',
     '',
@@ -208,7 +222,9 @@ function borcYaz(borclu, olcum) {
     `| Ölçülen makale | ${olcum.olculen} |`,
     `| Toplam künye | ${olcum.toplamKunye} |`,
     `| Giriş kapısı kuralını aşan makale | ${olcum.kuralIhlali} |`,
-    `| Birincil kaynağı olmayan makale | ${olcum.birincilsiz} |`,
+    `| Birincil kanıt taşımayan makale | ${olcum.birincilsiz} |`,
+    `| Açık kaynak sınırı beyanlı makale | ${olcum.kaynakSiniriBeyanli} |`,
+    `| Kanıtı da sınır beyanı da olmayan makale | ${olcum.kanitAcigi} |`,
     `| Giriş kapısı künyesi payı | ${olcum.toplamKunye ? Math.round(100 * olcum.toplamGiris / olcum.toplamKunye) : 0}% |`,
     '',
     '## Tipe göre borçlu makale',

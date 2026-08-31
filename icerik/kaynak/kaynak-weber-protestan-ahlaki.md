@@ -34,13 +34,6 @@ kaynaklar:
     url: https://en.wikipedia.org/wiki/Max_Weber
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Weber"
-  - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Secularization"
-    url: https://en.wikipedia.org/wiki/Secularization
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Secularization"
-    not: "Eserin bagli oldugu kavram tartismasi"
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Adam Smith's Moral and Political Philosophy"
@@ -83,7 +76,7 @@ Yazar [Max Weber](/dusunur/weber/) dosyasında ele alınıyor.
 ## Kavram tartışması
 
 Eserin bağlı olduğu kavram tartışması için tutulan kayıt, sekülerleşme kuramının
-eleştirisine ayrı bir bölüm ayırır ve bölgesel gelişmeleri ülke ülke işler.[^k2]
+eleştirisine ayrı bir bölüm ayırır ve bölgesel gelişmeleri ülke ülke işler.
 O tartışma [Sekülerleşme](/kavram/sekulerlesme/) dosyasında ele alınıyor.
 
 ## Aynı soruya başka cevaplar

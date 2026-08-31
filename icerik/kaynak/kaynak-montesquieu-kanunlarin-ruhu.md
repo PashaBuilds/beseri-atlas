@@ -42,13 +42,6 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Rule of law"
     not: "Eserin bagli oldugu kavram; bagimsiz alan adi"
-  - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - French Revolution"
-    url: https://en.wikipedia.org/wiki/French_Revolution
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "French Revolution"
-    not: "Sonraki on yillardaki uygulama alani"
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -100,7 +93,7 @@ Yazar [Montesquieu](/dusunur/montesquieu/) dosyasında ele alınıyor.
 ## Sonraki on yıllardaki uygulama alanı
 
 Sonraki on yıllardaki uygulama alanlarından biri için tutulan kayıt, o olayı ayrı
-bir madde olarak işler.[^k3] O olay
+bir madde olarak işler. O olay
 [Fransız Devrimi](/olay/fransiz-devrimi/) dosyasında ele alınıyor.
 
 ## Metne bağ

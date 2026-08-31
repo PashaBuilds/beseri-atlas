@@ -1,32 +1,634 @@
 {
-  "mod": "--post",
-  "zaman": "2026-08-31T00:19:45.498Z",
+  "mod": "--lint",
+  "zaman": "2026-08-31T00:40:42.483Z",
   "gecti": true,
   "makale_sayisi": 542,
   "kapilar": [
     {
-      "kapi": "KAPI 6 — onay filtresi (dist/)",
+      "kapi": "KAPI 1 — Zod sema dogrulamasi",
       "gecti": true,
       "hata": 0,
       "uyari": 0,
       "hatalar": []
     },
     {
-      "kapi": "KAPI 12 — cikti denetimi (dist/)",
+      "kapi": "KAPI 2+3 — dipnot butunlugu / kaynak anahtari",
       "gecti": true,
       "hata": 0,
       "uyari": 0,
       "hatalar": []
     },
     {
-      "kapi": "KAPI 14 — icerik kaybi (kaynak -> dist)",
+      "kapi": "KAPI 4 — terim kilidi",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 5 — link butunlugu",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 7 — telif siniri",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 9 — hakemlik dedektoru",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 11 — derinlik (§3 uzunluk hedefi)",
       "gecti": true,
       "hata": 0,
       "uyari": 0,
       "hatalar": [],
       "olcum": {
-        "olculen": 513,
-        "kayipli": 0
+        "olculen": 458,
+        "hedefTutan": 458,
+        "borclu": 0,
+        "eksikKelime": 0,
+        "tipOzet": {
+          "donem": {
+            "n": 16,
+            "tutan": 16,
+            "eksik": 0
+          },
+          "olay": {
+            "n": 101,
+            "tutan": 101,
+            "eksik": 0
+          },
+          "aktor": {
+            "n": 126,
+            "tutan": 126,
+            "eksik": 0
+          },
+          "dusunur": {
+            "n": 58,
+            "tutan": 58,
+            "eksik": 0
+          },
+          "kavram": {
+            "n": 117,
+            "tutan": 117,
+            "eksik": 0
+          },
+          "tartisma": {
+            "n": 40,
+            "tutan": 40,
+            "eksik": 0
+          }
+        }
+      }
+    },
+    {
+      "kapi": "KAPI 13 — kaynak bilesimi",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": [],
+      "olcum": {
+        "olculen": 542,
+        "toplamKunye": 2528,
+        "kuralIhlali": 114,
+        "birincilsiz": 68,
+        "kaynakSiniriBeyanli": 27,
+        "kanitAcigi": 55,
+        "toplamGiris": 576,
+        "birincilKunye": 771,
+        "turlenmemis": 0
+      }
+    },
+    {
+      "kapi": "KAPI 15 — ayni konunun iki dosyasi",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 16 — savunan adlari kutugu",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": [],
+      "olcum": {
+        "toplam": 301,
+        "dogrulanmis": 155,
+        "kismi": 58,
+        "kisiDegil": 88,
+        "kutuk": 269,
+        "olu": 0
+      }
+    },
+    {
+      "kapi": "KAPI 17 — ozet sure iddiasi",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 18 — dil borcu (sablon/meta-dil kaliplari)",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": [],
+      "olcum": {
+        "atlas_oz": 0,
+        "bu_dosya": 0,
+        "ayrica_kaydeder": 0,
+        "sablon_kapanis": 0,
+        "korpus_oz": 0,
+        "inceleme_tekrari": 0,
+        "borclu": 0
+      }
+    },
+    {
+      "kapi": "KAPI 19 — sayisal dogrulama (yerel seri kutugu)",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": [],
+      "olcum": {
+        "olculen": 287,
+        "dogru": 287,
+        "atlanan": 0,
+        "yuzey": 8143,
+        "seri": 9
+      }
+    },
+    {
+      "kapi": "KAPI 20 — öğrenme çekirdeği (rota + makale kalitesi)",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": [],
+      "olcum": {
+        "rota": 10,
+        "adim": 60,
+        "tekrar": 0,
+        "ortalama": 10,
+        "ayrinti": [
+          {
+            "id": "aktor-avam-kamarasi",
+            "puan": 10,
+            "kelime": 1262,
+            "kaynak": 7,
+            "alan": 3
+          },
+          {
+            "id": "kavram-goksel-yetki",
+            "puan": 10,
+            "kelime": 890,
+            "kaynak": 7,
+            "alan": 4
+          },
+          {
+            "id": "dusunur-weber",
+            "puan": 10,
+            "kelime": 1736,
+            "kaynak": 9,
+            "alan": 4
+          },
+          {
+            "id": "kavram-ideal-tip",
+            "puan": 10,
+            "kelime": 619,
+            "kaynak": 5,
+            "alan": 4
+          },
+          {
+            "id": "aktor-bm-guvenlik-konseyi",
+            "puan": 10,
+            "kelime": 1343,
+            "kaynak": 8,
+            "alan": 4
+          },
+          {
+            "id": "tartisma-imparatorluk-siniri-nasil-cizilir",
+            "puan": 10,
+            "kelime": 1512,
+            "kaynak": 9,
+            "alan": 4
+          },
+          {
+            "id": "aktor-hollanda-doguhindistan-sirketi",
+            "puan": 10,
+            "kelime": 1750,
+            "kaynak": 7,
+            "alan": 7
+          },
+          {
+            "id": "olay-atlantik-kole-ticareti",
+            "puan": 10,
+            "kelime": 2000,
+            "kaynak": 15,
+            "alan": 8
+          },
+          {
+            "id": "olay-sanayi-devrimi",
+            "puan": 10,
+            "kelime": 2011,
+            "kaynak": 12,
+            "alan": 4
+          },
+          {
+            "id": "kavram-ilkel-birikim",
+            "puan": 10,
+            "kelime": 916,
+            "kaynak": 7,
+            "alan": 4
+          },
+          {
+            "id": "dusunur-marx",
+            "puan": 10,
+            "kelime": 1221,
+            "kaynak": 8,
+            "alan": 4
+          },
+          {
+            "id": "tartisma-sanayi-devrimi-neden-ingiltere",
+            "puan": 10,
+            "kelime": 1752,
+            "kaynak": 13,
+            "alan": 6
+          },
+          {
+            "id": "olay-kirim-savasi",
+            "puan": 10,
+            "kelime": 1972,
+            "kaynak": 9,
+            "alan": 7
+          },
+          {
+            "id": "kavram-seferberlik",
+            "puan": 10,
+            "kelime": 863,
+            "kaynak": 5,
+            "alan": 3
+          },
+          {
+            "id": "aktor-varsova-pakti",
+            "puan": 10,
+            "kelime": 1808,
+            "kaynak": 12,
+            "alan": 5
+          },
+          {
+            "id": "olay-uzay-yarisi",
+            "puan": 10,
+            "kelime": 1863,
+            "kaynak": 7,
+            "alan": 4
+          },
+          {
+            "id": "olay-berlin-duvarinin-yikilisi",
+            "puan": 10,
+            "kelime": 1884,
+            "kaynak": 9,
+            "alan": 6
+          },
+          {
+            "id": "tartisma-soguk-savasin-baslangici",
+            "puan": 10,
+            "kelime": 1506,
+            "kaynak": 11,
+            "alan": 4
+          },
+          {
+            "id": "dusunur-locke",
+            "puan": 10,
+            "kelime": 1737,
+            "kaynak": 10,
+            "alan": 5
+          },
+          {
+            "id": "dusunur-montesquieu",
+            "puan": 10,
+            "kelime": 1997,
+            "kaynak": 14,
+            "alan": 7
+          },
+          {
+            "id": "dusunur-bentham",
+            "puan": 10,
+            "kelime": 1637,
+            "kaynak": 7,
+            "alan": 4
+          },
+          {
+            "id": "dusunur-mill",
+            "puan": 10,
+            "kelime": 1764,
+            "kaynak": 9,
+            "alan": 4
+          },
+          {
+            "id": "dusunur-foucault",
+            "puan": 10,
+            "kelime": 1992,
+            "kaynak": 14,
+            "alan": 5
+          },
+          {
+            "id": "tartisma-aydinlanmanin-sinirlari",
+            "puan": 10,
+            "kelime": 1517,
+            "kaynak": 12,
+            "alan": 7
+          },
+          {
+            "id": "olay-buyuk-buhran",
+            "puan": 10,
+            "kelime": 1643,
+            "kaynak": 8,
+            "alan": 6
+          },
+          {
+            "id": "aktor-imf",
+            "puan": 10,
+            "kelime": 1304,
+            "kaynak": 7,
+            "alan": 5
+          },
+          {
+            "id": "olay-kultur-devrimi",
+            "puan": 10,
+            "kelime": 1905,
+            "kaynak": 12,
+            "alan": 4
+          },
+          {
+            "id": "aktor-baglantisizlar-hareketi",
+            "puan": 10,
+            "kelime": 1994,
+            "kaynak": 9,
+            "alan": 5
+          },
+          {
+            "id": "olay-iran-devrimi-1979",
+            "puan": 10,
+            "kelime": 1746,
+            "kaynak": 9,
+            "alan": 7
+          },
+          {
+            "id": "tartisma-kalkinma-neden-basarisiz",
+            "puan": 10,
+            "kelime": 1515,
+            "kaynak": 11,
+            "alan": 3
+          },
+          {
+            "id": "olay-1857-hint-ayaklanmasi",
+            "puan": 10,
+            "kelime": 1995,
+            "kaynak": 13,
+            "alan": 5
+          },
+          {
+            "id": "kavram-olay-tarihi",
+            "puan": 10,
+            "kelime": 958,
+            "kaynak": 7,
+            "alan": 4
+          },
+          {
+            "id": "dusunur-carr",
+            "puan": 10,
+            "kelime": 1554,
+            "kaynak": 9,
+            "alan": 4
+          },
+          {
+            "id": "dusunur-braudel",
+            "puan": 10,
+            "kelime": 1610,
+            "kaynak": 9,
+            "alan": 5
+          },
+          {
+            "id": "kavram-anakronizm",
+            "puan": 10,
+            "kelime": 902,
+            "kaynak": 7,
+            "alan": 4
+          },
+          {
+            "id": "tartisma-karsi-olgusal-tarih",
+            "puan": 10,
+            "kelime": 1614,
+            "kaynak": 12,
+            "alan": 7
+          },
+          {
+            "id": "aktor-rapa-nui",
+            "puan": 10,
+            "kelime": 1204,
+            "kaynak": 7,
+            "alan": 3
+          },
+          {
+            "id": "aktor-cahokia",
+            "puan": 10,
+            "kelime": 1235,
+            "kaynak": 6,
+            "alan": 3
+          },
+          {
+            "id": "olay-covid-19-pandemisi",
+            "puan": 10,
+            "kelime": 1222,
+            "kaynak": 6,
+            "alan": 3
+          },
+          {
+            "id": "tartisma-tunc-cagi-cokusunun-nedeni",
+            "puan": 10,
+            "kelime": 1574,
+            "kaynak": 12,
+            "alan": 5
+          },
+          {
+            "id": "tartisma-romanin-cokus-nedeni",
+            "puan": 10,
+            "kelime": 1544,
+            "kaynak": 8,
+            "alan": 4
+          },
+          {
+            "id": "tartisma-iklim-ve-cokus",
+            "puan": 10,
+            "kelime": 1551,
+            "kaynak": 11,
+            "alan": 4
+          },
+          {
+            "id": "aktor-kus-kralligi",
+            "puan": 10,
+            "kelime": 1242,
+            "kaynak": 6,
+            "alan": 5
+          },
+          {
+            "id": "aktor-fatimi-hilafeti",
+            "puan": 10,
+            "kelime": 1892,
+            "kaynak": 8,
+            "alan": 4
+          },
+          {
+            "id": "aktor-safevi-devleti",
+            "puan": 10,
+            "kelime": 1850,
+            "kaynak": 9,
+            "alan": 4
+          },
+          {
+            "id": "aktor-majapahit",
+            "puan": 10,
+            "kelime": 1774,
+            "kaynak": 8,
+            "alan": 3
+          },
+          {
+            "id": "aktor-tokugawa-sogunlugu",
+            "puan": 10,
+            "kelime": 1918,
+            "kaynak": 9,
+            "alan": 7
+          },
+          {
+            "id": "tartisma-mogol-etkisi",
+            "puan": 10,
+            "kelime": 1516,
+            "kaynak": 10,
+            "alan": 7
+          },
+          {
+            "id": "dusunur-thukydides",
+            "puan": 10,
+            "kelime": 1614,
+            "kaynak": 9,
+            "alan": 5
+          },
+          {
+            "id": "dusunur-durkheim",
+            "puan": 10,
+            "kelime": 1659,
+            "kaynak": 9,
+            "alan": 4
+          },
+          {
+            "id": "tartisma-sozlu-gelenek-kaynak-mi",
+            "puan": 10,
+            "kelime": 1575,
+            "kaynak": 11,
+            "alan": 3
+          },
+          {
+            "id": "tartisma-tarihsel-sayilar-nasil-okunur",
+            "puan": 10,
+            "kelime": 1641,
+            "kaynak": 11,
+            "alan": 7
+          },
+          {
+            "id": "kavram-eksen-cagi",
+            "puan": 10,
+            "kelime": 866,
+            "kaynak": 7,
+            "alan": 5
+          },
+          {
+            "id": "tartisma-eksen-cagi-gercek-mi",
+            "puan": 10,
+            "kelime": 1532,
+            "kaynak": 11,
+            "alan": 5
+          },
+          {
+            "id": "olay-italyan-birligi",
+            "puan": 10,
+            "kelime": 1978,
+            "kaynak": 9,
+            "alan": 5
+          },
+          {
+            "id": "olay-meksika-devrimi",
+            "puan": 10,
+            "kelime": 1997,
+            "kaynak": 17,
+            "alan": 4
+          },
+          {
+            "id": "dusunur-arendt",
+            "puan": 10,
+            "kelime": 1692,
+            "kaynak": 9,
+            "alan": 5
+          },
+          {
+            "id": "olay-sovyetler-dagilmasi",
+            "puan": 10,
+            "kelime": 2009,
+            "kaynak": 13,
+            "alan": 6
+          },
+          {
+            "id": "olay-arap-bahari",
+            "puan": 10,
+            "kelime": 1979,
+            "kaynak": 9,
+            "alan": 7
+          },
+          {
+            "id": "tartisma-milliyetcilik-ne-zaman",
+            "puan": 10,
+            "kelime": 1511,
+            "kaynak": 9,
+            "alan": 4
+          }
+        ]
+      }
+    },
+    {
+      "kapi": "KAPI 21 — yeni makale üretim sözleşmesi",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": [],
+      "olcum": {
+        "aday": 60,
+        "gelecekRota": 10,
+        "arastirmayaHazir": 5,
+        "paketli": 60,
+        "parti": 12,
+        "canliKaynak": 21,
+        "kaynakSayisi": 21,
+        "onaylanan": 0,
+        "sozlesme": {
+          "kaynak_min": 6,
+          "alan_adi_min": 4,
+          "birincil_min": 1,
+          "wikipedia_max": 1,
+          "kor_hakem_zorunlu": true,
+          "yayin_puani": 10,
+          "meta_dil_yasak": true,
+          "yonlu_bag_alani": "baglam",
+          "kaynakli_derinlik_zorunlu": true
+        }
       }
     }
   ]

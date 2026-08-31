@@ -25,13 +25,6 @@ kaynaklar:
     url: https://en.wikipedia.org/wiki/Malthusianism
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Malthusianism"
-  - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Thomas Robert Malthus"
-    url: https://en.wikipedia.org/wiki/Thomas_Robert_Malthus
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Malthus"
-    not: "Kavramin adini aldigi yazar"
   - anahtar: k3
     tur: veri
     ad: "Our World in Data - Population, long-run with projections (CSV verisi)"
@@ -81,7 +74,7 @@ açacağını ve varlık fiyatları artmaya devam ederse toplumsal huzursuzluk
 doğacağını yazar.[^k1]
 
 Kavramın adını aldığı yazar [Thomas
-Malthus](/dusunur/malthus/) dosyasında ele alınıyor.[^k2][^k1]
+Malthus](/dusunur/malthus/) dosyasında ele alınıyor.[^k1]
 
 ## Sınandığı seri
 

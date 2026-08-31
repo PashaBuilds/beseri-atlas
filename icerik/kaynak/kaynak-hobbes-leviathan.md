@@ -41,13 +41,6 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Hobbes"
     not: "Yazarin kendi maddesi; bagimsiz alan adi"
-  - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Sovereignty"
-    url: https://en.wikipedia.org/wiki/Sovereignty
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Sovereignty"
-    not: "Eserin merkezindeki kavram"
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -74,7 +67,7 @@ alt başlıklarını tutar.[^k1]
 
 Bir siyaset kuramının aynı kısımda hem veraseti hem vergilendirmeyi işlemesi,
 [^k1] egemenlik kavramının hem hukuki hem mali bir içerik taşıdığını gösterir; o
-kavram [Egemenlik](/kavram/egemenlik/) dosyasında ele alınıyor.[^k3]
+kavram [Egemenlik](/kavram/egemenlik/) dosyasında ele alınıyor.
 
 ## Tanımlar merkezdedir
 

@@ -39,13 +39,6 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Aristotle"
     not: "Yazarin kendi maddesi; bagimsiz alan adi"
-  - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Republic (Plato)"
-    url: https://en.wikipedia.org/wiki/Republic_(Plato)
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Republic"
-    not: "Hocasinin ayni konudaki eseri"
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -89,7 +82,7 @@ kullanımdan farklı olduğunu gösterir.
 ## Hocasının aynı konudaki eseri
 
 Hocasının aynı konudaki eseri için tutulan kayıt, o eserin kitaplarını konu ve
-satır aralığıyla birlikte sıraladığını yazar.[^k3] O eser
+satır aralığıyla birlikte sıraladığını yazar. O eser
 [Platon — Devlet](/kaynak/platon-devlet/) dosyasında ele alınıyor.
 
 ## Metne bağ

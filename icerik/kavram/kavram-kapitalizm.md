@@ -36,13 +36,6 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Marx"
     not: "Bir tanim gelenegi; bagimsiz alan adi"
-  - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Fernand Braudel"
-    url: https://en.wikipedia.org/wiki/Fernand_Braudel
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Braudel"
-    not: "Karsit bir tanim"
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -72,10 +65,9 @@ işlenir.[^k1]
 
 ::tartismali[Bir kayıt kapitalizmi rekabetçi piyasalarla tanımlar; bir başka kayıt ise kapitalistlerin tekelci olduğunu ve serbest piyasaları kullanmadığını savunur.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
-Karşıt tanım için tutulan kayıt, kapitalistlerin genellikle varsayıldığı gibi
-rekabetçi piyasalarda faaliyet gösteren girişimciler değil tekelciler olduğunu ve
-bunun hem liberal hem Marksçı yorumlardan ayrıldığını yazar.[^k3] O tanım
-[Fernand Braudel](/dusunur/braudel/) dosyasında ele alınıyor.
+Piyasa ile tekel arasındaki karşıt yorumu izlemek için
+[Fernand Braudel](/dusunur/braudel/) dosyasına geçilebilir. Bu ayrım, piyasa ile
+birikimi özdeşleştirmeden okumayı sağlar.
 
 Bir başka tanım geleneği için tutulan kayıt ise, çağdaş kapitalist üretim tarzını
 kârın acımasız takibiyle sürüklenen ve kökeni sömürülen proletaryadan artı değer
@@ -129,7 +121,7 @@ modern bileşimini gösterir. Sanayi kapitalizmi fabrika, fosil enerji ve ücret
 emekle başka bir ölçek kazanır; finansallaşma ise gelir ve kararların kredi,
 menkul kıymet ve varlık fiyatları üzerinden kurulmasını öne çıkarır. Bu evreleri
 tek bir değişmez model saymak, kapitalizmin kurumlara ve döneme göre aldığı
-biçimleri gizler.[^k1][^k3]
+biçimleri gizler.[^k1]
 
 ## Tarihsel bir iddiayı sınamak
 

@@ -1,0 +1,445 @@
+{
+  "zaman": "2026-08-31T00:38:42.419Z",
+  "uygulandi": true,
+  "dosyalar": [
+    {
+      "id": "olay-vestfalya-barisi",
+      "anahtarlar": [
+        "k2"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "aktor-asur-imparatorlugu",
+      "anahtarlar": [
+        "k2"
+      ],
+      "isaret": 1,
+      "kalan": 5,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "aktor-han-imparatorlugu",
+      "anahtarlar": [
+        "k2"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "aktor-nato",
+      "anahtarlar": [
+        "k2"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "dusunur-clausewitz",
+      "anahtarlar": [
+        "k3"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "dusunur-kautilya",
+      "anahtarlar": [
+        "k2"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "dusunur-sima-qian",
+      "anahtarlar": [
+        "k3"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kavram-egemenlik",
+      "anahtarlar": [
+        "k3"
+      ],
+      "isaret": 2,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kavram-guc-dengesi",
+      "anahtarlar": [
+        "k2"
+      ],
+      "isaret": 2,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kavram-hukuk-devleti",
+      "anahtarlar": [
+        "k3"
+      ],
+      "isaret": 2,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kavram-kapitalizm",
+      "anahtarlar": [
+        "k3"
+      ],
+      "isaret": 2,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kavram-malthus-tuzagi",
+      "anahtarlar": [
+        "k2"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kavram-merkantilizm",
+      "anahtarlar": [
+        "k3"
+      ],
+      "isaret": 2,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kavram-sehir-devleti",
+      "anahtarlar": [
+        "k2"
+      ],
+      "isaret": 3,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kavram-tarihsel-materyalizm",
+      "anahtarlar": [
+        "k3"
+      ],
+      "isaret": 2,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kavram-topyekun-savas",
+      "anahtarlar": [
+        "k2"
+      ],
+      "isaret": 2,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kaynak-aristoteles-politika",
+      "anahtarlar": [
+        "k3"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kaynak-clausewitz-savas-uzerine",
+      "anahtarlar": [
+        "k2"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kaynak-hobbes-leviathan",
+      "anahtarlar": [
+        "k3"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kaynak-konfucyus-lunyu",
+      "anahtarlar": [
+        "k3"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kaynak-machiavelli-prens",
+      "anahtarlar": [
+        "k3"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kaynak-mackinder-cografi-eksen",
+      "anahtarlar": [
+        "k2"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kaynak-mahan-deniz-gucu",
+      "anahtarlar": [
+        "k2"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kaynak-malthus-nufus",
+      "anahtarlar": [
+        "k2"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kaynak-marx-kapital",
+      "anahtarlar": [
+        "k3"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kaynak-montesquieu-kanunlarin-ruhu",
+      "anahtarlar": [
+        "k3"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kaynak-platon-devlet",
+      "anahtarlar": [
+        "k3"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kaynak-sima-qian-shiji",
+      "anahtarlar": [
+        "k3"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kaynak-smith-uluslarin-zenginligi",
+      "anahtarlar": [
+        "k3"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kaynak-tacitus-annales",
+      "anahtarlar": [
+        "k2"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    },
+    {
+      "id": "kaynak-weber-protestan-ahlaki",
+      "anahtarlar": [
+        "k2"
+      ],
+      "isaret": 1,
+      "kalan": 3,
+      "giris": 1,
+      "sorunlar": [],
+      "matris": {
+        "kaynakBaglantisi": 0,
+        "iddia": 0
+      }
+    }
+  ],
+  "dipnot": 40,
+  "kunye": 31,
+  "matris_kaynak_baglantisi": 0,
+  "matris_iddiasi": 0,
+  "sorun": 0
+}

@@ -27,13 +27,6 @@ kaynaklar:
     url: https://en.wikipedia.org/wiki/Total_war
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Total war"
-  - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Carl von Clausewitz"
-    url: https://en.wikipedia.org/wiki/Carl_von_Clausewitz
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Clausewitz"
-    not: "Savas kurami yazari"
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Niccolo Machiavelli"
@@ -78,7 +71,7 @@ değil bir toplumsal seferberlik demeti olduğunu gösterir. İlgili savaşlar
 ## Savaş kuramı yazarları
 
 Savaş kuramı yazarı için tutulan kayıt, onun savaş yapmanın moral ve siyasi
-yönlerini vurguladığını yazar.[^k2] O yazar
+yönlerini vurguladığını yazar. O yazar
 [Carl von Clausewitz](/dusunur/clausewitz/) dosyasında, savaş ilkeleri üzerine
 önceki yazar ise [Machiavelli](/dusunur/machiavelli/) dosyasında ele
 alınıyor.[^k3]
@@ -121,7 +114,7 @@ kalkmaz; betimleyici kavram, sivillere yönelik her eylemi meşru kılan bir ger
 değildir.
 
 Clausewitz’in savaşın siyasal amaçla ilişkisine dair yaklaşımı, gerçek savaşın
-sürtünme ve sınırlamalarla biçimlendiğini anlamaya yardım eder.[^k2][^k4]
+sürtünme ve sınırlamalarla biçimlendiğini anlamaya yardım eder.[^k4]
 “Mutlak savaş” düşünsel bir uç nokta, topyekûn savaş ise modern devlet, toplum ve
 sanayi seferberliğini anlatan tarihsel kavramdır; ikisini eşitlemek teorik modelle
 somut kurumları karıştırır. [Sürtünme](/kavram/surtunme/) plan ile uygulama

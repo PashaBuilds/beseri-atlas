@@ -29,13 +29,6 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Braudel"
     not: "Ayni soruya baska bir cevap; bagimsiz alan adi"
-  - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Immanuel Wallerstein"
-    url: https://en.wikipedia.org/wiki/Immanuel_Wallerstein
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Wallerstein"
-    not: "Sonraki kusaktan yapisal kuram"
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
@@ -78,7 +71,7 @@ olayları en yüzeydeki katmana yerleştiren bir kurguyu anlatır.[^k2] O kurgu
 [Longue durée](/kavram/longue-duree/) dosyasında ele alınıyor.
 
 Sonraki kuşaktan bir başka cevap için tutulan kayıt ise merkez, çevre ve yarı
-çevre terimlerini ayrı ayrı tanımlar.[^k3] O kurgu
+çevre terimlerini ayrı ayrı tanımlar. O kurgu
 [Dünya sistemi](/kavram/dunya-sistemi/) dosyasında ele alınıyor.
 
 ## Kanıtın ve kapsamın sınırı
@@ -137,7 +130,7 @@ karşı örnekler aranır. [Karşı olgusal tarih](/tartisma/karsi-olgusal-tarih
 [Longue durée](/kavram/longue-duree/) yavaş yapıları ve çoklu zaman ölçeklerini;
 [Dünya sistemi](/kavram/dunya-sistemi/) bölgeler arası iş bölümünü öne çıkarır.
 Tarihsel materyalizm bunlarla kesişir, fakat kendine özgü ağırlığı üretim
-ilişkileri, sınıf ve tarihsel değişimin iç gerilimlerindedir.[^k2][^k3] Kavram,
+ilişkileri, sınıf ve tarihsel değişimin iç gerilimlerindedir.[^k2] Kavram,
 bütün olaylara önceden hazırlanmış tek bir sıra dayatmak için değil, maddi
 koşulları görünmez bırakan anlatıları sınamak için kullanıldığında en açıklayıcı
 hâline gelir.
