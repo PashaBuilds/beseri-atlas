@@ -19,6 +19,10 @@ ilgili:
   - veri-savas-olumleri
   - olay-kore-savasi
 okuma_onerisi: []
+kaynak_siniri: >-
+  Modern caydırıcılık kuramının kurucu çalışmalarının açık ve programatik olarak
+  doğrulanabilir tam metinleri kaynak havuzunda yoktur. Kriz belgeleri uygulamayı
+  gösterebilir, fakat kuramın genel ölçütlerinin yerine geçirilemez.
 kaynaklar:
   - anahtar: k1
     tur: ansiklopedi

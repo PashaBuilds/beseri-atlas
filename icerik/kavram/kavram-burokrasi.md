@@ -51,6 +51,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Weber"
     not: "Kavrami kendi kuram listesinde tutan yazar"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: eser
+    ad: Max Weber — The Theory of Social and Economic Organization (1947 Parsons cevirisi), tam metin
+    url: https://archive.org/download/dli.ernet.233771/233771-The%20Theory%20%20Of%20%20Social%20And%20Economic%20Organization_djvu.txt
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Three Pure Types of Legitimate Authority
+    not: Mesru otorite tipleri, patrimonyal otorite ve burokratik yonetim kesimlerini tasiyan metin. Bu
+      Ingilizce ceviri Almanca aslin kendisi degildir.
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -85,7 +94,7 @@ yazar [Max Weber](/dusunur/weber/) dosyasında ele alınıyor.
 
 ## Altı ölçüt
 
-Kavramı tanımlayan yazar altı ölçüt sayar.[^k1] Yetkinin göreve
+Kavramı tanımlayan yazar altı ölçüt sayar.[^k1][^k4] Yetkinin göreve
 bağlanması, açık bir hiyerarşi, yazılı kural, uzmanlık, tam zamanlı
 görev ve göreve ehliyetle atanma.
 

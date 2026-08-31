@@ -54,6 +54,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-25
     dogrulama_dizesi: "Golden Horde"
     not: "Giris kapisi; havuz kurali geregi makalede en fazla bir tane"
+  - anahtar: k5
+    tur: birincil
+    birincil_tur: tanik
+    ad: Ibn Battuta — The Travels of Ibn Batuta, Samuel Lee cevirisi (1829)
+    url: https://archive.org/details/b28406084
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Ibn Batuta
+    not: On dorduncu yuzyil Avrasya agina ve Altin Orda sahasina disaridan gelen gezginin tanikligi;
+      kendi gozlemi ile kendisine anlatilanlari her zaman kesin ayirmaz.
 son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -283,7 +292,7 @@ dosyası kullanılmalıdır.
 
 Altın Orda’nın yönetici hanedanı Cengizliydi; yönettiği bozkır ve kent nüfusunun
 büyük bölümü Kıpçak Türkçesi konuşan ve farklı dinî gelenekler taşıyan
-topluluklardan oluşuyordu.[^k1][^k4] Hanedan askerî üstünlükle geldi, kalıcı
+topluluklardan oluşuyordu.[^k1][^k4][^k5] Hanedan askerî üstünlükle geldi, kalıcı
 yönetim için yerel dil, vergi ağı, tüccar ve dinî kurumlarla bağ kurdu. Bu süreç
 tek yönlü “asimilasyon” değil, yeni bir siyasal kültürün karşılıklı oluşumuydu.
 

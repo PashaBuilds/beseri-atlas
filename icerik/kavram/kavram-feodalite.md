@@ -19,6 +19,10 @@ ilgili:
   - kaynak-magna-carta
   - tartisma-kara-olumun-sonuclari
 okuma_onerisi: []
+kaynak_siniri: >-
+  “Feodalite” çağdaşların ortak bir sistem adı olarak kullandığı terim değildir.
+  Senetler ve yeminler yerel ilişkileri gösterir, fakat sonradan kurulmuş bütünsel
+  modeli doğrulamaz; kavramın yararı bu yüzden ikincil tarih yazımında tartışılır.
 kaynaklar:
   - anahtar: k1
     tur: ansiklopedi

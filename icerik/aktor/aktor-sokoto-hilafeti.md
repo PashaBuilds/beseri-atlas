@@ -52,6 +52,16 @@ kaynaklar:
     erisim_tarihi: 2026-08-25
     dogrulama_dizesi: "Sokoto"
     not: "Giris kapisi; havuz kurali geregi makalede en fazla bir tane"
+  - anahtar: k5
+    tur: birincil
+    birincil_tur: belge
+    ad: Osman dan Fodio — Wathiqa ila Ahl al-Sudan / Declaration of Independence (1806 dolayi),
+      Ingilizce ceviri
+    url: https://siiasi.org/digital-archive/shaykh-uthman-ibn-fuduye/the-declaration-of-independence/
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Wathiqa Ila Ahl as-Sudan
+    not: Kurucu hareketin normatif programini tasiyan metnin modern Ingilizce cevirisi; tarihlendirme ve
+      ceviri editorun aciklamasina dayanir, uygulamanin tarafsiz kaydi degildir.
 son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -268,7 +278,7 @@ dosyası kullanılmalıdır.
 ## Metinden harekete, hareketten devlete
 
 Osman dan Fodio ve çevresinin yazıları dinî yenilenme, adalet ve meşru yönetim
-iddialarını açık biçimde kaydeder.[^k1][^k2] Bu külliyat devletin kuruluş diline
+iddialarını açık biçimde kaydeder.[^k1][^k2][^k5] Bu külliyat devletin kuruluş diline
 doğrudan erişim sağlar; hareketin bütün katılımcılarının aynı gerekçeyle savaştığını
 göstermez. Çoban, köylü, âlim ve yerel yönetici mevcut vergi, güvenlik ve statü
 sorunlarını bu dil içinde farklı biçimlerde yorumlamış olabilir.

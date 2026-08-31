@@ -20,6 +20,10 @@ ilgili:
   - kavram-pamuk-tek-urun
   - kavram-ticaret-hadleri
 okuma_onerisi: []
+kaynak_siniri: >-
+  Kuramın kurucu metinleri yirminci yüzyıl telifi altındadır ve doğrulanabilir
+  açık tam metin havuzunda bulunmamaktadır. Dosya bu metinleri okumuş gibi
+  davranmaz; okullar arasındaki ayrımı erişilebilir ikincil literatürden kurar.
 kaynaklar:
   - anahtar: k1
     tur: ansiklopedi

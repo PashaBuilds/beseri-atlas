@@ -40,6 +40,16 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Adam Smith"
     not: "Iktisat yazari"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: eser
+    ad: Adam Smith — An Inquiry into the Nature and Causes of the Wealth of Nations (1776), Project
+      Gutenberg
+    url: https://www.gutenberg.org/cache/epub/3300/pg3300.txt
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: OF THE ORIGIN AND USE OF MONEY
+    not: Kamu mali tam metin; para ve vergilendirme bolumleri icin donem kaynagi. Smith'in kurami
+      tarihsel olgularin tek aciklamasi sayilmaz.
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -174,7 +184,7 @@ güvenilir bir göstergedir.[^k3]
 ## Oran ile gerçek yük arasındaki fark
 
 Vergiyi anlamak için oranı bilmek yetmez. Vergi matrahı, muafiyetler, tahsil yöntemi,
-ödeme zamanı ve yükün sonunda kimin üzerinde kaldığı ayrı sorulardır.[^k1] Toprak
+ödeme zamanı ve yükün sonunda kimin üzerinde kaldığı ayrı sorulardır.[^k1][^k4] Toprak
 vergisi hukukta maliklerden alınırken kiracıya aktarılabilir; gümrük vergisi tüccar
 tarafından ödenip fiyat yoluyla tüketiciye yansıyabilir. Nakit yükümlülüğü, ürünle
 ödenen aynı orandan daha ağır olabilir çünkü hane önce pazara girmek zorundadır.

@@ -57,6 +57,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-25
     dogrulama_dizesi: "Chagatai Khanate"
     not: "Giris kapisi; havuz kurali geregi makalede en fazla bir tane"
+  - anahtar: k5
+    tur: birincil
+    birincil_tur: tanik
+    ad: Babur — The Babur-nama in English, A. S. Beveridge cevirisi (Project Gutenberg)
+    url: https://www.gutenberg.org/ebooks/44608
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Shaibaq Khan
+    not: Maveraunnehir mucadelesinin yenilen tarafinin kendi anisi; Seybani Han ve Cagatay mirasina
+      dogrudan erisim verir, rakibin bakisini temsil etmez.
 son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -314,7 +323,7 @@ Dönemin bölgeden yazılmış derleme metni için
 
 Çağatay ulusu, Cengiz Han soyuna dayanan hükümdarlık iddiasını korurken
 Mâverâünnehir’in şehirli, tarımsal ve İslamî kurumlarıyla birlikte yaşamak
-zorundaydı.[^k1][^k2] Hanedan unvanı bozkır seçkinlerine meşruiyet sağlıyor;
+zorundaydı.[^k1][^k2][^k5] Hanedan unvanı bozkır seçkinlerine meşruiyet sağlıyor;
 vergi, yazışma ve kent yönetimi ise yerleşik uzmanlık gerektiriyordu. Bu iki
 katman birbirinin yerine geçmedi, siyasal düzenin farklı işlerini üstlendi.
 

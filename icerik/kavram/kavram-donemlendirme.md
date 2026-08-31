@@ -22,6 +22,10 @@ ilgili:
   - aktor-avustralya-yerli-halklari
   - kavram-takvim
 okuma_onerisi: []
+kaynak_siniri: >-
+  Dönem sınırı geçmiş aktörlerin bıraktığı tek bir belge değil, tarihçinin kurduğu
+  analitik bir kesittir. Birincil belgeler iki yanında nelerin değiştiğini gösterir;
+  kesitin doğru adını veya evrensel geçerliliğini kendileri kanıtlayamaz.
 kaynaklar:
   - anahtar: k1
     tur: ansiklopedi

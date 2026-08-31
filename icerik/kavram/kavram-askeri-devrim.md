@@ -14,6 +14,10 @@ ilgili:
   - olay-otuz-yil-savaslari
   - tartisma-tarihsel-sayilar-nasil-okunur
 okuma_onerisi: []
+kaynak_siniri: >-
+  “Askerî devrim” geriye dönük bir tarih yazımı tezidir. Dönemin talimnamesi,
+  tahkimat planı veya yoklama defteri tekil uygulamayı gösterir; yüzyıllara yayılan
+  nedensellik tezini kendi başına doğrulayamaz. Bu nedenle tanım ikincil tartışmaya dayanır.
 kaynaklar:
   - anahtar: k1
     tur: ansiklopedi

@@ -36,6 +36,8 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "İCTİHAD"
     not: "Ayni gelenegin bir baska yontem kavrami"
+kaynak_siniri: >-
+  Tasavvuf yüzyıllara, bölgelere ve farklı metin türlerine yayılan bir gelenektir; tek bir müellifin eseri bütün kavramı temsil edemez. Bu genel dosya imzalı uzmanlık sentezine dayanır; belirli öğreti ve pratiklerin birincil metinleri düşünür ve kaynak dosyalarında ayrı ayrı okunmalıdır.
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0

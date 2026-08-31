@@ -41,6 +41,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Sasanian Empire"
     not: "Ortadan kalkan taraf"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: eser
+    ad: el-Belazuri — The Origins of the Islamic State / Futuh al-Buldan (1916 Hitti cevirisi)
+    url: https://en.wikisource.org/wiki/The_Origins_of_the_Islamic_State
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: THE BATTLE OF AL-YARMUK
+    not: Dokuzuncu yuzyilda derlenen fetih rivayetlerinin Ingilizce cevirisi; yedinci yuzyilin cagdas
+      tutanagi degil, aktarim zincirleri ve sonraki hukuki ilgilerle bicimlenmis bir kaynak.
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -97,7 +106,7 @@ ve "bütün bölge istilaya karşı birleşti" anlatıları aynı ölçüde gene
 Müslüman kuvvetler Suriye'de birden fazla kol hâlinde ilerlerken Bizans ordusu
 bölgeyi geri almak için büyük güç topladı. 636'daki Yermük Muharebesi, hareketli
 süvari, komuta eşgüdümü ve zor arazi koşulları içinde Bizans'ın ağır yenilgisiyle
-sonuçlandı.[^k1] Şam ve başka kentler üzerindeki denetim kalıcılaştı; Kudüs
+sonuçlandı.[^k1][^k4] Şam ve başka kentler üzerindeki denetim kalıcılaştı; Kudüs
 teslim anlaşmasıyla el değiştirdi.
 
 Muharebe tek başına bütün Suriye'yi bir günde fethetmedi. Kent kuşatmaları,

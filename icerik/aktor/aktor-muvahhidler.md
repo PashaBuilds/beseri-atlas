@@ -52,6 +52,16 @@ kaynaklar:
     erisim_tarihi: 2026-08-25
     dogrulama_dizesi: "Almohad"
     not: "Giris kapisi; havuz kurali geregi makalede en fazla bir tane"
+  - anahtar: k5
+    tur: birincil
+    birincil_tur: eser
+    ad: Ibn Haldun — Histoire des Berberes et des dynasties musulmanes de l'Afrique septentrionale, cilt
+      1
+    url: https://archive.org/download/histoiredesberbe01ibnk/histoiredesberbe01ibnk_djvu.txt
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Almoravides
+    not: Kitab el-Iber'in on dokuzuncu yuzyil Fransizca cevirisi; Murabit ve Muvahhid donemlerinden
+      sonra yazilmis tarihsel birincil eserdir, cagdas tutanak degildir.
 son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -323,7 +333,7 @@ için [İbn Haldûn — Mukaddime](/kaynak/ibn-haldun-mukaddime/) ve
 ## Öğretiden yönetime geçiş
 
 Muvahhid hareketinin Murabıtları dinî tutarlılık üzerinden eleştirmesi, iktidara
-geldikten sonra aynı iddianın kurumlara nasıl çevrildiği sorusunu açar.[^k1][^k2]
+geldikten sonra aynı iddianın kurumlara nasıl çevrildiği sorusunu açar.[^k1][^k2][^k5]
 Birlik öğretisi yalnız inanç beyanı değil, hükümdarlık hakkı, görevlendirme ve
 rakipleri dışlama ölçütü haline geldi. Ancak Mağrip ile Endülüs’teki farklı
 toplulukları yönetmek, kurucu hareketin sade dilinden daha karmaşık uzlaşmalar

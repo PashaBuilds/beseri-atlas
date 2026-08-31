@@ -47,6 +47,8 @@ kaynaklar:
     erisim_tarihi: 2026-08-26
     dogrulama_dizesi: "MİRAS"
     not: "Mulkiyetin devri; siyasi verasetle karsilastirma icin"
+kaynak_siniri: >-
+  Veraset karşılaştırmalı bir hukuk ve iktidar kategorisidir; hanedanların yazılı kuralı, teamülü ve fiilî geçişi aynı değildir ve bütün biçimleri doğrulayan tek bir birincil belge bulunmaz. Dosya genel tipolojiyi ikincil kaynaklarla kurar; her tarihsel geçiş ilgili aktör veya olay dosyasındaki belgeyle sınanmalıdır.
 son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0

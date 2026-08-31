@@ -44,6 +44,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-26
     dogrulama_dizesi: "HİCRÎ TAKVİM"
     not: "Ay yilina dayanan takvimin kendi maddesi"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: belge
+    ad: Papa XIII. Gregorius — Inter gravissimas (1582), Latince tam metin
+    url: https://la.wikisource.org/wiki/Inter_Gravissimas
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: kalendarium emendatum
+    not: Gregoryen takvim reformunu emreden papalik fermani; reformun kurumsal yetki islemini dogrudan,
+      farkli toplumlarda benimsenmesini ise yalniz dolayli gosterir.
 son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -149,7 +158,7 @@ düzenin ölçüm kapasitesinin doğrudan göstergesidir.[^k2]
 
 ## Takvimin siyasi yanı
 
-Takvim koymak bir yetki işlemidir.[^k1] Hangi günün bayram, hangi
+Takvim koymak bir yetki işlemidir.[^k1][^k4] Hangi günün bayram, hangi
 yılın kaçıncı yıl sayılacağı merkezden belirlenir.
 
 Takvim değiştirmek de aynı nedenle siyasidir.[^k2] Yeni bir başlangıç

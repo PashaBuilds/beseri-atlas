@@ -57,6 +57,16 @@ kaynaklar:
     erisim_tarihi: 2026-08-25
     dogrulama_dizesi: "Bukhara"
     not: "Giris kapisi; havuz kurali geregi makalede en fazla bir tane"
+  - anahtar: k5
+    tur: birincil
+    birincil_tur: tanik
+    ad: "Eugene Schuyler — Turkistan: Notes of a Journey in Russian Turkistan, Khokand, Bukhara, and
+      Kuldja (1876), cilt 1"
+    url: https://archive.org/download/turkistannotesof01schu/turkistannotesof01schu_djvu.txt
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: RUSSIAN TURKISTAN
+    not: 1873 yolculugunun ABD diplomati tarafindan yazilmis tanikligi; Rus idaresinin izin verdigi
+      hareket alaniyla ve yazarin somurgeci donem diliyle sinirlidir.
 son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -335,7 +345,7 @@ askerî destek karşılığında geniş hareket alanı bulabiliyordu. Merkezî g
 doğrudan bürokrasiden çok bu aracılarla pazarlık kapasitesine dayanıyordu.
 
 Rus himayesi altında emirlik adı ve iç kurumların bir bölümü sürerken dış politika
-ile ekonomik karar alanı daraldı.[^k4] Böylece üç ayrı düzey görülür: hanedanın
+ile ekonomik karar alanı daraldı.[^k4][^k5] Böylece üç ayrı düzey görülür: hanedanın
 değişmesi, unvanın değişmesi ve egemenliğin aşınması aynı tarihte gerçekleşmez.
 Buhara tarihi, devletin yalnız haritadaki devamlılık veya hükümdar listesiyle
 ölçülemeyeceğini; yetki, gelir ve tanınmanın ayrı zaman çizgileri olduğunu gösterir.

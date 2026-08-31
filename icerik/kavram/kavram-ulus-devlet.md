@@ -41,6 +41,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Nationalism"
     not: "Yakin kavram"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: eser
+    ad: Ernest Renan — Qu'est-ce qu'une nation? (1882), Wikisource tam metni
+    url: https://fr.wikisource.org/wiki/Qu%E2%80%99est-ce_qu%E2%80%99une_nation_%3F
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: un plébiscite de tous les jours
+    not: 11 Mart 1882 Sorbonne konferansinin 1882 Calmann Levy basimi; ulusu irade ve ortak hafiza
+      uzerinden kuran belirli bir tarihsel konumdur, kavramin butun tanimi degildir.
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -92,7 +101,7 @@ topluluğun sınırlarının çakıştığı ideal düzeni anlatır. Gerçekte h
 devlet kültür, dil, din ve köken bakımından bütünüyle türdeş değildir; birçok
 millet de birden çok devlet sınırına yayılır. Bu nedenle kavram yalnız mevcut
 durumu betimlemez, sınır ile aidiyetin örtüşmesi gerektiğine dair siyasal bir
-iddia da taşır.[^k1][^k3]
+iddia da taşır.[^k1][^k3][^k4]
 
 Devlet; vergi, hukuk, güvenlik ve yönetim kurumlarına sahiptir. Millet ise ortak
 tarih, kültür, yurttaşlık veya siyasal gelecek anlatısıyla kurulan üyelik

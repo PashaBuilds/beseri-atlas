@@ -33,6 +33,10 @@ ilgili:
   - olay-talas-savasi
   - olay-rus-turkistan-fethi
 okuma_onerisi: []
+kaynak_siniri: >-
+  Tartışma yalnız bölgenin geçmişini değil, modern dünya tarihi literatürünün bölgeyi
+  neden seyrekleştirdiğini sorar. Birincil kronikler tarihsel faaliyeti gösterebilir;
+  sonraki çeviri, arşiv ve müfredat seçiminin nedenini tek başlarına açıklayamaz.
 hakem_yok: true
 pozisyonlar:
   - ad: Deniz yollarının açılması kara ticaretini işlevsizleştirdi

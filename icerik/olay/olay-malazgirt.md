@@ -38,6 +38,8 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Byzantine Empire"
     not: "Yenilen tarafın ölçüsü"
+kaynak_siniri: >-
+  Malazgirt hakkında çağdaş Bizans anlatıları ile daha geç İslam tarihleri aynı ayrıntıları ve sayıları vermez; açık erişimde güvenle satır satır doğrulanabilen Türkçe bir çağdaş metin bu dosyanın kaynak setinde yoktur. Bu nedenle asker sayıları ve konuşmalar ikincil sentezden aktarılır, kesin tanıklık gibi sunulmaz.
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0

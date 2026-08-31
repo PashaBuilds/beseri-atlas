@@ -47,6 +47,16 @@ kaynaklar:
     erisim_tarihi: 2026-08-26
     dogrulama_dizesi: "BUHARA"
     not: "Himaye altina alinan ikinci hanlik"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: tanik
+    ad: "Eugene Schuyler — Turkistan: Notes of a Journey in Russian Turkistan, Khokand, Bukhara, and
+      Kuldja (1876), cilt 1"
+    url: https://archive.org/download/turkistannotesof01schu/turkistannotesof01schu_djvu.txt
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: RUSSIAN TURKISTAN
+    not: 1873 yolculugunun ABD diplomati tarafindan yazilmis tanikligi; Rus idaresinin izin verdigi
+      hareket alaniyla ve yazarin somurgeci donem diliyle sinirlidir.
 son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -55,7 +65,7 @@ onarim_turu: 0
 
 On dokuzuncu yüzyılın ortasından sonuna kadar süren bir dizi seferle,
 bölgedeki üç hanlık kuzeyden gelen bir imparatorluğun denetimine
-girdi.[^k1] Süreç tek bir savaşla değil, adım adım ilerledi.
+girdi.[^k1] Süreç tek bir savaşla değil, adım adım ilerledi.[^k4]
 
 Üç hanlığın akıbeti aynı olmadı.[^k3] Biri tamamen ortadan
 kaldırıldı, ikisi iç işlerinde biçimsel bir özerklikle bırakıldı.

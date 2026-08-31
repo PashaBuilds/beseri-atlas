@@ -38,6 +38,8 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Decolonization"
     not: "Kaynagin cokus bolumunde ayri alt baslik yaptigi surec"
+kaynak_siniri: >-
+  İmparatorluk, çok farklı dönem ve dillerdeki yönetimleri karşılaştıran modern bir üst kategoridir; bütün örneklerin kendini aynı adla tanımladığı tek bir birincil metin yoktur. Dosya tipolojiyi ikincil sentezle kurar, tarihsel uygulamalar ilgili aktör ve belge dosyalarındaki birincil kayıtlarla sınanır.
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0

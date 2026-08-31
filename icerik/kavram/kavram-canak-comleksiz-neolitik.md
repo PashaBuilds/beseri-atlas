@@ -24,7 +24,8 @@ baglam:
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
-    tur: akademik
+    tur: birincil
+    birincil_tur: kazi
     ad: "Scientific Reports (2025) — Strontium and oxygen isotope analysis reveals changing connections to place and group membership in the world's earliest village societies"
     url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12494774/
     erisim_tarihi: 2026-08-30

@@ -14,6 +14,10 @@ ilgili:
   - aktor-osmanli-imparatorlugu
   - aktor-safevi-devleti
 okuma_onerisi: []
+kaynak_siniri: >-
+  “Barut imparatorlukları” dönemin devletlerinin kullandığı bir öz-ad değil,
+  modern tarihçilerin karşılaştırma etiketidir. Fermanlar ve sefer kayıtları
+  silah kullanımını gösterebilir; bu üçlü sınıflandırmayı doğrulayamaz.
 kaynaklar:
   - anahtar: k1
     tur: ansiklopedi

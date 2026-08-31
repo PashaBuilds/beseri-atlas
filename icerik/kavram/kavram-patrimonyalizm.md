@@ -39,6 +39,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Marx"
     not: "Devlet kurami uzerine baska bir gelenek; bagimsiz alan adi"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: eser
+    ad: Max Weber — The Theory of Social and Economic Organization (1947 Parsons cevirisi), tam metin
+    url: https://archive.org/download/dli.ernet.233771/233771-The%20Theory%20%20Of%20%20Social%20And%20Economic%20Organization_djvu.txt
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Three Pure Types of Legitimate Authority
+    not: Mesru otorite tipleri, patrimonyal otorite ve burokratik yonetim kesimlerini tasiyan metin. Bu
+      Ingilizce ceviri Almanca aslin kendisi degildir.
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -184,7 +193,7 @@ gerçek durumlar ona olan mesafeyle
 ## Kavramın kaynağı
 
 Kavramı bugünkü biçimiyle tanımlayan yazar, onu bir ideal tip olarak
-kurdu.[^k2] Amaç betimlemek değil karşılaştırma ölçütü
+kurdu.[^k2][^k4] Amaç betimlemek değil karşılaştırma ölçütü
 üretmekti.[^k1][^k3]
 
 ## Kişisel yönetim ile keyfîlik arasındaki fark

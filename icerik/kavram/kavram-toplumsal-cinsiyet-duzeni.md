@@ -24,6 +24,10 @@ ilgili:
   - kavram-apartheid
   - aktor-dahomey-kralligi
 okuma_onerisi: []
+kaynak_siniri: >-
+  “Toplumsal cinsiyet düzeni” farklı hukuk ve toplumları karşılaştıran analitik bir
+  ölçüttür. Tek bir yasa veya hane kaydı belirli bir eşitsizliği gösterebilir; küresel
+  kavramın tanımını ve dönemler arası kapsamını kendi başına doğrulayamaz.
 kaynaklar:
   - anahtar: k1
     tur: ansiklopedi

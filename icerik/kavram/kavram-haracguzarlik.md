@@ -39,6 +39,8 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Confucius"
     not: "Toren ve hiyerarsi gelenegi; bagimsiz alan adi"
+kaynak_siniri: >-
+  Haraçgüzarlık, farklı devletlerin vergi, armağan ve tâbilik kayıtlarını tek karşılaştırmalı başlıkta toplar; bu modern analitik kategoriyi bütün dönemler için tanımlayan tek bir çağdaş belge yoktur. Dosya bu nedenle ikincil senteze dayanır ve her örneğin özgün kaydı aktör dosyasında sınanmalıdır.
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0

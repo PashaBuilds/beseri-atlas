@@ -1,6 +1,6 @@
 {
   "mod": "--lint",
-  "zaman": "2026-08-31T00:40:42.483Z",
+  "zaman": "2026-08-31T01:03:16.889Z",
   "gecti": true,
   "makale_sayisi": 542,
   "kapilar": [
@@ -99,13 +99,13 @@
       "hatalar": [],
       "olcum": {
         "olculen": 542,
-        "toplamKunye": 2528,
+        "toplamKunye": 2564,
         "kuralIhlali": 114,
-        "birincilsiz": 68,
-        "kaynakSiniriBeyanli": 27,
-        "kanitAcigi": 55,
+        "birincilsiz": 31,
+        "kaynakSiniriBeyanli": 45,
+        "kanitAcigi": 0,
         "toplamGiris": 576,
-        "birincilKunye": 771,
+        "birincilKunye": 808,
         "turlenmemis": 0
       }
     },
@@ -164,7 +164,7 @@
         "olculen": 287,
         "dogru": 287,
         "atlanan": 0,
-        "yuzey": 8143,
+        "yuzey": 8145,
         "seri": 9
       }
     },

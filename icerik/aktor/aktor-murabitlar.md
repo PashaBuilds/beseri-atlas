@@ -54,6 +54,16 @@ kaynaklar:
     erisim_tarihi: 2026-08-25
     dogrulama_dizesi: "Almoravid"
     not: "Giris kapisi; havuz kurali geregi makalede en fazla bir tane"
+  - anahtar: k5
+    tur: birincil
+    birincil_tur: eser
+    ad: Ibn Haldun — Histoire des Berberes et des dynasties musulmanes de l'Afrique septentrionale, cilt
+      1
+    url: https://archive.org/download/histoiredesberbe01ibnk/histoiredesberbe01ibnk_djvu.txt
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Almoravides
+    not: Kitab el-Iber'in on dokuzuncu yuzyil Fransizca cevirisi; Murabit ve Muvahhid donemlerinden
+      sonra yazilmis tarihsel birincil eserdir, cagdas tutanak degildir.
 son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -318,7 +328,7 @@ Bölgenin toplumsal örgütlenme kuramı için
 ## Çöl yolu ile deniz boğazını birleştirmek
 
 Murabıt gücü, Sahra’nın güneyindeki ticaret yolları ile Mağrip kentlerini aynı
-siyasal ağda buluşturdu; Endülüs’e geçiş bu ağı Cebelitarık’ın ötesine taşıdı.[^k1][^k2]
+siyasal ağda buluşturdu; Endülüs’e geçiş bu ağı Cebelitarık’ın ötesine taşıdı.[^k1][^k2][^k5]
 Çöl bu bakımdan boş bir engel değil, kuyu, kervan ve yerel bilgiyle işletilen bir
 ulaşım alanıydı. Kervan güvenliği, altın akışı ve dinî-siyasal dayanışma birbirini
 güçlendirdi.

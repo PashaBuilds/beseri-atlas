@@ -45,6 +45,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Unification of Italy"
     not: "Kavramin uygulama ornegi"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: eser
+    ad: Ernest Renan — Qu'est-ce qu'une nation? (1882), Wikisource tam metni
+    url: https://fr.wikisource.org/wiki/Qu%E2%80%99est-ce_qu%E2%80%99une_nation_%3F
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: un plébiscite de tous les jours
+    not: 11 Mart 1882 Sorbonne konferansinin 1882 Calmann Levy basimi; ulusu irade ve ortak hafiza
+      uzerinden kuran belirli bir tarihsel konumdur, kavramin butun tanimi degildir.
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -103,7 +112,7 @@ bir bağ kurulması gerektiğini söyleyen düşünce ve hareketleri anlatır. B
 devletsiz olabilir, bir devlet birden çok milliyeti barındırabilir, milliyetçi
 bir hareket mevcut devleti ele geçirmek, bölmek ya da genişletmek isteyebilir.
 Bu üç kelimeyi eş anlamlı kullanmak, çatışmanın tam olarak nerede doğduğunu
-gizler.[^k1]
+gizler.[^k1][^k4]
 
 Kaynağın çok sayıda milliyetçilik türü ayırması tesadüf değildir.[^k1] Yurttaşlık
 temelli anlatılar üyeliği hukuk ve siyasal katılımla; etnik anlatılar soy, dil,

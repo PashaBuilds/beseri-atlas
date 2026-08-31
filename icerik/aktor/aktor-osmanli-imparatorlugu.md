@@ -62,6 +62,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-20
     dogrulama_dizesi: "Ottoman Empire"
     not: "Dönemlendirme ve tarih yazımı tartışması için giriş kapısı"
+  - anahtar: k5
+    tur: birincil
+    birincil_tur: belge
+    ad: The Ottoman Land Code — 1858 Arazi Kanunnamesinin 1892 Ingilizce cevirisi
+    url: https://archive.org/download/32882019066664-theottomanlandc/HighRes_32882019066664_djvu.txt
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Land in Turkey is divided into five classes
+    not: Kanunun 1. ve 3. maddeleri toprak siniflarini ve timar-zeamet mirasini kendi adlariyla
+      kaydeder; on dokuzuncu yuzyil metni klasik donemin fiili uygulamasini tek basina kanitlamaz.
 son_denetim: 2026-08-20
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -115,7 +124,7 @@ için de kullanılması bu mali mantığın sonucudur.[^k1]
 
 Devletin klasik dönemdeki taşıyıcı kurumu tımardır. Halil İnalcık'ın tanımıyla
 tımar, Osmanlılarda devlete ait toprakların askerî ve idari gayelerle tahsisine
-dayalı sistemdir.[^k2] Türkçede dirlik ile eş anlamlı kullanılan kelime sözlükte
+dayalı sistemdir.[^k2][^k5] Türkçede dirlik ile eş anlamlı kullanılan kelime sözlükte
 "bakım, ilgi" anlamına gelir.[^k2]
 
 Sistemin idari karşılığı taşra teşkilatında görünür. Osmanlı idaresi genel olarak

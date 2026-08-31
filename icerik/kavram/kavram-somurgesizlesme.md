@@ -62,6 +62,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Decolonisation of Africa"
     not: "Bolgesel uygulama"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: belge
+    ad: BM Genel Kurulu 1514 (XV) — Somurge Ulkelerine ve Halklarina Bagimsizlik Bildirisi (1960)
+    url: https://en.wikisource.org/wiki/Declaration_on_the_Granting_of_Independence_to_Colonial_Countries_and_Peoples
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Declaration on the Granting of Independence
+    not: 14 Aralik 1960 tarihli karar metninin Ingilizce asli; hukuki-siyasi bagimsizlik talebini
+      gosterir, ekonomik ve toplumsal somurgesizlesmenin tamamlandigini kanitlamaz.
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -199,7 +208,7 @@ kaldı.[^k2] İki sonuç farklı devlet biçimleri
 ## Bağımsızlık anı ile egemenlik süreci
 
 Sömürgesizleşme bayrak, anayasa veya uluslararası tanınmayla görünür bir tarih
-kazanır; fakat sömürge ilişkisinin bütün katmanları aynı gün sona ermez.[^k1] Askerî
+kazanır; fakat sömürge ilişkisinin bütün katmanları aynı gün sona ermez.[^k1][^k4] Askerî
 üsler, borç, para düzeni, şirket mülkiyeti ve idarî kadrolar yeni devletin karar
 alanını sınırlamayı sürdürebilir. Buna karşılık bu süreklilik hukukî bağımsızlığın
 önemsiz olduğu anlamına gelmez; dış yetkinin devri, siyasal mücadelenin koşullarını

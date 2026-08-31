@@ -46,6 +46,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-25
     dogrulama_dizesi: "Kyrgyz"
     not: "Giris kapisi; yazit bulgulari icin"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: kitabe
+    ad: The Orkhon Inscriptions — Thomsen okumasindan E. D. Ross cevirisi (1930)
+    url: https://archive.org/details/orkhoninscriptions
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Orkhon
+    not: Yazitlarin Ingilizce cevirisi ve nesri; yazinin dil, siyasal hitap ve dayanikli malzeme
+      uzerindeki kullanimina birincil ornek. Taslarin kendisi degil bilimsel nesirdir.
 son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -156,7 +165,7 @@ Topluluk, kendi dilinde yüzlerce kısa yazıt bıraktı.[^k3] Yazıtlar
 mezar taşlarına ve kaya yüzeylerine kazınmıştır; bugün büyük bölümü
 yerinde ya da müzelerde korunmaktadır.
 
-Kullanılan yazı, aynı bozkır geleneğinin yazı sistemidir.[^k1]
+Kullanılan yazı, aynı bozkır geleneğinin yazı sistemidir.[^k1][^k4]
 
 Fark uzunluktadır.[^k2] Buradaki metinler kısa ve büyük ölçüde
 kişiseldir; ölen kişinin adı, akrabaları ve bıraktıkları anılır.

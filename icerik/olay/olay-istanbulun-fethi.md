@@ -39,6 +39,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Byzantine Empire"
     not: "Sona eren devlet"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: eser
+    ad: Doukas — Decline and Fall of Byzantium to the Ottoman Turks (Magoulias cevirisi), tam metin
+    url: https://archive.org/download/doukas_decline_fall_byzantium_to_ottoman_turks/doukas_decline_fall_byzantium_to_ottoman_turks_djvu.txt
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: The Fall of Constantinople
+    not: On besinci yuzyil Bizans kronigi; fethi kaybeden dunyanin bakisindan anlatir. Cagdas kaynaktir
+      ama kusatmanin her anina gorgu tanikligi sayilamaz.
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -224,7 +233,7 @@ değildir.[^k1]
 ## Son Roma mı, yeni imparatorluk mu?
 
 Bizans kendisini "Bizans" değil Roma olarak biliyordu; 1453 bu devletin başkent
-ve hanedan egemenliğinin sonudur.[^k3] Mora'daki despotluklar ve Trabzon
+ve hanedan egemenliğinin sonudur.[^k3][^k4] Mora'daki despotluklar ve Trabzon
 İmparatorluğu birkaç yıl daha yaşasa da Konstantinopolis'in kaybı evrensel merkez
 iddiasını kırdı. Roma hukuku, Ortodoks kilisesi ve kültürel miras ise devletle
 birlikte yok olmadı.

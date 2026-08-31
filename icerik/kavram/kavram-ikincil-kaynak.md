@@ -15,6 +15,10 @@ ilgili:
   - dusunur-platon
   - kavram-kaynak-elestirisi
 okuma_onerisi: []
+kaynak_siniri: >-
+  “İkincil kaynak” bir belgenin değişmez türü değil, araştırma sorusuna göre aldığı
+  işlevdir. Tek bir birincil belge bu yöntemsel ayrımı doğrulayamaz; aynı metin başka
+  bir soruda birincil olabildiği için tanım epistemoloji ve yöntem literatürüne dayanır.
 kaynaklar:
   - anahtar: k1
     tur: ansiklopedi

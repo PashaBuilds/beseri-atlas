@@ -47,6 +47,8 @@ kaynaklar:
     erisim_tarihi: 2026-08-26
     dogrulama_dizesi: "SEMERKANT"
     not: "Kagit uretimi iddiasinin merkezindeki kent"
+kaynak_siniri: >-
+  Talas Savaşı hakkında ayrıntılı anlatılar olaydan sonra derlenen Arapça ve Çince tarihlere dayanır; açık erişimde satır satır doğrulanmış çağdaş bir savaş tutanağı bu dosyanın kaynak setinde yoktur. Karlukların rolü, savaşın ölçeği ve kâğıt aktarımı bu yüzden kesin tanıklık değil kaynaklar arası yorum olarak okunmalıdır.
 son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0

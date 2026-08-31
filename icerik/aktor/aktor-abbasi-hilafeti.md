@@ -47,6 +47,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "SELÇUKLULAR"
     not: "Hilafetin siyasi gücünü kaybettiği dönemdeki fiilî iktidar için"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: nesne
+    ad: British Museum — Halife el-Mansur adina altin dinar, H. 153 / MS 770 (OR.9102)
+    url: https://www.britishmuseum.org/collection/object/C_OR-9102
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Abbasid dynasty
+    not: Muze nesne kaydi hukumdar, tarih, malzeme, agirlik ve yazit bilgisini verir; sikkenin dolasim
+      hacmini veya ekonominin butununu tek basina gostermez.
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -109,7 +118,7 @@ vaadi ile hanedan devleti arasındaki mesafe kuruluşun kalıcı gerilimiydi.
 
 ## Bağdat yeni bir ağırlık merkezi kurdu
 
-Mansûr 762'de Bağdat'ı dairesel planlı yeni başkent olarak kurdu.[^k1] Dicle
+Mansûr 762'de Bağdat'ı dairesel planlı yeni başkent olarak kurdu.[^k1][^k4] Dicle
 üzerindeki konum Irak tarımı, İran yolları, Basra Körfezi ve Suriye arasında
 ulaşım sağladı. Şehrin saray ve cami merkezli planı halifenin düzen kurucu
 konumunu görünür kılıyor; kısa sürede planlı çekirdeğin dışına taşan pazar ve

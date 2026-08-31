@@ -47,6 +47,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-25
     dogrulama_dizesi: "Karluk"
     not: "Giris kapisi; havuz kurali geregi makalede en fazla bir tane"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: kitabe
+    ad: The Orkhon Inscriptions — Thomsen okumasindan E. D. Ross cevirisi (1930)
+    url: https://archive.org/details/orkhoninscriptions
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Orkhon
+    not: Yazitlarin Ingilizce cevirisi ve nesri; yazinin dil, siyasal hitap ve dayanikli malzeme
+      uzerindeki kullanimina birincil ornek. Taslarin kendisi degil bilimsel nesirdir.
 son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -192,7 +201,7 @@ bilgi verir; nüfusun geneli hakkında ayrıntı bulunmaz.
 
 Topluluğun kendi dilinde bıraktığı kayıt yok denecek kadar
 azdır.[^k1] Aynı bozkır geleneğinden çıkan komşu düzenler uzun yazıtlar
-bırakmıştır.
+bırakmıştır.[^k4]
 
 Kayıt bırakmamak, yazıyı bilmemek anlamına gelmez.
 

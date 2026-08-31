@@ -15,6 +15,10 @@ ilgili:
   - olay-internetin-yayginlasmasi
   - veri-internet-kullanimi
 okuma_onerisi: []
+kaynak_siniri: >-
+  Kavramın kurucu yirminci yüzyıl metni telif altındadır ve doğrulanabilir açık tam
+  metin havuzunda yoktur. Gazete veya meclis tutanağı belirli bir kamusal pratiği
+  gösterebilir; kavramın tanımı ile feminist karşı-eleştirilerin yerine geçemez.
 kaynaklar:
   - anahtar: k1
     tur: ansiklopedi

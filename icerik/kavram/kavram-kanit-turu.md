@@ -52,6 +52,10 @@ ilgili:
   - kaynak-gilgamis-destani
   - tartisma-tunc-cagi-cokusunun-nedeni
 okuma_onerisi: []
+kaynak_siniri: >-
+  Bu dosya kanıt nesnelerini değil, kanıtı sınıflandırma işlemini açıklar. Bir kitabe,
+  sikke ya da tanıklık kendi sınıfının yöntemsel sınırlarını doğrulayamaz; sınıflama
+  tarih felsefesi ve tanıklık epistemolojisi literatürüne dayanır.
 kaynaklar:
   - anahtar: k1
     tur: akademik

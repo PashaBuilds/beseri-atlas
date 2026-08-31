@@ -36,6 +36,16 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "New Imperialism"
     not: "Dönemin büyük güç rekabeti çerçevesi için"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: belge
+    ad: Londra Antlasmasi — Balkan devletleri ile Osmanli Devleti arasindaki baris metni (1913)
+    url: https://en.wikisource.org/wiki/Treaty_of_London_%281913%29
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: all the territories of his Empire on the continent of Europe to the west of a line
+      drawn from Enos
+    not: 17/30 Mayis 1913 tarihli antlasma metni; savasin ilk safhasini kapatan toprak devrini dogrudan
+      gosterir, antlasmanin sahadaki uygulamasini tek basina kanitlamaz.
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -104,7 +114,7 @@ paylaşımı Avrupa ittifak gerilimine doğrudan bağlandı.
 
 Mayıs 1913 Londra Antlaşması Osmanlı Devleti'nin Midye-Enez çizgisinin batısında
 kalan topraklarının büyük bölümünü kaybetmesini kabul etti; Arnavutluk'un
-geleceği büyük güçlere bırakıldı.[^k1] Fakat metin, Makedonya'nın galipler
+geleceği büyük güçlere bırakıldı.[^k1][^k4] Fakat metin, Makedonya'nın galipler
 arasında nasıl bölüşüleceğini tatmin edici biçimde çözmedi. Ortak düşman
 gerileyince ittifakın içindeki rakip hedefler yeniden öne çıktı.
 

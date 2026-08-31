@@ -45,6 +45,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-25
     dogrulama_dizesi: "Plassey"
     not: "Giris kapisi; havuz kurali geregi makalede en fazla bir tane"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: tanik
+    ad: Robert Clive — The Battle of Plassey (1757), Newcastle Dukuna mektup
+    url: https://sourcebooks.web.fordham.edu/mod/1757plassey.asp
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: the placing of Meer Jaffier on the throne
+    not: Muharebeden kisa sure sonra kazanan komutanin kendi raporu; yonetici degisimini dogrudan
+      kaydeder, kuvvet ve basari anlatiminda tarafsiz degildir.
 son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -53,7 +62,7 @@ onarim_turu: 0
 
 1757 yazında, bir Avrupa ticaret şirketinin kuvvetleri ile bir eyalet
 yöneticisinin ordusu karşılaştı ve muharebe bir gün içinde sonuçlandı.[^k1][^k3]
-Şirket kazandı ve eyaletin yönetimi fiilen el değiştirdi.
+Şirket kazandı ve eyaletin yönetimi fiilen el değiştirdi.[^k4]
 
 Bir ticaret kuruluşu, bir eyaletin vergi gelirini ve yönetici atama yetkisini eline
 geçirdi.

@@ -57,6 +57,16 @@ kaynaklar:
     erisim_tarihi: 2026-08-25
     dogrulama_dizesi: "Khiva"
     not: "Giris kapisi; havuz kurali geregi makalede en fazla bir tane"
+  - anahtar: k5
+    tur: birincil
+    birincil_tur: tanik
+    ad: "Eugene Schuyler — Turkistan: Notes of a Journey in Russian Turkistan, Khokand, Bukhara, and
+      Kuldja (1876), cilt 1"
+    url: https://archive.org/download/turkistannotesof01schu/turkistannotesof01schu_djvu.txt
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: RUSSIAN TURKISTAN
+    not: 1873 yolculugunun ABD diplomati tarafindan yazilmis tanikligi; Rus idaresinin izin verdigi
+      hareket alaniyla ve yazarin somurgeci donem diliyle sinirlidir.
 son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -190,7 +200,7 @@ ilişkindir.[^k3]
 ## Himayeye giriş
 
 Hanlık, on dokuzuncu yüzyılın ikinci yarısında kuzeydeki devletin
-himayesine girdi.[^k4] Hanedan yerinde kaldı ve iç yönetim sürdürüldü.
+himayesine girdi.[^k4][^k5] Hanedan yerinde kaldı ve iç yönetim sürdürüldü.
 
 Dış ilişkiler ve savunma devredildi.[^k1] Nehrin sağ kıyısındaki
 topraklar doğrudan yönetime bağlandı.

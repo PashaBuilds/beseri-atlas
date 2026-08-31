@@ -39,6 +39,16 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Adam Smith"
     not: "Iktisat yazari; bagimsiz alan adi"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: eser
+    ad: Adam Smith — An Inquiry into the Nature and Causes of the Wealth of Nations (1776), Project
+      Gutenberg
+    url: https://www.gutenberg.org/cache/epub/3300/pg3300.txt
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: OF THE ORIGIN AND USE OF MONEY
+    not: Kamu mali tam metin; para ve vergilendirme bolumleri icin donem kaynagi. Smith'in kurami
+      tarihsel olgularin tek aciklamasi sayilmaz.
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -192,7 +202,7 @@ kayıtlarla her zaman uyuşmaz.[^k3]
 ## Dört işlevi ayrı sınamak
 
 Bir nesne değişim aracı, hesap birimi, değer saklama aracı ve ertelenmiş ödeme ölçüsü
-işlevlerinin hepsini aynı anda taşımayabilir.[^k1] Borçlar belirli bir birimle
+işlevlerinin hepsini aynı anda taşımayabilir.[^k1][^k4] Borçlar belirli bir birimle
 hesaplanırken ödeme başka mallarla yapılabilir; sikke bulunması da bütün alışverişin
 nakit yürüdüğünü göstermez. Paranın tarihini yalnız madeni paranın tarihi saymamak
 için fiyat, borç ve muhasebe kayıtları maddi buluntularla birlikte okunmalıdır.[^k2]

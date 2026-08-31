@@ -58,6 +58,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-25
     dogrulama_dizesi: "Shaybanid"
     not: "Giris kapisi; havuz kurali geregi makalede en fazla bir tane"
+  - anahtar: k5
+    tur: birincil
+    birincil_tur: tanik
+    ad: Babur — The Babur-nama in English, A. S. Beveridge cevirisi (Project Gutenberg)
+    url: https://www.gutenberg.org/ebooks/44608
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Shaibaq Khan
+    not: Maveraunnehir mucadelesinin yenilen tarafinin kendi anisi; Seybani Han ve Cagatay mirasina
+      dogrudan erisim verir, rakibin bakisini temsil etmez.
 son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -99,7 +108,7 @@ okunduğunda görünür.[^k4]
 
 ## Bağlantının kaynağı
 
-Bağlantının en ayrıntılı kaydı, güneye çekilen kişinin kendi anılarındadır.[^k3]
+Bağlantının en ayrıntılı kaydı, güneye çekilen kişinin kendi anılarındadır.[^k3][^k5]
 
 Kaydın tek taraflı olduğu belirtilmelidir.[^k1] Yenilen tarafın kendi
 anlatısıdır ve karşı tarafın kaydı aynı ayrıntıda değildir.

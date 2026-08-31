@@ -51,6 +51,16 @@ kaynaklar:
     erisim_tarihi: 2026-08-25
     dogrulama_dizesi: "Cartaz"
     not: "Giris kapisi; duzenegin gecis izni bicimi"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: belge
+    ad: "H. T. Colenbrander (der.) — Jan Pietersz. Coen: Bescheiden omtrent zijn bedrijf in Indie, cilt
+      1 (1919)"
+    url: https://archive.org/download/janpieterszcoenb01coen/janpieterszcoenb01coen_djvu.txt
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: COLENBRANDER
+    not: Coen'in VOC yonetimine mektuplarini derler; silah, tekel ve ticaretin ayni kurumsal yapida
+      birlesmesine failin kendi kaydidir, tarafsiz bir anlatim degildir.
 son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -112,7 +122,7 @@ aracı kalmadı.[^k2]
 ## Şirket biçimi
 
 Düzeneğin olgun hâli, ticaret ile askerî gücü tek bir tüzel kişilikte
-birleştiren şirketlerdir.[^k3] Bu şirketler ordu besleme, kale kurma,
+birleştiren şirketlerdir.[^k3][^k4] Bu şirketler ordu besleme, kale kurma,
 antlaşma yapma ve savaş ilan etme yetkisi taşıdı.
 
 Bu biçim, incelenen örnekler arasındaki en olağandışı kurumsal yapılardan

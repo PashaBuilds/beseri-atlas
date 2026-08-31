@@ -1,0 +1,235 @@
+{
+  "uygulandi": true,
+  "kaynak": [
+    {
+      "id": "olay-balkan-savaslari",
+      "anahtar": "k4",
+      "url": "https://en.wikisource.org/wiki/Treaty_of_London_%281913%29",
+      "destek": "dogrudan"
+    },
+    {
+      "id": "olay-hacli-seferleri",
+      "anahtar": "k4",
+      "url": "https://archive.org/download/firstcrusadeacco00kreyuoft/firstcrusadeacco00kreyuoft_djvu.txt",
+      "destek": "dogrudan"
+    },
+    {
+      "id": "olay-islam-fetihleri",
+      "anahtar": "k4",
+      "url": "https://en.wikisource.org/wiki/The_Origins_of_the_Islamic_State",
+      "destek": "kismi"
+    },
+    {
+      "id": "olay-istanbulun-fethi",
+      "anahtar": "k4",
+      "url": "https://archive.org/download/doukas_decline_fall_byzantium_to_ottoman_turks/doukas_decline_fall_byzantium_to_ottoman_turks_djvu.txt",
+      "destek": "dogrudan"
+    },
+    {
+      "id": "olay-plassey-1757",
+      "anahtar": "k4",
+      "url": "https://sourcebooks.web.fordham.edu/mod/1757plassey.asp",
+      "destek": "dogrudan"
+    },
+    {
+      "id": "olay-rus-turkistan-fethi",
+      "anahtar": "k4",
+      "url": "https://archive.org/download/turkistannotesof01schu/turkistannotesof01schu_djvu.txt",
+      "destek": "kismi"
+    },
+    {
+      "id": "olay-tanzimat-fermani",
+      "anahtar": "k4",
+      "url": "https://en.wikisource.org/wiki/The_European_Concert_in_the_Eastern_Question/Appendix_1",
+      "destek": "dogrudan"
+    },
+    {
+      "id": "aktor-abbasi-hilafeti",
+      "anahtar": "k4",
+      "url": "https://www.britishmuseum.org/collection/object/C_OR-9102",
+      "destek": "kismi"
+    },
+    {
+      "id": "aktor-altin-orda",
+      "anahtar": "k5",
+      "url": "https://archive.org/details/b28406084",
+      "destek": "kismi"
+    },
+    {
+      "id": "aktor-buhara-hanligi",
+      "anahtar": "k5",
+      "url": "https://archive.org/download/turkistannotesof01schu/turkistannotesof01schu_djvu.txt",
+      "destek": "dogrudan"
+    },
+    {
+      "id": "aktor-cagatay-hanligi",
+      "anahtar": "k5",
+      "url": "https://www.gutenberg.org/ebooks/44608",
+      "destek": "kismi"
+    },
+    {
+      "id": "aktor-hive-hanligi",
+      "anahtar": "k5",
+      "url": "https://archive.org/download/turkistannotesof01schu/turkistannotesof01schu_djvu.txt",
+      "destek": "dogrudan"
+    },
+    {
+      "id": "aktor-hokand-hanligi",
+      "anahtar": "k5",
+      "url": "https://archive.org/download/turkistannotesof01schu/turkistannotesof01schu_djvu.txt",
+      "destek": "kismi"
+    },
+    {
+      "id": "aktor-karluklar",
+      "anahtar": "k4",
+      "url": "https://archive.org/details/orkhoninscriptions",
+      "destek": "dogrudan"
+    },
+    {
+      "id": "aktor-kirgizlar",
+      "anahtar": "k4",
+      "url": "https://archive.org/details/orkhoninscriptions",
+      "destek": "kismi"
+    },
+    {
+      "id": "aktor-murabitlar",
+      "anahtar": "k5",
+      "url": "https://archive.org/download/histoiredesberbe01ibnk/histoiredesberbe01ibnk_djvu.txt",
+      "destek": "kismi"
+    },
+    {
+      "id": "aktor-muvahhidler",
+      "anahtar": "k5",
+      "url": "https://archive.org/download/histoiredesberbe01ibnk/histoiredesberbe01ibnk_djvu.txt",
+      "destek": "kismi"
+    },
+    {
+      "id": "aktor-osmanli-imparatorlugu",
+      "anahtar": "k5",
+      "url": "https://archive.org/download/32882019066664-theottomanlandc/HighRes_32882019066664_djvu.txt",
+      "destek": "kismi"
+    },
+    {
+      "id": "aktor-seybaniler",
+      "anahtar": "k5",
+      "url": "https://www.gutenberg.org/ebooks/44608",
+      "destek": "dogrudan"
+    },
+    {
+      "id": "aktor-sogdlular",
+      "anahtar": "k5",
+      "url": "https://depts.washington.edu/silkroad/texts/sogdlet.html",
+      "destek": "dogrudan"
+    },
+    {
+      "id": "aktor-sokoto-hilafeti",
+      "anahtar": "k5",
+      "url": "https://siiasi.org/digital-archive/shaykh-uthman-ibn-fuduye/the-declaration-of-independence/",
+      "destek": "dogrudan"
+    }
+  ],
+  "sinir": [
+    {
+      "id": "olay-malazgirt",
+      "sinir": "Malazgirt hakkında çağdaş Bizans anlatıları ile daha geç İslam tarihleri aynı ayrıntıları ve sayıları vermez; açık erişimde güvenle satır satır doğrulanabilen Türkçe bir çağdaş metin bu dosyanın kaynak setinde yoktur. Bu nedenle asker sayıları ve konuşmalar ikincil sentezden aktarılır, kesin tanıklık gibi sunulmaz."
+    },
+    {
+      "id": "olay-talas-savasi",
+      "sinir": "Talas Savaşı hakkında ayrıntılı anlatılar olaydan sonra derlenen Arapça ve Çince tarihlere dayanır; açık erişimde satır satır doğrulanmış çağdaş bir savaş tutanağı bu dosyanın kaynak setinde yoktur. Karlukların rolü, savaşın ölçeği ve kâğıt aktarımı bu yüzden kesin tanıklık değil kaynaklar arası yorum olarak okunmalıdır."
+    }
+  ],
+  "zaten": [
+    {
+      "id": "kavram-akrabalik",
+      "tur": "kaynak",
+      "url": "https://www.gutenberg.org/files/45950/45950-h/45950-h.htm"
+    },
+    {
+      "id": "kavram-arkeolojik-kanit",
+      "tur": "kaynak",
+      "url": "https://archive.org/details/in.ernet.dli.2015.210462"
+    },
+    {
+      "id": "kavram-burokrasi",
+      "tur": "kaynak",
+      "url": "https://archive.org/download/dli.ernet.233771/233771-The%20Theory%20%20Of%20%20Social%20And%20Economic%20Organization_djvu.txt"
+    },
+    {
+      "id": "kavram-mesruiyet",
+      "tur": "kaynak",
+      "url": "https://archive.org/download/dli.ernet.233771/233771-The%20Theory%20%20Of%20%20Social%20And%20Economic%20Organization_djvu.txt"
+    },
+    {
+      "id": "kavram-millet-sistemi",
+      "tur": "kaynak",
+      "url": "https://mjp.univ-perp.fr/constit/tr1856.htm"
+    },
+    {
+      "id": "kavram-milliyetcilik",
+      "tur": "kaynak",
+      "url": "https://fr.wikisource.org/wiki/Qu%E2%80%99est-ce_qu%E2%80%99une_nation_%3F"
+    },
+    {
+      "id": "kavram-para",
+      "tur": "kaynak",
+      "url": "https://www.gutenberg.org/cache/epub/3300/pg3300.txt"
+    },
+    {
+      "id": "kavram-patrimonyalizm",
+      "tur": "kaynak",
+      "url": "https://archive.org/download/dli.ernet.233771/233771-The%20Theory%20%20Of%20%20Social%20And%20Economic%20Organization_djvu.txt"
+    },
+    {
+      "id": "kavram-silahli-ticaret",
+      "tur": "kaynak",
+      "url": "https://archive.org/download/janpieterszcoenb01coen/janpieterszcoenb01coen_djvu.txt"
+    },
+    {
+      "id": "kavram-somurgesizlesme",
+      "tur": "kaynak",
+      "url": "https://en.wikisource.org/wiki/Declaration_on_the_Granting_of_Independence_to_Colonial_Countries_and_Peoples"
+    },
+    {
+      "id": "kavram-takvim",
+      "tur": "kaynak",
+      "url": "https://la.wikisource.org/wiki/Inter_Gravissimas"
+    },
+    {
+      "id": "kavram-ulus-devlet",
+      "tur": "kaynak",
+      "url": "https://fr.wikisource.org/wiki/Qu%E2%80%99est-ce_qu%E2%80%99une_nation_%3F"
+    },
+    {
+      "id": "kavram-umran",
+      "tur": "kaynak",
+      "url": "https://ar.wikisource.org/wiki/%D9%85%D9%82%D8%AF%D9%85%D8%A9_%D8%A7%D8%A8%D9%86_%D8%AE%D9%84%D8%AF%D9%88%D9%86"
+    },
+    {
+      "id": "kavram-vergi",
+      "tur": "kaynak",
+      "url": "https://www.gutenberg.org/cache/epub/3300/pg3300.txt"
+    },
+    {
+      "id": "kavram-yazi-sistemi",
+      "tur": "kaynak",
+      "url": "https://archive.org/details/orkhoninscriptions"
+    },
+    {
+      "id": "kavram-haracguzarlik",
+      "tur": "sinir"
+    },
+    {
+      "id": "kavram-imparatorluk",
+      "tur": "sinir"
+    },
+    {
+      "id": "kavram-tasavvuf",
+      "tur": "sinir"
+    },
+    {
+      "id": "kavram-veraset",
+      "tur": "sinir"
+    }
+  ],
+  "sorunlar": []
+}

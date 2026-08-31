@@ -20,6 +20,10 @@ ilgili:
   - aktor-marathalar
   - aktor-vijayanagara
 okuma_onerisi: []
+kaynak_siniri: >-
+  “Mandala” tarihsel devletlerin resmî öz-tanımı değil, modern bir siyasal modeldir.
+  Kitabeler ve haraç kayıtları çoklu bağlılık örneklerini gösterebilir; modelin bütün
+  Güneydoğu Asya için geçerli olduğunu tek başlarına doğrulayamaz.
 kaynaklar:
   - anahtar: k1
     tur: ansiklopedi

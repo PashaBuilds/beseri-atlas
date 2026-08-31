@@ -49,6 +49,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "First Turkic Khaganate"
     not: "Farkli dillerin ayni yonetimde kullanildigi ornek"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: kitabe
+    ad: The Orkhon Inscriptions — Thomsen okumasindan E. D. Ross cevirisi (1930)
+    url: https://archive.org/details/orkhoninscriptions
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Orkhon
+    not: Yazitlarin Ingilizce cevirisi ve nesri; yazinin dil, siyasal hitap ve dayanikli malzeme
+      uzerindeki kullanimina birincil ornek. Taslarin kendisi degil bilimsel nesirdir.
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -141,7 +150,7 @@ okurlar için bir sınıflandırma sorunu
 doğurur.
 
 Bir yazının biçimi, o yazının taşındığı
-malzemeden ayrı düşünülemez.[^k3]
+malzemeden ayrı düşünülemez.[^k3][^k4]
 
 ## Bugüne ulaşmanın koşulu
 

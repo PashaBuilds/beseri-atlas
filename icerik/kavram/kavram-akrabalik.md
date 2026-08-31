@@ -44,6 +44,16 @@ kaynaklar:
     erisim_tarihi: 2026-08-26
     dogrulama_dizesi: "NİKÂH"
     not: "Evlilik akdinin kendi maddesi"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: eser
+    ad: Lewis Henry Morgan — Ancient Society (1877), Project Gutenberg tam metni
+    url: https://www.gutenberg.org/files/45950/45950-h/45950-h.htm
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: the lineage in the female line
+    not: Akrabalik terminolojisinin tarihsel birincil metni; Morgan'in tek-cizgili evrim semasi bugun
+      kabul edilmez. Kunyeye, savlarini evrensel olgu diye degil kavram tarihini ve soy yonu
+      ayrimini gostermek icin alindi.
 son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -58,7 +68,7 @@ sayıldığı, toprağın kaç kuşakta parçalanacağını da belirler.**[^k3]
 
 ## Soyun sayıldığı yön
 
-Birinci ayrım soyun hangi yoldan sayıldığıdır.[^k1] Baba yoluyla, ana
+Birinci ayrım soyun hangi yoldan sayıldığıdır.[^k1][^k4] Baba yoluyla, ana
 yoluyla ya da her ikisiyle.
 
 Seçim, kimin hangi gruba ait sayıldığını belirler.[^k2] Aynı çocuk,

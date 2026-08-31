@@ -39,6 +39,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Braudel"
     not: "Toplumu yapisal duzeyde okuyan sonraki bir yaklasim"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: eser
+    ad: Ibn Haldun — Mukaddime, Arapca tam metin
+    url: https://ar.wikisource.org/wiki/%D9%85%D9%82%D8%AF%D9%85%D8%A9_%D8%A7%D8%A8%D9%86_%D8%AE%D9%84%D8%AF%D9%88%D9%86
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: مقدمة ابن خلدون
+    not: Umran kavraminin kaynak metni; modern Turkce karsiliklar metnin kavram alanini tam olarak
+      tuketmez.
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -88,7 +97,7 @@ bir arada kurduğu toplumsal hayatı incelemeye açan geniş bir kavramdır. Yal
 şehir veya medeniyet anlamına indirgenmez; göçebe ve yerleşik hayat biçimleri,
 üretim, otorite, bilgi ve alışkanlıklar aynı araştırma alanına girer. Amaç geçmiş
 haberleri sıralamak değil, toplumların hangi düzenliliklerle kurulup değiştiğini
-anlamaktır.[^k1]
+anlamaktır.[^k1][^k4]
 
 İnsan tek başına ihtiyaçlarını karşılayamadığı için iş bölümü yapar; ortak üretim
 geçim fazlası ve kentleşme yaratabilir. Birlikte yaşamak çatışmayı da doğurduğu

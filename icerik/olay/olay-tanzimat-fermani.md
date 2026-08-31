@@ -38,6 +38,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "BALKAN SAVAŞI"
     not: "Reform döneminin sonundaki toprak kayıpları için"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: belge
+    ad: Gulhane Hatt-i Humayunu (3 Kasim 1839) — donemin Fransizca diplomatik dolasim metni
+    url: https://en.wikisource.org/wiki/The_European_Concert_in_the_Eastern_Question/Appendix_1
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Tanzimat
+    not: Fermanin donem cevirisi; ilan edilen can, mal, vergi ve askerlik guvencelerini dogrudan,
+      uygulanma derecesini ise yalnizca dolayli gosterir. Osmanlica asil degildir.
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -66,7 +75,7 @@ süreç olarak düşünmek gerekir.
 
 1839'da ilan edilen Gülhane Hatt-ı Hümâyunu can, ırz ve mal güvenliğini; verginin
 düzene bağlanmasını; askerlik süresinin belirlenmesini ve yargılama olmadan ceza
-verilmemesini birbiriyle ilişkili vaatler olarak sundu.[^k1] Bunlar ayrı ayrı
+verilmemesini birbiriyle ilişkili vaatler olarak sundu.[^k1][^k4] Bunlar ayrı ayrı
 iyileştirmeler değil, merkezî devlet kapasitesinin bir zinciriydi. Düzenli vergi
 için hane ve servet hakkında bilgi, düzenli askerlik için nüfus kaydı, hukukî
 güvenlik için mahkeme ve eğitimli memur gerekiyordu.

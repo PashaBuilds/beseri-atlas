@@ -53,6 +53,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-25
     dogrulama_dizesi: "Sogdia"
     not: "Giris kapisi; havuz kurali geregi makalede en fazla bir tane"
+  - anahtar: k5
+    tur: birincil
+    birincil_tur: belge
+    ad: Sogdian Ancient Letters 1, 2, 3 ve 5 — Nicholas Sims-Williams cevirisi
+    url: https://depts.washington.edu/silkroad/texts/sogdlet.html
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: The Sogdian Ancient Letters
+    not: MS 313/314 dolaylarina tarihlenen mektuplarin uzman cevirisi; aile, ticaret ve diaspora agina
+      dogrudan erisim verir. Ozgun elyazmasi degil ceviridir.
 son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -127,16 +136,17 @@ vergi konusu, güvenlik meselesi ya da lüks mal kaynağı olarak
 görünür;[^k4] topluluğun kendi iç düzeni bu kayıtların ilgi alanında
 değildir.
 
-## Birincil metin bulunamamıştır
+## Bir tüccar ağını içeriden görmek
 
-Bu bir kısıttır ve künyede gizlenmemiştir.
+MS 313–314 dolaylarına tarihlenen Soğd mektupları, uzak ticaret ağının aile hayatı,
+borç, terk edilme ve savaş haberiyle nasıl iç içe geçtiğini doğrudan gösterir.[^k5]
+Mektuplar yalnız mal dolaşımını değil, Çin içlerine dağılmış insanların birbirinden
+haber alma güçlüğünü ve bu uzaklığın hane üzerindeki bedelini de görünür kılar.
 
-Topluluğun kendi mektupları ve ticari belgeleri bilinmektedir; ancak bu metinlerin
-yayımlanmış derlemeleri ya teliflidir ya da katalog künyesiyle doğrulanabilir tam metin
-olarak sunulmamaktadır.[^k3]
-
-Aynı bölgenin başka dosyalarında birincil metin bulunabilmişken burada bulunamaması,
-konunun önemsizliğinden değil metinlerin dijital erişime geç açılmasından gelir.[^k1]
+Bu metinler bütün Soğd toplumunun tarafsız bir fotoğrafı değildir: korunmuş birkaç
+mektup, belirli yazıcıların kaygılarını taşır ve uzman çevirisi üzerinden okunur. Yine
+de dışarıdan devlet ve coğrafya adları veren kaynakların yanında, topluluğun kendi
+kelimelerine açılan seyrek bir pencere sunar.[^k5]
 
 ## Ağın zayıflaması
 

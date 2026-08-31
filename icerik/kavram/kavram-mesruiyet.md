@@ -90,6 +90,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Montesquieu"
     not: "Yozlasma ve yonetim bicimi tartismasi"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: eser
+    ad: Max Weber — The Theory of Social and Economic Organization (1947 Parsons cevirisi), tam metin
+    url: https://archive.org/download/dli.ernet.233771/233771-The%20Theory%20%20Of%20%20Social%20And%20Economic%20Organization_djvu.txt
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Three Pure Types of Legitimate Authority
+    not: Mesru otorite tipleri, patrimonyal otorite ve burokratik yonetim kesimlerini tasiyan metin. Bu
+      Ingilizce ceviri Almanca aslin kendisi degildir.
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -145,7 +154,7 @@ ve kurumların karar alma usulünün kabul edilebilir sayılmasıdır. Bu ayrım
 istikrarlı görünen bir düzenin neden bir kriz anında hızla çözülüp başka bir
 düzenin baskı kullanmadan süreklilik sağlayabildiğini anlamaya yardım eder.
 
-Weber’in üçlü sınıflandırması, kabulün kaynağını ayırır.[^k1] Geleneksel otorite
+Weber’in üçlü sınıflandırması, kabulün kaynağını ayırır.[^k1][^k4] Geleneksel otorite
 “hep böyle yapıldığı” için; karizmatik otorite lidere olağanüstü nitelikler
 atfedildiği için; akılcı-yasal otorite ise kişiden bağımsız kurallar ve makamlar
 geçerli sayıldığı için işler. Gerçek rejimler çoğu zaman üçünü karıştırır. Seçimle

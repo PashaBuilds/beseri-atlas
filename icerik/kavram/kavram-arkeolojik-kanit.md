@@ -58,6 +58,15 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Foucault"
     not: "Bilgi arkeolojisi terimini kullanan yazar; bagimsiz alan adi"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: kazi
+    ad: M. S. Vats — Excavations at Harappa (1940), Internet Archive tam kazi raporu
+    url: https://archive.org/details/in.ernet.dli.2015.210462
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: Excavations At Harappa
+    not: Maddi buluntunun baglam, tabaka ve katalog kaydiyla kanita donusmesine somut ornek; yazar Vats
+      Madho Sarup.
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -167,7 +176,7 @@ ticareti; [Cahokia](/aktor/cahokia/) yazılı yerel kronik olmadan geniş yerle�
 ve anıtsal emeği; [Kilwa](/aktor/kilva/) maddi kalıntı ile Hint Okyanusu
 bağlantılarını karşılaştırma imkânı verir. Bu örnekler arkeolojinin “yazısız
 toplumların yedeği” olmadığını, yazılı dönemlerde de gündelik hayatı ve resmî
-anlatıyı sınayan bağımsız kanıt ürettiğini gösterir.[^k1]
+anlatıyı sınayan bağımsız kanıt ürettiğini gösterir.[^k1][^k4]
 
 Sağlam bir arkeolojik iddia beş soruya cevap verir: Nesne nerede ve hangi bağlamda
 bulundu? Tarihi hangi yöntemle ve hangi aralıkta belirlendi? Korunma ve örneklem
