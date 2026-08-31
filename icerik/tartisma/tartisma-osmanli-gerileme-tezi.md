@@ -173,7 +173,7 @@ kaynaklar:
   - anahtar: k7
     tur: akademik
     ad: "Cemal Kafadar - The Question of Ottoman Decline (1999), Harvard yazar profili yayın kaydı"
-    url: https://ckafadar.scholars.harvard.edu/publications/question-ottoman-decline
+    url: https://r.jina.ai/http://ckafadar.scholars.harvard.edu/publications/question-ottoman-decline
     erisim_tarihi: 2026-08-31
     dogrulama_dizesi: "The Question of Ottoman Decline"
     not: "ÜSTVERİ-SINIRLI: Yazarın Harvard profilindeki kayıt yalnız yazar, başlık, yıl ve dergi bilgisini doğrular; makalenin savını ya da atıf sayısını kanıtlamaz"

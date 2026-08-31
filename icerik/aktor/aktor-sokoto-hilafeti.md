@@ -55,13 +55,12 @@ kaynaklar:
   - anahtar: k5
     tur: birincil
     birincil_tur: belge
-    ad: Osman dan Fodio — Wathiqa ila Ahl al-Sudan / Declaration of Independence (1806 dolayi),
-      Ingilizce ceviri
-    url: https://siiasi.org/digital-archive/shaykh-uthman-ibn-fuduye/the-declaration-of-independence/
-    erisim_tarihi: 2026-08-30
-    dogrulama_dizesi: Wathiqa Ila Ahl as-Sudan
-    not: Kurucu hareketin normatif programini tasiyan metnin modern Ingilizce cevirisi; tarihlendirme ve
-      ceviri editorun aciklamasina dayanir, uygulamanin tarafsiz kaydi degildir.
+    ad: "A. D. H. Bivar — The Wathiqat Ahl Al-Sudan: a Manifesto of the Fulani Jihad (Journal of African History, 1961)"
+    url: https://api.crossref.org/works/10.1017/S0021853700002449
+    erisim_tarihi: 2026-08-31
+    dogrulama_dizesi: a Manifesto of the Fulani
+    not: Osman dan Fodio'ya atfedilen mektubun akademik transkripsiyon ve İngilizce
+      çevirisini sunar; belge hareketin normatif dilini gösterir, uygulamanın tarafsız kaydı değildir.
 son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
