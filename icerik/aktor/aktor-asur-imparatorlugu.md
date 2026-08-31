@@ -47,11 +47,17 @@ kaynaklar:
     erisim_tarihi: 2026-08-30
     dogrulama_dizesi: "Assyrian empire builders"
   - anahtar: k5
-    tur: ansiklopedi
-    ad: "British Museum — Introducing the Assyrians"
-    url: https://www.britishmuseum.org/blog/introducing-assyrians
+    tur: kitap
+    ad: "OpenStax — World History Volume 1, 4.1 From Old Babylon to the Medes"
+    url: https://openstax.org/books/world-history-volume-1/pages/4-1-from-old-babylon-to-the-medes
     erisim_tarihi: 2026-08-30
-    dogrulama_dizesi: "Introducing the Assyrians"
+    dogrulama_dizesi: "The constant wars of conquest undertaken during the Neo-Assyrian Empire"
+  - anahtar: k6
+    tur: ansiklopedi
+    ad: "World History Encyclopedia — Library of Ashurbanipal"
+    url: https://www.worldhistory.org/Library_of_Ashurbanipal/
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: "The Library of Ashurbanipal"
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -186,7 +192,7 @@ sınırdaki söylentiyi merkeze bildirmesi, görkemli zafer yazıtından farklı
 devlet yüzü gösterir.
 
 Asurbanipal'in Ninova'da toplattığı tabletler ise edebiyat, sözlük, tıp, kehanet
-ve dinsel metinleri bir araya getirdi.[^k5] Bu koleksiyon sayesinde Mezopotamya'nın
+ve dinsel metinleri bir araya getirdi.[^k6] Bu koleksiyon sayesinde Mezopotamya'nın
 daha eski yazı mirasının önemli bölümü korundu. Yine de saray arşivinin hayatta
 kalması, köy ve yoksul hanelerin aynı ölçüde belgelendiği anlamına gelmez;
 bildiklerimiz yönetimin yazmaya değer bulduğu işler lehine eğilimlidir.

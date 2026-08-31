@@ -46,10 +46,10 @@ kaynaklar:
     dogrulama_dizesi: "population_historical"
   - anahtar: k4
     tur: ansiklopedi
-    ad: "Metropolitan Museum of Art — The Year One: Art of the Ancient World East and West"
-    url: https://resources.metmuseum.org/resources/metpublications/pdf/The_Year_One_Art_of_the_Ancient_World_East_and_West.pdf
+    ad: "Columbia University, Asia for Educators — Dong Zhongshu: The Responsibilities of Rulership"
+    url: https://afe.easia.columbia.edu/main_pop/ps/ps_china-dongzhongshu-rulership.htm
     erisim_tarihi: 2026-08-30
-    dogrulama_dizesi: "The Han Empire lasted for four hundred years"
+    dogrulama_dizesi: "Dong Zhongshu played a significant role"
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -122,7 +122,9 @@ cevapların sonucuydu.
 MÖ 141–87 arasında hüküm süren İmparator Wu, Xiongnu'ya karşı seferleri
 yoğunlaştırdı; Hexi Koridoru, Kore yarımadasının kuzeyi ve güneydeki bölgeler
 üzerinde Han denetimini genişletti.[^k1] Saray, aristokrat krallıkları
-parçalarken eğitimli görevlilerden oluşan bürokrasiyi büyüttü.[^k4] Böylece
+parçaladı.[^k1] Aynı dönemde Dong Zhongshu gibi Konfüçyüsçü bilgin-devlet
+görevlileri, hükümdar ile bakanların rollerini tanımlayan bir yönetim dilini
+kurumsallaştırdı.[^k4] Böylece
 sınır güvenliği ile iç merkezileşme aynı hükümdarlıkta birbirini besledi.
 
 Fakat at, silah, erzak, garnizon ve yol maliyeti yüksekti. Devlet gelir sağlamak

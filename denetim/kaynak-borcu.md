@@ -12,9 +12,9 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | Ölçüm | Değer |
 |---|---|
 | Ölçülen makale | 542 |
-| Toplam künye | 2558 |
+| Toplam künye | 2559 |
 | Giriş kapısı kuralını aşan makale | 145 |
-| Birincil kaynağı olmayan makale | 175 |
+| Birincil kaynağı olmayan makale | 174 |
 | Giriş kapısı künyesi payı | 24% |
 
 ## Tipe göre borçlu makale
@@ -49,7 +49,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `aktor-ahamenis-imparatorlugu` | 6 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `aktor-aksum-kralligi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-alman-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `aktor-asur-imparatorlugu` | 5 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-asur-imparatorlugu` | 6 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-avrupa-birligi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-birlesmis-milletler` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `aktor-britanya-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
@@ -59,7 +59,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `aktor-gokturk-kaganligi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-goryeo-choson` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-gupta-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `aktor-han-imparatorlugu` | 4 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-han-imparatorlugu` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `aktor-hansa-birligi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-hitit-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-hun-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
