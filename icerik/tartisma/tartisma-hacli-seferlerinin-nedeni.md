@@ -136,8 +136,8 @@ kaynaklar:
     tur: birincil
     birincil_tur: tanik
     ad: "August C. Krey (der. ve çev.) — The First Crusade: The Accounts of Eye-Witnesses and Participants, 1921, Internet Archive tam metin"
-    url: https://archive.org/download/firstcrusadeacco00kreyuoft/firstcrusadeacco00kreyuoft_djvu.txt
-    erisim_tarihi: 2026-08-29
+    url: https://r.jina.ai/http://archive.org/download/firstcrusadeacco00kreyuoft/firstcrusadeacco00kreyuoft_djvu.txt
+    erisim_tarihi: 2026-08-31
     dogrulama_dizesi: "Manzikert"
     not: "Clermont konusmasinin Fulcher ve Robert the Monk aktarimlari ile derleyicinin girisi; metin 400k'da kesilir, kullanilan bolumler bu sinirin icindedir"
   - anahtar: k4
@@ -178,7 +178,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "A History Of The Crusades by Steven Runciman"
     not: "Odunc kisitli nusha; katalog kaydi kunye duzeyinde (yazar, cilt, yayinci, yil) dogrudan destek verir, eserin icerik iddialarina destek saymaz"
-son_denetim: 2026-08-29
+son_denetim: 2026-08-31
 denetim_durumu: onaylandi
 onarim_turu: 1
 ---

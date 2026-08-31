@@ -1,7 +1,7 @@
 {
   "id": "olay-meksika-fethi",
-  "govde_hash": "e17aa8b7747b",
-  "commit": "92d1168",
+  "govde_hash": "ce69bb0df9e6",
+  "commit": "d5c4b574",
   "zaman": "2026-08-30",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -802,6 +802,12 @@
       "onceki_hash": "f98bcf46df58",
       "yeni_hash": "e17aa8b7747b",
       "gerekce": "kor hakem 2. tur: k11 (Cervera Obregon acik erisim TAM METIN) eklendi; i04 ozet yerine tam metne baglandi; i10 dogrulanamayan tirnakli alintidan arindirilip bolum dizinine indirildi; i08 k9 destegi dogrudan->kismi; i50 ve i53 cerceveleri kaynagin tasidigina indirildi"
+    },
+    {
+      "zaman": "2026-08-31",
+      "onceki_hash": "e17aa8b7747b",
+      "yeni_hash": "ce69bb0df9e6",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
     }
   ]
 }

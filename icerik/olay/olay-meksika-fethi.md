@@ -95,10 +95,10 @@ kaynaklar:
   - anahtar: k10
     tur: akademik
     ad: "Rodrigo Ramos-Zúñiga vd. — 'Traumatic brain injury and the fall of the Aztec empire: 500 years of head injury diagnosis', Surgical Neurology International 12 (2021), 536"
-    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8571178/
-    erisim_tarihi: 2026-08-29
+    url: https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC8571178/unicode
+    erisim_tarihi: 2026-08-31
     dogrulama_dizesi: "an army of nearly 70,000 men"
-    not: "Acik erisim TAM METIN (ozet degil). Makalenin asil konusu Motecuhzoma'nin olum bicimidir; ittifak sayisi ve kaynak ayrismasi arka plan bolumundedir"
+    not: "NCBI'nin resmî BioC servisindeki açık erişimli tam metin (özet değil). Makalenin asıl konusu Motecuhzoma'nın ölüm biçimidir; ittifak sayısı ve kaynak ayrışması arka plan bölümündedir"
   - anahtar: k11
     tur: akademik
     ad: "Marco Antonio Cervera Obregón — 'Los mitos de la conquista de México Tenochtitlan también están en su Historia Militar', Guerra Colonial 7 (2020) — acik erisimli TAM METIN (HTML surumu)"
@@ -106,7 +106,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "no fue el determinante necesario de la conquista"
     not: "k7'deki Crossref kaydinin link dizisindeki acik erisim ucundan gelen tam metin (CC BY-ND). k7'de ozet duzeyinde kalan teknoloji iddiasinin kanit bolumu burada okunabiliyor"
-son_denetim: 2026-08-29
+son_denetim: 2026-08-31
 denetim_durumu: onaylandi
 onarim_turu: 1
 ---

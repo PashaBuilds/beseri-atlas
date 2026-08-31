@@ -1,7 +1,7 @@
 {
   "id": "olay-uzay-yarisi",
-  "govde_hash": "32d87c3c0dd8",
-  "commit": "fdab69c",
+  "govde_hash": "99f81a5b51ec",
+  "commit": "d5c4b574",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -901,5 +901,13 @@
     "kismi": 2,
     "desteksiz": 0,
     "olculemez": 0
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-31",
+      "onceki_hash": "32d87c3c0dd8",
+      "yeni_hash": "99f81a5b51ec",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    }
+  ]
 }

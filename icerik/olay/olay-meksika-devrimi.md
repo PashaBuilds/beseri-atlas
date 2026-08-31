@@ -35,8 +35,8 @@ kaynaklar:
     tur: birincil
     birincil_tur: belge
     ad: "Antenor Sala - Emiliano Zapata y el problema agrario en la Republica Mexicana (Meksika, 1919), Zapata ve sekreteri Manuel Palafox ile yazismalar"
-    url: https://archive.org/download/emilianozapataye00salauoft/emilianozapataye00salauoft_djvu.txt
-    erisim_tarihi: 2026-08-29
+    url: https://r.jina.ai/http://archive.org/download/emilianozapataye00salauoft/emilianozapataye00salauoft_djvu.txt
+    erisim_tarihi: 2026-08-31
     dogrulama_dizesi: "restitución  de  tierras  a  los  pueblos  o  particulares  que"
     not: "Guney Ordusu karargahiyla 1914-1919 arasinda yurutulmus yazismanin kendi tarafinca yayimlanmis derlemesi; Ayala Plani'nin ilkeleri Zapataci kalemden ozetlenir. Taraf metnidir ve oyle kunyelenir"
   - anahtar: k3
@@ -153,7 +153,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "the first large-scale non-Communist expropriation of foreign-owned natural resource assets"
     not: "Kunye ve ozet verisi. Ozet yazarin kendi bulgusunu tazminat konusunda yerlesik yazina karsi kurar; bu bir tez beyanidir, hakem surecinden gecmis bir sonuc olarak degil oyle aktarildi"
-son_denetim: 2026-08-29
+son_denetim: 2026-08-31
 denetim_durumu: onaylandi
 onarim_turu: 1
 ---

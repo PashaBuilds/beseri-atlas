@@ -14,7 +14,7 @@ metin barındırıcıları olarak tanır; tekil kayıtların türü ayrıca kün
 | Ölçüm | Değer |
 |---|---|
 | Ölçülen makale | 542 |
-| Toplam künye | 2561 |
+| Toplam künye | 2562 |
 | Giriş kapısı kuralını aşan makale | 0 |
 | Birincil kanıt taşımayan makale | 30 |
 | Açık kaynak sınırı beyanlı makale | 45 |

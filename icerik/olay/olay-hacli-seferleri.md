@@ -46,12 +46,12 @@ kaynaklar:
     birincil_tur: tanik
     ad: "August C. Krey (der. ve cev.) — The First Crusade: Accounts of Eye-Witnesses and Participants
       (1921)"
-    url: https://archive.org/download/firstcrusadeacco00kreyuoft/firstcrusadeacco00kreyuoft_djvu.txt
-    erisim_tarihi: 2026-08-30
+    url: https://r.jina.ai/http://archive.org/download/firstcrusadeacco00kreyuoft/firstcrusadeacco00kreyuoft_djvu.txt
+    erisim_tarihi: 2026-08-31
     dogrulama_dizesi: Council of Clermont
     not: Clermont konusmasinin birbiriyle ayni olmayan aktarimlarini ve katilimci anlatilarini birlikte
       verir; derleme olaydan yüzyillar sonra basilmistir, tanikliklarin kendisi de taraflidir.
-son_denetim: 2026-08-21
+son_denetim: 2026-08-31
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

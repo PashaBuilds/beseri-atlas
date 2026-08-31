@@ -172,11 +172,11 @@ kaynaklar:
     not: "Turkce hakemli makale; sayfa ozeti ve kaynakcasi (Abou-El-Haj, Darling, Faroqhi, Fleischer, Grant, Hathaway) acik olarak gorunur"
   - anahtar: k7
     tur: akademik
-    ad: "Cemal Kafadar - The Question of Ottoman Decline (1999), Semantic Scholar üst veri kaydı"
-    url: https://api.semanticscholar.org/graph/v1/paper/5ac593cf8de01426500ab0dd0130fecc1faa46fd?fields=title,authors,year,venue,abstract,externalIds,citationCount
-    erisim_tarihi: 2026-08-29
+    ad: "Cemal Kafadar - The Question of Ottoman Decline (1999), Harvard yazar profili yayın kaydı"
+    url: https://ckafadar.scholars.harvard.edu/publications/question-ottoman-decline
+    erisim_tarihi: 2026-08-31
     dogrulama_dizesi: "The Question of Ottoman Decline"
-    not: "USTVERI-SINIRLI: yalniz yazar, baslik, yil ve atif sayisi iddialarina dogrudan destek verir. Anahtarsiz katman hiz sinirina tabidir"
+    not: "ÜSTVERİ-SINIRLI: Yazarın Harvard profilindeki kayıt yalnız yazar, başlık, yıl ve dergi bilgisini doğrular; makalenin savını ya da atıf sayısını kanıtlamaz"
   - anahtar: k8
     tur: akademik
     ad: "Cemal Kafadar - The Myth of the Golden Age (2010), Crossref üst veri kaydı"
@@ -219,7 +219,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "Islamic society in decline"
     not: "USTVERI-SINIRLI: baslik, yazar, dergi, yil, cilt ve sayfa araligi dogrudan; yazinin icerigine dair iddia yapilmadi. Baslikta formulun tirnak ve soru isaretiyle karsilanmasi iddianin tamamidir"
-son_denetim: 2026-08-29
+son_denetim: 2026-08-31
 denetim_durumu: onaylandi
 onarim_turu: 1
 ---
@@ -313,9 +313,9 @@ büyüyordu.[^k1]
 ## Reddiye: 1980'lerden bu yana
 
 Karşı akım bir metinle değil, birbirini izleyen çalışmalarla kuruldu.
-Cemal Kafadar'ın 1999 tarihli The Question of Ottoman Decline başlıklı yazısı
-soruyu daha adında ortaya koyar; üst veri kaydı yazıya 81 atıf yapıldığını
-gösterir.[^k7] Kafadar aynı sorunun kaynağını başka bir
+Cemal Kafadar'ın Harvard profilindeki yayın kaydı, 1999 tarihli *The Question
+of Ottoman Decline* yazısının yazarını, başlığını ve dergisini doğrular; yazı
+soruyu daha adında ortaya koyar.[^k7] Kafadar aynı sorunun kaynağını başka bir
 yazısında doğrudan adlandırır: 2010'da yayımlanan bölümün başlığı, Süleyman
 sonrası Osmanlı tarih bilincindeki altın çağ mitini konu edinir.[^k8] Dana
 Sajdi'nin 2007 tarihli Ottoman Tulips, Ottoman Coffee derlemesine yazdığı

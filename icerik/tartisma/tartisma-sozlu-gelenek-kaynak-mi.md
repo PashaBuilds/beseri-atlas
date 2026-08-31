@@ -180,16 +180,16 @@ kaynaklar:
   - anahtar: k9
     tur: akademik
     ad: "Ruth Finnegan — Oral Literature in Africa (1970; acik erisimli 2012 basimi)"
-    url: https://archive.org/download/OralLiteratureInAfrica/OralLiteratureInAfrica_djvu.txt
-    erisim_tarihi: 2026-08-29
+    url: https://r.jina.ai/http://archive.org/download/OralLiteratureInAfrica/OralLiteratureInAfrica_djvu.txt
+    erisim_tarihi: 2026-08-31
     dogrulama_dizesi: "Oral Literature in Africa"
     not: "Tam metin (djvu, 400k sinirinda kesilir); icra vurgusu ve Goody-Watt 1963 atfi icin kullanildi"
   - anahtar: k10
     tur: birincil
     birincil_tur: kazi
     ad: "David Randall-MacIver — Mediaeval Rhodesia (1906)"
-    url: https://archive.org/download/medivalrhodesia00rand/medivalrhodesia00rand_djvu.txt
-    erisim_tarihi: 2026-08-29
+    url: https://r.jina.ai/http://archive.org/download/medivalrhodesia00rand/medivalrhodesia00rand_djvu.txt
+    erisim_tarihi: 2026-08-31
     dogrulama_dizesi: "RANDALL-MACIVER"
     not: "Buyuk Zimbabve kazilarinin raporu; tam metin"
   - anahtar: k11
@@ -200,7 +200,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "Polynesian"
     not: "Soy zincirlerini kronoloji olarak kullanan on dokuzuncu yuzyil calismasinin kendisi; tam metin (400k sinirinda kesilir)"
-son_denetim: 2026-08-29
+son_denetim: 2026-08-31
 denetim_durumu: onaylandi
 onarim_turu: 1
 ---

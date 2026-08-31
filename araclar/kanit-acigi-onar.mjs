@@ -121,7 +121,7 @@ const KAYNAKLAR = {
   krey: {
     tur: 'birincil', birincil_tur: 'tanik',
     ad: 'August C. Krey (der. ve cev.) — The First Crusade: Accounts of Eye-Witnesses and Participants (1921)',
-    url: 'https://archive.org/download/firstcrusadeacco00kreyuoft/firstcrusadeacco00kreyuoft_djvu.txt',
+    url: 'https://r.jina.ai/http://archive.org/download/firstcrusadeacco00kreyuoft/firstcrusadeacco00kreyuoft_djvu.txt',
     erisim_tarihi: BUGUN,
     dogrulama_dizesi: 'Council of Clermont',
     not: 'Clermont konusmasinin birbiriyle ayni olmayan aktarimlarini ve katilimci anlatilarini birlikte verir; derleme olaydan yüzyillar sonra basilmistir, tanikliklarin kendisi de taraflidir.',

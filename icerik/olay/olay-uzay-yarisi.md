@@ -43,8 +43,8 @@ kaynaklar:
   - anahtar: k3
     tur: kitap
     ad: "Asif A. Siddiqi - Challenge to Apollo: The Soviet Union and the Space Race, 1945-1974 (NASA SP-2000-4408) tam metin"
-    url: https://archive.org/download/nasa_techdoc_20000088626/20000088626_djvu.txt
-    erisim_tarihi: 2026-08-29
+    url: https://r.jina.ai/http://archive.org/download/nasa_techdoc_20000088626/20000088626_djvu.txt
+    erisim_tarihi: 2026-08-31
     dogrulama_dizesi: "Sputnik"
     not: "Metin 400k sinirinda kesiliyor; kullanilan bolumler kesme oncesinde"
   - anahtar: k4
@@ -77,7 +77,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "Public opinion polls and perceptions of US human spaceflight"
     not: "Yalnizca bibliyografik kayit; makale metni acik erisimde degil"
-son_denetim: 2026-08-29
+son_denetim: 2026-08-31
 denetim_durumu: onaylandi
 onarim_turu: 1
 ---
@@ -321,4 +321,3 @@ aynı yaşta değildir. [1945-1991](/donem/14/) dönemi içinde bu rekabet,
 gerilimin en görünür ve en pahalı cephesiydi; teknolojinin kendi başına bir
 yön belirleyip belirlemediği sorusu ise
 [ayrı bir tartışma](/tartisma/teknolojik-belirlenimcilik/) olarak durur.
-

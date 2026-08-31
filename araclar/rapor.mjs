@@ -33,6 +33,21 @@ export function raporUret() {
   const mf = metrikDosyasi();
   const gecmis = mf.ornekleme_gecmisi || [];
   const son = gecmis.length ? gecmis[gecmis.length - 1] : null;
+  let sonKapi = null;
+  let olculemeyenKaynak = null;
+  let hakemYenileme = null;
+  try {
+    sonKapi = JSON.parse(oku(path.join(KOK, 'denetim', 'kapi-sonucu.json')));
+  } catch { /* İlk koşuda rapor dosyası henüz bulunmayabilir. */ }
+  try {
+    olculemeyenKaynak = Object.keys(JSON.parse(oku(path.join(KOK, 'denetim', 'olculemeyen.json')))).length;
+  } catch { /* Kaynak canlılığı henüz çalışmadıysa sayı bilinmiyor. */ }
+  try {
+    const eslesme = /Yenilenecek matris: \*\*(\d+)\*\*/.exec(
+      oku(path.join(KOK, 'denetim', 'hakem-yenileme-borcu.md')),
+    );
+    if (eslesme) hakemYenileme = Number(eslesme[1]);
+  } catch { /* Matris yenileme listesi henüz üretilmemiş olabilir. */ }
 
   const onayli = makaleler.filter((m) => m.fm.denetim_durumu === 'onaylandi');
   const karantina = varMi(path.join(KOK, 'karantina'))
@@ -125,15 +140,40 @@ export function raporUret() {
   s.push('gösterir. Türetilemeyen iddialar çürütülmemiştir; hiç ölçülememiştir.');
   s.push('Bu ayrımı gizlemek, hattın kendi kendini kandırması olurdu.', '');
 
-  s.push('## Zayıf noktalar', '');
+  s.push('## Açık borç ve ölçüm sınırları', '');
+  if (sonKapi) {
+    const kapiHata = (sonKapi.kapilar || []).reduce((n, k) => n + (k.hata || 0), 0);
+    const kapiUyari = (sonKapi.kapilar || []).reduce((n, k) => n + (k.uyari || 0), 0);
+    s.push(`Son kalite koşusu: **${sonKapi.gecti ? 'geçti' : 'kırıldı'}** · `
+      + `${kapiHata} hata · ${kapiUyari} uyarı.`);
+  } else {
+    s.push('Son kalite koşusunun makine okunur sonucu bulunamadı.');
+  }
+  if (olculemeyenKaynak !== null) {
+    s.push(`Kaynak canlılığı defterinde ölçülemeyen URL: **${olculemeyenKaynak}**.`);
+  }
+  if (hakemYenileme !== null) {
+    s.push(`Yenilenmeyi bekleyen kör-hakem matrisi: **${hakemYenileme}**.`);
+  }
+  s.push(`Sert çapraz-tutarlılık çelişkisi: **${met.capraz_celiski}**.`, '');
+
+  if (sonKapi?.gecti && olculemeyenKaynak === 0 && hakemYenileme === 0
+    && met.capraz_celiski === 0 && karantina.length === 0) {
+    s.push('Kalite kapılarının tanımladığı güncel yapısal borç bu koşuda **0**.', '');
+  } else {
+    s.push('Yukarıdaki sıfırdan büyük değerler güncel müdahale listesidir.', '');
+  }
+
+  s.push('Bu sonuç, her tarihsel cümlenin kesinleştiği anlamına gelmez. Geçiş 2’deki',
+    `**${met.dogrulama_detay.isaret} İŞARET** ve **${met.dogrulama_detay.atomsuz} programatik olarak ölçülemeyen**`,
+    'iddia, otomatik ölçüm kapasitesinin görünür sınırıdır; çürütme ya da build',
+    'borcu sayılmaz. Kaynaklar arasındaki gerçek ayrışmalar da metinde ayrışma',
+    'olarak korunur, keyfî biçimde tek cevaba indirilmez.', '');
+
   const mud = path.join(KOK, 'denetim', 'MUDAHALE-GEREKLI.md');
   if (varMi(mud)) {
-    s.push('Ayrıntılı liste `denetim/MUDAHALE-GEREKLI.md` dosyasındadır. Başlıklar:', '');
-    for (const satir of oku(mud).split('\n')) {
-      const m = /^### (.+)$/.exec(satir);
-      if (m) s.push(`- ${m[1]}`);
-    }
-    s.push('');
+    s.push('`denetim/MUDAHALE-GEREKLI.md` geçmiş koşuların append-only çalışma',
+      'günlüğüdür; içindeki kapanmış olay başlıkları güncel açık iş listesi değildir.', '');
   }
   if (karantina.length) {
     s.push(`### Karantina (${karantina.length})`, '');

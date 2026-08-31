@@ -96,9 +96,8 @@ serit:
   - bolge: okyanusya
     baslik: Pasifik'in son büyük yerleşimi
     satir: >-
-      Aotearoa'ya yerleşim bu dönemde gerçekleşti; Avustronezya yayılmasının en
-      geç ulaştığı büyük kara parçası, beş yüzyıl içinde kendi siyasi düzenini
-      kurdu.
+      Aotearoa'ya yerleşim bu dönemde gerçekleşti; çalışma Kuzey Adası'ndaki ilk
+      yerleşimi MS 1250–1275'e, Güney Adası'na ulaşmayı MS 1280–1295'e tarihler.
     anahtar: k4
 
 kaynaklar:
@@ -123,12 +122,13 @@ kaynaklar:
     dogrulama_dizesi: "population_historical"
   - anahtar: k4
     tur: akademik
-    ad: Petchey vd. — A new chronology for the Māori settlement of Aotearoa, PNAS
-    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9674228/
-    erisim_tarihi: 2026-08-30
-    dogrulama_dizesi: A new chronology for the Māori settlement of Aotearoa
-    not: Hakemli acik erisim calisma 1.558 radyokarbon tarihini yeniden modeller; kronolojinin
-      arkeolojik kanit sinirlarini aciklar.
+    ad: Bunbury, Petchey ve Bickler — A new chronology for the Māori settlement of Aotearoa (NZ), JCU ResearchOnline
+    url: https://researchonline.jcu.edu.au/76732/
+    erisim_tarihi: 2026-08-31
+    dogrulama_dizesi: A new chronology for the Māori settlement of Aotearoa (NZ)
+    not: Hakemli makalenin kurumsal arşiv kaydı ve özeti; deniz ve kara
+      radyokarbon yaşlarıyla yerleşimi 13. yüzyıl ortası-sonuna tarihler, seyir
+      yöntemini açıklamaz.
   - anahtar: k5
     tur: birincil
     birincil_tur: tanik
@@ -144,7 +144,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-26
     dogrulama_dizesi: "İBN BATTÛTA"
     not: "Taniklik metninin yazilis surecine dair"
-son_denetim: 2026-08-30
+  - anahtar: k7
+    tur: akademik
+    ad: "University of Hawaiʻi at Mānoa — Wayfinding and Navigation"
+    url: https://manoa.hawaii.edu/exploringourfluidearth/physical/navigation-and-transportation/wayfinding-and-navigation
+    erisim_tarihi: 2026-08-31
+    dogrulama_dizesi: "Veteran Polynesian voyagers rely on their knowledge of the stars, waves, weather, and wildlife"
+    not: "Geleneksel Polinezya seyir bilgisinin yıldız, dalga, hava ve canlı gözlemlerine dayandığını ve kuşaklar arasında sözlü aktarıldığını açıklayan üniversite eğitim kaynağı; belirli bir Aotearoa yerleşim tarihini kanıtlamaz."
+son_denetim: 2026-08-31
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -397,26 +404,28 @@ bir bölgenin hareketinden gelir.[^k1]
 
 ## Okyanusya'daki eşzamanlı yerleşim
 
-Aynı yüzyıllarda okyanusun uzak bir ada grubuna yerleşim
-tamamlandı.[^k4] Yerleşim, uzun mesafeli deniz seyri
-gerektiriyordu.
+Aynı yüzyıllarda okyanusun uzak bir kara parçasında Aotearoa yerleşimi başladı;
+çalışma Kuzey Adası'ndaki ilk yerleşimi MS 1250–1275, Güney Adası'na ulaşmayı
+MS 1280–1295 aralığına tarihler.[^k4] Yerleşim, uzun mesafeli deniz seyri
+gerektiriyordu.[^k7]
 
-Bu, Avrasya ağından bağımsız bir başarıdır.[^k4] İki hareket birbirini
-bilmiyordu.
+Bu karşılaştırma bir nedensellik iddiası değildir: kronoloji çalışması yalnız
+Aotearoa yerleşimini tarihler, Avrasya ile bir bağlantı kurmaz.[^k4]
 
 Bir dönemin bütün bölgeleri aynı
 ağın parçası olmak zorunda değildir.[^k1]
 
 ## Aletsiz seyir
 
-Bu yerleşimi mümkün kılan seyir yöntemi, alet kullanmadan
-işliyordu.[^k4] Yıldız, dalga ve kuş gözlemi birlikte
-kullanılıyordu.
+Bu yerleşimi mümkün kılan geleneksel seyir bilgisi, modern araçlara dayanmadan
+işliyordu.[^k7] Yıldız, dalga, hava ve kuş gözlemi birlikte
+kullanılıyordu.[^k7]
 
-Yöntem sözlü olarak aktarılıyordu.[^k5] Yazılı kaydı yoktu.
+Bilgi, deneyimli seyircilerden yeni kuşaklara gözlem ve sözlü aktarım yoluyla
+öğretiliyordu.[^k7]
 
 Bir bilginin yazılı kaydının bulunmaması, o bilginin
-sistematik olmadığını göstermez.[^k6]
+sistematik olmadığını göstermez.[^k7]
 
 ## Kaydın durumu
 
@@ -732,8 +741,9 @@ ilk uzun dönem budur.
 ## Şeridin Okyanusya satırı
 
 Bu dönemin şeridine Okyanusya satırı, Aotearoa'ya yerleşimin bu yüzyıllarda
-gerçekleşmesi nedeniyle eklendi.[^k4] Avustronezya yayılmasının en geç
-ulaştığı büyük kara parçası, beş yüzyıl içinde kendi siyasi düzenini kurdu.
+gerçekleşmesi nedeniyle eklendi.[^k4] Çalışmanın verdiği tarihler, yerleşimin
+Kuzey Adası'ndan Güney Adası'na yaklaşık bir kuşak içinde yayıldığını
+gösterir.[^k4]
 
 Bölgenin öteki ada gruplarının bu yüzyıllardaki durumu, mevcut kaynak seçkisinin
 dışında kalmaktadır.[^k4]

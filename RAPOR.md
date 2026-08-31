@@ -21,7 +21,7 @@ birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.
 | tartisma | 40 |
 | veri | 25 |
 
-Toplam gövde: **583.134** kelime.
+Toplam gövde: **583.163** kelime.
 
 ### Derinlik (§3 uzunluk hedefi)
 
@@ -65,28 +65,23 @@ Aradaki fark, korpusun yanlışlığını değil **ölçüm kapasitesinin sını
 gösterir. Türetilemeyen iddialar çürütülmemiştir; hiç ölçülememiştir.
 Bu ayrımı gizlemek, hattın kendi kendini kandırması olurdu.
 
-## Zayıf noktalar
+## Açık borç ve ölçüm sınırları
 
-Ayrıntılı liste `denetim/MUDAHALE-GEREKLI.md` dosyasındadır. Başlıklar:
+Son kalite koşusu: **geçti** · 0 hata · 0 uyarı.
+Kaynak canlılığı defterinde ölçülemeyen URL: **0**.
+Yenilenmeyi bekleyen kör-hakem matrisi: **0**.
+Sert çapraz-tutarlılık çelişkisi: **0**.
 
-- 1. Bağımsız yeniden türetme için doğrulanabilir kaynak yetersiz
-- 2. Çözülemeyen tarih ayrışması: Warren Thompson
-- 3. Osmanlı kuruluş tarihi: 1299 mu 1300 mü?
-- Tanı — neden 0.875?
-- Yapılan onarım denemesi
-- UYGULANMAYAN onarım — bilerek kullanıcıya bırakılıyor
-- Durum
-- Karar alındı ve uygulandı — 2026-08-21
-- Bulgu
-- Yapılan
-- YAPILMAYAN — editoryal karar gerekiyor
-- Çözüm — 2026-08-23, aynı gün
-- Çözüm — 2026-08-25, aynı gün
-- 2026-08-25 — kendi actigim gorunur kusur duzeltildi
-- 2026-08-25 (ikinci tur) — Okyanusya borcunun ilk gercek odemesi
-- 2026-08-25 (ucuncu tur) — bir onceki turda acilan borc kapatildi
-- 2026-08-25 (dorduncu tur) — kapilarin denetlemedigi bir alan
-- 2026-08-25 — KAPI 15'te tek sozcuklu cekirdek sorunu
+Kalite kapılarının tanımladığı güncel yapısal borç bu koşuda **0**.
+
+Bu sonuç, her tarihsel cümlenin kesinleştiği anlamına gelmez. Geçiş 2’deki
+**82 İŞARET** ve **13358 programatik olarak ölçülemeyen**
+iddia, otomatik ölçüm kapasitesinin görünür sınırıdır; çürütme ya da build
+borcu sayılmaz. Kaynaklar arasındaki gerçek ayrışmalar da metinde ayrışma
+olarak korunur, keyfî biçimde tek cevaba indirilmez.
+
+`denetim/MUDAHALE-GEREKLI.md` geçmiş koşuların append-only çalışma
+günlüğüdür; içindeki kapanmış olay başlıkları güncel açık iş listesi değildir.
 
 Karantinaya alınan makale yok.
 

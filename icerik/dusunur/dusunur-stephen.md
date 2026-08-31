@@ -68,8 +68,8 @@ kaynaklar:
     tur: birincil
     birincil_tur: belge
     ad: "James Fitzjames Stephen, An Introduction to the Indian Evidence Act — onsoz ve 5 Mart 1872 konusmasi"
-    url: https://archive.org/download/in.ernet.dli.2015.501511/2015.501511.An-Introduction_djvu.txt
-    erisim_tarihi: 2026-08-29
+    url: https://r.jina.ai/http://archive.org/download/in.ernet.dli.2015.501511/2015.501511.An-Introduction_djvu.txt
+    erisim_tarihi: 2026-08-31
     dogrulama_dizesi: "On the 5th March 1872, in moving that the"
     not: "Stephen'in Hindistan Yasama Konseyi'ndeki yasalastirma isini kendi agzindan anlattigi metin; 1902 yeniden basimi"
   - anahtar: k7
@@ -80,7 +80,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "proposed and elected chairman"
     not: "Jamaika Komitesi'nin kurulusu ve Eyre kovusturmasi Mill'in kendi anlatisiyla"
-son_denetim: 2026-08-29
+son_denetim: 2026-08-31
 denetim_durumu: bekliyor
 onarim_turu: 0
 ---

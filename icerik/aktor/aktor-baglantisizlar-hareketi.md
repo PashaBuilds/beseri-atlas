@@ -59,8 +59,8 @@ kaynaklar:
     tur: birincil
     birincil_tur: belge
     ad: "The Nonaligned Movement: India's Chairmanship and Relations with the Superpowers — CIA İstihbarat Müdürlüğü muhtırası, Mart 1983"
-    url: https://archive.org/download/cia-readingroom-document-cia-rdp85t00287r000700650001-5/cia-rdp85t00287r000700650001-5_djvu.txt
-    erisim_tarihi: 2026-08-29
+    url: https://r.jina.ai/http://archive.org/download/cia-readingroom-document-cia-rdp85t00287r000700650001-5/cia-rdp85t00287r000700650001-5_djvu.txt
+    erisim_tarihi: 2026-08-31
     dogrulama_dizesi: "The 97-member Nonaligned Movement (NAM) will hold its triennial summit"
     not: "ABD karar alıcıları için yazılmış, kanaat bildiren kayıtlarla ve büyükelçilik raporlarına atıfla kurulmuş istihbarat değerlendirmesi; dağıtım listesi Dışişleri, Hazine, Savunma ve BM temsilciliğini gösterir. Sayfalarının bir bölümü 25X1 işaretiyle karartılıdır ve bir sayfası hiç açıklanmamıştır"
   - anahtar: k6
@@ -92,7 +92,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "The institutional framework, the NAM is still functioning"
     not: "Üstveri kaydı: makalenin savı yalnızca abstract alanı kadar taşınır, tam metne erişilmedi; içerik iddiaları kısmi işaretlidir. Yazar ikincil veriyle çalıştığını kendisi belirtir"
-son_denetim: 2026-08-29
+son_denetim: 2026-08-31
 denetim_durumu: onaylandi
 onarim_turu: 1
 ---

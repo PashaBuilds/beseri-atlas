@@ -27,22 +27,22 @@ kaynaklar:
     tur: birincil
     birincil_tur: kazi
     ad: "Scientific Reports (2025) — Strontium and oxygen isotope analysis reveals changing connections to place and group membership in the world's earliest village societies"
-    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12494774/
-    erisim_tarihi: 2026-08-30
+    url: https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC12494774/unicode
+    erisim_tarihi: 2026-08-31
     dogrulama_dizesi: "Pre-Pottery Neolithic A (PPNA)"
     not: "Kuzey Suriye dizisi için evre sınırları ve çanak çömleğin Geç Neolitik'te yerleşmesi"
   - anahtar: k2
     tur: akademik
     ad: "Science Advances (2022) — A genomic snapshot of demographic and cultural dynamism in Upper Mesopotamia during the Neolithic Transition"
-    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9635823/
-    erisim_tarihi: 2026-08-30
+    url: https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC9635823/unicode
+    erisim_tarihi: 2026-08-31
     dogrulama_dizesi: "uninterrupted stratigraphy"
     not: "Çayönü tabakalanması, Yukarı Mezopotamya ehlîleştirmeleri ve Orta Anadolu'daki farklı adlandırma"
   - anahtar: k3
     tur: akademik
     ad: "Proceedings of the National Academy of Sciences (2025) — A 12,000-year-old clay figurine of a woman and a goose marks symbolic innovations in Southwest Asia"
-    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12663996/
-    erisim_tarihi: 2026-08-30
+    url: https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC12663996/unicode
+    erisim_tarihi: 2026-08-31
     dogrulama_dizesi: "earliest baked pottery in the Levant"
     not: "Kilin kap üretiminden önce biçimlendirilmesi ve Levant'ta pişmiş kabın tarihi"
   - anahtar: k4
@@ -62,11 +62,11 @@ kaynaklar:
   - anahtar: k6
     tur: akademik
     ad: "Proceedings of the National Academy of Sciences (2018) — The impact of environmental change on the use of early pottery by East Asian hunter-gatherers"
-    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6077741/
-    erisim_tarihi: 2026-08-30
+    url: https://r.jina.ai/http://www.pnas.org/doi/10.1073/pnas.1803782115
+    erisim_tarihi: 2026-08-31
     dogrulama_dizesi: "first invented by hunter-gatherers in East Asia"
     not: "Çanak çömleğin Doğu Asya'da avcı-toplayıcılarca ve tarımdan önce icadı"
-son_denetim: 2026-08-30
+son_denetim: 2026-08-31
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---

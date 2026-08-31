@@ -1,7 +1,7 @@
 {
   "id": "tartisma-osmanli-gerileme-tezi",
-  "govde_hash": "c99167cd60d6",
-  "commit": "889239af",
+  "govde_hash": "95fa28baaea9",
+  "commit": "d5c4b574",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -203,7 +203,7 @@
     },
     {
       "iddia_id": "i15",
-      "cumle": "Cemal Kafadar'ın 1999 tarihli The Question of Ottoman Decline başlıklı yazısı soruyu daha adında ortaya koyar; üst veri kaydı yazıya 81 atıf yapıldığını gösterir.",
+      "cumle": "Cemal Kafadar'ın Harvard profilindeki yayın kaydı, 1999 tarihli The Question of Ottoman Decline yazısının yazarını, başlığını ve dergisini doğrular; yazı soruyu daha adında ortaya koyar.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -213,7 +213,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Ustveri kaydi baslik, yazar, yil ve 81 atif alanini tasir; icerik iddiasi yapilmadi."
+      "inceleme": "Yazarın resmî Harvard profilindeki yayın kaydı başlık, yazar, yıl ve dergiyi doğrudan doğrular; içerik ve atıf sayısı iddiası yapılmadı."
     },
     {
       "iddia_id": "i16",
@@ -637,6 +637,12 @@
       "zaman": "2026-08-30",
       "onceki_hash": "9ea4062c5873",
       "yeni_hash": "c99167cd60d6",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    },
+    {
+      "zaman": "2026-08-31",
+      "onceki_hash": "c99167cd60d6",
+      "yeni_hash": "95fa28baaea9",
       "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
     }
   ]

@@ -81,11 +81,11 @@ kaynaklar:
     not: "Savunma Bakanligi kayit dosyasinin arsive devredilmis hali, 29 Nisan 2008 itibariyla guncel. Arsiv her tablonun altina 'yalnizca bilgilendirme icin, resmi istatistik degil' uyarisini duser. Onceki dosyayla 27 kayitlik fark ile tarih alani degisikligi kaynakta AYRI iki degisiklik olarak yazilir"
   - anahtar: k8
     tur: akademik
-    ad: "Obermeyer, Murray, Gakidou - Fifty years of violent war deaths from Vietnam to Bosnia (BMJ 2008, PMC tam metin)"
-    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2440905/
-    erisim_tarihi: 2026-08-29
+    ad: "Obermeyer, Murray, Gakidou - Fifty years of violent war deaths from Vietnam to Bosnia (BMJ 2008, tam metin)"
+    url: https://r.jina.ai/http://www.bmj.com/content/336/7659/1482
+    erisim_tarihi: 2026-08-31
     dogrulama_dizesi: "3.8 million in Vietnam"
-    not: "Dunya Saglik Anketi kardes-olumu verisine dayanan tahmin. Vietnam icin 3.812 bin, %95 guven araligi 2.207-5.942 bin; 13 ulke toplami 5.393 bin (2.997-8.697). Calismanin kendi cekinceleri: yalnizca dogrudan siddet olumleri, Vietnam tahmini 290 kardes savas olumu kaydina dayanir, anket savas olumu icin tasarlanmamistir. Uppsala/PRIO ayni ulke-donem icin 2.096 bin"
+    not: "BMJ'nin bot korumalı sayfasının Jina Reader üzerinden okunabilen tam metni. Dünya Sağlık Anketi kardeş-ölümü verisine dayanan tahmin; Vietnam için 3.812 bin, %95 güven aralığı 2.207-5.942 bin; 13 ülke toplamı 5.393 bin (2.997-8.697). Çalışmanın kendi çekinceleri: yalnızca doğrudan şiddet ölümleri, Vietnam tahmini 290 kardeş savaş ölümü kaydına dayanır, anket savaş ölümü için tasarlanmamıştır. Uppsala/PRIO aynı ülke-dönem için 2.096 bin"
   - anahtar: k9
     tur: birincil
     birincil_tur: belge
@@ -94,7 +94,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "herbicide agent"
     not: "Savasin ABD hukukundaki en uzun omurlu kalintisi: (c) fikrasindaki curutulebilir maruziyet karinesi, (a)(2) fikrasindaki on uc hastalik ve (d) fikrasindaki bes maddelik kapsam cografyasi. Kapsam Vietnam icin 1975'te biter ama Guam/Amerikan Samoasi icin 1980'e uzanir"
-son_denetim: 2026-08-29
+son_denetim: 2026-08-31
 denetim_durumu: onaylandi
 onarim_turu: 1
 ---

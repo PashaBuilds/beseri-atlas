@@ -24,8 +24,8 @@ kaynaklar:
     tur: birincil
     birincil_tur: eser
     ad: "Shu King (Belgeler Kitabı), çev. James Legge, Sacred Books of the East III, ikinci basım 1899 — tam metin"
-    url: https://archive.org/download/sacredbooksofeas0003jame/sacredbooksofeas0003jame_djvu.txt
-    erisim_tarihi: 2026-08-29
+    url: https://r.jina.ai/http://archive.org/download/sacredbooksofeas0003jame/sacredbooksofeas0003jame_djvu.txt
+    erisim_tarihi: 2026-08-31
     dogrulama_dizesi: "the decree in his favour fell to the ground"
     not: "Kullanılan bölümler: Şao Dükü'nün Bildirisi (Zhou kitapları) ve Thang'ın Bildirisi (Shang kitapları). Legge'nin kendi girişi kitabın bölümlerinin güvenilirliğini ayrı ayrı tartışır; Thang'ın Bildirisi'ne dayanan cümle, olayın değil metnin ne söylediğinin kaydıdır."
   - anahtar: k2
@@ -72,7 +72,7 @@ kaynaklar:
     not: "Crossref kaydı; iddialar yayıncının özetinden alınmıştır, makalenin tam metni okunmamıştır."
 kaynak_siniri: >-
   Kavramın sınırlarını veren karşı-argüman bölümü, tam metin yerine üstveri kayıtlarına dayanıyor. Klasik Çince birincil metinler için havuzda çalışan kanal yok: ctext.org bot doğrulaması döndürüyor ve Belgeler Kitabı'nın Wikisource çevirisi bulunamadı. Şang'ın kurucusuna atfedilen bildiri de metnin tartışmalı "eski metin" bölümlerindendir; gövde bunu ayrıca yazar.
-son_denetim: 2026-08-29
+son_denetim: 2026-08-31
 denetim_durumu: onaylandi
 onarim_turu: 1
 ---
