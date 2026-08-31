@@ -368,11 +368,25 @@
       ],
       "guven": "orta",
       "inceleme": "Katalog kaydindaki bolum listesi Census, map, museum basligini iceriyor; bolum icerigi gorulmedi"
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "Aktör dosyalarındaki her sınır çizimi, denetimin niteliğine dair örtük bir iddiadır: çizgi çizmek, çizginin içindeki her köyün aynı otoriteye aynı biçimde bağlı olduğunu söylemektir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 sınır çizgisinin farklı denetim biçimlerini tek yüzeye indirme sorununu destekler; her çizimin örtük iddia taşıdığı ifade yöntemsel sonuçtur."
     }
   ],
   "sayaclar": {
     "dogrudan": 24,
-    "kismi": 2,
+    "kismi": 3,
     "desteksiz": 0,
     "olculemez": 0
   },

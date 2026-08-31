@@ -51,19 +51,16 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Nerede durduğu
 
-Maldiv Sultanlığı, Hint Okyanusu'nun ortasında, kıtalardan uzak bir
-takımadada kurulmuş siyasi birimdir.[^k1][^k3] Korpusun bölge şemasında Güney
-Asya, İslam dünyası ve Afrika etiketlerini birden taşır.
+Maldiv Sultanlığı, Hint Okyanusu'nun ortasında, kıtalardan uzak bir takımadada kurulmuş
+siyasi birimdir.[^k1][^k3]
 
 Üç bölge etiketi taşımasının sebebi coğrafya değil ekonomidir.[^k1] Adaların
 ürettiği mal, üç bölgede birden dolaşımdaydı ve adaları hepsine bağlıyordu.
 
-Bu incelemenin ayırt edici yanı budur. Toprağı, madeni ve tarımı olmayan bir
-düzenin, kendisinden çok uzaktaki ekonomilerin işleyişine doğrudan katkı
-yapmasıdır.[^k3]
+Toprağı, madeni ve tarımı olmayan bir düzenin, kendisinden çok uzaktaki ekonomilerin
+işleyişine doğrudan katkı yapmasıdır.[^k3]
 
 ## Deniz kabuğunun para olması
 
@@ -75,9 +72,8 @@ Bir malın para olarak iş görmesi için üç şart gerekir: bölünebilir olma
 taşınabilir olması ve çoğaltılamaması.[^k1] Kabuk üçünü de sağlıyordu; taklit
 edilemiyordu çünkü tek bir yerde doğal olarak bulunuyordu.
 
-Korpusun [Para](/kavram/para/) dosyası bu kavramı genel biçimiyle ele alır.
-Burada somut hâli, bir para biriminin arzını tek bir küçük siyasi düzenin
-elinde tutmasıdır.[^k3]
+Burada somut hâli, bir para biriminin arzını tek bir küçük siyasi düzenin elinde
+tutmasıdır.[^k3]
 
 ## Arz denetiminin sınırı
 
@@ -88,8 +84,7 @@ Aradaki fark önemlidir. Üretici, malının uzaktaki değerini bilmediği süre
 o değerin büyük bölümü taşıyanda kalır;[^k3] adalar bir hammadde
 kaynağıydı, bir finans merkezi değil.
 
-Bu, korpusun başka bölgelerinde de kaydettiği bir yapıdır.[^k1] Değerli bir
-kaynağı elinde tutan bir düzenin zengin olması, ancak dağıtım ağını da
+Değerli bir kaynağı elinde tutan bir düzenin zengin olması, ancak dağıtım ağını da
 denetlemesiyle mümkündür.
 
 ## İkinci ürün: halat
@@ -107,9 +102,7 @@ sağlıyordu.
 
 ## İçeriden bir tanık kaydı
 
-Bu incelemenin birincil kaynağı olağandışıdır: gözlemci adalarda yalnızca
-konaklamamış, bir süre yargı görevi yapmıştır.[^k3] Bu, kayda dışarıdan bir
-gezgin anlatısının veremeyeceği bir ayrıntı düzeyi kazandırır.
+Bu, kayda dışarıdan bir gezgin anlatısının veremeyeceği bir ayrıntı düzeyi kazandırır.
 
 Kayıt, adaların yönetim düzenini, hukuk uygulamasını, gündelik hayatı ve
 saray ilişkilerini içeriden anlatır.[^k3] Görev yapmış bir gözlemcinin
@@ -129,9 +122,8 @@ görevinin çerçevesiyle sınırlıdır.[^k3]
 Gezgin neyi tuhaf bulduğunu yazar; görevli neyi düzeltmek istediğini
 yazar.[^k3] İkisi de bir tercihtir ve ikisi de kaydın kapsamını belirler.
 
-Bu ayrım, korpusun tanık kayıtlarını okuma biçimini belirler.[^k1] Kaydın
-hangi konumdan tutulduğu, künyede `birincil_tur` alanıyla işaretlenir ama
-kaydın çerçevesi metinde ayrıca anlatılmalıdır.
+Kaydın hangi konumdan tutulduğu, künyede `birincil_tur` alanıyla işaretlenir ama kaydın
+çerçevesi metinde ayrıca anlatılmalıdır.
 
 ## Kadın hükümdar kaydı
 
@@ -158,9 +150,8 @@ Savunma böylece surla değil bilgiyle sağlanır.[^k3] Geçitlerin bilgisi
 adalılardadır ve bu bilgi paylaşılmadığı sürece dışarıdan bir donanmanın
 manevra alanı dardır.
 
-Aynı mantık korpusun öteki dosyalarında da görülür.[^k1] Bir bilginin kasten
-saklanması, o bilginin stratejik değerinin kaydıdır ve aynı zamanda kayıt
-boşluklarının sebeplerinden biridir.
+Bir bilginin kasten saklanması, o bilginin stratejik değerinin kaydıdır ve aynı zamanda
+kayıt boşluklarının sebeplerinden biridir.
 
 ## Dağınıklığın yönetim sorunu
 
@@ -172,9 +163,7 @@ Kaynaklarda adaların bölgelere ayrıldığı ve her bölgenin kendi görevlisi
 tarafından yönetildiği kaydedilir.[^k3] Merkez, vergi ve yargı yoluyla
 bağlantıyı sürdürür.
 
-Böyle bir düzende merkezin gücü, ulaşımın hızıyla sınırlıdır.[^k1] Korpusun
-kara imparatorlukları için kaydettiği aynı sınır, burada deniz mesafesiyle
-ölçülür.
+Böyle bir düzende merkezin gücü, ulaşımın hızıyla sınırlıdır.[^k1]
 
 ## Bir para biriminin uzaktaki etkisi
 
@@ -208,10 +197,7 @@ Adaların İslam'ı benimsemesi, kaynaklarda belirli bir tarihe ve bir olaya
 bağlanır.[^k1][^k3] Anlatı, bir yabancının gelişiyle başlar ve hükümdarın
 kararıyla tamamlanır.
 
-::tartismali[Bu anlatının tarihsel bir olay kaydı mı yoksa sonradan
-oluşturulmuş bir kuruluş anlatısı mı olduğu tartışmalıdır; benzer yapıdaki
-anlatılar bölgedeki başka adalarda da kaydedilmiştir. Korpus bir sonuca
-bağlanmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bu anlatının tarihsel bir olay kaydı mı yoksa sonradan oluşturulmuş bir kuruluş anlatısı mı olduğu tartışmalıdır; benzer yapıdaki anlatılar bölgedeki başka adalarda da kaydedilmiştir.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 İki kullanım arasındaki fark,
 kaydın nereye kadar dayandığını belirler.[^k3]
@@ -222,19 +208,13 @@ En yakın büyük komşu, kuzeydoğudaki adadır ve iki düzen arasında sürekl
 bir alışveriş bulunuyordu.[^k2] Ticaret, evlilik ve zaman zaman askerî
 baskı kaydedilir.
 
-Küçük bir düzenin büyük bir komşuyla ilişkisi, korpusun tekrar eden
-konularından biridir.[^k2] Burada belirleyici olan, adaların komşusuna
-ihtiyaç duyduğu malların sınırlı olmasıdır.
+Burada belirleyici olan, adaların komşusuna ihtiyaç duyduğu malların sınırlı olmasıdır.
 
 Bağımlılığın azlığı, bağımsızlığın uzun sürmesini açıklar.[^k1] Bir düzenin
 komşusundan ne kadar az şeye ihtiyaç duyduğu, ona ne kadar az boyun eğmek
 zorunda olduğunu belirler.
 
 ## Kaynak durumu
-
-Bu inceleme üç kaynağa dayanır ve biri birincildir.[^k3] Birincil kaynak,
-adalarda görev yapmış bir gözlemcinin kaydıdır ve bu incelemenin omurgasını
-oluşturur.
 
 Adaların kendi yazılı kayıtlarının doğrulanabilir, tam metin bir baskısı bu
 dosya yazıldığında bulunamamıştır.[^k1] Bakır levhalara yazılmış kayıtların
@@ -257,39 +237,19 @@ kesitten bütüne genellemedir.
 Değerlendirmeler sayılara değil,
 kayıtların ortak vurgusuna dayanır.[^k1]
 
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun aktör katmanında en küçük yüzölçümlü siyasi birimi
-kaydeder.[^k1] Dosyanın gerekçesi büyüklük değil bağlantıdır.
-
-Adalar, korpusun üç ayrı bölge dosyasını birbirine bağlar: Güney Asya'daki
-komşusunu, Doğu Afrika kıyısını ve Batı Afrika'daki ticaret düzenini.[^k1]
 Bu bağı başka hiçbir dosya kurmaz.
 
-Bir dosyanın değeri yalnızca anlattığı konunun büyüklüğüyle
-ölçülmez.[^k2] Korpusta bir dosya, kurduğu bağlarla da iş görür.
-
-## Açıkta kalan sorular
-Sultanlığın hükümdar listesi ve hanedan tarihi burada verilmez.[^k1] Korpusun
-aktör dosyaları bir düzenin nasıl işlediğini anlatır.
+Bir dosyanın değeri yalnızca anlattığı konunun büyüklüğüyle ölçülmez.[^k2]
 
 Adaların Avrupa devletleriyle sonraki ilişkileri ve sömürge dönemi de kapsam
 dışıdır.[^k2] Ayrı dosyalar gerektirir.
 
-Kabuk ticaretinin Batı Afrika'daki etkisinin ayrıntısı burada
-işlenmez.[^k1] Bu, korpusun Afrika dosyalarının konusudur ve burada yalnızca
-işaret edilir.
-
-## Küçük düzenlerin korpusta temsili
+Kabuk ticaretinin Batı Afrika'daki etkisinin ayrıntısı burada işlenmez.[^k1]
 
 Büyük düzenler daha çok kayıt bırakır, daha çok
 araştırılır ve daha kolay bulunur.[^k1]
 
-Bu eğilim düzeltilmezse korpus, geçmişi yalnızca büyük devletlerden oluşan
-bir manzara olarak gösterir.[^k2] Oysa dönemin ekonomisi, küçük ve uzmanlaşmış
-düzenlerin katkısı olmadan işlemezdi.
-
-Bu inceleme o düzeltmenin bir örneğidir.[^k1] Küçük bir düzenin korpusa girme
-gerekçesi, kendi büyüklüğü değil, büyük düzenlerin işleyişindeki payıdır.
+Oysa dönemin ekonomisi, küçük ve uzmanlaşmış düzenlerin katkısı olmadan işlemezdi.
 
 ## Okumayı sürdürmek için
 Adaların bağlı olduğu deniz ağı için
@@ -305,3 +265,35 @@ Kabuğun para olarak kullanıldığı uzak pazar için
 
 Aynı yılları bütün bölgeler üzerinden okumak için [Dönem 07](/donem/07/)
 dosyası kullanılmalıdır.
+
+## Küçük adadan geniş para ağına
+
+Maldivlerde toplanan *kauri* deniz kabukları, taşınabilir, sayılabilir ve küçük
+ödemelere uygun oldukları için Güney Asya’dan Batı Afrika’ya uzanan değişim
+ağlarında para işlevi görebildi.[^k1] Kabuğun doğal olarak bulunması onu bedelsiz
+yapmıyordu: toplama, kurutma, ayırma, depolama ve gemiyle taşıma emek ile ticari
+örgütlenme gerektiriyordu. Yerel bolluk, uzak pazardaki kıtlıkla birleşince değer
+üretti.
+
+Para burada tek bir devletin buyruğuyla değil, tüccarların ve kullanıcıların
+kabulüyle çalıştı. Çok fazla kabuğun pazara girmesi alım gücünü düşürebilir;
+taşıma maliyeti uzaklaştıkça fiyatı değiştirebilirdi. Bu nedenle “Maldiv parası”
+ifadesi sultanlığın bütün kullanıldığı bölgeleri siyasi olarak yönettiği anlamına
+gelmez. Ekonomik erişim ile egemenlik alanı birbirinden ayrılır.[^k1]
+
+Takımadaların tarımsal alanı sınırlıydı, fakat denizcilik bilgisi, liman konumu,
+balık, hindistancevizi ve kabuk parası onları Hint Okyanusu ağında etkin kıldı.[^k1][^k2]
+Gıda ve başka mallar için dış bağlantıya ihtiyaç duyulması yalnız zayıflık
+değildi; uzmanlaşmanın ve aracılığın temeliydi. Fırtına, rota değişimi veya
+yabancı güç baskısı bu modelin kırılganlığını artırdı.
+
+İbn Battuta’nın adalardaki kadılık ve toplumsal hayat gözlemleri değerli bir
+dış tanıklıktır; kısa görevi, kişisel çatışmaları ve hukukçu bakışı metnin
+sınırlarını belirler.[^k3] Onun kadınların giyimi veya yerel uygulamalar
+hakkındaki şaşkınlığı, Maldiv toplumunu olduğu kadar yazarın beklentilerini de
+gösterir. Sultanlığın tarihi bu yüzden yalnız hükümdar ve din değişimiyle değil,
+ada ekolojisi, kadın ve erkek emeği, deniz ağı ve para dolaşımının birlikte
+okunmasıyla anlaşılır.
+
+Kabuk paranın yolunu izlemek, küçük bir üretim merkezinin geniş ekonomik alanı
+toprak fethetmeden nasıl etkileyebildiğini gösterir.

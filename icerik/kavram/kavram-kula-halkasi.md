@@ -56,7 +56,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Kula halkası, bir ada grubunda iki tür süs eşyasının birbirine zıt yönlerde
@@ -92,10 +91,7 @@ Aynı yolculuklarda gündelik mallar da değiştirilir.[^k2] Yiyecek, çanak
 kabul etmez; gündelik mal değişimi pazarlıkla yapılır ve ayrı bir adla
 anılır.
 
-::tartismali[Bu düzenin bir ticaret biçimi mi, bir siyasi ittifak düzeneği mi
-yoksa ikisinden de ayrı bir mübadele türü mü sayılması gerektiği
-tartışmalıdır; üç okuma da aynı kayıtlardan çıkarılabilir. Korpus bir sonuca
-bağlanmaz.]{harita=tartisma-somurgeciligin-ekonomik-bilancosu}
+::tartismali[Bu düzenin bir ticaret biçimi mi, bir siyasi ittifak düzeneği mi yoksa ikisinden de ayrı bir mübadele türü mü sayılması gerektiği tartışmalıdır; üç okuma da aynı kayıtlardan çıkarılabilir.]{harita=tartisma-somurgeciligin-ekonomik-bilancosu}
 
 ## Ne işe yaradığı
 
@@ -111,11 +107,7 @@ mal değişimi güvenle yapılabilir.
 nesneyi bir süre elinde tutmak, kişiye ve topluluğuna itibar kazandırır ve
 bu itibar siyasi güce çevrilebilir.
 
-## Korpus için neden önemli
-
-Bu inceleme, korpusun ekonomik kavram katmanındaki bir varsayımı sınar.[^k1]
-Katmandaki dosyaların çoğu, mübadeleyi ya pazar ya da haraç olarak
-sınıflandırır.
+Katmandaki dosyaların çoğu, mübadeleyi ya pazar ya da haraç olarak sınıflandırır.
 
 Bu düzen ikisine de girmez.[^k2] Pazar değildir çünkü fiyat ve pazarlık
 yoktur; haraç değildir çünkü zorlama ve tabiiyet yoktur.
@@ -141,9 +133,8 @@ düzeltmiş ve genişletmiştir; buradaki anlatım, ilk kaydın çerçevesini ta
 Kayıt, bölgenin dış temaslarının zaten başladığı bir dönemde
 tutulmuştur.[^k1] Gözlenen düzen, temas öncesi hâliyle aynı olmayabilir.
 
-Bu, korpusun öteki dosyalarında da kaydedilen bir sorundur.[^k2] Bir
-uygulamanın ilk kaydı, çoğu zaman o uygulamanın değişmeye başladığı dönemde
-tutulur; kayıt, değişimin öncesini değil kendisini gösterir.
+Bir uygulamanın ilk kaydı, çoğu zaman o uygulamanın değişmeye başladığı dönemde tutulur;
+kayıt, değişimin öncesini değil kendisini gösterir.
 
 Kaydedilen şey, belirli bir
 tarihte gözlenmiş bir düzendir ve öncesi hakkında çıkarım yapmak ayrı kanıt
@@ -151,16 +142,28 @@ gerektirir.[^k1]
 
 ## Nesnelerin bugünkü yeri
 
-Bu incelemenin künyelediği iki nesne, bölgenin dışındaki bir müzededir.[^k3][^k4]
-Bu, korpusun Benin, Maori ve Avustralya dosyalarında da kaydedilen bir
-durumdur.
-
 Buradaki durum ayrıca dikkat çekicidir.[^k3] Değeri dolaşımından gelen bir
 nesne, dolaşımdan çıkarılıp bir vitrine konduğunda, tam olarak değerini
 oluşturan şeyi kaybeder.
 
 Nesnenin müzedeki hâli, kendi düzeninde
 ne olduğunu göstermez; bu fark, künye notlarında ayrıca belirtilmelidir.[^k4]
+
+## Kölelik, hane ve devlet hizmetinin kesişimi
+
+Kula halkasını yalnız kölelik veya yalnız liyakat sistemi diye tanımlamak iki yönünü
+de eksiltir. Hukukî bağımlılık, kişinin eski akrabalık ve yerel güç ağlarından
+koparılmasını sağlarken saray hanesine bağlı yeni bir yükselme yolu açabiliyordu.[^k1]
+Bu hareketlilik özgürlük anlamına gelmez; görev, gelir ve güvenlik hükümdarın
+himayesine bağlıydı. Sistemi ölçmek için kişinin nasıl devşirildiği, eğitimden sonra
+hangi göreve geçtiği, mal ve aile kurma imkânı ile statünün çocuklarına aktarılıp
+aktarılmadığı birlikte incelenmelidir.[^k2]
+
+Merkez açısından avantaj, yerel hanedanlara dayanmayan asker ve yöneticiler
+yetiştirmekti. Buna karşılık saraya yakınlık yeni hizip ve veraset mücadeleleri
+üretebilirdi. Kula dayalı birliklerin zamanla miras, evlilik ve mülkiyet bağları
+kurması, ilk tasarımın değişmeden sürmediğini gösterir. İdeal kural ile dönemsel
+uygulama bu nedenle ayrı kaydedilmelidir.[^k3]
 
 ## Okumayı sürdürmek için
 Mübadelenin öteki biçimleri için

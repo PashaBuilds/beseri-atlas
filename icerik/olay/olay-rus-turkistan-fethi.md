@@ -51,7 +51,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne oldu
 
 On dokuzuncu yüzyılın ortasından sonuna kadar süren bir dizi seferle,
@@ -61,8 +60,7 @@ girdi.[^k1] Süreç tek bir savaşla değil, adım adım ilerledi.
 Üç hanlığın akıbeti aynı olmadı.[^k3] Biri tamamen ortadan
 kaldırıldı, ikisi iç işlerinde biçimsel bir özerklikle bırakıldı.
 
-Bu incelemenin konusu seferlerin askerî ayrıntısı değildir.[^k2] Farklı
-akıbetlerin neye göre belirlendiğidir.
+Farklı akıbetlerin neye göre belirlendiğidir.
 
 ## Üç farklı sonuç
 
@@ -174,9 +172,6 @@ belirlendi.[^k1] Sınırı çizenler bölgede yaşamıyordu.
 Çizgi, mevcut siyasi birimleri değil nüfuz alanlarını ayırdı.[^k3]
 Aynı topluluklar sınırın iki yanında kaldı.
 
-Bölgede yaşamayanlarca çizilen
-sınırlar, korpusun tekrar eden ölçümlerinden biridir.[^k2]
-
 ## Ara tampon düzenlemeleri
 
 Sınır belirlenirken uzun ve dar bir şerit oluşturuldu.[^k1] Amaç, iki
@@ -287,10 +282,6 @@ gibi konularda yerel hukuk uygulanmaya devam etti.
 Ceza ve idare yeni yönetimin hukukuna bağlandı.[^k3] İki hukukun
 birlikte işlediği bir düzen ortaya çıktı.
 
-Bu, korpusun Fetha Nagast dosyasında kaydedilen
-ayrımın bir başka biçimidir: resmî hukuk ile fiilen başvurulan hukuk aynı
-olmayabilir.[^k2]
-
 ## 1916 ayaklanması
 
 Yirminci yüzyılın ikinci on yılında bölgede geniş bir ayaklanma
@@ -320,11 +311,35 @@ tek yönlüdür.
 Bölgedeki her hanlığın iç tarihi ayrı ayrı izlenmez.[^k3] Her biri
 kendi dosyasında ele alınır.
 
-Yerel dilden birincil bir belge künyelenememiştir.[^k2] Bölgenin kendi
-kaydından doğrulanabilir çevrimiçi bir metin bu inceleme yazıldığında
-bulunamamıştır ve kısıt burada beyan edilir.
+Yerel dilden birincil bir belge künyelenememiştir.[^k2]
+
+## Fetih ile imparatorluğa eklemlenme aynı aşama değildir
+
+Bir kentin askerî olarak alınması, verginin düzenli toplanması ve kırsal nüfusun
+merkezî hukuka bağlanması anlamına gelmez. Rus ilerleyişi kale ve seferlerle
+başladı; askerî valilik, demiryolu, göçmen yerleşimi, pamuk kredisi ve eğitim
+kurumlarıyla daha uzun bir idari dönüşüme çevrildi.[^k2] Buhara ve Hive'nin himaye
+altında bırakılması, her yerde doğrudan ilhakın aynı maliyetle işlemediğini
+gösterir.[^k3]
+
+Pamuk üretiminin büyümesi yalnız çiftçinin ürün tercihi değildi. Demiryolu Rus
+sanayisinin talebini bölgeye bağladı; kredi, fiyat ve sulama yatırımı arazi
+kullanımını değiştirdi. Gıda üretiminin azalması ve su üzerindeki yeni rekabet,
+ticari bütünleşmenin kırılganlıklarını da büyüttü. “Modernleşme” ile *sömürgeleştirme*
+aynı altyapının farklı dağıtım sonuçlarını adlandırabilir.[^k1]
+
+1916 ayaklanması, askerî hizmet kararı kadar toprak kaybı, idari ayrım ve savaş
+baskısının birikimi içinde okunmalıdır. Fetih tarihini bir dizi Rus zaferi olarak
+bitirmek, yerel devletlerin diplomasisini, toplulukların uyarlama ve direnişini,
+ardından Sovyet dönemine taşınan sınır ve ekonomi mirasını görünmez kılar.[^k1]
+
+Kronoloji bu nedenle üç sütunla tutulmalıdır: askerî işgal, hukuki statü ve
+ekonomik–idari uygulama. Bir hanlık himayeye girerken komşu bölge doğrudan ilhak
+edilebilir; demiryolu ise onlarca yıl sonra günlük hayatı değiştirebilir. Tek
+fetih tarihi bu farklı hızları göstermez.[^k1]
 
 ## Okumayı sürdürmek için
+
 Tek tek hanlıklar için [Hokand Hanlığı](/aktor/hokand-hanligi/),
 [Buhara Hanlığı](/aktor/buhara-hanligi/) ve
 [Hîve Hanlığı](/aktor/hive-hanligi/) dosyaları okunmalıdır.[^k1]

@@ -154,9 +154,8 @@ sorulmaz.
 Aynı ifade, dört metin için
 dört farklı şeyi karşılar.[^k2]
 
-Bu inceleme bir cevap vermez.[^k4] Üç ölçütü, dördüncü bir konumu ve
-ölçütlerin çatıştığı yerleri kaydeder; hangi ölçütün seçileceği hukuki
-bir karardır.
+Burada tek bir cevap verilmez.[^k4] Üç ölçüt, dördüncü bir konum ve ölçütlerin
+çatıştığı yerler karşılaştırılır; hangisinin seçileceği hukuki bir karardır.
 
 ## Sorunun somut hâli
 
@@ -189,11 +188,11 @@ varlıktır.
 uygulanmıyor olabilir; uygulanıyor ve biçimsel dayanağı tartışmalı
 olabilir.
 
-Dört kombinasyon da korpusun künyelerinde görülür.[^k2] Bu, ölçütlerin
-gerçekten ayrı şeyleri ölçtüğünü gösterir.
+Dört kombinasyon da tarihsel belge örneklerinde görülebilir.[^k2] Bu durum,
+ölçütlerin gerçekten ayrı şeyleri ölçtüğünü gösterir.
 
-Üç ölçütün aynı sonucu verdiği metinler
-tartışma doğurmaz; ayrıldıkları yerler bu incelemenin konusudur.[^k4]
+Üç ölçütün aynı sonucu verdiği metinler tartışma doğurmaz; asıl sorun ölçütlerin
+birbirinden ayrıldığı örneklerde belirir.[^k4]
 
 ## Birinci konumun gücü
 
@@ -226,8 +225,8 @@ kalan düzenlemelerin gerçek düzeni gizlemesini engeller.
 Bir metnin kanun mu övgü mü
 olduğu, ona atıf yapılıp yapılmadığına bakılarak sorulur.[^k1]
 
-Ölçüt ayrıca korpusun kendi kuralıyla örtüşür.[^k2] Bir belgenin ne
-dediği ile ne kadar uygulandığı ayrı ayrı ölçülür.
+Bu ölçüt kaynak eleştirisinin temel ayrımıyla örtüşür.[^k2] Bir belgenin ne dediği
+ile ne kadar uygulandığı ayrı ayrı ölçülür.
 
 ## İkinci konumun sınırı
 
@@ -283,16 +282,14 @@ hangi metnin uygulanacağını söylemez.
 Üç ölçüt çatıştığında hangisinin ağır basacağına dair kural
 vermez.[^k4] Bu, konumu hukuki uygulama için kullanışsız kılar.
 
-Bir tarih korpusu, uyuşmazlık çözmek için değil
-kaydı doğru tutmak için ölçüt arar ve iki amacın ölçütleri farklı olabilir; bir hukukçu
-için kullanışsız olan bir ayrım, bir kayıt tutucu için tam da aranan ayrım
-olabilir.[^k2]
+Tarihçi uyuşmazlık çözmekten önce kaydı doğru tutmak için ölçüt arar; iki amacın
+ölçütleri farklı olabilir. Bir hukukçu için kullanışsız olan ayrım, tarihsel sıralama
+için tam da gereken ayrım olabilir.[^k2]
 
 ## Dört kombinasyonun tek tek görünümü
 
-Üç ölçüt bağımsız olduğu için sekiz kombinasyon kuramsal olarak
-mümkündür.[^k1] Korpusun künyelerinde bunlardan dördü fiilen
-görülmüştür ve dördü de ayrı ayrı kaydedilmiştir.
+Üç ölçüt bağımsız olduğu için sekiz kombinasyon kuramsal olarak mümkündür.[^k1]
+Belge örneklerinde bunlardan dördü fiilen görülmüş ve birbirinden ayrı kaydedilmiştir.
 
 Birinci durumda üç ölçüt de olumludur.[^k4] Metin usulüne uygun kabul
 edilmiş, uygulanıyor ve ona dayanarak talepte bulunulabiliyor;
@@ -312,9 +309,9 @@ sonraki bir yayımdan gelir.
 Dördüncü durumda biçimsel bağlayıcılık yok, uygulama dolaylı, talep
 dayanağı güçlü.[^k3] Bu, bağlayıcı olmayan bildirimin durumudur.
 
-Dört durumun hepsinde tek bir soru sorulsaydı, üçünde yanlış cevap
-alınırdı.[^k1] Korpus bu nedenle üç soruyu ayrı ayrı sorar ve cevapları
-birlikte kaydeder.
+Dört durumun hepsinde tek bir soru sorulsaydı, üçünde yanlış cevap alınırdı.[^k1]
+Bu nedenle ilan, hukukî yürürlük ve fiilî uygulama ayrı ayrı sorulmalı, cevaplar
+birlikte değerlendirilmelidir.
 
 ## Zaman boyutu
 
@@ -338,8 +335,8 @@ Kabul tarihi ve — biliniyorsa
 taşıyabilir.[^k1] Uzun bir aralık, metnin karşılaştığı direnci
 gösterir.
 
-Aralık ölçülemediğinde bu da yazılır.[^k4] Ölçülmemiş bir aralığı sıfır
-saymak, korpusun kaçındığı işlemdir.
+Aralık ölçülemediğinde bu belirsizlik açıkça yazılmalıdır.[^k4] Ölçülmemiş bir
+süreyi sıfır saymak, veri yokluğunu sonuca dönüştürür.
 
 ## Yürürlükten kalkmanın biçimleri
 
@@ -382,7 +379,7 @@ sonucun geçerli olduğu, o metnin sonraki kaderinden okunabilir.[^k4]
 
 ## Belgenin varlığının ölçülmesi
 
-Bu incelemenin örtük sorusu şudur.[^k2] Bir metnin var olması ne demektir.
+Tartışmanın örtük sorusu şudur: Bir metnin var olması ne demektir?[^k2]
 
 Üç ölçüt üç farklı varlık biçimi tanımlar.[^k1] Hukuki varlık, fiilî
 varlık ve siyasi varlık.
@@ -390,10 +387,10 @@ varlık ve siyasi varlık.
 **Bir belge üç ayrı düzlemde var olabilir
 ve bir düzlemde yok olması ötekilerde de yok olduğu anlamına gelmez.**[^k4]
 
-## Korpusun bu tartışmadaki konumu
+## Hukuki seçim karşısındaki sınır
 
-Seçim, hukuki bir karardır ve korpusun yetki alanında
-değildir.[^k1]
+Hangi ölçütün bağlayıcı sayılacağı hukuki bir karardır; tarihsel karşılaştırma bu
+yetkinin yerine geçmez.[^k1]
 
 Bir metin için yürürlükte
 denildiğinde, hangi anlamda söylendiği yazılır.[^k3]
@@ -401,7 +398,7 @@ denildiğinde, hangi anlamda söylendiği yazılır.[^k3]
 Bu, dosyanın pratik çıktısıdır.[^k2] Ölçüt belirtmeden kurulan yürürlük
 ifadesi, bir tespit değil bir izlenimdir.
 
-## Tartışmanın korpus dışı yankısı
+## Tartışmanın başka alanlardaki yankısı
 
 Aynı soru, hukuki metinlerin dışında da sorulabilir.[^k1] Bir kurumun,
 bir kuralın ya da bir sınırın var olduğunu söylemek de aynı üç ölçüde
@@ -435,22 +432,35 @@ uygulandığı belgelerden okunabilir.
 Çözülmemiş olan, bu üç olgunun hangisinin yürürlük sayılacağıdır.[^k1]
 Dört konum da aynı olgulara bakar ve farklı sonuçlara varır.
 
-Ayrımın korunması korpusun temel işidir.[^k4] Bir tartışmanın sürmesi,
-dayandığı olguların da tartışmalı olduğu anlamına gelmez.
+Olguyla yorum arasındaki ayrım korunmalıdır.[^k4] Bir tartışmanın sürmesi,
+dayandığı bütün olguların da tartışmalı olduğu anlamına gelmez.
 
 ## Kanıtın ve kapsamın sınırı
 Dört konum alanın tamamını kapsamaz.[^k1] Yürürlüğü toplumsal kabule
 bağlayan yaklaşımlar da vardır.
 
-Bu yaklaşımlar dosyaya alınmadı.[^k4] Bu inceleme yazıldığında
-doğrulanabilir kaynakla künyelenemediler; eksik burada beyan edilir ve
-korpusun borç defterine yazılmıştır. Künyelenebilir kaynak bulunduğunda
-dosya genişletilmelidir.
+Bu yaklaşımlar değersiz görüldükleri için değil, doğrulanabilir kaynakla
+künyelenemedikleri için karşılaştırmaya alınmadı.[^k4] Uygun kaynak bulunduğunda
+konumlar genişletilmelidir.
 
 Konumların savunanları kişi adlarıyla değil çizgi ve yaklaşım adlarıyla
-verilmiştir.[^k3] Nedeni korpusun kütük kuralıdır: bir kişiyi savunmadığı
-bir konuma yerleştirmek yapılabilecek en ağır hatadır ve doğrulanamayan
+verilmiştir.[^k3] Bir kişiyi savunmadığı konuma yerleştirmemek için doğrulanamayan
 kişi atfı yerine yaklaşım adı kullanılır.
+
+## Uygulanabilir bir inceleme sırası
+
+Bir belgenin durumunu araştırırken önce kabul ve yayımlanma kaydı, ardından onu
+değiştiren veya kaldıran işlem aranmalıdır. İkinci aşamada mahkeme, idare ve gündelik
+uygulama kayıtları incelenir; üçüncü aşamada belgenin sonraki taleplerde nasıl
+kullanıldığına bakılır.[^k1][^k4] Bu sıra üç ölçütü tek cevaba indirmez, yalnızca
+kanıt türlerini birbirine karıştırmayı önler. Magna Carta'nın sonraki yeniden
+yayımları ile İnsan Hakları Evrensel Beyannamesi'nin bağlayıcı olmayan başlangıç
+statüsü, “metin var mı?” sorusunun neden tek tarihle cevaplanamadığını gösterir.[^k2][^k3]
+
+Sonuç bir evet-hayır hükmü yerine üç parçalı olabilir: biçimsel olarak geçerli,
+uygulamada sınırlı ve siyasal taleplerde canlı. Böyle bir cevap daha uzun görünür,
+fakat belirsizliği saklamaz. En önemli kazanım da budur: hukukî karar verme yetkisi
+ile tarihsel durum tespitini ve belgenin siyasal etkisini birbirinden ayırır.[^k1]
 
 ## Okumayı sürdürmek için
 Tartışmanın somut örnekleri için
@@ -465,9 +475,8 @@ hükmün etkisi için
 [Tordesillas Antlaşması](/kaynak/tordesillas-antlasmasi/) dosyaları
 uygundur.[^k3]
 
-Korpusun belge okuma kısıtlarının tamamı için
-[Belge okuması](/kavram/belge-okumasi/) dosyası okunabilir; bu tartışma
-oradaki ikinci kısıtın ayrıntısıdır.[^k1]
+Belge okumanın genel kısıtları için [Belge okuması](/kavram/belge-okumasi/)
+incelenebilir; buradaki tartışma onun ikinci kısıtını ayrıntılandırır.[^k1]
 
 Kaynakların nasıl sınanacağı için
 [Kaynak eleştirisi](/kavram/kaynak-elestirisi/) ve

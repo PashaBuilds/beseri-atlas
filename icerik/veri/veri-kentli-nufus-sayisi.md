@@ -46,12 +46,11 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Seri MÖ 10000'de 0 ile başlar ve 2025'te yüzde 57,8335 ile biter.[^k1]
 
 ## Sıfır bir ölçüm değil bir varsayımdır
 
-::tartismali[Serinin ilk değeri MÖ 10000 için sıfırdır. Bu bir sayım sonucu değil, kentin henüz var olmadığı varsayımının sayıya çevrilmiş hâlidir. Korpus bu değeri bir ölçüm olarak aktarmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Serinin ilk değeri MÖ 10000 için sıfırdır. Bu bir sayım sonucu değil, kentin henüz var olmadığı varsayımının sayıya çevrilmiş hâlidir.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Sayıların nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -59,13 +58,7 @@ haritasında ele alınıyor.
 
 ## Aynı olgu için iki ayrı seri vardır
 
-Korpusun bir başka dosyası aynı olguyu 1950'den başlayan ve tahmin türü ayrıca
-belirtilmiş bir seriyle kaydeder; o serinin 1950 değeri yüzde 28,7983'tür.[^k1]
-
-Aynı olgu için biri on iki bin yılı, diğeri yetmiş beş yılı kapsayan iki ayrı
-kümenin bulunması,[^k1] korpusun şu kuralının dayanağıdır: bir kentleşme değeri
-aktarılırken hangi kümeden okunduğu belirtilir. Kısa seri
-[Kentleşme oranı, 1950–2025](/veri/kentlesme-orani-1500-2023/) dosyasında,
+Kısa seri [Kentleşme oranı, 1950–2025](/veri/kentlesme-orani-1500-2023/) dosyasında,
 kavram ise [Kentleşme](/kavram/kentlesme/) dosyasında ele alınıyor.
 
 ## Aynı uzunlukta başka bir seri
@@ -73,18 +66,9 @@ kavram ise [Kentleşme](/kavram/kentlesme/) dosyasında ele alınıyor.
 Uzun dönemli nüfus serisi de benzer bir aralığı kapsar; o seride dünya nüfusu MÖ
 10000 için yaklaşık 4,5 milyon, 2020 için yaklaşık 7,89 milyardır.[^k2]
 
-İki uzun serinin de erken bölümlerinin seyrek olması,[^k1][^k2] korpusun tarih
-öncesi dönem dosyalarında sayı kullanırken neden çekince koyduğunun
-dayanağıdır.
-
 ## Aynı dönemde kaydedilen başka bir olgu
 
 Kentleşmeyle yakın dönemlerde kaydedilen bir başka olgu için tutulan kayıt, yazı
 sistemlerini iki ayrı ölçüte göre sınıflandırır.[^k3] O kavram
 [Yazı sistemi](/kavram/yazi-sistemi/) dosyasında, dönemin dönüşümü ise
 [Neolitik Devrim](/olay/neolitik-devrim/) dosyasında ele alınıyor.
-
-## Kanıtın ve kapsamın sınırı
-Kentin tanımı, bölge bölge oranlar ve erken dönem tahmin yöntemleri burada ayrı
-başlıklar altında ele alınmamıştır; bu inceleme yalnızca dünya toplamı serisini
-kaydeder.[^k1]

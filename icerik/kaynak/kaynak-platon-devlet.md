@@ -60,7 +60,6 @@ son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak eseri *Devlet* adıyla anar ve ilk bölümünde eserin yazarın külliyatındaki
@@ -71,11 +70,6 @@ yerini ayrıca işler.[^k1]
 Kaynak kitapları konu ve satır aralığıyla birlikte sıralar: birinci kitap
 yaşlanma, sevgi ve adaletin tanımları (327a-354c), ikinci kitap Gyges'in yüzüğü
 (357a-383c), üçüncü kitap soylu yalan (386a-417b).[^k1]
-
-Bir metne yapılan atfın kitap adı yerine satır aralığıyla verilmesi,[^k1] korpusun
-şu kuralının dayanağıdır: bu esere yapılan atıflar, çeviriye değil özgün metnin
-satır numarasına bağlanmalıdır — böylece hangi çeviri kullanılırsa kullanılsın
-aynı yere gidilir.
 
 ## Konuşmacılar ayrı alt başlıklardır
 
@@ -95,5 +89,5 @@ yazar.[^k3] O eser
 
 ## Metne bağ
 
-Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Eser kamu malıdır; hangi çevirinin kullanıldığı ve
-hangi satır aralığına atıf yapıldığı her aktarımda belirtilmelidir.
+Eserin kamu malı tam metni erişilebilir durumdadır; hangi çevirinin kullanıldığı ve
+hangi satır aralığına atıf yapıldığı her aktarımda belirtilmelidir.[^k4]

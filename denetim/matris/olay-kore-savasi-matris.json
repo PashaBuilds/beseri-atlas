@@ -1,7 +1,7 @@
 {
   "id": "olay-kore-savasi",
-  "govde_hash": "afaf536c6153",
-  "commit": "fdab69c",
+  "govde_hash": "a099e99fabcd",
+  "commit": "889239af",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -613,7 +613,7 @@
     },
     {
       "iddia_id": "i044",
-      "cumle": "Raporun kendi ifadesiyle bu dosya, Koreli yurttaşların daha önce resmî soruşturma için yürüttüğü çabayı öne çıkarmıştı; soruşturmayı doğuran etkenler haberden ibaret değildi.",
+      "cumle": "Amerikan raporu, haberin Koreli yurttaşların daha önce resmî soruşturma için yürüttüğü çabaları öne çıkardığını belirtir.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -623,7 +623,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Curutucunun tek-kaynakli-nedensellik itirazi bu cumleyle karsilandi: kunye birinci elden kayittir ve tek nedenli anlatiyi KENDISI reddeder ('This story brought to the forefront the earlier efforts of Korean citizens to secure an official inquiry'). Onceki surum bu kaydi tasimiyordu."
+      "inceleme": "2026-08-30 yeniden inceleme: k7'nin 'brought to the forefront the earlier efforts' kaydi, haberi tek neden saymadan govdeye dogrudan baglandi."
     },
     {
       "iddia_id": "i045",
@@ -877,5 +877,13 @@
     "kismi": 6,
     "desteksiz": 0,
     "olculemez": 0
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "afaf536c6153",
+      "yeni_hash": "a099e99fabcd",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    }
+  ]
 }

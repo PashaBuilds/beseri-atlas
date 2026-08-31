@@ -61,7 +61,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Liberya Bağımsızlık Bildirisi, 1847'de Batı Afrika kıyısında kurulan bir
@@ -71,8 +70,7 @@ yerleşimin bağımsızlığını ilan eden metindir.[^k1] İmzacılar, Atlantik
 Yerleşim, bir dernek tarafından örgütlenmişti.[^k2] Derneğin amacı,
 köleliği sona ermiş kişilerin kıtaya yerleştirilmesiydi.
 
-Bu incelemenin asıl konusu metnin kapsamıdır.[^k1] Metin bir hak
-yoksunluğunu anlatır ve kurulan düzen, aynı toprakta yaşayan halkı
+Metin bir hak yoksunluğunu anlatır ve kurulan düzen, aynı toprakta yaşayan halkı
 yurttaşlık kapsamının dışında bırakır.
 
 ## Metnin anlattığı yoksunluk
@@ -81,8 +79,7 @@ Metin, imzacıların geldikleri ülkede maruz kaldıkları hukuki ve
 toplumsal dışlanmayı sayar.[^k1] Mülkiyet, eğitim ve yargı önündeki
 engeller tek tek anılır.
 
-Bu bölüm, korpusun en doğrudan tanıklık metinlerindendir.[^k3] Dışlanmayı
-yaşayanların kendi kalemiyle yazılmıştır.
+Dışlanmayı yaşayanların kendi kalemiyle yazılmıştır.
 
 Bir hak yoksunluğunun mağduru
 tarafından yazılması seyrektir ve künyede ayrıca belirtilmelidir.[^k2]
@@ -114,9 +111,7 @@ sorulmalıdır.**
 
 ## Ölçümün genelleştirilmesi
 
-Bu, korpusun hak kapsamı dizisine yeni bir gözlem ekler.[^k3] Dizide
-kapsamın nasıl kurulduğu ölçülmüştü; burada kimin kurduğu sorusu
-ekleniyor.
+Dizide kapsamın nasıl kurulduğu ölçülmüştü; burada kimin kurduğu sorusu ekleniyor.
 
 Gözlem şudur.[^k1] Kapsamı kimin belirlediği, kapsamın genişliğini
 öngörmez; dışlanmış bir grubun kurduğu düzen de dışlayıcı olabilir.
@@ -131,9 +126,7 @@ Bu düzenin nasıl adlandırılacağı tartışmalıdır.[^k2] Yerleşimciler bi
 imparatorluk adına hareket etmiyordu ve kendi bağımsızlıklarını ilan
 ettiler.
 
-Buna karşılık yerleşim biçimi, korpusun sömürge yerleşimlerinde ölçtüğü
-özellikleri taşır.[^k3] Toprak edinimi, yerel halkla çatışma ve ayrı
-hukuki statü üç örnekte de görülür.
+Toprak edinimi, yerel halkla çatışma ve ayrı hukuki statü üç örnekte de görülür.
 
 Adlandırma tartışmasını kaydeder ve
 ölçülebilir özellikleri ayrı ayrı sıralar.[^k1]
@@ -151,9 +144,7 @@ nitelikleri kadar tanıyacak tarafın iç siyasetine bağlıdır.[^k3]
 
 ## Kıtadaki konum
 
-Devlet, kıtada sömürge yönetimi altına girmeyen iki birimden
-biridir.[^k2] Bu, korpusun Afrika dosyalarında seyrek görülen bir
-durumdur.
+Devlet, kıtada sömürge yönetimi altına girmeyen iki birimden biridir.[^k2]
 
 Bağımsızlığın korunmasında dış tanınmanın payı vardır.[^k1] Devletin
 kurulduğu yıllarda kıyı bölgeleri hızla paylaşılıyordu.
@@ -170,8 +161,7 @@ bölgelerde etkin yönetim kurulması onyıllar aldı.
 Yirminci yüzyılda kauçuk plantasyonları ve maden çıkarımı ağırlık
 kazandı.[^k2] İşletmelerin önemli bölümü yabancı sermayeye aitti.
 
-Dosya bu dönemi ayrıntılandırmaz.[^k1] Ayrı bir dosya gerektirir ve bu
-dosya yazıldığında korpusta bulunmuyordu.
+Dosya bu dönemi ayrıntılandırmaz.[^k1]
 
 ## Kapsamın genişlemesi
 
@@ -186,16 +176,13 @@ değişmesi ayrı iki olgudur ve ikincisi birincisinden çok daha yavaş ilerley
 
 ## Belge katmanındaki yeri
 
-Bu incelemeyle birlikte korpusun belge türü kaynakları ona çıktı.[^k1] Afrika
-geleneğinden iki belge künyelenmiş oldu.
+Afrika geleneğinden iki belge künyelenmiş oldu.
 
 Denge hâlâ eksiktir.[^k3] Kıtanın kendi hukuk geleneklerinden — sömürge
 öncesi hüküm derlemelerinden ve antlaşmalardan — hiçbiri
 künyelenememiştir.
 
-Eksik borç defterine yazılmıştır.[^k2] Bu, doğrudan kaynak
-erişilebilirliğiyle ilgilidir ve korpusun kendi ölçtüğü dijital erişim
-eşitsizliğinin bir örneğidir.
+Eksik borç defterine yazılmıştır.[^k2]
 
 ## Kanıtın ve kapsamın sınırı
 Dosya, yerleşimin nasıl adlandırılacağı hakkında hüküm vermez.[^k1]

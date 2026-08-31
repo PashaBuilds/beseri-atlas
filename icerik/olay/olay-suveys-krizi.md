@@ -44,11 +44,9 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Krizin merkezinde bir mülkiyet kararı vardır. Kaynak, konuyu Süveyş Kanalı'nın
-millîleştirilmesi başlığı altında ele alır ve Britanya, Fransa ile Milletler
-Topluluğu tepkilerini ayrı alt başlıklar olarak sıralar.[^k1] Bu inceleme, kararın
-**nasıl alındığını ve nasıl karşılandığını** ele alır.
+millîleştirilmesi başlığı altında ele alır ve Britanya, Fransa ile Milletler Topluluğu
+tepkilerini ayrı alt başlıklar olarak sıralar.[^k1]
 
 ## Kararın kendisi eleştiri konusudur
 
@@ -56,10 +54,6 @@ Kaynak, kararın veriliş biçimine dair bir tarihçi değerlendirmesini doğrud
 aktarır: Mısırlı tarihçi Abd el-Azim Ramazan, Nasır'ın Süveyş Kanalı'nı siyasi
 istişare olmaksızın millîleştirme kararını, onun yalnız karar alma eğiliminin bir
 örneği olarak not eder.[^k1]
-
-Bu, korpus için değerli bir malzemedir: eleştiri, karşı taraftan değil aynı ülkenin
-tarih yazımından gelmektedir. Korpus bu değerlendirmeyi ne onaylar ne reddeder;
-kimin söylediğini belirterek aktarır.
 
 ## Öncesindeki tırmanma
 
@@ -84,14 +78,150 @@ açtı.[^k1]
 Yani millîleştirme kararı, bir finansman kaybının ardından gelir. Kriz, 1947 ile
 1991 arasındaki jeopolitik rekabetin[^k2] bölgesel bir tezahürüdür.
 
+## Kanal neden bu kadar önemliydi?
+
+Süveyş Kanalı Akdeniz ile Kızıldeniz'i bağlayarak Avrupa-Asya deniz yolunu
+kısaltıyor, Britanya'nın Orta Doğu ve Asya bağlantılarında stratejik rol
+oynuyordu. Kanal Mısır toprağındaydı; işletme şirketinde Britanya ve Fransız
+çıkarları baskındı.[^k1] Bu nedenle millîleştirme aynı anda bir mülkiyet, gelir,
+ulaşım ve sömürge sonrası egemenlik sorunuydu.
+
+Nasır, kanal gelirlerini Asvan Yüksek Barajı'nın finansmanında kullanacağını
+ilan etti.[^k1] Baraj elektrik, sulama ve kalkınma vaadi taşıyor; Batı
+finansmanının çekilmesi Mısır'ın ekonomik planını siyasal bağımsızlıkla
+birleştiriyordu. Millîleştirme yalnız öfkeyle verilmiş bir misilleme değil,
+gelir akışını ulusal kalkınma projesine yöneltme girişimiydi.
+
+Mısır şirket hissedarlarına tazminat ödeyeceğini ve gemi geçişini sürdüreceğini
+bildirdi. Böylece çatışma “Mısır kanalı kapattı mı?” sorusundan çok, bir devletin
+kendi toprağındaki uluslararası önemde bir şirketi tek taraflı devralma hakkı ve
+bu hakkın güvenilir biçimde uygulanıp uygulanamayacağı üzerinde yoğunlaştı.[^k1]
+
+## Gizli Sèvres planı
+
+Britanya ve Fransa, İsrail ile gizli görüşmelerde eşgüdümlü bir harekât kurdu.
+Sèvres Protokolü'ne göre İsrail Sina'ya saldıracak; Britanya ile Fransa iki
+tarafa kanaldan çekilme ültimatomu verecek; Mısır'ın reddi beklenerek kanal
+bölgesine askerî müdahale için gerekçe oluşturulacaktı.[^k1] Arabuluculuk dili,
+önceden planlanmış işgalin perdesiydi.
+
+İsrail'in kendi güvenlik hesapları vardı: Gazze'den fedai saldırıları, sınır
+çatışmaları, Tiran Boğazı'nın kapatılması ve Mısır'ın silahlanması. Bu çıkarlar
+onu Avrupa güçlerinin kanal hedefiyle geçici olarak birleştirdi. Üç aktör aynı
+operasyona katıldı, fakat aynı savaş amacına sahip değildi.[^k1]
+
+Gizli anlaşma açığa çıktığında Britanya ile Fransa'nın tarafsız barış gücü gibi
+sunulması inandırıcılığını kaybetti. Kriz, diplomatik bir metnin yalnız içeriğinin
+değil, ilan edilen gerekçeyle gerçek koordinasyon arasındaki farkın da
+meşruiyeti belirlediğini gösterir.[^k1]
+
+## Askerî başarı, siyasal yenilgi
+
+İsrail kuvvetleri 29 Ekim 1956'da Sina'ya girdi; Britanya ve Fransa ültimatomun
+ardından hava saldırısı ve Port Said çıkarması başlattı.[^k1] Mısır ordusu
+Sina'da geri çekildi, kanal batırılan gemilerle kapandı. Dar askerî ölçüde
+işgalciler hedef bölgeye ilerliyordu.
+
+Fakat askerî harekâtın dış koşulları çöktü. Amerika Birleşik Devletleri önceden
+haberdar edilmemişti ve işgali desteklemedi; Sovyetler sert tehditlerde bulundu;
+Birleşmiş Milletler ateşkes baskısı kurdu.[^k1] Aynı günlerde Sovyet ordusunun
+Macaristan ayaklanmasını bastırması, Batılı devletlerin hukuk ve özgürlük
+söylemini Süveyş'teki müdahaleyle çelişkili hâle getirdi.
+
+Britanya sterlini mali baskı altına girdi. Eisenhower yönetiminin IMF desteği ve
+dolar erişimi üzerindeki etkisi, Londra'nın askerî kazanımı sürdürecek ekonomik
+alanını daralttı.[^k1] Böylece savaş kapasitesinin yalnız asker ve gemiden değil,
+para birimine güven ile müttefik finansmanından oluştuğu görüldü.
+
+## Amerika ile Sovyetler aynı tarafta mıydı?
+
+İki süper güç işgale karşı çıktı, fakat aynı amaçla hareket etmedi. Amerika
+Avrupalı müttefiklerinin gizli operasyonundan, Arap dünyasında Sovyet etkisini
+büyütmesinden ve sömürgeci görüntüden kaygı duyuyordu. Sovyetler ise Mısır'a
+destek vererek bölgesel nüfuzunu ve sömürgecilik karşıtı konumunu güçlendirdi.[^k2]
+
+Ortak sonuç, ittifak anlamına gelmez. Soğuk Savaş bazen her yerel çatışmayı iki
+blokun karşı karşıya geldiği simetrik savaşa dönüştürmedi; rakip süper güçler
+farklı hesaplarla aynı eyleme karşı çıkabildi. Yerel aktörler de bu rekabeti
+kendi egemenlik hedefleri için kullanabildi.[^k1]
+
+Eisenhower Doktrini ertesi yıl Amerika'nın Orta Doğu'daki rolünü büyüttü. Eski
+Avrupa imparatorluklarının geri çekilmesi boş bir güç alanı yaratmadı; bölgesel
+devletlerin, Amerika'nın ve Sovyetlerin yeni rekabetini doğurdu. “Sömürge çağının
+sonu”, dış müdahalenin sonu değildi.[^k1]
+
+## Birleşmiş Milletler ve yeni barış gücü
+
+Güvenlik Konseyi'nde Britanya ile Fransa veto kullanabildiği için çözüm Genel
+Kurula taşındı. Birleşmiş Milletler Acil Durum Gücü ateşkesi gözetmek ve savaşan
+kuvvetler arasında tampon oluşturmak üzere kuruldu.[^k1] Bu, modern BM barış
+gücünün erken ve etkili örneklerinden biri oldu.
+
+Barış gücü egemen devletin rızasına dayanıyordu ve İsrail tarafına
+yerleştirilemedi; Mısır topraklarında konuşlandı. Bu sınır, uluslararası kurumun
+tarafsızlığı kadar üyelerin izin verdiği alana bağlı olduğunu gösterir. 1967'de
+Mısır gücün çekilmesini isteyince BM ayrıldı; geçici çözüm kalıcı siyasi anlaşma
+yerine geçmemişti.[^k1]
+
+İşgal kuvvetlerinin çekilmesi ve İsrail'in Sina'dan ayrılması, askerî operasyonun
+ilan edilen hedefleri kalıcılaştırmasını engelledi. Buna rağmen Tiran Boğazı'nın
+açılması ve Gazze sınırında BM varlığı İsrail'e belirli güvenlik kazanımları
+sağladı. Sonuç tek taraf için bütünüyle zafer veya yenilgi değildi.[^k1]
+
+## Nasır'ın zaferi neydi?
+
+Mısır ordusu sahada yenilmiş ve kanal geçici olarak kapanmıştı; yine de Nasır
+millîleştirmeyi korudu, işgalciler çekildi ve Arap dünyasında sömürgeciliğe
+direnen lider olarak büyük itibar kazandı.[^k1] Siyasal zafer ile askerî sonuç
+arasındaki ayrım krizin en öğretici yanıdır.
+
+Bu itibar pan-Arabizmi ve başka bağımsızlık hareketlerini güçlendirdi; Cezayir
+Ulusal Kurtuluş Cephesi Mısır desteğinden yararlanıyordu. Fransa açısından
+Nasır'ı zayıflatma hedefi Cezayir savaşından ayrı değildi. Bir kanal krizinin
+Kuzey Afrika'daki sömürge savaşıyla bağlanması, bölgesel siyaset ağını gösterir.[^k1]
+
+Britanya Başbakanı Eden istifa etti; ülkenin Amerika'dan bağımsız büyük güç
+harekâtı yürütme kapasitesi hakkındaki yanılsama ağır darbe aldı. Fransa ise
+Amerika'ya güvenilemeyeceği sonucunu çıkararak daha özerk savunma ve Avrupa
+işbirliği arayışına yöneldi. Aynı yenilgi iki müttefikte farklı stratejik ders
+üretti.[^k1]
+
+## Üç kısa anlatının sınırı
+
+*Nasır kanalı çaldı* sözü Mısır egemenliğini ve tazminat teklifini; “halkın
+malı geri alındı” sözü şirket hukuku ile kararın otoriter biçimini; “Batı
+emperyalizmi yenildi” sözü İsrail'in güvenlik hesabı ve süper güç baskısını
+eksik bırakır. Bir olayın ahlaki yönü olsa da mekanizması tek sloganla
+açıklanmaz.[^k1]
+
+Daha sağlam değerlendirme dört bilanço tutar: Kanalın mülkiyeti kimde kaldı?
+Hangi ordunun sahadaki hedefi gerçekleşti? Hangi hükümet iç ve bölgesel
+meşruiyet kazandı? Uluslararası güç dağılımı nasıl değişti? Süveyş'te bu dört
+sorunun cevabı aynı kazananı göstermez.[^k1]
+
+## Gündelik ve ekonomik bilanço
+
+Kanalın geçici kapanması gemileri Ümit Burnu çevresindeki daha uzun rotaya
+yöneltti; navlun, sigorta ve teslim süresi arttı. Avrupa'ya petrol akışı hem
+kanalın kapanması hem boru hatlarındaki kesinti nedeniyle daraldı.[^k1] Krizin
+ekonomik etkisi yalnız şirket hisselerinin el değiştirmesi değil, uzak ülkelerde
+enerji ve taşıma maliyetinin yükselmesiydi.
+
+Port Said ve çevresindeki bombardıman ile çatışma sivillerin ölümüne, yaralanmaya
+ve yerinden edilmeye yol açtı. Askerî anlatıda para birimi baskısı ve diplomasi
+öne çıkarken, kent sakininin deneyimi ev, iş ve güvenlik kaybıydı. Aynı sonucu
+farklı ölçeklerde ölçmek gerekir.[^k1]
+
+Kanalın Mısırlı pilot ve personelle işletilmeye devam edebilmesi, millîleştirme
+sonrasında düzenin çökeceği iddiasını zayıflattı. Egemenlik ilanı ancak teknik
+ve idari kapasiteyle sürdürülebilir hâle geldi. Simgesel bağımsızlık ile gündelik
+kurum işletme becerisi birbirini tamamladığında siyasal zafer kalıcılaştı.[^k1]
+
 ## Hukuki tartışma
 
 Uyuşmazlığın hukuki cephesi de kayıtlıdır: Mısır Akabe Körfezi'ni abluka altına
 aldı ve bu, 1888 tarihli İstanbul Sözleşmesi'ne aykırıydı; birçok kişi bunun aynı
 zamanda 1949 Ateşkes Anlaşmaları'nın da ihlali olduğunu ileri sürdü.[^k1]
-
-"Birçok kişi ileri sürdü" ifadesi bir uzlaşıyı değil bir iddiayı bildirir; korpus
-bu ayrımı korur.
 
 ## Ölçek
 

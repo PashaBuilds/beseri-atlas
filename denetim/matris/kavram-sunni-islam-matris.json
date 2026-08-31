@@ -410,10 +410,24 @@
       ],
       "guven": "yuksek",
       "inceleme": "HAKEM EKLEMESI: kapanis paragrafi dipnotsuzdu ve bugune dair desteksiz bir sentez tasiyordu. Cumle kaynagin kendi ifadesine indirildi: \"muslüman toplumlar hukuk birliginin ve hukuk guvenliginin saglanmasi ihtiyacini, belirli bir fikih mezhebini esas alip ona kanun misyonu yuklemek suretiyle karsilama yoluna girmis\"."
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "Bu başlıklar köşeli parantez içindedir, yani çeviride eserin kendi başlığı olarak verilmemiştir.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Köşeli parantez kullanımı k6'nın bibliyografik kaydında doğrudan görülebilir ve çevirmenin eklediği başlığı işaret eder."
     }
   ],
   "sayaclar": {
-    "dogrudan": 28,
+    "dogrudan": 29,
     "kismi": 1,
     "desteksiz": 0,
     "olculemez": 0

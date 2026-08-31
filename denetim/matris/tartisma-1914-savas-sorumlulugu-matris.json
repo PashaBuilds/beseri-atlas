@@ -1,7 +1,7 @@
 {
   "id": "tartisma-1914-savas-sorumlulugu",
-  "govde_hash": "c77278b3d778",
-  "commit": "9181554",
+  "govde_hash": "f72d0186d060",
+  "commit": "889239af",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -589,7 +589,7 @@
     },
     {
       "iddia_id": "c39",
-      "cumle": "Mombauer ise \"sleepwalker\" çerçevesinin sorumluluğun görelileştirilmesine yol açtığını, Berlin ve Viyana'da diplomasi yerine savaşı seçen bilinçli kararları gölgelediğini savunur; birden çok hükümetin krize katkısını kabul etmekle birlikte esas itici gücün Avusturya-Macaristan ve Almanya'dan geldiğini ve sorumluluk derecelerinin korunması gerektiğini vurgular.",
+      "cumle": "Mombauer ise Uyurgezerler çerçevesinin sorumluluğun görelileştirilmesine yol açtığını, Berlin ve Viyana'da diplomasi yerine savaşı seçen bilinçli kararları gölgelediğini savunur; birden çok hükümetin krize katkısını kabul etmekle birlikte esas itici gücün Avusturya-Macaristan ve Almanya'dan geldiğini ve sorumluluk derecelerinin korunması gerektiğini vurgular.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -900,6 +900,10 @@
     {
       "zaman": "2026-08-29",
       "gerekce": "2 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-30",
+      "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
     }
   ]
 }

@@ -53,7 +53,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Tanım
 
 Eşitsiz antlaşmalar, yükümlülüğün tek yöne aktığı antlaşmalardır.[^k1]
@@ -62,8 +61,7 @@ Bir taraf hak ve ayrıcalık alır, diğer taraf yükümlülük üstlenir.
 Biçim olarak sıradan bir antlaşmadan ayırt edilemez.[^k2] İki tarafın
 imzası, resmî onay ve yürürlük maddeleri aynıdır.
 
-Ayrım maddelerin dağılımındadır.[^k3] Korpus bu yüzden bir antlaşmayı
-adına değil madde dizisine bakarak sınıflandırır.
+Ayrım maddelerin dağılımındadır.[^k3]
 
 ## Dört tekrar eden madde
 
@@ -118,9 +116,7 @@ belirleyip belirleyemediği, egemenliğin en somut ölçütlerinden biridir.[^k3
 Sabit ve düşük tarife, yerli üretimi korumayı imkânsız kılar.[^k1]
 Yeni kurulan üretim dalları rekabete açık kalır.
 
-Bu, korpusun tek ürüne bağlanma dosyasındaki yapıyla kesişir.[^k2]
-Korunmayan bir pazar, kolayca ihracata dayalı bir düzene
-yerleşir.
+Korunmayan bir pazar, kolayca ihracata dayalı bir düzene yerleşir.
 
 Ticaret siyasetinin dışarıdan
 belirlenmesi, üretim yapısını da dışarıdan belirler.[^k3]
@@ -134,9 +130,6 @@ göre değişir.
 Aynı olay, faile göre farklı hukuka tabi olur.[^k1] Bu, tek bir
 toprakta birden çok hukuk düzeni demektir.
 
-Bu, korpusun vatandaşlık dosyasında
-tanımlanan katmanlı hukukun bir biçimidir.[^k3]
-
 ## İki metin sorunu
 
 Antlaşmalar iki dilde hazırlanıyordu.[^k2] Metinler her zaman
@@ -144,10 +137,6 @@ birbirinin tam karşılığı değildi.
 
 Hangi metnin esas alınacağı ayrı bir maddeyle belirleniyordu.[^k1] Bu
 madde, çoğu zaman bir tarafın dilini üstün kılıyordu.
-
-Aynı yapı, korpusun Waitangi ve Adva
-dosyalarında da kayıtlıdır: iki metinli bir antlaşmada, hangi metnin geçerli olduğu
-antlaşmanın kendisinden daha belirleyicidir.[^k3]
 
 ## Adın kendisi
 

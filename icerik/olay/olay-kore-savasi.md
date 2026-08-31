@@ -242,9 +242,7 @@ defalarca yer değiştirdi — yalnız Seul bir yıl içinde dört kez el deği�
 savaş öncesi 1,5 milyonluk nüfusu 200 bine indi — ve kayıt tutacak yönetim her
 seferinde değişti.[^k9]
 
-::tartismali[Askerî kayıplar birim kütüklerinden sayılabildiği için dar aralıklı,
-sivil kayıplar sayılamadığı için milyonluk aralıklarla verilir; bu fark ölçmenin
-zorluğundan değil, kimin sayıldığına dair bir karardan doğar.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Askerî kayıplar birim kütüklerinden sayılabildiği için dar aralıklı, sivil kayıplar sayılamadığı için milyonluk aralıklarla verilir; bu fark ölçmenin zorluğundan değil, kimin sayıldığına dair bir karardan doğar.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bombardımanın ölçeği çoğu anlatıda eksik kalır. Amerika'nın Kore'ye attığı
 bomba toplamı 635 bin ton olarak verilir; kaynağın aktardığı alıntıda napalm
@@ -270,21 +268,19 @@ kişidir.[^k9] Kuzey tarafında en çok bilinen olay, 28 Haziran 1950'de Seul
 
 ## Bir soruşturmanın kendi içindeki gerilim
 
-29 Eylül 1999'da bir haber ajansının yayımladığı dosya, 1950 Temmuzunda No Gun
-Ri yakınlarında Amerikan askerlerinin mültecilere ateş açtığı iddiasını
-gündeme getirdi; iki hükümet bağımsız ama işbirliği içinde soruşturmalar
-başlattı.[^k7] Raporun kendi ifadesiyle bu inceleme, Koreli yurttaşların daha
-önce resmî soruşturma için yürüttüğü çabayı öne çıkarmıştı; soruşturmayı
-doğuran etkenler haberden ibaret değildi.[^k7] Amerikan tarafının Ocak 2001'de
-yayımlanan raporu bir milyondan fazla belge taradı, yaklaşık 200 Amerikalı
-tanıkla görüştü ve yaklaşık 75 Koreli tanığın ifade ve tutanaklarını
-çözümledi.[^k7] Bulgu iki yönlüdür: rapor, No Gun Ri yakınlarında ne olduğunu
-kesinlikle belirleyemediğini söyledikten sonra o hafta çevrede bilinmeyen
-sayıda Korelinin küçük silah, havan, topçu ateşi ve alçak uçuşlu saldırıların
-etkisiyle öldüğünü ya da yaralandığını kabul eder; ama ölümleri savaşa içkin
-talihsiz bir trajedi sayar, kasıtlı bir öldürme olmadığı sonucuna varır ve
-komutanların 25-29 Temmuz 1950 arasında mültecilere ateş emri vermediğini
-yazar.[^k7]
+29 Eylül 1999'da bir haber ajansının yayımladığı dosya, 1950 Temmuzunda No Gun Ri
+yakınlarında Amerikan askerlerinin mültecilere ateş açtığı iddiasını gündeme getirdi;
+iki hükümet bağımsız ama işbirliği içinde soruşturmalar başlattı.[^k7] Amerikan
+raporu, haberin Koreli yurttaşların daha önce resmî soruşturma için yürüttüğü
+çabaları öne çıkardığını belirtir.[^k7] Amerikan
+tarafının Ocak 2001'de yayımlanan raporu bir milyondan fazla belge taradı, yaklaşık 200
+Amerikalı tanıkla görüştü ve yaklaşık 75 Koreli tanığın ifade ve tutanaklarını
+çözümledi.[^k7] Bulgu iki yönlüdür: rapor, No Gun Ri yakınlarında ne olduğunu kesinlikle
+belirleyemediğini söyledikten sonra o hafta çevrede bilinmeyen sayıda Korelinin küçük
+silah, havan, topçu ateşi ve alçak uçuşlu saldırıların etkisiyle öldüğünü ya da
+yaralandığını kabul eder; ama ölümleri savaşa içkin talihsiz bir trajedi sayar, kasıtlı
+bir öldürme olmadığı sonucuna varır ve komutanların 25-29 Temmuz 1950 arasında
+mültecilere ateş emri vermediğini yazar.[^k7]
 
 Aynı rapor kendi sonucunu zorlayan kayıtları da basar. 8. Süvari Alayı'nın 24
 Temmuz 1950 tarihli muhabere kütüğünde "Fire everyone trying to cross the

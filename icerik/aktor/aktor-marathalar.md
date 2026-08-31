@@ -52,7 +52,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Marathalar, on yedinci yüzyıl sonunda Hindistan yarımadasının batı
@@ -63,9 +62,8 @@ bu zincir düzenin ilk yarım yüzyılında belirleyici oldu.
 Düzen, bir yüzyıl içinde yarımadanın büyük bölümünde etkili hâle
 geldi.[^k3] Buna karşılık bu alanın tamamını yönetmedi.
 
-Bu incelemenin asıl konusu o ayrımdır.[^k2] Etki alanı ile yönetim alanı
-birbirinden farklıydı; fark, kullanılan mali araçtan doğuyordu ve bu
-araç düzenin bütün coğrafi görünümünü belirledi.
+Etki alanı ile yönetim alanı birbirinden farklıydı; fark, kullanılan mali araçtan
+doğuyordu ve bu araç düzenin bütün coğrafi görünümünü belirledi.
 
 ## Mali araç
 
@@ -102,9 +100,6 @@ olabilir.
 Yaygın haritalar bu durumu tek renkle gösterir.[^k3] Gösterim, iki ayrı
 ilişkiyi tek bir hâkimiyet ilişkisine indirger.
 
-Bu, korpusun sınır tartışması
-dosyasında tanımlanan sorunun en somut örneklerindendir.[^k2]
-
 ## Konfederasyon adlandırması
 
 Düzen yaygın olarak konfederasyon diye anılır.[^k1] Ad, merkezî bir
@@ -122,9 +117,8 @@ bütün dönemleri için aynı yapıyı ima etmemelidir.[^k2]
 Kurucudan sonra yetki, kalıtsal hâle gelen başbakanlık makamına
 geçti.[^k1] Hükümdar makamı korundu ama fiilî yönetim başbakanlıktaydı.
 
-Bu, korpusun başka dosyalarında ölçtüğü bir örüntüdür.[^k3] Unvan ile
-yetkinin ayrılması, meşruiyet kuralının bağlayıcı kaldığı düzenlerde
-görülen çözümdür.
+Unvan ile yetkinin ayrılması, meşruiyet kuralının bağlayıcı kaldığı düzenlerde görülen
+çözümdür.
 
 Sonraki aşamada yetki bölgesel evlere dağıldı.[^k2] Her ev kendi
 ordusunu ve kendi gelir hattını kurdu.
@@ -135,9 +129,8 @@ Bölgesel evlerin ayrı ordular kurması, toplam gücü artırdı ve ortak
 hareketi zorlaştırdı.[^k1] Büyük savaşlarda birlikte hareket edilmesi
 her seferinde ayrıca sağlanmak zorundaydı.
 
-Bu, korpusun Aşanti dosyasında ölçtüğü kısıtla aynıdır.[^k3] Federatif
-kuruluşlar geniş kuvvet toplayabilir ama uzun süreli savaşta dağılma
-riski taşır.
+Federatif kuruluşlar geniş kuvvet toplayabilir ama uzun süreli savaşta dağılma riski
+taşır.
 
 Karşı taraf bu yapıyı kullandı.[^k2] Evleri ayrı ayrı ele alan bir
 strateji, hepsini aynı anda karşılamaktan ucuzdur.
@@ -174,9 +167,7 @@ yöneltildi.
 On sekizinci yüzyıl ortasında imparatorluğun başkenti fiilen bu düzenin
 korumasına girdi.[^k3] Hükümdar makamı korundu, yetki değişti.
 
-Bu, korpusun Buhara dosyasında ölçtüğü ayrımın bir başka
-örneğidir.[^k2] Bir yapının adı ve biçimi, yetkisi alındıktan sonra da
-sürebilir.
+Bir yapının adı ve biçimi, yetkisi alındıktan sonra da sürebilir.
 
 ## 1761 yenilgisi
 
@@ -253,22 +244,18 @@ artırmaz ama o gücün karşılığında ne talep edilebileceğini değiştirir
 Düzenin batı kıyısında bir donanması vardı.[^k1] Donanma, kıyı
 ticaretini denetliyor ve geçiş ücreti topluyordu.
 
-Bu, korpusun çok az güney Asya dosyasında görülen bir özelliktir.[^k3]
-Kara düzenlerinin çoğu deniz gücüne yatırım yapmaz; burada yapılmıştır
-ve bir dönem etkili olmuştur.
+Kara düzenlerinin çoğu deniz gücüne yatırım yapmaz; burada yapılmıştır ve bir dönem
+etkili olmuştur.
 
 Donanma sonraki dönemde tasfiye edildi.[^k2] Tasfiye, karşı tarafla
 yapılan anlaşmaların bir maddesiydi ve kıyı denetimi el değiştirdi.
 
 ## Kaynak durumu
 
-Bu incelemenin üç künyesinden ikisi dönem tanıklığıdır ve ikisi de karşı
-taraftan gelir.[^k2] Biri ilhak döneminde görev yapmış bir subayın
-anlatısı, biri sonraki bir ansiklopedi maddesidir.
+Biri ilhak döneminde görev yapmış bir subayın anlatısı, biri sonraki bir ansiklopedi
+maddesidir.
 
-Düzenin kendi defterleri ve Marathi dilindeki vakayinameleri
-mevcuttur.[^k1] Doğrulanabilir çevrimiçi baskıları bu inceleme
-yazıldığında bulunamamıştır.
+Düzenin kendi defterleri ve Marathi dilindeki vakayinameleri mevcuttur.[^k1]
 
 Eksik borç defterine yazılmıştır.[^k3] Dosyanın asıl bulgusu gelir
 defterlerine dayanır ve o defterler künyelenememiştir; kısıt burada
@@ -283,9 +270,7 @@ Savaşların askerî ayrıntısı kapsam dışıdır.[^k2] Dosya yalnızca mali
 araca ve federatif yapının sonuçlarına ilişkin olanı kaydeder;
 seferlerin güzergâhı ve kayıpları ayrı bir çalışma gerektirir.
 
-Toplumsal yapı ve kast düzeniyle ilişkisi işlenmez.[^k3] Ayrı bir dosya
-gerektirir ve korpusta o dosya bulunmaktadır; düzenin hangi toplumsal
-kesimlerden asker ve yönetici devşirdiği ayrıca incelenmelidir.
+Toplumsal yapı ve kast düzeniyle ilişkisi işlenmez.[^k3]
 
 ## Kanıtın ve kapsamın sınırı
 Dosya, mali aracın genel bir üstünlük olduğunu ileri sürmez.[^k1]
@@ -305,13 +290,34 @@ kaldıran taraf için
 [İngiliz Doğu Hindistan Şirketi](/aktor/ingiliz-doguhindistan-sirketi/)
 dosyaları okunmalıdır.[^k1]
 
-Haritada sınırın neden çizilemediği için
-[İmparatorluk sınırı nasıl çizilir](/tartisma/imparatorluk-siniri-nasil-cizilir/)
-dosyası uygundur; bu inceleme oraya en somut örneği sağlar.[^k3]
-
 Yönetmeden gelir alma ilişkisinin genel biçimi için
 [Haraçgüzarlık](/kavram/haracguzarlik/) ve
 [Mandala devleti](/kavram/mandala-devleti/) dosyaları okunabilir.[^k2]
 
 Aynı yarımadadan bir önceki büyük düzen için
 [Vijayanagara](/aktor/vijayanagara/) dosyası okunmalıdır.[^k1]
+
+## Gelir hakkı ile doğrudan yönetim arasındaki fark
+
+Maratha genişlemesi her yerde aynı bürokratik idarenin kurulması demek değildi.
+*Chauth* ve benzeri talepler, başka hükümdarın yönettiği alandan gelir payı alma
+iddiası yaratabiliyordu.[^k1][^k2] Vergi hakkı, askerî koruma, garnizon ve günlük
+yargı farklı aktörlerde kaldığında tek çizgili sınır haritası yönetimin gerçek
+yoğunluğunu göstermez.
+
+Konfederasyon yapısında Peshwa ile büyük hanedan evleri ortak düşman karşısında
+birleşebilir, başka konuda rakip hareket edebilirdi.[^k1][^k3] Bu esneklik hızlı
+yayılmayı kolaylaştırırken ortak strateji ve veraset krizlerinde parçalanma
+yarattı. Babür çözülmesi açılan alanı açıklasa da Maratha başarısı hareketli
+askerî örgütlenme, yerel gelir bilgisi ve ittifak kapasitesi olmadan anlaşılamaz.
+İngiliz Doğu Hindistan Şirketi’yle mücadele de iki yekpare devletin değil, değişen
+koalisyon ve mali ağların çatışmasıydı.
+
+Bu nedenle savaş sonuçları yalnız muharebe gücüyle değil, hangi tarafın yerel
+gelir toplayıcıları ve hanedan ortaklarıyla daha dayanıklı bağ kurabildiğiyle açıklanmalıdır.
+
+Muharebe haritası, mali sadakat haritasıyla birlikte okunmalıdır.
+
+İki harita çakışmadığında kalıcı denetim iddiası zayıflar.
+
+Yerel kayıtlar belirleyicidir.

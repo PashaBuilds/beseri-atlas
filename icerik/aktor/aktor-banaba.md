@@ -52,7 +52,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ada ne
 
 Banaba, Pasifik'in orta kesiminde küçük ve yüksek bir mercan
@@ -62,8 +61,7 @@ belirgin biçimde yükselir.
 Bu yükseklik, adanın kaderini belirledi.[^k2] Yüzeyin altında kalın
 bir fosfat tabakası vardı.
 
-Bu incelemenin konusu madenciliğin tekniği değildir.[^k3] Bir topluluğun
-toprağıyla bağının hangi işlemlerle koparıldığıdır.
+Bir topluluğun toprağıyla bağının hangi işlemlerle koparıldığıdır.
 
 ## Fosfatın bulunması
 
@@ -214,9 +212,6 @@ anlatılar aynı taraftan gelir.
 Adalıların kendi kaydı sözlü aktarıma dayanır.[^k1] Yazılı hâle
 gelmesi çok sonradır.
 
-Bu, korpusun Pasifik işçi toplama
-dosyasında kurulan kuralın buradaki karşılığıdır.[^k3]
-
 ## Ada nüfusunun büyüklüğü
 
 Ada küçüktü ve nüfusu da küçüktü.[^k1] Bu, madenciliğin nüfusa
@@ -343,3 +338,24 @@ Bölgede işgücünün nasıl sağlandığı için
 bilanço için
 [Sömürgeciliğin ekonomik bilançosu](/tartisma/somurgeciligin-ekonomik-bilancosu/)
 dosyaları okunabilir.[^k3]
+
+## Kaynağın değeri ile topluluğun maliyeti
+
+Fosfatın tarımsal verim için uzak pazarlarda değer kazanması, Banaba’nın taşını
+küresel bir üretim girdisine çevirdi. Madencilik geliri şirket, sömürge idaresi
+ve tüketici tarım ekonomileri arasında dolaşırken adanın yaşanabilir yüzeyi
+daraldı.[^k1][^k2] Parasal ödeme, toprağın beslenme, mezarlık, hafıza ve siyasal
+aidiyet değerlerini aynı ölçüde karşılamaz.
+
+Rabi’ye yerleştirme “boş alana gönüllü göç” gibi anlatılmamalıdır. Savaş,
+madencilik tahribatı ve idari karar Banabalıların seçeneklerini önceden
+sınırlamıştı.[^k1] Yeni yerde mülkiyet sağlanması eski adadaki hak iddiasını
+kendiliğinden sona erdirmedi. Banaba böylece çevresel tahribat, zorunlu yerinden
+edilme ve topluluğun iki ada arasında süren siyasal varlığını aynı olayda
+birleştiren bir örnektir.
+
+Madencilik bilançosu çıkarılırken ihraç edilen fosfatın değeri kadar kaybolan
+ekosistem, zorunlu göç ve kuşaklar arası toprak hakkı da hesaba katılmalıdır.
+
+Hesap yalnız geçmiş üretimi değil, bugün süren onarım ve geri dönüş taleplerini
+de içerdiğinde tarihsel maliyet görünür olur.

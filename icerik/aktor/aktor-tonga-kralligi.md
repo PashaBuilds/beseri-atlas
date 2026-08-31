@@ -58,7 +58,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Tonga Krallığı, on dokuzuncu yüzyıl ortasında takımadanın adalarının tek
@@ -85,7 +84,6 @@ Sonuçlar karşıttır.[^k3] Biri yüzyıl sonunda devrildi ve ilhak edildi;
 ## Karşılaştırmanın verdiği
 
 Aynı araç karşıt sonuç verdiyse, sonucu belirleyen araç değildir.[^k1]
-Bu, korpusun bu incelemeden çıkardığı temel kayıttır.
 
 Gözlem yaygın bir varsayımı bozar.[^k2] Yazılı anayasa kabul etmek,
 kendi başına bir koruma sağlamaz; belgenin ne düzenlediği belirleyicidir.
@@ -114,9 +112,7 @@ Toprak toplanamadığında, dışarıdan gelen sermaye ekonomiyi ele
 geçiremez.[^k1] Ele geçiremediğinde, o sermayeyi taşıyan nüfus da
 siyasi ağırlık kazanamaz.
 
-Zincirin ilk halkası hukukidir.[^k1] Korpus bu nedenle sonucu ekonomik
-değil hukuki bir karara bağlar; ekonomik sonuç, o kararın ardından
-gelir.
+Zincirin ilk halkası hukukidir.[^k1]
 
 ## Birleşmenin koşulu
 
@@ -142,8 +138,7 @@ Yazının yaygınlaşması, hukukun yerel dilde yazılabilmesini
 sağladı.[^k1] Anayasa ve yasalar halkın okuyabildiği bir dilde
 yayımlandı.
 
-Bu, korpusun Waitangi dosyasındaki durumdan farklıdır.[^k2] Orada yerel
-dildeki metin bir çeviriydi; burada yerel dil hukukun asıl dillerinden
+Orada yerel dildeki metin bir çeviriydi; burada yerel dil hukukun asıl dillerinden
 biriydi.
 
 ## Anayasanın yazılma nedeni
@@ -226,9 +221,8 @@ Geçiş bir bağımsızlık savaşı gerektirmedi.[^k2] Devredilen yetki geri
 alındı; kurulacak yeni bir devlet yoktu çünkü devlet hiç ortadan
 kalkmamıştı.
 
-Bu, korpusun sömürgesizleşme dosyasındaki örüntülerden ayrılır.[^k3]
-Sömürgesizleşmenin olağan biçimi yeni bir devletin kurulmasıdır; burada
-süreklilik korunmuştur.
+Sömürgesizleşmenin olağan biçimi yeni bir devletin kurulmasıdır; burada süreklilik
+korunmuştur.
 
 ## Nüfus bileşimi
 
@@ -267,9 +261,7 @@ görünen en keskin ve en doğrudan izlenebilir fark olarak kaydeder.[^k1]
 
 ## Dönemin kendi bakışı
 
-Bu incelemenin ikinci künyesi yirminci yüzyıl başından bir ansiklopedi
-maddesidir.[^k2] Olgu kaynağı olarak değil, dönem tanıklığı olarak
-kullanılmıştır.
+Olgu kaynağı olarak değil, dönem tanıklığı olarak kullanılmıştır.
 
 Maddenin dili ve sınıflandırmaları, yazıldığı dönemin çerçevesini
 taşır.[^k2] Bu, kullanımını sınırlar ama değersiz kılmaz.
@@ -279,9 +271,7 @@ okunması, olgu bildirimi olarak okunmasından farklı kurallara tabidir.[^k1]
 
 ## Kaynak durumu
 
-Bu incelemenin birinci künyesi anayasa metninin bir
-transkripsiyonudur.[^k1] Asıl nüsha değildir ve transkripsiyon doğruluğu
-bağımsız olarak sınanmamıştır.
+Asıl nüsha değildir ve transkripsiyon doğruluğu bağımsız olarak sınanmamıştır.
 
 Metnin hangi baskısının ve hangi tarihli değişikliklerinin verildiği
 sayfada tam olarak izlenememektedir.[^k1] Bu kısıt burada beyan edilir.
@@ -292,14 +282,12 @@ dayanmaktadır.
 
 ## Kapsam dışı
 
-Hükümdarların tek tek biyografileri burada işlenmez.[^k3] Ayrı dosyalar
-gerektirirler ve bu inceleme yazıldığında korpusta bulunmuyorlardı.
+Hükümdarların tek tek biyografileri burada işlenmez.[^k3]
 
 Birleşme öncesi siyasi düzen de kapsam dışıdır.[^k2] Takımadanın erken
 dönem hiyerarşisi ayrı bir çalışma gerektirir.
 
-Bugünkü siyasi tartışmalar ve anayasa değişiklikleri işlenmez.[^k1] Korpus
-güncel siyasi durumlar hakkında değerlendirme yapmaz.
+Bugünkü siyasi tartışmalar ve anayasa değişiklikleri işlenmez.[^k1]
 
 ## Kanıtın ve kapsamın sınırı
 Dosya bir başarı anlatısı kurmaz.[^k3] Bağımsızlığın korunması, yönetimin
@@ -309,15 +297,7 @@ düzenin kendi eşitsizlikleri burada işlenmemiştir.
 Toprak hükmünün sonucu tek başına belirlediği de ileri
 sürülmez.[^k1] Hüküm, izlenebilir en keskin fark olarak kaydedilir.
 
-Karşılaştırma iki örnekle sınırlıdır.[^k2] İki örnekten bir kural
-çıkarılamaz ve bu inceleme bir kural önermez; ölçülebilir bir iddia
-kurulabilmesi için aynı okyanustan daha çok örneğin künyelenmesi gerekir
-ve bu, korpusun açık borcudur.
-
-## Okumayı sürdürmek için
-Karşılaştırmanın öteki tarafı için
-[Hawai Krallığı](/aktor/hawai-kralligi/) dosyası okunmalıdır; bu inceleme
-onsuz eksiktir ve ikisi birlikte tek bir soruyu kurar.[^k1]
+Karşılaştırma iki örnekle sınırlıdır.[^k2]
 
 Aynı okyanustan ve aynı dönemden bir başka belge sorunu için
 [Waitangi Antlaşması](/olay/waitangi-antlasmasi-1840/) ve
@@ -331,3 +311,26 @@ okunabilir.[^k3]
 
 Belgelerin nasıl sınanacağı için
 [Birincil kaynak](/kavram/birincil-kaynak/) dosyası okunmalıdır.[^k1]
+
+## Aynı araç neden Hawai’de ve Tonga’da farklı sonuç verdi?
+
+1875 Anayasası, hükümdarlığı yazılı kurala bağlarken toprak, yönetim ve dış
+tanınma konusunda merkezî bir devlet dili kurdu.[^k1][^k3] Belgenin varlığı tek
+başına bağımsızlığı korumadı; yerli hanedanın ittifak kurma kapasitesi, ada
+toplumundaki güç dengesi, misyoner etkisi ve dış devletlerin mali-stratejik
+hesaplarıyla birlikte çalıştı. Hukuki araç ancak onu uygulayabilen kurumlarla
+sonuç üretti.
+
+Hawai Krallığı da anayasa, diplomasi ve uluslararası tanınma geliştirmişti;
+yine de plantasyon sahiplerinin örgütlü gücü ile ABD bağlantısı krallığın karar
+alanını içeriden daralttı. Tonga’da ise hükümdarlık ve yönetici seçkinler dış
+baskıyı bir ölçüde tek merkezde karşılayabildi. Bu fark, “anayasa bağımsızlığı
+korur” gibi tek nedenli bir sonuca izin vermez.[^k3]
+
+Britanya himayesi Tonga’nın bütün egemenliğini ortadan kaldırmadan dış ilişki
+alanını sınırladı.[^k2][^k3] Bu ara statü ilhakla aynı değildir; hangi kararın
+yerli kurumlarda kaldığı, hangisinin dış güce geçtiği ayrı ayrı izlenmelidir.
+Karşılaştırmanın gerçek dersi, aynı metin biçiminin farklı toplumsal koalisyon ve
+uluslararası çıkarlar içinde karşıt sonuçlar verebilmesidir.
+
+Belgeyi nedensel anahtar değil, bu ilişkileri düzenleyen araç olarak okumak gerekir.

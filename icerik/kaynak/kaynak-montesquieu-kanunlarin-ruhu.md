@@ -61,16 +61,11 @@ son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak, yazarın adını Baron de Montesquieu, Charles-Louis de Secondat olarak
 verir ve maddenin ilk kez 18 Temmuz 2003'te yayımlandığını, 2 Nisan 2014'te
 esaslı biçimde gözden geçirildiğini kaydeder.[^k1]
-
-Bir ansiklopedi maddesinin kendi yayın ve gözden geçirme tarihlerini taşıması,
-[^k1] korpusun kaynak alanında neden erişim tarihi tuttuğunun dayanağıdır: bir
-madde zamanla değişir.
 
 Aynı kayıt, yazarı Aydınlanma'nın büyük siyaset filozoflarından biri olarak
 kaydeder
@@ -82,10 +77,6 @@ kurduğunu yazar.[^k1]
 
 Kaynak, yazarın bu açıklamayı yönetimlerin yozlaşmadan nasıl korunabileceğini
 açıklamak için kullandığını yazar.[^k1]
-
-Bir betimlemenin açıkça bir amaca bağlanması,[^k1] korpusun şu kuralının
-dayanağıdır: bu esere yapılan atıflarda betimleme ile öneri ayrı ayrı
-belirtilir.
 
 ## Tehlike bütün yönetim biçimleri için sayılır
 
@@ -104,8 +95,7 @@ gösterir; ilgili kavram
 Kaynak yazarı doymak bilmez biçimde meraklı ve iğneleyici biçimde komik olarak
 niteler.[^k1]
 
-Korpus bu nitelemeyi benimsemez, kime ait olduğunu belirterek taşır. Yazar
-[Montesquieu](/dusunur/montesquieu/) dosyasında ele alınıyor.
+Yazar [Montesquieu](/dusunur/montesquieu/) dosyasında ele alınıyor.
 
 ## Sonraki on yıllardaki uygulama alanı
 
@@ -113,16 +103,7 @@ Sonraki on yıllardaki uygulama alanlarından biri için tutulan kayıt, o olay�
 bir madde olarak işler.[^k3] O olay
 [Fransız Devrimi](/olay/fransiz-devrimi/) dosyasında ele alınıyor.
 
-Korpus iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde
-böyle bir bağ belirtilmemiştir.[^k1][^k3]
-
-## Okumayı sürdürmek için
-Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi çevirinin kullanıldığı her
-aktarımda belirtilmelidir.
-
 ## Metne bağ
 
-Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
-atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
-çevirinin kullanıldığı her aktarımda belirtilmelidir.
+Eserin tam metin kaydı erişilebilir durumdadır; her atıf bölüm ya da paragraf
+numarasıyla verilmeli, kullanılan baskı ve çeviri belirtilmelidir.[^k4]

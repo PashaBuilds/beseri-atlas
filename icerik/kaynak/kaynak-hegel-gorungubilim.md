@@ -60,7 +60,6 @@ son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak, yazarın 1806 sonunda ilk büyük eserini tamamladığını ve eserin 1807'de
@@ -72,10 +71,6 @@ yaklaşımından bir ayrışma gösterdiği kaydedilir.[^k1]
 Kaynak, Schelling'in eserin önsözündeki iğneli bir eleştiriyi kendisine yönelik
 yorumladığını ve dostluklarının aniden sona erdiğini yazar.[^k1]
 
-Bir metnin önsözünün bir ilişkiyi bitirmesi,[^k1] korpusun şu kuralının
-dayanağıdır: bu esere yapılan atıflar, önsöz ile ana metnin ayrı ayrı
-belirtilmesini gerektirir.
-
 ## Yazım koşulları kayıtlıdır
 
 Kaynak, elyazmasını tamamlarken Napolyon'un birliklerinin Jena'yı işgalinin
@@ -85,7 +80,7 @@ yazar.[^k1] İlgili savaşlar
 
 ## Eserin okuması tartışmalıdır
 
-::tartismali[Kaynak yazarın felsefesine dair üç ayrı okumayı alt başlıklar hâlinde sıralıyor ve hangisinin doğru olduğunu söylemiyor. Korpus da söylemez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Kaynak yazarın felsefesine dair üç ayrı okumayı alt başlıklar hâlinde sıralıyor ve hangisinin doğru olduğunu söylemiyor.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Kaynak okumaları şöyle adlandırır: geleneksel metafizik görüş, kimi zaman
 metafizik olmayan görüş de denen Kant sonrası görüş ve Kant sonrası görüşe karşı
@@ -95,13 +90,7 @@ gözden geçirilmiş metafizik tepki.[^k1] Okumalardan birinin adını aldığı
 alınıyor.[^k3] Yazar
 [G. W. F. Hegel](/dusunur/hegel/) dosyasında ele alınıyor.
 
-## Okumayı sürdürmek için
-Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi baskının ve hangi çevirinin
-kullanıldığı her aktarımda belirtilmelidir.
-
 ## Metne bağ
 
-Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
-atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
-çevirinin kullanıldığı her aktarımda belirtilmelidir.
+Eserin tam metin kaydı erişilebilir durumdadır; her atıf bölüm ya da paragraf
+numarasıyla verilmeli, kullanılan baskı ve çeviri belirtilmelidir.[^k4]

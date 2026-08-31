@@ -53,7 +53,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Tanım
 
 Vatandaşlık, bir düzenin kimi kendi üyesi saydığını belirleyen
@@ -83,9 +82,6 @@ alınabilmesidir.[^k1] Bir düzen, üyeliğini geri çekebilir.
 
 Geri çekme kimseyi yerinden etmeden yapılabilir.[^k2] Kişi aynı yerde
 kalır; değişen tek şey hukuki konumudur.
-
-Korpusun apartheid dosyasında bu işlemin en
-kapsamlı örneği kayıtlıdır.[^k3]
 
 ## Kimsenin vatandaşı olmamak
 
@@ -138,9 +134,7 @@ kullanıldığı, o düzenin kendi iddiasını da gösterir.[^k2]
 kullanamayabilir, mülk edinemeyebilir ya da belirli görevlere
 giremeyebilir.
 
-Bu, korpusun toplumsal cinsiyet dosyasındaki ölçütle aynı
-yapıdadır.[^k2] Haklar tek bir paket değil, alan alan değişen bir
-dizidir.
+Haklar tek bir paket değil, alan alan değişen bir dizidir.
 
 Bir düzende kimin vatandaş sayıldığı ile
 kimin hangi hakları kullanabildiği ayrı ayrı sorulur.[^k3]
@@ -188,9 +182,16 @@ kendi dosyasında ele alınır.
 Göç ve sığınma rejimleri burada çözümlenmez.[^k2] Bağlantı gerçektir
 ama ayrı bir çalışma gerektirir.
 
-Kavramın çağdaş tartışmaları karara bağlanmaz.[^k3] Korpus kavramın
-tarihsel işleyişini kaydeder, bugünkü düzenlemeleri
-değerlendirmez.
+Kavramın çağdaş tartışmaları karara bağlanmaz.[^k3]
+
+## Statü, hak ve katılım
+
+Vatandaşlık yalnız pasaport veya hukukî üyelik değildir; haklara erişim, yükümlülük
+ve siyasal katılım katmanlarını birlikte taşır.[^k1] Bir kişi vergi ve askerlik
+yükümlülüğüne sahipken oy hakkından dışlanabilir; kâğıt üzerinde eşit üyelik de
+uygulamada eşit koruma sağlamayabilir. Tarihsel karşılaştırmada kimlerin vatandaş
+sayıldığı kadar kadınların, köleleştirilmiş insanların, yerlilerin ve göçmenlerin
+hangi hukukî ve fiilî mekanizmalarla dışarıda bırakıldığı sorulmalıdır.[^k2]
 
 ## Okumayı sürdürmek için
 Üyeliğin ulus ölçeğindeki biçimi için

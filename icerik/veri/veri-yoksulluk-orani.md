@@ -49,7 +49,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Seri 1990'da yüzde 43,41358244419098 ile başlar ve 2026'da yüzde
 9,975934773683548 ile biter.[^k1]
 
@@ -60,7 +59,12 @@ sürümüyle ve belirli bir yoksulluk sınırıyla birlikte tanımlar; ayrıca r
 türünün gelir ya da tüketim olduğunu ve anket karşılaştırılabilirliğine dair bir
 kaydı içerir.[^k1]
 
-::tartismali[Ölçünün adı tek başına altı ayrı karar taşıyor: eşik, parite sürümü, refah türü, tablo, anket karşılaştırılabilirliği ve sayım yöntemi. Bu kararlardan biri değişince oran da değişir. Korpus bu seriden okunan değerleri eşik belirtilmeden aktarmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Ölçünün adı tek başına altı ayrı karar taşıyor: eşik, parite sürümü, refah türü, tablo, anket karşılaştırılabilirliği ve sayım yöntemi. Bu kararlardan biri değişince oran da değişir.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+
+## Yoksulluk oranı eşitsizlik ölçüsü değildir
+
+Yoksulluk oranı belirlenmiş eşiğin altında kalan nüfus payını, Gini katsayısı
+ise dağılımın eşitsizliğini özetler; iki ölçü aynı soruyu yanıtlamaz.[^k1][^k3]
 
 Sayıların nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -70,23 +74,9 @@ haritasında ele alınıyor.
 
 Veri kümesinde dünya toplamı için 1990'dan önce gözlem bulunmaz.[^k1]
 
-Bir yoksulluk serisinin yalnızca son otuz beş yılı kapsaması,[^k1] korpusun şu
-kuralının dayanağıdır: bu incelemeden sanayi öncesi ya da sömürge dönemine dair bir
-yoksulluk oranı okunamaz. İlgili kuram
-[Bağımlılık kuramı](/kavram/bagimlilik-kurami/) dosyasında ele alınıyor.
+İlgili kuram [Bağımlılık kuramı](/kavram/bagimlilik-kurami/) dosyasında ele alınıyor.
 
 ## İlişkili seri
 
 Aynı sağlayıcının kişi başına GSYH serisinde dünya değeri 1820 için 1.127,73,
 2022 için 16.676,75'tir.[^k2]
-
-Bir ortalama ile bir dağılım ölçüsünün aynı yıl için farklı şeyler
-söyleyebilmesi,[^k1][^k2] korpusun bu iki seriyi ayrı dosyalarda tutmasının
-dayanağıdır; ilişkili dosyalar
-[Kişi başına GSYH, 1820–2022](/veri/kisi-basi-gsyh-1-2022/) ve
-[Gini katsayısı](/kavram/gini-katsayisi/) dosyalarıdır.[^k3]
-
-## Kanıtın ve kapsamın sınırı
-Ülke ülke oranlar, eşik seçiminin etkisi ve anket yöntemleri burada ayrı
-başlıklar altında ele alınmamıştır; bu inceleme yalnızca dünya toplamı serisini
-kaydeder.[^k1]

@@ -156,9 +156,8 @@ altında kültürel asimilasyon, kültürel temellük ve yabancı korkusu olgula
 yatar.[^k3]
 
 Bu gerilimin hangi kurumsal biçimi alacağı henüz belirlenmiş değildir. Kronolojik
-omurganın son halkası olarak bu inceleme, açık uçlu kalmayı tercih eder — kapanmamış
-bir sürece dönem tanısı koymak, bu projenin kaçındığı hakemlik biçimlerinden
-biridir.
+omurganın son halkası bu nedenle açık uçlu kalır: kapanmamış bir sürece kesin dönem
+tanısı koymak, kanıtın henüz taşımadığı bir hüküm vermek olur.
 
 ## Çatışma
 
@@ -180,8 +179,8 @@ Bitiş yoktur; dosya açık uçludur.
 Açık uçlu bir dönem dosyası özel bir sorun taşır.[^k1] Bir dönemin
 eksenini belirlemek, o dönem bitmeden yapılan bir tahmindir.
 
-Bu incelemenin eksen cümlesi, sonraki
-yıllarda değiştirilmesi en olası cümledir.[^k2]
+Eksen cümlesi, dönem kapanmadığı için sonraki yıllarda değiştirilmesi en olası
+önermedir.[^k2]
 
 ## Yakın dönemin özel zorluğu
 
@@ -189,7 +188,7 @@ Yakın dönem, uzak dönemden farklı bir sorun üretir.[^k1] Uzak dönemde
 sorun kaynak azlığı, yakın dönemde kaynak bolluğudur.
 
 Hangi olayın önemli olduğu, ancak sonuçları görüldükten sonra
-belirlenebilir.[^k3] Bu inceleme, o sonuçlar görülmeden yazılmıştır.
+belirlenebilir; buradaki sınıflandırma sonuçlar bütünüyle görülmeden yapılmıştır.[^k3]
 
 Yakın dönem hakkında yazılan her şey, sonraki
 yıllarda düzeltilmeye en açık olan kısımdır.[^k4]
@@ -401,11 +400,11 @@ tutulduğu sunucu kapandığında ortadan kalkar.
 Bir kaydın erişilebilir olması ile kalıcı
 olması ayrı iki özelliktir ve ikincisi azalmaktadır.[^k5]
 
-## Korpusun kendi kısıtı
+## Yakın dönemin kaynak kısıtı
 
-Bu inceleme, korpusun kendi kaynak havuzunun en zorlandığı
-dönemdir.[^k1] Ansiklopedik kaynaklar sürekli değişir ve birincil
-belge seçimi tartışmalıdır.
+Yakın dönem, kaynak bolluğuna rağmen seçimin en zor olduğu aralıktır.[^k1]
+Ansiklopedik kaynaklar sürekli değişir ve hangi birincil belgelerin temsil edici
+olduğu tartışmalıdır.
 
 Sayısal seriler bu dönem için güçlüdür.[^k5] Dosyanın dayanağının
 büyük bölümü bu yüzden veri katmanındadır.
@@ -433,9 +432,8 @@ Bölgesel ayrıntı sınırlıdır.[^k1] Şerit satırları, bölgelerin kendi
 tarihlerinden çok ortak mekanizmanın onlardaki görünümünü
 verir.
 
-Dosya, süregelen tartışmaları karara bağlamaz.[^k4] Yakın dönemde
-tarafların hâlâ konum aldığı bir tartışmada hakemlik etmek, korpusun
-ilkesine aykırıdır.[^k2]
+Süregelen tartışmalar burada karara bağlanmaz.[^k4] Tarafların hâlâ konum aldığı
+bir konuda kesin hüküm vermek, tarihsel mesafenin yokluğunu görmezden gelir.[^k2]
 
 
 ## Kriz sonrası para siyaseti
@@ -580,8 +578,8 @@ Bu döneme bağlanan dosyalar ağırlıklı olarak veri katmanındadır.[^k5]
 Nüfus, emisyon, gelir ve eğitim serileri dönemin başlıca
 dayanağıdır.
 
-Olay dosyaları henüz azdır.[^k3] Yakın dönemde hangi olayın dosya
-açmayı hak ettiği, korpusun en zor kararlarındandır.
+Yakın dönemde hangi olayın kalıcı sonuç üretecek kadar önemli olduğu henüz
+belirsizdir; olay seçimi bu nedenle önceki dönemlere göre daha geçicidir.[^k3]
 
 Bir olayın kalıcı sonuç üretip üretmediği, ancak
 aradan zaman geçtikten sonra görülür.[^k2][^k1]
@@ -612,7 +610,7 @@ Bir dönemin en kapsamlı kaydının
 
 ## Karşılaştırmanın sınırı
 
-Bu inceleme, önceki dönem dosyalarıyla aynı biçimde yazılmıştır.[^k1]
+Bu dönem, karşılaştırılabilirlik için önceki dönemlerle aynı yapıda yazılmıştır.[^k1]
 Karşılaştırılabilirlik bilinçli bir tercihtir.
 
 Buna karşılık kaynak tabanı farklıdır.[^k5] Önceki dönemler için
@@ -623,7 +621,7 @@ olmayabilir; dayandıkları kanıt türü farklıysa sonuçları da farklı ağ�
 taşır.[^k4][^k2]
 
 
-## Bu incelemenin gözden geçirilme kuralı
+## Gözden geçirilme kuralı
 
 Açık uçlu bir dosya, kapalı bir dosyadan farklı bir bakım
 gerektirir.[^k1] Eksen cümlesi ve dönem adı düzenli olarak yeniden
@@ -648,6 +646,30 @@ dönem başlamıştır; yavaşlamışsa aynı dönemin geç aşamasındayız.
 
 Bu, açık uçlu bir dönem dosyasının
 verebileceği en dürüst kapanıştır.[^k2][^k4][^k5]
+
+## Aynı dünyada farklı demografik ve ekolojik saatler
+
+2008 sonrasını tek bir “çok kutupluluk” etiketiyle açıklamak yetmez. Ekonomik ve
+askerî ağırlık daha fazla merkeze dağılırken ticaret, finans ve dijital altyapılar
+ülkeleri birbirine bağlamayı sürdürdü.[^k3] Bu nedenle rekabet ile karşılıklı
+bağımlılık zıt süreçler değildir: aynı devletler güvenlik alanında çatışırken enerji,
+teknoloji veya tedarik zincirlerinde birbirlerine bağımlı kalabilir. Kurumların
+aşınması da her yerde aynı rejim biçimine veya aynı nedene dayanmaz.
+
+Demografi bu farklılaşmayı daha görünür kılar. Dünya nüfusu büyümeye devam ederken
+artış hızı düşüyor; düşük doğurganlığa sahip toplumlar yaşlanma ve işgücü sorunlarıyla,
+daha genç toplumlar ise eğitim, istihdam ve kentleşme baskısıyla karşılaşıyor.[^k1][^k2][^k4]
+İklim değişikliği başka bir zaman ölçeği ekler. Yıllık emisyonların bugünkü dağılımı
+ile sanayileşme boyunca biriken sorumluluk aynı değildir; etkilenme kapasitesi de
+ülkeler arasında eşit dağılmaz.[^k5] Bu üç saat — güç dengesi, demografik geçiş ve
+ekolojik birikim — aynı hızda ilerlemediği için tek bir küresel dönüm tarihi vermek
+zordur. “Bugün” sınırı açık uçludur: bu dönemin hangi olayla kapanacağı ancak sonraki
+kuşakların görebileceği bir tarihsel yorum olacaktır.
+
+Bu yakın dönem için kaynak bolluğu kesinlik sağlamaz. Anlık veriler, devlet
+açıklamaları ve dijital kayıtlar hızla çoğalırken hangi gelişmenin kalıcı kırılma
+olduğu henüz seçilemez; tarihsel mesafenin yokluğu yorumları daha geçici ve
+düzeltmeye açık kılar; bugünün haberi henüz yarının dönüm noktası değildir.[^k1][^k5]
 
 ## Fikir dünyası
 

@@ -12,6 +12,10 @@ tarih_bitis: "1657"
 bolge: [islam-dunyasi, avrupa]
 eksen: [kulturel, felsefi, siyasi]
 guven_geneli: yaygin
+kaynak_siniri: >-
+  Açık erişimde doğrulanabilir birincil eser metni bulunmadığı için bu yazı
+  listedeki katalog ve ikincil kaynaklarla sınırlıdır; Kâtib Çelebi'nin kendi
+  metninden doğrudan alıntı iddiası taşımaz.
 etiketler: [katib-celebi, bibliyografya, cografya, kaynak-bilesimi, osmanli, ceviri]
 ilgili:
   - donem-09
@@ -52,7 +56,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne yaptığı
 
 Kâtib Çelebi, on yedinci yüzyılda İstanbul'da yaşamış ve çok sayıda
@@ -63,8 +66,7 @@ En bilinen iki eseri bir bibliyografya ve bir dünya coğrafyasıdır.[^k2]
 Bibliyografya, bilinen eserleri alfabetik olarak sıralar ve on binlerce
 başlık içerir.
 
-Bu incelemenin asıl konusu ikinci eserdir.[^k3] Coğrafya çalışmasında,
-kendi geleneğinin dışından gelen kaynaklar çeviri yaptırılarak
+Coğrafya çalışmasında, kendi geleneğinin dışından gelen kaynaklar çeviri yaptırılarak
 kullanılmıştır.
 
 ## Kaynak bileşimi sorunu
@@ -135,9 +137,7 @@ sonraki dönemde başkaları tarafından tamamlanıp basıldı.
 Basılan hâl ile yazarın bıraktığı hâl aynı değildir.[^k3] Sonraki
 eklemeler ayrıca işaretlenmelidir.
 
-Bu, korpusun Magna Carta dosyasında kurduğu kuralın bir başka
-uygulamasıdır.[^k2] Bir esere atıf yapılırken hangi sürümün kastedildiği
-belirtilmelidir.
+Bir esere atıf yapılırken hangi sürümün kastedildiği belirtilmelidir.
 
 ## Matbaayla ilişki
 
@@ -171,12 +171,9 @@ Mali risalede önerilen çözümler, bir teşhise dayandırılır.[^k1] Gelirin
 giderin altında kalması, tek tek harcamalardan çok yapısal bir dengesizlik
 olarak sunulur.
 
-Bu, korpusun İbn Haldûn dosyasında kaydedilen yaklaşımla aynı
-ailedendir.[^k3] Bir düzenin durumu, tek tek kararlardan değil
-ölçülebilir bir eğilimden okunur.
+Bir düzenin durumu, tek tek kararlardan değil ölçülebilir bir eğilimden okunur.
 
-İki yazar arasında iki yüzyıldan fazla vardır.[^k2] Korpus ikisini
-birbirine bağlar ve doğrudan bir aktarım iddia etmez.
+İki yazar arasında iki yüzyıldan fazla vardır.[^k2]
 
 ## Ölçü ve karşılaştırma
 
@@ -186,9 +183,6 @@ yana konmasını gerektirir.
 
 Bu işlem bir sorun doğurur.[^k3] Farklı ölçü birimleri ve farklı
 yöntemlerle üretilmiş sayılar doğrudan karşılaştırılamaz.
-
-Bu, korpusun nüfus tartışmasında tanımlanan
-kuralın on yedinci yüzyıldaki karşılığıdır.[^k2]
 
 ## Eserlerin dili
 
@@ -211,9 +205,8 @@ alınır.
 Tutumu her iki uçtan da ayrılır.[^k3] Ne her yeniliği reddeder ne her
 uygulamayı savunur; her konuyu ayrı ayrı ele alır.
 
-Yöntem, korpusun kendi tutumuyla örtüşür.[^k2] Bir tartışmada taraf
-seçmek yerine, tartışmanın hangi noktada ayrıldığını göstermek de bir
-konumdur.
+Bir tartışmada taraf seçmek yerine, tartışmanın hangi noktada ayrıldığını göstermek de
+bir konumdur.
 
 ## Denizcilik üzerine eseri
 
@@ -221,9 +214,7 @@ Bir başka eseri, imparatorluğun deniz seferlerini ve donanma tarihini
 konu alır.[^k1] Eser, sefer kayıtlarına ve görgü tanıklarına
 dayanır.
 
-Bu, korpusun kanıt dosyasında tanımlanan türlerin bir arada
-kullanılmasıdır.[^k3] Yazılı kayıt ve tanıklık aynı eserde
-birleştirilmiştir.
+Yazılı kayıt ve tanıklık aynı eserde birleştirilmiştir.
 
 Yazarın kaynaklarını ayırt etmesi ayrıca kaydedilmelidir.[^k2] Neyi
 nereden aldığını belirtmek, o dönemde yaygın bir pratik değildi.
@@ -276,17 +267,14 @@ açıklanır.
 Bir derlemede neyin ayrıntılı
 anlatıldığı, derleyenin nereye baktığını gösterir.[^k2]
 
-## Korpusun bu incelemeden çıkardığı
-
 Dosya bir kişinin eserlerini sıralamaz.[^k1] Bir yöntem tercihini ve o
 tercihin gerekçesini kaydeder.
 
 Tercih şudur.[^k3] Bilginin kaynağı ile doğruluğu ayrı ayrı
 değerlendirilir; gelenek sınırı bir kabul ölçütü değildir.
 
-Bu tercih, korpusun kendi kaynak havuzunun dayandığı ilkedir.[^k2]
-Havuzda hangi geleneğin kaynağı olduğu değil, kaydın doğrulanabilir
-olup olmadığı sorulur.
+Havuzda hangi geleneğin kaynağı olduğu değil, kaydın doğrulanabilir olup olmadığı
+sorulur.
 
 ## Bir ömürde çok alan
 
@@ -301,6 +289,30 @@ de görülür.
 Çok alanda yazan bir yazarın her alandaki kaydı
 aynı ağırlıkta sayılamaz; her iddia kendi dayanağıyla tartılır.[^k2]
 
+## Bibliyografya bir bilgi altyapısıdır
+
+Keşfü'z-Zünûn'un önemi, çok sayıda kitap adı toplamasından ibaret değildir.[^k2]
+Alfabetik düzen; farklı bilim dallarında, farklı dillerde ve farklı yüzyıllarda
+yazılmış eserleri ortak bir arama yüzeyine yerleştirir. Okur böylece yalnız
+bildiği bir yazarı değil, başlığını duyduğu bir eseri, ona yazılmış şerhleri ve
+aynı adla dolaşan başka metinleri de izleyebilir. Bu düzenleme, dağınık yazma
+kültürünü erişilebilir bir bilgi altyapısına çevirir.
+
+Altyapının gücü aynı zamanda sınırıdır.[^k1] Bir başlığın listelenmesi, Kâtib
+Çelebi'nin o nüshayı gördüğünü ya da içeriğini doğruladığını her zaman
+göstermez. Kayıt; doğrudan inceleme, başka bir katalogdan aktarma veya güvenilir
+bir bildirim gibi farklı yollardan gelmiş olabilir. Bu nedenle bibliyografya,
+kaybolan bir eserin izini sürmek için çok değerlidir; fakat tek başına eserin
+tam adı, yazarı veya içeriği hakkında son hüküm değildir.
+
+Cihannümâ'daki kaynak bileşimi benzer bir yöntem sorununu coğrafyada görünür
+kılar.[^k3] Avrupa'da basılan atlaslardan alınan yer adları ve ölçüler, Osmanlı
+yazma geleneğindeki bilgilerle yan yana getirildiğinde çeviri yalnız sözcük
+değiştirme işi olmaktan çıkar. Ölçekler, takvimler ve coğrafi adlandırmaların
+eşleştirilmesi gerekir. Karşılaştırmanın değeri, kaynaklardan birini peşinen
+üstün saymasında değil, uyuşmazlığı saklamadan hangi bilginin nereden geldiğini
+izlenebilir tutmasındadır.
+
 ## Kanıtın ve kapsamın sınırı
 Dosya, düşünürün eserlerinin içeriğini aktarmaz.[^k1] Eserler künyede
 anılan maddeler üzerinden erişilebilir durumdadır.
@@ -309,9 +321,7 @@ Eserlerin sonraki etkisi izlenmez.[^k3] Aktarım zincirinin izlenmesi,
 sonraki yazarların bu eserlere ne ölçüde başvurduğunun tek tek
 gösterilmesini gerektirir ve ayrı bir çalışmadır.
 
-Birincil kaynak künyelenememiştir.[^k2] Eserlerin doğrulanabilir
-çevrimiçi tam metin baskıları bu inceleme yazıldığında bulunamamıştır ve
-kısıt burada beyan edilir.
+Birincil kaynak künyelenememiştir.[^k2]
 
 ## Okumayı sürdürmek için
 Aynı imparatorluktan bir başka coğrafya eseri için

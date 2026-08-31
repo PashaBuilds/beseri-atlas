@@ -170,8 +170,8 @@ değildir.[^k1]
 
 Bu, tarih yazımı açısından öğretici bir örnektir: yıkım anlatısı bazı kazı
 alanlarında desteklenir, bazılarında desteklenmez.[^k1] Genelleme, hangi
-alanların örnek alındığına bağlıdır; bu inceleme bu yüzden çöküşün nedeni konusunda
-bir pozisyon almaz.
+alanların örnek alındığına bağlıdır; bu yüzden çöküşün nedeni konusunda kesin bir
+pozisyon almak mümkün değildir.
 
 
 ## Dönem sınırının gerekçesi
@@ -347,9 +347,8 @@ Aynı metnin üç dilde bulunması, yüzyıllar sonra çivi yazısının
 çözülmesini sağladı.[^k4] Bilinen bir dil, bilinmeyen ikisine anahtar
 oldu.
 
-Bu, korpusun kanıt dosyalarında ayrıca ele alınan bir yöntem
-örneğidir.[^k1] Çok dilli bir metin, kendi içinde bir çeviri sözlüğü
-taşır.
+Çok dilli yazıtların çözümünde kullanılan yöntem burada açıkça görülebilir.[^k1]
+Aynı metnin farklı dillerdeki sürümleri, kendi içinde bir çeviri sözlüğü taşır.
 
 Bir belgenin sonraki değeri,
 yazıldığı andaki amacından tamamen bağımsız olabilir.[^k3]
@@ -444,10 +443,9 @@ dönemin eksenine katkısıyla anılır.
 her biri ve aralarındaki ilişki, ayrı bir tartışma incelemesinda
 ele alınır.
 
-Sayısal seriler burada yorumlanır, üretilmez.[^k3] Serilerin
-kaynakları, yöntemleri ve başlangıç tarihleri korpusun veri
-dosyalarında ayrı ayrı kayıtlıdır ve bu inceleme onların yerine
-geçmez.[^k2]
+Sayısal seriler burada yorumlanır, üretilmez.[^k3] Kaynakları, yöntemleri ve
+başlangıç tarihleri bağlantılı veri incelemelerinde ayrı ayrı açıklanır; dönem
+anlatısı bu yöntem notlarının yerine geçmez.[^k2]
 
 
 ## Deniz kavimleri sorunu
@@ -643,6 +641,31 @@ kurdu.
 İki cevap savunulabilir.[^k3] Çöküş merkezî yapıları ortadan kaldırdı;
 yerlerine ne konacağı sonraki kuşakların
 kararıydı.[^k4]
+
+## Çöküşten sonra yeniden ölçeklenme
+
+MÖ 1200 dolaylarındaki kırılmayı bütün bir dünyanın aynı anda çöktüğü tek olay gibi
+okumak yanıltıcıdır. Doğu Akdeniz'deki saray merkezleri, ticaret hatları ve bazı yazı
+sistemleri ağır darbe aldı; buna karşılık başka bölgelerde siyasal süreklilik veya
+yeni merkezlerin yükselişi görüldü. Kanıtların kuraklık, savaş, göç, iç ayaklanma ve
+ticaret kesintisi arasında dağılması, tek nedenli bir açıklamayı zayıflatır.[^k1]
+Birden çok baskı birbirini büyütmüş olabilir; fakat her bölge için aynı bileşim
+kanıtlanmış değildir.
+
+Sonraki yüzyılların yenilikleri de basit bir “ilerleme” sırası oluşturmaz. Demirin
+yaygınlaşması, kalaya bağımlı tunç ağlarından farklı bir hammadde düzeni kurdu;
+alfabenin yayılması ise daha sınırlı işaret takımlarıyla kayıt üretmeyi mümkün kıldı.
+Bunlar kendiliğinden eşitlik veya kitlesel okuryazarlık getirmedi, fakat saray
+tekelindeki bazı teknikleri daha fazla siyasal merkezin kullanabilmesini sağladı.
+Behistun yazıtı yeni imparatorlukların çok dilli egemenlik iddiasını kayaya nasıl
+işlediğini gösterirken Herodotos'un anlatısı olayların rakip sözlü ve yazılı
+geleneklerden nasıl tarih anlatısına dönüştüğünü gösterir.[^k2][^k4] Dönemin ortak
+örüntüsü, boşluğun ardından düzenin geri gelmesi değil; daha küçük ve çeşitli
+merkezlerden yeni ağların kurulmasıdır.
+
+Bu yeniden yapılanma Doğu Akdeniz için belirgin olsa da Afrika, Güney Asya, Çin ve
+Amerika'nın kronolojileri aynı “karanlık çağ” etiketine sığmaz. Bölgesel kanıtı
+küresel dönem adına dönüştürürken ölçeği açık tutmak gerekir.[^k1][^k3]
 
 ## Fikir dünyası
 

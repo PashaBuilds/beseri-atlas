@@ -75,16 +75,11 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak bölümlerini sıralar: kaynakları sınıflandırma, kaynak sınıflandırmasının
 önemi, birincil kaynakları bulma, birincil kaynakları kullanma, güçlü ve zayıf
 yanlar ile sahtecilikler.[^k1]
 
 ## Birincil olmak doğru olmak değildir
-
-Kaynağın güçlü ve zayıf yanları tek bir başlıkta tutması ve sahteciliklere ayrı
-bir bölüm ayırması,[^k1] korpusun şu kuralının dayanağıdır: bu korpusta bir kaynağın
-birincil olması, o kaynağın doğru olduğu anlamına gelmez.
 
 ## Sınıflandırmanın kendisi bir karardır
 
@@ -107,7 +102,6 @@ arasına yerleştirir ve tarihin babası diye anıldığını yazar.[^k2]
 Aynı tartışma
 [Herodotos](/dusunur/herodotos/) dosyasında ele alınıyor.[^k2]
 
-
 ## Birincil olmanın üç ölçütü
 
 Birincisi zaman: kayıt, olayla aynı
@@ -118,15 +112,11 @@ etmiş olmalıdır.[^k2] Üçüncüsü aktarım: kayıt, araya başka bir
 derleyici girmeden bugüne
 ulaşmış olmalıdır.
 
-Üçü birden karşılanmayabilir.[^k3] Korpus hangi ölçütün eksik
-olduğunu künyede
-belirtir.
+Üçü birden karşılanmayabilir.[^k3]
 
 ## Alt türler
 
-Birincil kaynak tek bir tür değildir.[^k1] Korpus altı alt tür
-kullanır: eser, belge, kitabe, kazı, tanık ve
-nesne.
+Birincil kaynak tek bir tür değildir.[^k1]
 
 Her tür farklı bir sınama gerektirir.[^k2] Bir belgenin gerçekliği
 arşiv zinciriyle, bir kazının tarihi laboratuvar
@@ -159,7 +149,6 @@ olduğunu bilerek okur.
 Kaynağı olmayan bir iddia ile kaynağı olmadığı
 yazılmış bir iddia, aynı güçte değildir.[^k3]
 
-
 ## Erişilebilirlik ölçütü
 
 Kaynak, okurun kendi başına
@@ -178,13 +167,8 @@ Erişilebilirlik eşit dağılmaz.[^k1] Bazı geleneklerin metinleri
 kapsamlı biçimde taranmış, bazılarınınki
 taranmamıştır.
 
-Bu, korpusun kaynak bileşimini doğrudan
-etkiler.[^k2] Boşluk korpusun değil arşivlerin
-kapsamındadır.
-
 Bir bölgenin birincil kaynağının bulunamaması, o
 bölgenin kayıt tutmadığını göstermez.[^k3]
-
 
 ## Nesnenin kanıt değeri
 
@@ -201,9 +185,7 @@ istediğini yazabilir; ürettiği nesne bunu her zaman doğrulamaz.[^k3]
 
 ## İki kanıtın çelişmesi
 
-Metin ile nesne çeliştiğinde korpus ikisini de
-kaydeder.[^k1] Çelişki bir hata değil bir
-bulgudur.
+Çelişki bir hata değil bir bulgudur.
 
 Bir yazıtın anlattığı zenginlik ile kazının gösterdiği yoksulluk yan
 yana durabilir.[^k2] İkisi de o dönemin
@@ -211,7 +193,6 @@ kaydıdır.
 
 İki kanıtın çelişmesi, birinin yanlış
 olduğunu değil ikisinin farklı şeyleri kaydettiğini gösterebilir.[^k3]
-
 
 ## Sahiciliğin sınanması
 
@@ -223,7 +204,24 @@ Sahtecilik çoğu zaman kendi dönemini ele verir.[^k2] Sahte bir belge,
 yapıldığı dönemin varsayımlarını
 taşır.
 
-Doğrulanamayan bir künye, korpusa giremez.[^k3]
+## Zamana yakınlık doğruluk garantisi değildir
+
+Birincil kaynak, araştırılan dönemde veya olayla doğrudan ilişkili süreçte üretilmiş
+kanıttır.[^k1] Yakınlık önemli bir avantajdır, fakat tanığın doğru bilgiye eriştiğini,
+tarafsız olduğunu veya sonradan değiştirilmediğini kanıtlamaz. Bir hükümdar yazıtı
+yönetimin neyi duyurmak istediğini güçlü biçimde gösterir; halkın bu iddiayı kabul
+ettiğini tek başına göstermez.
+
+Kaynağı kullanırken üretici, hedef kitle, amaç, maddi taşıyıcı ve aktarım zinciri
+ayrı ayrı incelenmelidir.[^k2] Asıl nüsha kayıpsa sonraki kopyanın nerede ve kim
+tarafından hazırlandığı önem kazanır. Sessizlik de doğrudan yokluk kanıtı değildir:
+arşivi kuran kurum, kayda değer saymadığı kişileri görünmez bırakabilir.
+
+Aynı nesne soruya göre tür değiştirebilir. Bir tarih kitabı anlattığı çağ için
+ikincil, yazıldığı dönemin eğitim ve siyaset anlayışı için birincil kaynaktır.
+Dolayısıyla “birincil” etiketi kalite sırası değil, kanıtla soru arasındaki ilişkiyi
+tanımlar. En sağlam yorum farklı türde birincil kaynakları ve eleştirel ikincil
+çalışmaları birlikte kullanır.[^k3]
 
 ## Kanıtın ve kapsamın sınırı
 Kaynak bulma yöntemleri, alanlara göre farklar ve sahtecilik örnekleri burada

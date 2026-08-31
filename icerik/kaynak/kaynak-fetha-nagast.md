@@ -61,7 +61,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Metin ne
 
 Fetha Nagast, kilise düzenini ve dünyevi hukuku bir arada düzenleyen
@@ -71,8 +70,7 @@ Birinci bölüm ibadet, ruhban düzeni ve kilise yönetimi
 konularındadır.[^k2] İkinci bölüm miras, borç, evlilik, mülkiyet ve
 ceza konularını kapsar.
 
-Bu incelemenin konusu metnin maddeleri değildir.[^k3] Bir düzenin temel
-hukukunun nereden geldiğidir.
+Bir düzenin temel hukukunun nereden geldiğidir.
 
 ## Nerede derlendi
 
@@ -130,10 +128,6 @@ dikkatle okunmalıdır.
 Yürürlük, her davada metne bakıldığı anlamına gelmez.[^k1] Yerel
 âdet hukuku çoğu anlaşmazlıkta fiilen belirleyiciydi.
 
-Bu, korpusun belge tartışmasında kurulan kuralın
-buradaki uygulamasıdır: bir metnin resmî konumu ile fiilî uygulanma alanı ayrı iki
-veridir.[^k3]
-
 ## Hükümdarın bağlılığı
 
 Metnin örtük iddiası hükümdarı da kapsar.[^k1] Kanun kitabı,
@@ -183,8 +177,7 @@ tercihe dayanıyordu.
 Dosya, metnin maddelerini çözümlemez.[^k1] Madde düzeyinde okuma ayrı
 bir çalışma gerektirir.
 
-Metnin köleliğe ilişkin hükümleri burada ele alınmaz.[^k2] Konu ayrı
-bir dosyayı hak eder ve bu incelemede geçiştirilmemelidir.
+Metnin köleliğe ilişkin hükümleri burada ele alınmaz.[^k2]
 
 Doğrulanabilir bir tam metin künyelenememiştir.[^k3] Erişilebilir
 çevrimiçi nüshaların yükleyici bilgisi doğrulanamadığı için künyeye

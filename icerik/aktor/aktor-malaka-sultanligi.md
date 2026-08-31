@@ -64,16 +64,13 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Nerede durduğu
 
-Malaka Sultanlığı, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan
-dar geçidin kıyısında kurulmuş bir liman devletidir.[^k1][^k4] Korpusun bölge
-şemasında Doğu Asya ile İslam dünyasının kesiştiği yerde durur.
+Malaka Sultanlığı, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan dar geçidin
+kıyısında kurulmuş bir liman devletidir.[^k1][^k4]
 
-Bu incelemenin ayırt edici yanı, bir devletin toprak yerine geçit üzerine
-kurulabildiğini göstermesidir.[^k1] Sultanlığın iç bölgesi küçüktü, tarımsal
-üretimi sınırlıydı ve nüfusu bölgedeki komşularının çok altındaydı.
+Sultanlığın iç bölgesi küçüktü, tarımsal üretimi sınırlıydı ve nüfusu bölgedeki
+komşularının çok altındaydı.
 
 Buna rağmen bir yüzyıl içinde bölgenin en büyük ticaret merkezi hâline
 geldi.[^k4] Bu yükselişin açıklaması coğrafi konumdadır ve [Hint Okyanusu ticareti](/kavram/hint-okyanusu-ticareti/) incelemesinde
@@ -123,9 +120,7 @@ söylemek de ticaretin inanç sayesinde geliştiğini söylemek de aynı kayıtl
 
 ## Kendi anlatısını kendi yazdıran devlet
 
-Bu sultanlık, korpusun Güneydoğu Asya dosyaları arasında kendi saray
-anlatısını bırakmış olan tek örnektir.[^k2] Metin, hanedanın kökenini,
-kuruluşu ve saray düzenini kendi ağzından verir.
+Metin, hanedanın kökenini, kuruluşu ve saray düzenini kendi ağzından verir.
 
 Böyle bir metnin varlığı, dosyayı komşu ve rakip kayıtlarına bağımlı olmaktan
 kurtarır.[^k2] Aynı metin, kendi taraflılığını da taşır: hanedanın
@@ -136,17 +131,11 @@ dayandığını belirler.[^k2][^k4]
 
 ## Kuruluş anlatısının işlevi
 
-Saray anlatısı, hanedanın kökenini uzak ve saygın bir soya bağlar.[^k2] Bu,
-korpusun başka bölgelerinde de karşılaşılan bir kuruluş tekniğidir ve tarihsel
-bir olgu olarak değil bir meşruiyet aracı olarak kaydedilmelidir.
+Saray anlatısı, hanedanın kökenini uzak ve saygın bir soya bağlar.[^k2]
 
 Anlatının işlevi geriye dönük değil ileriye dönüktür. Bir soy iddiası,
 geçmişi açıklamak için değil bugünkü hükümranlığı gerekçelendirmek için
 kurulur.[^k2]
-
-Aynı teknik, korpusun Amerika ve Batı Afrika dosyalarında da
-görülür.[^k4] Birbirinden habersiz bölgelerin aynı aracı kullanması,
-korpusun karşılaştırmalı okumaya açtığı yerlerden biridir.
 
 ## Komşularla ilişki
 
@@ -168,19 +157,13 @@ Sultanlığın sonu, bölge içi bir çatışmayla değil dışarıdan gelen bir
 saldırısıyla geldi.[^k1][^k4] Limanın düşmesi, ticaret ağının sona ermesi
 anlamına gelmedi; ağ komşu limanlara kaydı.
 
-Bu ayrım, korpusun liman devletleri hakkındaki genel gözlemini
-doğrular.[^k4] Geçit üzerine kurulan bir gelirin sahibi değişebilir; geçidin
-kendisi ortadan kalkmaz.
+Geçit üzerine kurulan bir gelirin sahibi değişebilir; geçidin kendisi ortadan kalkmaz.
 
-::tartismali[Limanın düşmesinin bölgesel ticaret üzerindeki etkisinin ne
-kadar büyük olduğu tartışmalıdır; bazı değerlendirmeler ağın kesintiye
-uğradığını, bazıları yalnızca yön değiştirdiğini savunur. Korpus bir sonuca
-bağlanmaz.]{harita=tartisma-kesif-mi-istila-mi}
+::tartismali[Limanın düşmesinin bölgesel ticaret üzerindeki etkisinin ne kadar büyük olduğu tartışmalıdır; bazı değerlendirmeler ağın kesintiye uğradığını, bazıları yalnızca yön değiştirdiğini savunur.]{harita=tartisma-kesif-mi-istila-mi}
 
 ## Kaynak durumu
 
-Bu inceleme dört kaynağa dayanır ve ikisi birincildir.[^k2][^k3] Birincil
-metinlerden biri sultanlığın kendi saray anlatısı, öteki aynı suların
+Birincil metinlerden biri sultanlığın kendi saray anlatısı, öteki aynı suların
 sultanlıktan önceki dışarıdan kaydıdır.
 
 İkinci birincil kaynak sultanlığı değil, ondan önceki dönemi anlatır ve bu
@@ -197,28 +180,20 @@ Sultanlığın idari yapısı, hukuk derlemesi ve saray teşkilatı burada ayrı
 başlıklar altında işlenmez.[^k1] Bunlar için saray anlatısının kendisi ve
 ayrı dosyalar gerekir.
 
-Limanın düşmesinden sonraki sömürge dönemi de kapsam dışıdır.[^k4] Korpusun
-sömürgecilik dosyalarının konusudur ve bu inceleme bir liman devletinin
-işleyişini anlatır.
+Limanın düşmesinden sonraki sömürge dönemi de kapsam dışıdır.[^k4]
 
-Bölgedeki öteki sultanlıklar ve bunların birbirleriyle ilişkisi burada
-verilmez.[^k1] Her biri ayrı dosya gerektirir ve bu inceleme yazıldığında
-korpusta bulunmuyorlardı.
+Bölgedeki öteki sultanlıklar ve bunların birbirleriyle ilişkisi burada verilmez.[^k1]
 
 ## Dilin ortak hâle gelmesi
 
-Sultanlığın limanında kullanılan dil, bölge boyunca ticaretin ortak dili
-hâline geldi.[^k1][^k2] Bu, korpusun Orta Asya dosyalarında da kaydettiği bir
-olgunun deniz karşılığıdır: bir dil, askerî üstünlükle değil ticari
-kullanışlılıkla yayılabilir.
+Sultanlığın limanında kullanılan dil, bölge boyunca ticaretin ortak dili hâline
+geldi.[^k1][^k2]
 
 Yayılmanın biçimi de kaydedilmelidir. Dil, tam biçimiyle değil ticarete
 yeten sadeleşmiş bir hâliyle taşındı;[^k4] limanlar arası iletişim için
 gereken şey edebî yetkinlik değil ortak bir alışveriş sözlüğüydü.
 
-Bu ayrım, korpusun dil yayılımı hakkında tek bir açıklamaya bağlanmamasının
-gerekçelerinden biridir.[^k1] Fetih, göç ve ticaret ayrı yayılma yollarıdır
-ve bıraktıkları iz de aynı değildir.
+Fetih, göç ve ticaret ayrı yayılma yollarıdır ve bıraktıkları iz de aynı değildir.
 
 ## Nüfusun bileşimi
 
@@ -245,23 +220,12 @@ Bir limanın büyüklüğüne dair izlenim, gözlemcinin daha önce hangi limanl
 gördüğüne bağlıdır.[^k3] Aynı liman, farklı yerlerden gelen iki gözlemci
 tarafından farklı büyüklükte tarif edilebilir.
 
-Sayıların nasıl okunacağı sorusu
-korpusun ayrı bir dosyasında ele alınır ve bu incelemedeki değerlendirmeler mutlak sayılara
-değil kayıtların ortak vurgusuna dayanır.[^k1]
+Kısalık, dosyanın gerekçesini zayıflatmaz.
 
-## Bir yüzyıllık devletin korpustaki yeri
+Bu sultanlık, geçit üzerine kurulan bir devletin nasıl yükselip nasıl çözüldüğünü tek
+bir yüzyıl içinde eksiksiz gösterir.
 
-Bu sultanlık yaklaşık yüz yıl varlığını sürdürdü ve korpusun aktör
-katmanındaki en kısa ömürlü siyasi birimlerden biridir.[^k1][^k4] Kısalık,
-dosyanın gerekçesini zayıflatmaz.
-
-Bir siyasi birimin korpusa girme ölçütü süresi değil, bir yapıyı ne kadar
-açık gösterdiğidir.[^k1] Bu sultanlık, geçit üzerine kurulan bir devletin
-nasıl yükselip nasıl çözüldüğünü tek bir yüzyıl içinde eksiksiz gösterir.
-
-Uzun ömürlü devletlerde aynı yapı, yüzyıllara yayıldığı için görünmez
-olur.[^k4] Korpusun kısa ömürlü örnekleri kaydetmesi, bu görünmezliği
-gidermek içindir.
+Uzun ömürlü devletlerde aynı yapı, yüzyıllara yayıldığı için görünmez olur.[^k4]
 
 ## Karşılaştırmalı okuma
 
@@ -293,3 +257,41 @@ dosyaları okunabilir.
 
 Aynı yılları bütün bölgeler üzerinden okumak için [Dönem 08](/donem/08/)
 dosyası kullanılmalıdır.
+
+## Boğazı tutmak, bütün denizi yönetmek değildir
+
+Malaka Boğazı Hint Okyanusu ile Güney Çin Denizi arasındaki en değerli geçişlerden
+biriydi. Sultanlık coğrafi konumu güvenli liman, gümrük, depo, çeviri ve uyuşmazlık
+çözme hizmetleriyle birleştirince gemilerin uğramayı tercih ettiği bir merkez
+yarattı.[^k1][^k4] Geçidin önemi otomatik gelir üretmezdi; tüccarın alternatif
+rota ve liman seçebilmesi yönetimi güvenilir olmaya zorluyordu.
+
+Gucerâtlı, Çinli, Cava, Arap ve başka tüccar toplulukları kendi dil, kredi ve
+akrabalık ağlarıyla limanda yan yana bulunabiliyordu. Şahbandar gibi aracılar
+devlet ile farklı ticaret çevreleri arasında bilgi ve vergi bağını kurdu.
+Sultanlığın İslamî kimliği geniş Müslüman ticaret ağıyla ortak dil sağladı;
+limanın bütün nüfusunu tek kültüre dönüştürdüğü anlamına gelmez.[^k1]
+
+## Kuruluş anlatısı ve dış tanınma
+
+*Sejarah Melayu*, hanedanın kökenini, hükümdarlık erdemini ve Malaka’nın bölgesel
+yerini anlamak için temel metindir.[^k2] Ancak olaylardan sonra derlenen saray
+anlatısı, meşruiyet ihtiyacını ve edebî kalıpları taşır. Kurucu atanın hikâyesi
+arkeoloji ve dış kayıtla aynı tür kanıt değildir; metnin toplumun kendini nasıl
+görmek istediğini göstermesi başlı başına tarihsel bilgidir.
+
+Çeng Ho seferleri ve Ming bağlantısı, Malaka’ya güçlü komşular karşısında dış
+tanınma ve ticari erişim sağladı. Bu ilişki basit bağlılık veya tam bağımsızlık
+ikiliğine sığmaz; haraç, elçilik ve karşılıklı çıkar birlikte çalıştı. İbn Battuta
+Malaka’nın kuruluşundan önce bölgedeki deniz dünyasını gösterir, sultanlığın
+kendisine çağdaş tanık gibi kullanılamaz.[^k3]
+
+1511 Portekiz fethi limanı ele geçirdi; Malay hanedan ağını ve bölgesel ticareti
+yok etmedi. Tüccarlar Açe, Johor ve başka merkezlere kaydı; hanedan yeni siyasi
+odaklar kurdu.[^k1][^k4] Bu sonuç ağ devletinin hem gücünü hem kırılganlığını
+gösterir: düğüm çok değerlidir, fakat akış baskı gördüğünde yeni düğüm
+üretebilir.
+
+Limanın fethinden sonra ağın başka merkezlere kayması, ticaretin devletten daha
+geniş bir toplumsal altyapıya sahip olduğunu kanıtlar. Tüccar bilgisi ve kredi
+ilişkileri yeni siyasi koruyucu bularak yaşamaya devam etti.

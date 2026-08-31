@@ -71,18 +71,12 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
-
 ## Nerede durduğu
 
 Büyük Selçuklu Devleti, Horasan bölgesinden başlayarak İran ve Irak üzerinden batıya
-uzanan bir siyasi düzen kurmuştur.[^k1] Korpusun bölge şemasında Orta Asya ile
-İslam dünyasının kesiştiği yerde durur; iki bölge etiketi birden taşımasının
-sebebi budur.
+uzanan bir siyasi düzen kurmuştur.[^k1]
 
-Bu düzenin korpus açısından ayırt edici yanı, yönetim yapısının dönemin
-içinden yazılmış bir metin üzerinden okunabilmesidir.[^k2][^k3] Bir siyasi
-birimin idari düzeni hakkında, o düzenin kendi veziri tarafından yazılmış bir
+Bir siyasi birimin idari düzeni hakkında, o düzenin kendi veziri tarafından yazılmış bir
 kaynağın bulunması seyrek rastlanan bir durumdur.
 
 [Karahanlılar](/aktor/karahanlilar/) dosyası aynı yılların doğusunu,
@@ -107,10 +101,6 @@ Bağlılığın sembolik göstergeleri ile fiilî gücün dağılımı ayrı ayr
 işler.[^k1] Bir hükümdarın halife tarafından tanınması, halifenin o hükümdar
 üzerinde denetim kurduğu anlamına gelmez; tanıma, meşruiyetin dolaşım
 biçimidir.
-
-Korpusun [Meşruiyet](/kavram/mesruiyet/) dosyası bu kavramı genel biçimiyle
-ele alır. Bu inceleme, kavramın bir dönemdeki somut işleyişini gösterir: iki ayrı
-otorite kaynağı aynı anda var olabilir ve biri ötekini geçersiz kılmaz.
 
 ## Halifeyi korumak, meşruiyeti almak
 
@@ -137,22 +127,15 @@ hanedan birbirine bağlanır. Aynı teknik hilafet karşısında da kullanılmı
 
 ## Vezirlik ve idari düzen
 
-Dönemin idari düzeninde vezirlik makamı belirleyici bir yer tutar.[^k2] Bu
-makamda uzun süre bulunan [Nizâmülmülk](/dusunur/nizamulmulk/), korpusta ayrı
-bir düşünür dosyası taşır; iki dosyanın birlikte okunması, yönetim pratiği
-ile yönetim düşüncesi arasındaki bağı gösterir.
+Dönemin idari düzeninde vezirlik makamı belirleyici bir yer tutar.[^k2]
 
 Vezirin yazdığı metin, idari düzenin nasıl olması gerektiğini anlatır.[^k3]
 Bu metinden dönemin fiilî yönetimini doğrudan okumak yanlış olur; ama metnin
 hangi konulara yer ayırdığı, dönemin gündemi hakkında dolaylı bilgi taşır.
 
-Görevlilerin denetimi, haber alma düzeni ve saray teşkilatı gibi başlıkların
-metinde ayrı ayrı ele alınması,[^k3] bu konuların yönetimin sorunları arasında
-sayıldığını gösterir. Korpus bu çıkarımı yapar ve daha ötesine gitmez.
-
-[Bürokrasi](/kavram/burokrasi/) dosyası, yönetimin kurallara bağlanmasını
-kavram düzeyinde ele alır; bu inceleme o kavramın bir dönemdeki karşılığını
-verir.
+Görevlilerin denetimi, haber alma düzeni ve saray teşkilatı gibi başlıkların metinde
+ayrı ayrı ele alınması,[^k3] bu konuların yönetimin sorunları arasında sayıldığını
+gösterir.
 
 ## Medrese düzeni ve bilgi üretimi
 
@@ -160,15 +143,12 @@ Dönemde kurulan medreseler, eğitim ile yönetim arasındaki bağın
 kurumsallaşmasıdır.[^k2] Bir siyasi düzenin eğitim kurumları kurması ve
 finanse etmesi, bilgi üretiminin siyasi zeminini görünür kılar.
 
-Bu bağın sonuçları tek yönlü okunmamalıdır. Kurumların kurulması bilgi
-üretimini artırabilir; aynı kurumlar, finanse edenin tercihlerini de
-yansıtabilir.[^k2] Korpus ikisini birlikte kaydeder ve aralarında bir
-öncelik sırası kurmaz.
+Bu bağın sonuçları tek yönlü okunmamalıdır. Kurumların kurulması bilgi üretimini
+artırabilir; aynı kurumlar, finanse edenin tercihlerini de yansıtabilir.[^k2]
 
-**Tartışmalı.** Selçuklu döneminin Anadolu'daki uzun vadeli sonuçları, tarih yazımının en
-çekişmeli konularından biridir. Aynı olaylar, farklı ulusal tarih
-anlatılarında farklı başlangıçlar olarak kurgulanır. Korpus bu anlatıların
-hiçbirini benimsemez ve olayların kendisini kaydetmekle yetinir.[^k1]
+**Tartışmalı. ** Selçuklu döneminin Anadolu'daki uzun vadeli sonuçları, tarih yazımının
+en çekişmeli konularından biridir. Aynı olaylar, farklı ulusal tarih anlatılarında
+farklı başlangıçlar olarak kurgulanır.[^k1]
 
 ## Batı sınırı: akın, sonra savaş
 
@@ -177,20 +157,11 @@ Gürcistan sınırlarında göründü; Bizans'a ait Kars fethedildi ve Gürcü k
 Selçuklular'a tâbi oldu.[^k1] Sultan Alparslan devrinde Anadolu'ya akınlar daha
 çok Sâlâr-ı Horasan unvanlı kumandanın idaresinde yapılıyordu.[^k1]
 
-Karşı tarafın tepkisi de kaynakta kayıtlıdır: Bizans'ta imparatorluğun başına,
-gittikçe artan Türk akınlarına son vereceğine inanılan kumandanlardan Romanos
-Diogenes getirildi.[^k1] Yani 1071'e giden yol, iki tarafın birbirine
-verdiği tepkilerle örülmüştür; muharebenin kendisi bu incelemenin konusu değildir.
+Karşı tarafın tepkisi de kaynakta kayıtlıdır: Bizans'ta imparatorluğun başına, gittikçe
+artan Türk akınlarına son vereceğine inanılan kumandanlardan Romanos Diogenes
+getirildi.[^k1]
 
 ## Bölünme ve sonraki düzenler
-
-Siyasi düzenin zaman içinde kollara ayrılması, korpusun aktör dosyalarında
-tekrar eden bir sorunu doğurur: bölünen bir birim, tek dosyada mı yoksa ayrı
-dosyalarda mı tutulmalıdır?[^k1]
-
-Bu inceleme ana gövdeyi kaydeder ve kolları ayrı ayrı işlemez. Gerekçe, korpusun
-mevcut kapsamının bu ayrıntıyı taşıyacak dosyalara henüz sahip olmamasıdır;
-kollar için ayrı dosyalar açıldığında bu inceleme onlara bağlanacaktır.
 
 Künyede verilen başlangıç ve bitiş tarihleri, kaynaktaki genel çerçeveyi
 izler.[^k1] Bir siyasi düzenin ne zaman başlayıp ne zaman bittiği, o düzeni
@@ -217,20 +188,16 @@ akınlarının başladığı sınır, bu ölçekte bir devletin doğu kenarıyd�
 
 ## Dönemin içinden bir kaynağa sahip olmak
 
-Bu incelemenin kaynak durumu, korpusun aynı bölge kümesindeki diğer dosyalarıyla
-karşılaştırıldığında ayrı bir yerde durur.[^k1] [Sâmânîler](/aktor/samaniler/)
-dosyası için dönemin içinden doğrulanabilir bir metin bulunamamış ve bu
-eksiklik orada beyan edilmişti.
+[Sâmânîler](/aktor/samaniler/) dosyası için dönemin içinden doğrulanabilir bir metin
+bulunamamış ve bu eksiklik orada beyan edilmişti.
 
 Selçuklu düzeni için durum farklıdır: dönemin veziri tarafından, dönemin
 sultanı için yazılmış bir metin elimizdedir ve çevirisi erişilebilir
 durumdadır.[^k3] Bu, dosyanın iddialarının bir bölümünü ansiklopedi
 aktarımından bağımsız olarak dayandırmayı mümkün kılar.
 
-Ancak bu avantajın sınırı da açıktır. Bir vezirin yazdığı metin tarafsız bir
-kayıt değildir; yazar hem yönetimin içindedir hem de kendi konumunu
-savunmaktadır.[^k3] Dönemin içinden olmak, tarafsız olmakla aynı şey değildir
-ve korpus bu ikisini karıştırmaz.
+Ancak bu avantajın sınırı da açıktır. Bir vezirin yazdığı metin tarafsız bir kayıt
+değildir; yazar hem yönetimin içindedir hem de kendi konumunu savunmaktadır.[^k3]
 
 Bu ayrımın kaydedilmesi önemlidir çünkü birincil kaynak arayışı kolayca bir
 yanılgıya dönüşebilir: metnin döneme ait olması, metnin doğru olduğunu
@@ -249,14 +216,10 @@ yükünü hafifletir; aynı düzen, tahsis edilen bölgede yerel gücün
 birikmesine de yol açabilir.[^k1] İki sonuç birbirini dışlamaz ve dönemin
 farklı evrelerinde farklı ağırlıklarda görülür.
 
-Vezirin yazdığı metin, görevlilerin denetlenmesine ayrı bir yer
-ayırır.[^k3] Denetim ihtiyacının metinde bu kadar yer tutması, tahsis
-düzeninin kendi denetim sorununu doğurduğunu düşündürür; korpus bu çıkarımı
-bir olasılık olarak kaydeder, kanıt olarak değil.
+Vezirin yazdığı metin, görevlilerin denetlenmesine ayrı bir yer ayırır.[^k3]
 
-Korpusun toprak düzenlerini ayrı bir kavram dosyasında toplaması, bu tür
-karşılaştırmaları mümkün kılmak içindir. Farklı dönemlerin farklı tahsis
-biçimleri, aynı sorunun farklı cevapları olarak yan yana okunabilir.
+Farklı dönemlerin farklı tahsis biçimleri, aynı sorunun farklı cevapları olarak yan yana
+okunabilir.
 
 ## Yazı dili ve kültürel süreklilik
 
@@ -271,29 +234,17 @@ yönetimin yazı dili farklı bir tercihi izler.[^k1] İki dosyanın aynı yüzy
 iki farklı tercihi kaydetmesi, dil ile siyasi kimlik arasındaki bağın
 zorunlu olmadığını gösterir.
 
-Korpus bu tür karşılaştırmaları kavram dosyalarına değil, aktör dosyaları
-arasındaki bağlara yükler. Bir kavram dosyası genel tanımı verir; iki somut
-örnek yan yana konduğunda tanımın sınırları görünür.
+Bir kavram dosyası genel tanımı verir; iki somut örnek yan yana konduğunda tanımın
+sınırları görünür.
 
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, [Nizâmülmülk](/dusunur/nizamulmulk/) dosyasında "korpusta
-bulunmuyordu" diye işaretlenen boşluğu kapatır.[^k2] Bir dosyanın kendi
-eksiklerini yazması, sonraki dosyaların ne yazacağını belirleyen bir kayıt
-işlevi görür.
+Her makale, kapsamadığı şeyleri açıkça yazar; o notlar bir sonraki turun iş listesini
+oluşturur. Kapsam planı böylece soyut bir listeden değil, yazılan metinlerin kendi
+ihtiyaçlarından çıkar.
 
-Bu çalışma biçimi, korpusun büyüme yönteminin bir parçasıdır. Her makale,
-kapsamadığı şeyleri açıkça yazar; o notlar bir sonraki turun iş listesini
-oluşturur. Kapsam planı böylece soyut bir listeden değil, yazılan metinlerin
-kendi ihtiyaçlarından çıkar.
+Üçü de ayrı dosyalar gerektirir.
 
-Aynı yöntemle bu inceleme de kendi boşluklarını bırakır: askerî teşkilat, toprak
-düzeninin ayrıntıları ve batıya doğru genişlemenin sonuçları burada
-işlenmemiştir.[^k1] Üçü de ayrı dosyalar gerektirir.
-
-Boşlukların dosyada yazılı olmasının bir sakıncası da vardır ve belirtilmelidir:
-bir eksiği kaydetmek, onu kapatmakla aynı şey değildir. Korpusun borç defterleri
-uzun süredir kapatılmayı bekleyen kayıtlar taşıyor; bu incelemenin bıraktığı
-notlar da o listeye eklenir ve kendiliğinden kapanmaz.[^k1]
+Boşlukların dosyada yazılı olmasının bir sakıncası da vardır ve belirtilmelidir: bir
+eksiği kaydetmek, onu kapatmakla aynı şey değildir.
 
 ## Korunan kurumun kırılganlığı
 
@@ -308,31 +259,21 @@ olduğunu gösterir.
 
 ## Kaynak durumu
 
-Bu inceleme üç kaynağa dayanır: siyasi düzen üzerine bir madde,[^k1] dönemin
-veziri üzerine ayrı bir madde,[^k2] ve o vezirin yazdığı metnin
-çevirisi.[^k3] İlk ikisi aynı alan adındadır; bağımsızlık şartı asgari
-düzeyde sağlanır ve bu burada beyan edilir.
+İlk ikisi aynı alan adındadır; bağımsızlık şartı asgari düzeyde sağlanır ve bu burada
+beyan edilir.
 
-Bu inceleme hazırlanırken iki ansiklopedi maddesi daha aday olarak sınandı ve
-reddedildi: sorgulanan adresler madde sayfası değil arama sonucu sayfası
-döndürüyordu.[^k1] Arama sayfası, aranan terimi içerdiği için otomatik
-doğrulamadan geçebilir; bu yüzden her aday sayfanın başlığı ayrıca
-denetlenmiştir.
+Arama sayfası, aranan terimi içerdiği için otomatik doğrulamadan geçebilir; bu yüzden
+her aday sayfanın başlığı ayrıca denetlenmiştir.[^k1]
 
-Bu, korpusun kaynak doğrulama yönteminin bilinen bir zayıflığıdır. Bir sayfanın
-aranan dizeyi içermesi, o sayfanın aranan içerik olduğunu göstermez; dizinin
-sayfada bulunması ile sayfanın konusu olması ayrı şeylerdir.[^k1] Otomatik
+Bir sayfanın aranan dizeyi içermesi, o sayfanın aranan içerik olduğunu göstermez;
+dizinin sayfada bulunması ile sayfanın konusu olması ayrı şeylerdir.[^k1] Otomatik
 denetim ilkini ölçer, ikincisini ölçemez.
 
-Dosyanın kapsamadıkları belirtilmelidir. Askerî teşkilat ve toprak düzeni
-ayrıntılı olarak işlenmez; Anadolu'daki gelişmeler ayrı dosyalar
-gerektirir.[^k1] Bu inceleme bir başlangıç noktasıdır.
+Dosyanın kapsamadıkları belirtilmelidir. Askerî teşkilat ve toprak düzeni ayrıntılı
+olarak işlenmez; Anadolu'daki gelişmeler ayrı dosyalar gerektirir.[^k1]
 
-## Bu incelemenin birleştirilmiş olması
-
-Bu inceleme, korpusta bir dönem aynı hanedanı anlatan iki ayrı kayıt bulunduğu
-için birleştirilmiştir. Okur, aynı yüzyıllar için farklı tarih aralıkları
-veren iki dosyayla karşılaşıyordu.[^k1]
+Okur, aynı yüzyıllar için farklı tarih aralıkları veren iki dosyayla
+karşılaşıyordu.[^k1]
 
 Birleştirmede hiçbir bölüm atılmamıştır. Bir dosya kuruluş tekniğini ve batı
 sınırındaki basıncı tarihleriyle veriyordu; öteki, idari düzeni dönemin kendi
@@ -357,8 +298,3 @@ Aynı coğrafyanın daha erken siyasi düzeni için [Sâmânîler](/aktor/samani
 dosyası okunmalıdır; iki dosya, katmanlı egemenliğin iki farklı ölçekteki
 örneğini kaydeder ve birlikte okunduklarında bu biçimin tek bir hanedanın
 istisnası olmadığı görünür.[^k1]
-
-Bu incelemenin kurduğu iddiaların bir bölümü dönemin içinden bir metne
-dayanmaktadır;[^k3] o metnin kendisini okumadan bu incelemedeki çıkarımlar
-sınanamaz. Korpusun kaynak zorunluluğunun amacı da budur: okuru metne
-göndermek, metnin yerine geçmek değil.

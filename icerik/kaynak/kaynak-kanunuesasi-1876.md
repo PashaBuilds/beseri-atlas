@@ -72,7 +72,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Kânûn-ı Esâsî, 1876'da ilan edilen ve iki meclisli bir yasama düzeni
@@ -82,8 +81,7 @@ sayar ve yürütmenin yapısını tanımlar.
 Anayasa iki yıl sonra fiilen askıya alındı.[^k2] Meclis tatil edildi ve
 otuz yıl boyunca toplanmadı.
 
-Bu incelemenin asıl konusu askıya alınma biçimidir.[^k1] Meclis, anayasanın
-ihlal edilmesiyle değil anayasanın kendi maddesi kullanılarak
+Meclis, anayasanın ihlal edilmesiyle değil anayasanın kendi maddesi kullanılarak
 kapatıldı.
 
 ## Kendini geçersiz kılan madde
@@ -142,9 +140,8 @@ kaldı.
 Anayasa askıya alındıktan sonra metin ortadan kaldırılmadı.[^k2] Resmî
 yıllıklarda yayımlanmayı sürdürdü.
 
-Bu, korpusun Magna Carta dosyasında ölçtüğü örüntüyle aynı
-ailedendir.[^k1] Bir belge, işlemediği dönemde de varlığını sürdürebilir
-ve sonradan yeniden canlandırılabilir.
+Bir belge, işlemediği dönemde de varlığını sürdürebilir ve sonradan yeniden
+canlandırılabilir.
 
 Canlandırma, meclisin yeniden toplanmaya çağrıldığı 23-24 Temmuz
 1908'de gerçekleşti.[^k4] Anayasanın yeniden yürürlüğe konması, bir
@@ -169,8 +166,7 @@ Metin, uyrukların tamamını tek bir hukuki kategoriye bağlar.[^k1]
 Kategori, kişinin bağlı olduğu topluluktan bağımsız olarak
 tanımlanır.
 
-Bu, bir önceki halkanın kapsam ifadesini anayasa düzeyine
-taşır.[^k3] Korpusun hak kapsamı dizisinde beşinci ölçüm noktasıdır.
+Bu, bir önceki halkanın kapsam ifadesini anayasa düzeyine taşır.[^k3]
 
 Uygulama düzeyinde kapsamın ne ölçüde işlediği ayrı bir sorudur.[^k2]
 Dosya bu soruyu açık bırakır; ölçüm yapılmamıştır.
@@ -201,10 +197,6 @@ ancak karar sürecine ilişkin belgelerle yapılabilir.[^k1]
 
 ## Künyenin dili
 
-Bu incelemede künyelenen metin bir çeviridir.[^k1] Özgün metnin
-doğrulanabilir çevrimiçi tam baskısı bu inceleme yazıldığında
-bulunamamıştır.
-
 Bu kısıt gizlenmez, kayda geçirilir.[^k1] Çeviri ya da çok dilli bir
 belgeye atıf yapılırken hangi dildeki metnin kastedildiği açıkça
 yazılmalıdır.
@@ -220,9 +212,7 @@ belgesi, dördü başka geleneklerden gelir.[^k1]
 Denge hâlâ eksiktir.[^k3] Doğu Asya, Güney Asya ve Afrika
 geleneklerinden hiçbir hukuk belgesi künyelenmemiştir.
 
-Eksik borç defterine yazılmıştır.[^k2] Belge katmanının bölge dağılımı,
-korpusun öteki katmanlarındakinden daha dengesizdir ve bu, kaynak
-erişilebilirliğiyle doğrudan ilgilidir.
+Eksik borç defterine yazılmıştır.[^k2]
 
 ## Kanıtın ve kapsamın sınırı
 Dosya, anayasanın samimi bir sınırlama girişimi olup olmadığı hakkında

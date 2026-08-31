@@ -9,6 +9,10 @@ tarih_baslangic: "1953-10-24"
 bolge: [avrupa, amerika, kuresel]
 eksen: [ekonomik, demografik]
 guven_geneli: yaygin
+kaynak_siniri: >-
+  Eserin doğrulanabilir tam metni açık erişimde bulunmadığı için bu kayıt katalog
+  ve akademik ikincil kaynaklarla sınırlıdır; bölüm ya da sayfa düzeyinde
+  birincil metin aktarımı yapmaz.
 etiketler: [milanovic, esitsizlik, gelir-calismasi, odul, alan]
 ilgili:
   - kavram-gini-katsayisi
@@ -50,7 +54,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak yazarı Sırp-Amerikalı bir iktisatçı olarak künyeler; 24 Ekim 1953'te
@@ -62,18 +65,10 @@ Yugoslavya, Sırbistan Halk Cumhuriyeti'nde, Belgrad'da doğduğunu ve Belgrad
 Kaynak yazarın alanını iktisadi eşitsizlik ve iktisadi büyüme olarak verir;
 Luxembourg Income Study ile ilişkisini de kaydeder.[^k1]
 
-Eşitsizliğin bir uzmanlık alanı olarak kaydedilmesi,[^k1] korpusun şu kuralının
-dayanağıdır: bu incelemede eşitsizlik ölçüleri, hangi araştırma programından
-geldiği belirtilerek aktarılır.
-
 ## Ödüller de kayıtlıdır
 
 Kaynak, yazarın 2018'de Hans-Matthöfer-Preis für Wirtschaftspublizistik ile
 Leontief Prize ödüllerini aldığını yazar.[^k1]
-
-Bir araştırmacının ödüllerinin kaydedilmesi,[^k1] korpusun kaynak dosyalarında
-neden alımlanma bilgisi tuttuğunun dayanağıdır; ödül, iddianın doğruluğunu değil
-alandaki konumunu gösterir.
 
 ## Ölçünün uygulandığı toplam
 
@@ -90,8 +85,3 @@ sınıflara bölünmüş toplumların istikrarını açıklamaya çalışan bir 
 çizgisini anlatır.[^k3] O gelenek
 [Karl Marx](/dusunur/marx/) dosyasında, küresel ölçekli kurgu ise
 [Dünya sistemi](/kavram/dunya-sistemi/) dosyasında ele alınıyor.
-
-## Okumayı sürdürmek için
-Bu inceleme yazarın eserlerinin metnine bağlanmaz; kullanılan kaynak yazar
-hakkındaki bir ansiklopedi maddesidir.[^k1] Eserleri teliflidir; korpus
-metinlerinden alıntı yapmaz ve yalnızca hakkında yazılanı aktarır.

@@ -9,6 +9,10 @@ tarih_baslangic: "0940"
 bolge: [islam-dunyasi, orta-asya]
 eksen: [felsefi, siyasi]
 guven_geneli: tartismali
+kaynak_siniri: >-
+  Eserin doğrulanabilir tam metni açık erişimde bulunmadığı için bu kayıt katalog
+  ve akademik ikincil kaynaklarla sınırlıdır; bölüm ya da sayfa düzeyinde
+  birincil metin aktarımı yapmaz.
 etiketler: [medinetul-fazila, ceviri-eksikligi, tenkitli-nesir, erisim, siyaset]
 ilgili:
   - dusunur-farabi
@@ -51,15 +55,12 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak maddesine şu cümleyle başlar: yazarın hayatı hakkında gerçekten güvenilir
 pek az şey biliyoruz; muhtemelen 870 yılında doğduğu yazılır.[^k1]
 
-## Bu inceleme eserin metnine değil erişim durumuna bağlanır
-
-::tartismali[Kaynak, yazarın bazı metinlerinin hâlâ herhangi bir dile çevrilmediğini yazıyor. Korpus bu eser için bir tez özeti kurarken, kurduğu şeyin metnin kendisi değil metin hakkındaki kayıt olduğunu belirtmek zorundadır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Kaynak, yazarın bazı metinlerinin hâlâ herhangi bir dile çevrilmediğini yazıyor.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Kaynak, hâlâ tenkitli neşirlerin, tam İngilizce çevirilerin ve zaman zaman
 birkaç metnin herhangi bir dile çevirisinin bulunmadığını, ayrıca felsefesine
@@ -73,10 +74,6 @@ Kaynak, 1980'lerden itibaren Fârâbî araştırmalarında çok şey olduğunu; 
 daha iyi neşirler ile yeni ve daha iyi çevirilerin düşüncesine dair daha derin
 incelemelere ve ilginç, canlı tartışmalara yol açtığını yazar.[^k1]
 
-Bir külliyatın erişilebilirliğinin on yıllar içinde değişmesi,[^k1] korpusun
-kaynak alanında neden erişim tarihi tuttuğunun dayanağıdır; kavram
-[Birincil kaynak](/kavram/birincil-kaynak/) dosyasında ele alınıyor.
-
 ## Karşıt örnek
 
 Aynı yüzyıllara yakın bir başka düşünürün kaydı, eserlerinin çoğunun bugün
@@ -85,9 +82,3 @@ tenkitli neşirlerinin mevcut olduğunu yazar.[^k3] O örnek
 
 Bağımsız bir ansiklopedinin madde listesi de aynı ada bağlı ayrı başlıklar
 tutar.[^k2] Yazar [Fârâbî](/dusunur/farabi/) dosyasında ele alınıyor.
-
-## Okumayı sürdürmek için
-Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi neşrin ve hangi çevirinin
-kullanıldığı her aktarımda belirtilmelidir — kaynağın kendi kaydına göre bu
-seçim her metin için mümkün olmayabilir.[^k1]

@@ -42,7 +42,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak bölümlerini sıralar: tanım, özellikler, tarih, imparatorlukların çöküşü ve
 imparatorluktan geçiş; tarih bölümü erken imparatorluklar, klasik dönem,
 post-klasik dönem, erken modern dönem, sömürge imparatorlukları ve geç modern
@@ -53,7 +52,7 @@ dönem alt başlıklarına ayrılır.[^k1]
 Kaynak, imparatorlukların çöküşü başlığı altında Roma İmparatorluğu'nu ve
 sömürgesizleşmeyi ayrı alt başlıklar olarak tutar.[^k1]
 
-::tartismali[Bir kavramın çöküş bölümünde yalnızca bir imparatorluğun adı geçiyor ve yanında bir süreç adı var. Korpus bu incelemede "çöküş" kategorisini tek bir modele bağlamaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bir kavramın çöküş bölümünde yalnızca bir imparatorluğun adı geçiyor ve yanında bir süreç adı var.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu kategorinin nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -61,18 +60,9 @@ haritasında ele alınıyor.
 
 ## Geçiş ayrı bir bölümdür
 
-Çöküşün yanında imparatorluktan geçiş diye ayrı bir bölüm bulunması,[^k1] korpusun
-şu kuralının dayanağıdır: bu korpusta imparatorlukların sonu, bir yıkım değil bir
-dönüşüm kaydı olarak tutulur; ilgili süreç
-[Sömürgesizleşme](/kavram/somurgesizlesme/) dosyasında ele alınıyor.[^k3]
-
 ## Tanım kendi bölümüdür
 
-Kaynağın ilk bölümünü tanıma ayırması,[^k1] korpusun imparatorluk sınırlarının
-haritada nasıl gösterileceğini neden ayrı bir tartışma dosyasında tuttuğunun
-dayanağıdır; o tartışma
-[İmparatorluk sınırı haritada nasıl gösterilmeli?](/tartisma/imparatorluk-siniri-nasil-cizilir/)
-haritasında ele alınıyor.
+/tartisma/imparatorluk-siniri-nasil-cizilir/) haritasında ele alınıyor.
 
 ## Emperyalizm üzerine yazan düşünür
 
@@ -80,7 +70,6 @@ Emperyalizm üzerine yazan bir düşünür için tutulan kayıt, onu 1906-1975 a
 yaşamış ve yirminci yüzyılın en etkili siyaset filozoflarından biri sayılan bir
 düşünür olarak verir.[^k2] O düşünür
 [Hannah Arendt](/dusunur/arendt/) dosyasında ele alınıyor.
-
 
 ## Ölçütler
 
@@ -125,9 +114,8 @@ Her imparatorluğun temel sorunu mesafedir.[^k1] Merkezden uzak
 bölgeleri, haberin günlerce sürdüğü koşullarda
 yönetmek.
 
-Fiilî büyüklük, sınırlardan çok merkezle çevre arasındaki haber
-süresiyle ölçülebilir.[^k2] Bu ölçüt korpusun birçok dosyasında
-kullanılır.
+Fiilî büyüklük, sınırlardan çok merkezle çevre arasındaki haber süresiyle
+ölçülebilir.[^k2]
 
 İletişim hızındaki bir artış,
 doğrudan bir merkezîleşme aracıdır.[^k3]
@@ -138,8 +126,7 @@ Birden çok halkı yönetmek bir çözüm gerektirir.[^k1] Üç yol
 görülür: tek hukuk dayatmak, yerel hukuku tanımak, ya da kişinin
 topluluğuna göre hukuk belirlemek.
 
-Üçü farklı sonuç verir.[^k2] Korpus her imparatorluk dosyasında hangi
-yolun seçildiğini kaydeder.
+Üçü farklı sonuç verir.[^k2]
 
 Bir imparatorluğun çeşitliliği
 yönetme biçimi, onun kalıcılığının en iyi göstergelerindendir.[^k3]
@@ -174,13 +161,10 @@ Terim yirminci yüzyılda büyük ölçüde olumsuz bir anlam
 kazandı.[^k1] Kendini böyle adlandıran düzenler
 azaldı.
 
-Bu, kavramın çözümleyici değerini ortadan
-kaldırmaz.[^k2] Korpus terimi ölçütlerle uygular, kendi
-adlandırmalarına bakmaz.
+Bu, kavramın çözümleyici değerini ortadan kaldırmaz.[^k2]
 
 Bir düzenin kendini nasıl adlandırdığı, ölçütleri
 karşılayıp karşılamadığından ayrı bir veridir.[^k3]
-
 
 ## Kaydın yönü
 
@@ -190,6 +174,22 @@ yazdığıdır.
 
 Bir düzenin merkezleri, o düzenin kaydını
 da merkezîleştirir.[^k3][^k2]
+
+## Ölçekten önce hiyerarşiye bakmak
+
+İmparatorluğu yalnız büyük bir devlet olarak tanımlamak yeterli değildir. Ayırt edici
+özellik, farklı topluluk ve bölgelerin eşit olmayan statülerle ortak bir siyasal
+merkeze bağlanmasıdır.[^k1] Merkez doğrudan memur gönderebilir, yerel hanedanı
+yerinde bırakabilir veya vergi ile askerî destek karşılığında geniş özerklik
+tanıyabilir. Bu biçimlerin aynı yapı içinde birlikte bulunması, imparatorluğu tek tip
+idare olarak görmeyi yanıltır.
+
+“Merkez” ile “çevre” de sabit coğrafi noktalar değildir. Ticaret yolu, askerî tehdit
+ve hanedan siyaseti bir bölgenin önemini değiştirebilir.[^k2] Yönetilen topluluklar
+yalnız emir alan nesneler değil; aracılık eden, pazarlık yapan ve isyan eden
+aktörlerdir. Bir yapıyı imparatorluk sayarken büyüklük kadar egemenlik katmanları,
+farklı hukuk düzenleri ve kaynak aktarımının yönü gösterilmelidir. Modern ulus-devlet
+ölçütlerini geriye doğru uygulamak bu çeşitliliği gizler.[^k3]
 
 ## Kanıtın ve kapsamın sınırı
 Tanımın içeriği, özellikler ve dönem dönem tarihler burada ayrı başlıklar altında

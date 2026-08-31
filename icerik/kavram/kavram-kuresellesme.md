@@ -43,13 +43,12 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak, köken bilgisi ve kullanıma ayrı bir bölüm ayırır; tarih bölümünü dört alt
 başlığa böler: arkaik, erken modern, modern ve çağdaş.[^k1]
 
 ## İlk evrenin adı arkaiktir
 
-::tartismali[Kaynak küreselleşmenin tarihini "arkaik" bir evreyle başlatıyor. Bu, kavramın yalnızca yirminci yüzyıla ait sayılamayacağı anlamına gelir. Korpus kavramı bir dönem adı olarak kullanmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Kaynak küreselleşmenin tarihini "arkaik" bir evreyle başlatıyor. Bu, kavramın yalnızca yirminci yüzyıla ait sayılamayacağı anlamına gelir.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Kavram tartışmalarının nasıl taşınacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -64,10 +63,6 @@ alınıyor.
 Kaynak iktisadi, kültürel ve siyasi küreselleşmeyi ayrı bölümler olarak tutar;
 siyasi küreselleşme altında ordu ve toplumsal cinsiyet alt başlıkları vardır.[^k1]
 
-Aynı olgunun üç ayrı boyutta işlenmesi,[^k1] korpusun şu kuralının dayanağıdır: bu
-dosyada küreselleşme, hangi boyutun kastedildiği belirtilmeden bir eğilim olarak
-anılmaz.
-
 ## Yakın bir kavram
 
 Yakın bir kavram için tutulan kayıt, merkez, çevre ve yarı çevre terimlerini ayrı
@@ -78,10 +73,6 @@ ayrı tanımlar.[^k2] O kavram
 
 Uzun dönemli seride dünya nüfusu 1500 için yaklaşık 503,1 milyon, 1900 için
 yaklaşık 1,63 milyar, 2020 için yaklaşık 7,89 milyardır.[^k3]
-
-Korpus bu seriyi kavramın kanıtı olarak sunmaz; nüfus toplamı bir bağlantılılık
-ölçüsü değildir.[^k1][^k3]
-
 
 ## Ölçütler
 
@@ -145,7 +136,6 @@ düzeyine dönmez.
 Bir sürecin bazı bileşenleri tersinir, bazıları
 değildir; ikisi ayrı ayrı değerlendirilmelidir.[^k1]
 
-
 ## Ölçüm kapasitesinin payı
 
 Kavramın son dalgası, ölçme kapasitesinin de hızla arttığı dönemdir.[^k2]
@@ -193,6 +183,18 @@ kaydedilmelidir.[^k3] İddia, alınan kararları tercih olmaktan
 
 Bir sürecin kaçınılmaz sunulması, onu
 yürütenlerin sorumluluğunu da görünmez kılar.[^k1]
+
+## Hangi akışın küreselleştiğini sormak
+
+Küreselleşme tek bir sayaçla ölçülemez. Mal ticareti, sermaye, göç, bilgi ve kültürel
+ürünler aynı zamanda ve aynı yönde hareket etmeyebilir.[^k1] Ticaret payının artması
+insanların daha serbest dolaştığını veya siyasal kurumların yakınsadığını göstermez.
+Başlangıç tarihi de seçilen ölçüte bağlıdır: okyanus bağlantısı, sanayi üretimi ve
+dijital ağlar farklı eşikler verir. Kavram kullanılmadan önce akış, ölçek ve dönem
+açıkça belirtilmelidir.[^k2]
+
+Küresel ortalama ayrıca bağlantıdan dışlanan bölgeleri örtebilir; erişimin dağılımı
+en az toplam hacim ve büyüme hızı kadar önemlidir.[^k1]
 
 ## Kanıtın ve kapsamın sınırı
 Boyutların içeriği, eleştiriler ve çağdaş tartışmalar burada ayrı başlıklar

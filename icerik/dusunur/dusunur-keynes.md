@@ -103,7 +103,6 @@ son_denetim: 2026-08-29
 denetim_durumu: onaylandi
 onarim_turu: 1
 ---
-
 Bir ekonominin işsizliği kendiliğinden eritmesi gerekmez. Girişimcilerin ne
 kadar insan çalıştıracağına karar verirken baktıkları şey, ürettiklerinden
 bekledikleri hasılattır; bu beklenti düşükse üretim düşük kalır ve düşük
@@ -262,13 +261,9 @@ yavaş silinmesidir.[^k6]
 
 ## İtiraz edenler
 
-İtirazların ilki *Genel Teori*'den öncedir ve hedefi de başka bir kitaptır:
-Friedrich Hayek 1931'de Keynes'in 1930 tarihli *A Treatise on Money*'sini
-ayrıntılı biçimde eleştirmişti.[^k1] İki adamın ilişkisi bir cephe hattı
-değildi; Wikipedia'nın aktardığı mektupta Keynes, *The Road to Serfdom*'u
-okuduktan sonra Hayek'e "Morally and philosophically I find myself in
-agreement with virtually the whole of it." diye yazar; mektubun kendi metni
-bu inceleme için görülmedi.[^k1]
+İtirazların ilki *Genel Teori*'den öncedir ve hedefi de başka bir kitaptır: Friedrich
+Hayek 1931'de Keynes'in 1930 tarihli *A Treatise on Money*'sini ayrıntılı biçimde
+eleştirmişti.[^k1]
 
 Hayek'in en açık ifadesi 1974 Nobel ödül dersindedir. Orada iktisatçıların
 tavsiye ettiği politikaların hızlanan enflasyona yol açtığını, meslek

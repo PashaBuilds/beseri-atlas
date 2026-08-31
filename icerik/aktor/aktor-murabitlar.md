@@ -58,7 +58,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Murâbıtlar, on birinci yüzyılda büyük çölün batı kesiminde ortaya çıkan
@@ -67,8 +66,8 @@ denizin öteki yakasını aynı yönetim altında toplayan hanedandır.[^k1]
 Çıkış noktası, çölün batı kesimindeki göçebe topluluklarıydı ve
 hareket bir çöl kenarı yerleşmesinden başladı.
 
-Hanedanın hâkim olduğu alan, iki farklı iklimi ve iki farklı üretim
-düzenini kapsıyordu.[^k2] Bu, korpusun bu incelemede ölçtüğü ilk özelliktir.
+Hanedanın hâkim olduğu alan, iki farklı iklimi ve iki farklı üretim düzenini
+kapsıyordu.[^k2]
 
 Devlet, kuruluşundan yaklaşık bir yüzyıl sonra kendi çıktığı bölgeden
 gelen bir başka hareket tarafından ortadan kaldırıldı.[^k1] Aynı örüntü
@@ -94,8 +93,7 @@ kurulduğunda kara parçalarından daha hızlı bir bağdır.
 Bu hanedan iki yüzeyi de aynı anda kullandı.[^k1] Çölü kervanla,
 denizi gemiyle geçti ve ikisini tek yönetim altında tuttu.
 
-Bu, korpusta seyrek görülen bir bileşimdir.[^k4] Kara ve deniz
-lojistiğini birlikte işleten düzenler, ikisinden birini kullananlardan
+Kara ve deniz lojistiğini birlikte işleten düzenler, ikisinden birini kullananlardan
 daha kırılgan ama daha geniş olur.
 
 ## Altın hattı
@@ -186,8 +184,7 @@ Birlik dönemi, iki yaka arasındaki insan ve metin hareketini
 artırdı.[^k3] Kuzeyden güneye mimari ve yazı gelenekleri, güneyden
 kuzeye askerî örgütlenme biçimleri geçti.
 
-Bu tür geçişler tek yönlü değildir.[^k2] Korpus bu nedenle "etki"
-sözcüğünü tek yönlü kullanmaz.
+Bu tür geçişler tek yönlü değildir.[^k2]
 
 Geçişin ölçülmesi zordur.[^k4] Hangi unsurun hangi yönde ve ne zaman
 taşındığı, çoğu örnekte kesin olarak belirlenemez.
@@ -200,7 +197,6 @@ hareket, aynı çöl kenarı bölgesinden çıktı.
 Çöküş, dış bir istiladan çok iç bir yer değiştirmedir.[^k2] Aynı
 coğrafyadan çıkan iki hareket art arda aynı alanı yönetti.
 
-Bu, korpusun Kuzey Afrika dosyalarında tekrar eden bir örüntüdür.[^k4]
 Çöl kenarı, siyasi hareketlerin tekrar tekrar çıktığı bir kuşaktır.
 
 ## Örüntünün açıklaması
@@ -272,12 +268,9 @@ nereye dayandırdığının en kısa göstergesidir.[^k2]
 
 ## Kaynak durumu
 
-Bu incelemenin dört künyesinin dördü de ansiklopedi maddesidir.[^k1]
 Birincil kaynak künyelenememiştir.
 
 Dönemin Arapça tarih ve coğrafya metinleri mevcuttur.[^k2]
-Doğrulanabilir çevrimiçi baskıları bu inceleme yazıldığında
-bulunamamıştır.
 
 Eksik borç defterine yazılmıştır.[^k3] Dosya, birincil kaynağı olmayan
 makaleler grubundadır ve bu künyesinden görülebilir.
@@ -290,10 +283,7 @@ konuda örtüşmez.
 Askerî seferlerin ayrıntısı kapsam dışıdır.[^k3] Dosya yalnızca çölün
 bağlayıcılığına ve meşruiyet biçimine ilişkin olanı kaydeder.
 
-Hanedanın mimari mirası ayrı bir çalışma gerektirir.[^k2] Bu inceleme
-yazıldığında korpusta bulunmuyordu; iki yakada da yapı bırakmış bir
-düzenin mimari mirası, birliğin ne kadar derinleştiğine dair ölçülebilir
-bir gösterge sunabilir ve bu ölçüm yapılmamıştır.
+Hanedanın mimari mirası ayrı bir çalışma gerektirir.[^k2]
 
 ## Kanıtın ve kapsamın sınırı
 Dosya, çölün her zaman ve her yerde bağlayıcı olduğunu ileri
@@ -324,3 +314,26 @@ için [Meşruiyet](/kavram/mesruiyet/) dosyaları okunabilir.[^k4]
 
 Bölgenin toplumsal örgütlenme kuramı için
 [Umran](/kavram/umran/) dosyası okunmalıdır.[^k3]
+
+## Çöl yolu ile deniz boğazını birleştirmek
+
+Murabıt gücü, Sahra’nın güneyindeki ticaret yolları ile Mağrip kentlerini aynı
+siyasal ağda buluşturdu; Endülüs’e geçiş bu ağı Cebelitarık’ın ötesine taşıdı.[^k1][^k2]
+Çöl bu bakımdan boş bir engel değil, kuyu, kervan ve yerel bilgiyle işletilen bir
+ulaşım alanıydı. Kervan güvenliği, altın akışı ve dinî-siyasal dayanışma birbirini
+güçlendirdi.
+
+İberya’daki müdahale yalnız fetih isteğiyle açıklanamaz. Yerel Müslüman
+hükümdarların rakipleri ve kuzeydeki Hristiyan güçlerle ilişkileri, Murabıtları
+önce askerî ortak, sonra yönetici haline getirdi.[^k3][^k4] Çöl kökenli hareket
+şehirli vergi, hukuk ve saray kurumlarını devraldıkça kurucu dayanışma da yeni
+çıkarlarla sınandı. Sonraki Muvahhid eleştirisi, bu dönüşümün meşruiyet dilindeki
+karşılığıdır.
+
+Kuruluş ve çözülme arasında aynı coğrafi ağ sürdü; değişen, bu ağı hangi
+dayanışma, vergi ve dinî otorite bileşiminin yönetebildiğiydi. Hanedan sonu bu
+bakımdan bölgesel bağlantıların sonu değildir.
+
+Yeni hanedan aynı yolları ve kentleri başka bir meşruiyet iddiasıyla devraldı.
+
+Coğrafi ağ siyasal adlardan daha uzun ömürlüydü.

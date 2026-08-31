@@ -65,29 +65,24 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Nerede durduğu
 
-Maori, güney Pasifik'teki büyük bir takımadaya yerleşen ve orada beş yüzyıl
-içinde kendi siyasi düzenini kuran topluluktur.[^k1] Korpusun bölge şemasında Okyanusya
-etiketi taşır.
+Maori, güney Pasifik'teki büyük bir takımadaya yerleşen ve orada beş yüzyıl içinde kendi
+siyasi düzenini kuran topluluktur.[^k1]
 
 Takımada, Avustronezya yayılmasının en geç yerleşilen büyük
 alanlarındandır.[^k1] Yerleşim, Pasifik'in öteki ada gruplarından yüzyıllar
 sonradır ve bu gecikme coğrafyayla açıklanır: ada, insan yerleşimine açık
 sular içinde en uzak hedeflerden biriydi.
 
-Dosyanın ayırt edici yanı kanıt tarafındadır.[^k2] Topluluk yazı
-kullanmıyordu ama ayrıntılı ve kurallı bir sözlü soy kaydı tutuyordu; bu
-kayıt, korpusun öteki sözlü gelenek dosyalarından farklı bir yapıdadır.
+Dosyanın ayırt edici yanı kanıt tarafındadır.[^k2]
 
 ## Soy kaydının yapısı
 
 Sözlü soy kaydı, kuşakları ve bağlantıları sabit bir sırayla aktarır.[^k1]
 Aktarım ezberlenerek ve belirli ortamlarda, belirli kişilerce yapılır.
 
-Yapının korpus açısından değeri, sınanabilir olmasıdır.[^k1] Farklı
-topluluklardan alınan kayıtlar aynı kuşaklarda kesişir ve kesişme noktaları
+Farklı topluluklardan alınan kayıtlar aynı kuşaklarda kesişir ve kesişme noktaları
 birbirini denetler.
 
 Bu, [Sözlü gelenek kaynak sayılır mı](/tartisma/sozlu-gelenek-kaynak-mi/) incelemesinde tartışılan konumlardan birinin somut örneğidir.[^k2] Aktarımın
@@ -112,9 +107,8 @@ Bağımsız kanıt, kazılardan ve tarihlendirilebilir malzemeden gelir.[^k1]
 Yerleşim katmanları ve taşınan bitki türleri, yerleşimin tarihini soy
 kaydından bağımsız olarak verir.
 
-İki kanıtın örtüşmesi, korpusun Benin ve Moche dosyalarında kaydedilen
-ilkenin bir örneğidir.[^k4] Farklı türden iki kanıtın aynı sonucu vermesi,
-aynı türden iki kanıtın örtüşmesinden daha güçlü bir doğrulamadır.
+Farklı türden iki kanıtın aynı sonucu vermesi, aynı türden iki kanıtın örtüşmesinden
+daha güçlü bir doğrulamadır.
 
 Örtüşmeyen noktalar da kaydedilmelidir.[^k1] Soy kayıtları bazı adalarda
 arkeolojinin verdiğinden daha erken bir yerleşim ima eder ve fark
@@ -125,9 +119,8 @@ tartışmalıdır.
 Topluluk tek bir merkezî yönetim altında birleşmedi.[^k1] Siyasi birim, ortak
 atadan gelen ve kendi toprağını tutan gruplardı.
 
-Bu yapı, korpusun başka bölgelerinde kaydettiği dağınık düzenlere
-benzer.[^k3] Merkezîleşmenin yokluğu bir gelişmemişlik değil, coğrafi ve
-toplumsal koşullara verilen bir cevaptır.
+Merkezîleşmenin yokluğu bir gelişmemişlik değil, coğrafi ve toplumsal koşullara verilen
+bir cevaptır.
 
 Yapının sonucu, dış baskı karşısındaki davranışta görülür.[^k1] Dağınık bir
 düzen tek bir anlaşmayla teslim alınamaz; her birim kendi kararını verir ve
@@ -139,9 +132,8 @@ Grupların merkezinde, oymalarla kaplı bir toplantı yapısı bulunur.[^k2][^k3
 Yapının direkleri ve cephe öğeleri, o grubun atalarını temsil eden figürler
 taşır.
 
-Bu, nesne kanıtının korpusta seyrek görülen bir biçimidir.[^k2] Yapı, bir
-soy kaydının üç boyutlu ve kalıcı hâlidir; sözlü aktarımla söylenen şey,
-aynı zamanda ahşaba oyulmuştur.
+Yapı, bir soy kaydının üç boyutlu ve kalıcı hâlidir; sözlü aktarımla söylenen şey, aynı
+zamanda ahşaba oyulmuştur.
 
 İki kayıt biçiminin birbirini desteklemesi, dosyanın kanıt zeminini
 güçlendirir.[^k3] Sözlü kayıt kimin kimden geldiğini söyler; oyma, o
@@ -152,19 +144,14 @@ sıralamanın topluluk tarafından kamusal olarak beyan edildiğini gösterir.
 Oyma geleneği süsleme değildir ve dosyada böyle kaydedilmez.[^k2][^k3] Her
 figürün kimi temsil ettiği bilinir ve bu bilgi, yapıyı yapan gruba aittir.
 
-Bu, korpusun Benin Krallığı dosyasında kaydedilen mekanizmanın bir
-benzeridir.[^k4] Orada döküm levhalar saray hiyerarşisini kaydediyordu;
-burada oymalar soy sırasını kaydediyor.
+Orada döküm levhalar saray hiyerarşisini kaydediyordu; burada oymalar soy sırasını
+kaydediyor.
 
 İki örnek arasındaki fark önemlidir.[^k2] Benin'de kayıt bir merkezî
 yönetimin kaydıydı; burada her grup kendi kaydını kendi yapısında tutar ve
 merkezî bir arşiv yoktur.
 
 ## Nesnelerin bugünkü yeri
-
-Bu incelemenin künyelediği üç nesne, topluluğun bulunduğu ülkenin dışındaki bir
-müzededir.[^k2][^k3][^k4] Bu, korpusun Benin dosyasında da kaydedilen bir
-durumdur.
 
 Durumun kaydedilmesi gerekir çünkü kanıta erişimi belirler.[^k4] Bir
 topluluğun kendi geçmişine dair nesneler başka bir kıtadaysa, o geçmişi
@@ -183,9 +170,8 @@ Bu hızlı benimsemelerden biridir.[^k1] Bir kayıt
 sisteminin zaten bulunduğu bir toplumda yeni bir kayıt sisteminin
 benimsenmesi, hiç kayıt tutmayan bir toplumdakinden farklı işler.
 
-Sonucu doğrudan korpusu ilgilendirir.[^k3] Sözlü soy kayıtlarının bir bölümü
-bu dönemde yazıya geçirildi ve bugün elde bulunan kayıtlar büyük ölçüde o
-yazımlardan gelir.
+Sözlü soy kayıtlarının bir bölümü bu dönemde yazıya geçirildi ve bugün elde bulunan
+kayıtlar büyük ölçüde o yazımlardan gelir.
 
 ## Yazıya geçirmenin sonucu
 
@@ -193,9 +179,8 @@ Yazıya geçirme, kaydı korudu ve aynı anda değiştirdi.[^k1] Sözlü aktarı
 esnek olan bölümler sabitlendi; hangi versiyonun yazıldığı bir tercih
 hâline geldi.
 
-Bu, korpusun Popol Vuh dosyasında kaydedilen durumun bir benzeridir.[^k4] Bir
-sözlü geleneğin yazıya geçirilişi, o geleneğin bir kesitini kalıcı kılar ve
-geri kalanını dolaşımdan çıkarır.
+Bir sözlü geleneğin yazıya geçirilişi, o geleneğin bir kesitini kalıcı kılar ve geri
+kalanını dolaşımdan çıkarır.
 
 Yazıya geçirenin konumu da belirleyicidir.[^k1] Kaydı kimin, hangi amaçla ve
 kimin anlatımından yazdığı, sonuçta elde bulunan metni biçimlendirir.
@@ -227,38 +212,25 @@ arkeolojik olarak ölçülebilir ve karşılaştırma için kullanılabilir.[^k1
 
 ## Kaynak durumu
 
-Bu inceleme dört kaynağa dayanır ve üçü birincildir.[^k2][^k3][^k4] Üçü de müze
-katalog kaydıdır ve `nesne` alt türünü taşır.
+Üçü de müze katalog kaydıdır ve `nesne` alt türünü taşır.
 
 Topluluğun kendi dilinde yazılmış metinleri bulunmaktadır.[^k1] Bunların
 doğrulanabilir, katalog künyesiyle teyit edilmiş tam metin bir baskısı bu
 dosya yazıldığında künyeye alınamamıştır ve bu bir kısıttır.
 
-Kısıtın sebebi erişimdir, kayıt yokluğu değil.[^k3] Bu, korpusun öteki bölge
-dosyalarında da ölçülen bir eğilimin devamıdır.
+Kısıtın sebebi erişimdir, kayıt yokluğu değil.[^k3]
 
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, atlasın Okyanusya bölgesindeki **ikinci dosyasıdır** ve bölgenin
-aktör katmanındaki ilkidir.[^k1] Bölge etiketi, bu turda şemaya eklendi.
+Eklemenin gerekçesi kapsam değil şemadır.[^k4]
 
-Eklemenin gerekçesi kapsam değil şemadır.[^k4] Korpusun bölge listesi
-kurulurken bu bölge hiçbir etikete karşılık gelmiyordu; yani şema, bir dünya
-bölgesini temsil etmeyi yapısal olarak imkânsız kılıyordu.
-
-Eksik hâlâ büyüktür ve beyan edilmelidir.[^k2] İki dosya, bir bölgeyi temsil
-etmez; bu incelemeler bir başlangıçtır ve korpusun borç defterinde bölgenin adı
-yazılıdır.
+Eksik hâlâ büyüktür ve beyan edilmelidir.[^k2]
 
 ## Açıkta kalan sorular
 Grupların tek tek tarihi, aralarındaki çatışmalar ve göç anlatıları burada
 işlenmez.[^k1] Her biri ayrı dosya gerektirir.
 
-Oyma ve dokuma geleneklerinin sanat tarihi açısından incelenmesi de kapsam
-dışıdır.[^k2] Bu inceleme nesneleri kanıt olarak kullanır.
+Oyma ve dokuma geleneklerinin sanat tarihi açısından incelenmesi de kapsam dışıdır.[^k2]
 
-Sömürge dönemi, toprak davaları ve yirminci yüzyıldaki gelişmeler burada
-verilmez.[^k1] Korpusun [Sömürgesizleşme](/kavram/somurgesizlesme/) dosyası
-genel çerçeveyi sunar; bu bölgeye özgü dosyalar henüz yoktur.
+Sömürge dönemi, toprak davaları ve yirminci yüzyıldaki gelişmeler burada verilmez.[^k1]
 
 ## Gıda üretiminin sınırı
 
@@ -280,9 +252,8 @@ hangilerinin tutunmadığını doğrudan gösterir.
 hayvan türleri ele geçer.[^k1] Türlerin ortadan kalkışı, yerleşimden
 sonraki birkaç yüzyıl içine tarihlenir.
 
-Bu bulgu, korpusun öteki dosyalarında da kaydedilen bir örüntüye
-uyar.[^k3] İnsan yerleşiminin olmadığı bir adaya gelen bir topluluk,
-kaçmayı öğrenmemiş türlerle karşılaşır ve avlanma hızlı sonuç verir.
+İnsan yerleşiminin olmadığı bir adaya gelen bir topluluk, kaçmayı öğrenmemiş türlerle
+karşılaşır ve avlanma hızlı sonuç verir.
 
 Aynı örüntü birden çok kıtada ve
 birden çok dönemde görülür; tek bir topluluğa özgü bir davranış olarak okunamaz.[^k4]
@@ -305,3 +276,46 @@ Sonraki dönemin genel çerçevesi için
 
 Aynı yılları bütün bölgeler üzerinden okumak için [Dönem 07](/donem/07/)
 dosyası kullanılmalıdır.
+
+## Okyanus yolculuğundan yerel siyasal dünyaya
+
+Maorilerin Aotearoa’ya yerleşmesi, Avustronezya denizcilik bilgisinin son büyük
+yayılma halkalarından biridir.[^k1] Açık okyanusta yön bulmak yıldız, dalga,
+rüzgâr, kuş ve bulut bilgisini birlikte kullanmayı gerektiriyordu. Yerleşme bir
+“tesadüfî sürüklenme” değil, insan, bitki ve gerekli araçların yeni çevreye
+taşınabildiği planlı seferler dizisi olarak değerlendirilmelidir.
+
+Yeni Zelanda’nın iklimi ve kaynakları tropik ada düzeninden farklıydı. Topluluklar
+tarım, avcılık ve depolama yöntemlerini uyarlarken nüfus ile yerleşim coğrafyası
+değişti. *Whānau*, *hapū* ve *iwi* gibi akrabalık-siyaset ölçekleri tek bir ulusal
+devlet oluşturmaz; toprak, soy ve karşılıklı yükümlülük üzerinden farklı düzeyde
+ortaklık kurar. Bir liderin sözünü bütün Maorilerin kararı saymak bu çoğulluğu
+gizler.[^k1]
+
+## Sözlü soy kaydı neyi kanıtlar?
+
+*Whakapapa*, kişiyi atalara, yere ve siyasal haklara bağlayan örgütlü soy
+bilgisidir. Yalnız geçmişi ezberlemek değil, evlilik, miras, ittifak ve toprak
+iddiasını kurmak için kullanılan yaşayan bir sistemdir. Kuşak sayıları kronoloji
+için ipucu verebilir; her kuşağın eşit süre olduğunu varsaymak kesin tarih
+üretmez. Farklı anlatılar çatıştığında bunlar basit hata değil, farklı kol ve hak
+iddialarının kaydı olabilir.
+
+Arkeolojik tarihleme, dil karşılaştırması ve sözlü gelenek birlikte kullanıldığında
+yerleşimin zamanı ile sonrasındaki yayılım daha güçlü açıklanır. Hiçbiri diğerinin
+yerini tutmaz. Yazılı Avrupalı kayıtların daha geç başlaması, önceki yüzyılları
+“tarihsiz” yapmaz; hangi kanıt türünün hangi soruya cevap verdiğini değiştirir.[^k1]
+
+## Nesnede korunan ilişki
+
+Te Arawa figürleri yalnız sanat nesnesi değildir; evin, soyun ve koruyucu ataların
+mekân içindeki varlığını taşır.[^k2][^k3] Müzede tek başına görülen figür, özgün
+yapı ve tören bağlamından kopmuştur. *Pūtōrino* gibi çalgılar da ses, icra ve
+toplumsal rol bilgisi olmadan yalnız biçime indirgenemez.[^k4]
+
+Waitangi sonrasında İngilizce ve Māori metinleri arasındaki egemenlik farkı,
+akrabalık temelli yerli yetkiyi tek devlet diline çevirmenin sınırını gösterir.
+Sömürgeleşme karşısındaki savaş, dilekçe, hukuk ve kültürel canlanma aynı uzun
+direniş tarihinin farklı araçlarıdır. Māori toplumu yalnız “geleneksel geçmiş”
+değil, kurumlarını yeni hukuk ve kent koşullarında yeniden kuran çağdaş siyasal
+aktördür.[^k1]

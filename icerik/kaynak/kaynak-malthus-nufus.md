@@ -60,7 +60,6 @@ son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak eser için ayrı bir bölüm açar ve altında baskılar ile sürümler diye bir
@@ -97,13 +96,7 @@ Seri [Nüfus artış hızı,
 1950–2023](/veri/nufus-artis-hizi/) dosyasında, yazar ise [Thomas
 Malthus](/dusunur/malthus/) dosyasında ele alınıyor.[^k1][^k3]
 
-## Okumayı sürdürmek için
-Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi baskının kullanıldığı her
-aktarımda belirtilmelidir.
-
 ## Metne bağ
 
-Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
-atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
-çevirinin kullanıldığı her aktarımda belirtilmelidir.
+Eserin kamu malı tam metni erişilebilir durumdadır; her atıf bölüm ya da paragraf
+numarasıyla verilmeli, kullanılan baskı ve çeviri belirtilmelidir.[^k4]

@@ -45,7 +45,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak, dışlayıcı olmama diye ayrı bir bölüm tutar ve efendi-haraçgüzar
 ilişkisinin zorunlu olarak dışlayıcı olmadığını yazar; sınır bölgelerindeki bir
 devletin iki ya da üç güçlü güce haraç ödeyebileceğini kaydeder.[^k1]
@@ -55,11 +54,8 @@ devletin iki ya da üç güçlü güce haraç ödeyebileceğini kaydeder.[^k1]
 Kaynak, haraç ödeyen hükümdarın güçlü güçleri birbirine karşı oynayarak her
 birinin müdahalesini en aza indirebileceğini yazar.[^k1]
 
-Bir siyasi birimin aynı anda birden çok merkeze bağlı olabilmesi,[^k1] korpusun
-şu kuralının dayanağıdır: bu incelemede bağlılık, bir aidiyet değil bir ilişki
-demeti olarak kaydedilir. Harita gösterimi sorunu
-[İmparatorluk sınırı haritada nasıl gösterilmeli?](/tartisma/imparatorluk-siniri-nasil-cizilir/)
-haritasında ele alınıyor.
+Harita gösterimi sorunu [İmparatorluk sınırı haritada nasıl gösterilmeli?](
+/tartisma/imparatorluk-siniri-nasil-cizilir/) haritasında ele alınıyor.[^k1]
 
 ## Kaynak somut bir örnek verir
 
@@ -80,10 +76,62 @@ Karşıt biçim için tutulan kayıt, mutlak egemenliği savunan bir düşünür
 1588-1679 arasında yaşadığını verir.[^k3] O düşünür
 [Thomas Hobbes](/dusunur/hobbes/) dosyasında ele alınıyor.
 
-İki kaydın yan yana durması,[^k1][^k3] korpusun şu kuralının dayanağıdır:
-egemenliğin tekil ve bölünmez sayılması, bu korpusta belirli bir geleneğe ait bir
-varsayım olarak kaydedilir, ortak bir başlangıç noktası olarak değil.
-
 ## Kanıtın ve kapsamın sınırı
 Terminoloji, kavramın tarihi ve yükümlülüklerin ayrıntısı burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]
+
+## Çizgi sınır yerine etki halkaları
+
+Mandala modeli, özellikle Güney ve Güneydoğu Asya tarihindeki bazı siyasal
+düzenleri modern haritanın keskin sınırlarından farklı düşünmeye yarar. Güç,
+başkentten uzaklaştıkça zayıflayan halkalar halinde yayılır; çevredeki hükümdarlar
+birden fazla merkeze aynı anda bağlılık, haraç veya törensel saygı sunabilir.
+Yetki, bütün alanı eşit yoğunlukta yöneten tek merkez yerine örtüşen ilişkilerden
+oluşur.[^k1]
+
+Bu düzende “ülke kime aitti?” sorusu tek cevap vermeyebilir. Bir yerel yönetici
+iç hukukunu ve vergi toplamasını sürdürürken güçlü merkeze elçi ve armağan
+gönderebilir; başka bir merkeze de evlilik veya ticaret bağı kurabilir. Merkezin
+gücü doğrudan bürokratik idareden çok prestij, askerî koruma, dinî meşruiyet ve
+yeniden dağıtım kapasitesine dayanabilir. Haraç her zaman tam ilhak veya kesintisiz
+itaat anlamına gelmez.
+
+## Merkez neden büyür veya çözülür?
+
+Başarılı hükümdar ganimet, unvan, ticaret erişimi ve koruma dağıtarak çevredeki
+seçkinleri kendine bağlar. Deniz yolları veya nehir havzaları gibi ulaşım ağları
+merkezin erişimini biçimlendirir. Veraset krizi, ticaret yönünün değişmesi,
+askerî yenilgi veya rakip bir sarayın yükselişi bağlılık halkalarını hızla yeniden
+düzenleyebilir. Hanedan düşse bile kentler ve yerel yöneticiler yaşamaya devam
+edebilir; siyasal harita bir anda boşalmış sayılmaz.
+
+[Srivijaya](/aktor/srivijaya/) deniz ticareti, limanlar ve törensel merkez
+arasındaki ilişkinin somut örneğini verir.[^k2] [Malaka Sultanlığı](/aktor/malaka-sultanligi/)
+ve [Ayutthaya Krallığı](/aktor/ayutthaya-kralligi/) benzer coğrafyada farklı ağ
+ve kurum bileşimlerini karşılaştırmaya yardım eder. Model her devleti aynı
+mandalaya dönüştürmemeli; doğrudan yönetim, vergi, garnizon ve hukuk kanıtları
+ayrıca aranmalıdır.
+
+## Modern egemenlik şemasından farkı
+
+Modern egemenlik düşüncesi belirli toprak üzerinde nihai ve dışlayıcı yetkiyi
+öne çıkarır; Hobbes’un kuramsal bağlamı bölünmemiş üstün otorite sorununu
+gösterir.[^k3] Mandala modelinde ise yetkiler üst üste binebilir, bağlılık
+dereceli ve pazarlığa açık olabilir. Bu fark, eski haritalarda keskin sınır çizip
+sonra her alanı tek devlete ait saymanın neden yanıltıcı olduğunu açıklar.
+
+[Şehir devleti](/kavram/sehir-devleti/) yoğun bir kentsel merkez ile yakın
+çevresini, [Haraçgüzarlık](/kavram/haracguzarlik/) üstün güce bağlılık ve aktarım
+ilişkisini, [İmparatorluk sınırı nasıl çizilir?](/tartisma/imparatorluk-siniri-nasil-cizilir/)
+ise belirsiz egemenliği haritada gösterme sorununu açar. Mandala, bölgeyi
+“gevşek devlet” diye küçümsemek için değil, yerel özerklik ile merkezî çekimin
+aynı anda nasıl çalıştığını anlamak için kullanılmalıdır.[^k1]
+
+Diplomatik kaynaklarda “haraç” ve “tabiiyet” kelimeleri de taraflara göre farklı
+anlam taşıyabilir. Merkez, armağanı boyun eğmenin kanıtı; yerel hükümdar ise
+karşılıklı ticaret ve tanınma töreni sayabilir. Tek tarafın saray kaydını hukuki
+gerçeklik kabul etmek yerine elçilik sıklığı, askerî yardım, vergi ve yerel karar
+özgürlüğü birlikte incelenmelidir. Mandalanın dereceli bağlılığı ancak bu pratik
+göstergelerle görünür olur.
+
+Modelin zaman içinde donmuş sayılmaması da önemlidir. Ateşli silah, sömürge haritacılığı, düzenli vergi ve merkezî bürokrasi bazı halkaları doğrudan yönetime çevirebilir; eski tören ve unvanlar yine de yaşamayı sürdürebilir. Kurumsal dönüşüm, modern sınıra bir anda geçiş değil, yetki biçimlerinin yeniden bileşimidir.

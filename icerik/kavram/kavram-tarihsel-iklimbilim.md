@@ -41,7 +41,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak, okuryazar toplumlarda tarihçilerin yüzlerce ya da binlerce yıllık iklim
 değişimlerine dair yazılı kanıt bulabileceğini, örneğin üzüm hasadı tarihlerine
 dair bağcılık kayıtlarını yazar; okuryazar olmayan ya da yazı öncesi toplumlarda
@@ -49,7 +48,7 @@ araştırmacıların başka tekniklere başvurmak zorunda olduğunu kaydeder.[^k
 
 ## Kanıt türü toplumun kayıt biçimine bağlıdır
 
-::tartismali[Aynı soru için kullanılabilecek kanıt, incelenen toplumun yazı kullanıp kullanmadığına göre değişiyor. Korpus bu yüzden iklim iddialarını hangi kanıt türüne dayandığı belirtilerek taşır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Aynı soru için kullanılabilecek kanıt, incelenen toplumun yazı kullanıp kullanmadığına göre değişiyor.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Kanıt türlerinin nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -61,10 +60,6 @@ Kaynak, geçmiş nüfus düzeylerinin ve insanların ya da bitki ve hayvanların
 yaşanabilir alanlarının, bölgeye dair geçmiş iklim farklarının kanıtı olarak
 kullanılabileceğini yazar; polenlerin incelenmesi olan palinolojinin yalnızca
 bitki yayılımını değil olası ekolojiyi de yeniden kurabildiğini kaydeder.[^k1]
-
-Nüfusun bir iklim kanıtı olarak kullanılması,[^k1] korpusun nüfus serisini
-kullanırken neden hangi soruya cevap verdiğini belirttiğinin dayanağıdır; aynı
-seri farklı sorularda farklı şeyler gösterir.[^k2]
 
 ## Kayıt türleri ad ad sayılır
 
@@ -93,3 +88,47 @@ yazar [Michel Foucault](/dusunur/foucault/) dosyasında ele alınıyor.
 Buzul çağları, Orta Çağ Sıcak Dönemi, Küçük Buz Çağı ve insan kaynaklı iklim
 değişikliği kanıtları burada ayrı başlıklar altında ele alınmamıştır; kaynak
 bunları ayrı bölümler olarak işler.[^k1]
+
+## Bir iklim açıklaması nasıl kurulur?
+
+Tarihsel iklimbilim, geçmişte havanın nasıl olduğunu söylemekten fazlasını yapar.
+Önce birbirinden bağımsız göstergelerin aynı zaman aralığında benzer bir değişime
+işaret edip etmediği sınanır. Üzüm hasadının erkene kayması sıcaklıkla ilişkili
+olabilir; fakat aynı değişim üzüm çeşidinden, emek düzeninden ya da yerel bir
+karardan da doğabilir. Polen, yerleşim ve yazılı kayıt birlikte aynı yöne
+bakıyorsa açıklama güçlenir. Bir göstergeyi doğrudan iklim ölçer gibi kullanmak
+yerine, o göstergenin iklim dışındaki olası nedenleri de elenmelidir.[^k1]
+
+İkinci adım ölçek eşleştirmesidir. Yıllık bir kronik kaydı, yüzyıllara yayılan
+polen dizisiyle aynı çözünürlükte değildir. Yerel bir kuraklık kaydı da bütün bir
+kıtanın eş zamanlı olarak kuruduğunu kanıtlamaz. Bu nedenle tarih, coğrafya ve
+ölçüm aralığı her iddianın yanında görünür tutulur. Nüfus serileri sonuç hakkında
+ipucu verebilir; yine de nüfus değişiminin savaş, salgın, göç ve idari sayım gibi
+başka nedenleri bulunduğundan tek başına iklim göstergesi sayılamaz.[^k1][^k2]
+
+## Etki, tepki ve uyum birbirinden ayrılır
+
+İklimsel bir baskı ile toplumsal sonuç arasında otomatik bir bağ yoktur. Benzer
+yağış azalması, sulama altyapısı olan bir bölgede ürün deseninin değişmesine,
+başka bir bölgede göçe, üçüncü bir yerde ise siyasal çatışmaya yol açabilir.
+Aradaki farkı depolama kapasitesi, ticaret ağları, mülkiyet düzeni ve karar alma
+kurumları yaratır. Böylece “iklim bir devleti çökertti” cümlesi, ancak baskının
+zamanı, aktarım mekanizması ve kurumların verdiği tepki ayrı ayrı gösterildiğinde
+tarihsel bir açıklamaya dönüşür.
+
+Okur için en güvenli sıra şudur: önce çevresel değişimi gösteren kanıtı, sonra
+toplum üzerindeki maddi baskıyı, en son da insanların bu baskıya verdiği farklı
+yanıtları izlemek. [İklim ve çöküş](/tartisma/iklim-ve-cokus/) tartışması bu
+nedensellik zincirini sınar; [Tunç Çağı çöküşü](/olay/tunc-cagi-cokusu/) ise aynı
+yöntemin somut bir olayda neden tek nedenli anlatıya direnmesi gerektiğini
+gösterir. Kavramın değeri, iklimi her şeyin nedeni yapmakta değil, çevre ile
+kurumlar arasındaki bağlantıyı kanıt ölçeklerini karıştırmadan kurmaktadır.[^k1]
+
+Belirsizlik açıkça taşınmalıdır. Ağaç halkası veya polen dizisi sıcaklığı doğrudan
+termometre gibi vermez; kalibrasyon ve tarihleme aralığı içerir. Farklı yeniden
+kurmalar uyuşmadığında tek bir kesin çizgi seçmek yerine ortak yön, ayrışan dönem
+ve hata payı birlikte gösterilmelidir.
+
+Kesinlik derecesi, açıklamanın bir kusuru değil kanıtın dürüstçe taşınan parçasıdır.
+
+Yeni veri geldikçe sonuç değişebilir.

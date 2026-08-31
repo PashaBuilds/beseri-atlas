@@ -63,7 +63,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Şubat 1840'ta, bir yerleşimin kıyısında, Britanya Kraliyeti adına hareket
@@ -73,9 +72,6 @@ toplandı.
 
 Belgenin iki metni vardır.[^k1] Biri İngilizce, biri yerel dildedir ve
 ikisi aynı şeyi söylemez.
-
-Bu inceleme olayın kendisini değil, iki metinli olmanın ne anlama geldiğini
-kaydeder.[^k2] Korpus için asıl konu buradadır.
 
 ## İki metin
 
@@ -122,9 +118,7 @@ Bir okumaya göre sorun teknik bir çeviri güçlüğüdür.[^k1] Devredilen
 yetkiyi tam karşılayan bir yerel terim yoktu ve en yakın karşılık
 seçildi.
 
-Başka bir okumaya göre seçim, imzayı kolaylaştıracak yönde
-yapılmıştır.[^k3] Korpus iki okuma arasında bir sonuca bağlanmaz; ikisinin
-de aynı belgeye dayandığını kaydeder.
+Başka bir okumaya göre seçim, imzayı kolaylaştıracak yönde yapılmıştır.[^k3]
 
 ## Terimin geçmişi
 
@@ -157,8 +151,7 @@ hangi metninin okunduğuna bağlı olabilir.**[^k1]
 İfade bir yorum değildir.[^k2] İki metin de özgün, ikisi de imzalanmış ve
 ikisi de aynı belgenin parçası sayılmaktadır.
 
-Kural korpusun bütün antlaşma dosyalarına uygulanır.[^k1] Çok dilli bir
-belgeye atıf yapılırken hangi dildeki metnin kastedildiği yazılmalıdır.
+Çok dilli bir belgeye atıf yapılırken hangi dildeki metnin kastedildiği yazılmalıdır.
 
 ## Sonraki on yıllar
 
@@ -185,11 +178,7 @@ edildiği andır.[^k3] Öncesinde sorun vardı ama muhatabı yoktu.
 Kurulun kararları bağlayıcı değildir.[^k3] Bu, kurulun konumunu anlamak
 için gerekli bir ayrıntıdır.
 
-## Kurulun korpus için konumu
-
-Kurul bir taraftır ve korpus onu tarafsız bir kaynak saymaz.[^k3] Künyede
-yer alması, bir olguyu değil bir kurumsal değerlendirmeyi aktarmak
-içindir.
+Künyede yer alması, bir olguyu değil bir kurumsal değerlendirmeyi aktarmak içindir.
 
 Aynı kural bütün resmî kurullar için geçerlidir.[^k2] Bir kurumun kendi
 yetki alanı hakkındaki değerlendirmesi, o kurum hakkında da bilgi
@@ -213,9 +202,7 @@ hangi sonuca götürdüğünü kaydeder.[^k2]
 
 ## Künyelenen metnin özelliği
 
-Bu incelemenin birinci künyesi, iki metni birlikte basan bir eke
-dayanır.[^k1] Ek, imza töreninde bulunmuş bir matbaacının kitabındandır
-ve iki metni yan yana verir.
+Ek, imza töreninde bulunmuş bir matbaacının kitabındandır ve iki metni yan yana verir.
 
 Seçim bilinçlidir.[^k2] Yalnızca İngilizce metni veren bir kaynak, bu
 dosyanın konusunu görünmez kılardı.
@@ -226,9 +213,8 @@ metinle sınırlı olduğu, dosyanın konusuyla doğrudan ilgilidir.
 
 ## Erişimin ürettiği varsayılan okuma
 
-Bir belgenin hangi metninin daha kolay bulunduğu, hangi metnin
-okunacağını da belirler.[^k2] Bu inceleme yazılırken yapılan arama, önce
-yalnızca İngilizce metni verdi.
+Bir belgenin hangi metninin daha kolay bulunduğu, hangi metnin okunacağını da
+belirler.[^k2]
 
 Yerel dildeki metne ulaşmak, bir görgü tanığının kitabının ekine inmeyi
 gerektirdi.[^k1] Erişim farkı, iki metnin ağırlığını da farklılaştırır.
@@ -250,15 +236,13 @@ işlenir.
 
 ## Okyanusya kaydı bakımından
 
-Bu inceleme, atlasın Okyanusya katmanındaki ilk olay dosyasıdır.[^k4]
 Katman uzun süre yalnızca aktör ve kavram dosyalarından oluşuyordu.
 
 Boşluğun nedeni ilgisizlik değil kaynak erişimiydi.[^k2] Bölgenin resmî
 kurum siteleri otomatik erişime kapalıdır ve künyelenemez.
 
-Bu inceleme boşluğu, erişilebilir bir metin transkripsiyonu bulunarak
-kapattı.[^k1] Yöntem not edilmiştir: kapalı bir kurum sitesi yerine, aynı
-metnin açık transkripsiyonu aranır.
+Yöntem not edilmiştir: kapalı bir kurum sitesi yerine, aynı metnin açık transkripsiyonu
+aranır.
 
 ## İmzanın ne anlama geldiği sorusu
 
@@ -284,10 +268,7 @@ Bu ayrıntı dosyanın konusunu doğrudan etkiler.[^k2] "Antlaşma"
 denildiğinde tek bir fiziksel nesne kastedilemez ve atıf yapılırken
 nüsha belirtilmelidir.
 
-Nüshaların bir bölümü sonraki yüzyılda hasar gördü.[^k4] Bugün okunan
-metinler, hasarlı asıllardan değil önceki transkripsiyonlardan gelir ve
-bu zincir atıfta belirtilmelidir; korpusun künyesi de bir
-transkripsiyondur, asıl nüsha değildir.
+Nüshaların bir bölümü sonraki yüzyılda hasar gördü.[^k4]
 
 ## Kapsam dışı
 
@@ -295,12 +276,8 @@ transkripsiyondur, asıl nüsha değildir.
 yerlerde toplanan imzaların koşulları ayrı bir çalışma gerektirir.
 
 Sonraki yüzyılın toprak davaları ve savaşları da kapsam dışıdır.[^k3]
-Ayrı dosyalar gerektirirler ve bu inceleme yazıldığında korpusta
-bulunmuyorlardı.
 
-Belgenin bugünkü hukuki konumu tartışılmaz.[^k3] Korpus güncel hukuki
-durumlar hakkında hüküm vermez ve yürürlükteki davalara ilişkin bir
-değerlendirme yapmaz; dosya yalnızca belgenin tarihsel kaydını tutar.
+Belgenin bugünkü hukuki konumu tartışılmaz.[^k3]
 
 ## Kanıtın ve kapsamın sınırı
 Dosya iki metinden birini doğru saymaz.[^k1] İkisinin de var olduğunu ve
@@ -309,10 +286,36 @@ farklı şeyler söylediğini kaydeder.
 Tarafların niyetleri hakkında da bir sonuca varılmaz.[^k2] Niyet,
 belgeden doğrudan okunamayan bir şeydir.
 
-Bu konu için ayrı bir tartışma dosyası gereklidir.[^k3] Bu inceleme
-yazıldığında korpusta bulunmuyordu ve eksik kaynak defterine yazılmıştır.
+Bu konu için ayrı bir tartışma dosyası gereklidir.[^k3]
+
+## Antlaşma yalnız 1840 anındaki niyet değildir
+
+Bir antlaşmanın anlamı imza anındaki sözcüklerden, tarafların sözlü açıklamalarından,
+sonraki uygulamadan ve bugün geliştirilen hukuk ilkelerinden oluşan katmanlı bir
+ilişkidir. İngilizce “egemenlik” ile Māori metnindeki *kawanatanga* aynı siyasi
+yetkiyi taşımıyorsa yalnız sözlük karşılaştırması yetmez; imzacılara ne anlatıldığı
+ve onların hangi yönetim deneyimine sahip olduğu da araştırılmalıdır.[^k1][^k4]
+
+İkinci maddedeki *tino rangatiratanga*, toplulukların kendi varlıkları ve işleri
+üzerindeki üstün yetkisini güçlü biçimde ifade ederken Kraliyetin toprak alım
+tekeli başka bir denetim kurdu. Bu iki vaat, sonraki arazi satışları, savaşlar ve
+yasalar içinde aynı ağırlıkla uygulanmadı. Metin farkının siyasi sonucu tam da
+kurumsal güç eşitsizliği içinde ortaya çıktı.[^k4]
+
+Waitangi Mahkemesinin kurulması geçmişi tek seferde çözen bir hüküm değil,
+iddiaları belge, sözlü tarih ve dil bağlamıyla yeniden inceleyen süreç yarattı.[^k3]
+“Antlaşma ilkeleri”nin gelişmesi, yaşayan hukuki ilişkinin değişen koşullarda nasıl
+yorumlandığını gösterir. Bugünkü uzlaşma, 1840'ta herkesin aynı şeyi anladığını
+varsaymaya değil; anlaşmazlığı, kaybı ve süreklilik gösteren Māori otoritesini
+açıkça değerlendirmeye dayanmalıdır.
+
+İmzalamayan toplulukların konumu da “Māori tarafı”nı tek irade saymayı engeller.
+Farklı *iwi* ve önderler metne başka bilgi, çıkar ve güç koşullarında yaklaştı;
+imza sayısı toplu ve sınırsız rızanın yerine geçmez. Yetkinin kapsamı imzacı ve
+bölge düzeyinde de araştırılmalıdır.[^k4]
 
 ## Okumayı sürdürmek için
+
 Antlaşmanın bir tarafını oluşturan topluluklar için
 [Maori](/aktor/maori/), öteki tarafı için
 [Britanya İmparatorluğu](/aktor/britanya-imparatorlugu/) dosyaları

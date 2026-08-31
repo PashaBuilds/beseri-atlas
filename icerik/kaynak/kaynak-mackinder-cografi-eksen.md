@@ -60,7 +60,6 @@ son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak, yazarın 1904'te Kraliyet Coğrafya Cemiyeti'nde bir bildiri sunduğunu ve
@@ -73,18 +72,10 @@ ticareti desteklemediğini, Liberal Parti'den ayrıldığını, korumacılığı
 savunduğunu ve Muhafazakâr Parti üyesi olduğunu yazar; kuramı 1904'te formüle
 ettiğini kaydeder.[^k1]
 
-İki tarihin bir yıl arayla kaydedilmesi,[^k1] korpusun şu kuralının dayanağıdır:
-bu incelemede bildiriye atfedilen önermeler, yazıldığı siyasi bağlam belirtilerek
-aktarılır. Korpus iki kayıt arasında bir neden bağı kurmaz; kaynakta böyle bir bağ
-belirtilmemiştir.[^k1]
-
 ## Önem nitelemesi koşulludur
 
 Kaynak, bildirinin sıklıkla alanının kurucu metinlerinden biri, hatta kurucu
 metni sayıldığını yazar; ifade bir düzeltme kaydıyla verilmiştir.[^k1]
-
-Bir ansiklopedinin kendi üstünlük ifadesini cümle içinde düzeltmesi,[^k1] korpusun
-bu tür ifadeleri neden koşullarıyla birlikte taşıdığının dayanağıdır.
 
 ## Karşıt tez aynı on yıllardadır
 
@@ -99,13 +90,7 @@ bir açıklamasını kurduğunu yazar.[^k3] O yazar
 [Montesquieu](/dusunur/montesquieu/) dosyasında, bildirinin yazarı ise
 [Halford Mackinder](/dusunur/mackinder/) dosyasında ele alınıyor.
 
-## Okumayı sürdürmek için
-Bu inceleme bildirinin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
-ansiklopedi maddesidir.[^k1] Bildiri kamu malıdır; hangi baskının kullanıldığı
-her aktarımda belirtilmelidir.
-
 ## Metne bağ
 
-Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
-atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
-çevirinin kullanıldığı her aktarımda belirtilmelidir.
+Eserin tam metin kaydı erişilebilir durumdadır; her atıf bölüm ya da paragraf
+numarasıyla verilmeli, kullanılan baskı ve çeviri belirtilmelidir.[^k4]

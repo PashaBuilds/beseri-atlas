@@ -52,7 +52,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Komançe, on sekizinci yüzyıl başından on dokuzuncu yüzyıl sonuna kadar
@@ -64,8 +63,7 @@ Gruplar ortak dil ve akrabalık bağları taşıyordu; ortak bir karar organı
 ya da tek bir başkent taşımıyordu ve bu, dosyanın bütün gözlemlerini
 etkiler.
 
-Bu incelemenin asıl konusu at ve ticarettir.[^k3] Atın bölgeye girişi bir
-askerî değişimden çok bir ekonomik dönüşüm üretti.
+Atın bölgeye girişi bir askerî değişimden çok bir ekonomik dönüşüm üretti.
 
 ## Atın gelişi
 
@@ -95,8 +93,7 @@ dönüşür; askerî kapasite bu zeminden doğar, onu üretmez.
 ekonomik etkisinin türevidir; sıralamayı tersine çevirmek, mekanizmayı
 görünmez kılar.**
 
-İfade korpusun öteki dosyalarında da sınanabilir.[^k3] Ateşli silah,
-gemi ve demir için aynı soru sorulabilir.
+Ateşli silah, gemi ve demir için aynı soru sorulabilir.
 
 Genelleştirme için başka örneklerde
 ayrıca sınanmalıdır.[^k2]
@@ -122,9 +119,7 @@ akıyordu.
 Ağ, birden çok devletin sınırlarını kesiyordu.[^k2] Aynı gruplar farklı
 devletlerin tüccarlarıyla eşzamanlı iş yapıyordu.
 
-Bu, korpusun Adva dosyasında ölçtüğü mekanizmanın bir başka
-biçimidir.[^k3] Birden çok tedarikçinin bulunması, alıcının pazarlık
-gücünü artırır.
+Birden çok tedarikçinin bulunması, alıcının pazarlık gücünü artırır.
 
 ## Esir ticareti
 
@@ -146,9 +141,8 @@ bağlamıyordu.
 Sömürge ve sonraki yönetimler bunu bir tutarsızlık olarak
 kaydetti.[^k2] Antlaşmaların ihlal edildiği bildirildi.
 
-Bu, korpusun Samoa dosyasında ölçtüğü uyumsuzluğun aynısıdır.[^k3] Dış
-tanıma, tanınacak tarafın tek bir muhatap üretmesini gerektirir; bu
-biçimi taşımayan düzenler tutarsız olarak kaydedilir.
+Dış tanıma, tanınacak tarafın tek bir muhatap üretmesini gerektirir; bu biçimi taşımayan
+düzenler tutarsız olarak kaydedilir.
 
 ## Mapuçe ile karşılaştırma
 
@@ -172,9 +166,7 @@ Bu ortaklık ayrıca kaydedilmelidir.[^k3] Merkezsiz örgütlenmenin
 avantajı, karşı tarafın lojistik ve haberleşme kapasitesi belirli bir
 eşiği geçene kadar sürüyor.
 
-Eşik, ikisinde de aynı onyıllara denk gelir.[^k2] Korpus bunu bir
-rastlantı saymaz ama nedensellik de iddia etmez; iki örnek bir eğilim
-gösterir, kural kurmaz.
+Eşik, ikisinde de aynı onyıllara denk gelir.[^k2]
 
 ## Üç devletin sınırında
 
@@ -182,9 +174,8 @@ Gruplar, üç ayrı devletin genişleme yönünün kesiştiği bölgedeydi.[^k2]
 Güneyde bir Avrupa imparatorluğu ve onun ardılı, doğuda genişleyen bir
 başka devlet bulunuyordu.
 
-Bu konum, korpusun Karluklar dosyasında ölçtüğü yapının aynısıdır.[^k3]
-Sınır bölgelerindeki birimler, güçlerinden bağımsız olarak pazarlık
-kapasitesi kazanır ve kapasite komşu sayısından gelir.
+Sınır bölgelerindeki birimler, güçlerinden bağımsız olarak pazarlık kapasitesi kazanır
+ve kapasite komşu sayısından gelir.
 
 Fark, buradaki komşuların birbirine düşman olmasıdır.[^k1] Üç taraf da
 karşılıklı olarak rakipti ve her biri gruplarla ayrı ayrı anlaşma
@@ -243,9 +234,7 @@ mekanizmaya dayanıyorsa, mekanizma daha güçlü bir adaydır.[^k2]
 süren bir kuraklık yaşandı ve dışarıdan gelen hastalıklar nüfusu
 azalttı.
 
-Hastalık etkisi, korpusun Amerika dosyalarında tekrar eden bir
-kısıttır.[^k2] Bağışıklık bulunmaması, temas eden bütün topluluklar için
-geçerliydi.
+Bağışıklık bulunmaması, temas eden bütün topluluklar için geçerliydi.
 
 Dört etken — bizonun yok edilmesi,
 kuraklık, hastalık ve askerî baskı — aynı onyıllarda işledi.[^k3]
@@ -259,9 +248,8 @@ Karşı tarafın kayıtları askerî ve idari amaçlıdır.[^k2] Baskınlar,
 antlaşmalar ve nüfus tahminleri ayrıntılı; iç yapı ve karar süreçleri
 yok denecek kadar azdır.
 
-Bu, korpusun Hazarlar dosyasında formüle edilen kısıtın aynısıdır.[^k3]
-Yalnızca dışarıdan yazılmış bir düzen hakkında bilinenler, o düzenin
-özelliği değil gözlemcilerin ilgisinin haritasıdır.
+Yalnızca dışarıdan yazılmış bir düzen hakkında bilinenler, o düzenin özelliği değil
+gözlemcilerin ilgisinin haritasıdır.
 
 ## Nüfus tahminleri
 
@@ -272,17 +260,13 @@ gözlemci izlenimlerine dayanır.
 İki kaynak da eksiktir.[^k2] Sayımlar yalnızca temas edilen grupları
 kapsar; izlenimler yöntem belirtmez.
 
-Sayı vermek yerine yöntemin ne
-olduğunu yazar; bu, korpusun nüfus dosyasında tanımlanan genel kuraldır.[^k3]
-
 ## Adın kapsamı
 
 Kaynaklarda geçen ad, tek bir topluluğu değil birden çok grubu
 karşılar.[^k1] Grupların kendilerini nasıl adlandırdığı, dışarıdan
 verilen adla aynı değildir.
 
-Bu, korpusun bozkır dosyalarında tekrar eden bir sorundur.[^k3] Bir ad,
-etnik değil siyasi ya da coğrafi bir birimi gösterebilir.
+Bir ad, etnik değil siyasi ya da coğrafi bir birimi gösterebilir.
 
 Bir adın kaynaklardan çekilmesi, o adla
 anılanların yok olduğunu göstermez.[^k2]
@@ -316,3 +300,27 @@ Karşı taraflar için
 Kanıt türlerinin hangi soruya cevap verdiği için
 [Kanıt türü](/kavram/kanit-turu/) ve
 [Sözlü tarih](/kavram/sozlu-tarih/) dosyaları okunmalıdır.[^k1]
+
+## Atlı ekonomi ve merkezsiz siyasal güç
+
+Atın yaygınlaşması Komançilerin yalnız savaş hızını değil avlanma, taşıma,
+ticaret ve yerleşim düzenini değiştirdi.[^k1] Bizon ekonomisi geniş hareket alanı
+sağlarken at sürüleri servet ve değişim aracı oldu. Silah, esir, hayvan ve ticari
+mal akışı İspanyol, Meksika, ABD ve başka yerli toplumlarla karşılıklı bağımlılık
+kurdu.
+
+Bu güç tek bir başkent ve sürekli merkezî hükümet üzerinden işlemedi. Yerel
+gruplar farklı liderler ve anlaşmalarla hareket edebildiği için bir antlaşmayı
+bütün Komançilere bağlayıcı saymak yanıltıcı olabilir.[^k2][^k3] Merkezsizlik
+zayıflık değildi; rakip devletlerin tek bir iktidar noktasını ele geçirerek alanı
+denetlemesini zorlaştırdı. Buna karşılık salgın, bizon kaybı, yerleşimci yayılması
+ve eş zamanlı askerî baskı, hareketli ekonominin temelini birlikte aşındırdı.
+
+Bu nedenler birbirine bağlıydı: bizonun yok edilmesi hareket ve beslenmeyi,
+yerleşimci yolları av alanını, askerî baskı ise yeni ticaret seçeneklerini daralttı.
+
+Tek neden yerine bu eş zamanlı kapanma açıklanmalıdır.
+
+Dayanıklılık ve yenilgi aynı ekonomik ağın farklı evreleridir.
+
+Zamanlama belirleyicidir.

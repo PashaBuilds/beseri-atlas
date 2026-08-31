@@ -704,11 +704,43 @@
       ],
       "guven": "yuksek",
       "inceleme": "k1: 'Weighed down by smuggling, corruption and growing administrative costs in the late 18th century, the company went bankrupt and was formally dissolved in 1799. Its possessions and debt were taken over by the government of the Dutch Batavian Republic.'"
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "Bu yetkiyi kullananlar seçilmiş bir meclise değil hissedarlara hesap veriyordu ve yetkinin sonuna kadar kullanıldığı yer bellidir: 1621'de Banda adaları.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 şirketin yetki ve hesap verme yapısını, k7 Banda'daki 1621 şiddetini taşır; ikisini yetkinin sınırı olarak birleştiren hüküm yazar sentezidir."
+    },
+    {
+      "iddia_id": "ek002",
+      "cumle": "O olayın en ayrıntılı kaydını tutan da kurbanların bir tanığı değil, emri veren genel valinin kendisidir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3'ün yazarı ve anlatı konumu, olay emrini veren genel valiyle aynıdır; cümle kaynak kökenini açık eder."
     }
   ],
   "sayaclar": {
-    "dogrudan": 49,
-    "kismi": 1,
+    "dogrudan": 50,
+    "kismi": 2,
     "desteksiz": 0,
     "olculemez": 0
   },

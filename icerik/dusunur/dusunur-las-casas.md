@@ -51,7 +51,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Kim
 
 Las Casas, on altıncı yüzyılda Amerika kıtasına giden ve orada uzun
@@ -61,8 +60,7 @@ değildi.
 Yerleşimci olarak gitti ve kendisine toprak ve emek tahsisi
 yapıldı.[^k2] Yıllar sonra bu tahsisi bıraktı ve rahip oldu.
 
-Bu inceleme bir aziz portresi değildir.[^k3] Bir eleştirinin nereden
-geldiğinin ve nasıl kullanıldığının kaydıdır.
+Bir eleştirinin nereden geldiğinin ve nasıl kullanıldığının kaydıdır.
 
 ## İçeriden eleştiri
 
@@ -95,9 +93,6 @@ sonraki dönemlerde de tartışıldı.
 Sayıların bir bölümü tahmindir ve yöntemi verilmez.[^k1] Bir bölümü ise
 dönemin anlatı geleneğine uygun biçimde çokluğu belirtir, sayımı
 değil.
-
-Bu, korpusun tarihsel sayılar
-kuralının doğrudan uygulanmasıdır.[^k3]
 
 ## Sayıları reddetmek metni reddetmek değildir
 
@@ -142,10 +137,6 @@ bir yasa çıkarıldı.
 Yasa yerleşimcilerin direnişiyle karşılaştı.[^k3] Kısa sürede en
 sınırlayıcı maddeleri geri alındı.
 
-Bu, korpusun belge tartışmasında kurulan
-ölçütün bir örneğidir: bir metnin kabul edilmesi ile yürürlükte kalması ayrı iki
-veridir.[^k2]
-
 ## Kendi konumunu değiştirmesi
 
 Erken dönemde bir öneride bulundu.[^k1] Yerli nüfusun yükünü azaltmak
@@ -159,12 +150,10 @@ yazması, sonraki okurun hangi dönemin metnine baktığını bilmesini sağlar.
 
 ## Sürüm sorunu kişilere de uygulanır
 
-Bu, korpusun tekrar eden bir kuralıdır.[^k1] Bir düşünüre atıf
-yapılırken hangi dönemin metninin kastedildiği belirtilmelidir.
+Bir düşünüre atıf yapılırken hangi dönemin metninin kastedildiği belirtilmelidir.
 
-Aynı kural bu incelemede iki yönlü işler.[^k3] Erken öneriyi anmadan
-yapılan bir savunu da, sonraki dönüşü anmadan yapılan bir eleştiri de
-eksiktir.
+Erken öneriyi anmadan yapılan bir savunu da, sonraki dönüşü anmadan yapılan bir eleştiri
+de eksiktir.
 
 Eksik alıntı, yanlış alıntının bir
 biçimidir.[^k2]
@@ -300,12 +289,32 @@ o düzenin ürettiği kategorileri devralabilir.[^k3]
 Metin, adına konuştuğu halkların kendi sesini taşımaz.[^k1] Tanıklık
 onların değil, onları gözleyen birinindir.
 
-Bu, metnin değerini düşürmez ama konumunu belirler.[^k3] Aynı dönemde
-tabi kılınan tarafın kendi kaleminden yazılmış kayıtlar da vardır ve
-korpus onları ayrıca künyeler.
+Bu, metnin değerini düşürmez ama konumunu belirler.[^k3]
 
-Adına konuşmak ile konuşmak
-arasındaki fark, korpusta tekrar eden bir ölçümdür.[^k2]
+## Tanıklık, savunuculuk ve abartı
+
+Las Casas aynı anda hem tanık hem savunucuydu.[^k1] Gördüğü ve başkalarından
+dinlediği şiddeti kayda geçirirken yalnız gelecek kuşakları bilgilendirmeyi
+değil, hükümdarı acil müdahaleye ikna etmeyi amaçladı. Bu amaç metnin kısa,
+yoğun ve sarsıcı üslubunu açıklar. Okur bu nedenle iki soruyu ayırmalıdır:
+anlatılan uygulamalar başka kayıtlarla doğrulanabiliyor mu ve verilen toplam
+sayılar nasıl hesaplandı? İlk soruya güçlü kanıt bulunması, ikinci soruyu
+kendiliğinden çözmez.[^k2]
+
+Eleştirinin imparatorluğun kendi hukuk ve din diliyle kurulması da önemlidir.[^k3]
+Las Casas, tabi kılınan halkların akıl ve yönetme yeteneğine sahip olduğunu
+savunarak fetih gerekçesini içeriden zayıflatmaya çalıştı. Böylece sömürgeci
+genişlemenin yalnız rakip devletlerden değil, onu taşıyan kurumların içinden de
+itiraz üretebildiğini gösterdi. Ancak hükümdara yönelen bu savunuculuk,
+yerlilerin kendi sözünün yerini tutmaz; onların talepleri bir aracının seçtiği
+örnekler ve kavramlar içinden görünür olur.
+
+Metnin daha sonra İspanya'nın rakiplerince kullanılması üçüncü bir katmandır.[^k2]
+Propaganda amacı, belgelenmiş şiddeti hayal ürünü yapmaz; fakat hangi
+bölümlerin seçildiğini ve rakip sömürge pratiklerinin neden görünmez
+bırakıldığını açıklar. Sağlam bir okuma, ne "kara efsane" diyerek tanıklığı
+tümüyle atar ne de savunucunun bütün sayılarını nüfus sayımı gibi kabul eder.
+Metni iddialara ayırır, her iddiayı bağımsız dayanak ve türüne göre tartar.
 
 ## Kanıtın ve kapsamın sınırı
 Dosya, yazarın bütün eserlerini değerlendirmez.[^k1] Uzun tarih

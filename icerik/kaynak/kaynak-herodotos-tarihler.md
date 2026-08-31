@@ -54,7 +54,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak eseri *Tarihler* adıyla anar ve Yunan-Pers Savaşları'nın ayrıntılı bir
@@ -63,7 +62,7 @@ yükselişini sayar.[^k1]
 
 ## Eserin statüsü aynı maddede iki yönlüdür
 
-::tartismali[Kaynak hem yazarın çağdaşı tarafından hikâye uydurmakla suçlandığını hem eserin hatırı sayılır bir bölümünün sonradan doğrulandığını yazıyor. Korpus iki kaydı da taşır ve hangisinin ağır bastığını söylemez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Kaynak hem yazarın çağdaşı tarafından hikâye uydurmakla suçlandığını hem eserin hatırı sayılır bir bölümünün sonradan doğrulandığını yazıyor.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Kaynak, yazarın kendi zamanında eserine efsaneler ve hayalî anlatılar kattığı
 için eleştirildiğini ve Peloponez Savaşı'nı yazan çağdaşının onu eğlence olsun
@@ -78,11 +77,6 @@ haritasında ele alınıyor.
 Kaynak, yazarın bu suçlamaya gördüğünü ve kendisine anlatılanı bildirdiğini
 söyleyerek karşılık verdiğini yazar.[^k1]
 
-İki kanıt türünün — taniklik ve aktarım — bir yöntem beyanı içinde ayrılması,
-[^k1] korpusun kaynak eleştirisi dosyasında kaydettiği ayrımın en eski
-örneklerinden biridir; o dosya
-[Kaynak eleştirisi](/kavram/kaynak-elestirisi/) dosyasıdır.
-
 ## Yöntem bakımından karşılaştırılan eser
 
 Kaynak, yazarın kronoloji yönteminin bir başka eserinkinden keskin biçimde
@@ -96,11 +90,3 @@ dosyasında ele alınıyor.
 
 Yüz yıl önce yazılmış bir başka ansiklopedi maddesi, yazarı tarihin babası diye
 anılan Yunan tarihçi olarak tanıtır ve Halikarnassos'ta doğduğunu yazar.[^k2]
-
-Korpus bu unvanı benimsemez, kaydeder; yazar
-[Herodotos](/dusunur/herodotos/) dosyasında ele alınıyor.
-
-## Okumayı sürdürmek için
-Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki ansiklopedi
-maddeleridir.[^k1][^k2] Eser kamu malıdır; hangi çevirinin ve hangi baskının
-kullanıldığı her aktarımda belirtilmelidir.

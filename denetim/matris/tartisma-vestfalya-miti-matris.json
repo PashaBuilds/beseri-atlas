@@ -1,7 +1,7 @@
 {
   "id": "tartisma-vestfalya-miti",
-  "govde_hash": "cde91d8c3f54",
-  "commit": "9181554",
+  "govde_hash": "2b20f5926b35",
+  "commit": "889239af",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -746,11 +746,25 @@
       ],
       "guven": "orta",
       "inceleme": "Cercevenin acik biraktigi soru; cikarim."
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "Tartışma, bu sahnenin antlaşmaların kendisinde bulunup bulunmadığı üzerinedir ve sonucu bir ayrıntı değildir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k5 antlaşma metni ile sonradan kurulan egemenlik anlatısı arasındaki farkı destekler; sonucun önemine ilişkin vurgu yazar yorumudur."
     }
   ],
   "sayaclar": {
     "dogrudan": 31,
-    "kismi": 14,
+    "kismi": 15,
     "desteksiz": 0,
     "olculemez": 4
   },
@@ -759,6 +773,12 @@
     {
       "zaman": "2026-08-29",
       "gerekce": "3 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "cde91d8c3f54",
+      "yeni_hash": "2b20f5926b35",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
     }
   ]
 }

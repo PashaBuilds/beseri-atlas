@@ -820,10 +820,24 @@
       ],
       "guven": "yuksek",
       "inceleme": "Kor hakem eklemesi: kaldirilan kaynaksiz genellemenin yerine, kanit tabaninin sinirini acikca soyleyen cumle konuldu."
+    },
+    {
+      "iddia_id": "i059",
+      "cumle": "Aynı rapor, Britanya hastanelerinin birkaç ay boyunca hastaların neredeyse üçte birini kaybettiğini, Kulali'de ise bir ay içinde tedavi edilenlerin yarısından fazlasının öldüğünü yazar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "İki hastane ölüm oranı da k3 raporunda doğrudan verilir; cümle oranları yuvarlayarak karşılaştırır."
     }
   ],
   "sayaclar": {
-    "dogrudan": 50,
+    "dogrudan": 51,
     "kismi": 6,
     "desteksiz": 0,
     "olculemez": 2

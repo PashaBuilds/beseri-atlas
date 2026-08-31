@@ -54,7 +54,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Svahili kıyısı, Doğu Afrika'nın okyanusa bakan şeridinde kurulmuş liman
@@ -77,10 +76,7 @@ ticaretinin taşıdığı sözcüklerin eklenmesiyle oluşmuştur.
 Bu karma yapı, kuşağın nasıl adlandırılacağı sorusunu doğurur.[^k4] Kıyı,
 Afrika tarihinin bir bölümü müdür yoksa okyanus ağının bir uzantısı mı?
 
-::tartismali[Kuşağın kökeni tartışmalıdır: bir görüş onu iç bölgeden kıyıya
-uzanan yerli bir gelişme sayar, öteki görüş okyanus ötesinden gelen tüccar
-yerleşimlerinin ürünü sayar. Arkeolojik bulgular ile yazılı kayıtlar bu
-soruda aynı yöne işaret etmez.]{harita=tartisma-imparatorluk-siniri-nasil-cizilir}
+::tartismali[Kuşağın kökeni tartışmalıdır: bir görüş onu iç bölgeden kıyıya uzanan yerli bir gelişme sayar, öteki görüş okyanus ötesinden gelen tüccar yerleşimlerinin ürünü sayar. Arkeolojik bulgular ile yazılı kayıtlar bu soruda aynı yöne işaret etmez.]{harita=tartisma-imparatorluk-siniri-nasil-cizilir}
 
 ## Şehirlerin çokluğu
 
@@ -106,15 +102,12 @@ Yazılı kayıtlar okyanus bağlantısını öne çıkarır; kazılar ise iç b�
 sürekli bir alışverişi gösterir.[^k4] İki kanıt türü çelişmez ama farklı
 ağırlıklar verir.
 
-Korpusun [Arkeolojik kanıt](/kavram/arkeolojik-kanit/) dosyası bu gerilimi
-genel biçimiyle ele alır. Burada somut hâli şudur: kuşağın kökeni sorusu,
-hangi kanıt türüne ağırlık verildiğine göre farklı yanıtlanır.[^k1]
+Burada somut hâli şudur: kuşağın kökeni sorusu, hangi kanıt türüne ağırlık verildiğine
+göre farklı yanıtlanır.[^k1]
 
 ## Tek tanık kaydının ağırlığı
 
-Kuşağı yerinde görmüş ve erişilebilir bir kayıt bırakmış tanık sayısı
-azdır.[^k3] Bu incelemede kullanılan tanık kaydı, kıyıdaki iki şehri ziyaret
-etmiş bir gezginin anlatısıdır.
+Kuşağı yerinde görmüş ve erişilebilir bir kayıt bırakmış tanık sayısı azdır.[^k3]
 
 Tek bir tanığa dayanmanın riski açıktır. Gezginin gördüğü şehirler kuşağın
 tamamını temsil etmeyebilir ve gördüklerini kendi ölçütleriyle
@@ -134,37 +127,36 @@ ağlarının da ucu yapar.
 İç bölgedeki siyasi düzenlerle ilişki, [Büyük Zimbabve](/aktor/buyuk-zimbabve/) incelemesiyle kesişir.[^k4] İki dosya
 birlikte okunduğunda, kıyının iç bölgesiz açıklanamayacağı görünür.
 
-Bu bağlantının ayrıntısı bilinmemektedir ve korpus bir güzergâh
-çizmez.[^k1][^k4] İç bölge ile kıyı arasındaki aracıların kim olduğu, elde
-bulunan kaynaklarla karara bağlanamaz.
-
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun Doğu Afrika kapsamındaki ilk kavram dosyasıdır.[^k1]
-Bölgenin aktör katmanında dosyalar bulunuyordu; bunları birbirine bağlayan
-bir yapı tanımı yoktu.
+İç bölge ile kıyı arasındaki aracıların kim olduğu, elde bulunan kaynaklarla karara
+bağlanamaz.
 
 Dosyanın kapsamadıkları belirtilmelidir. Tek tek şehirlerin siyasi tarihi,
 hanedanları ve birbirleriyle çatışmaları burada işlenmez;[^k2] her biri ayrı
 dosya gerektirir.
 
-Kuşağın Portekiz donanmalarıyla karşılaşması ve sonraki sömürge dönemi de
-kapsam dışıdır.[^k4] Bu inceleme kuşağın kendi işleyişini anlatır; sonunu
-değil.
+Kuşağın Portekiz donanmalarıyla karşılaşması ve sonraki sömürge dönemi de kapsam
+dışıdır.[^k4]
 
 ## Taş yapı bir kayıt biçimidir
 
-Kuşaktaki şehirlerin taş yapı geleneği, korpusun kanıt katmanı açısından ayrıca
-kaydedilmelidir.[^k1][^k4] Mercan taşından yapılmış cami, saray ve mezar
-yapıları, yazılı kaydın bulunmadığı yerde bir yerleşimin varlığını, süresini
-ve zenginlik derecesini gösterir.
+Mercan taşından yapılmış cami, saray ve mezar yapıları, yazılı kaydın bulunmadığı yerde
+bir yerleşimin varlığını, süresini ve zenginlik derecesini gösterir.
 
 Taş yapının anlattığı şey mimari değildir. Bir yerleşimin taşa geçmesi,
 sürekli bir işgücü, sürekli bir gelir ve gelecekte de orada bulunma beklentisi
 gerektirir;[^k2] geçici bir ticaret durağı taş yapı kurmaz.
 
-Bu, korpusun bölge dosyalarında tekrar eden bir ölçüttür. Bir düzenin ne kadar
-yerleşik olduğu, bıraktığı yapının cinsinden okunabilir ve bu okuma yazılı
-kayıttan bağımsız bir kanıt sağlar.[^k4]
+Bir düzenin ne kadar yerleşik olduğu, bıraktığı yapının cinsinden okunabilir ve bu okuma
+yazılı kayıttan bağımsız bir kanıt sağlar.[^k4]
+
+## Kıyıyı tek kimliğe indirgememek
+
+Svahili kıyısı, aynı dili konuşan değişmez bir halkın kesintisiz ülkesi olarak değil,
+Afrika iç bölgeleriyle Hint Okyanusu ağlarının buluştuğu kentler dizisi olarak
+okunmalıdır.[^k1] İslam, deniz ticareti ve taş mimari ortaklık üretirken limanların
+siyasal bağlılığı ve ticari ağırlığı değişti. Dış bağlantıların gücü yerel Afrika
+köklerini ortadan kaldırmaz; arkeolojik, dilsel ve yazılı kanıt birlikte
+değerlendirilmelidir.[^k2]
 
 ## Okumayı sürdürmek için
 Kuşağın en çok kaydedilen şehri için [Kilva](/aktor/kilva/), bağlı olduğu

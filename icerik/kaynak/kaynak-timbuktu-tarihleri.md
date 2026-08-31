@@ -68,12 +68,9 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
-Bu inceleme, Nijer kıvrımındaki bir şehirde ve o şehrin âlim çevresinde yazılmış
-iki tarih kitabını birlikte künyeler.[^k1][^k2] İkisi de bölgenin kendi
-kalemiyle tutulmuş kaydıdır.
+İkisi de bölgenin kendi kalemiyle tutulmuş kaydıdır.
 
 Anlatı hanedan sırasıyla ilerler. Bölgede birbirini izleyen siyasi birimlerin
 kuruluşu, genişlemesi ve bir dış seferle dağılışı anlatılır;[^k2][^k4] son
@@ -82,8 +79,6 @@ bölümler yazarların kendi dönemine gelir.
 Kayıt yalnızca yöneticileri saymaz. Kadılar, hocalar, kitap sahipleri ve
 öğrenci silsileleri de ayrı ayrı yazılır;[^k1][^k3] bu, kaydın saraydan
 değil ilim çevresinden geldiğini gösterir.
-
-## Neden bu inceleme önemli
 
 Batı Afrika'nın bu dönemi hakkında yaygın olarak bilinenler, büyük ölçüde
 dışarıdan gelen gezgin anlatılarına dayanır.[^k3] Bu anlatılar değerlidir ama
@@ -103,10 +98,7 @@ vardı, bir ses olarak yoktu.[^k3]
 kendisinde kaydedilmesi gereken bir sorundur.[^k1][^k2] Kütüphane
 kataloglarında bir kitabın adı ötekinin yazarıyla eşleşebilmektedir.
 
-::tartismali[İki metnin birbirinden ne kadar bağımsız olduğu, hangi
-bölümlerin sonradan eklendiği ve ikinci kitabın bugünkü biçiminin ne zaman
-oluştuğu tartışmalıdır; künyedeki tarih birinci kitabın tamamlanışını
-yansıtır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[İki metnin birbirinden ne kadar bağımsız olduğu, hangi bölümlerin sonradan eklendiği ve ikinci kitabın bugünkü biçiminin ne zaman oluştuğu tartışmalıdır; künyedeki tarih birinci kitabın tamamlanışını yansıtır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Başlığı düzeltmek,
 karışıklığı çözmek değil gizlemek olurdu; okur iki kaydı görüp farkı kendisi
@@ -117,24 +109,19 @@ değerlendirebilmelidir.[^k1][^k2]
 Metinler ordu mevcutları, gelir kalemleri ve nüfus büyüklükleri
 verir.[^k2] Bu sayılar bölgenin siyasi tarihi için sıkça alıntılanır.
 
-Korpus bu sayıları olduğu gibi aktarmaz. Dönemin tarih yazımında büyüklük
-bildiren rakamlar çoğu zaman ölçüm değil derece belirtir;[^k4] bir sayının
-büyüklüğü, sayının kendisinden çok yazarın verdiği önemi gösterir.
+Dönemin tarih yazımında büyüklük bildiren rakamlar çoğu zaman ölçüm değil derece
+belirtir;[^k4] bir sayının büyüklüğü, sayının kendisinden çok yazarın verdiği önemi
+gösterir.
 
-Bu tutum korpusun genel kuralıdır ve ayrı bir dosyada gerekçelendirilir.[^k3]
-Metinlerden sayı aktaracak okur,
-[Tarihsel sayılar nasıl okunur](/tartisma/tarihsel-sayilar-nasil-okunur/)
-dosyasını önce okumalıdır.
+Metinlerden sayı aktaracak okur, [Tarihsel sayılar nasıl
+okunur](/tartisma/tarihsel-sayilar-nasil-okunur/) dosyasını önce okumalıdır.
 
 ## Kapsam dışı
 
-Bu inceleme iki kitabın ne olduğunu ve korpusta ne işe yaradığını kaydeder;
-bölüm bölüm içeriklerini vermez.[^k1][^k2] Metinler kaynaklarda erişilebilir
-durumdadır.
+Metinler kaynaklarda erişilebilir durumdadır.
 
-Şehrin elyazması koleksiyonlarının tarihi, yakın dönemdeki durumu ve
-korunması burada işlenmez.[^k3] Ayrı bir dosya gerektirir ve bu inceleme
-yazıldığında korpusta bulunmuyordu.
+Şehrin elyazması koleksiyonlarının tarihi, yakın dönemdeki durumu ve korunması burada
+işlenmez.[^k3]
 
 Metinlerin bölgedeki sözlü aktarım gelenekleriyle ilişkisi de kapsam
 dışıdır.[^k4] Bu ilişki, kıtanın kaynak katmanı genişledikçe kurulabilir hale

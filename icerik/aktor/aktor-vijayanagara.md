@@ -54,7 +54,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Vijayanagara, on dördüncü yüzyıl ortasında Hindistan yarımadasının
@@ -67,9 +66,8 @@ Devlet, kuzeyden gelen askerî baskının yoğunlaştığı bir dönemde
 kuruldu.[^k3] Kuruluşunun bu baskıya karşı bir tepki olup olmadığı
 tartışmalıdır ve dosya bir sonuca bağlanmaz.
 
-Bu incelemenin asıl konusu kaynak dağılımıdır.[^k2] İmparatorluk kendi
-diliyle binlerce yazıt bıraktı ama gündelik hayatı büyük ölçüde yabancı
-ziyaretçilerden bilinir.
+İmparatorluk kendi diliyle binlerce yazıt bıraktı ama gündelik hayatı büyük ölçüde
+yabancı ziyaretçilerden bilinir.
 
 ## İki kanıt türünün bölünmesi
 
@@ -114,8 +112,7 @@ Yazıtlar ile anlatılar birbirini denetleyebilir.[^k3] Bir yazıtta adı
 geçen hükümdarın, aynı yıllarda bir ziyaretçi tarafından betimlenmesi
 iki kaydı çakıştırır.
 
-Çakışma, korpusun seyrek bulduğu bir imkândır.[^k1] Çoğu dosyada tek bir
-kanıt türü vardır ve karşılaştırma yapılamaz.
+Çoğu dosyada tek bir kanıt türü vardır ve karşılaştırma yapılamaz.
 
 Burada karşılaştırma mümkündür ve yapılmalıdır.[^k2] İki tür aynı
 olguyu farklı yönlerden gösterdiğinde, çelişkileri de görünür hâle
@@ -139,13 +136,10 @@ At tedarikinin denetimi, kıyı limanlarını stratejik hâle
 getirdi.[^k2] Limanları elinde tutan taraf, iç bölgedeki devletlerin
 askerî kapasitesini etkileyebiliyordu.
 
-On altıncı yüzyılda kıyıya yerleşen Avrupa gücü bu konumu
-kullandı.[^k1] Korpus bunu bu noktayı da belirtir çünkü etki, toprak
-fethetmeden kurulmuştur.
+On altıncı yüzyılda kıyıya yerleşen Avrupa gücü bu konumu kullandı.[^k1]
 
-Mekanizma korpusun başka dosyalarında da görülür.[^k3] Bir malın
-tedarik hattını denetlemek, o malı kullanan devletler üzerinde toprak
-sahibi olmadan etki kurmanın yoludur.
+Bir malın tedarik hattını denetlemek, o malı kullanan devletler üzerinde toprak sahibi
+olmadan etki kurmanın yoludur.
 
 ## Şehrin kendisi
 
@@ -167,8 +161,7 @@ düzenlenmişti.
 Sistem, kurak bir bölgede kalabalık bir şehri mümkün kıldı.[^k2] Yapımı
 ve bakımı sürekli örgütlü emek gerektiriyordu.
 
-Bu, korpusun Hîve dosyasında ölçtüğü kısıtla aynı ailedendir.[^k3] Suya
-bağlı bir yerleşim, siyasi istikrara doğrudan bağımlıdır.
+Suya bağlı bir yerleşim, siyasi istikrara doğrudan bağımlıdır.
 
 ## Tapınak ekonomisi
 
@@ -192,9 +185,8 @@ yükümlüydü.
 Valiliklerin özerkliği zamanla arttı.[^k3] Bazı valiler kendi hanedan
 çizgilerini kurdu ve merkeze bağlılık biçimsel hâle geldi.
 
-Bu, korpusun çok sayıda dosyada ölçtüğü bir örüntüdür.[^k2] Askerî
-yükümlülük karşılığı verilen gelir tahsisi, zamanla kalıcı mülkiyete
-dönüşme eğilimindedir.
+Askerî yükümlülük karşılığı verilen gelir tahsisi, zamanla kalıcı mülkiyete dönüşme
+eğilimindedir.
 
 ## 1565 yenilgisi
 
@@ -202,9 +194,7 @@ dönüşme eğilimindedir.
 oluşturduğu bir ittifak karşısında büyük bir yenilgi aldı.[^k3] Yenilgi
 sonrasında başkent yağmalandı ve terk edildi.
 
-Şehrin terk edilişi ani ve kalıcı oldu.[^k2] Bu, korpusun az sayıda
-dosyasında görülen bir durumdur; çoğu başkent yağmalandıktan sonra
-yeniden yerleşir.
+Şehrin terk edilişi ani ve kalıcı oldu.[^k2]
 
 Su sisteminin bakımsız kalması, ticaret
 hattının değişmesi ve siyasi merkezin güneye kayması birlikte işlemiştir.[^k1]
@@ -265,18 +255,14 @@ kullanılmıştır.
 Dil seçimi, yazıtın kime seslendiğini gösterir.[^k3] Klasik dil dinî ve
 resmî çerçeveyi, yerel diller doğrudan muhatabı işaret eder.
 
-Bu, imparatorluğun tek bir dil dayatmadığını gösterir.[^k2] Korpus bunu
-bir hoşgörü göstergesi değil, yönetim maliyetini düşüren bir tercih
-olarak kaydeder; yerel dilde yazmak, kaydın anlaşılmasını sağlar.
+Bu, imparatorluğun tek bir dil dayatmadığını gösterir.[^k2]
 
 ## Kaynak durumu
 
-Bu incelemenin üç künyesinden ikisi dönem tanıklığı, biri giriş
-kapısıdır.[^k2] Yazıtların kendileri künyelenememiştir.
+Yazıtların kendileri künyelenememiştir.
 
-Yazıt derlemelerinin doğrulanabilir çevrimiçi baskıları bu inceleme
-yazıldığında bulunamamıştır.[^k1] Bu, dosyanın asıl bulgusunu doğrudan
-etkiler: iki kanıt türünden yalnızca birine atıf yapılabilmiştir.
+Bu, dosyanın asıl bulgusunu doğrudan etkiler: iki kanıt türünden yalnızca birine atıf
+yapılabilmiştir.
 
 Eksik borç defterine yazılmıştır.[^k3] Yazıt kanıtı künyelenebilir hâle
 geldiğinde dosya güncellenmelidir.
@@ -287,8 +273,7 @@ Hükümdarların listesi ve saltanat süreleri verilmez.[^k1] Yazıtlar bu
 konuda görece iyi kayıt tutar ama derlemeler künyelenemediği için
 liste burada üretilmez.
 
-Mimari miras ayrıntılı olarak işlenmez.[^k3] Ayrı bir çalışma
-gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu.
+Mimari miras ayrıntılı olarak işlenmez.[^k3]
 
 Askerî seferlerin ayrıntısı kapsam dışıdır.[^k2] Dosya yalnızca kanıt
 dağılımına ve at bağımlılığına ilişkin olanı kaydeder.
@@ -301,8 +286,7 @@ kaydedilmekle yetinilir.
 Terk edilişin nedeni tek etkene bağlanmaz.[^k1] Üç etken sıralanır ve
 ağırlıkları ölçülmemiştir.
 
-Ziyaretçi anlatılarındaki sayılar aktarılmaz.[^k2] Sayılar izlenime
-dayanır ve korpus izlenimi sayı olarak kaydetmez.
+Ziyaretçi anlatılarındaki sayılar aktarılmaz.[^k2]
 
 ## Okumayı sürdürmek için
 Aynı yarımadadan daha erken bir deniz imparatorluğu için
@@ -310,13 +294,38 @@ Aynı yarımadadan daha erken bir deniz imparatorluğu için
 [Delhi Sultanlığı](/aktor/delhi-sultanligi/) dosyaları
 okunmalıdır.[^k1]
 
-Kanıt türlerinin hangi soruya cevap verdiği için
-[Kanıt türü](/kavram/kanit-turu/) dosyası uygundur; bu inceleme iki türün
-birbirini tamamladığı seyrek örneklerdendir.[^k3]
-
 At ve mal tedarikinin siyasi etki kurma biçimi için
 [Hint Okyanusu ticareti](/kavram/hint-okyanusu-ticareti/) ve
 [Haraçgüzarlık](/kavram/haracguzarlik/) dosyaları okunabilir.[^k2]
 
 Bölgedeki siyasi birim modelinin genel çerçevesi için
 [Mandala devleti](/kavram/mandala-devleti/) dosyası okunmalıdır.[^k1]
+
+## İki kaynak türü iki farklı ölçek gösterir
+
+Taş yazıtlar bağış, unvan, vergi hakkı, tapınak ve hükümdarlık iddiasını kesin yer
+ve adlarla kaydedebilir. Buna karşılık sarayın tamamını, pazarın gündelik işleyişini
+ve halkın bu iddiaları nasıl yaşadığını nadiren anlatır. Yabancı seyyahlar renkli
+kent, tören ve ticaret betimleri sunar; gördükleri kısa süre, seçkin çevre ve kendi
+beklentileriyle sınırlıdır.[^k1][^k2]
+
+İki kanıtı birleştirirken biri diğerinin açıklaması yapılmamalıdır. Yazıt resmî
+yetkiyi, seyahatname gözlenen uygulamayı gösterir; aralarındaki fark kurumun
+kâğıttaki iddiası ile gündelik pazarlık arasına açılır. Arkeolojik yerleşim,
+su sistemi ve üretim kalıntısı üçüncü bir denetim sağlar. Aynı saray çevresinden
+çok sayıda yazıt bulunması, kırsal nüfusun da aynı ölçüde temsil edildiği anlamına
+gelmez.[^k3]
+
+Vijayanagara’nın gücü iç tarım, sulama, askerî hizmet ve Hint Okyanusu ticaretini
+birleştirmesine dayanıyordu. At ithalatı ile yerel askerî örgüt, tapınak ekonomisi
+ile vergi tahsisi, merkez ile bölgesel yöneticiler karşılıklı bağımlıydı.[^k1]
+Talikota yenilgisi başkenti yıprattı; hanedan ve bölgesel kurumların etkisi tek
+günde bitmedi. Başkent sonunu imparatorluğun bütün toplumsal ağlarının sonu gibi
+okumamak gerekir.
+
+Kırsal vergi ve tapınak ağlarının başkentten sonra nasıl sürdüğü, siyasi
+çözülmenin gerçek hızını ölçen daha iyi bir göstergedir.
+
+Başkent merkezli anlatı bu devamlılığı kolayca gözden kaçırır.
+
+Taşra ayrıca izlenmelidir.

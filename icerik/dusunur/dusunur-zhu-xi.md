@@ -51,12 +51,10 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Kim olduğu
 
-Zhu Xi, kendisinden bin beş yüz yıl önce yazılmış metinleri yeniden
-düzenleyen, yorumlayan ve bir öğretim programına çeviren düşünürdür.[^k1]
-Korpusun bölge şemasında Doğu Asya'da durur.
+Zhu Xi, kendisinden bin beş yüz yıl önce yazılmış metinleri yeniden düzenleyen,
+yorumlayan ve bir öğretim programına çeviren düşünürdür.[^k1]
 
 Dosyanın ayırt edici yanı, düşünürün özgün bir öğreti kurmak yerine mevcut
 bir geleneği yeniden inşa etmiş olmasıdır.[^k1][^k2] Kendisi de bunu bir
@@ -81,9 +79,8 @@ sınanır.[^k3] Bu geçiş, dosyanın merkezindeki sonucu doğurur.
 
 ## Sınav müfredatı olmanın sonucu
 
-Düşünürün seçimi ve yorumu, sonraki yüzyıllarda devlet görevlisi
-seçme sınavlarının resmî içeriği hâline geldi.[^k1][^k3] Bir yorumun resmî
-doğru sayılması, korpusun seyrek kaydettiği bir durumdur.
+Düşünürün seçimi ve yorumu, sonraki yüzyıllarda devlet görevlisi seçme sınavlarının
+resmî içeriği hâline geldi.[^k1][^k3]
 
 Sonucu ikili çalışır. Bir yandan yorum, ülke çapında yayılır, öğretilir ve
 korunur; öte yandan alternatif yorumlar kariyer yolunun dışında
@@ -123,9 +120,8 @@ bir kapsam kazandırdı.[^k2]
 Düşünürün en hacimli metni, kendi kaleminden değil öğrencileriyle
 konuşmalarının derlemesinden oluşur.[^k2] Metin soru-cevap biçimindedir.
 
-Bu biçim, korpusun kaynak katmanı açısından ayrıca kaydedilmelidir.[^k2] Bir
-öğretinin sistematik açıklaması ile aynı öğretinin öğrencilere anlatılışı
-farklı şeylerdir; ikincisi, öğretinin nerede zorlandığını gösterir.
+Bir öğretinin sistematik açıklaması ile aynı öğretinin öğrencilere anlatılışı farklı
+şeylerdir; ikincisi, öğretinin nerede zorlandığını gösterir.
 
 Derlemenin sınırı da bellidir.[^k1] Kayıt, düşünürün kendi yazdığı bir metin
 değildir; öğrencilerin tuttuğu notlardan derlenmiştir ve seçim onlara
@@ -149,8 +145,7 @@ sonuçlar verir.
 Aynı yorum, taşındığı her yerde aynı biçimde benimsenmedi.[^k3] Bazı
 bölgelerde eleştirilerek, bazılarında seçmeci biçimde alındı.
 
-Bu fark, korpusun önemli bir gözlemini destekler.[^k3] Bir öğretinin
-yayılması onun her yerde aynı şeyi ifade ettiği anlamına gelmez; alan
+Bir öğretinin yayılması onun her yerde aynı şeyi ifade ettiği anlamına gelmez; alan
 taraf, aldığını kendi sorunlarına göre yeniden düzenler.
 
 Her alımlanma noktası, ayrı bir dosya
@@ -161,8 +156,7 @@ konusudur.[^k1]
 Yorumun resmîleşmesi, kendi içinden itirazlar da doğurdu.[^k1][^k3] Sonraki
 yüzyıllarda aynı gelenek içinden farklı bir yorum çizgisi geliştirildi.
 
-İtirazın ana noktası, bilgi ile eylem arasındaki ilişkiydi.[^k1] Bu tartışma
-korpusta ayrı bir dosya gerektirir ve burada yalnızca varlığı kaydedilir.
+İtirazın ana noktası, bilgi ile eylem arasındaki ilişkiydi.[^k1]
 
 İtirazın varlığı, resmîleşmenin tartışmayı bitirmediğini gösterir.[^k3] Bir
 yorumun devlet tarafından benimsenmesi, alternatifleri ortadan kaldırmaz;
@@ -173,12 +167,10 @@ onları kurum dışına iter.
 Geleneğin temel metinleri için
 ayrı bir kavram dosyası, bu düşünürün yorumu için ayrı bir düşünür dosyası tutulur.[^k2]
 
-Ayrımın gerekçesi şudur: ikisi aynı dosyada birleştirilirse, yorumun
-metne sonradan eklendiği görünmez olur.[^k1] Korpusun kaçındığı tam olarak
-budur.
+Ayrımın gerekçesi şudur: ikisi aynı dosyada birleştirilirse, yorumun metne sonradan
+eklendiği görünmez olur.[^k1]
 
-Aynı ilke korpusun öteki dosyalarında da uygulanır.[^k2] Bir metin ile o
-metnin yerleşmiş okunuşu arasındaki fark, ancak ikisi ayrı ayrı
+Bir metin ile o metnin yerleşmiş okunuşu arasındaki fark, ancak ikisi ayrı ayrı
 kaydedildiğinde ölçülebilir.
 
 ## Devletle ilişki
@@ -196,8 +188,7 @@ sonraki yönetimlerin kararıdır ve gerekçeleri farklıdır.[^k3]
 
 ## Kaynak durumu
 
-Bu inceleme üç kaynağa dayanır ve biri birincildir.[^k2] Birincil kaynak, Çince
-özgün metni sunar ve düşünürün kendi ifadelerine erişim sağlar.
+Birincil kaynak, Çince özgün metni sunar ve düşünürün kendi ifadelerine erişim sağlar.[^k1]
 
 Metnin Türkçe ya da yaygın bir Batı diline yapılmış tam çevirisi bu
 dosyada künyeye alınmamıştır.[^k2] Doğrulanabilir ve tam metin bir çeviri
@@ -215,21 +206,14 @@ Düşünürün merkezî terimleri, başka dillere tam karşılıkla
 Terimlerin ne anlama geldiği, metnin kendisinden
 ve çeviri karşılaştırmasından okunmalıdır.[^k2]
 
-Bu tutum korpusun Doğu Asya dosyalarında genel kuraldır.[^k1] Bir terimi
-sabit bir karşılıkla çevirmek, o karşılığın taşıdığı çağrışımları da
-metne yüklemek olur.
-
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun Doğu Asya düşünür katmanındaki üçüncü dosyadır.[^k1]
-Önceki iki dosya, bu düşünürün yeniden düzenlediği geleneğin kurucusu ve
-karşıtı için yazılmıştı.
+Bir terimi sabit bir karşılıkla çevirmek, o karşılığın taşıdığı çağrışımları da metne
+yüklemek olur.
 
 Üç dosya birlikte okunduğunda, bir geleneğin bin beş yüz yıl boyunca nasıl
 taşındığı ve nerede değiştiği görünür.[^k2] Tek bir dosya bu süreyi
 anlatamaz.
 
-Bu, korpusun düşünür katmanını kurma biçimidir.[^k3] Dosyalar tek tek
-kişileri değil, kişiler arasındaki aktarım zincirini kaydeder.
+Dosyalar tek tek kişileri değil, kişiler arasındaki aktarım zincirini kaydeder.
 
 ## Açıkta kalan sorular
 Düşünürün doğa felsefesi, kozmoloji görüşleri ve dönemin bilim
@@ -237,8 +221,7 @@ tartışmalarındaki yeri burada işlenmez.[^k1] Ayrı bir dosya gerektirir.
 
 Sınav sisteminin kendi tarihi de kapsam dışıdır.[^k3] Bu, [Bürokrasi](/kavram/burokrasi/) incelemesiyle kesişir ve orada ele alınır.
 
-Sonraki yüzyıllardaki karşıt yorum çizgisi burada verilmez.[^k1] Bu inceleme
-yazıldığında korpusta ayrı bir dosyası bulunmuyordu.
+Sonraki yüzyıllardaki karşıt yorum çizgisi burada verilmez.[^k1]
 
 ## Metin seçmenin kendisi bir iş
 
@@ -250,9 +233,8 @@ Sonraki kuşaklar, seçilen metinleri
 geleneğin kendisi sanır; seçilmeyenler yalnızca uzman çevrelerde okunur ve zamanla
 dolaşımdan çıkar.[^k2]
 
-Aynı mekanizma korpusun öteki bölgelerinde de görülür.[^k3] Bir külliyatın
-belirli bir bölümünün ders programına girmesi, geri kalanının kaybolmasının
-en yaygın sebeplerinden biridir; kayıp, yasaklamayla değil ilgisizlikle
+Bir külliyatın belirli bir bölümünün ders programına girmesi, geri kalanının
+kaybolmasının en yaygın sebeplerinden biridir; kayıp, yasaklamayla değil ilgisizlikle
 olur.
 
 ## Yorumun sınavla birleşmesi
@@ -270,6 +252,29 @@ başarısının kanıtıdır ne de bozulmasının; ikisi de savunulabilir ve ayr
 gerektirir.[^k2] Kaydedilmesi gereken şey, sonucun her iki yönde de yüzyıllarca sürmüş
 olmasıdır: yorum hem korundu hem tartışılamaz hâle geldi ve ikisi aynı kurumun
 eseridir.[^k1]
+
+## İnceleme yöntemi ile ahlaki eğitim
+
+Zhu Xi'nin “şeyleri inceleme” anlayışı, yalnız dış dünyaya ilişkin bilgi
+toplamak değildir.[^k1] Bir nesnenin, ilişkinin ya da davranışın ilkesini
+araştırmak; düzenli okuma, dikkatli gözlem ve kişinin kendi eğilimlerini
+düzeltmesini aynı eğitim içinde birleştirir. Bilgi burada ahlaktan bağımsız bir
+uzmanlık değil, doğru davranabilmenin hazırlanışıdır. Bu nedenle klasiklerin
+okunma sırası ile gündelik özdenetim birbirinden koparılamaz.
+
+Bu yaklaşımın kurumsal üstünlüğü öğretilebilir basamaklar sunmasıdır.[^k2]
+Öğrenci hangi metne önce başlayacağını, nasıl not tutacağını ve kendi
+davranışını hangi ölçütle sınayacağını bilir. Fakat aynı açıklık bir daralma da
+üretir: sınav, uzun bir dönüşüm sürecini kısa ve değerlendirilebilir cevaplara
+çevirdiğinde yöntem ile sonuç arasındaki bağ zayıflayabilir. Yorumu doğru
+aktarmak, yorumun istediği ahlaki değişimi gerçekleştirmiş sayılabilir.
+
+Wang Yangming'in sonraki itirazı tam bu boşluğa yönelir.[^k1] Bir kişi iyiyi
+tanımlayabildiği hâlde ona göre davranmıyorsa gerçekten biliyor mudur? Zhu Xi
+çizgisi araştırma ve aşamalı öğrenmenin zorunluluğunu vurgularken Wang,
+bilgiyle eylemin ayrılmasının ezberi erdem gibi gösterebildiğini ileri sürer.
+İki konumu birbirini dışlayan sloganlar gibi değil, ortak bir eğitim
+sorununa verilen farklı cevaplar olarak okumak gerekir.
 
 ## Okumayı sürdürmek için
 Yeniden düzenlediği gelenek için

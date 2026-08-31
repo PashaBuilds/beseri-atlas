@@ -1,7 +1,7 @@
 {
   "id": "kavram-kolelik",
-  "govde_hash": "435823b417f1",
-  "commit": "4373ec95",
+  "govde_hash": "c7a147902633",
+  "commit": "889239af",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -284,10 +284,24 @@
       ],
       "guven": "yuksek",
       "inceleme": "Kor hakem duzeltmesi: govde 1890 Bruksel cizgisinin 'karada isleyen KOLELIGE' genisletildigini soyluyordu ve ara halkayi atliyordu. Kaynak 'the issue of the slave trade on land was generalised through the considerations of the Temporary Slavery Commission and placed on a formal footing by the Slavery Convention, 1926' diyor: kolelik degil KOLE TICARETI, ve araya Gecici Kolelik Komisyonu giriyor. Ikisi de duzeltildi."
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "Bourne'un modern zamanların başlıca örneği saydığı güney dosyasında, antik dünyada köle emeğinin ağırlığına dair anlaşmazlık ise dosyasında ele alınıyor.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bourne'un Amerikan güneyini modern köleliğin başlıca örneği sayması k2'de doğrudan yer alır; ikinci bölüm site içi yönlendirmedir."
     }
   ],
   "sayaclar": {
-    "dogrudan": 16,
+    "dogrudan": 17,
     "kismi": 4,
     "desteksiz": 0,
     "olculemez": 0
@@ -297,6 +311,12 @@
       "zaman": "2026-08-30",
       "onceki_hash": "edce2c1b5b5c",
       "yeni_hash": "435823b417f1",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    },
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "435823b417f1",
+      "yeni_hash": "c7a147902633",
       "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
     }
   ]

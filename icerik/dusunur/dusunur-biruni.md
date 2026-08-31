@@ -51,25 +51,19 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Nerede durduğu
 
-Bîrûnî, Hârizm bölgesinde doğdu ve yetişti; sonraki yıllarında Gazneli
-sarayının çevresinde çalıştı.[^k1] Bu güzergâh, korpusun Orta Asya olarak ayırdığı
-bölgeden Güney Asya'ya uzanır; dosyanın üç bölge etiketi taşımasının sebebi
-budur.
+Bîrûnî, Hârizm bölgesinde doğdu ve yetişti; sonraki yıllarında Gazneli sarayının
+çevresinde çalıştı.[^k1]
 
-Çağdaşı [İbn Sînâ](/dusunur/ibn-sina/) ile aynı kuşaktandır ve ikisi de aynı
-siyasi coğrafyanın hanedan merkezlerinde çalışmıştır.[^k1] Ama ilgi alanları
-ayrışır: biri metafizik ve tıp üzerinde yoğunlaşırken, öteki takvimler,
-ölçümler ve halkların kayıtları üzerinde durur.[^k1] Korpusun ikisini ayrı
-dosyalarda tutması bu ayrımı görünür kılmak içindir.
+Çağdaşı [İbn Sînâ](/dusunur/ibn-sina/) ile aynı kuşaktandır ve ikisi de aynı siyasi
+coğrafyanın hanedan merkezlerinde çalışmıştır.[^k1] Ama ilgi alanları ayrışır: biri
+metafizik ve tıp üzerinde yoğunlaşırken, öteki takvimler, ölçümler ve halkların
+kayıtları üzerinde durur.[^k1]
 
 ## İki eser, iki ayrı yöntem sorusu
 
-Kaynak, eserlerinin çokluğunu ve konu genişliğini öne çıkarır.[^k1] Bu inceleme
-ikisine bağlanır: takvimler ve tarihlendirme üzerine olan *Âsârü'l-bâkıye*
-ile Hindistan üzerine olan *Tahkīku mâ li'l-Hind*.[^k2][^k3]
+Kaynak, eserlerinin çokluğunu ve konu genişliğini öne çıkarır.[^k1]
 
 İkisi de aynı sorunun iki ayrı yüzüdür: farklı topluluklar aynı olayı farklı
 kaydederken, aralarında nasıl karşılaştırma yapılır?
@@ -84,15 +78,11 @@ sorunun erken bir örneğidir: dönemin nerede başladığı, kimin saydığına
 
 ## Hindistan eseri ve kaynak eleştirisi
 
-*Tahkīku mâ li'l-Hind*, Hint dinî ve bilimsel geleneklerini doğrudan o
-geleneğin metinlerine dayanarak anlatır.[^k3] Eserin korpus açısından en önemli
-tarafı konusu değil, yöntemidir: yazar neyi okuduğunu, neyi aktarma yoluyla
-öğrendiğini ve nerede emin olmadığını ayrı ayrı belirtir.[^k3]
+*Tahkīku mâ li'l-Hind*, Hint dinî ve bilimsel geleneklerini doğrudan o geleneğin
+metinlerine dayanarak anlatır.[^k3]
 
-Bu ayrım, [Kaynak eleştirisi](/kavram/kaynak-elestirisi/) incelemesinde
-tanımlanan işlemin ta kendisidir. Bir iddianın nereden geldiğini iddianın
-yanında taşımak, bugün bu korpusun her makalede uyguladığı kuraldır;
-*Tahkīku mâ li'l-Hind* bunun bin yıl önceki bir uygulamasıdır.[^k3]
+Bu ayrım, [Kaynak eleştirisi](/kavram/kaynak-elestirisi/) incelemesinde tanımlanan
+işlemin ta kendisidir.
 
 Eser ayrıca kendinden önceki anlatıları değerlendirir ve bir kısmını
 güvenilmez bulur.[^k3] Bu değerlendirme, [Birincil kaynak](/kavram/birincil-kaynak/)
@@ -105,27 +95,21 @@ kaydeder.[^k1] Bu çalışmaların ortak yanı ölçmeye dayanmalarıdır: bir b
 tahmin etmek yerine hesaplamak, hesabın hangi varsayımlara dayandığını da
 yazmak.
 
-Ölçüm ile kayıt karşılaştırmasının aynı kişide birleşmesi,[^k1][^k2] korpusun
-onu tek bir eksen altında sınıflamamasının dayanağıdır. Dosyanın eksen alanı
-felsefî, kültürel ve dinî etiketleri birlikte taşır; ölçüm çalışmaları bu
-dosyada ayrı bir başlık altında işlenmez ve bu sınır burada beyan edilir.
+Felsefî, kültürel ve dinî çalışmaların yanında ölçüm faaliyetleri de düşünürün
+yöntemini anlamanın zorunlu parçasıdır; alanlar birbirinden koparıldığında
+varsayım ile hesap arasındaki bağ görünmez olur.
 
-**Tartışmalı.** Bîrûnî'nin yönteminin ne ölçüde "modern" sayılabileceği tartışmalıdır. Bir
-metnin kendi kaynaklarını ayırt etmesi ile bugünün kaynak eleştirisi aynı şey
-değildir; aradaki sürekliliği kurmak da koparmak da yorumdur. Korpus bu konuda
-hüküm vermez; eserin ne yaptığını kaydeder, ne olduğunu adlandırmaz.[^k1][^k3]
+**Tartışmalı. ** Bîrûnî'nin yönteminin ne ölçüde "modern" sayılabileceği tartışmalıdır.
+Bir metnin kendi kaynaklarını ayırt etmesi ile bugünün kaynak eleştirisi aynı şey
+değildir; aradaki sürekliliği kurmak da koparmak da yorumdur.
 
 ## Aynı dönemde, aynı coğrafyada
 
-Bîrûnî ile [İbn Sînâ](/dusunur/ibn-sina/)'nın aynı yıllarda, birbirine yakın
-merkezlerde çalışmış olması,[^k1] bölgenin o dönemdeki yoğunluğunu gösterir.
-Korpusun Orta Asya kapsamı bu inceleme yazıldığında dardı; iki dosya birlikte o
-boşluğun kapatılmasına başlar ve tek başlarına kapatmaz.
+Bîrûnî ile [İbn Sînâ](/dusunur/ibn-sina/)'nın aynı yıllarda, birbirine yakın merkezlerde
+çalışmış olması,[^k1] bölgenin o dönemdeki yoğunluğunu gösterir.
 
-Bu yoğunluğun kendisi bir soru doğurur: bir bölgenin belirli bir yüzyılda
-yoğun üretim yapması neyle açıklanır? Korpus bu soruya burada cevap vermez;
-saray himayesi, kütüphane erişimi ve ticaret yollarının kesişmesi gibi
-açıklamalar farklı dosyalarda ayrı ayrı ele alınır.
+Bu yoğunluğun kendisi bir soru doğurur: bir bölgenin belirli bir yüzyılda yoğun üretim
+yapması neyle açıklanır?
 
 ## Takvim karşılaştırmasının neyi gerektirdiği
 
@@ -140,15 +124,12 @@ tuttuğunu ve o kaydın nereden geldiğini de yazar.[^k2] Yani karşılaştırma
 kendisi bir kaynak dökümüyle birlikte yürür. Bir dönemin nerede başladığını
 söylemek, o başlangıcı kimin ilan ettiğini söylemeden eksik kalır.
 
-Korpusun kendi zaman şeridi aynı sorunla karşılaşır. On altı dönemin sınırları,
-doğadan okunmuş çizgiler değil, seçilmiş kesitlerdir; bu seçimin gerekçesi
-[Dönemlendirme](/kavram/donemlendirme/) dosyasında ayrıca tartışılır. Bîrûnî'nin
-eseri, bu sorunun ne kadar eski olduğunu gösterir.
+On altı dönemin sınırları, doğadan okunmuş çizgiler değil, seçilmiş kesitlerdir; bu
+seçimin gerekçesi [Dönemlendirme](/kavram/donemlendirme/) dosyasında ayrıca tartışılır.
+Bîrûnî'nin eseri, bu sorunun ne kadar eski olduğunu gösterir.
 
-Bir başka nokta daha var. Takvimleri karşılaştıran biri, hangi takvimin "doğru"
-olduğunu söylemek zorunda değildir; yalnızca aralarındaki dönüşümü kurar.[^k2]
-Bu tutum, korpusun tartışmalı sorularda hüküm vermeme kuralıyla aynı biçime
-sahiptir: pozisyonları yan yana koymak, aralarında seçim yapmayı gerektirmez.
+Bir başka nokta daha var. Takvimleri karşılaştıran biri, hangi takvimin "doğru" olduğunu
+söylemek zorunda değildir; yalnızca aralarındaki dönüşümü kurar.[^k2]
 
 ## Hindistan eserinin kuruluşu
 
@@ -167,22 +148,8 @@ kendisine anlatılanları ayırır.[^k3] Bu ayrım bugün olağan görünür ama
 oluşu yenidir; aktarma ile okuma arasındaki farkın künyede gösterilmesi, uzun
 bir süre kural değil istisnaydı.
 
-Korpus bu ayrımı kendi künye şemasında taşır: her kaynağın türü — birincil,
-ansiklopedi, akademik, veri — künyede yazılıdır ve okur bir iddianın hangi
-türden bir kayda dayandığını görebilir. Bu incelemenin kendi künyesi de aynı
-şemayı kullanır.[^k1][^k2][^k3]
-
-## Neden bu inceleme bu korpusta
-
-Bîrûnî'nin korpusa girişi iki ayrı boşluğu birden ilgilendirir. Birincisi
-coğrafidir: yaşadığı bölgeyi etiket olarak taşıyan makale sayısı, bu inceleme
-yazıldığında korpusun en dar kümelerinden biriydi.[^k1]
-
-İkincisi yöntemseldir ve daha az görünürdür. Korpusun kendi kuralları —
-her iddianın kaynağını yanında taşıması, aktarma ile birincil metin arasındaki
-farkın künyede gösterilmesi, tartışmalı sorularda hüküm verilmemesi — bu
-dosyada anlatılan yöntemle aynı aileden gelir.[^k3] Bir bilgi derlemesinin
-kendi kurallarının tarihini de kaydetmesi, o kuralları keyfî olmaktan çıkarır.
+İkincisi yöntemseldir ve daha az görünürdür. Bir bilgi derlemesinin kendi kurallarının
+tarihini de kaydetmesi, o kuralları keyfî olmaktan çıkarır.
 
 Bu ikinci sebep, dosyanın kavram katmanına neden bu kadar çok bağ verdiğini
 açıklar. [Kaynak eleştirisi](/kavram/kaynak-elestirisi/),
@@ -190,16 +157,104 @@ açıklar. [Kaynak eleştirisi](/kavram/kaynak-elestirisi/),
 [Dönemlendirme](/kavram/donemlendirme/) dosyaları, bu makalenin anlattığı
 işlemlerin bugünkü adlarıdır.
 
+## Dili öğrenmek yöntemin parçasıydı
+
+Bîrûnî, Hindistan üzerine yazarken yalnız tercümanlardan gelen özetlerle
+yetinmedi; Sanskritçe öğrendi ve çevresindeki bilginlerle çalıştı.[^k1][^k3]
+Bu seçim, bir geleneği rakiplerinin ona verdiği adlarla değil, kendi metinlerinde
+kurduğu kavramlarla anlamaya yöneliktir. Bir kavramın dışarıdan benzetildiği
+terimle yerel kullanımı uyuşmadığında iki karşılığı yan yana vererek farkı
+görünür tutmaya çalışır.
+
+Dil bilgisi yine de tam bir içeriden bakış sağlamaz. Hangi metne erişebildiği,
+kimlerin onunla konuşmayı kabul ettiği ve saray çevresindeki konumu seçimini
+belirler.[^k3] Brahman bilginlerle kurulan temas, yazılı ve seçkin geleneği
+ayrıntılı gösterirken sözlü, bölgesel veya alt toplumsal katmanlara ait
+uygulamaları daha az görünür bırakabilir. Yerel dili öğrenmek aracılığı azaltır;
+gözlemcinin konumunu ortadan kaldırmaz.
+
+## Benzerlik bulmak ile özdeşlik kurmak
+
+Karşılaştırmalı yöntemin güçlü yanı, yabancı görünen bir düşünceyi okurun
+bildiği örneklerle açıklayabilmesidir. Bîrûnî, Hint düşüncesindeki görüşleri
+Yunan felsefesi ve İslam dünyasında bilinen tartışmalarla zaman zaman yan yana
+getirir.[^k3] Bu işlem, kavramlar arasında soru ortaklığı kurar ve çeviriyi
+mümkün kılar.
+
+Risk, benzerliğin özdeşlik sanılmasıdır. İki gelenek ruh, zaman veya kurtuluş
+hakkında benzer bir ayrım kullanabilir; fakat bu terimlerin bağlı olduğu metin,
+ibadet ve tartışma düzenleri farklıdır. Sağlam karşılaştırma “aynıdır” demek
+yerine, hangi özelliklerin karşılaştırıldığını ve nerede ayrıldıklarını
+belirtir. Bîrûnî'nin değeri bütün farkları aşmasında değil, farkın çeviri
+sırasında kaybolabileceğini sık sık göstermesindedir.[^k1]
+
+## Takvim dönüşümü nasıl yapılır
+
+Bir tarihi başka takvime çevirmek için yalnız yıl başlangıcını bilmek yetmez.
+Ayların güneş veya ay hareketine göre hesaplanması, artık günlerin nasıl
+eklendiği, hükümdarlık yıllarının hangi günden sayıldığı ve günün nerede
+başladığı da belirlenmelidir.[^k2] Aynı olayın iki kaynakta farklı tarihte
+görünmesi, olaylardan birinin yanlış olmasından değil bu kuralların ayrılığından
+doğabilir.
+
+Bîrûnî bu nedenle kronolojiyi olay listesinden önce gelen bir araç olarak
+kurar. Dönüşüm kuralı açık olduğunda farklı dinî bayramlar, hükümdar dizileri ve
+astronomik olaylar ortak eksende sınanabilir. Özellikle tutulma gibi geriye
+hesaplanabilir bir olay, kroniklerin tarihini denetlemek için bağımsız bir
+çapa sağlar.[^k2] Böylece astronomi ile tarih, aynı sayfada iki ayrı bilgi alanı
+değil, birbirini sınayan yöntemler olur.
+
+## Yeryüzünü ölçmek
+
+Bîrûnî'nin ölçüm anlayışı, doğrudan ulaşılamayan bir büyüklüğü erişilebilir
+ölçülerden hesaplama çabasında görülür.[^k1] Bir dağın yüksekliği ile ufuk
+açısını kullanarak Dünya'nın yarıçapını tahmin etme yöntemi bunun bilinen
+örneğidir. Ölçüm, bütün çevreyi dolaşmayı gerektirmez; geometrik ilişki doğru
+kurulursa küçük ve yerel iki ölçüden küresel büyüklük çıkarılabilir.
+
+Sonucun güvenilirliği formül kadar girdilere bağlıdır. Dağın yüksekliği,
+ufuk çizgisi, hava kırılması ve kullanılan açı aletindeki hata sonuca taşınır.
+Bu nedenle yöntemin tarihsel önemi bugünkü değere şaşırtıcı derecede yaklaşmış
+bir sayı vermesinden önce, varsayımları hesap zincirine dönüştürmesidir. Başka
+bir gözlemci aynı girdileri ölçebilir, farklı sonucu karşılaştırabilir ve
+uyuşmazlığın nereden geldiğini tartışabilir.
+
+## Saray, fetih ve bilgi arasındaki gerilim
+
+Gazneli sarayı Bîrûnî'ye kaynak, yolculuk ve farklı bilginlerle temas imkânı
+sağladı; aynı imkân askerî genişlemenin kurduğu güç ilişkisi içinde doğdu.[^k1]
+Hindistan hakkında bilgi edinmesi, bölgeye yönelen seferlerden ve sarayın
+hareketinden bütünüyle ayrı düşünülemez. Bilimsel merak ile imparatorluk
+erişimi aynı güzergâhı kullanabilir.
+
+Bu bağ, eseri yalnız fetih propagandası yapmaz. Bîrûnî, başka yazarların
+küçümseyici aktarımlarını eleştirir ve incelediği gelenekleri kendi
+kaynaklarından açıklamaya çalışır.[^k3] Yine de bilgiyi kimin talep ettiği,
+seyahati kimin finanse ettiği ve sonuçları kimin okuyabildiği soruları metnin
+üretim koşuluna aittir. Bir araştırmanın dikkatli yöntemi, onu mümkün kılan
+siyasi eşitsizliği görünmez kılmamalıdır.
+
+## “Modern bilim insanı” etiketi neyi kaçırır
+
+Bîrûnî'de gözlem, hesap, kaynak karşılaştırması ve yöntem açıklığı bulunduğu
+için onu doğrudan modern bilim insanı diye adlandırmak çekicidir. Bu benzetme
+belirli uygulamaları görünür kılar; fakat on birinci yüzyılın bilim dallarını,
+himaye düzenini ve bilgi amaçlarını bugünkü kuruma dönüştürme riski taşır.[^k1]
+Astronomi, kronoloji, dinler ve coğrafya onun çalışmalarında bugünkü akademik
+bölümlere ayrılmış değildi.
+
+Daha doğru soru, hangi işlemlerin sonraki araştırma ilkelerine benzediğidir:
+kaynağı adlandırma, duyum ile okuma arasına sınır koyma, dönüşüm kuralını
+açıklama ve ölçülebilir iddiayı hesapla sınama. Benzerlik işlem düzeyinde
+kurulduğunda tarihsel bağlam korunur. Bir kişiyi çağının dışına taşıyan büyük
+etiket yerine, farklı eserlerde tekrar eden yöntemi izlemek daha öğreticidir.
+
 ## Kaynak durumu
 
-Bu inceleme üç kaynağa dayanır: Türkçe akademik literatürden bir madde[^k1] ve
-iki ayrı eserin kamu malı tam metni.[^k2][^k3] Künyede giriş kapısı niteliğinde
-bir kaynak bulunmaz.
+Künyede giriş kapısı niteliğinde bir kaynak bulunmaz.
 
-İki birincil kaynağın aynı alan adında bulunması bir zayıflıktır ve burada
-beyan edilir: her ikisi de aynı arşivden geliyorsa, o arşivin bir hatası iki
-künyeyi birden etkiler. Bağımsızlık şartı alan adı düzeyinde ölçüldüğü için
-bu inceleme asgari şartı sağlar, ama ideal bileşim değildir.
+İki birincil kaynağın aynı alan adında bulunması bir zayıflıktır ve burada beyan edilir:
+her ikisi de aynı arşivden geliyorsa, o arşivin bir hatası iki künyeyi birden etkiler.
 
 Eserlerin kullanılan çevirileri on dokuzuncu yüzyıla aittir.[^k2][^k3] Bir
 çeviri, çevrildiği dönemin okuma alışkanlıklarını da taşır; esere yapılacak
@@ -207,45 +262,20 @@ atıflarda hangi çevirinin kullanıldığı belirtilmelidir.
 
 ## Eserlerin ulaşma biçimi
 
-Bu incelemenin bağlandığı iki metin de on dokuzuncu yüzyılda yapılmış çevirilerdir
-ve ikisi de aynı çevirmenin elinden çıkmıştır.[^k2][^k3] Bir yazarın iki farklı
-eserinin aynı çevirmen tarafından aktarılması, o çevirmenin tercihlerinin
-ikisine birden yansıdığı anlamına gelir; terim seçimleri, atlamalar ve
+Bir yazarın iki farklı eserinin aynı çevirmen tarafından aktarılması, o çevirmenin
+tercihlerinin ikisine birden yansıdığı anlamına gelir; terim seçimleri, atlamalar ve
 açıklayıcı eklemeler ortak bir elden geçmiştir.
 
 Bu, kullanılan metinlerin değerini düşürmez ama okuma biçimini belirler.
-Çeviriye dayanan bir atıf, özgün metne dayanan bir atıfla aynı ağırlıkta
-değildir; korpusun künye şeması bu farkı gösterecek bir alan taşımaz ve bu
-eksiklik burada beyan edilir.
 
-Aynı sorun korpusun başka dosyalarında da vardır. Kamu malı tam metinlerin
-çoğu, telifi düşmüş eski çevirilerdir; güncel çeviriler telifli olduğu için
-künyeye giremez. Yani korpusun metne bağlanabildiği her yerde, bağlandığı metin
-genellikle bir yüzyıl öncesinin okuma alışkanlıklarını taşır.
+Kamu malı tam metinlerin çoğu, telifi düşmüş eski çevirilerdir; güncel çeviriler telifli
+olduğu için künyeye giremez.
 
-Bunun sonucu şudur: korpus eserin kendisine bağlandığını söylediğinde, çoğu
-zaman eserin belirli bir tarihsel aktarımına bağlanmış olur. Bu ayrımı
-gizlemek, kaynak zorunluluğunun anlamını boşaltırdı.
+Bu ayrımı gizlemek, kaynak zorunluluğunun anlamını boşaltırdı.
 
-## Açıkta kalan sorular
-Astronomi ve matematik çalışmaları burada işlenmez; bunlar ayrı kaynak
-dosyaları gerektirir ve bu inceleme yazıldığında korpusta o dosyalar
-bulunmuyordu.[^k1]
+Mineraloji ve eczacılık üzerine yazdıkları da kapsam dışıdır.[^k1]
 
-Mineraloji ve eczacılık üzerine yazdıkları da kapsam dışıdır.[^k1] Bir
-düşünürün üretiminin tamamını tek dosyada toplamak, korpusun eser düzeyinde
-kayıt tutma kuralına aykırı olurdu; her eser kendi dosyasını hak eder.
-
-Hindistan eserindeki din ve felsefe bölümlerinin içeriği de burada
-özetlenmez.[^k3] Bu inceleme eserin ne yaptığını anlatır, ne dediğini değil;
-ne dediği için metnin kendisine inilmelidir.
-
-## Okumayı sürdürmek için
-Bu inceleme bir giriş kapısıdır. Yöntem tarafıyla ilgilenen okuyucu için
-[Kaynak eleştirisi](/kavram/kaynak-elestirisi/) ve
-[Birincil kaynak](/kavram/birincil-kaynak/) dosyaları aynı sorunun bugünkü
-karşılığını verir. Takvim ve tarihlendirme tarafı için
-[Dönemlendirme](/kavram/donemlendirme/) dosyası okunmalıdır.
+Hindistan eserindeki din ve felsefe bölümlerinin içeriği de burada özetlenmez.[^k3]
 
 Aynı kuşağın felsefe tarafı için [İbn Sînâ](/dusunur/ibn-sina/) dosyası,
 oradan da [Gazâlî](/dusunur/gazali/) üzerinden itiraz zinciri sürdürülebilir.

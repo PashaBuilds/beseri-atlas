@@ -55,7 +55,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Silahlı ticaret, ticaret gelirinin askerî güce, askerî gücün de ticaret
@@ -120,9 +119,7 @@ Bu biçim, incelenen örnekler arasındaki en olağandışı kurumsal yapılarda
 biridir.[^k1] Bir ticari kuruluşun egemenlik yetkisi kullanması, bugünkü
 devlet-şirket ayrımıyla açıklanamaz.
 
-::tartismali[Bu şirketlerin devletin bir aracı mı yoksa kendi başına siyasi
-bir aktör mü sayılması gerektiği tartışmalıdır; ikisi de aynı belgelerden
-çıkarılabilir. Korpus bir sonuca bağlanmaz.]{harita=tartisma-somurgeciligin-ekonomik-bilancosu}
+::tartismali[Bu şirketlerin devletin bir aracı mı yoksa kendi başına siyasi bir aktör mü sayılması gerektiği tartışmalıdır; ikisi de aynı belgelerden çıkarılabilir.]{harita=tartisma-somurgeciligin-ekonomik-bilancosu}
 
 ## Maliyenin kendini yiyen tarafı
 
@@ -153,17 +150,17 @@ ancak ayrı ayrı kaydedildiğinde ölçülebilir.[^k2]
 
 ## Kavramın sınırı ve kapsamı
 
-Bu inceleme bir düzeneği tanımlar; onu uygulayan devletlerin tarihini
-anlatmaz.[^k1] Her biri ayrı dosya gerektirir ve bazıları korpusta zaten
-bulunmaktadır.
+Düzeneğin Atlantik'teki ve Akdeniz'deki biçimleri de burada işlenmez.[^k3]
 
-Düzeneğin Atlantik'teki ve Akdeniz'deki biçimleri de burada
-işlenmez.[^k3] Bu inceleme, kavramın en açık ölçüldüğü okyanus üzerinden
-kurulmuştur ve başka denizlerdeki karşılıkları ayrı inceleme gerektirir.
+Kavramın bugünkü karşılıkları ise kapsam dışıdır.[^k2]
 
-Kavramın bugünkü karşılıkları ise kapsam dışıdır.[^k2] Böyle bir uzatma,
-korpusun anakronizm ilkesine aykırıdır ve ayrı bir gerekçelendirme
-gerektirir.
+## Ticaretin ne zaman silahlı düzene dönüştüğü
+
+Tüccarların kendini koruması ile ticari bir aktörün liman, gümrük veya üretim bölgesi
+üzerinde zor kullanması aynı değildir.[^k1] Silahlı ticaret; tekel hakkı, savaş gemisi,
+antlaşma baskısı ve şirket yönetiminin birleştiği yerde kurumsallaşır. Alışveriş devam
+etse bile tarafların pazarlık gücü eşit değildir. Bu nedenle ticaret hacmi, ilişkinin
+gönüllü veya karşılıklı yararlı olduğunu tek başına kanıtlamaz.[^k2]
 
 ## Okumayı sürdürmek için
 Düzeneğin çatıştığı ticaret ağı için

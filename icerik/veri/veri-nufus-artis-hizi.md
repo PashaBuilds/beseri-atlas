@@ -49,7 +49,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Seri 1950'de yüzde 1,738 ile başlar ve 2023'te yüzde 0,871 ile biter.[^k1]
 
 ## Veri kümesi tahmin ile projeksiyonu ayrı sütunlarda tutar
@@ -57,23 +56,16 @@ Seri 1950'de yüzde 1,738 ile başlar ve 2023'te yüzde 0,871 ile biter.[^k1]
 Veri kümesinin sütun adları iki ayrı seriyi taşır: biri tahminler, diğeri orta
 varyant projeksiyonu.[^k1]
 
-Bir sağlayıcının ölçülmüş değerler ile ileriye dönük hesapları ayrı sütunlarda
-tutması,[^k1] korpusun şu kuralının dayanağıdır: bu inceleme yalnızca tahmin
-sütununu kaydeder ve projeksiyon değerlerini içermez. Böylece dosyadan okunan
-hiçbir değer bir öngörü değildir.
+Böylece dosyadan okunan hiçbir değer bir öngörü değildir.
 
 ## Artış hızı düşerken nüfus artmaya devam eder
 
 Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1950 için yaklaşık
 2,49 milyar, 2020 için yaklaşık 7,89 milyardır.[^k2]
 
-Artış hızının yarıya düşmesine rağmen nüfusun üç katına çıkması,[^k1][^k2] hız
-ile düzey arasındaki farkı gösterir; korpus bu iki seriyi tek bir eğilim
-cümlesinde birleştirmez. Nüfus serisi
-[Dünya nüfusu, 1500–2025](/veri/dunya-nufusu-1500-2025/) dosyasında, doğurganlık
-tarafı ise
-[Doğurganlık hızı, 1950–2023](/veri/dogurganlik-hizi-1950-2023/) dosyasında ele
-alınıyor.
+Nüfus serisi [Dünya nüfusu, 1500–2025](/veri/dunya-nufusu-1500-2025/) dosyasında,
+doğurganlık tarafı ise [Doğurganlık hızı, 1950–2023](/veri/dogurganlik-hizi-1950-2023/)
+dosyasında ele alınıyor.
 
 ## Artış modeli
 
@@ -82,10 +74,3 @@ olarak üstel, gıda arzının büyümesinin ise doğrusal olduğunu öne süren
 anlatır.[^k3] O model
 [Thomas Malthus](/dusunur/malthus/) dosyasında, kuramsal çerçeve ise
 [Demografik geçiş](/kavram/demografik-gecis/) dosyasında ele alınıyor.
-
-Korpus bu seriyi o modelin çürütülmesi olarak sunmaz: model belirli koşullar
-altında bir sonuç öngörür, seri ise yalnızca artış hızını verir.[^k1][^k3]
-
-## Kanıtın ve kapsamın sınırı
-Ülke ülke hızlar, yaş yapısı ve göç etkisi burada ayrı başlıklar altında ele
-alınmamıştır; bu inceleme yalnızca dünya toplamı tahmin serisini kaydeder.[^k1]

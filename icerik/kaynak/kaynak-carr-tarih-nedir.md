@@ -9,6 +9,10 @@ tarih_baslangic: "1961"
 bolge: [avrupa]
 eksen: [kulturel, felsefi, siyasi]
 guven_geneli: yaygin
+kaynak_siniri: >-
+  Eserin doğrulanabilir tam metni açık erişimde bulunmadığı için bu kayıt katalog
+  ve akademik ikincil kaynaklarla sınırlıdır; bölüm ya da sayfa düzeyinde
+  birincil metin aktarımı yapmaz.
 etiketler: [tarih-nedir, tarih-yazimi, gercekcilik, yontem, bolum-basligi]
 ilgili:
   - dusunur-carr
@@ -51,7 +55,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak, yazarı 28 Haziran 1892'de Londra'da doğmuş, 3 Kasım 1982'de Londra'da
@@ -64,17 +67,10 @@ radikal tarih yazımı ilkelerini ortaya koymasını sayar.[^k1]
 Kaynak bölüm başlıklarını sıralar ve *Tarih Nedir?* için ayrı bir bölüm
 tutar.[^k1]
 
-Bir yöntem kitabının bir biyografi maddesinde kendi bölümünü taşıması,[^k1]
-korpusun şu kuralının dayanağıdır: bu incelemede eser, yazarın hayatının bir
-ayrıntısı olarak değil kendi başına bir konu olarak anılır.
-
 ## Niteleme bir makaleye atıfla verilir
 
 Kaynak, bir dergi makalesine atıfla tarihsel gerçekçilik nitelemesini
 kaydeder.[^k1]
-
-Bir nitelemenin kaynağının ayrıca belirtilmesi,[^k1] korpusun kaynak notlarında
-neden kimin söylediğini tuttuğunun dayanağıdır.
 
 ## Alanın bütünü
 
@@ -90,8 +86,3 @@ Aynı yüzyılın bir başka siyaset yazarı için tutulan kayıt, onu 1906-1975
 yaşamış bir düşünür olarak verir.[^k3] O yazar
 [Hannah Arendt](/dusunur/arendt/) dosyasında, kitabın yazarı ise
 [E. H. Carr](/dusunur/carr/) dosyasında ele alınıyor.
-
-## Okumayı sürdürmek için
-Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser teliflidir; korpus metninden alıntı yapmaz ve
-yalnızca hakkında yazılanı aktarır.

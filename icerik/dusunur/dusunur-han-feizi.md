@@ -51,22 +51,15 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Nerede durduğu
 
 Han Feizi, hem bir kişinin hem de o kişiye atfedilen metnin adıdır.[^k1][^k3]
-Korpus bu incelemeyi düşünür katmanında tutar çünkü ad, bir metin külliyatına
-bağlanabilmektedir; aynı gerekçe [Aşoka](/dusunur/asoka/) ve
-[Nizâmülmülk](/dusunur/nizamulmulk/) dosyalarında da kullanılmıştır.
 
-Metin, kendisinden önceki benzer yazıların bir sentezi olarak
-okunur.[^k2][^k3] Bu inceleme ikinci bir metne daha bağlanır: aynı geleneğin
-daha erken bir örneği.[^k2] İki metnin birlikte bulunması, geleneğin tek bir
-kişinin buluşu olmadığını gösterir.
+Metin, kendisinden önceki benzer yazıların bir sentezi olarak okunur.[^k2][^k3] İki
+metnin birlikte bulunması, geleneğin tek bir kişinin buluşu olmadığını gösterir.
 
-Metnin ait olduğu düşünce çizgisi, korpusta ayrı bir kavram dosyası
-taşımaz.[^k3] Bu bir eksiktir ve burada kaydedilir; kavram katmanının Doğu
-Asya kapsamı, aktör katmanına göre dardır.
+Bu bir eksiktir ve burada kaydedilir; kavram katmanının Doğu Asya kapsamı, aktör
+katmanına göre dardır.[^k3]
 
 ## Üç kavram
 
@@ -88,97 +81,72 @@ Metin, yönetimi ahlaki örnek üzerinden kuran anlayışa açıkça karşı
 yöneticinin erdemiyle halkın davranışı arasında bağ kurar; buradaki metin bu
 bağın yönetimi taşımaya yetmeyeceğini savunur.
 
-İki geleneğin karşıtlığı korpusta iki ayrı dosyada durur ve birlikte
-okunmalıdır. Korpus hangisinin haklı olduğuna dair bir hüküm vermez; ikisinin
-farklı sorulara cevap verdiğini kaydeder.[^k3]
-
 Karşıtlığın kaydedilme biçimi de kayda değerdir. Metin, karşı çıktığı görüşü
 adıyla anar ve eleştirir;[^k1] yani tartışmanın taraflarını metnin kendisinden
 öğreniyoruz, sonraki bir derlemeden değil.
 
-**Tartışmalı.** Bu düşünce çizgisinin sonraki dönemlerdeki etkisinin ne kadar
-sürdüğü tartışılır. Bir görüş, resmî söylem Konfüçyüsçü kalırken idari
-pratiğin bu metinlerin önerdiği yönde işlediğini savunur; başka bir görüş bu
-sürekliliği abartılı bulur. Korpus bir tarafı benimsemez.[^k3]
+**Tartışmalı. ** Bu düşünce çizgisinin sonraki dönemlerdeki etkisinin ne kadar sürdüğü
+tartışılır. Bir görüş, resmî söylem Konfüçyüsçü kalırken idari pratiğin bu metinlerin
+önerdiği yönde işlediğini savunur; başka bir görüş bu sürekliliği abartılı bulur.[^k3]
 
 ## Üç uygarlıktan üç el kitabı
 
-Bu incelemenin korpusa kattığı asıl şey bir karşılaştırmadır.
 [Kautilya](/dusunur/kautilya/) dosyasında ele alınan metin Güney Asya'dan,
-[Nizâmülmülk](/dusunur/nizamulmulk/) dosyasındaki metin İslam dünyasından
-gelir; buradaki metin Doğu Asya'dandır.[^k1]
+[Nizâmülmülk](/dusunur/nizamulmulk/) dosyasındaki metin İslam dünyasından gelir;
+buradaki metin Doğu Asya'dandır.[^k1]
 
 Üçü de aynı türden bir soruya cevap verir: bir yönetim fiilen nasıl
 işletilir? Üçü de ahlaki öğütle yetinmez; görevlilerin denetimi, haber alma
 düzeni ve yöneticinin kendi konumunu koruma yolları üzerinde durur.[^k1]
 
-Üç metnin bağımsız olarak benzer konulara yönelmesi, korpusun kavram katmanının
-neden coğrafyadan bağımsız kurulduğunu gösterir. Bir sorun birden çok
-gelenekte ortaya çıkıyorsa, o sorunun kaynağı kültür değil yönetimin kendisi
-olabilir.[^k3]
+Bir sorun birden çok gelenekte ortaya çıkıyorsa, o sorunun kaynağı kültür değil
+yönetimin kendisi olabilir.[^k3]
 
-Karşılaştırmanın sınırı da belirtilmelidir. Üç metin farklı yüzyıllardan,
-farklı siyasi ölçeklerden ve farklı yazı geleneklerinden gelir; benzerlik
-konularda görülür, çözümlerde değil.[^k1] Korpus benzerliği kaydeder, ortak bir
-köken iddia etmez.
+Karşılaştırmanın sınırı da belirtilmelidir. Üç metin farklı yüzyıllardan, farklı siyasi
+ölçeklerden ve farklı yazı geleneklerinden gelir; benzerlik konularda görülür,
+çözümlerde değil.[^k1]
 
 ## Metnin kendisi ve atfı
 
-Metnin tamamının tek bir kişiye ait olup olmadığı tartışılır; bazı bölümlerin
-sonradan eklendiği ileri sürülür.[^k3] Bu, korpusun öteki düşünür dosyalarında
-da karşılaşılan bir durumdur.
+Metnin tamamının tek bir kişiye ait olup olmadığı tartışılır; bazı bölümlerin sonradan
+eklendiği ileri sürülür.[^k3]
 
 Atıf sorunu burada özel bir biçim alır çünkü metnin adı ile kişinin adı
 aynıdır.[^k1] Bir külliyatın yazarının adını taşıması, külliyatın tamamının o
 kişiye ait olduğunu göstermez; ad, zamanla derlemenin başlığına dönüşmüş
 olabilir.
 
-Korpus bu belirsizliği kapatmaz. Dosya bir kişiyi değil, o adla anılan metni
-konu edinir; metnin hangi bölümünün kime ait olduğu ayrı bir uzmanlık
-sorusudur.[^k3]
+Dosya bir kişiyi değil, o adla anılan metni konu edinir; metnin hangi bölümünün kime ait
+olduğu ayrı bir uzmanlık sorusudur.[^k3]
 
 ## Kaynak durumu
 
-Bu inceleme üç kaynağa dayanır: aynı geleneğin iki metni[^k1][^k2] ve akademik
-bir ansiklopedi maddesi.[^k3] İki birincil kaynak aynı alan adındadır ama
-farklı metinlerdir; künyede ikisi de `eser` alt türüyle işaretlenmiştir.
+İki birincil kaynak aynı alan adındadır ama farklı metinlerdir; künyede ikisi de `eser`
+alt türüyle işaretlenmiştir.
 
 Künyede giriş kapısı niteliğinde bir kaynak bulunmaz.
 
-Kullanılan kaynak, Çince özgün metni ve İngilizce çevirisini birlikte
-sunar.[^k1][^k2] Bu, korpusun çoğu dosyasında bulunmayan bir imkândır: çeviriye
-dayanan bir iddia, özgün metinle karşılaştırılabilir.
+Kullanılan kaynak, Çince özgün metni ve İngilizce çevirisini birlikte sunar.[^k1][^k2]
 
-Sınır belirtilmelidir. Bu inceleme metinlerin ne söylediğini ana hatlarıyla
-aktarır; bölüm bölüm içerik, terimlerin tam karşılıkları ve çeviri tercihleri
-burada ele alınmaz.[^k1][^k2] Bunlar için metnin kendisine inilmelidir.
+Sınır belirtilmelidir. Bunlar için metnin kendisine inilmelidir.
 
 ## Açıkta kalan sorular
 Han hanedanı dönemindeki idari uygulamalar ve bu metinlerin o uygulamalarla
 ilişkisi burada işlenmez;[^k3] [Han İmparatorluğu](/aktor/han-imparatorlugu/)
 dosyası siyasi birimi ayrıca ele alır.
 
-Geleneğin öteki metinleri ve sonraki yorumcuları da kapsam dışıdır. Doğu Asya
-düşünce tarihinin korpustaki kapsamı, bu inceleme yazıldığında iki düşünür
-dosyasından ibaretti ve bu inceleme üçüncüsüdür.[^k3]
+Geleneğin öteki metinleri ve sonraki yorumcuları da kapsam dışıdır.
 
 ## Özgün metnin yanında durması
-
-Bu incelemenin bağlandığı kaynak, Çince özgün metni ve İngilizce çevirisini aynı
-sayfada sunar.[^k1][^k2] Korpusun öteki dosyalarında bu imkân yoktur: oralarda
-çeviri tek başına durur ve özgün metinle karşılaştırılamaz.
 
 Fark küçük görünse de sonucu büyüktür. Bir terimin çevirisi bir yorum
 taşır;[^k3] özgün terim görülebiliyorsa okur, çevirinin nerede seçim yaptığını
 fark edebilir. Görülemiyorsa çeviri, metnin kendisiymiş gibi okunur.
 
-Korpusun kaynak künyeleri bu ayrımı göstermez. Künye bir metnin çeviri olduğunu
-söyleyebilir ama özgününün erişilebilir olup olmadığını söylemez;[^k1] bu
-boşluk ilgili dosyaların metnine yazılarak doldurulur.
+Künye bir metnin çeviri olduğunu söyleyebilir ama özgününün erişilebilir olup olmadığını
+söylemez;[^k1] bu boşluk ilgili dosyaların metnine yazılarak doldurulur.
 
-Bu incelemede boşluk yoktur ve bu yüzden burada belirtilmesi gerekir: bu, korpusun
-kaynak durumu bakımından en rahat dosyalarından biridir. İki özgün metin, iki
-çeviri ve bir akademik çerçeve bir arada bulunur.[^k1][^k2][^k3]
+İki özgün metin, iki çeviri ve bir akademik çerçeve bir arada bulunur.[^k1][^k2][^k3]
 
 ## Denetim sorunu
 
@@ -196,8 +164,7 @@ yer tutar — orada haber alma düzeni ayrı bir başlıktır.[^k1] İki metnin
 bağımsız olarak aynı soruna yönelmesi, sorunun yönetim ölçeği büyüdükçe
 kaçınılmaz hâle geldiğini düşündürür.
 
-Korpus bu benzerliği kaydeder ve bir etkilenme iddiasında bulunmaz. İki metin
-arasında yüzyıllar ve kıtalar vardır; benzerlik, aktarımdan değil aynı sorunla
+İki metin arasında yüzyıllar ve kıtalar vardır; benzerlik, aktarımdan değil aynı sorunla
 karşılaşmaktan gelebilir.[^k3]
 
 ## Kişiden bağımsız düzen arayışı
@@ -206,49 +173,98 @@ Metnin en ayırt edici iddiası, iyi yönetimin iyi yöneticiye bağlı
 olmamasıdır.[^k1][^k3] Bir düzen ancak sıradan bir yöneticinin elinde de
 işliyorsa sağlamdır.
 
-Bu iddia, korpusun kavram katmanında birden çok dosyayla kesişir. Kurala
-bağlanma, kayıt tutma ve denetim mekanizmaları, hepsi aynı arayışın parçasıdır:
+Kurala bağlanma, kayıt tutma ve denetim mekanizmaları, hepsi aynı arayışın parçasıdır:
 düzenin kişiden bağımsızlaşması.[^k1]
 
-İddianın karşı tarafı da kaydedilmelidir. Kişiden bağımsız bir düzen,
-sorumluluğun da dağılması demektir; kimsenin sorumlu olmadığı bir düzende
-hatanın nereden geldiği bulunamaz.[^k3] Metin bu itirazı ele almaz ve korpus
-bunu bir eksik olarak kaydeder.
+İddianın karşı tarafı da kaydedilmelidir. Kişiden bağımsız bir düzen, sorumluluğun da
+dağılması demektir; kimsenin sorumlu olmadığı bir düzende hatanın nereden geldiği
+bulunamaz.[^k3]
 
-Bu tür eksiklerin kaydedilmesi, korpusun metinleri savunmadığının göstergesidir.
-Bir metni kaydetmek onu benimsemek değildir; ne dediğini ve neyi
-konuşmadığını birlikte göstermektir.
+Bir metni kaydetmek onu benimsemek değildir; ne dediğini ve neyi konuşmadığını birlikte
+göstermektir.
 
 ## Kavram katmanındaki boşluk
-
-Bu incelemenin işaret ettiği bir eksik, korpusun kendi yapısındadır. Metnin ait
-olduğu düşünce çizgisi için bir kavram dosyası bulunmuyor;[^k3] okuyucu
-geleneği yalnızca bu inceleme üzerinden görebiliyor.
 
 Kavram dosyalarının işlevi, bir düşünceyi onu savunan kişiden ayırmaktır.
 Kişi dosyası bir metni kaydeder; kavram dosyası o metnin ait olduğu çizgiyi
 tanımlar ve başka örneklerle karşılaştırılabilir kılar.[^k3] Biri olmadan
 öteki eksik kalır.
 
-Aynı eksik korpusun Doğu Asya kapsamının geneli için de geçerlidir. Aktör
-katmanında on iki dosya bulunurken düşünür katmanında üç, kavram katmanında
-bu geleneğe ait hiç dosya yoktur.[^k3] Kapsam dengesizliği bölgeler arasında
-olduğu kadar katmanlar arasında da vardır.
+Aktör katmanında on iki dosya bulunurken düşünür katmanında üç, kavram katmanında bu
+geleneğe ait hiç dosya yoktur.[^k3] Kapsam dengesizliği bölgeler arasında olduğu kadar
+katmanlar arasında da vardır.
 
-Bu notun bırakılması, korpusun kapsam planının yazılan metinlerden büyümesi
-yöntemine uygundur. Bir dosyanın kendi eksiğini yazması, sonraki turların iş
-listesini üretir; kapatılması ayrı bir turun konusudur.
+Bir dosyanın kendi eksiğini yazması, sonraki turların iş listesini üretir; kapatılması
+ayrı bir turun konusudur.
+
+## Ad ile sonuç arasındaki eşleştirme
+
+Han Feizi'nin denetim tekniğinde görevlinin söylediği “ad” ile ortaya çıkan
+“sonuç” karşılaştırılır.[^k1][^k3] Bir memur ne yapacağını, hangi kaynakla ve
+hangi sürede yapacağını bildirir; yönetici daha sonra gerçekleşen işi bu
+bildirimle ölçer. Sonuç vaadin altında kalırsa başarısızlık, gereğinden fazla
+yetki kullanılarak aşılırsa da görev sınırının ihlali vardır. Böylece değerlendirme
+yöneticinin kişisel sempatisinden ayrılıp önceden beyan edilmiş ölçüte bağlanır.
+
+Bu mekanizma modern performans ölçümüne benzese de aradaki fark önemlidir.
+Amaç çalışanın gelişimini sağlamak değil, hükümdarın bilgi bakımından kendisine
+bağımlı olduğu uzmanları kontrol etmektir. Uzman, işin ayrıntısını yöneticiden
+daha iyi bildiği için başarısını abartabilir veya sorumluluğu başkasına
+aktarabilir.[^k3] Kayıt ve eşleştirme, bu bilgi üstünlüğünü sınırlamaya
+çalışır.
+
+## Ödül ile cezanın görünür olması
+
+Kuralın işlemesi için sonuçların önceden bilinmesi ve benzer durumlarda benzer
+biçimde uygulanması gerekir.[^k2][^k3] Ödül yalnız cömertlik, ceza yalnız
+korkutma değildir; ikisi beklenti üretir. Hükümdar sevdiğini bağışlar veya
+sevmediğini kuralsız cezalandırırsa görevliler yazılı kurala değil saray
+ilişkilerine yatırım yapar.
+
+Buradaki eşitlik ahlaki hak eşitliği değildir. Kural, hükümdarın hedeflerine
+ulaşmak için nüfusu öngörülebilir davranmaya yönelten araçtır. Bu nedenle
+Legalist düzenin kişiden bağımsızlık iddiası sınırlıdır: memur ve halk kurala
+bağlanırken hükümdarın kendisi aynı ölçüde bağlı değildir.[^k3] Sistemin temel
+gerilimi tam burada bulunur. Keyfîliği azaltacak makam, kuralların dışında
+kaldığında en büyük keyfîlik kaynağına dönüşebilir.
+
+## Konumsal güç neden erdemin yerini alır
+
+Han Feizi, iyi sonuçları olağanüstü bilge bir hükümdara bağlayan öğretinin
+ölçeklenemeyeceğini düşünür.[^k1] Nadir bir erdemliye göre tasarlanan düzen,
+sıradan hükümdarlar geldiğinde çöker. Makamın yetkisi, açık görevler ve denetim
+teknikleri, kişisel niteliğin değişmesine rağmen yönetimin sürmesini amaçlar.
+
+Bu yaklaşım insan davranışına ilişkin kötümser bir varsayım taşır: görevli,
+fırsat bulduğunda kendi çıkarını izler ve ahlaki öğüt bunu güvenilir biçimde
+engellemez.[^k3] Dolayısıyla iyi niyeti sınamak yerine çıkarları düzenlemek
+gerekir. İtiraz ise insanların yalnız ödül ve ceza hesabıyla davranmadığıdır;
+sadakat, mesleki bilgi ve açık itiraz olmadan yönetici doğru bilgiyi de
+alamaz. Her kuşkuyu gizlilikle karşılayan sistem, kötü haberi söyleyenleri
+susturarak kendi denetim kapasitesini azaltabilir.
+
+## Üç kavramın birlikte oluşturduğu makine
+
+*Fa* davranışın açık standardını, *shu* görevliyi ölçme tekniğini, *shi* ise
+kararı uygulatacak makam gücünü sağlar.[^k1][^k3] Birincisi olmadan ölçü keyfî,
+ikincisi olmadan kural kâğıt üzerinde, üçüncüsü olmadan sonuç yaptırımsız
+kalır. Metnin özgünlüğü tek tek kavramlardan çok, üçünü birbirinin açığını
+kapatacak bir yönetim makinesi olarak kurmasındadır.
+
+Makine benzetmesinin sınırı da açıktır. Ölçütü kimin koyduğu, yanlış bir emre
+kimin itiraz edebileceği ve hükümdarın başarısızlığının nasıl düzeltileceği
+belirsiz kalır. Han Feizi yönetilen makamların sorumluluğunu ayrıntılandırırken,
+en üst makamın hesap verebilirliği için eşdeğer bir mekanizma sunmaz. Metni
+bugünün bürokrasi tartışmasına bağlayan asıl soru, kurala bağlı yönetim
+arayışının neden hükümdarı kuralın içine alamadığıdır.[^k3]
 
 ## Okumayı sürdürmek için
 Karşı çıkılan gelenek için [Konfüçyüs](/dusunur/konfucyus/), aynı türden
 metinlerin başka uygarlıklardaki örnekleri için [Kautilya](/dusunur/kautilya/)
 ve [Nizâmülmülk](/dusunur/nizamulmulk/) dosyaları okunmalıdır.
 
-Yönetimin kurala bağlanması için [Bürokrasi](/kavram/burokrasi/), dönemin
-siyasi birimi için [Han İmparatorluğu](/aktor/han-imparatorlugu/) dosyası
-uygundur. İkisi birlikte, metnin önerdiği düzenin fiilen ne kadar
-uygulandığı sorusunu açar; korpus o soruya cevap vermez ama sormayı mümkün
-kılar.[^k3]
+Yönetimin kurala bağlanması için [Bürokrasi](/kavram/burokrasi/), dönemin siyasi birimi
+için [Han İmparatorluğu](/aktor/han-imparatorlugu/) dosyası uygundur.
 
 Metne yapılacak atıflarda bölüm adı ve kullanılan çeviri belirtilmelidir;[^k1]
 kaynak özgün metni de sunduğu için çeviri tercihleri karşılaştırılabilir ve
@@ -258,7 +274,3 @@ Aynı geleneğin ikinci metni de bağlanmıştır ve iki metnin birlikte okunmas
 önerilir.[^k2] Bir düşünce çizgisini tek metinden okumak, o çizginin iç
 farklılıklarını görünmez kılar; iki metin, geleneğin kendi içinde de
 tartıştığını gösterir.
-
-Son bir hatırlatma: bu inceleme metinlerin ne söylediğini ana hatlarıyla
-aktarır, savunmaz.[^k3] Metinlerin önerdiği yönetim biçiminin sonuçları ayrı
-bir tartışma konusudur ve korpus burada o tartışmaya girmez.

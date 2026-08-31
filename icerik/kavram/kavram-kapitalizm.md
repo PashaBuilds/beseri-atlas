@@ -55,7 +55,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak, kavramı tek bir cümleyle vermez: köken bilgisi ve tanım için ayrı
 bölümler, özellikler için ise sekiz alt başlık tutar — piyasa, ücretli emek, kâr
 güdüsü, özel mülkiyet, piyasa rekabeti, iktisadi büyüme, bir üretim tarzı olarak
@@ -63,23 +62,15 @@ ve devletin rolü.[^k1]
 
 ## Tanımın kendisi bir bölüm başlığıdır
 
-Bir kavramın tanımına ayrı bir bölüm ayrılması,[^k1] korpusun şu kuralının
-dayanağıdır: bu incelemede kapitalizm sözcüğü, hangi tanımın kullanıldığı
-belirtilmeden bir iddianın öznesi yapılmaz.
-
 ## Tarih dört evreye bölünmüştür
 
 Kaynak tarih bölümünü dört alt başlığa ayırır: tarımcılık, merkantilizm, Sanayi
 Devrimi ve modernlik; sonuncusunun altında demokrasiyle ilişki ayrıca
 işlenir.[^k1]
 
-Bir kavramın tarihinin öncüllerini de içermesi,[^k1] korpusun bu incelemeyi
-[Merkantilizm](/kavram/merkantilizm/) ve
-[Sanayi Devrimi](/olay/sanayi-devrimi/) dosyalarına bağlamasının dayanağıdır.
-
 ## İki rakip tanım kaydedilir
 
-::tartismali[Bir kayıt kapitalizmi rekabetçi piyasalarla tanımlar; bir başka kayıt ise kapitalistlerin tekelci olduğunu ve serbest piyasaları kullanmadığını savunur. Korpus iki tanımı da taşır ve seçim yapmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bir kayıt kapitalizmi rekabetçi piyasalarla tanımlar; bir başka kayıt ise kapitalistlerin tekelci olduğunu ve serbest piyasaları kullanmadığını savunur.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Karşıt tanım için tutulan kayıt, kapitalistlerin genellikle varsayıldığı gibi
 rekabetçi piyasalarda faaliyet gösteren girişimciler değil tekelciler olduğunu ve
@@ -104,3 +95,59 @@ altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^
 Bu kavramın formüle edildiği eser Smith, *Ulusların Zenginliği*'dir; dosya o eserin kamu malı
 tam metnine bağlanır.[^k4] Kavrama yapılacak atıflar, kavramı tanımlayan
 bölüm belirtilerek verilmelidir.
+
+## Bir sistem olarak kapitalizm
+
+Kapitalizm yalnız alışverişin, paranın veya zengin kişilerin bulunması değildir.
+Piyasalar ve tüccarlar çok daha eski toplumlarda da vardı. Kavram, üretim
+araçlarının önemli bölümünün özel denetimde olduğu, emeğin geniş ölçüde ücret
+karşılığı satıldığı, yatırım kararlarının kâr beklentisiyle alındığı ve üretimin
+rekabet içindeki pazarlara yöneldiği bir kurumsal bileşimi anlatır. Kaynağın özel
+mülkiyet, sermaye birikimi, ücretli emek, fiyat sistemi ve rekabet gibi özellikleri
+ayırması, tek bir unsurun sistemi tanımlamaya yetmediğini gösterir.[^k1]
+
+Sermaye, yalnız birikmiş para değildir; daha fazla değer üretmek amacıyla makine,
+stok, altyapı, kredi veya işgücüne yatırılan kaynak haline gelir. Kârın yeniden
+yatırılması üretim kapasitesini büyütebilir. Rekabet firmaları maliyet düşürmeye,
+yenilik yapmaya veya yeni pazar aramaya zorlayabilir. Aynı süreç başarısız
+işletmeleri tasfiye eder, emeğin pazarlık koşullarını değiştirir ve serveti
+yoğunlaştırabilir. Bu nedenle sistemin dinamizmi ile eşitsizlik ve güvencesizlik
+olasılığı aynı mekanizmanın farklı sonuçları olabilir.[^k1][^k2]
+
+## Piyasa ile devletin birlikte kurulması
+
+Kapitalizmi “devletin olmadığı serbest piyasa” diye tanımlamak tarihsel süreci
+fazla basitleştirir. Mülkiyet hakkı, şirket kişiliği, sözleşme, para, patent,
+gümrük, merkez bankası ve iflas düzeni hukuki ve siyasal kurumlar gerektirir.
+Devlet bazen rekabeti korur, bazen tekeller yaratır; altyapı kurar, sömürge
+ticaretini zorla açar veya sosyal haklarla piyasanın sonuçlarını sınırlar. Asıl
+soru devletin var olup olmadığı değil, hangi piyasaları kimin yararına ve hangi
+kurallarla kurduğudur.
+
+[Merkantilizm](/kavram/merkantilizm/) devlet gücü ile ayrıcalıklı ticaretin erken
+modern bileşimini gösterir. Sanayi kapitalizmi fabrika, fosil enerji ve ücretli
+emekle başka bir ölçek kazanır; finansallaşma ise gelir ve kararların kredi,
+menkul kıymet ve varlık fiyatları üzerinden kurulmasını öne çıkarır. Bu evreleri
+tek bir değişmez model saymak, kapitalizmin kurumlara ve döneme göre aldığı
+biçimleri gizler.[^k1][^k3]
+
+## Tarihsel bir iddiayı sınamak
+
+Bir toplumu kapitalist sayarken dört soru yararlıdır: Üretim araçlarını kim
+denetliyor? Emek nasıl seferber ediliyor? Artık ürüne kim el koyuyor? Birikim
+hangi kanalla yeniden yatırıma dönüşüyor? Köle emeği, aile işletmesi, ortak arazi
+ve devlet teşebbüsü piyasa içinde yan yana bulunabilir. Bunların ağırlığı ile
+birbirine bağlanma biçimi gösterilmeden tek etiket açıklama üretmez.[^k1]
+
+[Büyük Ayrışma](/kavram/buyuk-ayrisma/) sistemin Avrupa’daki yükselişinin neden
+ve zamanını karşılaştırmalı olarak sorar; [İlkel birikim](/kavram/ilkel-birikim/)
+mülkiyet ve emek koşullarının başlangıçta nasıl dönüştürüldüğüne odaklanır;
+[1929 krizinin nedeni](/tartisma/1929-krizinin-nedeni/) ise büyüme mekanizmasının
+kriz üretme biçimlerini sınar. Kapitalizm ne bütün modern gelişmelerin tek nedeni
+ne de yalnız ahlaki bir sıfattır. Üretim, mülkiyet, emek, devlet ve birikim
+arasındaki somut ilişkileri karşılaştırmaya yarayan tarihsel bir kavramdır.[^k1][^k4]
+
+Okuma sırasında işletmenin özel olmasıyla piyasanın rekabetçi olması da
+karıştırılmamalıdır. Bir şirket özel mülkiyette olup devlet ayrıcalığıyla tekel
+kurabilir; kamu işletmesi ise rekabetçi bir pazarda çalışabilir. Mülkiyet biçimi,
+pazar yapısı ve siyasal ayrıcalık ayrı eksenlerde incelenmelidir.

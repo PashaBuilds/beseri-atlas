@@ -57,16 +57,14 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne oldu
 
 1258 yılının başında, doğudan gelen bir ordu Bağdat'ı kuşattı ve şehir
 birkaç hafta içinde düştü.[^k1][^k2] Şehri yöneten hanedanın beş yüzyıldır
 sürdürdüğü hilafet, bu kuşatmayla sona erdi.
 
-Olayın korpus açısından ayırt edici yanı, düşüşün hızıdır.[^k1] Yüzyıllardır
-İslam dünyasının sembolik merkezi sayılan bir şehir, kuşatmaya aylarca değil
-haftalarca dayanabildi.
+Yüzyıllardır İslam dünyasının sembolik merkezi sayılan bir şehir, kuşatmaya aylarca
+değil haftalarca dayanabildi.[^k1]
 
 Bu hız, dosyanın merkezindeki soruyu doğurur.[^k4] Bir kurumun sembolik gücü
 ile onu koruyacak fiilî gücü arasındaki fark ne kadar açılmıştı ve bu fark
@@ -92,9 +90,8 @@ Kuşatmada ölenlerin sayısına dair kaynaklarda çok farklı rakamlar
 verilir.[^k1][^k2] Aradaki fark yüz binlerle ölçülür ve hiçbiri bağımsız bir
 sayıma dayanmaz.
 
-Bu, korpusun dönem olaylarında tekrar eden bir durumdur.[^k1] Bir felaketin
-büyüklüğünü bildiren sayılar, felaketin şiddetini anlatmak için kullanılır;
-ölçüm değil vurgu taşırlar.
+Bir felaketin büyüklüğünü bildiren sayılar, felaketin şiddetini anlatmak için
+kullanılır; ölçüm değil vurgu taşırlar.
 
 Sayıların nasıl okunacağı sorusu
 [Tarihsel sayılar nasıl okunur](/tartisma/tarihsel-sayilar-nasil-okunur/) dosyasında
@@ -138,9 +135,6 @@ Tartışmanın özü şudur: bir kurumun sürekliliği, adın devam etmesiyle mi
 yoksa işlevin devam etmesiyle mi ölçülür?[^k1] Ad devam etti; merkez,
 bağımsızlık ve fiilî otorite devam etmedi.
 
-Kurumun sonraki biçimi, korpusta ayrı bir
-dosya gerektirir ve bu inceleme yazıldığında bulunmuyordu.[^k4]
-
 ## Bölgesel sonuçlar
 
 Şehrin düşmesi, bölgedeki sulama ve tarım düzenini de etkiledi.[^k1] Nehir
@@ -159,10 +153,7 @@ bozulduğu ayrı bir ölçüm gerektirir ve elde bulunan kaynaklarda bu ölçüm
 Şehrin bölgesel ticaretteki konumu da değişti.[^k1] Doğu-batı kara
 ticaretinin bir bölümü kuzeye ve deniz yollarına kaydı.
 
-Kaymanın tek sebebi bu olay değildir.[^k2] Aynı yüzyıllarda deniz
-taşımacılığının payı zaten artıyordu ve korpusun
-[Hint Okyanusu ticareti](/kavram/hint-okyanusu-ticareti/) dosyası bu eğilimi
-kaydeder.
+Kaymanın tek sebebi bu olay değildir.[^k2]
 
 Bir olayın hızlandırdığı bir eğilim ile
 başlattığı bir eğilim ayrı şeylerdir; birincisi için olay gerekli değildir.[^k1]
@@ -195,13 +186,10 @@ kanıtlar gerektirir; tartışma dosyası bu işi ayrıca yapar.[^k1]
 
 ## Kaynak durumu
 
-Bu inceleme dört kaynağa dayanır ve biri birincildir.[^k4] Üç ansiklopedi
-maddesi aynı alan adındadır; bağımsızlık şartı dördüncü kaynakla
+Üç ansiklopedi maddesi aynı alan adındadır; bağımsızlık şartı dördüncü kaynakla
 sağlanmıştır.
 
-Olayın çağdaş kayıtları hem kuşatan hem kuşatılan taraftan
-bulunmaktadır.[^k1][^k2] Bu inceleme yazıldığında, bu kayıtların doğrulanabilir
-ve tam metin bir baskısı künyeye alınamamıştır.
+Olayın çağdaş kayıtları hem kuşatan hem kuşatılan taraftan bulunmaktadır.[^k1][^k2]
 
 Kısıt burada beyan edilir.[^k3] Dosyadaki bilgilerin tamamı, çağdaş
 kayıtları özetleyen sonraki derlemelerden gelir ve o derlemelerin seçimlerini
@@ -217,17 +205,9 @@ dosya bir olayı konu edinir; şehrin tarihini değil.
 Seferi yürüten siyasi düzenin kendi tarihi burada verilmez.[^k2] Bunun için
 [Moğol İmparatorluğu](/aktor/mogol-imparatorlugu/) dosyası okunmalıdır.
 
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun olay katmanına bir kurumun sona erişini ekler ve bu, olay
-dosyalarında seyrek görülen bir konudur.[^k4] Çoğu olay dosyası bir savaşı,
-bir keşfi ya da bir kararı kaydeder.
-
 Bir kurumun sona erişinin ayrı bir dosya gerektirmesinin gerekçesi
 şudur.[^k1] Kurumun sonu, onu ortadan kaldıran askerî olayla aynı şey
 değildir; askerî olay birkaç hafta, kurumsal sonuçlar yüzyıllar sürer.
-
-Askerî olay bu incelemede, kurumun kendisi aktör
-dosyasında, sonuçları ise tartışma dosyasında kaydedilir.[^k2]
 
 ## Teslim görüşmelerinin kaydı
 
@@ -274,7 +254,35 @@ bütününün gerilemesi ayrı iddialardır ve ikincisi ayrı kanıt gerektirir.
 merkezin taşınması, bölgedeki üretimin ve nüfusun da azaldığı anlamına gelmez; gelirin
 nereye aktığı değişmiş olabilir ve bu iki durum aynı kayıtlardan ayrılamaz.[^k2]
 
+## “Son” sözcüğünü kurumlara ayırmak
+
+1258 Bağdat için Abbâsî halifesinin ölümü, şehir savunmasının çöküşü ve Hülagû
+yönetiminin kuruluşu bakımından kesin bir kopuştur.[^k1][^k2] Fakat “İslâm
+medeniyeti sona erdi” cümlesi şehir, hanedan, hilafet, bilimsel üretim
+ve ticaret ağını tek şey sanır. Abbâsî soyundan bir hilafetin Kahire'de
+sürdürülmesi eski siyasi gücü geri getirmedi; yine de kurum adının bütünüyle yok
+olmadığını gösterir.[^k3][^k4]
+
+Kütüphanelerin ve sulama düzeninin yıkımı hakkında anlatılar farklı tarihlerde,
+farklı amaçlarla büyütülmüş olabilir. Büyük can ve mal kaybını kabul etmek,
+Dicle'nin mürekkepten karardığı gibi her simgesel ayrıntıyı aynı kesinlikte
+doğrulamak anlamına gelmez. Çağdaş veya yakın kaynak, maddi iz ve sonraki edebî
+anlatı ayrı kanıt katmanlarıdır.[^k1]
+
+Şehir kuşatma sonrasında da iskân, ticaret ve idare merkezi olarak yaşamayı
+sürdürdü; ancak nüfus, üretim ve ağ içindeki ağırlığı değişti. Bu devamlılık
+yıkımın küçük olduğu anlamına gelmez. Tersine tarihsel kırılmayı daha doğru
+ölçmeyi sağlar: hangi kurum hemen çöktü, hangisi başka yerde devam etti, hangisi
+yeni yönetim altında yeniden kuruldu? “Altın çağın bir günde sonu” anlatısı bu
+farklı hızları tek dramatik sahneye sıkıştırır.
+
+Kuşatmanın bölgesel etkisi Bağdat surlarında bitmez. İlhanlı yönetiminin vergi,
+şehir ve ticaret siyaseti; başka merkezlerin yükselişi ve Memlük direnci yeni
+dengenin parçalarıdır. Bir başkentin düşüşünü bütün bölgenin eşzamanlı çöküşü
+saymadan bu yeniden örgütlenme izlenmelidir.[^k2]
+
 ## Okumayı sürdürmek için
+
 Sona eren kurum için [Abbasi Hilafeti](/aktor/abbasi-hilafeti/), seferi
 yürüten düzen için [Moğol İmparatorluğu](/aktor/mogol-imparatorlugu/)
 dosyaları okunmalıdır.[^k1]

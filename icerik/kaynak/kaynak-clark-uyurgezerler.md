@@ -51,7 +51,6 @@ son_denetim: 2026-08-20
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Christopher M. Clark, *The sleepwalkers: how Europe went to war in 1914*, New
@@ -85,11 +84,6 @@ Yaklaşıma yöneltilen itirazlar da aynı haritada kayıtlıdır. Vernon Bogdan
 dört güç konferansı ve Lahey tahkimi seçeneklerinin Almanya ve
 Avusturya-Macaristan tarafından reddedilmesinin, savaşın nedenleri aranırken bu
 iki devlet aleyhine ağır bastığını savunur.[^k2]
-
-## Okumayı sürdürmek için
-Kitap teliflidir; bu inceleme bölüm çevirisi, uzun özet veya yeniden yapılandırılmış
-anlatı içermez ve içeremez. Yukarıdaki künye kaydı katalog bilgisi içindir,
-eserin metnine bağlanmaz.
 
 Kitapla birlikte okunması yararlı olan malzeme, aynı olayların taraf devletlerce
 yayımlanmış resmî belge derlemeleridir; bunların künyeleri

@@ -43,23 +43,18 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak, araştırmacıların betimlemeleri başlığı altında beş alt başlık tutar: Max
 Weber, Schmuel Eisenstadt, Richard Pipes, J. I. Bakker ve Francis Fukuyama.[^k1]
 
 ## Kavramın beş ayrı betimlemesi vardır
 
-::tartismali[Kaynak kavramı tek bir tanımla vermiyor; beş araştırmacının betimlemesini ayrı ayrı sıralıyor. Korpus bu incelemede tek bir tanım kullanmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Kaynak kavramı tek bir tanımla vermiyor; beş araştırmacının betimlemesini ayrı ayrı sıralıyor.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Kavram tartışmalarının nasıl taşınacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
 haritasında ele alınıyor.
 
 ## Zayıflık kavramın kendi bölümüdür
-
-Kaynağın kavrama dair bir zayıflık bölümü tutması,[^k1] korpusun şu kuralının
-dayanağıdır: bu incelemede patrimonyalizm, bir yönetim biçiminin adı olarak
-kullanıldığında kaynağın kendi çekincesiyle birlikte anılır.
 
 ## Listenin ilk adı
 
@@ -74,7 +69,6 @@ Devlet kuramı üzerine başka bir gelenek için tutulan kayıt, o düşünürü
 devlete dair tartışmalı bir anlatı geliştirdiğini ve daha genel olarak siyasi ile
 iktisadi hayat arasındaki ilişkiyi ele aldığını yazar.[^k3] O gelenek
 [Karl Marx](/dusunur/marx/) dosyasında ele alınıyor.
-
 
 ## Ölçüt
 
@@ -126,7 +120,6 @@ gösterir.
 Bir kavramın doğrudan ölçülememesi, hiçbir
 göstergesinin olmadığı anlamına gelmez.[^k3]
 
-
 ## Sadakat ile ehliyet
 
 Kavramın ürettiği temel gerilim budur.[^k2] Kişiye bağlı bir düzende
@@ -163,7 +156,6 @@ bir kurum, bağımsızlığını kuranına karşı da kullanabilir.[^k1]
 Aynı örüntünün farklı kıtalarda görülmesi,
 onu yapısal kılar.[^k3]
 
-
 ## Kavramın kullanım sınırı
 
 Kavram bir değer yargısı taşımaz.[^k2] Kişiye bağlı bir düzen,
@@ -189,12 +181,23 @@ Bu, ideal tip yönteminin kendisidir.[^k3] Ölçüt gerçekte bulunmaz;
 gerçek durumlar ona olan mesafeyle
 ölçülür.
 
-
 ## Kavramın kaynağı
 
 Kavramı bugünkü biçimiyle tanımlayan yazar, onu bir ideal tip olarak
 kurdu.[^k2] Amaç betimlemek değil karşılaştırma ölçütü
 üretmekti.[^k1][^k3]
+
+## Kişisel yönetim ile keyfîlik arasındaki fark
+
+Patrimonyal düzende görev ve kaynaklar, soyut bir kamu makamından çok yöneticinin
+hanesi ve kişisel bağlılık ağları üzerinden dağıtılır.[^k1] Bu durum her kararın
+kuralsız veya yolsuz olduğu anlamına gelmez; gelenek, pazarlık ve karşılıklı
+yükümlülükler güçlü sınırlar koyabilir. Kavramı sınamak için görevlinin yetkisini
+nereden aldığı, gelirini nasıl topladığı ve makamın kişiden bağımsız sürüp sürmediği
+incelenmelidir. Kişisel sadakat ile bürokratik usul aynı kurumda birlikte bulunabilir.[^k2]
+
+Bu nedenle ideal tip, bir devlete bütünüyle yapıştırılan etiket değil kurumlar
+arasındaki farkı ölçen bir araçtır.[^k1]
 
 ## Kanıtın ve kapsamın sınırı
 Betimlemelerin içeriği, örnekler ve çağdaş tartışmalar burada ayrı başlıklar

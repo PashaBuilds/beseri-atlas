@@ -46,7 +46,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Kipu, bir ana ipe bağlanmış sarkıt iplerin üzerine atılan düğümlerle kayıt
@@ -78,10 +77,7 @@ denetlenebilirliğinden gelir.[^k1]
 Sistemin dil de kaydedip kaydetmediği açık bir sorudur.[^k1] Dönem
 kayıtlarında kipu tutan görevlilerin anlatı bilgisi de aktardığı yazılıdır.
 
-::tartismali[Kipuların yalnızca sayısal kayıt mı tuttuğu, yoksa dil
-kaydeden bir bileşen de taşıyıp taşımadığı tartışmalıdır; dönem kayıtları
-anlatı aktarımından söz eder ama bunun ipten mi yoksa görevlinin
-belleğinden mi geldiği ayrılamaz.]{harita=tartisma-sozlu-gelenek-kaynak-mi}
+::tartismali[Kipuların yalnızca sayısal kayıt mı tuttuğu, yoksa dil kaydeden bir bileşen de taşıyıp taşımadığı tartışmalıdır; dönem kayıtları anlatı aktarımından söz eder ama bunun ipten mi yoksa görevlinin belleğinden mi geldiği ayrılamaz.]{harita=tartisma-sozlu-gelenek-kaynak-mi}
 
 Görevlinin ipe bakarak konuşması, ipin metni
 taşıdığı anlamına gelmez; ip bir hatırlatıcı da olabilir ve iki işlev dışarıdan ayırt
@@ -125,10 +121,6 @@ Bugün elde bulunan örnekler büyük ölçüde mezar ve kuru iklim koşulların
 korunmuş olanlardır.[^k2] Yani eldeki külliyat, kullanımdaki külliyatın
 temsilî bir örneği değil, hayatta kalabilmiş bir kalıntısıdır.
 
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun kavram katmanına yazı olmayan bir kayıt sistemi ekler.[^k1]
-Katmanda yazı sistemi dosyası bulunuyordu; onun karşıtı yoktu.
-
 Dosyanın kapsamadıkları belirtilmelidir.[^k2] Düğüm tiplerinin ayrıntısı,
 renk kodlaması ve tek tek örneklerin çözümlemesi burada işlenmez; her biri
 ayrı çalışma gerektirir.
@@ -151,10 +143,7 @@ Anahtar, görevlilerin usulüydü ve o usul kayda geçmedi.[^k3] Sistem
 öğrenilerek aktarılıyordu; aktarım zinciri kırıldığında anahtar da
 kayboldu.
 
-## Neden bu inceleme korpusta
-
-Bu inceleme, korpusun bir varsayımını sınamak için yazıldı.[^k1] Varsayım şudur:
-bir toplum hakkında ne kadar bilgi edinilebileceği, o toplumun kayıt
+Varsayım şudur: bir toplum hakkında ne kadar bilgi edinilebileceği, o toplumun kayıt
 tutup tutmadığına bağlıdır.
 
 Bu örnekte varsayım kısmen çürütülür.[^k2] Toplum kayıt tutuyordu, kayıtlar
@@ -164,6 +153,14 @@ bugün büyük ölçüde okunamıyor.
 Belirleyici olan kayıt tutmak değil, kaydın okunma usulünün de
 aktarılabilir olmasıydı.[^k3] Yazı bu usulü metnin içine gömer; kipu
 gömmez ve bu fark, iki sistemin sonraki kaderini belirledi.
+
+## Yazıyla karıştırmamak için
+
+Kipu, alfabetik yazının eksik bir biçimi olarak değil, düğüm, renk, konum ve sayı
+ilişkileriyle çalışan ayrı bir kayıt teknolojisi olarak değerlendirilmelidir.[^k1]
+Bir ipin anlamı yalnız düğüm sayısından çıkarılamaz; kayıt bağlamı, onu üreten görevli
+ve aynı topluluğa ait karşılaştırmalı örnekler gerekir. Çözülmemiş işaretlere kesin
+anlam yüklemek, kayıt kapasitesi hakkındaki olasılığı kanıtlanmış okuma gibi sunar.[^k2]
 
 ## Okumayı sürdürmek için
 Karşıt kayıt biçimi için [Yazı sistemi](/kavram/yazi-sistemi/), sistemi

@@ -12,6 +12,10 @@ tarih_bitis: "1529"
 bolge: [dogu-asya]
 eksen: [felsefi, kulturel, siyasi]
 guven_geneli: yaygin
+kaynak_siniri: >-
+  Açık erişimde doğrulanabilir birincil eser metni bulunmadığı için bu yazı
+  listedeki akademik ikincil kaynaklarla sınırlıdır; Wang Yangming'in kendi
+  metninden doğrudan alıntı iddiası taşımaz.
 etiketler: [wang-yangming, neo-konfucyusculuk, bilgi-eylem, ortodoksi, sinav, ming]
 ilgili:
   - donem-09
@@ -50,7 +54,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne yaptığı
 
 Wang Yangming, kendi zamanında resmî doğru sayılan bir metin yorumunun
@@ -61,8 +64,7 @@ Bu bir örüntünün en açık örneğidir.[^k2] Bir yorumun
 resmî hâle gelmesi, ona karşı çıkacak kişilerin de o yorumun terimleriyle
 düşünmesini sağlar.
 
-Dosya bir hayat hikâyesi değildir.[^k3] Düşünürün ne söylediğini, kime karşı
-söylediğini ve bunun korpus için ne anlama geldiğini kaydeder.
+Dosya bir hayat hikâyesi değildir.[^k3]
 
 ## Karşı çıktığı konum
 
@@ -94,8 +96,7 @@ ezberlemiş olması, bu tanıma göre onu bilen kişi yapmaz.
 İddianın gücü, sınanabilir bir ölçüt sunmasındadır.[^k1] Bir kişinin neyi
 bildiği, söylediklerinden değil yaptıklarından okunur.
 
-Bu ölçüt tarihçinin işine yarar.[^k3] Bir düzenin ne iddia ettiği ile ne
-yaptığı arasındaki fark, korpusun sürekli ölçtüğü bir aralıktır.
+Bu ölçüt tarihçinin işine yarar.[^k3]
 
 Bir kaynağın beyan ettiği niyet, o
 kaynağın kaydettiği eylemle karşılaştırılmadan aktarılmaz.[^k1]
@@ -130,8 +131,8 @@ eleştirenlere de ortak bir söz dağarcığı verir.
 Karşı çıkan kişi, karşı çıktığı metni herkesten iyi bilmek zorundadır.[^k2]
 Bu zorunluluk, muhalefeti kanonun dışına değil içine yerleştirir.
 
-Örüntü korpusta başka yerlerde de görülür.[^k3] Resmî bir yorumun bulunduğu
-her yerde, ona en ciddi itiraz genellikle onu en iyi öğrenmiş olandan gelir.
+Resmî bir yorumun bulunduğu her yerde, ona en ciddi itiraz genellikle onu en iyi
+öğrenmiş olandan gelir.
 
 ## Askerî ve idari görevleri
 
@@ -204,20 +205,16 @@ terimlerini görünmez kılar.
 Önce tartışmanın kendi diliyle ne olduğu,
 sonra bugünün diliyle neye benzediği yazılır.[^k2]
 
-Bu incelemede ikinci katman özellikle kısa tutulmuştur.[^k1] Benzetmeler
-çoğaldıkça özgün konumun görünürlüğü azalır.
+Benzetmeler çoğaldıkça özgün konumun görünürlüğü azalır.
 
 ## Kaynak durumu
 
 Düşünürün öğrencileriyle konuşmalarının derlemesi, temel metindir.[^k1]
-Metnin doğrulanabilir çevrimiçi tam metin baskısı bu inceleme yazıldığında
-bulunamamıştır ve bu kısıt burada beyan edilir.
 
 Dosya bu nedenle ikincil kaynaklara dayanır.[^k2] Konumun aktarımı akademik
 bir ansiklopedi maddesi üzerinden yapılmıştır.
 
-Eksik, korpusun kaynak defterine yazılmıştır.[^k3] Birincil metin
-künyelenebilir hâle geldiğinde dosya güncellenmelidir.
+Birincil metin künyelenebilir hâle geldiğinde dosya güncellenmelidir.
 
 ## Doğuştan gelen ahlaki bilgi
 
@@ -257,22 +254,43 @@ konum, aynı ifadeyi kişinin kendi niyetlerinin düzeltilmesi olarak okur.
 Bir tartışmanın gerçekte nerede
 ayrıldığını görmek için, iki tarafın da kabul ettiği metne bakmak gerekir.[^k1]
 
-## Korpusta hangi soruya cevap verdiği
-
-Bu inceleme, düşünce tarihine değil kurum tarihine bakan bir soruya
-cevap verir.[^k2] Soru şudur: resmî bir doğru ilan edildiğinde ne olur.
+Soru şudur: resmî bir doğru ilan edildiğinde ne olur.
 
 Cevabın bu örnekteki hâli üç adımlıdır.[^k1] Yorum kurumsallaşır,
 kurumsallaşma onu tartışılmaz kılar, tartışılmazlık ona en iyi hâkim olanın
 itirazını üretir.
 
-Üç adım her yerde aynı sırayla işlemez.[^k2] Korpus örüntüyü bir yasa değil
-tekrar eden bir gözlem olarak kaydeder.
+Üç adım her yerde aynı sırayla işlemez.[^k2]
+
+## İçsel bilginin sınanması
+
+“İyiyi bilme” yetisinin insanda bulunması, Wang Yangming için kişinin her
+kararını doğru sayması demek değildir.[^k1] Bencil istekler ve korkular bu
+yetinin işleyişini örtebilir. Ahlaki eğitim bu yüzden dışarıdan yeni bir ilke
+yerleştirmekten çok, kişinin niyetini dikkatle incelemesi ve bildiğini eylemde
+sınaması olarak kurulur. Bir davranışın ardından gerekçe üretmekle, davranıştan
+önce kendini denetlemek aynı şey değildir.
+
+Bilgi ile eylemin birliği tezi burada pratik bir ölçüte dönüşür.[^k1] Acı
+çeken birine yardım etmenin doğru olduğunu söyleyip sürekli geri duran kişi,
+eksik bir bilgiye değil, henüz gerçekleşmemiş bir bilmeye sahiptir. Eylem,
+bilginin sonradan eklenen uygulaması değil; bilginin gerçekten var olduğunun
+kanıtıdır. Bu ölçüt, sınav başarısının ahlaki yeterlikle özdeşleşmesine doğrudan
+itiraz eder.[^k2]
+
+Yaklaşımın riski de aynı yerde doğar. Ölçüt içsel sezgiye fazlaca bağlanırsa,
+birbirine karşıt iki kişi kendi niyetini doğru sayabilir. Wang'ın cevabı tek
+başına içtenlik değil, sürekli öz-eleştiri, öğretmenle tartışma ve davranışın
+sonuçlarına bakmaktır.[^k1] Dolayısıyla öğreti, araştırmayı bütünüyle terk
+etmez; araştırmanın merkezini dış nesnelerden niyet ile eylem arasındaki
+tutarlılığa taşır. Bu fark, resmî müfredat eleştirisinin yalnız kuramsal değil,
+memurun kararlarına uygulanabilir bir etik olduğunu gösterir.
+
+Bu ölçüt, bilginin davranıştan bağımsız bir unvana dönüşmesini engeller.
 
 ## Kapsam dışı
 
-Düşünürün şiirleri ve edebî yazıları burada işlenmez.[^k3] Ayrı bir çalışma
-gerektirir ve bu incelemenin sorusuyla ilgili değildir.
+Düşünürün şiirleri ve edebî yazıları burada işlenmez.[^k3]
 
 Yönettiği askerî seferlerin ayrıntısı da kapsam dışıdır.[^k1] Seferler
 dosyada yalnızca kuram ile uygulamanın aynı kişide birleşmesi bakımından
@@ -285,17 +303,9 @@ zincirinin tamamı ayrı dosyalar gerektirir.
 Dosya bir konumu savunmaz ve çürütmez.[^k2] İddiayı, iddiaya yöneltilen
 itirazı ve ikisinin de açık bıraktığı noktayı kaydeder.
 
-Düşünürün önemi hakkında bir sıralama da yapılmaz.[^k1] Korpus, düşünürleri
-etkilerine göre derecelendirmez; ne söylediklerini ve hangi soruya cevap
-verdiklerini yazar.
+Düşünürün önemi hakkında bir sıralama da yapılmaz.[^k1]
 
-Bu inceleme bir başka dosyayla birlikte okunmak üzere yazılmıştır.[^k2] Tek
-başına okunduğunda, karşı çıkılan konum yeterince görünmez.
-
-## Okumayı sürdürmek için
-Karşı çıkılan resmî yorum ve onu müfredat hâline getiren düzen için
-[Zhu Xi](/dusunur/zhu-xi/) dosyası okunmalıdır; bu inceleme onsuz
-eksiktir.[^k2]
+Tek başına okunduğunda, karşı çıkılan konum yeterince görünmez.
 
 Geleneğin kurucu metinleri ve terimleri için
 [Konfüçyüsçülük](/kavram/konfucyuscluk/), [Konfüçyüs](/dusunur/konfucyus/)

@@ -446,11 +446,25 @@
       ],
       "guven": "orta",
       "inceleme": "Karsiolgusal cikarimin kaynak tasimadigi metinde acikca beyan edilir; kunyeler yalnizca cikarimin dayandigi belgeleri gosterir."
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "Merkezî sav budur: veto sonradan eklenmiş bir kusur değil, büyük güçlerin kurumun içinde kalmasının bedelidir — ve kapsamı 1945 Haziranında ayrıca pazarlık edilmiştir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k3 Haziran 1945'te veto kapsamı üzerindeki pazarlığı doğrudan belgeler; vetonun büyük güçleri içeride tutmanın bedeli olduğu sonuç cümlesi yorumdur."
     }
   ],
   "sayaclar": {
     "dogrudan": 28,
-    "kismi": 1,
+    "kismi": 2,
     "desteksiz": 0,
     "olculemez": 2
   }

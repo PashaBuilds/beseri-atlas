@@ -50,16 +50,14 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne oldu
 
 1511 yazında bir Avrupa donanması, Hint Okyanusu ile Güney Çin Denizi'ni
 birbirine bağlayan boğazın kıyısındaki limanı kuşattı ve birkaç hafta içinde
 ele geçirdi.[^k1][^k3] Şehri elinde tutan sultanlık sona erdi.
 
-Olayın korpus açısından ayırt edici yanı, hedefin bir toprak değil bir geçit
-olmasıdır.[^k3] Sefer, iç bölgeyi almak için değil boğazı denetlemek için
-yapılmıştı ve bu, dönemin Avrupa deniz stratejisinin tipik hedefiydi.
+Sefer, iç bölgeyi almak için değil boğazı denetlemek için yapılmıştı ve bu, dönemin
+Avrupa deniz stratejisinin tipik hedefiydi.[^k1]
 
 Bu hedef seçimi, dosyanın merkezindeki soruyu doğurur.[^k1] Bir geçidi
 denetlemek, o geçitten geçen ticareti denetlemeye yeter mi?
@@ -104,13 +102,9 @@ tarafsızlıktır ve tarafsızlık, savaş anında savunulacak bir şey bırakma
 
 ## Kaybeden tarafın kaydı
 
-Bu incelemenin birincil kaynağı, sultanlığın kendi saray anlatısıdır.[^k2]
-Anlatı, olayı hanedanın bakış açısından verir ve düşüşü bir dizi hata ile
-açıklar.
+Anlatı, olayı hanedanın bakış açısından verir ve düşüşü bir dizi hata ile açıklar.
 
-Kaybeden tarafın kendi kaydının bulunması, korpusun olay dosyalarında seyrek
-karşılaşılan bir durumdur.[^k2] Fetih anlatılarının çoğu yalnızca fetheden
-tarafın kaydından bilinir.
+Fetih anlatılarının çoğu yalnızca fetheden tarafın kaydından bilinir.
 
 Kaydın taraflılığı da bellidir.[^k2] Metin hanedanın meşruiyetini korumak
 üzere yazılmıştır ve yenilgiyi kişisel hatalara bağlaması, yapısal
@@ -144,9 +138,7 @@ gittiğiydi.
 
 ## Silahlı ticaretin başlangıcı
 
-Olayın korpus açısından ikinci sonucu, ticaretin silahla birlikte
-yürütülmesinin bölgede yerleşmesidir.[^k3] Bu tarihe kadar okyanus
-ticaretinde donanma gücü belirleyici değildi.
+Bu tarihe kadar okyanus ticaretinde donanma gücü belirleyici değildi.
 
 Değişimin sebebi teknolojik olduğu kadar örgütseldir.[^k3] Gemiye top koymak
 tek başına yeterli değildir; ticaret gelirini askerî harcamaya bağlayan bir
@@ -157,18 +149,13 @@ gelirin askerî güce sistemli biçimde geri yatırılmasıydı.[^k1]
 
 ## Adlandırma sorunu
 
-Olayın nasıl adlandırılacağı tartışmalıdır ve korpus bir ad seçmek
-zorundadır.[^k3] Fetih, alınma, ele geçirme ve istila, aynı olay için
-kullanılan ve farklı şeyler ima eden adlardır.
+Fetih, alınma, ele geçirme ve istila, aynı olay için kullanılan ve farklı şeyler ima
+eden adlardır.
 
-::tartismali[Olayın hangi adla anılacağı, olayı hangi tarafın kaydından
-okuduğunuza bağlıdır ve seçilen ad kendi değerlendirmesini de taşır. Korpus
-yerleşmiş adı kullanır ve itirazı yanına
-yazar.]{harita=tartisma-kesif-mi-istila-mi}
+::tartismali[Olayın hangi adla anılacağı, olayı hangi tarafın kaydından okuduğunuza bağlıdır ve seçilen ad kendi değerlendirmesini de taşır.]{harita=tartisma-kesif-mi-istila-mi}
 
-Bu tutum korpusun genel kuralıdır.[^k1] Yerleşmiş bir adı kullanmak onu
-onaylamak değildir; sessizce değiştirmek ise sorunu çözmek değil gizlemek
-olurdu.
+Yerleşmiş bir adı kullanmak onu onaylamak değildir; sessizce değiştirmek ise sorunu
+çözmek değil gizlemek olurdu.
 
 ## Ölçek sorunu
 
@@ -197,27 +184,22 @@ değiştirir.
 
 ## Kaynak durumu
 
-Bu inceleme üç kaynağa dayanır ve biri birincildir.[^k2] Birincil kaynak
-kaybeden tarafın saray anlatısıdır; fetheden tarafın çağdaş kayıtları
+Birincil kaynak kaybeden tarafın saray anlatısıdır; fetheden tarafın çağdaş kayıtları
 künyeye alınamamıştır.
 
 Bu, dosyanın kaynak dengesini tek yönlü bırakır ve burada beyan
 edilir.[^k3] Fetheden tarafın kayıtlarından gelen bilgiler, giriş kapısı
 maddesinin aktarımıyla sınırlıdır.
 
-Kısıtın sebebi erişimdir, kayıt yokluğu değil.[^k1] Dönemin Portekizce
-kayıtları bilinmektedir; doğrulanabilir ve tam metin bir baskısı bu inceleme
-yazıldığında bulunamamıştır.
+Kısıtın sebebi erişimdir, kayıt yokluğu değil.[^k1]
 
 ## Açıkta kalan sorular
 Kuşatmanın günlük seyri ve askerî ayrıntıları burada işlenmez.[^k3] Ayrı bir
 dosya gerektirir.
 
-Şehrin sonraki sömürge dönemi de kapsam dışıdır.[^k1] Bu inceleme bir olayı
-konu edinir; şehrin sonraki dört yüzyılını değil.
+Şehrin sonraki sömürge dönemi de kapsam dışıdır.[^k1]
 
-Seferi düzenleyen devletin kendi tarihi burada verilmez.[^k3] Bu inceleme
-yazıldığında korpusta ayrı bir dosyası bulunmuyordu.
+Seferi düzenleyen devletin kendi tarihi burada verilmez.[^k3]
 
 ## Öncesindeki elçilik girişimi
 
@@ -263,7 +245,35 @@ mantığını ve başarısızlığının nedenini görünmez kılar.[^k3] Aynı 
 geçitte alınan sonuç farklıydı ve fark, geçidin coğrafi yapısından değil oradaki siyasi
 düzenin donanma kapasitesinden geliyordu.[^k1]
 
+## Bir düğümü almak ağı bütünüyle ele geçirmek değildir
+
+Malakka Boğazı dar bir geçit olsa da ticaret tek limandan oluşmuyordu. Portekiz
+şehri ve tahkimatı ele geçirdiğinde gümrük, depo ve askerî denetim için güçlü bir
+düğüm kazandı; fakat Malay, Cava, Gujarati, Çinli ve başka tüccarlar rotalarını
+Aceh, Johor, Banten ve bölgedeki başka limanlara kaydırabildi.[^k1][^k3] Ticaretin
+devam etmesi fethin önemsizliğini değil, ağın yeni merkezler üretebilme yeteneğini
+gösterir.
+
+Portekiz üstünlüğü gemi topu kadar bilgi, tercüman, yerel ittifak ve şehir içi
+bölünmelere dayanıyordu. Limanın kozmopolit yapısı geniş ticaret sağlarken kriz
+anında bütün grupların aynı savunma çıkarında birleşmesini zorlaştırdı. Bu yüzden
+“Avrupa teknolojisi Asya'yı yendi” hükmü, yerel siyaseti ve Portekiz'in zaten var
+olan Hint Okyanusu ticaretine bağımlılığını siler.[^k1]
+
+Fetih sonrasında ruhsat, vergi ve silahlı denetim girişimi ticareti devlet zoruyla
+daha doğrudan bağladı. Yine de Portekiz hiçbir zaman bütün denizi kapatan tek
+egemen olmadı. Malay yıllıkları kaybeden sarayın hafıza ve meşruiyetini, Portekiz
+kayıtları seferin hedef ve başarısını farklı biçimde kurar.[^k2] İki tarafın
+sessizlikleri, liman topluluklarının deneyimini yeniden kurmak için üçüncü kayıtları
+gerekli kılar.
+
+Hollanda'nın 1641'de Malakka'yı alması da limanın değerinin sabit olmadığını
+gösterir. Ticaret merkezi, askerî üs ve boğaz denetimi aynı mekânda bulunsa da
+bölgesel ağdaki ağırlıkları değişebilir. *Stratejik konum* belirli rota, gemi
+teknolojisi ve rakip limanlarla birlikte anlam kazanır.[^k1]
+
 ## Okumayı sürdürmek için
+
 Sona eren siyasi düzen için
 [Malaka Sultanlığı](/aktor/malaka-sultanligi/), ticaretin kaydığı yön için
 [Açe Sultanlığı](/aktor/ace-sultanligi/) dosyaları okunmalıdır.[^k1]

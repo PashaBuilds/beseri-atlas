@@ -421,7 +421,7 @@ bulunmadığı anlamına gelmez.[^k5]
 
 ## Kapasitenin terk edilmesi
 
-Seferlerin durdurulması, korpusta sık tartışılan bir örnektir.[^k1]
+Seferlerin durdurulması, kapasite ile tercih arasındaki farkın güçlü bir örneğidir.[^k1]
 Karar, iç önceliklerin değişmesiyle açıklanır.
 
 Karşı görüş, seferlerin zaten sürdürülemez maliyette olduğunu
@@ -457,9 +457,8 @@ aktarım zincirini kısaltma eğilimindedir.[^k5]
 Yüzyılın ortasında hareketli harfle basım yaygınlaştı.[^k1] Etkisi bu
 dönemde değil sonraki dönemde belirginleşti.
 
-Bu, korpusun tekrar eden bir ölçümüdür.[^k5] Bir teknik değişimin
-etkisi, icat tarihinde değil yaygınlaştığı tarihte
-ölçülür.
+Bir teknik değişimin tarihsel etkisi, icat edildiği anda değil yaygınlaştığı
+dönemde ölçülür.[^k5]
 
 İcat ile yaygınlaşma arasındaki aralık, çoğu
 zaman bir kuşaktan uzundur.[^k3]
@@ -480,8 +479,8 @@ kayıtlarının artması hem olgunun hem kayıt pratiğinin sonucudur.[^k5]
 Dosya bir soruyla kapanır.[^k1] Aynı demografik şok neden farklı
 bölgelerde karşıt kurumsal sonuçlar verdi.
 
-Cevap, şokun kendisinde değil üzerine düştüğü yapıdadır.[^k5] Bu, korpusun
-başka dosyalarında da tekrarlanan bir bulgudur.
+Cevap, şokun kendisinde değil üzerine düştüğü yapıdadır; benzer şoklar farklı
+kurumlarda karşıt sonuçlar üretebilir.[^k5]
 
 Aynı nedenin farklı sonuçlar vermesi, nedenin yeterli
 olmadığını gösterir.[^k3]
@@ -596,9 +595,8 @@ artırabilir.[^k3]
 Çift girişli defter, bir işlemin iki tarafını birden kaydeder.[^k1]
 Bu, hatayı kendiliğinden görünür kılar.
 
-Teknik, korpusun kendi yöntemine yakındır.[^k5] Bir kaydın kendi içinde
-tutarlılık sınavı taşıması, dışarıdan doğrulama ihtiyacını
-azaltır.
+Kaydın kendi içinde bir tutarlılık sınavı taşıması, dışarıdan doğrulama
+ihtiyacını azaltır; yine de bütünüyle ortadan kaldırmaz.[^k5]
 
 İyi bir kayıt düzeni, yalnızca bilgi
 saklamaz; kendi hatasını da gösterir.[^k3]
@@ -609,8 +607,8 @@ Batıda birkaç kent devleti, kendilerinden çok büyük düzenlerle
 pazarlık edebilir hâle geldi.[^k1] Güçleri topraktan değil ticaret ve
 kredi kapasitesinden geliyordu.
 
-Bu, korpusun ağ tipi hâkimiyet dosyasındaki yapıya yakındır.[^k5] Küçük
-alan, büyük bağlantı.
+Bu, ağ tipi hâkimiyetin temel yapısıdır: küçük bir alan, büyük bir bağlantı
+kapasitesini denetleyebilir.[^k5]
 
 Bir düzenin ağırlığı yüzölçümünden değil
 bağlantılarının menzilinden okunur.[^k3]
@@ -685,6 +683,32 @@ bölgelere uzatılamaz.
 
 Bir bölge için ölçülen bir oranı
 bütün kıtaya uygulamak, ölçümü değil varsayımı yaymaktır.[^k5]
+
+## Felaketin içinden çıkan yeni yoğunlaşma
+
+Kara Ölüm, 1350–1500 aralığının başlangıcını belirleyen ortak şoktur; fakat sonuçları
+her bölgede aynı olmadı. Avrupa'nın bazı kesimlerinde nüfus kaybı emeğin pazarlık
+gücünü artırırken toprak ve ücret düzenlerini sarstı; başka yerlerde yönetimler
+hareketliliği sınırlamaya ve eski yükümlülükleri korumaya çalıştı.[^k1] Nüfusun
+yeniden büyümesi uzun sürdü ve tek bir salgın dalgasıyla tamamlanmadı.[^k3] Bu nedenle
+vebayı otomatik olarak özgürlük veya kapitalizm üreten bir neden saymak, kurumların
+verdiği farklı tepkileri atlar.
+
+Aynı yüzyıllar siyasal yoğunlaşmanın da dönemidir. Osmanlı hanedanı Balkanlar ile
+Anadolu'da genişlerken Ming yönetimi Çin'de Moğol döneminin ardından yeni bir
+merkezî düzen kurdu.[^k2] İtalya kentlerindeki sanat ve metin üretiminin sonradan
+“Rönesans” adı altında birleştirilmesi, dönemin kültürel yeniliklerini görünür kılar;
+ancak bu etiketi dünya çapında eşzamanlı bütün üretimlerin ölçüsü yapmak doğru
+değildir. İbn Battûta'nın daha erken seyahatinde görülen Afrika–Asya bağlantıları,
+Avrupa deniz açılımından önce de çok merkezli ticaret dünyalarının bulunduğunu
+gösterir.[^k4] Bu aralık böylece bir geçiş koridorudur: salgın eski dengeleri
+bozarken imparatorluklar, kentler ve ticaret çevreleri yeni kaynak toplama biçimleri
+kurdu; 1500 sonrasındaki okyanus ölçekli rekabet bu zeminde hızlandı.
+
+Nüfus kaybı ile siyasal büyümenin aynı döneme sığması önemli bir uyarıdır: demografik
+daralma devlet oluşumunu kendiliğinden durdurmadı. Yönetimler daha az insan ve gelir
+için rekabet ederken kayıt, vergi ve asker toplama yöntemlerini yeniden düzenledi;
+kriz kurumsal yeniliği ve daha sıkı toplumsal denetimi de zorladı.[^k2][^k3]
 
 ## Fikir dünyası
 

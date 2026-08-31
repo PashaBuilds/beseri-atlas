@@ -51,7 +51,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Karluklar, yedinci yüzyıldan itibaren Orta Asya'nın kuzeydoğusunda
@@ -61,8 +60,7 @@ yer alan bir boy birliğidir.[^k1] Birlik, adından da anlaşılacağı üzere b
 Karluklar bağımsız bir kağanlık kurmadı.[^k3] Bölgedeki büyük düzenlerin
 içinde ya da onlarla ittifak hâlinde hareket ettiler.
 
-Bu incelemenin asıl konusu kaynak durumudur.[^k2] Topluluk hakkında
-bilinenlerin neredeyse tamamı, komşularının kayıtlarında geçen
+Topluluk hakkında bilinenlerin neredeyse tamamı, komşularının kayıtlarında geçen
 anılmalardan gelir.
 
 ## Tek cümleye sıkışmak
@@ -84,26 +82,20 @@ Taraf değiştirme iddiası, olaydan sonra ve olayın taraflarından biri
 tarafından yazılmış kaynaklara dayanır.[^k3] Çağdaş ve tarafsız bir
 kayıt bulunmamaktadır.
 
-Bu, iddianın yanlış olduğu anlamına gelmez.[^k1] Doğrulanmamış olduğu
-anlamına gelir ve korpus iki durumu ayrı işaretler.
+Bu, iddianın yanlış olduğu anlamına gelmez.[^k1]
 
-Aynı iddia, savaşın sonucunu açıklama ihtiyacını da karşılar.[^k2] Bir
-yenilgiyi bir ihanetle açıklamak, açıklamanın kolay ve tatmin edici
-biçimidir; korpus bu tür açıklamalara ayrıca dikkat eder.
+Aynı iddia, savaşın sonucunu açıklama ihtiyacını da karşılar.[^k2]
 
 ## Savaşın kendisi
 
-Söz konusu savaş, sekizinci yüzyıl ortasında bölgede karşılaşan iki
-büyük ordunun çatışmasıdır.[^k3] Korpus savaşı ayrı bir dosyada
-künyeler.
+Söz konusu savaş, sekizinci yüzyıl ortasında bölgede karşılaşan iki büyük ordunun
+çatışmasıdır.[^k3]
 
 Savaşın sonucunun bölgeyi kalıcı biçimde değiştirdiği yaygın olarak
 söylenir.[^k1] Bu iddia da tartışmalıdır ve ilgili dosyada ele
 alınır.
 
-Bu inceleme savaşı yalnızca kaynak sorunu bakımından ele alır.[^k2]
-Karluklar hakkındaki en çok tekrarlanan cümlenin dayanağı burada
-incelenir.
+Karluklar hakkındaki en çok tekrarlanan cümlenin dayanağı burada incelenir.
 
 ## Boy birliği olmanın anlamı
 
@@ -111,9 +103,7 @@ Karluklar tek bir boy değil, birden çok boyun oluşturduğu bir
 birliktir.[^k1] Birlik, ortak bir ad altında hareket eder ama tek bir
 merkezden yönetilmez.
 
-Bu yapı, korpusun Mapuçe dosyasında ölçtüğü örgütlenmeyle aynı
-ailedendir.[^k3] Yerel birimler kendi düzenlerini korur ve ortak hareket
-her seferinde yeniden sağlanır.
+Yerel birimler kendi düzenlerini korur ve ortak hareket her seferinde yeniden sağlanır.
 
 Yapının kaynaklara yansıması da benzerdir.[^k2] Dışarıdan bakan bir
 gözlemci tek bir muhatap arar ve bulamadığında topluluğu tutarsız ya da
@@ -125,8 +115,7 @@ Taraf değiştirme iddiasının bir bölümü bu yapıdan doğmuş
 olabilir.[^k1] Birliğin bir boyunun aldığı karar, dışarıdan bakan için
 bütün birliğin kararı gibi görünür.
 
-Bu, bir yorum önerisidir ve kanıtlanmamıştır.[^k3] Korpus öneriyi kaydeder
-ve doğrulanmadığını yazar.
+Bu, bir yorum önerisidir ve kanıtlanmamıştır.[^k3]
 
 Önerinin değeri, iddiayı çürütmesinde değil alternatif bir okuma
 sunmasındadır.[^k2] Tek bir okumaya bağlı kalmak, o okumanın
@@ -147,9 +136,7 @@ sayısına ve aralarındaki rekabete bağlı olabilir.[^k3]
 
 ## Coğrafi konum
 
-Topluluk, bozkır ile yerleşik bölgeler arasındaki geçiş kuşağında
-bulunuyordu.[^k1] Bu kuşak, korpusun çok sayıda dosyasında siyasi
-hareketlerin çıktığı yer olarak kaydedilmiştir.
+Topluluk, bozkır ile yerleşik bölgeler arasındaki geçiş kuşağında bulunuyordu.[^k1]
 
 Konum, Karlukları hem ticaret hatlarına hem askerî güzergâhlara
 yakın kılıyordu.[^k2] İki büyük gücün sınır bölgesinde bulunmak,
@@ -183,9 +170,7 @@ zinciri olabileceği gibi gerçek bir devamlılığı da gösterebilir.[^k3]
 
 ## Köken iddialarının yapısı
 
-Bu, korpusun bozkır dosyalarında tekrar eden bir sorundur.[^k1] Hanedanlar,
-meşruiyetlerini önceki büyük düzenlere bağlayan soy iddiaları
-üretir.
+Hanedanlar, meşruiyetlerini önceki büyük düzenlere bağlayan soy iddiaları üretir.
 
 İddianın üretilmiş olması, dayanaksız olduğunu göstermez.[^k2] Bir
 devamlılık gerçekten varsa, ondan meşruiyet çıkarmak da olağandır.
@@ -198,8 +183,7 @@ arkeolojik bulgu bu ölçütlerdir; burada üçü de kesin sonuç vermez.[^k3]
 Topluluğun bir bölümü onuncu yüzyılda İslam'ı benimsedi.[^k1] Değişim,
 bölgedeki siyasi ilişkilerin yönünü de etkiledi.
 
-Bu, korpusun Orta Asya dosyalarında tekrar eden bir eşiktir.[^k2] Din
-değişimi, yerleşik güneyle kurulan ilişkinin biçimini değiştirir.
+Din değişimi, yerleşik güneyle kurulan ilişkinin biçimini değiştirir.
 
 Değişimin kapsamı ve hızı belirsizdir.[^k3] Kaynaklar hanedan düzeyinde
 bilgi verir; nüfusun geneli hakkında ayrıntı bulunmaz.
@@ -210,8 +194,7 @@ Topluluğun kendi dilinde bıraktığı kayıt yok denecek kadar
 azdır.[^k1] Aynı bozkır geleneğinden çıkan komşu düzenler uzun yazıtlar
 bırakmıştır.
 
-Fark, korpusun Hazarlar dosyasında ölçtüğü durumun aynısıdır.[^k3] Kayıt
-bırakmamak, yazıyı bilmemek anlamına gelmez.
+Kayıt bırakmamak, yazıyı bilmemek anlamına gelmez.
 
 Kayıt hiç üretilmemiş de olabilir,
 üretilip korunmamış da; elde bulunan kanıt ayrımı yapmaya yetmez.[^k2]
@@ -222,8 +205,7 @@ Kaynaklarda geçen ad, tek bir topluluğu mu yoksa bir siyasi çatı
 altındaki birden çok boyu mu karşıladığı açık değildir.[^k1] Bozkır
 düzenlerinde ad, çoğu zaman etnik değil siyasi bir birimi gösterir.
 
-Aynı belirsizlik korpusun Hazarlar ve Uygur dosyalarında da
-kaydedilmiştir.[^k2] Örüntü bölgeye özgüdür ve tekrarlanır.
+Örüntü bölgeye özgüdür ve tekrarlanır.
 
 Bir adın kaynaklardan çekilmesi, o adla
 anılanların yok olduğunu göstermez.[^k3]
@@ -236,8 +218,7 @@ Topluluğun bulunduğu bölge, doğu-batı ticaret hatlarının
 Bu, topluluğa doğrudan gelir sağlıyordu.[^k1] Geçiş vergisi ve
 korumacılık, bozkır düzenlerinde yaygın gelir kalemleridir.
 
-Gelirin ölçüsü bilinmemektedir.[^k3] Dönem için gümrük kaydı
-bulunmamaktadır ve korpus sayı vermez.
+Gelirin ölçüsü bilinmemektedir.[^k3]
 
 ## Sonun biçimi
 
@@ -251,8 +232,6 @@ Bir siyasi birimin sona ermesi ile o
 birimi oluşturan nüfusun ortadan kalkması ayrı iki olgudur ve kaynaklarda sık sık
 birleştirilir.[^k3]
 
-## Bu incelemenin kaydettiği
-
 Dosya, bir topluluk hakkında yazılabilecek olanın kaynak durumuyla
 sınırlı olduğunu gösterir.[^k1] Karluklar için elde bulunan kayıt,
 komşularının ilgi duyduğu anlarla sınırlıdır.
@@ -260,15 +239,11 @@ komşularının ilgi duyduğu anlarla sınırlıdır.
 Sonuç, dosyanın kendi biçimine de yansır.[^k3] Bölümlerin çoğu bir
 olguyu değil, bir olgunun neden belirlenemediğini kaydeder.
 
-Bu, korpusun kanıt dosyasında tanımlanan kısıtın doğrudan
-uygulanmasıdır.[^k2] Elde bulunan kanıtın türü, sorulabilecek soruları
-da belirler.
+Elde bulunan kanıtın türü, sorulabilecek soruları da belirler.
 
 ## Dosyanın kendi biçimi
 
-Bu incelemenin bölümlerinin çoğu bir olgu değil, bir olgunun neden
-belirlenemediğini kaydeder.[^k1] Bu, yazma tercihi değil kaynak
-durumunun sonucudur.
+Bu, yazma tercihi değil kaynak durumunun sonucudur.
 
 Alternatif, boşlukları makul tahminlerle doldurmaktır.[^k3] Bu yol
 metni akıcı kılar ve okura kanıtın gerçekte olduğundan güçlü olduğu
@@ -279,12 +254,9 @@ dayandığını bilmeden onu değerlendiremez.[^k2]
 
 ## Kaynak durumu
 
-Bu incelemenin üç künyesinin üçü de ansiklopedi maddesidir.[^k1] Birincil
-kaynak künyelenememiştir.
+Birincil kaynak künyelenememiştir.
 
 Dönemin Arapça ve Farsça coğrafya metinlerinde topluluk anılır.[^k2]
-Doğrulanabilir çevrimiçi baskıları bu inceleme yazıldığında
-bulunamamıştır.
 
 Eksik borç defterine yazılmıştır.[^k3] Dosya, birincil kaynağı olmayan
 makaleler grubundadır.
@@ -326,3 +298,34 @@ okunabilir.[^k3]
 
 Aynı dönemde bölgede bulunan bir başka düzen için
 [Uygur Kağanlığı](/aktor/uygur-kaganligi/) dosyası okunmalıdır.[^k2]
+
+## Talas’taki bir andan daha uzun bir tarih
+
+Karlukları yalnız 751 Talas Savaşı’nda taraf değiştiren birlik olarak anlatmak,
+boylar birliğinin Orta Asya’daki uzun siyasal rolünü tek muharebenin dipnotuna
+indirger. Karluk grupları Göktürk ve Uygur düzenleriyle rekabet, ittifak ve göç
+ilişkisi kuruyor; otlak, kent ve ticaret yolları arasında hareket ediyordu.[^k1][^k3]
+
+“Taraf değiştirme” anlatısı da kaynak ve zamanlama açısından sınanmalıdır.
+Muharebe sırasında hangi grubun ne anda hangi amaçla hareket ettiği, sonraki
+kroniklerin siyasi çerçevesinden bağımsız değildir. Savaşın sonucunu tek başına
+Karluk kararına bağlamak ikmal, komuta, yerel ittifak ve iki imparatorluğun daha
+geniş stratejisini görünmez kılar. [Talas Savaşı](/olay/talas-savasi/) bu iddianın
+kanıt zincirini ayrıca açar.[^k1]
+
+Karluk çevresinden Karahanlı siyasal düzenine geçiş, “boy bir anda devlete
+dönüştü” biçiminde okunmamalıdır.[^k1][^k2] Hanedan, dinî dönüşüm, şehirli vergi
+kurumları ve Türkçe siyasal kültür zaman içinde birleşti. Aynı ad altında farklı
+gruplar ve bağlılıklar bulunabileceğinden, Karluk kimliği sabit biyolojik soy
+değil, tarih içinde yeniden kurulan siyasal ve toplumsal birlik olarak ele
+alınmalıdır.
+
+Adın sonraki kaynaklarda yaşamaya devam etmesi, aynı siyasi birliğin kesintisiz
+korunduğunu kanıtlamaz. Boy adı, hanedan bağlılığı, dil ve yerleşim için ayrı
+kanıtlar gerekir; benzer adlar farklı dönemlerde farklı koalisyonları örtebilir.
+
+Bu ayrım yapılmadan soy, dil ve devlet devamlılığı aynı cümlede birbirine karışır.
+
+Her devamlılık iddiası kendi kanıt dizisini gerektirir.
+
+Ad benzerliği tek başına yeterli değildir.

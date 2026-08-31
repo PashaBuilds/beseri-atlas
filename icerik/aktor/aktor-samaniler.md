@@ -52,23 +52,18 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Nerede durduğu
 
-Sâmânîler, Mâverâünnehir ve Horasan'da hüküm süren, merkezini Buhara'ya
-yerleştirmiş bir hanedandır.[^k1] Korpusun bölge şemasında Orta Asya ile İslam
-dünyasının kesiştiği yerde durur; iki bölge etiketi birden taşımasının sebebi
-budur.
+Sâmânîler, Mâverâünnehir ve Horasan'da hüküm süren, merkezini Buhara'ya yerleştirmiş bir
+hanedandır.[^k1]
 
 Hanedan, Abbasi halifeliğine bağlılığını sürdürürken fiilî bağımsızlığını
 korumuştur.[^k1] Bu ikili yapı, dönemin siyasi biçimini anlamak için
 belirleyicidir: bağlılık ile bağımsızlık aynı anda var olabilmektedir ve
 biri ötekini geçersiz kılmamaktadır.
 
-[Abbasi Hilafeti](/aktor/abbasi-hilafeti/) dosyası merkezî otoritenin
-zayıflamasını kendi tarafından anlatır; bu inceleme aynı süreci çevreden
-bakarak tamamlar. İki dosyanın birlikte okunması, "çöküş" ve "yükseliş"
-anlatılarının çoğu zaman aynı olgunun iki yüzü olduğunu gösterir.
+İki dosyanın birlikte okunması, "çöküş" ve "yükseliş" anlatılarının çoğu zaman aynı
+olgunun iki yüzü olduğunu gösterir.
 
 ## Buhara: başkent ve üretim merkezi
 
@@ -77,17 +72,12 @@ merkezine dönüşmüştür.[^k2] Şehrin bu niteliği, hanedanın sağladığı
 ile doğrudan ilişkilidir; saray çevresinde toplanan âlimler, kütüphaneler ve
 istinsah faaliyeti aynı ekonomik zeminden beslenir.[^k1][^k2]
 
-Bu zeminin korpus açısından önemi, düşünür dosyalarıyla kurduğu bağdadır.
-[İbn Sînâ](/dusunur/ibn-sina/) bu çevrede yetişmiştir; [Bîrûnî](/dusunur/biruni/)
-aynı yılların bir başka merkezinde çalışmıştır.[^k1] Bir bölgenin belirli bir
-yüzyılda yoğun üretim yapması, korpusun başka dosyalarda da sorduğu bir sorudur
-ve tek bir sebeple açıklanmaz.
+[İbn Sînâ](/dusunur/ibn-sina/) bu çevrede yetişmiştir; [Bîrûnî](/dusunur/biruni/) aynı
+yılların bir başka merkezinde çalışmıştır.[^k1]
 
-Dönemin ilim üretiminin niteliği hakkında, o yılların içinden yazılmış bir
-metin de elimizdedir: takvimleri ve halkların kayıtlarını karşılaştıran bir
-eser, aynı coğrafyada ve aynı kuşakta üretilmiştir.[^k3] Bu eser hanedanın
-siyasi tarihini anlatmaz; yalnızca dönemin ilmî yoğunluğunun bir örneğidir ve
-bu incelemede yalnızca bu amaçla kullanılmıştır.
+Dönemin ilim üretiminin niteliği hakkında, o yılların içinden yazılmış bir metin de
+elimizdedir: takvimleri ve halkların kayıtlarını karşılaştıran bir eser, aynı coğrafyada
+ve aynı kuşakta üretilmiştir.[^k3]
 
 ## Farsçanın yazı dili olarak dönüşü
 
@@ -96,10 +86,8 @@ dili olarak yeniden yükselmesidir.[^k1] Arapçanın ilim dili olmayı
 sürdürdüğü bir ortamda, ikinci bir yazı dilinin kurumsallaşması,
 tek dilli bir kültür tasavvurunun bu coğrafya için yanlış olduğunu gösterir.
 
-İki dilin yan yana durması, korpusun kültürel eksen etiketini bu incelemeye
-eklemesinin dayanağıdır. Siyasi bir birimin kültürel etkisi, sınırlarının
-nereye kadar uzandığıyla değil, hangi dilin hangi işlevde kullanıldığıyla da
-ölçülebilir.[^k1]
+Siyasi bir birimin kültürel etkisi, sınırlarının nereye kadar uzandığıyla değil, hangi
+dilin hangi işlevde kullanıldığıyla da ölçülebilir.[^k1]
 
 ## Ordu ve gulâm sistemi
 
@@ -108,15 +96,12 @@ merkezî bir yer tutar.[^k1] Bu düzenin sonuçları hanedanın kendi sonunu da
 ilgilendirir: askerî gücün hanedan dışından devşirilmesi, uzun vadede o gücün
 kendi siyasi iddiasını doğurmasına zemin hazırlar.[^k1]
 
-Aynı yapı Abbasi merkezinde de görülmüştür.[^k1] Bir kurumun iki ayrı siyasi
-birimde benzer sonuçlar üretmesi, korpusun kurumları aktörlerden ayrı bir
-katmanda tutmasının gerekçelerinden biridir.
+Aynı yapı Abbasi merkezinde de görülmüştür.[^k1]
 
-**Tartışmalı.** Sâmânî döneminin "Fars rönesansı" olarak adlandırılması yaygın ama tartışmalı
-bir yorumdur. Adlandırma, bir kesintinin ardından gelen bir canlanma varsayar;
-kesintinin gerçekten yaşanıp yaşanmadığı ve canlanmanın ne ölçüde yeni olduğu
-ayrı sorulardır. Korpus bu adlandırmayı kullanmaz ve olguyu adlandırmadan
-kaydeder.[^k1]
+**Tartışmalı. ** Sâmânî döneminin *Fars rönesansı* olarak adlandırılması yaygın ama
+tartışmalı bir yorumdur. Adlandırma, bir kesintinin ardından gelen bir canlanma
+varsayar; kesintinin gerçekten yaşanıp yaşanmadığı ve canlanmanın ne ölçüde yeni olduğu
+ayrı sorulardır.[^k1]
 
 ## Çözülme ve devralanlar
 
@@ -125,32 +110,16 @@ gelmiştir.[^k1] Kuzeydoğudan ve güneyden gelen iki ayrı siyasi birim,
 toprakların paylaşılmasında belirleyici olmuştur; hanedanın merkez bölgesi ile
 güneydeki toprakları farklı ellere geçmiştir.[^k1]
 
-Bu bölünme, korpusun dönem şemasında bir dönemin sonunu ve sonrakinin
-başlangıcını işaretleyen olaylardan biridir.[^k1] [Dönem 06](/donem/06/)
-dosyası aynı yılları bütün bölgeler üzerinden anlatır; bu inceleme yalnızca bir
-bölgesini derinleştirir.
+Devralanların hanedanın kurumlarını büyük ölçüde sürdürmesi,[^k1] siyasi birimin
+değişmesinin idari sürekliliği zorunlu olarak kesmediğini gösterir.
 
-Devralanların hanedanın kurumlarını büyük ölçüde sürdürmesi,[^k1] siyasi
-birimin değişmesinin idari sürekliliği zorunlu olarak kesmediğini gösterir.
-Korpus bu ayrımı korur: bir hanedanın sona ermesi, o hanedanın kurduğu düzenin
-sona ermesiyle aynı şey değildir.
+İlk ikisi aynı alan adındadır; bağımsızlık şartı asgari düzeyde sağlanır ve bu burada
+beyan edilir.
 
-## Kaynak durumu ve bu incelemenin sınırı
+Bu bileşim tercih değil kısıttır. Hanedanın siyasi tarihi için doğrulanabilir bir
+birincil metin aranmış, bulunamamıştır.
 
-Bu inceleme üç kaynağa dayanır: hanedan üzerine bir madde,[^k1] merkez şehir
-üzerine ayrı bir madde,[^k2] ve dönemin çağdaşı bir eser.[^k3] İlk ikisi aynı
-alan adındadır; bağımsızlık şartı asgari düzeyde sağlanır ve bu burada beyan
-edilir.
-
-Bu bileşim tercih değil kısıttır. Hanedanın siyasi tarihi için doğrulanabilir
-bir birincil metin aranmış, bulunamamıştır. Dönemin tarih yazımından bilinen
-metinlerin, künyeye yazılabilecek biçimde makine okunur ve katalog künyesiyle
-doğrulanmış tam metinleri, bu inceleme yazıldığında erişilebilir değildi.
-
-Bu, korpusun başka dosyalarda da ölçtüğü bir eğilimin devamıdır: kamu malı
-dijital arşivler belirli bir kanonu yoğun, geri kalanını seyrek kapsar.[^k1]
-Sonuç, bu coğrafyanın konularında ansiklopediye bağımlılığın yapısal olarak
-sürmesidir. Bu inceleme o bağımlılığı azaltamamıştır ve bunu gizlememektedir.
+Sonuç, bu coğrafyanın konularında ansiklopediye bağımlılığın yapısal olarak sürmesidir.
 
 Okur bu sınırı bilerek okumalıdır: burada anlatılanlar, bir ansiklopedi
 maddesinin aktardıklarıdır ve dönemin belgelerinden bağımsız olarak
@@ -168,16 +137,10 @@ ekonomik zeminin şehir ölçeğindeki karşılığıdır. Kütüphane, medrese 
 istinsah faaliyeti, kendini finanse eden bir zemin olmadan sürdürülemez;
 himaye ile ticaret aynı bütçenin iki tarafıdır.
 
-Bu bağ, korpusun ekonomik eksen etiketini bu incelemeye eklemesinin dayanağıdır.
-Kültürel üretimi yalnızca kültürel bir olgu olarak kaydetmek, onu mümkün kılan
-maddi tabanı görünmez kılardı; korpusun dönem makaleleri bu ilkeyi ayrı bir
-bölümle uygular.
-
 ## Hanedanın kendi kaydı meselesi
 
-Bu incelemenin karşılaştığı kaynak sorunu, hanedanın kendisiyle de ilgilidir.
-Bir siyasi birimin bugün nasıl bilindiği, kendi döneminde ne kadar kayıt
-tuttuğuna değil, o kayıtların hangi yollarla bugüne ulaştığına bağlıdır.[^k1]
+Bir siyasi birimin bugün nasıl bilindiği, kendi döneminde ne kadar kayıt tuttuğuna
+değil, o kayıtların hangi yollarla bugüne ulaştığına bağlıdır.[^k1]
 
 Elimize ulaşan metinler, çoğu zaman sonraki dönemlerin derlemeleridir.[^k1]
 Bir derleme, derlendiği dönemin ilgilerini de taşır: hangi olayın kaydedilmeye
@@ -189,23 +152,13 @@ kısmen değiştirir.[^k3] Çağdaş bir metin, sonraki derlemelerin neyi atlad�
 ölçmek için bir dayanak sağlar; ama tek başına bir hanedanın siyasi tarihini
 kurmaya yetmez.
 
-Bu ayrımın burada belirtilmesinin sebebi şudur: korpus bir konu hakkında ne
-kadar bilgi verdiğini değil, o bilginin nereden geldiğini göstermeyi esas
-alır. Bilginin miktarı ile güvenilirliği aynı ölçek üzerinde durmaz.
+Bilginin miktarı ile güvenilirliği aynı ölçek üzerinde durmaz.
 
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun Orta Asya kapsamını genişletme çalışmasının bir parçası
-olarak yazıldı. O çalışmanın ilk iki adımı düşünür dosyalarıydı;[^k1] bu inceleme
-ilk siyasi birim dosyasıdır.
+Sıralamanın böyle olması tesadüf değildir. Düşünür dosyaları için doğrulanmış birincil
+metin bulunabildi; siyasi birim dosyaları için bulunamadı.
 
-Sıralamanın böyle olması tesadüf değildir. Düşünür dosyaları için doğrulanmış
-birincil metin bulunabildi; siyasi birim dosyaları için bulunamadı. Kaynak
-erişilebilirliği, hangi konuların hangi kalitede yazılabileceğini doğrudan
-belirliyor ve bu sınır korpusun kapsamını sessizce şekillendiriyor.
-
-Bu etkinin kaydedilmesi, korpusun kendi eğilimini ölçebilmesi için gereklidir.
-Bir bilgi derlemesinin nerede zayıf olduğunu bilmesi, güçlü olduğu yerleri
-saymasından daha önemlidir.
+Bir bilgi derlemesinin nerede zayıf olduğunu bilmesi, güçlü olduğu yerleri saymasından
+daha önemlidir.
 
 ## Bağlılık ile bağımsızlığın bir arada durması
 
@@ -219,14 +172,8 @@ Hutbede adın okunması ve sikkede adın basılması gibi işaretler, bağlılı
 sembolik tarafını taşır.[^k1] Bu işaretlerin sürmesi, vergi ve asker
 tahsisinin merkeze aktığı anlamına gelmez; iki düzlem ayrı ayrı işler.
 
-Korpusun [Egemenlik](/kavram/egemenlik/) dosyası bu kavramın modern
-tanımını verir; bu inceleme o tanımın her döneme uymadığını gösteren bir
-örnektir. Kavramları geriye doğru uygulamanın riski,
-[Anakronizm](/kavram/anakronizm/) dosyasında ayrıca ele alınır.
-
-Bu tür örneklerin kaydedilmesi, korpusun kavram katmanını neden ayrı tuttuğunun
-gerekçesidir: bir kavram, uygulandığı her dönemde aynı şeyi ölçmez ve bu fark
-kavramın kendi dosyasında değil, örneklerinde görünür.
+Kavramları geriye doğru uygulamanın riski, [Anakronizm](/kavram/anakronizm/) dosyasında
+ayrıca ele alınır.
 
 ## Okumayı sürdürmek için
 Aynı yılları bütün bölgeler üzerinden okumak için [Dönem 06](/donem/06/)
@@ -237,21 +184,92 @@ Bu coğrafyanın ürettiği düşünce için [İbn Sînâ](/dusunur/ibn-sina/) v
 [Bîrûnî](/dusunur/biruni/) dosyaları, ikisinin de dayandığı felsefe geleneği
 için [Fârâbî](/dusunur/farabi/) dosyası aynı zinciri sürdürür.
 
-Siyasi biçim tarafıyla ilgilenen okuyucu için [Egemenlik](/kavram/egemenlik/)
-dosyası kavramın modern tanımını verir; bu incelemenin anlattığı katmanlı bağlılık
-düzeni o tanıma uymaz ve aradaki fark [Anakronizm](/kavram/anakronizm/)
-dosyasında tartışılan sorunun somut bir örneğidir.
+Aynı sınır kronolojik yönde de geçerlidir. Hanedanın kuruluşundan önceki siyasi düzen,
+yani bölgenin fetih sonrası idari yapısı, burada yalnızca arka plan olarak geçer.[^k1]
 
-Hanedanın sona ermesinin ardından bölgede kurulan siyasi düzenler bu incelemede
-işlenmez;[^k1] onlar kendi dosyalarını gerektirir ve korpusun bölge kapsamı
-genişledikçe eklenecektir. Bu inceleme bir başlangıç noktasıdır, bölgenin
-tamamlanmış bir anlatısı değildir.
+## Halifeye bağlılık ile fiilî bağımsızlık
 
-Aynı sınır kronolojik yönde de geçerlidir. Hanedanın kuruluşundan önceki
-siyasi düzen, yani bölgenin fetih sonrası idari yapısı, burada yalnızca
-arka plan olarak geçer.[^k1] O yapının kendisi, korpusun dönem makalelerinde
-ele alınır ve ayrı bir aktör dosyası gerektirir.
+Sâmânî hükümdarları Abbasi halifesinin dinî-siyasal üstünlüğünü bütünüyle reddetmeden
+Horasan ve Mâverâünnehir’de kendi ordu, vergi ve atama düzenlerini kurdu.[^k1]
+Hutbe ve sikke halifeyle bağın dilini taşıyabilir; günlük kararın Bağdat’tan
+verildiğini göstermez. Egemenlik burada tek bir “bağımsız/bağımlı” kutusundan çok
+meşruiyet ile fiilî kapasitenin paylaşımıdır.
 
-Bu tür sınırların dosyada açıkça yazılması, korpusun bir maddeyi
-tamamlanmış saymamasının yoludur: bir dosyanın neyi kapsamadığını bilmek,
-neyi kapsadığını bilmek kadar işe yarar.
+Halifenin tanıması hanedana İslam dünyasında kabul sağladı; yerel vergi ve askerî
+başarı bu tanınmayı gerçek yönetime çevirdi. Merkez zayıfladığında çevre devleti
+boşlukta doğmuş sayılmaz. Daha eski yerel aileler, fetih sonrası bürokrasi,
+ticaret ve sulama kurumları Sâmânî kapasitesinin temelini oluşturdu.[^k1]
+
+## Buhara ve Semerkant neden üretim merkezi oldu?
+
+İki kent yalnız siyasi başkent değil, kervan yolları, zanaat, eğitim ve kitap
+dolaşımının düğümleriydi.[^k2] Tarımsal artı ürün kent nüfusunu, ticaret geliri
+saray ve kültür himayesini besledi. Güvenlik ile para düzeni tüccarın uzak
+pazarlara bağlanmasını kolaylaştırdı; kent refahı bütün kırsal nüfusa eşit
+dağılmadı.
+
+Kütüphane ve saray çevresi bilginleri çekebilir; bilgi üretimini tek başına
+hükümdarın cömertliği açıklamaz. Öğretmen, kâtip, kâğıt üretimi, çeviri, özel
+hamiler ve şehirler arası rekabet aynı ekosistemi oluşturur. İbn Sînâ gibi bir
+düşünürün Sâmânî kütüphane dünyasına erişimi bu kurumsal yoğunluğun örneğidir;
+bütün eserleri doğrudan devlet programı sayılmaz.
+
+## Yeni Farsçanın yükselişi
+
+Sâmânî dönemi, Farsçanın Arap yazısı ve İslamî düşünce dünyası içinde güçlü
+edebî-yönetim dili olarak yeniden yükseldiği temel evrelerden biridir.[^k1]
+Bu süreç Arapçanın bilim ve din dili olarak değerini kaybetmesi değildi. İki dil
+farklı tür ve çevrelerde birlikte kullanıldı; Türkçe konuşan askerî ve toplumsal
+gruplar da bu çoğul alanın parçasıydı.
+
+*Fars kültürünün dirilişi* ifadesi kesintisiz eski özün geri dönmesi gibi
+okunmamalıdır. İslam sonrası kavramlar, Arapça yazı ve yeni saray çevresi eski
+İran mirasıyla birleşerek farklı bir kültürel biçim üretti. Dilin yükselişi tek
+etnik topluluğun siyasi hâkimiyetiyle birebir örtüşmez; sonraki Türk hanedanları
+da Farsçayı yönetim ve edebiyat dili olarak taşıdı.[^k1]
+
+## Askerî köleler ve merkezin ikilemi
+
+Profesyonel askerî güç hükümdarın yerel hanedanlara bağımlılığını azaltabilir;
+maaş, komuta ve saray erişimi üzerinden yeni güç sahipleri yaratır. Sâmânî
+ordusunda yükselen Türk askerî seçkinler kısa vadede genişlemeyi ve düzeni
+destekledi, uzun vadede hanedan rekabetine müdahale edebilecek kapasite kazandı.[^k1]
+
+Bu sonuç “yabancı askerler devleti yıktı” gibi etnik bir açıklamaya indirgenemez.
+Maaş geliri, saray hizbi, vergi krizi ve eyalet görevi askerî aktörün seçeneğini
+belirledi. Aynı insan ağı Gazneli ve sonraki devletlerde yeni hanedan kapasitesine
+dönüşebildi. Bir devletin çözülmesi başka devletlerin kurum ve kadrosunu
+besleyebilir.[^k1]
+
+## Karahanlı baskısı ve parçalanmanın mekanizması
+
+Karahanlıların Mâverâünnehir’e ilerlemesi dış askerî baskıyı temsil eder;
+Sâmânîlerin sonunu yalnız bu fetihle açıklamak eksiktir. Hanedan içi mücadele,
+eyaletlerin bağımsızlaşması, askerî komutanların gücü ve mali kapasitenin
+zayıflaması dış saldırının etkisini büyüttü.[^k1] Başkentin ele geçirilmesi,
+zaten gevşeyen koalisyonun son siyasi işaretidir.
+
+Köylü, tüccar ve âlim açısından hanedan değişikliği her kurumun aynı gün
+değişmesi değildi. Vergi aracısı, dil, pazar ve eğitim ağı yeni yöneticilerce
+devralındı. Karahanlı ve Gazneli dünyaları Sâmânî mirasının farklı parçalarını
+kullandı. “Çöküş” siyasi hanedan için doğruyken kültürel ve idari süreklilik için
+yanıltıcı olabilir.[^k1]
+
+## Kaynakları zamanına yerleştirmek
+
+Bîrûnî’nin kronoloji eseri farklı halkların takvim ve zaman bilgilerini karşılaştırır;
+Sâmânî devletinin günlük yönetim kroniği değildir.[^k3] Yazarın bölgesel ilim
+dünyası dönemin zihinsel kapasitesini gösterir; her siyasi gelişme için doğrudan
+tanık sayılamaz. Bir düşünürün yaşadığı coğrafya ile eserindeki araştırma nesnesi
+ayrılmalıdır.
+
+Sâmânîler için sonraki tarih yazımı hanedanı Fars kültürü, Tacik kimliği veya
+Orta Asya devlet geleneğinin başlangıcı olarak farklı biçimde sahiplenebilir.
+Bu miraslar gerçektir; modern kimlik sınırlarını dokuzuncu yüzyıla aynen taşımamak
+gerekir. Hanedan çok dilli, çok bölgeli ve Abbasi meşruiyet alanı içindeydi.[^k1]
+
+Sâmânî deneyiminin büyük resmi, bağımlılık ile bağımsızlığın, Farsça ile
+Arapçanın, yerel bürokrasi ile hareketli askerî seçkinlerin aynı düzende birlikte
+çalışabilmesidir. Devletin önemi yalnız ne kadar toprak tuttuğunda değil, Orta
+Asya’yı uzun süreli bir bilim, ticaret ve yazı dili merkezine dönüştüren kurumları
+hangi siyasal koalisyonla koruyabildiğinde yatar.[^k1][^k2][^k3]

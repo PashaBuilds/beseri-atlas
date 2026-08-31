@@ -54,7 +54,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak, tarihsel ticaret yollarını üçe ayırır: kara ve su yolu birleşimi olanlar
 (Tütsü Yolu, Kolomb öncesi ticaret), ağırlıkla karadan olanlar (İpek Yolu, Grand
 Trunk Road, Kehribar Yolu, Via Maris, Trans-Sahra ticareti) ve ağırlıkla
@@ -62,18 +61,10 @@ denizden olanlar.[^k1]
 
 ## Yol bir hat değil bir sınıflandırmadır
 
-Aynı yolların ulaşım biçimine göre üç kategoriye ayrılması,[^k1] korpusun şu
-kuralının dayanağıdır: bu korpusta ticaret yolu adları, bir çizgi değil bir yollar
-demeti olarak anılır.
-
 ## Erken gelişim ayrı bir alt başlıktır
 
 Kaynak, erken yolların gelişimi başlığı altında erken gelişim, deniz ticareti ve
 görünür ticaret yolları alt başlıklarını tutar.[^k1]
-
-Görünür ticaret yollarının ayrı bir alt başlık taşıması,[^k1] korpusun şu
-kuralının dayanağıdır: bu korpusta yol adları, hangi kanıt türüne dayandığı
-belirtilerek anılır.
 
 ## İlk sırada sayılan kara yolu
 
@@ -89,7 +80,6 @@ yaklaşık 503,1 milyondur.[^k3]
 
 Ticaretle kurulmuş bir siyasi biçim [Hansa
 Birliği](/aktor/hansa-birligi/) dosyasında ele alınıyor.[^k1][^k3]
-
 
 ## Tanım
 
@@ -139,9 +129,7 @@ gerekli hem kırılgan kılar.[^k3]
 
 ## Kırılganlığın kaynağı
 
-Aracılıktan doğan bir gelir, tarafların doğrudan ilişki kurması
-hâlinde yok olur.[^k1] Bu, korpusun birçok dosyasında
-kayıtlıdır.
+Aracılıktan doğan bir gelir, tarafların doğrudan ilişki kurması hâlinde yok olur.[^k1]
 
 İkinci kırılganlık siyasidir.[^k2] Kriz dönemlerinde aracı topluluk,
 her iki tarafça da yabancı sayılabilir.
@@ -185,7 +173,6 @@ kavramı gerektirmez.
 Bir ağın varlığı, düğümlerin sayısı
 kadar aralarındaki bağlantının düzenliliğiyle de ölçülür.[^k3]
 
-
 ## Dilin izi
 
 Uzun süren ağlar kendi ticaret dillerini
@@ -194,6 +181,22 @@ kaydıdır.
 
 Bu diller siyasi denetim sona erdikten sonra da
 sürebilir.[^k2] Bir ağın en uzun ömürlü kalıntısı çoğu zaman dilidir.[^k3]
+
+## Güveni uzak mesafede kurmak
+
+Ticaret diasporası, tüccarların anayurt dışındaki liman ve kentlerde kalıcı topluluk
+kurarak uzak pazarları birbirine bağlamasıdır.[^k1] Ortak dil, akrabalık, din ve itibar
+bilgi maliyetini azaltabilir; fakat ağ yalnız iç dayanışmayla işlemez. Yerel hukuk,
+evlilik, tercümanlık, kredi ve hükümdar himayesi diasporayı bulunduğu topluma bağlar.
+Topluluğu bütünüyle kapalı veya devletten bağımsız saymak bu ilişkileri görünmez
+kılar.[^k2]
+
+Aracı konum hem avantaj hem kırılganlık üretir. Tüccarlar birden çok hukuk ve para
+düzeni arasında işlem yapabilir; kriz anında ise yabancılıkları nedeniyle toplu
+cezalandırma veya sürgün riski taşırlar. Bir diaspora ağını kanıtlamak için yalnız
+aynı kökenden kişilerin varlığı yetmez: tekrarlanan ticari bağlantı, kurum, yazışma
+veya ortak uyuşmazlık çözme biçimi gösterilmelidir. “Aracı azınlık” etiketi ekonomik
+rolü açıklarken topluluğun iç çeşitliliğini örtmemelidir.[^k3]
 
 ## Kanıtın ve kapsamın sınırı
 Yolların ayrıntısı, taşınan mallar ve ticaretin iktisadi etkileri burada ayrı

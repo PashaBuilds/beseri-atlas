@@ -61,7 +61,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Arthaşastra, bir devletin nasıl kurulacağını ve ayakta tutulacağını konu
@@ -88,19 +87,15 @@ daha geç bir tarihte oluştuğunu ileri sürer.[^k3] İki okuma arasındaki far
 yüzyıllarla ölçülür ve metnin hangi siyasi düzeni anlattığı sorusunu doğrudan
 etkiler.
 
-::tartismali[Metnin tek bir devlet adamına mı ait olduğu, yoksa uzun bir
-sürede katmanlanmış bir derleme mi olduğu çözülmüş değildir; künyedeki ad ve
-tarih geleneksel atfı yansıtır, bir tespit değildir.]{harita=tartisma-buyuk-adam-kurami}
+::tartismali[Metnin tek bir devlet adamına mı ait olduğu, yoksa uzun bir sürede katmanlanmış bir derleme mi olduğu çözülmüş değildir; künyedeki ad ve tarih geleneksel atfı yansıtır, bir tespit değildir.]{harita=tartisma-buyuk-adam-kurami}
 
 Metne yapılacak her atıfta hangi
 tarihlendirmenin varsayıldığı belirtilmelidir.[^k3]
 
 ## Tek yazar sorunu
 
-Metnin tek bir kişi tarafından mı yazıldığı, yoksa katmanlı biçimde mi
-oluştuğu ayrıca tartışılır.[^k3] Bu, korpusun başka kaynak dosyalarında da
-karşılaşılan bir durumdur; [Sima Qian — Shiji](/kaynak/sima-qian-shiji/)
-dosyasında benzer bir kayıt vardır.
+Metnin tek bir kişi tarafından mı yazıldığı, yoksa katmanlı biçimde mi oluştuğu ayrıca
+tartışılır.[^k3]
 
 Yazarlık sorusunun pratik sonucu şudur. Metin tek elden çıktıysa tutarlı bir
 öğreti olarak okunabilir; katmanlıysa, içindeki gerilimler yazarın çelişkisi
@@ -109,28 +104,19 @@ değil farklı dönemlerin izidir.[^k3]
 Kişi için ayrı bir dosya bulunur; bu
 dosya metni kaydeder.[^k1][^k2]
 
-## Neden korpusta
-
 Güney Asya'dan tek bir kaynak
 dosyası yoktu; oysa bölgenin aktör ve düşünür katmanlarında dosyalar bulunuyordu.[^k1]
 
-Bu eksiğin sonucu görünmez değildi. Bir bölge hakkında dosya bulunması ile o
-bölgenin kendi metninin korpusa girmesi ayrı şeylerdir; ikincisi olmadan
-bölge, başkalarının anlattığı bir konu olarak kalır.[^k2]
+Bu eksiğin sonucu görünmez değildi.
 
-Metnin seçilme gerekçesi, hem özgün dilde hem çeviride erişilebilir
-olmasıdır.[^k1][^k2] Korpusun kaynak dosyalarında aranan asgari koşul budur:
-okurun iki tıklamayla metnin kendisine ulaşabilmesi.
+Metnin seçilme gerekçesi, hem özgün dilde hem çeviride erişilebilir olmasıdır.[^k1][^k2]
 
 ## Kapsam dışı
 
-Bu inceleme metnin ne olduğunu ve hangi tartışmalara girdiğini kaydeder;
-bölümlerinin içeriğini özetlemez.[^k1] Kitap kitap özet çıkarmak, kaynak
-dosyalarının işi değildir.
+Kitap kitap özet çıkarmak, kaynak dosyalarının işi değildir.
 
-Metnin sonraki Güney Asya siyasi düşüncesindeki yeri, yeniden keşfi ve
-çağdaş yorumları da burada işlenmez.[^k3] Her biri ayrı dosya gerektirir ve
-bu inceleme yazıldığında korpusta bulunmuyorlardı.
+Metnin sonraki Güney Asya siyasi düşüncesindeki yeri, yeniden keşfi ve çağdaş yorumları
+da burada işlenmez.[^k3]
 
 Metnin bugünkü yönetim kuramlarıyla karşılaştırılması ayrıca kapsam
 dışıdır. Böyle bir karşılaştırma, [Anakronizm](/kavram/anakronizm/) dosyasında

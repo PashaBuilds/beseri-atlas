@@ -47,7 +47,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Seri 1991'de yüzde 42,822468 ile başlar ve 2025'te yüzde 25,763578 ile
 biter.[^k1]
 
@@ -55,29 +54,18 @@ biter.[^k1]
 
 Veri kümesinde dünya toplamı için 1991'den önce gözlem bulunmaz.[^k1]
 
-Bir istihdam serisinin yalnızca son otuz beş yılı kapsaması,[^k1] korpusun şu
-kuralının dayanağıdır: bu incelemeden sanayileşme öncesi ya da sanayileşme
-dönemine dair bir istihdam payı okunamaz. Sıklıkla bağlanan dönüşüm
-[Sanayi Devrimi](/olay/sanayi-devrimi/) dosyasında ele alınıyor.[^k3]
+Sıklıkla bağlanan dönüşüm [Sanayi Devrimi](/olay/sanayi-devrimi/) dosyasında ele
+alınıyor.[^k3]
 
 ## İki seri aynı yönde hareket eder
 
 Aynı sağlayıcının kentleşme serisinde dünya değeri 1950 için yüzde 28,7983,
 2025 için yüzde 57,8335'tir.[^k2]
 
-Tarımda istihdam payı düşerken kentsel nüfus payının artması,[^k1][^k2] korpusun
-bu iki seriyi tek bir nedene bağlamasını gerektirmez; iki ölçü farklı şeyler
-ölçer ve kullanılan veri kümeleri bir neden bilgisi taşımaz. İlişkili dosya
-[Kentleşme oranı, 1950–2025](/veri/kentlesme-orani-1500-2023/) dosyasıdır.
+İlişkili dosya [Kentleşme oranı, 1950–2025](/veri/kentlesme-orani-1500-2023/)
+dosyasıdır.
 
 ## Ölçünün tanımı bir karardır
 
 Serinin sütun adı istihdam payını tarım için verir; hangi işlerin tarım
 sayıldığı, ölçünün tanımına bağlıdır.[^k1]
-
-Korpusun kuralı şudur: bu seriden okunan değerler, hangi sınıflandırmanın
-kullanıldığı belirtilmeden aktarılmaz.[^k1]
-
-## Kanıtın ve kapsamın sınırı
-Ülke ülke oranlar, kayıt dışı istihdam ve sektör tanımları burada ayrı başlıklar
-altında ele alınmamıştır; bu inceleme yalnızca dünya toplamı serisini kaydeder.[^k1]

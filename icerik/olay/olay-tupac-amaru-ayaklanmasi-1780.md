@@ -52,7 +52,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne oldu
 
 1780 sonbaharında And dağlarının güney kesiminde bir ayaklanma
@@ -63,8 +62,7 @@ Katılım, sömürge dönemindeki benzer hareketlerin çok üzerindeydi.[^k2]
 Bölgedeki yerli nüfusun büyük bölümü ve bir kesim melez nüfus harekete
 katıldı.
 
-Bu incelemenin asıl konusu talebin değişmesidir.[^k1] Hareket bir vergi ve
-idare şikâyetiyle başladı, bağımsızlık talebiyle bitti.
+Hareket bir vergi ve idare şikâyetiyle başladı, bağımsızlık talebiyle bitti.
 
 ## Başlangıçtaki talep
 
@@ -75,9 +73,7 @@ Bu düzen, yerli topluluklara belirli malları belirli fiyattan almayı
 zorunlu kılıyordu.[^k2] Fiyatlar piyasanın üzerindeydi ve borç
 birikiyordu.
 
-Hareketin ilk çerçevesi, kötü yönetilen bir düzenin düzeltilmesi
-talebiydi.[^k3] Bu, korpusun çok sayıda dosyasında gördüğü olağan bir
-başlangıçtır.
+Hareketin ilk çerçevesi, kötü yönetilen bir düzenin düzeltilmesi talebiydi.[^k3]
 
 ## Kral adına ayaklanmak
 
@@ -85,9 +81,8 @@ başlangıçtır.
 üzere hareket ettiğini bildiriyordu.[^k1] Hedef, kral ile tebaası
 arasına giren yerel idarecilerdi.
 
-Bu, korpusun Kânûn-ı Esâsî dosyasında ölçtüğü mekanizmayla aynı
-ailedendir.[^k3] Var olan ama uygulanmayan bir düzen, yeni bir talep
-formüle etmeden itiraz etmeyi mümkün kılar.
+Var olan ama uygulanmayan bir düzen, yeni bir talep formüle etmeden itiraz etmeyi mümkün
+kılar.
 
 Ölçüm şudur.[^k2] **Bir ayaklanma, merkezî otoritenin kendi kurallarına
 dayanarak yerel uygulamayı hedef alabilir; bu, talebi baştan meşru
@@ -113,9 +108,8 @@ Soy iddiası hukuki bir dayanak üretiyordu.[^k2] Sömürge yönetimi, yerel
 hanedan soyunu belirli ayrıcalıklarla tanımıştı ve iddia bu tanınmaya
 dayanıyordu.
 
-Bu, korpusun Çağatay dosyasında ölçtüğü mekanizmanın bir başka
-biçimidir.[^k3] Bir meşruiyet kuralı, onu kuran düzen ortadan kalktıktan
-sonra da bir talep dayanağı olmayı sürdürebilir.
+Bir meşruiyet kuralı, onu kuran düzen ortadan kalktıktan sonra da bir talep dayanağı
+olmayı sürdürebilir.
 
 ## İki meşruiyet kaynağının birleşmesi
 
@@ -212,9 +206,7 @@ kolaylaştırdı.
 Aynı coğrafya bastırmayı da geciktirdi.[^k1] Sömürge yönetiminin
 birlikleri kıyıdan ve uzak merkezlerden gelmek zorundaydı.
 
-Coğrafya sonucu belirlemedi.[^k3] Gecikme, hareketin genişlemesine izin
-verdi ama nihai sonucu değiştirmedi; bu, korpusun öteki dosyalarında
-ölçtüğü örüntüyle uyumludur.
+Coğrafya sonucu belirlemedi.[^k3]
 
 ## Kentlerin konumu
 
@@ -259,9 +251,7 @@ Ayaklanmanın kayıtları büyük ölçüde bastıran tarafın
 arşivindedir.[^k2] Yargılama tutanakları, yazışmalar ve bildiri
 kopyaları buradan gelir.
 
-Bu, korpusun olağan kaynak durumudur ve bir kısıt taşır.[^k1] Hareketin
-kendi belgeleri, yalnızca ele geçirilmiş oldukları için
-korunmuştur.
+Hareketin kendi belgeleri, yalnızca ele geçirilmiş oldukları için korunmuştur.
 
 Bir hareketin belgelerinin karşı tarafın
 arşivinde korunması, hangi belgelerin korunduğunu da belirler; ele geçirilmeyenler
@@ -284,14 +274,10 @@ korunması seyrektir ve korunduğunda talep değişimi ölçülebilir hâle geli
 Hareketin adı yirminci yüzyılda birden çok ülkede yeniden
 kullanıldı.[^k1] Kullananlar farklı siyasi çizgilerden geliyordu.
 
-Bu, korpusun Kânûn-ı Esâsî dosyasında ölçtüğü işlevin bir başka
-örneğidir.[^k3] Bir ad ya da belge, kendi bağlamının dışında bir talep
-dayanağı hâline gelebilir.
+Bir ad ya da belge, kendi bağlamının dışında bir talep dayanağı hâline gelebilir.
 
 Bir adın sonradan kullanılması, o adın ilk
 taşıyıcısının programı hakkında bilgi vermez.[^k2]
-
-## Bu incelemenin kaydettiği
 
 Dosya, ayaklanmanın nedenini tek bir etkene bağlamaz.[^k1] Vergi
 düzenlemesi, zorunlu alım ve idari uygulamalar birlikte sıralanır.
@@ -315,7 +301,24 @@ Hareketin önderleri hakkında ayrı dosya bulunmamaktadır.[^k3] Bu, açık
 bir borçtur ve defterine yazılmıştır; aynı şekilde bölgedeki sömürge
 idari düzeninin kendisi de künyelenmemiştir.
 
+## Koalisyon neden genişledi, neden parçalandı?
+
+Ayaklanma vergi ve zorunlu emek itirazından daha geniş bir sömürge düzeni
+eleştirisine dönüşürken farklı grupları aynı anda çekti. Yerli topluluklar,
+melezler, Kreoller, köylüler ve yerel seçkinler aynı yükü taşımıyor; vergi,
+toprak, ticaret ve hiyerarşi konusunda aynı gelecek tasarımını paylaşmıyordu.
+Túpac Amaru II'nin kral adına adalet istemesi bir süre meşruiyet köprüsü kurdu,
+fakat şiddet büyüyüp düzenin bütünü tartışıldıkça bu köprü daraldı.[^k1]
+
+Bu parçalanma, bastırmayı yalnız İspanyol askerî üstünlüğüyle açıklamamayı
+gerektirir. Haberleşme, ikmal, kentlerin tutumu, rakip yerli önderlikler ve
+gelecekte mülkiyetin nasıl dağılacağına dair korkular koalisyon kapasitesini
+belirledi. Sonraki bağımsızlık anlatıları ayaklanmayı öncü bir ulusal hareket
+olarak sahiplense de 1780 aktörlerinin amaçları daha çoğul ve değişkendi.
+Hatırlanma biçimi olayın etkisidir; başlangıçtaki bütün niyetlerin kanıtı değildir.[^k1]
+
 ## Okumayı sürdürmek için
+
 Soy iddiasının dayandığı düzen için
 [İnka İmparatorluğu](/aktor/inka-imparatorlugu/), bastıran taraf için
 [İspanyol İmparatorluğu](/aktor/ispanyol-imparatorlugu/) dosyaları

@@ -1,7 +1,7 @@
 {
   "id": "aktor-aztek-imparatorlugu",
-  "govde_hash": "1ecc37f7f4af",
-  "commit": "d0eeece",
+  "govde_hash": "e33cee599a3b",
+  "commit": "889239af",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -589,23 +589,45 @@
     },
     {
       "iddia_id": "i42",
-      "cumle": "Güncel özet bu biçime dolaylı denetim adını verir; sözcüğün altındaki düzeneğin — eyalet yönetiminin fiilen kime bırakıldığının — ne olduğunu ise elimizdeki künye düzeyindeki kayıt açmıyor, bu dosya da açmış gibi yapmıyor.",
+      "cumle": "İmparatorluk sözcüğü akademik yazında kullanılmayı sürdürüyor, ama içeriği değişti: bugün onunla kastedilen doğrudan yönetim değil, iç eyaletlerin düzenli vergi ödediği, dış eyaletlerin sınır bekleyen tabi devletler olduğu dolaylı bir denetim düzenidir.",
       "onem": "destek",
-      "tur": "yorum",
+      "tur": "olgu",
       "kaynaklar": [
         {
           "anahtar": "k1",
-          "destek": "baglam"
+          "destek": "dogrudan"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Hakem duzeltmesi: onceki surum \"Ordu gectikten sonra yerel hanedan yerinde kaliyor\" diyordu; bu cumle k1 ve k2 ozetlerinin hicbirinde yok. Iddia kaldirildi, yerine bilgi sinirinin beyani konuldu."
+      "inceleme": "2026-08-30 yeniden inceleme: onceki bilgi siniri cumlesi govdeden kalkti; yerine k1'in dogrudan destekledigi ic ve dis eyaletli dolayli denetim tanimi baglandi."
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "Kesin hesaptan vazgeçip her yıl binlerce kişinin kurban edildiği sonucuyla yetinir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5 kesin bir toplam vermekten kaçınır ve yıllık ölçeği binlerle sınırlar; cümle bu ihtiyatı korur."
     }
   ],
   "sayaclar": {
-    "dogrudan": 26,
+    "dogrudan": 28,
     "kismi": 13,
     "desteksiz": 0,
-    "olculemez": 3
-  }
+    "olculemez": 2
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "1ecc37f7f4af",
+      "yeni_hash": "e33cee599a3b",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    }
+  ]
 }

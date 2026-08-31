@@ -48,7 +48,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak Karl Marx'ı 1818-1883 arasına yerleştirir ve kuramı doğrudan bir adla değil
 bir kayıtla anar: çoğu kez tarihsel materyalizm denen ve toplum biçimlerinin insanın üretici gücünün gelişimini önce
 ilerletip sonra engelledikçe yükselip düştüğü fikri etrafında kurulu etkili bir
@@ -56,7 +55,7 @@ tarih kuramı.[^k1]
 
 ## Adın kendisi çekinceyle verilir
 
-::tartismali[Kaynak kuramı adlandırırken "çoğu kez şöyle denen" kaydını koyuyor. Bu, adın yazarına ait olmayabileceği anlamına gelir. Korpus adı kullanır ama çekinceyi düşürmez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Kaynak kuramı adlandırırken "çoğu kez şöyle denen" kaydını koyuyor. Bu, adın yazarına ait olmayabileceği anlamına gelir.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu tür adlandırma çekincelerinin nasıl taşınacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -82,10 +81,6 @@ Sonraki kuşaktan bir başka cevap için tutulan kayıt ise merkez, çevre ve ya
 çevre terimlerini ayrı ayrı tanımlar.[^k3] O kurgu
 [Dünya sistemi](/kavram/dunya-sistemi/) dosyasında ele alınıyor.
 
-Üç kurgunun da olayların altında daha yavaş bir düzey araması,[^k1][^k2][^k3]
-korpusun kavram katmanında bu üç dosyayı birbirine bağlamasının dayanağıdır;
-cevapları ayrıdır ve korpus aralarında seçim yapmaz.
-
 ## Kanıtın ve kapsamın sınırı
 Kuramın ayrıntıları, üretim tarzları dizisi ve sonraki tartışmalar burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
@@ -96,3 +91,60 @@ işler.[^k1]
 Bu kavramın formüle edildiği eser Marx, *Kapital*'dir; dosya o eserin kamu malı
 tam metnine bağlanır.[^k4] Kavrama yapılacak atıflar, kavramı tanımlayan
 bölüm belirtilerek verilmelidir.
+
+## Maddi olan neyi kapsar?
+
+Tarihsel materyalizm, tarihi yalnız düşüncelerin ya da büyük kişilerin ürünü
+olarak açıklamak yerine insanların yaşamlarını üretme biçimlerinden başlatır.
+“Maddi” sözcüğü yalnız para veya makine demek değildir. Toprak, emek, bilgi,
+teknik, enerji, mülkiyet, iş bölümü ve insanların üretim sırasında kurduğu
+ilişkiler bu alanın içindedir. Hukuk, siyaset ve fikirler önemsiz sayılmaz;
+bunların hangi toplumsal ilişkiler içinde üretildiği ve kimi güçlendirdiği
+sorulur.[^k1]
+
+Üretici güçler, insanların üretme kapasitesini oluşturan araçları, becerileri ve
+örgütlenmeyi içerir. Üretim ilişkileri ise kaynaklara kimin sahip olduğu, emeğin
+nasıl düzenlendiği ve ürünün nasıl paylaşıldığıyla ilgilidir. Bir teknik yenilik
+mevcut düzen içinde verimliliği artırabilir; aynı yenilik zamanla mülkiyet ve
+emek ilişkileriyle çatışabilir. Kaynağın toplum biçimlerinin üretici gücü önce
+ilerletip sonra engelleyebileceğini belirtmesi, değişimi bu gerilim üzerinden
+kurar.[^k1]
+
+## Sınıf, çatışma ve siyasal eylem
+
+Farklı gruplar üretim düzeninde aynı konumda değildir. Gelirleri, güvenlikleri ve
+karar güçleri farklı olduğu için aynı değişimden farklı sonuçlar beklerler.
+Sınıf çatışması bu çıkar ayrılığının siyasal ve toplumsal biçim kazanmasıdır;
+fakat her anlaşmazlığın yalnız sınıftan doğduğu anlamına gelmez. Din, cinsiyet,
+etnisite, hukuk ve devlet kurumları çatışmayı hem şekillendirebilir hem de kendi
+başına etkili olabilir. Materyalist açıklama bunları silmek yerine maddi düzenle
+nasıl eklemlendiklerini göstermek zorundadır.
+
+Bu nokta kaba belirlenimcilikle ayrımı oluşturur. “Ekonomi her şeyi otomatik
+olarak belirledi” cümlesi ne aktörlerin seçeneklerini ne aynı ekonomik koşulların
+neden farklı siyasal sonuçlar ürettiğini açıklar. Güçlü bir açıklama, koşulların
+hangi seçenekleri mümkün veya pahalı kıldığını; kurumların, örgütlenmenin ve
+fikirlerin bu seçeneklerden hangisini harekete geçirdiğini gösterir.
+
+## Bir iddia nasıl sınanır?
+
+Önce önerilen maddi dönüşüm tarihlenir: mülkiyet, ücret, teknoloji veya ticaret
+ağında ne değişmiştir? Ardından bu değişimin etkilediği gruplar ve aktarım
+mekanizması belirlenir. Son olarak aynı koşullarda beklenen sonucun çıkmadığı
+karşı örnekler aranır. [Karşı olgusal tarih](/tartisma/karsi-olgusal-tarih/),
+öne sürülen neden olmasaydı ne beklenmesi gerektiğini açıklaştırır.
+
+[Longue durée](/kavram/longue-duree/) yavaş yapıları ve çoklu zaman ölçeklerini;
+[Dünya sistemi](/kavram/dunya-sistemi/) bölgeler arası iş bölümünü öne çıkarır.
+Tarihsel materyalizm bunlarla kesişir, fakat kendine özgü ağırlığı üretim
+ilişkileri, sınıf ve tarihsel değişimin iç gerilimlerindedir.[^k2][^k3] Kavram,
+bütün olaylara önceden hazırlanmış tek bir sıra dayatmak için değil, maddi
+koşulları görünmez bırakan anlatıları sınamak için kullanıldığında en açıklayıcı
+hâline gelir.
+
+Bu yöntemde fikirler yalnız maddi çıkarların maskesi sayılmaz. Bir hak, din veya
+ulus anlayışı insanları örgütleyip kurumları değiştirdiğinde tarihsel güç kazanır.
+Soru, fikrin “gerçek” etkisi olup olmadığı değil, hangi taşıyıcılar, iletişim
+araçları ve örgütler üzerinden maddi koşullara müdahale edebildiğidir.
+
+Bu karşılıklı etki, yöntemin temel denetim noktasıdır.

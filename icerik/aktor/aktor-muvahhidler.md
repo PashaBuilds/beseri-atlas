@@ -56,7 +56,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Muvahhidler, on ikinci yüzyıl başında Kuzey Afrika'nın batı
@@ -66,17 +65,16 @@ olan hanedandır.[^k1] Çıkış noktası dağ topluluklarıydı.
 Hanedan, kendinden önceki düzeni ortadan kaldırarak kuruldu.[^k2]
 Kaldırdığı düzen de aynı bölgeden ve aynı yüzyıl içinde çıkmıştı.
 
-Bu incelemenin asıl konusu iki hanedan arasındaki ilişkidir.[^k4] İkisi de
-yetkisini öğretiye dayandırdı ve ikincisi birincisini öğreti
-gerekçesiyle devirdi.
+İkisi de yetkisini öğretiye dayandırdı ve ikincisi birincisini öğreti gerekçesiyle
+devirdi.
 
 ## Öğretiye dayanan meşruiyetin ikinci ölçümü
 
 Öğretiye dayanan bir
 meşruiyet, kendisini yıkacak aracı da beraberinde getirir.[^k2]
 
-Bu inceleme aynı kaydı ikinci kez ölçer.[^k1] Muvahhidler, seleflerini
-inanç konusunda yeterince tutarlı olmamakla suçlayarak iktidara geldi.
+Muvahhidler, seleflerini inanç konusunda yeterince tutarlı olmamakla suçlayarak iktidara
+geldi.
 
 Aynı hanedan, bir buçuk yüzyıl sonra kendi tutarlılık iddiasını
 sürdüremediğinde çözüldü.[^k4] Örüntü iki kez üst üste işledi.
@@ -119,12 +117,9 @@ değişimlerini yavaşlatır; öğreti modeli hızlandırır ve her değişimi b
 
 ## Ölçümün sınırı
 
-İki örnek bir kural kurmaya yetmez.[^k4] Korpus bunu iki bölgede
-ölçülmüş bir eğilim olarak kaydeder.
+İki örnek bir kural kurmaya yetmez.[^k4]
 
-Aynı bölgede sonraki yüzyıllarda kurulan hanedanlar da
-sınanmalıdır.[^k1] Bu inceleme yazıldığında o dosyalar korpusta
-bulunmuyordu.
+Aynı bölgede sonraki yüzyıllarda kurulan hanedanlar da sınanmalıdır.[^k1]
 
 Karşılaştırmanın kendisi yine de kazançtır.[^k3] İki bölgeyi aynı
 soruyla okumak, ikisini ayrı ayrı okumaktan farklı bir sonuç verir.
@@ -173,9 +168,7 @@ Aynı donanım, düzenin iddiasını sorgulamak için de
 kullanılabilir.[^k4] Himaye ile kısıtlama arasındaki salınım buradan
 doğar.
 
-Bu, korpusun Wang Yangming dosyasında kaydedilen örüntüyle aynı
-ailedendir.[^k3] Resmî bir yorum, ona en iyi hâkim olanın itirazını
-üretir.
+Resmî bir yorum, ona en iyi hâkim olanın itirazını üretir.
 
 ## Yönetim aygıtı
 
@@ -275,15 +268,12 @@ Bu, öğretiye dayanan meşruiyetin ikinci zaafını gösterir.[^k4] Öğreti,
 onu taşıyan aygıtla birlikte ayakta durur; aygıt dağıldığında öğreti de
 dağılır ve geriye kalıcı bir toplumsal taban bırakmaz.
 
-Soy modeli bu bakımdan farklıdır.[^k2] Bir soy iddiası, onu taşıyan
-devlet dağıldıktan sonra da tanınabilirliğini korur; korpusun Orta Asya
-dosyalarında ölçülen dört yüzyıllık süreklilik bunun kanıtıdır.
+Soy modeli bu bakımdan farklıdır.[^k2]
 
 ## Ölçümün toplanması
 
-İki hanedanı birlikte okumak, korpusa iki karşıt model verir.[^k1] Soya
-dayanan meşruiyet yavaş değişir ve zor gücü olmadan da sürer; öğretiye
-dayanan meşruiyet hızlı değişir ve taşıyıcı aygıtla birlikte biter.
+Soya dayanan meşruiyet yavaş değişir ve zor gücü olmadan da sürer; öğretiye dayanan
+meşruiyet hızlı değişir ve taşıyıcı aygıtla birlikte biter.
 
 İki modelin farklı avantajları vardır.[^k4] Öğreti modeli, hanedan dışı
 kişilere iktidar yolu açar ve toplumsal hareketliliği artırır; soy
@@ -295,12 +285,9 @@ yakıcı bulduğunu gösterir.[^k3]
 
 ## Kaynak durumu
 
-Bu incelemenin dört künyesinin dördü de ansiklopedi maddesidir.[^k1]
 Birincil kaynak künyelenememiştir.
 
 Dönemin Arapça tarih ve öğreti metinleri mevcuttur.[^k3]
-Doğrulanabilir çevrimiçi baskıları bu inceleme yazıldığında
-bulunamamıştır.
 
 Eksik borç defterine yazılmıştır.[^k2] Dosya, birincil kaynağı olmayan
 makaleler grubundadır ve bu künyesinden görülebilir.
@@ -313,8 +300,7 @@ konuda örtüşmez.
 Öğreti tartışmasının teknik ayrıntısı kapsam dışıdır.[^k4] Dosya
 tartışmanın siyasi işlevini kaydeder, içeriğini çözümlemez.
 
-Hanedanın mimari mirası ayrı bir çalışma gerektirir.[^k3] Bu inceleme
-yazıldığında korpusta bulunmuyordu.
+Hanedanın mimari mirası ayrı bir çalışma gerektirir.[^k3]
 
 ## Kanıtın ve kapsamın sınırı
 Dosya, öğreti iddiasının samimi olup olmadığı hakkında hüküm
@@ -326,11 +312,6 @@ eğilim çıkarılabilir, kural çıkarılamaz.
 Kuzey yakadaki yenilginin belirleyici olduğu da tek başına ileri
 sürülmez.[^k3] Aynı dönemde birden çok etken işlemiştir.
 
-## Okumayı sürdürmek için
-Yerini alınan hanedan için [Murâbıtlar](/aktor/murabitlar/) dosyası
-okunmalıdır; bu inceleme onsuz eksiktir ve ikisi birlikte tek bir
-örüntüyü kurar.[^k2]
-
 Himaye altında çalışan filozof için
 [İbn Rüşd](/dusunur/ibn-rusd/) dosyası uygundur.[^k4]
 
@@ -339,6 +320,20 @@ için [İbn Haldûn — Mukaddime](/kaynak/ibn-haldun-mukaddime/) ve
 [İbn Haldûn](/dusunur/ibn-haldun/), toplumsal örgütlenme kuramı için
 [Umran](/kavram/umran/) dosyaları okunabilir.[^k1]
 
-Yetkinin neye dayandığı için [Meşruiyet](/kavram/mesruiyet/) dosyası
-okunmalıdır; bu inceleme o dosyanın en açık iki örneğinden birini
-sağlar.[^k3]
+## Öğretiden yönetime geçiş
+
+Muvahhid hareketinin Murabıtları dinî tutarlılık üzerinden eleştirmesi, iktidara
+geldikten sonra aynı iddianın kurumlara nasıl çevrildiği sorusunu açar.[^k1][^k2]
+Birlik öğretisi yalnız inanç beyanı değil, hükümdarlık hakkı, görevlendirme ve
+rakipleri dışlama ölçütü haline geldi. Ancak Mağrip ile Endülüs’teki farklı
+toplulukları yönetmek, kurucu hareketin sade dilinden daha karmaşık uzlaşmalar
+gerektiriyordu.
+
+Askerî yenilgi tek başına çözülmeyi açıklamaz. Hanedan içi rekabet, uzak
+vilayetlerin mali yükü, yerel seçkinlerin bağlılığı ve İberya’daki güç dengesi
+birlikte izlenmelidir.[^k3][^k4] İbn Rüşd’e verilen himaye de iktidarın düşünceyle
+ilişkisinin tek renkli olmadığını gösterir: saray desteği, düşünsel özgürlük ve
+sonraki baskı aynı siyasal düzen içinde farklı zamanlarda bulunabilir.
+
+Bir düşünürün sarayla tek bir anda kurduğu ilişkiyi bütün ömrüne yaymak bu
+değişimi örter; himaye, görevden düşme ve eser dolaşımı ayrı tarihlerle izlenmelidir.

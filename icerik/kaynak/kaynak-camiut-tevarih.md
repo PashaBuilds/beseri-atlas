@@ -61,7 +61,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Câmiu't-Tevârîh, bir sarayın görevlendirmesiyle ve o sarayın veziri
@@ -74,8 +73,6 @@ Moğol toplulukları ile Avrupa, her biri kendi başına ele alınır.
 Eserin ayırt edici yanı kapsam değil yöntemdir.[^k1] Her bölüm için o
 bölgeden gelen bilgi taşıyıcılarıyla çalışılmış ve yerel kaynaklara
 dayanılmıştır.
-
-## Yöntemin korpus için anlamı
 
 Bu eser aynı ilkeyi yedi
 yüzyıl önce uygulamış görünür.[^k1]
@@ -108,10 +105,7 @@ Yazar, hükümdarın vezirıdir ve görev doğrudan saraydan gelmiştir.
 Taraflılığın yönü de bellidir.[^k2] Hanedanın kökeni, hakları ve
 yönetiminin gerekçesi, eserin ilk ve en ayrıntılı bölümünü oluşturur.
 
-::tartismali[Eserin Moğol yönetimini nasıl değerlendirdiği tartışmalıdır;
-bir okuma metni bir meşrulaştırma çalışması sayar, öteki okuma yazarın kendi
-konumundan gelen sınırlar içinde eleştirel bir kayıt tuttuğunu ileri sürer.
-Korpus bir sonuca bağlanmaz.]{harita=tartisma-mogol-etkisi}
+::tartismali[Eserin Moğol yönetimini nasıl değerlendirdiği tartışmalıdır; bir okuma metni bir meşrulaştırma çalışması sayar, öteki okuma yazarın kendi konumundan gelen sınırlar içinde eleştirel bir kayıt tuttuğunu ileri sürer.]{harita=tartisma-mogol-etkisi}
 
 Bir eserin geniş kapsamlı olması
 tarafsız olduğu anlamına gelmez; iki nitelik birbirinden bağımsızdır.[^k1]
@@ -134,13 +128,10 @@ Eserin bugüne ulaşan nüshaları eksiktir ve bölümler farklı elyazmalarınd
 dağınık durumdadır.[^k1] Bazı bölümler yalnızca sonraki kopyalardan
 bilinmektedir.
 
-Bu, korpusun elyazması kaynaklarında olağan bir durumdur.[^k1] Künyede
-gösterilmez ama metne atıf yapılırken hangi bölüm ve hangi nüshanın
-kastedildiği belirtilmelidir.
+Künyede gösterilmez ama metne atıf yapılırken hangi bölüm ve hangi nüshanın kastedildiği
+belirtilmelidir.
 
-Kullanılan künye bir çeviridir.[^k1] Özgün dildeki metnin doğrulanabilir tam
-metin baskısı bu inceleme yazıldığında bulunamamıştır ve bu kısıt burada beyan
-edilir.
+Kullanılan künye bir çeviridir.[^k1]
 
 ## Resimli nüshalar
 
@@ -148,21 +139,14 @@ Eserin bazı nüshaları resimlidir ve resimler farklı gelenekleri bir arada
 kullanır.[^k2] Doğu Asya ve İslam dünyası resim gelenekleri aynı sayfalarda
 görülür.
 
-Bu, korpusun Kuşan dosyasında kaydedilen ayrımın bir başka örneğidir.[^k3]
-Unsurların yan yana durması ile birleşmesi ayrı süreçlerdir ve burada
-ikisi birden görülür.
-
-Resimli nüshalar bu incelemede künyelenmemiştir.[^k1] Nesne künyesi
-gerektirirler ve doğrulanabilir bir çevrimiçi katalog kaydı bu inceleme
-yazıldığında bulunamamıştır.
+Unsurların yan yana durması ile birleşmesi ayrı süreçlerdir ve burada ikisi birden
+görülür.
 
 ## Kapsam dışı
 
-Bu inceleme eserin ne olduğunu ve nasıl okunması gerektiğini kaydeder; bölüm
-bölüm içeriğini vermez.[^k1] Metin kaynakta erişilebilir durumdadır.
+Metin kaynakta erişilebilir durumdadır.
 
-Yazarın kendi hayatı ve sonu burada işlenmez.[^k3] Ayrı bir dosya gerektirir
-ve bu inceleme yazıldığında korpusta bulunmuyordu.
+Yazarın kendi hayatı ve sonu burada işlenmez.[^k3]
 
 Eserin sonraki tarih yazımı üzerindeki etkisi de kapsam dışıdır.[^k2]
 Aktarım zincirinin izlenmesi ayrı bir çalışma gerektirir.

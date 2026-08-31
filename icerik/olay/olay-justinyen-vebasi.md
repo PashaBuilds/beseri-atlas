@@ -45,10 +45,8 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Justinyen vebası (MS 541–549), bütün Akdeniz havzasını etkileyen bir veba
-salgınıydı.[^k1] Bu inceleme salgının kendisi kadar, **bilançosunun neden hâlâ
-tartışıldığını** ele alır.
+salgınıydı.[^k1]
 
 ## Etken kesinleşti
 
@@ -79,9 +77,154 @@ etkisine dair iddialar yöntemleri ve kaynakları ele alışları bakımından
 eleştirilmiştir.[^k1] Yani hem "büyük felaket" hem de "abartıldı" konumu, kendi
 karşı eleştirisiyle birlikte kayda geçmiştir.
 
-Korpus bu iki konum arasında hakemlik yapmaz. Kaydettiği şey şudur: etkenin
-kimliği kanıtlanmış olsa bile ölçeği kanıtlanmış olmaz — mikrobiyolojik kesinlik
-demografik kesinlik vermez.
+Kaydettiği şey şudur: etkenin kimliği kanıtlanmış olsa bile ölçeği kanıtlanmış olmaz —
+mikrobiyolojik kesinlik demografik kesinlik vermez.
+
+## Salgın tek dalga değildi
+
+541–549 tarihleri ilk ve en iyi belgelenen büyük dalgayı anlatır; veba Akdeniz
+dünyasında sonraki iki yüzyıl boyunca aralıklarla yeniden ortaya çıktı.[^k1]
+Bu nedenle "Justinyen Vebası" hem 541'de başlayan salgın hem de birinci veba
+pandemisinin geniş dönemi için kullanılabilir. İlk dalganın bilançosu ile bütün
+tekrarların etkisi karıştırılırsa rakamlar anlamını kaybeder.
+
+Salgın dalgası geride hiç bakteri kalmadığı anlamına gelmez. Patojen insan,
+kemirgen, pire ve çevre arasındaki uygun koşullarda yerel ya da bölgesel
+rezervuarlarda sürebilir; ticaret ve asker hareketiyle yeniden kentlere
+ulaşabilir. Hangi hayvan zincirinin ve bulaş yolunun belirleyici olduğu her bölge
+için aynı olmayabilir.[^k1]
+
+## Pelusium'dan Konstantinopolis'e bağlantı
+
+Çağdaş anlatılar salgının Mısır'ın Akdeniz kıyısındaki Pelusium çevresinden
+başlayıp deniz yollarıyla yayıldığını, 542'de Konstantinopolis'e ulaştığını
+aktarır.[^k1] Başkent tahıl ve mal akışına bağımlı dev bir limandı. Gemiler
+insanlarla birlikte tahıl, kemirgen ve pire taşıyabiliyordu; imparatorluğun
+beslenme ağı aynı zamanda hastalığın olası ulaşım ağıydı.
+
+Bir limanda önce kaydedilmiş olması biyolojik kökenin kesin orası olduğunu
+göstermez. Ticaret merkezleri hem daha çok bağlantıya hem daha çok yazılı
+gözlemciye sahiptir. Salgın daha önce başka yerde başlamış, kayda geçmeden
+ilerlemiş olabilir. Yayılma güzergâhı liman tarihleri, mezarlardaki DNA ve ticaret
+ağı birlikte kullanılarak kurulmalıdır.[^k1]
+
+## Klinik anlatı neyi gösterir?
+
+Kaynaklar ateş, kasık veya koltuk altında şişlik, bilinç değişikliği ve hızlı
+ölüm gibi belirtiler anlatır; bunlar hıyarcıklı vebayla uyumludur.[^k1]
+Akciğer tutulumu damlacıkla insandan insana bulaşmayı, kana yayılım ise görünür
+hıyarcık olmadan ağır tabloyu mümkün kılabilir. Tek bir salgın içinde farklı
+klinik biçimler bulunabilir.
+
+Ancak geçmiş bir hastalığı yalnız betimlemeye bakarak teşhis etmek risklidir.
+Başka enfeksiyonlar ateş ve şişlik yapabilir; yazarlar korkuyu ve ilahi cezayı
+vurgulamak için kalıp ifadeler kullanabilir. Eski DNA'nın önemi buradadır: bazı
+mezarlarda Yersinia pestis genomu, edebî tanıyı bağımsız biyolojik kanıtla
+bağlar.[^k1]
+
+## Prokopios hem tanık hem edebî yazardır
+
+Konstantinopolis'teki ölümleri anlatan Prokopios, devlet ve savaşlar hakkında
+ayrıntılı eser veren eğitimli bir çağdaştı. Şehrin günlük defin kapasitesinin
+aşıldığını, toplumsal hayatın durduğunu ve çok yüksek ölüm sayılarını aktarır.[^k1]
+Bu tanıklık salgının başkentte olağanüstü bir kriz yarattığını güçlü biçimde
+gösterir.
+
+Günlük sayıları doğrudan nüfus toplamına çevirmek yine de zordur. Yazar her
+ölümü saymış olmayabilir; duyduğu en yüksek tahmini dramatik zirve için vermiş
+olabilir. Antik felaket anlatılarında şehir düzeninin tersine dönmesi edebî bir
+motiftir. Metni reddetmek yerine, hangi gözlemin doğrudan, hangi sayının tahmin
+ve hangi ifadenin retorik olduğunu ayırmak gerekir.
+
+## Ceset yönetimi devlet kapasitesinin acil sınavıydı
+
+Kısa sürede çok sayıda ölüm olduğunda defin, sağlık kadar yönetim sorunudur.
+Mezarlık, taşıma, işgücü ve güvenli alan yetmediğinde cesetler toplu çukurlara
+veya mevcut yapılara yerleştirilebilir. Bu uygulama saygı normlarını zorlar ve
+geride arkeolojik olarak olağandışı mezar örüntüsü bırakabilir.[^k1]
+
+Devlet görevlilerinin de hastalanması vergi, dağıtım, güvenlik ve yargıyı
+aksatır. Hayatta kalanların kaçması veya bakım vermesi üretimi azaltabilir.
+Kriz yalnız ölenlerin sayısı değildir; aynı anda çalışamayanların oranı ve temel
+işlevlerin yedek kapasitesi sonucu belirler.
+
+## Justinyen'in savaşlarıyla çakışma
+
+Salgın, İmparator Justinyen'in Kuzey Afrika ve İtalya'da eski Roma topraklarını
+geri alma savaşları yürüttüğü dönemde geldi. Ordu, vergi ve tahıl talebi zaten
+yüksekti; hastalık asker toplama, ikmal ve gelir kapasitesini aşındırmış olabilir.[^k1][^k2]
+Sasani cephesindeki savaş ve diplomasi de aynı kaynak havuzuna yük bindiriyordu.
+
+Buradan "veba fetihleri tek başına durdurdu" sonucu çıkmaz. İtalya'daki uzun
+direniş, coğrafya, komutanlık, Sasani savaşı ve sonraki siyasi kararlar da etkiliydi.
+Salgın mevcut mali baskıyı büyüten çarpan olabilir. Etkiyi göstermek için ordu
+mevcudu, sikke, vergi belgesi ve sefer temposunda salgın öncesi-sonrası değişim
+aranmalıdır.[^k1]
+
+## Emek kıtlığı ücretleri artırdı mı?
+
+Yüksek ölüm oranı işgücünü azaltırsa hayatta kalan çalışanın pazarlık gücü ve
+ücreti yükselebilir. Justinyen dönemindeki ücret ve fiyat düzenlemeleri bazen bu
+mekanizmanın işareti sayılır.[^k1] Fakat yasa çıkarılması, piyasanın gerçekten ne
+ölçüde değiştiğini veya emrin uygulandığını tek başına göstermez.
+
+Kara Ölüm sonrası Avrupa için daha zengin veriyle kurulan emek kıtlığı modelini
+altıncı yüzyıla aynen taşımak risklidir. Kölelik, vergi, toprak ilişkisi, bölgesel
+nüfus ve pazar bütünleşmesi farklıydı. Ücret artışı belirli kent veya mesleklerde
+görülebilirken kırsal üretici daha ağır vergiyle karşılaşabilir.[^k1]
+
+## Polen, sikke ve papirüs ne söyleyebilir?
+
+Yazılı ölüm sayısı eksik olduğunda dolaylı göstergeler kullanılır. Polen dizisi
+tarım alanının ormana dönüp dönmediğini, sikke dolaşımı ekonomik faaliyetteki
+değişimi, vergi ve papirüs kayıtları yerleşim sürekliliğini gösterebilir.[^k1]
+Her gösterge farklı coğrafya ve zaman çözünürlüğüne sahiptir.
+
+Tarım poleninin azalması ölüm dışında ürün tercihi veya iklim değişiminden;
+sikke azalması darphane politikası veya buluntu yanlılığından kaynaklanabilir.
+Bir gösterge felaket göstermediğinde hiç ölüm olmadığını, keskin değişim
+gösterdiğinde tek nedenin veba olduğunu söylemek doğru değildir. Birbirinden
+bağımsız birkaç dizinin aynı zaman ve yerde buluşması kanıtı güçlendirir.
+
+## DNA kesinliği ile nüfus belirsizliği
+
+Eski DNA belirli kişinin Yersinia pestis taşıdığını ve suşların akrabalığını
+gösterebilir. Bu büyük bir yöntemsel ilerlemedir; tarihsel metindeki hastalık
+adının modern teşhisle eşleşmesini sağlar.[^k1] Fakat örneklenen mezarlık nüfusu
+temsil etmeyebilir, DNA'nın korunması çevreye bağlıdır ve pozitif birkaç birey
+ölüm oranını vermez.
+
+Dolayısıyla iki iddia ayrı güven düzeyi taşır: salgında veba bakterisinin
+bulunduğu çok güçlüdür; Akdeniz nüfusunun belirli yüzdesini öldürdüğü daha
+tartışmalıdır. Bilimsel dürüstlük, laboratuvar başarısını demografik sayıya
+aktarırken bu basamağı açık tutar.[^k1]
+
+## Büyük felaket ve asgari etki tezleri
+
+Geleneksel yorum salgını nüfus, vergi, ordu ve kent yaşamında çağ değiştiren
+daralma olarak görür. Revizyonist araştırmalar ise çağdaş metinlerin azlığı,
+coğrafi dağılımı ve bazı dolaylı dizilerde beklenen kırılmanın görülmemesi
+üzerinden etkilerin abartıldığını savunur.[^k1] Tartışma, salgının var olup
+olmadığından çok ölçek ve nedensellik üzerindedir.
+
+İki uç da kanıtı zorlayabilir. Her altıncı yüzyıl krizini vebaya bağlamak çok
+etkenli tarihi mikroba indirger; birkaç bölgenin sürekliliğinden bütün Akdeniz'in
+hafif etkilendiği sonucunu çıkarmak da yerel felaketi düzleştirir. En iyi soru
+*veba tarihi değiştirdi mi?* değil, nerede, ne zaman ve hangi kurum üzerinden ne
+kadar etkilediğidir.[^k1]
+
+## Sonraki salgınla karşılaştırma
+
+Kara Ölüm'de daha yoğun noter, vergi, vasiyet ve fiyat kayıtları ölüm ve emek
+etkisini ayrıntılı izlemeye imkân verir. Justinyen döneminde kaynak yoğunluğu
+daha düşüktür; aynı bakterinin bulunması aynı ölüm oranını gerektirmez.[^k1]
+Suş, kemirgen ekolojisi, kent yapısı, iklim ve ulaşım ağı farklı sonuç
+üretebilir.
+
+Karşılaştırmanın değeri özdeşlik değil kontrollü soru üretmesidir. Hangi bulaş
+yolu baskındı, salgın kaç kez döndü, emek ilişkisi nasıl tepki verdi, devlet
+geliri ne kadar azaldı? Sekiz yüzyıl arayla aynı etken, toplumsal bağlamın
+sonucu ne ölçüde değiştirebildiğini araştırma fırsatı sunar.
 
 ## Vurduğu devletin ölçüsü
 
@@ -109,6 +252,10 @@ verilir.[^k3] Salgının bu toplam üzerindeki etkisine dair bir ölçüm kullan
 kaynaklarda bulunmadığı için burada oran verilmemiştir.
 
 ## Kanıtın ve kapsamın sınırı
-Salgının yayılma güzergâhı, dönemin tıbbi anlayışı ve dönemin fetih
-politikasıyla ilişkisi burada ayrı başlıklar altında ele alınmamıştır. Dönemin
-bütünü [200–650](/donem/05/) dosyasında ele alınıyor.
+
+Antik metinler salgının yaşandığını ve başkentte olağanüstü kriz doğurduğunu,
+eski DNA etkenin Yersinia pestis olduğunu güçlü biçimde gösterir.[^k1] Toplam
+ölüm ve uzun vadeli ekonomik sonuç aynı kesinlikte değildir. Nüfus tahmini,
+mezar örneklemi, polen, sikke ve vergi kaydı bölgesel olarak karşılaştırılmalıdır.
+Salgın, savaş ve iklim etkisi birbirinin yerine geçirilmemelidir. Dönemin bütünü
+[200–650](/donem/05/) dosyasında ele alınıyor.

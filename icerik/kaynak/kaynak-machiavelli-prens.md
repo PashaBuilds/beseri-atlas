@@ -61,7 +61,6 @@ son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak eseri Prens başlığıyla işler ve her bölümünün yüzyıllar boyunca kapsamlı
@@ -78,10 +77,6 @@ deneyimlerinden ve zorluklardan ve tehlikelerden kazandığı bilgiyi içerdiği
 belirttiğini, kendisini alçakgönüllü bir hizmetkâr olarak tanımladığını ve
 kitabı büyük adamların eylemlerine dair bilgiyle doldurduğunu söylediğini
 kaydeder.[^k1]
-
-Bir siyaset metninin bir kişiye ithafla açılması,[^k1] korpusun şu kuralının
-dayanağıdır: bu incelemede eserden çıkarılan hiçbir önerme, kimin için yazıldığı
-belirtilmeden genel bir siyaset kuralı olarak aktarılmaz.
 
 ## Bölümleme bir sınıflandırmadır
 
@@ -100,14 +95,10 @@ Yazar için tutulan ayrı bir kayıt, bir felsefe ansiklopedisinde onunla ilgili
 maddeye rastlayan herkesin neden Machiavelli sorusunu sorabileceğini yazar ve
 yazılarını çileden çıkaracak ölçüde sistemsiz ve tutarsız olarak niteler.[^k2]
 
-Aynı yazarın bir eseri bölüm bölüm sınıflandırırken külliyatının bütününün
-sistemsiz sayılması,[^k1][^k2] korpusun eser dosyaları ile düşünür dosyalarını
-neden ayrı tuttuğunun dayanağıdır. Yazar
-[Machiavelli](/dusunur/machiavelli/) dosyasında, dönem ise
+Yazar [Machiavelli](/dusunur/machiavelli/) dosyasında, dönem ise
 [Rönesans](/olay/ronesans/) dosyasında ele alınıyor.[^k3]
 
 ## Metne bağ
 
-Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Eserin kendisi kamu malıdır; hangi çevirinin ve
-hangi baskının kullanıldığı, korpusun kaynak gösterme kuralına göre her alıntıda
-belirtilmelidir.
+Eserin kamu malı tam metni erişilebilir durumdadır; hangi baskı ve çevirinin
+kullanıldığı her aktarımda belirtilmelidir.[^k4]

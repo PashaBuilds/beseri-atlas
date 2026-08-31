@@ -51,7 +51,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Seri 1970'te yaklaşık %25,8 ile başlar ve 2024'te yaklaşık %56,7 ile biter;
 toplam 55 gözlem vardır.[^k1]
 
@@ -60,14 +59,7 @@ toplam 55 gözlem vardır.[^k1]
 Veri kümesinde dünya toplamı için 1970'ten önce gözlem bulunmaz.[^k1] Bu,
 serinin en önemli sınırıdır ve dosyanın adında da belirtilmiştir.
 
-Bir dışa açıklık serisinin yirminci yüzyılın ikinci yarısından
-başlaması,[^k1] korpusun şu kuralının dayanağıdır: bu incelemeden on dokuzuncu
-yüzyıl küreselleşme dalgasına ya da iki savaş arası kapanmaya dair bir değer
-okunamaz.
-
-Sınır önemlidir çünkü serinin gösterdiği yükseliş, tarihteki tek yükseliş
-değildir.[^k3] Korpusun kavram dosyaları daha erken dalgaları kaydeder; bu
-seri onları göstermez.
+Sınır önemlidir çünkü serinin gösterdiği yükseliş, tarihteki tek yükseliş değildir.[^k3]
 
 ## Oranın ne ölçtüğü
 
@@ -88,8 +80,7 @@ Seri düz bir yükseliş çizmez.[^k1] Kayıtta 2008 sonrasında bir düşüş v
 ardından dalgalı bir seyir bulunur; 2023'te yaklaşık %58,1 olan oran 2024'te
 yaklaşık %56,7'ye iner.
 
-Bu iniş, korpusun olay dosyalarıyla birlikte okunmalıdır.[^k3] Bir oranın
-düşmesi, ticaretin azaldığını değil, millî gelirin ticaretten daha hızlı
+Bir oranın düşmesi, ticaretin azaldığını değil, millî gelirin ticaretten daha hızlı
 büyüdüğünü de gösterebilir.
 
 Oranın payı ile paydası ayrı ayrı incelenmeden,
@@ -106,11 +97,8 @@ farklıdır; bölme işlemi, iki kaynağın uyumlu olduğu varsayımını gerekt
 Bu, bağlantılı veri incelemelerinde genel kuraldır.[^k2] Farklı kaynaklardan gelen
 seriler, aralarındaki tanım farkı incelenmeden birbirine bölünmez.
 
-## Serinin korpustaki işlevi
-
-Bu inceleme, korpusun ticaret kavramı dosyalarına ölçülebilir bir zemin
-sağlar.[^k1] Kavram dosyaları ticaretin nasıl örgütlendiğini anlatır; bu seri
-ne kadarının sınır geçtiğini verir.
+Kavram dosyaları ticaretin nasıl örgütlendiğini anlatır; bu seri ne kadarının sınır
+geçtiğini verir.
 
 İki katmanın ayrı tutulması önemlidir.[^k3] Bir ticaret düzeninin kurumsal
 biçimi ile hacmi ayrı şeylerdir; aynı hacim çok farklı düzenlerle
@@ -125,10 +113,6 @@ toplamını kaydeder ve kaynak dosyasında ülke satırları da bulunur.
 
 Ticaretin bileşimi — hangi malların, hangi hizmetlerin — kapsam
 dışıdır.[^k1] Seri toplam değer verir; içerik dağılımı vermez.
-
-1970 öncesi dönem bu incelemeden okunamaz.[^k3] Korpusun daha erken ticaret
-düzenleri için kavram ve olay dosyaları vardır ve bu seri onları
-desteklemez.
 
 ## Okumayı sürdürmek için
 Serinin ölçtüğü olgunun kavram karşılığı için

@@ -1,7 +1,7 @@
 {
   "id": "dusunur-keynes",
-  "govde_hash": "872273b8899b",
-  "commit": "ed6ddb4",
+  "govde_hash": "15d9875c5849",
+  "commit": "889239af",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -342,20 +342,6 @@
       "inceleme": "Hedefin Genel Teori degil 1930 Treatise oldugu ayrimi kaynakta acik"
     },
     {
-      "iddia_id": "i024",
-      "cumle": "İki adamın ilişkisi bir cephe hattı değildi; Wikipedia'nın aktardığı mektupta Keynes, *The Road to Serfdom*'u okuduktan sonra Hayek'e \"Morally and philosophically I find myself in agreement with virtually the whole of it.\" diye yazar; mektubun kendi metni bu dosya için görülmedi.",
-      "onem": "renk",
-      "tur": "aktarim",
-      "kaynaklar": [
-        {
-          "anahtar": "k1",
-          "destek": "dogrudan"
-        }
-      ],
-      "guven": "orta",
-      "inceleme": "Wikipedia uzerinden aktarilan mektup alintisi; birincil mektup metni gorulmedi. Hakem: aktarim halkasi govdede de acikca beyan edildi"
-    },
-    {
       "iddia_id": "i025",
       "cumle": "Orada iktisatçıların tavsiye ettiği politikaların hızlanan enflasyona yol açtığını, meslek olarak işleri berbat ettiklerini söyler — \"as a profession we have made a mess of things.\" İtirazı iki katmanlıdır: otuz yıldır para ve maliye politikasına yön veren kuram, toplam istihdam ile mal ve hizmetlere yönelik toplam talep arasında basit ve olumlu bir bağıntı bulunduğunu ileri sürer; Hayek bu kuramı temelden yanlış sayar.",
       "onem": "merkezi",
@@ -581,9 +567,17 @@
     }
   ],
   "sayaclar": {
-    "dogrudan": 39,
+    "dogrudan": 38,
     "kismi": 2,
     "desteksiz": 0,
     "olculemez": 0
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "872273b8899b",
+      "yeni_hash": "15d9875c5849",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    }
+  ]
 }

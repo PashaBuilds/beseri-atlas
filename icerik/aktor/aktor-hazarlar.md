@@ -51,7 +51,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Hazarlar, yedinci yüzyıl ortasından onuncu yüzyıl sonuna kadar Volga'nın
@@ -62,8 +61,7 @@ Kağanlığın denetlediği alan, kuzey ile güney arasındaki ticaret
 yollarının üzerindeydi.[^k2] Bu konum, düzenin gelirini ve dış
 ilişkilerini belirledi.
 
-Bu incelemenin asıl konusu düzenin kendisi kadar, hakkında bilinenlerin
-nereden geldiğidir.[^k3] İkisi ayrılamaz.
+İkisi ayrılamaz.
 
 ## Kaynakların dağılımı
 
@@ -185,9 +183,8 @@ Bölgede kazılar yapılmış ve yerleşim kalıntıları bulunmuştur.[^k2] Bul
 Başkentin yeri kesin olarak belirlenememiştir.[^k1] Kaynaklarda anılan
 merkez, arkeolojik olarak kesin biçimde eşleştirilememiştir.
 
-Bu, korpusun kanıt dosyasındaki ölçütü doğrudan örnekler.[^k3] Nesne
-kanıtı üretim ve süreklilik sorularına cevap verir; yer ve tarih
-sorularına yazılı kayıt olmadan cevap veremez.
+Nesne kanıtı üretim ve süreklilik sorularına cevap verir; yer ve tarih sorularına yazılı
+kayıt olmadan cevap veremez.
 
 ## Çöküş
 
@@ -209,7 +206,6 @@ ilişkilendiren iddialar ortaya atılmıştır.[^k2] Bu iddialar akademik
 yazında karşılık bulmamıştır.
 
 İddiaların önemli bir bölümü siyasi amaçlarla kullanılmıştır.[^k3]
-Korpus bu kullanımları konu edinmez ve tartışmaz.
 
 Pratik sonucu doğrudan bir kaynak sorunudur.[^k2] Konu hakkında açık
 arama yapıldığında dönen sonuçların önemli bölümü güvenilir değildir ve
@@ -217,12 +213,9 @@ bu, dosyanın uzun süre yazılamamasının nedenidir.
 
 ## Dosyanın geciktirilmesi
 
-Bu inceleme, korpusun Orta Asya dizisinde daha önce yazılabilirdi.[^k1]
 Yazılmadı ve nedeni kayda geçirildi.
 
 Neden, kaynak taramasının güvenilir olmayan malzeme döndürmesiydi.[^k3]
-Korpusun kuralı, ilerlemek için kaynak uydurmamaktır; bu, kaynak
-bulunamadığında dosyayı ertelemeyi de kapsar.
 
 Dosya, alanın standart akademik monografisi künyelenebilir hâle
 geldiğinde yazıldı.[^k2] Künye, kitabın tam metnini değil kütüphane
@@ -251,9 +244,8 @@ Sınır bir eksiklik değil, ölçülebilir bir özelliktir.[^k2] Gözlemcinin
 ilgisi bilinirse, kaydın hangi alanlarda güvenilir olduğu da
 kestirilebilir.
 
-Bu incelemede uygulanması şöyledir.[^k3] Ticaret ve coğrafya bilgileri
-görece güvenilir sayılır; iç yapı ve inanç konusundaki bilgiler ise
-gözlemcinin dışarıdan çıkarımıdır.
+Ticaret ve coğrafya bilgileri görece güvenilir sayılır; iç yapı ve inanç konusundaki
+bilgiler ise gözlemcinin dışarıdan çıkarımıdır.
 
 ## Ad ve kapsam sorunu
 
@@ -274,24 +266,17 @@ Dosyanın kaydettiği kural tek cümleyle ifade edilebilir.[^k2] **Yalnızca
 dışarıdan yazılmış bir düzen hakkında bilinenler, o düzenin özelliği
 değil gözlemcilerin ilgisinin haritasıdır.**
 
-Kural bu incelemeye özgü değildir.[^k1] Korpusun kayıt bırakmamış düzenleri
-işleyen bütün dosyalarında aynı kısıt geçerlidir.
-
 Kuralın uygulanması bir maliyet doğurur.[^k3] Dosya, sürekli olarak neyin
 bilinmediğini yazdığı için kısa ve boşluklu görünür; alternatif, boşlukları
 belirtmeden yazmak ve kanıtı olduğundan güçlü göstermektir.
 
 ## Kaynak durumu
 
-Bu incelemenin üç künyesinden biri ansiklopedi maddesi, biri kütüphane
-kaydı, biri giriş kapısıdır.[^k1] Hiçbiri birincil kaynak değildir.
+Hiçbiri birincil kaynak değildir.
 
-Birincil kaynaklar mevcuttur ama künyelenememiştir.[^k2] İslam
-coğrafyacılarının ilgili bölümlerinin doğrulanabilir çevrimiçi baskıları
-bu inceleme yazıldığında bulunamamıştır.
+Birincil kaynaklar mevcuttur ama künyelenememiştir.[^k2]
 
-Eksik, korpusun borç defterine yazılmıştır.[^k3] Dosya, birincil kaynağı
-olmayan makaleler grubundadır ve bu, künyesinden görülebilir.
+Dosya, birincil kaynağı olmayan makaleler grubundadır ve bu, künyesinden görülebilir.
 
 ## Kapsam dışı
 
@@ -316,12 +301,6 @@ Dosyanın güven düzeyi künyede tartışmalı olarak
 işaretlenmiştir.[^k1] İşaret, olguların uydurma olduğunu değil, elde
 bulunan kanıtın kesin sonuç vermeye yetmediğini gösterir.
 
-## Okumayı sürdürmek için
-Aynı bozkır geleneğinden çıkan ve kendi dilinde uzun yazıtlar bırakmış
-düzen için [Göktürk Kağanlığı](/aktor/gokturk-kaganligi/) ve
-[Orhon Yazıtları](/kaynak/orhon-yazitlari/) dosyaları okunmalıdır;
-karşılaştırma bu incelemenin konusunu doğrudan gösterir.[^k2]
-
 Bozkır düzenlerinin genel yapısı için
 [Bozkır imparatorluğu](/kavram/bozkir-imparatorlugu/) dosyası
 uygundur.[^k1]
@@ -335,3 +314,19 @@ okunabilir.[^k3]
 Komşu düzenler için [Abbasi Hilafeti](/aktor/abbasi-hilafeti/) ve
 [Bizans İmparatorluğu](/aktor/bizans-imparatorlugu/) dosyaları
 okunmalıdır.[^k1]
+
+## Komşuların aynasında görünen devlet
+
+Bizans, İslam dünyası, Rus ve başka çevrelerin kayıtları Hazarları kendi güvenlik,
+ticaret ve din tartışmaları içinden anlatır.[^k1][^k2] Aynı olayın adları,
+tarihleri ve aktörleri bu gelenekler arasında değişebilir. Çelişkiyi tek bir
+“doğru kronik” seçerek kapatmak yerine yazarın erişimi, amacı ve kullandığı daha
+eski metinler karşılaştırılmalıdır.
+
+Yönetici çevrenin dinî tercihi hakkındaki güçlü iddialar da bütün nüfusun inancı
+olarak genellenmemelidir. Bozkır ve ticaret ağında farklı diller ile dinler yan
+yana bulunabilir. Sikke, mezar, kale ve yerleşim kanıtları yazılı kaydı sınar;
+fakat maddi nesneyi de doğrudan tek etnik kimliğin işareti saymamak gerekir.[^k3]
+
+Sekiz kelimelik bir yazıt bile yer, tarih ve buluntu bağlamı bilindiğinde uzun
+bir dış kronikten daha dar ama daha doğrudan bir soruya cevap verebilir.

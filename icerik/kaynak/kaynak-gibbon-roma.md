@@ -61,7 +61,6 @@ son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak eseri altı ciltlik bir çalışma olarak künyeler ve ciltlerin 98'den 1590'a
@@ -74,10 +73,6 @@ cildin (IV-VI) 1788'de birlikte çıktığını kaydeder.[^k1]
 Kaynak, birinci cildin 1776 ile 1789 arasında art arda altı gözden geçirilmiş
 baskı hâlinde yeniden yayımlandığını yazar.[^k1]
 
-Bir cildin on üç yılda altı kez gözden geçirilmesi,[^k1] korpusun şu kuralının
-dayanağıdır: bu incelemede esere yapılan her atıf, hangi baskıya ait olduğu
-belirtilerek verilmelidir.
-
 ## Modern neşirler de birden çoktur
 
 Kaynak, basılı tam neşirleri sıralar: J. B. Bury'nin yedi ciltlik iki baskısı
@@ -85,10 +80,6 @@ Kaynak, basılı tam neşirleri sıralar: J. B. Bury'nin yedi ciltlik iki baskı
 Trevor-Roper'ın altı ciltlik 1993-1994 baskısı ve David Womersley'in üç ciltlik
 1994 baskısı; sonuncusunun özgün dizini ile 1779 tarihli *Vindication*'ı
 içerdiği belirtilir.[^k1]
-
-Aynı eserin dört farklı editör tarafından farklı cilt bölünmeleriyle
-neşredilmesi,[^k1] korpusun kaynak alanında neden erişilen sürümü tuttuğunun
-dayanağıdır.
 
 ## Eserin başlattığı tartışma
 
@@ -108,5 +99,5 @@ onu Antik Çağ'ın belki en büyük Hıristiyan filozofu olarak verir ve eserle
 
 ## Metne bağ
 
-Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Eser kamu malıdır; hangi baskının ve hangi editörün
-neşrinin kullanıldığı her aktarımda belirtilmelidir.
+Eserin kamu malı tam metni erişilebilir durumdadır; hangi baskı ve editörün
+neşrinin kullanıldığı her aktarımda belirtilmelidir.[^k4]

@@ -1,7 +1,7 @@
 {
   "id": "kavram-modernlesme-kurami",
-  "govde_hash": null,
-  "commit": null,
+  "govde_hash": "545f296fd122",
+  "commit": "889239af",
   "zaman": "2026-08-30",
   "hakem": "TASLAK-yazar",
   "iddialar": [
@@ -35,7 +35,7 @@
     },
     {
       "iddia_id": "i3",
-      "cumle": "Truman ayrıca bir çekince koyuyordu: The old imperialism--exploitation for foreign profit--has no place in our plans.",
+      "cumle": "Truman ayrıca bir çekince koyuyordu: \"The old imperialism--exploitation for foreign profit--has no place in our plans.\"",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -203,7 +203,7 @@
     },
     {
       "iddia_id": "i15",
-      "cumle": "Andre Gunder Frank 1966'da Monthly Review'da The Development of Underdevelopment başlıklı bir yazı yayımladı.",
+      "cumle": "Andre Gunder Frank 1966'da Monthly Review'da \"The Development of Underdevelopment\" başlıklı bir yazı yayımladı.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -245,7 +245,7 @@
     },
     {
       "iddia_id": "i18",
-      "cumle": "Kendisi tam tersini yazar: aşamalar, modern tarihin akışına bakmanın an arbitrary and limited way of looking at the sequence of modern history biçimidir ve hiçbir mutlak anlamda doğru bir yol değildir; amaçları benzerlikleri olduğu kadar her ulusun tekilliğini de öne çıkarmaktır ve ancak belirli sınırlı amaçlar için yararlıdırlar.",
+      "cumle": "Kendisi tam tersini yazar: aşamalar, modern tarihin akışına bakmanın \"an arbitrary and limited way of looking at the sequence of modern history\" biçimidir ve hiçbir mutlak anlamda doğru bir yol değildir; amaçları benzerlikleri olduğu kadar her ulusun tekilliğini de öne çıkarmaktır ve ancak belirli sınırlı amaçlar için yararlıdırlar.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -259,7 +259,7 @@
     },
     {
       "iddia_id": "i19",
-      "cumle": "Bir kalkınma bakanı için yüzde on eşiği soyut bir yapı çözümlemesinden daha kullanışlıydı.",
+      "cumle": "Bir kalkınma bakanı için yüzde on eşiği, soyut bir yapı çözümlemesinden daha kullanışlıydı; itiraz bu kullanışlılığı açıklamak zorundadır.",
       "onem": "destek",
       "tur": "yorum",
       "kaynaklar": [
@@ -291,5 +291,11 @@
     "kismi": 4,
     "desteksiz": 0,
     "olculemez": 0
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-30",
+      "gerekce": "3 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

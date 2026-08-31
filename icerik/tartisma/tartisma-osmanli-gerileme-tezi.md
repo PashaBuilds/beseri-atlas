@@ -326,11 +326,11 @@ Reddiye Türkçeye de taşındı, ama adını açık ederek. Grant'in Osmanlı
 gerilemesini askerî teknoloji yarışı üzerinden yeniden düşünen yazısıyla
 Hathaway'in Osmanlı tarihini dönemlere ayırma sorununu ele alan yazısı 2011'de
 Osmanlı Tarihini Yeniden Yazmak — Gerileme Paradigmasının Sonu adlı aynı cilde
-girdi; yani derleme, tarafsız bir dosya değil, bir tarafın kendini ilan
-etmesidir. Aynı kaynakçada
-Abou-El-Haj'ın modern devletin doğası üzerine kitabı, Darling'in vergi
+girdi; aynı kaynakçada Abou-El-Haj'ın modern devletin doğası üzerine kitabı, Darling'in vergi
 toplanması ve maliye yönetimi incelemesi ve Fleischer'in Mustafa Âli
-çalışması da yer alır.[^k6]
+çalışması da yer alır.[^k6] Derlemenin “Gerileme Paradigmasının Sonu” başlığı,
+tarafsız bir dosyadan çok bir taraf beyanıyla karşı karşıya olduğumuzu açık
+eder.
 
 Reddiyenin ulaştığı yer, ansiklopedik özetlerde bile keskindir: nasihatname
 edebiyatının ve Osmanlı uygarlığının sayısız başka yönünün yeniden
@@ -457,4 +457,3 @@ Osmanlı'ya özgü mü sayılacak, yoksa aynı yıllarda Avrasya'nın başka
 bölgelerinde görülen bunalımlarla birlikte mi okunacak? Bu üç soru
 cevaplanmadan “gerileme” ile “dönüşüm” arasındaki tercih bir bulgu değil, bir
 çerçeve seçimi olarak kalır.
-

@@ -74,29 +74,16 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak, tanım ve türler başlığı altında üç alt başlık tutar: mutlaklık,
 dışlayıcılık ile hukuken ve fiilen egemenlik; sonuncusunun altında egemenlik ve
 bağımsızlık ayrımı ayrıca işlenir.[^k1]
 
 ## Hukuken ile fiilen ayrı ayrı tanımlanır
 
-Aynı kavram için hukuki ve fiilî durumların ayrı ayrı tanımlanması,[^k1] korpusun
-aktör dosyalarında neden devlet biçimini kaynağın verdiği ifadeyle tuttuğunun
-dayanağıdır: bir devletin ne olduğu ile ne sayıldığı ayrı kayıtlardır.
-
-Aynı ayrımın somut bir örneği korpusun aktör katmanında bulunur:
-[Goryeo ve Joseon Kore](/aktor/goryeo-choson/) dosyası, bir hanedanın devlet
-biçimini aralıklarla kaydeden bir örnektir.
-
 ## Tarih beş döneme ayrılmıştır
 
 Kaynak tarih bölümünü beş alt başlığa ayırır: klasik, ortaçağ, Reform, Aydınlanma
 Çağı ve İkinci Dünya Savaşı sonrası dünya düzeni.[^k1]
-
-Bir kavramın tarihinin dönemlere ayrılması,[^k1] korpusun şu kuralının
-dayanağıdır: bu korpusta egemenlik sözcüğü, hangi dönemde kullanıldığı
-belirtilmeden geçmez.
 
 ## Mutlak egemenliği savunan düşünür
 
@@ -122,3 +109,63 @@ olarak işler.[^k1]
 Bu kavramın formüle edildiği eser Hobbes, *Leviathan*'dir; dosya o eserin kamu malı
 tam metnine bağlanır.[^k4] Kavrama yapılacak atıflar, kavramı tanımlayan
 bölüm belirtilerek verilmelidir.
+
+## İçeride üstünlük, dışarıda bağımsızlık
+
+Egemenlik, belirli bir siyasal toplulukta nihai karar yetkisinin nerede bulunduğu
+sorusuna cevap verir. İç egemenlik, kuralları koyma ve uygulatma konusunda başka
+bir yerel gücün üstünde olmayı; dış egemenlik, başka devletin hukuki buyruğuna
+bağlı olmamayı anlatır. Bir devlet dışarıdan tanınırken ülke içinde kararlarını
+uygulatamayabilir; fiilî denetim kuran bir yönetim de uluslararası alanda
+tanınmayabilir. Hukuki iddia ile gerçek kapasite ayrı ölçülmelidir.[^k1]
+
+Egemenliğin “mutlak” denmesi, iktidarın her istediğini sınırsızca yapabileceği
+anlamına gelmek zorunda değildir. Anayasa, temel haklar, gelenek, dinî otorite,
+yerel yönetim ve uluslararası yükümlülükler karar alanını sınırlar. Esas mesele,
+bu sınırların geçerliliğine son kertede kimin karar verdiği ve kural ihlalinde
+hangi kurumun yaptırım uygulayabildiğidir. [Hukuk devleti](/kavram/hukuk-devleti/)
+egemen gücün usul ve haklarla bağlanmasını açıklar.
+
+## Kaynak, kullanım ve kabul
+
+Halk egemenliği yetkinin kaynağını yurttaşlara; hanedan egemenliği hükümdarlık
+hakkına; parlamenter düzen temsil kurumuna bağlayabilir. Kaynak ile günlük
+kullanım aynı yerde olmayabilir: anayasa egemenliği millete verirken kararları
+seçilmiş organlar, mahkemeler ve idare paylaşır. Federal yapılarda merkez ile
+bileşen birimler farklı yetki alanlarına sahiptir. Yetkinin bölünmesi, siyasal
+düzenin egemen olmadığı anlamına değil, nihai kurallarının bölüşümü tanımladığı
+anlamına gelebilir.
+
+Weber’le ilişkilendirilen meşru fiziksel güç tekeli, egemenliğin fiilî ve
+meşruiyet boyutlarını birbirine bağlar.[^k3] Yalnız şiddet kapasitesi yeterli
+değildir; emrin haklı veya yasal görülmesi maliyetli zor kullanımını azaltır.
+[Meşruiyet](/kavram/mesruiyet/) kabulün gelenek, karizma ve akılcı-yasal düzen
+üzerinden nasıl üretilebildiğini gösterir.
+
+## Antlaşma, himaye ve yerli siyasal yetki
+
+Bir antlaşma egemenliği devredebilir, paylaşabilir veya yalnız belirli yetkileri
+sınırlayabilir. Çeviri farkı ve tarafların kavramlara yüklediği anlam bu nedenle
+kritiktir. [Waitangi Antlaşması](/olay/waitangi-antlasmasi-1840/) ile [Hangi
+Waitangi metni?](/tartisma/waitangi-hangi-metin/) aynı belgenin yönetim yetkisi
+ve yerli hakları bakımından neden farklı okunabildiğini gösterir.
+
+[Himaye düzeni](/kavram/himaye-duzeni/) dış ilişkiler veya savunma yetkisinin
+güçlü devlete bırakıldığı, iç yönetimin bir ölçüde sürdüğü ara biçimleri açar.
+Vesayet, işgal, ilhak ve eşitsiz antlaşma da aynı şey değildir; her durumda hangi
+yetkinin, hangi hukuki işlemle ve ne kadar süre için değiştiği sorulmalıdır.
+
+Hobbes’un *Leviathan*’ı iç savaş ve bölünmüş otorite sorununa güçlü, birleşik bir
+egemenlik cevabı verir.[^k2][^k4] Bu kuramsal cevap modern tarihteki bütün
+egemenlik biçimlerini tek başına açıklamaz. [Vestfalya miti](/tartisma/vestfalya-miti/)
+da devlet egemenliğinin bir antlaşmayla bir anda doğduğu kısa anlatıyı sınar.
+Kavram, haritadaki sınırdan çok karar yetkisi, fiilî kapasite, dış tanınma ve
+meşruiyet arasındaki ilişkiyi gösterdiğinde anlam kazanır.[^k1]
+
+Küresel ekonomi ve uluslararası örgütler egemenliği ortadan kaldırmaktan çok
+kullanım koşullarını dönüştürür. Devlet bir antlaşmayla yetki sınırlamasını kendi
+rızasıyla kabul edebilir; daha zayıf devletin rızası ekonomik veya askerî baskı
+altında oluşabilir. Hukuki eşitlik ile gerçek pazarlık gücü arasındaki fark,
+bağımsızlık iddiasının maddi kapasiteyle birlikte okunmasını gerektirir.
+
+Para, enerji, gıda ve savunmada dışa bağımlılık hukuki egemenliği kendiliğinden yok etmez; fakat kriz anında seçeneklerin gerçek maliyetini yükseltebilir. Bu nedenle kâğıt üzerindeki yetki ile sürdürülebilir karar kapasitesi ayrı göstergelerle izlenmelidir.

@@ -52,7 +52,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Seri 1820'de 1.127,73 ile başlar ve 2022'de 16.676,75 ile biter; iki yüz iki yıl
 için toplam 21 gözlem vardır.[^k1]
 
@@ -61,7 +60,7 @@ için toplam 21 gözlem vardır.[^k1]
 Gözlem sayısının yıl sayısına oranı yaklaşık on yılda bir noktaya karşılık
 gelir.[^k1]
 
-::tartismali[Bu seri bir ölçüm dizisi değil, bir yeniden kurma projesidir. Aradaki yıllar için değer okunamaz ve iki gözlem arasında çizilen çizgi bir varsayımdır. Korpus bu seriden yıllık büyüme oranı türetmez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bu seri bir ölçüm dizisi değil, bir yeniden kurma projesidir. Aradaki yıllar için değer okunamaz ve iki gözlem arasında çizilen çizgi bir varsayımdır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Sayıların nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -72,10 +71,6 @@ haritasında ele alınıyor.
 Serinin birimi uluslararası dolardır; bu birim, farklı ülkelerin ve farklı
 yılların değerlerini karşılaştırılabilir kılmak için kurulmuş bir hesap
 birimidir.[^k1]
-
-Bir ölçünün biriminin doğrudan bir para birimi değil bir dönüştürme kurgusu
-olması,[^k1] korpusun şu kuralının dayanağıdır: bu seriden okunan değerler,
-birimin ne olduğu belirtilmeden aktarılmaz.
 
 ## Aynı sağlayıcının nüfus serisi
 
@@ -92,11 +87,3 @@ gelişmiş bölgelerinin 19. yüzyıl başında karşılaştırılabilir iktisad
 düzeylerine ulaştığını savunan bir kitabı anlatır.[^k3] O tez
 [Pomeranz — Büyük Ayrışma](/kaynak/pomeranz-buyuk-ayrisma/) dosyasında, kavram
 ise [Büyük Ayrışma](/kavram/buyuk-ayrisma/) dosyasında ele alınıyor.
-
-Korpus bu seriyi o tezin kanıtı ya da çürütmesi olarak sunmaz: seri dünya
-toplamını verir, tez ise bölgeler arası bir karşılaştırma yapar.[^k1][^k3]
-
-## Kanıtın ve kapsamın sınırı
-Ülke ülke değerler, satın alma gücü düzeltmeleri ve yeniden kurma yöntemi burada
-ayrı başlıklar altında ele alınmamıştır; bu inceleme yalnızca dünya toplamı
-serisini kaydeder.[^k1]

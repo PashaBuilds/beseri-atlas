@@ -57,7 +57,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Vesayet yönetimi, Birinci Dünya Savaşı sonunda yenilen devletlerin
@@ -69,8 +68,7 @@ Metin, bu toprakları "henüz kendi kendini yönetemeyecek" durumda
 sayar.[^k1] Yönetim, gelişmiş sayılan devletlere bir emanet olarak
 verilir.
 
-Bu incelemenin asıl konusu metnin kendisidir.[^k2] Düzenin taşıdığı
-hiyerarşi, örtük değil açıkça yazılıdır.
+Düzenin taşıdığı hiyerarşi, örtük değil açıkça yazılıdır.
 
 ## Üç derece
 
@@ -176,12 +174,21 @@ süresi tanımlanmamışsa, geçicilik beyanı bağlayıcı değildir.[^k3]
 Dosya, düzenin niyeti hakkında hüküm vermez.[^k1] Metnin ne dediğini ve
 uygulamanın ne olduğunu ayrı ayrı kaydeder.
 
-Tek tek bölgelerin tarihi burada işlenmez.[^k2] Her biri ayrı dosya
-gerektirir ve bu inceleme yazıldığında korpusta çoğu bulunmuyordu.
+Tek tek bölgelerin tarihi burada işlenmez.[^k2]
 
-Yeni örgütün kurduğu düzen ayrıntılandırılmaz.[^k3] Ayrı bir dosya
-gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu; iki düzen
-arasındaki farkların ölçülmesi ayrı bir çalışmadır.
+Yeni örgütün kurduğu düzen ayrıntılandırılmaz.[^k3]
+
+## Geçicilik iddiasını sınamak
+
+Vesayet yönetimi, dış otoritenin yönetilen toplum adına geçici yetki kullandığını
+ileri sürer.[^k1] Bu iddiayı sınamak için yetkinin kaynağı, yerel rıza, sona erme
+takvimi ve kararların kime karşı hesap verdiği ayrı ayrı incelenmelidir. “Hazır olana
+kadar” gibi ölçülemeyen bir süre, geçiciliği belirsiz egemenliğe dönüştürebilir.
+Eğitim veya kurum kurma amacı da halkın kendi siyasal tercihinin yerine geçmez;
+araçlarla yönetme hakkı birbirinden ayrılmalıdır.[^k2]
+
+Yönetilenlerin itiraz ve müzakere kanalları, resmî kalkınma raporlarından farklı bir
+meşruiyet ölçüsü sunar.[^k1]
 
 ## Okumayı sürdürmek için
 Egemenliğin bir bölümünün devredildiği öteki düzen için

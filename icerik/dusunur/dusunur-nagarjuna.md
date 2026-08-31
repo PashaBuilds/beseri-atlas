@@ -12,6 +12,10 @@ tarih_bitis: "0250"
 bolge: [guney-asya, dogu-asya]
 eksen: [felsefi, dini]
 guven_geneli: tartismali
+kaynak_siniri: >-
+  Açık erişimde doğrulanabilir birincil eser metni bulunmadığı için bu yazı
+  listedeki akademik ikincil kaynaklarla sınırlıdır; Nāgārjuna'nın kendi
+  metninden doğrudan alıntı iddiası taşımaz.
 etiketler: [nagarjuna, madhyamaka, sunyata, bagimli-dogus, mantik, budizm]
 ilgili:
   - donem-05
@@ -50,12 +54,10 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Kim olduğu
 
 Nāgārjuna, Güney Asya'da yaşamış ve bir düşünce çizgisinin kurucusu sayılan
-kişidir.[^k1][^k3] Korpusun bölge şemasında iki etiket taşır; ikincisinin
-sebebi, kurduğu çizginin doğuya taşınıp orada yeni biçimler almasıdır.
+kişidir.[^k1][^k3]
 
 Dosyanın ayırt edici yanı, düşünürün olumlu bir öğreti kurmak yerine mevcut
 öğretilerin iç tutarsızlıklarını göstermeye çalışmasıdır.[^k1] Yöntem,
@@ -109,9 +111,7 @@ yorum, tartışmada kendi tezini savunmayı gereksiz sayar; ikincisi, savunulaca
 bir konumun bulunduğunu ve gerektiğinde ortaya konması gerektiğini kabul
 eder.
 
-::tartismali[Düşünürün metinlerinin olumlu bir konum içerip içermediği,
-kurduğu çizginin kendi içinde yüzyıllarca tartışılmıştır ve bugün de
-çözülmüş değildir. Korpus iki okumadan birini benimsemez.]{harita=tartisma-buyuk-adam-kurami}
+::tartismali[Düşünürün metinlerinin olumlu bir konum içerip içermediği, kurduğu çizginin kendi içinde yüzyıllarca tartışılmıştır ve bugün de çözülmüş değildir.]{harita=tartisma-buyuk-adam-kurami}
 
 ## Yazarlık sorunu
 
@@ -119,10 +119,8 @@ Düşünüre atfedilen metinlerin hepsinin aynı kişiye ait olup olmadığı
 tartışmalıdır.[^k1][^k3] Aynı ada bağlanmış metinler arasında üslup, konu ve
 yöntem farkları bulunur.
 
-Bu, korpusun dönem metinlerinde tekrar eden bir durumdur ve künyede
-gösterilmez.[^k1] Kayıtta bir ad bulunması, o adın tek bir kişiye karşılık
-geldiğinin kanıtı değildir; ad, bir kişiyi olduğu kadar bir okulu ya da bir
-metin geleneğini de işaretleyebilir.
+Kayıtta bir ad bulunması, o adın tek bir kişiye karşılık geldiğinin kanıtı değildir; ad,
+bir kişiyi olduğu kadar bir okulu ya da bir metin geleneğini de işaretleyebilir.
 
 Metinlerin kim tarafından yazıldığı çözülmeden
 de, ne söyledikleri ve nasıl tartıştıkları incelenebilir.[^k2]
@@ -171,58 +169,27 @@ bırakılır.[^k1]
 
 ## Kaynak durumu
 
-Bu inceleme üç kaynağa dayanır ve **hiçbiri birincil değildir.**[^k1][^k2][^k3]
-Bu, korpusun düşünür dosyalarında istenmeyen bir durumdur ve burada açıkça
-beyan edilir.
-
-Düşünüre atfedilen metinlerin doğrulanabilir, katalog künyesiyle teyit
-edilmiş ve tam metin olarak erişilebilir bir baskısı bu inceleme yazıldığında
-bulunamamıştır.[^k1] Arama sonuçlarında çıkan kayıtların yazar, tarih ve dil
-alanları boştu ve korpusun kaynak şartını karşılamıyordu.
-
-Okur bu sınırı bilerek okumalıdır.[^k3] Buradaki bütün değerlendirmeler
-akademik ansiklopedi maddelerinin aktarımıdır; metnin kendisinden yapılmış
-bir okuma değildir ve bu eksik korpusun borç defterine yazılmıştır.
+Okur bu sınırı bilerek okumalıdır.[^k3]
 
 ## Bu kısıtın anlamı
 
-Bir düşünür dosyasının birincil metinsiz yazılması, korpusun kendi ilkesiyle
-gerilim içindedir.[^k1] İlke, okurun iki tıklamada metne ulaşabilmesidir ve
-burada bu sağlanamamaktadır.
+İlke, okurun iki tıklamada metne ulaşabilmesidir ve burada bu sağlanamamaktadır.
 
 Dosyanın yine de yazılmasının gerekçesi, boşluğun kendisinin de bir bilgi
 olmasıdır.[^k3] Güney Asya felsefe geleneğinin en çok atıf alan
 figürlerinden birinin doğrulanabilir bir dijital metninin bulunmaması,
 dijital erişimin nasıl dağıldığına dair bir kayıttır.
 
-Aynı eğilim korpusun Afrika ve Orta Asya dosyalarında da ölçülmüştür.[^k2]
-Kayıt yokluğu ile dijital erişim yokluğu ayrı şeylerdir ve korpus bu ikisini
-karıştırmaz.
-
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun Güney Asya düşünür katmanındaki üçüncü dosyadır.[^k1]
-Önceki dosyalar bir hükümdar ve bir yönetim kuramcısı içindi; bu inceleme ilk
-kez bir felsefe geleneğini temsil eder.
-
-Ayrım önemlidir.[^k3] Bir bölgenin siyasi düşüncesinin temsil edilmesi ile
-felsefe geleneğinin temsil edilmesi ayrı şeylerdir; ikincisi olmadan bölge,
-korpusta yalnızca yönetim sorunlarıyla ilgilenmiş gibi görünür.
-
-Aynı geleneğin karşıt çizgileri için de
-ayrı dosyalar gereklidir ve bu inceleme yazıldığında korpusta bulunmuyorlardı.[^k2]
+Ayrım önemlidir.[^k3]
 
 ## Açıkta kalan sorular
 Düşünürün hayatına dair anlatılar, öğrencileri ve efsanevi biyografisi
 burada işlenmez.[^k3] Bu malzemenin tarihsel değeri tartışmalıdır ve ayrı bir
 değerlendirme gerektirir.
 
-Metinlerin bölüm bölüm içeriği ve argüman yapıları da kapsam
-dışıdır.[^k1] Bu inceleme düşünürün konumunu ve yöntemini anlatır; argümanların
-kendisi için metinlere inilmelidir.
+Metinlerin bölüm bölüm içeriği ve argüman yapıları da kapsam dışıdır.[^k1]
 
-Çizginin doğudaki gelişimi ve orada aldığı biçimler burada
-verilmez.[^k2] Her biri ayrı dosya gerektirir ve bu inceleme yazıldığında
-korpusta bulunmuyorlardı.
+Çizginin doğudaki gelişimi ve orada aldığı biçimler burada verilmez.[^k2]
 
 ## Dört köşeli çözümleme
 
@@ -236,9 +203,51 @@ engellemektir.[^k2] Bir soruya evet ya da hayır diye cevap vermek, sorunun
 kendisini kabul etmek demektir; dört köşeli eleme, sorunun kurulusunu da
 tartışmaya açar.
 
-Korpusun tartışma dosyaları da bir soruya cevap
-vermek yerine cevapların hangi varsayımlara dayandığını gösterir; teknik aynıdır,
-kapsamı farklıdır.[^k1]
+## Bağımlı doğuş ile boşluk arasındaki bağ
+
+Nāgārjuna'nın “boşluk” dediği şey, varlıkların hiç bulunmaması değildir.[^k1]
+Bir şeyin kendi başına, ilişkilerden bağımsız ve değişmez bir özü bulunmaması
+anlamına gelir. Tohum; toprak, su, sıcaklık ve zaman olmadan bitki değildir.
+Bitki de bu koşulların basit toplamı değildir. Belirli koşullarda ortaya çıkar,
+değişir ve başka sonuçların koşulu olur. Bağımlı doğuş ile özden boşluk bu
+nedenle iki ayrı öğreti değil, aynı ilişkinin iki anlatımıdır.[^k2]
+
+Bu ayrım nihilizm itirazına cevap verir. Her şey ilişkisel olduğu için hiçbir
+şeyin önemi olmadığını söylemek, boşluğu yeni ve mutlak bir öz gibi
+kullanmaktır.[^k1] Tam tersine, eylemlerin sonuç doğurabilmesi değişebilir ve
+koşullara bağlı olmalarına dayanır. Değişmez özler olsaydı eğitim, iyileşme ve
+kurtuluş da mümkün olmazdı.
+
+## İki doğruluk düzeyi
+
+Gündelik konuşmada kişi, nesne, neden ve sonuç adlarını kullanmadan yaşamak
+mümkün değildir.[^k2] Nāgārjuna bu uzlaşımsal dili bütünüyle reddetmez. Bir
+arabanın parçalarına bağlı olduğunu bilmek, onunla yolculuk ederken “araba”
+demeyi anlamsız kılmaz. Nihai çözümleme yalnız bu adın bağımsız bir varlığı
+işaret etmediğini gösterir.
+
+İki düzeyi karıştırmak karşıt hatalar üretir. Uzlaşımsal olanı nihai saymak
+nesnelere değişmez öz yükler; nihai çözümlemeyi gündelik hayatın yerine koymak
+ise neden, sorumluluk ve acıyı inkâr etmeye götürür.[^k1][^k2] Öğretinin
+amacı iki dünyayı ayırmak değil, aynı deneyimin farklı sorular altında nasıl
+konuşulduğunu göstermektir.
+
+## Yöntemin kendine uygulanması
+
+Boşluk da ilişkilerden bağımsız bir açıklama ilkesi değildir. Nāgārjuna,
+boşluğa tutunmayı öz fikrine tutunmaktan daha tehlikeli sayar; çünkü eleştiri
+aracı bu kez yeni bir dogmaya dönüşür.[^k1] Bu nedenle yöntemin son adımı,
+kendi kullandığı kavramın da sabit bir temele çevrilmesini engellemektir.
+
+Buradan olumlu tez savunup savunmadığı tartışması doğar. “Hiçbir öz yoktur”
+önermesi evrensel bir tezse kendisi de sorgulanmalıdır; yalnız rakip
+varsayımları çözen bir yöntemse, doğru davranış için ne bıraktığı sorulur.[^k2]
+Sonraki Madhyamaka yorumlarının ayrılması, metnin basitçe kapatılamayan bu
+geriliminden kaynaklanır.
+
+Bu gerilim bir kusurdan çok yöntemin bilerek açık bıraktığı sınamadır: okur,
+eleştiri aracını kesin cevaba çevirdiği anda eleştirilen özcülüğü yeniden
+kurup kurmadığını denetlemek zorundadır.
 
 ## Susmanın konumu
 

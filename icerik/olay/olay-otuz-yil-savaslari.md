@@ -51,12 +51,10 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
-Savaşın çıkışı bir inanç kavgasından çok bir sayım sorunudur. Yedi seçici prens
-daha önce üç Protestan ve dört Katolik'ten oluştuğu için, Ferdinand'ın yerine
-Frederick'in geçmesi dinî dengeyi değiştirecek, Protestan bir imparatorun
-seçilmesini ve Habsburg üstünlüğünün sonunu mümkün kılacaktı.[^k1] Bu inceleme,
-savaşın **çoklu nedenselliğini** ele alır.
+Savaşın çıkışı bir inanç kavgasından çok bir sayım sorunudur. Yedi seçici prens daha
+önce üç Protestan ve dört Katolik'ten oluştuğu için, Ferdinand'ın yerine Frederick'in
+geçmesi dinî dengeyi değiştirecek, Protestan bir imparatorun seçilmesini ve Habsburg
+üstünlüğünün sonunu mümkün kılacaktı.[^k1]
 
 ## Bir hanedan anlaşması
 
@@ -77,8 +75,7 @@ sağlıyordu ve 1618'e gelindiğinde bu yolun İspanya'nın denetiminde olmayan 
 bölümü Seçici Palatinalık'tan geçiyordu.[^k1]
 
 Bu, savaşın haritasını açıklar: Palatinalık'ın kimin elinde olacağı, teolojik değil
-lojistik bir sorudur. Korpus burada dinî nedeni reddetmez; tek başına yeterli
-olmadığını gösterir.
+lojistik bir sorudur.
 
 ## Kıvılcım
 
@@ -86,6 +83,158 @@ Bu etkenler birleşerek Mayıs 1618'de Bohemya İsyanı'nı ortaya çıkardı; B
 soyluları da kendi haklarının aşınmasından endişe duyuyordu.[^k1] Kaynak savaşı iki
 evreye ayırır: 1618'den 1635'e uzanan birinci evre ve 1635–1648 arasındaki
 İsveç-Fransa dönemi.[^k2]
+
+## Prag penceresi bir simgeydi, nedenlerin tamamı değil
+
+Bohemyalı Protestan soylular, dinî haklarının ve seçimle gelen krallık
+ayrıcalıklarının Ferdinand tarafından aşındırıldığını düşünerek imparatorluk
+temsilcilerini Prag Kalesi'nin penceresinden attı. Temsilcilerin hayatta kalması
+Katolik anlatıda ilahi koruma, Protestan anlatıda gübre yığını gibi farklı
+açıklamalarla hafızaya girdi.[^k1]
+
+Defenestrasyon savaşın dramatik kıvılcımıdır; tek başına otuz yılı açıklamaz.
+Bohemya tacının seçimi, Habsburg merkezileşmesi, mezhepsel güvenlik ve Alman
+prenslerinin anayasal hakları birikmişti. Bir olay, ancak bu hazır koalisyonları
+harekete geçirdiği için kıta savaşına dönüşür.[^k1]
+
+## Beyaz Dağ ve Bohemya düzeninin değiştirilmesi
+
+Bohemyalılar Pfalz Elektörü Friedrich'i kral seçti; Habsburg, Bavyera ve Katolik
+Birliği kuvvetleri 1620 Beyaz Dağ Muharebesi'nde isyanı yenilgiye uğrattı.[^k1]
+Zaferden sonra önderler idam edildi, mülkler el değiştirdi ve Katolikleştirme ile
+hanedan denetimi güçlendi. Kısa muharebe uzun toplumsal dönüşüm yarattı.
+
+Friedrich'in Pfalz topraklarının ve seçici oyunun kaybı, Bohemya yenilgisini
+imparatorluk çapı anayasa sorununa çevirdi. Başka Protestan prensler bunun bir
+isyan cezası mı, yoksa Habsburgların güç dengesini kalıcı değiştirmesi mi
+olduğunu sordu. Yerel savaşın devamı, zaferin aşırı siyasi kullanımından da
+beslendi.[^k1]
+
+## Danimarka müdahalesi
+
+Danimarka Kralı IV. Christian hem Lutheran hükümdar hem Kutsal Roma
+İmparatorluğu içinde toprak sahibi prens olarak kuzey Alman siyasetinde çıkar
+taşıyordu. Müdahalesi dinî dayanışma, kıyı ve ticaret nüfuzu ile hanedan
+hesabını birleştirdi.[^k1] Tilly ve Wallenstein kuvvetleri Danimarka ordusunu
+yenerek Habsburg üstünlüğünü kuzeye taşıdı.
+
+1629 İade Fermanı, geçmişte laikleştirilen Katolik kilise topraklarının geri
+verilmesini hedefledi. Bu, zaferi yalnız güvenlik düzeni değil geniş mülkiyet ve
+mezhep dönüşümüne çevirdi. Ilımlı Protestanları ve Habsburg gücünden kaygı duyan
+Katolik prensleri de endişelendirdi; askerî başarı yeni karşı koalisyon üretti.[^k1]
+
+## Wallenstein ve savaş girişimciliği
+
+Albrecht von Wallenstein imparator için çok büyük ordu kurdu; asker toplama,
+subay himayesi ve işgal bölgelerinden "katkı" alma sistemiyle kuvveti kısmen
+kendi kendine finanse etti.[^k1] Bu model hükümdara hazır kapasite sundu, ancak
+komutanı bağımsız bir siyasi güç ve yerel halk için ağır yük hâline getirdi.
+
+Wallenstein'ın görevden alınması, yeniden çağrılması ve sonunda imparatorun
+onayıyla öldürülmesi, komutan ile hükümdar arasındaki güven sorununu gösterir.
+Devlet ordusunu büyütmek için girişimci generale bağımlı kaldığında, zafer
+kazanabilecek kişinin sadakatinden de korkar. Askerî devrim yalnız teknik değil,
+finansman ve denetim sorunudur.
+
+## İsveç müdahalesi
+
+Gustav II Adolf 1630'da Almanya'ya çıktı. İsveç Baltık güvenliği ve Habsburg
+gücünü sınırlama çıkarını Protestan davasıyla birleştirdi; Fransa gibi Katolik
+bir güçten mali destek alabildi.[^k1] Breitenfeld zaferi Habsburg-Katolik
+üstünlüğünü kırdı ve İsveç askerî düzeninin itibarını büyüttü.
+
+İsveç ordusunun esnek topçu ve piyade-süvari eşgüdümü önemliydi; kuvvetin büyük
+bölümü savaş ilerledikçe Alman ve başka paralı askerlerden oluştu. Kralın 1632
+Lützen'de ölmesi seferi bitirmedi, fakat siyasi odak kaybı yarattı. Kurumsal
+devlet kapasitesi karizmatik komutanın ölümünden sonra savaşı sürdürebildi.[^k1]
+
+## Katolik Fransa neden Protestan tarafında savaştı?
+
+Fransa Katolik bir monarşiydi; yine de Habsburgların İspanya, İtalya, Flandre ve
+imparatorluk üzerinden çevreleme gücünden kaygı duyuyordu. Kardinal Richelieu
+önce Habsburg karşıtlarını finanse etti, 1635'ten sonra Fransa doğrudan savaşa
+girdi.[^k1] Bu müdahale, çatışmanın saf mezhep savaşı olarak açıklanamayacağının
+en açık örneğidir.
+
+Din önemsizleşmedi. Asker ve halk kimliği, ittifak güveni ve propaganda üzerinde
+etkiliydi. Fakat devlet güvenliği mezhep dayanışmasını aşabildi. "Din mi,
+siyaset mi?" ikiliği yerine dinî aidiyetin hanedan ve jeopolitik hesap içinde
+nasıl kullanıldığı sorulmalıdır.
+
+## İspanyol Yolu ve küresel hanedan savaşı
+
+İspanya Hollanda İsyanı'nı bastırmak ve Flandre ordusunu beslemek için İtalya'dan
+geçen kara koridoruna ihtiyaç duyuyordu.[^k1] Palatinalık ve Ren çevresindeki
+denetim bu yüzden Almanya içi sorun değildi. Mantua veraseti, Kuzey İtalya
+geçitleri ve Fransa-İspanya sınırı aynı savaş sistemine bağlandı.
+
+İspanyol ve Hollanda imparatorluklarının denizaşırı ticaret ve savaşları da mali
+kaynakları etkiledi. Otuz Yıl Savaşları Avrupa merkezli ad taşır, fakat hanedanların
+Atlantik ve Asya gelirleriyle bağlantılıydı. Yine de bütün dünya çatışmalarını
+tek savaşa dâhil etmek analitik sınırı gereksiz genişletebilir; somut para ve
+asker aktarımı gösterilmelidir.[^k1]
+
+## Ordu kendini halktan besledi
+
+On binlerce askeri merkezden düzenli maaş ve erzakla beslemek çoğu devletin
+kapasitesini aşıyordu. Ordular geçtiği bölgeden konaklama, tahıl, hayvan ve para
+"katkısı" topladı; ödeme geciktiğinde yağma ve zor kullanma arttı.[^k1] Dost
+ordu ile düşman ordu arasındaki fark köylü için bazen verginin kime verildiğiydi.
+
+Savaşın uzaması kısır döngü yarattı. Tahrip edilen köy daha az ürün üretti,
+ordu daha geniş alandan zorla toplamaya yöneldi, kaçış ve hastalık arttı.
+Komutan birlik dağılmasın diye askerinin iaşesine öncelik verirken sivil
+ekonominin gelecek hasadını yok edebiliyordu.
+
+## Salgın ve kıtlık savaş kaybının merkezindeydi
+
+Asker hareketi tifüs, dizanteri ve başka hastalıkları taşıdı; yetersiz beslenme
+bağışıklığı zayıflattı. Kuşatma altındaki kent ve kalabalık kamplar bulaş için
+uygun ortamdı. Küçük Buzul Çağı içindeki kötü hasatlar bazı yıllarda fiyat ve
+kıtlık baskısını artırdı.[^k1]
+
+Bu ölümler "doğal" diye savaştan ayrılmamalıdır. Mahsulün alınması, göç ve
+ticaret kesintisi hastalığın ölümcüllüğünü büyüttü. Buna karşılık her kötü hasadı
+ordulara, her salgını tek harekâta bağlamak da yanlıştır. Savaş ile iklim birbirini
+etkileyen ama ayrı kanıt gerektiren etkenlerdir.
+
+## Demografik yıkım bölgesel olarak çok farklıydı
+
+Kutsal Roma İmparatorluğu nüfusunun çok büyük bölümünü kaybettiği yönünde
+genellemeler vardır; modern çalışmalar oranların bölgeden bölgeye keskin
+değiştiğini gösterir.[^k1] Bazı koridorlar tekrar tekrar ordu ve salgın görürken
+bazı alanlar daha az etkilendi. Kent kaydı ile kırsal nüfus hareketi de aynı
+ölçüde görünür değildir.
+
+Vergi listesinden kaybolan kişi ölmüş, kaçmış veya başka haneye katılmış olabilir.
+Savaş sonrası geri göç ve doğum toparlanmayı değiştirir. Yıkımı küçümsemeden
+tek yüzde yerine yerel seri, arazi kullanımı ve fiyat göstergesiyle çalışmak
+gerekir.
+
+## Neden otuz yıl sürdü?
+
+Her evrede bir taraf belirgin zafer kazandı, fakat zaferi kabul edilebilir düzen
+yerine bütün rakiplerin konumunu kalıcı ezmek için kullanınca yeni müdahaleci
+çıktı. Bohemya zaferi Danimarka kaygısını, Danimarka yenilgisi ve İade Fermanı
+İsveç müdahalesini, İsveç-Fransa başarısı yeni denge pazarlığını getirdi.[^k1]
+
+Savaş finansmanı da orduları dağıtmayı zorlaştırdı. Komutan ve asker ödeme için
+ganimet ve katkıya bağımlıydı; barış gelir kaybı demekti. Hanedanlar yapılan
+fedakârlığın karşılığını güvenceye almadan çekilmek istemedi. Süre, tek başına
+uzlaşmaz teolojinin değil birbirine kilitlenen mali ve güvenlik taahhütlerinin
+sonucuydu.
+
+## Barış ihtiyacı nasıl olgunlaştı?
+
+1640'larda kaynak tükenmesi, yerel tahribat ve kesin zaferin uzaklığı daha geniş
+müzakereyi zorunlu kıldı. Taraflar savaşırken görüşmeye devam etti; cephedeki
+sonuç pazarlık konumunu etkiliyordu.[^k1][^k2] Barış isteği ahlaki aydınlanmadan
+çok, savaşla elde edilebilecek ek kazancın maliyetini aşmasıyla güçlendi.
+
+Çok sayıda prens ve dış gücün hakkını tek masada çözmek yıllar aldı. Bir hüküm
+öteki anlaşmayı etkiliyor, mezhep ile toprak ayrılamıyordu. Vestfalya'nın önemi
+yalnız imza günü değil, çok taraflı kongre diplomasisinin bu karmaşıklığı
+yönetebilmesindedir.
 
 ## Ordular ve bileşimleri
 
@@ -125,6 +274,9 @@ olarak verilir.[^k4] Savaşan ordular için verilen azami kuvvet sayıları[^k1]
 kurulmamıştır.
 
 ## Kanıtın ve kapsamın sınırı
-Muharebelerin seyri, komutanların askerî kararları, savaşın nüfus üzerindeki
-etkisine dair tahminler ve bölge bölge tahribat burada ayrı başlıklar altında ele
-alınmamıştır. Dönemin bütünü [1500–1650](/donem/09/) dosyasında ele alınıyor.
+
+Ordu kâğıt mevcudu ile gerçekten sahadaki asker, vergi listesindeki eksilme ile
+ölüm aynı değildir.[^k1] Komutan raporları zafer ve kaybı siyasi amaçla
+çarpıtabilir; sivil günlük, fiyat, kilise kaydı ve arkeolojik tahribat denge
+sağlar. Din, hanedan, lojistik ve iklimin ağırlığı evreden evreye değişir.
+Dönemin bütünü [1500–1650](/donem/09/) dosyasında ele alınıyor.

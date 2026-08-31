@@ -45,13 +45,12 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak ilk bölümünü karmaşıklık başlığına ayırır; ardından tarih bölümünde
 kökenler ve ulus-devlet öncesi alt başlıklarını tutar.[^k1]
 
 ## İlk bölüm bir uyarıdır
 
-::tartismali[Bir kavramın ansiklopedi maddesi doğrudan "karmaşıklık" başlığıyla açılıyor. Korpus bu kavramı tek bir tanımla kullanmaz ve her kullanımda hangi ölçütün kastedildiğini belirtir.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bir kavramın ansiklopedi maddesi doğrudan "karmaşıklık" başlığıyla açılıyor.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Kavram tartışmalarının nasıl taşınacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -59,18 +58,10 @@ haritasında ele alınıyor.
 
 ## Kavramın kendi öncesi de bir başlıktır
 
-Tarih bölümünde ulus-devlet öncesi diye ayrı bir alt başlık bulunması,[^k1]
-korpusun şu kuralının dayanağıdır: bu terim, kaynağın eşik saydığı tarihten
-önceki dönem dosyalarında kullanılmaz.
-
 ## Uymayan durumlar ayrı ayrı sayılır
 
 Kaynak belirli örnekler başlığı altında dört ülkeyi ayrı alt başlıklarda tutar ve
 ayrıca azınlıklar ile irredentizm için ayrı bölümler açar.[^k1]
-
-Bir kavramın maddesinde uymayan durumlara ayrı bölümler ayrılması,[^k1] korpusun
-şu kuralının dayanağıdır: bu incelemede ulus-devlet, bir betimleme değil bir ölçüt
-olarak anılır.
 
 ## Gelecek ve tarih yazımı da bölümdür
 
@@ -93,3 +84,61 @@ tehlike saydığını yazar.[^k2] O yazar
 ## Kanıtın ve kapsamın sınırı
 Özellikler, uygulamadaki durum ve ülke ülke örnekler burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]
+
+## İdeal ile tarihsel gerçek arasındaki mesafe
+
+Ulus-devlet, siyasal sınırlar ile kendini ortak bir millet olarak gören
+topluluğun sınırlarının çakıştığı ideal düzeni anlatır. Gerçekte hemen hiçbir
+devlet kültür, dil, din ve köken bakımından bütünüyle türdeş değildir; birçok
+millet de birden çok devlet sınırına yayılır. Bu nedenle kavram yalnız mevcut
+durumu betimlemez, sınır ile aidiyetin örtüşmesi gerektiğine dair siyasal bir
+iddia da taşır.[^k1][^k3]
+
+Devlet; vergi, hukuk, güvenlik ve yönetim kurumlarına sahiptir. Millet ise ortak
+tarih, kültür, yurttaşlık veya siyasal gelecek anlatısıyla kurulan üyelik
+iddiasıdır. [Milliyetçilik](/kavram/milliyetcilik/) bu ikisi arasında bağ kuran
+hareket ve düşünceleri açıklar. Bir imparatorluk çok sayıda topluluğu hanedan
+bağlılığıyla yönetebilir; ulus-devlet ise yönetilenleri ortak ve eşit üyeler gibi
+tanımlama eğilimindedir. Bu vaat, uygulamada dışlama ve zorunlu benzeştirmeyle
+yan yana bulunabilir.
+
+## Ortaklığın kurumlarla üretilmesi
+
+Ulusal kimlik yalnız eski kökenin keşfi değildir. Okul sistemi ortak dil ve
+tarihi, nüfus sayımı üyelik kategorilerini, harita sınırları, ordu ortak görevi,
+posta ve ulaşım merkezi devletle bağı gündelik hale getirir. Soyadı, kimlik
+belgesi ve standart hukuk, insanların devlet tarafından aynı tür bireyler olarak
+görülmesini sağlar. Bu süreçler farklı yerel kimlikleri ortadan kaldırmayabilir;
+onları ulusal çerçeve içinde yeniden sıralayabilir.
+
+[Vatandaşlık](/kavram/vatandaslik/) hukuki üyeliği belirler. Etnik veya kültürel
+millet tanımıyla yurttaşlık sınırı uyuşmadığında azınlık, göçmen ve diaspora
+sorunları doğar. Çoğunluğun dili kamusal ortaklık aracı olabilir; tek meşru kimlik
+sayılırsa başka dillerin eğitim ve temsil alanını daraltabilir. Ulus-devletin
+başarısı yalnız merkezî kurum kurmasıyla değil, farklı üyelerin eşit hakla
+katılabilmesiyle de değerlendirilmelidir.
+
+## Kuruluş, tanınma ve sınır
+
+[İtalyan birliği](/olay/italyan-birligi/) ulusal fikrin diplomasi, savaş ve
+hanedan siyasetiyle nasıl birleştiğini; [Versailles Antlaşması](/olay/versailles-antlasmasi/)
+öz belirlenim iddiaları ile güvenlik ve güç siyasetinin aynı sınır düzeninde nasıl
+çatıştığını gösterir. Yeni devletin ilanı tek başına etkin egemenlik yaratmaz;
+kurum, dış tanınma ve sınır denetimi gerekir. [Egemenlik](/kavram/egemenlik/)
+bu yetki boyutunu açar.
+
+Ulus-devletin kökenini doğrudan 1648 Vestfalya’ya bağlamak da aşırı kısaltmadır;
+[Vestfalya miti](/tartisma/vestfalya-miti/) egemenlik düzeninin daha uzun ve
+kesintili dönüşümünü sınar. Kavram en iyi, *devlet ne kadar merkezî?* sorusuyla
+“üyelik nasıl tanımlanıyor ve sınırlar bu üyelikle ne ölçüde örtüşüyor?”
+sorularını birlikte sorduğunda çalışır. Haritada tek renk görünen alanın içindeki
+çoğulluğu ve bu çoğulluğu yönetmek için kullanılan kurumları görünür tutmak
+gerekir.[^k1][^k2]
+
+Göç ve çifte vatandaşlık, üyeliğin yalnız toprak üzerinde kurulmadığını gösterir.
+Diaspora uzaktan oy kullanabilir, para gönderebilir ve ulusal siyaseti etkileyebilir;
+ülkede yaşayan göçmen ise vergi verip hukuki üyelikten yoksun kalabilir. Bu
+örnekler ulus, yurttaşlık ve ikamet sınırlarının farklı olduğunu açık eder.
+Kavramın güncel gücü de tam olarak bu örtüşmeyen sınırları tartışmaya açmasıdır.
+
+Bu tartışma, ortak siyasal alan ile kültürel tek biçimliliğin zorunlu olarak aynı şey olmadığını hatırlatır. Çoğul üyelik güçlü bir devlet düzeniyle bağdaşabilir; belirleyici olan eşit hak ve temsil mekanizmalarıdır.

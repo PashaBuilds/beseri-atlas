@@ -53,7 +53,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne tür bir düzen
 
 Oyo İmparatorluğu, Batı Afrika'nın iç kesiminde kurulmuş ve yüzyıllar
@@ -64,8 +63,7 @@ Ayırt edici yanı yönetim yapısıdır.[^k2] Hükümdarın karşısında,
 yetkisini sınırlayan ve gerektiğinde onu görevden alabilen bir kurul
 vardı.
 
-Bu incelemenin konusu sefer tarihi değildir.[^k3] Bu sınırlamanın nasıl
-işlediği ve neyi ürettiğidir.
+Bu sınırlamanın nasıl işlediği ve neyi ürettiğidir.
 
 ## Meclisin yetkisi
 
@@ -107,9 +105,7 @@ denetlediği makamı işlevsiz bırakabilir.[^k3]
 Düzenin ne zaman kurulduğu kesin değildir.[^k2] Aktarımlar bir kuruluş
 anlatısı verir ama tarih vermez.
 
-Kuruluş anlatısı, hanedanın kökenini uzak bir kutsal merkeze
-bağlar.[^k1] Bu, korpusun kuruluş anlatısı dosyasında tanımlanan
-işlevin bir örneğidir.
+Kuruluş anlatısı, hanedanın kökenini uzak bir kutsal merkeze bağlar.[^k1]
 
 Anlatının verdiği köken ile arkeolojik ve
 yazılı kaydın verdiği tarih ayrı ayrı kaydedilir.[^k3]
@@ -141,7 +137,6 @@ kararlardan önce kullandığı askerî aracın çalıştığı arazinin sınır
 Denetim, doğrudan yönetim biçiminde değildi.[^k1] Bağlı kentler kendi
 yöneticilerini korudu ve düzenli ödeme yaptı.
 
-Bu, korpusun himaye dosyasında tanımlanan yapının bir biçimidir.[^k3]
 Yönetim maliyeti yerel yöneticiye bırakılır.
 
 Aynı hesap, birbirinden bağımsız kıtalarda ve
@@ -155,9 +150,6 @@ ucundaydı.
 
 Taşınan mallar arasında insanlar da vardı.[^k3] Bölge, Atlantik
 üzerinden yürütülen taşımanın kaynak alanlarından biriydi.
-
-Bir düzenin geliri, korpusun ayrı bir
-dosyasında ele alınan bir taşımanın parçasıysa, bu bağ dosyada gizlenmez.[^k2]
 
 ## Başkentin konumu
 
@@ -337,3 +329,25 @@ Kaydın türü için
 kaynağının bağlamı için
 [Atlantik köle ticareti](/olay/atlantik-kole-ticareti/) dosyaları
 okunabilir.[^k2]
+
+## Denge kuran kurumlar neden krize dönüşebilir?
+
+Oyo’nun hükümdarı Alaafin’in yetkisi, seçkinler meclisi Oyo Mesi ve askerî
+komutanlık gibi kurumlarla çevriliydi.[^k1][^k2] Bu dağılım tek kişinin keyfî
+kararını sınırlayabilir; aynı zamanda merkezdeki gruplar arasında uzun süren
+rekabet yaratabilirdi. Hükümdarı görevden çıkarma kapasitesi anayasal denge kadar,
+hangi seçkinlerin karar sürecine girebildiği sorusunu da taşır.
+
+Süvari gücü savana erişim, at tedariki ve haraç ilişkileriyle çalışıyordu. Güneydeki
+ticaret ağları gelir sağlarken Atlantik köle ticareti savaş, esir ve dış talep
+arasındaki bağı sertleştirdi.[^k1][^k3] Çöküşü yalnız “zayıf kral” ile açıklamak;
+merkezî kurum çatışmasını, bağlı bölgelerin kopuşunu, ekonomik yön değişimini ve
+kuzeyden gelen baskıları görünmez kılar. Oyo, yetki sınırlamasının otomatik olarak
+istikrar üretmediğini gösterir.
+
+Kurumun kâğıt üzerindeki yetkisiyle kriz anında kim tarafından kullanılabildiği
+ayrılmalıdır. Denge, tarafların kaynak ve ittifakları değiştikçe yeniden kurulur.[^k1]
+
+Bu değişim taşra ile başkent arasındaki ilişkinin de tarihidir.
+
+Yerel bağlılık zayıfladığında merkezdeki denge tek başına düzeni koruyamadı.

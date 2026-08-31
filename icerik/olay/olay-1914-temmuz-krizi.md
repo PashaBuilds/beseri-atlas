@@ -147,6 +147,84 @@ kullandı.[^k2] Ağustos başında, silahlı çatışmanın görünürdeki sebeb
 bir Avusturya-Macaristan arşidükünün öldürülmesi — çoktan daha büyük bir Avrupa
 savaşının dipnotu hâline gelmişti.[^k2]
 
+## İttifaklar otomatik düğme değildi
+
+Temmuz zinciri çoğu zaman “bir devlet savaşa girince ittifakları herkesi
+otomatik olarak çekti” diye anlatılır. Oysa her başkent kendi tehdidini ve
+zamanlamasını yorumladı. Almanya'nın Avusturya-Macaristan'a verdiği destek,
+Viyana'nın sınırlı bir savaş deneyebileceği beklentisini güçlendirdi; Fransa'nın
+Rusya'yla ilişkisi Petersburg'un yalnız kalmayacağı hesabını etkiledi. Britanya
+ise Fransa ve Rusya'yla yakınlığına rağmen kararını son ana kadar açık bir
+zorunluluk gibi sunmadı.[^k1]
+
+İttifakların etkisi seçenekleri ortadan kaldırmak değil, her seçeneğin beklenen
+maliyetini değiştirmekti. Bir müttefiki desteklememek gelecekte güvenilirliği
+zedeleyebilirdi; desteklemek ise yerel krizi kıta savaşına taşıyabilirdi. Bu
+nedenle liderler aynı anda hem karşı tarafı caydıracak kadar kararlı görünmeye
+hem de kendi hareket alanlarını korumaya çalıştı. Gönderilen her sert mesaj,
+karşı tarafta saldırı hazırlığı olarak okunabildi.
+
+## Seferberlik neden diplomatik bir karar oldu?
+
+Milyonluk orduların demiryoluyla sınır bölgelerine taşınması ayrıntılı tarifeler
+gerektiriyordu. Bir kez başlayan seferberliği yavaşlatmak, tren ve ikmal
+çizelgelerini bozup rakibe zaman kazandırabilirdi. Rusya'nın önce kısmi, sonra
+genel seferberlik tartışması; Almanya'nın Rus seferberliğini savaş tehdidi
+sayması bu askerî zaman baskısı içinde gelişti.[^k1]
+
+Yine de “demiryolu takvimi liderlerin iradesini elinden aldı” demek fazla
+mekaniktir. Planları hazırlayanlar ve seferberlik eşiğini siyaseten tanımlayanlar
+insanlardı. Askerî planlar belirli bir kararı zorunlu kılmadı; karar vericilerin
+gecikmenin riskini abartıp uzlaşmanın imkânını dar görmesine yol açtı. Teknoloji,
+sorumluluğu silmez; karar ortamının hızını ve geri dönüş maliyetini değiştirir.[^k2]
+
+## Sınırlı savaş yanılgısı
+
+Avusturya-Macaristan yönetiminin amacı Sırbistan'ı cezalandırıp imparatorluğun
+itibarını onarmaktı. Fakat “sınırlı” hedef, karşı tarafın tepkisiyle sınırlı
+kalmaz. Rusya Sırbistan'ın ezilmesini Balkanlar'daki nüfuzuna ve büyük güç
+statüsüne tehdit saydı; Almanya Rus müdahalesini iki cepheli savaş tehlikesine
+bağladı; Fransa ile Belçika'ya yönelik Alman harekât planı Britanya'nın kararını
+değiştirdi.[^k2]
+
+Yerel amaçların geniş sonuç üretmesi, aktörlerin dünya savaşı istediği anlamına
+gelmez. Birçoğu daha sonra daha kötü koşullarla karşılaşmamak için şimdi risk
+almanın akıllıca olduğunu düşündü. Savaşın paradoksu budur: herkes azami felaketi
+istemeden, her biri kendi konumunu koruyan adımlar atarak ortak felaketi mümkün
+kılabilir.
+
+## Kaçırılan çıkışlar
+
+Sırbistan'ın taleplerin önemli bölümünü kabul eden cevabı, Grey'in arabuluculuk
+önerileri, Avusturya-Macaristan'ın Belgrad'ı geçici işgal edip durması fikri ve
+çar ile kayzer arasındaki telgraflar krizde alternatiflerin bütünüyle yok
+olmadığını gösterir.[^k1] Hiçbiri güven, hız ve amaç uyumu sağlayamadı. Bir öneri
+başkentlerden birine ulaştığında askerî karar başka bir eşiği geçmiş olabiliyordu.
+
+Bu çıkışları görmek “savaş kolayca önlenirdi” demek değildir. Önlenebilirlik ile
+kolaylık farklıdır. Alternatiflerin varlığı sorumluluk sorusunu anlamlı kılar;
+uygulanmalarının güçlüğü ise krizi yalnız kötü niyetli tek aktörle açıklamayı
+engeller. İncelenmesi gereken, hangi hükümetin hangi anda uzlaşma maliyetini
+savaş riskinden daha yüksek gördüğüdür.
+
+## Belgelerin sessizliği
+
+Resmî telgraflar kararları tarihlendirmek için vazgeçilmezdir; fakat sözlü
+görüşmeleri, ima edilen tehditleri ve gönderilmeyen taslakları eksik bırakabilir.
+Savaş sonrasında yayımlanan renkli belge kitapları da hükümetlerin kendi
+sorumluluğunu azaltma amacı taşıyordu.[^k1][^k3] Bir belgenin gerçek olması,
+seçilme ve yayımlanma bağlamının tarafsız olduğu anlamına gelmez.
+
+Bu yüzden sorumluluk yalnız *ilk savaş ilanını kim yaptı?* sorusuyla ölçülmez.
+Ültimatomu kabul edilmesi zor hâle kim getirdi, müttefikini kim cesaretlendirdi,
+arabuluculuğu kim geciktirdi, seferberliği kim hangi bilgiyle tehdit saydı?
+Nedensel katkı farklı aşamalarda ve farklı ağırlıklarda dağılabilir.[^k2]
+
+Sonradan gelen felaket bilgisi de bir tuzaktır. Karar vericiler Verdun'u,
+soykırımları veya dört yıllık yıkımı henüz bilmiyordu; fakat büyük Avrupa
+savaşının ağır risk taşıdığını biliyorlardı. Onları bugünün tam bilgisiyle değil,
+o gün erişebildikleri uyarıları nasıl tarttıklarıyla değerlendirmek gerekir.[^k2]
+
 ## Neyin tartışıldığı
 
 Yukarıdaki belgelerin her biri, kendi hükümetinin gerekçesini kendi diliyle sunan

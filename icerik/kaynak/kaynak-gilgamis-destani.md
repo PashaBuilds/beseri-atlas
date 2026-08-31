@@ -61,7 +61,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Metin ne
 
 Anlatı, bir kentin hükümdarını ve onun ölümsüzlük arayışını konu
@@ -70,8 +69,7 @@ alır.[^k1] Arayış başarısızlıkla biter.
 Yolculuk bir dostlukla başlar ve bir yasla sürer.[^k2] Ölümün
 kaçınılmazlığı, arayışın sonunda kabul edilir.
 
-Bu incelemenin konusu anlatının yorumu değildir.[^k3] Metnin elimize
-hangi yolla ve hangi hâlde ulaştığıdır.
+Metnin elimize hangi yolla ve hangi hâlde ulaştığıdır.
 
 ## Tek bir asıl yok
 

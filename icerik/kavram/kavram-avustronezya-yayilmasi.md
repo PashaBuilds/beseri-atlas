@@ -50,7 +50,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Avustronezya yayılması, aynı dil ailesini konuşan toplulukların yaklaşık beş
@@ -61,10 +60,6 @@ bir ada arasındadır.
 Kapsanan alan, modern öncesi dünyanın en geniş insan yayılmasıdır.[^k1] İki
 uç arasındaki mesafe, dünyanın çevresinin yarısından fazlasına karşılık
 gelir.
-
-Bu inceleme, korpusun **Okyanusya bölgesindeki ilk dosyasıdır.**[^k2] Bölge
-etiketi, bu inceleme yazılırken korpusun şemasına eklendi; o zamana kadar
-şema, bir dünya bölgesini temsil etmeyi yapısal olarak imkânsız kılıyordu.
 
 ## Kanıtın üç ayağı
 
@@ -89,9 +84,7 @@ kanıt türüne dayanmaktan çok daha güçlü bir zemindir.[^k1]
 ayrışma tarihleri ile arkeolojinin verdiği yerleşim tarihleri her adada
 birebir uyuşmaz.
 
-::tartismali[Yayılmanın hızı, güzergâhı ve tek bir dalga mı yoksa birden çok
-dalga mı olduğu tartışmalıdır; dilbilim ile arkeolojinin verdiği tarihler
-bazı adalarda ayrışır. Korpus bir okumayı benimsemez.]{harita=tartisma-sozlu-gelenek-kaynak-mi}
+::tartismali[Yayılmanın hızı, güzergâhı ve tek bir dalga mı yoksa birden çok dalga mı olduğu tartışmalıdır; dilbilim ile arkeolojinin verdiği tarihler bazı adalarda ayrışır.]{harita=tartisma-sozlu-gelenek-kaynak-mi}
 
 ## Teknolojinin payı
 
@@ -108,13 +101,10 @@ bir yerleşim programıdır ve tekrarlanabilirliği onu olağandışı kılar.[^
 
 ## Dökümün nesne olmadığı
 
-Bu incelemenin bir künyesi, bir nesnenin kendisi değil bir **dökümüdür** ve bu
-künyede ayrıca belirtilmiştir.[^k3] Döküm, yirminci yüzyılda alınmış bir
-kopyadır.
+Döküm, yirminci yüzyılda alınmış bir kopyadır.
 
-Ayrım korpus için önemlidir.[^k3] Nesne künyeleri, nesnenin kendisine
-erişimi belgeler; bir döküm, biçimi belgeler ama malzemeyi, yapım izlerini
-ve buluntu bağlamını belgelemez.
+Nesne künyeleri, nesnenin kendisine erişimi belgeler; bir döküm, biçimi belgeler ama
+malzemeyi, yapım izlerini ve buluntu bağlamını belgelemez.
 
 Alternatif, o kanıt türünü hiç
 göstermemekti; beyan edilmiş bir kopya, gösterilmemiş bir kanıttan daha
@@ -133,15 +123,7 @@ Doğu ucundaki ada ise Pasifik'in en izole yerleşimlerinden biridir.[^k1] İki
 uç arasındaki fark, aynı yayılmanın çok farklı sonuçlar üretebildiğini
 gösterir.
 
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme bir bölgeyi açar ama doldurmaz.[^k1] Okyanusya etiketi bu incelemeyle
-kullanılabilir hâle geldi; bölgenin aktör, olay ve kaynak katmanları
-neredeyse boştur.
-
-Eksik açıkça beyan edilmelidir.[^k3] Korpusun bölge dağılımında Okyanusya,
-öteki sekiz bölgenin toplamının yanında sayılamayacak kadar küçük bir pay
-tutar ve bu, bölgenin tarihsel önemsizliğini değil korpusun eksiğini
-gösterir.
+Eksik açıkça beyan edilmelidir.[^k3]
 
 Dosyanın kapsamadıkları da yazılmalıdır.[^k2] Yayılmanın tek tek ada
 gruplarındaki seyri, yerel toplumsal düzenler ve sonraki sömürge dönemi
@@ -160,6 +142,22 @@ kayıplarıyla da değişir ve her zaman yaşla orantılı değildir.
 Dilbilimsel ağacın verdiği yön
 arkeoloji tarafından desteklendiği ölçüde güçlüdür; tek başına bir yayılma tarihi
 kurmaz.[^k2]
+
+## Dil, insan ve kültür aynı hızda yayılmaz
+
+Avustronezya yayılması dil akrabalığı, arkeolojik malzeme, genetik örüntü ve denizcilik
+kapasitesinin birlikte açıklanmasını gerektirir.[^k1] Aynı dil ailesine ait olmak,
+bütün nüfusun tek göç dalgasıyla yer değiştirdiğini göstermez. Yeni gelenler yerel
+topluluklarla karışabilir; dil genişlerken genetik süreklilik, genetik hareketlilik
+varken maddi kültür farklılığı görülebilir. Kanıt türleri aynı soruyu ölçmediği için
+uyuşmazlıkları hata değil açıklanması gereken bir sonuçtur.[^k2]
+
+Lapita seramiği önemli bir izdir, fakat tek başına etnik kimlik etiketi değildir.
+Ada yerleşim tarihleri, bitki ve hayvan taşınması ile dil dallanması karşılaştırıldığında
+daha sağlam bir rota kurulabilir. Deneysel seyrüsefer açık deniz yolculuğunun mümkün
+olduğunu gösterir; belirli tarihsel göçün niyetini veya tam güzergâhını kanıtlamaz.
+“Yayılma” sözcüğü bu nedenle hem insan hareketini hem kültürel aktarımı kapsayan,
+ama ikisini birbirine eşitlemeyen bir üst terim olarak kullanılmalıdır.[^k3]
 
 ## Okumayı sürdürmek için
 Yayılmanın güney ucundaki bir toplum için [Maori](/aktor/maori/), aynı dil

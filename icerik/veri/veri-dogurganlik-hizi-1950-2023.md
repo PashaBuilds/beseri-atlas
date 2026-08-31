@@ -49,7 +49,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Seri 1950'de kadın başına 4,852 çocuk ile başlar ve 2023'te 2,251 ile biter;
 toplam 74 gözlem vardır.[^k1]
 
@@ -65,27 +64,17 @@ geçiş](/kavram/demografik-gecis/) dosyasında ele alınıyor.[^k1]
 
 Son gözlem 2,251'dir.[^k1]
 
-Bu sayının demografik yazında sıkça anılan yenilenme düzeyine yakın olması,
-korpusun burada bir yorum yapmasını gerektirmez; kullanılan veri kümesi bir eşik
-değeri tanımlamaz ve dosya da tanımlamaz.[^k1]
-
 ## Seri 1950'den önce yoktur
 
 Veri kümesinde dünya toplamı için 1950'den önce gözlem bulunmaz.[^k1]
-
-Bir demografik ölçünün yalnızca yirminci yüzyılın ikinci yarısını kapsaması,[^k1]
-korpusun şu kuralının dayanağıdır: bu incelemeden sanayi öncesi doğurganlık hakkında
-bir değer okunamaz.
 
 ## Aynı sağlayıcının nüfus serisi
 
 Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1950 için yaklaşık
 2,49 milyar, 2020 için yaklaşık 7,89 milyardır.[^k2]
 
-Doğurganlık hızı düşerken nüfusun artmış olması,[^k1][^k2] iki ölçünün farklı
-şeyler ölçtüğünü gösterir; korpus bu iki seriyi tek bir eğilim cümlesinde
-birleştirmez. Nüfus serisi
-[Dünya nüfusu, 1500–2025](/veri/dunya-nufusu-1500-2025/) dosyasında ele alınıyor.
+Nüfus serisi [Dünya nüfusu, 1500–2025](/veri/dunya-nufusu-1500-2025/) dosyasında ele
+alınıyor.
 
 ## Nüfus artışı üzerine erken bir model
 
@@ -95,8 +84,3 @@ anlatır.[^k3]
 
 O model [Thomas
 Malthus](/dusunur/malthus/) dosyasında ele alınıyor.[^k1][^k3]
-
-## Kanıtın ve kapsamın sınırı
-Ülke ülke değerler, yaş gruplarına göre dağılım ve projeksiyonlar burada ayrı
-başlıklar altında ele alınmamıştır; bu inceleme yalnızca dünya toplamı serisini
-kaydeder.[^k1]

@@ -39,29 +39,25 @@ kaynaklar:
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: belge
+    ad: "ABD Ulusal Arşivleri — Emancipation Proclamation"
+    url: https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: "Emancipation Proclamation"
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
-Bu savaşın bilançosu, korpusun sayı okuma tartışmasının en açık örneklerinden
-biridir. Kaynak, 2 Nisan 2012 tarihli bir gazete haberine dayanarak yeni bir
-çalışmanın ölü sayısını tahmini 650.000'den 850.000'e yükselttiğini
-aktarır.[^k1]
+Kaynak, 2 Nisan 2012 tarihli bir gazete haberine dayanarak yeni bir çalışmanın ölü
+sayısını tahmini 650.000'den 850.000'e yükselttiğini aktarır.[^k1]
 
 ## Yükseltilen sayı bile eksik
 
 Aynı kayıt devam eder: bu yeni sayı ne kadar korkunç olsa da, savaş sırasında
 eski kölelerin ölümlülüğünü yansıtmamaktadır; eski köleler bu rakama dahil
 edilseydi bilanço daha da yükselirdi.[^k1]
-
-::tartismali[Amerikan İç Savaşı'nın ölü sayısı hem yukarı revize edilmiş hem de
-kaynağın kendisince eksik ilan edilmiştir; bu inceleme tek bir sayı
-sunmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
-
-Bu iki cümle, korpusun yöntem tartışmasının bütün unsurlarını taşır: bir sayı
-revize edilebilir, revize edilmiş sayı bile eksik olabilir ve eksiklik rastgele
-değil belirli bir nüfus grubuna aittir.[^k1]
 
 ## Tanım sorununun genel biçimi
 
@@ -79,9 +75,147 @@ Atlas Okyanusu'nda geçti; sonuç Birlik zaferi ve Amerika Konfedere Devletleri'
 dağıtılmasıdır.[^k1] Komutanlar arasında Abraham Lincoln, Ulysses S. Grant ve
 Andrew Johnson sayılır; Lincoln suikaste kurban gitmiştir.[^k1]
 
-Bir savaşın sonucunun "dağıtılma" olarak kaydedilmesi,[^k1] karşı tarafın bir
-devlet olarak tanınıp tanınmadığı sorusunu doğurur; korpus bu soruyu karara
-bağlamaz.
+## Kopuşun merkezindeki mesele: kölelik
+
+Savaşı yalnızca “eyalet hakları ile merkezî iktidar arasındaki çekişme” diye
+anlatmak, hangi hakkın savunulduğunu belirsizleştirir. Ayrılan eyaletlerin
+ekonomik ve siyasal düzeni köleleştirilmiş emeğe dayanıyordu; batıya doğru
+genişleyen yeni topraklarda köleliğe izin verilip verilmeyeceği, Senato'daki güç
+dengesini ve gelecekteki başkanlık seçimlerini belirleyecekti.[^k1] Bu nedenle
+kölelik hem bir emek rejimi hem de anayasal krizin merkezindeki iktidar
+sorunuydu.
+
+1860 seçiminde Lincoln'ün zaferi, güneydeki köle sahibi seçkinlere federal
+yönetimde kalıcı azınlığa düşebileceklerini düşündürdü. Ayrılma, tek bir seçim
+sonucuna verilmiş ani bir tepki değildi; nüfus artışı, yeni eyaletlerin kabulü
+ve parti sisteminin parçalanmasıyla biriken temsil korkusunun sonucuydu.[^k1]
+Fort Sumter'a saldırı bu uzun krizi savaşa çevirdi. Böyle bakıldığında silahlı
+çatışmanın başlangıcı ile çatışmayı mümkün kılan toplumsal yapı birbirinden
+ayrılır.
+
+## Birliğin korunmasından özgürleştirmeye
+
+Kuzey yönetiminin ilk ilan edilmiş amacı Birliği korumaktı. Fakat savaşın
+mantığı bu hedefi dönüştürdü: köleleştirilmiş insanların emeği Konfederasyonun
+üretimini ve tahkimatlarını destekliyor, Birlik hatlarına ulaşan kaçaklar ise
+ordunun karşısına hukukî ve askerî bir soru çıkarıyordu. Özgürleştirme böylece
+yalnız ahlaki bir ilke değil, düşmanın emek kapasitesini azaltan bir savaş
+stratejisi hâline geldi.[^k1]
+
+Lincoln'ün 1 Ocak 1863'te yürürlüğe koyduğu Özgürlük Bildirgesi, isyan hâlindeki
+bölgelerde köleleştirilmiş kişilerin özgür olduğunu ilan etti; sınırdaki köle
+eyaletlerini ve Birlik denetimindeki bazı bölgeleri kapsam dışında bıraktı.[^k4]
+Bu sınır, belgenin önemsiz olduğunu değil, savaş yetkisine dayanan bir başkanlık
+işlemi olduğunu gösterir. Bildirge köleliği ülkenin her yerinde tek başına
+bitirmedi; fakat savaşın resmî amacını değiştirdi, Siyah erkeklerin Birlik
+ordusuna katılmasının önünü açtı ve Avrupa güçlerinin Konfederasyonu tanımasını
+siyaseten zorlaştırdı.[^k1]
+
+Köleliğin ülke çapındaki hukukî sonu 1865'te On Üçüncü Değişiklik ile geldi.
+Buradaki sıra önemlidir: askerî gereklilik bir başkanlık bildirisini, savaşın
+sonucu ise kalıcı anayasal değişikliği mümkün kıldı. Hakların genişlemesi tek
+bir metnin mucizesi değil, kaçışların, Siyah askerlerin hizmetinin, kölelik
+karşıtı siyasetin ve savaşın birbirini güçlendirmesiydi.[^k1]
+
+## Savaşın sanayi ve lojistik yüzü
+
+Birliğin daha büyük nüfusu, sanayi tabanı, demiryolu ağı ve donanması sonuç
+üzerinde belirleyiciydi; ancak bu üstünlük otomatik zafer anlamına gelmedi.[^k1]
+Kuzey geniş bir coğrafyayı işgal etmek, ikmal hatlarını korumak ve siyasal
+iradesini yıllarca sürdürmek zorundaydı. Konfederasyonun ise bağımsızlığını
+kabul ettirmek için Kuzey'i bütünüyle fethetmesi gerekmiyordu; maliyeti ve
+savaş yorgunluğunu dayanılmaz kılması yeterli olabilirdi.
+
+Bu asimetri, savaşların yalnız cephedeki asker sayısıyla açıklanamayacağını
+gösterir. Mississippi'nin denetimi Konfederasyonu coğrafi olarak böldü; deniz
+ablukası ihracat ve ithalat kapasitesini daralttı; demiryolları orduların
+hareketini hızlandırırken ikmal düğümlerini stratejik hedefe çevirdi.[^k1]
+Gettysburg gibi büyük muharebeler hafızada öne çıkar, fakat Vicksburg'un düşüşü
+ve Atlanta'nın ele geçirilmesi gibi lojistik-siyasal kırılmalar da savaşın
+gidişini değiştirdi.
+
+## Zaferden sonra: özgürlüğün kurumsal sınavı
+
+Konfederasyonun yenilgisi dört milyon kadar köleleştirilmiş insan için hukukî
+özgürlük getirdi; fakat özgürlük, toprak, gelir, güvenlik ve siyasal güç
+dağılımını kendiliğinden eşitlemedi.[^k1] Yeniden İnşa döneminde On Dördüncü ve
+On Beşinci değişiklikler yurttaşlık ile oy hakkının anayasal çerçevesini
+genişletti. Siyah yurttaşlar oy kullandı, yerel ve federal görevlere seçildi;
+aynı anda beyaz üstünlükçü şiddet bu dönüşümü geri çevirmeye çalıştı.
+
+Federal askerî korumanın geri çekilmesi, ortakçılık ve borç düzenleri, oy
+vermeyi fiilen engelleyen eyalet yasaları ile ırksal ayrım, savaşta kazanılan
+hukukî sonucun toplumsal hayatta daraltılmasına yol açtı. Bu yüzden 1865'i hem
+bir son hem bir başlangıç olarak okumak gerekir: köle sahibi bir cumhuriyetin
+sona erişi ile eşit yurttaşlığın uygulanması arasına yaklaşık bir yüzyıllık yeni
+bir mücadele girdi.[^k1]
+
+## Üç yanıltıcı kısa yol
+
+İlk kısa yol, savaşı *kaçınılmaz* saymaktır. Uzlaşmalar, parti sistemi ve federal
+kurumlar onlarca yıl gerilimi ertelemişti; belirli aktörlerin ayrılma, seferberlik
+ve saldırı kararları olmadan savaş aynı tarihte ve aynı biçimde başlamazdı.
+İkinci kısa yol, bütün Kuzey'i baştan beri ırksal eşitlik için savaşan yekpare
+bir blok gibi görmektir. Birliği koruma, zorunlu askerliğe itiraz, kölelik
+karşıtlığı ve ırkçılık aynı toplumda yan yana bulunabiliyordu.[^k1]
+
+Üçüncüsü, Appomattox teslimini toplumsal çatışmanın bitişi sanmaktır. Düzenli
+orduların savaşı sona erdi, fakat yurttaşlığın anlamı, federal yetkinin sınırı ve
+ırksal iktidar üzerine mücadele biçim değiştirdi. Savaşın kalıcı önemi yalnız
+Birliği korumasında değil, *Amerikan halkı*nın hukukî olarak kimleri kapsadığı
+sorusunu geri döndürülemez biçimde yeniden açmasındadır.[^k1]
+
+## Savaş toplumu nasıl seferber etti?
+
+Milyonlarca erkeğin silah altına alınması, ev ile cephe arasındaki sınırı
+inceltti. Aileler asker ücretine ve mektuplara bağlandı; kadınlar çiftlikleri,
+işletmeleri ve yardım ağlarını yürüttü, hemşirelik ile devlet bürokrasisinde daha
+görünür roller üstlendi. Bu görev genişlemesi savaş sonrasında otomatik siyasal
+eşitliğe dönüşmedi, fakat kimin kamusal iş yapabileceğine dair beklentileri
+değiştirdi.[^k1]
+
+Zorunlu askerlik iki tarafta da sınıf çatışmasını açığa çıkardı. Yerine başka
+birini gönderme veya bedel ödeme imkânı, savaşın “zenginin savaşı, yoksulun
+mücadelesi” olduğu eleştirisini besledi. 1863 New York askerlik ayaklanması,
+zorunlu hizmet öfkesiyle ırkçı şiddetin nasıl birleşebildiğini gösterdi.[^k1]
+Bu nedenle cephe gerisindeki siyaset, orduların insan ve kaynak bulma kapasitesini
+doğrudan etkiledi.
+
+Federal devlet savaş sırasında gelir vergisi, kâğıt para, ulusal bankacılık ve
+geniş çaplı tedarik düzenleri geliştirdi. Homestead ve demiryolu yasaları gibi
+kararlar da Kongre'de güneyli temsilcilerin yokluğunda geçti.[^k1] İç savaş,
+yalnız kölelik ve ayrılık sorununu çözmedi; federal yönetimin ekonomi ve kıta
+üzerindeki rolünü genişletti. Bu kapasitenin kimin lehine kullanılacağı ise ayrı
+bir siyasal mücadele olarak kaldı.
+
+## Uluslararası boyut
+
+Konfederasyon pamuk ihracatının Britanya ve Fransa'yı kendi yanında savaşa
+çekeceğini umdu. Avrupa tekstil sanayisinin güney pamuğuna bağımlılığı gerçekti;
+fakat hükümetlerin müdahale kararı tek bir ürüne bağlı değildi. Birlik ablukası,
+Avrupa'daki kamuoyu, alternatif pamuk kaynakları ve savaşın gidişi resmî
+tanımayı engelledi.[^k1]
+
+Özgürlük Bildirgesi bu dengeyi ahlaki ve diplomatik açıdan değiştirdi: Birliğe
+karşı müdahale, köleliği koruyan bir rejime açık destek görüntüsü verecekti.
+Böylece içerideki emek rejimi dışarıdaki ittifak seçeneklerini sınırladı. Bir iç
+savaşın neden uluslararası sistemden yalıtılmış okunamayacağı burada açıkça
+görülür.[^k1]
+
+## Hafıza neden hâlâ çatışmalıdır?
+
+Savaş sonrasında *Kayıp Dava* anlatısı Konfederasyonu kölelikten çok onur,
+yerel özgürlük ve üstün komutanlıkla özdeşleştirdi; köleleştirilmiş insanların
+eylemini ve ayrılma belgelerindeki kölelik savunusunu geri plana itti. Anıtlar,
+okul kitapları ve törenler bu yorumu kamusal mekâna yerleştirdi. Hafıza,
+geçmişte ne olduğundan ayrı değildir; hangi siyasal topluluğun bugün meşru
+sayılacağını etkiler.[^k1]
+
+Bu nedenle savaşın adları bile perspektif taşır: “İç Savaş”, “Eyaletler Arası
+Savaş” veya *Köle Sahiplerinin İsyanı* farklı neden ve özne vurguları kurar.
+Eleştirel okuma, adlardan birini yasaklamak değil, seçilen adın neyi görünür ve
+neyi ikincil kıldığını fark etmektir. En sağlam yorum, aktörlerin kendi ayrılma
+gerekçelerini, anayasal değişiklikleri ve maddi emek düzenini birlikte sınar.[^k1]
 
 ## Ölçek
 
@@ -91,7 +225,10 @@ farklı serilerden gelir; ülkenin kendi nüfusuna dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için burada oran kurulmamıştır.
 
 ## Kanıtın ve kapsamın sınırı
-Savaşın nedenleri, cephelerin seyri, kölelik düzeninin kaldırılması ve yeniden
-inşa dönemi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
-bölümler olarak işler.[^k1] Dönemin bütünü [1848-1914](/donem/12/) dosyasında ele
-alınıyor.
+
+Ölü sayısının sonradan yükseltilmesi, geçmişin keyfî biçimde yeniden yazıldığı
+anlamına gelmez. Sayım yöntemi değiştikçe askerî kayıtlar, nüfus sayımları ve
+beklenen ölüm oranları farklı sonuç verir; ayrıca özgürlüğe geçiş sırasında
+ölen eski kölelerin hangi kategoriye yazılacağı belirleyicidir.[^k1] Bu nedenle
+tek rakam ezberlemek yerine, rakamın kimi ve hangi zaman aralığını kapsadığını
+sormak gerekir. Dönemin bütünü [1848-1914](/donem/12/) dosyasında ele alınıyor.

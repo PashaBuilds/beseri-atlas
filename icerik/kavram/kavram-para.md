@@ -43,16 +43,12 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak, işlevler başlığı altında dört alt başlık tutar: değişim aracı, değer
 ölçüsü, ertelenmiş ödeme standardı ve değer saklama aracı.[^k1]
 
 ## Para bir işlev demetidir
 
-Bir nesnenin dört ayrı işlevle tanımlanması,[^k1] korpusun şu kuralının
-dayanağıdır: bu incelemede para, hangi işlevinin kastedildiği belirtilmeden bir
-iddianın öznesi yapılmaz. Bir nesne bu işlevlerden bazılarını yerine getirip
-bazılarını getirmeyebilir.
+Bir nesne bu işlevlerden bazılarını yerine getirip bazılarını getirmeyebilir.
 
 ## Türler sekiz alt başlıkta sayılır
 
@@ -83,7 +79,6 @@ Dönemin iktisat yazarı için tutulan kayıt, onun ahlak kurallarının belirli
 örneklere verilen tepkilerden oluştuğunu savunduğunu yazar.[^k3] O yazar
 [Adam Smith](/dusunur/smith/) dosyasında, ilgili düzen ise
 [Kapitalizm](/kavram/kapitalizm/) dosyasında ele alınıyor.
-
 
 ## Üç işlev
 
@@ -181,7 +176,6 @@ getirir.[^k2] Okuma bilmeyen bir nüfusa bile ulaşır.
 Bir sikkenin üzerindeki değişim, çoğu zaman bir
 iktidar değişiminin en hızlı yayılan duyurusudur.[^k3]
 
-
 ## Kredinin önceliği
 
 Kayıtlar, borcun paradan önce geldiğini
@@ -194,6 +188,14 @@ olabilir.
 
 Bir kurumun kökeni hakkındaki yaygın anlatı, en erken
 kayıtlarla her zaman uyuşmaz.[^k3]
+
+## Dört işlevi ayrı sınamak
+
+Bir nesne değişim aracı, hesap birimi, değer saklama aracı ve ertelenmiş ödeme ölçüsü
+işlevlerinin hepsini aynı anda taşımayabilir.[^k1] Borçlar belirli bir birimle
+hesaplanırken ödeme başka mallarla yapılabilir; sikke bulunması da bütün alışverişin
+nakit yürüdüğünü göstermez. Paranın tarihini yalnız madeni paranın tarihi saymamak
+için fiyat, borç ve muhasebe kayıtları maddi buluntularla birlikte okunmalıdır.[^k2]
 
 ## Kanıtın ve kapsamın sınırı
 Paranın tarihi, özellikleri ve türlerin ayrıntısı burada ayrı başlıklar altında

@@ -51,7 +51,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Tanım
 
 Veraset kuralı, yetkiyi elinde tutan kişi öldüğünde yerine kimin
@@ -186,8 +185,15 @@ kendi dosyasında ele alınır.
 Miras hukukunun kendisi burada çözümlenmez.[^k3] Mülkiyetin devriyle
 yetkinin devri farklı kurallara tabidir ve karıştırılmamalıdır.
 
-Seçim yoluyla belirlenen modern yönetimler bu incelemenin konusu
-değildir.[^k2] Aradaki bağ gerçektir ama ayrı bir çalışma gerektirir.
+Aradaki bağ gerçektir ama ayrı bir çalışma gerektirir.
+
+## Kural ile uygulamayı ayırmak
+
+Veraset kuralı iktidarın kime geçmesi gerektiğini söyler; geçişin gerçekten nasıl
+olduğunu garanti etmez.[^k1] Kardeşler, hanedan kolları, saray görevlileri, ordu ve
+dinî otoriteler aynı kuralı farklı adaylar için yorumlayabilir. Bu yüzden bir taht
+mücadelesi “kuralsızlık” değil, kuralın kimin lehine ve hangi güçle uygulanacağı
+çatışması olabilir. Yazılı ilke ile fiilî ardıllık ayrı kaydedilmelidir.[^k2]
 
 ## Okumayı sürdürmek için
 Kuralın meşruiyetle bağı için [Meşruiyet](/kavram/mesruiyet/),

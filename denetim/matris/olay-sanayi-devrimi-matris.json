@@ -760,11 +760,51 @@
       ],
       "guven": "yuksek",
       "inceleme": "Kaynagin kendi sinir beyani: 'I only refrain from quoting it because it might be said that the diminished supply of food, the decrease in wages ... might account for the increase of mortality as well as the unhealthy state of the towns.'"
+    },
+    {
+      "iddia_id": "i055",
+      "cumle": "Bugünün iktisat tarihi adı terk etmez; ama vaat ettiği ani kopuşu ölçümde bulamadığı için tartışmayı ne zaman olduğu sorusundan neyin ölçüldüğü sorusuna kaydırır — verimlilik hesabını yeniden kuran çalışma büyümenin dar bir alana sıkıştığını yazar.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k11 büyümenin sektörler arasında dar dağılımını ölçer; buradan tartışmanın ölçüt sorununa kaydığı sonucu yazarın sentezidir."
+    },
+    {
+      "iddia_id": "i056",
+      "cumle": "Kömür üretiminin eğrisi ile kişi başına gelirin eğrisi aynı yıllarda çok farklı hızlarda yükselir; fabrikadaki çocuğun payı ile kentin ölüm oranı da aynı parlamento kayıtlarından okunur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k12",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Dört kaynak ayrı serileri ve parlamento kayıtlarını taşır; farklı hızları tek karşılaştırmada birleştirmek yazarın sentezidir."
     }
   ],
   "sayaclar": {
     "dogrudan": 48,
-    "kismi": 6,
+    "kismi": 8,
     "desteksiz": 0,
     "olculemez": 0
   },

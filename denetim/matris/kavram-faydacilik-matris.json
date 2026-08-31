@@ -330,11 +330,25 @@
       ],
       "guven": "yuksek",
       "inceleme": "Williams itirazinin tek cumlelik ozeti; kaynak ayni hukmu verir."
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "Bentham'ın kendi çözümlemesinde azınlığın duyguları hesaptan düşüldüğünde topluluğun toplam mutluluk stokunda kâr değil zarar çıkar.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k4 topluluk çıkarını bireylerin çıkarlarının toplamı olarak kurar; azınlığı hesaptan düşürmenin toplamı bozduğu sonucu bu tanımdan türetilir."
     }
   ],
   "sayaclar": {
     "dogrudan": 22,
-    "kismi": 1,
+    "kismi": 2,
     "desteksiz": 0,
     "olculemez": 0
   }

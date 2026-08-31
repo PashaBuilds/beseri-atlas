@@ -42,25 +42,16 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak bölümlerini sıralar: terim, kavram, Osmanlı hiyerarşisi içindeki konum,
 belirli milletler ve tarih.[^k1]
 
 ## Terim ile kavram ayrı bölümlerdir
-
-Bir sözcüğün ve onun adlandırdığı düzenin ayrı bölümler olarak tutulması,[^k1]
-korpusun terim kilidi kapısının kurumsal düzeydeki karşılığıdır: adın tarihi ile
-kurumun tarihi aynı şey değildir.
 
 ## Terimin Osmanlı öncesi kullanımı da kayıtlıdır
 
 Kaynak, tarih bölümünün altında terimin Sasani İmparatorluğu için kullanımını
 ayrı bir alt başlık olarak tutar ve 19. yüzyıl için ayrı bir alt başlık
 ayırır.[^k1]
-
-Bir Osmanlı kurumunun adının başka bir imparatorluk için de kullanılmış olarak
-kaydedilmesi,[^k1] korpusun şu kuralının dayanağıdır: bu incelemede millet sözcüğü,
-hangi bağlamda kullanıldığı belirtilmeden geçmez.
 
 ## Cemaatler ad ad sayılır
 
@@ -79,7 +70,6 @@ Aynı devletin bir başka kurumu için bağımsız bir ansiklopedide ayrı bir m
 tutulur.[^k2] O kurum
 [Tımar](/kavram/timar/) dosyasında, dönemin düzenleme fermanı ise
 [Tanzimat Fermanı](/olay/tanzimat-fermani/) dosyasında ele alınıyor.
-
 
 ## Neyi düzenler
 
@@ -127,7 +117,6 @@ daha işledi.
 Bir metnin ilan ettiği ilke ile fiilî
 uygulama arasındaki fark, ayrı ayrı ölçülmelidir.[^k2]
 
-
 ## Benzer düzenlerle karşılaştırma
 
 Farklı hukuklara tabi toplulukları bir arada yönetme sorunu başka
@@ -161,7 +150,6 @@ düzenleme, topluluk için bir kısıt olabilir.
 Bir düzenin nasıl işlediği, yalnızca onu
 kuranın kaydından okunamaz.[^k2]
 
-
 ## Nasıl kullanılır?
 Sorduğu soru dardır: hangi konularda topluluğun
 kendi hukuku geçerliydi, hangi konularda merkezin.[^k1]
@@ -170,16 +158,30 @@ Cevap dönemden döneme değişir.[^k3] Bu değişim, düzenin kendisinden
 çok merkezin kapasitesindeki değişimi
 gösterir.[^k2]
 
-
 ## Terimin kendisi
 
 Terimin bugünkü kullanımı, dönemin kendi kullanımıyla tam
 örtüşmez.[^k3] Sözcüğün anlamı zamanla değişti.
 
-Bir terimi bugünkü anlamıyla geçmişe
-uygulamak, korpusun anakronizm dosyasında tanımlanan hatadır.[^k2][^k1]
+## Tek ve değişmez bir sistem değildi
+
+“Millet sistemi” ifadesi Osmanlı yönetiminde dinî aidiyet, hukuk ve cemaat
+temsilciliği arasındaki ilişkileri açıklamak için kullanılır; fakat bütün yüzyıllarda
+aynı biçimde işleyen tamamlanmış bir anayasa değildi.[^k1] Patrikhane, hahambaşılık,
+yerel mahkemeler ve vergi uygulamaları dönem ile bölgeye göre değişti. Cemaat
+özerkliği, üyelerin kendi içlerinde eşit olduğu anlamına da gelmez; ruhban, yerel
+eşraf, kadınlar ve alt sınıflar farklı yetkilere sahipti.
+
+On dokuzuncu yüzyıldaki reformlar temsil kurumlarını ve “millet” dilini yeniden
+düzenledi.[^k2] Sonraki milliyetçiliklerin etkisiyle erken dönemleri aynı kategorilerle
+okumak anakronizm yaratabilir. Kavram kullanılırken hangi yüzyıl, hukuk alanı ve
+cemaatin kastedildiği belirtilmelidir. Dinî farklılığın yönetilmesi ile modern anlamda
+azınlık hakları, hoşgörü veya ayrı egemenlik kavramları birbirinin yerine
+geçirilmemelidir.[^k3]
 
 ## Kanıtın ve kapsamın sınırı
 Sistemin işleyişi, hukuki dayanakları ve 19. yüzyıldaki dönüşümü burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]
+
+Yer ve dönem farkı belirleyicidir.

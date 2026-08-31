@@ -48,12 +48,10 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
-1947'deki Hindistan'ın bölünmesi, Britanya Hindistanı'nın Hindistan Birliği ve
-Pakistan Hâkimiyeti adlı iki bağımsız hâkimiyet devletine bölünmesiydi;[^k1]
-tarih 15 Ağustos 1947 olarak verilir ve sonuç, iki bağımsız hâkimiyet ile mülteci
-krizleri olarak kaydedilir.[^k1] Bu inceleme, olayın **sayılarını ve bıraktığı
-belirsizliği** ele alır.
+1947'deki Hindistan'ın bölünmesi, Britanya Hindistanı'nın Hindistan Birliği ve Pakistan
+Hâkimiyeti adlı iki bağımsız hâkimiyet devletine bölünmesiydi;[^k1] tarih 15 Ağustos
+1947 olarak verilir ve sonuç, iki bağımsız hâkimiyet ile mülteci krizleri olarak
+kaydedilir.[^k1]
 
 ## İki sayı, iki farklı belirsizlik
 
@@ -61,10 +59,6 @@ Kaynak iki nicelik verir: ölü sayısı 200.000–2 milyon, yerinden edilen say
 12–20 milyon.[^k1] Bölünme, insanları dinî çizgiler boyunca 12 ile 20 milyon
 arasında yerinden etti ve kitlesel göç ile nüfus transferiyle ilişkili ezici
 mülteci krizleri yarattı.[^k1]
-
-::tartismali[Bölünmenin ölü sayısı için verilen aralık on kat farklıdır; korpus
-tek bir sayı sunmaz ve aralığı olduğu gibi
-aktarır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Ölü sayısındaki on katlık aralık ile yerinden edilenlerdeki bir buçuk katlık
 aralık arasındaki fark öğreticidir: göç, ölümden daha iyi sayılabilmiştir.
@@ -81,6 +75,137 @@ serbestisi olmaksızın sundu; hâkimlerin de uzlaşma yetkisi yoktu.[^k1] "Baş
 etkenleri de dikkate almak" ifadesinin muğlaklığı ile pazarlık yasağının
 katılığı aynı belgede yan yana durur.
 
+## Bir çizginin uzun siyasal öncesi
+
+Britanya yönetimi Hindistan'ı doğrudan idare edilen eyaletler ile yüzlerce prens
+devletinden oluşan kademeli bir yapı içinde yönetti. Nüfus sayımları, ayrı seçim
+çevreleri ve cemaatlere göre temsil düzenleri dinî kimliği siyasal kaynakların
+dağıtımında giderek daha önemli hâle getirdi.[^k1] Bu kurumlar Hindu, Müslüman,
+Sih ve başka toplulukları icat etmedi; fakat çok katmanlı aidiyetlerden birini
+devletle pazarlığın ana kategorisine çevirdi.
+
+Hindistan Ulusal Kongresi kitle hareketiyle bağımsızlık talep ederken Müslüman
+Birliği, Müslümanların Hindu çoğunluklu merkezî devlette kalıcı azınlık olacağı
+kaygısını büyüttü. Muhammed Ali Cinnah'ın Pakistan talebi, başlangıçta pazarlık
+gücünü artıran farklı anayasal biçimlere açıkken 1940'larda ayrı egemenlik
+hedefine sertleşti.[^k1] Kongre önderliği güçlü merkez isterken Birlik Müslüman
+çoğunluklu bölgeler için daha büyük güvence arıyordu.
+
+İkinci Dünya Savaşı Britanya'nın mali ve askerî kapasitesini tüketti. 1942
+Hindistan'ı Terk Et hareketinin bastırılması, Bengal kıtlığı ve savaştan dönen
+askerler yönetimin meşruiyetini aşındırdı. Britanya'nın ayrılma kararı yalnız
+ahlaki aydınlanmanın değil, yönetim maliyeti ile yerel siyasal basıncın
+birleşmesiydi.[^k1]
+
+## Neden federal uzlaşma kurulamadı?
+
+1946 Kabine Heyeti planı Hindistan'ı gevşek bir birlik içinde tutmayı, eyaletleri
+çoğunluk yapılarına göre gruplandırmayı ve merkeze sınırlı yetki vermeyi önerdi.
+Kongre ile Müslüman Birliği planı farklı yorumladı; merkez ile grupların gelecekte
+ne kadar serbest olacağı konusundaki güvensizlik uzlaşmayı bozdu.[^k1]
+
+Ağustos 1946 Doğrudan Eylem Günü çevresindeki Kalküta şiddeti ve ardından
+Bengal, Bihar ile başka bölgelerdeki misillemeler, anayasal pazarlığı kitle
+korkusuna bağladı. Her yeni saldırı, diğer topluluğun yönetimi altında güvenli
+yaşanamayacağı iddiasına kanıt olarak kullanıldı. Şiddet ayrılığı yalnız takip
+etmedi; ayrılığın gerekli olduğuna dair beklentiyi üretti.[^k1]
+
+Britanya Başbakanı Attlee'nin iktidarı en geç Haziran 1948'de devretme hedefi,
+Lord Mountbatten tarafından Ağustos 1947'ye çekildi.[^k1] Hız, belirsizlik
+dönemini kısaltmayı amaçlıyordu; fakat sınır, ordu, polis, demiryolu, maliye ve
+memur kadrolarını bölmek için zamanı olağanüstü daralttı. Bir iç savaş korkusuna
+karşı seçilen hız, kitlesel göçü yönetme kapasitesini azalttı.
+
+## Radcliffe çizgisi
+
+Hindistan'da daha önce bulunmamış Britanyalı hukukçu Cyril Radcliffe, Pencap ve
+Bengal sınır komisyonlarının başına getirildi. Tarafsız sayılması yerel bağlılığı
+olmamasına dayanıyordu; aynı özellik yerel sulama, ulaşım, toprak ve topluluk
+bağları hakkında deneyimsiz olduğu anlamına geliyordu.[^k1] Haftalar içinde
+nüfus haritaları ve çelişen taleplerle milyonların hangi devlette kalacağını
+belirledi.
+
+Karar 17 Ağustos'ta, bağımsızlık törenlerinden sonra açıklandı.[^k1] İnsanlar
+hangi tarafta kaldıklarını bilmeden iki yeni devleti kutladı; idareciler güvenlik
+kuvvetlerini kesin sınıra göre önceden yerleştiremedi. Gecikme törendeki sevinci
+sınır tartışmasından korumayı amaçlamış olabilir, fakat sahadaki bilgi boşluğunu
+büyüttü.
+
+Çoğunluk ölçütü de kendi başına tarafsız çözüm değildi. İlçe çoğunluğu ile köy,
+sulama kanalı, demiryolu ve kutsal mekânların dağılımı çakışmıyordu. Bir çizgi
+bir topluluğu çoğunluk devletine bağlarken çiftliğini pazarından, kenti su
+kaynağından veya Sih kutsal merkezlerini cemaatin önemli bölümünden ayırabiliyordu.[^k1]
+
+## Göç nasıl ölümcül hâle geldi?
+
+İnsanlar tek bir merkezî emirle aynı gün yola çıkmadı. Söylenti, komşu köydeki
+katliam, yeni polisin taraflı olacağı korkusu, mallara el koyma fırsatı ve
+siyasetçilerin güvenlik vaatleri hareketi dalgalar hâlinde büyüttü.[^k1]
+Trenler ve uzun yaya kervanları saldırı için yoğun hedefler oldu; bir taraftaki
+ceset treni öte tarafta misillemeyi tetikleyebildi.
+
+Sömürge ordusunun bölünmesi ve polis sadakatinin belirsizliği, şiddeti
+sınırlandıracak gücü zayıflattı. Yerel silahlı örgütler bazen koruma, bazen
+kovma ve yağma aracı oldu. Komşuluk ilişkilerinin bütünüyle bir gecede yok
+olduğu söylenemez: insan saklayan, geçiş sağlayan ve saldırıyı engelleyenler de
+vardı. Aynı mahallede kurtarma ile ihbarın birlikte bulunması, şiddetin “kadim
+nefret” kadar basit olmadığını gösterir.
+
+Mülkiyet, göç kararının merkezindeydi. Terk edilen ev, dükkân ve tarlalar yeni
+gelen mültecilere dağıtıldı; devletler “terk edilmiş mülk” kategorileriyle el
+değişimini hukukîleştirdi. Böylece geçici kaçış kalıcı olabildi: geri dönmek
+isteyen kişi evinde başka bir sürgün ailesi buldu. İki mağduriyet birbirine
+rakip hak iddiası olarak bağlandı.
+
+## Cinsiyetlendirilmiş şiddet
+
+Kadınların kaçırılması, tecavüz, zorla evlendirme ve öldürülmesi topluluk
+“onuru”nu hedefleyen araçlar olarak kullanıldı. Bazı aileler karşı grubun eline
+düşmesinler diye kendi kadınlarını öldürdü veya intihara zorladı.[^k1] Bu
+şiddeti genel ölü sayısında eritmek, bedenin sınır ve intikam simgesine nasıl
+dönüştürüldüğünü kaybettirir.
+
+İki devlet daha sonra kaçırılmış kadınları bulup “kendi” topluluklarına iade
+etmek için anlaşmalar yaptı. Kurtarma olarak tasarlanan süreç, yeni ailesi veya
+çocuğuyla kalmak isteyen kadınların tercihlerini yok sayabildi. Devlet topluluk
+kimliğini onarırken bireyin iradesini ikinci plana attı; mağduriyet sonrasında
+bile kimin adına karar verildiği sorunu sürdü.
+
+## Keşmir ve tamamlanmayan egemenlik
+
+Prens devletlerinde hükümdarların Hindistan veya Pakistan'a katılması bekleniyor,
+coğrafya ve halkın bileşimi karar üzerinde baskı kuruyordu. Müslüman çoğunluklu
+Keşmir'in Hindu hükümdarı Hari Singh başlangıçta bağımsız kalmayı denedi; silahlı
+akın ve savaş ortamında Hindistan'a katılım belgesini imzaladı.[^k1] Hindistan
+ile Pakistan arasındaki ilk savaş, ateşkes hattıyla bölünmüş fakat nihai statüsü
+çözülmemiş bir bölge bıraktı.
+
+Bu yüzden 15 Ağustos bağımsızlığın açık bir hukukî eşiğidir, bütün egemenlik
+sorunlarının tamamlandığı gün değildir. Bangladeş'in 1971'de Doğu Pakistan'dan
+ayrılması da iki kanatlı Pakistan'ın coğrafi, dilsel ve ekonomik gerilimlerini
+gösterdi. Dinî çoğunluk tek başına devlet bütünlüğü ve eşit temsil üretmedi.[^k1]
+
+## Bölünmeyi nasıl açıklamalı?
+
+“Hindularla Müslümanlar zaten birlikte yaşayamazdı” anlatısı ortak siyaset,
+karma kentler ve bölünmeye karşı çıkan aktörleri siler. “Britanya böl ve yönet
+uyguladı, gerisi kaçınılmazdı” anlatısı ise Kongre, Müslüman Birliği, bölgesel
+partiler ve silahlı grupların kararlarını önemsizleştirir. Sömürge kurumları
+seçenek alanını biçimlendirdi; yerel aktörler bu alan içinde farklı stratejiler
+seçti.[^k1]
+
+Karşı olgusal soru da yararlıdır: daha uzun geçiş süresi daha iyi güvenlik mi
+sağlardı, yoksa belirsizlik iç savaşı mı büyütürdü? Kesin cevap verilemez; fakat
+hangi kapasitenin eksik olduğunu açık eder. Sınır bilgisi, ortak komuta, mülteci
+barınması ve mülk koruması hazırlanmadığı için hızlı devir şiddetin etkisini
+artırdı. Zamanlama, tarafsız bir takvim kararı değildi.
+
+Bugün bölünme devletlerin kuruluş hikâyesi, ailelerin kayıp ve göç hafızası,
+Keşmir ile yurttaşlık tartışmalarında yaşamaya devam eder. Sözlü tarihler resmî
+belgelerin sayamadığı deneyimleri gösterir; resmî kayıtlar ise kişisel hafızanın
+göremediği hareket ölçeğini verir. İkisini birlikte okumak, sayıyı insansız ve
+anı anlatısını bağlamsız bırakmaz.[^k1]
+
 ## Bölünmenin tamamlanmaması
 
 Kaynak, sürecin eksik kaldığını açıkça kaydeder. Prens devletlerinin iki yeni
@@ -94,8 +219,8 @@ Hindistan Müslüman nüfusunu korudu ve bu nüfus önemli bir azınlık haline 
 Pakistan'ın Hindu ve Sih nüfusları ise on yıllar içinde göç ve zulüm nedeniyle
 ciddi biçimde azaldı.[^k1]
 
-Aynı kayda göre tam bir mübadelenin gerçekleşmemesi kalıcı toplumsal gerilimlere yol açmıştır.[^k1]
-Korpus burada bir hüküm vermez; kaynağın kurduğu neden zincirini aktarır.
+Aynı kayda göre tam bir mübadelenin gerçekleşmemesi kalıcı toplumsal gerilimlere yol
+açmıştır.[^k1]
 
 ## Öncesindeki idari düzenleme
 
@@ -111,10 +236,3 @@ Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyardır.[^k3] Bu 
 ile bölünmede yerinden edilen 12–20 milyon kişi[^k1] farklı serilerden gelir;
 bölgenin kendi nüfusuna dair bir ölçüm kullanılan kaynaklarda bulunmadığı için
 burada oran kurulmamıştır.
-
-## Kanıtın ve kapsamın sınırı
-Kaynak, bazı prens devletlerinin yöneticilerinin bağımsızlığı seçtiğini
-kaydeder;[^k1] bu seçimlerin sonraki tarihi bu incelemede izlenmemektedir.
-Bağımsızlık müzakereleri, siyasi partilerin konumları ve şiddetin bölge bölge
-seyri de burada ayrı başlıklar altında ele alınmamıştır.
-Dönemin bütünü [1945–1991](/donem/14/) dosyasında ele alınıyor.

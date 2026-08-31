@@ -55,7 +55,6 @@ son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Tarih yazımı uzun süre iki işi birden yapmaya çalıştı: olup biteni kaydetmek ve
 olup bitenden ahlaki bir ders çıkarmak. İbn Haldûn'un yaptığı şey bu ikisini
 birbirinden ayırmaktı. Kimi araştırmacılar onu, tarih ve siyaset incelemesini
@@ -171,8 +170,57 @@ karakter taşıdığını belirtir.[^k3] Kavramın kendi tarihini ve İbn Haldû
 yüklediği anlam katmanlarını ayrıntılı biçimde
 [asabiyet dosyası](/kavram/asabiyet/) ele alıyor.
 
+## Haber doğru olabilir mi
+
+İbn Haldûn'un tarihçiye getirdiği temel yeniliklerden biri, aktarım zinciri
+sağlam görünse bile bir haberin toplumsal olarak mümkün olup olmadığını
+sormasıdır.[^k4] Bir ordunun büyüklüğü, bir kentin besleyebileceği nüfus ya da
+toplanabileceği vergi; coğrafya, üretim ve idare kapasitesiyle uyuşmuyorsa
+yalnız güvenilir raviler tarafından aktarılmış olması yeterli değildir.
+
+Bu yöntem, kaynak eleştirisini “kim söyledi?” sorusundan “anlatılan şey hangi
+koşullarda gerçekleşebilir?” sorusuna genişletir. Hükümdara yakınlık,
+mezhep bağlılığı, övgü isteği ve olağanüstü olana duyulan merak haberleri
+büyütebilir.[^k1][^k4] Tarihçinin görevi aktarılan metni kopyalamak değil,
+iddianın ölçeğini dönemin geçim, ulaşım ve örgütlenme imkânlarıyla sınamaktır.
+
+## Göçebe ve yerleşik hayat bir değer sıralaması değildir
+
+İbn Haldûn'un “bedevî” ile “hadarî” ayrımı yalnız çöl insanı ile kent insanı
+arasındaki coğrafi fark değildir.[^k2] İlki daha az uzmanlaşmış, dayanışması
+daha doğrudan ve zor koşullara alışkın topluluk biçimini; ikincisi artı ürün,
+iş bölümü, sanatlar ve devlet örgütlenmesi gelişmiş yerleşik hayatı anlatır.
+Birincinin güçlü asabiyeti iktidarı ele geçirmeyi kolaylaştırırken, ikincinin
+üretim ve kurumları yönetimin sürmesini mümkün kılar.
+
+Döngünün mekanizması ahlaki “yozlaşma” sözcüğünden daha somuttur. Hanedan
+gelirlerini artırdıkça maaşlı asker, saray ve uzmanlaşmış idare kurar; böylece
+onu iktidara taşıyan yakın dayanışmaya daha az bağımlı olur. Aynı anda artan
+harcama ve vergi, üreticinin teşvikini ve yönetimin toplumsal dayanağını
+zayıflatabilir.[^k4] Yeni ve daha sıkı bir grup, merkezdeki hanedanın satın
+alamadığı dayanışmayla üstünlük kurar.
+
+Bu model her devletin kaçınılmaz olarak aynı ömre sahip olduğunu kanıtlayan bir
+yasa değildir. Bürokrasi, hanedan evlilikleri, dinî meşruiyet ve yeni askerî
+teknikler çevrimi uzatabilir ya da yönünü değiştirebilir. Modeli güçlü kılan,
+tek tek hükümdarların erdeminden bağımsız karşılaştırılabilir değişkenler
+önermesidir; sınırı ise Mağrip hanedanlarından çıkarılan örüntünün bütün
+toplumlara aynı biçimde uygulanamayışıdır.[^k2][^k3]
+
+## Vergi üzerine sık yapılan yanlış çıkarım
+
+*Mukaddime*'de hanedanın erken dönemindeki düşük yüklerin üretimi teşvik ettiği,
+sonraki yüksek taleplerin ise faaliyeti daraltabildiği anlatılır.[^k4] Bu gözlem
+bazen modern bir vergi eğrisinin eksiksiz keşfi gibi sunulur. Benzerlik vardır,
+fakat İbn Haldûn matematiksel bir oran, evrensel eşik ya da deneysel veri dizisi
+vermez. İddiası hanedan harcamaları, lüks ve zorlayıcı tahsilat bağlamındadır.
+
+Dolayısıyla metni çağdaş iktisadın hazır bir terimine çevirmek yerine akıl
+yürütmenin sınırını korumak gerekir: aşırı tahsilat üretim isteğini ve vergi
+tabanını daraltabilir; bunun hangi oran ve koşulda gerçekleşeceği metinden
+çıkmaz. Tarihsel bir sezgi ile modern ölçüm modeli aynı değildir.[^k1]
+
 ## Eserine bağ
 
-Bu inceleme eserin kamu malı tam metnine bağlanır: *Mukaddime*.[^k4] Esere yapılacak
-her atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
-çevirinin kullanıldığı belirtilmelidir.
+Esere yapılacak her atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve
+hangi çevirinin kullanıldığı belirtilmelidir.

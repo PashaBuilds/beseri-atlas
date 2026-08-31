@@ -64,7 +64,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Hint Okyanusu ticareti, Doğu Afrika kıyısından Güneydoğu Asya'ya uzanan ve
@@ -82,9 +81,7 @@ toplulukları oluşmasının doğrudan sebebidir.
 
 ## Rüzgârın kurduğu takvim
 
-Bir ticaret düzeninin doğa koşullarına bu kadar sıkı bağlı olması, korpusta
-seyrek görülen bir durumdur.[^k1] Kara yollarında yolculuk her mevsim
-mümkündür; burada değildir.
+Kara yollarında yolculuk her mevsim mümkündür; burada değildir.
 
 Takvimin katılığı iki yönlü çalışır. Bir yandan, geç kalan gemi bir sonraki
 mevsimi beklemek zorundadır; öte yandan, herkesin aynı takvime uyması
@@ -105,9 +102,6 @@ Böyle bir düzende siyasi güç, toprağın büyüklüğüyle değil boğazın
 konumuyla ölçülür.[^k3] Dar bir geçidi denetleyen küçük bir devlet, geniş bir
 iç bölgeye sahip büyük bir devletten daha fazla gelir elde edebilir.
 
-Korpusun [Ticaret diasporası](/kavram/ticaret-diasporasi/) dosyası, bu
-limanlarda oluşan yabancı tüccar topluluklarını kavram düzeyinde ele alır.
-
 ## Devletsizliğin sonucu
 
 Ağın tek bir devlet tarafından denetlenmemesi bir eksiklik değil, yapısal bir
@@ -118,16 +112,12 @@ Bunun sonucu, ticaretin siyasi değişimlerden görece bağımsız
 sürmesidir.[^k2] Bir limanda hanedan değiştiğinde ağ durmaz; mal akışı
 komşu limana kayar ve düzen yeniden kurulur.
 
-::tartismali[Bu düzenin ne zaman ve neden Avrupa donanmalarının denetimine
-geçtiği tartışmalıdır; teknolojik üstünlük, silahlı ticaret pratiği ve yerel
-siyasi bölünmüşlük farklı ağırlıklarla ileri sürülür. Korpus bir sıralama
-yapmaz.]{harita=tartisma-bati-neden-yukseldi}
+::tartismali[Bu düzenin ne zaman ve neden Avrupa donanmalarının denetimine geçtiği tartışmalıdır; teknolojik üstünlük, silahlı ticaret pratiği ve yerel siyasi bölünmüşlük farklı ağırlıklarla ileri sürülür.]{harita=tartisma-bati-neden-yukseldi}
 
 ## İki kaydın bin yıl arayla aynı şeyi anlatması
 
-Bu inceleme iki birincil kaynağa bağlıdır ve aralarında yaklaşık bin üç yüz yıl
-vardır.[^k1][^k2] Birincisi bir tüccarın elinden çıkmış liman ve mal
-rehberidir; ikincisi aynı sularda dolaşmış bir gezginin kaydıdır.
+Birincisi bir tüccarın elinden çıkmış liman ve mal rehberidir; ikincisi aynı sularda
+dolaşmış bir gezginin kaydıdır.
 
 İki kaydın aynı limanları, aynı malları ve aynı rüzgâr takvimini anlatması,
 düzenin sürekliliğinin en doğrudan kanıtıdır.[^k1][^k2] Süreklilik bir
@@ -137,18 +127,11 @@ Farklar da kaydedilmelidir. Sonraki kayıtta ağın dinî ve hukuki altyapısı
 gelişmiştir; önceki kayıtta yalnızca mal ve mesafe vardır.[^k2] Ağ aynı
 kalmamış, kurumsallaşmıştır.
 
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun deniz ticareti kapsamındaki ilk yapısal kavram
-dosyasıdır.[^k3] Korpusta Atlantik ekonomisi üzerine dosyalar bulunuyordu;
-ondan önce ve daha büyük hacimle işleyen bu düzen için bir dosya yoktu.
-
 Dosyanın kapsamadıkları belirtilmelidir. Ağdaki tek tek limanların tarihi,
 taşınan malların üretim bölgeleri ve fiyat hareketleri burada
 işlenmez;[^k1] her biri ayrı dosya gerektirir.
 
-Ağın Avrupa donanmalarıyla karşılaşması ve sonrasındaki dönüşümü de kapsam
-dışıdır.[^k3] Bu, korpusun sömürgecilik dosyalarının konusudur ve burada
-yalnızca işaret edilir.
+Ağın Avrupa donanmalarıyla karşılaşması ve sonrasındaki dönüşümü de kapsam dışıdır.[^k3]
 
 ## Malların yönü ve hacim sorunu
 
@@ -177,6 +160,14 @@ sınıfı içinde yerleşir.[^k2][^k3]
 
 İki yolun bıraktığı kurumsal iz de farklıdır ve
 ayrı kanıtlar gerektirir.[^k3]
+
+## Ağı tanımanın üç işareti
+
+Hint Okyanusu ticareti tek bir rota değil, muson takvimiyle birbirine bağlanan liman
+ve aracılar ağıdır. Bir malın kıyıda bulunması doğrudan uzun yolculuk yaptığını
+göstermez; birkaç aktarma merkezi üzerinden taşınmış olabilir.[^k1] Ağı çözmek için
+malın yönü, mevsimsel seyir zamanı ve limanlardaki tüccar toplulukları birlikte
+izlenmelidir. Böylece bağlantının varlığı ile ticaret hacmi birbirine karıştırılmaz.[^k2]
 
 ## Okumayı sürdürmek için
 Ağın karşılıklı uçlarındaki liman devletleri için [Kilva](/aktor/kilva/) ve

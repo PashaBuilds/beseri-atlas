@@ -118,10 +118,10 @@ onarim_turu: 0
 Bu haritanın çıkış noktası kaynağın bölüm yapısıdır: kurama ve varsayımlarına
 ayrı alt başlıklar, ardından yanıtlar için ayrı bir bölüm.[^k1]
 
-## Soru neden korpusu ilgilendiriyor
+## Soru anlatıyı nasıl değiştiriyor
 
-Bu harita, korpusun bütün aktör ve düşünür dosyalarını ilgilendirir.[^k1]
-Bir dosyanın neyi anlatacağı, bu sorunun cevabına göre değişir.
+Bu soru bütün aktör ve düşünür anlatılarının ölçeğini değiştirir.[^k1]
+Bir biyografinin neyi açıklayabileceği, verilen cevaba göre farklılaşır.
 
 Cevap bireyse, dosya kararları anlatır.[^k2] Cevap koşullarsa, dosya
 kararı mümkün kılan yapıyı anlatır.
@@ -198,7 +198,7 @@ katman toplumsal ve iktisadi yapılar, en hızlı katman olaylardır.
 Açıklama, yavaş katmanlarda aranır.[^k4] Yüzeydeki hareket, altındaki
 yapının izinden okunur.
 
-## Korpusun kendi biçimi
+## Çok katmanlı anlatı biçimi
 
 Her olay dosyası bir dönem dosyasına bağlanır ve
 düşünür dosyaları kişilerin görüşleri yerine metinlerinin bugünkü durumunu anlatır.[^k1]
@@ -245,7 +245,7 @@ Bir açıklamanın kayıtta daha çok
 görünmesi, kaynakların yapısından da gelebilir ve tek başına o açıklama lehine kanıt
 sayılmaz.[^k3]
 
-::tartismali[Dört konum aynı olayı dört ayrı düzeyde açıklar. Korpus hiçbirini benimsemez; dördüncüsünü kendi biçimi olarak kullandığını ise açıkça yazar.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Dört konum aynı olayı dört ayrı düzeyde açıklar. Hiçbiri tek başına belirleyici sayılmaz; anlatı kişi, yapı, fırsat ve temsil katmanlarını birlikte sınar.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 ## Kuram nereden çıktı
 
@@ -428,11 +428,28 @@ sorunun kaydı, sorulmamış bir sorudan daha kullanışlıdır.
 Dördüncüsünü kendi biçimi olarak
 kullandığını açıkça yazsa bile.[^k1]
 
-Bir biçim tercihi, o tercihin doğru olduğunu göstermez.[^k3] Bu ayrım
-korpusun hakemlik etmeme ilkesinin gereğidir.
+Bir anlatım biçiminin seçilmesi, onun tek geçerli açıklama olduğunu göstermez; yöntem
+ile hükmü ayırmak bu nedenle gerekir.[^k3]
 
 Dosyanın verdiği tek şey bir soru çiftidir.[^k2] Olay o kişi olmasaydı da
 olur muydu; olsaydı aynı biçimde ve aynı zamanda mı olurdu.
+
+## Açıklamayı sınayan karşı-olgusal soru
+
+Bir kişinin tarihsel ağırlığını sınamanın yolu, onu anlatıdan bütünüyle silmek değil,
+hangi koşulların onsuz da var olacağını sormaktır. Kurumlar, kaynaklar ve toplumsal
+çatışmalar aynı kaldığında başka bir aktör benzer kararı verebilir miydi? Cevap
+evetse kişinin rolü fırsatı kullanmakta; hayırsa benzersiz bilgi, yetki veya koalisyon
+kurma kapasitesinde aranmalıdır. Carlyle'ın kahraman merkezli anlatısı ilk kutbu,
+Spencer'ın toplumsal koşullara yaptığı itiraz ikinci kutbu keskinleştirir.[^k2][^k3]
+
+Bu karşı-olgusal sınama yapıları kişilere karşı üstün ilan etmez. Marx'ın tarih
+çözümlemesinde sınıf ilişkileri insan eylemini sınırlar, fakat sonuçlar yine örgütlü
+kararlar ve mücadeleler içinden çıkar.[^k4] Sağlam bir açıklama bu yüzden iki soruyu
+aynı anda cevaplamalıdır: Bu kişiyi mümkün kılan koşullar neydi ve kişi bu koşulların
+tek başına üretmeyeceği neyi değiştirdi?[^k1] Biyografi ile toplumsal tarih ancak bu
+iki cevap birbirinin yerine geçirilmediğinde birleşebilir. Kişinin görünürlüğü ile
+nedensel ağırlığı aynı şey değildir; kaynak bolluğu bu ayrımı tek başına çözmez.
 
 ## Okumayı sürdürmek için
 Dördüncü konumun kavramı için

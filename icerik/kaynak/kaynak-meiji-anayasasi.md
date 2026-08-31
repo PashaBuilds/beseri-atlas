@@ -59,7 +59,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Meiji Anayasası, 1889'da ilan edilen ve iki meclisli bir yasama düzeni
@@ -68,10 +67,6 @@ sayar ve hükümdarın konumunu tanımlar.
 
 Anayasa elli altı yıl yürürlükte kaldı.[^k2] Bu süre boyunca askıya
 alınmadı.
-
-Bu incelemenin asıl konusu bir karşılaştırmadır.[^k1] Korpusun on üç yıl önce
-ilan edilmiş bir başka anayasa künyesi vardır ve o metin iki yıl içinde
-fiilen askıya alınmıştı.
 
 ## Karşılaştırmanın kurulması
 
@@ -115,8 +110,7 @@ durdurulur.**
 
 ## Ölçümün sınırı
 
-İki örnek bir kural kurmaya yetmez.[^k1] Korpus bunu iki karşılaştırmalı
-ölçüm olarak kaydeder ve genelleştirmez.
+İki örnek bir kural kurmaya yetmez.[^k1]
 
 Başka etkenler de ayrılır.[^k2] Savaş sonuçları, mali durum ve dış
 müdahalenin yoğunluğu iki örnekte farklıydı.
@@ -141,9 +135,7 @@ seçildiği, ödünç alanın ne istediğini doğrudan gösterir.[^k1]
 hak listesi, dönemin uluslararası pratiğinde devlet sayılmanın
 koşullarıydı.
 
-Bu, korpusun Tonga dosyasında ölçtüğü mekanizmanın aynısıdır.[^k1] Bir
-düzen, kendisini dışarıdakilerin tanıyabileceği biçime sokarak
-korunmayı umar.
+Bir düzen, kendisini dışarıdakilerin tanıyabileceği biçime sokarak korunmayı umar.
 
 Fark sonuçtadır.[^k2] Tonga örneğinde biçim koruma sağladı; Hawai
 örneğinde sağlamadı; burada biçim, aynı zamanda iç iktidar düzenini de
@@ -155,9 +147,7 @@ Anayasanın açık hedeflerinden biri, yabancı devletlerle imzalanmış
 antlaşmaların değiştirilmesiydi.[^k2] O antlaşmalar, yabancıların yerel
 yargı yetkisinin dışında tutulmasını öngörüyordu.
 
-Bu düzen, korpusun Samoa dosyasında kaydedilen yapının aynısıdır.[^k3]
-Yargı yetkisinin uyrukluğa göre bölünmesi, egemenliği toprakta değil
-kişide tanımlar.
+Yargı yetkisinin uyrukluğa göre bölünmesi, egemenliği toprakta değil kişide tanımlar.
 
 Antlaşmalar sonraki yıllarda kademeli olarak değiştirildi.[^k1] Yazılı
 bir hukuk düzeninin varlığı, değişiklik talebinin başlıca gerekçesi
@@ -235,8 +225,7 @@ içerik olarak kesintili bir geçişe biçimsel bir süreklilik görüntüsü ve
 
 ## Künyenin dili
 
-Bu incelemede künyelenen metin bir çeviridir.[^k1] Özgün metinle
-karşılaştırma yapılmamıştır.
+Özgün metinle karşılaştırma yapılmamıştır.
 
 Çok dilli bir belgeye atıf
 yapılırken hangi dildeki metnin kastedildiği yazılmalıdır.[^k3]
@@ -251,13 +240,7 @@ Dosya, iki anayasa arasındaki farkın nedenini belirlemez.[^k1] Bir
 Metnin maddeleri tek tek aktarılmaz.[^k2] Metin künyede erişilebilir
 durumdadır.
 
-Sonraki anayasa ve savaş dönemi işlenmez.[^k3] Ayrı dosyalar gerektirir
-ve bu inceleme yazıldığında korpusta bulunmuyorlardı.
-
-## Okumayı sürdürmek için
-Karşılaştırmanın öteki tarafı için
-[Kânûn-ı Esâsî](/kaynak/kanunuesasi-1876/) dosyası okunmalıdır; bu inceleme
-onsuz eksiktir ve ikisi birlikte tek bir soruyu kurar.[^k1]
+Sonraki anayasa ve savaş dönemi işlenmez.[^k3]
 
 Aynı hattın erken halkası için
 [Gülhane Hatt-ı Şerîfi](/kaynak/gulhane-hatti/), metnin ilan edildiği

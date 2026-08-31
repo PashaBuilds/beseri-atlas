@@ -51,7 +51,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne oldu
 
 Yirminci yüzyılın başında, kıtanın güneybatısındaki bir sömürge
@@ -62,8 +61,7 @@ Bastırma sırasında uygulanan yöntemler, dönemin sömürge
 uygulamalarından da ayrılıyordu.[^k2] Bu ayrım, olayın sonraki
 tartışmasının merkezindedir.
 
-Bu incelemenin konusu askerî seyir değildir.[^k3] Kararın nasıl kayda
-geçtiği ve o kaydın sonradan ne olduğudur.
+Kararın nasıl kayda geçtiği ve o kaydın sonradan ne olduğudur.
 
 ## Ayaklanmanın nedeni
 
@@ -105,9 +103,7 @@ bulunmaz.**[^k3]
 Geri alma ile uygulamanın durması aynı tarihte olmadı.[^k1] Aradaki
 süre kayıtlarda izlenebilir.
 
-Bu, korpusun belge tartışmasında kurulan ölçütün bir örneğidir.[^k2] Bir
-metnin yürürlükten kaldırılması, uygulamanın o gün durduğunu
-göstermez.
+Bir metnin yürürlükten kaldırılması, uygulamanın o gün durduğunu göstermez.
 
 Kabul tarihi, geri alma tarihi ve
 fiilî durma tarihi üç ayrı veridir.[^k3]
@@ -153,9 +149,7 @@ Hayatta kalanların önemli bölümü ücretli çalışmaya
 yönlendirildi.[^k1] Kendi sürüsü ve toprağı olmayan bir nüfus, madenler
 ve çiftlikler için işgücü havuzu oluşturdu.
 
-Bu, korpusun zorunlu emek dosyasında tanımlanan yapının bir
-biçimidir.[^k2] Reddin mümkün olmadığı bir emek tahsisi, mülksüzleştirme
-yoluyla da kurulabilir.
+Reddin mümkün olmadığı bir emek tahsisi, mülksüzleştirme yoluyla da kurulabilir.
 
 Bir baskı döneminin ekonomik sonucu,
 baskı sona erdikten sonra da yapıyı belirler.[^k3]
@@ -192,9 +186,6 @@ malzeme taşımayı mümkün kıldı.
 Aynı hat sonrasında madenlerin ve çiftliklerin ürününü limana
 taşıdı.[^k1] Askerî amaçla döşenen altyapı ekonomik altyapıya
 dönüştü.
-
-Bu, korpusun Türkistan dosyasında
-kaydedilen örüntünün bir başka örneğidir.[^k3]
 
 ## Merkez ile sahadaki komuta
 
@@ -237,9 +228,6 @@ Birinci büyük savaş sırasında bölge el değiştirdi.[^k2] Yeni yönetim,
 Rapor tanıklıklara ve ele geçirilen belgelere dayanıyordu.[^k1]
 Resmî olarak basıldı ve dağıtıldı.
 
-Bu, korpusun Kongo dosyasında tanımladığı
-türden bir kaynaktır: bir devletin başka bir devletin yönetimini soruşturması.[^k3]
-
 ## Raporun geri çekilmesi
 
 Rapor, hazırlanmasından yaklaşık on yıl sonra dolaşımdan
@@ -276,10 +264,7 @@ noktadır.
 **Bir haksızlığın tanınması iki devlet arasında
 görüşülüyorsa, tanınan taraf o görüşmede yine muhatap sayılmamıştır.**[^k3]
 
-## Korpusta tekrar eden ölçüm
-
-Bu örüntü korpusta birçok kez kaydedilmiştir.[^k1] Bölgede yaşamayanlarca
-çizilen sınırlar, orada bulunmayanlarca alınan kararlar ve şimdi
+Bölgede yaşamayanlarca çizilen sınırlar, orada bulunmayanlarca alınan kararlar ve şimdi
 etkilenenler olmadan yapılan tanıma görüşmeleri.
 
 Üçü aynı yapıdadır.[^k2] Karar, sonucu taşıyanların dışında bir
@@ -315,16 +300,44 @@ Dosya, askerî harekâtın ayrıntısını vermez.[^k1] Birlik hareketleri,
 muharebe yerleri ve komuta kararları ayrı bir çalışmanın
 konusudur.
 
-Terim tartışması burada karara bağlanmaz.[^k2] Olayın hangi kavramla
-adlandırılacağı ve o kavramın hangi ölçütlerle uygulandığı, korpusun
-ayrı bir tartışma dosyasında ele alınır.
+Terim tartışması burada karara bağlanmaz.[^k2]
 
 Toplulukların kendi kaydından doğrulanabilir bir birincil metin
 künyelenememiştir.[^k3] Künyedeki birincil belge, olayı yürüten
 devletin değil onunla savaşan bir başka devletin yönetimine aittir ve
 bu kısıt burada açıkça beyan edilir.
 
+## Soykırım hükmü olay zincirinden kurulur
+
+Herero ve Nama kaybını yalnız savaşın sertliğiyle açıklamak yetersizdir. Toprak ve
+hayvan kaybıyla başlayan sömürge baskısı, ayaklanma, Waterberg sonrasında çöle
+sürme, su kaynaklarına erişimin engellenmesi, imha emri, toplama kampları ve zorla
+çalıştırma birbirini izleyen bir yok etme düzeni kurdu.[^k1][^k2] Niyet kanıtı
+yalnız tek belgede değil, emrin diliyle uygulamanın öngörülebilir sonuçları ve
+sonraki politikanın sürekliliği birlikte değerlendirilerek oluşur.
+
+İmha emrinin geri çekilmesi, o ana kadar çöle sürülen insanların durumunu veya
+kamp ölümünü geriye çevirmedi. Komutanlık ile Berlin arasındaki görüş ayrılıkları
+kurumsal sorumluluğu yok etmez; hangi makamın neyi bildiği, ne zaman müdahale
+ettiği ve hangi uygulamayı sürdürdüğü ayrı ayrı incelenmelidir.[^k1]
+
+1918 raporu ayrıntılı tanıklık taşırken Almanya'nın savaş rakibi tarafından
+hazırlanmış olması eleştirel okuma gerektirir.[^k2] Siyasi amaç belgenin her
+ifadesini geçersiz kılmaz; Alman yazışmaları, misyon kayıtları, kamp belgeleri,
+demografik tahminler ve Herero–Nama sözlü tarihleriyle çaprazlanmalıdır. Sonraki
+tanıma, özür, toprak ve insan kalıntılarının iadesi tartışmaları geçmişteki olayın
+bugünkü maddi ve siyasal sonuçlarının sürdüğünü gösterir.[^k3]
+
+Herero ile Nama deneyimleri tek kronolojiye sıkıştırılmamalıdır. Ayaklanma,
+teslim, kamp ve sürgün yolları farklılaştı; ortak sömürge şiddeti içindeki bu
+ayrımlar kayıp ve fail hesabını daha kesin kılar. Birleşik adlandırma,
+toplulukların özgül tarihini silmemelidir.[^k1]
+
+Bu ayrım, tazmin ve anma süreçlerinde her topluluğun temsilini ayrıca görünür
+kılmayı gerektirir.
+
 ## Okumayı sürdürmek için
+
 Dönemin yöneten düzeni için
 [Alman İmparatorluğu](/aktor/alman-imparatorlugu/) ve paylaşımın
 çerçevesi için [Berlin Konferansı](/olay/berlin-konferansi/) dosyaları

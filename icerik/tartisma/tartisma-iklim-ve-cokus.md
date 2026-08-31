@@ -32,6 +32,7 @@ ilgili:
   - kavram-arkeolojik-kanit
   - tartisma-romanin-cokus-nedeni
   - aktor-pagan-kralligi
+  - aktor-khmer-imparatorlugu
   - aktor-rapa-nui
   - aktor-olmek
   - aktor-moche

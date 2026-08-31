@@ -10,6 +10,10 @@ tarih_baslangic: "1521"
 bolge: [islam-dunyasi, avrupa, afrika]
 eksen: [kulturel, ekonomik, askeri]
 guven_geneli: yaygin
+kaynak_siniri: >-
+  Kullanılan dijital kayıt eserin tamamını sayfa düzeyinde doğrulamaya elverişli
+  değildir; bu yazı katalog ve ikincil kaynaklarla sınırlıdır ve özgün nüshadan
+  doğrudan alıntı iddiası taşımaz.
 etiketler: [piri-reis, harita, denizcilik, kaynak-listesi, osmanli, akdeniz]
 ilgili:
   - donem-09
@@ -60,7 +64,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Kitâb-ı Bahriye, on altıncı yüzyıl başında yazılmış bir denizcilik
@@ -70,8 +73,7 @@ Her bölüm bir kıyı kesimini anlatır ve bir haritayla birlikte
 verilir.[^k1] Sığlıklar, akıntılar, su alınacak yerler ve barınaklar
 sayılır.
 
-Bu incelemenin asıl konusu eserin kaynak listesidir.[^k2] Metin,
-kullanılan kaynakları ayrıca sayar.
+Metin, kullanılan kaynakları ayrıca sayar.
 
 ## Kaynak listesinin kendisi
 
@@ -88,8 +90,7 @@ erişilebilir olduğunu gösterir.**[^k3]
 
 ## Ölçümün genelleştirilmesi
 
-İfade korpusun öteki kaynak dosyalarına da uygulanabilir.[^k1] Bir eserin
-neyi kullanabildiği, dönemin bilgi dolaşımının doğrudan ölçüsüdür.
+Bir eserin neyi kullanabildiği, dönemin bilgi dolaşımının doğrudan ölçüsüdür.
 
 Bu ölçü, içeriğin doğruluğundan bağımsızdır.[^k2] Yanlış bir bilgi de
 belirli bir kayıttan gelmiş olabilir ve o kaydın erişilebilirliğini
@@ -103,12 +104,9 @@ ayrı ayrı incelenmelidir.[^k3]
 Listede anılan kaynakların bir bölümü bugün bilinmemektedir.[^k1] Bu
 eserler ya kaybolmuş ya hiç var olmamıştır.
 
-İki ihtimal ayırt edilemez.[^k2] Korpus ikisini de kaydeder ve
-seçmez.
+İki ihtimal ayırt edilemez.[^k2]
 
-Bu, korpusun Kâtib Çelebi dosyasında kaydettiği durumun aynısıdır.[^k3]
-Bir listede anılan eserin varlığı, listenin kendisinden
-kanıtlanamaz.
+Bir listede anılan eserin varlığı, listenin kendisinden kanıtlanamaz.
 
 ## Listelerin çift yönlü değeri
 
@@ -129,8 +127,7 @@ parçasıdır.[^k1] Kıyı çizgisi, adalar ve derinlikler resmedilir.
 Nüshalar arasında haritalar da farklılık gösterir.[^k2] Sonraki
 kopyacılar hem metni hem çizimi değiştirmiştir.
 
-Atıf yapılırken hangi nüshanın kastedildiği belirtilmelidir.[^k3] Bu,
-korpusun elyazması kaynaklarında uyguladığı genel kuraldır.
+Atıf yapılırken hangi nüshanın kastedildiği belirtilmelidir.[^k3]
 
 ## İki sürüm
 
@@ -140,9 +137,7 @@ saraya sunulmak üzere düzenlenmiştir.
 İki sürüm arasındaki fark biçimsel değildir.[^k2] İkinci sürüm manzum
 bir giriş ve genişletilmiş bölümler içerir.
 
-Bu, korpusun Magna Carta dosyasında kurduğu kuralın bir başka
-uygulamasıdır.[^k3] Çok sürümlü bir esere atıf yapılırken hangi
-sürümün kastedildiği yazılmalıdır.
+Çok sürümlü bir esere atıf yapılırken hangi sürümün kastedildiği yazılmalıdır.
 
 ## Dünya haritası
 
@@ -163,9 +158,6 @@ haritaların bir bölümü bugün bilinmemektedir.
 Tartışma, dosyanın merkezindeki soruyla aynıdır.[^k2] Bir kaynak
 listesi, listelenen kaynakların varlığını kanıtlamaz.
 
-Nesne künyesi gerektirir ve
-doğrulanabilir bir katalog kaydı bu inceleme yazıldığında bulunamamıştır.[^k3]
-
 ## Abartılı yorumlar
 
 Harita, yirminci yüzyıldan bu yana çeşitli olağanüstü iddialara konu
@@ -175,9 +167,8 @@ Pratik sonucu doğrudan bir kaynak
 sorunudur: konu hakkında açık arama yapıldığında dönen sonuçların önemli bölümü
 güvenilir değildir.[^k1]
 
-Bu, korpusun Hazarlar dosyasında kaydettiği durumun aynısıdır.[^k3] Bir
-konunun popüler yazında yoğun olarak işlenmesi, o konu hakkında
-künyelenebilir kaynak bulmayı zorlaştırabilir.
+Bir konunun popüler yazında yoğun olarak işlenmesi, o konu hakkında künyelenebilir
+kaynak bulmayı zorlaştırabilir.
 
 ## Kılavuz olarak işlevi
 
@@ -217,11 +208,9 @@ yazılmıştır.
 
 ## Kaynak durumu
 
-Bu incelemenin üç künyesinden biri giriş kapısı, ikisi ansiklopedi
-maddesidir.[^k1] Eserin kendisi künyelenememiştir.
+Eserin kendisi künyelenememiştir.
 
-Doğrulanabilir çevrimiçi tam metin ya da tıpkıbasım baskısı bu inceleme
-yazıldığında bulunamamıştır.[^k2] Eksik borç defterine yazılmıştır.
+Eksik borç defterine yazılmıştır.
 
 Kısıt dosyanın konusunu doğrudan etkiler.[^k3] Kaynak listesi hakkında
 konuşulur ve listenin kendisine atıf yapılamaz.
@@ -231,8 +220,7 @@ konuşulur ve listenin kendisine atıf yapılamaz.
 Eserin bölüm bölüm içeriği aktarılmaz.[^k1] Dosya yalnızca kaynak
 listesine ve nüsha durumuna ilişkin olanı kaydeder.
 
-Yazarın hayatı ve askerî görevleri işlenmez.[^k2] Ayrı bir dosya
-gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu.
+Yazarın hayatı ve askerî görevleri işlenmez.[^k2]
 
 Dünya haritası ayrı bir künye olarak açılmaz.[^k3] Nesne künyesi
 gerektirir ve katalog kaydı bulunamamıştır.

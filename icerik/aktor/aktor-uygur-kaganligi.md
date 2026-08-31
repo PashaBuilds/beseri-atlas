@@ -60,18 +60,12 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Nerede durduğu
 
-Uygur Kağanlığı, önceki bozkır düzeninin dağılmasından sonra aynı vadide
-kurulan siyasi birimdir.[^k1][^k4] Korpusun bölge şemasında Orta Asya ile Doğu
-Asya'nın kesiştiği yerde durur; iki bölge etiketi birden taşımasının sebebi
-budur.
+Uygur Kağanlığı, önceki bozkır düzeninin dağılmasından sonra aynı vadide kurulan siyasi
+birimdir.[^k1][^k4]
 
-Bu incelemenin korpus açısından ayırt edici yanı, bir siyasi düzenin bozkır
-biçiminden yerleşik biçime geçişini tek bir örnek üzerinden
-göstermesidir.[^k1] Geçiş kuşaklar içinde olmuştur ve her aşaması ayrı ayrı
-kayda geçmiştir.
+Geçiş kuşaklar içinde olmuştur ve her aşaması ayrı ayrı kayda geçmiştir.
 
 [Göktürk Kağanlığı](/aktor/gokturk-kaganligi/) dosyası önceki düzeni,
 [Tang Hanedanı](/aktor/tang-hanedani/) dosyası ise güneydeki yerleşik komşuyu
@@ -80,18 +74,16 @@ birbirini nasıl beslediği görünür.
 
 ## Aynı vadi, ikinci kayıt
 
-Bu kağanlığın kurulduğu vadi, korpusun kaynak katmanında bir metinle
-temsil edilir.[^k2] Önceki düzenin taş kaydı aynı bölgededir ve iki dönem
-arasındaki karşılaştırma bu yüzden mümkündür.
+Önceki düzenin taş kaydı aynı bölgededir ve iki dönem arasındaki karşılaştırma bu yüzden
+mümkündür.[^k1]
 
 Karşılaştırmanın gösterdiği şey bir süreklilik değil bir tercih farkıdır.
 Önceki kayıt, komşunun düzenine yaklaşmayı siyasi varlığın kaybı
 sayar;[^k2] bu kağanlık ise komşuyla kurduğu ilişkiyi gelirin kaynağı hâline
 getirmiştir.[^k1]
 
-Korpus iki tutumdan birini doğru saymaz. Bir bozkır düzeninin yerleşik komşuyla
-ilişkisini kesmesi de ona bağlanması da savunulabilir; ikisinin de bedeli
-kayıtlıdır ve ayrı kanıtlar gerektirir.[^k1][^k2]
+Bir bozkır düzeninin yerleşik komşuyla ilişkisini kesmesi de ona bağlanması da
+savunulabilir; ikisinin de bedeli kayıtlıdır ve ayrı kanıtlar gerektirir.[^k1][^k2]
 
 ## Yerleşikliğe geçiş
 
@@ -111,9 +103,7 @@ bölümü güneybatıya, vahalar kuşağına yerleşmiştir.
 ## Din değişiminin devlet kararı olması
 
 Bu kağanlığın en çok kaydedilen özelliği, yönetimin bir dini devlet kararıyla
-benimsemesidir.[^k1][^k4] Kararın kendisi, korpusun başka dosyalarında da
-karşılaşılan bir olguya örnektir: inanç değişimi her zaman aşağıdan yukarı
-işlemez.
+benimsemesidir.[^k1][^k4]
 
 Yukarıdan alınan bir kararın iki yönlü sonucu vardır. Yönetim, seçtiği inanç
 çevresinin yazı, hukuk ve muhasebe bilgisini de devralır;[^k3] aynı seçim,
@@ -134,10 +124,9 @@ Metin bırakmanın kendisi bir yerleşiklik göstergesidir. Elyazması üretimi
 kâğıt, mürekkep, atölye ve sürekli bir okur çevresi gerektirir;[^k3] hiçbiri
 hareket hâlindeki bir düzende kolayca kurulmaz.
 
-Bu, korpusun bozkır düzenleri hakkındaki kayıt boşluğunu da açıklar. Bozkır
-düzenleri az yazdıkları için değil, yazdıklarını taşıyacak kurumları geç
-kurdukları için az metin bırakmışlardır;[^k2][^k3] taşa yazılan istisnadır ve
-bu yüzden değerlidir.
+Bozkır düzenleri az yazdıkları için değil, yazdıklarını taşıyacak kurumları geç
+kurdukları için az metin bırakmışlardır;[^k2][^k3] taşa yazılan istisnadır ve bu yüzden
+değerlidir.
 
 ## Komşuyla kurulan ekonomik ilişki
 
@@ -154,44 +143,29 @@ bağımlı olması ayrı şeylerdir ve kaynaklar burada ikincisini kaydeder.
 
 ## Kaynak durumu
 
-Bu inceleme dört kaynağa dayanır ve ikisi birincildir.[^k2][^k3] Birincil
-metinlerden biri önceki düzenin taş kaydı, öteki bölgeden çıkan elyazması
+Birincil metinlerden biri önceki düzenin taş kaydı, öteki bölgeden çıkan elyazması
 metinlerin bir derlemesidir.
 
-İkinci birincil kaynağın katalog kaydında yazar alanı boştur; eser adı ve
-yayın yılı kayıtlıdır ve başlık yazarın adını taşır.[^k3] Korpus bu eksikliği
-künyede gizlemez, burada beyan eder.
+İkinci birincil kaynağın katalog kaydında yazar alanı boştur; eser adı ve yayın yılı
+kayıtlıdır ve başlık yazarın adını taşır.[^k3]
 
-Kağanlığın kendi dilinde ve kendi döneminden bir yönetim belgesi bu inceleme
-yazıldığında bulunamamıştır. Bu bir kısıttır: dosyadaki siyasi bilgilerin
-tamamı ya sonraki derlemelerden ya da komşu kayıtlardan gelir.[^k1][^k4]
-
-## Açıkta kalan sorular
-Vahalar kuşağına yerleşen sonraki siyasi birimler burada işlenmez;[^k1] ayrı
-dosyalar gerektirir ve bu inceleme yazıldığında korpusta bulunmuyorlardı.
+Bu bir kısıttır: dosyadaki siyasi bilgilerin tamamı ya sonraki derlemelerden ya da komşu
+kayıtlardan gelir.[^k1][^k4]
 
 Elyazması külliyatının dil ve yazı özellikleri, çeviri faaliyeti ve bu
 faaliyetin kaynak dilleri de kapsam dışıdır.[^k3] Bunlar bölgenin kaynak
 katmanı genişledikçe ayrıca ele alınabilir.
 
 Kağanlığın iç siyasi tarihi, hanedan çekişmeleri ve kağan listesi burada
-verilmez.[^k1][^k4] Korpusun aktör dosyaları bir düzenin nasıl işlediğini
-anlatır; olay sırasını değil.
+verilmez.[^k1][^k4]
 
 ## Bir düzenin iki kez kurulması
 
-Bu kağanlığın tarihi, korpusun aktör dosyalarında seyrek karşılaşılan bir
-yapıya sahiptir: düzen bir kez bozkırda, bir kez de dağılmadan sonra vahalar
-kuşağında kurulur.[^k1][^k4] İkinci kuruluş, birincisinin devamı sayılabilir
-mi sorusu açıktır.
+İkinci kuruluş, birincisinin devamı sayılabilir mi sorusu açıktır.
 
 Süreklilik iddiasının dayanağı adın, dilin ve yazının taşınmış olmasıdır.[^k3]
 Kopuş iddiasının dayanağı ise siyasi biçimin, geçim kaynağının ve komşuluk
 ilişkilerinin tamamen değişmiş olmasıdır.[^k1]
-
-Korpus iki iddiadan birini benimsemez ve bu incelemeyi ilk kuruluşa ayırır.
-Künyedeki tarihler bozkır düzenini kapsar; sonraki yerleşik düzen ayrı bir
-dosya gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu.[^k1][^k4]
 
 ## Ölçek sorunu
 
@@ -203,10 +177,8 @@ Rakip kaydında bir düzen iki yönde çarpıtılabilir. Tehdidin büyüklüğü
 alınan önlemin gerekçesini oluşturduğu için abartılabilir; alınan yenilgi,
 kaydı tutanın itibarını koruduğu için küçültülebilir.[^k4]
 
-Korpus bu yüzden bu incelemede bir nüfus ya da ordu sayısı vermez. Sayıların nasıl
-okunacağı sorusu
-[Tarihsel sayılar nasıl okunur](/tartisma/tarihsel-sayilar-nasil-okunur/)
-dosyasında ayrıca ele alınır.[^k1]
+Sayıların nasıl okunacağı sorusu [Tarihsel sayılar nasıl
+okunur](/tartisma/tarihsel-sayilar-nasil-okunur/) dosyasında ayrıca ele alınır.[^k1]
 
 ## Ticaret ağındaki konum
 
@@ -214,21 +186,9 @@ Kağanlığın denetlediği kuşak, doğu ile batı arasındaki kara ticaretinin
 geçtiği yerdedir.[^k1][^k4] Bu konum, gelirin üretimden değil geçişten
 alınması anlamına gelir.
 
-Geçiş gelirine dayanan düzenlerin ortak iki özelliği vardır ve korpus bunları
-başka bölgelerde de kaydeder: yolların güvenliği doğrudan bir maliye
-meselesidir, ve ticaretin yön değiştirmesi siyasi gücü doğrudan
-zayıflatır.[^k1]
-
-Aynı yapı, korpusun Batı Afrika ve Doğu Afrika dosyalarında da görülür.
-Farklı kıtalarda, birbirinden habersiz kurulmuş düzenlerin aynı konum
-mantığını paylaşması, korpusun karşılaştırmalı okumaya açtığı yerlerden
-biridir.[^k4]
-
 ## Yazının siyasi işlevi
 
 Bu düzenin bıraktığı metinlerin bir bölümü dinî, bir bölümü idaridir.[^k3]
-İkinci grup, korpus açısından daha belirleyicidir: idari kayıt, bir yönetimin
-kendi işleyişini yazıya bağladığının kanıtıdır.
 
 Sözlü aktarıma dayanan bir yönetimde bilgi, onu taşıyan kişiyle birlikte
 kaybolur. Yazılı kayda geçen bir yönetimde ise bilgi kişiden ayrılır ve
@@ -238,25 +198,11 @@ Bu ayrım, [Bürokrasi](/kavram/burokrasi/) incelemesinde kavram düzeyinde
 ele alınır. Burada somut hâli şudur: bir bozkır düzeninin yazılı idari kayıt
 tutmaya başlaması, yerleşikliğe geçişin en ölçülebilir göstergesidir.[^k1][^k3]
 
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun Orta Asya aktör katmanındaki yedinci dosyadır ve bölgenin
-en ince katmanlarından birini genişletir.[^k1] Bölge, korpusun etiket
-dağılımında uzun süre en az dosya taşıyan bölge oldu.
+Dosyanın seçilme gerekçesi kapsamdan çok bağlantıdır.
 
-Dosyanın seçilme gerekçesi kapsamdan çok bağlantıdır. Bu düzen, korpusta zaten
-bulunan üç dosyayı birbirine bağlar: önceki bozkır düzenini, güneydeki
-yerleşik komşuyu ve bölgenin kendi taş kaydını.[^k1][^k2]
-
-Bir dosyanın değeri yalnızca anlattığı konuyla ölçülmez. Korpusta bir dosya,
-kurduğu bağlarla da iş görür; birbirine değmeyen dosyalardan oluşan bir
-derleme korpus değil listedir.[^k4]
+Bir dosyanın değeri yalnızca anlattığı konuyla ölçülmez.
 
 ## Bir bölgenin kendi kaydına bağlanması
-
-Bu inceleme, korpusun Orta Asya çalışmasında yeni bir aşamayı işaretler. Bölgenin
-aktör dosyaları uzun süre yalnızca giriş kapısı ve ansiklopedi maddelerine
-bağlanabiliyordu;[^k1][^k4] bu inceleme, bölgenin kendi taş kaydına ve kendi
-elyazmalarına bağlanan ilk aktör dosyasıdır.[^k2][^k3]
 
 Fark yalnızca künyede değildir. Bir bölge dışarıdan yazılmış kayıtlarla
 anlatıldığında, o kayıtların neyi kayda değer bulduğu da anlatıya
@@ -282,3 +228,62 @@ karşılaşma için [Talas Savaşı](/olay/talas-savasi/) dosyaları okunabilir.
 
 Aynı yılları bütün bölgeler üzerinden okumak için [Dönem 06](/donem/06/)
 dosyası kullanılmalıdır.
+
+## Bozkır iktidarı ile kent ağının birleşmesi
+
+Uygur Kağanlığı, Göktürk siyasal mirasını devralırken yalnız hareketli askerî
+güce dayanmadı. Ötüken merkezli kağanlık, Tang Çin’iyle diplomasi ve ticaret,
+Soğd tüccarlarıyla yazı ve aracılık, bağlı boylarla dağıtım ilişkisi kurdu.[^k1][^k4]
+At, hayvan ürünü ve askerî yardım; ipek, tahıl ve lüks mallarla değiştiriliyordu.
+Bozkır ile tarım dünyası iki kapalı ekonomi değil, birbirinin güvenlik ve tüketim
+kapasitesine bağlı alanlardı.
+
+Kağanın gücü zafer kadar ganimet ve ticaret gelirini bağlı gruplara dağıtabilmesine
+dayanıyordu. Tang’daki iç kriz sırasında verilen askerî destek Uygurlara gelir ve
+prestij sağladı; Çin sarayı için de acil güvenlik aracıydı. Bu ilişki eşit bir
+ittifak veya tek yönlü haraç olarak sabitlenemez. Tarafların güç ve ihtiyaçları
+değiştikçe hediyenin, ticaretin ve yardımın anlamı da değişti.[^k1]
+
+## Maniheizm neden devlet tercihi oldu?
+
+Maniheizmin yönetici çevrede benimsenmesi yalnız kişisel inanç değişimi değildi.
+Soğdca okuryazarlık ve tüccar ağlarıyla bağlantı, kağanlığın yerleşik kent ve
+uluslararası ticaret ilişkisini güçlendirebildi.[^k1][^k3] Din adamları metin,
+çeviri ve idari bilgi taşıdı. Buna karşılık bütün boyların bir kararnameyle aynı
+anda Maniheist olduğu veya eski inançların bittiği varsayılmamalıdır.
+
+Devlet dininin günlük uygulamadaki yayılımı; tapınak, yazma, ad, gömü ve yerleşim
+kanıtlarıyla ayrı ayrı sınanır. Saray ideolojisi görünür ve iyi korunmuş olabilir;
+hareketli nüfusun dini daha az yazılı iz bırakabilir. Din değişimi, kültürel
+tekbiçimlilik değil yeni bir meşruiyet ve ağ kurma aracıdır.
+
+## Yazıt ne söyler, neyi sessiz bırakır?
+
+Uygur ve daha geniş Orhon yazıt geleneği hükümdarlık, sefer, halk ve düzen
+hakkındaki görüşleri taş üzerine kaydetti.[^k2] Bu metinler “bozkır halkları yazı
+bilmiyordu” önyargısını doğrudan çürütür. Yine de yazıt sarayın seçtiği olayları
+ve siyasal öğüdü verir; vergi, kadınların gündelik rolü veya sıradan çobanın
+deneyimi aynı ölçüde görünmez.
+
+Bir metindeki “halk” sözcüğünü modern millet, “ülke” sözcüğünü çizgili ulusal
+sınır gibi çevirmek anakronizm yaratabilir. Unvan, yer adı ve düşman tanımı kendi
+siyasal bağlamında okunmalıdır. Çin kayıtları kronolojiyi ve dış ilişkiyi
+tamamlar; onların da saray sınıflandırması ve komşu bakışı taşıdığı unutulmamalıdır.
+
+## Yıkılış ve yeni merkezler
+
+Kırgız saldırısı kağanlık merkezini dağıttı; Uygur toplulukları bütünüyle yok
+olmadı.[^k1][^k4] Gansu ve Tarım Havzası yönündeki gruplar yeni kent devletleri,
+dinî merkezler ve yazı gelenekleri kurdu. Siyasi yenilgi yerleşikleşme ve kültürel
+üretimin başka coğrafyada hızlanmasına yol açabildi.
+
+Bu sonuç, “göçebe devlet çöker, tarih biter” anlatısını geçersiz kılar. Hanedan,
+nüfus, dil, din ve yazı farklı güzergâhlarda devam etti. Bugünkü Uygur kimliğini
+sekizinci yüzyıl kağanlığıyla basit ve değişmez çizgiye bağlamak kadar aradaki
+süreklilikleri bütünüyle reddetmek de hatalıdır. Her bağ, dönemsel dil, yerleşim
+ve siyasi kayıtla gösterilmelidir.[^k1]
+
+Uygur Kağanlığı’nın temel dersi, yerleşikliğin bozkır düzeninin karşıtı olmadığıdır.
+Kent, yazı ve dinî kurumlar hareketli askerî-ekonomik ağla birlikte çalıştı.
+Kağanlığın gücü de kırılganlığı da bu farklı hayat biçimlerini gelir, meşruiyet
+ve iletişim içinde birleştirme kapasitesinden doğdu.[^k1][^k3]

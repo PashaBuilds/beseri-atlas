@@ -52,7 +52,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne oldu
 
 On dokuzuncu yüzyılın sonunda, kıtanın orta kesiminde geniş bir alan
@@ -62,8 +61,7 @@ bir ülkenin kralıydı.
 Düzen, uluslararası bir konferansta tanındı.[^k3] Tanıyan devletler,
 alanın herhangi bir devletin sömürgesi olmamasında anlaştılar.
 
-Bu incelemenin konusu düzenin siyasi tarihi değildir.[^k2] Adının,
-kotasının ve kaydının nasıl işlediğidir.
+Adının, kotasının ve kaydının nasıl işlediğidir.
 
 ## Adın kendisi
 
@@ -83,9 +81,6 @@ Konferans metinlerinde bu koşul yazılıdır.
 
 Uygulamada koşul kısa sürede terk edildi.[^k3] Kauçuk ve fildişi
 üzerinde fiilî bir tekel kuruldu.
-
-Bu, korpusun belge tartışmasında kurulan ölçütün bir
-örneğidir: bir metnin koşul koyması, koşulun denetlendiği anlamına gelmez.[^k2]
 
 ## Kota düzeni
 
@@ -324,7 +319,29 @@ Yerel dilden birincil bir kayıt künyelenememiştir.[^k2] Künyedeki
 birincil belge yabancı bir konsolosun raporudur ve bu kısıt burada
 beyan edilir.
 
+## Sorumluluk zinciri kişisel vahşetin ötesindedir
+
+Kesilmiş eller ve rehineler yalnız “kötü memur” davranışı olarak okunursa kota
+sisteminin teşvikleri kaybolur. Avrupa'daki merkez gelir bekliyor, imtiyazlı
+şirketler kauçuk miktarını görevlilere aktarıyor, silahlı birlikler köylerden
+teslimat istiyor ve mühimmat hesabı beden üzerinden denetleniyordu.[^k1][^k2]
+Her halka bir üsttekine sayı bildirirken zorun bedeli yerel halka yüklendi. Bu
+örgütlenme, tek tek fail niyetinin yanında kurumsal sorumluluk kurar.
+
+Uluslararası kampanyanın fotoğraf, tanıklık, misyoner mektubu ve konsolosluk
+raporunu birleştirmesi erken bir insan hakları seferberliği örneğidir. Ancak
+Britanya'nın sömürge rekabeti ve raporu hazırlayanların konumu ayrıca hesaba
+katılmalıdır. Belgenin siyasi amaçla kullanılması içindeki tanıklığı otomatik
+yanlış yapmaz; iddiaları birbirinden bağımsız kayıtlarla karşılaştırmayı zorunlu
+kılar. 1908'de Belçika devletine devir, kişisel mülk düzenini bitirdi ama sömürge
+emeği ve ırksal yönetimin bütün sürekliliğini aynı anda sona erdirmedi.[^k3]
+
+Bu ayrım bitiş tarihini de ikiye ayırır: mülkiyetin hukuki biçimi 1908'de değişti,
+emek ve yönetim pratiklerinin dönüşümü daha uzun sürdü. Devir tarihi hesap
+verebilirlik ve tazminat sorusunun kapanışı sayılamaz.[^k1]
+
 ## Okumayı sürdürmek için
+
 Alanın paylaşıldığı konferans için
 [Berlin Konferansı](/olay/berlin-konferansi/) dosyası okunmalıdır.[^k1]
 

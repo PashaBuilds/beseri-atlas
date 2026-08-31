@@ -52,7 +52,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne oldu
 
 Yirminci yüzyılın ortasında, kıtanın kuzeyindeki bir bölgede sekiz yıl
@@ -62,8 +61,7 @@ bir halk oylamasıyla sona erdi.
 Sonuç bağımsızlıktı.[^k2] Bölge, yüz otuz yılı aşan bir yönetimden
 sonra ayrı bir devlet oldu.
 
-Bu incelemenin konusu askerî seyir değildir.[^k3] Çatışmanın hukuki
-çerçevesinin ve adlandırılmasının ne belirlediğidir.
+Çatışmanın hukuki çerçevesinin ve adlandırılmasının ne belirlediğidir.
 
 ## Hukuki çerçevenin farkı
 
@@ -155,10 +153,6 @@ yürütüldü.
 
 Bu tartışma savaşın seyrini etkiledi.[^k1] Yöntemlerin duyulması,
 desteği aşındıran etkenlerden biri oldu.
-
-Bu, korpusun Gandhi dosyasında tanımlanan
-koşulun bir doğrulamasıdır: yöntem, karşı tarafın kendi kamuoyuna hesap vermek zorunda
-olduğu yerde işler.[^k3]
 
 ## Merkezdeki siyasi sonuç
 
@@ -280,9 +274,6 @@ Farkın kaynağı yöntemdir.[^k2] Kimin sayıldığı, hangi ölümlerin
 çatışmaya bağlandığı ve hangi dönemin kapsandığı iki tarafta
 farklıdır.
 
-Bu, korpusun tarihsel sayılar
-kuralının doğrudan uygulanmasıdır.[^k3]
-
 ## Anma tarihlerinin farkı
 
 İki ülke çatışmayı farklı günlerde anar.[^k1] Seçilen günler,
@@ -317,7 +308,31 @@ Yerel dilden doğrulanabilir birincil bir belge künyelenememiştir.[^k3]
 Künyedeki birincil metin, çatışmanın içinden yazan bir tanığa aittir
 ve tek başına bölgenin kaydı sayılamaz; kısıt burada beyan edilir.
 
+## Bağımsızlık savaşı aynı zamanda iki devlet krizidir
+
+FLN yalnız Fransız kuvvetleriyle savaşmadı; Cezayir toplumunda temsil ve
+otoriteyi tek elde toplamak için rakip milliyetçi örgütlerle de mücadele etti.
+Kırsal gerilla, kent hücresi, dış sınır üsleri ve diplomatik temsil aynı hareketin
+farklı kapasite alanlarıydı. Şiddetin kim tarafından, hangi hedefle uygulandığını
+ayırmadan “ulusal direniş” tek özne gibi görünür.[^k1][^k2]
+
+Fransa tarafında da savaş hükümet ve rejim krizine dönüştü. Ordu, yerleşimci
+örgütleri, Paris yönetimi ve savaşı bitirmek isteyen kesimler aynı gelecek
+tasarımını paylaşmadı; 1958 krizi Beşinci Cumhuriyet'in kuruluşuna giden yolu
+açtı. Böylece sömürgedeki savaş merkez devletin anayasal düzenini değiştirdi.[^k1]
+
+1962 bağımsızlığı siyasal egemenliği kurdu, fakat yerleşimcilerin kitlesel
+ayrılışı, harkilerin terk edilmesi, savaş içi tasfiyeler ve arşiv çatışması
+barışın farklı gruplar için aynı anda başlamadığını gösterir. Fanon'un sömürge
+şiddeti çözümlemesi öznenin kuruluşunu anlamaya yardım eder; her somut eylemin
+ahlaki hükmünü tek başına belirlemez.[^k3]
+
+Savaşı dönemlere ayırmak da önemlidir: 1954 başlangıcı, 1956'daki örgütsel ve
+uluslararası genişleme, 1958 rejim krizi ve 1961–1962 müzakere–kopuş evresi aynı
+şiddet ve karar yapısına sahip değildir. Tek toplam, değişen stratejileri örter.[^k1]
+
 ## Okumayı sürdürmek için
+
 Sürecin bütünü için [Sömürgesizleşme](/kavram/somurgesizlesme/) ve
 [Afrika bağımsızlık dalgası](/olay/afrika-bagimsizlik-dalgasi/)
 dosyaları okunmalıdır.[^k1]

@@ -282,8 +282,8 @@ paylaştı.[^k4] Çizgi bir boylam olarak tanımlandı.
 Metin, bölünen yerlerde yaşayanlardan söz etmez.[^k1] Paylaşımın
 tarafları, o toprakların hiçbirinde yaşamıyordu.
 
-Bölgede yaşamayanlarca çizilen
-bölüşüm çizgileri, korpusta kıtadan kıtaya tekrarlanır.[^k3]
+Bölgede yaşamayanlarca çizilen bölüşüm çizgileri, farklı kıtalarda benzer
+egemenlik sorunları üretir.[^k3]
 
 ## Çizginin uygulanabilirliği
 
@@ -476,8 +476,7 @@ kurdu.
 İki cevap farklı sonuçlar doğurur.[^k5] Nedense ayrışma bu dönemde
 başlamıştır; zeminse sonraki dönemin kararları belirleyicidir.
 
-Bu, korpusun en çok başvurulan tartışmalarından
-biridir ve burada karara bağlanmaz.[^k2]
+Bu, dönemin en önemli tartışmalarından biridir ve burada karara bağlanmaz.[^k2]
 
 ## Kanıtın ve kapsamın sınırı
 Dosya, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
@@ -487,10 +486,9 @@ bağlanır.
 Bölgesel ayrıntı sınırlıdır.[^k3] Şerit satırları, bölgelerin kendi
 tarihlerinden çok ortak mekanizmanın onlardaki görünümünü verir.
 
-Sayısal seriler burada yorumlanır, üretilmez.[^k5] Serilerin
-kaynakları, yöntemleri ve başlangıç tarihleri korpusun veri
-dosyalarında ayrı ayrı kayıtlıdır ve bu inceleme onların yerine
-geçmez.[^k2]
+Sayısal seriler burada yorumlanır, üretilmez.[^k5] Kaynakları, yöntemleri ve
+başlangıç tarihleri bağlantılı veri incelemelerinde ayrı ayrı açıklanır; dönem
+anlatısı bu yöntem notlarının yerine geçmez.[^k2]
 
 
 ## Haritanın değişmesi
@@ -662,6 +660,31 @@ okumalar da vardır.
 
 Kaydettiği şey, dönemin sonunda farkın
 henüz sonraki yüzyıllardaki ölçekte olmadığıdır.[^k2][^k3]
+
+## Okyanus, barut ve inanç siyasetinin kesişimi
+
+1500–1650 dönemini “Avrupa'nın dünyayı keşfi” diye özetlemek, hem bakış açısını hem
+de mekanizmayı daraltır. Atlantik ve Hint Okyanusu rotalarına silahlı Avrupa
+filolarının girmesi yeni değildi diye geçiştirilemez; yenilik, deniz şiddeti ile
+ticari üslerin Amerika'daki fetih ve sömürgeleştirmeyle birleşmesiydi.[^k1]
+Tordesillas metni iki taç arasında küresel alan paylaşma iddiası kurdu, fakat bu
+iddia bölgede yaşayan halkların rızasına veya diğer devletlerin tanımasına
+dayanmıyordu.[^k4] Hastalık, zorunlu emek ve gümüş akışı Atlantik'in iki yakasındaki
+nüfus ile fiyat düzenlerini birlikte değiştirdi.
+
+Aynı yüzyıllarda Osmanlı, Safevi ve Babür imparatorlukları ateşli silahları daha eski
+vergi, süvari ve saray gelenekleriyle birleştirdi; bu nedenle “barut imparatorluğu”
+ortaklığı, kurumsal farkları ortadan kaldırmaz.[^k3] Reform hareketleri ve onu izleyen
+mezhep çatışmaları da inanç ile devlet otoritesini yeniden ilişkilendirdi. 1648
+barışlarını modern egemenliğin tek doğum anı saymak caziptir, fakat siyasal sınırlar,
+hanedan hakları ve dinî yetki daha uzun bir dönüşüm içinde değişti. Dönemin asıl
+birliği tek bir modernleşme yolu değil; deniz gücü, mali kaynak, dinî meşruiyet ve
+uzak bölgelerden çekilen emeğin daha sıkı bir küresel rekabete bağlanmasıdır.[^k1][^k5]
+
+Bu dönüşümde yerli toplumlar yalnızca edilgen kurbanlar değildi; ittifak kurdular,
+direndiler ve yeni ekonomik düzene farklı biçimlerde uyum sağladılar. Yine de salgın
+ve zorunlu emek koşulları güç dengesini derinden eşitsizleştirdi; uyum ile özgür
+seçimi ya da ittifak ile eşitliği birbirine karıştırmamak gerekir.[^k1][^k2]
 
 ## Fikir dünyası
 

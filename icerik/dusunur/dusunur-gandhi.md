@@ -51,7 +51,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Kim
 
 Gandhi, on dokuzuncu yüzyılın sonunda doğdu ve hukuk öğrenimi
@@ -61,8 +60,7 @@ dışında geçti.
 Güney Afrika'da yaklaşık yirmi yıl kaldı.[^k1] Geliştirdiği yöntemi
 orada denedi ve orada adlandırdı.
 
-Bu inceleme bir yaşam öyküsü değildir.[^k3] Yöntemin ne olduğunun ve neyi
-ölçtüğünün kaydıdır.
+Yöntemin ne olduğunun ve neyi ölçtüğünün kaydıdır.
 
 ## Yöntemin çekirdeği
 
@@ -118,10 +116,6 @@ kullandı.
 
 Metni reddetmedi ama tekrar da yayımlamadı.[^k3] Görüşlerinin
 değiştiğini birçok yerde kendisi belirtti.
-
-Bir düşünüre atıf yapılırken hangi
-dönemin metninin kastedildiği belirtilmelidir; bu, korpusun sürüm kuralının kişilere
-uygulanmasıdır.[^k2]
 
 ## Güney Afrika dönemi
 
@@ -315,6 +309,29 @@ hayatında da aynı maliyeti taşımasına bağlanıyordu.
 
 Bir çağrının ikna gücü, çağrıyı yapanın
 kendisi için de geçerli olup olmadığından ölçülebilir.[^k2]
+
+## Araç ile amaç arasındaki bağ
+
+Gandhi'nin düşüncesinde araç, sonuca ulaştıktan sonra geride bırakılan nötr bir
+yol değildir.[^k1] Kullanılan yöntem, kurulacak düzenin ilk örneğini şimdiden
+üretir. Şiddet yoluyla kazanılan bir iktidarın zor kullanma alışkanlığını yeni
+yönetime taşıma ihtimali bu yüzden merkezî bir sorundur. Şiddetsizlik yalnız
+acı çekmeyi göze almak değil, rakibi tümüyle yok edilmesi gereken bir düşmana
+dönüştürmemek anlamına gelir.
+
+Bu ilke, itaatsizliği sınırsız yasa tanımazlıktan ayırır.[^k3] Eylemci belirli
+bir kuralı açıkça çiğner, gerekçesini kamuyla paylaşır ve cezadan kaçmaz. Böylece
+itirazın hedefi görünür kalır; gizli sabotajın tersine, karşı tarafın da cevap
+verebileceği bir uyuşmazlık kurulur. Yöntemin ahlaki iddiası ile siyasi
+mekanizması burada birleşir: cezanın gönüllü kabulü hem samimiyet işareti verir
+hem de yönetimi, uyguladığı yaptırımı seyircilere açıklamaya zorlar.
+
+Yine de bu düzenek taraflar arasında asgari bir iletişim alanı bulunduğunu
+varsayar.[^k2] Basının susturulduğu, kitlesel öldürmenin görünmez kaldığı veya
+rakibin kamuoyu maliyetini önemsemediği koşullarda aynı fedakârlık aynı sonucu
+üretmez. Gandhi'nin mirasını değerlendirmek bu nedenle yalnız başarılı
+kampanyaları sıralamayı değil, yöntemin dayandığı kurumsal koşulları ve kast
+konusundaki sınırlarını birlikte görmeyi gerektirir.
 
 ## Kanıtın ve kapsamın sınırı
 Dosya, hareketin örgütsel tarihini izlemez.[^k2] Partinin kuruluşu,

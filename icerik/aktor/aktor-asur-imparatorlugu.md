@@ -40,14 +40,23 @@ kaynaklar:
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
+  - anahtar: k4
+    tur: akademik
+    ad: "University College London — Assyrian empire builders"
+    url: https://www.ucl.ac.uk/sargon/abouttheproject/
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: "Assyrian empire builders"
+  - anahtar: k5
+    tur: ansiklopedi
+    ad: "British Museum — Introducing the Assyrians"
+    url: https://www.britishmuseum.org/blog/introducing-assyrians
+    erisim_tarihi: 2026-08-30
+    dogrulama_dizesi: "Introducing the Assyrians"
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
-Yeni Asur İmparatorluğu MÖ 670'te yaklaşık 1.400.000 kilometrekare alan
-kaplıyordu.[^k1] Bu inceleme fetih listesini değil, o alanın **nasıl yönetildiğini**
-ele alır.
+Yeni Asur İmparatorluğu MÖ 670'te yaklaşık 1.400.000 kilometrekare alan kaplıyordu.[^k1]
 
 ## Yükseliş
 
@@ -94,6 +103,119 @@ arasındadır ve Assur MÖ 614'te, Ninova MÖ 612'de, Harran MÖ 609'da düşer.
 
 Üç merkezin art arda düşmesi, merkeziyetçi bir imparatorlukta ağırlık merkezi
 kaybının ne kadar hızlı yayıldığını gösterir.
+
+## Bir sefer devleti nasıl imparatorluğa dönüştü
+
+Asur kralları çok daha eski bir askerî geleneğin mirasçılarıydı; Yeni Asur'u
+farklılaştıran, seferlerin sonucunu kalıcı yönetime çevirebilmesiydi. İlk
+evrede uzak krallardan haraç almak ve onların bağlılığını yenilemek yeterli
+olabiliyordu. Fakat haraç kesildiğinde aynı yolun yeniden yürünmesi, aynı
+kalelerin yeniden kuşatılması ve aynı pazarlığın yeniden yapılması gerekiyordu.
+Özellikle III. Tiglat-Pileser dönemindeki düzenlemeler, fethedilen bazı
+krallıkları doğrudan yönetilen eyaletlere dönüştürdü.[^k1] Böylece merkez yalnız
+ganimeti değil, düzenli vergiyi, asker devşirmeyi ve valilerin davranışını da
+izleyebilir hale geldi.
+
+Eyalet ile bağlı krallık aynı şey değildi. Eyalette kralın atadığı vali,
+vergiden askerliğe kadar daha geniş bir sorumluluk üstleniyordu; bağlı kral ise
+tahtını koruyor, fakat haraç ve askerî destek yükümlülüğü taşıyordu. İki yöntemin
+bir arada kullanılması, merkezin her bölgeyi tek kalıba sokmadan denetim
+yoğunluğunu ayarlamasını sağladı. Bunun karşılığında sınırdaki bir yöneticinin
+isyan etmesi ya da haraç zincirinin kopması, imparatorluk ordusunu yeniden uzak
+bir cepheye çağırabiliyordu.
+
+## Ordu yalnız silahlardan ibaret değildi
+
+MÖ 8. yüzyıl ortasında kralların emrinde savaş arabaları, süvari ve piyadeden
+oluşan profesyonel bir daimi güç bulunuyordu; yenilen ordulardan alınan birlikler
+de bu yapıya katıldığı için ordu giderek çok dilli ve çok kökenli hale geldi.[^k5]
+Demir silahlar tek başına açıklayıcı değildir. Irmak geçişleri, yem ve yiyecek
+tedariki, kuşatma makinelerinin taşınması, atların bakımı ve farklı birliklerin
+aynı anda hareket ettirilmesi en az silah kadar belirleyiciydi. Surların hemen
+alınamadığı kentlerde abluka, lağım açma, koçbaşı ve kuşatma kuleleri birlikte
+kullanılabiliyordu.[^k5]
+
+Bu kapasite, zafer ile işgal arasındaki farkı kapatıyordu. Bir kent düştükten
+sonra garnizon bırakmak, yolu açık tutmak, yerel seçkinlerin sadakatini sınamak
+ve merkeze vergi akışını başlatmak gerekiyordu. Bu nedenle Asur'u yalnız
+"acımasız savaşçılar" diye okumak yetersizdir: şiddet, onu uygulayabilen
+lojistik ve idari örgütün görünen ucuydu.[^k1]
+
+## Sürgün hem ceza hem nüfus politikasıydı
+
+Toplu yer değiştirme, başkaldıran topluluğu cezalandırıyor ve yerel dayanışma
+ağını parçalıyordu; fakat amaç yalnız korkutmak değildi. İnsanlar yeni kentleri
+nüfuslandırmak, tarım alanlarını işletmek, orduya katılmak veya saray için
+uzmanlık üretmek üzere imparatorluğun başka bölgelerine yerleştirilebiliyordu.
+Zanaatkârlar, yazıcılar ve eğitimli seçkinler büyük merkezlere aktarılırken
+çiftçi toplulukları iş gücünün eksik olduğu eyaletlere yönlendirilebiliyordu.[^k5]
+
+Bu politikanın iki yüzü vardır. Merkez açısından emek ve bilgi, ihtiyaç duyulan
+yere taşınmış oluyordu. Sürgün edilenler açısından ise ev, toprak, akrabalık ve
+kutsal mekânla bağ zorla koparılıyordu. Aramice konuşan toplulukların geniş
+alana dağılması, zamanla Aramicenin imparatorluk içindeki ortak iletişim
+dillerinden biri haline gelmesine de katkıda bulundu.[^k1] Kültürel yayılma
+burada özgür dolaşımın değil, fetih ile zorunlu hareketin de sonucudur.
+
+## Saray, başkent ve ganimet ekonomisi
+
+Assur'dan Kalhu'ya, ardından Dur-Şarrukin ve Ninova'ya uzanan başkent değişimleri
+yalnız hükümdar zevki değildir. Yeni saray; valilerin, elçilerin, askerî
+komutanların, zanaatkârların ve depoların çevresinde toplandığı bir yönetim
+düğümüydü. Fethedilen bölgelerden gelen haraç, değerli maden, fildişi, kereste,
+hayvan ve insan gücü bu merkezlerde görünür hale geliyordu. II. Aşurnasirpal'in
+Kalhu'daki sarayının açılış şöleni için on binlerce konuğun bir araya getirildiği
+kaydedilir; bu tür şölenler tüketim olduğu kadar egemenlik gösterisiydi.[^k1]
+
+Saray kabartmalarındaki kuşatmalar, avlar ve esir sıraları olayların tarafsız
+fotoğrafı sayılmaz. Bunlar kralın her engeli aştığı, tanrıların düzenini koruduğu
+ve itaatsizliğin karşılıksız kalmadığı mesajını tekrar eden siyasal görsellerdir.
+Gerçek askerî kayıp, başarısız pazarlık veya sıradan insanların maliyeti bu
+kompozisyonlarda görünmez. Buna karşılık hangi düşman tiplerinin, silahların ve
+ganimetlerin iktidar dili içinde önemli görüldüğünü gösterirler.
+
+## Yazı yalnız zaferi kaydetmez
+
+Asur'dan kalan metin dünyası kral yıllıklarından ibaret değildir. Vergi,
+erzak, at, arazi, personel, kehanet, hukuk ve saray haneleri üzerine kil
+tabletler, imparatorluğun gündelik işleyişini parça parça görünür kılar.
+II. Sargon ile valileri ve ileri gelenleri arasındaki yaklaşık 1.200 mektup ve
+mektup parçası, antik çağdan bilinen en geniş üst düzey yönetim yazışması
+kümelerinden biridir.[^k4] Bir valinin geciken birliği, yetersiz tahılı ya da
+sınırdaki söylentiyi merkeze bildirmesi, görkemli zafer yazıtından farklı bir
+devlet yüzü gösterir.
+
+Asurbanipal'in Ninova'da toplattığı tabletler ise edebiyat, sözlük, tıp, kehanet
+ve dinsel metinleri bir araya getirdi.[^k5] Bu koleksiyon sayesinde Mezopotamya'nın
+daha eski yazı mirasının önemli bölümü korundu. Yine de saray arşivinin hayatta
+kalması, köy ve yoksul hanelerin aynı ölçüde belgelendiği anlamına gelmez;
+bildiklerimiz yönetimin yazmaya değer bulduğu işler lehine eğilimlidir.
+
+## Güç gösterisinin gizlediği kırılganlık
+
+Kraliyet yazıtlarındaki vahşet betimleri, teslim olmayı hızlandırmayı amaçlayan
+bir caydırıcılık diliydi. Fakat korku, her durumda istikrarlı sadakat üretmez.
+Yüksek vergi, zorunlu askerlik, sürgün tehdidi ve yerel hanedanların tasfiyesi,
+merkez zayıfladığında eski düşmanları yeni ittifaklarda buluşturabilirdi. Üstelik
+çok cepheli sefer düzeni, saray içindeki veraset çatışmalarıyla birleştiğinde
+ordunun ve hazinenin dayanma payını azaltıyordu.
+
+Asurbanipal'in ölümünden sonraki taht mücadeleleri sırasında Babil yeniden
+bağımsızlaştı; Medler ile Babillilerin ittifakı imparatorluğun tek bir düşmana
+karşı değil, farklı bölgelerde birikmiş dirençlere karşı çözülmesine yol açtı.[^k1]
+Ninova'nın düşüşünü yalnız dış saldırıyla açıklamak bu nedenle eksiktir.
+Genişlemeyi mümkün kılan zorlayıcı düzen, haleflik krizi çıktığında merkezin
+yeniden birlik kurmasını da güçleştirdi.
+
+## Karşılaştırma anahtarı
+
+Hitit düzeninde antlaşmalar ve bağlı krallıklar daha görünürken, Yeni Asur
+doğrudan eyalet yönetimini ve hızlı haberleşmeyi daha geniş ölçekte birleştirdi.
+Ahamenişler ise aynı coğrafyanın büyük merkezlerini devralıp yerel kurumları
+satraplık hiyerarşisine bağlayacaktı. Böyle bakıldığında üç imparatorluk basitçe
+birbirinin yerine geçen büyüklükler değildir: Hitit örneği pazarlığa, Asur örneği
+zorlayıcı bütünleşmeye, Ahameniş örneği ise katmanlı yerel yönetime farklı ağırlık
+verir. Hiçbiri bütünüyle tek yönteme indirgenemez.[^k1]
 
 ## Kimin yerine geçti
 

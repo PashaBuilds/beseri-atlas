@@ -62,7 +62,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Afrika Birliği Teşkilatı Şartı, 1963'te kıtadaki bağımsız devletler
@@ -73,23 +72,20 @@ amaçlarını ve üyeleri bağlayan ilkeleri sıralar.
 karışmama yer alır.[^k1] Bu iki ilke, örgütün sonraki kararlarında
 belirleyici oldu.
 
-Bu incelemenin asıl konusu sınır meselesidir.[^k2] Örgüt, kuruluşunun
-ertesi yılında sömürge döneminden devralınan sınırların korunmasını
+Örgüt, kuruluşunun ertesi yılında sömürge döneminden devralınan sınırların korunmasını
 karara bağladı.
 
 ## Devralınan sınırlar
 
-Kıtadaki sınırların büyük bölümü, kıta dışında ve kıtada yaşamayanlar
-tarafından çizilmişti.[^k2] Korpusun Berlin Konferansı dosyası bu işlemi
-kaydeder.
+Kıtadaki sınırların büyük bölümü, kıta dışında ve kıtada yaşamayanlar tarafından
+çizilmişti.[^k2]
 
 Bağımsızlık dalgası, bu sınırlarla tanımlanmış birimlerde
 gerçekleşti.[^k1] Kurulan devletler, sınırlarını değil yönetimlerini
 değiştirdi.
 
-Bu incelemenin kaydettiği şey o kararın metne bağlanmasıdır.[^k3] Sınırların
-korunması bir zorunluluk değil, ilgili devletlerin ortak bir tercihi
-olarak yazılmıştır.
+Sınırların korunması bir zorunluluk değil, ilgili devletlerin ortak bir tercihi olarak
+yazılmıştır.
 
 ## Tercihin gerekçesi
 
@@ -107,9 +103,6 @@ bir arada tutulabilir.[^k3]
 
 ## Ölçümün formüle edilmesi
 
-Bu, korpusun paylaşım dizisine yeni bir halka ekler.[^k1] Dizi
-Tordesillas, Berlin ve Samoa dosyalarında üç kez ölçülmüştü.
-
 Dördüncü halka farklıdır.[^k2] Burada masayı kuranlar değil, masanın
 sonucunu devralanlar konuşur.
 
@@ -122,9 +115,7 @@ ama sonucu değiştirilemez hâle getirir.**
 Onay gönüllü ama zorunlu koşullar altındadır.[^k1] Alternatif, çok sayıda
 sınır uyuşmazlığının aynı anda açılmasıydı.
 
-Bu, korpusun himaye dosyasında kaydedilen kısıtın bir başka
-biçimidir.[^k3] Bir belgenin hangi koşullarda kabul edildiği, belgenin
-metninden okunamaz.
+Bir belgenin hangi koşullarda kabul edildiği, belgenin metninden okunamaz.
 
 Metin bir tercih bildirir; tercihin
 hangi seçenekler arasından yapıldığı metinde yazmaz.[^k2]
@@ -138,9 +129,7 @@ metinde yer alır.
 Çatışma soyut değildir.[^k2] Kıtada ayrılma talepleri ortaya çıktığında
 iki ilke zıt sonuçlara götürdü.
 
-Örgüt uygulamada birinciyi öncelemiştir.[^k3] Korpus bu önceliği kaydeder
-ve metinden çıkarılamayacağını belirtir; iki ilke arasında sıralama
-yazılı değildir.
+Örgüt uygulamada birinciyi öncelemiştir.[^k3]
 
 ## Yazılmamış sıralamanın gücü
 
@@ -148,9 +137,7 @@ Bir metinde iki ilke sıralanmadan yan yana konduğunda, sıralamayı
 uygulama belirler.[^k1] Uygulama sıralaması metnin kendisi kadar
 bağlayıcı hâle gelebilir.
 
-Bu, korpusun anayasa dosyalarında ölçtüğü örüntüyle aynı
-ailedendir.[^k3] Metnin sustuğu yerler, konuştuğu yerler kadar
-belirleyicidir.
+Metnin sustuğu yerler, konuştuğu yerler kadar belirleyicidir.
 
 Bir belgenin hangi ilkeyi
 önceleyeceği yazılmamışsa, bu bir eksiklik değil bir açık alan olarak kaydedilir.[^k2]
@@ -209,8 +196,7 @@ ve bu maliyet zamanla artar.
 Dosya, sınır kararının doğru olup olmadığı hakkında hüküm vermez.[^k1]
 Kararı, gerekçesini ve sonuçlarını ayrı ayrı kaydeder.
 
-Örgütün tek tek kararları izlenmez.[^k2] Ayrı bir çalışma gerektirir ve
-bu inceleme yazıldığında korpusta bulunmuyordu.
+Örgütün tek tek kararları izlenmez.[^k2]
 
 Kıtadaki iç çatışmaların nedenleri işlenmez.[^k3] Sınır meselesi
 etkenlerden biridir ve tek etken olarak sunulmaz.

@@ -762,11 +762,25 @@
       ],
       "guven": "yuksek",
       "inceleme": "Uc ad, uc yil ve \"deposed after its conclusion\" nitelemesi kaynagin dipnotunda birebir. Aralik 2012 kapanisinin bir siniflandirma karari oldugunu gosterir."
+    },
+    {
+      "iddia_id": "i054",
+      "cumle": "Kaynak başarılı devrimin ne demek olduğunu açmaz; ölçüt belirsizken bu açıklama sınanabilir bir iddia değil, bir sınıflandırma tercihidir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k9 başarı sınıflandırmasını verir fakat başarı ölçütünü tanımlamaz; ölçüt belirsizliği üzerine sonuç eleştirel bir okumadır."
     }
   ],
   "sayaclar": {
     "dogrudan": 43,
-    "kismi": 10,
+    "kismi": 11,
     "desteksiz": 0,
     "olculemez": 0
   },

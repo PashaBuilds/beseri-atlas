@@ -50,7 +50,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Konfüçyüsçülük, toplumsal düzeni ve yönetimi erdem, örneklik ve karşılıklı
@@ -69,15 +68,11 @@ yitirilmesi hâlinde yöneticinin konumunun tartışılabileceğini söyler.[^k3
 
 ## Üçlünün tamamlanması
 
-Bu inceleme, korpusun Doğu Asya kavram katmanındaki üçüncü ve son halkadır.
 [Legalizm](/kavram/legalizm/) yönetimi kural ve teknikle kurar;
-[Taoizm](/kavram/taoizm/) kurulan her düzeneği bozulmanın kaynağı sayar;
-buradaki çizgi ise düzeni erdem ve örneklik üzerine oturtur.[^k1][^k2]
+[Taoizm](/kavram/taoizm/) kurulan her düzeneği bozulmanın kaynağı sayar; buradaki çizgi
+ise düzeni erdem ve örneklik üzerine oturtur.[^k1][^k2]
 
-Üçünün aynı yüzyıllarda, aynı bölgede ve birbirini adıyla anarak tartıştığı
-bir ortamda bulunması, korpusun bir dönemi tek bir düşünce biçimiyle
-anlatmamasının en açık gerekçesidir.[^k1] Bir dönemin "hâkim düşüncesi"
-varsayımı, o dönemde yürüyen tartışmayı siler.
+Bir dönemin "hâkim düşüncesi" varsayımı, o dönemde yürüyen tartışmayı siler.
 
 Üç dosyanın birlikte okunması, tartışmanın taraflarını gösterir. Tek tek her
 biri bir görüşü kaydeder; üçü birden, görüşlerin birbirine karşı
@@ -94,10 +89,8 @@ Fark önemsiz görünmez. Bir düşünce çizgisini tek bir kurucunun adıyla an
 o çizgiyi kurucunun söyledikleriyle sınırlı sanmaya yol açar;[^k3] oysa
 sonraki metinler çizgiyi genişletmiş ve yer yer değiştirmiştir.
 
-**Tartışmalı.** Bu çizginin iki bin yıl boyunca sürüp sürmediği, yoksa aynı
-adla anılan farklı düşünce sistemlerinin mi söz konusu olduğu tartışılır.
-Sonraki yüzyıllarda geliştirilen yorumların ilk metinlerle ilişkisi süreklilik
-mi kopuş mu sayılmalıdır — korpus bir yanıt benimsemez.[^k1]
+**Tartışmalı. ** Bu çizginin iki bin yıl boyunca sürüp sürmediği, yoksa aynı adla anılan
+farklı düşünce sistemlerinin mi söz konusu olduğu tartışılır.[^k1]
 
 ## Resmî öğreti olmanın sonucu
 
@@ -109,23 +102,12 @@ Resmîleşme iki yönde çalışır. Metinler kurumsal olarak korunur, öğretil
 sınavlarla aktarılır; aynı süreçte metinlerin hangi yorumunun geçerli olduğu
 da idari bir karara dönüşür.[^k1]
 
-Korpus bu ikili etkiyi kaydeder ve bir değerlendirme yapmaz. Bir öğretinin
-resmîleşmesi ne başarısının kanıtıdır ne de bozulmasının; ikisi de
+Bir öğretinin resmîleşmesi ne başarısının kanıtıdır ne de bozulmasının; ikisi de
 savunulabilir ve ayrı kanıtlar gerektirir.
 
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme çizgiyi konu edinir; kurucu sayılan kişi için ayrı bir dosya
-vardır.[^k2] Kavram ile kişiyi ayrı tutmak, korpusun genel tercihidir: kişi
-dosyası bir metni kaydeder, kavram dosyası o metnin ait olduğu çizgiyi
-tanımlar ve karşılaştırılabilir kılar.
+Dosyanın kapsamadıkları belirtilmelidir.
 
-Dosyanın kapsamadıkları belirtilmelidir. Sonraki yüzyıllarda geliştirilen
-yorumlar, sınav sistemi ve çizginin Kore, Japonya ve Vietnam'daki biçimleri
-burada işlenmez;[^k1] her biri ayrı dosya gerektirir ve bu inceleme yazıldığında
-korpusta bulunmuyorlardı.
-
-Metinlerin bölüm bölüm içeriği de kapsam dışıdır. Bu inceleme çizginin ne
-olduğunu anlatır; ne söylediği için metinlerin kendisine inilmelidir.[^k2][^k3]
+Metinlerin bölüm bölüm içeriği de kapsam dışıdır.
 
 ## Karşılıklı yükümlülük
 
@@ -143,17 +125,28 @@ ayrı ayrı incelenmelidir.[^k1]
 
 ## İki metnin farkı
 
-Bu inceleme iki temel metne birden bağlanır ve bu bir tercih değil
-gerekliliktir.[^k2][^k3] İki metin aynı çizgiyi sürdürür ama aynı şeyi
-söylemez.
+İki metin aynı çizgiyi sürdürür ama aynı şeyi söylemez.
 
 İlk metin özlü konuşmalardan oluşur ve sistematik bir tez sunmaz; ikinci
 metin daha tartışmacıdır ve çizginin ilkelerini karşıt görüşlere karşı
 savunur.[^k3] Bir çizginin iç gelişimi ancak birden çok metinle görünür olur.
 
-Aynı ilke [Taoizm](/kavram/taoizm/) dosyasında da uygulanmıştır. Korpusun
-kavram dosyaları, mümkün olan yerlerde tek metne bağlanmaktan kaçınır; tek
-kaynaktan tanımlanan bir kavram, o kaynağın sınırlarını da devralır.[^k1]
+Aynı ilke [Taoizm](/kavram/taoizm/) dosyasında da uygulanmıştır.
+
+## Tek öğreti değil, değişen yorum geleneği
+
+Konfüçyüsçülük, Konfüçyüs'e atfedilen sözlerden sınav kurumuna ve sonraki metafizik
+yorumlara uzanan uzun bir gelenektir.[^k1] Bu katmanları tek bir değişmez doktrin gibi
+okumak, farklı dönemlerin tartışmalarını siler. *Lunyu* içindeki ahlâk ve eğitim
+vurgusu, Han devletinin resmî düzenlemeleri veya Song dönemindeki Neo-Konfüçyüsçü
+sentezle aynı tarihsel bağlamda oluşmadı.[^k2]
+
+Devletin belirli metinleri sınav kanonuna alması öğretinin gündelik hayatta eksiksiz
+uygulandığını göstermez. Aile ritüeli, yerel okul, bürokratik kariyer ve siyasal
+eleştiri farklı kanıtlar bırakır. Ayrıca “Konfüçyüsçü toplum” etiketi, kadınların,
+Budist ve Taoist çevrelerin veya yerel uygulamaların etkisini örtmemelidir. Kavram
+kullanılırken hangi metin, kurum, dönem ve yorum çizgisinin kastedildiği açıkça
+belirtilmeli; öğretinin adı açıklamanın yerine geçirilmemelidir.[^k3]
 
 ## Okumayı sürdürmek için
 Kurucu sayılan kişi ve ona atfedilen metin için
@@ -170,3 +163,5 @@ başka örneklerini verir.
 Metinlere yapılacak atıflarda bölüm numarası ve kullanılan çeviri
 belirtilmelidir; kaynak özgün metni de sunduğu için çeviri tercihleri
 karşılaştırılabilir.[^k2][^k3]
+
+Bu karşılaştırma, kavramın siyasal kullanımını da berraklaştırır.

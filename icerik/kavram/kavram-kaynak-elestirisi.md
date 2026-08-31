@@ -72,16 +72,11 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak, katkı sunan alanlar başlığı altında yedi alt başlık tutar: bilgi kuramı,
 araştırma yöntemi, bilim çalışmaları, metin eleştirisi, psikoloji, kütüphane ve
 bilgi bilimi ile etik.[^k1]
 
 ## Etik de bir katkı alanıdır
-
-Bir doğrulama yönteminin katkı alanları arasında etiğin sayılması,[^k1] korpusun şu
-kuralının dayanağıdır: bu korpusta kaynak doğrulama, yalnızca teknik bir işlem
-olarak değil bir sorumluluk olarak anılır.
 
 ## Genellik düzeyleri ayrı bir bölümdür
 
@@ -95,9 +90,6 @@ kaynak türüne aynı biçimde uygulanamayacağını gösterir.
 
 Kaynak, belirli alanlarda başlığı altında fotoğraflar, internet kaynakları ile
 arkeoloji gibi alt başlıklar tutar.[^k1]
-
-İnternet kaynaklarının ayrı bir alt başlık taşıması,[^k1] korpusun kaynak alanında
-neden erişim tarihi tuttuğunun dayanağıdır: bir internet kaynağı zamanla değişir.
 
 ## En eski kayıtlı örnek
 
@@ -122,3 +114,56 @@ bakılarak yapılamayacağını gösterir. Sahtecilik saptama araçlarından bir
 İlkelerin ayrıntısı, alan alan uygulamalar ve yöntem tartışmaları burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]
+
+## Kaynak doğru mu diye sormaktan fazlası
+
+Kaynak eleştirisi, bir belgenin “doğru” veya “yanlış” olduğuna tek hamlede karar
+vermez. Belgenin ne olduğunu, kim tarafından, ne zaman, kimin için ve hangi amaçla
+üretildiğini araştırır. Yanlı bir metin değersiz değildir: olayın bütününü doğru
+anlatmasa bile yazarın çıkarını, korkusunu, dilini ve hedeflediği okuru gösterebilir.
+Temel görev, kaynağın hangi soruya güvenilir cevap verebildiğini belirlemektir.[^k1]
+
+Dış eleştiri önce nesnenin kimliğini sınar. Tarihleme, yazı malzemesi, mürekkep,
+imza, arşiv zinciri, kopya ilişkisi ve sonradan yapılmış ekler incelenir. İç
+eleştiri ise metnin anlamına yönelir: yazar olayı görebilecek konumda mıydı,
+kullandığı kelimeler o dönemde ne anlama geliyordu, anlatı kendi içinde tutarlı
+mı, sessiz kaldığı konular var mı? Gerçek bir belge içindeki her iddiayı doğru
+yapmaz; hatalı bir anlatı da sahte belge olduğu anlamına gelmez.
+
+## Yakınlık tek başına güvenilirlik değildir
+
+Olay sırasında yazılmış bir günlük, sonraki araştırmadan zamansal olarak daha
+yakındır; fakat yazarı yalnız dar bir kesiti görmüş olabilir. Yıllar sonra çalışan
+tarihçi ise çok sayıda tanıklığı ve arşivi karşılaştırabilir. [Birincil kaynak](/kavram/birincil-kaynak/)
+ile [İkincil kaynak](/kavram/ikincil-kaynak/) arasındaki fark bir kalite sıralaması
+değil, araştırma sorusuna göre konum farkıdır. Birincil belge kanıt sağlar;
+ikincil çalışma bağlam, karşılaştırma ve önceki yorumları birleştirir.
+
+Bağımsız doğrulama için iki metnin aynı bilgiyi vermesi yetmez. Sonraki metin
+öncekini kopyaladıysa iki tanık değil tek aktarım zinciri vardır. Yazma eserlerin,
+gazete haberlerinin ve çevrimiçi içeriklerin birbirinden türeme ilişkisi
+kurulmalıdır. Buna karşılık farklı kurumların, farklı çıkarlarla ürettiği kayıtlar
+aynı olguya işaret ediyorsa güven artar.
+
+## Sessizlik ve temsil sorunu
+
+Arşiv, geçmişin eşit dağılmış aynası değildir. Vergi verenler, mahkemeye çıkanlar,
+yazı bilenler ve devletin izlemek istediği kişiler daha görünürdür. Kayda
+girmeyenlerin yok olduğu sonucu çıkarılamaz. Sözlü tarih, maddi kültür, arkeoloji
+ve çevresel göstergeler yazılı arşivin sessizliklerini sınayabilir; onların da
+hafıza, korunma ve örneklem sorunları ayrıca değerlendirilir.
+
+[Herodotos](/dusunur/herodotos/) farklı anlatıları aktarma ve tartma geleneğinin
+erken bir örneğini sunar.[^k2][^k3] [Belge okuması](/kavram/belge-okumasi/)
+metnin hüküm, muhatap ve uygulama katmanlarını; [Sözlü gelenek kaynak mı?](/tartisma/sozlu-gelenek-kaynak-mi/)
+yazı dışı kanıtın imkânlarını açar. Pratik sırayla önce köken, sonra amaç ve
+muhatap, ardından kavramların dönemsel anlamı, son olarak bağımsız karşılaştırma
+sorulur. Sonuç “kaynak güvenilir” değil, “şu iddia için, şu sınırlar içinde ve şu
+karşı kanıtlarla birlikte kullanılabilir” biçiminde kurulmalıdır.[^k1]
+
+Sayısal kaynaklar da aynı denetime tabidir. Vergi kaydı zenginliği değil vergiye
+tâbi tutulan kalemi, nüfus sayımı yaşayan herkesi değil sayım kuralına girenleri
+gösterebilir. Sütun başlığı, ölçü birimi, eksik kayıt ve kurumun toplama amacı
+okunmadan tablo nesnel gerçekliğin doğrudan kopyası sayılmamalıdır.
+
+Verinin kim tarafından, hangi iş için toplandığı daima sonuca yazılmalıdır.

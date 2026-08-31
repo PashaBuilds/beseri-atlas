@@ -9,6 +9,10 @@ tarih_baslangic: "2000"
 bolge: [avrupa, dogu-asya, kuresel]
 eksen: [ekonomik, demografik]
 guven_geneli: tartismali
+kaynak_siniri: >-
+  Eserin doğrulanabilir tam metni açık erişimde bulunmadığı için bu kayıt katalog
+  ve akademik ikincil kaynaklarla sınırlıdır; bölüm ya da sayfa düzeyinde
+  birincil metin aktarımı yapmaz.
 etiketler: [buyuk-ayrisma, komur, somurge, karsilastirma, akademik-tartisma]
 ilgili:
   - kavram-buyuk-ayrisma
@@ -55,7 +59,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak eseri 2000 tarihli bir kurgu dışı kitap olarak künyeler; yazarını Kenneth
@@ -69,13 +72,9 @@ toprak kullanımında benzer kaynak kısıtlarıyla karşılaştığını savund
 yalnızca 1800'den sonra, doğal kömür varlıkları ve sömürge mülkleri edinmesi
 sonucunda Batı Avrupa'nın Asya'nın önüne geçmeye başladığını kaydeder.[^k1]
 
-Bir tezin önce eşitlik sonra ayrışma olarak iki kanada bölünmesi,[^k1] korpusun şu
-kuralının dayanağıdır: bu incelemede esere atfedilen önermeler, hangi tarihten önce
-ya da sonra için söylendiği belirtilerek aktarılır.
-
 ## Kaynak tartışmayı da kaydeder
 
-::tartismali[Kaynak, kitabın yoğun akademik tartışmaya konu olduğunu yazıyor. Korpus tezi bir sonuç olarak değil bir konum olarak taşır.]{harita=tartisma-bati-neden-yukseldi}
+::tartismali[Kaynak, kitabın yoğun akademik tartışmaya konu olduğunu yazıyor.]{harita=tartisma-bati-neden-yukseldi}
 
 Tartışmanın kendisi
 [Batı neden yükseldi?](/tartisma/bati-neden-yukseldi/) haritasında, kavram ise
@@ -94,8 +93,3 @@ yaklaşık 1,63 milyardır.[^k3]
 
 İlgili dönüşüm [Sanayi
 Devrimi](/olay/sanayi-devrimi/) dosyasında ele alınıyor.[^k1][^k3]
-
-## Okumayı sürdürmek için
-Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser teliflidir; korpus metninden alıntı yapmaz ve
-yalnızca hakkında yazılanı aktarır.

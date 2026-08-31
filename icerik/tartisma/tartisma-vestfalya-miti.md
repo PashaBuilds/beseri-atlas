@@ -271,9 +271,8 @@ dayanaklarındandır.[^k2][^k5]
 ## Mitin kendi tarihi: Osiander
 
 Andreas Osiander'ın International Organization dergisinde 2001'de çıkan
-ve itirazın adını koyan makalesi, "Vestfalya miti" deyişini
-uluslararası ilişkiler yazınının merkezine taşıdı; tam başlığı künyede
-kayıtlıdır.[^k4] Osiander bu itiraza yeni
+makalesi, itirazın adını koyan metindir: *Sovereignty, International
+Relations, and the Westphalian Myth*.[^k4] Osiander bu itiraza yeni
 gelmiş de değildi; Avrupa devletler sistemi üzerine 1994 tarihli bir
 kitabı, mit eleştirisi yazınının dökümünde 2001 makalesiyle yan yana
 anılır.[^k3] Makalenin girişindeki yargı ise alıntılanagelmiştir:

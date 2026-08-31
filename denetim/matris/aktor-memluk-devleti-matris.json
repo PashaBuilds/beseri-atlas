@@ -1,7 +1,7 @@
 {
   "id": "aktor-memluk-devleti",
-  "govde_hash": "968db7d2767c",
-  "commit": "4373ec95",
+  "govde_hash": "4d88b2a58006",
+  "commit": "889239af",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -753,6 +753,12 @@
       "zaman": "2026-08-30",
       "onceki_hash": "f637f768c031",
       "yeni_hash": "968db7d2767c",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    },
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "968db7d2767c",
+      "yeni_hash": "4d88b2a58006",
       "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
     }
   ]

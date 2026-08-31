@@ -10,6 +10,10 @@ tarih_bitis: "1994"
 bolge: [avrupa, kuresel]
 eksen: [siyasi, ekonomik, kulturel]
 guven_geneli: tartismali
+kaynak_siniri: >-
+  Eserlerin doğrulanabilir tam metinleri açık erişimde bulunmadığı için bu kayıt
+  katalog ve akademik ikincil kaynaklarla sınırlıdır; bölüm ya da sayfa düzeyinde
+  birincil metin aktarımı yapmaz.
 etiketler: [donemlendirme, ikiz-devrim, kisa-yuzyil, kitap-dizisi, ad-verme]
 ilgili:
   - kavram-donemlendirme
@@ -57,10 +61,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
-Bu inceleme bir kitabı değil, bir **ad verme kararını** ele alır: korpusun kendi
-dönem adlarının nereden geldiğini.
-
 ## Dizinin ilk kitabı
 
 Kaynak, kitabı İngiliz tarihçi Eric Hobsbawm'ın 1962'de ilk kez yayımlanan eseri
@@ -79,12 +79,9 @@ betimleme değil bir sınıflandırma kararı olduğunu gösterir; Sanayi Devrim
 Kaynak, kitabı uzun 19. yüzyıl üzerine bir üçlemenin ilki sayar; devamındaki
 ciltler The Age of Capital: 1848-1875 ve The Age of Empire: 1875-1914'tür.[^k1]
 
-::tartismali[Korpusun 11 ve 12 numaralı dönem adları bu kitap adlarıyla örtüşür. Bu bir doğrulama değil, bir miras alma durumudur ve burada kaydedilmiştir.]{harita=tartisma-vestfalya-miti}
+::tartismali[Bu bir doğrulama değil, bir miras alma durumudur ve burada kaydedilmiştir.]{harita=tartisma-vestfalya-miti}
 
-Kaynaktaki üç kitap adı sırasıyla 1789-1848, 1848-1875 ve 1875-1914
-aralıklarını taşır;[^k1] korpusun dönem listesindeki Devrim Çağı ile Sermaye ve
-İmparatorluk Çağı adları bu adların karşılığı ve birleşimidir. Dönemler
-[1789–1848](/donem/11/) ve [1848–1914](/donem/12/) dosyalarında ele alınıyor.
+Dönemler [1789–1848](/donem/11/) ve [1848–1914](/donem/12/) dosyalarında ele alınıyor.
 
 ## Yirminci yüzyıl cildi
 
@@ -96,12 +93,6 @@ Kaynak, yazarın Birinci Dünya Savaşı'nın başlangıcından Sovyet blokunun
 çöküşüne uzanan dönemi kısa yirminci yüzyıl diye adlandırdığını ve bunun uzun
 19. yüzyılın devamı sayıldığını yazar; uzun 19. yüzyıl 1789'daki Fransız
 Devrimi'nin başlangıcından 1914'e uzanır.[^k2]
-
-Bir yüzyılın takvim yüzyılından farklı sınırlarla tanımlanması,[^k2] korpusun şu
-kuralının dayanağıdır: dönem sınırları takvimden değil tezden gelir ve hangi
-tezden geldiği yazılmalıdır. Korpusun 1914-1945 dönemi
-[1914–1945](/donem/13/) dosyasında, dönemlendirmenin kendisi ise
-[Dönemlendirme](/kavram/donemlendirme/) dosyasında ele alınıyor.
 
 ## Aynı kitabın iki alt başlığı
 
@@ -120,12 +111,3 @@ Bu dört değer bir dönemlendirmeyi doğrulamaz; yalnızca 1789-1991 aralığı
 dünya nüfusunun yaklaşık beş buçuk kat arttığını gösterir.[^k3]
 
 ## Telif sınırı
-
-Kitaplar telifli olduğu için bu incelemede metinlerinden alıntı yapılmamıştır; 1962
-ve 1994 tarihli iki cildin içeriğine dair buradaki bütün ifadeler kaynak
-sayfalarının kendi anlatımına dayanır.[^k1][^k2]
-
-## Kanıtın ve kapsamın sınırı
-Kitapların bölüm yapısı, aldığı eleştiriler ve yazarın diğer eserleri burada ele
-alınmamıştır; bu incelemenin kapsamı, korpusun dönem adlarının kaynağını
-kaydetmektir.

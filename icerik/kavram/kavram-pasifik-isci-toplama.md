@@ -55,7 +55,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Tanım
 
 Pasifik işçi toplama düzeni, ada topluluklarından alınan kişilerin
@@ -82,8 +81,7 @@ tutan tarafın kaydından belirlenemez.[^k2]
 
 ## Kaydı kim tuttu
 
-Bu incelemenin asıl ölçümü kayıtla ilgilidir.[^k1] Düzene dair yazılı
-kaydın neredeyse tamamı toplayan tarafça üretildi.
+Düzene dair yazılı kaydın neredeyse tamamı toplayan tarafça üretildi.
 
 Mevzuat, gemi defterleri, müfettiş raporları ve anılar aynı taraftan
 gelir.[^k2] Taşınan kişilerin kendi yazılı kaydı yok denecek kadar
@@ -133,8 +131,7 @@ başına yetersizdir; topluluğun büyüklüğüne oranı gerekir.[^k2]
 Aynı dönemde başka bir kıyıdan da baskınlar yapıldı.[^k3] Bu
 baskınlar sözleşme kılıfı olmadan yürütüldü.
 
-Etkilenen adalardan biri, korpusta ayrı bir dosyası olan uzak bir
-adadır.[^k1] Ada nüfusunun büyük bölümünü kısa sürede kaybetti.
+Ada nüfusunun büyük bölümünü kısa sürede kaybetti.
 
 İkisi de aynı emek talebinden doğdu ama hukuki
 biçimleri farklıydı.[^k2]
@@ -183,9 +180,22 @@ Adaların iç düzenindeki değişim izlenmez.[^k3] Ayrılanların geride
 bıraktığı boşluğun nasıl doldurulduğu, hangi işlerin kime kaldığı ve
 hangi bağların koptuğu ayrı bir çalışmayı gerektirir.
 
-Taşınan kişilerin kendi anlatıları künyelenememiştir.[^k2] Sözlü
-aktarımdan derlenmiş doğrulanabilir çevrimiçi kayıt bu inceleme
-yazıldığında bulunamamıştır; kısıt burada beyan edilir.
+Taşınan kişilerin kendi anlatıları künyelenememiştir.[^k2]
+
+## Sözleşme ile kaçırma arasındaki geniş alan
+
+Pasifik işçi toplama sistemi bütün yolculukları aynı yöntemle örgütlemedi. Açık
+kaçırma, aldatıcı vaat, yerel aracılık, borç ve biçimsel sözleşme farklı adalarda ve
+yıllarda değişen oranlarda görüldü.[^k1] Bu çeşitlilik zorlamayı önemsizleştirmez;
+kişinin sözleşme dilini anlayıp anlamadığı, gemiden ayrılma hakkı, çalışma yerini
+seçebilmesi ve geri dönüşün gerçekten sağlanması ayrı ayrı sınanmalıdır.
+
+İşveren kayıtları işçi sayısı ve ücret verebilir, fakat hastalık, şiddet ve aileden
+kopuşun maliyetini eksik gösterebilir. Misyoner anlatıları ile resmî soruşturmalar da
+kendi amaç ve önyargılarını taşır.[^k2] Ada topluluklarının direniş, müzakere ve geri
+dönüş talepleri edilgen mağdur anlatısını düzeltir; yine de son derece eşitsiz güç
+ilişkisini ortadan kaldırmaz. “Blackbirding” terimi kullanıldığında hangi işe alma
+biçimi ve hangi dönem kastedildiği açıkça belirtilmelidir.[^k3]
 
 ## Okumayı sürdürmek için
 Aynı bölgede kurulan yönetim biçimleri için

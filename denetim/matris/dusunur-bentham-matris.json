@@ -652,11 +652,67 @@
       ],
       "guven": "orta",
       "inceleme": "Kamuya aciklik ve projenin akibeti k5'te; ikisini tek soruda birlestiren kapanis degerlendirmesi yazarindir."
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "Kitabın ilk cümlesi bir tanım değil bir yerleştirmedir.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5'in ilk cümlesi kavramı doğrudan bir siyasal bağlama yerleştirir; cümlenin biçimine ilişkin gözlem metinden sınanabilir."
+    },
+    {
+      "iddia_id": "ek002",
+      "cumle": "Kaynak, Bentham'ın bu sonucu yanlış saydığını ama yine de karşılanması gereken bir sonuç olarak gördüğünü ekler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bentham'ın iki aşamalı tutumu k5'te açıkça aktarılır."
+    },
+    {
+      "iddia_id": "ek003",
+      "cumle": "Sonraki siyaset yazılarında sık dönen sinsi çıkar fikrinin izi buradadır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k5 çıkar çatışmasını taşır; bunu Bentham'ın sonraki siyaset diline uzanan bir iz olarak yorumlamak metinler arası sentezdir."
+    },
+    {
+      "iddia_id": "ek004",
+      "cumle": "Bentham'ın motor dediği şey budur.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cümle önceki paragraftaki düzeneği Bentham'ın k4'te kullandığı motor nitelemesine bağlar."
     }
   ],
   "sayaclar": {
-    "dogrudan": 43,
-    "kismi": 3,
+    "dogrudan": 46,
+    "kismi": 4,
     "desteksiz": 0,
     "olculemez": 0
   },

@@ -47,10 +47,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
-Bu incelemenin taşıdığı sütun adı, değerlerinden önce okunmalıdır: ölçüm vergi
-öncesi gelire dayanır.[^k1]
-
 ## Seri iki yüzyıl kapsıyor
 
 Sağlayıcının toplam satırında Gini katsayısı 1820'de 0,5909, 1900'de 0,6917,
@@ -60,7 +56,7 @@ Serinin 1900'den 1950'ye düşüp 1950'den 2000'e yükselmesi ve sonra yeniden
 düşmesi,[^k1] iki yüz yıllık bir eğilim cümlesi kurmayı engeller: hangi iki yıl
 seçilirse o yönde bir cümle kurulabilir.
 
-::tartismali[Aynı seriden "eşitsizlik arttı" da "eşitsizlik azaldı" da çıkarılabilir. Korpus yön cümlesi kurmaz; başlangıç ve bitiş yıllarını yazar.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Aynı seriden "eşitsizlik arttı" da "eşitsizlik azaldı" da çıkarılabilir.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Okuma yöntemi
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -70,10 +66,6 @@ haritasında ele alınıyor.
 
 Sağlayıcının sütun adı ölçünün vergi öncesi refah türüne dayandığını
 kaydeder.[^k1]
-
-Vergi öncesi ile vergi sonrası ölçümlerin farklı olması,[^k1] korpusun şu
-kuralının dayanağıdır: bir eşitsizlik değeri, hangi refah tanımıyla ölçüldüğü
-yazılmadan aktarılmaz.
 
 ## Ölçünün kendi sınırları
 
@@ -95,7 +87,3 @@ Yoksulluk oranının bu yıllarda düşerken Gini katsayısının 2000'de en yü
 değerine ulaşması,[^k1][^k2] iki ölçünün aynı şeyi ölçmediğini gösterir: biri
 alt eşiğin altındakilerin payını, diğeri dağılımın bütününü özetler. Yoksulluk
 serisi [Aşırı yoksulluk oranı](/veri/yoksulluk-orani/) dosyasında ele alınıyor.
-
-## Kanıtın ve kapsamın sınırı
-Ülke ve bölge dağılımı, vergi sonrası ölçümler ve servet eşitsizliği burada ele
-alınmamıştır; bu inceleme tek bir sütunun yıl bazlı değerlerini taşır.[^k1]

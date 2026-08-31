@@ -65,7 +65,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Tordesillas Antlaşması, 1494'te iki İber krallığı arasında imzalanan ve
@@ -76,9 +75,7 @@ Paylaşım, kuzeyden güneye uzanan bir çizgiyle yapılır.
 uzaklıkta olarak tarif edilir.[^k1] Çizginin doğusu bir tarafa, batısı
 ötekine ayrılır.
 
-Bu incelemenin asıl konusu belgenin uygulanabilirliğidir.[^k2] Antlaşmanın
-merkezindeki çizginin nerede olduğu, dönemin tekniğiyle
-ölçülemiyordu.
+Antlaşmanın merkezindeki çizginin nerede olduğu, dönemin tekniğiyle ölçülemiyordu.
 
 ## Ölçülemeyen hüküm
 
@@ -99,9 +96,8 @@ hâle gelir.**[^k1]
 Belirsizlik iki tarafça da kullanıldı.[^k2] Her taraf, kendi lehine olan
 ölçümü savundu ve fersah biriminin uzunluğu bile tartışma konusu oldu.
 
-Bu, korpusun Samoa dosyasında ölçtüğü örüntünün bir başka
-biçimidir.[^k3] Bir hukuki belirsizlik, taraflardan hangisine ne zaman
-yarayacağı belli değilse bile, güçlü olanın lehine çözülme eğilimindedir.
+Bir hukuki belirsizlik, taraflardan hangisine ne zaman yarayacağı belli değilse bile,
+güçlü olanın lehine çözülme eğilimindedir.
 
 Fark burada iki tarafın da güçlü olmasıdır.[^k1] Belirsizlik bu durumda
 sürekli bir pazarlık zeminine dönüşür ve çözülmez.
@@ -110,10 +106,6 @@ sürekli bir pazarlık zeminine dönüşür ve çözülmez.
 
 Antlaşmanın iki tarafı vardır ve ikisi de Avrupa'dandır.[^k1] Paylaşılan
 toprakların hiçbirinde yaşayan hiç kimse taraf değildir.
-
-Bu, korpusun tekrar tekrar kaydettiği yapının en erken
-örneğidir.[^k2] Aynı yapı Berlin Konferansı'nda ve Samoa
-paylaşımında yeniden görülür.
 
 Üç örnek arasında dört yüzyıl vardır.[^k3] Aynı yapı üç kez ölçülmüştür
 ve bu, onu bir döneme özgü olmaktan çıkarır.
@@ -124,8 +116,7 @@ Yapı tek cümleyle ifade edilebilir.[^k1] **Bir bölgenin bölünmesi, o
 bölgede yaşayanların katılmadığı bir masada kararlaştırılabilir ve
 sonucu yüzyıllarca sürebilir.**
 
-İfade bir değerlendirme değil bir gözlemdir.[^k3] Korpus bu işlemin
-hukuki geçerliliği hakkında hüküm vermez.
+İfade bir değerlendirme değil bir gözlemdir.[^k3]
 
 Gözlemin pratik sonucu vardır.[^k2] Bir sınırın kim tarafından
 çizildiği, o sınırın bugünkü tartışmalarında da sorulmalıdır.
@@ -222,8 +213,7 @@ Dosya, antlaşmanın hukuki geçerliliği hakkında hüküm vermez.[^k1]
 Metnin ne dediğini, neyin ölçülemediğini ve sonucun ne olduğunu
 kaydeder.
 
-Paylaşılan bölgelerdeki toplumların tarihi burada işlenmez.[^k2] Ayrı
-dosyalar gerektirir ve korpusta bir bölümü bulunmaktadır.
+Paylaşılan bölgelerdeki toplumların tarihi burada işlenmez.[^k2]
 
 Metin çeviri üzerinden okunmuştur.[^k1] Fersah biriminin karşılığı ve
 terim seçimleri çevirmenin tercihlerini taşır; bu kısıt beyan edilir.

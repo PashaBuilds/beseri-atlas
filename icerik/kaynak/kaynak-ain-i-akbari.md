@@ -64,16 +64,13 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Âyîn-i Ekberî, bir imparatorluğun kendi idari yapısını ve kaynaklarını kalem
 kalem saydığı bir envanterdir.[^k1][^k2] Saray teşkilatıyla başlar, ordu
 düzeni ve ölçü sistemiyle sürer, eyalet kayıtlarıyla biter.
 
-Eserin korpus açısından ayırt edici yanı, anlatı değil tablo
-olmasıdır.[^k2] Metnin büyük bölümü mesafe, gelir, ürün ve birim
-listelerinden oluşur.
+Metnin büyük bölümü mesafe, gelir, ürün ve birim listelerinden oluşur.
 
 Bu, modern öncesi dönemde seyrek karşılaşılan bir kaynak türüdür.[^k1]
 Çoğu dönem ve bölge için elde bulunan kayıtlar olay anlatısıdır; burada
@@ -89,9 +86,7 @@ Envanterin kapsamı bu iddiayı gösterir. Yalnızca vergi değil, ürün çeşi
 yol mesafesi, para ayarı ve ölçü karşılıkları da kayda geçmiştir;[^k2]
 yönetim kendini bir hesap sistemi olarak tarif eder.
 
-Korpusun [Bürokrasi](/kavram/burokrasi/) dosyası bu yapıyı kavram düzeyinde
-ele alır. Burada somut hâli, bir imparatorluğun kendini sayıya çevirmiş
-olmasıdır.[^k1]
+Burada somut hâli, bir imparatorluğun kendini sayıya çevirmiş olmasıdır.[^k1]
 
 ## Sayıların güvenilirliği
 
@@ -99,9 +94,7 @@ Elde sayı bulunması, sayının doğru olduğu anlamına gelmez ve bu ayrım bu
 korunmalıdır.[^k2] Kayıtlar merkeze taşra görevlileri tarafından
 bildirilmiştir.
 
-::tartismali[Eserde verilen gelir ve alan rakamlarının gerçek tahsilatı mı
-yoksa hedeflenen tahakkuku mu gösterdiği tartışmalıdır; iki okuma çok farklı
-ekonomik tablolar üretir. Korpus bir okumayı benimsemez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Eserde verilen gelir ve alan rakamlarının gerçek tahsilatı mı yoksa hedeflenen tahakkuku mu gösterdiği tartışmalıdır; iki okuma çok farklı ekonomik tablolar üretir.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bildirimin yönü de bellidir. Bir taşra görevlisi, hedefin altında kalmamak
 için tahsilatı yüksek, gelecek yükümlülüğü düşük göstermeye
@@ -131,34 +124,20 @@ Bu kalemlerden nüfusa geçmek bir varsayım zinciri gerektirir: kişi başına
 verim, hane büyüklüğü ve vergi oranı varsayılmalıdır.[^k2] Zincirin her
 halkası bir tartışma konusudur.
 
-Bu inceleme, geçişin dayandığı kaynağı
-kaydeder ve sonucu vermez.[^k1]
-
-## Neden korpusta
-
-Bu inceleme, aynı bölgeden bir
-idari kayıt ekler ve iki metin farklı işler yapar.[^k1]
-
 Fark şudur: el kitabı yönetimin nasıl olması gerektiğini anlatır, envanter
 yönetimin ne olduğunu kaydeder.[^k1][^k2] Bir bölge için ikisinin de bulunması
 seyrektir.
 
-İki metnin yan yana okunabilmesi, korpusun karşılaştırmalı okumaya açtığı
-yerlerden biridir.[^k2] Öneri ile uygulama arasındaki fark, ancak ikisi de
-elde varsa ölçülebilir.
+Öneri ile uygulama arasındaki fark, ancak ikisi de elde varsa ölçülebilir.
 
 ## Kapsam dışı
 
-Bu inceleme eserin ne olduğunu ve nasıl okunması gerektiğini kaydeder; içindeki
-tabloları aktarmaz.[^k1][^k2] Metin kaynaklarda erişilebilir durumdadır.
+Metin kaynaklarda erişilebilir durumdadır.
 
-Eserin bağlı olduğu daha büyük derlemenin öteki bölümleri ve yazarın kendi
-konumu burada işlenmez.[^k3] Ayrı dosyalar gerektirir ve bu inceleme
-yazıldığında korpusta bulunmuyorlardı.
+Eserin bağlı olduğu daha büyük derlemenin öteki bölümleri ve yazarın kendi konumu burada
+işlenmez.[^k3]
 
-Eyalet kayıtlarının tek tek değerlendirilmesi de kapsam dışıdır.[^k3] Her
-eyalet için ayrı bir doğrulama çalışması gerekir ve korpusun mevcut kapsamı
-bunu sunmuyor.
+Eyalet kayıtlarının tek tek değerlendirilmesi de kapsam dışıdır.[^k3]
 
 ## Okumayı sürdürmek için
 Eserin yazıldığı imparatorluk için

@@ -60,7 +60,6 @@ son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak yazarı yaklaşık 1056-1111 arasına yerleştirir ve onu Sünni İslam'ın en
@@ -69,7 +68,7 @@ kaydeder.[^k1]
 
 ## Kaynak, eserden tek bir tez çıkarılamadığını yazar
 
-::tartismali[Kaynak, yazarın ilgili konumunun hiçbir yerde açıkça açıklanmadığını ve ancak birbirinden kopuk ifadelerden derlenebileceğini yazıyor. Korpus bu esere tek bir tez atfetmez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Kaynak, yazarın ilgili konumunun hiçbir yerde açıkça açıklanmadığını ve ancak birbirinden kopuk ifadelerden derlenebileceğini yazıyor.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Kaynak, eserden sonra yazarın belirgin biçimde okazyonalist bir kozmoloji
 savunduğu kitaplar yazdığını, ancak *İhyâ*'nın otuz beşinci kitabı ile
@@ -84,9 +83,7 @@ Kaynak, ölümünden yalnızca birkaç gün önce tamamladığı son eserinde Ta
 yaratıklarının aracılığıyla yaratıp yaratmadığını tartıştığını ve meselenin kesin
 olarak çözülemeyeceğini savunduğunu yazar.[^k1]
 
-Bir düşünürün son eserinde bir soruyu açık bırakması,[^k1] korpusun hakemlik
-etmeme ilkesinin en eski örneklerinden biridir. Yazar
-[Gazâlî](/dusunur/gazali/) dosyasında ele alınıyor.
+Yazar [Gazâlî](/dusunur/gazali/) dosyasında ele alınıyor.
 
 ## Esere cevap yazan düşünür
 
@@ -101,13 +98,7 @@ Aynı geleneğin yöntem kavramı için tutulan kayıt, ulaşılan bilginin zann
 olduğunu tanımın içine koyar.[^k3] O kavram
 [İctihad](/kavram/ictihad/) dosyasında ele alınıyor.
 
-## Okumayı sürdürmek için
-Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi neşrin ve hangi çevirinin
-kullanıldığı her aktarımda belirtilmelidir.
-
 ## Metne bağ
 
-Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
-atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
-çevirinin kullanıldığı her aktarımda belirtilmelidir.
+Eserin tam metin kaydı erişilebilir durumdadır; her atıf bölüm ya da paragraf
+numarasıyla verilmeli, kullanılan baskı ve çeviri belirtilmelidir.[^k4]

@@ -55,7 +55,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Kim
 
 Ambedkar, on dokuzuncu yüzyılın sonunda, kendi toplumunda
@@ -65,8 +64,7 @@ her alanını belirledi.
 Yurt dışında hukuk ve iktisat öğrenimi gördü.[^k2] Döndüğünde hem
 hukukçu hem de siyasi bir örgütleyici olarak çalıştı.
 
-Bu inceleme bir yaşam öyküsü değildir.[^k3] Bir kuralın kim tarafından
-sınanacağı sorusuna verdiği cevabın kaydıdır.
+Bir kuralın kim tarafından sınanacağı sorusuna verdiği cevabın kaydıdır.
 
 ## Temel ölçüt
 
@@ -175,10 +173,6 @@ Bu, metnin meşruiyeti hakkında bir soru doğurur.[^k1] Metin, adına
 konuştuğu nüfusun büyük bölümünün oyuyla seçilmemiş bir kurulca
 yazıldı.
 
-Kurucu metinlerin çoğu, kurdukları
-düzenin kendi ölçütlerini karşılamayan kurullarca yazılmıştır; bu, korpusta tekrar eden
-bir ölçümdür.[^k3]
-
 ## Metnin sınırının kabulü
 
 Metnin kendi sınırını da açıkça belirtti.[^k2] Anayasanın iyi
@@ -187,9 +181,6 @@ söyledi.
 
 Bu, iyimser bir kapanış değildir.[^k1] Aksine, uğruna yıllarını
 verdiği metnin tek başına yetersiz kaldığının açık bir kabulüdür.
-
-Bu, korpusun belge tartışmasında kurulan
-ölçütün yazarının ağzından ifadesidir: yürürlük metinle değil uygulamayla ölçülür.[^k3]
 
 ## İktisatçı yanı
 
@@ -254,8 +245,7 @@ Dışlanan grup adına kimin konuşacağı ayrı bir tartışmaydı.[^k1] Grubun
 dışından gelen sözcülerle grubun kendi sözcüleri arasında bir gerilim
 vardı.
 
-Bu gerilim yalnızca bu örneğe özgü değildir.[^k3] Korpusta başka
-dosyalarda da aynı biçimde görünür.
+Bu gerilim yalnızca bu örneğe özgü değildir.[^k3]
 
 Bir grubun çıkarını kimin
 tanımladığı, o çıkarın nasıl tanımlanacağını da belirler.[^k2]
@@ -318,6 +308,30 @@ Bu, metinlerinin okunmasını da etkiledi.[^k3] Hangi metnin öne
 
 Bir düşünürün sonraki dönemdeki itibarı,
 yazdıklarının değil onları kimin kullandığının kaydıdır.[^k2]
+
+## Siyasal eşitlik ile toplumsal eşitlik
+
+Ambedkar için oy hakkı ve anayasal yurttaşlık zorunluydu, fakat tek başına
+yeterli değildi.[^k2] Sandıkta eşit sayılan iki kişi; okulda, işte, ibadet
+yerinde ya da ortak su kaynağında birbirine eşit davranılmıyorsa siyasal
+eşitlik gündelik hayata geçmemiş demekti. Bu nedenle anayasa, yalnızca
+devletin yetkilerini dağıtan bir metin değil, yerleşik toplumsal üstünlükleri
+sınırlayacak bir araçtı.
+
+Buradaki güçlük, hukukun erişemediği alışkanlıklardır.[^k3] Ayrımcılık açık
+bir yasak biçiminde kurulabileceği gibi işe almama, temas etmeme veya mahalleye
+kabul etmeme gibi dağınık davranışlarla da sürdürülebilir. İkinci durumda
+eşitsizliği kanıtlamak ve yaptırıma bağlamak daha zordur. Ambedkar'ın eğitim,
+temsil ve kamusal görevlerde güvence istemesi bu boşluğu kapatmaya yönelir:
+eşitliğin yalnız ilke olarak ilan edilmesi değil, dışlananların karar veren
+kurumlarda fiilen bulunması gerekir.[^k1]
+
+Bu yaklaşım Gandhi ile anlaşmazlığın neden yalnız kişisel olmadığını da
+gösterir. Gandhi ortak toplumsal kimliğin parçalanmasından kaygılanırken,
+Ambedkar bağımsız temsil olmadan ortaklığın güçlü tarafça tanımlanacağını
+düşünüyordu.[^k3] Ayrı seçmen listesi tartışması, dolayısıyla, birlik ile
+eşitlik arasında soyut bir tercih değil; temsilcinin seçildikten sonra kime
+hesap vereceği üzerine somut bir kurum tasarımı sorunuydu.
 
 ## Kanıtın ve kapsamın sınırı
 Dosya, anayasanın madde madde çözümlemesini yapmaz.[^k2] Metnin

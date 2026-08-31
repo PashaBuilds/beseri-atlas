@@ -65,7 +65,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Hawai Krallığı, on sekizinci yüzyıl sonunda takımadanın adalarının tek
@@ -98,9 +97,7 @@ fazlalığı değildir.[^k1]
 Neden şudur: bu devlet, dönüşümünün her adımını yazılı bir hukuki
 belgeye bağladı.[^k2] Belge üreten bir süreç, arkasında belge bırakır.
 
-Bu gözlem korpusun kanıt dosyasındaki ölçümü tersinden doğrular.[^k3]
-Kayıt bolluğu, kaydedilen sürecin niteliği hakkında tek başına bir şey
-söylemez.
+Kayıt bolluğu, kaydedilen sürecin niteliği hakkında tek başına bir şey söylemez.
 
 ## Uluslararası tanıma
 
@@ -108,9 +105,7 @@ Krallık on dokuzuncu yüzyıl ortasında Avrupa devletleri ve Amerika
 Birleşik Devletleri tarafından bağımsız bir devlet olarak tanındı.[^k4]
 Tanıma, karşılıklı temsilcilikler ve antlaşmalarla sürdürüldü.
 
-Tanıma, korpusun egemenlik dosyasındaki ölçütlerden birini
-karşılar.[^k4] Bir düzenin devlet sayılması, öteki devletlerin onu
-öyle saymasına da bağlıdır.
+Bir düzenin devlet sayılması, öteki devletlerin onu öyle saymasına da bağlıdır.
 
 Bu, sonraki olayları değerlendirmede belirleyicidir.[^k4] Tanınmış bir
 devletin devrilmesi, tanınmamış bir düzenin ilhakından farklı bir hukuki
@@ -197,8 +192,7 @@ durumdadır ve devrilmenin doğrudan gerekçesini gösterir.
 Bu, dosyanın ana gözlemini tamamlar.[^k2] Sürecin her adımı bir belgeye
 bağlandığı için, her adım belgelenmiş durumdadır.
 
-Belgelenmiş olmak, meşru olmak anlamına gelmez.[^k1] Korpus iki niteliği
-ayrı ayrı değerlendirir.
+Belgelenmiş olmak, meşru olmak anlamına gelmez.[^k1]
 
 ## Sonrası
 
@@ -214,7 +208,6 @@ bir dosya gerektirir.[^k3]
 
 ## Bölge kaydı bakımından
 
-Bu inceleme, atlasın Okyanusya aktör katmanındaki altıncı dosyadır.[^k4]
 Katman uzun süre yalnızca topluluk ve kültür dosyalarından oluşuyordu.
 
 Bir devlet dosyasının eklenmesi, katmanın yapısını değiştirir.[^k1]
@@ -230,8 +223,7 @@ Adaların tek yönetim altında toplanması, dışarıdan gelen gemilerle
 kurulan ticaretle aynı yıllara denk gelir.[^k4] Ticaretin sağladığı
 ateşli silahlar, seferlerin sonucunu doğrudan etkiledi.
 
-Örüntü korpusun başka bölge dosyalarında da ölçülmüştür.[^k4] Dış ticarete
-erişimi olan taraf, aynı bölgedeki rakiplerine karşı üstünlük kurar ve
+Dış ticarete erişimi olan taraf, aynı bölgedeki rakiplerine karşı üstünlük kurar ve
 üstünlük siyasi birleşmeye dönüşür.
 
 Bu, birleşmeyi dışarıdan açıklamak anlamına gelmez.[^k1] Seferleri yürüten
@@ -260,8 +252,7 @@ yüksek bir orana ulaştı.
 Bunun doğrudan bir sonucu, hukukun yerel dilde yazılabilmesidir.[^k1]
 Anayasa ve yasalar, halkın okuyabildiği bir dilde yayımlandı.
 
-Bu, korpusun Waitangi dosyasındaki durumdan farklıdır.[^k2] Orada yerel
-dildeki metin bir çeviriydi; burada yerel dil, hukukun asıl dillerinden
+Orada yerel dildeki metin bir çeviriydi; burada yerel dil, hukukun asıl dillerinden
 biriydi.
 
 ## 1840 metninin açılışı
@@ -283,8 +274,7 @@ bölümünü dışarıda bırakır.
 belge, ilan ettiği ilkeyi değiştirmeden, uygulama ölçütlerini
 değiştirerek sonucu tersine çevirebilir.
 
-Mekanizma yalnızca bu örneğe ait değildir.[^k1] Korpus benzer yapıyı
-oy hakkı düzenlemelerinin incelendiği başka dosyalarda da kaydeder.
+Mekanizma yalnızca bu örneğe ait değildir.[^k1]
 
 Sonuç, metin okumanın nasıl yapılacağına dair bir kuraldır.[^k3] Bir
 belgenin ne yaptığını anlamak için ilan ettiği ilkeye değil, ölçütlerine
@@ -292,7 +282,6 @@ bakmak gerekir.
 
 ## Kaynak durumu
 
-Bu incelemenin üç künyesi anayasa metinlerinin transkripsiyonlarıdır.[^k1]
 Transkripsiyonlar bir açık kütüphanede bulunur ve asıl nüshalar değildir.
 
 Bölgenin resmî arşiv siteleri otomatik erişime kapalıdır.[^k4] Bu
@@ -304,14 +293,12 @@ sınanmamıştır.[^k2] Atıf yapılırken bu zincir belirtilmelidir.
 
 ## Kapsam dışı
 
-Hükümdarların tek tek biyografileri burada işlenmez.[^k4] Ayrı dosyalar
-gerektirirler ve bu inceleme yazıldığında korpusta bulunmuyorlardı.
+Hükümdarların tek tek biyografileri burada işlenmez.[^k4]
 
 Şeker ekonomisinin ayrıntılı yapısı da kapsam dışıdır.[^k4] Dosya
 yalnızca toprak düzeni değişiminin siyasi sonucunu kaydeder.
 
-Katılma sonrasının tarihi bu incelemede yer almaz.[^k3] Krallık dosyası
-1893'te biter.
+Krallık dosyası 1893'te biter.[^k4]
 
 ## Kanıtın ve kapsamın sınırı
 Dosya devrilme sürecinin hukuki geçerliliği hakkında hüküm
@@ -321,8 +308,7 @@ kaydeder.
 Tarafların niyetleri hakkında da bir sonuca varılmaz.[^k2] Niyet,
 belgelerden doğrudan okunamayan bir şeydir.
 
-Bugünkü siyasi tartışmalar kapsam dışıdır.[^k4] Korpus güncel hukuki ve
-siyasi durumlar hakkında değerlendirme yapmaz.
+Bugünkü siyasi tartışmalar kapsam dışıdır.[^k4]
 
 ## Okumayı sürdürmek için
 Aynı dönemde bir başka Okyanusya toplumuyla imzalanan ve iki metni
@@ -342,3 +328,17 @@ dosyaları okunabilir.[^k3]
 
 Katılmanın öteki tarafı için [ABD](/aktor/abd/) dosyası
 okunmalıdır.[^k4]
+
+## Anayasa metni ile siyasal güç arasındaki mesafe
+
+1840, 1887 ve 1893 metinlerini art arda okumak yalnız maddelerin değişimini
+değil, kimin anayasa yapabildiğini de gösterir.[^k1][^k2][^k3] Oy hakkının,
+bakanların, hükümdarın ve yabancı yerleşiklerin konumu her metinde aynı değildir.
+Bir anayasanın imzalanmış olması serbest pazarlığın kanıtı sayılamaz; kabul
+koşulları, silahlı baskı, ekonomik çıkarlar ve fiilî uygulama ayrıca araştırılır.
+
+Krallığın uluslararası tanınması ile daha sonra devrilmesi de egemenliğin iki
+boyutunu ayırır. Dış ilişkilerde antlaşma yapabilen bir devlet, içeride dar bir
+grubun örgütlü baskısıyla karar kapasitesini kaybedebilir. İlhak sonucu kaçınılmaz
+bir “modernleşme” aşaması değil, yerli siyasal kurumlar, plantasyon ekonomisi ve
+ABD bağlantılarının çatıştığı tarihsel bir tercihler dizisidir.[^k4]

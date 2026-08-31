@@ -50,7 +50,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Kırgızlar, bir büyük nehrin yukarı havzasında kaydedilen ve dokuzuncu
@@ -61,8 +60,7 @@ yerdedir; bu konum bütün dosyanın çerçevesini belirler.
 Topluluk 840'ta güneydeki kağanlığı yıktı.[^k2] Başkent alındı, hanedan
 dağıldı ve bozkırın siyasi merkezi bir daha aynı yerde kurulmadı.
 
-Bu incelemenin asıl konusu zaferden sonra olanlardır.[^k1] Kırgızlar
-yıktıkları düzenin yerine geçmedi ve kendi merkezlerine döndüler.
+Kırgızlar yıktıkları düzenin yerine geçmedi ve kendi merkezlerine döndüler.
 
 ## Yerine geçmemek
 
@@ -72,8 +70,7 @@ geçmesidir.[^k2] Başkent, otlaklar ve haraç düzeni el değiştirir.
 Burada bu olmadı.[^k1] Kırgızlar güneydeki merkezi elde tutmadı ve
 kuzeydeki kendi havzalarına çekildi.
 
-Kaynaklar bunun nedenini açıklamaz.[^k3] Korpus nedeni bilmediğini
-kaydeder ve öne sürülen açıklamaları sıralar.
+Kaynaklar bunun nedenini açıklamaz.[^k3]
 
 ## Açıklama adayları
 
@@ -93,17 +90,13 @@ olabilir.
 
 Üç açıklama da aynı olguya uyar.[^k1] Hiçbiri sınanmamıştır.
 
-Sonucu bilerek gerekçe aramak, korpusun
-kaçındığı işlemdir ve üç aday da bu riski taşır.[^k3]
-
 Ölçüm şudur.[^k2] **Bir zaferin genişlemeye dönüşmemesi açıklanması
 gereken bir olgudur; olağan sayılan yön, açıklanması gerekmeyen yön
 değildir.**
 
 ## Ölçümün genel biçimi
 
-İfade, korpusun başka dosyalarında da uygulanabilir.[^k1] Bir düzenin
-genişlememesi, genişlemesi kadar bir karar gerektirir.
+Bir düzenin genişlememesi, genişlemesi kadar bir karar gerektirir.
 
 Anlatılar genellikle genişlemeyi açıklar ve durmayı açıklamaz.[^k3]
 Durmak, doğal hâl sayılır ve sorulmaz.
@@ -133,26 +126,22 @@ Bu, dosyanın başında sıralanan üçüncü açıklamayla örtüşür.[^k3] Ha
 almak ile yönetmek ayrı iki iştir ve ikincisinin maliyeti getirisini
 aşabilir.
 
-Örtüşme bir kanıt değildir.[^k2] İki gözlem birbiriyle uyumlu olabilir
-ve ikisi de yanlış olabilir; korpus uyumu kaydeder, doğrulama saymaz.
+Örtüşme bir kanıt değildir.[^k2]
 
 ## Çin kayıtlarındaki yeri
 
 Topluluk, doğudaki imparatorluğun kayıtlarında da anılır.[^k2] Elçi
 gönderme ve haraç ilişkileri kaydedilmiştir.
 
-Bu kayıtlar, korpusun Hazarlar dosyasında ölçtüğü kısıtı taşır.[^k3]
-Gözlemcinin ilgisi, kaydın kapsamını belirler; elçilik ve haraç
-kaydedilir, iç yapı kaydedilmez.
+Gözlemcinin ilgisi, kaydın kapsamını belirler; elçilik ve haraç kaydedilir, iç yapı
+kaydedilmez.
 
 Fark burada şudur.[^k1] Topluluğun kendi yazıtları da bulunduğu için,
 dışarıdan gelen kaydın boşlukları kısmen doldurulabilir.
 
 ## İki kaynak türünün birlikte okunması
 
-Bu, korpusun Vijayanagara dosyasında ölçtüğü imkânın bir başka
-örneğidir.[^k3] Dışarıdan gelen anlatı ile içeriden gelen yazıt farklı
-soruları cevaplar.
+Dışarıdan gelen anlatı ile içeriden gelen yazıt farklı soruları cevaplar.
 
 Dışarıdan gelen kayıt siyasi ilişkileri, içeriden gelen yazıt akrabalık
 ve unvan düzenini verir.[^k1] İkisi birlikte, tek başına hiçbirinin
@@ -167,8 +156,7 @@ Topluluk, kendi dilinde yüzlerce kısa yazıt bıraktı.[^k3] Yazıtlar
 mezar taşlarına ve kaya yüzeylerine kazınmıştır; bugün büyük bölümü
 yerinde ya da müzelerde korunmaktadır.
 
-Kullanılan yazı, aynı bozkır geleneğinin yazı sistemidir.[^k1] Korpusun
-ayrı bir kaynak dosyasında künyelenen uzun yazıtlarla aynı sistemdir.
+Kullanılan yazı, aynı bozkır geleneğinin yazı sistemidir.[^k1]
 
 Fark uzunluktadır.[^k2] Buradaki metinler kısa ve büyük ölçüde
 kişiseldir; ölen kişinin adı, akrabaları ve bıraktıkları anılır.
@@ -226,9 +214,8 @@ Kağanlığın yıkılması ve yerine yeni bir merkezî düzenin kurulmaması,
 bozkırda uzun bir dağınıklık dönemi açtı.[^k2] Dönem yaklaşık üç yüzyıl
 sürdü.
 
-Bu dönem, korpusun ticaret dosyalarında ayrıca anılır.[^k1] Kara ticaret
-hatlarının işlemesi, bozkırda güvenli geçiş sağlayan bir düzenin
-varlığına bağlıdır.
+Kara ticaret hatlarının işlemesi, bozkırda güvenli geçiş sağlayan bir düzenin varlığına
+bağlıdır.
 
 Dağınıklık ile ticaret hacmi arasındaki
 ilişki bu dönem için ölçülmemiştir.[^k3]
@@ -259,8 +246,7 @@ devamlılığın kanıtı değildir ve ayrıca sınanmalıdır.[^k3]
 
 ## Adın süregelmesi
 
-Ad süregelmesi, korpusun bozkır dosyalarında tekrar eden bir
-sorundur.[^k1] Boy adları yüzyıllar boyunca kaydedilmeyi sürdürür.
+Boy adları yüzyıllar boyunca kaydedilmeyi sürdürür.
 
 Sürdürülen ad, aynı topluluğu göstermeyebilir.[^k2] Adın taşınması,
 siyasi mirasın devralınmasıyla da olabilir.
@@ -269,16 +255,12 @@ siyasi mirasın devralınmasıyla da olabilir.
 
 ## Kaynak durumu
 
-Bu incelemenin üç künyesinin üçü de ansiklopedi maddesidir.[^k1] Yazıtların
-kendileri künyelenememiştir.
+Yazıtların kendileri künyelenememiştir.
 
-Yazıt derlemelerinin doğrulanabilir çevrimiçi baskıları bu inceleme
-yazıldığında bulunamamıştır.[^k3] Bu, dosyanın asıl bulgusunu doğrudan
-etkiler: yazıtların kaynak değeri hakkında konuşulur ve onlara atıf
-yapılamaz.
+Bu, dosyanın asıl bulgusunu doğrudan etkiler: yazıtların kaynak değeri hakkında
+konuşulur ve onlara atıf yapılamaz.
 
-Eksik borç defterine yazılmıştır.[^k2] Korpus aynı kısıtı Vijayanagara
-dosyasında da kaydetmişti.
+Eksik borç defterine yazılmıştır.[^k2]
 
 ## Kapsam dışı
 
@@ -286,13 +268,9 @@ Yazıtların tek tek içeriği aktarılmaz.[^k3] Derlemeler künyelenemediği
 için ikincil aktarımdan yararlanılmıştır ve dosyadaki bütün yazıt
 ifadeleri bu kısıt altında okunmalıdır.
 
-Sonraki yüzyılların tarihi işlenmez.[^k1] Ayrı dosyalar gerektirir ve bu
-dosya yazıldığında korpusta bulunmuyorlardı; bölgenin on üçüncü yüzyıl
-sonrası düzeni ayrıca incelenmelidir.
+Sonraki yüzyılların tarihi işlenmez.[^k1]
 
-Bugünkü halk ve devlet konu edilmez.[^k2] Korpus yaşayan siyasi durumlar
-hakkında değerlendirme yapmaz ve ad benzerliğinden köken çıkarımı
-yapmaz.
+Bugünkü halk ve devlet konu edilmez.[^k2]
 
 ## Kanıtın ve kapsamın sınırı
 Dosya, zaferden sonra çekilmenin nedenini belirlemez.[^k1] Üç açıklama
@@ -320,3 +298,34 @@ Kanıt türlerinin hangi soruya cevap verdiği için
 Bozkır düzenlerinin genel yapısı için
 [Bozkır imparatorluğu](/kavram/bozkir-imparatorlugu/) dosyası
 okunmalıdır.[^k1]
+
+## Zafer neden yeni bir imparatorluğa dönüşmedi?
+
+Yenisey Kırgızlarının Uygur Kağanlığı’nı yenmesi, eski merkezin bütün yönetim
+ağını devraldıkları anlamına gelmedi.[^k1][^k2] Askerî sefer yapabilmek ile uzak
+otlak, kent, ticaret yolu ve bağlı toplulukları sürekli yönetebilmek farklı
+kapasitelerdir. Kırgız nüfusunun ve siyasal merkezinin kuzeydeki coğrafyası,
+Ötüken çevresinde kalıcı hâkimiyet kurmanın maliyetini yükseltmiş olabilir;
+kaynakların kesin bir gerekçe vermediği yerde olasılık ile bilgi ayrılmalıdır.
+
+Bu örnek “zafer = toprak genişlemesi” varsayımını sınar. Ganimet, rakibin
+zayıflatılması veya belirli bir yolun güvenliği, doğrudan ilhaktan daha değerli
+olabilir. Merkezî bir başkenti ele geçirmek, yerel seçkinlerin bağlılığını ve
+ikmal sistemini kendiliğinden sağlamaz. Karar hakkında aktörlerin kendi
+gerekçeleri bulunmadığında sonuçtan geriye doğru tek niyet uydurulmamalıdır.
+
+Yenisey yazıtları kısa olmalarına rağmen dış kroniklerde görünmeyen ad, unvan,
+yas ve aidiyet ifadeleri taşır.[^k3] Bunlar bütün Kırgız siyasi tarihini anlatmaz;
+hangi toplumsal çevrenin anıt bırakabildiğini gösterir. Çin ve İslam kaynakları
+dış ilişkileri daha geniş ölçekte kaydederken kendi adlandırma ve diplomasi
+amaçlarını taşır. Yazıt ile dış kayıt aynı soruya cevap vermediği için biri
+ötekini basitçe doğrulayan iki kopya sayılmamalıdır.
+
+Kırgız adı sonraki yüzyıllarda farklı coğrafyalarda yaşamaya devam eder. Adın
+sürekliliği, nüfusun değişmeden tek siyasi birim halinde göç ettiği anlamına
+gelmez. Dil, soy anlatısı, arkeoloji ve belgelenmiş hareketler ayrı ayrı
+izlenmelidir. Böylece 840 zaferi bir “kaçırılmış imparatorluk” değil, hareketli
+bozkır siyasetinde hedeflerin ve kapasitenin farklılaşabildiği tarihsel bir seçim
+alanı olarak anlaşılır.[^k1]
+
+Belirsizlik açıkça korunmalıdır.

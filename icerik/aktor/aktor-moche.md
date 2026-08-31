@@ -55,20 +55,16 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Nerede durduğu
 
-Moche, Güney Amerika'nın Pasifik kıyısında, dağlardan inen nehir vadilerinin
-çöle açıldığı kuşakta yerleşmiş bir düzendir.[^k1] Korpusun bölge şemasında
-yalnızca Amerika etiketi taşır.
+Moche, Güney Amerika'nın Pasifik kıyısında, dağlardan inen nehir vadilerinin çöle
+açıldığı kuşakta yerleşmiş bir düzendir.[^k1]
 
-Coğrafya bu incelemenin bütün mantığını belirler.[^k1] Kıyı şeridi yağış almayan
-bir çöldür; tarım ancak nehir sularının kanallarla vadiye yayılmasıyla
-mümkün olur.
+Kıyı şeridi yağış almayan bir çöldür; tarım ancak nehir sularının kanallarla vadiye
+yayılmasıyla mümkün olur.
 
-Dosyanın korpus açısından ayırt edici yanı kanıt tarafındadır.[^k2][^k3] Düzen
-yazı bırakmadı; hakkında bilinen her şey bıraktığı nesnelerden ve
-yerleşimlerinden okunur.
+Düzen yazı bırakmadı; hakkında bilinen her şey bıraktığı nesnelerden ve yerleşimlerinden
+okunur.
 
 ## Yazısız bir düzenin okunması
 
@@ -90,13 +86,10 @@ Kıyı vadilerinde tarım, uzun kanallarla ve düzenli bakımla yürütülüyord
 Kanal sistemleri tek bir vadiyi aşacak ölçekteydi ve merkezî bir
 örgütlenme gerektiriyordu.
 
-Bu bağ, korpusun başka bölgelerinde de kaydedilmiştir.[^k1] Su düzenine
-dayanan tarım merkezî yönetimi zorunlu kılar; merkezî yönetim de varlığını o
+Su düzenine dayanan tarım merkezî yönetimi zorunlu kılar; merkezî yönetim de varlığını o
 su düzeninin sürmesine bağlar.
 
 Bağın buradaki özel yanı, kanıtın yalnızca yapının kendisi olmasıdır.[^k2]
-Kanalların varlığı ölçülebilir; onları yaptıran otoritenin biçimi
-ölçülemez ve korpus bu ayrımı korur.
 
 ## Seramiğin kayıt işlevi
 
@@ -130,10 +123,7 @@ Sahnelerin ne anlattığı, onları yorumlayanın elindeki çerçeveye
 bağlıdır.[^k1] Aynı sahne bir tören, bir mitolojik anlatı ya da bir olay
 kaydı olarak okunabilir.
 
-::tartismali[Seramik sahnelerinin gerçek olayları mı, tören kalıplarını mı
-yoksa anlatı sahnelerini mi gösterdiği tartışmalıdır; üç okuma da aynı
-nesnelerden çıkarılabilir ve seçim, çıkarılacak tarihsel sonucu doğrudan
-belirler. Korpus bir okumayı benimsemez.]{harita=tartisma-sozlu-gelenek-kaynak-mi}
+::tartismali[Seramik sahnelerinin gerçek olayları mı, tören kalıplarını mı yoksa anlatı sahnelerini mi gösterdiği tartışmalıdır; üç okuma da aynı nesnelerden çıkarılabilir ve seçim, çıkarılacak tarihsel sonucu doğrudan belirler.]{harita=tartisma-sozlu-gelenek-kaynak-mi}
 
 Yazılı bir kaydın da yorumu
 tartışmalıdır; farkı, yazılı kaydın en azından kendi kategorisini beyan etmesidir.[^k2]
@@ -147,9 +137,6 @@ büyüklüğü toplumsal katmanlaşmayı gösterir.
 İki kanıt türünün birlikte kullanılması, tek başına hiçbirinin
 veremeyeceği bir tabloyu üretir.[^k2] Seramik neyin yapıldığını, gömüler
 kimin nerede durduğunu gösterir.
-
-Bu inceleme, birleşimin en açık
-uygulandığı örneklerden biridir.[^k1]
 
 ## Tek bir devlet miydi
 
@@ -169,9 +156,8 @@ tercih, siyasi biçimin bilinmediğinin kaydıdır.[^k1]
 Düzenin bugün kullanılan adı, kendi adı değildir.[^k1] Ad, kazıların
 yapıldığı vadinin modern adından gelir.
 
-Bu, korpusun başka bölgelerinde de kaydettiği bir durumdur.[^k1] Yazı
-bırakmamış düzenlerin adları, onları inceleyenler tarafından verilir ve
-kendi adlandırmalarıyla ilgisi olmayabilir.
+Yazı bırakmamış düzenlerin adları, onları inceleyenler tarafından verilir ve kendi
+adlandırmalarıyla ilgisi olmayabilir.
 
 Sessizce değiştirmek, sorunu çözmek değil gizlemek
 olurdu.[^k2]
@@ -192,9 +178,8 @@ kanıtının aynı türden çıkarıma izin vermesidir.
 
 ## İki kıtada aynı yöntem
 
-Bu benzerlik korpusun yöntemi açısından öğreticidir.[^k1] Farklı kıtalarda,
-birbirinden habersiz iki düzen hakkında aynı türden kanıtla aynı türden
-sonuca varılabiliyor.
+Farklı kıtalarda, birbirinden habersiz iki düzen hakkında aynı türden kanıtla aynı
+türden sonuca varılabiliyor.[^k1]
 
 Sonucun sınırı da aynıdır.[^k2] İki dosyada da üretim örgütlenmesi
 gösterilebiliyor, yönetim biçimi gösterilemiyor.
@@ -208,12 +193,10 @@ Düzenin sona erişi, kaynaklarda birden çok etkenle açıklanır.[^k1] İklim
 değişkenliği, kanal sistemlerinin bozulması ve siyasi parçalanma birlikte
 aktarılır.
 
-Etkenlerin ağırlığı tartışmalıdır ve korpus bir sıralama yapmaz.[^k1] Su
-düzenine dayanan bir düzende iklim ile siyaset birbirinden ayrılamaz;
-kuraklık bakımı zorlaştırır, bakımın aksaması meşruiyeti zayıflatır.
+Su düzenine dayanan bir düzende iklim ile siyaset birbirinden ayrılamaz; kuraklık bakımı
+zorlaştırır, bakımın aksaması meşruiyeti zayıflatır.
 
-Bu bağ, [İklim ve çöküş](/tartisma/iklim-ve-cokus/) incelemesiyle
-kesişir.[^k1] Bu inceleme bir örnek sağlar; tartışmayı o dosya yürütür.
+Bu bağ, [İklim ve çöküş](/tartisma/iklim-ve-cokus/) incelemesiyle kesişir.[^k1]
 
 ## Ölçek sorunu
 
@@ -256,12 +239,10 @@ anlamına gelmez.[^k2]
 
 ## Kaynak durumu
 
-Bu inceleme üç kaynağa dayanır ve ikisi birincildir.[^k2][^k3] İki birincil
-künye, müze katalog kayıtlarıdır ve `nesne` alt türünü taşır.
+İki birincil künye, müze katalog kayıtlarıdır ve `nesne` alt türünü taşır.
 
-Bu, korpusun nesne kanıtına dayanan ikinci dosyasıdır.[^k2] Alt tür, önceki
-turda Benin Krallığı dosyası yazılırken şemaya eklendi; burada ilk kez tek
-kanıt türü olarak kullanılıyor.
+Alt tür, önceki turda Benin Krallığı dosyası yazılırken şemaya eklendi; burada ilk kez
+tek kanıt türü olarak kullanılıyor.[^k1]
 
 Kısıt açıkça beyan edilmelidir.[^k3] İki nesne, bir düzenin tamamını temsil
 etmez; künyeler örnek niteliğindedir ve dosyadaki genel değerlendirmeler
@@ -271,25 +252,13 @@ giriş kapısı maddesinin aktarımına dayanır.
 Kazı alanlarının tek tek tarihi ve bulguları burada işlenmez.[^k1] Her biri
 ayrı dosya gerektirir.
 
-Seramik ve metal eserlerin sanat tarihi açısından incelenmesi de kapsam
-dışıdır.[^k2] Bu inceleme nesneleri kanıt olarak kullanır; nesnelerin kendisini
-konu edinmez.
+Seramik ve metal eserlerin sanat tarihi açısından incelenmesi de kapsam dışıdır.[^k2]
 
-Bölgedeki komşu ve çağdaş düzenler burada verilmez.[^k1] Bu inceleme
-yazıldığında korpusta ayrı dosyaları bulunmuyordu.
+Bölgedeki komşu ve çağdaş düzenler burada verilmez.[^k1]
 
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun Amerika aktör katmanına Kolomb öncesi bir kıyı düzeni
-ekler.[^k1] Katmandaki öteki dosyalar ağırlıklı olarak daha geç ve daha
-büyük imparatorluklardı.
+Dosyanın seçilme gerekçesi kapsamdan çok yöntemdir.[^k2]
 
-Dosyanın seçilme gerekçesi kapsamdan çok yöntemdir.[^k2] Yazı bırakmamış bir
-düzenin nasıl yazılabileceği, korpusun kendi kaynak ilkesini sınayan bir
-örnektir.
-
-Sınavın sonucu dosyada görülebilir.[^k3] Dosya yazılabildi ama hangi
-soruların cevapsız kaldığı da her bölümde ayrıca yazıldı; korpusun istediği
-budur.
+Sınavın sonucu dosyada görülebilir.[^k3]
 
 ## Okumayı sürdürmek için
 Kanıt türlerinin nasıl değerlendirileceği için
@@ -307,3 +276,46 @@ dosyası okunmalıdır.[^k3]
 
 Aynı yılları bütün bölgeler üzerinden okumak için [Dönem 05](/donem/05/)
 dosyası kullanılmalıdır.
+
+## Yazısız bir siyasal düzen nasıl okunur?
+
+Moche adı, tek bir hükümdarın bıraktığı devlet adı değildir; benzer seramik,
+mimari ve ritüel örüntülerini sınıflandırmak için kullanılan arkeolojik
+kategoridir.[^k1] Bu benzerliğin tek merkezli imparatorluk mu, birden çok rakip
+vadi devleti mi, yoksa ortak kültür ağı mı gösterdiği ayrıca sınanmalıdır.
+Nesnelerin aynı üslubu paylaşması tek siyasi komuta kanıtı değildir.
+
+Kuzey Peru kıyısında tarım, çöl içinden akan nehirler ve sulama sistemlerine
+bağlıydı. Kanal inşası ortak emek ve yönetim kapasitesi gerektiriyordu; suyun
+dağıtımı yerel iktidarın maddi temeli olabilirdi. Kuraklık veya El Niño kaynaklı
+taşkın, yalnız çevresel şok değil, kanalı onarma, ürün depolama ve nüfusu yeniden
+yerleştirme kurumlarının sınavıydı.[^k1]
+
+## Görsel sahneyi olay kaydı sanmamak
+
+Seramiklerde savaşçı, tutsak, tören ve insan biçimleri ayrıntılıdır. Portre başlı
+kaplar bireysel yüzlerin önemini gösterir; tasvirin adı ve hayat hikâyesi bilinmez.[^k2][^k3]
+Tekrarlanan ritüel sahneler, kazılardaki mezar ve kurban kanıtlarıyla
+karşılaştırıldığında toplumsal uygulama hakkında daha güçlü çıkarım sağlar.
+Görseli doğrudan fotoğraf gibi okumak sembolik düzeni ve seçkin himayesini
+gözden kaçırır.
+
+Uzengi emzikli kabın biçimi teknik ve estetik bilgi taşır; bulunduğu mezar veya
+yerleşim bağlamı kim tarafından kullanıldığını belirler. Müze koleksiyonundaki
+tek nesne, yağma ya da eski toplama koşulları nedeniyle bu bağlamı kaybetmiş
+olabilir. Tarihleme ve köken bilgisi bu yüzden nesnenin güzelliğinden daha temel
+kanıttır.[^k1]
+
+## Dönüşüm ve ardıllık
+
+Moche siyasi merkezlerinin gerilemesi bütün kıyı nüfusunun ortadan kalkması
+değildir. Çevresel oynaklık, iç rekabet ve yeni bölgesel güçler birlikte yerleşim
+ve ritüel ağlarını değiştirmiş olabilir. “Çöküş” için farklı vadilerin aynı
+tarihte aynı sonucu yaşayıp yaşamadığı incelenmelidir.[^k1]
+
+İnka dönemiyle arasında yüzyıllar bulunur; sonraki And devletlerini doğrudan
+Moche’nin devamı saymak için yalnız coğrafi yakınlık yetmez. Sulama bilgisi,
+sanat tekniği ve yerel hafıza devam edebilirken siyasi kurumlar değişebilir.
+Moche örneğinin değeri, yazı yokluğunda geçmişin sessiz kalmadığını; nesne,
+beden, su sistemi ve yerleşimin farklı sorulara cevap veren arşivler olduğunu
+göstermesidir.[^k1]

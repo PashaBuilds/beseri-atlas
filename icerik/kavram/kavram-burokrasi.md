@@ -55,7 +55,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak, tarih bölümünü antik ve modern diye ikiye ayırır; antik başlığı altında
 antik Çin ile antik Roma'yı, modern başlığı altında İran, Rusya, Aşanti
 İmparatorluğu, Birleşik Krallık, Fransa ile sanayileşmiş ve küreselleşmiş dünyayı
@@ -63,11 +62,7 @@ ayrı alt başlıklarda tutar.[^k1]
 
 ## Kavramın adı modern, örnekleri değildir
 
-Kaynağın ilk bölümünü köken bilgisi ve kullanıma ayırması ve tarihi antikçağla
-başlatması,[^k1] korpusun şu kuralının dayanağıdır: bu korpusta bürokrasi terimi,
-antik dönem dosyalarında geriye dönük bir adlandırma olduğu belirtilerek
-kullanılır. Aynı sorun
-[Anakronizm](/kavram/anakronizm/) dosyasında ele alınıyor.
+Aynı sorun [Anakronizm](/kavram/anakronizm/) dosyasında ele alınıyor.
 
 ## Aşanti İmparatorluğu modern başlığı altındadır
 
@@ -81,17 +76,12 @@ Kaynak, kuramlar başlığı altında Karl Marx ve Leon Troçki gibi adları ayr
 başlıklar olarak tutar.[^k1] Bunlardan biri için tutulan ayrı kayıt, o düşünürü
 1818-1883 arasına yerleştirir.[^k2]
 
-Bir yönetim biçiminin kuramlarının kişi adlarıyla bölümlenmesi,[^k1][^k2] korpusun
-kavram dosyalarında neden düşünür bağlantısı tuttuğunun dayanağıdır; o düşünür
-[Karl Marx](/dusunur/marx/) dosyasında ele alınıyor.
-
 ## Kavramı kendi listesinde tutan yazar
 
 Kavramı kendi kayda değer fikirler listesinde tutan bir yazar için ayrı bir kayıt
 bulunur; aynı kayıt onu 1864-1920 arasına yerleştirir ve otoritenin üçlü
 sınıflandırmasını karizmatik, akılcı-yasal ve geleneksel olarak verir.[^k3] O
 yazar [Max Weber](/dusunur/weber/) dosyasında ele alınıyor.
-
 
 ## Altı ölçüt
 
@@ -122,9 +112,7 @@ tutma kapasitesinin sınırıdır.[^k3]
 En belirleyici ölçüt budur.[^k1] Görev soydan geçtiğinde, yetkinin
 kaynağı da kural olmaktan çıkar.
 
-Sınav düzenleri bu ölçütü karşılamak için
-kuruldu.[^k2] Korpusun Doğu Asya dosyalarında bu düzen
-kayıtlıdır.
+Sınav düzenleri bu ölçütü karşılamak için kuruldu.[^k2]
 
 İdari görevlerin soydan geçmemesi,
 hanedan verasetinden ayrı ve daha erken kurumsallaşabilen bir düzendir.[^k3]
@@ -134,9 +122,7 @@ hanedan verasetinden ayrı ve daha erken kurumsallaşabilen bir düzendir.[^k3]
 Bürokrasi kendi kendini denetlemez.[^k1] Bir dış denetim katmanı
 gerekir.
 
-Tarihsel düzenlerde bu, ikinci bir görevli kanalıyla
-sağlandı.[^k2] Korpusun birçok dosyasında aynı düzenleme
-kayıtlıdır.
+Tarihsel düzenlerde bu, ikinci bir görevli kanalıyla sağlandı.[^k2]
 
 Bir merkezin taşradan iki bağımsız
 kanaldan bilgi alması, denetim kapasitesinin ortak ölçüsüdür.[^k3]
@@ -149,10 +135,6 @@ kendi grup çıkarını geliştirir.
 Bu, kurumun kurulma amacına aykırı işleyebilir.[^k2] Kural,
 uygulanmaktan çok korunacak bir konum hâline
 gelebilir.
-
-Aynı bulgu korpusun askerî kadro
-dosyalarında da kayıtlıdır: bağımsız olsun diye kurulan bir kurum, bağımsızlığını
-kuranına karşı da kullanabilir.[^k3]
 
 ## Ölçek koşulu
 
@@ -189,7 +171,6 @@ cevabı verilir.
 Sonuç dereceli olarak kaydedilir.[^k3] Bir düzen bazı ölçütlerde
 bürokratik, bazılarında değildir.
 
-
 ## Yazının biçimi
 
 Bürokratik bir düzen kendi belge biçimlerini
@@ -199,6 +180,22 @@ parçasıdır.
 Bu biçimler sonraki okur için doğrudan bir
 kanıttır.[^k2] Standartlaşmış bir belge dizisi, arkasındaki kurumun
 düzenliliğini gösterir.[^k3]
+
+## Bürokrasi neyi mümkün kılar, neyi gizler?
+
+Bürokrasi, görevleri kişiden bağımsız makam, kural ve kayıtlar üzerinden sürdürme
+iddiasıdır.[^k1] Bu biçim geniş nüfusu vergilendirme, sayma ve hizmet ulaştırmada
+süreklilik sağlar; fakat otomatik olarak tarafsız veya verimli değildir. Formlar ve
+sınıflandırmalar yönetimin görebildiği dünyayı kurarken kayda uymayan kişileri
+görünmez bırakabilir. Yazılı usul keyfîliği sınırlayabilir, aynı zamanda ayrımcı
+kuralı daha düzenli uygulayabilir.
+
+Bir kurumu bürokratik saymak için memur sayısı yeterli değildir. Atamanın kişisel
+sadakate mi yeterliğe mi dayandığı, görevin geliri ile özel servetin ayrılıp ayrılmadığı,
+kararın kayda geçirilmesi ve itiraz yolunun bulunması incelenmelidir.[^k2] Aynı devlet
+içinde saray hanesi, yerel aracılar ve kural temelli daireler birlikte çalışabilir.
+Bürokrasi bu nedenle bütün yönetimin etiketi değil, belirli işlerin hangi usulle
+yürütüldüğünü karşılaştırma aracıdır.[^k3]
 
 ## Kanıtın ve kapsamın sınırı
 Kavramın tanımı, ülke ülke tarihler ve kuramların içeriği burada ayrı başlıklar

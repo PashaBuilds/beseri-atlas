@@ -52,20 +52,16 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
-Zulu Krallığı, on dokuzuncu yüzyıl başında Güney Afrika'nın doğu
-kesiminde kurulan ve yüzyıl sonunda ortadan kaldırılan devlettir.[^k1]
-Kuruluşu, korpusun ayrı bir dosyada kaydettiği büyük altüst oluş
-dönemiyle aynı yıllardadır.
+Zulu Krallığı, on dokuzuncu yüzyıl başında Güney Afrika'nın doğu kesiminde kurulan ve
+yüzyıl sonunda ortadan kaldırılan devlettir.[^k1]
 
 Krallık, yaş gruplarına dayanan sürekli birliklerle örgütlenmiş bir
 orduya sahipti.[^k2] Bu örgütlenme, bölgedeki askerî dengeyi
 değiştirdi ve kuruluş döneminin en çok anılan özelliği oldu.
 
-Bu incelemenin asıl konusu 1879'daki savaştır.[^k1] Krallık, bir Avrupa
-ordusunu ağır bir yenilgiye uğrattı ve altı ay içinde ilhak edildi.
+Krallık, bir Avrupa ordusunu ağır bir yenilgiye uğrattı ve altı ay içinde ilhak edildi.[^k1]
 
 ## Adva ile karşılaştırma
 
@@ -75,8 +71,7 @@ ordusunu yendi.[^k3]
 Sonuçlar zıttır.[^k1] Orada zafer tanınmış bağımsızlığa dönüştü; burada
 zaferden altı ay sonra krallık ortadan kalktı.
 
-Bu incelemenin sorusu farkın nereden geldiğidir.[^k2] Aynı tür bir askerî
-sonuç, iki bambaşka siyasi sonuç üretti.
+Aynı tür bir askerî sonuç, iki bambaşka siyasi sonuç üretti.
 
 ## Birinci fark: silah tedariki
 
@@ -114,10 +109,8 @@ bağlıdır.**
 
 ## Ölçümün genelleştirilmesi
 
-İfade, korpusun öteki dosyalarında ölçülen mekanizmalarla
-uyumludur.[^k3] Karluklar dosyasında sınır bölgelerindeki küçük
-birimlerin pazarlık kapasitesinin komşu sayısına bağlı olduğu
-kaydedilmişti.
+Karluklar dosyasında sınır bölgelerindeki küçük birimlerin pazarlık kapasitesinin komşu
+sayısına bağlı olduğu kaydedilmişti.
 
 Aynı yapı burada askerî sonuç için görülür.[^k1] Tek bir karşı tarafla
 karşı karşıya kalmak, kazanılan her muharebeyi geçici kılar.
@@ -193,9 +186,7 @@ en ağır kayıplardandır.
 Yenilgi, arazi ve istihbarat eksikliğinden kaynaklandı.[^k2] Ordunun
 konumu bilinmiyordu ve kamp savunmasız bırakılmıştı.
 
-Bu, korpusun Adva dosyasında ölçtüğü bilgi farkının aynısıdır.[^k3] Bir
-tarafın öteki hakkındaki bilgisi, askerî sonucun ölçülebilir bir
-bileşenidir.
+Bir tarafın öteki hakkındaki bilgisi, askerî sonucun ölçülebilir bir bileşenidir.
 
 ## Yenilginin sonucu
 
@@ -231,8 +222,6 @@ kurulmasını engellemekti.
 Sonuç, uzun süren iç çatışmalar oldu.[^k1] Bölgede istikrar, sonraki
 yirmi yıl boyunca kurulamadı.
 
-## Parçalamanın korpus için anlamı
-
 Bu bir yönetim aracıdır.[^k3] Bir siyasi birimi
 ortadan kaldırmanın iki yolu vardır: yerine geçmek ya da parçalamak.
 
@@ -250,9 +239,8 @@ oluşuyordu.[^k2] Birlikler akrabalık bağlarından bağımsız kuruluyordu.
 Bu, siyasi merkezileşmeyi doğrudan destekledi.[^k1] Merkez, yerel
 önderlere bağlı olmayan bir kuvvete sahip oldu.
 
-Aynı mekanizma korpusun Mfecane dosyasında da kaydedilmiştir.[^k3]
-Akrabalık dışı bir örgütlenme birimi kurmak, merkezin yerel önderlere
-bağımlılığını azaltır.
+Akrabalık dışı bir örgütlenme birimi kurmak, merkezin yerel önderlere bağımlılığını
+azaltır.
 
 ## Örgütlenmenin bedeli
 
@@ -271,24 +259,19 @@ düzenlemenin maliyetiyle birlikte değerlendirilmelidir.[^k3]
 Krallığın ekonomisi büyük ölçüde sığıra dayanıyordu.[^k2] Sığır hem
 zenginlik ölçüsü hem evlilik ödemesi hem siyasi bağ aracıydı.
 
-Merkez, sığır dağıtımı üzerinden bağlılık kuruyordu.[^k1] Bu, korpusun
-başka dosyalarında gelir tahsisi olarak ölçülen mekanizmanın bir
-biçimidir.
+Merkez, sığır dağıtımı üzerinden bağlılık kuruyordu.[^k1]
 
 Sistem bir kırılganlık taşır.[^k3] Sığır hastalıkları ve kuraklık,
 siyasi bağın kendisini doğrudan zayıflatır.
 
 ## Kaynak durumu
 
-Bu incelemenin üç künyesinden biri giriş kapısı, ikisi dönem
-tanıklığıdır.[^k1] Krallığın kendi kayıtları yazılı değildir.
+Krallığın kendi kayıtları yazılı değildir.
 
-Bilinenlerin önemli bölümü sözlü aktarımdan ve dışarıdan gelen
-gözlemcilerden gelir.[^k2] İkisi de korpusun kanıt dosyasında tanımlanan
-kısıtları taşır.
+Bilinenlerin önemli bölümü sözlü aktarımdan ve dışarıdan gelen gözlemcilerden
+gelir.[^k2]
 
-Eksik borç defterine yazılmıştır.[^k3] Sözlü aktarımın doğrulanabilir
-bir derlemesi bu inceleme yazıldığında bulunamamıştır.
+Eksik borç defterine yazılmıştır.[^k3]
 
 ## Kapsam dışı
 
@@ -298,8 +281,7 @@ dosya bulunmaktadır.
 Savaşın askerî ayrıntısı kapsam dışıdır.[^k2] Dosya yalnızca zaferin
 neden siyasi sonuca dönüşmediğine ilişkin olanı kaydeder.
 
-İlhak sonrası dönem ve yirminci yüzyıl işlenmez.[^k3] Ayrı dosyalar
-gerektirir ve bu inceleme yazıldığında korpusta bulunmuyorlardı.
+İlhak sonrası dönem ve yirminci yüzyıl işlenmez.[^k3]
 
 ## Kanıtın ve kapsamın sınırı
 Dosya, üç farkın tek başına belirleyici olduğunu ileri sürmez.[^k1] Üç
@@ -310,11 +292,6 @@ Karşılaştırma iki örnekle sınırlıdır.[^k3] İki örnekten kural
 
 Parçalama kararının gerekçesi hakkında hüküm verilmez.[^k2] Kararın
 sonucu kaydedilir; niyeti ayrıca sınanmalıdır.
-
-## Okumayı sürdürmek için
-Karşılaştırmanın öteki tarafı için
-[Adva Savaşı](/olay/adva-1896/) dosyası okunmalıdır; bu inceleme onsuz
-eksiktir ve ikisi birlikte tek bir soruyu kurar.[^k3]
 
 Krallığın kuruluş dönemi için [Mfecane](/olay/mfecane/), karşı taraf
 için [Britanya İmparatorluğu](/aktor/britanya-imparatorlugu/) dosyaları
@@ -327,3 +304,28 @@ okunabilir.[^k2]
 
 Sözlü aktarımın kaynak değeri için
 [Sözlü tarih](/kavram/sozlu-tarih/) dosyası okunmalıdır.[^k3]
+
+## Bir muharebe zaferi neden savaşı kazandırmadı?
+
+Isandlwana’daki Britanya yenilgisi Zulu ordusunun disiplin, hareket ve yerel
+arazi bilgisini etkili biçimde birleştirebildiğini gösterdi.[^k1][^k2] Ancak tek
+muharebenin sonucu iki tarafın uzun savaş kapasitesini eşitlemedi. Britanya daha
+fazla asker, silah ve ikmal getirip stratejisini değiştirebilirken Zulu Krallığı
+aynı kayıpları ve kaynak tüketimini kolayca yenileyemiyordu.
+
+Bu fark Adva karşılaştırmasını anlamlı kılar. Etiyopya, İtalyan ordusunu
+yenmesinin yanında daha geniş seferberlik, silah tedariki, diplomatik tanınma ve
+merkezî pazarlık kapasitesini sürdürebildi.[^k3] Zulu siyasal düzeninde ise hanedan
+ve yerel bağlılık ilişkileri savaş baskısı altında parçalanmaya daha açıktı.
+Zafer gereklidir, ama dış gücün yeniden saldırma kapasitesini ve yerli devletin
+koalisyonunu tek başına ortadan kaldırmaz.
+
+İlhak sonrası krallığın kurumları bir anda kaybolmadı. Hanedan otoritesi,
+yerel kimlik ve sözlü hafıza sömürge yönetimi içinde yeni biçimlerde yaşamaya
+devam etti. “Altı ayda yok edildi” ifadesi egemenlik kaybını özetler; toplumsal
+ve siyasal devamlılığın daha uzun tarihini açıklamaz. Askerî tarih, kurum ve
+hafıza tarihiyle birlikte okunmalıdır.[^k1]
+
+Bu ayrım, kısa askerî yenilginin uzun toplumsal tarihin tamamını belirlemediğini açıkça gösterir.
+
+Siyasal hafıza sonraki hak taleplerinde yeniden etkili oldu.

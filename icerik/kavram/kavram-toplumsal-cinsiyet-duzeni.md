@@ -50,7 +50,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Neden bir ölçüt
 
 Sorduğu soru dardır ve
@@ -167,15 +166,22 @@ bir nitelemeden daha kullanışlıdır.[^k2]
 
 ## Kavramın kendi sınırı
 
-Kavram, geçmiş düzenleri bugünkü ölçütle yargılamak için
-kullanılmaz.[^k1] Korpusun sorusu değerlendirme değil kayıt
-sorusudur.
+Kavram, geçmiş düzenleri bugünkü ölçütle yargılamak için kullanılmaz.[^k1]
 
 Kavram ayrıca tek bir dünya çapında düzen varsaymaz.[^k3] Ölçütler
 bölgeden bölgeye ve dönemden döneme belirgin biçimde değişir.
 
 Genel bir niteleme yerine, üç
 sorunun o düzendeki cevabı kaydedilir.[^k2]
+
+## Norm ile gündelik pratiği ayırmak
+
+Hukuk ve öğüt metinleri kadınlar ile erkeklerin nasıl davranması gerektiğini söyler;
+gerçekte nasıl yaşadıklarını doğrudan göstermez.[^k1] Mülkiyet, miras, emek,
+eğitim ve siyasal temsil kayıtları normun uygulamadaki sınırlarını ortaya çıkarır.
+Kaynaklarda daha az görünmek, tarihsel faaliyetin daha az olduğu anlamına gelmeyebilir;
+kaydı üreten kurumların kimi tanıdığı ve kimin emeğini görünmez bıraktığı ayrıca
+sorgulanmalıdır.[^k2]
 
 ## Okumayı sürdürmek için
 Hane ve soy düzeni için [Akrabalık](/kavram/akrabalik/), yetki devri

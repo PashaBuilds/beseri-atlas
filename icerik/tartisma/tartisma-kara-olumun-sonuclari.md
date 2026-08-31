@@ -166,7 +166,7 @@ kırılmakta olan bir dengenin çözülüşünü hızlandırmakla mı kaldı?[^k
 
 Sorunun ağırlığı bir karşılaştırmadan gelir. İlk salgın dalgasında Doğu
 Avrupa'daki ölüm düzeyinin Batı Avrupa'dakine benzer olduğu
-değerlendirilir;[^k1] tartışmayı açan gözlem ise Brenner'ın kaleminden gelir:
+değerlendirilir.[^k1] Tartışmayı açan gözlem Brenner'ın kaleminden gelir:
 izleyen bir buçuk yüzyılda batıda serflik çözüldü, doğuda o güne dek görece
 özgür yaşayan köylülük adım adım serfleştirildi.[^k5] Aynı şok iki zıt sonuca
 çıkabiliyorsa, sonucu açıklayan şeyin şokun kendisi olup olamayacağı sorusu

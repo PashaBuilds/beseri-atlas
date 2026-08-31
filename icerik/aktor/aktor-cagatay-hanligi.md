@@ -61,7 +61,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Çağatay Hanlığı, on üçüncü yüzyılda kurulan büyük bozkır
@@ -73,9 +72,7 @@ Bu bileşim, hanlığın bütün tarihini belirledi.[^k2] Bir yanda sulama
 tarımına ve şehir ticaretine dayanan bölgeler, öte yanda otlak
 ekonomisine dayanan bozkır vardı.
 
-Hanlık on dördüncü yüzyıl ortasında ikiye ayrıldı.[^k1] Bölünmenin nedeni
-ve bölünmeden sonra ayakta kalan meşruiyet kuralı, bu incelemenin asıl
-konusudur.
+Hanlık on dördüncü yüzyıl ortasında ikiye ayrıldı.[^k1]
 
 ## Ardıl devletler arasındaki yeri
 
@@ -87,8 +84,7 @@ geleneğine, doğudaki birim Çin'in yönetim geleneğine eklemlendi.
 bölgeleri ile bozkır bölgeleri arasındaki gerilim, tek bir yöne
 karar verilmesini engelledi.
 
-Sonuç bütünleşme değil bölünme oldu.[^k1] Korpus bu farkı ayrıca
-kaydeder: "Moğol ardıl devleti" tek bir kategori değildir.
+Sonuç bütünleşme değil bölünme oldu.[^k1]
 
 ## Bölünmenin hattı
 
@@ -102,10 +98,7 @@ uzun süre korundu.
 Ayrışmanın dinî boyutu da vardır.[^k1] İslamlaşma iki kanatta aynı
 zamanda ve aynı derinlikte gerçekleşmedi.
 
-## Bölünmenin korpus için anlamı
-
-Bir siyasi birimin ikiye ayrılması, çoğu zaman hanedan çekişmesine
-bağlanır.[^k4] Bu inceleme farklı bir sıralama önerir.
+Bir siyasi birimin ikiye ayrılması, çoğu zaman hanedan çekişmesine bağlanır.[^k4]
 
 Çekişme, ayrışmanın nedeni değil biçimidir.[^k2] Birbirinden farklı
 ekonomik temellere oturan iki bölgeyi tek merkezden yönetmenin maliyeti,
@@ -149,9 +142,7 @@ Kaynaklar, bazı dönemlerde şehirlerin bilinçli olarak zayıf
 tutulduğunu aktarır.[^k1] Güçlü bir şehir, göçebe yönetici kesim için
 denetlenmesi zor bir merkez anlamına gelirdi.
 
-Bu tercih uzun vadede geliri de düşürür.[^k2] Korpus gerilimi bir
-tutarsızlık değil, iki farklı ekonomik mantığın aynı devlet içinde
-bulunmasının sonucu olarak kaydeder.
+Bu tercih uzun vadede geliri de düşürür.[^k2]
 
 ## Bozkır ile yerleşik arasındaki seçim
 
@@ -212,9 +203,7 @@ Soy şartını tanımak, aynı geleneği paylaşan bütün bölgelerde
 tanınabilirlik sağlıyordu.[^k4] Kuralı çiğnemek, o tanınırlığı
 kaybetmek anlamına gelirdi.
 
-Bu, kuralı bir kısıt olduğu kadar bir kaynak yapar.[^k2] Korpus iki
-işlevi birlikte kaydeder; bir kurala uymanın maliyeti ile getirisi ayrı
-ayrı ölçülmelidir.
+Bu, kuralı bir kısıt olduğu kadar bir kaynak yapar.[^k2]
 
 ## Yerleşik bölgelerle ilişki
 
@@ -226,9 +215,8 @@ Göçebe yönetici kesim ile yerleşik üretici kesim arasındaki ilişki
 gerilimliydi.[^k1] Vergi düzeni, otlak kullanımı ve şehirlerin
 korunması sürekli tartışma konusuydu.
 
-Gerilim, korpusun bozkır dosyasında tanımlanan genel örüntünün bir
-örneğidir.[^k2] Bozkır düzenleri yerleşik bölgeleri fethedebilir ama
-onları yönetmek için farklı bir aygıt kurmak zorundadır.
+Bozkır düzenleri yerleşik bölgeleri fethedebilir ama onları yönetmek için farklı bir
+aygıt kurmak zorundadır.
 
 ## İslamlaşma
 
@@ -271,15 +259,11 @@ paylaşmıyordu.
 
 ## Kaynak durumu
 
-Bu incelemenin dört künyesinin üçü ansiklopedi maddesidir.[^k1] Birincil
-kaynak künyelenememiştir.
+Birincil kaynak künyelenememiştir.
 
-Dönemin birincil kaynakları mevcuttur.[^k4] Farsça ve Arapça
-tarih metinlerinin doğrulanabilir çevrimiçi baskıları bu inceleme
-yazıldığında bulunamamıştır.
+Dönemin birincil kaynakları mevcuttur.[^k4]
 
-Eksik, korpusun borç defterine yazılmıştır.[^k2] Dosya, birincil kaynağı
-olmayan makaleler grubundadır.
+Dosya, birincil kaynağı olmayan makaleler grubundadır.
 
 ## Kapsam dışı
 
@@ -290,8 +274,7 @@ Askerî seferlerin ayrıntısı da kapsam dışıdır.[^k3] Dosya yalnızca
 bölünmeye ve meşruiyet kuralına ilişkin olanı kaydeder; seferlerin
 güzergâhı, süresi ve sonuçları ayrı bir çalışma gerektirir.
 
-Doğu kanadının sonraki yüzyıllardaki tarihi ayrı bir dosya
-gerektirir.[^k4] Bu inceleme yazıldığında korpusta bulunmuyordu.
+Doğu kanadının sonraki yüzyıllardaki tarihi ayrı bir dosya gerektirir.[^k4]
 
 ## Kanıtın ve kapsamın sınırı
 Dosya bölünmenin tek nedene bağlanabileceğini ileri sürmez.[^k2]
@@ -326,3 +309,22 @@ okunabilir.[^k2]
 
 Dönemin bölgeden yazılmış derleme metni için
 [Câmiu't-Tevârîh](/kaynak/camiut-tevarih/) dosyası okunmalıdır.[^k4]
+
+## Moğol meşruiyeti ile yerleşik yönetimin birleşmesi
+
+Çağatay ulusu, Cengiz Han soyuna dayanan hükümdarlık iddiasını korurken
+Mâverâünnehir’in şehirli, tarımsal ve İslamî kurumlarıyla birlikte yaşamak
+zorundaydı.[^k1][^k2] Hanedan unvanı bozkır seçkinlerine meşruiyet sağlıyor;
+vergi, yazışma ve kent yönetimi ise yerleşik uzmanlık gerektiriyordu. Bu iki
+katman birbirinin yerine geçmedi, siyasal düzenin farklı işlerini üstlendi.
+
+Doğu ve batı kollarına ayrılma yalnız haritadaki bölünme değildir. Otlak ile
+şehir ekonomisinin ağırlığı, boylar arası ittifaklar ve ticaret güzergâhları
+farklı siyasal merkezler üretti.[^k1][^k4] Timur’un Cengiz soyundan gelmediği
+halde hanlık meşruiyetini dolaylı biçimde kullanması, kurucu hanedan kuralının
+fiilî güç el değiştirdikten sonra bile değer taşıdığını gösterir.[^k3]
+
+Bu süreklilik, unvanın yalnız törensel değil, rakip seçkinler arasında kabul
+edilebilir hükümdarlık kurmanın gerçek bir siyasal kaynağı olduğunu açıklar.
+
+Meşruiyet dili, askerî güç kadar koalisyon kurma kapasitesi sağladı.

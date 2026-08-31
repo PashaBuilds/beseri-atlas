@@ -79,7 +79,6 @@ son_denetim: 2026-08-29
 denetim_durumu: onaylandi
 onarim_turu: 1
 ---
-
 Kölelik sözcüğü tek bir düzeni değil, birbirine benzemeyen bir düzenler
 kümesini toplar: satılabilen ve miras bırakılabilen insanların düzeni de,
 borcunu hizmetiyle ödemeye bağlanmış kişinin durumu da, toprağa bağlı
@@ -147,15 +146,11 @@ Roma'ya ya da on yedinci yüzyıl Karayipleri'ne uygulandıklarında geriye dön
 
 ## İkinci bir tanım: toplumsal ölüm
 
-Toplumbilim aynı olguyu mülkiyetten değil aidiyetten okur. Orlando
-Patterson'ın köleliği *toplumsal ölüm* olarak kuran çözümlemesi, köle ile hür
-arasında keskin bir statü ayrımı olduğunu savunur — bu inceleme Patterson'ı
-kendi kitabından değil, onu tartışan Benedetta Rossi'nin 2021 tarihli makale
-özetinden okuyor. Rossi bu ayrımı genel hatlarıyla benimserken seçkin
-köleleri "nihai köleler" sayan yorumu reddeder ve eğretilemenin bazı bağlamlara diğerlerinden daha iyi
-oturduğunu, köleleştirilmiş insanların tarihsel çeşitliliğini doğru
-yakalamadığını, dolayısıyla karşılaştırmalı genelleme için elverişsiz
-olduğunu ileri sürer.[^k5]
+Toplumbilim aynı olguyu mülkiyetten değil aidiyetten okur. Rossi bu ayrımı genel
+hatlarıyla benimserken seçkin köleleri "nihai köleler" sayan yorumu reddeder ve
+eğretilemenin bazı bağlamlara diğerlerinden daha iyi oturduğunu, köleleştirilmiş
+insanların tarihsel çeşitliliğini doğru yakalamadığını, dolayısıyla karşılaştırmalı
+genelleme için elverişsiz olduğunu ileri sürer.[^k5]
 
 Aidiyetin nasıl koparıldığı birinci ağızdan anlatılarda görünür. Frederick
 Douglass 1845 tarihli anlatısında köle kadınların çocuklarının "her durumda
@@ -196,15 +191,11 @@ Biçimleri Çalışma Grubu, başlığı kadın sünneti, namus cinayetleri ve s
 çocukları gibi konuları kapsayacak biçimde genişletti; sonuçta diplomasi
 dili 1926 ve 1956 sözleşmelerinin hukuki sınırlarını fiilen gölgeledi.[^k1]
 
-Üçüncü sınır sayılardadır. Anne Gallagher 2017'de Küresel Kölelik
-Endeksi'nin üç bileşenini de inceleyip yöntem ve uygulama kalitesi
-hakkında ön bulgular ortaya koydu; ayrıca endekse yönelik eleştirel ilginin
-göze çarpacak kadar az olduğunu ve ölçüm odaklı hayırseverliğin sorunu
-tanımlama ile müdahaleyi yönlendirmedeki payının büyüdüğünü yazdı.[^k6] Korpus bu yüzden
-dolaşımdaki modern kölelik tahminlerini tek bir sayıya indirmiyor; sayıların
-nasıl okunacağı
-[Tarihsel sayılar nasıl okunur](/tartisma/tarihsel-sayilar-nasil-okunur/)
-dosyasında ele alınıyor.
+Üçüncü sınır sayılardadır. Anne Gallagher 2017'de Küresel Kölelik Endeksi'nin üç
+bileşenini de inceleyip yöntem ve uygulama kalitesi hakkında ön bulgular ortaya koydu;
+ayrıca endekse yönelik eleştirel ilginin göze çarpacak kadar az olduğunu ve ölçüm odaklı
+hayırseverliğin sorunu tanımlama ile müdahaleyi yönlendirmedeki payının büyüdüğünü
+yazdı.[^k6]
 
 ::tartismali[Hukuki tanım ile toplumbilimsel tanım aynı olguyu farklı ölçer; ikisi burada birbirine indirgenmeden yan yana tutulur.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 

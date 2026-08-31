@@ -1,769 +1,775 @@
 {
- "id": "olay-yedi-yil-savasi",
- "govde_hash": "1a1ab2165462",
- "commit": "5373c66",
- "zaman": "2026-08-29",
- "hakem": "kor-hakem-2026-08-29",
- "iddialar": [
-  {
-   "iddia_id": "i001",
-   "cumle": "Başlıca taraflar bir yanda Britanya ile Prusya, öteki yanda Fransa ile Avusturya'ydı; Portekiz, İspanya, İsveç, Rusya ve Kutsal Roma İmparatorluğu'nun Saksonya dahil pek çok küçük devleti bu iki koalisyona katıldı.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
+  "id": "olay-yedi-yil-savasi",
+  "govde_hash": "73061d07c46a",
+  "commit": "889239af",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
     {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i002",
-   "cumle": "Çarpışma Avrupa'nın yanı sıra Kuzey Amerika, Karayipler, Batı Afrika, Hindistan, Filipinler ve Güney Amerika'ya yayıldı.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Kaynak Guney Amerika'yi ayri bir bolum olarak isler (Rio Negro, Mato Grosso, Banda Oriental); onceki surumdeki \"Guney Amerika sularina\" ifadesi kara seferlerini su savasina cevirdigi icin hakem tarafindan duzeltildi."
-  },
-  {
-   "iddia_id": "i003",
-   "cumle": "10 Şubat 1763'te Paris'te Britanya, Fransa ve İspanya imza attı; Portekiz kralı aynı gün katıldı ve ayrı maddelerden biri onun metni imzalamadığını, buna karşın imzalamış gibi taraf sayıldığını yazar.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Antlasmanin baslik satiri Portekiz kralinin ayni gun KATILDIGINI soyler; ayri maddelerden III. ise onun kesin antlasmayi imzalamadigini ama taraf sayildigini yazar. Imza satirinda uc imza vardir: Bedford, Choiseul/Praslin, Grimaldi. Onceki surumdeki \"Portekiz imza atti\" ifadesi hakem tarafindan duzeltildi."
-  },
-  {
-   "iddia_id": "i051",
-   "cumle": "Aynı metnin on beşinci maddesi Britanya ile Fransa'ya, Almanya'da savaşı sürdüren müttefiklerine hiçbir türden yardım göndermeme sözü verdiriyordu — yani Paris, Almanya'daki savaşı bitirmiyordu.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "XV. madde birebir: \"not to furnish any succours of any kind to their respective allies who shall continue engaged in the war in Germany\". Cikarim maddenin lafzindan okunur."
-  },
-  {
-   "iddia_id": "i004",
-   "cumle": "Onu beş gün sonra imzalanan ayrı bir antlaşma bitirdi ve haritayı 1748'e geri döndürdü.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i005",
-   "cumle": "Avusturya Veraset Savaşı'nı bitiren 1748 Aix-la-Chapelle Antlaşması'ndan hiçbir imzacı memnun kalmamıştı ve metin genel olarak geçici bir ateşkes sayıldı.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i006",
-   "cumle": "Wenzel Anton Kaunitz, 24 Mart 1749'da Maria Theresia'ya sunduğu görüşünde Prusya kralını \"doğal düşmanlar\" sınıfının başına, Osmanlı'nın da önüne yerleştirir ve onu hanedanın en kötü ve en tehlikeli komşusu diye niteler.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Kaunitz metninin kendi sirasi: Prusya krali \"dogal dusmanlar\" sinifinin basina, Osmanli Portesinin de onune konur."
-  },
-  {
-   "iddia_id": "i007",
-   "cumle": "Silezya için kullandığı görüntü, kaybın Viyana'da nasıl ölçüldüğünü anlatır: kopan şey yabancı bir uzuv değil, gövdenin bir parçasıdır.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i008",
-   "cumle": "İngiltere tacını \"doğal dostlar\" sınıfında ve hepsinin başında sayar, ama Silezya'yı geri almak söz konusu olduğunda o taçtan ciddi bir yardım umulamayacağını yazar; ona göre büyük amacın gerçekleşmesi ancak Fransa'nın ikna edilmesiyle mümkündür.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "GHDI cevirisi \"the Crown of England\" / \"that Crown\" der; onceki surumdeki \"Britanya\" hakem tarafindan kaynagin sozcugune cekildi."
-  },
-  {
-   "iddia_id": "i009",
-   "cumle": "Yine de metin bir kehanet olarak okunmamalıdır: Kaunitz görüşünü açık bir çekinceyle açar — Avrupa saraylarını doğru mu yanlış mı kavradığını kendisi de bilmemektedir — ve umut tehlikeyi açıkça aşmadıkça saldırı önlemi alınmamasını salık verir.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Kaynagin kendi cekincesi metne tasindi: Kaunitz kavrayisinin dogru mu yanlis mi oldugunu bilmedigini yaziyor ve saldiri onlemini kosula bagliyor."
-  },
-  {
-   "iddia_id": "i010",
-   "cumle": "Kutsal Roma İmparatorluğu'ndaki çekişmenin merkezinde Avusturya'nın Silezya'yı geri alma girişimi durur.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i011",
-   "cumle": "Kuzey Amerika'da Britanya ile Fransa'nın toprakları arasındaki sınır 1750'lerde büyük ölçüde belirsizdi; Fransızların Ohio vadisinde kale zinciri kurmasına karşı gönderilen Virginia milisleri, George Washington komutasında 28 Mayıs 1754'te Jumonville Glen'de küçük bir Fransız birliğine baskın yaptı ve komutanı dahil on kişiyi öldürdü.",
-   "onem": "merkezi",
-   "tur": "tarih",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i012",
-   "cumle": "Fransızlar aynı yılın 3 Temmuz'unda Fort Necessity'de karşılık verdi ve Washington teslim oldu; bunlar, sonradan dünya ölçeğine yayılacak savaşın ilk çarpışmalarıydı.",
-   "onem": "destek",
-   "tur": "tarih",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i013",
-   "cumle": "Britanya donanması 1755 Ağustos'undan itibaren Fransız gemiciliğini taciz etti; iki ülke sözde barış hâlindeyken yüzlerce gemiye ve binlerce ticaret gemicisine el konuldu.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i014",
-   "cumle": "Aynı çatışmanın parçaları Üçüncü Silezya Savaşı, Fransız ve Kızılderili Savaşı, Üçüncü Karnatik Savaşı, İspanyol-Portekiz Savaşı (Fantastik Savaş) ve 1762-1763 İngiliz-İspanyol Savaşı adlarıyla ayrı ayrı anılır.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Kaynagin giris listesi bes catisma sayar ve besincisini \"Spanish-Portuguese War\" diye adlandirir; onceki surum bu ogeyi yalniz \"Fantastik Savas\" diye veriyordu. Iki ad da kaynakta gecer, hakem ikisini birlikte yazdi."
-  },
-  {
-   "iddia_id": "i015",
-   "cumle": "28 Kasım 1757'de bakanı Finckenstein'a yazdığı askerî vasiyette, muharebenin talihi iyi de kötü de çıksa generallerine gerekli emirleri verdiğini söyler, Sanssouci'de gösterişsiz ve gece gömülmeyi ister ve muharebe kazanılsa bile kardeşinin Fransa'ya tam yetkiyle bir barış habercisi göndermesini şart koşar.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k5",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i016",
-   "cumle": "Beş gün sonra subaylarına yaptığı konuşmada, kurallara aykırı biçimde neredeyse iki kat güçlü ve yüksekte mevzilenmiş bir düşmana saldıracağını söyler ve başka türlü düşünen varsa hiçbir sitem görmeden ayrılabileceğini bildirir.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k5",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i017",
-   "cumle": "Bu ikinci metin doğrudan Friedrich'in kaleminden gelmez: belgeyi yayımlayan kurum, konuşmanın 1802 tarihli bir yayına dayandığını ve Friedrich'in söyleyişine ve zihniyetine uygun düştüğünü belirtir; metnin kendisi de dinleyicilerin tepkisini \"bize anlatıldığına göre\" kaydıyla aktarır.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k5",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "GHDI kunyesi konusmanin 1802 tarihli bir yayina dayandigini ve Friedrichin uslubuna \"uygun\" oldugunu soyler; metnin ici de \"bize anlatildigina gore\" kaydini tasir. Bu cekince metne aynen tasindi."
-  },
-  {
-   "iddia_id": "i018",
-   "cumle": "Prusya sefere yaklaşık 100.000 askerle başlamıştı ve bunların çoğu yeni acemiydi; yılın sonunda Ruslar Kolberg'i, Avusturyalılar Schweidnitz'i aldı ve Kolberg'in düşmesi Prusya'nın Baltık'taki son limanını götürdü.",
-   "onem": "destek",
-   "tur": "sayi",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Kaynak 100.000 rakamini \"cogu yeni acemi\" kaydiyla verir; kayit metne tasindi."
-  },
-  {
-   "iddia_id": "i019",
-   "cumle": "Britanya, Friedrich barışı sağlayacak ödünleri düşünmezse para yardımını kesmekle tehdit ediyordu; Prusya orduları o sırada 60.000 kişiye inmişti.",
-   "onem": "destek",
-   "tur": "sayi",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Britanya tehdidi kaynakta kosulludur (Friedrich odun dusunmezse); kosul metne tasindi."
-  },
-  {
-   "iddia_id": "i020",
-   "cumle": "5 Ocak 1762'de Rus İmparatoriçesi Elizaveta öldü; Prusya yanlısı halefi Üçüncü Pyotr Doğu Prusya ile Pomeranya'nın işgaline hemen son verdi, İsveç ile ateşkese aracılık etti ve Friedrich 120.000 kişilik bir orduyu Avusturya'ya yöneltebildi.",
-   "onem": "merkezi",
-   "tur": "tarih",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i021",
-   "cumle": "Bir okuma Friedrich'in kişisel enerjisini ve askerî dehasını öne çıkarır; kaynağın kendi uyarısı, Rusya'nın çekilmesinden ve Britanya'nın mali desteğinden gelen borcun kısa sürede unutulduğu yönündedir.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Kaynak Friedrichin itibarinin buyudugunu ve talihe ile Britanya mali destegine olan borcun kisa surede unutuldugunu soyler; bunu \"bir okuma\" diye cerceveleme yazarindir."
-  },
-  {
-   "iddia_id": "i022",
-   "cumle": "Öteki okuma, Hohenzollern hanedanının kurtuluşunu Prusya'nın savaş meydanındaki gücünden çok Rusya'nın lojistik zayıflığına bağlar — Ruslar birçok kez kazandı ama kazandıklarını kalıcı bir sonuca çeviremedi.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i023",
-   "cumle": "Avrupa cephesini kapatan antlaşma 15 Şubat 1763'te imzalandı ve haritayı sadece 1748'in durumuna geri döndürdü: Silezya ve Glatz Friedrich'te kaldı, Saksonya kendi seçici prensine döndü.",
-   "onem": "merkezi",
-   "tur": "tarih",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i024",
-   "cumle": "Prusya'nın Avusturya'ya verdiği tek ödün, Arşidük Joseph'in imparator seçilmesine razı olmaktı; Avusturya ne Silezya'yı geri alabildi ne de kayda değer bir toprak kazandı.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i025",
-   "cumle": "Dördüncü maddeyle Fransa, Nova Scotia ya da Acadia üzerindeki bütün iddialarından vazgeçti ve Kanada'yı Cape Breton adasıyla birlikte Britanya'ya devretti; yedinci madde ise iki devletin Amerika kıtasındaki sınırını Mississippi'nin ortasından geçen bir çizgiye bağladı, New Orleans kasabası ile üzerinde bulunduğu adayı Fransa'ya bıraktı ve nehrin bütün boyunca iki tarafın gemilerine serbest ve resimsiz geçiş tanıdı.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i026",
-   "cumle": "Britanya'nın Kanada'da Katolik ibadetine tanıdığı serbestlik ise koşulsuz değildir: metin bunu \"Britanya yasalarının izin verdiği ölçüde\" kaydıyla sınırlar ve aynı kayıt, İspanya'dan alınan Florida için de tekrarlanır.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Sinirlayici yan cumle (\"Britanya yasalarinin izin verdigi olcude\") antlasmada IV. ve XX. maddede aynen tekrarlanir."
-  },
-  {
-   "iddia_id": "i027",
-   "cumle": "Britanya Guadeloupe, Marie-Galante, Désirade, Martinique ve Belle-Île'i Fransa'ya iade etti, buna karşılık Grenada ile Grenadinleri aldı; tarafsız sayılan adalar bölüşüldü — St. Vincent, Dominika ve Tobago Britanya'ya, St. Lucia Fransa'ya.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "VIII. ve IX. maddeler. IX. madde bolusumu ad ad sayar; onceki surum Britanya'ya gecen uc adayi (St. Vincent, Dominica, Tobago) dusurmustu, hakem geri koydu. Ayrica Grenada ve Grenadinler \"Britanya'da kalmadi\", Fransa tarafindan devredildi."
-  },
-  {
-   "iddia_id": "i028",
-   "cumle": "Batı Afrika'da Gorée Fransa'ya geri verilirken Senegal nehri, St. Louis, Podor ve Galam kaleleriyle birlikte Britanya'ya geçti.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i029",
-   "cumle": "Kaynağın okuması, Fransa'nın Yeni Fransa ile Karayip şeker adaları arasında seçim yapmak zorunda kaldığında adaları tuttuğu ve Yeni Fransa'yı verimsiz, masraflı bir toprak sayarak gözden çıkardığı yönündedir.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Kaynagin kendi okumasi olarak veriliyor; Fransanin tercihine dair bir niyet iddiasi oldugu icin guven orta."
-  },
-  {
-   "iddia_id": "i030",
-   "cumle": "Hindistan'da metin, Fransa'nın 1749 yılı başında elinde bulunan ticaret merkezlerini bulundukları hâlleriyle iade etti, Fransa'nın o tarihten sonra Koromandel ve Orissa kıyısında elde ettiklerinden vazgeçmesini şart koştu ve Fransa'ya Bengal subahının topraklarında istihkâm kurmama ve asker bulundurmama yükümlülüğü getirdi.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "XI. madde \"in the condition they are now in\" der: 1749 yili basi HANGI merkezlerin iade edilecegini belirler, merkezlerin DURUMUNU degil. Onceki surumdeki \"1749 yili basindaki durumuyla\" cevirisi maddenin anlamini tersine ceviriyordu; hakem duzeltti."
-  },
-  {
-   "iddia_id": "i031",
-   "cumle": "7 Ekim 1763 tarihli Kraliyet Bildirisi, antlaşmayla elde edilen yerlerde Quebec, Doğu Florida, Batı Florida ve Grenada adlı dört ayrı yönetim kurdu ve savaşta hizmet etmiş subay ve erlere ücretsiz toprak bağışladı: üst rütbeli bir subaya 5.000 akre, bir ere elli akre — on yıl sonra öteki topraklarla aynı kira yükümlülüğüne ve aynı ekip biçme koşuluna bağlı olmak üzere.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k2",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Bagis miktarlari bildiride akre olarak yazilidir ve bu dosyada birime dokunulmadi; on yillik kira muafiyeti ve ekip bicme kosulu da metnin kendi kaydidir."
-  },
-  {
-   "iddia_id": "i032",
-   "cumle": "Aynı metin, kendisine devredilmemiş ya da satın alınmamış toprakların yerli halklara ayrıldığını ilan etti, buralarda önceden özel izin ve ruhsat alınmadıkça her türlü satın alma ve yerleşimi kralın hoşnutsuzluğu tehdidiyle yasakladı ve yerlilerden toprak alımını yalnızca taç adına, valinin çağıracağı açık bir toplantıda yapılabilir kıldı.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k2",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Yasak mutlak degildir: bildiri \"onceden ozel izin ve ruhsat alinmadikca\" kaydini tasir ve bu kayit metne gecirildi."
-  },
-  {
-   "iddia_id": "i033",
-   "cumle": "Yasağın kalıcı olduğu söylenmedi: metin bunu \"şimdilik ve bizim başkaca dileğimiz bilininceye kadar\" kaydıyla verir.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k2",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i034",
-   "cumle": "Savaş sırasında iç vergiler önemli ölçüde artmış ve toplam devlet borcu neredeyse ikiye katlanmıştı; Britanya 1763'te Kuzey Amerika'da 10.000 kişilik daimî bir kuvvet bulundurmaya karar verdi ve bu kuvvetin ağırlığı yeni kazanılan topraklara yerleştirildi.",
-   "onem": "merkezi",
-   "tur": "sayi",
-   "kaynaklar": [
-    {
-     "anahtar": "k7",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "EH.Net maddesi borcun neredeyse ikiye katlandigini Brewer (1989) atfiyla soyler; oran maddede yazilidir, bu dosyada bagimsiz hesaplanmadi."
-  },
-  {
-   "iddia_id": "i035",
-   "cumle": "Yükün bir bölümünün sömürgelere aktarılması kararı 1764 tarihli Şeker Yasası'nın giriş bölümünde açıkça yazılıdır: metin, Majestelerinin Amerika'daki topraklarının \"barışla mutlu biçimde genişlemiş\" olduğunu söyler ve oraları savunma, koruma ve güvenlik altında tutma giderlerini karşılamak üzere oralardan bir gelir sağlanmasını adil ve gerekli sayar.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k3",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Giris bolumu gerekceyi de yazar: \"for defraying the expences of defending, protecting, and securing the same\". Onceki surum bu amaci dusurmustu; hakem geri koydu."
-  },
-  {
-   "iddia_id": "i036",
-   "cumle": "Kullanılan iktisat tarihi maddesi, kopuşu tek bir vergi kararına değil iki ayrı siyaset değişikliğine bağlar: batıdaki toprak siyaseti ile vergi siyaseti.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k7",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i037",
-   "cumle": "Dahası sömürgelilerin kendileri 1774'te Parlamento'dan on üç yasanın geri alınmasını isterken listeyi 1763 sonrasıyla sınırladılar ve savaşın bitiminden önceki Britanya siyasetini tartışmamayı kararlaştırdılar; Seyrüsefer Yasaları'na dayanan ticaret düzenlemesini itiraz listesine hiç almadılar.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k7",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i038",
-   "cumle": "Bu savaşa \"ilk dünya savaşı\" denmesi yaygındır ve akademik yazında da dolaşır: Brill'in 2012'de yayımladığı The Seven Years' War derlemesinin ilk yirmi bir sayfasını kaplayan bölümünde Jürgen Luh tam olarak bu adı kullanır — ama \"dünya\" sözcüğünü tırnak içine alarak.",
-   "onem": "merkezi",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k9",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Kaydin container-title alani \"The Seven Years' War\"; alt baslik \"Global Views\" bu kayitta GECMEZ ve hakem tarafindan hem govdeden hem kunyeden cikarildi. Sayfa araligi 1-21. Kayitta abstract alani yoktur; bolumun ic savina dair iddia kurulmadi ve onceki surumdeki \"tirnak, nitelemenin sorun olarak ele alindigini gosterir\" cumlesi ustveriden okunamayacagi icin duzeltildi."
-  },
-  {
-   "iddia_id": "i039",
-   "cumle": "Nitelemeyi destekleyen yan ölçülebilir: çarpışma Avrupa, Kuzey Amerika, Karayipler, Güney Amerika, Batı Afrika, Hindistan ve Filipinler'e yayılmıştı.",
-   "onem": "destek",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i040",
-   "cumle": "Kaynağın saydığı dört tarafsız devletin ikisi Avrupa dışındadır: kaynağın dönemin başlıca Avrupa güçlerinden biri saydığı Osmanlı Devleti savaşa girmedi ve Friedrich'in Sultan Üçüncü Mustafa'ya yıllarca sürdürdüğü diplomatik girişimler sonuç vermedi; Zend hanedanı altındaki İran da girmedi.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Kaynak Osmanli icin \"one of the major European powers\" der, Iran icin boyle bir niteleme yoktur; onceki surumdeki \"donemin en buyuk devletlerinden ikisi\" ve \"tamamen disinda kaldi\" ifadeleri hakem tarafindan kaynagin gucune indirildi. Kaynagin tarafsizlar bolumu dort devlet sayar (Osmanli, Iran, Hollanda Cumhuriyeti, Danimarka-Norvec)."
-  },
-  {
-   "iddia_id": "i052",
-   "cumle": "Kaynak Osmanlı'nın uzak duruşunu mutlak da saymaz: 1763'te 100.000 askerle giriştiği başarısız Macaristan seferini savaşın sonuna katkıda bulunmuş sayar.",
-   "onem": "destek",
-   "tur": "sayi",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Kaynagin kendi cekincesi, hakem tarafindan metne tasindi: \"the Ottoman Empire would launch an abortive invasion of Hungary with 100,000 troops in 1763, contributing to the end of the war\". Kaynak bu cumleyi tek dipnotla verir; guven orta."
-  },
-  {
-   "iddia_id": "i041",
-   "cumle": "Üstelik Paris Antlaşması, kendi temeli olarak 1648 Vestfalya'dan 1750 Madrid'e uzanan bir antlaşma dizisini — Nimeguen, Ryswick, Utrecht, Baden, Viyana ve Aix-la-Chapelle dahil — tek tek sayarak yeniler: kapanış, bir Avrupa antlaşma düzeninin onarımıdır.",
-   "onem": "merkezi",
-   "tur": "olgu",
-   "kaynaklar": [
-    {
-     "anahtar": "k1",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "II. madde on ucten fazla antlasmayi ad ad sayar (Vestfalya 1648, Madrid 1661/1670, Nimeguen 1678/1679, Ryswick 1697, Utrecht 1713, Baden 1714, Lahey 1717, Londra 1718, Viyana 1738, Aix-la-Chapelle 1748, Madrid 1750 ve Ispanya-Portekiz antlasmalari). Onceki surum ucunu veriyordu; hakem dizinin uzunlugunu beyan etti."
-  },
-  {
-   "iddia_id": "i042",
-   "cumle": "1759'da yayımlanan Candide'de Voltaire'in kişisi Martin, iki ulusun Kanada'da \"birkaç akre kar\" için savaştığını ve bu güzel savaşa Kanada'nın değerinden çok daha fazlasını harcadıklarını söyler.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k6",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Soz Voltairein kendi agzindan degil, romanin kisisi Martinindir; metinde de boyle veriliyor."
-  },
-  {
-   "iddia_id": "i043",
-   "cumle": "Aynı bölümde Portsmouth'ta gözleri bağlı kurşuna dizilen amirali görürler ve bunun sebebi olarak, bu ülkede zaman zaman bir amiral öldürmenin ötekileri yüreklendirdiği söylenir; baskının editör notu, öldürülenin Amiral Byng olduğunu ve 14 Mart 1757'de kurşuna dizildiğini belirtir.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k6",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Amiral Byngin adi ve 14 Mart 1757 tarihi Voltairein metninde degil, bu Gutenberg baskisinin editor notundadir; ayrim metinde soyleniyor."
-  },
-  {
-   "iddia_id": "i044",
-   "cumle": "Aynı editör Voltaire'in bu yargısını tuhaf biçimde beceriksiz bir eleştiri sayar ve Voltaire'in aynı sözü Anılar'ında da tekrarladığını kaydeder — yani karlı toprak alayı hiç değilse bu 1918 baskısının editörü için tartışmalı bir yargıydı; itiraz çağdaş değil, sonraki bir okurunundur.",
-   "onem": "destek",
-   "tur": "aktarim",
-   "kaynaklar": [
-    {
-     "anahtar": "k6",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Not [31] bu 1918 baskisinin editorunundir, Voltaire'in cagdasi degildir. Onceki surumdeki \"yazildigi andan beri tartismali\" ifadesi editorun yargisini cagdas bir itiraza cevirdigi icin hakem tarafindan duzeltildi; paragrafin \"cagdaslar da savasi bir dunya savasi gibi gormuyordu\" acilisi da tek romandan genelleme yaptigi icin geri cekildi."
-  },
-  {
-   "iddia_id": "i045",
-   "cumle": "Giriş kapısı olarak kullanılan kaynak Prusya için 180.000, Britanya için 160.000, Fransa için 200.000, Avusturya için 165.000, Rusya için 120.000, İspanya için 29.000'den çok ve İsveç için 28.000 ölü verir; ama Rusya satırının kendi notu, bu 120.000'in hastalık ölümlerini de kapsayan bir toplam olduğunu, aynı yerde anılan ikinci hesabın ise 60.000 ölü ve yaralı verdiğini ve hastalık için hiç sayı vermediğini söyler.",
-   "onem": "merkezi",
-   "tur": "sayi",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Rakamlar kaynagin kendi kutusundan birebir alindi ve hakem tarafindan tek tek dogrulandi. Onceki surum ayni tablodaki Ispanya (29.000+) ve Isvec (28.000) satirlarini dusuruyordu; hakem geri koydu. Tablonun besleyicileri Danley (2012) ve Uralanis (1960) olup ayni seyi olcmezler; uyusmazlik metinde. Sayilar bu dosyada bagimsiz olarak dogrulanmadi."
-  },
-  {
-   "iddia_id": "i046",
-   "cumle": "Britanya rakamı da yalnız Britanya'yı saymaz: Hannover, Hessen-Kassel, Braunschweig-Wolfenbüttel ve Schaumburg-Lippe gibi küçük Alman ordularının ölülerini içerir; Avusturya rakamı da bileşiktir, aynı tablonun notu 165.000'in 140.000'ini Habsburg monarşisine, 25.000'ini Reichsarmee'deki öteki imparatorluk devletlerine ayırır.",
-   "onem": "destek",
-   "tur": "sayi",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Iki dipnot da kaynagin kendi tablo notlaridir (Britanya notu Danley'e, Avusturya notu Speelman'a baglanir). Avusturya bilesimi hakem tarafindan eklendi."
-  },
-  {
-   "iddia_id": "i047",
-   "cumle": "Asker mevcutları için de aynı uyarı geçerlidir: kaynağın verdiği toplamlar Avrupa'da toplanan askerleri sayar, sömürge birliklerini, milisleri, garnizon askerlerini ve destek personelini dışarıda bırakır.",
-   "onem": "destek",
-   "tur": "sayi",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i048",
-   "cumle": "İkisi de sonradan bakışın ürünüdür ve kaynağın kendisi ikisini de sınırlar — Prusya'nın büyüklüğe yükselişinin anahtar anı diye gösterilen bu savaş aslında Prusya'yı zayıflattı, subay kadrosu ağır kayıp verdi ve Friedrich'in orduyu savaş öncesi hâline geri getirmeye gücü yetmedi.",
-   "onem": "merkezi",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": ""
-  },
-  {
-   "iddia_id": "i053",
-   "cumle": "Aynı kaynak birkaç satır ötede Prusya'nın savaştan önemi artık tartışılamayacak bir büyük güç olarak çıktığını da yazar; iki yargıyı yan yana bırakır.",
-   "onem": "merkezi",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k8",
-     "destek": "dogrudan"
-    }
-   ],
-   "guven": "yuksek",
-   "inceleme": "Kaynak ayni bolumde hem \"Prussia emerged from the war as a great power whose importance could no longer be challenged\" hem \"the war weakened Prussia\" der. Onceki surum yalniz ikincisini aliyordu; hakem kaynagin kendi gerilimini geri koydu."
-  },
-  {
-   "iddia_id": "i049",
-   "cumle": "Britanya tarafında da kazanç, hemen ardından gelen bir maliye ve yönetim sorununa dönüştü.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k7",
-     "destek": "kismi"
-    }
-   ],
-   "guven": "orta",
-   "inceleme": "Kaynak savas sonrasi maliye ve bati toprak siyasetindeki kirilmayi anlatir; \"kazanc bir soruna donustu\" ozeti yazarindir."
-  },
-  {
-   "iddia_id": "i050",
-   "cumle": "Silezya'nın 1749'da bir dış siyaset programına dönüşmesi, 1754'te Ohio vadisindeki bir baskın, 1763'te iki ayrı masada imzalanan iki ayrı barış ve 1764'te bir vergi yasasının giriş cümlesi aynı hikâyenin halkaları değil, ayrı ayrı kurulmuş ve birbirine değmiş zincirlerdir.",
-   "onem": "destek",
-   "tur": "yorum",
-   "kaynaklar": [
-    {
-     "anahtar": "k4",
-     "destek": "kismi"
+      "iddia_id": "i001",
+      "cumle": "Başlıca taraflar bir yanda Britanya ile Prusya, öteki yanda Fransa ile Avusturya'ydı; Portekiz, İspanya, İsveç, Rusya ve Kutsal Roma İmparatorluğu'nun Saksonya dahil pek çok küçük devleti bu iki koalisyona katıldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
     },
     {
-     "anahtar": "k8",
-     "destek": "kismi"
+      "iddia_id": "i002",
+      "cumle": "Çarpışma Avrupa'nın yanı sıra Kuzey Amerika, Karayipler, Batı Afrika, Hindistan, Filipinler ve Güney Amerika'ya yayıldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak Guney Amerika'yi ayri bir bolum olarak isler (Rio Negro, Mato Grosso, Banda Oriental); onceki surumdeki \"Guney Amerika sularina\" ifadesi kara seferlerini su savasina cevirdigi icin hakem tarafindan duzeltildi."
     },
     {
-     "anahtar": "k1",
-     "destek": "kismi"
+      "iddia_id": "i003",
+      "cumle": "10 Şubat 1763'te Paris'te Britanya, Fransa ve İspanya imza attı; Portekiz kralı aynı gün katıldı ve ayrı maddelerden biri onun metni imzalamadığını, buna karşın imzalamış gibi taraf sayıldığını yazar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Antlasmanin baslik satiri Portekiz kralinin ayni gun KATILDIGINI soyler; ayri maddelerden III. ise onun kesin antlasmayi imzalamadigini ama taraf sayildigini yazar. Imza satirinda uc imza vardir: Bedford, Choiseul/Praslin, Grimaldi. Onceki surumdeki \"Portekiz imza atti\" ifadesi hakem tarafindan duzeltildi."
     },
     {
-     "anahtar": "k3",
-     "destek": "kismi"
+      "iddia_id": "i051",
+      "cumle": "Aynı metnin on beşinci maddesi Britanya ile Fransa'ya, Almanya'da savaşı sürdüren müttefiklerine hiçbir türden yardım göndermeme sözü verdiriyordu — yani Paris, Almanya'daki savaşı bitirmiyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "XV. madde birebir: \"not to furnish any succours of any kind to their respective allies who shall continue engaged in the war in Germany\". Cikarim maddenin lafzindan okunur."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Onu beş gün sonra imzalanan ayrı bir antlaşma bitirdi ve haritayı 1748'e geri döndürdü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Avusturya Veraset Savaşı'nı bitiren 1748 Aix-la-Chapelle Antlaşması'ndan hiçbir imzacı memnun kalmamıştı ve metin genel olarak geçici bir ateşkes sayıldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Wenzel Anton Kaunitz, 24 Mart 1749'da Maria Theresia'ya sunduğu görüşünde Prusya kralını \"doğal düşmanlar\" sınıfının başına, Osmanlı'nın da önüne yerleştirir ve onu hanedanın en kötü ve en tehlikeli komşusu diye niteler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaunitz metninin kendi sirasi: Prusya krali \"dogal dusmanlar\" sinifinin basina, Osmanli Portesinin de onune konur."
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Silezya için kullandığı görüntü, kaybın Viyana'da nasıl ölçüldüğünü anlatır: kopan şey yabancı bir uzuv değil, gövdenin bir parçasıdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "İngiltere tacını aynı görüşün dost saydığı sınıfın başına koyar, ama Silezya'yı geri almak söz konusu olduğunda o taçtan ciddi bir yardım umulamayacağını yazar; ona göre büyük amacın gerçekleşmesi ancak Fransa'nın ikna edilmesiyle mümkündür.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "GHDI cevirisi \"the Crown of England\" / \"that Crown\" der; onceki surumdeki \"Britanya\" hakem tarafindan kaynagin sozcugune cekildi."
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Yine de metin bir kehanet olarak okunmamalıdır: Kaunitz görüşünü açık bir çekinceyle açar — Avrupa saraylarını doğru mu yanlış mı kavradığını kendisi de bilmemektedir — ve umut tehlikeyi açıkça aşmadıkça saldırı önlemi alınmamasını salık verir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin kendi cekincesi metne tasindi: Kaunitz kavrayisinin dogru mu yanlis mi oldugunu bilmedigini yaziyor ve saldiri onlemini kosula bagliyor."
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Kutsal Roma İmparatorluğu'ndaki çekişmenin merkezinde Avusturya'nın Silezya'yı geri alma girişimi durur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Kuzey Amerika'da Britanya ile Fransa'nın toprakları arasındaki sınır 1750'lerde büyük ölçüde belirsizdi; Fransızların Ohio vadisinde kale zinciri kurmasına karşı gönderilen Virginia milisleri, George Washington komutasında 28 Mayıs 1754'te Jumonville Glen'de küçük bir Fransız birliğine baskın yaptı ve komutanı dahil on kişiyi öldürdü.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Fransızlar aynı yılın 3 Temmuz'unda Fort Necessity'de karşılık verdi ve Washington teslim oldu; bunlar, sonradan dünya ölçeğine yayılacak savaşın ilk çarpışmalarıydı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Britanya donanması 1755 Ağustos'undan itibaren Fransız gemiciliğini taciz etti; iki ülke sözde barış hâlindeyken yüzlerce gemiye ve binlerce ticaret gemicisine el konuldu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Aynı çatışmanın parçaları Üçüncü Silezya Savaşı, Fransız ve Kızılderili Savaşı, Üçüncü Karnatik Savaşı, İspanyol-Portekiz Savaşı (Fantastik Savaş) ve 1762-1763 İngiliz-İspanyol Savaşı adlarıyla ayrı ayrı anılır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin giris listesi bes catisma sayar ve besincisini \"Spanish-Portuguese War\" diye adlandirir; onceki surum bu ogeyi yalniz \"Fantastik Savas\" diye veriyordu. Iki ad da kaynakta gecer, hakem ikisini birlikte yazdi."
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "28 Kasım 1757'de bakanı Finckenstein'a yazdığı askerî vasiyette, muharebenin talihi iyi de kötü de çıksa generallerine gerekli emirleri verdiğini söyler, Sanssouci'de gösterişsiz ve gece gömülmeyi ister ve muharebe kazanılsa bile kardeşinin Fransa'ya tam yetkiyle bir barış habercisi göndermesini şart koşar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Beş gün sonra subaylarına yaptığı konuşmada, kurallara aykırı biçimde neredeyse iki kat güçlü ve yüksekte mevzilenmiş bir düşmana saldıracağını söyler ve başka türlü düşünen varsa hiçbir sitem görmeden ayrılabileceğini bildirir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Bu ikinci metin doğrudan Friedrich'in kaleminden gelmez: belgeyi yayımlayan kurum, konuşmanın 1802 tarihli bir yayına dayandığını ve Friedrich'in söyleyişine ve zihniyetine uygun düştüğünü belirtir; metnin kendisi de dinleyicilerin tepkisini \"bize anlatıldığına göre\" kaydıyla aktarır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "GHDI kunyesi konusmanin 1802 tarihli bir yayina dayandigini ve Friedrichin uslubuna \"uygun\" oldugunu soyler; metnin ici de \"bize anlatildigina gore\" kaydini tasir. Bu cekince metne aynen tasindi."
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Prusya sefere yaklaşık 100.000 askerle başlamıştı ve bunların çoğu yeni acemiydi; yılın sonunda Ruslar Kolberg'i, Avusturyalılar Schweidnitz'i aldı ve Kolberg'in düşmesi Prusya'nın Baltık'taki son limanını götürdü.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak 100.000 rakamini \"cogu yeni acemi\" kaydiyla verir; kayit metne tasindi."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Britanya, Friedrich barışı sağlayacak ödünleri düşünmezse para yardımını kesmekle tehdit ediyordu; Prusya orduları o sırada 60.000 kişiye inmişti.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Britanya tehdidi kaynakta kosulludur (Friedrich odun dusunmezse); kosul metne tasindi."
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "5 Ocak 1762'de Rus İmparatoriçesi Elizaveta öldü; Prusya yanlısı halefi Üçüncü Pyotr Doğu Prusya ile Pomeranya'nın işgaline hemen son verdi, İsveç ile ateşkese aracılık etti ve Friedrich 120.000 kişilik bir orduyu Avusturya'ya yöneltebildi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Bir okuma Friedrich'in kişisel enerjisini ve askerî dehasını öne çıkarır; kaynağın kendi uyarısı, Rusya'nın çekilmesinden ve Britanya'nın mali desteğinden gelen borcun kısa sürede unutulduğu yönündedir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak Friedrichin itibarinin buyudugunu ve talihe ile Britanya mali destegine olan borcun kisa surede unutuldugunu soyler; bunu \"bir okuma\" diye cerceveleme yazarindir."
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Öteki okuma, Hohenzollern hanedanının kurtuluşunu Prusya'nın savaş meydanındaki gücünden çok Rusya'nın lojistik zayıflığına bağlar — Ruslar birçok kez kazandı ama kazandıklarını kalıcı bir sonuca çeviremedi.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Avrupa cephesini kapatan antlaşma 15 Şubat 1763'te imzalandı ve haritayı sadece 1748'in durumuna geri döndürdü: Silezya ve Glatz Friedrich'te kaldı, Saksonya kendi seçici prensine döndü.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Prusya'nın Avusturya'ya verdiği tek ödün, Arşidük Joseph'in imparator seçilmesine razı olmaktı; Avusturya ne Silezya'yı geri alabildi ne de kayda değer bir toprak kazandı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Dördüncü maddeyle Fransa, Nova Scotia ya da Acadia üzerindeki bütün iddialarından vazgeçti ve Kanada'yı Cape Breton adasıyla birlikte Britanya'ya devretti; yedinci madde ise iki devletin Amerika kıtasındaki sınırını Mississippi'nin ortasından geçen bir çizgiye bağladı, New Orleans kasabası ile üzerinde bulunduğu adayı Fransa'ya bıraktı ve nehrin bütün boyunca iki tarafın gemilerine serbest ve resimsiz geçiş tanıdı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Britanya'nın Kanada'da Katolik ibadetine tanıdığı serbestlik ise koşulsuz değildir: metin bunu \"Britanya yasalarının izin verdiği ölçüde\" kaydıyla sınırlar ve aynı kayıt, İspanya'dan alınan Florida için de tekrarlanır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sinirlayici yan cumle (\"Britanya yasalarinin izin verdigi olcude\") antlasmada IV. ve XX. maddede aynen tekrarlanir."
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Britanya Guadeloupe, Marie-Galante, Désirade, Martinique ve Belle-Île'i Fransa'ya iade etti, buna karşılık Grenada ile Grenadinleri aldı; tarafsız sayılan adalar bölüşüldü — St. Vincent, Dominika ve Tobago Britanya'ya, St. Lucia Fransa'ya.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "VIII. ve IX. maddeler. IX. madde bolusumu ad ad sayar; onceki surum Britanya'ya gecen uc adayi (St. Vincent, Dominica, Tobago) dusurmustu, hakem geri koydu. Ayrica Grenada ve Grenadinler \"Britanya'da kalmadi\", Fransa tarafindan devredildi."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Batı Afrika'da Gorée Fransa'ya geri verilirken Senegal nehri, St. Louis, Podor ve Galam kaleleriyle birlikte Britanya'ya geçti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Kaynağın okuması, Fransa'nın Yeni Fransa ile Karayip şeker adaları arasında seçim yapmak zorunda kaldığında adaları tuttuğu ve Yeni Fransa'yı verimsiz, masraflı bir toprak sayarak gözden çıkardığı yönündedir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynagin kendi okumasi olarak veriliyor; Fransanin tercihine dair bir niyet iddiasi oldugu icin guven orta."
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Hindistan'da metin, Fransa'nın 1749 yılı başında elinde bulunan ticaret merkezlerini bulundukları hâlleriyle iade etti, Fransa'nın o tarihten sonra Koromandel ve Orissa kıyısında elde ettiklerinden vazgeçmesini şart koştu ve Fransa'ya Bengal subahının topraklarında istihkâm kurmama ve asker bulundurmama yükümlülüğü getirdi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "XI. madde \"in the condition they are now in\" der: 1749 yili basi HANGI merkezlerin iade edilecegini belirler, merkezlerin DURUMUNU degil. Onceki surumdeki \"1749 yili basindaki durumuyla\" cevirisi maddenin anlamini tersine ceviriyordu; hakem duzeltti."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "7 Ekim 1763 tarihli Kraliyet Bildirisi, antlaşmayla elde edilen yerlerde Quebec, Doğu Florida, Batı Florida ve Grenada adlı dört ayrı yönetim kurdu ve savaşta hizmet etmiş subay ve erlere ücretsiz toprak bağışladı: üst rütbeli bir subaya 5.000 akre, bir ere elli akre — on yıl sonra öteki topraklarla aynı kira yükümlülüğüne ve aynı ekip biçme koşuluna bağlı olmak üzere.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bagis miktarlari bildiride akre olarak yazilidir ve bu dosyada birime dokunulmadi; on yillik kira muafiyeti ve ekip bicme kosulu da metnin kendi kaydidir."
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Aynı metin, kendisine devredilmemiş ya da satın alınmamış toprakların yerli halklara ayrıldığını ilan etti, buralarda önceden özel izin ve ruhsat alınmadıkça her türlü satın alma ve yerleşimi kralın hoşnutsuzluğu tehdidiyle yasakladı ve yerlilerden toprak alımını yalnızca taç adına, valinin çağıracağı açık bir toplantıda yapılabilir kıldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yasak mutlak degildir: bildiri \"onceden ozel izin ve ruhsat alinmadikca\" kaydini tasir ve bu kayit metne gecirildi."
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Yasağın kalıcı olduğu söylenmedi: metin bunu \"şimdilik ve bizim başkaca dileğimiz bilininceye kadar\" kaydıyla verir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Savaş sırasında iç vergiler önemli ölçüde artmış ve toplam devlet borcu neredeyse ikiye katlanmıştı; Britanya 1763'te Kuzey Amerika'da 10.000 kişilik daimî bir kuvvet bulundurmaya karar verdi ve bu kuvvetin ağırlığı yeni kazanılan topraklara yerleştirildi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "EH.Net maddesi borcun neredeyse ikiye katlandigini Brewer (1989) atfiyla soyler; oran maddede yazilidir, bu dosyada bagimsiz hesaplanmadi."
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Yükün bir bölümünün sömürgelere aktarılması kararı 1764 tarihli Şeker Yasası'nın giriş bölümünde açıkça yazılıdır: metin, Majestelerinin Amerika'daki topraklarının \"barışla mutlu biçimde genişlemiş\" olduğunu söyler ve oraları savunma, koruma ve güvenlik altında tutma giderlerini karşılamak üzere oralardan bir gelir sağlanmasını adil ve gerekli sayar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Giris bolumu gerekceyi de yazar: \"for defraying the expences of defending, protecting, and securing the same\". Onceki surum bu amaci dusurmustu; hakem geri koydu."
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Kullanılan iktisat tarihi maddesi, kopuşu tek bir vergi kararına değil iki ayrı siyaset değişikliğine bağlar: batıdaki toprak siyaseti ile vergi siyaseti.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Dahası sömürgelilerin kendileri 1774'te Parlamento'dan on üç yasanın geri alınmasını isterken listeyi 1763 sonrasıyla sınırladılar ve savaşın bitiminden önceki Britanya siyasetini tartışmamayı kararlaştırdılar; Seyrüsefer Yasaları'na dayanan ticaret düzenlemesini itiraz listesine hiç almadılar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Bu savaşa \"ilk dünya savaşı\" denmesi yaygındır ve akademik yazında da dolaşır: Brill'in 2012'de yayımladığı The Seven Years' War derlemesinin ilk yirmi bir sayfasını kaplayan bölümünde Jürgen Luh tam olarak bu adı kullanır — ama \"dünya\" sözcüğünü tırnak içine alarak.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaydin container-title alani \"The Seven Years' War\"; alt baslik \"Global Views\" bu kayitta GECMEZ ve hakem tarafindan hem govdeden hem kunyeden cikarildi. Sayfa araligi 1-21. Kayitta abstract alani yoktur; bolumun ic savina dair iddia kurulmadi ve onceki surumdeki \"tirnak, nitelemenin sorun olarak ele alindigini gosterir\" cumlesi ustveriden okunamayacagi icin duzeltildi."
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Nitelemeyi destekleyen yan ölçülebilir: çarpışma Avrupa, Kuzey Amerika, Karayipler, Güney Amerika, Batı Afrika, Hindistan ve Filipinler'e yayılmıştı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Kaynağın saydığı dört tarafsız devletin ikisi Avrupa dışındadır: kaynağın dönemin başlıca Avrupa güçlerinden biri saydığı Osmanlı Devleti savaşa girmedi ve Friedrich'in Sultan Üçüncü Mustafa'ya yıllarca sürdürdüğü diplomatik girişimler sonuç vermedi; Zend hanedanı altındaki İran da girmedi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak Osmanli icin \"one of the major European powers\" der, Iran icin boyle bir niteleme yoktur; onceki surumdeki \"donemin en buyuk devletlerinden ikisi\" ve \"tamamen disinda kaldi\" ifadeleri hakem tarafindan kaynagin gucune indirildi. Kaynagin tarafsizlar bolumu dort devlet sayar (Osmanli, Iran, Hollanda Cumhuriyeti, Danimarka-Norvec)."
+    },
+    {
+      "iddia_id": "i052",
+      "cumle": "Kaynak Osmanlı'nın uzak duruşunu mutlak da saymaz: 1763'te 100.000 askerle giriştiği başarısız Macaristan seferini savaşın sonuna katkıda bulunmuş sayar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynagin kendi cekincesi, hakem tarafindan metne tasindi: \"the Ottoman Empire would launch an abortive invasion of Hungary with 100,000 troops in 1763, contributing to the end of the war\". Kaynak bu cumleyi tek dipnotla verir; guven orta."
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Üstelik Paris Antlaşması, kendi temeli olarak 1648 Vestfalya'dan 1750 Madrid'e uzanan bir antlaşma dizisini — Nimeguen, Ryswick, Utrecht, Baden, Viyana ve Aix-la-Chapelle dahil — tek tek sayarak yeniler: kapanış, bir Avrupa antlaşma düzeninin onarımıdır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "II. madde on ucten fazla antlasmayi ad ad sayar (Vestfalya 1648, Madrid 1661/1670, Nimeguen 1678/1679, Ryswick 1697, Utrecht 1713, Baden 1714, Lahey 1717, Londra 1718, Viyana 1738, Aix-la-Chapelle 1748, Madrid 1750 ve Ispanya-Portekiz antlasmalari). Onceki surum ucunu veriyordu; hakem dizinin uzunlugunu beyan etti."
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "1759'da yayımlanan Candide'de Voltaire'in kişisi Martin, iki ulusun Kanada'da \"birkaç akre kar\" için savaştığını ve bu güzel savaşa Kanada'nın değerinden çok daha fazlasını harcadıklarını söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Soz Voltairein kendi agzindan degil, romanin kisisi Martinindir; metinde de boyle veriliyor."
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Aynı bölümde Portsmouth'ta gözleri bağlı kurşuna dizilen amirali görürler ve bunun sebebi olarak, bu ülkede zaman zaman bir amiral öldürmenin ötekileri yüreklendirdiği söylenir; baskının editör notu, öldürülenin Amiral Byng olduğunu ve 14 Mart 1757'de kurşuna dizildiğini belirtir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Amiral Byngin adi ve 14 Mart 1757 tarihi Voltairein metninde degil, bu Gutenberg baskisinin editor notundadir; ayrim metinde soyleniyor."
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Aynı editör Voltaire'in bu yargısını tuhaf biçimde beceriksiz bir eleştiri sayar ve Voltaire'in aynı sözü Anılar'ında da tekrarladığını kaydeder — yani karlı toprak alayı hiç değilse bu 1918 baskısının editörü için tartışmalı bir yargıydı; itiraz çağdaş değil, sonraki bir okurunundur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Not [31] bu 1918 baskisinin editorunundir, Voltaire'in cagdasi degildir. Onceki surumdeki \"yazildigi andan beri tartismali\" ifadesi editorun yargisini cagdas bir itiraza cevirdigi icin hakem tarafindan duzeltildi; paragrafin \"cagdaslar da savasi bir dunya savasi gibi gormuyordu\" acilisi da tek romandan genelleme yaptigi icin geri cekildi."
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Giriş kapısı olarak kullanılan kaynak Prusya için 180.000, Britanya için 160.000, Fransa için 200.000, Avusturya için 165.000, Rusya için 120.000, İspanya için 29.000'den çok ve İsveç için 28.000 ölü verir; ama Rusya satırının kendi notu, bu 120.000'in hastalık ölümlerini de kapsayan bir toplam olduğunu, aynı yerde anılan ikinci hesabın ise 60.000 ölü ve yaralı verdiğini ve hastalık için hiç sayı vermediğini söyler.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Rakamlar kaynagin kendi kutusundan birebir alindi ve hakem tarafindan tek tek dogrulandi. Onceki surum ayni tablodaki Ispanya (29.000+) ve Isvec (28.000) satirlarini dusuruyordu; hakem geri koydu. Tablonun besleyicileri Danley (2012) ve Uralanis (1960) olup ayni seyi olcmezler; uyusmazlik metinde. Sayilar bu dosyada bagimsiz olarak dogrulanmadi."
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Britanya rakamı da yalnız Britanya'yı saymaz: Hannover, Hessen-Kassel, Braunschweig-Wolfenbüttel ve Schaumburg-Lippe gibi küçük Alman ordularının ölülerini içerir; Avusturya rakamı da bileşiktir, aynı tablonun notu 165.000'in 140.000'ini Habsburg monarşisine, 25.000'ini Reichsarmee'deki öteki imparatorluk devletlerine ayırır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki dipnot da kaynagin kendi tablo notlaridir (Britanya notu Danley'e, Avusturya notu Speelman'a baglanir). Avusturya bilesimi hakem tarafindan eklendi."
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "Asker mevcutları için de aynı uyarı geçerlidir: kaynağın verdiği toplamlar Avrupa'da toplanan askerleri sayar, sömürge birliklerini, milisleri, garnizon askerlerini ve destek personelini dışarıda bırakır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "İkisi de sonradan bakışın ürünüdür ve kaynağın kendisi ikisini de sınırlar — Prusya'nın büyüklüğe yükselişinin anahtar anı diye gösterilen bu savaş aslında Prusya'yı zayıflattı, subay kadrosu ağır kayıp verdi ve Friedrich'in orduyu savaş öncesi hâline geri getirmeye gücü yetmedi.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i053",
+      "cumle": "Aynı kaynak birkaç satır ötede Prusya'nın savaştan önemi artık tartışılamayacak bir büyük güç olarak çıktığını da yazar; iki yargıyı yan yana bırakır.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak ayni bolumde hem \"Prussia emerged from the war as a great power whose importance could no longer be challenged\" hem \"the war weakened Prussia\" der. Onceki surum yalniz ikincisini aliyordu; hakem kaynagin kendi gerilimini geri koydu."
+    },
+    {
+      "iddia_id": "i049",
+      "cumle": "Britanya tarafında da kazanç, hemen ardından gelen bir maliye ve yönetim sorununa dönüştü.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak savas sonrasi maliye ve bati toprak siyasetindeki kirilmayi anlatir; \"kazanc bir soruna donustu\" ozeti yazarindir."
+    },
+    {
+      "iddia_id": "i050",
+      "cumle": "Silezya'nın 1749'da bir dış siyaset programına dönüşmesi, 1754'te Ohio vadisindeki bir baskın, 1763'te iki ayrı masada imzalanan iki ayrı barış ve 1764'te bir vergi yasasının giriş cümlesi aynı hikâyenin halkaları değil, ayrı ayrı kurulmuş ve birbirine değmiş zincirlerdir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cerceve cumlesi: her tarih govdede zaten kaynaklanmis olgulardan gelir (1749 k4, 1754 k8, 1763 k1, 1764 k3); \"ayri ayri kurulmus zincirler\" degerlendirmesi yazarindir, hicbir kaynak bu sentezi tasimaz."
     }
-   ],
-   "guven": "orta",
-   "inceleme": "Cerceve cumlesi: her tarih govdede zaten kaynaklanmis olgulardan gelir (1749 k4, 1754 k8, 1763 k1, 1764 k3); \"ayri ayri kurulmus zincirler\" degerlendirmesi yazarindir, hicbir kaynak bu sentezi tasimaz."
-  }
- ],
- "sayaclar": {
-  "dogrudan": 50,
-  "kismi": 3,
-  "desteksiz": 0,
-  "olculemez": 0
- }
+  ],
+  "sayaclar": {
+    "dogrudan": 50,
+    "kismi": 3,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-30",
+      "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

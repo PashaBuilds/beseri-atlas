@@ -51,7 +51,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne tür bir düzen
 
 Dahomey Krallığı, Batı Afrika kıyısının hemen iç kesiminde kurulmuş,
@@ -62,17 +61,14 @@ Vasal düzen yerine doğrudan yönetim tercih edildi.[^k3] Fethedilen
 alanlarda yerel hanedanlar korunmadı, merkeze bağlı görevliler
 atandı.
 
-Bu incelemenin konusu sefer tarihi değildir.[^k2] Gelirin nereden geldiği
-ve kaynak değişince ne olduğudur.
+Gelirin nereden geldiği ve kaynak değişince ne olduğudur.
 
 ## Merkezîliğin ölçüsü
 
 Merkezîliğin göstergesi görevlilerin nasıl atandığıdır.[^k1] Görevler
 soydan geçmiyor, hükümdar tarafından veriliyordu.
 
-Bu, korpusun patrimonyalizm dosyasında tanımlanan yapının bir
-biçimidir.[^k3] Görevlinin konumu, kendi soyuna değil atayana
-bağlıdır.
+Görevlinin konumu, kendi soyuna değil atayana bağlıdır.
 
 Görevin soydan geçmemesi merkezin
 denetimini artırır ve görevliyi merkeze bağımlı kılar.[^k2]
@@ -199,10 +195,6 @@ belirli nesnelerle tutulan sayaçlarla yapılıyordu.
 Yöntem, yazının olmadığı yerde kayıt olmadığı sanısını
 çürütür.[^k2] Sayı tutuluyordu; yalnızca harfle değil.
 
-Bu, korpusun kipu dosyasında kaydedilen ölçümün bir
-başka kıtadaki karşılığıdır: kayıt yazıya bağlı değildir, aktarılabilirliğe
-bağlıdır.[^k3]
-
 ## Kaydın kaybı
 
 Bu tür kayıtlar günümüze ulaşmadı.[^k1] Malzeme dayanıksızdı ve
@@ -220,7 +212,6 @@ Yetkinin devri belirli bir soy içinde kalıyordu.[^k1] Ancak hangi
 oğulun geçeceği önceden belirlenmiş bir kuralla değil, saray içindeki
 denge ile çözülüyordu.
 
-Bu, korpusun veraset dosyasındaki açık yarış biçimine yakındır.[^k2]
 Aday sayısı fazlaydı ve geçişler her zaman sorunsuz olmadı.
 
 Merkezî bir yönetim, veraset kuralını
@@ -234,10 +225,6 @@ konum verilmişti.[^k1] Bu konum tören dışı yetkiler de içeriyordu.
 Görevli, saray içindeki dengeyi izliyor ve hükümdara bağımsız bir
 kanal sağlıyordu.[^k2] Yetki, resmî görev listesinde tam olarak
 görünmez.
-
-Bu, korpusun toplumsal cinsiyet dosyasındaki ölçütün
-bir örneğidir: resmî listede görünmeyen bir görev, bilgi akışını denetliyorsa fiilî bir
-güç konumudur.[^k3]
 
 ## Dış gözlemcilerin kaydı
 
@@ -329,3 +316,26 @@ uygundur.[^k2]
 
 Bölgenin paylaşımı için
 [Berlin Konferansı](/olay/berlin-konferansi/) dosyası okunabilir.[^k3]
+
+## Dış talebe bağımlı bir savaş ekonomisi
+
+Dahomey’in Atlantik köle ticaretindeki rolü, devlet geliri, askerî sefer ve dış
+pazar arasında güçlü bir geri besleme kurdu.[^k1][^k2] Esir satışı silah ve mal
+sağlıyor; askerî kapasite yeni esirler ve haraç üretiyordu. Bu döngü yalnız
+ekonomik uzmanlaşma değil, komşu toplumlar üzerinde zor ve yerinden edilme
+yaratan siyasal bir düzendi.
+
+Atlantik köle ticaretinin yasaklanması talebi bir anda ortadan kaldırmadı ve
+mevcut kurumları kendiliğinden dönüştürmedi. Palm yağı gibi yeni ihracatlara
+yönelmek üretim alanı, emek düzeni ve aracılar üzerinde yeni baskılar oluşturdu.[^k1]
+“Köleden yağa geçiş” temiz ve tek tarihli bir ikame değildi; iki ticaret bir süre
+yan yana sürdü, gelir kaybı saray ile tüccarların çıkarlarını farklı etkiledi.
+
+Kadın askerî birliklerini yalnız egzotik bir istisna olarak görmek de cinsiyet,
+hanedan güvenliği ve savaş örgütlenmesi arasındaki bağı kaçırır. [Toplumsal
+cinsiyet düzeni](/kavram/toplumsal-cinsiyet-duzeni/) bu rolün bütün kadınların
+toplumsal gücüyle aynı olmadığını hatırlatır. Fransız fethi, Berlin’deki paylaşım
+dili kadar yerel direniş, silah farkı ve kıyı ticaretine erişim üzerinden
+incelenmelidir.[^k2][^k3]
+
+İhracat geliri ile toplumun refahı aynı ölçü değildir.

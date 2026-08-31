@@ -59,6 +59,7 @@ kaynaklar:
     not: "Pakistan ve Suudi tutumlari Amerikan istihbaratinin yoklamasi uzerinden aktarilir; iki hukumetin kendi kayitlari degildir. Amerikan payi olarak onerilen tutar gizli tutulmustur"
   - anahtar: k5
     tur: birincil
+    birincil_tur: belge
     ad: "Uluslararasi Adalet Divani - Nikaragua'da ve Nikaragua'ya karsi askeri ve yari askeri faaliyetler (Nikaragua/ABD), dava ozeti"
     url: https://www.icj-cij.org/case/70
     erisim_tarihi: 2026-08-30

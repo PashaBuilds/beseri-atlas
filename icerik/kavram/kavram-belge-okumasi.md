@@ -66,12 +66,9 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
-Bu inceleme bir tarihsel olguyu değil, korpusun kendi belge künyelerini
-yazarken tekrar tekrar karşılaştığı yedi kısıtı toplar.[^k1] Kısıtların
-tamamı, on ayrı belge dosyasında ayrı ayrı ölçülmüştür.
+Kısıtların tamamı, on ayrı belge dosyasında ayrı ayrı ölçülmüştür.
 
 Ortak yanları şudur.[^k2] Yedisi de, bir hukuki metnin kendisinden
 çıkarılamayacak olan bilgilere işaret eder.
@@ -85,8 +82,8 @@ Bir metnin kimi kapsadığı dört biçimde kurulabilir.[^k2] Eşitsizlik
 açıkça yazılabilir, kapsam sessizce daraltılabilir, kapsam açıkça
 genişletilebilir ya da engel adlandırılarak hedef alınabilir.
 
-Dördü de korpusta ölçüldü.[^k1] Sırasıyla Hammurabi, Magna Carta,
-Gülhane ile Beyanname, ve Hindistan Anayasası dosyalarında.
+Sırasıyla Hammurabi, Magna Carta, Gülhane ile Beyanname, ve Hindistan Anayasası
+dosyalarında.[^k1]
 
 İkinci biçim en zor görülenidir.[^k3] Metinde bir ayrım maddesi
 bırakmaz; genel görünen bir hüküm, tanımı gereği belirli bir kesime
@@ -101,9 +98,7 @@ Kural Hammurabi dosyasında kuruldu.[^k2] Metnin kanun sayılması,
 dönemin mahkeme kayıtlarında ona atıf yapıldığının gösterilmesine
 bağlıdır ve bu gösterilememiştir.
 
-Uygulama kanıtı bulunamadığında belge, beyan edilen düzen olarak
-kaydedilir.[^k3] Korpus bu ayrımı bütün hukuk belgesi künyelerinde
-uygular.
+Uygulama kanıtı bulunamadığında belge, beyan edilen düzen olarak kaydedilir.[^k3]
 
 ## Üçüncü kısıt: metnin sustuğu yer
 
@@ -128,8 +123,7 @@ kuruldu.[^k1] İkisi aynı ailedendir: bir belgenin ne söylediği, hangi
 sürümünün okunduğuna bağlı olabilir ve bu bağlılık belgenin kendisinden
 okunmaz.
 
-Kural korpusun altı belge künyesinde uygulanmıştır.[^k3] Beş künyede
-metin çeviridir ve bu her dosyada ayrıca beyan edilmiştir.
+Beş künyede metin çeviridir ve bu her dosyada ayrıca beyan edilmiştir.
 
 ## Beşinci kısıt: kabul koşulları
 
@@ -174,11 +168,17 @@ aynı belge yüzyıllarca süren bir sınır bırakabilir.
 Yedi kısıt bir sıralama değildir.[^k1] Her belge için hepsi sorulur ve
 bir bölümü cevapsız kalır.
 
-Cevapsız kalanlar da kaydedilir.[^k3] Korpusun belge künyelerinde
-sorulmuş ama cevaplanamamış kısıtlar açıkça beyan edilir.
+Cevapsız kalanlar da kaydedilir.[^k3]
 
-Listenin kendisi kapalı değildir.[^k2] Yedi kısıt korpusun bugüne kadar
-karşılaştıklarıdır; yenileri eklenebilir.
+Listenin kendisi kapalı değildir.[^k2]
+
+## Beş soruluk ilk okuma
+
+Bir belge yorumlanmadan önce kim tarafından, kime, ne zaman, hangi amaçla ve hangi
+aktarımı izleyerek bugüne ulaştığı sorulmalıdır.[^k1] Metnin söylediği kadar
+söylemediği şeyler de önemlidir; fakat sessizliği doğrudan inkâr veya yokluk diye
+okumak hatalıdır. Resmî bir belgenin norm koyması, o normun uygulandığını tek başına
+kanıtlamaz. Uygulama için başka kayıt türleri gerekir.[^k2]
 
 ## Kanıtın ve kapsamın sınırı
 Dosya bir hukuk kuramı sunmaz.[^k1] Belgelerin nasıl yorumlanması
@@ -187,8 +187,7 @@ gerektiğine ilişkin bir öneri içermez.
 Kısıtların ağırlığı da sıralanmaz.[^k3] Hangisinin daha belirleyici
 olduğu belgeye göre değişir.
 
-Liste yalnızca hukuki metinler içindir.[^k2] Anlatı, kayıt ve gözlem
-metinleri için korpusun ayrı bir dosyası bulunmaktadır.
+Liste yalnızca hukuki metinler içindir.[^k2]
 
 ## Okumayı sürdürmek için
 Kısıtların tek tek ölçüldüğü dosyalar için

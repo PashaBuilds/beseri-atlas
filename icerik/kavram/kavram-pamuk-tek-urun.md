@@ -194,6 +194,15 @@ ile alternatifi kapatılmış bir bağımlılık aynı şey değildir.
 Özerkliğin ölçüsü, elde bulunan
 seçeneklerin sayısıdır.[^k3]
 
+## Bağımlılığı ölçme yolu
+
+Tek ürün bağımlılığı yalnız ihracat listesindeki ilk sıraya bakılarak ölçülmez. Ürünün
+toplam ihracattaki payı, devlet gelirine katkısı, işgücündeki ağırlığı ve gıda üretimi
+üzerindeki etkisi ayrı ayrı incelenmelidir.[^k1] Dünya fiyatındaki düşüş bütçe,
+borçlanma ve hane geliri üzerinde aynı anda baskı kuruyorsa bağımlılık yapısaldır.
+Üretim çeşitliliği kadar alıcı ve taşıma güzergâhı çeşitliliği de kırılganlığı
+belirler.[^k2]
+
 ## Okumayı sürdürmek için
 Düzenin kurulduğu bir örnek için
 [Türkistan'ın Rusya tarafından fethi](/olay/rus-turkistan-fethi/)

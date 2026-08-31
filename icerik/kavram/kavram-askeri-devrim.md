@@ -39,14 +39,13 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak, ordu büyüklüğü başlığı altında idari kaynaklar ile anlatı kaynaklarını
 ayrı alt başlıklar olarak tutar; ayrıca toplam ordu büyüklüğü için ayrı bir alt
 başlık vardır.[^k1]
 
 ## Aynı soruya iki kaynak türü
 
-::tartismali[Aynı ansiklopedi maddesi, ordu büyüklüğü için idari kayıtları ve anlatı kaynaklarını ayrı ayrı işliyor. Bu, iki kaynak türünün aynı soruya farklı cevaplar verdiği anlamına gelir. Korpus tek bir sayı yazmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Aynı ansiklopedi maddesi, ordu büyüklüğü için idari kayıtları ve anlatı kaynaklarını ayrı ayrı işliyor. Bu, iki kaynak türünün aynı soruya farklı cevaplar verdiği anlamına gelir.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Sayı kaynaklarının nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -56,10 +55,6 @@ haritasında ele alınıyor.
 
 Kaynak, kavramın kökenine ayrı bir bölüm ayırır ve ardından bir kronoloji bölümü
 tutar.[^k1]
-
-Bir kavramın kökeninin bir bölüm başlığı olması,[^k1] korpusun şu kuralının
-dayanağıdır: bu incelemede askerî devrim, bir olgu adı olarak değil bir araştırma
-önerisi olarak anılır.
 
 ## Taktik değişimi ad ad sayılır
 
@@ -84,3 +79,57 @@ savaşta çeşitli etkenlerin çoklu etkileşimlerine dikkat çektiğini yazar.[
 Kronolojinin ayrıntıları, tahkimat tartışması ve kavrama yöneltilen eleştiriler
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1]
+
+## Devrim denilen değişim demeti
+
+Askerî devrim tezi, erken modern dönemde silah, taktik, tahkimat, ordu büyüklüğü
+ve devlet örgütlenmesindeki değişimlerin birbirini güçlendirdiğini ileri sürer.
+Barutlu silahların yayılması tek başına yeterli açıklama değildir. Ateş gücünden
+yararlanmak için birliklerin eğitilmesi, düzenli hareket etmesi, ikmal edilmesi ve
+maaşının ödenmesi gerekir. Yeni tahkimatlar kuşatmayı uzattığında daha büyük
+ordular ve daha fazla mühimmat; bunlar da daha geniş vergi ve kredi kapasitesi
+gerektirir. “Devrim” sözcüğü bu bağlantılı dönüşümleri tek bir başlıkta toplar.[^k1]
+
+Kaynakta doğrusal taktikler, *trace italienne*, piyadenin yükselişi ve süvarinin
+gerilemesinin ayrı başlıklar olması, tek bir icadın bütün sonuçları doğurmadığını
+gösterir.[^k1] Ateşli silahın bulunması ile savaş alanına hâkim olması arasında
+üretim kalitesi, talim, arazi ve komuta gibi ara basamaklar vardır. Bir yenilik
+bir bölgede etkili olurken başka bir bölgede mevcut süvari, kale veya lojistik
+düzenle birleşerek farklı sonuç verebilir.
+
+## Savaş ile devlet kapasitesi arasındaki döngü
+
+Büyüyen ordular daha çok vergi, kayıt, iaşe ve borçlanma ister. Devlet bunları
+sağlamak için bürokrasiyi genişletebilir, yerel aracılarla pazarlık edebilir veya
+özel askerî girişimcilere dayanabilir. Artan kapasite yeniden daha uzun savaşları
+mümkün kılar. Ancak bu döngü her yerde merkezî ve mutlak bir devlet üretmez;
+meclisler, kentler, vergi çiftçileri ve kredi verenler hükümdarın savaş gücünü
+sınırlayabilir veya ortaklaşa kurabilir. Askerî sonuçtan doğrudan tek bir devlet
+tipi çıkarmak bu çeşitliliği siler.
+
+## Tez nasıl sınanır?
+
+Önce kronoloji kurulur: taktik değişim mi ordu büyümesini doğurdu, yoksa mevcut
+mali kapasite yeni taktiği mi mümkün kıldı? Ardından sayılar aynı tür kaynaklarla
+karşılaştırılır. İdari ücret ve iaşe kayıtları fiilî mevcuda yaklaşabilir;
+anlatı kaynakları kâğıt üzerindeki kuvveti, söylentiyi veya propaganda amacını
+yansıtabilir. Kaynağın ordu büyüklüğü için bu iki kanıt türünü ayırması, “ordu
+büyüdü” önermesinin bile kaynak eleştirisi gerektirdiğini gösterir.[^k1]
+
+İkinci sınama coğrafidir. Avrupa’da önerilen bir mekanizma, [Barut
+imparatorlukları](/kavram/barut-imparatorluklari/) gibi farklı mali, süvari ve
+kuşatma geleneklerinde aynı sonucu vermeyebilir. Benzer silahların farklı siyasal
+kurumlarla birlikte çalışması, teknoloji ile devlet biçimi arasında zorunlu bir
+bağ olmadığını gösterir. [Otuz Yıl Savaşları](/olay/otuz-yil-savaslari/) ise
+orduların, finansmanın, ikmalin ve sivil yıkımın aynı olay içinde izlenebileceği
+bir sınama alanıdır.
+
+Kavramı yararlı kılan, her askerî yeniliğe “devrim” demek değildir. Değişimin
+hızını, birbirine bağlanan mekanizmaları, bölgeler arası farkı ve karşı örnekleri
+açıkça belirtmektir. Taktik yenilik, mali kurum ve toplumsal maliyet aynı zincirde
+gösterilebildiğinde tez, savaş tarihini devlet ve toplum tarihine bağlayan güçlü
+bir açıklamaya dönüşür.[^k1][^k2][^k3]
+
+Sonuçta “devrim” hükmü için yalnız yeni silahın görülmesi yetmez. Yeniliğin savaşın
+ölçeğini veya sonucunu değiştirdiği, mali ve idari kurumlara yayıldığı ve bu
+etkinin kısa bir deneme değil kalıcı bir örüntü oluşturduğu gösterilmelidir.

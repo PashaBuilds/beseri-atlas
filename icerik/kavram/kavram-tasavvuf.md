@@ -40,16 +40,11 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak kavramı şöyle tanımlar: İslâm'ın zâhir ve bâtın hükümleri çerçevesinde
 yaşanan mânevî ve derunî hayat tarzı; maddenin müellifi Reşat Öngören, baskı
 tarihi 2011 olarak kaydedilir.[^k1]
 
 ## Tanım bir öğreti değil bir yaşayış tarif eder
-
-Kaynağın kavramı hayat tarzı olarak tanımlaması,[^k1] korpusun şu kuralının
-dayanağıdır: bu incelemede tasavvuf, bir doktrin listesi olarak değil bir pratik
-olarak anılır.
 
 ## Zâhir ve bâtın birlikte anılır
 
@@ -62,11 +57,6 @@ değil onunla birlikte konumlandırıldığını gösterir; hukuk yöntemi taraf
 Bağımsız bir akademik kaynak, bir düşünürü yaklaşık 1056-1111 arasında yaşamış,
 Sünni İslam'ın en önde gelen ve etkili filozof, kelamcı, fakih ve
 mutasavvıflarından biri olarak kaydeder.[^k2]
-
-Aynı kişinin dört sıfatla birden kaydedilmesi,[^k2] korpusun düşünür dosyalarında
-neden tek bir kategori kullanmadığının dayanağıdır; o düşünür
-[Gazâlî](/dusunur/gazali/) dosyasında ele alınıyor.
-
 
 ## Kurumsallaşma
 
@@ -116,7 +106,6 @@ bir düzen kuruyordu.
 Bir dinî kurumun yayılması, çoğu zaman
 merkezî yönetimin boşluk bıraktığı yerlerde hızlanır.[^k2]
 
-
 ## Metin geleneği
 
 Tasavvuf geniş bir yazılı külliyat üretti.[^k1] Manzum ve mensur
@@ -153,7 +142,6 @@ Yayılmayı taşıyan şey ticaret ağlarıydı.[^k3] Tüccarlar aynı zamanda
 Bir öğretinin coğrafi dağılımı, çoğu
 zaman onu taşıyan ticaret ağının dağılımıdır.[^k2]
 
-
 ## Kadınların konumu
 
 Gelenekte kadın mutasavvıflar da vardır.[^k1] Bazılarının adları ve
@@ -180,7 +168,6 @@ gördü.
 Bir uygulamanın kabul görmesi, öğretiden çok yerel
 geleneğe bağlıdır.[^k2]
 
-
 ## Kaydın durumu
 
 Gelenek hakkındaki kayıt iki türdür.[^k1] Kendi içinden yazılmış
@@ -192,6 +179,22 @@ mülkünü ve konumunu gösterir.
 
 Bir hareketin öğretisi kendi
 metinlerinden, ağırlığı ise vergi ve vakıf kayıtlarından okunur.[^k2]
+
+## Öğreti, pratik ve kurum katmanları
+
+Tasavvuf tek bir tarikatın veya değişmez inanç listesinin adı değildir. Zühd,
+ahlâkî arınma, Tanrı'ya yakınlık ve manevî eğitim üzerine farklı dönemlerde gelişen
+öğreti ve pratikler bütünüdür.[^k1] Tarikatların kurumsallaşması bu tarihin önemli
+parçasıdır, fakat erken sûfîleri sonradan oluşan örgüt şemalarıyla açıklamak
+anakronizm yaratabilir. Şeyh-mürid ilişkisi, zikir biçimi, mekân ve silsile her çevrede
+aynı değildi.[^k2]
+
+Kaynaklar da farklı sorulara cevap verir. Menkıbeler bir kişinin topluluk içinde nasıl
+hatırlandığını gösterir; olağanüstü anlatıları doğrudan olay kaydı saymak doğru
+değildir. Vakfiye, seyahatname ve biyografi metinleri ise tekke ekonomisi, dolaşım ve
+siyasal ilişkiyi başka açılardan görünür kılar. Tasavvufun devletle ilişkisi yalnız
+itaat veya muhalefet ikiliğine sığmaz; himaye, arabuluculuk, rekabet ve eleştiri aynı
+dönemde birlikte bulunabilir.[^k3]
 
 ## Kanıtın ve kapsamın sınırı
 Tasavvufun tarihi, tarikatlar, kavramları ve edebiyatı burada ayrı başlıklar

@@ -442,11 +442,25 @@
       ],
       "guven": "yuksek",
       "inceleme": "Kapanis degerlendirmesi; dayandigi iki oge (sinirsiz ilke cumlesi ve 30 Haziran 1948'de biten butce kalemi) ayni konusma metninde birlikte durur."
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "Konuşmanın o gün yapıldığı doğrudur ama savaşı o güne bağlamak bir olgu tespiti değil bir yorumdur; hangi tarihin başlangıç sayılacağı ve sorumluluğun nereye düştüğü haritasında tartışılıyor ve orada tek bir cevap benimsenmiyor.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 konuşmanın tarihini doğrular; bu tarihin Soğuk Savaş'ın başlangıcı sayılmasına ilişkin yöntem uyarısı ve bağlantılı tartışmanın çoğulluğu yazar yorumudur."
     }
   ],
   "sayaclar": {
     "dogrudan": 30,
-    "kismi": 1,
+    "kismi": 2,
     "desteksiz": 0,
     "olculemez": 0
   },

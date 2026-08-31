@@ -62,7 +62,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Şeybânîler, on altıncı yüzyıl başında Mâverâünnehir'e girip bölgedeki
@@ -84,9 +83,7 @@ unvanını almamış, ayrı bir unvan kullanmıştı.
 Şeybânîler ise doğrudan han unvanını taşıdı.[^k1] Soy şartını
 karşıladıkları için buna hakları vardı.
 
-Bu, korpusun Çağatay dosyasında kaydedilen kuralın aynı bölgede ikinci
-kez ölçülmesidir.[^k4] Soy şartı, onu kuran imparatorluk yıkıldıktan
-iki yüzyıl sonra da geçerliydi.
+Soy şartı, onu kuran imparatorluk yıkıldıktan iki yüzyıl sonra da geçerliydi.[^k1]
 
 ## Yenilginin başka yerde devlet kurması
 
@@ -102,9 +99,7 @@ okunduğunda görünür.[^k4]
 
 ## Bağlantının kaynağı
 
-Bağlantının en ayrıntılı kaydı, güneye çekilen kişinin kendi
-anılarındadır.[^k3] Metin, korpusun kaynak katmanında ayrıca
-künyelenmiştir.
+Bağlantının en ayrıntılı kaydı, güneye çekilen kişinin kendi anılarındadır.[^k3]
 
 Kaydın tek taraflı olduğu belirtilmelidir.[^k1] Yenilen tarafın kendi
 anlatısıdır ve karşı tarafın kaydı aynı ayrıntıda değildir.
@@ -145,9 +140,7 @@ tarihinde tekrar eden bir durumdur.
 Yönetim, önceki düzenin kurumlarını büyük ölçüde devraldı.[^k3] Vergi
 düzeni, kadılık ve vakıf yapısı sürdürüldü.
 
-Süreklilik, hanedan değişiminin toplumsal etkisini sınırlar.[^k2] Korpus
-hanedan değişimi ile düzen değişimini ayrı ayrı ölçer; ikisi her zaman
-birlikte gerçekleşmez.
+Süreklilik, hanedan değişiminin toplumsal etkisini sınırlar.[^k2]
 
 ## Şehirlerin durumu
 
@@ -168,9 +161,8 @@ toprak ve gelir tahsis edilmesi, merkezin yetkisini sınırlıyordu.
 Bu yapı, hanedanın parçalanmasını kolaylaştırdı.[^k2] Tahsis edilen
 gelirler zamanla kalıcı hâle geldi ve merkeze bağlılık zayıfladı.
 
-Yapı, korpusun bozkır dosyasında tanımlanan örüntünün bir
-örneğidir.[^k4] Bozkır düzenleri fetih için etkili, merkezî yönetim
-için kırılgan bir örgütlenme kullanır.
+Bozkır düzenleri fetih için etkili, merkezî yönetim için kırılgan bir örgütlenme
+kullanır.
 
 ## Parçalanma
 
@@ -191,9 +183,7 @@ sürdürdü.[^k1] Bu, batıdaki rakiple aradaki farkı belirginleştirdi.
 Medreseler ve vakıflar dönem boyunca desteklendi.[^k2] Bu kurumlar,
 hanedan değişimlerinden görece bağımsız olarak sürdü.
 
-Kurumsal süreklilik, siyasi süreksizlikle birlikte
-okunmalıdır.[^k3] Korpus ikisini ayrı ayrı kaydeder çünkü aynı dönemde
-farklı yönlerde işlerler.
+Kurumsal süreklilik, siyasi süreksizlikle birlikte okunmalıdır.[^k3]
 
 ## Bozkırdan gelişin koşulu
 
@@ -229,9 +219,7 @@ etkiledi.
 İlişki başlangıçta ticariydi.[^k2] Kürk, kumaş ve maden karşılığında
 güneyden dokuma ve işlenmiş mal gidiyordu.
 
-Askerî baskı sonraki yüzyıllarda arttı.[^k1] Bu inceleme o dönemi
-kapsamaz; kuzey ilişkisi burada yalnızca başlangıç hâliyle
-kaydedilir.
+Askerî baskı sonraki yüzyıllarda arttı.[^k1]
 
 ## Deniz yollarının açılması sorusu
 
@@ -274,21 +262,15 @@ hakkında ancak dolaylı bilgi verir.[^k2]
 Dönemin nüfusu için güvenilir sayım yoktur.[^k2] Bilinenler, vergi
 kayıtlarından ve şehir büyüklüğü tahminlerinden çıkarılır.
 
-Bu tür tahminler geniş aralıklar verir.[^k4] Korpus sayı vermek yerine
-yöntemin ne olduğunu yazar.
+Bu tür tahminler geniş aralıklar verir.[^k4]
 
-Sayısız bir dönem hakkında sayısal iddia kurmak, korpusun
-kaçındığı hatalardandır.[^k1] Tahmin edilebilir olan ile ölçülmüş olan
-ayrı ayrı işaretlenir.
+Tahmin edilebilir olan ile ölçülmüş olan ayrı ayrı işaretlenir.
 
 ## Kaynak durumu
 
-Bu incelemenin dört künyesinin üçü ansiklopedi maddesidir.[^k1] Birincil
-kaynak künyelenememiştir.
+Birincil kaynak künyelenememiştir.
 
 Dönemin Farsça ve Çağatayca tarih metinleri mevcuttur.[^k3]
-Doğrulanabilir çevrimiçi baskıları bu inceleme yazıldığında
-bulunamamıştır.
 
 Eksik borç defterine yazılmıştır.[^k2] Dosya, birincil kaynağı olmayan
 makaleler grubundadır ve bu künyesinden görülebilir.
@@ -298,14 +280,10 @@ makaleler grubundadır ve bu künyesinden görülebilir.
 Hanların tek tek listesi ve saltanat süreleri verilmez.[^k1] Kaynaklar
 bu konuda örtüşmez.
 
-Askerî seferlerin ayrıntısı kapsam dışıdır.[^k2] Dosya yalnızca iktidar
-değişiminin ve meşruiyet kuralının kaydını tutar. Seferlerin güzergâhı, süresi
-ve tarafların kayıpları ayrı bir çalışma gerektirir ve bu incelemenin
-sorusuyla doğrudan ilgili değildir.
+Askerî seferlerin ayrıntısı kapsam dışıdır.[^k2] Dosya yalnızca iktidar değişiminin ve
+meşruiyet kuralının kaydını tutar.
 
-Hanedanın edebî ve sanatsal himayesi ayrı bir çalışma
-gerektirir.[^k3] Bu inceleme yazıldığında korpusta bulunmuyordu ve dönemin
-el yazması üretimi hiç işlenmemişti.
+Hanedanın edebî ve sanatsal himayesi ayrı bir çalışma gerektirir.[^k3]
 
 ## Kanıtın ve kapsamın sınırı
 Dosya hanedan değişiminin bölgeyi gerilettiğini ileri sürmez.[^k4]
@@ -316,17 +294,7 @@ Batıdaki rakiple çatışmanın tek neden olduğu da
 söylenmez.[^k2] Ticaret yönündeki değişim birden çok etkenin
 sonucudur.
 
-Bağlantıların tamamı burada kurulmaz.[^k1] Bölgenin güney ve kuzey
-komşularıyla ilişkileri ayrı dosyalar gerektirir ve bu inceleme
-yazıldığında bu ilişkilerin bir bölümü korpusta hiç işlenmemişti; eksik,
-dosyanın kapsamını daraltan bir kısıt olarak burada beyan edilir.
-
-## Okumayı sürdürmek için
-Yerini alınan düzen için
-[Timur İmparatorluğu](/aktor/timur-imparatorlugu/), yenilginin sonucunda
-kurulan devlet için
-[Bâbür İmparatorluğu](/aktor/babur-imparatorlugu/) dosyaları
-okunmalıdır; ikinci bağlantı bu incelemenin asıl bulgusudur.[^k3]
+Bağlantıların tamamı burada kurulmaz.[^k1]
 
 Bağlantının en ayrıntılı kaydı için
 [Bâbürnâme](/kaynak/baburname/) dosyası uygundur.[^k1]
@@ -338,3 +306,38 @@ Soy şartının nasıl işlediği için
 
 Hanedanın dağılmasından doğan düzen için
 [Buhara Hanlığı](/aktor/buhara-hanligi/) dosyası okunmalıdır.[^k4]
+
+## Bozkır hanedanı, şehirli bölge
+
+Şeybânîler Deşt-i Kıpçak’tan gelen askerî ve hanedan bağlarını Mâverâünnehir’in
+kent, tarım ve medrese düzeniyle birleştirdi.[^k1][^k2] Timurîleri yenmek yalnız
+başkenti ele geçirmek değildi; sulama gelirini, tüccar ağlarını ve yerleşik
+bürokrasiyi çalıştırmak gerekiyordu. Cengiz soyuna dayanan “han” meşruiyeti,
+fiilî fethe kabul edilebilir hükümdarlık dili sağladı.
+
+Timurî yenilgisi de tek bir son üretmedi. Bâbür Mâverâünnehir’i yeniden kazanma
+girişimlerinden sonra Hindistan’a yöneldi ve başka bir imparatorluğun temelini
+kurdu.[^k3] Böylece bir bölgede kaybedilen hanedan rekabeti, başka bölgede yeni
+siyasal düzenin başlangıcı oldu. “Çöküş” kavramı aktörün coğrafyasına göre farklı
+sonuç taşır.
+
+Safevîlerle rekabet yalnız mezhep karşıtlığına indirgenmemelidir. Horasan
+kentleri, kervan yolları, hanedan itibarı ve sınır güvenliği maddi çıkarlar
+yarattı; Sünni ve Şii meşruiyet dilleri bu mücadeleyi daha geniş topluluklara
+anlatmanın aracına dönüştü. Din gerçek bir siyasal etkendi, fakat tek neden
+değildi.[^k1][^k4]
+
+Şeybânî hanedanının sona ermesiyle bölgesel kurumlar yok olmadı. Buhara merkezli
+devlet başka hanedanlar altında devam etti; unvan, yerel seçkin ve vergi
+ilişkileri yeniden düzenlendi. Hanedan tarihi ile devlet tarihi bu nedenle aynı
+tarih çizgisi değildir. Şeybânî örneği, göçebe köken ile yerleşik yönetimi iki
+karşıt dünya değil, kalıcı bir siyasal bileşimin parçaları olarak gösterir.[^k1][^k2]
+
+Bu bileşimin gündelik işleyişi için yalnız hanedan kronikleri değil, vakıf,
+vergi, sikke ve kent kayıtları gerekir. Fetih anlatısı hükümdar değişimini açıklar;
+köylü, zanaatkâr ve tüccarın yeni düzene hangi hızda uyduğunu göstermez. Devletin
+kalıcılığı bu daha yavaş uyarlanmada kurulmuştur.
+
+Siyasi takvim toplumsal değişimin hızını tek başına ölçemez.
+
+Yerel süreklilik ayrıca izlenmelidir.

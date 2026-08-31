@@ -51,7 +51,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak kuramı şöyle tanımlar: nüfus artışı Malthusçu büyüme modeline göre
 potansiyel olarak üsteldir, gıda arzının ya da diğer kaynakların büyümesi ise
 doğrusaldır; bu, yaşam standartlarını sonunda bir nüfus düşüşünü tetikleyecek
@@ -63,7 +62,7 @@ Kaynak bu olayın adlarını sıralar: Malthusçu felaket, Malthus tuzağı, nü
 tuzağı, Malthusçu denetim, Malthusçu kapma, Malthusçu kriz, kriz noktası ve
 Malthusçu daralma.[^k1]
 
-::tartismali[Kaynak bu adlardan ikisinin yanına kendi kaynak gerekli işaretini koymuştur. Korpus işareti silmez: bir adın kaynaksız olması, adın kendisi kadar kaydedilmeye değer.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Kaynak bu adlardan ikisinin yanına kendi kaynak gerekli işaretini koymuştur.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu tür işaretlerin nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -73,9 +72,6 @@ haritasında ele alınıyor.
 
 Kaynak olayın, nüfus artışı tarımsal üretimi geçerse gerçekleşeceğinin
 öngörüldüğünü ve bunun kıtlığa ya da savaşa yol açacağını yazar.[^k1]
-
-Bir olgunun gerçekleşmiş değil öngörülmüş olarak kaydedilmesi,[^k1] korpusun bu
-dosyayı bir olay değil bir kavram olarak tuttuğunun dayanağıdır.
 
 ## Zincirin devamı da kuramın parçasıdır
 
@@ -92,10 +88,6 @@ Malthus](/dusunur/malthus/) dosyasında ele alınıyor.[^k2][^k1]
 Uzun dönemli seride dünya nüfusu 1800 için yaklaşık 983,1 milyon, 1900 için
 yaklaşık 1,63 milyar, 2020 için yaklaşık 7,89 milyardır.[^k3]
 
-Korpus bu seriyi kuramın çürütülmesi olarak sunmaz: kuram belirli koşullar altında
-bir sonuç öngörür, seri ise koşulların gerçekleşip gerçekleşmediğini kendi başına
-söylemez.[^k1][^k3]
-
 ## Kanıtın ve kapsamın sınırı
 Kuramın tarihi, yeni-Malthusçuluk, eleştiriler ve çevre tartışmalarındaki yeri
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
@@ -106,3 +98,59 @@ olarak işler.[^k1]
 Bu kavramın formüle edildiği eser Malthus, *Nüfus İlkesi Üzerine Deneme*'dir; dosya o eserin kamu malı
 tam metnine bağlanır.[^k4] Kavrama yapılacak atıflar, kavramı tanımlayan
 bölüm belirtilerek verilmelidir.
+
+## Tuzak bir kehanet değil mekanizmadır
+
+Malthusçu modelde üretim arttığında kişi başına kaynak geçici olarak çoğalır;
+yaşam koşullarındaki iyileşme nüfus artışını destekler; büyüyen nüfus toprağa ve
+gıdaya baskı yapınca kişi başına kazanç yeniden geçim düzeyine yaklaşır. Buradaki
+“tuzak”, nüfusun her zaman açlıkla son bulacağı iddiasından çok, teknolojik veya
+üretimsel kazancın neden kalıcı bir refah artışına dönüşemeyebileceğini açıklayan
+geri besleme döngüsüdür.[^k1][^k4]
+
+Modelin öğeleri ayrı ayrı görünür olmalıdır. Birincisi nüfusun doğum ve ölüm
+oranları üzerinden verdiği tepki; ikincisi toprağın veya başka kaynakların azalan
+getirisi; üçüncüsü ücret ve gıda fiyatlarının davranışıdır. Üretim nüfustan hızlı
+artarsa kişi başına gelir yükselebilir. Nüfus artışı yavaşlar, tarımsal verim
+sürekli yükselir ya da gıda uzak pazarlardan sağlanırsa döngü zayıflar. Bu yüzden
+“nüfus arttı, demek ki Malthus tuzağı vardı” sonucu yeterli değildir; ücretlerin,
+beslenmenin, ölüm oranlarının ve üretkenliğin de aynı dönemde izlenmesi gerekir.[^k1]
+
+## Önleyici ve yıkıcı denetimler
+
+Malthus’un kurduğu çerçevede nüfus baskısı yalnız kıtlıkla dengelenmez. Evlilik
+yaşının yükselmesi veya doğumların sınırlanması gibi davranışlar artışı önceden
+yavaşlatabilir; salgın, savaş ve kıtlık ise ölüm oranını yükselten yıkıcı
+denetimlerdir.[^k1][^k4] Bu ayrım önemlidir, çünkü aynı nüfus yoğunluğu farklı
+kurumlarda farklı sonuç üretir. Miras kuralları, kadınların eğitimi, çocuk emeğinin
+değeri, kentleşme ve sosyal güvence ailelerin kararlarını değiştirir. Demografi,
+yalnız biyolojik çoğalma değil, ekonomik beklentilerle şekillenen toplumsal bir
+süreçtir.
+
+Sanayi çağındaki kalıcı kişi başına gelir artışı, klasik döngünün neden her yerde
+sonsuz olmadığını gösterir. Fosil enerji, mekanizasyon, gübre, ulaşım, tıp ve
+kamusal sağlık üretim ile ölüm oranlarının ilişkisini dönüştürdü. Ardından
+doğurganlığın düşmesiyle [Demografik geçiş](/kavram/demografik-gecis/) nüfus ve
+refah arasındaki eski bağın başka bir düzene geçtiğini açıklar. Bu dönüşüm
+Malthus’un geçmiş toplumlara dair bütün sezgilerini değersizleştirmez; modelin
+hangi koşullarda çalıştığını sınırlar.[^k1]
+
+## Olayı modele zorlamamak
+
+[İrlanda Kıtlığı](/olay/irlanda-kitligi/) incelenirken ürün hastalığı, toprak
+düzeni, ihracat, yardım siyaseti ve yönetim tercihleri nüfus baskısıyla birlikte
+ele alınmalıdır. [Yeşil Devrim](/olay/yesil-devrim/) ise verim artışının toprak
+sınırını nasıl erteleyebildiğini, fakat su, gelir dağılımı ve çevre maliyetleri
+gibi yeni sınırlar yaratabildiğini gösterir. Uzun dönemli nüfus serisi modelin
+ölçeğini kurar; tek başına neden kanıtı değildir.[^k3]
+
+Kavram güncel tartışmalarda da koşullu kullanılmalıdır. Küresel toplamlar yerel
+erişim sorunlarını; yeterli üretim de yoksulların gıdayı satın alamamasını
+gizleyebilir. Sağlam bir Malthusçu açıklama, yalnız insan sayısını değil üretim
+tekniğini, dağıtım kurumlarını, ekolojik sınırı ve hanelerin verdiği demografik
+tepkiyi aynı nedensellik zincirine yerleştirir.[^k1]
+
+Modelin ahlaki kullanımına da dikkat edilmelidir. Kıtlığı yalnız fazla nüfusa
+bağlamak, ürün mevcutken erişimi engelleyen fiyat, mülkiyet ve siyasal kararları
+görünmez kılabilir. Demografik baskı olası bir etkendir; dağıtımın nasıl
+örgütlendiği insanların gerçekten aç kalıp kalmayacağını belirler.

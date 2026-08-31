@@ -326,10 +326,24 @@
       ],
       "guven": "dusuk",
       "inceleme": "Gezinme cumlesi; iddia tasimaz. k3 yalnizca Mengzi-Konfucyus baglantisinin baglamini verir."
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "Bu itiraza göre kavram, tam da kültürün biçimlendiği Doğu Zhou döneminde derin değişimler geçirdi ve başlangıçtaki çekiciliğinin çoğunu yitirdi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Doğu Zhou'daki dönüşüm ve kavramın ilk çekiciliğini yitirmesi k4'te itirazın kendi diliyle aktarılır."
     }
   ],
   "sayaclar": {
-    "dogrudan": 9,
+    "dogrudan": 10,
     "kismi": 13,
     "desteksiz": 0,
     "olculemez": 1

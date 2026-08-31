@@ -58,7 +58,6 @@ son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak, yazarı MS yaklaşık 56 - yaklaşık 120 arasına yerleştirir ve başlıca
@@ -70,10 +69,6 @@ eserlerini *Agricola*, *Annales*, *Dialogus de oratoribus*, *Germania* ve
 Kaynak eserler bölümünü ikiye böler: Augustus'un ölümünden itibaren Roma
 İmparatorluğu tarihi (altında *Historiae* ve *Annales*) ve monografiler (altında
 *Germania*, *Agricola* ve *Dialogus*).[^k1]
-
-Bir yazarın külliyatının ölçeğe göre ikiye bölünmesi,[^k1] korpusun şu kuralının
-dayanağıdır: bu yazara yapılan atıflar, hangi eserden ve hangi türden geldiği
-belirtilerek verilir.
 
 ## Etki listesinin ilk adı
 
@@ -89,10 +84,8 @@ dosyasında ele alınıyor.
 Kaynak, edebi üslup başlığı altında tarihe yaklaşım ve düzyazı alt başlıklarını
 tutar; ayrıca kaynaklar ve etki için ayrı bölümler ayırır.[^k1]
 
-Bir tarihçinin düzyazısının ayrı bir başlık taşıması,[^k1] korpusun kaynak
-dosyalarında neden yalnızca içeriği değil anlatım biçimini de kaydettiğinin
-dayanağıdır. Yazar [Tacitus](/dusunur/tacitus/) dosyasında, anlattığı düzen ise
-[Roma İmparatorluğu](/aktor/roma-imparatorlugu/) dosyasında ele alınıyor.
+Yazar [Tacitus](/dusunur/tacitus/) dosyasında, anlattığı düzen ise [Roma
+İmparatorluğu](/aktor/roma-imparatorlugu/) dosyasında ele alınıyor.
 
 ## Aynı imparatorluğun sonraki yüzyılları
 
@@ -100,13 +93,7 @@ Aynı imparatorluğun sonraki yüzyıllarına ait bir yazar için tutulan kayıt
 eserlerinin çoğunun bugün tenkitli neşirlerinin mevcut olduğunu yazar.[^k3] O
 yazar [Augustinus](/dusunur/augustinus/) dosyasında ele alınıyor.
 
-## Okumayı sürdürmek için
-Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi çevirinin kullanıldığı her
-aktarımda belirtilmelidir.
-
 ## Metne bağ
 
-Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
-atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
-çevirinin kullanıldığı her aktarımda belirtilmelidir.
+İlk altı kitabı kapsayan kamu malı çeviri erişilebilir durumdadır; her atıf bölüm
+ya da paragraf numarasıyla verilmeli, kullanılan baskı ve çeviri belirtilmelidir.[^k4]

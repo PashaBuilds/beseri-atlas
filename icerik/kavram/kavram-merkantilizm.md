@@ -50,15 +50,10 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak bölümlerini sıralar: tarih, kuram, politikalar, savaşlar ve emperyalizm,
 kökenler, merkantilizmin sonu ve miras.[^k1]
 
 ## Savaş kavramın kendi bölümüdür
-
-Bir iktisat politikasının ansiklopedi maddesinde savaşlar ve emperyalizme ayrı bir
-bölüm ayrılması,[^k1] korpusun iktisat kavramlarını neden askerî eksene de
-bağladığının dayanağıdır.
 
 ## Politikalar ülke ülke ayrılmıştır
 
@@ -72,10 +67,6 @@ tanımının bütün örnekleri kapsamayabileceğini gösterir.
 
 Kaynak, miras başlığı altında neo-merkantilizmi ayrı bir alt başlık olarak tutar
 ve altında güncel bir örneği işler.[^k1]
-
-Bir kavramın hem sonunun hem devamının aynı maddede kaydedilmesi,[^k1] korpusun
-kavram dosyalarında neden bitiş tarihi alanı tutmadığının dayanağıdır: kavramlar
-olaylar gibi bitmez.
 
 ## Dönemin şirket biçimi
 
@@ -103,3 +94,62 @@ malı tam metnine bağlanır.[^k4] Uygulamanın kendisi bu adlandırmadan
 eskidir: Smith kavramı icat etmedi, yürürlükteki bir düzeni adlandırıp
 karşısına geçti. Kavrama yapılacak atıflar, kavramı tanımlayan bölüm
 belirtilerek verilmelidir.
+
+## Zenginlik ile güç arasındaki bağ
+
+Merkantilizm, erken modern devletlerin ticareti yalnız özel kazanç alanı değil,
+siyasal ve askerî gücün kaynağı olarak düzenlediği uygulamalar kümesini anlatır.
+Değerli maden birikimi, ihracatın teşviki, mamul mal ithalatının sınırlanması,
+deniz taşımacılığının korunması ve ayrıcalıklı şirketler bu amaca hizmet edebilir.
+Ortak mantık, dünya ticaretindeki kazancın rakip devletin kaybıyla bağlantılı
+görülebilmesi ve ekonomik aracın devlet rekabetine bağlanmasıdır.[^k1]
+
+Terimi tek ve tutarlı bir doktrin sanmak yanıltıcıdır. Farklı hükümdarlıklar aynı
+dönemde farklı gümrükler, tekeller ve sömürge düzenleri kullandı; yazarlar da
+bunları her zaman *merkantilizm* adı altında savunmadı. Smith’in daha sonra
+uygulamaları *merkantil sistem* olarak bir araya getirip eleştirmesi, adın
+uygulamadan sonra kurulduğunu gösterir.[^k4] Bu nedenle tarihçi, aktörlerin kendi
+amaçlarıyla sonraki kuramsal sınıflandırmayı ayırmalıdır.
+
+## Araçların işleyişi ve maliyeti
+
+Gümrük, yerli üreticiyi dış rekabetten koruyup kapasite oluşturabilir; aynı anda
+tüketici fiyatını yükseltip verimsiz ayrıcalıkları sürdürebilir. İhracat teşviki
+üretimi artırabilir; ücret ve hammaddelerin baskılanmasına yol açabilir. Denizcilik
+yasaları ulusal filoyu büyütebilir; yabancı taşıyıcıları dışlayarak ticaret
+maliyetini yükseltebilir. Ayrıcalıklı şirket, uzak pazarlarda sermaye ve askerî
+gücü bir araya getirebilir; tekel hakkı rekabeti sınırlar ve şiddeti ticari
+hesabın parçası yapar.
+
+[Hollanda Doğu Hindistan Şirketi](/aktor/hollanda-doguhindistan-sirketi/) şirket,
+devlet yetkisi ve denizaşırı ticaretin nasıl birleşebildiğini gösterir.[^k3]
+[Silahlı ticaret](/kavram/silahli-ticaret/) bu düzenin zor kullanma boyutunu
+görünür kılar. Şirketin kârı ile devletin vergi veya strateji kazancı aynı şey
+değildir; hangi maliyetin yerli halka, denizciye, tüketiciye ya da rakip devlete
+yüklendiği ayrıca hesaplanmalıdır.
+
+## Kapitalizmle ilişki, serbest ticaretle karşıtlık
+
+Merkantil düzen özel sermaye, ücretli emek ve kâr arayışıyla birlikte çalışabilir;
+bu yüzden [Kapitalizm](/kavram/kapitalizm/) öncesi basit bir hata sayılmaz.
+Fark, piyasaların siyasal ayrıcalıklar ve devletler arası rekabetle nasıl
+örgütlendiğindedir. Smith’in eleştirisi, üretici tekelinin çıkarını toplumun
+zenginliğiyle özdeşleştirmeye karşı çıkar ve değişimin iki taraf için de kazanç
+üretebileceğini öne çıkarır.[^k2][^k4]
+
+Bir politikayı merkantilist diye adlandırmadan önce amacı, aracı ve yararlanıcısı
+belirlenmelidir: dış denge mi, güvenlik mi, sanayileşme mi, vergi geliri mi?
+Günümüzde korumacılık veya sanayi politikası benzer araçlar kullanabilir; fakat
+farklı para düzeni, uluslararası hukuk ve refah hedefleri içinde çalışır. Tarihsel
+kavramı her gümrüğe yapıştırmak yerine, ticari kazancın devlet gücü ve sıfır toplamlı
+rekabet anlayışıyla kurduğu özel bağı göstermek daha açıklayıcıdır.[^k1]
+
+Başarı da yalnız dış ticaret fazlasıyla ölçülmemelidir. Fazla, içeride tüketimi
+baskılayarak veya ithalatı savaş nedeniyle azaltarak oluşabilir. Uzun vadeli
+üretkenlik, mali dayanıklılık, deniz kapasitesi ve halkın taşıdığı vergi yükü
+birlikte incelenirse politikanın devlet gücü ile toplumsal refah üzerindeki
+farklı etkileri ayrılır.[^k1]
+
+Kimin kazandığı sorusu, ulusal toplamın arkasındaki dağılımı görünür kılar.
+
+Maliyetin zamanı da hesaba katılmalıdır.

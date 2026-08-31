@@ -460,8 +460,8 @@ Dosya, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
 dosyasında ayrıntılı ele alınır ve burada yalnızca döneme
 bağlanır.
 
-Çöküş tartışması burada karara bağlanmaz.[^k5] Korpusun ayrı bir
-tartışma dosyası bu soruyu ele alır.
+Çöküş tartışması burada karara bağlanmaz; süreklilik ve kopuş kanıtları
+ayrı tartışma incelemesinde karşılaştırılır.[^k5]
 
 Sayısal seriler burada yorumlanır, üretilmez.[^k2] Serilerin
 kaynakları ve yöntemleri bağlantılı veri incelemelerinde ayrı ayrı
@@ -658,6 +658,30 @@ zeminini mi kurdu.
 
 İki cevap savunulabilir.[^k5] Çözülme bir boşluk bıraktı; boşluğun
 nasıl doldurulduğu ayrı kararlarla belirlendi.[^k4]
+
+## Roma'nın çöküşünden daha geniş bir dönüşüm
+
+Geç antikiteyi yalnızca Batı Roma İmparatorluğu'nun sonuna doğru akan bir gerileme
+öyküsü olarak okumak, dönemin yarısını görünmez kılar. Batıdaki vergi ve askerî
+örgütlenme parçalanırken Doğu Roma merkezi varlığını sürdürdü; Sasani devleti de
+Mezopotamya ile İran'da güçlü bir rakip olarak kaldı.[^k4][^k5] Germen ve bozkır
+topluluklarının hareketleri yalnızca sınırın dışından gelen saldırılar değildi:
+yerleşme, askerî hizmet, ittifak ve hanedan siyaseti aynı süreçte iç içe geçti.[^k1]
+
+İki büyük imparatorluğun uzun savaşları kaynak ve insan gücünü tüketirken ticaret,
+din ve hukuk sınırların ötesinde dolaşmaya devam etti. Hristiyanlığın kurumsallaşması,
+manastır ağlarının büyümesi ve farklı öğreti merkezlerinin oluşması, siyasal
+parçalanmayla kültürel bağlantının aynı anda var olabildiğini gösterir. Prokopios'un
+savaş ve veba anlatısı, çağdaş bir tanığın büyük olayları nasıl gördüğünü sunar;
+ancak tek bir yazar bütün Akdeniz, Afrika ve Avrasya deneyimini temsil edemez.[^k3]
+Bu nedenle dönemin ana örüntüsü “uygarlığın sona ermesi” değil; kent, vergi, ordu ve
+inanç kurumlarının farklı bölgelerde farklı hızlarla yeniden kurulmasıdır. 650
+sınırı da bir dünyanın ansızın bittiği anı değil, Roma–Sasani dengesinin ardından
+yeni siyasal ve dinî ağların belirleyici hâle gelişini işaret eder.
+
+Hukuk metinleri, sikkeler ve kent kalıntıları kimi kurumların yönetici hanedanlardan
+daha uzun yaşadığını gösterir; bu süreklilik, “çöküş” ile “dönüşüm” yorumları
+arasındaki ayrımın neden yalnız kelime seçimi olmadığını açıklar.[^k1][^k5]
 
 ## Fikir dünyası
 

@@ -560,11 +560,25 @@
       ],
       "guven": "orta",
       "inceleme": "Farkli soruya cevap verdigi degerlendirmesi yorumdur"
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "Taraflar üstelik aynı soruya cevap vermez — Ganshof bir kurumun ne olduğunu, Bloch bir toplumun nasıl işlediğini, Brown ile Reynolds bir sözcüğün ne gizlediğini sorar — ve sorular birbirinin yerine geçmediği için, feodalite sözcüğü hangi tanımın kastedildiği söylenmeden kullanıldığı her bağlamda tartışmanın kendisini yeniden başlatır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 dört yaklaşımın farklı soru ve ölçeklerini karşılaştırmaya temel verir; tanımsız kullanımın tartışmayı yeniden başlattığı sonuç yazarın sentezidir."
     }
   ],
   "sayaclar": {
     "dogrudan": 33,
-    "kismi": 3,
+    "kismi": 4,
     "desteksiz": 0,
     "olculemez": 2
   },

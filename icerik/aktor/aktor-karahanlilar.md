@@ -54,17 +54,10 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Nerede durduğu
 
-Karahanlılar, Mâverâünnehir ile Doğu Türkistan arasındaki bölgede hüküm süren
-ve merkezlerini Balasagun ile Kâşgar'da tutan bir hanedandır.[^k1] Korpusun bölge
-şemasında Orta Asya ile İslam dünyasının kesiştiği yerde durur; iki bölge
-etiketi birden taşımasının sebebi budur.
-
-Hanedanın korpus açısından ayırt edici yanı siyasi genişliği değil, yönettiği
-dönemde üretilen ve bugüne ulaşan metinlerdir.[^k1][^k2][^k3] Bu inceleme bu yüzden
-öncelikle o metinler üzerinden kurulur.
+Karahanlılar, Mâverâünnehir ile Doğu Türkistan arasındaki bölgede hüküm süren ve
+merkezlerini Balasagun ile Kâşgar'da tutan bir hanedandır.[^k1]
 
 [Sâmânîler](/aktor/samaniler/) dosyası aynı coğrafyanın bir önceki siyasi
 düzenini anlatır; iki dosya birlikte okunduğunda hanedan değişiminin idari ve
@@ -72,15 +65,11 @@ kültürel süreklilikle nasıl bir arada durabildiği görünür.[^k1]
 
 ## İki metin, tek dönem
 
-Bu inceleme iki birincil metne bağlanır: bir siyaset ve ahlak kitabı ile bir
-sözlük.[^k2][^k3] İkisi de aynı hanedanın yönettiği yıllarda, aynı kültürel
-ortamda yazılmıştır ve ikisinin de bugün erişilebilir çevirileri vardır.
+İkisi de aynı hanedanın yönettiği yıllarda, aynı kültürel ortamda yazılmıştır ve
+ikisinin de bugün erişilebilir çevirileri vardır.
 
-Bu, korpusun Orta Asya kapsamında ilk kez gerçekleşen bir durumdur. Bu incelemeden
-önce yazılan [Sâmânîler](/aktor/samaniler/) dosyası için doğrulanabilir bir
-birincil metin bulunamamış ve bu eksiklik o dosyada beyan edilmişti.[^k1]
-Karahanlı döneminde durum farklıdır; fark, hanedanın daha çok kayıt tutmasından
-değil, o kayıtların çevrilip dijitalleştirilmiş olmasından gelir.
+Karahanlı döneminde durum farklıdır; fark, hanedanın daha çok kayıt tutmasından değil, o
+kayıtların çevrilip dijitalleştirilmiş olmasından gelir.
 
 Bu ayrım önemlidir. Bir dönemin "kaynak açısından zengin" görünmesi, o dönemin
 daha çok yazdığını değil, yazdıklarının daha çok korunduğunu ve daha çok
@@ -93,10 +82,8 @@ eserdir.[^k1][^k2] Metin, soyut ilkeleri karşılıklı konuşan kişiler üzeri
 işler; her kişi bir niteliği temsil eder ve tartışma bu kişiler arasında
 yürür.[^k2]
 
-Bu biçim, eserin ne olduğunu da belirler: bir yasa derlemesi ya da tarih
-kaydı değil, yöneticiye yönelik bir öğüt metnidir.[^k2] Korpus bu ayrımı
-korur; bir öğüt metninden dönemin fiilî yönetim pratiği doğrudan
-okunamaz.
+Bu biçim, eserin ne olduğunu da belirler: bir yasa derlemesi ya da tarih kaydı değil,
+yöneticiye yönelik bir öğüt metnidir.[^k2]
 
 Eserin Türkçe yazılmış olması, dönemin yazı dili tercihleri açısından ayrıca
 kaydedilir.[^k1][^k2] Arapça ve Farsça yazı dili olarak kullanılmayı
@@ -106,18 +93,13 @@ kimlik arasındaki bağın o dönemde nasıl kurulduğu sorusunu doğurur.
 ## Dîvânu Lugâti't-Türk: sözlük olarak kayıt
 
 İkinci metin bir sözlüktür ve Türk lehçelerini Arapça konuşan bir okur için
-derler.[^k1][^k3] Bir sözlüğün korpus açısından değeri, kelime listesi
-olmasında değil, kelimeleri örnekleyen malzemede yatar: atasözleri, şiir
-parçaları ve kullanım notları, sözlüğün derlendiği dönemin gündelik
-dünyasından kesitler taşır.[^k3]
+derler.[^k1][^k3]
 
 Eser ayrıca lehçeleri birbirinden ayırır ve hangi biçimin hangi toplulukta
 kullanıldığını kaydeder.[^k3] Bu, bir dil topluluğunun içindeki çeşitliliğin
 o dönemde fark edilip yazıya geçirildiğini gösterir.
 
-Sözlüğün bir harita içermesi de kayda değer.[^k3] Bir dil derlemesinin
-coğrafyayla birlikte sunulması, dil ile yer arasındaki bağın kurulma
-biçimidir; korpusun kendi bölge şemasının sorduğu soruyla aynı ailedendir.
+Sözlüğün bir harita içermesi de kayda değer.[^k3]
 
 ## İslamlaşma ve yazı dili
 
@@ -126,14 +108,12 @@ işaretlerinden biri olarak kaydedilir.[^k1] Bu benimseme, yukarıdaki iki
 metnin de arka planıdır: ikisi de İslamî çerçeve içinde, ama Türkçe
 yazılmıştır.[^k1][^k2][^k3]
 
-İki unsurun bir arada durması, korpusun dinî ve kültürel eksen etiketlerini
-bu incelemeye birlikte eklemesinin dayanağıdır. Din değişimini kültürel kopuş
-olarak okumak, elimizdeki metinlerin varlığıyla çelişir.[^k2][^k3]
+Din değişimini kültürel kopuş olarak okumak, elimizdeki metinlerin varlığıyla
+çelişir.[^k2][^k3]
 
-**Tartışmalı.** Karahanlıların kökeni ve hangi Türk topluluğundan geldiği tartışmalıdır;
-kaynaklarda farklı görüşler birlikte aktarılır.[^k1] Korpus bu konuda bir
-görüşü öne çıkarmaz. Köken sorusunun siyasi kullanımları olduğu için,
-adlandırmanın kendisi de tarafsız değildir.
+**Tartışmalı. ** Karahanlıların kökeni ve hangi Türk topluluğundan geldiği
+tartışmalıdır; kaynaklarda farklı görüşler birlikte aktarılır.[^k1] Köken sorusunun
+siyasi kullanımları olduğu için, adlandırmanın kendisi de tarafsız değildir.
 
 ## Sâmânîlerden devralma
 
@@ -141,31 +121,21 @@ Hanedanın Mâverâünnehir'e yerleşmesi, bir önceki düzenin sona ermesiyle
 birlikte gerçekleşmiştir.[^k1] Devralma, kurumların tamamen değişmesi
 anlamına gelmemiştir; idari yapının önemli bölümü sürmüştür.[^k1]
 
-Bu süreklilik, korpusun aktör dosyalarını neden hanedan düzeyinde tuttuğunun
-sınırını da gösterir. Hanedan değişimi görünür bir kesittir ama tek başına
-bir dönem sınırı vermez; [Dönem 07](/donem/07/) dosyası aynı yılları bütün
-bölgeler üzerinden ele alır.
+Hanedan değişimi görünür bir kesittir ama tek başına bir dönem sınırı vermez; [Dönem
+07](/donem/07/) dosyası aynı yılları bütün bölgeler üzerinden ele alır.
 
-Sonraki yüzyıllarda hanedanın doğu ve batı kolları farklı siyasi bağımlılıklar
-altına girmiştir.[^k1] Bir siyasi birimin bölünerek devam etmesi, korpusun
-başlangıç ve bitiş tarihi vermesini zorlaştırır; künyede verilen tarihler
-kaynaktaki genel çerçeveyi izler ve kesin sınırlar olarak okunmamalıdır.[^k1]
+Sonraki yüzyıllarda hanedanın doğu ve batı kolları farklı siyasi bağımlılıklar altına
+girmiştir.[^k1]
 
 ## Kaynak durumu
-
-Bu inceleme üç kaynağa dayanır: hanedan üzerine bir ansiklopedi maddesi[^k1] ve
-dönemin iki eserinin İngilizce çevirileri.[^k2][^k3] İki birincil metnin
-bulunabilmesi, bu incelemeyi korpusun Orta Asya kümesindeki diğer dosyalardan
-ayırır.
 
 İki birincil kaynağın da aynı alan adında bulunması bir zayıflıktır ve burada
 beyan edilir. Ayrıca ikisi de çeviridir; özgün metne değil, bir aktarıma
 bağlanılmıştır. Esere yapılacak atıflarda hangi çevirinin kullanıldığı
 belirtilmelidir.[^k2][^k3]
 
-Bu incelemenin kapsamadıkları da belirtilmelidir. Hanedanın siyasi tarihi
-ayrıntılı olarak işlenmez; mimari ve sanat üretimi hiç ele alınmaz. İkisi de
-ayrı dosyalar gerektirir ve bu inceleme yazıldığında korpusta bulunmuyorlardı.[^k1]
+Hanedanın siyasi tarihi ayrıntılı olarak işlenmez; mimari ve sanat üretimi hiç ele
+alınmaz.
 
 ## İki metnin birbirini tamamlaması
 
@@ -179,7 +149,6 @@ konuşulanın ne olduğunu kaydeder.[^k2][^k3] Birincisi normatiftir, ikincisi
 betimleyici. Aynı dönemden iki farklı türde metnin elimizde olması, o dönemi
 tek bir kaynak türünden okumanın nasıl eksik kalacağını gösterir.
 
-Korpusun kaynak türlerini künyede ayrı ayrı işaretlemesinin sebebi budur.
 Bir iddianın öğüt metninden mi yoksa kayıttan mı geldiği, iddianın ağırlığını
 değiştirir; künye bu farkı gizlemez.[^k2][^k3]
 
@@ -199,38 +168,21 @@ sunmasından anlıyoruz.[^k2][^k3] Bir dilde yazmayı savunmak gerekiyorsa, o
 dilde yazmak henüz olağan değil demektir; gerekçe sunma ihtiyacının kendisi
 dönemin durumunu gösterir.
 
-Korpus bu tür dolaylı işaretleri kaydetmeye önem verir. Bir metnin ne dediği
-kadar, neyi açıklama gereği duyduğu da bilgi taşır.
+Bir metnin ne dediği kadar, neyi açıklama gereği duyduğu da bilgi taşır.
 
-Aynı soru başka bölgeler için de sorulabilir. Bir yazı dilinin kurumsallaşması,
-[Sâmânîler](/aktor/samaniler/) dosyasında Farsça için, bu incelemede Türkçe için
-kaydedilmiştir; ikisi de aynı yüzyılların içindedir ve aynı coğrafyada
-gerçekleşmiştir.[^k1]
-
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun Orta Asya kapsamını genişletme çalışmasının dördüncü
-adımıdır.[^k1] Önceki üçü iki düşünür ve bir siyasi birim dosyasıydı.
+Aynı soru başka bölgeler için de sorulabilir.
 
 Dördüncü adımda ilk kez iki birincil metin birden bağlanabildi. Bu, önceki
 dosyalarda beyan edilen kaynak sıkıntısının mutlak olmadığını gösterir:
 sorun bölgenin kayıt bırakmaması değil, bırakılan kayıtların ne kadarının
 çevrilip erişilebilir kılındığıdır.[^k2][^k3]
 
-Bu ayrım, korpusun kendi kapsam ölçümlerini okurken de akılda tutulmalıdır.
-Bir bölgenin dosyalarında birincil kaynak azlığı, o bölge hakkında az şey
-bilindiği anlamına gelmez; kullanılan arşivlerin o bölgeyi az kapsadığı
-anlamına gelebilir.
+Bir bölgenin dosyalarında birincil kaynak azlığı, o bölge hakkında az şey bilindiği
+anlamına gelmez; kullanılan arşivlerin o bölgeyi az kapsadığı anlamına gelebilir.
 
 ## Bölünme ve bağımlılık dönemi
 
-Hanedanın doğu ve batı kollarına ayrılması, korpusun aktör dosyalarında sık
-karşılaşılan bir sorunu somutlaştırır: bir siyasi birim ikiye bölündüğünde,
-ortaya çıkan iki birim aynı dosyada mı yoksa ayrı dosyalarda mı ele
-alınmalıdır?[^k1]
-
-Bu inceleme ikisini birlikte tutar. Gerekçe, kaynakların da ikisini aynı
-hanedanın kolları olarak ele almasıdır.[^k1] Ayrı dosyalar açmak, kaynakların
-kurmadığı bir ayrımı korpusun kendisinin kurması olurdu.
+Gerekçe, kaynakların da ikisini aynı hanedanın kolları olarak ele almasıdır.[^k1]
 
 Sonraki dönemde her iki kolun da dış siyasi güçlere bağımlı hâle gelmesi,
 hanedanın sona erişini kademeli kılar.[^k1] Bir birimin ne zaman sona erdiğini
@@ -253,8 +205,61 @@ Aynı yılları bütün bölgeler üzerinden okumak için [Dönem 07](/donem/07/
 dosyası kullanılmalıdır. Dönemin ilim üretimi için
 [Bîrûnî](/dusunur/biruni/) dosyası, biraz daha erken bir kuşağı gösterir.
 
-Bu incelemenin bağlandığı iki metnin nasıl okunacağı konusunda bir uyarı
-gereklidir: ikisi de çeviridir ve çeviriler kendi dönemlerinin okuma
-alışkanlıklarını taşır.[^k2][^k3] Metinlere yapılacak her atıfta hangi
-çevirinin kullanıldığı belirtilmelidir; özgün metinle çalışan bir okur için
-bu inceleme yalnızca bir başlangıç noktasıdır.
+## Bozkır hanedanı ile İslamî kent dünyası
+
+Karahanlılar Karluk ve başka Türk boylarının siyasal mirasını Mâverâünnehir ile
+Kâşgar’ın yerleşik şehir, tarım ve ticaret kurumlarıyla birleştirdi.[^k1] İslam’ın
+hanedan içinde benimsenmesi yalnız inanç tercihi değil, âlim, hukuk, vakıf ve
+bölgesel diplomasi ağlarına girişti. Bütün nüfusun aynı anda dönüştüğü veya eski
+geleneklerin kaybolduğu sonucu çıkarılmamalıdır.
+
+Samanî alanının ele geçirilmesi yeni hükümdarlara mevcut vergi, para, yazışma ve
+şehirli uzmanlık mirası bıraktı. Fetheden seçkinlerin Türkçe unvan ve boy
+bağlantıları sürerken Farsça ve Arapça idari-ilmî çevre önemini korudu. Devletin
+“Türk” veya “İslamî” diye tek kimlikle tanımlanması bu çok dilli iş bölümünü
+gizler.[^k1]
+
+## İkili hükümdarlık ve paylaşılan alan
+
+Hanedan ülkesinin doğu ve batı kolları arasında paylaşılması yalnız parçalanma
+değildi; Cengizli olmayan daha eski bozkır siyasetinde de hanedan üyelerine yetki
+ve gelir alanı dağıtmanın yoluydu. Bu düzen geniş coğrafyada yerel karar hızını
+artırabilir, aynı zamanda üstünlük ve veraset mücadelesini kalıcılaştırabilirdi.
+Haritada tek renk gösterilen Karahanlı alanı, aynı anda birden fazla hanın
+pazarlık ettiği katmanlı bir yapıydı.[^k1]
+
+Selçuklu, Gazneli ve Karahıtay gibi komşuların yükselişi her kolu farklı etkiledi.
+Bir merkezin dış güce bağlılığı bütün hanedanın aynı gün egemenliğini kaybettiği
+anlamına gelmez. Sikke, hutbe, unvan ve vergi ilişkisi hangi tarihte kimin üstün
+sayıldığını anlamak için birlikte okunmalıdır.[^k1]
+
+## Türkçenin yeni siyasal ve ilmî dili
+
+*Kutadgu Bilig*, hükümdar, adalet, akıl ve devlet yönetimi üzerine Türkçe bir
+siyaset ve ahlak dili kurdu.[^k2] Eser yalnız saray tavsiye kitabı değil, bozkır
+unvanlarıyla İslamî düşünce ve kent yönetimi sorularının nasıl birleştirildiğinin
+kanıtıdır. Metindeki ideal hükümdarlık, gerçek Karahanlı uygulamasının birebir
+tasviri sayılmamalı; dönemin içeriden kurduğu eleştiri ve ölçü olarak kullanılmalıdır.
+
+Kaşgarlı Mahmud’un *Dîvânu Lugâti’t-Türk*’ü kelime, ağız, şiir ve coğrafya
+bilgisini Arapça açıklama çerçevesinde toplar.[^k3] Bu tercih Türkçenin değersiz
+olduğunu değil, eserin Arapça okuyan ilmî çevreye Türk dillerini tanıtma amacını
+gösterir. Harita ve örnekler dil dünyasının hanedan sınırından daha geniş
+olduğunu ortaya koyar.
+
+İki eser bugüne ulaşmış seçkin metinlerdir; dönemin bütün konuşma ve düşünce
+üretimini temsil etmez. Kopya tarihi, nüsha farkı ve sonraki okuma biçimi özgün
+bağlama eklenmelidir. Yine de Türkçenin İslamî yazı ve siyaset dili olarak yüksek
+düzeyde kullanılabildiğini doğrudan kanıtlar.[^k1]
+
+## Son değil dönüşüm
+
+Karahanlı hanedanının kolları dış güçlere bağlanıp sona ererken kentler, vakıflar,
+ticaret ve Türkçe-İslamî kültür sürdü. Sonraki hanedanlar hazır kurum ve insan
+ağlarını devraldı. Siyasi takvim ile dil veya din tarihini eşitlemek bu yavaş
+sürekliliği kaçırır.
+
+Karahanlı örneği, fetih ile kültürel üretimin tek yönlü olmadığını gösterir:
+bozkır kökenli hanedan şehrin kurumları içinde değişirken Türkçe de yeni siyasal
+ve ilmî alanlara girdi. Devletin önemi yalnız sınırlarının büyüklüğünde değil,
+farklı gelenekleri kalıcı bir yazı ve yönetim bileşiminde buluşturmasındadır.[^k1][^k2][^k3]

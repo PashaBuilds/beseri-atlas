@@ -1,7 +1,7 @@
 {
   "id": "aktor-emevi-hilafeti",
-  "govde_hash": "03b1979be4c5",
-  "commit": "f403bfb",
+  "govde_hash": "06780b5932e3",
+  "commit": "889239af",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -63,7 +63,7 @@
     },
     {
       "iddia_id": "i005",
-      "cumle": "Bu ayrım devleti finanse etti; aynı ayrım, hânedanı deviren Abbâsî ihtilâline kaynağın ifadesiyle \"damgasını vuran\" kitleyi de üretti.",
+      "cumle": "Bu ayrım devleti finanse etti; aynı ayrım, hânedanı deviren Abbâsî ihtilâline katılan kitleyi de üretti — kaynağın ifadesiyle mevâlî o ihtilâle \"damgasını vurdu\".",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -641,5 +641,11 @@
     "kismi": 1,
     "desteksiz": 0,
     "olculemez": 0
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-30",
+      "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

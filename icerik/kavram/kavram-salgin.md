@@ -41,26 +41,16 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak ilk bölümünü tanıma ayırır ve altında parametreler diye ayrı bir alt
 başlık tutar; ardından önleme ve hazırlık, salgın yönetimi stratejileri ve grip
 salgınları için çerçeveler bölümleri gelir.[^k1]
 
 ## Salgın ilan etmek bir eşik kararıdır
 
-Tanımın altında parametrelerin ayrı bir alt başlık olarak tutulması ve grip
-salgınları için ayrı çerçevelerin sayılması,[^k1] korpusun şu kuralının
-dayanağıdır: bu korpusta bir olayın salgın sayılması, hangi çerçevenin
-kullanıldığı belirtilerek kaydedilir.
-
 ## Etik ve siyasi meseleler ayrı bir alt başlıktır
 
 Kaynak, önleme ve hazırlık başlığı altında etik ve siyasi meseleleri ayrı bir alt
 başlık olarak tutar.[^k1]
-
-Bir sağlık kavramının maddesinde siyasi meselelerin ayrı bir başlık taşıması,
-[^k1] korpusun salgın dosyalarını neden siyasi eksene de bağladığının
-dayanağıdır.
 
 ## Kayda değer örnekler ayrı bir bölümdür
 
@@ -73,10 +63,6 @@ tarihler.[^k1] O örnek
 
 Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1400 yılında
 yaklaşık 442,3 milyondur.[^k2]
-
-Korpus bu iki değeri bir salgın ölüm sayısı olarak sunmaz; seri toplam nüfusu
-verir, ölüm nedenini vermez.[^k1][^k2]
-
 
 ## Salgının üç koşulu
 
@@ -103,8 +89,7 @@ doğrudan bir sonucudur.[^k3]
 
 ## Ağın taşıyıcılığı
 
-Salgınlar ticaret yollarını izler.[^k3] Korpusun birçok dosyasında aynı
-örüntü kayıtlıdır.
+Salgınlar ticaret yollarını izler.[^k3]
 
 Bağlantının artması, taşınan her şeyin hızını
 artırır.[^k1] Mal ve hastalık aynı yolu
@@ -138,7 +123,6 @@ birleştirilebilir.
 
 Bir oranın paydası bilinmiyorsa,
 oranın kendisi de bilinmiyordur.[^k1]
-
 
 ## Tedbirin biçimi
 
@@ -186,8 +170,24 @@ Kurumlar salgın geçtikten sonra da kaldı.[^k3] Olağanüstü koşullarda
 kurulan kapasite, koşullar geçince tümüyle geri
 çekilmez.
 
-Aynı bulgu korpusun savaş dönemleri
-dosyalarında da kayıtlıdır.[^k2]
+## Patojen ile toplumsal düzeni birlikte okumak
+
+Salgın, belirli nüfusta beklenenin üzerinde hastalık görülmesidir; pandemi ise bu
+yayılımın çok geniş coğrafyalara ulaşmasını belirtir.[^k1] İki terim yalnız ölüm
+sayısına dayanmaz. Bulaşma yolu, bağışıklık, hareketlilik ve temas ağı patojenin
+biyolojik özellikleriyle birlikte sonucu belirler. Aynı hastalık farklı konut,
+beslenme ve sağlık altyapılarında son derece farklı etkiler üretebilir.
+
+Tarihsel salgınları saymak zordur. Tanı adları değişir, hafif vakalar kayda girmez ve
+ölüm nedeni başka biçimde yazılabilir.[^k2] Toplu mezar, günlük, hastane kaydı ve
+genetik bulgu aynı soruya cevap vermez; tarihleme ve coğrafya bakımından birlikte
+sınanmalıdır. Salgın sırasında alınan karantina, seyahat yasağı veya aşılama kararları
+da yalnız tıp tarihi değildir: kimin hareketinin kısıtlandığını ve maliyetin kim
+tarafından taşındığını gösterir.
+
+“Hastalık toplumu değiştirdi” cümlesi mekanizma belirtilmeden eksik kalır. Nüfus
+kaybının emek ücretine, devlete veya eşitsizliğe etkisi mevcut kurumlar üzerinden
+işler; aynı şok her yerde aynı sonucu doğurmaz.[^k3]
 
 ## Kanıtın ve kapsamın sınırı
 Yönetim stratejileri, çerçevelerin içeriği ve örneklerin ayrıntısı burada ayrı

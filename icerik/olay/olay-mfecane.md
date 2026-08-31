@@ -53,7 +53,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne oldu
 
 On dokuzuncu yüzyılın ilk yarısında, Güney Afrika'nın doğu kesiminde
@@ -64,8 +63,7 @@ ve bazı eski birimler ortadan kalktı.
 Sürecin etkisi geniş bir alana yayıldı.[^k2] Bugünkü birden çok ülkenin
 sınırları içinde kalan bölgeler etkilendi.
 
-Bu incelemenin asıl konusu olayın kendisi değil, hakkındaki
-anlatıdır.[^k3] Anlatının hem adı hem nedeni tartışmalıdır.
+Anlatının hem adı hem nedeni tartışmalıdır.
 
 ## Adın kendisi tartışmalı
 
@@ -80,16 +78,12 @@ içine yerleştirir.
 **Bir olayın adı, o olay hakkında bir
 iddia taşıyabilir; adlandırma tarafsız bir işlem değildir.**[^k3]
 
-## Adlandırmanın korpus için sonucu
-
 Tercih, adın tarafsız olduğu için değil,
 alternatiflerin daha güçlü bir fail iddiası taşıdığı içindir.[^k1]
 
-Tercih bir çözüm değildir.[^k3] Kullanılan ad da bir çerçeve taşır ve
-korpus bunu belirtmeden kullanmaz.
+Tercih bir çözüm değildir.[^k3]
 
-Aynı sorun korpusun başka dosyalarında da vardır.[^k2] Bir olayın nasıl
-adlandırılacağı, çoğu zaman o olay hakkındaki tartışmanın kendisidir.
+Bir olayın nasıl adlandırılacağı, çoğu zaman o olay hakkındaki tartışmanın kendisidir.
 
 ## Yerleşmiş anlatı
 
@@ -122,9 +116,8 @@ kaydedilmiş olabilir.
 İki itiraz da aynı şeyi yapar.[^k3] Faili bölgenin içinden dışına
 taşır.
 
-Bu, korpusun Rapa Nui dosyasında ölçtüğü örüntüyle aynıdır.[^k2] İki
-okuma aynı olguya bakar ve farklı fail gösterir; fail seçimi anlatının
-vereceği dersi de belirler.
+İki okuma aynı olguya bakar ve farklı fail gösterir; fail seçimi anlatının vereceği
+dersi de belirler.
 
 Ölçüm şudur.[^k1] **Bir çöküş ya da altüst oluş anlatısında failin
 bölgenin içinde mi dışında mı arandığı, kanıttan önce yapılan bir
@@ -160,9 +153,7 @@ Sürecin en ayrıntılı anlatıları sözlü aktarımdan gelir.[^k2] Aktarım,
 sonraki dönemde kurulan siyasi birimlerin saraylarında
 sürdürülmüştür.
 
-Bu, aktarımın değerini ortadan kaldırmaz.[^k1] Korpusun sözlü gelenek
-tartışması, aktarımın kurallarının bilinmesi hâlinde güvenilirlik
-derecesinin de değerlendirilebileceğini kaydeder.
+Bu, aktarımın değerini ortadan kaldırmaz.[^k1]
 
 Burada kurallar kısmen bilinmektedir.[^k3] Aktarımın kimin adına ve
 hangi işlev için sürdürüldüğü izlenebilir; bu, aktarımı reddetmeyi
@@ -176,9 +167,7 @@ başlar.[^k2] Kayıtlar, olayın kendisini değil sonuçlarını görür.
 Gözlemciler boşalmış alanlar gördüler ve boşluğu bir yıkımla
 açıkladılar.[^k3] Açıklama, gözlemin kendisi değil bir çıkarımdı.
 
-Bu, korpusun Rapa Nui dosyasında kaydedilen mekanizmanın aynısıdır.[^k1]
-Bir gözlemcinin kaydı ile o gözlemcinin çıkarımı ayrı ayrı
-değerlendirilmelidir.
+Bir gözlemcinin kaydı ile o gözlemcinin çıkarımı ayrı ayrı değerlendirilmelidir.
 
 ## Boşluk anlatısının işlevi
 
@@ -209,9 +198,8 @@ Sürekli birliklerin yaş gruplarına göre kurulması, akrabalık
 bağlarının yerine yeni bir bağ koyar.[^k2] Bu, siyasi merkezileşmeyi
 doğrudan destekler.
 
-Aynı mekanizma korpusun başka dosyalarında da ölçülmüştür.[^k1] Akrabalık
-dışı bir örgütlenme birimi kurmak, merkezin yerel önderlere
-bağımlılığını azaltır.
+Akrabalık dışı bir örgütlenme birimi kurmak, merkezin yerel önderlere bağımlılığını
+azaltır.
 
 Aynı çözüm farklı bölgelerde bağımsız
 olarak geliştirilmiştir.[^k3]
@@ -236,8 +224,7 @@ belirtilmez.
 Sayı vermek yerine yöntemin ne
 olduğunu ve hangi varsayımlara dayandığını yazar.[^k1]
 
-Bu, korpusun nüfus dosyasında tanımlanan genel kuraldır.[^k3] Farklı
-yöntemlerle üretilmiş sayılar aynı seriye konulamaz.
+Farklı yöntemlerle üretilmiş sayılar aynı seriye konulamaz.
 
 ## Çevresel etken iddiası
 
@@ -277,8 +264,6 @@ okuma her sonuca uyar.
 Her etkeni kapsayan bir açıklama,
 hiçbirini sınamayan bir açıklama olabilir.[^k2]
 
-## Bu incelemenin kaydettiği
-
 Dosya, sürecin nedeni hakkında hüküm vermez.[^k1] İki okumayı, kanıt
 durumunu ve adlandırma sorununu kaydeder.
 
@@ -287,8 +272,7 @@ kanıttan önce yapılabildiği, adın bile bir iddia taşıyabildiği ve üç
 kaynak türünün de zayıf olduğu bir konuda güçlü bir sonuç
 kurulamayacağı.
 
-Bu, korpusun kaçındığı hatanın tersidir.[^k2] Bir konuda kesin
-konuşamamak, o konuyu yazmamak için gerekçe değildir; kesin
+Bir konuda kesin konuşamamak, o konuyu yazmamak için gerekçe değildir; kesin
 konuşamadığını yazmak da bir kayıttır.
 
 ## Kanıtın ve kapsamın sınırı
@@ -298,12 +282,36 @@ varlığını ve dayanaklarını kaydeder.
 İtirazların doğru olduğu da söylenmez.[^k3] İki okuma da aynı sınırlı
 kanıta dayanır.
 
-Sürecin ayrıntılı seyri ve tek tek çatışmalar işlenmez.[^k2] Ayrı
-dosyalar gerektirir ve bu inceleme yazıldığında korpusta bulunmuyorlardı;
-bölgedeki siyasi birimlerin hiçbiri için ayrı bir aktör dosyası da
-yoktur ve bu, açık bir borçtur.
+Sürecin ayrıntılı seyri ve tek tek çatışmalar işlenmez.[^k2]
+
+## Açıklamalar birbirini dışlamak zorunda değildir
+
+Kuraklık ve kaynak baskısı hareket alanını daraltmış, fildişi ve köle ticareti
+silahlı rekabeti teşvik etmiş, Zulu devlet oluşumu da askerî ve siyasi dengeleri
+değiştirmiş olabilir. Bu etkenleri tek bir “asıl neden” yarışına sokmak yerine
+zaman ve bölgeye göre hangi sırayla birbirini güçlendirdikleri sınanmalıdır.[^k1]
+Çevresel şok göçü başlatabilir; ticaret talebi şiddeti kârlı kılabilir; yeni ordu
+örgütü şiddetin ölçeğini büyütebilir.
+
+Tartışmanın siyasi önemi, *boş toprak* anlatısında görünür. Afrikalı toplumların
+birbirini yok ettiği ve geniş alanları sahipsiz bıraktığı iddiası, sonraki beyaz
+yerleşimini dışarıdan gelen fetih değil düzen kurma gibi sunabilir. Bu nedenle
+demografi ve yerleşim iddiası yalnız olayın geçmişini değil, toprak hakkının
+sonraki meşruiyetini etkiler.[^k1][^k2]
+
+Sözlü tarih, misyoner kaydı, sömürge raporu ve arkeolojik iz aynı şeyi kaydetmez.
+Birinin sessizliği ötekinin iddiasını otomatik doğrulamaz. Yerleşim sürekliliği,
+hayvan kalıntısı, yağış göstergesi ve anlatıların yazıya geçirildiği tarih yan yana
+getirilmelidir. “Mfecane”yi tek, düzgün sınırlı olaydan çok açıklaması tartışılan
+bölgesel dönüşümler kümesi saymak kanıta daha uygundur.[^k3]
+
+Tarih aralığı da açıklama kadar tartışmalıdır. Başlangıcı tek bir hükümdarın
+yükselişine, bitişi tek bir devletin kurulmasına bağlamak farklı bölgelerdeki
+hareketleri aynı saate uydurur. Her alt bölge için nüfus, yerleşim ve çatışma
+kronolojisi ayrıca kurulmalıdır.
 
 ## Okumayı sürdürmek için
+
 Fail seçiminin kanıttan önce yapılması sorunu için
 [Rapa Nui](/aktor/rapa-nui/) dosyası okunmalıdır; iki dosya birlikte
 okunduğunda aynı yapı iki kıtada görünür.[^k1]

@@ -71,7 +71,7 @@ yılın iki ucu arasındaki fark 1,39 puandır.[^k1]
 ::tartismali[Yalnızca ilk ve son yıla bakan biri "hiçbir şey değişmedi" sonucuna varır. Aradaki yıllar bunu yalanlar.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 İki ucun bu kadar yakın düşmesi, bir serinin iki uç değerle özetlenmemesi
-gerektiğinin en açık dayanağıdır; okuma yöntemi
+gerektiğinin en açık dayanağıdır. Okuma yöntemi
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
 haritasında ele alınıyor.
 

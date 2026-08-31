@@ -53,7 +53,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Düzen ne
 
 Yeni Hebridler ortak yönetimi, aynı ada topluluğunun iki imparatorluk
@@ -63,8 +62,7 @@ paylaşmadı; ikisi de bütünü yönetti.
 Bu, olağan bir sömürge düzeni değildir.[^k2] Olağan biçimde bir bölge
 tek bir yönetime bağlanır.
 
-Bu incelemenin konusu düzenin siyasi tarihi değildir.[^k3] İkili
-yönetimin adada yaşayanlar için ne anlama geldiğidir.
+İkili yönetimin adada yaşayanlar için ne anlama geldiğidir.
 
 ## Nasıl kuruldu
 
@@ -143,9 +141,7 @@ düzenin niteliğini belirlemez.[^k2]
 Adalarda hindistancevizi ve diğer ihraç ürünleri için plantasyonlar
 kuruldu.[^k1] Ekonomi bu ürünlerin fiyatına bağlandı.
 
-Bu, korpusun tek ürüne bağlanma dosyasında tanımlanan yapının bir
-örneğidir.[^k2] Altyapı, işleme ve taşıma tek bir ürün ailesine göre
-kuruldu.
+Altyapı, işleme ve taşıma tek bir ürün ailesine göre kuruldu.
 
 Aynı yapı, bambaşka coğrafyalarda aynı
 kırılganlığı üretir.[^k3]
@@ -169,9 +165,6 @@ idare kendi kaydını tuttu.
 İki kayıt aynı olayı farklı adlandırabiliyordu.[^k2] Aynı toprak
 işlemi, iki dosyada iki farklı hukuki nitelendirmeyle
 görünebiliyordu.
-
-Bu, korpusun Waitangi dosyasında
-kaydettiği iki metin sorununun yönetim düzeyindeki karşılığıdır.[^k3]
 
 ## Adaların ilk haritalanması
 
@@ -325,3 +318,23 @@ biçimleri için [Himaye düzeni](/kavram/himaye-duzeni/) ve
 
 Aynı bölgede plantasyon düzeninin kurulduğu bir başka ada grubu için
 [Fiji Krallığı](/aktor/fiji-kralligi/) dosyası okunabilir.[^k1]
+
+## İki idare, tek ve eşit hukuk demek değildi
+
+Britanya ve Fransa’nın paralel kurumları ortak egemenliği paylaşırken ada halkı,
+yerleşimciler ve şirketler aynı hukuki konuma sahip değildi.[^k1] Bir uyuşmazlıkta
+hangi mahkemenin, hangi dilin ve hangi mülkiyet kuralının geçerli olduğu kişinin
+statüsüne göre değişebiliyordu. İdari çoğulluk yerli topluluklara daha fazla
+seçenek vermek yerine iki sömürge aygıtı arasında hukuk boşluğu yaratabildi.
+
+Plantasyonların emek talebi, başka adalardan işçi toplama ve sözleşme düzenleriyle
+bu ikili yönetime bağlandı.[^k3] Cook’un seyir kaydı Avrupalı temasın erken
+bakışını verir; sonraki sömürge kurumlarının yerli hayat üzerindeki sonucunu tek
+başına açıklamaz.[^k2] Bağımsızlığa geçiş bu nedenle yalnız bayrak değişimi değil,
+çakışan arazi, dil ve hukuk mirasını tek siyasal düzende yeniden kurma sorunuydu.
+
+Bağımsızlık sonrası kurumların değerlendirilmesi de yalnız sömürge kuralının
+kaldırılmasına değil, yerli toplulukların arazi ve temsil üzerindeki gerçek
+karar gücüne bakmalıdır.
+
+Hukuki birleşme, toplumsal eşitliğin kendiliğinden gerçekleştiği anlamına gelmez.

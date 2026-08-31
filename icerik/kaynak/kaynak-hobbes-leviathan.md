@@ -60,17 +60,12 @@ son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak eseri Leviathan başlığıyla işler ve içerik bölümünün altında başlık, ön
 kapak gravürü, giriş ile dört kısmı ayrı alt başlıklar olarak tutar.[^k1]
 
 ## Görsel de metnin parçası sayılır
-
-Bir kitabın ön kapak gravürüne ayrı bir alt başlık ayrılması,[^k1] korpusun şu
-kuralının dayanağıdır: bu incelemede eserin savunduğu şey, yalnızca cümlelerinden
-değil kitabın sunum biçiminden de okunabilecek bir kayıt olarak anılır.
 
 ## Devlet kısmı dört alt başlığa ayrılır
 
@@ -86,9 +81,6 @@ kavram [Egemenlik](/kavram/egemenlik/) dosyasında ele alınıyor.[^k3]
 Kaynak, birinci kısımda yazarın duyu deneyciliği ve insan doğasına dair anlatısını
 verirken sözcükleri ve tanımlarını merkeze aldığını yazar.[^k1]
 
-Bir felsefe metninin tanımlarla açılması,[^k1] korpusun terim kilidi kapısının
-erken bir örneğidir: tartışma, terimlerin sabitlenmesiyle başlar.
-
 ## Aynı eserin iki baskısı aynı metin değildir
 
 Yazar için tutulan ayrı bir kayıt, 1668'de eserin Latince bir baskısını
@@ -100,5 +92,5 @@ dosyasında ele alınıyor.[^k1][^k2]
 
 ## Metne bağ
 
-Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Eserin kendisi kamu malıdır; hangi baskının
-kullanıldığı her aktarımda belirtilmelidir.
+Eserin kamu malı tam metni erişilebilir durumdadır; hangi baskının kullanıldığı
+her aktarımda belirtilmelidir.[^k4]

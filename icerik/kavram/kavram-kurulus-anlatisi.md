@@ -198,6 +198,15 @@ tekrarlanan bir anlatı, sınanmadan bilinen bir çerçeve hâline gelir.
 Bir anlatının ne sıklıkla anıldığı, o
 anlatıya ne kadar ihtiyaç duyulduğunu gösterir.[^k2]
 
+## Anlatı ile kroniği ayırmak
+
+Kuruluş anlatısı geçmişte ne olduğunu aktarmanın yanında, sonraki kuşakların siyasal
+düzeni nasıl meşrulaştırdığını da gösterir.[^k1] Geç tarihte yazıya geçirilmiş bir
+öykü bütünüyle değersiz değildir; fakat kuruluş anının doğrudan tanıklığı gibi
+kullanılamaz. Anlatıdaki soy, kehanet ve kahramanlık unsurları çağdaş belgelerle
+karşılaştırılmalı; tarihsel çekirdek ile sonraki yönetimlerin ihtiyaçları ayrı
+düzlemlerde incelenmelidir.[^k2]
+
 ## Okumayı sürdürmek için
 Kavramın uygulandığı örnekler için
 [Kojiki](/kaynak/kojiki/), [Gılgamış Destanı](/kaynak/gilgamis-destani/)

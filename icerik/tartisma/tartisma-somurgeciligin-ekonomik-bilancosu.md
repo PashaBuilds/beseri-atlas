@@ -264,7 +264,7 @@ kapsar; yoksulluk serileri ancak yirminci yüzyılın sonunda başlar.[^k3]
 Konumun zayıflığı pratiktir.[^k1] Ölçü yokluğunu kaydetmek bilançoyu
 çıkarmaz ve hiçbir tarafa cevap vermez.
 
-::tartismali[Beş ölçüt beş ayrı sonuç verir. Korpus bu incelemede hiçbir bilanço rakamı üretmez ve ölçütlerden birini seçmez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Beş ölçüt beş ayrı sonuç verir. Burada yeni bir bilanço rakamı üretilmez ve ölçütlerden biri tek başına belirleyici sayılmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 ## Dönem uzunluğu sorunu
 
@@ -372,8 +372,8 @@ aynı elden çıkmıştır.
 Bu, ölçenin ölçüleni de üretmesi demektir.[^k3] Kayıt hangi kategorileri
 kullanıyorsa, bilanço da o kategorilerle çıkarılır.
 
-Bu, korpusun kast dosyasında kaydedilen kuralın
-buradaki karşılığıdır: ölçmek, ölçülen ayrımı kayıtta kalıcılaştırır.[^k2]
+Aynı sorun kast kayıtlarında da görülür: ölçmek, ölçülen ayrımı kayıtta
+kalıcılaştırır.[^k2]
 
 ## Ticaret hadleri kalemi
 
@@ -431,13 +431,34 @@ Sorular şunlardır.[^k3] Hangi ölçüt kullanıldı, hangi dönem alındı,
 hangi tarafın defteri tutuldu, karşılaştırma noktası neydi ve neyin
 kaydı yoktu.
 
-Bu beş soru cevaplanmadan verilen bir bilanço rakamı, korpusta
-kullanılmaz; alıntılanırsa da hangi sorunun cevapsız kaldığı
-belirtilerek alıntılanır.[^k2]
+Bu beş soru cevaplanmadan verilen bir bilanço rakamı güvenilir bir toplam olarak
+kullanılamaz; alıntılanırsa hangi sorunun cevapsız kaldığı da belirtilmelidir.[^k2]
 
 Dosyanın kapanışı bir kararsızlık değildir.[^k1] Beş ölçütü ayrı ayrı
 adlandırmak, hangi rakamın hangi soruya cevap verdiğini görünür
 kılar.[^k3]
+
+## Tek rakam yerine karşılaştırma matrisi
+
+Ekonomik bilançoyu tek toplamda ifade etmek için önce kimin kazanç ve kaybının
+ölçüldüğü belirlenmelidir: sömürge devleti, yatırımcı, yerel aracı gruplar, üreticiler
+veya sonraki kuşaklar aynı sütunda toplanamaz. Ardından karşı-olgusal senaryo gerekir.
+Demiryolu, liman ya da eğitim yatırımı sömürge yönetimi olmasaydı hiç yapılmayacak
+mıydı, başka zamanda ve başka mülkiyet koşullarında mı yapılacaktı? Bu soru
+cevaplanmadan brüt yatırım tutarı net kazanç sayılamaz.[^k1]
+
+Zaman ufku da sonucu değiştirir. Kısa vadeli ihracat artışı, toprağın el değiştirmesi,
+zorunlu emek veya tek ürüne bağımlılığın uzun maliyetini örtebilir. Adam Smith'in
+tekelci sömürge ticaretine yönelttiği eleştiri, maliyetlerin metropol toplumunda bile
+eşit dağılmadığını gösterir.[^k2] Kişi başına gelir serileri karşılaştırma sağlar,
+fakat sınır, nüfus ve fiyat varsayımlarını miras alır; dağılım ile siyasal zorlamayı
+tek başına ölçmez.[^k3]
+
+Bu nedenle dürüst çıktı bir “artı” veya “eksi” rakamı değil; aktör, dönem, karşı-olgusal
+senaryo, dağılım ve zor kullanımını ayrı sütunlarda gösteren matristir. Ölçütler
+birleşmeden önce ayrılmalıdır; aksi hâlde kesin görünen sayı, tartışmalı varsayımları
+yalnızca görünmez kılar. Aynı toplamın ardında farklı toplumsal gruplar için zıt
+sonuçlar bulunabilir; dağılım gösterilmeden “toplam refah” hükmü eksik kalır.
 
 ## Okumayı sürdürmek için
 Kavramın kendisi için [Emperyalizm](/kavram/emperyalizm/), birinci

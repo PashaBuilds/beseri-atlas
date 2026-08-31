@@ -63,7 +63,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Gülhane Hatt-ı Şerîfi, 1839'da bir saray bahçesinde toplanan
@@ -74,9 +73,7 @@ Bildirilen esaslar üç başlıkta toplanır.[^k2] Can, mal ve namus
 güvencesi; vergi düzeninin belirli kurallara bağlanması; askerlik
 yükümlülüğünün düzenlenmesi.
 
-Bu incelemenin asıl konusu güvencelerin kapsamıdır.[^k1] Metin,
-güvencelerin bütün uyruklara ayrım gözetilmeksizin tanındığını
-belirtir.
+Metin, güvencelerin bütün uyruklara ayrım gözetilmeksizin tanındığını belirtir.
 
 ## Kendini sınırlamanın biçimi
 
@@ -84,9 +81,7 @@ Metnin ayırt edici yanı, hükümdarın kendi koyduğu kurala kendisinin de
 bağlı olduğunu bildirmesidir.[^k1] Bağ, dışarıdan bir zorlamayla değil
 kendi iradesiyle kurulur.
 
-Bu, korpusun Magna Carta dosyasında ölçtüğü durumun tersidir.[^k2] Orada
-hükümdarın sınırlanması bir yenilginin ardından ve zorlamayla
-gerçekleşti.
+Orada hükümdarın sınırlanması bir yenilginin ardından ve zorlamayla gerçekleşti.
 
 Ölçüm şudur.[^k3] **Hükümdarın kendini sınırlaması iki yoldan olabilir:
 bir güç dengesi onu zorlayarak ya da kendi hesabı onu buna
@@ -157,8 +152,7 @@ tamamı, hak kapsamının hangi biçimlerde kurulabildiğini gösterir.
 
 ## Uygulamanın ölçülmesi
 
-Metnin ilan edilmesi ile uygulanması ayrı iki olgudur.[^k2] Korpus bu
-ayrımı bütün hukuk belgesi künyelerinde uygular.
+Metnin ilan edilmesi ile uygulanması ayrı iki olgudur.[^k2]
 
 Uygulama düzensiz oldu.[^k3] Bazı bölgelerde yeni esaslar hızla
 yürürlüğe girdi, bazı bölgelerde yerel direnişle karşılaştı.
@@ -173,17 +167,16 @@ Direniş yalnızca bir kesimden gelmedi.[^k3] Ayrıcalığını kaybeden yerel
 güçler ile önceki düzendeki konumunu koruyan kesimler farklı
 gerekçelerle karşı çıktı.
 
-Bu, korpusun çok sayıda reform dosyasında ölçtüğü örüntüdür.[^k2] Bir
-düzenleme, kazananları dağınık ve kaybedenleri örgütlü olduğunda
-uygulanmakta zorlanır.
+Bir düzenleme, kazananları dağınık ve kaybedenleri örgütlü olduğunda uygulanmakta
+zorlanır.
 
 Bir reformun hızı, içeriğinden çok kaybedenlerin
 örgütlenme kapasitesine bağlı olabilir.[^k1]
 
 ## Metnin dolaşımı
 
-Metin, ilan edildikten sonra Fransızcaya çevrilerek Avrupa
-başkentlerine gönderildi.[^k1] Bu incelemenin birinci künyesi o çeviridir.
+Metin, ilan edildikten sonra Fransızcaya çevrilerek Avrupa başkentlerine
+gönderildi.[^k1]
 
 Çevirinin varlığı bir bilgi taşır.[^k3] Metin yalnızca iç bir düzenleme
 değil, dışarıya yönelik bir bildirim olarak da tasarlanmıştı.
@@ -193,8 +186,7 @@ o düzenlemenin muhataplarından birinin dışarısı olduğunu gösterir.[^k2]
 
 ## Künyenin dili sorunu
 
-Bu incelemede künyelenen metin Fransızcadır.[^k1] Özgün Osmanlıca metin
-künyelenememiştir.
+Kaynak listesi belgenin özgün dildeki metnini içermiyor.
 
 Çok dilli bir belgeye atıf yapılırken hangi
 dildeki metnin kastedildiği yazılmalıdır.[^k2]
@@ -208,9 +200,7 @@ bulunmadığı sınanmamıştır ve bu, açık bir eksiktir.
 Metin bir meydanda, yüksek sesle ve kalabalık önünde okundu.[^k2] Okuma
 işlemi, metnin yürürlüğe girmesinin parçasıydı.
 
-Bu, korpusun Hammurabi dosyasında kaydedilen ilan işlevinin bir başka
-biçimidir.[^k1] Orada metin taşa kazınmış ve dikilmişti; burada
-okunmuştur.
+Orada metin taşa kazınmış ve dikilmişti; burada okunmuştur.
 
 İki biçim aynı işi yapar.[^k3] Bir hükmün bağlayıcı sayılması,
 duyurulmasının kayda geçmiş olmasına bağlıdır ve duyurma biçimi
@@ -231,9 +221,8 @@ doğabilir.[^k1]
 
 ## Anayasaya giden hat
 
-Bu metin, kırk yıl sonra ilan edilecek yazılı anayasanın hazırlık
-zincirindeki ilk halka sayılır.[^k3] Zincir, korpusun ayrı bir dosyada
-künyelediği metinle tamamlanır.
+Bu metin, kırk yıl sonra ilan edilecek yazılı anayasanın hazırlık zincirindeki ilk halka
+sayılır.[^k3]
 
 Zincir kurma bir yorum işlemidir.[^k2] Metnin kendisi bir anayasa
 hazırlığı olduğunu bildirmez.

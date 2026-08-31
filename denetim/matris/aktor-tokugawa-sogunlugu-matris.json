@@ -754,11 +754,61 @@
       ],
       "guven": "yuksek",
       "inceleme": "'the promotion of education and population control among both the military elite (the samurai) and the well-to-do peasantry in the eighteenth and early nineteenth centuries.' Hakem eklemesi: nufus duzlugu icin ikinci bir aciklama kaynakta duruyordu ve govdede yoktu — tek nedenli okumayi kirmak icin eklendi."
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "Ayırt edici yan, merkezin taşra beylerini kılıçla değil bir ikamet, bir kayıt ve bir liman düzeniyle bağlamasıdır: beylerin aileleri başkentte rehin tutuluyor, her hane yılda bir deftere yazılıyor, dışarıyla alışveriş dört adrese sıkıştırılıyordu.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k2 ikamet, nüfus kaydı ve dış ticaret sınırlamasını ayrı olgular olarak verir; bunları tek yönetim düzeneği olarak kurmak yazarın sentezidir."
+    },
+    {
+      "iddia_id": "ek002",
+      "cumle": "İki buçuk yüzyıl süren iç barış tek bir nedene bağlanamaz; ama bu üç mekanizma, düzene sonradan yakıştırılan \"kapalı ülke\" tabirinden çok daha somuttur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k7 ve k8 barış dönemi ile sakoku adlandırmasının sınırlarını destekler; nedensellikte ihtiyat ve somutluk karşılaştırması yorumdur."
+    },
+    {
+      "iddia_id": "ek003",
+      "cumle": "Dört kapı iki buçuk yüzyıl boyunca açık kaldı, Nagazaki'nin ana kanalı Çin ticaretiydi, beylerin yolculuğu yerinde tutulan kayda göre yılda iki kez yolları doldurdu ve her hane yılda bir deftere yazıldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dört dış temas kapısı ve Çin ticareti k8'de; daimyo yolculuk sıklığı ile yıllık hane kaydı k2'de doğrudan yer alır."
     }
   ],
   "sayaclar": {
-    "dogrudan": 49,
-    "kismi": 4,
+    "dogrudan": 50,
+    "kismi": 6,
     "desteksiz": 0,
     "olculemez": 0
   },

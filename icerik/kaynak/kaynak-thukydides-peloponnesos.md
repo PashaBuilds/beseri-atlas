@@ -55,7 +55,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak eseri Peloponez Savaşı'nın Tarihi başlığıyla işler ve yazarını batı tarih
@@ -66,10 +65,6 @@ tarih yazımı alanında çokça çözümlendiğini kaydeder.[^k1]
 
 Kaynak, tarihsel yöntem başlığı altında beş alt başlık tutar: kronoloji,
 konuşmalar, tarafsızlık, dinin rolü ve mitin akılcılaştırılması.[^k1]
-
-Bir antik metnin yönteminin beş ayrı ölçüte göre değerlendirilmesi,[^k1] korpusun
-kaynak dosyalarında neden yalnızca içeriği değil yöntemi de kaydettiğinin
-dayanağıdır.
 
 ## Kronoloji ölçütü açıkça tanımlıdır
 
@@ -91,11 +86,6 @@ biçim olduğunu yazar.[^k1] Bunlar arasında generallerin savaş öncesi birlik
 hitapları, Atinalı ve Spartalı liderlerin siyasi konuşmaları ile taraflar
 arasındaki tartışmalar sayılır.[^k1]
 
-Bir tarih metninin içindeki konuşmaların yazarın kendi kurgusu mu yoksa aktarım
-mı olduğu sorusu,[^k1] korpusun birincil kaynak dosyasında kaydettiği güçlü ve
-zayıf yanlar ayrımının antik bir örneğidir; o ayrım
-[Birincil kaynak](/kavram/birincil-kaynak/) dosyasında ele alınıyor.
-
 ## Aynı sorunun bir başka biçimi
 
 Aynı yüzyıllarda bir başka yazarın metinlerinde de görüşün yalnızca metindeki
@@ -109,12 +99,4 @@ Kaynak, yorumun bazı güçlükleri başlığı altında kompozisyon katmanları
 kaynaklar ve eleştirel değerlendirmeler alt başlıklarını tutar; ayrıca
 elyazmalarına ve seçilmiş çevirilere ayrı bölümler ayırır.[^k1]
 
-Bir eserin elyazması geleneğinin ayrı bir bölüm taşıması,[^k1] korpusun kaynak
-alanında neden erişilen sürümü kaydettiğinin dayanağıdır. Yazarın kendisi
-[Thukydides](/dusunur/thukydides/) dosyasında ele alınıyor.
-
-## Okumayı sürdürmek için
-Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir
-ansiklopedi maddesidir.[^k1] Metnin kendisi kamu malıdır ve çeşitli
-elyazmalarından yapılmış çevirilerle okunabilir; hangi çevirinin kullanıldığı,
-korpusun kaynak gösterme kuralına göre her alıntıda belirtilmelidir.
+Yazarın kendisi [Thukydides](/dusunur/thukydides/) dosyasında ele alınıyor.

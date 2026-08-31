@@ -64,7 +64,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Eser ne
 
 Eser, iki gemiyle yapılan üç yıllık bir seferin anlatısıdır.[^k1]
@@ -74,8 +73,7 @@ düzenlendi.
 Anlatı gün gün ilerler.[^k2] Seyir bilgileri, hava ve buz gözlemleri,
 karaya çıkışlar ve karşılaşmalar sırayla verilir.
 
-Bu incelemenin konusu seferin başarısı değildir.[^k3] Anlatının nasıl bir
-kayıt olduğudur.
+Anlatının nasıl bir kayıt olduğudur.
 
 ## Aranan şeyin bulunmaması
 
@@ -97,9 +95,6 @@ yeniden yazıldı.
 
 Fark ölçülebilir.[^k2] Ham defterlerin sonraki yayınları,
 basılı anlatıda bulunmayan ifadeleri içerir.
-
-Bu, korpusun Magna Carta dosyasında kurduğu sürüm
-kuralının buradaki uygulamasıdır.[^k3]
 
 ## Karşılaşma kayıtlarının yapısı
 

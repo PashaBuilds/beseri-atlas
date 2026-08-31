@@ -49,16 +49,14 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne oldu
 
 1757 yazında, bir Avrupa ticaret şirketinin kuvvetleri ile bir eyalet
 yöneticisinin ordusu karşılaştı ve muharebe bir gün içinde sonuçlandı.[^k1][^k3]
 Şirket kazandı ve eyaletin yönetimi fiilen el değiştirdi.
 
-Olayın korpus açısından ayırt edici yanı, kazanan tarafın bir devlet
-olmamasıdır.[^k3] Bir ticaret kuruluşu, bir eyaletin vergi gelirini ve
-yönetici atama yetkisini eline geçirdi.
+Bir ticaret kuruluşu, bir eyaletin vergi gelirini ve yönetici atama yetkisini eline
+geçirdi.
 
 Bu, dosyanın merkezindeki soruyu doğurur.[^k2] Bir şirket hangi noktada bir
 siyasi otorite hâline gelir ve bu geçiş ne zaman fark edilir?
@@ -85,23 +83,13 @@ Bu anlaşma, olayın niteliğini belirler.[^k2] Şirket bir yabancı güç olara
 eyaleti işgal etmedi; eyalet içindeki bir taht mücadelesinde taraf oldu ve
 kazanan tarafın ortağı hâline geldi.
 
-Dışarıdan gelen bir gücün yerel bir çekişmede
-taraf olması, korpusun başka bölgelerinde de tekrar eden bir giriş biçimidir.[^k1]
-
 ## Şirketin niyeti sorusu
 
 Şirketin bu anlaşmayı bir eyaleti yönetmek amacıyla mı yoksa ticari
 ayrıcalıklarını korumak amacıyla mı yaptığı tartışmalıdır.[^k3] İki okuma da
 aynı belgelerden çıkarılabilir.
 
-::tartismali[Şirketin bölgede siyasi otorite kurmayı önceden hedefleyip
-hedeflemediği tartışmalıdır; bir okuma planlı bir genişleme, öteki okuma
-ticari kaygıların sürüklediği bir sonuç görür. Korpus bir okumayı
-benimsemez.]{harita=tartisma-somurgeciligin-ekonomik-bilancosu}
-
-Niyetin belgelenmesi, sonradan yazılmış
-gerekçelendirmelerden ayrıştırılmayı gerektirir ve bu ayrıştırma bu incelemenin kapsamı
-dışındadır.[^k1]
+::tartismali[Şirketin bölgede siyasi otorite kurmayı önceden hedefleyip hedeflemediği tartışmalıdır; bir okuma planlı bir genişleme, öteki okuma ticari kaygıların sürüklediği bir sonuç görür.]{harita=tartisma-somurgeciligin-ekonomik-bilancosu}
 
 ## Vergi yetkisinin devri
 
@@ -131,10 +119,8 @@ ticaret ayrıcalığına, ayrıcalık da nihayet vergi yetkisine dönüşür.[^k
 
 ## Bengal'in seçilmesi tesadüf değil
 
-Eyaletin bölgedeki en yüksek gelirli birim olması, olayın oradaki
-gerçekleşmesini açıklar.[^k2] Korpusun
-[Bengal Sultanlığı](/aktor/bengal-sultanligi/) dosyası bu gelir tabanını
-anlatır: delta toprağı, yüksek tarım verimi ve dokuma üretimi.
+Eyaletin bölgedeki en yüksek gelirli birim olması, olayın oradaki gerçekleşmesini
+açıklar.[^k2]
 
 Bir şirketin en yüksek gelirli eyalette siyasi otorite kurması, sonraki
 genişlemenin de finansmanını sağladı.[^k1] Elde edilen gelir, yeni askerî
@@ -194,14 +180,7 @@ dosyası bu işi ayrıca yapar.[^k1]
 
 ## Kaynak durumu
 
-Bu inceleme üç kaynağa dayanır ve **hiçbiri birincil değildir.**[^k1][^k2][^k3]
-Bu, korpusun olay dosyalarında istenmeyen bir durumdur ve burada beyan
-edilir.
-
-Olayın çağdaş kayıtları hem şirket hem eyalet tarafından
-bulunmaktadır.[^k3] Şirket kayıtlarının önemli bir bölümü arşivlerde ve
-telifsiz durumdadır; doğrulanabilir, katalog künyesiyle teyit edilmiş tam
-metin bir baskısı bu inceleme yazıldığında künyeye alınamamıştır.
+Olayın çağdaş kayıtları hem şirket hem eyalet tarafından bulunmaktadır.[^k3]
 
 Okur bu sınırı bilerek okumalıdır.[^k2] Buradaki bilgilerin tamamı,
 ansiklopedi maddelerinin aktarımıdır ve o maddelerin seçimlerini taşır.
@@ -214,18 +193,7 @@ işlenmez.[^k3] Ayrı bir dosya gerektirir.
 [İngiliz Doğu Hindistan Şirketi](/aktor/ingiliz-doguhindistan-sirketi/)
 dosyası okunmalıdır.
 
-Sonraki yüzyıldaki yönetim düzeni ve ayaklanma burada verilmez.[^k2] Korpusun
-[1857 Hint Ayaklanması](/olay/1857-hint-ayaklanmasi/) dosyası o dönemi ele
-alır.
-
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun olay katmanına bir ticari kuruluşun siyasi otoriteye
-dönüşmesini ekler.[^k3] Olay dosyalarının çoğu devletler arası bir
-karşılaşmayı kaydeder; burada taraflardan biri devlet değildir.
-
-Bu ayrım, korpusun aktör kavramını sınayan örneklerden biridir.[^k1] Korpusun
-aktör katmanında şirket dosyaları zaten bulunuyordu; bu inceleme, bir şirketin
-ne zaman aktör hâline geldiğini gösterir.
+Sonraki yüzyıldaki yönetim düzeni ve ayaklanma burada verilmez.[^k2]
 
 Gösterdiği eşik ölçülebilir.[^k2] Bir kuruluşun vergi toplama yetkisini
 eline geçirmesi, ticari bir kuruluş olmaktan çıktığının en açık işaretidir
@@ -250,14 +218,11 @@ Muharebeden sonra şirket ile yeni yönetim arasında yapılan ödemeler
 kayıtlıdır ve miktarları belgelenmiştir.[^k3] Ödemeler hem kuruma hem tek
 tek kişilere yapılmıştır.
 
-Bu ikinci kalem korpusun ayrıca kaydettiği bir olgudur.[^k1] Bir kurumun
-kazancı ile o kurumda görevli kişilerin kazancı ayrı şeylerdir ve ikisinin
-ayrılmadığı bir düzende, kurumsal çıkar ile kişisel çıkar birbirinden
-ayrıştırılamaz.
+Bir kurumun kazancı ile o kurumda görevli kişilerin kazancı ayrı şeylerdir ve ikisinin
+ayrılmadığı bir düzende, kurumsal çıkar ile kişisel çıkar birbirinden ayrıştırılamaz.
 
-Bu ayrıştırılamazlık, sonraki on yıllarda şirketin kendi merkezinde de
-tartışma konusu oldu.[^k2] Korpus tartışmanın varlığını kaydeder; sonucunu
-ayrı bir dosyaya bırakır.
+Bu ayrıştırılamazlık, sonraki on yıllarda şirketin kendi merkezinde de tartışma konusu
+oldu.[^k2]
 
 ## Yerel finansörlerin konumu
 
@@ -273,7 +238,41 @@ Dışarıdan gelen bir gücün
 yerleşmesi, çoğu zaman yerel ortakların katılımıyla mümkün olur ve bu ortaklık ayrıca
 incelenmelidir.[^k1]
 
+## Muharebeden vergi devletine giden ara halkalar
+
+Plassey tek başına Britanya'nın Hindistan'ı bir günde fethettiği savaş değildir.
+Şirketin Siracüddevle'ye karşı Mir Cafer ve Bengal sarayındaki başka çıkar
+gruplarıyla kurduğu anlaşma, muharebe alanındaki birliklerin önemli bölümünü
+etkisiz bıraktı.[^k1][^k3] Yağmurun barutu etkilemesi ve sınırlı çarpışma taktik
+sonucu hızlandırdı; asıl siyasi etki yeni nevvabın şirkete para, ticaret ayrıcalığı
+ve nüfuz sağlamasıyla başladı.
+
+Bir sonraki aşamada şirket ticaret yapan özel kuruluş olmaktan vergi ve yönetim
+gücü kullanan bölgesel aktöre dönüştü. 1764 Baksar zaferi ve 1765'te Bengal,
+Bihar ve Orissa'nın *diwani* gelirlerini toplama yetkisi, Plassey'in açtığı yolu
+kurumsallaştırdı.[^k1][^k2] Bu tarih dizisi önemlidir: savaş, saray darbesi,
+mali aktarım ve hukuki yetki birbirinden farklı mekanizmalardır.
+
+Yerel bankerler ve tüccarlar ittifakın pasif seyircisi değildi. Kredi, haber ve
+siyasi bağlantı sağlayarak sonucu etkilediler; fakat şirket askerî ve uluslararası
+ağını büyüttükçe ortakların pazarlık gücü eşit kalmadı. Başlangıçta karşılıklı
+çıkar görünen düzen, vergi gelirinin şirket ordusunu finanse ettiği bir geri
+beslemeye dönüştü: gelir orduyu, ordu yeni gelir alanlarını mümkün kıldı.
+
+Bengal'in dokuma ve tarım zenginliği bu nedenle yalnız ödül değil, genişlemenin
+mali tabanı oldu. Üretimin sonraki değişimini doğrudan tek muharebeye bağlamak
+yine de aşırı basitleştirmedir; vergi oranı, şirket tekeli, kredi, kıtlık ve dünya
+pazarındaki talep ayrı ayrı izlenmelidir. Plassey'i doğru ölçeğe yerleştirmek,
+sembolik “başlangıç” değerini korurken imparatorluğun hangi ara kurumlarla
+kurulduğunu görünür kılar.
+
+Kronoloji nedensellik sırasını denetler: Plassey 1757'de siyasi nüfuz sağladı,
+Baksar 1764'te askerî konumu pekiştirdi, *diwani* 1765'te gelir hakkını
+resmileştirdi. Sonraki sonucu ilk tarihe geri yüklemek, henüz verilmemiş kararları
+kaçınılmazmış gibi gösterir.[^k1]
+
 ## Okumayı sürdürmek için
+
 Kazanan tarafın kurumsal yapısı için
 [İngiliz Doğu Hindistan Şirketi](/aktor/ingiliz-doguhindistan-sirketi/),
 eyaletin önceki düzeni için [Bengal Sultanlığı](/aktor/bengal-sultanligi/)

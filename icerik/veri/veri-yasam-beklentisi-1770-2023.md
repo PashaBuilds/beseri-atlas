@@ -48,7 +48,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Seri 1770'te 28,5 yıl ile başlar ve 2023'te 73,1694 yıl ile biter; toplam 81
 gözlem vardır.[^k1]
 
@@ -57,34 +56,20 @@ gözlem vardır.[^k1]
 Seride 1770, 1800 ve 1820 yılları art arda üç gözlemdir; yani ilk elli yıl
 yalnızca üç noktayla temsil edilir.[^k1]
 
-Bir serinin başında gözlem aralığının onlarca yıl olması,[^k1] korpusun şu
-kuralının dayanağıdır: bu seriden çizilen eğrinin erken kısmı, ölçüm değil
-ölçümler arası doğrusal bir varsayımdır.
-
 ## İlk iki gözlem aynı değeri taşır
 
 1770 ve 1800 için verilen değerlerin ikisi de 28,5'tir.[^k1]
 
-Otuz yıl arayla iki gözlemin tam olarak aynı sayıyı vermesi,[^k1] erken
-değerlerin tekil ölçümler değil dönemsel tahminler olduğunu düşündürür; korpus bu
-iki noktayı bir değişim kanıtı olarak kullanmaz.
-
 ## Son üç yıl hızlı değişir
 
 Seride 2021 için 70,865, 2022 için 72,6398 ve 2023 için 73,1694 verilir.[^k1]
-
-Bir yıl içinde yaklaşık 1,77 yıllık artışın kaydedilmesi,[^k1] serinin yıllık
-dalgalanmalara duyarlı olduğunu gösterir; korpus bu tür sıçramaları tek başına bir
-eğilim olarak sunmaz.
 
 ## Aynı sağlayıcının nüfus serisi
 
 Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1800 için yaklaşık
 983,1 milyon, 2020 için yaklaşık 7,89 milyardır.[^k2]
 
-İki serinin birimi farklıdır: biri yıl, diğeri kişi.[^k1][^k2] Korpus bunları
-çarpmaz ya da bölmez; ilgili dosya
-[Dünya nüfusu, 1500–2025](/veri/dunya-nufusu-1500-2025/) dosyasıdır.
+İki serinin birimi farklıdır: biri yıl, diğeri kişi.[^k1][^k2]
 
 ## Serinin başlangıç yıllarına çağdaş bir model
 
@@ -96,8 +81,3 @@ döngüyü anlatır.[^k3]
 O model [Thomas
 Malthus](/dusunur/malthus/) dosyasında, kavramın kendisi ise [Yaşam
 beklentisi](/kavram/yasam-beklentisi/) dosyasında ele alınıyor.[^k1][^k3]
-
-## Kanıtın ve kapsamın sınırı
-Ülke ülke değerler, alt gruplar arası farklar ve hesaplama yöntemi burada ayrı
-başlıklar altında ele alınmamıştır; bu inceleme yalnızca dünya toplamı serisini
-kaydeder.[^k1]

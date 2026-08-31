@@ -104,6 +104,15 @@ düzeyinde sabit kaldı ve bu dönemden 20. yüzyılın ilk yarısına kadar öl
 doğumlar arasında sürekli bir boşluk oluştu; İsveç nüfusunun artışı bu boşluk
 sayesindedir.[^k1]
 
+## Modeli yasa gibi okumamak
+
+Demografik geçişte genel sıra ölüm oranlarının düşmesi, nüfus artışının hızlanması ve
+daha sonra doğurganlığın azalmasıdır; ancak aşamaların süresi ve nedenleri toplumdan
+topluma değişir.[^k1] Sağlık, kentleşme, kadınların eğitimi, çocuk yetiştirme maliyeti
+ve sosyal güvence aynı anda etkili olabilir. Model bir betimleme aracıdır; her ülkenin
+aynı siyasal yolu izleyeceğini veya düşük doğurganlığın geri döndürülemez olduğunu
+garanti etmez.[^k2]
+
 ## Modelin kaynağı
 
 Kuram, Amerikalı demograf Warren Thompson'ın demografi tarihi yorumuna

@@ -1,7 +1,7 @@
 {
   "id": "tartisma-kesif-mi-istila-mi",
-  "govde_hash": "8480c1debaa3",
-  "commit": "4373ec95",
+  "govde_hash": "8acc37ad58a7",
+  "commit": "889239af",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -468,10 +468,24 @@
       ],
       "guven": "orta",
       "inceleme": "Ozet/kapanis cumlesi; aralik saptamasi k1'e, hukuk kanadinin surdugu k11'in yerli dirilis aktarimina yaslanir; bes yuzuncu yil katmani acik borc olarak beyan edildi"
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "Yerleşimci hukukunun sonradan keşif doktrini diye adlandırılan ilkesi, tartışmanın bugünkü hukuk kanadını da meşgul eder: aynı madde doktrini, sahipsiz toprak anlamına gelen terra nullius kurgusuyla birlikte anar ve yerli diriliş kuramcılarının iki kurgunun bugünkü uzlaşma çerçevelerinde de sürdüğünü savunduğunu aktarır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k11 keşif doktrini ile terra nullius'u birlikte adlandırır ve yerli diriliş kuramcılarının güncel uzlaşma eleştirisini doğrudan aktarır."
     }
   ],
   "sayaclar": {
-    "dogrudan": 21,
+    "dogrudan": 22,
     "kismi": 9,
     "desteksiz": 0,
     "olculemez": 2
@@ -481,6 +495,12 @@
       "zaman": "2026-08-30",
       "onceki_hash": "2694f58ce913",
       "yeni_hash": "8480c1debaa3",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    },
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "8480c1debaa3",
+      "yeni_hash": "8acc37ad58a7",
       "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
     }
   ]

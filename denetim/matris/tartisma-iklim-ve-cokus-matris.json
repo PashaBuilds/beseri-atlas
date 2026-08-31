@@ -504,11 +504,53 @@
       ],
       "guven": "orta",
       "inceleme": "k1 Yirminci Hanedan doneminde Misir'in zayiflayip yikilmadigini anlatir; genel cikarim yazarin yorumudur."
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "İklim değişimini çöküşün başlıca tetikleyicisi sayan okuma ile bu yan yanalığı kanıt türünün elverişliliğinden güç alan bir anlatı katmanı sayan okuma, yüz yılı aşkın süredir aynı vakalar üzerinde karşı karşıya gelir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 iklim-tetikleyici çizgisinin tarihini ve eleştirilerini taşır; kanıt elverişliliğini ayrı bir anlatı katmanı olarak kurmak yorumdur."
+    },
+    {
+      "iddia_id": "ek002",
+      "cumle": "Yazı bırakmamış ya da yazısı çözülememiş toplumlar için iklim kaydı çoğu kez en kolay tarihlenen kanıttır ve açıklamalar ellerindeki kanıta doğru eğilir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 iklim vekil kayıtlarının tarihlenebilirliğini ve yazılı kayıt yokluğunu tartışır; açıklamanın erişilebilir kanıta eğildiği yöntem sonucu yazarındır."
+    },
+    {
+      "iddia_id": "ek003",
+      "cumle": "Megakuraklık okuması eşzamanlılığı, kavram eleştirisi sürekliliği, çevresel seçim anlatısı kararları, ihtiyat çizgisi ölçeği sorar; bu yüzden taraflardan birinin ötekini çürütmesi değil, her vakada yükün yeniden paylaştırılması beklenmelidir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Dört yaklaşımın kanıt vurguları k1'de izlenebilir; bunları açıklama yükünün vaka bazında paylaşılması sonucuna bağlamak sentezdir."
     }
   ],
   "sayaclar": {
     "dogrudan": 24,
-    "kismi": 9,
+    "kismi": 12,
     "desteksiz": 0,
     "olculemez": 1
   },

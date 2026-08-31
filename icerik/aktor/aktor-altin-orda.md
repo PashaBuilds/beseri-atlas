@@ -58,20 +58,17 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Nerede durduğu
 
-Altın Orda, bozkır kuşağının batı ucunda, Karadeniz'in kuzeyinden Volga
-havzasına uzanan bir alanda kuruldu.[^k1][^k4] Korpusun bölge şemasında üç
-etiket birden taşır.
+Altın Orda, bozkır kuşağının batı ucunda, Karadeniz'in kuzeyinden Volga havzasına uzanan
+bir alanda kuruldu.[^k1][^k4]
 
 Üç etiket, düzenin kendisinin üç dünyaya birden değmesinden gelir.[^k4]
 Doğuda bozkır, güneyde İslam dünyası, kuzeybatıda ormanlık Avrupa
 kuşağı bulunuyordu.
 
-Dosyanın ayırt edici yanı, kurucu hanedanın yönettiği nüfusun dilini ve
-dinini benimsemiş olmasıdır.[^k1][^k2] Bu, korpusta fatihin fethettiğine
-dönüşmesinin en açık ölçülen örneğidir.
+Dosyanın ayırt edici yanı, kurucu hanedanın yönettiği nüfusun dilini ve dinini
+benimsemiş olmasıdır.[^k1][^k2]
 
 ## Dilin değişmesi
 
@@ -82,9 +79,7 @@ konuşuyordu.
 İki kuşak içinde yönetim dili değişti.[^k1] Yazışma ve gündelik kullanım,
 gelenlerin dilinden yerleşik nüfusun diline kaydı.
 
-Değişimin yönü kaydedilmelidir.[^k1] Fetheden taraf sayıca azdı ve
-fethedilen nüfusun dili baskın çıktı; bu, korpusun öteki fetih dosyalarında
-her zaman böyle olmamıştır.
+Değişimin yönü kaydedilmelidir.[^k1]
 
 ## Dinin değişmesi
 
@@ -128,13 +123,7 @@ Haraç toplama yetkisini merkezden devralan bir prenslik, zamanla
 komşularının üzerinde konum kazandı.[^k4] Bu yükseliş, [Rus İmparatorluğu](/aktor/rus-imparatorlugu/) incelemesinin başlangıcıyla
 kesişir.
 
-::tartismali[Bu prensliğin yükselişinde haraç toplama yetkisinin payı
-tartışmalıdır; bir okuma yetkiyi belirleyici sayar, öteki okuma coğrafi ve
-ekonomik etkenleri öne çıkarır. Korpus bir sıralama
-yapmaz.]{harita=tartisma-mogol-etkisi}
-
-Tartışma, korpusun Moğol etkisi dosyasının
-konusudur ve orada ayrıca yürütülür.[^k1]
+::tartismali[Bu prensliğin yükselişinde haraç toplama yetkisinin payı tartışmalıdır; bir okuma yetkiyi belirleyici sayar, öteki okuma coğrafi ve ekonomik etkenleri öne çıkarır.]{harita=tartisma-mogol-etkisi}
 
 ## Ticaret yollarının güvenliği
 
@@ -193,8 +182,7 @@ zayıfladıkça bölgeler ayrı hanlıklara bölündü.
 Bölünme, katmanlı egemenlik yapısının doğal sonucudur.[^k4] Merkez
 zayıfladığında çevre birimler ayrı ayrı karar verir ve süreç uzun sürer.
 
-Aynı yapı korpusun Sokoto ve Açe dosyalarında da kaydedilmiştir.[^k1] Dağınık
-düzenler yavaş ve parça parça çözülür; merkezîleşmiş düzenler tek darbeyle
+Dağınık düzenler yavaş ve parça parça çözülür; merkezîleşmiş düzenler tek darbeyle
 çöker.
 
 ## Ardıl hanlıklar
@@ -216,8 +204,7 @@ Bugün kullanılan ad, düzenin kendi adı değildir.[^k4] Kendi kayıtlarında
 başka adlandırmalar kullanılır ve bugünkü ad sonraki yüzyıllarda
 yerleşmiştir.
 
-Bu, korpusun bozkır dosyalarında tekrar eden bir durumdur.[^k1] Adlar
-çoğunlukla komşu kayıtlarından ya da sonraki derlemelerden gelir.
+Adlar çoğunlukla komşu kayıtlarından ya da sonraki derlemelerden gelir.
 
 Sessizce değiştirmek, sorunu çözmek değil gizlemek
 olurdu.[^k3]
@@ -227,43 +214,23 @@ olurdu.[^k3]
 Düzenin nüfusuna ve ordu büyüklüğüne dair sayılar komşu kayıtlarından
 gelir.[^k4] Bağımsız bir sayım kaydı elde bulunmamaktadır.
 
-Bu, korpusun bozkır dosyalarında tekrar eden bir kısıttır.[^k1] Rakip
-kayıtlarında bir düzenin büyüklüğü iki yönde de çarpıtılabilir.
+Rakip kayıtlarında bir düzenin büyüklüğü iki yönde de çarpıtılabilir.
 
-Vergi sayımları ise farklı bir durumdadır.[^k3] Sayım kayıtları idari
-amaçla tutulmuştur ve abartma yönünde bir eğilim taşımaz; ama tam metinleri
-bu inceleme yazıldığında künyeye alınamamıştır.
+Vergi sayımları ise farklı bir durumdadır.[^k3]
 
 ## Kaynak durumu
-
-Bu inceleme dört kaynağa dayanır ve **hiçbiri birincil değildir.**[^k1][^k2][^k3][^k4]
-Üçü akademik ansiklopedi maddesi, biri giriş kapısıdır.
 
 Düzenin kendi belgeleri bulunmaktadır.[^k3] Yarlık adı verilen yetki
 belgeleri ve yazışmalar arşivlerde durmaktadır; doğrulanabilir, katalog
 künyesiyle teyit edilmiş tam metin bir derlemesi bulunamamıştır.
 
-Kısıt beyan edilir.[^k1] Bu belgeler dosyanın en doğrudan kaynağı olurdu ve
-yokluğu, korpusun Orta Asya dosyalarında tekrar eden bir eğilimin devamıdır.
+Kısıt beyan edilir.[^k1]
 
-## Açıkta kalan sorular
-Hükümdar listesi ve hanedan çekişmeleri burada verilmez.[^k2][^k3] Korpusun
-aktör dosyaları bir düzenin nasıl işlediğini anlatır.
+Ardıl hanlıkların tek tek tarihi de kapsam dışıdır.[^k1]
 
-Ardıl hanlıkların tek tek tarihi de kapsam dışıdır.[^k1] Her biri ayrı dosya
-gerektirir ve bu inceleme yazıldığında korpusta bulunmuyorlardı.
+Kuzeybatıdaki prenslikler arası ilişkiler burada işlenmez.[^k4]
 
-Kuzeybatıdaki prenslikler arası ilişkiler burada işlenmez.[^k4] Korpusun
-ilgili dosyaları o tarafı ele alır.
-
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun Orta Asya aktör katmanındaki dokuzuncu dosyadır.[^k1]
-Bölge, dosya sayısı bakımından korpusun en ince bölgelerinden biri olmayı
-sürdürüyor.
-
-Dosyanın seçilme gerekçesi, gösterdiği dönüşümdür.[^k2] Bir fetih hanedanının
-yönettiği nüfusun dilini ve dinini benimsemesi, korpusta seyrek ölçülebilen
-bir süreçtir.
+Dosyanın seçilme gerekçesi, gösterdiği dönüşümdür.[^k2]
 
 Süreç ölçülebilir çünkü iki uç da kayıtlıdır.[^k4] Gelenlerin dili ve inancı
 biliniyor, iki kuşak sonrasının dili ve inancı da biliniyor; aradaki fark
@@ -271,17 +238,12 @@ doğrudan okunabilir.
 
 ## Dönüşümün yönünü belirleyen şey
 
-Bir fetih hanedanının yönettiği nüfusa mı dönüştüğü yoksa onu mu dönüştürdüğü,
-korpusun birden çok dosyasında karşılaşılan bir sorudur.[^k1] Bu incelemede yön
-birinci yönde işlemiştir.
-
 Belirleyici olan sayı oranıdır.[^k4] Gelen hanedan ve askerî çevre, yönettiği
 nüfusun yanında çok küçük kaldı; iki kuşak sonra kendi dilini konuşan bir
 çevre kalmamıştı.
 
-Karşı örnek de korpusta bulunur.[^k1] Aynı hanedanın doğudaki kolları farklı
-yönlerde dönüştü; aynı çıkış noktasından yola çıkan düzenler, yerleştikleri
-nüfusa göre farklı sonlara vardı.
+Aynı hanedanın doğudaki kolları farklı yönlerde dönüştü; aynı çıkış noktasından yola
+çıkan düzenler, yerleştikleri nüfusa göre farklı sonlara vardı.
 
 ## Kayıt dilinin değişmesi
 
@@ -293,9 +255,8 @@ Bu en doğrudan ölçüm biçimlerinden biridir.[^k1] Dil
 değişimi genellikle dolaylı olarak çıkarılır; burada belgelerin kendisi
 tarihlenebilir bir seri oluşturur.
 
-Serinin tam metin hâlde bulunamaması bu incelemenin en önemli kısıtıdır.[^k4]
-Ölçüm mümkün ama künyeye alınabilir bir kaynak bulunamadı ve bu, kaynak
-durumu bölümünde ayrıca beyan edildi.
+Ölçüm mümkün ama künyeye alınabilir bir kaynak bulunamadı ve bu, kaynak durumu bölümünde
+ayrıca beyan edildi.
 
 ## Okumayı sürdürmek için
 Hanedanın geldiği düzen için
@@ -317,3 +278,45 @@ neden ayrı kanıt gerektirdiğini gösterir.[^k4]
 
 Aynı yılları bütün bölgeler üzerinden okumak için [Dönem 07](/donem/07/)
 dosyası kullanılmalıdır.
+
+## Fetih nüfusu nasıl dönüştürdü, nüfus fatihi nasıl dönüştürdü?
+
+Altın Orda’nın yönetici hanedanı Cengizliydi; yönettiği bozkır ve kent nüfusunun
+büyük bölümü Kıpçak Türkçesi konuşan ve farklı dinî gelenekler taşıyan
+topluluklardan oluşuyordu.[^k1][^k4] Hanedan askerî üstünlükle geldi, kalıcı
+yönetim için yerel dil, vergi ağı, tüccar ve dinî kurumlarla bağ kurdu. Bu süreç
+tek yönlü “asimilasyon” değil, yeni bir siyasal kültürün karşılıklı oluşumuydu.
+
+Berke Han’ın İslam’la ilişkisi ve İlhanlılara karşı siyaseti, aynı Moğol soyundan
+gelen devletlerin din, ticaret ve Kafkasya çıkarları nedeniyle rakip olabildiğini
+gösterir.[^k2] Özbek Han döneminde İslam’ın hükümdarlık düzenindeki ağırlığı
+arttı; bütün bozkır nüfusunun aynı anda ve aynı biçimde din değiştirdiği sonucu
+çıkarılmamalıdır.[^k3] Saray tercihi, şehirli kurumlar ve yerel gündelik inanç
+farklı hızlarda dönüşebilir.
+
+## Rus knezlikleriyle dolaylı yönetim
+
+Altın Orda her Rus kentini kendi memurlarıyla sürekli yönetmek yerine bağlılık,
+haraç ve hükümdarlık onayı üzerinden etkide bulundu. Knezler yerel yönetimi
+sürdürürken hanın tanıması ve vergi aktarımı siyasal üstünlüğü görünür kılıyordu.[^k4]
+Bu ilişki yalnız “boyunduruk” kelimesiyle açıklanırsa yerel rekabet, pazarlık ve
+iki taraflı çıkarlar kaybolur.
+
+Haraç yükü ve askerî tehdit gerçekti; aynı ağ ticaret, posta ve diplomatik hareketi
+de kolaylaştırdı. [Moğol etkisi](/tartisma/mogol-etkisi/) yıkım ile bağlantı
+sonuçlarını aynı bilançoda sınar. Moskova’nın yükselişi de yalnız direniş değil,
+haraç toplama ve hanlık içi rekabeti kullanma kapasitesiyle ilişkiliydi.
+
+## Parçalanma ve miras
+
+Hanedan kolları, ticaret güzergâhı, veba, veraset ve Timur seferleri Altın Orda’nın
+birliğini aşındırdı. Kazan, Kırım, Astrahan ve başka hanlıkların doğması “devlet
+yok oldu, boşluk oluştu” anlamına gelmez; aynı nüfus, unvan ve ticaret ağları yeni
+merkezlerde yeniden örgütlendi.[^k4]
+
+Rus İmparatorluğu’nun sonraki genişlemesi bu ardıl devletleri farklı tarihlerde
+ilhak etti. Bugünkü etnik veya ulusal kimlikleri doğrudan Altın Orda’nın değişmez
+uzantısı saymak da bütün mirası yalnız Rus devletinin başlangıcına indirgemek de
+aynı derecede seçicidir. Altın Orda, fetih hanedanının yerel çoğunluk içinde
+dönüşürken siyasal üstünlüğünü nasıl koruyabildiğini ve hanedan sonrasının çoklu
+miras ürettiğini gösterir.[^k1][^k3]

@@ -50,25 +50,13 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Nerede durduğu
-
-Bu inceleme, Avustralya kıtasının ve Torres Boğazı adalarının yerli halklarını
-konu edinir.[^k1] Korpusun bölge şemasında Okyanusya etiketi taşır ve bu
-etiket, bir önceki turda şemaya eklendi.
 
 Kıtadaki insan yerleşimi, bilinen en uzun kesintisiz yerleşimdir.[^k1]
 Arkeolojik tarihlendirmeler on binlerce yıl öncesine uzanır ve süreklilik,
 yerleşimden bugüne kesintisiz olarak izlenir.
 
-Dosyanın ayırt edici yanı, korpusun kendi şemasının bu konuyu
-kapsayamamasıdır.[^k1] Korpusun en erken dönemi tarımın yaygınlaşmasıyla
-başlar; bu incelemenin konusu, o dönemden on binlerce yıl önce başlar.
-
 ## Şemanın sınırı
-
-Bu bölme bir tercihtir ve tercihin sonucu
-bu incelemede görünür hâle gelir.[^k1]
 
 Künyede dönem alanı en erken dönemi gösterir ama konu o dönemden çok
 öncedir.[^k2] Bu tutarsızlık gizlenmemiştir; şemanın kapsayamadığı bir
@@ -79,17 +67,11 @@ kapsayacağını seçerken neyi kapsamayacağını da seçmiş olur.[^k1]
 
 ## Tek bir halk değil
 
-Bu incelemenin başlığı, yüzlerce ayrı topluluğu tek bir etiket altında
-toplar.[^k1] Kıtada birbirinden ayrı diller, hukuk düzenleri ve toprak
-ilişkileri bulunuyordu.
+Kıtada birbirinden ayrı diller, hukuk düzenleri ve toprak ilişkileri bulunuyordu.
 
 Toplu adlandırma dışarıdan gelmiştir.[^k3] Toplulukların kendi adları
 vardır ve bugün de kullanılmaktadır; ortak ad, kıtaya sonradan gelenlerin
 kullandığı bir kategoridir.
-
-Yüzlerce ayrı düzeni tek dosyada toplamak bir kapsam
-tercihidir; her biri için ayrı dosya gerekirdi ve bu inceleme yazıldığında korpusta
-yoktu.[^k1]
 
 ## Şarkı yolları
 
@@ -152,21 +134,16 @@ uzakta ele geçmiştir.
 Künyedeki nesnelerden biri bu ağların ürünüdür.[^k2] Kıyıdan gelen sedef
 levhalar, iç bölgelere kadar taşınmış ve orada yeni anlamlar kazanmıştır.
 
-Bu, korpusun öteki bölgelerde de kaydettiği bir yapıdır.[^k1] Uzun mesafeli
-değişim, merkezî bir devlet ya da para sistemi gerektirmez; ağ, topluluklar
-arası ilişkilerle de sürdürülebilir.
+Uzun mesafeli değişim, merkezî bir devlet ya da para sistemi gerektirmez; ağ,
+topluluklar arası ilişkilerle de sürdürülebilir.
 
 ## Torres Boğazı
 
 Kıtanın kuzey ucundaki adaların halkları, kıta halklarından ayrı bir grup
 sayılır.[^k3] Dil, geçim düzeni ve deniz ilişkileri farklıdır.
 
-Ayrım korpus için önemlidir.[^k1] Bu adalar, Avustronezya yayılmasının etki
-alanıyla kıta halklarının alanının kesiştiği yerdedir ve iki dünyayı
-birbirine bağlar.
-
-Adaların kendi tarihi ayrı bir dosya
-gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu.[^k3]
+Bu adalar, Avustronezya yayılmasının etki alanıyla kıta halklarının alanının kesiştiği
+yerdedir ve iki dünyayı birbirine bağlar.[^k1]
 
 ## Kanıtın türleri
 
@@ -183,13 +160,9 @@ gerçekleşmiş deniz seviyesi değişimlerini tarif ettiği ileri sürülmüşt
 ## Uzun süreli sözlü aktarım tartışması
 
 Sözlü anlatıların bu kadar uzun süre bozulmadan aktarılıp aktarılamayacağı
-tartışmalıdır.[^k1] Konu, korpusun sözlü gelenek tartışmasının en uç
-örneğidir.
+tartışmalıdır.[^k1]
 
-::tartismali[Bazı anlatıların on binlerce yıl önceki coğrafi değişimleri
-kaydettiği ileri sürülmüştür; bu iddianın kabul edilip edilemeyeceği,
-aktarımın o kadar uzun süre sabit kalıp kalamayacağına bağlıdır ve
-tartışmalıdır.]{harita=tartisma-sozlu-gelenek-kaynak-mi}
+::tartismali[Bazı anlatıların on binlerce yıl önceki coğrafi değişimleri kaydettiği ileri sürülmüştür; bu iddianın kabul edilip edilemeyeceği, aktarımın o kadar uzun süre sabit kalıp kalamayacağına bağlıdır ve tartışmalıdır.]{harita=tartisma-sozlu-gelenek-kaynak-mi}
 
 İddianın sınanması, anlatı ile jeolojik kayıtın
 bağımsız olarak eşleştirilmesini gerektirir ve bu eşleştirme tartışmalıdır.[^k3]
@@ -199,9 +172,6 @@ bağımsız olarak eşleştirilmesini gerektirir ve bu eşleştirme tartışmal�
 Toplulukların bilgi düzeninde, herkese açık olmayan bölümler bulunur.[^k1]
 Bazı anlatılar ve uygulamalar belirli kişilere, belirli yaşlara ya da
 belirli koşullara bağlıdır.
-
-Kapalı olarak tutulan bir bilginin korpusa
-girmesi, o kapalılığı bozmak olur ve bu, kaydın sahibinin kararına aykırıdır.[^k3]
 
 Sınır dosyada açıkça beyan edilir.[^k1] Buradaki anlatım, kamuya açık
 kaynakların aktardığıyla sınırlıdır ve konunun tamamını temsil ettiği
@@ -217,10 +187,6 @@ Tarih, dışarıdan gelen yerleşimin başladığı yılı işaretler.[^k3] Sonr
 gelen nüfus kaybı, toprak el değiştirmesi ve dil kayıpları ayrı dosyalar
 gerektirir.
 
-Künye tarihleri korpusta bir
-düzenin işleyiş aralığını gösterir; bu incelemede aralık, kesintisiz işleyişin sürdüğü
-dönemi gösterir.[^k1]
-
 ## Ölçek sorunu
 
 Yerleşim öncesi nüfusa dair sayılar tahminlere dayanır ve aralarındaki fark
@@ -235,21 +201,11 @@ tartışmanın kendisinin de siyasi sonuçları bulunduğu için ayrıca dikkat 
 
 ## Kaynak durumu
 
-Bu inceleme üç kaynağa dayanır ve ikisi birincildir.[^k2][^k3] İki birincil
-künye müze katalog kaydıdır ve `nesne` alt türünü taşır.
+İki birincil künye müze katalog kaydıdır ve `nesne` alt türünü taşır.
 
-Nesnelerin ikisi de kıtanın dışındaki bir müzededir.[^k2][^k3] Bu, korpusun
-Benin ve Maori dosyalarında da kaydedilen bir durumdur ve kanıta erişimi
-belirler.
+Nesnelerin ikisi de kıtanın dışındaki bir müzededir.[^k2][^k3]
 
-Toplulukların kendi kurumlarınca üretilmiş çevrimiçi kaynaklar
-bulunmaktadır.[^k1] Bu inceleme yazıldığında, doğrulanabilir ve künyeye
-alınabilir bir örnek bulunamamıştır; kısıt beyan edilir.
-
-## Açıkta kalan sorular
-Tek tek toplulukların tarihi, dilleri ve hukuk düzenleri burada
-işlenmez.[^k1] Her biri ayrı dosya gerektirir ve bu inceleme bir kapsam
-tercihidir.
+Toplulukların kendi kurumlarınca üretilmiş çevrimiçi kaynaklar bulunmaktadır.[^k1]
 
 Kapalı olarak tutulan bilgi kapsam dışıdır ve bilerek öyle
 bırakılmıştır.[^k3] Bu, bir eksiklik değil bir sınırdır.
@@ -257,19 +213,8 @@ bırakılmıştır.[^k3] Bu, bir eksiklik değil bir sınırdır.
 1788 sonrası dönem, toprak hakları ve bugünkü durum da burada
 verilmez.[^k1] Ayrı dosyalar gerektirir.
 
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, atlasın Okyanusya bölgesindeki üçüncü dosyasıdır.[^k2] Bölge iki
-tur önce şemaya eklendi ve hâlâ neredeyse boştur.
-
-Dosyanın korpus için ayrı bir işlevi vardır.[^k1] Konusu, korpusun dönem
-şemasının kapsayamadığı tek konudur ve bu yüzden şemanın kendi sınırını
-gösterir.
-
-Bir şemanın sınırını göstermek, şemayı geçersiz kılmaz.[^k3] Sınırın
-görünür olması, şemanın neyi seçtiğini ve neyi dışarıda bıraktığını okurun
-değerlendirmesine açar. Korpusun dönem şeması tarımdan başlar; bu tercih,
-tarım öncesi on binlerce yılı tek bir başlangıç noktasına sıkıştırır ve o
-sıkışma bu incelemede ölçülebilir hâle gelir.[^k1]
+Bir şemanın sınırını göstermek, şemayı geçersiz kılmaz.[^k3] Sınırın görünür olması,
+şemanın neyi seçtiğini ve neyi dışarıda bıraktığını okurun değerlendirmesine açar.
 
 ## Okumayı sürdürmek için
 Bölgenin öteki dosyaları için
@@ -286,6 +231,67 @@ Dönem şemasının kendi sorunları için
 için [Arkeolojik kanıt](/kavram/arkeolojik-kanit/) dosyaları
 okunabilir.[^k3]
 
-Bu inceleme okunurken tek bir şey akılda tutulmalıdır: buradaki anlatım kamuya
-açık kaynakların aktardığıyla sınırlıdır ve toplulukların kendi kurumlarının
-ürettiği kayıtların yerini tutmaz.[^k1]
+## Tek bir halk değil, yüzlerce siyasal ve dilsel dünya
+
+*Avustralya Yerli halkları* kıta ve yakın adalardaki çok sayıda dil, ülke,
+akrabalık ve hukuk geleneğini kapsayan üst addır.[^k1] Bu toplulukları tek bir
+değişmez kültür gibi anlatmak, aralarındaki iklim, geçim, tören ve siyasal ilişki
+farklarını siler. Ortak sömürgeleşme deneyimi gerçek bir birlik alanı yaratır;
+çeşitliliği ortadan kaldırmaz.
+
+Toprak yalnız ekonomik kaynak veya çizilmiş mülkiyet parseli değildir. Ataların
+eylemleri, su, türler, geçiş yolları, tören ve sorumluluk belirli “ülke”lerle bağ
+kurar. Bir grubun başka ülkeye geçişi, evlilik ve değişimle düzenlenen hak ve
+yükümlülükler taşıyabilir. Avrupa hukukunun “boş ve sahipsiz toprak” varsayımı,
+bu farklı mülkiyet ve yönetim dilini tanımadığı için egemenlik kaybını meşrulaştırdı.
+
+## Uzun süre durağanlık değildir
+
+On binlerce yıllık yerleşim “zamanın dışında aynı kalan toplum” anlamına gelmez.
+Deniz düzeyi, kuraklık, tür dağılımı ve kıyı çizgisi büyük ölçüde değişti;
+topluluklar hareket, teknoloji, değişim ve ateş yönetimiyle bu dönüşümlere cevap
+verdi.[^k1] Uzun devamlılık, değişimin yokluğunu değil bilginin çevreye yeniden
+uyarlanabilmesini gösterir.
+
+Ateşin mevsim ve alan seçilerek kullanılması bitki yenilenmesi, av ve büyük
+yangın riskini etkileyebilir. Bu pratikler bütün kıtada aynı değildir; yerel
+ekoloji ve yetkili bilgi sahipleriyle ilişkilidir. “Doğal ve insan eli değmemiş
+kıta” anlatısı, insanların çevreyi uzun süre yönetmiş olmasını görünmez kılar.
+
+## Sözlü ve maddi arşiv
+
+Şarkı yolları, anlatılar, yer adları ve törenler hareket güzergâhı, hukuk ve
+hafızayı aktarabilir. Sözlü geleneğin değeri her ayrıntının kelimesi kelimesine
+binlerce yıl değişmeden kaldığı iddiasına dayanmaz. Yetkili aktarım, farklı
+sürümler, tören bağlamı ve arkeolojik-çevresel kanıt birlikte değerlendirilir.
+
+Kaya sanatı, yerleşim, taş alet, kabuk yığını ve genetik çalışma farklı zaman
+ölçeklerine cevap verir. Her yeni tarihleme bütün kıta için tek başlangıç yılı
+üretmez; kazılan yerin en az o tarihte kullanıldığını gösterir. Kazı yoğunluğu ve
+korunma farkı “en eski” iddialarını geçici kılar.
+
+Oyulmuş *riji* sedef levhaları beden, değişim ve törensel yetkiyi birbirine
+bağlayan nesnelerdir.[^k2] Müzede biçimi görülebilir; kimlerin hangi törende
+kullanabildiği yerli bilgi ve izin olmadan tamamlanamaz. Torres Boğazı maskesi de
+ada dünyasının kıta içi geleneklerle aynı olmadığını hatırlatır.[^k3] Nesne,
+etiket ve yaşayan topluluk arasında etik bir kaynak ilişkisi kurulmalıdır.
+
+## Sömürgeleşme, nüfus ve devam eden egemenlik
+
+Yerleşimci yayılması toprak kaybı, şiddet, salgın ve zorla çalıştırmayla nüfus ile
+toplumsal aktarımı ağır biçimde sarstı.[^k1] Çocukların ailelerinden alınması
+yalnız bireysel travma değil dil, ülke ve kuşaklar arası bilgi bağını kesme
+politikasıydı. Bununla birlikte hayatta kalma, aileleri yeniden bulma, hukuk
+mücadelesi ve kültürel canlandırma pasif mağdur anlatısını aşar.
+
+Bugünkü toprak hakkı ve anayasal tanınma tartışmaları eski bir kültürün sembolik
+hatırlanması değildir. Hangi topluluğun ülke üzerinde karar, bakım ve temsil
+yetkisine sahip olduğuyla ilgilidir. Modern Avustralya vatandaşlığı yerli
+egemenlik iddiasını otomatik olarak çözmez; iki hukuk ve aidiyet düzeyi arasında
+yeni kurumlar gerekir.[^k1]
+
+Avrupa merkezli *Taş, Tunç, Demir* veya antik-orta-modern çağ dizileri bu uzun
+tarihi anlamlı dönemlere ayırmayabilir. Dönemlendirme, yerleşim, çevresel değişim,
+teknoloji, bölgesel temas ve sömürgeleşme gibi yerel ölçütlerle kurulmalıdır.
+Avustralya Yerli halklarının tarihi, dünya tarihine kenardan eklenen istisna
+değil, kullanılan evrensel zaman şemasının sınırını açığa çıkaran temel örnektir.[^k1]

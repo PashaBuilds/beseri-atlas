@@ -63,7 +63,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Eser ne
 
 Rihle, on dördüncü yüzyılda Tanca'dan yola çıkan bir hukukçunun
@@ -73,16 +72,12 @@ bir alanı kapsar.
 Yolculuklar yaklaşık yirmi dokuz yıl sürdü.[^k2] Anlatı, yolculuklar
 bittikten sonra, hükümdarın isteğiyle kaleme alındı.
 
-Bu inceleme eserin içeriğini özetlemez.[^k3] Korpusta bu tanıklığa yapılan
-atıfların hangi koşullarla yapılabileceğini kaydeder.
-
 ## İki kişilik bir metin
 
 Metni yazan kişi ile anlatan kişi aynı değildir.[^k1] Yolculukları
 yapan anlattı, bir kâtip yazdı.
 
-Bu ayrım künyeye de geçirilmiştir.[^k2] Korpusun künyesinde hem
-yazdıran hem yazan anılır.
+Bu ayrım künyeye de geçirilmiştir.[^k2]
 
 Ayrımın sonucu vardır.[^k3] Metnin üslubu, bölüm düzeni ve edebî
 süslemeleri yazana; anlatılan olaylar anlatana aittir ve ikisi metinde
@@ -94,9 +89,7 @@ Anlatı, olayların üzerinden yıllar geçtikten sonra yazıldı.[^k1] Yol
 notlarının bir bölümünün yolculuk sırasında kaybolduğu eserin kendi
 içinde bildirilir.
 
-Bu, korpusun tanıklık için kurduğu kuralın doğrudan konusudur.[^k3] Bir
-tanıklığın değeri, olayla kayıt arasındaki sürenin uzunluğuyla ters
-orantılıdır.
+Bir tanıklığın değeri, olayla kayıt arasındaki sürenin uzunluğuyla ters orantılıdır.
 
 Kural bu esere uygulanınca sonuç şudur.[^k2] Tarih ve sayı bildiren
 ifadeler, betimleyici ifadelerden daha zayıf sayılmalıdır.
@@ -127,9 +120,7 @@ kapsam iddiaya çevrilmez.[^k2]
 
 ## Batı Afrika bölümü
 
-Eserin Mali seferi bölümü, korpusta en çok atıf yapılan
-kısımlarındandır.[^k1] Bölge hakkında dönemin başka yazılı kaydı
-sınırlıdır.
+Bölge hakkında dönemin başka yazılı kaydı sınırlıdır.
 
 Bu, bir avantaj ve bir risktir.[^k3] Az sayıda kaynak, tek kaynağa
 yaslanmayı kolaylaştırır.
@@ -165,9 +156,6 @@ Metinde geçen ordu büyüklükleri, kalabalık tahminleri ve mesafeler
 dönemin anlatı geleneğine uygundur.[^k1] Bu gelenekte büyük sayılar
 çokluğu belirtir, sayımı değil.
 
-Bu, korpusun tarihsel sayılar
-tartışmasında kurulan kuralın bir uygulamasıdır.[^k3]
-
 Kayıt yine de değerlidir.[^k2] Bir kalabalığın "sayılamayacak kadar
 çok" diye anlatılması, o kalabalığın gözlemciye bıraktığı izlenimin
 kaydıdır.
@@ -195,10 +183,6 @@ kentlerdeki fiyatı, taşıma maliyeti hakkında dolaylı bilgi verir.
 
 Tek bir fiyat kaydı
 anlamsızdır; iki kayıt bir ilişki kurar.[^k2]
-
-## Kanıtın ve kapsamın sınırı
-Dosya, eserin bütün bölümlerini değerlendirmez.[^k1] Yalnızca korpusta
-atıf yapılan kısımlar için kural koyar.
 
 Anlatıcının yolculuk güzergâhı tartışmalıdır.[^k3] Bazı bölgelere hangi
 sırayla gittiği ve gerçekten gidip gitmediği ayrı bir uzmanlık

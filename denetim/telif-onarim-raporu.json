@@ -1,0 +1,1466 @@
+{
+  "zaman": "2026-08-31T00:02:59.596Z",
+  "uygulandi": true,
+  "dosyalar": [
+    {
+      "id": "donem-01",
+      "yol": "icerik/donem/donem-01.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "insanlar bitki yetiştirmeyi öğrendi",
+          "donusen": [
+            "yalancı şafak",
+            "tarım toplumu"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "donem-04",
+      "yol": "icerik/donem/donem-04.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Eksen Çağı",
+          "donusen": [
+            "Eksen Çağı"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-1848-devrimleri",
+      "yol": "icerik/olay/olay-1848-devrimleri.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "devrim dalgaları",
+          "donusen": [
+            "emeğin örgütlenmesi"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-1905-rus-devrimi",
+      "yol": "icerik/olay/olay-1905-rus-devrimi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "iyi çar, kötü memurlar",
+          "donusen": [
+            "kim yönetiyor?"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-1914-temmuz-krizi",
+      "yol": "icerik/olay/olay-1914-temmuz-krizi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k2",
+          "korunan": "demiryolu takvimi liderlerin iradesini elinden aldı",
+          "donusen": [
+            "ilk savaş ilanını kim yaptı?"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-1968-hareketleri",
+      "yol": "icerik/olay/olay-1968-hareketleri.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "başarılı mı başarısız mı?",
+          "donusen": [
+            "ülkeye göre değişir",
+            "insan yüzlü sosyalizm",
+            "sınırlı egemenlik",
+            "normalleşme",
+            "sessiz çoğunluk",
+            "Sıcak Sonbahar",
+            "Kişisel olan politiktir"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-2008-finansal-krizi",
+      "yol": "icerik/olay/olay-2008-finansal-krizi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Ev sahibi olmayı yoksullara açmak krizi yarattı",
+          "donusen": [
+            "Lehman kurtarılsaydı kriz olmazdı",
+            "Wall Street kurtuldu, Main Street kaldı"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-afrika-bagimsizlik-dalgasi",
+      "yol": "icerik/olay/olay-afrika-bagimsizlik-dalgasi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Kapitalistlere karşı sosyalistler",
+          "donusen": [
+            "Afrika milliyetçiliği"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-amerikan-devrimi",
+      "yol": "icerik/olay/olay-amerikan-devrimi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "bir kişi bir oy",
+          "donusen": [
+            "yüksek vergiye öfke",
+            "Temsil yoksa vergi yok",
+            "Boston Katliamı",
+            "temsilsiz vergi olmaz"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-amerikan-ic-savasi",
+      "yol": "icerik/olay/olay-amerikan-ic-savasi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "eyalet hakları ile merkezî iktidar arasındaki çekişme",
+          "donusen": [
+            "kaçınılmaz",
+            "Amerikan halkı",
+            "Kayıp Dava",
+            "Köle Sahiplerinin İsyanı"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-amerikanin-kesfi",
+      "yol": "icerik/olay/olay-amerikanin-kesfi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "ilk ayak basan",
+          "donusen": [
+            "yerliler birbirini fethetti",
+            "Ürün değişimi"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-balkan-savaslari",
+      "yol": "icerik/olay/olay-balkan-savaslari.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "yüzyıllık nefretlerin patlaması",
+          "donusen": [
+            "büyük kabine",
+            "kim moderndi?"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-bandung-konferansi",
+      "yol": "icerik/olay/olay-bandung-konferansi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Üçüncü Dünya",
+          "donusen": [
+            "bağımsızlık",
+            "Batı karşıtlığı",
+            "bütün biçimleri",
+            "Küresel Güney"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-berlin-konferansi",
+      "yol": "icerik/olay/olay-berlin-konferansi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Bütün Afrika Berlin'de tek seferde bölündü",
+          "donusen": [
+            "devletin yokluğu",
+            "fazla sermayeye pazar arayışı",
+            "haritada boyanan bölge",
+            "Dolaylı yönetim"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-birinci-dunya-savasi",
+      "yol": "icerik/olay/olay-birinci-dunya-savasi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Kendi kaderini tayin",
+          "donusen": [
+            "Dünya savaşı",
+            "eski kafalı",
+            "karşılıklı savaş kaybı"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-boksor-isyani",
+      "yol": "icerik/olay/olay-boksor-isyani.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "batıl bir gericilik",
+          "donusen": [
+            "Boksörleri destekledi",
+            "onları bastırdı"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-bretton-woods",
+      "yol": "icerik/olay/olay-bretton-woods.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Amerika kötü yönettiği için sistem çöktü",
+          "donusen": [
+            "Wall Street'in şubeleri",
+            "dolar kıtlığı",
+            "altın çağı",
+            "Bretton Woods sonrası"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-cernobil",
+      "yol": "icerik/olay/olay-cernobil.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "her hastalık Çernobil'dendir",
+          "donusen": [
+            "likvidatör",
+            "kimse ölmedi"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-cheng-ho-seferleri",
+      "yol": "icerik/olay/olay-cheng-ho-seferleri.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Çin keşfetti ama sömürgeleştirmedi, Avrupa bu yüzden yükseldi",
+          "donusen": [
+            "hazine gemileri",
+            "tarihin en büyük gemisi",
+            "Haraç veren bağımlı devlet"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-cin-devrimi-1949",
+      "yol": "icerik/olay/olay-cin-devrimi-1949.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "köylüler doğal olarak Komünistti",
+          "donusen": [
+            "Uzun devrim"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-cin-reformlari-1978",
+      "yol": "icerik/olay/olay-cin-reformlari-1978.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "reform ve dışa açılım",
+          "donusen": [
+            "İki Her Ne Olursa",
+            "kaosu düzeltip normale dönme",
+            "Nehri taşları yoklayarak geçmek",
+            "büyükleri tut, küçükleri bırak"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-ekim-devrimi",
+      "yol": "icerik/olay/olay-ekim-devrimi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "bütün iktidar sovyetlere",
+          "donusen": [
+            "seçim yapıldı mı?",
+            "tarihçiler ve"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-fransiz-devrimi",
+      "yol": "icerik/olay/olay-fransiz-devrimi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "İnsan ve yurttaş",
+          "donusen": [
+            "yurttaş Capet",
+            "Devrim bitti",
+            "Üçüncü Sınıf Nedir?"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-hacli-seferleri",
+      "yol": "icerik/olay/olay-hacli-seferleri.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Haçlılar baştan beri Bizans düşmanıydı",
+          "donusen": [
+            "Bizans Haçlılara ihanet etti",
+            "Hristiyan ordusu Hristiyan Doğu'yu kurtardı",
+            "Haçlı Seferleri"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-han-hanedani-kurulusu",
+      "yol": "icerik/olay/olay-han-hanedani-kurulusu.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "kaba ama insan tanıyan yönetici",
+          "donusen": [
+            "Qin çöktü, Han başladı",
+            "Han'ın restorasyonu",
+            "Doğu ve Batı'nın ikizleri"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-ikinci-dunya-savasi",
+      "yol": "icerik/olay/olay-ikinci-dunya-savasi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k4",
+          "korunan": "ekonomik güç her şeyi belirledi",
+          "donusen": [
+            "Yıldırım savaşı"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-iskender-seferleri",
+      "yol": "icerik/olay/olay-iskender-seferleri.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Doğu ile Batı birleşti",
+          "donusen": [
+            "Büyük adam",
+            "Yunanlar Perslere karşı",
+            "İskenderiye kurdu",
+            "temizlik harekâtı",
+            "bir milyondan fazla"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-islam-fetihleri",
+      "yol": "icerik/olay/olay-islam-fetihleri.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "bütün bölge istilaya karşı birleşti",
+          "donusen": [
+            "Ezilen halklar kurtarıcıları karşıladı",
+            "Kılıç zoruyla herkes Müslüman oldu",
+            "fetih dinle ilgisizdi",
+            "çöl savaşçısı üstünlüğü",
+            "İslam yayıldı"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-istanbulun-fethi",
+      "yol": "icerik/olay/olay-istanbulun-fethi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "şehir bir günde tamamen Türk ve Müslüman oldu",
+          "donusen": [
+            "Top icat edildi, Ortaçağ surları bitti",
+            "Batı Bizans'a ihanet etti",
+            "Kayser-i Rûm"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-justinyen-vebasi",
+      "yol": "icerik/olay/olay-justinyen-vebasi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "veba fetihleri tek başına durdurdu",
+          "donusen": [
+            "veba tarihi değiştirdi mi?"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-kara-olum",
+      "yol": "icerik/olay/olay-kara-olum.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "ikinci veba pandemisi",
+          "donusen": [
+            "modernleşme"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-kavimler-gocu",
+      "yol": "icerik/olay/olay-kavimler-gocu.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Romalı olmayanların devleti ele geçirmesi",
+          "donusen": [
+            "Kavimler Göçü",
+            "Migration Period",
+            "Barbarlar Roma'yı yıktı"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-malaka-fethi-1511",
+      "yol": "icerik/olay/olay-malaka-fethi-1511.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Avrupa teknolojisi Asya'yı yendi",
+          "donusen": [
+            "Stratejik konum"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-malazgirt",
+      "yol": "icerik/olay/olay-malazgirt.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Türkler her savaşta aynı hileyi yaptı",
+          "donusen": [
+            "Kapı açıldı"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-mansa-musa-haci",
+      "yol": "icerik/olay/olay-mansa-musa-haci.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "çok altını olan kişi",
+          "donusen": [
+            "Sahra-altı Afrika"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-meiji-restorasyonu",
+      "yol": "icerik/olay/olay-meiji-restorasyonu.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Japonya geleneklerini bıraktığı için başarıya ulaştı",
+          "donusen": [
+            "kim modernleşmek istedi?"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-mfecane",
+      "yol": "icerik/olay/olay-mfecane.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "asıl neden",
+          "donusen": [
+            "boş toprak"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-mogol-fetihleri",
+      "yol": "icerik/olay/olay-mogol-fetihleri.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Moğol icadı",
+          "donusen": [
+            "Moğollar Çinlileşti",
+            "Pax Mongolica",
+            "Moğol dini"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-napolyon-savaslari",
+      "yol": "icerik/olay/olay-napolyon-savaslari.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "İspanyol ülseri",
+          "donusen": [
+            "General Kış",
+            "yan savaşlar"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-pers-yunan-savaslari",
+      "yol": "icerik/olay/olay-pers-yunan-savaslari.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k4",
+          "korunan": "Batı özgürlüğü Doğu despotluğunu yendi",
+          "donusen": [
+            "Asya Avrupa'ya saldırdı",
+            "sayı kalabalığı",
+            "üç yüz Spartalı",
+            "özgür insanların direnişi"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-pon-savaslari",
+      "yol": "icerik/olay/olay-pon-savaslari.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Paralı askerler sadakatsiz, yurttaşlar vatansever",
+          "donusen": [
+            "Roma ve Kartaca",
+            "savaşlar çiftçiyi yok etti",
+            "kaçınılmaz yükselişi",
+            "Numidia dışında"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-reform",
+      "yol": "icerik/olay/olay-reform.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Yalnız iman",
+          "donusen": [
+            "Karşı Reform",
+            "mezhepleşme"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-ronesans",
+      "yol": "icerik/olay/olay-ronesans.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Rönesans İtalya'da doğdu ve seyrelerek yayıldı",
+          "donusen": [
+            "Antik bilgi keşfedildi",
+            "antik mirasın geri dönüşü",
+            "Karanlık çağdan bilime uyanış",
+            "sanat sömürgeciliğe yol açtı"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-rus-turkistan-fethi",
+      "yol": "icerik/olay/olay-rus-turkistan-fethi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Modernleşme",
+          "donusen": [
+            "sömürgeleştirme"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-suveys-krizi",
+      "yol": "icerik/olay/olay-suveys-krizi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Mısır kanalı kapattı mı?",
+          "donusen": [
+            "Nasır kanalı çaldı"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-taiping-isyani",
+      "yol": "icerik/olay/olay-taiping-isyani.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Göksel Büyük Barış Krallığı",
+          "donusen": [
+            "yoksullar ayaklandı",
+            "Göksel Başkent",
+            "Batı, Qing'i kurtardı",
+            "başarısız isyan"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-tanzimat-fermani",
+      "yol": "icerik/olay/olay-tanzimat-fermani.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Batılılaşma iyi miydi kötü müydü?",
+          "donusen": [
+            "Batılı fikirlerin benimsenmesi",
+            "Avrupa emretti, Osmanlı uyguladı",
+            "uygulanmadı"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-versailles-antlasmasi",
+      "yol": "icerik/olay/olay-versailles-antlasmasi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k2",
+          "korunan": "dikte barışı",
+          "donusen": [
+            "sakatlanmış zafer",
+            "Versailles düzeni"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "olay-vestfalya-barisi",
+      "yol": "icerik/olay/olay-vestfalya-barisi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "hukuki tarih mi, fiilî tarih mi?",
+          "donusen": [
+            "Vestfalyan egemenlik",
+            "Vestfalya Barışı",
+            "Vestfalya bir ilke ilan etti",
+            "normal yıl",
+            "Vestfalya sistemi",
+            "Önce feodal kaos, sonra egemen devlet",
+            "Vestfalya sistemi"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-abd",
+      "yol": "icerik/aktor/aktor-abd.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "United States of America",
+          "donusen": [
+            "bütün insanlar eşit yaratılmıştır",
+            "boş kıtanın ilerlemesi",
+            "yolsuz başarısızlık"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-ahamenis-imparatorlugu",
+      "yol": "icerik/aktor/aktor-ahamenis-imparatorlugu.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "herkesi serbest bırakması",
+          "donusen": [
+            "Krallar kralı",
+            "zalim Asur–hoşgörülü Pers"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-aksum-kralligi",
+      "yol": "icerik/aktor/aktor-aksum-kralligi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Afrika'da da büyük bir devlet vardı",
+          "donusen": [
+            "Ezana şu bölgeyi fethetti",
+            "Afrika'nın obeliski",
+            "Dokuz Aziz",
+            "kayıp uygarlık"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-avustralya-yerli-halklari",
+      "yol": "icerik/aktor/aktor-avustralya-yerli-halklari.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "zamanın dışında aynı kalan toplum",
+          "donusen": [
+            "Avustralya Yerli halkları",
+            "Taş, Tunç, Demir"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-avusturya-macaristan",
+      "yol": "icerik/aktor/aktor-avusturya-macaristan.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "gündelik dil",
+          "donusen": [
+            "ulus-devlet"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-birlesmis-milletler",
+      "yol": "icerik/aktor/aktor-birlesmis-milletler.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Birleşmiş Milletler hiçbir şey yapmadı",
+          "donusen": [
+            "hazırlık yılları"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-bizans-imparatorlugu",
+      "yol": "icerik/aktor/aktor-bizans-imparatorlugu.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Roma hukuku değişmeden sürdü",
+          "donusen": [
+            "Roman Empire",
+            "köylü askerler imparatorluğu kurtardı"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-britanya-imparatorlugu",
+      "yol": "icerik/aktor/aktor-britanya-imparatorlugu.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "diğer topraklar",
+          "donusen": [
+            "enformel imparatorluk",
+            "tek sömürge",
+            "imparatorluk"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-cin-halk-cumhuriyeti",
+      "yol": "icerik/aktor/aktor-cin-halk-cumhuriyeti.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Çin bütünüyle kapitalist oldu",
+          "donusen": [
+            "Güçlü devlet",
+            "Hiçbir şey değişmedi",
+            "yenilen taraf yer değiştirdi"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-delhi-sultanligi",
+      "yol": "icerik/aktor/aktor-delhi-sultanligi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Sultanlık Hinduizmi yok etmeye çalıştı",
+          "donusen": [
+            "her zaman hoşgörülüydü",
+            "Delhi Sultanlığı yaptı"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-dunya-bankasi",
+      "yol": "icerik/aktor/aktor-dunya-bankasi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Wall Street'in şubeleri",
+          "donusen": [
+            "Banka para verir",
+            "sürdürülebilir borç"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-eyyubi-devleti",
+      "yol": "icerik/aktor/aktor-eyyubi-devleti.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "sultanlık (beylikler konfederasyonu)",
+          "donusen": [
+            "cihat ruhu kayboldu"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-han-imparatorlugu",
+      "yol": "icerik/aktor/aktor-han-imparatorlugu.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Han ile Roma arasında ticaret vardı",
+          "donusen": [
+            "İki eş imparatorluk"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-hansa-birligi",
+      "yol": "icerik/aktor/aktor-hansa-birligi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "iki yüz Hansa şehri",
+          "donusen": [
+            "gayriresmî başkent"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-hitit-imparatorlugu",
+      "yol": "icerik/aktor/aktor-hitit-imparatorlugu.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Hititler şöyle düşünürdü",
+          "donusen": [
+            "Nesa'nın dili"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-khmer-imparatorlugu",
+      "yol": "icerik/aktor/aktor-khmer-imparatorlugu.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "hangisi tek neden?",
+          "donusen": [
+            "istila dalgası"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-misir-yeni-kralligi",
+      "yol": "icerik/aktor/aktor-misir-yeni-kralligi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Kuş kralının oğlu",
+          "donusen": [
+            "Deniz Kavimleri",
+            "Üçüncü Ara Dönem"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-mogol-imparatorlugu",
+      "yol": "icerik/aktor/aktor-mogol-imparatorlugu.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Moğollar herkesi öldürdü",
+          "donusen": [
+            "rakamlar abartılıydı",
+            "başarısız kopyaları"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-qing-hanedani",
+      "yol": "icerik/aktor/aktor-qing-hanedani.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "yüksek Qing",
+          "donusen": [
+            "Çin hanedanı",
+            "yabancı işgal"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-roma-imparatorlugu",
+      "yol": "icerik/aktor/aktor-roma-imparatorlugu.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "putperest Roma",
+          "donusen": [
+            "Hristiyan Roma"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-rus-imparatorlugu",
+      "yol": "icerik/aktor/aktor-rus-imparatorlugu.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Yarı anayasal",
+          "donusen": [
+            "Ruslaştırma"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-samaniler",
+      "yol": "icerik/aktor/aktor-samaniler.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "yabancı askerler devleti yıktı",
+          "donusen": [
+            "Fars rönesansı",
+            "Fars kültürünün dirilişi"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-songhay-imparatorlugu",
+      "yol": "icerik/aktor/aktor-songhay-imparatorlugu.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Gao ve Mali",
+          "donusen": [
+            "Afrika içi"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-srivijaya",
+      "yol": "icerik/aktor/aktor-srivijaya.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "monarşi, mandala devleti",
+          "donusen": [
+            "devlet yoktu"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "aktor-timur-imparatorlugu",
+      "yol": "icerik/aktor/aktor-timur-imparatorlugu.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "sanat hamisi",
+          "donusen": [
+            "yıkıcı fatih",
+            "Rusya'yı kurtarma",
+            "Timur'un Tüzükleri"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "dusunur-aristoteles",
+      "yol": "icerik/dusunur/dusunur-aristoteles.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Aristoteles şöyle der",
+          "donusen": [
+            "Aristotelesçilik"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "dusunur-augustinus",
+      "yol": "icerik/dusunur/dusunur-augustinus.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "haklı savaş",
+          "donusen": [
+            "Augustinusçuluk"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "dusunur-clausewitz",
+      "yol": "icerik/dusunur/dusunur-clausewitz.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "savaş siyasetin başka araçlarla devamıdır",
+          "donusen": [
+            "şaşırtıcı üçlüsü",
+            "askerî deha",
+            "doruk noktası",
+            "rasyonel aktör",
+            "bir amaç vardı",
+            "araç amaca uygundu",
+            "ağırlık merkezi"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "dusunur-farabi",
+      "yol": "icerik/dusunur/dusunur-farabi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Yunan felsefesi Arapçaya çevrildi",
+          "donusen": [
+            "ikinci öğretmen"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "dusunur-hegel",
+      "yol": "icerik/dusunur/dusunur-hegel.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Mutlak tin",
+          "donusen": [
+            "ussal gerçeklik"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "dusunur-herodotos",
+      "yol": "icerik/dusunur/dusunur-herodotos.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "bana anlatılanı aktarmak zorundayım, inanmak zorunda değilim",
+          "donusen": [
+            "Yunanlar iyi, Persler kötü"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "dusunur-ibn-rusd",
+      "yol": "icerik/dusunur/dusunur-ibn-rusd.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Tanrı mı doğa mı?",
+          "donusen": [
+            "çifte hakikat",
+            "saf Aristoteles"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "dusunur-mackinder",
+      "yol": "icerik/dusunur/dusunur-mackinder.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Yuvarlak Dünya ve Barışın Kazanılması",
+          "donusen": [
+            "Tarihin Coğrafi Ekseni",
+            "Dünya Adası",
+            "dünya dengesi",
+            "muson toprakları",
+            "Dünya Adası",
+            "doğruluyor"
+          ],
+          "uzun_cozulmeyen": []
+        },
+        {
+          "kaynak": "k4",
+          "korunan": "coğrafi eksen",
+          "donusen": [
+            "eksen alanı"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "dusunur-mahan",
+      "yol": "icerik/dusunur/dusunur-mahan.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "uçak gemisi yeni büyük zırhlıdır",
+          "donusen": [
+            "deniz gücü",
+            "kıyısı olan güçlenir",
+            "kesin muharebe"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "dusunur-malthus",
+      "yol": "icerik/dusunur/dusunur-malthus.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "genel mal bolluğu",
+          "donusen": [
+            "pozitif denetimler",
+            "tamamen çürütüldü",
+            "nüfus gıdayı aştı"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "dusunur-polanyi",
+      "yol": "icerik/dusunur/dusunur-polanyi.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "kurgusal meta",
+          "donusen": [
+            "çift hareket",
+            "piyasalaşma"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "dusunur-smith",
+      "yol": "icerik/dusunur/dusunur-smith.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "çıkar her şeyi çözer",
+          "donusen": [
+            "piyasanın kurucusu"
+          ],
+          "uzun_cozulmeyen": []
+        },
+        {
+          "kaynak": "k4",
+          "korunan": "Görünmez el",
+          "donusen": [
+            "ticari sistem"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "dusunur-tacitus",
+      "yol": "icerik/dusunur/dusunur-tacitus.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Tacitus ona bunu söyletiyor",
+          "donusen": [
+            "kişi bunu söyledi"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "dusunur-tocqueville",
+      "yol": "icerik/dusunur/dusunur-tocqueville.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k4",
+          "korunan": "Amerika demokratiktir, öyleyse yaptığı her şey demokrasidir",
+          "donusen": [
+            "Doğru anlaşılmış çıkar"
+          ],
+          "uzun_cozulmeyen": []
+        },
+        {
+          "kaynak": "k1",
+          "korunan": "çoğunluğun tiranlığı",
+          "donusen": [
+            "yumuşak despotizm"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "dusunur-wallerstein",
+      "yol": "icerik/dusunur/dusunur-wallerstein.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Birinci, İkinci ve Üçüncü Dünya",
+          "donusen": [
+            "dünya sistemi",
+            "geri kalmış kültür",
+            "Yarı çevre"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "kavram-bagimlilik-kurami",
+      "yol": "icerik/kavram/kavram-bagimlilik-kurami.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "dışarıyla kurulan ilişki nasıl işliyor?",
+          "donusen": [
+            "içeride ne eksik?"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "kavram-donemlendirme",
+      "yol": "icerik/kavram/kavram-donemlendirme.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "Sanayi çağı",
+          "donusen": [
+            "Demir Çağı"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "kavram-merkantilizm",
+      "yol": "icerik/kavram/kavram-merkantilizm.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k4",
+          "korunan": "merkantil sistem",
+          "donusen": [
+            "merkantilizm",
+            "merkantil sistem"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "kavram-sekulerlesme",
+      "yol": "icerik/kavram/kavram-sekulerlesme.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "dinin yok olması",
+          "donusen": [
+            "seküler toplum"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    },
+    {
+      "id": "kavram-ulus-devlet",
+      "yol": "icerik/kavram/kavram-ulus-devlet.md",
+      "kaynaklar": [
+        {
+          "kaynak": "k1",
+          "korunan": "üyelik nasıl tanımlanıyor ve sınırlar bu üyelikle ne ölçüde örtüşüyor?",
+          "donusen": [
+            "devlet ne kadar merkezî?"
+          ],
+          "uzun_cozulmeyen": []
+        }
+      ]
+    }
+  ],
+  "donusen": 215,
+  "uzun_cozulmeyen": 0
+}

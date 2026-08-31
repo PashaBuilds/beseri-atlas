@@ -68,7 +68,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 İnsan Hakları Evrensel Beyannamesi, 1948'de bir uluslararası örgütün
@@ -79,8 +78,7 @@ bildirir.
 Belge bir antlaşma değildir.[^k2] Kabul edildiği anda hiçbir devlet için
 bağlayıcı yükümlülük doğurmadı.
 
-Bu incelemenin asıl konusu kapsam iddiasıdır.[^k1] Metin, kapsamını
-daraltmak yerine evrensel olduğunu açıkça ilan eder.
+Metin, kapsamını daraltmak yerine evrensel olduğunu açıkça ilan eder.
 
 ## Üçlü dizinin tamamlanması
 
@@ -166,9 +164,8 @@ Metin bağlayıcı olmadığı hâlde sonraki yıllarda bağlayıcı sözleşmel
 temeli oldu.[^k2] İki büyük sözleşme, metnin maddelerini yükümlülük
 hâline getirdi.
 
-Bu, korpusun Magna Carta dosyasında ölçtüğü örüntünün tersidir.[^k1]
-Orada bağlayıcı bir uzlaşma sonradan genel bir ilkeye dönüştürülmüştü;
-burada genel bir ilke sonradan bağlayıcı hâle getirildi.
+Orada bağlayıcı bir uzlaşma sonradan genel bir ilkeye dönüştürülmüştü; burada genel bir
+ilke sonradan bağlayıcı hâle getirildi.
 
 İki yön de aynı mekanizmayı kullanır.[^k3] Bir metnin sonraki hukuki
 değeri, metnin kendisinden değil sonraki kullanımından gelir.
@@ -192,8 +189,7 @@ ayrı ayrı kaydeder.
 Maddelerin tek tek içeriği aktarılmaz.[^k2] Metin künyede erişilebilir
 durumdadır.
 
-Sonraki insan hakları hukukunun gelişimi izlenmez.[^k3] Ayrı dosyalar
-gerektirir ve bu inceleme yazıldığında korpusta bulunmuyorlardı.
+Sonraki insan hakları hukukunun gelişimi izlenmez.[^k3]
 
 ## Okumayı sürdürmek için
 Dizinin öteki iki halkası için

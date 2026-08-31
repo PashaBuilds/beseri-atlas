@@ -434,7 +434,7 @@ Ulusaşırı ve küresel yorumlar alanın başlıca çalışma başlıklarından
 geldi; 2013 tarihli The French Revolution in Global Perspective derlemesi bu
 yönelimin örnekleri arasında sayılıyor.[^k1]
 
-::tartismali[Aynı olaya sorulan soru okuldan okula değişiyor: sınıf mı, siyasal karar mı, simge mi, ölçek mi. Korpus bu değişimi bir ilerleme olarak sunmaz ve bugünkü dağınıklığı bir sonuç saymaz.]{harita=tartisma-aydinlanmanin-sinirlari}
+::tartismali[Aynı olaya sorulan soru okuldan okula değişiyor: sınıf mı, siyasal karar mı, simge mi, ölçek mi. Bu değişim zorunlu bir ilerleme sayılmaz; bugünkü çoğulluk da nihai sonuç değildir.]{harita=tartisma-aydinlanmanin-sinirlari}
 
 Devrimin düşünsel arka planı
 [Aydınlanma kimin için evrenseldi?](/tartisma/aydinlanmanin-sinirlari/)

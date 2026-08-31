@@ -9,6 +9,10 @@ tarih_baslangic: "1949"
 bolge: [avrupa, afrika, islam-dunyasi]
 eksen: [ekonomik, kulturel, siyasi]
 guven_geneli: yaygin
+kaynak_siniri: >-
+  Eserin doğrulanabilir tam metni açık erişimde bulunmadığı için bu kayıt katalog
+  ve akademik ikincil kaynaklarla sınırlıdır; bölüm ya da sayfa düzeyinde
+  birincil metin aktarımı yapmaz.
 etiketler: [akdeniz, uc-bolum, zaman-katmani, cevre, olay]
 ilgili:
   - dusunur-braudel
@@ -52,7 +56,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak eseri *La Méditerranée* adıyla anar ve ona ayrı bir bölüm ayırır;
@@ -66,20 +69,11 @@ olayların zamanı olduğunu, bunun adı olan bireylerin tarihi olduğunu ve yaz
 için yüzeylerin ve aldatıcı etkilerin zamanı sayıldığını kaydeder.[^k1] Eserin
 üçüncü bölümünün olaylar, siyaset ve insanları işlediği belirtilir.[^k1]
 
-Bir eserin bölümlerinin değişim hızına göre sıralanması,[^k1] korpusun şu
-kuralının dayanağıdır: bu incelemede eserden yapılan aktarımlar, hangi katmandan
-geldiği belirtilerek verilir.
-
 ## Coğrafya toplumsal biçim üretir
 
 Kaynak, eserin Akdeniz'inin denizin yanı sıra çöl ve dağlar olduğunu; çölün bütün
 topluluğun taşındığı göçebe bir toplumsal örgütlenme biçimi ürettiğini, dağ
 yaşamının ise yerleşik olduğunu yazar.[^k1]
-
-Bir deniz tarihinin çölle ve dağla birlikte tanımlanması,[^k1] korpusun bölge
-alanını neden çoğul tuttuğunun dayanağıdır.
-
-## Kavram korpusun kendi katmanında
 
 Eserin dayandığı zaman katmanı kavramı
 [Longue durée](/kavram/longue-duree/) dosyasında, dönem bölmesinin genel sorunu
@@ -95,8 +89,3 @@ tutulan kayıt, toplum biçimlerinin üretici gücün gelişimine göre yükseli
 fikrini anlatır.[^k2] O gelenek
 [Karl Marx](/dusunur/marx/) dosyasında, yazarın kendisi ise
 [Fernand Braudel](/dusunur/braudel/) dosyasında ele alınıyor.
-
-## Okumayı sürdürmek için
-Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser teliflidir; korpus metninden alıntı yapmaz ve
-yalnızca hakkında yazılanı aktarır.

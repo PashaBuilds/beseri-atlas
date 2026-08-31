@@ -333,8 +333,8 @@ büyümesi, ölüm oranını doğrudan yükseltir.[^k4]
 Yeni kentlerde su kaynaklı salgınlar yaygınlaştı.[^k4] Ölüm oranları
 kırsaldan yüksekti.
 
-Nedeninin su olduğu dönem içinde gösterildi.[^k2] Bu, korpusun kanıt
-dosyalarında ayrıca ele alınan bir yöntem örneğidir.
+Nedeninin su olduğu dönem içinde gösterildi; bu, gözlem ile nedensellik arasında
+denetlenebilir bir bağ kurmanın erken örneklerinden biridir.[^k2]
 
 Bir salgının kaynağının haritalanarak
 bulunması, verinin mekânla birleştirilmesinin erken ve etkili bir örneğidir.[^k6]
@@ -464,8 +464,8 @@ Terimler, kendi dönemlerinin sorularına verilmiş
 cevaplardır.[^k2] Sonraki dönemlere taşınırken anlamları
 değişti.
 
-Bir terimin bugünkü anlamıyla
-geçmişe uygulanması, korpusun anakronizm dosyasında tanımlanan hatadır.[^k3]
+Bir terimin bugünkü anlamıyla geçmişe uygulanması anakronizm üretir; dönemin
+kendi kullanımını ayrıca göstermek gerekir.[^k3]
 
 ## Dönemin bıraktığı soru
 
@@ -489,10 +489,9 @@ Bölgesel ayrıntı sınırlıdır.[^k3] Şerit satırları, bölgelerin kendi
 tarihlerinden çok ortak mekanizmanın onlardaki görünümünü verir ve
 her bölge kendi dosyalarında ayrıca ele alınır.
 
-Sayısal seriler burada yorumlanır, üretilmez.[^k6] Serilerin
-kaynakları, yöntemleri ve başlangıç tarihleri korpusun veri
-dosyalarında ayrı ayrı kayıtlıdır ve bu inceleme onların yerine
-geçmez.[^k4]
+Sayısal seriler burada yorumlanır, üretilmez.[^k6] Kaynakları, yöntemleri ve
+başlangıç tarihleri bağlantılı veri incelemelerinde ayrı ayrı açıklanır; dönem
+anlatısı bu yöntem notlarının yerine geçmez.[^k4]
 
 
 ## Kıta ölçeğinde savaş
@@ -587,8 +586,8 @@ konusudur.
 Bu, bölgeler arası gelir farkının açılmaya başladığı andır.[^k6] Fark,
 önceki dönemlerde bu ölçekte değildi.
 
-Ayrışmanın hangi yüzyılda başladığı
-tartışması, korpusun ayrı bir dosyasında ele alınır.[^k4]
+Ayrışmanın hangi yüzyılda başladığı sorusu, farklı açıklamaları karşılaştıran
+ayrı tartışma incelemesinde ele alınır.[^k4]
 
 ## El dokumacılığının çözülmesi
 
@@ -675,9 +674,8 @@ Dönemde düzenli nüfus sayımı ve doğum ölüm kaydı
 yaygınlaştı.[^k4] Devletler kendi nüfuslarını sistematik biçimde
 kaydetmeye başladı.
 
-Bu, korpusun veri katmanının birçok serisinin başlangıç
-tarihini açıklar.[^k6] Seriler bu dönemde başlar çünkü ölçüm bu
-dönemde kurulmuştur.
+Bu durum birçok sayısal serinin başlangıç tarihini açıklar.[^k6] Seriler bu
+dönemde başlar çünkü düzenli ölçüm kurumları bu dönemde kurulmuştur.
 
 Bir eğrinin başladığı nokta, olgunun değil kaydın
 başlangıcıdır.[^k2]
@@ -694,6 +692,32 @@ diğeri fabrika kayıtlarını merkeze koyar.
 
 İki dönüşüm aynı yıllarda ve birbirine
 bağlı biçimde yürümüştür; birini seçmek diğerini arka plana atar.[^k4][^k6]
+
+## Devrimlerin ortak sorusu: kim yurttaş sayılır?
+
+1789–1848 arasındaki devrimler aynı programın kopyaları değildi. Fransız haklar
+bildirisi özgürlük ve eşitliği evrensel bir dille ilan etti; fakat kadınların,
+sömürgelerde yaşayanların ve mülksüzlerin siyasal konumu bu evrenselliğin sınırlarını
+açığa çıkardı.[^k1] Haiti Devrimi köleleştirilmiş insanların bu dili kendi
+özgürlükleri için kullanabileceğini gösterirken Latin Amerika bağımsızlıkları
+imparatorluk bağını kopardı ama toplumsal hiyerarşileri bütünüyle ortadan kaldırmadı.
+
+Sanayi Devrimi aynı soruyu fabrikada ve kentte yeniden kurdu. Üretim kapasitesinin
+büyümesi, ücretli emeğin disiplinini, çocuk emeğini ve hızla genişleyen şehirlerin
+sağlık sorunlarını beraberinde getirdi.[^k2][^k6] Sendika, temsil ve sosyal hak
+talepleri bu yeni maddi düzenden beslendi. Osmanlı reformları ve Waitangi
+Antlaşması gibi farklı örnekler ise egemenlik, hukuk ve koruma dilinin Avrupa devrim
+merkezlerinin dışında başka biçimlerde müzakere edildiğini gösterir.[^k3][^k5]
+1848 dalgasının birçok yerde yenilmesi, fikirlerin etkisiz kaldığı anlamına gelmez:
+anayasa, ulus, yurttaşlık ve toplumsal hak talepleri sonraki siyasal mücadelelerin
+sözlüğüne yerleşti. Dönemin birliği kesintisiz bir özgürleşme çizgisinde değil,
+hakların kimleri kapsadığı sorusunun Atlantik'ten Pasifik'e farklı güç ilişkileri
+içinde yeniden sorulmasındadır.
+
+Bu hakların genişlemesi doğrusal ve geri döndürülemez değildi. Devrimci savaşlar,
+karşı devrimler ve olağanüstü yönetimler özgürlük adına kurulan kurumların zor
+kullanma kapasitesini de büyütebildi; kazanımlar sürekli siyasal mücadele ve kurumsal
+koruma, örgütlenme ve kuşaklar boyunca sürekli yeniden savunulma gerektirdi.[^k1][^k2]
 
 ## Fikir dünyası
 

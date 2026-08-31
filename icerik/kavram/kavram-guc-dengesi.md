@@ -56,7 +56,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak, kavramı bölüm başlıklarıyla açar: tarih, gerçekçilik ve dengeleme,
 dengeleme ile yandaşlık karşılaştırması, zincirleme sürüklenme, sorumluluk devri,
 saldırgan ve savunmacı gerçekçilik, tehdit dengesi, yumuşak dengeleme ve güç
@@ -67,7 +66,7 @@ saldırgan ve savunmacı gerçekçilik, tehdit dengesi, yumuşak dengeleme ve g�
 Kaynak, tarih bölümünün altında güç dengesi kuramına karşı tarihsel kanıtlar diye
 ayrı bir alt başlık tutar.[^k1]
 
-::tartismali[Bir kuramın kendi ansiklopedi maddesinde "kurama karşı tarihsel kanıtlar" başlıklı bir bölüm bulunuyor. Korpus kuramı da karşı kanıtı da kaydeder ve aralarında hüküm vermez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bir kuramın kendi ansiklopedi maddesinde "kurama karşı tarihsel kanıtlar" başlıklı bir bölüm bulunuyor.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu tür yan yana kayıtların nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -78,9 +77,6 @@ haritasında ele alınıyor.
 Kaynak, 1946'da bir konuşmada eski güç dengesi öğretisinin sağlam olmadığının
 söylendiğini ve dar marjlarla çalışmanın bir güç sınamasına davetiye çıkardığının
 belirtildiğini aktarır.[^k1]
-
-Bir kavramın hem kuram hem siyasi tartışma konusu olarak kaydedilmesi,[^k1]
-korpusun kavram dosyalarında neden kullanım örneklerini de tuttuğunun dayanağıdır.
 
 ## Seçenekler de adlandırılmıştır
 
@@ -102,10 +98,6 @@ Devlet içindeki güç ayrımı için tutulan bir başka kayıt, farklı organla
 yürütme ve yargı gücünü ayrı ayrı kullandığı bir düzen önerisini anlatır.[^k3]
 O öneri [Montesquieu](/dusunur/montesquieu/) dosyasında ele alınıyor.
 
-Aynı fikrin biri devletler arasında biri devlet içinde iki ayrı biçimde
-kaydedilmesi,[^k1][^k3] korpusun kavram dosyalarını neden ölçek belirterek
-tuttuğunun dayanağıdır.
-
 ## Kanıtın ve kapsamın sınırı
 Kuramın tarihi, İngiltere örneği, gerçekçilik tartışmaları ve modern
 uygulamaları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
@@ -116,3 +108,53 @@ bölümler olarak işler.[^k1]
 Bu kavramın formüle edildiği eser Mackinder, *Tarihin Coğrafi Ekseni*'dir; dosya o eserin kamu malı
 tam metnine bağlanır.[^k4] Kavrama yapılacak atıflar, kavramı tanımlayan
 bölüm belirtilerek verilmelidir.
+
+## Betimleme, beklenti ve siyaset önerisi
+
+“Güç dengesi” üç farklı cümlede üç farklı iş yapabilir. Birincisinde devletler
+arasındaki mevcut dağılımı betimler: hiçbiri diğerlerini kolayca yönetebilecek
+kadar üstün değildir. İkincisinde bir davranış beklentisi kurar: güçlenen devlete
+karşı başkalarının ittifak kuracağı varsayılır. Üçüncüsünde ise siyaset önerisine
+dönüşür: karar alıcıların dengeyi korumak için müdahale etmesi istenir. Bu
+anlamları ayırmadan kurulan bir açıklama, olanı gösterirken olması gerekeni
+kanıtladığını sanabilir. Kaynağın dengeleme, yandaşlık, sorumluluk devri ve
+zincirleme sürüklenmeyi ayrı başlıklara ayırması, devletlerin tek bir tepki
+vermediğini açıkça gösterir.[^k1]
+
+Dengeleme, daha güçlü tarafa karşı askerî kapasite artırmak ya da ittifak kurmak
+demektir. Yandaşlıkta ise daha zayıf aktör, yükselen gücün yanında yer alarak
+güvenlik veya pay kazanmaya çalışır. Sorumluluk devrinde tehdidi durdurma maliyeti
+başka bir devlete bırakılır; zincirleme sürüklenmede bir müttefikin tercihi diğer
+üyeleri istemedikleri bir çatışmaya çekebilir. Aynı güç dağılımı altında bu dört
+davranıştan hangisinin ortaya çıkacağı, tehdidin yakınlığına, güvenilir bilgiye,
+ittifakların inandırıcılığına ve iç siyasete bağlıdır. Bu yüzden dağılımı ölçmek,
+dış politika sonucunu tek başına tahmin etmeye yetmez.[^k1]
+
+## Tarihsel bir örnek nasıl sınanır?
+
+Bir savaşı denge kuramının kanıtı saymadan önce en az dört soru sorulmalıdır:
+Tarafların gücü olaydan önce nasıl ölçülmüştür? İttifak gerçekten üstün gücü
+sınırlamak amacıyla mı kurulmuştur? Aktörler o gücü tehdit olarak algıladıklarını
+belgelerde söylüyor mu? Aynı koşullarda dengelemeyen devletler neden farklı
+davranmıştır? Yalnızca savaş sonrası oluşan dengeye bakmak, sonucu niyetin kanıtı
+sayma riskini taşır.[^k1]
+
+[Viyana Kongresi](/olay/viyana-kongresi/) bir düzen kurma girişimini;
+[Kırım Savaşı](/olay/kirim-savasi/) ise ittifakların ve bölgesel çıkarların
+karmaşık bileşimini karşılaştırmak için kullanılabilir. [Caydırıcılık](/kavram/caydiricilik/)
+karşı tarafın maliyet hesabına, [Hegemonya](/kavram/hegemonya/) üstünlüğün nasıl
+kurumsallaştığına odaklanır. Güç dengesi bunlarla aynı şey değildir: kaynakların
+ve ittifakların dağılımını açıklayan bir mercektir. Kuram, rakip davranışları ve
+karşı kanıtları da hesaba kattığında açıklayıcı; her sonucu sonradan “denge” diye
+adlandırdığında ise sınanamaz hale gelir.[^k1][^k2]
+
+Güç ölçümü de başlı başına tartışmalıdır. Asker sayısı, ekonomi, teknoloji,
+coğrafya, ittifak güvenilirliği ve yönetim kapasitesi aynı toplamda kolayca
+birleştirilemez. Kâğıt üzerindeki üstünlük uzak cephede kullanılamayabilir;
+ekonomik büyüklük savaşma iradesine dönüşmeyebilir. Aktörlerin algıladığı güç ile
+sonradan ölçülen güç ayrıldığında kararlar, tarihçinin bildiği sonuçla değil o
+andaki bilgiyle açıklanmalıdır.
+
+Yanlış algı da etkisiz gürültü değil, ittifak ve savaş kararını üreten gerçek bir nedendir.
+
+Algının kaynağı ayrıca araştırılmalıdır.

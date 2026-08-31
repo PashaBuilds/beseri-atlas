@@ -103,6 +103,147 @@ Bu tartışma önemlidir çünkü yazının ilk işlevine dair iki farklı resim
 biri kayıt tutma, diğeri anlatı. İkisi de aynı teknolojinin farklı
 kullanımlarıdır.
 
+## İşaret ne zaman yazı olur?
+
+Bir çentik, mühür veya resim bilgi taşıyabilir; fakat her bilgi işareti yazı
+değildir. Dar anlamda yazı, konuşulan dilin ifadelerini yeniden kurmaya yetecek
+düzenli işaretler sistemi gerektirir. Bir kap üzerindeki tahıl resmi "tahıl",
+"ambar", "vergi" veya belirli bir kişi için kullanılmış olabilir; dilbilgisel
+ilişki bilinmiyorsa okuyucu tam cümleyi geri getiremez.[^k1]
+
+Bu nedenle araştırmacılar ön-yazı ile tam yazı arasında bir geçiş arar. Sayı ve
+mal türünü kaydeden simgeler ekonomik işlemi izleyebilir; kişi adları, fiiller,
+ekler ve soyut kavramlar için işaret repertuvarı genişlediğinde sistem konuşmaya
+daha sıkı bağlanır. "İlk yazı" tarihi, ölçütün tek tek işaret mi, düzenli kayıt mı
+yoksa uzun ve tutarlı metin mi olduğuna göre değişebilir.
+
+## Rebus ilkesi resmi sese bağladı
+
+Bir resmin yalnız gösterdiği nesne için değil, o nesnenin adındaki ses için
+kullanılması yazının kapasitesini büyütür. Bu rebus ilkesi sayesinde çizilmesi
+zor soyut sözcükler ve özel adlar, aynı sesi taşıyan somut nesne işaretiyle
+yazılabilir. İşaret artık yalnız dünyadaki şeye değil dildeki sese gönderme
+yapar; yazı böylece resim dizisinden ayrılır.[^k1]
+
+Sistemler saf türler değildir. Aynı metinde sözcük işaretleri, hece değerleri,
+sayılar ve hangi anlam alanının kastedildiğini belirten sessiz göstergeler yan
+yana bulunabilir. "Çivi yazısı bir alfabe miydi?" sorusunun cevabı hayırdır;
+çivi biçimi yazım tekniğini, işaretlerin dilsel değeri ise sistemin yapısını
+anlatır. Farklı diller aynı çivi işareti geleneğini uyarlayabilir.
+
+## Kil, taş, kemik ve bitki aynı arşivi üretmez
+
+Yazının günümüze kalan haritası, insanların nerede yazdığından çok hangi
+malzemenin korunduğunu da gösterir. Pişmiş veya yangında sertleşmiş kil tabletler
+binlerce yıl dayanabilir; taşa kazınmış anıt metinleri görünür kalır. Ahşap,
+bambu, deri, yaprak ve papirüs ise kuru ya da suya doygun özel koşullar dışında
+çürür. Kayıp malzeme, bir bölgenin yazısız görünmesine yol açabilir.[^k1]
+
+Bu koruma yanlılığı türleri de etkiler. Vergi deposundaki tabletler ve kral
+anıtları, gündelik mektuplardan veya sözlü anlatılardan daha çok kalabilir.
+Arşivde çok görülen şey toplumda en çok konuşulan şey olmayabilir. Yazılı
+kaydı geçmişin doğrudan aynası saymak yerine, kaydı kimin hangi malzemeye hangi
+kurum için yaptığı sorulmalıdır.
+
+## Kâtiplik uzmanlığı ve dar okuryazarlık
+
+Erken sistemlerde yüzlerce işareti, farklı değerleri ve belge kalıplarını
+öğrenmek uzun eğitim gerektirdi. Yazı bu nedenle başlangıçta bütün nüfusa yayılan
+bir gündelik beceri değil, saray ve tapınak çevresinde yoğunlaşan uzmanlıktı.
+Kâtip yalnız söyleneni mekanik biçimde kaydetmez; ölçü birimlerini, hukuki
+formülleri, takvimi ve arşiv düzenini bilen bir aracıdır.[^k1]
+
+Dar okuryazarlık yazının etkisini küçültmez. Birkaç kâtibin kaydı, binlerce
+kişiden toplanacak tahılı, dağıtılacak tayını veya çalışılacak günleri
+düzenleyebilir. Aynı zamanda kayıt üzerinde tekel, yönetilenlerin hesabı
+denetlemesini zorlaştırır. Yazı devlet kapasitesi sağlar; iktidarı otomatik olarak
+şeffaf veya adil yapmaz.
+
+## Muhasebe devletin hafızasını uzattı
+
+Sözlü hafıza yüz yüze ilişki ve yaşayan tanıklarla güçlüdür; büyük ölçekli
+kurumda kişi, mal ve zaman aralığı büyüdükçe sınırları görünür olur. Tablet,
+borcun gelecek hasada kadar hatırlanmasını, farklı depolardaki miktarların
+karşılaştırılmasını ve yöneticinin değişmesinden sonra yükümlülüğün sürmesini
+sağlar. Standart ölçü ile yazı birbirini güçlendirir.[^k1]
+
+Fakat kayıt gerçeği yalnız yansıtmaz, kategorilere böler. Hangi insanın işçi,
+bağımlı veya vergi mükellefi sayıldığı; hangi malın hangi ölçüyle yazıldığı idari
+bir karardır. Sayılmayan emek ve sözlü hak arşivde görünmez kalabilir. Yazının
+iktidar gücü yalnız daha çok bilgi tutmasında değil, yönetilebilir dünyayı hangi
+sınıflarla kurduğundadır.
+
+## Hukuk yazılınca ne değişti?
+
+Hammurabi metni gibi derlemeler, hükümdarın adalet sağladığı iddiasını kalıcı ve
+kamusal bir biçime sokar.[^k2] Yazılı hüküm benzer davaların karşılaştırılması ve
+görevlilerin ortak formül kullanması için dayanak olabilir. Bununla birlikte taş
+üzerindeki kanun, her köyde aynı biçimde uygulandığını veya herkesin metni
+okuyabildiğini kanıtlamaz.
+
+Kanun derlemesinin işlevi konusunda en az üç ihtimal ayrılmalıdır: mahkemede
+başvurulan bağlayıcı kural, kâtip eğitimi için örnek davalar ve kralın adaletini
+ilan eden anıt. Aynı metin bunların birden fazlasını taşıyabilir. Modern kanun
+kitabı beklentisini doğrudan eski metne yansıtmak, yazılmış norm ile uygulanan
+hukuk arasındaki mesafeyi gizler.
+
+## Yazı anlatı ve eleştiriyi de mümkün kıldı
+
+İlk kayıtların ekonomik ağırlığı, yazının yalnız muhasebe için kaldığı anlamına
+gelmez. İlahi, ağıt, destan, bilgelik metni, mektup ve bilimsel gözlem zamanla
+arşive girdi. Bir anlatının farklı nüshaları karşılaştırılabilir, uzak kuşağın
+sözleri yeniden okunabilir ve yorum geleneği oluşabilir. Metin, yazarın
+yokluğunda itiraz edilebilir bir nesne hâline gelir.
+
+Bu kalıcılık yeni bir otorite de yaratır. Eski olduğu için kutsal veya doğru
+sayılan metinler değişen koşullarda yoruma ihtiyaç duyar; kimin doğru okuyacağı
+üzerine kurumlar oluşur. Yazı eleştiriyi mümkün kılarken metin üzerinde denetim
+de kurabilir. Teknolojinin sonucu, onu taşıyan eğitim ve siyasi düzenle birlikte
+belirlenir.
+
+## Bağımsız icat ile uyarlama arasındaki geniş alan
+
+Dört bağımsız icat tezi, dünyadaki her yazı sisteminin ayrı ayrı yaratıldığı
+anlamına gelmez.[^k1] Fenike alfabesinden türeyen Yunan, Latin ve başka
+alfabeler; bir sistemin işaret ve ilkelerinin yeni dillere uyarlanabildiğini
+gösterir. Kore yazısı gibi bilinçli tasarımlar da daha eski yazı deneyimlerinin
+bilindiği ortamlarda ortaya çıkabilir. Köken sayısı ile sonraki sistem sayısı
+aynı değildir.
+
+"Uyaran yayılımı" daha ince bir ihtimal sunar: toplum başka bir yerde konuşmanın
+işaretlerle kaydedilebildiğini öğrenir, fakat işaretleri kopyalamadan kendi
+sistemini kurar.[^k1] Böyle bir etki doğrudan nesne aktarımından daha zor
+kanıtlanır. Kronolojik yakınlık ve temas imkânı olasılık gösterir; yapısal fark
+tek başına hiçbir fikir alışverişi olmadığını kanıtlamaz.
+
+## Yazı kaybolabilir ve yeniden çözülebilir
+
+Bir siyasi merkez çöktüğünde kâtip okulları ve kullanım dili ortadan kalkabilir;
+taş ve tabletler kalsa bile okuma geleneği kesilebilir. Bir sistemin
+çözümlenmesi için iki dilli metin, bilinen özel adlar, tekrar eden kalıplar ve
+işaretlerin istatistiksel düzeni kullanılabilir. Çözüm, tek bir dâhinin sezgisinden
+çok farklı buluntuların ve uzmanlıkların birikimidir.
+
+Okunamayan yazı ile yazısız toplum aynı şey değildir. İşaretlerin dilsel sistem
+olduğu bilinse bile hangi dili kaydettiği anlaşılmayabilir. Tersine, çok sayıda
+simgesi bulunan bir buluntu dizisi yeterli uzunluk ve bağlam sunmadığı için yazı
+olup olmadığı tartışmalı kalabilir. "Çözülemedi" sözü, sistemin anlamsız olduğu
+anlamına gelmez; kanıt zincirinin henüz kapanmadığını gösterir.
+
+## Yazı uygarlığın tek eşiği değildir
+
+Yazılı arşiv büyük devletlerin ve uzun mesafeli idarenin kapasitesini artırdı;
+fakat karmaşık hukuk, tarihsel hafıza, şiir ve ticaret yalnız yazıyla mümkün
+değildir. Sözlü toplumlar uzman anlatıcılar, soy zincirleri, ezber teknikleri,
+düğüm veya nesne kayıtları ve toplu törenlerle bilgi aktarabilir. Yazı yokluğu
+zekâ, tarih veya kurum yokluğu değildir.
+
+Tarihçinin kaynak bolluğu da değer hükmüne dönüşmemelidir. Yazılı toplumlar
+kendi seslerini daha çok bıraktığı için komşularını "sessiz" ve basit gösterir.
+Arkeoloji, dilbilim ve sözlü gelenek bu dengesizliği kısmen düzeltir. Yazının
+icadı insan kapasitesini bir anda yaratmadı; hafızayı, ölçeği ve denetimi yeni
+bir maddi ortama taşıdı.
+
 ## Yazının ne yaptığı
 
 Yazının siyasi işlevi, dönemin kendi metinlerinden okunabilir. Hammurabi

@@ -56,7 +56,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Himaye düzeni, bir devletin dış ilişkilerini ve savunmasını başka bir
@@ -88,14 +87,11 @@ kurulmaz, memur atanmaz, gündelik idari sorumluluk alınmaz.
 Karşılığında denetim azalır.[^k3] Koruyan taraf, hedeflerine yerel
 hanedan aracılığıyla ulaşmak zorundadır.
 
-Tercih bu nedenle bir maliyet hesabıdır.[^k2] Korpus iki aracı bir
-gelişmişlik sıralaması olarak değil, bir seçim olarak kaydeder.
+Tercih bu nedenle bir maliyet hesabıdır.[^k2]
 
 ## Ne zaman tercih edilmediği
 
-Aynı güç, komşu devletlere farklı araçlar uygulayabilir.[^k3] Korpusta bu,
-Orta Asya'da üç hanlıkta ölçüldü: ikisi himaye altına alındı, biri
-doğrudan ilhak edildi.
+Aynı güç, komşu devletlere farklı araçlar uygulayabilir.[^k3]
 
 Farkın nedeni tek bir etkene bağlanamadı.[^k1] Sınır konumu, üretim
 yapısı ve hanedanın istikrarı ayrı ayrı öne sürülebilir.
@@ -105,16 +101,13 @@ cevabın kaydedilmesinden iyidir.[^k2]
 
 ## Korunanın korunmadığı durum
 
-Himaye, korunan devletin varlığını garanti etmez.[^k3] Korpusta iki örnek
-himaye altındayken sona erdi.
+Himaye, korunan devletin varlığını garanti etmez.[^k3]
 
 Bir başka örnekte düzen sona erdi ve devlet ayakta kaldı.[^k2] Devredilen
 yetki geri alındı; kurulacak yeni bir devlet yoktu çünkü devlet hiç
 ortadan kalkmamıştı.
 
-Fark, korpusun sömürgesizleşme dosyasındaki örüntüden ayrılır.[^k1]
-Olağan biçim yeni bir devletin kurulmasıdır; himaye örneklerinde
-süreklilik korunabilir.
+Olağan biçim yeni bir devletin kurulmasıdır; himaye örneklerinde süreklilik korunabilir.
 
 ## Nüfus bileşiminin rolü
 
@@ -163,18 +156,25 @@ bağımsızlığın geri alınmasıyla bitmiştir.
 Sonucu belirleyen etkenler süreden bağımsız
 görünmektedir ve hangileri olduğu ölçülmemiştir.[^k2]
 
-## Kanıtın ve kapsamın sınırı
-Dosya himaye düzeninin hukuki geçerliliği hakkında hüküm vermez.[^k1]
-Düzenin nasıl işlediğini ve korpusta hangi örneklerde görüldüğünü
-kaydeder.
-
 Bir tipoloji de önermez.[^k3] Örnekler arasındaki farklar, tek bir
 sınıflandırmaya sığmayacak kadar geniştir.
 
-Güncel uluslararası hukuktaki karşılıkları işlenmez.[^k2] Korpus güncel
-hukuki durumlar hakkında değerlendirme yapmaz ve bugün yürürlükte olan
-benzer düzenlemeler bu incelemenin kapsamı dışındadır; dosya yalnızca
-tarihsel örnekleri kaydeder.
+Güncel uluslararası hukuktaki karşılıkları işlenmez.[^k2]
+
+## Özerklik ile dış denetimin bileşimi
+
+Himaye düzeninde yerel yönetim iç işlerinde varlığını sürdürebilirken dış ilişkiler,
+savunma veya maliye başka bir gücün denetimine girer.[^k1] Bu ara biçim tam ilhak ile
+eşit devletler arası ittifak arasında yer alır; fakat resmî özerklik gerçek karar
+kapasitesini tek başına göstermez. Antlaşmanın hangi koşulda imzalandığı, askerî
+baskı, danışmanların yetkisi ve gelirlerin denetimi incelenmelidir.
+
+“Koruma” dili karşılıklı güvenlik iddiası taşır, ancak koruyan taraf ilişkiyi tek
+yanlı sona erdirebiliyor veya yöneticiyi değiştirebiliyorsa egemenlik belirgin biçimde
+eşitsizdir.[^k2] Yerel aktörler bu düzeni rakiplerine karşı kullanabilir; bu strateji
+rızanın bütünüyle özgür olduğu anlamına gelmez. Hukukî statü ile fiilî müdahale
+arasındaki mesafe, himayeyi değerlendirmenin temel ölçüsüdür. Yerel bütçenin kim
+tarafından onaylandığı bu mesafeyi somutlaştıran güçlü bir göstergedir.[^k3]
 
 ## Okumayı sürdürmek için
 Himaye altındayken hanedanını ve toprak düzenini koruyan örnek için
@@ -190,3 +190,5 @@ uygundur.[^k3]
 Devredilen yetkinin ne olduğu için [Egemenlik](/kavram/egemenlik/),
 sürecin genel çerçevesi için [Emperyalizm](/kavram/emperyalizm/) ve
 [Sömürgesizleşme](/kavram/somurgesizlesme/) dosyaları okunabilir.[^k1]
+
+Yetkinin hangi alanda kimde kaldığı her örnekte ayrıca sorulmalıdır.

@@ -54,12 +54,10 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
-Mapuçe, Güney Amerika'nın güneybatısında yaşayan ve bugün de varlığını
-sürdüren bir halktır.[^k1] Bu inceleme, halkın tamamının tarihini değil
-yalnızca belirli bir siyasi olguyu ve onun kaynak durumunu kaydeder.
+Mapuçe, Güney Amerika'nın güneybatısında yaşayan ve bugün de varlığını sürdüren bir
+halktır.[^k1]
 
 Olgu şudur: bölgeye kuzeyden gelen imparatorluk da, sonradan gelen
 Avrupa gücü de aynı nehir hattında durdu.[^k1] İki farklı güç, birbirinden
@@ -137,22 +135,17 @@ doldurma süresi ve arazi, silahın üstünlüğünü sınırlıyordu.
 Belirleyici hâle gelmesi on dokuzuncu yüzyılı buldu.[^k3] O yüzyılda
 menzil, atış hızı ve ikmal birlikte değişti.
 
-Bu, korpusun Aşanti dosyasında ölçtüğü örüntüyle aynıdır.[^k1] Askerî
-üstünlüğün yön değiştirmesi tek bir silahla değil bir bileşimle
-gerçekleşir.
+Askerî üstünlüğün yön değiştirmesi tek bir silahla değil bir bileşimle gerçekleşir.
 
 ## Antlaşma düzeni
 
 On yedinci yüzyıldan itibaren iki taraf arasında antlaşmalar
 imzalandı.[^k1] Antlaşmalar sınırı tanıyor ve ticareti düzenliyordu.
 
-Bu, korpusun kayda değer bulduğu bir olgudur.[^k3] Bir Avrupa gücü,
-kendi hâkimiyet iddiasının içinde kalan bir bölgeyi antlaşmayla ayrı
-tuttu.
+Bir Avrupa gücü, kendi hâkimiyet iddiasının içinde kalan bir bölgeyi antlaşmayla ayrı
+tuttu.[^k1]
 
-Antlaşmaların varlığı, tanınmanın merkezî devlet şartına bağlı
-olmadığını gösterir.[^k2] Korpus aynı gözlemi Haudenosaunee dosyasında da
-kaydetmişti.
+Antlaşmaların varlığı, tanınmanın merkezî devlet şartına bağlı olmadığını gösterir.[^k2]
 
 ## Antlaşmaların işleyişi
 
@@ -171,8 +164,7 @@ imzayla değil tekrarla ayakta durur.[^k3]
 Sınır hattı bir kapanma değil bir alışveriş yüzeyiydi.[^k2] Hayvan,
 tekstil, tuz ve maden iki yönde de hareket ediyordu.
 
-Ticaret, çatışma dönemlerinde bile tümüyle kesilmedi.[^k1] Bu, korpusun
-başka sınır bölgelerinde de ölçtüğü bir örüntüdür.
+Ticaret, çatışma dönemlerinde bile tümüyle kesilmedi.[^k1]
 
 Sonucu şudur.[^k3] Bir sınırın askerî olarak çatışmalı olması, ekonomik
 olarak kapalı olduğu anlamına gelmez.
@@ -191,8 +183,7 @@ sınırlarının içindeki her grup için bağımsızlık anlamına gelmedi.[^k2
 
 ## Sonucun genel biçimi
 
-Bu örüntü korpusta başka yerlerde de görülür.[^k3] Sömürge sonrası
-kurulan devletler, önceki yönetimin tanımadığı alanları da kendi
+Sömürge sonrası kurulan devletler, önceki yönetimin tanımadığı alanları da kendi
 sınırlarına dâhil ettiler.
 
 Devralınan şey toprak iddiasıydı, antlaşma yükümlülüğü değil.[^k1]
@@ -242,12 +233,10 @@ kaydedilmesi ayrı işlerdir ve ikincisi çoğu zaman atlanır.[^k2]
 
 ## Kaynak durumu
 
-Bu incelemenin iki künyesi dönem tanıklığıdır ve ikisi de karşı taraftan
-gelir.[^k2] Biri savaşa katılmış bir askerin manzum anlatısı, biri
-ilhaktan sonra yazılmış bir ansiklopedi maddesidir.
+Biri savaşa katılmış bir askerin manzum anlatısı, biri ilhaktan sonra yazılmış bir
+ansiklopedi maddesidir.
 
-Halkın kendi kayıtları sözlü aktarımdadır.[^k1] Doğrulanabilir çevrimiçi
-bir derleme bu inceleme yazıldığında bulunamamıştır.
+Halkın kendi kayıtları sözlü aktarımdadır.[^k1]
 
 Eksik borç defterine yazılmıştır.[^k3] Dosyanın konusu bir direniştir ve
 direnen tarafın kendi kaydı künyelenememiştir; bu kısıt burada beyan
@@ -266,16 +255,13 @@ o kaynağı karşı tarafın kaydı yapmaz.[^k3]
 
 ## Kapsam dışı
 
-Halkın toplumsal yapısı, dili ve inanç düzeni burada ayrıntılı olarak
-işlenmez.[^k1] Ayrı dosyalar gerektirirler ve bu inceleme yazıldığında
-korpusta bulunmuyorlardı.
+Halkın toplumsal yapısı, dili ve inanç düzeni burada ayrıntılı olarak işlenmez.[^k1]
 
 Savaşların askerî ayrıntısı kapsam dışıdır.[^k2] Dosya yalnızca sınırın
 üç yüzyıl boyunca neden durduğuna ilişkin olanı kaydeder; seferlerin
 güzergâhı, süresi ve tarafların kayıpları ayrı bir çalışma gerektirir.
 
-Yirminci yüzyıl ve sonrası işlenmez.[^k3] Korpus yaşayan siyasi durumlar
-hakkında değerlendirme yapmaz.
+Yirminci yüzyıl ve sonrası işlenmez.[^k3]
 
 ## Kanıtın ve kapsamın sınırı
 Dosya, merkezsiz örgütlenmenin genel bir üstünlük olduğunu ileri
@@ -284,21 +270,15 @@ sürmez.[^k1] Savunmada dayanıklı, saldırıda etkisiz olduğunu kaydeder.
 Sınırın durmasının tek nedeni belirlenmez.[^k2] Coğrafya, örgütlenme
 biçimi ve at uyumu ayrı ayrı etkendir ve ağırlıkları ölçülmemiştir.
 
-Halkın kendi anlatısı bu incelemede temsil edilmemektedir.[^k3] Bu bir
-tercih değil bir kaynak kısıtıdır ve kapatılması gerekir; dosyanın
-tamamı, karşı taraftan gelen iki tanıklığa ve bir giriş kapısına
-dayanmaktadır ve bu, konusuna göre en zayıf kaynak bileşimidir.
+Bu bir tercih değil bir kaynak kısıtıdır ve kapatılması gerekir; dosyanın tamamı, karşı
+taraftan gelen iki tanıklığa ve bir giriş kapısına dayanmaktadır ve bu, konusuna göre en
+zayıf kaynak bileşimidir.
 
 ## Okumayı sürdürmek için
 Kuzeydeki imparatorluk için [İnka İmparatorluğu](/aktor/inka-imparatorlugu/),
 sonradan gelen güç için
 [İspanyol İmparatorluğu](/aktor/ispanyol-imparatorlugu/) dosyaları
 okunmalıdır.[^k1]
-
-Merkezî zor aygıtı olmadan işleyen bir başka siyasi birlik için
-[Haudenosaunee Konfederasyonu](/aktor/haudenosaunee/) dosyası uygundur;
-iki dosya birlikte okunduğunda korpusun aktör kategorisinin sınırı
-görünür.[^k3]
 
 Sürecin nasıl adlandırılacağı için
 [Keşif mi istila mı](/tartisma/kesif-mi-istila-mi/), yetkinin neye
@@ -308,3 +288,35 @@ okunabilir.[^k2]
 Kanıt türlerinin hangi soruya cevap verdiği için
 [Kanıt türü](/kavram/kanit-turu/) ve
 [Sözlü tarih](/kavram/sozlu-tarih/) dosyaları okunmalıdır.[^k1]
+
+## Merkezsiz örgütlenme ile uzun direnç
+
+Mapuche toplulukları tek bir kalıcı başkent veya hanedan altında birleşmeden,
+yerel önderlik ve savaş zamanında daha geniş koordinasyon kurabildi.[^k1] Bu
+esneklik, İspanyolların bir hükümdarı yenip bütün alanı devralmasını zorlaştırdı.
+Yerel karar gücü korunurken ortak tehdit karşısında insan, bilgi ve savaşçı
+hareketi birleştirilebildi.
+
+At, metal ve başka sömürge araçlarının benimsenmesi kültürel teslimiyet değildi;
+rakibin teknolojisini yerel stratejiye uyarlama kapasitesiydi. Sınır ticareti,
+akın, esir değişimi ve diplomasi savaşla yan yana sürdü. Antlaşma görüşmeleri
+Mapuche temsilcilerini siyasal taraf olarak tanıdı; fakat her yerel topluluğun
+aynı kararı kabul ettiği veya tarafların egemenliği aynı anlamda kullandığı
+varsayılmamalıdır.[^k1][^k3]
+
+*La Araucana* direnişi destansı bir dille Avrupa okuruna taşır; edebî kurgu,
+kahramanlık ve sömürge bakışı tarihsel tanıklıkla iç içedir.[^k2] Sözlü hafıza ve
+yerli adlandırmalar, dış metnin sessiz bıraktığı siyasal dünyayı tamamlar.
+19. yüzyıldaki Şili ve Arjantin genişlemesi, üç yüzyıllık özerkliği “kaçınılmaz
+ulusal birleşme” diye değil, yeni askerî ve yerleşimci kapasitenin zorla kurduğu
+egemenlik değişimi olarak okumayı gerektirir.
+
+Direnişin süresi yalnız askerî başarıyla değil, üretim, akrabalık ve coğrafi
+bilginin yeni baskılara uyarlanabilmesiyle açıklanır. Özerklik, gündelik hayatın
+bu maddi temeli korunabildiği sürece yeniden üretildi.
+
+Toprağın kaybı bu yüzden yalnız ekonomik değil, siyasal örgütlenme kaybıdır.[^k1]
+
+Direnişin coğrafyası bu bağ üzerinden anlaşılır.
+
+Bu bağ kuşaklar boyunca yeniden kuruldu.

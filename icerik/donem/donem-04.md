@@ -197,8 +197,8 @@ yıllardır.
 Sınırlar geniştir ve tartışmalıdır.[^k4] Kavramın kendisi de
 tartışmalıdır.
 
-Bu inceleme kavramı kullanır ama
-doğruluğunu varsaymaz.[^k1]
+“Eksen Çağı” burada bir dönemlendirme aracı olarak kullanılır; kavramın tarihsel
+birliği kanıtlanmış kabul edilmez.[^k1]
 
 ## Kavramın kendisi
 
@@ -379,8 +379,7 @@ askerî ve idari amaçlıydı.
 Aynı ağlar ticareti de taşıdı.[^k5] Askerî amaçla kurulan altyapı sivil
 kullanıma açıldı.
 
-Bu, korpusun birçok dosyasında
-tekrarlanan bir örüntüdür.[^k1]
+Aynı örüntü farklı dönem ve bölgelerde de görülür.[^k1]
 
 ## Uzun mesafeli ticaret
 
@@ -410,11 +409,10 @@ birbirini besleyen iki süreçtir.[^k1]
 Dönemin sonuna doğru büyük salgınlar kaydedilmiştir.[^k3] Salgınlar,
 yeni kurulan uzun mesafeli bağlantıları izledi.
 
-Bu, korpusta tekrar eden bir ölçümün erken örneğidir.[^k2] Bağlantının
-artması, taşınan her şeyin hızını artırır.
+Bu, uzun mesafeli bağlantıların salgın üzerindeki etkisinin erken bir
+örneğidir.[^k2] Bağlantının artması, taşınan her şeyin hızını artırır.
 
-Aynı mekanizma, korpusun sonraki dönem
-dosyalarında da kayıtlıdır.[^k5]
+Aynı mekanizma sonraki dönemlerde daha geniş ağlar üzerinde yeniden görülür.[^k5]
 
 ## Kaydın durumu
 
@@ -456,8 +454,8 @@ Dosya, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
 dosyasında ayrıntılı ele alınır ve burada yalnızca döneme
 bağlanır.
 
-Kavramın kendisi burada karara bağlanmaz.[^k4] Korpusun ayrı bir
-tartışma dosyası bu soruyu ele alır.
+Kavramın kendisi burada karara bağlanmaz; benzerlik ve anakronizm itirazları ayrı
+tartışmada karşılaştırılır.[^k4]
 
 Sayısal seriler burada yorumlanır, üretilmez.[^k2] Serilerin
 kaynakları ve yöntemleri bağlantılı veri incelemelerinde ayrı ayrı
@@ -684,6 +682,31 @@ açılma amacı ile en çok kullanıldığı amaç aynı olmak zorunda değildir
 devletin diplomasi için açtığı yol, tüccarın elinde bir ticaret damarına
 dönüşebilir ve zamanla adını da bu ikinci işlevinden alabilir.
 
+## Fikirler ile imparatorlukların ortak zemini
+
+Bu yüzyıllarda büyük düşünce gelenekleri ile geniş imparatorlukların yan yana
+görünmesi tesadüf diye geçiştirilemez; yine de aralarında basit bir neden-sonuç bağı
+kurulamaz. Kentlerin, yazılı kanonların ve eğitimli uzman grupların büyümesi, ahlak ve
+siyasal düzen üzerine tartışmaların korunabileceği kurumlar yarattı. İmparatorluklar
+ise farklı halkları ortak hukuk, vergi, yol ve ölçü düzenlerine bağlarken meşruiyetin
+hangi ilkeye dayanacağı sorusunu keskinleştirdi. Konfüçyüs'e atfedilen öğretinin
+sonraki öğrencilerce derlenmesi ve Aşoka'nın buyruklarını geniş bir coğrafyaya yazıtla
+duyurması, düşüncenin dolaşımı ile siyasal ölçeğin iki farklı biçimini gösterir.[^k5][^k6]
+
+*Eksen Çağı* kavramı bu eşzamanlılığı görünür kılar, fakat Çin, Güney Asya, İran ve
+Akdeniz'deki gelişmeleri tek bir öz altında eritme riski taşır.[^k1][^k4] Aynı
+yüzyıllarda ortaya çıkmak, aynı soruya aynı cevabın verildiği anlamına gelmez.
+Thukydides'in savaş, çıkar ve karar üzerine anlatısı ile Aşoka yazıtlarının ahlaki
+hükümdarlık dili farklı kurumlara ve amaçlara dayanır.[^k3][^k6] Bu dönemi bir “büyük
+fikirler galerisi” olarak değil, yazı, kent, savaş ve yönetim ölçeğinin düşünceyi hem
+mümkün kıldığı hem de sınırlandırdığı bir karşılaşmalar alanı olarak okumak daha
+açıklayıcıdır.
+
+İmparatorlukların nüfus ve kaynakları büyütmesi, ortak deneyimi de garanti etmedi:
+merkez, sınır ve taşra aynı düzeni farklı biçimlerde yaşadı. Felsefi metinler ile
+devlet yazıtlarını aynı kanıt türü saymamak, benzerliğin yanında bu eşitsiz konumları
+da korur.[^k3][^k6]
+
 ## Fikir dünyası
 
 Jaspers, Eksen Çağı'nın bir disiplin olarak felsefeyi doğurduğunu savundu.[^k1]
@@ -699,7 +722,7 @@ figürlerin dışarıda bırakılması.[^k1] Buna karşılık, insanlık kültü
 böyle bir geçiş olduğu ve bu dönemin Eksen Çağı diye adlandırılabileceği görüşünün
 evrensel olmasa da yaygın biçimde kabul gördüğü belirtilir.[^k1]
 
-::tartismali[Eksen Çağı'nın gerçek bir tarihsel olgu mu yoksa sonradan kurulmuş bir çerçeve mi olduğu açık bir tartışmadır; bu inceleme taraf tutmaz.]{harita=tartisma-eksen-cagi-gercek-mi}
+::tartismali[Eksen Çağı'nın gerçek bir tarihsel olgu mu yoksa sonradan kurulmuş bir çerçeve mi olduğu açık bir tartışmadır; mesele burada karara bağlanmaz.]{harita=tartisma-eksen-cagi-gercek-mi}
 
 Dönemin sonunda kurulan evrensellik iddialı düşünsel çerçeveler,[^k1] sonraki
 dönemin din temelli imparatorluk düzenlerinin zeminini oluşturacaktır; o dönem

@@ -69,7 +69,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak, tarih bölümünü bölgelere ve geleneklere göre ayırır: antikçağ, Avrupa
 (Yunanistan, Roma, İncil), Doğu Asya (Çin), Ortaçağ'dan Rönesans'a
 (Hıristiyan âlemi, İslam dünyası, Yahudi), yeniden Doğu Asya (Japonya, Kore,
@@ -77,10 +76,6 @@ Kaynak, tarih bölümünü bölgelere ve geleneklere göre ayırır: antikçağ,
 Gibbon) ve 19. yüzyıl.[^k1]
 
 ## Doğu Asya iki kez ayrı başlıktır
-
-Aynı bölgenin iki ayrı dönem başlığı altında yeniden geçmesi,[^k1] korpusun şu
-kuralının dayanağıdır: bu korpusta tarih yazımı gelenekleri, tek bir çizgi olarak
-değil dönem dönem ayrı ayrı anılır.
 
 ## Terminoloji ilk bölümdür
 
@@ -103,7 +98,6 @@ Yunan geleneğinden bir yazar için tutulan bir başka madde, onu MÖ yaklaşık
 484-425 arasına yerleştirir ve Halikarnassos'ta doğduğunu yazar.[^k3] O yazar
 [Herodotos](/dusunur/herodotos/) dosyasında, yöntem tartışmasının yirminci
 yüzyıldaki hâli ise [E. H. Carr](/dusunur/carr/) dosyasında ele alınıyor.
-
 
 ## Yöntemin bildirilmesi
 
@@ -140,9 +134,6 @@ Bölümleme, hangi olayın dönüm noktası sayıldığını
 gösterir.[^k2] Farklı bölümlemeler farklı nedensellikler
 kurar.
 
-Bir korpusun dönem sınırları,
-anlattığı içerik kadar kendi konumunun da kaydıdır.[^k3]
-
 ## Kimin tarihi
 
 Dördüncü soru kapsamdır.[^k1] Bir tarih metni kimi anlatıyor: hanedanı
@@ -156,7 +147,6 @@ yazılır.
 Bir metnin kimi anlattığı, hangi
 kaynakların kullanıldığından geriye doğru okunabilir.[^k3]
 
-
 ## Sayıların yeri
 
 Beşinci soru sayılardır.[^k1] Bir tarih metni sayı veriyorsa, o sayının
@@ -166,9 +156,6 @@ mi.
 Yöntemi belirtilmemiş bir sayı, bir izlenimin sayıya
 çevrilmiş hâli olabilir.[^k2] Dönemin anlatı geleneğinde büyük sayılar
 çokluğu belirtir.
-
-Sayı, yöntemiyle birlikte verilmediğinde korpusta veri
-sayılmaz.[^k3]
 
 ## Anlatının kapanışı
 
@@ -181,7 +168,6 @@ belirler.
 
 Bir dönemin sonunu bilerek yazmak
 kaçınılmazdır; o sonu kaçınılmaz göstermek kaçınılabilir.[^k3]
-
 
 ## Karşı tarafın kaydı
 
@@ -209,7 +195,6 @@ gelir.
 Bir topluluğun yalnızca dışarıdan
 kaydedilmiş olması, o topluluğun kendi kaydını tutmadığını göstermez.[^k3]
 
-
 ## Sonradan yazılan tarih
 
 Sekizinci soru zamanlamadır.[^k1] Bir metin olaydan ne kadar sonra
@@ -221,6 +206,15 @@ işler.
 
 Bir metnin yazılış tarihi,
 anlattığı olayın tarihinden ayrı bir veridir.[^k3]
+
+## Değişen yorum neyi gösterir?
+
+Tarih yazımındaki değişim yalnız yeni belgelerin bulunmasından doğmaz. Sorulan
+sorular, incelenen toplumsal gruplar, coğrafi ölçek ve nedensellik anlayışı da
+değişebilir.[^k1] Eski bir yorumun terk edilmesi önceki tarihçilerin bilgisiz olduğu
+anlamına gelmez; eriştikleri arşiv ve kurdukları problem farklı olabilir. Bir ekolü
+değerlendirirken yalnız sonucunu değil, hangi kanıtı neden merkezi saydığını ve hangi
+sesleri dışarıda bıraktığını incelemek gerekir.[^k2]
 
 ## Kanıtın ve kapsamın sınırı
 Gelenek gelenek ayrıntılar, yöntem tartışmaları ve 20. yüzyıl okulları burada

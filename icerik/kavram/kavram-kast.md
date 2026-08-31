@@ -51,12 +51,9 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Üç terim, tek bir kavram değil
 
-Bu alanda üç ayrı terim kullanılır ve korpus bunları birbirinin
-çevirisi saymaz.[^k1] Birincisi, klasik metinlerdeki dört bölümlü
-şemadır.
+Birincisi, klasik metinlerdeki dört bölümlü şemadır.
 
 İkincisi, gündelik hayatta işleyen birimdir.[^k1] Bunlar yerel,
 meslekle bağlantılı ve içine kapalı evlilik düzenine sahip binlerce
@@ -171,10 +168,15 @@ anlaşmazlık burada kaydedilmiştir, çözülmemiştir.
 Diğer bölgelerdeki benzer yapılarla karşılaştırma yapılmaz.[^k3] Bu,
 ayrı bir çalışma gerektirir.
 
-Klasik metinlerden doğrulanabilir bir birincil künye
-verilmemiştir.[^k2] Bu inceleme, şema metinlerini değil şemanın
-kayıtlanma biçimini konu aldığı için künyedeki birincil belge bir
-sayım raporudur; kısıt burada beyan edilir.
+Klasik metinlerden doğrulanabilir bir birincil künye verilmemiştir.[^k2]
+
+## Metinsel düzen ile yaşanan düzen
+
+Kastı tek bir kutsal metindeki sınıflandırmayla açıklamak, bölge, meslek ve tarih
+boyunca değişen toplumsal ilişkileri görünmez kılar.[^k1] Varna şeması ile yerel jati
+grupları aynı ölçek değildir; evlilik, yemek, iş ve siyasal güç üzerindeki sınırlar
+ayrı ayrı incelenmelidir. Sömürge sayımları da mevcut kategorileri yalnız kaydetmedi,
+bazı ayrımları sabitleyip yönetim aracına dönüştürdü.[^k2]
 
 ## Okumayı sürdürmek için
 Düzeni bütünüyle kaldırmayı savunan isim için

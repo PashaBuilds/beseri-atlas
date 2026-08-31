@@ -56,21 +56,17 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Nerede durduğu
 
-İbn Battûta, Kuzey Afrika'dan yola çıkıp uzun yıllar süren yolculuklar yapmış
-ve dönüşünde gezdiklerini bir metin hâlinde bıraktırmıştır.[^k1][^k3] Korpusun
-bölge şemasında dört ayrı etiket taşır; gezdiği alan, korpusun bölge kümelerinin
-çoğunu keser.
+İbn Battûta, Kuzey Afrika'dan yola çıkıp uzun yıllar süren yolculuklar yapmış ve
+dönüşünde gezdiklerini bir metin hâlinde bıraktırmıştır.[^k1][^k3]
 
 Bu, düşünür dosyaları arasında olağandışı bir durumdur. Çoğu düşünür bir ya da
 iki bölge etiketi taşır; burada etiketlerin çokluğu, kişinin kendisinden çok
 bıraktığı metnin kapsamından gelir.[^k2]
 
-Korpusun onu düşünür katmanında tutmasının sebebi bir kuram üretmiş olması
-değildir. Bıraktığı metin, gezdiği bölgelerin bir kısmı için elimizdeki en
-ayrıntılı çağdaş kayıttır ve bu metin üzerinden okunur.[^k1][^k2]
+Bıraktığı metin, gezdiği bölgelerin bir kısmı için elimizdeki en ayrıntılı çağdaş
+kayıttır ve bu metin üzerinden okunur.[^k1][^k2]
 
 ## Metnin nasıl ortaya çıktığı
 
@@ -98,14 +94,13 @@ gezginin anlattığı yere gitmemiş olması, o yer hakkında verdiği bilgiyi
 otomatik olarak yanlış yapmaz; yalnızca bilginin kaynağını değiştirir —
 gözlem değil aktarım olur.
 
-Korpus bu ayrımı korumak zorundadır. Metinden alınan her iddia, o bölümün
-gözleme mi aktarıma mı dayandığı sorusuyla birlikte taşınmalıdır.[^k2]
+Metinden alınan her iddia, o bölümün gözleme mi aktarıma mı dayandığı sorusuyla birlikte
+taşınmalıdır.[^k2]
 
-**Tartışmalı.** Metnin hangi bölümlerinin doğrudan gözleme dayandığı, hangilerinin daha önceki
-kaynaklardan alındığı uzun süredir tartışılır. Bazı araştırmacılar belirli
-güzergâhların uydurma olduğunu savunur; bazıları ise dönemin yazım
-geleneklerinde başkasından aktarmanın olağan sayıldığını hatırlatır. Korpus bu
-tartışmada taraf tutmaz ve metni bu çekince ile kullanır.[^k1][^k3]
+**Tartışmalı. ** Metnin hangi bölümlerinin doğrudan gözleme dayandığı, hangilerinin daha
+önceki kaynaklardan alındığı uzun süredir tartışılır. Bazı araştırmacılar belirli
+güzergâhların uydurma olduğunu savunur; bazıları ise dönemin yazım geleneklerinde
+başkasından aktarmanın olağan sayıldığını hatırlatır.
 
 ## Kaydın gezdiği alanla ilişkisi
 
@@ -122,29 +117,24 @@ Bu, kaydın bir seçicilik taşıdığı anlamına gelir. Metin, gezilen dünyan
 tamamını değil, o dünyanın kurumlarla bağlantılı kesitini gösterir;[^k2]
 kırsal ve ağ dışı alanlar bu kayıtta seyrek görünür.
 
-Korpus bu seçiciliği bir kusur olarak değil, kaydın niteliği olarak
-işaretler. Her kaynak bir bakış açısından yazılır; sorun bakış açısının
-varlığı değil, künyede belirtilmemesidir.
+Her kaynak bir bakış açısından yazılır; sorun bakış açısının varlığı değil, künyede
+belirtilmemesidir.
 
-Bu ilkenin pratik sonucu şudur: metinde geçmeyen bir yerleşim hakkında
-kaynağın sessiz kaldığını söylemek ile orada bir şey bulunmadığını söylemek
-aynı şey değildir. Sessizlik, kaydın kapsamının sınırını gösterir;
-gerçekliğin sınırını değil.[^k2] Korpus bu iki cümleyi birbirinin yerine
-kullanmaz ve ikincisini hiç kurmaz.
+Bu ilkenin pratik sonucu şudur: metinde geçmeyen bir yerleşim hakkında kaynağın sessiz
+kaldığını söylemek ile orada bir şey bulunmadığını söylemek aynı şey değildir.
+Sessizlik, kaydın kapsamının sınırını gösterir; gerçekliğin sınırını değil.[^k2]
 
 ## Batı Afrika kaydı
 
-Metnin Batı Afrika bölümü, korpusun Afrika kapsamı açısından ayrı bir ağırlık
-taşır.[^k2] O bölge hakkında dönemin içinden yazılmış kayıtlar seyrektir ve bu
-metin onlardan biridir.
+O bölge hakkında dönemin içinden yazılmış kayıtlar seyrektir ve bu metin onlardan
+biridir.
 
 Kaydın seyrekliği, ona duyulan ihtiyacı artırır ve aynı anda riskini de
 büyütür.[^k2] Tek bir kaynağa dayanan bir bölge anlatısı, o kaynağın
 eğilimlerini de devralır; karşılaştırma imkânı olmadığında hata düzeltilemez.
 
-Korpusun [Mali İmparatorluğu](/aktor/mali-imparatorlugu/) dosyası aynı bölgeyi
-siyasi birim olarak ele alır. İki dosyanın birlikte okunması, bir bölge
-hakkında bildiklerimizin ne kadarının tek bir metinden geldiğini görünür kılar.
+İki dosyanın birlikte okunması, bir bölge hakkında bildiklerimizin ne kadarının tek bir
+metinden geldiğini görünür kılar.
 
 ## İbn Haldûn ile aynı yüzyıl
 
@@ -152,12 +142,9 @@ hakkında bildiklerimizin ne kadarının tek bir metinden geldiğini görünür 
 farklı bilgi üretme biçiminin yan yana durduğunu gösterir.[^k1] Biri
 gezerek kaydeder, öteki kaydedilmiş olanı çözümler.
 
-İki yaklaşımın aynı dönemde bulunması, korpusun düşünür katmanını neden tek bir
-ölçütle kurmadığının gerekçesidir. Bir metin bırakmak ile bir kuram kurmak
-farklı katkılardır; ikisi de kayda geçer.
+Bir metin bırakmak ile bir kuram kurmak farklı katkılardır; ikisi de kayda geçer.
 
-Bu karşılaştırma, korpusun bağ yapısının işleyişine de örnektir. İki dosya
-birbirine bağlandığında, ayrı ayrı okunduklarında görünmeyen bir soru ortaya
+İki dosya birbirine bağlandığında, ayrı ayrı okunduklarında görünmeyen bir soru ortaya
 çıkar: bir yüzyıl, hangi tür bilgiyi üretmeye yatkındır?
 
 ## Ticaret ağları ve hareketlilik
@@ -167,10 +154,6 @@ Bir kişinin bu kadar geniş bir alanda hareket edebilmesi, o alanın ortak
 kurumlarla bağlandığını gösterir: ortak hukuk dili, konaklama düzeni ve
 tanınma mekanizmaları.
 
-Korpusun [Ticaret diasporası](/kavram/ticaret-diasporasi/) dosyası bu ağların
-kavramsal karşılığını verir. Bu inceleme, kavramın tek bir kişinin güzergâhında
-nasıl göründüğünü gösterir.
-
 Hareketliliğin kendisi de bir kayıt sorunudur. Gezginin gittiği yerlerde
 karşılandığı ve görevlendirildiği anlatılır;[^k1] bu, metnin anlattığı dünyanın
 yalnızca belirli bir kesitini — kurumlarla bağlantılı olanı — görebildiği
@@ -178,27 +161,19 @@ anlamına gelir.
 
 ## Kaynak durumu
 
-Bu inceleme üç kaynağa dayanır: kişi üzerine bir ansiklopedi maddesi,[^k1] metnin
-birinci cildinin tam metni[^k2] ve bir giriş kapısı maddesi.[^k3] Üçü üç ayrı
-alan adındadır.
+Üçü üç ayrı alan adındadır.
 
-Künyede bir giriş kapısı kaynağının bulunması, korpusun son dönemde yazılan
-makalelerinden farklıdır ve gerekçesi belirtilmelidir. Metnin diğer ciltleri
-için bulunan arşiv kayıtlarının katalog künyelerinde yazar alanı boştu;
-yalnızca başlık eşleşiyordu.[^k2]
+Metnin diğer ciltleri için bulunan arşiv kayıtlarının katalog künyelerinde yazar alanı
+boştu; yalnızca başlık eşleşiyordu.[^k2]
 
-Başlık eşleşmesinin tek başına yeterli sayılmaması, bu korpusta daha önce
-somut bir hataya yol açtığı için benimsenmiş bir kuraldır. Bu yüzden
-doğrulanmamış künyeli ciltler reddedilmiş, üçüncü kaynak olarak havuzun
-makale başına bir taneye izin verdiği giriş kapısı kullanılmıştır.[^k3]
+Bu yüzden doğrulanmamış künyeli ciltler reddedilmiş, üçüncü kaynak olarak havuzun makale
+başına bir taneye izin verdiği giriş kapısı kullanılmıştır.[^k3]
 
 Bu tercih, kaynak sayısını korumak için kaliteden ödün vermek değildir;
 tersine, doğrulanamayan bir künyeyi birincil kaynak diye göstermekten
 kaçınmaktır. Hangi kaynağın ne olduğu künyede açıkça yazılıdır.
 
-Dosyanın kapsamadıkları belirtilmelidir. Güzergâhın Hindistan, Maldivler ve
-Çin bölümleri burada işlenmez; her biri ayrı dosyalar gerektirir ve bu inceleme
-yazıldığında korpusta bulunmuyorlardı.[^k1]
+Dosyanın kapsamadıkları belirtilmelidir.
 
 ## Metnin bugüne ulaşma biçimi
 
@@ -206,34 +181,69 @@ Metnin elimize ulaşan hâli, doğrudan yazarın kaleminden çıkmış bir nüsh
 değildir.[^k1][^k3] Yazma nüshalar arasındaki farklar ve sonraki
 istinsahların katkıları, metnin tek ve sabit bir nesne olmadığını gösterir.
 
-Bu, bu incelemenin bağlandığı çevirinin de bir seçim taşıdığı anlamına gelir.
-Çevirmen belirli nüshaları esas alır ve o seçim metnin kapsamını
-belirler.[^k2] Esere yapılacak atıflarda çevirinin ve cildin belirtilmesi bu
-yüzden zorunludur.
+Çevirmen belirli nüshaları esas alır ve o seçim metnin kapsamını belirler.[^k2] Esere
+yapılacak atıflarda çevirinin ve cildin belirtilmesi bu yüzden zorunludur.
 
-Korpusun kaynak künyelerinde bu ayrımı gösterecek ayrı bir alan yoktur. Künye
-bir kaydın birincil olduğunu söyler; hangi nüshadan hangi çeviriyle geldiğini
-söylemez. Bu boşluk, ilgili dosyalarda nota elle yazılarak doldurulur ve
-şemanın kapatmadığı bir eksikliktir.
+Künye bir kaydın birincil olduğunu söyler; hangi nüshadan hangi çeviriyle geldiğini
+söylemez. Bu boşluk, ilgili dosyalarda nota elle yazılarak doldurulur ve şemanın
+kapatmadığı bir eksikliktir.
 
-## Neden bu inceleme bu korpusta
+Dosyanın seçilme gerekçesi yalnızca coğrafi değildir.
 
-Bu inceleme o farkı kapatmaz; kapatmaya
-yönelik bir adımdır ve tek başına yeterli değildir.[^k1]
+Bir kaydın döneme ait olması onu değerli kılar; değerli olması onu doğru kılmaz.
 
-Dosyanın seçilme gerekçesi yalnızca coğrafi değildir. Metin, korpusun kaynak
-kuralının hem en iyi hem en zor örneğini birlikte sunar: bir bölge hakkında
-dönemin içinden yazılmış ender bir kayıt, aynı zamanda güvenilirliği
-tartışmalı bir metindir.[^k1][^k3]
+Kaynağın seyrek olduğu her yerde, eldeki tek kaydın ağırlığı artar ve onunla birlikte o
+kaydın eğilimlerinin taşınma riski de artar.[^k2]
 
-Bu ikilik, korpusun birincil kaynak arayışının neden tek başına yeterli
-olmadığını gösterir. Bir kaydın döneme ait olması onu değerli kılar;
-değerli olması onu doğru kılmaz. İki nitelik ayrı ayrı değerlendirilir ve
-bu inceleme ikisini de künyeye yazar.
+## Gördüğü, duyduğu ve edebî olarak kurduğu
 
-Aynı ikilik, korpusun başka bölgelerinde de karşımıza çıkacaktır. Kaynağın
-seyrek olduğu her yerde, eldeki tek kaydın ağırlığı artar ve onunla birlikte
-o kaydın eğilimlerinin taşınma riski de artar.[^k2]
+Seyahatnamedeki bütün cümleler aynı kanıt değerine sahip değildir. İbn Battûta
+bazen bulunduğu yeri, görüştüğü kişiyi ve üstlendiği görevi ayrıntısıyla verir;
+bazen de kendisinden önceki coğrafya ve seyahat anlatılarında dolaşan bir
+bilgiyi aktarır.[^k1][^k2] İlk tür doğrudan gözleme yaklaşır, ikinci tür dönemin
+haber ağını gösterir. Metin iki türü her zaman açık bir işaretle ayırmadığı için
+okur güzergâh, tarih ve yerel kayıtlarla karşılaştırma yapmak zorundadır.
+
+Özellikle Çin'e kadar gittiği yolculuğun bazı bölümleri tartışmalıdır.[^k1]
+Anlatının gerçekçi ayrıntılar taşıması tek başına kişisel tanıklığı kanıtlamaz;
+bu ayrıntılar tüccarlardan, elçilerden veya önceki metinlerden de edinilmiş
+olabilir. Tersine, bir tarihin güzergâhla uyuşmaması bütün seyahati kurmaca
+yapmaz. İddialar yolculuklar hâlinde değil, bölüm ve cümle düzeyinde
+değerlendirilmelidir.
+
+## Hareketi mümkün kılan ortak dünya
+
+Gezginin yolculuğu yalnız olağanüstü kişisel dayanıklılığın sonucu değildir.
+Hac yolları, kervanlar, limanlar, vakıflar ve Müslüman hukukçuların tanındığı
+saray ağları hareketin altyapısını kurdu.[^k1] Tanca'da yetişmiş bir hukukçu,
+Delhi'de kadı olarak görevlendirilebildi; Maldivler'de benzer bir mesleki
+yetkiyle kabul görebildi. Ortak yazı ve hukuk dili, siyasi sınırlar değişse de
+taşınabilir bir uzmanlık sağladı.
+
+Bu imkân gördüğü dünyanın sınırını da belirledi. Konakladığı çevreler çoğu kez
+hükümdar, din adamı, tüccar ve kent seçkinleriydi.[^k2] Kırsal üretici,
+köleleştirilmiş kişi ya da saray dışındaki kadınlar, gezgin onlarla doğrudan
+ilişki kurmadıkça daha az görünür. Seyahatnamenin geniş coğrafyası toplumun
+bütün katmanlarını eşit ölçüde kapsayan bir örneklem değildir.
+
+## Şaşkınlık bir gözlem verisidir
+
+İbn Battûta, alışık olduğu hukuk ve davranış ölçülerinden ayrılan uygulamaları
+özellikle kaydeder.[^k2] Batı Afrika'da kadınlarla erkeklerin toplumsal
+ilişkileri, Maldivler'deki giyim ve saray gelenekleri ya da farklı hükümdarların
+hediye düzenleri anlatıda bu nedenle geniş yer bulur. Betimleme, gözlenen
+toplum kadar gözlemcinin beklentisini de açığa çıkarır.
+
+Şaşkınlıkla yazılan bir bölüm yerel uygulamanın tarafsız fotoğrafı değildir.
+Gezginin mezhebi, sınıfsal konumu ve erkek seçkin olarak erişebildiği ortam
+hangi ayrıntıyı olağan dışı sayacağını belirler.[^k1] Yine de bu öznel katman
+atılacak bir gürültü değildir: on dördüncü yüzyılın birbirine bağlı bölgelerinde
+hangi farkların seyahat eden bir hukukçu için dikkat çekici olduğunu gösteren
+tarihsel veridir.
+
+Bu nedenle sağlam okuma, betimlenen uygulamayı başka yerel kanıtlarla sınarken
+betimleyenin şaşkınlığını da ayrı bir tarihsel olgu olarak korur; biri
+doğrulanırken öteki metinden silinmemelidir.
 
 ## Okumayı sürdürmek için
 Aynı yüzyılın çözümleyici tarafı için [İbn Haldûn](/dusunur/ibn-haldun/),
@@ -248,15 +258,12 @@ dosyası uygundur.
 Metnin kendisine yapılacak atıflarda cilt ve bölüm numarası belirtilmeli,
 o bölümün gözleme mi aktarıma mı dayandığı ayrıca not edilmelidir.[^k2]
 
-Kaydın nasıl okunacağı konusunda son bir uyarı gereklidir. Bu inceleme metnin ne
-anlattığını özetlemez; metnin ne tür bir kayıt olduğunu ve hangi çekincelerle
-kullanılması gerektiğini anlatır.[^k1][^k3] Anlattıklarının içeriği için
+Kaydın nasıl okunacağı konusunda son bir uyarı gereklidir. Anlattıklarının içeriği için
 metnin kendisine inilmelidir.
 
-Bu tercih korpusun genel tutumudur ama bu incelemede özellikle önemlidir. Bir
-seyahatnamenin özeti, hangi bölümün gözleme hangisinin aktarıma dayandığı
-ayrımını kaçınılmaz olarak siler; oysa bu metinde ayrımın kendisi, anlatılan
-içerikten daha belirleyicidir.[^k2]
+Bir seyahatnamenin özeti, hangi bölümün gözleme hangisinin aktarıma dayandığı ayrımını
+kaçınılmaz olarak siler; oysa bu metinde ayrımın kendisi, anlatılan içerikten daha
+belirleyicidir.[^k2]
 
 Aynı sebeple, bu incelemedeki hiçbir cümle metnin bir bölümünü doğrulanmış olgu
 olarak sunmaz. Dosya, metnin varlığını ve niteliğini kaydeder; içindeki

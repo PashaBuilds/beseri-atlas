@@ -59,7 +59,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Kutadgu Bilig, iyi yönetimin neye dayandığını tartışan bir siyaset
@@ -89,9 +88,7 @@ okunmalıdır;[^k2] iki metnin biçim tercihi aynı değildir.
 
 ## Metnin durumu
 
-Metin tek bir nüshadan gelmez ve nüshalar arasında farklar
-bulunur.[^k2][^k3] Bu, korpusun elyazması kaynaklarında olağan bir durumdur
-ve künyede ayrıca gösterilmez.
+Metin tek bir nüshadan gelmez ve nüshalar arasında farklar bulunur.[^k2][^k3]
 
 Kullanılan kaynak, Uygur harfli metni ve çevirisini birlikte
 sunar.[^k1] Bu imkân bu metin için özellikle değerlidir: temel terimlerin
@@ -106,18 +103,12 @@ karşılaştırmasından okunmalıdır.[^k1][^k2]
 Yazar hakkında bilinenlerin neredeyse tamamı metnin kendi içinden
 gelir.[^k3] Dışarıdan gelen bağımsız kayıt yok denecek kadar azdır.
 
-Bu durum korpusun genel bir kuralını gerektirir. Bir kişi hakkındaki bilginin
-kaynağı yalnızca o kişinin eseriyse, kişi dosyası ile eser dosyası birbirinin
-yerine geçemez;[^k3] eserin söylediği, yazarın hayatının kanıtı sayılamaz.
+Bir kişi hakkındaki bilginin kaynağı yalnızca o kişinin eseriyse, kişi dosyası ile eser
+dosyası birbirinin yerine geçemez;[^k3] eserin söylediği, yazarın hayatının kanıtı
+sayılamaz.
 
 Yazar için ayrı bir dosya açılması,
 bağımsız bir kaydın bulunmasına bağlıdır.[^k1][^k2]
-
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun Orta Asya kaynak katmanındaki ikinci metindir ve birincisiyle
-birlikte okunmak üzere yazılmıştır.[^k1] Önceki dosya bir devletin kendini
-nasıl anlattığını, bu inceleme ise aynı bölgede yönetimin nasıl tartışıldığını
-gösterir.
 
 İki metin arasında yüzyıllar ve bir din değişimi vardır.[^k2] Buna rağmen
 ikisi de aynı soruyu sorar: yönetimin dayanağı nedir ve kaybedildiğinde ne
@@ -128,12 +119,10 @@ karşılaştırmanın okurun elinde kalmasını sağlar; sonuç yazılmaz.[^k3]
 
 ## Kapsam dışı
 
-Bu inceleme metnin ne olduğunu ve nasıl kurulduğunu kaydeder; bölüm bölüm
-içeriğini vermez.[^k1] Metnin kendisi kaynakta erişilebilir durumdadır.
+Metnin kendisi kaynakta erişilebilir durumdadır.
 
 Metnin dil özellikleri, nüsha tarihi ve sonraki edebî etkisi de burada
-işlenmez.[^k2][^k3] Her biri ayrı dosya gerektirir ve bu inceleme yazıldığında
-korpusta bulunmuyorlardı.
+işlenmez.[^k2][^k3]
 
 ## Okumayı sürdürmek için
 Metnin yazıldığı siyasi çevre için [Karahanlılar](/aktor/karahanlilar/),

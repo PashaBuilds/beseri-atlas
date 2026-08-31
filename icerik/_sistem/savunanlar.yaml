@@ -246,15 +246,6 @@ adlar:
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Fischer_thesis
     gectigi: [tartisma-1914-savas-sorumlulugu]
-  - ad: "Immanuel Wallerstein"
-    durum: tartismada-dogrulandi
-    dogrulama_kaynagi: https://en.wikipedia.org/wiki/World-systems_theory
-    gectigi: []
-    not: >-
-      2026-08-29: tartisma-bati-neden-yukseldi onarildiginda dunya-sistemleri
-      cizgisi yerine Frank'in Asya-oncelikli pozisyonu ve Kaliforniya Okulu
-      adlandirildi; ad su an hicbir dosyada kullanilmiyor. Kayit siliNMEDI
-      cunku dogrulama emegi tasiyor ve yeniden kullanilabilir.
   - ad: "İktisadi bozulma açıklaması"
     durum: kisi-degil
     gectigi: [tartisma-tunc-cagi-cokusunun-nedeni]

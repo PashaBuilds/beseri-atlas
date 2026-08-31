@@ -60,7 +60,6 @@ son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak eseri *Vom Kriege* adıyla künyeler ve yazarın en dikkate değer eseri
@@ -74,11 +73,6 @@ yayımladığını ve giriş bölümünü yazdığını kaydeder; yazarın metin
 1816'da çalışmaya başladığı ama tamamlamadığı belirtilir.[^k1] Dul eşinin ayrıca
 eserin önsözünü yazdığı ve 1835'e kadar toplu eserlerinin çoğunu yayımladığı
 yazılır.[^k1]
-
-Bir eserin bugünkü biçiminin yazarından sonra bir başkasının düzenleme
-kararlarıyla oluşması,[^k1] korpusun şu kuralının dayanağıdır: bu incelemede esere
-atfedilen hiçbir önerme, hangi düzenlemeye ait olduğu belirtilmeden tek bir
-yazara mal edilmez.
 
 ## Yazar ölümünden önceki görevdeydi
 
@@ -105,5 +99,5 @@ savaş ilkelerini sayar.[^k3] O yazar
 
 ## Metne bağ
 
-Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Eserin kendisi kamu malıdır; hangi baskının ve
-hangi çevirinin kullanıldığı her aktarımda belirtilmelidir.
+Eserin kamu malı tam metni erişilebilir durumdadır; hangi baskının ve hangi
+çevirinin kullanıldığı her aktarımda belirtilmelidir.[^k4]

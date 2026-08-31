@@ -51,23 +51,18 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Kim olduğu
 
-W. E. B. Du Bois, Amerika Birleşik Devletleri'nde doğmuş, Almanya'da ve
-Amerika'da eğitim görmüş ve akademik kariyeriyle siyasi örgütlenmeyi bir arada
-yürütmüş bir düşünürdür.[^k1][^k3] Korpusun bölge şemasında üç etiketi birden
-taşır; bunun sebebi, çalışmalarının kıtalar arası bir soruyu konu edinmesidir.
+W. E. B. Du Bois, Amerika Birleşik Devletleri'nde doğmuş, Almanya'da ve Amerika'da
+eğitim görmüş ve akademik kariyeriyle siyasi örgütlenmeyi bir arada yürütmüş bir
+düşünürdür.[^k1][^k3]
 
 Dosyanın ayırt edici yanı, düşünürün iki ayrı işi birlikte yapmış
 olmasıdır.[^k1] Bir yanda kavramsal bir çerçeve kurar; öte yanda o çerçeveyi
 sınamak için ev ev dolaşılarak toplanmış veriye dayanan saha araştırmaları
 yürütür ve ikisini aynı metin geleneğinde birleştirir.
 
-Bu birleşim, dönemin sosyal bilim pratiğinde seyrektir.[^k1][^k3] Kuram
-üretenler genellikle veri toplamaz, veri toplayanlar genellikle kuram
-kurmazdı; buradaki örnek, ikisinin aynı kişide bulunmasının ne ürettiğini
-gösterdiği için korpusa girmiştir.
+Bu birleşim, dönemin sosyal bilim pratiğinde seyrektir.[^k1][^k3]
 
 ## Çifte bilinç
 
@@ -81,10 +76,6 @@ bağlamasındadır.[^k2] Ayrımcılık yalnızca gelir, konut ve eğitim
 istatistiklerinde görünmez; kişinin kendine dair kurduğu resmi de biçimlendirir
 ve bu ikincisi istatistikte görünmez.
 
-Kavramın doğrulanması, içsel deneyimin
-bağımsız ölçümünü gerektirir; bu ölçümün nasıl yapılacağı bugün de tartışmalıdır ve
-korpus bir yöntem önermez.[^k1]
-
 ## Renk çizgisi
 
 Düşünürün ikinci merkezî ifadesi, yirminci yüzyılın temel sorununu ırk
@@ -92,13 +83,8 @@ ayrımı çizgisi olarak tanımlar.[^k2] İfade, tek bir ülkeye değil dünya
 ölçeğinde kurulmuş bir hiyerarşiye işaret eder ve sömürge düzenleriyle
 doğrudan bağ kurar.
 
-Bu bağ, dosyayı korpusun sömürgecilik dosyalarına bağlar.[^k1][^k3] Amerika
-kıtasındaki ayrımcılık ile Afrika ve Asya'daki sömürge yönetimleri, düşünüre
-göre ayrı olgular değil aynı yapının farklı bölgelerdeki biçimleridir.
-
-İki olgunun aynı yapının parçası sayılıp
-sayılamayacağı, karşılaştırmalı bir kanıt gerektirir ve bu kanıt bu incelemenin kapsamı
-dışındadır.[^k1]
+Amerika kıtasındaki ayrımcılık ile Afrika ve Asya'daki sömürge yönetimleri, düşünüre
+göre ayrı olgular değil aynı yapının farklı bölgelerdeki biçimleridir.[^k1]
 
 ## Saha araştırması
 
@@ -126,10 +112,6 @@ Tartışmanın özü, hakların önce mi verileceği yoksa kazanılan konumla bi
 mi geleceğidir.[^k2] İki strateji, aynı hedefe farklı sıralarla ulaşmayı
 önerir ve sıralamanın kendisi siyasi sonuçlar taşır.
 
-Tartışma dönemin kendi içinde çözülmemiştir ve
-sonraki değerlendirmeler, her iki tarafın da kısmen haklı çıktığı yönündedir; korpus bu
-değerlendirmeyi de bir sonuç saymaz.[^k1]
-
 ## Yöntemdeki değişim
 
 Düşünürün uzun yaşamı boyunca konumu değişti ve bu değişim
@@ -140,10 +122,6 @@ açıkça terk etti.
 Terk edişin gerekçesi metinlerinde yazılıdır: toplanan veri, ayrımcılığı
 sürdürenlerin bilgi eksikliğinden kaynaklanmadığını göstermişti.[^k1] Bilgi
 vermek, çıkarına dayanan bir düzeni değiştirmeye yetmiyordu.
-
-Bir düşünürün kendi beklentisini
-kendi verisiyle çürütmesi, korpusun seyrek kaydettiği bir durumdur ve kaydın
-güvenilirliğini artıran bir işarettir.[^k3]
 
 ## Kıtalar arası örgütlenme
 
@@ -165,10 +143,8 @@ En bilinen kitabı, akademik bölümlerle kişisel anlatıyı ve müzik notalar�
 bir arada kullanır.[^k2] Her bölümün başında, sözü verilmeden bir ezgi
 parçası yer alır; biçim, argümanın bir parçasıdır.
 
-Bu tercih, kitabın hem geniş bir okur kitlesine ulaşmasını sağladı hem de
-akademik itirazların bir bölümünü doğurdu.[^k1] Edebî bir dil, iddiaların
-sınanabilirliğini zorlaştırır; bu itiraz, korpusun Fanon dosyasında da
-kaydedilmiştir.
+Bu tercih, kitabın hem geniş bir okur kitlesine ulaşmasını sağladı hem de akademik
+itirazların bir bölümünü doğurdu.[^k1]
 
 Bir metnin kime seslendiği, hangi
 biçimi seçeceğini de belirler; akademik biçim tarafsız değil, belirli bir okur çevresine
@@ -180,22 +156,19 @@ Düşünürün saha araştırmaları, akademik sosyolojinin kuruluş
 metinleri arasında uzun süre sayılmadı.[^k1][^k3] Dönemin ders kitapları ve
 derlemeleri onları kapsam dışında bıraktı.
 
-Bu dışarıda bırakma, korpusun kendi konusudur.[^k1] Bir alanın kuruluş
-anlatısının kimi içerip kimi dışarıda bıraktığı, o alanın kendisi hakkında
-bilgi verir ve alanın sonraki soru seçimlerini de belirler.
+Bir alanın kuruluş anlatısının kimi içerip kimi dışarıda bıraktığı, o alanın kendisi
+hakkında bilgi verir ve alanın sonraki soru seçimlerini de belirler.
 
 Kimin kurucu sayıldığı, kimin okunacağını
 belirler.[^k3]
 
 ## Uzun ömrün getirdiği
 
-Düşünür doksan beş yıl yaşadı ve yazdığı dönem, korpusun üç ayrı dönem
-dosyasını kapsar.[^k3] Bu, tek bir kişinin metinleri üzerinden uzun süreli bir
-değişimin izlenmesini mümkün kılar.
+Bu, tek bir kişinin metinleri üzerinden uzun süreli bir değişimin izlenmesini mümkün
+kılar.
 
-Böyle bir izlenim, korpusun öteki düşünür dosyalarında seyrek
-bulunur.[^k1] Çoğu dosyada düşünürün konumu tek bir dönemin içinden
-okunur; burada aynı sorunun elli yıl boyunca nasıl değiştiği görülebilir.
+Çoğu dosyada düşünürün konumu tek bir dönemin içinden okunur; burada aynı sorunun elli
+yıl boyunca nasıl değiştiği görülebilir.[^k1]
 
 Bu imkânın sınırı da vardır.[^k3] Bir kişinin konum değiştirmesi, dünyanın
 değiştiğinin kanıtı değildir; kişinin kendi konumunun değişmesi de aynı
@@ -203,8 +176,7 @@ verilerden çıkarılabilir ve iki açıklama ayrı kanıtlar gerektirir.
 
 ## Kaynak durumu
 
-Bu inceleme üç kaynağa dayanır ve biri birincildir.[^k2] Birincil metin kamu
-malıdır ve makine okunur tam metin olarak erişilebilir durumdadır.
+Birincil metin kamu malıdır ve makine okunur tam metin olarak erişilebilir durumdadır.
 
 Düşünürün öteki eserlerinin çoğu, telif süresi dolmadığı için künyeye
 alınamamıştır.[^k1] Bu, dosyanın metinsel tabanını tek bir esere daraltır ve
@@ -214,18 +186,56 @@ Okur bu sınırı bilerek okumalıdır.[^k3] Buradaki değerlendirmelerin bir
 bölümü, doğrudan metinden değil akademik ansiklopedi maddelerinin
 aktarımından gelir; künyedeki birincil metin yalnızca erken dönemi kapsar.
 
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun düşünür katmanına Amerika kıtasından ilk kez eşitsizlik ve
-ayrımcılık üzerine yazan bir kişiyi ekler.[^k1][^k3] Katmanda Amerika kökenli
-dosyalar bulunuyordu ama bu soruyu ele alan yoktu.
+Eksiğin yönü, önceki turda Fanon dosyasında kaydedilenle aynıdır.[^k1]
 
-Eksiğin yönü, önceki turda Fanon dosyasında kaydedilenle aynıdır.[^k1] Korpusun
-kaynak bileşimi denetimi künye çeşitliliğini ölçer; kimin yazdığı sorusunu
-ölçmez ve bu ikinci ölçüm elle yapılmak zorundadır.
+İki dosyanın birlikte okunması, aynı sorunun iki ayrı konumdan nasıl göründüğünü
+verir.[^k1]
 
-İki dosyanın birlikte okunması, aynı sorunun iki ayrı konumdan nasıl
-göründüğünü verir.[^k1] Korpus bu karşılaştırmayı kurar ve bir sonuç
-yazmaz.
+## Philadelphia araştırmasının yöntemi
+
+Du Bois'in Philadelphia'daki çalışması, eşitsizliği yalnız kişisel gözleme ya
+da ahlaki yargıya bırakmadı.[^k1] Haneleri sokak sokak sınıflandırdı; meslek,
+gelir, barınma, sağlık ve aile yapısına ilişkin kayıtları haritalar ve
+tablolarla birleştirdi. Böylece “toplumsal sorun” diye tek bir etiket altında
+toplanan olguları mahalle, sınıf ve çalışma koşullarına göre ayırabildi.
+
+Yöntemin siyasi önemi, neden ile belirtiyi tersine çevirmemesindedir. Suç,
+yoksulluk ya da hastalık bir grubun doğuştan niteliği gibi sunulduğunda veri
+önyargıyı güçlendirebilir. Du Bois aynı dağılımları ayrımcı işe alım, düşük
+ücret, konut kısıtları ve kamusal hizmetlere erişimle ilişkilendirerek başka
+bir nedensel açıklama kurdu.[^k1] Sayıların tarafsız görünmesi, onları üreten
+kategori ve karşılaştırmaların tarafsız olduğu anlamına gelmez.
+
+## Çifte bilinç bir ikilikten fazlasıdır
+
+Çifte bilinç yalnız iki kültüre ait olmak ya da iki kimlik arasında seçim
+yapmak değildir.[^k2] Asimetri içerir: kişi kendini, onu aşağılayan egemen
+bakışın ölçüleriyle değerlendirmeye zorlanır. Kendi deneyimi ile dışarıdan
+dayatılan imge birbirine eşit iki seçenek değildir; biri okul, iş, hukuk ve
+kamusal temsil tarafından sürekli desteklenir.
+
+Kavram böylece psikolojik deneyimi kurumlara bağlar. Kişinin kendinden kuşku
+duyması yalnız içsel bir çatışma değil, sürekli daha fazla yeterlilik kanıtlama,
+sesini farklı ortamlara göre değiştirme ve başkasının önyargısını önceden
+hesaplama yüküdür.[^k1][^k2] Fanon'un sömürge öznesi çözümlemesiyle benzerlik
+buradadır; fark, Du Bois'in bunu yurttaşlık iddiası taşıyan bir toplum içindeki
+renk çizgisiyle ve saha verisiyle birlikte kurmasıdır.
+
+## Yeniden İnşa yorumunun önemi
+
+Du Bois, Amerikan İç Savaşı sonrasını yalnız başarısız bir yönetim dönemi
+olarak anlatan yerleşik yoruma karşı çıktı.[^k1] Özgürleşen insanların siyasal
+katılımını, okul kurma çabasını ve emek düzeni üzerindeki mücadelesini merkeze
+aldı. Dönemin sonunu “yetersiz seçmenlerin başarısızlığı” diye açıklamak
+yerine, şiddet, mülkiyet gücü ve federal korumanın geri çekilmesini birlikte
+inceledi.
+
+Burada tarih yazımı doğrudan güncel siyasete bağlanır. Geçmişte eşit
+yurttaşlığın neden çöktüğüne verilen cevap, bugünkü eşitsizliğin doğal mı,
+kurumsal mı sayılacağını etkiler. Du Bois'in uzun kariyerinde araştırma ile
+örgütlenmenin ayrılmaması bu yüzden rastlantı değildir: veri, kamusal sorunun
+nasıl adlandırılacağına müdahale eden bir araçtır; fakat geçerli olması için
+yöntemi ve karşı kanıtları açık kalmalıdır.[^k1]
 
 ## Açıkta kalan sorular
 Düşünürün siyasi örgütlenme faaliyetleri, kurduğu ve yönettiği yayınlar ve
@@ -233,8 +243,7 @@ son yıllarındaki konum değişiklikleri burada ayrıntılı olarak
 işlenmez.[^k3] Ayrı dosyalar gerektirir.
 
 Amerika Birleşik Devletleri'ndeki ayrımcılık düzeninin kendi tarihi de kapsam
-dışıdır.[^k1] Bu inceleme bir düşünürün konumunu anlatır; anlattığı düzenin
-tarihini değil.
+dışıdır.[^k1]
 
 Metnin bölüm bölüm içeriği de verilmez.[^k2] Metin kaynakta erişilebilir
 durumdadır ve ne söylediği için metnin kendisine inilmelidir.

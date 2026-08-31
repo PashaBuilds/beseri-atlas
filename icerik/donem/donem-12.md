@@ -317,8 +317,8 @@ ayırdı.[^k1] Aynı topluluklar sınırın iki yanında kaldı.
 Çizgileri çizenler o topraklarda yaşamıyordu.[^k6] Konferansta bölge
 halklarının temsilcisi bulunmuyordu.
 
-Bölgede yaşamayanlarca çizilen
-sınırlar, korpusta kıtadan kıtaya tekrarlanır.[^k3]
+Bölgede yaşamayanlarca çizilen sınırlar, kıtadan kıtaya benzer egemenlik ve
+temsil sorunları doğurdu.[^k3]
 
 ## Gerekçelerin çokluğu
 
@@ -338,8 +338,8 @@ Dönemde, insan gruplarını sıralayan bir çerçeve yaygınlaştı.[^k1] Bu
 kullanıldı.
 
 Çerçevenin bilimsel dayanağı yoktur ve sonraki dönemde
-çürütülmüştür.[^k6] Korpus bunu bir bilgi olarak değil bir gerekçe
-biçimi olarak kaydeder.
+çürütülmüştür.[^k6] Burada doğru bilgi olarak değil, tarihsel bir gerekçelendirme
+biçimi olarak ele alınır.
 
 Kaydedilmesinin nedeni etkisidir.[^k3] Bir iddianın yanlış olması,
 tarihsel etkisinin ölçülmesine engel değildir.
@@ -471,9 +471,8 @@ Dönemin kıtlıkları, üretim düşüşüyle olduğu kadar piyasa
 düzenlemeleriyle de bağlantılıdır.[^k5] İhracat, kıtlık yıllarında da
 sürdü.
 
-Bu, korpusun Bengal dosyasında tanımlanan mekanizmanın erken
-örnekleridir.[^k1] Ölenler, gıdanın bulunmadığı değil satın
-alamayanlardır.
+Bu, kıtlıkların yalnız üretim açığıyla açıklanamayacağını gösteren erken
+örneklerdendir.[^k1] Ölenler, gıdanın bulunmadığı değil satın alamayanlardır.
 
 Aynı mekanizmanın farklı kıtalarda ve farklı
 yönetimler altında tekrarlanması, mekanizmanın yapısal olduğunu gösterir.[^k6]
@@ -577,7 +576,7 @@ savaşın nedeni miydi yoksa yalnızca zeminini mi hazırladı.
 İki cevap farklı sonuçlar doğurur.[^k5] Nedense savaş bu dönemin
 mantığının sonucudur; zeminse kararlar belirleyicidir.
 
-Bu, korpusun en çok başvurulan tartışmalarından
+Bu, dönemin sonuçlarını değerlendirmek için en çok başvurulan tartışmalardan
 biridir.[^k3]
 
 ## Kanıtın ve kapsamın sınırı
@@ -680,9 +679,8 @@ metnin kendisinden çok kimin taraf sayıldığından belirlenir.[^k5]
 Bu yüzden aynı dönemde sömürge bölgelerinde yürütülen harekâtlar
 farklı bir çerçevede kaldı.[^k6] Savaş hukuku burada uygulanmıyordu.
 
-Bu, korpusun Cezayir dosyasında kaydedilen ölçümün erken
-biçimidir.[^k1] Bir çatışmaya verilen ad, hangi kuralların
-uygulanacağını belirler.
+Bu ayrım, sömürge savaşlarının nasıl sınıflandırıldığını gösteren erken bir
+örnektir.[^k1] Bir çatışmaya verilen ad, hangi kuralların uygulanacağını belirler.
 
 Aynı ayrım, yarım yüzyıl sonra da aynı
 işlevi görmüştür.[^k5]
@@ -718,6 +716,33 @@ birikimini, bazıları imparatorluk genişlemesini öne
 
 İki olgu aynı yıllarda ve aynı
 mekanizmayla birbirine bağlıdır.[^k6][^k5]
+
+## Mesafenin sıkışması ve iktidarın genişlemesi
+
+Buharlı gemi, demiryolu ve telgraf yalnızca yolculuğu hızlandırmadı; merkezlerin uzak
+bölgelerden bilgi, asker ve vergi toplama kapasitesini değiştirdi. Bu kapasite farkı,
+sanayileşmiş devletlerin Afrika ve Asya'da daha hızlı ilerlemesine yardım etti, fakat
+sömürgeciliği teknolojinin kaçınılmaz sonucu yapmadı. İşgal, şirket çıkarı, borç
+denetimi, yerel ittifaklar ve ırkçı meşrulaştırmalar birlikte çalıştı.[^k1] Osmanlı
+reformları ve Japonya'nın Meiji dönüşümü, aynı baskılara verilen yanıtların doğrudan
+sömürgeleşmeden kurumsal uyarlanmaya kadar değişebildiğini gösterir.[^k2]
+
+Dünya ticaretinin büyümesi bölgeleri eşit biçimde yakınlaştırmadı. Sermaye ve mamul
+mal belirli merkezlerde yoğunlaşırken pamuk, kauçuk, maden ve gıda üretimi başka
+bölgelerde zorlayıcı emek düzenlerine bağlandı.[^k5][^k6] Göçmenler, sözleşmeli
+işçiler ve kölelik sonrası emek rejimleri bu küresel pazarın insan hareketini
+oluşturdu. Direniş de bu ağların dışından değil içinden gelişti: grevler, yerel
+ayaklanmalar, anayasal talepler ve sömürge karşıtı hareketler yeni haberleşme
+araçlarını kullanabildi. 1914'e varan yol bu yüzden yalnız ittifakların askerî
+gerilimi değildir; hızlanan ulaşımın, sermaye rekabetinin ve imparatorlukların kaynak
+seferberliğinin aynı sistemde birikmesidir. Bağlantı arttıkça karşılıklı bağımlılık
+arttı, fakat bu bağımlılığı yöneten siyasal eşitlik kurulmadı.
+
+Sanayileşmenin çevresel boyutu da bu ağın parçasıdır. Kömürle çalışan ulaşım ve
+üretim daha çok malı dolaşıma sokarken maden, orman ve kent üzerinde yeni baskılar
+yarattı; ekonomik büyümenin maliyeti hesaplarda ve coğrafyada eşit görünmedi.
+Teknoloji ortak bir zaman duygusu yaratsa da ortak bir yaşam standardı
+yaratmadı.[^k1][^k5]
 
 ## Fikir dünyası
 

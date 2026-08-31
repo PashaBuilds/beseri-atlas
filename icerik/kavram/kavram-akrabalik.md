@@ -48,11 +48,7 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
-## Neden korpusun konusu
-
-Akrabalık düzeni, korpus için bir aile konusu değildir.[^k1] Toprağın,
-yetkinin ve ittifakın nasıl aktarıldığı konusudur.
+Toprağın, yetkinin ve ittifakın nasıl aktarıldığı konusudur.
 
 Bu üçü çoğu düzende akrabalık yoluyla aktarılır.[^k2] Kimin kimin
 akrabası sayıldığı, kimin neye hak sahibi olduğunu belirler.
@@ -125,9 +121,6 @@ kardeşliği, ant kardeşliği ve şakalaşma ilişkileri de akrabalık
 Bu bağlar hukuki sonuç doğurur.[^k3] Evlenme yasağı, miras hakkı ve
 kan davası yükümlülüğü bunlar arasındadır.
 
-Kurgusal bir bağ, gerçek bir yükümlülük
-üretiyorsa, korpus için gerçek bir bağdır.[^k1]
-
 ## Siyasi ölçeğe etkisi
 
 Akrabalık, siyasi birimin büyüklüğünü sınırlar.[^k1] Soy temelli bir
@@ -172,6 +165,18 @@ dosyasında ele alınır.
 
 Kavram, bugünkü hane biçimlerine uzatılmaz.[^k3] Aradaki bağ gerçektir
 ama ayrı bir çalışma gerektirir.
+
+## Biyolojik bağdan toplumsal kurala
+
+Akrabalık yalnız genetik yakınlığın adı değildir; soy, evlilik, evlat edinme ve ortak
+yaşam üzerinden hak ile yükümlülük dağıtan toplumsal bir sistemdir.[^k1] Aynı biyolojik
+bağ farklı toplumlarda başka miras, ikamet veya dayanışma sonuçları doğurabilir.
+Bir akrabalık terimini modern aile sözlüğüne çevirmek bu nedenle yetmez; terimin kimi
+evlenilebilir, kimin mal devralabilir ve kriz anında kimin yardım etmekle yükümlü
+olduğunu nasıl belirlediği incelenmelidir.[^k2]
+
+Bu ilişkiler sabit değildir; göç, din değiştirme ve devlet hukuku akrabalığın
+tanınan sınırlarını zaman içinde değiştirebilir.[^k1]
 
 ## Okumayı sürdürmek için
 Kimin mülk edinip tanıklık edebildiği için

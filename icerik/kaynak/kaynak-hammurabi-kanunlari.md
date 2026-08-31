@@ -64,7 +64,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Hammurabi Kanunları, Mezopotamya'da bir hükümdarın adına yazdırılmış ve
@@ -72,12 +71,10 @@ bir taş dikilitaş üzerine kazınmış hüküm derlemesidir.[^k1] Metin bir
 girişle başlar, iki yüzü aşkın hüküm sıralar ve bir lanet bölümüyle
 biter.
 
-Dikilitaş bugün bir müzede bulunmaktadır ve metin tam olarak
-okunabilmektedir.[^k2] Bu, korpusun en erken tarihli tam metin
-künyesidir.
+Dikilitaş bugün bir müzede bulunmaktadır ve metin tam olarak okunabilmektedir.[^k2]
 
-Bu incelemenin asıl konusu metnin yapısıdır.[^k1] Hükümlerin önemli bölümü,
-cezayı fiile değil tarafların toplumsal konumuna göre belirler.
+Hükümlerin önemli bölümü, cezayı fiile değil tarafların toplumsal konumuna göre
+belirler.
 
 ## Nesne ve metin bir arada
 
@@ -102,14 +99,10 @@ hükümler, uygulanan kurallar değil hükümdarın adaletini gösteren
 İki okuma da metnin kendisine uyar ve
 ayrım ancak mahkeme kayıtlarıyla yapılabilir.[^k1]
 
-## Ayrımın korpus için önemi
-
 Bir metnin kanun sayılması, uygulandığının gösterilmesine
 bağlıdır.[^k3] Yazılmış olması tek başına yeterli değildir.
 
-Bu, korpusun bütün hukuk belgesi künyeleri için geçerli bir kuraldır.[^k1]
-Bir belgenin ne dediği ile o belgenin ne kadar uygulandığı ayrı iki
-sorudur.
+Bir belgenin ne dediği ile o belgenin ne kadar uygulandığı ayrı iki sorudur.
 
 Uygulama kanıtı bulunamadığında, belge
 yalnızca "beyan edilen düzen" olarak kaydedilir.[^k2]
@@ -131,9 +124,8 @@ farklı bedeli açıkça yazar.
 Eşitsizliğin belgeye yazılmış
 olması, onu incelenebilir kılar.[^k3]
 
-Aynı gözlem korpusun vesayet dosyasında da yapılmıştı.[^k2] Bir
-hiyerarşinin belgede yazılı olması, onu tartışılabilir kılar;
-yazılmadığı yerde aynı hiyerarşi işler ama gösterilemez.
+Bir hiyerarşinin belgede yazılı olması, onu tartışılabilir kılar; yazılmadığı yerde aynı
+hiyerarşi işler ama gösterilemez.
 
 İki belge arasında üç bin yedi yüz yıl vardır.[^k1] Aynı yapı iki kez
 ölçülmüştür ve bu, gözlemi bir döneme özgü olmaktan çıkarır.
@@ -193,9 +185,8 @@ Metinde sulama kanallarının bakımına ilişkin hükümler bulunur.[^k1]
 Kanalını bakımsız bırakıp komşusunun tarlasını su basmasına yol açan
 kişi zarardan sorumlu tutulur.
 
-Bu hükümler, korpusun sulama dosyalarında ölçtüğü kısıtı doğrudan
-belgeler.[^k2] Sulamaya dayanan tarım, ortak bakım yükümlülüğü
-gerektirir ve bu yükümlülük hukuki olarak tanımlanmıştır.
+Sulamaya dayanan tarım, ortak bakım yükümlülüğü gerektirir ve bu yükümlülük hukuki
+olarak tanımlanmıştır.
 
 Bir coğrafi kısıtın hukuk metnine
 yansıması, kısıtın gerçekten bağlayıcı olduğunun kanıtıdır.[^k3]

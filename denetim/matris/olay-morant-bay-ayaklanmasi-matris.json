@@ -608,10 +608,46 @@
       ],
       "guven": "yuksek",
       "inceleme": "Mill'in kendi degerlendirmesi olarak atfedilmistir, bagimsiz bir olcum degildir."
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "Aynı grubun ertesi gün, çarşamba, bölge kuruluna geleceği haberi ulaşınca bölge amiri gönüllüleri silah altına aldı ve validen asker istedi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Haberin ulaşması, gönüllülerin silahlandırılması ve asker talebi k4'te ardışık olarak kayıtlıdır."
+    },
+    {
+      "iddia_id": "ek002",
+      "cumle": "Underhill'in anlatısı, 1865 mitinglerini tetikleyen mektubu yazan kişinin anlatısıdır; Hume'un kitabı savunma fonunun çevresinde yazılmıştır; Eyre davasının raporunu tutan Finlason sıkıyönetimin hukukiliğini savunan hukukçudur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Üç kaynak için belirtilen yazar konumu ve çıkar ilişkisi ilgili metinlerin başlık, önsöz veya yazar beyanlarında görünür; cümle kaynak eleştirisi için bunları yan yana getirir."
     }
   ],
   "sayaclar": {
-    "dogrudan": 38,
+    "dogrudan": 40,
     "kismi": 2,
     "desteksiz": 0,
     "olculemez": 0

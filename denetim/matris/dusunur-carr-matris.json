@@ -564,10 +564,24 @@
       ],
       "guven": "yuksek",
       "inceleme": "Kaynak: \"His work provoked a number of responses, most notably Geoffrey Elton's The Practice of History.\" HAKEM DUZELTMESI: govde once \"En sert ve en adi belli itiraz\" diyordu; \"en sert\" nitelemesi kaynakta yoktur, kaynagin \"most notably\" ifadesine indirildi."
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "Jenkins'in başlığı bir soru işareti taşır ve önerdiği şey mahkûmiyet değil, yeniden değerlendirmedir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Soru işareti ve yeniden değerlendirme ifadesi k7'nin başlığında doğrudan görünür; cümle başlığın tonunu aşmaz."
     }
   ],
   "sayaclar": {
-    "dogrudan": 36,
+    "dogrudan": 37,
     "kismi": 4,
     "desteksiz": 0,
     "olculemez": 0

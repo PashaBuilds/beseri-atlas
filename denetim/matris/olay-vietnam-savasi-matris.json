@@ -1,7 +1,7 @@
 {
   "id": "olay-vietnam-savasi",
-  "govde_hash": "511619a53bb2",
-  "commit": "9181554",
+  "govde_hash": "9181660d25dd",
+  "commit": "889239af",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -295,7 +295,7 @@
     },
     {
       "iddia_id": "i021",
-      "cumle": "İstihbaratı toplayan kurumun gizli dergisinde 2001 başında yayımlanan bir inceleme kayıtları yeniden okudu; kurum, bir bilgi edinme başvurusunun ardından 2005 Aralık'ında yüz kırktan fazla belgeyi, bu incelemeyle birlikte gizlilikten çıkardı.",
+      "cumle": "İstihbaratı toplayan kurumun gizli dergisinde 2001 başında yayımlanan inceleme, bir bilgi edinme başvurusunun ardından 2005 Aralık'ında yüz kırktan fazla belgeyle birlikte gizlilikten çıkarıldı.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -365,7 +365,7 @@
     },
     {
       "iddia_id": "i026",
-      "cumle": "30 Nisan 1970'te Kamboçya'ya girildi — sınırdan otuz kilometrelik şeritle ve haziran sonuyla sınırlı bir harekât — ve bu karar kampüslerde sert protestolara yol açtı; Kent State Üniversitesi'nde 4 Mayıs'ta dört öğrenci öldürüldü. Aynı kaynak harekâtın öteki yüzünü de yazar: üslerde büyük miktarda erzak ve silah ele geçirildi, kuzeyin ikmal düzeni aylarca aksadı, çekilme için zaman kazanıldı.",
+      "cumle": "30 Nisan 1970'te Kamboçya'ya girildi — sınırdan otuz kilometrelik şeritle ve haziran sonuyla sınırlı bir harekât — ve bu karar kampüslerde sert protestolara yol açtı; Kent State Üniversitesi'nde 4 Mayıs'ta dört öğrenci öldürüldü. Aynı kaynak harekâtın öteki yüzünü de yazar: üslerde büyük miktarda erzak ve silah ele geçirildi, kuzeyin lojistiği aylarca aksadı, çekilme için zaman kazanıldı.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -618,10 +618,24 @@
       ],
       "guven": "yuksek",
       "inceleme": "ONCEKI SURUM KENDI KAYNAGIYLA CELISIYORDU: 'devletin tazminat icin tanidigi savas 1962'de baslar ve 1975'te biter' deniyordu; oysa ayni maddenin (d) fikrasi kapsami 1980'e kadar goturur. 1962-1975 yalnizca (a)(3) fikrasindaki 'herbicide agent' tanimina ve Vietnam kalemine aittir."
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Bu, dışarıdan gelen bir suçlama değil, istihbaratı rapor eden kurumun kendi tarihçisinin düzeltmesidir; kaynağa göre tarihçilerin uzun süredir savunduğunu doğrulamış, kurumun eski mensupları arasında tartışma yaratmıştır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yazarın kurum tarihçisi oluşu, tarihçilerin önceki savını doğrulaması ve kurum içi tartışma k5'in kendi sunumunda açıkça belirtilir."
     }
   ],
   "sayaclar": {
-    "dogrudan": 40,
+    "dogrudan": 41,
     "kismi": 3,
     "desteksiz": 0,
     "olculemez": 0
@@ -630,6 +644,12 @@
     {
       "zaman": "2026-08-29",
       "gerekce": "2 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "511619a53bb2",
+      "yeni_hash": "9181660d25dd",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
     }
   ]
 }

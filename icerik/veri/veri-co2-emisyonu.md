@@ -48,7 +48,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Seri 1750'de 9.305.937 ton ile başlar ve 2024'te 38.598.580.000 ton ile
 biter.[^k1]
 
@@ -56,21 +55,14 @@ biter.[^k1]
 
 Veri kümesinde dünya toplamı için ilk gözlem 1750 yılına aittir.[^k1]
 
-Bir emisyon serisinin sanayileşmenin yaygın olarak tarihlendiği dönemden önce
-başlaması,[^k1] korpusun şu kuralının dayanağıdır: bu incelemeden okunan değerler bir
-başlangıç noktası iddiası taşımaz; seri yalnızca kayıt başlangıcını gösterir.
-İlgili dönüşüm
-[Sanayi Devrimi](/olay/sanayi-devrimi/) dosyasında ele alınıyor.[^k3]
+İlgili dönüşüm [Sanayi Devrimi](/olay/sanayi-devrimi/) dosyasında ele alınıyor.[^k3]
 
 ## İlişkili seri aynı yönü gösterir
 
 Aynı sağlayıcının birincil enerji serisinde dünya değeri 1800 için 97 TWh, 2025
 için 166.753,6 TWh'dir.[^k2]
 
-İki serinin aynı yönde ve benzer büyüklükte artması,[^k1][^k2] korpusun bunları
-tek bir nedene bağlamasını gerektirmez; iki ölçü farklı birimlerde farklı
-şeyleri ölçer. İlişkili dosya
-[Birincil enerji tüketimi, 1800–2025](/veri/enerji-tuketimi-1800-2023/)
+İlişkili dosya [Birincil enerji tüketimi, 1800–2025](/veri/enerji-tuketimi-1800-2023/)
 dosyasıdır.
 
 ## Ölçünün kapsamı bir karardır
@@ -80,8 +72,3 @@ arazi kullanımı) sayıldığı ölçünün tanımına bağlıdır.[^k1]
 
 İlgili anlaşma [Paris İklim
 Anlaşması](/olay/paris-iklim-anlasmasi/) dosyasında ele alınıyor.[^k1]
-
-## Kanıtın ve kapsamın sınırı
-Ülke ülke emisyonlar, kişi başına değerler ve kaynak kırılımı burada ayrı
-başlıklar altında ele alınmamıştır; bu inceleme yalnızca dünya toplamı serisini
-kaydeder.[^k1]

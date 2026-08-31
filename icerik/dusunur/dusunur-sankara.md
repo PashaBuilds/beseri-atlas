@@ -50,7 +50,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne yaptığı
 
 Şankara, kendi felsefi konumunu bağımsız bir kitapta değil, başkasına ait
@@ -61,8 +60,7 @@ Bu bir tür sorununu doğurur.[^k2] Yazarın kendi sesi
 ile şerh ettiği metnin sesi, aynı sayfada iç içedir ve ayrıştırılmaları
 okurun işidir.
 
-Dosya bir öğreti özeti değildir.[^k3] Bu düşünürün korpusa hangi yöntem
-sorusuyla girdiğini kaydeder.
+Dosya bir öğreti özeti değildir.[^k3]
 
 ## Şerh türünün kuralları
 
@@ -73,10 +71,7 @@ Bu kabul, konumu ifade etme biçimini de belirler.[^k2] Yeni bir iddia, yeni
 bir iddia olarak değil, eski metnin zaten söylediği şeyin açıklaması olarak
 sunulur.
 
-Sonuç, korpusun ölçmek istediği şeyi zorlaştırır.[^k1] Bir düşünürün neyi
-kendisinin eklediğini bulmak, türün kurallarını bilmeyi gerektirir.
-
-## Türün korpus için sorunu
+Bir düşünürün neyi kendisinin eklediğini bulmak, türün kurallarını bilmeyi gerektirir.
 
 Şerh türünde bu soru iki
 katmanlıdır: asıl metin kimin, şerh kimin.[^k2]
@@ -141,8 +136,7 @@ Düşünürün yaşadığı yıllar kesin değildir.[^k1] Gelenek bir tarih aral
 verir, akademik yazın genellikle bundan yaklaşık bir yüzyıl öncesini kabul
 eder.
 
-Künyede kullanılan aralık ikincisidir.[^k1] Seçim, korpusun kaynak
-sıralamasına uygundur; geleneksel tarih dışlanmaz, ikinci sırada anılır.
+Künyede kullanılan aralık ikincisidir.[^k1]
 
 Bu tür belirsizlik güney Asya'nın erken düşünce tarihinde olağandır.[^k3]
 Kişilerin tarihleri çoğu zaman metinlerin birbirine yaptığı atıflardan
@@ -160,17 +154,14 @@ artırmak isteyen kopyacılar aynı sonucu üretebilir.
 Bir metnin bir kişiye atfedilmesiyle o kişi
 tarafından yazılmış olması ayrı iki iddiadır ve ayrı ayrı gerekçelendirilir.[^k2]
 
-## Atıf sorununun korpus için anlamı
-
 Bu alan, tartışmalı atıflarda bir kesinlik
 izlenimi üretir.[^k2]
 
 Sorunun çözümü alanı boş bırakmak değildir.[^k1] Kataloğun verdiği atıf
 künyeye yazılır, atfın tartışmalı olduğu ise metinde belirtilir.
 
-Bu inceleme bu kuralın uygulandığı bir örnektir.[^k2] Künyedeki kaynak,
-kataloğunda yaratıcı olarak bu düşünürü gösterir; dosya bunun bir katalog
-kaydı olduğunu ayrıca yazar.
+Künyedeki kaynak, kataloğunda yaratıcı olarak bu düşünürü gösterir; dosya bunun bir
+katalog kaydı olduğunu ayrıca yazar.
 
 ## Manastır ağı anlatısı
 
@@ -189,8 +180,7 @@ kurum hakkında bir veridir.[^k3]
 Kuruluş anlatısının işlevi geriye dönük meşruiyet kurmaktır.[^k3] Sonraki
 öğretmenler, yetkilerini bu zincire bağlayarak sunar.
 
-Aynı işlev korpusun başka dosyalarında da görülür.[^k1] Soy zinciri kurmak,
-yazılı kaydı olmayan bir yetkiyi belgelendirmenin en yaygın yoludur.
+Soy zinciri kurmak, yazılı kaydı olmayan bir yetkiyi belgelendirmenin en yaygın yoludur.
 
 Bu, anlatıyı yanlış yapmaz.[^k2] Bir anlatının işlevi olması, uydurulduğu
 anlamına gelmez; yalnızca bağımsız doğrulama gerektirdiği anlamına gelir.
@@ -213,11 +203,9 @@ verir.[^k2]
 Risk, sonraki sunumun özgün metne geri okunmasıdır.[^k1] Modern bir
 çerçeveyle özetlenen konum, şerhin kendi terimlerinden uzaklaşabilir.
 
-Bu, korpusun her düşünür dosyasında karşılaştığı bir sorundur.[^k2] Çözüm,
-iki katmanı ayrı yazmak ve hangisinin okunduğunu belirtmektir.
+Çözüm, iki katmanı ayrı yazmak ve hangisinin okunduğunu belirtmektir.[^k1]
 
-Bu incelemede özgün metnin çevirisi künyelenmiştir.[^k2] Okurun konumu ikinci
-elden değil metnin kendisinden sınayabilmesi için gereklidir.
+Okurun konumu ikinci elden değil metnin kendisinden sınayabilmesi için gereklidir.
 
 ## Kaynak durumu
 
@@ -225,16 +213,12 @@ Künyelenen çeviri, şerhin tamamını değil bir bölümünü kapsar ve on
 dokuzuncu yüzyıl sonunda yapılmıştır.[^k2] Çeviri dili ve terim seçimleri
 o dönemin çerçevesini taşır.
 
-Özgün dildeki metnin doğrulanabilir çevrimiçi tam metin baskısı bu inceleme
-yazıldığında bulunamamıştır.[^k1] Kısıt burada beyan edilir.
+Kısıt burada beyan edilir.
 
 Atıf yapılırken hangi bölümün ve hangi çevirinin kullanıldığı
 belirtilmelidir.[^k2] Şerh uzun bir metindir ve bölümleri ayrı basılmıştır.
 
-Künyedeki çeviri, şerh edilen kısa metni ve şerhi birlikte
-verir.[^k2] İki katmanın aynı sayfada bulunması, okurun yazarın kendi
-eklediği kısmı ayırt edebilmesi için gereklidir ve bu incelemenin temel
-sorusunu doğrudan sınanabilir kılar.
+Künyedeki çeviri, şerh edilen kısa metni ve şerhi birlikte verir.[^k2]
 
 ## Metnin içindeki tartışma düzeni
 
@@ -261,28 +245,50 @@ kurum hakkında dolaylı kanıt sağlayabilir.[^k3]
 Kanıt dolaylıdır ve öyle işaretlenir.[^k2] Metnin biçiminden bir pratiğin
 varlığı çıkarılabilir; ayrıntısı çıkarılamaz.
 
+## İki gerçeklik düzeyi neden gereklidir
+
+Şankara'nın ikiliksizlik iddiası, gündelik dünyada hiçbir ayrım bulunmadığını
+söylemez.[^k1] İnsanlar eylemde bulunur, sonuçlarla karşılaşır ve doğruyla
+yanlış arasında karar verir. Bu deneyimsel düzey geçerlidir; hata, onun nihai
+ve bağımsız gerçeklik olduğunu düşünmektir. Şerh böylece bir yandan gündelik
+bilgi ve ahlakın işleyişini korur, öte yandan benlik ile mutlak gerçeklik
+arasındaki ayrımın son çözümlemede bilgi eksikliğinden doğduğunu savunur.[^k2]
+
+Bu iki düzeyi ayırmak öğretinin en güçlü açıklama aracı ve en sık yanlış
+okunan yanıdır. “Dünya yanılsamadır” özeti, deneyimin tümüyle yok sayıldığı
+izlenimini verir. Oysa yanlışlık, bir şeyin hiç görünmemesi değil, görünenin
+statüsünün yanlış anlaşılmasıdır. Alacakaranlıkta ipin yılan sanılması buna
+verilen klasik örnektir: görülen biçim gerçektir, fakat ona yüklenen kimlik
+değildir.[^k1]
+
+Kurtuluş bu nedenle yeni bir nesne elde etmekten çok yanlış özdeşliği ortadan
+kaldıran bilgidir. Tören ve eylem zihni hazırlayabilir, fakat nihai ayrımı tek
+başına gideremez.[^k2] Rakip okulların itirazı da burada yoğunlaşır: bilgi
+tek başına yeterliyse ibadet, bağlılık ve farklı benliklerin deneyimi nasıl
+açıklanacaktır? Şankara'yı yalnız sonuç cümlesiyle değil, bu itirazlara verdiği
+cevapların şerh içindeki sırasıyla okumak gerekir; öğretinin mantığı o tartışma
+biçiminde görünür.
+
+Şerhin kavramsal ağı, kısa özetlerin görünmez bıraktığı bu karşılıklı cevaplarla
+kurulur.
+
 ## Kapsam dışı
 
 Düşünürün hayatına ilişkin geleneksel anlatılar burada ayrıntılandırılmaz.[^k3]
 Anlatıların kaynak değeri ayrı bir çalışma gerektirir.
 
-Konumun teknik terimleri ve tartışma yapısı da kapsam dışıdır.[^k1] Dosya
-konumun ne olduğunu değil, korpusun onu hangi kısıtlarla kaydettiğini
-yazar.
+Konumun teknik terimleri ve tartışma yapısı da kapsam dışıdır.[^k1]
 
-Aynı gelenek içindeki rakip okullar burada işlenmez.[^k1] Ayrı dosyalar
-gerektirirler ve bu inceleme yazıldığında korpusta bulunmuyorlardı.
+Aynı gelenek içindeki rakip okullar burada işlenmez.[^k1]
 
 ## Kanıtın ve kapsamın sınırı
 Dosya konumu savunmaz ve çürütmez.[^k2] Konumu, konuma yöneltilen itirazı
 ve ikisinin de dayandığı metin sorununu kaydeder.
 
 Düşünürün bölge felsefesindeki yerine dair bir sıralama yapılmaz.[^k1]
-Korpus düşünürleri etkilerine göre derecelendirmez.
 
-Atıf sorunu bu incelemede çözülmez.[^k1] Hangi metnin kime ait olduğu, her
-metin için ayrı bir çalışma gerektirir ve burada yalnızca sorunun varlığı
-kaydedilir.
+Hangi metnin kime ait olduğu, her metin için ayrı bir çalışma gerektirir ve burada
+yalnızca sorunun varlığı kaydedilir.
 
 ## Okumayı sürdürmek için
 Aynı bölgeden ve daha erken bir dönemden, çokluk ve gerçeklik sorusuna

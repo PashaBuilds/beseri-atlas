@@ -49,19 +49,10 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Seri 1800'de 97 TWh ile başlar ve 2025'te 166.753,6 TWh ile biter; toplam 78
 gözlem vardır.[^k1]
 
 ## Artış oranı diğer serilerden farklıdır
-
-Serinin ilk ve son değeri arasındaki oran, korpusun diğer veri dosyalarında
-kaydedilen artışların hiçbirine benzemez: nüfus yaklaşık sekiz, okuryazarlık
-yaklaşık yedi kat artarken bu seri bin yediyüz katın üzerinde bir artış
-gösterir.[^k1][^k2]
-
-Korpus bu farkı bir açıklamayla değil bir uyarıyla kaydeder: dört serinin aynı
-grafikte gösterilmesi, ölçek farkı nedeniyle üçünü görünmez kılar.[^k1][^k2]
 
 ## Kişi başı hesap kaynakta yoktur
 
@@ -76,21 +67,9 @@ Nüfus serisi [Dünya nüfusu,
 Serinin ölçtüğü şey birincil enerjidir; bu, dönüşüm kayıpları düşülmeden önceki
 toplam enerji girdisidir ve son kullanıcıya ulaşan enerjiden farklıdır.[^k1]
 
-Korpus bu ayrımı kaydeder çünkü iki ölçü aynı yıl için farklı sayılar verir; bu
-dosyadan okunan değerler hangi ölçünün kullanıldığı belirtilmeden
-aktarılmaz.[^k1]
-
 ## Serinin başlangıcına denk gelen dönüşüm
 
 Serinin başlangıç yıllarına denk gelen dönüşüm için tutulan kayıt, o dönüşümü
 ayrı bir madde olarak işler.[^k3] O dönüşüm
 [Sanayi Devrimi](/olay/sanayi-devrimi/) dosyasında, ilgili kavram ise
 [Büyük Ayrışma](/kavram/buyuk-ayrisma/) dosyasında ele alınıyor.
-
-Korpus iki kayıt arasında bir neden bağı kurmaz; kullanılan kaynak bölümlerinde
-böyle bir bağ belirtilmemiştir.[^k1][^k3]
-
-## Kanıtın ve kapsamın sınırı
-Enerji kaynaklarına göre dağılım, ülke ülke tüketim ve dönüşüm verimliliği
-burada ayrı başlıklar altında ele alınmamıştır; bu inceleme yalnızca dünya toplamı
-serisini kaydeder.[^k1]

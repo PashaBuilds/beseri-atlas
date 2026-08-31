@@ -62,16 +62,14 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Bâbürnâme, bir hükümdarın kendi hayatını birinci ağızdan anlattığı
 hatırattır.[^k1][^k2] Anlatı gençlik yıllarındaki taht mücadelesiyle başlar
 ve son seferlerle biter.
 
-Metnin korpus açısından ayırt edici yanı, yenilgilerin de yazılmış
-olmasıdır.[^k1] Kaybedilen şehirler, dağılan ordular ve yanlış hesaplanan
-kararlar aynı ayrıntıyla kaydedilir.
+Kaybedilen şehirler, dağılan ordular ve yanlış hesaplanan kararlar aynı ayrıntıyla
+kaydedilir.
 
 Bu, hükümdar kayıtlarında olağan değildir.[^k3] Saray tarihlerinin çoğu
 başarıyı ayrıntılandırır, başarısızlığı geçiştirir; burada ikisi aynı
@@ -96,8 +94,7 @@ Metnin önemli bir bölümü, gezilen bölgelerin bitki örtüsüne, hayvanları
 meyvelerine ve yerel âdetlerine ayrılmıştır.[^k1] Bu bölümler siyasi
 anlatının arasına serpiştirilmiştir.
 
-Bu malzeme korpusun öteki kaynaklarında seyrek bulunur.[^k2] Bir hükümdarın
-bir meyvenin tadını ya da bir kuşun göçünü kaydetmesi, dönemin çevre ve
+Bir hükümdarın bir meyvenin tadını ya da bir kuşun göçünü kaydetmesi, dönemin çevre ve
 gündelik hayat tarihi için doğrudan kanıt sağlar.
 
 Kayıtların taraflılığı burada da vardır ve yönü farklıdır.[^k1] Yazar
@@ -106,18 +103,13 @@ tarif eder; değerlendirmeleri bir kıyaslamadır, bir ölçüm değil.
 
 ## Karşılaştırmalı okuma
 
-Bu inceleme, korpusun Güney Asya kaynak katmanındaki idari envanterle birlikte
-okunmak üzere yazılmıştır.[^k3] İki metin aynı hanedanın iki ayrı yüzünü
-gösterir.
+İki metin aynı hanedanın iki ayrı yüzünü gösterir.
 
 Fark keskindir. Hatırat bir kişinin kararlarını ve hatalarını anlatır;
 envanter aynı hanedanın iki kuşak sonraki hesap defteridir ve kişiyi
 görünmez kılar.[^k3]
 
-İki metnin yan yana okunması, korpusun
-[Büyük adam kuramı](/tartisma/buyuk-adam-kurami/) tartışmasına doğrudan
-malzeme verir.[^k1] Aynı hanedan, bir metinde bir kişiye, ötekinde bir
-sisteme benzer.
+Aynı hanedan, bir metinde bir kişiye, ötekinde bir sisteme benzer.
 
 ## Metnin durumu
 
@@ -134,15 +126,13 @@ alan adının erişilemez hâle gelmesi durumunda kaynağın kaybolmamasını sa
 
 ## Kapsam dışı
 
-Bu inceleme metnin ne olduğunu ve nasıl okunması gerektiğini kaydeder; olayları
-özetlemez.[^k1] Metin kaynaklarda erişilebilir durumdadır.
+Metin kaynaklarda erişilebilir durumdadır.
 
 Yazarın kurduğu siyasi düzenin tarihi burada işlenmez.[^k3] Bunun için
 [Babür İmparatorluğu](/aktor/babur-imparatorlugu/) dosyası okunmalıdır.
 
-Metnin edebî özellikleri, dili ve sonraki edebiyat üzerindeki etkisi de
-kapsam dışıdır.[^k2] Ayrı bir dosya gerektirir ve bu inceleme yazıldığında
-korpusta bulunmuyordu.
+Metnin edebî özellikleri, dili ve sonraki edebiyat üzerindeki etkisi de kapsam
+dışıdır.[^k2]
 
 ## Okumayı sürdürmek için
 Yazarın kurduğu siyasi düzen için

@@ -298,11 +298,39 @@
       ],
       "guven": "yuksek",
       "inceleme": "Maddenin kapanisi: 1270 (1853) inhisarin kaldirilmasi, 1331 (1913) Gediklerin Ilgasi Hakkinda Kanun-i Muvakkat ile yuzde doksaninin ortadan kaldirilmasi"
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "Yardımı finanse eden kutu ile dışarıdakini dışarıda tutan kural aynı tüzüktedir, çünkü biri ötekinin bedelidir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yardım sandığı ile dışlayıcı üyelik kuralı k4'ün aynı tüzüğünde bulunur; aralarındaki bedel ilişkisi yazarın kurumsal yorumudur."
+    },
+    {
+      "iddia_id": "ek002",
+      "cumle": "Mahmuzcu tüzüğü ikisini birden taşır: aynı sayfa hem gece hilesini yasaklar hem yabancıyı zanaattan çıkarır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Gece çalışması/hilesi yasağı ile yabancıların zanaattan dışlanması k4'te aynı tüzük sayfasında doğrudan kayıtlıdır."
     }
   ],
   "sayaclar": {
-    "dogrudan": 18,
-    "kismi": 3,
+    "dogrudan": 19,
+    "kismi": 4,
     "desteksiz": 0,
     "olculemez": 0
   }

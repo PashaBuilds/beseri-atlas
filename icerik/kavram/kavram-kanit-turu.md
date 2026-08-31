@@ -78,25 +78,17 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
-Bu inceleme bir tarihsel olguyu değil, korpusun kendi dosyalarını yazarken
-tekrar tekrar karşılaştığı bir kısıtı tanımlar.[^k1] Kısıt şudur: elde
-bulunan kanıtın türü, o konuda sorulabilecek soruları da belirler.
+Kısıt şudur: elde bulunan kanıtın türü, o konuda sorulabilecek soruları da belirler.
 
-İfade bir yöntem kuralı gibi görünür ama bir gözlemdir.[^k3] Korpusun
-yedi ayrı bölge dosyasında aynı örüntü ölçülmüş ve bu inceleme o ölçümü
-toplar.
+İfade bir yöntem kuralı gibi görünür ama bir gözlemdir.[^k3]
 
 Sonucu doğrudan okuma pratiğini etkiler.[^k2] Bir bölge hakkında olay
 tarihi yazılamıyorsa, bu o bölgede olay olmadığını değil olayların
 kaydedilmediğini gösterir.
 
 ## Dört kanıt türü ve cevapladıkları
-
-Ayrım, korpusun künye şemasındaki `birincil_tur`
-alanında da karşılık bulur.[^k1]
 
 **Çağdaş yazılı kayıt** olay sırası, tarih ve karar sorularına cevap
 verir.[^k1] Kim ne zaman ne yaptı sorusunu yalnızca bu tür
@@ -116,15 +108,11 @@ derecesi de değerlendirilebilir.
 verir.[^k2] Gözlemcinin neyi kayda değer bulduğu, kaydın kapsamını da
 belirler ve bu bir kısıt değil bir bilgidir.
 
-Dördü birbirinin yerine geçmez.[^k1] Bir türü ötekinin eksik biçimi saymak,
-korpusun kaçındığı en yaygın hatadır; nesne kanıtı yazının ilkel hâli
-değildir.
+Dördü birbirinin yerine geçmez.[^k1]
 
 ## Yazılı kaydın kendi içinde bölünmesi
 
-Dört türden birincisi, korpusun Kuş dosyasında yazıldıktan sonra ikiye
-ayrılması gereken bir tür olarak görüldü.[^k1] Ayrım, yazının
-okunabilirliğine dayanır.
+Ayrım, yazının okunabilirliğine dayanır.
 
 Okunabilen yazılı kayıt, olay sırası, karar ve niyet sorularına cevap
 verir.[^k1] Okunamayan yazılı kayıt bu soruların hiçbirine cevap
@@ -149,8 +137,7 @@ birincil kaynak olarak künyelenmez; onlara ilişkin kazı raporları künyeleni
 
 ## Okunabilir kaydın kendi içinde bölünmesi
 
-Okunabilir yazılı kayıt da tek bir tür değildir.[^k1] Korpusun Kırgızlar
-dosyasında üçüncü bir ayrım ölçüldü: metnin uzunluğu ve amacı.
+Okunabilir yazılı kayıt da tek bir tür değildir.[^k1]
 
 Aynı yazı sistemiyle yazılmış iki metin kümesi bambaşka soruları
 cevaplayabilir.[^k3] Uzun ve resmî yazıtlar tarih, hükümdar adı ve karar
@@ -172,11 +159,8 @@ anlamına gelmez; metnin türü ayrıca sorulmalıdır.
 Yazıt, ferman, vakayiname ve
 mektup farklı soruları cevaplar ve aynı torbaya konulamaz.[^k2]
 
-## Korpusun kendi ölçümü
-
-Bu inceleme, korpusun yedi dosyasında ölçülen sonucu toplar.[^k3] Moche,
-Teotihuacan, Olmek, Benin, Maori, Avustralya ve Kuşan dosyalarında aynı
-örüntü görüldü.
+Moche, Teotihuacan, Olmek, Benin, Maori, Avustralya ve Kuşan dosyalarında aynı örüntü
+görüldü.[^k1]
 
 Yazılı kayıt bırakan düzenlerin dosyalarında hükümdar adları, tarihler ve
 kararlar bulunabildi.[^k1] Bırakmayanların dosyalarında aynı bilgiler ya
@@ -189,9 +173,8 @@ hâline getirir.
 
 ## Yanlılığın iki biçimi
 
-Kanıt dağılımını bozan iki mekanizma korpusta ayrı ayrı ölçüldü.[^k1]
-Birincisi dijital erişim eşitsizliğidir: aynı dönemin bazı bölge metinleri
-tek aramada bulunurken bazıları hiç bulunamadı.
+Birincisi dijital erişim eşitsizliğidir: aynı dönemin bazı bölge metinleri tek aramada
+bulunurken bazıları hiç bulunamadı.
 
 İkincisi kazı yoğunluğu eşitsizliğidir.[^k3] Bir bölgede daha erken tarihli
 bulgu çıkması, o bölgenin gerçekten önce olduğunu değil orada daha çok kazı
@@ -215,9 +198,7 @@ Bir unsurun "ilk kez şurada ortaya
 
 ## Uygulamanın bedeli
 
-Bu tutumun bir bedeli vardır ve kaydedilmelidir.[^k1] Korpusun dosyaları,
-sürekli olarak kanıtın ne söyleyip ne söylemediğini yazdığı için okuma
-akıcılığını düşürür.
+Bu tutumun bir bedeli vardır ve kaydedilmelidir.[^k1]
 
 Alternatif, kısıtı belirtmeden yazmaktır.[^k2] Bu, metni akıcı kılar ve
 okura kanıtın gerçekte olduğundan güçlü olduğu izlenimini verir.
@@ -230,10 +211,7 @@ bir kayıt değil bir beyandır.[^k3]
 Dosya bir yöntem tarifi değildir ve bir yöntem önermez.[^k1] Kanıt
 türlerinin nasıl birleştirileceği, her konuda ayrı bir karardır.
 
-Kanıt türlerinin listesi de kapalı değildir.[^k3] Korpusun şeması altı alt tür
-tanır ve bunlar korpusun bugüne kadar karşılaştıklarıdır; yenileri
-eklenebilir, biri bu yıl eklendi ve birinci tür bu yıl kendi içinde
-ikiye ayrıldı.
+Kanıt türlerinin listesi de kapalı değildir.[^k3]
 
 Farklı türlerin ağırlıklandırılması burada işlenmez.[^k2] İki kanıt
 çeliştiğinde hangisinin tercih edileceği,

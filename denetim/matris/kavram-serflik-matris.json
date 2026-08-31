@@ -298,11 +298,67 @@
       ],
       "guven": "yuksek",
       "inceleme": "Vinogradoff onsozunde kendi cevresinin \"the social revolution of the peasant emancipation\" tarafindan yaratildigini ve yasli cagdaslarinin serflik donemini hatirladigini yaziyor."
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "Adam kendi hanesinde oturur, tuttuğu toprak oğluna geçer ve ödeyeceği her şeyin bir fiyatı ile bir defter satırı vardır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hane, miras ve kayıtlı yükümlülük unsurları k2'de doğrudan bulunur; bunları tek portrede birleştiren ifade sentezdir."
+    },
+    {
+      "iddia_id": "ek002",
+      "cumle": "İkincisi, kurumu tek bir felakete bağlayıp doğudaki güçlenmeyi görmezden gelmek.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 batıdaki çözülme ile doğudaki güçlenmeyi karşılaştırır; tek felaketli açıklamaya yöneltilen uyarı bu karşılaştırmadan çıkar."
+    },
+    {
+      "iddia_id": "ek003",
+      "cumle": "Üçüncüsü, bir fermanın tarihini kurumun bitiş tarihi saymak; 1781 metni bunun tam örneğidir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5, 1781 fermanının serfliği tek anda sona erdirmediğini ve yükümlülüklerin sürdüğünü açıkça gösterir."
+    },
+    {
+      "iddia_id": "ek004",
+      "cumle": "Aynı kıtanın iki yakasında yükümlülük ters yönlerde hareket edebildiğine göre serflik, bir çağın zorunlu biçimi değil belirli güç dengelerinin ürünüdür.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 iki bölgedeki ters yönlü değişimi destekler; kurumun güç dengelerinin ürünü olduğu sonuç karşılaştırmalı yorumdur."
     }
   ],
   "sayaclar": {
-    "dogrudan": 18,
-    "kismi": 3,
+    "dogrudan": 19,
+    "kismi": 6,
     "desteksiz": 0,
     "olculemez": 0
   }

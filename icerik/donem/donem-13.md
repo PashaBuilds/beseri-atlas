@@ -423,8 +423,7 @@ Doğrudan çatışma, salgın, kıtlık ve yerinden etme kaynaklı ölümler
 ayrı ayrı sayılabilir ya da birleştirilebilir.[^k4] Tercih, toplamı
 kat kat değiştirir.
 
-Bu, korpusun tarihsel sayılar
-kuralının doğrudan uygulamasıdır.[^k5]
+Bu nedenle tarihsel sayılar, tanım ve kapsam bilgisiyle birlikte verilmelidir.[^k5]
 
 ## Sömürge askerleri
 
@@ -479,9 +478,8 @@ Dosya, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
 dosyasında ayrıntılı ele alınır ve burada yalnızca döneme
 bağlanır.
 
-Sorumluluk tartışmaları burada karara bağlanmaz.[^k6] İki savaşın
-sorumluluğu, korpusun ayrı tartışma dosyalarında ele
-alınır.
+Sorumluluk tartışmaları burada karara bağlanmaz.[^k6] İki savaşın neden ve
+sorumlulukları, rakip açıklamaları karşılaştıran ayrı tartışmalarda ele alınır.
 
 Sayısal seriler burada yorumlanır, üretilmez.[^k4] Serilerin
 kaynakları ve yöntemleri bağlantılı veri incelemelerinde ayrı ayrı
@@ -516,9 +514,8 @@ geri getirilmesi, kendiliğinden olmaz; ayrı bir karardır.[^k4]
 Aynı yıllarda birçok ülkede oy hakkı genişletildi.[^k1] Genişleme,
 savaş katkısıyla açıkça gerekçelendirildi.
 
-Bu, korpusun tekrar eden bir ölçümüdür.[^k6] Bir yükümlülüğün
-paylaşılması, karşılığında hak talebini
-meşrulaştırır.
+Bir yükümlülüğün paylaşılması, karşılığında hak talebini meşrulaştırır; savaş
+katkısının siyasal temsil talebine dönüşmesi bunun belirgin örneğidir.[^k6]
 
 Genişleme her yerde aynı kapsamda olmadı.[^k5] Yaş ve mülk şartları
 bazı ülkelerde korundu.
@@ -608,6 +605,26 @@ başka kararlar da mümkündü.
 
 Bir sonucun zeminini göstermek, o sonucun zorunlu
 olduğunu göstermekle aynı şey değildir.[^k2][^k6]
+
+## Birbirini büyüten krizler
+
+1914–1945 arasındaki felaketleri bağımsız olaylar dizisi gibi okumak, aralarındaki
+aktarımı kaçırır. Birinci Dünya Savaşı'nın kitlesel seferberliği devletlerin üretim,
+emek ve bilgiyi yönetme kapasitesini genişletti; imparatorlukların dağılması ise yeni
+sınırlar ile azınlık sorunları yarattı. Versailles'ın tazminat hükümleri savaşın
+maliyetini barış düzenine taşıdı, fakat sonraki krizi tek başına bu maddelerle
+açıklamak yeterli değildir.[^k6] Savaş borçları, kırılgan para düzeni ve 1929'dan
+sonra daralan ticaret birbirini güçlendirdi.[^k1][^k5]
+
+Ekonomik çöküş demokratik rejimleri her yerde aynı sonuca götürmedi; kurumların
+dayanıklılığı, toplumsal ittifaklar ve siyasal şiddetin örgütlenmesi farklı yollar
+üretti. Faşist yönetimler kitle siyaseti ile devlet kapasitesini ırkçı fetih
+programlarına bağladı. İkinci Dünya Savaşı'nda sivillerin doğrudan hedef hâline
+gelmesi, soykırım ve büyük nüfus hareketleri “cephe” ile “cephe gerisi” ayrımını
+aşındırdı.[^k2] Sömürgelerden asker, hammadde ve vergi çekilmesi de iki savaşın
+Avrupa içi çatışmalardan ibaret olmadığını gösterir. 1945'te kurulan yeni kurumlar,
+yalnız barış idealinin değil; birbirine eklenen askerî, ekonomik ve insani krizlerin
+tekrarını önleme arayışının ürünüdür.
 
 ## Fikir dünyası
 

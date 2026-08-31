@@ -62,7 +62,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Popol Vuh, bir topluluğun dünyanın ve kendi soyunun oluşumunu anlatan
@@ -74,23 +73,17 @@ Anlatının işlevi eğlendirmek değildir. Kimin nereden geldiği ve hangi topr
 üzerinde söz sahibi olduğu bu metinle gerekçelendirilir;[^k1] son bölümler
 soy listesine dönüşür.
 
-Bu yapı, korpusun başka bölgelerdeki kuruluş anlatılarında da görülür.[^k2]
-Bir kuruluş anlatısı, geçmişi anlatırken bugünkü bir hak iddiasını
-dayandırır; iki iş aynı metinde yürür.
+Bir kuruluş anlatısı, geçmişi anlatırken bugünkü bir hak iddiasını dayandırır; iki iş
+aynı metinde yürür.
 
 ## Kaydın ikili durumu
 
-Metin, kaydedildiği anda iki dünyaya birden aittir ve bu incelemenin asıl
-konusu budur.[^k1][^k2] Anlatı fetih öncesine dayanır; yazıya geçirilişi ise
-fetihten sonradır ve fetheden tarafın alfabesiyle yapılmıştır.
+Anlatı fetih öncesine dayanır; yazıya geçirilişi ise fetihten sonradır ve fetheden
+tarafın alfabesiyle yapılmıştır.
 
 Bu durum kaydı değersiz kılmaz ama okunuşunu değiştirir. Yazıcılar, kendi
 topluluklarının anlatısını, o topluluğu ortadan kaldırmakta olan bir düzenin
 harfleriyle kaydetmişlerdir.[^k2] Seçilen her karşılık bir tercihtir.
-
-::tartismali[Metnin ne kadarının fetih öncesi sözlü aktarımı taşıdığı, ne
-kadarının yazıya geçiriliş anındaki koşullardan etkilendiği tartışmalıdır;
-korpus iki okumadan birini benimsemez.]{harita=tartisma-kesif-mi-istila-mi}
 
 Tarih alanındaki yıl,
 anlatının değil kaydın tarihidir.[^k1]
@@ -101,19 +94,14 @@ Bugün elde bulunan metin, ilk kaydın kendisi değildir.[^k2] Elimizdeki
 biçim, sonraki bir yüzyılda bir din adamının yaptığı kopya ve çeviri
 üzerinden gelir.
 
-Zincirin her halkası bir müdahale imkânıdır ve bu, korpusun elyazması
-kaynaklarında olağan bir durumdur.[^k2] Burada özel olan, halkaların farklı
-dinî ve siyasi konumlarda bulunmasıdır.
+Burada özel olan, halkaların farklı dinî ve siyasi konumlarda bulunmasıdır.
 
-Kullanılan kaynak, bu zincirin sonundaki standart okumayı sunar.[^k1] Korpus
-tek bir okumaya bağlanmanın sınırını kaydeder ve metne yapılacak atıflarda
-hangi çevirinin kullanıldığının belirtilmesini şart koşar.
+Kullanılan kaynak, bu zincirin sonundaki standart okumayı sunar.[^k1]
 
 ## Kıyaslamalı okuma
 
-Aynı kıtada, aynı yüzyılda ve benzer koşullarda yazılmış bir başka metin
-korpusta bulunur.[^k3] İki metin farklı işler yapar ama aynı durumdan doğar:
-yerli bir kayıt, fetheden düzenin yazı sistemiyle tutulmuştur.
+İki metin farklı işler yapar ama aynı durumdan doğar: yerli bir kayıt, fetheden düzenin
+yazı sistemiyle tutulmuştur.
 
 Fark yönlerindedir. Bu incelemedeki metin geçmişe bakar ve bir soyu
 dayandırır; öteki metin bugüne bakar ve bir yönetimi suçlar.[^k1][^k3]
@@ -123,9 +111,7 @@ soruyla geldiğine bağlıdır.[^k2]
 
 ## Kapsam dışı
 
-Bu inceleme metnin ne olduğunu ve hangi koşullarda kaydedildiğini yazar; bölüm
-bölüm içeriğini vermez.[^k1] Metnin kendisi kaynakta erişilebilir
-durumdadır.
+Metnin kendisi kaynakta erişilebilir durumdadır.
 
 Anlatının başka bölgelerin kuruluş anlatılarıyla karşılaştırılması burada
 işlenmez.[^k2] Böyle bir karşılaştırma, [Anakronizm](/kavram/anakronizm/)

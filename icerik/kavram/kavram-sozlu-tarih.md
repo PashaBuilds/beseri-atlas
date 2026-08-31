@@ -56,7 +56,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak, büyüme ve gelişme başlığı altında bölge bölge alt başlıklar tutar:
 Avrupa (Büyük Britanya ve İrlanda), İtalya, Sovyet sonrası ve Doğu Bloku
 devletleri (Belarus, Çek Cumhuriyeti), İspanya, Birleşik Devletler (halkbilim
@@ -64,10 +63,6 @@ kökleri ve sıradan insanlar), Asya (Suriye, Filistin, Çin, Özbekistan,
 Güneydoğu Asya, Güney Asya) ve Okyanusya.[^k1]
 
 ## Yöntem tek bir merkezden yayılmamıştır
-
-Bir yöntemin gelişiminin bu kadar çok bölgede ayrı ayrı işlenmesi,[^k1] korpusun
-şu kuralının dayanağıdır: bu korpusta sözlü tarih, bir bölgeye ait bir yenilik
-olarak anılmaz.
 
 ## Halkbilim kökleri ayrıca kaydedilir
 
@@ -91,7 +86,6 @@ Sözlü aktarımın metne dönüşmesine dair bir kayıt, erken metinlerdeki diy
 hikâyelerin çeşitli temsiller ve kaygılar yansıttığını yazar.[^k3] O örnek
 [Konfüçyüs](/dusunur/konfucyus/) dosyasında, kaynak sınıflandırması ise
 [Birincil kaynak](/kavram/birincil-kaynak/) dosyasında ele alınıyor.
-
 
 ## Aktarımın düzeni
 
@@ -185,7 +179,6 @@ yol açar.
 İki bağımsız kanıt türünün örtüşmesi, tek
 tek her birinden güçlü bir bulgudur.[^k3]
 
-
 ## Yakın dönemde kullanımı
 
 Kavram yalnızca eski dönemler için değildir.[^k1] Yakın dönemde
@@ -198,6 +191,18 @@ konuşurlar.
 
 Sözlü kayıt, kaydı olmayanların
 kaydını üretmenin en doğrudan yoludur.[^k3]
+
+## Hafıza kusur değil, ayrıca bir kanıttır
+
+Sözlü tarih anlatısı olayın anlık kaydı değildir; hatırlama, unutma ve sonraki
+deneyimler görüşme anında birlikte çalışır.[^k1] Bu özellik tanıklığı değersiz kılmaz,
+fakat iki soruyu ayırmayı gerektirir: Ne oldu ve kişi bugün olanı nasıl anlamlandırıyor?
+Görüşmecinin soruları, güç ilişkisi ve kayıt koşulları da cevabı biçimlendirir.
+Tarihler başka belgelerle sınanırken anlatının vurgu ve sessizlikleri toplumsal hafıza
+hakkında bağımsız kanıt olarak korunmalıdır.[^k2]
+
+Sessizlik de yorumlanmalı, fakat görüşmecinin hiç sormadığı konuyla anlatıcının
+bilinçli olarak sustuğu konu aynı sayılmamalıdır.[^k1]
 
 ## Kanıtın ve kapsamın sınırı
 Yöntemin teknikleri, arşivleme ve etik kurallar burada ayrı başlıklar altında ele

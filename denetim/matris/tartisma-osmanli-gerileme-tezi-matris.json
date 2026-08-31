@@ -1,7 +1,7 @@
 {
   "id": "tartisma-osmanli-gerileme-tezi",
-  "govde_hash": "9ea4062c5873",
-  "commit": "9181554",
+  "govde_hash": "c99167cd60d6",
+  "commit": "889239af",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -632,6 +632,12 @@
     {
       "zaman": "2026-08-29",
       "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "9ea4062c5873",
+      "yeni_hash": "c99167cd60d6",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
     }
   ]
 }

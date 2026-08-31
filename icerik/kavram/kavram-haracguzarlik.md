@@ -43,15 +43,10 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak, uygulamada başlığı altında beş alt başlık tutar: meşruiyet, özerklik,
 haraç, kültür ve törenler.[^k1]
 
 ## Özerklik sistemin kendi başlığıdır
-
-Bir bağlılık sisteminin ansiklopedi maddesinde özerkliğin ayrı bir alt başlık
-taşıması,[^k1] korpusun şu kuralının dayanağıdır: bu incelemede haraçgüzarlık, bir
-egemenlik kaybı olarak değil bir ilişki türü olarak anılır.
 
 ## Törenler ayrı ayrı işlenir
 
@@ -83,7 +78,6 @@ kaydedilmesi,[^k2] bağımlılığın tek bir derecesi olmadığını gösterir;
 Tören ve hiyerarşi geleneği için tutulan kayıt, Konfüçyüs'ün tarihlerini
 geleneksel kaydıyla MÖ 551-479 olarak verir.[^k3] O düşünür
 [Konfüçyüs](/dusunur/konfucyus/) dosyasında ele alınıyor.
-
 
 ## Ne değildir
 
@@ -146,8 +140,7 @@ değil, bağlılığın kaç kez bildirileceğidir.[^k3]
 
 ## Çifte bağlılık
 
-Bir düzen aynı anda birden çok merkeze haraç
-gönderebilir.[^k1] Korpusun Ryukyu dosyasında bu durum kayıtlıdır.
+Bir düzen aynı anda birden çok merkeze haraç gönderebilir.[^k1]
 
 Çifte bağlılık gizlenebilir.[^k2] Her merkeze diğeri anlatılmaz.
 
@@ -179,7 +172,6 @@ gerektirmez.
 Bir ödemeyi haraç saymak, onun ne
 karşılığında yapıldığının gösterilmesini gerektirir.[^k3]
 
-
 ## Nasıl kullanılır?
 Haraç ödeyen bir düzen bağımsızlığını
 koruyor olabilir.[^k1]
@@ -188,7 +180,6 @@ Belirleyici olan, ödemenin karşılığında elde edilenin ödenenden
 büyük olup olmadığıdır.[^k2] Bu hesap her dosyada ayrı
 yapılır.[^k3]
 
-
 ## Diğer bölgelerdeki karşılıkları
 
 Benzer düzenler farklı kıtalarda da kuruldu.[^k1] Ortak yan, ödeyenin
@@ -196,6 +187,15 @@ kendi yönetimini korumasıdır.
 
 Farklar da vardır.[^k2] Bazı düzenlerde ödeme bir kereye mahsus, bazı
 düzenlerde nesillere yayılan bir yükümlülüktür.[^k3]
+
+## Vergi ve vasallıktan ayırmak
+
+Haraç, düzenli ödeme içerse de modern vergiyle aynı ilişkiyi kurmaz. Ödeme yapan
+siyasal birim iç yönetimini koruyabilir; karşılığında barış, ticaret hakkı veya
+tanınma elde edebilir.[^k1] Vasallık ise daha kişisel sadakat ve askerî yükümlülük
+içerebilir. Bir ilişkiyi haraçgüzarlık saymak için ödemenin miktarı kadar tarafların
+egemenlik iddiası, tören dili ve ödemenin kesildiğinde doğan sonuçlar incelenmelidir.
+Tek bir armağan kaydı kalıcı bağımlılığı kanıtlamaz.[^k2]
 
 ## Kanıtın ve kapsamın sınırı
 Sistemin tanımı, haraç kalemleri ve ülke ülke tarihler burada ayrı başlıklar

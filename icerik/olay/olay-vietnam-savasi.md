@@ -98,7 +98,6 @@ son_denetim: 2026-08-29
 denetim_durumu: onaylandi
 onarim_turu: 1
 ---
-
 Ho Chi Minh'in komutasındaki Viet Minh güçleri, dört ay süren bir kuşatmanın
 ardından 1954'te Dien Bien Phu'daki Fransız garnizonunu düşürdü; Fransa
 Çinhindi'nden çekildi ve boşalan yere Amerika Birleşik Devletleri girdi.[^k2]
@@ -110,7 +109,10 @@ Savaşın ağırlığı yalnızca süresinden gelmiyor. Amerikan tarafında ola�
 belge bolluğu var — savunma bakanlığının kendi emriyle hazırlattığı gizli bir
 inceleme, kongreden alınan yetkinin metni, ölenlerin tek tek kaydedildiği bir
 kütük. Bu bolluk, savaşın en çok anılan gerekçelerinden birinin yıllar sonra
-devletin kendi kurumu içinden düzeltilmesini de mümkün kıldı.[^k5] Vietnam
+devletin kendi kurumu içinden düzeltilmesini de mümkün kıldı.[^k5] İstihbaratı
+toplayan kurumun gizli dergisinde 2001 başında yayımlanan inceleme, bir bilgi
+edinme başvurusunun ardından 2005 Aralık'ında yüz kırktan fazla belgeyle birlikte
+gizlilikten çıkarıldı.[^k5] Vietnam
 tarafında karşılaştırılabilir bir kütük yok; ölü sayısı hâlâ tek bir rakam değil,
 hangi yöntemle sayıldığına göre değişen bir aralıktır.[^k7][^k8]
 
@@ -209,23 +211,16 @@ ortak savunma antlaşmasıyla tanımlandığını söyleyerek yeni bir karar de�
 bir sözün sürdürülmesini istiyordu.[^k4] Tonkin Körfezi böylece bir başlangıç
 değil, on yıllık bir taahhüdün tahsil edildiği an olarak sunuldu.
 
-Otuz yedi yıl sonra bu iskeletin olgusal dayanağı sarsıldı. İstihbaratı toplayan
-kurumun gizli dergisinde 2001 başında yayımlanan bir inceleme kayıtları yeniden
-okudu; kurum, bir bilgi edinme başvurusunun ardından 2005 Aralık'ında yüz kırktan
-fazla belgeyi, bu incelemeyle birlikte gizlilikten çıkardı.[^k5] Kurum tarihçisi
-Robert J. Hanyok'un vardığı sonuç şudur: 2 Ağustos'ta bir Amerikan muhribine
-yönelik saldırı — kuşkulu koşullarda da olsa — gerçekten olmuştur, ama 4 Ağustos
-1964'te ikinci bir saldırı olmamıştır.[^k5] Hanyok bir örtbasın kesin kanıtını
-bulamadığını yazar; eldeki verinin o gecenin iddiasına uydurulması yönünde etkin
-bir çabaya işaret ettiğini söylemekle yetinir.[^k5] Bu, dışarıdan gelen bir
-suçlama değil, istihbaratı rapor eden kurumun kendi tarihçisinin düzeltmesidir;
-kaynağa göre tarihçilerin uzun süredir savunduğunu doğrulamış, kurumun eski
-mensupları arasında tartışma yaratmıştır.[^k5]
+Otuz yedi yıl sonra bu iskeletin olgusal dayanağı sarsıldı. Kurum tarihçisi Robert J.
+Hanyok'un vardığı sonuç şudur: 2 Ağustos'ta bir Amerikan muhribine yönelik saldırı —
+kuşkulu koşullarda da olsa — gerçekten olmuştur, ama 4 Ağustos 1964'te ikinci bir
+saldırı olmamıştır.[^k5] Hanyok bir örtbasın kesin kanıtını bulamadığını yazar; eldeki
+verinin o gecenin iddiasına uydurulması yönünde etkin bir çabaya işaret ettiğini
+söylemekle yetinir.[^k5] Bu, dışarıdan gelen bir suçlama değil, istihbaratı rapor eden
+kurumun kendi tarihçisinin düzeltmesidir; kaynağa göre tarihçilerin uzun süredir
+savunduğunu doğrulamış, kurumun eski mensupları arasında tartışma yaratmıştır.[^k5]
 
-::tartismali[Düzeltmenin neyi değiştirdiği ayrı bir sorudur: ikinci saldırının
-olmaması, o saldırı olmasaydı tırmanmanın da olmayacağı anlamına gelmez, çünkü
-kararın metni tek bir geceye değil daha geniş bir ittifak taahhüdüne
-dayandırılmıştı.]{harita=tartisma-karsi-olgusal-tarih}
+::tartismali[Düzeltmenin neyi değiştirdiği ayrı bir sorudur: ikinci saldırının olmaması, o saldırı olmasaydı tırmanmanın da olmayacağı anlamına gelmez, çünkü kararın metni tek bir geceye değil daha geniş bir ittifak taahhüdüne dayandırılmıştı.]{harita=tartisma-karsi-olgusal-tarih}
 
 ## Vietnamlaştırma, Paris ve Saigon
 
@@ -286,10 +281,7 @@ yazar — tahmin yalnızca doğrudan şiddet ölümlerini kapsar, savaşa bağla
 bütün fazla ölümleri değil; pasif bildirime dayanan veri tabanı ise aynı ülke ve
 dönem için bunun 1,8'de biri kadarını, 2,1 milyon ölümü kaydeder.[^k8]
 
-::tartismali[İki sayı aynı şeyi ölçmez: biri tek bir ordunun personel kütüğü,
-öteki iki tarafı ve daha uzun bir dönemi kapsayan nüfus temelli bir tahmindir.
-Yan yana toplamak da doğrudan karşılaştırmak da yöntem
-hatasıdır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[İki sayı aynı şeyi ölçmez: biri tek bir ordunun personel kütüğü, öteki iki tarafı ve daha uzun bir dönemi kapsayan nüfus temelli bir tahmindir. Yan yana toplamak da doğrudan karşılaştırmak da yöntem hatasıdır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 ## Kaydın kendi sınırını yazdığı yer
 
@@ -312,10 +304,9 @@ için mi olduğunu ayırt edemediklerini kaydetti.[^k1] Bir devlet incelemesinin
 kendi anlatısının nerede bittiğini baştan yazması seyrek görülür.
 
 Kısıt yalnızca ekibin niyetinde değil, elindeki kâğıtlardaydı: Gelb 1945-1961
-belgelerinin çoğunun kaybolduğunu ya da hiç tutulmadığını, 1961 sonrasının ise
-bol kayıt bıraktığını yazar.[^k1] Bu incelemenin kaynak tabanı da ağırlıkla aynı
-taraftan gelir; Hanoi'nin karar kâğıtları buradaki künyelerle ölçülmemiştir. Bu,
-anlatıyı geçersiz kılmaz ama hangi taraftan bakıldığını hatırlatır.
+belgelerinin çoğunun kaybolduğunu ya da hiç tutulmadığını, 1961 sonrasının ise bol kayıt
+bıraktığını yazar.[^k1] Bu, anlatıyı geçersiz kılmaz ama hangi taraftan bakıldığını
+hatırlatır.
 
 ## Savaşın hâlâ yürürlükte olan kısmı
 

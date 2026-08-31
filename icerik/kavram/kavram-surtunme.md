@@ -48,15 +48,10 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak bölümlerini sıralar: köken, askerî kullanım ve benzetimler ile oyunlar;
 sonuncusunun altında video oyunları ayrı bir alt başlıktır.[^k1]
 
 ## Askerî ve oyunsal kullanım yan yana durur
-
-Bir askerî kavramın maddesinde oyun tasarımının ayrı bir bölüm taşıması,[^k1]
-korpusun şu kuralının dayanağıdır: bu incelemede sürtünme, yalnızca tarihsel bir
-askerî terim olarak değil bugün de kullanılan bir modelleme kavramı olarak anılır.
 
 ## Kuramcının kendi tanımı
 
@@ -65,10 +60,7 @@ beklenmedik gelişmelerin uyanık komutanlardan hızlı kararlar gerektirdiğini
 durumun eksik, şüpheli ve çoğu kez hatalı bilgi ile büyük korku, kuşku ve heyecan
 karşısında yaşandığını yazar.[^k2]
 
-Bilginin niteliğinin üç sıfatla birden tanımlanması,[^k2] korpusun kaynak
-doğrulama kapısıyla aynı sorunu paylaşır: bir kaydın eksik mi şüpheli mi hatalı
-mı olduğu ayrı ayrı sorulur. Kuramcı
-[Carl von Clausewitz](/dusunur/clausewitz/) dosyasında ele alınıyor.
+Kuramcı [Carl von Clausewitz](/dusunur/clausewitz/) dosyasında ele alınıyor.
 
 ## Belirsizlik üzerine önceki yazar
 
@@ -86,3 +78,73 @@ işler.[^k1]
 Bu kavramın formüle edildiği eser Clausewitz, *Savaş Üzerine* I. kitap'dir; dosya o eserin kamu malı
 tam metnine bağlanır.[^k4] Kavrama yapılacak atıflar, kavramı tanımlayan
 bölüm belirtilerek verilmelidir.
+
+## Savaş sisi ile sürtünme arasındaki fark
+
+Savaş sisi, karar vericinin düşman, arazi, kendi birlikleri ve olayların seyri
+hakkındaki bilgisinin eksik veya yanlış olmasını anlatır. Sürtünme daha geniştir:
+kâğıt üzerinde kolay görünen bir planı gerçek dünyada zorlaştıran küçük ve büyük
+engellerin toplamıdır. Yanlış haber bunun bir parçasıdır; yorgunluk, bozulan araç,
+geciken emir, kötü hava, korku, yolun kapanması ve iki birimin aynı saatte hareket
+edememesi de sürtünme yaratır. Bilgi kusursuz olsa bile uygulama aksayabilir.[^k1][^k2]
+
+Bu ayrım nedensellik için önemlidir. Komutan hedefi yanlış seçtiyse stratejik
+değerlendirme hatası; doğru hedefe giden emrin dili belirsizse iletişim hatası;
+emir açık olduğu halde yakıt yetişmediyse lojistik sürtünme vardır. Hepsini
+“savaş sisi” diye adlandırmak, hangi kapasitenin geliştirilmesi gerektiğini
+gizler. Kavram, yenilgiyi açıklayan sihirli mazeret değil, plan ile gerçekleşen
+arasındaki farkı bileşenlerine ayırma aracıdır.
+
+## Neden küçük aksaklıklar büyür?
+
+Karmaşık harekâtlar birbirine bağlı çok sayıda adımdan oluşur. Bir köprünün
+geç açılması yalnız tek bir birimi değil, onun koruyacağı ikmal hattını ve başka
+bir kolun zamanlamasını da etkileyebilir. Haber geciktikçe karar eski bilgiye
+dayanır; karar değiştikçe yeni emirlerin ulaşması gerekir. Böylece başlangıçta
+önemsiz görünen sapmalar birikerek planın bütün ritmini bozar. Clausewitz’in
+belirsizlik, korku ve hızlı karar ihtiyacını birlikte anması, insan zihninin de
+bu zincirin parçası olduğunu gösterir.[^k2]
+
+Sürtünme iki tarafta eşit dağılmaz. Yerel araziyi bilen, yedek parçaya sahip,
+alt kademeye karar yetkisi veren ve hatadan öğrenen örgüt aynı koşulu daha kolay
+yönetebilir. Sert hiyerarşi emir birliğini korurken yeni duruma tepkiyi
+yavaşlatabilir; geniş özerklik hız sağlayıp birliklerin ortak amaçtan kopma
+riskini artırabilir. İyi örgütlenme sürtünmeyi yok etmez, beklenmeyen durumda
+işlevi sürdürecek yedek yollar kurar.
+
+## Belirsizlik altında karar
+
+Karar verici tam bilgi gelene kadar beklerse fırsatı kaçırabilir; erken hareket
+ederse yanlış varsayıma dayanabilir. Bu ikilemde seçeneklerin geri döndürülebilirliği,
+beklemenin maliyeti ve en kötü sonucun ağırlığı değerlendirilir. Keşif, haberleşme
+ve istihbarat belirsizliği azaltır; hiçbir zaman sıfırlamaz. Birden fazla senaryo,
+yedek plan, basit emir ve açık öncelik, bilinmeyeni kabul ederek hareket etmeye
+yardım eder.
+
+[Caydırıcılık](/kavram/caydiricilik/) karşı tarafın niyet ve maliyet hesabını
+etkilemeye çalışır. Sürtünme ise verilen tehdidin gerçekten uygulanıp
+uygulanamayacağını ve tarafların birbirinin kapasitesini nasıl yanlış
+okuyabileceğini gösterir. [Topyekûn savaş](/kavram/topyekun-savas/) seferberliğin
+ölçeğini büyüttükçe üretimden cepheye uzanan bağlantı sayısı da artar; merkezi
+kapasite güçlenirken yeni sürtünme noktaları doğabilir.
+
+## Tarihsel açıklamada kullanım
+
+Bir harekât anlatılırken sonuçtan geriye doğru “zaten kaçınılmazdı” denmemelidir.
+Aktörlerin o anda bildiği bilgi, verdiği emir, sahip olduğu süre ve karşılaştığı
+beklenmedik olaylar yeniden kurulmalıdır. Günlük, emir defteri, ikmal kaydı,
+hava raporu ve farklı birliklerin tanıklıkları aynı planın değişik katmanlarını
+gösterir. Sonradan yazılan hatırat yenilgiyi mazeretlendirebilir; resmî rapor
+kurumsal kusuru gizleyebilir. Kaynak eleştirisi sürtünme iddiasının parçasıdır.
+
+Kavram bugün oyun tasarımında oyuncunun bütün haritayı ve rakibi görememesi için
+kullanılan mekaniklerle de temsil edilir.[^k1] Fakat ekranı karartmak yalnız bilgi
+eksikliğini modeller; gerçek savaşın yorgunluk, bakım, korku, gecikme ve yanlış
+anlama boyutlarını kendiliğinden taşımaz. Benzetme öğreticidir, gerçekliğin tam
+kopyası değildir.
+
+Sürtünmeyi anlamak, iyi planın değersiz olduğu sonucuna götürmez. Tam tersine
+planın tek bir kusursuz akış yerine hata payı, yedek kapasite ve yerel uyarlama
+içermesi gerektiğini gösterir. Güçlü tarihsel açıklama da “plan başarısız oldu”
+demekle yetinmez; hangi engelin hangi bağlantı üzerinden sonucu değiştirdiğini
+ve aynı engelin başka bir örgütte neden farklı sonuç verebileceğini gösterir.[^k2][^k4]

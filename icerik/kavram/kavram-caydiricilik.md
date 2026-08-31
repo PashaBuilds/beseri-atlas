@@ -44,15 +44,10 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak, kavram bölümünün altında üç alt başlık tutar: orantılılık, karşılıklılık
 ve zorlayıcı inandırıcılık.[^k1]
 
 ## Kavram üç ölçüte ayrılmıştır
-
-Bir askerî kavramın üç ayrı ölçütle tanımlanması,[^k1] korpusun şu kuralının
-dayanağıdır: bu incelemede caydırıcılık, tek bir yetenek olarak değil bir ölçüt
-demeti olarak anılır.
 
 ## Akılcı sürümü ayrı bir bölümdür
 
@@ -81,7 +76,6 @@ Thomas Hobbes için tutulan kayıt, onu 1588-1679 arasına yerleştirir ve siyas
 felsefesinde mutlak egemenliği savunduğunu yazar; *Leviathan*'ın 1651'de
 yayımlandığı da kaydedilir.[^k3] O yazar
 [Thomas Hobbes](/dusunur/hobbes/) dosyasında ele alınıyor.
-
 
 ## Mekanizma
 
@@ -159,7 +153,6 @@ demektir.
 Bir caydırıcılık aracının kullanılması, o aracın
 amacına ulaşmadığının kaydıdır.[^k3]
 
-
 ## Tarihsel öncüller
 
 Kavram yirminci yüzyılda adlandırıldı ama mekanizma çok daha
@@ -185,7 +178,6 @@ getirir.[^k2] Kapasitenin bilinmesi, kapasitenin kendisi kadar
 Gizli tutulan bir kapasite caydırmaz;
 caydırıcılık gizlilikle değil görünürlükle işler.[^k3]
 
-
 ## Savunma ile farkı
 
 Caydırıcılık savunmadan ayrıdır.[^k1] Savunma saldırıyı durdurmayı,
@@ -198,6 +190,15 @@ yatırım yapar.
 
 Bir düzenin hangi stratejiyi seçtiği, askerî
 harcamasının nereye gittiğinden okunur.[^k3]
+
+## Üç koşul ve bir kanıt sorunu
+
+Caydırıcılık için yalnız zarar verme kapasitesi yetmez; tehdidin inanılır olması ve
+karşı tarafa doğru biçimde iletilmesi gerekir.[^k1] Aşırı belirsizlik yanlış hesaba,
+aşırı kesinlik ise rakibin karşı önlem geliştirmesine yol açabilir. Başarıyı ölçmek
+zordur, çünkü sonuç gerçekleşmeyen bir eylemdir: saldırının tehdit yüzünden mi, başka
+bir nedenle mi yapılmadığı doğrudan gözlenemez. Karar kayıtları ve rakibin algısı bu
+nedenle silah sayısından daha açıklayıcı olabilir.[^k2]
 
 ## Kanıtın ve kapsamın sınırı
 Nükleer caydırıcılık kuramı, örnekler ve eleştiriler burada ayrı başlıklar

@@ -251,8 +251,8 @@ biriktiği, o rekabetin kimin adına yürütüldüğünden ayrı bir veridir.[^k
 Silahların işlevi kullanılmak değil, kullanılabilir sayılmaktı.[^k1]
 Etki, envanterin varlığından geliyordu.
 
-Bu, korpusun caydırıcılık dosyasında ele alınan yapıdır.[^k3] Caydırıcılık,
-karşı tarafın hesabını değiştirmeye dayanır.
+Caydırıcılık bu hesap üzerinden işler: amaç silahı kullanmaktan önce karşı tarafın
+beklenen maliyet değerlendirmesini değiştirmektir.[^k3]
 
 Bir caydırıcılık iddiası, ancak
 sınandığı ve çalıştığı durumlarla doğrulanabilir; hiç sınanmaması kanıt üretmez.[^k2]
@@ -277,9 +277,8 @@ kararla benimsenen bir ilkeydi.
 Gerekçe pratikti.[^k3] Sınırların yeniden çizilmesi, kıta ölçeğinde
 çatışma riski taşıyordu.
 
-Bölgede yaşamayanlarca çizilmiş sınırların
-korunması, korpusta tekrar eden bir ölçümün doğrudan sonucudur: karar bir kez dışarıda
-alındığında etkisi kendi kaldırılmasından sonra da sürer.[^k2]
+Bölgede yaşamayanlarca çizilmiş sınırların korunması, dışarıda alınan bir kararın
+onu kuran yönetim ortadan kalktıktan sonra da etkisini sürdürebildiğini gösterir.[^k2]
 
 ## Bağımsızlığın biçimleri
 
@@ -403,9 +402,8 @@ Fiyat yükselişi, kaynak sahibi ülkelerin pazarlık gücünü
 artırdı.[^k4] Üretici ülkelerin kurduğu ortak yapı, fiyat üzerinde
 etkili oldu.
 
-Bu, korpusun tek ürüne bağlanma dosyasındaki yapıya bir istisna
-sunar.[^k1] Tek ürüne bağlı olmak, o ürünün arzı sınırlıysa güç de
-verebilir.
+Bu örnek, tek ürüne bağımlılığın her koşulda aynı sonucu vermediğini gösterir.[^k1]
+Ürünün arzı sınırlı ve talebi yüksekse bağımlılık geçici bir pazarlık gücü de verebilir.
 
 Bağımlılığın yönü, ürünün ikame edilebilirliğine
 göre değişir.[^k5]
@@ -429,9 +427,8 @@ istihbarat örgütleri kurdu.
 Bu, dönemin kaydı açısından bir sonuç doğurdu.[^k3] Karar süreçlerinin
 önemli bölümü gizli tutuldu ve uzun süre erişilemez kaldı.
 
-Bu, korpusun Cezayir dosyasında kaydedilen ölçümün
-bir başka örneğidir: bir olayın kaydına erişim tarihi, o olay hakkındaki bilginin
-tarihidir.[^k2]
+Bu örnek, arşive erişim tarihinin olay hakkındaki bilginin zamanını da belirlediğini
+gösterir; gizlilik yalnız belgenin dolaşımını değil tarih yazımını da geciktirir.[^k2]
 
 ## Kültürel rekabet
 
@@ -555,9 +552,8 @@ Sabit kur sistemi terk edildi.
 Bu, sonraki dönemin sermaye hareketlerinin önünü açtı.[^k1] Kurların
 serbest bırakılması, sermaye akışlarını da serbestleştirdi.
 
-Bir dönemin sonundaki teknik bir
-kararın, sonraki dönemin tanımlayıcı özelliğini kurması korpusta tekrarlanan bir
-örüntüdür.[^k5]
+Bir dönemin sonundaki teknik karar, sonraki dönemin tanımlayıcı altyapısını kurabilir;
+sonuç çoğu zaman icat anından sonra görünür hâle gelir.[^k5]
 
 ## Borç birikimi
 
@@ -672,8 +668,33 @@ sürekli hazırlık hâlini anlatır.
 Adın kendisi taraflardan birinin kullanımıyla yaygınlaştı.[^k3] Karşı
 taraf uzun süre farklı adlandırmalar kullandı.
 
-Bir dönemin yaygın adı, o adı üreten
-tarafın çerçevesini de taşır ve korpus adı kullanırken bu kaydı düşer.[^k5][^k4]
+Bir dönemin yaygın adı, o adı üreten tarafın çerçevesini de taşır; “Soğuk Savaş”
+ifadesi kullanılırken bu bakış açısı gözden kaçırılmamalıdır.[^k5][^k4]
+
+## İki kutuplu düzenin içindeki çoğul dünya
+
+Soğuk Savaş'ın ABD–Sovyet rekabeti güçlü bir üst çerçeve sunar, fakat 1945–1991
+dönemindeki bütün kararları iki merkezin hamlelerine indirgemek bağımsız aktörleri
+görünmez kılar. Asya ve Afrika'daki sömürgesizleşme hareketleri yalnız bir blok
+tarafından yönlendirilen vekiller değildi; kendi egemenlik, kalkınma ve toplumsal
+dönüşüm programlarını taşıdı. Yeni devletler askerî ve mali yardımı pazarlık aracı
+olarak kullanabildi, Bağlantısızlar ise iki kutupluluğun dışında ortak bir siyasal
+alan kurmaya çalıştı.[^k1]
+
+Rekabetin maddi yüzü kalkınma yarışında görüldü. Hızlı nüfus artışı, kentleşme,
+eğitim ve sağlık yatırımları gündelik hayatı dönüştürürken büyümenin hızı ile
+dağılımı ülkeler arasında büyük ölçüde değişti.[^k2][^k4][^k5] Nükleer caydırıcılık
+büyük güçler arasında doğrudan savaşı sınırlandırdı; buna karşılık Kore, Vietnam,
+Afganistan ve başka bölgelerde savaşın yükü yerel toplumlara taşındı.[^k3] Dolayısıyla
+“uzun barış” değerlendirmesi, hangi coğrafyanın ve hangi şiddet türünün sayıldığına
+bağlıdır. 1991'de Sovyetler Birliği'nin dağılması askerî kutuplardan birini ortadan
+kaldırdı, fakat sömürgesizleşmenin bıraktığı sınırlar, kalkınma eşitsizlikleri ve
+nükleer düzen sonraki dönemin başlangıç koşulları olarak kaldı.
+
+Gündelik hayat açısından bu dönem, süper güç diplomasisinden daha geniştir: aşılar,
+kitle eğitimi, televizyon, otomobil ve yeni tüketim kalıpları toplumsal beklentileri
+değiştirdi. Bu dönüşümlerin hızı ve erişimi, gelir ile devlet kapasitesine göre son
+derece eşitsizdi.[^k2][^k4][^k5]
 
 ## Fikir dünyası
 

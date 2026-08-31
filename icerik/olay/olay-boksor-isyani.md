@@ -41,7 +41,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Bu isyanın süresi gün gün verilir: 1 yıl, 11 ay, 1 hafta ve 3 gün; yeri Kuzey Çin
 ve Sarı Deniz'dir.[^k1]
 
@@ -163,9 +162,6 @@ Ayrıca yabancı devletlere başkentte asker bulundurma hakkı
 tanındı.[^k2] Bu, egemenliğin doğrudan
 sınırlanmasıdır.
 
-Bu, korpusun eşitsiz antlaşmalar dosyasında
-tanımlanan kalıbın en ileri örneklerindendir.[^k1]
-
 ## Tazminatın büyüklüğü
 
 Tazminat, yıllık devlet gelirinin katları düzeyindeydi.[^k2] Ödeme
@@ -174,10 +170,6 @@ eklendi.
 
 Ödeme, gümrük ve tuz gelirlerine bağlandı.[^k1] Bu gelirler fiilen
 alacaklıların denetimine geçti.
-
-Bu, korpusun aynı dönemde başka bölgelerde de
-kaydettiği bir yapıdır: egemenliğin sınırlanması için toprak kaybı gerekmez, gelirin
-denetimi yeterlidir.[^k3]
 
 ## Tazminatın geri dönüşü
 
@@ -213,9 +205,6 @@ Ad, hareketi bir isyan olarak konumlandırır.[^k3] Bu, karşı tarafın
 meşru yönetim olduğu varsayımını da
 taşır.
 
-Bir olaya verilen ad, o olayı kimin kaydettiğini
-gösterir; korpus yaygın adı kullanır ve bu kaydı düşer.[^k2]
-
 ## Sonraki dönemde etkisi
 
 Protokolün koşulları, yönetimin meşruiyetini daha da
@@ -233,9 +222,7 @@ gerçekleşmesi, birinin diğerinin nedeni olduğunu göstermez.[^k3]
 başlattı.[^k1] Ordu, eğitim ve idare yeniden
 düzenlendi.
 
-Reformun tetikleyicisi bir yenilgiydi.[^k3] Bu, korpusun başka
-dosyalarında da kaydedilen bir
-örüntüdür.
+Reformun tetikleyicisi bir yenilgiydi.[^k3]
 
 Bir kurumsal reformun tetikleyicisi çoğu
 zaman iç talep değil, dış bir yenilgi karşılaştırmasıdır.[^k2]
@@ -252,7 +239,6 @@ Yerel kayıttan doğrulanabilir birincil bir metin
 künyelenememiştir.[^k2] Künyedeki birincil belge, sekiz devletle
 imzalanan protokoldür ve bu kısıt burada beyan
 edilir.
-
 
 ## Elçilik kuşatması
 
@@ -307,7 +293,6 @@ kalıyordu.
 Yargı ayrıcalığının gündelik sonucu,
 aynı toprakta iki hukukun işlemesidir ve sürtüşme buradan doğar.[^k2]
 
-
 ## Bastırma sonrası cezalandırma
 
 Protokol, belirli görevlilerin cezalandırılmasını da
@@ -333,7 +318,6 @@ işlemdi.
 Bir anıtın dikilmesi ve kaldırılması, aynı
 olayın iki farklı dönemde nasıl adlandırıldığının kaydıdır.[^k3]
 
-
 ## Rusya'nın ayrı hareketi
 
 İttifak üyelerinden biri, ortak harekâtın yanı sıra kendi başına
@@ -347,7 +331,29 @@ izliyordu.
 Ortak bir harekâtın içinde yürütülen ayrı bir işgal,
 ittifakın hangi çıkarlar üzerine kurulduğunu açığa çıkarır.[^k2]
 
+## Hanedan kararı tek merkezden çıkmadı
+
+Qing yönetimini *Boksörleri destekledi* ya da *onları bastırdı* diye tek fiille
+anlatmak, saray, eyalet ve ordu içindeki ayrılığı siler. Bazı görevliler hareketi
+yabancı baskısına karşı kullanılabilir güç gördü; başkaları düzensiz şiddetin
+devleti savaşa sürükleyeceğinden korktu. Güneydoğu eyaletlerindeki yöneticilerin
+çatışmayı genişletmemeye çalışması, hanedanın aynı anda farklı siyasetler
+izleyebildiğini gösterir.[^k1]
+
+Bu parçalanma Sekiz Devlet İttifakı'nın askerî üstünlüğü kadar sonuç üzerinde
+etkiliydi. Başkentin işgali ve Boksör Protokolü merkezî maliyeti büyütürken yerel
+koruma ağları farklı bölgeleri başka ölçüde etkiledi. Olayı yalnız “yabancı
+karşıtı halk ayaklanması” veya “batıl bir gericilik” diye adlandırmak; kuraklık,
+misyon ayrıcalıkları, demiryolu çatışması, devlet bölünmesi ve uluslararası zorun
+aynı sahnede nasıl birleştiğini açıklamaz.[^k1]
+
+Sonucu değerlendirirken üç ölçek ayrı tutulmalıdır: hareketin yerel toplumsal
+tabanı, Qing kurumlarının karar kapasitesi ve yabancı devletlerin ortak fakat
+birbirinden farklı çıkarları. Aynı olay bu ölçeklerin hiçbirine tek başına
+indirgenemez; bağlantı aralarındaki geçişte kurulur.[^k1]
+
 ## Okumayı sürdürmek için
+
 Dönemin antlaşma düzeni için
 [Eşitsiz antlaşmalar](/kavram/esitsiz-antlasmalar/) dosyası
 okunmalıdır.[^k2]

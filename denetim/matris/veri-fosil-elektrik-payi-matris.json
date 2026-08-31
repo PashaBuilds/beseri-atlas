@@ -1,7 +1,7 @@
 {
   "id": "veri-fosil-elektrik-payi",
-  "govde_hash": "ace0c03817f6",
-  "commit": "9d53473",
+  "govde_hash": "d482f384e909",
+  "commit": "889239af",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -205,5 +205,13 @@
     "kismi": 4,
     "desteksiz": 0,
     "olculemez": 2
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "ace0c03817f6",
+      "yeni_hash": "d482f384e909",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    }
+  ]
 }

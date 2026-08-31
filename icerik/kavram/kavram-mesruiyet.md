@@ -94,7 +94,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kavram, bir iktidarın hangi gerekçeyle kabul edildiği sorusuna verilen cevaptır.
 Kaynak, otoritenin üçlü bir sınıflandırmasını kayda değer fikirler arasında sayar
 ve üç türü adlandırır: karizmatik, akılcı-yasal ve geleneksel.[^k1]
@@ -118,10 +117,8 @@ Aynı soruya farklı bir gelenekten verilen cevap için ayrı bir kayıt tutulur
 soydan gelenlerin veya başka bir sebeple aralarında yakınlık bulunanların
 muhaliflere karşı birlikte hareket etmelerini sağlayan dayanışma duygusu.[^k2]
 
-O kavram [Asabiyet](/kavram/asabiyet/) dosyasında, kavramı geliştiren düşünür ise
-[İbn Haldûn](/dusunur/ibn-haldun/) dosyasında ele alınıyor. Korpus iki cevabı
-karşılaştırmaz ve birini diğerinin öncülü saymaz; kullanılan kaynak bölümlerinde
-böyle bir bağ belirtilmemiştir.[^k1][^k2]
+O kavram [Asabiyet](/kavram/asabiyet/) dosyasında, kavramı geliştiren düşünür ise [İbn
+Haldûn](/dusunur/ibn-haldun/) dosyasında ele alınıyor.
 
 ## Bozulma da aynı sorunun parçasıdır
 
@@ -138,3 +135,54 @@ kaydedildiğini gösterir; ilgili düşünür
 Kavramın hukuk kuramındaki kullanımı, uluslararası tanınma sorunu ve modern
 demokrasi tartışmalarındaki yeri burada ayrı başlıklar altında ele alınmamıştır;
 kullanılan kaynak bölümlerinin kapsamı sınıflandırma ve karşılaştırmadır.[^k1][^k2]
+
+## İtaat ile meşruiyet aynı şey değildir
+
+Bir yönetime uyulması, onun haklı görüldüğünü tek başına göstermez. İnsanlar
+cezadan korktukları, geçimlerini korumak istedikleri ya da başka seçenek
+bulamadıkları için de itaat edebilir. Meşruiyet ise iktidarın emir verme hakkının
+ve kurumların karar alma usulünün kabul edilebilir sayılmasıdır. Bu ayrım,
+istikrarlı görünen bir düzenin neden bir kriz anında hızla çözülüp başka bir
+düzenin baskı kullanmadan süreklilik sağlayabildiğini anlamaya yardım eder.
+
+Weber’in üçlü sınıflandırması, kabulün kaynağını ayırır.[^k1] Geleneksel otorite
+“hep böyle yapıldığı” için; karizmatik otorite lidere olağanüstü nitelikler
+atfedildiği için; akılcı-yasal otorite ise kişiden bağımsız kurallar ve makamlar
+geçerli sayıldığı için işler. Gerçek rejimler çoğu zaman üçünü karıştırır. Seçimle
+gelen bir yönetici hukuki yetkiye sahipken kurucu bir anlatıya ve kişisel çekime
+de dayanabilir. Analizin görevi devlete tek bir etiket yapıştırmak değil, hangi
+gerekçenin hangi kurumda etkili olduğunu göstermektir.
+
+## Meşruiyet nasıl kurulur ve kaybedilir?
+
+Kabul yalnız söylemle üretilmez. Düzenli vergi, öngörülebilir hukuk, güvenlik,
+kamusal hizmet ve temsil kanalları yönetimin iddiasını gündelik deneyime
+bağlayabilir. Buna karşılık kuralların seçici uygulanması, veraset kavgası,
+yenilgi, ağır ekonomik kriz veya kutsal kabul edilen yükümlülüğün ihlali mevcut
+gerekçeyi aşındırabilir. Bir hükümdarın unvanı devam ederken fiilî otoritesi;
+fiilî denetimi sürerken ahlaki veya hukuki kabulü zayıflayabilir. Dolayısıyla
+meşruiyet, “var/yok” kutuları yerine alanlara ve toplumsal gruplara göre
+incelenmelidir.[^k1]
+
+Kanıt da bu ayrımı izlemelidir. Anayasalar ve fermanlar iktidarın kendini nasıl
+gerekçelendirdiğini; dilekçeler, mahkeme kayıtları, törenler, vergi direnişi ve
+seçim davranışı ise bu iddianın nasıl karşılandığını gösterir. Resmî bir metni
+toplumun tamamının inancı saymak kadar, tek bir ayaklanmayı bütün düzenin
+reddedildiği biçiminde okumak da yanıltıcıdır.
+
+[Egemenlik](/kavram/egemenlik/) nihai karar yetkisinin kimde olduğunu,
+[Hukuk devleti](/kavram/hukuk-devleti/) bu yetkinin kurallarla nasıl
+sınırlandığını, [Asabiyet](/kavram/asabiyet/) dayanışmanın siyasal güce nasıl
+dönüşebildiğini anlatır. Meşruiyet bunların kesişiminde yer alır ama hiçbirine
+indirgenemez. Kavram en iyi, iktidarın iddiası, kurumların performansı ve farklı
+grupların verdiği karşılık birlikte izlendiğinde çalışır.[^k1][^k2][^k3]
+
+Meşruiyetin çoğul olması, bir rejim hakkında tek kamuoyu yüzdesinin yetersiz
+kalacağını gösterir. Merkezde kabul gören yönetim sınır bölgesinde reddedilebilir;
+iş çevreleri düzeni desteklerken öğrenciler karşı çıkabilir. Krizden önceki sessiz
+uyum da gerçek onayla zorunlu itaat arasında ayrılmalıdır. Zaman, bölge ve grup
+karşılaştırması yapılmadan “halk meşru gördü” hükmü kurulamaz.
+
+Kabulün hangi davranış ve belgelerden çıkarıldığı da açıkça belirtilmelidir.
+
+Sessizlik otomatik onay sayılmamalı, açık itiraz da bütün toplumun sesi sanılmamalıdır.

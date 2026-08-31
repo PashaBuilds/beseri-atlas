@@ -58,7 +58,6 @@ son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak eseri *Politika* adıyla anar; ilk bölümünü siyasi bağlama, ikincisini
@@ -68,10 +67,6 @@ başlıklar olarak tutar.[^k1]
 ## Anayasa sınıflandırması kendi bölümüdür
 
 Kaynak, anayasaların sınıflandırılmasına ayrı bir bölüm ayırır.[^k1]
-
-Bir siyaset metninin yönetim biçimlerini sınıflandırmasının ayrı bir başlık
-taşıması,[^k1] korpusun aktör dosyalarında yönetim biçimi alanını neden ayrı
-tuttuğunun eski bir örneğidir.
 
 ## Kompozisyon bir sorundur
 
@@ -99,5 +94,5 @@ satır aralığıyla birlikte sıraladığını yazar.[^k3] O eser
 
 ## Metne bağ
 
-Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Eser kamu malıdır; hangi çevirinin kullanıldığı her
-aktarımda belirtilmelidir.
+Eserin kamu malı tam metni erişilebilir durumdadır; hangi çevirinin kullanıldığı
+her aktarımda belirtilmelidir.[^k4]

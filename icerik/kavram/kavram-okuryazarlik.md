@@ -48,11 +48,7 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
-## Neden korpusun konusu
-
-Okuryazarlık, korpus için bir eğitim konusu değildir.[^k1] Bir kaynak
-konusudur.
+Bir kaynak konusudur.
 
 Bir dönemde kimlerin yazabildiği, o dönemden hangi kayıtların
 kalacağını doğrudan belirler.[^k3] Yazamayanların bıraktığı yazılı iz
@@ -190,10 +186,18 @@ olmadan okunabilen bir kural, aracı gerektiren bir kuraldan farklı
 işler.
 
 Bu yüzden okuryazarlık, hak talepleriyle doğrudan bağlantılıdır.[^k3]
-Korpusun başka dosyalarında bu bağ açıkça kurulmuştur.
 
 Okuryazarlık teknik değil siyasi bir
 eşiktir; kimin kendi adına konuşabileceğini belirler.[^k2]
+
+## Oranı yorumlarken
+
+Okuryazarlık oranı, kullanılan tanıma göre değişir: adını yazabilmek, kısa metni
+okumak ve gündelik işlerde yazıyı kullanmak aynı eşik değildir.[^k1] İmza kayıtları
+yalnız belirli kurumlarla karşılaşan nüfusu ölçebilir; okul kaydı ise devamı veya
+öğrenme sonucunu garanti etmez. Dönemler arasında karşılaştırma yaparken yaş grubu,
+cinsiyet, dil ve ölçme yöntemi sabit değilse sayıların farkı gerçek değişim kadar
+tanım değişimini de yansıtabilir.[^k2]
 
 ## Okumayı sürdürmek için
 Yazının kendisi için [Yazı sistemi](/kavram/yazi-sistemi/) ve

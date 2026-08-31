@@ -60,7 +60,6 @@ son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak eseri, yazarın kuram bölümünde toplumsal patoloji ve suç başlığı altında
@@ -74,19 +73,12 @@ biliminin bütüncül olması gerektiğini, yani bireylerin belirli eylemleriyle
 sınırlı kalmak yerine bir bütün olarak topluma atfedilen olguları incelemesi
 gerektiğini savunduğunu yazar.[^k1]
 
-Bir bireysel eylemin toplumsal bir olgu olarak incelenmesi,[^k1] korpusun şu
-kuralının dayanağıdır: bu esere atfedilen önermeler, bireysel değil toplumsal
-düzeyde iddialar olarak aktarılır.
-
 ## Aynı yıllarda karşıt yöntem kararı
 
 Aynı yıllarda yazan bir çağdaşı için tutulan kayıt, onun yöntem bölümünde
 yöntemsel bireyciliği ayrı bir alt başlık olarak tuttuğunu gösterir.[^k2]
 
-İki yöntem kararının karşıt yönlerde durması,[^k1][^k2] korpusun kavram
-katmanında ideal tip dosyasını neden açtığının dayanağıdır; o dosya
-[İdeal tip](/kavram/ideal-tip/) dosyasıdır. Karşıt yazar
-[Max Weber](/dusunur/weber/) dosyasında ele alınıyor.
+Karşıt yazar [Max Weber](/dusunur/weber/) dosyasında ele alınıyor.
 
 ## Oran hesaplarının zemini
 
@@ -96,13 +88,7 @@ milyar verir.[^k3]
 Yazar [Émile Durkheim](/dusunur/durkheim/)
 dosyasında ele alınıyor.[^k1][^k3]
 
-## Okumayı sürdürmek için
-Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi baskının ve hangi çevirinin
-kullanıldığı her aktarımda belirtilmelidir.
-
 ## Metne bağ
 
-Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
-atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
-çevirinin kullanıldığı her aktarımda belirtilmelidir.
+Eserin tam metin kaydı erişilebilir durumdadır; her atıf bölüm ya da paragraf
+numarasıyla verilmeli, kullanılan baskı ve çeviri belirtilmelidir.[^k4]

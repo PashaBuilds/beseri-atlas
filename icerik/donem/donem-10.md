@@ -246,8 +246,8 @@ Aynı bilgi farklı düzenlerde farklı ilişkiler kurar.[^k2] Din başlığı
 altında toplanan bir konu ile ahlak başlığı altında toplanan aynı
 konu, farklı sorular doğurur.
 
-Bir korpusun bölümlemesi, anlattığı içerik
-kadar kendi konumunun da kaydıdır.[^k4]
+Dönemlere ayırma biçimi, anlatılan içerik kadar tarihçinin kendi konumunu da
+yansıtır.[^k4]
 
 ## Ticari genişlemenin biçimi
 
@@ -304,9 +304,8 @@ Formül, önce yerleşimci bölgelerde ileri sürüldü.
 Talebin gerekçesi hukukiydi.[^k2] Karar süreçlerinde yer almayanlardan
 vergi alınamayacağı savunuldu.
 
-Aynı formül, korpusun vatandaşlık dosyasında
-tanımlanan ayrımın erken bir ifadesidir: yönetilen ile üye sayılan aynı kişi
-değildir.[^k4]
+Aynı formül vatandaşlığın temel ayrımını erken bir tarihte görünür kılar:
+yönetilen ile siyasal topluluğun üyesi sayılan aynı kişi değildir.[^k4]
 
 ## Kölelik düzeni
 
@@ -382,9 +381,8 @@ sonuca yorumlanmasını sağlar.[^k1]
 Aynı metin, sömürge tekelinin ana ülkeye maliyetini de
 tartışır.[^k2] Sonuç, tekelin net bir yük olduğu yönündedir.
 
-Bu, korpusun bilanço tartışmasında ayrı bir konum olarak
-kayıtlıdır.[^k1] Konumun kendi döneminde ve tekeli kuran taraf
-içinde yazılmış olması ayrıca önemlidir.
+Bu görüş, sömürgeciliğin bilançosu tartışmasında ayrı bir konum oluşturur.[^k1]
+Kendi döneminde ve tekeli kuran taraf içinde yazılmış olması ayrıca önemlidir.
 
 Bir düzenin maliyet hesabının o
 düzen sürerken yapılmış olması, hesabın doğruluğunu değil kaydın bağımsızlığını
@@ -487,9 +485,8 @@ kurumlarında bulunmayan bir konumdur.
 Düzenleyici, kimin davet edileceğine ve tartışmanın çerçevesine karar
 veriyordu.[^k2] Yetki, resmî bir unvana bağlı değildi.
 
-Bu, korpusun toplumsal cinsiyet dosyasındaki ölçütün
-bir örneğidir: resmî listede görünmeyen bir görev, akışı denetliyorsa fiilî bir güç
-konumudur.[^k3]
+Bu örnek toplumsal cinsiyet tarihinin önemli bir ölçütünü gösterir: resmî listede
+görünmeyen bir görev, akışı denetliyorsa fiilî bir güç konumudur.[^k3]
 
 ## Mektuplaşma ağı
 
@@ -654,6 +651,30 @@ başladı.
 
 Ortak bir ölçü biriminin
 yaygınlaşması, o birimi kullananlar arasında yeni bir eşgüdüm imkânı üretir.[^k3][^k4]
+
+## Ticaret, savaş ve eleştirinin ortak zemini
+
+Aydınlanma düşüncesi ile ticari kapitalizmin aynı dönemde büyümesi, özgürlük
+fikirlerinin ekonomik özgürlüğü kendiliğinden ürettiği anlamına gelmez. Basılı
+metinler, bilim cemiyetleri ve kamusal tartışma alanları eleştirinin dolaşımını
+hızlandırdı; buna karşılık okuryazarlık, mülkiyet ve siyasal katılım geniş halk
+kesimleri için sınırlı kaldı.[^k1] Adam Smith'in işbölümü ve pazar üzerine çözümlemesi
+ticaret toplumunu anlamak için güçlü bir araçtır, ancak kitabın yazıldığı dünya
+kölelikten, sömürge tekellerinden ve devlet destekli şirketlerden ayrı değildi.[^k2]
+
+Yedi Yıl Savaşı gibi çatışmalar Avrupa, Kuzey Amerika, Karayipler, Batı Afrika ve
+Güney Asya cephelerini birbirine bağladı. Bu ölçek; donanma, kamu borcu, vergi ve
+ticaret gelirini tek bir savaş kapasitesinde birleştiren devletleri avantajlı hâle
+getirdi. Nüfus artışı ve tüketim pazarlarının genişlemesi üretimi büyütürken şeker,
+tütün ve pamuk gibi malların arkasında zorunlu emek düzenleri bulunuyordu.[^k3]
+Osmanlı dünyasının aynı süreçte kendi mali ve askerî dönüşümleriyle uğraşması,
+dönemin yalnız Atlantik'ten okunamayacağını gösterir.[^k4] 1789'a gelindiğinde
+evrensel hak iddiaları, imparatorluk rekabeti ve eşitsiz ekonomik kurumlar yan yana
+duruyordu; devrim çağının patlayıcı gerilimi tam da bu uyumsuzluktan doğdu.
+
+Bu gerilim, dönemin fikirlerini yalnız filozofların niyetinden değil, onları taşıyan
+kurumlardan okumayı gerektirir. Bir hakkın metinde savunulması ile mahkemede,
+pazarda veya sömürgede uygulanması farklı tarihsel sorulardır.[^k1][^k2]
 
 ## Fikir dünyası
 

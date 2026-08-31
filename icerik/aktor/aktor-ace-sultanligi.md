@@ -51,7 +51,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Nerede durduğu
 
 Açe Sultanlığı, büyük bir adanın kuzey ucunda, Hint Okyanusu'ndan boğaza
@@ -80,17 +79,14 @@ korundu; değişen şey, gelirin hangi limana gittiğiydi.
 
 ## Biberin siyasi anlamı
 
-Sultanlığın ekonomik temeli, kendi topraklarında yetişen bir baharatın
-üretimi ve ihracıydı.[^k1][^k2] Bu, korpusun öteki liman devletlerinden
-farklıdır: burada devlet aracı değil üreticidir.
+Sultanlığın ekonomik temeli, kendi topraklarında yetişen bir baharatın üretimi ve
+ihracıydı.[^k1][^k2]
 
 Üretici olmanın avantajı açıktır. Aracı, malın akışını denetler ama akış yön
 değiştirdiğinde elinde bir şey kalmaz;[^k1] üretici, malın kendisine
 sahiptir ve alıcı kim olursa olsun satabilir.
 
-Bu fark, sultanlığın uzun ömrünü açıklamanın bir parçasıdır.[^k2] Korpusun
-kaydettiği aracı liman devletlerinin çoğu bir ya da iki yüzyıl sürerken bu
-sultanlık dört yüzyıl varlığını korumuştur.
+Bu fark, sultanlığın uzun ömrünü açıklamanın bir parçasıdır.[^k2]
 
 ## Uzak bir devletle kurulan ittifak
 
@@ -102,9 +98,7 @@ Bu ilişki, incelenen örnekler arasındaki en uzun mesafeli askerî iş birlikl
 biridir.[^k1] İki taraf arasında ortak sınır, ortak dil ya da doğrudan
 ticaret bağı yoktu; ortak olan şey aynı rakiple karşı karşıya olmaktı.
 
-İlişkinin dayanağı ortak inanç çerçevesiydi ama sürdürücüsü ortak
-çıkardı.[^k2] Korpus bu ikisini ayrı tutar: inanç bağı ilişkiyi kurmayı
-kolaylaştırır, sürdüren şey karşılıklı yarardır.
+İlişkinin dayanağı ortak inanç çerçevesiydi ama sürdürücüsü ortak çıkardı.[^k2]
 
 ## Uzak ittifakın sınırı
 
@@ -112,9 +106,8 @@ Böyle bir ittifakın sınırı da kaydedilmelidir. Destek, mesafenin izin
 verdiği ölçüde geldi ve düzenli değildi;[^k1] uzak bir müttefik, yakın bir
 rakibin yerini tutmaz.
 
-Bu, korpusun genel bir gözlemidir. İttifakın değeri yalnızca müttefikin
-gücüyle değil, o gücün olay yerine ne kadar sürede ulaşabildiğiyle
-ölçülür.[^k2]
+İttifakın değeri yalnızca müttefikin gücüyle değil, o gücün olay yerine ne kadar sürede
+ulaşabildiğiyle ölçülür.[^k2]
 
 Sultanlığın kendi donanmasını kurmuş olması bu sınırın kabulüdür.[^k1] Uzak
 destek bir tamamlayıcıydı; savunmanın kendisi yerelde kuruldu.
@@ -170,14 +163,11 @@ Bir liman devletinin metin üretim merkezi olması tesadüf
 değildir.[^k1] Limanda toplanan tüccar toplulukları, uzak bölgelerden gelen
 metinleri ve onları okuyacak çevreleri birlikte getirir.
 
-Bu, korpusun Orta Asya dosyalarında da kaydettiği bağın deniz
-karşılığıdır.[^k2] Ticaret ağı, metin ağıyla büyük ölçüde örtüşür.
+Ticaret ağı, metin ağıyla büyük ölçüde örtüşür.
 
 ## Yüz elli yıl öncesinin tanığı
 
-Bu incelemenin birincil kaynağı sultanlığı değil, ondan yaklaşık yüz elli yıl
-önce aynı adanın kuzeyini görmüş bir gezginin kaydıdır.[^k3] Bu sınır burada
-açıkça belirtilir.
+Bu sınır burada açıkça belirtilir.
 
 Kaydın değeri karşılaştırmadadır. Gezgin, bölgede o tarihte zaten yerleşik
 bir liman düzeni ve dinî kurumlar bulunduğunu kaydeder;[^k3] sultanlık
@@ -189,17 +179,9 @@ kuruluşu gösterir, bölgedeki düzenin başlangıcını değil.
 
 ## Kaynak durumu
 
-Bu inceleme üç kaynağa dayanır ve biri birincildir.[^k3] Birincil kaynak
-sultanlığın kendi dönemine ait değildir ve bu bir kısıttır.
+Birincil kaynak sultanlığın kendi dönemine ait değildir ve bu bir kısıttır.
 
-Sultanlığın kendi saray kayıtlarının ve hukuk derlemelerinin
-doğrulanabilir, tam metin bir baskısı bu inceleme yazıldığında
-bulunamamıştır.[^k1] Metinlerin var olduğu bilinmektedir; erişim sorunu
-ayrıdır.
-
-Bu durum, korpusun başka bölge dosyalarında da ölçülen bir eğilimin
-devamıdır.[^k2] Kayıt yokluğu ile dijital erişim yokluğu ayrı şeylerdir ve
-korpus bu ikisini karıştırmaz.
+Metinlerin var olduğu bilinmektedir; erişim sorunu ayrıdır.
 
 ## Sonun biçimi
 
@@ -211,9 +193,8 @@ Direnişin uzunluğu, sultanlığın merkezî değil dağınık bir yapıya sahi
 olmasıyla açıklanır.[^k1] Merkezin düşmesi direnişi bitirmedi; yerel
 önderler kendi bölgelerinde sürdürdü.
 
-Bu, korpusun Orta Asya dosyalarında kaydettiği gözlemin tersidir.[^k2]
-Merkezîleşmiş bir düzen tek bir darbeyle çöker; dağınık bir düzen yavaş ve
-parça parça çözülür.
+Merkezîleşmiş bir düzen tek bir darbeyle çöker; dağınık bir düzen yavaş ve parça parça
+çözülür.
 
 ## Ölçek sorunu
 
@@ -234,35 +215,21 @@ Sultanlık, adanın öteki liman şehirleriyle sürekli bir rekabet
 içindeydi.[^k2] Bölgede tek bir merkez hiçbir zaman kalıcı üstünlük
 sağlayamadı.
 
-Bu çokluk, korpusun Doğu Afrika kıyısı için de kaydettiği yapıyla
-aynıdır.[^k1] Her limanın kendi başına okyanusa açılabildiği yerlerde,
-merkezîleşme coğrafi olarak zordur.
+Her limanın kendi başına okyanusa açılabildiği yerlerde, merkezîleşme coğrafi olarak
+zordur.
 
-İki bölgenin benzerliği, aynı deniz ağının iki ucunda bulunmalarıyla
-ilgilidir.[^k2] Korpus bu benzerliği kaydeder ve gerekçesini açık bırakır.
-
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun Güneydoğu Asya aktör katmanındaki altıncı dosyadır ve
-bölgeyi Avrupa donanmalarının gelişinden sonraki yüzyıllara taşır.[^k1][^k2]
-Önceki dosyalar ağırlıklı olarak daha erken dönemlerdeydi.
+İki bölgenin benzerliği, aynı deniz ağının iki ucunda bulunmalarıyla ilgilidir.[^k2]
 
 Dosyanın seçilme gerekçesi, bölgenin sömürge dönemine tek bir anlatıyla
 girmediğini göstermektir.[^k1] Bir bölgede aynı anda hem denetim altına
 alınmış limanlar hem de dört yüzyıl direnen bir sultanlık bulunabilir.
 
-Bu ayrım, korpusun sömürgecilik dosyalarını okumak için gereklidir.[^k2]
-Bölgeyi tek bir tarihe indirgeyen anlatılar, direnen tarafı kaydın dışında
-bırakır.
-
-## Açıkta kalan sorular
-Sultanlığın hükümdar listesi, taht kavgaları ve hanedan tarihi burada
-verilmez.[^k1] Korpusun aktör dosyaları bir düzenin nasıl işlediğini anlatır.
+Bölgeyi tek bir tarihe indirgeyen anlatılar, direnen tarafı kaydın dışında bırakır.
 
 Uzun direniş savaşının askerî ayrıntıları ve sonraki sömürge yönetimi de
 kapsam dışıdır.[^k2] Her biri ayrı dosya gerektirir.
 
-Bölgedeki dinî geleneğin kendi tarihi burada işlenmez.[^k1] Bu inceleme bir
-siyasi düzeni konu edinir.
+Bölgedeki dinî geleneğin kendi tarihi burada işlenmez.[^k1]
 
 ## Bir direnişin kaynak izi
 
@@ -270,9 +237,8 @@ Uzun süren direniş, sultanlık hakkındaki kayıtların bileşimini de
 değiştirdi.[^k1][^k2] Savaşan tarafın tuttuğu ayrıntılı askerî ve idari
 kayıtlar, bugün bölgeye dair en hacimli belge yığınını oluşturur.
 
-Bu, korpusun dikkat çektiği bir tersliktir.[^k2] Bir bölge hakkındaki
-kaydın bolluğu, o bölgenin kendi kayıt geleneğinin gücünü değil, onunla
-savaşan tarafın bürokrasisinin gücünü gösterebilir.
+Bir bölge hakkındaki kaydın bolluğu, o bölgenin kendi kayıt geleneğinin gücünü değil,
+onunla savaşan tarafın bürokrasisinin gücünü gösterebilir.
 
 Okur bu farkı bilerek okumalıdır.[^k1] Kayıt bolluğu ile bilgi güvenilirliği
 aynı şey değildir; bol kayıt, tek bir bakış açısının bol kaydı olabilir.
@@ -295,3 +261,35 @@ dosyaları okunabilir.
 
 Aynı yılları bütün bölgeler üzerinden okumak için [Dönem 09](/donem/09/)
 dosyası kullanılmalıdır.
+
+## Malaka sonrasında yön değiştiren ticaret
+
+Portekiz’in 1511’de Malaka’yı ele geçirmesi Hint Okyanusu ticaretini kapatmadı;
+tüccarlar ve siyasi merkezler yeni güzergâhlar kurdu. Sumatra’nın kuzey ucundaki
+Açe, Kızıldeniz ve Hindistan yönüne giden gemiler için alternatif liman ve
+baharat toplama merkezi haline geldi.[^k1][^k2] Abluka, akışın tümünü durdurmak
+yerine maliyetini ve geçtiği düğümleri değiştirdi.
+
+Açe’nin yükselişi yalnız coğrafi fırsatın sonucu değildi. Liman güvenliği,
+gümrük düzeni, askerî filo, yerel üreticiler ve uluslararası tüccar diasporaları
+aynı sistemi taşıdı. Osmanlı dünyasıyla kurulan diplomatik ve askerî bağlantı,
+Portekiz baskısına karşı daha geniş bir Müslüman siyasal dil sundu; yardımın
+ölçeği ve sürekliliği her olay için kaynakla sınanmalıdır.[^k1]
+
+Sultanlık içindeki merkez-taşra ilişkisi de önemlidir. Liman geliri saraya güç
+verirken biber üreten bölgeler ve yerel seçkinler pazarlık kapasitesini korudu.
+Güçlü hükümdarın ölümü veya dış fiyat değişimi, merkezî koalisyonu
+zayıflatabiliyordu. Dört yüzyıllık direnç kesintisiz aynı kapasite demek değil;
+Portekiz, Hollanda ve son olarak sömürgeci genişleme karşısında farklı araçların
+ardışık kullanımıdır.[^k1][^k2]
+
+İbn Battuta’nın Sumatra kaydı Açe Sultanlığı’nın sonraki yükselişinden önceki
+bölgesel İslamlaşma ve deniz bağlantıları için bağlam sağlar; daha geç kurumu
+doğrudan görmüş tanık gibi kullanılamaz.[^k3] Böylece Açe, Avrupa donanmasının
+tek taraflı “denizleri kapattığı” anlatıyı düzeltir: yerel devletler ve tüccarlar
+rota, ittifak ve üretim kararlarıyla küresel ticaretin etkin kurucularıydı.
+
+Bu kuruculuk, yalnız gemi sayısıyla değil limanın güvenilirliği ve farklı tüccar
+gruplarının hukukî korunmasıyla ölçülmelidir. Akış Açe’ye yöneldiğinde saray kadar
+üretici köyler ve aracılar da dönüşmüş, dünya talebi yerel toprak kullanımına
+kadar uzanmıştır.[^k1]

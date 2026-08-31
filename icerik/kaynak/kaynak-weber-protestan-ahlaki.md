@@ -60,7 +60,6 @@ son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak eserleri künyeleriyle sıralar ve bu eseri 1904-1905 aralığıyla verir;
@@ -73,19 +72,13 @@ Olarak* (1917), *Siyaset Bir Meslek Olarak* (1919), *Ekonomi ve Toplum*
 Bir eserin künyesinin iki yılla verilmesi,[^k1] metnin tek bir yayında değil
 bölümler hâlinde çıktığı anlamına gelir.
 
-Korpusun kuralı şudur: bu esere yapılan atıflar, hangi bölüme ve hangi baskıya
-ait olduğu belirtilmeden verilemez.
-
 ## Eser bir karşılaştırma dizisinin parçasıdır
 
 Kaynak, kuramlar başlığı altında bu eserin yanı sıra *Dünya Dinlerinin İktisadi
 Ahlakı*'nı ayrı bir alt başlık olarak tutar ve onun altında Çin dini, Hindistan
 dini ve antik Yahudilik alt başlıklarını verir.[^k1]
 
-Bir tezin tek bir din için değil bir karşılaştırma dizisi içinde kurulmuş
-olması,[^k1] korpusun şu kuralının dayanağıdır: bu esere atfedilen önermeler,
-karşılaştırmanın hangi ayağından geldiği belirtilerek aktarılır. Yazar
-[Max Weber](/dusunur/weber/) dosyasında ele alınıyor.
+Yazar [Max Weber](/dusunur/weber/) dosyasında ele alınıyor.
 
 ## Kavram tartışması
 
@@ -95,7 +88,7 @@ O tartışma [Sekülerleşme](/kavram/sekulerlesme/) dosyasında ele alınıyor.
 
 ## Aynı soruya başka cevaplar
 
-::tartismali[Ahlak ile iktisadi düzen arasındaki bağ için birden çok cevap kayıtlıdır. Korpus bu eserin tezini bir sonuç olarak değil bir konum olarak taşır.]{harita=tartisma-bati-neden-yukseldi}
+::tartismali[Ahlak ile iktisadi düzen arasındaki bağ için birden çok cevap kayıtlıdır.]{harita=tartisma-bati-neden-yukseldi}
 
 Önceki kuşaktan bir yazar için tutulan kayıt, onun ahlak kurallarının belirli
 örneklere verilen tepkiler temelinde oluştuğunu savunduğunu yazar.[^k3] O yazar
@@ -106,13 +99,7 @@ Aynı soruya sonraki bir cevap
 tartışmanın bütünü ise
 [Batı neden yükseldi?](/tartisma/bati-neden-yukseldi/) haritasında ele alınıyor.
 
-## Okumayı sürdürmek için
-Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi baskının ve hangi çevirinin
-kullanıldığı her aktarımda belirtilmelidir.
-
 ## Metne bağ
 
-Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
-atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
-çevirinin kullanıldığı her aktarımda belirtilmelidir.
+Eserin tam metin kaydı erişilebilir durumdadır; her atıf bölüm ya da paragraf
+numarasıyla verilmeli, kullanılan baskı ve çeviri belirtilmelidir.[^k4]

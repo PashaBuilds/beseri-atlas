@@ -107,7 +107,6 @@ son_denetim: 2026-08-29
 denetim_durumu: onaylandi
 onarim_turu: 1
 ---
-
 Yirminci yüzyılın ortasında insan sayısının hızlanması tek bir olay değil, iki
 eğrinin birbirinden ayrılmasıdır: ölüm oranı düştü, doğurganlık bir süre daha
 yerinde kaldı ve aradaki fark her yıl nüfusa eklendi. Uzun dönemli seride dünya
@@ -245,14 +244,11 @@ etkenler de ekleniyor, ancak buradaki künyeler o ikisini taşımıyor. Sayılan
 rakip değil, ağırlıkları ölçülmeye çalışılan etkenlerdir; hangisinin baskın
 olduğu bölgeden bölgeye değişir.
 
-Bu ayrışmanın anlatı açısından sonucu şudur: geçişin bir kez başladıktan sonra
-her yerde aynı hızda ilerleyeceği varsayımı tutmadı. Sahra altı Afrika'nın
-geçişinin ayrı bir soru olarak açılması da bunun işaretidir — bir bölgenin
-farklı olup olmadığı ancak ortak bir takvim beklendiğinde sorulur.[^k8] Kuramın
-betimlediği sıralama korunurken takvimi ülkeden ülkeye değişti. Bu incelemenin
-kapsam sınırı da burada: künyeler sıralamayı ve tek bir bölgenin ayrıksılığını
-taşıyor, Avrupa'nın, Güney Asya'nın ve Doğu Asya'nın kendi takvimlerini ülke
-ülke ölçecek seriler taşımıyor.
+Bu ayrışmanın anlatı açısından sonucu şudur: geçişin bir kez başladıktan sonra her yerde
+aynı hızda ilerleyeceği varsayımı tutmadı. Sahra altı Afrika'nın geçişinin ayrı bir soru
+olarak açılması da bunun işaretidir — bir bölgenin farklı olup olmadığı ancak ortak bir
+takvim beklendiğinde sorulur.[^k8] Kuramın betimlediği sıralama korunurken takvimi
+ülkeden ülkeye değişti.
 
 ## Devletin payı: Çin örneği
 
@@ -294,17 +290,15 @@ yan yana durmasıdır. Seride 2023'e kadar olan değerler tarihsel tahmin, sonra
 geçmişin yeniden kurulmasıdır, öteki bugünkü doğurganlık varsayımlarının ileri
 taşınmasıdır.
 
-Grafikte gizlenen bir ek yeri daha var ve bu, öngörü sınırından daha erken
-gelir. BM Nüfus Bölümü'nün veri portalı, toplam nüfus, toplam doğurganlık hızı
-ve beş yaş altı ölüm hızı göstergelerinin kaynağını World Population
-Prospects'in 2024 revizyonu, kapsamını da 1950 ile 2100 arası olarak
-listeler.[^k10] Bu incelemenin okuduğu seri ise MÖ 10.000'e kadar geriye
-uzanıyor.[^k1] İki kapsam arasındaki fark, 1950 öncesinin BM kaydından
-gelemeyeceğini gösterir; o bölüm tarihsel nüfus yeniden kurulumlarıyla
-dolduruluyor. Dolayısıyla yukarıda anılan 1500, 1800, 1900 ve 1927 değerleri
-sayımların toplamı değil, dolaylı kanıttan geriye doğru kurulmuş tahminlerdir:
-1927'de iki milyara ulaşıldığı cümlesi, 2022'de sekiz milyara ulaşıldığı
-cümlesiyle aynı sağlamlıkta değildir.
+Grafikte gizlenen bir ek yeri daha var ve bu, öngörü sınırından daha erken gelir. BM
+Nüfus Bölümü'nün veri portalı, toplam nüfus, toplam doğurganlık hızı ve beş yaş altı
+ölüm hızı göstergelerinin kaynağını World Population Prospects'in 2024 revizyonu,
+kapsamını da 1950 ile 2100 arası olarak listeler.[^k10] İki kapsam arasındaki fark, 1950
+öncesinin BM kaydından gelemeyeceğini gösterir; o bölüm tarihsel nüfus yeniden
+kurulumlarıyla dolduruluyor. Dolayısıyla yukarıda anılan 1500, 1800, 1900 ve 1927
+değerleri sayımların toplamı değil, dolaylı kanıttan geriye doğru kurulmuş tahminlerdir:
+1927'de iki milyara ulaşıldığı cümlesi, 2022'de sekiz milyara ulaşıldığı cümlesiyle aynı
+sağlamlıkta değildir.
 
 Zirvenin hangi yıl olduğu da hangi ölçüyü sorduğunuza bağlıdır. Yıllık yüzde
 artış, 1950'de başlayan artış hızı serisi içinde 1963'te doruk yapar;[^k2]
@@ -314,8 +308,7 @@ ve 1963'teki ekleme 69 milyondu.[^k1] İki zirvenin farklı yıllara düşmesi
 zirvesinden yirmi yedi yıl sonra ekledi. Patlama anlatısının bir tarihe
 yaslanması bu ayrımı gizler.
 
-::tartismali[Artışın kendisi ölçülmüştür; çekişmeli olan artışın bir tehdit mi
-yoksa uyarlanmayla karşılanan bir baskı mı olduğudur.]{harita=tartisma-nufus-artisi-tehdit-mi}
+::tartismali[Artışın kendisi ölçülmüştür; çekişmeli olan artışın bir tehdit mi yoksa uyarlanmayla karşılanan bir baskı mı olduğudur.]{harita=tartisma-nufus-artisi-tehdit-mi}
 
 Üçüncü sınır, ortalamanın bölgesel farkı gizlemesidir. Tek bir küresel değer,
 geçişini bitirmiş ülkelerle henüz başlamamış ülkeleri aynı satırda toplar;

@@ -47,42 +47,25 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Veri kümesinin sütun adı ölçümün ne olduğunu ve nasıl elde edildiğini birlikte
 taşır: kentsel alan türü için pay, veri türü tahminler.[^k1]
 
 ## Sütun adı bir tanım beyanıdır
-
-Bir ölçünün sütun adında hem alan türünün hem veri türünün belirtilmesi,[^k1]
-korpusun şu kuralının dayanağıdır: bu incelemede kentleşme oranı, hangi kentsel
-tanımın ve hangi tahmin yönteminin kullanıldığı belirtilmeden aktarılmaz.
 
 ## Doğrulanabilir bir satır
 
 Aynı veri kümesinde Afganistan için kentsel nüfus payı 1950'de 5,78, 1960'ta
 yaklaşık 8,12'dir.[^k1]
 
-Korpus burada tek bir ülkenin satırını örnek olarak verir; bu, iddianın kaynağa
-gidip doğrulanabilir olmasını sağlar. Aynı kümedeki dünya toplamı satırı,
-kullanılan çekme penceresinin dışında kaldığı için bu incelemede
-kullanılmamıştır.[^k1]
-
 ## Payın uzerine uygulanacağı toplam
 
 Uzun dönemli nüfus serisinde dünya nüfusu 1950 için yaklaşık 2,49 milyar, 2020
 için yaklaşık 7,89 milyardır.[^k2]
 
-Korpus bu iki kümeyi çarpmaz: kentleşme payı ülke ülke verilir, nüfus serisi ise
-dünya toplamını verir; kapsamları aynı değildir.[^k1][^k2]
-
 ## Sıklıkla bağlandığı dönüşüm
 
 Kentleşmenin sıklıkla bağlandığı dönüşüm için ayrı bir kayıt tutulur.[^k3] O
 dönüşüm [Sanayi Devrimi](/olay/sanayi-devrimi/) dosyasında ele alınıyor.
-
-Korpus iki kayıt arasında bir neden bağı kurmaz; kullanılan kaynak bölümlerinde
-böyle bir bağ belirtilmemiştir.[^k1][^k3]
-
 
 ## Ölçütün kendisi
 
@@ -132,7 +115,6 @@ büyüyen bir kent, akış kesildiğinde savunma gerektirmeden küçülür.[^k3]
 Kentleşme tek yönlü bir süreç
 değildir.[^k2]
 
-
 ## Kentleşme ve nüfus artışı
 
 İki süreç ayrıdır.[^k2] Biri toplam büyüklüğü, diğeri dağılımı
@@ -166,14 +148,12 @@ Varsayım sonucu belirler.[^k1] Kişi başına alan varsayımı iki katına
 Çarpanla üretilmiş bir oran, ölçümün değil
 varsayımın sonucudur.[^k3]
 
-
 ## Nasıl kullanılır?
 Yanına iki soru daha koyar: kent
 hangi işe dayanıyor ve kenti ne besliyor.[^k1]
 
 Üçü birlikte okunduğunda oran anlam kazanır.[^k2] Tek başına bir oran,
 iki bambaşka yapıyı aynı sayıyla gösterebilir.[^k3]
-
 
 ## Bugünkü eşik
 
@@ -184,7 +164,28 @@ belirsizliği taşır.
 Bir eşiğin geçilmesi, o eşiği
 tanımlayan ölçütün de kaydedilmesini gerektirir.[^k3][^k2]
 
+## Oran, sayı ve kentsel işlev
+
+Kentleşme, yalnız kent nüfusunun artması değildir; nüfusun toplam içindeki payının
+yükselmesi ve yerleşimlerin işlevsel olarak dönüşmesi ayrı süreçlerdir.[^k1] Kırsal
+nüfus da büyürken kentli sayısı artabilir fakat oran değişmeyebilir. İdarî sınırların
+genişletilmesi ise insanlar taşınmadan istatistikte ani kentleşme yaratabilir. Zaman
+ve ülke karşılaştırmasında “kent” eşiği ile sınır tanımı mutlaka kontrol edilmelidir.
+
+Kentsel büyüme yoğun iş, pazar, eğitim ve sağlık erişimi sağlayabilir; aynı zamanda
+konut, su, ulaşım ve atık altyapısı üzerinde baskı kurar.[^k2] Plansız veya kayıt dışı
+yerleşim, kentleşmenin başarısızlığı diye değil, nüfus artışı ile kurumsal kapasite
+arasındaki fark olarak incelenmelidir. Kent ekonomisinin çevresindeki kırsal alana
+gıda, su ve emek bakımından bağımlılığı da şehir sınırının ötesine uzanır.
+
+Bir yerleşimi yalnız nüfusa göre kent saymak, liman, yönetim, sanayi veya dinî merkez
+gibi işlevleri kaçırabilir. Arkeolojik dönemlerde yoğunluk, yapı, uzmanlaşma ve değişim
+ağı birlikte kullanılmalıdır.[^k3] Kentleşme bu yüzden hem demografik oran hem
+mekânsal ve kurumsal dönüşümdür; iki ölçü aynı yönde ilerlemeyebilir.[^k1]
+
 ## Kanıtın ve kapsamın sınırı
 Kentleşmenin nedenleri, ülke ülke seyri ve kentsel tanımların ülkeler arasındaki
 farkı burada ayrı başlıklar altında ele alınmamıştır; kullanılan kaynak veri
 kümesidir, bir anlatı değildir.[^k1]
+
+Oran, yoğunluk ve işlev birlikte okunmalıdır.

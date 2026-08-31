@@ -52,12 +52,10 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Kim olduğu
 
-Mengzi, kendisinden yaklaşık yüz elli yıl önce yaşamış bir düşünürün
-çizgisini sürdüren ve o çizgiyi karşıt görüşlere karşı savunan
-kişidir.[^k1][^k2] Korpusun bölge şemasında Doğu Asya'da durur.
+Mengzi, kendisinden yaklaşık yüz elli yıl önce yaşamış bir düşünürün çizgisini sürdüren
+ve o çizgiyi karşıt görüşlere karşı savunan kişidir.[^k1][^k2]
 
 Dosyanın ayırt edici yanı, düşünürün bir geleneği sürdürürken bir noktada
 ondan ileri gitmiş olmasıdır.[^k2][^k3] Bu ileri gidiş, incelenen
@@ -68,9 +66,8 @@ en dikkate değer siyasi iddialardan birini içerir.
 
 ## Önceki metinden farkı
 
-Aynı çizginin önceki metni, yönetimi erdem ve örneklik üzerinden kurar ama
-meşruiyetin yitirilmesi durumunu açıkça ele almaz.[^k3] Bu inceleme, o
-boşluğun doldurulduğu noktayı kaydeder.
+Aynı çizginin önceki metni, yönetimi erdem ve örneklik üzerinden kurar ama meşruiyetin
+yitirilmesi durumunu açıkça ele almaz.[^k3]
 
 Fark küçük görünür ama sonucu büyüktür.[^k2] Meşruiyetin bir şarta
 bağlanması, şartın yerine getirilip getirilmediğinin sorulmasına da izin
@@ -123,9 +120,7 @@ Metin, yönetim şartını yerine getirmeyen bir yöneticinin artık o sıfatı
 taşımadığını ima eden ifadeler içerir.[^k2] Bu, dönemin siyasi
 tartışmasında keskin bir konumdur.
 
-::tartismali[Metnin bu ifadelerinin bir direnme hakkı mı tanıdığı yoksa
-yalnızca ahlaki bir uyarı mı olduğu tartışmalıdır; sonraki yüzyıllarda
-her iki yönde de okunmuştur. Korpus bir okumayı benimsemez.]{harita=tartisma-buyuk-adam-kurami}
+::tartismali[Metnin bu ifadelerinin bir direnme hakkı mı tanıdığı yoksa yalnızca ahlaki bir uyarı mı olduğu tartışmalıdır; sonraki yüzyıllarda her iki yönde de okunmuştur.]{harita=tartisma-buyuk-adam-kurami}
 
 İki okuma da metinden çıkarılabilir ve
 ikisi de ayrı kanıtlar gerektirir.[^k1]
@@ -169,9 +164,8 @@ kanıtlandığı anlamına gelmez.[^k2]
 
 ## Metnin durumu
 
-Metnin düşünürün kendi kaleminden mi yoksa öğrencilerinin
-derlemesinden mi geldiği kesin değildir.[^k1] Bu, korpusun dönem metinlerinde
-olağan bir durumdur.
+Metnin düşünürün kendi kaleminden mi yoksa öğrencilerinin derlemesinden mi geldiği kesin
+değildir.[^k1]
 
 Metnin bugünkü biçimi, sonraki yüzyıllarda yapılan bir düzenlemeye
 dayanır.[^k1][^k2] Düzenleyen kişi, bölüm sırasını ve kapsamı belirlemiştir.
@@ -198,35 +192,24 @@ Düşünür, dönemin başka çizgilerini adıyla anar ve onlara karşı
 tartışır.[^k1][^k2] Bu, dönemin tek bir hâkim düşünceye sahip olmadığının
 doğrudan kanıtıdır.
 
-Karşıt çizgiler korpusta ayrı dosyalar taşır.[^k1] Dört dosya birlikte
-okunduğunda, aynı yüzyıllarda aynı bölgede yürüyen tartışmanın tarafları
-görünür.
+Dört dosya birlikte okunduğunda, aynı yüzyıllarda aynı bölgede yürüyen tartışmanın
+tarafları görünür.
 
 Her dosya bir konumu kaydeder;
 konumların birbirine karşı kurulduğu ancak hepsi bir arada okunduğunda görünür.[^k2]
 
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun Doğu Asya düşünür katmanındaki dördüncü dosyadır.[^k1]
-Bölgenin kavram katmanı üç dosyayla tamamlanmıştı; düşünür katmanı bu
-dosyayla dengelenir.
+Metin birden çok dosyada kaynak olarak kullanılıyordu ama düşünür için ayrı bir kayıt
+yoktu.
 
-Dosyanın seçilme gerekçesi, korpusta zaten künyelenmiş bir metnin sahibinin
-kendi dosyasının bulunmamasıydı.[^k2] Metin birden çok dosyada kaynak olarak
-kullanılıyordu ama düşünür için ayrı bir kayıt yoktu.
-
-Bu, korpusun genel bir kuralını uygular.[^k3] Sık kullanılan bir kaynağın
-arkasındaki kişi ya da metin, kendi dosyasını hak eder; aksi hâlde kaynak
-görünmez bir otoriteye dönüşür.
+Sık kullanılan bir kaynağın arkasındaki kişi ya da metin, kendi dosyasını hak eder; aksi
+hâlde kaynak görünmez bir otoriteye dönüşür.
 
 ## Kaynak durumu
 
-Bu inceleme üç kaynağa dayanır ve ikisi birincildir.[^k2][^k3] Birincil
-metinlerin ikisi de hem Çince özgün hâlleriyle hem çevirileriyle
-sunulmaktadır.
+Birincil metinlerin ikisi de hem Çince özgün hâlleriyle hem çevirileriyle sunulmaktadır.[^k1]
 
-Bu, korpusun Doğu Asya dosyaları için elverişli bir durumdur.[^k2] Terim
-karşılıklarının tartışmalı olduğu bir gelenekte, özgün metnin görülebilmesi
-çeviri tercihlerini karşılaştırılabilir kılar.
+Terim karşılıklarının tartışmalı olduğu bir gelenekte, özgün metnin görülebilmesi çeviri
+tercihlerini karşılaştırılabilir kılar.
 
 Türkçe tam çeviri künyeye alınmamıştır.[^k1] Doğrulanabilir ve tam metin bir
 Türkçe baskı bulunamamıştır; bu bir kısıttır ve burada beyan edilir.
@@ -236,11 +219,9 @@ Düşünürün hayatı, gezdiği saraylar ve görev denemeleri burada
 işlenmez.[^k1] Elde bulunan bilgilerin tamamı metnin kendi içinden gelir ve
 bağımsız kayıtla desteklenmez.
 
-Metnin bölüm bölüm içeriği de kapsam dışıdır.[^k2] Bu inceleme düşünürün
-konumunu anlatır; metnin ne söylediği için metnin kendisine inilmelidir.
+Metnin bölüm bölüm içeriği de kapsam dışıdır.[^k2]
 
-Sonraki yüzyıllardaki yorum tartışmaları burada verilmez.[^k1] Bunun için
-korpusun ilgili düşünür dosyaları okunmalıdır.
+Sonraki yüzyıllardaki yorum tartışmaları burada verilmez.[^k1]
 
 ## İnsanı sınayan örnek
 
@@ -266,12 +247,40 @@ Bu ayrıntı düzeyi, metni bir ahlak öğretisi olmaktan çıkarıp bir yöneti
 programına yaklaştırır.[^k1] Refahın ön şart sayılması, ancak somut bir
 düzenleme önerisiyle birlikte anlam kazanır.
 
-Önerinin tarihsel olarak uygulanıp uygulanmadığı ayrı bir sorudur ve
-kaynaklarda tartışmalıdır.[^k1] Korpus öneriyi bir program olarak kaydeder;
-bir uygulama kaydı olarak değil. Bir metinde bulunan düzenleme önerisinin
-uygulanmış sayılması, korpusun kaçındığı en yaygın çıkarım hatalarından
-biridir; öneri, ancak bağımsız bir idari kayıtla desteklenirse uygulama
-sayılabilir.[^k2]
+Önerinin tarihsel olarak uygulanıp uygulanmadığı ayrı bir sorudur ve kaynaklarda
+tartışmalıdır.[^k1]
+
+## Merhametten yönetime uzanan akıl yürütme
+
+Kuyu başındaki çocuk örneği, bütün insanların her durumda iyi davranacağını
+kanıtlamaya çalışmaz.[^k2] Daha dar bir iddia kurar: başkasının acısı karşısında
+çıkar hesabından önce beliren bir rahatsızlık, ahlaki gelişimin başlangıç
+malzemesidir. Mengzi bu ilk eğilimleri filize benzetir. Filiz kendiliğinden
+vardır, fakat uygun koşul olmadan büyümez; ezilebilir, ihmal edilebilir ya da
+yanlış yöne çevrilebilir.[^k1]
+
+Benzetme, eğitim ile yönetimi aynı mantıkta buluşturur. Öğretmen iyiliği yoktan
+var etmez, gelişebileceği alışkanlıkları kurar. Yönetici de geçim araçlarını
+güvenceye alarak insanların sürekli açlık ve korku altında kalmasını önler.[^k2]
+Nüfus hayatta kalmak için her kuralı çiğnemeye zorlandıktan sonra yalnız ceza
+uygulamak, kötü koşulların ürettiği davranışı doğuştan kötülük saymaktır.
+
+Bu yüzden refah, Mengzi'de hükümdarın cömertliğini gösteren ek bir başarı değil,
+meşruiyetin sınandığı zemindir.[^k1] Ağır vergi, savaş ve kıtlık insanları
+yerinden ettiğinde yönetici göksel yetkiyi sözle koruyamaz. Zorba bir hükümdarın
+öldürülmesi sorulduğunda verilen cevap da bu mantığı izler: insanlık ve adalet
+yükümlülüğünü terk eden kişi, hükümdarlık ilişkisinin gerektirdiği konumu zaten
+yitirmiştir.[^k2] Böylece direnme düşüncesi herkesin istediği anda başkaldırma
+iznine değil, yöneticiliği oluşturan karşılıklı yükümlülüğün bozulmasına
+dayandırılır. Sorun, bu bozulmayı kimin ve hangi kanıtla ilan edeceğinin açık
+kalmış olmasıdır.
+
+Bu açık nokta, öğretinin hem gücünü hem de siyasi tehlikesini oluşturur.[^k1]
+Refahı yöneticinin niyetinden bağımsız bir ölçüt saymak eleştiri alanını
+genişletir; ancak kıtlık, göç ya da yenilgiyi göksel yetkinin kesin kaybı gibi
+okumak, sonucu baştan meşru gösterme riskini taşır. Bu nedenle metindeki ilke
+ile sonraki hanedan anlatılarında o ilkenin nasıl kullanıldığı ayrı
+değerlendirilmelidir.
 
 ## Okumayı sürdürmek için
 Sürdürdüğü çizgi için [Konfüçyüsçülük](/kavram/konfucyuscluk/), çizginin

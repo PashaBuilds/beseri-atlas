@@ -44,30 +44,17 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak, tarih bölümünü dört alt başlığa ayırır: Roma ve medeni hukuk, İslam
 hukuku, modern tarih ve artık kullanılmayan biçimler.[^k1]
 
 ## İki hukuk geleneği yan yana kaydedilmiştir
 
-Bir maliye kavramının tarihinin iki ayrı hukuk geleneğiyle başlatılması,[^k1]
-korpusun şu kuralının dayanağıdır: bu incelemede vergi, tek bir hukuk düzeninin
-kavramı olarak anılmaz.
-
 ## Artık kullanılmayan biçimler ayrı bir alt başlıktır
-
-Kaynağın eskimiş vergi biçimlerine ayrı bir alt başlık ayırması,[^k1] korpusun şu
-kuralının dayanağıdır: bu korpusta vergi adları, ait oldukları dönem belirtilerek
-yazılır.
 
 ## Sınıflandırma kendi bölümüdür
 
 Kaynak, taksonomi ve sınıflandırma başlığı altında gelir vergisi, sosyal güvenlik
 katkıları, bordro, mülkiyet ve miras gibi alt başlıklar tutar.[^k1]
-
-Bir tek kavram altında bu kadar çok türün sayılması,[^k1] korpusun şu kuralının
-dayanağıdır: vergi yükü karşılaştırmaları, hangi türlerin sayıldığı belirtilmeden
-aktarılmaz.
 
 ## Toprak tahsisine dayalı bir aktarım sistemi
 
@@ -82,7 +69,6 @@ Dönemin iktisat yazarı için tutulan kayıt, onun ahlak kuramının ahlaki pra
 kılavuzluk etmesi gerektiğini düşündüğünü yazar.[^k3] O yazar
 [Adam Smith](/dusunur/smith/) dosyasında, para tarafı ise
 [Para](/kavram/para/) dosyasında ele alınıyor.
-
 
 ## Verginin biçimi
 
@@ -100,8 +86,7 @@ siyasetidir; ne ekileceğini dolaylı olarak belirler.[^k3]
 Vergi kişi başına, hane başına ya da topluluk başına
 toplanabilir.[^k1] Üçü farklı sonuç verir.
 
-Topluluk başına sabit bir yükümlülük, nüfus azaldıkça kişi başına
-ağırlaşır.[^k2] Bu, korpusun birçok dosyasında kayıtlıdır.
+Topluluk başına sabit bir yükümlülük, nüfus azaldıkça kişi başına ağırlaşır.[^k2]
 
 Yükümlülüğün hangi birime bağlandığı, o
 yükümlülüğün zaman içinde nasıl değişeceğini belirler.[^k3]
@@ -176,7 +161,6 @@ gösterir.[^k2] Kayıt dışı üretim görünmez.
 Bir dönemin ekonomisi hakkındaki
 tahminler, o dönemin vergi kaydının kapsamıyla sınırlıdır.[^k3]
 
-
 ## Verginin harcandığı yer
 
 Toplanan verginin nereye harcandığı ayrı bir
@@ -186,6 +170,21 @@ kalemlerdir.
 Dağılım, o düzenin önceliklerinin doğrudan
 kaydıdır.[^k2] Bütçe, ilan edilen amaçlardan daha
 güvenilir bir göstergedir.[^k3]
+
+## Oran ile gerçek yük arasındaki fark
+
+Vergiyi anlamak için oranı bilmek yetmez. Vergi matrahı, muafiyetler, tahsil yöntemi,
+ödeme zamanı ve yükün sonunda kimin üzerinde kaldığı ayrı sorulardır.[^k1] Toprak
+vergisi hukukta maliklerden alınırken kiracıya aktarılabilir; gümrük vergisi tüccar
+tarafından ödenip fiyat yoluyla tüketiciye yansıyabilir. Nakit yükümlülüğü, ürünle
+ödenen aynı orandan daha ağır olabilir çünkü hane önce pazara girmek zorundadır.
+
+Vergi aynı zamanda devlet kapasitesi ve meşruiyet göstergesidir. Düzenli tahsil için
+nüfus, arazi ve üretim hakkında bilgi; itiraz ve yeniden dağıtım için kurum gerekir.[^k2]
+Tahsilatın aracılara bırakılması merkezi maliyeti azaltırken yerel zorlamayı ve kayıt
+farkını büyütebilir. İsyanlarda “yüksek vergi” ifadesi kullanıldığında yalnız miktar
+değil, yeni verginin kim tarafından, hangi hak iddiasıyla ve hangi kriz anında
+istendiği incelenmelidir.[^k3]
 
 ## Kanıtın ve kapsamın sınırı
 Vergi türlerinin ayrıntısı, oranlar ve iktisadi etkiler burada ayrı başlıklar

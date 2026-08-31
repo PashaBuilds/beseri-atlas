@@ -51,7 +51,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne oldu
 
 Sekizinci yüzyılın ortasında iki büyük düzenin orduları Orta
@@ -60,8 +59,7 @@ Asya'da karşılaştı.[^k1] Karşılaşma bir nehir vadisinde gerçekleşti.
 Doğudan gelen ordu yenildi.[^k2] Yenilgide, savaş sırasında taraf
 değiştiren bir bozkır topluluğunun payı olduğu aktarılır.
 
-Bu incelemenin konusu muharebenin ayrıntısı değildir.[^k3] Sonucuna
-yüklenen anlamların hangi kanıta dayandığıdır.
+Sonucuna yüklenen anlamların hangi kanıta dayandığıdır.
 
 ## Savaşın çıkış nedeni yerel bir infazdır
 
@@ -235,9 +233,6 @@ yüzyıllarda yazıldı.
 İki taraftan da kayıt vardır ama ikisi de sonradan derlenmiştir.[^k2]
 Ordu büyüklükleri ve kayıp sayıları birbirini tutmaz.
 
-Bu, korpusun tarihsel sayılar
-kuralının buradaki uygulamasıdır.[^k3]
-
 ## Bölgenin kendi kaydı
 
 Bölgenin vaha kentlerinden gelen kendi belgeleri vardır.[^k1] Bu
@@ -255,8 +250,7 @@ olayın orada yaşayanlar için merkezde olmadığını da gösterebilir.[^k2]
 Muharebeden sonra iki düzen arasında fiilî bir sınır oluştu.[^k1] Sınır
 bir antlaşmayla çizilmedi.
 
-Sınır, genişlemenin durduğu yerde oluştu.[^k3] Bu, korpusun imparatorluk
-sınırı tartışmasında tanımlanan biçimlerden biridir.
+Sınır, genişlemenin durduğu yerde oluştu.[^k3]
 
 Bir sınır, çizildiği için değil iki tarafın da
 ötesine geçemediği için kalıcı olabilir.[^k2]
@@ -295,8 +289,6 @@ geldi.[^k3] Bu çerçeve, olayı olduğundan büyük gösterir.
 Bir olayın önemi, kaynaklardan değil onu
 anlatan çerçeveden de gelebilir.[^k2]
 
-## Korpusun bu incelemeden çıkardığı
-
 Dosya bir muharebeyi anlatmaz.[^k1] Bir olayın nasıl fazla yük
 taşımaya başladığını gösterir.
 
@@ -318,7 +310,24 @@ ayrı bir dosya gerektirir.
 doğrulanabilir çevrimiçi çağdaş metin bulunamamıştır ve kısıt burada
 beyan edilir.
 
+## Nedensellik için karşı-olgusal denetim
+
+Talas'ı “Çin ile İslâm dünyasının kaderini belirleyen savaş” diye anlatmak, tek
+muharebeye sonradan oluşan sınırların bütün yükünü bindirir. Karşı-olgusal soru
+daha ölçülüdür: savaş yaşanmasaydı Tang garnizonlarının batıya sürekli genişleme
+kapasitesi var mıydı; Abbâsî yönetimi vadide doğrudan ve kalıcı idare kurabilir
+miydi? An Luşan isyanı, merkezden uzaklık, vaha kentlerinin yerel siyaseti ve
+tedarik sınırı cevapta muharebe kadar önemlidir.[^k1][^k2]
+
+Kâğıt üretiminin batıya geçişi için de aynı denetim gerekir. Esir zanaatkâr
+anlatısı mümkün bir aktarım kanalıdır, fakat teknik bilginin yayılması tek gün ve
+tek kişiyle açıklanamaz. Hammadde, su, emek, talep ve atölye sürekliliği olmadan
+bilgi üretime dönüşmez. Talas'ın değeri sonuçların “başlangıç tarihi” olmasından
+çok, yerel çatışma ile daha geniş siyasal ve teknolojik ağların kesiştiği bir
+eşik sunmasıdır.
+
 ## Okumayı sürdürmek için
+
 Taraf değiştiren topluluk için [Karluklar](/aktor/karluklar/), bölgenin
 sonraki düzeni için [Uygur Kağanlığı](/aktor/uygur-kaganligi/)
 dosyaları okunmalıdır.[^k1]

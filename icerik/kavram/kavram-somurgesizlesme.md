@@ -66,7 +66,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak ilk bölümünü kapsam başlığına ayırır; ardından bölgelere göre başlığı
 altında Amerikan Devrimi, Haiti Devrimi, İspanyol Amerikası, Portekiz Amerikası,
 Britanya İmparatorluğu, Fransız İmparatorluğu ve Osmanlı İmparatorluğu alt
@@ -74,19 +73,10 @@ başlıklarını tutar.[^k1]
 
 ## Kapsam sorusu ilk bölümdür
 
-Bir kavramın maddesinin kapsam başlığıyla açılması,[^k1] korpusun şu kuralının
-dayanağıdır: bu incelemede sömürgesizleşme, hangi imparatorluk ve hangi dönem için
-söylendiği belirtilmeden anılmaz.
-
 ## Şiddet ve bölünme ayrı alt başlıklardır
 
 Kaynak, Britanya İmparatorluğu alt başlığının altında şiddet, iç savaş ve bölünme
 diye ayrı bir alt başlık tutar.[^k1]
-
-Bir bağımsızlık sürecinin ansiklopedi maddesinde şiddetin ayrı bir alt başlık
-taşıması,[^k1] korpusun bu kavramı yalnızca bir hukuki devir olarak
-kaydetmemesinin dayanağıdır; ilgili olay
-[Hindistan'ın bölünmesi](/olay/hindistan-bolunmesi/) dosyasında ele alınıyor.
 
 ## Dönemler 1918 ve 1945 ile ayrılır
 
@@ -104,7 +94,6 @@ alınıyor.[^k3]
 Aynı yüzyılın bir siyaset yazarı için tutulan kayıt, onu yirminci yüzyılın en
 etkili siyaset filozoflarından biri olarak verir.[^k2] O yazar
 [Hannah Arendt](/dusunur/arendt/) dosyasında ele alınıyor.
-
 
 ## Üç biçim
 
@@ -125,10 +114,6 @@ kararla benimsenen bir ilkeydi.
 
 Gerekçe pratikti.[^k2] Sınırların yeniden çizilmesi, kıta ölçeğinde
 çatışma riski taşıyordu.
-
-Bölgede yaşamayanlarca çizilmiş sınırların
-korunması, korpusta tekrar eden bir ölçümün sonucudur: karar bir kez dışarıda
-alındığında, etkisi o kararı verenin gitmesinden sonra da sürer.[^k3]
 
 ## Hızın kendisi
 
@@ -201,7 +186,6 @@ olduğu.
 Bağımsızlık bir gün değil, çoğu zaman yıllara
 yayılan bir yetki devirleri dizisidir.[^k3]
 
-
 ## Yerleşimci nüfusun durumu
 
 Yerleşimci nüfusun bulunduğu yerlerde süreç daha
@@ -211,6 +195,22 @@ belirlemek zorundaydı.
 Bazı örneklerde yerleşimciler ülkeyi terk etti, bazılarında
 kaldı.[^k2] İki sonuç farklı devlet biçimleri
 üretti.[^k3]
+
+## Bağımsızlık anı ile egemenlik süreci
+
+Sömürgesizleşme bayrak, anayasa veya uluslararası tanınmayla görünür bir tarih
+kazanır; fakat sömürge ilişkisinin bütün katmanları aynı gün sona ermez.[^k1] Askerî
+üsler, borç, para düzeni, şirket mülkiyeti ve idarî kadrolar yeni devletin karar
+alanını sınırlamayı sürdürebilir. Buna karşılık bu süreklilik hukukî bağımsızlığın
+önemsiz olduğu anlamına gelmez; dış yetkinin devri, siyasal mücadelenin koşullarını
+temelden değiştirir.
+
+Süreç barışçı müzakere, kitle seferberliği, silahlı savaş veya bunların bileşimiyle
+ilerleyebilir.[^k2] İmparatorluk merkezi, yerleşimci topluluklar ve bağımsızlık
+hareketleri kendi içlerinde de bölünmüştür. “Ulusal hareket” tek sesli bir aktör gibi
+kullanılmamalı; kimlerin yurttaşlık, toprak ve dil düzeni tasarladığı gösterilmelidir.
+Başarıyı yalnız bağımsızlık tarihiyle değil, yönetilenlerin karar süreçlerine erişimi
+ve sömürge dönemindeki eşitsizliklerin dönüşümüyle değerlendirmek gerekir.[^k3]
 
 ## Kanıtın ve kapsamın sınırı
 İmparatorluk imparatorluk süreçler, planlama ve sonrasındaki gelişmeler burada

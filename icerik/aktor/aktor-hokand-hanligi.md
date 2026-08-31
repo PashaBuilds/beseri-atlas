@@ -60,7 +60,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Hokand Hanlığı, on sekizinci yüzyıl başında dağlarla çevrili verimli bir
@@ -71,8 +70,7 @@ Vadi, çevresindeki bölgelerden dağ sıralarıyla ayrılır.[^k2] Bu, hem
 savunma avantajı hem ticari kısıt anlamına geliyordu; geçitler sayılı
 olduğu için hem savunulabilir hem denetlenebilir bir alandı.
 
-Bu incelemenin asıl konusu hanlığın sonudur.[^k4] Komşu iki hanlık himaye
-altına alınırken bu hanlık doğrudan ilhak edildi.
+Komşu iki hanlık himaye altına alınırken bu hanlık doğrudan ilhak edildi.
 
 ## Farklı sonun sorusu
 
@@ -101,8 +99,7 @@ işlemesi için gereken tek muhatabı ortadan kaldırır.
 
 ## Açıklamaların sınanması
 
-Üç açıklama da aynı olguya uyar ve bu, hiçbirinin sınanmadığı anlamına
-gelir.[^k2] Sonucu bilerek gerekçe aramak, korpusun kaçındığı işlemdir.
+Üç açıklama da aynı olguya uyar ve bu, hiçbirinin sınanmadığı anlamına gelir.[^k2]
 
 Sınama için karşılaştırılabilir başka örnekler gerekir.[^k1] Aynı gücün
 başka bölgelerde hangi araca hangi koşulda başvurduğu ayrı bir
@@ -179,9 +176,7 @@ Nedeni, göçebe boy önderleri ile yerleşik yönetici kesim arasındaki
 dengenin bir türlü kurulamamasıdır.[^k2] İki kesim farklı adayları
 destekliyordu.
 
-Bu istikrarsızlık, hanlığın dış baskıya karşı direncini
-zayıflattı.[^k4] Korpus bunu tek neden saymaz ama izlenebilir bir etken
-olarak kaydeder.
+Bu istikrarsızlık, hanlığın dış baskıya karşı direncini zayıflattı.[^k4]
 
 ## Fethin biçimi
 
@@ -215,8 +210,7 @@ Bu, bölgeyi dışarıdan gelen gıdaya bağımlı hâle getirdi.[^k4] Tek ürü
 yönelen bir tarım düzeni, fiyat ve ulaşım kesintilerine karşı
 kırılgandır.
 
-Dosya bu dönemi ayrıntılandırmaz.[^k1] Fetih sonrası ayrı bir dosya
-gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu.
+Dosya bu dönemi ayrıntılandırmaz.[^k1]
 
 ## Kültürel üretim
 
@@ -273,29 +267,24 @@ Bu topluluklar hanlığın vergi ve asker kaynaklarındandı.
 İlişki sürekli bir pazarlıktı.[^k1] Otlak kullanımı, vergi oranı ve
 askerî yükümlülük tartışma konusuydu.
 
-Sınır topluluklarının tutumu, hanlığın dış baskıya karşı direncini
-doğrudan etkiledi.[^k4] Korpus bu bağı bu noktayı da belirtir.
+Sınır topluluklarının tutumu, hanlığın dış baskıya karşı direncini doğrudan
+etkiledi.[^k4]
 
 ## Fetih öncesi diplomasi
 
 Hanlık, fethin öncesindeki yıllarda kuzeydeki devletle antlaşmalar
 imzaladı.[^k4] Antlaşmalar ticaret ve sınır düzenini kapsıyordu.
 
-Antlaşmalar fethi engellemedi.[^k1] Bu, korpusun Hawai dosyasında
-kaydedilen gözlemin bir başka örneğidir: tanınma ve antlaşma, ilhakın
-önünde tek başına engel değildir.
+Antlaşmalar fethi engellemedi.[^k1]
 
 İki örnek arasındaki benzerlik yapısaldır.[^k2] Her ikisinde de resmî
 ilişki kurulmuş, sonra ilişkinin tarafı ortadan kaldırılmıştır.
 
 ## Kaynak durumu
 
-Bu incelemenin dört künyesinin üçü ansiklopedi maddesidir.[^k1] Birincil
-kaynak künyelenememiştir.
+Birincil kaynak künyelenememiştir.
 
 Dönemin Çağatayca ve Farsça vakayinameleri mevcuttur.[^k2]
-Doğrulanabilir çevrimiçi baskıları bu inceleme yazıldığında
-bulunamamıştır.
 
 Eksik borç defterine yazılmıştır.[^k3] Dosya, birincil kaynağı olmayan
 makaleler grubundadır.
@@ -309,7 +298,6 @@ Askerî seferlerin ayrıntısı kapsam dışıdır.[^k4] Dosya yalnızca
 sonun biçimine ve karşılaştırmaya ilişkin olanı kaydeder.
 
 Fetih sonrası idari düzenin ayrıntısı ayrı bir dosya gerektirir.[^k2]
-Bu inceleme yazıldığında korpusta bulunmuyordu.
 
 ## Kanıtın ve kapsamın sınırı
 Dosya, farklı sonun nedenini belirlemez.[^k4] Üç açıklama adayını sıralar
@@ -318,10 +306,7 @@ ve hiçbirinin sınanmadığını yazar.
 İç istikrarsızlığın belirleyici olduğu da söylenmez.[^k1] İzlenebilir
 bir etken olarak kaydedilir.
 
-Fethin hukuki niteliği tartışılmaz.[^k2] Dosya olayların sırasını
-kaydeder; fethin gerekçelerinin nasıl kurulduğu ve kamuya nasıl
-sunulduğu ayrı bir çalışma gerektirir ve bu inceleme yazıldığında korpusta
-işlenmemişti.
+Fethin hukuki niteliği tartışılmaz.[^k2]
 
 ## Okumayı sürdürmek için
 Karşılaştırmanın öteki iki tarafı için
@@ -340,3 +325,28 @@ Fetih sonrası dönemin genel çerçevesi için
 Bozkır düzenlerinin yerleşik bölgelerle ilişkisi için
 [Bozkır imparatorluğu](/kavram/bozkir-imparatorlugu/) dosyası
 okunmalıdır.[^k4]
+
+## Neden himaye değil ilhak?
+
+Rus İmparatorluğu Hîve ve Buhara’da hanedanı sınırlı yetkiyle korurken Hokand’ı
+doğrudan kaldırdı. Fark yalnız coğrafi yakınlıkla açıklanamaz. Fergana Vadisi’nin
+nüfus ve tarım yoğunluğu, ticaret yolları, sürekli ayaklanma algısı ve hanlık
+içindeki iktidar mücadeleleri ilhakın maliyet hesabını değiştirdi.[^k1][^k2]
+
+Hokand’ın kendisi de tek merkezden kesintisiz yönetilen bir alan değildi.
+Hanedan, yerel beyler, dinî çevreler ve farklı toplulukların askerî desteği arasında
+denge kuruyordu.[^k1][^k3] Taht değişimleri yalnız kişisel hırs değil, vergi,
+ticaret ve bölgesel temsil üzerindeki rekabeti yansıtıyordu. Rus ilerlemesi bu
+iç ayrılıkları hem kullandı hem daha da sertleştirdi.
+
+İlhak sonrası “hanlık sona erdi” demek siyasi unvanı açıklar; yerel ağların,
+vakıfların, pazarların ve direnişin ne ölçüde sürdüğünü açıklamaz.[^k4] Hîve,
+Buhara ve Hokand karşılaştırması aynı imparatorluğun tek bir sömürge yöntemi
+uygulamadığını gösterir. Merkez, doğrudan yönetim ile bağlı hanedan arasında
+beklenen vergi, güvenlik ve isyan maliyetine göre seçim yaptı.
+
+Kararın yerel halk üzerindeki sonucu, imparatorluğun mali hesabından bağımsız olarak da değerlendirilmelidir.
+
+İdari kolaylık, yönetilenler için meşruiyet kanıtı değildir.
+
+Rıza ayrıca ölçülmelidir.

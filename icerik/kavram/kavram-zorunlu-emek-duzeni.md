@@ -55,7 +55,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Tanım
 
 Zorunlu emek düzeni, emeğin ne köle mülkiyetiyle ne de serbest sözleşmeyle
@@ -144,9 +143,8 @@ Düzenin yazılı kaydının büyük bölümü yönetim tarafından tutuldu.[^k1
 Kota listeleri, vergi kayıtları ve tahsis belgeleri aynı elden
 çıkar.
 
-Bir istisna vardır ve korpus bunu ayrıca künyeler.[^k2] Yerli bir
-yazarın hazırladığı çizimli el yazması, düzeni tabi kılınan tarafın
-konumundan anlatır.
+Yerli bir yazarın hazırladığı çizimli el yazması, düzeni tabi kılınan tarafın konumundan
+anlatır.
 
 Aynı uygulamanın iki kayıtta nasıl
 adlandırıldığı, adlandırmanın kendisini bir veri hâline getirir.[^k3]
@@ -184,6 +182,14 @@ bağımlılığı ve kiracılık gibi başka bağlama biçimleri geçti.
 
 Bir zorlama biçiminin kaldırılması,
 zorlamanın sona erdiğini göstermez.[^k2]
+
+## Zorlamayı tanımanın ölçütleri
+
+Bir emek düzeninde ücret bulunması, çalışmanın özgür olduğunu tek başına göstermez.
+İşçinin ayrılma hakkı, borç ilişkisi, vergi yükümlülüğü, fiziksel ceza tehdidi ve
+ailesinin statüsü birlikte değerlendirilmelidir.[^k1] Devletin işgücü talebini vergi
+veya askerî güçle desteklemesi ile özel işverenin sözleşme yapması aynı biçimde
+görünebilir; gerçek ayrım, çalışmayı reddetmenin mümkün olup olmadığıdır.[^k2]
 
 ## Okumayı sürdürmek için
 Düzenin dönemindeki en ayrıntılı eleştirisi için

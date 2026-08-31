@@ -53,7 +53,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne tür bir düzen
 
 Ryukyu Krallığı, iki büyük komşunun arasında kalan bir ada zincirinde
@@ -63,8 +62,7 @@ kendi yönetimi vardı.
 Ayırt edici yanı dış ilişkileridir.[^k3] Aynı anda iki farklı merkeze
 bağlılık bildiriyordu.
 
-Bu incelemenin konusu hanedan tarihi değildir.[^k2] Çifte bağlılığın nasıl
-işlediği ve neyi mümkün kıldığıdır.
+Çifte bağlılığın nasıl işlediği ve neyi mümkün kıldığıdır.
 
 ## Birinci bağlılık
 
@@ -72,8 +70,7 @@ Krallık, on beşinci yüzyıldan itibaren batıdaki büyük hanedana düzenli
 elçi ve haraç gönderdi.[^k1] Karşılığında resmî tanınma ve ticaret izni
 aldı.
 
-Bu, korpusun haraçgüzarlık dosyasında tanımlanan düzenin standart
-biçimidir.[^k3] Bağlılık bildirimi, ticaret hakkının bedeliydi.
+Bağlılık bildirimi, ticaret hakkının bedeliydi.
 
 Haraç, vergi değil bir izin ücretidir;
 karşılığında elde edilen şey ticarete erişimdir.[^k2]
@@ -164,9 +161,7 @@ içinde de benzer bir bağlılık kademesi kurabilir.[^k2]
 karşılanıyordu.[^k1] Adalarda şeker kamışı üretimi bu talebe göre
 genişletildi.
 
-Bu, korpusun tek ürüne bağlanma dosyasındaki yapının erken bir
-örneğidir.[^k3] Ürün seçimi yerel ihtiyaçtan değil ödeme
-yükümlülüğünden geliyordu.
+Ürün seçimi yerel ihtiyaçtan değil ödeme yükümlülüğünden geliyordu.
 
 Bir vergi ya da haracın hangi malla
 ödeneceği, o malın üretimini doğrudan belirler.[^k2]
@@ -178,10 +173,6 @@ dışarıdan almak zorunda kaldı.
 
 Bu, ikili bir bağımlılık üretti.[^k3] Hem satılan ürünün fiyatına hem
 alınan gıdanın fiyatına bağlı hâle gelindi.
-
-Aynı yapı korpusun Bengal ve
-Pasifik dosyalarında da kayıtlıdır: satılık ürüne geçiş, gıda güvenliğini doğrudan
-azaltır.[^k2]
 
 ## Doğal âfetlerin etkisi
 
@@ -199,8 +190,7 @@ dalgalandığı bir bölgede kötü yılların yükünü ağırlaştırır.[^k2]
 Krallık, kendi ürettiğinden çok taşıdığıyla geçiniyordu.[^k1] Uzak
 limanlardan aldığı malları başka limanlara satıyordu.
 
-Bu, korpusun ticaret diasporası dosyasında tanımlanan yapıya
-yakındır.[^k3] Gelir, üretimden değil bağlantıdan gelir.
+Gelir, üretimden değil bağlantıdan gelir.
 
 Aracılıktan doğan bir gelir, tarafların doğrudan
 ilişki kurması hâlinde kendiliğinden yok olur.[^k2]
@@ -281,9 +271,6 @@ Bölgenin statüsü, sonraki savaşın antlaşmasıyla fiilen
 kesinleşti.[^k3] Karar, adalarda yaşayanların katılmadığı bir masada
 alındı.
 
-Bir bölgenin akıbetinin orada
-yaşamayanlarca belirlenmesi, korpusta kıtadan kıtaya tekrarlanır.[^k2]
-
 ## Din ve tören düzeni
 
 Adalarda kendine özgü bir tapınç düzeni vardı ve bu düzende kadın
@@ -345,3 +332,27 @@ Aracılıktan geçinen bir başka düzen için
 düzeni için
 [Eşitsiz antlaşmalar](/kavram/esitsiz-antlasmalar/) dosyaları
 okunabilir.[^k2]
+
+## Çifte bağlılık bir hayatta kalma yöntemi
+
+Ryukyu, Ming ve Qing Çin’iyle haraç-diplomasi ilişkisini sürdürürken Satsuma’nın
+1609 müdahalesinden sonra Japon siyasal alanına da bağlandı.[^k1] Bu durum basit
+bir kimlik kararsızlığı değildi. Çin ağı resmî ticaret ve bölgesel meşruiyet,
+Satsuma ilişkisi askerî baskı ve vergi yükümlülüğü getiriyordu. Krallık iki tarafa
+aynı yüzünü göstermek yerine farklı tören ve yazışma dilleri kullandı.
+
+Aracılık geliri, iki merkez arasında ayrı statüyü korumayı değerli kıldı. Çin’in
+Ryukyu’yu bağımsız haraç ortağı gibi görmesi, Satsuma’nın dolaylı denetimini
+gizlemesini teşvik etti. Bu yüzden “kime aitti?” sorusu tek bir modern egemenlik
+cevabına sığmaz; dış temsil, vergi, iç yönetim ve askerî güç ayrı aktörlerde
+toplanmıştı.[^k1][^k2]
+
+19. yüzyılda Japon merkezîleşmesi ve bölgesel antlaşma düzeni bu belirsizliği
+daralttı. Ryukyu’nun ilhakı yalnız eski bir krallığın modern devlete doğal
+katılması değil, çifte bağlılık stratejisinin artık kabul edilmediği siyasal bir
+dönüşümdü. Shimonoseki Antlaşması sonraki Çin-Japon güç dengesini gösterir;
+Ryukyu’nun önceki üç yüzyılını geriye doğru tek tarafa ait saydırmaz.[^k3]
+
+Sonraki sınırlar geçmiş bağlılıkların anlamını tek başına belirleyemez; dönemin taraflarının kullandığı statüler esas alınmalıdır.
+
+Törensel dil ile fiilî yetki birlikte okunmalıdır.

@@ -62,7 +62,6 @@ son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak üç Eleştiri'yi künyeleriyle sıralar: *Saf Aklın Eleştirisi* (1781, 1787),
@@ -73,9 +72,7 @@ Kaynak üç Eleştiri'yi künyeleriyle sıralar: *Saf Aklın Eleştirisi* (1781,
 İlk eserin iki yılla birden verilmesi,[^k1] aynı başlık altında iki farklı
 baskının bulunduğu anlamına gelir.
 
-Korpusun kuralı şudur: bu esere yapılan atıflar, hangi baskıya ait olduğu
-belirtilmeden verilemez. Aynı sorun
-[Hobbes — Leviathan](/kaynak/hobbes-leviathan/) dosyasında da kayıtlıdır; o
+Aynı sorun [Hobbes — Leviathan](/kaynak/hobbes-leviathan/) dosyasında da kayıtlıdır; o
 eserin 1668 tarihli Latince baskısında tartışmalı konularla ilgili bazı önemli
 değişiklikler ve eklemeler bulunduğu yazılır.[^k2]
 
@@ -96,14 +93,7 @@ ayrı okumayı alt başlıklar hâlinde sıralar ve bunlardan birini Kant sonras
 olarak adlandırır.[^k3] O düşünür
 [G. W. F. Hegel](/dusunur/hegel/) dosyasında ele alınıyor.
 
-## Okumayı sürdürmek için
-Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi baskının ve hangi çevirinin
-kullanıldığı her aktarımda belirtilmelidir. Kaynak sınıflandırması
-[Birincil kaynak](/kavram/birincil-kaynak/) dosyasında ele alınıyor.
-
 ## Metne bağ
 
-Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
-atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
-çevirinin kullanıldığı her aktarımda belirtilmelidir.
+Eserin kamu malı Almanca metni erişilebilir durumdadır; her atıf bölüm ya da
+paragraf numarasıyla verilmeli, kullanılan baskı ve çeviri belirtilmelidir.[^k4]

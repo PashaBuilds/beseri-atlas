@@ -260,7 +260,7 @@ export function icerikKaybi({ makaleler }) {
       .filter((x) => x && !x.startsWith('#') && !x.startsWith('|'));
 
     for (const par of paragraflar) {
-      const kelimeler = [...new Set(kelimele(par))].filter((k) => k.length > 6);
+      const kelimeler = [...new Set(kelimele(kayipKarsilastirmaMetni(par)))].filter((k) => k.length > 6);
       if (kelimeler.length < 5) continue;
       const bulunan = kelimeler.filter((k) => ciktiKelimeler.has(k)).length;
       const oran = bulunan / kelimeler.length;
@@ -277,6 +277,19 @@ export function icerikKaybi({ makaleler }) {
   r.ozetSatirlari = [`${olculen} sayfa karsilastirildi · icerigi ciktiya ulasmayan makale: ${kayipli}`];
   r.olcum = { olculen, kayipli };
   return r;
+}
+
+/**
+ * Kaynaktaki leaf direktifinin sözdizimi ve `harita` hedefi HTML'de görünür
+ * metin değildir. İçerik-kaybı karşılaştırması yalnız okurun gördüğü çağrı
+ * cümlesini ölçmelidir; aksi hâlde kısa fakat eksiksiz çağrılar yanlış pozitif
+ * üretir.
+ */
+export function kayipKarsilastirmaMetni(paragraf) {
+  return String(paragraf || '').replace(
+    /^::tartismali\[([\s\S]+)\]\{harita=[^}\s]+\}$/i,
+    '$1',
+  );
 }
 
 /** Karsilastirilabilir kelime dizisi: kucuk harf, noktalama ve rakam yok. */

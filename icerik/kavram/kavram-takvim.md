@@ -48,7 +48,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Neden ayrı bir dosya
 
 Bu, karşılaştırma yapabilmek için
@@ -122,9 +121,6 @@ alındığını gizler.[^k3]
 Çeviri, kaynağın vermediği bir kesinlik üretebilir.[^k1] Bir kaynak
 yalnızca ayı veriyorsa, çeviri sonucunda bir gün çıkması yanıltıcıdır.
 
-Kaynak ay veriyorsa, korpus da ay
-verir.[^k2]
-
 Kural basittir.[^k3] Çeviri bilgi eklemez; yalnızca aynı bilgiyi başka
 bir ölçekte ifade eder.
 
@@ -175,8 +171,6 @@ Bir olayın başka bir olaydan sonra
 geldiğini bilmek, hangi yılda geldiğini bilmekten farklı ve çoğu zaman daha güvenilir
 bir bilgidir.[^k3]
 
-## Korpusun kendi kuralı
-
 Birincisi, çevrilmiş her tarih çeviri
 olduğu belirtilerek kullanılır.[^k2]
 
@@ -185,6 +179,14 @@ dönemlerinde iki tarih birlikte verilir.
 
 Üçü de aynı amaca hizmet eder.[^k3] Bir tarihin nereden geldiğinin
 izlenebilir kalması.
+
+## Zamanı standartlaştırmanın bedeli
+
+Takvim yalnız astronomik gözlemin sonucu değildir; vergi, tarım, ibadet ve yönetim
+için ortak zaman kurar.[^k1] Bir takvimin kabulü farklı toplulukların bütün tarihleri
+aynı biçimde yaşadığı anlamına gelmez. Tarih dönüştürürken yıl başlangıcı, artık gün,
+yerel ay adları ve geriye dönük kullanım ayrıca kontrol edilmelidir. Tek bir modern
+tarihe çevrilen olayın özgün zaman bağlamı böylece kaybolabilir.[^k2]
 
 ## Okumayı sürdürmek için
 Dönem sınırlarının nasıl çizildiği için

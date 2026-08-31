@@ -9,6 +9,10 @@ tarih_baslangic: "1936"
 bolge: [avrupa, amerika]
 eksen: [ekonomik, siyasi]
 guven_geneli: yaygin
+kaynak_siniri: >-
+  Eserin doğrulanabilir tam metni açık erişimde bulunmadığı için bu kayıt katalog
+  ve akademik ikincil kaynaklarla sınırlıdır; bölüm ya da sayfa düzeyinde
+  birincil metin aktarımı yapmaz.
 etiketler: [genel-teori, makroiktisat, kabul-gecikmesi, talep, bayindirlik]
 ilgili:
   - dusunur-keynes
@@ -52,7 +56,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak eserin sıklıkla modern makroiktisadın temeli olarak görüldüğünü yazar ve
@@ -65,10 +68,7 @@ fikirde olduğunu; buna karşın fikirlerinin kısa süre sonra yaygın kabul
 göreceğini ve Alvin Hansen gibi tanınmış Amerikalı profesörlerin İkinci Dünya
 Savaşı'nın patlak vermesinden önce eserle hemfikir olduğunu yazar.[^k1]
 
-Bir kuramın kabulünün yayımından yıllar sonraya tarihlenmesi,[^k1] korpusun şu
-kuralının dayanağıdır: bu eserin etkisine dair cümleler, hangi yıl için
-söylendiği belirtilerek aktarılır. Yazar
-[John Maynard Keynes](/dusunur/keynes/) dosyasında ele alınıyor.
+Yazar [John Maynard Keynes](/dusunur/keynes/) dosyasında ele alınıyor.
 
 ## Önerinin içeriği kaynağın kendi cümlesidir
 
@@ -88,11 +88,3 @@ ahlaki pratiğe kılavuzluk etmesi gerektiğini düşündüğünü yazar.[^k2] O
 
 Dönemin iktisadi serisinde sağlayıcının toplam satırı 1940 için 3.190,7
 verir.[^k3]
-
-Korpus bu değeri eserin tezinin kanıtı olarak sunmaz; seri sağlayıcının toplam
-satırıdır, tez ise belirli ülkelerin işsizlik politikasına dairdir.[^k1][^k3]
-
-## Okumayı sürdürmek için
-Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser teliflidir; korpus metninden alıntı yapmaz ve
-yalnızca hakkında yazılanı aktarır.

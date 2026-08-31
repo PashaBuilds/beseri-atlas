@@ -153,8 +153,8 @@ Cümlenin işlevi, dört yüzyılı atlamaktır.[^k2] Bölgenin tarihi, çoğu
 anlatıda Timurlulardan doğrudan on dokuzuncu yüzyıl fetihlerine geçer ve
 aradaki dönem tek bir geçiş cümlesine sıkışır.
 
-Bu inceleme cümlenin doğru olup olmadığını sormaz.[^k4] Cümlenin hangi
-ölçüte dayandığını ve o ölçütün gerçekten ölçülüp ölçülmediğini sorar;
+Buradaki ilk soru cümlenin doğru olup olmadığı değildir.[^k4] Önce hangi ölçüte
+dayandığı ve o ölçütün gerçekten ölçülüp ölçülmediği sorulur;
 ikinci soru, birincisinden önce gelir.
 
 ## Ölçüt sorusu
@@ -280,13 +280,12 @@ Dördüncü konum, sorunun kendisini hedef alır.[^k4] Ölçülen şeyin
 bölgenin ağırlığı değil, bölge hakkındaki kaydın erişilebilirliği
 olduğunu ileri sürer.
 
-Konum, korpusun başka dosyalarında da ölçülmüş bir mekanizmaya
-dayanır.[^k2] Dijital erişim eşitsizliği, kaynak yanlılığını sessizce
-üretir.
+Konum, farklı bölgelerde de görülen bir mekanizmaya dayanır.[^k2] Dijital erişim
+eşitsizliği, kaynak yanlılığını sessizce üretir.
 
-Mekanizmanın varlığı bu incelemede da doğrulanabilir.[^k3] Bu incelemenin
-künyelerinin tamamı ansiklopedi maddesidir; bölgenin dönem kaynakları
-künyelenebilir hâlde bulunamamıştır.
+Mekanizmanın izi kaynakça üzerinde de görülebilir.[^k3] Künyelerin tamamı ansiklopedi
+maddesidir; bölgenin dönem kaynakları doğrulanabilir çevrimiçi biçimde
+bulunamamıştır.
 
 ## Öncül eleştirisinin sınırı
 
@@ -301,9 +300,9 @@ sonucu üretebilen bir yöntem, yöntem olmaktan çıkar.[^k3]
 
 ## Kalıbın kendisi
 
-İddianın yapısı — bir bölgenin "önemini yitirmesi" — korpusun öteki
-bölgeleri için de kullanılan bir kalıptır.[^k4] Aynı cümle başka
-bölgeler için de kurulur.
+Bir bölgenin “önemini yitirdiği” iddiası başka coğrafyalar için de kullanılan
+genel bir kalıptır.[^k4] Aynı cümlenin farklı bölgeler için kurulabilmesi, ölçütün
+açıkça belirtilmesini daha önemli hâle getirir.
 
 Kalıbın ortak özelliği, ölçüt belirtmemesidir.[^k2] Neye göre önem
 yitirildiği çoğu zaman yazılmaz.
@@ -311,7 +310,7 @@ yitirildiği çoğu zaman yazılmaz.
 Ölçüt belirtmeden kurulan gerileme cümlesi, bir
 karşılaştırma değil bir izlenimdir.[^k1]
 
-## Korpusun bu tartışmadaki konumu
+## Ölçülmemiş iddia karşısındaki konum
 
 Seçim, ölçülmemiş verilere dayanmayı gerektirir.[^k3]
 
@@ -323,8 +322,8 @@ noktada veri eksiği taşıdığı, dosyanın kendisinden okunabilir.
 
 ## Uygulanan kural
 
-Tartışmadan bir kural çıkar ve korpusun bütün bölge dosyalarına
-uygulanır.[^k1] **Gerileme sözcüğü, ölçüt belirtilmeden
+Tartışmadan bütün bölgesel karşılaştırmalara uygulanabilecek bir kural çıkar.[^k1]
+**Gerileme sözcüğü, ölçüt belirtilmeden
 kullanılmaz.**
 
 Kural bu turda yazılan dört hanlık dosyasında da uygulanmıştır.[^k3]
@@ -356,8 +355,8 @@ Bu mekanizma, on altıncı yüzyıldan sonraki dünya için doğrudan
 geçerlidir.[^k1] Atlantik ekonomisinin büyümesi, bütün öteki bölgelerin
 payını matematiksel olarak düşürür.
 
-Payın düşmesi, o bölgede bir şeyin kötüleştiğini göstermez.[^k3] Korpus
-bu ayrımı bütün pay hesaplarında ayrıca yazar.
+Payın düşmesi, o bölgede bir şeyin kötüleştiğini göstermez; mutlak değer ile toplam
+içindeki pay her hesapta ayrı verilmelidir.[^k3]
 
 ## Dönemlendirmenin etkisi
 
@@ -393,8 +392,8 @@ Bir dönemin yazılması, o dönemin
 önemli olduğunun kanıtlanmasına bağlanamaz; önem, ancak yazıldıktan sonra
 değerlendirilebilir.[^k2]
 
-Bu, korpusun bu tura ilişkin kararını açıklar.[^k1] Dört hanlık dosyası,
-tartışma sonuçlanmadan yazıldı.
+Bu ayrım dört hanlık yazısının neden tartışma sonuçlanmadan hazırlanabildiğini
+açıklar: aktörleri kaydetmek, gerileme tezini kabul etmeyi gerektirmez.[^k1]
 
 ## Bölge içi ticaretin görünmezliği
 
@@ -410,9 +409,8 @@ kalması küçük olduğu anlamına gelmez.
 
 ## Ölçülemeyenin dışarıda kalması
 
-Aynı mekanizma korpusun başka dosyalarında da ölçülmüştür.[^k4] Bir
-olgunun kayda geçme biçimi, o olgunun tartışmadaki ağırlığını da
-belirler.
+Aynı mekanizma başka tarihsel alanlarda da görülür.[^k4] Bir olgunun kayda geçme
+biçimi, tartışmadaki görünürlüğünü ve ağırlığını da belirler.
 
 Sonuç, sistematik bir eğilimdir.[^k1] Kayda geçen kalemler
 büyütülür, geçmeyenler yok sayılır.
@@ -435,9 +433,8 @@ ikinci dayanağıdır.
 
 ## Tartışmanın öteki bölgelerle bağı
 
-Aynı yapıdaki bir tartışma korpusta bir başka bölge için de
-vardır.[^k4] Orada da bir gerileme tezi ve tezin öncülünü hedef alan bir
-eleştiri bulunur.
+Aynı yapıdaki gerileme tartışmaları başka bölgeler için de kurulmuştur.[^k4]
+Onlarda da tezin sonucu kadar ölçütünü ve öncülünü hedef alan eleştiriler bulunur.
 
 İki tartışmanın karşılaştırılması öğreticidir.[^k2] Öncül eleştirisi iki
 yerde de aynı mekanizmaya dayanır: kaydın kimin tarafından tutulduğu.
@@ -454,22 +451,35 @@ açıldığı, bozkırda büyük siyasi birimlerin tasfiye edildiği ve bölgeni
 Çözülmemiş olan, bu üçünün bölgenin ağırlığı üzerindeki bileşik
 etkisidir.[^k2] Üç olgu da doğrudur ve üçünün toplamı ölçülmemiştir.
 
-Ayrımın korunması korpusun temel işidir.[^k3] Bir tartışmanın sürmesi,
-dayandığı olguların da tartışmalı olduğu anlamına gelmez.
+Olguyla yorum arasındaki ayrım korunmalıdır.[^k3] Bir tartışmanın sürmesi,
+dayandığı bütün olguların da tartışmalı olduğu anlamına gelmez.
 
 ## Kanıtın ve kapsamın sınırı
 Dört konum alanın tamamını kapsamaz.[^k4] İklim değişimini ve salgın
 etkisini esas alan yaklaşımlar da vardır.
 
-Bu yaklaşımlar dosyaya alınmadı.[^k2] Bu inceleme yazıldığında
-doğrulanabilir kaynakla künyelenemediler; eksik burada beyan edilir ve
-korpusun borç defterine yazılmıştır, künyelenebilir kaynak bulunduğunda
-dosya genişletilmelidir.
+Bu yaklaşımlar değersiz görüldükleri için değil, doğrulanabilir kaynakla
+künyelenemedikleri için karşılaştırmaya alınmadı.[^k2] Uygun kaynak bulunduğunda
+konumlar genişletilmelidir.
 
 Konumların savunanları kişi adlarıyla değil çizgi ve yaklaşım adlarıyla
-verilmiştir.[^k3] Nedeni korpusun kütük kuralıdır: bir kişiyi savunmadığı
-bir konuma yerleştirmek yapılabilecek en ağır hatadır ve doğrulanamayan
+verilmiştir.[^k3] Bir kişiyi savunmadığı konuma yerleştirmemek için doğrulanamayan
 kişi atfı yerine yaklaşım adı kullanılır.
+
+## Gerileme iddiasını sınamak için dört gösterge
+
+“Önemini yitirdi” hükmünü sınamak için en az dört ayrı seri gerekir: bölgeden geçen
+ticaretin mutlak hacmi, dünya ticaretindeki payı, kent ve nüfus eğilimleri, siyasal
+merkezlerin kaynak toplama kapasitesi. Deniz ticaretinin büyümesi Orta Asya'nın payını
+düşürebilir; bu, kara ticaretinin mutlak olarak küçüldüğünü tek başına kanıtlamaz.[^k1]
+Türkistan ve Mâverâünnehir gibi bölgesel adların farklı coğrafi kapsamları da aynı
+serinin zaman içinde karşılaştırılmasını zorlaştırır.[^k2][^k3]
+
+Kaynak görünürlüğü beşinci, fakat farklı türde bir göstergedir. Dijital kataloglarda
+daha az kayıt bulunması tarihsel faaliyetin azlığını değil, arşiv ve çeviri
+eşitsizliğini gösterebilir.[^k4] Bu nedenle ölçülmemiş bir “çekilme”yi sonuç diye
+tekrarlamak yerine, hangi göstergenin hangi dönem için gerçekten mevcut olduğu açıkça
+yazılmalıdır.
 
 ## Okumayı sürdürmek için
 Tartışmanın konusu olan dört yüzyıl için

@@ -49,10 +49,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
-Bu incelemenin ilk özelliği bir sayı değil, bir sütun sayısıdır: sağlayıcının aynı
-yıl için tuttuğu tahmin sayısı birden fazladır.[^k1]
-
 ## Sağlayıcı üç tahmin tutar
 
 Sağlayıcının uç noktası, yıl sütunundan sonra üç ayrı ölüm sütunu taşır:
@@ -60,22 +56,15 @@ Sağlayıcının uç noktası, yıl sütunundan sonra üç ayrı ölüm sütunu 
 `number_deaths_ongoing_conflicts__conflict_type_all` ve
 `number_deaths_ongoing_conflicts_low__conflict_type_all`.[^k1]
 
-::tartismali[Aynı yıl için üç ayrı sayı bulunuyor. Tek bir sayı vermek bir ölçüm değil bir seçimdir; bu inceleme yüksek tahmini seçtiğini başlığında yazar.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Aynı yıl için üç ayrı sayı bulunuyor.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
-Bir sağlayıcının aynı olgu için alt ve üst sınır tutması,[^k1] korpusun şu
-kuralının dayanağıdır: bir savaş ölüm sayısı, hangi tahmin sütunundan alındığı
-belirtilmeden aktarılamaz. Okuma yöntemi
-[Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
+Okuma yöntemi [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
 haritasında ele alınıyor.
 
 ## Serinin sınırları
 
 Sağlayıcının toplam satırında seri 1989'da başlar ve 2025'te biter; 1989 değeri
 108.225, 2025 değeri 350.592'dir.[^k1]
-
-Serinin 1989'dan önce hiçbir değer taşımaması,[^k1] bu incelemenin "savaş ölümleri
-tarih boyunca azaldı mı" sorusuna cevap veremeyeceğini gösterir: veri, sorunun
-kapsadığı dönemin çok küçük bir bölümünü ölçer.
 
 ## En yüksek ve en düşük yıllar
 
@@ -101,9 +90,3 @@ tanım farkıdır: biri dünya genelindeki tüm süregelen çatışmaları, diğ
 Uzun dönemli seride dünya nüfusu 1994'te yaklaşık 5,68 milyar, 2025'te yaklaşık
 8,23 milyardır.[^k2] Kişi başı bir oran burada hesaplanmamıştır: yüksek tahmin
 ile merkezî tahmin arasındaki fark, oranın kendisinden büyüktür.[^k1]
-
-## Kanıtın ve kapsamın sınırı
-Çatışma türleri, bölge dağılımı, dolaylı ölümler ve sivil–asker ayrımı burada
-ele alınmamıştır; bu inceleme yalnızca tek bir sütunun yıl bazlı değerlerini
-taşır. Askerî harcama serisi
-[Askerî harcama, 1988–2025](/veri/askeri-harcama/) dosyasında ele alınıyor.

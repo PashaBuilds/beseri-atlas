@@ -40,13 +40,12 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak bölümlerini sıralar: tarih, tanımlar, burjuva kamusal alanı, karşı-kamular
 ile feminist eleştiriler ve genişletmeler, retorik ve medya.[^k1]
 
 ## Eleştiriler kavramın yanında durur
 
-::tartismali[Aynı madde, kavramın klasik biçimini ve ona yöneltilen feminist eleştirileri ayrı bölümler olarak taşıyor. Korpus ikisini de kaydeder ve aralarında hüküm vermez.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Aynı madde, kavramın klasik biçimini ve ona yöneltilen feminist eleştirileri ayrı bölümler olarak taşıyor.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Bu tür yan yana kayıtların nasıl okunacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -55,10 +54,6 @@ haritasında ele alınıyor.
 ## Tanım çoğuldur
 
 Kaynak tanımlar bölümünü çoğul başlıkla verir.[^k1]
-
-Bir kavramın tanımının çoğul olarak kaydedilmesi,[^k1] korpusun şu kuralının
-dayanağıdır: bu incelemede kamusal alan, hangi tanım kullanıldığı belirtilmeden bir
-iddianın öznesi yapılmaz.
 
 ## Medya kendi bölümüdür
 
@@ -78,7 +73,6 @@ yüzyılın en etkili siyaset filozoflarından biri sayılan bir düşünür ola
 verir.[^k2] O düşünür
 [Hannah Arendt](/dusunur/arendt/) dosyasında, yakın kavram ise
 [Sivil toplum](/kavram/sivil-toplum/) dosyasında ele alınıyor.
-
 
 ## Üç koşul
 
@@ -129,7 +123,6 @@ tümüyle yoksun değildir.
 Bir ideal tip, varlık yokluk değil
 mesafe ölçmeye yarar.[^k3]
 
-
 ## Devletten ve piyasadan ayrı
 
 Kavram üçüncü bir alan tanımlar.[^k1] Ne devlet aygıtı ne piyasa
@@ -163,11 +156,7 @@ ister.
 Üç koşul her döneme sorulabilir; o
 dönemin bir kamusal alanı olduğu varsayılmaz.[^k1]
 
-Bu, korpusun anakronizm kuralının doğrudan
-uygulamasıdır.[^k3] Bir kavramı geçmişe taşımak, o kavramın orada
-bulunduğunu varsaymadan
-yapılabilir.
-
+Bir kavramı geçmişe taşımak, o kavramın orada bulunduğunu varsaymadan yapılabilir.
 
 ## Nasıl kullanılır?
 Kimler katılabiliyordu, hangi konular
@@ -177,7 +166,6 @@ tartışılabiliyordu, tartışma hangi ölçütle yürüyordu.[^k1]
 değişir.[^k2] Cevaplar dosyalarda ayrı ayrı
 kaydedilir.[^k3]
 
-
 ## Kavramın sınırı
 
 Kavram, tartışmanın niteliğini değil koşullarını
@@ -186,7 +174,6 @@ göstermez.
 
 Koşulların sağlanması ile sonucun iyi olması ayrı iki
 sorudur ve ikincisi bu kavramın konusu değildir.[^k3][^k2]
-
 
 ## Ölçmenin yolu
 
@@ -200,6 +187,18 @@ hesaplanabilir.
 
 Doğrudan ölçülemeyen bir kavram,
 karşılaştırılabilir dolaylı göstergelerle yine de izlenebilir.[^k3]
+
+## Açıklık ile eşit katılım aynı değildir
+
+Bir tartışmanın kamuya açık olması herkesin ona eşit biçimde katılabildiğini
+göstermez. Okuryazarlık, mülkiyet, mekâna giriş, dil ve sansür hangi seslerin
+duyulacağını belirler.[^k1] Kahvehane, gazete veya dijital ağ kamusal alan yaratabilir;
+fakat her biri başka dışlama biçimleri taşır. Kavramı kullanırken yalnız konuşmanın
+varlığı değil, kimlerin gündemi kurabildiği ve karar kurumlarının bu tartışmaya ne
+ölçüde cevap verdiği de araştırılmalıdır.[^k2]
+
+Devlet dışı olmak da tek başına özgür tartışma sağlamaz; ekonomik sahiplik ve
+toplumsal baskı konuşma imkânını sınırlayabilir.[^k1]
 
 ## Kanıtın ve kapsamın sınırı
 Kavramın tarihi, burjuva kamusal alanı çözümlemesi ve retorik tartışması burada

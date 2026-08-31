@@ -302,7 +302,7 @@ listesine bakar.[^k5] Karşılaşma ve değiş tokuş gibi ara adlar bu çerçev
 türedi; sözcüklerin ima ettiği simetrinin, yükü kimin taşıdığı sorusunu
 örtüp örtmediği ise pozisyon tablosundaki itirazın konusudur.[^k5]
 
-Bu çerçevenin izi korpusun kendi kaydında da görülür: olayın dosyası
+Bu çerçeve olayın adlandırılmasında da görülür: ilgili olay yazısı
 [Amerika'ya ulaşım ve Kolomb değişimi](/olay/amerikanin-kesfi/) başlığını
 taşır ve iki yarımküre arasındaki aktarımı gövdesine alır.
 
@@ -404,7 +404,7 @@ yüzyılların ürünüdür.[^k8]
 
 ## Başlık pratiği ve açık kalanlar
 
-Adlandırma sorusu korpusun kendi pratiğine de dokunur. Olayın dosyası bugün
+Adlandırma sorusu kullanılan başlık ve adres arasındaki farka da dokunur. Olay yazısı
 [Amerika'ya ulaşım ve Kolomb değişimi](/olay/amerikanin-kesfi/) başlığını
 taşır; sayfanın adresi ise keşif sözcüğünü korur. Başlık düzeltilebilmiş,
 adres kalmıştır: seçimin izi kaydın üzerinde durmaya devam eder ve bu

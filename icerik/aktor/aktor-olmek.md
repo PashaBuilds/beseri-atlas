@@ -60,11 +60,10 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Nerede durduğu
 
 Olmek, Orta Amerika'nın körfez kıyısındaki alçak ve sulak ovada yerleşmiş bir
-düzendir.[^k1] Korpusun bölge şemasında yalnızca Amerika etiketi taşır.
+düzendir.[^k1]
 
 Düzen, bölgenin bilinen en erken büyük ölçekli yerleşimlerini kurdu.[^k2]
 Tören merkezleri, yapay höyükler ve anıtsal taş yontular bu yerleşimlerin
@@ -143,9 +142,7 @@ Düzenin merkezleri, yapay olarak yükseltilmiş platformlar ve düzenlenmiş
 alanlar içeriyordu.[^k1] Yerleşimlerin yönelimi ve iç düzeni, plansız bir
 büyümeyle açıklanamaz.
 
-Planlı düzen, korpusun Teotihuacan dosyasında da kaydedilen çıkarıma
-dayanak verir.[^k4] Bir plana uyulması, planı uygulatan bir otoriteyi
-gösterir.
+Bir plana uyulması, planı uygulatan bir otoriteyi gösterir.
 
 Buradaki fark ölçektir.[^k2] Bu düzenin merkezleri, sonraki yüzyılların
 şehirlerinden çok daha küçüktür; planlama becerisi ile şehir ölçeği ayrı
@@ -156,9 +153,8 @@ Buradaki fark ölçektir.[^k2] Bu düzenin merkezleri, sonraki yüzyılların
 Yerleşimler, düzenli olarak taşan nehir ovalarında kuruldu.[^k1] Taşkın,
 toprağı her yıl yeniden verimlendiriyordu.
 
-Aynı mekanizma korpusun Bengal dosyasında da kaydedilmiştir.[^k3] Taşkına
-dayalı tarım, sulama altyapısı gerektirmez ve bu yüzden merkezî yönetim
-zorunluluğu daha zayıftır.
+Taşkına dayalı tarım, sulama altyapısı gerektirmez ve bu yüzden merkezî yönetim
+zorunluluğu daha zayıftır.[^k1]
 
 Bu, düzenin siyasi biçimi hakkındaki belirsizliğin bir sebebi olabilir.[^k2]
 Sulama düzeni bir merkez gerektirir; taşkın tarımı gerektirmez ve otoritenin
@@ -208,17 +204,12 @@ Düzenin bugün kullanılan adı, kendi adı değildir.[^k1] Ad, çok sonraki bi
 dönemde aynı bölgede yaşayan bir topluluk için kullanılan bir terimden
 alınmıştır.
 
-Bu, korpusun Amerika dosyalarında tekrar eden bir durumdur.[^k4] Yazı
-bırakmamış düzenlerin adları, onları inceleyenler tarafından ve çoğu zaman
-ilgisiz bir kaynaktan verilir.
-
-Adın seçilmiş bir şey olduğunu görünür
-kılmak, korpusun genel kuralıdır.[^k2]
+Yazı bırakmamış düzenlerin adları, onları inceleyenler tarafından ve çoğu zaman ilgisiz
+bir kaynaktan verilir.
 
 ## Kaynak durumu
 
-Bu inceleme dört kaynağa dayanır ve üçü birincildir.[^k2][^k3][^k4] Üç birincil
-künye, müze katalog kayıtlarıdır ve `nesne` alt türünü taşır.
+Üç birincil künye, müze katalog kayıtlarıdır ve `nesne` alt türünü taşır.
 
 Anıtsal başlar künyeye alınamamıştır.[^k1] Bulundukları yerde ve bölgesel
 müzelerde durmaktadırlar; doğrulanabilir bir çevrimiçi katalog kaydı bu
@@ -232,23 +223,13 @@ buluntulardır.
 Kazı alanlarının tek tek tarihi ve buluntu listeleri burada işlenmez.[^k1]
 Her biri ayrı dosya gerektirir.
 
-Nesnelerin ikonografik çözümlemesi de kapsam dışıdır.[^k4] Bu inceleme
-nesneleri kanıt olarak kullanır; içeriklerini yorumlamaz.
+Nesnelerin ikonografik çözümlemesi de kapsam dışıdır.[^k4]
 
-Sonraki Orta Amerika uygarlıklarının tarihi burada verilmez.[^k1] Korpusun
-[Maya uygarlığı](/aktor/maya-uygarligi/) ve
-[Teotihuacan](/aktor/teotihuacan/) dosyaları o dönemleri ele alır.
-
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun Amerika aktör katmanındaki en erken tarihli dosyadır.[^k2]
-Katmandaki öteki dosyalar en az bin yıl sonrasına aittir.
+Sonraki Orta Amerika uygarlıklarının tarihi burada verilmez.[^k1]
 
 Dosyanın seçilme gerekçesi kapsamdan çok tartışmadır.[^k1] Ana kültür
 sorusu, bir bölgenin tarihinin tek bir kaynaktan mı yoksa çoklu merkezlerden
 mi anlatılacağını belirler.
-
-Bir bölgeyi tek bir kaynaktan anlatmak, korpusun
-öteki bölgelerde de kaçındığı bir anlatım biçimidir.[^k3]
 
 ## Nesnelerin gömülmesi
 
@@ -286,10 +267,7 @@ Höyük hacmi, kullanılan işgücünü tahmin etmeye izin verir.[^k2] Kişi ba�
 günlük kazı ve taşıma kapasitesi varsayılırsa, toplam iş gününe ulaşılır;
 oradan nüfusa geçmek ise ek varsayımlar gerektirir.
 
-Höyük hacmi ise ölçülebilir bir
-veridir ve karşılaştırma için kullanılabilir.[^k4] Aynı ölçüt korpusun öteki nesne
-kanıtına dayanan dosyalarında da uygulanmıştır: ölçülen şey yapının kendisidir, ondan
-çıkarılan nüfus değil.[^k2]
+Höyük hacmi ise ölçülebilir bir veridir ve karşılaştırma için kullanılabilir.[^k4]
 
 ## Okumayı sürdürmek için
 Tartışmanın öteki tarafındaki uygarlıklar için
@@ -306,3 +284,28 @@ dosyası okunabilir.[^k2]
 
 Aynı yılları bütün bölgeler üzerinden okumak için [Dönem 03](/donem/03/)
 dosyası kullanılmalıdır.
+
+## “Ana uygarlık” sorusunu nasıl sınamalı?
+
+Olmek merkezlerindeki anıtsal taş işçiliği, törensel alanlar ve geniş mesafeli
+mal dolaşımı, MÖ ikinci ve birinci binyıllarda güçlü bölgesel ağlar bulunduğunu
+gösterir.[^k1] Ancak daha sonraki Maya ve başka Mezoamerika geleneklerinde benzer
+motiflerin görülmesi, bütün yeniliklerin tek yönde Olmeklerden yayıldığını
+kendiliğinden kanıtlamaz. Eş zamanlı topluluklar ortak alışveriş içinde biçimleri
+birlikte geliştirmiş olabilir.
+
+“Ana” modeli için açık bir zaman sırası, aktarım güzergâhı ve ara örnekler
+gerekir. “Kardeş” modeli ise yerel farklılıkların ve karşılıklı etkileşimin erken
+dönemde de varlığını sınar. Bir heykel üslubu siyasi egemenlik, dil veya halk
+göçünün doğrudan göstergesi değildir. Taşın kaynağı, üretim tekniği, buluntu
+bağlamı ve benzerliğin hangi özellikte olduğu ayrı ayrı gösterilmelidir.
+
+Metropolitan Museum’daki figürler nesnenin biçim ve tarihlemesini doğrudan
+incelemeye açar; kazı bağlamının tamamının yerini tutmaz.[^k2][^k3][^k4] La Venta
+ve San Lorenzo gibi merkezlerin yükseliş ve gerilemesi de bütün bölgenin aynı
+anda “çöktüğü” biçiminde okunmamalıdır. Nüfus, ritüel ve ticaret başka merkezlerde
+yeniden örgütlenmiş olabilir. Olmek tarihi, köken arayışından çok ağ, aktarım ve
+yerel yenilik ilişkisi üzerinden daha güvenilir biçimde anlaşılır.[^k1]
+
+Yeni kazı her iki modeli de değiştirebilir; sonuç, tartışmanın açık kalmasını
+kanıt zayıflığı değil yöntemsel dürüstlük olarak görmelidir.

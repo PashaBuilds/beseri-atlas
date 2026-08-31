@@ -52,7 +52,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne oldu
 
 1896 yılının mart başında, Doğu Afrika'nın kuzeyindeki dağlık bir
@@ -63,9 +62,8 @@ bulunuyordu.
 Savaş bir günde sonuçlandı ve giren ordu kesin bir yenilgi
 aldı.[^k1] Kayıplar ağırdı ve geri çekilme düzensiz oldu.
 
-Bu incelemenin asıl konusu savaşın kendisi değil, onu başlatan belgedir.[^k2]
-Savaşın nedeni, yedi yıl önce imzalanmış iki dilli bir antlaşmanın iki
-metninin çelişmesiydi.
+Savaşın nedeni, yedi yıl önce imzalanmış iki dilli bir antlaşmanın iki metninin
+çelişmesiydi.[^k1]
 
 ## Çelişen iki metin
 
@@ -113,10 +111,6 @@ sağlamlaşmamıştı.
 Dış tanınma, bu konumu güçlendiren bir araçtı.[^k1] Antlaşma, tanınma
 karşılığında imzalandı ve karşı taraf da bunu biliyordu.
 
-Bir belgenin hangi koşullarda kabul
-edildiği metinden okunamaz; bu, korpusun himaye dosyasında kurulan kuralın burada da
-geçerli olduğunu gösterir.[^k3]
-
 ## Çelişkinin fark edilmesi
 
 Metinler arasındaki fark, imzadan sonraki yıllarda ortaya
@@ -136,12 +130,8 @@ Ret, uluslararası yazışma yoluyla yapıldı.[^k1] İmparatorluk, öteki
 Avrupa devletlerine kendi metnini bildiren mektuplar gönderdi.
 
 Bu, bir devletin kendi belgesini uluslararası dolaşıma sokmasıdır.[^k2]
-Korpusun Gülhane dosyasında ölçtüğü mekanizmanın aynısıdır: bir iç
-metnin çevrilip dağıtılması, muhataplarından birinin dışarısı olduğunu
-gösterir.
 
-Yazışma sonuç vermedi ve savaşa gidildi.[^k3] Korpus bu diziyi kaydeder:
-belge, diplomasi, savaş.
+Yazışma sonuç vermedi ve savaşa gidildi.[^k3]
 
 ## Askerî kapasitenin kaynağı
 
@@ -152,10 +142,8 @@ alınıyordu.
 Tek bir tedarikçiye bağlı kalmamak belirleyiciydi.[^k2] Bir tedarikçi
 ambargo uyguladığında ötekiler devreye giriyordu.
 
-Bu, korpusun Samoa dosyasında ölçtüğü mekanizmanın tersten
-işleyişidir.[^k3] Orada üç tedarikçinin varlığı iç mücadeleyi
-sürdürüyordu; burada aynı çokluk bir devletin dış savunmasını mümkün
-kıldı.
+Orada üç tedarikçinin varlığı iç mücadeleyi sürdürüyordu; burada aynı çokluk bir
+devletin dış savunmasını mümkün kıldı.[^k1]
 
 ## Mekanizmanın formüle edilmesi
 
@@ -163,9 +151,7 @@ kıldı.
 gücünü artırır; bu, silah ticaretinde doğrudan askerî kapasiteye
 dönüşür.**
 
-İfade, korpusun silahlı ticaret dosyasındaki döngüye bir ek
-getirir.[^k2] Orada döngü alıcıyı bağımlı kılıyordu; burada tedarikçi
-çokluğu bağımlılığı azaltıyor.
+Orada döngü alıcıyı bağımlı kılıyordu; burada tedarikçi çokluğu bağımlılığı azaltıyor.
 
 Fark tedarikçi sayısındadır.[^k3] Aynı ticaret biçimi, piyasa yapısına
 göre bağımlılık da özerklik de üretebilir.
@@ -236,8 +222,7 @@ kalıcılaşır; dönüşüm otomatik değildir ve ayrıca sağlanır.[^k3]
 Bu sonuç, kıtada seyrek görülen bir durumdur.[^k2] Aynı onyıllarda
 kıtanın büyük bölümü paylaşılmıştı.
 
-İmparatorluk, sömürge yönetimi altına girmeyen iki birimden
-biridir.[^k1] Korpus ötekini ayrı bir dosyada künyelemiştir.
+İmparatorluk, sömürge yönetimi altına girmeyen iki birimden biridir.[^k1]
 
 İki örneğin ortak yanı dış tanınmadır.[^k3] Farkları, tanınmanın nasıl
 elde edildiğidir: biri antlaşmayla, öteki savaşla.
@@ -270,21 +255,17 @@ ve tedarikçi çokluğu — ikinci savaşta ikisi de ortadan kalkmıştı.[^k3]
 Savaş, sonraki onyıllarda kıtanın öteki bölgelerinde de anıldı.[^k1]
 Bağımsızlık hareketleri için bir referans noktası oldu.
 
-Bu, korpusun Kânûn-ı Esâsî dosyasında ölçtüğü işlevle aynı
-ailedendir.[^k2] Bir olay ya da belge, kendi bağlamının dışında bir
-talep dayanağı hâline gelebilir.
+Bir olay ya da belge, kendi bağlamının dışında bir talep dayanağı hâline gelebilir.
 
 Bir olayın ne olduğu ile o olayın sonradan neyi
 temsil ettiği ayrı iki sorudur.[^k3]
 
 ## Kaynak durumu
 
-Bu incelemenin üç künyesinden biri giriş kapısı, biri dönem tanıklığı, biri
-karşılaştırma belgesidir.[^k2] Antlaşmanın iki metni künyelenememiştir.
+Antlaşmanın iki metni künyelenememiştir.
 
-Metinlerin doğrulanabilir çevrimiçi baskıları bu inceleme yazıldığında
-bulunamamıştır.[^k1] Bu, dosyanın asıl konusunu doğrudan etkiler:
-çelişki hakkında konuşulur ve iki metne atıf yapılamaz.
+Bu, dosyanın asıl konusunu doğrudan etkiler: çelişki hakkında konuşulur ve iki metne
+atıf yapılamaz.
 
 Eksik borç defterine yazılmıştır.[^k3] Aynı kısıt Waitangi dosyasında
 aşılabilmişti; burada aşılamamıştır ve fark, kaynak
@@ -297,8 +278,7 @@ yalnızca belgeye ve sonucun bileşenlerine ilişkin olanı kaydeder.
 
 İmparatorluğun iç tarihi işlenmez.[^k2] Ayrı bir dosya bulunmaktadır.
 
-Kırk yıl sonraki işgal ayrıntılandırılmaz.[^k3] Ayrı bir dosya
-gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu.
+Kırk yıl sonraki işgal ayrıntılandırılmaz.[^k3]
 
 ## Kanıtın ve kapsamın sınırı
 Dosya, çelişkinin kasten yaratıldığı hakkında hüküm vermez.[^k1] İki
@@ -312,7 +292,30 @@ ağırlıkları ölçülmemiştir.
 Savaşın kıtadaki öteki süreçler üzerindeki etkisi ölçülmez.[^k2]
 Anlatının kullanımı kaydedilir; nedensel etki iddia edilmez.
 
+## Zaferi yalnız sayı değil sefer kapasitesi açıklar
+
+Etiyopya ordusunun büyüklüğü önemliydi, fakat askeri Adva çevresine getirmek,
+beslemek ve farklı bölgesel güçleri aynı hedefte tutmak ayrı bir başarıydı.
+Menelik'in silah tedarikinde Avrupalı rakipler arasındaki rekabetten yararlanması,
+Taytu ve bölgesel önderlerin seferberlikteki rolü, İtalyan harita ve haberleşme
+hataları muharebe sonucunu birlikte üretti.[^k1] “Afrika cesareti Avrupa
+teknolojisini yendi” özeti iki taraftaki teknoloji ve örgüt çeşitliliğini siler.
+
+Adva sömürgeleşmenin kaçınılmaz olmadığını gösterdi ve kıta ile diasporada güçlü
+bir egemenlik simgesine dönüştü. Fakat zafer bütün Etiyopya toplumunun eşit
+özgürlüğü ya da imparatorluk içindeki genişlemenin sorunsuzluğu anlamına gelmez.
+1896'daki dış egemenliği koruma başarısı ile devletin içerideki hiyerarşileri ayrı
+değerlendirilmelidir. 1935'teki İtalyan saldırısı da tek zaferin kalıcı güvenlik
+garantisi olmadığını; ittifak, teknoloji ve uluslararası düzen değiştiğinde
+kapasitenin yeniden kurulması gerektiğini gösterir.[^k1][^k2]
+
+Muharebe böylece hem somut askerî sonuç hem de küresel bir simge olarak iki ayrı
+tarihe sahiptir. İlkini harekât belgeleri, ikincisini basın, anma ve siyasi
+sahiplenme üzerinden izlemek gerekir; simgesel büyüklük taktik ayrıntının kanıtı
+değildir.
+
 ## Okumayı sürdürmek için
+
 Aynı belge sorununun ilk ölçüldüğü yer için
 [Waitangi Antlaşması](/olay/waitangi-antlasmasi-1840/) ve
 [Waitangi'de hangi metin bağlayıcıdır](/tartisma/waitangi-hangi-metin/)

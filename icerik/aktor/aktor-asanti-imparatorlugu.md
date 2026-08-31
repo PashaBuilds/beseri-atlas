@@ -53,7 +53,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Aşanti İmparatorluğu, on sekizinci yüzyıl başında Batı Afrika'nın
@@ -65,13 +64,9 @@ Devlet, çok sayıda ayrı topluluğun bir çatı altında birleşmesiyle
 kuruldu.[^k1] Birleşme askerî fetihle değil, ortak bir sembol ve ortak bir hukuk
 düzeni etrafında anlaşmayla sağlandı.
 
-Bu incelemenin asıl konusu o düzendir.[^k2] Devlet, yazıya dayanmayan bir
-hukuk ve protokol aygıtı işletti.
+Devlet, yazıya dayanmayan bir hukuk ve protokol aygıtı işletti.
 
 ## Yazısız devlet aygıtı
-
-Bu inceleme kısıtın bir başka yüzünü
-gösterir.[^k1]
 
 Yazının bulunmaması, karmaşık bir devlet aygıtının bulunmadığı anlamına
 gelmez.[^k2] Vergi, yargı, elçilik ve askerlik düzenleri işliyordu.
@@ -87,9 +82,7 @@ kişiler belirli bilgi kümelerinden sorumluydu.
 Sorumluluk kalıtsaldı ve eğitimle aktarılıyordu.[^k2] Yanlış aktarma
 ağır bir kusur sayılıyordu.
 
-Bu, korpusun sözlü gelenek tartışmasında geçen bir ölçütü doğrudan
-karşılar.[^k1] Aktarımın kuralları biliniyorsa, güvenilirlik derecesi de
-değerlendirilebilir.
+Aktarımın kuralları biliniyorsa, güvenilirlik derecesi de değerlendirilebilir.
 
 ## Sembolün işlevi
 
@@ -120,7 +113,6 @@ gösterir.[^k2] Bu, yazıya gerek duymadan işleyen bir standardizasyon
 gösterir.[^k1] Standardı kim belirliyor ve kim denetliyor sorusu, siyasi
 otoritenin kapsamını da gösterir.
 
-Bu, korpusun başka dosyalarında sikke üzerinden ölçtüğü şeydir.[^k3]
 Burada sikke yerine ağırlık takımı aynı işlevi görür.
 
 Ölçü ve para standartları, siyasi
@@ -134,9 +126,7 @@ komşuydu.[^k1] Esir ihracatı, devletin gelir kalemlerindendi.
 Ticaret, iç savaşları ve fetihleri de besliyordu.[^k3] Esir kaynağı,
 komşu topluluklarla yapılan seferlerdi.
 
-Bu, korpusun silahlı ticaret dosyasında tanımlanan döngünün bir başka
-örneğidir.[^k2] Silah edinmek için esir gerekir, esir edinmek için silah
-gerekir.
+Silah edinmek için esir gerekir, esir edinmek için silah gerekir.
 
 ## Ticaretin sona ermesi
 
@@ -190,18 +180,14 @@ ve bölge doğrudan yönetime bağlandı.
 Bir süre sonra sembolün teslim edilmesi istendi.[^k2] Talep, geniş bir
 direnişe yol açtı.
 
-Direniş bastırıldı ama sembol teslim edilmedi.[^k1] Korpus bu ayrıntıyı
-kaydeder: bir kurumun ortadan kaldırılması ile onun sembolünün ele
-geçirilmesi ayrı iki şeydir.
+Direniş bastırıldı ama sembol teslim edilmedi.[^k1]
 
 ## Sembolün siyasi ömrü
 
 Devlet ortadan kalktıktan sonra da sembol etrafındaki kurum sürdü.[^k1]
 Sonraki dönemde tören ve hukuk işlevleriyle varlığını korudu.
 
-Bu, korpusun Buhara dosyasında ölçtüğü ayrımın bir başka
-örneğidir.[^k3] Bir yapının adı ve biçimi, yetkisi alındıktan sonra da
-sürebilir.
+Bir yapının adı ve biçimi, yetkisi alındıktan sonra da sürebilir.
 
 Süren şeyin ne olduğu ayrıca sorulmalıdır.[^k2] Tören yetkisi ile
 yönetim yetkisi aynı şey değildir.
@@ -276,10 +262,7 @@ Dışarıdan gelen kayıtların çerçevesi bellidir.[^k3] Gözlemcilerin
 Gözlemcinin niçin orada
 bulunduğu, neyi kayda değer bulduğunu da belirler.[^k2]
 
-## Bu incelemenin künyeleri
-
-Bu incelemenin iki künyesi dönem tanıklığıdır.[^k2] Biri ilhaktan on yıl
-sonra yazılmış bir ansiklopedi maddesi, biri bir gezi anlatısıdır.
+Biri ilhaktan on yıl sonra yazılmış bir ansiklopedi maddesi, biri bir gezi anlatısıdır.
 
 İkisi de olgu kaynağı olarak değil, dönemin kendi bakışının kaydı
 olarak kullanılmıştır.[^k3] Dilleri ve sınıflandırmaları yazıldıkları
@@ -296,15 +279,13 @@ konuda örtüşmez.
 Savaşların askerî ayrıntısı kapsam dışıdır.[^k3] Dosya yalnızca
 üstünlüğün yön değiştirmesine ilişkin olanı kaydeder.
 
-İlhak sonrası sömürge dönemi işlenmez.[^k2] Ayrı bir dosya gerektirir ve
-bu inceleme yazıldığında korpusta bulunmuyordu.
+İlhak sonrası sömürge dönemi işlenmez.[^k2]
 
 ## Kanıtın ve kapsamın sınırı
 Dosya, yazısız bir düzenin yazılı düzenlerle eşit olduğunu ileri
 sürmez.[^k1] İkisinin farklı sorulara cevap verebildiğini kaydeder.
 
-Sözlü aktarımın güvenilirliği burada çözülmez.[^k2] Ayrı bir tartışma
-dosyası gerektirir ve o dosya korpusta bulunmaktadır.
+Sözlü aktarımın güvenilirliği burada çözülmez.[^k2]
 
 Köle ticaretindeki payın büyüklüğü sayısal olarak verilmez.[^k3] Dönem
 için güvenilir sayım yoktur ve tahminler geniş aralıklar verir.
@@ -326,3 +307,28 @@ dosyaları okunabilir.[^k2]
 
 Kanıt türünün soruları nasıl belirlediği için
 [Kanıt türü](/kavram/kanit-turu/) dosyası okunmalıdır.[^k1]
+
+## Yazısızlık kurumsuzluk değildir
+
+Asante siyasal düzeninde hukuk, diplomatik protokol, soy bilgisi ve görev
+ilişkileri uzmanlaşmış kişilerce sözlü olarak korunabiliyordu.[^k1] Bilginin
+yazılmaması onun rastgele olduğu anlamına gelmez; hafıza eğitimi, tören, makam
+ve tekrar aktarımın güvenilirliğini sağlayan kurumlardı. Buna karşılık kimin
+konuşmaya yetkili olduğu, hangi sürümün resmî sayıldığı ve sömürge döneminde
+anlatının nasıl değiştiği sorgulanmalıdır.
+
+Altın, yalnız ihracat malı değil hükümdarlık ve topluluk birliğinin simgesiydi.
+Altın Tabure çevresindeki meşruiyet, bağlı birimlerin tek bir kimlik altında
+toplanmasına yardım etti; yerel yöneticiler yine kendi alanlarında pazarlık gücü
+taşıdı.[^k1][^k2] Ateşli silah ve ticaret gelirleri genişlemeyi desteklerken esir
+ve köle ticareti savaş ekonomisinin ağır toplumsal maliyetini oluşturdu.
+
+Britanya ile savaşlar dört ayrı karşılaşma olarak okunmalıdır; her yenilgi veya
+antlaşma aynı düzeyde egemenlik kaybı yaratmadı.[^k2][^k3] Teknoloji, ikmal,
+orman coğrafyası, yerel ittifak ve mali kapasite zaman içinde değişti. Son ilhak,
+önceden kaçınılmaz bir çizginin son noktası değil, uzun süren karşılıklı uyarlama
+ve artan kaynak eşitsizliğinin sonucuydu.
+
+Savaşların her birinde tarafların hedefi ve kullanabildiği yerel ortaklar ayrıca karşılaştırılmalıdır.
+
+Bu karşılaştırma ilhakın kaçınılmaz değil, biriken koşulların sonucu olduğunu gösterir.

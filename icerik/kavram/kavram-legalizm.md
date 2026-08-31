@@ -50,7 +50,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Legalizm, yönetimin yöneticinin erdemine değil; herkese eşit uygulanan
@@ -77,14 +76,12 @@ sınırdır. Bu çizgide ise kural, yöneticinin elindeki bir yönetim aracıdı
 onu bağlaması amaçlanmaz.[^k1][^k2] İki anlayış aynı kelimeyle anıldığında,
 biri ötekinin yerine okunur.
 
-Korpusun [Anakronizm](/kavram/anakronizm/) dosyası bu tür kaymaları genel
-biçimiyle ele alır. Burada somut hâli, bir kavramın kendi adı üzerinden
-başka bir geleneğe taşınmasıdır.[^k1]
+Burada somut hâli, bir kavramın kendi adı üzerinden başka bir geleneğe
+taşınmasıdır.[^k1]
 
-**Tartışmalı.** Bu çizginin tek bir "okul" oluşturup oluşturmadığı
-tartışılır. Adlandırma sonraki dönemlerin bir sınıflandırmasıdır; metinlerin
-yazarları kendilerini böyle bir grubun üyesi saymamış olabilir. Korpus adı
-kullanmayı sürdürür ama itirazı yanına yazar.[^k1]
+**Tartışmalı. ** Bu çizginin tek bir "okul" oluşturup oluşturmadığı tartışılır.
+Adlandırma sonraki dönemlerin bir sınıflandırmasıdır; metinlerin yazarları kendilerini
+böyle bir grubun üyesi saymamış olabilir.
 
 ## Karşı çıktığı şey
 
@@ -111,14 +108,7 @@ Ama iki kavram özdeş değildir. Bürokrasi bir örgütlenme biçimini tanımla
 bu çizgi ise o biçimin neden tercih edilmesi gerektiğine dair bir savunma
 sunar.[^k1] Biri betimleyici, öteki normatiftir.
 
-Ayrımın korunması, korpusun kavram dosyalarının birbirinin yerine geçmemesi
-içindir. İki kavram aynı olguyu farklı sorularla ele alır ve biri ötekini
-kapsamaz.
-
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun Doğu Asya kavram kapsamındaki ilk dosyadır ve bir eksiği
-kapatmak için yazılmıştır.[^k1] Bölgenin aktör katmanında on ikiden fazla
-dosya bulunurken kavram katmanı boştu.
+İki kavram aynı olguyu farklı sorularla ele alır ve biri ötekini kapsamaz.
 
 Dosyanın sınırı açıktır. Çizginin metinleri, tarihsel gelişimi ve sonraki
 dönemlerdeki alımlanması burada ayrıntılı olarak işlenmez;[^k2][^k3] bunlar
@@ -131,23 +121,31 @@ metin üzerinden kurar; burada yalnızca işaret edilir.[^k1]
 
 ## Aynı sorunun başka bir örneği
 
-Bir kavramın adının kendi bağlamı dışından gelmesi, korpusta ilk kez burada
-karşılaşılan bir durum değildir. [Feodalite kavramı](/tartisma/feodalite-kavrami/)
-dosyası aynı soruyu başka bir malzeme üzerinden tartışır: ödünç alınmış bir
-analitik terim, adlandırdığı düzeni çarpıtır mı?[^k1]
+[Feodalite kavramı](/tartisma/feodalite-kavrami/) dosyası aynı soruyu başka bir malzeme
+üzerinden tartışır: ödünç alınmış bir analitik terim, adlandırdığı düzeni çarpıtır
+mı?[^k1]
 
 İki durumun ortak yanı şudur. Terim, kendi doğduğu bağlamda belirli bir
 kurumlar bütününü tarif eder; başka bir bağlama taşındığında o bütünün
 çağrışımlarını da taşır ve okur, orada bulunmayan özellikleri varsayar.[^k1]
 
 Terimi bırakmak da bir çözüm değildir. Ad olmadan karşılaştırma yapılamaz ve
-karşılaştırma yapılmadan bir düzenin neye benzediği anlatılamaz.[^k1] Korpus
-bu yüzden terimi kullanmayı sürdürür ve itirazı yanına yazar; sessizce
-düzeltmek, sorunu çözmek değil gizlemek olurdu.
+karşılaştırma yapılmadan bir düzenin neye benzediği anlatılamaz.[^k1]
 
-Bu tutum korpusun genel kuralıdır. Yerleşmiş bir adı kullanmak onu onaylamak
-değildir; ada bağlı itirazın künyeyle birlikte taşınması, adın seçilmiş bir
-şey olduğunu görünür kılar.[^k1][^k2]
+Yerleşmiş bir adı kullanmak onu onaylamak değildir; ada bağlı itirazın künyeyle birlikte
+taşınması, adın seçilmiş bir şey olduğunu görünür kılar.[^k1][^k2]
+
+## Hukuk devletiyle karıştırmamak
+
+Çin düşünce tarihindeki legalizm, yöneticinin açık kurallar, ödül ve cezalarla düzen
+kurmasını savunan farklı metinlerin sonradan bir araya getirildiği bir etikettir.[^k1]
+Kuralın güçlü olması, yöneticinin de kuralla bağlı olduğu modern hukuk devleti
+anlamına gelmez. Ayrıca Shang Yang ile Han Feizi gibi yazarlar aynı sorulara bütünüyle
+aynı cevapları vermez. Kavram, tek bir değişmez öğreti veya yalnız “sert ceza”
+eşanlamlısı olarak kullanılmamalıdır.[^k2]
+
+Sonraki hanedanların bu araçları başka öğretilerle birleştirmesi, düşünce ile yönetim
+pratiği arasındaki sınırı daha da geçirgen kılar.[^k1]
 
 ## Okumayı sürdürmek için
 Çizginin en gelişmiş metni ve karşılaştırmalı okuması için

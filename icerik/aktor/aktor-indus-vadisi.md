@@ -51,23 +51,15 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Nerede durduğu
 
-İndus Vadisi Uygarlığı, bugünkü Pakistan ve kuzeybatı Hindistan'ı kapsayan
-nehir havzasında kurulmuş bir kent uygarlığıdır.[^k1][^k2] Korpusun bölge
-şemasında Güney Asya etiketi taşır ve kronolojik omurgada Tunç Çağı
-döneminin içine düşer.
+İndus Vadisi Uygarlığı, bugünkü Pakistan ve kuzeybatı Hindistan'ı kapsayan nehir
+havzasında kurulmuş bir kent uygarlığıdır.[^k1][^k2]
 
-Bu incelemenin korpustaki yeri, konusundan çok **kaynak durumundan** gelir.
-Uygarlığın yazısı bugüne kadar çözülememiştir;[^k2][^k3] dolayısıyla hakkında
-bilinen her şey, kazılarda çıkan nesnelerden ve yapı kalıntılarından
-çıkarılmıştır.
+Uygarlığın yazısı bugüne kadar çözülememiştir;[^k2][^k3] dolayısıyla hakkında bilinen
+her şey, kazılarda çıkan nesnelerden ve yapı kalıntılarından çıkarılmıştır.
 
-Korpusun öteki aktör dosyalarında en azından bir metin vardır — bir kronik, bir
-öğüt kitabı, bir antlaşma. Burada hiç yoktur. Bu, korpusun kaynak zorunluluğunun
-sınırını gösteren bir durumdur ve dosya bu sınırı gizlemek yerine konu
-edinir.
+Burada hiç yoktur.
 
 ## Metinsiz bir kayıt
 
@@ -85,11 +77,9 @@ olgudur.[^k2] O planın merkezî bir otorite tarafından mı dayatıldığı, yo
 paylaşılan bir yapı geleneğinden mi doğduğu ölçülemez; ikisi de aynı kalıntıyı
 üretir.
 
-**Tartışmalı.** Uygarlığın siyasi yapısı hakkında güçlü bir merkezî devletten
-şehirler arası gevşek bir birliğe kadar uzanan farklı yorumlar vardır. Hiçbiri
-yazılı kayda dayanmaz; hepsi maddi kalıntıdan yapılan çıkarımlardır. Korpus bu
-yorumlardan birini benimsemez ve aralarındaki farkın kanıttan değil kanıtın
-yorumlanmasından geldiğini kaydeder.[^k2][^k3]
+**Tartışmalı. ** Uygarlığın siyasi yapısı hakkında güçlü bir merkezî devletten şehirler
+arası gevşek bir birliğe kadar uzanan farklı yorumlar vardır. Hiçbiri yazılı kayda
+dayanmaz; hepsi maddi kalıntıdan yapılan çıkarımlardır.
 
 ## Standartlaşma
 
@@ -101,19 +91,14 @@ Ama hangi düzenin işareti olduğu açık değildir. Ölçü standardı bir dev
 dayatmasıyla da, tüccarlar arasındaki teamülle de kurulabilir;[^k2] kalıntı
 ikisini ayırt etmeye yetmez.
 
-Bu belirsizliğin kaydedilmesi, korpusun bu incelemede uyguladığı temel kuraldır.
-Bulgu kaydedilir, bulgudan çıkarılan yorum ise yorum olarak işaretlenir; ikisi
-aynı cümlede karıştırılmaz.
+Bulgu kaydedilir, bulgudan çıkarılan yorum ise yorum olarak işaretlenir; ikisi aynı
+cümlede karıştırılmaz.
 
 ## Su ve kent
 
 Raporlar, yerleşimlerdeki su altyapısına — kuyular, kanallar ve tahliye
 düzeni — ayrı bir yer ayırır.[^k2][^k3] Bir kentin su düzenini planlaması,
 kentleşmenin teknik tarafının erken bir örneğidir.
-
-Korpusun [Kentleşme](/kavram/kentlesme/) dosyası bu süreci kavram düzeyinde ele
-alır. Bu inceleme, kavramın metinsiz belgelenen bir örneğini verir: kentin nasıl
-işlediği biliniyor, kimin yönettiği bilinmiyor.
 
 Bu ikisinin ayrılabilmesi kayda değerdir. Teknik düzen ile siyasi düzen aynı
 kalıntıda birlikte bulunmaz; birincisi taşta okunur, ikincisi ancak metinde.[^k2]
@@ -123,12 +108,6 @@ kalıntıda birlikte bulunmaz; birincisi taşta okunur, ikincisi ancak metinde.[
 Mühürler üzerinde bulunan işaretler, bir yazı sistemi olarak kabul edilir ama
 okunamamıştır.[^k2][^k3] Çözümün önündeki engeller arasında metinlerin çok
 kısa olması ve iki dilli bir karşılaştırma metninin bulunmaması sayılır.
-
-Korpusun [Yazı sistemi](/kavram/yazi-sistemi/) dosyası yazının ne olduğunu
-kavram düzeyinde tanımlar; [Yazının icadı nerede](/tartisma/yazinin-icadi-nerede/)
-dosyası ise yazının kaç ayrı yerde ortaya çıktığını tartışır. Bu inceleme ikisine
-de somut bir zorluk ekler: bir işaret dizisinin yazı olup olmadığı, okunmadan
-nasıl belirlenir?
 
 Soru teknik görünse de sonucu büyüktür. İşaretler yazıysa, uygarlığın kayıt
 tutan bir bürokrasisi vardı demektir; yazı değilse, aynı işaretler mülkiyet ya
@@ -141,10 +120,8 @@ açıklanmaz.[^k1][^k2] Raporlarda ve sonraki literatürde nehir yataklarının
 değişmesi, iklim koşullarının kayması ve ticaret bağlantılarının zayıflaması
 birlikte tartışılır.
 
-Eski literatürde yer alan ve dışarıdan gelen bir istilayı sebep sayan
-açıklama, sonraki bulgularla desteklenmemiştir ve bugün genel kabul
-görmez.[^k1] Korpus bu tartışmayı kaydeder ve bir sonuca bağlamaz; konunun
-siyasi kullanımları olduğu için adlandırmanın kendisi de tarafsız değildir.
+Eski literatürde yer alan ve dışarıdan gelen bir istilayı sebep sayan açıklama, sonraki
+bulgularla desteklenmemiştir ve bugün genel kabul görmez.[^k1]
 
 Künyedeki tarih aralığı olgunluk dönemini işaretler ve kesin sınır olarak
 okunmamalıdır.[^k2] Bir uygarlığın ne zaman başlayıp bittiği, hangi ölçütün
@@ -153,24 +130,10 @@ belirsizliğini taşır.
 
 ## Kaynak durumu
 
-Bu inceleme üç kaynağa dayanır: bölgenin genel çerçevesi için bir ansiklopedi
-maddesi[^k1] ve iki ayrı kazının raporları.[^k2][^k3] İki birincil kaynak aynı
-alan adındadır ama **farklı kazılara ve farklı yazarlara** aittir; bu, korpusun
-Afrika dosyalarında bulunamayan karşılaştırma imkânını burada sağlar.
+Bir raporun kaydettiğini öteki raporun kaydettiğiyle sınamak mümkündür; tek kaynağa
+dayanan dosyalarda bu imkân yoktur.[^k2][^k3]
 
-İki bağımsız raporun bulunması bu incelemeyi ayırır. Bir raporun kaydettiğini
-öteki raporun kaydettiğiyle sınamak mümkündür; tek kaynağa dayanan dosyalarda
-bu imkân yoktur.[^k2][^k3]
-
-Sınır da açıktır: raporlar yirminci yüzyılın ilk yarısına aittir. O tarihten
-sonra yapılan kazılar ve geliştirilen yöntemler bu incelemede
-kullanılmamıştır;[^k2] güncel arkeolojik literatür telifli olduğu için künyeye
-giremez.
-
-Kamu malı olan şey eski olandır;
-korpus çoğu konuda bir yüzyıl önceki bilgi durumuna daha kolay ulaşır.[^k2] Bu incelemede
-kısıt özellikle ağırdır: arkeoloji hızlı ilerleyen bir alandır ve bir yüzyıllık fark
-burada başka konulardakinden büyüktür.
+Sınır da açıktır: raporlar yirminci yüzyılın ilk yarısına aittir.
 
 ## Açıkta kalan sorular
 Yerleşimlerin tek tek planları, buluntu tipolojisi ve tarihlendirme yöntemleri
@@ -178,10 +141,6 @@ burada işlenmez.[^k2][^k3] Bölgedeki sonraki dönem ve onunla süreklilik
 tartışması da kapsam dışıdır; ayrı dosyalar gerektirir.
 
 ## İki raporun karşılaştırılması
-
-İki ayrı kazının raporlarının elde bulunması, bu incelemeye korpusun çoğu
-dosyasında olmayan bir imkân verir: aynı uygarlığın iki ayrı yerleşiminde
-bulunanları yan yana koymak.[^k2][^k3]
 
 Benzerlikler ve farklar ayrı ayrı bilgi taşır. İki yerleşimde benzer ölçü
 düzeni bulunması, standardın yerel değil yaygın olduğunu düşündürür;
@@ -193,15 +152,12 @@ tarafından, dönemin farklı kayıt alışkanlıklarıyla yazılmıştır;[^k2]
 rapordaki bir fark, iki yerleşim arasındaki farktan değil iki raporlama
 biçimi arasındaki farktan da gelebilir.
 
-Bu ikinci ihtimalin akılda tutulması, korpusun kaynak eleştirisi ilkesinin
-arkeolojik malzemeye uygulanmış hâlidir. Bir kazı raporu tarafsız bir kayıt
-değildir; neyin kaydedilmeye değer bulunduğu, kaydı tutan dönemin sorularına
-bağlıdır.[^k2]
+Bir kazı raporu tarafsız bir kayıt değildir; neyin kaydedilmeye değer bulunduğu, kaydı
+tutan dönemin sorularına bağlıdır.[^k2]
 
 ## Ne bilinmiyor
 
-Bu incelemenin en dürüst bölümü, bilinmeyenlerin listesidir. Uygarlığın dili
-bilinmiyor; yöneticilerinin adları bilinmiyor; inanç sistemi hakkında
+Uygarlığın dili bilinmiyor; yöneticilerinin adları bilinmiyor; inanç sistemi hakkında
 söylenenler nesne yorumlarına dayanıyor; komşularıyla ilişkileri ancak ticaret
 mallarının dağılımından tahmin ediliyor.[^k2][^k3]
 
@@ -210,29 +166,16 @@ Metin olmadan bir toplumun kendi hakkında söylediklerine erişilemez; yalnızc
 bıraktıklarına bakılabilir ve bıraktıkları, söyleyeceklerinin küçük bir
 bölümüdür.
 
-Korpusun öteki dosyalarında bu ayrım daha az görünürdür çünkü orada metin
-vardır ve metin, toplumun kendi sesini taşır — taraflı, seçilmiş, eksik ama
-kendi sesi. Burada o ses hiç yoktur.
+Burada o ses hiç yoktur.
 
-Bu, korpusun kaynak zorunluluğu kuralının sınırını da gösterir. Kural her
-iddianın kaynağını göstermeyi ister; burada kaynak vardır ama kaynak
-konuşmaz, yalnızca ölçülür.[^k2][^k3]
+Kural her iddianın kaynağını göstermeyi ister; burada kaynak vardır ama kaynak konuşmaz,
+yalnızca ölçülür.[^k2][^k3]
 
-## Neden bu inceleme bu korpusta
+Bölgenin öteki aktör dosyaları metinli dönemlere aittir.
 
-Bu inceleme, korpusun Güney Asya kapsamındaki en eski katmanı ekler ve o
-katmanın en ayırt edici özelliğini konu edinir.[^k1] Bölgenin öteki aktör
-dosyaları metinli dönemlere aittir.
+Dosyanın ikinci işlevi yöntemseldir.
 
-Dosyanın ikinci işlevi yöntemseldir. Korpusun kavram katmanındaki
-[Arkeolojik kanıt](/kavram/arkeolojik-kanit/) dosyası soyut bir tanım verir;
-bu inceleme o tanımın en uç örneğini sunar: kanıtın tamamı arkeolojik olduğunda
-ne söylenebilir, ne söylenemez.
-
-Uç örnekler, bir kuralın sınırını gösterdikleri için değerlidir. Korpusun her
-iddiayı kaynağa bağlama kuralı metinli konularda kolay uygulanır; burada
-uygulanabilir ama sonucu farklıdır — kaynak, iddiayı doğrulamaz, yalnızca
-iddianın dayandığı bulguyu belgeler.[^k2]
+Uç örnekler, bir kuralın sınırını gösterdikleri için değerlidir.
 
 ## Okumayı sürdürmek için
 Kanıt türünün ne söyleyebileceği için [Arkeolojik kanıt](/kavram/arkeolojik-kanit/),
@@ -254,10 +197,78 @@ Yazılı kayıt ile arkeolojik bulgu arasındaki asimetrinin başka bir örneği
 yazıyla, öteki ucu taşla belgelenmişti. Burada zincirin her iki ucu da
 taştır.[^k2]
 
-Bu karşılaştırma korpusun bölge kümelerini aşar ve kasıtlıdır. Bir kaynak
-durumunun coğrafyayla değil, o coğrafyada yazının bulunup bulunmadığıyla ve
+Bir kaynak durumunun coğrafyayla değil, o coğrafyada yazının bulunup bulunmadığıyla ve
 bulunanın okunup okunamadığıyla ilgili olduğunu gösterir.[^k2][^k3]
 
-Okuyucuya son bir uyarı: bu incelemedeki hiçbir cümle uygarlığın kendi
-ifadesi değildir. Metinli konularda okur, en azından bir tarafın kendi sesini
-duyar; burada duyduğu ses yalnızca kazıcıların ve yorumcularınkidir.[^k2][^k3]
+İndus yazısı okunamadığı için bilinen hiçbir cümle uygarlığın kendi ifadesi
+değildir. Metinli konularda en azından bir tarafın kendi sesi duyulabilir;
+buradaki anlatı kazı bulgularından hareket eden yorumcuların yeniden kurmasıdır.[^k2][^k3]
+
+## Standartlaşma neyi gösterir?
+
+Harappa, Mohenjo-daro ve başka yerleşimlerde benzer tuğla oranları, ağırlıklar,
+mühürler ve kent düzenleri geniş bir ortak ölçü dünyasına işaret eder.[^k2][^k3]
+Bu birlik, ticaret ve üretimde güven sağlayabilir. Her standardın tek merkezî
+devlet tarafından zorlandığı sonucu çıkarılamaz; tüccar ağları, zanaat gelenekleri
+ve kentler arası karşılıklı kabul de benzerlik üretebilir.
+
+Geniş caddeler, drenaj ve su yapıları planlama ile sürekli bakım kapasitesi
+gerektirir. Bu kapasitenin kral, kent kurulu, mahalle veya uzman gruplar arasında
+nasıl dağıldığı bilinmez. Mezopotamya’daki gibi açık saray ve hükümdar anıtlarının
+azlığı “eşit toplum”u kanıtlamaz; iktidarın başka mekân ve nesnelerde görünmesi
+veya arkeolojik olarak tanınmamış olması mümkündür.
+
+## Yazı çözülmeden ne bilinebilir?
+
+Kısa işaret dizileri mühür ve küçük nesnelerde bulunur. Yazı oldukları geniş
+ölçüde kabul edilse bile dil, okuma yönü ve işaretlerin ses veya anlam değeri
+kesinleşmemiştir. Çok kısa metinler istatistiksel çözümü zorlaştırır; iki dilli
+bir anahtar metnin bulunmaması olası okumaları çoğaltır. Her “çözüldü” iddiası
+aynı yöntemle başka yazıtları okuyabilmeli ve bağımsız araştırmacılarca
+yinelenebilmelidir.[^k2][^k3]
+
+Okunamayan mühür yine de boş kanıt değildir. Buluntu yeri, malzeme, hayvan
+tasviri, aşınma ve ticaret bağlamı idari ya da toplumsal işlev hakkında seçenekleri
+daraltır. Fakat işaretleri doğrudan hükümdar adı, dinî dua veya etnik etiket diye
+çevirmek metnin söylemediğini ekler.
+
+## Üretim ve uzak bağlantılar
+
+Tarım, nehir ve mevsimsel su düzenine dayanıyordu; ürün, hayvan ve yerleşim
+tercihleri bölgeden bölgeye değişiyordu.[^k1] Boncuk, metal, seramik ve tekstil
+üretimi uzmanlaşmış emek ile hammadde ağını gösterir. Mezopotamya kayıtlarında
+anılan uzak ticaret ve bulunan yabancı maddeler bağlantının varlığını kanıtlar;
+ticaret hacmi ile devletler arası siyasi bağlılığı doğrudan vermez.
+
+Ağırlık standardı ve mühürler değişimin denetlenmesini kolaylaştırmış olabilir.
+Bir nesnenin Mezopotamya’da bulunması Indus devletinin orayı yönettiğini değil,
+malın tüccar, aracı ve birden fazla pazar üzerinden hareket edebildiğini gösterir.
+Ekonomik ağın sınırı siyasi haritadan daha geniştir.[^k1]
+
+## Dönüşüm, terk ve süreklilik
+
+Büyük kentlerin nüfus kaybetmesi bütün nüfusun yok olduğu tek bir “çöküş” olarak
+okunmamalıdır. Nehir rejimi, muson değişimi, ticaret ağı ve yerleşim tercihleri
+farklı bölgelerde farklı zamanlarda etkili olmuş olabilir. Çevresel neden ancak
+su ve ürün baskısından hane kararına, oradan kent nüfusuna uzanan mekanizma
+gösterildiğinde açıklamaya dönüşür.
+
+Daha küçük yerleşimlere kayış, insan ve tarım bilgisinin başka coğrafyalarda
+sürdüğü anlamına gelebilir. Seramik ve uygulama sürekliliği siyasi kurumun aynen
+devam ettiğini kanıtlamaz; nüfusun bütünüyle değiştiği iddiasını da zorlaştırır.
+“Aryan istilası her şeyi bir anda bitirdi” gibi tek olaylı anlatılar kronoloji,
+arkeoloji ve dil kanıtını ayrı ayrı sınamalıdır.
+
+## Kanıtın etik ve yöntemsel sınırı
+
+Erken kazılar bugünün bağlam kaydı ve örnekleme standartlarıyla yapılmadı;
+yayımlanan büyük yapılar ile seçkin nesneler gündelik kalıntılardan daha görünür
+olabilir.[^k2][^k3] Yeni laboratuvar yöntemleri eski koleksiyonlara yeniden soru
+sorabilir, fakat kaybedilmiş tabaka ilişkisini bütünüyle geri getiremez.
+
+İndus Vadisi’nin öğretici yanı gizemli oluşu değil, bilgiyi derecelendirmeye
+zorlamasıdır. Kentlerin ve uzak ticaretin varlığı güçlü; yönetim biçimi ve dil
+çok daha belirsiz kanıta dayanır. “Bilmiyoruz” ifadesi boşluk değil, hangi yeni
+bulgunun sonucu değiştirebileceğini gösteren bilimsel bir sınırdır. Uygarlığın
+başarısı, henüz okuyamadığımız hükümdar listelerinden bağımsız olarak şehir,
+ölçü, su ve üretim kurumlarında açıkça görülebilir.[^k1][^k2][^k3]

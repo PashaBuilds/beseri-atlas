@@ -1,7 +1,7 @@
 {
   "id": "olay-kudus-fethi-1187",
-  "govde_hash": "f93242176bda",
-  "commit": "5373c66",
+  "govde_hash": "19ca5217b642",
+  "commit": "889239af",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -39,7 +39,7 @@
     },
     {
       "iddia_id": "i002b",
-      "cumle": "Süreyi kaynakların hiçbiri kendisi yazmaz; iki uç tarih onlarındır, aradaki sayı bu dosyanındır.",
+      "cumle": "On iki günlük süre iki uç tarihten hesaplanmıştır; kaynakların verdiği doğrudan bir toplam değildir.",
       "onem": "destek",
       "tur": "yorum",
       "kaynaklar": [
@@ -603,17 +603,17 @@
     },
     {
       "iddia_id": "i036",
-      "cumle": "Bu dosyanın kullandığı Latin kayıt Ernoul'ünki değil Itinerarium'dur; yani buradaki iki ana kalemden biri sultanın maiyetinden gelir, öteki olayı bir başka seferin çerçevesinden ve İngiliz kralının etrafından yazar.",
+      "cumle": "Lane-Poole, Itinerarium'un Richard'a duyduğu ölçüsüz hayranlığı ve taraf tutuşunu adıyla anar; onu Üçüncü Haçlı Seferi'nin en dolgun kaynağı sayar, yani asıl konusu 1187 değil ondan sonrasıdır.",
       "onem": "destek",
       "tur": "yorum",
       "kaynaklar": [
         {
           "anahtar": "k5",
-          "destek": "kismi"
+          "destek": "dogrudan"
         }
       ],
-      "guven": "orta",
-      "inceleme": "Onceki kurulus Itinerarium u savunan tarafin cevresinden gostererek dosyanin kendi kaynak tabanini yanlis tanitiyordu; duzeltildi."
+      "guven": "yuksek",
+      "inceleme": "2026-08-30 yeniden inceleme: eski meta kaynak tanimi govdeden kalkti; k5'in Itinerarium icin dogrudan verdigi taraflilik ve kapsam degerlendirmesine baglandi."
     },
     {
       "iddia_id": "i037",
@@ -873,9 +873,17 @@
     }
   ],
   "sayaclar": {
-    "dogrudan": 48,
-    "kismi": 2,
+    "dogrudan": 49,
+    "kismi": 1,
     "desteksiz": 0,
     "olculemez": 7
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "f93242176bda",
+      "yeni_hash": "19ca5217b642",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    }
+  ]
 }

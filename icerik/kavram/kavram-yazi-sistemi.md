@@ -53,16 +53,11 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak, sistemleri iki ayrı ölçüte göre sınıflandırır: temel dilbilimsel birime
 göre (logografik sistemler, heceler, alfabeler ve özellikçi sistemler) ve grafik
 özelliklere göre (doğrusallık ve yön gibi).[^k1]
 
 ## İki ölçüt aynı anda geçerlidir
-
-Aynı nesnenin iki ayrı ölçüte göre sınıflandırılabilmesi,[^k1] korpusun şu
-kuralının dayanağıdır: bu incelemede yazı sistemi adları, hangi sınıflandırmaya ait
-oldukları belirtilmeden karşılaştırılmaz.
 
 ## Dil ile yazı arasındaki ilişki ilk bölümdür
 
@@ -86,7 +81,6 @@ Bir adın Latinceleştirilmesine dair kayıt, Konfüçyüs adının Kong soyadı
 anlamındaki fuzi onur ekinin Latinceleştirilmiş bir birleşimi olduğunu
 yazar.[^k2] O örnek
 [Konfüçyüs](/dusunur/konfucyus/) dosyasında ele alınıyor.
-
 
 ## Üç temel biçim
 
@@ -162,7 +156,6 @@ bilinir.
 Bir yazı geleneğinin az bilinmesi, o
 geleneğin az üretim yaptığını göstermez.[^k3]
 
-
 ## Yazının ilk işi
 
 En erken yazılı belgeler edebî ya da dinî değildir.[^k1] Muhasebe
@@ -185,7 +178,6 @@ Bağımsızlık, sistemlerin yapısal farkından ve coğrafi uzaklıktan
 Aynı çözümün birden çok yerde bulunması, aktarımı
 değil ortak bir ihtiyacı gösterir.[^k3]
 
-
 ## Sayı yazımı
 
 Sayılar çoğu sistemde ayrı bir işaret dizisiyle
@@ -194,6 +186,15 @@ yazılır.[^k1] Sayı yazımı, dil yazımından önce de ortaya
 
 Bu, yazının muhasebe kökenini destekler.[^k2] Sayılmak, anlatılmaktan
 önce gelmiştir.[^k3]
+
+## Dil, yazı ve işaret birimi
+
+Bir dil ile onu kaydeden yazı sistemi aynı şey değildir; aynı dil farklı alfabelerle,
+aynı yazı sistemi farklı diller için kullanılabilir.[^k1] Sistemleri karşılaştırırken
+işaretlerin ses, hece, sözcük veya anlam birimlerinden hangisini temsil ettiği
+sorulmalıdır. Daha az işaret kullanmak otomatik olarak daha gelişmiş veya daha kolay
+bir sistem anlamına gelmez; öğrenme maliyeti kullanım bağlamına ve dilin yapısına
+bağlıdır.[^k2]
 
 ## Kanıtın ve kapsamın sınırı
 Yazının tarihi, sistemlerin ayrıntısı ve çözümleme yöntemleri burada ayrı

@@ -216,10 +216,24 @@
       ],
       "guven": "yuksek",
       "inceleme": "Uc sayi uc ayri kunyeden geliyor ve govdede tek tek dipnotlanmistir. Hakem duzeltmesi: yazarin ilk hali butun sayilari 'kalibre edilmis radyokarbon araliklari' diye niteliyordu; k4 ve k1 kendi sayilarini kalibre diye isaretlemez, yalniz k2 'cal BCE' der. Kalibrasyon kaydi yalnizca k2'nin sayisina birakildi."
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "Kavramın taşıdığı asıl soru sıralamadır: köy, ortak yapı ve ekin, kabın icadını beklemeden kuruldu; kap ise Güneybatı Asya'da ancak Geç Neolitik'te maddi kültürün yerleşik bir öğesi oldu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yerleşim, ortak yapı ve ekinin çömlekten önce gelişi ile çömleğin Geç Neolitik'te yerleşikleşmesi k1'in kronolojisinde doğrudan verilir."
     }
   ],
   "sayaclar": {
-    "dogrudan": 12,
+    "dogrudan": 13,
     "kismi": 2,
     "desteksiz": 0,
     "olculemez": 0

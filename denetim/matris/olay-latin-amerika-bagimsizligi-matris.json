@@ -1,7 +1,7 @@
 {
   "id": "olay-latin-amerika-bagimsizligi",
-  "govde_hash": "0161a868db7e",
-  "commit": "92d1168",
+  "govde_hash": "66caabfad5f6",
+  "commit": "889239af",
   "zaman": "2026-08-30",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -585,7 +585,7 @@
     },
     {
       "iddia_id": "i041",
-      "cumle": "Yeni cumhuriyetler Engizisyon'un biçimsel düzenini ve soyluluk unvanlarını kaldırdı; ama bu ülkelerin çoğunda kölelik hemen kaldırılmadı ve tam kaldırma Latin Amerika ülkelerinin çoğunda 1850'leri buldu; aynı kaynak tersini de kaydeder: bağımsızlık kaldırmayı başlatmış, köle emeğinin ana kaynak olmadığı Meksika, Orta Amerika ve Şili'de kurtuluş hemen gelmiştir.",
+      "cumle": "Yeni cumhuriyetler Engizisyon'un biçimsel düzenini ve soyluluk unvanlarını kaldırdı; ama bu ülkelerin çoğunda kölelik hemen kaldırılmadı ve tam kaldırma Latin Amerika ülkelerinin çoğunda 1850'leri buldu; aynı kaynak tersini de kaydeder: bağımsızlık kaldırmayı başlatmış, köle emeğinin başlıca dayanak olmadığı Meksika, Orta Amerika ve Şili'de kurtuluş hemen gelmiştir.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -758,6 +758,10 @@
       "onceki_hash": "5b5b7392ca4f",
       "yeni_hash": "0161a868db7e",
       "gerekce": "Ikinci kor hakem turu: derinlestirme sonrasi sinama. k10-k15'in altisinin dogrulama dizesi ve iddia tasima gucu tek tek sinandi; yedi iddianin cumlesi duzeltildi (liste kirpmasi, dusurulen kaynak cekincesi, yanlis 'ayni cumlede' atfi), i050 eklendi, gizli 'bu dosya' oz-gonderimi kaldirildi."
+    },
+    {
+      "zaman": "2026-08-30",
+      "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
     }
   ]
 }

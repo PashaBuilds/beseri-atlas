@@ -47,16 +47,14 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Taoizm, "yol" anlamına gelen bir terim çevresinde kurulan ve doğaya
 uygunluğu, kendiliğindenliği ve zorlayıcı müdahaleden kaçınmayı merkeze alan
 düşünce çizgisine verilen addır.[^k1][^k2]
 
-Çizginin iki temel metni vardır ve bu inceleme ikisine de bağlanır.[^k2][^k3]
-İki metin aynı terimleri kullanır ama üslupları farklıdır: biri özlü ve
-buyurgan, öteki hikâye ve diyalog yoluyla ilerler.
+İki metin aynı terimleri kullanır ama üslupları farklıdır: biri özlü ve buyurgan, öteki
+hikâye ve diyalog yoluyla ilerler.
 
 Merkezî fikir, müdahalenin çoğu zaman bozduğu yönündedir. Bir düzene ne kadar
 çok karışılırsa, o düzenin kendi işleyişi o kadar bozulur;[^k2] en iyi
@@ -72,67 +70,47 @@ geleneğindeki "okul" adlarının çoğu, o okulların kurulduğu dönemden değ
 sonraki derleme çabalarından gelir;[^k1] adlar, düşünceleri değil
 düşünceleri tasnif eden kişileri yansıtır.
 
-Korpusun [Anakronizm](/kavram/anakronizm/) dosyası bu tür geriye dönük
-adlandırmaları genel biçimiyle ele alır. Burada somut sonucu şudur: bir metnin
-"Taocu" sayılması, yazarının kendini öyle görmesinden değil, sonraki bir
-tasnifin onu o rafa koymasından gelir.[^k1]
+Burada somut sonucu şudur: bir metnin "Taocu" sayılması, yazarının kendini öyle
+görmesinden değil, sonraki bir tasnifin onu o rafa koymasından gelir.[^k1]
 
-**Tartışmalı.** Ad, iki ayrı olguyu tek başlıkta toplar: felsefe metinleri ile
-sonraki yüzyıllarda kurulan dinî gelenekler ve kurumlar. Bu ikisinin aynı
-adla anılması bazı araştırmacılarca gerekli, bazılarınca yanıltıcı bulunur.
-Korpus ayrımı belirtir ve bir kullanımı benimsemez.[^k1]
+**Tartışmalı. ** Ad, iki ayrı olguyu tek başlıkta toplar: felsefe metinleri ile sonraki
+yüzyıllarda kurulan dinî gelenekler ve kurumlar. Bu ikisinin aynı adla anılması bazı
+araştırmacılarca gerekli, bazılarınca yanıltıcı bulunur.[^k1]
 
 ## Müdahale etmeme ve yönetim
 
-Çizginin siyasi tarafı, korpusun öteki dosyalarıyla doğrudan kesişir. Müdahale
-etmeme ilkesi bir yönetim önerisine dönüştüğünde, yöneticinin düzeni
-kurmaktan çok bozmamakla yükümlü olduğu bir anlayış çıkar.[^k2]
+Müdahale etmeme ilkesi bir yönetim önerisine dönüştüğünde, yöneticinin düzeni kurmaktan
+çok bozmamakla yükümlü olduğu bir anlayış çıkar.[^k2]
 
 Bu, [Han Feizi](/dusunur/han-feizi/) dosyasında ele alınan çizginin tam
 tersidir. Orada yönetim, kural ve teknikle kurulan bir düzenektir; burada ise
 kurulan her düzenek bozulmanın kaynağı sayılır.[^k1][^k2]
 
-[Konfüçyüs](/dusunur/konfucyus/) dosyasındaki gelenekle ilişki daha
-karmaşıktır. Üç çizgi de yönetimin nasıl olması gerektiğini söyler ama
-birbirlerini farklı noktalarda eleştirirler;[^k1] korpus üçünü de kaydeder ve
-aralarında hüküm vermez.
+[Konfüçyüs](/dusunur/konfucyus/) dosyasındaki gelenekle ilişki daha karmaşıktır.
 
-Üç çizginin aynı dönemde ve aynı bölgede bulunması, korpusun bir dönemi tek
-bir düşünce biçimiyle anlatmamasının gerekçesidir. Bir dönemin "hâkim
-düşüncesi" varsayımı, o dönemde yürüyen tartışmayı silerdi.
+Bir dönemin "hâkim düşüncesi" varsayımı, o dönemde yürüyen tartışmayı silerdi.
 
 ## Metinlerin durumu
 
-İki metnin de tek bir yazara ait olup olmadığı tartışılır; ikisinin de
-katmanlı biçimde oluştuğu ileri sürülür.[^k1] Bu, korpusun Doğu Asya
-dosyalarında tekrar eden bir durumdur ve künyede gösterilmez.
+İki metnin de tek bir yazara ait olup olmadığı tartışılır; ikisinin de katmanlı biçimde
+oluştuğu ileri sürülür.[^k1]
 
 Kullanılan kaynak, Çince özgün metinleri ve İngilizce çevirilerini birlikte
 sunar.[^k2][^k3] Bu çizgide bu imkân özellikle değerlidir çünkü temel
 terimlerin çevirisi büyük ölçüde yorum taşır; "yol", "erdem" ve "eylemsizlik"
 karşılıklarının hiçbiri tam değildir.
 
-Korpus bu yüzden bu incelemede terimleri tanımlamaya çalışmaz. Terimlerin
-karşılıkları metnin kendisinden ve çeviri karşılaştırmasından okunmalıdır.[^k2][^k3]
+Terimlerin karşılıkları metnin kendisinden ve çeviri karşılaştırmasından
+okunmalıdır.[^k2][^k3]
 
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun Doğu Asya kavram kapsamındaki ikinci dosyadır.[^k1] Bölgenin
-aktör katmanında on ikiden fazla dosya bulunurken kavram katmanı bu iki
-dosyadan ibarettir.
-
-Dosyanın kapsamadıkları belirtilmelidir. Dinî geleneğin kurumsal tarihi,
-ritüelleri ve sonraki mezhepleri burada işlenmez;[^k1] ayrı dosyalar
-gerektirir ve bu inceleme yazıldığında korpusta bulunmuyorlardı.
+Dosyanın kapsamadıkları belirtilmelidir.
 
 Metinlerin bölüm bölüm içeriği ve terim tartışmaları da kapsam dışıdır.
-Bu inceleme çizginin ne olduğunu ve adının neden sorunlu olduğunu anlatır;
-ne söylediği için metinlerin kendisine inilmelidir.[^k2][^k3]
 
 ## İki metnin farkı
 
-Bu incelemenin iki birincil metne birden bağlanması bir tercih değil
-gerekliliktir.[^k2][^k3] Tek metne bağlanan bir kavram dosyası, o metnin
-üslubunu çizginin tamamının üslubu sanma riskini taşır.
+Tek metne bağlanan bir kavram dosyası, o metnin üslubunu çizginin tamamının üslubu sanma
+riskini taşır.
 
 İki metin aynı terimleri kullanır ama farklı işler yapar. Biri ilkeleri özlü
 biçimde ortaya koyar; öteki aynı ilkeleri hikâyelerle ve karşılıklı
@@ -142,9 +120,27 @@ konuşmalarla sınar, yer yer kendi ilkeleriyle şakalaşır.[^k3] Bir düşünc
 Bu yüzden mümkün olan yerlerde
 birden çok metne bağlanılır.[^k1]
 
-Aynı ilkenin uygulanamadığı dosyalar da vardır ve orada eksik açıkça
-beyan edilir. Bu incelemede eksik yoktur; iki metin de erişilebilir ve özgün
-dilleriyle birlikte durur.[^k2][^k3]
+Aynı ilkenin uygulanamadığı dosyalar da vardır ve orada eksik açıkça beyan edilir.
+
+## Tek bir “Taoizm” yerine tarihsel katmanlar
+
+Taoizm adı, *Daodejing* ve *Zhuangzi* çevresindeki düşünsel metinlerden rahiplik,
+ayin, beden teknikleri ve vahiy geleneklerine kadar çok farklı oluşumları kapsar.[^k1]
+Modern “felsefî Taoizm” ve “dinî Taoizm” ayrımı öğretici olabilir, fakat tarihsel
+topluluklar bu sınırı aynı biçimde kurmadı. Metin, kurum ve gündelik pratik ayrı
+kanıtlarla izlenmelidir.
+
+“Dao”, “wuwei” ve “ziran” gibi terimler tek Türkçe karşılığa sabitlendiğinde anlam
+alanı daralabilir.[^k2] Özellikle wuwei yalnız hareketsizlik değil, zorlama ve aşırı
+müdahale olmadan etkili davranma biçimi olarak yorumlanır. Bir hükümdarın bu dili
+kullanması bütün yönetimin Taoist ilkelere göre işlediğini kanıtlamaz; siyasal
+meşruiyet dili ile kurumsal uygulama ayrılmalıdır.
+
+Taoist topluluklar Budist ve Konfüçyüsçü çevrelerle rekabet ettiği kadar kavram,
+ritüel ve kurum alışverişinde de bulundu.[^k3] “Üç öğreti”yi kapalı kutular gibi
+okumak bu karşılaşmaları örter. Hangi yüzyıl, metin veya topluluğun ele alındığı
+belirtilmeden kurulan genel Taoizm cümleleri bu nedenle sınırlı ve kolayca
+anakronik hâle gelir.[^k1]
 
 ## Okumayı sürdürmek için
 Aynı adlandırma sorununun başka bir örneği için [Legalizm](/kavram/legalizm/),
@@ -159,3 +155,5 @@ uygundur.
 Metinlere yapılacak atıflarda bölüm numarası ve kullanılan çeviri
 belirtilmelidir; kaynak özgün metni de sunduğu için çeviri tercihleri
 karşılaştırılabilir ve bu çizgide bu karşılaştırma zorunludur.[^k2][^k3]
+
+Bu ayrım, başka geleneklerle karşılaştırmanın ilk şartıdır.

@@ -60,7 +60,6 @@ son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Künye
 
 Kaynak, yazarı 1818-1883 arasına yerleştirir ve onun çağdaş kapitalist üretim
@@ -76,7 +75,7 @@ Eserin konusu
 
 ## Uzlaşı yokluğu aynı maddede kayıtlıdır
 
-::tartismali[Kaynak, ahlakın bu eleştirideki tam rolü konusunda yerleşik bir bilimsel uzlaşı bulunmadığını yazıyor. Korpus bu boşluğu bir yorumla doldurmaz.]{harita=tartisma-bati-neden-yukseldi}
+::tartismali[Kaynak, ahlakın bu eleştirideki tam rolü konusunda yerleşik bir bilimsel uzlaşı bulunmadığını yazıyor.]{harita=tartisma-bati-neden-yukseldi}
 
 Kaynak, ahlakın ve ahlaki eleştirinin çağdaş kapitalist topluma yönelik
 eleştirideki tam rolünün çokça tartışıldığını ve bu meselelerde yerleşik bir
@@ -96,17 +95,9 @@ Kaynak, yazarın erken yazılarına yabancılaşma anlayışının hâkim olduğ
 ardından çoğu kez tarihsel materyalizm denen bir tarih kuramı geliştirdiğini
 yazar.[^k1]
 
-Korpusun kuralı şudur: bu yazara atfedilen önermeler, hangi döneme ve hangi esere
-ait olduğu belirtilerek aktarılır. Yazar
-[Karl Marx](/dusunur/marx/) dosyasında ele alınıyor.
-
-## Okumayı sürdürmek için
-Bu inceleme eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi cildin, hangi baskının ve
-hangi çevirinin kullanıldığı her aktarımda belirtilmelidir.
+Yazar [Karl Marx](/dusunur/marx/) dosyasında ele alınıyor.
 
 ## Metne bağ
 
-Bu inceleme eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
-atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
-çevirinin kullanıldığı her aktarımda belirtilmelidir.
+Eserin kamu malı tam metni erişilebilir durumdadır; her atıf bölüm ya da paragraf
+numarasıyla verilmeli, kullanılan baskı ve çeviri belirtilmelidir.[^k4]

@@ -59,7 +59,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne oldu
 
 1946'dan 1996'ya kadar, yani elli yıl boyunca, Pasifik'in farklı
@@ -71,17 +70,15 @@ Deneme alanlarının önemli bölümü, o dönemde vesayet ya da sömürge
 statüsündeki adalardı.[^k3] Adaların halkı, alan seçimi kararında taraf değildi ve karar
 süreçlerinin hiçbirinde temsil edilmiyordu.
 
-Bu incelemenin asıl konusu o statüdür.[^k3] Vesayet düzeni, emanetçinin emanet
-edilen halkın refahını en üst düzeyde gözetmesini bir yükümlülük olarak
-öngörüyordu.
+Vesayet düzeni, emanetçinin emanet edilen halkın refahını en üst düzeyde gözetmesini bir
+yükümlülük olarak öngörüyordu.
 
 ## Vesayetin sınanması
 
 Orada kaydedilen temel eleştiri,
 emanetçinin tarafsız olmamasıydı.[^k3]
 
-Bu inceleme aynı eleştirinin en somut hâlini kaydeder.[^k1] Emanetçi
-devlet, emanet ettiği toprağı kendi silah programı için kullandı.
+Emanetçi devlet, emanet ettiği toprağı kendi silah programı için kullandı.
 
 Ölçüm şudur.[^k2] **Bir emanet ilişkisinde emanetçinin kendi çıkarı ile
 emanet edilenin çıkarı çatıştığında, ilişkinin kendisi bir denetim
@@ -95,9 +92,7 @@ veriyor ve yerel nüfus dilekçe gönderebiliyordu.
 Dilekçeler bu dönemde gönderildi.[^k1] Deneme alanlarındaki topluluklar,
 uluslararası örgüte doğrudan başvurdu.
 
-Başvurular programı durdurmadı.[^k3] Bu, korpusun vesayet dosyasında
-kaydedilen kısıtı doğrular: şikâyet edilen taraf, şikâyetin
-ulaştırıcısıydı.
+Başvurular programı durdurmadı.[^k3]
 
 ## Alan seçiminin ölçütleri
 
@@ -141,9 +136,8 @@ bir karardır.[^k3]
 Bir hesabın yanılma payı vardır ve o payın maliyetini biri
 taşır.[^k2] Burada payı taşıyan, hesabı yapan taraf değildi.
 
-Bu, korpusun Samoa dosyasında ölçtüğü örüntünün bir başka
-biçimidir.[^k1] Bir belirsizlik taraflardan birine sistematik olarak
-yükleniyorsa, o belirsizlik bir kusur değil bir düzenlemedir.
+Bir belirsizlik taraflardan birine sistematik olarak yükleniyorsa, o belirsizlik bir
+kusur değil bir düzenlemedir.
 
 Biri hukuki, öteki teknik
 belirsizliktir; yüklenme yapısı aynıdır.[^k3]
@@ -156,9 +150,8 @@ Nakillerin bir bölümü geçici olarak sunuldu.
 Geçicilik beyanı tutmadı.[^k1] Bazı topluluklar onlarca yıl sonra
 dönebildi, bazıları hiç dönemedi.
 
-Bu, korpusun vesayet dosyasında ölçtüğü örüntünün aynısıdır.[^k3] Geçici
-olduğu beyan edilen bir düzenlemenin süresi, o düzenlemeyi uygulayan
-tarafın kararına bağlıysa geçicilik beyanı bağlayıcı değildir.
+Geçici olduğu beyan edilen bir düzenlemenin süresi, o düzenlemeyi uygulayan tarafın
+kararına bağlıysa geçicilik beyanı bağlayıcı değildir.
 
 ## Dönüşün koşulu
 
@@ -191,9 +184,7 @@ bilgisiyle verildi.
 Bilgi yanlış çıktı.[^k1] Onayın hangi bilgiye dayandığı, onayın
 değerini belirler.
 
-Bu, korpusun himaye dosyasında kurulan kuralın bir başka biçimidir.[^k3]
-Bir belgenin ya da onayın hangi koşullarda verildiği, metninden
-okunamaz.
+Bir belgenin ya da onayın hangi koşullarda verildiği, metninden okunamaz.
 
 ## 1963 antlaşması
 
@@ -264,8 +255,7 @@ adasında, atıkların toplandığı bir beton örtü inşa edildi.
 Örtünün uzun vadeli dayanıklılığı tartışmalıdır.[^k1] Deniz seviyesi
 değişimi, ayrı bir risk kaynağı olarak anılır.
 
-Dosya bu tartışmayı sonuçlandırmaz.[^k2] Güncel teknik değerlendirmeler
-korpusun kapsamı dışındadır.
+Dosya bu tartışmayı sonuçlandırmaz.[^k2]
 
 ## Nauru ile karşılaştırma
 
@@ -276,8 +266,7 @@ program için kullanıldı ve toprağın kendisi kalıcı olarak değişti.[^k1]
 karşılığında gelir elde edildi; burada karşılık başlangıçta hiç
 ödenmedi.
 
-Ortak olan, kararın ada dışında alınmasıdır.[^k2] Korpus bu ortaklığı
-Okyanusya dosyalarında altıncı kez kaydeder.
+Ortak olan, kararın ada dışında alınmasıdır.[^k2]
 
 ## Kararın alındığı yer
 
@@ -285,8 +274,7 @@ Altı Okyanusya dosyasında da aynı yapı görülür.[^k3] Bölgeyi doğrudan
 etkileyen kararlar, bölgenin dışında ve bölgenin katılımı olmadan
 alındı.
 
-Bu, korpusun paylaşım dizisinde kaydedilen yapının aynısıdır.[^k2] Fark,
-burada kararın bir sınır çizimi değil bir kullanım kararı olmasıdır.
+Fark, burada kararın bir sınır çizimi değil bir kullanım kararı olmasıdır.
 
 Ölçüm şudur.[^k1] **Bir bölgenin nasıl kullanılacağına o bölgede
 yaşamayanların karar vermesi, sınır çizmekle aynı yapıdadır ve aynı
@@ -294,28 +282,22 @@ sonuçları üretir.**
 
 ## Kaynak durumu
 
-Bu incelemenin üç künyesinden biri giriş kapısı, ikisi belgedir.[^k1]
 Deneme programına ilişkin resmî raporlar künyelenememiştir.
 
-Raporların önemli bölümü uzun süre sınıflandırılmıştı ve kademeli olarak
-açıldı.[^k3] Doğrulanabilir çevrimiçi baskıları bu inceleme yazıldığında
-bulunamamıştır.
+Raporların önemli bölümü uzun süre sınıflandırılmıştı ve kademeli olarak açıldı.[^k3]
 
 Etkilenen toplulukların kendi kayıtları da künyelenememiştir.[^k2] Eksik
 borç defterine yazılmıştır ve dosyanın kapsamını doğrudan sınırlar.
 
 ## Kapsam dışı
 
-Sağlık etkilerine ilişkin sayısal veriler verilmez.[^k1] Veriler
-tartışmalıdır ve korpus bu alanda değerlendirme yapmaz.
+Sağlık etkilerine ilişkin sayısal veriler verilmez.[^k1]
 
 Deneme programlarının teknik ayrıntısı kapsam dışıdır.[^k3] Dosya
 yalnızca vesayet ve karar süreci boyutunu kaydeder; denemelerin sayısı,
 gücü ve türü ayrı bir çalışma gerektirir.
 
-Güncel hukuki süreçler işlenmez.[^k2] Korpus yaşayan davalar hakkında
-değerlendirme yapmaz; devam eden tazminat ve temizlik talepleri bu
-dosyanın kapsamı dışındadır.
+Güncel hukuki süreçler işlenmez.[^k2]
 
 ## Kanıtın ve kapsamın sınırı
 Dosya, denemelerin gerekli olup olmadığı hakkında hüküm vermez.[^k1]
@@ -327,7 +309,34 @@ kurulduğu ve ödemelerin kısmi kaldığı kaydedilir.
 Çevre etkilerinin uzun vadeli seyri hakkında öngörü yapılmaz.[^k2]
 Tartışmanın varlığı kaydedilir.
 
+## Zarar patlama anında bitmez
+
+Bir denemenin verimi ve mantar bulutu ilk ölçüdür; serpintinin suya, toprağa,
+gıdaya ve bedene girdiği yol ise kuşaklar boyunca sürebilir. Yer değiştirme
+beslenme, dil, mezarlık, akrabalık ve geçim bilgisini de kesintiye uğratır.
+“Tahliye edilen kişi sayısı” kültürel kaybı veya geri dönüşün neden mümkün
+olmadığını tek başına ölçmez.[^k1]
+
+Doz kayıtları çoğu kez denemeyi yapan kurumun cihaz ve öncelikleriyle üretildi.
+Hangi adanın ölçüldüğü, çocuk ve yetişkin bedeninin nasıl ayrıldığı, dışarıdan
+gelen gıdanın hesaba katılıp katılmadığı sonucu değiştirir. Gizlilik ve teknik dil,
+etkilenen topluluğun kendi hastalık ve çevre bilgisini resmî kanıtın dışına
+itebilir. Rıza yalnız önceden imza almak değil; riskin anlaşılır dilde açıklanması,
+reddetme imkânı ve sonradan veriye erişim gerektirir.
+
+1963 Kısmi Deneme Yasağı atmosfer, uzay ve su altı denemelerini yasakladı, yer
+altını kapsam dışında bıraktı.[^k2] Bu önemli sınırlama serpintiyi azalttı fakat
+silah yarışını bitirmedi. Tazminat değerlendirmesi de yalnız geçmiş ödeme değil,
+sürekli sağlık izlemi, çevre iyileştirmesi ve topluluğun karar yetkisini birlikte
+ele almalıdır.[^k4]
+
+Deneme sayısı ile maruz kalma sayısı aynı değildir. Tek patlama farklı adalarda,
+farklı rüzgâr ve beslenme yollarıyla çok sayıda temas üretir; aynı topluluk yıllar
+boyunca birden çok denemeden etkilenebilir. Sağlık araştırması olay sayısını değil
+birikimli dozu ve belirsizliği izlemelidir.
+
 ## Okumayı sürdürmek için
+
 Dosyanın sınadığı düzen için
 [Vesayet yönetimi](/kavram/vesayet-yonetimi/) dosyası okunmalıdır; bu
 dosya oradaki eleştirinin en somut hâlini sağlar.[^k3]

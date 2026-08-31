@@ -60,7 +60,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak, tanım bölümünün altında sömürgecilik alt başlığını tutar ve emperyalizm
 kuramlarına ayrı bir bölüm ayırır.[^k1]
 
@@ -71,16 +70,9 @@ yayılmacılık, şarkiyatçılık ve hayalî coğrafya, haritacılık, kültür
 dinî emperyalizm, psikolojik emperyalizm, toplumsal emperyalizm, toplumsal
 Darwincilik ve çevresel belirlenimcilik.[^k1]
 
-Haritacılığın bir gerekçelendirme başlığı olarak sayılması,[^k1] korpusun harita
-gösterimini neden ayrı bir tartışma dosyası olarak tuttuğunun dayanağıdır; o
-tartışma
-[İmparatorluk sınırı haritada nasıl gösterilmeli?](/tartisma/imparatorluk-siniri-nasil-cizilir/)
-haritasında ele alınıyor.
+/tartisma/imparatorluk-siniri-nasil-cizilir/) haritasında ele alınıyor.
 
 ## Kavram ile sömürgecilik ayrı ayrı tutulur
-
-Sömürgeciliğin emperyalizmin altında bir alt başlık olarak kaydedilmesi,[^k1]
-iki terimin eşanlamlı sayılmadığını gösterir; korpus bu ayrımı korur.
 
 ## Kuramlar bölümü ayrıdır
 
@@ -97,11 +89,9 @@ ve bütün iktidarın bu halklara devredilmesini ister.[^k4] O süreç
 [Afrika bağımsızlık dalgası](/olay/afrika-bagimsizlik-dalgasi/) dosyasında ele
 alınıyor.
 
-
 ## Kavramın sınırı
 
-Kavram her genişlemeyi kapsamaz.[^k1] Korpus üç ölçüt
-uygular.
+Kavram her genişlemeyi kapsamaz.[^k1]
 
 Birincisi, kararın nerede alındığıdır.[^k2] İkincisi, gelirin nereye
 aktığıdır. Üçüncüsü, yönetilenlerin karar sürecine katılıp
@@ -127,8 +117,7 @@ Kavramın en zor ölçülen biçimi budur.[^k1] Borç, ticaret anlaşması ve
 askerî üs yoluyla kurulan bağımlılık, hukuken egemen bir devlette de
 görülür.
 
-Bu biçim korpusun birçok dosyasında kayıtlıdır.[^k2] Gümrük denetimi ve
-yaptırım araçları bunlar arasındadır.
+Gümrük denetimi ve yaptırım araçları bunlar arasındadır.
 
 Egemenliğin biçimsel olarak korunması, fiilî
 bağımlılığın bulunmadığını göstermez.[^k3]
@@ -144,7 +133,6 @@ Bu, terimi geçersiz kılmaz.[^k1] Ancak tanımın kimin elinde
 
 Bir kavramın eleştirel amaçla kurulmuş
 olması, çözümleyici değerini ortadan kaldırmaz.[^k3]
-
 
 ## Ölçülebilir izler
 
@@ -185,9 +173,6 @@ için ayrı ayrı uygulanması gerektiğidir.[^k1]
 yararı, farklı dönemlere aynı soruyu sorabilmesinden
 gelir.
 
-
-## Korpusun kullanım kuralı
-
 Karar nerede alındı, gelir nereye aktı,
 yönetilenler karara katıldı mı.[^k1]
 
@@ -199,12 +184,9 @@ Bu, kavramın tartışmalı olmasından
 doğar.[^k3] Tartışmalı bir kavram, ancak ölçütleri açıkça
 yazıldığında kullanılabilir.
 
-
 ## Kavramın öncülleri
 
-Terim yirminci yüzyılda yaygınlaştı ama tanımladığı ilişki çok daha
-eskidir.[^k1] Korpusun erken dönem dosyalarında da aynı üç ölçüt
-uygulanabilir.
+Terim yirminci yüzyılda yaygınlaştı ama tanımladığı ilişki çok daha eskidir.[^k1]
 
 Bu, kavramın geriye taşınabilir olduğunu
 göstermez.[^k2] Ölçütler geriye taşınabilir; terimin kendisi o
@@ -212,7 +194,6 @@ dönemlerin diline ait değildir.
 
 Bir ölçütü geçmişe uygulamak ile bir terimi geçmişe
 yüklemek ayrı iki işlemdir.[^k3]
-
 
 ## Karşı tarafın kaydı
 
@@ -225,6 +206,18 @@ dağınıktır.
 
 Bir ilişkinin iki tarafından yalnızca
 birinin kaydı varsa, o ilişkinin anlatısı da tek taraflıdır.[^k3]
+
+## Biçimsel yönetimin ötesindeki ölçüt
+
+Emperyalizm yalnız bir bölgenin resmen ilhak edilmesi değildir. Borç denetimi,
+eşitsiz antlaşma, askerî üs, şirket tekeli veya yerel yönetici üzerindeki baskı da
+karar yetkisini dışarıya taşıyabilir.[^k1] Buna karşılık her ekonomik eşitsizlik
+emperyalizm sayılmaz; süreklilik gösteren güç asimetrisi ve siyasal iradeyi sınırlayan
+bir mekanizma gösterilmelidir. Kavramın kapsamı açık yazılmazsa fetih, sömürgecilik ve
+küresel ticaret birbirinin yerine kullanılan belirsiz etiketlere dönüşür.[^k2]
+
+Yerel aktörlerin işbirliği, pazarlığı ve direnişi de ilişkinin nasıl sürdüğünü
+açıklayan bağımsız etkenlerdir.[^k1]
 
 ## Kanıtın ve kapsamın sınırı
 Emperyalizm çağı, ülke ülke tarihler ve kuramların içeriği burada ayrı başlıklar

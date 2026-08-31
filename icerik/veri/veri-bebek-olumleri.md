@@ -46,7 +46,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Seri 1990'da 6,399028 ile başlar ve 2024'te 2,7679465 ile biter.[^k1]
 
 ## Sütun adı kırılımları taşır
@@ -54,27 +53,19 @@ Seri 1990'da 6,399028 ile başlar ve 2024'te 2,7679465 ile biter.[^k1]
 Veri kümesinin sütun adı, gözlem değerini bebek ölüm oranı göstergesi için ve
 cinsiyet ile varlık dilimi kırılımları toplam olarak tanımlar.[^k1]
 
-Bir ölçünün adında hangi alt grupların birleştirildiğinin yazması,[^k1] korpusun
-şu kuralının dayanağıdır: bu seriden okunan değerler, hangi kırılımın toplandığı
-belirtilmeden aktarılmaz. Aynı yıl için farklı kırılımlar farklı sayılar verir.
+Aynı yıl için farklı kırılımlar farklı sayılar verir.
 
 ## Yakın ama aynı olmayan ölçü
 
 Aynı sağlayıcının beş yaş altı ölüm oranı serisinde uç değerler 1800 için yüzde
 42,8 ve 2024 için yüzde 3,74'tür.[^k2]
 
-İki serinin aynı yıl için farklı sayılar vermesi,[^k1][^k2] iki ölçünün farklı yaş
-aralıklarını kapsadığını gösterir; korpus bu iki dosyayı ayrı tutar ve değerlerini
-birbirinin yerine kullanmaz. İlişkili dosya
-[Beş yaş altı ölüm oranı, 1800–2024](/veri/cocuk-olumleri/) dosyasıdır.
+İlişkili dosya [Beş yaş altı ölüm oranı, 1800–2024](/veri/cocuk-olumleri/) dosyasıdır.
 
 ## Seri 1990'dan önce yoktur
 
 Veri kümesinde sağlayıcının toplam satırı için 1990'dan önce gözlem
 bulunmaz.[^k1]
-
-Bu, korpusun şu kuralının dayanağıdır: bu incelemeden yirminci yüzyılın ilk
-yarısına dair bir bebek ölüm oranı okunamaz.
 
 ## Nüfus modeli
 
@@ -83,8 +74,3 @@ güçlüklerinin sonunda nüfus artış hızını azalttığını öne süren bi
 anlatır.[^k3] O model
 [Thomas Malthus](/dusunur/malthus/) dosyasında, kuramsal çerçeve ise
 [Demografik geçiş](/kavram/demografik-gecis/) dosyasında ele alınıyor.
-
-## Kanıtın ve kapsamın sınırı
-Ülke ülke oranlar, kırılımlara göre dağılım ve ölçüm yöntemi burada ayrı
-başlıklar altında ele alınmamıştır; bu inceleme yalnızca sağlayıcının toplam
-satırını kaydeder.[^k1]

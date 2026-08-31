@@ -50,7 +50,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Tanım
 
 Apartheid düzeni, nüfusun tamamının resmî olarak sınıflandırıldığı ve
@@ -122,9 +121,6 @@ Belgenin işlevi denetim kadar tahsisti.[^k3] Kimin nerede
 çalışabileceğini belirleyerek işgücünü madenlere ve kentlere
 yönlendiriyordu.
 
-Bu, korpusun zorunlu emek dosyasında tanımlanan
-yapının bir biçimidir: reddin mümkün olmadığı bir emek tahsisi.[^k2]
-
 ## Ekonomik işlev
 
 Düzen yalnızca bir ayrım düzeni değildi.[^k1] Aynı zamanda ucuz ve
@@ -193,6 +189,15 @@ dayanır.
 
 Ortak bir mekanizma paylaşmak, aynı olmak
 anlamına gelmez.[^k2]
+
+## Ayrımcılıktan kurumsal düzene
+
+Apartheid, kişiler arasındaki önyargının ötesinde hukuk, mekân, emek ve siyasal
+hakların ırksal sınıflandırmayla birlikte düzenlenmesidir.[^k1] Her ayrımcılık örneği
+apartheid sayılmaz; sınıflandırmanın devlet kayıtlarına, yerleşim hakkına, dolaşıma
+ve temsil kurumlarına bağlanması gerekir. Resmî yasaların kaldırılması da sonuçların
+hemen ortadan kalktığını göstermez; mülkiyet ve mekânsal eşitsizlik daha uzun süre
+devam edebilir.[^k2]
 
 ## Okumayı sürdürmek için
 Benzer bir sınıflandırma yapısı için [Kast](/kavram/kast/), emek

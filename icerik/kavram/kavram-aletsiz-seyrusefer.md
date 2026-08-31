@@ -48,7 +48,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Aletsiz seyrüsefer, pusula, kronometre ve deniz haritası kullanmadan açık
@@ -59,9 +58,7 @@ Sistem birden çok gösterge kullanır ve hiçbirine tek başına
 güvenmez.[^k1] Yıldızların doğuş ve batış noktaları, hâkim dalga yönleri,
 bulut biçimleri, kuş uçuş rotaları ve suyun rengi birlikte okunur.
 
-Dosyanın korpus açısından ayırt edici yanı, bilginin nereye
-yüklendiğidir.[^k2] Burada bilgi bir alete değil, eğitilmiş bir belleğe ve
-gözleme yüklenmiştir.
+Burada bilgi bir alete değil, eğitilmiş bir belleğe ve gözleme yüklenmiştir.
 
 ## Yıldız pusulası
 
@@ -107,9 +104,8 @@ Sistemin bütünü, bir kişinin belleğinde tutulur ve sözlü olarak
 aktarılır.[^k1] Aktarım uzun bir eğitim süreci gerektirir ve belirli
 ailelerde ya da gruplarda yürütülür.
 
-Bu, korpusun [Kipu](/kavram/kipu/) ve şarkı yolları dosyalarında kaydedilen
-yapının bir başka örneğidir.[^k2] Bilgi bir taşıyıcıya bağlıdır; taşıyıcı
-burada bir nesne ya da arazi değil, eğitilmiş bir kişidir.
+Bilgi bir taşıyıcıya bağlıdır; taşıyıcı burada bir nesne ya da arazi değil, eğitilmiş
+bir kişidir.
 
 Kayıp mekanizması da aynıdır.[^k1] Eğitim zinciri kırıldığında sistem
 okunamaz hâle gelir; nesneler kalsa bile onları kullanacak bilgi kaybolur.
@@ -120,9 +116,8 @@ Yöntem yirminci yüzyılın ortasında büyük ölçüde kullanımdan
 kalkmıştı.[^k1] Sonraki on yıllarda, hâlâ bilen az sayıda kişiden
 öğrenilerek yeniden canlandırıldı.
 
-Bu, korpusun kayıt sistemleri dosyalarında seyrek görülen bir durumdur.[^k2]
-Kipu ve benzeri sistemlerde zincir kırıldığında geri dönüş olmamıştır;
-burada zincir tam kopmadan yakalanmıştır.
+Kipu ve benzeri sistemlerde zincir kırıldığında geri dönüş olmamıştır; burada zincir tam
+kopmadan yakalanmıştır.
 
 Bir bilgi sisteminin kurtarılabilmesi, kaybın hangi
 aşamada fark edildiğine bağlıdır; nesneler kalıcıdır ama onları okuyacak bilgi kalıcı
@@ -130,29 +125,32 @@ değildir.[^k1]
 
 ## Sınanabilirlik
 
-Yöntemin işleyip işlemediği, korpusun öteki kayıt sistemi dosyalarından farklı
-olarak doğrudan sınanabilir.[^k1] Aletsiz yapılan uzun mesafe
-yolculukları, yöntemin bugün de sonuç verdiğini göstermiştir.
+Aletsiz yapılan uzun mesafe yolculukları, yöntemin bugün de sonuç verdiğini
+göstermiştir.
 
 Bu sınama, tarihsel iddiayı da güçlendirir.[^k2] Yöntemin bugün işlemesi,
 geçmişte de işleyebileceğini gösterir; yerleşimin rastlantısal sürüklenmeyle
 mi yoksa kasıtlı seyirle mi olduğu sorusuna dayanak verir.
 
-::tartismali[Pasifik yerleşiminin kasıtlı seyirle mi yoksa rastlantısal
-sürüklenmeyle mi gerçekleştiği uzun süre tartışılmıştır; aletsiz seyrüseferin
-bugün sınanabilir olması birinci okumayı güçlendirir ama tek başına
-kanıtlamaz.]{harita=tartisma-sozlu-gelenek-kaynak-mi}
-
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, atlasın Okyanusya bölgesindeki dördüncü dosyasıdır.[^k1] Bölge
-üç tur önce şemaya eklendi ve hâlâ eksiktir.
+::tartismali[Pasifik yerleşiminin kasıtlı seyirle mi yoksa rastlantısal sürüklenmeyle mi gerçekleştiği uzun süre tartışılmıştır; aletsiz seyrüseferin bugün sınanabilir olması birinci okumayı güçlendirir ama tek başına kanıtlamaz.]{harita=tartisma-sozlu-gelenek-kaynak-mi}
 
 Dosyanın kapsamadıkları belirtilmelidir.[^k2] Tek tek ada gruplarının
 yöntem farkları, tekne biçimleri ve mevsimlik seyir takvimleri burada
 işlenmez; her biri ayrı dosya gerektirir.
 
-Yöntemin bugünkü canlandırma çalışmaları da kapsam dışıdır.[^k1] Bu inceleme
-tekniğin kendisini kaydeder; kurumsal tarihini değil.
+Yöntemin bugünkü canlandırma çalışmaları da kapsam dışıdır.[^k1]
+
+## “Aletsiz” bilgisiz demek değildir
+
+Pusula veya metal araç kullanmadan yapılan seyrüsefer, yalnız sezgiye dayanmaz.
+Yıldızların doğuş noktaları, dalga yönü, rüzgâr, kuş davranışı ve bulut biçimleri
+kuşaklar boyunca öğrenilen bir bilgi sistemi oluşturur.[^k1] Başarıyı tesadüf diye
+açıklamak bu eğitimi görünmez kılar; buna karşılık her yolculuğu kesin rota bilgisi
+saymak da kanıtı aşar. Deneysel yolculuklar olasılığı gösterir, belirli tarihsel
+seferin aynen nasıl yapıldığını tek başına kanıtlamaz.[^k2]
+
+Bilginin sözlü aktarılması, onun sistemsiz olduğu anlamına gelmez; eğitim, sınama ve
+uzmanlık kendi kurumlarını oluşturabilir.[^k1]
 
 ## Okumayı sürdürmek için
 Yöntemin mümkün kıldığı yerleşim için

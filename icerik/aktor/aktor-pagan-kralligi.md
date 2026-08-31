@@ -49,20 +49,17 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Nerede durduğu
 
-Pagan Krallığı, Güneydoğu Asya'nın batı ucunda, büyük bir nehrin orta
-havzasında kurulmuş siyasi birimdir.[^k1][^k3] Korpusun bölge şemasında Doğu
-Asya ile Güney Asya'nın kesiştiği yerde durur.
+Pagan Krallığı, Güneydoğu Asya'nın batı ucunda, büyük bir nehrin orta havzasında
+kurulmuş siyasi birimdir.[^k1][^k3]
 
 Krallığın kurulduğu ova, sulama yoluyla yüksek tarım verimi
 sağlayabilen bir alandır.[^k3] Bu, bölgedeki liman devletlerinden farklı bir
 gelir temeli anlamına gelir.
 
-Dosyanın ayırt edici yanı, bir devletin dinî bağış düzeninin maliyesini
-nasıl aşındırdığını ölçülebilir biçimde göstermesidir.[^k1][^k3] Korpusta bu
-mekanizmanın başka bir örneği bulunmaz.
+Dosyanın ayırt edici yanı, bir devletin dinî bağış düzeninin maliyesini nasıl
+aşındırdığını ölçülebilir biçimde göstermesidir.[^k1][^k3]
 
 ## Sulamanın kurduğu temel
 
@@ -74,9 +71,8 @@ Sulama düzeni sürekli bakım ister ve bakım merkezî bir örgütlenme
 gerektirir.[^k1] Kanalların temizlenmesi, suyun paylaştırılması ve
 anlaşmazlıkların çözülmesi bir yönetim işidir.
 
-Bu bağ korpusun başka bölgelerinde de görülür. Su düzenine dayanan
-tarım, merkezî yönetimi zorunlu kılar; merkezî yönetim de varlığını o su
-düzeninin sürmesine bağlar.[^k3]
+Su düzenine dayanan tarım, merkezî yönetimi zorunlu kılar; merkezî yönetim de varlığını
+o su düzeninin sürmesine bağlar.[^k3]
 
 ## Tapınak yapımının ölçeği
 
@@ -88,8 +84,6 @@ gerektirir.[^k3] Yapıların kendisi, krallığın maliyesinin bir dönem ne kad
 güçlü olduğunun doğrudan kanıtıdır.
 
 Aynı yapılar, aşağıda anlatılan çöküş mekanizmasının da kanıtıdır.[^k1]
-Korpusun [Arkeolojik kanıt](/kavram/arkeolojik-kanit/) dosyası, yapı
-kalıntılarının yazılı kayıttan bağımsız bir kanıt türü olduğunu tanımlar.
 
 ## Bağışın maliyeyi aşındırması
 
@@ -115,8 +109,7 @@ ne kadar çok yapı yaptırdığı, ne kadar iyi bir hükümdar sayıldığını
 zayıflatan davranışla aynıydı; hükümdarın ikisini birden gözetme
 imkânı sınırlıydı.[^k3]
 
-Korpusun [Meşruiyet](/kavram/mesruiyet/) dosyası bu kavramı genel biçimiyle
-ele alır. Burada somut hâli, meşruiyet üretmenin bedava olmadığı ve bedelinin
+Burada somut hâli, meşruiyet üretmenin bedava olmadığı ve bedelinin
 ölçülebildiğidir.[^k1]
 
 ## Çöküşün açıklaması
@@ -125,10 +118,7 @@ Krallığın sonu genellikle dışarıdan gelen bir askerî baskıyla
 anlatılır.[^k1][^k3] Kuzeyden gelen sefer, merkezî otoritenin çözülmesiyle
 aynı yıllara düşer.
 
-::tartismali[Çöküşün asıl sebebinin dışarıdan gelen askerî baskı mı yoksa
-bağış düzeninin maliyeyi yıllar içinde aşındırması mı olduğu tartışmalıdır;
-iki açıklama birbirini dışlamaz ama ağırlıkları farklı verilir. Korpus bir
-sıralama yapmaz.]{harita=tartisma-iklim-ve-cokus}
+::tartismali[Çöküşün asıl sebebinin dışarıdan gelen askerî baskı mı yoksa bağış düzeninin maliyeyi yıllar içinde aşındırması mı olduğu tartışmalıdır; iki açıklama birbirini dışlamaz ama ağırlıkları farklı verilir.]{harita=tartisma-iklim-ve-cokus}
 
 Zayıflamış bir maliyenin dış baskıya
 dayanamaması ile dış baskının kendi başına yeterli olması ayrı iddialardır ve ayrı
@@ -136,9 +126,8 @@ kanıtlar gerektirir.[^k3]
 
 ## Saray anlatısının durumu
 
-Bu incelemenin birincil kaynağı, krallığın saray anlatısıdır.[^k2] Metin
-hanedanların sırasını, hükümdarların yaptırdığı yapıları ve kuruluş
-anlatılarını verir.
+Metin hanedanların sırasını, hükümdarların yaptırdığı yapıları ve kuruluş anlatılarını
+verir.
 
 Metnin derlenme tarihi, anlattığı dönemden yüzyıllar sonradır.[^k2] Bu, onu
 bir çağdaş kayıt değil, sonraki bir yönetimin geçmişi nasıl kaydettiğinin
@@ -149,16 +138,13 @@ hanedanın kendinden öncekileri nasıl sıraladığı için okunmalıdır.[^k1]
 
 ## Kuruluş anlatısının işlevi
 
-Saray anlatısı, hanedanın kökenini dinî bir çerçeveye ve uzak bir soya
-bağlar.[^k2] Bu, korpusun başka bölgelerinde de karşılaşılan bir kuruluş
-tekniğidir.
+Saray anlatısı, hanedanın kökenini dinî bir çerçeveye ve uzak bir soya bağlar.[^k2]
 
 Anlatının işlevi geçmişi açıklamak değil, bugünkü hükümranlığı
 gerekçelendirmektir.[^k2] Bir soy iddiası ileriye dönük çalışır.
 
-Aynı teknik korpusun Güneydoğu Asya, Batı Afrika ve Amerika dosyalarında
-görülür.[^k3] Birbirinden habersiz bölgelerin aynı aracı kullanması,
-karşılaştırmalı okumaya açtığı yerlerden biridir.
+Birbirinden habersiz bölgelerin aynı aracı kullanması, karşılaştırmalı okumaya açtığı
+yerlerden biridir.
 
 ## Egemenliğin biçimi
 
@@ -184,9 +170,6 @@ Taş kayıtların değeri, saray anlatısıyla karşılaştırılabilir
 olmalarıdır.[^k2][^k3] İki kaynak aynı olayı farklı anlatıyorsa, farkın
 kendisi bir bilgidir.
 
-Taş kayıtların doğrulanabilir ve tam metin
-bir derlemesi bu inceleme yazıldığında bulunamamıştır.[^k1]
-
 ## Komşularla ilişki
 
 Krallığın doğusunda, aynı yüzyıllarda benzer ölçekte bir başka düzen
@@ -206,12 +189,9 @@ Krallığın nüfusuna dair sayılar, saray anlatısından ve sonraki
 derlemelerden gelir.[^k2][^k3] Bağımsız bir sayım kaydı elde
 bulunmamaktadır.
 
-Yapı sayısı ise farklı bir durumdadır. Ayakta kalan yapılar sayılabilir ve
-bu sayı, kayıt değil ölçümdür;[^k3] korpusun bu incelemede güvendiği tek
-niceliksel bilgi budur.
+Yapı sayısı ise farklı bir durumdadır.
 
 Yapı sayısından nüfusa geçmek ise bir varsayım zinciri gerektirir.[^k1]
-Korpus bu geçişi yapmaz ve bir nüfus tahmini vermez.
 
 ## Bölgenin sonraki tarihiyle ilişki
 
@@ -225,23 +205,14 @@ yol açar; bakımsız kalan kanal düzeni hızla işlevini yitirir.
 Bakım gerektiren altyapının siyasi
 düzenle birlikte çökmesi, ayrı kanıtlarla gösterilmesi gereken bir iddiadır.[^k1]
 
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun Güneydoğu Asya aktör katmanındaki beşinci dosyadır ve
-bölgenin batı ucunu ilk kez ele alır.[^k1][^k3] Önceki dosyalar ada, boğaz
-ve nehir ovası düzenlerini anlatıyordu.
-
-Dosyanın seçilme gerekçesi kapsamdan çok mekanizmadır.[^k3] Dinî bağışın
-maliyeyi aşındırması, korpusun başka hiçbir dosyasında bu kadar açık
-ölçülemez.
+Dosyanın seçilme gerekçesi kapsamdan çok mekanizmadır.[^k3]
 
 Bu mekanizma başka bölgelerde de vardır ve orada başka biçimler alır.[^k1]
-Bir mekanizmanın en açık göründüğü örnekten okunması, korpusun kavram
-dosyalarının kurulma yöntemidir.
 
 ## Kaynak durumu
 
-Bu inceleme üç kaynağa dayanır ve biri birincildir.[^k2] Birincil kaynak
-krallığın kendi saray anlatısıdır ama sonraki bir hanedanın derlemesidir.
+Birincil kaynak krallığın kendi saray anlatısıdır ama sonraki bir hanedanın
+derlemesidir.
 
 Bu ayrım künyede gizlenmez.[^k2] Bir metnin bir devletin kendi anlatısı
 olması ile o devletin çağdaşı olması ayrı şeylerdir; ikincisi burada
@@ -252,31 +223,23 @@ bulunamamıştır ve bu, dosyanın en önemli kısıtıdır.[^k3] Okur, buradaki
 siyasi bilgilerin bağımsız bir çağdaş kayıtla doğrulanmadığını bilerek
 okumalıdır.
 
-## Açıkta kalan sorular
-Krallığın hükümdar listesi, taht kavgaları ve hanedan tarihi burada
-verilmez.[^k2] Korpusun aktör dosyaları bir düzenin nasıl işlediğini anlatır.
-
 Yapıların mimari özellikleri, üslup evreleri ve resim programları da kapsam
 dışıdır.[^k3] Bu malzeme ayrı bir dosya gerektirir.
 
-Bölgedeki dinî geleneğin kendi tarihi burada işlenmez.[^k1] Bu inceleme bir
-siyasi düzeni konu edinir; bir inanç geleneğini değil.
+Bölgedeki dinî geleneğin kendi tarihi burada işlenmez.[^k1]
 
 ## Bağış kaydının kanıt değeri
 
-Bağışların taşa yazılmış olması, bu incelemenin merkezindeki mekanizmayı
-ölçülebilir kılar.[^k3] Bir bağışın tarihi, büyüklüğü ve bağışlayanı
-kayıtlıysa, vergi tabanının nasıl daraldığı yıl yıl izlenebilir.
+Bir bağışın tarihi, büyüklüğü ve bağışlayanı kayıtlıysa, vergi tabanının nasıl daraldığı
+yıl yıl izlenebilir.
 
-Bu, korpusun nadiren sahip olduğu türden bir kanıttır.[^k1] Çoğu dönem ve
-bölgede maliye tartışmaları dolaylı göstergelerle yürütülür; burada kaydın
+Çoğu dönem ve bölgede maliye tartışmaları dolaylı göstergelerle yürütülür; burada kaydın
 kendisi doğrudandır.
 
-Kaydın taraflılığı da vardır ve yönü bellidir. Taşa yazılan bir bağış, bir
-övünme kaydıdır;[^k2] yapılmayan bağışlar ya da geri alınan topraklar aynı
-titizlikle yazılmaz. Bu yüzden kayıtlardan çıkarılan eğilim, bağışın
-yönünü doğru verir ama büyüklüğünü olduğundan fazla gösterebilir.[^k3]
-Korpus eğilimi kaydeder, oranı değil.
+Kaydın taraflılığı da vardır ve yönü bellidir. Taşa yazılan bir bağış, bir övünme
+kaydıdır;[^k2] yapılmayan bağışlar ya da geri alınan topraklar aynı titizlikle yazılmaz.
+Bu yüzden kayıtlardan çıkarılan eğilim, bağışın yönünü doğru verir ama büyüklüğünü
+olduğundan fazla gösterebilir.[^k3]
 
 ## Okumayı sürdürmek için
 Aynı yüzyıllarda doğudaki benzer düzen için
@@ -293,3 +256,45 @@ açıklamalarının nasıl tartıldığı için
 
 Aynı yılları bütün bölgeler üzerinden okumak için [Dönem 07](/donem/07/)
 dosyası kullanılmalıdır.
+
+## Tapınak programı nasıl devlet kapasitesi gösterir?
+
+Pagan ovasındaki binlerce yapı, uzun süre boyunca taş, tuğla, işçilik, ulaşım ve
+uzmanlık seferber edilebildiğini gösterir.[^k1][^k3] Anıt sayısı yalnız hükümdarın
+inancını değil tarımsal fazla, bağış düzeni ve zanaat örgütlenmesini görünür
+kılar. Her yapının aynı anda kullanıldığı veya doğrudan sarayca yaptırıldığı
+varsayılmamalıdır; hükümdar, seçkin ve topluluk bağışları ayrılmalıdır.
+
+Theravada Budizminin kurumlaşması krallığa ortak meşruiyet dili ve yazılı kültür
+sağladı. Manastır ve tapınaklara arazi ile emek bağışı öğretim, ritüel ve sanatın
+maddi temelini kurdu. Aynı kaynakların vergi dışına çıkması zamanla sarayın
+gelir alanını daraltabilir. Dinî bağış bu nedenle yalnız mali “israf” veya yalnız
+manevî erdem değildir; meşruiyet üretirken devletin gelir yapısını dönüştüren
+kurumsal tercihtir.[^k1]
+
+## Sulama, kent ve çevre
+
+Merkezî Burma’daki kuru bölge, tarımsal üretim için su yönetimini önemli kıldı.
+Kanal ve rezervuarların bakımı vergi ile ortak emek gerektiriyordu. İklim
+oynaklığı baskıyı artırabilir; doğrudan “kuraklık krallığı çökertti” sonucu için
+ürün, yerleşim, kurum ve zamanlama zinciri gösterilmelidir.[^k3]
+
+Moğol baskısı siyasi krizin parçasıydı, tek açıklaması değildir. Hanedan rekabeti,
+bağışların mali etkisi ve bölgesel güçlerin özerkleşmesi dış tehditle birlikte
+çalıştı. Birkaç seferi bütün çözülmenin nedeni saymak, daha yavaş mali ve siyasal
+dönüşümü görünmez kılar.
+
+*Glass Palace Chronicle* geçmiş hanedanları sonraki bir saray geleneği içinden
+anlatır.[^k2] Uzun hükümdar listesi ve kurucu hikâyeler çağdaş taş yazıtlarla
+aynı tür kanıt değildir. Kronik, sonraki Burma devletinin Pagan mirasını nasıl
+kurduğunu da gösterir. Başkent zayıfladıktan sonra Budist kurumlar, yazı ve bölgesel
+kimlik yaşamaya devam etti; siyasal çöküş kültürel son değildi.
+
+Tapınakların bugünkü yoğunluğu da geçmiş nüfusu doğrudan vermez. Dayanıklı tuğla
+ve dinî koruma bu yapıların sıradan evlerden daha fazla yaşamasını sağladı.
+Arkeolojik manzara, eski toplumun bütün kaynak dağılımı değil, korunma ihtimali
+yüksek bölümüdür.
+
+Kayıp ahşap yapılar ayrıca hesaba katılmalıdır.
+
+Korunma farkı yorumu değiştirir.

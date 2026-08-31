@@ -56,7 +56,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Haudenosaunee Konfederasyonu, Kuzey Amerika'nın kuzeydoğusunda kurulmuş
@@ -69,10 +68,6 @@ ulusların iç işlerinde bağımsız kalmasını, ortak meselelerde ise bir
 konsey aracılığıyla karar almasını düzenler; yetki dağılımı baştan
 yazılmıştır ve sonradan pazarlıkla kurulmuş değildir.
 
-Bu incelemenin iki konusu vardır.[^k3] Birincisi metnin kendisi ve nasıl
-taşındığı; ikincisi böyle bir birliğin korpusun aktör katmanında nasıl
-yer alacağı.
-
 ## Metnin taşınma biçimi
 
 Kurucu metin, yüzyıllarca yazıya geçirilmeden taşındı.[^k2] Taşıma
@@ -83,9 +78,8 @@ Boncuk dizileri bir alfabe değildir.[^k1] Desenler, metnin bölümlerine
 karşılık gelen hatırlatıcılardır; metnin kendisi ezberden aktarılır ve
 dizi, aktarımın doğruluğunu denetlemeye yarar.
 
-Bu, korpusun Aşanti dosyasında ölçtüğü düzenle aynı ailedendir.[^k3]
-İkisinde de yazı yoktur ama aktarımın kuralları vardır ve kurallar
-biliniyorsa güvenilirlik derecesi de değerlendirilebilir.
+İkisinde de yazı yoktur ama aktarımın kuralları vardır ve kurallar biliniyorsa
+güvenilirlik derecesi de değerlendirilebilir.
 
 ## Yazıya geçirilme
 
@@ -93,9 +87,7 @@ Metin, on dokuzuncu yüzyıl sonu ile yirminci yüzyıl başı arasında
 yazıya geçirildi.[^k3] Yazıya geçirme işini, konfederasyon üyeleri ile
 araştırmacılar birlikte yürüttü.
 
-Bu incelemenin künyelediği baskı o çalışmanın ürünüdür.[^k3] Katalogda
-yaratıcı alanında hem bir araştırmacı hem bir konfederasyon üyesi
-görünür.
+Katalogda yaratıcı alanında hem bir araştırmacı hem bir konfederasyon üyesi görünür.
 
 Ortak üretim, metnin statüsünü de belirsizleştirir.[^k1] Metin bir
 kaynağın kaydı mıdır yoksa iki tarafın birlikte kurduğu bir sürüm
@@ -135,15 +127,8 @@ merci yoktur.
 Karar alma, oy çokluğuyla değil uzlaşmayla yürür.[^k1] Konsey içindeki
 gruplar sırayla görüş bildirir ve anlaşmazlık sürerse konu ertelenir.
 
-Bu yapı, korpusun aktör katmanındaki olağan birimden farklıdır.[^k3]
-Korpusun aktör dosyalarının çoğu, vergi toplayan ve zor kullanan bir
-merkezî aygıta sahip düzenleri işler.
-
-## Korpusun kendi biriminin sınırı
-
-Dosya bu nedenle korpusun kendi kategorisini de sınar.[^k1] "Aktör"
-kategorisi, merkezî aygıta sahip düzenlere göre kurulmuşsa, böyle bir
-birliği eksik temsil eder.
+"Aktör" kategorisi, merkezî aygıta sahip düzenlere göre kurulmuşsa, böyle bir birliği
+eksik temsil eder.
 
 Bir siyasi birim, zor kullanma tekelini
 merkezde toplamadan da uzun süre işleyebilir.[^k2]
@@ -158,9 +143,8 @@ Kurucu metinde, konsey üyelerinin belirlenmesi ve görevden alınması
 yetkisi belirli kadınlara verilmiştir.[^k2] Yetki, soy hattı üzerinden
 işler.
 
-Bu, korpusun karşılaştığı düzenlerin çoğundan farklıdır.[^k3] Yetkinin
-seçme ve azletme biçiminde ayrıştırılması, yönetenlerin sürekli bir
-denetim altında olması anlamına gelir.
+Yetkinin seçme ve azletme biçiminde ayrıştırılması, yönetenlerin sürekli bir denetim
+altında olması anlamına gelir.
 
 Dosya bunu bir üstünlük iddiası olarak yazmaz.[^k1] Kurumun metinde nasıl
 düzenlendiğini kaydeder; uygulamada nasıl işlediği ayrı bir sorudur ve
@@ -189,22 +173,15 @@ Erken tarih, sözlü geleneğe ve bir güneş tutulması kaydına
 dayandırılır.[^k3] Geç tarih, arkeolojik bulgulara ve yerleşim
 düzenindeki değişimlere dayandırılır.
 
-Seçim, korpusun kaynak sıralamasına
-uygundur; erken tarih dışlanmaz, ikinci sırada anılır.[^k2]
-
 ## Tarih tartışmasının yapısı
 
-Tartışma, korpusun sözlü gelenek dosyasında tanımlanan ayrımın somut
-hâlidir.[^k1] Bir tarafta topluluğun kendi aktarımı, öteki tarafta
-maddi kanıt bulunur.
+Bir tarafta topluluğun kendi aktarımı, öteki tarafta maddi kanıt bulunur.
 
 İki kanıt türü farklı sorulara cevap verir.[^k3] Sözlü aktarım birliğin
 neden ve nasıl kurulduğunu anlatır; maddi kanıt yerleşim düzeninin ne
 zaman değiştiğini gösterir.
 
-Çelişki, ikisini aynı soruya cevap saymaktan doğar.[^k2] Korpus iki
-kanıtı ayrı ayrı kaydeder ve hangisinin hangi soruyu cevapladığını
-belirtir.
+Çelişki, ikisini aynı soruya cevap saymaktan doğar.[^k2]
 
 ## Sömürge dönemi ilişkileri
 
@@ -240,15 +217,9 @@ sürülmüştür.[^k1] İddia, yirminci yüzyılda geniş biçimde tartışıld�
 Karşı görüş, benzerliklerin yüzeysel olduğunu ve doğrudan aktarım
 zincirinin gösterilemediğini savunur.[^k3] Tartışma sürmektedir.
 
-Etki iddialarının sınanması, aktarım
-zincirinin belgelenmesini gerektirir ve bu belgeleme bu inceleme yazıldığında yapılmış
-değildir.[^k2]
-
 ## Etki iddialarının genel sorunu
 
-Tartışma, korpusun başka dosyalarında da karşılaştığı bir sorunu
-örnekler.[^k1] İki kurum arasındaki benzerlik, birinin ötekinden
-alındığını göstermez.
+İki kurum arasındaki benzerlik, birinin ötekinden alındığını göstermez.
 
 Benzerlik bağımsız olarak da ortaya çıkabilir.[^k3] Aynı soruna verilen
 cevaplar, aralarında temas olmadan da benzeşebilir.
@@ -262,17 +233,11 @@ Konfederasyon bugün de varlığını sürdürmektedir.[^k1] Konsey toplanmakta,
 kurucu metin geçerliliğini korumakta ve üye uluslar kendi yönetim
 organlarını işletmektedir.
 
-Bu, korpusun aktör dosyalarının çoğundan farklıdır.[^k3] Dosyaların
-büyük bölümü sona ermiş düzenleri işler.
+Dosyaların büyük bölümü sona ermiş düzenleri işler.
 
-Dosya güncel siyasi meseleleri işlemez.[^k2] Korpus yaşayan siyasi
-durumlar hakkında değerlendirme yapmaz ve dosya tarihsel kayıtla
-sınırlıdır.
+Dosya güncel siyasi meseleleri işlemez.[^k2]
 
 ## Kaynak durumu
-
-Bu incelemenin üç künyesinden ikisi birincil belgedir.[^k2] Bu, korpusun
-Amerika bölgesindeki dosyaları için olağan değildir.
 
 Birincil belgelerin ikisi de geç transkripsiyondur.[^k3] Metnin
 yüzyıllarca taşındığı ortam yazılı değildi ve bu kısıt künyede
@@ -283,8 +248,7 @@ onu ikincil yapmaz; aktarım zincirinin belirtilmesini gerektirir.[^k1]
 
 ## Kapsam dışı
 
-Üye ulusların ayrı ayrı tarihleri burada işlenmez.[^k1] Her biri ayrı bir
-dosya gerektirir ve bu inceleme yazıldığında korpusta bulunmuyorlardı.
+Üye ulusların ayrı ayrı tarihleri burada işlenmez.[^k1]
 
 Kurucu metnin madde madde içeriği aktarılmaz.[^k2] Metin künyede tam
 olarak erişilebilir durumdadır ve okur doğrudan ona bakabilir.
@@ -294,30 +258,60 @@ yalnızca birliğin yapısına ve metnin taşınma biçimine ilişkin olanı
 kaydeder; savaşların güzergâhı ve tarafların kayıpları ayrı bir çalışma
 gerektirir.
 
-## Kanıtın ve kapsamın sınırı
-Dosya, konfederasyonun yapısını bir model olarak önermez.[^k2] Yapının
-nasıl düzenlendiğini ve korpusun kendi kategorisini nasıl sınadığını
-kaydeder.
-
 Kuruluş tarihi belirlenmez.[^k1] İki kanıt türü farklı tarihler verir ve
 ikisi de kendi alanında geçerlidir.
 
 Etki tartışması sonuçlandırılmaz.[^k3] Aktarım zinciri belgelenmeden
 sonuç verilemez ve dosya bunu açıkça yazar.
 
-## Okumayı sürdürmek için
-Sözlü aktarımın kaynak değeri için
-[Sözlü tarih](/kavram/sozlu-tarih/) ve
-[Sözlü gelenek kaynak sayılır mı](/tartisma/sozlu-gelenek-kaynak-mi/)
-dosyaları okunmalıdır; bu inceleme o tartışmanın en somut örneğidir.[^k2]
-
 Kanıt türlerinin hangi soruya cevap verdiği için
 [Kanıt türü](/kavram/kanit-turu/), belgelerin nasıl sınanacağı için
 [Birincil kaynak](/kavram/birincil-kaynak/) dosyaları uygundur.[^k3]
 
-Yetkinin neye dayandığı için [Meşruiyet](/kavram/mesruiyet/) ve
-[Egemenlik](/kavram/egemenlik/) dosyaları okunabilir; bu inceleme ikisinin
-de olağan tanımını sınar.[^k1]
-
 Etki tartışmasının öteki tarafı için [ABD](/aktor/abd/) dosyası
 okunmalıdır.[^k2]
+
+## Merkezî zor aygıtı olmadan ortak karar
+
+Haudenosaunee Konfederasyonu ayrı ulusların iç özerkliğini korurken savaş, barış
+ve ortak ilişkiler için bir konsey düzeni kurdu.[^k1][^k2] Birlik, tek hükümdarın
+emriyle değil temsil, klan ilişkileri ve uzlaşma usulleriyle sürdü. Bu yapı
+“devlet olmadığı için düzensiz” diye sınıflandırılamaz; bağlayıcılığın kaynağı
+zor tekelinden farklıydı.
+
+Klan annelerinin lider seçimi ve görevden alma süreçlerindeki rolü, siyasal
+yetkinin yalnız erkek savaşçı veya konsey üyesinde toplanmadığını gösterir.[^k1]
+Temsil aynı zamanda modern bireysel oyla aynı değildir; kişi, klan, ulus ve konsey
+katmanları arasında kurulur. Karar usulünü bugünkü parlamento terimleriyle birebir
+çevirmek özgün sorumluluk ilişkilerini daraltabilir.
+
+## Wampum bir metin midir?
+
+Wampum kuşakları anlaşma ve anayasal ilkelerin hatırlanmasını sağlayan maddi
+işaretlerdir. Boncuk dizisi tek başına bütün cümleleri ses kaydı gibi içermez;
+yetkin anlatıcı, tören ve sözlü açıklamayla birlikte çalışır. Nesne, hafıza ve
+kurumsal aktarım aynı kaynak sisteminin parçalarıdır. Yazıya aktarılmış Büyük
+Barış Yasası bu geleneği erişilebilir kılar; aktarım tarihi ve sürümler arasındaki
+farklar açık tutulmalıdır.[^k2][^k3]
+
+Bu yöntem, sözlü geleneğin değişmez olduğu anlamına gelmez. Her anayasa gibi yeni
+koşullarda yorumlanır; kolonizasyon, nüfus kaybı ve misyoner baskısı aktarım
+zincirini etkileyebilir. Değişim, geleneğin sahte olduğunu değil, yaşayan kurumun
+yeni sorunlara cevap verdiğini de gösterebilir.
+
+## Antlaşma ve devam eden egemenlik
+
+Avrupalı sömürge devletleri ve ardından ABD, Haudenosaunee uluslarıyla antlaşma
+yaptığında onları siyasal muhatap olarak tanıdı; daha sonra toprak ve yetkiyi
+tek taraflı daraltan politikalar bu ilişkinin eşitsizliğini gösterdi.[^k1]
+Bir antlaşmanın imzası, tarafların egemenlik ve mülkiyeti aynı anlamda kullandığı
+veya şartların uygulandığı anlamına gelmez.
+
+Konfederasyonun bugün sürmesi onu yalnız geçmişte kalmış “kabile birliği” olarak
+okumayı yanlış kılar. Dil canlandırma, toprak davası, pasaport ve diplomatik
+iddialar tarihsel kurumların çağdaş siyaset içindeki biçimleridir. ABD
+Anayasası’na etkisi tartışılırken genel benzerlik yerine belgelenmiş temas,
+kavramın aktarım yolu ve iki düzen arasındaki farklar gösterilmelidir. En önemli
+ders, merkezi devlet modelinin siyasal düzen için tek ölçü olmamasıdır.[^k1][^k2]
+
+Süreklilik, kurumun değişmeden donması değil kendi ilkeleriyle yeniden karar üretebilmesidir.

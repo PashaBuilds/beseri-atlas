@@ -128,7 +128,7 @@ mekânsal dağılımı ayrı bir araştırma alanıdır; bölge bağımsız bir 
 merkezi sayılır.[^k1]
 
 **Afrika.** Mısır'da ekim kanıtı günümüzden yaklaşık 7.000 yıl öncesine
-uzanır, ama bu bir "yalancı şafak" olarak görünür: yerleşmeler sonradan terk
+uzanır, ama bu bir *yalancı şafak* olarak görünür: yerleşmeler sonradan terk
 edilmiş, kalıcı tarım 6.500 yıl öncesine, Tasi ve Badari kültürlerine ve Yakın
 Doğu'dan ürün ile hayvanların gelişine kadar gecikmiştir.[^k1] Etiyopya
 yaylalarında kahve, kat, ensete, noog, tef ve parmak darısı evcilleştirildi;
@@ -434,7 +434,7 @@ Aralık, ölçümün hassasiyetiyle ilgilidir.[^k1] Tek bir yıl vermek bu
 yöntemlerle mümkün değildir.
 
 Bir tarihleme yöntemi aralık
-veriyorsa, korpus da aralık verir.[^k4]
+veriyorsa, sonuç da tek bir yıl yerine aralık olarak aktarılır.[^k4]
 
 ## Dönemin bağlantıları
 Bu döneme bağlanan dosyalar üç öbekte toplanır.[^k1] Tarım devriminin
@@ -448,10 +448,10 @@ türünün tanımlanması ve bir nüfus tahmininin yükselmesi aynı dönemi
 ## Kanıtın ve kapsamın sınırı
 Dosya, dönemin bütün bölgelerini eşit ayrıntıda ele
 almaz.[^k1] Kazılmış bölgeler ayrıntılı, kazılmamışlar seyrek bilinir;
-bu, korpusun değil kazı tarihinin dağılımıdır.
+bu eşitsizlik anlatı tercihinden değil kazı tarihinin dağılımından doğar.
 
-Devrim tartışması burada karara bağlanmaz.[^k4] Korpusun ayrı bir
-tartışma dosyası bu soruyu ele alır.
+Devrim tartışması burada karara bağlanmaz; ilerleme ve maliyet yorumları
+ayrı tartışma incelemesinde karşılaştırılır.[^k4]
 
 Sayısal seriler burada yorumlanır, üretilmez.[^k2] Serilerin
 kaynakları ve yöntemleri bağlantılı veri incelemelerinde ayrı ayrı
@@ -653,6 +653,31 @@ değildir.
 
 Bir besinin evcilleştirilmesi tek başına
 yetmez; onu yenebilir kılan işleme tekniği de gerekir.[^k4]
+
+## Dönüşümün birlikte çalışan mekanizmaları
+
+Tarımın başlangıcını yalnızca “insanlar bitki yetiştirmeyi öğrendi” diye açıklamak,
+dönüşümün toplumsal tarafını görünmez kılar. Holosen iklimi ekim için daha istikrarlı
+bir pencere açtı; fakat aynı iklim kuşağındaki bütün topluluklar aynı zamanda tarıma
+geçmedi. Yerel bitki ve hayvan türleri, mevsimsel hareket düzenleri, nüfus yoğunluğu ve
+bilginin kuşaklar arasında aktarılması farklı yollar üretti.[^k1][^k4] Bu nedenle
+Bereketli Hilal, Çin, Yeni Gine ve Amerika'daki süreçler tek bir buluşun kopyaları
+değil, benzer sorunlara verilmiş bağımsız yanıtlardır.
+
+Yerleşiklik ise ekimden daha geniş bir sonuçlar zinciri doğurdu. Depolanabilir ürün,
+kıt mevsimlerde güvence sağlarken fazlanın korunması ve bölüşülmesi sorununu ortaya
+çıkardı. Aynı yerde daha çok insanın yaşaması nüfus artışını hızlandırdı; buna karşılık
+tekdüze beslenme, bulaşıcı hastalık ve emek yoğunluğu gibi yeni maliyetler yarattı.
+MÖ 10000 ile MÖ 3000 arasındaki yaklaşık on katlık küresel nüfus artışı, bu yeni
+üretim kapasitesinin ölçeğini gösterir; yaşamın herkes için daha sağlıklı veya daha
+eşit hâle geldiğini göstermez.[^k1][^k2] Dönemin asıl kırılması, tarımın tek başına
+ortaya çıkması değil; üretim, depolama, mülkiyet, nüfus ve otoritenin birbirini
+besleyen bir düzene dönüşmesidir.
+
+Arkeolojik kaydın tahıl, kemik, yapı ve mezar gibi farklı izleri birlikte gerektirmesi
+de bu nedenle önemlidir: tek bir buluntu *tarım toplumu*nu kanıtlamaz; üretim ile
+gündelik hayat arasındaki ilişkinin zaman içinde tekrar kurulması gerekir; sessiz
+kalan bölgeler ve korunmayan malzemeler de bu karşılaştırmanın parçasıdır.[^k1][^k4]
 
 ## Fikir dünyası
 

@@ -130,6 +130,15 @@ bugünkü anlamıyla ırkçılığa göre daha dar çerçeveli, kabilevî bir ka
 taşıdığını belirtir.[^k1] Kavramı modern milliyetçilikle özdeşleştirmek bu
 ayrımı silmek anlamına gelir.
 
+## Ayırt etme ölçütü
+
+Asabiyet yalnız akrabalık bağı veya “millî karakter” değildir. Kavram, ortak hareket
+etme kapasitesinin nasıl üretildiğini ve iktidar elde edildiğinde nasıl
+zayıflayabildiğini açıklayan ilişkisel bir mekanizmadır.[^k1] Bir toplulukta güçlü
+dayanışma görülmesi, İbn Haldûn'un bütün döngüsünün gerçekleştiğini kanıtlamaz;
+dayanışmanın siyasal üstünlüğe, hanedanlaşmaya ve yeni bir çözülmeye nasıl bağlandığı
+ayrıca gösterilmelidir.[^k2]
+
 ## Kaynak metin
 
 Bu kavramın formüle edildiği eser İbn Haldûn, *Mukaddime*'dir; dosya o eserin kamu malı

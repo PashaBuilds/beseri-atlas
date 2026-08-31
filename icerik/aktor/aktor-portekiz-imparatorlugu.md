@@ -59,7 +59,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne tür bir imparatorluk
 
 Portekiz İmparatorluğu, geniş toprak parçaları yönetmek üzere
@@ -69,8 +68,7 @@ liman noktaları dizisiydi.
 Bu, dönemin diğer imparatorluklarından ayrı bir biçimdir.[^k3] Kara
 imparatorlukları alan tutar; bu düzen geçit tutar.
 
-Bu incelemenin konusu seferlerin sırası değildir.[^k4] Bu biçimin nasıl
-işlediği ve neyi ölçtüğüdür.
+Bu biçimin nasıl işlediği ve neyi ölçtüğüdür.
 
 ## Başlangıç
 
@@ -104,9 +102,6 @@ imzalandı.[^k2] Anlaşma, okyanusta bir boylam çizgisi belirledi ve
 
 Çizgiyi çizenler o toprakların hiçbirinde yaşamıyordu.[^k1] Anlaşmanın
 metni, bölünen yerlerde yaşayanlardan söz etmez.
-
-Orada yaşamayanlarca çizilen bölüşüm
-çizgileri, korpusta kıtadan kıtaya tekrarlanır.[^k3]
 
 ## Ağ tipi hâkimiyet
 
@@ -242,8 +237,7 @@ kullanması, biçimin ideolojiden değil üründen belirlendiğini gösterir.[^k
 Plantasyon ve maden düzeni yoğun emek istedi.[^k1] Bu emek büyük ölçüde
 kıtalar arası zorla taşımayla sağlandı.
 
-Taşımanın hacmi ve süresi, korpusun ayrı bir dosyasında ele
-alınır.[^k3] Burada kaydedilen, iki düzen arasındaki bağdır.
+Burada kaydedilen, iki düzen arasındaki bağdır.
 
 Ağ tipi hâkimiyetin sağladığı deniz yolu
 denetimi, aynı zamanda bu taşımanın altyapısıdır.[^k4]
@@ -336,3 +330,22 @@ dosyaları okunabilir.[^k4]
 Emek düzeni için [Atlantik köle ticareti](/olay/atlantik-kole-ticareti/)
 ve [Zorunlu emek düzeni](/kavram/zorunlu-emek-duzeni/) dosyaları
 uygundur.[^k3]
+
+## Ağ hâkimiyetinin sınırı
+
+Kıyı kaleleri, limanlar ve deniz geçitleri Portekiz’e bütün iç bölgeleri yönetmeden
+ticaret akışına müdahale etme imkânı verdi.[^k1][^k3] Bu ağ, gemi, top, harita,
+kredi ve yerel aracılar birlikte çalıştığında güçlüydü. Ancak limanın ele
+geçirilmesi çevresindeki üretimi veya tüccarların bütün rotalarını otomatik olarak
+denetlemek demek değildi; ticaret rakip limana ve kaçak kanallara kayabilirdi.
+
+Tordesillas metni Avrupa hükümdarlarının dünyayı bölme iddiasını kaydeder,
+bölgedeki toplumların bu yetkiyi kabul ettiğini göstermez.[^k2] Malaka ve Hint
+Okyanusu örneklerinde yerel devlet, Müslüman ticaret diasporası ve başka Avrupa
+güçleri sürekli karşı hamle üretti.[^k4] İmparatorluğun haritası bu nedenle tek
+renkli toprak alanından çok, farklı yoğunlukta denetlenen düğüm ve güzergâhlar
+olarak okunmalıdır.
+
+Ağdaki her düğüm aynı işleve sahip değildi: kimi askerî ikmal, kimi gümrük,
+kimi yerleşim ve üretim merkeziydi. Kalıcılık, bu işlevlerin yerel ortaklarla
+birlikte ne ölçüde sürdürülebildiğine bağlıydı.

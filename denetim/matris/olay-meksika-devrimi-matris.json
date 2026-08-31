@@ -898,10 +898,52 @@
       ],
       "guven": "yuksek",
       "inceleme": "Kaynak: Zapata'nin adi ve goruntusu 1994 Chiapas ayaklanmasinda cagrildi"
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "Ölümün biçimini kaynak kesinleştirmez: bunun bir suikast olabileceğini söyler, ama intihar ihtimalini de kaydeder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k9 iki olasılığı birlikte verir ve ölüm biçimini kesinleştirmez."
+    },
+    {
+      "iddia_id": "ek002",
+      "cumle": "Kaynağın deyişiyle devrimin son başarılı darbesi buydu ve iktidarı kuzeyli generallere bıraktı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Son başarılı darbe nitelemesi ile kuzeyli generallerin iktidarı k9'da doğrudan aktarılır."
+    },
+    {
+      "iddia_id": "ek003",
+      "cumle": "Ordunun partiye alınması tartışmalıydı ve Cárdenas'ın halefi bu sektörü kaldırdı; parti 1946'da Kurumsal Devrimci Parti adını aldı ve devrimi bir devlet anlatısına çevirdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Askerî sektörün tartışmalı oluşu ve kaldırılması ile 1946 ad değişikliği k9'da aynı kurumsal süreklilik içinde verilir."
     }
   ],
   "sayaclar": {
-    "dogrudan": 54,
+    "dogrudan": 57,
     "kismi": 7,
     "desteksiz": 0,
     "olculemez": 0

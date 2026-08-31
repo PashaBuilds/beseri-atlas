@@ -51,12 +51,10 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Nerede durduğu
 
-Gucerât Sultanlığı, Hint Okyanusu'nun kuzeybatı köşesinde, körfezin iki
-yakasına yayılan bir bölgede kurulmuştur.[^k1][^k3] Korpusun bölge şemasında
-Güney Asya ile İslam dünyasının kesiştiği yerde durur.
+Gucerât Sultanlığı, Hint Okyanusu'nun kuzeybatı köşesinde, körfezin iki yakasına yayılan
+bir bölgede kurulmuştur.[^k1][^k3]
 
 Bölge, okyanus ağının kuzey ucundadır ve batıya giden güzergâhın ilk
 büyük durağıdır.[^k1] Bu konum, dosyanın ekonomik mantığını belirler.
@@ -88,9 +86,7 @@ Bu düzenin mantığı basittir: tüccar başka bir limana gidebilir.[^k1] Bir
 liman devletinin tüccar üzerindeki yaptırım gücü, o tüccarın alternatif
 limanlara uzaklığıyla sınırlıdır.
 
-Sonuç, verginin bir zorlama değil bir hizmet bedeli gibi
-kurulmasıdır.[^k3] Korpusun [Vergi](/kavram/vergi/) dosyası bu ayrımı kavram
-düzeyinde ele alır.
+Sonuç, verginin bir zorlama değil bir hizmet bedeli gibi kurulmasıdır.[^k3]
 
 ## İç bölgeyle bağ
 
@@ -98,9 +94,8 @@ Limanlardan çıkan malların büyük bölümü iç bölgede üretiliyordu.[^k1]
 Dokuma, boya ve işlenmiş ürünler, kıyıdan içeriye uzanan bir üretim
 kuşağından geliyordu.
 
-Bu, sultanlığı korpusun öteki liman devletlerinden ayırır.[^k2] Aracı liman
-devletleri malı başkasından alır; burada liman, kendi hinterlandının
-ürününü satıyordu.
+Aracı liman devletleri malı başkasından alır; burada liman, kendi hinterlandının ürününü
+satıyordu.
 
 İç bölge bağının siyasi sonucu, sultanlığın kıyıyla yetinememesidir.[^k2]
 Üretim kuşağını denetlemek, iç bölgedeki komşularla sürekli bir rekabet
@@ -151,9 +146,8 @@ Kaynaklarda bölgede gelişmiş bir kredi ve havale düzeni bulunduğu
 kaydedilir.[^k1][^k3] Uzak mesafeli ticaret, nakit taşımadan ödeme yapmayı
 mümkün kılan araçlar gerektirir.
 
-Bu araçların varlığı, korpusun modern öncesi ekonomiler hakkındaki
-kaydını genişletir.[^k3] Kredi, banka kurumu olmadan da işleyebilir; tüccar
-toplulukları içindeki güven ağı aynı işi görür.
+Kredi, banka kurumu olmadan da işleyebilir; tüccar toplulukları içindeki güven ağı aynı
+işi görür.
 
 Düzenin sınırı da vardır.[^k1] Güven ağına dayanan kredi, ağın dışındaki
 kişilere açılmaz; bu, sistemin hem gücü hem sınırıdır.
@@ -176,18 +170,15 @@ Sultanlığın donanma kurmamış olması, sonun biçimini doğrudan
 belirledi.[^k1] Deniz gücüne sahip bir rakip ortaya çıktığında karşılık
 verecek araç yoktu.
 
-Karşılaştırma korpusun içinde mevcuttur.[^k3] Aynı yüzyılda başka bir
-sultanlık kendi donanmasını kurmuş ve dört yüzyıl direnmiştir; iki tercih
-iki farklı sonuç üretmiştir.
+Aynı yüzyılda başka bir sultanlık kendi donanmasını kurmuş ve dört yüzyıl direnmiştir;
+iki tercih iki farklı sonuç üretmiştir.[^k1]
 
 Donanma kurmanın maliyeti de
 kaydedilmelidir; kurmayan düzen, o maliyeti yüzyıllarca ödememiştir.[^k1]
 
 ## Envanter kaydı
 
-Bu incelemenin birincil kaynağı, sultanlığın sona ermesinden sonra tutulmuş bir
-eyalet envanteridir.[^k3] Envanter, bölgenin gelir kalemlerini ve idari
-birimlerini verir.
+Envanter, bölgenin gelir kalemlerini ve idari birimlerini verir.
 
 Kaydın zamanlaması dosya için elverişlidir.[^k3] Envanter, sultanlıktan
 devralınan yapıyı kaydeder; yeni yönetim henüz kendi düzenini kurmamıştır.
@@ -198,17 +189,12 @@ olandır.
 
 ## Kaynak durumu
 
-Bu inceleme üç kaynağa dayanır ve biri birincildir.[^k3] Birincil kaynak
-sultanlığın kendi dönemine ait değildir.
+Birincil kaynak sultanlığın kendi dönemine ait değildir.
 
-Sultanlığın kendi saray kayıtlarının ve liman defterlerinin
-doğrulanabilir, tam metin bir baskısı bu inceleme yazıldığında
-bulunamamıştır.[^k1] Bu bir kısıttır ve künyede gizlenmez.
+Bu bir kısıttır ve künyede gizlenmez.
 
-Bu durum korpusun başka bölge dosyalarında da ölçülen bir eğilimin
-devamıdır.[^k2] Bir bölge hakkındaki kayıtların bolluğu, çoğu zaman o
-bölgenin kendi kayıt geleneğini değil onu yöneten sonraki gücün
-bürokrasisini yansıtır.
+Bir bölge hakkındaki kayıtların bolluğu, çoğu zaman o bölgenin kendi kayıt geleneğini
+değil onu yöneten sonraki gücün bürokrasisini yansıtır.
 
 ## Ölçek sorunu
 
@@ -223,29 +209,16 @@ edilir.
 Değerlendirmeler kayıtların ortak
 vurgusuna dayanır.[^k3]
 
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun Güney Asya aktör katmanındaki sekizinci dosyadır ve
-bölgenin batı kıyısını ilk kez ele alır.[^k1] Doğu kıyısı için ayrı bir
-dosya bulunmaktadır.
-
 İki kıyı dosyasının birlikte okunması, Güney Asya'nın okyanus ağına iki
 ayrı kapıdan bağlandığını gösterir.[^k3] Kuzeydeki imparatorluk anlatısı bu
 iki kapıyı görünmez kılar.
 
-Bir bölgeyi yalnızca en büyük siyasi biriminden okumak, korpusun kaçındığı
-anlatım biçimidir.[^k1] Çevre dosyaları, merkezin başarısızlıkları olarak
-değil kendi başlarına kaydedilmelidir.
-
-## Açıkta kalan sorular
-Sultanlığın hükümdar listesi ve hanedan tarihi burada verilmez.[^k1] Korpusun
-aktör dosyaları bir düzenin nasıl işlediğini anlatır.
+Çevre dosyaları, merkezin başarısızlıkları olarak değil kendi başlarına kaydedilmelidir.
 
 Bölgedeki mimari ve sanat üretimi de kapsam dışıdır.[^k2] Ayrı bir dosya
 gerektirir.
 
-Tüccar topluluklarının tek tek tarihi ve göç güzergâhları burada
-işlenmez.[^k3] Bunun için korpusun
-[Ticaret diasporası](/kavram/ticaret-diasporasi/) dosyası okunmalıdır.
+Tüccar topluluklarının tek tek tarihi ve göç güzergâhları burada işlenmez.[^k3]
 
 ## Kıyı ile iç bölgenin ayrı mantığı
 
@@ -253,9 +226,7 @@ Sultanlığın kıyı ve iç bölge kesimleri farklı mantıklarla
 yönetiliyordu.[^k1][^k2] Kıyıda tüccar özerkliği ve düşük müdahale, iç
 bölgede toprak vergisi ve doğrudan denetim esastı.
 
-Aynı devletin iki farklı yönetim usulü uygulaması, korpusta seyrek
-kaydedilen bir durumdur.[^k3] Çoğu düzen, tek bir usulü bütün topraklarına
-yaymaya çalışır.
+Çoğu düzen, tek bir usulü bütün topraklarına yaymaya çalışır.
 
 İkili usulün gerekçesi tabana bağlıdır.[^k1] Kaçabilen bir vergi mükellefine
 uygulanan usul ile toprağa bağlı bir mükellefe uygulanan usul aynı olamaz;
@@ -267,9 +238,8 @@ Limanlardaki tüccar topluluklarının varlığı, bölgenin dinî ve entelektü
 hayatını da biçimlendirdi.[^k1][^k3] Uzak bölgelerden gelen metinler ve
 âlimler, ticaret gemileriyle taşınıyordu.
 
-Bu, korpusun Orta Asya ve Doğu Afrika dosyalarında da kaydettiği bağın
-tekrarıdır.[^k2] Ticaret ağı ile metin ağı büyük ölçüde örtüşür ve ikincisi
-birincisinin altyapısını kullanır.
+Ticaret ağı ile metin ağı büyük ölçüde örtüşür ve ikincisi birincisinin altyapısını
+kullanır.
 
 Bağın yönü tek taraflı değildir.[^k1] Bölgede üretilen hukuk ve ticaret
 usulü metinleri de aynı gemilerle uzak limanlara taşınıyordu; alışveriş
@@ -285,15 +255,8 @@ Bileşimin kendisi bir yönetim tercihidir.[^k1] Yalnızca gümrüğe dayanan bi
 düzen, ticaret daraldığında çöker; yalnızca toprağa dayanan bir düzen,
 kuraklıkta çöker.
 
-Bir düzenin dayanıklılığı, gelir
-kalemlerinin sayısı ve birbirinden bağımsızlığı üzerinden değerlendirilebilir.[^k3] Aynı
-ölçüt, korpusun öteki liman dosyalarına da uygulanabilir ve karşılaştırmayı sayısal bir
-zemine oturtur.[^k1]
-
-## Okumayı sürdürmek için
-İç bölgedeki rakip sultanlık için bu incelemenin ikinci künyesindeki
-ansiklopedi maddesi, bölgenin doğu kıyısındaki karşılığı için
-[Bengal Sultanlığı](/aktor/bengal-sultanligi/) dosyası okunmalıdır.[^k2]
+Bir düzenin dayanıklılığı, gelir kalemlerinin sayısı ve birbirinden bağımsızlığı
+üzerinden değerlendirilebilir.[^k3]
 
 Bölgeyi ilhak eden imparatorluk için
 [Babür İmparatorluğu](/aktor/babur-imparatorlugu/), envanteri tutan kaynak
@@ -306,3 +269,41 @@ dosyaları okunabilir.[^k1]
 
 Aynı yılları bütün bölgeler üzerinden okumak için [Dönem 08](/donem/08/)
 dosyası kullanılmalıdır.
+
+## Deniz gücü yalnız donanma değildir
+
+Gucerât Sultanlığı Hint Okyanusu ticaretinden yararlanmak için bütün denizi
+askerî gemilerle denetlemek zorunda değildi. Liman güvenliği, düşük işlem
+maliyeti, gümrük düzeni ve tüccar topluluklarının kendi ağlarını sürdürebilmesi
+deniz erişimini ekonomik güce çevirdi.[^k1] Devletin kapasitesi, her gemiye emir
+vermekten çok limanı vazgeçilmez ve güvenilir kılmaktı.
+
+Müslüman, Hindu, Cayn ve başka ticaret çevreleri aynı pazarda farklı hukuk,
+kredi ve akrabalık ağları kullanabiliyordu. Bu çoğulluk yalnız hoşgörü fikriyle
+değil, devletin gelir ihtiyacı ve tüccarın hareket kabiliyetiyle açıklanmalıdır.
+Aşırı vergi veya keyfî el koyma tüccarı rakip limana yöneltebilirdi. Pazarlık,
+merkezin zayıflığı değil hareketli sermayeyi elde tutmanın yöntemiydi.[^k1]
+
+## İç bölge ile liman arasındaki bağ
+
+Dokuma, boya, tahıl ve zanaat ürünü kıyıda kendiliğinden oluşmuyordu. İç bölgede
+üretim, kervan ve kredi ağları limanlarla bağlanıyor; ithal at, metal ve lüks
+mallar ters yönde hareket ediyordu.[^k1][^k2] Deniz ticaretinin kazancı çiftçi,
+zanaatkâr, aracı ve saray arasında eşit dağılmıyordu. Liman büyüklüğünü bütün
+toplumun refahı saymamak gerekir.
+
+Portekizlilerin silahlı deniz ağı bu modele yeni maliyet getirdi. Gucerâtlı
+tüccarlar rota, ortak ve koruma yöntemlerini değiştirerek faaliyetini sürdürdü;
+tek bir deniz yenilgisi ticaret ağını ortadan kaldırmadı. Askerî filo ile ticari
+dayanıklılık ayrı kapasitelerdir.
+
+Babür fethi sultanlığın egemenliğini sonlandırdı, Gucerât limanlarının ekonomik
+rolünü bitirmedi. *Ain-i Akbari* sonraki imparatorluk düzeninin bölgeyi nasıl
+vergilendirip sınıflandırdığını gösterir; bağımsız sultanlık dönemine doğrudan
+geri yansıtılmamalıdır.[^k3] Gucerât örneği, devletin deniz ticaretinden güç
+almasının toprak fethetmek veya okyanusta tekel kurmak dışında da mümkün olduğunu
+gösterir.
+
+Bu modelde tüccarın güveni ölçülebilir bir siyasi kaynaktır. Gemi ve mal akışının
+kriz döneminde hangi limana yöneldiği, resmî ayrıcalıktan daha doğrudan bir kurum
+performansı göstergesi sunar. Devlet geliri de bu gündelik tercihler üzerinde yükselir.

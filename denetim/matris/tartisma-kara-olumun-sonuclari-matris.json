@@ -1,7 +1,7 @@
 {
   "id": "tartisma-kara-olumun-sonuclari",
-  "govde_hash": "02bb0986df7c",
-  "commit": "9181554",
+  "govde_hash": "827b4b367108",
+  "commit": "889239af",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -503,7 +503,7 @@
     },
     {
       "iddia_id": "i32",
-      "cumle": "Agrarian Class Structure and Economic Development in Pre-Industrial Europe başlıklı makale ve tetiklediği cevaplar, T. H. Aston ile C. H. E. Philpin'in derlemesiyle 1985'te Cambridge University Press'ten The Brenner Debate adıyla kitaplaştı; tartışma bugün o adla anılır.",
+      "cumle": "Agrarian Class Structure and Economic Development in Pre-Industrial Europe başlıklı makale ve tetiklediği cevaplar, T. H. Aston ile C. H. E. Philpin'in derlemesiyle 1985'te Cambridge University Press'ten The Brenner Debate adıyla kitaplaştı; tartışma bugün o adla anılır ve derlemenin tam künyesi iktisadi özetin okuma listesinde de durur.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -798,6 +798,16 @@
     {
       "zaman": "2026-08-29",
       "gerekce": "8 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-30",
+      "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "02bb0986df7c",
+      "yeni_hash": "827b4b367108",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
     }
   ]
 }

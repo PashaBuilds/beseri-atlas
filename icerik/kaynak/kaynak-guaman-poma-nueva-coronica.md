@@ -65,7 +65,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Nueva Corónica, fethedilen tarafın kendi kalemiyle yazıp fetheden devletin
@@ -79,8 +78,6 @@ uygulama uygulama suçlar.[^k1][^k2]
 Yazarın suçlaması belirli bir yere oturur. Kötü yönetimin kaynağı inanç
 farkı değil, görevlilerin uygulamalarıdır;[^k2] metin bu yüzden kralı
 karşısına almaz, ona bir düzeltme önerisi sunar.
-
-## Neden bu inceleme önemli
 
 Amerika kıtasının fetih dönemi hakkında bilinenlerin büyük bölümü fetheden
 tarafın kayıtlarından gelir.[^k3] Bu kayıtlar sefer günlükleri, resmî
@@ -100,9 +97,8 @@ Metin dört yüz kadar çizimle birlikte gider ve çizimler süsleme
 değildir.[^k1][^k2] Yazının söyleyemediğini gösterirler: mekânın düzeni,
 kimin kimin üstünde durduğu, hangi aletin kimin elinde olduğu.
 
-Bu, korpusun kaynak dosyalarında seyrek karşılaşılan bir durumdur. Bir
-metnin kanıt katmanı yalnızca cümlelerinden ibaret olmayabilir;[^k1] görsel
-düzen de bir iddia taşır ve ayrıca okunması gerekir.
+Bir metnin kanıt katmanı yalnızca cümlelerinden ibaret olmayabilir;[^k1] görsel düzen de
+bir iddia taşır ve ayrıca okunması gerekir.
 
 Metne yapılacak atıflarda yalnızca sayfa değil,
 sayfadaki çizimin de kastedilip kastedilmediği belirtilmelidir.[^k2]
@@ -113,9 +109,8 @@ Metnin krala ulaşıp ulaşmadığı bilinmez ve elyazması yüzyıllarca
 kayıptı.[^k3] Bir kütüphane koleksiyonunda bulunması yirminci yüzyılın
 başında gerçekleşti.
 
-Bu durumun korpus açısından iki sonucu vardır. Metin, yazıldığı dönemin siyasi
-tartışmasına katılmamıştır; dolayısıyla dönemin gidişatı üzerinde bir
-etkisi olduğu ileri sürülemez.[^k3]
+Metin, yazıldığı dönemin siyasi tartışmasına katılmamıştır; dolayısıyla dönemin gidişatı
+üzerinde bir etkisi olduğu ileri sürülemez.[^k3]
 
 İkinci sonuç terstir. Tam da ulaşmadığı için metin, sonradan yumuşatılmamış
 ve bir yayın süreci içinde düzeltilmemiştir;[^k1][^k2] yazıldığı hâliyle
@@ -123,13 +118,9 @@ durur. Kayıp olması, kaydı bozulmaktan korumuştur.
 
 ## Kapsam dışı
 
-Bu inceleme metnin ne olduğunu ve korpusta ne işe yaradığını kaydeder; bölüm
-bölüm içeriğini vermez.[^k1] Metnin kendisi kaynakta erişilebilir
-durumdadır.
+Metnin kendisi kaynakta erişilebilir durumdadır.
 
-Yazarın hayatı, soy iddiası ve bu iddianın doğruluğu burada
-işlenmez.[^k3] Metnin dil kullanımı ve iki dilli yapısı da ayrı bir dosya
-gerektirir; bu inceleme yazıldığında korpusta bulunmuyordu.
+Yazarın hayatı, soy iddiası ve bu iddianın doğruluğu burada işlenmez.[^k3]
 
 Metnin verdiği yönetim bilgilerinin başka kaynaklarla karşılaştırılması da
 kapsam dışıdır.[^k2] Böyle bir karşılaştırma, kıtanın kaynak katmanı

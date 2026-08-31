@@ -61,7 +61,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Hîve Hanlığı, on altıncı yüzyıl başında bir nehrin aşağı havzasında
@@ -72,8 +71,7 @@ Hanlığın yerleşik nüfusu, nehrin suladığı vaha ile sınırlıydı.[^k2]
 Vahanın dışı çöl ve otlaktı; yerleşik tarım bu şeridin dışına
 çıkamıyordu ve hanlığın bütün ekonomik ağırlığı orada toplanmıştı.
 
-Bu incelemenin asıl konusu bu kısıttır.[^k4] Hanlığın haritadaki görüntüsü
-ile gerçek büyüklüğü aynı şey değildir.
+Hanlığın haritadaki görüntüsü ile gerçek büyüklüğü aynı şey değildir.
 
 ## Haritanın yanılttığı yer
 
@@ -150,8 +148,7 @@ konusu genellikle aradaki verimli şeritlerdi.
 İki devlet birleşmedi.[^k3] Aradaki çöl, sürekli bir askerî varlık
 bulundurmayı maliyetli kılıyordu.
 
-Coğrafi kısıt, siyasi ayrılığı sürdüren etkendir.[^k2] Korpus bunu bir
-zorunluluk değil bir maliyet farkı olarak yazar.
+Coğrafi kısıt, siyasi ayrılığı sürdüren etkendir.[^k2]
 
 ## Göçebe nüfusla ilişki
 
@@ -198,9 +195,7 @@ himayesine girdi.[^k4] Hanedan yerinde kaldı ve iç yönetim sürdürüldü.
 Dış ilişkiler ve savunma devredildi.[^k1] Nehrin sağ kıyısındaki
 topraklar doğrudan yönetime bağlandı.
 
-Düzen, komşu hanlıkta kurulan düzenle aynı yapıdadır.[^k3] Korpus iki
-örneği birlikte kaydeder çünkü aynı dönemde aynı taraf tarafından
-kurulmuşlardır.
+Düzen, komşu hanlıkta kurulan düzenle aynı yapıdadır.[^k3]
 
 ## Sonun biçimi
 
@@ -209,9 +204,6 @@ bütünüyle değişmesiyle oldu.
 
 Yerine kurulan yapı farklı bir devlet biçimine dayanıyordu.[^k1]
 Hanedan düzeni kaldırıldı.
-
-Bu inceleme o dönemi kapsamaz.[^k2] Sonrası ayrı bir dosya gerektirir ve
-bu inceleme yazıldığında korpusta bulunmuyordu.
 
 ## Öncesi: aynı bölgenin eski devleti
 
@@ -241,8 +233,7 @@ Hanlığın nüfusu için güvenilir sayım yoktur.[^k4] Bilinenler vergi
 kayıtlarından ve on dokuzuncu yüzyıl gözlemcilerinin tahminlerinden
 gelir.
 
-Tahminler geniş aralıklar verir.[^k1] Korpus sayı vermek yerine
-yöntemin ne olduğunu yazar.
+Tahminler geniş aralıklar verir.[^k1]
 
 Sorun, ayrı bir tartışma incelemesinda ele aldığı genel bir
 sorundur.[^k3] Modern öncesi nüfusların nasıl sayılacağı, ölçüt seçimine
@@ -281,9 +272,7 @@ pazara ve çevre bölgelere yönelikti.
 Uzak pazarlara giden ürün miktarı sınırlıydı.[^k4] Bu, hanlığın
 ekonomisini büyük ölçüde iç pazara bağlıyordu.
 
-İç pazara bağlı bir ekonomi, dış hatlardaki değişimlerden daha az
-etkilenir.[^k1] Korpus bunu bir üstünlük değil, farklı bir kırılganlık
-dağılımı olarak yazar.
+İç pazara bağlı bir ekonomi, dış hatlardaki değişimlerden daha az etkilenir.[^k1]
 
 ## Yönetim aygıtı
 
@@ -298,11 +287,9 @@ aygıtın maliyeti, toplanabilecek ek gelirden yüksek olabilir.
 
 ## Kaynak durumu
 
-Bu incelemenin dört künyesinin üçü ansiklopedi maddesidir.[^k1] Birincil
-kaynak künyelenememiştir.
+Birincil kaynak künyelenememiştir.
 
-Dönemin Çağatayca vakayinameleri mevcuttur.[^k2] Doğrulanabilir
-çevrimiçi baskıları bu inceleme yazıldığında bulunamamıştır.
+Dönemin Çağatayca vakayinameleri mevcuttur.[^k2]
 
 Eksik borç defterine yazılmıştır.[^k3] Dosya, birincil kaynağı olmayan
 makaleler grubundadır.
@@ -316,8 +303,7 @@ Komşu hanlıklarla yapılan seferlerin ayrıntısı kapsam dışıdır.[^k3]
 Dosya yalnızca coğrafi kısıta ve onun siyasi sonuçlarına ilişkin olanı
 kaydeder.
 
-Hanlığın mimari mirası ayrı bir çalışma gerektirir.[^k2] Bu inceleme
-yazıldığında korpusta bulunmuyordu. Vahanın surlu iç şehri, dönemin
+Hanlığın mimari mirası ayrı bir çalışma gerektirir.[^k2] Vahanın surlu iç şehri, dönemin
 yapı geleneğinin en bütünlüklü örneklerinden biridir.
 
 ## Kanıtın ve kapsamın sınırı
@@ -327,10 +313,7 @@ Coğrafya bir maliyet dağılımı kurar; kararları insanlar verir.
 Yüzölçümü eleştirisi bir ölçüm önerisi de değildir.[^k2] Doğru ölçütün
 ne olduğu, sorulan soruya göre değişir.
 
-Himaye düzeninin hukuki niteliği tartışılmaz.[^k1] Dosya olayların
-sırasını kaydeder; himayenin hangi koşullarda kabul edildiği sorusu,
-korpusun başka dosyalarında kurulan soruyla aynı yapıdadır ve burada
-cevaplanmamıştır.
+Himaye düzeninin hukuki niteliği tartışılmaz.[^k1]
 
 ## Okumayı sürdürmek için
 Komşu ve rakip devlet için [Buhara Hanlığı](/aktor/buhara-hanligi/),
@@ -350,3 +333,28 @@ dosyaları okunabilir.[^k4]
 Bozkır düzenlerinin yerleşik bölgelerle ilişkisi için
 [Bozkır imparatorluğu](/kavram/bozkir-imparatorlugu/) dosyası
 okunmalıdır.[^k3]
+
+## Vaha devletinin gerçek coğrafyası
+
+Hîve’nin haritada geniş çöl alanlarıyla gösterilmesi, nüfus ve üretimin aynı
+ölçüde yayıldığı anlamına gelmez. Siyasal hayat Amuderya’nın suladığı Harezm
+vahası, kanallar, kentler ve kervan yolları çevresinde yoğunlaşıyordu.[^k1][^k2]
+Su yatağının değişmesi veya kanal bakımının aksaması vergi, yerleşim ve askerî
+kapasiteyi doğrudan etkileyebilirdi.
+
+Hanlık bozkır grupları ile yerleşik çiftçi ve kentlileri aynı düzen içinde
+yönetiyordu. Hanedan meşruiyeti, yerel seçkinler, dinî kurumlar ve kabile
+bağlantıları arasında pazarlık gerektirdi.[^k1][^k3] Rus himayesi sonrasında
+haritadaki hanlık adı sürse de dış politika ve karar alanı daraldı.[^k4] Bu nedenle
+varlık tarihi yalnız kuruluş ve kaldırılma yıllarıyla değil, egemenliğin hangi
+işlevlerde fiilen korunduğuyla okunmalıdır.
+
+Pazar, sulama, vergi ve dış temsil için ayrı zaman çizgileri kurmak, tek bir
+“Rus egemenliği başladı” tarihinin örttüğü dereceli dönüşümü görünür kılar.[^k1]
+
+Yerel mahkeme ve hanedan töreni sürerken dış kararın daralması, biçimsel
+devamlılıkla siyasal bağımsızlığın farklı ölçüler olduğunu gösterir.
+
+Her kurum için bağımlılığın tarihi ayrı kurulmalıdır.
+
+Tek tarih yeterli değildir.

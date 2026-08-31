@@ -39,13 +39,12 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Kaynak ilk bölümünü kavramı önerenlerin adıyla açar ve ikinci bölümünü kavrama
 dair güncel görüşlere ayırır.[^k1]
 
 ## Kavram, önerenlerinin adıyla anılır
 
-::tartismali[Bir kavramın ansiklopedi maddesinin ilk iki bölümü, kavramı kimin önerdiği ve bugün ne düşünüldüğüdür. Bu, kavramın yerleşik bir tanım değil bir öneri olduğunu gösterir. Korpus kavramı bu çekinceyle kullanır.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+::tartismali[Bir kavramın ansiklopedi maddesinin ilk iki bölümü, kavramı kimin önerdiği ve bugün ne düşünüldüğüdür. Bu, kavramın yerleşik bir tanım değil bir öneri olduğunu gösterir.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Kavram tartışmalarının nasıl taşınacağı
 [Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
@@ -57,26 +56,17 @@ Kaynak tarih bölümünü bölgelere ayırır: Müslüman dünyasının barut im
 (Osmanlı, Safevi ve Babür), Doğu Asya'nınkiler (Çin, Japonya ve Kore) ve
 Güneydoğu Asya'nınkiler.[^k1]
 
-Bir kavramın üç ayrı bölgeye uygulanması,[^k1] korpusun bu incelemeyi neden üç bölge
-etiketiyle tuttuğunun dayanağıdır; kapsanan devletlerden ikisi
-[Osmanlı İmparatorluğu](/aktor/osmanli-imparatorlugu/) ve
-[Safevi Devleti](/aktor/safevi-devleti/) dosyalarında ele alınıyor.
-
 ## Yakın bir kavram
 
 Yakın bir kavram için tutulan kayıt, ordu büyüklüğü sorusunda idari ve anlatı
 kaynaklarını ayrı ayrı işler.[^k2] O kavram
 [Askerî devrim](/kavram/askeri-devrim/) dosyasında ele alınıyor.
 
-Korpus iki kavramı birbirinin yerine kullanmaz; kullanılan kaynak bölümlerinde
-böyle bir eşleme belirtilmemiştir.[^k1][^k2]
-
 ## Dönemin savaş ilkeleri yazarı
 
 Dönemin savaş ilkeleri yazarı için tutulan kayıt, katkı alanları arasında savaş
 ilkelerini sayar.[^k3] O yazar
 [Machiavelli](/dusunur/machiavelli/) dosyasında ele alınıyor.
-
 
 ## Ortak yan teknoloji değil
 
@@ -129,7 +119,6 @@ sağlanmış.
 Üçü birlikte bakılır.[^k3] Yalnızca ateşli silah kullanmak bu kavramı
 gerektirmez.
 
-
 ## Üç düzenin farkları
 
 Kavram üç düzeni bir araya getirir ama aralarındaki farklar
@@ -165,7 +154,6 @@ düzeni satın alınamıyordu.[^k2] Fark buradan açıldı.
 Bir teknolojiye erişmek ile onu üretebilmek
 arasındaki fark, uzun vadede belirleyicidir.[^k3]
 
-
 ## Nasıl kullanılır?
 Bir düzen bir ölçütte karşılık bulup
 diğerinde bulmayabilir.[^k1]
@@ -173,7 +161,6 @@ diğerinde bulmayabilir.[^k1]
 Kavram, üç düzeni tek bir kategoriye kapatmak için değil
 karşılaştırmak için kullanılır.[^k2] Karşılaştırmanın kendisi
 bulgudur.[^k3]
-
 
 ## Deniz ile kara ayrımı
 
@@ -186,6 +173,18 @@ başka bir kapasitedir.
 
 Aynı dönemde iki farklı askerî biçim yükseldi ve
 ikisi aynı kavramla anlatılamaz.[^k3]
+
+## Teknolojiyi tek neden yapmamak
+
+Top, tüfek ve tahkimat büyük devletlerin askerî kapasitesini değiştirdi; fakat silahın
+varlığı tek başına imparatorluk kurmadı.[^k1] Düzenli vergi, mühimmat üretimi,
+ulaştırma, eğitim ve piyade örgütlenmesi olmadan ateşli silah sürdürülebilir üstünlük
+sağlayamaz. “Barut imparatorluğu” yararlı bir karşılaştırma etiketi olsa da Osmanlı,
+Safevi ve Babür yönetimlerinin farklı veraset, toprak ve din politikalarını örtmemelidir.
+Ortak teknoloji, aynı kurum veya aynı tarihsel yol anlamına gelmez.[^k2]
+
+Deniz gücü ve tahkimat yarışı da kara ordusuna odaklanan etiketin dışında kalan
+önemli karşılaştırma alanlarıdır.[^k1]
 
 ## Kanıtın ve kapsamın sınırı
 Kavramın önerdiği mekanizma, ülke ülke tarihler ve eleştiriler burada ayrı

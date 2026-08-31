@@ -50,23 +50,16 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Nerede durduğu
 
-Nizâmülmülk, Selçuklu devletinde uzun yıllar vezirlik yapmış bir devlet
-adamıdır.[^k1] Korpusun düşünür katmanında yer almasının sebebi idari görevi
-değil, yazdığı eserdir: yönetme üzerine kaleme aldığı metin, kendisinden
-sonraki siyaset düşüncesinde uzun süre okunmuştur.[^k1][^k2]
+Nizâmülmülk, Selçuklu devletinde uzun yıllar vezirlik yapmış bir devlet adamıdır.[^k1]
 
-Bir devlet görevlisinin aynı zamanda düşünür dosyası taşıması, korpusun tip
-ayrımının nasıl işlediğini gösterir. Aktör dosyaları siyasi birimleri kaydeder;
-düşünür dosyaları, adı bir metne bağlanabilen kişileri.[^k1] Nizâmülmülk her
-iki tarafa da bakar ama dosyası metnin bulunduğu tarafta açılmıştır.
+Aktör dosyaları siyasi birimleri kaydeder; düşünür dosyaları, adı bir metne bağlanabilen
+kişileri.[^k1] Nizâmülmülk her iki tarafa da bakar ama dosyası metnin bulunduğu tarafta
+açılmıştır.
 
-Yaşadığı yıllar, korpusun kronolojik omurgasında yedinci dönemin içine
-düşer.[^k1] Aynı dönemde aynı coğrafyada, [Karahanlılar](/aktor/karahanlilar/)
-dosyasında ele alınan iki eser de yazılmıştır; bu yakınlık aşağıda ayrıca
-işlenir.
+Aynı dönemde aynı coğrafyada, [Karahanlılar](/aktor/karahanlilar/) dosyasında ele alınan
+iki eser de yazılmıştır; bu yakınlık aşağıda ayrıca işlenir.
 
 ## Siyâsetnâme: hangi türden bir metin
 
@@ -88,24 +81,20 @@ belirler: yazar, muhatabını memnun etme kısıtı altında yazmaktadır.
 
 ## Aynı türün iki örneği
 
-Bu incelemenin korpusa kattığı asıl şey, tek bir kişinin kaydı değil bir
-karşılaştırma imkânıdır. [Karahanlılar](/aktor/karahanlilar/) dosyasında ele
-alınan *Kutadgu Bilig* de bir hükümdara sunulmuş öğüt metnidir ve aynı
-yılların ürünüdür.[^k2]
+[Karahanlılar](/aktor/karahanlilar/) dosyasında ele alınan *Kutadgu Bilig* de bir
+hükümdara sunulmuş öğüt metnidir ve aynı yılların ürünüdür.[^k2]
 
 İki metin aynı türe aittir ama farklı dillerde ve farklı siyasi merkezlerde
 yazılmıştır.[^k2][^k3] Bu, türün tek bir hanedana ya da tek bir dile bağlı
 olmadığını gösterir: yöneticiye öğüt vermek, o yüzyılın siyasi
 düşüncesinin ortak biçimidir.
 
-Karşılaştırma, korpusun kavram katmanıyla da bağlanır.
-[Meşruiyet](/kavram/mesruiyet/) dosyası, bir yönetimin hangi gerekçelerle
-kabul edildiğini sorar; öğüt metinleri bu gerekçelerin dönemin kendi
-diliyle nasıl kurulduğunu gösteren birincil malzemedir.[^k3]
+[Meşruiyet](/kavram/mesruiyet/) dosyası, bir yönetimin hangi gerekçelerle kabul
+edildiğini sorar; öğüt metinleri bu gerekçelerin dönemin kendi diliyle nasıl kurulduğunu
+gösteren birincil malzemedir.[^k3]
 
-İki metnin yan yana okunabilmesi, korpusun bağ yapısının ne işe yaradığının
-bir örneğidir. Tek başına her dosya bir kaydı tutar; birlikte okunduklarında
-kaydın ötesinde bir soru doğar.
+Tek başına her dosya bir kaydı tutar; birlikte okunduklarında kaydın ötesinde bir soru
+doğar.
 
 ## Medrese düzeni
 
@@ -113,27 +102,20 @@ Nizâmülmülk'ün adıyla anılan medreselerin kurulması, dönemin eğitim
 düzeninde belirleyici sayılır.[^k1] Bir devlet görevlisinin eğitim kurumları
 kurması, yönetim ile bilgi üretimi arasındaki bağın kurumsallaşmasıdır.
 
-Bu kurumsallaşmanın siyasi bir tarafı da vardır: eğitim kurumlarının kimin
-tarafından finanse edildiği, orada hangi görüşlerin öğretileceğini de
-etkiler.[^k1] Korpus bu bağı kaydeder ve bir hüküm vermez; kurumların
-kuruluş gerekçeleri ile sonuçları ayrı sorulardır.
+Bu kurumsallaşmanın siyasi bir tarafı da vardır: eğitim kurumlarının kimin tarafından
+finanse edildiği, orada hangi görüşlerin öğretileceğini de etkiler.[^k1]
 
-[Bürokrasi](/kavram/burokrasi/) dosyası, yönetimin kurallara bağlanmasını
-kavram düzeyinde ele alır. Bu inceleme, o kavramın bir dönemdeki somut
-karşılığını verir: görevlilerin denetimi ve haber alma düzeni, Siyâsetnâme'nin
-kendi bölümleri arasındadır.[^k3]
+[Bürokrasi](/kavram/burokrasi/) dosyası, yönetimin kurallara bağlanmasını kavram
+düzeyinde ele alır.
 
-**Tartışmalı.** Nizâmiye medreselerinin belirli bir mezhebi yaymak amacıyla mı yoksa genel
-bir eğitim ihtiyacını karşılamak için mi kurulduğu tartışmalıdır. İki yorum da
-aynı kurumsal kayıtlara dayanır ve aradaki fark, kurucunun niyetine dair bir
-çıkarımdan doğar. Korpus bu konuda hüküm vermez.[^k1]
+**Tartışmalı. ** Nizâmiye medreselerinin belirli bir mezhebi yaymak amacıyla mı yoksa
+genel bir eğitim ihtiyacını karşılamak için mi kurulduğu tartışmalıdır. İki yorum da
+aynı kurumsal kayıtlara dayanır ve aradaki fark, kurucunun niyetine dair bir çıkarımdan
+doğar.
 
 ## Gazâlî ile bağlantı
 
-[Gazâlî](/dusunur/gazali/), Nizâmülmülk'ün kurduğu düzen içinde görev
-yapmıştır.[^k1] Bu bağ, korpusun iki dosyasını birbirine bağlar ve dönemin
-düşünce hayatının kurumsal zeminini gösterir: bir düşünürün nerede
-yazdığı, ne yazdığını da etkiler.
+[Gazâlî](/dusunur/gazali/), Nizâmülmülk'ün kurduğu düzen içinde görev yapmıştır.[^k1]
 
 Aynı bağ, [İbn Sînâ](/dusunur/ibn-sina/) dosyasında anlatılan felsefe
 geleneğiyle Gazâlî'nin itirazı arasındaki tartışmanın hangi kurumsal
@@ -142,9 +124,7 @@ tartışmanın yürüdüğü yer de kayda değerdir.
 
 ## Kaynak durumu
 
-Bu inceleme üç kaynağa dayanır: kişi üzerine bir madde,[^k1] eserin ait olduğu
-tür üzerine ayrı bir madde,[^k2] ve eserin İngilizce çevirisi.[^k3] İlk ikisi
-aynı alan adındadır; bağımsızlık şartı asgari düzeyde sağlanır ve bu burada
+İlk ikisi aynı alan adındadır; bağımsızlık şartı asgari düzeyde sağlanır ve bu burada
 beyan edilir.
 
 Birincil metin bir çeviridir. Özgün metne değil, bir aktarıma bağlanılmıştır;
@@ -156,10 +136,6 @@ farklar bulunduğu kaydedilir.[^k2] Bu, tek bir çeviriye bağlanmanın sınır�
 gösterir: çeviri, çevirmenin seçtiği nüshayı aktarır ve o seçim metnin
 kapsamını belirler.
 
-Bu incelemenin kapsamadıkları da belirtilmelidir. Vezirlik dönemindeki siyasi
-olaylar ayrıntılı olarak işlenmez; Selçuklu devlet yapısı ayrı bir aktör
-dosyası gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu.[^k1]
-
 ## Öğüt metinlerinin tarih kaynağı olarak değeri
 
 Bir öğüt metni, dönemin sorunları hakkında dolaylı bilgi taşır. Yazarın
@@ -167,13 +143,11 @@ neyi düzeltilmesi gerektiğini düşündüğü, o şeyin bozuk olduğuna dair b
 işarettir.[^k3] Metnin uzun uzun anlattığı konular, dönemin gündemini
 gösterir.
 
-Bu okuma biçimi dikkat ister. Bir metnin bir konuya çok yer ayırması, o
-konunun gerçekten sorunlu olduğunu kanıtlamaz; yazarın ilgisini de
-gösterebilir.[^k3] Korpus bu ikisini ayrı tutar ve metinden çıkarılan
-her iddiayı metnin türüne göre tartar.
+Bu okuma biçimi dikkat ister. Bir metnin bir konuya çok yer ayırması, o konunun
+gerçekten sorunlu olduğunu kanıtlamaz; yazarın ilgisini de gösterebilir.[^k3]
 
-Aynı yöntem sorusu, [Kaynak eleştirisi](/kavram/kaynak-elestirisi/) incelemesinde genel biçimiyle ele alınır. Bu inceleme, o sorunun tek bir metin
-üzerindeki somut hâlidir.
+Aynı yöntem sorusu, [Kaynak eleştirisi](/kavram/kaynak-elestirisi/) incelemesinde genel
+biçimiyle ele alınır.
 
 ## Metnin bölümlenişi
 
@@ -186,14 +160,10 @@ Bölümlerin sırası da bilgi taşır. Adaletle açılan bir metin, yönetimin
 meşruiyetini önce adalet üzerinden kuruyor demektir;[^k3] aynı metin
 vergiyle açsaydı başka bir öncelik sırası ilan etmiş olurdu.
 
-Korpus bu tür yapısal işaretleri kaydetmeye önem verir. Bir metnin neyi
-önce söylediği, ne söylediği kadar bilgi taşır ve bu bilgi metnin
+Bir metnin neyi önce söylediği, ne söylediği kadar bilgi taşır ve bu bilgi metnin
 içeriğinden değil düzeninden okunur.[^k3]
 
 Bölümlerin uzunlukları arasındaki farklar da benzer biçimde okunabilir.
-Kısa tutulmuş bir konu, yazarın az söyleyecek şeyi olduğunu ya da konuyu
-tartışmalı bulduğunu gösterebilir; ikisi arasında karar vermek metnin
-kendisinden çıkmaz ve korpus bu tür çıkarımları yapmaz.[^k3]
 
 ## Anlatıların kaynak değeri
 
@@ -207,13 +177,11 @@ hikâyenin anlatılıyor olması ayrı iki olgudur.[^k3] İkincisi, birincisi
 doğrulanamasa bile dönem hakkında bilgi verir: hangi davranışın örnek
 sayıldığı, hangi sonun ibret sayıldığı o hikâyelerden okunur.
 
-Bu ayrımın açıkça yapılması, korpusun böyle metinlerden alıntı yaparken
-uyguladığı kuraldır. Bir öğüt metninden aktarılan anlatı, olay kaydı
-olarak değil dönem tasavvurunun kaydı olarak künyelenir.[^k2][^k3]
+Bir öğüt metninden aktarılan anlatı, olay kaydı olarak değil dönem tasavvurunun kaydı
+olarak künyelenir.[^k2][^k3]
 
-Aynı kural, bu incelemenin karşılaştırdığı öteki öğüt metni için de
-geçerlidir.[^k2] İki metin de kendi dönemlerinin neyi örnek saydığını
-gösterir; ikisi de o dönemin ne yaptığını doğrudan göstermez.
+İki metin de kendi dönemlerinin neyi örnek saydığını gösterir; ikisi de o dönemin ne
+yaptığını doğrudan göstermez.
 
 ## Eserin sonraki dönemlerde okunması
 
@@ -226,13 +194,65 @@ anlamına gelmez.[^k2] Aynı metin, farklı siyasi düzenlerde farklı
 gerekçelerle okunabilir; okunma sıklığı ile anlaşılma biçimi ayrı ayrı
 ölçülmesi gereken şeylerdir.
 
-Korpus bu incelemede metnin sonraki alımlanma tarihini işlemez. O tarih ayrı
-bir dosya gerektirir ve mevcut kaynaklarla yazılamaz.[^k1][^k2]
+O tarih ayrı bir dosya gerektirir ve mevcut kaynaklarla yazılamaz.[^k1][^k2]
 
-Alımlanma tarihinin ayrı tutulması, korpusun genel bir tercihidir. Bir eserin
-kendisi ile o eserin sonraki okunuşları farklı sorulara cevap verir; ikisini
-aynı dosyada toplamak, metnin ne dediği ile ne anlaşıldığını birbirine
-karıştırma riski taşır.[^k2] Aynı ayrım kaynak dosyalarında da uygulanır.
+Bir eserin kendisi ile o eserin sonraki okunuşları farklı sorulara cevap verir; ikisini
+aynı dosyada toplamak, metnin ne dediği ile ne anlaşıldığını birbirine karıştırma riski
+taşır.[^k2] Aynı ayrım kaynak dosyalarında da uygulanır.
+
+## Adalet dairesinin işleyişi
+
+*Siyâsetnâme*'de hükümdarın gücü yalnız askerî üstünlükle açıklanmaz.[^k3]
+Ordunun maaşı vergiye, vergi üretime, üretim güvenliğe, güvenlik de adalete
+bağlıdır. Zincirin herhangi bir halkası bozulduğunda devlet kendi gelir
+kaynağını tüketir. Köylünün keyfî tahsilattan korunması bu nedenle yalnız
+merhamet değil, iktidarın maddi sürekliliği için gereklidir.
+
+“Adalet dairesi” diye özetlenen bu akıl yürütme, ahlak ile maliyeyi aynı
+mekanizmada birleştirir. Haksız görevli kısa vadede daha çok gelir toplayabilir;
+fakat üreticinin kaçması, toprağı terk etmesi veya ürünü saklaması sonraki
+yılların gelirini azaltır.[^k2][^k3] İyi yönetim, hükümdarın kişisel iyiliğinden
+çok bu geri beslemeyi görebilmesine bağlanır.
+
+## Haber alma ve denetimin ikilemi
+
+Eser, hükümdarın taşradaki görevlileri bağımsız habercilerle izlemesini
+önerir.[^k3] Bunun gerekçesi ölçek sorunudur: merkez, kendi adına vergi
+toplayan veya hüküm veren kişinin söylediklerine bütünüyle bağımlı kalırsa
+suistimali göremez. Birden fazla bilgi kanalı, görevlinin raporunu tanık ve
+şikâyetlerle karşılaştırmaya imkân verir.
+
+Fakat gözetim aracı da denetlenmezse yeni bir keyfîlik üretir. Haberci rakibini
+suçlayabilir, yerel çekişmeyi merkezin cezasına çevirebilir veya hükümdarın
+duymak istediği haberi satabilir. Metnin çözümü kişileri sık değiştirmek,
+haberi çapraz sınamak ve hükümdarın doğrudan şikâyet dinlemesidir.[^k3]
+Merkezî denetim böylece güven sorununu ortadan kaldırmaz; güvenilmeyenleri
+birbirini dengeleyecek biçimde düzenlemeye çalışır.
+
+## Medrese ağı ve devlet kapasitesi
+
+Nizâmülmülk'ün adıyla anılan medreseler, yalnız bir düşünceyi yayma kurumu
+değildi.[^k1] Hukuk ve din eğitimi görmüş kişilerin farklı kentlerde
+yetişmesi, kadı, müderris ve idareci ihtiyacına ortak bir insan kaynağı
+sağladı. Vakıf gelirleri eğitim faaliyetinin hükümdarın günlük hazinesinden
+kısmen ayrılmasına yardım etti.
+
+Bu ağın siyasi yönü açıktır: hangi derslerin desteklendiği ve hangi hocaların
+atanabildiği, meşru bilginin sınırını etkiler. Yine de bütün medreseleri tek
+merkezden yönetilen, yalnız belirli bir mezhebi zorla yerleştiren modern bir
+bakanlık gibi düşünmek anakronik olur.[^k1] Kurumlar yerel vakıf şartları,
+hocalar ve kent çevreleriyle farklılaştı. Nizâmülmülk'ün rolü tek biçimli bir
+sistem kurmaktan çok, eğitim ile devlet hizmeti arasındaki bağı büyük ölçekte
+güçlendirmekti.
+
+Bu üç mekanizma birlikte okunduğunda eserin hedefi belirginleşir: adil vergiyle
+kaynağı korumak, haber ağlarıyla vekilleri denetlemek ve eğitimle gerekli
+uzmanları üretmek. Öğütlerin yazılmış olması bunların uygulandığını kanıtlamaz;
+tam tersine, vezirin hangi kırılmaları tekrar tekrar gördüğünü gösterir.
+
+Metin ile uygulama arasındaki farkı ölçmek için mali kayıtlar, atama belgeleri,
+vakfiyeler ve yerel kronikler gerekir. Öğüdün tekrarı ancak bu bağımsız
+kanıtlarla yan yana geldiğinde gerçek idari davranış hakkında hüküm verebilir.
 
 ## Okumayı sürdürmek için
 Aynı türün başka bir örneği için [Karahanlılar](/aktor/karahanlilar/)
@@ -244,11 +264,5 @@ Kavram tarafından girmek isteyen okuyucu için
 [Meşruiyet](/kavram/mesruiyet/) ve [Bürokrasi](/kavram/burokrasi/) dosyaları,
 bu metnin konularının bugünkü adlarını verir.
 
-Metnin nasıl okunacağı konusunda bir uyarı gereklidir. Bu inceleme eserin ne
-yaptığını anlatır, ne dediğini değil; bölümlerin içeriği için metnin kendisine
-inilmelidir.[^k3] Bir öğüt metnini özetlemek, onun ikna etme biçimini —
-yani asıl özelliğini — silen bir işlemdir.
-
-Aynı uyarı bu incelemenin karşılaştırdığı öteki metin için de geçerlidir.[^k2]
-İki eseri yan yana koyan bu inceleme, ikisinin de yerine geçmez; karşılaştırmanın
-kendisi ancak iki metin okunduktan sonra sınanabilir.
+Metnin nasıl okunacağı konusunda bir uyarı gereklidir. Bir öğüt metnini özetlemek, onun
+ikna etme biçimini — yani asıl özelliğini — silen bir işlemdir.

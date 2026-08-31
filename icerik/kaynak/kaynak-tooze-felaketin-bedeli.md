@@ -9,6 +9,10 @@ tarih_baslangic: "2006"
 bolge: [avrupa, kuresel]
 eksen: [ekonomik, askeri, siyasi]
 guven_geneli: tartismali
+kaynak_siniri: >-
+  Eserin doğrulanabilir tam metni açık erişimde bulunmadığı için bu kayıt katalog
+  ve akademik ikincil kaynaklarla sınırlıdır; bölüm ya da sayfa düzeyinde
+  birincil metin aktarımı yapmaz.
 etiketler: [nazi-iktisadi, kaynak-kisiti, barbarossa, stratejik-bombardiman, akademik-odul]
 ilgili:
   - tartisma-ikinci-dunya-savasi-sorumlulugu
@@ -56,10 +60,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
-Bu inceleme bir savaş anlatısını değil, bir **açıklama biçimini** ele alır: askerî
-kararların iktisadi kısıtlarla açıklanması.
-
 ## Künye
 
 Kaynak, kitabı Adam Tooze'un 2006'da Allen Lane tarafından ilk kez yayımlanan
@@ -77,7 +77,7 @@ onları Sovyetler Birliği'nin işgaline sürükledi; Hitler, iktisadi süper g�
 olan Amerika Birleşik Devletleri ile Britanya İmparatorluğu'na meydan okumak için
 gereken doğal kaynakları elde etmek üzere 1941'de bunu yapmak zorunda kaldı.[^k1]
 
-::tartismali[Bu bir iktisadi zorunluluk açıklamasıdır; aynı olay için başka açıklama biçimleri de bulunur. Korpus tezi aktarır, benimsemez.]{harita=tartisma-ikinci-dunya-savasi-sorumlulugu}
+::tartismali[Bu bir iktisadi zorunluluk açıklamasıdır; aynı olay için başka açıklama biçimleri de bulunur.]{harita=tartisma-ikinci-dunya-savasi-sorumlulugu}
 
 Sorumluluk tartışması
 [İkinci Dünya Savaşı'nın sorumluluğu](/tartisma/ikinci-dunya-savasi-sorumlulugu/)
@@ -89,17 +89,10 @@ Kaynak, kitabın Albert Speer yönetimindeki bir silahlanma mucizesi fikrine kar
 çıktığını ve Nazi iktisadının savaş ekonomisi için çok daha fazla kadını
 seferber edebileceği fikrini reddettiğini yazar.[^k1]
 
-Bir kitabın tezinden çok reddettikleriyle tanımlanabilmesi,[^k1] korpusun şu
-kuralının dayanağıdır: bir kaynağın konumu, neyi savunduğu kadar neye karşı
-çıktığıyla da kaydedilir.
-
 ## Merkeze konan harekât
 
 Kitabın merkezine koyduğu harekât için tutulan kayıt, onu 22 Haziran 1941'de
 başlatılan Sovyetler Birliği işgali olarak tarihler.[^k3]
-
-İki kaydın aynı yılı vermesi,[^k1][^k3] korpusun çapraz doğrulama ölçütünü
-karşılar.
 
 ## Ölçülebilir arka plan
 
@@ -113,9 +106,4 @@ alınıyor.
 
 ## Telif sınırı
 
-Kitap teliflidir; bu incelemede metninden alıntı yapılmamıştır. Buradaki bütün
-ifadeler kaynak sayfasının kendi anlatımına dayanır.[^k1]
-
-## Kanıtın ve kapsamın sınırı
-Kitabın bölüm yapısı, aldığı eleştiriler ve yazarın diğer eserleri burada ele
-alınmamıştır; bu incelemenin kapsamı künye ve ana tezdir.
+Buradaki bütün ifadeler kaynak sayfasının kendi anlatımına dayanır.[^k1]

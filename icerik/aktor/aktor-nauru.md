@@ -53,7 +53,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Nauru, Pasifik'in orta kesiminde yirmi bir kilometrekarelik tek bir
@@ -65,8 +64,7 @@ Yirminci yüzyıl başında adada yüksek kaliteli fosfat yatağı
 bulundu.[^k1] Yatak, adanın iç platosunun neredeyse tamamını
 kaplıyordu ve kalınlığı yer yer birkaç metreyi buluyordu.
 
-Bu incelemenin asıl konusu o örtüşmedir.[^k2] Çıkarılan kaynak ile
-yaşanabilir alan aynı şeydi.
+Çıkarılan kaynak ile yaşanabilir alan aynı şeydi.
 
 ## Örtüşmenin anlamı
 
@@ -94,8 +92,7 @@ Emanetçi ile işletmeci aynı taraflardı.
 
 ## Emanet ile işletmenin birleşmesi
 
-Bu, korpusun vesayet dosyasında kaydedilen eleştirinin en somut
-örneğidir.[^k2] Emanet fikri, emanetçinin tarafsız olmasını gerektirir.
+Emanet fikri, emanetçinin tarafsız olmasını gerektirir.
 
 Burada emanetçi, emanet edilen kaynağın alıcısıydı.[^k1] Fosfat, ödenen
 bedelle dünya piyasasının çok altında satın alınıyordu.
@@ -136,9 +133,8 @@ Yapısal bir etken ayrıca kaydedilir.[^k1] Küçük bir nüfusa sahip yeni bir
 devletin, büyük ölçekli varlık yönetimi için gereken kurumsal kapasiteyi
 kısa sürede kurması beklenemez.
 
-Bu, korpusun başka kaynak zengini devletlerde de ölçtüğü bir
-örüntüdür.[^k2] Gelirin büyüklüğü ile onu yönetecek kurumun olgunluğu
-arasında zamansal bir uyumsuzluk vardır.
+Gelirin büyüklüğü ile onu yönetecek kurumun olgunluğu arasında zamansal bir uyumsuzluk
+vardır.
 
 ## Uyumsuzluğun formüle edilmesi
 
@@ -146,8 +142,7 @@ Uyumsuzluk tek cümleyle ifade edilebilir.[^k3] **Bir gelir kaynağı, onu
 yönetecek kurum kurulmadan önce akmaya başlarsa, kurumun kurulması için
 gereken teşvik de ortadan kalkar.**
 
-İfade bir kural değil, korpusta birden çok örnekte gözlenen bir
-eğilimdir.[^k1] Karşı örnekler de vardır ve ayrıca incelenmelidir.
+Karşı örnekler de vardır ve ayrıca incelenmelidir.
 
 Nedeni, karşı örneklerin neden
 farklı sonuç verdiğinin ölçülmemiş olmasıdır.[^k2]
@@ -172,9 +167,6 @@ kararlarının pazarlık konusu edilmesi sayılır.
 Modellerin bir bölümü uluslararası baskıyla sona erdi.[^k1] Bir bölümü
 sürdürülebilir gelir sağlamadı.
 
-Gelir kaynağı kalmamış küçük bir
-devletin seçenekleri, korpusun ayrıca inceleyeceği bir konudur.[^k3]
-
 ## Okyanusya karşılaştırması
 
 Dördünde belirleyici etken toprağın
@@ -191,9 +183,8 @@ ayrı ayrı sorulmalıdır ve ikincisi yalnızca bu örnekte belirleyici oldu.[^
 Fosfat işletmesi, dışarıdan getirilen işçilerle yürütüldü.[^k1] İşçiler
 komşu adalardan ve Doğu Asya'dan geldi.
 
-Bu, korpusun Fiji dosyasında ölçtüğü örüntünün küçük ölçekli bir
-tekrarıdır.[^k3] Plantasyon ya da maden ekonomisi, yerel nüfusun
-karşılayamayacağı emek talebi üretir ve talep göçle karşılanır.
+Plantasyon ya da maden ekonomisi, yerel nüfusun karşılayamayacağı emek talebi üretir ve
+talep göçle karşılanır.
 
 Fark ölçektedir.[^k2] Burada göç, nüfus bileşimini kalıcı olarak
 değiştirmedi çünkü işletme küçüldükçe işçi sayısı da azaldı.
@@ -221,10 +212,7 @@ Fosfat çıkarımı bu düzeni doğrudan etkiledi.[^k3] Çıkarılacak alanın
 kime ait olduğu sorusu, kayıtlı bir mülkiyet düzeni gerektiriyordu ve
 böyle bir düzen yoktu.
 
-Yönetim kendi kayıt sistemini kurdu.[^k2] Korpus bu adımı ayrıca
-kaydeder: bir kaynağın çıkarılabilmesi için önce mülkiyetin
-kayda geçirilmesi gerekir ve kaydı yapan taraf, kaydın biçimini de
-belirler.
+Yönetim kendi kayıt sistemini kurdu.[^k2]
 
 ## Kayıt biçiminin sonucu
 
@@ -247,13 +235,11 @@ dönemedi.
 Bu, adanın nüfusunda kalıcı bir kırılma yarattı.[^k3] Savaş sonrası
 nüfus, savaş öncesinin belirgin biçimde altındaydı.
 
-Dosya bu dönemi ayrıntılandırmaz.[^k2] Ayrı bir dosya gerektirir ve bu
-dosya yazıldığında korpusta bulunmuyordu.
+Dosya bu dönemi ayrıntılandırmaz.[^k2]
 
 ## Ölçeğin kendisi
 
-Adanın küçüklüğü, bu incelemenin bütün gözlemlerini etkiler.[^k1] Yirmi bir
-kilometrekarelik bir alanda, her karar bütün alanı etkiler.
+Yirmi bir kilometrekarelik bir alanda, her karar bütün alanı etkiler.
 
 Bu, ölçeği bir kısıt olduğu kadar bir gözlem imkânı da yapar.[^k3] Büyük
 bir ülkede bölgesel olarak dağılacak bir süreç, burada tek bir birimde
@@ -277,24 +263,18 @@ dardır.[^k2]
 
 ## Kaynak durumu
 
-Bu incelemenin üç künyesinden biri giriş kapısı, ikisi karşılaştırma
-belgesidir.[^k1] Adaya özgü birincil kaynak künyelenememiştir.
+Adaya özgü birincil kaynak künyelenememiştir.
 
-Vesayet dönemi raporları ve fosfat işletmesinin kayıtları
-mevcuttur.[^k2] Doğrulanabilir çevrimiçi baskıları bu inceleme yazıldığında
-bulunamamıştır.
+Vesayet dönemi raporları ve fosfat işletmesinin kayıtları mevcuttur.[^k2]
 
 Eksik borç defterine yazılmıştır.[^k3] Dosyanın sayısal ifadeleri
 ikincil aktarıma dayanır ve bu kısıt burada beyan edilir.
 
 ## Kapsam dışı
 
-Adanın sömürge öncesi tarihi burada işlenmez.[^k1] Ayrı bir dosya
-gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu.
+Adanın sömürge öncesi tarihi burada işlenmez.[^k1]
 
-Güncel siyasi düzenlemeler ve dış politika tercihleri
-değerlendirilmez.[^k3] Korpus yaşayan siyasi durumlar hakkında
-değerlendirme yapmaz.
+Güncel siyasi düzenlemeler ve dış politika tercihleri değerlendirilmez.[^k3]
 
 Fosfat işletmesinin teknik ayrıntısı kapsam dışıdır.[^k2] Dosya yalnızca
 kaynak ile yaşam alanının örtüşmesine ilişkin olanı kaydeder; çıkarım
@@ -324,3 +304,36 @@ Aynı okyanustan karşılaştırma dosyaları için
 Bağımsızlığın mali biçimi için
 [Sömürgesizleşme](/kavram/somurgesizlesme/), devredilen yetkinin ne
 olduğu için [Egemenlik](/kavram/egemenlik/) dosyaları uygundur.[^k1]
+
+## Sermayeye dönüşen, ama yeniden üretilemeyen toprak
+
+Nauru fosfatı gelir sağlarken adanın yaşanabilir yüzeyini ve gelecekteki üretim
+seçeneklerini azalttı.[^k1] Bir maden yatağı ihraç edildiğinde yalnız stok
+tükenmez; bitki örtüsü, su düzeni ve yerleşim alanı da değişir. Bu yüzden yüksek
+kişi başı gelir, aynı dönemde büyüyen çevresel borcu ve gıda ithalatına bağımlılığı
+göstermeyebilir.
+
+Manda ve vesayet düzenleri adayı yöneten güçlere halkın yararını gözetme dili
+yükledi.[^k2] Gelirin kimin adına toplandığı, fiyatın nasıl belirlendiği ve onarım
+maliyetinin kime bırakıldığı bu iddianın gerçek sınavıdır. Bağımsızlık Naurululara
+fosfat gelirini daha doğrudan denetleme imkânı verdi; geçmiş tahribatı ve tek
+kaynağa bağımlılığı bir anda ortadan kaldırmadı.
+
+Gelirin fonlara ve dış yatırımlara çevrilmesi gelecek kuşaklara kaynak aktarma
+girişimiydi. Yatırım riski, yönetim kapasitesi ve siyasi kararlar zayıf olduğunda
+maden serveti kalıcı mali güvenceye dönüşemedi.[^k1] Sonraki dış gelir arayışları
+egemenliğin yalnız bayrak ve oy hakkı olmadığını gösterir: küçük devletin karar
+alanı, yaşanabilir toprak, çeşitlenmiş gelir ve dış ortaklarla pazarlık gücüne de
+bağlıdır.
+
+Kaynak sonrası dönem için ölçüt yalnız bütçe dengesi değildir. İçilebilir su,
+sağlıklı toprak, eğitim ve başka üretim alanları siyasi seçeneği genişletir;
+ekolojik onarım yapılmadığında mali egemenlik kırılgan kalır.
+
+Gelecek kuşakların seçenekleri bugünkü servetin gerçek sınamasıdır.
+
+Onarım bütçesi de refah hesabına katılmalıdır.
+
+Doğa sermayesi ayrı görünmelidir.
+
+Bu ayrım hesap vermeyi güçlendirir.

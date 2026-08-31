@@ -99,7 +99,6 @@ son_denetim: 2026-08-29
 denetim_durumu: onaylandi
 onarim_turu: 1
 ---
-
 Memlük Devleti'ni çağdaşlarından ayıran şey kazandığı savaşlar değil, yönetici
 sınıfına girme kuralıydı. Memlûk sözcüğü sözlükte sahip olunan şey demektir ve
 çoğunlukla Kafkasya'dan ve Orta Asya bozkırlarından satın alınıp Mısır'a
@@ -268,17 +267,14 @@ kesildiği de bu yüzden tek bir tarihe bağlanamaz.
 
 ## Veba, barut ve son
 
-Düzenin çözülmesinde birden çok etken üst üste bindi. Ekonomi 1347 veba
-salgını yüzünden büyük bir kriz yaşadı.[^k1] Uzun dönemli seride dünya nüfusu
-1300 yılında yaklaşık 456,2 milyon, 1400 yılında yaklaşık 442,3 milyondur.[^k9]
-Bu seri dünya toplamıdır ve bölgesel ayrışma içermez: Mısır ile Suriye'nin
-kaybını ölçmez, yalnızca yüzyıl ölçeğinde bir gerilemenin dünya toplamında bile
-göründüğünü söyler. Memlük nüfusuna ya da askerî sınıfın yeniden üretimine dair
-sayısal bir kayıt bu incelemenin kaynak tabanında yoktur.
-[Kara Ölüm](/olay/kara-olum/) dosyası bu düşüşü ayrıca ele alıyor. Sıkıntı 15.
-yüzyıl başında Timur'un Suriye'yi tahrip etmesiyle derinleşti; ağır vergiler iç
-ve dış ticareti vurdu ve Ümitburnu yolunun açılmasının ardından Mısır ile
-Suriye'nin dış ticareti çöktü.[^k1]
+Düzenin çözülmesinde birden çok etken üst üste bindi. Ekonomi 1347 veba salgını yüzünden
+büyük bir kriz yaşadı.[^k1] Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2
+milyon, 1400 yılında yaklaşık 442,3 milyondur.[^k9] Bu seri dünya toplamıdır ve bölgesel
+ayrışma içermez: Mısır ile Suriye'nin kaybını ölçmez, yalnızca yüzyıl ölçeğinde bir
+gerilemenin dünya toplamında bile göründüğünü söyler. [Kara Ölüm](/olay/kara-olum/)
+dosyası bu düşüşü ayrıca ele alıyor. Sıkıntı 15. yüzyıl başında Timur'un Suriye'yi
+tahrip etmesiyle derinleşti; ağır vergiler iç ve dış ticareti vurdu ve Ümitburnu yolunun
+açılmasının ardından Mısır ile Suriye'nin dış ticareti çöktü.[^k1]
 
 Askerî uyum sorununda sınıf kuralının maliyeti açıkça görülür. Memlükler barutu
 kuruluş yıllarından beri biliyorlardı ve kaynağa göre muhtemelen topu ilk

@@ -12,6 +12,10 @@ tarih_bitis: "1449"
 bolge: [orta-asya, islam-dunyasi, avrupa]
 eksen: [kulturel, felsefi, siyasi, dini]
 guven_geneli: yaygin
+kaynak_siniri: >-
+  Açık erişimde doğrulanabilir birincil eser metni bulunmadığı için bu yazı
+  listedeki katalog ve ikincil kaynaklarla sınırlıdır; Uluğ Bey'in kendi
+  cetvellerinden doğrudan aktarım iddiası taşımaz.
 etiketler: [ulug-bey, semerkant, rasathane, zic, timurlu, astronomi]
 ilgili:
   - donem-08
@@ -51,7 +55,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Kim
 
 Uluğ Bey, on beşinci yüzyılda Semerkant ve çevresini yöneten bir
@@ -61,8 +64,7 @@ gençliğinde devraldı.
 Yönetim süresi uzun, hükümdarlık süresi kısadır.[^k3] Yaklaşık kırk
 yıl bölgeyi yönetti, ancak bütünün başında yalnızca birkaç yıl kaldı.
 
-Bu inceleme bir siyasi biyografi değildir.[^k2] Bir hükümdarın ölçüm
-işine yaptığı yatırımın ve o yatırımın kaderinin kaydıdır.
+Bir hükümdarın ölçüm işine yaptığı yatırımın ve o yatırımın kaderinin kaydıdır.
 
 ## Rasathane bir yatırımdır
 
@@ -309,6 +311,30 @@ geldi.[^k3] Kentin çekim gücü, hükümdarın davetinden ibaret değildi.
 Bir bilgi merkezinin kurulduğu yer, oraya kimin
 ulaşabileceğini de belirler.[^k2]
 
+## Rasathane bir kurum olarak nasıl çalıştı
+
+Semerkant'taki sonuçları yalnız Uluğ Bey'in kişisel merakıyla açıklamak eksik
+kalır.[^k1] Büyük gözlem aletlerinin inşası, yıllara yayılan ölçümlerin
+kaydedilmesi ve tabloların hesaplanması; matematikçi, gözlemci, zanaatkâr ve
+kâtiplerden oluşan bir çalışma düzeni gerektirdi. Kadızâde-i Rûmî, Gıyâseddin
+Cemşîd el-Kâşî ve Ali Kuşçu gibi isimler bu ortak üretimin farklı aşamalarında
+yer aldı. Hükümdarın belirleyici katkısı her hesabı tek başına yapmak değil,
+uzmanların aynı yerde uzun süre çalışabileceği kaynağı ve korumayı sağlamaktı.
+
+Bu ayrım, bilginin neden siyasetten daha uzun yaşayabildiğini açıklar.[^k2]
+Hanedan içi mücadele rasathanenin sürekliliğini sona erdirdi; fakat ölçümlerin
+tabloya dönüştürülmüş olması sonuçları yapıya ve hükümdara bağımlı olmaktan
+çıkardı. Nüshalar başka merkezlere taşındı, karşılaştırıldı ve sonraki
+astronomların hesaplarında kullanıldı. Kurum dağıldığında gözlem programı
+kesildi; kayıt ise kopyalanabildiği için yaşamayı sürdürdü.
+
+Yıldız kataloğunun değeri yalnız bazı sayıların önceki tablolardan daha doğru
+olması değildir.[^k3] Eski otoriteleri tekrar etmek yerine yeniden ölçüm yapma
+kararı, hangi sonucun hangi gözleme dayandığını tartışılabilir hâle getirdi.
+Bir tablonun sonraki kuşaklarca düzeltilmesi başarısızlık sayılmaz: yöntemin ve
+sonucun ayrı ayrı aktarılması, düzeltmenin ön koşuludur. Böylece Semerkant örneği
+bilimsel otoritenin kişiden, tekrarlanabilir işleme nasıl geçtiğini gösterir.
+
 ## Kanıtın ve kapsamın sınırı
 Dosya, zîcin hesap yöntemlerini çözümlemez.[^k1] Bu, ayrı bir uzmanlık
 alanıdır.
@@ -317,9 +343,7 @@ Dönemin siyasi olayları ayrıntılı izlenmez.[^k3] Hanedan içi çatışma,
 kimin kime karşı hangi desteği aldığı sorusuyla birlikte ayrı bir
 dosyayı hak eder ve burada geçiştirilmemelidir.
 
-Zîcin doğrulanabilir çevrimiçi tam metni künyelenememiştir.[^k2] Erişilebilir
-nüsha taramaları bu inceleme yazıldığında doğrulanamamıştır ve kısıt
-burada beyan edilir.
+Zîcin doğrulanabilir çevrimiçi tam metni künyelenememiştir.[^k2]
 
 ## Okumayı sürdürmek için
 Bağlı olduğu düzen için

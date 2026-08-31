@@ -61,7 +61,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Buhara Hanlığı, on altıncı yüzyıl sonunda Mâverâünnehir'de kurulan ve
@@ -72,8 +71,7 @@ Devlet üç yüzyıl boyunca birden çok hanedan tarafından yönetildi.[^k1]
 Hanedan değişimleri, devletin sürekliliğini kesmedi; merkez, hukuk düzeni
 ve vergi yapısı büyük ölçüde aynı kaldı.
 
-Bu incelemenin asıl konusu hanedanlardan biridir.[^k4] On sekizinci yüzyıl
-sonunda iktidara gelen hanedan, han unvanını kullanamadı.
+On sekizinci yüzyıl sonunda iktidara gelen hanedan, han unvanını kullanamadı.
 
 ## Unvan sorunu
 
@@ -88,8 +86,7 @@ yetkiyi karşılayan ayrı bir başlıktı.
 
 ## Ölçümün anlamı
 
-Bu, korpusun Çağatay dosyasında kaydedilen kuralın dördüncü kez
-ölçülmesidir.[^k3] Kural aynıdır ve aralarında dört yüzyıl vardır.
+Kural aynıdır ve aralarında dört yüzyıl vardır.[^k1]
 
 Kuralı uygulatan zor gücü çok önce ortadan kalkmıştı.[^k1] Onu kuran
 imparatorluk beş yüzyıl önce dağılmıştı.
@@ -160,8 +157,7 @@ sonunda kuzeydeki devletin himayesine girdi.
 Himaye, ilhak değildi.[^k4] Hanedan yerinde kaldı ve iç yönetim
 sürdürüldü.
 
-Dış ilişkiler ve savunma devredildi.[^k1] Bu, korpusun Tonga
-dosyasında kaydedilen düzenin bir başka örneğidir.
+Dış ilişkiler ve savunma devredildi.[^k1]
 
 İki örnek arasındaki fark sonuçtadır.[^k4] Buhara'da himaye, yirminci
 yüzyıl başında devletin tümüyle ortadan kalkmasıyla bitti.
@@ -173,9 +169,6 @@ siyasi düzenin bütünüyle değişmesiyle oldu.
 
 Yerine kurulan yapı, farklı bir devlet biçimine dayanıyordu.[^k1] Hanedan
 düzeni bütünüyle kaldırıldı.
-
-Bu inceleme o dönemi kapsamaz.[^k3] Devletin sonrası ayrı bir dosya
-gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu.
 
 ## Toprak ve vergi düzeni
 
@@ -255,9 +248,7 @@ loncalar biçiminde örgütlenmişti.
 Bu üretim yalnızca yerel pazara değil, uzak pazarlara da
 yönelikti.[^k1] Ürünlerin kuzeye ve güneye taşındığı kayıtlıdır.
 
-Zanaat üretiminin varlığı, geçiş ticaretinin tek gelir kaynağı olmadığını
-gösterir.[^k3] Korpus bu ayrımı ayrıca yazar çünkü gerileme iddiaları
-genellikle yalnızca geçiş ticaretini ölçer.
+Zanaat üretiminin varlığı, geçiş ticaretinin tek gelir kaynağı olmadığını gösterir.[^k3]
 
 ## Gerileme ölçütü sorunu
 
@@ -285,30 +276,21 @@ bulunduğu, neyi kayda değer bulduğunu da belirler.[^k3]
 
 ## Kaynak durumu
 
-Bu incelemenin dört künyesinin üçü ansiklopedi maddesidir.[^k1] Birincil
-kaynak künyelenememiştir.
+Birincil kaynak künyelenememiştir.
 
-Dönemin Farsça ve Çağatayca vakayinameleri ile vakıf belgeleri
-mevcuttur.[^k2] Doğrulanabilir çevrimiçi baskıları bu inceleme yazıldığında
-bulunamamıştır.
+Dönemin Farsça ve Çağatayca vakayinameleri ile vakıf belgeleri mevcuttur.[^k2]
 
 Eksik borç defterine yazılmıştır.[^k3] Dosya, birincil kaynağı olmayan
 makaleler grubundadır.
 
 ## Kapsam dışı
 
-Hükümdarların listesi ve saltanat süreleri verilmez.[^k1] Kaynaklar bu
-konuda örtüşmez ve bir liste vermek, kaynaklar arasında örtüşme varmış
-izlenimi yaratır; korpus bu izlenimi üretmemeyi tercih eder.
+Hükümdarların listesi ve saltanat süreleri verilmez.[^k1]
 
 Komşu hanlıklarla yapılan seferlerin ayrıntısı kapsam dışıdır.[^k4]
 Dosya yalnızca unvan ve meşruiyet kaydını tutar.
 
-Şehrin mimari mirası ayrı bir çalışma gerektirir.[^k2] Bu inceleme
-yazıldığında korpusta bulunmuyordu. Medrese, kervansaray ve türbe
-yapılarının dönem dönem dağılımı, gerileme tartışmasında kullanılabilecek
-bir gösterge olmasına rağmen korpusta hiç ölçülmemiştir ve bu eksik borç
-defterine yazılmıştır.
+Şehrin mimari mirası ayrı bir çalışma gerektirir.[^k2]
 
 ## Kanıtın ve kapsamın sınırı
 Dosya devletin gerilediğini ya da gerilemediğini ileri sürmez.[^k4]
@@ -317,10 +299,7 @@ Gerileme iddiası ayrı bir tartışma dosyasında ele alınır.
 Meşruiyet kuralının her yerde aynı işlediği de söylenmez.[^k1] Kural bu
 gelenekte ölçülmüştür ve her örnek ayrıca sınanmalıdır.
 
-Himaye düzeninin hukuki niteliği tartışılmaz.[^k3] Dosya olayların
-sırasını kaydeder; himayenin gönüllü mü yoksa zorlama altında mı kabul
-edildiği sorusu, korpusun Hawai dosyasında kurulan soruyla aynı yapıdadır
-ve burada cevaplanmamıştır.
+Himaye düzeninin hukuki niteliği tartışılmaz.[^k3]
 
 ## Okumayı sürdürmek için
 Devleti kuran hanedan için [Şeybânîler](/aktor/seybaniler/), aynı
@@ -340,3 +319,30 @@ okunabilir.[^k2]
 Yerini alınan düzen için
 [Timur İmparatorluğu](/aktor/timur-imparatorlugu/) dosyası
 okunmalıdır.[^k3]
+
+## Unvanın sınırı, iktidarın imkânı
+
+Şeybânî hanedanı Cengiz soyundan gelme iddiasıyla “han” unvanını kullanabiliyordu;
+Mangıtlar fiilî iktidarı ele aldığında aynı soy kuralına sahip değildi.[^k1][^k3]
+Bu nedenle “emir” unvanı yalnız kelime tercihi değil, hükümdarlığın kabul
+edilebilir biçimine uyarlanmaydı. Eski meşruiyet dili iktidar sahibi değiştikten
+sonra bile siyasi seçenekleri sınırladı.
+
+Buhara kenti medrese, pazar, zanaat ve bölgesel ticaret sayesinde hanlığın adından
+fazlasını taşıdı.[^k2] Çevredeki vaha, bozkır ve kentler aynı yoğunlukta
+yönetilmiyordu; yerel beyler, dinî otoriteler ve kabile seçkinleri vergi ile
+askerî destek karşılığında geniş hareket alanı bulabiliyordu. Merkezî güç,
+doğrudan bürokrasiden çok bu aracılarla pazarlık kapasitesine dayanıyordu.
+
+Rus himayesi altında emirlik adı ve iç kurumların bir bölümü sürerken dış politika
+ile ekonomik karar alanı daraldı.[^k4] Böylece üç ayrı düzey görülür: hanedanın
+değişmesi, unvanın değişmesi ve egemenliğin aşınması aynı tarihte gerçekleşmez.
+Buhara tarihi, devletin yalnız haritadaki devamlılık veya hükümdar listesiyle
+ölçülemeyeceğini; yetki, gelir ve tanınmanın ayrı zaman çizgileri olduğunu gösterir.
+
+Bu çizgiler kesiştiğinde bile aynı hızda değişmez. Pazarın canlılığı, hanedanın dış
+karar gücünü kaybetmesinden sonra da sürebilir; siyasi süreklilik hükmü bu farkı taşımalıdır.
+
+Kent tarihini yalnız hanedan takvimine bağlamak bu nedenle yanıltıcıdır.
+
+Kentsel süreklilik bağımsız kanıt ister.

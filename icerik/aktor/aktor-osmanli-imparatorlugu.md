@@ -66,10 +66,7 @@ son_denetim: 2026-08-20
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
-Altı yüzyılı tek bir anlatıya sığdırmak mümkün değildir; bu inceleme devleti
-olaylar dizisi olarak değil, **kurumsal bir mimari** olarak ele alır. Sorulan
-soru şudur: bu devlet toprağı, askeri, vergiyi ve hukuku hangi düzeneklerle
+Sorulan soru şudur: bu devlet toprağı, askeri, vergiyi ve hukuku hangi düzeneklerle
 birbirine bağladı ve bu düzenekler ne zaman çalışmaz hâle geldi?
 
 ## Ölçek ve süre
@@ -174,8 +171,102 @@ modernleşme (1828–1908), yenilgi ve dağılma (1908–1922) olarak
 sıralar.[^k4] Aynı madde, Osmanlı devleti üzerine ayrı bir tarih yazımı
 tartışması bölümü taşır.[^k4]
 
-Şemanın kendisinin bir yorum olduğu, aynı maddenin Osmanlı devleti üzerine ayrı
-bir tarih yazımı tartışması bölümü taşımasından da anlaşılır.[^k4] Bir devletin
-yüzyıllarını "duraklama" ya da "gerileme" olarak adlandırmak, karşılaştırma
-ölçütünün ne olduğuna bağlıdır. Bu inceleme bu yüzden dönemlendirmeyi bir veri gibi
-değil, bir tercih gibi sunar.
+Şemanın kendisinin bir yorum olduğu, aynı maddenin Osmanlı devleti üzerine ayrı bir
+tarih yazımı tartışması bölümü taşımasından da anlaşılır.[^k4] Bir devletin yüzyıllarını
+"duraklama" ya da "gerileme" olarak adlandırmak, karşılaştırma ölçütünün ne olduğuna
+bağlıdır.
+
+## Merkez ile eyalet arasındaki gerçek bağ
+
+İstanbul’daki saray ve divan imparatorluğun en görünür karar merkezidir; uzak
+vilayetleri aynı yoğunlukta doğrudan yönetmezdi. Beylerbeyi, sancak yöneticisi,
+kadı, vergi aracısı, yerel eşraf ve cemaat kurumları farklı görevleri üstlendi.[^k1]
+Merkezî emir, bu aktörlerin bilgi ve kaynaklarıyla uygulanabildiği ölçüde gerçek
+sonuç üretirdi.
+
+Eyalet düzeni tek kalıp değildi. Tımarın güçlü olduğu bölge, yıllık vergi gönderen
+özel statülü eyalet, bağlı prenslik ve deniz vilayeti farklı askerî-mali ilişkiler
+taşıdı. Haritadaki aynı renk bu yönetim çeşitliliğini gizler. Bir bölgenin Osmanlı
+alanında olması; toprağın, hukukun ve gündelik idarenin her ayrıntısının merkezce
+yürütüldüğü anlamına gelmez.[^k1]
+
+Bu esneklik yalnız zayıflık değildi. Yerel bilgi ve seçkinleri kullanmak yönetim
+maliyetini düşürüyor, farklı bölgelerin mevcut kurumlarını bütünüyle yıkmadan
+vergi ve güvenlik bağı kuruyordu. Aynı aracılar merkezin krizinde kendi güçlerini
+artırabilir, vergi ve asker yükünü halka aktarabilirdi. İmparatorluk kapasitesi,
+merkezîleşme ile pazarlığın değişen bileşimiydi.
+
+## Hukuk tek bir kanun kitabından ibaret değildi
+
+Şer‘î hukuk, padişah kanunnameleri, cemaat uygulamaları ve yerel örf farklı
+uyuşmazlıklarda birlikte rol oynadı.[^k1][^k4] Kadı mahkemesi yalnız ceza veya din
+alanı değil mülk, borç, evlilik, miras ve ticaret kaydının da merkeziydi.
+Gayrimüslimlerin kendi kurumları bulunurken kadı mahkemesini stratejik olarak
+kullandıkları durumlar da vardı.
+
+Bu çoğulluk “her topluluk tamamen ayrı yaşadı” anlamına gelmez. Pazar, mahalle,
+vergi ve mülkiyet ilişkileri insanları aynı idari alanlarda buluşturdu. [Millet
+sistemi](/kavram/millet-sistemi/) özellikle geç dönem için dikkatle ve yüzyılı
+belirtilerek kullanılmalıdır; daha erken uygulamaları 19. yüzyılın sabit cemaat
+şemasıyla anlatmak anakronizm yaratır.
+
+Kanunun yazılması uygulamanın her yerde eşit olduğu anlamına da gelmez. Merkeze
+uzaklık, tarafların statüsü, yerel güç ve mahkeme erişimi sonucu etkileyebilir.
+Ferman, sicil, şikâyet ve fetva aynı sorunun farklı katmanlarını gösterir.
+
+## Mali-askerî dönüşüm
+
+Tımar, belirli dönemde vergi geliri ile atlı asker hizmetini bağladı; ateşli
+silah, ücretli piyade, uzun savaş ve nakit ihtiyacı büyüdükçe tek başına yeterli
+olmadı.[^k2] İltizam ve ömür boyu gelir tahsisi gibi araçlar merkeze nakit
+sağlarken aracılara yerel güç kazandırdı. Bu değişimi “tımar bozuldu, devlet
+geriledi” diye okumak yeni savaş ve finans koşullarına uyarlamayı görmez.
+
+Yeniçeri ve devşirme sistemi de yüzyıllar boyunca aynı kalmadı.[^k3] Ocağın
+nüfusu, işe alım yolları, ekonomik rolü ve siyasal etkisi değişti. Kuruluş amacını
+bütün sonraki dönemlere taşımak, kurumun kendi toplumsal tarihini siler. Reform
+ve kaldırma kararları da yalnız teknik askerlik değil, gelir ve şehir siyaseti
+mücadelesiydi.
+
+Avrupa’daki mali-askerî rekabet önemliydi; Osmanlı dönüşümünün tek dış ölçütü
+Avrupa devletlerini taklit derecesi değildir. İran, Karadeniz, Akdeniz, Kızıldeniz
+ve iç isyanlar aynı anda kaynak dağılımını etkiledi. Başarı ölçütü seçilen cephe
+ve dönemle değişir.[^k1]
+
+## Tebaanın imparatorluğu
+
+Altı yüzyıllık tarih yalnız hanedan ve savaşların değil köylü, zanaatkâr, kadın,
+köle, asker, tüccar ve göçmenin tarihidir. Vergi isyanı veya mahkeme dilekçesi,
+yönetilenlerin pasif olmadığını gösterir. İnsanlar imparatorluk kurumlarını
+yalnız kabul veya reddetmedi; kendi çıkarları için kullandı, pazarlık etti ve
+değiştirdi.
+
+Zorunlu göç ve iskân politikası nüfusu stratejik alanlara taşıyabilir, üretimi
+canlandırabilir ve ağır toplumsal kopuş yaratabilirdi. Savaş esirliği, kölelik ve
+devşirme farklı hukukî-emek düzenleridir; tek “hoşgörü” veya “baskı” etiketiyle
+toplanamaz. Her kurumda rıza, zor ve yükselme imkânının kimler için nasıl
+dağıldığı sorulmalıdır.
+
+## Reform, uluslaşma ve imparatorluk sonu
+
+Tanzimat eşit tebaa, düzenli vergi ve merkezî idare dilini güçlendirdi; uygulama
+eski aracılar, dış müdahale ve mali borçla sınandı. Reform yalnız Batı baskısının
+kopyası veya içeriden kesintisiz ilerleme değildi. Devleti koruma, gelir artırma,
+asker toplama ve farklı toplulukların bağlılığını yeniden kurma çabaları aynı
+pakette birleşti.[^k1]
+
+Milliyetçi hareketler imparatorluk kurumlarının dışında doğmadı; okul, basın,
+yerel meclis, dinî ağ ve uluslararası müdahale içinde gelişti. Her ayrılık aynı
+neden ve toplumsal tabana sahip değildi. Savaş, zorunlu göç ve kitlesel şiddet
+imparatorluk çözülmesinin ağır insanî boyutunu oluşturdu.
+
+1922’de hanedan egemenliğinin kaldırılması siyasi sonu belirler; hukuk, bürokrasi,
+şehir, sınır ve hafıza mirası farklı devletlerde yaşamayı sürdürdü. Osmanlı
+tarihini bugünkü ulusların her birine paylaştırmak kadar yalnız tek bir ulusal
+devletin önsözü saymak da çok merkezli yapıyı daraltır.[^k1]
+
+Sağlam bir okuma her yüzyıl için aynı dört soruyu yeniden sorar: Gelir nasıl
+toplanıyor, asker nasıl sağlanıyor, hukuk kimler aracılığıyla uygulanıyor, yerel
+topluluk merkezle nasıl pazarlık ediyor? Bu soruların cevapları değiştikçe
+imparatorluğun kurumsal biçimi de değişir. Uzun ömrün açıklaması değişmezlik
+değil, maliyetli ve eşitsiz de olsa sürekli yeniden yapılanmadır.[^k1][^k2][^k3][^k4]

@@ -189,11 +189,11 @@ kabul edilirse, İngilizce metnin öngördüğü yapı geçerli sayılır.
 Dördüncü ölçüt bir metin seçmez.[^k2] Çelişkiyi çözülecek bir hata
 değil, ilişkinin kurucu verisi sayar.
 
-## Korpusun bu tartışmadaki konumu
+## Karar vermenin sınırı
 
-Seçim, hukuki ve siyasi bir karardır; korpusun yetki
-alanında değildir ve bu incelemenin amacı da bir karar vermek değil, kararın hangi
-ölçütlere göre verilebileceğini görünür kılmaktır.[^k3]
+Seçim hukuki ve siyasi bir karardır. Buradaki amaç karar vermek değil, kararın hangi
+ölçütlere dayanabileceğini ve her ölçütün neyi dışarıda bıraktığını görünür
+kılmaktır.[^k3]
 
 İki metnin varlığı ve farkı bir yorum değil,
 künyelenmiş bir belgeden doğrudan okunabilen bir olgudur.[^k1]
@@ -204,8 +204,8 @@ gelmez.
 
 ## Kaynak seçiminin gerekçesi
 
-Bu incelemenin birinci künyesi, iki metni birlikte basan bir eke
-dayanır.[^k1] Yalnızca İngilizce metni veren bir kaynak, tartışmanın
+Birinci kaynak, iki metni birlikte basan bir eke dayanır.[^k1] Yalnızca İngilizce
+metni veren bir kaynak, tartışmanın
 konusunu görünmez kılardı.
 
 İkinci künye, iddiaları inceleyen resmî kuruldur ve taraf
@@ -319,14 +319,13 @@ Uygulama ölçütü ise ters yönde geniş sonuç verir.[^k1] Uygulanmış her
 düzeni kendi temeli hâline getirdiği için, itiraz edilebilecek belge
 sayısını neredeyse sıfıra indirir.
 
-## Korpusun kendi künyelerine etkisi
+## Çok dilli belgeyi kaynak gösterme kuralı
 
-Tartışmanın korpus için doğrudan bir sonucu vardır.[^k1] Çok dilli bir
+Tartışmanın kaynak kullanımı için doğrudan bir sonucu vardır.[^k1] Çok dilli bir
 belgeye atıf yapılırken hangi dildeki metnin kastedildiği yazılmalıdır.
 
-Kural bu incelemeden sonra korpusun bütün antlaşma künyelerine
-uygulanır.[^k4] Önceki künyelerde bu bilgi eksikse, borç defterine
-yazılır.
+Bu kural bütün antlaşma künyelerine uygulanmalıdır.[^k4] Önceki künyelerde dil ve
+sürüm bilgisi eksikse kayıt tamamlanmalıdır.
 
 Kural bir konum seçimi değildir.[^k3] Hangi metnin bağlayıcı olduğu
 tartışmalıyken, hangi metnin alıntılandığı tartışmalı değildir ve
@@ -341,9 +340,9 @@ dağılımı — bunlar belgeden doğrudan okunur.
 Çözülmemiş olan, farkın hukuki sonucudur.[^k3] Dört konum da aynı
 olgulara bakar ve farklı sonuçlara varır.
 
-Ayrımın korunması korpusun temel işidir.[^k2] Bir tartışmanın sürmesi,
-tartışmanın dayandığı olguların da tartışmalı olduğu anlamına gelmez ve
-bu iki durumu birbirine karıştırmak en yaygın hatadır.
+Olguyla yorum arasındaki ayrımı korumak zorunludur.[^k2] Bir tartışmanın sürmesi,
+dayandığı bütün olguların da tartışmalı olduğu anlamına gelmez; bu iki durumu
+birbirine karıştırmak en yaygın hatalardandır.
 
 ## Tartışmanın açık ucu
 
@@ -357,14 +356,14 @@ Bu konumun sınanması zordur.[^k3] Bir ölçüt önermediği için, uygulandı�
 hangi sonuca götürdüğü de önceden söylenemez ve değerlendirme ancak
 sonradan yapılabilir.
 
-## Bu tartışmanın korpusa kattığı kural
+## Tartışmadan çıkan genel kural
 
 Tartışmadan çıkan kural tek cümleyle ifade edilebilir.[^k1] **Bir
 belgenin ne söylediği, hangi metninin okunduğuna bağlı olabilir ve bu
 bağlılık belgenin kendisinden okunmaz.**
 
-Kural, korpusun kanıt dosyasındaki ölçümlerle aynı ailedendir.[^k4] Orada
-kanıtın türü soruları belirliyordu; burada metnin dili sonucu belirliyor.
+Kural, kanıt türü ile sorulabilecek soru arasındaki ilişkiyi genişletir.[^k4]
+Belgenin türü soruyu, metnin dili ise yorumun sınırlarını belirleyebilir.
 
 İki durumun ortak yanı şudur.[^k3] Kaynağın biçimsel özellikleri,
 içeriğinden bağımsız olarak sonucu etkiler ve bu etki ancak ayrıca
@@ -398,9 +397,9 @@ asıl nüsha değildir ve bu, atıf yapılırken belirtilmelidir.[^k2]
 
 ## Erişimin tartışmaya etkisi
 
-Bir belgenin hangi metninin daha kolay bulunduğu, hangi metnin
-okunacağını da belirler.[^k1] Bu inceleme yazılırken yapılan arama, önce
-yalnızca İngilizce metni verdi.
+Bir belgenin hangi sürümünün daha kolay bulunduğu, hangisinin okunacağını da
+belirler.[^k1] Kaynak taramasında İngilizce metnin önce görünmesi, bu erişim
+yanlılığının somut örneğidir.
 
 Yerel dildeki metne ulaşmak, bir görgü tanığının kitabının ekine inmeyi
 gerektirdi.[^k4] Erişim farkı, iki metnin ağırlığını sessizce
@@ -412,13 +411,13 @@ belirler ve bu etki bir gerekçe değildir.
 
 ## Konumların sayısı üzerine
 
-Bu inceleme dört konum kurar ama alan dörtle sınırlı değildir.[^k3] Kimi
+Burada dört konum karşılaştırılır ama alan dörtle sınırlı değildir.[^k3] Kimi
 yaklaşımlar iki metni ayrı ayrı geçerli sayıp uygulama alanlarını
 bölmeyi önerir; kimileri sorunun bir üst düzeye, tanıma ve devletler
 hukukuna taşınması gerektiğini savunur.
 
-Bu yaklaşımlar dosyaya alınmadı.[^k4] Nedeni değersiz görülmeleri değil,
-bu inceleme yazıldığında doğrulanabilir bir kaynakla künyelenememeleridir.
+Bu yaklaşımlar değersiz görüldükleri için değil, doğrulanabilir bir kaynakla
+künyelenemedikleri için karşılaştırmaya alınmadı.[^k4]
 
 Eksik burada beyan edilir.[^k1] Dört konumun alanın tamamı olduğu
 izlenimi verilmemelidir; künyelenebilir kaynak bulunduğunda dosya
@@ -431,19 +430,27 @@ kendisine dayanarak kurulmuştur; taraflardan birinin bugünkü taleplerini
 desteklemek ya da reddetmek gibi bir amaç taşımazlar.
 
 Konumların savunanları kişi adlarıyla değil çizgi ve yaklaşım adlarıyla
-verilmiştir.[^k4] Nedeni korpusun kütük kuralıdır: bir kişiyi savunmadığı
-bir konuma yerleştirmek, yapılabilecek en ağır hatadır ve doğrulanamayan
-atıf yerine yaklaşım adı kullanılır.
+verilmiştir.[^k4] Bir kişiyi savunmadığı konuma yerleştirmemek için, doğrulanamayan
+kişi atfı yerine yaklaşım adı kullanılır.
 
-Dört konum, alanın tamamını kapsamaz.[^k3] Başka ölçütler önerilmiştir ve
-bu inceleme yazıldığında doğrulanabilir kaynakla künyelenemedikleri için
-alınmamışlardır; eksik, korpusun borç defterine yazılmıştır ve kaynak
-bulunduğunda kapatılmalıdır.
+Dört konum alanın tamamını kapsamaz.[^k3] Başka ölçütler de önerilmiştir; fakat
+doğrulanabilir kaynakla künyelenemedikleri için alınmamışlardır. Uygun kaynak
+bulunduğunda karşılaştırma genişletilmelidir.
+
+## Çeviri farkından anayasal ilişkiye
+
+İki metin arasındaki ayrılık yalnız sözlük karşılığı seçilerek çözülemez. İmza
+sürecindeki açıklamalar, Māori kavramlarının dönemin siyasal anlamı ve antlaşmanın
+sonraki uygulaması birlikte değerlendirilmelidir.[^k1][^k3] Waitangi Tribunal'ın
+varlığı, metin yorumunun geçmişe ait kapalı bir filoloji sorusu değil, süren bir
+anayasal ve siyasal ilişki olduğunu gösterir.[^k2] Bu yüzden hangi metnin “doğru”
+olduğunu seçmekten önce, her yorumun hangi kanıta ve hangi hukuk anlayışına dayandığı
+açıkça belirtilmelidir.
 
 ## Okumayı sürdürmek için
 Antlaşmanın kendisi, iki metnin ayrıldığı maddeler ve imza süreci için
-[Waitangi Antlaşması](/olay/waitangi-antlasmasi-1840/) dosyası
-okunmalıdır; bu inceleme onun açık bıraktığı soruyu ele alır.[^k1]
+[Waitangi Antlaşması](/olay/waitangi-antlasmasi-1840/) yazısı okunmalıdır; buradaki
+tartışma olay anlatısının açık bıraktığı metin sorununu ele alır.[^k1]
 
 Tarafların dosyaları için [Maori](/aktor/maori/) ve
 [Britanya İmparatorluğu](/aktor/britanya-imparatorlugu/), devredildiği

@@ -490,10 +490,24 @@
       ],
       "guven": "orta",
       "inceleme": "Yorum cumlesi: paradoksun kapsamina dair degerlendirme kayitta yoktur."
+    },
+    {
+      "iddia_id": "ek001",
+      "cumle": "David Kaplan'ın 2000'de Journal of Anthropological Research dergisinde yayımladığı yazı ise aynı okumanın karanlık tarafını konu edinir.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yazar, yıl, dergi ve makalenin olumsuz sonuçları konu alan başlığı k10'un künyesinde doğrudan doğrulanır."
     }
   ],
   "sayaclar": {
-    "dogrudan": 26,
+    "dogrudan": 27,
     "kismi": 4,
     "desteksiz": 0,
     "olculemez": 3

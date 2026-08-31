@@ -63,7 +63,7 @@ onarim_turu: 0
 Bu devlet, yedinci yüzyıldaki büyük toprak kaybından sonra sekiz yüzyıl daha
 sürdü. Adı ise kendisine ait değildir. Bizans İmparatorluğu terimi ancak
 devletin sona ermesinden sonra türetilmiştir; yurttaşları kendileri için
-"Roman Empire" terimini kullanıyor ve kendilerini Romalı olarak
+*Roman Empire* terimini kullanıyor ve kendilerini Romalı olarak
 adlandırıyorlardı.[^k1] Bu
 dosya, adlandırmanın kendisinin bir tarih yazımı kararı olduğu noktadan başlar.
 
@@ -113,6 +113,129 @@ Dönemlendirme hükümdarlarla yapılır: I. Konstantinos 306–337, I. Theodosi
 379–395, II. Theodosius 408–450, I. Iustinianos 527–565 ve Herakleios 610–641
 arasında hüküm sürer.[^k1] En geniş sınırlarla en büyük daralmanın arasında
 yalnızca iki kuşak vardır.
+
+## Konstantinopolis neden dayanıklı bir merkezdi
+
+Başkent Boğaziçi, Marmara ve Haliç'in birleştiği yerde Karadeniz ile Akdeniz
+güzergâhlarını denetliyordu. Üç yanı suyla çevrili yarımada, Theodosius surları
+ve deniz duvarlarıyla birlikte güçlü bir savunma sağladı.[^k1] Fakat sur tek
+başına kenti yaşatamazdı. Trakya'dan gelen su kemerleri, sarnıçlar, limanlar ve
+devletin tahıl tedariki yüz binlerce insanın kuşatma altında kalabilmesini
+mümkün kılıyordu.
+
+Konstantinopolis yalnız askerî kale değil, vergi ve bilgi düğümüydü. Saray,
+senato, patrikhane, hipodrom, atölyeler ve limanlar aynı kentte yoğunlaştı.
+Taşradaki bir görevlinin kariyeri, bir tüccarın imtiyazı ya da bir piskoposun
+anlaşmazlığı başkentte çözülebiliyordu. Bu yoğunlaşma devlete direnç verdi;
+başkentteki darbe, yangın veya salgının bütün sisteme yayılma riskini de artırdı.
+
+## Iustinianos'un yeniden fetih hesabı
+
+I. Iustinianos döneminde Kuzey Afrika Vandallardan, İtalya'nın büyük bölümü
+Ostrogotlardan alındı ve İspanya kıyısında tutunma sağlandı.[^k1] Bu seferler
+Roma Akdenizi'ni yeniden birleştirme iddiasını görünür kıldı. Aynı dönemde Roma
+hukuk birikimi *Corpus Juris Civilis* içinde düzenlendi; Ayasofya, 532'deki Nika
+Ayaklanması sonrasında yeniden inşa edildi.[^k1]
+
+Başarı haritada büyüme, maliyede ise daha karmaşık bir sonuçtu. Uzun Got savaşı
+İtalya'nın kentlerini ve vergi tabanını yıprattı; doğu sınırındaki Sasani savaşı
+devam etti. 540'lardan itibaren görülen büyük salgın nüfus ve gelir üzerinde
+ek baskı yarattı. Yeniden fetih bu nedenle yalnız kayıp eyaletleri geri alma
+değil, devletin aynı anda kaç cepheyi ve krizi taşıyabileceğinin sınavıydı.[^k1]
+
+## Hukuk sürekliliği ile değişim birlikte yürüdü
+
+Iustinianos derlemesi eski imparator kararlarını ve hukukçu yorumlarını seçip
+düzenledi. Amaç yalnız geçmişi korumak değil, çelişkili metinleri güncel yönetim
+için kullanılabilir hale getirmekti.[^k1] Daha sonraki yüzyıllarda Yunanca
+özetler ve yeni kanunlar çoğaldı; toprak, aile ve ceza uygulamaları toplumsal
+değişime göre uyarlandı.
+
+Bu durum "Roma hukuku değişmeden sürdü" cümlesini sınırlar. Kurumsal soy vardı,
+fakat dil, mahkeme pratiği ve toplumsal çevre dönüşüyordu. Bizans'ın Roma
+niteliği eski biçimi dondurmasında değil, hukuki otoriteyi yeniden yorumlayarak
+kullanmasında görülür.[^k1]
+
+## Tema düzeni tek tarihte doğmadı
+
+7. yüzyıldaki ağır toprak kayıpları, eski büyük eyaletlerle sınır orduları
+arasındaki düzeni değiştirdi. Anadolu'daki askerî bölgeler zamanla *tema* adıyla
+anılan idari yapılara dönüştü; askerî komuta ile vergi ve toprak ilişkileri daha
+yakın hale geldi.[^k1] Bu dönüşüm tek bir imparatorun bir günde yaptığı reform
+değil, savaş koşullarında aşamalı bir uyarlamaydı.
+
+Yerel askerî güç hayatta kalmayı kolaylaştırırken başarılı komutanların tahta
+aday olma ihtimalini de büyüttü. Merkez, birlikleri birbirinden ayırmak, maaş ve
+toprak düzenini denetlemek ve saraya bağlı profesyonel kuvvetler kurmak zorunda
+kaldı. Bizans askerî tarihi bu yüzden *köylü askerler imparatorluğu kurtardı*
+gibi tek bir kuruma indirgenemez.[^k1]
+
+## Vergi, sikke ve devletin gündelik yüzü
+
+Altın solidus, yüzyıllar boyunca geniş coğrafyada güvenilir para olarak işledi;
+devlet vergiyi topluyor, ordu ve görevlilere ödeme yapıyor, bu harcama pazarlara
+yeniden dağılıyordu.[^k1] Para ekonomisinin varlığı ayni yükümlülükleri ortadan
+kaldırmadı. Köylü haneleri arazi vergisi, ürün kaybı, asker geçişi ve yerel
+güç sahiplerinin talepleriyle aynı anda karşılaşabiliyordu.
+
+Merkezin dayanıklılığı, vergi verebilen küçük üreticilerin sürekliliğine bağlıydı.
+Büyük toprak sahiplerinin köyleri kendi korumasına alması kısa vadede güvenlik
+sağlayabilir, uzun vadede devletin doğrudan gelirini azaltabilirdi. İmparatorların
+"güçlüler" karşısında küçük mülkü koruyan kararları, ideal ile uygulama
+arasındaki bu gerilimi gösterir.
+
+## İkonoklazm yalnız resim tartışması değildi
+
+8. ve 9. yüzyıllardaki tasvir karşıtlığı, kutsal imgelerin ibadetteki yerini
+tartıştı; imparator, patrik, keşişler, piskoposlar ve halk bu çatışmada farklı
+konumlar aldı.[^k1] İkonların yasaklanması ya da geri getirilmesi, yalnız estetik
+tercih değil, kutsal otoriteyi kimin tanımlayacağı sorusuydu.
+
+Bu mücadeleyi doğrudan İslam etkisi veya askerî yenilginin tek sonucu saymak
+kanıtı aşar. Teolojik yorumlar, saray-kilise ilişkisi, manastır serveti ve
+bölgesel deneyimler birlikte rol oynadı. 843'te ikonaların geri dönüşü tartışmayı
+kapatsa da imparatorun kilise içindeki etkisini ortadan kaldırmadı.[^k1]
+
+## Diplomasi savaşın başka bir biçimiydi
+
+Bizans sarayı unvan, evlilik, armağan, para, dinî misyon ve töreni dış politika
+aracı olarak kullandı.[^k1] Bulgar, Rus, Ermeni, Gürcü, Peçenek ve başka
+komşular bazen düşman, bazen müttefik, bazen imparatorluk hiyerarşisi içinde
+onurlandırılan ortak oldu. Bir topluluğu Hristiyanlaştırmak, onun siyasal olarak
+tam bağımlı hale geldiği anlamına gelmiyordu.
+
+Saray töreninin görkemi de pazarlığın parçasıydı. Elçi, altın ve ipekle çevrili
+imparatoru dünya düzeninin merkezinde görmeliydi. Fakat bu sahne gerçek güç
+dengesini maskeleyebilirdi; hazine zayıfsa aynı saray haraç ödeyebilir veya
+rakip grupları birbirine karşı kullanabilirdi. Diplomatik esneklik, küçük kalan
+bir devletin büyük komşular arasında süre kazanma yollarından biriydi.
+
+## 1204 kırılması ve 1453 sonu
+
+Dördüncü Haçlı Seferi'nin 1204'te Konstantinopolis'i ele geçirip yağmalaması,
+devletin Hristiyan batı ile ortak din üzerinden güvenli bir ittifak kuramadığını
+gösterdi.[^k1] İznik, Epir ve Trabzon'daki ardıl yönetimler Roma mirası üzerinde
+hak iddia etti; İznik yönetimi 1261'de başkenti geri aldı. Fakat limanlar,
+gelirler, sanat eserleri ve siyasal bütünlük eski düzeyine dönmedi.
+
+Son iki yüzyılda imparatorluk çoğu zaman Konstantinopolis ve çevresine daraldı;
+hanedan iç savaşları, Ceneviz ve Venedik imtiyazları ile Osmanlı genişlemesi
+hareket alanını azalttı.[^k1] 1453'te top teknolojisi ve kuşatma düzeni surların
+avantajını kırdı. Yine de sonu yalnız "top suru yendi" diye anlatmak, yüzyıllık
+mali, bölgesel ve diplomatik daralmayı tek güne yükler.
+
+## Bizans'ı okurken üç sürekliliği ayırmak
+
+Devletin Roma adı, Hristiyan imparatorluk fikri ve Yunanca kamusal kültür aynı
+hızda gelişmedi. Roma hukuk ve hükümdarlık iddiası antik mirası taşırken
+Hristiyanlık kurumların amaç dilini dönüştürdü; Yunancanın yönetimde baskın hale
+gelmesi ise yüzyıllara yayıldı.[^k1] Bu üç çizgiyi tek bir "Bizanslaşma" anına
+sıkıştırmak, devletin değişerek devam etme yeteneğini görünmez kılar.
+
+Bir dönemdeki özellik bütün bin yıla taşınmamalıdır. Iustinianos'un Akdeniz
+devleti, 8. yüzyılın daralmış Anadolu-Balkan düzeni ve Palaiologosların kent
+merkezli son devleti aynı kurum, gelir ve dış çevreye sahip değildi. Ortak ad,
+zaman içindeki büyük farkları karşılaştırma gereğini ortadan kaldırmaz.[^k1]
 
 ## Çağdaş dünya
 

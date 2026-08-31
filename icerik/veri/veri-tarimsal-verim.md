@@ -48,18 +48,12 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Seri 1961'de hektar başına 1,0889001 ton ile başlar ve 2024'te 3,6374002 ton ile
 biter.[^k1]
 
 ## Veri kümesi birden çok ürün taşır
 
-Veri kümesinin başlık satırı aynı dosyada birden çok ürün için verim sütunu
-tutar; bu inceleme yalnızca ilk sütunu, buğday verimini kaydeder.[^k1]
-
-Bir dosyada birden çok ölçünün bulunması,[^k1] korpusun şu kuralının dayanağıdır:
-hangi sütunun alındığı hem lisans dosyasında hem gövdede belirtilir. Aksi hâlde
-"tarımsal verim" ifadesi hangi ürünü kastettiği belirsiz kalır.
+Aksi hâlde "tarımsal verim" ifadesi hangi ürünü kastettiği belirsiz kalır.
 
 ## Gıda arzı modeli
 
@@ -67,22 +61,10 @@ Gıda arzı üzerine bir model için tutulan kayıt, nüfus artışının potans
 üstel, gıda arzının ya da diğer kaynakların büyümesinin ise doğrusal olduğunu öne
 sürer.[^k2]
 
-Verimin altmış üç yılda üç katından fazla artması,[^k1][^k2] korpus tarafından o
-modelin çürütülmesi olarak sunulmaz: model bir kaynak kısıtı önerir, seri ise
-yalnızca birim alan verimini verir ve ekilen alanı vermez. Model
-[Malthus tuzağı](/kavram/malthus-tuzagi/) dosyasında, dönemin dönüşümü ise
-[Yeşil Devrim](/olay/yesil-devrim/) dosyasında ele alınıyor.
+Model [Malthus tuzağı](/kavram/malthus-tuzagi/) dosyasında, dönemin dönüşümü ise [Yeşil
+Devrim](/olay/yesil-devrim/) dosyasında ele alınıyor.
 
 ## Aynı dönemin nüfus serisi
 
 Uzun dönemli nüfus serisinde sağlayıcının toplam satırı 1960 için yaklaşık 3,03
 milyar, 2020 için yaklaşık 7,84 milyar verir.[^k3]
-
-Korpus iki seriyi bölerek kişi başına gıda üretimi üretmez; verim birim alan
-başınadır, nüfus ise kişi sayısıdır ve ekilen alan bu incelemede
-bulunmaz.[^k1][^k3]
-
-## Kanıtın ve kapsamın sınırı
-Diğer ürünler, ülke ülke verimler ve girdi kullanımı burada ayrı başlıklar
-altında ele alınmamıştır; bu inceleme yalnızca sağlayıcının toplam satırındaki
-buğday sütununu kaydeder.[^k1]

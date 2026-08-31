@@ -56,12 +56,10 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Nerede durduğu
 
-Sokoto Hilafeti, Batı Afrika'nın Sahra altı savan kuşağında, birbirinden
-bağımsız şehir devletlerinin bulunduğu bir bölgede kuruldu.[^k1][^k3] Korpusun
-bölge şemasında Afrika ile İslam dünyasının kesiştiği yerde durur.
+Sokoto Hilafeti, Batı Afrika'nın Sahra altı savan kuşağında, birbirinden bağımsız şehir
+devletlerinin bulunduğu bir bölgede kuruldu.[^k1][^k3]
 
 Kuruluş, dışarıdan bir fetihle değil bölgenin kendi içinden bir hareketle
 gerçekleşti.[^k1][^k2] Hareketi başlatan kişi bir âlimdi ve gerekçesini
@@ -77,9 +75,8 @@ Hareketin lideri, siyasi eyleme geçmeden önce yıllarca ders verdi ve yazdı;
 metinleri bölgede dolaşımdaydı.[^k1][^k4] Devlet kurulduğunda, dayandığı
 ilkeler zaten yazılı biçimde bulunuyordu.
 
-Bu sıralamanın korpus açısından değeri büyüktür.[^k2] Bir düzenin kendi
-gerekçesini kendi kalemiyle ve iktidara gelmeden önce yazmış olması, sonradan
-düzenlenmiş meşruiyet anlatılarından ayrıştırılabilmesini sağlar.
+Bir düzenin kendi gerekçesini kendi kalemiyle ve iktidara gelmeden önce yazmış olması,
+sonradan düzenlenmiş meşruiyet anlatılarından ayrıştırılabilmesini sağlar.
 
 Külliyat yalnızca liderin değildir.[^k1] Ailesinden ve çevresinden başka
 kişiler de yazdı; bölgede bir yönetim edebiyatı oluştu ve bu, sonraki
@@ -108,10 +105,7 @@ Bu gerginlik, hareketin toplumsal tabanını açıklar.[^k2] Dinî gerekçe ile
 maddi şikâyet aynı hareket içinde bulundu ve hangisinin belirleyici olduğu
 tartışmalıdır.
 
-::tartismali[Hareketin öncelikle dinî bir yenilenme mi yoksa yerleşik
-yönetimlerle göçer topluluklar arasındaki bir çıkar çatışması mı olduğu
-tartışmalıdır; ikisi de aynı kaynaklardan çıkarılabilir. Korpus bir sonuca
-bağlanmaz.]{harita=tartisma-buyuk-adam-kurami}
+::tartismali[Hareketin öncelikle dinî bir yenilenme mi yoksa yerleşik yönetimlerle göçer topluluklar arasındaki bir çıkar çatışması mı olduğu tartışmalıdır; ikisi de aynı kaynaklardan çıkarılabilir.]{harita=tartisma-buyuk-adam-kurami}
 
 ## Emirlik yapısı
 
@@ -119,9 +113,8 @@ Kurulan düzen tek merkezli değildi; birbirine bağlı emirliklerden
 oluşuyordu.[^k1][^k4] Her emirlik kendi yönetimini yürütüyor, merkeze
 bağlılığını düzenli ödeme ve tanınma yoluyla bildiriyordu.
 
-Bu yapı, korpusun başka bölgelerinde kaydettiği katmanlı egemenlik
-biçiminin bir örneğidir.[^k3] Merkez, emirliklerin gündelik yönetimine
-karışmıyor; atama onayı ve anlaşmazlık çözümüyle yetiniyordu.
+Merkez, emirliklerin gündelik yönetimine karışmıyor; atama onayı ve anlaşmazlık
+çözümüyle yetiniyordu.
 
 Yapının avantajı geniş bir alanı az maliyetle yönetebilmesidir.[^k1]
 Dezavantajı, merkezin zayıfladığı anda emirliklerin ayrı ayrı hareket
@@ -136,18 +129,15 @@ genişledi.
 Burada somut hâli, bir yönetimin kendi işleyişini
 yazıya bağlamasının kayıt bırakma kapasitesini de artırmasıdır.[^k1]
 
-Bu kapasitenin sonucu, korpus açısından doğrudan bir kazançtır.[^k4] Bölgenin
-bu dönemine dair yerli yazılı kaynak, önceki yüzyıllara göre çok daha
-fazladır.
+Bölgenin bu dönemine dair yerli yazılı kaynak, önceki yüzyıllara göre çok daha fazladır.
 
 ## Ekonomik temel
 
 Düzenin geliri tarım, hayvancılık ve Sahra ticaretinden geliyordu.[^k1][^k3]
 Bölge, kuzeye giden kervan yollarının güney ucundaydı.
 
-Aynı konum, korpusun önceki Batı Afrika dosyalarında da kaydedilmiştir.[^k3]
-Sahra ticaretinin güney ucunu tutan düzenler, geçiş gelirini üretim
-geliriyle birleştirebildikleri ölçüde uzun ömürlü olmuştur.
+Sahra ticaretinin güney ucunu tutan düzenler, geçiş gelirini üretim geliriyle
+birleştirebildikleri ölçüde uzun ömürlü olmuştur.
 
 Bu düzen ikisini birden taşıyordu.[^k1] Tarım fazlası ve ticaret geliri
 birlikte, bir yüzyıl boyunca geniş bir alanı finanse etti.
@@ -161,10 +151,6 @@ emeğine dayanıyordu.
 Bu olgu, hareketin kendi gerekçesiyle gerilim içindedir.[^k1] Hareket, mevcut
 yönetimleri kendi ilan ettikleri ilkelere uymamakla suçlamıştı; kurduğu düzen
 de benzer bir tutarsızlık iddiasına açıktır.
-
-Dönemin hukuk anlayışında köleliğin nasıl
-çerçevelendiği ayrı bir dosya gerektirir ve bu inceleme yazıldığında korpusta
-bulunmuyordu.[^k4]
 
 ## Kadınların eğitimi
 
@@ -181,9 +167,7 @@ değildir.[^k1]
 
 ## Komşularla ilişki
 
-Düzenin doğusunda, korpusta ayrı bir dosyası bulunan daha eski bir siyasi
-birim vardı.[^k1][^k3] İki düzen arasındaki ilişki çatışma ve karşılıklı
-tanıma dönemleri içerdi.
+İki düzen arasındaki ilişki çatışma ve karşılıklı tanıma dönemleri içerdi.
 
 Karşılaştırma bilgilendiricidir.[^k3] Biri yüzyıllardır süren bir hanedan
 düzeni, öteki bir yüzyıl içinde kurulmuş bir hareket devletiydi; ikisi de
@@ -202,8 +186,7 @@ Sonun biçimi, kuruluş yapısıyla doğrudan ilişkilidir.[^k1] Katmanlı bir
 düzende merkezin düşmesi bütünün teslimi anlamına gelmez; her emirlik kendi
 kararını verir ve süreç uzar.
 
-Aynı yapı, korpusun Açe dosyasında da kaydedilmiştir.[^k4] Dağınık düzenler
-yavaş ve parça parça çözülür; merkezîleşmiş düzenler tek bir darbeyle
+Dağınık düzenler yavaş ve parça parça çözülür; merkezîleşmiş düzenler tek bir darbeyle
 çöker.
 
 ## Sömürge yönetimine devir
@@ -234,41 +217,19 @@ değil, kaynakların ortak vurgusuna dayanır.[^k1]
 
 ## Kaynak durumu
 
-Bu inceleme dört kaynağa dayanır ve **hiçbiri birincil değildir.**[^k1][^k2][^k3][^k4]
-Bu, hareketin kendi külliyatının varlığı düşünüldüğünde özellikle
-dikkat çekicidir.
-
 Külliyatın Arapça ve yerel dillerdeki metinleri bilinmektedir ve bir bölümü
-yayımlanmıştır.[^k1] Doğrulanabilir, katalog künyesiyle teyit edilmiş ve tam
-metin olarak erişilebilir bir baskısı bu inceleme yazıldığında bulunamamıştır.
+yayımlanmıştır.[^k1]
 
-Bu, korpusun Afrika dosyalarında tekrar eden bir eğilimin devamıdır.[^k4] Aynı
-dönemin Avrupa metinleri tek aramada bulunurken bu külliyat
-bulunamamaktadır; kayıt yokluğu değil, dijital erişim yokluğu söz
-konusudur.
-
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun Afrika aktör katmanına on dokuzuncu yüzyıldan bir düzen
-ekler.[^k3] Katmandaki öteki dosyalar ağırlıklı olarak daha erken
-dönemlerdeydi.
-
-Ayrımın önemi şudur: Afrika'nın sömürge öncesi son yüzyılı, korpusta
-yalnızca sömürge yayılmasının arka planı olarak görünüyordu.[^k4] Bu inceleme,
-aynı yüzyılda bölgede kurulmuş ve işleyen bir düzeni kaydeder.
-
-Bir kıtanın tarihini yalnızca ona ne yapıldığıyla anlatmak, korpusun
-kaçındığı anlatım biçimidir.[^k1] Bu inceleme o kaçınmanın somut
-karşılığıdır.
+Aynı dönemin Avrupa metinleri tek aramada bulunurken bu külliyat bulunamamaktadır; kayıt
+yokluğu değil, dijital erişim yokluğu söz konusudur.[^k1]
 
 ## Açıkta kalan sorular
 Hareketin askerî seferleri, muharebeleri ve genişleme aşamaları burada
 işlenmez.[^k4] Ayrı bir dosya gerektirir.
 
-Külliyatın içeriği ve hukuk görüşleri de kapsam dışıdır.[^k1] Bunun için
-metinlerin kendisi gerekir ve bu inceleme yazıldığında künyeye alınamamıştır.
+Külliyatın içeriği ve hukuk görüşleri de kapsam dışıdır.[^k1]
 
-Bölgenin sonraki sömürge ve bağımsızlık dönemi burada verilmez.[^k3] Korpusun
-ilgili dosyaları o dönemleri ele alır.
+Bölgenin sonraki sömürge ve bağımsızlık dönemi burada verilmez.[^k3]
 
 ## Bir yüzyıllık ömrün anlamı
 
@@ -276,10 +237,8 @@ Düzen yaklaşık bir yüzyıl sürdü ve bu hanedan
 düzenlerinin çoğundan kısadır.[^k1][^k4] Kısalık, dosyanın gerekçesini
 zayıflatmaz.
 
-Bir siyasi birimin korpusa girme ölçütü süresi değil, bir yapıyı ne kadar
-açık gösterdiğidir.[^k2] Burada gösterilen yapı, bir metin külliyatının
-önce bir hareket, sonra bir devlet üretmesidir ve bu, tek bir yüzyıl
-içinde baştan sona izlenebilir.
+Burada gösterilen yapı, bir metin külliyatının önce bir hareket, sonra bir devlet
+üretmesidir ve bu, tek bir yüzyıl içinde baştan sona izlenebilir.
 
 Uzun ömürlü düzenlerde aynı süreç yüzyıllara yayılır ve başlangıç anı
 kayıtlardan silinir.[^k1] Kısa ömürlü örneklerin kaydedilmesi, bu
@@ -305,3 +264,42 @@ kayıt yokluğunda nesne kanıtı belirleyicidir.[^k2]
 
 Aynı yılları bütün bölgeler üzerinden okumak için [Dönem 11](/donem/11/)
 dosyası kullanılmalıdır.
+
+## Metinden harekete, hareketten devlete
+
+Osman dan Fodio ve çevresinin yazıları dinî yenilenme, adalet ve meşru yönetim
+iddialarını açık biçimde kaydeder.[^k1][^k2] Bu külliyat devletin kuruluş diline
+doğrudan erişim sağlar; hareketin bütün katılımcılarının aynı gerekçeyle savaştığını
+göstermez. Çoban, köylü, âlim ve yerel yönetici mevcut vergi, güvenlik ve statü
+sorunlarını bu dil içinde farklı biçimlerde yorumlamış olabilir.
+
+Cihadın askerî başarısı geniş alanı tek merkezden yönetme sorununu doğurdu.
+Emirlikler yerel yönetim ve gelir toplamada hareket alanı taşırken Sokoto’daki
+halife dinî-siyasal üstünlük iddiası kurdu.[^k1][^k4] Yazışma, âlim ağı, görevlendirme
+ve ortak hukuk dili dağınık coğrafyayı birleştirdi. Bu düzen modern üniter devlet
+değil, farklı yoğunlukta bağlı merkezler sistemiydi.
+
+## İdeal ile uygulamanın sınanması
+
+Kurucu metinler adalet ve dinî yükümlülük ölçütü sunar. Tarihsel değerlendirme,
+vergi kayıtları, kölelik, kadınların konumu, yerel çatışma ve mahkeme uygulamasının
+bu ideale ne ölçüde uyduğunu ayrıca araştırmalıdır. Bir düzenin kendi ahlaki
+iddiasını bilmek, iddianın gerçekleştiğini kanıtlamaz; fakat eleştiri için dönemin
+içinden bir ölçü verir.
+
+Sokoto ekonomisinde tarım, zanaat, uzun mesafeli ticaret ve köleleştirilmiş emek
+birlikte yer aldı. Dinî reform dili köleliği kendiliğinden kaldırmadı; kimin meşru
+biçimde köleleştirilebileceği ve uygulamadaki genişleme önemli gerilimler doğurdu.
+Devlet kapasitesi ile toplumsal maliyet aynı bilançoda tutulmalıdır.
+
+Britanya fethi halifeliğin egemenliğini sonlandırırken emirlik kurumlarının bir
+bölümünü dolaylı yönetimde kullandı.[^k3][^k4] Böylece sömürge yönetimi yıktığı
+düzenin yerel otoritesinden yararlandı. Bağımsız Nijerya’daki unvan ve dinî etki
+de siyasi kurumların resmî devlet ömründen daha uzun yaşayabildiğini gösterir.
+
+Metin bolluğu da sıradan insanların deneyimini kendiliğinden görünür kılmaz.
+Âlimlerin yazıları normu ve seçkin tartışmasını güçlü biçimde taşır; köylü,
+köleleştirilmiş kişi ve kadınların uygulamayla ilişkisi için mahkeme, sözlü tarih
+ve yerel kayıtlarla karşılaştırma gerekir.
+
+Norm ile deneyim arasındaki fark açık tutulmalıdır.

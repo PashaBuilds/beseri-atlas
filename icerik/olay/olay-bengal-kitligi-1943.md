@@ -54,7 +54,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne oldu
 
 Yirminci yüzyılın ortasında, savaş yıllarında, bölgede geniş çaplı bir
@@ -65,8 +64,7 @@ Kıtlık, bir kuraklık ya da tam bir hasat kaybı sonrası değil, görece
 sınırlı bir üretim düşüşünün ardından geldi.[^k2] Bu, olayın en çok
 tartışılan yanıdır.
 
-Bu incelemenin konusu ölü sayısı değildir.[^k3] Kıtlığın hangi
-mekanizmayla yayıldığı ve kaydının kim tarafından tutulduğudur.
+Kıtlığın hangi mekanizmayla yayıldığı ve kaydının kim tarafından tutulduğudur.
 
 ## Resmî soruşturma
 
@@ -76,9 +74,8 @@ kıtlığın seyrini, nedenlerini ve yönetimin tepkisini inceledi.
 Rapor kamuya açıktır ve bugün erişilebilir durumdadır.[^k3] Komisyon
 ayrıca bölgeyi aşan bir genel rapor da hazırladı.
 
-Bu inceleme, raporu hem kaynak hem inceleme nesnesi olarak
-kullanır.[^k2] **Bir yönetimin kendi felaketini soruşturması, bir
-kanıt üretir ama tarafsız bir kanıt üretmez.**
+**Bir yönetimin kendi felaketini soruşturması, bir kanıt üretir ama tarafsız bir kanıt
+üretmez. **
 
 ## Üretimin durumu
 
@@ -199,9 +196,6 @@ vardır.
 
 Farkın nedeni yöntemdir.[^k3] Doğrudan açlık ölümleri ile açlığa bağlı
 hastalık ölümlerinin sayılıp sayılmadığı tahmini ikiye katlayabilir.
-
-Bu, korpusun tarihsel sayılar
-kuralının doğrudan uygulanmasıdır: sayı, yöntemiyle birlikte verilmelidir.[^k2]
 
 ## Raporun kendi sınırı
 
@@ -329,7 +323,25 @@ Kıtlıktan etkilenenlerin kendi kaydından bir birincil metin
 künyelenememiştir.[^k2] Künyedeki iki birincil belge de yönetimin
 kurduğu komisyona aittir ve bu kısıt burada beyan edilir.
 
+## Gıda miktarı ile gıdaya erişim arasındaki zincir
+
+Kıtlığı yalnız toplam pirinç açığıyla ölçmek, fiyat artışının farklı meslekleri
+nasıl vurduğunu gizler. Balıkçı teknesine, zanaatkâr siparişe, gündelikçi ücrete,
+küçük çiftçi ise hasat ve toprağa bağlıydı. Savaş talebi ve fiyatlar yükselirken
+geliri aynı hızla artmayan haneler pazardaki gıdaya erişimini kaybetti. Mal
+bulunması satın alma hakkı yaratmadı; borç, hayvan ve toprağın satılması sonraki
+yılların kırılganlığını da büyüttü.[^k1][^k2]
+
+Nedensel zincir bu yüzden dört ayrı kanıt ister: hasat ve ithalatla ölçülen arz,
+nakliye ile bölgeler arası hareket, fiyat–ücret oranı ve yardımın kimlere ne zaman
+ulaştığı. Yönetimin kentleri ve savaşla bağlantılı işçileri öncelemesi, kırsal
+yoksulların görünürlüğünü azalttı. Açlıktan sonra salgınların ölüm getirmesi de
+ölüm belgesindeki son neden ile felaketi başlatan ekonomik süreçleri ayırmayı
+gerektirir. Resmî soruşturma vazgeçilmezdir, fakat kendi görev tanımı ve siyasi
+konumu nedeniyle tek ve son hüküm sayılamaz.[^k1][^k3]
+
 ## Okumayı sürdürmek için
+
 Dönemin yönetimi için
 [Britanya İmparatorluğu](/aktor/britanya-imparatorlugu/) dosyası
 okunmalıdır.[^k1]

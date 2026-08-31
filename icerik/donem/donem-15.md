@@ -171,7 +171,7 @@ olduğunu gösterir.
 
 ## Dönem sınırının gerekçesi
 
-Bu incelemenin başlangıç ve bitiş tarihleri iki olaya bağlanmıştır.[^k1]
+Başlangıç ve bitiş tarihleri iki siyasal ve ekonomik olaya bağlanmıştır.[^k1]
 Başlangıç, iki kutuplu düzenin resmen sona ermesidir.
 
 Bitiş, engellerin kaldırılması eğiliminin ilk kez toplu biçimde
@@ -282,9 +282,8 @@ içeriyordu.
 Bu, önceki düzenden bir farktır.[^k4] Kurallar artık yalnızca yazılı
 değil, uygulanabilir hâle gelmişti.
 
-Bu, korpusun belge tartışmasında kurulan ölçütün
-doğrudan konusudur: bir kuralın yürürlüğü, onu uygulayacak bir mekanizmanın varlığına
-bağlıdır.[^k5]
+Bu örnek hukuk ile uygulama arasındaki temel ayrımı gösterir: bir kuralın yürürlüğü,
+onu hayata geçirecek mekanizmanın varlığına bağlıdır.[^k5]
 
 ## Kuralı kimin yazdığı
 
@@ -414,8 +413,8 @@ bölgeleri de ayrıca adlandırmadan tam sayılmaz.[^k5]
 
 ## Kaydın kendisi
 
-Bu dönem, korpusun en çok veri bulabildiği dönemdir.[^k4] Serilerin
-büyük bölümü bu yıllarda ya başlar ya da kapsamını genişletir.
+Bu dönem için önceki dönemlere göre çok daha fazla sayısal veri bulunur.[^k4]
+Serilerin büyük bölümü bu yıllarda ya başlar ya da kapsamını genişletir.
 
 Bu bir avantaj ve bir risktir.[^k5] Veri bolluğu, önceki dönemlerle
 karşılaştırmayı kolaylaştırmaz, zorlaştırır.
@@ -491,8 +490,8 @@ işgücü verilerinde sistematik bir boşluk üretir.
 Boşluk rastgele değildir.[^k5] Belirli bölgelerde ve belirli iş
 türlerinde yoğunlaşır.
 
-Bu, korpusun toplumsal cinsiyet dosyasında
-tanımlanan kayıt yanlılığının bir başka biçimidir.[^k1]
+Bu görünmezlik, toplumsal cinsiyet tarihindeki kayıt yanlılığının bir başka
+biçimidir.[^k1]
 
 ## Salgın ve sağlık düzeni
 
@@ -627,27 +626,53 @@ eğilimin sona ermesi değil, o eğilimin ilk kez savunulmak zorunda kalmasıdı
 
 ## Dosyanın kendi sınırı
 
-Bu inceleme, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
+Bu dönem anlatısı bütün olayları sıralamaz.[^k1] Her olay kendi
 dosyasında ayrıntılı ele alınır ve burada yalnızca döneme bağlanır.
 
 Bölgesel ayrıntı sınırlıdır.[^k4] Şerit satırları, bölgelerin kendi
 tarihlerinden çok ortak mekanizmanın onlardaki görünümünü verir.
 
-Dönemin sayısal serileri burada yorumlanır, üretilmez.[^k5] Serilerin
-kendi kaynakları, yöntemleri ve başlangıç tarihleri korpusun veri
-dosyalarında ayrı ayrı kayıtlıdır ve bu inceleme onların yerine
-geçmez.[^k2]
+Dönemin sayısal serileri burada yorumlanır, üretilmez.[^k5] Kaynakları, yöntemleri
+ve başlangıç tarihleri bağlantılı veri incelemelerinde ayrı ayrı açıklanır; dönem
+anlatısı bu yöntem notlarının yerine geçmez.[^k2]
 
 
-## Bu incelemenin kaynak tabanı
+## Kaynak tabanı
 
 Dosya beş kaynağa dayanır ve ikisi ansiklopedik, üçü sayısal
 seridir.[^k1] Sayısal seriler dönemin iktisadi, iletişimsel ve
 demografik eksenlerini ayrı ayrı ölçer.
 
 Bu bileşim bilinçlidir.[^k4] Bir dönemin anlatısı tek bir kaynağa
-dayandığında, o kaynağın kendi bölümlemesi dönemin bölümlemesi hâline
-gelir ve bu, korpusun kaçınmaya çalıştığı bir hatadır.[^k5]
+dayandığında, o kaynağın kendi bölümlemesi fark edilmeden dönemin bölümlemesi hâline
+gelir; kaynak çeşitliliği bu çerçeve yanlılığını azaltır.[^k5]
+
+## Bütünleşme yakınsama anlamına gelmedi
+
+1991 sonrasında ticaretin, sermaye hareketlerinin ve dijital iletişimin hızlanması
+dünyayı daha bağlantılı kıldı; fakat bağlantıların artması ülkelerin aynı siyasal ve
+ekonomik modele yaklaşmasını garanti etmedi.[^k1][^k4] Üretimin sınır aşan tedarik
+zincirlerine bölünmesi bazı bölgelerde sanayileşme ve gelir artışı sağlarken iş
+güvencesi, vergi kapasitesi ve çevresel maliyetler üzerine yeni baskılar yarattı.
+Kazançlar ülkeler arasında olduğu kadar ülkelerin kendi içlerinde de eşitsiz dağıldı.
+
+İnternetin yayılması bilgiye erişimi ve örgütlenmeyi dönüştürdü, ancak dijital
+uçurumu hemen ortadan kaldırmadı.[^k5] Aynı ağlar şirketlere ve devletlere daha geniş
+ölçekte veri toplama imkânı verdi. Devletler arası savaşların bazı ölçümlerde azalması,
+Ruanda, Balkanlar, Afganistan ve Irak gibi çatışmaların insani ağırlığını veya savaş
+tanımlarının tartışmasını ortadan kaldırmaz.[^k3] Tek kutupluluk kavramı da ABD'nin
+askerî üstünlüğünü açıklarken Çin'in ekonomik yükselişini, bölgesel güçleri ve devlet
+dışı aktörleri ikincil görme riski taşır. 2008 mali krizi, yüksek bağlantının yalnız
+refahı değil finansal şoku da hızla aktarabildiğini gösterdi. Dönemin ayırt edici
+gerilimi, küresel karşılıklı bağımlılığın ortak ve etkili bir siyasal yönetime
+dönüşmemesidir.
+
+Bu nedenle “küreselleşme”, herkesin aynı ölçüde hareket edebildiği bir sınırların
+kalkışı değil; mal, para, veri ve insanların farklı kurallara bağlı hareketidir.
+Sermayenin geçebildiği bir sınırdan mülteci veya işçi aynı kolaylıkla geçemeyebilir.
+Bu asimetri, devletin ortadan kalkmadığını; hareketin türüne göre farklı kapılar
+kurduğunu gösterir. Küresel ağların yoğunlaşması böylece egemenliği yok etmekten çok
+onun nerede, nasıl ve hangi toplumsal kesimler üzerinde kullanılacağını değiştirdi.[^k1][^k4]
 
 ## Fikir dünyası
 

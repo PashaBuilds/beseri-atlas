@@ -62,7 +62,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Metin ne anlatıyor
 
 Kojiki, evrenin oluşumundan başlayan bir anlatıdır.[^k1] Tanrıların
@@ -73,8 +72,7 @@ Anlatı, tanrılardan hükümdarlara kesintisiz geçer.[^k2] Bir soy
 zinciri, en yüksek tanrıdan metnin yazıldığı dönemin hanedanına
 uzanır.
 
-Bu incelemenin konusu anlatının içeriği değildir.[^k3] Bu zincirin ne işe
-yaradığıdır.
+Bu zincirin ne işe yaradığıdır.
 
 ## Neden yazıldı
 

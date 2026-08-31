@@ -44,10 +44,8 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
-Ekim Devrimi 7 Kasım 1917 (eski takvimle 25 Ekim) tarihine ve Rusya
-Cumhuriyeti'nin Petrograd şehrine yerleştirilir.[^k1] Bu inceleme, olayın sonuçları
-kadar **hakkındaki tarih yazımının bölünmüşlüğünü** de ele alır.
+Ekim Devrimi 7 Kasım 1917 (eski takvimle 25 Ekim) tarihine ve Rusya Cumhuriyeti'nin
+Petrograd şehrine yerleştirilir.[^k1]
 
 ## Tek bir günde sayılan sonuçlar
 
@@ -69,21 +67,160 @@ sayar.[^k1] Komutanlar arasında Vladimir Lenin, Lev Troçki, Lev Kamenev, Vladi
 Ovseenko, Pavel Dıbenko ve Yakov Sverdlov ile karşı tarafta Aleksandr Kerenski yer
 alır.[^k1]
 
-Kaynağın devrimci cephede üç ayrı akım sayması[^k1] korpus için kayda değerdir;
-bu bileşimin sonraki gelişmelerle ilişkisi burada bir iddia olarak öne
-sürülmemektedir.
+## Ekim'den önce Şubat vardı
+
+1917'nin ilk devrimi Petrograd'da ekmek kıtlığına karşı gösteriler, kadın
+işçilerin yürüyüşleri ve sanayi grevleriyle başladı; askerlerin kalabalığa ateş
+açmayı reddedip ayaklanmaya katılması rejimin zor kapasitesini çökertti.[^k1]
+II. Nikolay tahttan çekildi. Yüzyıllık Romanov iktidarının sonunu başlangıçta
+Bolşeviklerin yönettiği bir plan değil, savaşın ve başkentteki kitlesel
+seferberliğin birleşmesi getirdi.
+
+Çarlığın yıkılmasından sonra iki farklı meşruiyet merkezi oluştu. Duma
+çevresinden doğan Geçici Hükümet resmî bakanlıkları ve devlet devamlılığını;
+işçi ve asker temsilcilerinden oluşan Petrograd Sovyeti ise başkentin örgütlü
+kitlelerini ve garnizonun itaatini temsil ediyordu.[^k1] “İkili iktidar”, iki
+eşit hükümetten çok, hiçbirinin tek başına egemen olamadığı bir bağımlılık
+düzeniydi.
+
+## Savaşı sürdürmenin bedeli
+
+Geçici Hükümet müttefiklerine bağlı kaldı ve Birinci Dünya Savaşı'nı sürdürdü.
+Cephedeki kayıplar, firar, ulaşım çöküşü ve kentlerde gıda sorunu devam ederken
+bu tercih hükümetin meşruiyetini tüketti. Köylüler toprak dağıtımını Kurucu
+Meclis'e kadar ertelemek istemiyor, askerler barış bekliyor, işçiler fabrika
+yönetiminde söz talep ediyordu.[^k1]
+
+Lenin'in Nisan Tezleri “bütün iktidar sovyetlere”, savaştan çıkış ve toprağın
+köylülere devri gibi talepleri bir araya getirdi. Başta Bolşevikler sovyetlerde
+azınlıktaydı; Haziran saldırısının başarısızlığı, Temmuz Günleri ve General
+Kornilov'un ilerleyişi siyasal dengeyi değiştirdi.[^k1] Bolşeviklerin Kornilov'a
+karşı savunmada rol alması onlara silah, örgütlenme ve rejimin sağ tehdide karşı
+yetersiz kaldığı iddiasını sağladı.
+
+Bu yükseliş yalnız sloganların çekiciliğinden doğmadı. Parti fabrika komiteleri,
+asker birlikleri ve mahallelerde örgütlenmişti; mesajını savaş ve toprak gibi
+gündelik kararlarla bağlayabiliyordu. Rakip sosyalist partiler Geçici Hükümetle
+işbirliğinin devrimi koruyacağını düşünürken hükümetin başarısızlıklarının
+sorumluluğunu da paylaşmaya başladı.[^k1]
+
+## İktidarın alınması
+
+Troçki'nin başkanlığındaki Petrograd Sovyeti Askerî Devrimci Komitesi,
+başkentteki birlik ve Kızıl Muhafızları koordine etti. 6–7 Kasım'da köprüler,
+istasyonlar, telgraf ve devlet daireleri büyük ölçüde sınırlı çatışmayla ele
+geçirildi; Kışlık Saray'daki Geçici Hükümet üyeleri tutuklandı.[^k1] Sonradan
+sinema ve resimde yaratılan görkemli “saray baskını” görüntüsü, gerçek
+operasyonun daha dağınık ve görece düşük çatışmalı niteliğini örtebilir.
+
+Zamanlama İkinci Tüm Rusya Sovyetler Kongresi ile bağlantılıydı. Bolşevik
+önderlik iktidar değişikliğini kongrenin onayına sunarak parti darbesini sovyet
+meşruiyetiyle birleştirmek istedi. Menşevik ve sağ Sosyalist-Devrimci
+delegelerin bir bölümü protesto ederek kongreyi terk edince kalan çoğunluk yeni
+yönetimi kabul etti.[^k1] Terk etme ahlaki itirazı gösterdi, fakat karar alanını
+rakiplere bıraktı.
+
+## İlk kararnameler neden etkiliydi?
+
+Barış Kararnamesi ilhaksız ve tazminatsız barış çağrısı yaptı; Toprak Kararnamesi
+köylülerin çoktan giriştiği malikâne topraklarına el koymayı hukukîleştirdi.[^k1]
+Bolşevik programı başlangıçta her ayrıntıyı merkezden icat etmekten çok, sahada
+güçlenen talepleri devlet kararı hâline getirdi. Bu uyum yeni iktidara destek
+sağlarken uygulamanın denetimi konusunda ileride çatışma doğurdu.
+
+İşçi denetimi kararnamesi fabrikalardaki komitelerin rolünü tanıdı; ulusların
+kendi kaderini tayin hakkı imparatorluk çevresindeki halklara güçlü bir dil
+sundu. Fakat iç savaş koşullarında merkezî ekonomik yönetim ve askerî zor
+genişledikçe yerel özerklik vaatleri daraldı. Devrimin ilk metni ile birkaç yıl
+sonraki devlet pratiğini aynı şey saymamak gerekir.
+
+## Seçim, meclis ve meşruiyet çatışması
+
+Kasım 1917 Kurucu Meclis seçimlerinde Sosyalist-Devrimciler ülke çapında en çok
+oyu aldı; Bolşevikler büyük kentler ve askerî merkezlerde güçlüydü.[^k1] Meclis
+Ocak 1918'de toplandı, sovyet iktidarını üstün tanımayı reddedince dağıtıldı.
+Bolşevikler eski parti listelerinin köylüler arasındaki sol bölünmeyi
+yansıtmadığını ve sovyetlerin daha yüksek bir demokrasi biçimi olduğunu savundu.
+
+Bu olay devrimin demokratik niteliği hakkındaki tartışmanın merkezindedir.
+Kurucu Meclis ülke çapında genel seçime, sovyetler ise işyeri ve asker birimi
+temsilciliğine dayanıyordu. Sorun yalnız *seçim yapıldı mı?* değil, hangi temsil
+biçiminin egemen sayılacağıydı. Meclisin zorla kapatılması bu rekabeti çoğulcu
+bir kurum içinde çözmek yerine tek iktidar lehine bitirdi.[^k1]
+
+## Brest-Litovsk ve iç savaş
+
+Almanya ile Mart 1918'de imzalanan Brest-Litovsk Antlaşması Rusya'yı savaştan
+çıkardı, fakat büyük toprak ve nüfus kaybı getirdi.[^k1] Lenin, devrimin hayatta
+kalması için ağır koşulları kabul etmeyi savundu; Sol Sosyalist-Devrimciler ve
+parti içindeki rakipler bunu devrimci davaya ihanet saydı. Barış vaadinin yerine
+getirilmesi yeni bir siyasal bölünme yarattı.
+
+Beyaz ordular, yabancı müdahaleler, milliyetçi kuvvetler, köylü ayaklanmaları ve
+farklı sosyalist gruplar iç savaşı çok taraflı hâle getirdi. Kızıl Ordu'nun
+merkezî komutası ve ülkenin çekirdek ulaşım bölgesini denetlemesi zaferde
+önemliydi.[^k1] Savaş Komünizmi, zorla tahıl toplama ve Kızıl Terör, rejimin
+hayatta kalma politikası olarak genişledi; karşı tarafta da Beyaz Terör ve
+pogromlar yaşandı.
+
+Olağanüstü şiddeti yalnız ideolojiye veya yalnız savaş zorunluluğuna bağlamak
+eksiktir. Bolşevik iktidar muhalefeti bastırmayı siyasal tercih olarak
+kurumsallaştırdı; aynı zamanda devlet çöküşü ve çok cepheli savaş karar ortamını
+sertleştirdi. Açıklama, sorumluluğu kaldırmadan koşulların seçenekleri nasıl
+daralttığını göstermelidir.
+
+## Devrim mi, darbe mi?
+
+“Darbe” sözcüğü küçük ve örgütlü bir grubun devlet merkezlerini ele geçirmesini;
+“devrim” ise toplumsal iktidar, mülkiyet ve meşruiyetin geniş dönüşümünü vurgular.
+Ekim'de merkezî iktidarın alınışı darbe teknikleri taşıdı; fakat onu mümkün
+kılan asker, işçi ve köylü seferberliği ile sonuçlarının ölçeği devrim
+kavramını da gerekli kılar. İki terim birbirini mantıken dışlamak zorunda değildir.
+
+Daha verimli soru, etiketi seçmekten önce üç zaman ölçeğini ayırır: Kasım
+gecesinde kurumları kim ele geçirdi? 1917 boyunca hangi toplumsal talepler eski
+düzeni çözdü? 1918–1921 arasında hangi savaş ve kararlar tek parti devletini
+şekillendirdi? Böyle kurulduğunda tartışma slogan olmaktan çıkar, kanıtlanabilir
+mekanizmalara bölünür.[^k1]
+
+## Kent, kır ve zaman farkı
+
+Petrograd'da birkaç günde gerçekleşen iktidar değişimi ülkenin her yerinde aynı
+anda yaşanmadı. Moskova'da daha sert çatışma çıktı; taşrada sovyetler, belediyeler,
+köylü komiteleri ve eski memurlar arasındaki denge bölgeden bölgeye değişti.[^k1]
+Bir başkent tarihini bütün ülkenin takvimi saymak, yeni iktidarın aylar süren
+kuruluşunu görünmez kılar.
+
+Köylülük de tek bir Bolşevik taban değildi. Toprak talebini destekleyebilir,
+şehirlerin tahıl toplamasına ve parti görevlilerinin denetimine karşı çıkabilirdi.
+İç savaş sırasında köylülerin Kızıllar ile Beyazlar arasındaki tercihi ideolojik
+bağlılık kadar toprak kazanımını hangi tarafın geri çevireceği hesabına bağlıydı.
+Destek, itaat ve ortak program aynı şey değildir.[^k1]
+
+## Dünya devrimi beklentisi
+
+Bolşevikler Rusya gibi ekonomik olarak geri saydıkları bir ülkede devrimin tek
+başına kalıcı olmasını beklemiyordu; Almanya başta olmak üzere Avrupa
+devrimlerinin yardıma geleceğini düşündüler.[^k1] Bu beklenti dış politika ile
+iç ekonomik kararları etkiledi. Alman devrimi monarşiyi yıktı ama Bolşevik
+modelinde bir iktidar üretmedi; Macar ve başka devrimci girişimler de kalıcı
+olmadı.
+
+Yalnızlaşma, Sovyet yönetimini hem devletler arası tanınma aramaya hem de başka
+ülkelerdeki komünist hareketleri desteklemeye yöneltti. Sonraki Sovyet dış
+politikasındaki güvenlik devleti ile dünya devrimi geriliminin kökü burada
+bulunur. Ekim'in sonucu bu yüzden yalnız Rusya'nın yönetim biçimi değil, yirminci
+yüzyılın uluslararası ideolojik kutuplarından birinin doğuşudur.[^k1]
 
 ## Tarih yazımı bir alan olarak
 
 Bu olayın en dikkat çekici yanı, hakkındaki literatürün kendi başlıkları altında
 bölünmüş olmasıdır. Kaynak tarih yazımını Sovyet tarih yazımı ve Batı tarih yazımı
-olarak ayırır; Batı tarafını da "Totaliter" tarihçiler ve "Revizyonist" tarihçiler
+olarak ayırır; Batı tarafını da *Totaliter tarihçiler* ve *Revizyonist tarihçiler*
 alt başlıklarına böler ve Sovyetler Birliği'nin dağılmasının etkisini ayrıca ele
 alır.[^k1]
 
-Bir olayın literatürünün okullara ayrılmış olması, korpus için bir uyarıdır: burada
-aktarılan her cümle, bir okulun tercih ettiği çerçeveyi taşıyabilir. Kaynağın
-kendi bölümlemesini aktarmak, bu riski ortadan kaldırmaz ama görünür kılar.
+Kaynağın kendi bölümlemesini aktarmak, bu riski ortadan kaldırmaz ama görünür kılar.
 
 ## Kurulan devletin ömrü
 

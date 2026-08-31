@@ -101,7 +101,6 @@ son_denetim: 2026-08-29
 denetim_durumu: onaylandi
 onarim_turu: 1
 ---
-
 Bâbürlü Devleti, Timurlu-Çağatay soyundan gelen bir hanedanın 1526'da Kuzey
 Hindistan'da kurduğu ve 1858'e kadar süren düzendir; bugün yaygın olarak
 taşıdığı ad ise hanedanın kendi koyduğu ad değildir. Kurucu metin olan
@@ -115,17 +114,13 @@ kullanmıyordu. Ad bugün de tek başına bırakılmıyor; Moin'in bölümü dü
 Bâbürlü ya da Timurlu imparatorluğu diye anar,[^k6] Türkçe ansiklopedi maddesi
 ise Bâbürlüler adını kullanıp Moğol sözcüğünü başka bir halk için saklar.[^k3]
 
-Bu düzeni okumanın bir yolu, kapladığı alana değil defterine bakmaktır: rütbe
-maiyetteki süvari sayısıyla ölçülür, gelir hizmet karşılığı verilen toprakla
-ödenir,[^k3] meşruiyet ise tek bir mezhebe değil hükümdarın bütün mezheplerin
-üstünde kutsal bir konum iddiasına bağlanır.[^k6] Sayıca küçük ve başka dil
-konuşan bir askerî seçkinin kendisinden çok daha kalabalık bir tarım toplumunu
-bu iki dayanakla yönettiği, kaynakların ayrı ayrı verdiklerinden bu incelemenin
-çıkardığı çerçevedir. İkinci güçlük kayıttadır. Pirbhai'nin özeti, Bâbürlü
+Bu düzeni okumanın bir yolu, kapladığı alana değil defterine bakmaktır: rütbe maiyetteki
+süvari sayısıyla ölçülür, gelir hizmet karşılığı verilen toprakla ödenir,[^k3] meşruiyet
+ise tek bir mezhebe değil hükümdarın bütün mezheplerin üstünde kutsal bir konum
+iddiasına bağlanır.[^k6] İkinci güçlük kayıttadır. Pirbhai'nin özeti, Bâbürlü
 devletinden bir devlet arşivi kalmamasını ve dönem derlemelerinin Britanya
-sömürgeciliğiyle birlikte oluşmuş olmasını, İslam hukuku çalışmalarındaki
-boşluğun iki nedeninden biri sayar; ikincisi Güney Asya tarihçilerinin
-yaklaşımıdır.[^k7]
+sömürgeciliğiyle birlikte oluşmuş olmasını, İslam hukuku çalışmalarındaki boşluğun iki
+nedeninden biri sayar; ikincisi Güney Asya tarihçilerinin yaklaşımıdır.[^k7]
 
 ## Yedi yüz araba
 
@@ -280,16 +275,14 @@ bitiren şey bir fetih değil, adının başkalarının ayaklanmasında taraf
 olarak geçmesiydi; ayaklanmanın kendisi
 [1857 Hint Ayaklanması](/olay/1857-hint-ayaklanmasi/) dosyasında ele alınıyor.
 
-Dolaşımdaki görüntü — hoşgörülü Ekber, bağnaz Evrengzîb, kaçınılmaz çöküş —
-kaynakların kendisinden değil, o kaynaklar üzerine kurulmuş tartışmadan
-geliyor. Pirbhai'nin özeti, devletin kendi arşivinin bulunmamasını ve dönem
-derlemelerinin Britanya sömürgeciliğiyle oluşmasını İslam hukuku çalışmaları
-için tarif eder;[^k7] Faruqui'nin özeti ise Evrengzîb okumasının iki ucunun
-bugün de canlı olduğunu bildirir.[^k9] İkisini birleştirip bütün bir tarih
-görüntüsüne genellemek bu incelemenin çıkarımıdır, kaynakların beyanı değil.
-Kurucu metne dönüldüğünde geriye daha az gösterişli bir şey kalıyor: yedi yüz
-arabayı ham deri halatla bağlayan, geldiği ülkeyi beğenmeyen ama servetini
-sayan, kaydı ve tahsilatı zaten yürüten bir kadronun üstüne oturan bir askerî
-seçkin.[^k1] Sonradan taşıyacağı adı, kendi metninde başka bir halk için
-kullanmıştı.[^k2] Dönemin bütünü [1500-1650](/donem/09/) dosyasında, batıdaki
-komşu düzen [Safevî Devleti](/aktor/safevi-devleti/) dosyasında ele alınıyor.
+Dolaşımdaki görüntü — hoşgörülü Ekber, bağnaz Evrengzîb, kaçınılmaz çöküş — kaynakların
+kendisinden değil, o kaynaklar üzerine kurulmuş tartışmadan geliyor. Pirbhai'nin özeti,
+devletin kendi arşivinin bulunmamasını ve dönem derlemelerinin Britanya sömürgeciliğiyle
+oluşmasını İslam hukuku çalışmaları için tarif eder;[^k7] Faruqui'nin özeti ise
+Evrengzîb okumasının iki ucunun bugün de canlı olduğunu bildirir.[^k9] Kurucu metne
+dönüldüğünde geriye daha az gösterişli bir şey kalıyor: yedi yüz arabayı ham deri
+halatla bağlayan, geldiği ülkeyi beğenmeyen ama servetini sayan, kaydı ve tahsilatı
+zaten yürüten bir kadronun üstüne oturan bir askerî seçkin.[^k1] Sonradan taşıyacağı
+adı, kendi metninde başka bir halk için kullanmıştı.[^k2] Dönemin bütünü
+[1500-1650](/donem/09/) dosyasında, batıdaki komşu düzen [Safevî
+Devleti](/aktor/safevi-devleti/) dosyasında ele alınıyor.

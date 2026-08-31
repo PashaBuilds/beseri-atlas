@@ -48,7 +48,6 @@ son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 Seri 1800'de 98,667 kWh ile başlar ve 2025'te 20.257,705 kWh ile biter.[^k1]
 
 ## Aynı olgunun iki biçimi ayrı dosyalardadır
@@ -57,36 +56,15 @@ Aynı sağlayıcının toplam birincil enerji serisinde uç değerler 1800 için
 ve 2025 için 166.753,6 TWh'dir.[^k2]
 
 Toplam yaklaşık bin yediyüz kat artarken kişi başına değerin yaklaşık iki yüz kat
-artması,[^k1][^k2] iki ölçünün farklı soruları cevapladığını gösterir: biri
-ne kadar enerji kullanıldığını, diğeri kişi başına ne düştüğünü verir. Korpus
-bunları ayrı dosyalarda tutar; toplam biçim
-[Birincil enerji tüketimi, 1800–2025](/veri/enerji-tuketimi-1800-2023/)
-dosyasındadır.
+artması,[^k1][^k2] iki ölçünün farklı soruları cevapladığını gösterir: biri ne kadar
+enerji kullanıldığını, diğeri kişi başına ne düştüğünü verir.
 
 ## Kişi başı hesap sağlayıcı tarafından yapılmıştır
 
-Bu seri sağlayıcının kendi hesabıdır; korpus iki seriyi bölerek kendi kişi başı
-değerini üretmez.[^k1][^k2]
-
-Bu, korpusun diğer veri dosyalarında koyduğu kuralın karşılığıdır: kaynak bir
-oranı kendisi veriyorsa o kullanılır, vermiyorsa korpus türetmez.
-
 ## Birim bir dönüştürme kararıdır
-
-Serinin birimi kilovatsaattir; farklı enerji kaynaklarının ortak bir birime
-çevrilmesi bir dönüştürme kararıdır ve dönüştürme katsayısı bu incelemede
-verilmez.[^k1]
-
-Korpusun kuralı şudur: bu seriden okunan değerler, birimin ne olduğu belirtilmeden
-aktarılmaz.
 
 ## Serinin başlangıcına denk gelen dönüşüm
 
 Serinin başlangıç yıllarına denk gelen dönüşüm için tutulan kayıt, o dönüşümü
 ayrı bir madde olarak işler.[^k3] O dönüşüm
 [Sanayi Devrimi](/olay/sanayi-devrimi/) dosyasında ele alınıyor.
-
-## Kanıtın ve kapsamın sınırı
-Ülke ülke değerler, enerji kaynağı kırılımı ve dönüştürme yöntemi burada ayrı
-başlıklar altında ele alınmamıştır; bu inceleme yalnızca sağlayıcının toplam
-satırını kaydeder.[^k1]

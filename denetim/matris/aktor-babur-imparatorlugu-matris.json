@@ -1,7 +1,7 @@
 {
   "id": "aktor-babur-imparatorlugu",
-  "govde_hash": "aaf3c157d96c",
-  "commit": "4373ec95",
+  "govde_hash": "03b7d7ac97ba",
+  "commit": "889239af",
   "zaman": "2026-08-29T19:12:46.681Z",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -505,6 +505,12 @@
       "zaman": "2026-08-30",
       "onceki_hash": "c6aba2fbbaa6",
       "yeni_hash": "aaf3c157d96c",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    },
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "aaf3c157d96c",
+      "yeni_hash": "03b7d7ac97ba",
       "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
     }
   ]

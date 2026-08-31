@@ -263,8 +263,7 @@ sonundaki salgın, aynı yolları izledi.
 İki taşıma ayrı sistemler değildir.[^k2] Bağlantının artması, taşınan
 her şeyin hızını artırır.
 
-Bu ölçüm, korpusun bir sonraki dönem
-dosyasında da tekrarlanır.[^k1]
+Bu ölçüm bir sonraki dönemde salgının etkisini açıklarken yeniden kullanılır.[^k1]
 
 ## Fetihlerin bilançosu
 
@@ -450,10 +449,9 @@ Bölgesel ayrıntı sınırlıdır.[^k2] Şerit satırları, bölgelerin kendi
 tarihlerinden çok ortak mekanizmanın onlardaki görünümünü verir ve
 her bölge kendi dosyalarında ayrıca ele alınır.
 
-Sayısal seriler burada yorumlanır, üretilmez.[^k3] Serilerin
-kaynakları, yöntemleri ve başlangıç tarihleri korpusun veri
-dosyalarında ayrı ayrı kayıtlıdır ve bu inceleme onların yerine
-geçmez.[^k5]
+Sayısal seriler burada yorumlanır, üretilmez.[^k3] Kaynakları, yöntemleri ve
+başlangıç tarihleri bağlantılı veri incelemelerinde ayrı ayrı açıklanır; dönem
+anlatısı bu yöntem notlarının yerine geçmez.[^k5]
 
 
 ## Selçuklu düzeni
@@ -689,6 +687,32 @@ ekseninin o bölgede kurulduğu izlenimi verir.[^k2]
 Oysa eksen bağlantının kendisidir.[^k5] Bağlantı hiçbir bölgeye ait
 değildir; hepsini birbirine bağlayan şeydir.[^k3]
 
+## Bağlantı ile parçalanmanın aynı tarihi
+
+1000–1350 aralığı bir yandan siyasal parçalanma, öte yandan bağlantıların hızlanması
+ile tanımlanır. Selçuklu iktidarı tek bir merkezden sürekli yönetilen sabit bir yapı
+değildi; hanedan kolları, askerî seçkinler ve yerel güçler arasında bölünerek
+genişledi.[^k1] Haçlı seferleri de yalnız iki dinî blok arasındaki savaşlardan ibaret
+kalmadı; limanlar, ticaret imtiyazları ve bölgesel ittifaklar üzerinden Akdeniz'deki
+ilişkileri yeniden düzenledi. Aynı yüzyıllarda Song Çin'i yoğun kentleşme, para
+kullanımı ve üretim kapasitesiyle başka bir ekonomik ağı büyütüyordu.
+
+Moğol fetihleri bu ayrı alanların büyük bölümünü zor yoluyla birbirine bağladı.
+İmparatorluğun genişliği tüccarların, elçilerin, din görevlilerinin ve teknik bilginin
+Avrasya boyunca hareketini kolaylaştırdı; fakat bu hareketin zemini kuşatma, zorunlu
+yer değiştirme ve ağır yıkımdı.[^k2] İbn Battûta'nın seyahati, bağlantıların yalnızca
+haritadaki yollar değil, konaklama, hukuk, himaye ve ortak öğrenim kurumlarıyla
+işlediğini gösterir.[^k5][^k6] Māori yerleşiminin aynı geniş zaman aralığında
+Aotearoa'da gelişmesi ise Avrasya bağlantılarını dünya tarihinin tamamı sanmamak
+gerektiğini hatırlatır.[^k4] Dönemin temel gerilimi şudur: daha geniş ağlar bilgi ve
+malı hızlandırırken savaş, salgın ve siyasal baskının dolaşımını da hızlandırdı.
+
+Bu bağlantıların yoğunluğu her topluluğu eşit ölçüde kapsamadı. Deniz ve kara
+güzergâhlarına yakınlık, güvenli geçiş ve siyasal himaye hareket imkânını belirledi;
+seyahat anlatılarındaki açıklık, yerinden ayrılamayan çoğunluğun deneyimiyle aynı
+şey değildir; hareketliliğin ayrıcalıklarını ve engellerini birlikte okumak
+gerekir; bağlantının dışında kalmak da tarihsel bir sonuçtur.[^k5][^k6]
+
 ## Fikir dünyası
 
 Avrasya'nın tek bir bağlantı ağına girmesi, fikirlerin de mal gibi dolaşması
@@ -710,5 +734,5 @@ Bu dönemin şeridine Okyanusya satırı, Aotearoa'ya yerleşimin bu yüzyıllar
 gerçekleşmesi nedeniyle eklendi.[^k4] Avustronezya yayılmasının en geç
 ulaştığı büyük kara parçası, beş yüzyıl içinde kendi siyasi düzenini kurdu.
 
-Bölgenin öteki ada gruplarının bu
-yüzyıllardaki durumu korpusta henüz kayıtlı değildir.[^k4]
+Bölgenin öteki ada gruplarının bu yüzyıllardaki durumu, mevcut kaynak seçkisinin
+dışında kalmaktadır.[^k4]

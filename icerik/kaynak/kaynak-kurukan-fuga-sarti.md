@@ -66,7 +66,6 @@ son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Belge ne bildiriyor
 
 Metin, bir imparatorluğun kuruluşundan sonra toplanan meclisin
@@ -81,8 +80,7 @@ başlarına karşılık vermesi yerine meclise başvurması esas alınır.
 
 ## Metnin tarihiyle belgenin tarihi
 
-Bu incelemenin asıl konusu metnin içeriği değildir.[^k1] Elde bulunan
-yazılı metnin ne zaman oluştuğudur.
+Elde bulunan yazılı metnin ne zaman oluştuğudur.
 
 Şartın ilan edildiği tarih on üçüncü yüzyıl olarak aktarılır.[^k2]
 Yazılı metin ise yirminci yüzyılda, sözlü aktarıcılardan derlenerek
@@ -110,9 +108,6 @@ birbirinden farklıdır.
 Madde sayısı ve maddelerin sırası sürümden sürüme değişir.[^k1] Bazı
 maddeler yalnızca bir derlemede bulunur.
 
-Bu, korpusun Magna Carta dosyasında kurduğu
-kuralın buradaki karşılığıdır.[^k3]
-
 ## Modern ekleme sorunu
 
 Derlemeler, kendi dönemlerinin kavramlarıyla yapıldı.[^k2] Bazı
@@ -122,8 +117,7 @@ Bu, iki ayrı ihtimali doğurur.[^k1] Ya asıl kural gerçekten o
 kapsamdaydı ya da derleme sırasında bugünkü bir kavramla
 yeniden ifade edildi.
 
-Metinden hangisinin doğru olduğu çıkarılamaz.[^k3] Korpus bu yüzden
-şartın belirli maddelerine dayanan iddiaları tartışmalı sayar.
+Metinden hangisinin doğru olduğu çıkarılamaz.[^k3]
 
 ## Neden yine de künyelenir
 
@@ -168,9 +162,7 @@ geçirileceği, yazının varlığından ayrı bir karardır.[^k3]
 kurulmuştu ama meşruiyetini savaştan değil, meclisin kabulünden
 alır.
 
-Bu, korpusun birçok dosyasında geçen bir örüntüdür.[^k2] Güç kullanarak
-kurulan düzenler, kalıcı olmak için güç dışında bir gerekçe
-üretirler.
+Güç kullanarak kurulan düzenler, kalıcı olmak için güç dışında bir gerekçe üretirler.
 
 Örüntü burada belgeyle birlikte görünür.[^k3] Gerekçenin kendisi
 yazıya geçmemiş ama kurumsallaşmıştır.
@@ -190,12 +182,9 @@ metnin tarihsel iddialarını doğrulamaz.[^k3]
 Dosya, şartın maddelerini tek tek çözümlemez.[^k1] Metnin sürümleri
 arasındaki farklar ayrı bir çalışma gerektirir.
 
-Aktarıcı soyların tarihi izlenmez.[^k2] Ezberi taşıyan ailelerin kendi
-tarihi bu incelemenin konusu değildir.
+Aktarıcı soyların tarihi izlenmez.[^k2]
 
-Doğrulanabilir çevrimiçi tam metin künyelenememiştir.[^k3] Derlenmiş
-sürümlerin erişilebilir ve doğrulanabilir baskıları bu inceleme
-yazıldığında bulunamamıştır; kısıt burada beyan edilir.
+Doğrulanabilir çevrimiçi tam metin künyelenememiştir.[^k3]
 
 ## Okumayı sürdürmek için
 Şartın bağlı olduğu düzen için

@@ -61,7 +61,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Hindistan Anayasası, 1950'de yürürlüğe giren ve bir kurucu meclis
@@ -71,8 +70,7 @@ organlarını tanımlar ve federal yapıyı kurar.
 Belge, yazılı anayasalar arasında en uzunlarındandır.[^k2] Uzunluk, çok
 sayıda konunun anayasa düzeyinde düzenlenmesinden gelir.
 
-Bu incelemenin asıl konusu kapsam maddeleridir.[^k1] Metin, bir toplumsal
-ayrım biçimini adıyla anarak yasaklar ve aynı zamanda düzeltici
+Metin, bir toplumsal ayrım biçimini adıyla anarak yasaklar ve aynı zamanda düzeltici
 düzenlemelere izin veren maddeler içerir.
 
 ## Adlandırarak yasaklama
@@ -80,9 +78,8 @@ düzenlemelere izin veren maddeler içerir.
 Metnin ayırt edici yanı, yasakladığı ayrımı adıyla anmasıdır.[^k1]
 Genel bir eşitlik ilanıyla yetinilmez.
 
-Bu, korpusun hak kapsamı dizisinde yeni bir biçimdir.[^k3] Dizide üç
-biçim ölçülmüştü: eşitsizliği açıkça yazmak, kapsamı sessizce
-daraltmak, kapsamı açıkça genişletmek.
+Dizide üç biçim ölçülmüştü: eşitsizliği açıkça yazmak, kapsamı sessizce daraltmak,
+kapsamı açıkça genişletmek.
 
 Bu metin dördüncü biçimi kullanır.[^k2] Kapsamı genişletmekle kalmaz,
 genişlemenin karşısındaki somut engeli adlandırıp hedef alır.
@@ -118,9 +115,8 @@ Düzeltici düzenlemelerin bir bölümü başlangıçta süreli olarak
 öngörülmüştü.[^k2] Süre, sonraki değişikliklerle tekrar tekrar
 uzatıldı.
 
-Bu, korpusun vesayet dosyasında ölçtüğü örüntüyle aynı ailedendir.[^k3]
-Geçici olduğu beyan edilen bir düzenlemenin süresi, o düzenlemeyi
-uygulayan tarafın kararına bağlıysa geçicilik beyanı bağlayıcı değildir.
+Geçici olduğu beyan edilen bir düzenlemenin süresi, o düzenlemeyi uygulayan tarafın
+kararına bağlıysa geçicilik beyanı bağlayıcı değildir.
 
 Fark, burada uzatma kararının bir mecliste alınmasıdır.[^k1] Karar
 mekanizmasının kendisi, düzenlemenin muhataplarının temsil edildiği bir
@@ -204,9 +200,7 @@ yetkisi sınırsız değildir.
 
 Öğreti metinde yazılı değildir.[^k1] Yorumla üretilmiştir.
 
-Bu, korpusun Magna Carta dosyasında ölçtüğü mekanizmanın bir başka
-örneğidir.[^k3] Bir metnin sonraki hukuki değeri, metnin kendisinden
-değil sonraki kullanımından gelir.
+Bir metnin sonraki hukuki değeri, metnin kendisinden değil sonraki kullanımından gelir.
 
 ## Karşılaştırma
 
@@ -222,8 +216,7 @@ kurmaya yetmez.[^k3]
 
 ## Künyenin dili
 
-Metnin resmî hâli birden çok dilde yayımlanmıştır.[^k1] Bu incelemede
-künyelenen metin İngilizcedir.
+Metnin resmî hâli birden çok dilde yayımlanmıştır.[^k1]
 
 Çok dilli bir belgeye atıf
 yapılırken hangi dildeki metnin kastedildiği yazılmalıdır.[^k3]
@@ -236,8 +229,7 @@ Dosya, düzeltici düzenlemelerin sonuçları hakkında hüküm vermez.[^k2]
 Metnin ne öngördüğünü kaydeder; uygulama sonuçları ayrı bir çalışma
 gerektirir.
 
-Güncel siyasi tartışmalar işlenmez.[^k3] Korpus yaşayan siyasi durumlar
-hakkında değerlendirme yapmaz.
+Güncel siyasi tartışmalar işlenmez.[^k3]
 
 Maddelerin tek tek içeriği aktarılmaz.[^k1] Metin künyede erişilebilir
 durumdadır ve dosya yalnızca kapsam yapısını kaydeder.
@@ -246,10 +238,6 @@ durumdadır ve dosya yalnızca kapsam yapısını kaydeder.
 Hak kapsamı dizisinin öteki halkaları için
 [İnsan Hakları Evrensel Beyannamesi](/kaynak/insan-haklari-beyannamesi/)
 ve [Magna Carta](/kaynak/magna-carta/) dosyaları okunmalıdır.[^k1]
-
-Metnin adlandırarak yasakladığı ayrım için
-[Kast](/kavram/kast/) dosyası uygundur; bu inceleme o dosyanın hukuki
-karşılığını kaydeder.[^k2]
 
 Metnin hazırlandığı dönemin olayı için
 [Hindistan'ın bölünmesi](/olay/hindistan-bolunmesi/), sürecin genel

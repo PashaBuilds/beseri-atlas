@@ -49,7 +49,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Nerede durduğu
 
 Ayutthaya Krallığı, Güneydoğu Asya'nın anakara bölümünde, denize açılan bir
@@ -89,8 +88,7 @@ Toplulukların yalnızca ticaret yapmadıkları kaydedilir. Bazı üyeler saray
 hizmetine girmiş, elçilik ve muhasebe görevleri almıştır;[^k2] yabancılık,
 devlet görevine engel sayılmıyordu.
 
-Bu, korpusun başka bölgelerinde de görülen bir yönetim tercihidir.[^k1] Yerel
-soylulardan bağımsız bir görevli sınıfı kurmak isteyen yönetimler, dışarıdan
+Yerel soylulardan bağımsız bir görevli sınıfı kurmak isteyen yönetimler, dışarıdan
 gelenleri tercih edebilir; sadakatleri hükümdara bağlıdır.
 
 ## Avrupa devletlerini dengeleme
@@ -109,9 +107,8 @@ ilişkilerin daraltılmasıyla sonuçlandı.
 
 ## Tek tanık kaydının değeri ve sınırı
 
-Bu incelemenin birincil kaynağı, sarayda bulunmuş bir elçilik üyesinin
-kaydıdır.[^k2] Kayıt, saray düzenini, ölçü sistemini, hukuku ve gündelik
-hayatı doğrudan gözleme dayanarak anlatır.
+Kayıt, saray düzenini, ölçü sistemini, hukuku ve gündelik hayatı doğrudan gözleme
+dayanarak anlatır.
 
 Kaydın taraflılığı da bellidir. Yazar bir müzakere heyetinin üyesidir ve
 gözlemleri, kendi devletinin çıkarları çerçevesinde
@@ -158,9 +155,8 @@ Böyle bir düzen ayrıntılı bir kayıt sistemi gerektirir: kimin nereye bağl
 olduğu, kaç gün çalıştığı ve hangi göreve ayrıldığı yazılmalıdır.[^k2] Kayıt
 tutmadan emek vergisi toplanamaz.
 
-Korpusun [Bürokrasi](/kavram/burokrasi/) dosyası bu tür yapıları kavram
-düzeyinde ele alır. Burada somut hâli, kayıt tutmanın bir yönetim tercihi
-değil bir zorunluluk olmasıdır.[^k1]
+Burada somut hâli, kayıt tutmanın bir yönetim tercihi değil bir zorunluluk
+olmasıdır.[^k1]
 
 ## Dinin kurumsal yeri
 
@@ -199,9 +195,8 @@ Kayıtların önemli bir bölümü bu sırada yok oldu ve bu, dosyanın kaynak
 durumunu doğrudan etkiler.[^k3] Krallığın kendi arşivinin büyük bölümü
 elde bulunmamaktadır.
 
-Bu yüzden bu incelemede dışarıdan yazılmış bir kaydın ağırlığı yüksektir.[^k2]
-Bir devletin kendi kayıtlarının yok olması, o devlet hakkındaki bilginin
-kalıcı olarak dışarıdan gelmesine yol açar.
+Bir devletin kendi kayıtlarının yok olması, o devlet hakkındaki bilginin kalıcı olarak
+dışarıdan gelmesine yol açar.
 
 ## Ölçek sorunu
 
@@ -217,26 +212,17 @@ tarif edilebilir.
 Değerlendirmeler mutlak sayılara
 değil, birden çok kaydın ortak vurgusuna dayanır.[^k1]
 
-## Açıkta kalan sorular
-Krallığın hanedan tarihi, taht kavgaları ve hükümdar listesi burada
-verilmez.[^k1][^k3] Korpusun aktör dosyaları bir düzenin nasıl işlediğini
-anlatır; olay sırasını değil.
-
 Sanat, mimari ve edebiyat üretimi de kapsam dışıdır.[^k2] Bu malzeme yazılı
 kayıtların vermediği bilgiyi taşır ve ayrı bir dosya gerektirir.
 
-Krallığın yıkılışından sonra kurulan siyasi düzen burada işlenmez.[^k1] Ayrı
-bir dosya gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu.
+Krallığın yıkılışından sonra kurulan siyasi düzen burada işlenmez.[^k1]
 
 ## Kaynak durumu
 
-Bu inceleme üç kaynağa dayanır ve biri birincildir.[^k2] Birincil kaynak,
-krallığın kendi kalemiyle değil dışarıdan gelen bir gözlemcinin elinden
+Birincil kaynak, krallığın kendi kalemiyle değil dışarıdan gelen bir gözlemcinin elinden
 çıkmıştır.
 
-Krallığın kendi saray kayıtlarının erişilebilir ve doğrulanabilir bir tam
-metni bu inceleme yazıldığında bulunamamıştır.[^k1] Bu bir kısıttır ve burada
-beyan edilir.
+Bu bir kısıttır ve burada beyan edilir.
 
 Kısıtın sebebi kısmen yukarıda anlatılan tahribattır.[^k3] Bir devletin
 arşivinin yok olması, sonraki yüzyıllarda o devlet hakkındaki bilginin
@@ -269,11 +255,6 @@ sessizdir, hızlıdır ve karşı tarafın seçeneği azdır.
 Askerî üstünlük üzerinden okunan bölgesel
 güç haritaları, gıda akışının kurduğu bağımlılıkları görünmez kılar.[^k3]
 
-## Bağlantılar ve karşılaştırmalar
-Bu inceleme, korpusun Güneydoğu Asya aktör katmanındaki dördüncü dosyadır ve
-bölgenin anakara bölümünü ilk kez ayrıntılı biçimde ele alır.[^k1][^k3]
-Önceki dosyalar ağırlıklı olarak ada ve boğaz düzenlerini anlatıyordu.
-
 Ayrımın önemi şudur: ada ve boğaz düzenleri gelirini geçişten, anakara
 düzenleri ise topraktan alır.[^k1] Bu krallık ikisini birden taşıdığı için
 iki grubu birbirine bağlar.
@@ -296,3 +277,24 @@ Krallığın bağlı olduğu deniz ağı için
 
 Aynı yılları bütün bölgeler üzerinden okumak için [Dönem 08](/donem/08/)
 dosyası kullanılmalıdır.
+
+## Kara tabanı ile deniz ağının birlikte çalışması
+
+Ayutthaya’nın uzun ömrü, verimli nehir havzasından sağlanan pirinç ve nüfusla
+uluslararası liman ticaretinin aynı merkezde birleşmesine dayanıyordu.[^k1][^k3]
+Kara gelirleri saray ve orduyu desteklerken deniz bağlantıları gümrük, silah,
+gümüş ve diplomatik seçenek sağladı. Yalnız “ticaret devleti” ya da yalnız “tarım
+krallığı” etiketi bu çift temeli eksik bırakır.
+
+Avrupalı şirketler rakipsiz dış güçler değildi. Saray Portekiz, Hollanda, Fransa
+ve başka tüccar gruplarını ayrıcalıklar üzerinden birbirine karşı dengeleyebildi;
+yerli, Çinli, Müslüman ve başka diasporalar liman ekonomisinin aktif aktörleriydi.[^k2][^k3]
+Bu siyaset modern güç dengesiyle birebir aynı değildir, fakat tek ortağa bağımlı
+kalmadan gelir ve teknoloji edinme kapasitesini gösterir. 1767 yenilgisi dört
+yüzyıllık kurumları yoktan var olmuş bir çöküşe indirgemez; yeniden örgütlenen
+Siyam devleti önemli süreklilikler taşıdı.
+
+Başkent yıkılsa da insan, bilgi, vergi ve diplomasi pratiklerinin yeni merkezde
+nasıl yeniden kullanıldığı, siyasi son ile kurumsal devamlılığı ayırır.
+
+Bu ayrım sonraki krallığın tarihini açıklamak için zorunludur.

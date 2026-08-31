@@ -55,7 +55,6 @@ son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
-
 ## Ne olduğu
 
 Samoa, Pasifik'in orta kesiminde iki büyük ve birkaç küçük adadan
@@ -67,8 +66,7 @@ Takımada 1900'de ikiye bölündü ve iki ayrı devletin yönetimine
 girdi.[^k1] Bölünme adalarda değil, uzaktaki başkentlerde yürütülen
 görüşmelerde kararlaştırıldı.
 
-Bu incelemenin asıl konusu bölünmenin biçimidir.[^k2] Paylaşımın tarafları
-arasında bölünen halk bulunmuyordu.
+Paylaşımın tarafları arasında bölünen halk bulunmuyordu.
 
 ## Üçlü rekabet
 
@@ -140,8 +138,7 @@ birine sistematik olarak yarıyorsa, o belirsizlik bir kusur değil bir düzenle
 Üç gücün desteklediği rakip adaylar, silahı destekçilerinden
 alıyordu.[^k1] Silah akışı, iç mücadelenin ölçeğini doğrudan büyüttü.
 
-Aynı mekanizma korpusun Batı Afrika dosyalarında da ölçülmüştü.[^k2] Dış
-kaynaklı silah, bir iç mücadeleyi hem uzatır hem şiddetlendirir.
+Dış kaynaklı silah, bir iç mücadeleyi hem uzatır hem şiddetlendirir.
 
 Fark, buradaki üçlü yapıdadır.[^k1] Tek bir dış tedarikçi olduğunda
 mücadele daha hızlı biter; üç tedarikçi olduğunda hiçbir taraf kesin
@@ -178,7 +175,6 @@ başka bölgelerde karşılık aldı.
 Anlaşma, üç dış gücün kendi aralarında yaptığı bir mübadeleydi.[^k2]
 Adaların halkı anlaşmanın tarafı değildi.
 
-Bu, korpusun Berlin Konferansı dosyasında kaydettiği yapının aynısıdır.[^k1]
 Bir bölgenin bölünmesi, o bölgede yaşayanların katılmadığı bir masada
 kararlaştırılabilir.
 
@@ -215,9 +211,8 @@ kuruldu.[^k2] Toprak satın alımları, yabancı şirketler eliyle yürüdü.
 Satışların geçerliliği tartışmalıydı.[^k1] Toprak akrabalık gruplarına
 aitti ve bireysel satış yetkisi belirsizdi.
 
-Bu, korpusun Fiji dosyasında ölçtüğü sorunun aynısıdır.[^k2] Toprağın
-devredilebilir sayılması, yabancı sermayenin ve nüfusun yerleşmesinin
-ilk halkasıdır.
+Toprağın devredilebilir sayılması, yabancı sermayenin ve nüfusun yerleşmesinin ilk
+halkasıdır.
 
 ## Okyanusya'da dördüncü ölçüm
 
@@ -227,8 +222,7 @@ Hawai, Fiji ve Samoa toprağı açtı ve üçü de egemenliğini kaybetti.[^k3]
 Dört örnek aynı yöne işaret eder.[^k1] Toprağın devredilebilirliği,
 sonucu belirleyen ilk halkadır.
 
-Dört örnek yine de bir kural kurmaz.[^k2] Korpus bunu ölçülmüş bir eğilim
-olarak kaydeder ve karşı örnek aranması gerektiğini yazar.
+Dört örnek yine de bir kural kurmaz.[^k2]
 
 ## İşçi göçü
 
@@ -250,9 +244,6 @@ oluşturdu.
 İki yönetim de yerel şeflik yapısını korudu.[^k2] Yerel yönetimi mevcut
 hiyerarşi üzerinden yürütmek, maliyeti düşüren yaygın bir tercihti.
 
-Mevcut hiyerarşiyi kaldırmak yerine
-ona bağlanmak, korpusun en sık gördüğü yönetim yöntemidir.[^k1]
-
 ## Birinci Dünya Savaşı'nın etkisi
 
 Batı adaları, savaş çıkınca bir başka devletin denetimine geçti.[^k1]
@@ -273,17 +264,11 @@ sağladı.
 Yönetim harekete sert karşılık verdi.[^k2] Önderler sürgüne gönderildi
 ve bir gösteride ateş açıldı.
 
-Dosya bu dönemi ayrıntılandırmaz.[^k1] Ayrı bir dosya gerektirir ve bu
-dosya yazıldığında korpusta bulunmuyordu.
+Dosya bu dönemi ayrıntılandırmaz.[^k1]
 
 ## Kaynak durumu
 
-Bu incelemenin üç künyesinden biri giriş kapısı, biri dönem tanıklığı, biri
-karşılaştırma belgesidir.[^k2] 1899 paylaşım anlaşmasının metni
-künyelenememiştir.
-
-Anlaşmanın doğrulanabilir çevrimiçi bir baskısı bu inceleme yazıldığında
-bulunamamıştır.[^k1] Eksik borç defterine yazılmıştır.
+Eksik borç defterine yazılmıştır.
 
 Adalıların kendi kayıtları da künyelenememiştir.[^k3] Dosyanın tamamı
 dışarıdan gelen kayıtlara dayanmaktadır ve bu kısıt burada beyan
@@ -291,14 +276,12 @@ edilir.
 
 ## Kapsam dışı
 
-Yerel unvan sisteminin ayrıntısı burada işlenmez.[^k2] Ayrı bir çalışma
-gerektirir ve bu inceleme yazıldığında korpusta bulunmuyordu.
+Yerel unvan sisteminin ayrıntısı burada işlenmez.[^k2]
 
 İç savaşların askerî ayrıntısı kapsam dışıdır.[^k1] Dosya yalnızca
 paylaşımın biçimine ilişkin olanı kaydeder.
 
-Yirminci yüzyıl ve sonrası işlenmez.[^k3] Korpus yaşayan siyasi durumlar
-hakkında değerlendirme yapmaz.
+Yirminci yüzyıl ve sonrası işlenmez.[^k3]
 
 ## Kanıtın ve kapsamın sınırı
 Dosya, üç gücün baştan bölme niyeti taşıdığını ileri sürmez.[^k1] On
@@ -328,3 +311,28 @@ Egemenliğin bir bölümünün devredildiği düzen için
 Sınırların nasıl çizildiği sorusu için
 [İmparatorluk sınırı nasıl çizilir](/tartisma/imparatorluk-siniri-nasil-cizilir/)
 dosyası okunmalıdır.[^k1]
+
+## Paylaşım masasında olmayan toplum
+
+Samoa krizi yalnız Almanya, Britanya ve ABD’nin rekabeti değildi. Samoa’daki
+unvan, akrabalık ve toprak düzeni içinde farklı liderler dış destek ararken,
+dış güçler bu yerel rekabeti kendi adaylarını meşrulaştırmak için kullandı.[^k1][^k2]
+Bir Samoalı grubun ittifakı bütün halkın yabancı himayeyi kabul ettiği anlamına
+gelmez.
+
+Liman erişimi, deniz üssü, plantasyon ve ticaret çıkarları küçük adaların büyük
+güç hesabındaki değerini artırdı. Kasırga gibi çevresel bir olay savaş gemilerini
+etkisiz bırakabilir; fakat yapısal rekabeti ortadan kaldırmaz. Son paylaşım,
+adaların siyasal ve akrabalık bağlarını bir meridyen çizgisiyle iki yönetime
+ayırdı.[^k1]
+
+Harita bu sonucu sade gösterir, egemenlik kaybının nasıl pazarlık edildiğini
+göstermez. Batı ve doğu adalarında farklı hukuk ve idarelerin kurulması aynı
+topluluğun hareket, toprak ve temsil ilişkilerini uzun süre etkiledi. Tonga’nın
+yazılı anayasa altında daha fazla bütünlük koruması, ada büyüklüğünün değil,
+yerli merkezî kurum, dış koalisyon ve büyük güç çıkarlarının farklı bileşiminin
+sonucudur.[^k2][^k3]
+
+Samoalıların sonraki siyasi hareketleri, paylaşım çizgisini pasifçe kabul eden bir toplum anlatısını ayrıca çürütür.
+
+Yerel eylem sömürge sonrasında da sınırı tartışmalı tuttu.

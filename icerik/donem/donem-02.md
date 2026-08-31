@@ -199,9 +199,8 @@ Başlangıç, yazının ve büyük ölçekli kentlerin belirdiği yüzyıllara
 konmuştur.[^k1] Bitiş, doğu Akdeniz'deki saray düzenlerinin
 çökmesidir.
 
-İki bin yıllık bir aralık tek bir dönem sayılır.[^k2] Bu, korpusun en
-uzun dönem dosyasıdır ve içindeki değişim çok
-büyüktür.
+İki bin yıllık bir aralık tek bir dönem sayılır.[^k2] Kronolojik şeritteki en
+uzun aralık budur ve içerdiği değişim çok büyüktür.
 
 Erken dönemlerde dönem uzunlukları artar;
 bu, olayların değil kaydın seyrekliğinin sonucudur.[^k3]
@@ -366,9 +365,8 @@ Bu metinlerin en bilineni birkaç yüzyıla yayılan bir derleme
 sürecinden geçmiştir.[^k4] Farklı dönemlerin katmanları metinde
 ayırt edilebilir.
 
-Bu, korpusun kaynak kuralına doğrudan konudur.[^k3] Bir metne atıf
-yapılırken hangi sürümün kastedildiği
-belirtilmelidir.
+Bu durum kaynak eleştirisinin temel sorunlarından biridir.[^k3] Bir metne atıf
+yapılırken hangi sürümün kastedildiği belirtilmelidir.
 
 Sürüm sorunu, matbaa öncesinde daha
 büyüktür.[^k1]
@@ -460,9 +458,8 @@ Dosya, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
 dosyasında ayrıntılı ele alınır; burada yalnızca döneme bağlanır ve
 dönemin eksenine katkısıyla anılır.
 
-Yazının nerede icat edildiği burada karara
-bağlanmaz.[^k3] Korpusun ayrı bir tartışma dosyası bu soruyu ele
-alır.
+Yazının nerede icat edildiği burada karara bağlanmaz; bağımsız başlangıçlar ve
+yayılma açıklamaları ayrı tartışmada karşılaştırılır.[^k3]
 
 Sayısal seriler burada yorumlanır, üretilmez.[^k2] Serilerin
 kaynakları ve yöntemleri bağlantılı veri incelemelerinde ayrı ayrı
@@ -515,8 +512,8 @@ arasındadır.
 Biçimler tek bir kategoriye girmez.[^k1] Bazıları süreli, bazıları
 kalıcıydı.
 
-Bu, korpusun zorunlu emek dosyasında
-tanımlanan ölçütlerin en erken uygulamasıdır.[^k4]
+Bu örnek, zorunlu emeği tanımlayan ölçütlerin en erken
+uygulamalarından biridir.[^k4]
 
 ## Borcun silinmesi
 
@@ -552,8 +549,8 @@ uzlaştırma sorunu bu dönemde
 Çözüm, araya ay eklemekti.[^k3] Ekleme kararı merkezden
 veriliyordu.
 
-Takvimi düzenlemek bir yetki
-işlemidir ve korpusun takvim dosyasında bu bağ ayrıca ele alınır.[^k4]
+Takvimi düzenlemek bir yetki işlemidir; zamanı ortak birimlere ayırmak,
+iş ve tören düzenini merkezî kararlara bağlar.[^k4]
 
 
 ## Savaş arabası
@@ -615,9 +612,8 @@ taraflı metinleri de korunmuştur.
 her tarafın kendi kamuoyuna ne anlattığını
 gösterir.
 
-İki metinli bir antlaşmanın her iki
-metninin de korunması, korpusun tekrar eden iki metin sorununu sınamak için en elverişli
-durumdur.[^k4]
+İki metinli bir antlaşmanın her iki metninin de korunması, çeviri ve
+nüsha farklarını doğrudan sınamak için en elverişli durumdur.[^k4]
 
 
 ## Dönemin adlandırılması
@@ -658,6 +654,30 @@ gerektirir.
 
 Bir yerleşimin planlı olması, orada merkezî bir
 yetkinin bulunduğunun doğrudan maddi kanıtıdır.[^k4]
+
+## İmparatorluğu taşıyan görünmez ağ
+
+Tunç Çağı'nın büyük sarayları yalnızca askerî güçle ayakta durmadı. Tunç üretimi için
+kalay ile bakırın farklı bölgelerden taşınması, uzman zanaatkârların beslenmesi ve
+ürünlerin depolara yöneltilmesi gerekiyordu. Bu nedenle uzak mesafeli ticaret,
+vergilendirme ve kayıt tutma birbirinden ayrılmaz hâle geldi.[^k1] Yazı başlangıçta
+soyut düşüncenin değil, mal ve yükümlülüklerin yönetilmesinin aracıydı; zamanla hukuk,
+diplomasi ve edebiyatı da taşıyan daha geniş bir kuruma dönüştü.
+
+Bu ağın gücü aynı zamanda kırılganlığıydı. Saraylar hammaddeyi, emeği ve bilgiyi
+merkezde toplayabildiği sürece büyük ordular ile anıtsal yapılar kurabildi. Fakat
+ticaret güzergâhındaki bir kesinti, hasat kaybı veya hanedan çatışması yalnızca tek
+bir bölgeyi değil, birbirine bağlı merkezleri etkileyebiliyordu. Hammurabi metnindeki
+farklı toplumsal statüler ve borç hükümleri, yönetimin gündelik ekonomik ilişkileri
+ne kadar ayrıntılı sınıflandırdığını gösterir.[^k3] *Gılgamış* anlatısının farklı
+nüsha ve katmanlarla korunması ise saray arşivinin yalnızca yönetim belgesi değil,
+kültürel belleğin de taşıyıcısı olduğunu gösterir.[^k4] Bu yüzden dönemi anlamanın
+anahtarı “ilk devletler” listesi değil; maden, tahıl, yazı, hukuk ve diplomasi arasında
+kurulan bağımlılık ağını görmektir.
+
+Arşivlerin çoğu saray ve tapınak çevresinde oluştuğu için sıradan üreticilerin
+deneyimi daha dolaylı görünür; yazının artması, toplumun her kesiminin eşit ölçüde
+konuşabildiği anlamına gelmez.[^k1][^k3]
 
 ## Fikir dünyası
 

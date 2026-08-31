@@ -110,16 +110,13 @@ yönetiyordu. İç eyaletler düzenli vergi ödüyor, dış eyaletler sınır be
 tabi devletler olarak duruyor, buna karşılık merkez taşrada neredeyse hiçbir
 hizmet üstlenmiyordu.[^k1]
 
-Bu düzeni önemli kılan, kapladığı alanın genişliği değil tutunma biçiminin
-inceliğidir. Güncel özet bu biçime dolaylı denetim adını verir; sözcüğün
-altındaki düzeneğin — eyalet yönetiminin fiilen kime bırakıldığının — ne
-olduğunu ise elimizdeki künye düzeyindeki kayıt açmıyor, bu inceleme de açmış
-gibi yapmıyor.[^k1] Yönetimi ucuzlatan bu düzenek onu kırılgan da kılar: tabi
-halklar merkezin zayıfladığını her hissettiklerinde ayaklandı, başkent
-ayaklanmaları hızla bastırdı ve bu döngü 1519'a kadar sürdü.[^k2] İkinci bir
-güçlük kayıttadır. Düzenin işleyişine dair yazılı anlatıların neredeyse tamamı
-ya fatihin kaleminden ya da fetihten sonra derlenmiş metinlerden geliyor; bu
-yüzden her sayı, önce kimin niçin yazdığı sorusundan geçmek zorunda.
+Bu düzeni önemli kılan, kapladığı alanın genişliği değil tutunma biçiminin inceliğidir.
+Yönetimi ucuzlatan bu düzenek onu kırılgan da kılar: tabi halklar merkezin zayıfladığını
+her hissettiklerinde ayaklandı, başkent ayaklanmaları hızla bastırdı ve bu döngü 1519'a
+kadar sürdü.[^k2] İkinci bir güçlük kayıttadır. Düzenin işleyişine dair yazılı
+anlatıların neredeyse tamamı ya fatihin kaleminden ya da fetihten sonra derlenmiş
+metinlerden geliyor; bu yüzden her sayı, önce kimin niçin yazdığı sorusundan geçmek
+zorunda.
 
 ## Üç şehrin sözleşmesi
 
@@ -259,17 +256,12 @@ yeniden insan kurban edebileceği uyarısıyla biter.[^k7] Kurban sayısı burad
 bir olgu değil bir gerekçedir: ne kadar büyükse, fetih ve din değiştirme o
 kadar haklı görünür.
 
-Arkeoloji ölçüyü daraltır ama pratiği yok saymaz. Tenochtitlan'daki kazının
-bulgusunu duyuran Science haberinin başlığı, ortaya çıkan kafatası sayısını
-yüzlerle verir ve bunu insan kurbanının büyük ölçekli olduğunun kanıtı
-sayar.[^k4] İki uç birlikte tutulmalı: kurban gerçekten yapılıyordu ve kazı
-bunu doğruluyor; öte yandan kazılan yapıdan çıkan sayı, vakayinamelerin
-verdiği yüz binlerle aynı büyüklük mertebesinde değil — bu mertebe
-karşılaştırması haberin değil, bu incelemenin kendi çıkarımıdır. Sayının kendisi
-hakemli bir makaleden değil, bir haber başlığından geliyor; kesinlik iddiası
-buraya kadar. Bu tür rakamların nasıl okunacağı [Tarihsel sayılar nasıl
-okunur](/tartisma/tarihsel-sayilar-nasil-okunur/) dosyasında ayrıca
-tartışılıyor.
+Arkeoloji ölçüyü daraltır ama pratiği yok saymaz. Tenochtitlan'daki kazının bulgusunu
+duyuran Science haberinin başlığı, ortaya çıkan kafatası sayısını yüzlerle verir ve bunu
+insan kurbanının büyük ölçekli olduğunun kanıtı sayar.[^k4] Sayının kendisi hakemli bir
+makaleden değil, bir haber başlığından geliyor; kesinlik iddiası buraya kadar. Bu tür
+rakamların nasıl okunacağı [Tarihsel sayılar nasıl
+okunur](/tartisma/tarihsel-sayilar-nasil-okunur/) dosyasında ayrıca tartışılıyor.
 
 ## Fetih tek nedene indirgenemez
 

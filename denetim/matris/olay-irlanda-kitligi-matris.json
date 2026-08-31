@@ -147,7 +147,7 @@
     },
     {
       "iddia_id": "i011",
-      "cumle": "Mitchel'e göre İrlanda belki de dünyada hem ihraç edilecek fazla ürüne hem ihraç edilecek fazla insana sahip tek ülkeydi.",
+      "cumle": "Mitchel'in aynı sayfalardaki tarifi, adanın kıtlık öncesindeki tuhaf konumunu tek cümlede toplar: ona göre İrlanda belki de dünyada hem ihraç edilecek fazla ürüne hem ihraç edilecek fazla insana sahip tek ülkeydi — \"too much food for her people, and too many people for her food\".",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -245,7 +245,7 @@
     },
     {
       "iddia_id": "i018",
-      "cumle": "Trevelyan'a göre İrlanda'nın toplumsal kötülüğünün kökü her şeyi bilen ve esirgeyen bir takdirin doğrudan darbesiyle açığa çıkarılmıştı.",
+      "cumle": "Trevelyan'ın aynı kitabı bitirirken yazdığı satırlar, yardımı yürüten kişinin olayı nasıl çerçevelediğini kendi ağzından verir: ona göre İrlanda'nın toplumsal kötülüğünün kökü \"a direct stroke of an all-wise and all-merciful Providence\" ile açığa çıkarılmıştı.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -343,7 +343,7 @@
     },
     {
       "iddia_id": "i025",
-      "cumle": "İhracat tartışmasının en sert biçimi Mitchel'e aittir; kaynağın deyişiyle o günden bu yana ünlenmiş cümle onunkidir.",
+      "cumle": "İhracat tartışmasının en sert biçimi Mitchel'e aittir; kaynağın deyişiyle o günden bu yana ünlenmiş cümle onunkidir: \"The Almighty, indeed, sent the potato blight, but the English created the Famine.\"",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -750,10 +750,24 @@
       ],
       "guven": "yuksek",
       "inceleme": "Kaynak: 'Historian F. S. L. Lyons characterised the initial response of the British government to the early, less severe phase of the famine as prompt and relatively successful.' Onceki 'Ilk tepki...' cumlesi atifsiz oncelik iddiasiydi; degerlendirme sahibine baglandi (curutucu itirazi 4)."
+    },
+    {
+      "iddia_id": "i054",
+      "cumle": "Aynı kaynak düşük ekimi patatese duyulan temkinle açıklar; tohumluğunu yitirenlere tohumluk patates sağlama planının uygulanamaz bulunduğunu da yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Düşük ekimin gerekçesi ile tohumluk sağlama planının uygulanamaz bulunması k5'te açıkça aktarılır."
     }
   ],
   "sayaclar": {
-    "dogrudan": 52,
+    "dogrudan": 53,
     "kismi": 1,
     "desteksiz": 0,
     "olculemez": 0
