@@ -5,7 +5,7 @@
   "private": true,
   "description": "Turkce, kaynak-zorunlu, statik beseri bilimler bilgi atlasi",
   "engines": {
-    "node": ">=20"
+    "node": ">=22.20"
   },
   "scripts": {
     "dev": "astro dev",
